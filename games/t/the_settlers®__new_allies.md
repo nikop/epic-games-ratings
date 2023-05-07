@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_settlers®__new_allies.json)  
 Rating: 3.76 (Ranked 909)  
 ## Awards
-Max (Great for Beginners): 48  (Ranked 391)  
+Max (Great for Beginners): 48  (Ranked 392)  
 Sum: 140 (Ranked 379)  
-Diff (max vs sum): 12  
+Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 48 |

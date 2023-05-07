@@ -6,9 +6,9 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.67,
   "RatingHistory": [
     {
@@ -250,7 +250,7 @@
       "ID": "Devoted",
       "SetID": "2aagp3d",
       "Name": "Loremaster",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -354,9 +354,9 @@
       "ID": "MuhsroomTruth",
       "SetID": "2aagp3d",
       "Name": "The cycle acknowledged",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "NoMoreWards",
@@ -442,7 +442,7 @@
       "ID": "Webbed",
       "SetID": "2aagp3d",
       "Name": "Entangled",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -475,8 +475,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:06:56.9207377+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:28.0569203+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:13.2811944+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:59:15.1823509+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:06:56.9207617+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:59:04.2513248+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:28.0569443+00:00"
 }

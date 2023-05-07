@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.5,
   "RatingHistory": [
     {
@@ -272,9 +272,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -481,8 +481,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:15.2784761+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:43.8836928+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:32.8171839+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:58:25.6329868+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:15.2784988+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:58:21.6678717+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:43.8837137+00:00"
 }

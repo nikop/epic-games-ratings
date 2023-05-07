@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 46,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:48.5432446+00:00",
@@ -185,9 +185,9 @@
       "ID": "BP-17",
       "SetID": "7fc93f2",
       "Name": "Quack quack",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "BP-18",
@@ -210,8 +210,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:06:39.8784712+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:13.6062091+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:30.9661536+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:59:38.1042817+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:06:39.8784839+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:59:20.9847536+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:13.6062216+00:00"
 }

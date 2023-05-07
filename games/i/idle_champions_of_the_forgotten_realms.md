@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
+| Escort to Waterdeep | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
 | Maddening | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
@@ -74,7 +75,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~174 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
-| Escort to Waterdeep | 0.20% | ~174 |
 | The Giant's Bane Tavern | 0.20% | ~106 |
 | The Everlasting Rime | 0.20% | ~106 |
 | Close Escort | 0.20% | ~174 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,758 (Ranked 59)  
+Progressed: 86,767 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,758 | 1,810 |
+| 2023-05-07 | 86,767 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,826 (Ranked 37)  

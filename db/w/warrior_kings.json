@@ -3,9 +3,9 @@
   "Name": "Warrior Kings",
   "ProductSlug": "warrior-kings-d07850",
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:35.2702661+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.2702658+00:00",
   "LastChanged": "2023-03-31T05:57:35.2702659+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:11.2947932+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:59:13.4045842+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:04:07.3473474+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:59:02.7643564+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:04:25.911421+00:00"
 }

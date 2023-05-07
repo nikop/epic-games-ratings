@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.56,
   "NumberOfRatings": 524,
   "RatingHistory": [
@@ -498,10 +498,10 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46050,
+  "EOS_Progressed": 46052,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 129,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -1198,6 +1198,11 @@
       "Time": "2023-05-07T16:06:48.7302016+00:00",
       "NumProgressed": 46050,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-07T17:06:21.1170593+00:00",
+      "NumProgressed": 46052,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1217,7 +1222,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5986
+      "UsersEstimate": 5987
     },
     {
       "ID": "03",
@@ -1249,7 +1254,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4144
+      "UsersEstimate": 4145
     },
     {
       "ID": "07",
@@ -1281,7 +1286,7 @@
       "Name": "Medical Opinions",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "11",
@@ -1329,7 +1334,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "17",
@@ -1385,7 +1390,7 @@
       "Name": "Taken Season",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "24",
@@ -1401,7 +1406,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "26",
@@ -1449,7 +1454,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4144
+      "UsersEstimate": 4145
     },
     {
       "ID": "32",
@@ -1505,7 +1510,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "39",
@@ -1521,7 +1526,7 @@
       "Name": "Right of Way",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "41",
@@ -1529,7 +1534,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4144
+      "UsersEstimate": 4145
     },
     {
       "ID": "42",
@@ -1545,7 +1550,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4144
+      "UsersEstimate": 4145
     },
     {
       "ID": "44",
@@ -1593,7 +1598,7 @@
       "Name": "Couch Potato",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "50",
@@ -1609,7 +1614,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "52",
@@ -1744,21 +1749,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46050,
+      "Progressed": 46052,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9518,
+      "Progressed": 9520,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:06:48.7302009+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:21.1170588+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:58:58.1400138+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:06:48.7302726+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:58:49.4942285+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:21.1171295+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.67,
   "NumberOfRatings": 398,
   "RatingHistory": [
@@ -832,7 +832,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2719,
+  "EOS_Progressed": 2720,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -1632,6 +1632,11 @@
       "Time": "2023-05-07T15:06:52.7369121+00:00",
       "NumProgressed": 2719,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T17:06:53.8186422+00:00",
+      "NumProgressed": 2720,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1699,7 +1704,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -1747,7 +1752,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -1795,7 +1800,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -1915,7 +1920,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -1962,15 +1967,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2719,
+      "Progressed": 2720,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-05T17:04:08.8018054+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:27.2378176+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:53.8186415+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:01:59.9219769+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:27.2378526+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:01:13.4523147+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:53.8186753+00:00"
 }

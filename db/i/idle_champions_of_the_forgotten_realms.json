@@ -3572,10 +3572,10 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86758,
+  "EOS_Progressed": 86767,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 716,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 719,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -4976,6 +4976,11 @@
     {
       "Time": "2023-05-07T16:07:33.7275763+00:00",
       "NumProgressed": 86758,
+      "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T17:06:58.996238+00:00",
+      "NumProgressed": 86767,
       "NumCompleted": 1810
     }
   ],
@@ -8058,9 +8063,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_completed_690",
@@ -8899,21 +8904,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53032,
+      "Progressed": 53041,
       "Completed": 2474
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86758,
+      "Progressed": 86767,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-07T13:01:58.3397221+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:33.7275758+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:58.9962376+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:59:24.5808392+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:33.7302227+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:59:11.2327454+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:58.9985416+00:00"
 }

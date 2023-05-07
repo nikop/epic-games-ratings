@@ -2,13 +2,13 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 777,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.25,
   "NumberOfRatings": 34,
   "RatingHistory": [
@@ -126,9 +126,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13854,
+  "EOS_Progressed": 13855,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1231,6 +1231,11 @@
       "Time": "2023-05-07T16:07:27.4169987+00:00",
       "NumProgressed": 13854,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-07T17:06:53.4946366+00:00",
+      "NumProgressed": 13855,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 14,
@@ -1258,7 +1263,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -1306,7 +1311,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -1353,15 +1358,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13854,
+      "Progressed": 13855,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:27.4169981+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:53.4946361+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:28.2137622+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:02:14.2392948+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:27.4170175+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:01:27.4046796+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:53.4946522+00:00"
 }

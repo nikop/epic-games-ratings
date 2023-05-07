@@ -1,51 +1,51 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.41 (Ranked 651)  
+Rating: 4.42 (Ranked 642)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~643,141 |
-| The ABCs | 43.00% | ~564,389 |
-| Home Run | 42.00% | ~551,264 |
-| Keeps Coming Off | 40.00% | ~525,013 |
-| Guts | 20.00% | ~262,507 |
-| Meat Grinder | 20.00% | ~262,507 |
-| Burning Man | 16.00% | ~210,005 |
-| Lived to Tell the Tale | 12.00% | ~157,504 |
-| Highlander | 10.00% | ~131,253 |
-| Unstoppable | 10.00% | ~131,253 |
-| Just a Scratch | 9.00% | ~118,128 |
-| Tough Nut to Crack | 5.00% | ~65,627 |
-| Yoink | 5.00% | ~65,627 |
-| Long List of Names | 3.00% | ~39,376 |
-| Pyromaniac | 3.00% | ~39,376 |
-| The Queen of Weapons | 3.00% | ~39,376 |
-| This isn’t Sparta | 2.00% | ~26,251 |
-| Poacher | 2.00% | ~26,251 |
-| You’re Welcome | 2.00% | ~26,251 |
-| Crybaby | 1.00% | ~13,125 |
-| Eagle Eye | 1.00% | ~13,125 |
-| I Know Kung Fu | 1.00% | ~13,125 |
-| Put That Away | 1.00% | ~13,125 |
-| Coming Through | 0.70% | ~9,188 |
-| Training Accident | 0.60% | ~7,875 |
-| Chambermaid | 0.50% | ~6,563 |
-| Virtuoso | 0.50% | ~6,563 |
-| Boxer | 0.40% | ~5,250 |
-| Rock’n’Roll | 0.40% | ~5,250 |
-| Whack-A-Mole | 0.30% | ~3,938 |
-| Flyswatter | 0.20% | ~2,625 |
-| Friend Indeed | 0.20% | ~2,625 |
-| Vlad the Impaler | 0.20% | ~2,625 |
+| Justice from the Grave | 49.00% | ~643,321 |
+| The ABCs | 43.00% | ~564,547 |
+| Home Run | 42.00% | ~551,418 |
+| Keeps Coming Off | 40.00% | ~525,160 |
+| Guts | 20.00% | ~262,580 |
+| Meat Grinder | 20.00% | ~262,580 |
+| Burning Man | 16.00% | ~210,064 |
+| Lived to Tell the Tale | 12.00% | ~157,548 |
+| Highlander | 10.00% | ~131,290 |
+| Unstoppable | 10.00% | ~131,290 |
+| Just a Scratch | 9.00% | ~118,161 |
+| Tough Nut to Crack | 5.00% | ~65,645 |
+| Yoink | 5.00% | ~65,645 |
+| Long List of Names | 3.00% | ~39,387 |
+| Pyromaniac | 3.00% | ~39,387 |
+| The Queen of Weapons | 3.00% | ~39,387 |
+| This isn’t Sparta | 2.00% | ~26,258 |
+| Poacher | 2.00% | ~26,258 |
+| You’re Welcome | 2.00% | ~26,258 |
+| Crybaby | 1.00% | ~13,129 |
+| Eagle Eye | 1.00% | ~13,129 |
+| I Know Kung Fu | 1.00% | ~13,129 |
+| Put That Away | 1.00% | ~13,129 |
+| Coming Through | 0.70% | ~9,190 |
+| Training Accident | 0.60% | ~7,877 |
+| Chambermaid | 0.50% | ~6,564 |
+| Virtuoso | 0.50% | ~6,564 |
+| Boxer | 0.40% | ~5,252 |
+| Rock’n’Roll | 0.40% | ~5,252 |
+| Whack-A-Mole | 0.30% | ~3,939 |
+| Flyswatter | 0.20% | ~2,626 |
+| Friend Indeed | 0.20% | ~2,626 |
+| Vlad the Impaler | 0.20% | ~2,626 |
 | Clobbered | 0.10% | ~1,313 |
 | Ended Rightly | 0.10% | ~1,313 |
 | Living Sculpture | 0.10% | ~1,313 |
 | That’s No Ordinary Cold | 0.10% | ~1,313 |
 | Stairway to Hell | 0.10% | ~1,313 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,312,533 (Ranked 7)  
-Completed: 6 (0.00%) (Ranked 193)  
+Progressed: 1,312,899 (Ranked 7)  
+Completed: 7 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,16 +61,16 @@ Completed: 6 (0.00%) (Ranked 193)
 | 2023-05-04 | 1,295,838 | 6 |
 | 2023-05-05 | 1,301,477 | 6 |
 | 2023-05-06 | 1,308,010 | 6 |
-| 2023-05-07 | 1,312,533 | 6 |
+| 2023-05-07 | 1,312,899 | 7 |
 ## Awards
-Max (Highly Recommended): 69  (Ranked 362)  
-Sum: 361 (Ranked 309)  
-Diff (max vs sum): 53  
+Max (Highly Recommended): 71  (Ranked 359)  
+Sum: 369 (Ranked 309)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 69 |
+| This game is Highly Recommended | 71 |
 | This game has Challenging Combat | 67 |
-| This game has Diverse Characters | 60 |
+| This game has Diverse Characters | 66 |
 | This game has Competitive Players | 57 |
 | This game is Extremely Fun | 55 |
 | This game has Amazing Characters | 53 |
@@ -101,4 +101,4 @@ Diff (max vs sum): 53
 | 2023-05-04 | 4.41 | 59 | 309 |
 | 2023-05-05 | 4.41 | 66 | 330 |
 | 2023-05-06 | 4.41 | 69 | 353 |
-| 2023-05-07 | 4.41 | 69 | 361 |
+| 2023-05-07 | 4.42 | 71 | 369 |

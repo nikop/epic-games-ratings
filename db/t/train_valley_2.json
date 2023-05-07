@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.15,
   "NumberOfRatings": 87,
   "RatingHistory": [
@@ -613,9 +613,9 @@
       "ID": "AchievementMetroBuilder",
       "SetID": "76o014g",
       "Name": "Metro builder",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchievementMiner_NAME",
@@ -733,9 +733,9 @@
       "ID": "AchievementSpaceAge",
       "SetID": "76o014g",
       "Name": "Space Age",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AchievementSquander",
@@ -899,8 +899,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:06:51.6598905+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:23.607606+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:48.9399661+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:58:46.5186428+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:06:51.6599678+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:58:39.7928361+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:23.607685+00:00"
 }

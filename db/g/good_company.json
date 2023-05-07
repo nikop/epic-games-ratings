@@ -2,13 +2,13 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 636,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.43,
   "NumberOfRatings": 75,
   "RatingHistory": [
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4716,
+  "EOS_Progressed": 4717,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -438,6 +438,11 @@
       "Time": "2023-05-07T13:09:51.8010108+00:00",
       "NumProgressed": 4716,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T17:06:38.6780294+00:00",
+      "NumProgressed": 4717,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -481,7 +486,7 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_campaign_chapter2",
@@ -545,7 +550,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_campaign_progress4",
@@ -559,9 +564,9 @@
       "ID": "ach_campaign_progress5",
       "SetID": "8cb3id7",
       "Name": "Level: Returning Home",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2358
     },
     {
       "ID": "ach_campaign_progress6",
@@ -569,7 +574,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ach_campaign_progress7",
@@ -817,7 +822,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -833,7 +838,7 @@
       "Name": "Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ach_frp_many_products2",
@@ -1056,15 +1061,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4716,
+      "Progressed": 4717,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:09.178816+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:38.6780287+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.697112+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:00:32.3227026+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:09.178898+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:00:11.3706362+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:38.6781135+00:00"
 }

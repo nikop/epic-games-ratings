@@ -1,29 +1,29 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 635)  
+Rating: 4.43 (Ranked 636)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,230 |
-| This is only the beginning | 19.00% | ~39,695 |
-| Knowledge is power | 12.00% | ~25,070 |
+| No aid from the Omnissiah | 25.00% | ~52,232 |
+| This is only the beginning | 19.00% | ~39,696 |
+| Knowledge is power | 12.00% | ~25,071 |
 | Power Ranger | 9.00% | ~18,803 |
 | Galvanic Rifle | 9.00% | ~18,803 |
 | Taser Goad | 9.00% | ~18,803 |
 | Radium Ready | 9.00% | ~18,803 |
 | Half a cog | 9.00% | ~18,803 |
-| Watch them crumble | 6.00% | ~12,535 |
+| Watch them crumble | 6.00% | ~12,536 |
 | Competent Cohort | 4.00% | ~8,357 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,357 |
 | One with the Machine | 4.00% | ~8,357 |
 | Legio Cybernetica | 3.00% | ~6,268 |
 | Fleshy Disposal | 3.00% | ~6,268 |
-| Battle Servitor | 2.00% | ~4,178 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,178 |
-| Impatient destruction | 2.00% | ~4,178 |
-| Vivisected Vizier | 2.00% | ~4,178 |
-| Architect Abortion | 2.00% | ~4,178 |
+| Battle Servitor | 2.00% | ~4,179 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,179 |
+| Impatient destruction | 2.00% | ~4,179 |
+| Vivisected Vizier | 2.00% | ~4,179 |
+| Architect Abortion | 2.00% | ~4,179 |
 | Cohortus Maximus | 0.70% | ~1,462 |
 | Mother of Xenarites | 0.40% | ~836 |
 | False God | 0.30% | ~627 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 635)
 | Perma-live | 0.10% | ~209 |
 | Purge the Heretek | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,919 (Ranked 47)  
-Completed: 2 (0.00%) (Ranked 193)  
+Progressed: 208,926 (Ranked 47)  
+Completed: 2 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,7 +57,7 @@ Completed: 2 (0.00%) (Ranked 193)
 | 2023-05-04 | 208,520 | 2 |
 | 2023-05-05 | 208,668 | 2 |
 | 2023-05-06 | 208,820 | 2 |
-| 2023-05-07 | 208,919 | 2 |
+| 2023-05-07 | 208,926 | 2 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 226)  
 Sum: 2,091 (Ranked 181)  

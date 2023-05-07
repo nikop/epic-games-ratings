@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 72,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.81,
   "NumberOfRatings": 1845,
   "RatingHistory": [
@@ -2222,7 +2222,7 @@
   ],
   "EOS_Progressed": 14695,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3127,9 +3127,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     },
     {
       "ID": "WinHard",
@@ -3447,8 +3447,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-07T10:02:06.6238058+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:24.8124807+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:51.5745853+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:01:45.9647013+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:24.812535+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:01:02.7222337+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:51.5746308+00:00"
 }

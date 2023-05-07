@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:32.6657403+00:00",
@@ -18,7 +18,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -203,6 +203,11 @@
       "Time": "2023-05-07T02:12:08.6828904+00:00",
       "NumProgressed": 399,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-07T17:06:24.5340763+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -254,7 +259,7 @@
       "Name": "A Friend in Need",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "TROP006",
@@ -278,7 +283,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "TROP009",
@@ -437,7 +442,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 2
     }
   ],
@@ -445,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:06:52.6508477+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:24.5340758+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.2720702+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:00:23.8008697+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:06:52.6508711+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:00:03.1486449+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:24.5340975+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.58,
   "NumberOfRatings": 371,
   "RatingHistory": [
@@ -490,9 +490,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2582,
+  "EOS_Progressed": 2583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -690,6 +690,11 @@
       "Time": "2023-05-07T16:07:04.3363743+00:00",
       "NumProgressed": 2582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T17:06:34.5332568+00:00",
+      "NumProgressed": 2583,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -797,7 +802,7 @@
       "Name": "Surgical Excision",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -869,7 +874,7 @@
       "Name": "Not So Fast...",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Kills_Bleed",
@@ -933,7 +938,7 @@
       "Name": "Purging Spree",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "Kills_Vakir",
@@ -947,9 +952,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 646
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1037,7 +1042,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1172,21 +1177,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2582,
+      "Progressed": 2583,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2582,
+      "Progressed": 2583,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-04T02:58:02.1888836+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:04.3363737+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:34.5332563+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.7346834+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:00:07.5983093+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:04.3364285+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:59:46.6614209+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:34.5333155+00:00"
 }

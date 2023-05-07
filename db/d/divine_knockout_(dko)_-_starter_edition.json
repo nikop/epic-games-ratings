@@ -3,12 +3,12 @@
   "Name": "Divine Knockout (DKO) - Starter Edition",
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 714,
-  "Ranking_Popularity": 391,
+  "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.35,
   "NumberOfRatings": 60,
   "RatingHistory": [
@@ -642,18 +642,24 @@
       "Rating": 4.35,
       "NumberOfAwards": 426,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-05-07T17:00:54.5968164+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 427,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 426,
-  "NumberOfAwardsMax": 48,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 427,
+  "NumberOfAwardsMax": 49,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -739,8 +745,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-05-03T23:00:42.2954028+00:00",
+  "LastChanged": "2023-05-07T17:00:54.5968162+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:55.5947003+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:01:30.9786164+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:05:38.5999418+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:00:54.5968169+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:05:22.9995475+00:00"
 }

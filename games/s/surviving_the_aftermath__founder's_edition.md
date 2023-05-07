@@ -6,13 +6,13 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,452 |
+| First Step | 69.00% | ~3,453 |
 | Leader | 60.00% | ~3,002 |
 | Explorer | 53.00% | ~2,652 |
 | Healer | 53.00% | ~2,652 |
-| Aspiring Inventor | 45.00% | ~2,251 |
-| Adventurer | 41.00% | ~2,051 |
-| Famous Healer | 38.00% | ~1,901 |
+| Aspiring Inventor | 45.00% | ~2,252 |
+| Adventurer | 41.00% | ~2,052 |
+| Famous Healer | 38.00% | ~1,902 |
 | Local Leader | 35.00% | ~1,751 |
 | New Opportunities | 34.00% | ~1,701 |
 | Famous Explorer | 33.00% | ~1,651 |
@@ -32,12 +32,12 @@ Number of Ratings: 836  (23.09.2022)
 | Real Survivor | 21.00% | ~1,051 |
 | War Never Changes | 19.00% | ~951 |
 | Rocket Surgeon | 19.00% | ~951 |
-| Friendly | 16.00% | ~800 |
-| Big Game Hunter | 16.00% | ~800 |
-| Around the World | 15.00% | ~750 |
-| Spreading Influence | 15.00% | ~750 |
-| Bookworm | 14.00% | ~700 |
-| Famous Adventurer | 13.00% | ~650 |
+| Friendly | 16.00% | ~801 |
+| Big Game Hunter | 16.00% | ~801 |
+| Around the World | 15.00% | ~751 |
+| Spreading Influence | 15.00% | ~751 |
+| Bookworm | 14.00% | ~701 |
+| Famous Adventurer | 13.00% | ~651 |
 | Prepared for Anything | 12.00% | ~600 |
 | Big Catastrofan | 12.00% | ~600 |
 | It's a Finnish Thing | 10.00% | ~500 |
@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,003 (Ranked 120)  
-Completed: 0 (0.00%) (Ranked 193)  
+Progressed: 5,004 (Ranked 120)  
+Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-04 | 4,882 | 0 |
 | 2023-05-05 | 4,912 | 0 |
 | 2023-05-06 | 4,969 | 0 |
-| 2023-05-07 | 5,003 | 0 |
+| 2023-05-07 | 5,004 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 322)  
 Sum: 651 (Ranked 267)  

@@ -4,8 +4,8 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 52,
   "RatingHistory": [
     {
       "Time": "2023-04-12T21:57:08.1785831+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 138,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.52,
   "EosHistory": [
@@ -226,9 +226,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "MQ03_4",
@@ -362,9 +362,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "MQ08_3",
@@ -395,8 +395,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:06:45.3102019+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:18.2679967+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:58:33.9687466+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:06:45.3102239+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:58:28.7824464+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:18.2680175+00:00"
 }

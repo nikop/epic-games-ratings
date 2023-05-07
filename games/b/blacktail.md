@@ -20,9 +20,9 @@ Rating: 4.67 (Ranked 256)
 | Fishing fanatic | 4.00% | ~13 |
 | The word around is... | 4.00% | ~13 |
 | Liar Liar | 4.00% | ~13 |
+| The cycle acknowledged | 4.00% | ~13 |
 | Baba Yaga | 4.00% | ~13 |
 | Extensive retelling | 3.00% | ~10 |
-| The cycle acknowledged | 3.00% | ~10 |
 | Queen | 3.00% | ~10 |
 | Specialist | 3.00% | ~10 |
 | Witch's cookbook | 3.00% | ~10 |
@@ -31,15 +31,15 @@ Rating: 4.67 (Ranked 256)
 | Both sides | 2.00% | ~6 |
 | Always worth a try | 2.00% | ~6 |
 | Toxic | 2.00% | ~6 |
+| Loremaster | 1.00% | ~3 |
+| Entangled | 1.00% | ~3 |
 | Bad apple | 0.90% | ~3 |
-| Loremaster | 0.90% | ~3 |
 | Awards unwarded | 0.90% | ~3 |
-| Entangled | 0.90% | ~3 |
 | Mushrooming enthusiast | 0.30% | ~1 |
 | Apex predator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 324 (Ranked 203)  
-Completed: 0 (0.00%) (Ranked 193)  
+Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 39,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Rating": 4.45,
   "RatingHistory": [
     {
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248052,
+  "EOS_Progressed": 248062,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1758,6 +1758,11 @@
       "Time": "2023-05-07T16:07:28.848472+00:00",
       "NumProgressed": 248052,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T17:06:54.8950858+00:00",
+      "NumProgressed": 248062,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -1817,7 +1822,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76896
+      "UsersEstimate": 76899
     },
     {
       "ID": "BackHomeNTimes",
@@ -1873,7 +1878,7 @@
       "Name": "Fixer I",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22325
+      "UsersEstimate": 22326
     },
     {
       "ID": "CreditLevel2",
@@ -1969,7 +1974,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14883
+      "UsersEstimate": 14884
     },
     {
       "ID": "GrowPlants2",
@@ -2057,7 +2062,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52091
+      "UsersEstimate": 52093
     },
     {
       "ID": "KillOthers2",
@@ -2161,7 +2166,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24805
+      "UsersEstimate": 24806
     },
     {
       "ID": "ReachNDays2",
@@ -2216,7 +2221,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248052,
+      "Progressed": 248062,
       "Completed": 1
     }
   ],
@@ -2224,8 +2229,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-07T06:01:52.5085955+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:28.8484712+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:54.8950855+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:02:02.6861766+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:28.8485323+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:01:15.9184424+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:54.8951406+00:00"
 }

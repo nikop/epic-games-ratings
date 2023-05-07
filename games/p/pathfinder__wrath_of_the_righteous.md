@@ -7,18 +7,19 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 12.00% | ~1,042 |
-| A Spark | 9.00% | ~781 |
-| Burning City | 8.00% | ~694 |
+| A Spark | 9.00% | ~782 |
+| Burning City | 8.00% | ~695 |
 | Banner over the Citadel | 7.00% | ~608 |
 | Mythic Choices | 7.00% | ~608 |
 | Defender's Heart | 7.00% | ~608 |
 | Queen's Gratitude | 6.00% | ~521 |
 | Fifth Crusade | 4.00% | ~347 |
-| Embrace of the Abyss | 3.00% | ~260 |
-| Path of the Angel | 3.00% | ~260 |
-| Great Upstart | 3.00% | ~260 |
-| All Paths Open | 3.00% | ~260 |
-| Demonic and Divine | 3.00% | ~260 |
+| Embrace of the Abyss | 3.00% | ~261 |
+| Path of the Angel | 3.00% | ~261 |
+| Great Upstart | 3.00% | ~261 |
+| All Paths Open | 3.00% | ~261 |
+| Demonic and Divine | 3.00% | ~261 |
+| Heart of the Fallen Land | 2.00% | ~174 |
 | Path of the Azata | 2.00% | ~174 |
 | Transformation | 2.00% | ~174 |
 | The Legacy | 2.00% | ~174 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Get the Toad | 2.00% | ~174 |
 | The Lady of the Forest | 2.00% | ~149 |
 | Beware Still Water | 2.00% | ~149 |
-| Heart of the Fallen Land | 1.00% | ~87 |
 | Path of the Trickster | 1.00% | ~87 |
 | Path of the Lich | 1.00% | ~87 |
 | Heroic Victory | 1.00% | ~87 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,681 (Ranked 108)  
-Completed: 0 (0.00%) (Ranked 193)  
+Progressed: 8,684 (Ranked 108)  
+Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-04 | 8,627 | 0 |
 | 2023-05-05 | 8,646 | 0 |
 | 2023-05-06 | 8,667 | 0 |
-| 2023-05-07 | 8,681 | 0 |
+| 2023-05-07 | 8,684 | 0 |
 ## Awards
 Max (Character Customization): 1,626  (Ranked 111)  
 Sum: 6,588 (Ranked 108)  

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~379 |
-| A Friend in Need | 59.00% | ~235 |
+| Home Sweet Home | 95.00% | ~380 |
+| A Friend in Need | 59.00% | ~236 |
 | Surviving | 42.00% | ~168 |
 | Never Give Up | 38.00% | ~152 |
 | Detox diet | 38.00% | ~152 |
@@ -33,7 +33,7 @@
 | Omnivore | 2.00% | ~8 |
 | Endling | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 192)  
+Progressed: 400 (Ranked 192)  
 Completed: 2 (0.50%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 2 (0.50%) (Ranked 98)
 | 2023-05-03 | 394 | 2 |
 | 2023-05-04 | 396 | 2 |
 | 2023-05-06 | 398 | 2 |
-| 2023-05-07 | 399 | 2 |
+| 2023-05-07 | 400 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

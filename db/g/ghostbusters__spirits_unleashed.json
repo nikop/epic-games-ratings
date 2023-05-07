@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.49,
   "RatingHistory": [
     {
@@ -826,10 +826,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2045,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2023-05-07T17:00:03.6731721+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2046,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2045,
+  "NumberOfAwards": 2046,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -861,7 +867,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 204
+      "Count": 205
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -906,9 +912,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21596,
+  "EOS_Progressed": 21597,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -2056,6 +2062,11 @@
       "Time": "2023-05-07T16:07:04.7765081+00:00",
       "NumProgressed": 21596,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-07T17:06:35.114698+00:00",
+      "NumProgressed": 21597,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -2067,7 +2078,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 15981
+      "UsersEstimate": 15982
     },
     {
       "ID": "Animated",
@@ -2107,7 +2118,7 @@
       "Name": "Clutch Capture",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9070
+      "UsersEstimate": 9071
     },
     {
       "ID": "Collect_Spores",
@@ -2147,7 +2158,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3456
     },
     {
       "ID": "Discovery",
@@ -2155,7 +2166,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13605
+      "UsersEstimate": 13606
     },
     {
       "ID": "Dont_Need_These",
@@ -2179,7 +2190,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 14037
+      "UsersEstimate": 14038
     },
     {
       "ID": "Escape_Artist",
@@ -2187,7 +2198,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3456
     },
     {
       "ID": "Fragile_Panes",
@@ -2331,15 +2342,15 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3456
     },
     {
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6263
     },
     {
       "ID": "Skilled",
@@ -2403,7 +2414,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9718
+      "UsersEstimate": 9719
     },
     {
       "ID": "Terrifying",
@@ -2427,7 +2438,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9502
+      "UsersEstimate": 9503
     },
     {
       "ID": "Tobins_Prodigy",
@@ -2451,7 +2462,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10582
+      "UsersEstimate": 10583
     },
     {
       "ID": "Welcome_Crew",
@@ -2474,16 +2485,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21596,
+      "Progressed": 21597,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-05-07T16:00:24.6626843+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:04.7765072+00:00",
+  "LastChanged": "2023-05-07T17:00:03.6731719+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:35.1146975+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.5642365+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:00:24.6626849+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:04.7765598+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:00:03.6731727+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:35.1147509+00:00"
 }

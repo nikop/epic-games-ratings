@@ -3,9 +3,9 @@
   "Name": "Without Escape",
   "ProductSlug": "without-escape-c00993",
   "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -106,8 +106,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:11.7096726+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:40.7444548+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:42.5304327+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:01:13.7320025+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:11.7096808+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:00:40.7865107+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:40.7444626+00:00"
 }

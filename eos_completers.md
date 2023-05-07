@@ -15,16 +15,16 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.61% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.60% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
+| 19 | [Scorn](games/s/scorn.md) | 7.12% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.52% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
-| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 4.98% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 5.18% |
+| 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
@@ -186,200 +186,200 @@
 | 184 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 184 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 184 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 184 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
 | 184 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
 | 184 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
 | 184 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
 | 184 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
 | 184 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 193 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
-| 193 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
-| 193 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
-| 193 | [Afterglitch](games/a/afterglitch.md) | 0.00% |
-| 193 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 0.00% |
-| 193 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
-| 193 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
-| 193 | [Arcade Paradise](games/a/arcade_paradise.md) | 0.00% |
-| 193 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.00% |
-| 193 | [ArcRunner](games/a/arcrunner.md) | 0.00% |
-| 193 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 0.00% |
-| 193 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 0.00% |
-| 193 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | 0.00% |
-| 193 | [Atari Mania](games/a/atari_mania.md) | 0.00% |
-| 193 | [ATOM RPG](games/a/atom_rpg.md) | 0.00% |
-| 193 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
-| 193 | [Biped](games/b/biped.md) | 0.00% |
-| 193 | [BLACKTAIL](games/b/blacktail.md) | 0.00% |
-| 193 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 0.00% |
-| 193 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | 0.00% |
-| 193 | [BloodRayne: Terminal Cut](games/b/bloodrayne__terminal_cut.md) | 0.00% |
-| 193 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 0.00% |
-| 193 | [Bosorka](games/b/bosorka.md) | 0.00% |
-| 193 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 0.00% |
-| 193 | [BROK the InvestiGator](games/b/brok_the_investigator.md) | 0.00% |
-| 193 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 0.00% |
-| 193 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 0.00% |
-| 193 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 0.00% |
-| 193 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 0.00% |
-| 193 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 0.00% |
-| 193 | [Chess Ultra](games/c/chess_ultra.md) | 0.00% |
-| 193 | [Children of Silentown](games/c/children_of_silentown.md) | 0.00% |
-| 193 | [Cities: Skylines](games/c/cities__skylines.md) | 0.00% |
-| 193 | [City of Gangsters](games/c/city_of_gangsters.md) | 0.00% |
-| 193 | [Colossal Cave](games/c/colossal_cave.md) | 0.00% |
-| 193 | [Crayta](games/c/crayta.md) | 0.00% |
-| 193 | [Crimson Spires](games/c/crimson_spires.md) | 0.00% |
-| 193 | [Crying Suns](games/c/crying_suns.md) | 0.00% |
-| 193 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 0.00% |
-| 193 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 0.00% |
-| 193 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 0.00% |
-| 193 | [Deceive Inc.](games/d/deceive_inc..md) | 0.00% |
-| 193 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
-| 193 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.00% |
-| 193 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
-| 193 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.00% |
-| 193 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
-| 193 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 0.00% |
-| 193 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 0.00% |
-| 193 | [EBOLA 2](games/e/ebola_2.md) | 0.00% |
-| 193 | [EBOLA 3](games/e/ebola_3.md) | 0.00% |
-| 193 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 0.00% |
-| 193 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
-| 193 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
-| 193 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
-| 193 | [Faraday Protocol](games/f/faraday_protocol.md) | 0.00% |
-| 193 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
-| 193 | [Flat Heroes](games/f/flat_heroes.md) | 0.00% |
-| 193 | [Football Manager 2022](games/f/football_manager_2022.md) | 0.00% |
-| 193 | [Foretales](games/f/foretales.md) | 0.00% |
-| 193 | [Forklift Extreme - Deluxe Edition](games/f/forklift_extreme_-_deluxe_edition.md) | 0.00% |
-| 193 | [Forspoken](games/f/forspoken.md) | 0.00% |
-| 193 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.00% |
-| 193 | [FUR Squadron](games/f/fur_squadron.md) | 0.00% |
-| 193 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 0.00% |
-| 193 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 0.00% |
-| 193 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 0.00% |
-| 193 | [Garden In](games/g/garden_in.md) | 0.00% |
-| 193 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 0.00% |
-| 193 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 0.00% |
-| 193 | [Grim Nights](games/g/grim_nights.md) | 0.00% |
-| 193 | [GRIME](games/g/grime.md) | 0.00% |
-| 193 | [Gripper](games/g/gripper.md) | 0.00% |
-| 193 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 0.00% |
-| 193 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 0.00% |
-| 193 | [Hazel Sky](games/h/hazel_sky.md) | 0.00% |
-| 193 | [Heim](games/h/heim.md) | 0.00% |
-| 193 | [Hell is Others](games/h/hell_is_others.md) | 0.00% |
-| 193 | [House In The Hollow](games/h/house_in_the_hollow.md) | 0.00% |
-| 193 | [Hunt the Night](games/h/hunt_the_night.md) | 0.00% |
-| 193 | [Imagine Earth](games/i/imagine_earth.md) | 0.00% |
-| 193 | [Infindustry](games/i/infindustry.md) | 0.00% |
-| 193 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
-| 193 | [IXION](games/i/ixion.md) | 0.00% |
-| 193 | [JYDGE](games/j/jydge.md) | 0.00% |
-| 193 | [Kabaret](games/k/kabaret.md) | 0.00% |
-| 193 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
-| 193 | [Lifeslide](games/l/lifeslide.md) | 0.00% |
-| 193 | [LOOPMANCER](games/l/loopmancer.md) | 0.00% |
-| 193 | [Loretta](games/l/loretta.md) | 0.00% |
-| 193 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.00% |
-| 193 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |
-| 193 | [Maid of Sker](games/m/maid_of_sker.md) | 0.00% |
-| 193 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 0.00% |
-| 193 | [Model Builder](games/m/model_builder.md) | 0.00% |
-| 193 | [Monorail Stories](games/m/monorail_stories.md) | 0.00% |
-| 193 | [Monster Outbreak](games/m/monster_outbreak.md) | 0.00% |
-| 193 | [Moonglow Bay](games/m/moonglow_bay.md) | 0.00% |
-| 193 | [MORDHAU](games/m/mordhau.md) | 0.00% |
-| 193 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 0.00% |
-| 193 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 0.00% |
-| 193 | [My Lovely Wife](games/m/my_lovely_wife.md) | 0.00% |
-| 193 | [NeuroNet: Mendax Proxy](games/n/neuronet__mendax_proxy.md) | 0.00% |
-| 193 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 0.00% |
-| 193 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 0.00% |
-| 193 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
-| 193 | [One Hand Clapping](games/o/one_hand_clapping.md) | 0.00% |
-| 193 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
-| 193 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.00% |
-| 193 | [Panic Porcupine](games/p/panic_porcupine.md) | 0.00% |
-| 193 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
-| 193 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 0.00% |
-| 193 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
-| 193 | [PERISH](games/p/perish.md) | 0.00% |
-| 193 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |
-| 193 | [Pirates Outlaws](games/p/pirates_outlaws.md) | 0.00% |
-| 193 | [Poi](games/p/poi.md) | 0.00% |
-| 193 | [Poker Club](games/p/poker_club.md) | 0.00% |
-| 193 | [Poosh XL](games/p/poosh_xl.md) | 0.00% |
-| 193 | [Port Royale 4](games/p/port_royale_4.md) | 0.00% |
-| 193 | [Prison Architect](games/p/prison_architect.md) | 0.00% |
-| 193 | [Project Highrise](games/p/project_highrise.md) | 0.00% |
-| 193 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 0.00% |
-| 193 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.00% |
-| 193 | [Quest of Dungeons](games/q/quest_of_dungeons.md) | 0.00% |
-| 193 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
-| 193 | [Redfall](games/r/redfall.md) | 0.00% |
-| 193 | [Redout 2](games/r/redout_2.md) | 0.00% |
-| 193 | [Remains](games/r/remains.md) | 0.00% |
-| 193 | [Riftbound](games/r/riftbound.md) | 0.00% |
-| 193 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
-| 193 | [Road 96](games/r/road_96.md) | 0.00% |
-| 193 | [Roboplant](games/r/roboplant.md) | 0.00% |
-| 193 | [Rocco's Island](games/r/rocco's_island.md) | 0.00% |
-| 193 | [Rogue Spirit](games/r/rogue_spirit.md) | 0.00% |
-| 193 | [Runbow](games/r/runbow.md) | 0.00% |
-| 193 | [Saint Kotar](games/s/saint_kotar.md) | 0.00% |
-| 193 | [Saints Row](games/s/saints_row.md) | 0.00% |
-| 193 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.00% |
-| 193 | [Scrapnaut](games/s/scrapnaut.md) | 0.00% |
-| 193 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.00% |
-| 193 | [Seven Doors](games/s/seven_doors.md) | 0.00% |
-| 193 | [Shadow Gangs](games/s/shadow_gangs.md) | 0.00% |
-| 193 | [Shame Legacy](games/s/shame_legacy.md) | 0.00% |
-| 193 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 0.00% |
-| 193 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 0.00% |
-| 193 | [Shotgun Farmers](games/s/shotgun_farmers.md) | 0.00% |
-| 193 | [Showgunners](games/s/showgunners.md) | 0.00% |
-| 193 | [Silence](games/s/silence.md) | 0.00% |
-| 193 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
-| 193 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
-| 193 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
-| 193 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 0.00% |
-| 193 | [Stellar Interface](games/s/stellar_interface.md) | 0.00% |
-| 193 | [Strawhart](games/s/strawhart.md) | 0.00% |
-| 193 | [Stray Blade](games/s/stray_blade.md) | 0.00% |
-| 193 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.00% |
-| 193 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 0.00% |
-| 193 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
-| 193 | [Switchball HD](games/s/switchball_hd.md) | 0.00% |
-| 193 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 0.00% |
-| 193 | [Tales of the Orient: The Rising Sun](games/t/tales_of_the_orient__the_rising_sun.md) | 0.00% |
-| 193 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 0.00% |
-| 193 | [tERRORbane](games/t/terrorbane.md) | 0.00% |
-| 193 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
-| 193 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
-| 193 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
-| 193 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
-| 193 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
-| 193 | [The Tenants](games/t/the_tenants.md) | 0.00% |
-| 193 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 0.00% |
-| 193 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
-| 193 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.00% |
-| 193 | [Tower Princess](games/t/tower_princess.md) | 0.00% |
-| 193 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.00% |
-| 193 | [Troublemaker](games/t/troublemaker.md) | 0.00% |
-| 193 | [Undead Horde](games/u/undead_horde.md) | 0.00% |
-| 193 | [Unrailed!](games/u/unrailed!.md) | 0.00% |
-| 193 | [Urbek City Builder](games/u/urbek_city_builder.md) | 0.00% |
-| 193 | [Vagrus - The Riven Realms](games/v/vagrus_-_the_riven_realms.md) | 0.00% |
-| 193 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 0.00% |
-| 193 | [Verdun](games/v/verdun.md) | 0.00% |
-| 193 | [Voltaire: The Vegan Vampire](games/v/voltaire__the_vegan_vampire.md) | 0.00% |
-| 193 | [War Mongrels](games/w/war_mongrels.md) | 0.00% |
-| 193 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
-| 193 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
-| 193 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
-| 193 | [Without Escape](games/w/without_escape.md) | 0.00% |
-| 193 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
-| 193 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
+| 192 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
+| 192 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
+| 192 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
+| 192 | [Afterglitch](games/a/afterglitch.md) | 0.00% |
+| 192 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 0.00% |
+| 192 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
+| 192 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
+| 192 | [Arcade Paradise](games/a/arcade_paradise.md) | 0.00% |
+| 192 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.00% |
+| 192 | [ArcRunner](games/a/arcrunner.md) | 0.00% |
+| 192 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 0.00% |
+| 192 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 0.00% |
+| 192 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | 0.00% |
+| 192 | [Atari Mania](games/a/atari_mania.md) | 0.00% |
+| 192 | [ATOM RPG](games/a/atom_rpg.md) | 0.00% |
+| 192 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
+| 192 | [Biped](games/b/biped.md) | 0.00% |
+| 192 | [BLACKTAIL](games/b/blacktail.md) | 0.00% |
+| 192 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 0.00% |
+| 192 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | 0.00% |
+| 192 | [BloodRayne: Terminal Cut](games/b/bloodrayne__terminal_cut.md) | 0.00% |
+| 192 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 0.00% |
+| 192 | [Bosorka](games/b/bosorka.md) | 0.00% |
+| 192 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 0.00% |
+| 192 | [BROK the InvestiGator](games/b/brok_the_investigator.md) | 0.00% |
+| 192 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 0.00% |
+| 192 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 0.00% |
+| 192 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 0.00% |
+| 192 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 0.00% |
+| 192 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 0.00% |
+| 192 | [Chess Ultra](games/c/chess_ultra.md) | 0.00% |
+| 192 | [Children of Silentown](games/c/children_of_silentown.md) | 0.00% |
+| 192 | [Cities: Skylines](games/c/cities__skylines.md) | 0.00% |
+| 192 | [City of Gangsters](games/c/city_of_gangsters.md) | 0.00% |
+| 192 | [Colossal Cave](games/c/colossal_cave.md) | 0.00% |
+| 192 | [Crayta](games/c/crayta.md) | 0.00% |
+| 192 | [Crimson Spires](games/c/crimson_spires.md) | 0.00% |
+| 192 | [Crying Suns](games/c/crying_suns.md) | 0.00% |
+| 192 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 0.00% |
+| 192 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 0.00% |
+| 192 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 0.00% |
+| 192 | [Deceive Inc.](games/d/deceive_inc..md) | 0.00% |
+| 192 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
+| 192 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.00% |
+| 192 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
+| 192 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.00% |
+| 192 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
+| 192 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 0.00% |
+| 192 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 0.00% |
+| 192 | [EBOLA 2](games/e/ebola_2.md) | 0.00% |
+| 192 | [EBOLA 3](games/e/ebola_3.md) | 0.00% |
+| 192 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 0.00% |
+| 192 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
+| 192 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
+| 192 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
+| 192 | [Faraday Protocol](games/f/faraday_protocol.md) | 0.00% |
+| 192 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
+| 192 | [Flat Heroes](games/f/flat_heroes.md) | 0.00% |
+| 192 | [Football Manager 2022](games/f/football_manager_2022.md) | 0.00% |
+| 192 | [Foretales](games/f/foretales.md) | 0.00% |
+| 192 | [Forklift Extreme - Deluxe Edition](games/f/forklift_extreme_-_deluxe_edition.md) | 0.00% |
+| 192 | [Forspoken](games/f/forspoken.md) | 0.00% |
+| 192 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.00% |
+| 192 | [FUR Squadron](games/f/fur_squadron.md) | 0.00% |
+| 192 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 0.00% |
+| 192 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 0.00% |
+| 192 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 0.00% |
+| 192 | [Garden In](games/g/garden_in.md) | 0.00% |
+| 192 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 0.00% |
+| 192 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 0.00% |
+| 192 | [Grim Nights](games/g/grim_nights.md) | 0.00% |
+| 192 | [GRIME](games/g/grime.md) | 0.00% |
+| 192 | [Gripper](games/g/gripper.md) | 0.00% |
+| 192 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 0.00% |
+| 192 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 0.00% |
+| 192 | [Hazel Sky](games/h/hazel_sky.md) | 0.00% |
+| 192 | [Heim](games/h/heim.md) | 0.00% |
+| 192 | [Hell is Others](games/h/hell_is_others.md) | 0.00% |
+| 192 | [House In The Hollow](games/h/house_in_the_hollow.md) | 0.00% |
+| 192 | [Hunt the Night](games/h/hunt_the_night.md) | 0.00% |
+| 192 | [Imagine Earth](games/i/imagine_earth.md) | 0.00% |
+| 192 | [Infindustry](games/i/infindustry.md) | 0.00% |
+| 192 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
+| 192 | [IXION](games/i/ixion.md) | 0.00% |
+| 192 | [JYDGE](games/j/jydge.md) | 0.00% |
+| 192 | [Kabaret](games/k/kabaret.md) | 0.00% |
+| 192 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.00% |
+| 192 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
+| 192 | [Lifeslide](games/l/lifeslide.md) | 0.00% |
+| 192 | [LOOPMANCER](games/l/loopmancer.md) | 0.00% |
+| 192 | [Loretta](games/l/loretta.md) | 0.00% |
+| 192 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.00% |
+| 192 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |
+| 192 | [Maid of Sker](games/m/maid_of_sker.md) | 0.00% |
+| 192 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 0.00% |
+| 192 | [Model Builder](games/m/model_builder.md) | 0.00% |
+| 192 | [Monorail Stories](games/m/monorail_stories.md) | 0.00% |
+| 192 | [Monster Outbreak](games/m/monster_outbreak.md) | 0.00% |
+| 192 | [Moonglow Bay](games/m/moonglow_bay.md) | 0.00% |
+| 192 | [MORDHAU](games/m/mordhau.md) | 0.00% |
+| 192 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 0.00% |
+| 192 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 0.00% |
+| 192 | [My Lovely Wife](games/m/my_lovely_wife.md) | 0.00% |
+| 192 | [NeuroNet: Mendax Proxy](games/n/neuronet__mendax_proxy.md) | 0.00% |
+| 192 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 0.00% |
+| 192 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 0.00% |
+| 192 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
+| 192 | [One Hand Clapping](games/o/one_hand_clapping.md) | 0.00% |
+| 192 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
+| 192 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.00% |
+| 192 | [Panic Porcupine](games/p/panic_porcupine.md) | 0.00% |
+| 192 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
+| 192 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 0.00% |
+| 192 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
+| 192 | [PERISH](games/p/perish.md) | 0.00% |
+| 192 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |
+| 192 | [Pirates Outlaws](games/p/pirates_outlaws.md) | 0.00% |
+| 192 | [Poi](games/p/poi.md) | 0.00% |
+| 192 | [Poker Club](games/p/poker_club.md) | 0.00% |
+| 192 | [Poosh XL](games/p/poosh_xl.md) | 0.00% |
+| 192 | [Port Royale 4](games/p/port_royale_4.md) | 0.00% |
+| 192 | [Prison Architect](games/p/prison_architect.md) | 0.00% |
+| 192 | [Project Highrise](games/p/project_highrise.md) | 0.00% |
+| 192 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 0.00% |
+| 192 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.00% |
+| 192 | [Quest of Dungeons](games/q/quest_of_dungeons.md) | 0.00% |
+| 192 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
+| 192 | [Redfall](games/r/redfall.md) | 0.00% |
+| 192 | [Redout 2](games/r/redout_2.md) | 0.00% |
+| 192 | [Remains](games/r/remains.md) | 0.00% |
+| 192 | [Riftbound](games/r/riftbound.md) | 0.00% |
+| 192 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
+| 192 | [Road 96](games/r/road_96.md) | 0.00% |
+| 192 | [Roboplant](games/r/roboplant.md) | 0.00% |
+| 192 | [Rocco's Island](games/r/rocco's_island.md) | 0.00% |
+| 192 | [Rogue Spirit](games/r/rogue_spirit.md) | 0.00% |
+| 192 | [Runbow](games/r/runbow.md) | 0.00% |
+| 192 | [Saint Kotar](games/s/saint_kotar.md) | 0.00% |
+| 192 | [Saints Row](games/s/saints_row.md) | 0.00% |
+| 192 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.00% |
+| 192 | [Scrapnaut](games/s/scrapnaut.md) | 0.00% |
+| 192 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.00% |
+| 192 | [Seven Doors](games/s/seven_doors.md) | 0.00% |
+| 192 | [Shadow Gangs](games/s/shadow_gangs.md) | 0.00% |
+| 192 | [Shame Legacy](games/s/shame_legacy.md) | 0.00% |
+| 192 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 0.00% |
+| 192 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 0.00% |
+| 192 | [Shotgun Farmers](games/s/shotgun_farmers.md) | 0.00% |
+| 192 | [Showgunners](games/s/showgunners.md) | 0.00% |
+| 192 | [Silence](games/s/silence.md) | 0.00% |
+| 192 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
+| 192 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
+| 192 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
+| 192 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 0.00% |
+| 192 | [Stellar Interface](games/s/stellar_interface.md) | 0.00% |
+| 192 | [Strawhart](games/s/strawhart.md) | 0.00% |
+| 192 | [Stray Blade](games/s/stray_blade.md) | 0.00% |
+| 192 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.00% |
+| 192 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 0.00% |
+| 192 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
+| 192 | [Switchball HD](games/s/switchball_hd.md) | 0.00% |
+| 192 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 0.00% |
+| 192 | [Tales of the Orient: The Rising Sun](games/t/tales_of_the_orient__the_rising_sun.md) | 0.00% |
+| 192 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 0.00% |
+| 192 | [tERRORbane](games/t/terrorbane.md) | 0.00% |
+| 192 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
+| 192 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
+| 192 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
+| 192 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
+| 192 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
+| 192 | [The Tenants](games/t/the_tenants.md) | 0.00% |
+| 192 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 0.00% |
+| 192 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
+| 192 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.00% |
+| 192 | [Tower Princess](games/t/tower_princess.md) | 0.00% |
+| 192 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.00% |
+| 192 | [Troublemaker](games/t/troublemaker.md) | 0.00% |
+| 192 | [Undead Horde](games/u/undead_horde.md) | 0.00% |
+| 192 | [Unrailed!](games/u/unrailed!.md) | 0.00% |
+| 192 | [Urbek City Builder](games/u/urbek_city_builder.md) | 0.00% |
+| 192 | [Vagrus - The Riven Realms](games/v/vagrus_-_the_riven_realms.md) | 0.00% |
+| 192 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 0.00% |
+| 192 | [Verdun](games/v/verdun.md) | 0.00% |
+| 192 | [Voltaire: The Vegan Vampire](games/v/voltaire__the_vegan_vampire.md) | 0.00% |
+| 192 | [War Mongrels](games/w/war_mongrels.md) | 0.00% |
+| 192 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
+| 192 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
+| 192 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
+| 192 | [Without Escape](games/w/without_escape.md) | 0.00% |
+| 192 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
+| 192 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 2,565 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -63,18 +63,18 @@ Number of Ratings: 87  (23.09.2022)
 | Railroad tycoon | 0.60% | ~4 |
 | Vostok | 0.60% | ~0 |
 | BBQ | 0.40% | ~3 |
+| Space Age | 0.40% | ~3 |
 | Will work | 0.40% | ~3 |
 | Woodcutter | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Astrochemist | 0.30% | ~0 |
-| Space Age | 0.30% | ~2 |
+| Metro builder | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Voyager | 0.30% | ~2 |
 | Arcturus | 0.10% | ~0 |
 | Astrophysicist | 0.10% | ~1 |
 | Highlander | 0.10% | ~1 |
 | It's no coincidence | 0.10% | ~1 |
-| Metro builder | 0.10% | ~1 |
 | The Hare | 0.10% | ~1 |
 | Urbanization Age | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |

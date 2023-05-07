@@ -3,9 +3,9 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "RatingHistory": [
     {
       "Time": "2023-05-04T05:57:24.2490301+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
-  "EOS_Completed": 23,
-  "EOS_NewPlayers": 406,
-  "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 4.98,
+  "EOS_Progressed": 463,
+  "EOS_Completed": 24,
+  "EOS_NewPlayers": 407,
+  "EOS_NewCompleters": 17,
+  "EOS_Completed_Percentage": 5.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -543,6 +543,11 @@
       "Time": "2023-05-07T16:06:38.375237+00:00",
       "NumProgressed": 462,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-07T17:06:12.3061465+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 50,
@@ -562,7 +567,7 @@
       "Name": "Piece of Cake",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "11",
@@ -570,7 +575,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "12",
@@ -624,9 +629,9 @@
       "ID": "18",
       "SetID": "d0g98p",
       "Name": "Surprise!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "19",
@@ -642,7 +647,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "20",
@@ -658,7 +663,7 @@
       "Name": "Take Heart",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "22",
@@ -698,7 +703,7 @@
       "Name": "Ancient Wisdom",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "27",
@@ -714,23 +719,23 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "30",
@@ -746,15 +751,15 @@
       "Name": "Little Shop",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 139
     },
     {
       "ID": "33",
@@ -808,9 +813,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 125
     },
     {
       "ID": "4",
@@ -818,7 +823,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "40",
@@ -848,9 +853,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "44",
@@ -874,7 +879,7 @@
       "Name": "Flower Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "47",
@@ -890,7 +895,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "49",
@@ -936,9 +941,9 @@
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 232
     },
     {
       "ID": "9",
@@ -953,16 +958,16 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 462,
-      "Completed": 23
+      "Progressed": 463,
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:06:38.3752364+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:12.306146+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:58:49.107152+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:06:38.3752858+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:58:42.022193+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:12.3061923+00:00"
 }

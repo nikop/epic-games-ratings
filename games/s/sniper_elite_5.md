@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 620)  
+Rating: 4.44 (Ranked 621)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.44 (Ranked 620)
 | As Quiet as a Mouse | 19.00% | ~130 |
 | The Kraken Sleeps | 19.00% | ~130 |
 | Liberté | 17.00% | ~117 |
-| Explosive Efficiency | 15.00% | ~103 |
+| Explosive Efficiency | 16.00% | ~110 |
 | Climbing the Ladder | 14.00% | ~96 |
 | Fields of Glory | 14.00% | ~96 |
 | Gunslinger | 14.00% | ~96 |

@@ -5,20 +5,20 @@ Rating: 3.81 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~14,475 |
-| No Half Measures | 88.00% | ~13,409 |
-| Personal Matter | 87.00% | ~13,256 |
-| But You Have Heard of Me | 72.00% | ~10,971 |
-| Double the Barrels, double the Fun | 55.00% | ~8,380 |
-| Pimp My Glide | 46.00% | ~7,009 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,247 |
-| House Party! | 33.00% | ~5,028 |
-| Make It Rain | 24.00% | ~3,657 |
-| Curse of the Seven Seas | 21.00% | ~3,200 |
+| Eeligally Ambitious | 95.00% | ~14,479 |
+| No Half Measures | 88.00% | ~13,412 |
+| Personal Matter | 87.00% | ~13,260 |
+| But You Have Heard of Me | 72.00% | ~10,974 |
+| Double the Barrels, double the Fun | 55.00% | ~8,383 |
+| Pimp My Glide | 46.00% | ~7,011 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,249 |
+| House Party! | 33.00% | ~5,030 |
+| Make It Rain | 24.00% | ~3,658 |
+| Curse of the Seven Seas | 21.00% | ~3,201 |
 | Head First | 15.00% | ~2,286 |
-| To the World's End | 12.00% | ~1,828 |
-| Table for Six | 11.00% | ~1,676 |
-| Sharing Is Caring | 9.00% | ~1,371 |
+| To the World's End | 12.00% | ~1,829 |
+| Table for Six | 11.00% | ~1,677 |
+| Sharing Is Caring | 9.00% | ~1,372 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,219 |
 | Morally Flexible | 6.00% | ~914 |
 | Fishing for Compliments | 5.00% | ~762 |
@@ -32,8 +32,8 @@ Rating: 3.81 (Ranked 903)
 | Pufferfish | 0.10% | ~15 |
 | O Captain! My Captain! | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,237 (Ranked 95)  
-Completed: 0 (0.00%) (Ranked 193)  
+Progressed: 15,241 (Ranked 95)  
+Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-04 | 15,222 | 0 |
 | 2023-05-05 | 15,225 | 0 |
 | 2023-05-06 | 15,235 | 0 |
-| 2023-05-07 | 15,237 | 0 |
+| 2023-05-07 | 15,241 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

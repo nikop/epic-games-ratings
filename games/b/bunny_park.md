@@ -20,7 +20,7 @@
 | Pom Pom | 9.00% | ~25 |
 | Bunny Fluffle | 8.00% | ~22 |
 | Spring Blossom | 7.00% | ~20 |
-| Quack quack | 5.00% | ~14 |
+| Quack quack | 6.00% | ~17 |
 | Tropical Summer | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 279 (Ranked 209)  

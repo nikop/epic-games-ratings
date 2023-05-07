@@ -7,8 +7,8 @@
 | Seeds of War | 105.00% | ~21 |
 | First Blood | 60.00% | ~12 |
 | No Asperascope | 50.00% | ~10 |
+| Triple Kill | 50.00% | ~10 |
 | Cornivore | 50.00% | ~10 |
-| Triple Kill | 45.00% | ~9 |
 | Skin Of Your Teeth | 25.00% | ~5 |
 | 15K | 20.00% | ~4 |
 | Drinking Problem | 20.00% | ~4 |
@@ -50,7 +50,7 @@
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 296)  
-Completed: 0 (0.00%) (Ranked 193)  
+Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

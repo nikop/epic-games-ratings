@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Rating": 4.61,
   "RatingHistory": [
     {
@@ -774,9 +774,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158214,
+  "EOS_Progressed": 158215,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1854,6 +1854,11 @@
       "Time": "2023-05-07T15:06:46.4236406+00:00",
       "NumProgressed": 158214,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-07T17:06:47.1023637+00:00",
+      "NumProgressed": 158215,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -1897,7 +1902,7 @@
       "Name": "Bootstrapping",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 118660
+      "UsersEstimate": 118661
     },
     {
       "ID": "CASH_going_places",
@@ -1921,7 +1926,7 @@
       "Name": "Cinematic",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 37971
+      "UsersEstimate": 37972
     },
     {
       "ID": "CUSTOMIZE_broken_to_smokin",
@@ -1937,7 +1942,7 @@
       "Name": "Dream Theme",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 72778
+      "UsersEstimate": 72779
     },
     {
       "ID": "CUSTOMIZE_grand_designs",
@@ -1945,7 +1950,7 @@
       "Name": "Grand Designs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 94928
+      "UsersEstimate": 94929
     },
     {
       "ID": "CUSTOMIZE_just_how_you_like_it",
@@ -1977,7 +1982,7 @@
       "Name": "Mix and Match",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 60121
+      "UsersEstimate": 60122
     },
     {
       "ID": "CUSTOMIZE_pimp_my_rig",
@@ -1985,7 +1990,7 @@
       "Name": "Pimp My Rig",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 50628
+      "UsersEstimate": 50629
     },
     {
       "ID": "CUSTOMIZE_variations_on_a_theme",
@@ -2073,7 +2078,7 @@
       "Name": "Working Hard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 69614
+      "UsersEstimate": 69615
     },
     {
       "ID": "JOBS_workoholic",
@@ -2105,7 +2110,7 @@
       "Name": "Repair Master",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 50628
+      "UsersEstimate": 50629
     },
     {
       "ID": "LEVEL_tinker",
@@ -2185,7 +2190,7 @@
       "Name": "Bench Warmer",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 37971
+      "UsersEstimate": 37972
     },
     {
       "ID": "SELL_foot_in_the_door",
@@ -2193,7 +2198,7 @@
       "Name": "Foot in the Door",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 58539
+      "UsersEstimate": 58540
     },
     {
       "ID": "SELL_gift_of_the_gab",
@@ -2201,7 +2206,7 @@
       "Name": "Gift of the Gab",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 37971
+      "UsersEstimate": 37972
     },
     {
       "ID": "SELL_salesperson_of_the_month",
@@ -2233,7 +2238,7 @@
       "Name": "Sales Pitch",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102839
+      "UsersEstimate": 102840
     },
     {
       "ID": "SPARESNREPAIRS_recycler",
@@ -2241,7 +2246,7 @@
       "Name": "Recycler",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 60121
+      "UsersEstimate": 60122
     },
     {
       "ID": "SPARESNREPAIRS_salvage_squad",
@@ -2249,7 +2254,7 @@
       "Name": "Salvage Squad",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 37971
+      "UsersEstimate": 37972
     },
     {
       "ID": "STARS_cowboy",
@@ -2273,7 +2278,7 @@
       "Name": "The Customer is King",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 71196
+      "UsersEstimate": 71197
     },
     {
       "ID": "STICKERS_get_stuck_in",
@@ -2305,7 +2310,7 @@
       "Name": "Hot Stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 93346
+      "UsersEstimate": 93347
     },
     {
       "ID": "UNLOCK_room_for_expansion",
@@ -2321,7 +2326,7 @@
       "Name": "Chill Out",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102839
+      "UsersEstimate": 102840
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -2336,7 +2341,7 @@
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158214,
+      "Progressed": 158215,
       "Completed": 102
     }
   ],
@@ -2344,8 +2349,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-07T16:01:28.9111942+00:00",
-  "LastChanged_Achievements": "2023-05-07T16:07:19.2211768+00:00",
+  "LastChanged_Achievements": "2023-05-07T17:06:47.1023633+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:01:28.9111947+00:00",
-  "LastUpdate_Achievements": "2023-05-07T16:07:19.2212347+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:00:52.9444481+00:00",
+  "LastUpdate_Achievements": "2023-05-07T17:06:47.1024206+00:00"
 }
