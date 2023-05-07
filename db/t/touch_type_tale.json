@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 2534,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -709,9 +709,9 @@
       "ID": "scenario4",
       "SetID": "2h56gn1",
       "Name": "A Secret Recipe",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 152
     },
     {
       "ID": "scenario5",
@@ -750,8 +750,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:07:42.4007144+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:46.8377285+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:02:08.7194538+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:07:42.4007444+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:01:20.3459961+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:46.837748+00:00"
 }

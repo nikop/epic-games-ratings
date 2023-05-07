@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 63.00% | ~10 |
-| Hello World | 56.00% | ~9 |
-| I Think, Therefore I Am | 56.00% | ~9 |
-| The Real Beginning | 56.00% | ~9 |
-| The Birds and the Bees | 44.00% | ~7 |
+| First Day of the Rest of Your Life | 69.00% | ~11 |
+| Hello World | 63.00% | ~10 |
+| I Think, Therefore I Am | 63.00% | ~10 |
+| The Real Beginning | 63.00% | ~10 |
+| The Birds and the Bees | 50.00% | ~8 |
 | Shook Up | 38.00% | ~6 |
 | Warning: Fragile | 38.00% | ~6 |
 | Task Master | 31.00% | ~5 |
@@ -27,13 +27,13 @@
 | The Partner | 19.00% | ~3 |
 | Socially Acceptable Insanity | 19.00% | ~3 |
 | The Companion | 19.00% | ~3 |
+| That One Doesn't Count | 19.00% | ~3 |
 | They Flock to Him | 19.00% | ~3 |
 | The Counsellor | 19.00% | ~3 |
 | Full Coverage | 13.00% | ~2 |
 | Knock Knock | 13.00% | ~2 |
 | Quidnunc | 13.00% | ~2 |
 | The Provocateur | 13.00% | ~2 |
-| That One Doesn't Count | 13.00% | ~2 |
 | Zonk! | 13.00% | ~2 |
 | A Little Eccentric | 6.00% | ~1 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |

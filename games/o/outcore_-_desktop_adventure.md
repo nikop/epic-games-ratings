@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Immersion Breaking | 50.00% | ~1 |
+| Murder | 50.00% | ~1 |
 | Booty Master | 0.00% | ~0 |
 | Defeated Captain Tutorial | 0.00% | ~0 |
 | Defeated Booty The Bootleg | 0.00% | ~0 |
@@ -25,7 +26,6 @@
 | Learned how to jump! | 0.00% | ~0 |
 | Learned how to walk! | 0.00% | ~0 |
 | Love Master | 0.00% | ~0 |
-| Murder | 0.00% | ~0 |
 | No time to waste | 0.00% | ~0 |
 | Read a walkthrough | 0.00% | ~0 |
 | Too good for this racing mini-game | 0.00% | ~0 |

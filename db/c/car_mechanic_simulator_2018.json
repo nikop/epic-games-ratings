@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.49,
   "NumberOfRatings": 38343,
@@ -3322,10 +3322,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 15355,
       "NumberOfAwardsMax": 1973
+    },
+    {
+      "Time": "2023-05-07T19:59:29.6104868+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15356,
+      "NumberOfAwardsMax": 1973
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15355,
+  "NumberOfAwards": 15356,
   "NumberOfAwardsMax": 1973,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -3363,7 +3369,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1753
+      "Count": 1754
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3401,8 +3407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2023-05-06T16:59:21.8945865+00:00",
+  "LastChanged": "2023-05-07T19:59:29.6104866+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:34.1424621+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:59:47.2757382+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:04:39.2438515+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:59:29.6104871+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:04:36.9405697+00:00"
 }

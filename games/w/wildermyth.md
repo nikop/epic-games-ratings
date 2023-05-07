@@ -19,14 +19,14 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 10.00% | ~114 |
 | A Mythic Menagerie | 9.00% | ~103 |
 | Core Failure | 9.00% | ~103 |
-| Pyrrhic Victory | 7.00% | ~80 |
+| Pyrrhic Victory | 8.00% | ~91 |
 | Thematic Divergence | 6.00% | ~69 |
 | Chain Reaction | 6.00% | ~69 |
 | Echoes Die | 6.00% | ~69 |
+| A Story of Heroes | 6.00% | ~69 |
 | Let Me Get My Chisel | 5.00% | ~57 |
 | Everfading | 5.00% | ~57 |
 | Another Tale to Tell | 5.00% | ~57 |
-| A Story of Heroes | 5.00% | ~57 |
 | Plague Doctor | 4.00% | ~46 |
 | Wingknight's Prowess | 4.00% | ~46 |
 | All My Birds, Safely Home | 4.00% | ~46 |

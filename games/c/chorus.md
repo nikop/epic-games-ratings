@@ -30,7 +30,7 @@ Number of Ratings: 58  (23.09.2022)
 | It Was An Accident | 40.00% | ~340 |
 | Set in Motion | 39.00% | ~332 |
 | In the Eye of the Storm | 38.00% | ~323 |
-| The Crimson Void | 35.00% | ~298 |
+| The Crimson Void | 36.00% | ~306 |
 | The Nameless Dread | 34.00% | ~289 |
 | Time to Spear | 31.00% | ~264 |
 | Mastery of Weapons | 30.00% | ~255 |

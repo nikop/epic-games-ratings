@@ -29,6 +29,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 0.40% | ~59 |
 | Statue of the Forefathers | 0.40% | ~59 |
 | Corrosive Torrent | 0.40% | ~59 |
+| Watchtower | 0.40% | ~59 |
 | Cursed Lands | 0.40% | ~59 |
 | A Real Challenge | 0.40% | ~59 |
 | Serving Ale | 0.30% | ~44 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 0.30% | ~44 |
 | Haunted Forest | 0.30% | ~44 |
 | Forsaken Gods Temple | 0.30% | ~44 |
-| Watchtower | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
 | Into the Forest | 0.30% | ~44 |
 | Efficient Explorer | 0.20% | ~29 |

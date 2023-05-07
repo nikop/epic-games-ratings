@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 8,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
@@ -3578,9 +3578,9 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86782,
+  "EOS_Progressed": 86791,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4998,6 +4998,11 @@
       "Time": "2023-05-07T19:07:49.3046434+00:00",
       "NumProgressed": 86782,
       "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T20:06:53.3370105+00:00",
+      "NumProgressed": 86791,
+      "NumCompleted": 1810
     }
   ],
   "TotalAchievements": 489,
@@ -5687,9 +5692,9 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_1164",
@@ -6681,7 +6686,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "objective_completed_34",
@@ -7551,9 +7556,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_completed_60",
@@ -8920,21 +8925,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53056,
+      "Progressed": 53065,
       "Completed": 2475
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86782,
+      "Progressed": 86791,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-07T18:59:29.8871961+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:07:49.3046428+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:53.3370101+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:59:29.8871974+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:07:49.3076924+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:59:16.5288801+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:53.339166+00:00"
 }

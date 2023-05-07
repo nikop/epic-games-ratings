@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 19,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:39.5601593+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 113,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.59,
+  "EOS_NewPlayers": 112,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 7.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -723,6 +723,11 @@
       "Time": "2023-05-07T19:07:29.4571388+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T20:06:35.5452088+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 12,
@@ -734,7 +739,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Bernard",
@@ -750,7 +755,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Green Ticket Roundup",
@@ -774,7 +779,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Jude",
@@ -798,7 +803,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -814,7 +819,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Nuremberg Laws",
@@ -829,7 +834,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 89
     }
   ],
@@ -837,8 +842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:07:29.4571382+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:35.5452086+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:01:22.3269562+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:07:29.4571538+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:00:45.979193+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:35.5452172+00:00"
 }

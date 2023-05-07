@@ -120,9 +120,9 @@
       "ID": "ALPHA01",
       "SetID": "2d85n75",
       "Name": "Hello World",
-      "Percentage": 56,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "AN_ACQUIRED_TASTE",
@@ -168,9 +168,9 @@
       "ID": "BETA03",
       "SetID": "2d85n75",
       "Name": "I Think, Therefore I Am",
-      "Percentage": 56,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BLOOD_BEGETS_BLOOD",
@@ -224,9 +224,9 @@
       "ID": "FIRST_DAY",
       "SetID": "2d85n75",
       "Name": "First Day of the Rest of Your Life",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FORTRAN_COMPLETE",
@@ -280,9 +280,9 @@
       "ID": "MIND_CORE01",
       "SetID": "2d85n75",
       "Name": "The Real Beginning",
-      "Percentage": 56,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
@@ -392,9 +392,9 @@
       "ID": "THAT_ONE_DOESNT_COUNT",
       "SetID": "2d85n75",
       "Name": "That One Doesn\u0027t Count",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THEY_FLOCK_TO_HIM",
@@ -416,9 +416,9 @@
       "ID": "THE_BIRDS_AND_THE_BEES",
       "SetID": "2d85n75",
       "Name": "The Birds and the Bees",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "THE_SPICE_OF_LIFE",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:07:32.4875137+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:38.1947776+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:01:28.7421868+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:07:32.4875576+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:00:50.6597997+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:38.1948082+00:00"
 }

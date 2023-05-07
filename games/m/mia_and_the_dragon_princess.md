@@ -14,10 +14,10 @@
 | Codebreaker | 10.00% | ~2 |
 | Flying High | 10.00% | ~2 |
 | Set Sail | 10.00% | ~2 |
+| Snitch | 10.00% | ~2 |
 | Bathroom Brawler | 5.00% | ~1 |
 | Explosive End | 5.00% | ~1 |
 | Finger-Lickin' Bad | 5.00% | ~1 |
-| Snitch | 5.00% | ~1 |
 | Escape Artist | 0.00% | ~0 |
 | Fool's Gold | 0.00% | ~0 |
 | Freedum Fighter | 0.00% | ~0 |

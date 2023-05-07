@@ -22,11 +22,11 @@
 | Leave Them no Cake | 7.00% | ~177 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~177 |
 | Master of the Brawl | 7.00% | ~177 |
+| A Secret Recipe | 6.00% | ~152 |
 | Your Biggest Fans | 5.00% | ~127 |
 | An Ally in Need | 5.00% | ~127 |
 | For the Queen | 5.00% | ~127 |
 | Not a Drop Wasted | 5.00% | ~127 |
-| A Secret Recipe | 5.00% | ~127 |
 | Reinforcements | 4.00% | ~101 |
 | Sweet Revenge | 4.00% | ~101 |
 | We Have the Technology | 4.00% | ~101 |

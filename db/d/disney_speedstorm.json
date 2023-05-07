@@ -4,14 +4,14 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2364,
+  "EOS_Progressed": 2365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1029,6 +1029,11 @@
       "Time": "2023-05-07T18:07:59.4452405+00:00",
       "NumProgressed": 2364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T20:06:25.1013015+00:00",
+      "NumProgressed": 2365,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1096,7 +1101,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "17",
@@ -1136,7 +1141,7 @@
       "Name": "PROTECTED",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "21",
@@ -1168,7 +1173,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "3",
@@ -1184,7 +1189,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "5",
@@ -1200,7 +1205,7 @@
       "Name": "PRO",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "7",
@@ -1231,13 +1236,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2364,
+      "Progressed": 2365,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:07:17.6413712+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:25.1013011+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:00:30.7441181+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:07:17.6414114+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:00:06.7104311+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:25.1013211+00:00"
 }

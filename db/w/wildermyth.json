@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.77,
   "NumberOfRatings": 45,
@@ -496,9 +496,9 @@
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
       "SetID": "95dc8p",
       "Name": "Pyrrhic Victory",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 91
     },
     {
       "ID": "completedStory_cvawn",
@@ -544,9 +544,9 @@
       "ID": "completedStory_procedural",
       "SetID": "95dc8p",
       "Name": "A Story of Heroes",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 69
     },
     {
       "ID": "completedStory_ulstryx",
@@ -736,8 +736,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:07:06.4057607+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:15.7688395+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:02:31.9913324+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:07:06.4058117+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:01:37.8905833+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:15.768878+00:00"
 }

@@ -1004,9 +1004,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60705,
+  "EOS_Progressed": 60709,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1974,6 +1974,11 @@
       "Time": "2023-05-07T19:07:37.0014398+00:00",
       "NumProgressed": 60705,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T20:06:42.1658659+00:00",
+      "NumProgressed": 60709,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2383,9 +2388,9 @@
       "ID": "MYSTERY_02",
       "SetID": "4eo5ebm",
       "Name": "Whispered Words",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "MYSTERY_03",
@@ -2407,9 +2412,9 @@
       "ID": "MYSTERY_05",
       "SetID": "4eo5ebm",
       "Name": "From Inside Gotham\u0027s Walls",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "MYSTERY_06",
@@ -2472,13 +2477,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60705,
+      "Progressed": 60709,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30985,
+      "Progressed": 30989,
       "Completed": 2630
     }
   ],
@@ -2486,8 +2491,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-07T18:02:12.0517911+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:07:37.001439+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:42.1658653+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:01:31.9004771+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:07:37.0015525+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:00:53.760155+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:42.1659141+00:00"
 }

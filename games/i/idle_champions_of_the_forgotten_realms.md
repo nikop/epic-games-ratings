@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 1.00% | ~531 |
 | Pin and Skewer | 0.90% | ~478 |
 | Bully for Vecna | 0.70% | ~371 |
-| The Cursed Farmer | 0.70% | ~607 |
+| The Cursed Farmer | 0.70% | ~608 |
 | Beast Intentions | 0.60% | ~521 |
 | The Mad Wizard | 0.60% | ~521 |
 | The Ring of Regeneration | 0.50% | ~434 |
@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
+| The Contagious Curse | 0.30% | ~260 |
 | Escort to Waterdeep | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
 | Tall Tales | 0.20% | ~106 |
@@ -38,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.20% | ~106 |
 | Owlbear Necessities | 0.20% | ~106 |
 | Best Thay Ever | 0.20% | ~106 |
+| Vecna Lives! | 0.20% | ~106 |
 | Return to the Tomb | 0.20% | ~106 |
 | Keep Your Distance | 0.20% | ~106 |
 | Heatwave | 0.20% | ~106 |
@@ -73,7 +75,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
 | Running of the Saurs | 0.20% | ~174 |
-| The Contagious Curse | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
@@ -166,7 +167,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.10% | ~53 |
 | Flapjacks and Waffles | 0.10% | ~53 |
 | On the Hunt | 0.10% | ~87 |
-| Vecna Lives! | 0.10% | ~53 |
 | Overwhelmed with Knowledge | 0.10% | ~53 |
 | A Demi-god's Defender | 0.10% | ~53 |
 | Vecna Loots! | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,782 (Ranked 59)  
+Progressed: 86,791 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,782 | 1,810 |
+| 2023-05-07 | 86,791 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,830 (Ranked 37)  

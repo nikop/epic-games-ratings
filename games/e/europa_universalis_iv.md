@@ -1,59 +1,59 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 234)  
+Rating: 4.68 (Ranked 233)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,869 |
-| That's a Grand Army | 8.00% | ~2,550 |
-| That is mine! | 8.00% | ~2,550 |
-| Victorious! | 8.00% | ~2,550 |
-| Brothers in Arms | 6.00% | ~1,912 |
-| That's a Grand Navy | 6.00% | ~1,912 |
-| Seriously?! | 6.00% | ~1,912 |
-| For the Glory | 5.00% | ~1,594 |
-| Cold War | 4.00% | ~1,275 |
-| True Catholic | 4.00% | ~1,275 |
-| Defender of the Faith | 3.00% | ~956 |
-| It's all about the money | 3.00% | ~956 |
-| Respected | 3.00% | ~956 |
-| Blockader | 2.00% | ~637 |
-| Combined Arms | 2.00% | ~637 |
-| Double the Love | 2.00% | ~637 |
-| Gentle Persuasion | 2.00% | ~637 |
-| It's all about luck | 2.00% | ~637 |
-| Queen of Conquest | 2.00% | ~637 |
-| Royal Authority | 2.00% | ~637 |
-| The Princess is in this Castle | 2.00% | ~637 |
-| Total Control | 2.00% | ~637 |
-| Truly Divine Ruler | 2.00% | ~637 |
+| Until death do us apart | 9.00% | ~2,874 |
+| That's a Grand Army | 8.00% | ~2,554 |
+| That is mine! | 8.00% | ~2,554 |
+| Victorious! | 8.00% | ~2,554 |
+| Brothers in Arms | 6.00% | ~1,916 |
+| That's a Grand Navy | 6.00% | ~1,916 |
+| Seriously?! | 6.00% | ~1,916 |
+| For the Glory | 5.00% | ~1,596 |
+| Cold War | 4.00% | ~1,277 |
+| True Catholic | 4.00% | ~1,277 |
+| Defender of the Faith | 3.00% | ~958 |
+| It's all about the money | 3.00% | ~958 |
+| Respected | 3.00% | ~958 |
+| Blockader | 2.00% | ~639 |
+| Combined Arms | 2.00% | ~639 |
+| Double the Love | 2.00% | ~639 |
+| Gentle Persuasion | 2.00% | ~639 |
+| It's all about luck | 2.00% | ~639 |
+| Queen of Conquest | 2.00% | ~639 |
+| Royal Authority | 2.00% | ~639 |
+| The Princess is in this Castle | 2.00% | ~639 |
+| Total Control | 2.00% | ~639 |
+| Truly Divine Ruler | 2.00% | ~639 |
 | Agressive Expander | 1.00% | ~319 |
-| All That's Thine Shall Be Mine | 1.00% | ~319 |
 | Azur semé de lis or | 1.00% | ~319 |
 | Bright Spark | 1.00% | ~319 |
 | Factionalism | 1.00% | ~319 |
 | A Golden Empire | 1.00% | ~319 |
 | My armies are invincible! | 1.00% | ~319 |
+| All That's Thine Shall Be Mine | 0.90% | ~287 |
 | City of Cities | 0.90% | ~287 |
 | Isn't this the way to India? | 0.80% | ~255 |
 | The Five Colonies | 0.80% | ~255 |
-| Market Control | 0.70% | ~223 |
-| Down Under | 0.60% | ~191 |
-| The Emperors new clothes | 0.60% | ~191 |
-| This navy can take it all | 0.60% | ~191 |
-| Electable! | 0.50% | ~159 |
-| Time Bandit | 0.50% | ~159 |
-| Trustworthy | 0.50% | ~159 |
-| All belongs to Mother Russia | 0.40% | ~127 |
-| At every continent | 0.40% | ~127 |
-| Early-Modern Warfare | 0.40% | ~127 |
-| One Family to Rule them All | 0.40% | ~127 |
-| The pen is mightier than the sword | 0.40% | ~127 |
-| This is My Faith | 0.40% | ~127 |
-| Trophy Hunter | 0.40% | ~127 |
-| Voting Streak | 0.40% | ~127 |
+| Market Control | 0.70% | ~224 |
+| Down Under | 0.60% | ~192 |
+| The Emperors new clothes | 0.60% | ~192 |
+| This navy can take it all | 0.60% | ~192 |
+| Electable! | 0.50% | ~160 |
+| Time Bandit | 0.50% | ~160 |
+| Trustworthy | 0.50% | ~160 |
+| All belongs to Mother Russia | 0.40% | ~128 |
+| At every continent | 0.40% | ~128 |
+| Early-Modern Warfare | 0.40% | ~128 |
+| One Family to Rule them All | 0.40% | ~128 |
+| The pen is mightier than the sword | 0.40% | ~128 |
+| This is My Faith | 0.40% | ~128 |
+| Trophy Hunter | 0.40% | ~128 |
+| Voting Streak | 0.40% | ~128 |
 | Absolutely | 0.30% | ~96 |
 | All Your Trade Are Belong to Us | 0.30% | ~96 |
 | Dude, Where's my Boat? | 0.30% | ~96 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,873 (Ranked 81)  
+Progressed: 31,929 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,16 +378,16 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
-| 2023-05-07 | 31,873 | 0 |
+| 2023-05-07 | 31,929 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
-Sum: 42,915 (Ranked 26)  
+Sum: 42,923 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,190 |
 | This game is Highly Recommended | 4,970 |
-| This game has Challenging Combat | 4,952 |
+| This game has Challenging Combat | 4,960 |
 | This game is Extremely Fun | 4,919 |
 | This game has Diverse Characters | 4,877 |
 | This game is Relaxing | 4,835 |
@@ -508,4 +508,4 @@ Diff (max vs sum): 34
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
 | 2023-05-05 | 4.68 | - | 5,170 | 42,780 |
 | 2023-05-06 | 4.68 | - | 5,181 | 42,857 |
-| 2023-05-07 | 4.68 | - | 5,190 | 42,915 |
+| 2023-05-07 | 4.68 | - | 5,190 | 42,923 |

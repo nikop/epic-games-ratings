@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 37,
   "Rating": 4.77,
   "RatingHistory": [
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5579,
+  "EOS_Progressed": 5582,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -992,6 +992,11 @@
       "Time": "2023-05-07T19:06:50.7926259+00:00",
       "NumProgressed": 5579,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-07T20:06:10.872364+00:00",
+      "NumProgressed": 5582,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1107,7 +1112,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "LIBERATOR",
@@ -1155,7 +1160,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "THING",
@@ -1170,7 +1175,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5579,
+      "Progressed": 5582,
       "Completed": 20
     }
   ],
@@ -1178,8 +1183,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:06:50.7926253+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:10.8723637+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:59:23.4009257+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:06:50.7926566+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:59:09.1877885+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:10.8723802+00:00"
 }

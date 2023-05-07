@@ -6,38 +6,38 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,384 |
-| Worker Specialization | 78.00% | ~4,328 |
-| First Contact | 74.00% | ~4,106 |
-| Win a Battle | 67.00% | ~3,718 |
-| Anomaly Researcher | 63.00% | ~3,496 |
-| Unleash My Power | 62.00% | ~3,440 |
-| Own 30 Planets | 35.00% | ~1,942 |
-| Xenocide | 33.00% | ~1,831 |
+| Colonize a Planet | 79.00% | ~4,385 |
+| Worker Specialization | 78.00% | ~4,330 |
+| First Contact | 74.00% | ~4,108 |
+| Win a Battle | 67.00% | ~3,719 |
+| Anomaly Researcher | 63.00% | ~3,497 |
+| Unleash My Power | 62.00% | ~3,442 |
+| Own 30 Planets | 35.00% | ~1,943 |
+| Xenocide | 33.00% | ~1,832 |
 | Commodity Trader | 32.00% | ~1,776 |
-| Design a Civilization | 31.00% | ~1,720 |
-| Design a Ship | 29.00% | ~1,609 |
+| Design a Civilization | 31.00% | ~1,721 |
+| Design a Ship | 29.00% | ~1,610 |
 | Commodity Seller | 26.00% | ~1,443 |
 | Prestige Victory! | 14.00% | ~777 |
-| Galactic War | 11.00% | ~610 |
-| Trading Partner | 9.00% | ~499 |
+| Galactic War | 11.00% | ~611 |
+| Trading Partner | 9.00% | ~500 |
 | Fleet Victory | 8.00% | ~444 |
-| Win as Terrans | 7.00% | ~388 |
-| Win with a Custom Faction | 7.00% | ~388 |
+| Win as Terrans | 7.00% | ~389 |
+| Win with a Custom Faction | 7.00% | ~389 |
 | Gain an Ally | 6.00% | ~333 |
-| War with the Unknown | 5.00% | ~277 |
-| Win Quickly | 5.00% | ~277 |
+| War with the Unknown | 5.00% | ~278 |
+| Win Quickly | 5.00% | ~278 |
 | Conquest Victory! | 4.00% | ~222 |
-| Pirate Cleansing | 3.00% | ~166 |
-| Win an Immense Game | 3.00% | ~166 |
+| Pirate Cleansing | 3.00% | ~167 |
+| Win an Immense Game | 3.00% | ~167 |
 | Artifact Mastery | 2.00% | ~111 |
 | Win as Altarians | 2.00% | ~111 |
 | Win as the Yor | 2.00% | ~111 |
 | Influence Victory! | 2.00% | ~111 |
-| Win as Arceans | 1.00% | ~55 |
-| Win as the Baratak | 1.00% | ~55 |
-| Win as Festron | 1.00% | ~55 |
-| Win as the Mimot | 1.00% | ~55 |
+| Win as Arceans | 1.00% | ~56 |
+| Win as the Baratak | 1.00% | ~56 |
+| Win as Festron | 1.00% | ~56 |
+| Win as the Mimot | 1.00% | ~56 |
 | Win as Torians | 0.90% | ~50 |
 | Win as the Manti | 0.80% | ~44 |
 | Win as the Navigators | 0.80% | ~44 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,549 (Ranked 117)  
+Progressed: 5,551 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 5,500 | 0 |
 | 2023-05-05 | 5,516 | 0 |
 | 2023-05-06 | 5,533 | 0 |
-| 2023-05-07 | 5,549 | 0 |
+| 2023-05-07 | 5,551 | 0 |
 ## Awards
 Max (Diverse Characters): 89  (Ranked 335)  
 Sum: 655 (Ranked 266)  

@@ -4,7 +4,7 @@
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -201,9 +201,9 @@
       "ID": "MurderLumi",
       "SetID": "7ejh407",
       "Name": "Murder",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NoTimeToWaste",
@@ -247,8 +247,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-05-07T19:07:29.9678582+00:00",
+  "LastChanged_Achievements": "2023-05-07T20:06:36.0453409+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.1154691+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:01:27.4220912+00:00",
-  "LastUpdate_Achievements": "2023-05-07T19:07:29.9678934+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:00:49.6462028+00:00",
+  "LastUpdate_Achievements": "2023-05-07T20:06:36.0453551+00:00"
 }
