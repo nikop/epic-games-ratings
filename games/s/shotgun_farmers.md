@@ -9,15 +9,16 @@
 | No Asperascope | 50.00% | ~10 |
 | Triple Kill | 50.00% | ~10 |
 | Cornivore | 50.00% | ~10 |
+| 15K | 25.00% | ~5 |
 | Skin Of Your Teeth | 25.00% | ~5 |
-| 15K | 20.00% | ~4 |
+| 10K | 25.00% | ~5 |
 | Drinking Problem | 20.00% | ~4 |
 | Graveside Survivor | 20.00% | ~4 |
-| 10K | 20.00% | ~4 |
 | Pork Chop Express | 15.00% | ~3 |
 | Chick Magnet | 10.00% | ~2 |
 | Fresh Pancake | 10.00% | ~2 |
 | Getting Started | 10.00% | ~2 |
+| Forestside Survivor | 10.00% | ~2 |
 | Quit Horsin' Around | 10.00% | ~2 |
 | Eggtraordinary | 10.00% | ~2 |
 | Carrocketeer | 10.00% | ~2 |
@@ -25,7 +26,6 @@
 | 15 Days | 5.00% | ~1 |
 | Honk Honk | 5.00% | ~1 |
 | Darkside Survivor | 5.00% | ~1 |
-| Forestside Survivor | 5.00% | ~1 |
 | Hardcore Parkour | 5.00% | ~1 |
 | I Have The High Ground | 5.00% | ~1 |
 | Cow Topper | 5.00% | ~1 |

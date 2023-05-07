@@ -57,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~174 |
 | The Dinner Party | 0.20% | ~174 |
 | The Botched Kidnapping | 0.20% | ~174 |
+| Haaave You Met Asmodeus? | 0.20% | ~174 |
 | Tower on the Lake | 0.20% | ~174 |
 | Trollskull Manor | 0.20% | ~174 |
 | Attack on the Manor | 0.20% | ~174 |
@@ -80,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~174 |
 | Constant Banditry | 0.20% | ~174 |
 | Waterdeep Detours | 0.20% | ~174 |
+| Lost in the Deep | 0.20% | ~174 |
 | Easily Distracted | 0.20% | ~174 |
 | Rude Welcome | 0.20% | ~174 |
 | Underdeep Cartography | 0.20% | ~174 |
@@ -229,7 +231,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.10% | ~87 |
 | Modron Assistance | 0.10% | ~87 |
 | Thine Bounty is Mine! | 0.10% | ~53 |
-| Haaave You Met Asmodeus? | 0.10% | ~87 |
 | Domesticated Owlbears | 0.10% | ~87 |
 | This Quest Stinks! | 0.10% | ~53 |
 | The Immortal Warrior | 0.10% | ~87 |
@@ -413,7 +414,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~53 |
 | Only Human | 0.10% | ~53 |
 | The Long Haul | 0.10% | ~87 |
-| Lost in the Deep | 0.10% | ~87 |
 | An Awakened Axe | 0.10% | ~53 |
 | CONtagious Cold | 0.10% | ~53 |
 | Ten in Ten-Towns | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,767 (Ranked 59)  
+Progressed: 86,773 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,767 | 1,810 |
+| 2023-05-07 | 86,773 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,826 (Ranked 37)  

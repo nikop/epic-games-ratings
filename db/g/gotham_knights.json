@@ -930,10 +930,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3632,
       "NumberOfAwardsMax": 2196
+    },
+    {
+      "Time": "2023-05-07T18:02:12.0517913+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3633,
+      "NumberOfAwardsMax": 2196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3632,
+  "NumberOfAwards": 3633,
   "NumberOfAwardsMax": 2196,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -959,7 +965,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 172
+      "Count": 173
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -998,9 +1004,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60700,
+  "EOS_Progressed": 60703,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1958,6 +1964,11 @@
       "Time": "2023-05-07T17:06:48.3106343+00:00",
       "NumProgressed": 60700,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T18:08:21.4396021+00:00",
+      "NumProgressed": 60703,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2407,9 +2418,9 @@
       "ID": "MYSTERY_07",
       "SetID": "4eo5ebm",
       "Name": "Seeking Asylum",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "MYSTERY_08",
@@ -2456,22 +2467,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60700,
+      "Progressed": 60703,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30980,
+      "Progressed": 30983,
       "Completed": 2630
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-07T17:00:51.0455645+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:48.3106338+00:00",
+  "LastChanged": "2023-05-07T18:02:12.0517911+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:08:21.4396012+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T17:00:51.0455651+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:48.3106964+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:02:12.0517918+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:08:21.4396664+00:00"
 }

@@ -18,6 +18,7 @@ Rating: 4.17 (Ranked 828)
 | Unstoppable Force | 0.30% | ~182 |
 | Bad Apples in Every Orchard | 0.30% | ~182 |
 | Voiceless | 0.30% | ~182 |
+| Seeking Asylum | 0.30% | ~182 |
 | Gotham Knight | 0.30% | ~182 |
 | The Batman Family | 0.20% | ~121 |
 | End of an Era | 0.20% | ~121 |
@@ -34,7 +35,6 @@ Rating: 4.17 (Ranked 828)
 | Whispered Words | 0.20% | ~121 |
 | Lock and Key | 0.20% | ~121 |
 | From Inside Gotham's Walls | 0.20% | ~121 |
-| Seeking Asylum | 0.20% | ~121 |
 | Hammer and Icicle | 0.10% | ~31 |
 | Element of Surprise | 0.10% | ~31 |
 | It's Nice to Be Wanted | 0.10% | ~31 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 828)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,700 (Ranked 66)  
+Progressed: 60,703 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,10 +84,10 @@ Completed: 89 (0.15%) (Ranked 140)
 | 2023-05-04 | 60,626 | 89 |
 | 2023-05-05 | 60,646 | 89 |
 | 2023-05-06 | 60,674 | 89 |
-| 2023-05-07 | 60,700 | 89 |
+| 2023-05-07 | 60,703 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,196  (Ranked 99)  
-Sum: 3,632 (Ranked 137)  
+Sum: 3,633 (Ranked 137)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -98,7 +98,7 @@ Diff (max vs sum): -38
 | This game has Diverse Characters | 181 |
 | This game has Amazing Characters | 178 |
 | This game is Highly Recommended | 176 |
-| This game is Great for Beginners | 172 |
+| This game is Great for Beginners | 173 |
 | This game has Amazing Storytelling | 170 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -180,4 +180,4 @@ Diff (max vs sum): -38
 | 2023-05-04 | 4.17 | 2,187 | 3,618 |
 | 2023-05-05 | 4.17 | 2,187 | 3,619 |
 | 2023-05-06 | 4.17 | 2,193 | 3,627 |
-| 2023-05-07 | 4.17 | 2,196 | 3,632 |
+| 2023-05-07 | 4.17 | 2,196 | 3,633 |

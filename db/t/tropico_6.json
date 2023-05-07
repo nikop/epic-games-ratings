@@ -3,7 +3,7 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 314,
+  "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 168,
@@ -832,7 +832,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2720,
+  "EOS_Progressed": 2721,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -1637,6 +1637,11 @@
       "Time": "2023-05-07T17:06:53.8186422+00:00",
       "NumProgressed": 2720,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T18:08:28.7679264+00:00",
+      "NumProgressed": 2721,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1688,7 +1693,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -1720,7 +1725,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -1744,7 +1749,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -1792,7 +1797,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -1808,7 +1813,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -1967,15 +1972,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2720,
+      "Progressed": 2721,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-05T17:04:08.8018054+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:53.8186415+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:08:28.7679258+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-07T17:01:13.4523147+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:53.8186753+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:02:47.0801537+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:08:28.7679625+00:00"
 }

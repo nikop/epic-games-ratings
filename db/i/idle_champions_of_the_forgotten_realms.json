@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3572,9 +3572,9 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86767,
+  "EOS_Progressed": 86773,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4981,6 +4981,11 @@
     {
       "Time": "2023-05-07T17:06:58.996238+00:00",
       "NumProgressed": 86767,
+      "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T18:08:35.299154+00:00",
+      "NumProgressed": 86773,
       "NumCompleted": 1810
     }
   ],
@@ -6447,9 +6452,9 @@
       "ID": "objective_completed_236",
       "SetID": "cc37lbc",
       "Name": "Haaave You Met Asmodeus?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_237",
@@ -8175,9 +8180,9 @@
       "ID": "objective_completed_75",
       "SetID": "cc37lbc",
       "Name": "Lost in the Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_76",
@@ -8904,21 +8909,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53041,
-      "Completed": 2474
+      "Progressed": 53047,
+      "Completed": 2475
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86767,
+      "Progressed": 86773,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-07T13:01:58.3397221+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:58.9962376+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:08:35.2991535+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:59:11.2327454+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:58.9985416+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:59:55.3196803+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:08:35.3020352+00:00"
 }

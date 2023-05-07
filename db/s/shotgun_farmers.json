@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -162,9 +162,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_first_first_blood",
@@ -226,9 +226,9 @@
       "ID": "ach_horde_forestside",
       "SetID": "cmg602e",
       "Name": "Forestside Survivor",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_horde_graveside",
@@ -426,9 +426,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_tripleKill",
@@ -483,8 +483,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:07.2505567+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:07:26.2521101+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:59:24.8486026+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:07.2505919+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:00:13.3377048+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:07:26.252163+00:00"
 }

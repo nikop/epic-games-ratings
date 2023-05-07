@@ -3858,9 +3858,9 @@
       "Count": 342
     }
   ],
-  "EOS_Progressed": 702686,
+  "EOS_Progressed": 702687,
   "EOS_Completed": 12712,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5038,6 +5038,11 @@
       "Time": "2023-05-07T17:06:37.7075265+00:00",
       "NumProgressed": 702686,
       "NumCompleted": 12712
+    },
+    {
+      "Time": "2023-05-07T18:08:06.8784559+00:00",
+      "NumProgressed": 702687,
+      "NumCompleted": 12712
     }
   ],
   "TotalAchievements": 50,
@@ -5143,9 +5148,9 @@
       "ID": "13_LowAge",
       "SetID": "adcm20g",
       "Name": "Prodigal Child",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 1405
+      "UsersEstimate": 2108
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -5393,7 +5398,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -5448,21 +5453,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11987,
-      "Completed": 10045
+      "Progressed": 11988,
+      "Completed": 10048
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702686,
+      "Progressed": 702687,
       "Completed": 12712
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-07T16:00:31.1137775+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:37.7075257+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:08:06.878455+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-07T17:00:10.3493073+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:37.7075735+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:01:11.873795+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:08:06.8785048+00:00"
 }

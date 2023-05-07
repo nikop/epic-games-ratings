@@ -12,9 +12,9 @@
 | History Check | 56.00% | ~77 |
 | The New World | 56.00% | ~77 |
 | Fond Memories | 55.00% | ~76 |
-| Open Sesame | 53.00% | ~73 |
-| Sticky Fingers | 53.00% | ~73 |
-| Knives Out | 53.00% | ~73 |
+| Open Sesame | 54.00% | ~75 |
+| Sticky Fingers | 54.00% | ~75 |
+| Knives Out | 54.00% | ~75 |
 | Land, Ho! | 52.00% | ~72 |
 | Lock, Stock, And Barrel | 51.00% | ~70 |
 | Gaze Into The Abyss | 51.00% | ~70 |
@@ -22,11 +22,11 @@
 | No Man Is An Island | 50.00% | ~69 |
 | Bookworm | 46.00% | ~63 |
 | At Wits' End | 46.00% | ~63 |
+| Going Once... | 41.00% | ~57 |
 | Brain Food | 41.00% | ~57 |
 | Up In Flames | 41.00% | ~57 |
-| Going Once... | 40.00% | ~55 |
-| Fhtagn! | 40.00% | ~55 |
-| Let Me Be Frank | 37.00% | ~51 |
+| Fhtagn! | 41.00% | ~57 |
+| Let Me Be Frank | 38.00% | ~52 |
 | No Stone Unturned | 36.00% | ~50 |
 | Curiosity Killed The Cat | 25.00% | ~34 |
 | Read It And Weep | 23.00% | ~32 |

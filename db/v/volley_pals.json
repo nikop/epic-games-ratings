@@ -15,9 +15,90 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "LEVEL_0",
+      "SetID": "1fnbp5h",
+      "Name": "Beach",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_1",
+      "SetID": "1fnbp5h",
+      "Name": "Library",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_2",
+      "SetID": "1fnbp5h",
+      "Name": "Space",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_3",
+      "SetID": "1fnbp5h",
+      "Name": "Haunted Mansion",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_4",
+      "SetID": "1fnbp5h",
+      "Name": "Science Laboratory",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_5",
+      "SetID": "1fnbp5h",
+      "Name": "Ball Disposal Facility",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_6",
+      "SetID": "1fnbp5h",
+      "Name": "Mecha Wars",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_7",
+      "SetID": "1fnbp5h",
+      "Name": "Sewer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_8",
+      "SetID": "1fnbp5h",
+      "Name": "Arcade",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_9",
+      "SetID": "1fnbp5h",
+      "Name": "Custom Court",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1fnbp5h",
@@ -27,8 +108,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:07.0150577+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:07:25.8776026+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:35.6356336+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:58:24.3359663+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:07.0150614+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:58:48.2591375+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:07:25.8776134+00:00"
 }

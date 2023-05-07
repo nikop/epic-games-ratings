@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -194,9 +194,9 @@
       "ID": "ACH_LOVEUNCOVERER",
       "SetID": "7pam6gn",
       "Name": "Love Uncoverer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -259,8 +259,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:28.8160391+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:07:55.368666+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:52.1468648+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:59:45.0313483+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:28.8160508+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:00:41.9890501+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:07:55.368683+00:00"
 }

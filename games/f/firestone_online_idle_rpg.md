@@ -6,7 +6,7 @@ Rating: 3.40 (Ranked 917)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~834 |
-| World Map | 79.00% | ~709 |
+| World Map | 80.00% | ~718 |
 | Temple of Eternals | 55.00% | ~493 |
 | Prestigious | 51.00% | ~457 |
 | Fellowship Power | 39.00% | ~350 |
@@ -27,7 +27,7 @@ Rating: 3.40 (Ranked 917)
 | Superior | 5.00% | ~45 |
 | Daily Quest Completionist | 4.00% | ~36 |
 | Milestone collector | 4.00% | ~36 |
-| Scientist | 3.00% | ~27 |
+| Scientist | 4.00% | ~36 |
 | Background Story | 2.00% | ~18 |
 | Frostfire Liberator | 2.00% | ~18 |
 | Here We Go Again | 2.00% | ~18 |

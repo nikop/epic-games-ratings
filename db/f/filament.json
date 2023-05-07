@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 20,
   "Rating": 4.32,
   "RatingHistory": [
@@ -180,9 +180,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 189095,
+  "EOS_Progressed": 189105,
   "EOS_Completed": 409,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1605,6 +1605,11 @@
       "Time": "2023-05-07T17:06:31.2484689+00:00",
       "NumProgressed": 189095,
       "NumCompleted": 409
+    },
+    {
+      "Time": "2023-05-07T18:07:58.3627336+00:00",
+      "NumProgressed": 189105,
+      "NumCompleted": 409
     }
   ],
   "TotalAchievements": 29,
@@ -1616,7 +1621,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -1640,7 +1645,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 177749
+      "UsersEstimate": 177759
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -1664,7 +1669,7 @@
       "Name": "A full deck.",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -1792,7 +1797,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -1847,7 +1852,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 189095,
+      "Progressed": 189105,
       "Completed": 409
     }
   ],
@@ -1855,8 +1860,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-04-27T13:58:35.1849608+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:31.2484684+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:07:58.3627331+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:02.1474684+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:59:55.8128075+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:31.2484998+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:00:56.5203951+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:07:58.3627644+00:00"
 }

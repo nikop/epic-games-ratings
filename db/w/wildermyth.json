@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1142,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -261,6 +261,11 @@
       "Time": "2023-05-07T16:06:51.0077642+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-07T18:07:47.0880505+00:00",
+      "NumProgressed": 1142,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -318,9 +323,9 @@
       "ID": "achievement_beatGameOnIronmanMode",
       "SetID": "95dc8p",
       "Name": "Let Me Get My Chisel",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -336,7 +341,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -432,7 +437,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -472,7 +477,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -480,7 +485,7 @@
       "Name": "Chain Reaction",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -528,7 +533,7 @@
       "Name": "Echoes Die",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "completedStory_procedural",
@@ -719,15 +724,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1142,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:22.9657035+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:07:47.0880501+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-07T17:01:37.6002727+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:22.965753+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:03:19.1774649+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:07:47.0880982+00:00"
 }

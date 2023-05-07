@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.40% | ~59 |
 | Monastery of the Holy Flame | 0.40% | ~59 |
 | Royal Outpost | 0.40% | ~59 |
+| Statue of the Forefathers | 0.40% | ~59 |
 | Corrosive Torrent | 0.40% | ~59 |
 | Cursed Lands | 0.40% | ~59 |
 | A Real Challenge | 0.40% | ~59 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.30% | ~44 |
 | Forbidden Lands | 0.30% | ~44 |
 | Haunted Forest | 0.30% | ~44 |
-| Statue of the Forefathers | 0.30% | ~44 |
 | Forsaken Gods Temple | 0.30% | ~44 |
 | Watchtower | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,695 (Ranked 97)  
+Progressed: 14,698 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-04 | 14,637 | 30 |
 | 2023-05-05 | 14,657 | 30 |
 | 2023-05-06 | 14,678 | 30 |
-| 2023-05-07 | 14,695 | 30 |
+| 2023-05-07 | 14,698 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,016 (Ranked 149)  

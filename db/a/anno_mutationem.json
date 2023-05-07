@@ -5,9 +5,9 @@
   "Ranking_Rating": 466,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 180,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.55,
   "RatingHistory": [
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 599,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -120,6 +120,11 @@
       "Time": "2023-05-06T22:06:57.9665541+00:00",
       "NumProgressed": 598,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T18:07:37.9655562+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -155,7 +160,7 @@
       "Name": "Big Spender",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Clarity_of_Mind",
@@ -219,7 +224,7 @@
       "Name": "I just love stuff!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "I_think_its_broke",
@@ -243,7 +248,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Lady_Luck",
@@ -299,7 +304,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -307,7 +312,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "The Traveler",
@@ -347,7 +352,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "The_truth_is_out_there",
@@ -418,7 +423,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 599,
       "Completed": 0
     }
   ],
@@ -426,8 +431,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:16.332296+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:07:37.9655555+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.2173842+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:58:50.1304923+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:16.3323241+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:59:25.6291673+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:07:37.9655849+00:00"
 }

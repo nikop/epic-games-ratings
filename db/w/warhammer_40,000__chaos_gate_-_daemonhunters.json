@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.58,
   "NumberOfRatings": 371,
@@ -490,9 +490,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2583,
+  "EOS_Progressed": 2584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -695,6 +695,11 @@
       "Time": "2023-05-07T17:06:34.5332568+00:00",
       "NumProgressed": 2583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T18:08:02.6391225+00:00",
+      "NumProgressed": 2584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -722,7 +727,7 @@
       "Name": "Look Over There!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "BloodAndIron",
@@ -890,7 +895,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Kills_Executioner",
@@ -914,7 +919,7 @@
       "Name": "Friendly Fire",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Kills_Interactable",
@@ -930,7 +935,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "Kills_Streak",
@@ -952,9 +957,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 620
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -962,7 +967,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -1114,7 +1119,7 @@
       "Name": "Harvest No More",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -1122,7 +1127,7 @@
       "Name": "Junk Banishment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -1170,28 +1175,28 @@
       "Name": "Tactical Flexibility",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2583,
+      "Progressed": 2584,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2583,
+      "Progressed": 2584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-04T02:58:02.1888836+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:34.5332563+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:08:02.6391218+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.7346834+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:59:46.6614209+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:34.5333155+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:00:44.2520834+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:08:02.6392037+00:00"
 }

@@ -15,16 +15,16 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.60% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.59% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
 | 19 | [Scorn](games/s/scorn.md) | 7.12% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.52% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 5.18% |
-| 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
+| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.11% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
@@ -48,8 +48,8 @@
 | 46 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 48 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.71% |
-| 50 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
+| 49 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.70% |
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
@@ -65,8 +65,8 @@
 | 63 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 63 | [Somerville](games/s/somerville.md) | 1.61% |
 | 65 | [Frogun](games/f/frogun.md) | 1.55% |
-| 66 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.52% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
+| 67 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.51% |
 | 68 | [Bloodshore](games/b/bloodshore.md) | 1.42% |
 | 69 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.33% |
 | 70 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
@@ -103,7 +103,7 @@
 | 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 102 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 103 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
-| 104 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
+| 104 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.38% |
 | 106 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 106 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |

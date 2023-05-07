@@ -824,9 +824,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 655771,
+  "EOS_Progressed": 655775,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2064,6 +2064,11 @@
       "Time": "2023-05-07T17:06:17.1769456+00:00",
       "NumProgressed": 655771,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-07T18:07:39.1254613+00:00",
+      "NumProgressed": 655775,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2075,7 +2080,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472155
+      "UsersEstimate": 472158
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2083,7 +2088,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380347
+      "UsersEstimate": 380350
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2091,7 +2096,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150827
+      "UsersEstimate": 150828
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -2131,7 +2136,7 @@
       "Name": "Card Sharp",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13115
+      "UsersEstimate": 13116
     },
     {
       "ID": "Achievement_09_Gambler",
@@ -2139,7 +2144,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65577
+      "UsersEstimate": 65578
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -2171,7 +2176,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65577
+      "UsersEstimate": 65578
     },
     {
       "ID": "Achievement_14_Magician",
@@ -2179,7 +2184,7 @@
       "Name": "Magician",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13115
+      "UsersEstimate": 13116
     },
     {
       "ID": "Achievement_15_Hero",
@@ -2211,7 +2216,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150827
+      "UsersEstimate": 150828
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -2219,7 +2224,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91808
+      "UsersEstimate": 91809
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -2227,7 +2232,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111481
+      "UsersEstimate": 111482
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -2339,7 +2344,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163943
+      "UsersEstimate": 163944
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -2355,7 +2360,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59019
+      "UsersEstimate": 59020
     },
     {
       "ID": "Achievement_37_Champion",
@@ -2395,7 +2400,7 @@
       "Name": "Draknar\u0027s Bane",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13115
+      "UsersEstimate": 13116
     },
     {
       "ID": "Achievement_42_Thomas_Bane",
@@ -2458,15 +2463,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655771,
+      "Progressed": 655775,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-07T17:06:17.1769451+00:00",
+  "LastChanged_Achievements": "2023-05-07T18:07:39.1254608+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.98479+00:00",
-  "LastUpdate_Ratings": "2023-05-07T16:58:45.8312416+00:00",
-  "LastUpdate_Achievements": "2023-05-07T17:06:17.1769872+00:00"
+  "LastUpdate_Ratings": "2023-05-07T17:59:18.056847+00:00",
+  "LastUpdate_Achievements": "2023-05-07T18:07:39.1255169+00:00"
 }

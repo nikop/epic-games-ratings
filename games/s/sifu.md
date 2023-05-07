@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~479 |
+| Diligence as a goal | 4.00% | ~480 |
 | Project Arena | 3.00% | ~360 |
 | Bloody Sport | 1.00% | ~120 |
 | The best strikes are the ones we avoid | 0.90% | ~108 |
@@ -40,12 +40,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.30% | ~2,108 |
 | Iron Money | 0.30% | ~2,108 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,108 |
+| Prodigal Child | 0.30% | ~2,108 |
 | Detective Story | 0.30% | ~2,108 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,108 |
 | Sword Stained With Blood | 0.30% | ~2,108 |
 | Martial Hub | 0.30% | ~36 |
 | Secure, Protect, Leave | 0.30% | ~36 |
-| Prodigal Child | 0.20% | ~1,405 |
 | Drunken Fighter | 0.20% | ~1,405 |
 | Martial Artist | 0.20% | ~1,405 |
 | Knowledge Greed | 0.20% | ~1,405 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,686 (Ranked 15)  
+Progressed: 702,687 (Ranked 15)  
 Completed: 12,712 (1.81%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 12,712 (1.81%) (Ranked 58)
 | 2023-05-04 | 702,592 | 12,707 |
 | 2023-05-05 | 702,619 | 12,709 |
 | 2023-05-06 | 702,653 | 12,709 |
-| 2023-05-07 | 702,686 | 12,712 |
+| 2023-05-07 | 702,687 | 12,712 |
 ## Awards
 Max (Great Boss Battles): 6,035  (Ranked 53)  
 Sum: 10,235 (Ranked 77)  
