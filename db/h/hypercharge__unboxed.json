@@ -2,12 +2,12 @@
   "ID": "a8e307d10c8c4940886205582b00a17a",
   "Name": "HYPERCHARGE: Unboxed",
   "ProductSlug": "hypercharge-unboxed",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.63,
   "NumberOfRatings": 20,
@@ -70,6 +70,6 @@
   "FirstSeenRating": "2022-09-09T22:01:31.3463712+00:00",
   "LastChanged": "2023-03-31T05:57:55.6670916+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:23.3307321+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:02:28.8340962+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:06:36.5522832+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:01:58.0886779+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:06:19.0101074+00:00"
 }

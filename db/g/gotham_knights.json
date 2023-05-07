@@ -4,7 +4,7 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 828,
   "Ranking_Popularity": 99,
-  "Ranking_PopularitySum": 138,
+  "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 100,
@@ -918,18 +918,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3628,
       "NumberOfAwardsMax": 2193
+    },
+    {
+      "Time": "2023-05-07T06:01:22.7694323+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3631,
+      "NumberOfAwardsMax": 2196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3628,
-  "NumberOfAwardsMax": 2193,
+  "NumberOfAwards": 3631,
+  "NumberOfAwardsMax": 2196,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2193
+      "Count": 2196
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -988,7 +994,7 @@
   ],
   "EOS_Progressed": 60684,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2025,9 +2031,9 @@
       "ID": "CLAYFACE_3",
       "SetID": "4eo5ebm",
       "Name": "Rock and a Hard Place",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -2321,9 +2327,9 @@
       "ID": "MYSTERY_04",
       "SetID": "4eo5ebm",
       "Name": "Bad Apples in Every Orchard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "MYSTERY_05",
@@ -2407,9 +2413,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-07T04:01:22.6297458+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:50.9829422+00:00",
+  "LastChanged": "2023-05-07T06:01:22.7694321+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:07:24.9851243+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:01:45.1551237+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:50.9830046+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:01:22.7694328+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:07:24.9851777+00:00"
 }

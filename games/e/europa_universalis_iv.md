@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,811 |
-| That's a Grand Army | 8.00% | ~2,499 |
-| That is mine! | 8.00% | ~2,499 |
-| Victorious! | 8.00% | ~2,499 |
-| Brothers in Arms | 6.00% | ~1,874 |
-| That's a Grand Navy | 6.00% | ~1,874 |
-| Seriously?! | 6.00% | ~1,874 |
-| For the Glory | 5.00% | ~1,562 |
-| Cold War | 4.00% | ~1,249 |
-| True Catholic | 4.00% | ~1,249 |
-| Defender of the Faith | 3.00% | ~937 |
-| It's all about the money | 3.00% | ~937 |
-| Respected | 3.00% | ~937 |
+| Until death do us apart | 9.00% | ~2,813 |
+| That's a Grand Army | 8.00% | ~2,501 |
+| That is mine! | 8.00% | ~2,501 |
+| Victorious! | 8.00% | ~2,501 |
+| Brothers in Arms | 6.00% | ~1,875 |
+| That's a Grand Navy | 6.00% | ~1,875 |
+| Seriously?! | 6.00% | ~1,875 |
+| For the Glory | 5.00% | ~1,563 |
+| Cold War | 4.00% | ~1,250 |
+| True Catholic | 4.00% | ~1,250 |
+| Defender of the Faith | 3.00% | ~938 |
+| It's all about the money | 3.00% | ~938 |
+| Respected | 3.00% | ~938 |
 | Blockader | 2.00% | ~625 |
 | Combined Arms | 2.00% | ~625 |
 | Double the Love | 2.00% | ~625 |
@@ -29,19 +29,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~625 |
 | Total Control | 2.00% | ~625 |
 | Truly Divine Ruler | 2.00% | ~625 |
-| Agressive Expander | 1.00% | ~312 |
-| Azur semé de lis or | 1.00% | ~312 |
-| Bright Spark | 1.00% | ~312 |
-| Factionalism | 1.00% | ~312 |
-| A Golden Empire | 1.00% | ~312 |
-| My armies are invincible! | 1.00% | ~312 |
+| Agressive Expander | 1.00% | ~313 |
+| Azur semé de lis or | 1.00% | ~313 |
+| Bright Spark | 1.00% | ~313 |
+| Factionalism | 1.00% | ~313 |
+| A Golden Empire | 1.00% | ~313 |
+| My armies are invincible! | 1.00% | ~313 |
 | All That's Thine Shall Be Mine | 0.90% | ~281 |
 | City of Cities | 0.90% | ~281 |
 | Isn't this the way to India? | 0.70% | ~219 |
 | Market Control | 0.70% | ~219 |
 | The Five Colonies | 0.70% | ~219 |
-| The Emperors new clothes | 0.60% | ~187 |
-| This navy can take it all | 0.60% | ~187 |
+| The Emperors new clothes | 0.60% | ~188 |
+| This navy can take it all | 0.60% | ~188 |
 | Down Under | 0.50% | ~156 |
 | Electable! | 0.50% | ~156 |
 | Time Bandit | 0.50% | ~156 |
@@ -66,25 +66,25 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.30% | ~94 |
 | The Continuation of Diplomacy | 0.30% | ~94 |
 | This is My Faith | 0.30% | ~94 |
-| A Decent Reserve | 0.20% | ~62 |
-| A Pile of Gold | 0.20% | ~62 |
-| AAA Credit | 0.20% | ~62 |
-| Bleed Them Dry | 0.20% | ~62 |
-| Global Hegemony | 0.20% | ~62 |
-| Grand Duchy | 0.20% | ~62 |
-| Imperio español | 0.20% | ~62 |
-| Italian Ambition | 0.20% | ~62 |
-| Just a Little Patience | 0.20% | ~62 |
-| Magellan’s Voyage | 0.20% | ~62 |
-| Multiculturalism | 0.20% | ~62 |
-| No Pirates in my Caribbean | 0.20% | ~62 |
-| Not so sad a state... | 0.20% | ~62 |
-| The Chrysanthemum Throne | 0.20% | ~62 |
-| Three Trivial Tributary Tribes | 0.20% | ~62 |
-| Traditional Player | 0.20% | ~62 |
-| Vasa or Wettin? | 0.20% | ~62 |
-| Wonderful | 0.20% | ~62 |
-| World Discoverer | 0.20% | ~62 |
+| A Decent Reserve | 0.20% | ~63 |
+| A Pile of Gold | 0.20% | ~63 |
+| AAA Credit | 0.20% | ~63 |
+| Bleed Them Dry | 0.20% | ~63 |
+| Global Hegemony | 0.20% | ~63 |
+| Grand Duchy | 0.20% | ~63 |
+| Imperio español | 0.20% | ~63 |
+| Italian Ambition | 0.20% | ~63 |
+| Just a Little Patience | 0.20% | ~63 |
+| Magellan’s Voyage | 0.20% | ~63 |
+| Multiculturalism | 0.20% | ~63 |
+| No Pirates in my Caribbean | 0.20% | ~63 |
+| Not so sad a state... | 0.20% | ~63 |
+| The Chrysanthemum Throne | 0.20% | ~63 |
+| Three Trivial Tributary Tribes | 0.20% | ~63 |
+| Traditional Player | 0.20% | ~63 |
+| Vasa or Wettin? | 0.20% | ~63 |
+| Wonderful | 0.20% | ~63 |
+| World Discoverer | 0.20% | ~63 |
 | A Blessed Nation | 0.10% | ~31 |
 | A Hero’s Welcome | 0.10% | ~31 |
 | A Manchurian Candidate | 0.10% | ~31 |
@@ -137,6 +137,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Forever Golden | 0.10% | ~31 |
 | Forgive me, for I have Sindh | 0.10% | ~31 |
 | Foul Mouthed | 0.10% | ~31 |
+| From Frankfurt to the Andes | 0.10% | ~31 |
 | From Humble Origins | 0.10% | ~31 |
 | Frozen Assets | 0.10% | ~31 |
 | Fugger Banking | 0.10% | ~31 |
@@ -294,7 +295,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
 | The First Toungoo Empire | 0.00% | ~0 |
-| From Frankfurt to the Andes | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,237 (Ranked 81)  
+Progressed: 31,257 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
-| 2023-05-07 | 31,237 | 0 |
+| 2023-05-07 | 31,257 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
 Sum: 42,857 (Ranked 26)  

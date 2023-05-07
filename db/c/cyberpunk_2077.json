@@ -5341,10 +5341,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 166803,
       "NumberOfAwardsMax": 63762
+    },
+    {
+      "Time": "2023-05-07T05:59:18.0345443+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 166818,
+      "NumberOfAwardsMax": 63762
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166803,
+  "NumberOfAwards": 166818,
   "NumberOfAwardsMax": 63762,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5370,7 +5376,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7163
+      "Count": 7178
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5421,10 +5427,10 @@
       "Count": 4654
     }
   ],
-  "EOS_Progressed": 798368,
+  "EOS_Progressed": 798370,
   "EOS_Completed": 1574,
-  "EOS_NewPlayers": 1572,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 1559,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -6791,6 +6797,11 @@
       "Time": "2023-05-07T05:07:00.7899482+00:00",
       "NumProgressed": 798368,
       "NumCompleted": 1574
+    },
+    {
+      "Time": "2023-05-07T06:06:39.3262611+00:00",
+      "NumProgressed": 798370,
+      "NumCompleted": 1574
     }
   ],
   "TotalAchievements": 44,
@@ -6818,7 +6829,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 119755
+      "UsersEstimate": 119756
     },
     {
       "ID": "Cyberjunkie",
@@ -6834,7 +6845,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295396
+      "UsersEstimate": 295397
     },
     {
       "ID": "FollowingTheRiver",
@@ -6922,7 +6933,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167657
+      "UsersEstimate": 167658
     },
     {
       "ID": "MaxPain",
@@ -6978,7 +6989,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215559
+      "UsersEstimate": 215560
     },
     {
       "ID": "Specialist",
@@ -6986,7 +6997,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63869
+      "UsersEstimate": 63870
     },
     {
       "ID": "Temperance",
@@ -7018,7 +7029,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 534907
+      "UsersEstimate": 534908
     },
     {
       "ID": "TheHermit",
@@ -7114,7 +7125,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 87820
+      "UsersEstimate": 87821
     },
     {
       "ID": "UnderPressure",
@@ -7153,15 +7164,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 798368,
+      "Progressed": 798370,
       "Completed": 1574
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-07T04:59:14.5239581+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:00.7899478+00:00",
+  "LastChanged": "2023-05-07T05:59:18.034544+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:06:39.3262604+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:59:14.5239589+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:00.7899894+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:59:18.0345448+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:06:39.3263054+00:00"
 }

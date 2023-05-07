@@ -1,25 +1,25 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.45 (Ranked 600)  
+Rating: 4.45 (Ranked 599)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rookie No More | 26.00% | ~250 |
 | Increasing your Power Level | 26.00% | ~250 |
-| Enter the Speed Gauntlet | 24.00% | ~231 |
-| I just can't choose | 24.00% | ~231 |
+| Enter the Speed Gauntlet | 23.00% | ~221 |
+| I just can't choose | 23.00% | ~221 |
 | A Cheese Grater to the Face | 19.00% | ~183 |
 | Put it on a shelf | 18.00% | ~173 |
-| It's like an haircut | 17.00% | ~163 |
+| It's like an haircut | 17.00% | ~164 |
 | Suit up | 16.00% | ~154 |
 | Walked like an Egyptian | 15.00% | ~144 |
 | Ride in the rising sun | 15.00% | ~144 |
 | Martian explorer | 12.00% | ~115 |
 | Rookie No-No More | 12.00% | ~115 |
 | Running at the speed of sound | 11.00% | ~106 |
-| To the core | 9.00% | ~86 |
-| Blurred photofinish | 9.00% | ~86 |
+| To the core | 9.00% | ~87 |
+| Blurred photofinish | 9.00% | ~87 |
 | EZ game EZ life | 7.00% | ~67 |
 | First step into a larger world | 7.00% | ~67 |
 | Over the clouds | 6.00% | ~58 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 600)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 961 (Ranked 162)  
+Progressed: 962 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-04-29 | 958 | 0 |
 | 2023-04-30 | 960 | 0 |
 | 2023-05-03 | 961 | 0 |
+| 2023-05-07 | 962 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

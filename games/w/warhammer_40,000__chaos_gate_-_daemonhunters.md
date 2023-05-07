@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,580 (Ranked 134)  
+Progressed: 2,581 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 2,574 | 0 |
 | 2023-05-05 | 2,576 | 0 |
 | 2023-05-06 | 2,580 | 0 |
+| 2023-05-07 | 2,581 | 0 |
 ## Awards
 Max (Character Customization): 207  (Ranked 253)  
 Sum: 415 (Ranked 296)  

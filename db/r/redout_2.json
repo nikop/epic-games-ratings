@@ -2,12 +2,12 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.45,
   "RatingHistory": [
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 961,
+  "EOS_Progressed": 962,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -111,6 +111,11 @@
     {
       "Time": "2023-05-03T18:03:36.6257282+00:00",
       "NumProgressed": 961,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T06:07:02.0384634+00:00",
+      "NumProgressed": 962,
       "NumCompleted": 0
     }
   ],
@@ -227,7 +232,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -273,9 +278,9 @@
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 221
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -347,7 +352,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FINISHSOUND",
@@ -417,9 +422,9 @@
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 221
     },
     {
       "ID": "ONELIVERY",
@@ -443,7 +448,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ONEPLATINUM",
@@ -538,7 +543,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 961,
+      "Progressed": 962,
       "Completed": 0
     }
   ],
@@ -546,8 +551,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:26.5700909+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:07:02.0384629+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:25.0489793+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:59:44.3695823+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:26.570133+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:59:42.7992332+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:07:02.0385077+00:00"
 }

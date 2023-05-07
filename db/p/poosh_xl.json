@@ -2,16 +2,16 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23,6 +23,11 @@
     {
       "Time": "2023-05-06T20:06:23.6742996+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T06:06:55.3921973+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -129,7 +134,7 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -137,7 +142,7 @@
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -145,7 +150,7 @@
       "ID": "Poosh Past 10000",
       "SetID": "5n829i",
       "Name": "Pooshed Past 10000",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -153,15 +158,15 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 60,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Poosh Past 5000",
       "SetID": "5n829i",
       "Name": "Pooshed Past 5000",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -169,7 +174,7 @@
       "ID": "Poosh Past 7500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 7500",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -177,7 +182,7 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -185,7 +190,7 @@
       "ID": "Terrible Start",
       "SetID": "5n829i",
       "Name": "Terrible Start",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 3
     }
@@ -194,13 +199,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:19.0234477+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:06:55.3921967+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:57.379216+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:59:04.9039729+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:19.0234631+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:59:09.0277156+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:06:55.3922116+00:00"
 }

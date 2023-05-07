@@ -3504,10 +3504,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29822,
       "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-05-07T05:59:38.0527737+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29823,
+      "NumberOfAwardsMax": 4868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29822,
+  "NumberOfAwards": 29823,
   "NumberOfAwardsMax": 4868,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3551,12 +3557,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3225
+      "Count": 3226
     }
   ],
-  "EOS_Progressed": 86706,
+  "EOS_Progressed": 86708,
   "EOS_Completed": 1809,
-  "EOS_NewPlayers": 738,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4903,6 +4909,11 @@
     {
       "Time": "2023-05-07T05:08:05.8477004+00:00",
       "NumProgressed": 86706,
+      "NumCompleted": 1809
+    },
+    {
+      "Time": "2023-05-07T06:07:37.7094472+00:00",
+      "NumProgressed": 86708,
       "NumCompleted": 1809
     }
   ],
@@ -6809,9 +6820,9 @@
       "ID": "objective_completed_403",
       "SetID": "cc37lbc",
       "Name": "Fugitives",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_404",
@@ -8826,21 +8837,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52980,
-      "Completed": 2470
+      "Progressed": 52982,
+      "Completed": 2472
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86706,
+      "Progressed": 86708,
       "Completed": 1809
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-06T15:59:32.6872105+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:08:05.8476999+00:00",
+  "LastChanged": "2023-05-07T05:59:38.0527734+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:07:37.7094467+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:59:38.4089852+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:08:05.8505384+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:59:38.0527742+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:07:37.7122232+00:00"
 }

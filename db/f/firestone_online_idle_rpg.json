@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 887,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1103,6 +1103,11 @@
       "Time": "2023-05-07T04:07:13.0820126+00:00",
       "NumProgressed": 886,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T06:06:59.3019407+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1264,9 +1269,9 @@
       "ID": "engineermastery",
       "SetID": "3nl4bcg",
       "Name": "Engineer Mastery",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "enhancedwarmachines",
@@ -1514,7 +1519,7 @@
       "Name": "Prestigious x10",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "relicofthepast",
@@ -1570,7 +1575,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "thealchemist",
@@ -1674,7 +1679,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "warmachinesarmy",
@@ -1706,14 +1711,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 887,
       "Completed": 1
     }
   ],
@@ -1721,8 +1726,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:23.4189054+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:06:59.3019402+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:59:33.2980782+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:23.4189883+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:59:34.4033351+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:06:59.3020187+00:00"
 }

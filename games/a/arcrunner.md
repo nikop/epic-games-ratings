@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Augmented | 76.00% | ~48 |
 | Rookie | 76.00% | ~48 |
-| Augmented | 75.00% | ~47 |
-| Challenge Accepted | 57.00% | ~36 |
-| Nanonic I | 57.00% | ~36 |
-| Terminated I | 57.00% | ~36 |
-| Unlocked and Loaded | 52.00% | ~33 |
-| Terminated II | 48.00% | ~30 |
+| Challenge Accepted | 60.00% | ~38 |
+| Nanonic I | 60.00% | ~38 |
+| Terminated I | 60.00% | ~38 |
+| Unlocked and Loaded | 56.00% | ~35 |
+| Terminated II | 49.00% | ~31 |
 | Terminated III | 33.00% | ~21 |
 | Nanonic II | 30.00% | ~19 |
 | Challenge Mastered | 24.00% | ~15 |

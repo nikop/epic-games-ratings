@@ -59,6 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.20% | ~173 |
 | Nimble Escape | 0.20% | ~173 |
 | Useless Allies | 0.20% | ~173 |
+| Fugitives | 0.20% | ~173 |
 | Premature Betrayal | 0.20% | ~173 |
 | A Tale of Two Cities | 0.20% | ~173 |
 | The Dead Three | 0.20% | ~173 |
@@ -269,7 +270,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.10% | ~87 |
 | Stumbling Escape | 0.10% | ~87 |
 | Distracted Escape | 0.10% | ~53 |
-| Fugitives | 0.10% | ~87 |
 | From The Shadows | 0.10% | ~87 |
 | Spined Nuisances | 0.10% | ~87 |
 | Twilight Twist | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,706 (Ranked 59)  
+Progressed: 86,708 (Ranked 59)  
 Completed: 1,809 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,10 +513,10 @@ Completed: 1,809 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,706 | 1,809 |
+| 2023-05-07 | 86,708 | 1,809 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
-Sum: 29,822 (Ranked 37)  
+Sum: 29,823 (Ranked 37)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -526,7 +526,7 @@ Diff (max vs sum): 25
 | This game is Relaxing | 4,478 |
 | This game is Highly Recommended | 3,930 |
 | This game has Amazing Characters | 3,929 |
-| This game has Playful Visuals | 3,225 |
+| This game has Playful Visuals | 3,226 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -631,3 +631,4 @@ Diff (max vs sum): 25
 | 2023-05-04 | 4.06 | - | 4,863 | 29,800 |
 | 2023-05-05 | 4.06 | - | 4,865 | 29,803 |
 | 2023-05-06 | 4.06 | - | 4,868 | 29,822 |
+| 2023-05-07 | 4.06 | - | 4,868 | 29,823 |

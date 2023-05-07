@@ -3,11 +3,11 @@
   "Name": "Ooblets",
   "ProductSlug": "ooblets",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 195,
+  "Ranking_Popularity": 135,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.87,
   "NumberOfRatings": 1446,
@@ -1233,18 +1233,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1792,
       "NumberOfAwardsMax": 1002
+    },
+    {
+      "Time": "2023-05-07T06:00:45.5297263+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1794,
+      "NumberOfAwardsMax": 1004
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1792,
-  "NumberOfAwardsMax": 1002,
+  "NumberOfAwards": 1794,
+  "NumberOfAwardsMax": 1004,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1002
+      "Count": 1004
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1330,8 +1336,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2023-05-02T02:59:27.4808229+00:00",
+  "LastChanged": "2023-05-07T06:00:45.5297261+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.3779531+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:01:00.5489427+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:05:32.0129877+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:00:45.5297268+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:05:25.3641606+00:00"
 }

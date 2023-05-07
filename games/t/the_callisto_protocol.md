@@ -34,9 +34,9 @@ Rating: 4.18 (Ranked 822)
 | You Belong Here | 1.00% | ~5 |
 | Grim Reaper | 0.50% | ~63 |
 | Armed to the Teeth | 0.30% | ~1 |
+| The Protocol is About Life | 0.20% | ~25 |
 | Recidivist | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
-| The Protocol is About Life | 0.10% | ~13 |
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,540 (Ranked 100)  

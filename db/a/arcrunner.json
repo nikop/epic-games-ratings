@@ -252,9 +252,9 @@
       "ID": "ACHV_AUGMENTED",
       "SetID": "cceobco",
       "Name": "Augmented",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -268,9 +268,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -364,9 +364,9 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -420,17 +420,17 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -452,9 +452,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -485,8 +485,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:45.4415158+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:07:20.0499426+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:01:39.2346425+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:45.4415384+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:01:17.9801286+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:07:20.0499721+00:00"
 }

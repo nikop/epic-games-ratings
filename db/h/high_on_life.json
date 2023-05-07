@@ -2,14 +2,14 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 255,
+  "Ranking_Rating": 234,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 73,
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2022-12-17T22:57:08.2654509+00:00",
@@ -180,15 +180,21 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-07T05:59:32.3480186+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22621,
+  "EOS_Progressed": 22622,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -471,6 +477,11 @@
       "Time": "2023-05-07T04:06:56.8561102+00:00",
       "NumProgressed": 22621,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-07T06:06:43.9983341+00:00",
+      "NumProgressed": 22622,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -498,7 +509,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17418
+      "UsersEstimate": 17419
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -546,7 +557,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17192
+      "UsersEstimate": 17193
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -586,7 +597,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18775
+      "UsersEstimate": 18776
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -602,7 +613,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12894
+      "UsersEstimate": 12895
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -610,7 +621,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13346
+      "UsersEstimate": 13347
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -618,7 +629,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5655
+      "UsersEstimate": 5656
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -666,7 +677,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16513
+      "UsersEstimate": 16514
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -682,7 +693,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -698,7 +709,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -737,16 +748,16 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22621,
+      "Progressed": 22622,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
-  "LastChanged": "2023-04-28T05:57:41.6897144+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:06.3506228+00:00",
+  "LastChanged": "2023-05-07T05:59:32.3480184+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:06:43.9983335+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:59:30.980148+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:06.350651+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:59:32.348019+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:06:43.9983589+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.24,
   "RatingHistory": [
@@ -218,7 +218,7 @@
   "Tags": [],
   "EOS_Progressed": 1542,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -490,9 +490,9 @@
       "ID": "ACHV_26",
       "SetID": "8p5mlmc",
       "Name": "Rigged And Ready",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1249
     },
     {
       "ID": "ACHV_27",
@@ -755,8 +755,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:08:03.9882019+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:07:36.1249192+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:33.3150703+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:02:43.0712561+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:08:03.9882724+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:02:09.8589194+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:07:36.1249732+00:00"
 }

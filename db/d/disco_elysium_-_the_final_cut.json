@@ -1059,9 +1059,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118074,
+  "EOS_Progressed": 118076,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2269,6 +2269,11 @@
       "Time": "2023-05-07T05:07:35.2778259+00:00",
       "NumProgressed": 118074,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-07T06:07:09.6919721+00:00",
+      "NumProgressed": 118076,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 40,
@@ -2312,7 +2317,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21253
+      "UsersEstimate": 21254
     },
     {
       "ID": "ACH_COP_BAD",
@@ -2320,7 +2325,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "ACH_COP_BORING",
@@ -2400,7 +2405,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -2432,7 +2437,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "ACH_DOLORES",
@@ -2496,7 +2501,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16530
+      "UsersEstimate": 16531
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -2504,7 +2509,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -2568,7 +2573,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -2599,15 +2604,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118074,
+      "Progressed": 118076,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:35.2778256+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:07:09.6919708+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:00:54.7427002+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:35.2778642+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:00:40.1238036+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:07:09.692035+00:00"
 }

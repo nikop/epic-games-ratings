@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -47,6 +47,11 @@
     {
       "Time": "2023-05-07T05:07:00.9387797+00:00",
       "NumProgressed": 191,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-07T06:06:39.4329598+00:00",
+      "NumProgressed": 192,
       "NumCompleted": 2
     }
   ],
@@ -97,9 +102,9 @@
       "ID": "profile_ryan",
       "SetID": "6h5h9ho",
       "Name": "That wasn\u0027t so bad",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 159
     },
     {
       "ID": "ryan_date2_all",
@@ -137,9 +142,9 @@
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "success_derek",
@@ -161,9 +166,9 @@
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "success_kathleen",
@@ -171,7 +176,7 @@
       "Name": "The intellectual",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "success_lucas",
@@ -210,7 +215,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 2
     }
   ],
@@ -218,8 +223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-07T05:07:00.9387793+00:00",
+  "LastChanged_Achievements": "2023-05-07T06:06:39.4329575+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:46.6137712+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:58:48.0282129+00:00",
-  "LastUpdate_Achievements": "2023-05-07T05:07:00.9387935+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:58:55.7264484+00:00",
+  "LastUpdate_Achievements": "2023-05-07T06:06:39.4329744+00:00"
 }

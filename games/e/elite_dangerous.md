@@ -1,7 +1,7 @@
 # Elite Dangerous
 [Store](https://store.epicgames.com/en-US/p/elite-dangerous)  
 [View Rawdata](../../db/e/elite_dangerous.json)  
-Rating: 4.64 (Ranked 311)  
+Rating: 4.63 (Ranked 325)  
 Number of Ratings: 6,856  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 2,089  (Ranked 102)  
@@ -122,3 +122,4 @@ Diff (max vs sum): 32
 | 2023-05-04 | 4.64 | - | 2,085 | 11,980 |
 | 2023-05-05 | 4.64 | - | 2,085 | 11,990 |
 | 2023-05-06 | 4.64 | - | 2,089 | 11,997 |
+| 2023-05-07 | 4.63 | - | 2,089 | 11,997 |
