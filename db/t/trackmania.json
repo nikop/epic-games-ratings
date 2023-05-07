@@ -5,9 +5,9 @@
   "Ranking_Rating": 256,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 51,
-  "Ranking_EOS_Progress": 382,
+  "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.67,
   "NumberOfRatings": 6825,
@@ -4615,10 +4615,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 21894,
       "NumberOfAwardsMax": 2542
+    },
+    {
+      "Time": "2023-05-07T07:59:37.1013226+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21905,
+      "NumberOfAwardsMax": 2542
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21894,
+  "NumberOfAwards": 21905,
   "NumberOfAwardsMax": 2542,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4650,7 +4656,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2294
+      "Count": 2305
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4706,8 +4712,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-05-06T23:59:22.6120849+00:00",
+  "LastChanged": "2023-05-07T07:59:37.1013225+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:32.3072585+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:59:30.3133247+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:02:22.2754311+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:59:37.101323+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:02:52.2324062+00:00"
 }

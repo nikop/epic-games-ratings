@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,980 (Ranked 38)  
+Progressed: 265,983 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,10 +68,10 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 265,980 | 351 |
+| 2023-05-07 | 265,983 | 351 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
-Sum: 33,697 (Ranked 33)  
+Sum: 33,700 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -86,7 +86,7 @@ Diff (max vs sum): -15
 | This game is Highly Recommended | 669 |
 | This game has Quickly Understood Controls | 614 |
 | This game has Beautiful Visuals | 592 |
-| This game has a Creative Community | 452 |
+| This game has a Creative Community | 455 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -134,4 +134,4 @@ Diff (max vs sum): -15
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
 | 2023-05-05 | 4.77 | 18,393 | 33,525 |
 | 2023-05-06 | 4.77 | 18,430 | 33,633 |
-| 2023-05-07 | 4.77 | 18,488 | 33,697 |
+| 2023-05-07 | 4.77 | 18,488 | 33,700 |

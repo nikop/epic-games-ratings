@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 490 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 490 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,437 | 116 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,031 | 86 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,034 | 86 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 483 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 490 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 490 |
@@ -56,7 +56,7 @@
 | 49 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 490 |
 | 55 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 50 | 385 |
 | 55 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 490 |
-| 55 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 387 | 202 |
+| 55 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 387 | 203 |
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 490 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 345 |
 | 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 490 |
@@ -407,7 +407,7 @@
 | 394 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 352 |
 | 394 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 490 |
 | 394 | [The Medium](games/t/the_medium.md) | 4.59 | 0 | 490 |
-| 394 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,165 | 84 |
+| 394 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,166 | 84 |
 | 394 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 444 |
 | 394 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 261 | 235 |
 | 394 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
@@ -427,7 +427,7 @@
 | 413 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,054 | 52 |
 | 413 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 490 |
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 207 | 253 |
-| 413 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,333 | 22 |
+| 413 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,335 | 22 |
 | 429 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 490 |
 | 429 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 490 |
 | 429 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 490 |
@@ -557,7 +557,7 @@
 | 550 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 231 |
 | 550 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 227 | 244 |
 | 550 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 490 |
-| 550 | [Maneater](games/m/maneater.md) | 4.49 | 13,430 | 24 |
+| 550 | [Maneater](games/m/maneater.md) | 4.49 | 13,434 | 24 |
 | 550 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 611 | 162 |
 | 550 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 490 |
 | 550 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 344 |
@@ -699,7 +699,7 @@
 | 696 | [Breathedge](games/b/breathedge.md) | 4.37 | 0 | 490 |
 | 696 | [Core](games/c/core.md) | 4.37 | 728 | 152 |
 | 696 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
-| 696 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,335 | 27 |
+| 696 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,344 | 27 |
 | 696 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |
 | 696 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 490 |
 | 696 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 395 |
@@ -843,11 +843,11 @@
 | 839 | [Relicta](games/r/relicta.md) | 4.15 | 193 | 260 |
 | 839 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 359 |
 | 839 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 490 |
+| 844 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 490 |
 | 844 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 490 |
 | 844 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 490 |
-| 846 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 490 |
-| 846 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 490 |
-| 846 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 490 |
+| 847 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 490 |
+| 847 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 490 |
 | 849 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 490 |
 | 849 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 73 | 354 |
 | 849 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 434 |
@@ -890,13 +890,13 @@
 | 887 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.97 | 68 | 366 |
 | 889 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 401 |
 | 889 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 0 | 490 |
+| 891 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 236 | 241 |
 | 891 | [Patron](games/p/patron.md) | 3.94 | 0 | 490 |
-| 892 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 236 | 241 |
 | 893 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 447 |
 | 893 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 490 |
 | 893 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 490 |
 | 893 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 0 | 490 |
-| 893 | [Warface](games/w/warface.md) | 3.92 | 387 | 202 |
+| 893 | [Warface](games/w/warface.md) | 3.92 | 388 | 202 |
 | 898 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 318 |
 | 899 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 490 |
 | 900 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 0 | 490 |
@@ -908,9 +908,9 @@
 | 905 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 368 |
 | 907 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,023 | 133 |
 | 908 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 490 |
-| 909 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
-| 909 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
-| 909 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 48 | 391 |
+| 909 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 48 | 391 |
+| 910 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
+| 910 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
 | 912 | [Poker Club](games/p/poker_club.md) | 3.70 | 0 | 490 |
 | 913 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
 | 914 | [Adios](games/a/adios.md) | 3.50 | 0 | 490 |

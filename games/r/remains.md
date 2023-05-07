@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome | 100.00% | ~11 |
-| Garbage collector | 82.00% | ~9 |
-| Om nom nom | 55.00% | ~6 |
+| Garbage collector | 91.00% | ~10 |
+| Om nom nom | 64.00% | ~7 |
+| Repair master | 45.00% | ~5 |
 | No one will hear you! | 36.00% | ~4 |
-| Repair master | 36.00% | ~4 |
 | I am speed! | 27.00% | ~3 |
 | It's safe here! | 18.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

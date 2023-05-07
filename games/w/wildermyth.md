@@ -56,7 +56,7 @@ Number of Ratings: 45  (23.09.2022)
 | Solid as the Hills | 1.00% | ~11 |
 | Symbiosis | 1.00% | ~11 |
 | Thwack! | 1.00% | ~11 |
-| I'm Not Smiling | 0.80% | ~9 |
+| I'm Not Smiling | 0.90% | ~10 |
 | A Temperamental Shrub | 0.80% | ~9 |
 | A Lowly Crust of Beef | 0.70% | ~8 |
 | We Call That Mortificient! | 0.50% | ~6 |

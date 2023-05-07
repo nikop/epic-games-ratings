@@ -6,25 +6,25 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,377 |
-| Worker Specialization | 78.00% | ~4,321 |
-| First Contact | 74.00% | ~4,100 |
-| Win a Battle | 67.00% | ~3,712 |
-| Anomaly Researcher | 63.00% | ~3,490 |
-| Unleash My Power | 62.00% | ~3,435 |
-| Own 30 Planets | 35.00% | ~1,939 |
-| Xenocide | 33.00% | ~1,828 |
+| Colonize a Planet | 79.00% | ~4,378 |
+| Worker Specialization | 78.00% | ~4,323 |
+| First Contact | 74.00% | ~4,101 |
+| Win a Battle | 67.00% | ~3,713 |
+| Anomaly Researcher | 63.00% | ~3,491 |
+| Unleash My Power | 62.00% | ~3,436 |
+| Own 30 Planets | 35.00% | ~1,940 |
+| Xenocide | 33.00% | ~1,829 |
 | Commodity Trader | 32.00% | ~1,773 |
-| Design a Civilization | 31.00% | ~1,717 |
+| Design a Civilization | 31.00% | ~1,718 |
 | Design a Ship | 29.00% | ~1,607 |
-| Commodity Seller | 26.00% | ~1,440 |
+| Commodity Seller | 26.00% | ~1,441 |
 | Prestige Victory! | 14.00% | ~776 |
-| Galactic War | 11.00% | ~609 |
+| Galactic War | 11.00% | ~610 |
 | Trading Partner | 9.00% | ~499 |
 | Fleet Victory | 8.00% | ~443 |
 | Win as Terrans | 7.00% | ~388 |
 | Win with a Custom Faction | 7.00% | ~388 |
-| Gain an Ally | 6.00% | ~332 |
+| Gain an Ally | 6.00% | ~333 |
 | War with the Unknown | 5.00% | ~277 |
 | Conquest Victory! | 4.00% | ~222 |
 | Win Quickly | 4.00% | ~222 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,540 (Ranked 117)  
+Progressed: 5,542 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 5,500 | 0 |
 | 2023-05-05 | 5,516 | 0 |
 | 2023-05-06 | 5,533 | 0 |
-| 2023-05-07 | 5,540 | 0 |
+| 2023-05-07 | 5,542 | 0 |
 ## Awards
 Max (Diverse Characters): 89  (Ranked 335)  
 Sum: 655 (Ranked 266)  

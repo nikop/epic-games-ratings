@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -284,9 +284,9 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -380,9 +380,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -436,9 +436,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -485,8 +485,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-07T07:07:04.9940393+00:00",
+  "LastChanged_Achievements": "2023-05-07T08:07:25.2309379+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:00:59.3458598+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:07:04.9940556+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:01:17.591709+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:07:25.2309527+00:00"
 }

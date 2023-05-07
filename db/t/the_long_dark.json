@@ -4,10 +4,10 @@
   "ProductSlug": "the-long-dark",
   "Ranking_Rating": 141,
   "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 128,
-  "Ranking_EOS_Progress": 382,
+  "Ranking_PopularitySum": 127,
+  "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.74,
   "NumberOfRatings": 4814,
@@ -3036,10 +3036,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 4521,
       "NumberOfAwardsMax": 750
+    },
+    {
+      "Time": "2023-05-07T08:02:04.0222593+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4523,
+      "NumberOfAwardsMax": 750
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4521,
+  "NumberOfAwards": 4523,
   "NumberOfAwardsMax": 750,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3047,7 +3053,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 682
+      "Count": 684
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3103,8 +3109,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-05-06T23:01:38.0588297+00:00",
+  "LastChanged": "2023-05-07T08:02:04.0222591+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:21.7242045+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:01:38.5256633+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:06:03.1502796+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:02:04.0222598+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:06:17.0445437+00:00"
 }

@@ -71,10 +71,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
 | Escort to Waterdeep | 0.20% | ~173 |
+| The Giant's Bane Tavern | 0.20% | ~106 |
 | The Everlasting Rime | 0.20% | ~106 |
 | Close Escort | 0.20% | ~173 |
 | Constant Banditry | 0.20% | ~173 |
 | Waterdeep Detours | 0.20% | ~173 |
+| Easily Distracted | 0.20% | ~173 |
 | Rude Welcome | 0.20% | ~173 |
 | Underdeep Cartography | 0.20% | ~173 |
 | Overdue Rendezvous | 0.20% | ~173 |
@@ -404,7 +406,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~53 |
 | Prisoners of Lolth | 0.10% | ~53 |
 | Prisoners of Unknown Choices | 0.10% | ~53 |
-| The Giant's Bane Tavern | 0.10% | ~53 |
 | Rime Bandits | 0.10% | ~53 |
 | Giant-Size Adventure | 0.10% | ~53 |
 | Power of Three | 0.10% | ~53 |
@@ -413,7 +414,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only Human | 0.10% | ~53 |
 | The Long Haul | 0.10% | ~87 |
 | Lost in the Deep | 0.10% | ~87 |
-| Easily Distracted | 0.10% | ~87 |
 | An Awakened Axe | 0.10% | ~53 |
 | CONtagious Cold | 0.10% | ~53 |
 | Ten in Ten-Towns | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,716 (Ranked 59)  
+Progressed: 86,722 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,716 | 1,810 |
+| 2023-05-07 | 86,722 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,823 (Ranked 37)  

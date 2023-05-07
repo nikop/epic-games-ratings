@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 888,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1210,9 +1210,9 @@
       "ID": "dailyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Daily Quest Completionist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "doingmypart",
@@ -1298,9 +1298,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 124
     },
     {
       "ID": "fellowshippower",
@@ -1330,9 +1330,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 89
     },
     {
       "ID": "gearenchanting",
@@ -1434,9 +1434,9 @@
       "ID": "masterenchanter",
       "SetID": "3nl4bcg",
       "Name": "Master Enchanter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "mastery",
@@ -1514,9 +1514,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 462
     },
     {
       "ID": "prestigiousx10",
@@ -1731,8 +1731,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-07T07:06:46.056032+00:00",
+  "LastChanged_Achievements": "2023-05-07T08:07:04.0029874+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:59:14.4757806+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:06:46.0560967+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:59:19.9653787+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:07:04.0030513+00:00"
 }

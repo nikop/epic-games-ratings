@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242586,
+  "EOS_Progressed": 242587,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1380,6 +1380,11 @@
       "Time": "2023-05-07T07:06:58.2273121+00:00",
       "NumProgressed": 242586,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T08:07:17.6856099+00:00",
+      "NumProgressed": 242587,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -1487,7 +1492,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43665
+      "UsersEstimate": 43666
     },
     {
       "ID": "curator",
@@ -1591,7 +1596,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63072
+      "UsersEstimate": 63073
     },
     {
       "ID": "justABit",
@@ -1758,7 +1763,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 242586,
+      "Progressed": 242587,
       "Completed": 1
     }
   ],
@@ -1766,8 +1771,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-07T07:06:58.2273118+00:00",
+  "LastChanged_Achievements": "2023-05-07T08:07:17.6856094+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.9561807+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:00:27.9681741+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:06:58.2273491+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:00:42.187019+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:07:17.6856447+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Rating": 4.17,
   "RatingHistory": [
     {
@@ -992,7 +992,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60685,
+  "EOS_Progressed": 60686,
   "EOS_Completed": 89,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 2,
@@ -1907,6 +1907,11 @@
       "Time": "2023-05-07T07:07:09.9553218+00:00",
       "NumProgressed": 60685,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T08:07:30.7538511+00:00",
+      "NumProgressed": 60686,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2124,9 +2129,9 @@
       "ID": "DEFEAT_OC_2",
       "SetID": "4eo5ebm",
       "Name": "Shock Til They Drop",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -2405,13 +2410,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60685,
+      "Progressed": 60686,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30965,
+      "Progressed": 30966,
       "Completed": 2630
     }
   ],
@@ -2419,8 +2424,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-07T06:01:22.7694321+00:00",
-  "LastChanged_Achievements": "2023-05-07T07:07:09.9553214+00:00",
+  "LastChanged_Achievements": "2023-05-07T08:07:30.7538506+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:01:04.3124385+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:07:09.9553761+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:01:23.3088929+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:07:30.7539142+00:00"
 }

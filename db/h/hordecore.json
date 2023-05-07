@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.05,
+  "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -43,6 +43,11 @@
       "Time": "2023-05-03T13:11:23.405446+00:00",
       "NumProgressed": 328,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-07T08:07:30.2307217+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -54,7 +59,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "10",
@@ -70,7 +75,7 @@
       "Name": "Getting the Hang Of This",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "12",
@@ -142,7 +147,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "20",
@@ -222,7 +227,7 @@
       "Name": "Sneaky Sneak",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "4",
@@ -238,7 +243,7 @@
       "Name": "DIY",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "6",
@@ -246,7 +251,7 @@
       "Name": "FOR THE GAUNTLET!",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "7",
@@ -262,7 +267,7 @@
       "Name": "Master Chef",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "9",
@@ -277,7 +282,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 10
     }
   ],
@@ -285,8 +290,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-05-07T07:07:09.6404804+00:00",
+  "LastChanged_Achievements": "2023-05-07T08:07:30.2307214+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:02.0172938+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:01:16.6263326+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:07:09.6405017+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:01:36.5862001+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:07:30.2307425+00:00"
 }

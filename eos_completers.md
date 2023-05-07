@@ -18,7 +18,7 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.81% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.78% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -28,7 +28,7 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.34% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.30% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -39,7 +39,7 @@
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
-| 40 | [HordeCore](games/h/hordecore.md) | 3.05% |
+| 40 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 41 | [Lamentum](games/l/lamentum.md) | 3.00% |
 | 42 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 43 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.94% |
@@ -48,7 +48,7 @@
 | 46 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 48 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 48 | [ZZT!](games/z/zzt!.md) | 2.72% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.71% |
 | 50 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -99,17 +99,17 @@
 | 97 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 98 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
 | 99 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
-| 100 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 100 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
-| 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
+| 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 101 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 101 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 103 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 104 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 105 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
 | 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.38% |
 | 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 107 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 109 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
-| 110 | [Tchia](games/t/tchia.md) | 0.34% |
+| 109 | [Tchia](games/t/tchia.md) | 0.36% |
+| 110 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 111 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 111 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 113 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
@@ -350,6 +350,7 @@
 | 192 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.00% |
 | 192 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 0.00% |
 | 192 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
+| 192 | [Switchball HD](games/s/switchball_hd.md) | 0.00% |
 | 192 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 0.00% |
 | 192 | [Tales of the Orient: The Rising Sun](games/t/tales_of_the_orient__the_rising_sun.md) | 0.00% |
 | 192 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 0.00% |

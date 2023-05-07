@@ -8,25 +8,25 @@ Rating: 3.40 (Ranked 917)
 | Victor | 93.00% | ~826 |
 | World Map | 80.00% | ~710 |
 | Temple of Eternals | 55.00% | ~488 |
-| Prestigious | 51.00% | ~453 |
+| Prestigious | 52.00% | ~462 |
 | Fellowship Power | 38.00% | ~337 |
 | Guild Power | 23.00% | ~204 |
 | Prestigious x10 | 18.00% | ~160 |
+| Exotic Merchant | 14.00% | ~124 |
 | The game is on | 14.00% | ~124 |
-| Exotic Merchant | 13.00% | ~115 |
 | Inspection | 13.00% | ~115 |
 | Dragon Clicker | 12.00% | ~107 |
 | Hero inspection | 12.00% | ~107 |
 | Miner Clicker | 12.00% | ~107 |
-| Full Party | 9.00% | ~80 |
+| Full Party | 10.00% | ~89 |
 | Enlightenment | 7.00% | ~62 |
 | Lieutenant | 7.00% | ~62 |
 | Dragon Master | 6.00% | ~53 |
 | Natural Talent | 6.00% | ~53 |
 | Superior | 5.00% | ~44 |
 | The Unstoppable | 5.00% | ~44 |
+| Daily Quest Completionist | 4.00% | ~36 |
 | Milestone collector | 4.00% | ~36 |
-| Daily Quest Completionist | 3.00% | ~27 |
 | Scientist | 3.00% | ~27 |
 | Background Story | 2.00% | ~18 |
 | Frostfire Liberator | 2.00% | ~18 |
@@ -46,9 +46,9 @@ Rating: 3.40 (Ranked 917)
 | Mysterious Rock | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
+| Master Enchanter | 0.90% | ~8 |
 | The father of Dragons | 0.90% | ~8 |
 | Trader | 0.90% | ~8 |
-| Master Enchanter | 0.80% | ~7 |
 | Dragon Slayer | 0.60% | ~5 |
 | Engineer Mastery | 0.60% | ~5 |
 | Legendary | 0.60% | ~5 |

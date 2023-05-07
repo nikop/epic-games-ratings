@@ -10,20 +10,21 @@
 | The Real Beginning | 50.00% | ~7 |
 | The Birds and the Bees | 36.00% | ~5 |
 | Shook Up | 29.00% | ~4 |
+| Vaccinated | 29.00% | ~4 |
 | Warning: Fragile | 29.00% | ~4 |
+| Job Creator | 21.00% | ~3 |
 | Task Master | 21.00% | ~3 |
-| Vaccinated | 21.00% | ~3 |
 | An Acquired Taste | 14.00% | ~2 |
+| A Real Headache | 14.00% | ~2 |
+| Busybody | 14.00% | ~2 |
 | Everyone Needs a Break | 14.00% | ~2 |
-| Job Creator | 14.00% | ~2 |
 | They Flock to Him | 14.00% | ~2 |
 | A Little Eccentric | 7.00% | ~1 |
-| A Real Headache | 7.00% | ~1 |
 | A Total Riot | 7.00% | ~1 |
 | A Light in the Dark | 7.00% | ~1 |
 | The Guardian | 7.00% | ~1 |
 | Blood Begets Blood | 7.00% | ~1 |
-| Busybody | 7.00% | ~1 |
+| Couldn't Have Planned It Better Myself | 7.00% | ~1 |
 | Endgame | 7.00% | ~1 |
 | The Philosopher | 7.00% | ~1 |
 | Knock Knock | 7.00% | ~1 |
@@ -33,7 +34,6 @@
 | The Companion | 7.00% | ~1 |
 | The Counsellor | 7.00% | ~1 |
 | Zonk! | 7.00% | ~1 |
-| Couldn't Have Planned It Better Myself | 0.00% | ~0 |
 | Double Agent | 0.00% | ~0 |
 | Full Coverage | 0.00% | ~0 |
 | Keeper of the People | 0.00% | ~0 |

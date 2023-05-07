@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Rating": 4.6,
   "RatingHistory": [
     {
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7516,
+  "EOS_Progressed": 7517,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1022,6 +1022,11 @@
       "Time": "2023-05-07T07:07:17.7030807+00:00",
       "NumProgressed": 7516,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-07T08:07:38.8592631+00:00",
+      "NumProgressed": 7517,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1033,7 +1038,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6013
+      "UsersEstimate": 6014
     },
     {
       "ID": "ACH02",
@@ -1137,7 +1142,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH15",
@@ -1153,7 +1158,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH17",
@@ -1225,7 +1230,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH26",
@@ -1312,7 +1317,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7516,
+      "Progressed": 7517,
       "Completed": 15
     }
   ],
@@ -1320,8 +1325,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-07T07:07:17.7030804+00:00",
+  "LastChanged_Achievements": "2023-05-07T08:07:38.8592625+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:01:34.9130556+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:07:17.7031038+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:01:59.6364982+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:07:38.8592874+00:00"
 }

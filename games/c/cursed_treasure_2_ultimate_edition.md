@@ -45,7 +45,7 @@
 | The Coreland | 38.00% | ~57 |
 | Feed the Fishes | 36.00% | ~54 |
 | Starry: The Coreland | 36.00% | ~54 |
-| Brilliant: Wasteland | 31.00% | ~46 |
+| Brilliant: Wasteland | 32.00% | ~48 |
 | Father of Nation | 31.00% | ~46 |
 | Dwarven Countdown | 28.00% | ~42 |
 | Starry: Wasteland | 27.00% | ~40 |

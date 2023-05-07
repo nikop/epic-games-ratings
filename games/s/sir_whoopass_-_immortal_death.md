@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spoiler alert! | 100.00% | ~1 |
-| Tastes just like chicken! | 100.00% | ~1 |
-| MLG 360 no scope kill! | 100.00% | ~1 |
-| I like you...but I have to kill you... | 100.00% | ~1 |
-| Blurry depth perception | 100.00% | ~1 |
-| Are you ready to rumble? | 100.00% | ~1 |
+| Tastes just like chicken! | 100.00% | ~2 |
+| Spoiler alert! | 50.00% | ~1 |
+| MLG 360 no scope kill! | 50.00% | ~1 |
+| I like you...but I have to kill you... | 50.00% | ~1 |
+| Blurry depth perception | 50.00% | ~1 |
+| Are you ready to rumble? | 50.00% | ~1 |
 | You're not so Big anymore, Boi! | 0.00% | ~0 |
 | You are no match for me, Billy! | 0.00% | ~0 |
 | Meatballs, coming up! | 0.00% | ~0 |
@@ -87,9 +87,10 @@
 | Pasta Bolognese | 0.00% | ~0 |
 | Slimy... yet satisfying | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 356)  
+Progressed: 2 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-06 | 1 | 0 |
+| 2023-05-07 | 2 | 0 |

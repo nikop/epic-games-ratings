@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Rating": 4.16,
   "RatingHistory": [
     {
@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4835,
+  "EOS_Progressed": 4836,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
@@ -759,6 +759,11 @@
       "Time": "2023-05-07T07:06:34.4914587+00:00",
       "NumProgressed": 4835,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-07T08:06:51.5737349+00:00",
+      "NumProgressed": 4836,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -770,7 +775,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "ACH02",
@@ -778,7 +783,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "ACH03",
@@ -842,7 +847,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "ACH11",
@@ -890,7 +895,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "ACH17",
@@ -1001,7 +1006,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4835,
+      "Progressed": 4836,
       "Completed": 26
     }
   ],
@@ -1009,8 +1014,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-07T07:06:34.4914583+00:00",
+  "LastChanged_Achievements": "2023-05-07T08:06:51.5737341+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:59:09.6805213+00:00",
-  "LastUpdate_Achievements": "2023-05-07T07:06:34.4914788+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:59:13.8942447+00:00",
+  "LastUpdate_Achievements": "2023-05-07T08:06:51.5737537+00:00"
 }
