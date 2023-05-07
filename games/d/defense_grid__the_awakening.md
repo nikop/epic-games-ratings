@@ -1,50 +1,50 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 599)  
+Rating: 4.45 (Ranked 598)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~385,588 |
-| Hey! That's mine! | 78.00% | ~371,307 |
-| Happy Returns | 77.00% | ~366,547 |
-| Field Promotion | 74.00% | ~352,266 |
-| Leadhead | 71.00% | ~337,985 |
-| Eradicator | 67.00% | ~318,943 |
-| Surplus | 65.00% | ~309,423 |
-| I Spy | 63.00% | ~299,902 |
-| Burn Baby Burn | 59.00% | ~280,861 |
-| Yellow Beats Green | 55.00% | ~261,819 |
-| Salvage Rights | 53.00% | ~252,299 |
-| What IS that? | 50.00% | ~238,018 |
-| Close Call | 49.00% | ~233,257 |
-| Penny Pincher | 49.00% | ~233,257 |
-| Pew Pew | 49.00% | ~233,257 |
-| Arsenal | 46.00% | ~218,976 |
-| Boot Camp | 45.00% | ~214,216 |
-| Flawless Victory | 42.00% | ~199,935 |
-| Confident | 40.00% | ~190,414 |
-| Exterminator | 36.00% | ~171,373 |
-| Sharpshooter | 33.00% | ~157,092 |
-| Great Ball of Fire | 32.00% | ~152,331 |
-| Not So Fast | 32.00% | ~152,331 |
-| No Sale | 30.00% | ~142,810 |
-| Kaboom! | 29.00% | ~138,050 |
-| Liquidator | 29.00% | ~138,050 |
-| High Voltage | 24.00% | ~114,248 |
-| Filthy Rich | 19.00% | ~90,447 |
-| Power Builder | 17.00% | ~80,926 |
-| Pyrrhic Victory | 17.00% | ~80,926 |
-| The Not-So-Friendly Skies | 17.00% | ~80,926 |
-| Death From Above | 16.00% | ~76,166 |
-| Retry | 16.00% | ~76,166 |
-| Head Trauma | 12.00% | ~57,124 |
+| First Blood | 81.00% | ~385,594 |
+| Hey! That's mine! | 78.00% | ~371,313 |
+| Happy Returns | 77.00% | ~366,552 |
+| Field Promotion | 74.00% | ~352,271 |
+| Leadhead | 71.00% | ~337,990 |
+| Eradicator | 67.00% | ~318,948 |
+| Surplus | 65.00% | ~309,427 |
+| I Spy | 63.00% | ~299,906 |
+| Burn Baby Burn | 59.00% | ~280,865 |
+| Yellow Beats Green | 55.00% | ~261,823 |
+| Salvage Rights | 53.00% | ~252,302 |
+| What IS that? | 50.00% | ~238,021 |
+| Close Call | 49.00% | ~233,261 |
+| Penny Pincher | 49.00% | ~233,261 |
+| Pew Pew | 49.00% | ~233,261 |
+| Arsenal | 46.00% | ~218,979 |
+| Boot Camp | 45.00% | ~214,219 |
+| Flawless Victory | 42.00% | ~199,938 |
+| Confident | 40.00% | ~190,417 |
+| Exterminator | 36.00% | ~171,375 |
+| Sharpshooter | 33.00% | ~157,094 |
+| Great Ball of Fire | 32.00% | ~152,333 |
+| Not So Fast | 32.00% | ~152,333 |
+| No Sale | 30.00% | ~142,813 |
+| Kaboom! | 29.00% | ~138,052 |
+| Liquidator | 29.00% | ~138,052 |
+| High Voltage | 24.00% | ~114,250 |
+| Filthy Rich | 19.00% | ~90,448 |
+| Power Builder | 17.00% | ~80,927 |
+| Pyrrhic Victory | 17.00% | ~80,927 |
+| The Not-So-Friendly Skies | 17.00% | ~80,927 |
+| Death From Above | 16.00% | ~76,167 |
+| Retry | 16.00% | ~76,167 |
+| Head Trauma | 12.00% | ~57,125 |
 | Full Defense | 10.00% | ~47,604 |
-| Overseer | 9.00% | ~42,843 |
+| Overseer | 9.00% | ~42,844 |
 | Annihilator | 8.00% | ~38,083 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,083 |
-| Indecisive | 6.00% | ~28,562 |
+| Indecisive | 6.00% | ~28,563 |
 | Base Defender | 5.00% | ~23,802 |
 | Relay Race | 5.00% | ~23,802 |
 | Diversity | 3.00% | ~14,281 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~476 |
 | You Monster | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,035 (Ranked 25)  
+Progressed: 476,042 (Ranked 25)  
 Completed: 4 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,11 +111,11 @@ Completed: 4 (0.00%) (Ranked 192)
 | 2023-05-04 | 475,761 | 4 |
 | 2023-05-05 | 475,852 | 4 |
 | 2023-05-06 | 475,984 | 4 |
-| 2023-05-07 | 476,035 | 4 |
+| 2023-05-07 | 476,042 | 4 |
 ## Awards
-Max (Great for Beginners): 230  (Ranked 242)  
+Max (Great for Beginners): 230  (Ranked 243)  
 Sum: 1,632 (Ranked 200)  
-Diff (max vs sum): 42  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 230 |

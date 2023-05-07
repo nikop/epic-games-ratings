@@ -2,14 +2,14 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 73,
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-01-13T07:56:45.2170748+00:00",
@@ -662,10 +662,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 599,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-05-07T10:59:02.1926623+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 601,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 599,
+  "NumberOfAwards": 601,
   "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -703,13 +709,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has Playful Visuals",
@@ -742,8 +748,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-05-06T22:59:08.1401489+00:00",
+  "LastChanged": "2023-05-07T10:59:02.1926622+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.9316858+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:58:54.5258399+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:04:17.7959232+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:59:02.1926626+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:04:16.9797944+00:00"
 }

@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,992 (Ranked 38)  
+Progressed: 266,001 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,17 +68,17 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 265,992 | 351 |
+| 2023-05-07 | 266,001 | 351 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
-Sum: 33,700 (Ranked 33)  
+Sum: 33,704 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 18,488 |
 | This game has Great Boss Battles | 8,615 |
 | This game is Extremely Fun | 746 |
-| This game is Great for Beginners | 720 |
+| This game is Great for Beginners | 724 |
 | This game is Relaxing | 712 |
 | This game has Diverse Characters | 705 |
 | This game has Amazing Storytelling | 697 |
@@ -134,4 +134,4 @@ Diff (max vs sum): -15
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
 | 2023-05-05 | 4.77 | 18,393 | 33,525 |
 | 2023-05-06 | 4.77 | 18,430 | 33,633 |
-| 2023-05-07 | 4.77 | 18,488 | 33,700 |
+| 2023-05-07 | 4.77 | 18,488 | 33,704 |

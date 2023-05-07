@@ -40,7 +40,7 @@ Rating: 4.18 (Ranked 822)
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,540 (Ranked 100)  
-Completed: 47 (0.37%) (Ranked 107)  
+Completed: 47 (0.37%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,8 +58,8 @@ Completed: 47 (0.37%) (Ranked 107)
 | 2023-05-06 | 12,540 | 47 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 396)  
-Sum: 245 (Ranked 340)  
-Diff (max vs sum): 56  
+Sum: 245 (Ranked 341)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 46 |

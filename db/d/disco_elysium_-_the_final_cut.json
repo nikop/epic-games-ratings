@@ -1059,9 +1059,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118087,
+  "EOS_Progressed": 118090,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2294,6 +2294,11 @@
       "Time": "2023-05-07T10:07:38.3797905+00:00",
       "NumProgressed": 118087,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-07T11:07:26.6562852+00:00",
+      "NumProgressed": 118090,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 40,
@@ -2361,7 +2366,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28341
+      "UsersEstimate": 28342
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -2385,7 +2390,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33064
+      "UsersEstimate": 33065
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -2417,7 +2422,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23617
+      "UsersEstimate": 23618
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -2433,7 +2438,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15351
+      "UsersEstimate": 15352
     },
     {
       "ID": "ACH_COP_STAR",
@@ -2441,7 +2446,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17713
+      "UsersEstimate": 17714
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -2521,7 +2526,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16532
+      "UsersEstimate": 16533
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -2585,7 +2590,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15351
+      "UsersEstimate": 15352
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -2601,7 +2606,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -2624,15 +2629,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118087,
+      "Progressed": 118090,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-07T10:07:38.3797899+00:00",
+  "LastChanged_Achievements": "2023-05-07T11:07:26.6562848+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-07T10:00:56.1827873+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:07:38.37983+00:00"
+  "LastUpdate_Ratings": "2023-05-07T11:00:54.8177455+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:07:26.6563156+00:00"
 }

@@ -152,9 +152,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_first_first_blood",
@@ -184,9 +184,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -224,9 +224,9 @@
       "ID": "ach_horde_graveside",
       "SetID": "cmg602e",
       "Name": "Graveside Survivor",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_jumpOnCones",
@@ -416,9 +416,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_tripleKill",
@@ -473,8 +473,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-07T10:06:59.847401+00:00",
+  "LastChanged_Achievements": "2023-05-07T11:06:50.4470031+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:59:57.6424006+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:06:59.8474601+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:59:59.7620957+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:06:50.4470297+00:00"
 }

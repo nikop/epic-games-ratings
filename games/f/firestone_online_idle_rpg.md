@@ -5,14 +5,14 @@ Rating: 3.40 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~827 |
-| World Map | 80.00% | ~711 |
-| Temple of Eternals | 55.00% | ~489 |
-| Prestigious | 52.00% | ~462 |
+| Victor | 93.00% | ~828 |
+| World Map | 80.00% | ~712 |
+| Temple of Eternals | 55.00% | ~490 |
+| Prestigious | 51.00% | ~454 |
 | Fellowship Power | 39.00% | ~347 |
-| Guild Power | 23.00% | ~204 |
-| Prestigious x10 | 18.00% | ~160 |
-| The game is on | 14.00% | ~124 |
+| Guild Power | 23.00% | ~205 |
+| Prestigious x10 | 19.00% | ~169 |
+| The game is on | 14.00% | ~125 |
 | Exotic Merchant | 13.00% | ~116 |
 | Inspection | 13.00% | ~116 |
 | Dragon Clicker | 12.00% | ~107 |
@@ -33,6 +33,7 @@ Rating: 3.40 (Ranked 917)
 | Here We Go Again | 2.00% | ~18 |
 | Hunter | 2.00% | ~18 |
 | Mastery | 2.00% | ~18 |
+| Missions Dedication | 2.00% | ~18 |
 | Moving Up The Ladder | 2.00% | ~18 |
 | Mysterious Rock | 2.00% | ~18 |
 | Scroll Master | 2.00% | ~18 |
@@ -43,19 +44,18 @@ Rating: 3.40 (Ranked 917)
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
-| Missions Dedication | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
+| The father of Dragons | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | Master Enchanter | 0.90% | ~8 |
-| The father of Dragons | 0.90% | ~8 |
 | Trader | 0.90% | ~8 |
 | Dragon Slayer | 0.60% | ~5 |
+| Enchanting skill | 0.60% | ~5 |
 | Engineer Mastery | 0.60% | ~5 |
 | Legendary | 0.60% | ~5 |
 | Sailor | 0.60% | ~5 |
 | Blueprint Upgrades | 0.40% | ~4 |
 | Crystal Mining | 0.40% | ~4 |
-| Enchanting skill | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
 | The Alchemist | 0.40% | ~4 |
 | Transmute | 0.40% | ~4 |
@@ -81,7 +81,7 @@ Rating: 3.40 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 889 (Ranked 164)  
+Progressed: 890 (Ranked 164)  
 Completed: 1 (0.11%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.11%) (Ranked 148)
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
 | 2023-05-06 | 881 | 1 |
-| 2023-05-07 | 889 | 1 |
+| 2023-05-07 | 890 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

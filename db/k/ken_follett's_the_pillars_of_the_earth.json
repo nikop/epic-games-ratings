@@ -4,11 +4,11 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 499,
   "Ranking_Popularity": 285,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Rating": 4.52,
   "NumberOfRatings": 368,
   "RatingHistory": [
@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12242,
+  "EOS_Progressed": 12243,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1297,6 +1297,11 @@
       "Time": "2023-05-07T10:07:05.3375123+00:00",
       "NumProgressed": 12242,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-07T11:06:55.4467166+00:00",
+      "NumProgressed": 12243,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1324,7 +1329,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "tpote_achievement_12",
@@ -1468,7 +1473,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "tpote_achievement_29",
@@ -1484,7 +1489,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "tpote_achievement_30",
@@ -1596,7 +1601,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "tpote_achievement_6",
@@ -1604,7 +1609,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "tpote_achievement_7",
@@ -1635,15 +1640,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12242,
+      "Progressed": 12243,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-07T10:07:05.3375117+00:00",
+  "LastChanged_Achievements": "2023-05-07T11:06:55.4467162+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-07T10:02:04.8930664+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:07:05.3375519+00:00"
+  "LastUpdate_Ratings": "2023-05-07T11:02:00.4025827+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:06:55.4467475+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "02c14a01b7044db98de3f3a10813a42e",
   "Name": "HUMANKIND\u2122 Standard Edition",
   "ProductSlug": "humankind",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.51,
   "NumberOfRatings": 609,
@@ -1131,6 +1131,6 @@
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
   "LastChanged": "2023-05-06T10:59:46.6936547+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:25.8004703+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:59:47.6096337+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:03:15.882708+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:59:50.5822125+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:03:08.1128197+00:00"
 }

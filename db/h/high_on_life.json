@@ -192,9 +192,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22623,
+  "EOS_Progressed": 22624,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -487,6 +487,11 @@
       "Time": "2023-05-07T10:07:09.6799163+00:00",
       "NumProgressed": 22623,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-07T11:06:59.2429622+00:00",
+      "NumProgressed": 22624,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -546,7 +551,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6334
+      "UsersEstimate": 6335
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -562,7 +567,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17193
+      "UsersEstimate": 17194
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -602,7 +607,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18777
+      "UsersEstimate": 18778
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -618,7 +623,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12895
+      "UsersEstimate": 12896
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -658,7 +663,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6334
+      "UsersEstimate": 6335
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -666,7 +671,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -682,7 +687,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16515
+      "UsersEstimate": 16516
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -722,7 +727,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -753,7 +758,7 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22623,
+      "Progressed": 22624,
       "Completed": 8
     }
   ],
@@ -761,8 +766,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-07T05:59:32.3480184+00:00",
-  "LastChanged_Achievements": "2023-05-07T10:07:09.6799157+00:00",
+  "LastChanged_Achievements": "2023-05-07T11:06:59.2429619+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:59:33.830076+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:07:09.6799435+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:59:36.9517496+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:06:59.242983+00:00"
 }

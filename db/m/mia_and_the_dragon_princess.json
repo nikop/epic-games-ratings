@@ -113,9 +113,9 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "backstory_buff",
@@ -137,9 +137,9 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "codebreaker",
@@ -263,8 +263,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-07T10:07:22.1326641+00:00",
+  "LastChanged_Achievements": "2023-05-07T11:07:11.1129597+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:22.6722538+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:59:42.9353542+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:07:22.1326774+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:59:46.292602+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:07:11.1129689+00:00"
 }

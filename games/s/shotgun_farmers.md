@@ -9,11 +9,11 @@
 | No Asperascope | 53.00% | ~9 |
 | Triple Kill | 41.00% | ~7 |
 | Cornivore | 41.00% | ~7 |
+| 15K | 24.00% | ~4 |
+| Drinking Problem | 24.00% | ~4 |
+| Graveside Survivor | 24.00% | ~4 |
 | Skin Of Your Teeth | 24.00% | ~4 |
-| 15K | 18.00% | ~3 |
-| Drinking Problem | 18.00% | ~3 |
-| Graveside Survivor | 18.00% | ~3 |
-| 10K | 18.00% | ~3 |
+| 10K | 24.00% | ~4 |
 | Chick Magnet | 12.00% | ~2 |
 | Fresh Pancake | 12.00% | ~2 |
 | Quit Horsin' Around | 12.00% | ~2 |

@@ -2,12 +2,12 @@
   "ID": "87c84bc5f43d4fe69ad8f3ccde0594b0",
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "ProductSlug": "dishonored-death-of-the-outsider",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.43,
   "RatingHistory": [
@@ -328,10 +328,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 187,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-05-07T11:01:12.2246154+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 167,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187,
+  "NumberOfAwards": 167,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -402,8 +408,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-05-06T21:00:59.0573114+00:00",
+  "LastChanged": "2023-05-07T11:01:12.2246153+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:28.1635375+00:00",
-  "LastUpdate_Ratings": "2023-05-07T10:01:13.9660673+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:05:43.2541608+00:00"
+  "LastUpdate_Ratings": "2023-05-07T11:01:12.2246158+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:05:38.3387107+00:00"
 }

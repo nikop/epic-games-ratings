@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -142,9 +142,9 @@
       "ID": "AURORA04",
       "SetID": "2d85n75",
       "Name": "A Light in the Dark",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AURORA_COMPLETE",
@@ -166,9 +166,9 @@
       "ID": "BLOOD_BEGETS_BLOOD",
       "SetID": "2d85n75",
       "Name": "Blood Begets Blood",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BUSYBODY",
@@ -478,9 +478,9 @@
       "ID": "ZONK",
       "SetID": "2d85n75",
       "Name": "Zonk!",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-07T10:07:49.7641838+00:00",
+  "LastChanged_Achievements": "2023-05-07T11:07:37.1719224+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-07T10:01:45.0611608+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:07:49.7642204+00:00"
+  "LastUpdate_Ratings": "2023-05-07T11:01:42.5009465+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:07:37.1719619+00:00"
 }

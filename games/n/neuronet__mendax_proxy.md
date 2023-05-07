@@ -17,15 +17,16 @@
 | Job Creator | 29.00% | ~4 |
 | Task Master | 29.00% | ~4 |
 | A Real Headache | 21.00% | ~3 |
+| A Light in the Dark | 21.00% | ~3 |
 | Busybody | 21.00% | ~3 |
 | A Total Riot | 14.00% | ~2 |
-| A Light in the Dark | 14.00% | ~2 |
+| Blood Begets Blood | 14.00% | ~2 |
 | Knock Knock | 14.00% | ~2 |
 | Socially Acceptable Insanity | 14.00% | ~2 |
 | They Flock to Him | 14.00% | ~2 |
+| Zonk! | 14.00% | ~2 |
 | A Little Eccentric | 7.00% | ~1 |
 | The Guardian | 7.00% | ~1 |
-| Blood Begets Blood | 7.00% | ~1 |
 | Couldn't Have Planned It Better Myself | 7.00% | ~1 |
 | Endgame | 7.00% | ~1 |
 | The Philosopher | 7.00% | ~1 |
@@ -36,7 +37,6 @@
 | That One Doesn't Count | 7.00% | ~1 |
 | The Counsellor | 7.00% | ~1 |
 | What They Don't Know Can't Hurt Them | 7.00% | ~1 |
-| Zonk! | 7.00% | ~1 |
 | Double Agent | 0.00% | ~0 |
 | Full Coverage | 0.00% | ~0 |
 | Keeper of the People | 0.00% | ~0 |

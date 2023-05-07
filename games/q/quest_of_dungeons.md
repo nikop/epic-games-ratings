@@ -30,7 +30,7 @@
 | The Slayer! | 0.00% | ~0 |
 | Back for more | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 279)  
+Progressed: 40 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,6 +38,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-04-25 | 37 | 0 |
 | 2023-04-26 | 38 | 0 |
 | 2023-04-30 | 39 | 0 |
+| 2023-05-07 | 40 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

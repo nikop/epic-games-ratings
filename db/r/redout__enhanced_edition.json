@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 43,
@@ -320,9 +320,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221160,
+  "EOS_Progressed": 221162,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1595,6 +1595,11 @@
       "Time": "2023-05-07T10:07:08.2855954+00:00",
       "NumProgressed": 221160,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-07T11:06:57.9777078+00:00",
+      "NumProgressed": 221162,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -1742,7 +1747,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70771
+      "UsersEstimate": 70772
     },
     {
       "ID": "NOBUNAGA",
@@ -1766,7 +1771,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19904
+      "UsersEstimate": 19905
     },
     {
       "ID": "PHOTOFINISH",
@@ -1854,7 +1859,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48655
+      "UsersEstimate": 48656
     },
     {
       "ID": "TUNINGMANIAC",
@@ -1877,15 +1882,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221160,
+      "Progressed": 221162,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-07T10:07:08.2855948+00:00",
+  "LastChanged_Achievements": "2023-05-07T11:06:57.9777076+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.7279724+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:59:54.6804353+00:00",
-  "LastUpdate_Achievements": "2023-05-07T10:07:08.2856389+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:59:56.9993801+00:00",
+  "LastUpdate_Achievements": "2023-05-07T11:06:57.9777328+00:00"
 }
