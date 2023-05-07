@@ -42,6 +42,7 @@ Number of Ratings: 45  (23.09.2022)
 | Storied Past | 2.00% | ~23 |
 | The Power of Friendship | 2.00% | ~23 |
 | Empty the Caves | 2.00% | ~23 |
+| Drauvenslayers | 2.00% | ~23 |
 | Bonebreakers | 2.00% | ~23 |
 | No More Nightmares | 2.00% | ~23 |
 | Fight Like a Bird | 2.00% | ~23 |
@@ -50,7 +51,6 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 2.00% | ~23 |
 | Tempest | 2.00% | ~23 |
 | Lochias's Hunger | 2.00% | ~23 |
-| Drauvenslayers | 1.00% | ~11 |
 | Back into the Sea | 1.00% | ~11 |
 | War-Ender | 1.00% | ~11 |
 | Solid as the Hills | 1.00% | ~11 |

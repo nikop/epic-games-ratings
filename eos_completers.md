@@ -24,11 +24,11 @@
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
-| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.11% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.34% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -40,7 +40,7 @@
 | 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 40 | [HordeCore](games/h/hordecore.md) | 3.05% |
-| 41 | [Lamentum](games/l/lamentum.md) | 3.01% |
+| 41 | [Lamentum](games/l/lamentum.md) | 3.00% |
 | 42 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 43 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.94% |
 | 43 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |

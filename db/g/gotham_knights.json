@@ -992,9 +992,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60684,
+  "EOS_Progressed": 60685,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1902,6 +1902,11 @@
       "Time": "2023-05-07T05:07:50.9829427+00:00",
       "NumProgressed": 60684,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T07:07:09.9553218+00:00",
+      "NumProgressed": 60685,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2239,9 +2244,9 @@
       "ID": "HARLEY_4",
       "SetID": "4eo5ebm",
       "Name": "Universal Health Scare",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -2400,13 +2405,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60684,
+      "Progressed": 60685,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30964,
+      "Progressed": 30965,
       "Completed": 2630
     }
   ],
@@ -2414,8 +2419,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-07T06:01:22.7694321+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:07:24.9851243+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:07:09.9553214+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:01:22.7694328+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:07:24.9851777+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:01:04.3124385+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:07:09.9553761+00:00"
 }

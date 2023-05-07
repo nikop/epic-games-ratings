@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.07,
   "RatingHistory": [
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3377,
+  "EOS_Progressed": 3378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -260,6 +260,11 @@
       "Time": "2023-05-05T22:06:46.163052+00:00",
       "NumProgressed": 3377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T07:07:04.1839637+00:00",
+      "NumProgressed": 3378,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -303,7 +308,7 @@
       "Name": "Totally Intentional",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -335,7 +340,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -357,9 +362,9 @@
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
       "SetID": "kakdpn",
       "Name": "New Business",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "GAMEOVER_FIRST_TIME",
@@ -478,7 +483,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3377,
+      "Progressed": 3378,
       "Completed": 0
     }
   ],
@@ -486,8 +491,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:07:18.8087501+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:07:04.1839631+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.7717422+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:01:07.7672519+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:07:18.8087715+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:00:49.0391259+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:07:04.1839783+00:00"
 }

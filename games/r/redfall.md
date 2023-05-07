@@ -5,23 +5,23 @@ Rating: 3.48 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 87.00% | ~1,188 |
-| Home Is Where the Heart Is | 67.00% | ~915 |
-| Ne Plus Ultra | 67.00% | ~915 |
-| Wounded Whispers | 67.00% | ~915 |
-| Blood Will Have Blood | 53.00% | ~723 |
-| ICU | 49.00% | ~669 |
-| Catch and Release | 48.00% | ~655 |
+| I Like My Stakes Rare! | 87.00% | ~1,189 |
+| Home Is Where the Heart Is | 67.00% | ~916 |
+| Ne Plus Ultra | 67.00% | ~916 |
+| Wounded Whispers | 67.00% | ~916 |
+| Blood Will Have Blood | 53.00% | ~725 |
+| ICU | 49.00% | ~670 |
+| Catch and Release | 48.00% | ~656 |
 | Peek-a-boo | 47.00% | ~642 |
 | Sucks To Be You | 47.00% | ~642 |
-| Welcome to the Neighborhood | 40.00% | ~546 |
-| Fly Fisher | 36.00% | ~491 |
-| Throw The First Stone | 36.00% | ~491 |
-| Enter of Your Own Free Will | 33.00% | ~450 |
-| Heart Attack | 33.00% | ~450 |
-| Skin of Their Teeth | 33.00% | ~450 |
+| Welcome to the Neighborhood | 40.00% | ~547 |
+| Throw The First Stone | 37.00% | ~506 |
+| Fly Fisher | 36.00% | ~492 |
+| Enter of Your Own Free Will | 33.00% | ~451 |
+| Heart Attack | 33.00% | ~451 |
+| Skin of Their Teeth | 33.00% | ~451 |
 | Grounded | 24.00% | ~328 |
-| Bad Wiring | 22.00% | ~300 |
+| Bad Wiring | 22.00% | ~301 |
 | I Spit On Your Grave | 21.00% | ~287 |
 | Neighborhood Revitalization | 15.00% | ~205 |
 | Radio Silence | 15.00% | ~205 |
@@ -72,7 +72,7 @@ Rating: 3.48 (Ranked 915)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,365 (Ranked 151)  
+Progressed: 1,367 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 1,164 | 0 |
 | 2023-05-05 | 1,266 | 0 |
 | 2023-05-06 | 1,344 | 0 |
-| 2023-05-07 | 1,365 | 0 |
+| 2023-05-07 | 1,367 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

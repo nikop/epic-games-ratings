@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 54.00% | ~77 |
-| Chest ✔ | 50.00% | ~71 |
-| Inventory ✔ | 49.00% | ~70 |
+| Fright ✔ | 52.00% | ~75 |
+| Chest ✔ | 49.00% | ~71 |
+| Inventory ✔ | 48.00% | ~70 |
 | Police officers ✔ | 23.00% | ~33 |
-| Mutation ✔ | 22.00% | ~31 |
+| Mutation ✔ | 21.00% | ~30 |
 | Doberman ✔ | 9.00% | ~13 |
 | Survival ✔ | 6.00% | ~9 |
 | Hospital ✔ | 6.00% | ~9 |
@@ -17,24 +17,24 @@
 | Weapon ✔ | 6.00% | ~9 |
 | Chess ✔ | 5.00% | ~7 |
 | Antivirus ✔ | 4.00% | ~6 |
-| Betty ✔ | 4.00% | ~6 |
-| Brain ✔ | 4.00% | ~6 |
 | Cheats ✔ | 4.00% | ~6 |
 | City ✔ | 4.00% | ~6 |
-| Crocodile Attack ✔ | 4.00% | ~6 |
-| Eva ✔ | 4.00% | ~6 |
-| Mutant run ✔ | 4.00% | ~6 |
 | Fraternal help ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
-| Infected ✔ | 4.00% | ~6 |
 | King of survival ✔ | 4.00% | ~6 |
-| All secrets revealed ✔ | 4.00% | ~6 |
 | Boss 1 ✔ | 3.00% | ~4 |
 | Alice ✔ | 3.00% | ~4 |
+| Betty ✔ | 3.00% | ~4 |
+| Brain ✔ | 3.00% | ~4 |
+| Crocodile Attack ✔ | 3.00% | ~4 |
+| Eva ✔ | 3.00% | ~4 |
 | Food ✔ | 3.00% | ~4 |
 | Mutant fight ✔ | 3.00% | ~4 |
+| Mutant run ✔ | 3.00% | ~4 |
 | Sheriff ✔ | 3.00% | ~4 |
+| Infected ✔ | 3.00% | ~4 |
 | Rank A ✔ | 3.00% | ~4 |
+| All secrets revealed ✔ | 3.00% | ~4 |
 | Secret ✔ | 2.00% | ~3 |
 | Boss 2 ✔ | 2.00% | ~3 |
 | Group Alpha ✔ | 2.00% | ~3 |
@@ -55,7 +55,7 @@
 | Exterminate pests ✔ | 0.70% | ~1 |
 | Rank A+ ✔ | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 238)  
+Progressed: 145 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 121 | 0 |
 | 2023-05-05 | 129 | 0 |
 | 2023-05-06 | 139 | 0 |
-| 2023-05-07 | 142 | 0 |
+| 2023-05-07 | 145 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

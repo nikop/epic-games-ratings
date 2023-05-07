@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -1108,6 +1108,11 @@
       "Time": "2023-05-07T06:06:59.3019407+00:00",
       "NumProgressed": 887,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T07:06:46.0560323+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1223,7 +1228,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "dragonmaster",
@@ -1367,7 +1372,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "howdoyouturnthison",
@@ -1413,9 +1418,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "lockandload",
@@ -1447,7 +1452,7 @@
       "Name": "Milestone collector",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "minerclicker",
@@ -1455,7 +1460,7 @@
       "Name": "Miner Clicker",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "missionsdedication",
@@ -1493,9 +1498,9 @@
       "ID": "naturaltalent",
       "SetID": "3nl4bcg",
       "Name": "Natural Talent",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 53
     },
     {
       "ID": "pokerface",
@@ -1511,7 +1516,7 @@
       "Name": "Prestigious",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "prestigiousx10",
@@ -1653,9 +1658,9 @@
       "ID": "transmute",
       "SetID": "3nl4bcg",
       "Name": "Transmute",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "treeoflife",
@@ -1679,7 +1684,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "warmachinesarmy",
@@ -1718,7 +1723,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 1
     }
   ],
@@ -1726,8 +1731,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:06:59.3019402+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:06:46.056032+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:59:34.4033351+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:06:59.3020187+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:59:14.4757806+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:06:46.0560967+00:00"
 }

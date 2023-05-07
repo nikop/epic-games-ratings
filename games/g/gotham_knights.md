@@ -12,6 +12,7 @@ Rating: 4.17 (Ranked 828)
 | Quartzer Life Crisis | 0.30% | ~182 |
 | Cooldown | 0.30% | ~182 |
 | Working Hard or Harley Working? | 0.30% | ~182 |
+| Universal Health Scare | 0.30% | ~182 |
 | Unstoppable Force | 0.30% | ~182 |
 | Bad Apples in Every Orchard | 0.30% | ~182 |
 | Gotham Knight | 0.30% | ~182 |
@@ -26,7 +27,6 @@ Rating: 4.17 (Ranked 828)
 | Snow Problem | 0.20% | ~121 |
 | Har, Har, Har, Very Funny | 0.20% | ~121 |
 | Get ReQ'd | 0.20% | ~121 |
-| Universal Health Scare | 0.20% | ~121 |
 | First Step Into the Knight | 0.20% | ~121 |
 | Knighthood | 0.20% | ~121 |
 | Loose Ends | 0.20% | ~121 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 828)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,684 (Ranked 66)  
+Progressed: 60,685 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 89 (0.15%) (Ranked 140)
 | 2023-05-04 | 60,626 | 89 |
 | 2023-05-05 | 60,646 | 89 |
 | 2023-05-06 | 60,674 | 89 |
-| 2023-05-07 | 60,684 | 89 |
+| 2023-05-07 | 60,685 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,196  (Ranked 99)  
 Sum: 3,631 (Ranked 137)  

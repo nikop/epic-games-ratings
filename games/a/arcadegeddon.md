@@ -6,33 +6,33 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~5,673 |
+| Let's Get This Party Started | 91.00% | ~5,674 |
 | Photogenic | 87.00% | ~5,424 |
-| Surge Gauntlet Jockey | 85.00% | ~5,299 |
+| Surge Gauntlet Jockey | 85.00% | ~5,300 |
 | Plug It In | 84.00% | ~5,237 |
-| Adventure Time | 80.00% | ~4,987 |
-| Playing With Power | 77.00% | ~4,800 |
-| You're Fired | 59.00% | ~3,678 |
+| Adventure Time | 80.00% | ~4,988 |
+| Playing With Power | 77.00% | ~4,801 |
+| You're Fired | 59.00% | ~3,679 |
 | Coup d'Etat | 58.00% | ~3,616 |
 | Get Furious | 55.00% | ~3,429 |
-| Gunplay And Cosplay | 54.00% | ~3,366 |
-| Hacks In Stacks | 54.00% | ~3,366 |
+| Gunplay And Cosplay | 54.00% | ~3,367 |
+| Hacks In Stacks | 54.00% | ~3,367 |
 | Meching Enemies | 49.00% | ~3,055 |
-| Ticket Toddler | 48.00% | ~2,992 |
+| Ticket Toddler | 48.00% | ~2,993 |
 | Booty Bashing | 47.00% | ~2,930 |
 | Here Comes a New Challenger | 37.00% | ~2,307 |
-| Field Medic | 36.00% | ~2,244 |
+| Field Medic | 36.00% | ~2,245 |
 | Guardian Angel | 34.00% | ~2,120 |
 | Rapid Response | 32.00% | ~1,995 |
 | The Full Monty | 32.00% | ~1,995 |
 | Surge Ahead | 31.00% | ~1,933 |
-| Poppin Noggins | 25.00% | ~1,558 |
+| Poppin Noggins | 25.00% | ~1,559 |
 | Clips and Crits | 23.00% | ~1,434 |
 | Grey Goo | 21.00% | ~1,309 |
 | Boss of Bosses | 15.00% | ~935 |
 | The Final Blow | 15.00% | ~935 |
 | Light My Fire | 14.00% | ~873 |
-| Seasoned Adventurer | 13.00% | ~810 |
+| Seasoned Adventurer | 13.00% | ~811 |
 | 1.21 Gigawatts | 12.00% | ~748 |
 | To Be Continued | 12.00% | ~748 |
 | This Is My Boomstick! | 11.00% | ~686 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~31 |
 | Pyrotechnical | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,234 (Ranked 113)  
+Progressed: 6,235 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 6,178 | 0 |
 | 2023-05-05 | 6,193 | 0 |
 | 2023-05-06 | 6,223 | 0 |
-| 2023-05-07 | 6,234 | 0 |
+| 2023-05-07 | 6,235 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 374)  
 Sum: 533 (Ranked 287)  

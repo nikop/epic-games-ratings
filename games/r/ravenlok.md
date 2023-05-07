@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~420 |
 | Waff! | 93.00% | ~407 |
-| Into the Barn | 87.00% | ~381 |
-| A Prophecy | 85.00% | ~372 |
+| Into the Barn | 88.00% | ~385 |
+| A Prophecy | 86.00% | ~377 |
 | Sword, Shield, Fight! | 74.00% | ~324 |
-| A Grand Visit | 69.00% | ~302 |
+| A Grand Visit | 70.00% | ~307 |
 | Vibing | 59.00% | ~258 |
 | Fun Guy | 59.00% | ~258 |
 | Tragic Brave | 50.00% | ~219 |
+| Awakened Spirits | 46.00% | ~201 |
 | Little Shop | 45.00% | ~197 |
-| Awakened Spirits | 45.00% | ~197 |
 | Surprise! | 39.00% | ~171 |
 | An Actor! | 39.00% | ~171 |
 | Curtain Call | 38.00% | ~166 |
@@ -26,9 +26,9 @@
 | Nightmare Fuel | 31.00% | ~136 |
 | Take Heart | 31.00% | ~136 |
 | The Guardian | 31.00% | ~136 |
+| Ancient Wisdom | 29.00% | ~127 |
 | Frog Facts! | 29.00% | ~127 |
 | It's Pointy! | 29.00% | ~127 |
-| Ancient Wisdom | 28.00% | ~123 |
 | All That Glistens | 28.00% | ~123 |
 | Stronger! | 28.00% | ~123 |
 | Spellbound | 26.00% | ~114 |
@@ -39,9 +39,9 @@
 | Heartbreaker | 24.00% | ~105 |
 | Kidnapped! | 24.00% | ~105 |
 | Pull the Plug | 23.00% | ~101 |
+| Soul Slayer | 23.00% | ~101 |
 | All Heart | 23.00% | ~101 |
 | Trick Question! | 23.00% | ~101 |
-| Soul Slayer | 22.00% | ~96 |
 | The Downfall | 22.00% | ~96 |
 | Extraordinary! | 22.00% | ~96 |
 | Final Showdown | 22.00% | ~96 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 5.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 438 (Ranked 189)  
-Completed: 18 (4.11%) (Ranked 29)  
+Completed: 19 (4.34%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 18 (4.11%) (Ranked 29)
 | 2023-05-04 | 227 | 11 |
 | 2023-05-05 | 345 | 12 |
 | 2023-05-06 | 426 | 18 |
-| 2023-05-07 | 438 | 18 |
+| 2023-05-07 | 438 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

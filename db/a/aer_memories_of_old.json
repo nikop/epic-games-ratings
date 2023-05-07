@@ -360,7 +360,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8715,
+  "EOS_Progressed": 8718,
   "EOS_Completed": 198,
   "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 14,
@@ -1690,6 +1690,11 @@
       "Time": "2023-05-07T06:07:28.317666+00:00",
       "NumProgressed": 8715,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-05-07T07:07:13.5085536+00:00",
+      "NumProgressed": 8718,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 20,
@@ -1717,7 +1722,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -1725,7 +1730,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -1763,9 +1768,9 @@
       "ID": "FOUND_DEER_STATUE",
       "SetID": "b6m2mm5",
       "Name": "Antlers of Stone",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1308
     },
     {
       "ID": "FOUND_ERIN",
@@ -1797,7 +1802,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -1821,7 +1826,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6626
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -1829,7 +1834,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2441
     },
     {
       "ID": "NORTH_FINISHED",
@@ -1837,7 +1842,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -1860,15 +1865,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8715,
+      "Progressed": 8718,
       "Completed": 198
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:07:28.3176655+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:07:13.508553+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:01:49.2518503+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:07:28.3177097+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:01:31.1962417+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:07:13.5085926+00:00"
 }

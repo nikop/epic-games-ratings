@@ -19,10 +19,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 438,
-  "EOS_Completed": 18,
+  "EOS_Completed": 19,
   "EOS_NewPlayers": 382,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 4.11,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 4.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -493,6 +493,11 @@
       "Time": "2023-05-07T06:06:41.5934116+00:00",
       "NumProgressed": 438,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-07T07:06:28.5359044+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 50,
@@ -558,9 +563,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "17",
@@ -582,9 +587,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 307
     },
     {
       "ID": "2",
@@ -646,9 +651,9 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "27",
@@ -710,9 +715,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "34",
@@ -766,9 +771,9 @@
       "ID": "4",
       "SetID": "d0g98p",
       "Name": "A Prophecy",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 377
     },
     {
       "ID": "40",
@@ -838,9 +843,9 @@
       "ID": "48",
       "SetID": "d0g98p",
       "Name": "Into the Barn",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 385
     },
     {
       "ID": "49",
@@ -904,15 +909,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 438,
-      "Completed": 18
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:06:41.5934109+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:06:28.5359042+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:59:01.2597603+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:06:41.5934581+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:58:42.2304477+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:06:28.5359406+00:00"
 }

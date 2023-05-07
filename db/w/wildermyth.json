@@ -364,9 +364,9 @@
       "ID": "achievement_kill1000Drauven",
       "SetID": "95dc8p",
       "Name": "Drauvenslayers",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_kill1000Gorgons",
@@ -716,8 +716,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:06:54.0704941+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:06:40.5829265+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:02:13.630462+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:06:54.0705474+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:01:57.5778136+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:06:40.5829699+00:00"
 }

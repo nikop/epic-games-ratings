@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -848,8 +848,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:06:44.8927611+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:06:31.8949666+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:00.3339776+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:00:24.2084046+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:06:44.8928861+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:00:05.3853658+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:06:31.8950647+00:00"
 }

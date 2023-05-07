@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -77,6 +77,11 @@
     {
       "Time": "2023-05-07T03:06:53.2569751+00:00",
       "NumProgressed": 135,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T07:06:55.0004093+00:00",
+      "NumProgressed": 136,
       "NumCompleted": 0
     }
   ],
@@ -177,7 +182,7 @@
       "Name": "Food producer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "COMIDA_2",
@@ -303,9 +308,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "FAITH_2",
@@ -361,7 +366,7 @@
       "Name": "I like my life",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FELIZ_2",
@@ -417,7 +422,7 @@
       "Name": "I like parks",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -473,7 +478,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -521,7 +526,7 @@
       "Name": "Small town",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "POPULATION_2",
@@ -529,7 +534,7 @@
       "Name": "Metropolurbek",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "POPULATION_3",
@@ -720,7 +725,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 0
     }
   ],
@@ -728,8 +733,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:07:08.4695428+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:06:55.0004088+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-07T06:00:30.0839015+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:07:08.4696352+00:00"
+  "LastUpdate_Ratings": "2023-05-07T07:00:12.1742436+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:06:55.0004777+00:00"
 }

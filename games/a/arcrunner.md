@@ -10,13 +10,13 @@
 | Nanonic I | 60.00% | ~38 |
 | Terminated I | 60.00% | ~38 |
 | Unlocked and Loaded | 56.00% | ~35 |
-| Terminated II | 49.00% | ~31 |
-| Terminated III | 33.00% | ~21 |
+| Terminated II | 51.00% | ~32 |
+| Terminated III | 35.00% | ~22 |
 | Nanonic II | 30.00% | ~19 |
-| Challenge Mastered | 24.00% | ~15 |
+| Challenge Mastered | 27.00% | ~17 |
+| Supply Run | 22.00% | ~14 |
 | Up Close And Personal | 21.00% | ~13 |
 | The City | 19.00% | ~12 |
-| Supply Run | 19.00% | ~12 |
 | Nanonic III | 13.00% | ~8 |
 | The Bigger They Are | 11.00% | ~7 |
 | Starship Docks | 11.00% | ~7 |

@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46038,
+  "EOS_Progressed": 46040,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1163,6 +1163,11 @@
       "Time": "2023-05-07T05:07:14.8876062+00:00",
       "NumProgressed": 46038,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-07T07:06:38.3326601+00:00",
+      "NumProgressed": 46040,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1174,15 +1179,15 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8747
+      "UsersEstimate": 8748
     },
     {
       "ID": "02",
       "SetID": "212770e",
       "Name": "Nordic Walking",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5525
+      "UsersEstimate": 5985
     },
     {
       "ID": "03",
@@ -1214,7 +1219,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "07",
@@ -1414,7 +1419,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "32",
@@ -1494,7 +1499,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "42",
@@ -1510,7 +1515,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "44",
@@ -1574,7 +1579,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "52",
@@ -1709,21 +1714,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46038,
+      "Progressed": 46040,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9506,
+      "Progressed": 9508,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-07T06:06:51.349017+00:00",
+  "LastChanged_Achievements": "2023-05-07T07:06:38.3326598+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-07T05:59:10.78466+00:00",
-  "LastUpdate_Achievements": "2023-05-07T06:06:51.3490913+00:00"
+  "LastUpdate_Ratings": "2023-05-07T06:58:51.6179476+00:00",
+  "LastUpdate_Achievements": "2023-05-07T07:06:38.3327147+00:00"
 }
