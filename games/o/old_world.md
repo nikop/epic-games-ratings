@@ -215,11 +215,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Defend Where? | 0.80% | ~87 |
 | Learn By Playing 1 - Able | 0.80% | ~87 |
 | Great Ziggurat in Ur | 0.80% | ~87 |
+| Win a Network Game | 0.80% | ~87 |
 | Lighthouse in Alexandria | 0.70% | ~76 |
 | Epic Victory (Carthage 1) | 0.70% | ~76 |
 | Bronze Victory (Carthage 3) | 0.70% | ~76 |
 | Play a 1-v-1 Game | 0.70% | ~76 |
-| Win a Network Game | 0.70% | ~76 |
 | Epic Victory (Carthage 2) | 0.60% | ~65 |
 | Silver Victory (Carthage 3) | 0.60% | ~65 |
 | I am the Archon Now | 0.60% | ~65 |
@@ -228,6 +228,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 3) | 0.50% | ~54 |
 | Rebuilder | 0.50% | ~54 |
 | Philip's Silver Crown | 0.50% | ~54 |
+| Mighty Bucephalus | 0.50% | ~54 |
 | Knot So Hard | 0.50% | ~54 |
 | Learn By Playing 2 - Just | 0.50% | ~54 |
 | No Characters | 0.50% | ~54 |
@@ -235,7 +236,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.40% | ~43 |
 | If? Then! | 0.40% | ~43 |
 | Queen of Politics | 0.40% | ~43 |
-| Mighty Bucephalus | 0.40% | ~43 |
 | Gate to Victory | 0.40% | ~43 |
 | Pharaoh | 0.40% | ~43 |
 | A Tyresome Siege | 0.40% | ~43 |

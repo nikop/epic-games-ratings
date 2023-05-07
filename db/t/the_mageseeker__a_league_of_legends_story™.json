@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.73,
   "RatingHistory": [
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1899,
+  "EOS_Progressed": 1900,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -873,6 +873,11 @@
       "Time": "2023-05-06T23:06:24.4451669+00:00",
       "NumProgressed": 1899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T00:06:10.4446712+00:00",
+      "NumProgressed": 1900,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -948,7 +953,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -964,7 +969,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1060,7 +1065,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1068,7 +1073,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1100,7 +1105,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1188,15 +1193,15 @@
       "Name": "You can pet the dog",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "STB_PET_HORSE",
       "SetID": "3pe2bac",
       "Name": "You can pet the... horse",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 152
     },
     {
       "ID": "STB_PLATINUM",
@@ -1218,9 +1223,9 @@
       "ID": "STB_SECONDARY_ASSAULT_I",
       "SetID": "3pe2bac",
       "Name": "Ternmoat Headquarters",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 608
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1260,7 +1265,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1307,7 +1312,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1899,
+      "Progressed": 1900,
       "Completed": 1
     }
   ],
@@ -1315,8 +1320,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-06T23:06:24.4451666+00:00",
+  "LastChanged_Achievements": "2023-05-07T00:06:10.4446708+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:59:15.0141047+00:00",
-  "LastUpdate_Achievements": "2023-05-06T23:06:24.4452166+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:58:51.2553066+00:00",
+  "LastUpdate_Achievements": "2023-05-07T00:06:10.4447201+00:00"
 }

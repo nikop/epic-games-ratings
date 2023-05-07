@@ -6,6 +6,7 @@ Rating: 4.17 (Ranked 828)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Protector of Gotham | 0.30% | ~182 |
+| Quartzer Life Crisis | 0.30% | ~182 |
 | Unstoppable Force | 0.30% | ~182 |
 | Gotham Knight | 0.30% | ~182 |
 | The Batman Family | 0.20% | ~121 |
@@ -19,7 +20,6 @@ Rating: 4.17 (Ranked 828)
 | Shock Til They Drop | 0.20% | ~121 |
 | Drone You Out | 0.20% | ~121 |
 | To the Victor Go the Spoils | 0.20% | ~121 |
-| Quartzer Life Crisis | 0.20% | ~121 |
 | Snow Problem | 0.20% | ~121 |
 | Cooldown | 0.20% | ~121 |
 | Har, Har, Har, Very Funny | 0.20% | ~121 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 828)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,674 (Ranked 66)  
+Progressed: 60,675 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 89 (0.15%) (Ranked 140)
 | 2023-05-04 | 60,626 | 89 |
 | 2023-05-05 | 60,646 | 89 |
 | 2023-05-06 | 60,674 | 89 |
+| 2023-05-07 | 60,675 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,193  (Ranked 99)  
 Sum: 3,627 (Ranked 138)  

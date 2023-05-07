@@ -4,7 +4,7 @@
   "ProductSlug": "pc-building-simulator-2",
   "Ranking_Rating": 352,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 128,
+  "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 73,
@@ -676,10 +676,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4519,
       "NumberOfAwardsMax": 595
+    },
+    {
+      "Time": "2023-05-07T00:00:41.3959805+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4521,
+      "NumberOfAwardsMax": 595
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4519,
+  "NumberOfAwards": 4521,
   "NumberOfAwardsMax": 595,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -729,7 +735,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 509
+      "Count": 511
     },
     {
       "Text": "This game has a Creative Community",
@@ -752,7 +758,7 @@
   ],
   "EOS_Progressed": 158209,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2299,9 +2305,9 @@
   "FirstSeen": "2022-10-12T19:00:44.2364682+00:00",
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
-  "LastChanged": "2023-05-06T20:00:49.7226209+00:00",
-  "LastChanged_Achievements": "2023-05-06T23:06:51.6973098+00:00",
+  "LastChanged": "2023-05-07T00:00:41.3959802+00:00",
+  "LastChanged_Achievements": "2023-05-07T00:06:37.8709542+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-06T23:01:12.0700769+00:00",
-  "LastUpdate_Achievements": "2023-05-06T23:06:51.6973685+00:00"
+  "LastUpdate_Ratings": "2023-05-07T00:00:41.3959809+00:00",
+  "LastUpdate_Achievements": "2023-05-07T00:06:37.8710102+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -68,6 +68,11 @@
       "Time": "2023-05-01T07:05:31.4827886+00:00",
       "NumProgressed": 272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T00:06:42.9568855+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -111,7 +116,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "FifthGrade",
@@ -199,15 +204,15 @@
       "Name": "Smarter than a 5th Grader",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "StudySession",
       "SetID": "6l18k14",
       "Name": "Study Session",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "ThirdGrade",
@@ -230,7 +235,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 0
     }
   ],
@@ -238,8 +243,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-05-06T23:06:56.8022177+00:00",
+  "LastChanged_Achievements": "2023-05-07T00:06:42.956885+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.4385662+00:00",
-  "LastUpdate_Ratings": "2023-05-06T23:01:31.54948+00:00",
-  "LastUpdate_Achievements": "2023-05-06T23:06:56.8022304+00:00"
+  "LastUpdate_Ratings": "2023-05-07T00:01:00.1681395+00:00",
+  "LastUpdate_Achievements": "2023-05-07T00:06:42.9568996+00:00"
 }

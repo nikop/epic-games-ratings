@@ -505,7 +505,7 @@
 | 499 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 322 |
 | 499 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 285 |
 | 499 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 264 |
-| 499 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,133 | 126 |
+| 499 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,136 | 126 |
 | 499 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 490 |
 | 499 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 274 | 229 |
 | 499 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 490 |
@@ -556,24 +556,24 @@
 | 550 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 490 |
 | 550 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 231 |
 | 550 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 227 | 244 |
+| 550 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 490 |
 | 550 | [Maneater](games/m/maneater.md) | 4.49 | 13,430 | 24 |
 | 550 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 611 | 162 |
 | 550 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 490 |
 | 550 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 344 |
 | 550 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 490 |
 | 550 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 490 |
-| 563 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 490 |
-| 563 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 490 |
-| 563 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 490 |
-| 563 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 0 | 490 |
-| 563 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.48 | 0 | 490 |
-| 563 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 490 |
-| 563 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 490 |
-| 563 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 490 |
-| 563 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 490 |
-| 563 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.48 | 0 | 490 |
-| 563 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 490 |
-| 563 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 421 |
+| 564 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 490 |
+| 564 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 490 |
+| 564 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 490 |
+| 564 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.48 | 0 | 490 |
+| 564 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 490 |
+| 564 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 490 |
+| 564 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 490 |
+| 564 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 490 |
+| 564 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.48 | 0 | 490 |
+| 564 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 490 |
+| 564 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 421 |
 | 575 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 0 | 490 |
 | 575 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 490 |
 | 575 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 434 |
@@ -612,7 +612,7 @@
 | 600 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 490 |
 | 600 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,103 | 33 |
 | 600 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 490 |
-| 600 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 847 | 143 |
+| 600 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 848 | 143 |
 | 600 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 490 |
 | 600 | [SMITE](games/s/smite.md) | 4.45 | 3,723 | 77 |
 | 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 523 | 178 |
@@ -698,21 +698,21 @@
 | 696 | [Breathedge](games/b/breathedge.md) | 4.37 | 0 | 490 |
 | 696 | [Core](games/c/core.md) | 4.37 | 728 | 152 |
 | 696 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
+| 696 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,335 | 27 |
 | 696 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |
 | 696 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 490 |
 | 696 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 395 |
 | 696 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 84 | 341 |
 | 696 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 31 | 440 |
-| 704 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 490 |
-| 704 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 273 |
-| 704 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 490 |
-| 704 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,335 | 27 |
-| 704 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 490 |
-| 704 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 490 |
-| 704 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 464 |
-| 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 490 |
-| 704 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 490 |
-| 704 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 490 |
+| 705 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 490 |
+| 705 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 273 |
+| 705 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 490 |
+| 705 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 490 |
+| 705 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 490 |
+| 705 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 464 |
+| 705 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 490 |
+| 705 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 490 |
+| 705 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 490 |
 | 714 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 490 |
 | 714 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 334 |
 | 714 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 48 | 391 |

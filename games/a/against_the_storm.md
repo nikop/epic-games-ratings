@@ -16,11 +16,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 0.60% | ~88 |
 | Bandit Camp | 0.50% | ~73 |
 | Barren Lands | 0.50% | ~73 |
+| Ancient Battleground | 0.50% | ~73 |
 | Lost Colonies | 0.50% | ~73 |
 | Like a Machine | 0.50% | ~73 |
 | Trade Baron | 0.50% | ~73 |
 | Homesick | 0.40% | ~59 |
-| Ancient Battleground | 0.40% | ~59 |
 | Sparkdew Crystals | 0.40% | ~59 |
 | Dangerous Lands | 0.40% | ~59 |
 | Flooded Mines | 0.40% | ~59 |

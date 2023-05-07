@@ -13,12 +13,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 25.00% | ~199,585 |
 | The Hermit | 22.00% | ~175,635 |
 | True Soldier | 22.00% | ~175,635 |
-| Christmas Tree Attack | 21.00% | ~167,651 |
+| Christmas Tree Attack | 21.00% | ~167,652 |
 | The High Priestess | 20.00% | ~159,668 |
 | Legend of The Afterlife | 20.00% | ~159,668 |
 | Life of the Road | 19.00% | ~151,685 |
 | Full Body Conversion | 17.00% | ~135,718 |
-| The World | 16.00% | ~127,734 |
+| The World | 16.00% | ~127,735 |
 | Bushido and Chill | 15.00% | ~119,751 |
 | True Warrior | 14.00% | ~111,768 |
 | To Protect and Serve | 13.00% | ~103,784 |
@@ -26,7 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 13.00% | ~103,784 |
 | I Am The Law | 13.00% | ~103,784 |
 | Judy vs Night City | 13.00% | ~103,784 |
-| Two Heads, One Bullet | 11.00% | ~87,817 |
+| Two Heads, One Bullet | 11.00% | ~87,818 |
 | The Wandering Fool | 9.00% | ~71,851 |
 | The Quick and the Dead | 9.00% | ~71,851 |
 | Ten out of Ten | 8.00% | ~63,867 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,983 |
 | Rough Landing | 0.40% | ~3,193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,340 (Ranked 11)  
+Progressed: 798,341 (Ranked 11)  
 Completed: 1,574 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 1,574 (0.20%) (Ranked 131)
 | 2023-05-04 | 797,891 | 1,567 |
 | 2023-05-05 | 798,086 | 1,570 |
 | 2023-05-06 | 798,340 | 1,574 |
+| 2023-05-07 | 798,341 | 1,574 |
 ## Awards
 Max (Character Customization): 63,694  (Ranked 9)  
 Sum: 166,634 (Ranked 13)  

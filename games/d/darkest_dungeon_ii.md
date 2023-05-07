@@ -34,6 +34,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 20.00% | ~1 |
 | Hat Trick | 20.00% | ~1 |
 | Rush Hour | 20.00% | ~1 |
+| Merry Time | 20.00% | ~1 |
+| Harvest Festival | 20.00% | ~1 |
 | Autodidact | 20.00% | ~1 |
 | It Rings a Bell | 0.00% | ~0 |
 | A Life Well Lived | 0.00% | ~0 |
@@ -56,8 +58,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.00% | ~0 |
 | It Happens | 0.00% | ~0 |
 | Spelunker | 0.00% | ~0 |
-| Merry Time | 0.00% | ~0 |
-| Harvest Festival | 0.00% | ~0 |
 | Ramble On | 0.00% | ~0 |
 | 20,000 Leagues Above the Sea | 0.00% | ~0 |
 | Tears in the Rain | 0.00% | ~0 |

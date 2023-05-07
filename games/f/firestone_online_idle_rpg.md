@@ -5,14 +5,14 @@ Rating: 3.40 (Ranked 916)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~819 |
-| World Map | 80.00% | ~705 |
-| Temple of Eternals | 55.00% | ~485 |
-| Prestigious | 51.00% | ~449 |
-| Fellowship Power | 38.00% | ~335 |
+| Victor | 93.00% | ~821 |
+| World Map | 80.00% | ~706 |
+| Temple of Eternals | 55.00% | ~486 |
+| Prestigious | 51.00% | ~450 |
+| Fellowship Power | 38.00% | ~336 |
 | Guild Power | 23.00% | ~203 |
 | Prestigious x10 | 18.00% | ~159 |
-| The game is on | 14.00% | ~123 |
+| The game is on | 14.00% | ~124 |
 | Exotic Merchant | 13.00% | ~115 |
 | Inspection | 13.00% | ~115 |
 | Dragon Clicker | 12.00% | ~106 |
@@ -35,6 +35,7 @@ Rating: 3.40 (Ranked 916)
 | Moving Up The Ladder | 2.00% | ~18 |
 | Scroll Master | 2.00% | ~18 |
 | The Expeditioner | 2.00% | ~18 |
+| The power of Awakening | 2.00% | ~18 |
 | Active Member | 1.00% | ~9 |
 | Ancient Knowledge | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
@@ -44,7 +45,6 @@ Rating: 3.40 (Ranked 916)
 | Missions Dedication | 1.00% | ~9 |
 | Mysterious Rock | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
-| The power of Awakening | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | The father of Dragons | 0.90% | ~8 |
 | Trader | 0.90% | ~8 |
@@ -81,7 +81,7 @@ Rating: 3.40 (Ranked 916)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 881 (Ranked 164)  
+Progressed: 883 (Ranked 164)  
 Completed: 1 (0.11%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 1 (0.11%) (Ranked 148)
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
 | 2023-05-06 | 881 | 1 |
+| 2023-05-07 | 883 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

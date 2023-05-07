@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.65,
   "NumberOfRatings": 74,
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6290,
+  "EOS_Progressed": 6291,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -579,6 +579,11 @@
       "Time": "2023-05-06T21:07:01.8901395+00:00",
       "NumProgressed": 6290,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-07T00:06:16.5443884+00:00",
+      "NumProgressed": 6291,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 27,
@@ -598,7 +603,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -646,7 +651,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -654,7 +659,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -742,7 +747,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -805,15 +810,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6290,
+      "Progressed": 6291,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-06T23:06:30.7051611+00:00",
+  "LastChanged_Achievements": "2023-05-07T00:06:16.5443878+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:49.2176295+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:59:06.5619705+00:00",
-  "LastUpdate_Achievements": "2023-05-06T23:06:30.7051828+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:58:43.0768382+00:00",
+  "LastUpdate_Achievements": "2023-05-07T00:06:16.5444094+00:00"
 }

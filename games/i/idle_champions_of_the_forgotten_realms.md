@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~173 |
 | Running of the Saurs | 0.20% | ~173 |
 | The Contagious Curse | 0.20% | ~173 |
+| Dinosaur Racing | 0.20% | ~173 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
 | Escort to Waterdeep | 0.20% | ~173 |
@@ -339,7 +340,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~87 |
 | The Nimble Grove | 0.10% | ~87 |
 | The Misty Grove | 0.10% | ~53 |
-| Dinosaur Racing | 0.10% | ~87 |
 | Elturel Has Fallen | 0.10% | ~87 |
 | Everything is Awful | 0.10% | ~87 |
 | Earthquake! | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,681 (Ranked 59)  
+Progressed: 86,685 (Ranked 59)  
 Completed: 1,809 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,6 +513,7 @@ Completed: 1,809 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
+| 2023-05-07 | 86,685 | 1,809 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,822 (Ranked 37)  

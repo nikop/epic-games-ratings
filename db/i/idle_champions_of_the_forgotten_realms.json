@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 8,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
@@ -3554,9 +3554,9 @@
       "Count": 3225
     }
   ],
-  "EOS_Progressed": 86681,
+  "EOS_Progressed": 86685,
   "EOS_Completed": 1809,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4878,6 +4878,11 @@
     {
       "Time": "2023-05-06T23:07:04.0096128+00:00",
       "NumProgressed": 86681,
+      "NumCompleted": 1809
+    },
+    {
+      "Time": "2023-05-07T00:06:49.9129725+00:00",
+      "NumProgressed": 86685,
       "NumCompleted": 1809
     }
   ],
@@ -7440,9 +7445,9 @@
       "ID": "objective_completed_60",
       "SetID": "cc37lbc",
       "Name": "Dinosaur Racing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_600",
@@ -8801,21 +8806,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 52955,
+      "Progressed": 52959,
       "Completed": 2470
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86681,
+      "Progressed": 86685,
       "Completed": 1809
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-06T15:59:32.6872105+00:00",
-  "LastChanged_Achievements": "2023-05-06T23:07:04.0096126+00:00",
+  "LastChanged_Achievements": "2023-05-07T00:06:49.912972+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-06T22:59:36.8907855+00:00",
-  "LastUpdate_Achievements": "2023-05-06T23:07:04.0118965+00:00"
+  "LastUpdate_Ratings": "2023-05-06T23:59:12.8502059+00:00",
+  "LastUpdate_Achievements": "2023-05-07T00:06:49.9153082+00:00"
 }

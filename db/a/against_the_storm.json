@@ -2216,7 +2216,7 @@
   ],
   "EOS_Progressed": 14678,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3114,9 +3114,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 73
     },
     {
       "ID": "WinNearCrystals",
@@ -3386,8 +3386,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-06T01:52:28.1299102+00:00",
-  "LastChanged_Achievements": "2023-05-06T23:06:56.107004+00:00",
+  "LastChanged_Achievements": "2023-05-07T00:06:42.4806335+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-06T23:01:22.6907115+00:00",
-  "LastUpdate_Achievements": "2023-05-06T23:06:56.1070448+00:00"
+  "LastUpdate_Ratings": "2023-05-07T00:00:50.9998511+00:00",
+  "LastUpdate_Achievements": "2023-05-07T00:06:42.4806806+00:00"
 }

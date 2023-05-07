@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.67,
   "NumberOfRatings": 7767,
@@ -4328,17 +4328,17 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -4552,8 +4552,8 @@
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-05-06T23:01:15.6836509+00:00",
-  "LastChanged_Achievements": "2023-05-06T23:06:49.8393894+00:00",
+  "LastChanged_Achievements": "2023-05-07T00:06:35.9228729+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.6741172+00:00",
-  "LastUpdate_Ratings": "2023-05-06T23:01:15.6836516+00:00",
-  "LastUpdate_Achievements": "2023-05-06T23:06:49.8394495+00:00"
+  "LastUpdate_Ratings": "2023-05-07T00:00:45.0608185+00:00",
+  "LastUpdate_Achievements": "2023-05-07T00:06:35.9229256+00:00"
 }

@@ -12,9 +12,9 @@
 | Doberman ✔ | 9.00% | ~13 |
 | Survival ✔ | 6.00% | ~8 |
 | Hospital ✔ | 6.00% | ~8 |
+| Master of Unlocking ✔ | 6.00% | ~8 |
 | Thirst ✔ | 6.00% | ~8 |
 | Weapon ✔ | 6.00% | ~8 |
-| Master of Unlocking ✔ | 5.00% | ~7 |
 | Chess ✔ | 5.00% | ~7 |
 | Antivirus ✔ | 4.00% | ~6 |
 | Betty ✔ | 4.00% | ~6 |

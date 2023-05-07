@@ -5,7 +5,7 @@
 | 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 22.22% |
 | 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 6 | [Island Cities](games/i/island_cities.md) | 18.97% |
+| 6 | [Island Cities](games/i/island_cities.md) | 18.64% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.71% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.70% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
@@ -28,7 +28,7 @@
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.70% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.23% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.21% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -54,7 +54,7 @@
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.44% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 55 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
+| 55 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
 | 56 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 57 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 58 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -99,9 +99,9 @@
 | 97 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 98 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
 | 99 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
-| 100 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
-| 102 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
+| 101 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 101 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 103 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 104 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |

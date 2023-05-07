@@ -9,19 +9,19 @@ Number of Ratings: 10,109  (23.09.2022)
 | Improvement | 85.00% | ~23,298 |
 | Blood Moon | 73.00% | ~20,009 |
 | Path of the Necromancer | 65.00% | ~17,816 |
-| Chainbreaker - I | 60.00% | ~16,445 |
-| Cursed Creature | 57.00% | ~15,623 |
-| Extraction | 57.00% | ~15,623 |
+| Chainbreaker - I | 60.00% | ~16,446 |
+| Cursed Creature | 57.00% | ~15,624 |
+| Extraction | 57.00% | ~15,624 |
 | Chainbreaker - II | 54.00% | ~14,801 |
 | Necromancer's Apprentice | 51.00% | ~13,979 |
-| Keeper of Keys | 47.00% | ~12,882 |
+| Keeper of Keys | 47.00% | ~12,883 |
 | Distillation | 43.00% | ~11,786 |
 | Mountain King - I | 42.00% | ~11,512 |
 | Transmutation | 42.00% | ~11,512 |
 | Prepared Necromancer | 40.00% | ~10,964 |
 | Mountain King - II | 39.00% | ~10,690 |
-| Blind Rage | 38.00% | ~10,415 |
-| Mad Genius | 35.00% | ~9,593 |
+| Blind Rage | 38.00% | ~10,416 |
+| Mad Genius | 35.00% | ~9,594 |
 | Cannon Fodder - I | 34.00% | ~9,319 |
 | Soul of Lies | 34.00% | ~9,319 |
 | Bane of Mercenaries - I | 32.00% | ~8,771 |
@@ -29,8 +29,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Cannon Fodder - II | 29.00% | ~7,949 |
 | Shadow Between Worlds | 29.00% | ~7,949 |
 | Bane of Monsters | 28.00% | ~7,675 |
-| Chainbreaker - III | 27.00% | ~7,400 |
-| Revealed Secrets - I | 26.00% | ~7,126 |
+| Chainbreaker - III | 27.00% | ~7,401 |
+| Revealed Secrets - I | 26.00% | ~7,127 |
 | Revealed Secrets - II | 25.00% | ~6,852 |
 | Blood Elemental | 24.00% | ~6,578 |
 | Unholy Bones | 23.00% | ~6,304 |
@@ -45,10 +45,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Head of Order | 20.00% | ~5,482 |
 | Calcination | 19.00% | ~5,208 |
 | Blood Mage | 17.00% | ~4,660 |
-| Wild Hunger | 16.00% | ~4,385 |
-| Rage Concentrated | 16.00% | ~4,385 |
-| Mountain King - III | 15.00% | ~4,111 |
-| Rare Warrior | 15.00% | ~4,111 |
+| Wild Hunger | 16.00% | ~4,386 |
+| Rage Concentrated | 16.00% | ~4,386 |
+| Mountain King - III | 15.00% | ~4,112 |
+| Rare Warrior | 15.00% | ~4,112 |
 | Blood Madness | 13.00% | ~3,563 |
 | First Sacrifice | 13.00% | ~3,563 |
 | Grand Arena | 13.00% | ~3,563 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~164 |
 | Renowned Researcher | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,409 (Ranked 84)  
+Progressed: 27,410 (Ranked 84)  
 Completed: 14 (0.05%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 14 (0.05%) (Ranked 165)
 | 2023-05-04 | 27,162 | 14 |
 | 2023-05-05 | 27,271 | 14 |
 | 2023-05-06 | 27,409 | 14 |
+| 2023-05-07 | 27,410 | 14 |
 ## Awards
 Max (Character Customization): 2,131  (Ranked 101)  
 Sum: 4,128 (Ranked 130)  
