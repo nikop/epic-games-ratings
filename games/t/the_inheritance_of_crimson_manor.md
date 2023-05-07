@@ -16,3 +16,10 @@
 | Safecracker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Master of Unlocking | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 358)  
+Completed: 0 (0.00%) (Ranked 192)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-05-07 | 1 | 0 |

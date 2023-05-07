@@ -2,10 +2,10 @@
   "ID": "e254d18e66af4f8faec00f841dd65fd5",
   "Name": "Nadir - A Grimdark Deckbuilder",
   "ProductSlug": "nadir-a-grimdark-deckbuilder-c70747",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:39.3008978+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:39.3008975+00:00",
   "LastChanged": "2023-03-31T05:57:39.3008976+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.4768868+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:59:08.6051939+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:03:12.9259197+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:58:56.647697+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:01:52.7839316+00:00"
 }

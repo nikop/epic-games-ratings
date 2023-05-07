@@ -2,10 +2,10 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-04-27T18:00:42.6973794+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -573,6 +573,11 @@
       "Time": "2023-05-07T15:06:55.4580434+00:00",
       "NumProgressed": 148,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T23:06:46.2737539+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -598,9 +603,9 @@
       "ID": "achAntivirus",
       "SetID": "72gjli4",
       "Name": "Antivirus \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achBag",
@@ -622,25 +627,25 @@
       "ID": "achBrain",
       "SetID": "72gjli4",
       "Name": "Brain \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achCar",
       "SetID": "72gjli4",
       "Name": "Car \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achCheet",
       "SetID": "72gjli4",
       "Name": "Cheats \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achChest",
@@ -784,7 +789,7 @@
       "Name": "Fright \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "achLizun",
@@ -822,9 +827,9 @@
       "ID": "achOsipovTwo",
       "SetID": "72gjli4",
       "Name": "Osipov\u0027s video message \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achPlotOne",
@@ -838,9 +843,9 @@
       "ID": "achPlotThree",
       "SetID": "72gjli4",
       "Name": "Infected \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achPlotTwo",
@@ -862,17 +867,17 @@
       "ID": "achPriest",
       "SetID": "72gjli4",
       "Name": "Priest \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achRankOne",
       "SetID": "72gjli4",
       "Name": "Rank B\u002B \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achRankThree",
@@ -894,9 +899,9 @@
       "ID": "achSave",
       "SetID": "72gjli4",
       "Name": "King of survival \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achSecretos",
@@ -934,9 +939,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "achVip",
@@ -974,16 +979,16 @@
       "ID": "achWorms",
       "SetID": "72gjli4",
       "Name": "Boss 3 \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 0
     }
   ],
@@ -991,8 +996,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-07T22:07:52.8041989+00:00",
+  "LastChanged_Achievements": "2023-05-07T23:06:46.2737533+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:02:24.6034111+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:07:52.8042381+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:01:13.2246745+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:06:46.2737994+00:00"
 }

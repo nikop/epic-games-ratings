@@ -2,10 +2,10 @@
   "ID": "e05bd0c3c8d44873af400d441f97ecc6",
   "Name": "SAMURAI Survivor -Undefeated Blade",
   "ProductSlug": "samurai-surviver-undefeated-blade-ae24c9",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-04-10T17:59:06.1224737+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-04-10T17:59:06.1224734+00:00",
   "LastChanged": "2023-04-10T17:59:06.1224735+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:32.8595312+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:01:12.010492+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:05:33.1336397+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:00:25.9168056+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:05:05.0576387+00:00"
 }

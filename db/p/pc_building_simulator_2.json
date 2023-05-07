@@ -780,9 +780,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158218,
+  "EOS_Progressed": 158219,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1880,6 +1880,11 @@
       "Time": "2023-05-07T22:07:40.9652828+00:00",
       "NumProgressed": 158218,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-07T23:06:36.4582274+00:00",
+      "NumProgressed": 158219,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -1947,7 +1952,7 @@
       "Name": "Cinematic",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 37972
+      "UsersEstimate": 37973
     },
     {
       "ID": "CUSTOMIZE_broken_to_smokin",
@@ -1963,7 +1968,7 @@
       "Name": "Dream Theme",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 72780
+      "UsersEstimate": 72781
     },
     {
       "ID": "CUSTOMIZE_grand_designs",
@@ -1995,7 +2000,7 @@
       "Name": "Matching Set",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     },
     {
       "ID": "CUSTOMIZE_mix_and_match",
@@ -2059,7 +2064,7 @@
       "Name": "Thanks Jeff",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 39554
+      "UsersEstimate": 39555
     },
     {
       "ID": "DELIVERY_very_imported_pc",
@@ -2067,7 +2072,7 @@
       "Name": "Very Imported PC",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 56958
+      "UsersEstimate": 56959
     },
     {
       "ID": "JOBS_old_hand",
@@ -2083,7 +2088,7 @@
       "Name": "On the Job",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 109170
+      "UsersEstimate": 109171
     },
     {
       "ID": "JOBS_pc_og",
@@ -2107,7 +2112,7 @@
       "Name": "Tech Vet",
       "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     },
     {
       "ID": "LEVEL_elite_technician",
@@ -2139,7 +2144,7 @@
       "Name": "Tinker",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 96513
+      "UsersEstimate": 96514
     },
     {
       "ID": "LIGHTING_moar_rgb",
@@ -2211,7 +2216,7 @@
       "Name": "Bench Warmer",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 37972
+      "UsersEstimate": 37973
     },
     {
       "ID": "SELL_foot_in_the_door",
@@ -2227,7 +2232,7 @@
       "Name": "Gift of the Gab",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 37972
+      "UsersEstimate": 37973
     },
     {
       "ID": "SELL_salesperson_of_the_month",
@@ -2235,7 +2240,7 @@
       "Name": "Salesperson of the Month",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     },
     {
       "ID": "SELL_something_special",
@@ -2275,7 +2280,7 @@
       "Name": "Salvage Squad",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 37972
+      "UsersEstimate": 37973
     },
     {
       "ID": "STARS_cowboy",
@@ -2299,7 +2304,7 @@
       "Name": "The Customer is King",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 71198
+      "UsersEstimate": 71199
     },
     {
       "ID": "STICKERS_get_stuck_in",
@@ -2307,7 +2312,7 @@
       "Name": "Get Stuck In",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107588
+      "UsersEstimate": 107589
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -2339,7 +2344,7 @@
       "Name": "Room for Expansion",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107588
+      "UsersEstimate": 107589
     },
     {
       "ID": "WATERCOOL_chill_out",
@@ -2355,14 +2360,14 @@
       "Name": "Supercool",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 30061
+      "UsersEstimate": 30062
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158218,
+      "Progressed": 158219,
       "Completed": 102
     }
   ],
@@ -2370,8 +2375,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-07T20:00:56.3954861+00:00",
-  "LastChanged_Achievements": "2023-05-07T22:07:40.9652824+00:00",
+  "LastChanged_Achievements": "2023-05-07T23:06:36.4582269+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:01:45.424066+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:07:40.9653331+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:00:47.7826431+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:06:36.4582864+00:00"
 }

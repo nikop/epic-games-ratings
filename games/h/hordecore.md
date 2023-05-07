@@ -10,7 +10,7 @@
 | DIY | 78.00% | ~257 |
 | Master Chef | 65.00% | ~214 |
 | Master of Cards | 59.00% | ~194 |
-| Over Nine Thousaaand | 56.00% | ~184 |
+| Over Nine Thousaaand | 57.00% | ~188 |
 | Getting the Hang Of This | 47.00% | ~155 |
 | Collector | 29.00% | ~95 |
 | Poker-Man | 21.00% | ~69 |

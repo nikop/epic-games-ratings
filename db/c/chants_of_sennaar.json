@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -27,8 +27,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-05-07T22:06:49.3522416+00:00",
+  "LastChanged_Achievements": "2023-05-07T23:05:55.8196157+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.777187+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:00:42.2996028+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:06:49.3522438+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:00:02.7628714+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:05:55.8196192+00:00"
 }

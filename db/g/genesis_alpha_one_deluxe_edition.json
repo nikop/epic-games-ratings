@@ -2,14 +2,14 @@
   "ID": "puma",
   "Name": "Genesis Alpha One Deluxe Edition",
   "ProductSlug": "genesis-alpha-one",
-  "Ranking_Rating": 665,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
-  "Rating": 4.4,
+  "Ranking_EOS_NewCompleters": 72,
+  "Rating": 4.41,
   "NumberOfRatings": 50,
   "RatingHistory": [
     {
@@ -271,6 +271,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-07T22:58:59.2246418+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -288,8 +294,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:52.5192552+00:00",
-  "LastChanged": "2023-05-03T21:57:29.2671922+00:00",
+  "LastChanged": "2023-05-07T22:58:59.2246416+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:11.0104987+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:59:11.4809895+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:03:09.0579863+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:58:59.2246422+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:01:49.8947001+00:00"
 }

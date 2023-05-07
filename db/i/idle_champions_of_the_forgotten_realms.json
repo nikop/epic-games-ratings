@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 7,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3578,10 +3578,10 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86802,
-  "EOS_Completed": 1810,
-  "EOS_NewPlayers": 713,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 86808,
+  "EOS_Completed": 1811,
+  "EOS_NewPlayers": 717,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5013,6 +5013,11 @@
       "Time": "2023-05-07T22:07:56.0086004+00:00",
       "NumProgressed": 86802,
       "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T23:06:49.0072363+00:00",
+      "NumProgressed": 86808,
+      "NumCompleted": 1811
     }
   ],
   "TotalAchievements": 489,
@@ -6134,9 +6139,9 @@
       "ID": "objective_completed_149",
       "SetID": "cc37lbc",
       "Name": "The Forbidden City",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_15",
@@ -7566,9 +7571,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_completed_60",
@@ -8518,9 +8523,9 @@
       "ID": "objective_completed_850",
       "SetID": "415jc5c",
       "Name": "Witty Riposting",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_852",
@@ -8935,21 +8940,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53076,
+      "Progressed": 53082,
       "Completed": 2476
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86802,
-      "Completed": 1810
+      "Progressed": 86808,
+      "Completed": 1811
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-07T18:59:29.8871961+00:00",
-  "LastChanged_Achievements": "2023-05-07T22:07:56.0086001+00:00",
+  "LastChanged_Achievements": "2023-05-07T23:06:49.0072358+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:59:27.6852424+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:07:56.0108258+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:59:09.552993+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:06:49.0095642+00:00"
 }

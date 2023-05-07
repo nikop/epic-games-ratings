@@ -6,17 +6,17 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~385,640 |
-| Hey! That's mine! | 78.00% | ~371,357 |
-| Happy Returns | 77.00% | ~366,596 |
-| Field Promotion | 74.00% | ~352,313 |
-| Leadhead | 71.00% | ~338,030 |
-| Eradicator | 67.00% | ~318,986 |
-| Surplus | 65.00% | ~309,464 |
-| I Spy | 63.00% | ~299,942 |
-| Burn Baby Burn | 59.00% | ~280,898 |
-| Yellow Beats Green | 55.00% | ~261,854 |
-| Salvage Rights | 53.00% | ~252,332 |
+| First Blood | 81.00% | ~385,642 |
+| Hey! That's mine! | 78.00% | ~371,359 |
+| Happy Returns | 77.00% | ~366,598 |
+| Field Promotion | 74.00% | ~352,315 |
+| Leadhead | 71.00% | ~338,032 |
+| Eradicator | 67.00% | ~318,988 |
+| Surplus | 65.00% | ~309,466 |
+| I Spy | 63.00% | ~299,944 |
+| Burn Baby Burn | 59.00% | ~280,900 |
+| Yellow Beats Green | 55.00% | ~261,856 |
+| Salvage Rights | 53.00% | ~252,334 |
 | What IS that? | 50.00% | ~238,050 |
 | Close Call | 49.00% | ~233,289 |
 | Penny Pincher | 49.00% | ~233,289 |
@@ -63,7 +63,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Master Siege Breaker | 0.80% | ~3,809 |
 | Few and Proud | 0.80% | ~3,809 |
 | Shell-shocked | 0.70% | ~3,333 |
-| Alien Tears | 0.50% | ~2,380 |
+| Alien Tears | 0.50% | ~2,381 |
 | Full House | 0.40% | ~1,904 |
 | Kickstarter | 0.30% | ~1,428 |
 | The Container | 0.30% | ~1,428 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~476 |
 | You Monster | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,099 (Ranked 26)  
+Progressed: 476,101 (Ranked 26)  
 Completed: 4 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 4 (0.00%) (Ranked 192)
 | 2023-05-04 | 475,761 | 4 |
 | 2023-05-05 | 475,852 | 4 |
 | 2023-05-06 | 475,984 | 4 |
-| 2023-05-07 | 476,099 | 4 |
+| 2023-05-07 | 476,101 | 4 |
 ## Awards
 Max (Great for Beginners): 230  (Ranked 243)  
 Sum: 1,632 (Ranked 200)  

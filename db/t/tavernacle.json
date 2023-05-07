@@ -2,10 +2,10 @@
   "ID": "bbe4259ef6f341c48fe030c9c0bbe74b",
   "Name": "Tavernacle",
   "ProductSlug": "tavernacle-010ae5",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -20,6 +20,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.5236972+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:59:27.3346297+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:04:32.497074+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:59:09.2836256+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:04:24.4523189+00:00"
 }

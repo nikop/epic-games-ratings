@@ -2,10 +2,10 @@
   "ID": "5897959368ac4350989ed0bdef86e78d",
   "Name": "The Hong Kong Massacre",
   "ProductSlug": "the-hong-kong-massacre-8bdd14",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-04-22T18:58:36.4241615+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-04-22T18:58:36.4241611+00:00",
   "LastChanged": "2023-04-22T18:58:36.4241611+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:33.1666322+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:01:12.1778853+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:04:24.4006269+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:00:26.0467102+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:04:18.2205703+00:00"
 }

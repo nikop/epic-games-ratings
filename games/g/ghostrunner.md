@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 79.00% | ~3,316 |
+| Longrunner | 79.00% | ~3,317 |
 | Sword Runner | 62.00% | ~2,603 |
 | Wallrunner | 58.00% | ~2,435 |
 | Running out of breath | 56.00% | ~2,351 |
-| Homerunner | 47.00% | ~1,973 |
-| Out of order | 47.00% | ~1,973 |
-| I call it luck | 46.00% | ~1,931 |
-| Where are my Keys? | 44.00% | ~1,847 |
-| Back to hell | 39.00% | ~1,637 |
-| Perfection | 34.00% | ~1,427 |
-| Sword to a gunfight | 32.00% | ~1,343 |
-| Why not both | 32.00% | ~1,343 |
-| Control freak | 30.00% | ~1,259 |
-| Running Wild | 30.00% | ~1,259 |
-| Upgrades not mandatory | 30.00% | ~1,259 |
-| Artificial selection | 29.00% | ~1,217 |
-| Finish line | 28.00% | ~1,175 |
+| Homerunner | 47.00% | ~1,974 |
+| Out of order | 47.00% | ~1,974 |
+| I call it luck | 46.00% | ~1,932 |
+| Where are my Keys? | 44.00% | ~1,848 |
+| Back to hell | 39.00% | ~1,638 |
+| Perfection | 34.00% | ~1,428 |
+| Sword to a gunfight | 32.00% | ~1,344 |
+| Why not both | 32.00% | ~1,344 |
+| Control freak | 30.00% | ~1,260 |
+| Running Wild | 30.00% | ~1,260 |
+| Upgrades not mandatory | 30.00% | ~1,260 |
+| Artificial selection | 29.00% | ~1,218 |
+| Finish line | 28.00% | ~1,176 |
 | Unstoppable force | 24.00% | ~1,008 |
 | Wave of mutilation | 23.00% | ~966 |
 | Can't Run Can't Hide | 20.00% | ~840 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~21 |
 | Up Close And Personal | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,198 (Ranked 125)  
+Progressed: 4,199 (Ranked 125)  
 Completed: 21 (0.50%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 21 (0.50%) (Ranked 98)
 | 2023-05-04 | 3,897 | 20 |
 | 2023-05-05 | 3,981 | 20 |
 | 2023-05-06 | 4,083 | 20 |
-| 2023-05-07 | 4,198 | 21 |
+| 2023-05-07 | 4,199 | 21 |
 ## Awards
 Max (Great Boss Battles): 455  (Ranked 188)  
 Sum: 587 (Ranked 280)  

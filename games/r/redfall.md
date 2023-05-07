@@ -5,37 +5,37 @@ Rating: 3.48 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 87.00% | ~1,225 |
-| Home Is Where the Heart Is | 68.00% | ~957 |
-| Wounded Whispers | 68.00% | ~957 |
-| Ne Plus Ultra | 67.00% | ~943 |
-| Blood Will Have Blood | 55.00% | ~774 |
-| ICU | 50.00% | ~704 |
-| Peek-a-boo | 49.00% | ~690 |
-| Catch and Release | 49.00% | ~690 |
-| Sucks To Be You | 48.00% | ~676 |
-| Welcome to the Neighborhood | 41.00% | ~577 |
-| Fly Fisher | 38.00% | ~535 |
-| Throw The First Stone | 38.00% | ~535 |
-| Enter of Your Own Free Will | 35.00% | ~493 |
-| Skin of Their Teeth | 35.00% | ~493 |
-| Heart Attack | 34.00% | ~479 |
-| Grounded | 25.00% | ~352 |
-| Bad Wiring | 23.00% | ~324 |
-| I Spit On Your Grave | 21.00% | ~296 |
-| Radio Silence | 17.00% | ~239 |
-| Neighborhood Revitalization | 16.00% | ~225 |
-| Helping Hand | 13.00% | ~183 |
+| I Like My Stakes Rare! | 87.00% | ~1,228 |
+| Home Is Where the Heart Is | 68.00% | ~960 |
+| Ne Plus Ultra | 68.00% | ~960 |
+| Wounded Whispers | 68.00% | ~960 |
+| Blood Will Have Blood | 55.00% | ~777 |
+| ICU | 50.00% | ~706 |
+| Peek-a-boo | 49.00% | ~692 |
+| Catch and Release | 49.00% | ~692 |
+| Sucks To Be You | 48.00% | ~678 |
+| Welcome to the Neighborhood | 42.00% | ~593 |
+| Fly Fisher | 38.00% | ~537 |
+| Throw The First Stone | 38.00% | ~537 |
+| Enter of Your Own Free Will | 35.00% | ~494 |
+| Skin of Their Teeth | 35.00% | ~494 |
+| Heart Attack | 34.00% | ~480 |
+| Grounded | 25.00% | ~353 |
+| Bad Wiring | 23.00% | ~325 |
+| I Spit On Your Grave | 21.00% | ~297 |
+| Radio Silence | 17.00% | ~240 |
+| Neighborhood Revitalization | 16.00% | ~226 |
+| Helping Hand | 13.00% | ~184 |
 | You Clean It Up | 12.00% | ~169 |
 | Starve the Beast | 9.00% | ~127 |
 | Block Party | 8.00% | ~113 |
-| From the Shadows | 5.00% | ~70 |
+| From the Shadows | 5.00% | ~71 |
+| Right This Way | 4.00% | ~56 |
 | Nice Try | 4.00% | ~56 |
 | Revelations | 3.00% | ~42 |
 | Bell-ringer | 3.00% | ~42 |
 | Silence Is Golden | 3.00% | ~42 |
 | Check, Please! | 3.00% | ~42 |
-| Right This Way | 3.00% | ~42 |
 | Blacklight Down | 3.00% | ~42 |
 | Enemy of My Enemy | 3.00% | ~42 |
 | Dexterity Save | 3.00% | ~42 |
@@ -54,7 +54,7 @@ Rating: 3.48 (Ranked 915)
 | Ask Not For Whom The Horns Blow | 1.00% | ~14 |
 | Bloody Initiate | 1.00% | ~14 |
 | Under a Bushel | 1.00% | ~14 |
-| Sisterhood | 0.90% | ~13 |
+| Sisterhood | 0.80% | ~11 |
 | What Lies Below | 0.70% | ~10 |
 | So Anyway I Started Blasting | 0.60% | ~8 |
 | Good Samaritan | 0.40% | ~6 |
@@ -72,7 +72,7 @@ Rating: 3.48 (Ranked 915)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,408 (Ranked 151)  
+Progressed: 1,412 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 1,164 | 0 |
 | 2023-05-05 | 1,266 | 0 |
 | 2023-05-06 | 1,344 | 0 |
-| 2023-05-07 | 1,408 | 0 |
+| 2023-05-07 | 1,412 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

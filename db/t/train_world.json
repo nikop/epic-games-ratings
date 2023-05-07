@@ -2,10 +2,10 @@
   "ID": "942b563ee0aa4086a55d8b746aca514d",
   "Name": "Train World",
   "ProductSlug": "train-world-07e156",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -20,6 +20,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:59:32.9594294+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:59:44.0730383+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:04:11.0610555+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:59:20.4125637+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:04:08.5739401+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
   "Name": "Neko Ghost, Jump!",
   "ProductSlug": "neko-ghost-jump",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:15.8398467+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:15.8398465+00:00",
   "LastChanged": "2023-03-31T05:58:15.8398466+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:21.7610013+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:00:57.9158394+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:04:09.1470905+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:00:13.6832347+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:04:07.1979866+00:00"
 }

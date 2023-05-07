@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 51,
   "Rating": 4.26,
   "RatingHistory": [
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1858,
+  "EOS_Progressed": 1859,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -103,6 +103,11 @@
       "Time": "2023-05-05T20:07:04.1879212+00:00",
       "NumProgressed": 1858,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-07T23:06:42.4361469+00:00",
+      "NumProgressed": 1859,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -130,7 +135,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "complete_act_three",
@@ -154,7 +159,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "deal_damage",
@@ -162,15 +167,15 @@
       "Name": "Ouch",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1450
     },
     {
       "ID": "defeat_tree_dummy",
@@ -178,7 +183,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "fail_planet",
@@ -218,7 +223,7 @@
       "Name": "Frogbot",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "save_planet_bestfriend",
@@ -250,7 +255,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "trash_truck",
@@ -265,7 +270,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1858,
+      "Progressed": 1859,
       "Completed": 6
     }
   ],
@@ -273,8 +278,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-03-31T05:57:31.8756206+00:00",
-  "LastChanged_Achievements": "2023-05-07T22:07:48.4689747+00:00",
+  "LastChanged_Achievements": "2023-05-07T23:06:42.4361462+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:02:27.3435566+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:07:48.4689855+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:01:17.9218144+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:06:42.4361608+00:00"
 }

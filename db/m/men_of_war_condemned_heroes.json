@@ -2,10 +2,10 @@
   "ID": "63a458d04315418fa627063a956ad280",
   "Name": "Men of War Condemned Heroes",
   "ProductSlug": "men-of-war-condemned-heroes-5947be",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:17.4538842+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.4538839+00:00",
   "LastChanged": "2023-03-31T05:58:17.453884+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.3825295+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:59:27.8691381+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:03:13.1301493+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:59:09.6997552+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:01:52.9170934+00:00"
 }

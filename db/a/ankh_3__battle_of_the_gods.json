@@ -2,10 +2,10 @@
   "ID": "763d4984a2334a5abe6464a1745d30f9",
   "Name": "Ankh 3: Battle of the Gods",
   "ProductSlug": "ankh-3-295256",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:34.8064354+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.806435+00:00",
   "LastChanged": "2023-03-31T05:57:34.8064351+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.7317763+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:59:48.4514817+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:03:18.6913347+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:59:23.8057433+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:01:57.2221018+00:00"
 }

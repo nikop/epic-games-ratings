@@ -11,13 +11,13 @@ Rating: 4.77 (Ranked 103)
 | The Hallowed Hero | 5.00% | ~13,306 |
 | The Hero of Hogwarts | 5.00% | ~13,306 |
 | The Defender of Dragons | 5.00% | ~13,306 |
+| Challenge Accepted | 5.00% | ~13,306 |
 | Coasting Along | 5.00% | ~13,306 |
 | Rising From the Ashes | 5.00% | ~13,306 |
 | The Avenging Gazelle | 4.00% | ~10,645 |
 | Beast Friends | 4.00% | ~10,645 |
 | A Sallow Grave | 4.00% | ~10,645 |
 | Flight the Good Flight | 4.00% | ~10,645 |
-| Challenge Accepted | 4.00% | ~10,645 |
 | A Keen Sense of Spell | 4.00% | ~10,645 |
 | Loom for Improvement | 4.00% | ~10,645 |
 | A Talent for Spending | 4.00% | ~10,645 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,119 (Ranked 38)  
+Progressed: 266,124 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,10 +68,10 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 266,119 | 351 |
+| 2023-05-07 | 266,124 | 351 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
-Sum: 33,751 (Ranked 33)  
+Sum: 33,757 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -80,8 +80,8 @@ Diff (max vs sum): -15
 | This game is Extremely Fun | 746 |
 | This game is Great for Beginners | 724 |
 | This game is Relaxing | 714 |
-| This game has Diverse Characters | 705 |
-| This game has Amazing Storytelling | 697 |
+| This game has Diverse Characters | 709 |
+| This game has Amazing Storytelling | 699 |
 | This game has Amazing Characters | 691 |
 | This game is Highly Recommended | 669 |
 | This game has Quickly Understood Controls | 619 |
@@ -134,4 +134,4 @@ Diff (max vs sum): -15
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
 | 2023-05-05 | 4.77 | 18,393 | 33,525 |
 | 2023-05-06 | 4.77 | 18,430 | 33,633 |
-| 2023-05-07 | 4.77 | 18,488 | 33,751 |
+| 2023-05-07 | 4.77 | 18,488 | 33,757 |

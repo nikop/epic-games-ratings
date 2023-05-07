@@ -1,10 +1,10 @@
 {
   "ID": "crocus",
   "Name": "crocus",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -19,6 +19,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:16.0668645+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:59:04.8575521+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:04:38.0461141+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:58:52.8324282+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:04:28.4380515+00:00"
 }

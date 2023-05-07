@@ -2,10 +2,10 @@
   "ID": "1b5e0e44d0e74559a5dac52fded04fcd",
   "Name": "Slayers X",
   "ProductSlug": "slayers-x-affccd",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -20,6 +20,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:58:43.9847512+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:58:35.4221911+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:04:10.3110913+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:58:29.6070548+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:04:08.023893+00:00"
 }

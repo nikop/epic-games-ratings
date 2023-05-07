@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.66,
   "NumberOfRatings": 495,
   "RatingHistory": [
@@ -1031,9 +1031,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 165499,
+  "EOS_Progressed": 165504,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2210,
+  "EOS_NewPlayers": 2202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2511,6 +2511,11 @@
       "Time": "2023-05-07T22:07:26.5815267+00:00",
       "NumProgressed": 165499,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-07T23:06:24.9948795+00:00",
+      "NumProgressed": 165504,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 44,
@@ -2538,7 +2543,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Chunin",
@@ -2554,7 +2559,7 @@
       "Name": "Complete Mastery",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Disguised",
@@ -2666,7 +2671,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "MugenUnchained",
@@ -2714,7 +2719,7 @@
       "Name": "Praise the Shogun",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Prisoners",
@@ -2730,7 +2735,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "RescueTakuma",
@@ -2786,7 +2791,7 @@
       "Name": "The Cave",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "TheEnd",
@@ -2850,7 +2855,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "WinnerWinner",
@@ -2873,15 +2878,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 165499,
+      "Progressed": 165504,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-05-07T15:00:05.9609793+00:00",
-  "LastChanged_Achievements": "2023-05-07T22:07:26.5815262+00:00",
+  "LastChanged_Achievements": "2023-05-07T23:06:24.9948791+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:09.8632245+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:00:38.8113442+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:07:26.5815632+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:59:58.4097548+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:06:24.9949228+00:00"
 }

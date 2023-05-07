@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.73,
   "RatingHistory": [
     {
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1915,
+  "EOS_Progressed": 1916,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -933,6 +933,11 @@
       "Time": "2023-05-07T21:06:48.1302592+00:00",
       "NumProgressed": 1915,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T23:06:10.1188262+00:00",
+      "NumProgressed": 1916,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -992,7 +997,7 @@
       "Name": "Elemental master",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1008,7 +1013,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1120,23 +1125,23 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1744
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Meltridge",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 230
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -1160,7 +1165,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1320,7 +1325,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1336,7 +1341,7 @@
       "Name": "Full equipped",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -1352,7 +1357,7 @@
       "Name": "Ancient power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -1367,7 +1372,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1915,
+      "Progressed": 1916,
       "Completed": 1
     }
   ],
@@ -1375,8 +1380,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-07T22:07:07.6703784+00:00",
+  "LastChanged_Achievements": "2023-05-07T23:06:10.1188256+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:58:54.4271406+00:00",
-  "LastUpdate_Achievements": "2023-05-07T22:07:07.6704189+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:58:43.3526242+00:00",
+  "LastUpdate_Achievements": "2023-05-07T23:06:10.1188768+00:00"
 }

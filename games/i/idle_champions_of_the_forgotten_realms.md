@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.30% | ~260 |
 | The Crumbling Temple | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
+| The Contagious Curse | 0.30% | ~260 |
 | Escort to Waterdeep | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
 | Tall Tales | 0.20% | ~106 |
@@ -52,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.20% | ~174 |
 | No One Can Hear You Scream | 0.20% | ~106 |
 | Beast Mode | 0.20% | ~174 |
+| The Forbidden City | 0.20% | ~174 |
 | Low Initiative | 0.20% | ~174 |
 | Street War | 0.20% | ~174 |
 | Building Trust | 0.20% | ~174 |
@@ -76,7 +78,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
 | Running of the Saurs | 0.20% | ~174 |
-| The Contagious Curse | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
@@ -92,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~174 |
 | Moose Tracks | 0.20% | ~106 |
 | Civilization | 0.20% | ~106 |
+| Witty Riposting | 0.20% | ~106 |
 | The Templar's Camp | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
 | Pros and CONs | 0.10% | ~87 |
@@ -201,7 +203,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~53 |
 | Welcome to the Rock | 0.10% | ~53 |
 | Welcome to the Band | 0.10% | ~53 |
-| The Forbidden City | 0.10% | ~87 |
 | Periodic Petrification | 0.10% | ~87 |
 | No Good at All | 0.10% | ~87 |
 | Fall From Grace | 0.10% | ~87 |
@@ -446,7 +447,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.10% | ~53 |
 | Quick Thinking | 0.10% | ~53 |
 | Tough Acting | 0.10% | ~53 |
-| Witty Riposting | 0.10% | ~53 |
 | Waiting on Sunrise | 0.10% | ~53 |
 | Frontline Fighters | 0.10% | ~53 |
 | A Chilling Encounter | 0.10% | ~53 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,802 (Ranked 59)  
-Completed: 1,810 (2.09%) (Ranked 56)  
+Progressed: 86,808 (Ranked 59)  
+Completed: 1,811 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,802 | 1,810 |
+| 2023-05-07 | 86,808 | 1,811 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,830 (Ranked 37)  

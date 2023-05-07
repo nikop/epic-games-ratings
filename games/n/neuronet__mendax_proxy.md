@@ -15,7 +15,7 @@
 | Warning: Fragile | 38.00% | ~6 |
 | An Acquired Taste | 31.00% | ~5 |
 | Busybody | 31.00% | ~5 |
-| Everyone Needs a Break | 25.00% | ~4 |
+| Everyone Needs a Break | 31.00% | ~5 |
 | Job Creator | 25.00% | ~4 |
 | A Real Headache | 19.00% | ~3 |
 | A Total Riot | 19.00% | ~3 |

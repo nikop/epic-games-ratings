@@ -9,7 +9,7 @@ Number of Ratings: 524  (23.09.2022)
 | Follow the Light | 19.00% | ~8,751 |
 | Let There Be Light | 16.00% | ~7,369 |
 | Float Like a Butterfly | 15.00% | ~6,909 |
-| Nordic Walking | 13.00% | ~5,987 |
+| Nordic Walking | 13.00% | ~5,988 |
 | Bright Falls' Finest | 12.00% | ~5,527 |
 | Under a Thin Layer of Skin | 11.00% | ~5,066 |
 | Park Ranger | 9.00% | ~4,145 |
@@ -49,7 +49,7 @@ Number of Ratings: 524  (23.09.2022)
 | Heartbreaker | 3.00% | ~286 |
 | Boob Tube | 2.00% | ~921 |
 | Carny | 2.00% | ~921 |
-| Iron Will | 2.00% | ~190 |
+| Iron Will | 2.00% | ~191 |
 | Medical Opinions | 1.00% | ~461 |
 | Taken Season | 1.00% | ~461 |
 | An Idyllic Small Town | 1.00% | ~461 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,057 (Ranked 74)  
+Progressed: 46,058 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 44 (0.10%) (Ranked 151)
 | 2023-05-04 | 45,993 | 44 |
 | 2023-05-05 | 46,013 | 44 |
 | 2023-05-06 | 46,035 | 44 |
-| 2023-05-07 | 46,057 | 44 |
+| 2023-05-07 | 46,058 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

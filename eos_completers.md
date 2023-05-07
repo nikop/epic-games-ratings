@@ -18,19 +18,19 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.11% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.52% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 5.44% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.43% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.08% |
-| 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
+| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.22% |
+| 31 | [Doodle God](games/d/doodle_god.md) | 4.04% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 34 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
@@ -65,8 +65,8 @@
 | 63 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 63 | [Somerville](games/s/somerville.md) | 1.61% |
 | 65 | [Frogun](games/f/frogun.md) | 1.55% |
-| 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
-| 67 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.51% |
+| 66 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.51% |
+| 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 68 | [Bloodshore](games/b/bloodshore.md) | 1.42% |
 | 69 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.33% |
 | 70 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
@@ -360,6 +360,7 @@
 | 192 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 192 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
 | 192 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
+| 192 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 0.00% |
 | 192 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
 | 192 | [The Tenants](games/t/the_tenants.md) | 0.00% |
 | 192 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 0.00% |
