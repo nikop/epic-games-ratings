@@ -4,16 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 58.00% | ~7 |
-| Hello World | 50.00% | ~6 |
-| I Think, Therefore I Am | 50.00% | ~6 |
-| The Real Beginning | 50.00% | ~6 |
-| Shook Up | 33.00% | ~4 |
-| The Birds and the Bees | 33.00% | ~4 |
-| Vaccinated | 25.00% | ~3 |
-| Warning: Fragile | 25.00% | ~3 |
-| Job Creator | 17.00% | ~2 |
-| Task Master | 17.00% | ~2 |
+| First Day of the Rest of Your Life | 54.00% | ~7 |
+| Hello World | 46.00% | ~6 |
+| I Think, Therefore I Am | 46.00% | ~6 |
+| The Real Beginning | 46.00% | ~6 |
+| Shook Up | 31.00% | ~4 |
+| The Birds and the Bees | 31.00% | ~4 |
+| Vaccinated | 23.00% | ~3 |
+| Warning: Fragile | 23.00% | ~3 |
+| Everyone Needs a Break | 15.00% | ~2 |
+| Job Creator | 15.00% | ~2 |
+| Task Master | 15.00% | ~2 |
 | A Little Eccentric | 8.00% | ~1 |
 | An Acquired Taste | 8.00% | ~1 |
 | A Real Headache | 8.00% | ~1 |
@@ -23,7 +24,6 @@
 | Blood Begets Blood | 8.00% | ~1 |
 | Busybody | 8.00% | ~1 |
 | Endgame | 8.00% | ~1 |
-| Everyone Needs a Break | 8.00% | ~1 |
 | The Philosopher | 8.00% | ~1 |
 | Obligatory Fraudulent Baking | 8.00% | ~1 |
 | The Partner | 8.00% | ~1 |
@@ -53,7 +53,7 @@
 | What They Don't Know Can't Hurt Them | 0.00% | ~0 |
 | Wilful Ignorance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 302)  
+Progressed: 13 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 5 | 0 |
 | 2023-05-05 | 10 | 0 |
 | 2023-05-06 | 12 | 0 |
+| 2023-05-07 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

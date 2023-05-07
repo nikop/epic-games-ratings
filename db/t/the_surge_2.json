@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.24,
   "RatingHistory": [
@@ -216,9 +216,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1540,
+  "EOS_Progressed": 1541,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -271,6 +271,11 @@
       "Time": "2023-05-06T16:08:06.5842836+00:00",
       "NumProgressed": 1540,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-07T02:12:42.0212716+00:00",
+      "NumProgressed": 1541,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -290,7 +295,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACHV_03",
@@ -336,9 +341,9 @@
       "ID": "ACHV_08",
       "SetID": "8p5mlmc",
       "Name": "Mommy Dearest",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHV_09",
@@ -354,7 +359,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHV_11",
@@ -418,7 +423,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACHV_19",
@@ -482,7 +487,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ACHV_27",
@@ -562,7 +567,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACHV_37",
@@ -586,7 +591,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "ACHV_40",
@@ -602,7 +607,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACHV_42",
@@ -737,7 +742,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1540,
+      "Progressed": 1541,
       "Completed": 10
     }
   ],
@@ -745,8 +750,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-07T00:06:48.3765108+00:00",
+  "LastChanged_Achievements": "2023-05-07T02:12:42.021271+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:33.3150703+00:00",
-  "LastUpdate_Ratings": "2023-05-07T00:01:18.3175663+00:00",
-  "LastUpdate_Achievements": "2023-05-07T00:06:48.3765635+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:07:12.4497834+00:00",
+  "LastUpdate_Achievements": "2023-05-07T02:12:42.0213255+00:00"
 }

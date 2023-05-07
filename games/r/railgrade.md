@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 476)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~17,907 |
-| Before the Downfall | 93.00% | ~16,993 |
+| Trevithick's Legacy | 98.00% | ~17,908 |
+| Before the Downfall | 93.00% | ~16,994 |
 | Money like Water | 91.00% | ~16,628 |
-| Minimalist | 90.00% | ~16,445 |
-| Builder | 83.00% | ~15,166 |
-| Eraser | 70.00% | ~12,790 |
+| Minimalist | 90.00% | ~16,446 |
+| Builder | 83.00% | ~15,167 |
+| Eraser | 70.00% | ~12,791 |
 | Pocket of Trains | 65.00% | ~11,877 |
 | Inspector | 58.00% | ~10,598 |
 | Going the Distance | 54.00% | ~9,867 |
-| Oil Baron | 42.00% | ~7,674 |
-| Loads-a-Money | 42.00% | ~7,674 |
+| Oil Baron | 42.00% | ~7,675 |
+| Loads-a-Money | 42.00% | ~7,675 |
 | Helper of the People | 39.00% | ~7,126 |
 | Simplification | 33.00% | ~6,030 |
 | Box of Trains | 33.00% | ~6,030 |
 | Let There be Light | 32.00% | ~5,847 |
-| Hot Water | 31.00% | ~5,664 |
+| Hot Water | 30.00% | ~5,482 |
 | Indecisive | 29.00% | ~5,299 |
-| The scenic route | 27.00% | ~4,933 |
+| The scenic route | 27.00% | ~4,934 |
 | Industrialist | 25.00% | ~4,568 |
 | Perfectionist | 23.00% | ~4,203 |
 | 8K is Enough for Everyone | 22.00% | ~4,020 |
 | Trains over Pipes | 22.00% | ~4,020 |
 | Man of Steel | 16.00% | ~2,924 |
 | Room Full of Trains | 12.00% | ~2,193 |
-| Investor | 9.00% | ~1,644 |
+| Investor | 9.00% | ~1,645 |
 | Multiverse | 7.00% | ~1,279 |
 | The poor groundwater levels | 7.00% | ~1,279 |
 | Metropolis | 7.00% | ~1,279 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 476)
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,272 (Ranked 93)  
+Progressed: 18,273 (Ranked 93)  
 Completed: 28 (0.15%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 28 (0.15%) (Ranked 140)
 | 2023-05-04 | 18,228 | 28 |
 | 2023-05-05 | 18,253 | 28 |
 | 2023-05-06 | 18,272 | 28 |
+| 2023-05-07 | 18,273 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 338)  
 Sum: 643 (Ranked 269)  

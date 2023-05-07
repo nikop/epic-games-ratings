@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.5,
   "RatingHistory": [
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 353,
+  "EOS_Progressed": 354,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -45,6 +45,11 @@
     {
       "Time": "2023-05-03T05:04:29.232028+00:00",
       "NumProgressed": 353,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T02:12:16.947308+00:00",
+      "NumProgressed": 354,
       "NumCompleted": 1
     }
   ],
@@ -105,7 +110,7 @@
       "Name": "No Mercy",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "different-items1",
@@ -137,7 +142,7 @@
       "Name": "Impossible Cube",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "finished-quest-flight",
@@ -145,7 +150,7 @@
       "Name": "Great Flight",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "finished-quest-monster",
@@ -175,9 +180,9 @@
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 135
     },
     {
       "ID": "finished-quest-reaper",
@@ -223,9 +228,9 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "last-hero",
@@ -233,7 +238,7 @@
       "Name": "Last Man Standing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "save-zombie",
@@ -263,9 +268,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "win-first-biom",
@@ -273,7 +278,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "win-first-level",
@@ -281,7 +286,7 @@
       "Name": "Good start!",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "win-koth-fights1",
@@ -336,7 +341,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 353,
+      "Progressed": 354,
       "Completed": 1
     }
   ],
@@ -344,8 +349,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-07T00:06:22.7146079+00:00",
+  "LastChanged_Achievements": "2023-05-07T02:12:16.9473076+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:56.0166406+00:00",
-  "LastUpdate_Ratings": "2023-05-06T23:59:48.2728733+00:00",
-  "LastUpdate_Achievements": "2023-05-07T00:06:22.714634+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:05:41.1251365+00:00",
+  "LastUpdate_Achievements": "2023-05-07T02:12:16.9473301+00:00"
 }

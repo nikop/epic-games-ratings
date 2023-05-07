@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1157,
   "EOS_Completed": 89,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.7,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -663,6 +663,11 @@
       "Time": "2023-05-07T00:06:32.6492537+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T02:12:26.6529608+00:00",
+      "NumProgressed": 1157,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 12,
@@ -688,9 +693,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 231
     },
     {
       "ID": "Green Ticket Roundup",
@@ -746,7 +751,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Nazis in Paris",
@@ -754,7 +759,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Nuremberg Laws",
@@ -769,7 +774,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 89
     }
   ],
@@ -777,8 +782,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-07T00:06:32.6492532+00:00",
+  "LastChanged_Achievements": "2023-05-07T02:12:26.65296+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-07T00:00:33.2403059+00:00",
-  "LastUpdate_Achievements": "2023-05-07T00:06:32.6492673+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:06:27.9190083+00:00",
+  "LastUpdate_Achievements": "2023-05-07T02:12:26.6529769+00:00"
 }

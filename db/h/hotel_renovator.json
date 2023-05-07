@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.5,
   "RatingHistory": [
@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 724,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -232,6 +232,11 @@
       "Time": "2023-05-06T20:06:42.6192135+00:00",
       "NumProgressed": 723,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-07T02:12:27.8358883+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -267,7 +272,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -331,7 +336,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -339,7 +344,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -377,9 +382,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -395,7 +400,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_STAR_2",
@@ -403,7 +408,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_STAR_3",
@@ -419,7 +424,7 @@
       "Name": "Nearly there",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_STAR_5",
@@ -458,7 +463,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 724,
       "Completed": 11
     }
   ],
@@ -466,8 +471,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-07T00:06:33.8045977+00:00",
+  "LastChanged_Achievements": "2023-05-07T02:12:27.8358876+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:32.8171839+00:00",
-  "LastUpdate_Ratings": "2023-05-06T23:58:29.0291883+00:00",
-  "LastUpdate_Achievements": "2023-05-07T00:06:33.8046175+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:04:23.3295337+00:00",
+  "LastUpdate_Achievements": "2023-05-07T02:12:27.8359091+00:00"
 }

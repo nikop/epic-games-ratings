@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 114,
+  "Ranking_Rating": 115,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 108,
@@ -2250,7 +2250,7 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8668,
+  "EOS_Progressed": 8670,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -2940,6 +2940,11 @@
       "Time": "2023-05-07T00:06:24.8952894+00:00",
       "NumProgressed": 8668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T02:12:18.9036532+00:00",
+      "NumProgressed": 8670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -2959,7 +2964,7 @@
       "Name": "Burning City",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -3823,7 +3828,7 @@
       "Name": "Stay Underground",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -3831,7 +3836,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -3839,7 +3844,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -3878,21 +3883,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7450,
+      "Progressed": 7452,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8668,
+      "Progressed": 8670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-06T23:59:26.1174724+00:00",
-  "LastChanged_Achievements": "2023-05-07T00:06:24.895289+00:00",
+  "LastChanged_Achievements": "2023-05-07T02:12:18.9036524+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-06T23:59:26.117473+00:00",
-  "LastUpdate_Achievements": "2023-05-07T00:06:24.8954626+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:05:20.3253577+00:00",
+  "LastUpdate_Achievements": "2023-05-07T02:12:18.9038181+00:00"
 }

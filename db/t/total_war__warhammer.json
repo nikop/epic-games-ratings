@@ -2,12 +2,12 @@
   "ID": "0c321ac6d5fe49139c153253b60702f4",
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 413,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.58,
   "NumberOfRatings": 8439,
@@ -3668,10 +3668,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13901,
       "NumberOfAwardsMax": 6054
+    },
+    {
+      "Time": "2023-05-07T02:05:56.111896+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13903,
+      "NumberOfAwardsMax": 6054
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13901,
+  "NumberOfAwards": 13903,
   "NumberOfAwardsMax": 6054,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3703,7 +3709,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 951
+      "Count": 953
     },
     {
       "Text": "This game is Relaxing",
@@ -3765,8 +3771,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-05-06T18:00:42.1571027+00:00",
+  "LastChanged": "2023-05-07T02:05:56.1118956+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.0734136+00:00",
-  "LastUpdate_Ratings": "2023-05-07T00:00:02.902192+00:00",
-  "LastUpdate_Achievements": "2023-05-07T00:01:31.250191+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:05:56.1118968+00:00",
+  "LastUpdate_Achievements": "2023-05-07T02:07:27.6397101+00:00"
 }

@@ -1,34 +1,34 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 412)  
+Rating: 4.58 (Ranked 413)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,216 |
-| Sweet Sorrow | 18.00% | ~5,108 |
-| Rules the Waves | 17.00% | ~4,824 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,541 |
-| Rival | 14.00% | ~3,973 |
-| Correspondent | 12.00% | ~3,405 |
-| Lose Your Mind | 12.00% | ~3,405 |
-| Sound Mind? | 12.00% | ~3,405 |
-| Salt's Curse | 11.00% | ~3,122 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,122 |
-| The Fall of the House | 11.00% | ~3,122 |
-| Shipmate | 11.00% | ~3,122 |
-| The Ascent of Man | 8.00% | ~2,270 |
-| One Year at Zee | 8.00% | ~2,270 |
+| Sink Beneath the Waves | 36.00% | ~10,221 |
+| Sweet Sorrow | 18.00% | ~5,110 |
+| Rules the Waves | 17.00% | ~4,826 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,543 |
+| Rival | 14.00% | ~3,975 |
+| Correspondent | 12.00% | ~3,407 |
+| Lose Your Mind | 12.00% | ~3,407 |
+| Sound Mind? | 12.00% | ~3,407 |
+| Salt's Curse | 11.00% | ~3,123 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,123 |
+| The Fall of the House | 11.00% | ~3,123 |
+| Shipmate | 11.00% | ~3,123 |
+| The Ascent of Man | 8.00% | ~2,271 |
+| One Year at Zee | 8.00% | ~2,271 |
 | Pupil | 7.00% | ~1,987 |
 | Salvager | 7.00% | ~1,987 |
 | Open Your Ears | 7.00% | ~1,987 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,419 |
-| Zee Fever | 5.00% | ~1,419 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,135 |
-| Storm's Curse | 3.00% | ~851 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~851 |
-| Come Closer | 3.00% | ~851 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,420 |
+| Zee Fever | 5.00% | ~1,420 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,136 |
+| Storm's Curse | 3.00% | ~852 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~852 |
+| Come Closer | 3.00% | ~852 |
 | Roaring Rise | 2.00% | ~568 |
 | I am the Captain of my Soul | 2.00% | ~568 |
 | A buoyant escape | 1.00% | ~284 |
@@ -44,10 +44,10 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~284 |
 | Under the zee | 1.00% | ~284 |
 | A current under zee | 1.00% | ~284 |
-| A zee-change | 0.90% | ~255 |
-| Never Stop Sinking... | 0.90% | ~255 |
-| Leviathan | 0.90% | ~255 |
-| Depth charge | 0.90% | ~255 |
+| A zee-change | 0.90% | ~256 |
+| Never Stop Sinking... | 0.90% | ~256 |
+| Leviathan | 0.90% | ~256 |
+| Depth charge | 0.90% | ~256 |
 | What lies beneath | 0.80% | ~227 |
 | Stone's Curse | 0.70% | ~199 |
 | Five Years at Zee | 0.50% | ~142 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~28 |
 | Ten Years at Zee | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,379 (Ranked 83)  
+Progressed: 28,391 (Ranked 83)  
 Completed: 3 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 3 (0.01%) (Ranked 184)
 | 2023-05-04 | 28,180 | 3 |
 | 2023-05-05 | 28,275 | 3 |
 | 2023-05-06 | 28,378 | 3 |
-| 2023-05-07 | 28,379 | 3 |
+| 2023-05-07 | 28,391 | 3 |
 ## Awards
 Max (Character Customization): 204  (Ranked 254)  
 Sum: 273 (Ranked 330)  

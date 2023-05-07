@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.46,
   "RatingHistory": [
@@ -322,9 +322,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247966,
+  "EOS_Progressed": 247972,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1677,6 +1677,11 @@
       "Time": "2023-05-07T00:06:45.7364734+00:00",
       "NumProgressed": 247966,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T02:12:39.4542844+00:00",
+      "NumProgressed": 247972,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -1736,7 +1741,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76869
+      "UsersEstimate": 76871
     },
     {
       "ID": "BackHomeNTimes",
@@ -1744,7 +1749,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12398
+      "UsersEstimate": 12399
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -1816,7 +1821,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12398
+      "UsersEstimate": 12399
     },
     {
       "ID": "CreedsInBank2",
@@ -1944,7 +1949,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12398
+      "UsersEstimate": 12399
     },
     {
       "ID": "KillOtherWithKatana",
@@ -1976,7 +1981,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52073
+      "UsersEstimate": 52074
     },
     {
       "ID": "KillOthers2",
@@ -2135,7 +2140,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 247966,
+      "Progressed": 247972,
       "Completed": 1
     }
   ],
@@ -2143,8 +2148,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-06T21:01:56.1860988+00:00",
-  "LastChanged_Achievements": "2023-05-07T00:06:45.7364729+00:00",
+  "LastChanged_Achievements": "2023-05-07T02:12:39.4542839+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
-  "LastUpdate_Ratings": "2023-05-07T00:01:03.2197619+00:00",
-  "LastUpdate_Achievements": "2023-05-07T00:06:45.7365297+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:06:58.7488895+00:00",
+  "LastUpdate_Achievements": "2023-05-07T02:12:39.4543396+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.50 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~549 |
+| Good start | 76.00% | ~550 |
 | And so it begins | 72.00% | ~521 |
-| No pressure | 69.00% | ~499 |
-| Memento | 61.00% | ~441 |
-| Let there be light | 59.00% | ~427 |
+| No pressure | 69.00% | ~500 |
+| Memento | 61.00% | ~442 |
+| Let there be light | 58.00% | ~420 |
 | I think you dropped this | 55.00% | ~398 |
 | Soulmate? | 52.00% | ~376 |
 | Excellent service | 47.00% | ~340 |
-| Roll with it | 45.00% | ~325 |
+| Roll with it | 45.00% | ~326 |
 | Love is in the air | 43.00% | ~311 |
 | Humble beginnings | 42.00% | ~304 |
-| Moving up | 40.00% | ~289 |
+| Moving up | 40.00% | ~290 |
 | Fine, I'll do it myself | 39.00% | ~282 |
 | No need to call anyone | 37.00% | ~268 |
 | Big fortune | 31.00% | ~224 |
@@ -24,7 +24,7 @@ Rating: 4.50 (Ranked 530)
 | Hotel sleuthing | 26.00% | ~188 |
 | Aesop's fable | 25.00% | ~181 |
 | Kaboom | 24.00% | ~174 |
-| Nearly there | 23.00% | ~166 |
+| Nearly there | 23.00% | ~167 |
 | Broken heart | 21.00% | ~152 |
 | Island boy | 20.00% | ~145 |
 | You're a star | 18.00% | ~130 |
@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 530)
 | King of hospitality | 11.00% | ~80 |
 | Top spot in town | 3.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723 (Ranked 173)  
+Progressed: 724 (Ranked 173)  
 Completed: 11 (1.52%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,6 +49,7 @@ Completed: 11 (1.52%) (Ranked 66)
 | 2023-05-04 | 716 | 11 |
 | 2023-05-05 | 719 | 11 |
 | 2023-05-06 | 723 | 11 |
+| 2023-05-07 | 724 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

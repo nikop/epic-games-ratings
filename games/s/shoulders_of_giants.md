@@ -23,7 +23,7 @@ Rating: 4.26 (Ranked 772)
 | Say "Cheese!" | 8.00% | ~149 |
 | Taking Out the Trash | 7.00% | ~130 |
 | Better Than the Devs | 4.00% | ~74 |
-| So do we just stay up here, or?... | 2.00% | ~37 |
+| So do we just stay up here, or?... | 3.00% | ~56 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,858 (Ranked 144)  
 Completed: 6 (0.32%) (Ranked 113)  

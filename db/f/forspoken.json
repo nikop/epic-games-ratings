@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37646,
+  "EOS_Progressed": 37652,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1030,6 +1030,11 @@
       "Time": "2023-05-07T00:06:21.645733+00:00",
       "NumProgressed": 37646,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T02:12:16.2074129+00:00",
+      "NumProgressed": 37652,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1089,7 +1094,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -1105,7 +1110,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -1137,7 +1142,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -1153,7 +1158,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -1161,7 +1166,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -1193,7 +1198,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "CUFF_ATTACK",
@@ -1201,7 +1206,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -1217,7 +1222,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "JUSTCOUNTER",
@@ -1241,7 +1246,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -1257,7 +1262,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -1289,7 +1294,7 @@
       "Name": "Shocker",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -1337,7 +1342,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -1393,7 +1398,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "STAYING_AIR",
@@ -1464,22 +1469,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37646,
+      "Progressed": 37652,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2483,
-      "Completed": 2483
+      "Progressed": 2489,
+      "Completed": 2489
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-05T08:58:30.6786847+00:00",
-  "LastChanged_Achievements": "2023-05-07T00:06:21.6457325+00:00",
+  "LastChanged_Achievements": "2023-05-07T02:12:16.2074122+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-06T23:59:41.3355007+00:00",
-  "LastUpdate_Achievements": "2023-05-07T00:06:21.6457909+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:05:32.5770108+00:00",
+  "LastUpdate_Achievements": "2023-05-07T02:12:16.2074648+00:00"
 }
