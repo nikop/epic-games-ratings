@@ -18,10 +18,10 @@ Number of Ratings: 38  (23.09.2022)
 | In my shoes | 19.00% | ~211 |
 | Like new! | 16.00% | ~177 |
 | Head in the clouds | 15.00% | ~166 |
+| Don't look back | 14.00% | ~155 |
 | Heartstrings | 14.00% | ~155 |
 | Back to rust | 13.00% | ~144 |
 | Flower Powered | 13.00% | ~144 |
-| Don't look back | 13.00% | ~144 |
 | Unstoppable | 11.00% | ~122 |
 | Perfect timing | 10.00% | ~111 |
 | Ain't no mountain high enough | 9.00% | ~100 |

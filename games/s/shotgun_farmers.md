@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 106.00% | ~18 |
-| First Blood | 65.00% | ~11 |
+| First Blood | 71.00% | ~12 |
 | No Asperascope | 53.00% | ~9 |
-| Triple Kill | 41.00% | ~7 |
-| Cornivore | 41.00% | ~7 |
+| Triple Kill | 47.00% | ~8 |
+| Cornivore | 47.00% | ~8 |
 | 15K | 24.00% | ~4 |
 | Drinking Problem | 24.00% | ~4 |
 | Graveside Survivor | 24.00% | ~4 |

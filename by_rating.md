@@ -117,7 +117,7 @@
 | 115 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 490 |
 | 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,107 | 23 |
 | 115 | [Dead Space](games/d/dead_space.md) | 4.76 | 40 | 409 |
-| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 837 | 145 |
+| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 838 | 144 |
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 490 |
 | 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 322 |
 | 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,625 | 111 |
@@ -374,7 +374,7 @@
 | 352 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 490 |
 | 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,604 | 40 |
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 372 |
-| 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,573 | 21 |
+| 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,598 | 21 |
 | 376 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,707 | 29 |
 | 376 | [Control](games/c/control.md) | 4.60 | 8,263 | 38 |
 | 376 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
@@ -382,7 +382,7 @@
 | 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,240 | 25 |
 | 376 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 303 |
 | 376 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 490 |
-| 376 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 558 | 169 |
+| 376 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 559 | 169 |
 | 376 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 374 |
 | 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,046 | 35 |
 | 376 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
@@ -484,7 +484,7 @@
 | 476 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 336 |
 | 476 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 490 |
 | 476 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 494 | 184 |
-| 476 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 275 | 228 |
+| 476 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 277 | 226 |
 | 476 | [VALORANT](games/v/valorant.md) | 4.54 | 51,496 | 11 |
 | 476 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 451 |
 | 488 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 490 |
@@ -596,7 +596,7 @@
 | 589 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 27 | 454 |
 | 589 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.46 | 37 | 418 |
 | 589 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 490 |
-| 589 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 227 |
+| 589 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 228 |
 | 598 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 490 |
 | 598 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 0 | 490 |
 | 598 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 0 | 490 |
@@ -890,8 +890,8 @@
 | 887 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.97 | 68 | 366 |
 | 889 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 401 |
 | 889 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 0 | 490 |
-| 891 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 236 | 242 |
 | 891 | [Patron](games/p/patron.md) | 3.94 | 0 | 490 |
+| 892 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 236 | 242 |
 | 893 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 448 |
 | 893 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 490 |
 | 893 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 490 |

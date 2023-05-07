@@ -6,58 +6,58 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 84.00% | ~19,296 |
-| To The Nines | 78.00% | ~17,917 |
-| Optimized | 70.00% | ~16,080 |
-| Performance Review | 69.00% | ~15,850 |
-| Making a Name | 66.00% | ~15,161 |
-| Tune Up | 64.00% | ~14,701 |
-| Landlord | 62.00% | ~14,242 |
-| The Side Job | 60.00% | ~13,783 |
-| Wet Work | 60.00% | ~13,783 |
-| Wrecking Ball | 53.00% | ~12,175 |
-| Food for Thought | 52.00% | ~11,945 |
-| Finders Keepers | 50.00% | ~11,486 |
-| A Young Empire | 49.00% | ~11,256 |
-| Work Ethic | 45.00% | ~10,337 |
-| Picking Fights | 37.00% | ~8,499 |
-| Power Players | 36.00% | ~8,270 |
-| Quality Time | 35.00% | ~8,040 |
-| Took It to The Limit | 32.00% | ~7,351 |
-| Showdown | 29.00% | ~6,662 |
-| Et tu? | 29.00% | ~6,662 |
-| Kitted Out | 25.00% | ~5,743 |
-| Masters of Santo Ileso | 24.00% | ~5,513 |
-| Hijacked | 23.00% | ~5,283 |
-| The Spins | 20.00% | ~4,594 |
-| The Mechanic | 20.00% | ~4,594 |
-| Closet Space | 16.00% | ~3,675 |
-| We could go home, or… | 14.00% | ~3,216 |
-| A Golden Age | 14.00% | ~3,216 |
-| Challenge Accepted | 13.00% | ~2,986 |
-| The Professional | 11.00% | ~2,527 |
-| Chaos Tamer | 11.00% | ~2,527 |
-| Free Refills | 11.00% | ~2,527 |
-| Smooth Moves | 11.00% | ~2,527 |
-| Neighborly | 10.00% | ~2,297 |
-| Prankster | 8.00% | ~1,838 |
-| Shopping Spree | 7.00% | ~1,608 |
-| Always Be Hustling | 7.00% | ~1,608 |
-| Tourist | 7.00% | ~1,608 |
-| Community Outreach | 6.00% | ~1,378 |
-| Bonus Round | 5.00% | ~1,149 |
-| The Collector | 3.00% | ~689 |
-| All Mine | 3.00% | ~689 |
-| Jack of All Trades | 2.00% | ~459 |
-| It's a Bird! | 2.00% | ~459 |
-| Heard You Like Wheels | 2.00% | ~459 |
+| First F#@!ing Day | 84.00% | ~19,313 |
+| To The Nines | 78.00% | ~17,934 |
+| Optimized | 70.00% | ~16,094 |
+| Performance Review | 69.00% | ~15,864 |
+| Making a Name | 66.00% | ~15,175 |
+| Tune Up | 64.00% | ~14,715 |
+| Landlord | 62.00% | ~14,255 |
+| The Side Job | 60.00% | ~13,795 |
+| Wet Work | 60.00% | ~13,795 |
+| Wrecking Ball | 53.00% | ~12,186 |
+| Food for Thought | 52.00% | ~11,956 |
+| Finders Keepers | 50.00% | ~11,496 |
+| A Young Empire | 49.00% | ~11,266 |
+| Work Ethic | 45.00% | ~10,346 |
+| Picking Fights | 37.00% | ~8,507 |
+| Power Players | 36.00% | ~8,277 |
+| Quality Time | 35.00% | ~8,047 |
+| Took It to The Limit | 32.00% | ~7,357 |
+| Showdown | 29.00% | ~6,668 |
+| Et tu? | 29.00% | ~6,668 |
+| Kitted Out | 25.00% | ~5,748 |
+| Masters of Santo Ileso | 24.00% | ~5,518 |
+| Hijacked | 23.00% | ~5,288 |
+| The Spins | 20.00% | ~4,598 |
+| The Mechanic | 20.00% | ~4,598 |
+| Closet Space | 16.00% | ~3,679 |
+| We could go home, or… | 14.00% | ~3,219 |
+| A Golden Age | 14.00% | ~3,219 |
+| Challenge Accepted | 13.00% | ~2,989 |
+| The Professional | 11.00% | ~2,529 |
+| Chaos Tamer | 11.00% | ~2,529 |
+| Free Refills | 11.00% | ~2,529 |
+| Smooth Moves | 11.00% | ~2,529 |
+| Neighborly | 10.00% | ~2,299 |
+| Prankster | 8.00% | ~1,839 |
+| Shopping Spree | 7.00% | ~1,609 |
+| Always Be Hustling | 7.00% | ~1,609 |
+| Tourist | 7.00% | ~1,609 |
+| Community Outreach | 6.00% | ~1,380 |
+| Bonus Round | 5.00% | ~1,150 |
+| The Collector | 3.00% | ~690 |
+| All Mine | 3.00% | ~690 |
+| Jack of All Trades | 2.00% | ~460 |
+| It's a Bird! | 2.00% | ~460 |
+| Heard You Like Wheels | 2.00% | ~460 |
 | Armor Piercing | 1.00% | ~230 |
 | Statement Pieces | 0.80% | ~184 |
 | A Car Named Simone | 0.70% | ~161 |
 | Fiesta Time | 0.60% | ~138 |
 | Untouchable | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,971 (Ranked 86)  
+Progressed: 22,992 (Ranked 86)  
 Completed: 1 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 1 (0.00%) (Ranked 192)
 | 2023-05-04 | 21,916 | 1 |
 | 2023-05-05 | 22,285 | 1 |
 | 2023-05-06 | 22,775 | 1 |
-| 2023-05-07 | 22,971 | 1 |
+| 2023-05-07 | 22,992 | 1 |
 ## Awards
 Max (Extremely Fun): 1,023  (Ranked 133)  
 Sum: 9,051 (Ranked 82)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 37,
   "Rating": 4.77,
   "RatingHistory": [
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5558,
+  "EOS_Progressed": 5559,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -952,6 +952,11 @@
       "Time": "2023-05-07T11:07:03.9596818+00:00",
       "NumProgressed": 5558,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-07T12:06:25.4350319+00:00",
+      "NumProgressed": 5559,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1003,7 +1008,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ENERGY_SAVER",
@@ -1107,7 +1112,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -1130,7 +1135,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5558,
+      "Progressed": 5559,
       "Completed": 20
     }
   ],
@@ -1138,8 +1143,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-07T11:07:03.9596815+00:00",
+  "LastChanged_Achievements": "2023-05-07T12:06:25.4350312+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-07T10:59:36.5655136+00:00",
-  "LastUpdate_Achievements": "2023-05-07T11:07:03.9596969+00:00"
+  "LastUpdate_Ratings": "2023-05-07T11:59:15.2944351+00:00",
+  "LastUpdate_Achievements": "2023-05-07T12:06:25.4350519+00:00"
 }

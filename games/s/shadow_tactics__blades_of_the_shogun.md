@@ -6,29 +6,29 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,528 |
-| Thorough | 8.00% | ~13,222 |
-| A thief's beginning | 7.00% | ~11,569 |
-| Tanuki Time | 7.00% | ~11,569 |
-| Disguised | 6.00% | ~9,917 |
-| Jonin | 6.00% | ~9,917 |
-| Rescue Takuma | 6.00% | ~9,917 |
-| Rollin' | 6.00% | ~9,917 |
-| Chunin | 5.00% | ~8,264 |
-| Ice Ice Yuki | 5.00% | ~8,264 |
-| Stoned Ox | 5.00% | ~8,264 |
-| Yabu | 5.00% | ~8,264 |
-| Flying Rocks | 4.00% | ~6,611 |
-| Happy Planning | 4.00% | ~6,611 |
-| Mugen Unchained | 4.00% | ~6,611 |
-| Okkoto | 4.00% | ~6,611 |
-| Warzone | 4.00% | ~6,611 |
-| Gear up | 3.00% | ~4,958 |
-| Happy little accidents | 3.00% | ~4,958 |
-| Noboru | 3.00% | ~4,958 |
-| Prisoners | 3.00% | ~4,958 |
-| Still Rollin' | 3.00% | ~4,958 |
-| Too Early | 3.00% | ~4,958 |
+| Genin | 10.00% | ~16,529 |
+| Thorough | 8.00% | ~13,223 |
+| A thief's beginning | 7.00% | ~11,571 |
+| Tanuki Time | 7.00% | ~11,571 |
+| Disguised | 6.00% | ~9,918 |
+| Jonin | 6.00% | ~9,918 |
+| Rescue Takuma | 6.00% | ~9,918 |
+| Rollin' | 6.00% | ~9,918 |
+| Chunin | 5.00% | ~8,265 |
+| Ice Ice Yuki | 5.00% | ~8,265 |
+| Stoned Ox | 5.00% | ~8,265 |
+| Yabu | 5.00% | ~8,265 |
+| Flying Rocks | 4.00% | ~6,612 |
+| Happy Planning | 4.00% | ~6,612 |
+| Mugen Unchained | 4.00% | ~6,612 |
+| Okkoto | 4.00% | ~6,612 |
+| Warzone | 4.00% | ~6,612 |
+| Gear up | 3.00% | ~4,959 |
+| Happy little accidents | 3.00% | ~4,959 |
+| Noboru | 3.00% | ~4,959 |
+| Prisoners | 3.00% | ~4,959 |
+| Still Rollin' | 3.00% | ~4,959 |
+| Too Early | 3.00% | ~4,959 |
 | It's raining men | 2.00% | ~3,306 |
 | Stoned | 2.00% | ~3,306 |
 | The Old Way | 2.00% | ~3,306 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~165 |
 | Release the Kraken | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,276 (Ranked 50)  
+Progressed: 165,293 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 41 (0.02%) (Ranked 176)
 | 2023-05-04 | 164,454 | 41 |
 | 2023-05-05 | 164,750 | 41 |
 | 2023-05-06 | 165,108 | 41 |
-| 2023-05-07 | 165,276 | 41 |
+| 2023-05-07 | 165,293 | 41 |
 ## Awards
 Max (Great for Beginners): 547  (Ranked 173)  
 Sum: 4,647 (Ranked 125)  

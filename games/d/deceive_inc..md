@@ -12,8 +12,8 @@ Rating: 4.64 (Ranked 310)
 | Never Say Loser Again | 42.00% | ~2,219 |
 | From the Vault with Love | 39.00% | ~2,061 |
 | For your Eyes only | 39.00% | ~2,061 |
+| Fully Decked Out | 38.00% | ~2,008 |
 | Tailor-Made | 38.00% | ~2,008 |
-| Fully Decked Out | 37.00% | ~1,955 |
 | You Only Live Twice | 33.00% | ~1,744 |
 | A view to Win | 29.00% | ~1,532 |
 | Smells Like Trouble | 27.00% | ~1,427 |

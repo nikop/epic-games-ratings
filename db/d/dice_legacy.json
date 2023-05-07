@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.29,
   "RatingHistory": [
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
     {
       "Time": "2023-05-07T09:07:10.2613181+00:00",
       "NumProgressed": 742,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T12:06:15.8929122+00:00",
+      "NumProgressed": 743,
       "NumCompleted": 0
     }
   ],
@@ -379,9 +384,9 @@
       "ID": "PREVENTRIOT",
       "SetID": "6ohhfoc",
       "Name": "Hear me out",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 22
     },
     {
       "ID": "RUIN_CLEAR",
@@ -540,7 +545,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 0
     }
   ],
@@ -548,8 +553,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-07T11:06:52.2404065+00:00",
+  "LastChanged_Achievements": "2023-05-07T12:06:15.8929118+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.7477009+00:00",
-  "LastUpdate_Ratings": "2023-05-07T10:59:16.5178204+00:00",
-  "LastUpdate_Achievements": "2023-05-07T11:06:52.2404353+00:00"
+  "LastUpdate_Ratings": "2023-05-07T11:59:02.2361698+00:00",
+  "LastUpdate_Achievements": "2023-05-07T12:06:15.8929492+00:00"
 }

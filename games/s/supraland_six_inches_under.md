@@ -32,7 +32,7 @@ Number of Ratings: 209  (23.09.2022)
 | Mission Unlikely | 85.00% | ~1,693 |
 | Don't draw dicks pls | 84.00% | ~1,673 |
 | Ripped | 84.00% | ~1,673 |
-| Beat the big arena | 82.00% | ~1,633 |
+| Beat the big arena | 83.00% | ~1,653 |
 | Force Cube | 82.00% | ~1,633 |
 | Got Battery | 80.00% | ~1,594 |
 | Guard Distracted | 80.00% | ~1,594 |
@@ -48,7 +48,7 @@ Number of Ratings: 209  (23.09.2022)
 | No Match for you | 65.00% | ~1,295 |
 | Bouncy | 61.00% | ~1,215 |
 | Plumbster | 60.00% | ~1,195 |
-| Faster | 59.00% | ~1,175 |
+| Faster | 60.00% | ~1,195 |
 | Much Magic | 56.00% | ~1,116 |
 | Chest Detector | 54.00% | ~1,076 |
 | Flames | 52.00% | ~1,036 |

@@ -14,7 +14,7 @@ Rating: 4.63 (Ranked 325)
 | Last man standing | 76.00% | ~3,007 |
 | Family guy | 75.00% | ~2,967 |
 | Out of the Bag | 72.00% | ~2,848 |
-| The Dark Side | 66.00% | ~2,611 |
+| The Dark Side | 67.00% | ~2,651 |
 | Duck and cover! | 62.00% | ~2,453 |
 | Souper! | 60.00% | ~2,374 |
 | Pacifist | 55.00% | ~2,176 |

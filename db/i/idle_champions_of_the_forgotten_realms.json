@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3510,10 +3510,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29823,
       "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-05-07T11:59:23.1776488+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29825,
+      "NumberOfAwardsMax": 4868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29823,
+  "NumberOfAwards": 29825,
   "NumberOfAwardsMax": 4868,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3545,7 +3551,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3930
+      "Count": 3932
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3560,9 +3566,9 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86738,
+  "EOS_Progressed": 86740,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4940,6 +4946,11 @@
       "Time": "2023-05-07T11:07:55.0215275+00:00",
       "NumProgressed": 86738,
       "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T12:07:08.1126562+00:00",
+      "NumProgressed": 86740,
+      "NumCompleted": 1810
     }
   ],
   "TotalAchievements": 489,
@@ -5573,9 +5584,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_1153",
@@ -8862,21 +8873,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53012,
-      "Completed": 2472
+      "Progressed": 53014,
+      "Completed": 2473
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86738,
+      "Progressed": 86740,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-07T05:59:38.0527734+00:00",
-  "LastChanged_Achievements": "2023-05-07T11:07:55.0215271+00:00",
+  "LastChanged": "2023-05-07T11:59:23.1776486+00:00",
+  "LastChanged_Achievements": "2023-05-07T12:07:08.1126558+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T10:59:44.1325703+00:00",
-  "LastUpdate_Achievements": "2023-05-07T11:07:55.0236862+00:00"
+  "LastUpdate_Ratings": "2023-05-07T11:59:23.1776494+00:00",
+  "LastUpdate_Achievements": "2023-05-07T12:07:08.1152742+00:00"
 }

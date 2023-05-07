@@ -4,7 +4,7 @@
   "ProductSlug": "pc-building-simulator-2",
   "Ranking_Rating": 352,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 128,
+  "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 77,
@@ -688,10 +688,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4522,
       "NumberOfAwardsMax": 595
+    },
+    {
+      "Time": "2023-05-07T12:00:57.6845653+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4523,
+      "NumberOfAwardsMax": 595
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4522,
+  "NumberOfAwards": 4523,
   "NumberOfAwardsMax": 595,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -753,7 +759,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 338
+      "Count": 339
     },
     {
       "Text": "This game has Easy Combat",
@@ -764,7 +770,7 @@
   ],
   "EOS_Progressed": 158211,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2321,9 +2327,9 @@
   "FirstSeen": "2022-10-12T19:00:44.2364682+00:00",
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
-  "LastChanged": "2023-05-07T03:00:53.3988481+00:00",
-  "LastChanged_Achievements": "2023-05-07T11:07:40.3827155+00:00",
+  "LastChanged": "2023-05-07T12:00:57.6845651+00:00",
+  "LastChanged_Achievements": "2023-05-07T12:06:55.5883861+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:01:48.3724141+00:00",
-  "LastUpdate_Achievements": "2023-05-07T11:07:40.3827793+00:00"
+  "LastUpdate_Ratings": "2023-05-07T12:00:57.6845658+00:00",
+  "LastUpdate_Achievements": "2023-05-07T12:06:55.5884446+00:00"
 }

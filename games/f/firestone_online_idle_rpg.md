@@ -5,15 +5,15 @@ Rating: 3.40 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~828 |
-| World Map | 80.00% | ~712 |
+| Victor | 93.00% | ~829 |
+| World Map | 79.00% | ~704 |
 | Temple of Eternals | 55.00% | ~490 |
 | Prestigious | 51.00% | ~454 |
-| Fellowship Power | 39.00% | ~347 |
+| Fellowship Power | 38.00% | ~339 |
 | Guild Power | 23.00% | ~205 |
 | Prestigious x10 | 19.00% | ~169 |
+| Exotic Merchant | 14.00% | ~125 |
 | The game is on | 14.00% | ~125 |
-| Exotic Merchant | 13.00% | ~116 |
 | Inspection | 13.00% | ~116 |
 | Dragon Clicker | 12.00% | ~107 |
 | Hero inspection | 12.00% | ~107 |
@@ -23,8 +23,8 @@ Rating: 3.40 (Ranked 917)
 | Lieutenant | 7.00% | ~62 |
 | Dragon Master | 6.00% | ~53 |
 | Natural Talent | 6.00% | ~53 |
-| Superior | 5.00% | ~44 |
-| The Unstoppable | 5.00% | ~44 |
+| Superior | 5.00% | ~45 |
+| The Unstoppable | 5.00% | ~45 |
 | Daily Quest Completionist | 4.00% | ~36 |
 | Milestone collector | 4.00% | ~36 |
 | Scientist | 3.00% | ~27 |
@@ -46,9 +46,9 @@ Rating: 3.40 (Ranked 917)
 | How Do You Turn This On? | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
 | The father of Dragons | 1.00% | ~9 |
+| Trader | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | Master Enchanter | 0.90% | ~8 |
-| Trader | 0.90% | ~8 |
 | Dragon Slayer | 0.60% | ~5 |
 | Enchanting skill | 0.60% | ~5 |
 | Engineer Mastery | 0.60% | ~5 |
@@ -81,7 +81,7 @@ Rating: 3.40 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 890 (Ranked 164)  
+Progressed: 891 (Ranked 164)  
 Completed: 1 (0.11%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.11%) (Ranked 148)
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
 | 2023-05-06 | 881 | 1 |
-| 2023-05-07 | 890 | 1 |
+| 2023-05-07 | 891 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

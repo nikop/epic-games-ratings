@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -150,9 +150,9 @@
       "ID": "AURORA_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Guardian",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BETA03",
@@ -166,9 +166,9 @@
       "ID": "BLOOD_BEGETS_BLOOD",
       "SetID": "2d85n75",
       "Name": "Blood Begets Blood",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BUSYBODY",
@@ -190,17 +190,17 @@
       "ID": "DOUBLE_AGENT",
       "SetID": "2d85n75",
       "Name": "Double Agent",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ELEMAI05",
       "SetID": "2d85n75",
       "Name": "Endgame",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EVERYONE_NEEDS_ABREAK",
@@ -222,17 +222,17 @@
       "ID": "FORTRAN_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Philosopher",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FULL_COVERAGE",
       "SetID": "2d85n75",
       "Name": "Full Coverage",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "JOB_CREATOR",
@@ -262,9 +262,9 @@
       "ID": "LEAVE_IT_TO_THE_PROFESSIONALS",
       "SetID": "2d85n75",
       "Name": "Leave It to the Professionals",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MIND_CORE01",
@@ -286,17 +286,17 @@
       "ID": "OVERSEER",
       "SetID": "2d85n75",
       "Name": "Overseer",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PAPA_RU_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Partner",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PATRIZIA_COMPLETE",
@@ -310,57 +310,57 @@
       "ID": "QUIDNUNC",
       "SetID": "2d85n75",
       "Name": "Quidnunc",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "RING_OF_FIRE",
-      "SetID": "2d85n75",
-      "Name": "Ring of Fire",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "RIVER_COMPLETE",
-      "SetID": "2d85n75",
-      "Name": "The Provocateur",
-      "Percentage": 0,
-      "XP": 25,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "SHOOK_UP",
-      "SetID": "2d85n75",
-      "Name": "Shook Up",
-      "Percentage": 36,
-      "XP": 10,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "SOCIAL_BUTTERFLY",
-      "SetID": "2d85n75",
-      "Name": "Social Butterfly",
-      "Percentage": 0,
-      "XP": 50,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "TALINGREY07",
-      "SetID": "2d85n75",
-      "Name": "Socially Acceptable Insanity",
       "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
     {
-      "ID": "TALINGREY_COMPLETE",
+      "ID": "RING_OF_FIRE",
       "SetID": "2d85n75",
-      "Name": "The Companion",
+      "Name": "Ring of Fire",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "RIVER_COMPLETE",
+      "SetID": "2d85n75",
+      "Name": "The Provocateur",
       "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
+    },
+    {
+      "ID": "SHOOK_UP",
+      "SetID": "2d85n75",
+      "Name": "Shook Up",
+      "Percentage": 43,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "SOCIAL_BUTTERFLY",
+      "SetID": "2d85n75",
+      "Name": "Social Butterfly",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TALINGREY07",
+      "SetID": "2d85n75",
+      "Name": "Socially Acceptable Insanity",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "TALINGREY_COMPLETE",
+      "SetID": "2d85n75",
+      "Name": "The Companion",
+      "Percentage": 14,
+      "XP": 25,
+      "UsersEstimate": 2
     },
     {
       "ID": "TASK_MASTER",
@@ -390,9 +390,9 @@
       "ID": "THEY_FLOCK_TO_HIM",
       "SetID": "2d85n75",
       "Name": "They Flock to Him",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THE_ARCHETYPE",
@@ -430,9 +430,9 @@
       "ID": "THOMPSON_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Counsellor",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNDER_THE_WEATHER",
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-07T11:07:37.1719224+00:00",
+  "LastChanged_Achievements": "2023-05-07T12:06:53.0665415+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:01:42.5009465+00:00",
-  "LastUpdate_Achievements": "2023-05-07T11:07:37.1719619+00:00"
+  "LastUpdate_Ratings": "2023-05-07T12:00:53.4608954+00:00",
+  "LastUpdate_Achievements": "2023-05-07T12:06:53.0665803+00:00"
 }

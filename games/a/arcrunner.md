@@ -20,7 +20,7 @@
 | Nanonic III | 16.00% | ~10 |
 | Starship Docks | 14.00% | ~9 |
 | The Bigger They Are | 13.00% | ~8 |
-| Fully Modded | 10.00% | ~6 |
+| Fully Modded | 11.00% | ~7 |
 | Eden Heights | 6.00% | ~4 |
 | Cybernetic | 5.00% | ~3 |
 | Outer Core | 3.00% | ~2 |

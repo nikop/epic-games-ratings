@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~106 |
 | The Silken Swamp | 0.20% | ~173 |
 | Supply Run | 0.20% | ~173 |
+| Seeds of Destruction | 0.20% | ~106 |
 | Owlbear Necessities | 0.20% | ~106 |
 | Best Thay Ever | 0.20% | ~106 |
 | Return to the Tomb | 0.20% | ~106 |
@@ -155,7 +156,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.10% | ~53 |
 | The Invisible Wizards of Thay | 0.10% | ~53 |
 | Heavy Burden | 0.10% | ~87 |
-| Seeds of Destruction | 0.10% | ~53 |
 | Speeds of Destruction | 0.10% | ~53 |
 | The Evacuation of Waterdeep | 0.10% | ~53 |
 | Flapjacks and Waffles | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,738 (Ranked 59)  
+Progressed: 86,740 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,10 +513,10 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,738 | 1,810 |
+| 2023-05-07 | 86,740 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
-Sum: 29,823 (Ranked 37)  
+Sum: 29,825 (Ranked 37)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -524,7 +524,7 @@ Diff (max vs sum): 25
 | This game is Great for Beginners | 4,807 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,478 |
-| This game is Highly Recommended | 3,930 |
+| This game is Highly Recommended | 3,932 |
 | This game has Amazing Characters | 3,929 |
 | This game has Playful Visuals | 3,226 |
 ## Ratings History
@@ -631,4 +631,4 @@ Diff (max vs sum): 25
 | 2023-05-04 | 4.06 | - | 4,863 | 29,800 |
 | 2023-05-05 | 4.06 | - | 4,865 | 29,803 |
 | 2023-05-06 | 4.06 | - | 4,868 | 29,822 |
-| 2023-05-07 | 4.06 | - | 4,868 | 29,823 |
+| 2023-05-07 | 4.06 | - | 4,868 | 29,825 |

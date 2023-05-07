@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33,6 +33,11 @@
       "Time": "2023-05-01T10:05:15.0632855+00:00",
       "NumProgressed": 143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T12:06:59.82688+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -42,9 +47,9 @@
       "ID": "BlueTrick",
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "Cat",
@@ -52,7 +57,7 @@
       "Name": "Cat",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Cellar",
@@ -68,7 +73,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Doll",
@@ -76,7 +81,7 @@
       "Name": "Doll",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Ending1",
@@ -84,7 +89,7 @@
       "Name": "Children",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ending2",
@@ -116,7 +121,7 @@
       "Name": "Mysterious footprints",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Friend",
@@ -132,7 +137,7 @@
       "Name": "Complicated padlock",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Furball",
@@ -148,7 +153,7 @@
       "Name": "Mysterious paintings",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "HugeSnail",
@@ -156,13 +161,13 @@
       "Name": "Huge Snail",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 30,
       "UsersEstimate": 107
     },
@@ -178,9 +183,9 @@
       "ID": "Puppy",
       "SetID": "9kk0gal",
       "Name": "Puppy",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "SchoolRuler",
@@ -204,21 +209,21 @@
       "Name": "Spyglass",
       "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 109
     },
     {
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 30,
       "UsersEstimate": 130
     },
@@ -226,7 +231,7 @@
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 30,
       "UsersEstimate": 127
     },
@@ -236,22 +241,22 @@
       "Name": "Depths of the well",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Windmill",
       "SetID": "9kk0gal",
       "Name": "Windmill",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 0
     }
   ],
@@ -259,8 +264,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-07T11:07:45.686176+00:00",
+  "LastChanged_Achievements": "2023-05-07T12:06:59.8268795+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.9872581+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:02:09.5519941+00:00",
-  "LastUpdate_Achievements": "2023-05-07T11:07:45.6861908+00:00"
+  "LastUpdate_Ratings": "2023-05-07T12:01:15.3100352+00:00",
+  "LastUpdate_Achievements": "2023-05-07T12:06:59.8268961+00:00"
 }

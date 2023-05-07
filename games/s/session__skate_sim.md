@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-07 | 1,940 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 391)  
-Sum: 403 (Ranked 299)  
+Sum: 404 (Ranked 299)  
 Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
@@ -88,7 +88,7 @@ Diff (max vs sum): 92
 | This game has Diverse Characters | 36 |
 | This game is Extremely Fun | 34 |
 | This game has Quickly Understood Controls | 34 |
-| This game has Challenging Combat | 24 |
+| This game has Challenging Combat | 25 |
 | This game is Educational | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -182,3 +182,4 @@ Diff (max vs sum): 92
 | 2023-05-03 | 4.66 | - | 48 | 401 |
 | 2023-05-04 | 4.66 | - | 48 | 403 |
 | 2023-05-06 | 4.65 | - | 48 | 403 |
+| 2023-05-07 | 4.65 | - | 48 | 404 |

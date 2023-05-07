@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,057 |
-| Now You're Talking | 62.00% | ~319,794 |
-| Steel Yourself | 62.00% | ~319,794 |
-| Window Dressing | 50.00% | ~257,898 |
-| Trigger Happy | 46.00% | ~237,266 |
-| Riverborn | 45.00% | ~232,108 |
-| Starry Eyed | 34.00% | ~175,371 |
-| Poking Around | 34.00% | ~175,371 |
-| Talk of the Town | 24.00% | ~123,791 |
-| AAARR! | 23.00% | ~118,633 |
-| Hello Darkness | 23.00% | ~118,633 |
-| Wind At Our Backs | 22.00% | ~113,475 |
-| To the Beat | 20.00% | ~103,159 |
-| Sunny Shores | 17.00% | ~87,685 |
-| To Victory! | 15.00% | ~77,369 |
-| Sunday Best | 15.00% | ~77,369 |
-| Two of a Kind | 14.00% | ~72,211 |
-| Keep On Trucking | 13.00% | ~67,053 |
+| First Step | 70.00% | ~361,060 |
+| Now You're Talking | 62.00% | ~319,796 |
+| Steel Yourself | 62.00% | ~319,796 |
+| Window Dressing | 50.00% | ~257,900 |
+| Trigger Happy | 46.00% | ~237,268 |
+| Riverborn | 45.00% | ~232,110 |
+| Starry Eyed | 34.00% | ~175,372 |
+| Poking Around | 34.00% | ~175,372 |
+| Talk of the Town | 24.00% | ~123,792 |
+| AAARR! | 23.00% | ~118,634 |
+| Hello Darkness | 23.00% | ~118,634 |
+| Wind At Our Backs | 22.00% | ~113,476 |
+| To the Beat | 20.00% | ~103,160 |
+| Sunny Shores | 17.00% | ~87,686 |
+| To Victory! | 15.00% | ~77,370 |
+| Sunday Best | 15.00% | ~77,370 |
+| Two of a Kind | 14.00% | ~72,212 |
+| Keep On Trucking | 13.00% | ~67,054 |
 | Going on an Adventure | 11.00% | ~56,738 |
 | Make Peace, Not War | 11.00% | ~56,738 |
 | Walking The Line | 10.00% | ~51,580 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,547 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515,796 (Ranked 24)  
+Progressed: 515,800 (Ranked 24)  
 Completed: 402 (0.08%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 402 (0.08%) (Ranked 158)
 | 2023-05-04 | 515,527 | 400 |
 | 2023-05-05 | 515,626 | 400 |
 | 2023-05-06 | 515,749 | 400 |
-| 2023-05-07 | 515,796 | 402 |
+| 2023-05-07 | 515,800 | 402 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

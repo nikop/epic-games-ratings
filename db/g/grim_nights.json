@@ -141,9 +141,9 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_level2",
@@ -157,9 +157,9 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 70,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_lose",
@@ -206,8 +206,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-07T11:07:07.4207908+00:00",
+  "LastChanged_Achievements": "2023-05-07T12:06:28.0436578+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:00:58.4003919+00:00",
-  "LastUpdate_Achievements": "2023-05-07T11:07:07.4208005+00:00"
+  "LastUpdate_Ratings": "2023-05-07T12:00:21.6626638+00:00",
+  "LastUpdate_Achievements": "2023-05-07T12:06:28.04367+00:00"
 }

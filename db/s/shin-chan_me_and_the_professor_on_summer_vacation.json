@@ -2,9 +2,9 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,15 +18,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:56.3452219+00:00",
       "NumProgressed": 22,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T12:07:03.4701583+00:00",
+      "NumProgressed": 23,
       "NumCompleted": 0
     }
   ],
@@ -45,7 +50,7 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -53,7 +58,7 @@
       "ID": "Trophy_03",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure - D\u00E9j\u00E0 Vu",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -69,7 +74,7 @@
       "ID": "Trophy_05",
       "SetID": "cf5h6dl",
       "Name": "Bee Professor",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -85,7 +90,7 @@
       "ID": "Trophy_07",
       "SetID": "cf5h6dl",
       "Name": "Grasshopper Guru",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -93,7 +98,7 @@
       "ID": "Trophy_08",
       "SetID": "cf5h6dl",
       "Name": "Butterfly Maestro",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -109,7 +114,7 @@
       "ID": "Trophy_10",
       "SetID": "cf5h6dl",
       "Name": "Dragonfly Whiz",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -117,7 +122,7 @@
       "ID": "Trophy_11",
       "SetID": "cf5h6dl",
       "Name": "Cabbage in the Baggage",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -125,7 +130,7 @@
       "ID": "Trophy_12",
       "SetID": "cf5h6dl",
       "Name": "Just Hoverin\u0027 Along",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -149,7 +154,7 @@
       "ID": "Trophy_15",
       "SetID": "cf5h6dl",
       "Name": "Love Is in the Air!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -165,7 +170,7 @@
       "ID": "Trophy_17",
       "SetID": "cf5h6dl",
       "Name": "Insect Aficionado",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -181,7 +186,7 @@
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -205,7 +210,7 @@
       "ID": "Trophy_22",
       "SetID": "cf5h6dl",
       "Name": "That Was a Snap!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -213,7 +218,7 @@
       "ID": "Trophy_23",
       "SetID": "cf5h6dl",
       "Name": "It\u0027s Alive!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -237,7 +242,7 @@
       "ID": "Trophy_26",
       "SetID": "cf5h6dl",
       "Name": "Farm Life!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -245,7 +250,7 @@
       "ID": "Trophy_27",
       "SetID": "cf5h6dl",
       "Name": "Veggie Virtuoso",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -253,7 +258,7 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -261,7 +266,7 @@
       "ID": "Trophy_29",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Oyakodon?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -285,7 +290,7 @@
       "ID": "Trophy_32",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Pork Curry?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -293,7 +298,7 @@
       "ID": "Trophy_33",
       "SetID": "cf5h6dl",
       "Name": "Handyman Extraordinaire",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -309,7 +314,7 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -317,7 +322,7 @@
       "ID": "Trophy_36",
       "SetID": "cf5h6dl",
       "Name": "Brachio Battler",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -333,7 +338,7 @@
       "ID": "Trophy_38",
       "SetID": "cf5h6dl",
       "Name": "Stego Stooge",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -341,7 +346,7 @@
       "ID": "Trophy_39",
       "SetID": "cf5h6dl",
       "Name": "T-Rex Wrangler",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -373,7 +378,7 @@
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -381,7 +386,7 @@
       "ID": "Trophy_44",
       "SetID": "cf5h6dl",
       "Name": "Asso Billboard Inspector",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -389,7 +394,7 @@
       "ID": "Trophy_45",
       "SetID": "cf5h6dl",
       "Name": "Asso Stair Climber",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -406,7 +411,7 @@
     {
       "ID": "cf5h6dl",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
@@ -414,8 +419,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-05-07T11:07:50.0630031+00:00",
+  "LastChanged_Achievements": "2023-05-07T12:07:03.4701577+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:19.9679482+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:02:23.3600133+00:00",
-  "LastUpdate_Achievements": "2023-05-07T11:07:50.0630339+00:00"
+  "LastUpdate_Ratings": "2023-05-07T12:01:24.0851292+00:00",
+  "LastUpdate_Achievements": "2023-05-07T12:07:03.4702065+00:00"
 }
