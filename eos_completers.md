@@ -28,7 +28,7 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.16% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.15% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -48,13 +48,13 @@
 | 46 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 48 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 49 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
-| 50 | [ZZT!](games/z/zzt!.md) | 2.68% |
+| 48 | [ZZT!](games/z/zzt!.md) | 2.72% |
+| 50 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.44% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 55 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
+| 55 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 56 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 57 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 58 | [Sifu](games/s/sifu.md) | 1.81% |

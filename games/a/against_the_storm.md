@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,682 (Ranked 97)  
+Progressed: 14,683 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-04 | 14,637 | 30 |
 | 2023-05-05 | 14,657 | 30 |
 | 2023-05-06 | 14,678 | 30 |
-| 2023-05-07 | 14,682 | 30 |
+| 2023-05-07 | 14,683 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,015 (Ranked 149)  

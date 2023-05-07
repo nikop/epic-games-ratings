@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 916,
+  "Ranking_Rating": 917,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 885,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1093,6 +1093,11 @@
       "Time": "2023-05-07T02:12:11.8850729+00:00",
       "NumProgressed": 884,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T03:06:45.3248963+00:00",
+      "NumProgressed": 885,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1336,7 +1341,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "herewegoagain",
@@ -1494,9 +1499,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 460
     },
     {
       "ID": "prestigiousx10",
@@ -1560,7 +1565,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "thealchemist",
@@ -1664,7 +1669,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "warmachinesarmy",
@@ -1696,14 +1701,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 1
     }
   ],
@@ -1711,8 +1716,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-07T02:12:11.8850723+00:00",
+  "LastChanged_Achievements": "2023-05-07T03:06:45.3248956+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:05:04.3670718+00:00",
-  "LastUpdate_Achievements": "2023-05-07T02:12:11.8851556+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:59:17.2229578+00:00",
+  "LastUpdate_Achievements": "2023-05-07T03:06:45.3249802+00:00"
 }

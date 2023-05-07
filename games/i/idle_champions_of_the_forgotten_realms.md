@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.40% | ~347 |
 | Seeking Allies | 0.40% | ~347 |
 | Are Ya Chicken? | 0.40% | ~347 |
+| Friendly Imps | 0.40% | ~347 |
 | The Sanctum of the Sword | 0.30% | ~159 |
 | Get Back In The Castle | 0.30% | ~159 |
 | A Persistent Buzzing | 0.30% | ~260 |
@@ -26,7 +27,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
-| Friendly Imps | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
 | Maddening | 0.20% | ~173 |
 | Tall Tales | 0.20% | ~106 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,696 (Ranked 59)  
+Progressed: 86,698 (Ranked 59)  
 Completed: 1,809 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,809 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,696 | 1,809 |
+| 2023-05-07 | 86,698 | 1,809 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,822 (Ranked 37)  

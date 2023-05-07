@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.73,
   "RatingHistory": [
@@ -58,7 +58,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1900,
+  "EOS_Progressed": 1901,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -878,6 +878,11 @@
       "Time": "2023-05-07T00:06:10.4446712+00:00",
       "NumProgressed": 1900,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T03:06:38.364874+00:00",
+      "NumProgressed": 1901,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -953,7 +958,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -969,7 +974,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1065,7 +1070,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1073,7 +1078,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1105,7 +1110,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1193,7 +1198,7 @@
       "Name": "You can pet the dog",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1265,7 +1270,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1312,7 +1317,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1900,
+      "Progressed": 1901,
       "Completed": 1
     }
   ],
@@ -1320,8 +1325,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-07T02:12:05.3107179+00:00",
+  "LastChanged_Achievements": "2023-05-07T03:06:38.3648734+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:04:45.2643773+00:00",
-  "LastUpdate_Achievements": "2023-05-07T02:12:05.3107684+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:58:57.1908583+00:00",
+  "LastUpdate_Achievements": "2023-05-07T03:06:38.3649244+00:00"
 }

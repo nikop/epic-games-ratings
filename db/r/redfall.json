@@ -2,14 +2,24 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
+  "Ranking_Rating": 915,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 74,
+  "Rating": 3.48,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-07T02:59:08.80063+00:00",
+      "Rating": 3.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -18,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1358,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1193,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -608,6 +618,11 @@
       "Time": "2023-05-07T02:11:49.8125411+00:00",
       "NumProgressed": 1358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T03:06:33.2575611+00:00",
+      "NumProgressed": 1359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -635,15 +650,15 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 448
     },
     {
       "ID": "Achievement_006",
@@ -675,15 +690,15 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "Achievement_010",
       "SetID": "6b34g18",
       "Name": "Welcome to the Neighborhood",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 544
     },
     {
       "ID": "Achievement_011",
@@ -755,7 +770,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "Achievement_020",
@@ -803,7 +818,7 @@
       "Name": "Grounded",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Achievement_026",
@@ -819,7 +834,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "Achievement_028",
@@ -843,7 +858,7 @@
       "Name": "ICU",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "Achievement_031",
@@ -867,15 +882,15 @@
       "Name": "Wounded Whispers",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 652
     },
     {
       "ID": "Achievement_035",
@@ -889,9 +904,9 @@
       "ID": "Achievement_036",
       "SetID": "6b34g18",
       "Name": "A Cry in the Dark",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_037",
@@ -1033,9 +1048,9 @@
       "ID": "Achievement_057",
       "SetID": "6b34g18",
       "Name": "Under a Bushel",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_058",
@@ -1146,16 +1161,16 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1358,
+      "Progressed": 1359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-05-02T02:57:49.0820144+00:00",
-  "LastChanged_Achievements": "2023-05-07T02:11:49.8125404+00:00",
+  "LastChanged": "2023-05-07T02:59:08.8006298+00:00",
+  "LastChanged_Achievements": "2023-05-07T03:06:33.2575608+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:04:55.4433743+00:00",
-  "LastUpdate_Achievements": "2023-05-07T02:11:49.812613+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:59:08.8006306+00:00",
+  "LastUpdate_Achievements": "2023-05-07T03:06:33.2576346+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,806 |
-| That's a Grand Army | 8.00% | ~2,495 |
-| That is mine! | 8.00% | ~2,495 |
-| Victorious! | 8.00% | ~2,495 |
-| Brothers in Arms | 6.00% | ~1,871 |
-| That's a Grand Navy | 6.00% | ~1,871 |
-| Seriously?! | 6.00% | ~1,871 |
-| For the Glory | 5.00% | ~1,559 |
-| Cold War | 4.00% | ~1,247 |
-| True Catholic | 4.00% | ~1,247 |
-| Defender of the Faith | 3.00% | ~935 |
-| It's all about the money | 3.00% | ~935 |
-| Respected | 3.00% | ~935 |
+| Until death do us apart | 9.00% | ~2,808 |
+| That's a Grand Army | 8.00% | ~2,496 |
+| That is mine! | 8.00% | ~2,496 |
+| Victorious! | 8.00% | ~2,496 |
+| Brothers in Arms | 6.00% | ~1,872 |
+| That's a Grand Navy | 6.00% | ~1,872 |
+| Seriously?! | 6.00% | ~1,872 |
+| For the Glory | 5.00% | ~1,560 |
+| Cold War | 4.00% | ~1,248 |
+| True Catholic | 4.00% | ~1,248 |
+| Defender of the Faith | 3.00% | ~936 |
+| It's all about the money | 3.00% | ~936 |
+| Respected | 3.00% | ~936 |
 | Blockader | 2.00% | ~624 |
 | Combined Arms | 2.00% | ~624 |
 | Double the Love | 2.00% | ~624 |
@@ -49,6 +49,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All belongs to Mother Russia | 0.40% | ~125 |
 | At every continent | 0.40% | ~125 |
 | Early-Modern Warfare | 0.40% | ~125 |
+| One Family to Rule them All | 0.40% | ~125 |
 | The pen is mightier than the sword | 0.40% | ~125 |
 | Trophy Hunter | 0.40% | ~125 |
 | Voting Streak | 0.40% | ~125 |
@@ -56,10 +57,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | All Your Trade Are Belong to Us | 0.30% | ~94 |
 | Dude, Where's my Boat? | 0.30% | ~94 |
 | Four For Trade | 0.30% | ~94 |
-| Grand Coalition | 0.30% | ~94 |
 | In the Name of the Father | 0.30% | ~94 |
 | Live Long and Prosper | 0.30% | ~94 |
-| One Family to Rule them All | 0.30% | ~94 |
 | One Night in Paris | 0.30% | ~94 |
 | Populists in Government | 0.30% | ~94 |
 | Ruina Imperii | 0.30% | ~94 |
@@ -71,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | AAA Credit | 0.20% | ~62 |
 | Bleed Them Dry | 0.20% | ~62 |
 | Global Hegemony | 0.20% | ~62 |
+| Grand Coalition | 0.20% | ~62 |
 | Grand Duchy | 0.20% | ~62 |
 | Imperio español | 0.20% | ~62 |
 | Italian Ambition | 0.20% | ~62 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,183 (Ranked 81)  
+Progressed: 31,204 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
-| 2023-05-07 | 31,183 | 0 |
+| 2023-05-07 | 31,204 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
 Sum: 42,857 (Ranked 26)  

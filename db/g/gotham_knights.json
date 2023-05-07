@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 40,
   "Rating": 4.17,
   "RatingHistory": [
@@ -980,9 +980,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60680,
+  "EOS_Progressed": 60682,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1880,6 +1880,11 @@
       "Time": "2023-05-07T02:12:32.3424737+00:00",
       "NumProgressed": 60680,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T03:07:06.3243092+00:00",
+      "NumProgressed": 60682,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2209,9 +2214,9 @@
       "ID": "HARLEY_3",
       "SetID": "4eo5ebm",
       "Name": "Working Hard or Harley Working?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "HARLEY_4",
@@ -2378,22 +2383,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60680,
+      "Progressed": 60682,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30960,
-      "Completed": 2629
+      "Progressed": 30962,
+      "Completed": 2630
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-06T23:01:10.300955+00:00",
-  "LastChanged_Achievements": "2023-05-07T02:12:32.3424731+00:00",
+  "LastChanged_Achievements": "2023-05-07T03:07:06.3243077+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:06:34.5712367+00:00",
-  "LastUpdate_Achievements": "2023-05-07T02:12:32.3425337+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:00:51.4527309+00:00",
+  "LastUpdate_Achievements": "2023-05-07T03:07:06.3243766+00:00"
 }

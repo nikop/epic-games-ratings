@@ -16,7 +16,7 @@
 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | - | - | 0 | - |
 | [The Witch of Fern Island](games/t/the_witch_of_fern_island.md) | - | - | 0 | - |
 | [KITS](games/k/kits.md) | - | - | 0 | - |
-| [Redfall](games/r/redfall.md) | - | - | 0 | - |
+| [Redfall](games/r/redfall.md) | 3.48 | 915 | 0 | 490 |
 | [Shotgun Farmers](games/s/shotgun_farmers.md) | - | - | 0 | - |
 | [Pipe Mania](games/p/pipe_mania.md) | - | - | 0 | - |
 | [RichBroker](games/r/richbroker.md) | - | - | 0 | - |

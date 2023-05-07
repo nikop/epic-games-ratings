@@ -457,7 +457,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12231,
+  "EOS_Progressed": 12232,
   "EOS_Completed": 92,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 2,
@@ -1257,6 +1257,11 @@
       "Time": "2023-05-07T02:11:46.1011611+00:00",
       "NumProgressed": 12231,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-07T03:06:29.3169754+00:00",
+      "NumProgressed": 12232,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 41,
@@ -1268,7 +1273,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "tpote_achievement_10",
@@ -1340,7 +1345,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "tpote_achievement_19",
@@ -1396,7 +1401,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "tpote_achievement_25",
@@ -1484,7 +1489,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "tpote_achievement_35",
@@ -1588,22 +1593,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12231,
+      "Progressed": 12232,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-07T02:11:46.1011605+00:00",
+  "LastChanged_Achievements": "2023-05-07T03:06:29.3169749+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:06:44.6501318+00:00",
-  "LastUpdate_Achievements": "2023-05-07T02:11:46.1011979+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:01:03.3333118+00:00",
+  "LastUpdate_Achievements": "2023-05-07T03:06:29.3170141+00:00"
 }

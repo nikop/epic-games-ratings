@@ -13,19 +13,19 @@ Rating: 4.77 (Ranked 103)
 | The Defender of Dragons | 5.00% | ~13,297 |
 | Coasting Along | 5.00% | ~13,297 |
 | Rising From the Ashes | 5.00% | ~13,297 |
-| The Avenging Gazelle | 4.00% | ~10,637 |
-| Beast Friends | 4.00% | ~10,637 |
-| A Sallow Grave | 4.00% | ~10,637 |
-| Flight the Good Flight | 4.00% | ~10,637 |
-| Challenge Accepted | 4.00% | ~10,637 |
-| A Keen Sense of Spell | 4.00% | ~10,637 |
-| Loom for Improvement | 4.00% | ~10,637 |
-| A Talent for Spending | 4.00% | ~10,637 |
-| Followed the Butterflies | 4.00% | ~10,637 |
-| The Spell Master | 4.00% | ~10,637 |
-| First Class Student | 4.00% | ~10,637 |
-| Troll with the Punches | 4.00% | ~10,637 |
-| That's a Keeper | 4.00% | ~10,637 |
+| The Avenging Gazelle | 4.00% | ~10,638 |
+| Beast Friends | 4.00% | ~10,638 |
+| A Sallow Grave | 4.00% | ~10,638 |
+| Flight the Good Flight | 4.00% | ~10,638 |
+| Challenge Accepted | 4.00% | ~10,638 |
+| A Keen Sense of Spell | 4.00% | ~10,638 |
+| Loom for Improvement | 4.00% | ~10,638 |
+| A Talent for Spending | 4.00% | ~10,638 |
+| Followed the Butterflies | 4.00% | ~10,638 |
+| The Spell Master | 4.00% | ~10,638 |
+| First Class Student | 4.00% | ~10,638 |
+| Troll with the Punches | 4.00% | ~10,638 |
+| That's a Keeper | 4.00% | ~10,638 |
 | The Seeker of Knowledge | 3.00% | ~7,978 |
 | The Root of the Problem | 3.00% | ~7,978 |
 | Third Time's a Charm | 3.00% | ~7,978 |
@@ -42,7 +42,7 @@ Rating: 4.77 (Ranked 103)
 | The Auror's Apprentice | 1.00% | ~2,659 |
 | Rise to the Challenges | 1.00% | ~2,659 |
 | The Wise Owl | 1.00% | ~2,659 |
-| Finishing Touches | 0.90% | ~2,393 |
+| Finishing Touches | 0.90% | ~2,394 |
 | Savvy Spender | 0.70% | ~1,862 |
 | Demiguise Dread | 0.70% | ~1,862 |
 | A Forte for Achievement | 0.70% | ~1,862 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,937 (Ranked 38)  
+Progressed: 265,948 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,10 +68,10 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 265,937 | 351 |
+| 2023-05-07 | 265,948 | 351 |
 ## Awards
 Max (Character Customization): 18,430  (Ranked 18)  
-Sum: 33,633 (Ranked 34)  
+Sum: 33,639 (Ranked 34)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -83,7 +83,7 @@ Diff (max vs sum): -16
 | This game has Diverse Characters | 705 |
 | This game has Amazing Storytelling | 697 |
 | This game has Amazing Characters | 687 |
-| This game is Highly Recommended | 663 |
+| This game is Highly Recommended | 669 |
 | This game has Quickly Understood Controls | 614 |
 | This game has Beautiful Visuals | 592 |
 | This game has a Creative Community | 452 |
@@ -134,3 +134,4 @@ Diff (max vs sum): -16
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
 | 2023-05-05 | 4.77 | 18,393 | 33,525 |
 | 2023-05-06 | 4.77 | 18,430 | 33,633 |
+| 2023-05-07 | 4.77 | 18,430 | 33,639 |

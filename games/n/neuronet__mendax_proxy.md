@@ -12,11 +12,11 @@
 | The Birds and the Bees | 31.00% | ~4 |
 | Vaccinated | 23.00% | ~3 |
 | Warning: Fragile | 23.00% | ~3 |
+| An Acquired Taste | 15.00% | ~2 |
 | Everyone Needs a Break | 15.00% | ~2 |
 | Job Creator | 15.00% | ~2 |
 | Task Master | 15.00% | ~2 |
 | A Little Eccentric | 8.00% | ~1 |
-| An Acquired Taste | 8.00% | ~1 |
 | A Real Headache | 8.00% | ~1 |
 | A Total Riot | 8.00% | ~1 |
 | A Light in the Dark | 8.00% | ~1 |
@@ -25,6 +25,7 @@
 | Busybody | 8.00% | ~1 |
 | Endgame | 8.00% | ~1 |
 | The Philosopher | 8.00% | ~1 |
+| Knock Knock | 8.00% | ~1 |
 | Obligatory Fraudulent Baking | 8.00% | ~1 |
 | The Partner | 8.00% | ~1 |
 | Socially Acceptable Insanity | 8.00% | ~1 |
@@ -36,7 +37,6 @@
 | Double Agent | 0.00% | ~0 |
 | Full Coverage | 0.00% | ~0 |
 | Keeper of the People | 0.00% | ~0 |
-| Knock Knock | 0.00% | ~0 |
 | Leave It to the Professionals | 0.00% | ~0 |
 | Overseer | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |

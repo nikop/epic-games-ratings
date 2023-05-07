@@ -182,9 +182,9 @@
       "Count": 167
     }
   ],
-  "EOS_Progressed": 401088,
+  "EOS_Progressed": 401101,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 2732,
+  "EOS_NewPlayers": 2721,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1562,6 +1562,11 @@
       "Time": "2023-05-07T02:12:27.3439134+00:00",
       "NumProgressed": 401088,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-07T03:07:01.1375383+00:00",
+      "NumProgressed": 401101,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 52,
@@ -1581,7 +1586,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40109
+      "UsersEstimate": 40110
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -1589,7 +1594,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24065
+      "UsersEstimate": 24066
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -1597,7 +1602,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36098
+      "UsersEstimate": 36099
     },
     {
       "ID": "BIGUPS",
@@ -1637,7 +1642,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28076
+      "UsersEstimate": 28077
     },
     {
       "ID": "CHAPTER2",
@@ -1645,7 +1650,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20054
+      "UsersEstimate": 20055
     },
     {
       "ID": "CHAPTER3",
@@ -1781,7 +1786,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "FRESH",
@@ -1949,7 +1954,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28076
+      "UsersEstimate": 28077
     },
     {
       "ID": "SOUL",
@@ -1988,7 +1993,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 401088,
+      "Progressed": 401101,
       "Completed": 29
     }
   ],
@@ -1996,8 +2001,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-03T01:57:02.3850436+00:00",
-  "LastChanged_Achievements": "2023-05-07T02:12:27.3439129+00:00",
+  "LastChanged_Achievements": "2023-05-07T03:07:01.1375375+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.9786833+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:06:22.206748+00:00",
-  "LastUpdate_Achievements": "2023-05-07T02:12:27.3439663+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:00:38.8771936+00:00",
+  "LastUpdate_Achievements": "2023-05-07T03:07:01.1375901+00:00"
 }

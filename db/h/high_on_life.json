@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.67,
   "RatingHistory": [
@@ -186,9 +186,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22619,
+  "EOS_Progressed": 22620,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -461,6 +461,11 @@
       "Time": "2023-05-07T02:11:48.9019026+00:00",
       "NumProgressed": 22619,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-07T03:06:32.3362838+00:00",
+      "NumProgressed": 22620,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -480,7 +485,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7464
+      "UsersEstimate": 7465
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -496,7 +501,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9726
+      "UsersEstimate": 9727
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -520,7 +525,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -536,7 +541,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17190
+      "UsersEstimate": 17191
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -576,7 +581,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18774
+      "UsersEstimate": 18775
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -600,7 +605,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13345
+      "UsersEstimate": 13346
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -616,7 +621,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4071
+      "UsersEstimate": 4072
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -632,7 +637,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -656,7 +661,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16512
+      "UsersEstimate": 16513
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -664,7 +669,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7464
+      "UsersEstimate": 7465
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -712,7 +717,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -727,7 +732,7 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22619,
+      "Progressed": 22620,
       "Completed": 8
     }
   ],
@@ -735,8 +740,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-04-28T05:57:41.6897144+00:00",
-  "LastChanged_Achievements": "2023-05-07T02:11:48.9019021+00:00",
+  "LastChanged_Achievements": "2023-05-07T03:06:32.3362834+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:05:02.850123+00:00",
-  "LastUpdate_Achievements": "2023-05-07T02:11:48.9019274+00:00"
+  "LastUpdate_Ratings": "2023-05-07T02:59:15.6576986+00:00",
+  "LastUpdate_Achievements": "2023-05-07T03:06:32.3363099+00:00"
 }

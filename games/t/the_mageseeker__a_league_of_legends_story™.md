@@ -5,13 +5,13 @@ Rating: 4.73 (Ranked 156)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,805 |
-| No more cages! | 92.00% | ~1,748 |
-| Everfrost | 77.00% | ~1,463 |
-| Dark Forest | 76.00% | ~1,444 |
-| Pentakill | 75.00% | ~1,425 |
-| The use of petricite | 72.00% | ~1,368 |
-| You can pet the dog | 59.00% | ~1,121 |
+| For Demacia | 95.00% | ~1,806 |
+| No more cages! | 92.00% | ~1,749 |
+| Everfrost | 77.00% | ~1,464 |
+| Dark Forest | 76.00% | ~1,445 |
+| Pentakill | 75.00% | ~1,426 |
+| The use of petricite | 72.00% | ~1,369 |
+| You can pet the dog | 59.00% | ~1,122 |
 | Big Helmet Bro | 33.00% | ~627 |
 | Clarion Cove | 33.00% | ~627 |
 | Ternmoat Headquarters | 32.00% | ~608 |
@@ -59,7 +59,7 @@ Rating: 4.73 (Ranked 156)
 | Silverwing nest | 2.00% | ~38 |
 | The Unshackled | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,900 (Ranked 142)  
+Progressed: 1,901 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 1 (0.05%) (Ranked 165)
 | 2023-05-04 | 1,873 | 1 |
 | 2023-05-05 | 1,884 | 1 |
 | 2023-05-06 | 1,899 | 1 |
-| 2023-05-07 | 1,900 | 1 |
+| 2023-05-07 | 1,901 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

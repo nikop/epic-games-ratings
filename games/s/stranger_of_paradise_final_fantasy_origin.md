@@ -41,7 +41,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | His Name Is Garland | 32.00% | ~24,935 |
 | Path of the Assassin | 31.00% | ~24,156 |
 | Seeker of Ultimate Power | 23.00% | ~17,922 |
-| Artifact Collector | 21.00% | ~16,364 |
+| Artifact Collector | 22.00% | ~17,143 |
 | True Potential | 21.00% | ~16,364 |
 | Polymath | 21.00% | ~16,364 |
 | Origin of True Chaos | 20.00% | ~15,585 |

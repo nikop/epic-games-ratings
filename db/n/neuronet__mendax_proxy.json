@@ -113,9 +113,9 @@
       "ID": "AN_ACQUIRED_TASTE",
       "SetID": "2d85n75",
       "Name": "An Acquired Taste",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AREAL_HEADACHE",
@@ -249,9 +249,9 @@
       "ID": "KNOCK_KNOCK",
       "SetID": "2d85n75",
       "Name": "Knock Knock",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEAVE_IT_TO_THE_PROFESSIONALS",
@@ -490,8 +490,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-07T02:12:29.0743788+00:00",
+  "LastChanged_Achievements": "2023-05-07T03:07:02.9390169+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:06:32.4068824+00:00",
-  "LastUpdate_Achievements": "2023-05-07T02:12:29.0744184+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:00:48.9080782+00:00",
+  "LastUpdate_Achievements": "2023-05-07T03:07:02.9390575+00:00"
 }
