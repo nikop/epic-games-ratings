@@ -16,6 +16,7 @@
 | An Acquired Taste | 14.00% | ~2 |
 | Everyone Needs a Break | 14.00% | ~2 |
 | Job Creator | 14.00% | ~2 |
+| They Flock to Him | 14.00% | ~2 |
 | A Little Eccentric | 7.00% | ~1 |
 | A Real Headache | 7.00% | ~1 |
 | A Total Riot | 7.00% | ~1 |
@@ -30,7 +31,6 @@
 | The Partner | 7.00% | ~1 |
 | Socially Acceptable Insanity | 7.00% | ~1 |
 | The Companion | 7.00% | ~1 |
-| They Flock to Him | 7.00% | ~1 |
 | The Counsellor | 7.00% | ~1 |
 | Zonk! | 7.00% | ~1 |
 | Couldn't Have Planned It Better Myself | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 50,
   "RatingHistory": [
     {
@@ -70,9 +70,9 @@
       "ID": "05_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 5",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "10_Coins",
@@ -118,9 +118,9 @@
       "ID": "Apple_eaten_in_002",
       "SetID": "6od1ndi",
       "Name": "Mjam-Mjam",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "Brain_turned_in_008",
@@ -166,17 +166,17 @@
       "ID": "Level_completed_001_002",
       "SetID": "6od1ndi",
       "Name": "Onk Boga I",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "Level_completed_002_008",
       "SetID": "6od1ndi",
       "Name": "Onk Boga II",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Level_completed_003_001",
@@ -287,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-07T04:07:38.0377136+00:00",
+  "LastChanged_Achievements": "2023-05-07T05:07:49.5637212+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.7186203+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:01:30.1685296+00:00",
-  "LastUpdate_Achievements": "2023-05-07T04:07:38.03773+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:01:52.4198525+00:00",
+  "LastUpdate_Achievements": "2023-05-07T05:07:49.5637408+00:00"
 }

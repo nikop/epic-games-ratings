@@ -9,14 +9,14 @@
 | Into the Barn | 88.00% | ~382 |
 | A Prophecy | 86.00% | ~373 |
 | Sword, Shield, Fight! | 74.00% | ~321 |
-| A Grand Visit | 69.00% | ~299 |
+| A Grand Visit | 70.00% | ~304 |
 | Vibing | 59.00% | ~256 |
 | Fun Guy | 59.00% | ~256 |
 | Tragic Brave | 50.00% | ~217 |
 | Little Shop | 45.00% | ~195 |
 | Awakened Spirits | 45.00% | ~195 |
-| Surprise! | 39.00% | ~169 |
-| An Actor! | 39.00% | ~169 |
+| Surprise! | 40.00% | ~174 |
+| An Actor! | 40.00% | ~174 |
 | Curtain Call | 38.00% | ~165 |
 | Well Rested | 36.00% | ~156 |
 | Glimmer of Hope | 35.00% | ~152 |
@@ -34,8 +34,8 @@
 | Spellbound | 26.00% | ~113 |
 | All Skilled Up! | 26.00% | ~113 |
 | Extinct Again! | 25.00% | ~108 |
-| Bird of Prey | 24.00% | ~104 |
-| Stardust | 24.00% | ~104 |
+| Bird of Prey | 25.00% | ~108 |
+| Stardust | 25.00% | ~108 |
 | Heartbreaker | 24.00% | ~104 |
 | Kidnapped! | 24.00% | ~104 |
 | Pull the Plug | 23.00% | ~100 |

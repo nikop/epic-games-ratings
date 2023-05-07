@@ -360,9 +360,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8712,
+  "EOS_Progressed": 8713,
   "EOS_Completed": 198,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -1680,6 +1680,11 @@
       "Time": "2023-05-07T04:07:43.5492888+00:00",
       "NumProgressed": 8712,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-05-07T05:07:54.9226345+00:00",
+      "NumProgressed": 8713,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 20,
@@ -1723,7 +1728,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -1747,7 +1752,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -1811,7 +1816,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -1819,7 +1824,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "NORTH_FINISHED",
@@ -1850,15 +1855,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8712,
+      "Progressed": 8713,
       "Completed": 198
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-07T04:07:43.5492884+00:00",
+  "LastChanged_Achievements": "2023-05-07T05:07:54.9226342+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:01:53.8046202+00:00",
-  "LastUpdate_Achievements": "2023-05-07T04:07:43.5493055+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:02:16.8244822+00:00",
+  "LastUpdate_Achievements": "2023-05-07T05:07:54.9226574+00:00"
 }

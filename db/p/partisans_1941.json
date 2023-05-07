@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.61,
   "NumberOfRatings": 98,
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 870,
+  "EOS_Progressed": 871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -412,6 +412,11 @@
       "Time": "2023-05-05T08:05:53.629547+00:00",
       "NumProgressed": 870,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T05:07:41.3623109+00:00",
+      "NumProgressed": 871,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -471,7 +476,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Defense_Common",
@@ -551,7 +556,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "High_noon",
@@ -615,7 +620,7 @@
       "Name": "Mosquito bite",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Scout",
@@ -662,15 +667,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 870,
+      "Progressed": 871,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-07T04:07:30.0768215+00:00",
+  "LastChanged_Achievements": "2023-05-07T05:07:41.3623104+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:27.8079323+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:00:50.4967412+00:00",
-  "LastUpdate_Achievements": "2023-05-07T04:07:30.07684+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:01:11.0061285+00:00",
+  "LastUpdate_Achievements": "2023-05-07T05:07:41.3623322+00:00"
 }

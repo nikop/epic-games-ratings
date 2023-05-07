@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -390,9 +390,9 @@
       "ID": "THEY_FLOCK_TO_HIM",
       "SetID": "2d85n75",
       "Name": "They Flock to Him",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THE_ARCHETYPE",
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-07T04:07:35.1821646+00:00",
+  "LastChanged_Achievements": "2023-05-07T05:07:46.5410619+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:01:19.5038899+00:00",
-  "LastUpdate_Achievements": "2023-05-07T04:07:35.182197+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:01:41.7989497+00:00",
+  "LastUpdate_Achievements": "2023-05-07T05:07:46.5411019+00:00"
 }

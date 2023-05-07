@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4832,
+  "EOS_Progressed": 4834,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -749,6 +749,11 @@
       "Time": "2023-05-06T23:06:21.2057701+00:00",
       "NumProgressed": 4832,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-07T05:07:10.2542081+00:00",
+      "NumProgressed": 4834,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -760,7 +765,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "ACH02",
@@ -768,7 +773,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH03",
@@ -800,7 +805,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH07",
@@ -808,7 +813,7 @@
       "Name": "Planned Ahead",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH08",
@@ -840,7 +845,7 @@
       "Name": "Wheels Up",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH12",
@@ -991,7 +996,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4832,
+      "Progressed": 4834,
       "Completed": 26
     }
   ],
@@ -999,8 +1004,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-07T04:07:00.5875286+00:00",
+  "LastChanged_Achievements": "2023-05-07T05:07:10.2542077+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-07T03:59:13.9560584+00:00",
-  "LastUpdate_Achievements": "2023-05-07T04:07:00.5875459+00:00"
+  "LastUpdate_Ratings": "2023-05-07T04:59:28.8503479+00:00",
+  "LastUpdate_Achievements": "2023-05-07T05:07:10.2542319+00:00"
 }

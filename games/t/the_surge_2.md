@@ -5,17 +5,17 @@ Rating: 4.24 (Ranked 782)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 81.00% | ~1,248 |
+| Rigged And Ready | 80.00% | ~1,234 |
 | Don't I Know You...? | 77.00% | ~1,187 |
-| Jailbreak | 66.00% | ~1,017 |
+| Jailbreak | 66.00% | ~1,018 |
 | Suited and Booted | 38.00% | ~586 |
-| HEADSHOT! | 37.00% | ~570 |
-| Sleeping With The Fishes | 35.00% | ~539 |
-| Overheated | 30.00% | ~462 |
-| High Performance | 30.00% | ~462 |
-| Powered Up | 28.00% | ~431 |
-| Studied The Blade | 25.00% | ~385 |
-| Home Invasion | 23.00% | ~354 |
+| HEADSHOT! | 37.00% | ~571 |
+| Sleeping With The Fishes | 35.00% | ~540 |
+| Overheated | 30.00% | ~463 |
+| High Performance | 30.00% | ~463 |
+| Powered Up | 28.00% | ~432 |
+| Studied The Blade | 25.00% | ~386 |
+| Home Invasion | 23.00% | ~355 |
 | Luminary | 22.00% | ~339 |
 | It's a Trap | 22.00% | ~339 |
 | True Survivor | 21.00% | ~324 |
@@ -23,11 +23,11 @@ Rating: 4.24 (Ranked 782)
 | Unforeseeable Consequences | 20.00% | ~308 |
 | Court Martial | 19.00% | ~293 |
 | Offensive Defense | 19.00% | ~293 |
-| Dead Again | 18.00% | ~277 |
-| Clean Cut | 18.00% | ~277 |
+| Dead Again | 18.00% | ~278 |
+| Clean Cut | 18.00% | ~278 |
 | Full Arsenal | 17.00% | ~262 |
 | Can't Trust Banks | 16.00% | ~247 |
-| Mommy Dearest | 13.00% | ~200 |
+| Mommy Dearest | 14.00% | ~216 |
 | Bad Dog | 13.00% | ~200 |
 | Where It All Began | 13.00% | ~200 |
 | Risk Tolerant | 13.00% | ~200 |
@@ -42,10 +42,10 @@ Rating: 4.24 (Ranked 782)
 | Following In Their Footsteps | 8.00% | ~123 |
 | Defense in Depth | 8.00% | ~123 |
 | Reverse Engineering | 7.00% | ~108 |
-| Reborn | 6.00% | ~92 |
-| Turbo Booster | 6.00% | ~92 |
-| Juiced Up | 6.00% | ~92 |
-| Squid Pro Quo | 6.00% | ~92 |
+| Reborn | 6.00% | ~93 |
+| Turbo Booster | 6.00% | ~93 |
+| Juiced Up | 6.00% | ~93 |
+| Squid Pro Quo | 6.00% | ~93 |
 | Hello Darkness My Old Friend | 5.00% | ~77 |
 | Remote Surgery | 5.00% | ~77 |
 | Counter-Sniper | 5.00% | ~77 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 782)
 | Swiss Army Drone | 1.00% | ~15 |
 | Three Birds With One Stone | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,541 (Ranked 148)  
+Progressed: 1,542 (Ranked 148)  
 Completed: 10 (0.65%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 10 (0.65%) (Ranked 94)
 | 2023-05-03 | 1,538 | 10 |
 | 2023-05-05 | 1,539 | 10 |
 | 2023-05-06 | 1,540 | 10 |
-| 2023-05-07 | 1,541 | 10 |
+| 2023-05-07 | 1,542 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

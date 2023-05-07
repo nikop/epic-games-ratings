@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,810 |
-| That's a Grand Army | 8.00% | ~2,498 |
-| That is mine! | 8.00% | ~2,498 |
-| Victorious! | 8.00% | ~2,498 |
-| Brothers in Arms | 6.00% | ~1,873 |
-| That's a Grand Navy | 6.00% | ~1,873 |
-| Seriously?! | 6.00% | ~1,873 |
-| For the Glory | 5.00% | ~1,561 |
+| Until death do us apart | 9.00% | ~2,811 |
+| That's a Grand Army | 8.00% | ~2,499 |
+| That is mine! | 8.00% | ~2,499 |
+| Victorious! | 8.00% | ~2,499 |
+| Brothers in Arms | 6.00% | ~1,874 |
+| That's a Grand Navy | 6.00% | ~1,874 |
+| Seriously?! | 6.00% | ~1,874 |
+| For the Glory | 5.00% | ~1,562 |
 | Cold War | 4.00% | ~1,249 |
 | True Catholic | 4.00% | ~1,249 |
 | Defender of the Faith | 3.00% | ~937 |
 | It's all about the money | 3.00% | ~937 |
 | Respected | 3.00% | ~937 |
-| Blockader | 2.00% | ~624 |
-| Combined Arms | 2.00% | ~624 |
-| Double the Love | 2.00% | ~624 |
-| Gentle Persuasion | 2.00% | ~624 |
-| It's all about luck | 2.00% | ~624 |
-| Queen of Conquest | 2.00% | ~624 |
-| Royal Authority | 2.00% | ~624 |
-| The Princess is in this Castle | 2.00% | ~624 |
-| Total Control | 2.00% | ~624 |
-| Truly Divine Ruler | 2.00% | ~624 |
+| Blockader | 2.00% | ~625 |
+| Combined Arms | 2.00% | ~625 |
+| Double the Love | 2.00% | ~625 |
+| Gentle Persuasion | 2.00% | ~625 |
+| It's all about luck | 2.00% | ~625 |
+| Queen of Conquest | 2.00% | ~625 |
+| Royal Authority | 2.00% | ~625 |
+| The Princess is in this Castle | 2.00% | ~625 |
+| Total Control | 2.00% | ~625 |
+| Truly Divine Ruler | 2.00% | ~625 |
 | Agressive Expander | 1.00% | ~312 |
 | Azur semé de lis or | 1.00% | ~312 |
 | Bright Spark | 1.00% | ~312 |
@@ -57,6 +57,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All Your Trade Are Belong to Us | 0.30% | ~94 |
 | Dude, Where's my Boat? | 0.30% | ~94 |
 | Four For Trade | 0.30% | ~94 |
+| Grand Coalition | 0.30% | ~94 |
 | In the Name of the Father | 0.30% | ~94 |
 | Live Long and Prosper | 0.30% | ~94 |
 | One Night in Paris | 0.30% | ~94 |
@@ -70,7 +71,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | AAA Credit | 0.20% | ~62 |
 | Bleed Them Dry | 0.20% | ~62 |
 | Global Hegemony | 0.20% | ~62 |
-| Grand Coalition | 0.20% | ~62 |
 | Grand Duchy | 0.20% | ~62 |
 | Imperio español | 0.20% | ~62 |
 | Italian Ambition | 0.20% | ~62 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,220 (Ranked 81)  
+Progressed: 31,237 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
-| 2023-05-07 | 31,220 | 0 |
+| 2023-05-07 | 31,237 | 0 |
 ## Awards
 Max (Educational): 5,181  (Ranked 60)  
 Sum: 42,857 (Ranked 26)  

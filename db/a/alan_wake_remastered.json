@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 50,
   "Rating": 4.56,
   "NumberOfRatings": 524,
@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46037,
+  "EOS_Progressed": 46038,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1158,6 +1158,11 @@
       "Time": "2023-05-07T00:06:10.8617855+00:00",
       "NumProgressed": 46037,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-07T05:07:14.8876062+00:00",
+      "NumProgressed": 46038,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1177,7 +1182,7 @@
       "Name": "Nordic Walking",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5524
+      "UsersEstimate": 5525
     },
     {
       "ID": "03",
@@ -1185,7 +1190,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5524
+      "UsersEstimate": 5525
     },
     {
       "ID": "04",
@@ -1297,7 +1302,7 @@
       "Name": "Departure",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "18",
@@ -1704,21 +1709,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46037,
+      "Progressed": 46038,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9505,
+      "Progressed": 9506,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-07T04:07:05.0952921+00:00",
+  "LastChanged_Achievements": "2023-05-07T05:07:14.8876058+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-07T03:58:53.3581856+00:00",
-  "LastUpdate_Achievements": "2023-05-07T04:07:05.0953465+00:00"
+  "LastUpdate_Ratings": "2023-05-07T04:59:07.1904038+00:00",
+  "LastUpdate_Achievements": "2023-05-07T05:07:14.8877105+00:00"
 }

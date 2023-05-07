@@ -127,9 +127,9 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "codebreaker",
@@ -207,9 +207,9 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "relight_my_cannon",
@@ -253,8 +253,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-07T04:07:08.7969617+00:00",
+  "LastChanged_Achievements": "2023-05-07T05:07:18.92583+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:22.6722538+00:00",
-  "LastUpdate_Ratings": "2023-05-07T03:59:24.4446401+00:00",
-  "LastUpdate_Achievements": "2023-05-07T04:07:08.7969717+00:00"
+  "LastUpdate_Ratings": "2023-05-07T04:59:40.7522204+00:00",
+  "LastUpdate_Achievements": "2023-05-07T05:07:18.9258429+00:00"
 }

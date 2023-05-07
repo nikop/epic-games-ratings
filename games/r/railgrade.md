@@ -6,27 +6,27 @@ Rating: 4.54 (Ranked 476)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trevithick's Legacy | 98.00% | ~17,910 |
-| Before the Downfall | 93.00% | ~16,996 |
-| Money like Water | 91.00% | ~16,630 |
+| Before the Downfall | 93.00% | ~16,997 |
+| Money like Water | 91.00% | ~16,631 |
 | Minimalist | 90.00% | ~16,448 |
-| Builder | 83.00% | ~15,168 |
-| Eraser | 70.00% | ~12,792 |
+| Builder | 83.00% | ~15,169 |
+| Eraser | 70.00% | ~12,793 |
 | Pocket of Trains | 65.00% | ~11,879 |
 | Inspector | 58.00% | ~10,600 |
-| Going the Distance | 54.00% | ~9,868 |
+| Going the Distance | 54.00% | ~9,869 |
 | Oil Baron | 42.00% | ~7,676 |
 | Loads-a-Money | 42.00% | ~7,676 |
-| Helper of the People | 39.00% | ~7,127 |
+| Helper of the People | 39.00% | ~7,128 |
 | Simplification | 33.00% | ~6,031 |
 | Box of Trains | 33.00% | ~6,031 |
 | Let There be Light | 32.00% | ~5,848 |
-| Hot Water | 30.00% | ~5,482 |
+| Hot Water | 31.00% | ~5,666 |
 | Indecisive | 29.00% | ~5,300 |
-| The scenic route | 27.00% | ~4,934 |
+| The scenic route | 27.00% | ~4,935 |
 | Industrialist | 25.00% | ~4,569 |
 | Perfectionist | 23.00% | ~4,203 |
-| Trains over Pipes | 23.00% | ~4,203 |
-| 8K is Enough for Everyone | 22.00% | ~4,020 |
+| 8K is Enough for Everyone | 22.00% | ~4,021 |
+| Trains over Pipes | 22.00% | ~4,021 |
 | Man of Steel | 16.00% | ~2,924 |
 | Room Full of Trains | 12.00% | ~2,193 |
 | Investor | 9.00% | ~1,645 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 476)
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,275 (Ranked 93)  
+Progressed: 18,276 (Ranked 93)  
 Completed: 28 (0.15%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 28 (0.15%) (Ranked 140)
 | 2023-05-04 | 18,228 | 28 |
 | 2023-05-05 | 18,253 | 28 |
 | 2023-05-06 | 18,272 | 28 |
-| 2023-05-07 | 18,275 | 28 |
+| 2023-05-07 | 18,276 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 338)  
 Sum: 643 (Ranked 269)  

@@ -13,19 +13,19 @@ Rating: 4.77 (Ranked 103)
 | The Defender of Dragons | 5.00% | ~13,298 |
 | Coasting Along | 5.00% | ~13,298 |
 | Rising From the Ashes | 5.00% | ~13,298 |
-| The Avenging Gazelle | 4.00% | ~10,638 |
-| Beast Friends | 4.00% | ~10,638 |
-| A Sallow Grave | 4.00% | ~10,638 |
-| Flight the Good Flight | 4.00% | ~10,638 |
-| Challenge Accepted | 4.00% | ~10,638 |
-| A Keen Sense of Spell | 4.00% | ~10,638 |
-| Loom for Improvement | 4.00% | ~10,638 |
-| A Talent for Spending | 4.00% | ~10,638 |
-| Followed the Butterflies | 4.00% | ~10,638 |
-| The Spell Master | 4.00% | ~10,638 |
-| First Class Student | 4.00% | ~10,638 |
-| Troll with the Punches | 4.00% | ~10,638 |
-| That's a Keeper | 4.00% | ~10,638 |
+| The Avenging Gazelle | 4.00% | ~10,639 |
+| Beast Friends | 4.00% | ~10,639 |
+| A Sallow Grave | 4.00% | ~10,639 |
+| Flight the Good Flight | 4.00% | ~10,639 |
+| Challenge Accepted | 4.00% | ~10,639 |
+| A Keen Sense of Spell | 4.00% | ~10,639 |
+| Loom for Improvement | 4.00% | ~10,639 |
+| A Talent for Spending | 4.00% | ~10,639 |
+| Followed the Butterflies | 4.00% | ~10,639 |
+| The Spell Master | 4.00% | ~10,639 |
+| First Class Student | 4.00% | ~10,639 |
+| Troll with the Punches | 4.00% | ~10,639 |
+| That's a Keeper | 4.00% | ~10,639 |
 | The Seeker of Knowledge | 3.00% | ~7,979 |
 | The Root of the Problem | 3.00% | ~7,979 |
 | Third Time's a Charm | 3.00% | ~7,979 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,954 (Ranked 38)  
+Progressed: 265,965 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 265,954 | 351 |
+| 2023-05-07 | 265,965 | 351 |
 ## Awards
 Max (Character Customization): 18,430  (Ranked 18)  
 Sum: 33,639 (Ranked 34)  

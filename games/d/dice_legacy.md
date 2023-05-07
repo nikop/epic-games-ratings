@@ -34,6 +34,7 @@ Rating: 4.29 (Ranked 759)
 | Charismatic Leader | 0.10% | ~1 |
 | Metropolis | 0.10% | ~1 |
 | It's spreading | 0.10% | ~1 |
+| The Flail | 0.10% | ~1 |
 | The Incarnate | 0.10% | ~1 |
 | Ice and Fire | 0.00% | ~0 |
 | Red Tape | 0.00% | ~0 |
@@ -45,7 +46,6 @@ Rating: 4.29 (Ranked 759)
 | Discover the truth | 0.00% | ~0 |
 | Oktoberfest | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
-| The Flail | 0.00% | ~0 |
 | The Corrupted | 0.00% | ~0 |
 | The Foul | 0.00% | ~0 |
 | Fate is against us | 0.00% | ~0 |

@@ -530,9 +530,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457405,
+  "EOS_Progressed": 457406,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1770,6 +1770,11 @@
       "Time": "2023-05-07T04:07:30.0909733+00:00",
       "NumProgressed": 457405,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-07T05:07:41.3913366+00:00",
+      "NumProgressed": 457406,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -1821,7 +1826,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45740
+      "UsersEstimate": 45741
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -1869,7 +1874,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 301887
+      "UsersEstimate": 301888
     },
     {
       "ID": "achievement_story_landa",
@@ -1901,7 +1906,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114351
+      "UsersEstimate": 114352
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -2205,7 +2210,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201258
+      "UsersEstimate": 201259
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -2300,21 +2305,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1339,
-      "Completed": 1339
+      "Progressed": 1340,
+      "Completed": 1340
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457405,
+      "Progressed": 457406,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-07T04:07:30.090973+00:00",
+  "LastChanged_Achievements": "2023-05-07T05:07:41.3913361+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-07T04:00:48.432011+00:00",
-  "LastUpdate_Achievements": "2023-05-07T04:07:30.0910272+00:00"
+  "LastUpdate_Ratings": "2023-05-07T05:01:09.0308503+00:00",
+  "LastUpdate_Achievements": "2023-05-07T05:07:41.3914073+00:00"
 }

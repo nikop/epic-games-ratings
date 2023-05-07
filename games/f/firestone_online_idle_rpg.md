@@ -50,12 +50,12 @@ Rating: 3.40 (Ranked 917)
 | Trader | 0.90% | ~8 |
 | Master Enchanter | 0.80% | ~7 |
 | Dragon Slayer | 0.60% | ~5 |
+| Legendary | 0.60% | ~5 |
 | Sailor | 0.60% | ~5 |
 | Blueprint Upgrades | 0.50% | ~4 |
 | Crystal Mining | 0.50% | ~4 |
 | Enchanting skill | 0.50% | ~4 |
 | Engineer Mastery | 0.50% | ~4 |
-| Legendary | 0.50% | ~4 |
 | Pokerface | 0.50% | ~4 |
 | The Alchemist | 0.50% | ~4 |
 | Tree of Life | 0.50% | ~4 |

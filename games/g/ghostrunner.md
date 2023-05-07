@@ -6,28 +6,28 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 79.00% | ~3,238 |
-| Sword Runner | 63.00% | ~2,582 |
-| Wallrunner | 58.00% | ~2,377 |
-| Running out of breath | 56.00% | ~2,295 |
-| Homerunner | 47.00% | ~1,927 |
-| Out of order | 47.00% | ~1,927 |
-| I call it luck | 46.00% | ~1,886 |
-| Where are my Keys? | 44.00% | ~1,804 |
-| Back to hell | 39.00% | ~1,599 |
-| Perfection | 34.00% | ~1,394 |
-| Sword to a gunfight | 32.00% | ~1,312 |
-| Why not both | 32.00% | ~1,312 |
-| Control freak | 30.00% | ~1,230 |
-| Running Wild | 30.00% | ~1,230 |
-| Upgrades not mandatory | 30.00% | ~1,230 |
-| Artificial selection | 29.00% | ~1,189 |
-| Finish line | 28.00% | ~1,148 |
-| Unstoppable force | 25.00% | ~1,025 |
-| Wave of mutilation | 23.00% | ~943 |
-| Can't Run Can't Hide | 20.00% | ~820 |
-| R is for Running | 19.00% | ~779 |
-| Dead in the air | 17.00% | ~697 |
+| Longrunner | 79.00% | ~3,241 |
+| Sword Runner | 62.00% | ~2,544 |
+| Wallrunner | 58.00% | ~2,380 |
+| Running out of breath | 56.00% | ~2,298 |
+| Homerunner | 47.00% | ~1,928 |
+| Out of order | 47.00% | ~1,928 |
+| I call it luck | 46.00% | ~1,887 |
+| Where are my Keys? | 44.00% | ~1,805 |
+| Back to hell | 39.00% | ~1,600 |
+| Perfection | 34.00% | ~1,395 |
+| Sword to a gunfight | 32.00% | ~1,313 |
+| Why not both | 32.00% | ~1,313 |
+| Control freak | 30.00% | ~1,231 |
+| Running Wild | 30.00% | ~1,231 |
+| Upgrades not mandatory | 30.00% | ~1,231 |
+| Artificial selection | 29.00% | ~1,190 |
+| Finish line | 28.00% | ~1,149 |
+| Unstoppable force | 24.00% | ~985 |
+| Wave of mutilation | 23.00% | ~944 |
+| Can't Run Can't Hide | 20.00% | ~821 |
+| R is for Running | 19.00% | ~780 |
+| Dead in the air | 17.00% | ~698 |
 | Improvise, adapt, overrun | 15.00% | ~615 |
 | Pre-empative strike | 15.00% | ~615 |
 | More than human | 14.00% | ~574 |
@@ -47,12 +47,12 @@ Number of Ratings: 1,047  (23.09.2022)
 | Obedient Machine | 1.00% | ~41 |
 | Everyone Needs A Hobby | 0.80% | ~33 |
 | Sticks And Stones | 0.60% | ~25 |
-| A Grade | 0.50% | ~20 |
-| GR Project Complete | 0.50% | ~20 |
-| Legacy Drivers | 0.50% | ~20 |
-| Up Close And Personal | 0.50% | ~20 |
+| A Grade | 0.50% | ~21 |
+| GR Project Complete | 0.50% | ~21 |
+| Legacy Drivers | 0.50% | ~21 |
+| Up Close And Personal | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,099 (Ranked 126)  
+Progressed: 4,103 (Ranked 126)  
 Completed: 20 (0.49%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 20 (0.49%) (Ranked 99)
 | 2023-05-04 | 3,897 | 20 |
 | 2023-05-05 | 3,981 | 20 |
 | 2023-05-06 | 4,083 | 20 |
-| 2023-05-07 | 4,099 | 20 |
+| 2023-05-07 | 4,103 | 20 |
 ## Awards
 Max (Great Boss Battles): 454  (Ranked 188)  
 Sum: 586 (Ranked 280)  

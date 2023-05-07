@@ -9,15 +9,15 @@
 | Backstory Buff | 12.00% | ~2 |
 | Codebreaker | 12.00% | ~2 |
 | Flying High | 12.00% | ~2 |
+| Puzzle Prodigy | 12.00% | ~2 |
 | Set Sail | 12.00% | ~2 |
 | Tour Guide Extraordinaire | 12.00% | ~2 |
+| Breathless End | 6.00% | ~1 |
 | Explosive End | 6.00% | ~1 |
 | Finger-Lickin' Bad | 6.00% | ~1 |
-| Puzzle Prodigy | 6.00% | ~1 |
 | Snitch | 6.00% | ~1 |
 | A Box of Tricks | 0.00% | ~0 |
 | Bathroom Brawler | 0.00% | ~0 |
-| Breathless End | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Fool's Gold | 0.00% | ~0 |
 | Freedum Fighter | 0.00% | ~0 |

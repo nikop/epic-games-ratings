@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.20% | ~106 |
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
+| No One Can Hear You Scream | 0.20% | ~106 |
 | Beast Mode | 0.20% | ~173 |
 | Low Initiative | 0.20% | ~173 |
 | A Mysterious Summons | 0.20% | ~173 |
@@ -189,7 +190,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~53 |
 | The Palace of Heart's Desire | 0.10% | ~53 |
 | The Egg of Nat's Desire | 0.10% | ~53 |
-| No One Can Hear You Scream | 0.10% | ~53 |
 | Anchors Aweigh | 0.10% | ~53 |
 | Welcome to the Rock | 0.10% | ~53 |
 | Welcome to the Band | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,701 (Ranked 59)  
+Progressed: 86,706 (Ranked 59)  
 Completed: 1,809 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,809 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,701 | 1,809 |
+| 2023-05-07 | 86,706 | 1,809 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,822 (Ranked 37)  
