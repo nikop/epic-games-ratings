@@ -498,7 +498,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46047,
+  "EOS_Progressed": 46050,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
@@ -1193,6 +1193,11 @@
       "Time": "2023-05-07T14:06:31.7761916+00:00",
       "NumProgressed": 46047,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-07T16:06:48.7302016+00:00",
+      "NumProgressed": 46050,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1204,7 +1209,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8749
+      "UsersEstimate": 8750
     },
     {
       "ID": "02",
@@ -1236,7 +1241,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5065
+      "UsersEstimate": 5066
     },
     {
       "ID": "06",
@@ -1252,7 +1257,7 @@
       "Name": "Heavy Metal",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "08",
@@ -1260,7 +1265,7 @@
       "Name": "Iron Horse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "09",
@@ -1284,7 +1289,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "12",
@@ -1292,7 +1297,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "13",
@@ -1300,7 +1305,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "14",
@@ -1340,7 +1345,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "19",
@@ -1356,7 +1361,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "21",
@@ -1372,7 +1377,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "23",
@@ -1388,7 +1393,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "25",
@@ -1412,7 +1417,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "28",
@@ -1420,7 +1425,7 @@
       "Name": "Come One, Come All",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "29",
@@ -1452,7 +1457,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6907
+      "UsersEstimate": 6908
     },
     {
       "ID": "33",
@@ -1580,7 +1585,7 @@
       "Name": "KBF-FM",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "49",
@@ -1676,7 +1681,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "61",
@@ -1732,28 +1737,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46047,
+      "Progressed": 46050,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9515,
+      "Progressed": 9518,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-07T15:06:19.6453887+00:00",
+  "LastChanged_Achievements": "2023-05-07T16:06:48.7302009+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:58:53.009959+00:00",
-  "LastUpdate_Achievements": "2023-05-07T15:06:19.6454572+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:58:58.1400138+00:00",
+  "LastUpdate_Achievements": "2023-05-07T16:06:48.7302726+00:00"
 }

@@ -30,6 +30,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.30% | ~260 |
 | Maddening | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
+| The Witchlight Carnival | 0.20% | ~106 |
 | The Silken Swamp | 0.20% | ~174 |
 | Supply Run | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~106 |
@@ -96,7 +97,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.10% | ~53 |
 | An Unexpected Geist | 0.10% | ~53 |
 | Back to Nature | 0.10% | ~53 |
-| The Witchlight Carnival | 0.10% | ~53 |
 | A Monarch Among Us | 0.10% | ~53 |
 | A Dragon Against Us | 0.10% | ~53 |
 | A Familiar Behind Us | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,757 (Ranked 59)  
+Progressed: 86,758 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,757 | 1,810 |
+| 2023-05-07 | 86,758 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,826 (Ranked 37)  

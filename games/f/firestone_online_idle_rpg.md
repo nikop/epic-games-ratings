@@ -54,6 +54,7 @@ Rating: 3.40 (Ranked 917)
 | Engineer Mastery | 0.60% | ~5 |
 | Legendary | 0.60% | ~5 |
 | Sailor | 0.60% | ~5 |
+| Weekly Quest Completionist | 0.60% | ~5 |
 | Blueprint Upgrades | 0.40% | ~4 |
 | Crystal Mining | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
@@ -62,7 +63,6 @@ Rating: 3.40 (Ranked 917)
 | Tree of Life | 0.40% | ~4 |
 | Ebony Jungle Liberator | 0.30% | ~3 |
 | Training makes a Pro player | 0.30% | ~3 |
-| Weekly Quest Completionist | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |

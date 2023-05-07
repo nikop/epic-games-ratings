@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.63 (Ranked 325)  
+Rating: 4.63 (Ranked 326)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,8 +13,8 @@ Rating: 4.63 (Ranked 325)
 | One way ticket | 82.00% | ~3,245 |
 | Last man standing | 76.00% | ~3,007 |
 | Family guy | 75.00% | ~2,968 |
-| Out of the Bag | 71.00% | ~2,809 |
-| The Dark Side | 66.00% | ~2,612 |
+| Out of the Bag | 72.00% | ~2,849 |
+| The Dark Side | 67.00% | ~2,651 |
 | Duck and cover! | 62.00% | ~2,453 |
 | Souper! | 60.00% | ~2,374 |
 | Pacifist | 55.00% | ~2,176 |

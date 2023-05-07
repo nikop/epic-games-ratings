@@ -5,31 +5,31 @@ Rating: 4.46 (Ranked 589)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~128,582 |
-| My First Runbow | 51.00% | ~123,730 |
-| It's The Fall | 26.00% | ~63,078 |
-| The Stunner | 21.00% | ~50,948 |
-| Be Aggressive | 20.00% | ~48,522 |
-| Curator | 20.00% | ~48,522 |
-| Crowning Around | 18.00% | ~43,669 |
-| Can You Dig It? | 17.00% | ~41,243 |
-| You Juan-A-Go? | 16.00% | ~38,817 |
-| Chan-tastic | 15.00% | ~36,391 |
-| Muddy Waters | 14.00% | ~33,965 |
-| Toasty! | 13.00% | ~31,539 |
+| In The Zone | 53.00% | ~128,586 |
+| My First Runbow | 51.00% | ~123,734 |
+| It's The Fall | 26.00% | ~63,080 |
+| The Stunner | 21.00% | ~50,949 |
+| Be Aggressive | 20.00% | ~48,523 |
+| Curator | 20.00% | ~48,523 |
+| Crowning Around | 18.00% | ~43,671 |
+| Can You Dig It? | 17.00% | ~41,245 |
+| You Juan-A-Go? | 16.00% | ~38,819 |
+| Chan-tastic | 15.00% | ~36,392 |
+| Muddy Waters | 14.00% | ~33,966 |
+| Toasty! | 13.00% | ~31,540 |
 | Lazy Laser | 8.00% | ~19,409 |
 | Into The Drift | 7.00% | ~16,983 |
 | Ready? Fight! | 7.00% | ~16,983 |
-| Just A Phaze | 6.00% | ~14,556 |
-| Butt Butt | 6.00% | ~14,556 |
+| Just A Phaze | 6.00% | ~14,557 |
+| Butt Butt | 6.00% | ~14,557 |
 | Shoo, Cat! | 3.00% | ~7,278 |
 | And You're Okay | 2.00% | ~4,852 |
 | Blotbuster | 2.00% | ~4,852 |
 | He Who Laughs Last | 2.00% | ~4,852 |
 | Just A Bit | 1.00% | ~2,426 |
 | Thunderstruck | 1.00% | ~2,426 |
-| Tubular, Dude | 0.90% | ~2,183 |
-| What A Trip | 0.90% | ~2,183 |
+| Tubular, Dude | 0.90% | ~2,184 |
+| What A Trip | 0.90% | ~2,184 |
 | Please The King | 0.80% | ~1,941 |
 | Here We Go! | 0.70% | ~1,698 |
 | Clear-Cut | 0.50% | ~1,213 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 589)
 | Talent Scout | 0.10% | ~243 |
 | True Completionist | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,608 (Ranked 40)  
+Progressed: 242,616 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 1 (0.00%) (Ranked 193)
 | 2023-05-04 | 242,428 | 1 |
 | 2023-05-05 | 242,495 | 1 |
 | 2023-05-06 | 242,565 | 1 |
-| 2023-05-07 | 242,608 | 1 |
+| 2023-05-07 | 242,616 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

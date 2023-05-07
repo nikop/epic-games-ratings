@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 53.00% | ~78 |
-| Chest ✔ | 50.00% | ~74 |
-| Inventory ✔ | 47.00% | ~70 |
+| Chest ✔ | 51.00% | ~75 |
+| Inventory ✔ | 48.00% | ~71 |
 | Police officers ✔ | 22.00% | ~33 |
-| Mutation ✔ | 21.00% | ~31 |
-| Doberman ✔ | 10.00% | ~15 |
+| Mutation ✔ | 22.00% | ~33 |
+| Doberman ✔ | 11.00% | ~16 |
 | Survival ✔ | 7.00% | ~10 |
-| Master of Unlocking ✔ | 6.00% | ~9 |
-| Chess ✔ | 6.00% | ~9 |
+| Master of Unlocking ✔ | 7.00% | ~10 |
+| Chess ✔ | 7.00% | ~10 |
 | Weapon ✔ | 6.00% | ~9 |
 | Hospital ✔ | 5.00% | ~7 |
 | Thirst ✔ | 5.00% | ~7 |

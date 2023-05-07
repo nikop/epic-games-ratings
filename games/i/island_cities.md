@@ -8,9 +8,9 @@
 | A tiny town | 82.00% | ~49 |
 | Buildings, roads, cars, ...and people | 67.00% | ~40 |
 | Great view from the beach and from the hill | 58.00% | ~35 |
-| Bridges to come and go | 52.00% | ~31 |
-| Found an oasis | 38.00% | ~23 |
-| Burger or pizza? | 35.00% | ~21 |
+| Bridges to come and go | 53.00% | ~32 |
+| Found an oasis | 40.00% | ~24 |
+| Burger or pizza? | 37.00% | ~22 |
 | Passion for sports | 30.00% | ~18 |
 | Who loves trains? | 27.00% | ~16 |
 | Easy and steady climb | 27.00% | ~16 |

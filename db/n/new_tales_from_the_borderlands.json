@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.07,
   "RatingHistory": [
     {
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3379,
+  "EOS_Progressed": 3380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -270,6 +270,11 @@
       "Time": "2023-05-07T10:07:47.4265768+00:00",
       "NumProgressed": 3379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T16:07:14.5389492+00:00",
+      "NumProgressed": 3380,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -321,7 +326,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -329,7 +334,7 @@
       "Name": "From Zeroes...",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -361,7 +366,7 @@
       "Name": "...To Heroes",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -393,7 +398,7 @@
       "Name": "We\u0027re In",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -488,7 +493,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3379,
+      "Progressed": 3380,
       "Completed": 0
     }
   ],
@@ -496,8 +501,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "LastChanged_Achievements": "2023-05-07T15:06:42.320973+00:00",
+  "LastChanged_Achievements": "2023-05-07T16:07:14.5389485+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.7717422+00:00",
-  "LastUpdate_Ratings": "2023-05-07T15:00:36.5862164+00:00",
-  "LastUpdate_Achievements": "2023-05-07T15:06:42.320996+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:01:07.4066199+00:00",
+  "LastUpdate_Achievements": "2023-05-07T16:07:14.5389871+00:00"
 }

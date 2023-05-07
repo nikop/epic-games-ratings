@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 37,
   "Rating": 4.77,
   "RatingHistory": [
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5567,
+  "EOS_Progressed": 5571,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -972,6 +972,11 @@
       "Time": "2023-05-07T15:06:16.9102104+00:00",
       "NumProgressed": 5567,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-07T16:06:45.292444+00:00",
+      "NumProgressed": 5571,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1055,7 +1060,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1071,7 +1076,7 @@
       "Name": "Historian",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ICONOCLAST",
@@ -1079,7 +1084,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "IN_A_PINCH",
@@ -1111,7 +1116,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "SNIP_SNIP",
@@ -1135,7 +1140,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "THING",
@@ -1150,7 +1155,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5567,
+      "Progressed": 5571,
       "Completed": 20
     }
   ],
@@ -1158,8 +1163,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-07T15:06:16.91021+00:00",
+  "LastChanged_Achievements": "2023-05-07T16:06:45.2924434+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:59:08.7218996+00:00",
-  "LastUpdate_Achievements": "2023-05-07T15:06:16.9102295+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:59:18.6275895+00:00",
+  "LastUpdate_Achievements": "2023-05-07T16:06:45.2924692+00:00"
 }

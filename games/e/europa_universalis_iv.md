@@ -6,39 +6,39 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,848 |
-| That's a Grand Army | 8.00% | ~2,532 |
-| That is mine! | 8.00% | ~2,532 |
-| Victorious! | 8.00% | ~2,532 |
-| Brothers in Arms | 6.00% | ~1,899 |
-| That's a Grand Navy | 6.00% | ~1,899 |
-| Seriously?! | 6.00% | ~1,899 |
-| For the Glory | 5.00% | ~1,582 |
-| Cold War | 4.00% | ~1,266 |
-| True Catholic | 4.00% | ~1,266 |
-| Defender of the Faith | 3.00% | ~949 |
-| It's all about the money | 3.00% | ~949 |
-| Respected | 3.00% | ~949 |
-| Blockader | 2.00% | ~633 |
-| Combined Arms | 2.00% | ~633 |
-| Double the Love | 2.00% | ~633 |
-| Gentle Persuasion | 2.00% | ~633 |
-| It's all about luck | 2.00% | ~633 |
-| Queen of Conquest | 2.00% | ~633 |
-| Royal Authority | 2.00% | ~633 |
-| The Princess is in this Castle | 2.00% | ~633 |
-| Total Control | 2.00% | ~633 |
-| Truly Divine Ruler | 2.00% | ~633 |
-| Agressive Expander | 1.00% | ~316 |
-| Azur semé de lis or | 1.00% | ~316 |
-| Bright Spark | 1.00% | ~316 |
-| Factionalism | 1.00% | ~316 |
-| A Golden Empire | 1.00% | ~316 |
-| My armies are invincible! | 1.00% | ~316 |
+| Until death do us apart | 9.00% | ~2,853 |
+| That's a Grand Army | 8.00% | ~2,536 |
+| That is mine! | 8.00% | ~2,536 |
+| Victorious! | 8.00% | ~2,536 |
+| Brothers in Arms | 6.00% | ~1,902 |
+| That's a Grand Navy | 6.00% | ~1,902 |
+| Seriously?! | 6.00% | ~1,902 |
+| For the Glory | 5.00% | ~1,585 |
+| Cold War | 4.00% | ~1,268 |
+| True Catholic | 4.00% | ~1,268 |
+| Defender of the Faith | 3.00% | ~951 |
+| It's all about the money | 3.00% | ~951 |
+| Respected | 3.00% | ~951 |
+| Blockader | 2.00% | ~634 |
+| Combined Arms | 2.00% | ~634 |
+| Double the Love | 2.00% | ~634 |
+| Gentle Persuasion | 2.00% | ~634 |
+| It's all about luck | 2.00% | ~634 |
+| Queen of Conquest | 2.00% | ~634 |
+| Royal Authority | 2.00% | ~634 |
+| The Princess is in this Castle | 2.00% | ~634 |
+| Total Control | 2.00% | ~634 |
+| Truly Divine Ruler | 2.00% | ~634 |
+| Agressive Expander | 1.00% | ~317 |
+| Azur semé de lis or | 1.00% | ~317 |
+| Bright Spark | 1.00% | ~317 |
+| Factionalism | 1.00% | ~317 |
+| A Golden Empire | 1.00% | ~317 |
+| My armies are invincible! | 1.00% | ~317 |
 | All That's Thine Shall Be Mine | 0.90% | ~285 |
 | City of Cities | 0.90% | ~285 |
-| Isn't this the way to India? | 0.80% | ~253 |
-| The Five Colonies | 0.80% | ~253 |
+| Isn't this the way to India? | 0.80% | ~254 |
+| The Five Colonies | 0.80% | ~254 |
 | Market Control | 0.70% | ~222 |
 | Down Under | 0.60% | ~190 |
 | The Emperors new clothes | 0.60% | ~190 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,648 (Ranked 81)  
+Progressed: 31,696 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,10 +378,10 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
-| 2023-05-07 | 31,648 | 0 |
+| 2023-05-07 | 31,696 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
-Sum: 42,893 (Ranked 26)  
+Sum: 42,902 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -390,7 +390,7 @@ Diff (max vs sum): 34
 | This game has Challenging Combat | 4,952 |
 | This game is Extremely Fun | 4,915 |
 | This game has Diverse Characters | 4,877 |
-| This game is Relaxing | 4,826 |
+| This game is Relaxing | 4,835 |
 | This game has Competitive Players | 4,653 |
 | This game has Amazing Storytelling | 4,420 |
 | This game has Amazing Characters | 4,090 |
@@ -508,4 +508,4 @@ Diff (max vs sum): 34
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
 | 2023-05-05 | 4.68 | - | 5,170 | 42,780 |
 | 2023-05-06 | 4.68 | - | 5,181 | 42,857 |
-| 2023-05-07 | 4.68 | - | 5,190 | 42,893 |
+| 2023-05-07 | 4.68 | - | 5,190 | 42,902 |

@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,145 |
-| Man of politics | 36.00% | ~4,410 |
-| Friends of sorts | 35.00% | ~4,288 |
-| Yet another secret | 35.00% | ~4,288 |
-| Let there be darkness | 34.00% | ~4,165 |
-| End of Book One | 31.00% | ~3,798 |
-| Wannabe knight | 25.00% | ~3,063 |
-| Garden of Eden | 25.00% | ~3,063 |
-| Full house | 25.00% | ~3,063 |
-| Help an old friend | 22.00% | ~2,695 |
+| Tattletale | 42.00% | ~5,147 |
+| Man of politics | 36.00% | ~4,411 |
+| Friends of sorts | 35.00% | ~4,289 |
+| Yet another secret | 35.00% | ~4,289 |
+| Let there be darkness | 34.00% | ~4,166 |
+| End of Book One | 31.00% | ~3,799 |
+| Wannabe knight | 25.00% | ~3,064 |
+| Garden of Eden | 25.00% | ~3,064 |
+| Full house | 25.00% | ~3,064 |
+| Help an old friend | 22.00% | ~2,696 |
 | Two of us | 21.00% | ~2,573 |
 | Negotiation skills | 19.00% | ~2,328 |
 | Workers' union | 19.00% | ~2,328 |
-| End of Book Two | 18.00% | ~2,205 |
+| End of Book Two | 18.00% | ~2,206 |
 | Everything's in order | 17.00% | ~2,083 |
 | Jack was here! | 15.00% | ~1,838 |
-| Twist of Fate | 14.00% | ~1,715 |
-| Exterminator | 14.00% | ~1,715 |
+| Twist of Fate | 14.00% | ~1,716 |
+| Exterminator | 14.00% | ~1,716 |
 | Whodunnit | 13.00% | ~1,593 |
 | Good midwife | 11.00% | ~1,348 |
 | Friar Tuck | 11.00% | ~1,348 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~368 |
 | Boy of mystery | 2.00% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,251 (Ranked 101)  
+Progressed: 12,254 (Ranked 101)  
 Completed: 93 (0.76%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 93 (0.76%) (Ranked 89)
 | 2023-05-04 | 12,177 | 91 |
 | 2023-05-05 | 12,190 | 91 |
 | 2023-05-06 | 12,226 | 92 |
-| 2023-05-07 | 12,251 | 93 |
+| 2023-05-07 | 12,254 | 93 |
 ## Awards
 Max (Easy Puzzles): 147  (Ranked 285)  
 Sum: 186 (Ranked 354)  

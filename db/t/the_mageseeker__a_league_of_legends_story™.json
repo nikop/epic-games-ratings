@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.73,
   "RatingHistory": [
     {
@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 1911,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1111,9 +1111,9 @@
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1758
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1360,8 +1360,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-07T15:06:19.2175437+00:00",
+  "LastChanged_Achievements": "2023-05-07T16:06:48.2949273+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:58:51.730186+00:00",
-  "LastUpdate_Achievements": "2023-05-07T15:06:19.2175951+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:58:56.8303665+00:00",
+  "LastUpdate_Achievements": "2023-05-07T16:06:48.2949997+00:00"
 }

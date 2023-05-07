@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.58,
   "NumberOfRatings": 371,
   "RatingHistory": [
@@ -490,9 +490,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2581,
+  "EOS_Progressed": 2582,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -684,6 +684,11 @@
     {
       "Time": "2023-05-07T06:07:07.0188566+00:00",
       "NumProgressed": 2581,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T16:07:04.3363743+00:00",
+      "NumProgressed": 2582,
       "NumCompleted": 0
     }
   ],
@@ -888,7 +893,7 @@
       "Name": "Executioner",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "Kills_Exterminator",
@@ -944,7 +949,7 @@
       "Name": "An Ill Omen",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1167,21 +1172,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2581,
+      "Progressed": 2582,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2581,
+      "Progressed": 2582,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-04T02:58:02.1888836+00:00",
-  "LastChanged_Achievements": "2023-05-07T15:06:32.9721176+00:00",
+  "LastChanged_Achievements": "2023-05-07T16:07:04.3363737+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.7346834+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:59:50.9317512+00:00",
-  "LastUpdate_Achievements": "2023-05-07T15:06:32.9721717+00:00"
+  "LastUpdate_Ratings": "2023-05-07T16:00:07.5983093+00:00",
+  "LastUpdate_Achievements": "2023-05-07T16:07:04.3364285+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 19.00% | ~8,749 |
+| Follow the Light | 19.00% | ~8,750 |
 | Let There Be Light | 16.00% | ~7,368 |
-| Float Like a Butterfly | 15.00% | ~6,907 |
+| Float Like a Butterfly | 15.00% | ~6,908 |
 | Nordic Walking | 13.00% | ~5,986 |
 | Bright Falls' Finest | 12.00% | ~5,526 |
-| Under a Thin Layer of Skin | 11.00% | ~5,065 |
+| Under a Thin Layer of Skin | 11.00% | ~5,066 |
 | Park Ranger | 9.00% | ~4,144 |
 | Back! Back, I Say! | 9.00% | ~4,144 |
 | Finders Keepers | 9.00% | ~4,144 |
@@ -22,13 +22,13 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 8.00% | ~3,684 |
 | Damn Good Cup of Coffee | 8.00% | ~3,684 |
 | A Friend in Need | 8.00% | ~761 |
-| Heavy Metal | 7.00% | ~3,223 |
-| Iron Horse | 7.00% | ~3,223 |
-| Perchance to Dream | 7.00% | ~3,223 |
-| The Six-Gun Scribe | 7.00% | ~3,223 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,223 |
-| Collateral Carnage | 7.00% | ~3,223 |
-| Come One, Come All | 7.00% | ~3,223 |
+| Heavy Metal | 7.00% | ~3,224 |
+| Iron Horse | 7.00% | ~3,224 |
+| Perchance to Dream | 7.00% | ~3,224 |
+| The Six-Gun Scribe | 7.00% | ~3,224 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,224 |
+| Collateral Carnage | 7.00% | ~3,224 |
+| Come One, Come All | 7.00% | ~3,224 |
 | Gatekeeper | 6.00% | ~2,763 |
 | The Lady of the Light | 6.00% | ~2,763 |
 | Thunder and Lightning | 6.00% | ~2,763 |
@@ -40,13 +40,13 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 5.00% | ~2,302 |
 | Ding! | 5.00% | ~476 |
 | Departure | 4.00% | ~1,842 |
-| Children of the Elder God | 3.00% | ~1,381 |
-| Drink 'Em Both Up | 3.00% | ~1,381 |
-| Hardboiled Writer | 3.00% | ~1,381 |
-| If It Flies, It Burns | 3.00% | ~1,381 |
-| KBF-FM | 3.00% | ~1,381 |
-| Kill Your Darlings | 3.00% | ~285 |
-| Heartbreaker | 3.00% | ~285 |
+| Children of the Elder God | 3.00% | ~1,382 |
+| Drink 'Em Both Up | 3.00% | ~1,382 |
+| Hardboiled Writer | 3.00% | ~1,382 |
+| If It Flies, It Burns | 3.00% | ~1,382 |
+| KBF-FM | 3.00% | ~1,382 |
+| Kill Your Darlings | 3.00% | ~286 |
+| Heartbreaker | 3.00% | ~286 |
 | Boob Tube | 2.00% | ~921 |
 | Carny | 2.00% | ~921 |
 | Iron Will | 2.00% | ~190 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,047 (Ranked 74)  
+Progressed: 46,050 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 44 (0.10%) (Ranked 151)
 | 2023-05-04 | 45,993 | 44 |
 | 2023-05-05 | 46,013 | 44 |
 | 2023-05-06 | 46,035 | 44 |
-| 2023-05-07 | 46,047 | 44 |
+| 2023-05-07 | 46,050 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
