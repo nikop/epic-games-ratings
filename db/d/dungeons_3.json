@@ -1952,9 +1952,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 14997,
+  "EOS_Progressed": 14998,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 996,
+  "EOS_NewPlayers": 991,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -3292,6 +3292,11 @@
       "Time": "2023-05-07T03:06:32.1695167+00:00",
       "NumProgressed": 14997,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-05-07T04:06:56.7745404+00:00",
+      "NumProgressed": 14998,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 60,
@@ -3303,7 +3308,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 8998
+      "UsersEstimate": 8999
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -3319,7 +3324,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 8848
+      "UsersEstimate": 8849
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -3343,7 +3348,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -3399,7 +3404,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -3415,7 +3420,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 7648
+      "UsersEstimate": 7649
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -3575,7 +3580,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -3607,7 +3612,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -3615,7 +3620,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -3655,7 +3660,7 @@
       "Name": "The Force disturbed",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -3703,7 +3708,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 10498
+      "UsersEstimate": 10499
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -3727,7 +3732,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -3735,7 +3740,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -3759,7 +3764,7 @@
       "Name": "Lifeguard",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -3782,15 +3787,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 14997,
+      "Progressed": 14998,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-06T01:51:44.8811734+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:06:32.1695163+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:06:56.7745401+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.7377244+00:00",
-  "LastUpdate_Ratings": "2023-05-07T03:00:20.5653795+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:06:32.1695768+00:00"
+  "LastUpdate_Ratings": "2023-05-07T04:00:39.7806117+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:06:56.7745893+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "RatingHistory": [
     {
       "Time": "2023-05-04T05:57:24.2490301+00:00",
@@ -545,9 +545,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "16",
@@ -561,9 +561,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "18",
@@ -617,9 +617,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "24",
@@ -641,9 +641,9 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "27",
@@ -665,9 +665,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "3",
@@ -817,9 +817,9 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "47",
@@ -841,9 +841,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "5",
@@ -857,17 +857,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "7",
@@ -906,8 +906,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:06:30.3671417+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:06:54.2599771+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:58:50.9474761+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:06:30.3671864+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:58:43.5036296+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:06:54.2600111+00:00"
 }

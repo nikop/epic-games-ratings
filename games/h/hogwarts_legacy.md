@@ -5,14 +5,14 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,297 |
-| Grappling with a Graphorn | 5.00% | ~13,297 |
-| The One Who Mastered Memories | 5.00% | ~13,297 |
-| The Hallowed Hero | 5.00% | ~13,297 |
-| The Hero of Hogwarts | 5.00% | ~13,297 |
-| The Defender of Dragons | 5.00% | ~13,297 |
-| Coasting Along | 5.00% | ~13,297 |
-| Rising From the Ashes | 5.00% | ~13,297 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,298 |
+| Grappling with a Graphorn | 5.00% | ~13,298 |
+| The One Who Mastered Memories | 5.00% | ~13,298 |
+| The Hallowed Hero | 5.00% | ~13,298 |
+| The Hero of Hogwarts | 5.00% | ~13,298 |
+| The Defender of Dragons | 5.00% | ~13,298 |
+| Coasting Along | 5.00% | ~13,298 |
+| Rising From the Ashes | 5.00% | ~13,298 |
 | The Avenging Gazelle | 4.00% | ~10,638 |
 | Beast Friends | 4.00% | ~10,638 |
 | A Sallow Grave | 4.00% | ~10,638 |
@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 103)
 | First Class Student | 4.00% | ~10,638 |
 | Troll with the Punches | 4.00% | ~10,638 |
 | That's a Keeper | 4.00% | ~10,638 |
-| The Seeker of Knowledge | 3.00% | ~7,978 |
-| The Root of the Problem | 3.00% | ~7,978 |
-| Third Time's a Charm | 3.00% | ~7,978 |
-| Raising Expectations | 3.00% | ~7,978 |
+| The Seeker of Knowledge | 3.00% | ~7,979 |
+| The Root of the Problem | 3.00% | ~7,979 |
+| Third Time's a Charm | 3.00% | ~7,979 |
+| Raising Expectations | 3.00% | ~7,979 |
 | The Toast of the Town | 2.00% | ~5,319 |
 | Going Through the Potions | 2.00% | ~5,319 |
 | Room with a View | 2.00% | ~5,319 |
@@ -37,11 +37,11 @@ Rating: 4.77 (Ranked 103)
 | The Intrepid Explorer | 2.00% | ~5,319 |
 | The Gryffindor in the Graveyard | 2.00% | ~5,319 |
 | The Ends Petrify the Means | 2.00% | ~5,319 |
-| The Good Samaritan | 1.00% | ~2,659 |
-| Put Down Roots | 1.00% | ~2,659 |
-| The Auror's Apprentice | 1.00% | ~2,659 |
-| Rise to the Challenges | 1.00% | ~2,659 |
-| The Wise Owl | 1.00% | ~2,659 |
+| The Good Samaritan | 1.00% | ~2,660 |
+| Put Down Roots | 1.00% | ~2,660 |
+| The Auror's Apprentice | 1.00% | ~2,660 |
+| Rise to the Challenges | 1.00% | ~2,660 |
+| The Wise Owl | 1.00% | ~2,660 |
 | Finishing Touches | 0.90% | ~2,394 |
 | Savvy Spender | 0.70% | ~1,862 |
 | Demiguise Dread | 0.70% | ~1,862 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,948 (Ranked 38)  
+Progressed: 265,954 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 265,948 | 351 |
+| 2023-05-07 | 265,954 | 351 |
 ## Awards
 Max (Character Customization): 18,430  (Ranked 18)  
 Sum: 33,639 (Ranked 34)  

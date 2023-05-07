@@ -6,11 +6,11 @@ Rating: 4.67 (Ranked 255)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~18,775 |
-| Mods Please Ban | 77.00% | ~17,417 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,191 |
+| Mods Please Ban | 77.00% | ~17,418 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,192 |
 | Fallout Doesn't Let You Do This | 73.00% | ~16,513 |
 | First Bounty Down | 59.00% | ~13,346 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,893 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,894 |
 | Luglox Genocide | 43.00% | ~9,727 |
 | Playing Card To Get | 33.00% | ~7,465 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,465 |
@@ -21,8 +21,8 @@ Rating: 4.67 (Ranked 255)
 | Are You Packin'? | 24.00% | ~5,429 |
 | RIP Davey Glutes | 24.00% | ~5,429 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,429 |
-| Hardest Battle In The Game | 22.00% | ~4,976 |
-| Series Wrap on Suit-O | 22.00% | ~4,976 |
+| Hardest Battle In The Game | 22.00% | ~4,977 |
+| Series Wrap on Suit-O | 22.00% | ~4,977 |
 | Lezduit! | 20.00% | ~4,524 |
 | Who's The Boss? | 20.00% | ~4,524 |
 | Self-Actualization | 19.00% | ~4,298 |
@@ -30,7 +30,7 @@ Rating: 4.67 (Ranked 255)
 | Legendary Bounty Hunter | 18.00% | ~4,072 |
 | Seeing All The Sights | 16.00% | ~3,619 |
 | Carried Stan's Load To Completion | 13.00% | ~2,941 |
-| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,714 |
+| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,715 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,036 |
 | Sequel-Bait | 8.00% | ~1,810 |
 | Gunning For Your Job | 7.00% | ~1,583 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 255)
 | Epic Legendary Prize | 1.00% | ~226 |
 | A Starfish Is Born | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,620 (Ranked 87)  
+Progressed: 22,621 (Ranked 87)  
 Completed: 8 (0.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 8 (0.04%) (Ranked 168)
 | 2023-05-04 | 22,611 | 8 |
 | 2023-05-05 | 22,617 | 8 |
 | 2023-05-06 | 22,618 | 8 |
-| 2023-05-07 | 22,620 | 8 |
+| 2023-05-07 | 22,621 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

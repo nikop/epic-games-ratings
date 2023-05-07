@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Glass Act | 29.00% | ~5 |
-| Relight my Cannon | 24.00% | ~4 |
+| Relight my Cannon | 29.00% | ~5 |
 | Backstory Buff | 12.00% | ~2 |
 | Codebreaker | 12.00% | ~2 |
 | Flying High | 12.00% | ~2 |

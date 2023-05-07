@@ -4049,9 +4049,9 @@
       "Count": 1039
     }
   ],
-  "EOS_Progressed": 3466997,
+  "EOS_Progressed": 3467468,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 95510,
+  "EOS_NewPlayers": 95078,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5434,6 +5434,11 @@
       "Time": "2023-05-07T03:07:06.8184631+00:00",
       "NumProgressed": 3466997,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-07T04:07:40.1098523+00:00",
+      "NumProgressed": 3467468,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 78,
@@ -5445,7 +5450,7 @@
       "Name": "Flight of the Crane",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 2946947
+      "UsersEstimate": 2947348
     },
     {
       "ID": "ACH_10",
@@ -5453,7 +5458,7 @@
       "Name": "The Whole Story",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 34670
+      "UsersEstimate": 34675
     },
     {
       "ID": "ACH_11",
@@ -5461,7 +5466,7 @@
       "Name": "Disaster Recovery",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 242690
+      "UsersEstimate": 242723
     },
     {
       "ID": "ACH_12",
@@ -5469,7 +5474,7 @@
       "Name": "We\u0027re All In This Together",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 104010
+      "UsersEstimate": 104024
     },
     {
       "ID": "ACH_13",
@@ -5485,7 +5490,7 @@
       "Name": "Bolter Hunting",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 69340
+      "UsersEstimate": 69349
     },
     {
       "ID": "ACH_15",
@@ -5493,7 +5498,7 @@
       "Name": "I\u0027m a Runner and a fighter",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 17335
+      "UsersEstimate": 17337
     },
     {
       "ID": "ACH_16",
@@ -5501,7 +5506,7 @@
       "Name": "Lucky 7",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34670
+      "UsersEstimate": 34675
     },
     {
       "ID": "ACH_17",
@@ -5509,7 +5514,7 @@
       "Name": "Harran Athletics",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 69340
+      "UsersEstimate": 69349
     },
     {
       "ID": "ACH_18",
@@ -5517,7 +5522,7 @@
       "Name": "Trade Company",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 970759
+      "UsersEstimate": 970891
     },
     {
       "ID": "ACH_19",
@@ -5533,7 +5538,7 @@
       "Name": "My left or your left?",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 1768168
+      "UsersEstimate": 1768409
     },
     {
       "ID": "ACH_20",
@@ -5541,7 +5546,7 @@
       "Name": "Now It\u0027s Safe",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 173350
+      "UsersEstimate": 173373
     },
     {
       "ID": "ACH_21",
@@ -5549,7 +5554,7 @@
       "Name": "Pheidippides",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 554720
+      "UsersEstimate": 554795
     },
     {
       "ID": "ACH_22",
@@ -5557,7 +5562,7 @@
       "Name": "Mount Everest",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 208020
+      "UsersEstimate": 208048
     },
     {
       "ID": "ACH_23",
@@ -5565,7 +5570,7 @@
       "Name": "Is It Really Necessary?",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3120297
+      "UsersEstimate": 3120721
     },
     {
       "ID": "ACH_24",
@@ -5573,7 +5578,7 @@
       "Name": "Everybody Dance Now",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 450710
+      "UsersEstimate": 450771
     },
     {
       "ID": "ACH_25",
@@ -5581,7 +5586,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1248119
+      "UsersEstimate": 1248288
     },
     {
       "ID": "ACH_26",
@@ -5589,7 +5594,7 @@
       "Name": "This is Harraaaaan!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13868
+      "UsersEstimate": 13870
     },
     {
       "ID": "ACH_27",
@@ -5597,7 +5602,7 @@
       "Name": "Mouths Wide Open",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1248119
+      "UsersEstimate": 1248288
     },
     {
       "ID": "ACH_28",
@@ -5605,7 +5610,7 @@
       "Name": "Hush, Hush Now",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 762739
+      "UsersEstimate": 762843
     },
     {
       "ID": "ACH_29",
@@ -5613,7 +5618,7 @@
       "Name": "BBQ",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 312030
+      "UsersEstimate": 312072
     },
     {
       "ID": "ACH_3",
@@ -5621,7 +5626,7 @@
       "Name": "Snake in the grass",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 970759
+      "UsersEstimate": 970891
     },
     {
       "ID": "ACH_30",
@@ -5629,7 +5634,7 @@
       "Name": "A Game of Catch",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 208020
+      "UsersEstimate": 208048
     },
     {
       "ID": "ACH_31",
@@ -5637,7 +5642,7 @@
       "Name": "Harran Shooting Club",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1040099
+      "UsersEstimate": 1040240
     },
     {
       "ID": "ACH_32",
@@ -5645,7 +5650,7 @@
       "Name": "Electrified!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6934
+      "UsersEstimate": 6935
     },
     {
       "ID": "ACH_33",
@@ -5653,7 +5658,7 @@
       "Name": "Blinded by the Lights",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 69340
+      "UsersEstimate": 69349
     },
     {
       "ID": "ACH_34",
@@ -5661,7 +5666,7 @@
       "Name": "High Flyer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 104010
+      "UsersEstimate": 104024
     },
     {
       "ID": "ACH_35",
@@ -5669,7 +5674,7 @@
       "Name": "Judo Master",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 69340
+      "UsersEstimate": 69349
     },
     {
       "ID": "ACH_36",
@@ -5677,7 +5682,7 @@
       "Name": "Prom Night",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1490809
+      "UsersEstimate": 1491011
     },
     {
       "ID": "ACH_37",
@@ -5693,7 +5698,7 @@
       "Name": "Little Craftsman",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 3085627
+      "UsersEstimate": 3086047
     },
     {
       "ID": "ACH_39",
@@ -5701,7 +5706,7 @@
       "Name": "Master Crafter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 173350
+      "UsersEstimate": 173373
     },
     {
       "ID": "ACH_4",
@@ -5709,7 +5714,7 @@
       "Name": "Sightseeing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 901419
+      "UsersEstimate": 901542
     },
     {
       "ID": "ACH_40",
@@ -5717,7 +5722,7 @@
       "Name": "Open Sesame",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1178779
+      "UsersEstimate": 1178939
     },
     {
       "ID": "ACH_41",
@@ -5725,7 +5730,7 @@
       "Name": "Everybody Knows Kyle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 970759
+      "UsersEstimate": 970891
     },
     {
       "ID": "ACH_42",
@@ -5733,7 +5738,7 @@
       "Name": "The Legend of Harran",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 624059
+      "UsersEstimate": 624144
     },
     {
       "ID": "ACH_43",
@@ -5741,7 +5746,7 @@
       "Name": "Agile",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1005429
+      "UsersEstimate": 1005566
     },
     {
       "ID": "ACH_44",
@@ -5749,7 +5754,7 @@
       "Name": "Strong",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1178779
+      "UsersEstimate": 1178939
     },
     {
       "ID": "ACH_45",
@@ -5757,7 +5762,7 @@
       "Name": "It\u0027s All In the Writing",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 27736
+      "UsersEstimate": 27740
     },
     {
       "ID": "ACH_46",
@@ -5765,7 +5770,7 @@
       "Name": "I\u0027ve Got Your Back",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1248119
+      "UsersEstimate": 1248288
     },
     {
       "ID": "ACH_47",
@@ -5773,7 +5778,7 @@
       "Name": "Polyamory",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34670
+      "UsersEstimate": 34675
     },
     {
       "ID": "ACH_48",
@@ -5789,7 +5794,7 @@
       "Name": "Gabriel\u0027s Sword",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 138680
+      "UsersEstimate": 138699
     },
     {
       "ID": "ACH_5",
@@ -5797,7 +5802,7 @@
       "Name": "Making Faces",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 762739
+      "UsersEstimate": 762843
     },
     {
       "ID": "ACH_50",
@@ -5805,7 +5810,7 @@
       "Name": "A Long Way Down",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 104010
+      "UsersEstimate": 104024
     },
     {
       "ID": "ACH_51",
@@ -5829,7 +5834,7 @@
       "Name": "Pearls in the Mud",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 208020
+      "UsersEstimate": 208048
     },
     {
       "ID": "ACH_54",
@@ -5837,7 +5842,7 @@
       "Name": "Get the Bozak",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 69340
+      "UsersEstimate": 69349
     },
     {
       "ID": "ACH_55",
@@ -5845,7 +5850,7 @@
       "Name": "Together Till the End",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 13868
+      "UsersEstimate": 13870
     },
     {
       "ID": "ACH_56",
@@ -5853,7 +5858,7 @@
       "Name": "Electric Whisper",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 20802
+      "UsersEstimate": 20805
     },
     {
       "ID": "ACH_57",
@@ -5861,7 +5866,7 @@
       "Name": "Things That Go Ka-Boom",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 24269
+      "UsersEstimate": 24272
     },
     {
       "ID": "ACH_58",
@@ -5869,7 +5874,7 @@
       "Name": "Robin Hood Theory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 69340
+      "UsersEstimate": 69349
     },
     {
       "ID": "ACH_59",
@@ -5877,7 +5882,7 @@
       "Name": "Afraid to get wet?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 381370
+      "UsersEstimate": 381421
     },
     {
       "ID": "ACH_6",
@@ -5885,7 +5890,7 @@
       "Name": "Tied loose end",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 693399
+      "UsersEstimate": 693494
     },
     {
       "ID": "ACH_60",
@@ -5893,7 +5898,7 @@
       "Name": "And you liked him, didn\u0027t you?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 104010
+      "UsersEstimate": 104024
     },
     {
       "ID": "ACH_61",
@@ -5901,7 +5906,7 @@
       "Name": "I was waiting for you for so long",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 173350
+      "UsersEstimate": 173373
     },
     {
       "ID": "ACH_62",
@@ -5909,7 +5914,7 @@
       "Name": "Sweaty palms?",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6934
+      "UsersEstimate": 6935
     },
     {
       "ID": "ACH_63",
@@ -5917,7 +5922,7 @@
       "Name": "It wasn\u0027t that hard, was it?",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34670
+      "UsersEstimate": 34675
     },
     {
       "ID": "ACH_64",
@@ -5925,7 +5930,7 @@
       "Name": "What if you picked the other one?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 104010
+      "UsersEstimate": 104024
     },
     {
       "ID": "ACH_65",
@@ -5933,7 +5938,7 @@
       "Name": "I felt your presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 208020
+      "UsersEstimate": 208048
     },
     {
       "ID": "ACH_66",
@@ -5941,7 +5946,7 @@
       "Name": "You realize it\u0027s only points, don\u0027t you?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 69340
+      "UsersEstimate": 69349
     },
     {
       "ID": "ACH_67",
@@ -5957,7 +5962,7 @@
       "Name": "I don\u0027t approve of mindless fun",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34670
+      "UsersEstimate": 34675
     },
     {
       "ID": "ACH_7",
@@ -5965,7 +5970,7 @@
       "Name": "Now You Can Come In",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 624059
+      "UsersEstimate": 624144
     },
     {
       "ID": "ACH_70",
@@ -5973,7 +5978,7 @@
       "Name": "Beginnings are hard",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6934
+      "UsersEstimate": 6935
     },
     {
       "ID": "ACH_71",
@@ -6005,7 +6010,7 @@
       "Name": "Clavis was a key all along",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 20802
+      "UsersEstimate": 20805
     },
     {
       "ID": "ACH_75",
@@ -6053,7 +6058,7 @@
       "Name": "Vertigo",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 658729
+      "UsersEstimate": 658819
     },
     {
       "ID": "ACH_9",
@@ -6061,22 +6066,22 @@
       "Name": "Bittersweet",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 520050
+      "UsersEstimate": 520120
     }
   ],
   "AchievementSets": [
     {
       "ID": "5fjkg7c",
       "IsBase": true,
-      "Progressed": 3466997,
+      "Progressed": 3467468,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
   "LastChanged": "2023-05-07T02:06:33.7986195+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:07:06.8184626+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:07:40.109852+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.3969685+00:00",
-  "LastUpdate_Ratings": "2023-05-07T03:00:50.4659642+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:07:06.8185588+00:00"
+  "LastUpdate_Ratings": "2023-05-07T04:01:21.3487753+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:07:40.109952+00:00"
 }

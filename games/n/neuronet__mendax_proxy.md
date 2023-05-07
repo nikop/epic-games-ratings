@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 54.00% | ~7 |
-| Hello World | 46.00% | ~6 |
-| I Think, Therefore I Am | 46.00% | ~6 |
-| The Real Beginning | 46.00% | ~6 |
-| Shook Up | 31.00% | ~4 |
-| The Birds and the Bees | 31.00% | ~4 |
-| Vaccinated | 23.00% | ~3 |
-| Warning: Fragile | 23.00% | ~3 |
-| An Acquired Taste | 15.00% | ~2 |
-| Everyone Needs a Break | 15.00% | ~2 |
-| Job Creator | 15.00% | ~2 |
-| Task Master | 15.00% | ~2 |
-| A Little Eccentric | 8.00% | ~1 |
-| A Real Headache | 8.00% | ~1 |
-| A Total Riot | 8.00% | ~1 |
-| A Light in the Dark | 8.00% | ~1 |
-| The Guardian | 8.00% | ~1 |
-| Blood Begets Blood | 8.00% | ~1 |
-| Busybody | 8.00% | ~1 |
-| Endgame | 8.00% | ~1 |
-| The Philosopher | 8.00% | ~1 |
-| Knock Knock | 8.00% | ~1 |
-| Obligatory Fraudulent Baking | 8.00% | ~1 |
-| The Partner | 8.00% | ~1 |
-| Socially Acceptable Insanity | 8.00% | ~1 |
-| The Companion | 8.00% | ~1 |
-| They Flock to Him | 8.00% | ~1 |
-| The Counsellor | 8.00% | ~1 |
-| Zonk! | 8.00% | ~1 |
+| First Day of the Rest of Your Life | 57.00% | ~8 |
+| Hello World | 50.00% | ~7 |
+| I Think, Therefore I Am | 50.00% | ~7 |
+| The Real Beginning | 50.00% | ~7 |
+| The Birds and the Bees | 36.00% | ~5 |
+| Shook Up | 29.00% | ~4 |
+| Warning: Fragile | 29.00% | ~4 |
+| Task Master | 21.00% | ~3 |
+| Vaccinated | 21.00% | ~3 |
+| An Acquired Taste | 14.00% | ~2 |
+| Everyone Needs a Break | 14.00% | ~2 |
+| Job Creator | 14.00% | ~2 |
+| A Little Eccentric | 7.00% | ~1 |
+| A Real Headache | 7.00% | ~1 |
+| A Total Riot | 7.00% | ~1 |
+| A Light in the Dark | 7.00% | ~1 |
+| The Guardian | 7.00% | ~1 |
+| Blood Begets Blood | 7.00% | ~1 |
+| Busybody | 7.00% | ~1 |
+| Endgame | 7.00% | ~1 |
+| The Philosopher | 7.00% | ~1 |
+| Knock Knock | 7.00% | ~1 |
+| Obligatory Fraudulent Baking | 7.00% | ~1 |
+| The Partner | 7.00% | ~1 |
+| Socially Acceptable Insanity | 7.00% | ~1 |
+| The Companion | 7.00% | ~1 |
+| They Flock to Him | 7.00% | ~1 |
+| The Counsellor | 7.00% | ~1 |
+| Zonk! | 7.00% | ~1 |
 | Couldn't Have Planned It Better Myself | 0.00% | ~0 |
 | Double Agent | 0.00% | ~0 |
 | Full Coverage | 0.00% | ~0 |
@@ -53,7 +53,7 @@
 | What They Don't Know Can't Hurt Them | 0.00% | ~0 |
 | Wilful Ignorance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 301)  
+Progressed: 14 (Ranked 301)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 5 | 0 |
 | 2023-05-05 | 10 | 0 |
 | 2023-05-06 | 12 | 0 |
-| 2023-05-07 | 13 | 0 |
+| 2023-05-07 | 14 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

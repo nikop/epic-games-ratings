@@ -912,10 +912,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3627,
       "NumberOfAwardsMax": 2193
+    },
+    {
+      "Time": "2023-05-07T04:01:22.629746+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3628,
+      "NumberOfAwardsMax": 2193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3627,
+  "NumberOfAwards": 3628,
   "NumberOfAwardsMax": 2193,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -959,7 +965,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 185
+      "Count": 186
     },
     {
       "Text": "This game is Extremely Fun",
@@ -982,7 +988,7 @@
   ],
   "EOS_Progressed": 60682,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1998,17 +2004,17 @@
       "ID": "CLAYFACE_1",
       "SetID": "4eo5ebm",
       "Name": "Something in the Clay",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "CLAYFACE_2",
       "SetID": "4eo5ebm",
       "Name": "The Show Mud Go On",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "CLAYFACE_3",
@@ -2142,9 +2148,9 @@
       "ID": "FREEZE_3",
       "SetID": "4eo5ebm",
       "Name": "Cooldown",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -2396,9 +2402,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-06T23:01:10.300955+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:07:06.3243077+00:00",
+  "LastChanged": "2023-05-07T04:01:22.6297458+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:07:39.3579221+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T03:00:51.4527309+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:07:06.3243766+00:00"
+  "LastUpdate_Ratings": "2023-05-07T04:01:22.6297462+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:07:39.3579755+00:00"
 }

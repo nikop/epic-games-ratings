@@ -26,10 +26,10 @@
 | Nightmare Fuel | 31.00% | ~135 |
 | Take Heart | 31.00% | ~135 |
 | The Guardian | 31.00% | ~135 |
+| Ancient Wisdom | 29.00% | ~126 |
 | Frog Facts! | 29.00% | ~126 |
+| All That Glistens | 29.00% | ~126 |
 | It's Pointy! | 29.00% | ~126 |
-| Ancient Wisdom | 28.00% | ~122 |
-| All That Glistens | 28.00% | ~122 |
 | Stronger! | 28.00% | ~122 |
 | Spellbound | 26.00% | ~113 |
 | All Skilled Up! | 26.00% | ~113 |
@@ -38,17 +38,17 @@
 | Stardust | 24.00% | ~104 |
 | Heartbreaker | 24.00% | ~104 |
 | Kidnapped! | 24.00% | ~104 |
+| Pull the Plug | 23.00% | ~100 |
+| All Heart | 23.00% | ~100 |
 | Trick Question! | 23.00% | ~100 |
-| Pull the Plug | 22.00% | ~95 |
 | Soul Slayer | 22.00% | ~95 |
-| All Heart | 22.00% | ~95 |
+| The Downfall | 22.00% | ~95 |
 | Extraordinary! | 22.00% | ~95 |
-| The Downfall | 21.00% | ~91 |
+| Final Showdown | 22.00% | ~95 |
+| Spot of Tea? | 22.00% | ~95 |
+| Going Home | 22.00% | ~95 |
 | Mirror, Mirror | 21.00% | ~91 |
-| Final Showdown | 21.00% | ~91 |
-| Spot of Tea? | 21.00% | ~91 |
-| Going Home | 21.00% | ~91 |
-| Flower Power | 18.00% | ~78 |
+| Flower Power | 19.00% | ~82 |
 | Crowned | 16.00% | ~69 |
 | Shopping Spree! | 13.00% | ~56 |
 | Max Level! | 9.00% | ~39 |

@@ -6,15 +6,16 @@ Rating: 4.17 (Ranked 828)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Protector of Gotham | 0.30% | ~182 |
+| Something in the Clay | 0.30% | ~182 |
+| The Show Mud Go On | 0.30% | ~182 |
 | Quartzer Life Crisis | 0.30% | ~182 |
+| Cooldown | 0.30% | ~182 |
 | Working Hard or Harley Working? | 0.30% | ~182 |
 | Unstoppable Force | 0.30% | ~182 |
 | Gotham Knight | 0.30% | ~182 |
 | The Batman Family | 0.20% | ~121 |
 | End of an Era | 0.20% | ~121 |
 | In Your Element | 0.20% | ~121 |
-| Something in the Clay | 0.20% | ~121 |
-| The Show Mud Go On | 0.20% | ~121 |
 | Rock and a Hard Place | 0.20% | ~121 |
 | Bulldozed | 0.20% | ~121 |
 | Out of Their League | 0.20% | ~121 |
@@ -22,7 +23,6 @@ Rating: 4.17 (Ranked 828)
 | Drone You Out | 0.20% | ~121 |
 | To the Victor Go the Spoils | 0.20% | ~121 |
 | Snow Problem | 0.20% | ~121 |
-| Cooldown | 0.20% | ~121 |
 | Har, Har, Har, Very Funny | 0.20% | ~121 |
 | Get ReQ'd | 0.20% | ~121 |
 | Universal Health Scare | 0.20% | ~121 |
@@ -87,14 +87,14 @@ Completed: 89 (0.15%) (Ranked 140)
 | 2023-05-07 | 60,682 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,193  (Ranked 99)  
-Sum: 3,627 (Ranked 138)  
+Sum: 3,628 (Ranked 138)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,193 |
 | This game is Extremely Fun | 187 |
+| This game is Relaxing | 186 |
 | This game has Quickly Understood Controls | 185 |
-| This game is Relaxing | 185 |
 | This game has Diverse Characters | 181 |
 | This game has Amazing Characters | 178 |
 | This game is Highly Recommended | 176 |
@@ -180,3 +180,4 @@ Diff (max vs sum): -39
 | 2023-05-04 | 4.17 | 2,187 | 3,618 |
 | 2023-05-05 | 4.17 | 2,187 | 3,619 |
 | 2023-05-06 | 4.17 | 2,193 | 3,627 |
+| 2023-05-07 | 4.17 | 2,193 | 3,628 |

@@ -35,8 +35,8 @@ Rating: 4.85 (Ranked 37)
 | Beat-hit mania | 26.00% | ~382 |
 | Well that was a rush! | 24.00% | ~353 |
 | I told you I'd be fine, Peppermint! | 24.00% | ~353 |
+| Check out my moves! | 18.00% | ~265 |
 | Wanna hear my playlist? | 17.00% | ~250 |
-| Check out my moves! | 17.00% | ~250 |
 | Chip-tuned | 16.00% | ~235 |
 | We're Jammin' | 13.00% | ~191 |
 | I think I found your calling, Macaron | 11.00% | ~162 |

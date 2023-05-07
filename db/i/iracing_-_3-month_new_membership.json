@@ -4,8 +4,8 @@
   "ProductSlug": "iracing",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:52.3221702+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.3221699+00:00",
   "LastChanged": "2023-03-31T05:57:52.32217+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.9033064+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:59:02.6287949+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:04:17.2378864+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:58:57.2847421+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:04:14.9812395+00:00"
 }

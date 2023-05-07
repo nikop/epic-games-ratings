@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.73,
   "RatingHistory": [
     {
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1901,
+  "EOS_Progressed": 1902,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -883,6 +883,11 @@
       "Time": "2023-05-07T03:06:38.364874+00:00",
       "NumProgressed": 1901,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T04:07:04.5689118+00:00",
+      "NumProgressed": 1902,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -942,7 +947,7 @@
       "Name": "Elemental master",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -958,7 +963,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -974,7 +979,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -998,7 +1003,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1014,7 +1019,7 @@
       "Name": "Past trauma",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1030,7 +1035,7 @@
       "Name": "Old friend",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1078,7 +1083,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1110,7 +1115,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1118,7 +1123,7 @@
       "Name": "Thornbarrow",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1126,7 +1131,7 @@
       "Name": "Clarion Cove",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1134,7 +1139,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1196,9 +1201,9 @@
       "ID": "STB_PET_DOG",
       "SetID": "3pe2bac",
       "Name": "You can pet the dog",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1141
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1230,7 +1235,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1238,7 +1243,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1310,14 +1315,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1901,
+      "Progressed": 1902,
       "Completed": 1
     }
   ],
@@ -1325,8 +1330,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:06:38.3648734+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:07:04.5689115+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:58:57.1908583+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:06:38.3649244+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:58:51.926742+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:07:04.5689515+00:00"
 }

@@ -2,22 +2,27 @@
   "ID": "012c57ee6be04204b19936827c11620c",
   "Name": "Afterglitch",
   "ProductSlug": "afterglitch-06da0d",
-  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:51.4740406+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T04:06:54.8852091+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -28,7 +33,7 @@
       "ID": "1",
       "SetID": "hnfblp",
       "Name": "I.",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -44,7 +49,7 @@
       "ID": "2",
       "SetID": "hnfblp",
       "Name": "II.",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -52,7 +57,7 @@
       "ID": "3",
       "SetID": "hnfblp",
       "Name": "III.",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -109,13 +114,13 @@
     {
       "ID": "hnfblp",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:51.4740413+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:06:30.7762493+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:06:54.8852089+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4582459+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:59:33.3122906+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:06:30.7762573+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:59:40.5705198+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:06:54.885213+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 49.00% | ~949 |
-| Keeping it classy | 25.00% | ~484 |
+| You're free now! | 49.00% | ~950 |
+| Keeping it classy | 25.00% | ~485 |
 | Welcome to the family | 18.00% | ~349 |
 | The finer things in life | 16.00% | ~310 |
 | Backpacker | 11.00% | ~213 |
 | Go with the Flow | 11.00% | ~213 |
-| Plastic Surgeon | 9.00% | ~174 |
-| The flip trick crown jewel | 9.00% | ~174 |
+| Plastic Surgeon | 9.00% | ~175 |
+| The flip trick crown jewel | 9.00% | ~175 |
 | Keep the dream alive | 8.00% | ~155 |
 | The hard way | 8.00% | ~155 |
 | Good vibes | 7.00% | ~136 |
@@ -28,16 +28,16 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 5.00% | ~97 |
 | Sup widdit big dog! | 5.00% | ~97 |
 | Tight lipslides | 5.00% | ~97 |
-| Commence the Hijinx! | 4.00% | ~77 |
-| DIY Boss | 4.00% | ~77 |
-| Globetrotter | 4.00% | ~77 |
-| Laid back | 4.00% | ~77 |
-| Lines for days | 4.00% | ~77 |
-| Manny Destroys All | 4.00% | ~77 |
-| Prince of Philly | 4.00% | ~77 |
-| Purple passion | 4.00% | ~77 |
-| Renaissance man | 4.00% | ~77 |
-| Tank commander | 4.00% | ~77 |
+| Commence the Hijinx! | 4.00% | ~78 |
+| DIY Boss | 4.00% | ~78 |
+| Globetrotter | 4.00% | ~78 |
+| Laid back | 4.00% | ~78 |
+| Lines for days | 4.00% | ~78 |
+| Manny Destroys All | 4.00% | ~78 |
+| Prince of Philly | 4.00% | ~78 |
+| Purple passion | 4.00% | ~78 |
+| Renaissance man | 4.00% | ~78 |
+| Tank commander | 4.00% | ~78 |
 | Cops called! | 3.00% | ~58 |
 | G.O.A.T. status | 3.00% | ~58 |
 | Hoarder | 3.00% | ~58 |
@@ -47,7 +47,7 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 2.00% | ~39 |
 | Pew-Pew | 2.00% | ~39 |
 | Dipped! | 1.00% | ~19 |
-| That was wheelie fun | 0.80% | ~15 |
+| That was wheelie fun | 0.80% | ~16 |
 | Skatepark hero | 0.70% | ~14 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,937 (Ranked 141)  
+Progressed: 1,939 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 1,928 | 0 |
 | 2023-05-05 | 1,932 | 0 |
 | 2023-05-06 | 1,937 | 0 |
+| 2023-05-07 | 1,939 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 391)  
 Sum: 403 (Ranked 299)  

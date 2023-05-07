@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.46,
   "RatingHistory": [
     {
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242579,
+  "EOS_Progressed": 242580,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1365,6 +1365,11 @@
       "Time": "2023-05-07T03:06:56.2744324+00:00",
       "NumProgressed": 242579,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T04:07:26.7605863+00:00",
+      "NumProgressed": 242580,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -1432,7 +1437,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41238
+      "UsersEstimate": 41239
     },
     {
       "ID": "cantBeKeptDown",
@@ -1616,7 +1621,7 @@
       "Name": "My First Runbow",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 123715
+      "UsersEstimate": 123716
     },
     {
       "ID": "notScared",
@@ -1743,7 +1748,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 242579,
+      "Progressed": 242580,
       "Completed": 1
     }
   ],
@@ -1751,8 +1756,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:06:56.2744319+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:07:26.7605856+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.9561807+00:00",
-  "LastUpdate_Ratings": "2023-05-07T03:00:20.8715866+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:06:56.2744762+00:00"
+  "LastUpdate_Ratings": "2023-05-07T04:00:40.1580372+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:07:26.7606226+00:00"
 }

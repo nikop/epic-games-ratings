@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Checkmate | 2.00% | ~1,059 |
+| Checkmate | 2.00% | ~1,060 |
 | A Brief Tour of the Realms | 1.00% | ~867 |
 | Vecna Out! | 1.00% | ~530 |
 | Pin and Skewer | 0.90% | ~477 |
@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.70% | ~607 |
 | Beast Intentions | 0.60% | ~520 |
 | The Mad Wizard | 0.60% | ~520 |
-| The Ring of Regeneration | 0.50% | ~433 |
+| The Ring of Regeneration | 0.50% | ~434 |
 | Were-verpowered | 0.40% | ~347 |
 | Seeking Allies | 0.40% | ~347 |
 | Are Ya Chicken? | 0.40% | ~347 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,698 (Ranked 59)  
+Progressed: 86,701 (Ranked 59)  
 Completed: 1,809 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,809 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,698 | 1,809 |
+| 2023-05-07 | 86,701 | 1,809 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,822 (Ranked 37)  

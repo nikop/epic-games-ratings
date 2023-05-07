@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.65,
   "NumberOfRatings": 111,
   "RatingHistory": [
@@ -592,9 +592,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1937,
+  "EOS_Progressed": 1939,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -792,6 +792,11 @@
       "Time": "2023-05-06T23:06:17.3337394+00:00",
       "NumProgressed": 1937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T04:06:55.8363447+00:00",
+      "NumProgressed": 1939,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -827,7 +832,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -859,7 +864,7 @@
       "Name": "DIY Boss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -899,7 +904,7 @@
       "Name": "Globetrotter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -955,7 +960,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -963,7 +968,7 @@
       "Name": "Laid back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -971,7 +976,7 @@
       "Name": "Lines for days",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -987,7 +992,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -1019,7 +1024,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -1027,7 +1032,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -1035,7 +1040,7 @@
       "Name": "Purple passion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -1043,7 +1048,7 @@
       "Name": "Renaissance man",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -1075,7 +1080,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -1091,7 +1096,7 @@
       "Name": "That was wheelie fun",
       "Percentage": 0.8,
       "XP": 45,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_THATS-HOW-ITS-DONE",
@@ -1115,7 +1120,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -1179,22 +1184,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1937,
+      "Progressed": 1939,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-06T16:00:52.0787434+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:06:31.3645624+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:06:55.8363444+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.3028704+00:00",
-  "LastUpdate_Ratings": "2023-05-07T03:00:17.5455725+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:06:31.3646017+00:00"
+  "LastUpdate_Ratings": "2023-05-07T04:00:34.2436512+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:06:55.8363751+00:00"
 }

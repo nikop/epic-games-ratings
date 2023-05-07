@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 3.4,
   "RatingHistory": [
     {
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1098,6 +1098,11 @@
       "Time": "2023-05-07T03:06:45.3248963+00:00",
       "NumProgressed": 885,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T04:07:13.0820126+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1293,7 +1298,7 @@
       "Name": "Fellowship Power",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "fourleafclover",
@@ -1347,9 +1352,9 @@
       "ID": "herewegoagain",
       "SetID": "3nl4bcg",
       "Name": "Here We Go Again",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 18
     },
     {
       "ID": "heroinspection",
@@ -1499,9 +1504,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 452
     },
     {
       "ID": "prestigiousx10",
@@ -1669,7 +1674,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "warmachinesarmy",
@@ -1683,9 +1688,9 @@
       "ID": "weeklyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Weekly Quest Completionist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "whatliesbehindthebush",
@@ -1701,14 +1706,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 1
     }
   ],
@@ -1716,8 +1721,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-07T03:06:45.3248956+00:00",
+  "LastChanged_Achievements": "2023-05-07T04:07:13.0820122+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-07T02:59:17.2229578+00:00",
-  "LastUpdate_Achievements": "2023-05-07T03:06:45.3249802+00:00"
+  "LastUpdate_Ratings": "2023-05-07T03:59:18.0178927+00:00",
+  "LastUpdate_Achievements": "2023-05-07T04:07:13.0820781+00:00"
 }

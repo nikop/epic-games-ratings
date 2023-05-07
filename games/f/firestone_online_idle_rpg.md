@@ -5,11 +5,11 @@ Rating: 3.40 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~823 |
-| World Map | 80.00% | ~708 |
+| Victor | 93.00% | ~824 |
+| World Map | 80.00% | ~709 |
 | Temple of Eternals | 55.00% | ~487 |
-| Prestigious | 52.00% | ~460 |
-| Fellowship Power | 38.00% | ~336 |
+| Prestigious | 51.00% | ~452 |
+| Fellowship Power | 38.00% | ~337 |
 | Guild Power | 23.00% | ~204 |
 | Prestigious x10 | 18.00% | ~159 |
 | The game is on | 14.00% | ~124 |
@@ -30,6 +30,7 @@ Rating: 3.40 (Ranked 917)
 | Scientist | 3.00% | ~27 |
 | Background Story | 2.00% | ~18 |
 | Frostfire Liberator | 2.00% | ~18 |
+| Here We Go Again | 2.00% | ~18 |
 | Hunter | 2.00% | ~18 |
 | Mastery | 2.00% | ~18 |
 | Moving Up The Ladder | 2.00% | ~18 |
@@ -40,7 +41,6 @@ Rating: 3.40 (Ranked 917)
 | Ancient Knowledge | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
-| Here We Go Again | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
 | Missions Dedication | 1.00% | ~9 |
 | Mysterious Rock | 1.00% | ~9 |
@@ -62,6 +62,7 @@ Rating: 3.40 (Ranked 917)
 | Ebony Jungle Liberator | 0.30% | ~3 |
 | Training makes a Pro player | 0.30% | ~3 |
 | Transmute | 0.30% | ~3 |
+| Weekly Quest Completionist | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |
@@ -70,7 +71,6 @@ Rating: 3.40 (Ranked 917)
 | Lock And Load | 0.20% | ~2 |
 | Mythic Power | 0.20% | ~2 |
 | Ultimate War Machines | 0.20% | ~2 |
-| Weekly Quest Completionist | 0.20% | ~2 |
 | Angel Power | 0.10% | ~1 |
 | Arena Challenger | 0.10% | ~1 |
 | Cauldron Liberator | 0.10% | ~1 |
@@ -81,7 +81,7 @@ Rating: 3.40 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885 (Ranked 164)  
+Progressed: 886 (Ranked 164)  
 Completed: 1 (0.11%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.11%) (Ranked 148)
 | 2023-05-04 | 838 | 1 |
 | 2023-05-05 | 857 | 1 |
 | 2023-05-06 | 881 | 1 |
-| 2023-05-07 | 885 | 1 |
+| 2023-05-07 | 886 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

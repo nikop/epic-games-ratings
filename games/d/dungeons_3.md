@@ -6,10 +6,10 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~10,498 |
-| The Evilest Evil | 60.00% | ~8,998 |
-| Twistram is devastated | 59.00% | ~8,848 |
-| The Gehenna Stones | 51.00% | ~7,648 |
+| The Shadow strikes | 70.00% | ~10,499 |
+| The Evilest Evil | 60.00% | ~8,999 |
+| Twistram is devastated | 59.00% | ~8,849 |
+| The Gehenna Stones | 51.00% | ~7,649 |
 | No one has to die today! | 47.00% | ~7,049 |
 | Death and destruction! | 46.00% | ~6,899 |
 | The Swamplanders from the swamplands | 45.00% | ~6,749 |
@@ -33,15 +33,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | MASS-O-BOT | 26.00% | ~3,899 |
 | Prepare the grave | 26.00% | ~3,899 |
 | Angel of Fire | 26.00% | ~3,899 |
-| Where there is Light, there is Shadow | 25.00% | ~3,749 |
-| At the foot of Mount Destiny | 24.00% | ~3,599 |
-| The Force disturbed | 23.00% | ~3,449 |
-| The Victorious Evil | 21.00% | ~3,149 |
-| We don’t have time! | 21.00% | ~3,149 |
-| Chorus of damnation | 20.00% | ~2,999 |
-| The Stones’ Power | 19.00% | ~2,849 |
-| Lifeguard | 19.00% | ~2,849 |
-| Flat as a pancake | 18.00% | ~2,699 |
+| Where there is Light, there is Shadow | 25.00% | ~3,750 |
+| At the foot of Mount Destiny | 24.00% | ~3,600 |
+| The Force disturbed | 23.00% | ~3,450 |
+| The Victorious Evil | 21.00% | ~3,150 |
+| We don’t have time! | 21.00% | ~3,150 |
+| Chorus of damnation | 20.00% | ~3,000 |
+| The Stones’ Power | 19.00% | ~2,850 |
+| Lifeguard | 19.00% | ~2,850 |
+| Flat as a pancake | 18.00% | ~2,700 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~2,400 |
 | This is fun, I’m going to keep doing this! | 13.00% | ~1,950 |
 | Then let them eat cake! | 13.00% | ~1,950 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Discoverer | 2.00% | ~300 |
 | Sacrifices! | 2.00% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,997 (Ranked 96)  
+Progressed: 14,998 (Ranked 96)  
 Completed: 142 (0.95%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 142 (0.95%) (Ranked 79)
 | 2023-05-04 | 14,674 | 140 |
 | 2023-05-05 | 14,785 | 141 |
 | 2023-05-06 | 14,973 | 142 |
-| 2023-05-07 | 14,997 | 142 |
+| 2023-05-07 | 14,998 | 142 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 217)  
 Sum: 2,516 (Ranked 165)  

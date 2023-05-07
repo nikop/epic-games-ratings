@@ -18,12 +18,12 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.69% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.82% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
-| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.16% |
+| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
@@ -104,8 +104,8 @@
 | 101 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 103 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 104 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
-| 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
-| 106 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
+| 105 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
+| 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.38% |
 | 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 107 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 109 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
