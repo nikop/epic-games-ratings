@@ -260,11 +260,11 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:24.544527+00:00",
@@ -375,6 +375,11 @@
       "Time": "2023-05-07T09:08:04.387137+00:00",
       "NumProgressed": 849,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-07T15:06:49.0583682+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -402,15 +407,15 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Finish5SideMissions",
       "SetID": "a6c395p",
       "Name": "Helping Hand",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 578
     },
     {
       "ID": "FinishAllSideMissions",
@@ -418,7 +423,7 @@
       "Name": "Paragon",
       "Percentage": 64,
       "XP": 70,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "GatlingVsArmor",
@@ -426,7 +431,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "Kill3InOneDrift",
@@ -434,7 +439,7 @@
       "Name": "Showoff",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "KillWhileDrifting",
@@ -450,7 +455,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "MasteryOfCombat",
@@ -472,9 +477,9 @@
       "ID": "MasteryOfWeapons",
       "SetID": "a6c395p",
       "Name": "Mastery of Weapons",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 255
     },
     {
       "ID": "MissionActivateDish",
@@ -482,7 +487,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -514,7 +519,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -522,7 +527,7 @@
       "Name": "Time to Spear",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -538,7 +543,7 @@
       "Name": "Set in Motion",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "MissionFirstRiftBoss",
@@ -570,7 +575,7 @@
       "Name": "Safe Home",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -586,7 +591,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -610,7 +615,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "MissionShipyard",
@@ -626,7 +631,7 @@
       "Name": "The Path Forward",
       "Percentage": 47,
       "XP": 70,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "MissionTemple",
@@ -642,7 +647,7 @@
       "Name": "Ascension",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "MissionTheiaStep1",
@@ -714,7 +719,7 @@
       "Name": "Space Traveler",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "WinARace",
@@ -729,15 +734,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:07:01.474479+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:49.0583677+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.0894109+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:01:05.3313904+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:07:01.4745149+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:00:59.8801995+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:49.0584015+00:00"
 }

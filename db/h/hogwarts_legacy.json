@@ -1930,10 +1930,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 33706,
       "NumberOfAwardsMax": 18488
+    },
+    {
+      "Time": "2023-05-07T14:58:31.9703498+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33738,
+      "NumberOfAwardsMax": 18488
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33706,
+  "NumberOfAwards": 33738,
   "NumberOfAwardsMax": 18488,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1947,7 +1953,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8615
+      "Count": 8647
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2010,9 +2016,9 @@
       "Count": 455
     }
   ],
-  "EOS_Progressed": 266028,
+  "EOS_Progressed": 266037,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 1246,
+  "EOS_NewPlayers": 1237,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3400,6 +3406,11 @@
       "Time": "2023-05-07T14:06:21.54734+00:00",
       "NumProgressed": 266028,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2023-05-07T15:06:09.7862769+00:00",
+      "NumProgressed": 266037,
+      "NumCompleted": 351
     }
   ],
   "TotalAchievements": 45,
@@ -3411,7 +3422,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "PFA_10",
@@ -3419,7 +3430,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "PFA_11",
@@ -3427,7 +3438,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "PFA_12",
@@ -3435,7 +3446,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "PFA_13",
@@ -3443,7 +3454,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "PFA_14",
@@ -3467,7 +3478,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "PFA_17",
@@ -3667,7 +3678,7 @@
       "Name": "Coasting Along",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     },
     {
       "ID": "PFA_4",
@@ -3763,23 +3774,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13301
+      "UsersEstimate": 13302
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266028,
+      "Progressed": 266037,
       "Completed": 351
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-07T13:58:41.6931322+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:21.5473394+00:00",
+  "LastChanged": "2023-05-07T14:58:31.9703495+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:09.7862766+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:58:41.6931329+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:21.5473834+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:58:31.9703505+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:09.7863211+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 49,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 45,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.2,
@@ -216,9 +216,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183618,
+  "EOS_Progressed": 183627,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1213,
+  "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1616,6 +1616,11 @@
       "Time": "2023-05-07T14:06:55.2643676+00:00",
       "NumProgressed": 183618,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-07T15:06:43.1058433+00:00",
+      "NumProgressed": 183627,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1627,7 +1632,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 14689
+      "UsersEstimate": 14690
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -1635,7 +1640,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130369
+      "UsersEstimate": 130375
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -1659,7 +1664,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33051
+      "UsersEstimate": 33053
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -1731,7 +1736,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3672
+      "UsersEstimate": 3673
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -1754,7 +1759,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183618,
+      "Progressed": 183627,
       "Completed": 4
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-06T20:00:47.8638846+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:55.2643667+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:43.105843+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.0826299+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:00:53.8525881+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:55.2643869+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:00:48.1579035+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:43.1058623+00:00"
 }

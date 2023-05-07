@@ -38,7 +38,7 @@
 | 27 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 458 | 186 |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 414 |
 | 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,524 | 41 |
-| 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,456 | 59 |
+| 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,458 | 59 |
 | 37 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 308 | 222 |
 | 37 | [Grindstone](games/g/grindstone.md) | 4.85 | 0 | 490 |
 | 37 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 490 |
@@ -56,7 +56,7 @@
 | 49 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 490 |
 | 55 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 50 | 385 |
 | 55 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 490 |
-| 55 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 387 | 203 |
+| 55 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 388 | 202 |
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 490 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 345 |
 | 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 490 |
@@ -245,7 +245,7 @@
 | 234 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 490 |
 | 234 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 490 |
 | 234 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 490 |
-| 234 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 193 |
+| 234 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 194 |
 | 234 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 557 | 170 |
 | 234 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 662 | 158 |
 | 234 | [Revita](games/r/revita.md) | 4.68 | 0 | 490 |
@@ -323,7 +323,7 @@
 | 310 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.64 | 0 | 490 |
 | 310 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 368 |
 | 310 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 490 |
-| 310 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 183 | 263 |
+| 310 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 184 | 263 |
 | 325 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.63 | 0 | 490 |
 | 325 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 483 |
 | 325 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 0 | 490 |
@@ -369,7 +369,7 @@
 | 352 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 490 |
 | 352 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,467 | 91 |
 | 352 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 595 | 164 |
-| 352 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 410 | 193 |
+| 352 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 411 | 193 |
 | 352 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 267 | 232 |
 | 352 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 490 |
 | 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,605 | 40 |
@@ -762,13 +762,13 @@
 | 759 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 490 |
 | 759 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,289,048 | 1 |
 | 759 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 681 | 157 |
-| 759 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 407 |
 | 759 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 128 | 293 |
 | 759 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 490 |
-| 766 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 490 |
-| 766 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,436 | 92 |
-| 766 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 124 | 298 |
-| 766 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 421 |
+| 765 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 490 |
+| 765 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.28 | 43 | 407 |
+| 765 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,436 | 92 |
+| 765 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 124 | 298 |
+| 765 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 421 |
 | 770 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 490 |
 | 770 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 224 |
 | 772 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 490 |

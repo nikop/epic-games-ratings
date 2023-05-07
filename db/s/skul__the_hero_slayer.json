@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.71,
   "NumberOfRatings": 546,
@@ -648,10 +648,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 856,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-05-07T15:00:04.0705536+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 857,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 856,
+  "NumberOfAwards": 857,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -689,7 +695,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Amazing Characters",
@@ -722,9 +728,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7172,
+  "EOS_Progressed": 7173,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -832,6 +838,11 @@
       "Time": "2023-05-06T06:06:50.8836886+00:00",
       "NumProgressed": 7172,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-07T15:06:10.3177775+00:00",
+      "NumProgressed": 7173,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -891,7 +902,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -907,7 +918,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -931,7 +942,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "LeoniasFall",
@@ -963,7 +974,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "SavedElderEnt",
@@ -1003,7 +1014,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6670
+      "UsersEstimate": 6671
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1011,7 +1022,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1019,7 +1030,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "WhattoBuy",
@@ -1027,22 +1038,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 5953
+      "UsersEstimate": 5954
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7172,
+      "Progressed": 7173,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-05-04T09:58:55.9104765+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:22.0649635+00:00",
+  "LastChanged": "2023-05-07T15:00:04.0705533+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:10.3177768+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:07.9873627+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:00:11.3028742+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:22.0649814+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:00:04.0705541+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:10.3177946+00:00"
 }

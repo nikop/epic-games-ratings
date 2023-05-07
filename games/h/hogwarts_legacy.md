@@ -5,14 +5,14 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,301 |
-| Grappling with a Graphorn | 5.00% | ~13,301 |
-| The One Who Mastered Memories | 5.00% | ~13,301 |
-| The Hallowed Hero | 5.00% | ~13,301 |
-| The Hero of Hogwarts | 5.00% | ~13,301 |
-| The Defender of Dragons | 5.00% | ~13,301 |
-| Coasting Along | 5.00% | ~13,301 |
-| Rising From the Ashes | 5.00% | ~13,301 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,302 |
+| Grappling with a Graphorn | 5.00% | ~13,302 |
+| The One Who Mastered Memories | 5.00% | ~13,302 |
+| The Hallowed Hero | 5.00% | ~13,302 |
+| The Hero of Hogwarts | 5.00% | ~13,302 |
+| The Defender of Dragons | 5.00% | ~13,302 |
+| Coasting Along | 5.00% | ~13,302 |
+| Rising From the Ashes | 5.00% | ~13,302 |
 | The Avenging Gazelle | 4.00% | ~10,641 |
 | Beast Friends | 4.00% | ~10,641 |
 | A Sallow Grave | 4.00% | ~10,641 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,028 (Ranked 38)  
+Progressed: 266,037 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,15 +68,15 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 266,028 | 351 |
+| 2023-05-07 | 266,037 | 351 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
-Sum: 33,706 (Ranked 33)  
+Sum: 33,738 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 18,488 |
-| This game has Great Boss Battles | 8,615 |
+| This game has Great Boss Battles | 8,647 |
 | This game is Extremely Fun | 746 |
 | This game is Great for Beginners | 724 |
 | This game is Relaxing | 714 |
@@ -134,4 +134,4 @@ Diff (max vs sum): -15
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
 | 2023-05-05 | 4.77 | 18,393 | 33,525 |
 | 2023-05-06 | 4.77 | 18,430 | 33,633 |
-| 2023-05-07 | 4.77 | 18,488 | 33,706 |
+| 2023-05-07 | 4.77 | 18,488 | 33,738 |

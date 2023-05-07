@@ -9,7 +9,7 @@
 | Challenge Accepted | 61.00% | ~39 |
 | Nanonic I | 61.00% | ~39 |
 | Terminated I | 61.00% | ~39 |
-| Unlocked and Loaded | 55.00% | ~35 |
+| Unlocked and Loaded | 56.00% | ~36 |
 | Terminated II | 50.00% | ~32 |
 | Terminated III | 36.00% | ~23 |
 | Nanonic II | 33.00% | ~21 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64 (Ranked 265)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

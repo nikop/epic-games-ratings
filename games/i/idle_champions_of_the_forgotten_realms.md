@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Checkmate | 2.00% | ~1,060 |
+| Checkmate | 2.00% | ~1,061 |
 | A Brief Tour of the Realms | 1.00% | ~868 |
 | Vecna Out! | 1.00% | ~530 |
 | Pin and Skewer | 0.90% | ~477 |
 | Bully for Vecna | 0.70% | ~371 |
 | The Cursed Farmer | 0.70% | ~607 |
-| Beast Intentions | 0.60% | ~520 |
-| The Mad Wizard | 0.60% | ~520 |
+| Beast Intentions | 0.60% | ~521 |
+| The Mad Wizard | 0.60% | ~521 |
 | The Ring of Regeneration | 0.50% | ~434 |
 | Were-verpowered | 0.40% | ~347 |
 | Seeking Allies | 0.40% | ~347 |
@@ -55,6 +55,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~174 |
 | The Dinner Party | 0.20% | ~174 |
 | The Botched Kidnapping | 0.20% | ~174 |
+| Tower on the Lake | 0.20% | ~174 |
 | Trollskull Manor | 0.20% | ~174 |
 | Attack on the Manor | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
@@ -239,7 +240,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | They Who Smelt It | 0.10% | ~87 |
 | Distribute Your Weight | 0.10% | ~87 |
 | Mongrelfolk Incursion | 0.10% | ~53 |
-| Tower on the Lake | 0.10% | ~87 |
 | Only the Strong Survive | 0.10% | ~87 |
 | Shorty's Day Off | 0.10% | ~87 |
 | Intelligence Hunt | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,750 (Ranked 59)  
+Progressed: 86,757 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,750 | 1,810 |
+| 2023-05-07 | 86,757 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,826 (Ranked 37)  

@@ -3,7 +3,7 @@
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
   "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
@@ -226,8 +226,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:52.5938047+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:40.2214158+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:36.4619191+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:00:41.2835813+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:52.5938199+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:00:36.2416854+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:40.2214336+00:00"
 }

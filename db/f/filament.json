@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 17,
   "Rating": 4.32,
   "RatingHistory": [
@@ -180,9 +180,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 189076,
+  "EOS_Progressed": 189081,
   "EOS_Completed": 409,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1590,6 +1590,11 @@
       "Time": "2023-05-07T14:06:42.7756625+00:00",
       "NumProgressed": 189076,
       "NumCompleted": 409
+    },
+    {
+      "Time": "2023-05-07T15:06:30.0144865+00:00",
+      "NumProgressed": 189081,
+      "NumCompleted": 409
     }
   ],
   "TotalAchievements": 29,
@@ -1625,7 +1630,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 177731
+      "UsersEstimate": 177736
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -1801,7 +1806,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13235
+      "UsersEstimate": 13236
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -1832,7 +1837,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 189076,
+      "Progressed": 189081,
       "Completed": 409
     }
   ],
@@ -1840,8 +1845,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-04-27T13:58:35.1849608+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:42.7756619+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:30.0144862+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:02.1474684+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:00:05.6746094+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:42.7756899+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:59:58.6185633+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:30.0145138+00:00"
 }

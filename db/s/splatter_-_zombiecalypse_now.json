@@ -3,7 +3,7 @@
   "Name": "Splatter - Zombiecalypse Now",
   "ProductSlug": "splatter-zombiecalypse-now-73f9d2",
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:44.118573+00:00",
   "LastChanged": "2023-03-31T05:58:44.1185732+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.5577672+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:58:57.2464974+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:01:56.7830906+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:58:47.3585876+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:01:57.0559393+00:00"
 }

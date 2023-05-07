@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 53,
   "Rating": 4.86,
   "NumberOfRatings": 1611,
   "RatingHistory": [
@@ -1059,9 +1059,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118100,
+  "EOS_Progressed": 118103,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2314,6 +2314,11 @@
       "Time": "2023-05-07T14:06:47.7119804+00:00",
       "NumProgressed": 118100,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-07T15:06:34.7701403+00:00",
+      "NumProgressed": 118103,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -2357,7 +2362,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21258
+      "UsersEstimate": 21259
     },
     {
       "ID": "ACH_COP_BAD",
@@ -2381,7 +2386,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28344
+      "UsersEstimate": 28345
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -2405,7 +2410,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33068
+      "UsersEstimate": 33069
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -2437,7 +2442,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23620
+      "UsersEstimate": 23621
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -2565,7 +2570,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_MEDAL",
@@ -2644,15 +2649,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118100,
+      "Progressed": 118103,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:47.7119795+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:34.7701399+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:00:18.2574107+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:47.7120177+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:00:10.8485314+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:34.7701782+00:00"
 }

@@ -43,8 +43,8 @@ Rating: 4.73 (Ranked 156)
 | True power | 11.00% | ~210 |
 | Meltridge | 11.00% | ~210 |
 | Cloven Dell Headquarters | 11.00% | ~210 |
+| Whispers in the Woods IV | 10.00% | ~191 |
 | Embrace the darkness | 9.00% | ~172 |
-| Whispers in the Woods IV | 9.00% | ~172 |
 | I smell fear | 9.00% | ~172 |
 | Chains master | 8.00% | ~153 |
 | The end of the experiments | 8.00% | ~153 |

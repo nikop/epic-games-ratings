@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "RatingHistory": [
     {
       "Time": "2023-03-31T21:57:04.3858766+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2325,
+  "EOS_Progressed": 2327,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
@@ -808,6 +808,11 @@
       "Time": "2023-05-07T12:06:33.5654094+00:00",
       "NumProgressed": 2325,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-05-07T15:06:24.962535+00:00",
+      "NumProgressed": 2327,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 5,
@@ -819,15 +824,15 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2327
     },
     {
       "ID": "2",
       "SetID": "dm385hd",
       "Name": "Traveler",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 93
+      "UsersEstimate": 116
     },
     {
       "ID": "3",
@@ -858,7 +863,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2325,
+      "Progressed": 2327,
       "Completed": 63
     }
   ],
@@ -866,8 +871,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:37.4905049+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:24.9625346+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:37.4953287+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:59:41.178229+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:37.4905158+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:59:30.4050465+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:24.9625495+00:00"
 }

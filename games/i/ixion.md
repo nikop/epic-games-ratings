@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 476)
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,839 (Ranked 145)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

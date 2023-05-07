@@ -4,8 +4,8 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 20,
   "RatingHistory": [
     {
       "Time": "2023-04-27T14:58:11.428016+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 524,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 178,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 6.9,
+  "EOS_NewPlayers": 179,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 6.87,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -998,6 +998,11 @@
       "Time": "2023-05-07T13:09:28.8677645+00:00",
       "NumProgressed": 522,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-05-07T15:06:17.8964651+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 5,
@@ -1009,7 +1014,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 522
+      "UsersEstimate": 524
     },
     {
       "ID": "2",
@@ -1048,7 +1053,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 524,
       "Completed": 36
     }
   ],
@@ -1056,8 +1061,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:30.1067732+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:17.8964647+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:38.6386532+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:58:40.3402757+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:30.1067851+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:58:30.4745061+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:17.8964771+00:00"
 }

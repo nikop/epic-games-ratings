@@ -35,9 +35,9 @@ Rating: 4.44 (Ranked 620)
 | Opposing Force | 11.00% | ~75 |
 | Enemy at the Gates | 11.00% | ~75 |
 | My Little Friend | 9.00% | ~62 |
+| Herr Today, Gone Tomorrow | 9.00% | ~57 |
 | Precision Is Key | 8.00% | ~55 |
 | Rigged to Blow | 8.00% | ~55 |
-| Herr Today, Gone Tomorrow | 8.00% | ~51 |
 | Operation Foxley | 8.00% | ~51 |
 | Last Resort | 7.00% | ~45 |
 | Ghost of Falaise | 6.00% | ~38 |
@@ -53,11 +53,11 @@ Rating: 4.44 (Ranked 620)
 | Locomotion Commotion | 3.00% | ~21 |
 | Road Rage | 3.00% | ~21 |
 | Shoot for the Moon | 3.00% | ~21 |
+| Covert Elimination | 3.00% | ~19 |
 | Out of Scope | 2.00% | ~14 |
 | From Paris with Love | 2.00% | ~14 |
 | Souvenir hunter | 2.00% | ~14 |
 | Reich To The Point | 2.00% | ~13 |
-| Covert Elimination | 2.00% | ~13 |
 | Best of the Best | 1.00% | ~7 |
 | Führerious Repetition | 1.00% | ~6 |
 | Alpha | 1.00% | ~6 |

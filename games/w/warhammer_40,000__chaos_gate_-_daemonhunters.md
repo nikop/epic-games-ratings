@@ -27,11 +27,11 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 6.00% | ~155 |
 | Daemonkeeper | 4.00% | ~103 |
 | A Gift Spurned | 4.00% | ~103 |
+| Long Distance Call | 4.00% | ~103 |
 | Corruption Cleanser | 3.00% | ~77 |
 | Mind Like a Fortress | 3.00% | ~77 |
 | Harvest No More | 3.00% | ~77 |
 | Junk Banishment | 3.00% | ~77 |
-| Long Distance Call | 3.00% | ~77 |
 | Tactical Flexibility | 3.00% | ~77 |
 | Patron of Deimos | 2.00% | ~52 |
 | Preservationist | 2.00% | ~52 |
@@ -67,7 +67,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,581 (Ranked 134)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

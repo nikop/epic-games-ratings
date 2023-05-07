@@ -73,7 +73,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Road Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 326)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,13 +82,13 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 5 | 0 |
 ## Awards
 Max (Character Customization): 6,517  (Ranked 48)  
-Sum: 16,628 (Ranked 57)  
+Sum: 16,631 (Ranked 57)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,517 |
+| This game has Diverse Characters | 1,231 |
 | This game has Challenging Combat | 1,230 |
-| This game has Diverse Characters | 1,228 |
 | This game is Highly Recommended | 1,220 |
 | This game is Extremely Fun | 1,186 |
 | This game has Amazing Characters | 1,173 |
@@ -202,4 +202,4 @@ Diff (max vs sum): -9
 | 2023-05-04 | 4.67 | - | 6,507 | 16,598 |
 | 2023-05-05 | 4.67 | - | 6,514 | 16,606 |
 | 2023-05-06 | 4.67 | - | 6,517 | 16,626 |
-| 2023-05-07 | 4.67 | - | 6,517 | 16,628 |
+| 2023-05-07 | 4.67 | - | 6,517 | 16,631 |

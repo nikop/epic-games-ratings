@@ -3,8 +3,8 @@
   "Name": "NeuroNet: Mendax Proxy",
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -139,9 +139,9 @@
       "ID": "ATOTAL_RIOT",
       "SetID": "2d85n75",
       "Name": "A Total Riot",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AURORA04",
@@ -500,8 +500,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:56.1118393+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:43.9580846+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:00:51.7480635+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:56.1118782+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:00:46.2758143+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:43.9581248+00:00"
 }

@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2530,
+  "EOS_Progressed": 2531,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -453,6 +453,11 @@
       "Time": "2023-05-07T14:07:04.5694079+00:00",
       "NumProgressed": 2530,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-07T15:06:52.0501164+00:00",
+      "NumProgressed": 2531,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 33,
@@ -480,7 +485,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "bonus4",
@@ -512,7 +517,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "campaign10",
@@ -592,7 +597,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "campaign2",
@@ -600,7 +605,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "campaign20",
@@ -608,7 +613,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "campaign3",
@@ -624,7 +629,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "campaign5",
@@ -632,7 +637,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "campaign6",
@@ -648,7 +653,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "campaign8",
@@ -672,7 +677,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "scenario2",
@@ -688,7 +693,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "scenario4",
@@ -696,7 +701,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "scenario5",
@@ -727,7 +732,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2530,
+      "Progressed": 2531,
       "Completed": 8
     }
   ],
@@ -735,8 +740,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:07:04.5694073+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:52.050116+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:01:20.6904949+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:07:04.5694342+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:01:17.4421486+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:52.0501465+00:00"
 }

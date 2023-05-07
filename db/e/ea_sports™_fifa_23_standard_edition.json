@@ -4,9 +4,9 @@
   "ProductSlug": "fifa-23",
   "Ranking_Rating": 782,
   "Ranking_Popularity": 36,
-  "Ranking_PopularitySum": 26,
+  "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.24,
@@ -1834,6 +1834,6 @@
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "LastChanged": "2023-05-07T13:04:22.3808687+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:13.3787471+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:01:15.4866148+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:05:57.2332037+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:01:11.8217359+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:05:44.8065249+00:00"
 }

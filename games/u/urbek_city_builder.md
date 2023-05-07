@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 61.00% | ~83 |
-| I like parks | 47.00% | ~64 |
-| The spiritual world... | 26.00% | ~35 |
-| Sport is good for you | 26.00% | ~35 |
+| Small town | 61.00% | ~84 |
+| I like parks | 46.00% | ~63 |
+| The spiritual world... | 26.00% | ~36 |
 | The woodcutter | 25.00% | ~34 |
+| Sport is good for you | 25.00% | ~34 |
 | It is nice to share with friends in the city | 24.00% | ~33 |
-| I like my life | 21.00% | ~29 |
-| I like books | 20.00% | ~27 |
-| Clean energy | 20.00% | ~27 |
-| Bucolic city | 15.00% | ~20 |
-| Soviet town | 15.00% | ~20 |
-| King of fish | 13.00% | ~18 |
+| I like books | 20.00% | ~28 |
+| I like my life | 20.00% | ~28 |
+| Clean energy | 20.00% | ~28 |
+| Bucolic city | 14.00% | ~19 |
+| Soviet town | 14.00% | ~19 |
+| King of fish | 12.00% | ~17 |
 | I love books! | 11.00% | ~15 |
 | I love parks | 11.00% | ~15 |
-| What would we do if we can't go out with friends? | 10.00% | ~14 |
+| What would we do if we can't go out with friends? | 9.00% | ~12 |
 | Food producer | 7.00% | ~10 |
 | Metropolurbek | 7.00% | ~10 |
 | I am very happy! | 6.00% | ~8 |
-| Read! Everyone should read! | 4.00% | ~5 |
-| Little Mayor | 4.00% | ~5 |
-| Sport is the best thing | 4.00% | ~5 |
+| Read! Everyone should read! | 4.00% | ~6 |
+| Little Mayor | 4.00% | ~6 |
+| Sport is the best thing | 4.00% | ~6 |
 | Banking city | 3.00% | ~4 |
 | Rebel city | 3.00% | ~4 |
 | Temperate builder | 3.00% | ~4 |
@@ -84,8 +84,8 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136 (Ranked 241)  
-Completed: 0 (0.00%) (Ranked 192)  
+Progressed: 138 (Ranked 240)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-02 | 132 | 0 |
 | 2023-05-05 | 133 | 0 |
 | 2023-05-06 | 134 | 0 |
-| 2023-05-07 | 136 | 0 |
+| 2023-05-07 | 138 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

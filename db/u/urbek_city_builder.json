@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_Progress": 240,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -82,6 +82,11 @@
     {
       "Time": "2023-05-07T07:06:55.0004093+00:00",
       "NumProgressed": 136,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T15:06:33.6949044+00:00",
+      "NumProgressed": 138,
       "NumCompleted": 0
     }
   ],
@@ -238,7 +243,7 @@
       "Name": "I like books",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CULTURE_2",
@@ -254,7 +259,7 @@
       "Name": "Read! Everyone should read!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DESIERTO3_1",
@@ -310,7 +315,7 @@
       "Name": "The spiritual world...",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FAITH_2",
@@ -364,9 +369,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "FELIZ_2",
@@ -396,9 +401,9 @@
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "GRANJA_1",
@@ -420,9 +425,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -454,7 +459,7 @@
       "Name": "Clean energy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "MURICA_1",
@@ -484,9 +489,9 @@
       "ID": "NIGHT_LIFE_2",
       "SetID": "44dlcg0",
       "Name": "What would we do if we can\u0027t go out with friends?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "NIGHT_LIFE_3",
@@ -502,7 +507,7 @@
       "Name": "Little Mayor",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "POINTS_20K",
@@ -526,7 +531,7 @@
       "Name": "Small town",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "POPULATION_2",
@@ -612,9 +617,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "SPORTS_2",
@@ -622,7 +627,7 @@
       "Name": "Sport is the best thing",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SPORTS_3",
@@ -700,17 +705,17 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "WELFARE_1",
       "SetID": "44dlcg0",
       "Name": "Soviet town",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "WELFARE_2",
@@ -725,7 +730,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
@@ -733,8 +738,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:46.6415286+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:33.6949041+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:00:09.116342+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:46.6416128+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:00:02.2840931+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:33.6949912+00:00"
 }

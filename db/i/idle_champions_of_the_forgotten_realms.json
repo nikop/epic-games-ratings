@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 8,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3572,9 +3572,9 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86750,
+  "EOS_Progressed": 86757,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4967,6 +4967,11 @@
       "Time": "2023-05-07T14:07:11.1029643+00:00",
       "NumProgressed": 86750,
       "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T15:06:58.4460544+00:00",
+      "NumProgressed": 86757,
+      "NumCompleted": 1810
     }
   ],
   "TotalAchievements": 489,
@@ -5346,7 +5351,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "objective_completed_110",
@@ -5850,7 +5855,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "objective_completed_1204",
@@ -6520,9 +6525,9 @@
       "ID": "objective_completed_262",
       "SetID": "cc37lbc",
       "Name": "Tower on the Lake",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_263",
@@ -8122,7 +8127,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "objective_completed_70",
@@ -8889,21 +8894,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53024,
+      "Progressed": 53031,
       "Completed": 2473
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86750,
+      "Progressed": 86757,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-07T13:01:58.3397221+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:07:11.1029636+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:58.446054+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:59:23.3457763+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:07:11.1054332+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:59:13.2861472+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:58.448382+00:00"
 }

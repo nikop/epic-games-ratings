@@ -17,6 +17,7 @@
 | Job Creator | 27.00% | ~4 |
 | Task Master | 27.00% | ~4 |
 | A Real Headache | 20.00% | ~3 |
+| A Total Riot | 20.00% | ~3 |
 | A Light in the Dark | 20.00% | ~3 |
 | The Guardian | 20.00% | ~3 |
 | Blood Begets Blood | 20.00% | ~3 |
@@ -28,7 +29,6 @@
 | The Companion | 20.00% | ~3 |
 | They Flock to Him | 20.00% | ~3 |
 | The Counsellor | 20.00% | ~3 |
-| A Total Riot | 13.00% | ~2 |
 | Full Coverage | 13.00% | ~2 |
 | Knock Knock | 13.00% | ~2 |
 | Quidnunc | 13.00% | ~2 |
@@ -54,7 +54,7 @@
 | Wilful Ignorance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15 (Ranked 301)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

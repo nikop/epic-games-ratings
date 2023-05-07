@@ -8,10 +8,10 @@ Rating: 4.11 (Ranked 852)
 | Attachments | 9.00% | ~3,391 |
 | Unlocked Potential | 8.00% | ~3,014 |
 | Tinkerer | 7.00% | ~2,637 |
-| Leapfrogger | 6.00% | ~2,260 |
-| Knock 'Em Dead | 6.00% | ~2,260 |
-| Pilgrimage: Initiate | 6.00% | ~2,260 |
-| Hell of a Run | 6.00% | ~2,260 |
+| Leapfrogger | 6.00% | ~2,261 |
+| Knock 'Em Dead | 6.00% | ~2,261 |
+| Pilgrimage: Initiate | 6.00% | ~2,261 |
+| Hell of a Run | 6.00% | ~2,261 |
 | No Mercy | 5.00% | ~1,884 |
 | Explorer: Seeker | 5.00% | ~1,884 |
 | Call of the Fount: Baptized | 5.00% | ~1,884 |
@@ -20,12 +20,12 @@ Rating: 4.11 (Ranked 852)
 | Help Me Out Here | 4.00% | ~1,507 |
 | The Interloper | 3.00% | ~1,130 |
 | Hop, Step, Jump | 3.00% | ~1,130 |
-| Outdoorsperson | 2.00% | ~753 |
-| What Must Be Done | 2.00% | ~753 |
-| Might and Main | 2.00% | ~753 |
-| Damned If You Do... | 2.00% | ~753 |
-| From Every Angle | 2.00% | ~753 |
-| Endless Runner | 2.00% | ~753 |
+| Outdoorsperson | 2.00% | ~754 |
+| What Must Be Done | 2.00% | ~754 |
+| Might and Main | 2.00% | ~754 |
+| Damned If You Do... | 2.00% | ~754 |
+| From Every Angle | 2.00% | ~754 |
+| Endless Runner | 2.00% | ~754 |
 | The Hue of Blue | 1.00% | ~377 |
 | Breaking Point | 1.00% | ~377 |
 | None the Wiser | 1.00% | ~377 |
@@ -59,8 +59,8 @@ Rating: 4.11 (Ranked 852)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,674 (Ranked 79)  
-Completed: 1 (0.00%) (Ranked 192)  
+Progressed: 37,677 (Ranked 79)  
+Completed: 1 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,7 +76,7 @@ Completed: 1 (0.00%) (Ranked 192)
 | 2023-05-04 | 37,537 | 1 |
 | 2023-05-05 | 37,585 | 1 |
 | 2023-05-06 | 37,643 | 1 |
-| 2023-05-07 | 37,674 | 1 |
+| 2023-05-07 | 37,677 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

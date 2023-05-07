@@ -6,7 +6,7 @@
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.65,
@@ -598,9 +598,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1940,
+  "EOS_Progressed": 1941,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -808,6 +808,11 @@
       "Time": "2023-05-07T09:07:17.1742369+00:00",
       "NumProgressed": 1940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T15:06:12.6322207+00:00",
+      "NumProgressed": 1941,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -819,7 +824,7 @@
       "Name": "Backpacker",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_BING-BONG",
@@ -923,7 +928,7 @@
       "Name": "Go with the Flow",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -1123,7 +1128,7 @@
       "Name": "The finer things in life",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -1202,15 +1207,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1940,
+      "Progressed": 1941,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-07T12:00:20.3677064+00:00",
-  "LastChanged_Achievements": "2023-05-07T14:06:24.4334376+00:00",
+  "LastChanged_Achievements": "2023-05-07T15:06:12.6322203+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.3028704+00:00",
-  "LastUpdate_Ratings": "2023-05-07T14:00:19.2515896+00:00",
-  "LastUpdate_Achievements": "2023-05-07T14:06:24.433478+00:00"
+  "LastUpdate_Ratings": "2023-05-07T15:00:12.2867911+00:00",
+  "LastUpdate_Achievements": "2023-05-07T15:06:12.6322602+00:00"
 }
