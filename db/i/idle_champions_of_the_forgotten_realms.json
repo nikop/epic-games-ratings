@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 10,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3516,10 +3516,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29825,
       "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-05-07T13:01:58.3397224+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29826,
+      "NumberOfAwardsMax": 4868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29825,
+  "NumberOfAwards": 29826,
   "NumberOfAwardsMax": 4868,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3545,7 +3551,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4478
+      "Count": 4479
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3566,10 +3572,10 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86740,
+  "EOS_Progressed": 86743,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 729,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 723,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -4950,6 +4956,11 @@
     {
       "Time": "2023-05-07T12:07:08.1126562+00:00",
       "NumProgressed": 86740,
+      "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T13:10:15.4178837+00:00",
+      "NumProgressed": 86743,
       "NumCompleted": 1810
     }
   ],
@@ -7352,9 +7363,9 @@
       "ID": "objective_completed_575",
       "SetID": "cc37lbc",
       "Name": "Difficult Terrain",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_completed_576",
@@ -8873,21 +8884,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53014,
+      "Progressed": 53017,
       "Completed": 2473
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86740,
+      "Progressed": 86743,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-07T11:59:23.1776486+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:07:08.1126558+00:00",
+  "LastChanged": "2023-05-07T13:01:58.3397221+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:10:15.4178831+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:59:23.1776494+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:07:08.1152742+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:01:58.3397228+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:10:15.4205174+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.24,
   "RatingHistory": [
@@ -228,9 +228,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63214,
+  "EOS_Progressed": 63218,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1293,6 +1293,11 @@
       "Time": "2023-05-07T12:06:19.4570024+00:00",
       "NumProgressed": 63214,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-07T13:09:21.1075706+00:00",
+      "NumProgressed": 63218,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -1312,7 +1317,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -1456,14 +1461,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63214,
+      "Progressed": 63218,
       "Completed": 10
     }
   ],
@@ -1471,8 +1476,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-04-14T01:53:25.2992682+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:19.457002+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:21.1075701+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.5865909+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:58:51.5522282+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:19.4570245+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:01:22.5650932+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:21.107592+00:00"
 }

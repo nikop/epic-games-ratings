@@ -6,9 +6,9 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,287 |
-| Self-Improvement | 71.00% | ~1,062 |
-| Perky | 66.00% | ~987 |
+| Unforgiven | 87.00% | ~1,302 |
+| Self-Improvement | 71.00% | ~1,063 |
+| Perky | 66.00% | ~988 |
 | Let’s Ride | 60.00% | ~898 |
 | Welcome to the Weird West | 58.00% | ~868 |
 | Dead or Alive | 56.00% | ~838 |
@@ -22,12 +22,12 @@ Number of Ratings: 125  (23.09.2022)
 | Dishonored | 24.00% | ~359 |
 | The Great Escape | 23.00% | ~344 |
 | That’s All, Folks | 18.00% | ~269 |
-| Fallen Star | 16.00% | ~239 |
-| For Balance | 16.00% | ~239 |
-| Winds of War | 16.00% | ~239 |
-| Here Comes Santa Claus | 15.00% | ~224 |
-| Dog Days | 13.00% | ~194 |
-| Workers' Rights | 13.00% | ~194 |
+| Fallen Star | 16.00% | ~240 |
+| For Balance | 16.00% | ~240 |
+| Winds of War | 16.00% | ~240 |
+| Here Comes Santa Claus | 15.00% | ~225 |
+| Dog Days | 13.00% | ~195 |
+| Workers' Rights | 13.00% | ~195 |
 | Elusive Prey | 12.00% | ~180 |
 | Out on the Ebb Tide | 12.00% | ~180 |
 | Power Behind the Pulpit | 12.00% | ~180 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~4 |
 | Revenant | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,496 (Ranked 149)  
+Progressed: 1,497 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 2 (0.13%) (Ranked 145)
 | 2023-05-04 | 1,493 | 2 |
 | 2023-05-05 | 1,495 | 2 |
 | 2023-05-06 | 1,496 | 2 |
+| 2023-05-07 | 1,497 | 2 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 469)  
 Sum: 23 (Ranked 471)  

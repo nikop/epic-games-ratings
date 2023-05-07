@@ -226,9 +226,9 @@
       "ID": "Unlucky",
       "SetID": "6l18k14",
       "Name": "Unlucky",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
@@ -243,8 +243,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:07:00.3759265+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:10:07.3799015+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.4385662+00:00",
-  "LastUpdate_Ratings": "2023-05-07T12:01:19.5903361+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:07:00.3759712+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:04:23.9089753+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:10:07.3799145+00:00"
 }

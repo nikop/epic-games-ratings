@@ -51,11 +51,11 @@ Number of Ratings: 371  (23.09.2022)
 | True Mastery | 0.50% | ~13 |
 | Firing Squad | 0.30% | ~8 |
 | Strategic Command | 0.30% | ~8 |
+| Blood and Iron | 0.20% | ~5 |
 | Crisis Management | 0.20% | ~5 |
 | Grand Master | 0.20% | ~5 |
 | Brothers in Arms | 0.20% | ~5 |
 | Arsenal of Destruction | 0.10% | ~3 |
-| Blood and Iron | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
 | Mass Extinction | 0.10% | ~3 |

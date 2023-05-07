@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.64,
+  "EOS_Completed_Percentage": 7.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -693,6 +693,11 @@
       "Time": "2023-05-07T11:07:33.7310198+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T13:09:55.7142523+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 12,
@@ -704,7 +709,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Bernard",
@@ -744,7 +749,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Jude",
@@ -784,7 +789,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "Nuremberg Laws",
@@ -799,7 +804,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 89
     }
   ],
@@ -807,8 +812,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:49.5981821+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:55.7142517+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-07T12:00:47.7589244+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:49.598195+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:03:44.2802233+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:55.7142695+00:00"
 }

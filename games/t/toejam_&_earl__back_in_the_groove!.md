@@ -6,26 +6,26 @@ Rating: 4.32 (Ranked 739)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Food Taster | 8.00% | ~4,340 |
-| Fall Fest | 7.00% | ~3,797 |
+| Fall Fest | 7.00% | ~3,798 |
 | Thrill Seeker | 6.00% | ~3,255 |
-| Flying Present Catcher | 5.00% | ~2,712 |
-| HFZ Goober | 5.00% | ~2,712 |
+| Flying Present Catcher | 5.00% | ~2,713 |
+| HFZ Goober | 5.00% | ~2,713 |
 | Sunflower Master | 4.00% | ~2,170 |
 | Backer Visitor | 2.00% | ~1,085 |
 | Hi Fiver | 2.00% | ~1,085 |
 | Hate That Randomizer | 2.00% | ~1,085 |
 | Feet on Funkotron | 2.00% | ~1,085 |
 | A Timely Splash | 2.00% | ~1,085 |
-| Elf Chaser | 1.00% | ~542 |
-| Fool Me Twice | 1.00% | ~542 |
-| Old School Jammin' | 1.00% | ~542 |
-| Wakey Wakey | 1.00% | ~542 |
+| Elf Chaser | 1.00% | ~543 |
+| Fool Me Twice | 1.00% | ~543 |
+| Old School Jammin' | 1.00% | ~543 |
+| Wakey Wakey | 1.00% | ~543 |
 | Level Diver | 0.80% | ~434 |
 | Gimme My Presents Back! | 0.70% | ~380 |
 | Cleaning Out Santa's Sack | 0.70% | ~380 |
-| Beaten By A Little Girl | 0.60% | ~325 |
-| Teamwork Rules | 0.60% | ~325 |
-| Totally Bummed Again | 0.60% | ~325 |
+| Beaten By A Little Girl | 0.60% | ~326 |
+| Teamwork Rules | 0.60% | ~326 |
+| Totally Bummed Again | 0.60% | ~326 |
 | Boom Box Baby | 0.40% | ~217 |
 | I Can't Believe I've Done This | 0.40% | ~217 |
 | Harsh Love | 0.40% | ~217 |
@@ -37,9 +37,9 @@ Rating: 4.32 (Ranked 739)
 | Nine Funkotronians | 0.30% | ~163 |
 | I'm A Total Saint | 0.30% | ~163 |
 | The Worst Possible Luck | 0.30% | ~163 |
-| Broken Present Risk Taker | 0.20% | ~108 |
-| Struck By Love | 0.20% | ~108 |
-| Truly Evil | 0.20% | ~108 |
+| Broken Present Risk Taker | 0.20% | ~109 |
+| Struck By Love | 0.20% | ~109 |
+| Truly Evil | 0.20% | ~109 |
 | Achievement Achiever | 0.10% | ~54 |
 | Boom Box Wipeout | 0.10% | ~54 |
 | Can't Touch This | 0.10% | ~54 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 739)
 | Why Do I Keep Doing That? | 0.10% | ~54 |
 | Hey, You Did It! | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,249 (Ranked 71)  
+Progressed: 54,252 (Ranked 71)  
 Completed: 4 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 4 (0.01%) (Ranked 184)
 | 2023-05-04 | 54,183 | 4 |
 | 2023-05-05 | 54,203 | 4 |
 | 2023-05-06 | 54,235 | 4 |
-| 2023-05-07 | 54,249 | 4 |
+| 2023-05-07 | 54,252 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

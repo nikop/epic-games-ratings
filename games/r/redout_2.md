@@ -15,8 +15,8 @@ Rating: 4.45 (Ranked 598)
 | Suit up | 16.00% | ~154 |
 | Walked like an Egyptian | 15.00% | ~144 |
 | Ride in the rising sun | 15.00% | ~144 |
-| Martian explorer | 12.00% | ~115 |
-| Rookie No-No More | 12.00% | ~115 |
+| Martian explorer | 12.00% | ~116 |
+| Rookie No-No More | 12.00% | ~116 |
 | Running at the speed of sound | 11.00% | ~106 |
 | To the core | 9.00% | ~87 |
 | Blurred photofinish | 9.00% | ~87 |
@@ -27,14 +27,14 @@ Rating: 4.45 (Ranked 598)
 | Even Faster! | 6.00% | ~58 |
 | Longshot | 6.00% | ~58 |
 | B-asic! | 5.00% | ~48 |
-| Under the neon lights | 4.00% | ~38 |
-| All Power to Engines! | 4.00% | ~38 |
-| Had to sweat a bit | 4.00% | ~38 |
-| Almost broke the game | 4.00% | ~38 |
-| It's like a party! | 4.00% | ~38 |
-| Better luck next time | 4.00% | ~38 |
-| Dev, this! | 4.00% | ~38 |
-| He who laughs last... | 4.00% | ~38 |
+| Under the neon lights | 4.00% | ~39 |
+| All Power to Engines! | 4.00% | ~39 |
+| Had to sweat a bit | 4.00% | ~39 |
+| Almost broke the game | 4.00% | ~39 |
+| It's like a party! | 4.00% | ~39 |
+| Better luck next time | 4.00% | ~39 |
+| Dev, this! | 4.00% | ~39 |
+| He who laughs last... | 4.00% | ~39 |
 | Try them all | 3.00% | ~29 |
 | To infinity and gravity! | 3.00% | ~29 |
 | One giant drive for mankind | 3.00% | ~29 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 598)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962 (Ranked 162)  
+Progressed: 963 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-04-29 | 958 | 0 |
 | 2023-04-30 | 960 | 0 |
 | 2023-05-03 | 961 | 0 |
-| 2023-05-07 | 962 | 0 |
+| 2023-05-07 | 963 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,14 +8,14 @@
 | Home Cook | 57.00% | ~32 |
 | You're the Expert! | 48.00% | ~27 |
 | French Flair | 45.00% | ~25 |
-| So Clean You Can Eat Off the Floor | 41.00% | ~23 |
+| So Clean You Can Eat Off the Floor | 43.00% | ~24 |
 | S is for Scrumptious | 29.00% | ~16 |
 | Next Level Cuisine | 25.00% | ~14 |
 | Haute Cuisine | 20.00% | ~11 |
 | Italian Style | 18.00% | ~10 |
 | Well-Stocked Kitchen | 14.00% | ~8 |
+| Perfectionist | 11.00% | ~6 |
 | Culinary Arts | 9.00% | ~5 |
-| Perfectionist | 9.00% | ~5 |
 | Sous-Chef | 9.00% | ~5 |
 | Rolling in Dough | 9.00% | ~5 |
 | Chef, Yes Chef! | 4.00% | ~2 |

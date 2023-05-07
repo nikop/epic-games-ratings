@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.76,
   "NumberOfRatings": 1354,
@@ -2176,18 +2176,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6586,
       "NumberOfAwardsMax": 1625
+    },
+    {
+      "Time": "2023-05-07T13:02:17.9419835+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6587,
+      "NumberOfAwardsMax": 1626
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6586,
-  "NumberOfAwardsMax": 1625,
+  "NumberOfAwards": 6587,
+  "NumberOfAwardsMax": 1626,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1625
+      "Count": 1626
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2250,7 +2256,7 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8674,
+  "EOS_Progressed": 8677,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -2965,6 +2971,11 @@
       "Time": "2023-05-07T12:06:42.4825607+00:00",
       "NumProgressed": 8674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T13:09:47.7769607+00:00",
+      "NumProgressed": 8677,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3048,7 +3059,7 @@
       "Name": "Path of the Azata",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "11_PathOfAeon",
@@ -3104,7 +3115,7 @@
       "Name": "Transformation",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "18_MythicChoices",
@@ -3160,7 +3171,7 @@
       "Name": "The Legacy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "25_MasterfulDispell",
@@ -3176,7 +3187,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "28_GreatUpstart",
@@ -3208,7 +3219,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "32_MythicReinforcements",
@@ -3216,7 +3227,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "33_DefendersHeart",
@@ -3320,7 +3331,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "46_AllPathsOpen",
@@ -3352,7 +3363,7 @@
       "Name": "A Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -3360,7 +3371,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -3400,7 +3411,7 @@
       "Name": "Next-Door Play",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "56_GetToad",
@@ -3408,7 +3419,7 @@
       "Name": "Get the Toad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "57_PathOfDevil",
@@ -3903,21 +3914,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7456,
+      "Progressed": 7459,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8674,
+      "Progressed": 8677,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-06T23:59:26.1174724+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:42.48256+00:00",
+  "LastChanged": "2023-05-07T13:02:17.9419833+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:47.7769602+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:59:36.6519193+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:42.4827264+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:02:17.9419842+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:47.7771481+00:00"
 }

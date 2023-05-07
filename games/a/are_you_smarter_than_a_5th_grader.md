@@ -8,7 +8,7 @@
 | 1st Grade | 41.00% | ~112 |
 | Smarter than a 5th Grader | 35.00% | ~96 |
 | Study Session | 30.00% | ~82 |
-| Unlucky | 19.00% | ~52 |
+| Unlucky | 20.00% | ~55 |
 | Exam Practice | 13.00% | ~35 |
 | In The Honor Roll | 10.00% | ~27 |
 | Byoing | 7.00% | ~19 |

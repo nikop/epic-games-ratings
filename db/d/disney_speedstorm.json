@@ -9,7 +9,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2358,
+  "EOS_Progressed": 2359,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
@@ -1009,6 +1009,11 @@
       "Time": "2023-05-07T11:07:21.4814195+00:00",
       "NumProgressed": 2358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T13:09:44.349371+00:00",
+      "NumProgressed": 2359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1028,7 +1033,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "11",
@@ -1108,7 +1113,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "20",
@@ -1124,7 +1129,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "22",
@@ -1132,7 +1137,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "23",
@@ -1140,7 +1145,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "24",
@@ -1180,7 +1185,7 @@
       "Name": "PRO",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "7",
@@ -1211,13 +1216,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2358,
+      "Progressed": 2359,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:39.634047+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:44.3493706+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-07T12:00:10.9037366+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:39.6340701+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:02:56.2761024+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:44.3493971+00:00"
 }

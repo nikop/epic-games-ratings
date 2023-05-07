@@ -16,13 +16,13 @@
 | 10K | 24.00% | ~4 |
 | Chick Magnet | 12.00% | ~2 |
 | Fresh Pancake | 12.00% | ~2 |
+| Getting Started | 12.00% | ~2 |
 | Quit Horsin' Around | 12.00% | ~2 |
 | Pork Chop Express | 12.00% | ~2 |
 | Eggtraordinary | 12.00% | ~2 |
 | Carrocketeer | 12.00% | ~2 |
 | Bring Home The Bacon | 6.00% | ~1 |
 | 15 Days | 6.00% | ~1 |
-| Getting Started | 6.00% | ~1 |
 | Honk Honk | 6.00% | ~1 |
 | Darkside Survivor | 6.00% | ~1 |
 | Forestside Survivor | 6.00% | ~1 |

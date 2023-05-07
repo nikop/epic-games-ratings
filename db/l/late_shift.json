@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -224,9 +224,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
@@ -241,8 +241,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:15.4506142+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:16.5093029+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:05.1876368+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:59:05.8817039+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:15.4506306+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:01:39.7336729+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:16.5093171+00:00"
 }

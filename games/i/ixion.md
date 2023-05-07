@@ -25,6 +25,7 @@ Rating: 4.54 (Ranked 476)
 | Permanent Redesigns | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
 | Hope Seeker | 0.20% | ~4 |
+| Pulsar Disciple | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
@@ -49,7 +50,6 @@ Rating: 4.54 (Ranked 476)
 | Soylent Green | 0.10% | ~2 |
 | From the Past | 0.10% | ~2 |
 | What the Ruins Teach Us | 0.10% | ~2 |
-| Pulsar Disciple | 0.10% | ~2 |
 | Beyond Time and Space | 0.00% | ~0 |
 | Tiqqun Contender | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |

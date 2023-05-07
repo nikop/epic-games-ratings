@@ -25,8 +25,8 @@ Rating: 4.54 (Ranked 476)
 | The scenic route | 27.00% | ~4,937 |
 | Industrialist | 25.00% | ~4,572 |
 | Perfectionist | 23.00% | ~4,206 |
+| Trains over Pipes | 23.00% | ~4,206 |
 | 8K is Enough for Everyone | 22.00% | ~4,023 |
-| Trains over Pipes | 22.00% | ~4,023 |
 | Man of Steel | 16.00% | ~2,926 |
 | Room Full of Trains | 12.00% | ~2,194 |
 | Investor | 9.00% | ~1,646 |

@@ -3,8 +3,8 @@
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 399,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -380,9 +380,9 @@
       "ID": "TROP021",
       "SetID": "9n0dl35",
       "Name": "Tasty",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "TROP022",
@@ -445,8 +445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:31.4334753+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:35.1582523+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.2720702+00:00",
-  "LastUpdate_Ratings": "2023-05-07T12:00:10.6546066+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:31.4334955+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:02:56.1204258+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:35.1582695+00:00"
 }

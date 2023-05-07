@@ -5,31 +5,31 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,300 |
-| Grappling with a Graphorn | 5.00% | ~13,300 |
-| The One Who Mastered Memories | 5.00% | ~13,300 |
-| The Hallowed Hero | 5.00% | ~13,300 |
-| The Hero of Hogwarts | 5.00% | ~13,300 |
-| The Defender of Dragons | 5.00% | ~13,300 |
-| Coasting Along | 5.00% | ~13,300 |
-| Rising From the Ashes | 5.00% | ~13,300 |
-| The Avenging Gazelle | 4.00% | ~10,640 |
-| Beast Friends | 4.00% | ~10,640 |
-| A Sallow Grave | 4.00% | ~10,640 |
-| Flight the Good Flight | 4.00% | ~10,640 |
-| Challenge Accepted | 4.00% | ~10,640 |
-| A Keen Sense of Spell | 4.00% | ~10,640 |
-| Loom for Improvement | 4.00% | ~10,640 |
-| A Talent for Spending | 4.00% | ~10,640 |
-| Followed the Butterflies | 4.00% | ~10,640 |
-| The Spell Master | 4.00% | ~10,640 |
-| First Class Student | 4.00% | ~10,640 |
-| Troll with the Punches | 4.00% | ~10,640 |
-| That's a Keeper | 4.00% | ~10,640 |
-| The Seeker of Knowledge | 3.00% | ~7,980 |
-| The Root of the Problem | 3.00% | ~7,980 |
-| Third Time's a Charm | 3.00% | ~7,980 |
-| Raising Expectations | 3.00% | ~7,980 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,301 |
+| Grappling with a Graphorn | 5.00% | ~13,301 |
+| The One Who Mastered Memories | 5.00% | ~13,301 |
+| The Hallowed Hero | 5.00% | ~13,301 |
+| The Hero of Hogwarts | 5.00% | ~13,301 |
+| The Defender of Dragons | 5.00% | ~13,301 |
+| Coasting Along | 5.00% | ~13,301 |
+| Rising From the Ashes | 5.00% | ~13,301 |
+| The Avenging Gazelle | 4.00% | ~10,641 |
+| Beast Friends | 4.00% | ~10,641 |
+| A Sallow Grave | 4.00% | ~10,641 |
+| Flight the Good Flight | 4.00% | ~10,641 |
+| Challenge Accepted | 4.00% | ~10,641 |
+| A Keen Sense of Spell | 4.00% | ~10,641 |
+| Loom for Improvement | 4.00% | ~10,641 |
+| A Talent for Spending | 4.00% | ~10,641 |
+| Followed the Butterflies | 4.00% | ~10,641 |
+| The Spell Master | 4.00% | ~10,641 |
+| First Class Student | 4.00% | ~10,641 |
+| Troll with the Punches | 4.00% | ~10,641 |
+| That's a Keeper | 4.00% | ~10,641 |
+| The Seeker of Knowledge | 3.00% | ~7,981 |
+| The Root of the Problem | 3.00% | ~7,981 |
+| Third Time's a Charm | 3.00% | ~7,981 |
+| Raising Expectations | 3.00% | ~7,981 |
 | The Toast of the Town | 2.00% | ~5,320 |
 | Going Through the Potions | 2.00% | ~5,320 |
 | Room with a View | 2.00% | ~5,320 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,008 (Ranked 38)  
+Progressed: 266,023 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 266,008 | 351 |
+| 2023-05-07 | 266,023 | 351 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
 Sum: 33,704 (Ranked 33)  

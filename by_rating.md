@@ -15,8 +15,8 @@
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 490 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 490 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 138,869 | 6 |
-| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 405 | 195 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,967 | 20 |
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 405 | 196 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,997 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 293 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 249 | 237 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,971 | 73 |
@@ -50,7 +50,7 @@
 | 37 | [TUNIC](games/t/tunic.md) | 4.85 | 32 | 434 |
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 46 | 396 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 211 | 252 |
-| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 195 |
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 196 |
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 250 | 236 |
 | 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 655 | 159 |
 | 49 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 490 |
@@ -101,7 +101,7 @@
 | 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 907 | 141 |
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 490 |
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,727 | 65 |
-| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,855 | 37 |
+| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,871 | 37 |
 | 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,645 | 88 |
 | 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,488 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,953 | 74 |
@@ -120,18 +120,18 @@
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 838 | 144 |
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 490 |
 | 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 322 |
-| 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,625 | 111 |
+| 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,626 | 111 |
 | 115 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 490 |
 | 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,904 | 39 |
 | 115 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 490 |
 | 125 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 466 |
 | 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,866 | 63 |
 | 125 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 85 | 339 |
-| 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,171 | 83 |
+| 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,172 | 83 |
 | 125 | [Diabotical](games/d/diabotical.md) | 4.75 | 266 | 233 |
 | 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 40 | 409 |
 | 125 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 62 | 374 |
-| 125 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 404 | 197 |
+| 125 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 406 | 195 |
 | 125 | [Quake](games/q/quake.md) | 4.75 | 45 | 401 |
 | 125 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 436 | 190 |
 | 125 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 0 | 490 |
@@ -424,7 +424,7 @@
 | 413 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 385 |
 | 413 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 179 | 267 |
 | 413 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 970 | 139 |
-| 413 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,054 | 52 |
+| 413 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,057 | 52 |
 | 413 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 490 |
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 207 | 254 |
 | 413 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,335 | 22 |
@@ -434,7 +434,7 @@
 | 429 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 154 | 282 |
 | 429 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 396 |
 | 429 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 0 | 490 |
-| 429 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,910 | 44 |
+| 429 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,933 | 44 |
 | 429 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 427 |
 | 429 | [Hob](games/h/hob.md) | 4.57 | 0 | 490 |
 | 429 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 421 |
@@ -491,7 +491,7 @@
 | 488 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 490 |
 | 488 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 490 |
 | 488 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,714 | 17 |
-| 488 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 138,061 | 7 |
+| 488 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 138,104 | 7 |
 | 488 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 301 |
 | 488 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 490 |
 | 488 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 469 |
@@ -911,7 +911,7 @@
 | 909 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 48 | 391 |
 | 910 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
 | 910 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
-| 912 | [Poker Club](games/p/poker_club.md) | 3.70 | 0 | 490 |
+| 912 | [Poker Club](games/p/poker_club.md) | 3.71 | 0 | 490 |
 | 913 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
 | 914 | [Adios](games/a/adios.md) | 3.50 | 0 | 490 |
 | 915 | [Redfall](games/r/redfall.md) | 3.48 | 0 | 490 |

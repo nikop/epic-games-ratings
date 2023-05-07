@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.48,
   "RatingHistory": [
@@ -363,17 +363,17 @@
       "ID": "010",
       "SetID": "94k0mj8",
       "Name": "010",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "011",
       "SetID": "94k0mj8",
       "Name": "011",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "012",
@@ -396,8 +396,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:15.3666158+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:16.4017655+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.408296+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:59:16.7100945+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:15.3666259+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:01:53.1628697+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:16.401778+00:00"
 }

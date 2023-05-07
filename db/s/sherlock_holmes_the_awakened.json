@@ -4,8 +4,8 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 51,
   "RatingHistory": [
     {
       "Time": "2023-04-12T21:57:08.1785831+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.57,
+  "EOS_Completed_Percentage": 6.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -148,6 +148,11 @@
       "Time": "2023-05-07T11:07:03.74471+00:00",
       "NumProgressed": 137,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-07T13:09:27.4750989+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 28,
@@ -173,7 +178,7 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
       "UsersEstimate": 86
     },
@@ -189,23 +194,23 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
       "UsersEstimate": 75
     },
@@ -215,13 +220,13 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 40,
       "UsersEstimate": 75
     },
@@ -263,7 +268,7 @@
       "Name": "The New World",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MQ05_1",
@@ -303,7 +308,7 @@
       "Name": "Brain Food",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "MQ06_2",
@@ -317,9 +322,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "MQ06_4",
@@ -327,7 +332,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MQ07_1",
@@ -382,7 +387,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 9
     }
   ],
@@ -390,8 +395,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:25.2433285+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:27.4750983+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-07T11:58:36.9126335+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:25.2433488+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:01:06.0378809+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:27.4751383+00:00"
 }

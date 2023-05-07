@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.43,
   "NumberOfRatings": 75,
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4715,
+  "EOS_Progressed": 4716,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -433,6 +433,11 @@
       "Time": "2023-05-07T05:07:39.0766755+00:00",
       "NumProgressed": 4715,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T13:09:51.8010108+00:00",
+      "NumProgressed": 4716,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -500,7 +505,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ach_campaign_progress10",
@@ -554,9 +559,9 @@
       "ID": "ach_campaign_progress5",
       "SetID": "8cb3id7",
       "Name": "Level: Returning Home",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2311
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1051,15 +1056,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4715,
+      "Progressed": 4716,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-07T12:06:46.1025338+00:00",
+  "LastChanged_Achievements": "2023-05-07T13:09:51.8010104+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.697112+00:00",
-  "LastUpdate_Ratings": "2023-05-07T12:00:17.0353405+00:00",
-  "LastUpdate_Achievements": "2023-05-07T12:06:46.1026166+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:03:05.5686024+00:00",
+  "LastUpdate_Achievements": "2023-05-07T13:09:51.8010808+00:00"
 }

@@ -66,6 +66,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~173 |
 | Flying Monkey Skulls of Doom | 0.20% | ~173 |
 | The Darkness Runs Deeper | 0.20% | ~173 |
+| Difficult Terrain | 0.20% | ~173 |
 | Running of the Saurs | 0.20% | ~173 |
 | The Contagious Curse | 0.20% | ~173 |
 | Dinosaur Racing | 0.20% | ~173 |
@@ -326,7 +327,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.10% | ~87 |
 | Dark Doppelgangers | 0.10% | ~87 |
 | Faerûn's Most Wanted | 0.10% | ~53 |
-| Difficult Terrain | 0.10% | ~87 |
 | Cold & Wet | 0.10% | ~87 |
 | Madcap Adventures | 0.10% | ~87 |
 | Faerûn's Most Neglected | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,740 (Ranked 59)  
+Progressed: 86,743 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,17 +513,17 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,740 | 1,810 |
+| 2023-05-07 | 86,743 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
-Sum: 29,825 (Ranked 37)  
+Sum: 29,826 (Ranked 37)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,868 |
 | This game is Great for Beginners | 4,807 |
 | This game has Quickly Understood Controls | 4,585 |
-| This game is Relaxing | 4,478 |
+| This game is Relaxing | 4,479 |
 | This game is Highly Recommended | 3,932 |
 | This game has Amazing Characters | 3,929 |
 | This game has Playful Visuals | 3,226 |
@@ -631,4 +631,4 @@ Diff (max vs sum): 25
 | 2023-05-04 | 4.06 | - | 4,863 | 29,800 |
 | 2023-05-05 | 4.06 | - | 4,865 | 29,803 |
 | 2023-05-06 | 4.06 | - | 4,868 | 29,822 |
-| 2023-05-07 | 4.06 | - | 4,868 | 29,825 |
+| 2023-05-07 | 4.06 | - | 4,868 | 29,826 |
