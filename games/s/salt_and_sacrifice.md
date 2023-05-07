@@ -6,24 +6,24 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 91.00% | ~58,058 |
-| The Pyromancer | 86.00% | ~54,868 |
-| The Wastes | 83.00% | ~52,954 |
-| Waste Not | 80.00% | ~51,040 |
-| The Cryomancer | 76.00% | ~48,488 |
-| Stock Up | 75.00% | ~47,850 |
-| The Hydromancer | 73.00% | ~46,574 |
-| The Matriarch | 70.00% | ~44,660 |
-| The Aeromancer | 66.00% | ~42,108 |
-| The Huntsman | 65.00% | ~41,470 |
-| The Venomancer | 65.00% | ~41,470 |
-| Dawnlight Order | 64.00% | ~40,832 |
-| The Electromancer | 61.00% | ~38,918 |
-| The Terramancer | 59.00% | ~37,642 |
-| The Exalted | 56.00% | ~35,728 |
-| Sheriff Inquisitors | 55.00% | ~35,090 |
-| Blueheart Runners | 54.00% | ~34,452 |
-| The Necromancer | 52.00% | ~33,176 |
+| The Champion | 91.00% | ~58,059 |
+| The Pyromancer | 86.00% | ~54,869 |
+| The Wastes | 83.00% | ~52,955 |
+| Waste Not | 80.00% | ~51,041 |
+| The Cryomancer | 76.00% | ~48,489 |
+| Stock Up | 75.00% | ~47,851 |
+| The Hydromancer | 73.00% | ~46,575 |
+| The Matriarch | 70.00% | ~44,661 |
+| The Aeromancer | 66.00% | ~42,109 |
+| The Venomancer | 66.00% | ~42,109 |
+| The Huntsman | 65.00% | ~41,471 |
+| Dawnlight Order | 64.00% | ~40,833 |
+| The Electromancer | 61.00% | ~38,919 |
+| The Terramancer | 59.00% | ~37,643 |
+| The Exalted | 56.00% | ~35,729 |
+| Sheriff Inquisitors | 55.00% | ~35,091 |
+| Blueheart Runners | 54.00% | ~34,453 |
+| The Necromancer | 52.00% | ~33,177 |
 | The Swamp | 50.00% | ~31,900 |
 | The Fungalmancer | 47.00% | ~29,986 |
 | The Thaumamancer | 47.00% | ~29,986 |
@@ -60,7 +60,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Scholar | 10.00% | ~6,380 |
 | Top Shelf | 5.00% | ~3,190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,800 (Ranked 63)  
+Progressed: 63,801 (Ranked 63)  
 Completed: 1,150 (1.80%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 1,150 (1.80%) (Ranked 59)
 | 2023-05-04 | 63,736 | 1,149 |
 | 2023-05-05 | 63,747 | 1,149 |
 | 2023-05-06 | 63,777 | 1,149 |
-| 2023-05-07 | 63,800 | 1,150 |
+| 2023-05-07 | 63,801 | 1,150 |
 ## Awards
 Max (Character Customization): 929  (Ranked 140)  
 Sum: 1,860 (Ranked 191)  

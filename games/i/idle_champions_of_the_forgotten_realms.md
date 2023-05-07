@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Checkmate | 2.00% | ~1,061 |
+| Checkmate | 2.00% | ~1,062 |
 | A Brief Tour of the Realms | 1.00% | ~868 |
 | Vecna Out! | 1.00% | ~531 |
 | Pin and Skewer | 0.90% | ~478 |
-| Bully for Vecna | 0.70% | ~371 |
+| Bully for Vecna | 0.70% | ~372 |
 | The Cursed Farmer | 0.70% | ~608 |
 | Beast Intentions | 0.60% | ~521 |
 | The Mad Wizard | 0.60% | ~521 |
@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.40% | ~347 |
 | Seeking Allies | 0.40% | ~347 |
 | Are Ya Chicken? | 0.40% | ~347 |
+| Mad Cow Disease | 0.40% | ~347 |
 | Friendly Imps | 0.40% | ~347 |
 | Maddening | 0.30% | ~260 |
 | The Sanctum of the Sword | 0.30% | ~159 |
@@ -27,13 +28,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.30% | ~260 |
 | Unearthed Evil | 0.30% | ~260 |
 | The Crumbling Temple | 0.30% | ~260 |
-| Mad Cow Disease | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
-| The Contagious Curse | 0.30% | ~260 |
 | Escort to Waterdeep | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
 | Tall Tales | 0.20% | ~106 |
 | The Witchlight Carnival | 0.20% | ~106 |
+| Thieves of the Coven | 0.20% | ~106 |
 | The Silken Swamp | 0.20% | ~174 |
 | Supply Run | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~106 |
@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
 | Running of the Saurs | 0.20% | ~174 |
+| The Contagious Curse | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
@@ -106,7 +107,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.10% | ~53 |
 | A Dragon Against Us | 0.10% | ~53 |
 | A Familiar Behind Us | 0.10% | ~53 |
-| Thieves of the Coven | 0.10% | ~53 |
 | Sticky Fingers | 0.10% | ~53 |
 | Patron Party | 0.10% | ~53 |
 | Go Fourth | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,794 (Ranked 59)  
+Progressed: 86,802 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,794 | 1,810 |
+| 2023-05-07 | 86,802 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,830 (Ranked 37)  

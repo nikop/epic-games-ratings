@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 53.00% | ~78 |
-| Chest ✔ | 51.00% | ~75 |
+| Chest ✔ | 52.00% | ~77 |
 | Inventory ✔ | 49.00% | ~73 |
 | Police officers ✔ | 23.00% | ~34 |
 | Mutation ✔ | 22.00% | ~33 |
@@ -15,32 +15,32 @@
 | Chess ✔ | 7.00% | ~10 |
 | Weapon ✔ | 7.00% | ~10 |
 | Betty ✔ | 5.00% | ~7 |
+| City ✔ | 5.00% | ~7 |
 | Hospital ✔ | 5.00% | ~7 |
+| Fraternal help ✔ | 5.00% | ~7 |
 | Thirst ✔ | 5.00% | ~7 |
 | Antivirus ✔ | 4.00% | ~6 |
 | Cheats ✔ | 4.00% | ~6 |
-| City ✔ | 4.00% | ~6 |
 | Eva ✔ | 4.00% | ~6 |
-| Fraternal help ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
 | King of survival ✔ | 4.00% | ~6 |
+| All secrets revealed ✔ | 4.00% | ~6 |
 | Boss 1 ✔ | 3.00% | ~4 |
 | Alice ✔ | 3.00% | ~4 |
 | Brain ✔ | 3.00% | ~4 |
 | Crocodile Attack ✔ | 3.00% | ~4 |
 | Food ✔ | 3.00% | ~4 |
+| Group Alpha ✔ | 3.00% | ~4 |
 | Mutant fight ✔ | 3.00% | ~4 |
 | Mutant run ✔ | 3.00% | ~4 |
 | Sheriff ✔ | 3.00% | ~4 |
 | Infected ✔ | 3.00% | ~4 |
 | Rank A ✔ | 3.00% | ~4 |
-| All secrets revealed ✔ | 3.00% | ~4 |
+| Broadcasting ✔ | 3.00% | ~4 |
 | Secret ✔ | 2.00% | ~3 |
 | Boss 2 ✔ | 2.00% | ~3 |
-| Group Alpha ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
 | Priest ✔ | 2.00% | ~3 |
-| Broadcasting ✔ | 2.00% | ~3 |
 | Boss 3 ✔ | 2.00% | ~3 |
 | Car ✔ | 1.00% | ~1 |
 | Seeker One ✔ | 1.00% | ~1 |

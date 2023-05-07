@@ -384,9 +384,9 @@
       "ID": "012",
       "SetID": "94k0mj8",
       "Name": "012",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -401,8 +401,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:06:32.5819817+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:06:51.0897679+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.408296+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:59:33.9962738+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:06:32.5819955+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:59:22.8896327+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:06:51.0897759+00:00"
 }

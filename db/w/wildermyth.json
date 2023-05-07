@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -271,6 +271,11 @@
       "Time": "2023-05-07T19:07:06.4057613+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-07T22:07:10.2827945+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -354,7 +359,7 @@
       "Name": "Passing Shadow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -458,7 +463,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_mythwalker",
@@ -474,7 +479,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -498,7 +503,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "completedStory_cvawn",
@@ -729,15 +734,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1144,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:06:50.2970747+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:10.2827943+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:02:11.3659862+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:06:50.2971255+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:02:48.5752229+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:10.2828368+00:00"
 }

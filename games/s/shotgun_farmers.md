@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 105.00% | ~21 |
-| First Blood | 60.00% | ~12 |
-| Cornivore | 55.00% | ~11 |
-| No Asperascope | 50.00% | ~10 |
-| Triple Kill | 50.00% | ~10 |
-| 15K | 25.00% | ~5 |
-| Drinking Problem | 25.00% | ~5 |
-| Skin Of Your Teeth | 25.00% | ~5 |
-| 10K | 25.00% | ~5 |
-| Graveside Survivor | 20.00% | ~4 |
-| Pork Chop Express | 15.00% | ~3 |
+| Seeds of War | 105.00% | ~22 |
+| First Blood | 57.00% | ~12 |
+| No Asperascope | 52.00% | ~11 |
+| Cornivore | 52.00% | ~11 |
+| Triple Kill | 48.00% | ~10 |
+| 15K | 24.00% | ~5 |
+| Drinking Problem | 24.00% | ~5 |
+| Skin Of Your Teeth | 24.00% | ~5 |
+| 10K | 24.00% | ~5 |
+| Graveside Survivor | 19.00% | ~4 |
+| Pork Chop Express | 14.00% | ~3 |
 | Chick Magnet | 10.00% | ~2 |
 | Fresh Pancake | 10.00% | ~2 |
 | Getting Started | 10.00% | ~2 |
@@ -49,7 +49,7 @@
 | Pro Digger | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 296)  
+Progressed: 21 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 11 | 0 |
 | 2023-05-05 | 13 | 0 |
 | 2023-05-06 | 15 | 0 |
-| 2023-05-07 | 20 | 0 |
+| 2023-05-07 | 21 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

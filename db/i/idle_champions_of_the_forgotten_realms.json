@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 11,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
@@ -3578,9 +3578,9 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86794,
+  "EOS_Progressed": 86802,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5008,6 +5008,11 @@
       "Time": "2023-05-07T21:07:27.0621837+00:00",
       "NumProgressed": 86794,
       "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T22:07:56.0086004+00:00",
+      "NumProgressed": 86802,
+      "NumCompleted": 1810
     }
   ],
   "TotalAchievements": 489,
@@ -5153,9 +5158,9 @@
       "ID": "objective_completed_1060",
       "SetID": "415jc5c",
       "Name": "Thieves of the Coven",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_1061",
@@ -5891,7 +5896,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "objective_completed_1204",
@@ -5915,7 +5920,7 @@
       "Name": "Bully for Vecna",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "objective_completed_1213",
@@ -7153,9 +7158,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 347
     },
     {
       "ID": "objective_completed_54",
@@ -7561,9 +7566,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_60",
@@ -8930,21 +8935,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53068,
-      "Completed": 2475
+      "Progressed": 53076,
+      "Completed": 2476
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86794,
+      "Progressed": 86802,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-07T18:59:29.8871961+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:07:27.0621834+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:56.0086001+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:59:37.9067513+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:07:27.0644759+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:59:27.6852424+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:56.0108258+00:00"
 }

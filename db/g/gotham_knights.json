@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Rating": 4.17,
   "RatingHistory": [
     {
@@ -1004,9 +1004,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60709,
+  "EOS_Progressed": 60712,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1979,6 +1979,11 @@
       "Time": "2023-05-07T20:06:42.1658659+00:00",
       "NumProgressed": 60709,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T22:07:42.7408057+00:00",
+      "NumProgressed": 60712,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2228,9 +2233,9 @@
       "ID": "FREEZE_2",
       "SetID": "4eo5ebm",
       "Name": "Snow Problem",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "FREEZE_3",
@@ -2444,9 +2449,9 @@
       "ID": "SECRET_CACHE",
       "SetID": "4eo5ebm",
       "Name": "Gotham City Confidential",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 121
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -2477,13 +2482,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60709,
+      "Progressed": 60712,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30989,
+      "Progressed": 30992,
       "Completed": 2631
     }
   ],
@@ -2491,8 +2496,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-07T18:02:12.0517911+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:07:16.1095335+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:42.7408053+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:01:18.4464751+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:07:16.109601+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:01:41.2815188+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:42.7408597+00:00"
 }

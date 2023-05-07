@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1407,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1242,
+  "EOS_NewPlayers": 1243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -713,6 +713,11 @@
       "Time": "2023-05-07T21:06:43.5311016+00:00",
       "NumProgressed": 1407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T22:07:01.8127066+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -746,9 +751,9 @@
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 493
     },
     {
       "ID": "Achievement_006",
@@ -770,9 +775,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 774
     },
     {
       "ID": "Achievement_009",
@@ -860,7 +865,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "Achievement_020",
@@ -874,9 +879,9 @@
       "ID": "Achievement_021",
       "SetID": "6b34g18",
       "Name": "Radio Silence",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 239
     },
     {
       "ID": "Achievement_022",
@@ -924,7 +929,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Achievement_028",
@@ -956,7 +961,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "Achievement_032",
@@ -980,7 +985,7 @@
       "Name": "Catch and Release",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "Achievement_035",
@@ -1028,7 +1033,7 @@
       "Name": "Heart Attack",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Achievement_041",
@@ -1060,7 +1065,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "Achievement_046",
@@ -1244,14 +1249,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1407,
+      "Progressed": 1408,
       "Completed": 0
     }
   ],
@@ -1259,8 +1264,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-07T02:59:08.8006298+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:06:43.5311012+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:01.812706+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:59:23.323091+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:06:43.5311753+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:59:08.9766029+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:01.812764+00:00"
 }

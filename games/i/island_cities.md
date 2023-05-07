@@ -11,7 +11,7 @@
 | Bridges to come and go | 52.00% | ~32 |
 | Found an oasis | 39.00% | ~24 |
 | Burger or pizza? | 35.00% | ~22 |
-| Passion for sports | 31.00% | ~19 |
+| Passion for sports | 32.00% | ~20 |
 | Who loves trains? | 29.00% | ~18 |
 | Easy and steady climb | 29.00% | ~18 |
 | At the heart of the city | 26.00% | ~16 |
@@ -20,8 +20,8 @@
 | Not lonely anymore | 23.00% | ~14 |
 | Monumental tribute | 23.00% | ~14 |
 | The beach is right there | 19.00% | ~12 |
-| Commuting | 18.00% | ~11 |
-| Le jardin magnifique | 18.00% | ~11 |
+| Commuting | 19.00% | ~12 |
+| Le jardin magnifique | 19.00% | ~12 |
 | Aiming for a living and human city | 18.00% | ~11 |
 | City of dreams | 18.00% | ~11 |
 | Happy Christmas night! | 18.00% | ~11 |

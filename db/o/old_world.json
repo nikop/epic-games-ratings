@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Rating": 4.65,
   "NumberOfRatings": 1307,
   "RatingHistory": [
@@ -1397,7 +1397,7 @@
   ],
   "EOS_Progressed": 10861,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3336,9 +3336,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 8254
+      "UsersEstimate": 8363
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -4718,8 +4718,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-05-06T11:59:22.9271225+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:06:59.8239542+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:22.2037998+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.7726608+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:59:31.6875282+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:06:59.8247895+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:59:18.0835857+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:22.204505+00:00"
 }

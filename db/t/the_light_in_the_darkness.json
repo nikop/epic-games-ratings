@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 17,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:39.5601593+00:00",
@@ -19,10 +19,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1174,
-  "EOS_Completed": 89,
-  "EOS_NewPlayers": 110,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.58,
+  "EOS_Completed": 90,
+  "EOS_NewPlayers": 107,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 7.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -728,6 +728,11 @@
       "Time": "2023-05-07T20:06:35.5452088+00:00",
       "NumProgressed": 1174,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T22:07:34.3678338+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 12,
@@ -825,9 +830,9 @@
       "ID": "Nuremberg Laws",
       "SetID": "b40dflc",
       "Name": "Nuremberg Laws",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 129
     }
   ],
   "AchievementSets": [
@@ -835,15 +840,15 @@
       "ID": "b40dflc",
       "IsBase": true,
       "Progressed": 1174,
-      "Completed": 89
+      "Completed": 90
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:07:09.4724782+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:34.3678335+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:01:10.7260383+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:07:09.4724926+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:01:29.881591+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:34.3678461+00:00"
 }

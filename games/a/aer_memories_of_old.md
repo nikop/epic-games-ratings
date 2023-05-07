@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~6,682 |
-| Mama? | 28.00% | ~2,462 |
-| People's Haven | 19.00% | ~1,670 |
-| Cartographer | 18.00% | ~1,583 |
-| Knowledge for Power | 15.00% | ~1,319 |
-| Antlers of Stone | 15.00% | ~1,319 |
-| Gaze into the abyss | 14.00% | ~1,231 |
-| Mausoleum of Ice | 14.00% | ~1,231 |
-| Equilibrium | 13.00% | ~1,143 |
-| In the belly of the beast | 12.00% | ~1,055 |
-| Wings of Stone | 12.00% | ~1,055 |
-| Condor condo | 11.00% | ~967 |
-| Memorial | 9.00% | ~791 |
-| An uninvited guest | 8.00% | ~703 |
-| Tails of Stone | 7.00% | ~615 |
-| Baa from the past | 7.00% | ~615 |
-| Written in stone | 7.00% | ~615 |
-| Talk to all the spirit animals | 7.00% | ~615 |
+| Light at the end of the tunnel | 76.00% | ~6,686 |
+| Mama? | 28.00% | ~2,463 |
+| People's Haven | 19.00% | ~1,672 |
+| Cartographer | 18.00% | ~1,584 |
+| Knowledge for Power | 15.00% | ~1,320 |
+| Antlers of Stone | 15.00% | ~1,320 |
+| Gaze into the abyss | 14.00% | ~1,232 |
+| Mausoleum of Ice | 14.00% | ~1,232 |
+| Equilibrium | 13.00% | ~1,144 |
+| In the belly of the beast | 12.00% | ~1,056 |
+| Wings of Stone | 12.00% | ~1,056 |
+| Condor condo | 11.00% | ~968 |
+| Memorial | 9.00% | ~792 |
+| An uninvited guest | 8.00% | ~704 |
+| Tails of Stone | 7.00% | ~616 |
+| Baa from the past | 7.00% | ~616 |
+| Written in stone | 7.00% | ~616 |
+| Talk to all the spirit animals | 7.00% | ~616 |
 | Ripples on the surface | 6.00% | ~528 |
 | Hide and Seek | 5.00% | ~440 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,792 (Ranked 107)  
+Progressed: 8,798 (Ranked 107)  
 Completed: 199 (2.26%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,7 +44,7 @@ Completed: 199 (2.26%) (Ranked 55)
 | 2023-05-04 | 8,489 | 195 |
 | 2023-05-05 | 8,584 | 196 |
 | 2023-05-06 | 8,688 | 197 |
-| 2023-05-07 | 8,792 | 199 |
+| 2023-05-07 | 8,798 | 199 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

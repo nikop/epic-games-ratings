@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.56,
   "NumberOfRatings": 524,
@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46054,
+  "EOS_Progressed": 46057,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1208,6 +1208,11 @@
       "Time": "2023-05-07T20:06:13.870291+00:00",
       "NumProgressed": 46054,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-07T22:07:08.1950556+00:00",
+      "NumProgressed": 46057,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1219,7 +1224,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8750
+      "UsersEstimate": 8751
     },
     {
       "ID": "02",
@@ -1235,7 +1240,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5526
+      "UsersEstimate": 5527
     },
     {
       "ID": "04",
@@ -1283,7 +1288,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "10",
@@ -1379,7 +1384,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "22",
@@ -1443,7 +1448,7 @@
       "Name": "Sound and Fury",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "30",
@@ -1467,7 +1472,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6908
+      "UsersEstimate": 6909
     },
     {
       "ID": "33",
@@ -1475,7 +1480,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "34",
@@ -1579,7 +1584,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "47",
@@ -1627,7 +1632,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "53",
@@ -1754,21 +1759,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46054,
+      "Progressed": 46057,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9522,
+      "Progressed": 9525,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:06:48.4688793+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:08.1950553+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:59:11.5836847+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:06:48.4689489+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:58:55.7821486+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:08.1951133+00:00"
 }

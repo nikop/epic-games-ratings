@@ -60,9 +60,9 @@
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -132,9 +132,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -148,9 +148,9 @@
       "ID": "thats_my_boy",
       "SetID": "84ad177",
       "Name": "That\u0027s my boy!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "this_wont_end_well",
@@ -197,8 +197,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:07:15.7895187+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:42.3205306+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.2558016+00:00",
-  "LastUpdate_Ratings": "2023-05-07T21:01:29.8539385+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:07:15.7895321+00:00"
+  "LastUpdate_Ratings": "2023-05-07T22:01:59.1191939+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:42.3205409+00:00"
 }

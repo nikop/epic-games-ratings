@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 19.00% | ~8,750 |
+| Follow the Light | 19.00% | ~8,751 |
 | Let There Be Light | 16.00% | ~7,369 |
-| Float Like a Butterfly | 15.00% | ~6,908 |
+| Float Like a Butterfly | 15.00% | ~6,909 |
 | Nordic Walking | 13.00% | ~5,987 |
-| Bright Falls' Finest | 12.00% | ~5,526 |
+| Bright Falls' Finest | 12.00% | ~5,527 |
 | Under a Thin Layer of Skin | 11.00% | ~5,066 |
 | Park Ranger | 9.00% | ~4,145 |
 | Back! Back, I Say! | 9.00% | ~4,145 |
 | Finders Keepers | 9.00% | ~4,145 |
 | Paging Mr. Wake | 9.00% | ~4,145 |
-| Wheels Within Wheels | 8.00% | ~3,684 |
-| They're Heeeeeere! | 8.00% | ~3,684 |
-| Sound and Fury | 8.00% | ~3,684 |
-| Missed by a Mile | 8.00% | ~3,684 |
-| Damn Good Cup of Coffee | 8.00% | ~3,684 |
+| Wheels Within Wheels | 8.00% | ~3,685 |
+| They're Heeeeeere! | 8.00% | ~3,685 |
+| Sound and Fury | 8.00% | ~3,685 |
+| Missed by a Mile | 8.00% | ~3,685 |
+| Damn Good Cup of Coffee | 8.00% | ~3,685 |
 | A Friend in Need | 8.00% | ~762 |
 | Heavy Metal | 7.00% | ~3,224 |
 | Iron Horse | 7.00% | ~3,224 |
@@ -34,7 +34,7 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 6.00% | ~2,763 |
 | Two For the Price of One | 6.00% | ~2,763 |
 | Energized! | 6.00% | ~2,763 |
-| A Friend Indeed | 6.00% | ~571 |
+| A Friend Indeed | 6.00% | ~572 |
 | Tornado Wrangler | 5.00% | ~2,303 |
 | What Light Through Yonder Window | 5.00% | ~2,303 |
 | Right of Way | 5.00% | ~2,303 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,054 (Ranked 74)  
+Progressed: 46,057 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 44 (0.10%) (Ranked 151)
 | 2023-05-04 | 45,993 | 44 |
 | 2023-05-05 | 46,013 | 44 |
 | 2023-05-06 | 46,035 | 44 |
-| 2023-05-07 | 46,054 | 44 |
+| 2023-05-07 | 46,057 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -434,10 +434,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 232,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-05-07T21:58:36.3052766+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232,
+  "NumberOfAwards": 233,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -493,12 +499,12 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 5602,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1128,9 +1134,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-04-25T13:04:35.1476764+00:00",
-  "LastChanged_Achievements": "2023-05-07T21:06:50.6134256+00:00",
+  "LastChanged": "2023-05-07T21:58:36.3052765+00:00",
+  "LastChanged_Achievements": "2023-05-07T22:07:10.7243625+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.1647024+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:58:55.7430789+00:00",
-  "LastUpdate_Achievements": "2023-05-07T21:06:50.6134714+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:58:36.3052773+00:00",
+  "LastUpdate_Achievements": "2023-05-07T22:07:10.7243897+00:00"
 }

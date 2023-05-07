@@ -6,7 +6,7 @@ Rating: 4.73 (Ranked 156)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 95.00% | ~1,819 |
-| No more cages! | 91.00% | ~1,743 |
+| No more cages! | 92.00% | ~1,762 |
 | Everfrost | 77.00% | ~1,475 |
 | Dark Forest | 76.00% | ~1,455 |
 | Pentakill | 75.00% | ~1,436 |
@@ -46,9 +46,9 @@ Rating: 4.73 (Ranked 156)
 | Whispers in the Woods IV | 10.00% | ~192 |
 | Embrace the darkness | 9.00% | ~172 |
 | I smell fear | 9.00% | ~172 |
+| The Great City of Demacia | 9.00% | ~172 |
 | Chains master | 8.00% | ~153 |
 | The end of the experiments | 8.00% | ~153 |
-| The Great City of Demacia | 8.00% | ~153 |
 | You can pet the... horse | 8.00% | ~153 |
 | Back to sleep, then... | 8.00% | ~153 |
 | Call it 'redistribution of magic | 8.00% | ~153 |

@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,816 |
-| Cavalier | 25.00% | ~195,013 |
-| Fatso | 23.00% | ~179,412 |
-| Awakening | 20.00% | ~156,010 |
-| Ranger | 20.00% | ~156,010 |
-| Scrooge | 20.00% | ~156,010 |
-| Anorectic | 16.00% | ~124,808 |
-| Firestarter | 15.00% | ~117,008 |
-| Bookworm | 14.00% | ~109,207 |
+| Blacksmith's Son | 31.00% | ~241,818 |
+| Cavalier | 25.00% | ~195,014 |
+| Fatso | 23.00% | ~179,413 |
+| Awakening | 20.00% | ~156,011 |
+| Ranger | 20.00% | ~156,011 |
+| Scrooge | 20.00% | ~156,011 |
+| Anorectic | 16.00% | ~124,809 |
+| Firestarter | 15.00% | ~117,009 |
+| Bookworm | 14.00% | ~109,208 |
 | Insomniac | 13.00% | ~101,407 |
 | Buddy | 11.00% | ~85,806 |
 | Sinner | 11.00% | ~85,806 |
 | Thief | 11.00% | ~85,806 |
-| Convict | 10.00% | ~78,005 |
-| Traveller | 10.00% | ~78,005 |
+| Convict | 10.00% | ~78,006 |
+| Traveller | 10.00% | ~78,006 |
 | Haggler | 9.00% | ~70,205 |
 | Runt | 7.00% | ~54,604 |
 | Casanova | 6.00% | ~46,803 |
@@ -50,7 +50,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,801 |
 | Master Huntsman | 1.00% | ~7,801 |
 | Stealth Killer | 1.00% | ~7,801 |
-| Spoilsport | 0.90% | ~7,020 |
+| Spoilsport | 0.90% | ~7,021 |
 | Bailiff | 0.80% | ~6,240 |
 | Tracker | 0.80% | ~6,240 |
 | David Horak | 0.70% | ~5,460 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~780 |
 | Wingman | 0.10% | ~780 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 780,051 (Ranked 12)  
+Progressed: 780,057 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,14 +106,14 @@ Completed: 39 (0.00%) (Ranked 192)
 | 2023-05-04 | 779,549 | 38 |
 | 2023-05-05 | 779,689 | 38 |
 | 2023-05-06 | 779,872 | 38 |
-| 2023-05-07 | 780,051 | 39 |
+| 2023-05-07 | 780,057 | 39 |
 ## Awards
-Max (Character Customization): 7,141  (Ranked 43)  
-Sum: 26,725 (Ranked 42)  
+Max (Character Customization): 7,145  (Ranked 43)  
+Sum: 26,729 (Ranked 42)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,141 |
+| This game has Inclusive Character Customization | 7,145 |
 | This game has Great Boss Battles | 5,263 |
 | This game has Challenging Combat | 1,673 |
 | This game has Amazing Storytelling | 1,643 |
@@ -230,4 +230,4 @@ Diff (max vs sum): 1
 | 2023-05-04 | 4.71 | - | 7,137 | 26,703 |
 | 2023-05-05 | 4.71 | - | 7,137 | 26,707 |
 | 2023-05-06 | 4.71 | - | 7,141 | 26,719 |
-| 2023-05-07 | 4.71 | - | 7,141 | 26,725 |
+| 2023-05-07 | 4.71 | - | 7,145 | 26,729 |

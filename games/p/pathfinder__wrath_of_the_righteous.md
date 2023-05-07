@@ -58,13 +58,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Masterful Charge | 0.30% | ~26 |
 | Prelate's Nemesis | 0.20% | ~17 |
 | Just Pathetic | 0.20% | ~17 |
+| Ashes to Ashes | 0.20% | ~17 |
 | Path of the Swarm | 0.10% | ~9 |
 | Equal to Aroden | 0.10% | ~9 |
 | Spirit of Adventure | 0.10% | ~9 |
 | Test of the Starstone | 0.10% | ~9 |
 | Masterful Craftsmanship | 0.10% | ~9 |
 | Masterful Dispel | 0.10% | ~9 |
-| Ashes to Ashes | 0.10% | ~9 |
 | Blight of Drezen | 0.00% | ~0 |
 | Memories Frozen in Time | 0.00% | ~0 |
 | Death by Column | 0.00% | ~0 |
