@@ -6,22 +6,22 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,022 |
-| Tutti Eroi! | 53.00% | ~2,966 |
-| You Shall Not Pass | 53.00% | ~2,966 |
-| Avanti Savoia! | 46.00% | ~2,575 |
-| Conrad von Hotzensocks | 35.00% | ~1,959 |
-| Mamma Mia! | 35.00% | ~1,959 |
-| Gabriele D'Annunzio | 32.00% | ~1,791 |
-| Silver Lining | 28.00% | ~1,567 |
-| Aurelio Baruzzi | 22.00% | ~1,231 |
-| Veni Vidi Vici | 22.00% | ~1,231 |
-| Decimation | 20.00% | ~1,119 |
-| Donatello | 20.00% | ~1,119 |
-| Insubordination | 19.00% | ~1,063 |
-| The Italian Job | 19.00% | ~1,063 |
-| The Lion of the Isonzo | 18.00% | ~1,007 |
-| Ragazzi del '99 | 17.00% | ~951 |
+| Peak Performance | 54.00% | ~3,023 |
+| Tutti Eroi! | 53.00% | ~2,967 |
+| You Shall Not Pass | 53.00% | ~2,967 |
+| Avanti Savoia! | 46.00% | ~2,576 |
+| Conrad von Hotzensocks | 35.00% | ~1,960 |
+| Mamma Mia! | 35.00% | ~1,960 |
+| Gabriele D'Annunzio | 32.00% | ~1,792 |
+| Silver Lining | 28.00% | ~1,568 |
+| Aurelio Baruzzi | 22.00% | ~1,232 |
+| Veni Vidi Vici | 22.00% | ~1,232 |
+| Decimation | 20.00% | ~1,120 |
+| Donatello | 20.00% | ~1,120 |
+| Insubordination | 19.00% | ~1,064 |
+| The Italian Job | 19.00% | ~1,064 |
+| The Lion of the Isonzo | 18.00% | ~1,008 |
+| Ragazzi del '99 | 17.00% | ~952 |
 | Thus With A Kiss | 15.00% | ~840 |
 | Dirty Dozen | 14.00% | ~784 |
 | Luigi Cadorna | 13.00% | ~728 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~22 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,597 (Ranked 115)  
+Progressed: 5,599 (Ranked 115)  
 Completed: 8 (0.14%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 8 (0.14%) (Ranked 143)
 | 2023-05-04 | 5,584 | 8 |
 | 2023-05-05 | 5,587 | 8 |
 | 2023-05-06 | 5,592 | 8 |
-| 2023-05-07 | 5,597 | 8 |
+| 2023-05-07 | 5,599 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 444)  
 Sum: 232 (Ranked 342)  

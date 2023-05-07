@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,685 (Ranked 97)  
+Progressed: 14,686 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,17 +74,17 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-04 | 14,637 | 30 |
 | 2023-05-05 | 14,657 | 30 |
 | 2023-05-06 | 14,678 | 30 |
-| 2023-05-07 | 14,685 | 30 |
+| 2023-05-07 | 14,686 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
-Sum: 3,015 (Ranked 149)  
+Sum: 3,016 (Ranked 149)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |
 | This game is Relaxing | 410 |
 | This game is Extremely Fun | 389 |
-| This game is Great for Beginners | 371 |
+| This game is Great for Beginners | 372 |
 | This game is Highly Recommended | 369 |
 | This game has Unique Visuals | 300 |
 | This game has Amazing Storytelling | 297 |
@@ -205,3 +205,4 @@ Diff (max vs sum): 43
 | 2023-05-04 | 4.81 | - | 417 | 3,012 |
 | 2023-05-05 | 4.81 | - | 417 | 3,014 |
 | 2023-05-06 | 4.81 | - | 417 | 3,015 |
+| 2023-05-07 | 4.81 | - | 417 | 3,016 |

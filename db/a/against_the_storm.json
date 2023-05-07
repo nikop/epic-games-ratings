@@ -2146,10 +2146,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3015,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-05-07T10:02:06.623806+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3016,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3015,
+  "NumberOfAwards": 3016,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2187,7 +2193,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 371
+      "Count": 372
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2214,7 +2220,7 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14685,
+  "EOS_Progressed": 14686,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -2989,6 +2995,11 @@
       "Time": "2023-05-07T07:07:14.3991201+00:00",
       "NumProgressed": 14685,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-07T10:07:59.0359524+00:00",
+      "NumProgressed": 14686,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3399,15 +3410,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14685,
+      "Progressed": 14686,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-05-06T01:52:28.1299102+00:00",
-  "LastChanged_Achievements": "2023-05-07T09:08:06.8011365+00:00",
+  "LastChanged": "2023-05-07T10:02:06.6238058+00:00",
+  "LastChanged_Achievements": "2023-05-07T10:07:59.0359519+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:02:08.0395272+00:00",
-  "LastUpdate_Achievements": "2023-05-07T09:08:06.8011844+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:02:06.6238064+00:00",
+  "LastUpdate_Achievements": "2023-05-07T10:07:59.0360006+00:00"
 }

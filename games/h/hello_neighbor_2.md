@@ -11,7 +11,7 @@ Rating: 4.40 (Ranked 665)
 | Easy As Pie | 32.00% | ~738 |
 | Family Lost | 30.00% | ~692 |
 | Treasure Hunt | 30.00% | ~692 |
-| Ancient Curse | 27.00% | ~622 |
+| Ancient Curse | 27.00% | ~623 |
 | Cat Person | 25.00% | ~576 |
 | Reunion | 24.00% | ~553 |
 | Climber | 23.00% | ~530 |
@@ -20,7 +20,7 @@ Rating: 4.40 (Ranked 665)
 | Imprisonment | 22.00% | ~507 |
 | Dog Person | 19.00% | ~438 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,305 (Ranked 139)  
+Progressed: 2,306 (Ranked 139)  
 Completed: 89 (3.86%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,7 +37,7 @@ Completed: 89 (3.86%) (Ranked 32)
 | 2023-05-04 | 2,293 | 89 |
 | 2023-05-05 | 2,297 | 89 |
 | 2023-05-06 | 2,304 | 89 |
-| 2023-05-07 | 2,305 | 89 |
+| 2023-05-07 | 2,306 | 89 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

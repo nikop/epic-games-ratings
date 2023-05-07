@@ -232,9 +232,9 @@
       "ID": "DevilDetail",
       "SetID": "2aagp3d",
       "Name": "Devil\u0027s in the details",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "Devoted",
@@ -440,9 +440,9 @@
       "ID": "YagaHood",
       "SetID": "2aagp3d",
       "Name": "Forbidden techniques",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "YagaProfessional",
@@ -465,8 +465,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-07T09:07:35.6094914+00:00",
+  "LastChanged_Achievements": "2023-05-07T10:07:27.7400422+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:13.2811944+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:59:27.8079572+00:00",
-  "LastUpdate_Achievements": "2023-05-07T09:07:35.6095201+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:59:29.702847+00:00",
+  "LastUpdate_Achievements": "2023-05-07T10:07:27.7400666+00:00"
 }

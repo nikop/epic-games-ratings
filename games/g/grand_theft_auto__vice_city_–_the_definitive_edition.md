@@ -5,7 +5,7 @@ Rating: 4.66 (Ranked 271)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,609 |
+| Legal Counsel | 43.00% | ~2,610 |
 | Greasy Palms | 39.00% | ~2,367 |
 | South American Connection | 23.00% | ~1,396 |
 | Life of the Party | 17.00% | ~1,032 |
@@ -40,7 +40,7 @@ Rating: 4.66 (Ranked 271)
 | Keepie-Uppy Okie Dokie | 0.60% | ~36 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,068 (Ranked 114)  
+Progressed: 6,069 (Ranked 114)  
 Completed: 20 (0.33%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 20 (0.33%) (Ranked 111)
 | 2023-05-04 | 6,028 | 20 |
 | 2023-05-05 | 6,045 | 20 |
 | 2023-05-06 | 6,063 | 20 |
-| 2023-05-07 | 6,068 | 20 |
+| 2023-05-07 | 6,069 | 20 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 444)  
 Sum: 30 (Ranked 458)  

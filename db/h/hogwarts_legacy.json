@@ -1998,9 +1998,9 @@
       "Count": 455
     }
   ],
-  "EOS_Progressed": 265988,
+  "EOS_Progressed": 265992,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 1256,
+  "EOS_NewPlayers": 1253,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3363,6 +3363,11 @@
       "Time": "2023-05-07T09:07:13.3867578+00:00",
       "NumProgressed": 265988,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2023-05-07T10:07:05.0436181+00:00",
+      "NumProgressed": 265992,
+      "NumCompleted": 351
     }
   ],
   "TotalAchievements": 45,
@@ -3374,7 +3379,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "PFA_10",
@@ -3382,7 +3387,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "PFA_11",
@@ -3390,7 +3395,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "PFA_12",
@@ -3398,7 +3403,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "PFA_13",
@@ -3406,7 +3411,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "PFA_14",
@@ -3430,7 +3435,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "PFA_17",
@@ -3630,7 +3635,7 @@
       "Name": "Coasting Along",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "PFA_4",
@@ -3726,14 +3731,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 265988,
+      "Progressed": 265992,
       "Completed": 351
     }
   ],
@@ -3741,8 +3746,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-07T07:58:28.0532894+00:00",
-  "LastChanged_Achievements": "2023-05-07T09:07:13.3867574+00:00",
+  "LastChanged_Achievements": "2023-05-07T10:07:05.0436175+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:58:42.0870566+00:00",
-  "LastUpdate_Achievements": "2023-05-07T09:07:13.386803+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:58:39.0274621+00:00",
+  "LastUpdate_Achievements": "2023-05-07T10:07:05.0436651+00:00"
 }

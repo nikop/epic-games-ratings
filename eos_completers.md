@@ -18,7 +18,7 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.77% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.76% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -28,7 +28,7 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.28% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.27% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -78,7 +78,7 @@
 | 76 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 77 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 79 | [Dungeons 3](games/d/dungeons_3.md) | 0.95% |
+| 79 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
 | 80 | [Sable](games/s/sable.md) | 0.91% |
 | 81 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 81 | [Hades](games/h/hades.md) | 0.89% |
@@ -88,7 +88,7 @@
 | 86 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 87 | [Adios](games/a/adios.md) | 0.80% |
 | 88 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
-| 89 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 89 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 90 | [Train Valley](games/t/train_valley.md) | 0.73% |
 | 91 | [Haven](games/h/haven.md) | 0.72% |
 | 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.69% |
@@ -98,7 +98,7 @@
 | 96 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.54% |
 | 97 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 98 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
-| 99 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
+| 99 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 101 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 101 | [Aragami 2](games/a/aragami_2.md) | 0.46% |

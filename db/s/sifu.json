@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 19,
   "Rating": 4.82,
   "NumberOfRatings": 9492,
@@ -3766,10 +3766,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10231,
       "NumberOfAwardsMax": 6035
+    },
+    {
+      "Time": "2023-05-07T10:00:51.8583222+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10233,
+      "NumberOfAwardsMax": 6035
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10231,
+  "NumberOfAwards": 10233,
   "NumberOfAwardsMax": 6035,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3783,7 +3789,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 487
+      "Count": 489
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3846,9 +3852,9 @@
       "Count": 340
     }
   ],
-  "EOS_Progressed": 702668,
-  "EOS_Completed": 12710,
-  "EOS_NewPlayers": 280,
+  "EOS_Progressed": 702670,
+  "EOS_Completed": 12711,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -4986,6 +4992,11 @@
       "Time": "2023-05-07T09:07:48.0483619+00:00",
       "NumProgressed": 702668,
       "NumCompleted": 12710
+    },
+    {
+      "Time": "2023-05-07T10:07:40.0619631+00:00",
+      "NumProgressed": 702670,
+      "NumCompleted": 12711
     }
   ],
   "TotalAchievements": 50,
@@ -5227,9 +5238,9 @@
       "ID": "30_ComboMid",
       "SetID": "adcm20g",
       "Name": "I know Kung-Fu",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2108
+      "UsersEstimate": 2811
     },
     {
       "ID": "31_ComboHigh",
@@ -5396,21 +5407,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11969,
-      "Completed": 10039
+      "Progressed": 11971,
+      "Completed": 10040
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702668,
-      "Completed": 12710
+      "Progressed": 702670,
+      "Completed": 12711
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-07T08:00:32.0175108+00:00",
-  "LastChanged_Achievements": "2023-05-07T09:07:48.0483612+00:00",
+  "LastChanged": "2023-05-07T10:00:51.8583219+00:00",
+  "LastChanged_Achievements": "2023-05-07T10:07:40.0619625+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:00:52.8061961+00:00",
-  "LastUpdate_Achievements": "2023-05-07T09:07:48.0484158+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:00:51.8583227+00:00",
+  "LastUpdate_Achievements": "2023-05-07T10:07:40.0620149+00:00"
 }

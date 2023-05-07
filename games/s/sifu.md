@@ -35,13 +35,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.40% | ~2,811 |
 | Dance of the Praying Mantis | 0.40% | ~2,811 |
 | Qi Gong: Mind | 0.40% | ~2,811 |
+| I know Kung-Fu | 0.40% | ~2,811 |
 | Tiger on Fire | 0.30% | ~2,108 |
 | Source of Flying Daggers | 0.30% | ~2,108 |
 | Iron Money | 0.30% | ~2,108 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,108 |
 | Detective Story | 0.30% | ~2,108 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,108 |
-| I know Kung-Fu | 0.30% | ~2,108 |
 | Sword Stained With Blood | 0.30% | ~2,108 |
 | Martial Hub | 0.30% | ~36 |
 | Secure, Protect, Leave | 0.30% | ~36 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,668 (Ranked 15)  
-Completed: 12,710 (1.81%) (Ranked 58)  
+Progressed: 702,670 (Ranked 15)  
+Completed: 12,711 (1.81%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,10 +74,10 @@ Completed: 12,710 (1.81%) (Ranked 58)
 | 2023-05-04 | 702,592 | 12,707 |
 | 2023-05-05 | 702,619 | 12,709 |
 | 2023-05-06 | 702,653 | 12,709 |
-| 2023-05-07 | 702,668 | 12,710 |
+| 2023-05-07 | 702,670 | 12,711 |
 ## Awards
 Max (Great Boss Battles): 6,035  (Ranked 53)  
-Sum: 10,231 (Ranked 77)  
+Sum: 10,233 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -85,7 +85,7 @@ Diff (max vs sum): -24
 | This game has Diverse Characters | 502 |
 | This game has Challenging Combat | 500 |
 | This game has Quickly Understood Controls | 496 |
-| This game is Extremely Fun | 487 |
+| This game is Extremely Fun | 489 |
 | This game has Amazing Storytelling | 484 |
 | This game is Highly Recommended | 472 |
 | This game has Amazing Characters | 466 |
@@ -207,4 +207,4 @@ Diff (max vs sum): -24
 | 2023-05-04 | 4.82 | - | 6,025 | 10,205 |
 | 2023-05-05 | 4.82 | - | 6,029 | 10,213 |
 | 2023-05-06 | 4.82 | - | 6,035 | 10,228 |
-| 2023-05-07 | 4.82 | - | 6,035 | 10,231 |
+| 2023-05-07 | 4.82 | - | 6,035 | 10,233 |

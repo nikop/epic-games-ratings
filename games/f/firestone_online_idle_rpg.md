@@ -34,6 +34,7 @@ Rating: 3.40 (Ranked 917)
 | Hunter | 2.00% | ~18 |
 | Mastery | 2.00% | ~18 |
 | Moving Up The Ladder | 2.00% | ~18 |
+| Mysterious Rock | 2.00% | ~18 |
 | Scroll Master | 2.00% | ~18 |
 | The Expeditioner | 2.00% | ~18 |
 | The power of Awakening | 2.00% | ~18 |
@@ -43,7 +44,6 @@ Rating: 3.40 (Ranked 917)
 | Four Leaf Clover | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
 | Missions Dedication | 1.00% | ~9 |
-| Mysterious Rock | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | Master Enchanter | 0.90% | ~8 |

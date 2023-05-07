@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 889,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1487,9 +1487,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 18
     },
     {
       "ID": "mythicpower",
@@ -1736,8 +1736,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-07T09:07:34.8663417+00:00",
+  "LastChanged_Achievements": "2023-05-07T10:07:27.0101035+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:59:36.7444695+00:00",
-  "LastUpdate_Achievements": "2023-05-07T09:07:34.8664307+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:59:37.534118+00:00",
+  "LastUpdate_Achievements": "2023-05-07T10:07:27.0101854+00:00"
 }

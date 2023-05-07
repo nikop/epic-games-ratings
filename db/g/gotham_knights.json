@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Rating": 4.17,
   "RatingHistory": [
     {
@@ -992,9 +992,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60687,
+  "EOS_Progressed": 60688,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1917,6 +1917,11 @@
       "Time": "2023-05-07T09:08:01.8994709+00:00",
       "NumProgressed": 60687,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-07T10:07:54.4496921+00:00",
+      "NumProgressed": 60688,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2238,9 +2243,9 @@
       "ID": "HARLEY_2",
       "SetID": "4eo5ebm",
       "Name": "Get ReQ\u0027d",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "HARLEY_3",
@@ -2358,9 +2363,9 @@
       "ID": "MYSTERY_06",
       "SetID": "4eo5ebm",
       "Name": "Voiceless",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "MYSTERY_07",
@@ -2415,13 +2420,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60687,
+      "Progressed": 60688,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 30967,
+      "Progressed": 30968,
       "Completed": 2630
     }
   ],
@@ -2429,8 +2434,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-07T06:01:22.7694321+00:00",
-  "LastChanged_Achievements": "2023-05-07T09:08:01.8994705+00:00",
+  "LastChanged_Achievements": "2023-05-07T10:07:54.4496915+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-07T09:01:50.7298506+00:00",
-  "LastUpdate_Achievements": "2023-05-07T09:08:01.8995335+00:00"
+  "LastUpdate_Ratings": "2023-05-07T10:01:49.0622857+00:00",
+  "LastUpdate_Achievements": "2023-05-07T10:07:54.4497573+00:00"
 }
