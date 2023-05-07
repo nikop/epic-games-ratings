@@ -3,8 +3,8 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 103,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 100,
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5582,
+  "EOS_Progressed": 5585,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -997,6 +997,11 @@
       "Time": "2023-05-07T20:06:10.872364+00:00",
       "NumProgressed": 5582,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-07T21:06:45.5697707+00:00",
+      "NumProgressed": 5585,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1008,7 +1013,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ARRR",
@@ -1056,7 +1061,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1064,7 +1069,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "FASHION_VICTIM",
@@ -1126,9 +1131,9 @@
       "ID": "LIVE_WIRE",
       "SetID": "3cck1g6",
       "Name": "Live Wire",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 167
+      "UsersEstimate": 223
     },
     {
       "ID": "SHREDDER",
@@ -1175,7 +1180,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5582,
+      "Progressed": 5585,
       "Completed": 20
     }
   ],
@@ -1183,8 +1188,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:10.8723637+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:06:45.5697703+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:59:09.1877885+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:10.8723802+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:59:32.7046205+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:06:45.569796+00:00"
 }

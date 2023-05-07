@@ -2,14 +2,14 @@
   "ID": "08ae29e4f70a4b62aa055e383381aa82",
   "Name": "Breathedge",
   "ProductSlug": "breathedge",
-  "Ranking_Rating": 695,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Rating": 681,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 73,
-  "Rating": 4.37,
+  "Rating": 4.39,
   "NumberOfRatings": 61,
   "RatingHistory": [
     {
@@ -302,6 +302,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-07T21:01:17.9229105+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -319,8 +325,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:13.8182721+00:00",
-  "LastChanged": "2023-05-06T20:00:46.8604907+00:00",
+  "LastChanged": "2023-05-07T21:01:17.9229102+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.5058717+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:00:53.4204293+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:05:22.8734811+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:01:17.9229109+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:05:44.7495936+00:00"
 }

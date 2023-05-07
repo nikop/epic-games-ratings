@@ -6,12 +6,12 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~431,740 |
-| The Three | 64.00% | ~332,908 |
-| The Banquet | 40.00% | ~208,068 |
-| Devara's Light | 30.00% | ~156,051 |
-| The Iron Ones | 18.00% | ~93,630 |
-| The Village | 16.00% | ~83,227 |
+| Find Sanctuary | 83.00% | ~431,743 |
+| The Three | 64.00% | ~332,910 |
+| The Banquet | 40.00% | ~208,069 |
+| Devara's Light | 30.00% | ~156,052 |
+| The Iron Ones | 18.00% | ~93,631 |
+| The Village | 16.00% | ~83,228 |
 | The Forest | 14.00% | ~72,824 |
 | Branded | 13.00% | ~67,622 |
 | The Imposter | 13.00% | ~67,622 |
@@ -27,9 +27,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~31,210 |
 | The Mire | 6.00% | ~31,210 |
 | The Ruins | 6.00% | ~31,210 |
-| The Alkymancery | 5.00% | ~26,008 |
-| The Lake | 5.00% | ~26,008 |
-| The Pitchwoods | 5.00% | ~26,008 |
+| The Alkymancery | 5.00% | ~26,009 |
+| The Lake | 5.00% | ~26,009 |
+| The Pitchwoods | 5.00% | ~26,009 |
 | Honed | 4.00% | ~20,807 |
 | The House of Splendor | 4.00% | ~20,807 |
 | The Crypt | 4.00% | ~20,807 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,403 |
 | Fading Fast | 1.00% | ~5,202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,169 (Ranked 23)  
+Progressed: 520,172 (Ranked 23)  
 Completed: 1,400 (0.27%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,14 +61,14 @@ Completed: 1,400 (0.27%) (Ranked 124)
 | 2023-05-04 | 519,799 | 1,396 |
 | 2023-05-05 | 519,912 | 1,397 |
 | 2023-05-06 | 520,051 | 1,399 |
-| 2023-05-07 | 520,169 | 1,400 |
+| 2023-05-07 | 520,172 | 1,400 |
 ## Awards
-Max (Challenging Combat): 267  (Ranked 232)  
-Sum: 1,872 (Ranked 190)  
+Max (Challenging Combat): 268  (Ranked 232)  
+Sum: 1,873 (Ranked 190)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 267 |
+| This game has Challenging Combat | 268 |
 | This game has Quickly Understood Controls | 249 |
 | This game is Highly Recommended | 246 |
 | This game has Diverse Characters | 227 |
@@ -179,3 +179,4 @@ Diff (max vs sum): 42
 | 2023-04-28 | 4.61 | - | 267 | 1,869 |
 | 2023-04-30 | 4.61 | - | 267 | 1,870 |
 | 2023-05-04 | 4.61 | - | 267 | 1,872 |
+| 2023-05-07 | 4.61 | - | 268 | 1,873 |

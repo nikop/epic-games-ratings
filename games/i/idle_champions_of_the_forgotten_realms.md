@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
 | Homecoming | 0.20% | ~174 |
+| The Lost Heir of Omu | 0.20% | ~174 |
 | No One Can Hear You Scream | 0.20% | ~106 |
 | Beast Mode | 0.20% | ~174 |
 | Low Initiative | 0.20% | ~174 |
@@ -186,7 +187,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.10% | ~87 |
 | Struggling Toward Omu | 0.10% | ~87 |
 | Wagon Train | 0.10% | ~87 |
-| The Lost Heir of Omu | 0.10% | ~87 |
 | Not Very Charming | 0.10% | ~87 |
 | Lobsterfolk Assault | 0.10% | ~87 |
 | Taking Responsibility | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,791 (Ranked 59)  
+Progressed: 86,794 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,791 | 1,810 |
+| 2023-05-07 | 86,794 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,830 (Ranked 37)  

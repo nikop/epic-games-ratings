@@ -2,10 +2,10 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 26,
-  "Ranking_EOS_Progress": 81,
+  "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 17,
   "Ranking_EOS_NewCompleters": 73,
@@ -4478,10 +4478,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 42923,
       "NumberOfAwardsMax": 5190
+    },
+    {
+      "Time": "2023-05-07T20:58:52.9608278+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42931,
+      "NumberOfAwardsMax": 5190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42923,
+  "NumberOfAwards": 42931,
   "NumberOfAwardsMax": 5190,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -4525,7 +4531,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4653
+      "Count": 4661
     },
     {
       "Text": "This game is Relaxing",
@@ -4552,9 +4558,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 31929,
+  "EOS_Progressed": 31973,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5633,
+  "EOS_NewPlayers": 5622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6017,6 +6023,11 @@
       "Time": "2023-05-07T20:06:34.6663246+00:00",
       "NumProgressed": 31929,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T21:07:08.9147052+00:00",
+      "NumProgressed": 31973,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -6156,7 +6167,7 @@
       "Name": "Agressive Expander",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -6186,9 +6197,9 @@
       "ID": "achievement_all_that_is_thine_shall_be_mine",
       "SetID": "8p2n7he",
       "Name": "All That\u0027s Thine Shall Be Mine",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -6308,7 +6319,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -6460,7 +6471,7 @@
       "Name": "Bright Spark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_brothers_in_arms",
@@ -6468,7 +6479,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1918
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -6540,7 +6551,7 @@
       "Name": "City of Cities",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_cold_war",
@@ -6548,7 +6559,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1279
     },
     {
       "ID": "achievement_colonial_management",
@@ -6644,7 +6655,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -6754,9 +6765,9 @@
       "ID": "achievement_emperors_new_clothes",
       "SetID": "8p2n7he",
       "Name": "The Emperors new clothes",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -6788,7 +6799,7 @@
       "Name": "Factionalism",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_fanatic_collectivist",
@@ -6860,7 +6871,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1599
     },
     {
       "ID": "achievement_forever_golden",
@@ -6988,7 +6999,7 @@
       "Name": "A Golden Empire",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_golden_horn",
@@ -7028,7 +7039,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2558
     },
     {
       "ID": "achievement_grand_coalition",
@@ -7052,7 +7063,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1918
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -7220,7 +7231,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_italian_ambition",
@@ -7244,7 +7255,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -7596,7 +7607,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_my_true_friend",
@@ -7964,7 +7975,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -8028,7 +8039,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1918
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -8308,7 +8319,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2558
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -8372,7 +8383,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -8620,7 +8631,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1279
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -8692,7 +8703,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2878
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -8724,7 +8735,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2558
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -8859,21 +8870,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 31929,
+      "Progressed": 31973,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 31929,
+      "Progressed": 31973,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-05-07T19:58:32.686317+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:34.6663243+00:00",
+  "LastChanged": "2023-05-07T20:58:52.9608276+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:07:08.9147048+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.1468914+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:58:32.6863175+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:34.6673404+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:58:52.9608283+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:07:08.9157889+00:00"
 }

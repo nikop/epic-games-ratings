@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12263,
+  "EOS_Progressed": 12264,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1347,6 +1347,11 @@
       "Time": "2023-05-07T20:06:04.1565707+00:00",
       "NumProgressed": 12263,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-07T21:06:35.6776508+00:00",
+      "NumProgressed": 12264,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1534,7 +1539,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "tpote_achievement_30",
@@ -1550,7 +1555,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2207
+      "UsersEstimate": 2208
     },
     {
       "ID": "tpote_achievement_32",
@@ -1558,7 +1563,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "tpote_achievement_33",
@@ -1622,7 +1627,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5150
+      "UsersEstimate": 5151
     },
     {
       "ID": "tpote_achievement_40",
@@ -1685,15 +1690,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12263,
+      "Progressed": 12264,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:04.1565704+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:06:35.67765+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:01:04.8819812+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:04.156602+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:01:29.3993225+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:06:35.6776903+00:00"
 }

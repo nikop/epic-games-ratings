@@ -40,7 +40,7 @@ Rating: 4.66 (Ranked 271)
 | Keepie-Uppy Okie Dokie | 0.60% | ~36 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,081 (Ranked 114)  
+Progressed: 6,082 (Ranked 114)  
 Completed: 20 (0.33%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,10 +57,10 @@ Completed: 20 (0.33%) (Ranked 111)
 | 2023-05-04 | 6,028 | 20 |
 | 2023-05-05 | 6,045 | 20 |
 | 2023-05-06 | 6,063 | 20 |
-| 2023-05-07 | 6,081 | 20 |
+| 2023-05-07 | 6,082 | 20 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 444)  
-Sum: 30 (Ranked 458)  
+Max (Great Boss Battles): 30  (Ranked 443)  
+Sum: 30 (Ranked 457)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |

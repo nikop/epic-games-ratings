@@ -3,11 +3,11 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 664,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.4,
   "RatingHistory": [
@@ -654,8 +654,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-03T20:59:35.8574213+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:46.6171914+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:07:20.2867451+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.2631073+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:01:24.0434899+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:46.6172012+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:01:49.9235646+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:07:20.2867593+00:00"
 }

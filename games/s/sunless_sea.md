@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,258 |
-| Sweet Sorrow | 18.00% | ~5,129 |
-| Rules the Waves | 17.00% | ~4,844 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,559 |
-| Rival | 14.00% | ~3,989 |
-| Correspondent | 12.00% | ~3,419 |
-| Lose Your Mind | 12.00% | ~3,419 |
-| Sound Mind? | 12.00% | ~3,419 |
-| Salt's Curse | 11.00% | ~3,134 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,134 |
-| The Fall of the House | 11.00% | ~3,134 |
-| Shipmate | 11.00% | ~3,134 |
+| Sink Beneath the Waves | 36.00% | ~10,261 |
+| Sweet Sorrow | 18.00% | ~5,131 |
+| Rules the Waves | 17.00% | ~4,846 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,561 |
+| Rival | 14.00% | ~3,991 |
+| Correspondent | 12.00% | ~3,420 |
+| Lose Your Mind | 12.00% | ~3,420 |
+| Sound Mind? | 12.00% | ~3,420 |
+| Salt's Curse | 11.00% | ~3,135 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,135 |
+| The Fall of the House | 11.00% | ~3,135 |
+| Shipmate | 11.00% | ~3,135 |
 | The Ascent of Man | 8.00% | ~2,280 |
 | One Year at Zee | 8.00% | ~2,280 |
 | Pupil | 7.00% | ~1,995 |
@@ -44,24 +44,24 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~285 |
 | Under the zee | 1.00% | ~285 |
 | A current under zee | 1.00% | ~285 |
-| A zee-change | 0.90% | ~256 |
-| Never Stop Sinking... | 0.90% | ~256 |
-| Leviathan | 0.90% | ~256 |
-| Depth charge | 0.90% | ~256 |
+| A zee-change | 0.90% | ~257 |
+| Never Stop Sinking... | 0.90% | ~257 |
+| Leviathan | 0.90% | ~257 |
+| Depth charge | 0.90% | ~257 |
 | What lies beneath | 0.80% | ~228 |
-| Stone's Curse | 0.70% | ~199 |
-| Five Years at Zee | 0.50% | ~142 |
+| Stone's Curse | 0.70% | ~200 |
+| Five Years at Zee | 0.50% | ~143 |
 | The Lady's Parlour | 0.20% | ~57 |
 | A Past Wreathed in Shadows | 0.20% | ~57 |
 | Under pressure | 0.20% | ~57 |
-| A Drownie devotee | 0.10% | ~28 |
-| Romans 6:9 | 0.10% | ~28 |
-| Ofermod | 0.10% | ~28 |
-| Consider Phlebas | 0.10% | ~28 |
-| Death By Water | 0.10% | ~28 |
-| Ten Years at Zee | 0.10% | ~28 |
+| A Drownie devotee | 0.10% | ~29 |
+| Romans 6:9 | 0.10% | ~29 |
+| Ofermod | 0.10% | ~29 |
+| Consider Phlebas | 0.10% | ~29 |
+| Death By Water | 0.10% | ~29 |
+| Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,495 (Ranked 83)  
+Progressed: 28,504 (Ranked 83)  
 Completed: 3 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 3 (0.01%) (Ranked 184)
 | 2023-05-04 | 28,180 | 3 |
 | 2023-05-05 | 28,275 | 3 |
 | 2023-05-06 | 28,378 | 3 |
-| 2023-05-07 | 28,495 | 3 |
+| 2023-05-07 | 28,504 | 3 |
 ## Awards
 Max (Character Customization): 205  (Ranked 255)  
 Sum: 274 (Ranked 330)  

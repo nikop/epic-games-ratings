@@ -10,7 +10,7 @@ Rating: 4.63 (Ranked 326)
 | All thumbs | 90.00% | ~3,564 |
 | Home, sweet home | 89.00% | ~3,524 |
 | Survivalist | 87.00% | ~3,445 |
-| One way ticket | 82.00% | ~3,247 |
+| One way ticket | 83.00% | ~3,287 |
 | Last man standing | 76.00% | ~3,010 |
 | Family guy | 75.00% | ~2,970 |
 | Out of the Bag | 71.00% | ~2,812 |

@@ -18,7 +18,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -208,6 +208,11 @@
       "Time": "2023-05-07T17:06:24.5340763+00:00",
       "NumProgressed": 400,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-07T21:06:51.8779783+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -225,9 +230,9 @@
       "ID": "TROP001",
       "SetID": "9n0dl35",
       "Name": "We Are a Family",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "TROP002",
@@ -259,7 +264,7 @@
       "Name": "A Friend in Need",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "TROP006",
@@ -283,7 +288,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "TROP009",
@@ -409,9 +414,9 @@
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "TROP025",
@@ -433,16 +438,16 @@
       "ID": "TROP027",
       "SetID": "9n0dl35",
       "Name": "Easter Egg",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 2
     }
   ],
@@ -450,8 +455,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:17.2575637+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:06:51.877978+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.2720702+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:00:06.5780642+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:17.2575796+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:00:27.6454515+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:06:51.8779977+00:00"
 }

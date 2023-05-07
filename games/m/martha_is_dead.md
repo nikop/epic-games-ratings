@@ -1,7 +1,7 @@
 # Martha Is Dead
 [Store](https://store.epicgames.com/en-US/p/martha-is-dead)  
 [View Rawdata](../../db/m/martha_is_dead.json)  
-Rating: 4.03 (Ranked 874)  
+Rating: 3.99 (Ranked 880)  
 Number of Ratings: 39  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -49,3 +49,4 @@ Number of Ratings: 39  (23.09.2022)
 | 2023-03-04 | 4.05 | - | - | - |
 | 2023-03-12 | 4.03 | - | - | - |
 | 2023-03-31 | 4.03 | - | 0 | 0 |
+| 2023-05-07 | 3.99 | - | 0 | 0 |

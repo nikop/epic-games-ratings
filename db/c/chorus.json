@@ -3,11 +3,11 @@
   "Name": "Chorus",
   "ProductSlug": "chorus",
   "Ranking_Rating": 575,
-  "Ranking_Popularity": 434,
-  "Ranking_PopularitySum": 453,
+  "Ranking_Popularity": 433,
+  "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.47,
   "NumberOfRatings": 58,
@@ -262,7 +262,7 @@
   ],
   "EOS_Progressed": 850,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -741,8 +741,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:43.4356033+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:07:17.3337998+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.0894109+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:01:05.1519443+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:43.4356307+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:01:29.7235361+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:07:17.3338334+00:00"
 }

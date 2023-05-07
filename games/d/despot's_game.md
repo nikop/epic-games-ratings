@@ -18,13 +18,13 @@ Rating: 4.50 (Ranked 530)
 | Catch Jonathan_tostar | 25.00% | ~88 |
 | Assemble a Meganewbie | 24.00% | ~85 |
 | He's Seen It All | 24.00% | ~85 |
+| Great Hero | 24.00% | ~85 |
 | Campaigning | 23.00% | ~81 |
-| Great Hero | 23.00% | ~81 |
 | Rookie | 23.00% | ~81 |
 | Frugal | 20.00% | ~71 |
 | Feed a God | 19.00% | ~67 |
 | To the Moon and Back | 19.00% | ~67 |
-| Great Flight | 16.00% | ~57 |
+| Great Flight | 17.00% | ~60 |
 | Holy Vengeance | 13.00% | ~46 |
 | Strength and Sorcery | 10.00% | ~35 |
 | Brain and Brawn | 10.00% | ~35 |

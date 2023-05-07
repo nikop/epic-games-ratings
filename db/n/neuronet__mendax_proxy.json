@@ -128,9 +128,9 @@
       "ID": "AN_ACQUIRED_TASTE",
       "SetID": "2d85n75",
       "Name": "An Acquired Taste",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AREAL_HEADACHE",
@@ -376,9 +376,9 @@
       "ID": "TASK_MASTER",
       "SetID": "2d85n75",
       "Name": "Task Master",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TASTES_LIKE_REGRET",
@@ -424,9 +424,9 @@
       "ID": "THE_SPICE_OF_LIFE",
       "SetID": "2d85n75",
       "Name": "The Spice of Life",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_SURROGATE",
@@ -456,9 +456,9 @@
       "ID": "VACCINATED",
       "SetID": "2d85n75",
       "Name": "Vaccinated",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "WARNING_FRAGILE",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:38.1947776+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:07:12.1758585+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:00:50.6597997+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:38.1948082+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:01:15.4742427+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:07:12.1758964+00:00"
 }

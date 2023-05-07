@@ -3,8 +3,8 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 917,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 97,
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 900,
+  "EOS_Progressed": 901,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1158,6 +1158,11 @@
       "Time": "2023-05-07T20:06:20.5254141+00:00",
       "NumProgressed": 900,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T21:06:55.257991+00:00",
+      "NumProgressed": 901,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1561,7 +1566,7 @@
       "Name": "Prestigious",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "prestigiousx10",
@@ -1625,7 +1630,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "thealchemist",
@@ -1729,7 +1734,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "warmachinesarmy",
@@ -1761,14 +1766,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 900,
+      "Progressed": 901,
       "Completed": 1
     }
   ],
@@ -1776,8 +1781,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:20.5254137+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:06:55.2579907+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:59:12.9897261+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:20.5254807+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:59:35.3014319+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:06:55.2580777+00:00"
 }

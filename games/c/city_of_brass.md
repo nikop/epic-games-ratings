@@ -1,7 +1,7 @@
 # City of Brass
 [Store](https://store.epicgames.com/en-US/p/city-of-brass)  
 [View Rawdata](../../db/c/city_of_brass.json)  
-Rating: 4.22 (Ranked 795)  
+Rating: 4.23 (Ranked 792)  
 Number of Ratings: 227  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -79,3 +79,4 @@ Number of Ratings: 227  (23.09.2022)
 | 2023-03-09 | 4.23 | - | - | - |
 | 2023-03-31 | 4.23 | - | 0 | 0 |
 | 2023-04-14 | 4.22 | - | 0 | 0 |
+| 2023-05-07 | 4.23 | - | 0 | 0 |

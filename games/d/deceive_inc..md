@@ -13,14 +13,14 @@ Rating: 4.64 (Ranked 310)
 | From the Vault with Love | 39.00% | ~2,069 |
 | For your Eyes only | 39.00% | ~2,069 |
 | Tailor-Made | 38.00% | ~2,016 |
-| Fully Decked Out | 37.00% | ~1,962 |
-| You Only Live Twice | 33.00% | ~1,750 |
+| Fully Decked Out | 37.00% | ~1,963 |
+| You Only Live Twice | 33.00% | ~1,751 |
 | A view to Win | 29.00% | ~1,538 |
 | Smells Like Trouble | 27.00% | ~1,432 |
 | In It to Win It | 26.00% | ~1,379 |
 | Private Collection | 26.00% | ~1,379 |
+| Hostile Takeover | 26.00% | ~1,379 |
 | Killer Looks | 25.00% | ~1,326 |
-| Hostile Takeover | 25.00% | ~1,326 |
 | Assistant Accountant | 24.00% | ~1,273 |
 | Keycards Royale | 24.00% | ~1,273 |
 | Dr. No Kill | 24.00% | ~1,273 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 310)
 | Extraction Confusion | 0.30% | ~16 |
 | Spyfall | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,304 (Ranked 118)  
+Progressed: 5,305 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 5,154 | 0 |
 | 2023-05-05 | 5,201 | 0 |
 | 2023-05-06 | 5,268 | 0 |
-| 2023-05-07 | 5,304 | 0 |
+| 2023-05-07 | 5,305 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

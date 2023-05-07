@@ -3,8 +3,8 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 310,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 79,
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5304,
+  "EOS_Progressed": 5305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1260,6 +1260,11 @@
       "Time": "2023-05-07T20:06:38.8310181+00:00",
       "NumProgressed": 5304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T21:07:12.8054997+00:00",
+      "NumProgressed": 5305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1359,7 +1364,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "0013",
@@ -1375,7 +1380,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "0015",
@@ -1525,9 +1530,9 @@
       "ID": "0033",
       "SetID": "2n2feee",
       "Name": "Hostile Takeover",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1379
     },
     {
       "ID": "0034",
@@ -1558,7 +1563,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 5304,
+      "Progressed": 5305,
       "Completed": 0
     }
   ],
@@ -1566,8 +1571,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-01T22:58:56.3990087+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:38.8310178+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:07:12.8054994+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.5440231+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:00:49.3812034+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:38.8310411+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:01:14.1285193+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:07:12.8055358+00:00"
 }

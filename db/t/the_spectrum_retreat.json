@@ -3,8 +3,8 @@
   "Name": "The Spectrum Retreat",
   "ProductSlug": "the-spectrum-retreat",
   "Ranking_Rating": 782,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
@@ -422,6 +422,6 @@
   "FirstSeen": "2022-07-22T20:22:27.9603268+00:00",
   "LastChanged": "2023-04-18T13:07:27.318732+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.3457376+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:58:42.2332255+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:02:02.2641492+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:59:01.8692777+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:02:36.3275031+00:00"
 }

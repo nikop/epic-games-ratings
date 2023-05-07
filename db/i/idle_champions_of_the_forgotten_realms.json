@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 11,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3578,10 +3578,10 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86791,
+  "EOS_Progressed": 86794,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 723,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 715,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5003,6 +5003,11 @@
       "Time": "2023-05-07T20:06:53.3370105+00:00",
       "NumProgressed": 86791,
       "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T21:07:27.0621837+00:00",
+      "NumProgressed": 86794,
+      "NumCompleted": 1810
     }
   ],
   "TotalAchievements": 489,
@@ -5980,9 +5985,9 @@
       "ID": "objective_completed_129",
       "SetID": "cc37lbc",
       "Name": "The Lost Heir of Omu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_13",
@@ -8925,21 +8930,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53065,
+      "Progressed": 53068,
       "Completed": 2475
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86791,
+      "Progressed": 86794,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-07T18:59:29.8871961+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:53.3370101+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:07:27.0621834+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:59:16.5288801+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:53.339166+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:59:37.9067513+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:07:27.0644759+00:00"
 }

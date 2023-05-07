@@ -3,11 +3,11 @@
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
   "Ranking_Rating": 598,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.45,
   "RatingHistory": [
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 963,
+  "EOS_Progressed": 964,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -121,6 +121,11 @@
     {
       "Time": "2023-05-07T13:09:41.5292233+00:00",
       "NumProgressed": 963,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T21:06:57.5388277+00:00",
+      "NumProgressed": 964,
       "NumCompleted": 0
     }
   ],
@@ -189,7 +194,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -205,7 +210,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -261,7 +266,7 @@
       "Name": "Rookie No More",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "CAREERADVANCED",
@@ -285,7 +290,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -429,7 +434,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ONELIVERY",
@@ -445,7 +450,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ONEPAINT",
@@ -469,7 +474,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -548,7 +553,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 963,
+      "Progressed": 964,
       "Completed": 0
     }
   ],
@@ -556,8 +561,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:23.0626799+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:06:57.5388275+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:25.0489793+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:59:20.4334124+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:23.0627079+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:59:41.5329012+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:06:57.5388769+00:00"
 }

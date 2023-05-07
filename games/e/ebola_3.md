@@ -13,13 +13,14 @@
 | Survival ✔ | 7.00% | ~10 |
 | Master of Unlocking ✔ | 7.00% | ~10 |
 | Chess ✔ | 7.00% | ~10 |
-| Weapon ✔ | 6.00% | ~9 |
+| Weapon ✔ | 7.00% | ~10 |
+| Betty ✔ | 5.00% | ~7 |
 | Hospital ✔ | 5.00% | ~7 |
 | Thirst ✔ | 5.00% | ~7 |
 | Antivirus ✔ | 4.00% | ~6 |
-| Betty ✔ | 4.00% | ~6 |
 | Cheats ✔ | 4.00% | ~6 |
 | City ✔ | 4.00% | ~6 |
+| Eva ✔ | 4.00% | ~6 |
 | Fraternal help ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
 | King of survival ✔ | 4.00% | ~6 |
@@ -27,7 +28,6 @@
 | Alice ✔ | 3.00% | ~4 |
 | Brain ✔ | 3.00% | ~4 |
 | Crocodile Attack ✔ | 3.00% | ~4 |
-| Eva ✔ | 3.00% | ~4 |
 | Food ✔ | 3.00% | ~4 |
 | Mutant fight ✔ | 3.00% | ~4 |
 | Mutant run ✔ | 3.00% | ~4 |

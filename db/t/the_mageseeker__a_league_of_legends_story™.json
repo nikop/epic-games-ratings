@@ -3,8 +3,8 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 156,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 102,
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1914,
+  "EOS_Progressed": 1915,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -928,6 +928,11 @@
       "Time": "2023-05-07T19:07:04.0249332+00:00",
       "NumProgressed": 1914,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T21:06:48.1302592+00:00",
+      "NumProgressed": 1915,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -947,7 +952,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -955,7 +960,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -979,7 +984,7 @@
       "Name": "Hijack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1003,7 +1008,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1019,7 +1024,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1059,7 +1064,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1081,9 +1086,9 @@
       "ID": "STB_DEFEAT_WISTERIA_II",
       "SetID": "3pe2bac",
       "Name": "True power",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 230
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -1121,9 +1126,9 @@
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1743
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1163,7 +1168,7 @@
       "Name": "Thornbarrow",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1179,7 +1184,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1195,7 +1200,7 @@
       "Name": "Glyndemere",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -1243,7 +1248,7 @@
       "Name": "You can pet the dog",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1275,7 +1280,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1283,7 +1288,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1315,7 +1320,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1362,7 +1367,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1914,
+      "Progressed": 1915,
       "Completed": 1
     }
   ],
@@ -1370,8 +1375,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:13.5706114+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:06:48.1302583+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:58:50.2827304+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:13.5706523+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:59:10.5951638+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:06:48.1303347+00:00"
 }

@@ -74,9 +74,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "2e4ldac",
       "Name": "Money Bags",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -186,9 +186,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "2e4ldac",
       "Name": "Lily: Warrior Princess",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -211,8 +211,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:20.3444248+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:06:55.022505+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:41.1116058+00:00",
-  "LastUpdate_Ratings": "2023-05-07T19:59:37.66582+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:20.3444428+00:00"
+  "LastUpdate_Ratings": "2023-05-07T20:59:58.332709+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:06:55.022647+00:00"
 }

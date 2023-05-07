@@ -5,7 +5,7 @@
 | 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 22.22% |
 | 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 6 | [Island Cities](games/i/island_cities.md) | 18.33% |
+| 6 | [Island Cities](games/i/island_cities.md) | 17.74% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -17,12 +17,12 @@
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.58% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
+| 18 | [Scorn](games/s/scorn.md) | 7.11% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.52% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 5.47% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.46% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -47,9 +47,9 @@
 | 44 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 46 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
-| 48 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 49 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.70% |
+| 47 | [ZZT!](games/z/zzt!.md) | 2.74% |
+| 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 50 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
 | 51 | [JARS](games/j/jars.md) | 2.56% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
@@ -104,10 +104,10 @@
 | 102 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 103 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 104 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
-| 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.38% |
-| 106 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
-| 106 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 106 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 105 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
+| 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |
+| 105 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 105 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 109 | [Tchia](games/t/tchia.md) | 0.36% |
 | 110 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 111 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |

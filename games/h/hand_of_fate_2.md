@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,164 |
-| Apprentice | 58.00% | ~380,354 |
-| Close Shave | 25.00% | ~163,946 |
-| Mercenary | 23.00% | ~150,830 |
-| Ninja | 23.00% | ~150,830 |
-| Northern Scourge | 17.00% | ~111,483 |
+| The Fool | 72.00% | ~472,167 |
+| Apprentice | 58.00% | ~380,356 |
+| Close Shave | 25.00% | ~163,947 |
+| Mercenary | 23.00% | ~150,831 |
+| Ninja | 23.00% | ~150,831 |
+| Northern Scourge | 17.00% | ~111,484 |
 | Thief Bane | 14.00% | ~91,810 |
 | Master of Arms | 12.00% | ~78,694 |
-| Gambler | 10.00% | ~65,578 |
-| Dice Master | 10.00% | ~65,578 |
-| Swordsman | 9.00% | ~59,020 |
+| Gambler | 10.00% | ~65,579 |
+| Dice Master | 10.00% | ~65,579 |
+| Swordsman | 9.00% | ~59,021 |
 | Knight | 8.00% | ~52,463 |
 | Cure for Corruption | 8.00% | ~52,463 |
 | Focused | 8.00% | ~52,463 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 6.00% | ~39,347 |
 | Jack of all Trades | 5.00% | ~32,789 |
 | Smithy | 5.00% | ~32,789 |
-| Leap of Faith | 3.00% | ~19,673 |
-| Combat Ready | 3.00% | ~19,673 |
-| Stuffed Potato | 3.00% | ~19,673 |
+| Leap of Faith | 3.00% | ~19,674 |
+| Combat Ready | 3.00% | ~19,674 |
+| Stuffed Potato | 3.00% | ~19,674 |
 | Card Sharp | 2.00% | ~13,116 |
 | Magician | 2.00% | ~13,116 |
 | Draknar's Bane | 2.00% | ~13,116 |
@@ -41,7 +41,7 @@ Number of Ratings: 780  (23.09.2022)
 | Final Death | 1.00% | ~6,558 |
 | Ally | 0.80% | ~5,246 |
 | Thomas' Bane | 0.80% | ~5,246 |
-| Gamester | 0.70% | ~4,590 |
+| Gamester | 0.70% | ~4,591 |
 | Hero | 0.60% | ~3,935 |
 | Rebel | 0.60% | ~3,935 |
 | Dungeon Master | 0.50% | ~3,279 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,783 (Ranked 18)  
+Progressed: 655,787 (Ranked 18)  
 Completed: 164 (0.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,11 +72,11 @@ Completed: 164 (0.03%) (Ranked 174)
 | 2023-05-04 | 655,594 | 164 |
 | 2023-05-05 | 655,660 | 164 |
 | 2023-05-06 | 655,725 | 164 |
-| 2023-05-07 | 655,783 | 164 |
+| 2023-05-07 | 655,787 | 164 |
 ## Awards
-Max (Amazing Storytelling): 35  (Ranked 427)  
+Max (Amazing Storytelling): 35  (Ranked 426)  
 Sum: 180 (Ranked 358)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

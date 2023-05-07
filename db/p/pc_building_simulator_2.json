@@ -780,9 +780,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158216,
+  "EOS_Progressed": 158217,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1870,6 +1870,11 @@
       "Time": "2023-05-07T19:07:35.438285+00:00",
       "NumProgressed": 158216,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-07T21:07:14.6410132+00:00",
+      "NumProgressed": 158217,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -1897,7 +1902,7 @@
       "Name": "Full Throttle",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 53793
+      "UsersEstimate": 53794
     },
     {
       "ID": "CASH_big_shot",
@@ -1905,7 +1910,7 @@
       "Name": "Big Shot",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "CASH_bootstrapping",
@@ -1913,7 +1918,7 @@
       "Name": "Bootstrapping",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 118662
+      "UsersEstimate": 118663
     },
     {
       "ID": "CASH_going_places",
@@ -1921,7 +1926,7 @@
       "Name": "Going Places",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 23732
+      "UsersEstimate": 23733
     },
     {
       "ID": "CASH_on_the_ladder",
@@ -1953,7 +1958,7 @@
       "Name": "Dream Theme",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 72779
+      "UsersEstimate": 72780
     },
     {
       "ID": "CUSTOMIZE_grand_designs",
@@ -1977,7 +1982,7 @@
       "Name": "Just Like Old Times",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "CUSTOMIZE_matching_set",
@@ -2073,7 +2078,7 @@
       "Name": "On the Job",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 109169
+      "UsersEstimate": 109170
     },
     {
       "ID": "JOBS_pc_og",
@@ -2145,7 +2150,7 @@
       "Name": "Shine On",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 110751
+      "UsersEstimate": 110752
     },
     {
       "ID": "OCCT_stabiliser",
@@ -2193,7 +2198,7 @@
       "Name": "Bench Press",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 14239
+      "UsersEstimate": 14240
     },
     {
       "ID": "SCORE_on_the_bench",
@@ -2249,7 +2254,7 @@
       "Name": "Sales Pitch",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102840
+      "UsersEstimate": 102841
     },
     {
       "ID": "SPARESNREPAIRS_recycler",
@@ -2281,7 +2286,7 @@
       "Name": "Local Hero",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44300
+      "UsersEstimate": 44301
     },
     {
       "ID": "STARS_the_customer_is_king",
@@ -2289,7 +2294,7 @@
       "Name": "The Customer is King",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 71197
+      "UsersEstimate": 71198
     },
     {
       "ID": "STICKERS_get_stuck_in",
@@ -2297,7 +2302,7 @@
       "Name": "Get Stuck In",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107587
+      "UsersEstimate": 107588
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -2313,7 +2318,7 @@
       "Name": "Slap Happy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 33225
+      "UsersEstimate": 33226
     },
     {
       "ID": "TOOLS_hot_stuff",
@@ -2321,7 +2326,7 @@
       "Name": "Hot Stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 93347
+      "UsersEstimate": 93348
     },
     {
       "ID": "UNLOCK_room_for_expansion",
@@ -2329,7 +2334,7 @@
       "Name": "Room for Expansion",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107587
+      "UsersEstimate": 107588
     },
     {
       "ID": "WATERCOOL_chill_out",
@@ -2337,7 +2342,7 @@
       "Name": "Chill Out",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102840
+      "UsersEstimate": 102841
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -2352,7 +2357,7 @@
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158216,
+      "Progressed": 158217,
       "Completed": 102
     }
   ],
@@ -2360,8 +2365,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-07T20:00:56.3954861+00:00",
-  "LastChanged_Achievements": "2023-05-07T20:06:40.7762809+00:00",
+  "LastChanged_Achievements": "2023-05-07T21:07:14.6410127+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-07T20:00:56.3954869+00:00",
-  "LastUpdate_Achievements": "2023-05-07T20:06:40.7763273+00:00"
+  "LastUpdate_Ratings": "2023-05-07T21:01:20.5754719+00:00",
+  "LastUpdate_Achievements": "2023-05-07T21:07:14.6410751+00:00"
 }

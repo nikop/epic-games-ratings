@@ -1,24 +1,24 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 233)  
+Rating: 4.68 (Ranked 232)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,874 |
-| That's a Grand Army | 8.00% | ~2,554 |
-| That is mine! | 8.00% | ~2,554 |
-| Victorious! | 8.00% | ~2,554 |
-| Brothers in Arms | 6.00% | ~1,916 |
-| That's a Grand Navy | 6.00% | ~1,916 |
-| Seriously?! | 6.00% | ~1,916 |
-| For the Glory | 5.00% | ~1,596 |
-| Cold War | 4.00% | ~1,277 |
-| True Catholic | 4.00% | ~1,277 |
-| Defender of the Faith | 3.00% | ~958 |
-| It's all about the money | 3.00% | ~958 |
-| Respected | 3.00% | ~958 |
+| Until death do us apart | 9.00% | ~2,878 |
+| That's a Grand Army | 8.00% | ~2,558 |
+| That is mine! | 8.00% | ~2,558 |
+| Victorious! | 8.00% | ~2,558 |
+| Brothers in Arms | 6.00% | ~1,918 |
+| That's a Grand Navy | 6.00% | ~1,918 |
+| Seriously?! | 6.00% | ~1,918 |
+| For the Glory | 5.00% | ~1,599 |
+| Cold War | 4.00% | ~1,279 |
+| True Catholic | 4.00% | ~1,279 |
+| Defender of the Faith | 3.00% | ~959 |
+| It's all about the money | 3.00% | ~959 |
+| Respected | 3.00% | ~959 |
 | Blockader | 2.00% | ~639 |
 | Combined Arms | 2.00% | ~639 |
 | Double the Love | 2.00% | ~639 |
@@ -29,19 +29,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~639 |
 | Total Control | 2.00% | ~639 |
 | Truly Divine Ruler | 2.00% | ~639 |
-| Agressive Expander | 1.00% | ~319 |
-| Azur semé de lis or | 1.00% | ~319 |
-| Bright Spark | 1.00% | ~319 |
-| Factionalism | 1.00% | ~319 |
-| A Golden Empire | 1.00% | ~319 |
-| My armies are invincible! | 1.00% | ~319 |
-| All That's Thine Shall Be Mine | 0.90% | ~287 |
-| City of Cities | 0.90% | ~287 |
-| Isn't this the way to India? | 0.80% | ~255 |
-| The Five Colonies | 0.80% | ~255 |
+| Agressive Expander | 1.00% | ~320 |
+| All That's Thine Shall Be Mine | 1.00% | ~320 |
+| Azur semé de lis or | 1.00% | ~320 |
+| Bright Spark | 1.00% | ~320 |
+| Factionalism | 1.00% | ~320 |
+| A Golden Empire | 1.00% | ~320 |
+| My armies are invincible! | 1.00% | ~320 |
+| City of Cities | 0.90% | ~288 |
+| Isn't this the way to India? | 0.80% | ~256 |
+| The Five Colonies | 0.80% | ~256 |
+| The Emperors new clothes | 0.70% | ~224 |
 | Market Control | 0.70% | ~224 |
 | Down Under | 0.60% | ~192 |
-| The Emperors new clothes | 0.60% | ~192 |
 | This navy can take it all | 0.60% | ~192 |
 | Electable! | 0.50% | ~160 |
 | Time Bandit | 0.50% | ~160 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,929 (Ranked 81)  
+Progressed: 31,973 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,10 +378,10 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
-| 2023-05-07 | 31,929 | 0 |
+| 2023-05-07 | 31,973 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
-Sum: 42,923 (Ranked 26)  
+Sum: 42,931 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -391,7 +391,7 @@ Diff (max vs sum): 34
 | This game is Extremely Fun | 4,919 |
 | This game has Diverse Characters | 4,877 |
 | This game is Relaxing | 4,835 |
-| This game has Competitive Players | 4,653 |
+| This game has Competitive Players | 4,661 |
 | This game has Amazing Storytelling | 4,420 |
 | This game has Amazing Characters | 4,099 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -508,4 +508,4 @@ Diff (max vs sum): 34
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
 | 2023-05-05 | 4.68 | - | 5,170 | 42,780 |
 | 2023-05-06 | 4.68 | - | 5,181 | 42,857 |
-| 2023-05-07 | 4.68 | - | 5,190 | 42,923 |
+| 2023-05-07 | 4.68 | - | 5,190 | 42,931 |
