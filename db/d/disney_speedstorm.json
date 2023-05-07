@@ -9,9 +9,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2356,
+  "EOS_Progressed": 2357,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -999,6 +999,11 @@
       "Time": "2023-05-07T08:07:09.9897217+00:00",
       "NumProgressed": 2356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T09:07:41.0089224+00:00",
+      "NumProgressed": 2357,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1018,7 +1023,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "11",
@@ -1090,7 +1095,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "2",
@@ -1201,13 +1206,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2356,
+      "Progressed": 2357,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-07T08:07:09.9897213+00:00",
+  "LastChanged_Achievements": "2023-05-07T09:07:41.0089219+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:00:23.0480182+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:07:09.9897402+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:00:43.4956414+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:07:41.0089496+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,436 |
-| Leader | 60.00% | ~2,988 |
-| Explorer | 53.00% | ~2,639 |
+| First Step | 69.00% | ~3,437 |
+| Leader | 60.00% | ~2,989 |
+| Explorer | 53.00% | ~2,640 |
 | Healer | 52.00% | ~2,590 |
 | Aspiring Inventor | 45.00% | ~2,241 |
 | Adventurer | 41.00% | ~2,042 |
-| Famous Healer | 38.00% | ~1,892 |
+| Famous Healer | 38.00% | ~1,893 |
 | Local Leader | 35.00% | ~1,743 |
-| New Opportunities | 34.00% | ~1,693 |
-| Famous Explorer | 33.00% | ~1,643 |
-| Energized | 33.00% | ~1,643 |
-| The Long Haul | 33.00% | ~1,643 |
+| New Opportunities | 34.00% | ~1,694 |
+| Famous Explorer | 33.00% | ~1,644 |
+| Energized | 33.00% | ~1,644 |
+| The Long Haul | 33.00% | ~1,644 |
 | Survivor | 31.00% | ~1,544 |
 | The Great Healer | 30.00% | ~1,494 |
-| Catastrofan | 28.00% | ~1,394 |
+| Cleaner | 28.00% | ~1,395 |
+| Catastrofan | 28.00% | ~1,395 |
 | Legendary Explorer | 27.00% | ~1,345 |
-| Cleaner | 27.00% | ~1,345 |
 | Finders, Keepers | 25.00% | ~1,245 |
 | Top Notch | 25.00% | ~1,245 |
+| Ice Lakes | 23.00% | ~1,146 |
 | Great Leader | 22.00% | ~1,096 |
-| Ice Lakes | 22.00% | ~1,096 |
 | Mentor | 22.00% | ~1,096 |
 | Merchant | 21.00% | ~1,046 |
 | Real Survivor | 21.00% | ~1,046 |
@@ -37,7 +37,7 @@ Number of Ratings: 836  (23.09.2022)
 | Around the World | 15.00% | ~747 |
 | Spreading Influence | 15.00% | ~747 |
 | Bookworm | 14.00% | ~697 |
-| Famous Adventurer | 13.00% | ~647 |
+| Famous Adventurer | 13.00% | ~648 |
 | Prepared for Anything | 12.00% | ~598 |
 | Big Catastrofan | 12.00% | ~598 |
 | It's a Finnish Thing | 10.00% | ~498 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,980 (Ranked 120)  
+Progressed: 4,981 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 4,882 | 0 |
 | 2023-05-05 | 4,912 | 0 |
 | 2023-05-06 | 4,969 | 0 |
-| 2023-05-07 | 4,980 | 0 |
+| 2023-05-07 | 4,981 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 322)  
 Sum: 651 (Ranked 267)  

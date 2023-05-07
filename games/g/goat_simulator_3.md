@@ -5,25 +5,25 @@ Rating: 4.85 (Ranked 37)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~196,455 |
-| Private Club | 74.00% | ~159,755 |
-| Rogue Guild | 65.00% | ~140,325 |
-| I Watched the Intro | 57.00% | ~123,054 |
-| Covert Consortium | 55.00% | ~118,737 |
-| Goat Queen | 53.00% | ~114,419 |
-| Reach the Stratosphere | 49.00% | ~105,784 |
-| Synchronization Complete | 47.00% | ~101,466 |
-| Secret Society | 45.00% | ~97,148 |
-| Shadow Syndicate | 37.00% | ~79,877 |
-| What a Waste of Money | 32.00% | ~69,083 |
+| Forgotten Sorority | 91.00% | ~196,457 |
+| Private Club | 74.00% | ~159,756 |
+| Rogue Guild | 65.00% | ~140,327 |
+| I Watched the Intro | 57.00% | ~123,056 |
+| Covert Consortium | 55.00% | ~118,738 |
+| Goat Queen | 53.00% | ~114,420 |
+| Reach the Stratosphere | 49.00% | ~105,785 |
+| Synchronization Complete | 47.00% | ~101,467 |
+| Secret Society | 45.00% | ~97,149 |
+| Shadow Syndicate | 37.00% | ~79,878 |
+| What a Waste of Money | 32.00% | ~69,084 |
 | New Goat Order | 30.00% | ~64,766 |
 | Don't touch the servers | 28.00% | ~60,448 |
-| San Angora: Become Human | 26.00% | ~56,130 |
-| Raider of the Lost Parking Garage | 26.00% | ~56,130 |
-| Real Buoy | 26.00% | ~56,130 |
-| Welcome to Earth | 25.00% | ~53,971 |
-| Into the Matrix | 18.00% | ~38,859 |
-| Where is It? | 17.00% | ~36,700 |
+| San Angora: Become Human | 26.00% | ~56,131 |
+| Raider of the Lost Parking Garage | 26.00% | ~56,131 |
+| Real Buoy | 26.00% | ~56,131 |
+| Welcome to Earth | 25.00% | ~53,972 |
+| Into the Matrix | 18.00% | ~38,860 |
+| Where is It? | 17.00% | ~36,701 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~32,383 |
 | Egg Simulator | 14.00% | ~30,224 |
 | Black Market | 14.00% | ~30,224 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 37)
 | Move! That! Bus! | 0.60% | ~1,295 |
 | G.O.A.T | 0.30% | ~648 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,885 (Ranked 45)  
+Progressed: 215,887 (Ranked 45)  
 Completed: 686 (0.32%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 686 (0.32%) (Ranked 113)
 | 2023-05-04 | 215,498 | 686 |
 | 2023-05-05 | 215,629 | 686 |
 | 2023-05-06 | 215,826 | 686 |
-| 2023-05-07 | 215,885 | 686 |
+| 2023-05-07 | 215,887 | 686 |
 ## Awards
 Max (Great for Beginners): 308  (Ranked 222)  
 Sum: 2,630 (Ranked 161)  

@@ -6,14 +6,14 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~500,518 |
-| Every story has a beginning | 37.00% | ~225,844 |
-| The first of many | 32.00% | ~195,324 |
-| Positive word of mouth | 18.00% | ~109,870 |
-| Lawn in the U.S.A. | 15.00% | ~91,558 |
-| Blade Runner | 9.00% | ~54,935 |
-| Credible | 7.00% | ~42,727 |
-| Teamwork makes the dream work | 5.00% | ~30,519 |
+| The dream begins | 82.00% | ~500,538 |
+| Every story has a beginning | 37.00% | ~225,852 |
+| The first of many | 32.00% | ~195,332 |
+| Positive word of mouth | 18.00% | ~109,874 |
+| Lawn in the U.S.A. | 15.00% | ~91,562 |
+| Blade Runner | 9.00% | ~54,937 |
+| Credible | 7.00% | ~42,729 |
+| Teamwork makes the dream work | 5.00% | ~30,521 |
 | Bigger and better | 4.00% | ~24,416 |
 | Aggressive expansion | 4.00% | ~24,416 |
 | Where there's muck there's brass | 3.00% | ~18,312 |
@@ -27,8 +27,8 @@ Number of Ratings: 5,086  (23.09.2022)
 | Trusted | 2.00% | ~12,208 |
 | Fighting on all fronts | 1.00% | ~6,104 |
 | The top of the mountain | 1.00% | ~6,104 |
-| Lawn & Order | 0.90% | ~5,493 |
-| Professional | 0.90% | ~5,493 |
+| Lawn & Order | 0.90% | ~5,494 |
+| Professional | 0.90% | ~5,494 |
 | Earn your stripes | 0.80% | ~4,883 |
 | Jack of all trades | 0.80% | ~4,883 |
 | All hands on deck | 0.80% | ~4,883 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~610 |
 | Mo mowers, mo problems | 0.10% | ~610 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610,388 (Ranked 19)  
+Progressed: 610,412 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 9 (0.00%) (Ranked 192)
 | 2023-05-04 | 609,338 | 9 |
 | 2023-05-05 | 609,734 | 9 |
 | 2023-05-06 | 610,271 | 9 |
-| 2023-05-07 | 610,388 | 9 |
+| 2023-05-07 | 610,412 | 9 |
 ## Awards
 Max (Quickly Understood Controls): 179  (Ranked 266)  
 Sum: 957 (Ranked 230)  

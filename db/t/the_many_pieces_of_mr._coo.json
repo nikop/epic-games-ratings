@@ -2,9 +2,9 @@
   "ID": "ccaae1f096cc4338bfb119038c00dadf",
   "Name": "The Many Pieces of Mr. Coo",
   "ProductSlug": "the-many-pieces-of-mr-coo-a9a1f8",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -27,8 +27,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:01.5920642+00:00",
-  "LastChanged_Achievements": "2023-05-07T08:07:33.7519027+00:00",
+  "LastChanged_Achievements": "2023-05-07T09:08:04.9598851+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.4286426+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:01:56.708119+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:07:33.7519058+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:02:23.8785404+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:08:04.9598871+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -101,9 +101,9 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_bunny50",
@@ -149,9 +149,9 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_level3",
@@ -206,8 +206,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-07T08:06:55.8699612+00:00",
+  "LastChanged_Achievements": "2023-05-07T09:07:26.3284953+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:00:38.8340297+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:06:55.8699716+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:01:00.5382947+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:07:26.3285076+00:00"
 }

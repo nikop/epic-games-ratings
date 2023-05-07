@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So far so good... | 67.00% | ~6 |
-| Getting somewhere | 56.00% | ~5 |
+| Getting somewhere | 67.00% | ~6 |
 | Top notch! | 56.00% | ~5 |
 | Slay it! | 44.00% | ~4 |
+| Poor things... | 44.00% | ~4 |
 | Lives lost | 44.00% | ~4 |
 | Bling bling! | 44.00% | ~4 |
-| Poor things... | 33.00% | ~3 |
 | Still alive! | 33.00% | ~3 |
 | Slaughter | 33.00% | ~3 |
 | Endurance test! | 22.00% | ~2 |

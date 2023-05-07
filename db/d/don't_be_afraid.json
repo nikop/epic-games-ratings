@@ -2,9 +2,9 @@
   "ID": "00c65ba7c01f4b678fdd70b624bda179",
   "Name": "Don\u0027t Be Afraid",
   "ProductSlug": "dont-be-afraid",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.4312651+00:00",
   "LastChanged": "2023-03-31T05:58:05.4312652+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:37.436802+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:02:25.5498239+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:06:35.6117476+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:02:53.2352308+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:07:05.2152421+00:00"
 }

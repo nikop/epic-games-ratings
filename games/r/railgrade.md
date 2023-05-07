@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 476)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~17,915 |
-| Before the Downfall | 93.00% | ~17,001 |
-| Money like Water | 91.00% | ~16,636 |
-| Minimalist | 90.00% | ~16,453 |
-| Builder | 83.00% | ~15,173 |
-| Eraser | 70.00% | ~12,797 |
-| Pocket of Trains | 65.00% | ~11,883 |
-| Inspector | 58.00% | ~10,603 |
-| Going the Distance | 54.00% | ~9,872 |
-| Oil Baron | 42.00% | ~7,678 |
-| Loads-a-Money | 42.00% | ~7,678 |
+| Trevithick's Legacy | 98.00% | ~17,917 |
+| Before the Downfall | 93.00% | ~17,003 |
+| Money like Water | 91.00% | ~16,638 |
+| Minimalist | 90.00% | ~16,455 |
+| Builder | 83.00% | ~15,175 |
+| Eraser | 70.00% | ~12,798 |
+| Pocket of Trains | 65.00% | ~11,884 |
+| Inspector | 58.00% | ~10,604 |
+| Going the Distance | 54.00% | ~9,873 |
+| Oil Baron | 42.00% | ~7,679 |
+| Loads-a-Money | 42.00% | ~7,679 |
 | Helper of the People | 39.00% | ~7,130 |
 | Simplification | 33.00% | ~6,033 |
 | Box of Trains | 33.00% | ~6,033 |
-| Let There be Light | 32.00% | ~5,850 |
-| Hot Water | 31.00% | ~5,667 |
-| Indecisive | 29.00% | ~5,301 |
+| Let There be Light | 32.00% | ~5,851 |
+| Hot Water | 31.00% | ~5,668 |
+| Indecisive | 29.00% | ~5,302 |
 | The scenic route | 27.00% | ~4,936 |
-| Industrialist | 25.00% | ~4,570 |
+| Industrialist | 25.00% | ~4,571 |
 | Perfectionist | 23.00% | ~4,205 |
 | 8K is Enough for Everyone | 22.00% | ~4,022 |
 | Trains over Pipes | 22.00% | ~4,022 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 476)
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,281 (Ranked 93)  
+Progressed: 18,283 (Ranked 93)  
 Completed: 28 (0.15%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 28 (0.15%) (Ranked 140)
 | 2023-05-04 | 18,228 | 28 |
 | 2023-05-05 | 18,253 | 28 |
 | 2023-05-06 | 18,272 | 28 |
-| 2023-05-07 | 18,281 | 28 |
+| 2023-05-07 | 18,283 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 338)  
 Sum: 643 (Ranked 269)  

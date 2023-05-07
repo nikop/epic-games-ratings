@@ -5,38 +5,38 @@ Rating: 4.50 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,036 |
-| Become King | 70.00% | ~954 |
-| Ranged Weapon | 59.00% | ~804 |
-| Defeat 25 Frogs | 59.00% | ~804 |
+| Complete Guard Faction | 76.00% | ~1,037 |
+| Become King | 70.00% | ~955 |
+| Ranged Weapon | 59.00% | ~805 |
+| Defeat 25 Frogs | 59.00% | ~805 |
 | Collect Monster Parts | 55.00% | ~750 |
-| Two Handed Weapon | 54.00% | ~736 |
+| Two Handed Weapon | 54.00% | ~737 |
 | Defeat 25 Grubs | 50.00% | ~682 |
 | Rescue Redgi's Brothers | 49.00% | ~668 |
-| Collect Iron Ore | 45.00% | ~613 |
+| Collect Iron Ore | 45.00% | ~614 |
 | Defeat 25 Mozis | 44.00% | ~600 |
 | Kitchen Ready To Cook | 44.00% | ~600 |
-| Collect Gold | 43.00% | ~586 |
-| Smithy Ready to Craft | 43.00% | ~586 |
+| Collect Gold | 43.00% | ~587 |
+| Smithy Ready to Craft | 43.00% | ~587 |
 | Fix the Travellers Wagon | 41.00% | ~559 |
 | Complete Elder Faction | 38.00% | ~518 |
 | End of the Mozis | 35.00% | ~477 |
 | Throne Room Fit For A King | 35.00% | ~477 |
-| Return Power To The Depths | 34.00% | ~463 |
+| Return Power To The Depths | 34.00% | ~464 |
 | Meet the Creatures from the Deep | 33.00% | ~450 |
 | Defeat Ratnor Rodentson | 27.00% | ~368 |
 | Return the Statues | 24.00% | ~327 |
 | Defeat Rattus Augustail | 24.00% | ~327 |
-| Complete the Chefs Book | 23.00% | ~313 |
+| Complete the Chefs Book | 23.00% | ~314 |
 | Complete Ranger Faction | 20.00% | ~273 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~259 |
-| Discover the mystery of the Kings Chambers | 18.00% | ~245 |
+| Discover the mystery of the Kings Chambers | 18.00% | ~246 |
 | Complete Arena Faction | 14.00% | ~191 |
 | Complete Redgi's Armory | 7.00% | ~95 |
 | King of Kings | 6.00% | ~82 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,363 (Ranked 152)  
+Progressed: 1,364 (Ranked 152)  
 Completed: 6 (0.44%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,6 +50,7 @@ Completed: 6 (0.44%) (Ranked 103)
 | 2023-05-04 | 1,360 | 6 |
 | 2023-05-05 | 1,361 | 6 |
 | 2023-05-06 | 1,363 | 6 |
+| 2023-05-07 | 1,364 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

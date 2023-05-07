@@ -4,7 +4,7 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 803,
   "Ranking_Popularity": 299,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 54,
@@ -1162,11 +1162,17 @@
       "Rating": 4.2,
       "NumberOfAwards": 778,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-05-07T09:02:24.8496724+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 779,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 778,
-  "NumberOfAwardsMax": 122,
+  "NumberOfAwards": 779,
+  "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1203,7 +1209,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1224,9 +1230,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11309,
+  "EOS_Progressed": 11311,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2579,6 +2585,11 @@
       "Time": "2023-05-07T08:07:33.8135623+00:00",
       "NumProgressed": 11309,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-07T09:08:05.1079491+00:00",
+      "NumProgressed": 11311,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2718,7 +2729,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "1032",
@@ -2750,7 +2761,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "1036",
@@ -2765,15 +2776,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11309,
+      "Progressed": 11311,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
-  "LastChanged_Achievements": "2023-05-07T08:07:33.8135618+00:00",
+  "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
+  "LastChanged_Achievements": "2023-05-07T09:08:05.1079485+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:01:57.5989657+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:07:33.8135817+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:02:24.8496727+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:08:05.1079804+00:00"
 }

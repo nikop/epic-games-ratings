@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 888,
+  "EOS_Progressed": 889,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -1113,6 +1113,11 @@
       "Time": "2023-05-07T07:06:46.0560323+00:00",
       "NumProgressed": 888,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T09:07:34.8663422+00:00",
+      "NumProgressed": 889,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1170,7 +1175,7 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -1202,7 +1207,7 @@
       "ID": "crystalmining",
       "SetID": "3nl4bcg",
       "Name": "Crystal Mining",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -1258,7 +1263,7 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -1298,17 +1303,17 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 116
     },
     {
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 347
     },
     {
       "ID": "fourleafclover",
@@ -1396,7 +1401,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "jewelenchanting",
@@ -1506,7 +1511,7 @@
       "ID": "pokerface",
       "SetID": "3nl4bcg",
       "Name": "Pokerface",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -1580,13 +1585,13 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "thealchemist",
       "SetID": "3nl4bcg",
       "Name": "The Alchemist",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -1658,7 +1663,7 @@
       "ID": "transmute",
       "SetID": "3nl4bcg",
       "Name": "Transmute",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -1666,7 +1671,7 @@
       "ID": "treeoflife",
       "SetID": "3nl4bcg",
       "Name": "Tree of Life",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -1684,7 +1689,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "warmachinesarmy",
@@ -1716,14 +1721,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 888,
+      "Progressed": 889,
       "Completed": 1
     }
   ],
@@ -1731,8 +1736,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-07T08:07:04.0029874+00:00",
+  "LastChanged_Achievements": "2023-05-07T09:07:34.8663417+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:59:19.9653787+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:07:04.0030513+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:59:36.7444695+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:07:34.8664307+00:00"
 }

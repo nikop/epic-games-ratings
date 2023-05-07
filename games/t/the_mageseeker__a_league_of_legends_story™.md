@@ -13,14 +13,14 @@ Rating: 4.73 (Ranked 156)
 | The use of petricite | 72.00% | ~1,371 |
 | You can pet the dog | 60.00% | ~1,142 |
 | Big Helmet Bro | 34.00% | ~647 |
-| Clarion Cove | 33.00% | ~628 |
+| Clarion Cove | 34.00% | ~647 |
 | Past trauma | 32.00% | ~609 |
 | Ternmoat Headquarters | 32.00% | ~609 |
 | Thornbarrow | 31.00% | ~590 |
 | Elemental master | 30.00% | ~571 |
 | Cypress Glen Headquarters | 30.00% | ~571 |
+| Old friend | 26.00% | ~495 |
 | Petricite Burst | 26.00% | ~495 |
-| Old friend | 25.00% | ~476 |
 | Devineur | 25.00% | ~476 |
 | Whispers in the Woods I | 24.00% | ~457 |
 | Hijack | 24.00% | ~457 |

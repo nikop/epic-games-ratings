@@ -15,10 +15,10 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.12% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.78% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.77% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -28,7 +28,7 @@
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 29 | [Ravenlok](games/r/ravenlok.md) | 4.30% |
+| 29 | [Ravenlok](games/r/ravenlok.md) | 4.28% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.09% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
@@ -242,6 +242,7 @@
 | 192 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 0.00% |
 | 192 | [EBOLA 2](games/e/ebola_2.md) | 0.00% |
 | 192 | [EBOLA 3](games/e/ebola_3.md) | 0.00% |
+| 192 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 0.00% |
 | 192 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
 | 192 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 192 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
@@ -381,4 +382,4 @@
 | 192 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 192 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 192 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,564 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,565 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -636,9 +636,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achCity",
@@ -981,8 +981,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-07T08:07:41.1130892+00:00",
+  "LastChanged_Achievements": "2023-05-07T09:08:12.8156767+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:02:02.7719977+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:07:41.1131274+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:02:29.7646102+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:08:12.8157244+00:00"
 }

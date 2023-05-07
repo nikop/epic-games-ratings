@@ -37,8 +37,8 @@ Number of Ratings: 48  (23.09.2022)
 | Meat Master | 25.00% | ~166 |
 | Armor Master | 24.00% | ~159 |
 | The Pride of the Town | 23.00% | ~153 |
+| New Nevaeh's Number One Customer | 21.00% | ~139 |
 | This Treasure I've Found | 20.00% | ~133 |
-| New Nevaeh's Number One Customer | 20.00% | ~133 |
 | Arms Master | 19.00% | ~126 |
 | Rune Scholar | 16.00% | ~106 |
 | No Treasure Left Behind | 13.00% | ~86 |

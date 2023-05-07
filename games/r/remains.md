@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome | 100.00% | ~11 |
-| Garbage collector | 91.00% | ~10 |
-| Om nom nom | 64.00% | ~7 |
-| Repair master | 45.00% | ~5 |
-| No one will hear you! | 36.00% | ~4 |
-| I am speed! | 27.00% | ~3 |
-| It's safe here! | 18.00% | ~2 |
+| Welcome | 100.00% | ~12 |
+| Garbage collector | 92.00% | ~11 |
+| Om nom nom | 67.00% | ~8 |
+| Repair master | 50.00% | ~6 |
+| I am speed! | 33.00% | ~4 |
+| No one will hear you! | 33.00% | ~4 |
+| It's safe here! | 17.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 307)  
+Progressed: 12 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -21,4 +21,4 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 5 | 0 |
 | 2023-05-05 | 9 | 0 |
 | 2023-05-06 | 10 | 0 |
-| 2023-05-07 | 11 | 0 |
+| 2023-05-07 | 12 | 0 |

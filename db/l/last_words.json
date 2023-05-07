@@ -2,9 +2,9 @@
   "ID": "863fd6c97b804caea4ce44ffc99b0226",
   "Name": "Last Words",
   "ProductSlug": "last-words-5a83dd",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -20,6 +20,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:58:53.5002491+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:58:44.4138306+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:04:29.8764251+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:59:01.271886+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:05:03.1903965+00:00"
 }

@@ -12,22 +12,22 @@
 | Shook Up | 29.00% | ~4 |
 | Vaccinated | 29.00% | ~4 |
 | Warning: Fragile | 29.00% | ~4 |
+| An Acquired Taste | 21.00% | ~3 |
+| Everyone Needs a Break | 21.00% | ~3 |
 | Job Creator | 21.00% | ~3 |
 | Task Master | 21.00% | ~3 |
-| An Acquired Taste | 14.00% | ~2 |
 | A Real Headache | 14.00% | ~2 |
+| A Light in the Dark | 14.00% | ~2 |
 | Busybody | 14.00% | ~2 |
-| Everyone Needs a Break | 14.00% | ~2 |
+| Knock Knock | 14.00% | ~2 |
 | They Flock to Him | 14.00% | ~2 |
 | A Little Eccentric | 7.00% | ~1 |
 | A Total Riot | 7.00% | ~1 |
-| A Light in the Dark | 7.00% | ~1 |
 | The Guardian | 7.00% | ~1 |
 | Blood Begets Blood | 7.00% | ~1 |
 | Couldn't Have Planned It Better Myself | 7.00% | ~1 |
 | Endgame | 7.00% | ~1 |
 | The Philosopher | 7.00% | ~1 |
-| Knock Knock | 7.00% | ~1 |
 | Obligatory Fraudulent Baking | 7.00% | ~1 |
 | The Partner | 7.00% | ~1 |
 | Socially Acceptable Insanity | 7.00% | ~1 |

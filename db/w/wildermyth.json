@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1139,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -251,6 +251,11 @@
       "Time": "2023-05-07T04:07:07.4905362+00:00",
       "NumProgressed": 1139,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-07T09:07:28.682574+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -276,9 +281,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -438,7 +443,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_mythwalker",
@@ -709,15 +714,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1139,
+      "Progressed": 1140,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-07T08:06:58.1751846+00:00",
+  "LastChanged_Achievements": "2023-05-07T09:07:28.6825735+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:02:23.5168465+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:06:58.1752238+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:02:51.3118519+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:07:28.6826263+00:00"
 }

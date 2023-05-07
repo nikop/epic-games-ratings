@@ -2,22 +2,27 @@
   "ID": "73c5297403d440f69cc7418a75df293d",
   "Name": "Switchball HD",
   "ProductSlug": "switchball-hd-6d3802",
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-07T08:06:37.2604887+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T09:07:07.0529767+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -36,7 +41,7 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -76,7 +81,7 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -101,13 +106,13 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-07T08:06:37.2604883+00:00",
+  "LastChanged_Achievements": "2023-05-07T09:07:07.0529764+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:36.0717869+00:00",
-  "LastUpdate_Ratings": "2023-05-07T07:58:23.6773679+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:06:37.2604989+00:00"
+  "LastUpdate_Ratings": "2023-05-07T08:58:36.8443599+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:07:07.0536369+00:00"
 }

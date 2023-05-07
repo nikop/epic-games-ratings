@@ -2,9 +2,9 @@
   "ID": "d6fc17cb019f4174b7856fedafdb6e12",
   "Name": "Dumpy and Bumpy",
   "ProductSlug": "dumpy-and-bumpy-86c9d7",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.2037049+00:00",
   "LastChanged": "2023-03-31T05:57:23.203705+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.4197961+00:00",
-  "LastUpdate_Ratings": "2023-05-07T08:01:30.5128689+00:00",
-  "LastUpdate_Achievements": "2023-05-07T08:05:55.2051893+00:00"
+  "LastUpdate_Ratings": "2023-05-07T09:01:57.9162602+00:00",
+  "LastUpdate_Achievements": "2023-05-07T09:06:22.6978944+00:00"
 }

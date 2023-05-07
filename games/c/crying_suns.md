@@ -6,9 +6,9 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,893 |
-| Jeef Skeejj | 44.00% | ~201,262 |
-| Careful planning | 39.00% | ~178,391 |
+| The Shutdown | 66.00% | ~301,894 |
+| Jeef Skeejj | 44.00% | ~201,263 |
+| Careful planning | 39.00% | ~178,392 |
 | Second Coming | 33.00% | ~150,947 |
 | Jeef Skagg | 30.00% | ~137,224 |
 | Mother | 25.00% | ~114,354 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~68,612 |
 | Tetsuo | 11.00% | ~50,316 |
 | Plan for the worst | 11.00% | ~50,316 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,741 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,742 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,593 |
 | Through the mirror | 8.00% | ~36,593 |
 | General Vivar | 8.00% | ~36,593 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~457 |
 | Excelsior Supremacy | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,414 (Ranked 28)  
+Progressed: 457,415 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 14 (0.00%) (Ranked 192)
 | 2023-05-04 | 457,255 | 14 |
 | 2023-05-05 | 457,303 | 14 |
 | 2023-05-06 | 457,393 | 14 |
-| 2023-05-07 | 457,414 | 14 |
+| 2023-05-07 | 457,415 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 252)  
 Sum: 209 (Ranked 347)  
