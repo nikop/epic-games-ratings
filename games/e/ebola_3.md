@@ -11,12 +11,13 @@
 | Mutation ✔ | 21.00% | ~31 |
 | Doberman ✔ | 10.00% | ~15 |
 | Survival ✔ | 6.00% | ~9 |
+| Weapon ✔ | 6.00% | ~9 |
 | Hospital ✔ | 5.00% | ~7 |
 | Master of Unlocking ✔ | 5.00% | ~7 |
 | Chess ✔ | 5.00% | ~7 |
 | Thirst ✔ | 5.00% | ~7 |
-| Weapon ✔ | 5.00% | ~7 |
 | Antivirus ✔ | 4.00% | ~6 |
+| Betty ✔ | 4.00% | ~6 |
 | Cheats ✔ | 4.00% | ~6 |
 | City ✔ | 4.00% | ~6 |
 | Fraternal help ✔ | 4.00% | ~6 |
@@ -24,7 +25,6 @@
 | King of survival ✔ | 4.00% | ~6 |
 | Boss 1 ✔ | 3.00% | ~4 |
 | Alice ✔ | 3.00% | ~4 |
-| Betty ✔ | 3.00% | ~4 |
 | Brain ✔ | 3.00% | ~4 |
 | Crocodile Attack ✔ | 3.00% | ~4 |
 | Eva ✔ | 3.00% | ~4 |

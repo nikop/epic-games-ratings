@@ -280,9 +280,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 6071,
+  "EOS_Progressed": 6072,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1055,6 +1055,11 @@
       "Time": "2023-05-07T13:09:29.8935692+00:00",
       "NumProgressed": 6071,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-07T14:06:30.8513395+00:00",
+      "NumProgressed": 6072,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1066,7 +1071,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH02",
@@ -1202,7 +1207,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH19",
@@ -1242,7 +1247,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ACH24",
@@ -1322,7 +1327,7 @@
       "Name": "Done it All",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH34",
@@ -1337,7 +1342,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6071,
+      "Progressed": 6072,
       "Completed": 20
     }
   ],
@@ -1345,8 +1350,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-07T08:59:55.8611599+00:00",
-  "LastChanged_Achievements": "2023-05-07T13:09:29.8935686+00:00",
+  "LastChanged_Achievements": "2023-05-07T14:06:30.851339+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:02:14.7666843+00:00",
-  "LastUpdate_Achievements": "2023-05-07T13:09:29.8935983+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:59:34.5341119+00:00",
+  "LastUpdate_Achievements": "2023-05-07T14:06:30.8513679+00:00"
 }

@@ -25,7 +25,7 @@
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 4.65% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 4.81% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
@@ -76,9 +76,9 @@
 | 74 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 75 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.22% |
 | 76 | [Late Shift](games/l/late_shift.md) | 1.20% |
-| 77 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
+| 77 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 78 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 79 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
+| 79 | [Dungeons 3](games/d/dungeons_3.md) | 0.95% |
 | 80 | [Sable](games/s/sable.md) | 0.91% |
 | 81 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 81 | [Hades](games/h/hades.md) | 0.89% |

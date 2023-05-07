@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 76.00% | ~48 |
-| Rookie | 76.00% | ~48 |
-| Challenge Accepted | 60.00% | ~38 |
-| Nanonic I | 60.00% | ~38 |
-| Terminated I | 60.00% | ~38 |
-| Unlocked and Loaded | 56.00% | ~35 |
-| Terminated II | 51.00% | ~32 |
-| Terminated III | 37.00% | ~23 |
+| Augmented | 77.00% | ~49 |
+| Rookie | 77.00% | ~49 |
+| Challenge Accepted | 61.00% | ~39 |
+| Nanonic I | 61.00% | ~39 |
+| Terminated I | 61.00% | ~39 |
+| Unlocked and Loaded | 55.00% | ~35 |
+| Terminated II | 50.00% | ~32 |
+| Terminated III | 36.00% | ~23 |
 | Nanonic II | 33.00% | ~21 |
 | Challenge Mastered | 27.00% | ~17 |
 | The City | 22.00% | ~14 |
 | Supply Run | 22.00% | ~14 |
-| Up Close And Personal | 21.00% | ~13 |
+| Up Close And Personal | 20.00% | ~13 |
 | Nanonic III | 16.00% | ~10 |
 | Starship Docks | 14.00% | ~9 |
 | The Bigger They Are | 13.00% | ~8 |
 | Fully Modded | 11.00% | ~7 |
+| Cybernetic | 6.00% | ~4 |
 | Eden Heights | 6.00% | ~4 |
-| Cybernetic | 5.00% | ~3 |
 | Outer Core | 3.00% | ~2 |
 | Ripperdoc | 3.00% | ~2 |
 | Cyborg | 2.00% | ~1 |
@@ -33,7 +33,7 @@
 | Trickshot | 2.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 265)  
+Progressed: 64 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 59 | 0 |
 | 2023-05-05 | 60 | 0 |
 | 2023-05-06 | 61 | 0 |
-| 2023-05-07 | 63 | 0 |
+| 2023-05-07 | 64 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

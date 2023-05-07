@@ -6,27 +6,27 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~431,701 |
-| The Three | 64.00% | ~332,878 |
-| The Banquet | 40.00% | ~208,049 |
-| Devara's Light | 30.00% | ~156,037 |
-| The Iron Ones | 18.00% | ~93,622 |
+| Find Sanctuary | 83.00% | ~431,705 |
+| The Three | 64.00% | ~332,881 |
+| The Banquet | 40.00% | ~208,051 |
+| Devara's Light | 30.00% | ~156,038 |
+| The Iron Ones | 18.00% | ~93,623 |
 | The Village | 16.00% | ~83,220 |
-| The Forest | 14.00% | ~72,817 |
-| Branded | 13.00% | ~67,616 |
-| The Imposter | 13.00% | ~67,616 |
-| The Keep | 13.00% | ~67,616 |
-| The Castle | 11.00% | ~57,213 |
+| The Forest | 14.00% | ~72,818 |
+| Branded | 13.00% | ~67,617 |
+| The Imposter | 13.00% | ~67,617 |
+| The Keep | 13.00% | ~67,617 |
+| The Castle | 11.00% | ~57,214 |
 | The Dome | 9.00% | ~46,811 |
 | The Red Hall | 9.00% | ~46,811 |
 | The Sacrifice | 8.00% | ~41,610 |
 | The Cave | 7.00% | ~36,409 |
 | The Stone Roots | 7.00% | ~36,409 |
 | The Ziggurat | 7.00% | ~36,409 |
-| Storied | 6.00% | ~31,207 |
-| The Construct | 6.00% | ~31,207 |
-| The Mire | 6.00% | ~31,207 |
-| The Ruins | 6.00% | ~31,207 |
+| Storied | 6.00% | ~31,208 |
+| The Construct | 6.00% | ~31,208 |
+| The Mire | 6.00% | ~31,208 |
+| The Ruins | 6.00% | ~31,208 |
 | The Alkymancery | 5.00% | ~26,006 |
 | The Lake | 5.00% | ~26,006 |
 | The Pitchwoods | 5.00% | ~26,006 |
@@ -36,15 +36,15 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Palace | 4.00% | ~20,805 |
 | Find Salvation | 3.00% | ~15,604 |
 | The Unspeakable Deep | 3.00% | ~15,604 |
-| Coastrock | 2.00% | ~10,402 |
-| Devoted | 2.00% | ~10,402 |
-| Dominion | 2.00% | ~10,402 |
-| Keepers of Fire and Sky | 2.00% | ~10,402 |
-| Order of the Betrayer | 2.00% | ~10,402 |
-| Wise Words | 2.00% | ~10,402 |
+| Coastrock | 2.00% | ~10,403 |
+| Devoted | 2.00% | ~10,403 |
+| Dominion | 2.00% | ~10,403 |
+| Keepers of Fire and Sky | 2.00% | ~10,403 |
+| Order of the Betrayer | 2.00% | ~10,403 |
+| Wise Words | 2.00% | ~10,403 |
 | Fading Fast | 1.00% | ~5,201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,122 (Ranked 23)  
+Progressed: 520,127 (Ranked 23)  
 Completed: 1,399 (0.27%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 1,399 (0.27%) (Ranked 124)
 | 2023-05-04 | 519,799 | 1,396 |
 | 2023-05-05 | 519,912 | 1,397 |
 | 2023-05-06 | 520,051 | 1,399 |
-| 2023-05-07 | 520,122 | 1,399 |
+| 2023-05-07 | 520,127 | 1,399 |
 ## Awards
 Max (Challenging Combat): 267  (Ranked 232)  
 Sum: 1,872 (Ranked 190)  

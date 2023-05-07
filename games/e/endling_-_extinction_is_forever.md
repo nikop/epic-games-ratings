@@ -11,7 +11,7 @@
 | Detox diet | 38.00% | ~152 |
 | Tasty | 37.00% | ~148 |
 | Lullaby | 32.00% | ~128 |
-| You Can Pet The Fox | 29.00% | ~116 |
+| You Can Pet The Fox | 30.00% | ~120 |
 | Hard Fox Life | 24.00% | ~96 |
 | Never Let Down | 23.00% | ~92 |
 | Chicken Dinner | 21.00% | ~84 |

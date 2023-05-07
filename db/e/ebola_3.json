@@ -609,9 +609,9 @@
       "ID": "achBett",
       "SetID": "72gjli4",
       "Name": "Betty \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achBrain",
@@ -961,9 +961,9 @@
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "achWorms",
@@ -986,8 +986,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-07T13:10:12.4077389+00:00",
+  "LastChanged_Achievements": "2023-05-07T14:07:08.0166045+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:04:31.8990339+00:00",
-  "LastUpdate_Achievements": "2023-05-07T13:10:12.4077849+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:01:23.1642319+00:00",
+  "LastUpdate_Achievements": "2023-05-07T14:07:08.0166498+00:00"
 }

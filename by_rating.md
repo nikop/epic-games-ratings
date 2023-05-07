@@ -226,7 +226,7 @@
 | 213 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 454 |
 | 213 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 490 |
 | 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 490 |
-| 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 59 | 379 |
+| 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 60 | 377 |
 | 213 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,485 | 113 |
 | 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 860 | 142 |
 | 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 490 |
@@ -313,7 +313,7 @@
 | 310 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,924 | 54 |
 | 310 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 307 |
 | 310 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 0 | 490 |
-| 310 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 59 | 379 |
+| 310 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 59 | 380 |
 | 310 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 490 |
 | 310 | [HITMAN](games/h/hitman.md) | 4.64 | 196 | 258 |
 | 310 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 179 | 267 |
@@ -372,7 +372,7 @@
 | 352 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 410 | 193 |
 | 352 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 267 | 232 |
 | 352 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 490 |
-| 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,604 | 40 |
+| 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,605 | 40 |
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 372 |
 | 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,598 | 21 |
 | 376 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,707 | 29 |
@@ -474,7 +474,7 @@
 | 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 838 | 144 |
 | 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 434 |
 | 466 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 490 |
-| 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,138 | 125 |
+| 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,140 | 125 |
 | 476 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 2,510 | 90 |
 | 476 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 432 |
 | 476 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,034 | 132 |
@@ -500,7 +500,7 @@
 | 488 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 331 |
 | 499 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 735 | 151 |
 | 499 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 414 |
-| 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,090 | 16 |
+| 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,119 | 16 |
 | 499 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 84 | 341 |
 | 499 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 500 | 182 |
 | 499 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 322 |
@@ -604,7 +604,7 @@
 | 598 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 490 |
 | 598 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 230 | 243 |
 | 598 | [Faeria](games/f/faeria.md) | 4.45 | 104 | 314 |
-| 598 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 693 | 154 |
+| 598 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 695 | 154 |
 | 598 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 490 |
 | 598 | [Hell is Others](games/h/hell_is_others.md) | 4.45 | 0 | 490 |
 | 598 | [Knockout City™](games/k/knockout_city™.md) | 4.45 | 0 | 490 |
@@ -633,7 +633,7 @@
 | 620 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 325 |
 | 620 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 490 |
 | 620 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 0 | 490 |
-| 620 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 379 |
+| 620 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
 | 635 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 28 | 451 |
 | 635 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 490 |
 | 635 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 490 |
@@ -761,7 +761,7 @@
 | 759 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 490 |
 | 759 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 490 |
 | 759 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,289,048 | 1 |
-| 759 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 680 | 157 |
+| 759 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 681 | 157 |
 | 759 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 407 |
 | 759 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 128 | 293 |
 | 759 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 490 |

@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2762,
+  "EOS_Progressed": 2763,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -553,6 +553,11 @@
       "Time": "2023-05-07T13:09:59.5031545+00:00",
       "NumProgressed": 2762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T14:06:56.6688974+00:00",
+      "NumProgressed": 2763,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -644,7 +649,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_K_A2",
@@ -660,7 +665,7 @@
       "Name": "Missilis",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_MC",
@@ -700,7 +705,7 @@
       "Name": "Modest Earnings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_M_D2",
@@ -756,7 +761,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_M_SC",
@@ -772,7 +777,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_OB_BB",
@@ -900,7 +905,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_OB_SD",
@@ -988,7 +993,7 @@
       "Name": "Reign in Blood",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_TP",
@@ -1067,7 +1072,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 2762,
+      "Progressed": 2763,
       "Completed": 0
     }
   ],
@@ -1075,8 +1080,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-05-07T13:09:59.5031541+00:00",
+  "LastChanged_Achievements": "2023-05-07T14:06:56.6688968+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.9428216+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:03:53.8906982+00:00",
-  "LastUpdate_Achievements": "2023-05-07T13:09:59.5032284+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:00:53.5906859+00:00",
+  "LastUpdate_Achievements": "2023-05-07T14:06:56.6689492+00:00"
 }

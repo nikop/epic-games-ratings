@@ -15,7 +15,7 @@
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,760 | 4.74 | 141 |
 | 14 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 29,847 | 4.59 | 394 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,432 | 4.65 | 287 |
-| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,090 | 4.52 | 499 |
+| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,119 | 4.52 | 499 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,714 | 4.53 | 488 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,488 | 4.77 | 103 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,183 | 4.57 | 429 |
@@ -39,7 +39,7 @@
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 8,871 | 4.78 | 101 |
 | 38 | [Control](games/c/control.md) | 8,263 | 4.60 | 376 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,904 | 4.76 | 115 |
-| 40 | [Supraland](games/s/supraland.md) | 7,604 | 4.61 | 352 |
+| 40 | [Supraland](games/s/supraland.md) | 7,605 | 4.61 | 352 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,524 | 4.85 | 37 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,245 | 4.57 | 429 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,141 | 4.71 | 178 |
@@ -124,7 +124,7 @@
 | 122 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,213 | 4.86 | 27 |
 | 123 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,172 | 4.69 | 213 |
 | 124 | [Conan Exiles](games/c/conan_exiles.md) | 1,149 | 4.55 | 466 |
-| 125 | [XCOM® 2](games/x/xcom®_2.md) | 1,138 | 4.55 | 466 |
+| 125 | [XCOM® 2](games/x/xcom®_2.md) | 1,140 | 4.55 | 466 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,136 | 4.52 | 499 |
 | 127 | [OUTRIDERS](games/o/outriders.md) | 1,106 | 4.42 | 641 |
 | 128 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,079 | 4.61 | 352 |
@@ -153,10 +153,10 @@
 | 151 | [Auto Chess](games/a/auto_chess.md) | 735 | 4.52 | 499 |
 | 152 | [Core](games/c/core.md) | 728 | 4.37 | 695 |
 | 153 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 718 | 4.79 | 90 |
-| 154 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 693 | 4.45 | 598 |
+| 154 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 695 | 4.45 | 598 |
 | 155 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 692 | 4.59 | 394 |
 | 156 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 687 | 4.86 | 27 |
-| 157 | [Neverwinter](games/n/neverwinter.md) | 680 | 4.29 | 759 |
+| 157 | [Neverwinter](games/n/neverwinter.md) | 681 | 4.29 | 759 |
 | 158 | [Neon Abyss](games/n/neon_abyss.md) | 662 | 4.68 | 234 |
 | 159 | [Subnautica](games/s/subnautica.md) | 655 | 4.84 | 49 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 648 | 4.50 | 530 |
@@ -377,10 +377,10 @@
 | 374 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 62 | 4.75 | 125 |
 | 374 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 376 |
 | 377 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 60 | 4.42 | 641 |
+| 377 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 60 | 4.69 | 213 |
 | 377 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 60 | 4.34 | 723 |
-| 379 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 59 | 4.64 | 310 |
-| 379 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 59 | 4.69 | 213 |
-| 379 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 620 |
+| 380 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 59 | 4.64 | 310 |
+| 380 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 620 |
 | 382 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 394 |
 | 383 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 853 |
 | 384 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 51 | 4.65 | 287 |

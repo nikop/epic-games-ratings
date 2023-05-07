@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -243,6 +243,11 @@
       "Time": "2023-05-07T05:07:45.4415162+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T14:06:54.9421323+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -252,9 +257,9 @@
       "ID": "ACHV_AUGMENTED",
       "SetID": "cceobco",
       "Name": "Augmented",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -268,9 +273,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -292,9 +297,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHV_CYBORG",
@@ -364,9 +369,9 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -404,9 +409,9 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -420,15 +425,15 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 32
     },
@@ -436,7 +441,7 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 90,
       "UsersEstimate": 23
     },
@@ -452,7 +457,7 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 35
     },
@@ -460,7 +465,7 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -477,7 +482,7 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
@@ -485,8 +490,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-07T13:09:57.5171761+00:00",
+  "LastChanged_Achievements": "2023-05-07T14:06:54.9421313+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:03:48.606455+00:00",
-  "LastUpdate_Achievements": "2023-05-07T13:09:57.5171984+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:00:50.1970954+00:00",
+  "LastUpdate_Achievements": "2023-05-07T14:06:54.9421539+00:00"
 }

@@ -33,6 +33,7 @@
 | Knock Knock | 13.00% | ~2 |
 | Quidnunc | 13.00% | ~2 |
 | The Provocateur | 13.00% | ~2 |
+| That One Doesn't Count | 13.00% | ~2 |
 | Zonk! | 13.00% | ~2 |
 | A Little Eccentric | 7.00% | ~1 |
 | Couldn't Have Planned It Better Myself | 7.00% | ~1 |
@@ -42,7 +43,6 @@
 | Overseer | 7.00% | ~1 |
 | Ring of Fire | 7.00% | ~1 |
 | Social Butterfly | 7.00% | ~1 |
-| That One Doesn't Count | 7.00% | ~1 |
 | What They Don't Know Can't Hurt Them | 7.00% | ~1 |
 | Keeper of the People | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |

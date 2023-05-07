@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42,6 +42,11 @@
     {
       "Time": "2023-05-07T08:07:26.3161798+00:00",
       "NumProgressed": 284,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T14:06:56.0186282+00:00",
+      "NumProgressed": 285,
       "NumCompleted": 0
     }
   ],
@@ -86,7 +91,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "BugHunter",
@@ -252,9 +257,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "Roughneck",
@@ -373,7 +378,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 0
     }
   ],
@@ -381,8 +386,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-07T13:09:58.841275+00:00",
+  "LastChanged_Achievements": "2023-05-07T14:06:56.0186275+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:42.6742178+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:03:42.5291161+00:00",
-  "LastUpdate_Achievements": "2023-05-07T13:09:58.8413129+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:00:45.9227041+00:00",
+  "LastUpdate_Achievements": "2023-05-07T14:06:56.018658+00:00"
 }

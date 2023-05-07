@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Checkmate | 2.00% | ~1,060 |
-| A Brief Tour of the Realms | 1.00% | ~867 |
+| A Brief Tour of the Realms | 1.00% | ~868 |
 | Vecna Out! | 1.00% | ~530 |
 | Pin and Skewer | 0.90% | ~477 |
 | Bully for Vecna | 0.70% | ~371 |
@@ -28,10 +28,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
-| Maddening | 0.20% | ~173 |
+| Maddening | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
-| The Silken Swamp | 0.20% | ~173 |
-| Supply Run | 0.20% | ~173 |
+| The Silken Swamp | 0.20% | ~174 |
+| Supply Run | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~106 |
 | Owlbear Necessities | 0.20% | ~106 |
 | Best Thay Ever | 0.20% | ~106 |
@@ -44,47 +44,47 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
 | No One Can Hear You Scream | 0.20% | ~106 |
-| Beast Mode | 0.20% | ~173 |
-| Low Initiative | 0.20% | ~173 |
-| A Mysterious Summons | 0.20% | ~173 |
-| Street War | 0.20% | ~173 |
-| Building Trust | 0.20% | ~173 |
-| March of the Undead | 0.20% | ~173 |
-| Wisdom Check | 0.20% | ~173 |
-| No Time To Rest | 0.20% | ~173 |
-| Invisible Shadows | 0.20% | ~173 |
-| The Dinner Party | 0.20% | ~173 |
-| The Botched Kidnapping | 0.20% | ~173 |
-| Trollskull Manor | 0.20% | ~173 |
-| Attack on the Manor | 0.20% | ~173 |
-| The Death Curse | 0.20% | ~173 |
-| Nimble Escape | 0.20% | ~173 |
-| Useless Allies | 0.20% | ~173 |
-| Fugitives | 0.20% | ~173 |
-| Premature Betrayal | 0.20% | ~173 |
-| A Tale of Two Cities | 0.20% | ~173 |
-| The Dead Three | 0.20% | ~173 |
-| Flying Monkey Skulls of Doom | 0.20% | ~173 |
-| The Darkness Runs Deeper | 0.20% | ~173 |
-| Difficult Terrain | 0.20% | ~173 |
-| Running of the Saurs | 0.20% | ~173 |
-| The Contagious Curse | 0.20% | ~173 |
-| Dinosaur Racing | 0.20% | ~173 |
+| Beast Mode | 0.20% | ~174 |
+| Low Initiative | 0.20% | ~174 |
+| A Mysterious Summons | 0.20% | ~174 |
+| Street War | 0.20% | ~174 |
+| Building Trust | 0.20% | ~174 |
+| March of the Undead | 0.20% | ~174 |
+| Wisdom Check | 0.20% | ~174 |
+| No Time To Rest | 0.20% | ~174 |
+| Invisible Shadows | 0.20% | ~174 |
+| The Dinner Party | 0.20% | ~174 |
+| The Botched Kidnapping | 0.20% | ~174 |
+| Trollskull Manor | 0.20% | ~174 |
+| Attack on the Manor | 0.20% | ~174 |
+| The Death Curse | 0.20% | ~174 |
+| Nimble Escape | 0.20% | ~174 |
+| Useless Allies | 0.20% | ~174 |
+| Fugitives | 0.20% | ~174 |
+| Premature Betrayal | 0.20% | ~174 |
+| A Tale of Two Cities | 0.20% | ~174 |
+| The Dead Three | 0.20% | ~174 |
+| Flying Monkey Skulls of Doom | 0.20% | ~174 |
+| The Darkness Runs Deeper | 0.20% | ~174 |
+| Difficult Terrain | 0.20% | ~174 |
+| Running of the Saurs | 0.20% | ~174 |
+| The Contagious Curse | 0.20% | ~174 |
+| Dinosaur Racing | 0.20% | ~174 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
-| Escort to Waterdeep | 0.20% | ~173 |
+| Escort to Waterdeep | 0.20% | ~174 |
 | The Giant's Bane Tavern | 0.20% | ~106 |
 | The Everlasting Rime | 0.20% | ~106 |
-| Close Escort | 0.20% | ~173 |
-| Constant Banditry | 0.20% | ~173 |
-| Waterdeep Detours | 0.20% | ~173 |
-| Easily Distracted | 0.20% | ~173 |
-| Rude Welcome | 0.20% | ~173 |
-| Underdeep Cartography | 0.20% | ~173 |
-| Overdue Rendezvous | 0.20% | ~173 |
+| Close Escort | 0.20% | ~174 |
+| Constant Banditry | 0.20% | ~174 |
+| Waterdeep Detours | 0.20% | ~174 |
+| Easily Distracted | 0.20% | ~174 |
+| Rude Welcome | 0.20% | ~174 |
+| Underdeep Cartography | 0.20% | ~174 |
+| Overdue Rendezvous | 0.20% | ~174 |
 | Moose Tracks | 0.20% | ~106 |
-| The Templar's Camp | 0.20% | ~173 |
-| Rescue in the Jungle | 0.20% | ~173 |
+| The Templar's Camp | 0.20% | ~174 |
+| Rescue in the Jungle | 0.20% | ~174 |
 | Pros and CONs | 0.10% | ~87 |
 | Upholding the Law | 0.10% | ~87 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,743 (Ranked 59)  
+Progressed: 86,750 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,7 +513,7 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,743 | 1,810 |
+| 2023-05-07 | 86,750 | 1,810 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 62)  
 Sum: 29,826 (Ranked 37)  

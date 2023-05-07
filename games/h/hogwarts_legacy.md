@@ -30,13 +30,13 @@ Rating: 4.77 (Ranked 103)
 | The Root of the Problem | 3.00% | ~7,981 |
 | Third Time's a Charm | 3.00% | ~7,981 |
 | Raising Expectations | 3.00% | ~7,981 |
-| The Toast of the Town | 2.00% | ~5,320 |
-| Going Through the Potions | 2.00% | ~5,320 |
-| Room with a View | 2.00% | ~5,320 |
-| Floo Around the World | 2.00% | ~5,320 |
-| The Intrepid Explorer | 2.00% | ~5,320 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,320 |
-| The Ends Petrify the Means | 2.00% | ~5,320 |
+| The Toast of the Town | 2.00% | ~5,321 |
+| Going Through the Potions | 2.00% | ~5,321 |
+| Room with a View | 2.00% | ~5,321 |
+| Floo Around the World | 2.00% | ~5,321 |
+| The Intrepid Explorer | 2.00% | ~5,321 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,321 |
+| The Ends Petrify the Means | 2.00% | ~5,321 |
 | The Good Samaritan | 1.00% | ~2,660 |
 | Put Down Roots | 1.00% | ~2,660 |
 | The Auror's Apprentice | 1.00% | ~2,660 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | Spilled Milk | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,023 (Ranked 38)  
+Progressed: 266,028 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,10 +68,10 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 266,023 | 351 |
+| 2023-05-07 | 266,028 | 351 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
-Sum: 33,704 (Ranked 33)  
+Sum: 33,706 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -79,7 +79,7 @@ Diff (max vs sum): -15
 | This game has Great Boss Battles | 8,615 |
 | This game is Extremely Fun | 746 |
 | This game is Great for Beginners | 724 |
-| This game is Relaxing | 712 |
+| This game is Relaxing | 714 |
 | This game has Diverse Characters | 705 |
 | This game has Amazing Storytelling | 697 |
 | This game has Amazing Characters | 687 |
@@ -134,4 +134,4 @@ Diff (max vs sum): -15
 | 2023-05-04 | 4.77 | 18,359 | 33,449 |
 | 2023-05-05 | 4.77 | 18,393 | 33,525 |
 | 2023-05-06 | 4.77 | 18,430 | 33,633 |
-| 2023-05-07 | 4.77 | 18,488 | 33,704 |
+| 2023-05-07 | 4.77 | 18,488 | 33,706 |

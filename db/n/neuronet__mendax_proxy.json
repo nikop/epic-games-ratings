@@ -387,9 +387,9 @@
       "ID": "THAT_ONE_DOESNT_COUNT",
       "SetID": "2d85n75",
       "Name": "That One Doesn\u0027t Count",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THEY_FLOCK_TO_HIM",
@@ -500,8 +500,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-07T13:09:58.868173+00:00",
+  "LastChanged_Achievements": "2023-05-07T14:06:56.1118393+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:03:51.8182374+00:00",
-  "LastUpdate_Achievements": "2023-05-07T13:09:58.8682344+00:00"
+  "LastUpdate_Ratings": "2023-05-07T14:00:51.7480635+00:00",
+  "LastUpdate_Achievements": "2023-05-07T14:06:56.1118782+00:00"
 }

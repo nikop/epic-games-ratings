@@ -517,7 +517,7 @@
 | [De-Exit - Eternal Matters](games/d/de-exit_-_eternal_matters.md) | - | - | 0 | - |
 | [Dead Age](games/d/dead_age.md) | - | - | 0 | - |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 833 | 0 | 490 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 499 | 27,090 | 16 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 499 | 27,119 | 16 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 249 | 237 |
 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 476 | 2,510 | 90 |
 | [Dead Space](games/d/dead_space.md) | 4.76 | 115 | 40 | 409 |
@@ -725,7 +725,7 @@
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 125 | 62 | 374 |
 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 376 | 13,240 | 25 |
 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 514 | 69 | 362 |
-| [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 310 | 59 | 379 |
+| [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 310 | 59 | 380 |
 | [Family Man](games/f/family_man.md) | 4.16 | 833 | 0 | 490 |
 | [Fangs](games/f/fangs.md) | 4.09 | 858 | 0 | 490 |
 | [Fantasy Wars](games/f/fantasy_wars.md) | - | - | 0 | - |
@@ -734,7 +734,7 @@
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 352 | 0 | 490 |
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 271 | 512 | 180 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 337 | 1,218 | 121 |
-| [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 598 | 693 | 154 |
+| [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 598 | 695 | 154 |
 | [Far Cry New Dawn - Complete](games/f/far_cry_new_dawn_-_complete.md) | - | - | - | - |
 | [Far Cry New Dawn - Ultimate](games/f/far_cry_new_dawn_-_ultimate.md) | - | - | - | - |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 641 | 180 | 266 |
@@ -1377,7 +1377,7 @@
 | [Neurodeck](games/n/neurodeck.md) | - | - | 0 | - |
 | [NeuroNet: Mendax Proxy](games/n/neuronet__mendax_proxy.md) | - | - | 0 | - |
 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 844 | 0 | 490 |
-| [Neverwinter](games/n/neverwinter.md) | 4.29 | 759 | 680 | 157 |
+| [Neverwinter](games/n/neverwinter.md) | 4.29 | 759 | 681 | 157 |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | - | - | 0 | - |
 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 394 | 0 | 490 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 863 | 0 | 490 |
@@ -1776,8 +1776,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 178 | 132 | 291 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 641 | 264 | 234 |
@@ -1982,7 +1982,7 @@
 | [Superliminal](games/s/superliminal.md) | 4.79 | 90 | 0 | 490 |
 | [SuperMash](games/s/supermash.md) | - | - | 0 | - |
 | [SuperPower 3](games/s/superpower_3.md) | - | - | 0 | - |
-| [Supraland](games/s/supraland.md) | 4.61 | 352 | 7,604 | 40 |
+| [Supraland](games/s/supraland.md) | 4.61 | 352 | 7,605 | 40 |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 103 | 97 | 325 |
 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 575 | 0 | 490 |
 | [Survive on Raft](games/s/survive_on_raft.md) | - | - | - | - |
@@ -2083,7 +2083,7 @@
 | [The Devil's Face](games/t/the_devil's_face.md) | - | - | - | - |
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 575 | 6,729 | 46 |
 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 514 | 63 | 372 |
-| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 213 | 59 | 379 |
+| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 213 | 60 | 377 |
 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 27 | 1,213 | 122 |
 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 125 | 0 | 490 |
 | [The Entropy Centre](games/t/the_entropy_centre.md) | - | - | 0 | - |
@@ -2285,8 +2285,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 620 | 0 | 490 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 256 | 0 | 490 |
@@ -2484,7 +2484,7 @@
 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 376 | 84 | 341 |
 | [Wolfsbane](games/w/wolfsbane.md) | - | - | - | - |
 | [Wolfstride](games/w/wolfstride.md) | - | - | 0 | - |
-| [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 620 | 59 | 379 |
+| [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 620 | 59 | 380 |
 | [Wonderputt Forever](games/w/wonderputt_forever.md) | - | - | 0 | - |
 | [Wonhon: A Vengeful Spirit](games/w/wonhon__a_vengeful_spirit.md) | - | - | 0 | - |
 | [World Eternal Online](games/w/world_eternal_online.md) | - | - | - | - |
@@ -2506,7 +2506,7 @@
 | [Wunderdoktor](games/w/wunderdoktor.md) | - | - | 0 | - |
 | [Wunderling DX](games/w/wunderling_dx.md) | - | - | 0 | - |
 | [Wytchwood](games/w/wytchwood.md) | - | - | 0 | - |
-| [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 466 | 1,138 | 125 |
+| [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 466 | 1,140 | 125 |
 | [Xenonauts 2](games/x/xenonauts_2.md) | - | - | - | - |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | - | - | - | - |
 | [XIII](games/x/xiii.md) | - | - | 0 | - |

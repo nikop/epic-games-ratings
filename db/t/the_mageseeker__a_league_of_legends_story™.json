@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1910,
+  "EOS_Progressed": 1911,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -913,6 +913,11 @@
       "Time": "2023-05-07T13:09:30.3545758+00:00",
       "NumProgressed": 1910,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T14:06:31.3682314+00:00",
+      "NumProgressed": 1911,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -932,7 +937,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -948,7 +953,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -964,7 +969,7 @@
       "Name": "Hijack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -988,7 +993,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1028,7 +1033,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1044,7 +1049,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1100,15 +1105,15 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1739
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1156,7 +1161,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1260,7 +1265,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1284,7 +1289,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -1300,7 +1305,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1347,7 +1352,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1910,
+      "Progressed": 1911,
       "Completed": 1
     }
   ],
@@ -1355,8 +1360,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-07T13:09:30.3545754+00:00",
+  "LastChanged_Achievements": "2023-05-07T14:06:31.3682307+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:01:29.2494615+00:00",
-  "LastUpdate_Achievements": "2023-05-07T13:09:30.3546405+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:59:00.4338649+00:00",
+  "LastUpdate_Achievements": "2023-05-07T14:06:31.3682837+00:00"
 }

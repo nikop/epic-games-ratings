@@ -2182,10 +2182,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6587,
       "NumberOfAwardsMax": 1626
+    },
+    {
+      "Time": "2023-05-07T13:59:37.9122012+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6588,
+      "NumberOfAwardsMax": 1626
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6587,
+  "NumberOfAwards": 6588,
   "NumberOfAwardsMax": 1626,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2199,7 +2205,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 584
+      "Count": 585
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2256,9 +2262,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8677,
+  "EOS_Progressed": 8679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2976,6 +2982,11 @@
       "Time": "2023-05-07T13:09:47.7769607+00:00",
       "NumProgressed": 8677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T14:06:46.6784331+00:00",
+      "NumProgressed": 8679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3003,7 +3014,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "04_FithCrusade",
@@ -3123,7 +3134,7 @@
       "Name": "Mythic Choices",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "19_EqualToAroden",
@@ -3235,7 +3246,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -3914,21 +3925,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7459,
+      "Progressed": 7461,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8677,
+      "Progressed": 8679,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-07T13:02:17.9419833+00:00",
-  "LastChanged_Achievements": "2023-05-07T13:09:47.7769602+00:00",
+  "LastChanged": "2023-05-07T13:59:37.9122008+00:00",
+  "LastChanged_Achievements": "2023-05-07T14:06:46.6784321+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-07T13:02:17.9419842+00:00",
-  "LastUpdate_Achievements": "2023-05-07T13:09:47.7771481+00:00"
+  "LastUpdate_Ratings": "2023-05-07T13:59:37.9122022+00:00",
+  "LastUpdate_Achievements": "2023-05-07T14:06:46.6786012+00:00"
 }
