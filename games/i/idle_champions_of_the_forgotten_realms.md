@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Checkmate | 2.00% | ~1,061 |
 | A Brief Tour of the Realms | 1.00% | ~868 |
-| Vecna Out! | 1.00% | ~530 |
-| Pin and Skewer | 0.90% | ~477 |
+| Vecna Out! | 1.00% | ~531 |
+| Pin and Skewer | 0.90% | ~478 |
 | Bully for Vecna | 0.70% | ~371 |
 | The Cursed Farmer | 0.70% | ~607 |
 | Beast Intentions | 0.60% | ~521 |
@@ -19,17 +19,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.40% | ~347 |
 | Are Ya Chicken? | 0.40% | ~347 |
 | Friendly Imps | 0.40% | ~347 |
+| Maddening | 0.30% | ~260 |
 | The Sanctum of the Sword | 0.30% | ~159 |
 | Get Back In The Castle | 0.30% | ~159 |
 | A Persistent Buzzing | 0.30% | ~260 |
 | Terror in the Dark | 0.30% | ~260 |
+| A Mysterious Summons | 0.30% | ~260 |
 | Unearthed Evil | 0.30% | ~260 |
 | The Crumbling Temple | 0.30% | ~260 |
 | Mad Cow Disease | 0.30% | ~260 |
 | Exploring Port Nyanzaru | 0.30% | ~260 |
 | Escort to Waterdeep | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
-| Maddening | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
 | The Witchlight Carnival | 0.20% | ~106 |
 | The Silken Swamp | 0.20% | ~174 |
@@ -45,10 +46,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.20% | ~106 |
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
+| Homecoming | 0.20% | ~174 |
 | No One Can Hear You Scream | 0.20% | ~106 |
 | Beast Mode | 0.20% | ~174 |
 | Low Initiative | 0.20% | ~174 |
-| A Mysterious Summons | 0.20% | ~174 |
 | Street War | 0.20% | ~174 |
 | Building Trust | 0.20% | ~174 |
 | March of the Undead | 0.20% | ~174 |
@@ -87,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~174 |
 | Overdue Rendezvous | 0.20% | ~174 |
 | Moose Tracks | 0.20% | ~106 |
+| Civilization | 0.20% | ~106 |
 | The Templar's Camp | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
 | Pros and CONs | 0.10% | ~87 |
@@ -181,7 +183,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.10% | ~53 |
 | Xanathaaaaaaar! | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
-| Homecoming | 0.10% | ~87 |
 | Anti-Dexterous Explorers | 0.10% | ~87 |
 | Struggling Toward Omu | 0.10% | ~87 |
 | Wagon Train | 0.10% | ~87 |
@@ -417,7 +418,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.10% | ~53 |
 | CONtagious Cold | 0.10% | ~53 |
 | Ten in Ten-Towns | 0.10% | ~53 |
-| Civilization | 0.10% | ~53 |
 | Trench Coat Run | 0.10% | ~53 |
 | The Taunting Lord | 0.10% | ~53 |
 | Durable Deep | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,773 (Ranked 59)  
+Progressed: 86,782 (Ranked 59)  
 Completed: 1,810 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,19 +513,19 @@ Completed: 1,810 (2.09%) (Ranked 56)
 | 2023-05-04 | 86,483 | 1,804 |
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
-| 2023-05-07 | 86,773 | 1,810 |
+| 2023-05-07 | 86,782 | 1,810 |
 ## Awards
-Max (Diverse Characters): 4,868  (Ranked 62)  
-Sum: 29,826 (Ranked 37)  
-Diff (max vs sum): 25  
+Max (Diverse Characters): 4,868  (Ranked 63)  
+Sum: 29,830 (Ranked 37)  
+Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,868 |
-| This game is Great for Beginners | 4,807 |
+| This game is Great for Beginners | 4,810 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,479 |
 | This game is Highly Recommended | 3,932 |
-| This game has Amazing Characters | 3,929 |
+| This game has Amazing Characters | 3,930 |
 | This game has Playful Visuals | 3,226 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -631,4 +631,4 @@ Diff (max vs sum): 25
 | 2023-05-04 | 4.06 | - | 4,863 | 29,800 |
 | 2023-05-05 | 4.06 | - | 4,865 | 29,803 |
 | 2023-05-06 | 4.06 | - | 4,868 | 29,822 |
-| 2023-05-07 | 4.06 | - | 4,868 | 29,826 |
+| 2023-05-07 | 4.06 | - | 4,868 | 29,830 |

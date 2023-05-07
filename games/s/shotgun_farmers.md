@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 105.00% | ~21 |
 | First Blood | 60.00% | ~12 |
+| Cornivore | 55.00% | ~11 |
 | No Asperascope | 50.00% | ~10 |
 | Triple Kill | 50.00% | ~10 |
-| Cornivore | 50.00% | ~10 |
 | 15K | 25.00% | ~5 |
+| Drinking Problem | 25.00% | ~5 |
 | Skin Of Your Teeth | 25.00% | ~5 |
 | 10K | 25.00% | ~5 |
-| Drinking Problem | 20.00% | ~4 |
 | Graveside Survivor | 20.00% | ~4 |
 | Pork Chop Express | 15.00% | ~3 |
 | Chick Magnet | 10.00% | ~2 |

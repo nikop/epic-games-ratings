@@ -6,42 +6,42 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,863 |
-| That's a Grand Army | 8.00% | ~2,545 |
-| That is mine! | 8.00% | ~2,545 |
-| Victorious! | 8.00% | ~2,545 |
-| Brothers in Arms | 6.00% | ~1,909 |
-| That's a Grand Navy | 6.00% | ~1,909 |
-| Seriously?! | 6.00% | ~1,909 |
-| For the Glory | 5.00% | ~1,591 |
-| Cold War | 4.00% | ~1,273 |
-| True Catholic | 4.00% | ~1,273 |
-| Defender of the Faith | 3.00% | ~954 |
-| It's all about the money | 3.00% | ~954 |
-| Respected | 3.00% | ~954 |
-| Blockader | 2.00% | ~636 |
-| Combined Arms | 2.00% | ~636 |
-| Double the Love | 2.00% | ~636 |
-| Gentle Persuasion | 2.00% | ~636 |
-| It's all about luck | 2.00% | ~636 |
-| Queen of Conquest | 2.00% | ~636 |
-| Royal Authority | 2.00% | ~636 |
-| The Princess is in this Castle | 2.00% | ~636 |
-| Total Control | 2.00% | ~636 |
-| Truly Divine Ruler | 2.00% | ~636 |
-| Agressive Expander | 1.00% | ~318 |
-| Azur semé de lis or | 1.00% | ~318 |
-| Bright Spark | 1.00% | ~318 |
-| Factionalism | 1.00% | ~318 |
-| A Golden Empire | 1.00% | ~318 |
-| My armies are invincible! | 1.00% | ~318 |
-| All That's Thine Shall Be Mine | 0.90% | ~286 |
-| City of Cities | 0.90% | ~286 |
+| Until death do us apart | 9.00% | ~2,869 |
+| That's a Grand Army | 8.00% | ~2,550 |
+| That is mine! | 8.00% | ~2,550 |
+| Victorious! | 8.00% | ~2,550 |
+| Brothers in Arms | 6.00% | ~1,912 |
+| That's a Grand Navy | 6.00% | ~1,912 |
+| Seriously?! | 6.00% | ~1,912 |
+| For the Glory | 5.00% | ~1,594 |
+| Cold War | 4.00% | ~1,275 |
+| True Catholic | 4.00% | ~1,275 |
+| Defender of the Faith | 3.00% | ~956 |
+| It's all about the money | 3.00% | ~956 |
+| Respected | 3.00% | ~956 |
+| Blockader | 2.00% | ~637 |
+| Combined Arms | 2.00% | ~637 |
+| Double the Love | 2.00% | ~637 |
+| Gentle Persuasion | 2.00% | ~637 |
+| It's all about luck | 2.00% | ~637 |
+| Queen of Conquest | 2.00% | ~637 |
+| Royal Authority | 2.00% | ~637 |
+| The Princess is in this Castle | 2.00% | ~637 |
+| Total Control | 2.00% | ~637 |
+| Truly Divine Ruler | 2.00% | ~637 |
+| Agressive Expander | 1.00% | ~319 |
+| All That's Thine Shall Be Mine | 1.00% | ~319 |
+| Azur semé de lis or | 1.00% | ~319 |
+| Bright Spark | 1.00% | ~319 |
+| Factionalism | 1.00% | ~319 |
+| A Golden Empire | 1.00% | ~319 |
+| My armies are invincible! | 1.00% | ~319 |
+| City of Cities | 0.90% | ~287 |
 | Isn't this the way to India? | 0.80% | ~255 |
 | The Five Colonies | 0.80% | ~255 |
-| The Emperors new clothes | 0.70% | ~223 |
 | Market Control | 0.70% | ~223 |
 | Down Under | 0.60% | ~191 |
+| The Emperors new clothes | 0.60% | ~191 |
 | This navy can take it all | 0.60% | ~191 |
 | Electable! | 0.50% | ~159 |
 | Time Bandit | 0.50% | ~159 |
@@ -54,18 +54,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.40% | ~127 |
 | Trophy Hunter | 0.40% | ~127 |
 | Voting Streak | 0.40% | ~127 |
-| Absolutely | 0.30% | ~95 |
-| All Your Trade Are Belong to Us | 0.30% | ~95 |
-| Dude, Where's my Boat? | 0.30% | ~95 |
-| Four For Trade | 0.30% | ~95 |
-| Grand Coalition | 0.30% | ~95 |
-| In the Name of the Father | 0.30% | ~95 |
-| Live Long and Prosper | 0.30% | ~95 |
-| One Night in Paris | 0.30% | ~95 |
-| Populists in Government | 0.30% | ~95 |
-| Ruina Imperii | 0.30% | ~95 |
-| Tear Down This Wall | 0.30% | ~95 |
-| The Continuation of Diplomacy | 0.30% | ~95 |
+| Absolutely | 0.30% | ~96 |
+| All Your Trade Are Belong to Us | 0.30% | ~96 |
+| Dude, Where's my Boat? | 0.30% | ~96 |
+| Four For Trade | 0.30% | ~96 |
+| Grand Coalition | 0.30% | ~96 |
+| In the Name of the Father | 0.30% | ~96 |
+| Live Long and Prosper | 0.30% | ~96 |
+| One Night in Paris | 0.30% | ~96 |
+| Populists in Government | 0.30% | ~96 |
+| Ruina Imperii | 0.30% | ~96 |
+| Tear Down This Wall | 0.30% | ~96 |
+| The Continuation of Diplomacy | 0.30% | ~96 |
 | A Decent Reserve | 0.20% | ~64 |
 | A Pile of Gold | 0.20% | ~64 |
 | A Protected Market | 0.20% | ~64 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,814 (Ranked 81)  
+Progressed: 31,873 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,10 +378,10 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-04 | 29,418 | 0 |
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
-| 2023-05-07 | 31,814 | 0 |
+| 2023-05-07 | 31,873 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
-Sum: 42,906 (Ranked 26)  
+Sum: 42,915 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -393,7 +393,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 4,835 |
 | This game has Competitive Players | 4,653 |
 | This game has Amazing Storytelling | 4,420 |
-| This game has Amazing Characters | 4,090 |
+| This game has Amazing Characters | 4,099 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -508,4 +508,4 @@ Diff (max vs sum): 34
 | 2023-05-04 | 4.68 | - | 5,157 | 42,684 |
 | 2023-05-05 | 4.68 | - | 5,170 | 42,780 |
 | 2023-05-06 | 4.68 | - | 5,181 | 42,857 |
-| 2023-05-07 | 4.68 | - | 5,190 | 42,906 |
+| 2023-05-07 | 4.68 | - | 5,190 | 42,915 |

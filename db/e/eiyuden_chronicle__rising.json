@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.49,
   "NumberOfRatings": 48,
@@ -152,15 +152,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.43,
+  "EOS_Completed_Percentage": 8.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
       "NumProgressed": 664,
+      "NumCompleted": 56
+    },
+    {
+      "Time": "2023-05-07T19:07:46.7969833+00:00",
+      "NumProgressed": 665,
       "NumCompleted": 56
     }
   ],
@@ -173,7 +178,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -189,7 +194,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -197,7 +202,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -205,7 +210,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -219,9 +224,9 @@
       "ID": "ACHIEVEMENT007",
       "SetID": "dejhjd5",
       "Name": "The Lava Mantor Wyrm",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -237,7 +242,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -293,7 +298,7 @@
       "Name": "One Mean Merc",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -339,9 +344,9 @@
       "ID": "ACHIEVEMENT022",
       "SetID": "dejhjd5",
       "Name": "Arms Master",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -349,7 +354,7 @@
       "Name": "Armor Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -365,7 +370,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -389,7 +394,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -397,7 +402,7 @@
       "Name": "New Nevaeh\u0027s Number One Customer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT030",
@@ -437,7 +442,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -445,7 +450,7 @@
       "Name": "First Time Fishing",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -453,7 +458,7 @@
       "Name": "First Time Hunting",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -509,7 +514,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -517,7 +522,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -565,22 +570,22 @@
       "Name": "Rising Champion",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-03-31T05:58:46.4032746+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:08:32.4085384+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:46.7969825+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:21.2378596+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:02:54.6238555+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:08:32.4085751+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:02:11.8227379+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:46.7970636+00:00"
 }

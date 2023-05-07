@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.76,
   "NumberOfRatings": 1354,
@@ -2268,9 +2268,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8687,
+  "EOS_Progressed": 8689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3008,6 +3008,11 @@
       "Time": "2023-05-07T18:08:03.8582546+00:00",
       "NumProgressed": 8687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-07T19:07:21.8476326+00:00",
+      "NumProgressed": 8689,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3019,7 +3024,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "02_BurningCity",
@@ -3043,7 +3048,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -3083,7 +3088,7 @@
       "Name": "Path of the Demon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "10_PathOfAzata",
@@ -3946,21 +3951,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7469,
+      "Progressed": 7471,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8687,
+      "Progressed": 8689,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-07T18:00:15.7880608+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:08:03.8582539+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:21.847632+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:00:15.7880615+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:08:03.8584164+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:59:48.6963728+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:21.8478105+00:00"
 }

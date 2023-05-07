@@ -7,12 +7,12 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 29.00% | ~331 |
-| Me and My Familiar | 27.00% | ~308 |
+| Me and My Familiar | 27.00% | ~309 |
 | This Too Shall Pass | 23.00% | ~263 |
 | Passing Shadow | 22.00% | ~251 |
 | Cutthroat Competitors | 22.00% | ~251 |
-| How Romantic! | 20.00% | ~228 |
-| Daybreak | 20.00% | ~228 |
+| How Romantic! | 20.00% | ~229 |
+| Daybreak | 20.00% | ~229 |
 | Gotta Ca... Must Collect All of Them | 18.00% | ~206 |
 | Completing the Look | 10.00% | ~114 |
 | Who's Counting? | 10.00% | ~114 |
@@ -60,10 +60,10 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.80% | ~9 |
 | A Lowly Crust of Beef | 0.70% | ~8 |
 | We Call That Mortificient! | 0.50% | ~6 |
-| Overwhelming Monstrosity | 0.40% | ~5 |
-| Peacemaker | 0.40% | ~5 |
+| Overwhelming Monstrosity | 0.30% | ~3 |
+| Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,142 (Ranked 155)  
+Progressed: 1,143 (Ranked 155)  
 Completed: 3 (0.26%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 3 (0.26%) (Ranked 126)
 | 2023-05-04 | 1,121 | 3 |
 | 2023-05-05 | 1,130 | 3 |
 | 2023-05-06 | 1,138 | 3 |
-| 2023-05-07 | 1,142 | 3 |
+| 2023-05-07 | 1,143 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 454)  
 Sum: 27 (Ranked 462)  

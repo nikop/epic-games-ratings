@@ -17,7 +17,7 @@ Rating: 4.54 (Ranked 476)
 | Oil Baron | 42.00% | ~7,684 |
 | Loads-a-Money | 42.00% | ~7,684 |
 | Helper of the People | 39.00% | ~7,135 |
-| Simplification | 33.00% | ~6,038 |
+| Simplification | 34.00% | ~6,221 |
 | Box of Trains | 33.00% | ~6,038 |
 | Let There be Light | 32.00% | ~5,855 |
 | Hot Water | 31.00% | ~5,672 |

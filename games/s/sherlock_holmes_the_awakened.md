@@ -7,7 +7,7 @@
 | To Hell In A Handcart | 69.00% | ~95 |
 | High Profile | 62.00% | ~86 |
 | Read Between The Lines | 61.00% | ~84 |
-| Whispers In The Dark | 60.00% | ~83 |
+| Whispers In The Dark | 61.00% | ~84 |
 | A Method To His Madness | 57.00% | ~79 |
 | History Check | 56.00% | ~77 |
 | The New World | 56.00% | ~77 |
@@ -30,7 +30,7 @@
 | No Stone Unturned | 36.00% | ~50 |
 | Curiosity Killed The Cat | 25.00% | ~34 |
 | Read It And Weep | 23.00% | ~32 |
-| Big Breakthrough | 19.00% | ~26 |
+| Big Breakthrough | 20.00% | ~28 |
 | Reawakened | 11.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 138 (Ranked 240)  

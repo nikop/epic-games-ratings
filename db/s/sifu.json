@@ -3858,9 +3858,9 @@
       "Count": 342
     }
   ],
-  "EOS_Progressed": 702687,
+  "EOS_Progressed": 702690,
   "EOS_Completed": 12712,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5043,6 +5043,11 @@
       "Time": "2023-05-07T18:08:06.8784559+00:00",
       "NumProgressed": 702687,
       "NumCompleted": 12712
+    },
+    {
+      "Time": "2023-05-07T19:07:24.3994503+00:00",
+      "NumProgressed": 702690,
+      "NumCompleted": 12712
     }
   ],
   "TotalAchievements": 50,
@@ -5276,9 +5281,9 @@
       "ID": "29_FocusAttack_Trophy",
       "SetID": "adcm20g",
       "Name": "Master of the Phoenix Eye Fist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 703
+      "UsersEstimate": 1405
     },
     {
       "ID": "30_ComboMid",
@@ -5453,21 +5458,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 11988,
+      "Progressed": 11991,
       "Completed": 10048
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702687,
+      "Progressed": 702690,
       "Completed": 12712
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-07T16:00:31.1137775+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:08:06.878455+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:24.3994495+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:01:11.873795+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:08:06.8785048+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:00:38.1536457+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:24.3995191+00:00"
 }

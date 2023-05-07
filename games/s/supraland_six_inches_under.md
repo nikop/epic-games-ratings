@@ -42,7 +42,7 @@ Number of Ratings: 209  (23.09.2022)
 | Killed them all | 76.00% | ~1,515 |
 | Trickle Down Economy | 76.00% | ~1,515 |
 | Win | 75.00% | ~1,496 |
-| Greenhouse | 71.00% | ~1,416 |
+| Greenhouse | 72.00% | ~1,436 |
 | Played with fire | 70.00% | ~1,396 |
 | You feel very sorry | 69.00% | ~1,376 |
 | No Match for you | 65.00% | ~1,296 |
@@ -79,9 +79,9 @@ Completed: 240 (12.04%) (Ranked 10)
 | 2023-05-06 | 1,992 | 240 |
 | 2023-05-07 | 1,994 | 240 |
 ## Awards
-Max (Challenging Puzzles): 97  (Ranked 325)  
+Max (Challenging Puzzles): 97  (Ranked 324)  
 Sum: 97 (Ranked 398)  
-Diff (max vs sum): -73  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 97 |

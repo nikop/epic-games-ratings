@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,092 |
-| Now You're Talking | 62.00% | ~319,824 |
-| Steel Yourself | 62.00% | ~319,824 |
-| Window Dressing | 50.00% | ~257,922 |
-| Trigger Happy | 46.00% | ~237,289 |
-| Riverborn | 45.00% | ~232,130 |
-| Starry Eyed | 34.00% | ~175,387 |
-| Poking Around | 34.00% | ~175,387 |
-| Talk of the Town | 24.00% | ~123,803 |
-| AAARR! | 23.00% | ~118,644 |
-| Hello Darkness | 23.00% | ~118,644 |
-| Wind At Our Backs | 22.00% | ~113,486 |
-| To the Beat | 20.00% | ~103,169 |
+| First Step | 70.00% | ~361,094 |
+| Now You're Talking | 62.00% | ~319,826 |
+| Steel Yourself | 62.00% | ~319,826 |
+| Window Dressing | 50.00% | ~257,924 |
+| Trigger Happy | 46.00% | ~237,291 |
+| Riverborn | 45.00% | ~232,132 |
+| Starry Eyed | 34.00% | ~175,389 |
+| Poking Around | 34.00% | ~175,389 |
+| Talk of the Town | 24.00% | ~123,804 |
+| AAARR! | 23.00% | ~118,645 |
+| Hello Darkness | 23.00% | ~118,645 |
+| Wind At Our Backs | 22.00% | ~113,487 |
+| To the Beat | 20.00% | ~103,170 |
 | Sunny Shores | 17.00% | ~87,694 |
 | To Victory! | 15.00% | ~77,377 |
 | Sunday Best | 15.00% | ~77,377 |
-| Two of a Kind | 14.00% | ~72,218 |
+| Two of a Kind | 14.00% | ~72,219 |
 | Keep On Trucking | 13.00% | ~67,060 |
 | Going on an Adventure | 11.00% | ~56,743 |
 | Make Peace, Not War | 11.00% | ~56,743 |
-| Walking The Line | 10.00% | ~51,584 |
-| Not So Cute Anymore | 10.00% | ~51,584 |
+| Walking The Line | 10.00% | ~51,585 |
+| Not So Cute Anymore | 10.00% | ~51,585 |
 | Road Less Travelled | 9.00% | ~46,426 |
 | Lost and Found | 9.00% | ~46,426 |
 | Partner in Crime | 7.00% | ~36,109 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,548 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515,845 (Ranked 24)  
+Progressed: 515,849 (Ranked 24)  
 Completed: 402 (0.08%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 402 (0.08%) (Ranked 158)
 | 2023-05-04 | 515,527 | 400 |
 | 2023-05-05 | 515,626 | 400 |
 | 2023-05-06 | 515,749 | 400 |
-| 2023-05-07 | 515,845 | 402 |
+| 2023-05-07 | 515,849 | 402 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

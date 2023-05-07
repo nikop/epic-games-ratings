@@ -49,15 +49,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Drunken Fighter | 0.20% | ~1,405 |
 | Martial Artist | 0.20% | ~1,405 |
 | Knowledge Greed | 0.20% | ~1,405 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,405 |
 | The Pit Protector | 0.20% | ~1,405 |
 | Healing Memory | 0.10% | ~703 |
-| Master of the Phoenix Eye Fist | 0.10% | ~703 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Be like water my friend | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,687 (Ranked 15)  
+Progressed: 702,690 (Ranked 15)  
 Completed: 12,712 (1.81%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 12,712 (1.81%) (Ranked 58)
 | 2023-05-04 | 702,592 | 12,707 |
 | 2023-05-05 | 702,619 | 12,709 |
 | 2023-05-06 | 702,653 | 12,709 |
-| 2023-05-07 | 702,687 | 12,712 |
+| 2023-05-07 | 702,690 | 12,712 |
 ## Awards
 Max (Great Boss Battles): 6,035  (Ranked 53)  
 Sum: 10,235 (Ranked 77)  

@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 585,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -53,6 +53,11 @@
       "Time": "2023-05-06T16:07:01.508872+00:00",
       "NumProgressed": 584,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-07T19:06:43.7308663+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -70,9 +75,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 269
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -88,7 +93,7 @@
       "Name": "All Seats Taken",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -136,7 +141,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "Achievement_DustToDust",
@@ -190,17 +195,17 @@
       "ID": "Achievement_FixItFelix",
       "SetID": "c01p6e5",
       "Name": "Fix-It Felix",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_ForScience",
       "SetID": "c01p6e5",
       "Name": "For Science!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 181
     },
     {
       "ID": "Achievement_Friendzone",
@@ -208,7 +213,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -240,7 +245,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Achievement_Improvinator",
@@ -296,7 +301,7 @@
       "Name": "Mutiny in making",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Achievement_Muttnik",
@@ -352,7 +357,7 @@
       "Name": "Space Colonization",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -360,7 +365,7 @@
       "Name": "Space Engineer",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -398,9 +403,9 @@
       "ID": "Achievement_Tinkerer",
       "SetID": "c01p6e5",
       "Name": "Tinkerer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 363
     },
     {
       "ID": "Achievement_Traitor",
@@ -415,7 +420,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 585,
       "Completed": 1
     }
   ],
@@ -423,8 +428,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:07:32.4854681+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:06:43.7308657+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:08.8405232+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:01:06.976992+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:07:32.4855123+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:00:34.5989544+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:06:43.7309087+00:00"
 }

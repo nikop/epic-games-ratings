@@ -12,12 +12,12 @@
 | Crime Reaper | 10.00% | ~1 |
 | Hardcore Law | 10.00% | ~1 |
 | Law Enforced | 10.00% | ~1 |
+| Firemodes to the Max | 10.00% | ~1 |
 | Weapon Mods | 10.00% | ~1 |
 | Collector | 0.00% | ~0 |
 | Cyberware | 0.00% | ~0 |
 | Nightmare Law | 0.00% | ~0 |
 | Lawful Not Awful | 0.00% | ~0 |
-| Firemodes to the Max | 0.00% | ~0 |
 | Special Specialist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 308)  

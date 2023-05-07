@@ -280,9 +280,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 6079,
+  "EOS_Progressed": 6080,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1080,6 +1080,11 @@
       "Time": "2023-05-07T18:07:43.2785564+00:00",
       "NumProgressed": 6079,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-07T19:07:03.0322125+00:00",
+      "NumProgressed": 6080,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1259,7 +1264,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH23",
@@ -1283,7 +1288,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH26",
@@ -1362,7 +1367,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6079,
+      "Progressed": 6080,
       "Completed": 20
     }
   ],
@@ -1370,8 +1375,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-07T08:59:55.8611599+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:07:43.2785557+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:03.0322116+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:00:12.4052227+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:07:43.2785863+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:59:46.00692+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:03.0322776+00:00"
 }

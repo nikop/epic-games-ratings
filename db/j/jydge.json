@@ -178,9 +178,9 @@
       "ID": "UPGRADE_FIREMODES",
       "SetID": "7e5mm2p",
       "Name": "Firemodes to the Max",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UPGRADE_SPECIALS",
@@ -211,8 +211,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:07:49.2350081+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:08.2599907+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:37.9390167+00:00",
-  "LastUpdate_Ratings": "2023-05-07T17:58:52.0770933+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:07:49.2350212+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:58:33.2623802+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:08.260007+00:00"
 }

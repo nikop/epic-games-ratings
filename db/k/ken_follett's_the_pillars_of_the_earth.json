@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 500,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 37,
   "Rating": 4.52,
   "NumberOfRatings": 368,
@@ -457,9 +457,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12259,
+  "EOS_Progressed": 12261,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1337,6 +1337,11 @@
       "Time": "2023-05-07T18:07:31.8883771+00:00",
       "NumProgressed": 12259,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-07T19:06:43.0951517+00:00",
+      "NumProgressed": 12261,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1348,7 +1353,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "tpote_achievement_10",
@@ -1404,7 +1409,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "tpote_achievement_17",
@@ -1420,7 +1425,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "tpote_achievement_19",
@@ -1428,7 +1433,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "tpote_achievement_2",
@@ -1452,7 +1457,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "tpote_achievement_22",
@@ -1460,7 +1465,7 @@
       "Name": "Two of us",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "tpote_achievement_23",
@@ -1476,7 +1481,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "tpote_achievement_25",
@@ -1492,7 +1497,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "tpote_achievement_27",
@@ -1500,7 +1505,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "tpote_achievement_28",
@@ -1524,7 +1529,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4169
     },
     {
       "ID": "tpote_achievement_30",
@@ -1612,7 +1617,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5149
+      "UsersEstimate": 5150
     },
     {
       "ID": "tpote_achievement_40",
@@ -1668,22 +1673,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12259,
+      "Progressed": 12261,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:07:31.8883763+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:06:43.095151+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:02:28.6629377+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:07:31.8884166+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:01:47.8867448+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:06:43.095192+00:00"
 }

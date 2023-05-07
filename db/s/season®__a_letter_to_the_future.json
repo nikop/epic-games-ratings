@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 735,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.09,
+  "EOS_Completed_Percentage": 4.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -113,6 +113,11 @@
       "Time": "2023-05-07T13:09:40.5768301+00:00",
       "NumProgressed": 734,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-07T19:07:14.0667074+00:00",
+      "NumProgressed": 735,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 16,
@@ -196,7 +201,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -212,7 +217,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -220,7 +225,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -228,7 +233,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_THEEND",
@@ -251,7 +256,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 735,
       "Completed": 30
     }
   ],
@@ -259,8 +264,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:07:55.368666+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:14.0667067+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:52.1468648+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:00:41.9890501+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:07:55.368683+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:00:14.7669245+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:14.0667209+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.44,
   "RatingHistory": [
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 688,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -336,6 +336,11 @@
       "Time": "2023-05-07T00:06:04.0451694+00:00",
       "NumProgressed": 686,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-07T19:06:46.4463487+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -371,7 +376,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -379,7 +384,7 @@
       "Name": "Opposing Force",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -387,7 +392,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -419,7 +424,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -427,7 +432,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -499,7 +504,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -563,7 +568,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -587,7 +592,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -595,7 +600,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -611,7 +616,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -659,7 +664,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -707,7 +712,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -723,7 +728,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -755,7 +760,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -811,7 +816,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -841,9 +846,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -867,7 +872,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -875,7 +880,7 @@
       "Name": "Fight Another Day",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -890,13 +895,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 637,
+      "Progressed": 639,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 688,
       "Completed": 2
     }
   ],
@@ -904,8 +909,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-05T14:59:50.8848377+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:07:35.593936+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:06:46.4463478+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:03:14.3123665+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:07:35.5940033+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:02:27.4458123+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:06:46.4464313+00:00"
 }

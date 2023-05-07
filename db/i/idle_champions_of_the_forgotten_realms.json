@@ -3,12 +3,12 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 867,
-  "Ranking_Popularity": 62,
+  "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3522,10 +3522,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29826,
       "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-05-07T18:59:29.8871964+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29830,
+      "NumberOfAwardsMax": 4868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29826,
+  "NumberOfAwards": 29830,
   "NumberOfAwardsMax": 4868,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3533,7 +3539,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4807
+      "Count": 4810
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3563,7 +3569,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3929
+      "Count": 3930
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3572,9 +3578,9 @@
       "Count": 3226
     }
   ],
-  "EOS_Progressed": 86773,
+  "EOS_Progressed": 86782,
   "EOS_Completed": 1810,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -4987,6 +4993,11 @@
       "Time": "2023-05-07T18:08:35.299154+00:00",
       "NumProgressed": 86773,
       "NumCompleted": 1810
+    },
+    {
+      "Time": "2023-05-07T19:07:49.3046434+00:00",
+      "NumProgressed": 86782,
+      "NumCompleted": 1810
     }
   ],
   "TotalAchievements": 489,
@@ -5004,9 +5015,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_completed_100",
@@ -5878,7 +5889,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "objective_completed_1208",
@@ -5886,7 +5897,7 @@
       "Name": "Vecna Out!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "objective_completed_1209",
@@ -5932,9 +5943,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_125",
@@ -6188,9 +6199,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_completed_165",
@@ -8260,9 +8271,9 @@
       "ID": "objective_completed_807",
       "SetID": "415jc5c",
       "Name": "Civilization",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_808",
@@ -8909,21 +8920,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53047,
+      "Progressed": 53056,
       "Completed": 2475
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86773,
+      "Progressed": 86782,
       "Completed": 1810
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-07T13:01:58.3397221+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:08:35.2991535+00:00",
+  "LastChanged": "2023-05-07T18:59:29.8871961+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:49.3046428+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-07T17:59:55.3196803+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:08:35.3020352+00:00"
+  "LastUpdate_Ratings": "2023-05-07T18:59:29.8871974+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:49.3076924+00:00"
 }

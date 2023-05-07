@@ -30,28 +30,28 @@ Rating: 4.77 (Ranked 103)
 | The Root of the Problem | 3.00% | ~7,982 |
 | Third Time's a Charm | 3.00% | ~7,982 |
 | Raising Expectations | 3.00% | ~7,982 |
-| The Toast of the Town | 2.00% | ~5,321 |
-| Going Through the Potions | 2.00% | ~5,321 |
-| Room with a View | 2.00% | ~5,321 |
-| Floo Around the World | 2.00% | ~5,321 |
-| The Intrepid Explorer | 2.00% | ~5,321 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,321 |
-| The Ends Petrify the Means | 2.00% | ~5,321 |
+| The Toast of the Town | 2.00% | ~5,322 |
+| Going Through the Potions | 2.00% | ~5,322 |
+| Room with a View | 2.00% | ~5,322 |
+| Floo Around the World | 2.00% | ~5,322 |
+| The Intrepid Explorer | 2.00% | ~5,322 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,322 |
+| The Ends Petrify the Means | 2.00% | ~5,322 |
 | The Good Samaritan | 1.00% | ~2,661 |
 | Put Down Roots | 1.00% | ~2,661 |
 | The Auror's Apprentice | 1.00% | ~2,661 |
 | Rise to the Challenges | 1.00% | ~2,661 |
 | The Wise Owl | 1.00% | ~2,661 |
 | Finishing Touches | 0.90% | ~2,395 |
-| Savvy Spender | 0.70% | ~1,862 |
-| Demiguise Dread | 0.70% | ~1,862 |
-| A Forte for Achievement | 0.70% | ~1,862 |
+| Savvy Spender | 0.70% | ~1,863 |
+| Demiguise Dread | 0.70% | ~1,863 |
+| A Forte for Achievement | 0.70% | ~1,863 |
 | Spilled Milk | 0.50% | ~1,330 |
 | Merlin's Beard! | 0.50% | ~1,330 |
 | The Nature of the Beast | 0.40% | ~1,064 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,071 (Ranked 38)  
+Progressed: 266,082 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-04 | 265,501 | 346 |
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
-| 2023-05-07 | 266,071 | 351 |
+| 2023-05-07 | 266,082 | 351 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
 Sum: 33,743 (Ranked 33)  

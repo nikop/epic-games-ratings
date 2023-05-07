@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 56.00% | ~9 |
-| Hello World | 50.00% | ~8 |
-| I Think, Therefore I Am | 50.00% | ~8 |
-| The Real Beginning | 50.00% | ~8 |
+| First Day of the Rest of Your Life | 63.00% | ~10 |
+| Hello World | 56.00% | ~9 |
+| I Think, Therefore I Am | 56.00% | ~9 |
+| The Real Beginning | 56.00% | ~9 |
+| The Birds and the Bees | 44.00% | ~7 |
 | Shook Up | 38.00% | ~6 |
-| The Birds and the Bees | 38.00% | ~6 |
+| Warning: Fragile | 38.00% | ~6 |
+| Task Master | 31.00% | ~5 |
 | Vaccinated | 31.00% | ~5 |
-| Warning: Fragile | 31.00% | ~5 |
 | An Acquired Taste | 25.00% | ~4 |
+| Busybody | 25.00% | ~4 |
 | Everyone Needs a Break | 25.00% | ~4 |
 | Job Creator | 25.00% | ~4 |
-| Task Master | 25.00% | ~4 |
 | A Real Headache | 19.00% | ~3 |
 | A Total Riot | 19.00% | ~3 |
 | A Light in the Dark | 19.00% | ~3 |
 | The Guardian | 19.00% | ~3 |
 | Blood Begets Blood | 19.00% | ~3 |
-| Busybody | 19.00% | ~3 |
 | Endgame | 19.00% | ~3 |
 | The Philosopher | 19.00% | ~3 |
 | The Partner | 19.00% | ~3 |

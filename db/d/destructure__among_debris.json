@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 52,
   "RatingHistory": [
     {
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 42,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -464,8 +464,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:08:20.128377+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:35.7533904+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:02:30.3432307+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:08:20.1284123+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:01:49.1224675+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:35.7534154+00:00"
 }

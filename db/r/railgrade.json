@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 52,
   "Rating": 4.54,
   "RatingHistory": [
@@ -1037,9 +1037,9 @@
       "ID": "ach.120.simplification",
       "SetID": "384aaja",
       "Name": "Simplification",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6038
+      "UsersEstimate": 6221
     },
     {
       "ID": "ach.130.minimalist",
@@ -1254,8 +1254,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-03T13:59:45.4505447+00:00",
-  "LastChanged_Achievements": "2023-05-07T18:08:08.1507772+00:00",
+  "LastChanged_Achievements": "2023-05-07T19:07:25.5079304+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:29.1139997+00:00",
-  "LastUpdate_Ratings": "2023-05-07T18:01:38.8178198+00:00",
-  "LastUpdate_Achievements": "2023-05-07T18:08:08.1508101+00:00"
+  "LastUpdate_Ratings": "2023-05-07T19:01:00.2694622+00:00",
+  "LastUpdate_Achievements": "2023-05-07T19:07:25.5079648+00:00"
 }
