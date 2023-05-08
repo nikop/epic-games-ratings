@@ -7,7 +7,7 @@ Rating: 3.40 (Ranked 918)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~848 |
 | World Map | 79.00% | ~720 |
-| Temple of Eternals | 54.00% | ~492 |
+| Temple of Eternals | 55.00% | ~502 |
 | Prestigious | 51.00% | ~465 |
 | Fellowship Power | 39.00% | ~356 |
 | Guild Power | 23.00% | ~210 |
@@ -62,9 +62,9 @@ Rating: 3.40 (Ranked 918)
 | The Alchemist | 0.40% | ~4 |
 | Transmute | 0.40% | ~4 |
 | Tree of Life | 0.40% | ~4 |
+| Challenger | 0.30% | ~3 |
 | Training makes a Pro player | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
-| Challenger | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |
 | Gear Enchanting | 0.20% | ~2 |

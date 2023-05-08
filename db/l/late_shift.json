@@ -133,9 +133,9 @@
       "ID": "ENDING_6",
       "SetID": "8eejhlh",
       "Name": "The Bribe",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "ENDING_7",
@@ -149,9 +149,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -189,9 +189,9 @@
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 111
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -246,8 +246,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:08:47.2685572+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:17.9769459+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:05.1876368+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:59:54.9784451+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:08:47.2685757+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:19.2422014+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:17.9769575+00:00"
 }

@@ -856,9 +856,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 805
     },
     {
       "ID": "Achievement_009",
@@ -1096,9 +1096,9 @@
       "ID": "Achievement_038",
       "SetID": "6b34g18",
       "Name": "What Lies Below",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement_039",
@@ -1345,8 +1345,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-08T11:59:49.0954716+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:08:56.4637011+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:24.7271109+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:00:03.3462873+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:08:56.4638347+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:24.0589686+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:24.7271854+00:00"
 }

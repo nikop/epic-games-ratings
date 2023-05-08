@@ -5,19 +5,19 @@ Rating: 4.45 (Ranked 600)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~76,930 |
-| Predator I | 21.00% | ~52,114 |
-| A week in Century City | 10.00% | ~24,816 |
-| Fixer I | 9.00% | ~22,335 |
-| The Wait | 7.00% | ~17,371 |
+| Survivor | 31.00% | ~76,932 |
+| Predator I | 21.00% | ~52,115 |
+| Fixer I | 10.00% | ~24,817 |
+| A week in Century City | 10.00% | ~24,817 |
+| The Wait | 7.00% | ~17,372 |
 | Green thumb I | 6.00% | ~14,890 |
 | Well-oiled machine | 5.00% | ~12,408 |
 | Saver I | 5.00% | ~12,408 |
 | Cleaning Company | 5.00% | ~12,408 |
-| The Ascent | 4.00% | ~9,926 |
-| Pacifist | 4.00% | ~9,926 |
-| Vandalism | 4.00% | ~9,926 |
-| Capitalist I | 4.00% | ~9,926 |
+| The Ascent | 4.00% | ~9,927 |
+| Pacifist | 4.00% | ~9,927 |
+| Vandalism | 4.00% | ~9,927 |
+| Capitalist I | 4.00% | ~9,927 |
 | Adrenaline | 3.00% | ~7,445 |
 | By a hair | 2.00% | ~4,963 |
 | Fixer II | 2.00% | ~4,963 |
@@ -43,9 +43,9 @@ Rating: 4.45 (Ranked 600)
 | A major purchase | 0.50% | ~1,241 |
 | Expert Hunter | 0.40% | ~993 |
 | Fungi hunter | 0.40% | ~993 |
-| Arms dealer | 0.30% | ~744 |
-| Predator III | 0.30% | ~744 |
-| AML questionnaire | 0.30% | ~744 |
+| Arms dealer | 0.30% | ~745 |
+| Predator III | 0.30% | ~745 |
+| AML questionnaire | 0.30% | ~745 |
 | Fixer III | 0.20% | ~496 |
 | Homerun | 0.20% | ~496 |
 | A season in Century City | 0.20% | ~496 |
@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 600)
 | Capitalist III | 0.10% | ~248 |
 | Hell Is You | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,162 (Ranked 39)  
+Progressed: 248,167 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.00%) (Ranked 193)
 | 2023-05-05 | 247,847 | 1 |
 | 2023-05-06 | 247,962 | 1 |
 | 2023-05-07 | 248,099 | 1 |
-| 2023-05-08 | 248,162 | 1 |
+| 2023-05-08 | 248,167 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 477)  
 Sum: 21 (Ranked 477)  

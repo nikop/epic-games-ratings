@@ -2,9 +2,9 @@
   "ID": "8734719880bd4649bed766a32ff991f8",
   "Name": "Those Who Remain",
   "ProductSlug": "those-who-remain",
-  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.5795423+00:00",
   "LastChanged": "2023-03-31T05:57:42.5795424+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:06.0603663+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:59:55.9292276+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:07:01.7715316+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:21.9135396+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:05:05.2607833+00:00"
 }

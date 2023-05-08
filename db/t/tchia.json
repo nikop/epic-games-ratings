@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Rating": 4.77,
   "RatingHistory": [
     {
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5604,
+  "EOS_Progressed": 5605,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1057,6 +1057,11 @@
       "Time": "2023-05-08T14:08:57.7199327+00:00",
       "NumProgressed": 5604,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-08T15:06:25.6704184+00:00",
+      "NumProgressed": 5605,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1140,7 +1145,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1220,7 +1225,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "THING",
@@ -1235,7 +1240,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5604,
+      "Progressed": 5605,
       "Completed": 20
     }
   ],
@@ -1243,8 +1248,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:08:57.7199322+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:25.670418+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:00:18.9334803+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:08:57.7199649+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:33.3304485+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:25.6704365+00:00"
 }

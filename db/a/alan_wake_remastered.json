@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46064,
+  "EOS_Progressed": 46065,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1243,6 +1243,11 @@
       "Time": "2023-05-08T12:08:41.4600005+00:00",
       "NumProgressed": 46064,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-08T15:06:29.8307837+00:00",
+      "NumProgressed": 46065,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1302,7 +1307,7 @@
       "Name": "Heavy Metal",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "08",
@@ -1310,7 +1315,7 @@
       "Name": "Iron Horse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "09",
@@ -1342,7 +1347,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "13",
@@ -1422,7 +1427,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "23",
@@ -1438,7 +1443,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "25",
@@ -1462,7 +1467,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "28",
@@ -1470,7 +1475,7 @@
       "Name": "Come One, Come All",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "29",
@@ -1789,21 +1794,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46064,
+      "Progressed": 46065,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9532,
+      "Progressed": 9533,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:03.248792+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:29.8307832+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:59:39.9327957+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:03.2488664+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:12.396279+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:29.8308526+00:00"
 }

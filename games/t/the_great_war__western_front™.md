@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Earth Shattering | 57.00% | ~55 |
-| Das Ist Endgültig! | 17.00% | ~16 |
+| Das Ist Endgültig! | 18.00% | ~17 |
 | La Der des Ders | 11.00% | ~11 |
 | From the Pages of History | 7.00% | ~7 |
 | The Chemists' War | 5.00% | ~5 |

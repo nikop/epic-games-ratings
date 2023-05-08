@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~261 |
 | Useless Allies | 0.30% | ~261 |
 | Exploring Port Nyanzaru | 0.30% | ~261 |
+| Running of the Saurs | 0.30% | ~261 |
 | The Contagious Curse | 0.30% | ~261 |
 | Escort to Waterdeep | 0.30% | ~261 |
 | Waterdeep Detours | 0.30% | ~261 |
@@ -83,7 +84,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.20% | ~174 |
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
-| Running of the Saurs | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
 | Bad Odds in Avernus | 0.20% | ~106 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,858 (Ranked 59)  
+Progressed: 86,869 (Ranked 59)  
 Completed: 1,814 (2.09%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,814 (2.09%) (Ranked 57)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,858 | 1,814 |
+| 2023-05-08 | 86,869 | 1,814 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,831 (Ranked 37)  

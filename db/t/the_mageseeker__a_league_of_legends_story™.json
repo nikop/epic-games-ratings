@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 1922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1236,9 +1236,9 @@
       "ID": "STB_MISSION5B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Capelworth",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 365
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -1405,8 +1405,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:01.7371757+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:28.8065312+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:59:36.1542522+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:01.737249+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:11.369495+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:28.806581+00:00"
 }

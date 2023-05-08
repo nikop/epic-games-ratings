@@ -219,9 +219,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
       "SetID": "ak6pfjk",
       "Name": "Starry: Meadowshire",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_2",
@@ -500,8 +500,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:15.3029464+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:39.0079417+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:51.8789277+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:01:33.5363971+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:15.3029914+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:00:14.1698261+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:39.0079852+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 8,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
@@ -3584,9 +3584,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86858,
+  "EOS_Progressed": 86869,
   "EOS_Completed": 1814,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5093,6 +5093,11 @@
     {
       "Time": "2023-05-08T14:09:52.0308883+00:00",
       "NumProgressed": 86858,
+      "NumCompleted": 1814
+    },
+    {
+      "Time": "2023-05-08T15:07:16.869072+00:00",
+      "NumProgressed": 86869,
       "NumCompleted": 1814
     }
   ],
@@ -7591,9 +7596,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_590",
@@ -9016,21 +9021,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53132,
+      "Progressed": 53143,
       "Completed": 2480
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86858,
+      "Progressed": 86869,
       "Completed": 1814
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-08T05:59:18.0601163+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:52.0308877+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:07:16.8690715+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:00:29.2955551+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:52.0342067+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:37.9182687+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:07:16.8714613+00:00"
 }

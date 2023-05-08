@@ -1401,9 +1401,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 10881,
+  "EOS_Progressed": 10882,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2476,6 +2476,11 @@
       "Time": "2023-05-08T14:09:20.1200243+00:00",
       "NumProgressed": 10881,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-08T15:06:42.6365422+00:00",
+      "NumProgressed": 10882,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 285,
@@ -2493,17 +2498,17 @@
       "ID": "ACHIEVEMENT_ALEXANDER_THE_GREAT",
       "SetID": "9201eeb",
       "Name": "Alexander the Great",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDER_THE_WHO",
       "SetID": "9201eeb",
       "Name": "Alexander the who?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDRIA_LIGHTHOUSE",
@@ -2685,9 +2690,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 2)",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_EPIC",
@@ -2725,17 +2730,17 @@
       "ID": "ACHIEVEMENT_CARTHAGE_3_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 3)",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 3)",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_GOLD",
@@ -2781,9 +2786,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_4_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 4)",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_SILVER",
@@ -2815,15 +2820,15 @@
       "Name": "Able",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 6746
+      "UsersEstimate": 6747
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4244
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -2839,7 +2844,7 @@
       "Name": "Architect",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 6746
+      "UsersEstimate": 6747
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -2871,7 +2876,7 @@
       "Name": "Brilliant",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3809
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -2887,7 +2892,7 @@
       "Name": "Conqueror",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DESTROYER",
@@ -2919,7 +2924,7 @@
       "Name": "Explorer",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 8705
+      "UsersEstimate": 8706
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -2943,7 +2948,7 @@
       "Name": "Good",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 6202
+      "UsersEstimate": 6203
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -2951,7 +2956,7 @@
       "Name": "Great",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -2991,7 +2996,7 @@
       "Name": "Just",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6094
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -3007,7 +3012,7 @@
       "Name": "Learned",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -3031,7 +3036,7 @@
       "Name": "Magnificent",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5115
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -3039,7 +3044,7 @@
       "Name": "Mason",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 6746
+      "UsersEstimate": 6747
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -3111,7 +3116,7 @@
       "Name": "Settler",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 8922
+      "UsersEstimate": 8923
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -3119,7 +3124,7 @@
       "Name": "Strong",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 6637
+      "UsersEstimate": 6638
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -3143,7 +3148,7 @@
       "Name": "Victorious",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -3151,15 +3156,15 @@
       "Name": "Warrior",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 4896
+      "UsersEstimate": 4897
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
       "SetID": "9201eeb",
       "Name": "White Death",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
@@ -3167,7 +3172,7 @@
       "Name": "Wise",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -3199,7 +3204,7 @@
       "Name": "Strong Cities",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 5005
+      "UsersEstimate": 5006
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -3223,7 +3228,7 @@
       "Name": "Able Difficulty",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -3231,7 +3236,7 @@
       "Name": "Glorious Difficulty",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
@@ -3239,7 +3244,7 @@
       "Name": "Good Difficulty",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -3327,7 +3332,7 @@
       "Name": "Champions",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -3351,7 +3356,7 @@
       "Name": "Landowners",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -3367,7 +3372,7 @@
       "Name": "Riders",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -3453,9 +3458,9 @@
       "ID": "ACHIEVEMENT_GREECE1_LOSE",
       "SetID": "9201eeb",
       "Name": "Defend Where?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_RUN",
@@ -3717,9 +3722,9 @@
       "ID": "ACHIEVEMENT_GREECE5_TYRE",
       "SetID": "9201eeb",
       "Name": "A Tyresome Siege",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY",
@@ -3815,7 +3820,7 @@
       "Name": "Apadana",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -3895,7 +3900,7 @@
       "Name": "Ishtar Gate",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 4896
+      "UsersEstimate": 4897
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -3903,7 +3908,7 @@
       "Name": "Lighthouse",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -3911,7 +3916,7 @@
       "Name": "Mausoleum",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -3919,7 +3924,7 @@
       "Name": "Musaeum",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -3943,7 +3948,7 @@
       "Name": "Pantheon",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -3951,7 +3956,7 @@
       "Name": "Pyramids",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 5005
+      "UsersEstimate": 5006
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -4007,7 +4012,7 @@
       "Name": "Learn to Play 1",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -4119,7 +4124,7 @@
       "Name": "Greece",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -4239,7 +4244,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 9031
+      "UsersEstimate": 9032
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -4247,7 +4252,7 @@
       "Name": "Power to the People",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -4271,7 +4276,7 @@
       "Name": "Judaism",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6094
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -4279,7 +4284,7 @@
       "Name": "Manichaeism",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 3917
+      "UsersEstimate": 3918
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -4319,7 +4324,7 @@
       "Name": "Greek Paganism",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 5005
+      "UsersEstimate": 5006
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -4351,7 +4356,7 @@
       "Name": "Zoroastrianism",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -4391,7 +4396,7 @@
       "Name": "Building Wonders",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -4399,7 +4404,7 @@
       "Name": "Capturing Cities",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
@@ -4407,7 +4412,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5549
+      "UsersEstimate": 5550
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -4541,9 +4546,9 @@
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
       "SetID": "9201eeb",
       "Name": "Three Man Chariot",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 871
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -4589,9 +4594,9 @@
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
       "SetID": "9201eeb",
       "Name": "Great Ziggurat in Ur",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
@@ -4607,7 +4612,7 @@
       "Name": "Ambition Victory",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -4766,21 +4771,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 10881,
+      "Progressed": 10882,
       "Completed": 2
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 10881,
+      "Progressed": 10882,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-05-08T13:05:19.6372301+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:20.1200238+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:42.6365416+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.7726608+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:00:14.3106991+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:20.1215582+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:30.4075502+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:42.637366+00:00"
 }

@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 912,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1276,9 +1276,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "conqueror",
@@ -1668,9 +1668,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 502
     },
     {
       "ID": "thealchemist",
@@ -1821,8 +1821,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:12.0935791+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:36.6905252+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:00:23.0265863+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:12.0937343+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:35.121268+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:36.6906071+00:00"
 }

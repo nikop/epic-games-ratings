@@ -9,7 +9,7 @@ Rating: 3.27 (Ranked 919)
 | Home Is Where the Heart Is | 68.00% | ~977 |
 | Wounded Whispers | 68.00% | ~977 |
 | Ne Plus Ultra | 67.00% | ~963 |
-| Blood Will Have Blood | 55.00% | ~790 |
+| Blood Will Have Blood | 56.00% | ~805 |
 | ICU | 51.00% | ~733 |
 | Catch and Release | 50.00% | ~718 |
 | Peek-a-boo | 49.00% | ~704 |
@@ -55,8 +55,8 @@ Rating: 3.27 (Ranked 919)
 | Ask Not For Whom The Horns Blow | 1.00% | ~14 |
 | Under a Bushel | 1.00% | ~14 |
 | Sisterhood | 0.80% | ~11 |
+| What Lies Below | 0.80% | ~11 |
 | So Anyway I Started Blasting | 0.80% | ~11 |
-| What Lies Below | 0.70% | ~10 |
 | Good Samaritan | 0.40% | ~6 |
 | Someplace to Be | 0.30% | ~4 |
 | Rum Runner | 0.30% | ~4 |

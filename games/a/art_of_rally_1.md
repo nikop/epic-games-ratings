@@ -6,11 +6,11 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,582 |
-| keep it tidy | 77.00% | ~7,685 |
-| podium | 72.00% | ~7,186 |
+| light attack | 96.00% | ~9,583 |
+| keep it tidy | 77.00% | ~7,686 |
+| podium | 72.00% | ~7,187 |
 | medium attack | 59.00% | ~5,889 |
-| brail | 56.00% | ~5,589 |
+| brail | 56.00% | ~5,590 |
 | grocery-getter | 39.00% | ~3,893 |
 | good drivers have dead flies on the side windows | 39.00% | ~3,893 |
 | rwd only | 26.00% | ~2,595 |
@@ -19,7 +19,7 @@ Number of Ratings: 56  (23.09.2022)
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,096 |
 | autopilot | 20.00% | ~1,996 |
 | turbo | 20.00% | ~1,996 |
-| food tour: pretzel | 19.00% | ~1,896 |
+| food tour: pretzel | 19.00% | ~1,897 |
 | bicycle race | 15.00% | ~1,497 |
 | car wash | 13.00% | ~1,298 |
 | perkele | 13.00% | ~1,298 |
@@ -31,7 +31,7 @@ Number of Ratings: 56  (23.09.2022)
 | maximum attack | 11.00% | ~1,098 |
 | espresso | 10.00% | ~998 |
 | parallel universe | 9.00% | ~898 |
-| samir | 8.00% | ~798 |
+| samir | 8.00% | ~799 |
 | eurobeat | 7.00% | ~699 |
 | master of rally | 7.00% | ~699 |
 | antilag | 7.00% | ~699 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,981 (Ranked 105)  
+Progressed: 9,982 (Ranked 105)  
 Completed: 9 (0.09%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 9 (0.09%) (Ranked 157)
 | 2023-05-05 | 9,978 | 9 |
 | 2023-05-06 | 9,980 | 9 |
 | 2023-05-07 | 9,981 | 9 |
+| 2023-05-08 | 9,982 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

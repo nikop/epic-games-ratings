@@ -102,9 +102,9 @@
       "ID": "CHAPTER3_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Eyes Yet To Open",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -246,9 +246,9 @@
       "ID": "VIPER_HACKING",
       "SetID": "2lk004m",
       "Name": "Hackathon",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -269,8 +269,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:25.5689832+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:46.8900367+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:24.2338548+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:02:36.4373912+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:25.5690147+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:00:52.6541807+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:46.8900543+00:00"
 }

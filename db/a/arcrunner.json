@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -278,9 +278,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:30.8100718+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:50.644856+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:03:30.4726136+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:30.810109+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:01:16.3544201+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:50.644877+00:00"
 }

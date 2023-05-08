@@ -70,6 +70,7 @@
 | [Bloodshore](../games/b/bloodshore.md) | 17 | 1,000 |
 | [Blossom Tales II The Minotaur Prince](../games/b/blossom_tales_ii_the_minotaur_prince.md) | 20 | 1,000 |
 | [Bosorka](../games/b/bosorka.md) | 15 | 1,000 |
+| [Boxville](../games/7/7e305f850a5749b3b16599d737e500c8.md) | 18 | 1,000 |
 | [Bramble The Mountain King](../games/b/bramble_the_mountain_king.md) | 30 | 1,000 |
 | [Bratz™: Flaunt Your Fashion](../games/b/bratz™__flaunt_your_fashion.md) | 19 | 1,000 |
 | [Breakout: Recharged](../games/b/breakout__recharged.md) | 15 | 1,000 |

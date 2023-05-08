@@ -1,46 +1,46 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 232)  
+Rating: 4.68 (Ranked 233)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,909 |
-| That's a Grand Army | 8.00% | ~2,585 |
-| That is mine! | 8.00% | ~2,585 |
-| Victorious! | 8.00% | ~2,585 |
-| Brothers in Arms | 6.00% | ~1,939 |
-| That's a Grand Navy | 6.00% | ~1,939 |
-| Seriously?! | 6.00% | ~1,939 |
-| For the Glory | 5.00% | ~1,616 |
-| Cold War | 4.00% | ~1,293 |
-| True Catholic | 4.00% | ~1,293 |
-| Defender of the Faith | 3.00% | ~970 |
-| It's all about the money | 3.00% | ~970 |
-| Respected | 3.00% | ~970 |
-| Blockader | 2.00% | ~646 |
-| Combined Arms | 2.00% | ~646 |
-| Double the Love | 2.00% | ~646 |
-| Gentle Persuasion | 2.00% | ~646 |
-| It's all about luck | 2.00% | ~646 |
-| Queen of Conquest | 2.00% | ~646 |
-| Royal Authority | 2.00% | ~646 |
-| The Princess is in this Castle | 2.00% | ~646 |
-| Total Control | 2.00% | ~646 |
-| Truly Divine Ruler | 2.00% | ~646 |
-| Agressive Expander | 1.00% | ~323 |
-| All That's Thine Shall Be Mine | 1.00% | ~323 |
-| Azur semé de lis or | 1.00% | ~323 |
-| Bright Spark | 1.00% | ~323 |
-| Factionalism | 1.00% | ~323 |
-| A Golden Empire | 1.00% | ~323 |
-| My armies are invincible! | 1.00% | ~323 |
-| City of Cities | 0.90% | ~291 |
+| Until death do us apart | 9.00% | ~2,912 |
+| That's a Grand Army | 8.00% | ~2,589 |
+| That is mine! | 8.00% | ~2,589 |
+| Victorious! | 8.00% | ~2,589 |
+| Brothers in Arms | 6.00% | ~1,942 |
+| That's a Grand Navy | 6.00% | ~1,942 |
+| Seriously?! | 6.00% | ~1,942 |
+| For the Glory | 5.00% | ~1,618 |
+| Cold War | 4.00% | ~1,294 |
+| True Catholic | 4.00% | ~1,294 |
+| Defender of the Faith | 3.00% | ~971 |
+| It's all about the money | 3.00% | ~971 |
+| Respected | 3.00% | ~971 |
+| Blockader | 2.00% | ~647 |
+| Combined Arms | 2.00% | ~647 |
+| Double the Love | 2.00% | ~647 |
+| Gentle Persuasion | 2.00% | ~647 |
+| It's all about luck | 2.00% | ~647 |
+| Queen of Conquest | 2.00% | ~647 |
+| Royal Authority | 2.00% | ~647 |
+| The Princess is in this Castle | 2.00% | ~647 |
+| Total Control | 2.00% | ~647 |
+| Truly Divine Ruler | 2.00% | ~647 |
+| Agressive Expander | 1.00% | ~324 |
+| All That's Thine Shall Be Mine | 1.00% | ~324 |
+| Azur semé de lis or | 1.00% | ~324 |
+| Bright Spark | 1.00% | ~324 |
+| City of Cities | 1.00% | ~324 |
+| Factionalism | 1.00% | ~324 |
+| A Golden Empire | 1.00% | ~324 |
+| My armies are invincible! | 1.00% | ~324 |
 | Isn't this the way to India? | 0.80% | ~259 |
 | The Five Colonies | 0.80% | ~259 |
-| The Emperors new clothes | 0.70% | ~226 |
-| Market Control | 0.70% | ~226 |
+| The Emperors new clothes | 0.70% | ~227 |
+| Market Control | 0.70% | ~227 |
 | Down Under | 0.60% | ~194 |
 | This navy can take it all | 0.60% | ~194 |
 | Electable! | 0.50% | ~162 |
@@ -73,6 +73,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Pile of Gold | 0.20% | ~65 |
 | A Protected Market | 0.20% | ~65 |
 | AAA Credit | 0.20% | ~65 |
+| Fine Financials | 0.20% | ~65 |
 | Global Hegemony | 0.20% | ~65 |
 | Grand Duchy | 0.20% | ~65 |
 | Imperio español | 0.20% | ~65 |
@@ -133,7 +134,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Emperor of Hindustan | 0.10% | ~32 |
 | Even Better than Piet Heyn | 0.10% | ~32 |
 | Fanatic Collectivist | 0.10% | ~32 |
-| Fine Financials | 0.10% | ~32 |
 | A Fine Goosestep | 0.10% | ~32 |
 | For Odin! | 0.10% | ~32 |
 | For the Emperor! | 0.10% | ~32 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,317 (Ranked 80)  
+Progressed: 32,361 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,317 | 0 |
+| 2023-05-08 | 32,361 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
 Sum: 42,944 (Ranked 27)  

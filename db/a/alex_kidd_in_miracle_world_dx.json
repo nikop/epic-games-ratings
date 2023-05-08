@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -114,9 +114,9 @@
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -179,8 +179,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:08:49.7628694+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:19.7954568+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:27.5899196+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:00:46.8370562+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:08:49.7628902+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:59:45.3895244+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:19.7954698+00:00"
 }

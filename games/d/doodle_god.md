@@ -19,8 +19,8 @@
 | Half the Kingdom | 18.00% | ~36 |
 | Deity of Darkness | 17.00% | ~34 |
 | Creator of Magic | 16.00% | ~32 |
+| Salvation! | 11.00% | ~22 |
 | Heavenly Virtues | 11.00% | ~22 |
-| Salvation! | 10.00% | ~20 |
 | Brilliant Inventor | 8.00% | ~16 |
 | Master of the Worlds | 7.00% | ~14 |
 | Greatest inventor | 7.00% | ~14 |

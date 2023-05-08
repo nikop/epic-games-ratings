@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -219,9 +219,9 @@
       "ID": "610001",
       "SetID": "4lpaifm",
       "Name": "Salvation!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "740512",
@@ -252,8 +252,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:09:27.8508118+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:48.5074575+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.8285201+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:03:04.5190978+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:09:27.8508376+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:01:03.278658+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:48.5074714+00:00"
 }

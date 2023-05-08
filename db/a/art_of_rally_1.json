@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.86,
   "NumberOfRatings": 56,
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9981,
+  "EOS_Progressed": 9982,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -307,6 +307,11 @@
     {
       "Time": "2023-05-07T18:07:32.1901669+00:00",
       "NumProgressed": 9981,
+      "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-08T15:06:20.8179968+00:00",
+      "NumProgressed": 9982,
       "NumCompleted": 9
     }
   ],
@@ -479,7 +484,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7685
+      "UsersEstimate": 7686
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -527,7 +532,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5589
+      "UsersEstimate": 5590
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -543,7 +548,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9582
+      "UsersEstimate": 9583
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -623,7 +628,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -631,7 +636,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -655,22 +660,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7186
+      "UsersEstimate": 7187
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 9981,
+      "Progressed": 9982,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-08T14:08:51.1761492+00:00",
+  "LastChanged_Achievements": "2023-05-08T15:06:20.8179963+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:45.0012761+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:59:11.1280267+00:00",
-  "LastUpdate_Achievements": "2023-05-08T14:08:51.1762048+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:58:50.2287509+00:00",
+  "LastUpdate_Achievements": "2023-05-08T15:06:20.8180287+00:00"
 }
