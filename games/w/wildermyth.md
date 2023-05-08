@@ -20,9 +20,9 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 9.00% | ~103 |
 | Core Failure | 9.00% | ~103 |
 | Pyrrhic Victory | 8.00% | ~92 |
+| Echoes Die | 7.00% | ~80 |
 | Thematic Divergence | 6.00% | ~69 |
 | Chain Reaction | 6.00% | ~69 |
-| Echoes Die | 6.00% | ~69 |
 | A Story of Heroes | 6.00% | ~69 |
 | Let Me Get My Chisel | 5.00% | ~57 |
 | Everfading | 5.00% | ~57 |

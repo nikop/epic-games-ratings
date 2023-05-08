@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3534,10 +3534,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29831,
       "NumberOfAwardsMax": 4868
+    },
+    {
+      "Time": "2023-05-08T19:59:47.9457649+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29833,
+      "NumberOfAwardsMax": 4868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29831,
+  "NumberOfAwards": 29833,
   "NumberOfAwardsMax": 4868,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3545,7 +3551,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4810
+      "Count": 4812
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3584,10 +3590,10 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86892,
-  "EOS_Completed": 1814,
-  "EOS_NewPlayers": 693,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 86900,
+  "EOS_Completed": 1815,
+  "EOS_NewPlayers": 696,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5119,6 +5125,11 @@
       "Time": "2023-05-08T19:08:06.9256721+00:00",
       "NumProgressed": 86892,
       "NumCompleted": 1814
+    },
+    {
+      "Time": "2023-05-08T20:08:06.1293977+00:00",
+      "NumProgressed": 86900,
+      "NumCompleted": 1815
     }
   ],
   "TotalAchievements": 489,
@@ -5770,7 +5781,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_completed_1158",
@@ -5802,7 +5813,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_completed_1163",
@@ -5930,7 +5941,7 @@
       "Name": "Frail Doesn\u0027t Mean Broken",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_completed_1188",
@@ -5962,7 +5973,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_completed_1194",
@@ -5978,7 +5989,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_completed_1199",
@@ -6010,7 +6021,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "objective_completed_1208",
@@ -9041,21 +9052,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53166,
+      "Progressed": 53174,
       "Completed": 2481
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86892,
-      "Completed": 1814
+      "Progressed": 86900,
+      "Completed": 1815
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-08T05:59:18.0601163+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:08:06.9256715+00:00",
+  "LastChanged": "2023-05-08T19:59:47.9457647+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:08:06.1293972+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:59:41.8662317+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:08:06.9284601+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:59:47.9457654+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:08:06.1317283+00:00"
 }

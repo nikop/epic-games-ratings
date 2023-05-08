@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| 1.5 Million | 67.00% | ~2 |
 | 10K | 67.00% | ~2 |
 | 15K | 67.00% | ~2 |
 | 1K | 67.00% | ~2 |
 | 2.5K | 67.00% | ~2 |
 | 25K | 67.00% | ~2 |
+| 500K | 67.00% | ~2 |
 | 50K | 67.00% | ~2 |
 | 5K | 67.00% | ~2 |
 | 75K | 67.00% | ~2 |
 | Bit Blaster V2 | 67.00% | ~2 |
-| 1.5 Million | 33.00% | ~1 |
-| 500K | 33.00% | ~1 |
-| Bit Blaster V3 | 33.00% | ~1 |
-| Bit Blaster V4 | 33.00% | ~1 |
+| Bit Blaster V3 | 67.00% | ~2 |
+| Bit Blaster V4 | 67.00% | ~2 |
 | Bit Blaster V5 | 33.00% | ~1 |
 | Bit Blaster V6 | 33.00% | ~1 |
 | Bit Blaster V7 | 33.00% | ~1 |

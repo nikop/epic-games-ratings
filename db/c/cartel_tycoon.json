@@ -506,9 +506,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "hire-lieutenant",
@@ -586,9 +586,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "unlock-residences",
@@ -626,8 +626,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:56.4640889+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:56.5465703+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.865388+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:02:17.5084926+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:56.4641072+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:02:07.8764585+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:56.546588+00:00"
 }

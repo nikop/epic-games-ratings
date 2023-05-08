@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.31,
   "RatingHistory": [
@@ -186,9 +186,9 @@
       "ID": "01",
       "SetID": "73ikgfc",
       "Name": "Way of the King",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "02",
@@ -379,8 +379,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:47.4378424+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:48.4630412+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.4486196+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:01:45.3650059+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:47.4378611+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:01:37.3915683+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:48.4630594+00:00"
 }

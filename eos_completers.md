@@ -18,13 +18,13 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.69% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
 | 20 | [Scorn](games/s/scorn.md) | 7.11% |
 | 21 | [Remains](games/r/remains.md) | 6.67% |
 | 22 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.29% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.91% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.89% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -56,7 +56,7 @@
 | 54 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 55 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
 | 56 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.33% |
-| 57 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 57 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 58 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 59 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 60 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -80,7 +80,7 @@
 | 78 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 79 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 80 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 81 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
+| 81 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
 | 82 | [Sable](games/s/sable.md) | 0.92% |
 | 83 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 83 | [Hades](games/h/hades.md) | 0.89% |

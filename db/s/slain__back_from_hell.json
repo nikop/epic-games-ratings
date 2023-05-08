@@ -166,9 +166,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 19697,
+  "EOS_Progressed": 19706,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1192,
+  "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1736,6 +1736,11 @@
       "Time": "2023-05-08T19:07:51.9701707+00:00",
       "NumProgressed": 19697,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-08T20:07:52.7340856+00:00",
+      "NumProgressed": 19706,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 29,
@@ -1747,7 +1752,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -1755,7 +1760,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3744
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -1843,7 +1848,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -1978,7 +1983,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 19697,
+      "Progressed": 19706,
       "Completed": 14
     }
   ],
@@ -1986,8 +1991,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:51.9701702+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:52.734085+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.2822478+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:02:07.8891766+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:51.9702013+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:01:58.1482826+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:52.7341331+00:00"
 }

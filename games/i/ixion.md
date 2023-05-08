@@ -24,6 +24,7 @@ Rating: 4.54 (Ranked 477)
 | Guy de Borderlands | 0.20% | ~4 |
 | Sightseeing | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
+| Breaking Protocol | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | All in Good Health | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
@@ -40,7 +41,6 @@ Rating: 4.54 (Ranked 477)
 | In Dolos We Trust | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
-| Breaking Protocol | 0.10% | ~2 |
 | Access Granted | 0.10% | ~2 |
 | Necessary Enhancement | 0.10% | ~2 |
 | You Had One Job... | 0.10% | ~2 |

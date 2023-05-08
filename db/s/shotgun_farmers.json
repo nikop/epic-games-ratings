@@ -147,9 +147,9 @@
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -203,9 +203,9 @@
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 100,
+      "Percentage": 104,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -427,17 +427,17 @@
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -508,8 +508,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:01.732355+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:08.1940674+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:00:00.2298556+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:01.7323977+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:00:02.3702214+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:08.194103+00:00"
 }

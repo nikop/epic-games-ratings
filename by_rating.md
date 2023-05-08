@@ -20,7 +20,7 @@
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 293 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 250 | 237 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,975 | 73 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,289 | 34 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,298 | 34 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 472 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 490 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,374 | 117 |
@@ -143,7 +143,7 @@
 | 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 400 | 198 |
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 490 |
 | 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 490 |
-| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 522 | 179 |
+| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 524 | 178 |
 | 141 | [DOOM II](games/d/doom_ii.md) | 4.74 | 25 | 463 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 147 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 589 | 166 |
@@ -375,7 +375,7 @@
 | 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,607 | 40 |
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 371 |
 | 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,623 | 21 |
-| 376 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,723 | 29 |
+| 376 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,733 | 29 |
 | 376 | [Control](games/c/control.md) | 4.60 | 8,265 | 38 |
 | 376 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
 | 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 353 |
@@ -615,7 +615,7 @@
 | 601 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 848 | 143 |
 | 601 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 490 |
 | 601 | [SMITE](games/s/smite.md) | 4.45 | 3,732 | 77 |
-| 601 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 523 | 178 |
+| 601 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 523 | 179 |
 | 601 | [STG Football](games/s/stg_football.md) | 4.45 | 37 | 417 |
 | 601 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 310 |
 | 601 | [Weird West](games/w/weird_west.md) | 4.45 | 23 | 468 |
@@ -719,35 +719,35 @@
 | 715 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 49 | 389 |
 | 715 | [Encased](games/e/encased.md) | 4.35 | 125 | 297 |
 | 715 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 257 |
+| 715 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.35 | 0 | 490 |
 | 715 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 490 |
 | 715 | [Paladins](games/p/paladins.md) | 4.35 | 3,206 | 82 |
 | 715 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 413 |
-| 723 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 490 |
-| 723 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 453 |
-| 723 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 490 |
-| 723 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 490 |
-| 723 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 490 |
-| 723 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 490 |
-| 723 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,877 | 61 |
-| 723 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 242 |
-| 723 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
-| 723 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 62 | 373 |
-| 733 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 490 |
-| 733 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
-| 733 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 0 | 490 |
-| 733 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 490 |
-| 733 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 72 | 357 |
-| 733 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 490 |
-| 733 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 490 |
-| 740 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 341 | 210 |
-| 740 | [Filament](games/f/filament.md) | 4.32 | 551 | 171 |
-| 740 | [House Party](games/h/house_party.md) | 4.32 | 0 | 490 |
-| 740 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.32 | 0 | 490 |
-| 740 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 447 |
-| 740 | [The Silent Age](games/t/the_silent_age.md) | 4.32 | 0 | 490 |
-| 740 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 490 |
-| 740 | [Torchlight](games/t/torchlight.md) | 4.32 | 20 | 483 |
-| 740 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 174 |
+| 724 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 490 |
+| 724 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 453 |
+| 724 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 490 |
+| 724 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 490 |
+| 724 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 490 |
+| 724 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 490 |
+| 724 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,877 | 61 |
+| 724 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 242 |
+| 724 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
+| 724 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 62 | 373 |
+| 734 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 490 |
+| 734 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
+| 734 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 0 | 490 |
+| 734 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 490 |
+| 734 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 72 | 357 |
+| 734 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 490 |
+| 734 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 490 |
+| 741 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 341 | 210 |
+| 741 | [Filament](games/f/filament.md) | 4.32 | 551 | 171 |
+| 741 | [House Party](games/h/house_party.md) | 4.32 | 0 | 490 |
+| 741 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 447 |
+| 741 | [The Silent Age](games/t/the_silent_age.md) | 4.32 | 0 | 490 |
+| 741 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 490 |
+| 741 | [Torchlight](games/t/torchlight.md) | 4.32 | 20 | 483 |
+| 741 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 174 |
 | 749 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 490 |
 | 749 | [Hammerting](games/h/hammerting.md) | 4.31 | 0 | 490 |
 | 749 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 490 |
@@ -857,7 +857,7 @@
 | 854 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 490 |
 | 854 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 382 |
 | 854 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.10 | 0 | 490 |
-| 854 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,269 | 96 |
+| 854 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,274 | 96 |
 | 854 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 490 |
 | 860 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 490 |
 | 860 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 0 | 490 |

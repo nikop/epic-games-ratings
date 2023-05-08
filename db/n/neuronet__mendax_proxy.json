@@ -248,9 +248,9 @@
       "ID": "JOB_CREATOR",
       "SetID": "2d85n75",
       "Name": "Job Creator",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KEEPER_OF_THE_PEOPLE",
@@ -416,9 +416,9 @@
       "ID": "THE_BIRDS_AND_THE_BEES",
       "SetID": "2d85n75",
       "Name": "The Birds and the Bees",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "THE_SPICE_OF_LIFE",
@@ -456,17 +456,17 @@
       "ID": "VACCINATED",
       "SetID": "2d85n75",
       "Name": "Vaccinated",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WARNING_FRAGILE",
       "SetID": "2d85n75",
       "Name": "Warning: Fragile",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WHAT_THEY_DONT_KNOW_CANT_HURT_THEM",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:47.8497245+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:48.8863903+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:01:47.0126815+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:47.8497696+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:01:38.5349118+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:48.8864318+00:00"
 }

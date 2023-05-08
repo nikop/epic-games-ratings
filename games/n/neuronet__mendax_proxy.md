@@ -8,16 +8,16 @@
 | Hello World | 63.00% | ~10 |
 | I Think, Therefore I Am | 63.00% | ~10 |
 | The Real Beginning | 63.00% | ~10 |
-| The Birds and the Bees | 50.00% | ~8 |
+| The Birds and the Bees | 56.00% | ~9 |
+| Vaccinated | 44.00% | ~7 |
+| Warning: Fragile | 44.00% | ~7 |
 | Shook Up | 38.00% | ~6 |
 | Task Master | 38.00% | ~6 |
-| Vaccinated | 38.00% | ~6 |
-| Warning: Fragile | 38.00% | ~6 |
 | An Acquired Taste | 31.00% | ~5 |
 | Busybody | 31.00% | ~5 |
 | Everyone Needs a Break | 31.00% | ~5 |
+| Job Creator | 31.00% | ~5 |
 | A Light in the Dark | 25.00% | ~4 |
-| Job Creator | 25.00% | ~4 |
 | A Real Headache | 19.00% | ~3 |
 | A Total Riot | 19.00% | ~3 |
 | The Guardian | 19.00% | ~3 |

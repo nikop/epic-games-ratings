@@ -1059,9 +1059,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118150,
+  "EOS_Progressed": 118152,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2424,6 +2424,11 @@
       "Time": "2023-05-08T19:07:37.9717928+00:00",
       "NumProgressed": 118150,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-08T20:07:40.2281829+00:00",
+      "NumProgressed": 118152,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -2459,7 +2464,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "ACH_COP_ART",
@@ -2515,7 +2520,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33082
+      "UsersEstimate": 33083
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -2571,7 +2576,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -2579,7 +2584,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 12996
+      "UsersEstimate": 12997
     },
     {
       "ID": "ACH_CUNO",
@@ -2754,15 +2759,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118150,
+      "Progressed": 118152,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:37.9717923+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:40.2281824+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:00:58.8275258+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:37.9718316+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:00:55.8386328+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:40.2282233+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
@@ -320,8 +320,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:48.3402936+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:49.3187382+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.9804643+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:01:50.562712+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:48.3403194+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:01:41.574639+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:49.3187608+00:00"
 }

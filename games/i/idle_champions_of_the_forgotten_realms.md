@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 2.00% | ~1,063 |
 | A Brief Tour of the Realms | 1.00% | ~869 |
 | Vecna Out! | 1.00% | ~532 |
-| Pin and Skewer | 0.90% | ~478 |
+| Pin and Skewer | 0.90% | ~479 |
 | The Cursed Farmer | 0.80% | ~695 |
 | Bully for Vecna | 0.70% | ~372 |
 | Beast Intentions | 0.60% | ~521 |
@@ -21,11 +21,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.40% | ~348 |
 | Friendly Imps | 0.40% | ~348 |
 | Maddening | 0.30% | ~261 |
-| Owlbear Necessities | 0.30% | ~159 |
-| Best Thay Ever | 0.30% | ~159 |
-| Frail Doesn't Mean Broken | 0.30% | ~159 |
-| The Sanctum of the Sword | 0.30% | ~159 |
-| Get Back In The Castle | 0.30% | ~159 |
+| Owlbear Necessities | 0.30% | ~160 |
+| Best Thay Ever | 0.30% | ~160 |
+| Frail Doesn't Mean Broken | 0.30% | ~160 |
+| The Sanctum of the Sword | 0.30% | ~160 |
+| Get Back In The Castle | 0.30% | ~160 |
 | A Persistent Buzzing | 0.30% | ~261 |
 | Beast Mode | 0.30% | ~261 |
 | Terror in the Dark | 0.30% | ~261 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,892 (Ranked 59)  
-Completed: 1,814 (2.09%) (Ranked 58)  
+Progressed: 86,900 (Ranked 59)  
+Completed: 1,815 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -514,15 +514,15 @@ Completed: 1,814 (2.09%) (Ranked 58)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,892 | 1,814 |
+| 2023-05-08 | 86,900 | 1,815 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
-Sum: 29,831 (Ranked 37)  
+Sum: 29,833 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,868 |
-| This game is Great for Beginners | 4,810 |
+| This game is Great for Beginners | 4,812 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,479 |
 | This game is Highly Recommended | 3,932 |
@@ -633,4 +633,4 @@ Diff (max vs sum): 26
 | 2023-05-05 | 4.06 | - | 4,865 | 29,803 |
 | 2023-05-06 | 4.06 | - | 4,868 | 29,822 |
 | 2023-05-07 | 4.06 | - | 4,868 | 29,830 |
-| 2023-05-08 | 4.06 | - | 4,868 | 29,831 |
+| 2023-05-08 | 4.06 | - | 4,868 | 29,833 |

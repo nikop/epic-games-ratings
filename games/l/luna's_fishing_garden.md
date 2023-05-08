@@ -11,7 +11,7 @@
 | Up! | 34.00% | ~226 |
 | Bird Breeder | 27.00% | ~180 |
 | Science Enthusiast | 27.00% | ~180 |
-| Master Angler | 23.00% | ~153 |
+| Master Angler | 24.00% | ~160 |
 | Fish Appreciation | 22.00% | ~147 |
 | We're Gonna Need a Bigger Screen | 22.00% | ~147 |
 | A Work of Art | 22.00% | ~147 |

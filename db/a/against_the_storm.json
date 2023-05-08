@@ -2226,7 +2226,7 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14718,
+  "EOS_Progressed": 14719,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -3116,6 +3116,11 @@
       "Time": "2023-05-08T19:07:58.1817277+00:00",
       "NumProgressed": 14718,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-08T20:07:58.1483204+00:00",
+      "NumProgressed": 14719,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3181,9 +3186,9 @@
       "ID": "LizardUtopia",
       "SetID": "cfbk359",
       "Name": "Lizard Utopia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "ManyEvents",
@@ -3526,15 +3531,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14718,
+      "Progressed": 14719,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-08T18:01:14.9978672+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:58.1817273+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:58.1483191+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:02:09.3259811+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:58.1817774+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:01:59.3923868+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:58.1483694+00:00"
 }

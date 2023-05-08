@@ -28,9 +28,9 @@ Rating: 3.40 (Ranked 918)
 | Daily Quest Completionist | 4.00% | ~37 |
 | Milestone collector | 4.00% | ~37 |
 | Scientist | 4.00% | ~37 |
+| Background Story | 3.00% | ~27 |
 | Frostfire Liberator | 3.00% | ~27 |
 | Hunter | 3.00% | ~27 |
-| Background Story | 2.00% | ~18 |
 | Here We Go Again | 2.00% | ~18 |
 | Mastery | 2.00% | ~18 |
 | Missions Dedication | 2.00% | ~18 |

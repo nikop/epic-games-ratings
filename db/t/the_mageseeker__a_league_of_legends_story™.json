@@ -64,7 +64,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1926,
+  "EOS_Progressed": 1927,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -989,6 +989,11 @@
       "Time": "2023-05-08T19:07:18.341195+00:00",
       "NumProgressed": 1926,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T20:07:22.4826551+00:00",
+      "NumProgressed": 1927,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1032,7 +1037,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -1056,7 +1061,7 @@
       "Name": "No more holding back",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -1064,7 +1069,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1080,7 +1085,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1112,7 +1117,7 @@
       "Name": "I chose my shackles",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -1120,7 +1125,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1176,7 +1181,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1184,7 +1189,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1216,7 +1221,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1256,7 +1261,7 @@
       "Name": "Glyndemere",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -1272,7 +1277,7 @@
       "Name": "Terbisia",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -1336,7 +1341,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1423,7 +1428,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1926,
+      "Progressed": 1927,
       "Completed": 1
     }
   ],
@@ -1431,8 +1436,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-08T18:59:09.7080254+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:18.3411945+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:22.4826544+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:59:09.7080261+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:18.3412516+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:59:18.9833224+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:22.482708+00:00"
 }

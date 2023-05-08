@@ -2,12 +2,12 @@
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
-  "Ranking_Rating": 723,
+  "Ranking_Rating": 724,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.34,
   "NumberOfRatings": 5693,
@@ -1890,10 +1890,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1810,
       "NumberOfAwardsMax": 237
+    },
+    {
+      "Time": "2023-05-08T19:59:53.6555998+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1812,
+      "NumberOfAwardsMax": 237
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1810,
+  "NumberOfAwards": 1812,
   "NumberOfAwardsMax": 237,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1913,7 +1919,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 199
+      "Count": 201
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1969,8 +1975,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-05-07T14:59:18.7908515+00:00",
+  "LastChanged": "2023-05-08T19:59:53.6555997+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:26.9657902+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:59:49.0685553+00:00",
+  "LastUpdate_Ratings": "2023-05-08T19:59:53.6556002+00:00",
   "LastUpdate_Achievements": "2023-05-08T19:03:31.0628941+00:00"
 }

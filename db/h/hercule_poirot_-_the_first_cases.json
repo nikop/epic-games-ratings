@@ -2,12 +2,12 @@
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
   "ProductSlug": "hercule-poirot-the-first-cases-584238",
-  "Ranking_Rating": 733,
+  "Ranking_Rating": 734,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.33,
   "RatingHistory": [
@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-05-07T14:06:40.8710593+00:00",
       "NumProgressed": 341,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-08T20:07:32.2170707+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -78,7 +83,7 @@
       "Name": "The Bracelet",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_010",
@@ -124,9 +129,9 @@
       "ID": "ACH_015",
       "SetID": "72imik0",
       "Name": "Truth from Within",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_016",
@@ -158,7 +163,7 @@
       "Name": "Fine-toothed Comb",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_02",
@@ -166,7 +171,7 @@
       "Name": "The Blackmail",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_020",
@@ -214,7 +219,7 @@
       "Name": "What Else Did I Miss?",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_026",
@@ -238,7 +243,7 @@
       "Name": "It Wasn\u2019t a Burglary",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_029",
@@ -254,7 +259,7 @@
       "Name": "The Altercation",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_030",
@@ -270,7 +275,7 @@
       "Name": "Angeline Van den Bosch",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_032",
@@ -292,9 +297,9 @@
       "ID": "ACH_034",
       "SetID": "72imik0",
       "Name": "Comtesse Margaux de Vos",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_035",
@@ -302,7 +307,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_036",
@@ -334,7 +339,7 @@
       "Name": "Hugo Beckers",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_04",
@@ -342,7 +347,7 @@
       "Name": "The Major",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_040",
@@ -366,15 +371,15 @@
       "Name": "Luc Piette",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_043",
       "SetID": "72imik0",
       "Name": "Major Felix Hagen",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 201
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_044",
@@ -382,7 +387,7 @@
       "Name": "Rehana Piette",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_045",
@@ -430,7 +435,7 @@
       "Name": "The Family",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_09",
@@ -445,7 +450,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 4
     }
   ],
@@ -453,8 +458,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:29.2538804+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:32.2170703+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:07.5828396+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:59:22.8691167+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:29.2539272+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:59:31.0265394+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:32.2171107+00:00"
 }

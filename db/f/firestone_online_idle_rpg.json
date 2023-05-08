@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 73,
   "Rating": 3.4,
   "RatingHistory": [
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 915,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1254,9 +1254,9 @@
       "ID": "backgroundstory",
       "SetID": "3nl4bcg",
       "Name": "Background Story",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "beastwarmachines",
@@ -1831,8 +1831,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:28.2607197+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:31.438515+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:59:37.7005517+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:28.260813+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:59:44.4358964+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:31.4386007+00:00"
 }

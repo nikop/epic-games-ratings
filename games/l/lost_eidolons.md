@@ -17,7 +17,7 @@ Rating: 4.31 (Ranked 749)
 | House Vulisica's Heirloom | 14.00% | ~118 |
 | Digging Deep | 13.00% | ~110 |
 | Broken Oath | 8.00% | ~67 |
-| Way of the King | 6.00% | ~51 |
+| Way of the King | 7.00% | ~59 |
 | Way of the Warlord | 4.00% | ~34 |
 | Til We Meet Again | 4.00% | ~34 |
 | The Unvanquished | 2.00% | ~17 |

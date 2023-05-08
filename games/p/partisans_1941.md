@@ -19,8 +19,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Gang's All Here | 10.00% | ~87 |
 | Your Answer | 9.00% | ~79 |
 | The Big Bertha | 8.00% | ~70 |
+| One by One | 8.00% | ~70 |
 | Game Over | 7.00% | ~61 |
-| One by One | 7.00% | ~61 |
 | Lock, Stock | 5.00% | ~44 |
 | Payback Time | 4.00% | ~35 |
 | No Witness | 3.00% | ~26 |

@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 5.91,
+  "EOS_Completed_Percentage": 5.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -648,6 +648,11 @@
       "Time": "2023-05-08T19:07:08.2093345+00:00",
       "NumProgressed": 508,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-08T20:07:13.2252979+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -659,7 +664,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "10",
@@ -683,7 +688,7 @@
       "Name": "Spellbound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "13",
@@ -731,15 +736,15 @@
       "Name": "Surprise!",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 356
     },
     {
       "ID": "2",
@@ -747,7 +752,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "20",
@@ -801,9 +806,9 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 158
     },
     {
       "ID": "27",
@@ -811,15 +816,15 @@
       "Name": "Frog Facts!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 382
     },
     {
       "ID": "29",
@@ -827,15 +832,15 @@
       "Name": "All That Glistens",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 300
     },
     {
       "ID": "30",
@@ -899,7 +904,7 @@
       "Name": "Stronger!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "38",
@@ -915,7 +920,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "4",
@@ -923,7 +928,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "40",
@@ -947,7 +952,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "43",
@@ -955,7 +960,7 @@
       "Name": "An Actor!",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "44",
@@ -963,15 +968,15 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 127
     },
     {
       "ID": "46",
@@ -987,7 +992,7 @@
       "Name": "Crowned",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "48",
@@ -995,7 +1000,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "49",
@@ -1058,7 +1063,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 30
     }
   ],
@@ -1066,8 +1071,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:08.2093339+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:13.2252968+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:58:59.6155115+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:08.2093904+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:59:09.5000094+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:13.2253466+00:00"
 }

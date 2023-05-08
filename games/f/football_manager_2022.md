@@ -8,23 +8,23 @@ Number of Ratings: 19,160  (23.09.2022)
 | ---- | ---------- | ----- |
 | He's Signed! | 50.00% | ~229,744 |
 | First Victory | 50.00% | ~229,744 |
-| Clean Sheet | 49.00% | ~225,149 |
-| He's Sold! | 47.00% | ~215,959 |
+| Clean Sheet | 49.00% | ~225,150 |
+| He's Sold! | 47.00% | ~215,960 |
 | I'm The Boss! | 41.00% | ~188,390 |
 | Hat-trick | 41.00% | ~188,390 |
-| Scoring Streak | 37.00% | ~170,010 |
-| Unbeatable! | 36.00% | ~165,415 |
-| Thumping | 36.00% | ~165,415 |
+| Scoring Streak | 37.00% | ~170,011 |
+| Unbeatable! | 36.00% | ~165,416 |
+| Thumping | 36.00% | ~165,416 |
 | Superb Dressing Room Atmosphere | 34.00% | ~156,226 |
 | Total Support | 32.00% | ~147,036 |
-| Record Signing | 31.00% | ~142,441 |
-| He's a Natural | 30.00% | ~137,846 |
-| Millionaire's Club | 30.00% | ~137,846 |
-| Team Performance | 29.00% | ~133,251 |
-| Parked The Bus | 28.00% | ~128,656 |
-| Shrewd Spender | 28.00% | ~128,656 |
-| Star Man | 28.00% | ~128,656 |
-| Attack! | 27.00% | ~124,061 |
+| Record Signing | 31.00% | ~142,442 |
+| He's a Natural | 30.00% | ~137,847 |
+| Millionaire's Club | 30.00% | ~137,847 |
+| Team Performance | 29.00% | ~133,252 |
+| Parked The Bus | 28.00% | ~128,657 |
+| Shrewd Spender | 28.00% | ~128,657 |
+| Star Man | 28.00% | ~128,657 |
+| Attack! | 27.00% | ~124,062 |
 | You're On Fire | 26.00% | ~119,467 |
 | Tremendous Trio | 26.00% | ~119,467 |
 | On A Roll | 25.00% | ~114,872 |
@@ -35,12 +35,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | Full Faith | 23.00% | ~105,682 |
 | Iron Curtain | 23.00% | ~105,682 |
 | The Boss | 23.00% | ~105,682 |
-| Top Of The Class | 22.00% | ~101,087 |
-| Goal Machine | 22.00% | ~101,087 |
-| Splashing The Cash | 21.00% | ~96,492 |
-| What A Goal! | 21.00% | ~96,492 |
-| Cup Glory! | 21.00% | ~96,492 |
-| Clean Bill of Health | 20.00% | ~91,897 |
+| Top Of The Class | 22.00% | ~101,088 |
+| Goal Machine | 22.00% | ~101,088 |
+| Splashing The Cash | 21.00% | ~96,493 |
+| What A Goal! | 21.00% | ~96,493 |
+| Cup Glory! | 21.00% | ~96,493 |
+| Clean Bill of Health | 20.00% | ~91,898 |
 | Irresistible Force | 19.00% | ~87,303 |
 | Excellent Match Cohesion | 19.00% | ~87,303 |
 | Do The Double | 18.00% | ~82,708 |
@@ -51,8 +51,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Beating Expectations | 14.00% | ~64,328 |
 | Eyes and Ears | 14.00% | ~64,328 |
 | Window Shopping | 14.00% | ~64,328 |
-| Comeback King! | 13.00% | ~59,733 |
-| You're Up! | 12.00% | ~55,138 |
+| Comeback King! | 13.00% | ~59,734 |
+| You're Up! | 12.00% | ~55,139 |
 | Money, Money, Money | 11.00% | ~50,544 |
 | Invincible! | 10.00% | ~45,949 |
 | Best In The World | 10.00% | ~45,949 |
@@ -69,7 +69,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Legend | 5.00% | ~22,974 |
 | Win the Club World Cup | 5.00% | ~22,974 |
 | We Trust You | 5.00% | ~22,974 |
-| Going Places | 4.00% | ~18,379 |
+| Going Places | 4.00% | ~18,380 |
 | National Hero | 3.00% | ~13,785 |
 | Golden Boot | 3.00% | ~13,785 |
 | Trophy Hoarder | 3.00% | ~13,785 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~459 |
 | Shoestring Budget | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,487 (Ranked 27)  
+Progressed: 459,489 (Ranked 27)  
 Completed: 18 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,10 +123,10 @@ Completed: 18 (0.00%) (Ranked 194)
 | 2023-05-05 | 459,189 | 18 |
 | 2023-05-06 | 459,299 | 18 |
 | 2023-05-07 | 459,417 | 18 |
-| 2023-05-08 | 459,487 | 18 |
+| 2023-05-08 | 459,489 | 18 |
 ## Awards
 Max (Relaxing): 6,255  (Ranked 50)  
-Sum: 49,303 (Ranked 22)  
+Sum: 49,305 (Ranked 22)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -136,7 +136,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 5,716 |
 | This game is Educational | 5,681 |
 | This game is Highly Recommended | 5,678 |
-| This game has Diverse Characters | 5,255 |
+| This game has Diverse Characters | 5,257 |
 | This game has Amazing Storytelling | 4,807 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,285 |
@@ -246,4 +246,4 @@ Diff (max vs sum): 28
 | 2023-05-05 | 4.80 | - | 6,253 | 49,281 |
 | 2023-05-06 | 4.80 | - | 6,253 | 49,295 |
 | 2023-05-07 | 4.80 | - | 6,255 | 49,301 |
-| 2023-05-08 | 4.80 | - | 6,255 | 49,303 |
+| 2023-05-08 | 4.80 | - | 6,255 | 49,305 |

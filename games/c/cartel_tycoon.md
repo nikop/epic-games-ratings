@@ -9,11 +9,11 @@ Number of Ratings: 101  (23.09.2022)
 | Our Man | 84.00% | ~263 |
 | Take-Off | 78.00% | ~244 |
 | Hokey-Pokey | 72.00% | ~225 |
-| Camellos | 57.00% | ~178 |
+| Camellos | 58.00% | ~182 |
 | Bad Trip | 45.00% | ~141 |
 | Didn't Miss A Single One | 44.00% | ~138 |
+| That was base | 39.00% | ~122 |
 | Spread | 39.00% | ~122 |
-| That was base | 38.00% | ~119 |
 | Safe Pair of Hands | 34.00% | ~106 |
 | Don't Let Mom Know You're A Druglord | 28.00% | ~88 |
 | Architect of Fortunes | 26.00% | ~81 |

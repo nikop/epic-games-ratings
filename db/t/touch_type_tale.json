@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2537,
+  "EOS_Progressed": 2538,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -483,6 +483,11 @@
       "Time": "2023-05-08T12:09:32.6080642+00:00",
       "NumProgressed": 2537,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-08T20:07:59.6539035+00:00",
+      "NumProgressed": 2538,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 33,
@@ -542,7 +547,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "campaign10",
@@ -558,7 +563,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "campaign12",
@@ -614,7 +619,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "campaign19",
@@ -646,7 +651,7 @@
       "Name": "Economics 101",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "campaign4",
@@ -678,7 +683,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "campaign8",
@@ -686,7 +691,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "campaign9",
@@ -702,7 +707,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "scenario2",
@@ -734,7 +739,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "scenario6",
@@ -742,7 +747,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "scenario7",
@@ -757,7 +762,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2537,
+      "Progressed": 2538,
       "Completed": 8
     }
   ],
@@ -765,8 +770,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-08T19:07:59.7360905+00:00",
+  "LastChanged_Achievements": "2023-05-08T20:07:59.6539028+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:02:24.3338861+00:00",
-  "LastUpdate_Achievements": "2023-05-08T19:07:59.7361182+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:02:13.979134+00:00",
+  "LastUpdate_Achievements": "2023-05-08T20:07:59.6539322+00:00"
 }
