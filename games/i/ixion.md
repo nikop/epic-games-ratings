@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.54 (Ranked 476)  
+Rating: 4.54 (Ranked 477)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,20 +9,20 @@ Rating: 4.54 (Ranked 476)
 | The Ship of Theseus | 0.50% | ~9 |
 | Wakey Wakey | 0.40% | ~7 |
 | Exceeding Capacity | 0.40% | ~7 |
+| Fully Recycled | 0.40% | ~7 |
+| Ready for a New World | 0.40% | ~7 |
 | Ain't Nobody Got Time for That | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
+| Space Society | 0.30% | ~6 |
 | Sputnik 2049 | 0.30% | ~6 |
 | A Thousand Strong | 0.30% | ~6 |
-| Fully Recycled | 0.30% | ~6 |
-| Ready for a New World | 0.30% | ~6 |
+| Power Outage | 0.30% | ~6 |
 | Permanent Redesigns | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | Infinite Growth... | 0.20% | ~4 |
 | Guy de Borderlands | 0.20% | ~4 |
-| Space Society | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
-| Power Outage | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 476)
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,844 (Ranked 145)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

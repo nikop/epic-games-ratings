@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 732,
+  "Ranking_Rating": 733,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.33,
   "NumberOfRatings": 76,
   "RatingHistory": [
@@ -276,9 +276,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13350,
+  "EOS_Progressed": 13351,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1501,6 +1501,11 @@
       "Time": "2023-05-08T12:09:05.035041+00:00",
       "NumProgressed": 13350,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-08T13:14:46.2750325+00:00",
+      "NumProgressed": 13351,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 16,
@@ -1520,7 +1525,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3871
+      "UsersEstimate": 3872
     },
     {
       "ID": "Deadline",
@@ -1528,7 +1533,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -1584,7 +1589,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "Mirrors",
@@ -1608,7 +1613,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 6808
+      "UsersEstimate": 6809
     },
     {
       "ID": "Sole_Survivor",
@@ -1639,15 +1644,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13350,
+      "Progressed": 13351,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-07T21:00:36.3506602+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:09:05.03504+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:46.2750323+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.5820477+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:02:00.3739553+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:09:05.0350791+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:07:27.1846898+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:46.2750521+00:00"
 }

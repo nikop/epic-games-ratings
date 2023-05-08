@@ -2,13 +2,13 @@
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
   "ProductSlug": "fifa-23",
-  "Ranking_Rating": 782,
+  "Ranking_Rating": 783,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.24,
   "RatingHistory": [
     {
@@ -1788,10 +1788,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 43120,
       "NumberOfAwardsMax": 9106
+    },
+    {
+      "Time": "2023-05-08T13:09:35.9645755+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 43196,
+      "NumberOfAwardsMax": 9106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43120,
+  "NumberOfAwards": 43196,
   "NumberOfAwardsMax": 9106,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1811,7 +1817,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5110
+      "Count": 5140
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1823,7 +1829,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5519
+      "Count": 5565
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1856,8 +1862,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
-  "LastChanged": "2023-05-08T10:02:31.8666636+00:00",
+  "LastChanged": "2023-05-08T13:09:35.9645753+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:13.3787471+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:03:51.662475+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:04:57.2163854+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:09:35.964576+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:10:52.5625512+00:00"
 }

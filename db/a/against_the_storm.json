@@ -6,9 +6,9 @@
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.81,
   "NumberOfRatings": 1845,
   "RatingHistory": [
@@ -2220,9 +2220,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14711,
+  "EOS_Progressed": 14712,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3080,6 +3080,11 @@
       "Time": "2023-05-08T10:07:40.2670921+00:00",
       "NumProgressed": 14711,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-08T13:15:13.267018+00:00",
+      "NumProgressed": 14712,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3457,9 +3462,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 88
     },
     {
       "ID": "WinWithoutDeath",
@@ -3490,15 +3495,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14711,
+      "Progressed": 14712,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-07T10:02:06.6238058+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:09:30.9770248+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:15:13.2670168+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:03:35.7839384+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:09:30.9771208+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:09:21.9707502+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:15:13.2670707+00:00"
 }

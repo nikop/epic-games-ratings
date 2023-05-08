@@ -6,14 +6,14 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~31,919 |
-| I read Shakespeare and stuff | 64.00% | ~26,879 |
-| Just a sprinkle | 63.00% | ~26,459 |
-| I'm stumped | 61.00% | ~25,619 |
-| Plant get enough | 61.00% | ~25,619 |
-| It's just the beginning | 59.00% | ~24,779 |
-| This is just my weekend vehicle | 58.00% | ~24,359 |
-| Hard work pays off | 53.00% | ~22,259 |
+| Own use | 76.00% | ~31,921 |
+| I read Shakespeare and stuff | 64.00% | ~26,881 |
+| Just a sprinkle | 63.00% | ~26,461 |
+| I'm stumped | 61.00% | ~25,621 |
+| Plant get enough | 61.00% | ~25,621 |
+| It's just the beginning | 59.00% | ~24,781 |
+| This is just my weekend vehicle | 58.00% | ~24,361 |
+| Hard work pays off | 53.00% | ~22,261 |
 | It's never too late to farm | 46.00% | ~19,320 |
 | All out of Land | 44.00% | ~18,480 |
 | Field Trip | 43.00% | ~18,060 |
@@ -50,8 +50,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~168 |
 | Raisin the stakes | 0.30% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,999 (Ranked 78)  
-Completed: 5 (0.01%) (Ranked 184)  
+Progressed: 42,001 (Ranked 78)  
+Completed: 5 (0.01%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,10 +68,10 @@ Completed: 5 (0.01%) (Ranked 184)
 | 2023-05-05 | 41,865 | 5 |
 | 2023-05-06 | 41,914 | 5 |
 | 2023-05-07 | 41,978 | 5 |
-| 2023-05-08 | 41,999 | 5 |
+| 2023-05-08 | 42,001 | 5 |
 ## Awards
 Max (Great for Beginners): 4,175  (Ranked 70)  
-Sum: 36,239 (Ranked 31)  
+Sum: 36,241 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -82,7 +82,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 3,675 |
 | This game is Highly Recommended | 3,640 |
 | This game has Diverse Characters | 3,572 |
-| This game has Amazing Storytelling | 3,538 |
+| This game has Amazing Storytelling | 3,540 |
 | This game has Amazing Characters | 3,159 |
 | This game has a Creative Community | 2,969 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -201,4 +201,4 @@ Diff (max vs sum): 39
 | 2023-05-05 | 4.70 | - | 4,170 | 36,181 |
 | 2023-05-06 | 4.70 | - | 4,170 | 36,194 |
 | 2023-05-07 | 4.70 | - | 4,175 | 36,235 |
-| 2023-05-08 | 4.70 | - | 4,175 | 36,239 |
+| 2023-05-08 | 4.70 | - | 4,175 | 36,241 |

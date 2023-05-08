@@ -2,13 +2,13 @@
   "ID": "0bd3e505924240adb702295fa08c1eff",
   "Name": "Wolfenstein: The New Order - Worldwide",
   "ProductSlug": "wolfenstein-the-new-order",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 413,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.58,
   "NumberOfRatings": 61135,
   "RatingHistory": [
@@ -2653,6 +2653,6 @@
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
   "LastChanged": "2023-05-08T12:01:55.7742038+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.29454+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:01:55.774205+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:06:58.0009105+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:07:20.9891487+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:12:50.824665+00:00"
 }

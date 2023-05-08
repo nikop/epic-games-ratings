@@ -3,12 +3,12 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 37,
-  "Ranking_Popularity": 249,
+  "Ranking_Popularity": 250,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 89,
-  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.85,
   "NumberOfRatings": 1331,
   "RatingHistory": [
@@ -1984,9 +1984,9 @@
       "ID": "BossTowerDefeated",
       "SetID": "3ojhj46",
       "Name": "Suns and Soldiers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 43
     },
     {
       "ID": "BoxerBoss",
@@ -2134,8 +2134,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-06T20:00:16.7467137+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:09:11.7061086+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:53.1793943+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.4659285+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:02:09.0099753+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:09:11.7061764+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:07:39.0837213+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:53.1794305+00:00"
 }

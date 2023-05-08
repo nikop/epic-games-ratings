@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.55,
   "NumberOfRatings": 266,
   "RatingHistory": [
@@ -476,9 +476,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2332,
+  "EOS_Progressed": 2333,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -761,6 +761,11 @@
       "Time": "2023-05-08T09:07:43.0941949+00:00",
       "NumProgressed": 2332,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T13:14:38.2195981+00:00",
+      "NumProgressed": 2333,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -812,7 +817,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "CrowdPleaser",
@@ -828,7 +833,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "Eureka_23",
@@ -836,7 +841,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -876,7 +881,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "HouseofCards_19",
@@ -956,7 +961,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "ReadyforWinter_42",
@@ -964,7 +969,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -972,7 +977,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -1107,15 +1112,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2332,
+      "Progressed": 2333,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:08:46.8864416+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:38.2195978+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:02.1241057+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:59:34.3965477+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:08:46.8865092+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:04:59.9335563+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:38.2196522+00:00"
 }

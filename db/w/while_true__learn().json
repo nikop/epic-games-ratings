@@ -2,11 +2,11 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 515,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 36,
   "Rating": 4.51,
@@ -466,7 +466,7 @@
       "Count": 131
     }
   ],
-  "EOS_Progressed": 587380,
+  "EOS_Progressed": 587387,
   "EOS_Completed": 476,
   "EOS_NewPlayers": 884,
   "EOS_NewCompleters": 3,
@@ -1991,6 +1991,11 @@
       "Time": "2023-05-08T12:09:06.5603518+00:00",
       "NumProgressed": 587380,
       "NumCompleted": 476
+    },
+    {
+      "Time": "2023-05-08T13:14:47.7609821+00:00",
+      "NumProgressed": 587387,
+      "NumCompleted": 476
     }
   ],
   "TotalAchievements": 28,
@@ -2050,7 +2055,7 @@
       "Name": "README reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17621
+      "UsersEstimate": 17622
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2066,7 +2071,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 352428
+      "UsersEstimate": 352432
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2082,7 +2087,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 258447
+      "UsersEstimate": 258450
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2098,7 +2103,7 @@
       "Name": "Cosplay",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 76359
+      "UsersEstimate": 76360
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2106,7 +2111,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 76359
+      "UsersEstimate": 76360
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2114,7 +2119,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 281942
+      "UsersEstimate": 281946
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -2122,7 +2127,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 287816
+      "UsersEstimate": 287820
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2130,7 +2135,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 546263
+      "UsersEstimate": 546270
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2138,7 +2143,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 140971
+      "UsersEstimate": 140973
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -2146,7 +2151,7 @@
       "Name": "Data scientist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 17621
+      "UsersEstimate": 17622
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -2162,7 +2167,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 387671
+      "UsersEstimate": 387675
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -2170,7 +2175,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 105728
+      "UsersEstimate": 105730
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -2178,7 +2183,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 311311
+      "UsersEstimate": 311315
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -2186,7 +2191,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 46990
+      "UsersEstimate": 46991
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2194,7 +2199,7 @@
       "Name": "One small step for a man...",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17621
+      "UsersEstimate": 17622
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2225,15 +2230,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 587380,
+      "Progressed": 587387,
       "Completed": 476
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-01-16T15:57:42.1375211+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:09:06.5603509+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:47.7609813+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.2850931+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:01:54.3574038+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:09:06.5604105+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:07:19.6376349+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:47.7610152+00:00"
 }

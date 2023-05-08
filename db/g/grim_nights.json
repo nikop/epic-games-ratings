@@ -2,10 +2,10 @@
   "ID": "9d5393fd5460430e80d2bfe9fcd55d6a",
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
-  "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Progress": 311,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-04-28T10:59:29.2849973+00:00",
@@ -117,9 +117,9 @@
       "ID": "ach_day10",
       "SetID": "c2c0fb6",
       "Name": "Still alive!",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_day15",
@@ -181,9 +181,9 @@
       "ID": "ach_slay1000",
       "SetID": "c2c0fb6",
       "Name": "Slaughter",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_slay2000",
@@ -206,8 +206,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:08:39.3898552+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:31.1026836+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:02:07.0822561+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:08:39.3898781+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:07:33.8119992+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:31.1026967+00:00"
 }

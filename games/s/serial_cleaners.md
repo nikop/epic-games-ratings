@@ -30,7 +30,7 @@
 | Hackathon | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 228)  
-Completed: 5 (3.16%) (Ranked 39)  
+Completed: 5 (3.16%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

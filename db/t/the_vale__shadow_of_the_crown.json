@@ -3,9 +3,9 @@
   "Name": "The Vale: Shadow of the Crown",
   "ProductSlug": "the-vale-shadow-of-the-crown",
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:28.1527485+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.1527481+00:00",
   "LastChanged": "2023-03-31T05:58:28.1527483+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:43.9219549+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:02:56.6968952+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:07:26.6144598+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:08:31.3955052+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:13:19.5023221+00:00"
 }

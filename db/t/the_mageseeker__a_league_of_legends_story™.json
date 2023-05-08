@@ -6,9 +6,9 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.73,
   "RatingHistory": [
     {
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1921,
+  "EOS_Progressed": 1922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -958,6 +958,11 @@
       "Time": "2023-05-08T11:08:10.9112533+00:00",
       "NumProgressed": 1921,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T13:14:31.9171526+00:00",
+      "NumProgressed": 1922,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1017,7 +1022,7 @@
       "Name": "Elemental master",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1033,7 +1038,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1049,7 +1054,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1081,7 +1086,7 @@
       "Name": "I chose my shackles",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -1105,7 +1110,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1121,7 +1126,7 @@
       "Name": "Do you trust me?",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -1145,7 +1150,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1153,7 +1158,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1185,7 +1190,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1265,7 +1270,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "STB_PET_DOG",
@@ -1287,9 +1292,9 @@
       "ID": "STB_PLATINUM",
       "SetID": "3pe2bac",
       "Name": "The Unshackled",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_ALL",
@@ -1345,7 +1350,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1361,7 +1366,7 @@
       "Name": "Full equipped",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -1385,14 +1390,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1921,
+      "Progressed": 1922,
       "Completed": 1
     }
   ],
@@ -1400,8 +1405,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:08:39.9946503+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:31.9171522+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:59:27.3361793+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:08:39.9947468+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:04:49.1480879+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:31.917206+00:00"
 }

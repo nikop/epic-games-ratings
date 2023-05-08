@@ -1,11 +1,11 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.50 (Ranked 531)  
+Rating: 4.50 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~876 |
+| Fresh Prince of Trudograd | 87.00% | ~877 |
 | Household | 6.00% | ~60 |
 | An Old Friend | 6.00% | ~60 |
 | Lot 49 | 4.00% | ~40 |
@@ -38,8 +38,8 @@ Rating: 4.50 (Ranked 531)
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,007 (Ranked 161)  
-Completed: 0 (0.00%) (Ranked 192)  
+Progressed: 1,008 (Ranked 161)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,6 +51,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-04-30 | 1,004 | 0 |
 | 2023-05-01 | 1,006 | 0 |
 | 2023-05-02 | 1,007 | 0 |
+| 2023-05-08 | 1,008 | 0 |
 ## Awards
 Max (Character Customization): 20  (Ranked 483)  
 Sum: 20 (Ranked 483)  

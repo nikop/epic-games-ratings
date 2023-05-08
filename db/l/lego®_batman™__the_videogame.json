@@ -2,13 +2,13 @@
   "ID": "843c8ce683474448bb104a9651e8f325",
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
   "ProductSlug": "lego-batman",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.52,
   "NumberOfRatings": 523,
   "RatingHistory": [
@@ -524,18 +524,24 @@
     {
       "Time": "2023-02-20T20:57:19.4098947+00:00",
       "Rating": 4.52
+    },
+    {
+      "Time": "2023-05-08T13:04:18.182537+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 183,
+      "NumberOfAwardsMax": 183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 182,
-  "NumberOfAwardsMax": 182,
+  "NumberOfAwards": 183,
+  "NumberOfAwardsMax": 183,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 182
+      "Count": 183
     }
   ],
   "EOS_Progressed": 0,
@@ -549,8 +555,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
-  "LastChanged": "2023-02-20T20:57:19.4098944+00:00",
+  "LastChanged": "2023-05-08T13:04:18.1825369+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:40.3137817+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:58:49.8489095+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:06:02.9785885+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:04:18.1825374+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:11:57.1520875+00:00"
 }

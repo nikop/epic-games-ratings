@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 447)  
+Rating: 4.56 (Ranked 448)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -75,7 +75,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 46,064 (Ranked 74)  
-Completed: 44 (0.10%) (Ranked 151)  
+Completed: 44 (0.10%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

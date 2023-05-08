@@ -2,13 +2,13 @@
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
   "ProductSlug": "atom-rpg-trudograd-a97244",
-  "Ranking_Rating": 531,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.5,
   "RatingHistory": [
     {
@@ -174,9 +174,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1007,
+  "EOS_Progressed": 1008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -273,6 +273,11 @@
     {
       "Time": "2023-05-02T16:02:24.5438788+00:00",
       "NumProgressed": 1007,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T13:14:32.4771175+00:00",
+      "NumProgressed": 1008,
       "NumCompleted": 0
     }
   ],
@@ -533,14 +538,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1007,
+      "Progressed": 1008,
       "Completed": 0
     }
   ],
@@ -548,8 +553,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:08:40.6750479+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:32.4771169+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.550647+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:58:53.3991048+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:08:40.6750879+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:04:21.191549+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:32.4771409+00:00"
 }

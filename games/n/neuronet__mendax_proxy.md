@@ -34,6 +34,7 @@
 | The Counsellor | 19.00% | ~3 |
 | Full Coverage | 13.00% | ~2 |
 | Obligatory Fraudulent Baking | 13.00% | ~2 |
+| Overseer | 13.00% | ~2 |
 | The Provocateur | 13.00% | ~2 |
 | Social Butterfly | 13.00% | ~2 |
 | Zonk! | 13.00% | ~2 |
@@ -41,7 +42,6 @@
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
 | Double Agent | 6.00% | ~1 |
 | Leave It to the Professionals | 6.00% | ~1 |
-| Overseer | 6.00% | ~1 |
 | Ring of Fire | 6.00% | ~1 |
 | Tastes Like Regret | 6.00% | ~1 |
 | The Spice of Life | 6.00% | ~1 |
@@ -54,7 +54,7 @@
 | Wilful Ignorance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 301)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

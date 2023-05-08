@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 782)  
+Rating: 4.24 (Ranked 783)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -64,7 +64,7 @@ Rating: 4.24 (Ranked 782)
 | Three Birds With One Stone | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,542 (Ranked 148)  
-Completed: 10 (0.65%) (Ranked 94)  
+Completed: 10 (0.65%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

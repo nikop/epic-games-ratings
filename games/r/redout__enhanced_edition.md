@@ -1,17 +1,17 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 515)  
+Rating: 4.51 (Ranked 516)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | VANGUARD | 41.00% | ~90,728 |
 | NATURAL BORN WINNER | 32.00% | ~70,812 |
-| CALLING HOUSTON | 28.00% | ~61,960 |
+| CALLING HOUSTON | 28.00% | ~61,961 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~48,683 |
 | SNEAKY SNEAKY | 21.00% | ~46,470 |
-| GT9STRADALE | 20.00% | ~44,257 |
+| GT9STRADALE | 20.00% | ~44,258 |
 | CHALLENGER | 11.00% | ~24,342 |
 | ON A ROLL | 9.00% | ~19,916 |
 | FASTER THAN EVER | 8.00% | ~17,703 |
@@ -19,8 +19,8 @@ Number of Ratings: 274  (23.09.2022)
 | CHALLENGE THE WORLD | 7.00% | ~15,490 |
 | PHOTOFINISH | 7.00% | ~15,490 |
 | QAREEN | 5.00% | ~11,064 |
-| SHOWOFF | 4.00% | ~8,851 |
-| TAKATORA | 4.00% | ~8,851 |
+| SHOWOFF | 4.00% | ~8,852 |
+| TAKATORA | 4.00% | ~8,852 |
 | GILA | 3.00% | ~6,639 |
 | PRO | 2.00% | ~4,426 |
 | RESPWND | 2.00% | ~4,426 |
@@ -41,8 +41,8 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~443 |
 | ENLIGHTENED | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,287 (Ranked 43)  
-Completed: 41 (0.02%) (Ranked 176)  
+Progressed: 221,288 (Ranked 43)  
+Completed: 41 (0.02%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,7 +59,7 @@ Completed: 41 (0.02%) (Ranked 176)
 | 2023-05-05 | 220,973 | 41 |
 | 2023-05-06 | 221,117 | 41 |
 | 2023-05-07 | 221,246 | 41 |
-| 2023-05-08 | 221,287 | 41 |
+| 2023-05-08 | 221,288 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

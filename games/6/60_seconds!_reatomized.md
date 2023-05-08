@@ -38,9 +38,9 @@ Rating: 4.63 (Ranked 325)
 | Men in Black | 11.00% | ~436 |
 | No stone unturned | 10.00% | ~396 |
 | Unplugged | 7.00% | ~277 |
+| Holidays! | 6.00% | ~238 |
 | Mad Hatter | 6.00% | ~238 |
 | Yes Man | 6.00% | ~238 |
-| Holidays! | 5.00% | ~198 |
 | Lumbersexual | 5.00% | ~198 |
 | Feline Domination | 4.00% | ~158 |
 | Take that, Brundlefly! | 4.00% | ~158 |
@@ -67,7 +67,7 @@ Rating: 4.63 (Ranked 325)
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,961 (Ranked 127)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

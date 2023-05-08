@@ -6,9 +6,9 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.63,
   "RatingHistory": [
     {
@@ -749,9 +749,9 @@
       "ID": "ACH_HOLIDAYS",
       "SetID": "5nj1ea3",
       "Name": "Holidays!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_KAMIKAZE",
@@ -966,8 +966,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-04-29T09:59:31.6059591+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:09:37.7067247+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:15:19.9739086+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:25.8423594+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:04:16.6604431+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:09:37.7068114+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:10:04.1834772+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:15:19.973963+00:00"
 }

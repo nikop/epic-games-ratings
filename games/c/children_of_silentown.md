@@ -11,7 +11,7 @@
 | Egghead Lucy | 75.00% | ~108 |
 | Puppy | 61.00% | ~88 |
 | Coal's fur | 58.00% | ~84 |
-| Blue's drawing | 53.00% | ~76 |
+| Blue's drawing | 54.00% | ~78 |
 | Glass shards | 44.00% | ~63 |
 | Mysterious footprints | 44.00% | ~63 |
 | Complicated padlock | 43.00% | ~62 |
@@ -32,7 +32,7 @@
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 144 (Ranked 238)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

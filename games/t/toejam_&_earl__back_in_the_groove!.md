@@ -1,7 +1,7 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.32 (Ranked 739)  
+Rating: 4.32 (Ranked 740)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -55,8 +55,8 @@ Rating: 4.32 (Ranked 739)
 | Why Do I Keep Doing That? | 0.10% | ~54 |
 | Hey, You Did It! | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,272 (Ranked 71)  
-Completed: 4 (0.01%) (Ranked 184)  
+Progressed: 54,273 (Ranked 71)  
+Completed: 4 (0.01%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 4 (0.01%) (Ranked 184)
 | 2023-05-05 | 54,203 | 4 |
 | 2023-05-06 | 54,235 | 4 |
 | 2023-05-07 | 54,267 | 4 |
-| 2023-05-08 | 54,272 | 4 |
+| 2023-05-08 | 54,273 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

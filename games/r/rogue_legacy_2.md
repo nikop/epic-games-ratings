@@ -10,6 +10,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Spells and Swords | 0.30% | ~64 |
 | Harvest and Home | 0.20% | ~43 |
 | Poise and Poisons | 0.20% | ~43 |
+| Suns and Soldiers | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~21 |
 | Black-shoppe | 0.10% | ~21 |
 | Full House | 0.10% | ~21 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 0.10% | ~21 |
 | For Love | 0.10% | ~21 |
 | For Pride | 0.10% | ~21 |
-| Suns and Soldiers | 0.10% | ~21 |
 | K.O. | 0.10% | ~21 |
 | No Harm in Looking | 0.10% | ~21 |
 | Good Practice | 0.10% | ~21 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,466 (Ranked 89)  
-Completed: 35 (0.16%) (Ranked 138)  
+Completed: 35 (0.16%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,9 +66,9 @@ Completed: 35 (0.16%) (Ranked 138)
 | 2023-05-07 | 21,462 | 35 |
 | 2023-05-08 | 21,466 | 35 |
 ## Awards
-Max (Extremely Fun): 215  (Ranked 249)  
+Max (Extremely Fun): 215  (Ranked 250)  
 Sum: 1,622 (Ranked 201)  
-Diff (max vs sum): 48  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 215 |

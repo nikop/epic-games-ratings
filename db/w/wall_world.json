@@ -2,14 +2,24 @@
   "ID": "98bcea8e884042acb6a356c774f7af1a",
   "Name": "Wall World",
   "ProductSlug": "wall-world-02e132",
+  "Ranking_Rating": 376,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-04-06T01:56:16.0671255+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-08T13:08:25.8607884+00:00",
+      "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -30,8 +40,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-06T01:56:16.0671216+00:00",
   "FirstSeenRating": "2023-04-06T01:56:16.0671254+00:00",
-  "LastChanged": "2023-04-06T01:56:16.0671254+00:00",
+  "LastChanged": "2023-05-08T13:08:25.8607883+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:40.3347803+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:02:50.2737133+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:07:23.8149527+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:08:25.8607888+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:13:16.7400101+00:00"
 }

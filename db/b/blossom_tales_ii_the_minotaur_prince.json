@@ -3,9 +3,9 @@
   "Name": "Blossom Tales II The Minotaur Prince",
   "ProductSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
   "Ranking_EOS_Progress": 308,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:45.5786698+00:00",
@@ -154,9 +154,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "2e4ldac",
       "Name": "The Hero",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -211,8 +211,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:08:49.4216056+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:40.7529629+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:41.1116058+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:00:58.5770362+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:08:49.421635+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:06:15.4338502+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:40.7529783+00:00"
 }

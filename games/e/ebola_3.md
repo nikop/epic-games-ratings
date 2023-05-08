@@ -22,6 +22,7 @@
 | Fraternal help ✔ | 5.00% | ~8 |
 | King of survival ✔ | 5.00% | ~8 |
 | Thirst ✔ | 5.00% | ~8 |
+| Alice ✔ | 4.00% | ~6 |
 | Brain ✔ | 4.00% | ~6 |
 | Eva ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
@@ -29,7 +30,6 @@
 | Infected ✔ | 4.00% | ~6 |
 | All secrets revealed ✔ | 4.00% | ~6 |
 | Boss 1 ✔ | 3.00% | ~5 |
-| Alice ✔ | 3.00% | ~5 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Food ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 233)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

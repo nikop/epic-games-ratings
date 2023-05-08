@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 551)  
+Rating: 4.49 (Ranked 552)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -58,7 +58,7 @@ Rating: 4.49 (Ranked 551)
 | Mycophile | 1.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,629 (Ranked 88)  
-Completed: 39 (0.18%) (Ranked 136)  
+Completed: 39 (0.18%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

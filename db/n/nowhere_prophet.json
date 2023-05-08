@@ -2,13 +2,13 @@
   "ID": "41ac9425cf1a4867b2b73c9838dbc6f2",
   "Name": "Nowhere Prophet",
   "ProductSlug": "nowhere-prophet-4790db",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.52,
   "NumberOfRatings": 21,
   "RatingHistory": [
@@ -63,6 +63,6 @@
   "FirstSeenRating": "2022-09-21T12:02:17.4428999+00:00",
   "LastChanged": "2023-03-31T05:57:59.5961062+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:30.8411565+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:04:26.8980903+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:08:16.0878011+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:10:16.6951905+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:08.1040939+00:00"
 }

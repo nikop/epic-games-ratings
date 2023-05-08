@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Don't Panic! | 97.00% | ~567 |
+| Space Colonization | 80.00% | ~468 |
 | Friendzone | 79.00% | ~462 |
-| Space Colonization | 79.00% | ~462 |
 | Hello World | 74.00% | ~433 |
 | Space Engineer | 62.00% | ~363 |
 | Tinkerer | 62.00% | ~363 |
@@ -50,7 +50,7 @@
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 585 (Ranked 181)  
-Completed: 1 (0.17%) (Ranked 137)  
+Completed: 1 (0.17%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

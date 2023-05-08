@@ -18,13 +18,13 @@
 | Producer | 60.00% | ~3 |
 | Way of Iron | 60.00% | ~3 |
 | All around the World | 60.00% | ~3 |
+| Bold and beautiful | 60.00% | ~3 |
 | Stoker | 40.00% | ~2 |
 | Seven at one stroke | 40.00% | ~2 |
 | Facility Manager | 40.00% | ~2 |
 | General Manager | 40.00% | ~2 |
 | Brainstorm | 40.00% | ~2 |
 | Access granted | 40.00% | ~2 |
-| Bold and beautiful | 40.00% | ~2 |
 | Mind the Gap | 40.00% | ~2 |
 | Right through the middle | 40.00% | ~2 |
 | Bridge Builder | 40.00% | ~2 |
@@ -61,7 +61,7 @@
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 326)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

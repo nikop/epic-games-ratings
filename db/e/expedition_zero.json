@@ -3,9 +3,9 @@
   "Name": "Expedition Zero",
   "ProductSlug": "expedition-zero-d2c4c3",
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:06.558791+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.5587908+00:00",
   "LastChanged": "2023-03-31T05:58:06.5587909+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:55.8186637+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:03:17.1378564+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:07:38.6955059+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:08:59.9502516+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:13:31.2173976+00:00"
 }

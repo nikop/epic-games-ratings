@@ -1,38 +1,38 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 705)  
+Rating: 4.36 (Ranked 706)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~35,584 |
-| INFUSED WITH LIGHT | 52.00% | ~27,617 |
-| FOXIN' AROUND | 28.00% | ~14,871 |
-| FETCH | 27.00% | ~14,340 |
-| BLOOMS OF LIGHT | 26.00% | ~13,809 |
-| BEST FRIENDS | 22.00% | ~11,684 |
-| AWAKEN | 21.00% | ~11,153 |
-| ERADICATE | 20.00% | ~10,622 |
-| SPIRIT BARK | 20.00% | ~10,622 |
-| GARDEN OF LIGHT | 18.00% | ~9,560 |
-| SPIRIT FORM | 15.00% | ~7,966 |
-| WRITTEN IN STONE | 15.00% | ~7,966 |
-| UPROOTING DARKNESS | 14.00% | ~7,435 |
-| WEIGHTLESS | 11.00% | ~5,842 |
-| SPIRIT DASH | 10.00% | ~5,311 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~35,589 |
+| INFUSED WITH LIGHT | 52.00% | ~27,621 |
+| FOXIN' AROUND | 28.00% | ~14,873 |
+| FETCH | 27.00% | ~14,342 |
+| BLOOMS OF LIGHT | 26.00% | ~13,811 |
+| BEST FRIENDS | 22.00% | ~11,686 |
+| AWAKEN | 21.00% | ~11,155 |
+| ERADICATE | 20.00% | ~10,624 |
+| SPIRIT BARK | 20.00% | ~10,624 |
+| GARDEN OF LIGHT | 18.00% | ~9,561 |
+| SPIRIT FORM | 15.00% | ~7,968 |
+| WRITTEN IN STONE | 15.00% | ~7,968 |
+| UPROOTING DARKNESS | 14.00% | ~7,437 |
+| WEIGHTLESS | 11.00% | ~5,843 |
+| SPIRIT DASH | 10.00% | ~5,312 |
 | OLD COMPANION | 8.00% | ~4,249 |
 | PLAGUE DOCTOR | 8.00% | ~4,249 |
 | MATCH MAKER | 7.00% | ~3,718 |
 | NORTHERN LIGHTS | 7.00% | ~3,718 |
 | SPIRITED AWAY | 7.00% | ~3,718 |
-| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,593 |
+| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,594 |
 | ANCIENT HISTORY | 2.00% | ~1,062 |
 | NONE FORGOTTEN | 2.00% | ~1,062 |
 | KINDRED SPIRITS | 0.60% | ~319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,110 (Ranked 72)  
-Completed: 248 (0.47%) (Ranked 100)  
+Progressed: 53,118 (Ranked 72)  
+Completed: 248 (0.47%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 248 (0.47%) (Ranked 100)
 | 2023-05-05 | 52,690 | 240 |
 | 2023-05-06 | 52,864 | 246 |
 | 2023-05-07 | 53,066 | 248 |
-| 2023-05-08 | 53,110 | 248 |
+| 2023-05-08 | 53,118 | 248 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 463)  
 Sum: 93 (Ranked 400)  

@@ -1,25 +1,25 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.27 (Ranked 918)  
+Rating: 3.27 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 87.00% | ~1,248 |
+| I Like My Stakes Rare! | 87.00% | ~1,249 |
 | Home Is Where the Heart Is | 68.00% | ~976 |
 | Wounded Whispers | 68.00% | ~976 |
-| Ne Plus Ultra | 67.00% | ~961 |
-| Blood Will Have Blood | 55.00% | ~789 |
+| Ne Plus Ultra | 67.00% | ~962 |
+| Blood Will Have Blood | 55.00% | ~790 |
 | ICU | 51.00% | ~732 |
 | Catch and Release | 50.00% | ~718 |
-| Peek-a-boo | 49.00% | ~703 |
+| Peek-a-boo | 49.00% | ~704 |
 | Sucks To Be You | 48.00% | ~689 |
 | Welcome to the Neighborhood | 42.00% | ~603 |
 | Fly Fisher | 39.00% | ~560 |
-| Throw The First Stone | 38.00% | ~545 |
+| Throw The First Stone | 38.00% | ~546 |
 | Enter of Your Own Free Will | 36.00% | ~517 |
-| Heart Attack | 35.00% | ~502 |
-| Skin of Their Teeth | 35.00% | ~502 |
+| Heart Attack | 35.00% | ~503 |
+| Skin of Their Teeth | 35.00% | ~503 |
 | Grounded | 26.00% | ~373 |
 | Bad Wiring | 23.00% | ~330 |
 | I Spit On Your Grave | 22.00% | ~316 |
@@ -30,11 +30,11 @@ Rating: 3.27 (Ranked 918)
 | Starve the Beast | 10.00% | ~144 |
 | Block Party | 8.00% | ~115 |
 | From the Shadows | 6.00% | ~86 |
+| Revelations | 4.00% | ~57 |
 | Bell-ringer | 4.00% | ~57 |
 | Right This Way | 4.00% | ~57 |
 | Nice Try | 4.00% | ~57 |
 | Enemy of My Enemy | 4.00% | ~57 |
-| Revelations | 3.00% | ~43 |
 | Contingency Plans | 3.00% | ~43 |
 | Sic Transit Umbra | 3.00% | ~43 |
 | Silence Is Golden | 3.00% | ~43 |
@@ -72,8 +72,8 @@ Rating: 3.27 (Ranked 918)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,435 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 192)  
+Progressed: 1,436 (Ranked 151)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 1,266 | 0 |
 | 2023-05-06 | 1,344 | 0 |
 | 2023-05-07 | 1,412 | 0 |
-| 2023-05-08 | 1,435 | 0 |
+| 2023-05-08 | 1,436 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

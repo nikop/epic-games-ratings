@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.40 (Ranked 917)  
+Rating: 3.40 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~845 |
-| World Map | 80.00% | ~727 |
-| Temple of Eternals | 55.00% | ~500 |
-| Prestigious | 51.00% | ~464 |
+| Victor | 93.00% | ~847 |
+| World Map | 79.00% | ~720 |
+| Temple of Eternals | 54.00% | ~492 |
+| Prestigious | 51.00% | ~465 |
 | Fellowship Power | 39.00% | ~355 |
-| Guild Power | 23.00% | ~209 |
+| Guild Power | 23.00% | ~210 |
 | Prestigious x10 | 19.00% | ~173 |
-| The game is on | 15.00% | ~136 |
-| Exotic Merchant | 14.00% | ~127 |
+| The game is on | 15.00% | ~137 |
+| Exotic Merchant | 14.00% | ~128 |
 | Dragon Clicker | 13.00% | ~118 |
 | Inspection | 13.00% | ~118 |
 | Miner Clicker | 13.00% | ~118 |
@@ -24,12 +24,12 @@ Rating: 3.40 (Ranked 917)
 | Lieutenant | 7.00% | ~64 |
 | Natural Talent | 6.00% | ~55 |
 | The Unstoppable | 6.00% | ~55 |
-| Superior | 5.00% | ~45 |
+| Superior | 5.00% | ~46 |
 | Daily Quest Completionist | 4.00% | ~36 |
 | Milestone collector | 4.00% | ~36 |
 | Scientist | 4.00% | ~36 |
+| Frostfire Liberator | 3.00% | ~27 |
 | Background Story | 2.00% | ~18 |
-| Frostfire Liberator | 2.00% | ~18 |
 | Here We Go Again | 2.00% | ~18 |
 | Hunter | 2.00% | ~18 |
 | Mastery | 2.00% | ~18 |
@@ -51,10 +51,10 @@ Rating: 3.40 (Ranked 917)
 | Master Enchanter | 0.90% | ~8 |
 | Weekly Quest Completionist | 0.80% | ~7 |
 | Dragon Slayer | 0.70% | ~6 |
-| Enchanting skill | 0.60% | ~5 |
-| Engineer Mastery | 0.60% | ~5 |
-| Legendary | 0.60% | ~5 |
-| Sailor | 0.60% | ~5 |
+| Enchanting skill | 0.50% | ~5 |
+| Engineer Mastery | 0.50% | ~5 |
+| Legendary | 0.50% | ~5 |
+| Sailor | 0.50% | ~5 |
 | Blueprint Upgrades | 0.40% | ~4 |
 | Crystal Mining | 0.40% | ~4 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
@@ -81,8 +81,8 @@ Rating: 3.40 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909 (Ranked 164)  
-Completed: 1 (0.11%) (Ranked 148)  
+Progressed: 911 (Ranked 164)  
+Completed: 1 (0.11%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 1 (0.11%) (Ranked 148)
 | 2023-05-05 | 857 | 1 |
 | 2023-05-06 | 881 | 1 |
 | 2023-05-07 | 903 | 1 |
-| 2023-05-08 | 909 | 1 |
+| 2023-05-08 | 911 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

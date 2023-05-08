@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 918,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 3.27,
   "RatingHistory": [
     {
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1435,
+  "EOS_Progressed": 1436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1270,
+  "EOS_NewPlayers": 1271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-05-08T12:08:34.622154+00:00",
       "NumProgressed": 1435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T13:14:26.6589879+00:00",
+      "NumProgressed": 1436,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -806,9 +811,9 @@
       "ID": "Achievement_002",
       "SetID": "6b34g18",
       "Name": "Revelations",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_003",
@@ -848,7 +853,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "Achievement_009",
@@ -856,7 +861,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "Achievement_010",
@@ -936,7 +941,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Achievement_020",
@@ -1000,7 +1005,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "Achievement_028",
@@ -1016,7 +1021,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "Achievement_030",
@@ -1104,7 +1109,7 @@
       "Name": "Heart Attack",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "Achievement_041",
@@ -1136,7 +1141,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "Achievement_046",
@@ -1327,7 +1332,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1435,
+      "Progressed": 1436,
       "Completed": 0
     }
   ],
@@ -1335,8 +1340,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-08T11:59:49.0954716+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:08:34.6221532+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:26.6589875+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:59:49.0954728+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:08:34.6222383+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:05:12.4949813+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:26.6590654+00:00"
 }

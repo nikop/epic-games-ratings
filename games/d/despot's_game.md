@@ -1,7 +1,7 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 531)  
+Rating: 4.50 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,8 +11,8 @@ Rating: 4.50 (Ranked 531)
 | Knowledge is Power | 43.00% | ~152 |
 | Impossible Cube | 42.00% | ~149 |
 | No Mercy | 40.00% | ~142 |
+| The Return of a Rat | 39.00% | ~138 |
 | Through the Darkness | 39.00% | ~138 |
-| The Return of a Rat | 38.00% | ~135 |
 | Fat of the Earth | 32.00% | ~113 |
 | Last Man Standing | 31.00% | ~110 |
 | Catch Jonathan_tostar | 25.00% | ~88 |
@@ -42,7 +42,7 @@ Rating: 4.50 (Ranked 531)
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 354 (Ranked 197)  
-Completed: 1 (0.28%) (Ranked 123)  
+Completed: 1 (0.28%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

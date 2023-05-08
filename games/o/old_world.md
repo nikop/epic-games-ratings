@@ -6,54 +6,54 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,028 |
-| Settler | 82.00% | ~8,919 |
+| Play a Single Player Game | 83.00% | ~9,029 |
+| Settler | 82.00% | ~8,920 |
 | Explorer | 80.00% | ~8,702 |
 | Friendly Family | 76.00% | ~8,267 |
-| Intrepid | 70.00% | ~7,614 |
+| Intrepid | 70.00% | ~7,615 |
 | Able | 62.00% | ~6,744 |
 | Architect | 62.00% | ~6,744 |
 | Mason | 62.00% | ~6,744 |
-| Strong | 61.00% | ~6,635 |
-| Hanging Gardens | 60.00% | ~6,526 |
-| Noble | 59.00% | ~6,417 |
-| Oracle | 59.00% | ~6,417 |
+| Strong | 61.00% | ~6,636 |
+| Hanging Gardens | 60.00% | ~6,527 |
+| Noble | 59.00% | ~6,418 |
+| Oracle | 59.00% | ~6,418 |
 | Good | 57.00% | ~6,200 |
-| Just | 56.00% | ~6,091 |
-| Judaism | 56.00% | ~6,091 |
-| Keystone | 55.00% | ~5,982 |
+| Just | 56.00% | ~6,092 |
+| Judaism | 56.00% | ~6,092 |
+| Keystone | 55.00% | ~5,983 |
 | Glorious | 53.00% | ~5,765 |
 | Trade Caravan | 53.00% | ~5,765 |
-| Naming Landmarks | 51.00% | ~5,547 |
-| Learned | 50.00% | ~5,438 |
-| Zoroastrianism | 50.00% | ~5,438 |
+| Naming Landmarks | 51.00% | ~5,548 |
+| Learned | 50.00% | ~5,439 |
+| Zoroastrianism | 50.00% | ~5,439 |
 | Fountainhead | 49.00% | ~5,330 |
 | Pioneer | 49.00% | ~5,330 |
 | Developing Cities | 49.00% | ~5,330 |
-| Magnificent | 47.00% | ~5,112 |
-| Strong Cities | 46.00% | ~5,003 |
-| Pyramids | 46.00% | ~5,003 |
-| Greek Paganism | 46.00% | ~5,003 |
+| Magnificent | 47.00% | ~5,113 |
+| Strong Cities | 46.00% | ~5,004 |
+| Pyramids | 46.00% | ~5,004 |
+| Greek Paganism | 46.00% | ~5,004 |
 | Warrior | 45.00% | ~4,895 |
 | Ishtar Gate | 45.00% | ~4,895 |
 | Babylonian Paganism | 44.00% | ~4,786 |
-| Enlightened | 43.00% | ~4,677 |
-| Great Ziggurat | 42.00% | ~4,568 |
-| Christianity | 42.00% | ~4,568 |
-| Roman Paganism | 42.00% | ~4,568 |
+| Enlightened | 43.00% | ~4,678 |
+| Great Ziggurat | 42.00% | ~4,569 |
+| Christianity | 42.00% | ~4,569 |
+| Roman Paganism | 42.00% | ~4,569 |
 | Great | 41.00% | ~4,460 |
 | Lighthouse | 41.00% | ~4,460 |
 | Able Difficulty | 40.00% | ~4,351 |
 | Ambitious | 39.00% | ~4,242 |
 | Carthaginian Paganism | 39.00% | ~4,242 |
-| Necropolis | 38.00% | ~4,133 |
-| Egyptian Paganism | 37.00% | ~4,024 |
+| Necropolis | 38.00% | ~4,134 |
+| Egyptian Paganism | 37.00% | ~4,025 |
 | Apadana | 36.00% | ~3,916 |
 | Musaeum | 36.00% | ~3,916 |
 | Manichaeism | 36.00% | ~3,916 |
 | Brilliant | 35.00% | ~3,807 |
-| Drillmaster | 33.00% | ~3,589 |
-| Colossus | 33.00% | ~3,589 |
+| Drillmaster | 33.00% | ~3,590 |
+| Colossus | 33.00% | ~3,590 |
 | Legendary Cities | 32.00% | ~3,481 |
 | Just Difficulty | 31.00% | ~3,372 |
 | Artisans | 31.00% | ~3,372 |
@@ -62,19 +62,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 31.00% | ~3,372 |
 | Mausoleum | 30.00% | ~3,263 |
 | Learn to Play 1 | 30.00% | ~3,263 |
-| Wise | 29.00% | ~3,154 |
+| Wise | 29.00% | ~3,155 |
 | Intercessor | 27.00% | ~2,937 |
 | Valiant | 26.00% | ~2,828 |
 | Sages | 26.00% | ~2,828 |
-| Hanging Gardens in Babylon | 25.00% | ~2,719 |
-| Temple of Solomon | 25.00% | ~2,719 |
-| Persian Paganism | 25.00% | ~2,719 |
-| Points Victory | 25.00% | ~2,719 |
-| Good Difficulty | 24.00% | ~2,610 |
-| Champions | 24.00% | ~2,610 |
-| Greece | 24.00% | ~2,610 |
-| Power to the People | 24.00% | ~2,610 |
-| Building Wonders | 24.00% | ~2,610 |
+| Hanging Gardens in Babylon | 25.00% | ~2,720 |
+| Temple of Solomon | 25.00% | ~2,720 |
+| Persian Paganism | 25.00% | ~2,720 |
+| Points Victory | 25.00% | ~2,720 |
+| Good Difficulty | 24.00% | ~2,611 |
+| Champions | 24.00% | ~2,611 |
+| Greece | 24.00% | ~2,611 |
+| Power to the People | 24.00% | ~2,611 |
+| Building Wonders | 24.00% | ~2,611 |
 | Patrons | 23.00% | ~2,502 |
 | Learn to Play 2 | 23.00% | ~2,502 |
 | Legalism | 23.00% | ~2,502 |
@@ -84,11 +84,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 21.00% | ~2,284 |
 | Dualism | 21.00% | ~2,284 |
 | Legionary | 21.00% | ~2,284 |
-| Statesmen | 20.00% | ~2,175 |
-| Circus Maximus | 20.00% | ~2,175 |
-| Adur Burzen-Mihr | 20.00% | ~2,175 |
-| Economic Reform | 20.00% | ~2,175 |
-| Cimmerian Archer | 20.00% | ~2,175 |
+| Statesmen | 20.00% | ~2,176 |
+| Circus Maximus | 20.00% | ~2,176 |
+| Adur Burzen-Mihr | 20.00% | ~2,176 |
+| Economic Reform | 20.00% | ~2,176 |
+| Cimmerian Archer | 20.00% | ~2,176 |
 | Conqueror | 19.00% | ~2,067 |
 | Victorious | 19.00% | ~2,067 |
 | Landowners | 19.00% | ~2,067 |
@@ -134,8 +134,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 12.00% | ~1,305 |
 | Ten Crowns | 12.00% | ~1,305 |
 | All Nations | 12.00% | ~1,305 |
-| Ready | 11.00% | ~1,196 |
-| Learn to Play 4 | 11.00% | ~1,196 |
+| Ready | 11.00% | ~1,197 |
+| Learn to Play 4 | 11.00% | ~1,197 |
 | Cao'an | 10.00% | ~1,088 |
 | Siege Tower | 10.00% | ~1,088 |
 | Carthage - Ox Hide | 9.00% | ~979 |
@@ -292,8 +292,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~11 |
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,877 (Ranked 103)  
-Completed: 2 (0.02%) (Ranked 176)  
+Progressed: 10,878 (Ranked 103)  
+Completed: 2 (0.02%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,14 +310,14 @@ Completed: 2 (0.02%) (Ranked 176)
 | 2023-05-05 | 10,783 | 2 |
 | 2023-05-06 | 10,827 | 2 |
 | 2023-05-07 | 10,863 | 2 |
-| 2023-05-08 | 10,877 | 2 |
+| 2023-05-08 | 10,878 | 2 |
 ## Awards
-Max (Relaxing): 215  (Ranked 249)  
-Sum: 1,755 (Ranked 197)  
-Diff (max vs sum): 52  
+Max (Relaxing): 216  (Ranked 248)  
+Sum: 1,756 (Ranked 197)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 215 |
+| This game is Relaxing | 216 |
 | This game is Extremely Fun | 203 |
 | This game is Highly Recommended | 201 |
 | This game is Educational | 200 |
@@ -415,3 +415,4 @@ Diff (max vs sum): 52
 | 2023-05-02 | 4.65 | - | 215 | 1,752 |
 | 2023-05-03 | 4.65 | - | 215 | 1,753 |
 | 2023-05-06 | 4.65 | - | 215 | 1,755 |
+| 2023-05-08 | 4.65 | - | 216 | 1,756 |

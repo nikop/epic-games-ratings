@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 822)  
+Rating: 4.18 (Ranked 823)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,7 +40,7 @@ Rating: 4.18 (Ranked 822)
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,545 (Ranked 100)  
-Completed: 47 (0.37%) (Ranked 105)  
+Completed: 47 (0.37%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

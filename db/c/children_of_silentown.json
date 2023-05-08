@@ -3,9 +3,9 @@
   "Name": "Children of Silentown",
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:05.8679998+00:00",
@@ -47,9 +47,9 @@
       "ID": "BlueTrick",
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Cat",
@@ -264,8 +264,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:09:29.4432472+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:15:11.7036975+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.9872581+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:03:48.4345877+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:09:29.4432843+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:09:33.316162+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:15:11.7037192+00:00"
 }

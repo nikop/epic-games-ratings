@@ -3,9 +3,9 @@
   "Name": "Vengeful Heart",
   "ProductSlug": "vengeful-heart-5a2fb9",
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:34.6374322+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.637432+00:00",
   "LastChanged": "2023-03-31T05:58:34.6374321+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:04.457217+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:01:39.8925737+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:05:52.4170759+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:07:04.7584759+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:11:46.8254604+00:00"
 }

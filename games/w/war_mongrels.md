@@ -1,34 +1,34 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.31 (Ranked 748)  
+Rating: 4.30 (Ranked 754)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 60.00% | ~148 |
-| Cowardice | 54.00% | ~133 |
+| Explorer | 60.00% | ~149 |
+| Cowardice | 54.00% | ~134 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~124 |
-| Eat Lead! | 49.00% | ~121 |
-| Prospector | 45.00% | ~111 |
-| Here Comes the Boom | 45.00% | ~111 |
-| Treasure Hunter | 43.00% | ~106 |
+| Eat Lead! | 48.00% | ~119 |
+| Prospector | 45.00% | ~112 |
+| Here Comes the Boom | 44.00% | ~109 |
+| Treasure Hunter | 43.00% | ~107 |
 | The Breaking Point | 38.00% | ~94 |
 | Missing in Action | 38.00% | ~94 |
-| Sniper Wolf | 37.00% | ~91 |
-| The Motivation | 35.00% | ~86 |
+| Sniper Wolf | 37.00% | ~92 |
+| The Motivation | 35.00% | ~87 |
 | Heroism | 32.00% | ~79 |
 | King of Knives | 32.00% | ~79 |
 | Collectibles of Chapter I | 30.00% | ~74 |
 | Consequences | 29.00% | ~72 |
 | Opportunities | 28.00% | ~69 |
 | The Horror | 27.00% | ~67 |
-| Collectibles of Chapter II | 24.00% | ~59 |
+| Collectibles of Chapter II | 24.00% | ~60 |
 | The Difference | 23.00% | ~57 |
-| Vengeance | 22.00% | ~54 |
-| Broken Hopes | 20.00% | ~49 |
-| Food Massacre | 20.00% | ~49 |
-| Bullseye! | 20.00% | ~49 |
+| Vengeance | 22.00% | ~55 |
+| Broken Hopes | 20.00% | ~50 |
+| Food Massacre | 20.00% | ~50 |
+| Bullseye! | 20.00% | ~50 |
 | It's Just an Accident | 17.00% | ~42 |
 | Collectibles of Chapter III | 16.00% | ~40 |
 | Sorrow | 16.00% | ~40 |
@@ -66,8 +66,8 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 216)  
-Completed: 0 (0.00%) (Ranked 192)  
+Progressed: 248 (Ranked 216)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 241 | 0 |
 | 2023-05-06 | 244 | 0 |
 | 2023-05-07 | 246 | 0 |
-| 2023-05-08 | 247 | 0 |
+| 2023-05-08 | 248 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

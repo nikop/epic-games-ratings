@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 828)  
+Rating: 4.17 (Ranked 829)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -68,7 +68,7 @@ Rating: 4.17 (Ranked 828)
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60,727 (Ranked 66)  
-Completed: 89 (0.15%) (Ranked 140)  
+Completed: 89 (0.15%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -10,9 +10,9 @@
 | Slay it! | 56.00% | ~5 |
 | Bling bling! | 56.00% | ~5 |
 | Poor things... | 44.00% | ~4 |
+| Still alive! | 44.00% | ~4 |
 | Lives lost | 44.00% | ~4 |
-| Still alive! | 33.00% | ~3 |
-| Slaughter | 33.00% | ~3 |
+| Slaughter | 44.00% | ~4 |
 | Endurance test! | 22.00% | ~2 |
 | Massive slaughter | 22.00% | ~2 |
 | Slay that one too! | 11.00% | ~1 |
@@ -20,8 +20,8 @@
 | You monster! | 0.00% | ~0 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 310)  
-Completed: 0 (0.00%) (Ranked 192)  
+Progressed: 9 (Ranked 311)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

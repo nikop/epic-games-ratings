@@ -1,7 +1,7 @@
 # Weird West
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 599)  
+Rating: 4.45 (Ranked 600)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,500 (Ranked 149)  
-Completed: 2 (0.13%) (Ranked 145)  
+Completed: 2 (0.13%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

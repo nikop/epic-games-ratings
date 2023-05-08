@@ -2,13 +2,13 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 95,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 3.83,
   "RatingHistory": [
     {
@@ -168,7 +168,7 @@
   "Tags": [],
   "EOS_Progressed": 15247,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -807,8 +807,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-07T21:01:47.2770937+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:09:32.1755884+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:15:14.4614236+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.9773171+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:04:03.4500248+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:09:32.1756277+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:09:49.4397011+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:15:14.4614477+00:00"
 }

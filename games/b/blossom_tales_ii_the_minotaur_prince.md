@@ -13,6 +13,7 @@
 | Fruitful Offerings | 10.00% | ~1 |
 | Nice Display | 10.00% | ~1 |
 | Key Piece II | 10.00% | ~1 |
+| The Hero | 10.00% | ~1 |
 | Not All Who Wander | 0.00% | ~0 |
 | Walking Cookbook | 0.00% | ~0 |
 | The Musician | 0.00% | ~0 |
@@ -20,13 +21,12 @@
 | Energy For Days | 0.00% | ~0 |
 | A Budding Business | 0.00% | ~0 |
 | Key Piece III | 0.00% | ~0 |
-| The Hero | 0.00% | ~0 |
 | The Ultimate Weapon | 0.00% | ~0 |
 | Postmaster | 0.00% | ~0 |
 | Combat Queen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 308)  
-Completed: 0 (0.00%) (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,27 +1,27 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 447)  
+Rating: 4.56 (Ranked 448)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,025 |
-| Tutti Eroi! | 53.00% | ~2,969 |
-| You Shall Not Pass | 53.00% | ~2,969 |
+| Peak Performance | 54.00% | ~3,026 |
+| Tutti Eroi! | 53.00% | ~2,970 |
+| You Shall Not Pass | 53.00% | ~2,970 |
 | Avanti Savoia! | 46.00% | ~2,577 |
 | Conrad von Hotzensocks | 35.00% | ~1,961 |
 | Mamma Mia! | 35.00% | ~1,961 |
 | Gabriele D'Annunzio | 32.00% | ~1,793 |
 | Silver Lining | 28.00% | ~1,569 |
-| Aurelio Baruzzi | 22.00% | ~1,232 |
-| Veni Vidi Vici | 22.00% | ~1,232 |
-| Decimation | 20.00% | ~1,120 |
-| Donatello | 20.00% | ~1,120 |
-| Insubordination | 19.00% | ~1,064 |
-| The Italian Job | 19.00% | ~1,064 |
-| The Lion of the Isonzo | 18.00% | ~1,008 |
-| Ragazzi del '99 | 17.00% | ~952 |
+| Aurelio Baruzzi | 22.00% | ~1,233 |
+| Veni Vidi Vici | 22.00% | ~1,233 |
+| Decimation | 20.00% | ~1,121 |
+| Donatello | 20.00% | ~1,121 |
+| Insubordination | 19.00% | ~1,065 |
+| The Italian Job | 19.00% | ~1,065 |
+| The Lion of the Isonzo | 18.00% | ~1,009 |
+| Ragazzi del '99 | 17.00% | ~953 |
 | Thus With A Kiss | 15.00% | ~840 |
 | Dirty Dozen | 14.00% | ~784 |
 | Luigi Cadorna | 13.00% | ~728 |
@@ -52,8 +52,8 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~22 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,602 (Ranked 115)  
-Completed: 8 (0.14%) (Ranked 143)  
+Progressed: 5,603 (Ranked 115)  
+Completed: 8 (0.14%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,6 +70,7 @@ Completed: 8 (0.14%) (Ranked 143)
 | 2023-05-05 | 5,587 | 8 |
 | 2023-05-06 | 5,592 | 8 |
 | 2023-05-07 | 5,602 | 8 |
+| 2023-05-08 | 5,603 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 443)  
 Sum: 233 (Ranked 343)  

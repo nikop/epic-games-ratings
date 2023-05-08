@@ -2,13 +2,13 @@
   "ID": "15a8369cd43b4d359d7c547ad81d39e8",
   "Name": "Necrosmith",
   "ProductSlug": "necrosmith-b2ef15",
-  "Ranking_Rating": 667,
+  "Ranking_Rating": 668,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.4,
   "NumberOfRatings": 131,
   "RatingHistory": [
@@ -214,6 +214,6 @@
   "FirstSeen": "2022-07-22T20:29:55.4913885+00:00",
   "LastChanged": "2023-04-29T22:57:53.1196297+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:24.548856+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:00:24.1439265+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:04:51.6992686+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:05:39.0723245+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:10:46.9626584+00:00"
 }

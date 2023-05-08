@@ -1,23 +1,23 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 412)  
+Rating: 4.58 (Ranked 413)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~218,879 |
-| Uncharted Territory | 89.00% | ~202,919 |
-| Getting A Glimpse | 73.00% | ~166,439 |
-| A Quick Escape | 65.00% | ~148,199 |
-| Explorer | 62.00% | ~141,359 |
-| Defeat The Dark | 61.00% | ~139,079 |
-| An Offering | 61.00% | ~139,079 |
-| Colorful Corpse | 58.00% | ~132,239 |
-| That Was Quick | 56.00% | ~127,679 |
-| A Donation | 56.00% | ~127,679 |
-| Goodbye, Frog Friend | 54.00% | ~123,119 |
-| Heavy Hitter | 52.00% | ~118,559 |
+| First Steps | 96.00% | ~218,881 |
+| Uncharted Territory | 89.00% | ~202,921 |
+| Getting A Glimpse | 73.00% | ~166,441 |
+| A Quick Escape | 65.00% | ~148,201 |
+| Explorer | 62.00% | ~141,361 |
+| Defeat The Dark | 61.00% | ~139,081 |
+| An Offering | 61.00% | ~139,081 |
+| Colorful Corpse | 58.00% | ~132,241 |
+| That Was Quick | 56.00% | ~127,681 |
+| A Donation | 56.00% | ~127,681 |
+| Goodbye, Frog Friend | 54.00% | ~123,121 |
+| Heavy Hitter | 52.00% | ~118,561 |
 | Heartless | 46.00% | ~104,880 |
 | Spine Breaker | 46.00% | ~104,880 |
 | Deflection | 44.00% | ~100,320 |
@@ -129,8 +129,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~912 |
 | Near Death Experience | 0.30% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,999 (Ranked 41)  
-Completed: 225 (0.10%) (Ranked 151)  
+Progressed: 228,001 (Ranked 41)  
+Completed: 225 (0.10%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,16 +147,16 @@ Completed: 225 (0.10%) (Ranked 151)
 | 2023-05-05 | 227,812 | 223 |
 | 2023-05-06 | 227,893 | 224 |
 | 2023-05-07 | 227,981 | 224 |
-| 2023-05-08 | 227,999 | 225 |
+| 2023-05-08 | 228,001 | 225 |
 ## Awards
-Max (Quickly Understood Controls): 1,470  (Ranked 114)  
-Sum: 11,383 (Ranked 74)  
+Max (Quickly Understood Controls): 1,471  (Ranked 114)  
+Sum: 11,385 (Ranked 74)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 1,470 |
+| This game has Quickly Understood Controls | 1,471 |
 | This game is Great for Beginners | 1,429 |
-| This game is Relaxing | 1,405 |
+| This game is Relaxing | 1,406 |
 | This game has Challenging Combat | 1,393 |
 | This game is Extremely Fun | 1,380 |
 | This game is Highly Recommended | 1,339 |
@@ -231,3 +231,4 @@ Diff (max vs sum): 40
 | 2023-05-05 | 4.58 | - | 1,470 | 11,378 |
 | 2023-05-06 | 4.58 | - | 1,470 | 11,380 |
 | 2023-05-07 | 4.58 | - | 1,470 | 11,383 |
+| 2023-05-08 | 4.58 | - | 1,471 | 11,385 |

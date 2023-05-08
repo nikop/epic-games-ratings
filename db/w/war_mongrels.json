@@ -2,14 +2,14 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 748,
+  "Ranking_Rating": 754,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 216,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 71,
-  "Rating": 4.31,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 72,
+  "Rating": 4.3,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -188,15 +188,21 @@
       "Rating": 4.31,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-08T13:04:38.0313698+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -303,6 +309,11 @@
     {
       "Time": "2023-05-08T05:06:35.9364554+00:00",
       "NumProgressed": 247,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T13:14:33.4900791+00:00",
+      "NumProgressed": 248,
       "NumCompleted": 0
     }
   ],
@@ -419,7 +430,7 @@
       "Name": "Explorer",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_COLL_20",
@@ -427,7 +438,7 @@
       "Name": "Prospector",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -435,7 +446,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -451,7 +462,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -539,7 +550,7 @@
       "Name": "Cowardice",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -555,7 +566,7 @@
       "Name": "The Motivation",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -603,7 +614,7 @@
       "Name": "Vengeance",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -611,7 +622,7 @@
       "Name": "Broken Hopes",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -681,9 +692,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -721,9 +732,9 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -731,7 +742,7 @@
       "Name": "Food Massacre",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -739,7 +750,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -755,7 +766,7 @@
       "Name": "Bullseye!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_NEST2",
@@ -786,15 +797,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
-  "LastChanged": "2023-05-08T11:59:09.1858438+00:00",
-  "LastChanged_Achievements": "2023-05-08T12:08:41.6137289+00:00",
+  "LastChanged": "2023-05-08T13:04:38.0313696+00:00",
+  "LastChanged_Achievements": "2023-05-08T13:14:33.4900787+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.641778+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:59:09.1858452+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:08:41.6138272+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:04:38.0313703+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:14:33.4901309+00:00"
 }

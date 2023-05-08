@@ -2,13 +2,13 @@
   "ID": "0d89655f53884b09b241b60c07e684af",
   "Name": "Warhammer 40,000: Gladius - Relics of War",
   "ProductSlug": "warhammer-40000-gladius-relics-of-war",
-  "Ranking_Rating": 722,
+  "Ranking_Rating": 723,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.34,
   "NumberOfRatings": 39,
   "RatingHistory": [
@@ -976,6 +976,6 @@
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
   "LastChanged": "2023-05-08T09:00:47.6816763+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:01.6980234+00:00",
-  "LastUpdate_Ratings": "2023-05-08T12:01:35.2609531+00:00",
-  "LastUpdate_Achievements": "2023-05-08T12:05:46.7156237+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:06:58.5742877+00:00",
+  "LastUpdate_Achievements": "2023-05-08T13:11:41.3132059+00:00"
 }

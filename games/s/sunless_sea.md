@@ -1,19 +1,19 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 412)  
+Rating: 4.58 (Ranked 413)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,282 |
-| Sweet Sorrow | 18.00% | ~5,141 |
-| Rules the Waves | 17.00% | ~4,855 |
+| Sink Beneath the Waves | 36.00% | ~10,283 |
+| Sweet Sorrow | 18.00% | ~5,142 |
+| Rules the Waves | 17.00% | ~4,856 |
 | Thou, All-Shaking Thunder | 16.00% | ~4,570 |
 | Rival | 14.00% | ~3,999 |
-| Correspondent | 12.00% | ~3,427 |
-| Lose Your Mind | 12.00% | ~3,427 |
-| Sound Mind? | 12.00% | ~3,427 |
+| Correspondent | 12.00% | ~3,428 |
+| Lose Your Mind | 12.00% | ~3,428 |
+| Sound Mind? | 12.00% | ~3,428 |
 | Salt's Curse | 11.00% | ~3,142 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,142 |
 | The Fall of the House | 11.00% | ~3,142 |
@@ -25,7 +25,7 @@ Number of Ratings: 401  (23.09.2022)
 | Open Your Ears | 7.00% | ~1,999 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,428 |
 | Zee Fever | 5.00% | ~1,428 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,142 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,143 |
 | Storm's Curse | 3.00% | ~857 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~857 |
 | Come Closer | 3.00% | ~857 |
@@ -48,7 +48,7 @@ Number of Ratings: 401  (23.09.2022)
 | Never Stop Sinking... | 0.90% | ~257 |
 | Leviathan | 0.90% | ~257 |
 | Depth charge | 0.90% | ~257 |
-| What lies beneath | 0.80% | ~228 |
+| What lies beneath | 0.80% | ~229 |
 | Stone's Curse | 0.70% | ~200 |
 | Five Years at Zee | 0.50% | ~143 |
 | The Lady's Parlour | 0.20% | ~57 |
@@ -61,8 +61,8 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~29 |
 | Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,561 (Ranked 83)  
-Completed: 3 (0.01%) (Ranked 184)  
+Progressed: 28,564 (Ranked 83)  
+Completed: 3 (0.01%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 3 (0.01%) (Ranked 184)
 | 2023-05-05 | 28,275 | 3 |
 | 2023-05-06 | 28,378 | 3 |
 | 2023-05-07 | 28,519 | 3 |
-| 2023-05-08 | 28,561 | 3 |
+| 2023-05-08 | 28,564 | 3 |
 ## Awards
 Max (Character Customization): 205  (Ranked 255)  
 Sum: 274 (Ranked 331)  

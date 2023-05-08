@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 636)  
+Rating: 4.43 (Ranked 637)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,252 |
-| This is only the beginning | 19.00% | ~39,712 |
-| Knowledge is power | 12.00% | ~25,081 |
-| Power Ranger | 9.00% | ~18,811 |
-| Galvanic Rifle | 9.00% | ~18,811 |
-| Taser Goad | 9.00% | ~18,811 |
-| Radium Ready | 9.00% | ~18,811 |
-| Half a cog | 9.00% | ~18,811 |
+| No aid from the Omnissiah | 25.00% | ~52,255 |
+| This is only the beginning | 19.00% | ~39,714 |
+| Knowledge is power | 12.00% | ~25,082 |
+| Power Ranger | 9.00% | ~18,812 |
+| Galvanic Rifle | 9.00% | ~18,812 |
+| Taser Goad | 9.00% | ~18,812 |
+| Radium Ready | 9.00% | ~18,812 |
+| Half a cog | 9.00% | ~18,812 |
 | Watch them crumble | 6.00% | ~12,541 |
-| Competent Cohort | 4.00% | ~8,360 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,360 |
-| One with the Machine | 4.00% | ~8,360 |
-| Legio Cybernetica | 3.00% | ~6,270 |
-| Fleshy Disposal | 3.00% | ~6,270 |
+| Competent Cohort | 4.00% | ~8,361 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,361 |
+| One with the Machine | 4.00% | ~8,361 |
+| Legio Cybernetica | 3.00% | ~6,271 |
+| Fleshy Disposal | 3.00% | ~6,271 |
 | Battle Servitor | 2.00% | ~4,180 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,180 |
 | Impatient destruction | 2.00% | ~4,180 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 636)
 | Perma-live | 0.10% | ~209 |
 | Purge the Heretek | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,009 (Ranked 47)  
-Completed: 2 (0.00%) (Ranked 192)  
+Progressed: 209,020 (Ranked 47)  
+Completed: 2 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 2 (0.00%) (Ranked 192)
 | 2023-05-05 | 208,668 | 2 |
 | 2023-05-06 | 208,820 | 2 |
 | 2023-05-07 | 208,962 | 2 |
-| 2023-05-08 | 209,009 | 2 |
+| 2023-05-08 | 209,020 | 2 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 227)  
 Sum: 2,092 (Ranked 181)  
