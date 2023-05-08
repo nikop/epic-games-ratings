@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.58,
   "NumberOfRatings": 401,
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 28533,
+  "EOS_Progressed": 28537,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2050,6 +2050,11 @@
       "Time": "2023-05-08T02:08:19.4218749+00:00",
       "NumProgressed": 28533,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-08T03:06:57.5637522+00:00",
+      "NumProgressed": 28537,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -2181,7 +2186,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10272
+      "UsersEstimate": 10273
     },
     {
       "ID": "ach_die10",
@@ -2261,7 +2266,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ach_legacyrival",
@@ -2277,7 +2282,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ach_legacyshipmate",
@@ -2293,7 +2298,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ach_portbell",
@@ -2413,7 +2418,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "ach_terror100",
@@ -2429,7 +2434,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "ach_undercurrent",
@@ -2492,15 +2497,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 28533,
+      "Progressed": 28537,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-07T19:01:26.1696192+00:00",
-  "LastChanged_Achievements": "2023-05-08T02:08:19.4218742+00:00",
+  "LastChanged_Achievements": "2023-05-08T03:06:57.5637518+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:46.8537665+00:00",
-  "LastUpdate_Ratings": "2023-05-08T02:02:12.3680543+00:00",
-  "LastUpdate_Achievements": "2023-05-08T02:08:19.4219709+00:00"
+  "LastUpdate_Ratings": "2023-05-08T03:01:19.6597285+00:00",
+  "LastUpdate_Achievements": "2023-05-08T03:06:57.5637983+00:00"
 }

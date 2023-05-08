@@ -13,8 +13,8 @@
 | 15K | 26.00% | ~6 |
 | 10K | 26.00% | ~6 |
 | Skin Of Your Teeth | 22.00% | ~5 |
+| Pork Chop Express | 22.00% | ~5 |
 | Graveside Survivor | 17.00% | ~4 |
-| Pork Chop Express | 17.00% | ~4 |
 | Fresh Pancake | 13.00% | ~3 |
 | Forestside Survivor | 13.00% | ~3 |
 | Quit Horsin' Around | 13.00% | ~3 |

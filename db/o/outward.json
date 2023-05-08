@@ -476,9 +476,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2329,
+  "EOS_Progressed": 2330,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -746,6 +746,11 @@
       "Time": "2023-05-08T02:07:47.5927772+00:00",
       "NumProgressed": 2329,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T03:06:39.5387098+00:00",
+      "NumProgressed": 2330,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -821,7 +826,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -829,7 +834,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ForAllAurai_8",
@@ -981,7 +986,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -1075,9 +1080,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1748
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1092,15 +1097,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2329,
+      "Progressed": 2330,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-08T02:07:47.5927767+00:00",
+  "LastChanged_Achievements": "2023-05-08T03:06:39.5387094+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:02.1241057+00:00",
-  "LastUpdate_Ratings": "2023-05-08T01:59:45.7659021+00:00",
-  "LastUpdate_Achievements": "2023-05-08T02:07:47.5928375+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:59:11.9552505+00:00",
+  "LastUpdate_Achievements": "2023-05-08T03:06:39.5387371+00:00"
 }

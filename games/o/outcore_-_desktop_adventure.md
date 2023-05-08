@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immersion Breaking | 33.00% | ~1 |
-| Learned how to jump! | 33.00% | ~1 |
-| Learned how to walk! | 33.00% | ~1 |
-| Murder | 33.00% | ~1 |
+| Learned how to jump! | 50.00% | ~2 |
+| Learned how to walk! | 50.00% | ~2 |
+| Defeated Captain Tutorial | 25.00% | ~1 |
+| Immersion Breaking | 25.00% | ~1 |
+| Murder | 25.00% | ~1 |
 | Booty Master | 0.00% | ~0 |
-| Defeated Captain Tutorial | 0.00% | ~0 |
 | Defeated Booty The Bootleg | 0.00% | ~0 |
 | Defeated Mistermind | 0.00% | ~0 |
 | Defeated the core of the outside world | 0.00% | ~0 |
@@ -31,10 +31,10 @@
 | Too good for this racing mini-game | 0.00% | ~0 |
 | Tutorial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 339)  
+Progressed: 4 (Ranked 335)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-03 | 2 | 0 |
-| 2023-05-08 | 3 | 0 |
+| 2023-05-08 | 4 | 0 |

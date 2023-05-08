@@ -2,16 +2,16 @@
   "ID": "da1f78693e5f4a6888297c9362b1144e",
   "Name": "Outcore - Desktop Adventure",
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
-  "Ranking_EOS_Progress": 339,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28,6 +28,11 @@
     {
       "Time": "2023-05-08T02:08:17.088329+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T03:06:55.3186699+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -46,9 +51,9 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompletedChapter2",
@@ -142,7 +147,7 @@
       "ID": "ImerssionBreaking",
       "SetID": "7ejh407",
       "Name": "Immersion Breaking",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -182,17 +187,17 @@
       "ID": "LearnedToJump",
       "SetID": "7ejh407",
       "Name": "Learned how to jump!",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LearnedToWalk",
       "SetID": "7ejh407",
       "Name": "Learned how to walk!",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LoveMaster",
@@ -206,7 +211,7 @@
       "ID": "MurderLumi",
       "SetID": "7ejh407",
       "Name": "Murder",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -247,13 +252,13 @@
     {
       "ID": "7ejh407",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-05-08T02:08:17.0883283+00:00",
+  "LastChanged_Achievements": "2023-05-08T03:06:55.3186693+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.1154691+00:00",
-  "LastUpdate_Ratings": "2023-05-08T02:02:13.6008859+00:00",
-  "LastUpdate_Achievements": "2023-05-08T02:08:17.0883493+00:00"
+  "LastUpdate_Ratings": "2023-05-08T03:01:21.138729+00:00",
+  "LastUpdate_Achievements": "2023-05-08T03:06:55.3186849+00:00"
 }

@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~260 |
 | Escort to Waterdeep | 0.30% | ~260 |
 | Pure Energy | 0.30% | ~260 |
+| Pros and CONs | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
 | The Witchlight Carnival | 0.20% | ~106 |
 | Thieves of the Coven | 0.20% | ~106 |
@@ -97,7 +98,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Witty Riposting | 0.20% | ~106 |
 | The Templar's Camp | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
-| Pros and CONs | 0.10% | ~87 |
 | Upholding the Law | 0.10% | ~87 |
 | Starving in the Jungle | 0.10% | ~87 |
 | Cold as Ice | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,819 (Ranked 59)  
+Progressed: 86,821 (Ranked 59)  
 Completed: 1,812 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,812 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,819 | 1,812 |
+| 2023-05-08 | 86,821 | 1,812 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,830 (Ranked 37)  

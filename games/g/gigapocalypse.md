@@ -13,15 +13,15 @@
 | Math Wizard | 62.00% | ~69 |
 | Power Overload | 61.00% | ~68 |
 | Destroy Erase Improve | 61.00% | ~68 |
-| Quite A Snack | 55.00% | ~62 |
+| Quite A Snack | 56.00% | ~63 |
+| Overwhelming Power | 50.00% | ~56 |
 | Impenetrable Skin | 49.00% | ~55 |
-| Overwhelming Power | 49.00% | ~55 |
 | Chomp Chomp! | 41.00% | ~46 |
 | Supreme Power | 38.00% | ~43 |
 | Diaper Time! | 38.00% | ~43 |
 | Glorious Battle | 37.00% | ~41 |
+| Target Practice | 37.00% | ~41 |
 | Meat Larder | 36.00% | ~40 |
-| Target Practice | 36.00% | ~40 |
 | Mutant And Proud | 35.00% | ~39 |
 | The Duelist | 33.00% | ~37 |
 | Happy Little Home | 30.00% | ~34 |

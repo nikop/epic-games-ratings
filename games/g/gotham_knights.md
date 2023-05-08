@@ -5,6 +5,7 @@ Rating: 4.17 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| End of an Era | 0.30% | ~182 |
 | Protector of Gotham | 0.30% | ~182 |
 | Something in the Clay | 0.30% | ~182 |
 | The Show Mud Go On | 0.30% | ~182 |
@@ -24,7 +25,6 @@ Rating: 4.17 (Ranked 828)
 | Seeking Asylum | 0.30% | ~182 |
 | Gotham Knight | 0.30% | ~182 |
 | The Batman Family | 0.20% | ~121 |
-| End of an Era | 0.20% | ~121 |
 | In Your Element | 0.20% | ~121 |
 | Not On My Watch | 0.20% | ~121 |
 | Bulldozed | 0.20% | ~121 |

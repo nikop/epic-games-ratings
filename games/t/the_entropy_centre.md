@@ -9,15 +9,15 @@
 | Time Gates | 64.00% | ~50 |
 | Command Centre | 53.00% | ~41 |
 | This is a Wall | 50.00% | ~39 |
+| 48 Attempts | 41.00% | ~32 |
 | Extendable Bridges | 40.00% | ~31 |
-| 48 Attempts | 40.00% | ~31 |
-| Chain Reaction | 37.00% | ~29 |
-| Man's Best Friend | 36.00% | ~28 |
-| Handyman | 27.00% | ~21 |
+| Chain Reaction | 38.00% | ~30 |
+| Man's Best Friend | 37.00% | ~29 |
+| Handyman | 28.00% | ~22 |
 | No Time To Relax | 17.00% | ~13 |
 | Running Boots | 17.00% | ~13 |
+| Fashionista | 17.00% | ~13 |
 | Bad Robots | 15.00% | ~12 |
-| Fashionista | 15.00% | ~12 |
 | Archivist | 13.00% | ~10 |
 | Looper | 10.00% | ~8 |
 | Final Charge | 9.00% | ~7 |

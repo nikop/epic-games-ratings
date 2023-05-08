@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.3,
   "NumberOfRatings": 34,
@@ -190,7 +190,7 @@
   "Tags": [],
   "EOS_Progressed": 246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -502,9 +502,9 @@
       "ID": "ACH_COLL_CH10",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter X",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -766,9 +766,9 @@
       "ID": "ACH_NOMOON",
       "SetID": "1j25agn",
       "Name": "Not Spill a Drop",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -782,8 +782,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-03-31T05:57:33.4298842+00:00",
-  "LastChanged_Achievements": "2023-05-08T02:07:43.2393776+00:00",
+  "LastChanged_Achievements": "2023-05-08T03:06:35.7439344+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.641778+00:00",
-  "LastUpdate_Ratings": "2023-05-08T01:59:26.5408189+00:00",
-  "LastUpdate_Achievements": "2023-05-08T02:07:43.2394367+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:58:57.7583517+00:00",
+  "LastUpdate_Achievements": "2023-05-08T03:06:35.7439791+00:00"
 }

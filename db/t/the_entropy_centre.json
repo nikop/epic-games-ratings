@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -148,9 +148,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ACT7",
@@ -188,17 +188,17 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -212,17 +212,17 @@
       "ID": "ACH_FASHION",
       "SetID": "2310cb1",
       "Name": "Fashionista",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_LOOPER",
@@ -277,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-08T02:07:37.8012132+00:00",
+  "LastChanged_Achievements": "2023-05-08T03:06:30.6890691+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:47.5054159+00:00",
-  "LastUpdate_Ratings": "2023-05-08T01:59:24.0144746+00:00",
-  "LastUpdate_Achievements": "2023-05-08T02:07:37.801233+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:58:54.7391462+00:00",
+  "LastUpdate_Achievements": "2023-05-08T03:06:30.6890841+00:00"
 }

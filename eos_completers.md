@@ -15,14 +15,14 @@
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.64% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.11% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.47% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 5.79% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.77% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -96,7 +96,7 @@
 | 94 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 95 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 96 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.54% |
-| 97 | [Grindstone](games/g/grindstone.md) | 0.52% |
+| 97 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 98 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
 | 98 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
 | 100 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |

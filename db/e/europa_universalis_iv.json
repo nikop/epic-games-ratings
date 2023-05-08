@@ -4558,7 +4558,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 32076,
+  "EOS_Progressed": 32087,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 5566,
   "EOS_NewCompleters": 0,
@@ -6048,6 +6048,11 @@
       "Time": "2023-05-08T02:08:17.3372676+00:00",
       "NumProgressed": 32076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T03:06:56.0463669+00:00",
+      "NumProgressed": 32087,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -6521,9 +6526,9 @@
       "ID": "achievement_carthago_delenda_est",
       "SetID": "8p2n7he",
       "Name": "Carthago Delenda Est",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_center_of_attention",
@@ -6675,7 +6680,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -6731,7 +6736,7 @@
       "Name": "Down Under",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -7059,7 +7064,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "achievement_grand_coalition",
@@ -7275,7 +7280,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -7995,7 +8000,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -8339,7 +8344,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -8563,7 +8568,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -8723,7 +8728,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -8755,7 +8760,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -8890,21 +8895,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 32076,
+      "Progressed": 32087,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 32076,
+      "Progressed": 32087,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-07T20:58:52.9608276+00:00",
-  "LastChanged_Achievements": "2023-05-08T02:08:17.3372671+00:00",
+  "LastChanged_Achievements": "2023-05-08T03:06:56.0463666+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.1468914+00:00",
-  "LastUpdate_Ratings": "2023-05-08T01:59:14.9827328+00:00",
-  "LastUpdate_Achievements": "2023-05-08T02:08:17.3386058+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:58:47.9532062+00:00",
+  "LastUpdate_Achievements": "2023-05-08T03:06:56.0474159+00:00"
 }

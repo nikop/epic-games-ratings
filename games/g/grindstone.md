@@ -6,24 +6,24 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~4,947 |
-| The Journey Begins | 98.00% | ~4,947 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,937 |
-| There is No Escape | 71.00% | ~3,584 |
+| Quinceañera Time | 98.00% | ~4,948 |
+| The Journey Begins | 98.00% | ~4,948 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,938 |
+| There is No Escape | 71.00% | ~3,585 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,130 |
 | Royal Flush | 62.00% | ~3,130 |
 | Timber! | 60.00% | ~3,029 |
-| Survive the Bombsequences | 59.00% | ~2,978 |
-| Killed 20 Jerks | 53.00% | ~2,675 |
-| Death Defied | 53.00% | ~2,675 |
+| Survive the Bombsequences | 59.00% | ~2,979 |
+| Killed 20 Jerks | 53.00% | ~2,676 |
+| Death Defied | 53.00% | ~2,676 |
 | Fortunate Soul | 49.00% | ~2,474 |
-| Jerk-Slayer | 42.00% | ~2,120 |
+| Jerk-Slayer | 42.00% | ~2,121 |
 | Employee of the Month | 37.00% | ~1,868 |
 | I Believe I Can Fly | 37.00% | ~1,868 |
 | Bone Collector | 35.00% | ~1,767 |
 | Fe-Festival | 35.00% | ~1,767 |
-| Top of the Food Chain | 32.00% | ~1,615 |
-| Pardon my Slob | 32.00% | ~1,615 |
+| Top of the Food Chain | 32.00% | ~1,616 |
+| Pardon my Slob | 32.00% | ~1,616 |
 | Humerus Achievement | 31.00% | ~1,565 |
 | Ghost Facers! | 27.00% | ~1,363 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,060 |
@@ -56,8 +56,8 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~30 |
 | Completionist | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,048 (Ranked 119)  
-Completed: 26 (0.52%) (Ranked 97)  
+Progressed: 5,049 (Ranked 119)  
+Completed: 26 (0.51%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 26 (0.52%) (Ranked 97)
 | 2023-05-02 | 5,045 | 26 |
 | 2023-05-04 | 5,047 | 26 |
 | 2023-05-05 | 5,048 | 26 |
+| 2023-05-08 | 5,049 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

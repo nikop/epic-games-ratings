@@ -43,13 +43,13 @@ Number of Ratings: 34  (23.09.2022)
 | Tiptoe Around | 7.00% | ~17 |
 | Piece of Cake | 6.00% | ~15 |
 | Collectibles of Chapter VIII | 5.00% | ~12 |
+| Collectibles of Chapter X | 5.00% | ~12 |
 | Collectibles of Chapter XI | 5.00% | ~12 |
-| Collectibles of Chapter X | 4.00% | ~10 |
+| Not Spill a Drop | 4.00% | ~10 |
 | Collectibles of Chapter VI | 3.00% | ~7 |
 | Collectibles of Chapter IX | 3.00% | ~7 |
 | The Good Samaritan | 3.00% | ~7 |
 | It Will Rain | 3.00% | ~7 |
-| Not Spill a Drop | 3.00% | ~7 |
 | Hold a Door | 1.00% | ~2 |
 | Daddy Would Be Proud | 1.00% | ~2 |
 | Warm Up | 0.40% | ~1 |

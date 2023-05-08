@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,887 |
-| That's a Grand Army | 8.00% | ~2,566 |
-| That is mine! | 8.00% | ~2,566 |
-| Victorious! | 8.00% | ~2,566 |
+| Until death do us apart | 9.00% | ~2,888 |
+| That's a Grand Army | 8.00% | ~2,567 |
+| That is mine! | 8.00% | ~2,567 |
+| Victorious! | 8.00% | ~2,567 |
 | Brothers in Arms | 6.00% | ~1,925 |
 | That's a Grand Navy | 6.00% | ~1,925 |
 | Seriously?! | 6.00% | ~1,925 |
 | For the Glory | 5.00% | ~1,604 |
 | Cold War | 4.00% | ~1,283 |
 | True Catholic | 4.00% | ~1,283 |
-| Defender of the Faith | 3.00% | ~962 |
-| It's all about the money | 3.00% | ~962 |
-| Respected | 3.00% | ~962 |
+| Defender of the Faith | 3.00% | ~963 |
+| It's all about the money | 3.00% | ~963 |
+| Respected | 3.00% | ~963 |
 | Blockader | 2.00% | ~642 |
 | Combined Arms | 2.00% | ~642 |
 | Double the Love | 2.00% | ~642 |
@@ -41,8 +41,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Five Colonies | 0.80% | ~257 |
 | The Emperors new clothes | 0.70% | ~225 |
 | Market Control | 0.70% | ~225 |
-| Down Under | 0.60% | ~192 |
-| This navy can take it all | 0.60% | ~192 |
+| Down Under | 0.60% | ~193 |
+| This navy can take it all | 0.60% | ~193 |
 | Electable! | 0.50% | ~160 |
 | Time Bandit | 0.50% | ~160 |
 | Trustworthy | 0.50% | ~160 |
@@ -112,6 +112,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brentry! | 0.10% | ~32 |
 | Brick by Brick | 0.10% | ~32 |
 | The Buddhists Strike Back | 0.10% | ~32 |
+| Carthago Delenda Est | 0.10% | ~32 |
 | Center of Attention | 0.10% | ~32 |
 | Cherrypicking | 0.10% | ~32 |
 | Chop Chop | 0.10% | ~32 |
@@ -283,7 +284,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basque in Glory | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
-| Carthago Delenda Est | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,076 (Ranked 80)  
+Progressed: 32,087 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,076 | 0 |
+| 2023-05-08 | 32,087 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
 Sum: 42,931 (Ranked 26)  

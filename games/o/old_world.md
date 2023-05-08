@@ -44,8 +44,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 41.00% | ~4,455 |
 | Lighthouse | 41.00% | ~4,455 |
 | Able Difficulty | 40.00% | ~4,346 |
+| Ambitious | 39.00% | ~4,237 |
 | Carthaginian Paganism | 39.00% | ~4,237 |
-| Ambitious | 38.00% | ~4,129 |
 | Necropolis | 38.00% | ~4,129 |
 | Egyptian Paganism | 37.00% | ~4,020 |
 | Apadana | 36.00% | ~3,911 |

@@ -191,9 +191,9 @@
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "MQ02_3",
@@ -207,9 +207,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "MQ03_1",
@@ -400,8 +400,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-08T02:07:39.3785271+00:00",
+  "LastChanged_Achievements": "2023-05-08T03:06:31.961871+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-08T01:59:11.3615669+00:00",
-  "LastUpdate_Achievements": "2023-05-08T02:07:39.378563+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:58:45.0410861+00:00",
+  "LastUpdate_Achievements": "2023-05-08T03:06:31.9618862+00:00"
 }
