@@ -2932,9 +2932,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 117649,
+  "EOS_Progressed": 117653,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3127,
+  "EOS_NewPlayers": 3119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4432,6 +4432,11 @@
       "Time": "2023-05-08T05:06:33.2535886+00:00",
       "NumProgressed": 117649,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-08T06:06:23.477913+00:00",
+      "NumProgressed": 117653,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -4459,7 +4464,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "Achievement_11",
@@ -4475,7 +4480,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 20000
+      "UsersEstimate": 20001
     },
     {
       "ID": "Achievement_13",
@@ -4523,7 +4528,7 @@
       "Name": "Stone Walls",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 31765
+      "UsersEstimate": 31766
     },
     {
       "ID": "Achievement_5",
@@ -4531,7 +4536,7 @@
       "Name": "Iron Bars",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "Achievement_6",
@@ -4547,7 +4552,7 @@
       "Name": "D.B. Cooper",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "Achievement_8",
@@ -4563,22 +4568,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5882
+      "UsersEstimate": 5883
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 117649,
+      "Progressed": 117653,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-05-08T02:00:42.6981526+00:00",
-  "LastChanged_Achievements": "2023-05-08T05:06:33.253588+00:00",
+  "LastChanged_Achievements": "2023-05-08T06:06:23.4779127+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:39.8166689+00:00",
-  "LastUpdate_Ratings": "2023-05-08T04:59:55.9484234+00:00",
-  "LastUpdate_Achievements": "2023-05-08T05:06:33.2536093+00:00"
+  "LastUpdate_Ratings": "2023-05-08T05:59:38.7747919+00:00",
+  "LastUpdate_Achievements": "2023-05-08T06:06:23.4779311+00:00"
 }

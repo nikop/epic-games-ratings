@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:39.5601593+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 7.72,
   "EosHistory": [
@@ -753,6 +753,11 @@
       "Time": "2023-05-08T05:07:05.4269204+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-08T06:06:45.0841248+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 12,
@@ -780,7 +785,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Green Ticket Roundup",
@@ -844,7 +849,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Nuremberg Laws",
@@ -859,7 +864,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 91
     }
   ],
@@ -867,8 +872,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-08T05:07:05.4269197+00:00",
+  "LastChanged_Achievements": "2023-05-08T06:06:45.0841244+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-08T05:01:20.1633537+00:00",
-  "LastUpdate_Achievements": "2023-05-08T05:07:05.4269332+00:00"
+  "LastUpdate_Ratings": "2023-05-08T06:00:58.2658616+00:00",
+  "LastUpdate_Achievements": "2023-05-08T06:06:45.0841373+00:00"
 }

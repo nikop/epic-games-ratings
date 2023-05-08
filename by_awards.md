@@ -41,7 +41,7 @@
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,923 | 4.76 | 115 |
 | 40 | [Supraland](games/s/supraland.md) | 7,605 | 4.61 | 352 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,524 | 4.85 | 37 |
-| 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,245 | 4.57 | 429 |
+| 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,253 | 4.57 | 429 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,145 | 4.71 | 178 |
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,933 | 4.57 | 429 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,915 | 4.89 | 12 |
@@ -141,7 +141,7 @@
 | 139 | [Torchlight II](games/t/torchlight_ii.md) | 970 | 4.58 | 413 |
 | 140 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 929 | 4.31 | 747 |
 | 141 | [Sonic Mania](games/s/sonic_mania.md) | 907 | 4.79 | 90 |
-| 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 860 | 4.69 | 213 |
+| 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 862 | 4.69 | 213 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 848 | 4.45 | 599 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 838 | 4.76 | 115 |
 | 144 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 838 | 4.55 | 466 |
@@ -206,8 +206,8 @@
 | 204 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 374 | 4.61 | 352 |
 | 205 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 881 |
 | 205 | [Nuclear Throne](games/n/nuclear_throne.md) | 367 | 4.79 | 90 |
-| 207 | [For The King](games/f/for_the_king.md) | 362 | 4.70 | 192 |
-| 207 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 362 | 4.24 | 782 |
+| 207 | [For The King](games/f/for_the_king.md) | 363 | 4.70 | 192 |
+| 208 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 362 | 4.24 | 782 |
 | 209 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 350 | 4.61 | 352 |
 | 210 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 341 | 4.32 | 739 |
 | 211 | [Dishonored 2](games/d/dishonored_2.md) | 337 | 4.79 | 90 |

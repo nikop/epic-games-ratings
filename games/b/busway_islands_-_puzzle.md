@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Island | 86.00% | ~24 |
-| Island 2 | 86.00% | ~24 |
-| Island 3 | 82.00% | ~23 |
-| Island 4 | 71.00% | ~20 |
+| First Island | 89.00% | ~25 |
+| Island 2 | 89.00% | ~25 |
+| Island 3 | 86.00% | ~24 |
+| Island 4 | 75.00% | ~21 |
 | Island 5 | 64.00% | ~18 |
 | Island 6 | 43.00% | ~12 |
 | Island 10 | 39.00% | ~11 |

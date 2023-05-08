@@ -8,12 +8,13 @@ Rating: 4.54 (Ranked 476)
 | Without Breaking Some Eggs... | 0.50% | ~9 |
 | The Ship of Theseus | 0.50% | ~9 |
 | Wakey Wakey | 0.40% | ~7 |
+| Exceeding Capacity | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
 | Sputnik 2049 | 0.30% | ~6 |
 | A Thousand Strong | 0.30% | ~6 |
-| Exceeding Capacity | 0.30% | ~6 |
 | Fully Recycled | 0.30% | ~6 |
 | Ready for a New World | 0.30% | ~6 |
+| Permanent Redesigns | 0.30% | ~6 |
 | Ain't Nobody Got Time for That | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
@@ -23,7 +24,6 @@ Rating: 4.54 (Ranked 476)
 | A Hunk of Junk | 0.20% | ~4 |
 | Power Outage | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
-| Permanent Redesigns | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
 | Hope Seeker | 0.20% | ~4 |

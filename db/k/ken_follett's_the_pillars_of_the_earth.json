@@ -457,7 +457,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12274,
+  "EOS_Progressed": 12275,
   "EOS_Completed": 93,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 3,
@@ -1382,6 +1382,11 @@
       "Time": "2023-05-08T05:06:26.0620847+00:00",
       "NumProgressed": 12274,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-08T06:06:16.293884+00:00",
+      "NumProgressed": 12275,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1409,7 +1414,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "tpote_achievement_12",
@@ -1449,7 +1454,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "tpote_achievement_17",
@@ -1489,7 +1494,7 @@
       "Name": "Boy of mystery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "tpote_achievement_21",
@@ -1537,7 +1542,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "tpote_achievement_27",
@@ -1561,7 +1566,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "tpote_achievement_3",
@@ -1569,7 +1574,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "tpote_achievement_30",
@@ -1577,7 +1582,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "tpote_achievement_31",
@@ -1585,7 +1590,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2209
+      "UsersEstimate": 2210
     },
     {
       "ID": "tpote_achievement_32",
@@ -1657,7 +1662,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "tpote_achievement_40",
@@ -1681,7 +1686,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "tpote_achievement_6",
@@ -1689,7 +1694,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "tpote_achievement_7",
@@ -1720,15 +1725,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12274,
+      "Progressed": 12275,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-08T05:06:26.0620842+00:00",
+  "LastChanged_Achievements": "2023-05-08T06:06:16.2938836+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-08T05:01:42.5187344+00:00",
-  "LastUpdate_Achievements": "2023-05-08T05:06:26.0621217+00:00"
+  "LastUpdate_Ratings": "2023-05-08T06:01:17.7555158+00:00",
+  "LastUpdate_Achievements": "2023-05-08T06:06:16.2939228+00:00"
 }

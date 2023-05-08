@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,889 |
-| That's a Grand Army | 8.00% | ~2,568 |
-| That is mine! | 8.00% | ~2,568 |
-| Victorious! | 8.00% | ~2,568 |
+| Until death do us apart | 9.00% | ~2,890 |
+| That's a Grand Army | 8.00% | ~2,569 |
+| That is mine! | 8.00% | ~2,569 |
+| Victorious! | 8.00% | ~2,569 |
 | Brothers in Arms | 6.00% | ~1,926 |
 | That's a Grand Navy | 6.00% | ~1,926 |
 | Seriously?! | 6.00% | ~1,926 |
@@ -43,9 +43,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.70% | ~225 |
 | Down Under | 0.60% | ~193 |
 | This navy can take it all | 0.60% | ~193 |
-| Electable! | 0.50% | ~160 |
-| Time Bandit | 0.50% | ~160 |
-| Trustworthy | 0.50% | ~160 |
+| Electable! | 0.50% | ~161 |
+| Time Bandit | 0.50% | ~161 |
+| Trustworthy | 0.50% | ~161 |
 | All belongs to Mother Russia | 0.40% | ~128 |
 | At every continent | 0.40% | ~128 |
 | Early-Modern Warfare | 0.40% | ~128 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,100 (Ranked 80)  
+Progressed: 32,108 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,100 | 0 |
+| 2023-05-08 | 32,108 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
 Sum: 42,931 (Ranked 27)  

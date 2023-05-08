@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.45,
   "NumberOfRatings": 125,
@@ -311,9 +311,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1497,
+  "EOS_Progressed": 1498,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -396,6 +396,11 @@
       "Time": "2023-05-07T13:09:32.1637658+00:00",
       "NumProgressed": 1497,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-08T06:06:26.4815099+00:00",
+      "NumProgressed": 1498,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -415,7 +420,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -431,7 +436,7 @@
       "Name": "Dishonored",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -559,7 +564,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -655,7 +660,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -703,7 +708,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -719,7 +724,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -735,7 +740,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -783,7 +788,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -791,7 +796,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -830,15 +835,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1497,
+      "Progressed": 1498,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-08T05:06:36.1551323+00:00",
+  "LastChanged_Achievements": "2023-05-08T06:06:26.4815095+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.5309725+00:00",
-  "LastUpdate_Ratings": "2023-05-08T05:00:01.5746662+00:00",
-  "LastUpdate_Achievements": "2023-05-08T05:06:36.1551779+00:00"
+  "LastUpdate_Ratings": "2023-05-08T05:59:42.7937734+00:00",
+  "LastUpdate_Achievements": "2023-05-08T06:06:26.4815537+00:00"
 }

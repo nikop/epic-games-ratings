@@ -3,9 +3,9 @@
 [View Rawdata](../../db/p/paragon__the_overprime.json)  
 Rating: 4.24 (Ranked 782)  
 ## Awards
-Max (Competitive Players): 362  (Ranked 207)  
+Max (Competitive Players): 362  (Ranked 208)  
 Sum: 2,862 (Ranked 153)  
-Diff (max vs sum): 54  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 362 |

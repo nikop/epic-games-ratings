@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -77,9 +77,9 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_boss2",
@@ -206,8 +206,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-08T05:06:34.4514691+00:00",
+  "LastChanged_Achievements": "2023-05-08T06:06:24.6545677+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-08T05:00:51.1504911+00:00",
-  "LastUpdate_Achievements": "2023-05-08T05:06:34.4514805+00:00"
+  "LastUpdate_Ratings": "2023-05-08T06:00:24.877982+00:00",
+  "LastUpdate_Achievements": "2023-05-08T06:06:24.6545895+00:00"
 }

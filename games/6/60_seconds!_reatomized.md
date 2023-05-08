@@ -10,10 +10,10 @@ Rating: 4.63 (Ranked 326)
 | All thumbs | 90.00% | ~3,565 |
 | Home, sweet home | 89.00% | ~3,525 |
 | Survivalist | 87.00% | ~3,446 |
-| One way ticket | 82.00% | ~3,248 |
+| One way ticket | 83.00% | ~3,288 |
 | Last man standing | 76.00% | ~3,010 |
 | Family guy | 75.00% | ~2,971 |
-| Out of the Bag | 71.00% | ~2,812 |
+| Out of the Bag | 72.00% | ~2,852 |
 | The Dark Side | 67.00% | ~2,654 |
 | Duck and cover! | 62.00% | ~2,456 |
 | Souper! | 60.00% | ~2,377 |

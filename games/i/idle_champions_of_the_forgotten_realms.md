@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~868 |
 | Vecna Out! | 1.00% | ~531 |
 | Pin and Skewer | 0.90% | ~478 |
+| The Cursed Farmer | 0.80% | ~695 |
 | Bully for Vecna | 0.70% | ~372 |
-| The Cursed Farmer | 0.70% | ~608 |
 | Beast Intentions | 0.60% | ~521 |
 | The Mad Wizard | 0.60% | ~521 |
 | The Ring of Regeneration | 0.50% | ~434 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,826 (Ranked 59)  
+Progressed: 86,829 (Ranked 59)  
 Completed: 1,812 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,10 +514,10 @@ Completed: 1,812 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,826 | 1,812 |
+| 2023-05-08 | 86,829 | 1,812 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
-Sum: 29,830 (Ranked 37)  
+Sum: 29,831 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -527,7 +527,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,479 |
 | This game is Highly Recommended | 3,932 |
 | This game has Amazing Characters | 3,930 |
-| This game has Playful Visuals | 3,226 |
+| This game has Playful Visuals | 3,227 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -633,3 +633,4 @@ Diff (max vs sum): 26
 | 2023-05-05 | 4.06 | - | 4,865 | 29,803 |
 | 2023-05-06 | 4.06 | - | 4,868 | 29,822 |
 | 2023-05-07 | 4.06 | - | 4,868 | 29,830 |
+| 2023-05-08 | 4.06 | - | 4,868 | 29,831 |

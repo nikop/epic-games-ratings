@@ -7,54 +7,54 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 83.00% | ~9,020 |
-| Settler | 82.00% | ~8,911 |
+| Settler | 82.00% | ~8,912 |
 | Explorer | 80.00% | ~8,694 |
-| Friendly Family | 76.00% | ~8,259 |
-| Intrepid | 70.00% | ~7,607 |
+| Friendly Family | 76.00% | ~8,260 |
+| Intrepid | 70.00% | ~7,608 |
 | Able | 62.00% | ~6,738 |
 | Architect | 62.00% | ~6,738 |
 | Mason | 62.00% | ~6,738 |
 | Strong | 61.00% | ~6,629 |
-| Hanging Gardens | 60.00% | ~6,520 |
+| Hanging Gardens | 60.00% | ~6,521 |
 | Noble | 59.00% | ~6,412 |
 | Oracle | 59.00% | ~6,412 |
-| Good | 57.00% | ~6,194 |
+| Good | 57.00% | ~6,195 |
 | Just | 56.00% | ~6,086 |
 | Judaism | 56.00% | ~6,086 |
 | Keystone | 55.00% | ~5,977 |
 | Glorious | 53.00% | ~5,760 |
 | Trade Caravan | 53.00% | ~5,760 |
-| Naming Landmarks | 51.00% | ~5,542 |
+| Naming Landmarks | 51.00% | ~5,543 |
 | Learned | 50.00% | ~5,434 |
 | Zoroastrianism | 50.00% | ~5,434 |
 | Fountainhead | 49.00% | ~5,325 |
 | Pioneer | 49.00% | ~5,325 |
 | Developing Cities | 49.00% | ~5,325 |
-| Magnificent | 47.00% | ~5,107 |
+| Magnificent | 47.00% | ~5,108 |
 | Strong Cities | 46.00% | ~4,999 |
 | Pyramids | 46.00% | ~4,999 |
 | Greek Paganism | 46.00% | ~4,999 |
-| Warrior | 45.00% | ~4,890 |
-| Ishtar Gate | 45.00% | ~4,890 |
-| Babylonian Paganism | 44.00% | ~4,781 |
+| Warrior | 45.00% | ~4,891 |
+| Ishtar Gate | 45.00% | ~4,891 |
+| Babylonian Paganism | 44.00% | ~4,782 |
 | Enlightened | 43.00% | ~4,673 |
-| Great Ziggurat | 42.00% | ~4,564 |
-| Christianity | 42.00% | ~4,564 |
-| Roman Paganism | 42.00% | ~4,564 |
-| Great | 41.00% | ~4,455 |
-| Lighthouse | 41.00% | ~4,455 |
+| Great Ziggurat | 42.00% | ~4,565 |
+| Christianity | 42.00% | ~4,565 |
+| Roman Paganism | 42.00% | ~4,565 |
+| Great | 41.00% | ~4,456 |
+| Lighthouse | 41.00% | ~4,456 |
 | Able Difficulty | 40.00% | ~4,347 |
-| Ambitious | 39.00% | ~4,238 |
-| Carthaginian Paganism | 39.00% | ~4,238 |
-| Necropolis | 38.00% | ~4,129 |
+| Ambitious | 39.00% | ~4,239 |
+| Carthaginian Paganism | 39.00% | ~4,239 |
+| Necropolis | 38.00% | ~4,130 |
 | Egyptian Paganism | 37.00% | ~4,021 |
 | Apadana | 36.00% | ~3,912 |
 | Musaeum | 36.00% | ~3,912 |
 | Manichaeism | 36.00% | ~3,912 |
-| Brilliant | 35.00% | ~3,803 |
+| Brilliant | 35.00% | ~3,804 |
 | Drillmaster | 33.00% | ~3,586 |
 | Colossus | 33.00% | ~3,586 |
-| Legendary Cities | 32.00% | ~3,477 |
+| Legendary Cities | 32.00% | ~3,478 |
 | Just Difficulty | 31.00% | ~3,369 |
 | Artisans | 31.00% | ~3,369 |
 | Furious Family | 31.00% | ~3,369 |
@@ -62,10 +62,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 31.00% | ~3,369 |
 | Mausoleum | 30.00% | ~3,260 |
 | Learn to Play 1 | 30.00% | ~3,260 |
-| Wise | 29.00% | ~3,151 |
+| Wise | 29.00% | ~3,152 |
 | Intercessor | 27.00% | ~2,934 |
-| Valiant | 26.00% | ~2,825 |
-| Sages | 26.00% | ~2,825 |
+| Valiant | 26.00% | ~2,826 |
+| Sages | 26.00% | ~2,826 |
 | Hanging Gardens in Babylon | 25.00% | ~2,717 |
 | Temple of Solomon | 25.00% | ~2,717 |
 | Persian Paganism | 25.00% | ~2,717 |
@@ -75,20 +75,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 24.00% | ~2,608 |
 | Power to the People | 24.00% | ~2,608 |
 | Building Wonders | 24.00% | ~2,608 |
-| Patrons | 23.00% | ~2,499 |
-| Learn to Play 2 | 23.00% | ~2,499 |
-| Legalism | 23.00% | ~2,499 |
+| Patrons | 23.00% | ~2,500 |
+| Learn to Play 2 | 23.00% | ~2,500 |
+| Legalism | 23.00% | ~2,500 |
 | Hittite Iron | 22.00% | ~2,391 |
 | Mighty | 21.00% | ~2,282 |
 | Hagia Sophia | 21.00% | ~2,282 |
 | Via Recta Souk | 21.00% | ~2,282 |
 | Dualism | 21.00% | ~2,282 |
 | Legionary | 21.00% | ~2,282 |
-| Statesmen | 20.00% | ~2,173 |
-| Circus Maximus | 20.00% | ~2,173 |
-| Adur Burzen-Mihr | 20.00% | ~2,173 |
-| Economic Reform | 20.00% | ~2,173 |
-| Cimmerian Archer | 20.00% | ~2,173 |
+| Statesmen | 20.00% | ~2,174 |
+| Circus Maximus | 20.00% | ~2,174 |
+| Adur Burzen-Mihr | 20.00% | ~2,174 |
+| Economic Reform | 20.00% | ~2,174 |
+| Cimmerian Archer | 20.00% | ~2,174 |
 | Conqueror | 19.00% | ~2,065 |
 | Victorious | 19.00% | ~2,065 |
 | Landowners | 19.00% | ~2,065 |
@@ -101,10 +101,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 18.00% | ~1,956 |
 | Phalangite | 18.00% | ~1,956 |
 | Double Victory | 18.00% | ~1,956 |
-| Beloved | 17.00% | ~1,847 |
-| Strong Difficulty | 17.00% | ~1,847 |
-| Military Prestige | 17.00% | ~1,847 |
-| Kushite Cavalry | 17.00% | ~1,847 |
+| Beloved | 17.00% | ~1,848 |
+| Strong Difficulty | 17.00% | ~1,848 |
+| Military Prestige | 17.00% | ~1,848 |
+| Kushite Cavalry | 17.00% | ~1,848 |
 | Bad Heir Day | 16.00% | ~1,739 |
 | Invincible | 16.00% | ~1,739 |
 | Lion | 16.00% | ~1,739 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 15.00% | ~1,630 |
 | Turreted Elephant | 15.00% | ~1,630 |
 | Win a Single Player Game | 15.00% | ~1,630 |
-| Rome | 14.00% | ~1,521 |
+| Rome | 14.00% | ~1,522 |
 | Peacemaker | 13.00% | ~1,413 |
 | Clerics | 13.00% | ~1,413 |
 | Egypt | 13.00% | ~1,413 |
@@ -144,9 +144,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 9.00% | ~978 |
 | Glorious Difficulty | 8.00% | ~869 |
 | Capturing Cities | 8.00% | ~869 |
+| Three Man Chariot | 8.00% | ~869 |
 | The Eternal Treaty | 7.00% | ~761 |
 | Assyria | 7.00% | ~761 |
-| Three Man Chariot | 7.00% | ~761 |
 | Magnificent Difficulty | 6.00% | ~652 |
 | Learn to Play 5 | 6.00% | ~652 |
 | Pantheon of Gods | 6.00% | ~652 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~11 |
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,867 (Ranked 103)  
+Progressed: 10,868 (Ranked 103)  
 Completed: 2 (0.02%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 2 (0.02%) (Ranked 176)
 | 2023-05-05 | 10,783 | 2 |
 | 2023-05-06 | 10,827 | 2 |
 | 2023-05-07 | 10,863 | 2 |
-| 2023-05-08 | 10,867 | 2 |
+| 2023-05-08 | 10,868 | 2 |
 ## Awards
 Max (Relaxing): 215  (Ranked 249)  
 Sum: 1,755 (Ranked 197)  
