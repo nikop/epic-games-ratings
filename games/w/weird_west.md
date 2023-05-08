@@ -6,19 +6,19 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,303 |
+| Unforgiven | 86.00% | ~1,289 |
 | Self-Improvement | 71.00% | ~1,064 |
 | Perky | 66.00% | ~989 |
 | Let’s Ride | 60.00% | ~899 |
 | Welcome to the Weird West | 58.00% | ~869 |
 | Dead or Alive | 56.00% | ~839 |
-| Full House | 37.00% | ~554 |
-| Off the Trail | 34.00% | ~509 |
-| Justice Served | 29.00% | ~434 |
-| Chain Reaction | 27.00% | ~404 |
-| Through Their Eyes | 26.00% | ~389 |
-| Rain of Death | 25.00% | ~374 |
-| Scholar | 25.00% | ~374 |
+| Full House | 36.00% | ~540 |
+| Off the Trail | 34.00% | ~510 |
+| Justice Served | 29.00% | ~435 |
+| Chain Reaction | 27.00% | ~405 |
+| Rain of Death | 25.00% | ~375 |
+| Scholar | 25.00% | ~375 |
+| Through Their Eyes | 25.00% | ~375 |
 | Dishonored | 24.00% | ~360 |
 | The Great Escape | 23.00% | ~345 |
 | That’s All, Folks | 18.00% | ~270 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~4 |
 | Revenant | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,498 (Ranked 149)  
+Progressed: 1,499 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 2 (0.13%) (Ranked 145)
 | 2023-05-05 | 1,495 | 2 |
 | 2023-05-06 | 1,496 | 2 |
 | 2023-05-07 | 1,497 | 2 |
-| 2023-05-08 | 1,498 | 2 |
+| 2023-05-08 | 1,499 | 2 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 468)  
 Sum: 23 (Ranked 470)  

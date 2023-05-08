@@ -20,19 +20,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.40% | ~347 |
 | Mad Cow Disease | 0.40% | ~347 |
 | Friendly Imps | 0.40% | ~347 |
-| Maddening | 0.30% | ~260 |
+| Maddening | 0.30% | ~261 |
 | Best Thay Ever | 0.30% | ~159 |
 | The Sanctum of the Sword | 0.30% | ~159 |
 | Get Back In The Castle | 0.30% | ~159 |
-| A Persistent Buzzing | 0.30% | ~260 |
-| Terror in the Dark | 0.30% | ~260 |
-| A Mysterious Summons | 0.30% | ~260 |
-| Unearthed Evil | 0.30% | ~260 |
-| The Crumbling Temple | 0.30% | ~260 |
-| Exploring Port Nyanzaru | 0.30% | ~260 |
-| The Contagious Curse | 0.30% | ~260 |
-| Escort to Waterdeep | 0.30% | ~260 |
-| Pure Energy | 0.30% | ~260 |
+| A Persistent Buzzing | 0.30% | ~261 |
+| Terror in the Dark | 0.30% | ~261 |
+| A Mysterious Summons | 0.30% | ~261 |
+| Unearthed Evil | 0.30% | ~261 |
+| The Crumbling Temple | 0.30% | ~261 |
+| Exploring Port Nyanzaru | 0.30% | ~261 |
+| The Contagious Curse | 0.30% | ~261 |
+| Escort to Waterdeep | 0.30% | ~261 |
+| Pure Energy | 0.30% | ~261 |
 | Pros and CONs | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
 | The Witchlight Carnival | 0.20% | ~106 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,832 (Ranked 59)  
-Completed: 1,812 (2.09%) (Ranked 56)  
+Progressed: 86,836 (Ranked 59)  
+Completed: 1,813 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -514,7 +514,7 @@ Completed: 1,812 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,832 | 1,812 |
+| 2023-05-08 | 86,836 | 1,813 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,831 (Ranked 37)  

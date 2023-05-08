@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Rating": 4.16,
   "RatingHistory": [
     {
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4849,
+  "EOS_Progressed": 4850,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -814,6 +814,11 @@
       "Time": "2023-05-08T04:07:07.3138294+00:00",
       "NumProgressed": 4849,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-08T08:06:28.8850138+00:00",
+      "NumProgressed": 4850,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -825,7 +830,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4025
+      "UsersEstimate": 4026
     },
     {
       "ID": "ACH02",
@@ -865,7 +870,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACH07",
@@ -897,7 +902,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "ACH11",
@@ -1009,7 +1014,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH25",
@@ -1056,7 +1061,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4849,
+      "Progressed": 4850,
       "Completed": 26
     }
   ],
@@ -1064,8 +1069,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-08T07:06:17.5427692+00:00",
+  "LastChanged_Achievements": "2023-05-08T08:06:28.8850133+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-08T06:59:05.9797681+00:00",
-  "LastUpdate_Achievements": "2023-05-08T07:06:17.5427873+00:00"
+  "LastUpdate_Ratings": "2023-05-08T07:59:18.6475424+00:00",
+  "LastUpdate_Achievements": "2023-05-08T08:06:28.8850321+00:00"
 }

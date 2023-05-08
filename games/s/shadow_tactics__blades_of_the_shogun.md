@@ -7,9 +7,9 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 10.00% | ~16,558 |
-| Thorough | 8.00% | ~13,246 |
-| A thief's beginning | 7.00% | ~11,590 |
-| Tanuki Time | 7.00% | ~11,590 |
+| Thorough | 8.00% | ~13,247 |
+| A thief's beginning | 7.00% | ~11,591 |
+| Tanuki Time | 7.00% | ~11,591 |
 | Disguised | 6.00% | ~9,935 |
 | Jonin | 6.00% | ~9,935 |
 | Rescue Takuma | 6.00% | ~9,935 |
@@ -23,12 +23,12 @@ Number of Ratings: 495  (23.09.2022)
 | Mugen Unchained | 4.00% | ~6,623 |
 | Okkoto | 4.00% | ~6,623 |
 | Warzone | 4.00% | ~6,623 |
-| Gear up | 3.00% | ~4,967 |
-| Happy little accidents | 3.00% | ~4,967 |
-| Noboru | 3.00% | ~4,967 |
-| Prisoners | 3.00% | ~4,967 |
-| Still Rollin' | 3.00% | ~4,967 |
-| Too Early | 3.00% | ~4,967 |
+| Gear up | 3.00% | ~4,968 |
+| Happy little accidents | 3.00% | ~4,968 |
+| Noboru | 3.00% | ~4,968 |
+| Prisoners | 3.00% | ~4,968 |
+| Still Rollin' | 3.00% | ~4,968 |
+| Too Early | 3.00% | ~4,968 |
 | It's raining men | 2.00% | ~3,312 |
 | Stoned | 2.00% | ~3,312 |
 | The Old Way | 2.00% | ~3,312 |
@@ -40,7 +40,7 @@ Number of Ratings: 495  (23.09.2022)
 | Winner Winner | 1.00% | ~1,656 |
 | Undeserved Honor | 0.80% | ~1,325 |
 | When Cut Across the Neck | 0.70% | ~1,159 |
-| High Five the Moon | 0.60% | ~993 |
+| High Five the Moon | 0.60% | ~994 |
 | The Cave | 0.50% | ~828 |
 | Merciful | 0.40% | ~662 |
 | Time Paradox | 0.40% | ~662 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~166 |
 | Release the Kraken | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,576 (Ranked 50)  
+Progressed: 165,585 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,14 +69,14 @@ Completed: 41 (0.02%) (Ranked 176)
 | 2023-05-05 | 164,750 | 41 |
 | 2023-05-06 | 165,108 | 41 |
 | 2023-05-07 | 165,504 | 41 |
-| 2023-05-08 | 165,576 | 41 |
+| 2023-05-08 | 165,585 | 41 |
 ## Awards
-Max (Great for Beginners): 547  (Ranked 173)  
-Sum: 4,648 (Ranked 125)  
+Max (Great for Beginners): 548  (Ranked 173)  
+Sum: 4,649 (Ranked 125)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 547 |
+| This game is Great for Beginners | 548 |
 | This game has Diverse Characters | 517 |
 | This game is Extremely Fun | 510 |
 | This game has Amazing Storytelling | 497 |
@@ -193,3 +193,4 @@ Diff (max vs sum): 48
 | 2023-05-04 | 4.66 | - | 547 | 4,644 |
 | 2023-05-05 | 4.66 | - | 547 | 4,646 |
 | 2023-05-07 | 4.66 | - | 547 | 4,648 |
+| 2023-05-08 | 4.66 | - | 548 | 4,649 |

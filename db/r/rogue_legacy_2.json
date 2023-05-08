@@ -1044,9 +1044,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21465,
+  "EOS_Progressed": 21466,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1794,6 +1794,11 @@
       "Time": "2023-05-08T07:06:37.6957151+00:00",
       "NumProgressed": 21465,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-08T08:06:48.5464225+00:00",
+      "NumProgressed": 21466,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -1819,9 +1824,9 @@
       "ID": "AllEquipment",
       "SetID": "3ojhj46",
       "Name": "Black-shoppe",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 21
     },
     {
       "ID": "AllFriends",
@@ -2116,21 +2121,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21465,
+      "Progressed": 21466,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-06T20:00:16.7467137+00:00",
-  "LastChanged_Achievements": "2023-05-08T07:06:37.6957147+00:00",
+  "LastChanged_Achievements": "2023-05-08T08:06:48.546422+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.4659285+00:00",
-  "LastUpdate_Ratings": "2023-05-08T07:00:18.2477335+00:00",
-  "LastUpdate_Achievements": "2023-05-08T07:06:37.6957424+00:00"
+  "LastUpdate_Ratings": "2023-05-08T08:00:41.1845633+00:00",
+  "LastUpdate_Achievements": "2023-05-08T08:06:48.5464493+00:00"
 }

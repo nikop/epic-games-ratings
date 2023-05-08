@@ -14,6 +14,7 @@
 | From X to Y | 60.00% | ~3 |
 | Full Steam ahead | 60.00% | ~3 |
 | Country Bumpkin | 60.00% | ~3 |
+| Country Life | 60.00% | ~3 |
 | Producer | 60.00% | ~3 |
 | Way of Iron | 60.00% | ~3 |
 | All around the World | 60.00% | ~3 |
@@ -21,7 +22,6 @@
 | Seven at one stroke | 40.00% | ~2 |
 | Facility Manager | 40.00% | ~2 |
 | General Manager | 40.00% | ~2 |
-| Country Life | 40.00% | ~2 |
 | Brainstorm | 40.00% | ~2 |
 | Access granted | 40.00% | ~2 |
 | Bold and beautiful | 40.00% | ~2 |
@@ -36,6 +36,8 @@
 | Resistance is futile | 20.00% | ~1 |
 | Go West | 20.00% | ~1 |
 | A new Hope | 20.00% | ~1 |
+| Unstoppable | 20.00% | ~1 |
+| Track to the Future | 20.00% | ~1 |
 | Traffic Jam | 20.00% | ~1 |
 | Going once, going twice, sold | 20.00% | ~1 |
 | Hostile Takeover | 20.00% | ~1 |
@@ -43,8 +45,6 @@
 | Locusts | 20.00% | ~1 |
 | Mole | 20.00% | ~1 |
 | Networker | 20.00% | ~1 |
-| Unstoppable | 0.00% | ~0 |
-| Track to the Future | 0.00% | ~0 |
 | Conductor | 0.00% | ~0 |
 | Engineer | 0.00% | ~0 |
 | European Union | 0.00% | ~0 |

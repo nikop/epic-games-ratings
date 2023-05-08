@@ -81,17 +81,17 @@
       "ID": "A06",
       "SetID": "9b7p7eo",
       "Name": "Unstoppable",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A07",
       "SetID": "9b7p7eo",
       "Name": "Track to the Future",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A08",
@@ -201,9 +201,9 @@
       "ID": "A21",
       "SetID": "9b7p7eo",
       "Name": "Country Life",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A22",
@@ -479,8 +479,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-08T07:06:29.4268624+00:00",
+  "LastChanged_Achievements": "2023-05-08T08:06:40.5494585+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.2422566+00:00",
-  "LastUpdate_Ratings": "2023-05-08T06:59:12.8733978+00:00",
-  "LastUpdate_Achievements": "2023-05-08T07:06:29.4269002+00:00"
+  "LastUpdate_Ratings": "2023-05-08T07:59:26.4007721+00:00",
+  "LastUpdate_Achievements": "2023-05-08T08:06:40.5494983+00:00"
 }

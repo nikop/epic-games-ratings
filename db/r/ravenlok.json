@@ -19,10 +19,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 493,
-  "EOS_Completed": 28,
+  "EOS_Completed": 29,
   "EOS_NewPlayers": 437,
-  "EOS_NewCompleters": 21,
-  "EOS_Completed_Percentage": 5.68,
+  "EOS_NewCompleters": 22,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -613,6 +613,11 @@
       "Time": "2023-05-08T07:06:12.9752814+00:00",
       "NumProgressed": 493,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-08T08:06:24.4453537+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 50,
@@ -686,9 +691,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "18",
@@ -982,17 +987,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "7",
@@ -1024,15 +1029,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 493,
-      "Completed": 28
+      "Completed": 29
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-08T07:06:12.975281+00:00",
+  "LastChanged_Achievements": "2023-05-08T08:06:24.4453534+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-08T06:58:40.9889383+00:00",
-  "LastUpdate_Achievements": "2023-05-08T07:06:12.9753175+00:00"
+  "LastUpdate_Ratings": "2023-05-08T07:58:48.2738032+00:00",
+  "LastUpdate_Achievements": "2023-05-08T08:06:24.4453899+00:00"
 }

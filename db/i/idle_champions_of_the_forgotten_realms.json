@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3584,10 +3584,10 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86832,
-  "EOS_Completed": 1812,
-  "EOS_NewPlayers": 710,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 86836,
+  "EOS_Completed": 1813,
+  "EOS_NewPlayers": 706,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5059,6 +5059,11 @@
       "Time": "2023-05-08T07:06:59.171996+00:00",
       "NumProgressed": 86832,
       "NumCompleted": 1812
+    },
+    {
+      "Time": "2023-05-08T08:07:20.3997714+00:00",
+      "NumProgressed": 86836,
+      "NumCompleted": 1813
     }
   ],
   "TotalAchievements": 489,
@@ -5078,7 +5083,7 @@
       "Name": "Maddening",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_100",
@@ -6046,7 +6051,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_130",
@@ -6190,7 +6195,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_150",
@@ -6262,7 +6267,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_165",
@@ -6398,7 +6403,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_20",
@@ -6758,7 +6763,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_36",
@@ -7214,7 +7219,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_540",
@@ -7614,7 +7619,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_60",
@@ -8142,7 +8147,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_690",
@@ -8814,7 +8819,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_902",
@@ -8981,21 +8986,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53106,
+      "Progressed": 53110,
       "Completed": 2479
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86832,
-      "Completed": 1812
+      "Progressed": 86836,
+      "Completed": 1813
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-08T05:59:18.0601163+00:00",
-  "LastChanged_Achievements": "2023-05-08T07:06:59.1719956+00:00",
+  "LastChanged_Achievements": "2023-05-08T08:07:20.3997709+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-08T06:59:12.6190716+00:00",
-  "LastUpdate_Achievements": "2023-05-08T07:06:59.1741884+00:00"
+  "LastUpdate_Ratings": "2023-05-08T07:59:26.1352558+00:00",
+  "LastUpdate_Achievements": "2023-05-08T08:07:20.4019896+00:00"
 }

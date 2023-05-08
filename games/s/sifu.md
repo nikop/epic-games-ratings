@@ -10,10 +10,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 3.00% | ~360 |
 | Bloody Sport | 1.00% | ~120 |
 | The best strikes are the ones we avoid | 0.90% | ~108 |
+| Qi Gong: Breath | 0.80% | ~5,622 |
 | The Hateful Pole Fighter | 0.70% | ~4,919 |
 | A Lady's Blood in the Snow | 0.70% | ~4,919 |
 | State of constant learning | 0.70% | ~4,919 |
-| Qi Gong: Breath | 0.70% | ~4,919 |
 | Path of the Prospect | 0.70% | ~4,919 |
 | Rumble in the Hangar | 0.70% | ~4,919 |
 | The Assault | 0.60% | ~4,216 |

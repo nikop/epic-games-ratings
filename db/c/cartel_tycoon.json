@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.35,
   "NumberOfRatings": 101,
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -442,6 +442,11 @@
       "Time": "2023-05-07T17:06:51.3555415+00:00",
       "NumProgressed": 310,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T08:07:12.3461101+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -453,7 +458,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "cool-shirts",
@@ -477,7 +482,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "female-conqueror",
@@ -501,7 +506,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "kill-lieutenants",
@@ -517,7 +522,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "play-at-night",
@@ -579,9 +584,9 @@
       "ID": "unlock-residences",
       "SetID": "bed33dd",
       "Name": "Pampered Life",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 75
     },
     {
       "ID": "upgrade-building",
@@ -589,7 +594,7 @@
       "Name": "Take-Off",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "use-submarine",
@@ -604,15 +609,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-08T07:06:51.4624516+00:00",
+  "LastChanged_Achievements": "2023-05-08T08:07:12.3461096+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.865388+00:00",
-  "LastUpdate_Ratings": "2023-05-08T07:01:16.275413+00:00",
-  "LastUpdate_Achievements": "2023-05-08T07:06:51.4624649+00:00"
+  "LastUpdate_Ratings": "2023-05-08T08:01:41.840305+00:00",
+  "LastUpdate_Achievements": "2023-05-08T08:07:12.3461223+00:00"
 }

@@ -22,7 +22,7 @@
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.47% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 5.68% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.88% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |

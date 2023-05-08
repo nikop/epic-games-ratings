@@ -40,13 +40,13 @@
 | Kidnapped! | 27.00% | ~133 |
 | Pull the Plug | 25.00% | ~123 |
 | Soul Slayer | 25.00% | ~123 |
+| The Downfall | 25.00% | ~123 |
 | All Heart | 25.00% | ~123 |
 | Trick Question! | 25.00% | ~123 |
 | Extraordinary! | 25.00% | ~123 |
 | Final Showdown | 25.00% | ~123 |
-| The Downfall | 24.00% | ~118 |
-| Spot of Tea? | 24.00% | ~118 |
-| Going Home | 24.00% | ~118 |
+| Spot of Tea? | 25.00% | ~123 |
+| Going Home | 25.00% | ~123 |
 | Mirror, Mirror | 23.00% | ~113 |
 | Flower Power | 21.00% | ~104 |
 | Crowned | 18.00% | ~89 |
@@ -56,7 +56,7 @@
 | Dance Master | 6.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 493 (Ranked 188)  
-Completed: 28 (5.68%) (Ranked 23)  
+Completed: 29 (5.88%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 28 (5.68%) (Ranked 23)
 | 2023-05-05 | 345 | 12 |
 | 2023-05-06 | 426 | 18 |
 | 2023-05-07 | 479 | 26 |
-| 2023-05-08 | 493 | 28 |
+| 2023-05-08 | 493 | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

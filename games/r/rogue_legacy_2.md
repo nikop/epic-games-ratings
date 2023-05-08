@@ -11,6 +11,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Harvest and Home | 0.20% | ~43 |
 | Poise and Poisons | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~21 |
+| Black-shoppe | 0.10% | ~21 |
 | Full House | 0.10% | ~21 |
 | Pillow Investments | 0.10% | ~21 |
 | Erebus Purified | 0.10% | ~21 |
@@ -40,13 +41,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | Jack of all Trades | 0.10% | ~21 |
 | Color Coordination | 0.10% | ~21 |
 | Rogue's Legacy | 0.00% | ~0 |
-| Black-shoppe | 0.00% | ~0 |
 | It Was Just an Estimate | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,465 (Ranked 89)  
+Progressed: 21,466 (Ranked 89)  
 Completed: 35 (0.16%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 35 (0.16%) (Ranked 138)
 | 2023-05-05 | 21,431 | 35 |
 | 2023-05-06 | 21,450 | 35 |
 | 2023-05-07 | 21,462 | 35 |
-| 2023-05-08 | 21,465 | 35 |
+| 2023-05-08 | 21,466 | 35 |
 ## Awards
 Max (Extremely Fun): 215  (Ranked 249)  
 Sum: 1,622 (Ranked 201)  
