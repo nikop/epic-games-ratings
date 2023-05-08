@@ -45,7 +45,7 @@
 | Trapped | 13.00% | ~1 |
 | What A Mansion | 13.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 314)  
+Progressed: 8 (Ranked 315)  
 Completed: 1 (12.50%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |

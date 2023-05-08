@@ -2,9 +2,9 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -597,9 +597,9 @@
       "ID": "achAlice",
       "SetID": "72gjli4",
       "Name": "Boss 1 \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achAliceTwo",
@@ -749,9 +749,9 @@
       "ID": "achEva",
       "SetID": "72gjli4",
       "Name": "Eva \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achExplosion",
@@ -1006,8 +1006,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:07:14.6184525+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:07:08.9172444+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:01:52.1551864+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:07:14.6184995+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:01:27.9975966+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:07:08.9172833+00:00"
 }

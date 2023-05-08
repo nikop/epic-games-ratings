@@ -18,10 +18,10 @@
 | Held Back by the Roots | 12.00% | ~304 |
 | Well Supplied | 11.00% | ~279 |
 | Damage Control | 8.00% | ~203 |
+| Master of the Brawl | 8.00% | ~203 |
 | Sniped | 7.00% | ~178 |
 | Leave Them no Cake | 7.00% | ~178 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~178 |
-| Master of the Brawl | 7.00% | ~178 |
 | A Secret Recipe | 6.00% | ~152 |
 | Your Biggest Fans | 5.00% | ~127 |
 | An Ally in Need | 5.00% | ~127 |

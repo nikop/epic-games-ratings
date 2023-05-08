@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.46,
   "RatingHistory": [
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242674,
+  "EOS_Progressed": 242679,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1510,6 +1510,11 @@
       "Time": "2023-05-08T15:06:45.3995894+00:00",
       "NumProgressed": 242674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T16:06:49.2621992+00:00",
+      "NumProgressed": 242679,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -1521,7 +1526,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14560
+      "UsersEstimate": 14561
     },
     {
       "ID": "aWinnerIsYou",
@@ -1537,7 +1542,7 @@
       "Name": "And You\u0027re Okay",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4853
+      "UsersEstimate": 4854
     },
     {
       "ID": "beAgressive",
@@ -1545,7 +1550,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48535
+      "UsersEstimate": 48536
     },
     {
       "ID": "blotbuster",
@@ -1553,7 +1558,7 @@
       "Name": "Blotbuster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4853
+      "UsersEstimate": 4854
     },
     {
       "ID": "breakingOut",
@@ -1569,7 +1574,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14560
+      "UsersEstimate": 14561
     },
     {
       "ID": "canYouDigIt",
@@ -1593,7 +1598,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36401
+      "UsersEstimate": 36402
     },
     {
       "ID": "clearCut",
@@ -1617,7 +1622,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43681
+      "UsersEstimate": 43682
     },
     {
       "ID": "curator",
@@ -1625,7 +1630,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 48535
+      "UsersEstimate": 48536
     },
     {
       "ID": "didYourTime",
@@ -1697,7 +1702,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 128617
+      "UsersEstimate": 128620
     },
     {
       "ID": "indegestible",
@@ -1713,7 +1718,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16987
+      "UsersEstimate": 16988
     },
     {
       "ID": "itsTheFall",
@@ -1721,7 +1726,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63095
+      "UsersEstimate": 63097
     },
     {
       "ID": "justABit",
@@ -1753,7 +1758,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 33974
+      "UsersEstimate": 33975
     },
     {
       "ID": "myFirstRunbow",
@@ -1761,7 +1766,7 @@
       "Name": "My First Runbow",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 123764
+      "UsersEstimate": 123766
     },
     {
       "ID": "notScared",
@@ -1793,7 +1798,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16987
+      "UsersEstimate": 16988
     },
     {
       "ID": "rideTheWave",
@@ -1825,7 +1830,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 50962
+      "UsersEstimate": 50963
     },
     {
       "ID": "thunderstruck",
@@ -1881,14 +1886,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 38828
+      "UsersEstimate": 38829
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 242674,
+      "Progressed": 242679,
       "Completed": 1
     }
   ],
@@ -1896,8 +1901,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:06:45.3995888+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:06:49.2621985+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.9561807+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:00:49.0461543+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:06:45.3996321+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:00:28.5811557+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:06:49.2622358+00:00"
 }

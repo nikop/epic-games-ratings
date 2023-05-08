@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9982,
+  "EOS_Progressed": 9983,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -313,6 +313,11 @@
       "Time": "2023-05-08T15:06:20.8179968+00:00",
       "NumProgressed": 9982,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-08T16:06:24.4650678+00:00",
+      "NumProgressed": 9983,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -348,7 +353,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -436,7 +441,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -444,7 +449,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -484,7 +489,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7686
+      "UsersEstimate": 7687
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -548,7 +553,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9583
+      "UsersEstimate": 9584
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -564,7 +569,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5889
+      "UsersEstimate": 5890
     },
     {
       "ID": "ACH_NIGHT",
@@ -644,7 +649,7 @@
       "Name": "food tour: pasta",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "ACH_WEEKLY",
@@ -660,22 +665,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7187
+      "UsersEstimate": 7188
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 9982,
+      "Progressed": 9983,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:06:20.8179963+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:06:24.4650675+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:45.0012761+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:58:50.2287509+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:06:20.8180287+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:58:56.1530737+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:06:24.4650945+00:00"
 }

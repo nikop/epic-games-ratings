@@ -2,7 +2,7 @@
   "ID": "100aa04135c6441b9b31d7af84f768c0",
   "Name": "Big Pharma",
   "ProductSlug": "big-pharma",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.713618+00:00",
   "LastChanged": "2023-03-31T05:57:10.713618+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:30.8088341+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:00:58.4390248+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:05:28.4922315+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:00:37.4249241+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:05:30.8003794+00:00"
 }

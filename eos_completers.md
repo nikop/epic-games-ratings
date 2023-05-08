@@ -9,7 +9,7 @@
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
+| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
@@ -17,18 +17,18 @@
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.69% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 18 | [Remains](games/r/remains.md) | 7.14% |
-| 19 | [Scorn](games/s/scorn.md) | 7.11% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
+| 18 | [Scorn](games/s/scorn.md) | 7.11% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
+| 20 | [Remains](games/r/remains.md) | 6.67% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.29% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.00% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.99% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 25 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 27 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
-| 28 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
-| 28 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
+| 28 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
+| 29 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 31 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.21% |
 | 32 | [Doodle God](games/d/doodle_god.md) | 4.02% |
@@ -54,7 +54,7 @@
 | 52 | [JARS](games/j/jars.md) | 2.56% |
 | 53 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 54 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 55 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.38% |
+| 55 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.33% |
 | 56 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 57 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 58 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
@@ -258,6 +258,7 @@
 | 193 | [Forspoken](games/f/forspoken.md) | 0.00% |
 | 193 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.00% |
 | 193 | [FUR Squadron](games/f/fur_squadron.md) | 0.00% |
+| 193 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 0.00% |
 | 193 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 0.00% |
 | 193 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 0.00% |
 | 193 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 0.00% |

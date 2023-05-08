@@ -22,12 +22,12 @@
 | Salvation! | 11.00% | ~22 |
 | Heavenly Virtues | 11.00% | ~22 |
 | Brilliant Inventor | 8.00% | ~16 |
+| Greatest inventor | 8.00% | ~16 |
 | Master of the Worlds | 7.00% | ~14 |
-| Greatest inventor | 7.00% | ~14 |
 | Master of Alchemy | 6.00% | ~12 |
 | God of Patience | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 222)  
+Progressed: 199 (Ranked 223)  
 Completed: 8 (4.02%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |

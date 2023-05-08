@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.56,
   "NumberOfRatings": 524,
@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46065,
+  "EOS_Progressed": 46068,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1248,6 +1248,11 @@
       "Time": "2023-05-08T15:06:29.8307837+00:00",
       "NumProgressed": 46065,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-08T16:06:33.5894847+00:00",
+      "NumProgressed": 46068,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1259,7 +1264,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8752
+      "UsersEstimate": 8753
     },
     {
       "ID": "02",
@@ -1267,7 +1272,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5988
+      "UsersEstimate": 5989
     },
     {
       "ID": "03",
@@ -1531,7 +1536,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7370
+      "UsersEstimate": 7371
     },
     {
       "ID": "36",
@@ -1794,21 +1799,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46065,
+      "Progressed": 46068,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9533,
+      "Progressed": 9536,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:06:29.8307832+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:06:33.5894844+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:59:12.396279+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:06:29.8308526+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:59:09.753063+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:06:33.5895419+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "88cd0bb7736b4e7a9a11083f48f94ee4",
   "Name": "Kredolis",
   "ProductSlug": "kredolis-cbd516",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5817971+00:00",
   "LastChanged": "2023-03-31T05:57:23.5817972+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.1213028+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:00:28.8043893+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:02:38.6285873+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:00:14.6995443+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:02:11.9753537+00:00"
 }

@@ -20,12 +20,12 @@ Rating: 4.12 (Ranked 851)
 | Help Me Out Here | 4.00% | ~1,509 |
 | The Interloper | 3.00% | ~1,132 |
 | Hop, Step, Jump | 3.00% | ~1,132 |
-| Outdoorsperson | 2.00% | ~754 |
-| What Must Be Done | 2.00% | ~754 |
-| Might and Main | 2.00% | ~754 |
-| Damned If You Do... | 2.00% | ~754 |
-| From Every Angle | 2.00% | ~754 |
-| Endless Runner | 2.00% | ~754 |
+| Outdoorsperson | 2.00% | ~755 |
+| What Must Be Done | 2.00% | ~755 |
+| Might and Main | 2.00% | ~755 |
+| Damned If You Do... | 2.00% | ~755 |
+| From Every Angle | 2.00% | ~755 |
+| Endless Runner | 2.00% | ~755 |
 | The Hue of Blue | 1.00% | ~377 |
 | Breaking Point | 1.00% | ~377 |
 | None the Wiser | 1.00% | ~377 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 851)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,725 (Ranked 79)  
+Progressed: 37,726 (Ranked 79)  
 Completed: 1 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 1 (0.00%) (Ranked 193)
 | 2023-05-05 | 37,585 | 1 |
 | 2023-05-06 | 37,643 | 1 |
 | 2023-05-07 | 37,697 | 1 |
-| 2023-05-08 | 37,725 | 1 |
+| 2023-05-08 | 37,726 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

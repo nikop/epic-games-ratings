@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 79.00% | ~3,358 |
+| Longrunner | 79.00% | ~3,359 |
 | Sword Runner | 62.00% | ~2,636 |
 | Wallrunner | 58.00% | ~2,466 |
-| Running out of breath | 57.00% | ~2,423 |
+| Running out of breath | 57.00% | ~2,424 |
 | Homerunner | 47.00% | ~1,998 |
 | Out of order | 47.00% | ~1,998 |
-| I call it luck | 46.00% | ~1,955 |
-| Where are my Keys? | 44.00% | ~1,870 |
+| I call it luck | 46.00% | ~1,956 |
+| Where are my Keys? | 44.00% | ~1,871 |
 | Back to hell | 39.00% | ~1,658 |
-| Perfection | 34.00% | ~1,445 |
-| Sword to a gunfight | 32.00% | ~1,360 |
-| Why not both | 32.00% | ~1,360 |
-| Artificial selection | 30.00% | ~1,275 |
-| Control freak | 30.00% | ~1,275 |
-| Running Wild | 30.00% | ~1,275 |
-| Upgrades not mandatory | 30.00% | ~1,275 |
-| Finish line | 28.00% | ~1,190 |
+| Perfection | 34.00% | ~1,446 |
+| Sword to a gunfight | 32.00% | ~1,361 |
+| Why not both | 32.00% | ~1,361 |
+| Artificial selection | 30.00% | ~1,276 |
+| Control freak | 30.00% | ~1,276 |
+| Running Wild | 30.00% | ~1,276 |
+| Upgrades not mandatory | 30.00% | ~1,276 |
+| Finish line | 28.00% | ~1,191 |
 | Unstoppable force | 24.00% | ~1,020 |
 | Wave of mutilation | 23.00% | ~978 |
 | Can't Run Can't Hide | 20.00% | ~850 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~21 |
 | Up Close And Personal | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,251 (Ranked 124)  
+Progressed: 4,252 (Ranked 124)  
 Completed: 21 (0.49%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 21 (0.49%) (Ranked 100)
 | 2023-05-05 | 3,981 | 20 |
 | 2023-05-06 | 4,083 | 20 |
 | 2023-05-07 | 4,199 | 21 |
-| 2023-05-08 | 4,251 | 21 |
+| 2023-05-08 | 4,252 | 21 |
 ## Awards
 Max (Great Boss Battles): 455  (Ranked 188)  
 Sum: 587 (Ranked 280)  

@@ -25,7 +25,7 @@
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 490 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,374 | 117 |
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,347 | 31 |
-| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,004 | 135 |
+| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,005 | 135 |
 | 27 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 490 |
 | 27 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 477 |
 | 27 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 139 | 287 |
@@ -115,7 +115,7 @@
 | 103 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 490 |
 | 103 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 453 |
 | 115 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 490 |
-| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,122 | 23 |
+| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,140 | 23 |
 | 115 | [Dead Space](games/d/dead_space.md) | 4.76 | 40 | 408 |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 841 | 144 |
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 490 |
@@ -176,9 +176,9 @@
 | 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 490 |
 | 166 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 490 |
 | 166 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 490 |
-| 166 | [Timberborn](games/t/timberborn.md) | 4.72 | 117 | 304 |
+| 166 | [Timberborn](games/t/timberborn.md) | 4.72 | 118 | 303 |
 | 178 | [Barony](games/b/barony.md) | 4.71 | 70 | 362 |
-| 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 316 | 219 |
+| 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 318 | 217 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 490 |
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,243 | 51 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 468 |
@@ -225,7 +225,7 @@
 | 213 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 453 |
 | 213 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 490 |
 | 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 490 |
-| 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 60 | 376 |
+| 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 60 | 377 |
 | 213 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,488 | 113 |
 | 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 862 | 142 |
 | 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 490 |
@@ -311,7 +311,7 @@
 | 309 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 490 |
 | 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,924 | 54 |
 | 309 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 307 |
-| 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,089 | 102 |
+| 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,092 | 102 |
 | 309 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 59 | 379 |
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 490 |
 | 309 | [HITMAN](games/h/hitman.md) | 4.64 | 196 | 258 |
@@ -392,7 +392,7 @@
 | 376 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 483 |
 | 376 | [Wall World](games/w/wall_world.md) | 4.60 | 0 | 490 |
 | 376 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 490 |
-| 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 317 | 218 |
+| 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 317 | 219 |
 | 376 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 342 |
 | 376 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 490 |
 | 396 | [Aimlabs](games/a/aimlabs.md) | 4.59 | 0 | 490 |
@@ -442,7 +442,7 @@
 | 430 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 420 |
 | 430 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,253 | 42 |
 | 430 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,041 | 85 |
-| 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 117 | 304 |
+| 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 117 | 305 |
 | 430 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,200 | 19 |
 | 430 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,738 | 109 |
 | 430 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 76 | 350 |
@@ -642,7 +642,7 @@
 | 637 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 367 |
 | 637 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 227 |
 | 637 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,042 | 130 |
-| 643 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 376 |
+| 643 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 377 |
 | 643 | [ELEX](games/e/elex.md) | 4.42 | 24 | 465 |
 | 643 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 180 | 266 |
 | 643 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 490 |
@@ -731,7 +731,7 @@
 | 723 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,877 | 61 |
 | 723 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 242 |
 | 723 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
-| 723 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 60 | 376 |
+| 723 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 62 | 373 |
 | 733 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 490 |
 | 733 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
 | 733 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 0 | 490 |

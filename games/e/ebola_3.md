@@ -19,18 +19,18 @@
 | Betty ✔ | 5.00% | ~8 |
 | Cheats ✔ | 5.00% | ~8 |
 | City ✔ | 5.00% | ~8 |
+| Eva ✔ | 5.00% | ~8 |
 | Fraternal help ✔ | 5.00% | ~8 |
 | King of survival ✔ | 5.00% | ~8 |
 | Thirst ✔ | 5.00% | ~8 |
+| Boss 1 ✔ | 4.00% | ~6 |
 | Alice ✔ | 4.00% | ~6 |
 | Brain ✔ | 4.00% | ~6 |
-| Eva ✔ | 4.00% | ~6 |
 | Food ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
 | Infected ✔ | 4.00% | ~6 |
 | All secrets revealed ✔ | 4.00% | ~6 |
-| Boss 1 ✔ | 3.00% | ~5 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
 | Mutant fight ✔ | 3.00% | ~5 |
@@ -55,7 +55,7 @@
 | Exterminate pests ✔ | 0.70% | ~1 |
 | Rank A+ ✔ | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152 (Ranked 233)  
+Progressed: 152 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |

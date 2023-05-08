@@ -2,7 +2,7 @@
   "ID": "8c32c11719374c049cac0b07d2a338a0",
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
-  "Ranking_EOS_Progress": 188,
+  "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 7,
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 501,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 6,
+  "EOS_Completed_Percentage": 5.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -638,6 +638,11 @@
       "Time": "2023-05-08T15:06:21.3185954+00:00",
       "NumProgressed": 500,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-08T16:06:24.9732727+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -649,15 +654,15 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "10",
       "SetID": "d0g98p",
       "Name": "Piece of Cake",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 180
     },
     {
       "ID": "11",
@@ -729,7 +734,7 @@
       "Name": "A Grand Visit",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "2",
@@ -737,7 +742,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "20",
@@ -759,9 +764,9 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "23",
@@ -775,9 +780,9 @@
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "25",
@@ -809,7 +814,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "29",
@@ -825,7 +830,7 @@
       "Name": "Vibing",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "30",
@@ -913,7 +918,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "40",
@@ -985,7 +990,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "49",
@@ -1025,7 +1030,7 @@
       "Name": "Fun Guy",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "8",
@@ -1048,7 +1053,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 501,
       "Completed": 30
     }
   ],
@@ -1056,8 +1061,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:06:21.3185949+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:06:24.9732724+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:58:59.4597059+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:06:21.3186411+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:59:01.6433854+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:06:24.9733089+00:00"
 }

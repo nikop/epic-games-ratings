@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 61.00% | ~263 |
+| Buckle up | 60.00% | ~259 |
 | Quick charge | 60.00% | ~259 |
-| Buckle up | 59.00% | ~254 |
 | Hands up! | 53.00% | ~228 |
 | Now you know | 53.00% | ~228 |
 | Short circuit | 53.00% | ~228 |
@@ -37,7 +37,7 @@
 | Accurate | 5.00% | ~22 |
 | Silent | 4.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431 (Ranked 190)  
+Progressed: 431 (Ranked 191)  
 Completed: 15 (3.48%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |

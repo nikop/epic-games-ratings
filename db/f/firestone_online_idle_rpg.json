@@ -5,9 +5,9 @@
   "Ranking_Rating": 918,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 3.4,
   "RatingHistory": [
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 912,
+  "EOS_Progressed": 913,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1203,6 +1203,11 @@
       "Time": "2023-05-08T14:09:12.0935797+00:00",
       "NumProgressed": 912,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T16:06:40.5159382+00:00",
+      "NumProgressed": 913,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1302,7 +1307,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "doingmypart",
@@ -1462,7 +1467,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "howdoyouturnthison",
@@ -1542,7 +1547,7 @@
       "Name": "Milestone collector",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "minerclicker",
@@ -1606,7 +1611,7 @@
       "Name": "Prestigious",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "prestigiousx10",
@@ -1638,7 +1643,7 @@
       "Name": "Scientist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "scrollmaster",
@@ -1774,7 +1779,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "warmachinesarmy",
@@ -1806,14 +1811,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 912,
+      "Progressed": 913,
       "Completed": 1
     }
   ],
@@ -1821,8 +1826,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:06:36.6905252+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:06:40.5159378+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:59:35.121268+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:06:36.6906071+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:59:28.6841517+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:06:40.5160064+00:00"
 }

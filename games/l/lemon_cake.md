@@ -22,7 +22,7 @@
 | The Famous Lemon Cake | 5.00% | ~6 |
 | Bakery Empire | 4.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 245)  
+Progressed: 118 (Ranked 246)  
 Completed: 1 (0.85%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |

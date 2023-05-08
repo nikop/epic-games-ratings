@@ -2,7 +2,7 @@
   "ID": "00968dd40b6e49548220ce6f215cbb44",
   "Name": "Absolute Tactics",
   "ProductSlug": "absolute-tactics-ca91e4",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:12.7178805+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:01:44.0094483+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:05:55.6146147+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:01:19.5835396+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:05:57.8369162+00:00"
 }

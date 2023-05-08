@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 100.00% | ~24 |
-| First Blood | 63.00% | ~15 |
+| First Blood | 67.00% | ~16 |
 | No Asperascope | 54.00% | ~13 |
-| Triple Kill | 50.00% | ~12 |
-| Cornivore | 50.00% | ~12 |
+| Triple Kill | 54.00% | ~13 |
+| Cornivore | 54.00% | ~13 |
 | Drinking Problem | 29.00% | ~7 |
 | 15K | 25.00% | ~6 |
 | 10K | 25.00% | ~6 |
@@ -49,7 +49,7 @@
 | Pro Digger | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 288)  
+Progressed: 24 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |

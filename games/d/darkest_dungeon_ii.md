@@ -6,38 +6,39 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nope | 120.00% | ~6 |
-| A Place to Lay Your Head | 100.00% | ~5 |
-| The World As It Was | 80.00% | ~4 |
-| This Looks Familiar | 80.00% | ~4 |
-| Hope Rekindled | 80.00% | ~4 |
-| To Grandmother's House | 60.00% | ~3 |
-| Body of Work | 60.00% | ~3 |
-| Don't Make Me Turn This Coach Around | 40.00% | ~2 |
-| Serenity Now! | 40.00% | ~2 |
-| Resurrection | 40.00% | ~2 |
-| Unleash Hell | 40.00% | ~2 |
-| Funny Guy | 40.00% | ~2 |
-| Long Live the King | 40.00% | ~2 |
-| Wyrdly Reconstructed | 40.00% | ~2 |
-| Boxcar Kid | 40.00% | ~2 |
-| Unfulfilled Desires | 40.00% | ~2 |
-| Shrine of Reflection | 40.00% | ~2 |
-| A Clear Conscience | 40.00% | ~2 |
-| Eidetic | 40.00% | ~2 |
-| Unshackled | 40.00% | ~2 |
-| Hot Air | 40.00% | ~2 |
-| Eyes Up | 40.00% | ~2 |
-| Handled | 40.00% | ~2 |
-| Loop Year | 20.00% | ~1 |
-| Predator | 20.00% | ~1 |
-| Deprogramming | 20.00% | ~1 |
-| Hat Trick | 20.00% | ~1 |
-| Rush Hour | 20.00% | ~1 |
-| Merry Time | 20.00% | ~1 |
-| Harvest Festival | 20.00% | ~1 |
-| Autodidact | 20.00% | ~1 |
-| It Rings a Bell | 0.00% | ~0 |
+| A Clear Conscience | 94.00% | ~1,381 |
+| Unleash Hell | 77.00% | ~1,131 |
+| Funny Guy | 77.00% | ~1,131 |
+| Long Live the King | 74.00% | ~1,087 |
+| Unfulfilled Desires | 74.00% | ~1,087 |
+| Unshackled | 73.00% | ~1,072 |
+| Wyrdly Reconstructed | 71.00% | ~1,043 |
+| Hope Rekindled | 71.00% | ~1,043 |
+| Boxcar Kid | 68.00% | ~999 |
+| This Looks Familiar | 58.00% | ~852 |
+| Hot Air | 51.00% | ~749 |
+| Eyes Up | 32.00% | ~470 |
+| A Place to Lay Your Head | 13.00% | ~191 |
+| Nope | 9.00% | ~132 |
+| Resurrection | 4.00% | ~59 |
+| The World As It Was | 0.60% | ~9 |
+| To Grandmother's House | 0.40% | ~6 |
+| Eidetic | 0.40% | ~6 |
+| Body of Work | 0.40% | ~6 |
+| Don't Make Me Turn This Coach Around | 0.20% | ~3 |
+| Serenity Now! | 0.20% | ~3 |
+| Shrine of Reflection | 0.20% | ~3 |
+| When You Want Something Done Right | 0.20% | ~3 |
+| Handled | 0.20% | ~3 |
+| It Rings a Bell | 0.10% | ~1 |
+| Loop Year | 0.10% | ~1 |
+| Predator | 0.10% | ~1 |
+| Deprogramming | 0.10% | ~1 |
+| Hat Trick | 0.10% | ~1 |
+| Rush Hour | 0.10% | ~1 |
+| Merry Time | 0.10% | ~1 |
+| Harvest Festival | 0.10% | ~1 |
+| Autodidact | 0.10% | ~1 |
 | A Life Well Lived | 0.00% | ~0 |
 | This Belongs in a Museum | 0.00% | ~0 |
 | Dissector | 0.00% | ~0 |
@@ -63,7 +64,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Tears in the Rain | 0.00% | ~0 |
 | Whale | 0.00% | ~0 |
 | Triage | 0.00% | ~0 |
-| When You Want Something Done Right | 0.00% | ~0 |
 | FNG | 0.00% | ~0 |
 | Pub Crawl | 0.00% | ~0 |
 | The Clash | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.00% | ~0 |
 | Road Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 326)  
+Progressed: 1,469 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,22 +80,23 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-03 | 2 | 0 |
 | 2023-05-04 | 4 | 0 |
 | 2023-05-05 | 5 | 0 |
+| 2023-05-08 | 1,469 | 0 |
 ## Awards
 Max (Character Customization): 6,522  (Ranked 48)  
-Sum: 16,653 (Ranked 57)  
+Sum: 16,657 (Ranked 57)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,522 |
 | This game has Diverse Characters | 1,235 |
-| This game has Challenging Combat | 1,230 |
+| This game has Challenging Combat | 1,232 |
 | This game is Highly Recommended | 1,222 |
 | This game is Extremely Fun | 1,189 |
 | This game has Amazing Characters | 1,175 |
 | This game has Amazing Storytelling | 1,132 |
 | This game has Quickly Understood Controls | 1,123 |
 | This game has Unique Visuals | 1,047 |
-| This game has a Creative Community | 778 |
+| This game has a Creative Community | 780 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -203,4 +204,4 @@ Diff (max vs sum): -9
 | 2023-05-05 | 4.67 | - | 6,514 | 16,606 |
 | 2023-05-06 | 4.67 | - | 6,517 | 16,626 |
 | 2023-05-07 | 4.67 | - | 6,517 | 16,637 |
-| 2023-05-08 | 4.67 | - | 6,522 | 16,653 |
+| 2023-05-08 | 4.67 | - | 6,522 | 16,657 |

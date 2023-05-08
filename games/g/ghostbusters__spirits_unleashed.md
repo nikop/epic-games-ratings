@@ -23,8 +23,8 @@ Rating: 4.49 (Ranked 552)
 | Solo Capture | 32.00% | ~6,922 |
 | Ghostbuster In Training | 31.00% | ~6,706 |
 | Icing on the Cake | 30.00% | ~6,489 |
+| Side Hustle | 29.00% | ~6,273 |
 | Legions | 28.00% | ~6,057 |
-| Side Hustle | 28.00% | ~6,057 |
 | We have the best insurance | 27.00% | ~5,840 |
 | Pesky Jerks | 27.00% | ~5,840 |
 | Right back at ya | 27.00% | ~5,840 |

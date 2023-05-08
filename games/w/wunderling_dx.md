@@ -46,7 +46,7 @@
 | Release The Croaker | 10.00% | ~4 |
 | To Beet, Or Not To Beet | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 278)  
+Progressed: 40 (Ranked 279)  
 Completed: 1 (2.50%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |

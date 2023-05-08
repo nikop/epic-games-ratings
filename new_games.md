@@ -97,4 +97,3 @@
 | [BROK the InvestiGator](games/b/brok_the_investigator.md) | - | - | 0 | - |
 | [Glover](games/g/glover.md) | - | - | 0 | - |
 | [Unusual Findings](games/u/unusual_findings.md) | - | - | 0 | - |
-| [The Library of Babel](games/t/the_library_of_babel.md) | - | - | 0 | - |

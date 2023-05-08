@@ -5,27 +5,27 @@ Rating: 4.63 (Ranked 325)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,422 |
-| Mainframe Hacker | 48.00% | ~2,567 |
-| Tomorrow Never Dyes | 47.00% | ~2,513 |
-| The Spy who eliminated me | 47.00% | ~2,513 |
-| Never Say Loser Again | 42.00% | ~2,246 |
-| From the Vault with Love | 39.00% | ~2,085 |
-| For your Eyes only | 39.00% | ~2,085 |
-| Tailor-Made | 38.00% | ~2,032 |
-| Fully Decked Out | 37.00% | ~1,978 |
-| You Only Live Twice | 32.00% | ~1,711 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,423 |
+| Mainframe Hacker | 48.00% | ~2,568 |
+| Tomorrow Never Dyes | 48.00% | ~2,568 |
+| The Spy who eliminated me | 47.00% | ~2,514 |
+| Never Say Loser Again | 42.00% | ~2,247 |
+| From the Vault with Love | 39.00% | ~2,086 |
+| For your Eyes only | 39.00% | ~2,086 |
+| Tailor-Made | 38.00% | ~2,033 |
+| Fully Decked Out | 37.00% | ~1,979 |
+| You Only Live Twice | 32.00% | ~1,712 |
 | A view to Win | 29.00% | ~1,551 |
 | Smells Like Trouble | 27.00% | ~1,444 |
-| In It to Win It | 26.00% | ~1,390 |
-| Private Collection | 26.00% | ~1,390 |
+| In It to Win It | 26.00% | ~1,391 |
+| Private Collection | 26.00% | ~1,391 |
 | The Living Portrait | 25.00% | ~1,337 |
 | Killer Looks | 25.00% | ~1,337 |
 | Hostile Takeover | 25.00% | ~1,337 |
-| Assistant Accountant | 24.00% | ~1,283 |
-| Keycards Royale | 24.00% | ~1,283 |
-| Dr. No Kill | 24.00% | ~1,283 |
-| My Motto, My Creed | 24.00% | ~1,283 |
+| Assistant Accountant | 24.00% | ~1,284 |
+| Keycards Royale | 24.00% | ~1,284 |
+| Dr. No Kill | 24.00% | ~1,284 |
+| My Motto, My Creed | 24.00% | ~1,284 |
 | Security Supervisor | 9.00% | ~481 |
 | License to Thrill | 8.00% | ~428 |
 | Social of Solace | 8.00% | ~428 |
@@ -42,7 +42,7 @@ Rating: 4.63 (Ranked 325)
 | Extraction Confusion | 0.30% | ~16 |
 | Spyfall | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,347 (Ranked 118)  
+Progressed: 5,349 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-05 | 5,201 | 0 |
 | 2023-05-06 | 5,268 | 0 |
 | 2023-05-07 | 5,311 | 0 |
-| 2023-05-08 | 5,347 | 0 |
+| 2023-05-08 | 5,349 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

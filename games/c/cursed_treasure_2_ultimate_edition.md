@@ -14,9 +14,9 @@
 | Your War is Over | 81.00% | ~121 |
 | The Starry Night | 75.00% | ~112 |
 | Go Home! | 74.00% | ~110 |
+| Brilliant: Meadowshire | 72.00% | ~107 |
 | Look After the Pence... | 72.00% | ~107 |
 | Sergeant of the Evil | 72.00% | ~107 |
-| Brilliant: Meadowshire | 71.00% | ~106 |
 | Drunken Master | 71.00% | ~106 |
 | V.I.P. Cemetery | 69.00% | ~103 |
 | Takeover | 68.00% | ~101 |
@@ -58,7 +58,7 @@
 | Loveless | 17.00% | ~25 |
 | Hostile Waters | 15.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 237)  
+Progressed: 149 (Ranked 238)  
 Completed: 19 (12.75%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 43,
   "Rating": 4.16,
   "RatingHistory": [
     {
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4852,
+  "EOS_Progressed": 4853,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-05-08T12:08:35.51699+00:00",
       "NumProgressed": 4852,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-08T16:06:29.2888852+00:00",
+      "NumProgressed": 4853,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -840,7 +845,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4027
+      "UsersEstimate": 4028
     },
     {
       "ID": "ACH02",
@@ -862,9 +867,9 @@
       "ID": "ACH04",
       "SetID": "552d41m",
       "Name": "Disposing of the Evidence",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACH05",
@@ -960,7 +965,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ACH17",
@@ -1071,7 +1076,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4852,
+      "Progressed": 4853,
       "Completed": 26
     }
   ],
@@ -1079,8 +1084,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:06:25.497933+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:06:29.2888849+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:59:30.4027631+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:06:25.4979568+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:59:25.2230281+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:06:29.2889039+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.73,
   "RatingHistory": [
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1922,
+  "EOS_Progressed": 1923,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -963,6 +963,11 @@
       "Time": "2023-05-08T13:14:31.9171526+00:00",
       "NumProgressed": 1922,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T16:06:32.6040263+00:00",
+      "NumProgressed": 1923,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -982,7 +987,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1014,7 +1019,7 @@
       "Name": "Hijack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1038,7 +1043,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1046,7 +1051,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -1054,7 +1059,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1078,7 +1083,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1158,7 +1163,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1206,7 +1211,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1214,7 +1219,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1222,7 +1227,7 @@
       "Name": "Sacred Woods",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -1278,7 +1283,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1342,7 +1347,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -1350,7 +1355,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1397,7 +1402,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1922,
+      "Progressed": 1923,
       "Completed": 1
     }
   ],
@@ -1405,8 +1410,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:06:28.8065312+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:06:32.604026+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:59:11.369495+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:06:28.806581+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:59:08.8477684+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:06:32.6040679+00:00"
 }

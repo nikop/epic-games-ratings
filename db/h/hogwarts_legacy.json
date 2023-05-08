@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 14,
   "Rating": 4.77,
   "RatingHistory": [
@@ -1978,10 +1978,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 33830,
       "NumberOfAwardsMax": 18546
+    },
+    {
+      "Time": "2023-05-08T15:58:51.5912811+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33858,
+      "NumberOfAwardsMax": 18546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33830,
+  "NumberOfAwards": 33858,
   "NumberOfAwardsMax": 18546,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1995,7 +2001,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8647
+      "Count": 8675
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2058,9 +2064,9 @@
       "Count": 455
     }
   ],
-  "EOS_Progressed": 266223,
+  "EOS_Progressed": 266227,
   "EOS_Completed": 353,
-  "EOS_NewPlayers": 1215,
+  "EOS_NewPlayers": 1208,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3563,6 +3569,11 @@
       "Time": "2023-05-08T15:02:24.8765937+00:00",
       "NumProgressed": 266223,
       "NumCompleted": 353
+    },
+    {
+      "Time": "2023-05-08T16:01:58.8532373+00:00",
+      "NumProgressed": 266227,
+      "NumCompleted": 353
     }
   ],
   "TotalAchievements": 45,
@@ -3662,7 +3673,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "PFA_20",
@@ -3726,7 +3737,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "PFA_28",
@@ -3774,7 +3785,7 @@
       "Name": "Room with a View",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "PFA_33",
@@ -3790,7 +3801,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "PFA_35",
@@ -3822,7 +3833,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "PFA_39",
@@ -3838,7 +3849,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "PFA_40",
@@ -3854,7 +3865,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "PFA_42",
@@ -3933,16 +3944,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266223,
+      "Progressed": 266227,
       "Completed": 353
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-08T13:59:02.3392173+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:02:24.8765933+00:00",
+  "LastChanged": "2023-05-08T15:58:51.5912809+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:01:58.8532364+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-08T14:58:44.7672971+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:02:24.8766418+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:58:51.5912815+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:01:58.8532804+00:00"
 }

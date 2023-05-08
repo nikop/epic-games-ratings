@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Jeweller | 0.00% | ~0 |
 | The Hare with an espresso | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698 (Ranked 174)  
+Progressed: 698 (Ranked 175)  
 Completed: 1 (0.14%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |

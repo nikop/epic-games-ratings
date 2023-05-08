@@ -153,6 +153,7 @@
 | [Full Metal Sergeant](../games/f/full_metal_sergeant.md) | 10 | 1,000 |
 | [FUR Squadron](../games/f/fur_squadron.md) | 24 | 1,000 |
 | [Fusion Paradox](../games/f/fusion_paradox.md) | 15 | 1,000 |
+| [FutureGrind](../games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 18 | 1,000 |
 | [Galactic Civilizations IV](../games/g/galactic_civilizations_iv.md) | 72 | 1,000 |
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
 | [Garden In](../games/g/garden_in.md) | 31 | 1,000 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.45,
   "NumberOfRatings": 125,
@@ -476,9 +476,9 @@
       "ID": "ACH_EXPLORER",
       "SetID": "8j30i9k",
       "Name": "Explorer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FALLEN_STAR",
@@ -852,8 +852,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-08T15:06:30.4000721+00:00",
+  "LastChanged_Achievements": "2023-05-08T16:06:34.063886+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.5309725+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:00:04.8975168+00:00",
-  "LastUpdate_Achievements": "2023-05-08T15:06:30.4001178+00:00"
+  "LastUpdate_Ratings": "2023-05-08T15:59:53.0665274+00:00",
+  "LastUpdate_Achievements": "2023-05-08T16:06:34.0639232+00:00"
 }

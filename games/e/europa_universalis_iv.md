@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,912 |
-| That's a Grand Army | 8.00% | ~2,589 |
-| That is mine! | 8.00% | ~2,589 |
-| Victorious! | 8.00% | ~2,589 |
-| Brothers in Arms | 6.00% | ~1,942 |
-| That's a Grand Navy | 6.00% | ~1,942 |
-| Seriously?! | 6.00% | ~1,942 |
-| For the Glory | 5.00% | ~1,618 |
-| Cold War | 4.00% | ~1,294 |
-| True Catholic | 4.00% | ~1,294 |
-| Defender of the Faith | 3.00% | ~971 |
-| It's all about the money | 3.00% | ~971 |
-| Respected | 3.00% | ~971 |
-| Blockader | 2.00% | ~647 |
-| Combined Arms | 2.00% | ~647 |
-| Double the Love | 2.00% | ~647 |
-| Gentle Persuasion | 2.00% | ~647 |
-| It's all about luck | 2.00% | ~647 |
-| Queen of Conquest | 2.00% | ~647 |
-| Royal Authority | 2.00% | ~647 |
-| The Princess is in this Castle | 2.00% | ~647 |
-| Total Control | 2.00% | ~647 |
-| Truly Divine Ruler | 2.00% | ~647 |
+| Until death do us apart | 9.00% | ~2,916 |
+| That's a Grand Army | 8.00% | ~2,592 |
+| That is mine! | 8.00% | ~2,592 |
+| Victorious! | 8.00% | ~2,592 |
+| Brothers in Arms | 6.00% | ~1,944 |
+| That's a Grand Navy | 6.00% | ~1,944 |
+| Seriously?! | 6.00% | ~1,944 |
+| For the Glory | 5.00% | ~1,620 |
+| Cold War | 4.00% | ~1,296 |
+| True Catholic | 4.00% | ~1,296 |
+| Defender of the Faith | 3.00% | ~972 |
+| It's all about the money | 3.00% | ~972 |
+| Respected | 3.00% | ~972 |
+| Blockader | 2.00% | ~648 |
+| Combined Arms | 2.00% | ~648 |
+| Double the Love | 2.00% | ~648 |
+| Gentle Persuasion | 2.00% | ~648 |
+| It's all about luck | 2.00% | ~648 |
+| Queen of Conquest | 2.00% | ~648 |
+| Royal Authority | 2.00% | ~648 |
+| The Princess is in this Castle | 2.00% | ~648 |
+| Total Control | 2.00% | ~648 |
+| Truly Divine Ruler | 2.00% | ~648 |
 | Agressive Expander | 1.00% | ~324 |
 | All That's Thine Shall Be Mine | 1.00% | ~324 |
 | Azur semé de lis or | 1.00% | ~324 |
@@ -46,15 +46,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Electable! | 0.50% | ~162 |
 | Time Bandit | 0.50% | ~162 |
 | Trustworthy | 0.50% | ~162 |
-| All belongs to Mother Russia | 0.40% | ~129 |
-| At every continent | 0.40% | ~129 |
-| Early-Modern Warfare | 0.40% | ~129 |
-| One Family to Rule them All | 0.40% | ~129 |
-| The Continuation of Diplomacy | 0.40% | ~129 |
-| The pen is mightier than the sword | 0.40% | ~129 |
-| This is My Faith | 0.40% | ~129 |
-| Trophy Hunter | 0.40% | ~129 |
-| Voting Streak | 0.40% | ~129 |
+| All belongs to Mother Russia | 0.40% | ~130 |
+| At every continent | 0.40% | ~130 |
+| Early-Modern Warfare | 0.40% | ~130 |
+| One Family to Rule them All | 0.40% | ~130 |
+| The Continuation of Diplomacy | 0.40% | ~130 |
+| The pen is mightier than the sword | 0.40% | ~130 |
+| This is My Faith | 0.40% | ~130 |
+| Trophy Hunter | 0.40% | ~130 |
+| Voting Streak | 0.40% | ~130 |
 | Absolutely | 0.30% | ~97 |
 | All Your Trade Are Belong to Us | 0.30% | ~97 |
 | Bleed Them Dry | 0.30% | ~97 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,361 (Ranked 80)  
+Progressed: 32,405 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,361 | 0 |
+| 2023-05-08 | 32,405 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
 Sum: 42,944 (Ranked 27)  

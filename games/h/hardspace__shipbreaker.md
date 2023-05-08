@@ -10,7 +10,7 @@ Number of Ratings: 36  (23.09.2022)
 | It’s Heating up! | 69.00% | ~413 |
 | Let’s patch things up | 65.00% | ~389 |
 | I can fix it! | 62.00% | ~371 |
-| Post No Bills | 55.00% | ~329 |
+| Post No Bills | 56.00% | ~335 |
 | Truly Shocking! | 47.00% | ~282 |
 | Critical Thinker | 34.00% | ~204 |
 | Always Finding Your Mark | 29.00% | ~174 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599 (Ranked 179)  
+Progressed: 599 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
