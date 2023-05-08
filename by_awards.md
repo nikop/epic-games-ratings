@@ -16,7 +16,7 @@
 | 14 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 30,333 | 4.59 | 395 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,436 | 4.65 | 287 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,119 | 4.52 | 500 |
-| 17 | [Dauntless](games/d/dauntless.md) | 19,714 | 4.53 | 488 |
+| 17 | [Dauntless](games/d/dauntless.md) | 19,727 | 4.53 | 488 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,488 | 4.77 | 103 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,200 | 4.57 | 429 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,997 | 4.89 | 12 |
@@ -34,8 +34,8 @@
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,195 | 4.69 | 213 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,134 | 4.45 | 599 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 9,289 | 4.88 | 18 |
-| 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,051 | 4.60 | 376 |
-| 36 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 9,038 | 4.24 | 782 |
+| 35 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 9,106 | 4.24 | 782 |
+| 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,051 | 4.60 | 376 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 8,871 | 4.78 | 101 |
 | 38 | [Control](games/c/control.md) | 8,263 | 4.60 | 376 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,923 | 4.76 | 115 |
@@ -45,7 +45,7 @@
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,145 | 4.71 | 178 |
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,933 | 4.57 | 429 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,915 | 4.89 | 12 |
-| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,729 | 4.47 | 575 |
+| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,741 | 4.47 | 575 |
 | 47 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 642 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,522 | 4.67 | 256 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,493 | 4.74 | 141 |
@@ -55,7 +55,7 @@
 | 53 | [Sifu](games/s/sifu.md) | 6,041 | 4.82 | 60 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,924 | 4.64 | 309 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,827 | 4.79 | 90 |
-| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,761 | 4.66 | 271 |
+| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,762 | 4.66 | 271 |
 | 57 | [Prey](games/p/prey.md) | 5,532 | 4.62 | 337 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,474 | 4.82 | 60 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,458 | 4.85 | 37 |
@@ -356,11 +356,11 @@
 | 354 | [Armored Warfare](games/a/armored_warfare.md) | 73 | 4.12 | 850 |
 | 354 | [Rising Hell](games/r/rising_hell.md) | 73 | 4.40 | 667 |
 | 356 | [Carcassonne](games/c/carcassonne.md) | 72 | 4.66 | 271 |
+| 356 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 72 | 4.33 | 732 |
 | 356 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.41 | 652 |
 | 356 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 72 | 4.62 | 337 |
-| 359 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 71 | 4.33 | 732 |
-| 359 | [MORDHAU](games/m/mordhau.md) | 71 | 4.42 | 642 |
-| 359 | [Train Valley 2](games/t/train_valley_2.md) | 71 | 4.15 | 839 |
+| 360 | [MORDHAU](games/m/mordhau.md) | 71 | 4.42 | 642 |
+| 360 | [Train Valley 2](games/t/train_valley_2.md) | 71 | 4.15 | 839 |
 | 362 | [Barony](games/b/barony.md) | 70 | 4.71 | 178 |
 | 363 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 232 |
 | 363 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 447 |

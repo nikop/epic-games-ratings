@@ -284,7 +284,7 @@
 | 271 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 547 | 173 |
 | 271 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 465 |
 | 271 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 421 | 191 |
-| 271 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,761 | 56 |
+| 271 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,762 | 56 |
 | 271 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 186 |
 | 287 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 490 |
 | 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,421 | 68 |
@@ -385,7 +385,7 @@
 | 376 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 381 |
 | 376 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 559 | 169 |
 | 376 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 373 |
-| 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,051 | 35 |
+| 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,051 | 36 |
 | 376 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
 | 376 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 490 |
 | 376 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 440 | 189 |
@@ -490,7 +490,7 @@
 | 488 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 490 |
 | 488 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 490 |
 | 488 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 490 |
-| 488 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,714 | 17 |
+| 488 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,727 | 17 |
 | 488 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 138,104 | 7 |
 | 488 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 301 |
 | 488 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 490 |
@@ -583,7 +583,7 @@
 | 575 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 490 |
 | 575 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 490 |
 | 575 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 321 |
-| 575 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,729 | 46 |
+| 575 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,741 | 46 |
 | 575 | [The Surge](games/t/the_surge.md) | 4.47 | 26 | 459 |
 | 575 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 490 |
 | 575 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 0 | 490 |
@@ -645,7 +645,7 @@
 | 642 | [ELEX](games/e/elex.md) | 4.42 | 24 | 465 |
 | 642 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 180 | 266 |
 | 642 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 490 |
-| 642 | [MORDHAU](games/m/mordhau.md) | 4.42 | 71 | 359 |
+| 642 | [MORDHAU](games/m/mordhau.md) | 4.42 | 71 | 360 |
 | 642 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,108 | 127 |
 | 642 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 47 |
 | 642 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 234 |
@@ -735,7 +735,7 @@
 | 732 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
 | 732 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 0 | 490 |
 | 732 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 490 |
-| 732 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 71 | 359 |
+| 732 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 72 | 356 |
 | 732 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 490 |
 | 732 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 490 |
 | 739 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 341 | 210 |
@@ -783,7 +783,7 @@
 | 777 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 490 |
 | 782 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 490 |
 | 782 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 439 |
-| 782 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,038 | 36 |
+| 782 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,106 | 35 |
 | 782 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 362 | 207 |
 | 782 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 490 |
 | 782 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 490 |
@@ -841,7 +841,7 @@
 | 839 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 0 | 490 |
 | 839 | [Pine](games/p/pine.md) | 4.15 | 0 | 490 |
 | 839 | [Relicta](games/r/relicta.md) | 4.15 | 193 | 260 |
-| 839 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 359 |
+| 839 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 360 |
 | 839 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 490 |
 | 844 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 490 |
 | 844 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 490 |

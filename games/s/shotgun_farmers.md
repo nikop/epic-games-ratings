@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 104.00% | ~24 |
-| First Blood | 61.00% | ~14 |
-| No Asperascope | 57.00% | ~13 |
-| Triple Kill | 52.00% | ~12 |
-| Cornivore | 52.00% | ~12 |
-| Drinking Problem | 30.00% | ~7 |
-| 15K | 26.00% | ~6 |
-| 10K | 26.00% | ~6 |
-| Skin Of Your Teeth | 22.00% | ~5 |
-| Pork Chop Express | 22.00% | ~5 |
+| Seeds of War | 100.00% | ~24 |
+| First Blood | 58.00% | ~14 |
+| No Asperascope | 54.00% | ~13 |
+| Triple Kill | 50.00% | ~12 |
+| Cornivore | 50.00% | ~12 |
+| Drinking Problem | 29.00% | ~7 |
+| 15K | 25.00% | ~6 |
+| 10K | 25.00% | ~6 |
+| Skin Of Your Teeth | 21.00% | ~5 |
+| Pork Chop Express | 21.00% | ~5 |
 | Graveside Survivor | 17.00% | ~4 |
 | Fresh Pancake | 13.00% | ~3 |
 | Forestside Survivor | 13.00% | ~3 |
 | Quit Horsin' Around | 13.00% | ~3 |
-| Chick Magnet | 9.00% | ~2 |
-| Getting Started | 9.00% | ~2 |
-| Early Bird | 9.00% | ~2 |
-| Eggtraordinary | 9.00% | ~2 |
-| Carrocketeer | 9.00% | ~2 |
+| Chick Magnet | 8.00% | ~2 |
+| Getting Started | 8.00% | ~2 |
+| Early Bird | 8.00% | ~2 |
+| Eggtraordinary | 8.00% | ~2 |
+| Carrocketeer | 8.00% | ~2 |
 | Bring Home The Bacon | 4.00% | ~1 |
 | 15 Days | 4.00% | ~1 |
 | Honk Honk | 4.00% | ~1 |
@@ -49,7 +49,7 @@
 | Pro Digger | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 288)  
+Progressed: 24 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 13 | 0 |
 | 2023-05-06 | 15 | 0 |
 | 2023-05-07 | 23 | 0 |
+| 2023-05-08 | 24 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

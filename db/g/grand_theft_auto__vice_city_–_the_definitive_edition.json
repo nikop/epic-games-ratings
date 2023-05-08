@@ -280,9 +280,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 6084,
+  "EOS_Progressed": 6085,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1100,6 +1100,11 @@
       "Time": "2023-05-08T00:06:11.6329993+00:00",
       "NumProgressed": 6084,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-08T04:07:10.0176298+00:00",
+      "NumProgressed": 6085,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1271,7 +1276,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "ACH22",
@@ -1287,7 +1292,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ACH24",
@@ -1382,7 +1387,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6084,
+      "Progressed": 6085,
       "Completed": 20
     }
   ],
@@ -1390,8 +1395,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-07T08:59:55.8611599+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:06:33.9066347+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:10.0176293+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-08T02:59:47.1953076+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:06:33.9066576+00:00"
+  "LastUpdate_Ratings": "2023-05-08T04:00:15.6334772+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:10.0176589+00:00"
 }

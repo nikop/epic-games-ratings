@@ -360,9 +360,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8818,
+  "EOS_Progressed": 8820,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -1785,6 +1785,11 @@
       "Time": "2023-05-08T03:07:03.9737042+00:00",
       "NumProgressed": 8818,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-05-08T04:07:40.6095325+00:00",
+      "NumProgressed": 8820,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 20,
@@ -1796,7 +1801,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -1844,7 +1849,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -1858,9 +1863,9 @@
       "ID": "FOUND_DEER_STATUE",
       "SetID": "b6m2mm5",
       "Name": "Antlers of Stone",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1323
     },
     {
       "ID": "FOUND_ERIN",
@@ -1908,7 +1913,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "INTRO_FINISHED",
@@ -1916,7 +1921,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6702
+      "UsersEstimate": 6703
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -1924,7 +1929,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "NORTH_FINISHED",
@@ -1948,22 +1953,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8818,
+      "Progressed": 8820,
       "Completed": 199
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:07:03.9737039+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:40.6095321+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-08T03:01:49.0649955+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:07:03.9737235+00:00"
+  "LastUpdate_Ratings": "2023-05-08T04:02:28.8564318+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:40.6095552+00:00"
 }

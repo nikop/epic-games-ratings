@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 69.00% | ~96 |
-| High Profile | 62.00% | ~86 |
+| To Hell In A Handcart | 70.00% | ~97 |
+| High Profile | 63.00% | ~88 |
 | Read Between The Lines | 61.00% | ~85 |
 | Whispers In The Dark | 61.00% | ~85 |
 | A Method To His Madness | 57.00% | ~79 |

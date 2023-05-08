@@ -18,11 +18,11 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.64% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.11% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.47% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 5.77% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.75% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -135,7 +135,7 @@
 | 131 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
 | 135 | [Dead Island 2](games/d/dead_island_2.md) | 0.19% |
-| 135 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 136 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 137 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 138 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 138 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |

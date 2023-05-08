@@ -27,9 +27,9 @@ Rating: 4.49 (Ranked 551)
 | Side Hustle | 28.00% | ~6,054 |
 | We have the best insurance | 27.00% | ~5,837 |
 | Pesky Jerks | 27.00% | ~5,837 |
-| Right back at ya | 27.00% | ~5,837 |
 | Stunner | 27.00% | ~5,837 |
 | Summoner | 27.00% | ~5,837 |
+| Right back at ya | 26.00% | ~5,621 |
 | Animated | 25.00% | ~5,405 |
 | Collector | 25.00% | ~5,405 |
 | Skilled | 25.00% | ~5,405 |
@@ -58,7 +58,7 @@ Rating: 4.49 (Ranked 551)
 | Mycophile | 1.00% | ~216 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,620 (Ranked 88)  
-Completed: 40 (0.19%) (Ranked 135)  
+Completed: 39 (0.18%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

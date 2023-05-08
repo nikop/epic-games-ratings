@@ -1116,9 +1116,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 424962,
+  "EOS_Progressed": 424963,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2141,6 +2141,11 @@
       "Time": "2023-05-08T03:06:32.5684379+00:00",
       "NumProgressed": 424962,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-05-08T04:07:08.6240758+00:00",
+      "NumProgressed": 424963,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 41,
@@ -2168,7 +2173,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 254977
+      "UsersEstimate": 254978
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -2200,7 +2205,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 106240
+      "UsersEstimate": 106241
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -2264,7 +2269,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131738
+      "UsersEstimate": 131739
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -2272,7 +2277,7 @@
       "Name": "Bow Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 106240
+      "UsersEstimate": 106241
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -2312,7 +2317,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 16998
+      "UsersEstimate": 16999
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -2320,7 +2325,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 403714
+      "UsersEstimate": 403715
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -2328,7 +2333,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 16998
+      "UsersEstimate": 16999
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -2360,7 +2365,7 @@
       "Name": "The Lonely Path",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 106240
+      "UsersEstimate": 106241
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -2432,7 +2437,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 233729
+      "UsersEstimate": 233730
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -2448,7 +2453,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 140237
+      "UsersEstimate": 140238
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -2464,7 +2469,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131738
+      "UsersEstimate": 131739
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -2472,22 +2477,22 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 16998
+      "UsersEstimate": 16999
     }
   ],
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 424962,
+      "Progressed": 424963,
       "Completed": 498
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-01T14:58:01.0334867+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:06:32.5684376+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:08.6240753+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.4868688+00:00",
-  "LastUpdate_Ratings": "2023-05-08T02:59:47.7802134+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:06:32.5684673+00:00"
+  "LastUpdate_Ratings": "2023-05-08T04:00:17.6146942+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:08.6241139+00:00"
 }

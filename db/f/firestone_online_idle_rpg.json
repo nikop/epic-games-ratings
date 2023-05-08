@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 3.4,
   "RatingHistory": [
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 904,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1286,9 +1286,9 @@
       "ID": "dragonclicker",
       "SetID": "3nl4bcg",
       "Name": "Dragon Clicker",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 118
     },
     {
       "ID": "dragonmaster",
@@ -1791,8 +1791,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:06:41.7610421+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:17.9031605+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-08T02:59:31.3403126+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:06:41.7611082+00:00"
+  "LastUpdate_Ratings": "2023-05-08T03:59:57.398021+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:17.9032454+00:00"
 }

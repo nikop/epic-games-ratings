@@ -4133,9 +4133,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 459424,
+  "EOS_Progressed": 459425,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5533,6 +5533,11 @@
       "Time": "2023-05-08T02:08:35.1661753+00:00",
       "NumProgressed": 459424,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-08T04:07:47.9392772+00:00",
+      "NumProgressed": 459425,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -5688,7 +5693,7 @@
       "Name": "Beating Expectations",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 64319
+      "UsersEstimate": 64320
     },
     {
       "ID": "achievement_big_win",
@@ -5752,7 +5757,7 @@
       "Name": "Parked The Tank",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27565
+      "UsersEstimate": 27566
     },
     {
       "ID": "achievement_european_player_of_the_year_award",
@@ -5768,7 +5773,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 64319
+      "UsersEstimate": 64320
     },
     {
       "ID": "achievement_fine_player",
@@ -5800,7 +5805,7 @@
       "Name": "World Renowned",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 27565
+      "UsersEstimate": 27566
     },
     {
       "ID": "achievement_get_offered_an_international_manager_job",
@@ -5832,7 +5837,7 @@
       "Name": "Attack!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 124044
+      "UsersEstimate": 124045
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -5872,7 +5877,7 @@
       "Name": "Head-to-Head",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 27565
+      "UsersEstimate": 27566
     },
     {
       "ID": "achievement_headhunted",
@@ -5888,7 +5893,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137827
+      "UsersEstimate": 137828
     },
     {
       "ID": "achievement_impervious",
@@ -5920,7 +5925,7 @@
       "Name": "Top Of The Class",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 101073
+      "UsersEstimate": 101074
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -6048,7 +6053,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 142421
+      "UsersEstimate": 142422
     },
     {
       "ID": "achievement_rushed_signing",
@@ -6088,7 +6093,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 215929
+      "UsersEstimate": 215930
     },
     {
       "ID": "achievement_signed_a_player",
@@ -6104,7 +6109,7 @@
       "Name": "Goal Machine",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 101073
+      "UsersEstimate": 101074
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -6160,7 +6165,7 @@
       "Name": "Window Shopping",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 64319
+      "UsersEstimate": 64320
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -6240,7 +6245,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 137827
+      "UsersEstimate": 137828
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -6327,15 +6332,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 459424,
+      "Progressed": 459425,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-05-07T20:01:08.3079698+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:07:10.9307594+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:47.9392767+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:06.5996122+00:00",
-  "LastUpdate_Ratings": "2023-05-08T03:01:41.0435144+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:07:10.9308626+00:00"
+  "LastUpdate_Ratings": "2023-05-08T04:02:20.27678+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:47.9394036+00:00"
 }

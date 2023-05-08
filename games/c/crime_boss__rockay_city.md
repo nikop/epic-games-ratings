@@ -5,24 +5,24 @@ Rating: 3.94 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,290 |
-| First One’s Free | 64.00% | ~37,953 |
-| Neophyte Ninja | 50.00% | ~29,651 |
-| Too Old for This | 47.00% | ~27,872 |
-| Fancy Pants | 35.00% | ~20,756 |
-| Case Closed | 34.00% | ~20,163 |
-| King of the Hill | 33.00% | ~19,570 |
-| Underworld Initiate | 29.00% | ~17,198 |
-| Roid Ranger | 21.00% | ~12,453 |
-| True Player | 18.00% | ~10,674 |
-| Off the Rocks | 18.00% | ~10,674 |
-| Dragonslayer | 16.00% | ~9,488 |
-| Raider’s Ruin | 15.00% | ~8,895 |
-| Hidden Sonata | 13.00% | ~7,709 |
-| Classy Joint | 10.00% | ~5,930 |
-| Rockay Rex | 10.00% | ~5,930 |
-| Track Star | 9.00% | ~5,337 |
-| Freebooter | 9.00% | ~5,337 |
+| Downed but Not Outed | 73.00% | ~43,293 |
+| First One’s Free | 64.00% | ~37,956 |
+| Neophyte Ninja | 50.00% | ~29,653 |
+| Too Old for This | 47.00% | ~27,874 |
+| Fancy Pants | 35.00% | ~20,757 |
+| Case Closed | 34.00% | ~20,164 |
+| King of the Hill | 33.00% | ~19,571 |
+| Underworld Initiate | 29.00% | ~17,199 |
+| Roid Ranger | 21.00% | ~12,454 |
+| True Player | 18.00% | ~10,675 |
+| Off the Rocks | 18.00% | ~10,675 |
+| Dragonslayer | 16.00% | ~9,489 |
+| Raider’s Ruin | 15.00% | ~8,896 |
+| Hidden Sonata | 13.00% | ~7,710 |
+| Classy Joint | 10.00% | ~5,931 |
+| Rockay Rex | 10.00% | ~5,931 |
+| Track Star | 9.00% | ~5,338 |
+| Freebooter | 9.00% | ~5,338 |
 | Headhunter | 8.00% | ~4,744 |
 | Ding Dong | 8.00% | ~4,744 |
 | I Like Trains | 7.00% | ~4,151 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 891)
 | Geek Out | 0.50% | ~297 |
 | Full House | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,302 (Ranked 67)  
+Progressed: 59,306 (Ranked 67)  
 Completed: 26 (0.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 26 (0.04%) (Ranked 168)
 | 2023-05-05 | 58,843 | 26 |
 | 2023-05-06 | 59,056 | 26 |
 | 2023-05-07 | 59,293 | 26 |
-| 2023-05-08 | 59,302 | 26 |
+| 2023-05-08 | 59,306 | 26 |
 ## Awards
 Max (Highly Recommended): 236  (Ranked 242)  
 Sum: 1,120 (Ranked 222)  

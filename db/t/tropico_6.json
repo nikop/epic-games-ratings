@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.67,
   "NumberOfRatings": 398,
@@ -832,9 +832,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2728,
+  "EOS_Progressed": 2729,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1667,6 +1667,11 @@
       "Time": "2023-05-08T02:08:31.47151+00:00",
       "NumProgressed": 2728,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T04:07:44.5940244+00:00",
+      "NumProgressed": 2729,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1798,7 +1803,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -1997,15 +2002,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2728,
+      "Progressed": 2729,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-05T17:04:08.8018054+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:07:07.688652+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:44.594024+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-08T03:01:50.750169+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:07:07.6886843+00:00"
+  "LastUpdate_Ratings": "2023-05-08T04:02:29.4283791+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:44.5940602+00:00"
 }

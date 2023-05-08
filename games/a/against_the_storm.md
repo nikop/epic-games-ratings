@@ -35,6 +35,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 0.30% | ~44 |
 | Refinery | 0.30% | ~44 |
 | Against All Odds | 0.30% | ~44 |
+| Fishmen Ritual Site | 0.30% | ~44 |
 | Forbidden Lands | 0.30% | ~44 |
 | Haunted Forest | 0.30% | ~44 |
 | Forsaken Gods Temple | 0.30% | ~44 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.30% | ~44 |
 | Efficient Explorer | 0.20% | ~29 |
 | Ruined Armory | 0.20% | ~29 |
-| Fishmen Ritual Site | 0.20% | ~29 |
 | Prestigious Expedition | 0.20% | ~29 |
 | Blood Flower Farmer | 0.20% | ~29 |
 | Feeding The People | 0.10% | ~15 |

@@ -152,9 +152,9 @@
       "ID": "AURORA04",
       "SetID": "2d85n75",
       "Name": "A Light in the Dark",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AURORA_COMPLETE",
@@ -320,9 +320,9 @@
       "ID": "QUIDNUNC",
       "SetID": "2d85n75",
       "Name": "Quidnunc",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RING_OF_FIRE",
@@ -352,9 +352,9 @@
       "ID": "SOCIAL_BUTTERFLY",
       "SetID": "2d85n75",
       "Name": "Social Butterfly",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TALINGREY07",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:06:57.9605766+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:34.5047713+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-08T03:01:22.2063513+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:06:57.9606089+00:00"
+  "LastUpdate_Ratings": "2023-05-08T04:01:55.8943623+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:34.5048065+00:00"
 }

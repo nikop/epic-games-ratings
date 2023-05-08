@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4848,
+  "EOS_Progressed": 4849,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -809,6 +809,11 @@
       "Time": "2023-05-08T02:07:38.3084952+00:00",
       "NumProgressed": 4848,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-08T04:07:07.3138294+00:00",
+      "NumProgressed": 4849,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -820,7 +825,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "ACH02",
@@ -828,7 +833,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACH03",
@@ -844,7 +849,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "ACH05",
@@ -1026,9 +1031,9 @@
       "ID": "ACH27",
       "SetID": "552d41m",
       "Name": "Liberty City Secrets",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH28",
@@ -1051,7 +1056,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4848,
+      "Progressed": 4849,
       "Completed": 26
     }
   ],
@@ -1059,8 +1064,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:06:31.1148666+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:07.3138289+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-08T02:59:26.4323446+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:06:31.1148871+00:00"
+  "LastUpdate_Ratings": "2023-05-08T03:59:52.523547+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:07.313854+00:00"
 }

@@ -16,16 +16,17 @@
 | An Acquired Taste | 31.00% | ~5 |
 | Busybody | 31.00% | ~5 |
 | Everyone Needs a Break | 31.00% | ~5 |
+| A Light in the Dark | 25.00% | ~4 |
 | Job Creator | 25.00% | ~4 |
 | A Real Headache | 19.00% | ~3 |
 | A Total Riot | 19.00% | ~3 |
-| A Light in the Dark | 19.00% | ~3 |
 | The Guardian | 19.00% | ~3 |
 | Blood Begets Blood | 19.00% | ~3 |
 | Endgame | 19.00% | ~3 |
 | The Philosopher | 19.00% | ~3 |
 | Knock Knock | 19.00% | ~3 |
 | The Partner | 19.00% | ~3 |
+| Quidnunc | 19.00% | ~3 |
 | Socially Acceptable Insanity | 19.00% | ~3 |
 | The Companion | 19.00% | ~3 |
 | That One Doesn't Count | 19.00% | ~3 |
@@ -33,8 +34,8 @@
 | The Counsellor | 19.00% | ~3 |
 | Full Coverage | 13.00% | ~2 |
 | Obligatory Fraudulent Baking | 13.00% | ~2 |
-| Quidnunc | 13.00% | ~2 |
 | The Provocateur | 13.00% | ~2 |
+| Social Butterfly | 13.00% | ~2 |
 | Zonk! | 13.00% | ~2 |
 | A Little Eccentric | 6.00% | ~1 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
@@ -42,7 +43,6 @@
 | Leave It to the Professionals | 6.00% | ~1 |
 | Overseer | 6.00% | ~1 |
 | Ring of Fire | 6.00% | ~1 |
-| Social Butterfly | 6.00% | ~1 |
 | Tastes Like Regret | 6.00% | ~1 |
 | The Spice of Life | 6.00% | ~1 |
 | What They Don't Know Can't Hurt Them | 6.00% | ~1 |

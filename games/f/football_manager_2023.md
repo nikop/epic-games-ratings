@@ -5,35 +5,35 @@ Rating: 4.75 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 78.00% | ~48,456 |
-| The Player Whisperer | 76.00% | ~47,213 |
-| One of Us, One of Us! | 73.00% | ~45,350 |
-| First Victory | 69.00% | ~42,865 |
+| Motivational Speaker | 78.00% | ~48,457 |
+| The Player Whisperer | 76.00% | ~47,214 |
+| One of Us, One of Us! | 73.00% | ~45,351 |
+| First Victory | 69.00% | ~42,866 |
 | Clean Sheet | 68.00% | ~42,244 |
-| #DoneDeal | 67.00% | ~41,622 |
-| Off the Books | 66.00% | ~41,001 |
-| Super-Sub | 65.00% | ~40,380 |
+| #DoneDeal | 67.00% | ~41,623 |
+| Off the Books | 66.00% | ~41,002 |
+| Super-Sub | 65.00% | ~40,381 |
 | Hat-trick | 60.00% | ~37,274 |
-| "I Would Love It If We Beat Them" | 58.00% | ~36,031 |
-| Planned Signing | 57.00% | ~35,410 |
-| Scoring Streak | 54.00% | ~33,546 |
-| Thumping | 53.00% | ~32,925 |
+| "I Would Love It If We Beat Them" | 58.00% | ~36,032 |
+| Planned Signing | 57.00% | ~35,411 |
+| Scoring Streak | 54.00% | ~33,547 |
+| Thumping | 53.00% | ~32,926 |
 | Unbeatable! | 51.00% | ~31,683 |
 | People Pleaser | 51.00% | ~31,683 |
 | Wheeler Dealer | 51.00% | ~31,683 |
 | One Of Our Own | 47.00% | ~29,198 |
-| They're a Natural | 44.00% | ~27,334 |
+| They're a Natural | 44.00% | ~27,335 |
 | Team Performance | 43.00% | ~26,713 |
 | Record Signing | 43.00% | ~26,713 |
 | The Only Stat That Matters | 43.00% | ~26,713 |
-| Full Faith | 40.00% | ~24,849 |
-| Star Player | 40.00% | ~24,849 |
-| Squad Goals | 40.00% | ~24,849 |
+| Full Faith | 40.00% | ~24,850 |
+| Star Player | 40.00% | ~24,850 |
+| Squad Goals | 40.00% | ~24,850 |
 | The People's Champion | 39.00% | ~24,228 |
 | Beating Expectations | 38.00% | ~23,607 |
 | Goal Rush | 38.00% | ~23,607 |
 | Parked The Bus | 37.00% | ~22,986 |
-| Flavour Of The Month | 36.00% | ~22,364 |
+| Flavour Of The Month | 36.00% | ~22,365 |
 | What A Goal! | 35.00% | ~21,743 |
 | Unstoppable Force | 35.00% | ~21,743 |
 | Tremendous Trio | 34.00% | ~21,122 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 126)
 | Versus Anyone | 0.10% | ~62 |
 | 200 Club | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,123 (Ranked 65)  
+Progressed: 62,124 (Ranked 65)  
 Completed: 14 (0.02%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 14 (0.02%) (Ranked 176)
 | 2023-05-05 | 61,750 | 14 |
 | 2023-05-06 | 61,933 | 14 |
 | 2023-05-07 | 62,106 | 14 |
-| 2023-05-08 | 62,123 | 14 |
+| 2023-05-08 | 62,124 | 14 |
 ## Awards
 Max (Diverse Characters): 406  (Ranked 195)  
 Sum: 3,005 (Ranked 150)  

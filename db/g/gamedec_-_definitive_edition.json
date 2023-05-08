@@ -3,8 +3,8 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 732,
-  "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 415,
+  "Ranking_Popularity": 356,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 34,
@@ -272,23 +272,29 @@
       "Rating": 4.33,
       "NumberOfAwards": 71,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-05-08T03:59:54.2389859+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 71,
-  "NumberOfAwardsMax": 71,
+  "NumberOfAwards": 72,
+  "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 71
+      "Count": 72
     }
   ],
-  "EOS_Progressed": 223823,
+  "EOS_Progressed": 223828,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1771,
+  "EOS_NewPlayers": 1757,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1761,6 +1767,11 @@
       "Time": "2023-05-08T03:06:33.0931045+00:00",
       "NumProgressed": 223823,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-08T04:07:09.2157508+00:00",
+      "NumProgressed": 223828,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 52,
@@ -1772,7 +1783,7 @@
       "Name": "Powergamer",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58194
+      "UsersEstimate": 58195
     },
     {
       "ID": "ACH_AON",
@@ -1828,7 +1839,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -1844,7 +1855,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -1908,7 +1919,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_ISTARTED",
@@ -1916,7 +1927,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 62670
+      "UsersEstimate": 62672
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -1924,7 +1935,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -1972,7 +1983,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -1988,7 +1999,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 53718
+      "UsersEstimate": 53719
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -2020,7 +2031,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -2028,7 +2039,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -2052,7 +2063,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13429
+      "UsersEstimate": 13430
     },
     {
       "ID": "ACH_MEMORY5",
@@ -2092,7 +2103,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 55956
+      "UsersEstimate": 55957
     },
     {
       "ID": "ACH_SOREAD",
@@ -2148,7 +2159,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -2187,16 +2198,16 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 223823,
+      "Progressed": 223828,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "LastChanged": "2023-04-30T19:57:29.8748317+00:00",
-  "LastChanged_Achievements": "2023-05-08T03:06:33.093104+00:00",
+  "LastChanged": "2023-05-08T03:59:54.2389857+00:00",
+  "LastChanged_Achievements": "2023-05-08T04:07:09.2157502+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.8566986+00:00",
-  "LastUpdate_Ratings": "2023-05-08T02:59:28.7909797+00:00",
-  "LastUpdate_Achievements": "2023-05-08T03:06:33.0931476+00:00"
+  "LastUpdate_Ratings": "2023-05-08T03:59:54.2389863+00:00",
+  "LastUpdate_Achievements": "2023-05-08T04:07:09.215803+00:00"
 }
