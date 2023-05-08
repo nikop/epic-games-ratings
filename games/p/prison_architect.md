@@ -6,14 +6,14 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 27.00% | ~31,752 |
-| Get Busy Living | 17.00% | ~19,992 |
-| Samuel Norton | 10.00% | ~11,760 |
-| Spare The Rod | 5.00% | ~5,880 |
-| Wait and Hope | 4.00% | ~4,704 |
-| I May Have Found A Way Out Of Here | 4.00% | ~4,704 |
-| Don't Put Me In The Dark | 3.00% | ~3,528 |
-| Iron Bars | 3.00% | ~3,528 |
+| Stone Walls | 27.00% | ~31,757 |
+| Get Busy Living | 17.00% | ~19,995 |
+| Samuel Norton | 10.00% | ~11,762 |
+| Spare The Rod | 5.00% | ~5,881 |
+| Wait and Hope | 4.00% | ~4,705 |
+| I May Have Found A Way Out Of Here | 4.00% | ~4,705 |
+| Don't Put Me In The Dark | 3.00% | ~3,529 |
+| Iron Bars | 3.00% | ~3,529 |
 | Throw The Book At Them | 2.00% | ~2,352 |
 | D.B. Cooper | 1.00% | ~1,176 |
 | Reformation | 0.60% | ~706 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~118 |
 | ... It's What You Can Prove | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,600 (Ranked 56)  
+Progressed: 117,619 (Ranked 56)  
 Completed: 4 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,15 +41,15 @@ Completed: 4 (0.00%) (Ranked 192)
 | 2023-05-05 | 116,555 | 4 |
 | 2023-05-06 | 117,039 | 4 |
 | 2023-05-07 | 117,586 | 4 |
-| 2023-05-08 | 117,600 | 4 |
+| 2023-05-08 | 117,619 | 4 |
 ## Awards
 Max (Extremely Fun): 411  (Ranked 193)  
-Sum: 3,240 (Ranked 145)  
+Sum: 3,242 (Ranked 145)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 411 |
-| This game is Highly Recommended | 399 |
+| This game is Highly Recommended | 401 |
 | This game is Great for Beginners | 398 |
 | This game has Quickly Understood Controls | 386 |
 | This game is Relaxing | 360 |
@@ -170,3 +170,4 @@ Diff (max vs sum): 48
 | 2023-05-05 | 4.61 | - | 410 | 3,231 |
 | 2023-05-06 | 4.61 | - | 410 | 3,238 |
 | 2023-05-07 | 4.61 | - | 411 | 3,240 |
+| 2023-05-08 | 4.61 | - | 411 | 3,242 |

@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 833,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 120,
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4847,
+  "EOS_Progressed": 4848,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2023-05-07T21:06:44.9459766+00:00",
       "NumProgressed": 4847,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-08T02:07:38.3084952+00:00",
+      "NumProgressed": 4848,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -815,7 +820,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "ACH02",
@@ -935,7 +940,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH17",
@@ -1046,7 +1051,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4847,
+      "Progressed": 4848,
       "Completed": 26
     }
   ],
@@ -1054,8 +1059,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:06.0523641+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:07:38.3084947+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-07T23:59:02.9475241+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:06.0523885+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:00:04.3069309+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:07:38.3085289+00:00"
 }

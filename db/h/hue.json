@@ -3,8 +3,8 @@
   "Name": "Hue",
   "ProductSlug": "hue",
   "Ranking_Rating": 466,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
@@ -429,6 +429,6 @@
   "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
   "LastChanged": "2023-04-03T01:52:48.5981772+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.7948864+00:00",
-  "LastUpdate_Ratings": "2023-05-07T23:58:28.4123149+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:01:49.2859687+00:00"
+  "LastUpdate_Ratings": "2023-05-08T01:59:17.0439679+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:03:31.5561629+00:00"
 }

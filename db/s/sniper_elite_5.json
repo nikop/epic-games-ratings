@@ -3,8 +3,8 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 621,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 146,
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 688,
+  "EOS_Progressed": 690,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -341,6 +341,11 @@
       "Time": "2023-05-07T19:06:46.4463487+00:00",
       "NumProgressed": 688,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-08T02:07:35.2064463+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -352,7 +357,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -400,7 +405,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -408,7 +413,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -416,7 +421,7 @@
       "Name": "Organ Grinder",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -454,9 +459,9 @@
       "ID": "REWARD_22_MASTER_OF_RIFLES",
       "SetID": "bm6el81",
       "Name": "Master of Rifles",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_23_MASTER_AT_ARMS",
@@ -472,7 +477,7 @@
       "Name": "Gunslinger",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -480,7 +485,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -488,7 +493,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -520,7 +525,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -560,7 +565,7 @@
       "Name": "Lord of War",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -576,7 +581,7 @@
       "Name": "Resourceful",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -584,7 +589,7 @@
       "Name": "Der Geist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -608,7 +613,7 @@
       "Name": "Close Quarters",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -654,9 +659,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -720,7 +725,7 @@
       "Name": "Taking it back",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -744,7 +749,7 @@
       "Name": "Target America",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -895,13 +900,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 639,
+      "Progressed": 641,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 688,
+      "Progressed": 690,
       "Completed": 2
     }
   ],
@@ -909,8 +914,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-05T14:59:50.8848377+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:05:51.1878064+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:07:35.2064457+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-08T00:01:40.5590122+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:05:51.1878606+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:03:19.3053442+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:07:35.2065657+00:00"
 }

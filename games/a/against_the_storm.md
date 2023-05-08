@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 0.70% | ~103 |
 | Coral Forest | 0.70% | ~103 |
 | The Scarlet Orchard | 0.70% | ~103 |
+| Barren Lands | 0.60% | ~88 |
+| Lost Colonies | 0.60% | ~88 |
 | Taking Action | 0.60% | ~88 |
 | Like a Machine | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
 | Bandit Camp | 0.50% | ~74 |
-| Barren Lands | 0.50% | ~74 |
 | Ancient Battleground | 0.50% | ~74 |
-| Lost Colonies | 0.50% | ~74 |
 | Trade Baron | 0.50% | ~74 |
 | Sparkdew Crystals | 0.40% | ~59 |
 | Dangerous Lands | 0.40% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,703 (Ranked 97)  
+Progressed: 14,707 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 30 (0.20%) (Ranked 131)
 | 2023-05-05 | 14,657 | 30 |
 | 2023-05-06 | 14,678 | 30 |
 | 2023-05-07 | 14,702 | 30 |
-| 2023-05-08 | 14,703 | 30 |
+| 2023-05-08 | 14,707 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,016 (Ranked 149)  

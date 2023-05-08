@@ -15,17 +15,17 @@ Rating: 4.77 (Ranked 103)
 | Coasting Along | 5.00% | ~13,307 |
 | That's a Keeper | 5.00% | ~13,307 |
 | Rising From the Ashes | 5.00% | ~13,307 |
-| The Avenging Gazelle | 4.00% | ~10,645 |
-| Beast Friends | 4.00% | ~10,645 |
-| A Sallow Grave | 4.00% | ~10,645 |
-| Flight the Good Flight | 4.00% | ~10,645 |
-| A Keen Sense of Spell | 4.00% | ~10,645 |
-| Loom for Improvement | 4.00% | ~10,645 |
-| A Talent for Spending | 4.00% | ~10,645 |
-| Followed the Butterflies | 4.00% | ~10,645 |
-| The Spell Master | 4.00% | ~10,645 |
-| First Class Student | 4.00% | ~10,645 |
-| Troll with the Punches | 4.00% | ~10,645 |
+| The Avenging Gazelle | 4.00% | ~10,646 |
+| Beast Friends | 4.00% | ~10,646 |
+| A Sallow Grave | 4.00% | ~10,646 |
+| Flight the Good Flight | 4.00% | ~10,646 |
+| A Keen Sense of Spell | 4.00% | ~10,646 |
+| Loom for Improvement | 4.00% | ~10,646 |
+| A Talent for Spending | 4.00% | ~10,646 |
+| Followed the Butterflies | 4.00% | ~10,646 |
+| The Spell Master | 4.00% | ~10,646 |
+| First Class Student | 4.00% | ~10,646 |
+| Troll with the Punches | 4.00% | ~10,646 |
 | The Seeker of Knowledge | 3.00% | ~7,984 |
 | The Root of the Problem | 3.00% | ~7,984 |
 | Third Time's a Charm | 3.00% | ~7,984 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,065 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,133 (Ranked 38)  
+Progressed: 266,146 (Ranked 38)  
 Completed: 351 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 351 (0.13%) (Ranked 145)
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
 | 2023-05-07 | 266,124 | 351 |
-| 2023-05-08 | 266,133 | 351 |
+| 2023-05-08 | 266,146 | 351 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
 Sum: 33,760 (Ranked 33)  

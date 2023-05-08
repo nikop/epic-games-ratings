@@ -23,13 +23,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.60% | ~4,216 |
 | Qi Gong: Essence | 0.60% | ~4,216 |
 | Take damage to save time | 0.60% | ~4,216 |
-| The Old Grandmaster | 0.50% | ~3,513 |
-| Scareless | 0.50% | ~3,513 |
-| Stuntmaster | 0.50% | ~3,513 |
-| Life is your teacher | 0.50% | ~3,513 |
-| Old Child | 0.50% | ~3,513 |
-| Lightning Hands | 0.50% | ~3,513 |
-| Kung-Fu Tussle | 0.50% | ~3,513 |
+| The Old Grandmaster | 0.50% | ~3,514 |
+| Scareless | 0.50% | ~3,514 |
+| Stuntmaster | 0.50% | ~3,514 |
+| Life is your teacher | 0.50% | ~3,514 |
+| Old Child | 0.50% | ~3,514 |
+| Lightning Hands | 0.50% | ~3,514 |
+| Kung-Fu Tussle | 0.50% | ~3,514 |
 | Deadly Venom | 0.50% | ~60 |
 | A Touch of Acumen | 0.50% | ~60 |
 | Muk Yan Master | 0.40% | ~2,811 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,697 (Ranked 15)  
+Progressed: 702,702 (Ranked 15)  
 Completed: 12,713 (1.81%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,14 +75,14 @@ Completed: 12,713 (1.81%) (Ranked 58)
 | 2023-05-05 | 702,619 | 12,709 |
 | 2023-05-06 | 702,653 | 12,709 |
 | 2023-05-07 | 702,693 | 12,713 |
-| 2023-05-08 | 702,697 | 12,713 |
+| 2023-05-08 | 702,702 | 12,713 |
 ## Awards
-Max (Great Boss Battles): 6,035  (Ranked 53)  
-Sum: 10,235 (Ranked 77)  
+Max (Great Boss Battles): 6,041  (Ranked 53)  
+Sum: 10,241 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,035 |
+| This game has Great Boss Battles | 6,041 |
 | This game has Diverse Characters | 502 |
 | This game has Challenging Combat | 500 |
 | This game has Quickly Understood Controls | 496 |
@@ -209,3 +209,4 @@ Diff (max vs sum): -24
 | 2023-05-05 | 4.82 | - | 6,029 | 10,213 |
 | 2023-05-06 | 4.82 | - | 6,035 | 10,228 |
 | 2023-05-07 | 4.82 | - | 6,035 | 10,235 |
+| 2023-05-08 | 4.82 | - | 6,041 | 10,241 |

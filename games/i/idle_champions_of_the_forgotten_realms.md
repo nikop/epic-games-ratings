@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.40% | ~347 |
 | Friendly Imps | 0.40% | ~347 |
 | Maddening | 0.30% | ~260 |
+| Best Thay Ever | 0.30% | ~159 |
 | The Sanctum of the Sword | 0.30% | ~159 |
 | Get Back In The Castle | 0.30% | ~159 |
 | A Persistent Buzzing | 0.30% | ~260 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~106 |
 | Owlbear Necessities | 0.20% | ~106 |
-| Best Thay Ever | 0.20% | ~106 |
 | Vecna Lives! | 0.20% | ~106 |
 | Return to the Tomb | 0.20% | ~106 |
 | Keep Your Distance | 0.20% | ~106 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,813 (Ranked 59)  
-Completed: 1,811 (2.09%) (Ranked 56)  
+Progressed: 86,819 (Ranked 59)  
+Completed: 1,812 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -514,7 +514,7 @@ Completed: 1,811 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,813 | 1,811 |
+| 2023-05-08 | 86,819 | 1,812 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,830 (Ranked 37)  

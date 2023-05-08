@@ -12,14 +12,14 @@
 | [Sphere 3](games/s/sphere_3.md) | - | - | 0 | - |
 | [Kakele Online - MMORPG](games/k/kakele_online_-_mmorpg.md) | - | - | 0 | - |
 | [JYDGE](games/j/jydge.md) | - | - | 0 | - |
-| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.45 | 599 | 0 | 489 |
+| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.45 | 599 | 0 | 490 |
 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | - | - | 0 | - |
 | [Crimson Dawn](games/c/crimson_dawn.md) | - | - | 0 | - |
 | [Kao the Kangaroo - Mystery of the Volcano](games/k/kao_the_kangaroo_-_mystery_of_the_volcano.md) | - | - | 0 | - |
 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | - | - | 0 | - |
 | [The Witch of Fern Island](games/t/the_witch_of_fern_island.md) | - | - | 0 | - |
 | [KITS](games/k/kits.md) | - | - | 0 | - |
-| [Redfall](games/r/redfall.md) | 3.48 | 915 | 0 | 489 |
+| [Redfall](games/r/redfall.md) | 3.48 | 915 | 0 | 490 |
 | [Shotgun Farmers](games/s/shotgun_farmers.md) | - | - | 0 | - |
 | [Pipe Mania](games/p/pipe_mania.md) | - | - | 0 | - |
 | [RichBroker](games/r/richbroker.md) | - | - | 0 | - |
@@ -41,12 +41,12 @@
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | - | - | 0 | - |
 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | - | - | 0 | - |
 | [EBOLA 3](games/e/ebola_3.md) | - | - | 0 | - |
-| [Poker Club](games/p/poker_club.md) | 3.71 | 912 | 0 | 489 |
+| [Poker Club](games/p/poker_club.md) | 3.71 | 912 | 0 | 490 |
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | - | - | 0 | - |
 | [Aftertime](games/a/aftertime.md) | - | - | 0 | - |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | - | - | 0 | - |
 | [Spaceman Defender](games/s/spaceman_defender.md) | - | - | 0 | - |
-| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.66 | 271 | 0 | 489 |
+| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.66 | 271 | 0 | 490 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | - | - | 0 | - |
 | [The Ultimate Trivia Challenge](games/t/the_ultimate_trivia_challenge.md) | - | - | 0 | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
@@ -71,7 +71,7 @@
 | [Scholar of the Arcane Arts](games/s/scholar_of_the_arcane_arts.md) | - | - | 0 | - |
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | - | - | 0 | - |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | - | - | 0 | - |
-| [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.73 | 156 | 0 | 489 |
+| [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.73 | 156 | 0 | 490 |
 | [NecroWorm](games/n/necroworm.md) | - | - | 0 | - |
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | - | - | 0 | - |
 | [Dream magic will](games/d/dream_magic_will.md) | - | - | 0 | - |

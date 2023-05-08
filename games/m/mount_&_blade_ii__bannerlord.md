@@ -19,10 +19,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | God of the Arena | 12.00% | ~5,900 |
 | Against all odds | 9.00% | ~4,425 |
 | Swordbearer | 9.00% | ~4,425 |
-| Duelist | 8.00% | ~3,933 |
-| Dynasty | 8.00% | ~3,933 |
-| I spit on your grave | 8.00% | ~3,933 |
-| What have the Romans ever done for us? | 8.00% | ~3,933 |
+| Duelist | 8.00% | ~3,934 |
+| Dynasty | 8.00% | ~3,934 |
+| I spit on your grave | 8.00% | ~3,934 |
+| What have the Romans ever done for us? | 8.00% | ~3,934 |
 | Butterlord | 7.00% | ~3,442 |
 | Mastery | 6.00% | ~2,950 |
 | Know your enemy | 5.00% | ~2,458 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,168 (Ranked 73)  
+Progressed: 49,169 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,9 +76,10 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 48,901 | 0 |
 | 2023-05-06 | 49,029 | 0 |
 | 2023-05-07 | 49,168 | 0 |
+| 2023-05-08 | 49,169 | 0 |
 ## Awards
 Max (Character Customization): 6,493  (Ranked 49)  
-Sum: 12,930 (Ranked 68)  
+Sum: 12,933 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -89,7 +90,7 @@ Diff (max vs sum): -19
 | This game is Extremely Fun | 726 |
 | This game has Amazing Storytelling | 720 |
 | This game has Quickly Understood Controls | 716 |
-| This game has Amazing Characters | 707 |
+| This game has Amazing Characters | 710 |
 | This game is Relaxing | 704 |
 | This game has a Creative Community | 512 |
 | This game has Obsessive Gameplay | 376 |
@@ -210,3 +211,4 @@ Diff (max vs sum): -19
 | 2023-05-05 | 4.74 | - | 6,485 | 12,915 |
 | 2023-05-06 | 4.74 | - | 6,489 | 12,923 |
 | 2023-05-07 | 4.74 | - | 6,493 | 12,930 |
+| 2023-05-08 | 4.74 | - | 6,493 | 12,933 |

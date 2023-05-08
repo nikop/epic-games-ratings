@@ -15,21 +15,21 @@
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.66% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.11% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
-| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.52% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
+| 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.47% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 5.62% |
+| 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.79% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 27 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.22% |
+| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.21% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.04% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |

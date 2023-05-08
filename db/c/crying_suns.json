@@ -530,9 +530,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457498,
+  "EOS_Progressed": 457501,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1870,6 +1870,11 @@
       "Time": "2023-05-08T00:06:32.0653481+00:00",
       "NumProgressed": 457498,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-08T02:08:15.5886289+00:00",
+      "NumProgressed": 457501,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -1969,7 +1974,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 301949
+      "UsersEstimate": 301951
     },
     {
       "ID": "achievement_story_landa",
@@ -2001,7 +2006,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114374
+      "UsersEstimate": 114375
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -2065,7 +2070,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 150974
+      "UsersEstimate": 150975
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2193,7 +2198,7 @@
       "Name": "Liberator",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_hard",
@@ -2201,7 +2206,7 @@
       "Name": "The Art of War",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_as_easy_normal",
@@ -2209,7 +2214,7 @@
       "Name": "Geno Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_as_hard",
@@ -2217,7 +2222,7 @@
       "Name": "Geno Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_church_easy_normal",
@@ -2225,7 +2230,7 @@
       "Name": "Jericho Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_church_hard",
@@ -2233,7 +2238,7 @@
       "Name": "Jericho Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_kb_easy_normal",
@@ -2241,7 +2246,7 @@
       "Name": "Hammer Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_kb_hard",
@@ -2249,7 +2254,7 @@
       "Name": "Hammer Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_pirate_easy_normal",
@@ -2257,7 +2262,7 @@
       "Name": "Void Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_pirate_hard",
@@ -2265,7 +2270,7 @@
       "Name": "Void Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_scrapper_easy_normal",
@@ -2273,7 +2278,7 @@
       "Name": "Kaos Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_scrapper_hard",
@@ -2281,7 +2286,7 @@
       "Name": "Kaos Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_easy_normal",
@@ -2297,7 +2302,7 @@
       "Name": "Excelsior Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_boss_sector_1",
@@ -2305,7 +2310,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201299
+      "UsersEstimate": 201300
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -2313,7 +2318,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137249
+      "UsersEstimate": 137250
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -2337,7 +2342,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178424
+      "UsersEstimate": 178425
     },
     {
       "ID": "achievement_win_run_hard",
@@ -2345,7 +2350,7 @@
       "Name": "The greatest admiral of all time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "achievement_win_run_with_as",
@@ -2400,21 +2405,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1432,
-      "Completed": 1432
+      "Progressed": 1435,
+      "Completed": 1435
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457498,
+      "Progressed": 457501,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:32.0653477+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:08:15.5886282+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-08T00:00:21.9858288+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:32.0654025+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:01:45.0705744+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:08:15.5887388+00:00"
 }

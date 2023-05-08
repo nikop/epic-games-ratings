@@ -22,17 +22,17 @@ Number of Ratings: 38  (23.09.2022)
 | Prepper | 27.00% | ~43 |
 | Lumberjack | 26.00% | ~42 |
 | Electro-Scrap Master | 23.00% | ~37 |
-| Robot Hunter | 19.00% | ~30 |
-| Advanced Survivalist | 19.00% | ~30 |
+| Robot Hunter | 20.00% | ~32 |
+| Advanced Survivalist | 20.00% | ~32 |
 | Master Of Technology | 17.00% | ~27 |
-| Treasure Hunter | 15.00% | ~24 |
+| Treasure Hunter | 16.00% | ~26 |
 | Blacksmith | 11.00% | ~18 |
 | Fuel | 11.00% | ~18 |
 | Mythical Smelter | 11.00% | ~18 |
-| Forest Lord | 9.00% | ~14 |
+| Forest Lord | 10.00% | ~16 |
+| Master Of Management | 9.00% | ~14 |
 | Smelting Master | 9.00% | ~14 |
 | Black Gold | 8.00% | ~13 |
-| Master Of Management | 8.00% | ~13 |
 | Survival Master | 4.00% | ~6 |
 | Traveler | 3.00% | ~5 |
 | Forest Killer | 1.00% | ~2 |

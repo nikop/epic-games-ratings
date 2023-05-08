@@ -3,11 +3,11 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 777,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.25,
   "NumberOfRatings": 34,
@@ -126,9 +126,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13869,
+  "EOS_Progressed": 13870,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1271,6 +1271,11 @@
       "Time": "2023-05-08T00:06:45.8431219+00:00",
       "NumProgressed": 13869,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-08T02:08:30.7271743+00:00",
+      "NumProgressed": 13870,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 14,
@@ -1288,9 +1293,9 @@
       "ID": "ACH_AFTER_ALL",
       "SetID": "1blkama",
       "Name": "After All",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 111
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_COUGHT_IN_A_TRAP",
@@ -1306,7 +1311,7 @@
       "Name": "Danger Ahead",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -1362,7 +1367,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "ACH_THE_FALL",
@@ -1393,15 +1398,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13869,
+      "Progressed": 13870,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:45.8431217+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:08:30.7271737+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:28.2137622+00:00",
-  "LastUpdate_Ratings": "2023-05-08T00:01:33.7834049+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:45.8431343+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:03:11.859012+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:08:30.7272046+00:00"
 }

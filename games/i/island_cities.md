@@ -7,10 +7,10 @@
 | Welcome! | 100.00% | ~63 |
 | A tiny town | 81.00% | ~51 |
 | Buildings, roads, cars, ...and people | 67.00% | ~42 |
-| Great view from the beach and from the hill | 56.00% | ~35 |
-| Bridges to come and go | 51.00% | ~32 |
-| Found an oasis | 38.00% | ~24 |
-| Burger or pizza? | 35.00% | ~22 |
+| Great view from the beach and from the hill | 57.00% | ~36 |
+| Bridges to come and go | 52.00% | ~33 |
+| Found an oasis | 40.00% | ~25 |
+| Burger or pizza? | 37.00% | ~23 |
 | Passion for sports | 32.00% | ~20 |
 | Who loves trains? | 29.00% | ~18 |
 | Easy and steady climb | 29.00% | ~18 |

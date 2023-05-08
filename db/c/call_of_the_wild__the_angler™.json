@@ -2,14 +2,14 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 72,
-  "Rating": 4.12,
+  "Rating": 4.13,
   "NumberOfRatings": 281,
   "RatingHistory": [
     {
@@ -498,6 +498,12 @@
       "Rating": 4.12,
       "NumberOfAwards": 158,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-05-08T02:02:24.0289009+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 158,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
@@ -542,7 +548,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3425,
+  "EOS_Progressed": 3426,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -912,6 +918,11 @@
       "Time": "2023-05-07T23:06:35.7805498+00:00",
       "NumProgressed": 3425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T02:08:22.2192129+00:00",
+      "NumProgressed": 3426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -939,7 +950,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -955,7 +966,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -963,7 +974,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -971,7 +982,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -1059,7 +1070,7 @@
       "Name": "The Beetles",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -1115,7 +1126,7 @@
       "Name": "Taylor Made",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -1202,22 +1213,22 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3425,
+      "Progressed": 3426,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2797,
+      "Progressed": 2798,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2023-04-14T21:57:01.4034756+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:37.7434893+00:00",
+  "LastChanged": "2023-05-08T02:02:24.0289007+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:08:22.2192122+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:57.1004222+00:00",
-  "LastUpdate_Ratings": "2023-05-08T00:00:55.9470582+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:37.7435167+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:02:24.0289013+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:08:22.2192652+00:00"
 }

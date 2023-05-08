@@ -10,7 +10,7 @@ Rating: 3.40 (Ranked 917)
 | Temple of Eternals | 55.00% | ~497 |
 | Prestigious | 51.00% | ~461 |
 | Fellowship Power | 39.00% | ~352 |
-| Guild Power | 22.00% | ~199 |
+| Guild Power | 23.00% | ~208 |
 | Prestigious x10 | 19.00% | ~172 |
 | The game is on | 15.00% | ~135 |
 | Exotic Merchant | 14.00% | ~126 |
@@ -49,12 +49,12 @@ Rating: 3.40 (Ranked 917)
 | Trader | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | Master Enchanter | 0.90% | ~8 |
+| Weekly Quest Completionist | 0.70% | ~6 |
 | Dragon Slayer | 0.60% | ~5 |
 | Enchanting skill | 0.60% | ~5 |
 | Engineer Mastery | 0.60% | ~5 |
 | Legendary | 0.60% | ~5 |
 | Sailor | 0.60% | ~5 |
-| Weekly Quest Completionist | 0.60% | ~5 |
 | Blueprint Upgrades | 0.40% | ~4 |
 | Crystal Mining | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |

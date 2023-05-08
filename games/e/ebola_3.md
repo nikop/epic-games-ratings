@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 53.00% | ~79 |
-| Chest ✔ | 52.00% | ~77 |
-| Inventory ✔ | 49.00% | ~73 |
-| Police officers ✔ | 23.00% | ~34 |
-| Mutation ✔ | 21.00% | ~31 |
-| Doberman ✔ | 11.00% | ~16 |
-| Survival ✔ | 7.00% | ~10 |
-| Master of Unlocking ✔ | 7.00% | ~10 |
-| Chess ✔ | 7.00% | ~10 |
-| Weapon ✔ | 7.00% | ~10 |
-| Antivirus ✔ | 5.00% | ~7 |
-| Betty ✔ | 5.00% | ~7 |
-| Cheats ✔ | 5.00% | ~7 |
-| City ✔ | 5.00% | ~7 |
-| Hospital ✔ | 5.00% | ~7 |
-| Fraternal help ✔ | 5.00% | ~7 |
-| King of survival ✔ | 5.00% | ~7 |
-| Thirst ✔ | 5.00% | ~7 |
+| Chest ✔ | 52.00% | ~79 |
+| Fright ✔ | 52.00% | ~79 |
+| Inventory ✔ | 48.00% | ~72 |
+| Police officers ✔ | 23.00% | ~35 |
+| Mutation ✔ | 22.00% | ~33 |
+| Doberman ✔ | 11.00% | ~17 |
+| Survival ✔ | 7.00% | ~11 |
+| Master of Unlocking ✔ | 7.00% | ~11 |
+| Chess ✔ | 7.00% | ~11 |
+| Weapon ✔ | 7.00% | ~11 |
+| Antivirus ✔ | 5.00% | ~8 |
+| Betty ✔ | 5.00% | ~8 |
+| Cheats ✔ | 5.00% | ~8 |
+| City ✔ | 5.00% | ~8 |
+| Hospital ✔ | 5.00% | ~8 |
+| Fraternal help ✔ | 5.00% | ~8 |
+| King of survival ✔ | 5.00% | ~8 |
+| Thirst ✔ | 5.00% | ~8 |
 | Brain ✔ | 4.00% | ~6 |
 | Eva ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
 | Infected ✔ | 4.00% | ~6 |
 | All secrets revealed ✔ | 4.00% | ~6 |
-| Boss 1 ✔ | 3.00% | ~4 |
-| Alice ✔ | 3.00% | ~4 |
-| Crocodile Attack ✔ | 3.00% | ~4 |
-| Food ✔ | 3.00% | ~4 |
-| Group Alpha ✔ | 3.00% | ~4 |
-| Mutant fight ✔ | 3.00% | ~4 |
-| Mutant run ✔ | 3.00% | ~4 |
-| Sheriff ✔ | 3.00% | ~4 |
-| Priest ✔ | 3.00% | ~4 |
-| Rank A ✔ | 3.00% | ~4 |
-| Broadcasting ✔ | 3.00% | ~4 |
-| Boss 3 ✔ | 3.00% | ~4 |
+| Boss 1 ✔ | 3.00% | ~5 |
+| Alice ✔ | 3.00% | ~5 |
+| Crocodile Attack ✔ | 3.00% | ~5 |
+| Food ✔ | 3.00% | ~5 |
+| Group Alpha ✔ | 3.00% | ~5 |
+| Mutant fight ✔ | 3.00% | ~5 |
+| Mutant run ✔ | 3.00% | ~5 |
+| Sheriff ✔ | 3.00% | ~5 |
+| Priest ✔ | 3.00% | ~5 |
+| Rank A ✔ | 3.00% | ~5 |
+| Broadcasting ✔ | 3.00% | ~5 |
+| Boss 3 ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Secret ✔ | 2.00% | ~3 |
 | Boss 2 ✔ | 2.00% | ~3 |
 | Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
 | Rank B+ ✔ | 2.00% | ~3 |
-| Seeker One ✔ | 1.00% | ~1 |
-| Crocodile Escape ✔ | 1.00% | ~1 |
-| Hardcore ✔ | 1.00% | ~1 |
-| Speedrun ✔ | 1.00% | ~1 |
-| VIP ✔ | 1.00% | ~1 |
+| Seeker One ✔ | 1.00% | ~2 |
+| Crocodile Escape ✔ | 1.00% | ~2 |
+| Hardcore ✔ | 1.00% | ~2 |
+| Speedrun ✔ | 1.00% | ~2 |
+| VIP ✔ | 1.00% | ~2 |
 | Seeker Three ✔ | 0.70% | ~1 |
 | Seeker Two ✔ | 0.70% | ~1 |
 | Exterminate pests ✔ | 0.70% | ~1 |
 | Rank A+ ✔ | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 236)  
+Progressed: 151 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 129 | 0 |
 | 2023-05-06 | 139 | 0 |
 | 2023-05-07 | 149 | 0 |
+| 2023-05-08 | 151 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,11 +3,11 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 589,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.46,
   "RatingHistory": [
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242648,
+  "EOS_Progressed": 242650,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1455,6 +1455,11 @@
       "Time": "2023-05-08T00:06:28.9064706+00:00",
       "NumProgressed": 242648,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T02:08:11.9131758+00:00",
+      "NumProgressed": 242650,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -1538,7 +1543,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36397
+      "UsersEstimate": 36398
     },
     {
       "ID": "clearCut",
@@ -1618,7 +1623,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7279
+      "UsersEstimate": 7280
     },
     {
       "ID": "hereWeGo",
@@ -1642,7 +1647,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 128603
+      "UsersEstimate": 128604
     },
     {
       "ID": "indegestible",
@@ -1658,7 +1663,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16985
+      "UsersEstimate": 16986
     },
     {
       "ID": "itsTheFall",
@@ -1666,7 +1671,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63088
+      "UsersEstimate": 63089
     },
     {
       "ID": "justABit",
@@ -1706,7 +1711,7 @@
       "Name": "My First Runbow",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 123750
+      "UsersEstimate": 123752
     },
     {
       "ID": "notScared",
@@ -1738,7 +1743,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16985
+      "UsersEstimate": 16986
     },
     {
       "ID": "rideTheWave",
@@ -1754,7 +1759,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7279
+      "UsersEstimate": 7280
     },
     {
       "ID": "talentScout",
@@ -1833,7 +1838,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 242648,
+      "Progressed": 242650,
       "Completed": 1
     }
   ],
@@ -1841,8 +1846,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:28.90647+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:08:11.9131751+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.9561807+00:00",
-  "LastUpdate_Ratings": "2023-05-08T00:00:16.3548963+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:28.9065109+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:01:38.3549115+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:08:11.9132873+00:00"
 }

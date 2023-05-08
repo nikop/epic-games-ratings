@@ -28,13 +28,13 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 5.00% | ~57 |
 | Another Tale to Tell | 5.00% | ~57 |
 | Plague Doctor | 4.00% | ~46 |
+| A Hunger, Sated | 4.00% | ~46 |
 | Wingknight's Prowess | 4.00% | ~46 |
 | All My Birds, Safely Home | 4.00% | ~46 |
 | Turncoat | 4.00% | ~46 |
 | Worldwalker | 3.00% | ~34 |
 | Legends Never Die | 3.00% | ~34 |
 | In Soil, In Smoke | 3.00% | ~34 |
-| A Hunger, Sated | 3.00% | ~34 |
 | Bears are Scary | 3.00% | ~34 |
 | Grillmaster | 3.00% | ~34 |
 | No Time for Clawmonsters | 3.00% | ~34 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.30% | ~3 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,144 (Ranked 155)  
+Progressed: 1,145 (Ranked 155)  
 Completed: 3 (0.26%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 3 (0.26%) (Ranked 126)
 | 2023-05-05 | 1,130 | 3 |
 | 2023-05-06 | 1,138 | 3 |
 | 2023-05-07 | 1,144 | 3 |
+| 2023-05-08 | 1,145 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 453)  
 Sum: 27 (Ranked 461)  

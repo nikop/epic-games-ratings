@@ -2268,7 +2268,7 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8694,
+  "EOS_Progressed": 8695,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
@@ -3028,6 +3028,11 @@
       "Time": "2023-05-08T00:06:26.7320136+00:00",
       "NumProgressed": 8694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T02:08:09.3482814+00:00",
+      "NumProgressed": 8695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3101,9 +3106,9 @@
       "ID": "09_PathOfDemon",
       "SetID": "989of5o",
       "Name": "Path of the Demon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 78
     },
     {
       "ID": "10_PathOfAzata",
@@ -3407,7 +3412,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "49_Flame",
@@ -3966,21 +3971,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7476,
+      "Progressed": 7477,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8694,
+      "Progressed": 8695,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-07T18:00:15.7880608+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:26.7320132+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:08:09.348281+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-07T23:59:24.8003017+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:26.7321442+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:00:36.2874232+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:08:09.3485106+00:00"
 }

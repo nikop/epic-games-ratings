@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 19,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:39.5601593+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 107,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.66,
+  "EOS_NewPlayers": 105,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 7.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -738,6 +738,11 @@
       "Time": "2023-05-08T00:06:32.7342+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-08T02:08:16.3705962+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 12,
@@ -813,7 +818,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -844,7 +849,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1177,
       "Completed": 90
     }
   ],
@@ -852,8 +857,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:32.7341998+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:08:16.3705955+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-08T00:00:42.7606604+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:32.7342109+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:02:09.1082274+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:08:16.3706141+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,949 |
-| Jeef Skeejj | 44.00% | ~201,299 |
-| Careful planning | 39.00% | ~178,424 |
-| Second Coming | 33.00% | ~150,974 |
-| Jeef Skagg | 30.00% | ~137,249 |
-| Mother | 25.00% | ~114,374 |
+| The Shutdown | 66.00% | ~301,951 |
+| Jeef Skeejj | 44.00% | ~201,300 |
+| Careful planning | 39.00% | ~178,425 |
+| Second Coming | 33.00% | ~150,975 |
+| Jeef Skagg | 30.00% | ~137,250 |
+| Mother | 25.00% | ~114,375 |
 | In space, no one can hear you scream | 23.00% | ~105,225 |
 | Chapter I: Echoes | 22.00% | ~100,650 |
 | Excelsior Rule | 22.00% | ~100,650 |
@@ -57,22 +57,22 @@ Number of Ratings: 1,003  (23.09.2022)
 | A Frozen Lady | 1.00% | ~4,575 |
 | Void Rule | 1.00% | ~4,575 |
 | Excelsior Mastery | 0.80% | ~3,660 |
-| The greatest admiral of all time | 0.50% | ~2,287 |
-| Liberator | 0.10% | ~457 |
-| The Art of War | 0.10% | ~457 |
-| Geno Mastery | 0.10% | ~457 |
-| Geno Supremacy | 0.10% | ~457 |
-| Jericho Mastery | 0.10% | ~457 |
-| Jericho Supremacy | 0.10% | ~457 |
-| Hammer Mastery | 0.10% | ~457 |
-| Hammer Supremacy | 0.10% | ~457 |
-| Void Mastery | 0.10% | ~457 |
-| Void Supremacy | 0.10% | ~457 |
-| Kaos Mastery | 0.10% | ~457 |
-| Kaos Supremacy | 0.10% | ~457 |
-| Excelsior Supremacy | 0.10% | ~457 |
+| The greatest admiral of all time | 0.50% | ~2,288 |
+| Liberator | 0.10% | ~458 |
+| The Art of War | 0.10% | ~458 |
+| Geno Mastery | 0.10% | ~458 |
+| Geno Supremacy | 0.10% | ~458 |
+| Jericho Mastery | 0.10% | ~458 |
+| Jericho Supremacy | 0.10% | ~458 |
+| Hammer Mastery | 0.10% | ~458 |
+| Hammer Supremacy | 0.10% | ~458 |
+| Void Mastery | 0.10% | ~458 |
+| Void Supremacy | 0.10% | ~458 |
+| Kaos Mastery | 0.10% | ~458 |
+| Kaos Supremacy | 0.10% | ~458 |
+| Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,498 (Ranked 28)  
+Progressed: 457,501 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 14 (0.00%) (Ranked 192)
 | 2023-05-05 | 457,303 | 14 |
 | 2023-05-06 | 457,393 | 14 |
 | 2023-05-07 | 457,494 | 14 |
-| 2023-05-08 | 457,498 | 14 |
+| 2023-05-08 | 457,501 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

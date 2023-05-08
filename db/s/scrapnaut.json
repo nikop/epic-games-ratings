@@ -3,8 +3,8 @@
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
   "Ranking_Rating": 722,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 204,
@@ -239,9 +239,9 @@
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Management",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -287,17 +287,17 @@
       "ID": "ACH_CUT_50_TREES",
       "SetID": "7c4cldc",
       "Name": "Forest Lord",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -311,9 +311,9 @@
       "ID": "ACH_KILL_100",
       "SetID": "7c4cldc",
       "Name": "Robot Hunter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_KILL_20",
@@ -391,9 +391,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "7c4cldc",
       "Name": "Advanced Survivalist",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -424,8 +424,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:05.3098267+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:07:37.8884782+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:45.236419+00:00",
-  "LastUpdate_Ratings": "2023-05-07T23:59:35.2910513+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:05.309845+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:00:50.3361244+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:07:37.8885045+00:00"
 }

@@ -1,20 +1,20 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.12 (Ranked 849)  
+Rating: 4.13 (Ranked 847)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 71.00% | ~2,432 |
-| Hey Good Hookin | 61.00% | ~2,089 |
-| I'm on a Boat! | 52.00% | ~1,781 |
+| Hey Good Hookin | 61.00% | ~2,090 |
+| I'm on a Boat! | 52.00% | ~1,782 |
 | Scaling up | 46.00% | ~1,576 |
 | Can you smell what the Rod is Hooking | 44.00% | ~1,507 |
-| More Fish in the Sea | 37.00% | ~1,267 |
+| More Fish in the Sea | 37.00% | ~1,268 |
 | Ready to Rod and Roll | 36.00% | ~1,233 |
 | License to Gill | 31.00% | ~1,062 |
-| Fish Out of Water | 29.00% | ~993 |
+| Fish Out of Water | 29.00% | ~994 |
 | Things that go Splash in the Night | 25.00% | ~856 |
 | Goldfish? | 25.00% | ~856 |
 | Going for Gold | 23.00% | ~788 |
@@ -27,8 +27,8 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 5.00% | ~171 |
 | School's Out for Summer | 4.00% | ~137 |
 | Gonna Need a Bigger Boat | 3.00% | ~103 |
-| The Beetles | 2.00% | ~68 |
-| Taylor Made | 2.00% | ~68 |
+| The Beetles | 2.00% | ~69 |
+| Taylor Made | 2.00% | ~69 |
 | Rod and Troll | 2.00% | ~56 |
 | Head for Heights | 0.70% | ~24 |
 | Fish upon a Star | 0.60% | ~17 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,425 (Ranked 129)  
+Progressed: 3,426 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 3,411 | 0 |
 | 2023-05-06 | 3,418 | 0 |
 | 2023-05-07 | 3,425 | 0 |
+| 2023-05-08 | 3,426 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 433)  
 Sum: 158 (Ranked 374)  
@@ -118,3 +119,4 @@ Diff (max vs sum): 59
 | 2023-02-08 | 4.11 | - | - | - |
 | 2023-04-07 | 4.11 | - | 32 | 158 |
 | 2023-04-14 | 4.12 | - | 32 | 158 |
+| 2023-05-08 | 4.13 | - | 32 | 158 |

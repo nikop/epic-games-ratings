@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.77,
   "NumberOfRatings": 45,
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1144,
+  "EOS_Progressed": 1145,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -275,6 +275,11 @@
     {
       "Time": "2023-05-07T22:07:10.2827945+00:00",
       "NumProgressed": 1144,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-08T02:07:44.5268863+00:00",
+      "NumProgressed": 1145,
       "NumCompleted": 3
     }
   ],
@@ -565,9 +570,9 @@
       "ID": "completedStory_vultureLord",
       "SetID": "95dc8p",
       "Name": "A Hunger, Sated",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 46
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -734,15 +739,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1144,
+      "Progressed": 1145,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-08T00:06:14.4572687+00:00",
+  "LastChanged_Achievements": "2023-05-08T02:07:44.5268857+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-08T00:01:44.3151262+00:00",
-  "LastUpdate_Achievements": "2023-05-08T00:06:14.4573074+00:00"
+  "LastUpdate_Ratings": "2023-05-08T02:03:24.3430938+00:00",
+  "LastUpdate_Achievements": "2023-05-08T02:07:44.5269718+00:00"
 }

@@ -5,35 +5,35 @@ Rating: 4.64 (Ranked 309)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,400 |
-| Mainframe Hacker | 48.00% | ~2,550 |
-| The Spy who eliminated me | 48.00% | ~2,550 |
-| Tomorrow Never Dyes | 47.00% | ~2,497 |
-| Never Say Loser Again | 42.00% | ~2,231 |
-| From the Vault with Love | 39.00% | ~2,072 |
-| For your Eyes only | 39.00% | ~2,072 |
-| Tailor-Made | 38.00% | ~2,019 |
-| Fully Decked Out | 37.00% | ~1,965 |
-| You Only Live Twice | 33.00% | ~1,753 |
-| A view to Win | 29.00% | ~1,540 |
-| Smells Like Trouble | 27.00% | ~1,434 |
-| In It to Win It | 26.00% | ~1,381 |
-| Private Collection | 26.00% | ~1,381 |
-| Hostile Takeover | 26.00% | ~1,381 |
-| Killer Looks | 25.00% | ~1,328 |
-| Assistant Accountant | 24.00% | ~1,275 |
-| Keycards Royale | 24.00% | ~1,275 |
-| Dr. No Kill | 24.00% | ~1,275 |
-| The Living Portrait | 24.00% | ~1,275 |
-| My Motto, My Creed | 24.00% | ~1,275 |
-| Security Supervisor | 9.00% | ~478 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,404 |
+| Mainframe Hacker | 48.00% | ~2,553 |
+| The Spy who eliminated me | 48.00% | ~2,553 |
+| Tomorrow Never Dyes | 47.00% | ~2,499 |
+| Never Say Loser Again | 42.00% | ~2,234 |
+| From the Vault with Love | 39.00% | ~2,074 |
+| For your Eyes only | 39.00% | ~2,074 |
+| Tailor-Made | 38.00% | ~2,021 |
+| Fully Decked Out | 37.00% | ~1,968 |
+| You Only Live Twice | 33.00% | ~1,755 |
+| A view to Win | 29.00% | ~1,542 |
+| Smells Like Trouble | 27.00% | ~1,436 |
+| In It to Win It | 26.00% | ~1,383 |
+| Private Collection | 26.00% | ~1,383 |
+| Killer Looks | 25.00% | ~1,330 |
+| Hostile Takeover | 25.00% | ~1,330 |
+| Assistant Accountant | 24.00% | ~1,276 |
+| Keycards Royale | 24.00% | ~1,276 |
+| Dr. No Kill | 24.00% | ~1,276 |
+| The Living Portrait | 24.00% | ~1,276 |
+| My Motto, My Creed | 24.00% | ~1,276 |
+| Security Supervisor | 9.00% | ~479 |
 | License to Thrill | 8.00% | ~425 |
 | Social of Solace | 8.00% | ~425 |
 | Safe Withdrawal | 7.00% | ~372 |
 | Live and let lie | 6.00% | ~319 |
 | Call Me Maybe | 5.00% | ~266 |
-| PHD in VIP | 4.00% | ~212 |
-| Branch Manager | 3.00% | ~159 |
+| PHD in VIP | 4.00% | ~213 |
+| Branch Manager | 3.00% | ~160 |
 | The terminals are not enough | 2.00% | ~106 |
 | Lose Another Day | 2.00% | ~106 |
 | Chairman of Deceive Inc. | 2.00% | ~106 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 309)
 | Extraction Confusion | 0.30% | ~16 |
 | Spyfall | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,312 (Ranked 118)  
+Progressed: 5,318 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 5,201 | 0 |
 | 2023-05-06 | 5,268 | 0 |
 | 2023-05-07 | 5,311 | 0 |
-| 2023-05-08 | 5,312 | 0 |
+| 2023-05-08 | 5,318 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
