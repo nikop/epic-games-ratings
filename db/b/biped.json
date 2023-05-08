@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1078,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -948,6 +948,11 @@
       "Time": "2023-05-08T07:06:14.0858785+00:00",
       "NumProgressed": 1078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T11:08:03.2376207+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -957,9 +962,9 @@
       "ID": "1",
       "SetID": "1dkhij4",
       "Name": "First Step",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 45,
-      "UsersEstimate": 496
+      "UsersEstimate": 486
     },
     {
       "ID": "10",
@@ -975,7 +980,7 @@
       "Name": "Telepathic",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "12",
@@ -1078,7 +1083,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1078,
+      "Progressed": 1080,
       "Completed": 0
     }
   ],
@@ -1086,8 +1091,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-08T10:07:02.3130362+00:00",
+  "LastChanged_Achievements": "2023-05-08T11:08:03.2376199+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:21.092462+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:59:36.6052233+00:00",
-  "LastUpdate_Achievements": "2023-05-08T10:07:02.3130538+00:00"
+  "LastUpdate_Ratings": "2023-05-08T11:00:05.5102435+00:00",
+  "LastUpdate_Achievements": "2023-05-08T11:08:03.2376377+00:00"
 }

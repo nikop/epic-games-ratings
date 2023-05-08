@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shiny New Weapons | 50.00% | ~5 |
+| Completely Hooked | 20.00% | ~2 |
 | Money Bags | 20.00% | ~2 |
 | The Lawnmower Lady | 20.00% | ~2 |
 | Lily: Warrior Princess | 20.00% | ~2 |
 | Key Piece I | 10.00% | ~1 |
-| Completely Hooked | 10.00% | ~1 |
+| Fruitful Offerings | 10.00% | ~1 |
+| Nice Display | 10.00% | ~1 |
 | Key Piece II | 10.00% | ~1 |
 | Not All Who Wander | 0.00% | ~0 |
 | Walking Cookbook | 0.00% | ~0 |
 | The Musician | 0.00% | ~0 |
 | Lily Strong | 0.00% | ~0 |
 | Energy For Days | 0.00% | ~0 |
-| Fruitful Offerings | 0.00% | ~0 |
-| Nice Display | 0.00% | ~0 |
 | A Budding Business | 0.00% | ~0 |
 | Key Piece III | 0.00% | ~0 |
 | The Hero | 0.00% | ~0 |

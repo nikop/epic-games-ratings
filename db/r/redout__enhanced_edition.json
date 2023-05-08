@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.51,
   "NumberOfRatings": 274,
@@ -320,9 +320,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221280,
+  "EOS_Progressed": 221284,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2023-05-08T10:06:41.74022+00:00",
       "NumProgressed": 221280,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-08T11:08:02.831528+00:00",
+      "NumProgressed": 221284,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -1737,7 +1742,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 61958
+      "UsersEstimate": 61960
     },
     {
       "ID": "CENTAUR",
@@ -1785,7 +1790,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 17702
+      "UsersEstimate": 17703
     },
     {
       "ID": "FLAWLESS",
@@ -1801,7 +1806,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6638
+      "UsersEstimate": 6639
     },
     {
       "ID": "GT9STRADALE",
@@ -1809,7 +1814,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44256
+      "UsersEstimate": 44257
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -1857,7 +1862,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70810
+      "UsersEstimate": 70811
     },
     {
       "ID": "NOBUNAGA",
@@ -1881,7 +1886,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19915
+      "UsersEstimate": 19916
     },
     {
       "ID": "PHOTOFINISH",
@@ -1945,7 +1950,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46469
+      "UsersEstimate": 46470
     },
     {
       "ID": "TACTICIAN",
@@ -1985,22 +1990,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90725
+      "UsersEstimate": 90726
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221280,
+      "Progressed": 221284,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-08T10:06:41.7402196+00:00",
+  "LastChanged_Achievements": "2023-05-08T11:08:02.8315276+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.7279724+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:59:45.8867455+00:00",
-  "LastUpdate_Achievements": "2023-05-08T10:06:41.7402562+00:00"
+  "LastUpdate_Ratings": "2023-05-08T11:00:21.1027084+00:00",
+  "LastUpdate_Achievements": "2023-05-08T11:08:02.8315629+00:00"
 }

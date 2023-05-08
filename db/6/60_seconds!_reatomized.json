@@ -613,9 +613,9 @@
       "ID": "ACH_DEEDEE",
       "SetID": "5nj1ea3",
       "Name": "Dawkins Residence",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 713
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_DEFEND",
@@ -966,8 +966,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-04-29T09:59:31.6059591+00:00",
-  "LastChanged_Achievements": "2023-05-08T10:07:45.3610288+00:00",
+  "LastChanged_Achievements": "2023-05-08T11:08:53.4596625+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:25.8423594+00:00",
-  "LastUpdate_Ratings": "2023-05-08T10:02:43.2474989+00:00",
-  "LastUpdate_Achievements": "2023-05-08T10:07:45.3610887+00:00"
+  "LastUpdate_Ratings": "2023-05-08T11:03:29.5219647+00:00",
+  "LastUpdate_Achievements": "2023-05-08T11:08:53.4597169+00:00"
 }

@@ -15,8 +15,8 @@
 | It doesn't work like that | 18.00% | ~12 |
 | A small victory | 17.00% | ~11 |
 | This is just the beginning... | 12.00% | ~8 |
+| Time is on my side | 11.00% | ~7 |
 | Unstoppable Curiosity | 11.00% | ~7 |
-| Time is on my side | 9.00% | ~6 |
 | Gold Digger | 6.00% | ~4 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

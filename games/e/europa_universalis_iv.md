@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,897 |
-| That's a Grand Army | 8.00% | ~2,575 |
-| That is mine! | 8.00% | ~2,575 |
-| Victorious! | 8.00% | ~2,575 |
-| Brothers in Arms | 6.00% | ~1,931 |
-| That's a Grand Navy | 6.00% | ~1,931 |
-| Seriously?! | 6.00% | ~1,931 |
-| For the Glory | 5.00% | ~1,610 |
-| Cold War | 4.00% | ~1,288 |
-| True Catholic | 4.00% | ~1,288 |
-| Defender of the Faith | 3.00% | ~966 |
-| It's all about the money | 3.00% | ~966 |
-| Respected | 3.00% | ~966 |
+| Until death do us apart | 9.00% | ~2,900 |
+| That's a Grand Army | 8.00% | ~2,578 |
+| That is mine! | 8.00% | ~2,578 |
+| Victorious! | 8.00% | ~2,578 |
+| Brothers in Arms | 6.00% | ~1,933 |
+| That's a Grand Navy | 6.00% | ~1,933 |
+| Seriously?! | 6.00% | ~1,933 |
+| For the Glory | 5.00% | ~1,611 |
+| Cold War | 4.00% | ~1,289 |
+| True Catholic | 4.00% | ~1,289 |
+| Defender of the Faith | 3.00% | ~967 |
+| It's all about the money | 3.00% | ~967 |
+| Respected | 3.00% | ~967 |
 | Blockader | 2.00% | ~644 |
 | Combined Arms | 2.00% | ~644 |
 | Double the Love | 2.00% | ~644 |
@@ -39,8 +39,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.90% | ~290 |
 | Isn't this the way to India? | 0.80% | ~258 |
 | The Five Colonies | 0.80% | ~258 |
-| The Emperors new clothes | 0.70% | ~225 |
-| Market Control | 0.70% | ~225 |
+| The Emperors new clothes | 0.70% | ~226 |
+| Market Control | 0.70% | ~226 |
 | Down Under | 0.60% | ~193 |
 | This navy can take it all | 0.60% | ~193 |
 | Electable! | 0.50% | ~161 |
@@ -67,6 +67,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.30% | ~97 |
 | Tear Down This Wall | 0.30% | ~97 |
 | The Continuation of Diplomacy | 0.30% | ~97 |
+| Wonderful | 0.30% | ~97 |
 | A Decent Reserve | 0.20% | ~64 |
 | A Pile of Gold | 0.20% | ~64 |
 | A Protected Market | 0.20% | ~64 |
@@ -84,7 +85,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.20% | ~64 |
 | Traditional Player | 0.20% | ~64 |
 | Vasa or Wettin? | 0.20% | ~64 |
-| Wonderful | 0.20% | ~64 |
 | World Discoverer | 0.20% | ~64 |
 | A Blessed Nation | 0.10% | ~32 |
 | A Hero’s Welcome | 0.10% | ~32 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,191 (Ranked 80)  
+Progressed: 32,221 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,191 | 0 |
+| 2023-05-08 | 32,221 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
 Sum: 42,931 (Ranked 27)  

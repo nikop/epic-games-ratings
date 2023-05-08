@@ -28,7 +28,7 @@ Rating: 4.63 (Ranked 325)
 | This is the end | 31.00% | ~1,228 |
 | Gotta get 'em all | 29.00% | ~1,149 |
 | Disco Roach | 26.00% | ~1,030 |
-| Dawkins Residence | 18.00% | ~713 |
+| Dawkins Residence | 19.00% | ~753 |
 | Rescue time! | 16.00% | ~634 |
 | New order | 15.00% | ~594 |
 | New species | 15.00% | ~594 |

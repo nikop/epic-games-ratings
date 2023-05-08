@@ -27,6 +27,7 @@ Rating: 4.54 (Ranked 476)
 | Please Make it Stop! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
 | Hope Seeker | 0.20% | ~4 |
+| From the Past | 0.20% | ~4 |
 | Pulsar Disciple | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
 | Better Him Than Me | 0.10% | ~2 |
@@ -48,7 +49,6 @@ Rating: 4.54 (Ranked 476)
 | All in Good Health | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
-| From the Past | 0.10% | ~2 |
 | What the Ruins Teach Us | 0.10% | ~2 |
 | Beyond Time and Space | 0.00% | ~0 |
 | Tiqqun Contender | 0.00% | ~0 |

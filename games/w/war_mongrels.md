@@ -45,10 +45,10 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter VIII | 5.00% | ~12 |
 | Collectibles of Chapter X | 5.00% | ~12 |
 | Collectibles of Chapter XI | 5.00% | ~12 |
+| The Good Samaritan | 4.00% | ~10 |
 | Not Spill a Drop | 4.00% | ~10 |
 | Collectibles of Chapter VI | 3.00% | ~7 |
 | Collectibles of Chapter IX | 3.00% | ~7 |
-| The Good Samaritan | 3.00% | ~7 |
 | It Will Rain | 3.00% | ~7 |
 | Hold a Door | 1.00% | ~2 |
 | Daddy Would Be Proud | 1.00% | ~2 |

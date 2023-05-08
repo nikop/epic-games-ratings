@@ -15,10 +15,10 @@
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.71% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.11% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.47% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
@@ -30,7 +30,7 @@
 | 27 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.21% |
-| 31 | [Doodle God](games/d/doodle_god.md) | 4.04% |
+| 31 | [Doodle God](games/d/doodle_god.md) | 4.02% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 34 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
@@ -44,7 +44,7 @@
 | 42 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 43 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 44 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
-| 44 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
+| 45 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 46 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 48 | [ZZT!](games/z/zzt!.md) | 2.73% |
@@ -99,9 +99,9 @@
 | 97 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 98 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
 | 98 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
-| 100 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
-| 102 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
+| 101 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 101 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 103 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 104 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 105 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |

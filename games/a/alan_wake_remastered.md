@@ -10,7 +10,7 @@ Number of Ratings: 524  (23.09.2022)
 | Let There Be Light | 16.00% | ~7,370 |
 | Float Like a Butterfly | 15.00% | ~6,909 |
 | Nordic Walking | 13.00% | ~5,988 |
-| Bright Falls' Finest | 12.00% | ~5,527 |
+| Bright Falls' Finest | 12.00% | ~5,528 |
 | Under a Thin Layer of Skin | 11.00% | ~5,067 |
 | Park Ranger | 9.00% | ~4,146 |
 | Back! Back, I Say! | 9.00% | ~4,146 |
@@ -38,8 +38,8 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,303 |
 | What Light Through Yonder Window | 5.00% | ~2,303 |
 | Right of Way | 5.00% | ~2,303 |
-| Ding! | 5.00% | ~476 |
-| Departure | 4.00% | ~1,842 |
+| Ding! | 5.00% | ~477 |
+| Departure | 4.00% | ~1,843 |
 | Children of the Elder God | 3.00% | ~1,382 |
 | Drink 'Em Both Up | 3.00% | ~1,382 |
 | Hardboiled Writer | 3.00% | ~1,382 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,062 (Ranked 74)  
+Progressed: 46,063 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 44 (0.10%) (Ranked 151)
 | 2023-05-05 | 46,013 | 44 |
 | 2023-05-06 | 46,035 | 44 |
 | 2023-05-07 | 46,058 | 44 |
-| 2023-05-08 | 46,062 | 44 |
+| 2023-05-08 | 46,063 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

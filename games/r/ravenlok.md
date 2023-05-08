@@ -10,8 +10,8 @@
 | A Prophecy | 85.00% | ~419 |
 | Sword, Shield, Fight! | 75.00% | ~370 |
 | A Grand Visit | 70.00% | ~345 |
+| Fun Guy | 60.00% | ~296 |
 | Vibing | 59.00% | ~291 |
-| Fun Guy | 59.00% | ~291 |
 | Tragic Brave | 51.00% | ~251 |
 | Awakened Spirits | 46.00% | ~227 |
 | Little Shop | 45.00% | ~222 |
@@ -26,11 +26,11 @@
 | Nightmare Fuel | 33.00% | ~163 |
 | Take Heart | 33.00% | ~163 |
 | The Guardian | 33.00% | ~163 |
+| Ancient Wisdom | 31.00% | ~153 |
 | Frog Facts! | 31.00% | ~153 |
 | All That Glistens | 31.00% | ~153 |
 | Stronger! | 31.00% | ~153 |
 | It's Pointy! | 31.00% | ~153 |
-| Ancient Wisdom | 30.00% | ~148 |
 | Spellbound | 28.00% | ~138 |
 | All Skilled Up! | 28.00% | ~138 |
 | Extinct Again! | 27.00% | ~133 |

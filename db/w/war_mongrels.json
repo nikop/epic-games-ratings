@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.3,
   "NumberOfRatings": 34,
@@ -659,9 +659,9 @@
       "ID": "ACH_JOACHIM_FATE1",
       "SetID": "1j25agn",
       "Name": "The Good Samaritan",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_JOACHIM_FATE2",
@@ -787,8 +787,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-03-31T05:57:33.4298842+00:00",
-  "LastChanged_Achievements": "2023-05-08T10:07:10.1811948+00:00",
+  "LastChanged_Achievements": "2023-05-08T11:08:12.3065107+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.641778+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:58:58.7777861+00:00",
-  "LastUpdate_Achievements": "2023-05-08T10:07:10.1812485+00:00"
+  "LastUpdate_Ratings": "2023-05-08T10:59:16.1257648+00:00",
+  "LastUpdate_Achievements": "2023-05-08T11:08:12.3065684+00:00"
 }

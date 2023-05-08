@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4850,
+  "EOS_Progressed": 4851,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-05-08T08:06:28.8850138+00:00",
       "NumProgressed": 4850,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-08T11:08:07.1484379+00:00",
+      "NumProgressed": 4851,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -846,7 +851,7 @@
       "Name": "Escape Artist",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH04",
@@ -886,7 +891,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH09",
@@ -894,7 +899,7 @@
       "Name": "By a Mile",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH10",
@@ -918,7 +923,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH13",
@@ -926,7 +931,7 @@
       "Name": "Where To?",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH14",
@@ -998,7 +1003,7 @@
       "Name": "Playing Doctor",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH23",
@@ -1022,7 +1027,7 @@
       "Name": "Right-hand Man",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH26",
@@ -1061,7 +1066,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4850,
+      "Progressed": 4851,
       "Completed": 26
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-08T10:07:05.5650204+00:00",
+  "LastChanged_Achievements": "2023-05-08T11:08:07.1484371+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:59:27.8639932+00:00",
-  "LastUpdate_Achievements": "2023-05-08T10:07:05.5650431+00:00"
+  "LastUpdate_Ratings": "2023-05-08T10:59:54.2629755+00:00",
+  "LastUpdate_Achievements": "2023-05-08T11:08:07.1484687+00:00"
 }

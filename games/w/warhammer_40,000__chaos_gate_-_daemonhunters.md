@@ -16,11 +16,11 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 15.00% | ~388 |
 | Surgical Excision | 14.00% | ~362 |
 | Bloodless | 14.00% | ~362 |
-| Honoured Battle-Brother | 10.00% | ~258 |
-| The Emperor Protects | 10.00% | ~258 |
-| Nemesis Master | 10.00% | ~258 |
-| Gunmaster | 10.00% | ~258 |
-| A Foul Creche | 10.00% | ~258 |
+| Honoured Battle-Brother | 10.00% | ~259 |
+| The Emperor Protects | 10.00% | ~259 |
+| Nemesis Master | 10.00% | ~259 |
+| Gunmaster | 10.00% | ~259 |
+| A Foul Creche | 10.00% | ~259 |
 | Opportunist | 7.00% | ~181 |
 | Efficient Killer | 7.00% | ~181 |
 | Just a Scratch | 7.00% | ~181 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,585 (Ranked 134)  
+Progressed: 2,586 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 2,576 | 0 |
 | 2023-05-06 | 2,580 | 0 |
 | 2023-05-07 | 2,584 | 0 |
-| 2023-05-08 | 2,585 | 0 |
+| 2023-05-08 | 2,586 | 0 |
 ## Awards
 Max (Character Customization): 208  (Ranked 254)  
 Sum: 416 (Ranked 296)  

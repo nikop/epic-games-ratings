@@ -6,12 +6,12 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,289 |
-| Self-Improvement | 71.00% | ~1,064 |
-| Perky | 66.00% | ~989 |
-| Let’s Ride | 60.00% | ~899 |
-| Welcome to the Weird West | 58.00% | ~869 |
-| Dead or Alive | 56.00% | ~839 |
+| Unforgiven | 86.00% | ~1,290 |
+| Self-Improvement | 71.00% | ~1,065 |
+| Perky | 66.00% | ~990 |
+| Let’s Ride | 60.00% | ~900 |
+| Welcome to the Weird West | 58.00% | ~870 |
+| Dead or Alive | 56.00% | ~840 |
 | Full House | 36.00% | ~540 |
 | Off the Trail | 34.00% | ~510 |
 | Justice Served | 29.00% | ~435 |
@@ -51,16 +51,16 @@ Number of Ratings: 125  (23.09.2022)
 | Moondrunk | 3.00% | ~45 |
 | Lord Inut Sends His Regards | 2.00% | ~30 |
 | 'Ma Barker | 1.00% | ~15 |
-| Hog Wild | 0.90% | ~13 |
+| Hog Wild | 0.90% | ~14 |
 | I Kicked a Bird and I Liked it | 0.70% | ~10 |
-| End the world | 0.50% | ~7 |
+| End the world | 0.50% | ~8 |
 | Explorer | 0.40% | ~6 |
 | Moon Hunter | 0.40% | ~6 |
 | Dirt and Blame | 0.30% | ~4 |
 | Winter Has Come | 0.30% | ~4 |
 | Revenant | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,499 (Ranked 149)  
+Progressed: 1,500 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 2 (0.13%) (Ranked 145)
 | 2023-05-05 | 1,495 | 2 |
 | 2023-05-06 | 1,496 | 2 |
 | 2023-05-07 | 1,497 | 2 |
-| 2023-05-08 | 1,499 | 2 |
+| 2023-05-08 | 1,500 | 2 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 468)  
 Sum: 23 (Ranked 470)  
