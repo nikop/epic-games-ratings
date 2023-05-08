@@ -14,8 +14,8 @@
 | Getting the Hang Of This | 47.00% | ~155 |
 | Collector | 29.00% | ~95 |
 | Poker-Man | 21.00% | ~69 |
+| Blow ‘Em Up | 21.00% | ~69 |
 | That’s What Friends Are For | 20.00% | ~66 |
-| Blow ‘Em Up | 20.00% | ~66 |
 | FOR THE GAUNTLET! | 19.00% | ~63 |
 | Untapped Potential | 17.00% | ~56 |
 | Played by Gramps | 14.00% | ~46 |

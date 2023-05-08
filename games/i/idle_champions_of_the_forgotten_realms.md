@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~174 |
 | Fugitives | 0.20% | ~174 |
 | Premature Betrayal | 0.20% | ~174 |
+| Hopelessly Lost | 0.20% | ~174 |
 | A Tale of Two Cities | 0.20% | ~174 |
 | The Dead Three | 0.20% | ~174 |
 | Flying Monkey Skulls of Doom | 0.20% | ~174 |
@@ -287,7 +288,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.10% | ~87 |
 | Careful Consideration | 0.10% | ~87 |
 | Tanking Expectations | 0.10% | ~53 |
-| Hopelessly Lost | 0.10% | ~87 |
 | Bazaar Exploits | 0.10% | ~87 |
 | Cramped Quarters | 0.10% | ~87 |
 | Flame(skull) War | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,808 (Ranked 59)  
+Progressed: 86,813 (Ranked 59)  
 Completed: 1,811 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,6 +514,7 @@ Completed: 1,811 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
+| 2023-05-08 | 86,813 | 1,811 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,830 (Ranked 37)  

@@ -9,9 +9,9 @@ Rating: 4.46 (Ranked 589)
 | My First Runbow | 51.00% | ~123,750 |
 | It's The Fall | 26.00% | ~63,088 |
 | The Stunner | 21.00% | ~50,956 |
-| Be Aggressive | 20.00% | ~48,529 |
-| Curator | 20.00% | ~48,529 |
-| Crowning Around | 18.00% | ~43,676 |
+| Be Aggressive | 20.00% | ~48,530 |
+| Curator | 20.00% | ~48,530 |
+| Crowning Around | 18.00% | ~43,677 |
 | Can You Dig It? | 17.00% | ~41,250 |
 | You Juan-A-Go? | 16.00% | ~38,824 |
 | Chan-tastic | 15.00% | ~36,397 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 589)
 | Talent Scout | 0.10% | ~243 |
 | True Completionist | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,647 (Ranked 40)  
+Progressed: 242,648 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 1 (0.00%) (Ranked 192)
 | 2023-05-05 | 242,495 | 1 |
 | 2023-05-06 | 242,565 | 1 |
 | 2023-05-07 | 242,647 | 1 |
+| 2023-05-08 | 242,648 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

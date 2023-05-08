@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 1916,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1131,9 +1131,9 @@
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1763
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1251,9 +1251,9 @@
       "ID": "STB_PET_DOG",
       "SetID": "3pe2bac",
       "Name": "You can pet the dog",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1150
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1380,8 +1380,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-07T23:06:10.1188256+00:00",
+  "LastChanged_Achievements": "2023-05-08T00:06:12.2626468+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:58:43.3526242+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:06:10.1188768+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:58:43.0935469+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:06:12.2626868+00:00"
 }

@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1174,
+  "EOS_Progressed": 1175,
   "EOS_Completed": 90,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.67,
+  "EOS_Completed_Percentage": 7.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -733,6 +733,11 @@
       "Time": "2023-05-07T22:07:34.3678338+00:00",
       "NumProgressed": 1174,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-08T00:06:32.7342+00:00",
+      "NumProgressed": 1175,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 12,
@@ -744,7 +749,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Bernard",
@@ -768,7 +773,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Jacques a Dit",
@@ -776,7 +781,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "Jakob",
@@ -839,7 +844,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1174,
+      "Progressed": 1175,
       "Completed": 90
     }
   ],
@@ -847,8 +852,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-07T23:06:30.8760564+00:00",
+  "LastChanged_Achievements": "2023-05-08T00:06:32.7341998+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-07T23:00:38.8388653+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:06:30.8760705+00:00"
+  "LastUpdate_Ratings": "2023-05-08T00:00:42.7606604+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:06:32.7342109+00:00"
 }

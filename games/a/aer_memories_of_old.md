@@ -1,25 +1,25 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 598)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~6,690 |
-| Mama? | 28.00% | ~2,465 |
-| People's Haven | 19.00% | ~1,672 |
-| Cartographer | 18.00% | ~1,584 |
-| Knowledge for Power | 15.00% | ~1,320 |
-| Antlers of Stone | 15.00% | ~1,320 |
-| Gaze into the abyss | 14.00% | ~1,232 |
-| Mausoleum of Ice | 14.00% | ~1,232 |
-| Equilibrium | 13.00% | ~1,144 |
-| In the belly of the beast | 12.00% | ~1,056 |
-| Wings of Stone | 12.00% | ~1,056 |
-| Condor condo | 11.00% | ~968 |
-| Memorial | 9.00% | ~792 |
-| An uninvited guest | 8.00% | ~704 |
+| Light at the end of the tunnel | 76.00% | ~6,693 |
+| Mama? | 28.00% | ~2,466 |
+| People's Haven | 19.00% | ~1,673 |
+| Cartographer | 18.00% | ~1,585 |
+| Antlers of Stone | 16.00% | ~1,409 |
+| Knowledge for Power | 15.00% | ~1,321 |
+| Gaze into the abyss | 14.00% | ~1,233 |
+| Mausoleum of Ice | 14.00% | ~1,233 |
+| Equilibrium | 13.00% | ~1,145 |
+| In the belly of the beast | 12.00% | ~1,057 |
+| Wings of Stone | 12.00% | ~1,057 |
+| Condor condo | 11.00% | ~969 |
+| Memorial | 9.00% | ~793 |
+| An uninvited guest | 8.00% | ~705 |
 | Tails of Stone | 7.00% | ~616 |
 | Baa from the past | 7.00% | ~616 |
 | Written in stone | 7.00% | ~616 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 6.00% | ~528 |
 | Hide and Seek | 5.00% | ~440 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,802 (Ranked 107)  
+Progressed: 8,807 (Ranked 107)  
 Completed: 199 (2.26%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,6 +45,7 @@ Completed: 199 (2.26%) (Ranked 55)
 | 2023-05-05 | 8,584 | 196 |
 | 2023-05-06 | 8,688 | 197 |
 | 2023-05-07 | 8,802 | 199 |
+| 2023-05-08 | 8,807 | 199 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

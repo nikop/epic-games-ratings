@@ -6,12 +6,12 @@ Rating: 4.73 (Ranked 156)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 95.00% | ~1,820 |
-| No more cages! | 91.00% | ~1,744 |
+| No more cages! | 92.00% | ~1,763 |
 | Everfrost | 77.00% | ~1,475 |
 | Dark Forest | 76.00% | ~1,456 |
 | Pentakill | 75.00% | ~1,437 |
 | The use of petricite | 72.00% | ~1,380 |
-| You can pet the dog | 59.00% | ~1,130 |
+| You can pet the dog | 60.00% | ~1,150 |
 | Big Helmet Bro | 34.00% | ~651 |
 | Clarion Cove | 34.00% | ~651 |
 | Past trauma | 32.00% | ~613 |

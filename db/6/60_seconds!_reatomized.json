@@ -100,7 +100,7 @@
   "Tags": [],
   "EOS_Progressed": 3960,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -840,9 +840,9 @@
       "ID": "ACH_PRESENT",
       "SetID": "5nj1ea3",
       "Name": "A gift",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1980
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -961,8 +961,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-04-29T09:59:31.6059591+00:00",
-  "LastChanged_Achievements": "2023-05-07T23:06:46.9563736+00:00",
+  "LastChanged_Achievements": "2023-05-08T00:06:49.3940557+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:25.8423594+00:00",
-  "LastUpdate_Ratings": "2023-05-07T23:01:21.7154383+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:06:46.9564332+00:00"
+  "LastUpdate_Ratings": "2023-05-08T00:01:31.624063+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:06:49.3941022+00:00"
 }

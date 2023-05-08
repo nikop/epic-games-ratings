@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 37,
   "Rating": 4.77,
   "RatingHistory": [
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5589,
+  "EOS_Progressed": 5591,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1012,6 +1012,11 @@
       "Time": "2023-05-07T23:06:07.3132338+00:00",
       "NumProgressed": 5589,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-08T00:06:07.3525641+00:00",
+      "NumProgressed": 5591,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1071,7 +1076,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1111,7 +1116,7 @@
       "Name": "Historian",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ICONOCLAST",
@@ -1119,7 +1124,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "IN_A_PINCH",
@@ -1151,7 +1156,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "SNIP_SNIP",
@@ -1190,7 +1195,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5589,
+      "Progressed": 5591,
       "Completed": 20
     }
   ],
@@ -1198,8 +1203,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-07T23:06:07.3132331+00:00",
+  "LastChanged_Achievements": "2023-05-08T00:06:07.3525637+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:59:04.0804746+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:06:07.3132533+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:59:03.979748+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:06:07.3525804+00:00"
 }

@@ -204,9 +204,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31949,
+  "EOS_Progressed": 31951,
   "EOS_Completed": 148,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1444,6 +1444,11 @@
       "Time": "2023-05-07T23:05:57.6085117+00:00",
       "NumProgressed": 31949,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2023-05-08T00:05:45.3452026+00:00",
+      "NumProgressed": 31951,
+      "NumCompleted": 148
     }
   ],
   "TotalAchievements": 44,
@@ -1455,7 +1460,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18211
+      "UsersEstimate": 18212
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1471,7 +1476,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6709
+      "UsersEstimate": 6710
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -1479,7 +1484,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5431
+      "UsersEstimate": 5432
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -1495,7 +1500,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1503,7 +1508,7 @@
       "Name": "Hatching",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1511,7 +1516,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -1535,7 +1540,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -1559,7 +1564,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -1567,7 +1572,7 @@
       "Name": "Heart of Fire",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -1575,7 +1580,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 25879
+      "UsersEstimate": 25880
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1591,7 +1596,7 @@
       "Name": "Hot Potato",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1607,7 +1612,7 @@
       "Name": "Anger Management",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -1647,7 +1652,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 11821
+      "UsersEstimate": 11822
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1679,7 +1684,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 17891
+      "UsersEstimate": 17893
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1695,7 +1700,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 20128
+      "UsersEstimate": 20129
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1703,7 +1708,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8626
+      "UsersEstimate": 8627
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -1719,7 +1724,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19169
+      "UsersEstimate": 19171
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -1727,7 +1732,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 21725
+      "UsersEstimate": 21727
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1735,7 +1740,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -1759,7 +1764,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 14377
+      "UsersEstimate": 14378
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -1775,7 +1780,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1783,7 +1788,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -1791,7 +1796,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 29393
+      "UsersEstimate": 29395
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -1799,14 +1804,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16294
+      "UsersEstimate": 16295
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 31949,
+      "Progressed": 31951,
       "Completed": 148
     }
   ],
@@ -1814,8 +1819,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-07T23:05:57.6085112+00:00",
+  "LastChanged_Achievements": "2023-05-08T00:05:45.3452022+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:38.7776274+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:59:27.5847745+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:05:57.6085557+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:59:29.8566655+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:05:45.3452387+00:00"
 }

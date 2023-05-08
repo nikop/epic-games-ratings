@@ -2,7 +2,7 @@
   "ID": "3dd7b519d7ab4631ae96d3efa8588514",
   "Name": "Halcyon 6 Starbase Commander",
   "ProductSlug": "halcyon-6",
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 385,
@@ -371,6 +371,6 @@
   "FirstSeen": "2022-07-22T20:18:35.8946593+00:00",
   "LastChanged": "2023-03-31T05:57:08.0313989+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.4449391+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:59:09.478098+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:01:56.5420101+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:59:09.4465916+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:02:09.0707636+00:00"
 }

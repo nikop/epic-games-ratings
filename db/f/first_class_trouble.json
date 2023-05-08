@@ -3,8 +3,8 @@
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 500,
-  "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 275,
+  "Ranking_Popularity": 339,
+  "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 266,
@@ -680,11 +680,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 604,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-05-07T23:58:36.2056966+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 606,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 604,
-  "NumberOfAwardsMax": 84,
+  "NumberOfAwards": 606,
+  "NumberOfAwardsMax": 86,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -709,7 +715,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game has Diverse Characters",
@@ -760,8 +766,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-05-07T21:58:45.3081296+00:00",
+  "LastChanged": "2023-05-07T23:58:36.2056965+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.9316858+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:58:36.3623457+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:04:08.5572564+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:58:36.2056973+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:04:09.3887517+00:00"
 }

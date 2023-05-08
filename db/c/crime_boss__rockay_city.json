@@ -2,14 +2,14 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 891,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 37,
-  "Rating": 3.93,
+  "Rating": 3.94,
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -1210,6 +1210,12 @@
       "Rating": 3.93,
       "NumberOfAwards": 1115,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2023-05-08T00:01:06.7196086+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1115,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
@@ -1266,9 +1272,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 59293,
+  "EOS_Progressed": 59294,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 1786,
+  "EOS_NewPlayers": 1779,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2741,6 +2747,11 @@
       "Time": "2023-05-07T23:06:40.0858791+00:00",
       "NumProgressed": 59293,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-08T00:06:42.0602444+00:00",
+      "NumProgressed": 59294,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 37,
@@ -2752,7 +2763,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 29646
+      "UsersEstimate": 29647
     },
     {
       "ID": "ACH_0011",
@@ -2864,7 +2875,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ACH_0101",
@@ -2904,7 +2915,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43284
+      "UsersEstimate": 43285
     },
     {
       "ID": "ACH_0211",
@@ -2944,7 +2955,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ACH_0340",
@@ -3047,16 +3058,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 59293,
+      "Progressed": 59294,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-07T15:01:00.9854446+00:00",
-  "LastChanged_Achievements": "2023-05-07T23:06:40.0858787+00:00",
+  "LastChanged": "2023-05-08T00:01:06.7196085+00:00",
+  "LastChanged_Achievements": "2023-05-08T00:06:42.0602439+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.9893875+00:00",
-  "LastUpdate_Ratings": "2023-05-07T23:00:58.1004106+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:06:40.0859146+00:00"
+  "LastUpdate_Ratings": "2023-05-08T00:01:06.719609+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:06:42.0602732+00:00"
 }

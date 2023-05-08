@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1412,
+  "EOS_Progressed": 1413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1247,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -723,6 +723,11 @@
       "Time": "2023-05-07T23:06:05.4961637+00:00",
       "NumProgressed": 1412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T00:06:03.7097726+00:00",
+      "NumProgressed": 1413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -732,9 +737,9 @@
       "ID": "Achievement_001",
       "SetID": "6b34g18",
       "Name": "Neighborhood Revitalization",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 240
     },
     {
       "ID": "Achievement_002",
@@ -750,7 +755,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "Achievement_004",
@@ -758,7 +763,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "Achievement_006",
@@ -790,7 +795,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "Achievement_010",
@@ -870,7 +875,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "Achievement_020",
@@ -942,7 +947,7 @@
       "Name": "You Clean It Up",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Achievement_029",
@@ -956,9 +961,9 @@
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 721
     },
     {
       "ID": "Achievement_031",
@@ -982,7 +987,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "Achievement_034",
@@ -1070,7 +1075,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "Achievement_046",
@@ -1100,9 +1105,9 @@
       "ID": "Achievement_050",
       "SetID": "6b34g18",
       "Name": "So Anyway I Started Blasting",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_051",
@@ -1110,7 +1115,7 @@
       "Name": "Right This Way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_052",
@@ -1118,7 +1123,7 @@
       "Name": "Nice Try",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_053",
@@ -1261,7 +1266,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1412,
+      "Progressed": 1413,
       "Completed": 0
     }
   ],
@@ -1269,8 +1274,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-07T02:59:08.8006298+00:00",
-  "LastChanged_Achievements": "2023-05-07T23:06:05.4961633+00:00",
+  "LastChanged_Achievements": "2023-05-08T00:06:03.7097723+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-07T22:58:57.1744763+00:00",
-  "LastUpdate_Achievements": "2023-05-07T23:06:05.4962326+00:00"
+  "LastUpdate_Ratings": "2023-05-07T23:58:57.1165305+00:00",
+  "LastUpdate_Achievements": "2023-05-08T00:06:03.7098286+00:00"
 }
