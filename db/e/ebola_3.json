@@ -3,9 +3,9 @@
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-04-27T18:00:42.6973794+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -637,9 +637,9 @@
       "ID": "achBrain",
       "SetID": "72gjli4",
       "Name": "Brain \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achCar",
@@ -853,9 +853,9 @@
       "ID": "achPlotThree",
       "SetID": "72gjli4",
       "Name": "Infected \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achPlotTwo",
@@ -885,9 +885,9 @@
       "ID": "achRankOne",
       "SetID": "72gjli4",
       "Name": "Rank B\u002B \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achRankThree",
@@ -917,9 +917,9 @@
       "ID": "achSecretos",
       "SetID": "72gjli4",
       "Name": "All secrets revealed \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achSeif",
@@ -1006,8 +1006,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:08:17.9798898+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:07:18.4791003+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:02:37.2932333+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:08:17.9799557+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:01:28.2833526+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:07:18.4791486+00:00"
 }

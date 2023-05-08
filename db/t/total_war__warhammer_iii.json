@@ -6,9 +6,9 @@
   "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.69,
   "NumberOfRatings": 882,
   "RatingHistory": [
@@ -2651,24 +2651,30 @@
       "Rating": 4.69,
       "NumberOfAwards": 5353,
       "NumberOfAwardsMax": 1488
+    },
+    {
+      "Time": "2023-05-08T18:01:25.4026994+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 5359,
+      "NumberOfAwardsMax": 1492
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5353,
-  "NumberOfAwardsMax": 1488,
+  "NumberOfAwards": 5359,
+  "NumberOfAwardsMax": 1492,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1488
+      "Count": 1492
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 409
+      "Count": 410
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2716,7 +2722,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 340
+      "Count": 341
     },
     {
       "Text": "This game has a Creative Community",
@@ -2748,8 +2754,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-05-08T17:02:33.3088631+00:00",
+  "LastChanged": "2023-05-08T18:01:25.4026992+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.5292532+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:02:33.3088638+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:06:47.2450952+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:01:25.4027+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:06:11.6373524+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.81,
   "NumberOfRatings": 1845,
   "RatingHistory": [
@@ -2152,10 +2152,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3016,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-05-08T18:01:14.9978675+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3017,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3016,
+  "NumberOfAwards": 3017,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2175,7 +2181,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 369
+      "Count": 370
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2220,9 +2226,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14715,
+  "EOS_Progressed": 14717,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3100,6 +3106,11 @@
       "Time": "2023-05-08T17:08:11.7970343+00:00",
       "NumProgressed": 14715,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-08T18:07:13.5464411+00:00",
+      "NumProgressed": 14717,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3229,9 +3240,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 88
     },
     {
       "ID": "WinNearBarren",
@@ -3501,24 +3512,24 @@
       "ID": "Year1Dangerous",
       "SetID": "cfbk359",
       "Name": "Into the Forest",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14715,
+      "Progressed": 14717,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-05-07T10:02:06.6238058+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:08:11.7970338+00:00",
+  "LastChanged": "2023-05-08T18:01:14.9978672+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:07:13.5464397+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:02:18.6162163+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:08:11.7971142+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:01:14.9978682+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:07:13.5464821+00:00"
 }

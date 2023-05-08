@@ -20,9 +20,9 @@ Rating: 4.44 (Ranked 621)
 | The Kraken Sleeps | 19.00% | ~131 |
 | Liberté | 17.00% | ~117 |
 | Explosive Efficiency | 16.00% | ~111 |
+| Gunslinger | 15.00% | ~104 |
 | Climbing the Ladder | 14.00% | ~97 |
 | Fields of Glory | 14.00% | ~97 |
-| Gunslinger | 14.00% | ~97 |
 | Skirmisher | 14.00% | ~97 |
 | Close Quarters | 14.00% | ~97 |
 | Just a Flesh Wound | 13.00% | ~90 |
@@ -75,7 +75,7 @@ Rating: 4.44 (Ranked 621)
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 691 (Ranked 176)  
-Completed: 2 (0.29%) (Ranked 121)  
+Completed: 2 (0.29%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

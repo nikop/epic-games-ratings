@@ -3,9 +3,9 @@
   "Name": "Urban Trial Freestyle",
   "ProductSlug": "urban-trial-freestyle-b30b3e",
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:09.9728545+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.9728543+00:00",
   "LastChanged": "2023-03-31T05:57:09.9728544+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:08.5991673+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:02:21.2689889+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:06:39.3541589+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:01:16.7910026+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:06:06.1958035+00:00"
 }

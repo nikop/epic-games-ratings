@@ -6,9 +6,9 @@
   "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.28,
   "RatingHistory": [
     {
@@ -166,9 +166,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 19681,
+  "EOS_Progressed": 19689,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1726,6 +1726,11 @@
       "Time": "2023-05-08T17:08:05.5340758+00:00",
       "NumProgressed": 19681,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-08T18:07:08.9343054+00:00",
+      "NumProgressed": 19689,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 29,
@@ -1737,7 +1742,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -1745,7 +1750,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3739
+      "UsersEstimate": 3741
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -1761,7 +1766,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -1785,7 +1790,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -1881,7 +1886,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -1905,7 +1910,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -1968,7 +1973,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 19681,
+      "Progressed": 19689,
       "Completed": 14
     }
   ],
@@ -1976,8 +1981,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:08:05.5340753+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:07:08.934305+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.2822478+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:02:17.1104118+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:08:05.5341252+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:01:13.9938635+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:07:08.9343371+00:00"
 }

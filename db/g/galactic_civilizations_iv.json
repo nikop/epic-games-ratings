@@ -6,9 +6,9 @@
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.18,
   "NumberOfRatings": 429,
   "RatingHistory": [
@@ -2151,9 +2151,9 @@
       "ID": "Win_As_Navigators",
       "SetID": "4h07amh",
       "Name": "Win as the Navigators",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "Win_As_Onyx",
@@ -2295,8 +2295,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:03:24.5422262+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:02:01.5121175+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.1856232+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:58:53.5195268+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:03:24.5423694+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:58:55.6841339+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:02:01.5122021+00:00"
 }

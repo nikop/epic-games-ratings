@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:58.2772276+00:00",
@@ -89,9 +89,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "BugHunter",
@@ -257,9 +257,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Roughneck",
@@ -386,8 +386,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:08:01.8523497+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:07:06.259933+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:42.6742178+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:01:45.4482347+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:08:01.8524042+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:00:53.4783805+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:07:06.2599644+00:00"
 }

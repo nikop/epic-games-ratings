@@ -5,10 +5,10 @@
   "Ranking_Rating": 178,
   "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 242,
-  "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Progress": 111,
+  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.71,
   "NumberOfRatings": 546,
   "RatingHistory": [
@@ -728,9 +728,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7174,
+  "EOS_Progressed": 7175,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -848,6 +848,11 @@
       "Time": "2023-05-08T05:06:26.3258857+00:00",
       "NumProgressed": 7174,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-08T18:06:34.442485+00:00",
+      "NumProgressed": 7175,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -867,7 +872,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ColdBlood",
@@ -891,7 +896,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "DwarfChandelier",
@@ -995,7 +1000,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "SkeletonKing",
@@ -1003,7 +1008,7 @@
       "Name": "The Skeleton King",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "StockManagement",
@@ -1011,7 +1016,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "TheLegendBegins",
@@ -1019,7 +1024,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1043,22 +1048,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7174,
+      "Progressed": 7175,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-07T15:00:04.0705533+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:07:20.4215057+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:06:34.4424841+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:07.9873627+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:00:58.4508754+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:07:20.4215354+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:00:21.5702213+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:06:34.4425015+00:00"
 }

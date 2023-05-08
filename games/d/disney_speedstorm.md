@@ -8,8 +8,8 @@
 | EXTRA BOOST | 40.00% | ~952 |
 | IT MAKES BOOM! | 39.00% | ~928 |
 | PRO | 30.00% | ~714 |
+| PROTECTED | 28.00% | ~666 |
 | A TIGER'S FEAR | 28.00% | ~666 |
-| PROTECTED | 27.00% | ~642 |
 | HERE ARE SOME BARE NECESSITIES | 27.00% | ~642 |
 | AGGRESSIVE RACER | 27.00% | ~642 |
 | ACE SPEEDSTER | 18.00% | ~428 |
@@ -24,13 +24,13 @@
 | ACE TRICKSTER | 3.00% | ~71 |
 | EXPERIENCED CREW | 2.00% | ~48 |
 | FRIENDLY | 2.00% | ~48 |
+| MASTER | 2.00% | ~48 |
 | BE OUR GUEST | 1.00% | ~24 |
-| MASTER | 1.00% | ~24 |
 | FRAMED! | 0.60% | ~14 |
 | PERFECTLY POISED | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,379 (Ranked 137)  
-Completed: 0 (0.00%) (Ranked 193)  
+Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

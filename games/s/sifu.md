@@ -58,7 +58,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 702,721 (Ranked 15)  
-Completed: 12,716 (1.81%) (Ranked 59)  
+Completed: 12,716 (1.81%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

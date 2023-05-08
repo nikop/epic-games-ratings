@@ -6,7 +6,7 @@
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
-  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 14,
   "Rating": 4.77,
@@ -1984,10 +1984,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 33858,
       "NumberOfAwardsMax": 18546
+    },
+    {
+      "Time": "2023-05-08T17:58:54.3374507+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33862,
+      "NumberOfAwardsMax": 18546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33858,
+  "NumberOfAwards": 33862,
   "NumberOfAwardsMax": 18546,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2061,12 +2067,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 455
+      "Count": 459
     }
   ],
-  "EOS_Progressed": 266231,
+  "EOS_Progressed": 266238,
   "EOS_Completed": 353,
-  "EOS_NewPlayers": 1199,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3579,6 +3585,11 @@
       "Time": "2023-05-08T17:03:24.3828111+00:00",
       "NumProgressed": 266231,
       "NumCompleted": 353
+    },
+    {
+      "Time": "2023-05-08T18:02:01.3598473+00:00",
+      "NumProgressed": 266238,
+      "NumCompleted": 353
     }
   ],
   "TotalAchievements": 45,
@@ -3638,7 +3649,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_16",
@@ -3654,7 +3665,7 @@
       "Name": "Beast Friends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_18",
@@ -3662,7 +3673,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_19",
@@ -3670,7 +3681,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_2",
@@ -3710,7 +3721,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_24",
@@ -3774,7 +3785,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_31",
@@ -3814,7 +3825,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_36",
@@ -3894,7 +3905,7 @@
       "Name": "The Spell Master",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_45",
@@ -3918,7 +3929,7 @@
       "Name": "First Class Student",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_7",
@@ -3926,7 +3937,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "PFA_8",
@@ -3949,16 +3960,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266231,
+      "Progressed": 266238,
       "Completed": 353
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-08T15:58:51.5912809+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:03:24.3828105+00:00",
+  "LastChanged": "2023-05-08T17:58:54.3374505+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:02:01.3598469+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:58:51.3963098+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:03:24.3828973+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:58:54.3374518+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:02:01.3598956+00:00"
 }

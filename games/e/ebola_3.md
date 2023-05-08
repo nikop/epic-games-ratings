@@ -17,25 +17,26 @@
 | Hospital ✔ | 6.00% | ~9 |
 | Antivirus ✔ | 5.00% | ~8 |
 | Betty ✔ | 5.00% | ~8 |
+| Brain ✔ | 5.00% | ~8 |
 | Cheats ✔ | 5.00% | ~8 |
 | City ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
 | Fraternal help ✔ | 5.00% | ~8 |
+| Infected ✔ | 5.00% | ~8 |
 | King of survival ✔ | 5.00% | ~8 |
+| All secrets revealed ✔ | 5.00% | ~8 |
 | Thirst ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~6 |
 | Alice ✔ | 4.00% | ~6 |
-| Brain ✔ | 4.00% | ~6 |
 | Food ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
-| Infected ✔ | 4.00% | ~6 |
-| All secrets revealed ✔ | 4.00% | ~6 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
 | Mutant fight ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |
 | Priest ✔ | 3.00% | ~5 |
+| Rank B+ ✔ | 3.00% | ~5 |
 | Rank A ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |
 | Boss 3 ✔ | 3.00% | ~5 |
@@ -44,7 +45,6 @@
 | Boss 2 ✔ | 2.00% | ~3 |
 | Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
-| Rank B+ ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 1.00% | ~2 |
 | Crocodile Escape ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 234)  
-Completed: 0 (0.00%) (Ranked 193)  
+Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

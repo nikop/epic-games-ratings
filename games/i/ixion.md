@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 477)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Without Breaking Some Eggs... | 0.50% | ~9 |
+| Without Breaking Some Eggs... | 0.60% | ~11 |
 | The Ship of Theseus | 0.50% | ~9 |
 | Wakey Wakey | 0.40% | ~7 |
 | A Thousand Strong | 0.40% | ~7 |
@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 477)
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,844 (Ranked 146)  
-Completed: 0 (0.00%) (Ranked 193)  
+Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -24,9 +24,9 @@ Number of Ratings: 62  (23.09.2022)
 | Big Sister | 15.00% | ~631 |
 | Gear Up | 15.00% | ~631 |
 | SENTINEL | 15.00% | ~631 |
+| Core Power | 13.00% | ~547 |
 | The Black Cerberus | 12.00% | ~505 |
 | Watchman | 12.00% | ~505 |
-| Core Power | 12.00% | ~505 |
 | CREO Killed the Video Star | 11.00% | ~463 |
 | Who's in Charge Here? | 11.00% | ~463 |
 | Shall Not Pass | 11.00% | ~463 |
@@ -75,7 +75,7 @@ Number of Ratings: 62  (23.09.2022)
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,207 (Ranked 126)  
-Completed: 13 (0.31%) (Ranked 118)  
+Completed: 13 (0.31%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

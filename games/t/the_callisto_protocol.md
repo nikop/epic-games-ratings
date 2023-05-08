@@ -14,9 +14,9 @@ Rating: 4.18 (Ranked 823)
 | Float Like A Butterfly | 3.00% | ~376 |
 | The Outer Way | 3.00% | ~376 |
 | Desperate Times | 3.00% | ~376 |
-| Glutton for Punishment | 2.00% | ~9 |
+| Glutton for Punishment | 2.00% | ~10 |
 | I Do Belong Here | 2.00% | ~251 |
-| Parole Denied | 2.00% | ~9 |
+| Parole Denied | 2.00% | ~10 |
 | In Striking Distance | 2.00% | ~251 |
 | Chew 'Em Up | 2.00% | ~251 |
 | Terminated | 2.00% | ~251 |
@@ -39,8 +39,8 @@ Rating: 4.18 (Ranked 823)
 | It's over, Jacob! | 0.10% | ~13 |
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,547 (Ranked 100)  
-Completed: 47 (0.37%) (Ranked 106)  
+Progressed: 12,549 (Ranked 100)  
+Completed: 47 (0.37%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,7 +57,7 @@ Completed: 47 (0.37%) (Ranked 106)
 | 2023-05-05 | 12,539 | 47 |
 | 2023-05-06 | 12,540 | 47 |
 | 2023-05-07 | 12,543 | 47 |
-| 2023-05-08 | 12,547 | 47 |
+| 2023-05-08 | 12,549 | 47 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 395)  
 Sum: 245 (Ranked 341)  

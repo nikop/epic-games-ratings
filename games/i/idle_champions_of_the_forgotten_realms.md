@@ -57,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.20% | ~106 |
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
+| Xanathaaaaaaar! | 0.20% | ~106 |
 | Homecoming | 0.20% | ~174 |
 | The Lost Heir of Omu | 0.20% | ~174 |
 | No One Can Hear You Scream | 0.20% | ~106 |
@@ -191,7 +192,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Destroyer | 0.10% | ~53 |
 | Who Lurks Below? | 0.10% | ~53 |
 | Clowning Around | 0.10% | ~53 |
-| Xanathaaaaaaar! | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
 | Anti-Dexterous Explorers | 0.10% | ~87 |
 | Struggling Toward Omu | 0.10% | ~87 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,882 (Ranked 59)  
-Completed: 1,814 (2.09%) (Ranked 57)  
+Progressed: 86,887 (Ranked 59)  
+Completed: 1,814 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -514,7 +514,7 @@ Completed: 1,814 (2.09%) (Ranked 57)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,882 | 1,814 |
+| 2023-05-08 | 86,887 | 1,814 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,831 (Ranked 37)  

@@ -3,9 +3,9 @@
   "Name": "Alien Marauder",
   "ProductSlug": "alien-marauder-1f1ddf",
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:52.6958775+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.6958773+00:00",
   "LastChanged": "2023-03-31T05:57:52.6958774+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:24.9455016+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:01:21.7298472+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:05:59.2011904+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:00:37.137758+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:05:38.0444877+00:00"
 }

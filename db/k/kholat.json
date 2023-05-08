@@ -3,9 +3,9 @@
   "Name": "Kholat",
   "ProductSlug": "kholat-3f394b",
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:29.5789891+00:00",
@@ -39,8 +39,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.5789887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:35.3022208+00:00",
   "LastChanged": "2023-03-31T05:58:29.5789888+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:08:01.5679759+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:07:06.0210043+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:02.9385077+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:02:13.3964452+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:08:01.5679796+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:01:11.6751625+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:07:06.0210076+00:00"
 }

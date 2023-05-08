@@ -6,9 +6,9 @@
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3584,9 +3584,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86882,
+  "EOS_Progressed": 86887,
   "EOS_Completed": 1814,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5109,6 +5109,11 @@
       "Time": "2023-05-08T17:08:20.5652299+00:00",
       "NumProgressed": 86882,
       "NumCompleted": 1814
+    },
+    {
+      "Time": "2023-05-08T18:07:20.8914829+00:00",
+      "NumProgressed": 86887,
+      "NumCompleted": 1814
     }
   ],
   "TotalAchievements": 489,
@@ -6038,9 +6043,9 @@
       "ID": "objective_completed_1218",
       "SetID": "415jc5c",
       "Name": "Xanathaaaaaaar!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_1219",
@@ -9031,21 +9036,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53156,
+      "Progressed": 53161,
       "Completed": 2481
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86882,
+      "Progressed": 86887,
       "Completed": 1814
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-08T05:59:18.0601163+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:08:20.5652294+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:07:20.8914825+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:59:48.135058+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:08:20.5677228+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:59:34.3824726+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:07:20.8938517+00:00"
 }

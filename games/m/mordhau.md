@@ -5,47 +5,47 @@ Rating: 4.42 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~645,918 |
-| The ABCs | 43.00% | ~566,826 |
-| Home Run | 42.00% | ~553,644 |
-| Keeps Coming Off | 40.00% | ~527,280 |
-| Guts | 20.00% | ~263,640 |
-| Meat Grinder | 20.00% | ~263,640 |
-| Burning Man | 16.00% | ~210,912 |
-| Lived to Tell the Tale | 12.00% | ~158,184 |
-| Highlander | 10.00% | ~131,820 |
-| Unstoppable | 10.00% | ~131,820 |
-| Just a Scratch | 9.00% | ~118,638 |
-| Tough Nut to Crack | 5.00% | ~65,910 |
-| Yoink | 5.00% | ~65,910 |
-| Long List of Names | 3.00% | ~39,546 |
-| Pyromaniac | 3.00% | ~39,546 |
-| The Queen of Weapons | 3.00% | ~39,546 |
-| This isn’t Sparta | 2.00% | ~26,364 |
-| Poacher | 2.00% | ~26,364 |
-| You’re Welcome | 2.00% | ~26,364 |
-| Crybaby | 1.00% | ~13,182 |
-| Eagle Eye | 1.00% | ~13,182 |
-| I Know Kung Fu | 1.00% | ~13,182 |
-| Put That Away | 1.00% | ~13,182 |
-| Coming Through | 0.70% | ~9,227 |
-| Training Accident | 0.60% | ~7,909 |
-| Chambermaid | 0.50% | ~6,591 |
-| Virtuoso | 0.50% | ~6,591 |
-| Boxer | 0.40% | ~5,273 |
-| Rock’n’Roll | 0.40% | ~5,273 |
-| Whack-A-Mole | 0.30% | ~3,955 |
-| Flyswatter | 0.20% | ~2,636 |
-| Friend Indeed | 0.20% | ~2,636 |
-| Vlad the Impaler | 0.20% | ~2,636 |
-| Clobbered | 0.10% | ~1,318 |
-| Ended Rightly | 0.10% | ~1,318 |
-| Living Sculpture | 0.10% | ~1,318 |
-| That’s No Ordinary Cold | 0.10% | ~1,318 |
-| Stairway to Hell | 0.10% | ~1,318 |
+| Justice from the Grave | 49.00% | ~646,068 |
+| The ABCs | 43.00% | ~566,958 |
+| Home Run | 42.00% | ~553,773 |
+| Keeps Coming Off | 40.00% | ~527,402 |
+| Guts | 20.00% | ~263,701 |
+| Meat Grinder | 20.00% | ~263,701 |
+| Burning Man | 16.00% | ~210,961 |
+| Lived to Tell the Tale | 12.00% | ~158,221 |
+| Highlander | 10.00% | ~131,851 |
+| Unstoppable | 10.00% | ~131,851 |
+| Just a Scratch | 9.00% | ~118,666 |
+| Tough Nut to Crack | 5.00% | ~65,925 |
+| Yoink | 5.00% | ~65,925 |
+| Long List of Names | 3.00% | ~39,555 |
+| Pyromaniac | 3.00% | ~39,555 |
+| The Queen of Weapons | 3.00% | ~39,555 |
+| This isn’t Sparta | 2.00% | ~26,370 |
+| Poacher | 2.00% | ~26,370 |
+| You’re Welcome | 2.00% | ~26,370 |
+| Crybaby | 1.00% | ~13,185 |
+| Eagle Eye | 1.00% | ~13,185 |
+| I Know Kung Fu | 1.00% | ~13,185 |
+| Put That Away | 1.00% | ~13,185 |
+| Coming Through | 0.70% | ~9,230 |
+| Training Accident | 0.60% | ~7,911 |
+| Chambermaid | 0.50% | ~6,593 |
+| Virtuoso | 0.50% | ~6,593 |
+| Boxer | 0.40% | ~5,274 |
+| Rock’n’Roll | 0.40% | ~5,274 |
+| Whack-A-Mole | 0.30% | ~3,956 |
+| Flyswatter | 0.20% | ~2,637 |
+| Friend Indeed | 0.20% | ~2,637 |
+| Vlad the Impaler | 0.20% | ~2,637 |
+| Clobbered | 0.10% | ~1,319 |
+| Ended Rightly | 0.10% | ~1,319 |
+| Living Sculpture | 0.10% | ~1,319 |
+| That’s No Ordinary Cold | 0.10% | ~1,319 |
+| Stairway to Hell | 0.10% | ~1,319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,318,201 (Ranked 7)  
-Completed: 7 (0.00%) (Ranked 193)  
+Progressed: 1,318,506 (Ranked 7)  
+Completed: 7 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,17 +62,17 @@ Completed: 7 (0.00%) (Ranked 193)
 | 2023-05-05 | 1,301,477 | 6 |
 | 2023-05-06 | 1,308,010 | 6 |
 | 2023-05-07 | 1,314,917 | 7 |
-| 2023-05-08 | 1,318,201 | 7 |
+| 2023-05-08 | 1,318,506 | 7 |
 ## Awards
-Max (Highly Recommended): 71  (Ranked 360)  
-Sum: 388 (Ranked 304)  
-Diff (max vs sum): 56  
+Max (Highly Recommended): 77  (Ranked 348)  
+Sum: 401 (Ranked 300)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 71 |
-| This game has Challenging Combat | 67 |
+| This game is Highly Recommended | 77 |
+| This game has Challenging Combat | 70 |
+| This game has Amazing Characters | 67 |
 | This game has Diverse Characters | 66 |
-| This game has Amazing Characters | 63 |
 | This game has Competitive Players | 63 |
 | This game is Extremely Fun | 58 |
 | This game has Amazing Storytelling | 41 |
@@ -103,4 +103,4 @@ Diff (max vs sum): 56
 | 2023-05-05 | 4.41 | 66 | 330 |
 | 2023-05-06 | 4.41 | 69 | 353 |
 | 2023-05-07 | 4.42 | 71 | 382 |
-| 2023-05-08 | 4.42 | 71 | 388 |
+| 2023-05-08 | 4.42 | 77 | 401 |

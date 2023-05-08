@@ -6,9 +6,9 @@
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.47,
   "NumberOfRatings": 62,
   "RatingHistory": [
@@ -568,9 +568,9 @@
       "ID": "ID_ACHIEV_24",
       "SetID": "98bke8c",
       "Name": "Core Power",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 547
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -928,8 +928,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-03T22:58:05.0028973+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:07:29.6448303+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:06:41.3777652+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.2959444+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:59:39.9454545+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:07:29.6449046+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:59:29.0447908+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:06:41.3778324+00:00"
 }

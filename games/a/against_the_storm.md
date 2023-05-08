@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 0.70% | ~103 |
 | Fertile Meadows | 0.70% | ~103 |
 | The Scarlet Orchard | 0.70% | ~103 |
+| Bandit Camp | 0.60% | ~88 |
 | Barren Lands | 0.60% | ~88 |
 | Lost Colonies | 0.60% | ~88 |
 | Taking Action | 0.60% | ~88 |
 | Like a Machine | 0.60% | ~88 |
 | Trade Baron | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
-| Bandit Camp | 0.50% | ~74 |
 | Ancient Battleground | 0.50% | ~74 |
 | Cursed Lands | 0.50% | ~74 |
 | Sparkdew Crystals | 0.40% | ~59 |
@@ -33,6 +33,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.40% | ~59 |
 | Watchtower | 0.40% | ~59 |
 | A Real Challenge | 0.40% | ~59 |
+| Into the Forest | 0.40% | ~59 |
 | Serving Ale | 0.30% | ~44 |
 | Refinery | 0.30% | ~44 |
 | Against All Odds | 0.30% | ~44 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 0.30% | ~44 |
 | Forsaken Gods Temple | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
-| Into the Forest | 0.30% | ~44 |
 | Efficient Explorer | 0.20% | ~29 |
 | Ruined Armory | 0.20% | ~29 |
 | Prestigious Expedition | 0.20% | ~29 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,715 (Ranked 97)  
-Completed: 30 (0.20%) (Ranked 132)  
+Progressed: 14,717 (Ranked 97)  
+Completed: 30 (0.20%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,10 +75,10 @@ Completed: 30 (0.20%) (Ranked 132)
 | 2023-05-05 | 14,657 | 30 |
 | 2023-05-06 | 14,678 | 30 |
 | 2023-05-07 | 14,702 | 30 |
-| 2023-05-08 | 14,715 | 30 |
+| 2023-05-08 | 14,717 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
-Sum: 3,016 (Ranked 149)  
+Sum: 3,017 (Ranked 149)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -86,7 +86,7 @@ Diff (max vs sum): 43
 | This game is Relaxing | 410 |
 | This game is Extremely Fun | 389 |
 | This game is Great for Beginners | 372 |
-| This game is Highly Recommended | 369 |
+| This game is Highly Recommended | 370 |
 | This game has Unique Visuals | 300 |
 | This game has Amazing Storytelling | 297 |
 | This game has Amazing Characters | 268 |
@@ -207,3 +207,4 @@ Diff (max vs sum): 43
 | 2023-05-05 | 4.81 | - | 417 | 3,014 |
 | 2023-05-06 | 4.81 | - | 417 | 3,015 |
 | 2023-05-07 | 4.81 | - | 417 | 3,016 |
+| 2023-05-08 | 4.81 | - | 417 | 3,017 |

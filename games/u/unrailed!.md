@@ -6,22 +6,22 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 13.00% | ~76,338 |
-| Incurious | 13.00% | ~76,338 |
-| Stroller | 12.00% | ~70,466 |
-| Climate Change | 12.00% | ~70,466 |
-| Toy Train | 10.00% | ~58,722 |
-| Hiker | 9.00% | ~52,850 |
-| Advanced Hiker | 9.00% | ~52,850 |
+| Advanced Stroller | 13.00% | ~76,341 |
+| Incurious | 13.00% | ~76,341 |
+| Stroller | 12.00% | ~70,468 |
+| Climate Change | 12.00% | ~70,468 |
+| Toy Train | 10.00% | ~58,724 |
+| Hiker | 9.00% | ~52,851 |
+| Advanced Hiker | 9.00% | ~52,851 |
 | Mojave Courier | 4.00% | ~23,489 |
-| Voyager | 2.00% | ~11,744 |
-| Advanced Voyager | 2.00% | ~11,744 |
-| Expert Stroller | 2.00% | ~11,744 |
-| Expert Hiker | 2.00% | ~11,744 |
-| Orient Express | 2.00% | ~11,744 |
-| Marathon | 2.00% | ~11,744 |
-| Destructionist | 2.00% | ~11,744 |
-| Saved by Nausicaä | 2.00% | ~11,744 |
+| Voyager | 2.00% | ~11,745 |
+| Advanced Voyager | 2.00% | ~11,745 |
+| Expert Stroller | 2.00% | ~11,745 |
+| Expert Hiker | 2.00% | ~11,745 |
+| Orient Express | 2.00% | ~11,745 |
+| Marathon | 2.00% | ~11,745 |
+| Destructionist | 2.00% | ~11,745 |
+| Saved by Nausicaä | 2.00% | ~11,745 |
 | Lost | 1.00% | ~5,872 |
 | Rocketman | 0.50% | ~2,936 |
 | Shopaholic | 0.50% | ~2,936 |
@@ -59,8 +59,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~587 |
 | 20 Miles under the Sea | 0.10% | ~587 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587,217 (Ranked 21)  
-Completed: 6 (0.00%) (Ranked 193)  
+Progressed: 587,235 (Ranked 21)  
+Completed: 6 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 6 (0.00%) (Ranked 193)
 | 2023-05-05 | 585,767 | 6 |
 | 2023-05-06 | 586,367 | 6 |
 | 2023-05-07 | 586,986 | 6 |
-| 2023-05-08 | 587,217 | 6 |
+| 2023-05-08 | 587,235 | 6 |
 ## Awards
 Max (Diverse Characters): 184  (Ranked 263)  
 Sum: 1,500 (Ranked 207)  

@@ -15,9 +15,9 @@
 | Tragic Brave | 51.00% | ~256 |
 | Awakened Spirits | 46.00% | ~230 |
 | Little Shop | 45.00% | ~225 |
-| Surprise! | 40.00% | ~200 |
+| Surprise! | 41.00% | ~205 |
 | An Actor! | 40.00% | ~200 |
-| Curtain Call | 38.00% | ~190 |
+| Curtain Call | 39.00% | ~195 |
 | Well Rested | 37.00% | ~185 |
 | Piece of Cake | 36.00% | ~180 |
 | Glimmer of Hope | 36.00% | ~180 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 7.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 501 (Ranked 189)  
-Completed: 30 (5.99%) (Ranked 23)  
+Completed: 30 (5.99%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

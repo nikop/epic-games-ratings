@@ -30,7 +30,7 @@
 | Mr. Hygeni | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 229)  
-Completed: 5 (3.16%) (Ranked 40)  
+Completed: 5 (3.16%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -11,6 +11,7 @@ Rating: 4.17 (Ranked 829)
 | The Show Mud Go On | 0.30% | ~182 |
 | Rock and a Hard Place | 0.30% | ~182 |
 | Shock Til They Drop | 0.30% | ~182 |
+| To the Victor Go the Spoils | 0.30% | ~182 |
 | Quartzer Life Crisis | 0.30% | ~182 |
 | Snow Problem | 0.30% | ~182 |
 | Cooldown | 0.30% | ~182 |
@@ -18,7 +19,9 @@ Rating: 4.17 (Ranked 829)
 | Get ReQ'd | 0.30% | ~182 |
 | Working Hard or Harley Working? | 0.30% | ~182 |
 | Universal Health Scare | 0.30% | ~182 |
+| First Step Into the Knight | 0.30% | ~182 |
 | Unstoppable Force | 0.30% | ~182 |
+| Loose Ends | 0.30% | ~182 |
 | Whispered Words | 0.30% | ~182 |
 | Lock and Key | 0.30% | ~182 |
 | Bad Apples in Every Orchard | 0.30% | ~182 |
@@ -32,10 +35,7 @@ Rating: 4.17 (Ranked 829)
 | Bulldozed | 0.20% | ~121 |
 | Out of Their League | 0.20% | ~121 |
 | Drone You Out | 0.20% | ~121 |
-| To the Victor Go the Spoils | 0.20% | ~121 |
-| First Step Into the Knight | 0.20% | ~121 |
 | Knighthood | 0.20% | ~121 |
-| Loose Ends | 0.20% | ~121 |
 | Gotham City Confidential | 0.20% | ~121 |
 | Hammer and Icicle | 0.10% | ~31 |
 | Element of Surprise | 0.10% | ~31 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 829)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,731 (Ranked 66)  
-Completed: 89 (0.15%) (Ranked 141)  
+Progressed: 60,733 (Ranked 66)  
+Completed: 89 (0.15%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 89 (0.15%) (Ranked 141)
 | 2023-05-05 | 60,646 | 89 |
 | 2023-05-06 | 60,674 | 89 |
 | 2023-05-07 | 60,715 | 89 |
-| 2023-05-08 | 60,731 | 89 |
+| 2023-05-08 | 60,733 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,196  (Ranked 99)  
 Sum: 3,635 (Ranked 138)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 94,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.73,
   "NumberOfRatings": 38,
   "RatingHistory": [
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1109,
+  "EOS_Progressed": 1110,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -245,6 +245,11 @@
       "Time": "2023-05-07T15:06:42.5303498+00:00",
       "NumProgressed": 1109,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-08T18:07:04.1860172+00:00",
+      "NumProgressed": 1110,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -320,7 +325,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "18",
@@ -328,7 +333,7 @@
       "Name": "Like new!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "19",
@@ -368,7 +373,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "23",
@@ -416,7 +421,7 @@
       "Name": "Hug therapy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "30",
@@ -462,9 +467,9 @@
       "ID": "6",
       "SetID": "n50no0",
       "Name": "Life\u2019s short, ride long",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 522
     },
     {
       "ID": "7",
@@ -495,15 +500,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1109,
+      "Progressed": 1110,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:07:59.1191331+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:07:04.1860167+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:42.3936713+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:01:44.8948196+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:07:59.1191576+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:00:53.0109189+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:07:04.1860422+00:00"
 }

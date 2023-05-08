@@ -37,7 +37,7 @@
 | What Even Are You? | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43 (Ranked 278)  
-Completed: 1 (2.33%) (Ranked 55)  
+Completed: 1 (2.33%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

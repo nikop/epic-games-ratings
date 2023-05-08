@@ -38,9 +38,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Baratak | 1.00% | ~56 |
 | Win as Festron | 1.00% | ~56 |
 | Win as the Mimot | 1.00% | ~56 |
+| Win as the Navigators | 0.90% | ~50 |
 | Win as Torians | 0.90% | ~50 |
 | Win as the Manti | 0.80% | ~44 |
-| Win as the Navigators | 0.80% | ~44 |
 | Win as Xeloxi | 0.80% | ~44 |
 | Win as the Drath | 0.70% | ~39 |
 | Win as the Drengin | 0.70% | ~39 |
@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,558 (Ranked 118)  
-Completed: 0 (0.00%) (Ranked 193)  
+Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

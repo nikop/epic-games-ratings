@@ -4,11 +4,11 @@
   "ProductSlug": "swords-of-legends-online",
   "Ranking_Rating": 754,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.3,
   "NumberOfRatings": 262,
   "RatingHistory": [
@@ -617,6 +617,6 @@
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
   "LastChanged": "2023-05-02T20:58:37.2430535+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.7427771+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:01:08.2839477+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:05:50.2172028+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:00:27.9731649+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:05:31.7401065+00:00"
 }

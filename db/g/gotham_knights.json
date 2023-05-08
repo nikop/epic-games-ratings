@@ -6,7 +6,7 @@
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 52,
   "Rating": 4.17,
@@ -1010,9 +1010,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60731,
+  "EOS_Progressed": 60733,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2045,6 +2045,11 @@
       "Time": "2023-05-08T17:08:07.605521+00:00",
       "NumProgressed": 60731,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-08T18:07:10.6617416+00:00",
+      "NumProgressed": 60733,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2278,9 +2283,9 @@
       "ID": "FREEZE_1",
       "SetID": "4eo5ebm",
       "Name": "To the Victor Go the Spoils",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "FREEZE_1_5",
@@ -2398,9 +2403,9 @@
       "ID": "HERO_PROGRESSION_1",
       "SetID": "4eo5ebm",
       "Name": "First Step Into the Knight",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -2446,9 +2451,9 @@
       "ID": "MYSTERY_01",
       "SetID": "4eo5ebm",
       "Name": "Loose Ends",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 182
     },
     {
       "ID": "MYSTERY_02",
@@ -2543,22 +2548,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60731,
+      "Progressed": 60733,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31011,
-      "Completed": 2631
+      "Progressed": 31013,
+      "Completed": 2632
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-08T14:03:40.5797352+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:08:07.6055202+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:07:10.6617412+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:02:00.1523826+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:08:07.6055843+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:01:02.2970431+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:07:10.6618056+00:00"
 }

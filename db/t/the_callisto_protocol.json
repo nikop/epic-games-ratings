@@ -6,9 +6,9 @@
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 100,
-  "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.18,
   "RatingHistory": [
     {
@@ -398,9 +398,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12547,
+  "EOS_Progressed": 12549,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -628,6 +628,11 @@
       "Time": "2023-05-08T17:07:36.6660883+00:00",
       "NumProgressed": 12547,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-08T18:06:46.7869846+00:00",
+      "NumProgressed": 12549,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 33,
@@ -687,7 +692,7 @@
       "Name": "Glutton for Punishment",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FINISH_CONTAGION_NO_DEATH",
@@ -735,7 +740,7 @@
       "Name": "Parole Denied",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -902,13 +907,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12547,
+      "Progressed": 12549,
       "Completed": 47
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 473,
+      "Progressed": 475,
       "Completed": 28
     }
   ],
@@ -916,8 +921,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-05T17:02:12.7332747+00:00",
-  "LastChanged_Achievements": "2023-05-08T17:07:36.6660878+00:00",
+  "LastChanged_Achievements": "2023-05-08T18:06:46.7869841+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.956904+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:59:32.0066168+00:00",
-  "LastUpdate_Achievements": "2023-05-08T17:07:36.666133+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:59:23.7782506+00:00",
+  "LastUpdate_Achievements": "2023-05-08T18:06:46.787013+00:00"
 }
