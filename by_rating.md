@@ -19,7 +19,7 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,997 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 293 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 249 | 237 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,971 | 73 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,975 | 73 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,289 | 34 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 472 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 490 |
@@ -212,7 +212,7 @@
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,255 | 69 |
 | 192 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 38 | 413 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 490 |
-| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,766 | 8 |
+| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,837 | 8 |
 | 213 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 490 |
 | 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 490 |
 | 213 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 490 |

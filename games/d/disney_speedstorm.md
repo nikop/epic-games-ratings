@@ -23,8 +23,8 @@
 | TRAINING HARD | 3.00% | ~71 |
 | ACE TRICKSTER | 3.00% | ~71 |
 | EXPERIENCED CREW | 2.00% | ~47 |
+| FRIENDLY | 2.00% | ~47 |
 | BE OUR GUEST | 1.00% | ~24 |
-| FRIENDLY | 1.00% | ~24 |
 | MASTER | 1.00% | ~24 |
 | FRAMED! | 0.60% | ~14 |
 | PERFECTLY POISED | 0.10% | ~2 |

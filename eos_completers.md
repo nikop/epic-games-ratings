@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 22.22% |
+| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.43% |
 | 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 6 | [Island Cities](games/i/island_cities.md) | 17.46% |
@@ -15,14 +15,14 @@
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.64% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.11% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.47% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 5.75% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.73% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -54,7 +54,7 @@
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
 | 54 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.38% |
-| 55 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
+| 55 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 56 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 57 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 58 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -243,6 +243,7 @@
 | 192 | [EBOLA 2](games/e/ebola_2.md) | 0.00% |
 | 192 | [EBOLA 3](games/e/ebola_3.md) | 0.00% |
 | 192 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 0.00% |
+| 192 | [ELEGIES Aya](games/e/elegies_aya.md) | 0.00% |
 | 192 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
 | 192 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 192 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
@@ -383,4 +384,4 @@
 | 192 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 192 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 192 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,565 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,566 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

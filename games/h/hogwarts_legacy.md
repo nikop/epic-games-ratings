@@ -12,20 +12,20 @@ Rating: 4.77 (Ranked 103)
 | The Hero of Hogwarts | 5.00% | ~13,308 |
 | The Defender of Dragons | 5.00% | ~13,308 |
 | Challenge Accepted | 5.00% | ~13,308 |
+| Loom for Improvement | 5.00% | ~13,308 |
 | Coasting Along | 5.00% | ~13,308 |
 | That's a Keeper | 5.00% | ~13,308 |
 | Rising From the Ashes | 5.00% | ~13,308 |
-| The Avenging Gazelle | 4.00% | ~10,646 |
-| Beast Friends | 4.00% | ~10,646 |
-| A Sallow Grave | 4.00% | ~10,646 |
-| Flight the Good Flight | 4.00% | ~10,646 |
-| A Keen Sense of Spell | 4.00% | ~10,646 |
-| Loom for Improvement | 4.00% | ~10,646 |
-| A Talent for Spending | 4.00% | ~10,646 |
-| Followed the Butterflies | 4.00% | ~10,646 |
-| The Spell Master | 4.00% | ~10,646 |
-| First Class Student | 4.00% | ~10,646 |
-| Troll with the Punches | 4.00% | ~10,646 |
+| The Avenging Gazelle | 4.00% | ~10,647 |
+| Beast Friends | 4.00% | ~10,647 |
+| A Sallow Grave | 4.00% | ~10,647 |
+| Flight the Good Flight | 4.00% | ~10,647 |
+| A Keen Sense of Spell | 4.00% | ~10,647 |
+| A Talent for Spending | 4.00% | ~10,647 |
+| Followed the Butterflies | 4.00% | ~10,647 |
+| The Spell Master | 4.00% | ~10,647 |
+| First Class Student | 4.00% | ~10,647 |
+| Troll with the Punches | 4.00% | ~10,647 |
 | The Seeker of Knowledge | 3.00% | ~7,985 |
 | The Root of the Problem | 3.00% | ~7,985 |
 | Third Time's a Charm | 3.00% | ~7,985 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,065 |
 | Collector's Edition | 0.20% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,154 (Ranked 38)  
+Progressed: 266,166 (Ranked 38)  
 Completed: 352 (0.13%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,10 +69,10 @@ Completed: 352 (0.13%) (Ranked 145)
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
 | 2023-05-07 | 266,124 | 351 |
-| 2023-05-08 | 266,154 | 352 |
+| 2023-05-08 | 266,166 | 352 |
 ## Awards
 Max (Character Customization): 18,488  (Ranked 18)  
-Sum: 33,760 (Ranked 33)  
+Sum: 33,767 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -84,7 +84,7 @@ Diff (max vs sum): -15
 | This game has Diverse Characters | 709 |
 | This game has Amazing Storytelling | 699 |
 | This game has Amazing Characters | 691 |
-| This game is Highly Recommended | 669 |
+| This game is Highly Recommended | 676 |
 | This game has Quickly Understood Controls | 619 |
 | This game has Beautiful Visuals | 596 |
 | This game has a Creative Community | 455 |
@@ -136,3 +136,4 @@ Diff (max vs sum): -15
 | 2023-05-05 | 4.77 | 18,393 | 33,525 |
 | 2023-05-06 | 4.77 | 18,430 | 33,633 |
 | 2023-05-07 | 4.77 | 18,488 | 33,760 |
+| 2023-05-08 | 4.77 | 18,488 | 33,767 |

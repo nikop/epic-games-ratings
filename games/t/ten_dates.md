@@ -17,12 +17,12 @@
 | More than browsing | 8.00% | ~15 |
 | The lad | 8.00% | ~15 |
 | The techie | 8.00% | ~15 |
+| The bad boy | 6.00% | ~12 |
 | Picky! | 5.00% | ~10 |
 | Playing the field | 5.00% | ~10 |
-| The bad boy | 5.00% | ~10 |
 | Go well, lad | 4.00% | ~8 |
+| Muggy Misha | 4.00% | ~8 |
 | Keep the spark alive | 3.00% | ~6 |
-| Muggy Misha | 3.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 192 (Ranked 224)  
 Completed: 2 (1.04%) (Ranked 78)  

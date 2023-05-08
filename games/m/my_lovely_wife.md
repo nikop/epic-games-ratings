@@ -7,7 +7,7 @@ Number of Ratings: 25  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Objective Complete | 97.00% | ~533 |
-| I did it! | 93.00% | ~511 |
+| I did it! | 94.00% | ~516 |
 | Learner | 91.00% | ~500 |
 | Economical | 91.00% | ~500 |
 | Devout | 89.00% | ~489 |

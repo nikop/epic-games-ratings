@@ -56,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~106 |
 | Beast Mode | 0.20% | ~174 |
 | The Forbidden City | 0.20% | ~174 |
+| Captured! | 0.20% | ~174 |
 | Low Initiative | 0.20% | ~174 |
 | Street War | 0.20% | ~174 |
 | Building Trust | 0.20% | ~174 |
@@ -82,6 +83,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~174 |
 | Running of the Saurs | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
+| Elturel Has Fallen | 0.20% | ~174 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
 | The Giant's Bane Tavern | 0.20% | ~106 |
@@ -207,7 +209,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~87 |
 | No Good at All | 0.10% | ~87 |
 | Fall From Grace | 0.10% | ~87 |
-| Captured! | 0.10% | ~87 |
 | Home Field Advantage | 0.10% | ~87 |
 | Double Vision | 0.10% | ~87 |
 | Underground Railroad | 0.10% | ~87 |
@@ -347,7 +348,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~87 |
 | The Nimble Grove | 0.10% | ~87 |
 | The Misty Grove | 0.10% | ~53 |
-| Elturel Has Fallen | 0.10% | ~87 |
 | Everything is Awful | 0.10% | ~87 |
 | Earthquake! | 0.10% | ~53 |
 | Hailstorm! | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,824 (Ranked 59)  
+Progressed: 86,826 (Ranked 59)  
 Completed: 1,812 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,812 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,824 | 1,812 |
+| 2023-05-08 | 86,826 | 1,812 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,830 (Ranked 37)  

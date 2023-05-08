@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 51,
   "Rating": 4.61,
   "RatingHistory": [
@@ -780,9 +780,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158221,
+  "EOS_Progressed": 158222,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1895,6 +1895,11 @@
       "Time": "2023-05-08T02:08:22.9416982+00:00",
       "NumProgressed": 158221,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-08T05:07:11.5742085+00:00",
+      "NumProgressed": 158222,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -1970,7 +1975,7 @@
       "Name": "Broken to Smokin\u0027",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 41137
+      "UsersEstimate": 41138
     },
     {
       "ID": "CUSTOMIZE_dream_theme",
@@ -1994,7 +1999,7 @@
       "Name": "Making It Mine",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 11075
+      "UsersEstimate": 11076
     },
     {
       "ID": "CUSTOMIZE_just_like_old_times",
@@ -2066,7 +2071,7 @@
       "Name": "Ship It",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 11075
+      "UsersEstimate": 11076
     },
     {
       "ID": "DELIVERY_thanks_jeff",
@@ -2074,7 +2079,7 @@
       "Name": "Thanks Jeff",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 39555
+      "UsersEstimate": 39556
     },
     {
       "ID": "DELIVERY_very_imported_pc",
@@ -2090,7 +2095,7 @@
       "Name": "Workaholic",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 41137
+      "UsersEstimate": 41138
     },
     {
       "ID": "JOBS_on_the_job",
@@ -2098,7 +2103,7 @@
       "Name": "On the Job",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 109172
+      "UsersEstimate": 109173
     },
     {
       "ID": "JOBS_pc_og",
@@ -2114,7 +2119,7 @@
       "Name": "Working Hard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 69617
+      "UsersEstimate": 69618
     },
     {
       "ID": "JOBS_workoholic",
@@ -2162,7 +2167,7 @@
       "Name": "MOAR RGB",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 85439
+      "UsersEstimate": 85440
     },
     {
       "ID": "LIGHTING_shine_on",
@@ -2314,7 +2319,7 @@
       "Name": "The Customer is King",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 71199
+      "UsersEstimate": 71200
     },
     {
       "ID": "STICKERS_get_stuck_in",
@@ -2322,7 +2327,7 @@
       "Name": "Get Stuck In",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107590
+      "UsersEstimate": 107591
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -2338,7 +2343,7 @@
       "Name": "Slap Happy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 33226
+      "UsersEstimate": 33227
     },
     {
       "ID": "TOOLS_hot_stuff",
@@ -2346,7 +2351,7 @@
       "Name": "Hot Stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 93350
+      "UsersEstimate": 93351
     },
     {
       "ID": "UNLOCK_room_for_expansion",
@@ -2354,7 +2359,7 @@
       "Name": "Room for Expansion",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107590
+      "UsersEstimate": 107591
     },
     {
       "ID": "WATERCOOL_chill_out",
@@ -2377,7 +2382,7 @@
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158221,
+      "Progressed": 158222,
       "Completed": 102
     }
   ],
@@ -2385,8 +2390,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-07T20:00:56.3954861+00:00",
-  "LastChanged_Achievements": "2023-05-08T04:07:37.028643+00:00",
+  "LastChanged_Achievements": "2023-05-08T05:07:11.5742079+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-08T04:02:01.0589679+00:00",
-  "LastUpdate_Achievements": "2023-05-08T04:07:37.0287026+00:00"
+  "LastUpdate_Ratings": "2023-05-08T05:01:31.5902332+00:00",
+  "LastUpdate_Achievements": "2023-05-08T05:07:11.5742614+00:00"
 }

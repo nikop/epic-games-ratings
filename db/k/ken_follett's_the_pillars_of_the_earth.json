@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 37,
   "Rating": 4.52,
   "NumberOfRatings": 368,
@@ -457,7 +457,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12273,
+  "EOS_Progressed": 12274,
   "EOS_Completed": 93,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 3,
@@ -1377,6 +1377,11 @@
       "Time": "2023-05-08T03:06:25.2431782+00:00",
       "NumProgressed": 12273,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-08T05:06:26.0620847+00:00",
+      "NumProgressed": 12274,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1452,7 +1457,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "tpote_achievement_18",
@@ -1500,7 +1505,7 @@
       "Name": "Two of us",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2578
     },
     {
       "ID": "tpote_achievement_23",
@@ -1548,7 +1553,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "tpote_achievement_29",
@@ -1708,22 +1713,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12273,
+      "Progressed": 12274,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-08T04:06:51.7096004+00:00",
+  "LastChanged_Achievements": "2023-05-08T05:06:26.0620842+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-08T04:02:12.7908862+00:00",
-  "LastUpdate_Achievements": "2023-05-08T04:06:51.7096389+00:00"
+  "LastUpdate_Ratings": "2023-05-08T05:01:42.5187344+00:00",
+  "LastUpdate_Achievements": "2023-05-08T05:06:26.0621217+00:00"
 }
