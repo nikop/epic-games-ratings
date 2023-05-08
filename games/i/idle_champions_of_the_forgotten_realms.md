@@ -25,10 +25,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.30% | ~159 |
 | Get Back In The Castle | 0.30% | ~159 |
 | A Persistent Buzzing | 0.30% | ~261 |
+| Beast Mode | 0.30% | ~261 |
 | Terror in the Dark | 0.30% | ~261 |
 | A Mysterious Summons | 0.30% | ~261 |
 | Unearthed Evil | 0.30% | ~261 |
 | The Crumbling Temple | 0.30% | ~261 |
+| Useless Allies | 0.30% | ~261 |
 | Exploring Port Nyanzaru | 0.30% | ~261 |
 | The Contagious Curse | 0.30% | ~261 |
 | Escort to Waterdeep | 0.30% | ~261 |
@@ -56,7 +58,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~174 |
 | The Lost Heir of Omu | 0.20% | ~174 |
 | No One Can Hear You Scream | 0.20% | ~106 |
-| Beast Mode | 0.20% | ~174 |
 | The Forbidden City | 0.20% | ~174 |
 | Captured! | 0.20% | ~174 |
 | Low Initiative | 0.20% | ~174 |
@@ -74,7 +75,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
 | Nimble Escape | 0.20% | ~174 |
-| Useless Allies | 0.20% | ~174 |
 | Fugitives | 0.20% | ~174 |
 | Premature Betrayal | 0.20% | ~174 |
 | Hopelessly Lost | 0.20% | ~174 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,844 (Ranked 59)  
-Completed: 1,813 (2.09%) (Ranked 56)  
+Progressed: 86,846 (Ranked 59)  
+Completed: 1,814 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -514,7 +514,7 @@ Completed: 1,813 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,844 | 1,813 |
+| 2023-05-08 | 86,846 | 1,814 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,831 (Ranked 37)  

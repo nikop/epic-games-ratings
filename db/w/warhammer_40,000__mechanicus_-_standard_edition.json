@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 636,
-  "Ranking_Popularity": 226,
+  "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 192,
@@ -360,9 +360,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 209007,
+  "EOS_Progressed": 209009,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 943,
+  "EOS_NewPlayers": 939,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1875,6 +1875,11 @@
       "Time": "2023-05-08T10:07:09.007291+00:00",
       "NumProgressed": 209007,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-08T12:08:40.1521421+00:00",
+      "NumProgressed": 209009,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 34,
@@ -1886,7 +1891,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 39711
+      "UsersEstimate": 39712
     },
     {
       "ID": "ACH_BASE_10",
@@ -1966,7 +1971,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12540
+      "UsersEstimate": 12541
     },
     {
       "ID": "ACH_BASE_20",
@@ -2157,7 +2162,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 209007,
+      "Progressed": 209009,
       "Completed": 2
     }
   ],
@@ -2165,8 +2170,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-05-07T19:00:03.0794223+00:00",
-  "LastChanged_Achievements": "2023-05-08T11:08:11.0554794+00:00",
+  "LastChanged_Achievements": "2023-05-08T12:08:40.152141+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:44.3584848+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:00:45.1496237+00:00",
-  "LastUpdate_Achievements": "2023-05-08T11:08:11.0555175+00:00"
+  "LastUpdate_Ratings": "2023-05-08T12:01:08.8061958+00:00",
+  "LastUpdate_Achievements": "2023-05-08T12:08:40.1522108+00:00"
 }

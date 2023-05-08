@@ -5,19 +5,19 @@ Rating: 4.60 (Ranked 376)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,039 |
+| Getting Started | 80.00% | ~6,040 |
 | Pay 'n' Spray | 47.00% | ~3,548 |
 | All Dressed Up for San Fierro | 22.00% | ~1,661 |
-| The American Dream | 17.00% | ~1,283 |
+| The American Dream | 17.00% | ~1,284 |
 | School's Out | 16.00% | ~1,208 |
 | Smooth Moves | 15.00% | ~1,132 |
-| Today Was a Good Day | 13.00% | ~981 |
+| Today Was a Good Day | 13.00% | ~982 |
 | What happens in Las Venturas... | 12.00% | ~906 |
-| Horror of the Santa Maria | 9.00% | ~679 |
+| Horror of the Santa Maria | 9.00% | ~680 |
 | Liberty City State of Mind | 7.00% | ~528 |
 | With Extra Dip | 6.00% | ~453 |
 | Original Gangster | 6.00% | ~453 |
-| The End of the Line | 5.00% | ~377 |
+| The End of the Line | 5.00% | ~378 |
 | They Can’t Stop All of Us | 4.00% | ~302 |
 | Saviour | 4.00% | ~302 |
 | Rescue a Kitten Too? | 4.00% | ~302 |
@@ -28,11 +28,11 @@ Rating: 4.60 (Ranked 376)
 | Yes I Speak English | 2.00% | ~151 |
 | Double or Nothin' | 2.00% | ~151 |
 | Public Enemy No. 1 | 2.00% | ~151 |
-| A Legitimate Business | 1.00% | ~75 |
-| Who Needs Directions? | 1.00% | ~75 |
-| Swiss Army Strife | 1.00% | ~75 |
-| Assassin | 1.00% | ~75 |
-| Ain’t Nothing But a G Thing | 1.00% | ~75 |
+| A Legitimate Business | 1.00% | ~76 |
+| Who Needs Directions? | 1.00% | ~76 |
+| Swiss Army Strife | 1.00% | ~76 |
+| Assassin | 1.00% | ~76 |
+| Ain’t Nothing But a G Thing | 1.00% | ~76 |
 | Chick Magnet | 0.90% | ~68 |
 | Lucky Spinner | 0.80% | ~60 |
 | Hoopin' it Up | 0.70% | ~53 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 376)
 | ...Here we go again | 0.20% | ~15 |
 | I Ain't No Buster | 0.20% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,549 (Ranked 109)  
+Progressed: 7,550 (Ranked 109)  
 Completed: 15 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 15 (0.20%) (Ranked 131)
 | 2023-05-05 | 7,493 | 15 |
 | 2023-05-06 | 7,509 | 15 |
 | 2023-05-07 | 7,538 | 15 |
-| 2023-05-08 | 7,549 | 15 |
+| 2023-05-08 | 7,550 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

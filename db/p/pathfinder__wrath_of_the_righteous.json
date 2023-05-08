@@ -2274,9 +2274,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8699,
+  "EOS_Progressed": 8700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3054,6 +3054,11 @@
       "Time": "2023-05-08T06:06:39.7546395+00:00",
       "NumProgressed": 8699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T12:09:10.383095+00:00",
+      "NumProgressed": 8700,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3113,7 +3118,7 @@
       "Name": "The Final Threshold",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "08_PathOfAngel",
@@ -3177,7 +3182,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "16_PathOfLegend",
@@ -3185,7 +3190,7 @@
       "Name": "Path of the Legend",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "17_Transformation",
@@ -3281,7 +3286,7 @@
       "Name": "Strategic Victory",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -3377,7 +3382,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "42_JustPathetic",
@@ -3992,21 +3997,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7481,
+      "Progressed": 7482,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8699,
+      "Progressed": 8700,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-08T06:59:29.9474558+00:00",
-  "LastChanged_Achievements": "2023-05-08T11:08:29.1819341+00:00",
+  "LastChanged_Achievements": "2023-05-08T12:09:10.383094+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:00:26.7310994+00:00",
-  "LastUpdate_Achievements": "2023-05-08T11:08:29.1820818+00:00"
+  "LastUpdate_Ratings": "2023-05-08T12:00:47.0382302+00:00",
+  "LastUpdate_Achievements": "2023-05-08T12:09:10.3832897+00:00"
 }

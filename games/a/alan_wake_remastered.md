@@ -8,7 +8,7 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 19.00% | ~8,752 |
 | Let There Be Light | 16.00% | ~7,370 |
-| Float Like a Butterfly | 15.00% | ~6,909 |
+| Float Like a Butterfly | 15.00% | ~6,910 |
 | Nordic Walking | 13.00% | ~5,988 |
 | Bright Falls' Finest | 12.00% | ~5,528 |
 | Under a Thin Layer of Skin | 11.00% | ~5,067 |
@@ -21,7 +21,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,685 |
 | Missed by a Mile | 8.00% | ~3,685 |
 | Damn Good Cup of Coffee | 8.00% | ~3,685 |
-| A Friend in Need | 8.00% | ~762 |
+| A Friend in Need | 8.00% | ~763 |
 | Heavy Metal | 7.00% | ~3,224 |
 | Iron Horse | 7.00% | ~3,224 |
 | Perchance to Dream | 7.00% | ~3,224 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,063 (Ranked 74)  
+Progressed: 46,064 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 44 (0.10%) (Ranked 151)
 | 2023-05-05 | 46,013 | 44 |
 | 2023-05-06 | 46,035 | 44 |
 | 2023-05-07 | 46,058 | 44 |
-| 2023-05-08 | 46,063 | 44 |
+| 2023-05-08 | 46,064 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,281 |
-| Sweet Sorrow | 18.00% | ~5,140 |
+| Sink Beneath the Waves | 36.00% | ~10,282 |
+| Sweet Sorrow | 18.00% | ~5,141 |
 | Rules the Waves | 17.00% | ~4,855 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,569 |
-| Rival | 14.00% | ~3,998 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,570 |
+| Rival | 14.00% | ~3,999 |
 | Correspondent | 12.00% | ~3,427 |
 | Lose Your Mind | 12.00% | ~3,427 |
 | Sound Mind? | 12.00% | ~3,427 |
-| Salt's Curse | 11.00% | ~3,141 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,141 |
-| The Fall of the House | 11.00% | ~3,141 |
-| Shipmate | 11.00% | ~3,141 |
+| Salt's Curse | 11.00% | ~3,142 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,142 |
+| The Fall of the House | 11.00% | ~3,142 |
+| Shipmate | 11.00% | ~3,142 |
 | The Ascent of Man | 8.00% | ~2,285 |
 | One Year at Zee | 8.00% | ~2,285 |
 | Pupil | 7.00% | ~1,999 |
@@ -40,13 +40,13 @@ Number of Ratings: 401  (23.09.2022)
 | Thanks for all the fish | 1.00% | ~286 |
 | Knife, Cup and Bone | 1.00% | ~286 |
 | Those are pearls that were his eyes | 1.00% | ~286 |
+| No regrets | 1.00% | ~286 |
 | Rosewater sailor | 1.00% | ~286 |
 | Under the zee | 1.00% | ~286 |
 | A current under zee | 1.00% | ~286 |
 | A zee-change | 0.90% | ~257 |
 | Never Stop Sinking... | 0.90% | ~257 |
 | Leviathan | 0.90% | ~257 |
-| No regrets | 0.90% | ~257 |
 | Depth charge | 0.90% | ~257 |
 | What lies beneath | 0.80% | ~228 |
 | Stone's Curse | 0.70% | ~200 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~29 |
 | Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,557 (Ranked 83)  
+Progressed: 28,561 (Ranked 83)  
 Completed: 3 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,11 +79,11 @@ Completed: 3 (0.01%) (Ranked 184)
 | 2023-05-05 | 28,275 | 3 |
 | 2023-05-06 | 28,378 | 3 |
 | 2023-05-07 | 28,519 | 3 |
-| 2023-05-08 | 28,557 | 3 |
+| 2023-05-08 | 28,561 | 3 |
 ## Awards
 Max (Character Customization): 205  (Ranked 255)  
-Sum: 274 (Ranked 330)  
-Diff (max vs sum): -75  
+Sum: 274 (Ranked 331)  
+Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 205 |

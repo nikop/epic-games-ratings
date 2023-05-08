@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515106,
+  "EOS_Progressed": 1515113,
   "EOS_Completed": 597,
-  "EOS_NewPlayers": 1505,
+  "EOS_NewPlayers": 1508,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1950,6 +1950,11 @@
       "Time": "2023-05-08T11:08:43.5505786+00:00",
       "NumProgressed": 1515106,
       "NumCompleted": 597
+    },
+    {
+      "Time": "2023-05-08T12:09:26.328514+00:00",
+      "NumProgressed": 1515113,
+      "NumCompleted": 597
     }
   ],
   "TotalAchievements": 20,
@@ -1969,7 +1974,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106057
+      "UsersEstimate": 106058
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -2073,7 +2078,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121208
+      "UsersEstimate": 121209
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -2105,7 +2110,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75755
+      "UsersEstimate": 75756
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -2120,15 +2125,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1515106,
+      "Progressed": 1515113,
       "Completed": 597
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-01T21:59:29.8330275+00:00",
-  "LastChanged_Achievements": "2023-05-08T11:08:43.5505781+00:00",
+  "LastChanged_Achievements": "2023-05-08T12:09:26.3285131+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.6784985+00:00",
-  "LastUpdate_Ratings": "2023-05-08T11:03:07.7947221+00:00",
-  "LastUpdate_Achievements": "2023-05-08T11:08:43.5506028+00:00"
+  "LastUpdate_Ratings": "2023-05-08T12:03:45.769561+00:00",
+  "LastUpdate_Achievements": "2023-05-08T12:09:26.328558+00:00"
 }

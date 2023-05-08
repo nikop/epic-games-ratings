@@ -56,9 +56,9 @@ Number of Ratings: 87  (23.09.2022)
 | Atomic Age | 0.70% | ~0 |
 | Digital Age | 0.70% | ~0 |
 | Information Age | 0.70% | ~0 |
+| Innovator | 0.70% | ~5 |
 | Achiever | 0.60% | ~4 |
 | At the last moment! | 0.60% | ~4 |
-| Innovator | 0.60% | ~4 |
 | Miscalculation | 0.60% | ~4 |
 | Railroad tycoon | 0.60% | ~4 |
 | Vostok | 0.60% | ~0 |

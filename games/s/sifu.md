@@ -6,27 +6,27 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~480 |
+| Diligence as a goal | 4.00% | ~481 |
 | Project Arena | 3.00% | ~360 |
 | Bloody Sport | 1.00% | ~120 |
 | The best strikes are the ones we avoid | 0.90% | ~108 |
 | Qi Gong: Breath | 0.80% | ~5,622 |
 | The Hateful Pole Fighter | 0.70% | ~4,919 |
 | A Lady's Blood in the Snow | 0.70% | ~4,919 |
+| Lady Wing Chun | 0.70% | ~4,919 |
 | State of constant learning | 0.70% | ~4,919 |
 | Path of the Prospect | 0.70% | ~4,919 |
 | Rumble in the Hangar | 0.70% | ~4,919 |
 | The Assault | 0.60% | ~4,216 |
-| Lady Wing Chun | 0.60% | ~4,216 |
 | Furious Fists | 0.60% | ~4,216 |
 | Kill Nil | 0.60% | ~4,216 |
 | Street Fighting | 0.60% | ~4,216 |
+| Life is your teacher | 0.60% | ~4,216 |
 | Qi Gong: Essence | 0.60% | ~4,216 |
 | Take damage to save time | 0.60% | ~4,216 |
 | The Old Grandmaster | 0.50% | ~3,514 |
 | Scareless | 0.50% | ~3,514 |
 | Stuntmaster | 0.50% | ~3,514 |
-| Life is your teacher | 0.50% | ~3,514 |
 | Old Child | 0.50% | ~3,514 |
 | Lightning Hands | 0.50% | ~3,514 |
 | Kung-Fu Tussle | 0.50% | ~3,514 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,711 (Ranked 15)  
+Progressed: 702,712 (Ranked 15)  
 Completed: 12,714 (1.81%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,15 +75,15 @@ Completed: 12,714 (1.81%) (Ranked 58)
 | 2023-05-05 | 702,619 | 12,709 |
 | 2023-05-06 | 702,653 | 12,709 |
 | 2023-05-07 | 702,693 | 12,713 |
-| 2023-05-08 | 702,711 | 12,714 |
+| 2023-05-08 | 702,712 | 12,714 |
 ## Awards
 Max (Great Boss Battles): 6,041  (Ranked 53)  
-Sum: 10,242 (Ranked 77)  
+Sum: 10,243 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,041 |
-| This game has Diverse Characters | 502 |
+| This game has Diverse Characters | 503 |
 | This game has Challenging Combat | 500 |
 | This game has Quickly Understood Controls | 496 |
 | This game is Extremely Fun | 489 |
@@ -209,4 +209,4 @@ Diff (max vs sum): -24
 | 2023-05-05 | 4.82 | - | 6,029 | 10,213 |
 | 2023-05-06 | 4.82 | - | 6,035 | 10,228 |
 | 2023-05-07 | 4.82 | - | 6,035 | 10,235 |
-| 2023-05-08 | 4.82 | - | 6,041 | 10,242 |
+| 2023-05-08 | 4.82 | - | 6,041 | 10,243 |

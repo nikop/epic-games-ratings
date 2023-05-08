@@ -533,9 +533,9 @@
       "ID": "AchievementInnovator",
       "SetID": "76o014g",
       "Name": "Innovator",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AchievementItsNoCoincidence",
@@ -899,8 +899,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-08T11:08:15.6993505+00:00",
+  "LastChanged_Achievements": "2023-05-08T12:08:45.0073816+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:48.9399661+00:00",
-  "LastUpdate_Ratings": "2023-05-08T10:59:14.6903046+00:00",
-  "LastUpdate_Achievements": "2023-05-08T11:08:15.7000393+00:00"
+  "LastUpdate_Ratings": "2023-05-08T11:59:05.0900773+00:00",
+  "LastUpdate_Achievements": "2023-05-08T12:08:45.0075317+00:00"
 }

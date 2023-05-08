@@ -32,7 +32,7 @@ Rating: 4.18 (Ranked 822)
 | Power Up | 2.00% | ~251 |
 | Giving Back | 1.00% | ~125 |
 | You Belong Here | 1.00% | ~5 |
-| Grim Reaper | 0.50% | ~63 |
+| Grim Reaper | 0.60% | ~75 |
 | Armed to the Teeth | 0.30% | ~1 |
 | The Protocol is About Life | 0.20% | ~25 |
 | Recidivist | 0.20% | ~1 |
