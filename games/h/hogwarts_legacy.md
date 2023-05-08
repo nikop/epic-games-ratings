@@ -5,17 +5,17 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,313 |
-| Grappling with a Graphorn | 5.00% | ~13,313 |
-| The One Who Mastered Memories | 5.00% | ~13,313 |
-| The Hallowed Hero | 5.00% | ~13,313 |
-| The Hero of Hogwarts | 5.00% | ~13,313 |
-| The Defender of Dragons | 5.00% | ~13,313 |
-| Challenge Accepted | 5.00% | ~13,313 |
-| Loom for Improvement | 5.00% | ~13,313 |
-| Coasting Along | 5.00% | ~13,313 |
-| That's a Keeper | 5.00% | ~13,313 |
-| Rising From the Ashes | 5.00% | ~13,313 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,314 |
+| Grappling with a Graphorn | 5.00% | ~13,314 |
+| The One Who Mastered Memories | 5.00% | ~13,314 |
+| The Hallowed Hero | 5.00% | ~13,314 |
+| The Hero of Hogwarts | 5.00% | ~13,314 |
+| The Defender of Dragons | 5.00% | ~13,314 |
+| Challenge Accepted | 5.00% | ~13,314 |
+| Loom for Improvement | 5.00% | ~13,314 |
+| Coasting Along | 5.00% | ~13,314 |
+| That's a Keeper | 5.00% | ~13,314 |
+| Rising From the Ashes | 5.00% | ~13,314 |
 | The Avenging Gazelle | 4.00% | ~10,651 |
 | Beast Friends | 4.00% | ~10,651 |
 | A Sallow Grave | 4.00% | ~10,651 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,065 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,267 (Ranked 38)  
+Progressed: 266,274 (Ranked 38)  
 Completed: 354 (0.13%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 354 (0.13%) (Ranked 147)
 | 2023-05-05 | 265,656 | 347 |
 | 2023-05-06 | 265,901 | 351 |
 | 2023-05-07 | 266,124 | 351 |
-| 2023-05-08 | 266,267 | 354 |
+| 2023-05-08 | 266,274 | 354 |
 ## Awards
 Max (Character Customization): 18,546  (Ranked 18)  
 Sum: 33,875 (Ranked 33)  

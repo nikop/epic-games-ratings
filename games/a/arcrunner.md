@@ -21,9 +21,9 @@
 | The Bigger They Are | 14.00% | ~9 |
 | Starship Docks | 14.00% | ~9 |
 | Fully Modded | 11.00% | ~7 |
-| Cybernetic | 8.00% | ~5 |
+| Cybernetic | 9.00% | ~6 |
 | Eden Heights | 6.00% | ~4 |
-| Ripperdoc | 5.00% | ~3 |
+| Ripperdoc | 6.00% | ~4 |
 | Outer Core | 3.00% | ~2 |
 | Cyborg | 2.00% | ~1 |
 | Destruction | 2.00% | ~1 |

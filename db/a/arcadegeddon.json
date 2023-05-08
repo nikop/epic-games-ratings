@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.49,
   "NumberOfRatings": 801,
@@ -701,9 +701,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6267,
+  "EOS_Progressed": 6269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1536,6 +1536,11 @@
       "Time": "2023-05-08T22:06:30.1245851+00:00",
       "NumProgressed": 6267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T23:06:18.8609215+00:00",
+      "NumProgressed": 6269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1547,7 +1552,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -1555,7 +1560,7 @@
       "Name": "Booty Bashing",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -1571,7 +1576,7 @@
       "Name": "Clips and Crits",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -1579,7 +1584,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -1603,7 +1608,7 @@
       "Name": "Field Medic",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -1611,7 +1616,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -1651,7 +1656,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -1659,7 +1664,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -1667,7 +1672,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -1691,7 +1696,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 5703
+      "UsersEstimate": 5705
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -1699,7 +1704,7 @@
       "Name": "Light My Fire",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ACH_MASTER_OF_ARMS",
@@ -1715,7 +1720,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -1747,7 +1752,7 @@
       "Name": "Photogenic",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5454
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -1755,7 +1760,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4826
+      "UsersEstimate": 4827
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -1763,7 +1768,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5266
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -1787,7 +1792,7 @@
       "Name": "Rapid Response",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -1851,7 +1856,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 5327
+      "UsersEstimate": 5329
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -1891,7 +1896,7 @@
       "Name": "The Full Monty",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "ACH_THIS_IS_MY_BOOMSTICK",
@@ -1899,7 +1904,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -1907,7 +1912,7 @@
       "Name": "Ticket Titan",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_TICKET_TODDLER",
@@ -1915,7 +1920,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -1939,22 +1944,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 6267,
+      "Progressed": 6269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-04T16:58:15.4550999+00:00",
-  "LastChanged_Achievements": "2023-05-08T22:06:30.1245845+00:00",
+  "LastChanged_Achievements": "2023-05-08T23:06:18.8609212+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:34.2924475+00:00",
-  "LastUpdate_Ratings": "2023-05-08T21:59:36.7719281+00:00",
-  "LastUpdate_Achievements": "2023-05-08T22:06:30.1246266+00:00"
+  "LastUpdate_Ratings": "2023-05-08T22:59:29.5359339+00:00",
+  "LastUpdate_Achievements": "2023-05-08T23:06:18.8609626+00:00"
 }

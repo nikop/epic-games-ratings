@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 7,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 513,
+  "EOS_Progressed": 514,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 5.85,
+  "EOS_Completed_Percentage": 5.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -663,6 +663,11 @@
       "Time": "2023-05-08T22:06:18.5758817+00:00",
       "NumProgressed": 513,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-08T23:06:07.9100148+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -674,7 +679,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "10",
@@ -690,7 +695,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "12",
@@ -746,7 +751,7 @@
       "Name": "Surprise!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "19",
@@ -754,7 +759,7 @@
       "Name": "A Grand Visit",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "2",
@@ -762,7 +767,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "20",
@@ -778,7 +783,7 @@
       "Name": "Take Heart",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "22",
@@ -834,7 +839,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "29",
@@ -874,7 +879,7 @@
       "Name": "The Guardian",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "33",
@@ -896,9 +901,9 @@
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "36",
@@ -912,9 +917,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "38",
@@ -922,7 +927,7 @@
       "Name": "Max Level!",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "39",
@@ -938,7 +943,7 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "40",
@@ -970,7 +975,7 @@
       "Name": "An Actor!",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "44",
@@ -1002,7 +1007,7 @@
       "Name": "Crowned",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "48",
@@ -1010,7 +1015,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "49",
@@ -1064,16 +1069,16 @@
       "ID": "9",
       "SetID": "d0g98p",
       "Name": "Curtain Call",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 513,
+      "Progressed": 514,
       "Completed": 30
     }
   ],
@@ -1081,8 +1086,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-08T22:06:18.5758813+00:00",
+  "LastChanged_Achievements": "2023-05-08T23:06:07.9100145+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-08T21:58:48.0371036+00:00",
-  "LastUpdate_Achievements": "2023-05-08T22:06:18.5759192+00:00"
+  "LastUpdate_Ratings": "2023-05-08T22:58:45.904041+00:00",
+  "LastUpdate_Achievements": "2023-05-08T23:06:07.9100588+00:00"
 }

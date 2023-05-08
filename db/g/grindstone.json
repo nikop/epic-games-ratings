@@ -301,9 +301,9 @@
       "ID": "ACHIEVE_50_GUTS",
       "SetID": "b8l3p0g",
       "Name": "Jerk-Slayer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2171
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -645,8 +645,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
-  "LastChanged_Achievements": "2023-05-08T22:06:57.9155015+00:00",
+  "LastChanged_Achievements": "2023-05-08T23:06:46.0838807+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.7197071+00:00",
-  "LastUpdate_Ratings": "2023-05-08T22:01:09.8861015+00:00",
-  "LastUpdate_Achievements": "2023-05-08T22:06:57.9155363+00:00"
+  "LastUpdate_Ratings": "2023-05-08T23:00:55.9608681+00:00",
+  "LastUpdate_Achievements": "2023-05-08T23:06:46.0839224+00:00"
 }

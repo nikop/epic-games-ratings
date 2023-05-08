@@ -7,21 +7,21 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 69.00% | ~3,493 |
-| Leader | 60.00% | ~3,037 |
+| Leader | 60.00% | ~3,038 |
 | Explorer | 53.00% | ~2,683 |
-| Healer | 52.00% | ~2,632 |
+| Healer | 52.00% | ~2,633 |
 | Aspiring Inventor | 45.00% | ~2,278 |
-| Adventurer | 41.00% | ~2,075 |
+| Adventurer | 41.00% | ~2,076 |
 | Famous Healer | 38.00% | ~1,924 |
 | Local Leader | 35.00% | ~1,772 |
 | New Opportunities | 34.00% | ~1,721 |
-| Famous Explorer | 33.00% | ~1,670 |
-| Energized | 33.00% | ~1,670 |
-| The Long Haul | 33.00% | ~1,670 |
-| Survivor | 31.00% | ~1,569 |
+| Famous Explorer | 33.00% | ~1,671 |
+| Energized | 33.00% | ~1,671 |
+| The Long Haul | 33.00% | ~1,671 |
+| Survivor | 31.00% | ~1,570 |
 | The Great Healer | 30.00% | ~1,519 |
-| Cleaner | 28.00% | ~1,417 |
-| Catastrofan | 28.00% | ~1,417 |
+| Cleaner | 28.00% | ~1,418 |
+| Catastrofan | 28.00% | ~1,418 |
 | Legendary Explorer | 27.00% | ~1,367 |
 | Finders, Keepers | 25.00% | ~1,266 |
 | Top Notch | 24.00% | ~1,215 |
@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 14.00% | ~709 |
 | Famous Adventurer | 13.00% | ~658 |
 | Prepared for Anything | 13.00% | ~658 |
-| Big Catastrofan | 12.00% | ~607 |
+| Big Catastrofan | 12.00% | ~608 |
 | It's a Finnish Thing | 10.00% | ~506 |
 | Sky Burial | 9.00% | ~456 |
 | Trader | 8.00% | ~405 |
@@ -48,8 +48,8 @@ Number of Ratings: 836  (23.09.2022)
 | Really Friendly | 6.00% | ~304 |
 | New Eden | 6.00% | ~304 |
 | Amped Up | 5.00% | ~253 |
-| Luxurious Living | 4.00% | ~202 |
-| Look, no Hands! | 4.00% | ~202 |
+| Luxurious Living | 4.00% | ~203 |
+| Look, no Hands! | 4.00% | ~203 |
 | Mogul | 3.00% | ~152 |
 | Ranch Hand | 3.00% | ~152 |
 | Diplomat | 2.00% | ~101 |
@@ -59,14 +59,14 @@ Number of Ratings: 836  (23.09.2022)
 | A Closer Look | 1.00% | ~51 |
 | True Survivor | 1.00% | ~51 |
 | Feng Shui | 0.90% | ~46 |
-| Legendary Adventurer | 0.80% | ~40 |
-| Slimy yet Satisfying | 0.80% | ~40 |
+| Legendary Adventurer | 0.80% | ~41 |
+| Slimy yet Satisfying | 0.80% | ~41 |
 | Fun and Games | 0.20% | ~10 |
 | Choo-choo! | 0.20% | ~10 |
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,062 (Ranked 120)  
+Progressed: 5,063 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-05 | 4,912 | 0 |
 | 2023-05-06 | 4,969 | 0 |
 | 2023-05-07 | 5,014 | 0 |
-| 2023-05-08 | 5,062 | 0 |
+| 2023-05-08 | 5,063 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 321)  
 Sum: 651 (Ranked 267)  

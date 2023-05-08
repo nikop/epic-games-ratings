@@ -10,7 +10,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 25.00% | ~486 |
 | Welcome to the family | 18.00% | ~350 |
 | The finer things in life | 16.00% | ~311 |
-| Backpacker | 11.00% | ~214 |
+| Backpacker | 12.00% | ~233 |
 | Go with the Flow | 11.00% | ~214 |
 | Plastic Surgeon | 9.00% | ~175 |
 | The flip trick crown jewel | 9.00% | ~175 |

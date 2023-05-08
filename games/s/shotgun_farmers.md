@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 104.00% | ~28 |
-| First Blood | 67.00% | ~18 |
+| First Blood | 74.00% | ~20 |
+| Cornivore | 67.00% | ~18 |
 | Triple Kill | 63.00% | ~17 |
-| Cornivore | 63.00% | ~17 |
 | No Asperascope | 59.00% | ~16 |
 | Drinking Problem | 26.00% | ~7 |
 | 10K | 26.00% | ~7 |
@@ -20,11 +20,11 @@
 | Getting Started | 11.00% | ~3 |
 | Forestside Survivor | 11.00% | ~3 |
 | Quit Horsin' Around | 11.00% | ~3 |
+| Carrocketeer | 11.00% | ~3 |
 | Bring Home The Bacon | 7.00% | ~2 |
 | Chick Magnet | 7.00% | ~2 |
 | Early Bird | 7.00% | ~2 |
 | Pum-King | 7.00% | ~2 |
-| Carrocketeer | 7.00% | ~2 |
 | 15 Days | 4.00% | ~1 |
 | Honk Honk | 4.00% | ~1 |
 | Darkside Survivor | 4.00% | ~1 |

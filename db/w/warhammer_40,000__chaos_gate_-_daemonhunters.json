@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.58,
   "NumberOfRatings": 371,
@@ -502,9 +502,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2587,
+  "EOS_Progressed": 2588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -727,6 +727,11 @@
       "Time": "2023-05-08T15:06:42.2407408+00:00",
       "NumProgressed": 2587,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T23:06:28.7587132+00:00",
+      "NumProgressed": 2588,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -754,7 +759,7 @@
       "Name": "Look Over There!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "BloodAndIron",
@@ -890,7 +895,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -962,7 +967,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Kills_Streak",
@@ -970,7 +975,7 @@
       "Name": "Purging Spree",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Kills_Vakir",
@@ -1162,7 +1167,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1178,7 +1183,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "SkilledKnight",
@@ -1209,21 +1214,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2587,
+      "Progressed": 2588,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2587,
+      "Progressed": 2588,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-08T20:00:29.2116217+00:00",
-  "LastChanged_Achievements": "2023-05-08T22:06:40.3040493+00:00",
+  "LastChanged_Achievements": "2023-05-08T23:06:28.7587126+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.7346834+00:00",
-  "LastUpdate_Ratings": "2023-05-08T21:59:57.0403604+00:00",
-  "LastUpdate_Achievements": "2023-05-08T22:06:40.3040955+00:00"
+  "LastUpdate_Ratings": "2023-05-08T22:59:47.3462922+00:00",
+  "LastUpdate_Achievements": "2023-05-08T23:06:28.7587682+00:00"
 }

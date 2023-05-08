@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.60% | ~521 |
 | The Ring of Regeneration | 0.50% | ~435 |
 | Were-verpowered | 0.40% | ~348 |
+| A Persistent Buzzing | 0.40% | ~348 |
 | Seeking Allies | 0.40% | ~348 |
 | Are Ya Chicken? | 0.40% | ~348 |
 | Mad Cow Disease | 0.40% | ~348 |
@@ -27,7 +28,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~160 |
 | The Sanctum of the Sword | 0.30% | ~160 |
 | Get Back In The Castle | 0.30% | ~160 |
-| A Persistent Buzzing | 0.30% | ~261 |
 | Beast Mode | 0.30% | ~261 |
 | Terror in the Dark | 0.30% | ~261 |
 | A Mysterious Summons | 0.30% | ~261 |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~106 |
 | The Dread Domain of Tovag | 0.20% | ~106 |
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
+| Who Lurks Below? | 0.20% | ~106 |
 | Xanathaaaaaaar! | 0.20% | ~106 |
 | Homecoming | 0.20% | ~174 |
 | The Lost Heir of Omu | 0.20% | ~174 |
@@ -192,7 +193,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.10% | ~53 |
 | Kas the Bloody Handed | 0.10% | ~53 |
 | Kas the Destroyer | 0.10% | ~53 |
-| Who Lurks Below? | 0.10% | ~53 |
 | Clowning Around | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
 | Anti-Dexterous Explorers | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,907 (Ranked 59)  
+Progressed: 86,910 (Ranked 59)  
 Completed: 1,816 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,816 (2.09%) (Ranked 58)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,907 | 1,816 |
+| 2023-05-08 | 86,910 | 1,816 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,833 (Ranked 37)  

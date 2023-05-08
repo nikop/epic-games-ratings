@@ -7,27 +7,27 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~361,176 |
-| Now You're Talking | 62.00% | ~319,898 |
-| Steel Yourself | 62.00% | ~319,898 |
-| Window Dressing | 50.00% | ~257,982 |
+| Now You're Talking | 62.00% | ~319,899 |
+| Steel Yourself | 62.00% | ~319,899 |
+| Window Dressing | 50.00% | ~257,983 |
 | Trigger Happy | 46.00% | ~237,344 |
-| Riverborn | 45.00% | ~232,184 |
+| Riverborn | 45.00% | ~232,185 |
 | Starry Eyed | 34.00% | ~175,428 |
 | Poking Around | 34.00% | ~175,428 |
 | Talk of the Town | 24.00% | ~123,832 |
 | AAARR! | 23.00% | ~118,672 |
 | Hello Darkness | 23.00% | ~118,672 |
-| Wind At Our Backs | 22.00% | ~113,512 |
+| Wind At Our Backs | 22.00% | ~113,513 |
 | To the Beat | 20.00% | ~103,193 |
 | Sunny Shores | 17.00% | ~87,714 |
 | To Victory! | 15.00% | ~77,395 |
 | Sunday Best | 15.00% | ~77,395 |
 | Two of a Kind | 14.00% | ~72,235 |
-| Keep On Trucking | 13.00% | ~67,075 |
+| Keep On Trucking | 13.00% | ~67,076 |
 | Going on an Adventure | 11.00% | ~56,756 |
 | Make Peace, Not War | 11.00% | ~56,756 |
-| Walking The Line | 10.00% | ~51,596 |
-| Not So Cute Anymore | 10.00% | ~51,596 |
+| Walking The Line | 10.00% | ~51,597 |
+| Not So Cute Anymore | 10.00% | ~51,597 |
 | Road Less Travelled | 9.00% | ~46,437 |
 | Lost and Found | 9.00% | ~46,437 |
 | Partner in Crime | 7.00% | ~36,118 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,548 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515,965 (Ranked 24)  
+Progressed: 515,966 (Ranked 24)  
 Completed: 403 (0.08%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 403 (0.08%) (Ranked 160)
 | 2023-05-05 | 515,626 | 400 |
 | 2023-05-06 | 515,749 | 400 |
 | 2023-05-07 | 515,871 | 402 |
-| 2023-05-08 | 515,965 | 403 |
+| 2023-05-08 | 515,966 | 403 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
