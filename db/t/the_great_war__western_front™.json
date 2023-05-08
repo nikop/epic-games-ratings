@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 94,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -363,6 +363,11 @@
       "Time": "2023-05-07T21:06:55.4283857+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T10:07:16.4515479+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -396,7 +401,7 @@
       "ID": "COMPLETE_ANY_HISTORIC BATTLE",
       "SetID": "6kcl14p",
       "Name": "From the Pages of History",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 85,
       "UsersEstimate": 7
     },
@@ -469,7 +474,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 94,
       "Completed": 0
     }
   ],
@@ -477,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-08T09:07:45.6479957+00:00",
+  "LastChanged_Achievements": "2023-05-08T10:07:16.4515473+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:44.2155635+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:00:23.4738824+00:00",
-  "LastUpdate_Achievements": "2023-05-08T09:07:45.6480071+00:00"
+  "LastUpdate_Ratings": "2023-05-08T10:00:05.616054+00:00",
+  "LastUpdate_Achievements": "2023-05-08T10:07:16.4515571+00:00"
 }

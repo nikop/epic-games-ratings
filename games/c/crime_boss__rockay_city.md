@@ -1,31 +1,31 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 891)  
+Rating: 3.94 (Ranked 892)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,312 |
-| First One’s Free | 64.00% | ~37,972 |
-| Neophyte Ninja | 50.00% | ~29,666 |
-| Too Old for This | 47.00% | ~27,886 |
-| Fancy Pants | 35.00% | ~20,766 |
-| Case Closed | 34.00% | ~20,173 |
-| King of the Hill | 33.00% | ~19,579 |
-| Underworld Initiate | 29.00% | ~17,206 |
-| Roid Ranger | 21.00% | ~12,460 |
-| True Player | 18.00% | ~10,680 |
-| Off the Rocks | 18.00% | ~10,680 |
-| Dragonslayer | 16.00% | ~9,493 |
-| Raider’s Ruin | 15.00% | ~8,900 |
-| Hidden Sonata | 13.00% | ~7,713 |
-| Classy Joint | 10.00% | ~5,933 |
-| Rockay Rex | 10.00% | ~5,933 |
+| Downed but Not Outed | 73.00% | ~43,316 |
+| First One’s Free | 64.00% | ~37,976 |
+| Neophyte Ninja | 50.00% | ~29,668 |
+| Too Old for This | 47.00% | ~27,888 |
+| Fancy Pants | 35.00% | ~20,768 |
+| Case Closed | 34.00% | ~20,175 |
+| King of the Hill | 33.00% | ~19,581 |
+| Underworld Initiate | 29.00% | ~17,208 |
+| Roid Ranger | 21.00% | ~12,461 |
+| True Player | 19.00% | ~11,274 |
+| Off the Rocks | 18.00% | ~10,681 |
+| Dragonslayer | 16.00% | ~9,494 |
+| Raider’s Ruin | 15.00% | ~8,901 |
+| Hidden Sonata | 13.00% | ~7,714 |
+| Classy Joint | 10.00% | ~5,934 |
+| Rockay Rex | 10.00% | ~5,934 |
 | Track Star | 9.00% | ~5,340 |
 | Freebooter | 9.00% | ~5,340 |
-| Headhunter | 8.00% | ~4,746 |
-| Ding Dong | 8.00% | ~4,746 |
-| I Like Trains | 7.00% | ~4,153 |
+| Headhunter | 8.00% | ~4,747 |
+| Ding Dong | 8.00% | ~4,747 |
+| I Like Trains | 7.00% | ~4,154 |
 | Foo Finder | 6.00% | ~3,560 |
 | Legend Looter | 5.00% | ~2,967 |
 | Savvy Seeker | 5.00% | ~2,967 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 891)
 | Geek Out | 0.50% | ~297 |
 | Full House | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,331 (Ranked 67)  
+Progressed: 59,337 (Ranked 67)  
 Completed: 26 (0.04%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 26 (0.04%) (Ranked 168)
 | 2023-05-05 | 58,843 | 26 |
 | 2023-05-06 | 59,056 | 26 |
 | 2023-05-07 | 59,293 | 26 |
-| 2023-05-08 | 59,331 | 26 |
+| 2023-05-08 | 59,337 | 26 |
 ## Awards
 Max (Highly Recommended): 236  (Ranked 242)  
 Sum: 1,121 (Ranked 222)  

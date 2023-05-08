@@ -75,9 +75,9 @@
       "ID": "CompletedChapter4",
       "SetID": "7ejh407",
       "Name": "Defeated the core of the outside world",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Creepy1",
@@ -147,17 +147,17 @@
       "ID": "ImerssionBreaking",
       "SetID": "7ejh407",
       "Name": "Immersion Breaking",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "InternetExplorer",
       "SetID": "7ejh407",
       "Name": "Internet Explorer",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LaifuRouteDemon",
@@ -257,8 +257,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-05-08T09:08:02.1415598+00:00",
+  "LastChanged_Achievements": "2023-05-08T10:07:29.8175716+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.1154691+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:02:00.9321043+00:00",
-  "LastUpdate_Achievements": "2023-05-08T09:08:02.1415759+00:00"
+  "LastUpdate_Ratings": "2023-05-08T10:01:40.5110895+00:00",
+  "LastUpdate_Achievements": "2023-05-08T10:07:29.8175918+00:00"
 }

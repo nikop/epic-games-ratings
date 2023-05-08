@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~473 |
 | Waff! | 93.00% | ~458 |
-| Into the Barn | 87.00% | ~429 |
+| Into the Barn | 88.00% | ~434 |
 | A Prophecy | 85.00% | ~419 |
 | Sword, Shield, Fight! | 75.00% | ~370 |
-| A Grand Visit | 69.00% | ~340 |
+| A Grand Visit | 70.00% | ~345 |
 | Vibing | 59.00% | ~291 |
 | Fun Guy | 59.00% | ~291 |
 | Tragic Brave | 51.00% | ~251 |
@@ -17,9 +17,9 @@
 | Little Shop | 45.00% | ~222 |
 | Surprise! | 40.00% | ~197 |
 | An Actor! | 40.00% | ~197 |
-| Curtain Call | 38.00% | ~187 |
-| Well Rested | 36.00% | ~177 |
-| Piece of Cake | 35.00% | ~173 |
+| Curtain Call | 39.00% | ~192 |
+| Well Rested | 37.00% | ~182 |
+| Piece of Cake | 36.00% | ~177 |
 | Gooey Delight! | 35.00% | ~173 |
 | Glimmer of Hope | 35.00% | ~173 |
 | Teacups for Toppy | 34.00% | ~168 |

@@ -1,34 +1,34 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.48 (Ranked 915)  
+Rating: 3.48 (Ranked 916)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 87.00% | ~1,243 |
-| Home Is Where the Heart Is | 69.00% | ~986 |
-| Wounded Whispers | 68.00% | ~972 |
-| Ne Plus Ultra | 67.00% | ~957 |
-| Blood Will Have Blood | 56.00% | ~800 |
-| ICU | 51.00% | ~729 |
-| Catch and Release | 50.00% | ~714 |
-| Peek-a-boo | 49.00% | ~700 |
-| Sucks To Be You | 48.00% | ~686 |
-| Welcome to the Neighborhood | 42.00% | ~600 |
-| Fly Fisher | 39.00% | ~557 |
-| Throw The First Stone | 38.00% | ~543 |
-| Enter of Your Own Free Will | 35.00% | ~500 |
-| Heart Attack | 35.00% | ~500 |
-| Skin of Their Teeth | 35.00% | ~500 |
+| I Like My Stakes Rare! | 87.00% | ~1,246 |
+| Home Is Where the Heart Is | 68.00% | ~974 |
+| Wounded Whispers | 68.00% | ~974 |
+| Ne Plus Ultra | 67.00% | ~959 |
+| Blood Will Have Blood | 55.00% | ~788 |
+| ICU | 51.00% | ~730 |
+| Catch and Release | 50.00% | ~716 |
+| Peek-a-boo | 49.00% | ~702 |
+| Sucks To Be You | 48.00% | ~687 |
+| Welcome to the Neighborhood | 42.00% | ~601 |
+| Fly Fisher | 39.00% | ~558 |
+| Throw The First Stone | 38.00% | ~544 |
+| Enter of Your Own Free Will | 35.00% | ~501 |
+| Heart Attack | 35.00% | ~501 |
+| Skin of Their Teeth | 35.00% | ~501 |
 | Grounded | 26.00% | ~372 |
 | Bad Wiring | 23.00% | ~329 |
-| I Spit On Your Grave | 22.00% | ~314 |
+| I Spit On Your Grave | 22.00% | ~315 |
 | Neighborhood Revitalization | 17.00% | ~243 |
 | Radio Silence | 17.00% | ~243 |
 | Helping Hand | 13.00% | ~186 |
-| You Clean It Up | 12.00% | ~171 |
+| You Clean It Up | 12.00% | ~172 |
 | Starve the Beast | 10.00% | ~143 |
-| Block Party | 8.00% | ~114 |
+| Block Party | 8.00% | ~115 |
 | From the Shadows | 6.00% | ~86 |
 | Bell-ringer | 4.00% | ~57 |
 | Right This Way | 4.00% | ~57 |
@@ -72,7 +72,7 @@ Rating: 3.48 (Ranked 915)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,429 (Ranked 151)  
+Progressed: 1,432 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 1,266 | 0 |
 | 2023-05-06 | 1,344 | 0 |
 | 2023-05-07 | 1,412 | 0 |
-| 2023-05-08 | 1,429 | 0 |
+| 2023-05-08 | 1,432 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

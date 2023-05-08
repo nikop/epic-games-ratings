@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 27,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 226,
+  "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 81,
@@ -1059,7 +1059,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118127,
+  "EOS_Progressed": 118128,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 1,
@@ -2379,6 +2379,11 @@
       "Time": "2023-05-08T07:06:36.5803831+00:00",
       "NumProgressed": 118127,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-08T10:07:25.0407422+00:00",
+      "NumProgressed": 118128,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -2446,7 +2451,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28350
+      "UsersEstimate": 28351
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -2502,7 +2507,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23625
+      "UsersEstimate": 23626
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -2550,7 +2555,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10632
     },
     {
       "ID": "ACH_GLUTEN",
@@ -2709,15 +2714,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118127,
+      "Progressed": 118128,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-08T09:07:56.0634217+00:00",
+  "LastChanged_Achievements": "2023-05-08T10:07:25.0407417+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:01:09.9458088+00:00",
-  "LastUpdate_Achievements": "2023-05-08T09:07:56.0634561+00:00"
+  "LastUpdate_Ratings": "2023-05-08T10:00:47.2131904+00:00",
+  "LastUpdate_Achievements": "2023-05-08T10:07:25.0407822+00:00"
 }

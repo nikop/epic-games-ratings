@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,876 |
-| Into the Unknown | 8.00% | ~43,446 |
-| First Shot | 8.00% | ~43,446 |
-| Herzlich Wilkommen! | 7.00% | ~38,015 |
-| Sancho Panza | 7.00% | ~38,015 |
-| Good Night & Good Luck | 7.00% | ~38,015 |
-| Under Pressure | 6.00% | ~32,584 |
-| Flag Burning | 6.00% | ~32,584 |
-| Oh, So This Is How It Works! | 6.00% | ~32,584 |
-| Night Hunter | 6.00% | ~32,584 |
-| On the Trail of the Enemy | 5.00% | ~27,154 |
-| Light in the Darkness | 5.00% | ~27,154 |
-| Get Outta My House! | 5.00% | ~27,154 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,154 |
-| Being All Social | 5.00% | ~27,154 |
-| Debris and Ashes | 4.00% | ~21,723 |
-| We Will Be Heard! | 4.00% | ~21,723 |
-| Known Associate | 4.00% | ~21,723 |
-| Brush with Death | 4.00% | ~21,723 |
-| Going Down | 4.00% | ~21,723 |
-| Family First | 4.00% | ~21,723 |
-| Tunnel Entrance | 4.00% | ~21,723 |
-| After the Fall | 4.00% | ~21,723 |
-| Can't Touch This! | 4.00% | ~21,723 |
-| Your World, Your Rules | 3.00% | ~16,292 |
-| Death From Afar | 3.00% | ~16,292 |
-| Terminal Headache | 3.00% | ~16,292 |
-| Slowpoke! | 3.00% | ~16,292 |
-| Tickets, Please! | 2.00% | ~10,861 |
-| Parkour Master | 2.00% | ~10,861 |
-| Combat Master | 2.00% | ~10,861 |
-| You're Going Down! | 2.00% | ~10,861 |
+| You Never Forget Your First... | 9.00% | ~48,880 |
+| Into the Unknown | 8.00% | ~43,449 |
+| First Shot | 8.00% | ~43,449 |
+| Herzlich Wilkommen! | 7.00% | ~38,018 |
+| Sancho Panza | 7.00% | ~38,018 |
+| Good Night & Good Luck | 7.00% | ~38,018 |
+| Under Pressure | 6.00% | ~32,587 |
+| Flag Burning | 6.00% | ~32,587 |
+| Oh, So This Is How It Works! | 6.00% | ~32,587 |
+| Night Hunter | 6.00% | ~32,587 |
+| On the Trail of the Enemy | 5.00% | ~27,156 |
+| Light in the Darkness | 5.00% | ~27,156 |
+| Get Outta My House! | 5.00% | ~27,156 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,156 |
+| Being All Social | 5.00% | ~27,156 |
+| Debris and Ashes | 4.00% | ~21,725 |
+| We Will Be Heard! | 4.00% | ~21,725 |
+| Known Associate | 4.00% | ~21,725 |
+| Brush with Death | 4.00% | ~21,725 |
+| Going Down | 4.00% | ~21,725 |
+| Family First | 4.00% | ~21,725 |
+| Tunnel Entrance | 4.00% | ~21,725 |
+| After the Fall | 4.00% | ~21,725 |
+| Can't Touch This! | 4.00% | ~21,725 |
+| Your World, Your Rules | 3.00% | ~16,293 |
+| Death From Afar | 3.00% | ~16,293 |
+| Terminal Headache | 3.00% | ~16,293 |
+| Slowpoke! | 3.00% | ~16,293 |
+| Tickets, Please! | 2.00% | ~10,862 |
+| Parkour Master | 2.00% | ~10,862 |
+| Combat Master | 2.00% | ~10,862 |
+| You're Going Down! | 2.00% | ~10,862 |
 | Municipal Services | 1.00% | ~5,431 |
 | Tube Map | 1.00% | ~5,431 |
 | Don Quixote | 1.00% | ~5,431 |
@@ -45,19 +45,19 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,431 |
 | Modder | 1.00% | ~5,431 |
 | Ironheart | 1.00% | ~5,431 |
-| Nemesis | 1.00% | ~1,885 |
+| Nemesis | 1.00% | ~1,886 |
 | Enter the Hall | 0.90% | ~1,697 |
 | That's Teamwork! | 0.80% | ~4,345 |
 | Fit as a Fiddle | 0.80% | ~4,345 |
 | Boot Licker | 0.70% | ~3,802 |
 | Night of Terrors | 0.70% | ~1,320 |
-| Find Anything Interesting? | 0.60% | ~3,258 |
+| Find Anything Interesting? | 0.60% | ~3,259 |
 | My Friend, Ciro | 0.60% | ~1,131 |
 | Skullcrusher | 0.60% | ~1,131 |
-| Revenants | 0.50% | ~2,715 |
-| Who Wants To Be a... | 0.50% | ~2,715 |
-| Tanning Salon | 0.50% | ~2,715 |
-| Get the Point? | 0.50% | ~2,715 |
+| Revenants | 0.50% | ~2,716 |
+| Who Wants To Be a... | 0.50% | ~2,716 |
+| Tanning Salon | 0.50% | ~2,716 |
+| Get the Point? | 0.50% | ~2,716 |
 | Lightning Reflexes | 0.40% | ~2,172 |
 | A Friend in Need... | 0.20% | ~1,086 |
 | Man On a Mission | 0.20% | ~1,086 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~189 |
 | Connoisseur | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,072 (Ranked 22)  
+Progressed: 543,113 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 46 (0.01%) (Ranked 184)
 | 2023-05-05 | 540,874 | 46 |
 | 2023-05-06 | 541,890 | 46 |
 | 2023-05-07 | 542,868 | 46 |
-| 2023-05-08 | 543,072 | 46 |
+| 2023-05-08 | 543,113 | 46 |
 ## Awards
 Max (Character Customization): 6,933  (Ranked 44)  
 Sum: 16,060 (Ranked 58)  

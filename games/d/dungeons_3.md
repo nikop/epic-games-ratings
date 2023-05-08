@@ -6,19 +6,19 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~10,644 |
+| The Shadow strikes | 70.00% | ~10,645 |
 | The Evilest Evil | 60.00% | ~9,124 |
 | Twistram is devastated | 59.00% | ~8,972 |
-| The Gehenna Stones | 51.00% | ~7,755 |
+| The Gehenna Stones | 51.00% | ~7,756 |
 | No one has to die today! | 47.00% | ~7,147 |
 | Death and destruction! | 46.00% | ~6,995 |
 | The Swamplanders from the swamplands | 45.00% | ~6,843 |
 | Rusty Steel | 43.00% | ~6,539 |
 | The One-Huge-Army-Building Evil | 42.00% | ~6,387 |
-| The last burger | 40.00% | ~6,082 |
-| Braiiiiins! | 39.00% | ~5,930 |
-| Hands off the Dungeonheart! | 38.00% | ~5,778 |
-| A trip on sea, what fun it can be | 37.00% | ~5,626 |
+| The last burger | 40.00% | ~6,083 |
+| Braiiiiins! | 39.00% | ~5,931 |
+| Hands off the Dungeonheart! | 38.00% | ~5,779 |
+| A trip on sea, what fun it can be | 37.00% | ~5,627 |
 | Damned good | 35.00% | ~5,322 |
 | Stock Market Crash | 33.00% | ~5,018 |
 | Factory farming | 33.00% | ~5,018 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 26.00% | ~3,954 |
 | Angel of Fire | 26.00% | ~3,954 |
 | Where there is Light, there is Shadow | 25.00% | ~3,802 |
-| At the foot of Mount Destiny | 24.00% | ~3,649 |
-| The Force disturbed | 23.00% | ~3,497 |
+| At the foot of Mount Destiny | 24.00% | ~3,650 |
+| The Force disturbed | 23.00% | ~3,498 |
 | The Victorious Evil | 21.00% | ~3,193 |
 | We don’t have time! | 21.00% | ~3,193 |
 | Chorus of damnation | 20.00% | ~3,041 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Can’t stand to see an Ogre bleed | 9.00% | ~1,369 |
 | Lifesaver | 9.00% | ~1,369 |
 | Prison Break | 9.00% | ~1,369 |
-| Hearts of Iron | 8.00% | ~1,216 |
+| Hearts of Iron | 8.00% | ~1,217 |
 | Spawner Killer | 7.00% | ~1,064 |
 | A little something extra | 7.00% | ~1,064 |
 | Hearts are trump | 7.00% | ~1,064 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Discoverer | 2.00% | ~304 |
 | Sacrifices! | 2.00% | ~304 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,206 (Ranked 96)  
+Progressed: 15,207 (Ranked 96)  
 Completed: 143 (0.94%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 143 (0.94%) (Ranked 79)
 | 2023-05-05 | 14,785 | 141 |
 | 2023-05-06 | 14,973 | 142 |
 | 2023-05-07 | 15,177 | 143 |
-| 2023-05-08 | 15,206 | 143 |
+| 2023-05-08 | 15,207 | 143 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 217)  
 Sum: 2,517 (Ranked 165)  

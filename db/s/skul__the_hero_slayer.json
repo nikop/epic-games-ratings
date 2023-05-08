@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.71,
   "NumberOfRatings": 546,
@@ -921,9 +921,9 @@
       "ID": "FirstHeroLastBattle",
       "SetID": "97dk767",
       "Name": "The Final Battle of the First Hero",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1794
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -1057,8 +1057,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-07T15:00:04.0705533+00:00",
-  "LastChanged_Achievements": "2023-05-08T09:07:26.1218075+00:00",
+  "LastChanged_Achievements": "2023-05-08T10:06:40.6377509+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:07.9873627+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:01:00.6781549+00:00",
-  "LastUpdate_Achievements": "2023-05-08T09:07:26.1218225+00:00"
+  "LastUpdate_Ratings": "2023-05-08T10:00:38.7007136+00:00",
+  "LastUpdate_Achievements": "2023-05-08T10:06:40.6377692+00:00"
 }

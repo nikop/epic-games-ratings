@@ -1,40 +1,40 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 165)  
+Rating: 4.72 (Ranked 166)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 79.00% | ~3,334 |
-| Sword Runner | 62.00% | ~2,616 |
-| Wallrunner | 58.00% | ~2,448 |
-| Running out of breath | 57.00% | ~2,405 |
-| Homerunner | 47.00% | ~1,983 |
-| Out of order | 47.00% | ~1,983 |
-| I call it luck | 46.00% | ~1,941 |
-| Where are my Keys? | 44.00% | ~1,857 |
-| Back to hell | 39.00% | ~1,646 |
-| Perfection | 34.00% | ~1,435 |
-| Sword to a gunfight | 32.00% | ~1,350 |
-| Why not both | 32.00% | ~1,350 |
-| Control freak | 30.00% | ~1,266 |
-| Running Wild | 30.00% | ~1,266 |
-| Upgrades not mandatory | 30.00% | ~1,266 |
-| Artificial selection | 29.00% | ~1,224 |
-| Finish line | 28.00% | ~1,182 |
-| Unstoppable force | 24.00% | ~1,013 |
-| Wave of mutilation | 23.00% | ~971 |
-| Can't Run Can't Hide | 20.00% | ~844 |
-| R is for Running | 19.00% | ~802 |
-| Dead in the air | 17.00% | ~717 |
-| Improvise, adapt, overrun | 15.00% | ~633 |
-| Pre-empative strike | 15.00% | ~633 |
-| More than human | 14.00% | ~591 |
+| Longrunner | 79.00% | ~3,338 |
+| Sword Runner | 62.00% | ~2,620 |
+| Wallrunner | 58.00% | ~2,450 |
+| Running out of breath | 56.00% | ~2,366 |
+| Homerunner | 47.00% | ~1,986 |
+| Out of order | 47.00% | ~1,986 |
+| I call it luck | 46.00% | ~1,944 |
+| Where are my Keys? | 44.00% | ~1,859 |
+| Back to hell | 39.00% | ~1,648 |
+| Perfection | 34.00% | ~1,436 |
+| Sword to a gunfight | 32.00% | ~1,352 |
+| Why not both | 32.00% | ~1,352 |
+| Artificial selection | 30.00% | ~1,268 |
+| Control freak | 30.00% | ~1,268 |
+| Running Wild | 30.00% | ~1,268 |
+| Upgrades not mandatory | 30.00% | ~1,268 |
+| Finish line | 28.00% | ~1,183 |
+| Unstoppable force | 24.00% | ~1,014 |
+| Wave of mutilation | 23.00% | ~972 |
+| Can't Run Can't Hide | 20.00% | ~845 |
+| R is for Running | 19.00% | ~803 |
+| Dead in the air | 17.00% | ~718 |
+| Improvise, adapt, overrun | 15.00% | ~634 |
+| Pre-empative strike | 15.00% | ~634 |
+| More than human | 14.00% | ~592 |
 | Strike | 13.00% | ~549 |
 | Triple A | 10.00% | ~422 |
 | Fine addition | 8.00% | ~338 |
-| One Of Those Days | 7.00% | ~295 |
+| One Of Those Days | 7.00% | ~296 |
 | Push it to the limit | 5.00% | ~211 |
 | Where He Stood | 5.00% | ~211 |
 | About Adam | 4.00% | ~169 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~21 |
 | Up Close And Personal | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,220 (Ranked 124)  
+Progressed: 4,225 (Ranked 124)  
 Completed: 21 (0.50%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 21 (0.50%) (Ranked 98)
 | 2023-05-05 | 3,981 | 20 |
 | 2023-05-06 | 4,083 | 20 |
 | 2023-05-07 | 4,199 | 21 |
-| 2023-05-08 | 4,220 | 21 |
+| 2023-05-08 | 4,225 | 21 |
 ## Awards
 Max (Great Boss Battles): 455  (Ranked 188)  
 Sum: 587 (Ranked 280)  

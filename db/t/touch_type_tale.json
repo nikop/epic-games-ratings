@@ -18,7 +18,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2535,
+  "EOS_Progressed": 2536,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -473,6 +473,11 @@
       "Time": "2023-05-08T00:06:45.4024914+00:00",
       "NumProgressed": 2535,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-08T10:07:41.6054846+00:00",
+      "NumProgressed": 2536,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 33,
@@ -492,7 +497,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "bonus3",
@@ -540,7 +545,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "campaign11",
@@ -556,7 +561,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "campaign13",
@@ -588,7 +593,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "campaign17",
@@ -620,7 +625,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "campaign20",
@@ -636,7 +641,7 @@
       "Name": "Economics 101",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "campaign4",
@@ -692,7 +697,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "scenario2",
@@ -747,7 +752,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2535,
+      "Progressed": 2536,
       "Completed": 8
     }
   ],
@@ -755,8 +760,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-08T09:08:16.7116465+00:00",
+  "LastChanged_Achievements": "2023-05-08T10:07:41.6054841+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-08T09:02:46.5173816+00:00",
-  "LastUpdate_Achievements": "2023-05-08T09:08:16.7116726+00:00"
+  "LastUpdate_Ratings": "2023-05-08T10:02:36.318198+00:00",
+  "LastUpdate_Achievements": "2023-05-08T10:07:41.6055121+00:00"
 }

@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.40 (Ranked 917)  
+Rating: 3.40 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 3.40 (Ranked 917)
 | Miner Clicker | 13.00% | ~118 |
 | Hero inspection | 11.00% | ~100 |
 | Full Party | 10.00% | ~91 |
+| Enlightenment | 8.00% | ~72 |
 | Dragon Master | 7.00% | ~63 |
-| Enlightenment | 7.00% | ~63 |
 | Lieutenant | 7.00% | ~63 |
 | Natural Talent | 6.00% | ~54 |
 | The Unstoppable | 6.00% | ~54 |
@@ -49,8 +49,8 @@ Rating: 3.40 (Ranked 917)
 | Trader | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
 | Master Enchanter | 0.90% | ~8 |
+| Weekly Quest Completionist | 0.80% | ~7 |
 | Dragon Slayer | 0.70% | ~6 |
-| Weekly Quest Completionist | 0.70% | ~6 |
 | Enchanting skill | 0.60% | ~5 |
 | Engineer Mastery | 0.60% | ~5 |
 | Legendary | 0.60% | ~5 |
@@ -64,6 +64,7 @@ Rating: 3.40 (Ranked 917)
 | Tree of Life | 0.40% | ~4 |
 | Training makes a Pro player | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
+| Challenger | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |
 | Gear Enchanting | 0.20% | ~2 |
@@ -74,7 +75,6 @@ Rating: 3.40 (Ranked 917)
 | Angel Power | 0.10% | ~1 |
 | Arena Challenger | 0.10% | ~1 |
 | Cauldron Liberator | 0.10% | ~1 |
-| Challenger | 0.10% | ~1 |
 | Enchanting skill x5 | 0.10% | ~1 |
 | Jewel Enchanting | 0.10% | ~1 |
 | Silverwood liberator | 0.10% | ~1 |
