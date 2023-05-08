@@ -4490,11 +4490,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 42936,
       "NumberOfAwardsMax": 5190
+    },
+    {
+      "Time": "2023-05-08T13:59:04.9491687+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42944,
+      "NumberOfAwardsMax": 5198
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42936,
-  "NumberOfAwardsMax": 5190,
+  "NumberOfAwards": 42944,
+  "NumberOfAwardsMax": 5198,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -4525,7 +4531,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5190
+      "Count": 5198
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4564,9 +4570,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 32288,
+  "EOS_Progressed": 32317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5411,
+  "EOS_NewPlayers": 5386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6109,6 +6115,11 @@
       "Time": "2023-05-08T13:15:03.6826102+00:00",
       "NumProgressed": 32288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T14:09:33.7297551+00:00",
+      "NumProgressed": 32317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -6318,9 +6329,9 @@
       "ID": "achievement_anglophile",
       "SetID": "8p2n7he",
       "Name": "Anglophile",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_animal_kingdom",
@@ -6560,7 +6571,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1939
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -6640,7 +6651,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "achievement_colonial_management",
@@ -6736,7 +6747,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -6832,7 +6843,7 @@
       "Name": "Electable!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -6952,7 +6963,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1616
     },
     {
       "ID": "achievement_forever_golden",
@@ -7120,7 +7131,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2585
     },
     {
       "ID": "achievement_grand_coalition",
@@ -7144,7 +7155,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1939
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -7286,9 +7297,9 @@
       "ID": "achievement_industrial_powerhouse",
       "SetID": "8p2n7he",
       "Name": "Industrial Powerhouse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_inner_turmoil",
@@ -7312,7 +7323,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_italian_ambition",
@@ -7336,7 +7347,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -8056,7 +8067,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -8120,7 +8131,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1939
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -8400,7 +8411,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2585
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -8454,9 +8465,9 @@
       "ID": "achievement_the_continuation_of_diplomacy",
       "SetID": "8p2n7he",
       "Name": "The Continuation of Diplomacy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_the_five_colonies",
@@ -8464,7 +8475,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -8656,7 +8667,7 @@
       "Name": "Time Bandit",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_to_the_bone",
@@ -8712,7 +8723,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -8736,7 +8747,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_turkish_delight",
@@ -8784,7 +8795,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2909
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -8816,7 +8827,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2585
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -8951,21 +8962,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 32288,
+      "Progressed": 32317,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 32288,
+      "Progressed": 32317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-05-08T11:58:51.7561894+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:15:03.6826044+00:00",
+  "LastChanged": "2023-05-08T13:59:04.9491685+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:33.7297546+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.1468914+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:04:20.8378631+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:15:03.68415+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:59:04.9491692+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:33.7314992+00:00"
 }

@@ -9,6 +9,7 @@
 | Small-time Finder | 0.60% | ~1 |
 | Business as usual | 0.60% | ~1 |
 | A New Broom Sweeps Clean | 0.60% | ~1 |
+| The Wing and the Thigh | 0.60% | ~1 |
 | Clean Conscience | 0.60% | ~1 |
 | All the Stories | 0.00% | ~0 |
 | Total Recall | 0.00% | ~0 |
@@ -26,7 +27,6 @@
 | Bee Squat | 0.00% | ~0 |
 | The Germophobes | 0.00% | ~0 |
 | Mr. Hygeni | 0.00% | ~0 |
-| The Wing and the Thigh | 0.00% | ~0 |
 | Hackathon | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 228)  

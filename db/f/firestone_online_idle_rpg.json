@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 3.4,
   "RatingHistory": [
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 911,
+  "EOS_Progressed": 912,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1198,6 +1198,11 @@
       "Time": "2023-05-08T13:14:41.7139568+00:00",
       "NumProgressed": 911,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T14:09:12.0935797+00:00",
+      "NumProgressed": 912,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1313,7 +1318,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "dragonmaster",
@@ -1393,7 +1398,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "fourleafclover",
@@ -1455,9 +1460,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 109
     },
     {
       "ID": "howdoyouturnthison",
@@ -1481,7 +1486,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "jewelenchanting",
@@ -1545,7 +1550,7 @@
       "Name": "Miner Clicker",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "missionsdedication",
@@ -1769,7 +1774,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "warmachinesarmy",
@@ -1808,7 +1813,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 911,
+      "Progressed": 912,
       "Completed": 1
     }
   ],
@@ -1816,8 +1821,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:14:41.7139564+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:12.0935791+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:05:25.638288+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:14:41.7140395+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:00:23.0265863+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:12.0937343+00:00"
 }

@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30425,
+  "EOS_Progressed": 30427,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1513,6 +1513,11 @@
       "Time": "2023-05-08T13:15:11.1704+00:00",
       "NumProgressed": 30425,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-08T14:09:41.0922183+00:00",
+      "NumProgressed": 30427,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 14,
@@ -1540,7 +1545,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "allItems",
@@ -1548,7 +1553,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "allSecrets",
@@ -1604,7 +1609,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7606
+      "UsersEstimate": 7607
     },
     {
       "ID": "firstItem",
@@ -1612,7 +1617,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23732
+      "UsersEstimate": 23733
     },
     {
       "ID": "roots",
@@ -1620,7 +1625,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "secretItem",
@@ -1635,15 +1640,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30425,
+      "Progressed": 30427,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:15:11.1703995+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:41.092218+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.1528242+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:09:49.2603036+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:15:11.1704258+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:04:29.023394+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:41.0922376+00:00"
 }

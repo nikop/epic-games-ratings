@@ -2,14 +2,14 @@
   "ID": "c9e311e119034b25a02ed1ebfdffc0d1",
   "Name": "Anno 2070",
   "ProductSlug": "anno-2070",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 72,
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 32,
   "RatingHistory": [
     {
@@ -176,6 +176,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-08T13:59:15.6588301+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -194,8 +200,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:09.4589428+00:00",
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
-  "LastChanged": "2023-04-20T20:58:31.7434213+00:00",
+  "LastChanged": "2023-05-08T13:59:15.6588298+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:46.9461557+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:04:30.5975164+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:12:22.0574151+00:00"
+  "LastUpdate_Ratings": "2023-05-08T13:59:15.6588306+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:06:50.6624097+00:00"
 }

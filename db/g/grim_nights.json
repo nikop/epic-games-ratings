@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -149,9 +149,9 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_level3",
@@ -206,8 +206,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:14:31.1026836+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:00.8809143+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:07:33.8119992+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:14:31.1026967+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:02:26.4179608+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:00.8809339+00:00"
 }

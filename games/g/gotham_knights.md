@@ -20,6 +20,7 @@ Rating: 4.17 (Ranked 829)
 | Universal Health Scare | 0.30% | ~182 |
 | Unstoppable Force | 0.30% | ~182 |
 | Whispered Words | 0.30% | ~182 |
+| Lock and Key | 0.30% | ~182 |
 | Bad Apples in Every Orchard | 0.30% | ~182 |
 | From Inside Gotham's Walls | 0.30% | ~182 |
 | Voiceless | 0.30% | ~182 |
@@ -35,7 +36,6 @@ Rating: 4.17 (Ranked 829)
 | First Step Into the Knight | 0.20% | ~121 |
 | Knighthood | 0.20% | ~121 |
 | Loose Ends | 0.20% | ~121 |
-| Lock and Key | 0.20% | ~121 |
 | Gotham City Confidential | 0.20% | ~121 |
 | Hammer and Icicle | 0.10% | ~31 |
 | Element of Surprise | 0.10% | ~31 |
@@ -88,13 +88,13 @@ Completed: 89 (0.15%) (Ranked 141)
 | 2023-05-08 | 60,727 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,196  (Ranked 99)  
-Sum: 3,633 (Ranked 137)  
+Sum: 3,635 (Ranked 137)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,196 |
+| This game is Relaxing | 188 |
 | This game is Extremely Fun | 188 |
-| This game is Relaxing | 186 |
 | This game has Quickly Understood Controls | 185 |
 | This game has Diverse Characters | 181 |
 | This game has Amazing Characters | 178 |
@@ -182,3 +182,4 @@ Diff (max vs sum): -38
 | 2023-05-05 | 4.17 | 2,187 | 3,619 |
 | 2023-05-06 | 4.17 | 2,193 | 3,627 |
 | 2023-05-07 | 4.17 | 2,196 | 3,633 |
+| 2023-05-08 | 4.17 | 2,196 | 3,635 |

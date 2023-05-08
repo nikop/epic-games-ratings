@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 175,
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 691,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -346,6 +346,11 @@
       "Time": "2023-05-08T02:07:35.2064463+00:00",
       "NumProgressed": 690,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-08T14:08:54.0070714+00:00",
+      "NumProgressed": 691,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -437,7 +442,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -501,7 +506,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -557,7 +562,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -693,7 +698,7 @@
       "Name": "Change the Channel",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -851,9 +856,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -861,7 +866,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -900,13 +905,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 641,
+      "Progressed": 642,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 691,
       "Completed": 2
     }
   ],
@@ -914,8 +919,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-05T14:59:50.8848377+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:14:24.2528141+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:08:54.0070709+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:10:26.2569778+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:14:24.2529285+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:04:59.5386325+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:08:54.0071896+00:00"
 }

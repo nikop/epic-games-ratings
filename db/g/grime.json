@@ -426,9 +426,9 @@
       "ID": "DEFEAT_SHIDRA",
       "SetID": "ccc0dlh",
       "Name": "Inevitable",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -578,9 +578,9 @@
       "ID": "QUEST_LISTENER",
       "SetID": "72k7oh",
       "Name": "Listen",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "QUEST_YON",
@@ -608,8 +608,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:15:17.8983427+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:47.5311885+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:29.1938688+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:10:18.1392502+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:15:17.8984355+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:04:51.7117591+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:47.5312487+00:00"
 }

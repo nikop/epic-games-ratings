@@ -5,30 +5,30 @@ Rating: 3.27 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 87.00% | ~1,249 |
-| Home Is Where the Heart Is | 68.00% | ~976 |
-| Wounded Whispers | 68.00% | ~976 |
-| Ne Plus Ultra | 67.00% | ~962 |
+| I Like My Stakes Rare! | 87.00% | ~1,250 |
+| Home Is Where the Heart Is | 68.00% | ~977 |
+| Wounded Whispers | 68.00% | ~977 |
+| Ne Plus Ultra | 67.00% | ~963 |
 | Blood Will Have Blood | 55.00% | ~790 |
-| ICU | 51.00% | ~732 |
+| ICU | 51.00% | ~733 |
 | Catch and Release | 50.00% | ~718 |
 | Peek-a-boo | 49.00% | ~704 |
-| Sucks To Be You | 48.00% | ~689 |
-| Welcome to the Neighborhood | 42.00% | ~603 |
+| Sucks To Be You | 48.00% | ~690 |
+| Welcome to the Neighborhood | 42.00% | ~604 |
 | Fly Fisher | 39.00% | ~560 |
 | Throw The First Stone | 38.00% | ~546 |
 | Enter of Your Own Free Will | 36.00% | ~517 |
 | Heart Attack | 35.00% | ~503 |
 | Skin of Their Teeth | 35.00% | ~503 |
-| Grounded | 26.00% | ~373 |
-| Bad Wiring | 23.00% | ~330 |
+| Grounded | 26.00% | ~374 |
+| Bad Wiring | 23.00% | ~331 |
 | I Spit On Your Grave | 22.00% | ~316 |
 | Neighborhood Revitalization | 17.00% | ~244 |
 | Radio Silence | 17.00% | ~244 |
-| Helping Hand | 13.00% | ~187 |
+| Helping Hand | 14.00% | ~201 |
 | You Clean It Up | 12.00% | ~172 |
 | Starve the Beast | 10.00% | ~144 |
-| Block Party | 8.00% | ~115 |
+| Block Party | 9.00% | ~129 |
 | From the Shadows | 6.00% | ~86 |
 | Revelations | 4.00% | ~57 |
 | Bell-ringer | 4.00% | ~57 |
@@ -45,6 +45,7 @@ Rating: 3.27 (Ranked 919)
 | Dexterity Save | 3.00% | ~43 |
 | Scream Team | 2.00% | ~29 |
 | Blood Brother | 2.00% | ~29 |
+| Bloody Initiate | 2.00% | ~29 |
 | Harvest’s End | 2.00% | ~29 |
 | Curious Finch | 2.00% | ~29 |
 | Friends 'Til The End | 2.00% | ~29 |
@@ -52,7 +53,6 @@ Rating: 3.27 (Ranked 919)
 | Monster Hunters Club | 1.00% | ~14 |
 | Friendgineering | 1.00% | ~14 |
 | Ask Not For Whom The Horns Blow | 1.00% | ~14 |
-| Bloody Initiate | 1.00% | ~14 |
 | Under a Bushel | 1.00% | ~14 |
 | Sisterhood | 0.80% | ~11 |
 | So Anyway I Started Blasting | 0.80% | ~11 |
@@ -72,7 +72,7 @@ Rating: 3.27 (Ranked 919)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,436 (Ranked 151)  
+Progressed: 1,437 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-05 | 1,266 | 0 |
 | 2023-05-06 | 1,344 | 0 |
 | 2023-05-07 | 1,412 | 0 |
-| 2023-05-08 | 1,436 | 0 |
+| 2023-05-08 | 1,437 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

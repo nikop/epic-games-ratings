@@ -1,15 +1,15 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 622)  
+Rating: 4.44 (Ranked 621)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 35.00% | ~241 |
+| Meeting Resistance | 35.00% | ~242 |
 | Confirming Suspicions | 31.00% | ~214 |
 | The Kraken Wakes | 29.00% | ~200 |
 | It's Starting to Crack | 28.00% | ~193 |
-| Change the Channel | 25.00% | ~172 |
+| Change the Channel | 25.00% | ~173 |
 | Lord of War | 24.00% | ~166 |
 | Resourceful | 23.00% | ~159 |
 | Taking it back | 23.00% | ~159 |
@@ -19,7 +19,7 @@ Rating: 4.44 (Ranked 622)
 | As Quiet as a Mouse | 19.00% | ~131 |
 | The Kraken Sleeps | 19.00% | ~131 |
 | Liberté | 17.00% | ~117 |
-| Explosive Efficiency | 16.00% | ~110 |
+| Explosive Efficiency | 16.00% | ~111 |
 | Climbing the Ladder | 14.00% | ~97 |
 | Fields of Glory | 14.00% | ~97 |
 | Gunslinger | 14.00% | ~97 |
@@ -40,9 +40,9 @@ Rating: 4.44 (Ranked 622)
 | Rigged to Blow | 8.00% | ~55 |
 | Operation Foxley | 8.00% | ~51 |
 | Last Resort | 7.00% | ~45 |
-| Siegebreaker | 6.00% | ~38 |
-| Ghost of Falaise | 6.00% | ~38 |
-| The Long Game | 5.00% | ~34 |
+| Ghost of Falaise | 6.00% | ~39 |
+| The Long Game | 5.00% | ~35 |
+| Siegebreaker | 5.00% | ~32 |
 | Strategist | 4.00% | ~28 |
 | Tinkerer | 4.00% | ~28 |
 | Don't hold your breath | 4.00% | ~28 |
@@ -74,7 +74,7 @@ Rating: 4.44 (Ranked 622)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 690 (Ranked 175)  
+Progressed: 691 (Ranked 175)  
 Completed: 2 (0.29%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 2 (0.29%) (Ranked 121)
 | 2023-05-05 | 681 | 2 |
 | 2023-05-06 | 685 | 2 |
 | 2023-05-07 | 688 | 2 |
-| 2023-05-08 | 690 | 2 |
+| 2023-05-08 | 691 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

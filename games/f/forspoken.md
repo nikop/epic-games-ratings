@@ -7,7 +7,7 @@ Rating: 4.12 (Ranked 851)
 | ---- | ---------- | ----- |
 | Attachments | 9.00% | ~3,395 |
 | Unlocked Potential | 8.00% | ~3,018 |
-| Tinkerer | 7.00% | ~2,640 |
+| Tinkerer | 7.00% | ~2,641 |
 | Leapfrogger | 6.00% | ~2,263 |
 | Knock 'Em Dead | 6.00% | ~2,263 |
 | Pilgrimage: Initiate | 6.00% | ~2,263 |
@@ -32,8 +32,8 @@ Rating: 4.12 (Ranked 851)
 | Explorer: Pathfinder | 1.00% | ~377 |
 | Shocker | 1.00% | ~377 |
 | Pilgrimage: Novice | 1.00% | ~377 |
-| The Truth Will Out | 0.90% | ~339 |
-| Forspoken | 0.90% | ~339 |
+| The Truth Will Out | 0.90% | ~340 |
+| Forspoken | 0.90% | ~340 |
 | Wildfire | 0.60% | ~226 |
 | Realized Potential | 0.60% | ~226 |
 | Awakening | 0.50% | ~189 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 851)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,720 (Ranked 79)  
+Progressed: 37,723 (Ranked 79)  
 Completed: 1 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 1 (0.00%) (Ranked 193)
 | 2023-05-05 | 37,585 | 1 |
 | 2023-05-06 | 37,643 | 1 |
 | 2023-05-07 | 37,697 | 1 |
-| 2023-05-08 | 37,720 | 1 |
+| 2023-05-08 | 37,723 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -19,10 +19,10 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Remains](games/r/remains.md) | 7.14% |
 | 19 | [Scorn](games/s/scorn.md) | 7.11% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
-| 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.38% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
+| 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.34% |
 | 22 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.05% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.04% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 25 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -47,8 +47,8 @@
 | 45 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 46 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 47 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 48 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.73% |
+| 48 | [ZZT!](games/z/zzt!.md) | 2.77% |
+| 49 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 50 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 51 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
 | 52 | [JARS](games/j/jars.md) | 2.56% |
@@ -76,7 +76,7 @@
 | 74 | [Trifox](games/t/trifox.md) | 1.28% |
 | 75 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 76 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.22% |
-| 77 | [Late Shift](games/l/late_shift.md) | 1.20% |
+| 77 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 78 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 79 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
 | 80 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
@@ -99,7 +99,7 @@
 | 97 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.54% |
 | 98 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 99 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
-| 99 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 100 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 101 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 102 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 102 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
@@ -110,7 +110,7 @@
 | 106 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 106 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 110 | [Tchia](games/t/tchia.md) | 0.36% |
-| 111 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
+| 111 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 112 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 112 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 114 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |

@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,906 |
-| That's a Grand Army | 8.00% | ~2,583 |
-| That is mine! | 8.00% | ~2,583 |
-| Victorious! | 8.00% | ~2,583 |
-| Brothers in Arms | 6.00% | ~1,937 |
-| That's a Grand Navy | 6.00% | ~1,937 |
-| Seriously?! | 6.00% | ~1,937 |
-| For the Glory | 5.00% | ~1,614 |
-| Cold War | 4.00% | ~1,292 |
-| True Catholic | 4.00% | ~1,292 |
-| Defender of the Faith | 3.00% | ~969 |
-| It's all about the money | 3.00% | ~969 |
-| Respected | 3.00% | ~969 |
+| Until death do us apart | 9.00% | ~2,909 |
+| That's a Grand Army | 8.00% | ~2,585 |
+| That is mine! | 8.00% | ~2,585 |
+| Victorious! | 8.00% | ~2,585 |
+| Brothers in Arms | 6.00% | ~1,939 |
+| That's a Grand Navy | 6.00% | ~1,939 |
+| Seriously?! | 6.00% | ~1,939 |
+| For the Glory | 5.00% | ~1,616 |
+| Cold War | 4.00% | ~1,293 |
+| True Catholic | 4.00% | ~1,293 |
+| Defender of the Faith | 3.00% | ~970 |
+| It's all about the money | 3.00% | ~970 |
+| Respected | 3.00% | ~970 |
 | Blockader | 2.00% | ~646 |
 | Combined Arms | 2.00% | ~646 |
 | Double the Love | 2.00% | ~646 |
@@ -37,19 +37,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~323 |
 | My armies are invincible! | 1.00% | ~323 |
 | City of Cities | 0.90% | ~291 |
-| Isn't this the way to India? | 0.80% | ~258 |
-| The Five Colonies | 0.80% | ~258 |
+| Isn't this the way to India? | 0.80% | ~259 |
+| The Five Colonies | 0.80% | ~259 |
 | The Emperors new clothes | 0.70% | ~226 |
 | Market Control | 0.70% | ~226 |
 | Down Under | 0.60% | ~194 |
 | This navy can take it all | 0.60% | ~194 |
-| Electable! | 0.50% | ~161 |
-| Time Bandit | 0.50% | ~161 |
-| Trustworthy | 0.50% | ~161 |
+| Electable! | 0.50% | ~162 |
+| Time Bandit | 0.50% | ~162 |
+| Trustworthy | 0.50% | ~162 |
 | All belongs to Mother Russia | 0.40% | ~129 |
 | At every continent | 0.40% | ~129 |
 | Early-Modern Warfare | 0.40% | ~129 |
 | One Family to Rule them All | 0.40% | ~129 |
+| The Continuation of Diplomacy | 0.40% | ~129 |
 | The pen is mightier than the sword | 0.40% | ~129 |
 | This is My Faith | 0.40% | ~129 |
 | Trophy Hunter | 0.40% | ~129 |
@@ -66,7 +67,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~97 |
 | Ruina Imperii | 0.30% | ~97 |
 | Tear Down This Wall | 0.30% | ~97 |
-| The Continuation of Diplomacy | 0.30% | ~97 |
 | Traditional Player | 0.30% | ~97 |
 | Wonderful | 0.30% | ~97 |
 | A Decent Reserve | 0.20% | ~65 |
@@ -76,6 +76,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Global Hegemony | 0.20% | ~65 |
 | Grand Duchy | 0.20% | ~65 |
 | Imperio español | 0.20% | ~65 |
+| Industrial Powerhouse | 0.20% | ~65 |
 | Italian Ambition | 0.20% | ~65 |
 | Just a Little Patience | 0.20% | ~65 |
 | Magellan’s Voyage | 0.20% | ~65 |
@@ -95,6 +96,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Albania or Iberia | 0.10% | ~32 |
 | An early Reich | 0.10% | ~32 |
 | An Unlikely Candidate | 0.10% | ~32 |
+| Anglophile | 0.10% | ~32 |
 | Arabian Coffee | 0.10% | ~32 |
 | Auld Alliance Reversed | 0.10% | ~32 |
 | Avar Khaganate | 0.10% | ~32 |
@@ -159,7 +161,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ideas Guy | 0.10% | ~32 |
 | Imposter Syndrome | 0.10% | ~32 |
 | An Industrial Evolution | 0.10% | ~32 |
-| Industrial Powerhouse | 0.10% | ~32 |
 | The Iron Price | 0.10% | ~32 |
 | Je maintiendrai | 0.10% | ~32 |
 | Just Resting In My Account | 0.10% | ~32 |
@@ -275,7 +276,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | African Power | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
-| Anglophile | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Assembly Instructions Needed | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,288 (Ranked 80)  
+Progressed: 32,317 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,14 +379,14 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,288 | 0 |
+| 2023-05-08 | 32,317 | 0 |
 ## Awards
-Max (Educational): 5,190  (Ranked 60)  
-Sum: 42,936 (Ranked 27)  
+Max (Educational): 5,198  (Ranked 60)  
+Sum: 42,944 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,190 |
+| This game is Educational | 5,198 |
 | This game is Highly Recommended | 4,975 |
 | This game has Challenging Combat | 4,960 |
 | This game is Extremely Fun | 4,919 |
@@ -510,4 +510,4 @@ Diff (max vs sum): 33
 | 2023-05-05 | 4.68 | - | 5,170 | 42,780 |
 | 2023-05-06 | 4.68 | - | 5,181 | 42,857 |
 | 2023-05-07 | 4.68 | - | 5,190 | 42,931 |
-| 2023-05-08 | 4.68 | - | 5,190 | 42,936 |
+| 2023-05-08 | 4.68 | - | 5,198 | 42,944 |

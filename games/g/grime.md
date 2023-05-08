@@ -24,8 +24,8 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 8.00% | ~10 |
 | Jawstag | 8.00% | ~43 |
 | Celebration | 7.00% | ~38 |
+| Inevitable | 7.00% | ~38 |
 | Assimilation | 6.00% | ~32 |
-| Inevitable | 6.00% | ~32 |
 | Watcher | 6.00% | ~32 |
 | Predator | 6.00% | ~32 |
 | Dream | 6.00% | ~7 |
@@ -39,10 +39,10 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 4.00% | ~22 |
 | Weakness | 3.00% | ~16 |
 | Breathsmith | 3.00% | ~16 |
+| Listen | 3.00% | ~4 |
 | Proportions | 3.00% | ~16 |
 | Bloodhunter | 2.00% | ~11 |
 | Breath | 2.00% | ~11 |
-| Listen | 2.00% | ~2 |
 | Skinmaker | 1.00% | ~5 |
 | Zygote | 1.00% | ~1 |
 | Generous | 1.00% | ~5 |

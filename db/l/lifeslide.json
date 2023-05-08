@@ -4,7 +4,7 @@
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -299,8 +299,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:14:28.7148656+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:08:58.4289076+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.3147584+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:05:51.7475648+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:14:28.7149465+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:00:53.4523638+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:08:58.4289462+00:00"
 }

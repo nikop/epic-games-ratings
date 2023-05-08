@@ -45,6 +45,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 0.20% | ~29 |
 | Prestigious Expedition | 0.20% | ~29 |
 | Blood Flower Farmer | 0.20% | ~29 |
+| Victory through Prosperity | 0.20% | ~29 |
 | Feeding The People | 0.10% | ~15 |
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.10% | ~15 |
 | The Queen's Chosen | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
-| Victory through Prosperity | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,712 (Ranked 97)  

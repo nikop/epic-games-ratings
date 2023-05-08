@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.7,
   "NumberOfRatings": 20,
@@ -40,11 +40,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 290,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -54,6 +54,11 @@
     {
       "Time": "2023-05-05T16:08:21.8091414+00:00",
       "NumProgressed": 288,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T14:09:49.4500344+00:00",
+      "NumProgressed": 290,
       "NumCompleted": 1
     }
   ],
@@ -88,17 +93,17 @@
       "ID": "ach-anthropology-complete",
       "SetID": "17ih7ma",
       "Name": "Islander Understanding",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-ascension-complete",
       "SetID": "17ih7ma",
       "Name": "A Paris Sunset",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-ascension-complete-year",
@@ -106,7 +111,7 @@
       "Name": "The New Director",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -122,7 +127,7 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -162,7 +167,7 @@
       "Name": "Traveller",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -186,7 +191,7 @@
       "Name": "Iron Man",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -202,15 +207,15 @@
       "Name": "A Strange Artefact",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "ach-campaign-story3",
@@ -242,15 +247,15 @@
       "Name": "Cartographer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach-discover-locations-high",
       "SetID": "17ih7ma",
       "Name": "Discovery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-drinkingContest",
@@ -266,7 +271,7 @@
       "Name": "Fire and Flood",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach-find-treasure",
@@ -290,7 +295,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach-hardExpeditions",
@@ -314,7 +319,7 @@
       "Name": "For the Club!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach-keepHighStanding",
@@ -322,15 +327,15 @@
       "Name": "Plays Well With Others",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "ach-kill-hyenas",
@@ -346,7 +351,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach-learn-traits",
@@ -354,7 +359,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -394,7 +399,7 @@
       "Name": "Spooky!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-noEquipment",
@@ -408,9 +413,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "ach-pacifist-goals",
@@ -418,7 +423,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ach-paleMask-cure",
@@ -432,9 +437,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "ach-portal-return",
@@ -442,7 +447,7 @@
       "Name": "From Whence we Came",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach-promotion",
@@ -464,17 +469,17 @@
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ach-rideDinosaur",
       "SetID": "17ih7ma",
       "Name": "Practical Palaeontology",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ach-rob-shrines",
@@ -514,7 +519,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -536,16 +541,16 @@
       "ID": "ach-wearHat",
       "SetID": "17ih7ma",
       "Name": "Dapper",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 290,
       "Completed": 1
     }
   ],
@@ -553,8 +558,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:15:19.8680492+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:49.4500338+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:37.7226254+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:10:36.6233728+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:15:19.8681038+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:05:05.6502947+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:49.4501345+00:00"
 }

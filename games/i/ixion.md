@@ -22,8 +22,10 @@ Rating: 4.54 (Ranked 477)
 | Mutual Loyalty | 0.20% | ~4 |
 | Infinite Growth... | 0.20% | ~4 |
 | Guy de Borderlands | 0.20% | ~4 |
+| Sightseeing | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
+| All in Good Health | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
 | Hope Seeker | 0.20% | ~4 |
@@ -35,7 +37,6 @@ Rating: 4.54 (Ranked 477)
 | What They Hide From Us | 0.10% | ~2 |
 | ...  in a finite world | 0.10% | ~2 |
 | Sustainable Energy | 0.10% | ~2 |
-| Sightseeing | 0.10% | ~2 |
 | In Dolos We Trust | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
@@ -46,7 +47,6 @@ Rating: 4.54 (Ranked 477)
 | Gregor Spinoza | 0.10% | ~2 |
 | Space Greenhouse | 0.10% | ~2 |
 | Tiqqun Unchained | 0.10% | ~2 |
-| All in Good Health | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
 | What the Ruins Teach Us | 0.10% | ~2 |

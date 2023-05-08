@@ -4,7 +4,7 @@
   "ProductSlug": "love-3-c2516f",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
   "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.6576509+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:08:19.5733399+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:13:12.6063748+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:03:08.9118271+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:07:42.1885747+00:00"
 }

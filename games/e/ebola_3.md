@@ -25,13 +25,13 @@
 | Alice ✔ | 4.00% | ~6 |
 | Brain ✔ | 4.00% | ~6 |
 | Eva ✔ | 4.00% | ~6 |
+| Food ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
 | Infected ✔ | 4.00% | ~6 |
 | All secrets revealed ✔ | 4.00% | ~6 |
 | Boss 1 ✔ | 3.00% | ~5 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
-| Food ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
 | Mutant fight ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |

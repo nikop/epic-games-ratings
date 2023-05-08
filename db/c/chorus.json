@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.47,
   "NumberOfRatings": 58,
@@ -260,9 +260,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -380,6 +380,11 @@
       "Time": "2023-05-07T15:06:49.0583682+00:00",
       "NumProgressed": 850,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-08T14:09:40.0155463+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -391,7 +396,7 @@
       "Name": "Demigod",
       "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "DieInPermadeath",
@@ -407,7 +412,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Finish5SideMissions",
@@ -415,7 +420,7 @@
       "Name": "Helping Hand",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "FinishAllSideMissions",
@@ -423,7 +428,7 @@
       "Name": "Paragon",
       "Percentage": 64,
       "XP": 70,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "GatlingVsArmor",
@@ -431,7 +436,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Kill3InOneDrift",
@@ -447,7 +452,7 @@
       "Name": "Born to Drift",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "KillWithALargeShip",
@@ -495,7 +500,7 @@
       "Name": "Retaliate",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "MissionAncientRitual",
@@ -519,7 +524,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -535,7 +540,7 @@
       "Name": "Full Arsenal",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "MissionEosReturn",
@@ -575,7 +580,7 @@
       "Name": "Safe Home",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -591,7 +596,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -599,7 +604,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "MissionSalvage",
@@ -607,7 +612,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "MissionScavengingJob",
@@ -615,7 +620,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "MissionShipyard",
@@ -639,7 +644,7 @@
       "Name": "Disruption",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -655,7 +660,7 @@
       "Name": "Origin",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "Overcharge",
@@ -687,7 +692,7 @@
       "Name": "Huntress",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "RiteOfTheStar",
@@ -709,9 +714,9 @@
       "ID": "UseRepairDrones",
       "SetID": "a6c395p",
       "Name": "Phoenix",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 383
     },
     {
       "ID": "VisitAllLocations",
@@ -727,22 +732,22 @@
       "Name": "Relentless",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:15:09.8855629+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:40.0155458+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.0894109+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:09:16.0690195+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:15:09.8855978+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:04:02.793282+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:40.0156048+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -233,6 +233,11 @@
       "Time": "2023-05-08T11:08:21.0502025+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T14:09:12.9647508+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -290,7 +295,7 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 27
     },
@@ -298,7 +303,7 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 25
     },
@@ -378,7 +383,7 @@
       "ID": "Level10",
       "SetID": "d1bm05f",
       "Name": "Sous-Chef",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -418,7 +423,7 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 87,
+      "Percentage": 85,
       "XP": 15,
       "UsersEstimate": 52
     },
@@ -442,7 +447,7 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -498,7 +503,7 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 28
     },
@@ -563,7 +568,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
@@ -571,8 +576,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:14:42.6342872+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:12.9647502+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:42.4678268+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:06:20.1072041+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:14:42.6343193+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:01:14.4266191+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:12.9648051+00:00"
 }

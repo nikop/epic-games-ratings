@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So far so good... | 89.00% | ~8 |
-| Getting somewhere | 67.00% | ~6 |
+| Getting somewhere | 78.00% | ~7 |
 | Top notch! | 67.00% | ~6 |
 | Slay it! | 56.00% | ~5 |
 | Bling bling! | 56.00% | ~5 |

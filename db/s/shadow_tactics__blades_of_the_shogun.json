@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.66,
   "NumberOfRatings": 495,
@@ -1037,9 +1037,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 165667,
+  "EOS_Progressed": 165677,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2181,
+  "EOS_NewPlayers": 2163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2587,6 +2587,11 @@
       "Time": "2023-05-08T13:14:51.0220411+00:00",
       "NumProgressed": 165667,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-08T14:09:21.1662859+00:00",
+      "NumProgressed": 165677,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 44,
@@ -2622,7 +2627,7 @@
       "Name": "Chunin",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8283
+      "UsersEstimate": 8284
     },
     {
       "ID": "CompleteMastery",
@@ -2638,7 +2643,7 @@
       "Name": "Disguised",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9940
+      "UsersEstimate": 9941
     },
     {
       "ID": "FiveShadows",
@@ -2670,7 +2675,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16567
+      "UsersEstimate": 16568
     },
     {
       "ID": "HappyLittleAccidents",
@@ -2702,7 +2707,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8283
+      "UsersEstimate": 8284
     },
     {
       "ID": "ItsRainingMen",
@@ -2710,7 +2715,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "Jonin",
@@ -2718,7 +2723,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9940
+      "UsersEstimate": 9941
     },
     {
       "ID": "Mercyful",
@@ -2814,7 +2819,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9940
+      "UsersEstimate": 9941
     },
     {
       "ID": "Rollin",
@@ -2822,7 +2827,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9940
+      "UsersEstimate": 9941
     },
     {
       "ID": "StillRollin",
@@ -2838,7 +2843,7 @@
       "Name": "Stoned",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "StonedOx",
@@ -2846,7 +2851,7 @@
       "Name": "Stoned Ox",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8283
+      "UsersEstimate": 8284
     },
     {
       "ID": "TanukiTime",
@@ -2878,7 +2883,7 @@
       "Name": "The Old Way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "Thorough",
@@ -2886,7 +2891,7 @@
       "Name": "Thorough",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13253
+      "UsersEstimate": 13254
     },
     {
       "ID": "TimeParadox",
@@ -2942,22 +2947,22 @@
       "Name": "Yabu",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 8283
+      "UsersEstimate": 8284
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 165667,
+      "Progressed": 165677,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-05-08T08:00:28.9424283+00:00",
-  "LastChanged_Achievements": "2023-05-08T13:14:51.0220238+00:00",
+  "LastChanged_Achievements": "2023-05-08T14:09:21.1662851+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:09.8632245+00:00",
-  "LastUpdate_Ratings": "2023-05-08T13:07:13.9753192+00:00",
-  "LastUpdate_Achievements": "2023-05-08T13:14:51.022143+00:00"
+  "LastUpdate_Ratings": "2023-05-08T14:02:11.148186+00:00",
+  "LastUpdate_Achievements": "2023-05-08T14:09:21.1663941+00:00"
 }
