@@ -21,9 +21,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
 | Ancient Battleground | 0.50% | ~74 |
+| Sparkdew Crystals | 0.50% | ~74 |
 | Royal Outpost | 0.50% | ~74 |
 | Cursed Lands | 0.50% | ~74 |
-| Sparkdew Crystals | 0.40% | ~59 |
 | Dangerous Lands | 0.40% | ~59 |
 | Haunted Forest | 0.40% | ~59 |
 | Levitating Monument | 0.40% | ~59 |

@@ -6,7 +6,7 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 0.70% | ~35 |
+| A Friend in Need... | 0.80% | ~40 |
 | Smooth Operator: Madison | 0.60% | ~30 |
 | Drunk and Disorderly: Stephanie | 0.40% | ~20 |
 | Katherine | 0.40% | ~20 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Derezzed | 0.00% | ~0 |
 | Simple Geometry | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,944 (Ranked 122)  
+Progressed: 4,946 (Ranked 122)  
 Completed: 2 (0.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 2 (0.04%) (Ranked 170)
 | 2023-05-05 | 4,940 | 2 |
 | 2023-05-06 | 4,941 | 2 |
 | 2023-05-07 | 4,943 | 2 |
-| 2023-05-08 | 4,944 | 2 |
+| 2023-05-08 | 4,946 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

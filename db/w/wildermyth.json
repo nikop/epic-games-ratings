@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.77,
   "NumberOfRatings": 45,
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1146,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -281,6 +281,11 @@
       "Time": "2023-05-08T02:07:44.5268863+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-08T22:06:28.2107028+00:00",
+      "NumProgressed": 1146,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -380,7 +385,7 @@
       "Name": "Completing the Look",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -436,7 +441,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -452,7 +457,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -532,7 +537,7 @@
       "Name": "War Endured",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "completedStory_legacy",
@@ -554,9 +559,9 @@
       "ID": "completedStory_procedural",
       "SetID": "95dc8p",
       "Name": "A Story of Heroes",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 57
     },
     {
       "ID": "completedStory_ulstryx",
@@ -739,15 +744,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1146,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-08T21:06:45.5917639+00:00",
+  "LastChanged_Achievements": "2023-05-08T22:06:28.2107023+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-08T21:02:14.3011825+00:00",
-  "LastUpdate_Achievements": "2023-05-08T21:06:45.5918014+00:00"
+  "LastUpdate_Ratings": "2023-05-08T22:01:40.7663017+00:00",
+  "LastUpdate_Achievements": "2023-05-08T22:06:28.2107432+00:00"
 }

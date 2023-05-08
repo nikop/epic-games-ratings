@@ -6,29 +6,29 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,146 |
-| Right Back At Ya | 37.00% | ~295,528 |
-| The Lovers | 32.00% | ~255,592 |
-| Stanislavski's Method | 27.00% | ~215,656 |
-| The Wheel of Fortune | 25.00% | ~199,681 |
+| The Fool | 67.00% | ~535,148 |
+| Right Back At Ya | 37.00% | ~295,530 |
+| The Lovers | 32.00% | ~255,593 |
+| Stanislavski's Method | 27.00% | ~215,657 |
+| The Wheel of Fortune | 25.00% | ~199,682 |
 | The Hermit | 22.00% | ~175,720 |
 | True Soldier | 22.00% | ~175,720 |
-| Christmas Tree Attack | 21.00% | ~167,732 |
-| The High Priestess | 20.00% | ~159,745 |
-| Legend of The Afterlife | 20.00% | ~159,745 |
-| Life of the Road | 19.00% | ~151,758 |
-| Full Body Conversion | 17.00% | ~135,783 |
-| The World | 16.00% | ~127,796 |
+| Christmas Tree Attack | 21.00% | ~167,733 |
+| The High Priestess | 20.00% | ~159,746 |
+| Legend of The Afterlife | 20.00% | ~159,746 |
+| Life of the Road | 19.00% | ~151,759 |
+| Full Body Conversion | 17.00% | ~135,784 |
+| The World | 16.00% | ~127,797 |
 | Bushido and Chill | 15.00% | ~119,809 |
 | True Warrior | 14.00% | ~111,822 |
-| To Protect and Serve | 13.00% | ~103,834 |
-| Gun Fu | 13.00% | ~103,834 |
-| Master Crafter | 13.00% | ~103,834 |
-| I Am The Law | 13.00% | ~103,834 |
-| Judy vs Night City | 13.00% | ~103,834 |
+| To Protect and Serve | 13.00% | ~103,835 |
+| Gun Fu | 13.00% | ~103,835 |
+| Master Crafter | 13.00% | ~103,835 |
+| I Am The Law | 13.00% | ~103,835 |
+| Judy vs Night City | 13.00% | ~103,835 |
 | Two Heads, One Bullet | 11.00% | ~87,860 |
-| The Wandering Fool | 9.00% | ~71,885 |
-| The Quick and the Dead | 9.00% | ~71,885 |
+| The Wandering Fool | 9.00% | ~71,886 |
+| The Quick and the Dead | 9.00% | ~71,886 |
 | Ten out of Ten | 8.00% | ~63,898 |
 | Breathtaking | 7.00% | ~55,911 |
 | To Bad Decisions! | 6.00% | ~47,924 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~23,962 |
 | V for Vendetta | 3.00% | ~23,962 |
 | It's Elementary | 3.00% | ~23,962 |
-| Autojock | 2.00% | ~15,974 |
-| The Wasteland | 2.00% | ~15,974 |
-| Daemon In The Shell | 2.00% | ~15,974 |
-| The Devil | 2.00% | ~15,974 |
+| Autojock | 2.00% | ~15,975 |
+| The Wasteland | 2.00% | ~15,975 |
+| Daemon In The Shell | 2.00% | ~15,975 |
+| The Devil | 2.00% | ~15,975 |
 | Gunslinger | 1.00% | ~7,987 |
 | Rough Landing | 0.40% | ~3,195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,725 (Ranked 11)  
+Progressed: 798,729 (Ranked 11)  
 Completed: 1,580 (0.20%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,23 +69,23 @@ Completed: 1,580 (0.20%) (Ranked 133)
 | 2023-05-05 | 798,086 | 1,570 |
 | 2023-05-06 | 798,340 | 1,574 |
 | 2023-05-07 | 798,560 | 1,577 |
-| 2023-05-08 | 798,725 | 1,580 |
+| 2023-05-08 | 798,729 | 1,580 |
 ## Awards
 Max (Character Customization): 63,846  (Ranked 9)  
-Sum: 167,131 (Ranked 13)  
+Sum: 167,148 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 63,846 |
 | This game has Great Boss Battles | 41,026 |
-| This game has Amazing Storytelling | 7,350 |
+| This game has Amazing Storytelling | 7,360 |
 | This game is Great for Beginners | 7,289 |
 | This game has Diverse Characters | 7,285 |
 | This game is Extremely Fun | 7,234 |
 | This game is Relaxing | 7,198 |
 | This game is Highly Recommended | 7,184 |
 | This game has Quickly Understood Controls | 7,057 |
-| This game has Amazing Characters | 6,990 |
+| This game has Amazing Characters | 6,997 |
 | This game has a Creative Community | 4,672 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -199,4 +199,4 @@ Diff (max vs sum): -4
 | 2023-05-05 | 4.62 | - | 63,632 | 166,407 |
 | 2023-05-06 | 4.62 | - | 63,694 | 166,634 |
 | 2023-05-07 | 4.62 | - | 63,762 | 166,902 |
-| 2023-05-08 | 4.62 | - | 63,846 | 167,131 |
+| 2023-05-08 | 4.62 | - | 63,846 | 167,148 |

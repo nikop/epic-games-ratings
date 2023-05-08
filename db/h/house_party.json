@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.32,
   "NumberOfRatings": 177,
@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4944,
+  "EOS_Progressed": 4946,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -562,6 +562,11 @@
       "Time": "2023-05-08T12:05:29.4959594+00:00",
       "NumProgressed": 4944,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-08T22:01:44.7608396+00:00",
+      "NumProgressed": 4946,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 69,
@@ -747,9 +752,9 @@
       "ID": "FriendInNeed",
       "SetID": "bmkn7o4",
       "Name": "A Friend in Need...",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "GoodRiddance",
@@ -1124,21 +1129,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 1983,
+      "Progressed": 1985,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 4944,
+      "Progressed": 4946,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-08T21:02:17.8272897+00:00",
+  "LastChanged_Achievements": "2023-05-08T22:01:44.7608202+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:45.4094103+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:58:36.7382069+00:00",
-  "LastUpdate_Achievements": "2023-05-08T21:02:17.8296888+00:00"
+  "LastUpdate_Ratings": "2023-05-08T21:58:43.0135145+00:00",
+  "LastUpdate_Achievements": "2023-05-08T22:01:44.7627836+00:00"
 }

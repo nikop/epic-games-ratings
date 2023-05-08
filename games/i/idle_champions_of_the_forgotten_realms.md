@@ -12,8 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 0.90% | ~479 |
 | The Cursed Farmer | 0.80% | ~695 |
 | Bully for Vecna | 0.70% | ~372 |
+| The Mad Wizard | 0.70% | ~608 |
 | Beast Intentions | 0.60% | ~521 |
-| The Mad Wizard | 0.60% | ~521 |
 | The Ring of Regeneration | 0.50% | ~435 |
 | Were-verpowered | 0.40% | ~348 |
 | Seeking Allies | 0.40% | ~348 |
@@ -71,7 +71,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.20% | ~174 |
 | The Mists of Ravenloft | 0.20% | ~174 |
 | Invisible Shadows | 0.20% | ~174 |
+| Family Entanglements | 0.20% | ~174 |
 | The Dinner Party | 0.20% | ~174 |
+| Chatty Nobles | 0.20% | ~174 |
 | The Botched Kidnapping | 0.20% | ~174 |
 | Haaave You Met Asmodeus? | 0.20% | ~174 |
 | Tower on the Lake | 0.20% | ~174 |
@@ -231,11 +233,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.10% | ~87 |
 | Werewolves in the Mist | 0.10% | ~87 |
 | We're not in Faerûn Anymore | 0.10% | ~87 |
-| Family Entanglements | 0.10% | ~87 |
 | Haunted Fortunes | 0.10% | ~87 |
 | Poor Fortune | 0.10% | ~87 |
 | Relentless Misfortune | 0.10% | ~87 |
-| Chatty Nobles | 0.10% | ~87 |
 | Modron Assistance | 0.10% | ~87 |
 | Thine Bounty is Mine! | 0.10% | ~53 |
 | Domesticated Owlbears | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,903 (Ranked 59)  
+Progressed: 86,907 (Ranked 59)  
 Completed: 1,816 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,816 (2.09%) (Ranked 58)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,903 | 1,816 |
+| 2023-05-08 | 86,907 | 1,816 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,833 (Ranked 37)  

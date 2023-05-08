@@ -918,7 +918,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21642,
+  "EOS_Progressed": 21643,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": -1,
@@ -2163,6 +2163,11 @@
       "Time": "2023-05-08T20:07:38.5645845+00:00",
       "NumProgressed": 21642,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-08T22:06:40.7665711+00:00",
+      "NumProgressed": 21643,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 51,
@@ -2174,7 +2179,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16015
+      "UsersEstimate": 16016
     },
     {
       "ID": "Animated",
@@ -2182,7 +2187,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "Back_Off",
@@ -2198,7 +2203,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5844
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -2230,7 +2235,7 @@
       "Name": "Collector",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "Cultured",
@@ -2238,7 +2243,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11470
+      "UsersEstimate": 11471
     },
     {
       "ID": "Daily_Dose",
@@ -2262,7 +2267,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13634
+      "UsersEstimate": 13635
     },
     {
       "ID": "Dont_Need_These",
@@ -2286,7 +2291,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 14067
+      "UsersEstimate": 14068
     },
     {
       "ID": "Escape_Artist",
@@ -2310,7 +2315,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 11903
+      "UsersEstimate": 11904
     },
     {
       "ID": "GB_In_Training",
@@ -2390,7 +2395,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5844
     },
     {
       "ID": "Reckless",
@@ -2406,7 +2411,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "Rift_Seeker",
@@ -2422,7 +2427,7 @@
       "Name": "Right back at ya",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5844
     },
     {
       "ID": "Rivalry",
@@ -2454,7 +2459,7 @@
       "Name": "Skilled",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "Solo_Capture",
@@ -2462,7 +2467,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6925
+      "UsersEstimate": 6926
     },
     {
       "ID": "Stunner",
@@ -2470,7 +2475,7 @@
       "Name": "Stunner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5844
     },
     {
       "ID": "Stylish",
@@ -2486,7 +2491,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5844
     },
     {
       "ID": "Surprise",
@@ -2534,7 +2539,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9522
+      "UsersEstimate": 9523
     },
     {
       "ID": "Tobins_Prodigy",
@@ -2581,7 +2586,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21642,
+      "Progressed": 21643,
       "Completed": 39
     }
   ],
@@ -2589,8 +2594,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-07T19:00:31.0753657+00:00",
-  "LastChanged_Achievements": "2023-05-08T21:06:59.5856983+00:00",
+  "LastChanged_Achievements": "2023-05-08T22:06:40.7665704+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.5642365+00:00",
-  "LastUpdate_Ratings": "2023-05-08T21:00:18.8287147+00:00",
-  "LastUpdate_Achievements": "2023-05-08T21:06:59.5857867+00:00"
+  "LastUpdate_Ratings": "2023-05-08T22:00:09.2671562+00:00",
+  "LastUpdate_Achievements": "2023-05-08T22:06:40.7666164+00:00"
 }

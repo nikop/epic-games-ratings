@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "RatingHistory": [
     {
       "Time": "2023-05-02T17:00:06.0264313+00:00",
@@ -289,9 +289,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "easy_victory",
@@ -305,9 +305,9 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -385,9 +385,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "scrap_collector",
@@ -474,8 +474,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-08T21:07:13.4571273+00:00",
+  "LastChanged_Achievements": "2023-05-08T22:06:52.5039685+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-08T21:01:32.7944321+00:00",
-  "LastUpdate_Achievements": "2023-05-08T21:07:13.4571649+00:00"
+  "LastUpdate_Ratings": "2023-05-08T22:01:07.6027196+00:00",
+  "LastUpdate_Achievements": "2023-05-08T22:06:52.5039891+00:00"
 }

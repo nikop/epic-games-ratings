@@ -12,7 +12,7 @@
 | Exam Practice | 13.00% | ~35 |
 | In The Honor Roll | 10.00% | ~27 |
 | Byoing | 7.00% | ~19 |
-| 2nd Grade | 2.00% | ~5 |
+| 2nd Grade | 3.00% | ~8 |
 | Full House | 0.70% | ~2 |
 | 3rd Grade | 0.70% | ~2 |
 | "A" Student | 0.40% | ~1 |

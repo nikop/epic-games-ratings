@@ -9,9 +9,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2382,
+  "EOS_Progressed": 2383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1079,6 +1079,11 @@
       "Time": "2023-05-08T21:06:55.5004338+00:00",
       "NumProgressed": 2382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T22:06:37.121761+00:00",
+      "NumProgressed": 2383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1090,7 +1095,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "10",
@@ -1281,13 +1286,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2382,
+      "Progressed": 2383,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-08T21:06:55.5004333+00:00",
+  "LastChanged_Achievements": "2023-05-08T22:06:37.1217605+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-08T21:00:17.7584774+00:00",
-  "LastUpdate_Achievements": "2023-05-08T21:06:55.5004758+00:00"
+  "LastUpdate_Ratings": "2023-05-08T22:00:08.5768012+00:00",
+  "LastUpdate_Achievements": "2023-05-08T22:06:37.1217802+00:00"
 }

@@ -3590,9 +3590,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86903,
+  "EOS_Progressed": 86907,
   "EOS_Completed": 1816,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5135,6 +5135,11 @@
       "Time": "2023-05-08T21:07:27.0146071+00:00",
       "NumProgressed": 86903,
       "NumCompleted": 1816
+    },
+    {
+      "Time": "2023-05-08T22:07:04.4794357+00:00",
+      "NumProgressed": 86907,
+      "NumCompleted": 1816
     }
   ],
   "TotalAchievements": 489,
@@ -6528,9 +6533,9 @@
       "ID": "objective_completed_213",
       "SetID": "cc37lbc",
       "Name": "Family Entanglements",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_214",
@@ -6568,9 +6573,9 @@
       "ID": "objective_completed_231",
       "SetID": "cc37lbc",
       "Name": "Chatty Nobles",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_232",
@@ -8288,9 +8293,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 608
     },
     {
       "ID": "objective_completed_70",
@@ -9057,21 +9062,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53177,
+      "Progressed": 53181,
       "Completed": 2481
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86903,
+      "Progressed": 86907,
       "Completed": 1816
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-08T19:59:47.9457647+00:00",
-  "LastChanged_Achievements": "2023-05-08T21:07:27.0146064+00:00",
+  "LastChanged_Achievements": "2023-05-08T22:07:04.479435+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:59:23.118194+00:00",
-  "LastUpdate_Achievements": "2023-05-08T21:07:27.0175232+00:00"
+  "LastUpdate_Ratings": "2023-05-08T21:59:22.0671799+00:00",
+  "LastUpdate_Achievements": "2023-05-08T22:07:04.4816529+00:00"
 }

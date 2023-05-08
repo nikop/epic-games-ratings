@@ -6,30 +6,30 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 79.00% | ~3,373 |
-| Sword Runner | 62.00% | ~2,647 |
-| Wallrunner | 58.00% | ~2,477 |
-| Running out of breath | 57.00% | ~2,434 |
-| Homerunner | 47.00% | ~2,007 |
-| Out of order | 47.00% | ~2,007 |
-| I call it luck | 46.00% | ~1,964 |
-| Where are my Keys? | 44.00% | ~1,879 |
-| Back to hell | 39.00% | ~1,665 |
+| Longrunner | 79.00% | ~3,375 |
+| Sword Runner | 62.00% | ~2,649 |
+| Wallrunner | 58.00% | ~2,478 |
+| Running out of breath | 57.00% | ~2,435 |
+| Homerunner | 47.00% | ~2,008 |
+| Out of order | 47.00% | ~2,008 |
+| I call it luck | 46.00% | ~1,965 |
+| Where are my Keys? | 44.00% | ~1,880 |
+| Back to hell | 39.00% | ~1,666 |
 | Perfection | 34.00% | ~1,452 |
-| Sword to a gunfight | 32.00% | ~1,366 |
-| Why not both | 32.00% | ~1,366 |
-| Artificial selection | 30.00% | ~1,281 |
-| Control freak | 30.00% | ~1,281 |
-| Running Wild | 30.00% | ~1,281 |
-| Upgrades not mandatory | 30.00% | ~1,281 |
+| Sword to a gunfight | 32.00% | ~1,367 |
+| Why not both | 32.00% | ~1,367 |
+| Artificial selection | 30.00% | ~1,282 |
+| Control freak | 30.00% | ~1,282 |
+| Running Wild | 30.00% | ~1,282 |
+| Upgrades not mandatory | 30.00% | ~1,282 |
 | Finish line | 28.00% | ~1,196 |
 | Unstoppable force | 24.00% | ~1,025 |
-| Wave of mutilation | 23.00% | ~982 |
+| Wave of mutilation | 23.00% | ~983 |
 | Can't Run Can't Hide | 20.00% | ~854 |
-| R is for Running | 19.00% | ~811 |
+| R is for Running | 19.00% | ~812 |
 | Dead in the air | 17.00% | ~726 |
-| Improvise, adapt, overrun | 15.00% | ~640 |
-| Pre-empative strike | 15.00% | ~640 |
+| Improvise, adapt, overrun | 15.00% | ~641 |
+| Pre-empative strike | 15.00% | ~641 |
 | More than human | 14.00% | ~598 |
 | Strike | 13.00% | ~555 |
 | Triple A | 10.00% | ~427 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~21 |
 | Up Close And Personal | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,270 (Ranked 125)  
+Progressed: 4,272 (Ranked 125)  
 Completed: 21 (0.49%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 21 (0.49%) (Ranked 101)
 | 2023-05-05 | 3,981 | 20 |
 | 2023-05-06 | 4,083 | 20 |
 | 2023-05-07 | 4,199 | 21 |
-| 2023-05-08 | 4,270 | 21 |
+| 2023-05-08 | 4,272 | 21 |
 ## Awards
 Max (Great Boss Battles): 455  (Ranked 188)  
 Sum: 587 (Ranked 280)  

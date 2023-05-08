@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 34,
   "Rating": 4.77,
   "RatingHistory": [
@@ -122,9 +122,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5611,
+  "EOS_Progressed": 5613,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1082,6 +1082,11 @@
       "Time": "2023-05-08T21:06:39.8348828+00:00",
       "NumProgressed": 5611,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-08T22:06:23.0195845+00:00",
+      "NumProgressed": 5613,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1173,7 +1178,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "HISTORIAN",
@@ -1205,7 +1210,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "LIVE_WIRE",
@@ -1213,7 +1218,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "SHREDDER",
@@ -1245,7 +1250,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "THING",
@@ -1260,7 +1265,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5611,
+      "Progressed": 5613,
       "Completed": 20
     }
   ],
@@ -1268,8 +1273,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-08T21:06:39.8348824+00:00",
+  "LastChanged_Achievements": "2023-05-08T22:06:23.0195841+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:59:17.6291189+00:00",
-  "LastUpdate_Achievements": "2023-05-08T21:06:39.8349058+00:00"
+  "LastUpdate_Ratings": "2023-05-08T21:59:17.0806186+00:00",
+  "LastUpdate_Achievements": "2023-05-08T22:06:23.0196029+00:00"
 }

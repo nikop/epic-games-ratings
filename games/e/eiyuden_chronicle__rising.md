@@ -33,8 +33,8 @@ Number of Ratings: 48  (23.09.2022)
 | The Runebarrows...On Foot! | 28.00% | ~186 |
 | The Snowpeak...On Foot! | 27.00% | ~180 |
 | The Lava Ruins...On Foot! | 27.00% | ~180 |
+| Meat Master | 26.00% | ~173 |
 | Fishing Master | 25.00% | ~166 |
-| Meat Master | 25.00% | ~166 |
 | Armor Master | 24.00% | ~160 |
 | The Pride of the Town | 23.00% | ~153 |
 | New Nevaeh's Number One Customer | 21.00% | ~140 |

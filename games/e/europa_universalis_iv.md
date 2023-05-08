@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,934 |
-| That's a Grand Army | 8.00% | ~2,608 |
-| That is mine! | 8.00% | ~2,608 |
-| Victorious! | 8.00% | ~2,608 |
-| Brothers in Arms | 6.00% | ~1,956 |
-| That's a Grand Navy | 6.00% | ~1,956 |
-| Seriously?! | 6.00% | ~1,956 |
-| For the Glory | 5.00% | ~1,630 |
-| Cold War | 4.00% | ~1,304 |
-| True Catholic | 4.00% | ~1,304 |
+| Until death do us apart | 9.00% | ~2,935 |
+| That's a Grand Army | 8.00% | ~2,609 |
+| That is mine! | 8.00% | ~2,609 |
+| Victorious! | 8.00% | ~2,609 |
+| Brothers in Arms | 6.00% | ~1,957 |
+| That's a Grand Navy | 6.00% | ~1,957 |
+| Seriously?! | 6.00% | ~1,957 |
+| For the Glory | 5.00% | ~1,631 |
+| Cold War | 4.00% | ~1,305 |
+| True Catholic | 4.00% | ~1,305 |
 | Defender of the Faith | 3.00% | ~978 |
 | It's all about the money | 3.00% | ~978 |
 | Respected | 3.00% | ~978 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,598 (Ranked 80)  
+Progressed: 32,615 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,598 | 0 |
+| 2023-05-08 | 32,615 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
 Sum: 42,973 (Ranked 27)  

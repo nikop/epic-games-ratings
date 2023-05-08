@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 104.00% | ~28 |
 | First Blood | 67.00% | ~18 |
-| No Asperascope | 56.00% | ~15 |
-| Triple Kill | 56.00% | ~15 |
-| Cornivore | 56.00% | ~15 |
+| Triple Kill | 63.00% | ~17 |
+| Cornivore | 63.00% | ~17 |
+| No Asperascope | 59.00% | ~16 |
 | Drinking Problem | 26.00% | ~7 |
 | 10K | 26.00% | ~7 |
 | 15K | 22.00% | ~6 |
@@ -23,6 +23,7 @@
 | Bring Home The Bacon | 7.00% | ~2 |
 | Chick Magnet | 7.00% | ~2 |
 | Early Bird | 7.00% | ~2 |
+| Pum-King | 7.00% | ~2 |
 | Carrocketeer | 7.00% | ~2 |
 | 15 Days | 4.00% | ~1 |
 | Honk Honk | 4.00% | ~1 |
@@ -35,9 +36,9 @@
 | Pro M6Beaner | 4.00% | ~1 |
 | Pro Peavolver | 4.00% | ~1 |
 | Pro Carrocketeer | 4.00% | ~1 |
+| Pro Shotgunner | 4.00% | ~1 |
 | Pro Sniperagus | 4.00% | ~1 |
 | Unstoppable | 4.00% | ~1 |
-| Pum-King | 4.00% | ~1 |
 | 30 Days | 0.00% | ~0 |
 | I Believe I Can Fly | 0.00% | ~0 |
 | Prestige 1 - Farmhand | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | Pro Gromato | 0.00% | ~0 |
 | Pro Pineappler | 0.00% | ~0 |
 | Pro Moolotover | 0.00% | ~0 |
-| Pro Shotgunner | 0.00% | ~0 |
 | Pro Digger | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

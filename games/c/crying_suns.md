@@ -6,10 +6,10 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,989 |
+| The Shutdown | 66.00% | ~301,990 |
 | Jeef Skeejj | 44.00% | ~201,326 |
 | Careful planning | 39.00% | ~178,448 |
-| Second Coming | 33.00% | ~150,994 |
+| Second Coming | 33.00% | ~150,995 |
 | Jeef Skagg | 30.00% | ~137,268 |
 | Mother | 25.00% | ~114,390 |
 | In space, no one can hear you scream | 23.00% | ~105,239 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | May His passing cleanse the world | 15.00% | ~68,634 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,634 |
 | Pope Zenon | 15.00% | ~68,634 |
-| Tetsuo | 11.00% | ~50,331 |
-| Plan for the worst | 11.00% | ~50,331 |
+| Tetsuo | 11.00% | ~50,332 |
+| Plan for the worst | 11.00% | ~50,332 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,756 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,605 |
 | Through the mirror | 8.00% | ~36,605 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,559 (Ranked 28)  
+Progressed: 457,560 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 14 (0.00%) (Ranked 194)
 | 2023-05-05 | 457,303 | 14 |
 | 2023-05-06 | 457,393 | 14 |
 | 2023-05-07 | 457,494 | 14 |
-| 2023-05-08 | 457,559 | 14 |
+| 2023-05-08 | 457,560 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  
