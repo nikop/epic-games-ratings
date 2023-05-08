@@ -16,6 +16,7 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 0.30% | ~15 |
 | Caught in the Act | 0.20% | ~10 |
 | IRL Let's Player | 0.20% | ~10 |
+| Smooth Operator: Ashley | 0.20% | ~10 |
 | The Crush | 0.20% | ~10 |
 | Amy | 0.10% | ~5 |
 | Amy: Scavenger Hunt | 0.10% | ~5 |
@@ -46,7 +47,6 @@ Number of Ratings: 177  (23.09.2022)
 | Rule 34 | 0.10% | ~5 |
 | Rachael | 0.10% | ~5 |
 | Ronin | 0.10% | ~5 |
-| Smooth Operator: Ashley | 0.10% | ~5 |
 | Do You Smell Blood? | 0.10% | ~5 |
 | Social Butterfly | 0.10% | ~5 |
 | Stephanie | 0.10% | ~5 |

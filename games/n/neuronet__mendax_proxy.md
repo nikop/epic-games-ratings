@@ -11,14 +11,14 @@
 | The Birds and the Bees | 56.00% | ~9 |
 | Vaccinated | 44.00% | ~7 |
 | Warning: Fragile | 44.00% | ~7 |
+| Busybody | 38.00% | ~6 |
 | Shook Up | 38.00% | ~6 |
 | Task Master | 38.00% | ~6 |
 | An Acquired Taste | 31.00% | ~5 |
-| Busybody | 31.00% | ~5 |
 | Everyone Needs a Break | 31.00% | ~5 |
 | Job Creator | 31.00% | ~5 |
+| A Real Headache | 25.00% | ~4 |
 | A Light in the Dark | 25.00% | ~4 |
-| A Real Headache | 19.00% | ~3 |
 | A Total Riot | 19.00% | ~3 |
 | The Guardian | 19.00% | ~3 |
 | Blood Begets Blood | 19.00% | ~3 |

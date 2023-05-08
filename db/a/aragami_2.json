@@ -204,9 +204,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32018,
+  "EOS_Progressed": 32019,
   "EOS_Completed": 148,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1529,6 +1529,11 @@
       "Time": "2023-05-08T20:07:09.6833104+00:00",
       "NumProgressed": 32018,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2023-05-08T21:06:31.4089919+00:00",
+      "NumProgressed": 32019,
+      "NumCompleted": 148
     }
   ],
   "TotalAchievements": 44,
@@ -1540,7 +1545,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1548,7 +1553,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9605
+      "UsersEstimate": 9606
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1604,7 +1609,7 @@
       "Name": "Denouement",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1684,7 +1689,7 @@
       "Name": "Get Over Here",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1708,7 +1713,7 @@
       "Name": "The Hidden Village",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1756,7 +1761,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7684
+      "UsersEstimate": 7685
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -1764,7 +1769,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 17930
+      "UsersEstimate": 17931
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1780,7 +1785,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 20171
+      "UsersEstimate": 20172
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1796,7 +1801,7 @@
       "Name": "A Pleasant Stay",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1812,7 +1817,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 21772
+      "UsersEstimate": 21773
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1844,7 +1849,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 14408
+      "UsersEstimate": 14409
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -1884,14 +1889,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16329
+      "UsersEstimate": 16330
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 32018,
+      "Progressed": 32019,
       "Completed": 148
     }
   ],
@@ -1899,8 +1904,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-08T20:07:09.6833099+00:00",
+  "LastChanged_Achievements": "2023-05-08T21:06:31.4089915+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:38.7776274+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:00:10.0935548+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:07:09.68336+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:59:44.6221231+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:06:31.4090514+00:00"
 }

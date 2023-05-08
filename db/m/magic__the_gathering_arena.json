@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.45,
   "NumberOfRatings": 14652,
   "RatingHistory": [
@@ -4923,10 +4923,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 83247,
       "NumberOfAwardsMax": 10134
+    },
+    {
+      "Time": "2023-05-08T20:59:25.5278916+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 83265,
+      "NumberOfAwardsMax": 10134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 83247,
+  "NumberOfAwards": 83265,
   "NumberOfAwardsMax": 10134,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4952,13 +4958,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 8870
+      "Count": 8874
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7805
+      "Count": 7812
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4976,7 +4982,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6565
+      "Count": 6572
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5008,8 +5014,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-05-08T19:59:50.3651536+00:00",
+  "LastChanged": "2023-05-08T20:59:25.5278914+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:22.527997+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:59:50.3651546+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:02:49.2572271+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:59:25.5278922+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:02:26.3438403+00:00"
 }

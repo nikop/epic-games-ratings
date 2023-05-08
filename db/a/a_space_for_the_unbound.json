@@ -4,8 +4,8 @@
   "ProductSlug": "a-space-for-the-unbound-57e666",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:12.4769654+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.4769652+00:00",
   "LastChanged": "2023-03-31T05:58:12.4769653+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:02.7422585+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:01:54.1399387+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:06:33.8536035+00:00"
+  "LastUpdate_Ratings": "2023-05-08T21:01:30.6201315+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:05:56.1703057+00:00"
 }

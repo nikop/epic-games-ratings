@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 104.00% | ~27 |
-| First Blood | 69.00% | ~18 |
-| No Asperascope | 58.00% | ~15 |
-| Triple Kill | 58.00% | ~15 |
-| Cornivore | 58.00% | ~15 |
-| Drinking Problem | 27.00% | ~7 |
-| 10K | 27.00% | ~7 |
-| 15K | 23.00% | ~6 |
+| Seeds of War | 104.00% | ~28 |
+| First Blood | 67.00% | ~18 |
+| No Asperascope | 56.00% | ~15 |
+| Triple Kill | 56.00% | ~15 |
+| Cornivore | 56.00% | ~15 |
+| Drinking Problem | 26.00% | ~7 |
+| 10K | 26.00% | ~7 |
+| 15K | 22.00% | ~6 |
 | Skin Of Your Teeth | 19.00% | ~5 |
 | Pork Chop Express | 19.00% | ~5 |
 | Graveside Survivor | 15.00% | ~4 |
 | Eggtraordinary | 15.00% | ~4 |
-| Fresh Pancake | 12.00% | ~3 |
-| Getting Started | 12.00% | ~3 |
-| Forestside Survivor | 12.00% | ~3 |
-| Quit Horsin' Around | 12.00% | ~3 |
-| Bring Home The Bacon | 8.00% | ~2 |
-| Chick Magnet | 8.00% | ~2 |
-| Early Bird | 8.00% | ~2 |
-| Carrocketeer | 8.00% | ~2 |
+| Fresh Pancake | 11.00% | ~3 |
+| Getting Started | 11.00% | ~3 |
+| Forestside Survivor | 11.00% | ~3 |
+| Quit Horsin' Around | 11.00% | ~3 |
+| Bring Home The Bacon | 7.00% | ~2 |
+| Chick Magnet | 7.00% | ~2 |
+| Early Bird | 7.00% | ~2 |
+| Carrocketeer | 7.00% | ~2 |
 | 15 Days | 4.00% | ~1 |
 | Honk Honk | 4.00% | ~1 |
 | Darkside Survivor | 4.00% | ~1 |
@@ -49,7 +49,7 @@
 | Pro Digger | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 289)  
+Progressed: 27 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-05 | 13 | 0 |
 | 2023-05-06 | 15 | 0 |
 | 2023-05-07 | 23 | 0 |
-| 2023-05-08 | 26 | 0 |
+| 2023-05-08 | 27 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

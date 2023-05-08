@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.18,
   "NumberOfRatings": 429,
   "RatingHistory": [
@@ -732,9 +732,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5559,
+  "EOS_Progressed": 5560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1707,6 +1707,11 @@
       "Time": "2023-05-08T20:03:00.9002066+00:00",
       "NumProgressed": 5559,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T21:02:37.8791367+00:00",
+      "NumProgressed": 5560,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -1758,7 +1763,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "Control_All_Relics",
@@ -1782,7 +1787,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -1798,7 +1803,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "First_Major_Ally",
@@ -1854,7 +1859,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4336
+      "UsersEstimate": 4337
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2022,7 +2027,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -2054,7 +2059,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "War_Without_Translator",
@@ -2293,15 +2298,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5559,
+      "Progressed": 5560,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "LastChanged_Achievements": "2023-05-08T20:03:00.9002061+00:00",
+  "LastChanged_Achievements": "2023-05-08T21:02:37.879136+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.1856232+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:58:57.7673691+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:03:00.9002965+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:58:32.7154367+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:02:37.879281+00:00"
 }

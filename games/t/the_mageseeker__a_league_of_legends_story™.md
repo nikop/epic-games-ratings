@@ -37,11 +37,11 @@ Rating: 4.74 (Ranked 141)
 | Whispers in the Woods III | 13.00% | ~251 |
 | No more holding back | 13.00% | ~251 |
 | Terbisia | 13.00% | ~251 |
+| My heart and sword always for Demacia | 12.00% | ~231 |
 | Friendly fire | 12.00% | ~231 |
 | True power | 12.00% | ~231 |
 | Meltridge | 12.00% | ~231 |
 | The Central Headquarters | 12.00% | ~231 |
-| My heart and sword always for Demacia | 11.00% | ~212 |
 | Cloven Dell Headquarters | 11.00% | ~212 |
 | Whispers in the Woods IV | 10.00% | ~193 |
 | Embrace the darkness | 9.00% | ~173 |
@@ -54,8 +54,8 @@ Rating: 4.74 (Ranked 141)
 | Call it 'redistribution of magic | 8.00% | ~154 |
 | Do you trust me? | 7.00% | ~135 |
 | Truth is a dark mirror | 7.00% | ~135 |
+| Spellcrafting | 7.00% | ~135 |
 | The great mage rebellion starts now | 6.00% | ~116 |
-| Spellcrafting | 6.00% | ~116 |
 | Silverwing nest | 2.00% | ~39 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)

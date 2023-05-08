@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 74,
   "Rating": 4.74,
   "RatingHistory": [
     {
@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 1927,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1075,9 +1075,9 @@
       "ID": "STB_DEFEAT_GAREN_II",
       "SetID": "3pe2bac",
       "Name": "My heart and sword always for Demacia",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 231
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -1387,9 +1387,9 @@
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
       "SetID": "3pe2bac",
       "Name": "Spellcrafting",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 116
+      "UsersEstimate": 135
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -1436,8 +1436,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-08T18:59:09.7080254+00:00",
-  "LastChanged_Achievements": "2023-05-08T20:07:22.4826544+00:00",
+  "LastChanged_Achievements": "2023-05-08T21:06:44.0767358+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:59:18.9833224+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:07:22.482708+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:58:52.9685423+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:06:44.0768301+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 52,
   "Rating": 4.61,
   "RatingHistory": [
@@ -792,9 +792,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158226,
+  "EOS_Progressed": 158227,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1932,6 +1932,11 @@
       "Time": "2023-05-08T16:06:58.4348331+00:00",
       "NumProgressed": 158226,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-08T21:07:12.6401418+00:00",
+      "NumProgressed": 158227,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -1943,7 +1948,7 @@
       "Name": "Showpiece",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 20569
+      "UsersEstimate": 20570
     },
     {
       "ID": "BUILD_unlimited_power",
@@ -2063,7 +2068,7 @@
       "Name": "Pimp My Rig",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 50632
+      "UsersEstimate": 50633
     },
     {
       "ID": "CUSTOMIZE_variations_on_a_theme",
@@ -2111,7 +2116,7 @@
       "Name": "Thanks Jeff",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 39556
+      "UsersEstimate": 39557
     },
     {
       "ID": "DELIVERY_very_imported_pc",
@@ -2119,7 +2124,7 @@
       "Name": "Very Imported PC",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 56961
+      "UsersEstimate": 56962
     },
     {
       "ID": "JOBS_old_hand",
@@ -2135,7 +2140,7 @@
       "Name": "On the Job",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 109176
+      "UsersEstimate": 109177
     },
     {
       "ID": "JOBS_pc_og",
@@ -2151,7 +2156,7 @@
       "Name": "Working Hard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 69619
+      "UsersEstimate": 69620
     },
     {
       "ID": "JOBS_workoholic",
@@ -2183,7 +2188,7 @@
       "Name": "Repair Master",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 50632
+      "UsersEstimate": 50633
     },
     {
       "ID": "LEVEL_tinker",
@@ -2199,7 +2204,7 @@
       "Name": "MOAR RGB",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 85442
+      "UsersEstimate": 85443
     },
     {
       "ID": "LIGHTING_shine_on",
@@ -2207,7 +2212,7 @@
       "Name": "Shine On",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 110758
+      "UsersEstimate": 110759
     },
     {
       "ID": "OCCT_stabiliser",
@@ -2231,7 +2236,7 @@
       "Name": "Paste Not, Want Not",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 20569
+      "UsersEstimate": 20570
     },
     {
       "ID": "OVER_this_one_goes_to_11",
@@ -2311,7 +2316,7 @@
       "Name": "Sales Pitch",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102847
+      "UsersEstimate": 102848
     },
     {
       "ID": "SPARESNREPAIRS_recycler",
@@ -2343,7 +2348,7 @@
       "Name": "Local Hero",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44303
+      "UsersEstimate": 44304
     },
     {
       "ID": "STARS_the_customer_is_king",
@@ -2375,7 +2380,7 @@
       "Name": "Slap Happy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 33227
+      "UsersEstimate": 33228
     },
     {
       "ID": "TOOLS_hot_stuff",
@@ -2383,7 +2388,7 @@
       "Name": "Hot Stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 93353
+      "UsersEstimate": 93354
     },
     {
       "ID": "UNLOCK_room_for_expansion",
@@ -2399,7 +2404,7 @@
       "Name": "Chill Out",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102847
+      "UsersEstimate": 102848
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -2414,7 +2419,7 @@
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158226,
+      "Progressed": 158227,
       "Completed": 102
     }
   ],
@@ -2422,8 +2427,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-08T13:08:54.3449454+00:00",
-  "LastChanged_Achievements": "2023-05-08T20:07:51.9340492+00:00",
+  "LastChanged_Achievements": "2023-05-08T21:07:12.6401412+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:01:43.5634261+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:07:51.9341115+00:00"
+  "LastUpdate_Ratings": "2023-05-08T21:01:21.1224795+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:07:12.640247+00:00"
 }

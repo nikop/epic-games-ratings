@@ -6,32 +6,32 @@ Rating: 4.61 (Ranked 352)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bootstrapping | 75.00% | ~118,670 |
-| Shine On | 70.00% | ~110,758 |
-| On the Job | 69.00% | ~109,176 |
+| Shine On | 70.00% | ~110,759 |
+| On the Job | 69.00% | ~109,177 |
 | Get Stuck In | 68.00% | ~107,594 |
 | Room for Expansion | 68.00% | ~107,594 |
-| Sales Pitch | 65.00% | ~102,847 |
-| Chill Out | 65.00% | ~102,847 |
+| Sales Pitch | 65.00% | ~102,848 |
+| Chill Out | 65.00% | ~102,848 |
 | Tinker | 61.00% | ~96,518 |
 | Grand Designs | 60.00% | ~94,936 |
-| Hot Stuff | 59.00% | ~93,353 |
-| MOAR RGB | 54.00% | ~85,442 |
+| Hot Stuff | 59.00% | ~93,354 |
+| MOAR RGB | 54.00% | ~85,443 |
 | Dream Theme | 46.00% | ~72,784 |
 | The Customer is King | 45.00% | ~71,202 |
-| Working Hard | 44.00% | ~69,619 |
+| Working Hard | 44.00% | ~69,620 |
 | On the Bench | 42.00% | ~66,455 |
 | The More the Merrier | 42.00% | ~66,455 |
 | Mix and Match | 38.00% | ~60,126 |
 | Recycler | 38.00% | ~60,126 |
 | Foot in the Door | 37.00% | ~58,544 |
-| Very Imported PC | 36.00% | ~56,961 |
+| Very Imported PC | 36.00% | ~56,962 |
 | Full Throttle | 34.00% | ~53,797 |
-| Pimp My Rig | 32.00% | ~50,632 |
-| Repair Master | 32.00% | ~50,632 |
-| Local Hero | 28.00% | ~44,303 |
+| Pimp My Rig | 32.00% | ~50,633 |
+| Repair Master | 32.00% | ~50,633 |
+| Local Hero | 28.00% | ~44,304 |
 | Broken to Smokin' | 26.00% | ~41,139 |
 | Workaholic | 26.00% | ~41,139 |
-| Thanks Jeff | 25.00% | ~39,556 |
+| Thanks Jeff | 25.00% | ~39,557 |
 | Cinematic | 24.00% | ~37,974 |
 | Bench Warmer | 24.00% | ~37,974 |
 | Gift of the Gab | 24.00% | ~37,974 |
@@ -40,14 +40,14 @@ Rating: 4.61 (Ranked 352)
 | Stick With It | 23.00% | ~36,392 |
 | Variations on a Theme | 22.00% | ~34,810 |
 | Cowboy | 22.00% | ~34,810 |
-| Slap Happy | 21.00% | ~33,227 |
+| Slap Happy | 21.00% | ~33,228 |
 | Supercool | 19.00% | ~30,063 |
 | Stabiliser | 18.00% | ~28,481 |
 | This One Goes to 11 | 18.00% | ~28,481 |
 | Going Places | 15.00% | ~23,734 |
 | Forgetful Shopper | 14.00% | ~22,152 |
-| Showpiece | 13.00% | ~20,569 |
-| Paste Not, Want Not | 13.00% | ~20,569 |
+| Showpiece | 13.00% | ~20,570 |
+| Paste Not, Want Not | 13.00% | ~20,570 |
 | Bench Press | 9.00% | ~14,240 |
 | Matching Set | 8.00% | ~12,658 |
 | Tech Vet | 8.00% | ~12,658 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,226 (Ranked 52)  
+Progressed: 158,227 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 102 (0.06%) (Ranked 164)
 | 2023-05-05 | 158,194 | 102 |
 | 2023-05-06 | 158,209 | 102 |
 | 2023-05-07 | 158,219 | 102 |
-| 2023-05-08 | 158,226 | 102 |
+| 2023-05-08 | 158,227 | 102 |
 ## Awards
 Max (Great for Beginners): 599  (Ranked 164)  
 Sum: 4,532 (Ranked 127)  

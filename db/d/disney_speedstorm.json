@@ -5,13 +5,13 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2381,
+  "EOS_Progressed": 2382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1074,6 +1074,11 @@
       "Time": "2023-05-08T19:07:31.5425741+00:00",
       "NumProgressed": 2381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T21:06:55.5004338+00:00",
+      "NumProgressed": 2382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1093,7 +1098,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "11",
@@ -1195,9 +1200,9 @@
       "ID": "22",
       "SetID": "9p3jgda",
       "Name": "THE EYE OF THE HUNTER",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 143
+      "UsersEstimate": 167
     },
     {
       "ID": "23",
@@ -1237,7 +1242,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "6",
@@ -1245,7 +1250,7 @@
       "Name": "PRO",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "7",
@@ -1276,13 +1281,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2381,
+      "Progressed": 2382,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-08T20:07:34.2061222+00:00",
+  "LastChanged_Achievements": "2023-05-08T21:06:55.5004333+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:00:44.9466914+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:07:34.2061486+00:00"
+  "LastUpdate_Ratings": "2023-05-08T21:00:17.7584774+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:06:55.5004758+00:00"
 }

@@ -190,9 +190,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 40,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "MQ02_1",
@@ -270,17 +270,17 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "MQ04_3",
@@ -415,8 +415,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-08T20:07:19.2961695+00:00",
+  "LastChanged_Achievements": "2023-05-08T21:06:40.9382537+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-08T19:58:54.2863745+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:07:19.2961927+00:00"
+  "LastUpdate_Ratings": "2023-05-08T20:58:29.0109469+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:06:40.9382877+00:00"
 }

@@ -20,14 +20,14 @@ Rating: 3.40 (Ranked 918)
 | Hero inspection | 11.00% | ~101 |
 | Full Party | 10.00% | ~92 |
 | Enlightenment | 8.00% | ~73 |
+| Lieutenant | 8.00% | ~73 |
 | Dragon Master | 7.00% | ~64 |
-| Lieutenant | 7.00% | ~64 |
 | Natural Talent | 6.00% | ~55 |
 | The Unstoppable | 6.00% | ~55 |
+| Scientist | 5.00% | ~46 |
 | Superior | 5.00% | ~46 |
 | Daily Quest Completionist | 4.00% | ~37 |
 | Milestone collector | 4.00% | ~37 |
-| Scientist | 4.00% | ~37 |
 | Background Story | 3.00% | ~27 |
 | Frostfire Liberator | 3.00% | ~27 |
 | Hunter | 3.00% | ~27 |

@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 74,
   "RatingHistory": [
     {
       "Time": "2023-04-29T18:59:11.6482327+00:00",
@@ -302,9 +302,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHV_CYBORG",
@@ -390,9 +390,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -406,9 +406,9 @@
       "ID": "ACHV_RIPPERDOC",
       "SetID": "cceobco",
       "Name": "Ripperdoc",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHV_ROOKIE",
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-08T20:07:47.2805189+00:00",
+  "LastChanged_Achievements": "2023-05-08T21:07:08.1949738+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:01:36.4174172+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:07:47.2805439+00:00"
+  "LastUpdate_Ratings": "2023-05-08T21:01:12.6169593+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:07:08.1949962+00:00"
 }

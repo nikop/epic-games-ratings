@@ -23,12 +23,12 @@ Number of Ratings: 495  (23.09.2022)
 | Mugen Unchained | 4.00% | ~6,630 |
 | Okkoto | 4.00% | ~6,630 |
 | Warzone | 4.00% | ~6,630 |
-| Gear up | 3.00% | ~4,972 |
-| Happy little accidents | 3.00% | ~4,972 |
-| Noboru | 3.00% | ~4,972 |
-| Prisoners | 3.00% | ~4,972 |
-| Still Rollin' | 3.00% | ~4,972 |
-| Too Early | 3.00% | ~4,972 |
+| Gear up | 3.00% | ~4,973 |
+| Happy little accidents | 3.00% | ~4,973 |
+| Noboru | 3.00% | ~4,973 |
+| Prisoners | 3.00% | ~4,973 |
+| Still Rollin' | 3.00% | ~4,973 |
+| Too Early | 3.00% | ~4,973 |
 | It's raining men | 2.00% | ~3,315 |
 | Stoned | 2.00% | ~3,315 |
 | The Old Way | 2.00% | ~3,315 |
@@ -40,7 +40,7 @@ Number of Ratings: 495  (23.09.2022)
 | Winner Winner | 1.00% | ~1,658 |
 | Undeserved Honor | 0.80% | ~1,326 |
 | When Cut Across the Neck | 0.70% | ~1,160 |
-| High Five the Moon | 0.60% | ~994 |
+| High Five the Moon | 0.60% | ~995 |
 | The Cave | 0.50% | ~829 |
 | Merciful | 0.40% | ~663 |
 | Time Paradox | 0.40% | ~663 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~166 |
 | Release the Kraken | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,750 (Ranked 50)  
+Progressed: 165,752 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 41 (0.02%) (Ranked 178)
 | 2023-05-05 | 164,750 | 41 |
 | 2023-05-06 | 165,108 | 41 |
 | 2023-05-07 | 165,504 | 41 |
-| 2023-05-08 | 165,750 | 41 |
+| 2023-05-08 | 165,752 | 41 |
 ## Awards
 Max (Great for Beginners): 548  (Ranked 173)  
 Sum: 4,649 (Ranked 125)  

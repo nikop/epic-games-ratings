@@ -5,19 +5,19 @@ Rating: 3.94 (Ranked 893)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,377 |
-| First One’s Free | 65.00% | ~38,624 |
-| Neophyte Ninja | 50.00% | ~29,710 |
-| Too Old for This | 47.00% | ~27,928 |
-| Fancy Pants | 35.00% | ~20,797 |
-| Case Closed | 34.00% | ~20,203 |
-| King of the Hill | 33.00% | ~19,609 |
-| Underworld Initiate | 29.00% | ~17,232 |
-| Roid Ranger | 21.00% | ~12,478 |
-| True Player | 19.00% | ~11,290 |
+| Downed but Not Outed | 73.00% | ~43,380 |
+| First One’s Free | 65.00% | ~38,626 |
+| Neophyte Ninja | 50.00% | ~29,712 |
+| Too Old for This | 47.00% | ~27,929 |
+| Fancy Pants | 35.00% | ~20,798 |
+| Case Closed | 34.00% | ~20,204 |
+| King of the Hill | 33.00% | ~19,610 |
+| Underworld Initiate | 29.00% | ~17,233 |
+| Roid Ranger | 21.00% | ~12,479 |
+| True Player | 19.00% | ~11,291 |
 | Off the Rocks | 18.00% | ~10,696 |
-| Dragonslayer | 16.00% | ~9,507 |
-| Raider’s Ruin | 15.00% | ~8,913 |
+| Dragonslayer | 16.00% | ~9,508 |
+| Raider’s Ruin | 15.00% | ~8,914 |
 | Hidden Sonata | 13.00% | ~7,725 |
 | Classy Joint | 10.00% | ~5,942 |
 | Rockay Rex | 10.00% | ~5,942 |
@@ -25,7 +25,7 @@ Rating: 3.94 (Ranked 893)
 | Freebooter | 9.00% | ~5,348 |
 | Headhunter | 8.00% | ~4,754 |
 | Ding Dong | 8.00% | ~4,754 |
-| I Like Trains | 7.00% | ~4,159 |
+| I Like Trains | 7.00% | ~4,160 |
 | Foo Finder | 6.00% | ~3,565 |
 | Legend Looter | 5.00% | ~2,971 |
 | Savvy Seeker | 5.00% | ~2,971 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 893)
 | Geek Out | 0.50% | ~297 |
 | Full House | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,421 (Ranked 67)  
+Progressed: 59,424 (Ranked 67)  
 Completed: 26 (0.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 26 (0.04%) (Ranked 170)
 | 2023-05-05 | 58,843 | 26 |
 | 2023-05-06 | 59,056 | 26 |
 | 2023-05-07 | 59,293 | 26 |
-| 2023-05-08 | 59,421 | 26 |
+| 2023-05-08 | 59,424 | 26 |
 ## Awards
 Max (Highly Recommended): 241  (Ranked 240)  
 Sum: 1,130 (Ranked 222)  

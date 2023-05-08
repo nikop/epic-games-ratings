@@ -2,14 +2,14 @@
   "ID": "1dcddbcc334945c48353b75a8fce5e5e",
   "Name": "Dishonored 2",
   "ProductSlug": "dishonored-2",
-  "Ranking_Rating": 90,
+  "Ranking_Rating": 79,
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 73,
-  "Rating": 4.79,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 74,
+  "Rating": 4.8,
   "RatingHistory": [
     {
       "Time": "2022-11-24T20:57:28.2064368+00:00",
@@ -402,6 +402,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 438,
       "NumberOfAwardsMax": 341
+    },
+    {
+      "Time": "2023-05-08T21:01:01.8815625+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 438,
+      "NumberOfAwardsMax": 341
     }
   ],
   "ReviewsDisabled": false,
@@ -452,8 +458,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-05-08T18:00:49.7552175+00:00",
+  "LastChanged": "2023-05-08T21:01:01.8815624+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:38.1938108+00:00",
-  "LastUpdate_Ratings": "2023-05-08T20:01:24.2777253+00:00",
-  "LastUpdate_Achievements": "2023-05-08T20:03:00.1747267+00:00"
+  "LastUpdate_Ratings": "2023-05-08T21:01:01.8815629+00:00",
+  "LastUpdate_Achievements": "2023-05-08T21:02:37.0955265+00:00"
 }

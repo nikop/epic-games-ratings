@@ -8,10 +8,10 @@
 | Getting somewhere | 78.00% | ~7 |
 | Top notch! | 67.00% | ~6 |
 | Slay it! | 56.00% | ~5 |
+| Lives lost | 56.00% | ~5 |
 | Bling bling! | 56.00% | ~5 |
 | Poor things... | 44.00% | ~4 |
 | Still alive! | 44.00% | ~4 |
-| Lives lost | 44.00% | ~4 |
 | Slaughter | 44.00% | ~4 |
 | Slay that one too! | 22.00% | ~2 |
 | Endurance test! | 22.00% | ~2 |

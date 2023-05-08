@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~33,142 |
-| Worth it | 63.00% | ~27,116 |
-| Eagle Eye | 55.00% | ~23,673 |
-| Corpseman I | 40.00% | ~17,217 |
-| Blast fishing | 38.00% | ~16,356 |
-| Not alone | 32.00% | ~13,773 |
-| Headhunter I | 27.00% | ~11,621 |
-| Manual Labour I | 26.00% | ~11,191 |
-| Developers, Developers, Developers | 24.00% | ~10,330 |
-| Basic Training | 24.00% | ~10,330 |
-| Furchtlos und Treu | 13.00% | ~5,595 |
-| Gott Mit Uns | 12.00% | ~5,165 |
+| Setting an example | 77.00% | ~33,145 |
+| Worth it | 63.00% | ~27,119 |
+| Eagle Eye | 55.00% | ~23,675 |
+| Corpseman I | 40.00% | ~17,218 |
+| Blast fishing | 38.00% | ~16,357 |
+| Not alone | 32.00% | ~13,775 |
+| Headhunter I | 27.00% | ~11,622 |
+| Manual Labour I | 26.00% | ~11,192 |
+| Developers, Developers, Developers | 24.00% | ~10,331 |
+| Basic Training | 24.00% | ~10,331 |
+| Furchtlos und Treu | 13.00% | ~5,596 |
+| Gott Mit Uns | 12.00% | ~5,166 |
 | This We'll Defend! | 9.00% | ~3,874 |
 | Anker wirf! | 9.00% | ~3,874 |
 | Providentiea Memor | 9.00% | ~3,874 |
 | For King and Country | 9.00% | ~3,874 |
-| Battle hardened | 8.00% | ~3,443 |
+| Battle hardened | 8.00% | ~3,444 |
 | Semper Fidelis! | 7.00% | ~3,013 |
 | Honneur et Patrie | 7.00% | ~3,013 |
 | In Treue Fest | 5.00% | ~2,152 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~43 |
 | Blood Brother | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,042 (Ranked 76)  
+Progressed: 43,046 (Ranked 76)  
 Completed: 2 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,10 +84,10 @@ Completed: 2 (0.00%) (Ranked 194)
 | 2023-05-05 | 42,686 | 2 |
 | 2023-05-06 | 42,819 | 2 |
 | 2023-05-07 | 42,962 | 2 |
-| 2023-05-08 | 43,042 | 2 |
+| 2023-05-08 | 43,046 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 331)  
-Sum: 729 (Ranked 255)  
+Sum: 730 (Ranked 255)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): 76
 | This game has Competitive Players | 69 |
 | This game has Amazing Characters | 65 |
 | This game has Realistic Visuals | 64 |
-| This game has a Competitive Community | 61 |
+| This game has a Competitive Community | 62 |
 | This game has Amazing Storytelling | 56 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
@@ -204,3 +204,4 @@ Diff (max vs sum): 76
 | 2023-04-20 | 4.53 | - | 93 | 727 |
 | 2023-04-22 | 4.53 | - | 93 | 728 |
 | 2023-04-23 | 4.53 | - | 93 | 729 |
+| 2023-05-08 | 4.53 | - | 93 | 730 |

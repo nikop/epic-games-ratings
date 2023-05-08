@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Checkmate | 2.00% | ~1,063 |
+| Checkmate | 2.00% | ~1,064 |
 | A Brief Tour of the Realms | 1.00% | ~869 |
 | Vecna Out! | 1.00% | ~532 |
 | Pin and Skewer | 0.90% | ~479 |
@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.70% | ~372 |
 | Beast Intentions | 0.60% | ~521 |
 | The Mad Wizard | 0.60% | ~521 |
-| The Ring of Regeneration | 0.50% | ~434 |
+| The Ring of Regeneration | 0.50% | ~435 |
 | Were-verpowered | 0.40% | ~348 |
 | Seeking Allies | 0.40% | ~348 |
 | Are Ya Chicken? | 0.40% | ~348 |
@@ -24,12 +24,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.30% | ~160 |
 | Best Thay Ever | 0.30% | ~160 |
 | Frail Doesn't Mean Broken | 0.30% | ~160 |
+| Unreasonable Doesn't Mean Stupid | 0.30% | ~160 |
 | The Sanctum of the Sword | 0.30% | ~160 |
 | Get Back In The Castle | 0.30% | ~160 |
 | A Persistent Buzzing | 0.30% | ~261 |
 | Beast Mode | 0.30% | ~261 |
 | Terror in the Dark | 0.30% | ~261 |
 | A Mysterious Summons | 0.30% | ~261 |
+| Building Trust | 0.30% | ~261 |
 | Unearthed Evil | 0.30% | ~261 |
 | The Crumbling Temple | 0.30% | ~261 |
 | Useless Allies | 0.30% | ~261 |
@@ -56,7 +58,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~106 |
 | The Dread Domain of Tovag | 0.20% | ~106 |
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
-| Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
 | Xanathaaaaaaar! | 0.20% | ~106 |
 | Homecoming | 0.20% | ~174 |
 | The Lost Heir of Omu | 0.20% | ~174 |
@@ -65,7 +66,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.20% | ~174 |
 | Low Initiative | 0.20% | ~174 |
 | Street War | 0.20% | ~174 |
-| Building Trust | 0.20% | ~174 |
 | March of the Undead | 0.20% | ~174 |
 | Wisdom Check | 0.20% | ~174 |
 | No Time To Rest | 0.20% | ~174 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,900 (Ranked 59)  
-Completed: 1,815 (2.09%) (Ranked 58)  
+Progressed: 86,903 (Ranked 59)  
+Completed: 1,816 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -514,7 +514,7 @@ Completed: 1,815 (2.09%) (Ranked 58)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,900 | 1,815 |
+| 2023-05-08 | 86,903 | 1,816 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,833 (Ranked 37)  

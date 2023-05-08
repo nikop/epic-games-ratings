@@ -40,7 +40,7 @@ Number of Ratings: 180  (23.09.2022)
 | The ugly smell of success | 23.00% | ~241 |
 | Climate change | 22.00% | ~230 |
 | Old timer | 22.00% | ~230 |
-| Heavily loaded | 20.00% | ~209 |
+| Heavily loaded | 21.00% | ~220 |
 | Bob Ross | 17.00% | ~178 |
 | No free seats | 11.00% | ~115 |
 | Campaign expert | 10.00% | ~105 |
