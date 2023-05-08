@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.34,
   "NumberOfRatings": 38,
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -157,6 +157,11 @@
     {
       "Time": "2023-05-06T18:07:03.5529882+00:00",
       "NumProgressed": 160,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T07:06:17.3416182+00:00",
+      "NumProgressed": 161,
       "NumCompleted": 0
     }
   ],
@@ -191,33 +196,33 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -247,9 +252,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -257,7 +262,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_COOK",
@@ -279,9 +284,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -305,7 +310,7 @@
       "Name": "My New Home",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_KILL_100",
@@ -377,7 +382,7 @@
       "Name": "Smelter",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -385,7 +390,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -409,14 +414,14 @@
       "Name": "Teleport",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 0
     }
   ],
@@ -424,8 +429,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-08T06:06:21.5351178+00:00",
+  "LastChanged_Achievements": "2023-05-08T07:06:17.3416179+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:45.236419+00:00",
-  "LastUpdate_Ratings": "2023-05-08T05:59:44.3032872+00:00",
-  "LastUpdate_Achievements": "2023-05-08T06:06:21.53514+00:00"
+  "LastUpdate_Ratings": "2023-05-08T06:59:44.8863984+00:00",
+  "LastUpdate_Achievements": "2023-05-08T07:06:17.341636+00:00"
 }

@@ -15,8 +15,8 @@ Rating: 4.73 (Ranked 156)
 | Big Helmet Bro | 34.00% | ~653 |
 | Clarion Cove | 34.00% | ~653 |
 | Past trauma | 32.00% | ~614 |
+| Thornbarrow | 32.00% | ~614 |
 | Ternmoat Headquarters | 32.00% | ~614 |
-| Thornbarrow | 31.00% | ~595 |
 | Cypress Glen Headquarters | 31.00% | ~595 |
 | Elemental master | 30.00% | ~576 |
 | Old friend | 26.00% | ~499 |

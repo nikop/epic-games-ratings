@@ -22,7 +22,7 @@
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.47% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 5.69% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 5.68% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 26 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -33,7 +33,7 @@
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.04% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 34 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
+| 34 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.56% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.49% |
 | 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |

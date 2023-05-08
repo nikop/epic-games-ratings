@@ -280,7 +280,7 @@
 | 271 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.66 | 0 | 490 |
 | 271 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 490 |
 | 271 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 490 |
-| 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,035 | 131 |
+| 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,035 | 132 |
 | 271 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 547 | 173 |
 | 271 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 465 |
 | 271 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 421 | 191 |
@@ -365,7 +365,7 @@
 | 352 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 350 | 209 |
 | 352 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 490 |
 | 352 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 490 |
-| 352 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,079 | 128 |
+| 352 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,082 | 128 |
 | 352 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 490 |
 | 352 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,467 | 91 |
 | 352 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 595 | 164 |
@@ -477,7 +477,7 @@
 | 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,140 | 125 |
 | 476 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 2,650 | 89 |
 | 476 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 431 |
-| 476 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,034 | 132 |
+| 476 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,037 | 131 |
 | 476 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 196 | 258 |
 | 476 | [IXION](games/i/ixion.md) | 4.54 | 0 | 490 |
 | 476 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 338 |
@@ -689,21 +689,21 @@
 | 681 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,651 | 30 |
 | 681 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 322 | 215 |
 | 689 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 490 |
+| 689 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 490 |
 | 689 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 490 |
 | 689 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 490 |
 | 689 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 278 |
 | 689 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 278 |
 | 689 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 490 |
 | 689 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
-| 696 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 490 |
-| 696 | [Core](games/c/core.md) | 4.37 | 728 | 152 |
-| 696 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
-| 696 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,344 | 27 |
-| 696 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |
-| 696 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 490 |
-| 696 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 394 |
-| 696 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 84 | 342 |
-| 696 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 31 | 439 |
+| 697 | [Core](games/c/core.md) | 4.37 | 728 | 152 |
+| 697 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
+| 697 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,344 | 27 |
+| 697 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |
+| 697 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 490 |
+| 697 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 394 |
+| 697 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 84 | 342 |
+| 697 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 31 | 439 |
 | 705 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 490 |
 | 705 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 273 |
 | 705 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 490 |

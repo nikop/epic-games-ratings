@@ -641,9 +641,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 20247,
+  "EOS_Progressed": 20249,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2126,6 +2126,11 @@
       "Time": "2023-05-08T06:06:40.8125616+00:00",
       "NumProgressed": 20247,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-08T07:06:37.1887146+00:00",
+      "NumProgressed": 20249,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -2177,7 +2182,7 @@
       "Name": "Rookie",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "goals180",
@@ -2265,7 +2270,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3644
+      "UsersEstimate": 3645
     },
     {
       "ID": "playerFelipe",
@@ -2448,15 +2453,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 20247,
+      "Progressed": 20249,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "LastChanged_Achievements": "2023-05-08T06:06:40.8125613+00:00",
+  "LastChanged_Achievements": "2023-05-08T07:06:37.1887142+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:24.8068644+00:00",
-  "LastUpdate_Ratings": "2023-05-08T06:00:32.0241742+00:00",
-  "LastUpdate_Achievements": "2023-05-08T06:06:40.812599+00:00"
+  "LastUpdate_Ratings": "2023-05-08T07:00:25.2167052+00:00",
+  "LastUpdate_Achievements": "2023-05-08T07:06:37.1887591+00:00"
 }

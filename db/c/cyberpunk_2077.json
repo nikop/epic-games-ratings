@@ -5383,10 +5383,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 166978,
       "NumberOfAwardsMax": 63762
+    },
+    {
+      "Time": "2023-05-08T06:58:54.3707466+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 166989,
+      "NumberOfAwardsMax": 63762
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166978,
+  "NumberOfAwards": 166989,
   "NumberOfAwardsMax": 63762,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5406,7 +5412,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7274
+      "Count": 7285
     },
     {
       "Text": "This game is Relaxing",
@@ -5463,9 +5469,9 @@
       "Count": 4665
     }
   ],
-  "EOS_Progressed": 798597,
+  "EOS_Progressed": 798599,
   "EOS_Completed": 1577,
-  "EOS_NewPlayers": 1480,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -6953,6 +6959,11 @@
       "Time": "2023-05-08T06:06:15.8297757+00:00",
       "NumProgressed": 798597,
       "NumCompleted": 1577
+    },
+    {
+      "Time": "2023-05-08T07:06:11.3050947+00:00",
+      "NumProgressed": 798599,
+      "NumCompleted": 1577
     }
   ],
   "TotalAchievements": 44,
@@ -6988,7 +6999,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 135761
+      "UsersEstimate": 135762
     },
     {
       "ID": "Denied",
@@ -6996,7 +7007,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295481
+      "UsersEstimate": 295482
     },
     {
       "ID": "FollowingTheRiver",
@@ -7084,7 +7095,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167705
+      "UsersEstimate": 167706
     },
     {
       "ID": "MaxPain",
@@ -7132,7 +7143,7 @@
       "Name": "Life of the Road",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 151733
+      "UsersEstimate": 151734
     },
     {
       "ID": "Roleplayer",
@@ -7140,7 +7151,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215621
+      "UsersEstimate": 215622
     },
     {
       "ID": "Specialist",
@@ -7180,7 +7191,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535060
+      "UsersEstimate": 535061
     },
     {
       "ID": "TheHermit",
@@ -7188,7 +7199,7 @@
       "Name": "The Hermit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175691
+      "UsersEstimate": 175692
     },
     {
       "ID": "TheHightPriestess",
@@ -7196,7 +7207,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159719
+      "UsersEstimate": 159720
     },
     {
       "ID": "TheLovers",
@@ -7204,7 +7215,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255551
+      "UsersEstimate": 255552
     },
     {
       "ID": "TheStar",
@@ -7228,7 +7239,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199649
+      "UsersEstimate": 199650
     },
     {
       "ID": "TheWorld",
@@ -7260,7 +7271,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175691
+      "UsersEstimate": 175692
     },
     {
       "ID": "TrueWarrior",
@@ -7308,22 +7319,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 159719
+      "UsersEstimate": 159720
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 798597,
+      "Progressed": 798599,
       "Completed": 1577
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-08T05:58:58.1475432+00:00",
-  "LastChanged_Achievements": "2023-05-08T06:06:15.829775+00:00",
+  "LastChanged": "2023-05-08T06:58:54.3707465+00:00",
+  "LastChanged_Achievements": "2023-05-08T07:06:11.3050944+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-08T05:58:58.1475443+00:00",
-  "LastUpdate_Achievements": "2023-05-08T06:06:15.8298767+00:00"
+  "LastUpdate_Ratings": "2023-05-08T06:58:54.370747+00:00",
+  "LastUpdate_Achievements": "2023-05-08T07:06:11.305129+00:00"
 }

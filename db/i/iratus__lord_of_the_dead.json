@@ -2,7 +2,7 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 696,
+  "Ranking_Rating": 697,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 84,
@@ -1915,9 +1915,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 27562,
+  "EOS_Progressed": 27563,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3390,6 +3390,11 @@
       "Time": "2023-05-08T05:06:51.0523977+00:00",
       "NumProgressed": 27562,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-08T07:06:37.4526772+00:00",
+      "NumProgressed": 27563,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 75,
@@ -3401,7 +3406,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5512
+      "UsersEstimate": 5513
     },
     {
       "ID": "achievements_10",
@@ -3433,7 +3438,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15711
     },
     {
       "ID": "achievements_14",
@@ -3449,7 +3454,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 12954
+      "UsersEstimate": 12955
     },
     {
       "ID": "achievements_17",
@@ -3465,7 +3470,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 7717
+      "UsersEstimate": 7718
     },
     {
       "ID": "achievements_2",
@@ -3505,7 +3510,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 16537
+      "UsersEstimate": 16538
     },
     {
       "ID": "achievements_24",
@@ -3513,7 +3518,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 14883
+      "UsersEstimate": 14884
     },
     {
       "ID": "achievements_25",
@@ -3537,7 +3542,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 10749
+      "UsersEstimate": 10750
     },
     {
       "ID": "achievements_28",
@@ -3553,7 +3558,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 9095
+      "UsersEstimate": 9096
     },
     {
       "ID": "achievements_3",
@@ -3569,7 +3574,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 8544
+      "UsersEstimate": 8545
     },
     {
       "ID": "achievements_31",
@@ -3649,7 +3654,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 17915
+      "UsersEstimate": 17916
     },
     {
       "ID": "achievements_40",
@@ -3657,7 +3662,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5512
+      "UsersEstimate": 5513
     },
     {
       "ID": "achievements_41",
@@ -3697,7 +3702,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "achievements_46",
@@ -3705,7 +3710,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 23428
+      "UsersEstimate": 23429
     },
     {
       "ID": "achievements_47",
@@ -3745,7 +3750,7 @@
       "Name": "Master of Destruction",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "achievements_51",
@@ -3769,7 +3774,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15711
     },
     {
       "ID": "achievements_54",
@@ -3833,7 +3838,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5512
+      "UsersEstimate": 5513
     },
     {
       "ID": "achievements_62",
@@ -3849,7 +3854,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6891
     },
     {
       "ID": "achievements_64",
@@ -3977,7 +3982,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 20120
+      "UsersEstimate": 20121
     },
     {
       "ID": "achievements_8",
@@ -4000,15 +4005,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 27562,
+      "Progressed": 27563,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-04-30T11:59:02.0136942+00:00",
-  "LastChanged_Achievements": "2023-05-08T06:06:41.0096055+00:00",
+  "LastChanged_Achievements": "2023-05-08T07:06:37.4526768+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:00.9604085+00:00",
-  "LastUpdate_Ratings": "2023-05-08T06:00:04.14943+00:00",
-  "LastUpdate_Achievements": "2023-05-08T06:06:41.0096979+00:00"
+  "LastUpdate_Ratings": "2023-05-08T07:00:00.6936901+00:00",
+  "LastUpdate_Achievements": "2023-05-08T07:06:37.452773+00:00"
 }

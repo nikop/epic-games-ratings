@@ -4,10 +4,10 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 395,
   "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 227,
+  "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.59,
   "RatingHistory": [
@@ -1460,10 +1460,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1039,
       "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2023-05-08T06:58:42.3919577+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1043,
+      "NumberOfAwardsMax": 160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1039,
+  "NumberOfAwards": 1043,
   "NumberOfAwardsMax": 160,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1513,13 +1519,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 79
+      "Count": 82
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game is Relaxing",
@@ -1546,8 +1552,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-05-07T21:58:47.7742673+00:00",
+  "LastChanged": "2023-05-08T06:58:42.3919576+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.0706383+00:00",
-  "LastUpdate_Ratings": "2023-05-08T05:58:43.2187092+00:00",
-  "LastUpdate_Achievements": "2023-05-08T06:02:34.2993993+00:00"
+  "LastUpdate_Ratings": "2023-05-08T06:58:42.391958+00:00",
+  "LastUpdate_Achievements": "2023-05-08T07:04:08.600881+00:00"
 }

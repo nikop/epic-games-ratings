@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,890 |
-| That's a Grand Army | 8.00% | ~2,569 |
-| That is mine! | 8.00% | ~2,569 |
-| Victorious! | 8.00% | ~2,569 |
-| Brothers in Arms | 6.00% | ~1,926 |
-| That's a Grand Navy | 6.00% | ~1,926 |
-| Seriously?! | 6.00% | ~1,926 |
-| For the Glory | 5.00% | ~1,605 |
-| Cold War | 4.00% | ~1,284 |
-| True Catholic | 4.00% | ~1,284 |
-| Defender of the Faith | 3.00% | ~963 |
-| It's all about the money | 3.00% | ~963 |
-| Respected | 3.00% | ~963 |
+| Until death do us apart | 9.00% | ~2,891 |
+| That's a Grand Army | 8.00% | ~2,570 |
+| That is mine! | 8.00% | ~2,570 |
+| Victorious! | 8.00% | ~2,570 |
+| Brothers in Arms | 6.00% | ~1,927 |
+| That's a Grand Navy | 6.00% | ~1,927 |
+| Seriously?! | 6.00% | ~1,927 |
+| For the Glory | 5.00% | ~1,606 |
+| Cold War | 4.00% | ~1,285 |
+| True Catholic | 4.00% | ~1,285 |
+| Defender of the Faith | 3.00% | ~964 |
+| It's all about the money | 3.00% | ~964 |
+| Respected | 3.00% | ~964 |
 | Blockader | 2.00% | ~642 |
 | Combined Arms | 2.00% | ~642 |
 | Double the Love | 2.00% | ~642 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,108 (Ranked 80)  
+Progressed: 32,122 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,108 | 0 |
+| 2023-05-08 | 32,122 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
 Sum: 42,931 (Ranked 27)  

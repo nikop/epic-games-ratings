@@ -552,9 +552,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 1315925,
+  "EOS_Progressed": 1316041,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 45261,
+  "EOS_NewPlayers": 45135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2067,6 +2067,11 @@
       "Time": "2023-05-08T06:06:54.6756464+00:00",
       "NumProgressed": 1315925,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-08T07:06:51.4141746+00:00",
+      "NumProgressed": 1316041,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 38,
@@ -2086,7 +2091,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 210548
+      "UsersEstimate": 210567
     },
     {
       "ID": "Chambermaid",
@@ -2110,7 +2115,7 @@
       "Name": "Coming Through",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 9211
+      "UsersEstimate": 9212
     },
     {
       "ID": "Crybaby",
@@ -2118,7 +2123,7 @@
       "Name": "Crybaby",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 13159
+      "UsersEstimate": 13160
     },
     {
       "ID": "EagleEye",
@@ -2126,7 +2131,7 @@
       "Name": "Eagle Eye",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 13159
+      "UsersEstimate": 13160
     },
     {
       "ID": "EndedRightly",
@@ -2158,7 +2163,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 263185
+      "UsersEstimate": 263208
     },
     {
       "ID": "Highlander",
@@ -2166,7 +2171,7 @@
       "Name": "Highlander",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 131592
+      "UsersEstimate": 131604
     },
     {
       "ID": "HomeRun",
@@ -2174,7 +2179,7 @@
       "Name": "Home Run",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 552688
+      "UsersEstimate": 552737
     },
     {
       "ID": "JustScratch",
@@ -2182,7 +2187,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 118433
+      "UsersEstimate": 118444
     },
     {
       "ID": "JusticeFromGrave",
@@ -2190,7 +2195,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 644803
+      "UsersEstimate": 644860
     },
     {
       "ID": "KeepsComingOff",
@@ -2198,7 +2203,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 526370
+      "UsersEstimate": 526416
     },
     {
       "ID": "KungFu",
@@ -2206,7 +2211,7 @@
       "Name": "I Know Kung Fu",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 13159
+      "UsersEstimate": 13160
     },
     {
       "ID": "LivedToTell",
@@ -2214,7 +2219,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 157911
+      "UsersEstimate": 157925
     },
     {
       "ID": "LivingSculpture",
@@ -2230,7 +2235,7 @@
       "Name": "Long List of Names",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 39478
+      "UsersEstimate": 39481
     },
     {
       "ID": "MeatGrinder",
@@ -2238,7 +2243,7 @@
       "Name": "Meat Grinder",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 263185
+      "UsersEstimate": 263208
     },
     {
       "ID": "NoOrdinaryCold",
@@ -2254,7 +2259,7 @@
       "Name": "This isn\u2019t Sparta",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 26318
+      "UsersEstimate": 26321
     },
     {
       "ID": "Poacher",
@@ -2262,7 +2267,7 @@
       "Name": "Poacher",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 26318
+      "UsersEstimate": 26321
     },
     {
       "ID": "PutThatAway",
@@ -2270,7 +2275,7 @@
       "Name": "Put That Away",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 13159
+      "UsersEstimate": 13160
     },
     {
       "ID": "Pyromaniac",
@@ -2278,7 +2283,7 @@
       "Name": "Pyromaniac",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 39478
+      "UsersEstimate": 39481
     },
     {
       "ID": "QueenOfWeapons",
@@ -2286,7 +2291,7 @@
       "Name": "The Queen of Weapons",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 39478
+      "UsersEstimate": 39481
     },
     {
       "ID": "Rocknroll",
@@ -2310,7 +2315,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 565848
+      "UsersEstimate": 565898
     },
     {
       "ID": "ToughNut",
@@ -2318,7 +2323,7 @@
       "Name": "Tough Nut to Crack",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 65796
+      "UsersEstimate": 65802
     },
     {
       "ID": "TrainingAccident",
@@ -2334,7 +2339,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 131592
+      "UsersEstimate": 131604
     },
     {
       "ID": "Virtuoso",
@@ -2366,7 +2371,7 @@
       "Name": "Yoink",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 65796
+      "UsersEstimate": 65802
     },
     {
       "ID": "YoureWelcome",
@@ -2374,14 +2379,14 @@
       "Name": "You\u2019re Welcome",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26318
+      "UsersEstimate": 26321
     }
   ],
   "AchievementSets": [
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1315925,
+      "Progressed": 1316041,
       "Completed": 7
     }
   ],
@@ -2389,8 +2394,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-05-07T19:02:09.6041389+00:00",
-  "LastChanged_Achievements": "2023-05-08T06:06:54.6756461+00:00",
+  "LastChanged_Achievements": "2023-05-08T07:06:51.4141741+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.6434987+00:00",
-  "LastUpdate_Ratings": "2023-05-08T06:01:34.6463543+00:00",
-  "LastUpdate_Achievements": "2023-05-08T06:06:54.6756818+00:00"
+  "LastUpdate_Ratings": "2023-05-08T07:01:23.9217029+00:00",
+  "LastUpdate_Achievements": "2023-05-08T07:06:51.4142054+00:00"
 }

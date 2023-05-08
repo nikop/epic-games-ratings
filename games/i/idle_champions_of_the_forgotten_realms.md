@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.20% | ~106 |
 | The Evacuation of Waterdeep | 0.20% | ~106 |
 | Vecna Lives! | 0.20% | ~106 |
+| Vecna Loots! | 0.20% | ~106 |
 | Return to the Tomb | 0.20% | ~106 |
 | Keep Your Distance | 0.20% | ~106 |
 | Heatwave | 0.20% | ~106 |
@@ -175,7 +176,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~87 |
 | Overwhelmed with Knowledge | 0.10% | ~53 |
 | A Demi-god's Defender | 0.10% | ~53 |
-| Vecna Loots! | 0.10% | ~53 |
 | Well Equipped | 0.10% | ~53 |
 | Friends of the Forest | 0.10% | ~87 |
 | More Than Well Equipped | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,829 (Ranked 59)  
+Progressed: 86,832 (Ranked 59)  
 Completed: 1,812 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,812 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,829 | 1,812 |
+| 2023-05-08 | 86,832 | 1,812 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,831 (Ranked 37)  
