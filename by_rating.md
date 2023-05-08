@@ -146,7 +146,7 @@
 | 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 522 | 179 |
 | 141 | [DOOM II](games/d/doom_ii.md) | 4.74 | 25 | 463 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 147 |
-| 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 587 | 166 |
+| 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 589 | 166 |
 | 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,493 | 49 |
 | 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
 | 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,827 | 13 |
@@ -201,7 +201,7 @@
 | 192 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 384 |
 | 192 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,295 | 118 |
 | 192 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 490 |
-| 192 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,816 | 105 |
+| 192 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,817 | 105 |
 | 192 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 490 |
 | 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 490 |
 | 192 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 77 | 348 |
@@ -280,7 +280,7 @@
 | 271 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.66 | 0 | 490 |
 | 271 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 490 |
 | 271 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 490 |
-| 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,035 | 132 |
+| 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,036 | 132 |
 | 271 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 548 | 173 |
 | 271 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 465 |
 | 271 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 421 | 191 |
@@ -379,7 +379,7 @@
 | 376 | [Control](games/c/control.md) | 4.60 | 8,263 | 38 |
 | 376 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
 | 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 352 |
-| 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,240 | 25 |
+| 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,247 | 25 |
 | 376 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 303 |
 | 376 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 490 |
 | 376 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 381 |
@@ -535,7 +535,7 @@
 | 531 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 490 |
 | 531 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 88 | 336 |
 | 531 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
-| 531 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,593 | 12 |
+| 531 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,617 | 12 |
 | 531 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
 | 531 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,293 | 95 |
 | 531 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |
@@ -818,7 +818,7 @@
 | 815 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 490 |
 | 815 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 431 |
 | 815 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 0 | 490 |
-| 815 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,922 | 4 |
+| 815 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,977 | 4 |
 | 815 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 490 |
 | 815 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 459 |
 | 822 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 89 | 335 |
@@ -851,7 +851,7 @@
 | 847 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 490 |
 | 850 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 490 |
 | 850 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 73 | 354 |
-| 852 | [Forspoken](games/f/forspoken.md) | 4.11 | 0 | 490 |
+| 850 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 490 |
 | 853 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 490 |
 | 853 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 490 |
 | 853 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 382 |

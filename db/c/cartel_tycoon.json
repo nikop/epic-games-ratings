@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.35,
   "NumberOfRatings": 101,
   "RatingHistory": [
@@ -584,9 +584,9 @@
       "ID": "unlock-residences",
       "SetID": "bed33dd",
       "Name": "Pampered Life",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "upgrade-building",
@@ -616,8 +616,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-08T08:07:12.3461096+00:00",
+  "LastChanged_Achievements": "2023-05-08T09:08:14.0581492+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.865388+00:00",
-  "LastUpdate_Ratings": "2023-05-08T08:01:41.840305+00:00",
-  "LastUpdate_Achievements": "2023-05-08T08:07:12.3461223+00:00"
+  "LastUpdate_Ratings": "2023-05-08T09:02:37.5453853+00:00",
+  "LastUpdate_Achievements": "2023-05-08T09:08:14.0581623+00:00"
 }

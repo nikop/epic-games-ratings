@@ -5,13 +5,13 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2374,
+  "EOS_Progressed": 2375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1054,6 +1054,11 @@
       "Time": "2023-05-08T04:07:21.4296577+00:00",
       "NumProgressed": 2374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T09:07:50.144064+00:00",
+      "NumProgressed": 2375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1065,7 +1070,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "10",
@@ -1097,7 +1102,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "14",
@@ -1153,7 +1158,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "20",
@@ -1201,7 +1206,7 @@
       "Name": "FRIENDLY",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "4",
@@ -1256,13 +1261,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2374,
+      "Progressed": 2375,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-08T08:06:42.7751875+00:00",
+  "LastChanged_Achievements": "2023-05-08T09:07:50.1440636+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-08T08:00:24.7762019+00:00",
-  "LastUpdate_Achievements": "2023-05-08T08:06:42.7752064+00:00"
+  "LastUpdate_Ratings": "2023-05-08T09:00:56.0397862+00:00",
+  "LastUpdate_Achievements": "2023-05-08T09:07:50.1440834+00:00"
 }

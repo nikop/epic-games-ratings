@@ -18,7 +18,7 @@
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.11% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
 | 20 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.47% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
@@ -47,7 +47,7 @@
 | 44 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 46 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
-| 47 | [ZZT!](games/z/zzt!.md) | 2.74% |
+| 48 | [ZZT!](games/z/zzt!.md) | 2.73% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 50 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
 | 51 | [JARS](games/j/jars.md) | 2.56% |
@@ -384,4 +384,4 @@
 | 192 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 192 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 192 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,566 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,567 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

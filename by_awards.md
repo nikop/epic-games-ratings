@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,293,308 | 4.29 | 759 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 405,199 | 4.51 | 515 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 295,256 | 4.68 | 232 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,922 | 4.19 | 815 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,977 | 4.19 | 815 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 166,924 | 4.68 | 232 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 139,120 | 4.89 | 12 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 138,104 | 4.53 | 488 |
@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,846 | 4.62 | 337 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,550 | 4.59 | 395 |
 | 11 | [VALORANT](games/v/valorant.md) | 51,652 | 4.54 | 476 |
-| 12 | [Destiny 2](games/d/destiny_2.md) | 33,593 | 4.50 | 531 |
+| 12 | [Destiny 2](games/d/destiny_2.md) | 33,617 | 4.50 | 531 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,827 | 4.74 | 141 |
 | 14 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 30,333 | 4.59 | 395 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,436 | 4.65 | 287 |
@@ -24,7 +24,7 @@
 | 22 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,335 | 4.58 | 413 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,122 | 4.76 | 115 |
 | 24 | [Maneater](games/m/maneater.md) | 13,434 | 4.49 | 551 |
-| 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,240 | 4.60 | 376 |
+| 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,247 | 4.60 | 376 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,973 | 4.21 | 799 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,344 | 4.37 | 697 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,884 | 4.41 | 652 |
@@ -104,7 +104,7 @@
 | 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,089 | 4.64 | 309 |
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,974 | 4.49 | 551 |
 | 104 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,869 | 4.65 | 287 |
-| 105 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,816 | 4.70 | 192 |
+| 105 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,817 | 4.70 | 192 |
 | 106 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,795 | 4.90 | 7 |
 | 107 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 1,781 | 3.99 | 881 |
 | 108 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,769 | 4.56 | 447 |
@@ -131,7 +131,7 @@
 | 129 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.60 | 376 |
 | 130 | [World of Warships](games/w/world_of_warships.md) | 1,042 | 4.43 | 636 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,037 | 4.54 | 476 |
-| 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,035 | 4.66 | 271 |
+| 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,036 | 4.66 | 271 |
 | 133 | [Saints Row](games/s/saints_row.md) | 1,023 | 3.78 | 907 |
 | 134 | [EVE Online](games/e/eve_online.md) | 1,018 | 4.26 | 772 |
 | 135 | [Ooblets](games/o/ooblets.md) | 1,004 | 4.87 | 24 |
@@ -165,7 +165,7 @@
 | 163 | [Dark Deity](games/d/dark_deity.md) | 606 | 4.16 | 833 |
 | 164 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 595 | 4.61 | 352 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 594 | 4.59 | 395 |
-| 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 587 | 4.74 | 141 |
+| 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 589 | 4.74 | 141 |
 | 167 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 585 | 4.74 | 141 |
 | 168 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 583 | 4.62 | 337 |
 | 169 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 559 | 4.60 | 376 |

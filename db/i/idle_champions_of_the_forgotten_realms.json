@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3584,10 +3584,10 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86836,
+  "EOS_Progressed": 86839,
   "EOS_Completed": 1813,
   "EOS_NewPlayers": 706,
-  "EOS_NewCompleters": 21,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5063,6 +5063,11 @@
     {
       "Time": "2023-05-08T08:07:20.3997714+00:00",
       "NumProgressed": 86836,
+      "NumCompleted": 1813
+    },
+    {
+      "Time": "2023-05-08T09:08:23.7131278+00:00",
+      "NumProgressed": 86839,
       "NumCompleted": 1813
     }
   ],
@@ -8249,9 +8254,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_75",
@@ -8361,9 +8366,9 @@
       "ID": "objective_completed_81",
       "SetID": "cc37lbc",
       "Name": "Durable Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_810",
@@ -8601,9 +8606,9 @@
       "ID": "objective_completed_855",
       "SetID": "415jc5c",
       "Name": "How Far Away is Thay",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_857",
@@ -8986,21 +8991,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53110,
-      "Completed": 2479
+      "Progressed": 53113,
+      "Completed": 2480
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86836,
+      "Progressed": 86839,
       "Completed": 1813
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-08T05:59:18.0601163+00:00",
-  "LastChanged_Achievements": "2023-05-08T08:07:20.3997709+00:00",
+  "LastChanged_Achievements": "2023-05-08T09:08:23.7131274+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-08T07:59:26.1352558+00:00",
-  "LastUpdate_Achievements": "2023-05-08T08:07:20.4019896+00:00"
+  "LastUpdate_Ratings": "2023-05-08T08:59:46.8108922+00:00",
+  "LastUpdate_Achievements": "2023-05-08T09:08:23.7153687+00:00"
 }

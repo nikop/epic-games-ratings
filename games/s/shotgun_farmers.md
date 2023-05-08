@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 100.00% | ~24 |
-| First Blood | 58.00% | ~14 |
+| First Blood | 63.00% | ~15 |
 | No Asperascope | 54.00% | ~13 |
 | Triple Kill | 50.00% | ~12 |
 | Cornivore | 50.00% | ~12 |

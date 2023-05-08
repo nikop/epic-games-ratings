@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,893 |
-| That's a Grand Army | 8.00% | ~2,572 |
-| That is mine! | 8.00% | ~2,572 |
-| Victorious! | 8.00% | ~2,572 |
-| Brothers in Arms | 6.00% | ~1,929 |
-| That's a Grand Navy | 6.00% | ~1,929 |
-| Seriously?! | 6.00% | ~1,929 |
-| For the Glory | 5.00% | ~1,607 |
-| Cold War | 4.00% | ~1,286 |
-| True Catholic | 4.00% | ~1,286 |
-| Defender of the Faith | 3.00% | ~964 |
-| It's all about the money | 3.00% | ~964 |
-| Respected | 3.00% | ~964 |
+| Until death do us apart | 9.00% | ~2,895 |
+| That's a Grand Army | 8.00% | ~2,573 |
+| That is mine! | 8.00% | ~2,573 |
+| Victorious! | 8.00% | ~2,573 |
+| Brothers in Arms | 6.00% | ~1,930 |
+| That's a Grand Navy | 6.00% | ~1,930 |
+| Seriously?! | 6.00% | ~1,930 |
+| For the Glory | 5.00% | ~1,608 |
+| Cold War | 4.00% | ~1,287 |
+| True Catholic | 4.00% | ~1,287 |
+| Defender of the Faith | 3.00% | ~965 |
+| It's all about the money | 3.00% | ~965 |
+| Respected | 3.00% | ~965 |
 | Blockader | 2.00% | ~643 |
 | Combined Arms | 2.00% | ~643 |
 | Double the Love | 2.00% | ~643 |
@@ -29,13 +29,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~643 |
 | Total Control | 2.00% | ~643 |
 | Truly Divine Ruler | 2.00% | ~643 |
-| Agressive Expander | 1.00% | ~321 |
-| All That's Thine Shall Be Mine | 1.00% | ~321 |
-| Azur semé de lis or | 1.00% | ~321 |
-| Bright Spark | 1.00% | ~321 |
-| Factionalism | 1.00% | ~321 |
-| A Golden Empire | 1.00% | ~321 |
-| My armies are invincible! | 1.00% | ~321 |
+| Agressive Expander | 1.00% | ~322 |
+| All That's Thine Shall Be Mine | 1.00% | ~322 |
+| Azur semé de lis or | 1.00% | ~322 |
+| Bright Spark | 1.00% | ~322 |
+| Factionalism | 1.00% | ~322 |
+| A Golden Empire | 1.00% | ~322 |
+| My armies are invincible! | 1.00% | ~322 |
 | City of Cities | 0.90% | ~289 |
 | Isn't this the way to India? | 0.80% | ~257 |
 | The Five Colonies | 0.80% | ~257 |
@@ -56,6 +56,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Voting Streak | 0.40% | ~129 |
 | Absolutely | 0.30% | ~96 |
 | All Your Trade Are Belong to Us | 0.30% | ~96 |
+| Bleed Them Dry | 0.30% | ~96 |
 | Dude, Where's my Boat? | 0.30% | ~96 |
 | Four For Trade | 0.30% | ~96 |
 | Grand Coalition | 0.30% | ~96 |
@@ -70,7 +71,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Pile of Gold | 0.20% | ~64 |
 | A Protected Market | 0.20% | ~64 |
 | AAA Credit | 0.20% | ~64 |
-| Bleed Them Dry | 0.20% | ~64 |
 | Global Hegemony | 0.20% | ~64 |
 | Grand Duchy | 0.20% | ~64 |
 | Imperio español | 0.20% | ~64 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,144 (Ranked 80)  
+Progressed: 32,163 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 0 (0.00%) (Ranked 192)
 | 2023-05-05 | 30,168 | 0 |
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
-| 2023-05-08 | 32,144 | 0 |
+| 2023-05-08 | 32,163 | 0 |
 ## Awards
 Max (Educational): 5,190  (Ranked 60)  
 Sum: 42,931 (Ranked 27)  

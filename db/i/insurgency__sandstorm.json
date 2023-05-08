@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.61,
   "NumberOfRatings": 1316,
   "RatingHistory": [
@@ -1781,10 +1781,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2620,
       "NumberOfAwardsMax": 350
+    },
+    {
+      "Time": "2023-05-08T08:59:26.4972951+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2622,
+      "NumberOfAwardsMax": 350
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2620,
+  "NumberOfAwards": 2622,
   "NumberOfAwardsMax": 350,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1834,7 +1840,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 311
+      "Count": 313
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1855,9 +1861,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 363772,
+  "EOS_Progressed": 363781,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3764,
+  "EOS_NewPlayers": 3754,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3365,6 +3371,11 @@
       "Time": "2023-05-08T08:06:22.5488905+00:00",
       "NumProgressed": 363772,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-08T09:07:24.5282009+00:00",
+      "NumProgressed": 363781,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -3376,7 +3387,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7276
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -3448,7 +3459,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7276
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -3456,7 +3467,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7276
     },
     {
       "ID": "ACH_GROUNDED",
@@ -3552,7 +3563,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7276
     },
     {
       "ID": "ACH_REFLEXES",
@@ -3584,7 +3595,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7276
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -3655,15 +3666,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 363772,
+      "Progressed": 363781,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-05-07T21:59:09.7149698+00:00",
-  "LastChanged_Achievements": "2023-05-08T08:06:22.5488901+00:00",
+  "LastChanged": "2023-05-08T08:59:26.4972949+00:00",
+  "LastChanged_Achievements": "2023-05-08T09:07:24.5282005+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.258944+00:00",
-  "LastUpdate_Ratings": "2023-05-08T07:59:12.2829614+00:00",
-  "LastUpdate_Achievements": "2023-05-08T08:06:22.548918+00:00"
+  "LastUpdate_Ratings": "2023-05-08T08:59:26.4972956+00:00",
+  "LastUpdate_Achievements": "2023-05-08T09:07:24.5282304+00:00"
 }

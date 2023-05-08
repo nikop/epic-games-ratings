@@ -31,6 +31,7 @@
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
+| [Mokoko X](../games/c/cace077f51674e66b937ba8d5646fff7.md) | 73 | 1,000 |
 | [Zombie Rollerz: Pinball Heroes](../games/z/zombie_rollerz__pinball_heroes.md) | 73 | 1,000 |
 | [Galactic Civilizations IV](../games/g/galactic_civilizations_iv.md) | 72 | 1,000 |
 | [Saints Row IV Re-Elected](../games/s/saints_row_iv_re-elected.md) | 72 | 1,000 |

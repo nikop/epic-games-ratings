@@ -8,7 +8,7 @@
 | Waff! | 93.00% | ~458 |
 | Into the Barn | 87.00% | ~429 |
 | A Prophecy | 85.00% | ~419 |
-| Sword, Shield, Fight! | 74.00% | ~365 |
+| Sword, Shield, Fight! | 75.00% | ~370 |
 | A Grand Visit | 69.00% | ~340 |
 | Vibing | 59.00% | ~291 |
 | Fun Guy | 59.00% | ~291 |
@@ -20,8 +20,8 @@
 | Curtain Call | 38.00% | ~187 |
 | Well Rested | 36.00% | ~177 |
 | Piece of Cake | 35.00% | ~173 |
+| Gooey Delight! | 35.00% | ~173 |
 | Glimmer of Hope | 35.00% | ~173 |
-| Gooey Delight! | 34.00% | ~168 |
 | Teacups for Toppy | 34.00% | ~168 |
 | Nightmare Fuel | 33.00% | ~163 |
 | Take Heart | 33.00% | ~163 |

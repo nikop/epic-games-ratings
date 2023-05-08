@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~261 |
 | The Contagious Curse | 0.30% | ~261 |
 | Escort to Waterdeep | 0.30% | ~261 |
+| Waterdeep Detours | 0.30% | ~261 |
 | Pure Energy | 0.30% | ~261 |
 | Pros and CONs | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
@@ -91,7 +92,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.20% | ~106 |
 | Close Escort | 0.20% | ~174 |
 | Constant Banditry | 0.20% | ~174 |
-| Waterdeep Detours | 0.20% | ~174 |
 | Lost in the Deep | 0.20% | ~174 |
 | Easily Distracted | 0.20% | ~174 |
 | Rude Welcome | 0.20% | ~174 |
@@ -99,7 +99,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~174 |
 | Moose Tracks | 0.20% | ~106 |
 | Civilization | 0.20% | ~106 |
+| Durable Deep | 0.20% | ~174 |
 | Witty Riposting | 0.20% | ~106 |
+| How Far Away is Thay | 0.20% | ~106 |
 | The Templar's Camp | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
 | Upholding the Law | 0.10% | ~87 |
@@ -421,7 +423,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ten in Ten-Towns | 0.10% | ~53 |
 | Trench Coat Run | 0.10% | ~53 |
 | The Taunting Lord | 0.10% | ~53 |
-| Durable Deep | 0.10% | ~87 |
 | Lone Wolf Party | 0.10% | ~53 |
 | The Sibriex | 0.10% | ~53 |
 | The Archduke's Blessing | 0.10% | ~53 |
@@ -450,7 +451,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waiting on Sunrise | 0.10% | ~53 |
 | Frontline Fighters | 0.10% | ~53 |
 | A Chilling Encounter | 0.10% | ~53 |
-| How Far Away is Thay | 0.10% | ~53 |
 | Deekin's Mission | 0.10% | ~53 |
 | Dive Bomb | 0.10% | ~53 |
 | Fire and Ice | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,836 (Ranked 59)  
+Progressed: 86,839 (Ranked 59)  
 Completed: 1,813 (2.09%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,813 (2.09%) (Ranked 56)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,836 | 1,813 |
+| 2023-05-08 | 86,839 | 1,813 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,831 (Ranked 37)  

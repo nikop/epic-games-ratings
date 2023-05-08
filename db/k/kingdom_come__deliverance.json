@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 51,
   "Rating": 4.71,
   "NumberOfRatings": 9133,
@@ -4420,9 +4420,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 780092,
+  "EOS_Progressed": 780094,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1158,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5900,6 +5900,11 @@
       "Time": "2023-05-08T08:06:42.5601518+00:00",
       "NumProgressed": 780092,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-08T09:07:49.9220128+00:00",
+      "NumProgressed": 780094,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -5943,7 +5948,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 156018
+      "UsersEstimate": 156019
     },
     {
       "ID": "BadGirl",
@@ -6023,7 +6028,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 195023
+      "UsersEstimate": 195024
     },
     {
       "ID": "Chivalrous",
@@ -6111,7 +6116,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179421
+      "UsersEstimate": 179422
     },
     {
       "ID": "Fighter",
@@ -6391,7 +6396,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156018
+      "UsersEstimate": 156019
     },
     {
       "ID": "RevenantOfLedechko",
@@ -6415,7 +6420,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54606
+      "UsersEstimate": 54607
     },
     {
       "ID": "Saviour",
@@ -6431,7 +6436,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156018
+      "UsersEstimate": 156019
     },
     {
       "ID": "SerialKiller",
@@ -6566,15 +6571,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 780092,
+      "Progressed": 780094,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-05-08T04:59:48.6102634+00:00",
-  "LastChanged_Achievements": "2023-05-08T08:06:42.5601513+00:00",
+  "LastChanged_Achievements": "2023-05-08T09:07:49.9220124+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:36.7621018+00:00",
-  "LastUpdate_Ratings": "2023-05-08T07:59:43.0583984+00:00",
-  "LastUpdate_Achievements": "2023-05-08T08:06:42.5602337+00:00"
+  "LastUpdate_Ratings": "2023-05-08T09:00:10.9094084+00:00",
+  "LastUpdate_Achievements": "2023-05-08T09:07:49.9220973+00:00"
 }
