@@ -5,22 +5,22 @@ Rating: 3.27 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 87.00% | ~1,253 |
-| Home Is Where the Heart Is | 68.00% | ~979 |
-| Wounded Whispers | 68.00% | ~979 |
+| I Like My Stakes Rare! | 87.00% | ~1,254 |
+| Home Is Where the Heart Is | 68.00% | ~980 |
+| Wounded Whispers | 68.00% | ~980 |
 | Ne Plus Ultra | 67.00% | ~965 |
-| Blood Will Have Blood | 55.00% | ~792 |
-| ICU | 51.00% | ~734 |
+| Blood Will Have Blood | 55.00% | ~793 |
+| ICU | 51.00% | ~735 |
 | Catch and Release | 50.00% | ~720 |
 | Peek-a-boo | 49.00% | ~706 |
-| Sucks To Be You | 48.00% | ~691 |
+| Sucks To Be You | 48.00% | ~692 |
 | Welcome to the Neighborhood | 42.00% | ~605 |
 | Fly Fisher | 39.00% | ~562 |
-| Throw The First Stone | 38.00% | ~547 |
-| Enter of Your Own Free Will | 36.00% | ~518 |
+| Throw The First Stone | 38.00% | ~548 |
+| Enter of Your Own Free Will | 36.00% | ~519 |
 | Heart Attack | 35.00% | ~504 |
 | Skin of Their Teeth | 35.00% | ~504 |
-| Grounded | 26.00% | ~374 |
+| Grounded | 26.00% | ~375 |
 | Bad Wiring | 23.00% | ~331 |
 | I Spit On Your Grave | 22.00% | ~317 |
 | Neighborhood Revitalization | 17.00% | ~245 |
@@ -40,11 +40,11 @@ Rating: 3.27 (Ranked 919)
 | Silence Is Golden | 3.00% | ~43 |
 | Good Morning | 3.00% | ~43 |
 | Check, Please! | 3.00% | ~43 |
-| Empty Nest Syndrome | 3.00% | ~43 |
 | Blacklight Down | 3.00% | ~43 |
 | Dexterity Save | 3.00% | ~43 |
 | Scream Team | 2.00% | ~29 |
 | Blood Brother | 2.00% | ~29 |
+| Empty Nest Syndrome | 2.00% | ~29 |
 | Bloody Initiate | 2.00% | ~29 |
 | Harvest’s End | 2.00% | ~29 |
 | Curious Finch | 2.00% | ~29 |
@@ -72,7 +72,7 @@ Rating: 3.27 (Ranked 919)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,440 (Ranked 152)  
+Progressed: 1,441 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-05 | 1,266 | 0 |
 | 2023-05-06 | 1,344 | 0 |
 | 2023-05-07 | 1,412 | 0 |
-| 2023-05-08 | 1,440 | 0 |
+| 2023-05-08 | 1,441 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

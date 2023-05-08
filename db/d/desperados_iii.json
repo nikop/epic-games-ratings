@@ -3,12 +3,12 @@
   "Name": "Desperados III",
   "ProductSlug": "desperados-3",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 395,
+  "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.84,
   "NumberOfRatings": 351,
   "RatingHistory": [
@@ -553,6 +553,6 @@
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
   "LastChanged": "2023-05-03T15:01:25.3421215+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:34.4692293+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:01:42.2247799+00:00",
-  "LastUpdate_Achievements": "2023-05-08T18:06:25.0573662+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:02:48.2203942+00:00",
+  "LastUpdate_Achievements": "2023-05-08T19:06:54.2496519+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 69.00% | ~99 |
+| Read Between The Lines | 62.00% | ~89 |
 | High Profile | 62.00% | ~89 |
-| Read Between The Lines | 61.00% | ~87 |
 | Whispers In The Dark | 60.00% | ~86 |
 | A Method To His Madness | 55.00% | ~79 |
 | The New World | 55.00% | ~79 |

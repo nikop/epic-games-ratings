@@ -6,14 +6,14 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 13.00% | ~76,341 |
-| Incurious | 13.00% | ~76,341 |
-| Stroller | 12.00% | ~70,468 |
-| Climate Change | 12.00% | ~70,468 |
-| Toy Train | 10.00% | ~58,724 |
-| Hiker | 9.00% | ~52,851 |
-| Advanced Hiker | 9.00% | ~52,851 |
-| Mojave Courier | 4.00% | ~23,489 |
+| Advanced Stroller | 13.00% | ~76,344 |
+| Incurious | 13.00% | ~76,344 |
+| Stroller | 12.00% | ~70,471 |
+| Climate Change | 12.00% | ~70,471 |
+| Toy Train | 10.00% | ~58,726 |
+| Hiker | 9.00% | ~52,853 |
+| Advanced Hiker | 9.00% | ~52,853 |
+| Mojave Courier | 4.00% | ~23,490 |
 | Voyager | 2.00% | ~11,745 |
 | Advanced Voyager | 2.00% | ~11,745 |
 | Expert Stroller | 2.00% | ~11,745 |
@@ -22,7 +22,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Marathon | 2.00% | ~11,745 |
 | Destructionist | 2.00% | ~11,745 |
 | Saved by Nausicaä | 2.00% | ~11,745 |
-| Lost | 1.00% | ~5,872 |
+| Lost | 1.00% | ~5,873 |
 | Rocketman | 0.50% | ~2,936 |
 | Shopaholic | 0.50% | ~2,936 |
 | Expert Voyager | 0.40% | ~2,349 |
@@ -33,10 +33,10 @@ Number of Ratings: 21,990  (23.09.2022)
 | Scrooge | 0.30% | ~1,762 |
 | Snowman's Land | 0.30% | ~1,762 |
 | Tough Nut! | 0.30% | ~1,762 |
-| Trans-Siberian Railway | 0.20% | ~1,174 |
-| Engineer | 0.20% | ~1,174 |
-| Satan's Minion | 0.20% | ~1,174 |
-| Dynamite Fishing | 0.20% | ~1,174 |
+| Trans-Siberian Railway | 0.20% | ~1,175 |
+| Engineer | 0.20% | ~1,175 |
+| Satan's Minion | 0.20% | ~1,175 |
+| Dynamite Fishing | 0.20% | ~1,175 |
 | Explorer | 0.10% | ~587 |
 | Advanced Explorer | 0.10% | ~587 |
 | Expert Wayfarer | 0.10% | ~587 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~587 |
 | 20 Miles under the Sea | 0.10% | ~587 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587,235 (Ranked 21)  
+Progressed: 587,258 (Ranked 21)  
 Completed: 6 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 6 (0.00%) (Ranked 194)
 | 2023-05-05 | 585,767 | 6 |
 | 2023-05-06 | 586,367 | 6 |
 | 2023-05-07 | 586,986 | 6 |
-| 2023-05-08 | 587,235 | 6 |
+| 2023-05-08 | 587,258 | 6 |
 ## Awards
 Max (Diverse Characters): 184  (Ranked 263)  
 Sum: 1,500 (Ranked 207)  

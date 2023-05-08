@@ -4,8 +4,8 @@
   "ProductSlug": "nasa-xoss-marsxr-editor",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:04.8373376+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:04.8373372+00:00",
   "LastChanged": "2023-03-31T05:58:04.8373373+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:45.5874801+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:58:59.2230161+00:00",
-  "LastUpdate_Achievements": "2023-05-08T18:05:17.860562+00:00"
+  "LastUpdate_Ratings": "2023-05-08T18:58:51.9998278+00:00",
+  "LastUpdate_Achievements": "2023-05-08T19:05:19.5081929+00:00"
 }

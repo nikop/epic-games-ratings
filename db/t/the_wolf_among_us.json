@@ -2,14 +2,14 @@
   "ID": "a8f9fb4a881e47b489715f18f7d08e2f",
   "Name": "The Wolf Among Us",
   "ProductSlug": "the-wolf-among-us",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 74,
-  "Rating": 4.8,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 73,
+  "Rating": 4.81,
   "NumberOfRatings": 511,
   "RatingHistory": [
     {
@@ -421,6 +421,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-08T19:01:01.3458596+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -438,8 +444,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.8960394+00:00",
-  "LastChanged": "2023-04-05T15:57:32.5219105+00:00",
+  "LastChanged": "2023-05-08T19:01:01.3458595+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.0160722+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:00:29.8304694+00:00",
-  "LastUpdate_Achievements": "2023-05-08T18:05:31.6405931+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:01:01.34586+00:00",
+  "LastUpdate_Achievements": "2023-05-08T19:05:39.3267779+00:00"
 }

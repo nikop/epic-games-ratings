@@ -6,28 +6,28 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,485 |
-| Rookie | 24.00% | ~4,876 |
-| Nomad | 19.00% | ~3,860 |
-| Picking Up Speed | 18.00% | ~3,657 |
-| Welcome Maya | 16.00% | ~3,250 |
-| Sightseer | 12.00% | ~2,438 |
+| Finding Your Footing | 27.00% | ~5,487 |
+| Rookie | 24.00% | ~4,877 |
+| Nomad | 19.00% | ~3,861 |
+| Picking Up Speed | 18.00% | ~3,658 |
+| Welcome Maya | 16.00% | ~3,252 |
+| Sightseer | 12.00% | ~2,439 |
 | Scout | 10.00% | ~2,032 |
-| Amateur | 9.00% | ~1,828 |
-| Enter Paz | 9.00% | ~1,828 |
-| Wanderer | 9.00% | ~1,828 |
-| Unlock Maya | 7.00% | ~1,422 |
+| Amateur | 9.00% | ~1,829 |
+| Enter Paz | 9.00% | ~1,829 |
+| Wanderer | 9.00% | ~1,829 |
+| Unlock Maya | 7.00% | ~1,423 |
 | Aviator | 6.00% | ~1,219 |
 | One With The Board | 6.00% | ~1,219 |
 | Voyager | 6.00% | ~1,219 |
 | My Little Friend | 5.00% | ~1,016 |
 | Sandboarder | 4.00% | ~813 |
 | Izel Has Arrived | 4.00% | ~813 |
-| Junkie | 3.00% | ~609 |
-| Traveler | 3.00% | ~609 |
-| Journeyer | 3.00% | ~609 |
-| Unlock Paz | 3.00% | ~609 |
-| Here Comes Felipe | 3.00% | ~609 |
+| Junkie | 3.00% | ~610 |
+| Traveler | 3.00% | ~610 |
+| Journeyer | 3.00% | ~610 |
+| Unlock Paz | 3.00% | ~610 |
+| Here Comes Felipe | 3.00% | ~610 |
 | Pro | 2.00% | ~406 |
 | Human Flight | 2.00% | ~406 |
 | Explorer | 1.00% | ~203 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~20 |
 | Windswept | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,315 (Ranked 90)  
+Progressed: 20,322 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 3 (0.01%) (Ranked 186)
 | 2023-05-05 | 19,841 | 3 |
 | 2023-05-06 | 20,025 | 3 |
 | 2023-05-07 | 20,214 | 3 |
-| 2023-05-08 | 20,315 | 3 |
+| 2023-05-08 | 20,322 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 404)  
 Sum: 344 (Ranked 313)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-05-02T01:56:41.6239384+00:00",
@@ -18,7 +18,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -133,6 +133,11 @@
       "Time": "2023-05-08T18:06:30.4506018+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T19:07:01.732356+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -182,7 +187,7 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -190,9 +195,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_first_harvest",
@@ -200,7 +205,7 @@
       "Name": "Seeds of War",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -214,7 +219,7 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -254,7 +259,7 @@
       "ID": "ach_horde_graveside",
       "SetID": "cmg602e",
       "Name": "Graveside Survivor",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -286,7 +291,7 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -414,7 +419,7 @@
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -422,17 +427,17 @@
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -446,17 +451,17 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 52,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -486,16 +491,16 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
@@ -503,8 +508,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-08T18:06:30.4506013+00:00",
+  "LastChanged_Achievements": "2023-05-08T19:07:01.732355+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-08T17:59:46.5155679+00:00",
-  "LastUpdate_Achievements": "2023-05-08T18:06:30.450636+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:00:00.2298556+00:00",
+  "LastUpdate_Achievements": "2023-05-08T19:07:01.7323977+00:00"
 }

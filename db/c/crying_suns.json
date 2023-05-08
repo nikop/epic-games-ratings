@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.5,
   "NumberOfRatings": 1003,
   "RatingHistory": [
@@ -530,9 +530,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457546,
+  "EOS_Progressed": 457550,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1955,6 +1955,11 @@
       "Time": "2023-05-08T18:07:02.6256228+00:00",
       "NumProgressed": 457546,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-08T19:07:43.7923694+00:00",
+      "NumProgressed": 457550,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -1990,7 +1995,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 100660
+      "UsersEstimate": 100661
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -2030,7 +2035,7 @@
       "Name": "A Rock in the Dark",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "achievement_story_ending_emperor",
@@ -2038,7 +2043,7 @@
       "Name": "Emperor of Misery",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "achievement_story_ending_rebecca",
@@ -2046,7 +2051,7 @@
       "Name": "A Frozen Lady",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "achievement_story_event_bowie_ended",
@@ -2054,7 +2059,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 301980
+      "UsersEstimate": 301983
     },
     {
       "ID": "achievement_story_landa",
@@ -2062,7 +2067,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22877
+      "UsersEstimate": 22878
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -2070,7 +2075,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22877
+      "UsersEstimate": 22878
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -2086,7 +2091,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114386
+      "UsersEstimate": 114388
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -2102,7 +2107,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32028
+      "UsersEstimate": 32029
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -2110,7 +2115,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32028
+      "UsersEstimate": 32029
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -2142,7 +2147,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91509
+      "UsersEstimate": 91510
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -2150,7 +2155,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 150990
+      "UsersEstimate": 150992
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2166,7 +2171,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22877
+      "UsersEstimate": 22878
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -2206,7 +2211,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32028
+      "UsersEstimate": 32029
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -2390,7 +2395,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201320
+      "UsersEstimate": 201322
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -2398,7 +2403,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137264
+      "UsersEstimate": 137265
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -2422,7 +2427,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178443
+      "UsersEstimate": 178444
     },
     {
       "ID": "achievement_win_run_hard",
@@ -2446,7 +2451,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22877
+      "UsersEstimate": 22878
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -2462,7 +2467,7 @@
       "Name": "Void Rule",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "achievement_win_run_with_scrapper",
@@ -2478,28 +2483,28 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 100660
+      "UsersEstimate": 100661
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1480,
-      "Completed": 1480
+      "Progressed": 1484,
+      "Completed": 1484
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457546,
+      "Progressed": 457550,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-08T18:07:02.6256224+00:00",
+  "LastChanged_Achievements": "2023-05-08T19:07:43.7923688+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-08T18:00:38.4592396+00:00",
-  "LastUpdate_Achievements": "2023-05-08T18:07:02.6256935+00:00"
+  "LastUpdate_Ratings": "2023-05-08T19:01:13.546723+00:00",
+  "LastUpdate_Achievements": "2023-05-08T19:07:43.7924556+00:00"
 }

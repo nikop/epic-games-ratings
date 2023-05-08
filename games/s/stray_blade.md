@@ -51,7 +51,7 @@
 | The Power of the Mountains | 0.00% | ~0 |
 | Changing the World | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 345)  
+Progressed: 2 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
