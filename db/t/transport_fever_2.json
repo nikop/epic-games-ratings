@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.7,
   "NumberOfRatings": 180,
@@ -420,7 +420,7 @@
   ],
   "EOS_Progressed": 1045,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -980,9 +980,9 @@
       "ID": "achCreateLine",
       "SetID": "dgl390n",
       "Name": "First line",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 805
     },
     {
       "ID": "achCrowdInATrain",
@@ -1308,8 +1308,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-06T04:00:32.6633108+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:06:59.4691564+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:08:05.9739129+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.5035805+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:00:50.559291+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:06:59.4692046+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:01:48.4650195+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:08:05.973991+00:00"
 }

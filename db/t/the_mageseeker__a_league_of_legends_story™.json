@@ -5,7 +5,7 @@
   "Ranking_Rating": 156,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 142,
+  "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 72,
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1923,
+  "EOS_Progressed": 1924,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -968,6 +968,11 @@
       "Time": "2023-05-08T16:06:32.6040263+00:00",
       "NumProgressed": 1923,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T17:07:30.910597+00:00",
+      "NumProgressed": 1924,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1003,7 +1008,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -1043,7 +1048,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1099,7 +1104,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1155,7 +1160,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1163,7 +1168,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1195,7 +1200,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1243,7 +1248,7 @@
       "Name": "Capelworth",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -1315,7 +1320,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1402,7 +1407,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1923,
+      "Progressed": 1924,
       "Completed": 1
     }
   ],
@@ -1410,8 +1415,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-06T18:58:59.496936+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:06:32.604026+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:07:30.9105965+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:59:08.8477684+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:06:32.6040679+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:59:15.491762+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:07:30.9106846+00:00"
 }

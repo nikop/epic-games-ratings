@@ -9,10 +9,10 @@ Rating: 4.29 (Ranked 760)
 | The City | 6.00% | ~45 |
 | Manipulating Fate | 5.00% | ~37 |
 | Burn and Pillage | 4.00% | ~30 |
+| Hear me out | 4.00% | ~30 |
 | Full house | 3.00% | ~22 |
 | Ascended | 3.00% | ~22 |
 | Greedy | 3.00% | ~22 |
-| Hear me out | 3.00% | ~22 |
 | Hidden Secrets | 3.00% | ~22 |
 | Listening to the crowd | 3.00% | ~22 |
 | The Stranded King | 3.00% | ~22 |

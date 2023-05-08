@@ -5,7 +5,7 @@
   "Ranking_Rating": 834,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 122,
+  "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 43,
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4853,
+  "EOS_Progressed": 4855,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -834,6 +834,11 @@
       "Time": "2023-05-08T16:06:29.2888852+00:00",
       "NumProgressed": 4853,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-08T17:07:26.4474153+00:00",
+      "NumProgressed": 4855,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -845,7 +850,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4030
     },
     {
       "ID": "ACH02",
@@ -853,7 +858,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ACH03",
@@ -869,7 +874,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "ACH05",
@@ -917,7 +922,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ACH11",
@@ -949,7 +954,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACH15",
@@ -973,7 +978,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH18",
@@ -1076,7 +1081,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4853,
+      "Progressed": 4855,
       "Completed": 26
     }
   ],
@@ -1084,8 +1089,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-02T08:57:42.6691056+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:06:29.2888849+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:07:26.4474149+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:59:25.2230281+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:06:29.2889039+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:59:38.7722661+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:07:26.4474393+00:00"
 }

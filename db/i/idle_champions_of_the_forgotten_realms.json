@@ -3584,9 +3584,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86874,
+  "EOS_Progressed": 86882,
   "EOS_Completed": 1814,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5104,6 +5104,11 @@
       "Time": "2023-05-08T16:07:11.3226352+00:00",
       "NumProgressed": 86874,
       "NumCompleted": 1814
+    },
+    {
+      "Time": "2023-05-08T17:08:20.5652299+00:00",
+      "NumProgressed": 86882,
+      "NumCompleted": 1814
     }
   ],
   "TotalAchievements": 489,
@@ -5913,9 +5918,9 @@
       "ID": "objective_completed_1185",
       "SetID": "415jc5c",
       "Name": "Frail Doesn\u0027t Mean Broken",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 159
     },
     {
       "ID": "objective_completed_1188",
@@ -5979,7 +5984,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_1203",
@@ -6003,7 +6008,7 @@
       "Name": "Vecna Out!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "objective_completed_1209",
@@ -6457,9 +6462,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_209",
@@ -6817,9 +6822,9 @@
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_378",
@@ -6907,7 +6912,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_390",
@@ -6979,7 +6984,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_40",
@@ -7251,7 +7256,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_54",
@@ -8321,9 +8326,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_8",
@@ -8331,7 +8336,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_80",
@@ -9026,21 +9031,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53148,
-      "Completed": 2480
+      "Progressed": 53156,
+      "Completed": 2481
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86874,
+      "Progressed": 86882,
       "Completed": 1814
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-08T05:59:18.0601163+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:07:11.3226349+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:08:20.5652294+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:59:31.4874146+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:07:11.3249402+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:59:48.135058+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:08:20.5677228+00:00"
 }

@@ -13,7 +13,7 @@
 | [Sphere 3](games/s/sphere_3.md) | - | - | 0 | - |
 | [Kakele Online - MMORPG](games/k/kakele_online_-_mmorpg.md) | - | - | 0 | - |
 | [JYDGE](games/j/jydge.md) | - | - | 0 | - |
-| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.45 | 600 | 0 | 490 |
+| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.51 | 516 | 0 | 490 |
 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | - | - | 0 | - |
 | [Crimson Dawn](games/c/crimson_dawn.md) | - | - | 0 | - |
 | [Kao the Kangaroo - Mystery of the Volcano](games/k/kao_the_kangaroo_-_mystery_of_the_volcano.md) | - | - | 0 | - |
@@ -63,7 +63,7 @@
 | [Roma Invicta](games/r/roma_invicta.md) | - | - | 0 | - |
 | [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | - | - | 0 | - |
 | [Bosorka](games/b/bosorka.md) | - | - | 0 | - |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 477 | 2,650 | 89 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 477 | 2,749 | 88 |
 | [Doomed Lands](games/d/doomed_lands.md) | - | - | 0 | - |
 | [League Manager 2023](games/l/league_manager_2023.md) | - | - | 0 | - |
 | [Stray Blade](games/s/stray_blade.md) | - | - | 0 | - |
@@ -96,4 +96,3 @@
 | [Mashed](games/m/mashed.md) | - | - | 0 | - |
 | [BROK the InvestiGator](games/b/brok_the_investigator.md) | - | - | 0 | - |
 | [Glover](games/g/glover.md) | - | - | 0 | - |
-| [Unusual Findings](games/u/unusual_findings.md) | - | - | 0 | - |

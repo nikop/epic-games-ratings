@@ -6,7 +6,7 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 76.00% | ~794 |
+| First line | 77.00% | ~805 |
 | First cargo item on board | 71.00% | ~742 |
 | First cargo item waiting | 71.00% | ~742 |
 | First bus stop | 69.00% | ~721 |

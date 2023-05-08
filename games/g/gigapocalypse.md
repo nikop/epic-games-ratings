@@ -14,7 +14,7 @@
 | Power Overload | 61.00% | ~68 |
 | Destroy Erase Improve | 61.00% | ~68 |
 | Quite A Snack | 56.00% | ~63 |
-| Overwhelming Power | 50.00% | ~56 |
+| Overwhelming Power | 51.00% | ~57 |
 | Impenetrable Skin | 49.00% | ~55 |
 | Chomp Chomp! | 41.00% | ~46 |
 | Supreme Power | 38.00% | ~43 |
@@ -23,30 +23,30 @@
 | Target Practice | 37.00% | ~41 |
 | Meat Larder | 36.00% | ~40 |
 | Mutant And Proud | 35.00% | ~39 |
-| The Duelist | 33.00% | ~37 |
+| The Duelist | 34.00% | ~38 |
 | Happy Little Home | 30.00% | ~34 |
 | The Emperor's New Clothes | 29.00% | ~32 |
 | Final Evolution | 29.00% | ~32 |
-| Supremacy | 27.00% | ~30 |
-| You Shall Not Pass | 26.00% | ~29 |
-| Godlike Power | 26.00% | ~29 |
+| Supremacy | 28.00% | ~31 |
+| You Shall Not Pass | 27.00% | ~30 |
+| Godlike Power | 27.00% | ~30 |
+| Mommy's Very Angry | 26.00% | ~29 |
 | Undying Skin | 26.00% | ~29 |
-| Mommy's Very Angry | 25.00% | ~28 |
 | Animal Lover | 25.00% | ~28 |
 | Fight Me! | 25.00% | ~28 |
+| Back To The Future | 21.00% | ~24 |
 | Immortal Skin | 21.00% | ~24 |
-| Back To The Future | 20.00% | ~22 |
-| Loyal Companion | 20.00% | ~22 |
-| Fire Beacon | 19.00% | ~21 |
-| Lunch Before The Lunch | 18.00% | ~20 |
-| Building Blocks | 16.00% | ~18 |
-| From Here To Eternity | 14.00% | ~16 |
-| Boss Hunter | 14.00% | ~16 |
+| Loyal Companion | 21.00% | ~24 |
+| Fire Beacon | 20.00% | ~22 |
+| Lunch Before The Lunch | 19.00% | ~21 |
+| Building Blocks | 17.00% | ~19 |
+| From Here To Eternity | 15.00% | ~17 |
+| Boss Hunter | 15.00% | ~17 |
 | Octopostructure | 13.00% | ~15 |
 | Annihilate | 9.00% | ~10 |
 | Hawkman | 9.00% | ~10 |
+| Fashion Victim | 7.00% | ~8 |
 | Feast Time | 7.00% | ~8 |
-| Fashion Victim | 6.00% | ~7 |
 | See You Later | 5.00% | ~6 |
 | Unlucky Luke | 5.00% | ~6 |
 | Cheesy Chess | 5.00% | ~6 |

@@ -192,7 +192,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22628,
+  "EOS_Progressed": 22629,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -512,6 +512,11 @@
       "Time": "2023-05-08T06:06:18.6234409+00:00",
       "NumProgressed": 22628,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-08T17:07:21.6501617+00:00",
+      "NumProgressed": 22629,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -531,7 +536,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -587,7 +592,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17197
+      "UsersEstimate": 17198
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -627,7 +632,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18781
+      "UsersEstimate": 18782
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -643,7 +648,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12898
+      "UsersEstimate": 12899
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -691,7 +696,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4299
+      "UsersEstimate": 4300
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -707,7 +712,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16518
+      "UsersEstimate": 16519
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -715,7 +720,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -739,7 +744,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3620
+      "UsersEstimate": 3621
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -747,7 +752,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4299
+      "UsersEstimate": 4300
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -778,7 +783,7 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22628,
+      "Progressed": 22629,
       "Completed": 8
     }
   ],
@@ -786,8 +791,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-07T05:59:32.3480184+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:06:25.6857397+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:07:21.6501612+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:59:26.9814347+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:06:25.6857601+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:59:41.4529213+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:07:21.6501964+00:00"
 }

@@ -272,7 +272,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 312,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -447,6 +447,11 @@
       "Time": "2023-05-08T08:07:12.3461101+00:00",
       "NumProgressed": 311,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-08T17:08:10.0156228+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -496,9 +501,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "hire-lieutenant",
@@ -506,7 +511,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "kill-lieutenants",
@@ -522,7 +527,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "play-at-night",
@@ -570,7 +575,7 @@
       "Name": "Spread",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "send-smuggling",
@@ -578,7 +583,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "unlock-residences",
@@ -609,15 +614,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 312,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:07:02.3963725+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:08:10.0156224+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.865388+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:01:19.313256+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:07:02.3963847+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:02:27.1248261+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:08:10.0156372+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 216  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~151,515 |
-| Good Skills | 9.00% | ~136,364 |
-| Multiplier Master | 8.00% | ~121,212 |
-| Maverick | 7.00% | ~106,061 |
+| Midnight Drifter | 10.00% | ~151,517 |
+| Good Skills | 9.00% | ~136,365 |
+| Multiplier Master | 8.00% | ~121,214 |
+| Maverick | 7.00% | ~106,062 |
 | The Long Drift | 5.00% | ~75,758 |
 | Drift Line Apprentice | 3.00% | ~45,455 |
 | Mad Skills | 3.00% | ~45,455 |
@@ -24,10 +24,10 @@ Number of Ratings: 216  (23.09.2022)
 | Drift Line Master | 0.60% | ~9,091 |
 | Bacon Donuts | 0.50% | ~7,576 |
 | Double Rainbow | 0.50% | ~7,576 |
-| Washing Machine | 0.30% | ~4,545 |
+| Washing Machine | 0.30% | ~4,546 |
 | The Completionist | 0.10% | ~1,515 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,515,153 (Ranked 6)  
+Progressed: 1,515,169 (Ranked 6)  
 Completed: 597 (0.04%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 597 (0.04%) (Ranked 169)
 | 2023-05-05 | 1,514,519 | 597 |
 | 2023-05-06 | 1,514,737 | 597 |
 | 2023-05-07 | 1,515,015 | 597 |
-| 2023-05-08 | 1,515,153 | 597 |
+| 2023-05-08 | 1,515,169 | 597 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

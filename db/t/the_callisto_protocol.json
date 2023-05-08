@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.18,
   "RatingHistory": [
@@ -398,7 +398,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12546,
+  "EOS_Progressed": 12547,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -622,6 +622,11 @@
     {
       "Time": "2023-05-08T15:06:33.3448846+00:00",
       "NumProgressed": 12546,
+      "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-08T17:07:36.6660883+00:00",
+      "NumProgressed": 12547,
       "NumCompleted": 47
     }
   ],
@@ -864,9 +869,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 376
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -897,13 +902,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12546,
+      "Progressed": 12547,
       "Completed": 47
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 28
     }
   ],
@@ -911,8 +916,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-05T17:02:12.7332747+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:06:37.0051122+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:07:36.6660878+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.956904+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:59:19.8950791+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:06:37.0051347+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:59:32.0066168+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:07:36.666133+00:00"
 }

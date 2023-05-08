@@ -6,12 +6,12 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Coral Forest | 0.80% | ~118 |
 | The Marshlands | 0.80% | ~118 |
 | No Deaths | 0.80% | ~118 |
 | First Real Expedition | 0.70% | ~103 |
 | Overcoming Difficulty | 0.70% | ~103 |
 | Fertile Meadows | 0.70% | ~103 |
-| Coral Forest | 0.70% | ~103 |
 | The Scarlet Orchard | 0.70% | ~103 |
 | Barren Lands | 0.60% | ~88 |
 | Lost Colonies | 0.60% | ~88 |
@@ -21,8 +21,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 0.50% | ~74 |
 | Bandit Camp | 0.50% | ~74 |
 | Ancient Battleground | 0.50% | ~74 |
+| Cursed Lands | 0.50% | ~74 |
 | Sparkdew Crystals | 0.40% | ~59 |
 | Dangerous Lands | 0.40% | ~59 |
+| Haunted Forest | 0.40% | ~59 |
 | Levitating Monument | 0.40% | ~59 |
 | Flooded Mines | 0.40% | ~59 |
 | Monastery of the Holy Flame | 0.40% | ~59 |
@@ -30,14 +32,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.40% | ~59 |
 | Corrosive Torrent | 0.40% | ~59 |
 | Watchtower | 0.40% | ~59 |
-| Cursed Lands | 0.40% | ~59 |
 | A Real Challenge | 0.40% | ~59 |
 | Serving Ale | 0.30% | ~44 |
 | Refinery | 0.30% | ~44 |
 | Against All Odds | 0.30% | ~44 |
 | Fishmen Ritual Site | 0.30% | ~44 |
 | Forbidden Lands | 0.30% | ~44 |
-| Haunted Forest | 0.30% | ~44 |
 | Forsaken Gods Temple | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
 | Into the Forest | 0.30% | ~44 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,714 (Ranked 97)  
+Progressed: 14,715 (Ranked 97)  
 Completed: 30 (0.20%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 30 (0.20%) (Ranked 132)
 | 2023-05-05 | 14,657 | 30 |
 | 2023-05-06 | 14,678 | 30 |
 | 2023-05-07 | 14,702 | 30 |
-| 2023-05-08 | 14,714 | 30 |
+| 2023-05-08 | 14,715 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,016 (Ranked 149)  

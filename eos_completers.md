@@ -386,4 +386,4 @@
 | 193 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 193 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 193 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,569 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,570 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

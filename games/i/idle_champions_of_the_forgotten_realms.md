@@ -8,21 +8,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Checkmate | 2.00% | ~1,063 |
 | A Brief Tour of the Realms | 1.00% | ~869 |
-| Vecna Out! | 1.00% | ~531 |
+| Vecna Out! | 1.00% | ~532 |
 | Pin and Skewer | 0.90% | ~478 |
 | The Cursed Farmer | 0.80% | ~695 |
 | Bully for Vecna | 0.70% | ~372 |
 | Beast Intentions | 0.60% | ~521 |
 | The Mad Wizard | 0.60% | ~521 |
 | The Ring of Regeneration | 0.50% | ~434 |
-| Were-verpowered | 0.40% | ~347 |
-| Seeking Allies | 0.40% | ~347 |
-| Are Ya Chicken? | 0.40% | ~347 |
-| Mad Cow Disease | 0.40% | ~347 |
-| Friendly Imps | 0.40% | ~347 |
+| Were-verpowered | 0.40% | ~348 |
+| Seeking Allies | 0.40% | ~348 |
+| Are Ya Chicken? | 0.40% | ~348 |
+| Mad Cow Disease | 0.40% | ~348 |
+| Friendly Imps | 0.40% | ~348 |
 | Maddening | 0.30% | ~261 |
 | Owlbear Necessities | 0.30% | ~159 |
 | Best Thay Ever | 0.30% | ~159 |
+| Frail Doesn't Mean Broken | 0.30% | ~159 |
 | The Sanctum of the Sword | 0.30% | ~159 |
 | Get Back In The Castle | 0.30% | ~159 |
 | A Persistent Buzzing | 0.30% | ~261 |
@@ -37,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~261 |
 | Escort to Waterdeep | 0.30% | ~261 |
 | Waterdeep Detours | 0.30% | ~261 |
+| Underdeep Cartography | 0.30% | ~261 |
 | Pure Energy | 0.30% | ~261 |
 | Pros and CONs | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
@@ -53,7 +55,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~106 |
 | Hands Off! | 0.20% | ~106 |
 | The Dread Domain of Tovag | 0.20% | ~106 |
-| Frail Doesn't Mean Broken | 0.20% | ~106 |
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~106 |
 | Homecoming | 0.20% | ~174 |
@@ -67,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~174 |
 | Wisdom Check | 0.20% | ~174 |
 | No Time To Rest | 0.20% | ~174 |
+| The Mists of Ravenloft | 0.20% | ~174 |
 | Invisible Shadows | 0.20% | ~174 |
 | The Dinner Party | 0.20% | ~174 |
 | The Botched Kidnapping | 0.20% | ~174 |
@@ -75,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~174 |
 | Attack on the Manor | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
+| Treasure Hunters | 0.20% | ~174 |
 | Nimble Escape | 0.20% | ~174 |
 | Fugitives | 0.20% | ~174 |
 | Premature Betrayal | 0.20% | ~174 |
@@ -95,7 +98,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~174 |
 | Easily Distracted | 0.20% | ~174 |
 | Rude Welcome | 0.20% | ~174 |
-| Underdeep Cartography | 0.20% | ~174 |
 | Overdue Rendezvous | 0.20% | ~174 |
 | Moose Tracks | 0.20% | ~106 |
 | Civilization | 0.20% | ~106 |
@@ -226,7 +228,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~87 |
 | Azaka's Procession - Part 2 | 0.10% | ~87 |
 | Acererak's Puzzle | 0.10% | ~53 |
-| The Mists of Ravenloft | 0.10% | ~87 |
 | The Hunt for Owl-y | 0.10% | ~87 |
 | Werewolves in the Mist | 0.10% | ~87 |
 | We're not in Faerûn Anymore | 0.10% | ~87 |
@@ -260,7 +261,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~87 |
 | Our Time To Shine | 0.10% | ~87 |
 | Review by the Blackstaff | 0.10% | ~53 |
-| Treasure Hunters | 0.10% | ~87 |
 | The Guardian of Orolunga | 0.10% | ~87 |
 | Think Your Way Out Of It | 0.10% | ~87 |
 | Air's Getting Pretty Thin | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,874 (Ranked 59)  
+Progressed: 86,882 (Ranked 59)  
 Completed: 1,814 (2.09%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -514,7 +514,7 @@ Completed: 1,814 (2.09%) (Ranked 57)
 | 2023-05-05 | 86,573 | 1,806 |
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
-| 2023-05-08 | 86,874 | 1,814 |
+| 2023-05-08 | 86,882 | 1,814 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,831 (Ranked 37)  

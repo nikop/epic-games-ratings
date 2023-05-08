@@ -58,7 +58,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 702,721 (Ranked 15)  
-Completed: 12,714 (1.81%) (Ranked 59)  
+Completed: 12,716 (1.81%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 12,714 (1.81%) (Ranked 59)
 | 2023-05-05 | 702,619 | 12,709 |
 | 2023-05-06 | 702,653 | 12,709 |
 | 2023-05-07 | 702,693 | 12,713 |
-| 2023-05-08 | 702,721 | 12,714 |
+| 2023-05-08 | 702,721 | 12,716 |
 ## Awards
 Max (Great Boss Battles): 6,041  (Ranked 53)  
 Sum: 10,245 (Ranked 77)  

@@ -1,24 +1,24 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 576)  
+Rating: 4.47 (Ranked 577)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,477 |
-| Leader | 60.00% | ~3,023 |
-| Explorer | 53.00% | ~2,671 |
-| Healer | 53.00% | ~2,671 |
+| First Step | 69.00% | ~3,478 |
+| Leader | 60.00% | ~3,025 |
+| Explorer | 53.00% | ~2,672 |
+| Healer | 53.00% | ~2,672 |
 | Aspiring Inventor | 45.00% | ~2,268 |
-| Adventurer | 41.00% | ~2,066 |
-| Famous Healer | 38.00% | ~1,915 |
+| Adventurer | 41.00% | ~2,067 |
+| Famous Healer | 38.00% | ~1,916 |
 | Local Leader | 35.00% | ~1,764 |
-| New Opportunities | 34.00% | ~1,713 |
-| Famous Explorer | 33.00% | ~1,663 |
-| Energized | 33.00% | ~1,663 |
-| The Long Haul | 33.00% | ~1,663 |
-| Survivor | 31.00% | ~1,562 |
+| New Opportunities | 34.00% | ~1,714 |
+| Famous Explorer | 33.00% | ~1,664 |
+| Energized | 33.00% | ~1,664 |
+| The Long Haul | 33.00% | ~1,664 |
+| Survivor | 31.00% | ~1,563 |
 | The Great Healer | 30.00% | ~1,512 |
 | Cleaner | 28.00% | ~1,411 |
 | Catastrofan | 28.00% | ~1,411 |
@@ -28,15 +28,15 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 23.00% | ~1,159 |
 | Mentor | 23.00% | ~1,159 |
 | Great Leader | 22.00% | ~1,109 |
-| Merchant | 21.00% | ~1,058 |
-| Real Survivor | 21.00% | ~1,058 |
-| War Never Changes | 19.00% | ~957 |
-| Rocket Surgeon | 19.00% | ~957 |
-| Friendly | 16.00% | ~806 |
-| Big Game Hunter | 16.00% | ~806 |
+| Merchant | 21.00% | ~1,059 |
+| Real Survivor | 21.00% | ~1,059 |
+| War Never Changes | 19.00% | ~958 |
+| Rocket Surgeon | 19.00% | ~958 |
+| Big Game Hunter | 17.00% | ~857 |
+| Friendly | 16.00% | ~807 |
 | Around the World | 15.00% | ~756 |
 | Spreading Influence | 15.00% | ~756 |
-| Bookworm | 14.00% | ~705 |
+| Bookworm | 14.00% | ~706 |
 | Famous Adventurer | 13.00% | ~655 |
 | Prepared for Anything | 12.00% | ~605 |
 | Big Catastrofan | 12.00% | ~605 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,039 (Ranked 120)  
+Progressed: 5,041 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 193)
 | 2023-05-05 | 4,912 | 0 |
 | 2023-05-06 | 4,969 | 0 |
 | 2023-05-07 | 5,014 | 0 |
-| 2023-05-08 | 5,039 | 0 |
+| 2023-05-08 | 5,041 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 321)  
 Sum: 651 (Ranked 267)  

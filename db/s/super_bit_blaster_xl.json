@@ -2,22 +2,27 @@
   "ID": "b9857458d4d5405bb222610cd9f979d9",
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
-  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-08T17:07:26.681993+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -165,13 +170,13 @@
     {
       "ID": "1f269fc",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:06:29.4672877+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:07:26.6819926+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:04.1567493+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:59:15.0863583+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:06:29.4672974+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:59:25.3773541+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:07:26.682012+00:00"
 }

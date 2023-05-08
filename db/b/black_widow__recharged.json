@@ -126,7 +126,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13888,
+  "EOS_Progressed": 13891,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
@@ -1321,6 +1321,11 @@
       "Time": "2023-05-08T16:07:05.5797034+00:00",
       "NumProgressed": 13888,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-08T17:08:13.9368626+00:00",
+      "NumProgressed": 13891,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 14,
@@ -1332,7 +1337,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10972
+      "UsersEstimate": 10974
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -1388,7 +1393,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7361
+      "UsersEstimate": 7362
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -1404,7 +1409,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -1436,22 +1441,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13888,
+      "Progressed": 13891,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:07:05.5797031+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:08:13.9368621+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:28.2137622+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:01:34.8759281+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:07:05.579719+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:02:47.6106076+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:08:13.9368927+00:00"
 }

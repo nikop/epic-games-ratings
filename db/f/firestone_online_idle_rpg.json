@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 913,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1481,9 +1481,9 @@
       "ID": "hunter",
       "SetID": "3nl4bcg",
       "Name": "Hunter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "inspection",
@@ -1826,8 +1826,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:06:40.5159378+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:07:41.0973749+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-08T15:59:28.6841517+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:06:40.5160064+00:00"
+  "LastUpdate_Ratings": "2023-05-08T16:59:43.9336881+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:07:41.0974986+00:00"
 }

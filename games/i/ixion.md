@@ -12,12 +12,12 @@ Rating: 4.54 (Ranked 477)
 | Exceeding Capacity | 0.40% | ~7 |
 | Fully Recycled | 0.40% | ~7 |
 | Ready for a New World | 0.40% | ~7 |
+| Permanent Redesigns | 0.40% | ~7 |
 | Ain't Nobody Got Time for That | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
 | Space Society | 0.30% | ~6 |
 | Sputnik 2049 | 0.30% | ~6 |
 | Power Outage | 0.30% | ~6 |
-| Permanent Redesigns | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | Infinite Growth... | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,844 (Ranked 145)  
+Progressed: 1,844 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.81,
   "NumberOfRatings": 1845,
@@ -2220,9 +2220,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14714,
+  "EOS_Progressed": 14715,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3095,6 +3095,11 @@
       "Time": "2023-05-08T16:07:03.7817077+00:00",
       "NumProgressed": 14714,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-08T17:08:11.7970343+00:00",
+      "NumProgressed": 14715,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3288,9 +3293,9 @@
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "WinNearLevitating",
@@ -3368,17 +3373,17 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 118
     },
     {
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "WinOnMarshlands",
@@ -3505,15 +3510,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14714,
+      "Progressed": 14715,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-07T10:02:06.6238058+00:00",
-  "LastChanged_Achievements": "2023-05-08T16:07:03.7817069+00:00",
+  "LastChanged_Achievements": "2023-05-08T17:08:11.7970338+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-08T16:01:12.6317353+00:00",
-  "LastUpdate_Achievements": "2023-05-08T16:07:03.7817482+00:00"
+  "LastUpdate_Ratings": "2023-05-08T17:02:18.6162163+00:00",
+  "LastUpdate_Achievements": "2023-05-08T17:08:11.7971142+00:00"
 }

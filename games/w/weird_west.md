@@ -1,17 +1,17 @@
 # Weird West
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 600)  
+Rating: 4.45 (Ranked 601)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,290 |
-| Self-Improvement | 71.00% | ~1,065 |
-| Perky | 66.00% | ~990 |
-| Let’s Ride | 60.00% | ~900 |
-| Welcome to the Weird West | 58.00% | ~870 |
-| Dead or Alive | 56.00% | ~840 |
+| Unforgiven | 86.00% | ~1,291 |
+| Self-Improvement | 71.00% | ~1,066 |
+| Perky | 66.00% | ~991 |
+| Let’s Ride | 60.00% | ~901 |
+| Welcome to the Weird West | 58.00% | ~871 |
+| Dead or Alive | 56.00% | ~841 |
 | Full House | 37.00% | ~555 |
 | Off the Trail | 34.00% | ~510 |
 | Justice Served | 29.00% | ~435 |
@@ -52,15 +52,15 @@ Number of Ratings: 125  (23.09.2022)
 | Lord Inut Sends His Regards | 2.00% | ~30 |
 | 'Ma Barker | 1.00% | ~15 |
 | Hog Wild | 0.90% | ~14 |
-| I Kicked a Bird and I Liked it | 0.70% | ~10 |
+| I Kicked a Bird and I Liked it | 0.70% | ~11 |
 | Explorer | 0.50% | ~8 |
 | End the world | 0.50% | ~8 |
 | Moon Hunter | 0.40% | ~6 |
-| Dirt and Blame | 0.30% | ~4 |
-| Winter Has Come | 0.30% | ~4 |
-| Revenant | 0.30% | ~4 |
+| Dirt and Blame | 0.30% | ~5 |
+| Winter Has Come | 0.30% | ~5 |
+| Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 149)  
+Progressed: 1,501 (Ranked 150)  
 Completed: 2 (0.13%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 2 (0.13%) (Ranked 146)
 | 2023-05-05 | 1,495 | 2 |
 | 2023-05-06 | 1,496 | 2 |
 | 2023-05-07 | 1,497 | 2 |
-| 2023-05-08 | 1,500 | 2 |
+| 2023-05-08 | 1,501 | 2 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 468)  
 Sum: 23 (Ranked 470)  

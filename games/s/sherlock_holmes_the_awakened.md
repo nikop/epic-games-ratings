@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 69.00% | ~99 |
+| High Profile | 62.00% | ~89 |
 | Read Between The Lines | 61.00% | ~87 |
-| High Profile | 61.00% | ~87 |
 | Whispers In The Dark | 60.00% | ~86 |
 | A Method To His Madness | 55.00% | ~79 |
 | The New World | 55.00% | ~79 |
@@ -29,8 +29,8 @@
 | Let Me Be Frank | 36.00% | ~51 |
 | No Stone Unturned | 35.00% | ~50 |
 | Curiosity Killed The Cat | 24.00% | ~34 |
+| Big Breakthrough | 22.00% | ~31 |
 | Read It And Weep | 22.00% | ~31 |
-| Big Breakthrough | 21.00% | ~30 |
 | Reawakened | 10.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 143 (Ranked 240)  

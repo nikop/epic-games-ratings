@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 6.00% | ~1,947,150 |
-| Snowflake | 6.00% | ~1,947,150 |
-| Fall Throttle | 5.00% | ~1,622,625 |
-| Bargain Bucket | 4.00% | ~1,298,100 |
-| Big Bully | 4.00% | ~1,298,100 |
-| Face First | 4.00% | ~1,298,100 |
-| One to Watch | 4.00% | ~1,298,100 |
-| Style Points | 4.00% | ~1,298,100 |
-| Troublemaker | 4.00% | ~1,298,100 |
-| Flawless Victory | 3.00% | ~973,575 |
-| Fall Bae | 3.00% | ~973,575 |
-| Ahead of the Pack | 3.00% | ~973,575 |
-| Stumble Chums | 3.00% | ~973,575 |
-| Victory! | 3.00% | ~973,575 |
-| Household Name | 2.00% | ~649,050 |
-| Catwalk Model | 1.00% | ~324,525 |
-| Down to the Wire | 1.00% | ~324,525 |
-| Star of the Show | 1.00% | ~324,525 |
-| Head Turner | 1.00% | ~324,525 |
-| One giant leap | 1.00% | ~324,525 |
-| Quite Dashing | 1.00% | ~324,525 |
-| Squad Goals | 1.00% | ~324,525 |
-| Big Air | 0.90% | ~292,072 |
-| Low Baller | 0.70% | ~227,167 |
-| Mad Trendy | 0.60% | ~194,715 |
-| Shopping Spree | 0.60% | ~194,715 |
-| Top Tier | 0.50% | ~162,262 |
-| Veteran Status | 0.30% | ~97,357 |
-| Show Off | 0.30% | ~97,357 |
-| Track Star | 0.20% | ~64,905 |
-| Golden Guy | 0.20% | ~64,905 |
-| Big Tease | 0.10% | ~32,452 |
-| Fall Guy Fashionista | 0.10% | ~32,452 |
-| Infallible | 0.10% | ~32,452 |
+| One small trip | 6.00% | ~1,947,204 |
+| Snowflake | 6.00% | ~1,947,204 |
+| Fall Throttle | 5.00% | ~1,622,670 |
+| Bargain Bucket | 4.00% | ~1,298,136 |
+| Big Bully | 4.00% | ~1,298,136 |
+| Face First | 4.00% | ~1,298,136 |
+| One to Watch | 4.00% | ~1,298,136 |
+| Style Points | 4.00% | ~1,298,136 |
+| Troublemaker | 4.00% | ~1,298,136 |
+| Flawless Victory | 3.00% | ~973,602 |
+| Fall Bae | 3.00% | ~973,602 |
+| Ahead of the Pack | 3.00% | ~973,602 |
+| Stumble Chums | 3.00% | ~973,602 |
+| Victory! | 3.00% | ~973,602 |
+| Household Name | 2.00% | ~649,068 |
+| Catwalk Model | 1.00% | ~324,534 |
+| Down to the Wire | 1.00% | ~324,534 |
+| Star of the Show | 1.00% | ~324,534 |
+| Head Turner | 1.00% | ~324,534 |
+| One giant leap | 1.00% | ~324,534 |
+| Quite Dashing | 1.00% | ~324,534 |
+| Squad Goals | 1.00% | ~324,534 |
+| Big Air | 0.90% | ~292,081 |
+| Low Baller | 0.70% | ~227,174 |
+| Mad Trendy | 0.60% | ~194,720 |
+| Shopping Spree | 0.60% | ~194,720 |
+| Top Tier | 0.50% | ~162,267 |
+| Veteran Status | 0.30% | ~97,360 |
+| Show Off | 0.30% | ~97,360 |
+| Track Star | 0.20% | ~64,907 |
+| Golden Guy | 0.20% | ~64,907 |
+| Big Tease | 0.10% | ~32,453 |
+| Fall Guy Fashionista | 0.10% | ~32,453 |
+| Infallible | 0.10% | ~32,453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,452,499 (Ranked 1)  
-Completed: 29,032 (0.09%) (Ranked 157)  
+Progressed: 32,453,405 (Ranked 1)  
+Completed: 29,033 (0.09%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,10 +59,10 @@ Completed: 29,032 (0.09%) (Ranked 157)
 | 2023-05-05 | 32,392,280 | 28,916 |
 | 2023-05-06 | 32,416,223 | 28,965 |
 | 2023-05-07 | 32,441,131 | 29,009 |
-| 2023-05-08 | 32,452,499 | 29,032 |
+| 2023-05-08 | 32,453,405 | 29,033 |
 ## Awards
 Max (Great for Beginners): 138,143  (Ranked 7)  
-Sum: 1,294,252 (Ranked 5)  
+Sum: 1,294,292 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -70,7 +70,7 @@ Diff (max vs sum): 2
 | This game is Relaxing | 129,607 |
 | This game has Competitive Players | 126,891 |
 | This game has Quickly Understood Controls | 126,864 |
-| This game is Great for Quick Sessions | 121,883 |
+| This game is Great for Quick Sessions | 121,923 |
 | This game has Diverse Characters | 119,414 |
 | This game is Extremely Fun | 116,149 |
 | This game is Highly Recommended | 109,353 |
@@ -183,4 +183,4 @@ Diff (max vs sum): 2
 | 2023-05-05 | 4.53 | - | 138,018 | 1,293,460 |
 | 2023-05-06 | 4.53 | - | 138,061 | 1,293,735 |
 | 2023-05-07 | 4.53 | - | 138,104 | 1,294,050 |
-| 2023-05-08 | 4.53 | - | 138,143 | 1,294,252 |
+| 2023-05-08 | 4.53 | - | 138,143 | 1,294,292 |
