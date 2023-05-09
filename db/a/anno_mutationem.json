@@ -5,9 +5,9 @@
   "Ranking_Rating": 467,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
-  "Ranking_EOS_Progress": 180,
+  "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -138,6 +138,11 @@
     {
       "Time": "2023-05-09T00:06:57.9218163+00:00",
       "NumProgressed": 600,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T18:06:14.2576376+00:00",
+      "NumProgressed": 601,
       "NumCompleted": 0
     }
   ],
@@ -300,9 +305,9 @@
       "ID": "So_Fresh",
       "SetID": "gl7plp",
       "Name": "So Fresh and So clean clean",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 42
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -318,7 +323,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -414,7 +419,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "posters",
@@ -437,7 +442,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 0
     }
   ],
@@ -445,8 +450,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-09T17:06:22.8783025+00:00",
+  "LastChanged_Achievements": "2023-05-09T18:06:14.2576372+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.2173842+00:00",
-  "LastUpdate_Ratings": "2023-05-09T16:59:08.030672+00:00",
-  "LastUpdate_Achievements": "2023-05-09T17:06:22.8783247+00:00"
+  "LastUpdate_Ratings": "2023-05-09T17:59:04.2208442+00:00",
+  "LastUpdate_Achievements": "2023-05-09T18:06:14.2576575+00:00"
 }

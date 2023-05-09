@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~518 |
-| Waff! | 93.00% | ~502 |
-| Into the Barn | 87.00% | ~470 |
+| Once Upon a Time | 96.00% | ~519 |
+| Waff! | 93.00% | ~503 |
+| Into the Barn | 87.00% | ~471 |
 | A Prophecy | 84.00% | ~454 |
-| Sword, Shield, Fight! | 75.00% | ~405 |
-| A Grand Visit | 71.00% | ~383 |
-| Vibing | 60.00% | ~324 |
-| Fun Guy | 60.00% | ~324 |
-| Tragic Brave | 51.00% | ~275 |
+| Sword, Shield, Fight! | 75.00% | ~406 |
+| A Grand Visit | 70.00% | ~379 |
+| Vibing | 60.00% | ~325 |
+| Fun Guy | 60.00% | ~325 |
+| Tragic Brave | 51.00% | ~276 |
 | Awakened Spirits | 47.00% | ~254 |
-| Little Shop | 46.00% | ~248 |
-| Surprise! | 41.00% | ~221 |
-| An Actor! | 41.00% | ~221 |
+| Little Shop | 46.00% | ~249 |
+| Surprise! | 41.00% | ~222 |
+| An Actor! | 41.00% | ~222 |
 | Curtain Call | 39.00% | ~211 |
 | Well Rested | 37.00% | ~200 |
-| Piece of Cake | 36.00% | ~194 |
-| Gooey Delight! | 36.00% | ~194 |
-| Glimmer of Hope | 36.00% | ~194 |
+| Piece of Cake | 36.00% | ~195 |
+| Gooey Delight! | 36.00% | ~195 |
+| Glimmer of Hope | 36.00% | ~195 |
 | Teacups for Toppy | 35.00% | ~189 |
 | Nightmare Fuel | 34.00% | ~184 |
 | Take Heart | 34.00% | ~184 |
@@ -30,7 +30,7 @@
 | Frog Facts! | 32.00% | ~173 |
 | Stronger! | 32.00% | ~173 |
 | It's Pointy! | 32.00% | ~173 |
-| All That Glistens | 31.00% | ~167 |
+| All That Glistens | 31.00% | ~168 |
 | All Skilled Up! | 30.00% | ~162 |
 | Spellbound | 29.00% | ~157 |
 | Extinct Again! | 28.00% | ~151 |
@@ -38,11 +38,11 @@
 | Stardust | 28.00% | ~151 |
 | Heartbreaker | 28.00% | ~151 |
 | Kidnapped! | 28.00% | ~151 |
-| Pull the Plug | 26.00% | ~140 |
-| Soul Slayer | 26.00% | ~140 |
-| All Heart | 26.00% | ~140 |
-| Trick Question! | 26.00% | ~140 |
-| Extraordinary! | 26.00% | ~140 |
+| Pull the Plug | 26.00% | ~141 |
+| Soul Slayer | 26.00% | ~141 |
+| All Heart | 26.00% | ~141 |
+| Trick Question! | 26.00% | ~141 |
+| Extraordinary! | 26.00% | ~141 |
 | The Downfall | 25.00% | ~135 |
 | Final Showdown | 25.00% | ~135 |
 | Spot of Tea? | 25.00% | ~135 |
@@ -55,8 +55,8 @@
 | Dance Master | 7.00% | ~38 |
 | Bombs Away! | 7.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540 (Ranked 188)  
-Completed: 31 (5.74%) (Ranked 26)  
+Progressed: 541 (Ranked 188)  
+Completed: 31 (5.73%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 31 (5.74%) (Ranked 26)
 | 2023-05-06 | 426 | 18 |
 | 2023-05-07 | 479 | 26 |
 | 2023-05-08 | 514 | 30 |
-| 2023-05-09 | 540 | 31 |
+| 2023-05-09 | 541 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,14 +8,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Checkmate | 2.00% | ~1,065 |
 | A Brief Tour of the Realms | 1.00% | ~870 |
-| Vecna Out! | 1.00% | ~532 |
-| Pin and Skewer | 0.90% | ~479 |
+| Pin and Skewer | 1.00% | ~533 |
+| Vecna Out! | 1.00% | ~533 |
 | Bully for Vecna | 0.80% | ~426 |
 | The Cursed Farmer | 0.80% | ~696 |
 | Beast Intentions | 0.70% | ~609 |
 | The Mad Wizard | 0.70% | ~609 |
+| The Ring of Regeneration | 0.60% | ~522 |
 | Were-verpowered | 0.50% | ~435 |
-| The Ring of Regeneration | 0.50% | ~435 |
 | A Persistent Buzzing | 0.40% | ~348 |
 | Seeking Allies | 0.40% | ~348 |
 | Are Ya Chicken? | 0.40% | ~348 |
@@ -44,28 +44,28 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~261 |
 | Underdeep Cartography | 0.30% | ~261 |
 | Pros and CONs | 0.20% | ~174 |
-| Tall Tales | 0.20% | ~106 |
-| The Witchlight Carnival | 0.20% | ~106 |
-| Thieves of the Coven | 0.20% | ~106 |
+| Tall Tales | 0.20% | ~107 |
+| The Witchlight Carnival | 0.20% | ~107 |
+| Thieves of the Coven | 0.20% | ~107 |
 | The Silken Swamp | 0.20% | ~174 |
 | Wet Feet | 0.20% | ~174 |
 | Supply Run | 0.20% | ~174 |
-| Seeds of Destruction | 0.20% | ~106 |
-| The Evacuation of Waterdeep | 0.20% | ~106 |
-| Vecna Lives! | 0.20% | ~106 |
-| Vecna Loots! | 0.20% | ~106 |
-| Return to the Tomb | 0.20% | ~106 |
-| Keep Your Distance | 0.20% | ~106 |
-| Heatwave | 0.20% | ~106 |
-| Hands Off! | 0.20% | ~106 |
-| The Dread Domain of Tovag | 0.20% | ~106 |
-| The Castle of a Thousand Vecnas | 0.20% | ~106 |
-| Kas the Bloody Handed | 0.20% | ~106 |
-| Who Lurks Below? | 0.20% | ~106 |
-| Xanathaaaaaaar! | 0.20% | ~106 |
+| Seeds of Destruction | 0.20% | ~107 |
+| The Evacuation of Waterdeep | 0.20% | ~107 |
+| Vecna Lives! | 0.20% | ~107 |
+| Vecna Loots! | 0.20% | ~107 |
+| Return to the Tomb | 0.20% | ~107 |
+| Keep Your Distance | 0.20% | ~107 |
+| Heatwave | 0.20% | ~107 |
+| Hands Off! | 0.20% | ~107 |
+| The Dread Domain of Tovag | 0.20% | ~107 |
+| The Castle of a Thousand Vecnas | 0.20% | ~107 |
+| Kas the Bloody Handed | 0.20% | ~107 |
+| Who Lurks Below? | 0.20% | ~107 |
+| Xanathaaaaaaar! | 0.20% | ~107 |
 | Homecoming | 0.20% | ~174 |
 | The Lost Heir of Omu | 0.20% | ~174 |
-| No One Can Hear You Scream | 0.20% | ~106 |
+| No One Can Hear You Scream | 0.20% | ~107 |
 | The Forbidden City | 0.20% | ~174 |
 | Captured! | 0.20% | ~174 |
 | Low Initiative | 0.20% | ~174 |
@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~174 |
 | Premature Betrayal | 0.20% | ~174 |
 | Hopelessly Lost | 0.20% | ~174 |
+| Cramped Quarters | 0.20% | ~174 |
 | Enter the Sargauth | 0.20% | ~174 |
 | A Tale of Two Cities | 0.20% | ~174 |
 | The Dead Three | 0.20% | ~174 |
@@ -104,13 +105,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
 | Resolve Amongst Chaos | 0.20% | ~174 |
-| Into The Fire | 0.20% | ~106 |
-| Hearts Aflame | 0.20% | ~106 |
-| Look Out! | 0.20% | ~106 |
-| Bad Odds in Avernus | 0.20% | ~106 |
-| An Even Worse Time in Avernus | 0.20% | ~106 |
-| The Giant's Bane Tavern | 0.20% | ~106 |
-| The Everlasting Rime | 0.20% | ~106 |
+| Into The Fire | 0.20% | ~107 |
+| Hearts Aflame | 0.20% | ~107 |
+| Look Out! | 0.20% | ~107 |
+| Bad Odds in Avernus | 0.20% | ~107 |
+| An Even Worse Time in Avernus | 0.20% | ~107 |
+| The Giant's Bane Tavern | 0.20% | ~107 |
+| The Everlasting Rime | 0.20% | ~107 |
 | Close Escort | 0.20% | ~174 |
 | Constant Banditry | 0.20% | ~174 |
 | The Long Haul | 0.20% | ~174 |
@@ -118,12 +119,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~174 |
 | Rude Welcome | 0.20% | ~174 |
 | Overdue Rendezvous | 0.20% | ~174 |
-| Moose Tracks | 0.20% | ~106 |
-| An Awakened Axe | 0.20% | ~106 |
-| Civilization | 0.20% | ~106 |
+| Moose Tracks | 0.20% | ~107 |
+| An Awakened Axe | 0.20% | ~107 |
+| Civilization | 0.20% | ~107 |
 | Durable Deep | 0.20% | ~174 |
-| Witty Riposting | 0.20% | ~106 |
-| How Far Away is Thay | 0.20% | ~106 |
+| Witty Riposting | 0.20% | ~107 |
+| How Far Away is Thay | 0.20% | ~107 |
 | The Templar's Camp | 0.20% | ~174 |
 | The Haunted Jungle | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
@@ -302,7 +303,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Careful Consideration | 0.10% | ~87 |
 | Tanking Expectations | 0.10% | ~53 |
 | Bazaar Exploits | 0.10% | ~87 |
-| Cramped Quarters | 0.10% | ~87 |
 | Flame(skull) War | 0.10% | ~87 |
 | Servants of the Demon Prince | 0.10% | ~53 |
 | Elder Rune Madness | 0.10% | ~87 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,971 (Ranked 59)  
-Completed: 1,818 (2.09%) (Ranked 58)  
+Progressed: 86,979 (Ranked 59)  
+Completed: 1,819 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -515,7 +515,7 @@ Completed: 1,818 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,971 | 1,818 |
+| 2023-05-09 | 86,979 | 1,819 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

@@ -6,23 +6,23 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~62,764 |
-| Powergamer | 26.00% | ~58,281 |
-| Barely scratched the surface | 25.00% | ~56,040 |
-| Write that down | 24.00% | ~53,798 |
-| Guns, lots of guns | 12.00% | ~26,899 |
-| Collector | 11.00% | ~24,657 |
-| Elementary! | 8.00% | ~17,933 |
-| Pumpkin Jack | 8.00% | ~17,933 |
-| Wake up! | 8.00% | ~17,933 |
-| It's honest work | 7.00% | ~15,691 |
-| Griever | 7.00% | ~15,691 |
-| Me smart | 6.00% | ~13,449 |
+| I will finish what you started | 28.00% | ~62,767 |
+| Powergamer | 26.00% | ~58,284 |
+| Barely scratched the surface | 25.00% | ~56,042 |
+| Write that down | 24.00% | ~53,801 |
+| Guns, lots of guns | 12.00% | ~26,900 |
+| Collector | 11.00% | ~24,659 |
+| Elementary! | 8.00% | ~17,934 |
+| Pumpkin Jack | 8.00% | ~17,934 |
+| Wake up! | 8.00% | ~17,934 |
+| It's honest work | 7.00% | ~15,692 |
+| Griever | 7.00% | ~15,692 |
+| Me smart | 6.00% | ~13,450 |
 | Good listener | 5.00% | ~11,208 |
 | Trash compactor | 5.00% | ~11,208 |
 | Valedictorian | 5.00% | ~11,208 |
-| BOY! | 4.00% | ~8,966 |
-| Ka-ching! | 4.00% | ~8,966 |
+| BOY! | 4.00% | ~8,967 |
+| Ka-ching! | 4.00% | ~8,967 |
 | I like to sniff around | 3.00% | ~6,725 |
 | Mind reader | 3.00% | ~6,725 |
 | So you like to read? | 3.00% | ~6,725 |
@@ -41,8 +41,8 @@ Number of Ratings: 33  (23.09.2022)
 | Random encounter | 1.00% | ~2,242 |
 | SysOp on duty | 1.00% | ~2,242 |
 | Take the blue pill | 1.00% | ~2,242 |
-| A true blacksmith | 0.90% | ~2,017 |
-| The power of three | 0.90% | ~2,017 |
+| A true blacksmith | 0.90% | ~2,018 |
+| The power of three | 0.90% | ~2,018 |
 | Let's try another | 0.80% | ~1,793 |
 | Home run | 0.80% | ~1,793 |
 | It's blue, always blue | 0.70% | ~1,569 |
@@ -50,16 +50,16 @@ Number of Ratings: 33  (23.09.2022)
 | Who wouldn't love a troll? | 0.50% | ~1,121 |
 | Enjoy these little moments | 0.40% | ~897 |
 | Un-bear-able | 0.40% | ~897 |
-| Irondec | 0.30% | ~672 |
-| LET ME OUT! | 0.30% | ~672 |
-| Well-deserved reunion | 0.30% | ~672 |
+| Irondec | 0.30% | ~673 |
+| LET ME OUT! | 0.30% | ~673 |
+| Well-deserved reunion | 0.30% | ~673 |
 | Breaking the chains | 0.20% | ~448 |
 | Aren't you overthinking? | 0.20% | ~448 |
 | Take the red pill | 0.20% | ~448 |
 | This is the way | 0.20% | ~448 |
 | Memory 5 | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,158 (Ranked 42)  
+Progressed: 224,169 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 5 (0.00%) (Ranked 196)
 | 2023-05-06 | 223,493 | 5 |
 | 2023-05-07 | 223,805 | 5 |
 | 2023-05-08 | 224,025 | 5 |
-| 2023-05-09 | 224,158 | 5 |
+| 2023-05-09 | 224,169 | 5 |
 ## Awards
 Max (Character Customization): 72  (Ranked 356)  
 Sum: 72 (Ranked 412)  

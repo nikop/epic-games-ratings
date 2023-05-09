@@ -32,6 +32,7 @@ Rating: 4.17 (Ranked 830)
 | Gotham Knight | 0.30% | ~182 |
 | The Batman Family | 0.20% | ~122 |
 | In Your Element | 0.20% | ~122 |
+| Fusion Expert | 0.20% | ~122 |
 | Not On My Watch | 0.20% | ~122 |
 | Bulldozed | 0.20% | ~122 |
 | Out of Their League | 0.20% | ~122 |
@@ -48,7 +49,6 @@ Rating: 4.17 (Ranked 830)
 | Practice Makes Perfect | 0.10% | ~61 |
 | That's Showbiz, Clayby | 0.10% | ~31 |
 | Dressed to Impress | 0.10% | ~61 |
-| Fusion Expert | 0.10% | ~61 |
 | Expert Crime Fighter | 0.10% | ~61 |
 | Talonted | 0.10% | ~61 |
 | The Man-Bat Family | 0.10% | ~61 |

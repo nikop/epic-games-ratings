@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3604,10 +3604,10 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86971,
-  "EOS_Completed": 1818,
-  "EOS_NewPlayers": 692,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 86979,
+  "EOS_Completed": 1819,
+  "EOS_NewPlayers": 695,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5254,6 +5254,11 @@
       "Time": "2023-05-09T17:07:05.8801356+00:00",
       "NumProgressed": 86971,
       "NumCompleted": 1818
+    },
+    {
+      "Time": "2023-05-09T18:06:57.3219113+00:00",
+      "NumProgressed": 86979,
+      "NumCompleted": 1819
     }
   ],
   "TotalAchievements": 489,
@@ -5337,7 +5342,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1051",
@@ -5369,7 +5374,7 @@
       "Name": "The Witchlight Carnival",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1056",
@@ -5401,7 +5406,7 @@
       "Name": "Thieves of the Coven",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1061",
@@ -5889,7 +5894,7 @@
       "Name": "Seeds of Destruction",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1153",
@@ -5913,7 +5918,7 @@
       "Name": "The Evacuation of Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1159",
@@ -5945,7 +5950,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1164",
@@ -5969,7 +5974,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1169",
@@ -6001,7 +6006,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1174",
@@ -6017,7 +6022,7 @@
       "Name": "Keep Your Distance",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1178",
@@ -6025,7 +6030,7 @@
       "Name": "Heatwave",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1179",
@@ -6041,7 +6046,7 @@
       "Name": "Hands Off!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1183",
@@ -6049,7 +6054,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1184",
@@ -6073,7 +6078,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1189",
@@ -6105,7 +6110,7 @@
       "Name": "Kas the Bloody Handed",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1198",
@@ -6143,9 +6148,9 @@
       "ID": "objective_completed_1204",
       "SetID": "415jc5c",
       "Name": "Pin and Skewer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 533
     },
     {
       "ID": "objective_completed_1208",
@@ -6153,7 +6158,7 @@
       "Name": "Vecna Out!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "objective_completed_1209",
@@ -6169,7 +6174,7 @@
       "Name": "Who Lurks Below?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1214",
@@ -6185,7 +6190,7 @@
       "Name": "Xanathaaaaaaar!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1219",
@@ -6337,7 +6342,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1346",
@@ -6943,9 +6948,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 522
     },
     {
       "ID": "objective_completed_35",
@@ -7279,9 +7284,9 @@
       "ID": "objective_completed_42",
       "SetID": "cc37lbc",
       "Name": "Cramped Quarters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_420",
@@ -8033,7 +8038,7 @@
       "Name": "Into The Fire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_631",
@@ -8057,7 +8062,7 @@
       "Name": "Hearts Aflame",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_635",
@@ -8089,7 +8094,7 @@
       "Name": "Look Out!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_640",
@@ -8121,7 +8126,7 @@
       "Name": "Bad Odds in Avernus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_645",
@@ -8153,7 +8158,7 @@
       "Name": "An Even Worse Time in Avernus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_655",
@@ -8345,7 +8350,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_691",
@@ -8377,7 +8382,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_696",
@@ -8497,7 +8502,7 @@
       "Name": "Moose Tracks",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_803",
@@ -8505,7 +8510,7 @@
       "Name": "An Awakened Axe",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_804",
@@ -8529,7 +8534,7 @@
       "Name": "Civilization",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_808",
@@ -8761,7 +8766,7 @@
       "Name": "Witty Riposting",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_852",
@@ -8793,7 +8798,7 @@
       "Name": "How Far Away is Thay",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_857",
@@ -9176,21 +9181,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53245,
+      "Progressed": 53253,
       "Completed": 2484
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86971,
-      "Completed": 1818
+      "Progressed": 86979,
+      "Completed": 1819
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-09T17:07:05.8801351+00:00",
+  "LastChanged_Achievements": "2023-05-09T18:06:57.3219109+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-09T16:59:28.1543891+00:00",
-  "LastUpdate_Achievements": "2023-05-09T17:07:05.8822541+00:00"
+  "LastUpdate_Ratings": "2023-05-09T17:59:23.6623062+00:00",
+  "LastUpdate_Achievements": "2023-05-09T18:06:57.3239906+00:00"
 }

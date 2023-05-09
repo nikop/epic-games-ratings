@@ -265,9 +265,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CULTURE_2",
@@ -505,9 +505,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -762,8 +762,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-09T17:06:42.4226767+00:00",
+  "LastChanged_Achievements": "2023-05-09T18:06:34.1927983+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-09T17:00:09.0691051+00:00",
-  "LastUpdate_Achievements": "2023-05-09T17:06:42.4227494+00:00"
+  "LastUpdate_Ratings": "2023-05-09T18:00:06.2531049+00:00",
+  "LastUpdate_Achievements": "2023-05-09T18:06:34.1928677+00:00"
 }

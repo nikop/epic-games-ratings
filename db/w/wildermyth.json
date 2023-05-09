@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -310,6 +310,11 @@
       "Time": "2023-05-09T16:06:30.3076982+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-09T18:06:20.560921+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -353,7 +358,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -369,7 +374,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -433,7 +438,7 @@
       "Name": "Back into the Sea",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_kill1000Monsters",
@@ -497,7 +502,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_mythwalker",
@@ -553,7 +558,7 @@
       "Name": "Everfading",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "completedStory_enduringWar",
@@ -569,7 +574,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "completedStory_monarchs",
@@ -577,7 +582,7 @@
       "Name": "Echoes Die",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "completedStory_procedural",
@@ -593,7 +598,7 @@
       "Name": "Daybreak",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "completedStory_vultureLord",
@@ -625,7 +630,7 @@
       "Name": "Core Failure",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -633,7 +638,7 @@
       "Name": "War-Ender",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -673,7 +678,7 @@
       "Name": "Solid as the Hills",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "theme_gem_stunt100Times",
@@ -705,7 +710,7 @@
       "Name": "Symbiosis",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "theme_skeleton_terrify10Enemies",
@@ -713,7 +718,7 @@
       "Name": "I\u0027m Not Smiling",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "theme_star_kill20EnemiesWithFallingStars",
@@ -737,7 +742,7 @@
       "Name": "Thwack!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "theme_vine_poison50Enemies",
@@ -768,15 +773,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-09T17:06:29.2077888+00:00",
+  "LastChanged_Achievements": "2023-05-09T18:06:20.5609206+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-09T17:01:34.3557223+00:00",
-  "LastUpdate_Achievements": "2023-05-09T17:06:29.2078285+00:00"
+  "LastUpdate_Ratings": "2023-05-09T18:01:34.691601+00:00",
+  "LastUpdate_Achievements": "2023-05-09T18:06:20.5609579+00:00"
 }

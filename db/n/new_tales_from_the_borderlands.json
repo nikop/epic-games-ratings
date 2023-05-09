@@ -481,9 +481,9 @@
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
       "SetID": "kakdpn",
       "Name": "And Still Champion...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 440
+      "UsersEstimate": 474
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -522,8 +522,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "LastChanged_Achievements": "2023-05-09T17:06:48.193021+00:00",
+  "LastChanged_Achievements": "2023-05-09T18:06:40.2551633+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.7717422+00:00",
-  "LastUpdate_Ratings": "2023-05-09T17:00:40.6563963+00:00",
-  "LastUpdate_Achievements": "2023-05-09T17:06:48.1930334+00:00"
+  "LastUpdate_Ratings": "2023-05-09T18:00:37.8506863+00:00",
+  "LastUpdate_Achievements": "2023-05-09T18:06:40.2551786+00:00"
 }
