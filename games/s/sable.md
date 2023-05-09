@@ -6,13 +6,13 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 35.00% | ~20,058 |
-| Just The Two of Us | 33.00% | ~18,912 |
-| Up On High | 26.00% | ~14,900 |
-| Under The Hood | 25.00% | ~14,327 |
-| The Gift of Gab | 25.00% | ~14,327 |
-| Got Your Nose | 24.00% | ~13,754 |
-| Wrapping Up | 23.00% | ~13,181 |
+| Simoon | 35.00% | ~20,059 |
+| Just The Two of Us | 33.00% | ~18,913 |
+| Up On High | 26.00% | ~14,901 |
+| Under The Hood | 25.00% | ~14,328 |
+| The Gift of Gab | 25.00% | ~14,328 |
+| Got Your Nose | 24.00% | ~13,755 |
+| Wrapping Up | 23.00% | ~13,182 |
 | More Than A Box Of Sand | 19.00% | ~10,889 |
 | Badge Hobbyist | 18.00% | ~10,316 |
 | Chum Novice | 17.00% | ~9,743 |
@@ -20,8 +20,8 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 17.00% | ~9,743 |
 | Sticky Paws | 17.00% | ~9,743 |
 | Bubble Up | 17.00% | ~9,743 |
-| Thread The Needle | 16.00% | ~9,169 |
-| Power to the People | 15.00% | ~8,596 |
+| Thread The Needle | 16.00% | ~9,170 |
+| Power to the People | 15.00% | ~8,597 |
 | Take That! | 13.00% | ~7,450 |
 | Nesting Giant | 13.00% | ~7,450 |
 | Treasure Tracker | 13.00% | ~7,450 |
@@ -54,8 +54,8 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 7.00% | ~4,012 |
 | The Climber Mask | 6.00% | ~3,439 |
 | A Hard Place | 6.00% | ~3,439 |
-| The Entertainer Mask | 5.00% | ~2,865 |
-| Bike Aficionado | 5.00% | ~2,865 |
+| The Entertainer Mask | 5.00% | ~2,866 |
+| Bike Aficionado | 5.00% | ~2,866 |
 | The Gliding | 4.00% | ~2,292 |
 | The Quick and the Curious | 4.00% | ~2,292 |
 | Chum Expert | 3.00% | ~1,719 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~1,719 |
 | Vivacious Vivarium | 2.00% | ~1,146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,309 (Ranked 68)  
+Progressed: 57,311 (Ranked 68)  
 Completed: 526 (0.92%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 526 (0.92%) (Ranked 82)
 | 2023-05-06 | 56,453 | 515 |
 | 2023-05-07 | 56,897 | 518 |
 | 2023-05-08 | 57,145 | 524 |
-| 2023-05-09 | 57,309 | 526 |
+| 2023-05-09 | 57,311 | 526 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

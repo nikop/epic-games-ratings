@@ -5,7 +5,7 @@
   "Ranking_Rating": 516,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 71,
@@ -57,26 +57,385 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-05-09T15:04:23.1364092+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 44,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "3aa2279",
+      "Name": "Valley of Wonders",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "3aa2279",
+      "Name": "Snap Out of It!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "3aa2279",
+      "Name": "There Can Only Be One!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "3aa2279",
+      "Name": "I\u0027ve Got Everything I Need Right Here",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "3aa2279",
+      "Name": "The Magic That Empowers Me!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "3aa2279",
+      "Name": "Full Ascension",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "3aa2279",
+      "Name": "Return of the Wizard King",
+      "Percentage": 14,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "16",
+      "SetID": "3aa2279",
+      "Name": "God Emperor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "3aa2279",
+      "Name": "Lord of Chaos",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "3aa2279",
+      "Name": "Arch Mage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "3aa2279",
+      "Name": "The Creator",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "3aa2279",
+      "Name": "Enchanted Archipelago",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "3aa2279",
+      "Name": "The Goddess of Nature",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "3aa2279",
+      "Name": "Eternal Lord",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "3aa2279",
+      "Name": "Realm Estate",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "3aa2279",
+      "Name": "A Wonderful Discovery",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "3aa2279",
+      "Name": "Secret Technique",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "3aa2279",
+      "Name": "Walls Cannot Stop Us",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "3aa2279",
+      "Name": "Bone Peddler",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "3aa2279",
+      "Name": "Digging for Treasure",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "3aa2279",
+      "Name": "From Friends to Family",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "3aa2279",
+      "Name": "Stronger Together",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "3aa2279",
+      "Name": "Crimson Caldera",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "3aa2279",
+      "Name": "Preparation Is Everything",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "3aa2279",
+      "Name": "Magical Synergy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "3aa2279",
+      "Name": "My Final Form",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "3aa2279",
+      "Name": "Seat of Power",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "3aa2279",
+      "Name": "In a Liege of Your Own",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "3aa2279",
+      "Name": "I Want to Break Free",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "36",
+      "SetID": "3aa2279",
+      "Name": "Fiery Friend",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "37",
+      "SetID": "3aa2279",
+      "Name": "Against the Odds",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "38",
+      "SetID": "3aa2279",
+      "Name": "Manufactured War",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "39",
+      "SetID": "3aa2279",
+      "Name": "Impenetrable Fortress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "3aa2279",
+      "Name": "The Eternal Court",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40",
+      "SetID": "3aa2279",
+      "Name": "Intimidation Tactics",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41",
+      "SetID": "3aa2279",
+      "Name": "Jack of All Tomes",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "42",
+      "SetID": "3aa2279",
+      "Name": "Master of Evilness",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "43",
+      "SetID": "3aa2279",
+      "Name": "The Grey Wizard",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "44",
+      "SetID": "3aa2279",
+      "Name": "Pruning for Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "3aa2279",
+      "Name": "Grexolis",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "3aa2279",
+      "Name": "One for All, All for One",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "3aa2279",
+      "Name": "Returning Circle",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "3aa2279",
+      "Name": "Betrayal Most Foul",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "3aa2279",
+      "Name": "I\u0027ll Fight You All",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 7,
+      "Completed": 7
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
@@ -84,8 +443,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-08T17:01:33.5902414+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:37:08.634649+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:04:23.1364086+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:33.2846548+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:33:30.8216877+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:37:08.6346518+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:00:35.7131791+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:04:23.1364925+00:00"
 }

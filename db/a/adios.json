@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54969,
+  "EOS_Progressed": 54973,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 1434,
+  "EOS_NewPlayers": 1424,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1709,6 +1709,11 @@
       "Time": "2023-05-09T14:40:07.5203614+00:00",
       "NumProgressed": 54969,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2023-05-09T15:06:54.0322999+00:00",
+      "NumProgressed": 54973,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 25,
@@ -1752,7 +1757,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11543
+      "UsersEstimate": 11544
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -1776,7 +1781,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "Fair\u0027sFair",
@@ -1792,7 +1797,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10444
+      "UsersEstimate": 10445
     },
     {
       "ID": "Hearty",
@@ -1808,7 +1813,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4947
+      "UsersEstimate": 4948
     },
     {
       "ID": "Magnetic Miracles",
@@ -1824,7 +1829,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10444
+      "UsersEstimate": 10445
     },
     {
       "ID": "Meaty",
@@ -1840,7 +1845,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9894
+      "UsersEstimate": 9895
     },
     {
       "ID": "Nice Try",
@@ -1848,7 +1853,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "Nothing Left to Say",
@@ -1919,7 +1924,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 54969,
+      "Progressed": 54973,
       "Completed": 441
     }
   ],
@@ -1927,8 +1932,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-08T21:02:08.2864781+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:40:07.520361+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:06:54.0322993+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:31.9453874+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:34:45.110112+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:40:07.5204056+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:01:30.9724752+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:06:54.032331+00:00"
 }

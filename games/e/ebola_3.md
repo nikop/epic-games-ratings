@@ -17,13 +17,13 @@
 | Hospital ✔ | 6.00% | ~9 |
 | Antivirus ✔ | 5.00% | ~8 |
 | Cheats ✔ | 5.00% | ~8 |
+| City ✔ | 5.00% | ~8 |
 | King of survival ✔ | 5.00% | ~8 |
 | Thirst ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~6 |
 | Alice ✔ | 4.00% | ~6 |
 | Betty ✔ | 4.00% | ~6 |
 | Brain ✔ | 4.00% | ~6 |
-| City ✔ | 4.00% | ~6 |
 | Eva ✔ | 4.00% | ~6 |
 | Food ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |

@@ -4,7 +4,7 @@
 Rating: 4.79 (Ranked 91)  
 ## Awards
 Max (Educational): 509  (Ranked 181)  
-Sum: 3,312 (Ranked 143)  
+Sum: 3,317 (Ranked 143)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 38
 | This game is Highly Recommended | 431 |
 | This game has a Creative Community | 405 |
 | This game has Amazing Characters | 400 |
-| This game has Amazing Storytelling | 375 |
+| This game has Amazing Storytelling | 380 |
 | This game has Challenging Combat | 304 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -67,4 +67,4 @@ Diff (max vs sum): 38
 | 2023-05-06 | 4.79 | 497 | 3,241 |
 | 2023-05-07 | 4.79 | 502 | 3,275 |
 | 2023-05-08 | 4.79 | 502 | 3,299 |
-| 2023-05-09 | 4.79 | 509 | 3,312 |
+| 2023-05-09 | 4.79 | 509 | 3,317 |

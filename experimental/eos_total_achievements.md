@@ -133,6 +133,7 @@
 | [Saint Kotar](../games/s/saint_kotar.md) | 45 | 1,000 |
 | [60 Parsecs!](../games/6/60_parsecs!.md) | 44 | 1,000 |
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
+| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 44 | 1,000 |
 | [Aragami 2](../games/a/aragami_2.md) | 44 | 1,000 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |

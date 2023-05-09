@@ -2,7 +2,7 @@
   "ID": "590fecfbde11448f8aa3334449fc7465",
   "Name": "Trivia King",
   "ProductSlug": "trivia-king-982cec",
-  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 71,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:58:38.7764208+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:31:08.758301+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:37:05.63904+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:58:43.1024144+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:04:20.7558735+00:00"
 }

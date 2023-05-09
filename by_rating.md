@@ -92,7 +92,7 @@
 | 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 459 |
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,440 | 115 |
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 509 | 181 |
-| 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 718 | 153 |
+| 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 720 | 153 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,244 | 97 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,007 | 135 |
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,829 | 55 |
@@ -100,7 +100,7 @@
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 306 |
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 490 |
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,747 | 64 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,889 | 37 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,899 | 37 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
 | 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,670 | 89 |
 | 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,583 | 18 |
@@ -288,7 +288,7 @@
 | 286 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 490 |
 | 286 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,424 | 68 |
 | 286 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 408 |
-| 286 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 164 | 277 |
+| 286 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 164 | 278 |
 | 286 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 490 |
 | 286 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 318 | 218 |
 | 286 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 45 | 400 |
@@ -407,7 +407,7 @@
 | 396 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 353 |
 | 396 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 490 |
 | 396 | [The Medium](games/t/the_medium.md) | 4.59 | 0 | 490 |
-| 396 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 160 | 280 |
+| 396 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 166 | 277 |
 | 396 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,167 | 84 |
 | 396 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 444 |
 | 396 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
@@ -693,8 +693,8 @@
 | 689 | [Breathedge](games/b/breathedge.md) | 4.38 | 0 | 490 |
 | 689 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 490 |
 | 689 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 490 |
-| 689 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 278 |
-| 689 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 278 |
+| 689 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 279 |
+| 689 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 279 |
 | 689 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 490 |
 | 689 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
 | 689 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 439 |
