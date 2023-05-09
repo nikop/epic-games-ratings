@@ -2,9 +2,9 @@
   "ID": "f7c4775ed8a3431981d1b4173666fe16",
   "Name": "Neodymium",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:48.8110574+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:01:10.0312872+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:06:03.7663655+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:00:34.7262874+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:05:29.502644+00:00"
 }

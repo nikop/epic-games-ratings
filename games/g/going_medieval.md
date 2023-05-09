@@ -39,14 +39,14 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.90% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,633 (Ranked 134)  
-Completed: 6 (0.23%) (Ranked 131)  
+Completed: 6 (0.23%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2,633 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 302)  
-Sum: 923 (Ranked 233)  
+Sum: 924 (Ranked 233)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -55,7 +55,7 @@ Diff (max vs sum): 69
 | This game has Quickly Understood Controls | 100 |
 | This game is Extremely Fun | 100 |
 | This game has Diverse Characters | 99 |
-| This game is Highly Recommended | 94 |
+| This game is Highly Recommended | 95 |
 | This game has Amazing Characters | 90 |
 | This game has Amazing Storytelling | 81 |
 | This game has Unique Visuals | 75 |
@@ -152,3 +152,4 @@ Diff (max vs sum): 69
 | 2023-04-27 | 4.60 | - | 118 | 920 |
 | 2023-05-03 | 4.60 | - | 118 | 922 |
 | 2023-05-05 | 4.60 | - | 118 | 923 |
+| 2023-05-09 | 4.60 | - | 118 | 924 |

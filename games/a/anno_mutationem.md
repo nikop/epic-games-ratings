@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 467)
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 601 (Ranked 181)  
-Completed: 0 (0.00%) (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

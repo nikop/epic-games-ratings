@@ -24,7 +24,7 @@ Rating: 4.86 (Ranked 27)
 | Does that say weakpoint? | 52.00% | ~769 |
 | You must like calling me in, Chai | 46.00% | ~680 |
 | Out in a puff of smoke | 46.00% | ~680 |
-| Headliner | 44.00% | ~650 |
+| Headliner | 45.00% | ~665 |
 | Time to pay up! | 42.00% | ~621 |
 | Perfecter Parry-er! | 42.00% | ~621 |
 | Who's the boss now? | 40.00% | ~591 |
@@ -68,7 +68,7 @@ Rating: 4.86 (Ranked 27)
 | What a journey it was... | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,478 (Ranked 151)  
-Completed: 4 (0.27%) (Ranked 127)  
+Completed: 4 (0.27%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

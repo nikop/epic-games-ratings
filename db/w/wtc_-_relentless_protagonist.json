@@ -2,10 +2,10 @@
   "ID": "bc79c881398d46359a98d989ee7abb2e",
   "Name": "WTC - Relentless Protagonist",
   "ProductSlug": "wtc-relentless-protagonist-06c355",
-  "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-01T05:00:00+00:00",
     "PcReleaseDate": "2022-09-27T23:00:00+00:00",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-05-08T12:01:28.6185449+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:19.4138346+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:30.6722636+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:57.0664494+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:00:15.396289+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:19.4138853+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:59:51.3804832+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:30.6723338+00:00"
 }

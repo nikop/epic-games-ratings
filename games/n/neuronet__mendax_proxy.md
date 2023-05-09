@@ -19,29 +19,29 @@
 | Everyone Needs a Break | 31.00% | ~5 |
 | Job Creator | 31.00% | ~5 |
 | A Real Headache | 25.00% | ~4 |
+| The Guardian | 25.00% | ~4 |
+| Blood Begets Blood | 25.00% | ~4 |
+| Endgame | 25.00% | ~4 |
+| The Philosopher | 25.00% | ~4 |
+| The Partner | 25.00% | ~4 |
 | Socially Acceptable Insanity | 25.00% | ~4 |
+| The Companion | 25.00% | ~4 |
+| The Counsellor | 25.00% | ~4 |
 | A Total Riot | 19.00% | ~3 |
-| The Guardian | 19.00% | ~3 |
-| Blood Begets Blood | 19.00% | ~3 |
-| Endgame | 19.00% | ~3 |
-| The Philosopher | 19.00% | ~3 |
+| Full Coverage | 19.00% | ~3 |
 | Knock Knock | 19.00% | ~3 |
-| The Partner | 19.00% | ~3 |
 | Quidnunc | 19.00% | ~3 |
 | Social Butterfly | 19.00% | ~3 |
-| The Companion | 19.00% | ~3 |
 | That One Doesn't Count | 19.00% | ~3 |
 | They Flock to Him | 19.00% | ~3 |
-| The Counsellor | 19.00% | ~3 |
 | Zonk! | 19.00% | ~3 |
 | A Little Eccentric | 13.00% | ~2 |
-| Full Coverage | 13.00% | ~2 |
+| Leave It to the Professionals | 13.00% | ~2 |
 | Obligatory Fraudulent Baking | 13.00% | ~2 |
 | Overseer | 13.00% | ~2 |
 | The Provocateur | 13.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
 | Double Agent | 6.00% | ~1 |
-| Leave It to the Professionals | 6.00% | ~1 |
 | Ring of Fire | 6.00% | ~1 |
 | Tastes Like Regret | 6.00% | ~1 |
 | The Spice of Life | 6.00% | ~1 |
@@ -54,7 +54,7 @@
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 305)  
-Completed: 0 (0.00%) (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

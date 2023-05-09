@@ -46,9 +46,9 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 1.00% | ~26 |
 | Clean Slate | 0.90% | ~23 |
 | Exercise in Restraint | 0.90% | ~23 |
+| True Mastery | 0.60% | ~16 |
 | The Flesh is Weak | 0.50% | ~13 |
 | Warp Flickers | 0.50% | ~13 |
-| True Mastery | 0.50% | ~13 |
 | Firing Squad | 0.30% | ~8 |
 | Strategic Command | 0.30% | ~8 |
 | Blood and Iron | 0.20% | ~5 |
@@ -67,7 +67,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,588 (Ranked 135)  
-Completed: 0 (0.00%) (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

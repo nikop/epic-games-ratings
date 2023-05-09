@@ -6,9 +6,9 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2306,9 +2306,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8728,
+  "EOS_Progressed": 8731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3171,6 +3171,11 @@
       "Time": "2023-05-09T19:07:23.7511234+00:00",
       "NumProgressed": 8728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T20:06:34.4510745+00:00",
+      "NumProgressed": 8731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3182,7 +3187,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "02_BurningCity",
@@ -4109,21 +4114,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7510,
+      "Progressed": 7513,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8728,
+      "Progressed": 8731,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-09T10:59:43.5947196+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:23.7511231+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:34.4510741+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:59:49.6689621+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:23.7513802+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:59:31.395337+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:34.4512643+00:00"
 }

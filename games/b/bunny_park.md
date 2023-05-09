@@ -7,7 +7,7 @@
 | Lonely Bunny | 97.00% | ~271 |
 | Debris Finder | 84.00% | ~234 |
 | Debris Gatherer | 60.00% | ~167 |
-| Beginner Decorator | 50.00% | ~140 |
+| Beginner Decorator | 51.00% | ~142 |
 | Helpful Bot-terfly | 46.00% | ~128 |
 | Cozy Autumn | 41.00% | ~114 |
 | Bunny Party | 36.00% | ~100 |
@@ -24,7 +24,7 @@
 | Tropical Summer | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 279 (Ranked 211)  
-Completed: 8 (2.87%) (Ranked 49)  
+Completed: 8 (2.87%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

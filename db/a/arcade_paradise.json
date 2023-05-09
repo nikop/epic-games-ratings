@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "GrindTrophy",
       "SetID": "32aeje8",
       "Name": "Nose to the Grindstone",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 29
     },
     {
       "ID": "GumTrophy",
@@ -542,8 +542,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:13.534394+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:25.7042296+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.0510642+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:59:46.4201886+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:13.5344431+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:59:28.8817666+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:25.7042785+00:00"
 }

@@ -65,8 +65,8 @@
 | Victim | 0.00% | ~0 |
 | Have played WTC : Recruitment Day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 329)  
-Completed: 0 (0.00%) (Ranked 196)  
+Progressed: 5 (Ranked 330)  
+Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

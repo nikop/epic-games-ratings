@@ -6,7 +6,7 @@
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -3604,9 +3604,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86982,
+  "EOS_Progressed": 86989,
   "EOS_Completed": 1819,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5263,6 +5263,11 @@
     {
       "Time": "2023-05-09T19:07:47.8426284+00:00",
       "NumProgressed": 86982,
+      "NumCompleted": 1819
+    },
+    {
+      "Time": "2023-05-09T20:06:55.2102515+00:00",
+      "NumProgressed": 86989,
       "NumCompleted": 1819
     }
   ],
@@ -7137,9 +7142,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 435
     },
     {
       "ID": "objective_completed_40",
@@ -9186,21 +9191,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53256,
+      "Progressed": 53263,
       "Completed": 2484
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86982,
+      "Progressed": 86989,
       "Completed": 1819
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:47.842628+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:55.210251+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:59:32.7332139+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:47.8452461+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:59:19.0461411+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:55.2130151+00:00"
 }

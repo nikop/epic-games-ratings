@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1543,
+  "EOS_Progressed": 1544,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -295,6 +295,11 @@
       "Time": "2023-05-09T19:07:45.8881728+00:00",
       "NumProgressed": 1543,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-09T20:06:53.4026587+00:00",
+      "NumProgressed": 1544,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -306,7 +311,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_02",
@@ -314,7 +319,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ACHV_03",
@@ -330,7 +335,7 @@
       "Name": "Overheated",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACHV_05",
@@ -434,7 +439,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_18",
@@ -450,7 +455,7 @@
       "Name": "Defense in Depth",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_20",
@@ -506,7 +511,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACHV_27",
@@ -594,7 +599,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_38",
@@ -610,7 +615,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "ACHV_40",
@@ -626,7 +631,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACHV_42",
@@ -658,7 +663,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_46",
@@ -761,7 +766,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1543,
+      "Progressed": 1544,
       "Completed": 10
     }
   ],
@@ -769,8 +774,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:45.888172+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:53.4026581+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:33.3150703+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:02:06.8662073+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:45.8882203+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:01:18.3230803+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:53.4027156+00:00"
 }

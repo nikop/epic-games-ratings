@@ -3,9 +3,9 @@
   "Name": null,
   "ProductSlug": "the-bus-modding-editor",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.9949601+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:01:34.3631469+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:06:19.4281834+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:00:53.3574217+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:05:41.9751821+00:00"
 }

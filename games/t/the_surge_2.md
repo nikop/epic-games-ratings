@@ -5,19 +5,19 @@ Rating: 4.24 (Ranked 783)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,234 |
-| Don't I Know You...? | 77.00% | ~1,188 |
-| Jailbreak | 66.00% | ~1,018 |
-| Suited and Booted | 38.00% | ~586 |
+| Rigged And Ready | 80.00% | ~1,235 |
+| Don't I Know You...? | 77.00% | ~1,189 |
+| Jailbreak | 66.00% | ~1,019 |
+| Suited and Booted | 38.00% | ~587 |
 | HEADSHOT! | 37.00% | ~571 |
 | Sleeping With The Fishes | 35.00% | ~540 |
-| Overheated | 31.00% | ~478 |
+| Overheated | 31.00% | ~479 |
 | High Performance | 30.00% | ~463 |
 | Powered Up | 28.00% | ~432 |
 | Studied The Blade | 25.00% | ~386 |
 | Home Invasion | 23.00% | ~355 |
-| Luminary | 22.00% | ~339 |
-| It's a Trap | 22.00% | ~339 |
+| Luminary | 22.00% | ~340 |
+| It's a Trap | 22.00% | ~340 |
 | True Survivor | 21.00% | ~324 |
 | Shocking | 20.00% | ~309 |
 | Unforeseeable Consequences | 20.00% | ~309 |
@@ -38,9 +38,9 @@ Rating: 4.24 (Ranked 783)
 | Triplets | 10.00% | ~154 |
 | Denying Prophecy | 9.00% | ~139 |
 | Stimulating The Local Economy | 9.00% | ~139 |
-| A Little Banged Up | 8.00% | ~123 |
-| Following In Their Footsteps | 8.00% | ~123 |
-| Defense in Depth | 8.00% | ~123 |
+| A Little Banged Up | 8.00% | ~124 |
+| Following In Their Footsteps | 8.00% | ~124 |
+| Defense in Depth | 8.00% | ~124 |
 | Reverse Engineering | 7.00% | ~108 |
 | Reborn | 6.00% | ~93 |
 | Turbo Booster | 6.00% | ~93 |
@@ -63,8 +63,8 @@ Rating: 4.24 (Ranked 783)
 | Swiss Army Drone | 1.00% | ~15 |
 | Three Birds With One Stone | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,543 (Ranked 149)  
-Completed: 10 (0.65%) (Ranked 98)  
+Progressed: 1,544 (Ranked 149)  
+Completed: 10 (0.65%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 10 (0.65%) (Ranked 98)
 | 2023-05-05 | 1,539 | 10 |
 | 2023-05-06 | 1,540 | 10 |
 | 2023-05-07 | 1,542 | 10 |
-| 2023-05-09 | 1,543 | 10 |
+| 2023-05-09 | 1,544 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

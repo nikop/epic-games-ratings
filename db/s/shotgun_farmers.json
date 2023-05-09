@@ -3,9 +3,9 @@
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 286,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 77,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_first_harvest",
@@ -316,9 +316,9 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -444,9 +444,9 @@
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_sextaKill",
@@ -484,9 +484,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 58,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -533,8 +533,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:02:45.6340788+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:01:53.0128383+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:59:47.5261992+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:02:45.6341156+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:59:29.7478162+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:01:53.0128839+00:00"
 }

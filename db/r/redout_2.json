@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 964,
+  "EOS_Progressed": 965,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -132,6 +132,11 @@
     {
       "Time": "2023-05-07T21:06:57.5388277+00:00",
       "NumProgressed": 964,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T20:06:28.0697948+00:00",
+      "NumProgressed": 965,
       "NumCompleted": 0
     }
   ],
@@ -294,9 +299,9 @@
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 232
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -328,7 +333,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -424,7 +429,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LOSEONEONLINE",
@@ -438,9 +443,9 @@
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 232
     },
     {
       "ID": "ONELIVERY",
@@ -559,7 +564,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 964,
+      "Progressed": 965,
       "Completed": 0
     }
   ],
@@ -567,8 +572,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:16.3423114+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:28.0697942+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:25.0489793+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:59:37.397198+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:16.3423556+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:59:22.3960608+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:28.0698416+00:00"
 }

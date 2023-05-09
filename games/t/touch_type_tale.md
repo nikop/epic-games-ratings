@@ -10,7 +10,7 @@
 | Get Rich Quick | 48.00% | ~1,220 |
 | Do the Splits | 41.00% | ~1,042 |
 | Maestro | 28.00% | ~711 |
-| Full Employment | 19.00% | ~483 |
+| Full Employment | 20.00% | ~508 |
 | Clay Fighter | 18.00% | ~457 |
 | Nowhere left to Hide | 15.00% | ~381 |
 | All Ovens Blazing | 14.00% | ~356 |
@@ -39,7 +39,7 @@
 | All Geared Up | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,541 (Ranked 136)  
-Completed: 8 (0.31%) (Ranked 119)  
+Completed: 8 (0.31%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

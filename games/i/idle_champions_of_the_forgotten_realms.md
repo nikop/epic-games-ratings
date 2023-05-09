@@ -16,9 +16,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.70% | ~609 |
 | The Ring of Regeneration | 0.60% | ~522 |
 | Were-verpowered | 0.50% | ~435 |
+| Are Ya Chicken? | 0.50% | ~435 |
 | A Persistent Buzzing | 0.40% | ~348 |
 | Seeking Allies | 0.40% | ~348 |
-| Are Ya Chicken? | 0.40% | ~348 |
 | Mad Cow Disease | 0.40% | ~348 |
 | Friendly Imps | 0.40% | ~348 |
 | Pure Energy | 0.40% | ~348 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,982 (Ranked 59)  
-Completed: 1,819 (2.09%) (Ranked 58)  
+Progressed: 86,989 (Ranked 59)  
+Completed: 1,819 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -515,7 +515,7 @@ Completed: 1,819 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,982 | 1,819 |
+| 2023-05-09 | 86,989 | 1,819 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

@@ -30,7 +30,7 @@
 | I Only Know How to Give 110% | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 584 (Ranked 184)  
-Completed: 0 (0.00%) (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

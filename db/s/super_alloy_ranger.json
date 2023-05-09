@@ -3,9 +3,9 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -294,9 +294,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achi_21",
@@ -358,9 +358,9 @@
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_29",
@@ -551,8 +551,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:35.7735571+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:44.5208666+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:01.899245+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:01:30.4176235+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:35.7736089+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:00:50.4218197+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:44.5209303+00:00"
 }

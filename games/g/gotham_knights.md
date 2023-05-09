@@ -68,7 +68,7 @@ Rating: 4.17 (Ranked 830)
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60,754 (Ranked 66)  
-Completed: 89 (0.15%) (Ranked 143)  
+Completed: 89 (0.15%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

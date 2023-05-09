@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -734,9 +734,9 @@
       "ID": "scenario2",
       "SetID": "2h56gn1",
       "Name": "Full Employment",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 508
     },
     {
       "ID": "scenario3",
@@ -791,8 +791,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:40.540944+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:48.7722455+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:01:48.1675188+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:40.540971+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:01:03.9932757+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:48.7722794+00:00"
 }

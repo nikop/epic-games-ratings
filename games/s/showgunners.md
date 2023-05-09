@@ -51,8 +51,8 @@
 | Stealth Kill | 0.00% | ~0 |
 | Multi Heal | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 343)  
-Completed: 0 (0.00%) (Ranked 196)  
+Progressed: 3 (Ranked 344)  
+Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

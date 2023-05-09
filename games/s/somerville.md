@@ -1,7 +1,7 @@
 # Somerville
 [Store](https://store.epicgames.com/en-US/p/somerville-229529)  
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.20 (Ranked 805)  
+Rating: 4.20 (Ranked 806)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.20 (Ranked 805)
 | First contact. | 0.50% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,553 (Ranked 148)  
-Completed: 25 (1.61%) (Ranked 66)  
+Completed: 25 (1.61%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

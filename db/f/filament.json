@@ -6,9 +6,9 @@
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 48,
-  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -189,10 +189,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 189318,
-  "EOS_Completed": 411,
+  "EOS_Progressed": 189323,
+  "EOS_Completed": 412,
   "EOS_NewPlayers": 714,
-  "EOS_NewCompleters": 8,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -1854,6 +1854,11 @@
       "Time": "2023-05-09T19:07:15.3841299+00:00",
       "NumProgressed": 189318,
       "NumCompleted": 411
+    },
+    {
+      "Time": "2023-05-09T20:06:27.2717167+00:00",
+      "NumProgressed": 189323,
+      "NumCompleted": 412
     }
   ],
   "TotalAchievements": 29,
@@ -1889,7 +1894,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 177959
+      "UsersEstimate": 177964
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -1911,9 +1916,9 @@
       "ID": "ACHIEVEMENT_CARDS",
       "SetID": "1fd5amk",
       "Name": "A full deck.",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 947
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -2065,7 +2070,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13252
+      "UsersEstimate": 13253
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -2096,16 +2101,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 189318,
-      "Completed": 411
+      "Progressed": 189323,
+      "Completed": 412
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-04-27T13:58:35.1849608+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:15.3841294+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:27.2717164+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:02.1474684+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:00:20.8183164+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:15.3841627+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:59:55.4662079+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:27.2717789+00:00"
 }

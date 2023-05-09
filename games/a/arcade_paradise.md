@@ -26,8 +26,8 @@ Rating: 4.57 (Ranked 429)
 | Bombscare | 5.00% | ~29 |
 | Rhythm is a dancer | 5.00% | ~29 |
 | Your Bloody Valentine | 5.00% | ~29 |
+| Nose to the Grindstone | 5.00% | ~29 |
 | GoldGuy Jr | 4.00% | ~23 |
-| Nose to the Grindstone | 4.00% | ~23 |
 | Waking nightmare | 4.00% | ~23 |
 | We come in peace | 3.00% | ~17 |
 | Crowning achievement | 3.00% | ~17 |
@@ -61,7 +61,7 @@ Rating: 4.57 (Ranked 429)
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 576 (Ranked 185)  
-Completed: 0 (0.00%) (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

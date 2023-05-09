@@ -7,12 +7,12 @@
 | Iceberg Theory | 74.00% | ~17 |
 | Gear Up | 61.00% | ~14 |
 | A Grand Show | 61.00% | ~14 |
-| Freshen Up | 48.00% | ~11 |
+| Freshen Up | 52.00% | ~12 |
 | GG EZ | 43.00% | ~10 |
 | Hydrophobia | 26.00% | ~6 |
+| Ka-Ching! | 17.00% | ~4 |
 | Stop Right There | 17.00% | ~4 |
 | Get to the Point | 17.00% | ~4 |
-| Ka-Ching! | 13.00% | ~3 |
 | The Hidden Secret | 9.00% | ~2 |
 | Toe to Toe | 9.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~1 |
@@ -56,7 +56,7 @@
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 196)  
+Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

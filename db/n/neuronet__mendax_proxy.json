@@ -3,9 +3,9 @@
   "Name": "NeuroNet: Mendax Proxy",
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
     "PcReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -166,9 +166,9 @@
       "ID": "AURORA_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Guardian",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BETA03",
@@ -182,9 +182,9 @@
       "ID": "BLOOD_BEGETS_BLOOD",
       "SetID": "2d85n75",
       "Name": "Blood Begets Blood",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BUSYBODY",
@@ -214,9 +214,9 @@
       "ID": "ELEMAI05",
       "SetID": "2d85n75",
       "Name": "Endgame",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EVERYONE_NEEDS_ABREAK",
@@ -238,17 +238,17 @@
       "ID": "FORTRAN_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Philosopher",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FULL_COVERAGE",
       "SetID": "2d85n75",
       "Name": "Full Coverage",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "JOB_CREATOR",
@@ -278,9 +278,9 @@
       "ID": "LEAVE_IT_TO_THE_PROFESSIONALS",
       "SetID": "2d85n75",
       "Name": "Leave It to the Professionals",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MIND_CORE01",
@@ -310,9 +310,9 @@
       "ID": "PAPA_RU_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Partner",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PATRIZIA_COMPLETE",
@@ -374,9 +374,9 @@
       "ID": "TALINGREY_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Companion",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TASK_MASTER",
@@ -446,9 +446,9 @@
       "ID": "THOMPSON_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Counsellor",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "UNDER_THE_WEATHER",
@@ -511,8 +511,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-09T19:07:30.9119545+00:00",
+  "LastChanged_Achievements": "2023-05-09T20:06:40.4720603+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:01:16.6268413+00:00",
-  "LastUpdate_Achievements": "2023-05-09T19:07:30.9119903+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:00:39.667652+00:00",
+  "LastUpdate_Achievements": "2023-05-09T20:06:40.4721039+00:00"
 }
