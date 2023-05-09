@@ -1,5 +1,8 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 2021-06-12 |
+| [EBOLA 2](games/e/ebola_2.md) | 2023-05-09 | 2020-12-20 |
+| [Roboplant](games/r/roboplant.md) | 2023-05-09 | 2022-11-10 |
 | [Prince of Persia Standard Edition](games/7/7afef992aaba4b53abfdf561e64e534d.md) | 2023-05-09 | 2008-12-10 |
 | [County Hospital](games/c/county_hospital.md) | 2023-05-08 | 2021-08-04 |
 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 2023-05-08 | 2022-09-30 |

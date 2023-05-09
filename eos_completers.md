@@ -17,15 +17,15 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 18 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.64% |
+| 18 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 20 | [Scorn](games/s/scorn.md) | 7.10% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 25 | [Remains](games/r/remains.md) | 5.88% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 5.74% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 5.73% |
 | 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -178,15 +178,15 @@
 | 172 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 177 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 177 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 179 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 179 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
-| 179 | [Good Company](games/g/good_company.md) | 0.02% |
-| 179 | [Old World](games/o/old_world.md) | 0.02% |
-| 179 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 179 | [Saints Row](games/s/saints_row.md) | 0.02% |
-| 179 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 179 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
-| 179 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 177 | [Saints Row](games/s/saints_row.md) | 0.03% |
+| 180 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 180 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
+| 180 | [Good Company](games/g/good_company.md) | 0.02% |
+| 180 | [Old World](games/o/old_world.md) | 0.02% |
+| 180 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 180 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 180 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
+| 180 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 188 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 188 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 188 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |

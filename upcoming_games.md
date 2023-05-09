@@ -1,8 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 2021-06-12 |
-| [EBOLA 2](games/e/ebola_2.md) | 2023-05-09 | 2020-12-20 |
-| [Roboplant](games/r/roboplant.md) | 2023-05-09 | 2022-11-10 |
 | [Save District 3](games/s/save_district_3.md) | 2023-05-09 | 2023-04-10 |
 | [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-10 | 2023-05-07 |
 | [Cyber Drift](games/c/cyber_drift.md) | 2023-05-10 | 2023-04-28 |
@@ -396,8 +393,8 @@
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |
 | [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | 2020-11-05 |
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2099-04-12 | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | 2099-06-26 |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
+| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | 2099-06-26 |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |
 | [Video Horror Society](games/v/video_horror_society.md) | 2099-07-18 | 2099-07-18 |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | 2099-07-28 | - |
