@@ -17,13 +17,13 @@ Rating: 4.54 (Ranked 477)
 | Fully Recycled | 0.40% | ~7 |
 | Ain't Nobody Got Time for That | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
+| Hope Seeker | 0.40% | ~7 |
 | Infinite Growth... | 0.30% | ~6 |
 | Guy de Borderlands | 0.30% | ~6 |
 | Space Society | 0.30% | ~6 |
 | Sightseeing | 0.30% | ~6 |
 | Breaking Protocol | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
-| Hope Seeker | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
@@ -63,8 +63,8 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,851 (Ranked 146)  
-Completed: 0 (0.00%) (Ranked 195)  
+Progressed: 1,853 (Ranked 146)  
+Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 195)
 | 2023-05-06 | 1,838 | 0 |
 | 2023-05-07 | 1,841 | 0 |
 | 2023-05-08 | 1,844 | 0 |
-| 2023-05-09 | 1,851 | 0 |
+| 2023-05-09 | 1,853 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

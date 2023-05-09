@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37770,
+  "EOS_Progressed": 37774,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2023-05-09T16:06:39.6629369+00:00",
       "NumProgressed": 37770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T17:06:38.9703235+00:00",
+      "NumProgressed": 37774,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1383,7 +1388,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -1495,7 +1500,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -1551,7 +1556,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -1687,7 +1692,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "STAYING_AIR",
@@ -1758,22 +1763,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37770,
+      "Progressed": 37774,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2607,
-      "Completed": 2607
+      "Progressed": 2611,
+      "Completed": 2611
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-08T09:00:28.4742824+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:06:39.6629363+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:06:38.9703233+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:59:50.3681749+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:39.6629892+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:59:52.6044623+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:06:38.9703623+00:00"
 }

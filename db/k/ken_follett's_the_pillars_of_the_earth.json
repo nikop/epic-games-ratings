@@ -6,9 +6,9 @@
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -465,7 +465,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12314,
+  "EOS_Progressed": 12315,
   "EOS_Completed": 93,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 2,
@@ -1520,6 +1520,11 @@
       "Time": "2023-05-09T16:06:21.0206793+00:00",
       "NumProgressed": 12314,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-09T17:06:20.0398914+00:00",
+      "NumProgressed": 12315,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1547,7 +1552,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "tpote_achievement_12",
@@ -1595,7 +1600,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "tpote_achievement_18",
@@ -1635,7 +1640,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3818
     },
     {
       "ID": "tpote_achievement_22",
@@ -1699,7 +1704,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "tpote_achievement_3",
@@ -1715,7 +1720,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "tpote_achievement_31",
@@ -1745,9 +1750,9 @@
       "ID": "tpote_achievement_34",
       "SetID": "3jcf6c3",
       "Name": "A cry for help",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 985
     },
     {
       "ID": "tpote_achievement_35",
@@ -1819,7 +1824,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "tpote_achievement_6",
@@ -1827,7 +1832,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "tpote_achievement_7",
@@ -1858,15 +1863,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12314,
+      "Progressed": 12315,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:06:21.020679+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:06:20.039891+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-09T16:00:57.713738+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:21.0208672+00:00"
+  "LastUpdate_Ratings": "2023-05-09T17:01:02.488577+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:06:20.0399243+00:00"
 }

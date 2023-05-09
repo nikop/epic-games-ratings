@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.47 (Ranked 577)  
+Rating: 4.47 (Ranked 576)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 62  (23.09.2022)
 | Butcher's Bill | 55.00% | ~2,314 |
 | P.A.X | 37.00% | ~1,557 |
 | Hey Listen | 36.00% | ~1,515 |
-| OPERATOR | 35.00% | ~1,473 |
+| OPERATOR | 36.00% | ~1,515 |
 | It's Blue Light | 33.00% | ~1,389 |
 | Most Wanted | 26.00% | ~1,094 |
 | Infidel | 23.00% | ~968 |
@@ -75,7 +75,7 @@ Number of Ratings: 62  (23.09.2022)
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,208 (Ranked 126)  
-Completed: 13 (0.31%) (Ranked 118)  
+Completed: 13 (0.31%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

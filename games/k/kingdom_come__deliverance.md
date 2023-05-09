@@ -1,28 +1,28 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 178)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,898 |
-| Cavalier | 25.00% | ~195,079 |
-| Fatso | 23.00% | ~179,473 |
-| Awakening | 20.00% | ~156,063 |
-| Ranger | 20.00% | ~156,063 |
-| Scrooge | 20.00% | ~156,063 |
-| Anorectic | 16.00% | ~124,851 |
-| Firestarter | 15.00% | ~117,047 |
-| Bookworm | 14.00% | ~109,244 |
-| Insomniac | 13.00% | ~101,441 |
+| Blacksmith's Son | 31.00% | ~241,900 |
+| Cavalier | 25.00% | ~195,080 |
+| Fatso | 23.00% | ~179,474 |
+| Awakening | 20.00% | ~156,064 |
+| Ranger | 20.00% | ~156,064 |
+| Scrooge | 20.00% | ~156,064 |
+| Anorectic | 16.00% | ~124,852 |
+| Firestarter | 15.00% | ~117,048 |
+| Bookworm | 14.00% | ~109,245 |
+| Insomniac | 13.00% | ~101,442 |
 | Buddy | 11.00% | ~85,835 |
 | Sinner | 11.00% | ~85,835 |
 | Thief | 11.00% | ~85,835 |
 | Convict | 10.00% | ~78,032 |
 | Traveller | 10.00% | ~78,032 |
-| Haggler | 9.00% | ~70,228 |
-| Runt | 7.00% | ~54,622 |
+| Haggler | 9.00% | ~70,229 |
+| Runt | 7.00% | ~54,623 |
 | Casanova | 6.00% | ~46,819 |
 | McLovin | 6.00% | ~46,819 |
 | Bad Trip | 5.00% | ~39,016 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~31,213 |
 | Hunter | 4.00% | ~31,213 |
 | Plague Doctor | 4.00% | ~31,213 |
-| Bard | 3.00% | ~23,409 |
-| Conqueror | 3.00% | ~23,409 |
-| Ginger in a Pickle | 3.00% | ~23,409 |
-| Kingdom did not come | 3.00% | ~23,409 |
+| Bard | 3.00% | ~23,410 |
+| Conqueror | 3.00% | ~23,410 |
+| Ginger in a Pickle | 3.00% | ~23,410 |
+| Kingdom did not come | 3.00% | ~23,410 |
 | Completionist | 2.00% | ~15,606 |
 | Death by splinter | 2.00% | ~15,606 |
 | King Charming | 2.00% | ~15,606 |
@@ -89,8 +89,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~780 |
 | Wingman | 0.10% | ~780 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 780,316 (Ranked 12)  
-Completed: 39 (0.00%) (Ranked 195)  
+Progressed: 780,322 (Ranked 12)  
+Completed: 39 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 39 (0.00%) (Ranked 195)
 | 2023-05-06 | 779,872 | 38 |
 | 2023-05-07 | 780,060 | 39 |
 | 2023-05-08 | 780,207 | 39 |
-| 2023-05-09 | 780,316 | 39 |
+| 2023-05-09 | 780,322 | 39 |
 ## Awards
 Max (Character Customization): 7,148  (Ranked 43)  
 Sum: 26,748 (Ranked 42)  

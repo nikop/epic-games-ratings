@@ -5,24 +5,24 @@ Rating: 4.68 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,782 |
-| Mods Please Ban | 77.00% | ~17,424 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,198 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,519 |
-| First Bounty Down | 59.00% | ~13,351 |
+| Eye Scream, You Scream | 83.00% | ~18,783 |
+| Mods Please Ban | 77.00% | ~17,425 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,199 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,520 |
+| First Bounty Down | 59.00% | ~13,352 |
 | We're All Very Impressed, Trust Me | 57.00% | ~12,899 |
-| Luglox Genocide | 43.00% | ~9,730 |
+| Luglox Genocide | 43.00% | ~9,731 |
 | Playing Card To Get | 33.00% | ~7,468 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,468 |
-| Creature Feature | 29.00% | ~6,562 |
+| Creature Feature | 29.00% | ~6,563 |
 | Satisfied Gus-tomer | 28.00% | ~6,336 |
 | Cold-Blooded Driller | 28.00% | ~6,336 |
-| G3 Graduation | 25.00% | ~5,657 |
+| G3 Graduation | 25.00% | ~5,658 |
 | Are You Packin'? | 24.00% | ~5,431 |
 | RIP Davey Glutes | 24.00% | ~5,431 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,431 |
-| Hardest Battle In The Game | 22.00% | ~4,978 |
-| Series Wrap on Suit-O | 22.00% | ~4,978 |
+| Hardest Battle In The Game | 22.00% | ~4,979 |
+| Series Wrap on Suit-O | 22.00% | ~4,979 |
 | Lezduit! | 20.00% | ~4,526 |
 | Who's The Boss? | 20.00% | ~4,526 |
 | Self-Actualization | 19.00% | ~4,300 |
@@ -30,7 +30,7 @@ Rating: 4.68 (Ranked 233)
 | Legendary Bounty Hunter | 18.00% | ~4,073 |
 | Seeing All The Sights | 16.00% | ~3,621 |
 | Carried Stan's Load To Completion | 13.00% | ~2,942 |
-| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,715 |
+| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,716 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,037 |
 | Sequel-Bait | 8.00% | ~1,810 |
 | Gunning For Your Job | 7.00% | ~1,584 |
@@ -38,8 +38,8 @@ Rating: 4.68 (Ranked 233)
 | Epic Legendary Prize | 1.00% | ~226 |
 | A Starfish Is Born | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,629 (Ranked 88)  
-Completed: 8 (0.04%) (Ranked 171)  
+Progressed: 22,630 (Ranked 88)  
+Completed: 8 (0.04%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,6 +57,7 @@ Completed: 8 (0.04%) (Ranked 171)
 | 2023-05-06 | 22,618 | 8 |
 | 2023-05-07 | 22,627 | 8 |
 | 2023-05-08 | 22,629 | 8 |
+| 2023-05-09 | 22,630 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,7 +13,7 @@ Rating: 4.45 (Ranked 601)
 | Lord of War | 24.00% | ~167 |
 | Resourceful | 23.00% | ~160 |
 | Taking it back | 23.00% | ~160 |
-| Organ Grinder | 21.00% | ~146 |
+| Organ Grinder | 22.00% | ~153 |
 | Sharpshooter | 21.00% | ~146 |
 | Target America | 21.00% | ~146 |
 | As Quiet as a Mouse | 19.00% | ~132 |
@@ -75,7 +75,7 @@ Rating: 4.45 (Ranked 601)
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 694 (Ranked 176)  
-Completed: 2 (0.29%) (Ranked 122)  
+Completed: 2 (0.29%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

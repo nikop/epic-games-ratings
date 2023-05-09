@@ -6,7 +6,7 @@
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
-  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
@@ -2106,9 +2106,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 266354,
+  "EOS_Progressed": 266360,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 1175,
+  "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3731,6 +3731,11 @@
       "Time": "2023-05-09T16:01:36.9432258+00:00",
       "NumProgressed": 266354,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2023-05-09T17:01:45.1184283+00:00",
+      "NumProgressed": 266360,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 45,
@@ -3934,7 +3939,7 @@
       "Name": "Savvy Spender",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "PFA_32",
@@ -4054,7 +4059,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "PFA_5",
@@ -4101,7 +4106,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266354,
+      "Progressed": 266360,
       "Completed": 354
     }
   ],
@@ -4109,8 +4114,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-09T15:58:48.9489004+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:01:36.9432251+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:01:45.1184278+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:58:48.9489009+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:01:36.9432968+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:58:47.2272155+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:01:45.1186654+00:00"
 }

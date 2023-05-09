@@ -6,22 +6,22 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~29,490 |
-| First Steps | 81.00% | ~25,964 |
+| Awakening | 92.00% | ~29,491 |
+| First Steps | 81.00% | ~25,965 |
 | Control the Shadows | 68.00% | ~21,797 |
-| Tools of the Trade | 63.00% | ~20,194 |
-| Apprentice | 60.00% | ~19,232 |
+| Tools of the Trade | 63.00% | ~20,195 |
+| Apprentice | 60.00% | ~19,233 |
 | Secret Seeker | 57.00% | ~18,271 |
-| Forge of Assassins | 56.00% | ~17,950 |
+| Forge of Assassins | 56.00% | ~17,951 |
 | Revenant | 51.00% | ~16,348 |
-| I don’t Care! | 45.00% | ~14,424 |
+| I don’t Care! | 45.00% | ~14,425 |
 | Bird of Prey | 37.00% | ~11,860 |
-| Engraved with Power | 32.00% | ~10,257 |
+| Engraved with Power | 32.00% | ~10,258 |
 | Lady | 30.00% | ~9,616 |
 | Fashionable Assassin | 27.00% | ~8,655 |
 | Apex Predator | 24.00% | ~7,693 |
 | Soul Reaver | 22.00% | ~7,052 |
-| Embers | 21.00% | ~6,731 |
+| Embers | 21.00% | ~6,732 |
 | Wall Lizard | 20.00% | ~6,411 |
 | Clinging to Life | 18.00% | ~5,770 |
 | Burning | 17.00% | ~5,449 |
@@ -31,7 +31,7 @@ Number of Ratings: 88  (23.09.2022)
 | War Engines | 14.00% | ~4,488 |
 | Signature Move | 14.00% | ~4,488 |
 | Ruse | 11.00% | ~3,526 |
-| Master Ninja | 10.00% | ~3,205 |
+| Master Ninja | 10.00% | ~3,206 |
 | Hatching | 9.00% | ~2,885 |
 | Bonds | 9.00% | ~2,885 |
 | Denouement | 8.00% | ~2,564 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~321 |
 | Anger Management | 1.00% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,054 (Ranked 82)  
-Completed: 149 (0.46%) (Ranked 104)  
+Progressed: 32,055 (Ranked 82)  
+Completed: 149 (0.46%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 149 (0.46%) (Ranked 104)
 | 2023-05-06 | 31,861 | 147 |
 | 2023-05-07 | 31,949 | 148 |
 | 2023-05-08 | 32,026 | 148 |
-| 2023-05-09 | 32,054 | 149 |
+| 2023-05-09 | 32,055 | 149 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,23 +1,23 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 591)  
+Rating: 4.46 (Ranked 590)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~128,647 |
-| My First Runbow | 51.00% | ~123,793 |
-| It's The Fall | 26.00% | ~63,110 |
+| In The Zone | 53.00% | ~128,648 |
+| My First Runbow | 51.00% | ~123,794 |
+| It's The Fall | 26.00% | ~63,111 |
 | The Stunner | 21.00% | ~50,974 |
-| Be Aggressive | 20.00% | ~48,546 |
-| Curator | 20.00% | ~48,546 |
+| Be Aggressive | 20.00% | ~48,547 |
+| Curator | 20.00% | ~48,547 |
 | Crowning Around | 18.00% | ~43,692 |
-| Can You Dig It? | 17.00% | ~41,264 |
+| Can You Dig It? | 17.00% | ~41,265 |
 | You Juan-A-Go? | 16.00% | ~38,837 |
 | Chan-tastic | 15.00% | ~36,410 |
-| Muddy Waters | 14.00% | ~33,982 |
+| Muddy Waters | 14.00% | ~33,983 |
 | Toasty! | 13.00% | ~31,555 |
-| Lazy Laser | 8.00% | ~19,418 |
+| Lazy Laser | 8.00% | ~19,419 |
 | Into The Drift | 7.00% | ~16,991 |
 | Ready? Fight! | 7.00% | ~16,991 |
 | Just A Phaze | 6.00% | ~14,564 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 591)
 | Talent Scout | 0.10% | ~243 |
 | True Completionist | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,731 (Ranked 40)  
-Completed: 2 (0.00%) (Ranked 195)  
+Progressed: 242,733 (Ranked 40)  
+Completed: 2 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 2 (0.00%) (Ranked 195)
 | 2023-05-06 | 242,565 | 1 |
 | 2023-05-07 | 242,647 | 1 |
 | 2023-05-08 | 242,700 | 2 |
-| 2023-05-09 | 242,731 | 2 |
+| 2023-05-09 | 242,733 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "ad8868a1e94c46c98608d2fe96121536",
   "Name": "Bramble The Mountain King",
   "ProductSlug": "bramble-the-mountain-king-c0d1c6",
-  "Ranking_EOS_Progress": 365,
-  "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,15 +28,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-09T13:41:22.6282661+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T17:06:44.3441995+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -55,7 +60,7 @@
       "ID": "BEATBUTCHER",
       "SetID": "1kkoeef",
       "Name": "Butcher",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -63,7 +68,7 @@
       "ID": "BEATCROWANDAH",
       "SetID": "1kkoeef",
       "Name": "K\u00E4rrh\u00E4xan",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "BEATNAECKEN",
       "SetID": "1kkoeef",
       "Name": "N\u00E4cken",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -87,7 +92,7 @@
       "ID": "BEATPESTA",
       "SetID": "1kkoeef",
       "Name": "Pesta",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -95,7 +100,7 @@
       "ID": "BEATREAM3",
       "SetID": "1kkoeef",
       "Name": "Bramble",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -103,7 +108,7 @@
       "ID": "BEATSKOGSRA",
       "SetID": "1kkoeef",
       "Name": "Skogsr\u00E5et",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -111,7 +116,7 @@
       "ID": "BOOKREAD",
       "SetID": "1kkoeef",
       "Name": "Book worm",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -119,7 +124,7 @@
       "ID": "BREWEDPOTION",
       "SetID": "1kkoeef",
       "Name": "Witchcraft",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "FINDGNOMEFIG",
       "SetID": "1kkoeef",
       "Name": "Gnome Figurine",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "FINDGUBBEFIG",
       "SetID": "1kkoeef",
       "Name": "Lyktgubben Figurine",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "FINDNAECKENFIG",
       "SetID": "1kkoeef",
       "Name": "N\u00E4cken Figurine",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -191,7 +196,7 @@
       "ID": "FINDPESTAFIG",
       "SetID": "1kkoeef",
       "Name": "Pesta Figurine",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -199,7 +204,7 @@
       "ID": "FINDSISTERFIG",
       "SetID": "1kkoeef",
       "Name": "Lillemor Figurine",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -207,7 +212,7 @@
       "ID": "FINDSKOGSRAFIG",
       "SetID": "1kkoeef",
       "Name": "Skogsr\u00E5et Figurine",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -215,7 +220,7 @@
       "ID": "FINDTRICKSTERFIG",
       "SetID": "1kkoeef",
       "Name": "Troll Figurine",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -223,7 +228,7 @@
       "ID": "FINDTUVAFIG",
       "SetID": "1kkoeef",
       "Name": "Tuva Figurine",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -239,7 +244,7 @@
       "ID": "JUMPEDONMUSHROOMS",
       "SetID": "1kkoeef",
       "Name": "Bouncy",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "PROPERFUNERAL",
       "SetID": "1kkoeef",
       "Name": "Proper burial",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -263,7 +268,7 @@
       "ID": "PUSHEDGNOMEINMEAT",
       "SetID": "1kkoeef",
       "Name": "Bait",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -288,7 +293,7 @@
     {
       "ID": "1kkoeef",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
@@ -296,8 +301,8 @@
   "FirstSeenRating": "2023-04-27T18:59:17.4164012+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00",
   "LastChanged": "2023-04-27T18:59:17.4164014+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:06:45.2769507+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:06:44.3441988+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:30.0813642+00:00",
-  "LastUpdate_Ratings": "2023-05-09T16:00:27.3088891+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:45.2769884+00:00"
+  "LastUpdate_Ratings": "2023-05-09T17:00:31.2778985+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:06:44.3442164+00:00"
 }

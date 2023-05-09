@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Each Their Own | 100.00% | ~1 |
-| Like Phileas Fogg | 100.00% | ~1 |
-| Seven-League Boots | 100.00% | ~1 |
-| Highly Qualified | 100.00% | ~1 |
-| Serial Winner | 100.00% | ~1 |
-| First and Foremost | 100.00% | ~1 |
-| Made Mother Proud | 100.00% | ~1 |
-| Winner Winner Chicken Dinner | 100.00% | ~1 |
-| You Get An Upgrade, You Get An Upgrade! | 100.00% | ~1 |
-| Onwards and Upwards | 100.00% | ~1 |
-| No Room for Improvement | 100.00% | ~1 |
-| Upgradeaholic | 100.00% | ~1 |
-| You're Going Down! | 100.00% | ~1 |
-| Playing God | 100.00% | ~1 |
+| You're Going Down! | 100.00% | ~2 |
+| To Each Their Own | 50.00% | ~1 |
+| Like Phileas Fogg | 50.00% | ~1 |
+| Seven-League Boots | 50.00% | ~1 |
+| Highly Qualified | 50.00% | ~1 |
+| Serial Winner | 50.00% | ~1 |
+| First and Foremost | 50.00% | ~1 |
+| Made Mother Proud | 50.00% | ~1 |
+| Winner Winner Chicken Dinner | 50.00% | ~1 |
+| You Get An Upgrade, You Get An Upgrade! | 50.00% | ~1 |
+| Onwards and Upwards | 50.00% | ~1 |
+| No Room for Improvement | 50.00% | ~1 |
+| Upgradeaholic | 50.00% | ~1 |
+| Playing God | 50.00% | ~1 |
 | Déjà-Vu | 0.00% | ~0 |
 | Golden Ratio | 0.00% | ~0 |
 | POI Hunter | 0.00% | ~0 |
@@ -44,9 +44,9 @@
 | Tempus Fugit | 0.00% | ~0 |
 | Lone Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 365)  
-Completed: 0 (0.00%) (Ranked 195)  
+Progressed: 2 (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-05-09 | 1 | 0 |
+| 2023-05-09 | 2 | 0 |

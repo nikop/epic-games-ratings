@@ -17,10 +17,10 @@
 | Sysadmin | 22.00% | ~95 |
 | The Walking Robot Among Us | 21.00% | ~91 |
 | Annoying | 20.00% | ~86 |
+| Hacker | 20.00% | ~86 |
+| He is just a child | 20.00% | ~86 |
 | Uncertain | 20.00% | ~86 |
 | Every little helps | 19.00% | ~82 |
-| Hacker | 19.00% | ~82 |
-| He is just a child | 19.00% | ~82 |
 | Ace | 17.00% | ~73 |
 | Goody | 17.00% | ~73 |
 | Hipster | 17.00% | ~73 |
@@ -37,8 +37,8 @@
 | Accurate | 5.00% | ~22 |
 | Silent | 4.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431 (Ranked 191)  
-Completed: 15 (3.48%) (Ranked 38)  
+Progressed: 431 (Ranked 192)  
+Completed: 15 (3.48%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

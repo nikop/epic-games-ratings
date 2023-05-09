@@ -6,45 +6,45 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 35.00% | ~20,064 |
-| Just The Two of Us | 33.00% | ~18,917 |
-| Up On High | 26.00% | ~14,904 |
-| Under The Hood | 25.00% | ~14,331 |
-| The Gift of Gab | 25.00% | ~14,331 |
-| Got Your Nose | 24.00% | ~13,758 |
-| Wrapping Up | 23.00% | ~13,185 |
-| More Than A Box Of Sand | 19.00% | ~10,892 |
-| Badge Hobbyist | 18.00% | ~10,318 |
-| Chum Novice | 17.00% | ~9,745 |
-| The Dunboyne | 17.00% | ~9,745 |
-| Silver-Tongued Sable | 17.00% | ~9,745 |
-| Sticky Paws | 17.00% | ~9,745 |
-| Bubble Up | 17.00% | ~9,745 |
-| Thread The Needle | 16.00% | ~9,172 |
-| Power to the People | 15.00% | ~8,599 |
-| Take That! | 13.00% | ~7,452 |
-| Nesting Giant | 13.00% | ~7,452 |
-| Treasure Tracker | 13.00% | ~7,452 |
-| Big Spender | 13.00% | ~7,452 |
-| Badge Collector | 12.00% | ~6,879 |
-| Quite The Catch | 12.00% | ~6,879 |
-| The Machinist Mask | 11.00% | ~6,306 |
-| Rowleys Way | 11.00% | ~6,306 |
-| Playing Dress Up | 11.00% | ~6,306 |
-| The Cartographer Mask | 10.00% | ~5,732 |
-| Balfron Connection | 10.00% | ~5,732 |
-| Ceiling Of Stars | 10.00% | ~5,732 |
-| Bike Collector | 10.00% | ~5,732 |
-| Many Different Faces | 9.00% | ~5,159 |
-| Trellick's Pillar | 9.00% | ~5,159 |
-| Centre Of Brunswick | 9.00% | ~5,159 |
-| Fragile Goods | 9.00% | ~5,159 |
-| Dune Rider | 9.00% | ~5,159 |
-| Not That Kind Of Gliding | 9.00% | ~5,159 |
-| The Scrapper Mask | 8.00% | ~4,586 |
-| Shadow Of Neave | 8.00% | ~4,586 |
-| Glider on the Storm | 8.00% | ~4,586 |
-| Squeeze One Out | 8.00% | ~4,586 |
+| Simoon | 35.00% | ~20,067 |
+| Just The Two of Us | 33.00% | ~18,920 |
+| Up On High | 26.00% | ~14,907 |
+| Under The Hood | 25.00% | ~14,334 |
+| The Gift of Gab | 25.00% | ~14,334 |
+| Got Your Nose | 24.00% | ~13,760 |
+| Wrapping Up | 23.00% | ~13,187 |
+| More Than A Box Of Sand | 19.00% | ~10,893 |
+| Badge Hobbyist | 18.00% | ~10,320 |
+| Chum Novice | 17.00% | ~9,747 |
+| The Dunboyne | 17.00% | ~9,747 |
+| Silver-Tongued Sable | 17.00% | ~9,747 |
+| Sticky Paws | 17.00% | ~9,747 |
+| Bubble Up | 17.00% | ~9,747 |
+| Thread The Needle | 16.00% | ~9,173 |
+| Power to the People | 15.00% | ~8,600 |
+| Take That! | 13.00% | ~7,453 |
+| Nesting Giant | 13.00% | ~7,453 |
+| Treasure Tracker | 13.00% | ~7,453 |
+| Big Spender | 13.00% | ~7,453 |
+| Badge Collector | 12.00% | ~6,880 |
+| Quite The Catch | 12.00% | ~6,880 |
+| The Machinist Mask | 11.00% | ~6,307 |
+| Rowleys Way | 11.00% | ~6,307 |
+| Playing Dress Up | 11.00% | ~6,307 |
+| The Cartographer Mask | 10.00% | ~5,733 |
+| Balfron Connection | 10.00% | ~5,733 |
+| Ceiling Of Stars | 10.00% | ~5,733 |
+| Bike Collector | 10.00% | ~5,733 |
+| Many Different Faces | 9.00% | ~5,160 |
+| Trellick's Pillar | 9.00% | ~5,160 |
+| Centre Of Brunswick | 9.00% | ~5,160 |
+| Fragile Goods | 9.00% | ~5,160 |
+| Dune Rider | 9.00% | ~5,160 |
+| Not That Kind Of Gliding | 9.00% | ~5,160 |
+| The Scrapper Mask | 8.00% | ~4,587 |
+| Shadow Of Neave | 8.00% | ~4,587 |
+| Glider on the Storm | 8.00% | ~4,587 |
+| Squeeze One Out | 8.00% | ~4,587 |
 | Amateur Historian | 7.00% | ~4,013 |
 | The Beetle Mask | 7.00% | ~4,013 |
 | The Guard Mask | 7.00% | ~4,013 |
@@ -54,17 +54,17 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 7.00% | ~4,013 |
 | The Climber Mask | 6.00% | ~3,440 |
 | A Hard Place | 6.00% | ~3,440 |
-| The Entertainer Mask | 5.00% | ~2,866 |
-| Bike Aficionado | 5.00% | ~2,866 |
+| The Entertainer Mask | 5.00% | ~2,867 |
+| Bike Aficionado | 5.00% | ~2,867 |
 | The Gliding | 4.00% | ~2,293 |
 | The Quick and the Curious | 4.00% | ~2,293 |
 | Chum Expert | 3.00% | ~1,720 |
 | Gastric Bypass | 3.00% | ~1,720 |
 | The Angler Mask | 3.00% | ~1,720 |
-| Vivacious Vivarium | 2.00% | ~1,146 |
+| Vivacious Vivarium | 2.00% | ~1,147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,325 (Ranked 68)  
-Completed: 526 (0.92%) (Ranked 82)  
+Progressed: 57,334 (Ranked 68)  
+Completed: 526 (0.92%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 526 (0.92%) (Ranked 82)
 | 2023-05-06 | 56,453 | 515 |
 | 2023-05-07 | 56,897 | 518 |
 | 2023-05-08 | 57,145 | 524 |
-| 2023-05-09 | 57,325 | 526 |
+| 2023-05-09 | 57,334 | 526 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

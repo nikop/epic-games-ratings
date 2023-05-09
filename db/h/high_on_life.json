@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22629,
+  "EOS_Progressed": 22630,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -527,6 +527,11 @@
       "Time": "2023-05-08T17:07:21.6501617+00:00",
       "NumProgressed": 22629,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-09T17:06:21.2500781+00:00",
+      "NumProgressed": 22630,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -554,7 +559,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17424
+      "UsersEstimate": 17425
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -562,7 +567,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9730
+      "UsersEstimate": 9731
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -578,7 +583,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6562
+      "UsersEstimate": 6563
     },
     {
       "ID": "ACH_GET_GUS",
@@ -602,7 +607,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17198
+      "UsersEstimate": 17199
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -642,7 +647,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18782
+      "UsersEstimate": 18783
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -666,7 +671,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13351
+      "UsersEstimate": 13352
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -674,7 +679,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5657
+      "UsersEstimate": 5658
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -690,7 +695,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4979
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -722,7 +727,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16519
+      "UsersEstimate": 16520
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -746,7 +751,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -786,14 +791,14 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4979
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22629,
+      "Progressed": 22630,
       "Completed": 8
     }
   ],
@@ -801,8 +806,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-07T05:59:32.3480184+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:06:22.2309924+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:06:21.2500778+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:59:21.8323836+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:22.2310162+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:59:23.6887898+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:06:21.2500988+00:00"
 }

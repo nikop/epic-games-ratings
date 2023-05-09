@@ -60,8 +60,8 @@ Rating: 4.57 (Ranked 429)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 576 (Ranked 184)  
-Completed: 0 (0.00%) (Ranked 195)  
+Progressed: 576 (Ranked 185)  
+Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
