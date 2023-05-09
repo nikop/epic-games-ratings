@@ -1,35 +1,35 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.63 (Ranked 324)  
+Rating: 4.64 (Ranked 309)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,477 |
-| Mainframe Hacker | 47.00% | ~2,554 |
-| Tomorrow Never Dyes | 47.00% | ~2,554 |
-| The Spy who eliminated me | 47.00% | ~2,554 |
-| Never Say Loser Again | 42.00% | ~2,282 |
-| For your Eyes only | 39.00% | ~2,119 |
-| From the Vault with Love | 38.00% | ~2,065 |
-| Tailor-Made | 38.00% | ~2,065 |
-| Fully Decked Out | 37.00% | ~2,010 |
-| You Only Live Twice | 32.00% | ~1,739 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,479 |
+| Mainframe Hacker | 47.00% | ~2,555 |
+| Tomorrow Never Dyes | 47.00% | ~2,555 |
+| The Spy who eliminated me | 47.00% | ~2,555 |
+| Never Say Loser Again | 42.00% | ~2,283 |
+| For your Eyes only | 39.00% | ~2,120 |
+| From the Vault with Love | 38.00% | ~2,066 |
+| Tailor-Made | 38.00% | ~2,066 |
+| Fully Decked Out | 37.00% | ~2,011 |
+| You Only Live Twice | 32.00% | ~1,740 |
 | A view to Win | 29.00% | ~1,576 |
-| Smells Like Trouble | 27.00% | ~1,467 |
+| Smells Like Trouble | 27.00% | ~1,468 |
 | In It to Win It | 26.00% | ~1,413 |
 | Private Collection | 26.00% | ~1,413 |
-| Assistant Accountant | 25.00% | ~1,358 |
-| The Living Portrait | 25.00% | ~1,358 |
-| Killer Looks | 25.00% | ~1,358 |
-| Hostile Takeover | 25.00% | ~1,358 |
-| Keycards Royale | 24.00% | ~1,304 |
-| Dr. No Kill | 24.00% | ~1,304 |
-| My Motto, My Creed | 24.00% | ~1,304 |
+| Assistant Accountant | 25.00% | ~1,359 |
+| The Living Portrait | 25.00% | ~1,359 |
+| Killer Looks | 25.00% | ~1,359 |
+| Hostile Takeover | 25.00% | ~1,359 |
+| Keycards Royale | 24.00% | ~1,305 |
+| Dr. No Kill | 24.00% | ~1,305 |
+| My Motto, My Creed | 24.00% | ~1,305 |
 | Security Supervisor | 9.00% | ~489 |
 | License to Thrill | 8.00% | ~435 |
 | Social of Solace | 8.00% | ~435 |
-| Safe Withdrawal | 7.00% | ~380 |
+| Safe Withdrawal | 7.00% | ~381 |
 | Live and let lie | 5.00% | ~272 |
 | Call Me Maybe | 5.00% | ~272 |
 | PHD in VIP | 4.00% | ~217 |
@@ -42,7 +42,7 @@ Rating: 4.63 (Ranked 324)
 | Extraction Confusion | 0.30% | ~16 |
 | Spyfall | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,433 (Ranked 119)  
+Progressed: 5,436 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-06 | 5,268 | 0 |
 | 2023-05-07 | 5,311 | 0 |
 | 2023-05-08 | 5,382 | 0 |
-| 2023-05-09 | 5,433 | 0 |
+| 2023-05-09 | 5,436 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -79,3 +79,4 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-04-27 | 4.62 | 0 | 0 |
 | 2023-05-01 | 4.64 | 0 | 0 |
 | 2023-05-08 | 4.63 | 0 | 0 |
+| 2023-05-09 | 4.64 | 0 | 0 |

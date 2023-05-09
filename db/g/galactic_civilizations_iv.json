@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -2166,9 +2166,9 @@
       "ID": "Win_As_Drengin",
       "SetID": "4h07amh",
       "Name": "Win as the Drengin",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "Win_As_Festron",
@@ -2366,8 +2366,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "LastChanged_Achievements": "2023-05-09T21:01:41.8997132+00:00",
+  "LastChanged_Achievements": "2023-05-09T22:02:38.8036846+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.1856232+00:00",
-  "LastUpdate_Ratings": "2023-05-09T20:58:35.2122143+00:00",
-  "LastUpdate_Achievements": "2023-05-09T21:01:41.8997973+00:00"
+  "LastUpdate_Ratings": "2023-05-09T21:58:50.7487813+00:00",
+  "LastUpdate_Achievements": "2023-05-09T22:02:38.8038643+00:00"
 }

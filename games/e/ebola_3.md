@@ -15,22 +15,22 @@
 | Survival ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
 | Antivirus ✔ | 6.00% | ~9 |
+| Cheats ✔ | 6.00% | ~9 |
 | Hospital ✔ | 6.00% | ~9 |
+| King of survival ✔ | 6.00% | ~9 |
 | Thirst ✔ | 6.00% | ~9 |
 | Betty ✔ | 5.00% | ~8 |
-| Cheats ✔ | 5.00% | ~8 |
+| Brain ✔ | 5.00% | ~8 |
 | City ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
 | Fraternal help ✔ | 5.00% | ~8 |
-| King of survival ✔ | 5.00% | ~8 |
+| Infected ✔ | 5.00% | ~8 |
 | All secrets revealed ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~6 |
 | Alice ✔ | 4.00% | ~6 |
-| Brain ✔ | 4.00% | ~6 |
 | Food ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
-| Infected ✔ | 4.00% | ~6 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
 | Mutant fight ✔ | 3.00% | ~5 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1938,
+  "EOS_Progressed": 1939,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1051,6 +1051,11 @@
       "Time": "2023-05-09T21:06:12.1526274+00:00",
       "NumProgressed": 1938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T22:07:05.3774346+00:00",
+      "NumProgressed": 1939,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1062,7 +1067,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -1110,7 +1115,7 @@
       "Name": "Elemental master",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1126,7 +1131,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1142,7 +1147,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1150,7 +1155,7 @@
       "Name": "I smell fear",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -1246,7 +1251,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1278,7 +1283,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1302,7 +1307,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1318,7 +1323,7 @@
       "Name": "Glyndemere",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -1350,7 +1355,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -1406,7 +1411,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1438,7 +1443,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1470,7 +1475,7 @@
       "Name": "Ancient power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -1485,7 +1490,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1938,
+      "Progressed": 1939,
       "Completed": 1
     }
   ],
@@ -1493,8 +1498,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-09T21:06:12.152627+00:00",
+  "LastChanged_Achievements": "2023-05-09T22:07:05.3774342+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-09T20:58:50.6140838+00:00",
-  "LastUpdate_Achievements": "2023-05-09T21:06:12.1526788+00:00"
+  "LastUpdate_Ratings": "2023-05-09T21:59:09.2953245+00:00",
+  "LastUpdate_Achievements": "2023-05-09T22:07:05.3775048+00:00"
 }

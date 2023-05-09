@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1152,
+  "EOS_Progressed": 1153,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -325,6 +325,11 @@
       "Time": "2023-05-09T21:06:12.8270475+00:00",
       "NumProgressed": 1152,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-09T22:07:06.1741217+00:00",
+      "NumProgressed": 1153,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -422,9 +427,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -504,7 +509,7 @@
       "Name": "How Romantic!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_maimedHero",
@@ -528,7 +533,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -646,9 +651,9 @@
       "ID": "enduringWar_destroyEnduring",
       "SetID": "95dc8p",
       "Name": "War-Ender",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 23
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -783,15 +788,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1152,
+      "Progressed": 1153,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-09T21:06:12.8270471+00:00",
+  "LastChanged_Achievements": "2023-05-09T22:07:06.1741212+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-09T21:01:23.5844923+00:00",
-  "LastUpdate_Achievements": "2023-05-09T21:06:12.8270932+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:02:14.7249243+00:00",
+  "LastUpdate_Achievements": "2023-05-09T22:07:06.1742049+00:00"
 }

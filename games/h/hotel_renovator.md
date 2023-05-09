@@ -24,7 +24,7 @@ Rating: 4.50 (Ranked 533)
 | Still more work ahead | 27.00% | ~197 |
 | Aesop's fable | 25.00% | ~183 |
 | Kaboom | 24.00% | ~175 |
-| Nearly there | 23.00% | ~168 |
+| Nearly there | 24.00% | ~175 |
 | Broken heart | 21.00% | ~154 |
 | Island boy | 20.00% | ~146 |
 | You're a star | 18.00% | ~132 |

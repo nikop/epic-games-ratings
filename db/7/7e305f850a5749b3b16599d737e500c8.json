@@ -74,33 +74,33 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Engineer",
       "SetID": "b7i210",
       "Name": "Engineer",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Fixer",
@@ -114,9 +114,9 @@
       "ID": "Florist",
       "SetID": "b7i210",
       "Name": "Florist",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Game_changer",
@@ -208,8 +208,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-09T21:04:04.8347302+00:00",
+  "LastChanged_Achievements": "2023-05-09T22:04:14.1762763+00:00",
   "LastUpdate_AppInfo": "2023-05-08T14:58:36.6916699+00:00",
-  "LastUpdate_Ratings": "2023-05-09T20:58:26.3038602+00:00",
-  "LastUpdate_Achievements": "2023-05-09T21:04:04.8349445+00:00"
+  "LastUpdate_Ratings": "2023-05-09T21:58:40.0488104+00:00",
+  "LastUpdate_Achievements": "2023-05-09T22:04:14.1765574+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -672,9 +672,9 @@
       "ID": "achBrain",
       "SetID": "72gjli4",
       "Name": "Brain \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achCar",
@@ -688,9 +688,9 @@
       "ID": "achCheet",
       "SetID": "72gjli4",
       "Name": "Cheats \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achChest",
@@ -888,9 +888,9 @@
       "ID": "achPlotThree",
       "SetID": "72gjli4",
       "Name": "Infected \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achPlotTwo",
@@ -944,9 +944,9 @@
       "ID": "achSave",
       "SetID": "72gjli4",
       "Name": "King of survival \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achSecretos",
@@ -1041,8 +1041,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-09T21:06:47.1758208+00:00",
+  "LastChanged_Achievements": "2023-05-09T22:07:45.8540668+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-09T21:01:06.7467977+00:00",
-  "LastUpdate_Achievements": "2023-05-09T21:06:47.1758664+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:01:53.3274905+00:00",
+  "LastUpdate_Achievements": "2023-05-09T22:07:45.8541173+00:00"
 }

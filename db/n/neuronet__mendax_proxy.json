@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
     "PcReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -158,17 +158,17 @@
       "ID": "AURORA04",
       "SetID": "2d85n75",
       "Name": "A Light in the Dark",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AURORA_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Guardian",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BETA03",
@@ -214,9 +214,9 @@
       "ID": "ELEMAI05",
       "SetID": "2d85n75",
       "Name": "Endgame",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EVERYONE_NEEDS_ABREAK",
@@ -238,17 +238,17 @@
       "ID": "FORTRAN_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Philosopher",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FULL_COVERAGE",
       "SetID": "2d85n75",
       "Name": "Full Coverage",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "JOB_CREATOR",
@@ -310,9 +310,9 @@
       "ID": "PAPA_RU_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Partner",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PATRIZIA_COMPLETE",
@@ -342,17 +342,17 @@
       "ID": "RIVER_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Provocateur",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SHOOK_UP",
       "SetID": "2d85n75",
       "Name": "Shook Up",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SOCIAL_BUTTERFLY",
@@ -366,17 +366,17 @@
       "ID": "TALINGREY07",
       "SetID": "2d85n75",
       "Name": "Socially Acceptable Insanity",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TALINGREY_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Companion",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TASK_MASTER",
@@ -446,9 +446,9 @@
       "ID": "THOMPSON_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Counsellor",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "UNDER_THE_WEATHER",
@@ -511,8 +511,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-09T21:06:34.455097+00:00",
+  "LastChanged_Achievements": "2023-05-09T22:07:31.3334696+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-09T21:00:39.5279665+00:00",
-  "LastUpdate_Achievements": "2023-05-09T21:06:34.455137+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:01:18.0803887+00:00",
+  "LastUpdate_Achievements": "2023-05-09T22:07:31.3335845+00:00"
 }

@@ -75,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~174 |
 | Wisdom Check | 0.20% | ~174 |
 | Sleuth It Out | 0.20% | ~174 |
+| A Grand Puzzle | 0.20% | ~174 |
 | No Time To Rest | 0.20% | ~174 |
 | The Mists of Ravenloft | 0.20% | ~174 |
 | Invisible Shadows | 0.20% | ~174 |
@@ -237,7 +238,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~87 |
 | Vajra's Guards | 0.10% | ~87 |
 | The Newcomers of Notoriety | 0.10% | ~53 |
-| A Grand Puzzle | 0.10% | ~87 |
 | Never Split the Party | 0.10% | ~87 |
 | Azaka's Procession - Part 1 | 0.10% | ~87 |
 | Snakes on our Plane | 0.10% | ~53 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,990 (Ranked 59)  
-Completed: 1,819 (2.09%) (Ranked 59)  
+Progressed: 86,997 (Ranked 59)  
+Completed: 1,820 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -515,7 +515,7 @@ Completed: 1,819 (2.09%) (Ranked 59)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,990 | 1,819 |
+| 2023-05-09 | 86,997 | 1,820 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

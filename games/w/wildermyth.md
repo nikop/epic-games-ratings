@@ -10,11 +10,11 @@ Number of Ratings: 45  (23.09.2022)
 | Me and My Familiar | 27.00% | ~311 |
 | Passing Shadow | 23.00% | ~265 |
 | This Too Shall Pass | 23.00% | ~265 |
-| Cutthroat Competitors | 22.00% | ~253 |
+| Cutthroat Competitors | 22.00% | ~254 |
 | Daybreak | 21.00% | ~242 |
-| How Romantic! | 20.00% | ~230 |
+| How Romantic! | 20.00% | ~231 |
 | Gotta Ca... Must Collect All of Them | 19.00% | ~219 |
-| Completing the Look | 11.00% | ~127 |
+| Completing the Look | 10.00% | ~115 |
 | Who's Counting? | 10.00% | ~115 |
 | War Endured | 10.00% | ~115 |
 | A Mythic Menagerie | 9.00% | ~104 |
@@ -45,6 +45,7 @@ Number of Ratings: 45  (23.09.2022)
 | Drauvenslayers | 2.00% | ~23 |
 | Bonebreakers | 2.00% | ~23 |
 | No More Nightmares | 2.00% | ~23 |
+| War-Ender | 2.00% | ~23 |
 | Fight Like a Bird | 2.00% | ~23 |
 | Some Say I'm Too Flashy | 2.00% | ~23 |
 | Into Mulch | 2.00% | ~23 |
@@ -52,7 +53,6 @@ Number of Ratings: 45  (23.09.2022)
 | Tempest | 2.00% | ~23 |
 | Lochias's Hunger | 2.00% | ~23 |
 | Back into the Sea | 1.00% | ~12 |
-| War-Ender | 1.00% | ~12 |
 | Solid as the Hills | 1.00% | ~12 |
 | Symbiosis | 1.00% | ~12 |
 | I'm Not Smiling | 1.00% | ~12 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.30% | ~3 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,152 (Ranked 156)  
+Progressed: 1,153 (Ranked 156)  
 Completed: 3 (0.26%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 3 (0.26%) (Ranked 130)
 | 2023-05-06 | 1,138 | 3 |
 | 2023-05-07 | 1,144 | 3 |
 | 2023-05-08 | 1,146 | 3 |
-| 2023-05-09 | 1,152 | 3 |
+| 2023-05-09 | 1,153 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 452)  
 Sum: 27 (Ranked 460)  

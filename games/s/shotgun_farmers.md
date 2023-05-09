@@ -7,13 +7,13 @@
 | Seeds of War | 103.00% | ~32 |
 | First Blood | 81.00% | ~25 |
 | No Asperascope | 68.00% | ~21 |
-| Triple Kill | 65.00% | ~20 |
-| Cornivore | 58.00% | ~18 |
+| Triple Kill | 68.00% | ~21 |
+| Cornivore | 61.00% | ~19 |
 | Drinking Problem | 23.00% | ~7 |
+| Skin Of Your Teeth | 23.00% | ~7 |
 | Pork Chop Express | 23.00% | ~7 |
 | 10K | 23.00% | ~7 |
 | 15K | 19.00% | ~6 |
-| Skin Of Your Teeth | 19.00% | ~6 |
 | Graveside Survivor | 16.00% | ~5 |
 | Carrocketeer | 16.00% | ~5 |
 | Fresh Pancake | 13.00% | ~4 |

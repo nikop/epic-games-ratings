@@ -40,10 +40,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Mimot | 1.00% | ~56 |
 | Win as the Navigators | 0.90% | ~50 |
 | Win as Torians | 0.90% | ~50 |
+| Win as the Drengin | 0.80% | ~45 |
 | Win as the Manti | 0.80% | ~45 |
 | Win as Xeloxi | 0.80% | ~45 |
 | Win as the Drath | 0.70% | ~39 |
-| Win as the Drengin | 0.70% | ~39 |
 | Win as the Krynn | 0.70% | ~39 |
 | Diplomatic Victory! | 0.70% | ~39 |
 | Win as the Iconians | 0.60% | ~33 |

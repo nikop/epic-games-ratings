@@ -62,9 +62,9 @@ Number of Ratings: 87  (23.09.2022)
 | Miscalculation | 0.60% | ~4 |
 | Railroad tycoon | 0.60% | ~4 |
 | Vostok | 0.60% | ~0 |
+| Will work | 0.60% | ~4 |
 | BBQ | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
-| Will work | 0.40% | ~3 |
 | Woodcutter | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Astrochemist | 0.30% | ~0 |

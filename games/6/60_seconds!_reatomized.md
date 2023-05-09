@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.63 (Ranked 324)  
+Rating: 4.63 (Ranked 325)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,9 +38,9 @@ Rating: 4.63 (Ranked 324)
 | Men in Black | 11.00% | ~437 |
 | No stone unturned | 10.00% | ~397 |
 | Unplugged | 7.00% | ~278 |
+| Holidays! | 6.00% | ~238 |
 | Mad Hatter | 6.00% | ~238 |
 | Yes Man | 6.00% | ~238 |
-| Holidays! | 5.00% | ~198 |
 | Lumbersexual | 5.00% | ~198 |
 | Feline Domination | 4.00% | ~159 |
 | Take that, Brundlefly! | 4.00% | ~159 |
