@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 489 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 489 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,440 | 115 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,035 | 86 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,037 | 86 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 482 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 489 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 489 |
@@ -115,7 +115,7 @@
 | 103 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 489 |
 | 103 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 452 |
 | 115 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 489 |
-| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,140 | 23 |
+| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,145 | 23 |
 | 115 | [Dead Space](games/d/dead_space.md) | 4.76 | 40 | 407 |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 841 | 144 |
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 489 |
@@ -149,7 +149,7 @@
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 589 | 166 |
 | 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,500 | 49 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
-| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,870 | 13 |
+| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,870 | 14 |
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 489 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 489 |
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 750 | 149 |
@@ -241,7 +241,7 @@
 | 233 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 489 |
 | 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,201 | 60 |
 | 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,323 | 3 |
-| 233 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 167,279 | 5 |
+| 233 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 167,626 | 5 |
 | 233 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 489 |
 | 233 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 489 |
 | 233 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 489 |
@@ -311,6 +311,7 @@
 | 309 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 489 |
 | 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,924 | 54 |
 | 309 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 306 |
+| 309 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 0 | 489 |
 | 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,096 | 102 |
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 489 |
 | 309 | [HITMAN](games/h/hitman.md) | 4.64 | 196 | 259 |
@@ -323,19 +324,18 @@
 | 309 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 366 |
 | 309 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 489 |
 | 309 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 184 | 263 |
-| 324 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.63 | 0 | 489 |
-| 324 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 482 |
-| 324 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 0 | 489 |
-| 324 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 489 |
-| 324 | [Deceive Inc.](games/d/deceive_inc..md) | 4.63 | 0 | 489 |
-| 324 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 59 | 378 |
-| 324 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 0 | 489 |
-| 324 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 489 |
-| 324 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 181 | 265 |
-| 324 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 224 |
-| 324 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.63 | 0 | 489 |
-| 324 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,731 | 110 |
-| 324 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 489 |
+| 325 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.63 | 0 | 489 |
+| 325 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 482 |
+| 325 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 0 | 489 |
+| 325 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 489 |
+| 325 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 59 | 378 |
+| 325 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 0 | 489 |
+| 325 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 489 |
+| 325 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 181 | 265 |
+| 325 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 224 |
+| 325 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.63 | 0 | 489 |
+| 325 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,731 | 110 |
+| 325 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 489 |
 | 337 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 489 |
 | 337 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 63,904 | 9 |
 | 337 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 428 |
@@ -398,7 +398,7 @@
 | 396 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 403 |
 | 396 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 56,610 | 10 |
 | 396 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 596 | 165 |
-| 396 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.59 | 30,613 | 14 |
+| 396 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.59 | 30,885 | 13 |
 | 396 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 239 | 241 |
 | 396 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 489 |
 | 396 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 489 |

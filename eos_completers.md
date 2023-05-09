@@ -26,7 +26,7 @@
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 5.70% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 5.69% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -113,16 +113,16 @@
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 110 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 113 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 113 | [Tchia](games/t/tchia.md) | 0.36% |
+| 114 | [Tchia](games/t/tchia.md) | 0.35% |
 | 115 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 116 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 116 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 118 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
 | 118 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 120 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 120 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 120 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 120 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
-| 123 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 124 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 124 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 124 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
