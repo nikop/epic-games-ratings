@@ -24,9 +24,9 @@ Rating: 3.48 (Ranked 917)
 | Dragon Master | 7.00% | ~65 |
 | Natural Talent | 7.00% | ~65 |
 | The Unstoppable | 7.00% | ~65 |
+| Superior | 6.00% | ~56 |
 | Daily Quest Completionist | 5.00% | ~47 |
 | Scientist | 5.00% | ~47 |
-| Superior | 5.00% | ~47 |
 | Milestone collector | 4.00% | ~37 |
 | Background Story | 3.00% | ~28 |
 | Frostfire Liberator | 3.00% | ~28 |

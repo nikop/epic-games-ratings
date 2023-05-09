@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 34.00% | ~16,787 |
-| Landlord | 29.00% | ~14,318 |
-| Lawmaker | 21.00% | ~10,368 |
+| Lawbringer | 34.00% | ~16,788 |
+| Landlord | 29.00% | ~14,319 |
+| Lawmaker | 21.00% | ~10,369 |
 | Bannerlord | 20.00% | ~9,875 |
 | Horde breaker | 20.00% | ~9,875 |
 | Trained | 19.00% | ~9,381 |
 | The king is pleased | 16.00% | ~7,900 |
 | King Solomon | 15.00% | ~7,406 |
-| I can do it | 14.00% | ~6,912 |
-| Apple of my eye | 13.00% | ~6,418 |
+| I can do it | 14.00% | ~6,913 |
+| Apple of my eye | 13.00% | ~6,419 |
 | God of the Arena | 12.00% | ~5,925 |
 | Against all odds | 9.00% | ~4,444 |
 | Swordbearer | 9.00% | ~4,444 |
@@ -32,15 +32,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Veni vidi vici | 4.00% | ~1,975 |
 | Crowdfunded | 3.00% | ~1,481 |
 | Freedom! | 3.00% | ~1,481 |
-| Entrepreneur | 2.00% | ~987 |
-| Long live the Empire! | 2.00% | ~987 |
-| Real Estate | 2.00% | ~987 |
+| Entrepreneur | 2.00% | ~988 |
+| Long live the Empire! | 2.00% | ~988 |
+| Real Estate | 2.00% | ~988 |
 | Supreme Emperor | 1.00% | ~494 |
 | Crackshot | 0.70% | ~346 |
 | Undercover | 0.70% | ~346 |
 | Fat Cat | 0.60% | ~296 |
 | Catch | 0.50% | ~247 |
-| Slice 'n dice | 0.40% | ~197 |
+| Slice 'n dice | 0.40% | ~198 |
 | Ride it like you stole it | 0.30% | ~148 |
 | Mounted Archery | 0.20% | ~99 |
 | Best served cold | 0.10% | ~49 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,373 (Ranked 73)  
+Progressed: 49,375 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-06 | 49,029 | 0 |
 | 2023-05-07 | 49,168 | 0 |
 | 2023-05-08 | 49,259 | 0 |
-| 2023-05-09 | 49,373 | 0 |
+| 2023-05-09 | 49,375 | 0 |
 ## Awards
 Max (Character Customization): 6,500  (Ranked 49)  
 Sum: 12,950 (Ranked 68)  

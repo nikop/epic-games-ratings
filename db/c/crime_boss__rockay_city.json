@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1320,9 +1320,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 59545,
+  "EOS_Progressed": 59546,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1403,
+  "EOS_NewPlayers": 1400,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3020,6 +3020,11 @@
       "Time": "2023-05-09T21:06:39.9315005+00:00",
       "NumProgressed": 59545,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-09T23:05:10.5649121+00:00",
+      "NumProgressed": 59546,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 37,
@@ -3031,7 +3036,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 29772
+      "UsersEstimate": 29773
     },
     {
       "ID": "ACH_0011",
@@ -3047,7 +3052,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12504
+      "UsersEstimate": 12505
     },
     {
       "ID": "ACH_0013",
@@ -3175,7 +3180,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 38704
+      "UsersEstimate": 38705
     },
     {
       "ID": "ACH_0210",
@@ -3183,7 +3188,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43468
+      "UsersEstimate": 43469
     },
     {
       "ID": "ACH_0211",
@@ -3199,7 +3204,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 27986
+      "UsersEstimate": 27987
     },
     {
       "ID": "ACH_0300",
@@ -3247,7 +3252,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20246
     },
     {
       "ID": "ACH_0420",
@@ -3271,7 +3276,7 @@
       "Name": "Classy Joint",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     },
     {
       "ID": "ACH_0440",
@@ -3319,14 +3324,14 @@
       "Name": "Rockay Rex",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5955
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 59545,
+      "Progressed": 59546,
       "Completed": 28
     }
   ],
@@ -3334,8 +3339,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-09T19:01:33.0527512+00:00",
-  "LastChanged_Achievements": "2023-05-09T22:07:37.504706+00:00",
+  "LastChanged_Achievements": "2023-05-09T23:05:10.5649118+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.9893875+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:01:34.7386107+00:00",
-  "LastUpdate_Achievements": "2023-05-09T22:07:37.5047455+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:59:18.1297617+00:00",
+  "LastUpdate_Achievements": "2023-05-09T23:05:10.5649401+00:00"
 }

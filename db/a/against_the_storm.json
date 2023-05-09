@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2234,7 +2234,7 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14730,
+  "EOS_Progressed": 14731,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -3184,6 +3184,11 @@
       "Time": "2023-05-09T19:07:40.1100639+00:00",
       "NumProgressed": 14730,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-09T23:05:12.7226911+00:00",
+      "NumProgressed": 14731,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3329,9 +3334,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 88
     },
     {
       "ID": "WinNearCrystals",
@@ -3553,9 +3558,9 @@
       "ID": "WinWithTimedOrders",
       "SetID": "cfbk359",
       "Name": "Like a Machine",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -3594,15 +3599,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14730,
+      "Progressed": 14731,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-08T18:01:14.9978672+00:00",
-  "LastChanged_Achievements": "2023-05-09T22:07:40.0858192+00:00",
+  "LastChanged_Achievements": "2023-05-09T23:05:12.7226907+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:01:37.044643+00:00",
-  "LastUpdate_Achievements": "2023-05-09T22:07:40.0858718+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:59:19.924151+00:00",
+  "LastUpdate_Achievements": "2023-05-09T23:05:12.7227275+00:00"
 }

@@ -14,13 +14,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 0.70% | ~103 |
 | Overcoming Difficulty | 0.70% | ~103 |
 | Taking Action | 0.70% | ~103 |
+| Like a Machine | 0.70% | ~103 |
 | Bandit Camp | 0.60% | ~88 |
 | Barren Lands | 0.60% | ~88 |
+| Ancient Battleground | 0.60% | ~88 |
 | Lost Colonies | 0.60% | ~88 |
-| Like a Machine | 0.60% | ~88 |
 | Trade Baron | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
-| Ancient Battleground | 0.50% | ~74 |
 | Sparkdew Crystals | 0.50% | ~74 |
 | Dangerous Lands | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,730 (Ranked 98)  
+Progressed: 14,731 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 30 (0.20%) (Ranked 136)
 | 2023-05-06 | 14,678 | 30 |
 | 2023-05-07 | 14,702 | 30 |
 | 2023-05-08 | 14,720 | 30 |
-| 2023-05-09 | 14,730 | 30 |
+| 2023-05-09 | 14,731 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,017 (Ranked 151)  

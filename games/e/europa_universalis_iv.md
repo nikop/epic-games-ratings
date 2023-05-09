@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,987 |
-| That's a Grand Army | 8.00% | ~2,655 |
-| That is mine! | 8.00% | ~2,655 |
-| Victorious! | 8.00% | ~2,655 |
-| Brothers in Arms | 6.00% | ~1,991 |
-| That's a Grand Navy | 6.00% | ~1,991 |
-| Seriously?! | 6.00% | ~1,991 |
-| For the Glory | 5.00% | ~1,659 |
-| Cold War | 4.00% | ~1,327 |
-| True Catholic | 4.00% | ~1,327 |
+| Until death do us apart | 9.00% | ~2,988 |
+| That's a Grand Army | 8.00% | ~2,656 |
+| That is mine! | 8.00% | ~2,656 |
+| Victorious! | 8.00% | ~2,656 |
+| Brothers in Arms | 6.00% | ~1,992 |
+| That's a Grand Navy | 6.00% | ~1,992 |
+| Seriously?! | 6.00% | ~1,992 |
+| For the Glory | 5.00% | ~1,660 |
+| Cold War | 4.00% | ~1,328 |
+| True Catholic | 4.00% | ~1,328 |
 | Defender of the Faith | 3.00% | ~996 |
 | It's all about the money | 3.00% | ~996 |
 | Respected | 3.00% | ~996 |
@@ -37,8 +37,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~332 |
 | A Golden Empire | 1.00% | ~332 |
 | My armies are invincible! | 1.00% | ~332 |
-| Isn't this the way to India? | 0.80% | ~265 |
-| The Five Colonies | 0.80% | ~265 |
+| Isn't this the way to India? | 0.80% | ~266 |
+| The Five Colonies | 0.80% | ~266 |
 | The Emperors new clothes | 0.70% | ~232 |
 | Market Control | 0.70% | ~232 |
 | This navy can take it all | 0.70% | ~232 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,186 (Ranked 81)  
+Progressed: 33,201 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,10 +380,10 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
-| 2023-05-09 | 33,186 | 0 |
+| 2023-05-09 | 33,201 | 0 |
 ## Awards
 Max (Educational): 5,201  (Ranked 60)  
-Sum: 43,007 (Ranked 27)  
+Sum: 43,010 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -393,7 +393,7 @@ Diff (max vs sum): 33
 | This game is Extremely Fun | 4,932 |
 | This game has Diverse Characters | 4,885 |
 | This game is Relaxing | 4,848 |
-| This game has Competitive Players | 4,665 |
+| This game has Competitive Players | 4,668 |
 | This game has Amazing Storytelling | 4,425 |
 | This game has Amazing Characters | 4,102 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -512,4 +512,4 @@ Diff (max vs sum): 33
 | 2023-05-06 | 4.68 | - | 5,181 | 42,857 |
 | 2023-05-07 | 4.68 | - | 5,190 | 42,931 |
 | 2023-05-08 | 4.68 | - | 5,198 | 42,973 |
-| 2023-05-09 | 4.68 | - | 5,201 | 43,007 |
+| 2023-05-09 | 4.68 | - | 5,201 | 43,010 |

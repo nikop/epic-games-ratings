@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,224 |
-| Wallbanger | 5.00% | ~18,224 |
+| Point Shooting | 5.00% | ~18,225 |
+| Wallbanger | 5.00% | ~18,225 |
 | Exploitative | 4.00% | ~14,580 |
 | High Speed Low Drag | 4.00% | ~14,580 |
 | Wet Feet | 4.00% | ~14,580 |
@@ -24,25 +24,25 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~3,645 |
 | Ruthless | 1.00% | ~3,645 |
 | Semper Paratus | 1.00% | ~3,645 |
-| Carrying | 0.90% | ~3,280 |
-| Mount & Gun | 0.90% | ~3,280 |
-| Personal | 0.90% | ~3,280 |
+| Carrying | 0.90% | ~3,281 |
+| Mount & Gun | 0.90% | ~3,281 |
+| Personal | 0.90% | ~3,281 |
 | Grounded | 0.80% | ~2,916 |
 | Play to Win | 0.80% | ~2,916 |
-| #1 | 0.70% | ~2,551 |
-| Special Delivery | 0.70% | ~2,551 |
+| #1 | 0.70% | ~2,552 |
+| Special Delivery | 0.70% | ~2,552 |
 | Firefight Victory | 0.60% | ~2,187 |
-| Cinematic | 0.50% | ~1,822 |
+| Cinematic | 0.50% | ~1,823 |
 | Thanks Station! | 0.40% | ~1,458 |
-| Knock Knock | 0.30% | ~1,093 |
+| Knock Knock | 0.30% | ~1,094 |
 | Hit and Run | 0.20% | ~729 |
 | There For You | 0.20% | ~729 |
-| Designated Driver | 0.10% | ~364 |
-| J.R. .50 | 0.10% | ~364 |
-| It's All in the Reflexes | 0.10% | ~364 |
-| Road Hazard | 0.10% | ~364 |
+| Designated Driver | 0.10% | ~365 |
+| J.R. .50 | 0.10% | ~365 |
+| It's All in the Reflexes | 0.10% | ~365 |
+| Road Hazard | 0.10% | ~365 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364,488 (Ranked 35)  
+Progressed: 364,501 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 2 (0.00%) (Ranked 197)
 | 2023-05-06 | 362,895 | 2 |
 | 2023-05-07 | 363,579 | 2 |
 | 2023-05-08 | 364,064 | 2 |
-| 2023-05-09 | 364,488 | 2 |
+| 2023-05-09 | 364,501 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 350  (Ranked 209)  
 Sum: 2,625 (Ranked 163)  

@@ -34,13 +34,13 @@
 | A Total Riot | 19.00% | ~3 |
 | Knock Knock | 19.00% | ~3 |
 | Quidnunc | 19.00% | ~3 |
+| Ring of Fire | 19.00% | ~3 |
 | The Provocateur | 19.00% | ~3 |
 | That One Doesn't Count | 19.00% | ~3 |
 | They Flock to Him | 19.00% | ~3 |
 | Leave It to the Professionals | 13.00% | ~2 |
 | Obligatory Fraudulent Baking | 13.00% | ~2 |
 | Overseer | 13.00% | ~2 |
-| Ring of Fire | 13.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
 | Double Agent | 6.00% | ~1 |
 | Tastes Like Regret | 6.00% | ~1 |

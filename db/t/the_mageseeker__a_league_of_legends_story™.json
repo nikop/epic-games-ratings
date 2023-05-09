@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1939,
+  "EOS_Progressed": 1940,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1056,6 +1056,11 @@
       "Time": "2023-05-09T22:07:05.3774346+00:00",
       "NumProgressed": 1939,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T23:04:42.6402736+00:00",
+      "NumProgressed": 1940,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1075,7 +1080,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1107,7 +1112,7 @@
       "Name": "Hijack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1123,7 +1128,7 @@
       "Name": "No more holding back",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -1131,7 +1136,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1147,7 +1152,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1171,7 +1176,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1187,7 +1192,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1243,7 +1248,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1251,7 +1256,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1291,7 +1296,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1299,7 +1304,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1331,7 +1336,7 @@
       "Name": "Capelworth",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -1371,7 +1376,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1403,7 +1408,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1427,7 +1432,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -1443,7 +1448,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1490,7 +1495,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1939,
+      "Progressed": 1940,
       "Completed": 1
     }
   ],
@@ -1498,8 +1503,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-09T22:07:05.3774342+00:00",
+  "LastChanged_Achievements": "2023-05-09T23:04:42.6402733+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-09T21:59:09.2953245+00:00",
-  "LastUpdate_Achievements": "2023-05-09T22:07:05.3775048+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:57:21.936858+00:00",
+  "LastUpdate_Achievements": "2023-05-09T23:04:42.6403104+00:00"
 }

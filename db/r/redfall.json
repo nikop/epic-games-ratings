@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1471,
+  "EOS_Progressed": 1472,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -911,6 +911,11 @@
       "Time": "2023-05-09T22:07:01.3243151+00:00",
       "NumProgressed": 1471,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T23:04:39.1832909+00:00",
+      "NumProgressed": 1472,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -970,7 +975,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "Achievement_009",
@@ -978,7 +983,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "Achievement_010",
@@ -986,7 +991,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "Achievement_011",
@@ -1042,7 +1047,7 @@
       "Name": "Bad Wiring",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Achievement_018",
@@ -1058,7 +1063,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "Achievement_020",
@@ -1122,7 +1127,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "Achievement_028",
@@ -1154,7 +1159,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "Achievement_032",
@@ -1449,7 +1454,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1471,
+      "Progressed": 1472,
       "Completed": 0
     }
   ],
@@ -1457,8 +1462,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-09T12:48:51.7664833+00:00",
-  "LastChanged_Achievements": "2023-05-09T22:07:01.3243145+00:00",
+  "LastChanged_Achievements": "2023-05-09T23:04:39.1832905+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-09T21:59:22.4053723+00:00",
-  "LastUpdate_Achievements": "2023-05-09T22:07:01.3244469+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:57:32.3196072+00:00",
+  "LastUpdate_Achievements": "2023-05-09T23:04:39.1833448+00:00"
 }

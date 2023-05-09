@@ -7,11 +7,11 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 19.00% | ~8,758 |
-| Let There Be Light | 16.00% | ~7,375 |
-| Float Like a Butterfly | 15.00% | ~6,914 |
-| Nordic Walking | 13.00% | ~5,992 |
-| Bright Falls' Finest | 12.00% | ~5,531 |
-| Under a Thin Layer of Skin | 11.00% | ~5,070 |
+| Let There Be Light | 16.00% | ~7,376 |
+| Float Like a Butterfly | 15.00% | ~6,915 |
+| Nordic Walking | 13.00% | ~5,993 |
+| Bright Falls' Finest | 12.00% | ~5,532 |
+| Under a Thin Layer of Skin | 11.00% | ~5,071 |
 | Park Ranger | 9.00% | ~4,149 |
 | Back! Back, I Say! | 9.00% | ~4,149 |
 | Finders Keepers | 9.00% | ~4,149 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,095 (Ranked 74)  
+Progressed: 46,097 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 44 (0.10%) (Ranked 155)
 | 2023-05-06 | 46,035 | 44 |
 | 2023-05-07 | 46,058 | 44 |
 | 2023-05-08 | 46,074 | 44 |
-| 2023-05-09 | 46,095 | 44 |
+| 2023-05-09 | 46,097 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

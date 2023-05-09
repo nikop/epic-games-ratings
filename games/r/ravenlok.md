@@ -9,7 +9,7 @@
 | Into the Barn | 87.00% | ~474 |
 | A Prophecy | 84.00% | ~458 |
 | Sword, Shield, Fight! | 75.00% | ~409 |
-| A Grand Visit | 70.00% | ~382 |
+| A Grand Visit | 71.00% | ~387 |
 | Vibing | 60.00% | ~327 |
 | Fun Guy | 60.00% | ~327 |
 | Tragic Brave | 51.00% | ~278 |
@@ -23,14 +23,14 @@
 | Glimmer of Hope | 37.00% | ~202 |
 | Well Rested | 37.00% | ~202 |
 | Teacups for Toppy | 36.00% | ~196 |
-| Nightmare Fuel | 34.00% | ~185 |
-| Take Heart | 34.00% | ~185 |
+| Nightmare Fuel | 35.00% | ~191 |
+| Take Heart | 35.00% | ~191 |
 | The Guardian | 34.00% | ~185 |
+| Stronger! | 33.00% | ~180 |
 | Ancient Wisdom | 32.00% | ~174 |
 | Frog Facts! | 32.00% | ~174 |
-| Stronger! | 32.00% | ~174 |
+| All That Glistens | 32.00% | ~174 |
 | It's Pointy! | 32.00% | ~174 |
-| All That Glistens | 31.00% | ~169 |
 | Spellbound | 30.00% | ~164 |
 | All Skilled Up! | 30.00% | ~164 |
 | Extinct Again! | 29.00% | ~158 |
@@ -42,21 +42,21 @@
 | All Heart | 27.00% | ~147 |
 | Trick Question! | 27.00% | ~147 |
 | Soul Slayer | 26.00% | ~142 |
+| The Downfall | 26.00% | ~142 |
 | Extraordinary! | 26.00% | ~142 |
-| The Downfall | 25.00% | ~136 |
-| Final Showdown | 25.00% | ~136 |
-| Spot of Tea? | 25.00% | ~136 |
-| Going Home | 25.00% | ~136 |
+| Final Showdown | 26.00% | ~142 |
+| Spot of Tea? | 26.00% | ~142 |
+| Going Home | 26.00% | ~142 |
 | Mirror, Mirror | 23.00% | ~125 |
 | Flower Power | 22.00% | ~120 |
 | Crowned | 19.00% | ~104 |
-| Shopping Spree! | 17.00% | ~93 |
+| Shopping Spree! | 18.00% | ~98 |
 | Max Level! | 12.00% | ~65 |
 | Dance Master | 7.00% | ~38 |
 | Bombs Away! | 7.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 545 (Ranked 188)  
-Completed: 31 (5.69%) (Ranked 27)  
+Completed: 32 (5.87%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 31 (5.69%) (Ranked 27)
 | 2023-05-06 | 426 | 18 |
 | 2023-05-07 | 479 | 26 |
 | 2023-05-08 | 514 | 30 |
-| 2023-05-09 | 545 | 31 |
+| 2023-05-09 | 545 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

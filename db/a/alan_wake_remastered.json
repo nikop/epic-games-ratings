@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46095,
+  "EOS_Progressed": 46097,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1351,6 +1351,11 @@
       "Time": "2023-05-09T22:07:06.668377+00:00",
       "NumProgressed": 46095,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-09T23:04:43.6984402+00:00",
+      "NumProgressed": 46097,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1370,7 +1375,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5992
+      "UsersEstimate": 5993
     },
     {
       "ID": "03",
@@ -1378,7 +1383,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5531
+      "UsersEstimate": 5532
     },
     {
       "ID": "04",
@@ -1394,7 +1399,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "06",
@@ -1610,7 +1615,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "33",
@@ -1634,7 +1639,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7375
+      "UsersEstimate": 7376
     },
     {
       "ID": "36",
@@ -1897,21 +1902,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46095,
+      "Progressed": 46097,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9563,
+      "Progressed": 9565,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-09T22:07:06.6683764+00:00",
+  "LastChanged_Achievements": "2023-05-09T23:04:43.6984398+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-09T21:59:10.0985162+00:00",
-  "LastUpdate_Achievements": "2023-05-09T22:07:06.6685024+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:57:22.5997548+00:00",
+  "LastUpdate_Achievements": "2023-05-09T23:04:43.6984935+00:00"
 }

@@ -38,7 +38,7 @@ Rating: 4.50 (Ranked 533)
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,009 (Ranked 162)  
+Progressed: 1,009 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |

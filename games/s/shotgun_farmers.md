@@ -9,12 +9,12 @@
 | No Asperascope | 68.00% | ~21 |
 | Triple Kill | 68.00% | ~21 |
 | Cornivore | 61.00% | ~19 |
+| 10K | 29.00% | ~9 |
+| 15K | 26.00% | ~8 |
 | Drinking Problem | 23.00% | ~7 |
+| Graveside Survivor | 23.00% | ~7 |
 | Skin Of Your Teeth | 23.00% | ~7 |
 | Pork Chop Express | 23.00% | ~7 |
-| 10K | 23.00% | ~7 |
-| 15K | 19.00% | ~6 |
-| Graveside Survivor | 16.00% | ~5 |
 | Carrocketeer | 16.00% | ~5 |
 | Fresh Pancake | 13.00% | ~4 |
 | Eggtraordinary | 13.00% | ~4 |

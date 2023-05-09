@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37794,
+  "EOS_Progressed": 37795,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1349,6 +1349,11 @@
       "Time": "2023-05-09T22:07:17.4363282+00:00",
       "NumProgressed": 37794,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T23:04:53.2748019+00:00",
+      "NumProgressed": 37795,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1408,7 +1413,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3401
+      "UsersEstimate": 3402
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -1783,22 +1788,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37794,
+      "Progressed": 37795,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2631,
-      "Completed": 2631
+      "Progressed": 2632,
+      "Completed": 2632
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-08T09:00:28.4742824+00:00",
-  "LastChanged_Achievements": "2023-05-09T22:07:17.4363273+00:00",
+  "LastChanged_Achievements": "2023-05-09T23:04:53.2748015+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:00:08.4938015+00:00",
-  "LastUpdate_Achievements": "2023-05-09T22:07:17.4364171+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:58:08.7622716+00:00",
+  "LastUpdate_Achievements": "2023-05-09T23:04:53.2748408+00:00"
 }

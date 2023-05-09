@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Checkmate | 2.00% | ~1,065 |
+| Checkmate | 2.00% | ~1,066 |
 | A Brief Tour of the Realms | 1.00% | ~870 |
 | Pin and Skewer | 1.00% | ~533 |
 | Vecna Out! | 1.00% | ~533 |
+| The Cursed Farmer | 0.90% | ~783 |
 | Bully for Vecna | 0.80% | ~426 |
-| The Cursed Farmer | 0.80% | ~696 |
 | Beast Intentions | 0.70% | ~609 |
 | The Mad Wizard | 0.70% | ~609 |
 | The Ring of Regeneration | 0.60% | ~522 |
@@ -94,6 +94,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Backtracking Through Barovia | 0.20% | ~174 |
 | Nimble Escape | 0.20% | ~174 |
 | Fugitives | 0.20% | ~174 |
+| Excavating History | 0.20% | ~174 |
 | Premature Betrayal | 0.20% | ~174 |
 | Hopelessly Lost | 0.20% | ~174 |
 | Cramped Quarters | 0.20% | ~174 |
@@ -294,7 +295,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | From The Shadows | 0.10% | ~87 |
 | Spined Nuisances | 0.10% | ~87 |
 | Twilight Twist | 0.10% | ~53 |
-| Excavating History | 0.10% | ~87 |
 | Screams of the Dead | 0.10% | ~87 |
 | Frantic Excavation | 0.10% | ~87 |
 | Birds of a Feather | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,997 (Ranked 59)  
+Progressed: 87,004 (Ranked 59)  
 Completed: 1,820 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,820 (2.09%) (Ranked 59)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,997 | 1,820 |
+| 2023-05-09 | 87,004 | 1,820 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

@@ -20,8 +20,8 @@
 | Bling | 17.00% | ~20 |
 | Geared | 16.00% | ~19 |
 | Master Trader | 13.00% | ~15 |
+| Mysteries of Rin | 13.00% | ~15 |
 | Master Crafter | 12.00% | ~14 |
-| Mysteries of Rin | 12.00% | ~14 |
 | Empyrean Champion | 9.00% | ~11 |
 | Patience | 9.00% | ~11 |
 | Master Tactician | 3.00% | ~4 |

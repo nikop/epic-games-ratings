@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 545,
-  "EOS_Completed": 31,
-  "EOS_NewPlayers": 485,
-  "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 5.69,
+  "EOS_Completed": 32,
+  "EOS_NewPlayers": 484,
+  "EOS_NewCompleters": 25,
+  "EOS_Completed_Percentage": 5.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -772,6 +772,11 @@
       "Time": "2023-05-09T22:06:56.3163018+00:00",
       "NumProgressed": 545,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-09T23:04:34.6891875+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 50,
@@ -797,9 +802,9 @@
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 191
     },
     {
       "ID": "12",
@@ -845,9 +850,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "18",
@@ -861,9 +866,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 387
     },
     {
       "ID": "2",
@@ -885,9 +890,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 191
     },
     {
       "ID": "22",
@@ -949,9 +954,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "3",
@@ -1021,9 +1026,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "38",
@@ -1069,9 +1074,9 @@
       "ID": "42",
       "SetID": "d0g98p",
       "Name": "Shopping Spree!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "43",
@@ -1125,9 +1130,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "5",
@@ -1141,17 +1146,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "7",
@@ -1183,15 +1188,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 545,
-      "Completed": 31
+      "Completed": 32
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-09T22:06:56.3163012+00:00",
+  "LastChanged_Achievements": "2023-05-09T23:04:34.6891871+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-09T21:59:00.9900201+00:00",
-  "LastUpdate_Achievements": "2023-05-09T22:06:56.3163817+00:00"
+  "LastUpdate_Ratings": "2023-05-09T22:57:15.2517961+00:00",
+  "LastUpdate_Achievements": "2023-05-09T23:04:34.6892272+00:00"
 }
