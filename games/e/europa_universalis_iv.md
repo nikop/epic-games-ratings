@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,983 |
-| That's a Grand Army | 8.00% | ~2,652 |
-| That is mine! | 8.00% | ~2,652 |
-| Victorious! | 8.00% | ~2,652 |
-| Brothers in Arms | 6.00% | ~1,989 |
-| That's a Grand Navy | 6.00% | ~1,989 |
-| Seriously?! | 6.00% | ~1,989 |
-| For the Glory | 5.00% | ~1,657 |
-| Cold War | 4.00% | ~1,326 |
-| True Catholic | 4.00% | ~1,326 |
-| Defender of the Faith | 3.00% | ~994 |
-| It's all about the money | 3.00% | ~994 |
-| Respected | 3.00% | ~994 |
+| Until death do us apart | 9.00% | ~2,985 |
+| That's a Grand Army | 8.00% | ~2,653 |
+| That is mine! | 8.00% | ~2,653 |
+| Victorious! | 8.00% | ~2,653 |
+| Brothers in Arms | 6.00% | ~1,990 |
+| That's a Grand Navy | 6.00% | ~1,990 |
+| Seriously?! | 6.00% | ~1,990 |
+| For the Glory | 5.00% | ~1,658 |
+| Cold War | 4.00% | ~1,327 |
+| True Catholic | 4.00% | ~1,327 |
+| Defender of the Faith | 3.00% | ~995 |
+| It's all about the money | 3.00% | ~995 |
+| Respected | 3.00% | ~995 |
 | Blockader | 2.00% | ~663 |
 | Combined Arms | 2.00% | ~663 |
 | Double the Love | 2.00% | ~663 |
@@ -29,14 +29,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~663 |
 | Total Control | 2.00% | ~663 |
 | Truly Divine Ruler | 2.00% | ~663 |
-| Agressive Expander | 1.00% | ~331 |
-| All That's Thine Shall Be Mine | 1.00% | ~331 |
-| Azur semé de lis or | 1.00% | ~331 |
-| Bright Spark | 1.00% | ~331 |
-| City of Cities | 1.00% | ~331 |
-| Factionalism | 1.00% | ~331 |
-| A Golden Empire | 1.00% | ~331 |
-| My armies are invincible! | 1.00% | ~331 |
+| Agressive Expander | 1.00% | ~332 |
+| All That's Thine Shall Be Mine | 1.00% | ~332 |
+| Azur semé de lis or | 1.00% | ~332 |
+| Bright Spark | 1.00% | ~332 |
+| City of Cities | 1.00% | ~332 |
+| Factionalism | 1.00% | ~332 |
+| A Golden Empire | 1.00% | ~332 |
+| My armies are invincible! | 1.00% | ~332 |
 | Isn't this the way to India? | 0.80% | ~265 |
 | The Five Colonies | 0.80% | ~265 |
 | The Emperors new clothes | 0.70% | ~232 |
@@ -55,20 +55,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.40% | ~133 |
 | Trophy Hunter | 0.40% | ~133 |
 | Voting Streak | 0.40% | ~133 |
-| Absolutely | 0.30% | ~99 |
-| All Your Trade Are Belong to Us | 0.30% | ~99 |
-| Bleed Them Dry | 0.30% | ~99 |
-| Dude, Where's my Boat? | 0.30% | ~99 |
-| Four For Trade | 0.30% | ~99 |
-| Grand Coalition | 0.30% | ~99 |
-| In the Name of the Father | 0.30% | ~99 |
-| Live Long and Prosper | 0.30% | ~99 |
-| One Night in Paris | 0.30% | ~99 |
-| Populists in Government | 0.30% | ~99 |
-| Ruina Imperii | 0.30% | ~99 |
-| Tear Down This Wall | 0.30% | ~99 |
-| Traditional Player | 0.30% | ~99 |
-| Wonderful | 0.30% | ~99 |
+| Absolutely | 0.30% | ~100 |
+| All Your Trade Are Belong to Us | 0.30% | ~100 |
+| Bleed Them Dry | 0.30% | ~100 |
+| Dude, Where's my Boat? | 0.30% | ~100 |
+| Four For Trade | 0.30% | ~100 |
+| Grand Coalition | 0.30% | ~100 |
+| In the Name of the Father | 0.30% | ~100 |
+| Live Long and Prosper | 0.30% | ~100 |
+| One Night in Paris | 0.30% | ~100 |
+| Populists in Government | 0.30% | ~100 |
+| Ruina Imperii | 0.30% | ~100 |
+| Tear Down This Wall | 0.30% | ~100 |
+| Traditional Player | 0.30% | ~100 |
+| Wonderful | 0.30% | ~100 |
 | A Decent Reserve | 0.20% | ~66 |
 | A Pile of Gold | 0.20% | ~66 |
 | A Protected Market | 0.20% | ~66 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,147 (Ranked 81)  
+Progressed: 33,167 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
-| 2023-05-09 | 33,147 | 0 |
+| 2023-05-09 | 33,167 | 0 |
 ## Awards
 Max (Educational): 5,201  (Ranked 60)  
 Sum: 43,007 (Ranked 27)  

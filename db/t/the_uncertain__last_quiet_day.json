@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.48,
+  "EOS_Completed_Percentage": 3.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -70,6 +70,11 @@
     {
       "Time": "2023-05-08T15:06:39.5509374+00:00",
       "NumProgressed": 431,
+      "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-09T21:06:22.2472282+00:00",
+      "NumProgressed": 432,
       "NumCompleted": 15
     }
   ],
@@ -130,15 +135,15 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
       "SetID": "2iigf77",
       "Name": "Every little helps",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "FOUND_IT",
@@ -170,7 +175,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -178,7 +183,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -202,7 +207,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "LUCKY_DOG",
@@ -242,15 +247,15 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "PERFECT_HEARING",
       "SetID": "2iigf77",
       "Name": "Perfect hearing",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "PLEASE",
@@ -282,7 +287,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "SILENT",
@@ -337,7 +342,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 15
     }
   ],
@@ -345,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-09T20:06:28.7558115+00:00",
+  "LastChanged_Achievements": "2023-05-09T21:06:22.2472278+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:58.4087907+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:59:51.8154226+00:00",
-  "LastUpdate_Achievements": "2023-05-09T20:06:28.7558379+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:59:49.6339218+00:00",
+  "LastUpdate_Achievements": "2023-05-09T21:06:22.2472476+00:00"
 }

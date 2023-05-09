@@ -14,9 +14,9 @@
 | Weapon ✔ | 8.00% | ~13 |
 | Survival ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
+| Antivirus ✔ | 6.00% | ~9 |
 | Hospital ✔ | 6.00% | ~9 |
 | Thirst ✔ | 6.00% | ~9 |
-| Antivirus ✔ | 5.00% | ~8 |
 | Betty ✔ | 5.00% | ~8 |
 | Cheats ✔ | 5.00% | ~8 |
 | City ✔ | 5.00% | ~8 |

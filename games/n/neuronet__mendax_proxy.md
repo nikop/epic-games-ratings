@@ -12,37 +12,37 @@
 | Vaccinated | 44.00% | ~7 |
 | Warning: Fragile | 44.00% | ~7 |
 | Busybody | 38.00% | ~6 |
+| Everyone Needs a Break | 38.00% | ~6 |
 | Shook Up | 38.00% | ~6 |
 | Task Master | 38.00% | ~6 |
 | An Acquired Taste | 31.00% | ~5 |
 | A Light in the Dark | 31.00% | ~5 |
-| Everyone Needs a Break | 31.00% | ~5 |
 | Job Creator | 31.00% | ~5 |
+| Socially Acceptable Insanity | 31.00% | ~5 |
 | A Real Headache | 25.00% | ~4 |
 | The Guardian | 25.00% | ~4 |
 | Blood Begets Blood | 25.00% | ~4 |
 | Endgame | 25.00% | ~4 |
 | The Philosopher | 25.00% | ~4 |
 | The Partner | 25.00% | ~4 |
-| Socially Acceptable Insanity | 25.00% | ~4 |
+| Social Butterfly | 25.00% | ~4 |
 | The Companion | 25.00% | ~4 |
 | The Counsellor | 25.00% | ~4 |
+| Zonk! | 25.00% | ~4 |
+| A Little Eccentric | 19.00% | ~3 |
 | A Total Riot | 19.00% | ~3 |
 | Full Coverage | 19.00% | ~3 |
 | Knock Knock | 19.00% | ~3 |
 | Quidnunc | 19.00% | ~3 |
-| Social Butterfly | 19.00% | ~3 |
 | That One Doesn't Count | 19.00% | ~3 |
 | They Flock to Him | 19.00% | ~3 |
-| Zonk! | 19.00% | ~3 |
-| A Little Eccentric | 13.00% | ~2 |
 | Leave It to the Professionals | 13.00% | ~2 |
 | Obligatory Fraudulent Baking | 13.00% | ~2 |
 | Overseer | 13.00% | ~2 |
+| Ring of Fire | 13.00% | ~2 |
 | The Provocateur | 13.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
 | Double Agent | 6.00% | ~1 |
-| Ring of Fire | 6.00% | ~1 |
 | Tastes Like Regret | 6.00% | ~1 |
 | The Spice of Life | 6.00% | ~1 |
 | What They Don't Know Can't Hurt Them | 6.00% | ~1 |

@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8942,
+  "EOS_Progressed": 8944,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -1978,6 +1978,11 @@
       "Time": "2023-05-09T20:06:45.637257+00:00",
       "NumProgressed": 8942,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-05-09T21:06:39.8362204+00:00",
+      "NumProgressed": 8944,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 20,
@@ -2005,7 +2010,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -2037,7 +2042,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -2053,7 +2058,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "FOUND_ERIN",
@@ -2101,7 +2106,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "INTRO_FINISHED",
@@ -2109,7 +2114,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6796
+      "UsersEstimate": 6797
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2148,15 +2153,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8942,
+      "Progressed": 8944,
       "Completed": 202
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-09T20:06:45.6372565+00:00",
+  "LastChanged_Achievements": "2023-05-09T21:06:39.83622+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-09T20:01:01.8639063+00:00",
-  "LastUpdate_Achievements": "2023-05-09T20:06:45.6372996+00:00"
+  "LastUpdate_Ratings": "2023-05-09T21:01:02.1509114+00:00",
+  "LastUpdate_Achievements": "2023-05-09T21:06:39.8362411+00:00"
 }

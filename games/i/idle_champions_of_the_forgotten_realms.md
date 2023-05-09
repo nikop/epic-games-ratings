@@ -44,6 +44,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~261 |
 | Underdeep Cartography | 0.30% | ~261 |
 | Pros and CONs | 0.20% | ~174 |
+| Upholding the Law | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~107 |
 | The Witchlight Carnival | 0.20% | ~107 |
 | Thieves of the Coven | 0.20% | ~107 |
@@ -129,7 +130,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.20% | ~174 |
 | The Haunted Jungle | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
-| Upholding the Law | 0.10% | ~87 |
 | Starving in the Jungle | 0.10% | ~87 |
 | Cold as Ice | 0.10% | ~53 |
 | Keep Your Friends Close | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,989 (Ranked 59)  
+Progressed: 86,990 (Ranked 59)  
 Completed: 1,819 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,819 (2.09%) (Ranked 59)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,989 | 1,819 |
+| 2023-05-09 | 86,990 | 1,819 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

@@ -766,10 +766,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 748,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-05-09T21:01:02.405609+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 749,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 748,
+  "NumberOfAwards": 749,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -795,7 +801,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -840,9 +846,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2757,
+  "EOS_Progressed": 2759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1780,6 +1786,11 @@
       "Time": "2023-05-09T19:07:42.9900241+00:00",
       "NumProgressed": 2757,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T21:06:44.976256+00:00",
+      "NumProgressed": 2759,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1847,7 +1858,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -1855,7 +1866,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -1879,7 +1890,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -1887,7 +1898,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -1895,7 +1906,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -1943,7 +1954,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -1951,7 +1962,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2152
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -1975,7 +1986,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -2047,7 +2058,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1380
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2079,7 +2090,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -2087,7 +2098,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -2110,15 +2121,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2757,
+      "Progressed": 2759,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-05-05T17:04:08.8018054+00:00",
-  "LastChanged_Achievements": "2023-05-09T20:06:50.877936+00:00",
+  "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
+  "LastChanged_Achievements": "2023-05-09T21:06:44.9762554+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-09T20:01:02.0654531+00:00",
-  "LastUpdate_Achievements": "2023-05-09T20:06:50.8779772+00:00"
+  "LastUpdate_Ratings": "2023-05-09T21:01:02.4056094+00:00",
+  "LastUpdate_Achievements": "2023-05-09T21:06:44.9762901+00:00"
 }

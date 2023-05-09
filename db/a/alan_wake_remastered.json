@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46091,
+  "EOS_Progressed": 46093,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1341,6 +1341,11 @@
       "Time": "2023-05-09T19:07:06.1860291+00:00",
       "NumProgressed": 46091,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-09T21:06:13.219126+00:00",
+      "NumProgressed": 46093,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1352,7 +1357,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8757
+      "UsersEstimate": 8758
     },
     {
       "ID": "02",
@@ -1400,7 +1405,7 @@
       "Name": "Heavy Metal",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "08",
@@ -1408,7 +1413,7 @@
       "Name": "Iron Horse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "09",
@@ -1440,7 +1445,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "13",
@@ -1456,7 +1461,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "15",
@@ -1464,7 +1469,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "16",
@@ -1520,7 +1525,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "23",
@@ -1536,7 +1541,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "25",
@@ -1552,7 +1557,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "27",
@@ -1560,7 +1565,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "28",
@@ -1568,7 +1573,7 @@
       "Name": "Come One, Come All",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "29",
@@ -1584,7 +1589,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "31",
@@ -1616,7 +1621,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "35",
@@ -1887,21 +1892,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46091,
+      "Progressed": 46093,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9559,
+      "Progressed": 9561,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-09T20:06:19.6302618+00:00",
+  "LastChanged_Achievements": "2023-05-09T21:06:13.2191253+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:58:57.5300128+00:00",
-  "LastUpdate_Achievements": "2023-05-09T20:06:19.6303708+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:58:51.2693382+00:00",
+  "LastUpdate_Achievements": "2023-05-09T21:06:13.2191996+00:00"
 }

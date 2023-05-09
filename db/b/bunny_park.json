@@ -4,7 +4,7 @@
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "BP-15",
       "SetID": "7fc93f2",
       "Name": "Helpful Bot-terfly",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "BP-16",
@@ -219,8 +219,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-05-09T20:06:11.1587635+00:00",
+  "LastChanged_Achievements": "2023-05-09T21:06:03.9439045+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:30.9661536+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:59:27.1922137+00:00",
-  "LastUpdate_Achievements": "2023-05-09T20:06:11.1587774+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:59:21.8756323+00:00",
+  "LastUpdate_Achievements": "2023-05-09T21:06:03.9439182+00:00"
 }

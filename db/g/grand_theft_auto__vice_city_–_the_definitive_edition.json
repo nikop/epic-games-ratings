@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -292,7 +292,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 6101,
+  "EOS_Progressed": 6102,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -1172,6 +1172,11 @@
       "Time": "2023-05-09T20:06:17.479651+00:00",
       "NumProgressed": 6101,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-09T21:06:10.8912953+00:00",
+      "NumProgressed": 6102,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1287,7 +1292,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "ACH15",
@@ -1343,7 +1348,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACH22",
@@ -1454,7 +1459,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6101,
+      "Progressed": 6102,
       "Completed": 20
     }
   ],
@@ -1462,8 +1467,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-09T12:49:19.9962975+00:00",
-  "LastChanged_Achievements": "2023-05-09T20:06:17.4796504+00:00",
+  "LastChanged_Achievements": "2023-05-09T21:06:10.8912947+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:59:29.7571579+00:00",
-  "LastUpdate_Achievements": "2023-05-09T20:06:17.4796851+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:59:24.4912174+00:00",
+  "LastUpdate_Achievements": "2023-05-09T21:06:10.8913235+00:00"
 }

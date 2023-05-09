@@ -10,10 +10,10 @@
 | Repair master | 56.00% | ~10 |
 | No one will hear you! | 44.00% | ~8 |
 | I am speed! | 39.00% | ~7 |
-| It's safe here! | 17.00% | ~3 |
+| It's safe here! | 22.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 301)  
-Completed: 1 (5.56%) (Ranked 27)  
+Completed: 2 (11.11%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -23,4 +23,4 @@ Completed: 1 (5.56%) (Ranked 27)
 | 2023-05-06 | 10 | 0 |
 | 2023-05-07 | 14 | 0 |
 | 2023-05-08 | 15 | 1 |
-| 2023-05-09 | 18 | 1 |
+| 2023-05-09 | 18 | 2 |

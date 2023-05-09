@@ -2,12 +2,12 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 749,
+  "Ranking_Rating": 748,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-09T20:06:40.2507031+00:00",
+  "LastChanged_Achievements": "2023-05-09T21:06:34.0785056+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.4486196+00:00",
-  "LastUpdate_Ratings": "2023-05-09T20:00:38.2903023+00:00",
-  "LastUpdate_Achievements": "2023-05-09T20:06:40.2507227+00:00"
+  "LastUpdate_Ratings": "2023-05-09T21:00:38.0427491+00:00",
+  "LastUpdate_Achievements": "2023-05-09T21:06:34.07852+00:00"
 }

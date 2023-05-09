@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -228,7 +228,7 @@
   "Tags": [],
   "EOS_Progressed": 4859,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -984,9 +984,9 @@
       "ID": "ACH14",
       "SetID": "552d41m",
       "Name": "Liberty City Minute",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 777
+      "UsersEstimate": 826
     },
     {
       "ID": "ACH15",
@@ -1121,8 +1121,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-09T02:58:56.7122228+00:00",
-  "LastChanged_Achievements": "2023-05-09T20:06:14.9228659+00:00",
+  "LastChanged_Achievements": "2023-05-09T21:06:08.2097555+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-09T19:59:12.8419144+00:00",
-  "LastUpdate_Achievements": "2023-05-09T20:06:14.922895+00:00"
+  "LastUpdate_Ratings": "2023-05-09T20:59:05.8013246+00:00",
+  "LastUpdate_Achievements": "2023-05-09T21:06:08.2097796+00:00"
 }

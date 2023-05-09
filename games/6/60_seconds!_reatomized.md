@@ -1,37 +1,37 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.63 (Ranked 325)  
+Rating: 4.63 (Ranked 324)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,651 |
-| I will survive! | 91.00% | ~3,612 |
-| All thumbs | 90.00% | ~3,572 |
-| Home, sweet home | 89.00% | ~3,532 |
-| Survivalist | 87.00% | ~3,453 |
-| One way ticket | 83.00% | ~3,294 |
-| Last man standing | 76.00% | ~3,016 |
-| Family guy | 75.00% | ~2,977 |
+| Prepper | 92.00% | ~3,652 |
+| I will survive! | 91.00% | ~3,613 |
+| All thumbs | 90.00% | ~3,573 |
+| Home, sweet home | 89.00% | ~3,533 |
+| Survivalist | 87.00% | ~3,454 |
+| One way ticket | 83.00% | ~3,295 |
+| Last man standing | 76.00% | ~3,017 |
+| Family guy | 75.00% | ~2,978 |
 | Out of the Bag | 72.00% | ~2,858 |
-| The Dark Side | 67.00% | ~2,659 |
+| The Dark Side | 67.00% | ~2,660 |
 | Duck and cover! | 62.00% | ~2,461 |
-| Souper! | 60.00% | ~2,381 |
-| Pacifist | 55.00% | ~2,183 |
+| Souper! | 60.00% | ~2,382 |
+| Pacifist | 55.00% | ~2,184 |
 | 2-1-6 | 53.00% | ~2,104 |
 | A gift | 49.00% | ~1,945 |
-| Girl Power | 44.00% | ~1,746 |
+| Girl Power | 44.00% | ~1,747 |
 | What goes around... | 40.00% | ~1,588 |
-| Be Prepared | 34.00% | ~1,349 |
+| Be Prepared | 34.00% | ~1,350 |
 | Unbreakable | 33.00% | ~1,310 |
-| Atomic drill | 31.00% | ~1,230 |
-| This is the end | 31.00% | ~1,230 |
+| Atomic drill | 31.00% | ~1,231 |
+| This is the end | 31.00% | ~1,231 |
 | Gotta get 'em all | 29.00% | ~1,151 |
 | Disco Roach | 26.00% | ~1,032 |
 | Dawkins Residence | 19.00% | ~754 |
 | Rescue time! | 16.00% | ~635 |
-| New order | 15.00% | ~595 |
-| New species | 15.00% | ~595 |
+| New order | 15.00% | ~596 |
+| New species | 15.00% | ~596 |
 | A New Hope | 14.00% | ~556 |
 | Enigma | 14.00% | ~556 |
 | Challenger | 11.00% | ~437 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 325)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,969 (Ranked 128)  
+Progressed: 3,970 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-06 | 3,955 | 0 |
 | 2023-05-07 | 3,960 | 0 |
 | 2023-05-08 | 3,963 | 0 |
-| 2023-05-09 | 3,969 | 0 |
+| 2023-05-09 | 3,970 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

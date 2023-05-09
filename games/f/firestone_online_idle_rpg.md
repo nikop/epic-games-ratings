@@ -5,9 +5,9 @@ Rating: 3.48 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~868 |
-| World Map | 79.00% | ~737 |
-| Temple of Eternals | 55.00% | ~513 |
+| Victor | 93.00% | ~869 |
+| World Map | 79.00% | ~738 |
+| Temple of Eternals | 55.00% | ~514 |
 | Prestigious | 51.00% | ~476 |
 | Fellowship Power | 39.00% | ~364 |
 | Guild Power | 23.00% | ~215 |
@@ -24,9 +24,9 @@ Rating: 3.48 (Ranked 917)
 | Dragon Master | 7.00% | ~65 |
 | The Unstoppable | 7.00% | ~65 |
 | Natural Talent | 6.00% | ~56 |
-| Daily Quest Completionist | 5.00% | ~47 |
 | Scientist | 5.00% | ~47 |
 | Superior | 5.00% | ~47 |
+| Daily Quest Completionist | 4.00% | ~37 |
 | Milestone collector | 4.00% | ~37 |
 | Background Story | 3.00% | ~28 |
 | Frostfire Liberator | 3.00% | ~28 |
@@ -41,6 +41,7 @@ Rating: 3.48 (Ranked 917)
 | Scroll Master | 2.00% | ~19 |
 | Active Member | 1.00% | ~9 |
 | Ancient Knowledge | 1.00% | ~9 |
+| Challenger | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
@@ -49,8 +50,7 @@ Rating: 3.48 (Ranked 917)
 | The father of Dragons | 1.00% | ~9 |
 | Trader | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
-| Challenger | 0.90% | ~8 |
-| Weekly Quest Completionist | 0.80% | ~7 |
+| Weekly Quest Completionist | 0.70% | ~7 |
 | Dragon Slayer | 0.60% | ~6 |
 | Enchanting skill | 0.50% | ~5 |
 | Engineer Mastery | 0.50% | ~5 |
@@ -81,7 +81,7 @@ Rating: 3.48 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933 (Ranked 164)  
+Progressed: 934 (Ranked 165)  
 Completed: 1 (0.11%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.11%) (Ranked 152)
 | 2023-05-06 | 881 | 1 |
 | 2023-05-07 | 903 | 1 |
 | 2023-05-08 | 916 | 1 |
-| 2023-05-09 | 933 | 1 |
+| 2023-05-09 | 934 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

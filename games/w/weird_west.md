@@ -12,7 +12,7 @@ Number of Ratings: 125  (23.09.2022)
 | Let’s Ride | 60.00% | ~901 |
 | Welcome to the Weird West | 58.00% | ~871 |
 | Dead or Alive | 56.00% | ~841 |
-| Full House | 36.00% | ~541 |
+| Full House | 37.00% | ~556 |
 | Off the Trail | 34.00% | ~511 |
 | Justice Served | 29.00% | ~436 |
 | Chain Reaction | 27.00% | ~406 |
@@ -52,7 +52,7 @@ Number of Ratings: 125  (23.09.2022)
 | Lord Inut Sends His Regards | 2.00% | ~30 |
 | 'Ma Barker | 1.00% | ~15 |
 | Hog Wild | 0.90% | ~14 |
-| I Kicked a Bird and I Liked it | 0.70% | ~11 |
+| I Kicked a Bird and I Liked it | 0.80% | ~12 |
 | Explorer | 0.50% | ~8 |
 | End the world | 0.50% | ~8 |
 | Moon Hunter | 0.40% | ~6 |
