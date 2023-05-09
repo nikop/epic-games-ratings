@@ -76,7 +76,7 @@ namespace EpicRatingsUpdater
                             if (!globalDb.KnownCustomAttributes[attr.key].KnownValues.ContainsKey(attr.value))
                             {
                                 globalDb.KnownCustomAttributes[attr.key].KnownValues[attr.key] = el.ns;
-                                Console.WriteLine($"::notice::New Atrribute {attr.key} in {el.ns} / {el.title}");
+                                Console.WriteLine($"::notice::New Atrribute '{attr.key}' (with value '{attr.value}') in {el.ns} / {el.title}");
                             }
                         }
                     }
