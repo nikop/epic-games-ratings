@@ -4,6 +4,7 @@ using EpicRatingsUpdater.Markdown;
 
 using System.Text.Json;
 using CliWrap;
+using CliWrap.Buffered;
 
 // Configs
 var gitCmd = Cli.Wrap("git");
@@ -162,8 +163,11 @@ foreach (var item in items)
     await File.WriteAllTextAsync(fullName, page);
 }
 
-await gitCmd.WithArguments(new[] { "add", "." }).ExecuteAsync();
-await gitCmd.WithArguments(new[] { "commit", "-m", "Update DB" }).ExecuteAsync();
+await gitCmd.WithArguments(new[] { "add", "." }).WithValidation(CommandResultValidation.None).ExecuteAsync();
+var res = await gitCmd.WithArguments(new[] { "commit", "-m", "Update DB" }).WithValidation(CommandResultValidation.None).ExecuteBufferedAsync();
+
+Console.Error.WriteLine(res.StandardError);
+Console.WriteLine(res.StandardOutput);
 
 string RawLink(GameDbItem item)
 {
@@ -332,5 +336,8 @@ await File.WriteAllTextAsync(
 );
 
 //
-await gitCmd.WithArguments(new[] { "add", "." }).ExecuteAsync();
-await gitCmd.WithArguments(new[] { "commit", "-m", "Generate Markdown Lists" }).ExecuteAsync();
+await gitCmd.WithArguments(new[] { "add", "." }).WithValidation(CommandResultValidation.None).ExecuteAsync();
+var mkRes = await gitCmd.WithArguments(new[] { "commit", "-m", "Generate Markdown Lists" }).WithValidation(CommandResultValidation.None).ExecuteBufferedAsync();
+
+Console.Error.WriteLine(mkRes.StandardError);
+Console.WriteLine(mkRes.StandardOutput);
