@@ -26,7 +26,7 @@
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 5.69% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 5.87% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -61,8 +61,8 @@
 | 59 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 60 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 60 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.96% |
+| 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
-| 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
