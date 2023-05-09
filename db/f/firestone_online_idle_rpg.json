@@ -9,6 +9,11 @@
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 71,
+  "Store": {
+    "ReleaseDate": "2023-04-25T09:30:00+00:00",
+    "PcReleaseDate": "2023-04-25T09:30:00+00:00",
+    "isBlockchainUsed": false
+  },
   "Rating": 3.4,
   "RatingHistory": [
     {
@@ -30,7 +35,7 @@
   "Tags": [],
   "EOS_Progressed": 930,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1331,9 +1336,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "conqueror",
@@ -1763,9 +1768,9 @@
       "ID": "thepowerofawakening",
       "SetID": "3nl4bcg",
       "Name": "The power of Awakening",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 28
     },
     {
       "ID": "theunstoppable",
@@ -1876,8 +1881,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:06:57.9679947+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:39:37.9518769+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-09T13:59:34.5905047+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:06:57.9680864+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:31:58.5158593+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:39:37.9519451+00:00"
 }

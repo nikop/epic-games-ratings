@@ -9,6 +9,11 @@
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
+  "Store": {
+    "ReleaseDate": "2021-02-16T17:00:00+00:00",
+    "PcReleaseDate": "2021-02-16T17:00:00+00:00",
+    "isBlockchainUsed": false
+  },
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3596,9 +3601,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86957,
+  "EOS_Progressed": 86961,
   "EOS_Completed": 1817,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5221,6 +5226,11 @@
       "Time": "2023-05-09T14:07:31.9125254+00:00",
       "NumProgressed": 86957,
       "NumCompleted": 1817
+    },
+    {
+      "Time": "2023-05-09T14:40:14.217055+00:00",
+      "NumProgressed": 86961,
+      "NumCompleted": 1817
     }
   ],
   "TotalAchievements": 489,
@@ -6070,9 +6080,9 @@
       "ID": "objective_completed_1194",
       "SetID": "415jc5c",
       "Name": "Kas the Bloody Handed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_1198",
@@ -6438,9 +6448,9 @@
       "ID": "objective_completed_166",
       "SetID": "cc37lbc",
       "Name": "Force Grey Unleashed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_167",
@@ -6478,9 +6488,9 @@
       "ID": "objective_completed_171",
       "SetID": "cc37lbc",
       "Name": "Sleuth It Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_172",
@@ -9143,21 +9153,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53231,
-      "Completed": 2483
+      "Progressed": 53235,
+      "Completed": 2484
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86957,
+      "Progressed": 86961,
       "Completed": 1817
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:07:31.912525+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:40:14.2170545+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-09T13:59:38.5019118+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:07:31.915346+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:32:02.5770237+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:40:14.2192628+00:00"
 }

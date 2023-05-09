@@ -6,41 +6,41 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~3,381 |
-| Sword Runner | 62.00% | ~2,687 |
-| Wallrunner | 58.00% | ~2,514 |
-| Running out of breath | 57.00% | ~2,470 |
-| Homerunner | 47.00% | ~2,037 |
-| Out of order | 47.00% | ~2,037 |
-| I call it luck | 46.00% | ~1,994 |
-| Where are my Keys? | 44.00% | ~1,907 |
-| Back to hell | 39.00% | ~1,690 |
-| Perfection | 34.00% | ~1,474 |
-| Sword to a gunfight | 32.00% | ~1,387 |
-| Why not both | 32.00% | ~1,387 |
-| Control freak | 30.00% | ~1,300 |
-| Running Wild | 30.00% | ~1,300 |
-| Upgrades not mandatory | 30.00% | ~1,300 |
-| Artificial selection | 29.00% | ~1,257 |
-| Finish line | 28.00% | ~1,214 |
-| Unstoppable force | 24.00% | ~1,040 |
-| Wave of mutilation | 23.00% | ~997 |
-| Can't Run Can't Hide | 20.00% | ~867 |
-| R is for Running | 19.00% | ~823 |
+| Longrunner | 78.00% | ~3,384 |
+| Sword Runner | 63.00% | ~2,733 |
+| Wallrunner | 58.00% | ~2,516 |
+| Running out of breath | 57.00% | ~2,473 |
+| Homerunner | 47.00% | ~2,039 |
+| Out of order | 47.00% | ~2,039 |
+| I call it luck | 46.00% | ~1,995 |
+| Where are my Keys? | 44.00% | ~1,909 |
+| Back to hell | 39.00% | ~1,692 |
+| Perfection | 34.00% | ~1,475 |
+| Sword to a gunfight | 32.00% | ~1,388 |
+| Why not both | 32.00% | ~1,388 |
+| Control freak | 30.00% | ~1,301 |
+| Running Wild | 30.00% | ~1,301 |
+| Upgrades not mandatory | 30.00% | ~1,301 |
+| Artificial selection | 29.00% | ~1,258 |
+| Finish line | 28.00% | ~1,215 |
+| Unstoppable force | 24.00% | ~1,041 |
+| Wave of mutilation | 23.00% | ~998 |
+| Can't Run Can't Hide | 20.00% | ~868 |
+| R is for Running | 19.00% | ~824 |
 | Dead in the air | 17.00% | ~737 |
-| Improvise, adapt, overrun | 15.00% | ~650 |
-| Pre-empative strike | 15.00% | ~650 |
+| Improvise, adapt, overrun | 15.00% | ~651 |
+| Pre-empative strike | 15.00% | ~651 |
 | More than human | 14.00% | ~607 |
-| Strike | 13.00% | ~563 |
-| Triple A | 10.00% | ~433 |
+| Strike | 13.00% | ~564 |
+| Triple A | 10.00% | ~434 |
 | Fine addition | 8.00% | ~347 |
-| One Of Those Days | 7.00% | ~303 |
+| One Of Those Days | 7.00% | ~304 |
 | About Adam | 5.00% | ~217 |
 | Push it to the limit | 5.00% | ~217 |
 | Where He Stood | 5.00% | ~217 |
-| Just A Man | 4.00% | ~173 |
-| Scrapped | 4.00% | ~173 |
-| Strafing Run | 4.00% | ~173 |
+| Just A Man | 4.00% | ~174 |
+| Scrapped | 4.00% | ~174 |
+| Strafing Run | 4.00% | ~174 |
 | Junkrunner | 3.00% | ~130 |
 | One man's trash | 3.00% | ~130 |
 | Hit me if you can | 2.00% | ~87 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~22 |
 | Up Close And Personal | 0.50% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,334 (Ranked 125)  
+Progressed: 4,338 (Ranked 125)  
 Completed: 21 (0.48%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 21 (0.48%) (Ranked 101)
 | 2023-05-06 | 4,083 | 20 |
 | 2023-05-07 | 4,199 | 21 |
 | 2023-05-08 | 4,272 | 21 |
-| 2023-05-09 | 4,334 | 21 |
+| 2023-05-09 | 4,338 | 21 |
 ## Awards
 Max (Great Boss Battles): 455  (Ranked 188)  
 Sum: 587 (Ranked 280)  

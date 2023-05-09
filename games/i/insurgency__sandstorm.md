@@ -8,9 +8,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~18,218 |
 | Wallbanger | 5.00% | ~18,218 |
-| Exploitative | 4.00% | ~14,574 |
-| High Speed Low Drag | 4.00% | ~14,574 |
-| Wet Feet | 4.00% | ~14,574 |
+| Exploitative | 4.00% | ~14,575 |
+| High Speed Low Drag | 4.00% | ~14,575 |
+| Wet Feet | 4.00% | ~14,575 |
 | Checkpoint Victory | 3.00% | ~10,931 |
 | Lucky | 3.00% | ~10,931 |
 | Stylin' | 3.00% | ~10,931 |
@@ -29,8 +29,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~3,279 |
 | Grounded | 0.80% | ~2,915 |
 | Play to Win | 0.80% | ~2,915 |
-| #1 | 0.70% | ~2,550 |
-| Special Delivery | 0.70% | ~2,550 |
+| #1 | 0.70% | ~2,551 |
+| Special Delivery | 0.70% | ~2,551 |
 | Firefight Victory | 0.60% | ~2,186 |
 | Cinematic | 0.50% | ~1,822 |
 | Thanks Station! | 0.40% | ~1,457 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~364 |
 | Road Hazard | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364,355 (Ranked 35)  
+Progressed: 364,364 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,10 +61,10 @@ Completed: 2 (0.00%) (Ranked 194)
 | 2023-05-06 | 362,895 | 2 |
 | 2023-05-07 | 363,579 | 2 |
 | 2023-05-08 | 364,064 | 2 |
-| 2023-05-09 | 364,355 | 2 |
+| 2023-05-09 | 364,364 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 350  (Ranked 209)  
-Sum: 2,623 (Ranked 163)  
+Sum: 2,624 (Ranked 163)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -74,7 +74,7 @@ Diff (max vs sum): 46
 | This game has Competitive Players | 306 |
 | This game has Amazing Storytelling | 282 |
 | This game has Realistic Visuals | 279 |
-| This game is Highly Recommended | 276 |
+| This game is Highly Recommended | 277 |
 | This game has Amazing Characters | 275 |
 | This game has a Competitive Community | 228 |
 | This game has Obsessive Gameplay | 156 |
@@ -200,3 +200,4 @@ Diff (max vs sum): 46
 | 2023-05-06 | 4.61 | - | 350 | 2,619 |
 | 2023-05-07 | 4.61 | - | 350 | 2,620 |
 | 2023-05-08 | 4.61 | - | 350 | 2,623 |
+| 2023-05-09 | 4.61 | - | 350 | 2,624 |

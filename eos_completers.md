@@ -19,12 +19,12 @@
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.10% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 22 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 24 | [Remains](games/r/remains.md) | 5.88% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.59% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.58% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -48,7 +48,7 @@
 | 46 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 47 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 48 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.76% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.75% |
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 51 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 52 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |

@@ -9,6 +9,11 @@
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 71,
+  "Store": {
+    "ReleaseDate": "2022-10-21T17:00:00+00:00",
+    "PcReleaseDate": "2022-10-21T17:00:00+00:00",
+    "isBlockchainUsed": false
+  },
   "Rating": 4.17,
   "RatingHistory": [
     {
@@ -1034,9 +1039,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60749,
+  "EOS_Progressed": 60750,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2124,6 +2129,11 @@
       "Time": "2023-05-09T13:41:37.1390666+00:00",
       "NumProgressed": 60749,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-09T14:40:02.3863714+00:00",
+      "NumProgressed": 60750,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2183,7 +2193,7 @@
       "Name": "The Batman Family",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -2223,7 +2233,7 @@
       "Name": "In Your Element",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "CHALLENGES_1",
@@ -2295,7 +2305,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -2311,7 +2321,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -2319,7 +2329,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -2351,7 +2361,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "FREEZE_1",
@@ -2591,7 +2601,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -2622,13 +2632,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60749,
+      "Progressed": 60750,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31029,
+      "Progressed": 31030,
       "Completed": 2633
     }
   ],
@@ -2636,8 +2646,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-09T10:00:51.8031935+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:07:20.9516221+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:40:02.386371+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:01:24.5084695+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:07:20.9516846+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:33:55.7048964+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:40:02.3864219+00:00"
 }

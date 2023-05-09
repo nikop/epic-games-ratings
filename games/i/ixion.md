@@ -21,13 +21,13 @@ Rating: 4.54 (Ranked 477)
 | Guy de Borderlands | 0.30% | ~6 |
 | Space Society | 0.30% | ~6 |
 | Sightseeing | 0.30% | ~6 |
+| Breaking Protocol | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | Hope Seeker | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
 | In Dolos We Trust | 0.20% | ~4 |
-| Breaking Protocol | 0.20% | ~4 |
 | Access Granted | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | All in Good Health | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,849 (Ranked 146)  
+Progressed: 1,850 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 1,838 | 0 |
 | 2023-05-07 | 1,841 | 0 |
 | 2023-05-08 | 1,844 | 0 |
-| 2023-05-09 | 1,849 | 0 |
+| 2023-05-09 | 1,850 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -32,13 +32,13 @@ Rating: 3.40 (Ranked 918)
 | Frostfire Liberator | 3.00% | ~28 |
 | Mastery | 3.00% | ~28 |
 | Mysterious Rock | 3.00% | ~28 |
+| The power of Awakening | 3.00% | ~28 |
 | Here We Go Again | 2.00% | ~19 |
 | Hunter | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
 | Scroll Master | 2.00% | ~19 |
 | The Expeditioner | 2.00% | ~19 |
-| The power of Awakening | 2.00% | ~19 |
 | Active Member | 1.00% | ~9 |
 | Ancient Knowledge | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
@@ -49,7 +49,7 @@ Rating: 3.40 (Ranked 918)
 | The father of Dragons | 1.00% | ~9 |
 | Trader | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
-| Challenger | 0.80% | ~7 |
+| Challenger | 0.90% | ~8 |
 | Weekly Quest Completionist | 0.80% | ~7 |
 | Dragon Slayer | 0.60% | ~6 |
 | Enchanting skill | 0.50% | ~5 |

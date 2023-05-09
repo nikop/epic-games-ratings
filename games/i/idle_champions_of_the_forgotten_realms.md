@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.20% | ~106 |
 | The Dread Domain of Tovag | 0.20% | ~106 |
 | The Castle of a Thousand Vecnas | 0.20% | ~106 |
+| Kas the Bloody Handed | 0.20% | ~106 |
 | Who Lurks Below? | 0.20% | ~106 |
 | Xanathaaaaaaar! | 0.20% | ~106 |
 | Homecoming | 0.20% | ~174 |
@@ -69,8 +70,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.20% | ~174 |
 | Low Initiative | 0.20% | ~174 |
 | Street War | 0.20% | ~174 |
+| Force Grey Unleashed | 0.20% | ~174 |
 | March of the Undead | 0.20% | ~174 |
 | Wisdom Check | 0.20% | ~174 |
+| Sleuth It Out | 0.20% | ~174 |
 | No Time To Rest | 0.20% | ~174 |
 | The Mists of Ravenloft | 0.20% | ~174 |
 | Invisible Shadows | 0.20% | ~174 |
@@ -202,7 +205,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.10% | ~53 |
 | Weak Doesn't Mean Feeble | 0.10% | ~53 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~53 |
-| Kas the Bloody Handed | 0.10% | ~53 |
 | Kas the Destroyer | 0.10% | ~53 |
 | Clowning Around | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
@@ -229,9 +231,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~87 |
 | Double Vision | 0.10% | ~87 |
 | Underground Railroad | 0.10% | ~87 |
-| Force Grey Unleashed | 0.10% | ~87 |
 | Vajra's Guards | 0.10% | ~87 |
-| Sleuth It Out | 0.10% | ~87 |
 | The Newcomers of Notoriety | 0.10% | ~53 |
 | A Grand Puzzle | 0.10% | ~87 |
 | Never Split the Party | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,957 (Ranked 59)  
+Progressed: 86,961 (Ranked 59)  
 Completed: 1,817 (2.09%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,817 (2.09%) (Ranked 57)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,957 | 1,817 |
+| 2023-05-09 | 86,961 | 1,817 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

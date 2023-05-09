@@ -30,13 +30,13 @@ Rating: 4.17 (Ranked 829)
 | Voiceless | 0.30% | ~182 |
 | Seeking Asylum | 0.30% | ~182 |
 | Gotham Knight | 0.30% | ~182 |
-| The Batman Family | 0.20% | ~121 |
-| In Your Element | 0.20% | ~121 |
-| Not On My Watch | 0.20% | ~121 |
-| Bulldozed | 0.20% | ~121 |
-| Out of Their League | 0.20% | ~121 |
-| Drone You Out | 0.20% | ~121 |
-| Gotham City Confidential | 0.20% | ~121 |
+| The Batman Family | 0.20% | ~122 |
+| In Your Element | 0.20% | ~122 |
+| Not On My Watch | 0.20% | ~122 |
+| Bulldozed | 0.20% | ~122 |
+| Out of Their League | 0.20% | ~122 |
+| Drone You Out | 0.20% | ~122 |
+| Gotham City Confidential | 0.20% | ~122 |
 | Hammer and Icicle | 0.10% | ~31 |
 | Element of Surprise | 0.10% | ~31 |
 | It's Nice to Be Wanted | 0.10% | ~31 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 829)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,749 (Ranked 66)  
+Progressed: 60,750 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 89 (0.15%) (Ranked 142)
 | 2023-05-06 | 60,674 | 89 |
 | 2023-05-07 | 60,715 | 89 |
 | 2023-05-08 | 60,740 | 89 |
-| 2023-05-09 | 60,749 | 89 |
+| 2023-05-09 | 60,750 | 89 |
 ## Awards
 Max (Great Boss Battles): 2,201  (Ranked 99)  
 Sum: 3,647 (Ranked 137)  

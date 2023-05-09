@@ -9,6 +9,11 @@
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 12,
+  "Store": {
+    "ReleaseDate": "2021-06-29T04:00:00+00:00",
+    "PcReleaseDate": "2021-06-29T04:00:00+00:00",
+    "isBlockchainUsed": false
+  },
   "Rating": 3.48,
   "RatingHistory": [
     {
@@ -34,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54966,
+  "EOS_Progressed": 54969,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1434,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1699,6 +1704,11 @@
       "Time": "2023-05-09T14:07:25.9091258+00:00",
       "NumProgressed": 54966,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2023-05-09T14:40:07.5203614+00:00",
+      "NumProgressed": 54969,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 25,
@@ -1726,7 +1736,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9344
+      "UsersEstimate": 9345
     },
     {
       "ID": "Audiophile",
@@ -1750,7 +1760,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9344
+      "UsersEstimate": 9345
     },
     {
       "ID": "Butcher",
@@ -1909,7 +1919,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 54966,
+      "Progressed": 54969,
       "Completed": 441
     }
   ],
@@ -1917,8 +1927,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-08T21:02:08.2864781+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:07:25.909125+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:40:07.520361+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:31.9453874+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:02:10.7482446+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:07:25.9091614+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:34:45.110112+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:40:07.5204056+00:00"
 }

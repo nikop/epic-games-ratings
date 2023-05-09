@@ -58,9 +58,9 @@ Number of Ratings: 524  (23.09.2022)
 | Words Will Never Harm You | 0.60% | ~57 |
 | Cardboard Companions | 0.60% | ~57 |
 | Fast and Furious | 0.50% | ~48 |
+| Creative Space | 0.50% | ~48 |
 | License Revoked | 0.40% | ~38 |
 | Whirlwind | 0.40% | ~38 |
-| Creative Space | 0.40% | ~38 |
 | Run-On Sentence | 0.30% | ~29 |
 | Tick Tock | 0.30% | ~29 |
 | Alan, Wake Up | 0.20% | ~92 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,085 (Ranked 74)  
+Progressed: 46,086 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 44 (0.10%) (Ranked 153)
 | 2023-05-06 | 46,035 | 44 |
 | 2023-05-07 | 46,058 | 44 |
 | 2023-05-08 | 46,074 | 44 |
-| 2023-05-09 | 46,085 | 44 |
+| 2023-05-09 | 46,086 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

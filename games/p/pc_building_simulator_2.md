@@ -6,32 +6,32 @@ Rating: 4.61 (Ranked 352)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bootstrapping | 75.00% | ~118,678 |
-| Shine On | 70.00% | ~110,766 |
+| Shine On | 70.00% | ~110,767 |
 | On the Job | 69.00% | ~109,184 |
-| Get Stuck In | 68.00% | ~107,601 |
-| Room for Expansion | 68.00% | ~107,601 |
-| Sales Pitch | 65.00% | ~102,854 |
-| Chill Out | 65.00% | ~102,854 |
+| Get Stuck In | 68.00% | ~107,602 |
+| Room for Expansion | 68.00% | ~107,602 |
+| Sales Pitch | 65.00% | ~102,855 |
+| Chill Out | 65.00% | ~102,855 |
 | Tinker | 61.00% | ~96,525 |
-| Grand Designs | 60.00% | ~94,942 |
+| Grand Designs | 60.00% | ~94,943 |
 | Hot Stuff | 59.00% | ~93,360 |
-| MOAR RGB | 54.00% | ~85,448 |
+| MOAR RGB | 54.00% | ~85,449 |
 | Dream Theme | 46.00% | ~72,789 |
 | The Customer is King | 45.00% | ~71,207 |
-| Working Hard | 44.00% | ~69,624 |
+| Working Hard | 44.00% | ~69,625 |
 | On the Bench | 42.00% | ~66,460 |
 | The More the Merrier | 42.00% | ~66,460 |
 | Mix and Match | 38.00% | ~60,130 |
 | Recycler | 38.00% | ~60,130 |
 | Foot in the Door | 37.00% | ~58,548 |
-| Very Imported PC | 36.00% | ~56,965 |
+| Very Imported PC | 36.00% | ~56,966 |
 | Full Throttle | 34.00% | ~53,801 |
 | Pimp My Rig | 32.00% | ~50,636 |
 | Repair Master | 32.00% | ~50,636 |
-| Local Hero | 28.00% | ~44,306 |
+| Local Hero | 28.00% | ~44,307 |
 | Broken to Smokin' | 26.00% | ~41,142 |
 | Workaholic | 26.00% | ~41,142 |
-| Thanks Jeff | 25.00% | ~39,559 |
+| Thanks Jeff | 25.00% | ~39,560 |
 | Cinematic | 24.00% | ~37,977 |
 | Bench Warmer | 24.00% | ~37,977 |
 | Gift of the Gab | 24.00% | ~37,977 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,237 (Ranked 52)  
+Progressed: 158,238 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 102 (0.06%) (Ranked 164)
 | 2023-05-06 | 158,209 | 102 |
 | 2023-05-07 | 158,219 | 102 |
 | 2023-05-08 | 158,229 | 102 |
-| 2023-05-09 | 158,237 | 102 |
+| 2023-05-09 | 158,238 | 102 |
 ## Awards
 Max (Great for Beginners): 599  (Ranked 164)  
 Sum: 4,532 (Ranked 127)  

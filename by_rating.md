@@ -300,7 +300,7 @@
 | 286 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 151 | 283 |
 | 286 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 48 | 392 |
 | 286 | [Old World](games/o/old_world.md) | 4.65 | 216 | 248 |
-| 286 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,869 | 104 |
+| 286 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,872 | 104 |
 | 286 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 383 |
 | 286 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 490 |
 | 286 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 48 | 392 |

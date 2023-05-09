@@ -22,13 +22,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 0.50% | ~74 |
 | Ancient Battleground | 0.50% | ~74 |
 | Sparkdew Crystals | 0.50% | ~74 |
+| Dangerous Lands | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |
 | Royal Outpost | 0.50% | ~74 |
 | Corrosive Torrent | 0.50% | ~74 |
 | Cursed Lands | 0.50% | ~74 |
 | Serving Ale | 0.40% | ~59 |
 | Refinery | 0.40% | ~59 |
-| Dangerous Lands | 0.40% | ~59 |
 | Haunted Forest | 0.40% | ~59 |
 | Levitating Monument | 0.40% | ~59 |
 | Flooded Mines | 0.40% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,726 (Ranked 98)  
+Progressed: 14,727 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 30 (0.20%) (Ranked 133)
 | 2023-05-06 | 14,678 | 30 |
 | 2023-05-07 | 14,702 | 30 |
 | 2023-05-08 | 14,720 | 30 |
-| 2023-05-09 | 14,726 | 30 |
+| 2023-05-09 | 14,727 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,017 (Ranked 150)  
