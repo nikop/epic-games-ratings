@@ -5,15 +5,15 @@ Rating: 4.66 (Ranked 270)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,620 |
-| Greasy Palms | 39.00% | ~2,376 |
-| South American Connection | 23.00% | ~1,401 |
+| Legal Counsel | 43.00% | ~2,621 |
+| Greasy Palms | 39.00% | ~2,377 |
+| South American Connection | 23.00% | ~1,402 |
 | Life of the Party | 17.00% | ~1,036 |
 | Big Heat from Little Havana | 13.00% | ~792 |
 | Tommy Two-Wheels | 13.00% | ~792 |
 | Chauffeur | 12.00% | ~731 |
-| Iron-y | 9.00% | ~548 |
-| Salutations My Little Friend | 9.00% | ~548 |
+| Iron-y | 9.00% | ~549 |
+| Salutations My Little Friend | 9.00% | ~549 |
 | Gun for Hire | 7.00% | ~427 |
 | Mischief Managed | 7.00% | ~427 |
 | Vice City Mogul | 6.00% | ~366 |
@@ -40,7 +40,7 @@ Rating: 4.66 (Ranked 270)
 | Keepie-Uppy Okie Dokie | 0.60% | ~37 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,093 (Ranked 115)  
+Progressed: 6,095 (Ranked 115)  
 Completed: 20 (0.33%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,14 +59,14 @@ Completed: 20 (0.33%) (Ranked 113)
 | 2023-05-06 | 6,063 | 20 |
 | 2023-05-07 | 6,082 | 20 |
 | 2023-05-08 | 6,092 | 20 |
-| 2023-05-09 | 6,093 | 20 |
+| 2023-05-09 | 6,095 | 20 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 443)  
-Sum: 30 (Ranked 457)  
-Diff (max vs sum): -14  
+Max (Great Boss Battles): 31  (Ranked 439)  
+Sum: 31 (Ranked 456)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 30 |
+| This game has Great Boss Battles | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -117,3 +117,4 @@ Diff (max vs sum): -14
 | 2023-04-29 | 4.68 | 28 | 28 |
 | 2023-05-03 | 4.66 | 28 | 28 |
 | 2023-05-07 | 4.66 | 30 | 30 |
+| 2023-05-09 | 4.66 | 31 | 31 |

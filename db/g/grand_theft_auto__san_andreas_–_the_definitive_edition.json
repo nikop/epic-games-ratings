@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Rating": 4.6,
   "RatingHistory": [
     {
@@ -274,7 +274,7 @@
   "Tags": [],
   "EOS_Progressed": 7564,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1182,9 +1182,9 @@
       "ID": "ACH03",
       "SetID": "4ck5mbe",
       "Name": "The End of the Line",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH04",
@@ -1455,8 +1455,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-09T11:07:26.5589648+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:57:04.3608016+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
-  "LastUpdate_Ratings": "2023-05-09T11:01:43.5822705+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:07:26.5589935+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:51:22.0177205+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:57:04.3608251+00:00"
 }

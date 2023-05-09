@@ -6,7 +6,7 @@
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
   "Rating": 4.06,
@@ -3596,7 +3596,7 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86944,
+  "EOS_Progressed": 86951,
   "EOS_Completed": 1817,
   "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 20,
@@ -5206,6 +5206,11 @@
       "Time": "2023-05-09T11:07:31.4972004+00:00",
       "NumProgressed": 86944,
       "NumCompleted": 1817
+    },
+    {
+      "Time": "2023-05-09T12:57:09.3105261+00:00",
+      "NumProgressed": 86951,
+      "NumCompleted": 1817
     }
   ],
   "TotalAchievements": 489,
@@ -5217,7 +5222,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_10",
@@ -5583,9 +5588,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 609
     },
     {
       "ID": "objective_completed_110",
@@ -7255,9 +7260,9 @@
       "ID": "objective_completed_423",
       "SetID": "cc37lbc",
       "Name": "Enter the Sargauth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_424",
@@ -7807,9 +7812,9 @@
       "ID": "objective_completed_605",
       "SetID": "cc37lbc",
       "Name": "Resolve Amongst Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_606",
@@ -7983,9 +7988,9 @@
       "ID": "objective_completed_630",
       "SetID": "415jc5c",
       "Name": "Into The Fire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_631",
@@ -8383,9 +8388,9 @@
       "ID": "objective_completed_72",
       "SetID": "cc37lbc",
       "Name": "The Long Haul",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_74",
@@ -8455,9 +8460,9 @@
       "ID": "objective_completed_803",
       "SetID": "415jc5c",
       "Name": "An Awakened Axe",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_completed_804",
@@ -9095,9 +9100,9 @@
       "ID": "objective_completed_95",
       "SetID": "cc37lbc",
       "Name": "The Haunted Jungle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_96",
@@ -9128,21 +9133,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53218,
+      "Progressed": 53225,
       "Completed": 2483
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86944,
+      "Progressed": 86951,
       "Completed": 1817
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-09T11:07:31.4972+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:57:09.3105256+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:59:27.8668676+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:07:31.4999577+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:49:06.1690534+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:57:09.3127082+00:00"
 }

@@ -9,7 +9,7 @@
 | You're the Expert! | 45.00% | ~30 |
 | French Flair | 42.00% | ~28 |
 | So Clean You Can Eat Off the Floor | 39.00% | ~26 |
-| S is for Scrumptious | 30.00% | ~20 |
+| S is for Scrumptious | 32.00% | ~21 |
 | Next Level Cuisine | 23.00% | ~15 |
 | Italian Style | 20.00% | ~13 |
 | Haute Cuisine | 18.00% | ~12 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 264)  
+Progressed: 66 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |

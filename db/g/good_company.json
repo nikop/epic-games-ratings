@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4722,
+  "EOS_Progressed": 4724,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -468,6 +468,11 @@
       "Time": "2023-05-08T19:07:42.2590043+00:00",
       "NumProgressed": 4722,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T12:56:48.0755419+00:00",
+      "NumProgressed": 4724,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -591,7 +596,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "ach_campaign_progress6",
@@ -631,7 +636,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ach_campaign_special10",
@@ -1047,7 +1052,7 @@
       "Name": "Tycoon",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_prof_success",
@@ -1086,15 +1091,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4722,
+      "Progressed": 4724,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-09T11:07:10.4110468+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:56:48.0755416+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.697112+00:00",
-  "LastUpdate_Ratings": "2023-05-09T11:00:27.5264354+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:07:10.4111304+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:50:06.7055102+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:56:48.0756162+00:00"
 }

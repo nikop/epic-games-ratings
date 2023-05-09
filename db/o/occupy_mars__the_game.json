@@ -18,8 +18,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "l546gc",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:54:10.0521545+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:47.9181646+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:58:49.4325731+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:04:22.8127106+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:48:28.3051305+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:54:10.0521573+00:00"
 }

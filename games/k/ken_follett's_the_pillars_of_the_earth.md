@@ -6,16 +6,16 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,168 |
-| Man of politics | 36.00% | ~4,430 |
+| Tattletale | 42.00% | ~5,169 |
+| Man of politics | 36.00% | ~4,431 |
 | Friends of sorts | 35.00% | ~4,307 |
 | Yet another secret | 35.00% | ~4,307 |
 | Let there be darkness | 34.00% | ~4,184 |
 | End of Book One | 31.00% | ~3,815 |
-| Wannabe knight | 25.00% | ~3,076 |
-| Garden of Eden | 25.00% | ~3,076 |
-| Full house | 25.00% | ~3,076 |
-| Help an old friend | 22.00% | ~2,707 |
+| Wannabe knight | 25.00% | ~3,077 |
+| Garden of Eden | 25.00% | ~3,077 |
+| Full house | 25.00% | ~3,077 |
+| Help an old friend | 22.00% | ~2,708 |
 | Two of us | 21.00% | ~2,584 |
 | Negotiation skills | 19.00% | ~2,338 |
 | Workers' union | 19.00% | ~2,338 |
@@ -28,14 +28,14 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 11.00% | ~1,354 |
 | Friar Tuck | 11.00% | ~1,354 |
 | First profit | 11.00% | ~1,354 |
-| Skilled merchant | 10.00% | ~1,230 |
-| Team player | 10.00% | ~1,230 |
-| Nothing but make-believe | 9.00% | ~1,107 |
-| Brother Marcus | 9.00% | ~1,107 |
-| The oath | 9.00% | ~1,107 |
-| The truth revealed | 9.00% | ~1,107 |
-| The End. | 9.00% | ~1,107 |
-| A cry for help | 8.00% | ~984 |
+| Skilled merchant | 10.00% | ~1,231 |
+| Team player | 10.00% | ~1,231 |
+| Nothing but make-believe | 9.00% | ~1,108 |
+| Brother Marcus | 9.00% | ~1,108 |
+| The oath | 9.00% | ~1,108 |
+| The truth revealed | 9.00% | ~1,108 |
+| The End. | 9.00% | ~1,108 |
+| A cry for help | 7.00% | ~861 |
 | Silentium est aureum | 7.00% | ~861 |
 | Rebel without a cause | 6.00% | ~738 |
 | Staring contest champion | 5.00% | ~615 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~369 |
 | Boy of mystery | 2.00% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,305 (Ranked 102)  
+Progressed: 12,307 (Ranked 102)  
 Completed: 93 (0.76%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 93 (0.76%) (Ranked 91)
 | 2023-05-06 | 12,226 | 92 |
 | 2023-05-07 | 12,267 | 93 |
 | 2023-05-08 | 12,293 | 93 |
-| 2023-05-09 | 12,305 | 93 |
+| 2023-05-09 | 12,307 | 93 |
 ## Awards
 Max (Easy Puzzles): 147  (Ranked 285)  
 Sum: 186 (Ranked 354)  

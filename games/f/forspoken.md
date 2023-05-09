@@ -5,7 +5,7 @@ Rating: 4.12 (Ranked 852)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 9.00% | ~3,398 |
+| Attachments | 9.00% | ~3,399 |
 | Unlocked Potential | 8.00% | ~3,021 |
 | Tinkerer | 7.00% | ~2,643 |
 | Leapfrogger | 6.00% | ~2,266 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 852)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,759 (Ranked 79)  
+Progressed: 37,762 (Ranked 79)  
 Completed: 1 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 1 (0.00%) (Ranked 194)
 | 2023-05-06 | 37,643 | 1 |
 | 2023-05-07 | 37,697 | 1 |
 | 2023-05-08 | 37,740 | 1 |
-| 2023-05-09 | 37,759 | 1 |
+| 2023-05-09 | 37,762 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -27,11 +27,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "cdg65ol",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-07-22T20:28:53.4377966+00:00",
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
+  "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:54:44.2276976+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:26.0021016+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:59:34.0439391+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:05:06.829472+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:49:12.350279+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:54:44.2277002+00:00"
 }

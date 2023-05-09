@@ -6,7 +6,7 @@ Rating: 4.74 (Ranked 141)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under a New Sun | 93.00% | ~9,509 |
-| Newcomers | 78.00% | ~7,976 |
+| Newcomers | 79.00% | ~8,078 |
 | A Burden of Blood | 73.00% | ~7,464 |
 | Protector's Duty | 70.00% | ~7,158 |
 | Alchemist | 68.00% | ~6,953 |

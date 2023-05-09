@@ -20,7 +20,7 @@
 | Lock, Stock, And Barrel | 49.00% | ~71 |
 | Gaze Into The Abyss | 49.00% | ~71 |
 | No Man Is An Island | 49.00% | ~71 |
-| At Wits' End | 45.00% | ~65 |
+| At Wits' End | 46.00% | ~66 |
 | Bookworm | 44.00% | ~63 |
 | Going Once... | 40.00% | ~58 |
 | Brain Food | 40.00% | ~58 |
@@ -29,8 +29,8 @@
 | Let Me Be Frank | 37.00% | ~53 |
 | No Stone Unturned | 35.00% | ~50 |
 | Curiosity Killed The Cat | 25.00% | ~36 |
-| Read It And Weep | 23.00% | ~33 |
-| Big Breakthrough | 22.00% | ~32 |
+| Read It And Weep | 24.00% | ~35 |
+| Big Breakthrough | 23.00% | ~33 |
 | Reawakened | 11.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 144 (Ranked 240)  

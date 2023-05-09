@@ -2298,9 +2298,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8720,
+  "EOS_Progressed": 8723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3138,6 +3138,11 @@
       "Time": "2023-05-09T10:06:36.4902807+00:00",
       "NumProgressed": 8720,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T12:56:44.1226659+00:00",
+      "NumProgressed": 8723,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3149,7 +3154,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "02_BurningCity",
@@ -3165,7 +3170,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "04_FithCrusade",
@@ -3213,7 +3218,7 @@
       "Name": "Path of the Demon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "10_PathOfAzata",
@@ -3229,7 +3234,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "12_PathOfTrickster",
@@ -3285,7 +3290,7 @@
       "Name": "Mythic Choices",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "19_EqualToAroden",
@@ -3397,7 +3402,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -3549,7 +3554,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -4076,21 +4081,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7502,
+      "Progressed": 7505,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8720,
+      "Progressed": 8723,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-09T10:59:43.5947196+00:00",
-  "LastChanged_Achievements": "2023-05-09T11:07:06.5517692+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:56:44.1226656+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:59:43.5947204+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:07:06.5519438+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:49:21.9210091+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:56:44.1227972+00:00"
 }

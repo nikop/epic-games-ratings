@@ -7,13 +7,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Checkmate | 2.00% | ~1,064 |
-| A Brief Tour of the Realms | 1.00% | ~869 |
+| A Brief Tour of the Realms | 1.00% | ~870 |
 | Vecna Out! | 1.00% | ~532 |
 | Pin and Skewer | 0.90% | ~479 |
 | Bully for Vecna | 0.80% | ~426 |
 | The Cursed Farmer | 0.80% | ~696 |
+| Beast Intentions | 0.70% | ~609 |
 | The Mad Wizard | 0.70% | ~609 |
-| Beast Intentions | 0.60% | ~522 |
 | Were-verpowered | 0.50% | ~435 |
 | The Ring of Regeneration | 0.50% | ~435 |
 | A Persistent Buzzing | 0.40% | ~348 |
@@ -89,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~174 |
 | Premature Betrayal | 0.20% | ~174 |
 | Hopelessly Lost | 0.20% | ~174 |
+| Enter the Sargauth | 0.20% | ~174 |
 | A Tale of Two Cities | 0.20% | ~174 |
 | The Dead Three | 0.20% | ~174 |
 | Slow and Steady | 0.20% | ~174 |
@@ -97,6 +98,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
+| Resolve Amongst Chaos | 0.20% | ~174 |
+| Into The Fire | 0.20% | ~106 |
 | Hearts Aflame | 0.20% | ~106 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
@@ -104,16 +107,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.20% | ~106 |
 | Close Escort | 0.20% | ~174 |
 | Constant Banditry | 0.20% | ~174 |
+| The Long Haul | 0.20% | ~174 |
 | Lost in the Deep | 0.20% | ~174 |
 | Easily Distracted | 0.20% | ~174 |
 | Rude Welcome | 0.20% | ~174 |
 | Overdue Rendezvous | 0.20% | ~174 |
 | Moose Tracks | 0.20% | ~106 |
+| An Awakened Axe | 0.20% | ~106 |
 | Civilization | 0.20% | ~106 |
 | Durable Deep | 0.20% | ~174 |
 | Witty Riposting | 0.20% | ~106 |
 | How Far Away is Thay | 0.20% | ~106 |
 | The Templar's Camp | 0.20% | ~174 |
+| The Haunted Jungle | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
 | Upholding the Law | 0.10% | ~87 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -297,7 +303,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.10% | ~87 |
 | Flame(skull) War | 0.10% | ~87 |
 | Servants of the Demon Prince | 0.10% | ~53 |
-| Enter the Sargauth | 0.10% | ~87 |
 | Elder Rune Madness | 0.10% | ~87 |
 | The Madness Grows | 0.10% | ~87 |
 | The Madness Peaks | 0.10% | ~53 |
@@ -354,7 +359,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Everything is Awful | 0.10% | ~87 |
 | Earthquake! | 0.10% | ~53 |
 | Hailstorm! | 0.10% | ~53 |
-| Resolve Amongst Chaos | 0.10% | ~87 |
 | All You Know Is Wrong | 0.10% | ~87 |
 | Shadow Stalkers | 0.10% | ~53 |
 | Avernus Frozen Over | 0.10% | ~53 |
@@ -376,7 +380,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wait, What? | 0.10% | ~53 |
 | Ireena von Zarovich | 0.10% | ~53 |
 | Déjà Vu All Over Again | 0.10% | ~53 |
-| Into The Fire | 0.10% | ~53 |
 | A Difficult Descent | 0.10% | ~53 |
 | The Devil Arrives | 0.10% | ~53 |
 | Dreamscape | 0.10% | ~53 |
@@ -417,8 +420,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~53 |
 | Mirage Arcane | 0.10% | ~53 |
 | Only Human | 0.10% | ~53 |
-| The Long Haul | 0.10% | ~87 |
-| An Awakened Axe | 0.10% | ~53 |
 | CONtagious Cold | 0.10% | ~53 |
 | Ten in Ten-Towns | 0.10% | ~53 |
 | Trench Coat Run | 0.10% | ~53 |
@@ -492,12 +493,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~53 |
 | Ineffectual Intellectuals | 0.10% | ~53 |
 | The Archaeologist and the Sailor | 0.10% | ~53 |
-| The Haunted Jungle | 0.10% | ~87 |
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,944 (Ranked 59)  
-Completed: 1,817 (2.09%) (Ranked 58)  
+Progressed: 86,951 (Ranked 59)  
+Completed: 1,817 (2.09%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -515,7 +515,7 @@ Completed: 1,817 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,944 | 1,817 |
+| 2023-05-09 | 86,951 | 1,817 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

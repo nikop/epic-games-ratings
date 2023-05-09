@@ -9,11 +9,11 @@ Rating: 4.45 (Ranked 601)
 | Confirming Suspicions | 31.00% | ~215 |
 | The Kraken Wakes | 29.00% | ~201 |
 | It's Starting to Crack | 28.00% | ~194 |
-| Change the Channel | 25.00% | ~173 |
-| Lord of War | 24.00% | ~166 |
-| Resourceful | 23.00% | ~159 |
-| Taking it back | 23.00% | ~159 |
-| Organ Grinder | 22.00% | ~152 |
+| Change the Channel | 25.00% | ~174 |
+| Lord of War | 24.00% | ~167 |
+| Resourceful | 23.00% | ~160 |
+| Taking it back | 23.00% | ~160 |
+| Organ Grinder | 21.00% | ~146 |
 | Sharpshooter | 21.00% | ~146 |
 | Target America | 21.00% | ~146 |
 | As Quiet as a Mouse | 19.00% | ~132 |
@@ -36,8 +36,8 @@ Rating: 4.45 (Ranked 601)
 | Enemy at the Gates | 11.00% | ~76 |
 | My Little Friend | 9.00% | ~62 |
 | Herr Today, Gone Tomorrow | 9.00% | ~58 |
-| Precision Is Key | 8.00% | ~55 |
-| Rigged to Blow | 8.00% | ~55 |
+| Precision Is Key | 8.00% | ~56 |
+| Rigged to Blow | 8.00% | ~56 |
 | Operation Foxley | 8.00% | ~52 |
 | Last Resort | 7.00% | ~45 |
 | Ghost of Falaise | 6.00% | ~39 |
@@ -74,7 +74,7 @@ Rating: 4.45 (Ranked 601)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693 (Ranked 176)  
+Progressed: 694 (Ranked 176)  
 Completed: 2 (0.29%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 2 (0.29%) (Ranked 122)
 | 2023-05-06 | 685 | 2 |
 | 2023-05-07 | 688 | 2 |
 | 2023-05-08 | 691 | 2 |
-| 2023-05-09 | 693 | 2 |
+| 2023-05-09 | 694 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

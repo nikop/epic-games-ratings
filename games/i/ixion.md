@@ -11,6 +11,7 @@ Rating: 4.54 (Ranked 477)
 | Sputnik 2049 | 0.40% | ~7 |
 | A Thousand Strong | 0.40% | ~7 |
 | Exceeding Capacity | 0.40% | ~7 |
+| Power Outage | 0.40% | ~7 |
 | Fully Recycled | 0.40% | ~7 |
 | Ready for a New World | 0.40% | ~7 |
 | Permanent Redesigns | 0.40% | ~7 |
@@ -19,10 +20,10 @@ Rating: 4.54 (Ranked 477)
 | Infinite Growth... | 0.30% | ~6 |
 | Guy de Borderlands | 0.30% | ~6 |
 | Space Society | 0.30% | ~6 |
-| Power Outage | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | Hope Seeker | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
+| What They Hide From Us | 0.20% | ~4 |
 | Sightseeing | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
 | In Dolos We Trust | 0.20% | ~4 |
@@ -37,7 +38,6 @@ Rating: 4.54 (Ranked 477)
 | Man's Best Friend | 0.10% | ~2 |
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
-| What They Hide From Us | 0.10% | ~2 |
 | ...  in a finite world | 0.10% | ~2 |
 | Sustainable Energy | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,847 (Ranked 146)  
+Progressed: 1,849 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 1,838 | 0 |
 | 2023-05-07 | 1,841 | 0 |
 | 2023-05-08 | 1,844 | 0 |
-| 2023-05-09 | 1,847 | 0 |
+| 2023-05-09 | 1,849 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

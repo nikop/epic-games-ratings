@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 19,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:39.5601593+00:00",
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1188,
+  "EOS_Progressed": 1189,
   "EOS_Completed": 91,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.66,
+  "EOS_Completed_Percentage": 7.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -793,6 +793,11 @@
       "Time": "2023-05-09T10:06:40.3871187+00:00",
       "NumProgressed": 1188,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-09T12:56:48.5278195+00:00",
+      "NumProgressed": 1189,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 12,
@@ -804,7 +809,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Bernard",
@@ -844,7 +849,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Jude",
@@ -899,7 +904,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1188,
+      "Progressed": 1189,
       "Completed": 91
     }
   ],
@@ -907,8 +912,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-09T11:07:10.9930352+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:56:48.5278193+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-09T11:01:04.0655964+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:07:10.9930575+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:50:42.9423828+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:56:48.5278293+00:00"
 }

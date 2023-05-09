@@ -4,7 +4,7 @@
   "ProductSlug": "submerged-hidden-depths-6065a1",
   "Ranking_Rating": 783,
   "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
@@ -686,10 +686,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 321,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-05-09T12:51:08.8786201+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 321,
+  "NumberOfAwards": 322,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -697,7 +703,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
@@ -760,8 +766,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:35.8919962+00:00",
   "FirstSeenRating": "2022-09-02T17:02:43.442034+00:00",
-  "LastChanged": "2023-04-13T23:58:03.6064262+00:00",
+  "LastChanged": "2023-05-09T12:51:08.8786199+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:07.2062281+00:00",
-  "LastUpdate_Ratings": "2023-05-09T11:01:29.7166398+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:06:03.5366305+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:51:08.8786206+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:55:41.3748637+00:00"
 }

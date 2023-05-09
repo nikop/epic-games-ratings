@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of purity | 79.00% | ~52 |
-| A good start | 56.00% | ~37 |
-| Witch's duty | 53.00% | ~35 |
-| Runes collector | 50.00% | ~33 |
+| Path of purity | 79.00% | ~53 |
+| A good start | 57.00% | ~38 |
+| Witch's duty | 54.00% | ~36 |
+| Runes collector | 51.00% | ~34 |
 | First time, yes? | 48.00% | ~32 |
 | Kind heart | 45.00% | ~30 |
-| Skilled rider | 41.00% | ~27 |
+| Skilled rider | 42.00% | ~28 |
 | Devil's dozen | 27.00% | ~18 |
 | It doesn't work like that | 18.00% | ~12 |
-| A small victory | 17.00% | ~11 |
+| A small victory | 16.00% | ~11 |
 | This is just the beginning... | 12.00% | ~8 |
-| Time is on my side | 11.00% | ~7 |
-| Unstoppable Curiosity | 11.00% | ~7 |
+| Time is on my side | 10.00% | ~7 |
+| Unstoppable Curiosity | 10.00% | ~7 |
 | Gold Digger | 6.00% | ~4 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 264)  
+Progressed: 67 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,7 +35,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-04 | 62 | 0 |
 | 2023-05-05 | 63 | 0 |
 | 2023-05-06 | 65 | 0 |
-| 2023-05-09 | 66 | 0 |
+| 2023-05-09 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

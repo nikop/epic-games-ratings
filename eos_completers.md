@@ -16,7 +16,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.66% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.10% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
@@ -24,7 +24,7 @@
 | 22 | [Remains](games/r/remains.md) | 6.67% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.65% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.61% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -55,9 +55,9 @@
 | 53 | [JARS](games/j/jars.md) | 2.56% |
 | 54 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 55 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 56 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
-| 57 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.17% |
-| 58 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
+| 56 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 57 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
+| 58 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.08% |
 | 59 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 60 | [Sifu](games/s/sifu.md) | 1.81% |
 | 61 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
@@ -107,10 +107,10 @@
 | 105 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 106 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 107 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
-| 107 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.37% |
 | 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 107 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 111 | [Tchia](games/t/tchia.md) | 0.36% |
+| 110 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 110 | [Tchia](games/t/tchia.md) | 0.36% |
 | 112 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 113 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 113 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
@@ -389,4 +389,4 @@
 | 194 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 194 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 194 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,573 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,574 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -33,7 +33,7 @@ Rating: 4.18 (Ranked 823)
 | Giving Back | 1.00% | ~126 |
 | You Belong Here | 1.00% | ~5 |
 | Grim Reaper | 0.60% | ~75 |
-| Armed to the Teeth | 0.30% | ~1 |
+| Armed to the Teeth | 0.40% | ~2 |
 | The Protocol is About Life | 0.20% | ~25 |
 | Recidivist | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |

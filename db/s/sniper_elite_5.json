@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.45,
   "RatingHistory": [
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 693,
+  "EOS_Progressed": 694,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -367,6 +367,11 @@
       "Time": "2023-05-09T03:06:17.6379865+00:00",
       "NumProgressed": 693,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-09T12:56:20.1377887+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -440,9 +445,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 146
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -538,7 +543,7 @@
       "Name": "Precision Is Key",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -562,7 +567,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -586,7 +591,7 @@
       "Name": "Lord of War",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -602,7 +607,7 @@
       "Name": "Resourceful",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -714,7 +719,7 @@
       "Name": "Change the Channel",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -746,7 +751,7 @@
       "Name": "Taking it back",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -921,13 +926,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 2
     }
   ],
@@ -935,8 +940,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-09T11:02:02.8384624+00:00",
-  "LastChanged_Achievements": "2023-05-09T11:06:42.4412793+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:56:20.1377883+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-09T11:02:02.8384634+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:06:42.4413508+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:51:40.2505574+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:56:20.1378451+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 54,
   "RatingHistory": [
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 48,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -218,6 +218,11 @@
       "Time": "2023-05-09T07:08:18.9056757+00:00",
       "NumProgressed": 46,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T12:56:54.4606587+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -227,7 +232,7 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -235,7 +240,7 @@
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -299,15 +304,15 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "easy_victory",
       "SetID": "jig50d",
       "Name": "Easy Victory",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -315,15 +320,15 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "i_prefer_fusion_jazz",
       "SetID": "jig50d",
       "Name": "I Prefer Jazz Fusion",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -355,7 +360,7 @@
       "ID": "master_destructor",
       "SetID": "jig50d",
       "Name": "Master Destructor",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -395,7 +400,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 72,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -476,7 +481,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 48,
       "Completed": 1
     }
   ],
@@ -484,8 +489,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-09T11:07:17.0378772+00:00",
+  "LastChanged_Achievements": "2023-05-09T12:56:54.4606585+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-09T11:01:26.7901237+00:00",
-  "LastUpdate_Achievements": "2023-05-09T11:07:17.0379011+00:00"
+  "LastUpdate_Ratings": "2023-05-09T12:51:05.8777665+00:00",
+  "LastUpdate_Achievements": "2023-05-09T12:56:54.4606763+00:00"
 }
