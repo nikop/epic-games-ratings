@@ -21,8 +21,25 @@ skipAchievementsUpdate = true;
 #endif
 
 var ratingsCutOffNew = DateTimeOffset.UtcNow.AddDays(-30);
+var now = DateTimeOffset.UtcNow;
 var dirDb = Path.Combine(path, "db");
 var dirGames = Path.Combine(path, "games");
+
+var globalDb = new GlobalDb();
+
+var globalDbFile = Path.Combine(dirDb, "global.json");
+
+if (File.Exists(globalDbFile))
+{
+    var text = await File.ReadAllTextAsync(globalDbFile);
+
+    var data = JsonSerializer.Deserialize<GlobalDb>(text);
+
+    if (data != null)
+    {
+        globalDb = data;
+    }
+}
 
 var gameIndex = new GameDb(dirDb);
 
@@ -30,7 +47,7 @@ var gameIndex = new GameDb(dirDb);
 if (!skipCatalog)
 {
     var action = new UpdateCatalog();
-    await action.Run(gameIndex);
+    await action.Run(globalDb, gameIndex);
 }
 
 var items = await gameIndex.GetAllItems().ConfigureAwait(false);
@@ -39,7 +56,7 @@ var items = await gameIndex.GetAllItems().ConfigureAwait(false);
 if (!skipAppInfo)
 {
     var action = new UpdateAppInfo();
-    await action.Run(items);
+    await action.Run(globalDb, items);
 }
 
 // Fetch ratings
@@ -114,6 +131,19 @@ foreach (var file in Directory.GetFiles("experimental", "*.md", SearchOption.All
     File.Delete(file);
 }
 
+try
+{
+    var f = JsonSerializer.Serialize(globalDb, new JsonSerializerOptions
+    {
+        WriteIndented = true,
+    });
+
+    await File.WriteAllTextAsync(globalDbFile, f);
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex);
+}
 
 foreach (var item in items)
 {
@@ -145,6 +175,11 @@ var nameTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating))
     .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwardsMax))
     .AddColumn("Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Popularity));
+
+var nameDateTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Release Date", x => x.Store.ReleaseDate?.ToString() ?? "")
+    .AddColumn("PC Release Date", x => x.Store.PcReleaseDate?.ToString() ?? "");
 
 var ratingTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating))
@@ -201,11 +236,27 @@ await File.WriteAllTextAsync(
     Path.Combine(path, "by_awards_sum.md"),
     awardsSumTable.FormatTable(items.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name))
 );
+
+// Release Date
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),
-    nameTable.FormatTable(items.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name))
+    nameDateTable.FormatTable(
+        items
+            .Where(x => x.Store.ReleaseDate != null && ratingsCutOffNew < x.Store.ReleaseDate && x.Store.ReleaseDate <= now)
+            .OrderByDescending(x => x.Store.ReleaseDate).ThenBy(x => x.Name)
+    )
+);
+await File.WriteAllTextAsync(
+    Path.Combine(path, "upcoming_games.md"),
+    nameDateTable.FormatTable(
+        items
+            .Where(x => x.Store.ReleaseDate != null && ratingsCutOffNew < x.Store.ReleaseDate && x.Store.ReleaseDate > now)
+            .OrderBy(x => x.Store.ReleaseDate)
+            .ThenBy(x => x.Name)
+    )
 );
 
+// EOS
 await File.WriteAllTextAsync(
     Path.Combine(path, "eos_achievers.md"),
     eosTable.FormatTable(items.Where(x => x.EOS_Progressed > 0).OrderByDescending(x => x.EOS_Progressed).ThenBy(x => x.Name))

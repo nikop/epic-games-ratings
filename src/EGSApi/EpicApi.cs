@@ -100,6 +100,7 @@ namespace EpicRatingsUpdater.EGSApi
         releaseDate
         pcReleaseDate
         viewableDate
+        lastModifiedDate
         approximateReleasePlan {
           day
           month

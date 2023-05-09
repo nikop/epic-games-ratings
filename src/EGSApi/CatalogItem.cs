@@ -2,6 +2,13 @@
 
 namespace EpicRatingsUpdater.EGSApi
 {
+    public class CatalogItemAttrib
+    {
+        public string key { get; set; } = null!;
+
+        public string value {  get; set; } = null!;
+    }
+
     public class CatalogItem
     {
         public string? title { get; set; }
@@ -14,6 +21,20 @@ namespace EpicRatingsUpdater.EGSApi
         public EpicCatalogNs catalogNs { get; set; } = new();
 
         public List<EpicOfferCategory> categories { get; set; } = new();
+
+        public DateTimeOffset? lastModifiedDate { get; set; }
+
+        public DateTimeOffset? releaseDate { get; set; }
+
+        public DateTimeOffset? pcReleaseDate { get; set; }
+
+        public CatalogItemPrice price { get; set; } = new CatalogItemPrice();
+
+        public string? developerDisplayName { get; set; }
+
+        public string? publisherDisplayName { get; set; }
+
+        public List<CatalogItemAttrib> customAttributes { get; set; } = new();
 
         /*elements {
         description
@@ -38,45 +59,11 @@ namespace EpicRatingsUpdater.EGSApi
           id
           namespace
         }
-        customAttributes {
-          key
-          value
-        }
         offerMappings {
           pageSlug
           pageType
         }
-        developerDisplayName
-        publisherDisplayName
-        price(country: $country) {
-          totalPrice {
-            discountPrice
-            originalPrice
-            voucherDiscount
-            discount
-            currencyCode
-            currencyInfo {
-              decimals
-            }
-            fmtPrice(locale: $locale) {
-              originalPrice
-              discountPrice
-              intermediatePrice
-            }
-          }
-          lineOffers {
-            appliedRules {
-              id
-              endDate
-              discountSetting {
-                discountType
-              }
-            }
-          }
-        }
         prePurchase
-        releaseDate
-        pcReleaseDate
         viewableDate
         approximateReleasePlan {
           day

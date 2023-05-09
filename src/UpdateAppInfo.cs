@@ -13,7 +13,7 @@ namespace EpicRatingsUpdater
         {
         }
 
-        public async Task Run(List<GameDbItem> items)
+        public async Task Run(GlobalDb globalDb, List<GameDbItem> items)
         {
             Console.WriteLine("::group::Product Pages Update");
 

@@ -39,6 +39,9 @@ namespace EpicRatingsUpdater.GameDatabase
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public int? Ranking_EOS_NewCompleters { get; set; }
 
+        [JsonPropertyOrder(9)]
+        public EpicStoreInfo Store { get; set; } = new EpicStoreInfo();
+
         [JsonPropertyOrder(20)]
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public double? Rating { get; set; }

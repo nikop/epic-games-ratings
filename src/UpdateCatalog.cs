@@ -5,13 +5,15 @@ namespace EpicRatingsUpdater
 {
     internal class UpdateCatalog
     {
-        public async Task Run(GameDb db)
+        public async Task Run(GlobalDb globalDb, GameDb db)
         {
             var i = 0;
             var total = 1;
             var pageSize = 1000;
 
             Console.WriteLine("::group::Catalog Update");
+
+            var catalogDate = globalDb.CatalogLastModifiedDate;
 
             while (i < total)
             {
@@ -33,6 +35,12 @@ namespace EpicRatingsUpdater
                         Console.WriteLine($"::notice::New Namespace {el.ns} / {el.title}");
                     }
 
+                    if (el.lastModifiedDate != null && el.lastModifiedDate > globalDb.CatalogLastModifiedDate)
+                    {
+                        globalDb.CatalogLastModifiedDate = el.lastModifiedDate.Value;
+                    }
+         
+                    // Mappings (storepage link)
                     if (el.catalogNs.mappings != null)
                     {
                         var mapping = el.catalogNs.mappings.FirstOrDefault(x => x.pageType == "productHome");
@@ -46,6 +54,25 @@ namespace EpicRatingsUpdater
                     if (isBaseApp)
                     {
                         item.Name = el.title;
+
+                        item.Store.ReleaseDate = el.releaseDate;
+                        item.Store.PcReleaseDate = el.pcReleaseDate;
+
+                        var blockChain = el.customAttributes.FirstOrDefault(x => x.key == "isBlockchainUsed");
+                        item.Store.isBlockchainUsed = blockChain?.value == "true";
+
+                        foreach (var attr in el.customAttributes)
+                        {
+                            if (attr.value == "false")
+                            {
+                                continue;
+                            }
+
+                            if (globalDb.KnownCustomAttributes.TryAdd(attr.value, el.ns))
+                            {
+                                Console.WriteLine($"::notice::New Atrribute {attr.key} in {el.ns} / {el.title}");
+                            }
+                        }
                     }
                 }
 
