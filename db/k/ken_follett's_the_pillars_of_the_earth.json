@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12311,
+  "EOS_Progressed": 12313,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1507,6 +1507,11 @@
       "Time": "2023-05-09T15:06:13.4138901+00:00",
       "NumProgressed": 12311,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-09T15:24:04.9366005+00:00",
+      "NumProgressed": 12313,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1558,7 +1563,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "tpote_achievement_15",
@@ -1606,7 +1611,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "tpote_achievement_20",
@@ -1622,7 +1627,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "tpote_achievement_22",
@@ -1630,7 +1635,7 @@
       "Name": "Two of us",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "tpote_achievement_23",
@@ -1654,7 +1659,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "tpote_achievement_26",
@@ -1678,7 +1683,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "tpote_achievement_29",
@@ -1742,7 +1747,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "tpote_achievement_36",
@@ -1766,7 +1771,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "tpote_achievement_39",
@@ -1830,7 +1835,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "tpote_achievement_9",
@@ -1838,22 +1843,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4432
+      "UsersEstimate": 4433
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12311,
+      "Progressed": 12313,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:06:13.4138893+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:24:04.9365997+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:01:02.6731425+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:06:13.4139359+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:18:56.6540532+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:24:04.9366675+00:00"
 }

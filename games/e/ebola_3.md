@@ -11,15 +11,16 @@
 | Mutation ✔ | 22.00% | ~35 |
 | Doberman ✔ | 11.00% | ~17 |
 | Chess ✔ | 8.00% | ~13 |
+| Weapon ✔ | 8.00% | ~13 |
 | Survival ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
-| Weapon ✔ | 7.00% | ~11 |
 | Hospital ✔ | 6.00% | ~9 |
+| Thirst ✔ | 6.00% | ~9 |
 | Antivirus ✔ | 5.00% | ~8 |
 | Cheats ✔ | 5.00% | ~8 |
 | City ✔ | 5.00% | ~8 |
+| Fraternal help ✔ | 5.00% | ~8 |
 | King of survival ✔ | 5.00% | ~8 |
-| Thirst ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~6 |
 | Alice ✔ | 4.00% | ~6 |
 | Betty ✔ | 4.00% | ~6 |
@@ -27,7 +28,6 @@
 | Eva ✔ | 4.00% | ~6 |
 | Food ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
-| Fraternal help ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
 | Infected ✔ | 4.00% | ~6 |
 | All secrets revealed ✔ | 4.00% | ~6 |

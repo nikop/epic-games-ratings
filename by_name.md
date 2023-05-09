@@ -518,7 +518,7 @@
 | [De-Exit - Eternal Matters](games/d/de-exit_-_eternal_matters.md) | - | - | 0 | - |
 | [Dead Age](games/d/dead_age.md) | - | - | 0 | - |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 834 | 0 | 490 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 501 | 27,143 | 16 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 501 | 27,167 | 16 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 250 | 237 |
 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 477 | 2,749 | 88 |
 | [Dead Space](games/d/dead_space.md) | 4.76 | 115 | 40 | 408 |
@@ -688,7 +688,7 @@
 | [Eternights](games/e/eternights.md) | - | - | - | - |
 | [Eternity Convergence](games/e/eternity_convergence.md) | - | - | - | - |
 | [Etherborn](games/e/etherborn.md) | - | - | 0 | - |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 233 | 5,198 | 60 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 233 | 5,201 | 60 |
 | [Evan's Remains](games/e/evan's_remains.md) | - | - | 0 | - |
 | [EVE Online](games/e/eve_online.md) | 4.26 | 773 | 1,018 | 134 |
 | [Everdream Valley](games/e/everdream_valley.md) | - | - | - | - |
@@ -2292,8 +2292,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 622 | 0 | 490 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 256 | 0 | 490 |

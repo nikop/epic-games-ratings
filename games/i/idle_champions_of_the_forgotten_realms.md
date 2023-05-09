@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~174 |
 | Family Entanglements | 0.20% | ~174 |
 | Chatty Nobles | 0.20% | ~174 |
+| Modron Assistance | 0.20% | ~174 |
 | The Botched Kidnapping | 0.20% | ~174 |
 | Haaave You Met Asmodeus? | 0.20% | ~174 |
 | Tower on the Lake | 0.20% | ~174 |
@@ -247,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~87 |
 | Poor Fortune | 0.10% | ~87 |
 | Relentless Misfortune | 0.10% | ~87 |
-| Modron Assistance | 0.10% | ~87 |
 | Thine Bounty is Mine! | 0.10% | ~53 |
 | Domesticated Owlbears | 0.10% | ~87 |
 | This Quest Stinks! | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,962 (Ranked 59)  
+Progressed: 86,963 (Ranked 59)  
 Completed: 1,817 (2.09%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,817 (2.09%) (Ranked 57)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,962 | 1,817 |
+| 2023-05-09 | 86,963 | 1,817 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

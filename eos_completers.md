@@ -57,7 +57,7 @@
 | 55 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
 | 56 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 57 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
-| 58 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.04% |
+| 58 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.00% |
 | 59 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 60 | [Sifu](games/s/sifu.md) | 1.81% |
 | 61 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |

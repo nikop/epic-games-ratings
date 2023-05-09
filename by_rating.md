@@ -239,7 +239,7 @@
 | 233 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 644 | 161 |
 | 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 363 |
 | 233 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 490 |
-| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,198 | 60 |
+| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,201 | 60 |
 | 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,323 | 3 |
 | 233 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 167,279 | 5 |
 | 233 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 490 |
@@ -502,7 +502,7 @@
 | 489 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 331 |
 | 501 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 735 | 151 |
 | 501 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 413 |
-| 501 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,143 | 16 |
+| 501 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,167 | 16 |
 | 501 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 86 | 339 |
 | 501 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 502 | 183 |
 | 501 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 321 |

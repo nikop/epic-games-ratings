@@ -1235,9 +1235,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11590,
+  "EOS_Progressed": 11592,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 835,
+  "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2845,6 +2845,11 @@
       "Time": "2023-05-09T15:06:49.8336723+00:00",
       "NumProgressed": 11590,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-09T15:24:47.0415309+00:00",
+      "NumProgressed": 11592,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2880,7 +2885,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "1019",
@@ -2904,7 +2909,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "1022",
@@ -2912,7 +2917,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "1023",
@@ -2984,7 +2989,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "1032",
@@ -2992,7 +2997,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4636
+      "UsersEstimate": 4637
     },
     {
       "ID": "1033",
@@ -3031,15 +3036,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11590,
+      "Progressed": 11592,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:06:49.8336714+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:24:47.0415302+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:01:15.1660042+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:06:49.8337273+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:19:11.0908482+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:24:47.041574+00:00"
 }

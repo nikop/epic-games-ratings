@@ -8,7 +8,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~482 |
 | Project Arena | 3.00% | ~362 |
-| Bloody Sport | 1.00% | ~120 |
+| Bloody Sport | 1.00% | ~121 |
 | The best strikes are the ones we avoid | 0.90% | ~108 |
 | Qi Gong: Breath | 0.80% | ~5,622 |
 | The Hateful Pole Fighter | 0.70% | ~4,919 |
@@ -46,18 +46,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.30% | ~2,108 |
 | Martial Hub | 0.30% | ~36 |
 | Secure, Protect, Leave | 0.30% | ~36 |
-| Drunken Fighter | 0.20% | ~1,405 |
-| Martial Artist | 0.20% | ~1,405 |
-| Knowledge Greed | 0.20% | ~1,405 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,405 |
-| The Pit Protector | 0.20% | ~1,405 |
+| Drunken Fighter | 0.20% | ~1,406 |
+| Martial Artist | 0.20% | ~1,406 |
+| Knowledge Greed | 0.20% | ~1,406 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,406 |
+| The Pit Protector | 0.20% | ~1,406 |
 | Healing Memory | 0.10% | ~703 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Be like water my friend | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,749 (Ranked 15)  
+Progressed: 702,750 (Ranked 15)  
 Completed: 12,717 (1.81%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 12,717 (1.81%) (Ranked 60)
 | 2023-05-06 | 702,653 | 12,709 |
 | 2023-05-07 | 702,693 | 12,713 |
 | 2023-05-08 | 702,730 | 12,716 |
-| 2023-05-09 | 702,749 | 12,717 |
+| 2023-05-09 | 702,750 | 12,717 |
 ## Awards
 Max (Great Boss Battles): 6,044  (Ranked 53)  
 Sum: 10,251 (Ranked 77)  

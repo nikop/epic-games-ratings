@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -846,9 +846,9 @@
       "ID": "achMaikl",
       "SetID": "72gjli4",
       "Name": "Fraternal help \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achOsipovOne",
@@ -998,17 +998,17 @@
       "ID": "achWater",
       "SetID": "72gjli4",
       "Name": "Thirst \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achWorms",
@@ -1031,8 +1031,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:06:57.7522853+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:24:55.8784981+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:01:19.4727653+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:06:57.7523419+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:19:15.4095948+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:24:55.8785803+00:00"
 }

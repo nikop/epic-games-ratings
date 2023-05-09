@@ -46,14 +46,14 @@
 | Tastes Like Regret | 6.00% | ~1 |
 | The Spice of Life | 6.00% | ~1 |
 | What They Don't Know Can't Hurt Them | 6.00% | ~1 |
+| Wilful Ignorance | 6.00% | ~1 |
 | Keeper of the People | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
 | The Archetype | 0.00% | ~0 |
 | The Surrogate | 0.00% | ~0 |
 | Under the Weather | 0.00% | ~0 |
-| Wilful Ignorance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 304)  
+Progressed: 16 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |

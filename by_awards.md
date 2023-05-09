@@ -15,7 +15,7 @@
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,870 | 4.74 | 141 |
 | 14 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 30,613 | 4.59 | 396 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,436 | 4.65 | 286 |
-| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,143 | 4.52 | 501 |
+| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,167 | 4.52 | 501 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,740 | 4.53 | 489 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,583 | 4.77 | 103 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,221 | 4.57 | 429 |
@@ -59,7 +59,7 @@
 | 57 | [Prey](games/p/prey.md) | 5,533 | 4.62 | 337 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,476 | 4.82 | 60 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,459 | 4.85 | 38 |
-| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,198 | 4.68 | 233 |
+| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,201 | 4.68 | 233 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,883 | 4.75 | 126 |
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,881 | 4.34 | 723 |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,873 | 4.06 | 869 |

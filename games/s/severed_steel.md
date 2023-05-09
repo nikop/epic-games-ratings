@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 233)
 | THE GAMBLER | 0.10% | ~402 |
 | WARRIOR IN A GARDEN | 0.10% | ~402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401,995 (Ranked 33)  
+Progressed: 401,998 (Ranked 33)  
 Completed: 29 (0.01%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 29 (0.01%) (Ranked 186)
 | 2023-05-06 | 401,039 | 29 |
 | 2023-05-07 | 401,472 | 29 |
 | 2023-05-08 | 401,789 | 29 |
-| 2023-05-09 | 401,995 | 29 |
+| 2023-05-09 | 401,998 | 29 |
 ## Awards
 Max (Great Boss Battles): 168  (Ranked 276)  
 Sum: 168 (Ranked 367)  

@@ -12,7 +12,7 @@
 | I am speed! | 35.00% | ~6 |
 | It's safe here! | 18.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 301)  
+Progressed: 17 (Ranked 302)  
 Completed: 1 (5.88%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
