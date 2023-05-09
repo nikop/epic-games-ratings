@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.77,
   "NumberOfRatings": 45,
   "RatingHistory": [
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1146,
+  "EOS_Progressed": 1147,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -286,6 +286,11 @@
       "Time": "2023-05-08T22:06:28.2107028+00:00",
       "NumProgressed": 1146,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-09T02:07:59.8621362+00:00",
+      "NumProgressed": 1147,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -313,7 +318,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -473,7 +478,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_mythwalker",
@@ -744,15 +749,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1146,
+      "Progressed": 1147,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-09T00:07:05.6146044+00:00",
+  "LastChanged_Achievements": "2023-05-09T02:07:59.8621355+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-09T00:02:46.9515074+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:07:05.6146442+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:03:35.1647581+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:07:59.8622227+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 54,
   "Rating": 4.86,
   "NumberOfRatings": 1611,
@@ -1059,9 +1059,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118157,
+  "EOS_Progressed": 118159,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2444,6 +2444,11 @@
       "Time": "2023-05-09T00:07:22.7575623+00:00",
       "NumProgressed": 118157,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-09T02:08:15.8539747+00:00",
+      "NumProgressed": 118159,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -2487,7 +2492,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21269
     },
     {
       "ID": "ACH_COP_BAD",
@@ -2535,7 +2540,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33084
+      "UsersEstimate": 33085
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -2567,7 +2572,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23631
+      "UsersEstimate": 23632
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -2583,7 +2588,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15360
+      "UsersEstimate": 15361
     },
     {
       "ID": "ACH_COP_STAR",
@@ -2735,7 +2740,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15360
+      "UsersEstimate": 15361
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -2774,15 +2779,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118157,
+      "Progressed": 118159,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-09T00:07:22.7575616+00:00",
+  "LastChanged_Achievements": "2023-05-09T02:08:15.8539739+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-09T00:00:47.6009865+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:07:22.7575929+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:01:48.2377218+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:08:15.8544072+00:00"
 }

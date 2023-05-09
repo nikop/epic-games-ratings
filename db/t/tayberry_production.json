@@ -1,10 +1,10 @@
 {
   "ID": "312a1e4f0c8e479e97d92a587dd52a33",
   "Name": "tayberry Production",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -19,6 +19,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:28.7744148+00:00",
-  "LastUpdate_Ratings": "2023-05-09T00:02:30.9193538+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:06:37.076363+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:03:22.5968698+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:07:32.4336791+00:00"
 }

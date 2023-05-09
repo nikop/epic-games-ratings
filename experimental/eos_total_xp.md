@@ -268,6 +268,7 @@
 | [Prison Architect](../games/p/prison_architect.md) | 16 | 1,000 |
 | [Project Highrise](../games/p/project_highrise.md) | 88 | 1,000 |
 | [PUBG: BATTLEGROUNDS](../games/p/pubg__battlegrounds.md) | 37 | 1,000 |
+| [Puzzle Compound](../games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 11 | 1,000 |
 | [Q.U.B.E. 10th Anniversary](../games/q/q.u.b.e._10th_anniversary.md) | 24 | 1,000 |
 | [Quest of Dungeons](../games/q/quest_of_dungeons.md) | 25 | 1,000 |
 | [RAILGRADE](../games/r/railgrade.md) | 37 | 1,000 |

@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 823)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 5.00% | ~627 |
-| Paper Jams | 5.00% | ~627 |
+| Flesh Wound | 5.00% | ~628 |
+| Paper Jams | 5.00% | ~628 |
 | Get a Grip | 4.00% | ~502 |
 | You Need a Gun | 3.00% | ~376 |
 | Two Heads Are Better Than One | 3.00% | ~376 |
@@ -30,7 +30,7 @@ Rating: 4.18 (Ranked 823)
 | Crash Site | 2.00% | ~251 |
 | Full Circle | 2.00% | ~251 |
 | Power Up | 2.00% | ~251 |
-| Giving Back | 1.00% | ~125 |
+| Giving Back | 1.00% | ~126 |
 | You Belong Here | 1.00% | ~5 |
 | Grim Reaper | 0.50% | ~63 |
 | Armed to the Teeth | 0.30% | ~1 |
@@ -39,7 +39,7 @@ Rating: 4.18 (Ranked 823)
 | It's over, Jacob! | 0.10% | ~13 |
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,549 (Ranked 101)  
+Progressed: 12,550 (Ranked 101)  
 Completed: 47 (0.37%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 47 (0.37%) (Ranked 107)
 | 2023-05-06 | 12,540 | 47 |
 | 2023-05-07 | 12,543 | 47 |
 | 2023-05-08 | 12,549 | 47 |
+| 2023-05-09 | 12,550 | 47 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 396)  
 Sum: 245 (Ranked 341)  

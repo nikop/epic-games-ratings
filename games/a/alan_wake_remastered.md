@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 19.00% | ~8,755 |
-| Let There Be Light | 16.00% | ~7,372 |
+| Let There Be Light | 16.00% | ~7,373 |
 | Float Like a Butterfly | 15.00% | ~6,912 |
 | Nordic Walking | 13.00% | ~5,990 |
 | Bright Falls' Finest | 12.00% | ~5,529 |
@@ -22,13 +22,13 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 8.00% | ~3,686 |
 | Damn Good Cup of Coffee | 8.00% | ~3,686 |
 | A Friend in Need | 8.00% | ~764 |
-| Heavy Metal | 7.00% | ~3,225 |
-| Iron Horse | 7.00% | ~3,225 |
-| Perchance to Dream | 7.00% | ~3,225 |
-| The Six-Gun Scribe | 7.00% | ~3,225 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,225 |
-| Collateral Carnage | 7.00% | ~3,225 |
-| Come One, Come All | 7.00% | ~3,225 |
+| Heavy Metal | 7.00% | ~3,226 |
+| Iron Horse | 7.00% | ~3,226 |
+| Perchance to Dream | 7.00% | ~3,226 |
+| The Six-Gun Scribe | 7.00% | ~3,226 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,226 |
+| Collateral Carnage | 7.00% | ~3,226 |
+| Come One, Come All | 7.00% | ~3,226 |
 | Gatekeeper | 6.00% | ~2,765 |
 | The Lady of the Light | 6.00% | ~2,765 |
 | Thunder and Lightning | 6.00% | ~2,765 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,078 (Ranked 74)  
+Progressed: 46,079 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 44 (0.10%) (Ranked 153)
 | 2023-05-06 | 46,035 | 44 |
 | 2023-05-07 | 46,058 | 44 |
 | 2023-05-08 | 46,074 | 44 |
-| 2023-05-09 | 46,078 | 44 |
+| 2023-05-09 | 46,079 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

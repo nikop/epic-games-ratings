@@ -2,10 +2,10 @@
   "ID": "4b52b9409a1743da8c00e3a22c48b40b",
   "Name": "Summum Aeterna",
   "ProductSlug": "summum-aeterna-6e9374",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:21.4341371+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.4341368+00:00",
   "LastChanged": "2023-03-31T05:58:21.4341369+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:18.4621849+00:00",
-  "LastUpdate_Ratings": "2023-05-08T23:59:30.5008484+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:03:17.3856608+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:00:27.8606284+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:04:04.0841453+00:00"
 }

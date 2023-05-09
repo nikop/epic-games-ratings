@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.74,
   "NumberOfRatings": 5603,
   "RatingHistory": [
@@ -3785,18 +3785,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 12936,
       "NumberOfAwardsMax": 6493
+    },
+    {
+      "Time": "2023-05-09T02:02:34.505088+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12944,
+      "NumberOfAwardsMax": 6500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12936,
-  "NumberOfAwardsMax": 6493,
+  "NumberOfAwards": 12944,
+  "NumberOfAwardsMax": 6500,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6493
+      "Count": 6500
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3856,7 +3862,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 512
+      "Count": 513
     },
     {
       "Text": "This game has Competitive Players",
@@ -3865,9 +3871,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49260,
+  "EOS_Progressed": 49262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5375,6 +5381,11 @@
       "Time": "2023-05-09T00:07:34.8954464+00:00",
       "NumProgressed": 49260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T02:08:27.3969873+00:00",
+      "NumProgressed": 49262,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5386,7 +5397,7 @@
       "Name": "Against all odds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "Apple of my eye",
@@ -5554,7 +5565,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6896
+      "UsersEstimate": 6897
     },
     {
       "ID": "I spit on your grave",
@@ -5610,7 +5621,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14285
+      "UsersEstimate": 14286
     },
     {
       "ID": "Lawbringer",
@@ -5618,7 +5629,7 @@
       "Name": "Lawbringer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16748
+      "UsersEstimate": 16749
     },
     {
       "ID": "Lawmaker",
@@ -5730,7 +5741,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "The king is pleased",
@@ -5762,7 +5773,7 @@
       "Name": "Trained",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9359
+      "UsersEstimate": 9360
     },
     {
       "ID": "Undercover",
@@ -5793,15 +5804,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49260,
+      "Progressed": 49262,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-08T20:01:40.021257+00:00",
-  "LastChanged_Achievements": "2023-05-09T00:07:34.8954459+00:00",
+  "LastChanged": "2023-05-09T02:02:34.5050878+00:00",
+  "LastChanged_Achievements": "2023-05-09T02:08:27.3969862+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-09T00:01:35.5711125+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:07:34.8954891+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:02:34.5050883+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:08:27.3970775+00:00"
 }

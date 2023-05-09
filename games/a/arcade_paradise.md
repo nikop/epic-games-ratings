@@ -1,7 +1,7 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.57 (Ranked 430)  
+Rating: 4.57 (Ranked 429)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,13 +29,13 @@ Rating: 4.57 (Ranked 430)
 | GoldGuy Jr | 4.00% | ~23 |
 | Nose to the Grindstone | 4.00% | ~23 |
 | Waking nightmare | 4.00% | ~23 |
+| We come in peace | 3.00% | ~17 |
 | Crowning achievement | 3.00% | ~17 |
 | Modern Gorefare | 3.00% | ~17 |
 | Hammer time | 3.00% | ~17 |
 | 1CC | 2.00% | ~12 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~12 |
 | To do. Done! | 2.00% | ~12 |
-| We come in peace | 2.00% | ~12 |
 | GTA: Crime City | 2.00% | ~12 |
 | Slacker | 2.00% | ~12 |
 | 1337 HAXXOR | 1.00% | ~6 |

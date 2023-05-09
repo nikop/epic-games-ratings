@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:27.0656459+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -97,6 +97,11 @@
     {
       "Time": "2023-05-08T16:06:47.1115984+00:00",
       "NumProgressed": 140,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T02:08:13.9301308+00:00",
+      "NumProgressed": 141,
       "NumCompleted": 0
     }
   ],
@@ -261,7 +266,7 @@
       "Name": "I love books!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CULTURE_3",
@@ -437,7 +442,7 @@
       "Name": "I like parks",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -445,7 +450,7 @@
       "Name": "I love parks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -461,7 +466,7 @@
       "Name": "The woodcutter",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MILLS",
@@ -539,7 +544,7 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 85
     },
@@ -629,7 +634,7 @@
       "Name": "Sport is good for you",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "SPORTS_2",
@@ -740,7 +745,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
@@ -748,8 +753,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-09T00:07:20.5217568+00:00",
+  "LastChanged_Achievements": "2023-05-09T02:08:13.9301303+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-09T00:00:35.5184525+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:07:20.5218246+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:01:34.4111728+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:08:13.930283+00:00"
 }

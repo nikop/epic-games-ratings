@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 477)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~17,941 |
+| Trevithick's Legacy | 98.00% | ~17,942 |
 | Before the Downfall | 93.00% | ~17,026 |
-| Money like Water | 91.00% | ~16,659 |
-| Minimalist | 90.00% | ~16,476 |
-| Builder | 83.00% | ~15,195 |
-| Eraser | 70.00% | ~12,815 |
+| Money like Water | 91.00% | ~16,660 |
+| Minimalist | 90.00% | ~16,477 |
+| Builder | 83.00% | ~15,196 |
+| Eraser | 70.00% | ~12,816 |
 | Pocket of Trains | 65.00% | ~11,900 |
-| Inspector | 58.00% | ~10,618 |
+| Inspector | 58.00% | ~10,619 |
 | Going the Distance | 54.00% | ~9,886 |
 | Oil Baron | 42.00% | ~7,689 |
 | Loads-a-Money | 42.00% | ~7,689 |
 | Helper of the People | 39.00% | ~7,140 |
-| Simplification | 34.00% | ~6,224 |
-| Box of Trains | 33.00% | ~6,041 |
-| Let There be Light | 32.00% | ~5,858 |
+| Simplification | 34.00% | ~6,225 |
+| Box of Trains | 33.00% | ~6,042 |
+| Let There be Light | 32.00% | ~5,859 |
 | Hot Water | 31.00% | ~5,675 |
 | Indecisive | 29.00% | ~5,309 |
 | The scenic route | 27.00% | ~4,943 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 477)
 | Man of Steel | 16.00% | ~2,929 |
 | Room Full of Trains | 12.00% | ~2,197 |
 | Investor | 9.00% | ~1,648 |
-| Multiverse | 7.00% | ~1,281 |
-| The poor groundwater levels | 7.00% | ~1,281 |
-| Metropolis | 7.00% | ~1,281 |
+| Multiverse | 7.00% | ~1,282 |
+| The poor groundwater levels | 7.00% | ~1,282 |
+| Metropolis | 7.00% | ~1,282 |
 | High Flier | 3.00% | ~549 |
 | To infinity, and beyond! | 3.00% | ~549 |
 | Space industrialization | 2.00% | ~366 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 477)
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,307 (Ranked 95)  
+Progressed: 18,308 (Ranked 95)  
 Completed: 28 (0.15%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,6 +62,7 @@ Completed: 28 (0.15%) (Ranked 142)
 | 2023-05-06 | 18,272 | 28 |
 | 2023-05-07 | 18,297 | 28 |
 | 2023-05-08 | 18,307 | 28 |
+| 2023-05-09 | 18,308 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 338)  
 Sum: 644 (Ranked 269)  

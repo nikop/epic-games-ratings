@@ -2,13 +2,13 @@
   "ID": "c61c00b965d9424b955ca4bd570b5b2d",
   "Name": "Lords and Villeins",
   "ProductSlug": "lords-and-villeins-746931",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.41,
   "NumberOfRatings": 21,
   "RatingHistory": [
@@ -66,6 +66,6 @@
   "FirstSeenRating": "2022-09-13T22:32:26.3381653+00:00",
   "LastChanged": "2023-03-31T05:57:58.5841169+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:12.0081118+00:00",
-  "LastUpdate_Ratings": "2023-05-09T00:02:07.4215427+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:06:22.354566+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:03:02.9873879+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:07:18.8730501+00:00"
 }

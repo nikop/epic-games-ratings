@@ -16,15 +16,15 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.68% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
 | 20 | [Scorn](games/s/scorn.md) | 7.11% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 22 | [Remains](games/r/remains.md) | 6.67% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.80% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.76% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -102,8 +102,8 @@
 | 100 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 101 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 102 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 102 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 102 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
-| 104 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 105 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 106 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 107 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
@@ -320,6 +320,7 @@
 | 194 | [Prison Architect](games/p/prison_architect.md) | 0.00% |
 | 194 | [Project Highrise](games/p/project_highrise.md) | 0.00% |
 | 194 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 0.00% |
+| 194 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 0.00% |
 | 194 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.00% |
 | 194 | [Quest of Dungeons](games/q/quest_of_dungeons.md) | 0.00% |
 | 194 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
@@ -386,4 +387,4 @@
 | 194 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 194 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 194 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,570 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,571 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

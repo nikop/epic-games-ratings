@@ -2,10 +2,10 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 21,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "RatingHistory": [
     {
       "Time": "2023-04-12T21:57:08.1785831+00:00",
@@ -360,9 +360,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "MQ07_1",
@@ -425,8 +425,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-09T00:07:00.9971749+00:00",
+  "LastChanged_Achievements": "2023-05-09T02:07:55.2096291+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-08T23:58:37.1773459+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:07:00.9971928+00:00"
+  "LastUpdate_Ratings": "2023-05-09T01:59:36.9525302+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:07:55.2096518+00:00"
 }

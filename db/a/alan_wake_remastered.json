@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.56,
   "NumberOfRatings": 524,
   "RatingHistory": [
@@ -498,7 +498,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46078,
+  "EOS_Progressed": 46079,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -1278,6 +1278,11 @@
       "Time": "2023-05-09T00:07:04.6764836+00:00",
       "NumProgressed": 46078,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-09T02:07:58.9740386+00:00",
+      "NumProgressed": 46079,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1337,7 +1342,7 @@
       "Name": "Heavy Metal",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "08",
@@ -1345,7 +1350,7 @@
       "Name": "Iron Horse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "09",
@@ -1377,7 +1382,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "13",
@@ -1457,7 +1462,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "23",
@@ -1473,7 +1478,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "25",
@@ -1497,7 +1502,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "28",
@@ -1505,7 +1510,7 @@
       "Name": "Come One, Come All",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "29",
@@ -1561,7 +1566,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7372
+      "UsersEstimate": 7373
     },
     {
       "ID": "36",
@@ -1824,21 +1829,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46078,
+      "Progressed": 46079,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9546,
+      "Progressed": 9547,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-09T00:07:04.6764832+00:00",
+  "LastChanged_Achievements": "2023-05-09T02:07:58.9740377+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-08T23:59:05.3511979+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:07:04.676554+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:00:01.1542884+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:07:58.9741151+00:00"
 }

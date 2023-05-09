@@ -6,40 +6,40 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~75,655 |
-| No Escape | 86.00% | ~67,076 |
-| Seeker of Power | 85.00% | ~66,296 |
-| Hopes and Dreams | 82.00% | ~63,956 |
-| Lantern Smasher | 78.00% | ~60,836 |
-| The Pirate's Way | 73.00% | ~56,936 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,376 |
-| The King of the Dark Elves | 68.00% | ~53,037 |
-| Memories of the Distant Past | 66.00% | ~51,477 |
-| Distortion's Progeny | 62.00% | ~48,357 |
-| Savant | 62.00% | ~48,357 |
-| A Landscape of Memory | 58.00% | ~45,237 |
-| The Wind's Light | 54.00% | ~42,117 |
-| Vague Remembrances | 49.00% | ~38,218 |
-| The Fire's Light | 47.00% | ~36,658 |
-| Phantom Memories | 46.00% | ~35,878 |
-| Imbued Memories | 46.00% | ~35,878 |
-| The Earth's Light | 45.00% | ~35,098 |
-| Shared Recollections | 41.00% | ~31,978 |
-| Path of the Sage | 40.00% | ~31,198 |
-| The Water's Light | 39.00% | ~30,418 |
-| Malice Takes Root | 37.00% | ~28,858 |
-| Path of the Dark Knight | 37.00% | ~28,858 |
-| Path of the Paladin | 36.00% | ~28,078 |
-| Path of the Breaker | 36.00% | ~28,078 |
-| Duty's Course | 35.00% | ~27,298 |
-| Path of the Liberator | 35.00% | ~27,298 |
-| Led by the Nose | 34.00% | ~26,518 |
-| Path of the Void Knight | 34.00% | ~26,518 |
-| Path of the Tyrant | 34.00% | ~26,518 |
-| Path of the Ninja | 33.00% | ~25,738 |
-| Terminus of Fate | 32.00% | ~24,958 |
-| His Name Is Garland | 32.00% | ~24,958 |
-| Path of the Assassin | 31.00% | ~24,178 |
+| Manifestation of the Soul | 97.00% | ~75,657 |
+| No Escape | 86.00% | ~67,077 |
+| Seeker of Power | 85.00% | ~66,297 |
+| Hopes and Dreams | 82.00% | ~63,958 |
+| Lantern Smasher | 78.00% | ~60,838 |
+| The Pirate's Way | 73.00% | ~56,938 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,378 |
+| The King of the Dark Elves | 68.00% | ~53,038 |
+| Memories of the Distant Past | 66.00% | ~51,478 |
+| Distortion's Progeny | 62.00% | ~48,358 |
+| Savant | 62.00% | ~48,358 |
+| A Landscape of Memory | 58.00% | ~45,238 |
+| The Wind's Light | 54.00% | ~42,118 |
+| Vague Remembrances | 49.00% | ~38,219 |
+| The Fire's Light | 47.00% | ~36,659 |
+| Phantom Memories | 46.00% | ~35,879 |
+| Imbued Memories | 46.00% | ~35,879 |
+| The Earth's Light | 45.00% | ~35,099 |
+| Shared Recollections | 41.00% | ~31,979 |
+| Path of the Sage | 40.00% | ~31,199 |
+| The Water's Light | 39.00% | ~30,419 |
+| Malice Takes Root | 37.00% | ~28,859 |
+| Path of the Dark Knight | 37.00% | ~28,859 |
+| Path of the Paladin | 36.00% | ~28,079 |
+| Path of the Breaker | 36.00% | ~28,079 |
+| Duty's Course | 35.00% | ~27,299 |
+| Path of the Liberator | 35.00% | ~27,299 |
+| Led by the Nose | 34.00% | ~26,519 |
+| Path of the Void Knight | 34.00% | ~26,519 |
+| Path of the Tyrant | 34.00% | ~26,519 |
+| Path of the Ninja | 33.00% | ~25,739 |
+| Terminus of Fate | 32.00% | ~24,959 |
+| His Name Is Garland | 32.00% | ~24,959 |
+| Path of the Assassin | 31.00% | ~24,179 |
 | Seeker of Ultimate Power | 23.00% | ~17,939 |
 | Artifact Collector | 22.00% | ~17,159 |
 | True Potential | 21.00% | ~16,379 |
@@ -47,13 +47,13 @@ Number of Ratings: 1,919  (23.09.2022)
 | Origin of True Chaos | 20.00% | ~15,599 |
 | Jack-of-All-Trades | 19.00% | ~14,819 |
 | Master's Awakening | 18.00% | ~14,039 |
-| Cycle of Darkness | 16.00% | ~12,479 |
+| Cycle of Darkness | 16.00% | ~12,480 |
 | Job Master | 8.00% | ~6,240 |
 | Crest Bearer | 6.00% | ~4,680 |
 | Strangers' Memories | 3.00% | ~2,340 |
 | A Tale of Origins and Endings | 2.00% | ~1,560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,995 (Ranked 60)  
+Progressed: 77,997 (Ranked 60)  
 Completed: 2,124 (2.72%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 2,124 (2.72%) (Ranked 51)
 | 2023-05-06 | 77,916 | 2,122 |
 | 2023-05-07 | 77,968 | 2,123 |
 | 2023-05-08 | 77,993 | 2,124 |
-| 2023-05-09 | 77,995 | 2,124 |
+| 2023-05-09 | 77,997 | 2,124 |
 ## Awards
 Max (Great Boss Battles): 752  (Ranked 148)  
 Sum: 1,549 (Ranked 204)  

@@ -13,7 +13,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.80% | ~695 |
 | Bully for Vecna | 0.70% | ~372 |
 | The Mad Wizard | 0.70% | ~608 |
-| Beast Intentions | 0.60% | ~521 |
+| Beast Intentions | 0.60% | ~522 |
 | The Ring of Regeneration | 0.50% | ~435 |
 | Were-verpowered | 0.40% | ~348 |
 | A Persistent Buzzing | 0.40% | ~348 |
@@ -78,6 +78,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.20% | ~174 |
 | Haaave You Met Asmodeus? | 0.20% | ~174 |
 | Tower on the Lake | 0.20% | ~174 |
+| Seeds of Deceit | 0.20% | ~174 |
 | Trollskull Manor | 0.20% | ~174 |
 | Attack on the Manor | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
@@ -251,7 +252,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.10% | ~87 |
 | Shorty's Day Off | 0.10% | ~87 |
 | Intelligence Hunt | 0.10% | ~87 |
-| Seeds of Deceit | 0.10% | ~87 |
 | Visions of Strahd | 0.10% | ~87 |
 | Seeds of Corruption | 0.10% | ~87 |
 | The Strahd Squad | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,914 (Ranked 59)  
+Progressed: 86,919 (Ranked 59)  
 Completed: 1,816 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,816 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,914 | 1,816 |
+| 2023-05-09 | 86,919 | 1,816 |
 ## Awards
 Max (Diverse Characters): 4,868  (Ranked 63)  
 Sum: 29,833 (Ranked 37)  

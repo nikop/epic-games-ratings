@@ -2,10 +2,10 @@
   "ID": "8f22a992ca614f3e9658ebfbe6d21260",
   "Name": "M1 Tank Platoon II",
   "ProductSlug": "m1-tank-platoon-2-2d2c31",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:08.1684428+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.1684425+00:00",
   "LastChanged": "2023-03-31T05:57:08.1684426+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.4350972+00:00",
-  "LastUpdate_Ratings": "2023-05-08T23:58:40.8043409+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:04:29.4594451+00:00"
+  "LastUpdate_Ratings": "2023-05-09T01:59:40.4962294+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:05:22.7004189+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 3.40 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~856 |
-| World Map | 79.00% | ~727 |
-| Temple of Eternals | 55.00% | ~506 |
-| Prestigious | 51.00% | ~469 |
+| Victor | 93.00% | ~857 |
+| World Map | 79.00% | ~728 |
+| Temple of Eternals | 55.00% | ~507 |
+| Prestigious | 51.00% | ~470 |
 | Fellowship Power | 39.00% | ~359 |
 | Guild Power | 23.00% | ~212 |
 | Prestigious x10 | 19.00% | ~175 |
@@ -19,9 +19,9 @@ Rating: 3.40 (Ranked 918)
 | Miner Clicker | 13.00% | ~120 |
 | Hero inspection | 11.00% | ~101 |
 | Full Party | 10.00% | ~92 |
-| Enlightenment | 8.00% | ~74 |
-| Lieutenant | 8.00% | ~74 |
 | Dragon Master | 7.00% | ~64 |
+| Enlightenment | 7.00% | ~64 |
+| Lieutenant | 7.00% | ~64 |
 | Natural Talent | 6.00% | ~55 |
 | The Unstoppable | 6.00% | ~55 |
 | Scientist | 5.00% | ~46 |
@@ -30,9 +30,9 @@ Rating: 3.40 (Ranked 918)
 | Milestone collector | 4.00% | ~37 |
 | Background Story | 3.00% | ~28 |
 | Frostfire Liberator | 3.00% | ~28 |
-| Hunter | 3.00% | ~28 |
 | Mastery | 3.00% | ~28 |
 | Here We Go Again | 2.00% | ~18 |
+| Hunter | 2.00% | ~18 |
 | Missions Dedication | 2.00% | ~18 |
 | Moving Up The Ladder | 2.00% | ~18 |
 | Mysterious Rock | 2.00% | ~18 |
@@ -81,7 +81,7 @@ Rating: 3.40 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 920 (Ranked 165)  
+Progressed: 921 (Ranked 165)  
 Completed: 1 (0.11%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.11%) (Ranked 150)
 | 2023-05-06 | 881 | 1 |
 | 2023-05-07 | 903 | 1 |
 | 2023-05-08 | 916 | 1 |
-| 2023-05-09 | 920 | 1 |
+| 2023-05-09 | 921 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

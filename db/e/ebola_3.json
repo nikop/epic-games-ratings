@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
       "Time": "2023-04-27T18:00:42.6973794+00:00",
@@ -666,9 +666,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "achCity",
@@ -1011,8 +1011,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-09T00:07:47.456377+00:00",
+  "LastChanged_Achievements": "2023-05-09T02:08:39.4972803+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-09T00:02:18.7510284+00:00",
-  "LastUpdate_Achievements": "2023-05-09T00:07:47.456416+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:03:11.8107923+00:00",
+  "LastUpdate_Achievements": "2023-05-09T02:08:39.4973723+00:00"
 }

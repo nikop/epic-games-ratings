@@ -19,7 +19,7 @@
 | Back In The Saddle | 50.00% | ~72 |
 | Lock, Stock, And Barrel | 49.00% | ~71 |
 | Gaze Into The Abyss | 49.00% | ~71 |
-| No Man Is An Island | 48.00% | ~69 |
+| No Man Is An Island | 49.00% | ~71 |
 | Bookworm | 44.00% | ~63 |
 | At Wits' End | 44.00% | ~63 |
 | Going Once... | 40.00% | ~58 |
@@ -33,7 +33,7 @@
 | Big Breakthrough | 22.00% | ~32 |
 | Reawakened | 11.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144 (Ranked 239)  
+Progressed: 144 (Ranked 240)  
 Completed: 10 (6.94%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
