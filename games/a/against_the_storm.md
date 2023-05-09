@@ -7,12 +7,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Marshlands | 0.90% | ~133 |
+| Fertile Meadows | 0.80% | ~118 |
 | Coral Forest | 0.80% | ~118 |
+| The Scarlet Orchard | 0.80% | ~118 |
 | No Deaths | 0.80% | ~118 |
 | First Real Expedition | 0.70% | ~103 |
 | Overcoming Difficulty | 0.70% | ~103 |
-| Fertile Meadows | 0.70% | ~103 |
-| The Scarlet Orchard | 0.70% | ~103 |
 | Taking Action | 0.70% | ~103 |
 | Bandit Camp | 0.60% | ~88 |
 | Barren Lands | 0.60% | ~88 |

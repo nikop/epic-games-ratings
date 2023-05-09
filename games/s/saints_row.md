@@ -6,58 +6,58 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 84.00% | ~20,087 |
-| To The Nines | 78.00% | ~18,652 |
-| Optimized | 70.00% | ~16,739 |
-| Performance Review | 69.00% | ~16,500 |
-| Making a Name | 66.00% | ~15,783 |
-| Tune Up | 65.00% | ~15,543 |
-| Landlord | 62.00% | ~14,826 |
-| The Side Job | 61.00% | ~14,587 |
-| Wet Work | 61.00% | ~14,587 |
-| Wrecking Ball | 53.00% | ~12,674 |
-| Food for Thought | 53.00% | ~12,674 |
-| Finders Keepers | 50.00% | ~11,956 |
-| A Young Empire | 49.00% | ~11,717 |
-| Work Ethic | 46.00% | ~11,000 |
-| Picking Fights | 37.00% | ~8,848 |
-| Quality Time | 36.00% | ~8,609 |
-| Power Players | 36.00% | ~8,609 |
-| Took It to The Limit | 32.00% | ~7,652 |
-| Et tu? | 30.00% | ~7,174 |
-| Showdown | 29.00% | ~6,935 |
-| Kitted Out | 25.00% | ~5,978 |
-| Masters of Santo Ileso | 24.00% | ~5,739 |
-| Hijacked | 23.00% | ~5,500 |
-| The Spins | 20.00% | ~4,783 |
-| The Mechanic | 20.00% | ~4,783 |
-| Closet Space | 16.00% | ~3,826 |
-| We could go home, or… | 14.00% | ~3,348 |
-| A Golden Age | 14.00% | ~3,348 |
-| Challenge Accepted | 13.00% | ~3,109 |
-| The Professional | 11.00% | ~2,630 |
-| Chaos Tamer | 11.00% | ~2,630 |
-| Free Refills | 11.00% | ~2,630 |
-| Smooth Moves | 11.00% | ~2,630 |
-| Neighborly | 10.00% | ~2,391 |
-| Prankster | 8.00% | ~1,913 |
-| Shopping Spree | 7.00% | ~1,674 |
-| Always Be Hustling | 7.00% | ~1,674 |
-| Tourist | 7.00% | ~1,674 |
-| Community Outreach | 6.00% | ~1,435 |
+| First F#@!ing Day | 84.00% | ~20,101 |
+| To The Nines | 78.00% | ~18,665 |
+| Optimized | 70.00% | ~16,751 |
+| Performance Review | 69.00% | ~16,512 |
+| Making a Name | 66.00% | ~15,794 |
+| Tune Up | 65.00% | ~15,554 |
+| Landlord | 62.00% | ~14,837 |
+| The Side Job | 61.00% | ~14,597 |
+| Wet Work | 61.00% | ~14,597 |
+| Wrecking Ball | 53.00% | ~12,683 |
+| Food for Thought | 53.00% | ~12,683 |
+| Finders Keepers | 50.00% | ~11,965 |
+| A Young Empire | 49.00% | ~11,726 |
+| Work Ethic | 46.00% | ~11,008 |
+| Picking Fights | 37.00% | ~8,854 |
+| Quality Time | 36.00% | ~8,615 |
+| Power Players | 36.00% | ~8,615 |
+| Took It to The Limit | 32.00% | ~7,658 |
+| Et tu? | 30.00% | ~7,179 |
+| Showdown | 29.00% | ~6,940 |
+| Kitted Out | 25.00% | ~5,982 |
+| Masters of Santo Ileso | 24.00% | ~5,743 |
+| Hijacked | 23.00% | ~5,504 |
+| The Spins | 20.00% | ~4,786 |
+| The Mechanic | 20.00% | ~4,786 |
+| Closet Space | 16.00% | ~3,829 |
+| We could go home, or… | 14.00% | ~3,350 |
+| A Golden Age | 14.00% | ~3,350 |
+| Challenge Accepted | 13.00% | ~3,111 |
+| The Professional | 11.00% | ~2,632 |
+| Chaos Tamer | 11.00% | ~2,632 |
+| Free Refills | 11.00% | ~2,632 |
+| Smooth Moves | 11.00% | ~2,632 |
+| Neighborly | 10.00% | ~2,393 |
+| Prankster | 8.00% | ~1,914 |
+| Shopping Spree | 7.00% | ~1,675 |
+| Always Be Hustling | 7.00% | ~1,675 |
+| Tourist | 7.00% | ~1,675 |
+| Community Outreach | 6.00% | ~1,436 |
 | Bonus Round | 5.00% | ~1,196 |
 | All Mine | 4.00% | ~957 |
-| The Collector | 3.00% | ~717 |
-| Jack of All Trades | 2.00% | ~478 |
-| It's a Bird! | 2.00% | ~478 |
-| Heard You Like Wheels | 2.00% | ~478 |
+| The Collector | 3.00% | ~718 |
+| Jack of All Trades | 2.00% | ~479 |
+| It's a Bird! | 2.00% | ~479 |
+| Heard You Like Wheels | 2.00% | ~479 |
 | Armor Piercing | 1.00% | ~239 |
 | Statement Pieces | 0.80% | ~191 |
-| A Car Named Simone | 0.70% | ~167 |
-| Fiesta Time | 0.60% | ~143 |
+| A Car Named Simone | 0.70% | ~168 |
+| Fiesta Time | 0.60% | ~144 |
 | Untouchable | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,913 (Ranked 87)  
+Progressed: 23,930 (Ranked 87)  
 Completed: 1 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 1 (0.00%) (Ranked 194)
 | 2023-05-06 | 22,775 | 1 |
 | 2023-05-07 | 23,304 | 1 |
 | 2023-05-08 | 23,726 | 1 |
-| 2023-05-09 | 23,913 | 1 |
+| 2023-05-09 | 23,930 | 1 |
 ## Awards
 Max (Extremely Fun): 1,023  (Ranked 133)  
 Sum: 9,059 (Ranked 82)  

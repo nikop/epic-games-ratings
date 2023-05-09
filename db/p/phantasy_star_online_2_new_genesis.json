@@ -4,7 +4,7 @@
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 467,
   "Ranking_Popularity": 145,
-  "Ranking_PopularitySum": 137,
+  "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
@@ -1936,6 +1936,6 @@
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
   "LastChanged": "2023-05-09T09:00:08.5498966+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.2267851+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:00:08.5498972+00:00",
-  "LastUpdate_Achievements": "2023-05-09T09:03:51.7061809+00:00"
+  "LastUpdate_Ratings": "2023-05-09T09:59:34.9975388+00:00",
+  "LastUpdate_Achievements": "2023-05-09T10:02:09.2194949+00:00"
 }

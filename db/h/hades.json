@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 6,
   "Rating": 4.92,
   "NumberOfRatings": 6336,
   "RatingHistory": [
@@ -2951,11 +2951,11 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 680140,
-  "EOS_Completed": 6087,
-  "EOS_NewPlayers": 543,
-  "EOS_NewCompleters": 22,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Progressed": 680141,
+  "EOS_Completed": 6088,
+  "EOS_NewPlayers": 541,
+  "EOS_NewCompleters": 23,
+  "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:41.517991+00:00",
@@ -4496,6 +4496,11 @@
       "Time": "2023-05-09T09:07:38.9601418+00:00",
       "NumProgressed": 680140,
       "NumCompleted": 6087
+    },
+    {
+      "Time": "2023-05-09T10:06:19.8229301+00:00",
+      "NumProgressed": 680141,
+      "NumCompleted": 6088
     }
   ],
   "TotalAchievements": 49,
@@ -4547,7 +4552,7 @@
       "Name": "Haste of Hermes",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 74815
+      "UsersEstimate": 74816
     },
     {
       "ID": "AchCerberusPets",
@@ -4571,7 +4576,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 544112
+      "UsersEstimate": 544113
     },
     {
       "ID": "AchClearElysium",
@@ -4579,7 +4584,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 448892
+      "UsersEstimate": 448893
     },
     {
       "ID": "AchClearElysiumEM",
@@ -4603,7 +4608,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 142829
+      "UsersEstimate": 142830
     },
     {
       "ID": "AchClearTartarus",
@@ -4675,7 +4680,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 462495
+      "UsersEstimate": 462496
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -4731,7 +4736,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 428488
+      "UsersEstimate": 428489
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -4779,7 +4784,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 244850
+      "UsersEstimate": 244851
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -4819,7 +4824,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 176836
+      "UsersEstimate": 176837
     },
     {
       "ID": "AchReachedEpilogue",
@@ -4867,7 +4872,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 482899
+      "UsersEstimate": 482900
     },
     {
       "ID": "AchWeaponClears",
@@ -4898,15 +4903,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 680140,
-      "Completed": 6087
+      "Progressed": 680141,
+      "Completed": 6088
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-05-08T16:59:14.0456137+00:00",
-  "LastChanged_Achievements": "2023-05-09T09:07:38.9601413+00:00",
+  "LastChanged_Achievements": "2023-05-09T10:06:19.82293+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:56.9682541+00:00",
-  "LastUpdate_Ratings": "2023-05-09T08:59:14.4623108+00:00",
-  "LastUpdate_Achievements": "2023-05-09T09:07:38.9601897+00:00"
+  "LastUpdate_Ratings": "2023-05-09T09:59:01.5471743+00:00",
+  "LastUpdate_Achievements": "2023-05-09T10:06:19.8229663+00:00"
 }

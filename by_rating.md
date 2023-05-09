@@ -122,7 +122,7 @@
 | 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 321 |
 | 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,627 | 111 |
 | 115 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 490 |
-| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,923 | 39 |
+| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,947 | 39 |
 | 115 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 490 |
 | 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 490 |
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 465 |
@@ -279,7 +279,7 @@
 | 270 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.66 | 0 | 490 |
 | 270 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 490 |
 | 270 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 490 |
-| 270 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,036 | 132 |
+| 270 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,037 | 131 |
 | 270 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 548 | 173 |
 | 270 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 465 |
 | 270 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 421 | 191 |
@@ -538,7 +538,7 @@
 | 534 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 490 |
 | 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 88 | 336 |
 | 534 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
-| 534 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,617 | 12 |
+| 534 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,645 | 12 |
 | 534 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
 | 534 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,294 | 95 |
 | 534 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |
@@ -719,20 +719,20 @@
 | 715 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 49 | 389 |
 | 715 | [Encased](games/e/encased.md) | 4.35 | 125 | 297 |
 | 715 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 257 |
-| 715 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.35 | 0 | 490 |
 | 715 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 490 |
 | 715 | [Paladins](games/p/paladins.md) | 4.35 | 3,210 | 82 |
 | 715 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 413 |
-| 724 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 490 |
-| 724 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 453 |
-| 724 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 490 |
-| 724 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 490 |
-| 724 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 490 |
-| 724 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 490 |
-| 724 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,881 | 62 |
-| 724 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 242 |
-| 724 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
-| 724 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 62 | 373 |
+| 723 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 490 |
+| 723 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 453 |
+| 723 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 490 |
+| 723 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 490 |
+| 723 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.34 | 0 | 490 |
+| 723 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 490 |
+| 723 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 490 |
+| 723 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,881 | 62 |
+| 723 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 242 |
+| 723 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
+| 723 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 62 | 373 |
 | 734 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 490 |
 | 734 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
 | 734 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 0 | 490 |

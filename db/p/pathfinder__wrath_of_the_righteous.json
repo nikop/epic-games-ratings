@@ -2212,10 +2212,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6592,
       "NumberOfAwardsMax": 1627
+    },
+    {
+      "Time": "2023-05-09T09:59:37.0080283+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6593,
+      "NumberOfAwardsMax": 1627
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6592,
+  "NumberOfAwards": 6593,
   "NumberOfAwardsMax": 1627,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2241,7 +2247,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 601
+      "Count": 602
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2286,9 +2292,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8718,
+  "EOS_Progressed": 8720,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3121,6 +3127,11 @@
       "Time": "2023-05-09T08:06:52.5904873+00:00",
       "NumProgressed": 8718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T10:06:36.4902807+00:00",
+      "NumProgressed": 8720,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3140,7 +3151,7 @@
       "Name": "Burning City",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4059,21 +4070,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7500,
+      "Progressed": 7502,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8718,
+      "Progressed": 8720,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-09T02:00:52.1337756+00:00",
-  "LastChanged_Achievements": "2023-05-09T09:08:01.2170903+00:00",
+  "LastChanged": "2023-05-09T09:59:37.0080282+00:00",
+  "LastChanged_Achievements": "2023-05-09T10:06:36.4902804+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:00:11.3969809+00:00",
-  "LastUpdate_Achievements": "2023-05-09T09:08:01.2172758+00:00"
+  "LastUpdate_Ratings": "2023-05-09T09:59:37.0080286+00:00",
+  "LastUpdate_Achievements": "2023-05-09T10:06:36.4904338+00:00"
 }

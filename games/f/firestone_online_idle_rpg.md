@@ -51,12 +51,12 @@ Rating: 3.40 (Ranked 918)
 | Master Enchanter | 0.90% | ~8 |
 | Weekly Quest Completionist | 0.80% | ~7 |
 | Dragon Slayer | 0.60% | ~6 |
+| Challenger | 0.50% | ~5 |
 | Enchanting skill | 0.50% | ~5 |
 | Engineer Mastery | 0.50% | ~5 |
 | Legendary | 0.50% | ~5 |
 | Sailor | 0.50% | ~5 |
 | Blueprint Upgrades | 0.40% | ~4 |
-| Challenger | 0.40% | ~4 |
 | Crystal Mining | 0.40% | ~4 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |

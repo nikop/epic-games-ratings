@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 3.79,
   "RatingHistory": [
@@ -296,9 +296,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1235,
+  "EOS_Progressed": 1236,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -376,6 +376,11 @@
       "Time": "2023-05-07T18:08:30.5108945+00:00",
       "NumProgressed": 1235,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-09T10:06:53.5842306+00:00",
+      "NumProgressed": 1236,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 38,
@@ -387,7 +392,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -395,7 +400,7 @@
       "Name": "Great Doctor",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -435,7 +440,7 @@
       "Name": "K.O.!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -443,7 +448,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -497,9 +502,9 @@
       "ID": "ACHIEVEMENTS_15",
       "SetID": "d4o538a",
       "Name": "Friendly",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 556
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -523,7 +528,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -539,7 +544,7 @@
       "Name": "Decorative Mind",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -555,7 +560,7 @@
       "Name": "The Capitalist",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -619,7 +624,7 @@
       "Name": "Animal Exterminator",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENTS_31",
@@ -651,7 +656,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -690,7 +695,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1235,
+      "Progressed": 1236,
       "Completed": 5
     }
   ],
@@ -698,8 +703,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-09T09:08:23.9835967+00:00",
+  "LastChanged_Achievements": "2023-05-09T10:06:53.5842302+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:26.1702619+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:02:51.0353867+00:00",
-  "LastUpdate_Achievements": "2023-05-09T09:08:23.9836247+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:01:25.0713012+00:00",
+  "LastUpdate_Achievements": "2023-05-09T10:06:53.5842522+00:00"
 }

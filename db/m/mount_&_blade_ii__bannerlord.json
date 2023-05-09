@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.74,
   "NumberOfRatings": 5603,
@@ -3871,9 +3871,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49278,
+  "EOS_Progressed": 49281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5416,6 +5416,11 @@
       "Time": "2023-05-09T09:08:13.7863256+00:00",
       "NumProgressed": 49278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T10:06:46.0050153+00:00",
+      "NumProgressed": 49281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5435,7 +5440,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6406
+      "UsersEstimate": 6407
     },
     {
       "ID": "Bannerlord",
@@ -5467,7 +5472,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "Catch",
@@ -5555,7 +5560,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5913
+      "UsersEstimate": 5914
     },
     {
       "ID": "Great Granny",
@@ -5659,7 +5664,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17247
+      "UsersEstimate": 17248
     },
     {
       "ID": "Lawmaker",
@@ -5667,7 +5672,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10348
+      "UsersEstimate": 10349
     },
     {
       "ID": "Long live the Empire",
@@ -5779,7 +5784,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7884
+      "UsersEstimate": 7885
     },
     {
       "ID": "This Is Our Land",
@@ -5834,15 +5839,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49278,
+      "Progressed": 49281,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-09T02:02:34.5050878+00:00",
-  "LastChanged_Achievements": "2023-05-09T09:08:13.7863251+00:00",
+  "LastChanged_Achievements": "2023-05-09T10:06:46.0050151+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:01:59.7444302+00:00",
-  "LastUpdate_Achievements": "2023-05-09T09:08:13.7864022+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:00:49.6867734+00:00",
+  "LastUpdate_Achievements": "2023-05-09T10:06:46.0050568+00:00"
 }
