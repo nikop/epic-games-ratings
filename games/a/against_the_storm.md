@@ -26,6 +26,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 0.50% | ~74 |
 | Cursed Lands | 0.50% | ~74 |
 | Serving Ale | 0.40% | ~59 |
+| Refinery | 0.40% | ~59 |
 | Dangerous Lands | 0.40% | ~59 |
 | Haunted Forest | 0.40% | ~59 |
 | Levitating Monument | 0.40% | ~59 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 0.40% | ~59 |
 | A Real Challenge | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
-| Refinery | 0.30% | ~44 |
 | Against All Odds | 0.30% | ~44 |
 | Fishmen Ritual Site | 0.30% | ~44 |
 | Forbidden Lands | 0.30% | ~44 |

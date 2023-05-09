@@ -439,8 +439,8 @@
 | 429 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 426 |
 | 429 | [Hob](games/h/hob.md) | 4.57 | 0 | 490 |
 | 429 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 420 |
-| 429 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,253 | 42 |
-| 429 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,041 | 85 |
+| 429 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,259 | 42 |
+| 429 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,046 | 85 |
 | 429 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 117 | 305 |
 | 429 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,221 | 19 |
 | 429 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,738 | 109 |
@@ -721,7 +721,7 @@
 | 715 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 257 |
 | 715 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.35 | 0 | 490 |
 | 715 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 490 |
-| 715 | [Paladins](games/p/paladins.md) | 4.35 | 3,206 | 82 |
+| 715 | [Paladins](games/p/paladins.md) | 4.35 | 3,210 | 82 |
 | 715 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 413 |
 | 724 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 490 |
 | 724 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 453 |

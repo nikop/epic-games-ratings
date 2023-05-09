@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.77,
   "NumberOfRatings": 45,
@@ -136,9 +136,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1147,
+  "EOS_Progressed": 1148,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -291,6 +291,11 @@
       "Time": "2023-05-09T02:07:59.8621362+00:00",
       "NumProgressed": 1147,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-09T07:07:47.5425491+00:00",
+      "NumProgressed": 1148,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -364,9 +369,9 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -374,7 +379,7 @@
       "Name": "Passing Shadow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -470,7 +475,7 @@
       "Name": "How Romantic!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_maimedHero",
@@ -494,7 +499,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -564,17 +569,17 @@
       "ID": "completedStory_procedural",
       "SetID": "95dc8p",
       "Name": "A Story of Heroes",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 69
     },
     {
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 241
     },
     {
       "ID": "completedStory_vultureLord",
@@ -749,15 +754,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1147,
+      "Progressed": 1148,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:07:55.058504+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:07:47.5425488+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:03:19.5706795+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:07:55.0585673+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:03:11.1600609+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:07:47.5425928+00:00"
 }

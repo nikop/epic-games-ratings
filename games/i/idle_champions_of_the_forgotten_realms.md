@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.40% | ~348 |
 | Mad Cow Disease | 0.40% | ~348 |
 | Friendly Imps | 0.40% | ~348 |
+| Pure Energy | 0.40% | ~348 |
 | Maddening | 0.30% | ~261 |
 | Owlbear Necessities | 0.30% | ~160 |
 | Best Thay Ever | 0.30% | ~160 |
@@ -41,7 +42,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.30% | ~261 |
 | Waterdeep Detours | 0.30% | ~261 |
 | Underdeep Cartography | 0.30% | ~261 |
-| Pure Energy | 0.30% | ~261 |
 | Pros and CONs | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~106 |
 | The Witchlight Carnival | 0.20% | ~106 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,930 (Ranked 59)  
+Progressed: 86,931 (Ranked 59)  
 Completed: 1,817 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,817 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,930 | 1,817 |
+| 2023-05-09 | 86,931 | 1,817 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

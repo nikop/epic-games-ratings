@@ -4,7 +4,7 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -291,8 +291,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:08:27.2507725+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:08:20.1459851+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.2649689+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:02:34.7264464+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:08:27.2507943+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:02:18.5194626+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:08:20.1460084+00:00"
 }

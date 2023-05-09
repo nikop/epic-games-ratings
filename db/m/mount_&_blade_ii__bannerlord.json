@@ -3871,9 +3871,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49270,
+  "EOS_Progressed": 49271,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5401,6 +5401,11 @@
       "Time": "2023-05-09T06:08:25.9783872+00:00",
       "NumProgressed": 49270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T07:08:18.8464765+00:00",
+      "NumProgressed": 49271,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5540,7 +5545,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5912
+      "UsersEstimate": 5913
     },
     {
       "ID": "Great Granny",
@@ -5604,7 +5609,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7390
+      "UsersEstimate": 7391
     },
     {
       "ID": "Kingslayer",
@@ -5636,15 +5641,15 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14288
+      "UsersEstimate": 14289
     },
     {
       "ID": "Lawbringer",
       "SetID": "den0lp1",
       "Name": "Lawbringer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 16752
+      "UsersEstimate": 17245
     },
     {
       "ID": "Lawmaker",
@@ -5819,15 +5824,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49270,
+      "Progressed": 49271,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-09T02:02:34.5050878+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:08:25.9783868+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:08:18.8464762+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:02:14.1266258+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:08:25.9784497+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:01:57.4998636+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:08:18.846528+00:00"
 }

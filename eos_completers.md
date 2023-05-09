@@ -3,7 +3,7 @@
 | 1 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 33.33% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 2 | [Overloop](games/o/overloop.md) | 25.00% |
-| 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.69% |
+| 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
 | 5 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 7 | [Island Cities](games/i/island_cities.md) | 18.75% |
@@ -56,7 +56,7 @@
 | 54 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 55 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
 | 56 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
-| 57 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.22% |
+| 57 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.17% |
 | 58 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 59 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 60 | [Sifu](games/s/sifu.md) | 1.81% |

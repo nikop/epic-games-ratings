@@ -188,9 +188,9 @@
       "Count": 168
     }
   ],
-  "EOS_Progressed": 401850,
+  "EOS_Progressed": 401858,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 2497,
+  "EOS_NewPlayers": 2488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1818,6 +1818,11 @@
       "Time": "2023-05-09T06:08:20.6122183+00:00",
       "NumProgressed": 401850,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-09T07:08:13.415231+00:00",
+      "NumProgressed": 401858,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 52,
@@ -1837,7 +1842,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40185
+      "UsersEstimate": 40186
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -1853,7 +1858,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36166
+      "UsersEstimate": 36167
     },
     {
       "ID": "BIGUPS",
@@ -1901,7 +1906,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20092
+      "UsersEstimate": 20093
     },
     {
       "ID": "CHAPTER3",
@@ -1965,7 +1970,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -2244,7 +2249,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 401850,
+      "Progressed": 401858,
       "Completed": 29
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-07T07:00:48.9736863+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:08:20.6122177+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:08:13.4152306+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.9786833+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:01:58.1282403+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:08:20.6122854+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:01:41.0964+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:08:13.4152963+00:00"
 }

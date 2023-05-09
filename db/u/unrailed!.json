@@ -2273,9 +2273,9 @@
       "Count": 142
     }
   ],
-  "EOS_Progressed": 587376,
+  "EOS_Progressed": 587381,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3077,
+  "EOS_NewPlayers": 3074,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3903,6 +3903,11 @@
       "Time": "2023-05-09T06:08:02.4910634+00:00",
       "NumProgressed": 587376,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-09T07:07:54.9515861+00:00",
+      "NumProgressed": 587381,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 52,
@@ -3914,7 +3919,7 @@
       "Name": "Stroller",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 70485
+      "UsersEstimate": 70486
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -3954,7 +3959,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 76359
+      "UsersEstimate": 76360
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -4162,7 +4167,7 @@
       "Name": "Incurious",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 76359
+      "UsersEstimate": 76360
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -4234,7 +4239,7 @@
       "Name": "Climate Change",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 70485
+      "UsersEstimate": 70486
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -4329,15 +4334,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 587376,
+      "Progressed": 587381,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-05-08T13:59:04.5727652+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:08:02.4910628+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:07:54.9515857+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:40.607805+00:00",
-  "LastUpdate_Ratings": "2023-05-09T05:59:10.1908326+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:08:02.4911312+00:00"
+  "LastUpdate_Ratings": "2023-05-09T06:58:45.577882+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:07:54.9516501+00:00"
 }

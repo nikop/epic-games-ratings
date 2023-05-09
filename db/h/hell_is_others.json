@@ -342,9 +342,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248215,
+  "EOS_Progressed": 248217,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1937,6 +1937,11 @@
       "Time": "2023-05-09T06:08:37.7276566+00:00",
       "NumProgressed": 248215,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T07:08:30.7406598+00:00",
+      "NumProgressed": 248217,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2220,7 +2225,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7446
+      "UsersEstimate": 7447
     },
     {
       "ID": "KillOtherWithMine",
@@ -2236,7 +2241,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52125
+      "UsersEstimate": 52126
     },
     {
       "ID": "KillOthers2",
@@ -2395,7 +2400,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248215,
+      "Progressed": 248217,
       "Completed": 1
     }
   ],
@@ -2403,8 +2408,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-08T02:02:56.6706281+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:08:37.7276561+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:08:30.7406595+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:02:52.8843218+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:08:37.7277284+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:02:40.6593414+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:08:30.7407189+00:00"
 }

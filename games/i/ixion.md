@@ -8,6 +8,7 @@ Rating: 4.54 (Ranked 477)
 | Without Breaking Some Eggs... | 0.70% | ~13 |
 | The Ship of Theseus | 0.60% | ~11 |
 | Wakey Wakey | 0.50% | ~9 |
+| Sputnik 2049 | 0.40% | ~7 |
 | A Thousand Strong | 0.40% | ~7 |
 | Exceeding Capacity | 0.40% | ~7 |
 | Fully Recycled | 0.40% | ~7 |
@@ -17,7 +18,6 @@ Rating: 4.54 (Ranked 477)
 | Convenient Transport | 0.40% | ~7 |
 | Infinite Growth... | 0.30% | ~6 |
 | Space Society | 0.30% | ~6 |
-| Sputnik 2049 | 0.30% | ~6 |
 | Power Outage | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |

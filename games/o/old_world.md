@@ -6,25 +6,25 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,047 |
-| Settler | 82.00% | ~8,938 |
-| Explorer | 80.00% | ~8,720 |
-| Friendly Family | 76.00% | ~8,284 |
-| Intrepid | 70.00% | ~7,630 |
-| Able | 62.00% | ~6,758 |
-| Architect | 62.00% | ~6,758 |
-| Mason | 62.00% | ~6,758 |
-| Strong | 61.00% | ~6,649 |
-| Hanging Gardens | 60.00% | ~6,540 |
-| Noble | 59.00% | ~6,431 |
-| Oracle | 59.00% | ~6,431 |
-| Good | 57.00% | ~6,213 |
-| Just | 56.00% | ~6,104 |
-| Judaism | 56.00% | ~6,104 |
-| Keystone | 55.00% | ~5,995 |
-| Glorious | 53.00% | ~5,777 |
-| Trade Caravan | 53.00% | ~5,777 |
-| Naming Landmarks | 51.00% | ~5,559 |
+| Play a Single Player Game | 83.00% | ~9,048 |
+| Settler | 82.00% | ~8,939 |
+| Explorer | 80.00% | ~8,721 |
+| Friendly Family | 76.00% | ~8,285 |
+| Intrepid | 70.00% | ~7,631 |
+| Able | 62.00% | ~6,759 |
+| Architect | 62.00% | ~6,759 |
+| Mason | 62.00% | ~6,759 |
+| Strong | 61.00% | ~6,650 |
+| Hanging Gardens | 60.00% | ~6,541 |
+| Noble | 59.00% | ~6,432 |
+| Oracle | 59.00% | ~6,432 |
+| Good | 57.00% | ~6,214 |
+| Just | 56.00% | ~6,105 |
+| Judaism | 56.00% | ~6,105 |
+| Keystone | 55.00% | ~5,996 |
+| Glorious | 53.00% | ~5,778 |
+| Trade Caravan | 53.00% | ~5,778 |
+| Naming Landmarks | 51.00% | ~5,560 |
 | Learned | 50.00% | ~5,450 |
 | Zoroastrianism | 50.00% | ~5,450 |
 | Fountainhead | 49.00% | ~5,341 |
@@ -225,13 +225,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | I am the Archon Now | 0.60% | ~65 |
 | Unfinished Business | 0.60% | ~65 |
 | Philip's Bronze Crown | 0.60% | ~65 |
-| Gold Victory (Carthage 3) | 0.50% | ~54 |
-| Rebuilder | 0.50% | ~54 |
-| Philip's Silver Crown | 0.50% | ~54 |
-| Mighty Bucephalus | 0.50% | ~54 |
-| Knot So Hard | 0.50% | ~54 |
-| Learn By Playing 2 - Just | 0.50% | ~54 |
-| No Characters | 0.50% | ~54 |
+| Gold Victory (Carthage 3) | 0.50% | ~55 |
+| Rebuilder | 0.50% | ~55 |
+| Philip's Silver Crown | 0.50% | ~55 |
+| Mighty Bucephalus | 0.50% | ~55 |
+| Knot So Hard | 0.50% | ~55 |
+| Learn By Playing 2 - Just | 0.50% | ~55 |
+| No Characters | 0.50% | ~55 |
 | Bronze Victory (Carthage 4) | 0.40% | ~44 |
 | Silver Victory (Carthage 4) | 0.40% | ~44 |
 | Avenger | 0.40% | ~44 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~11 |
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,900 (Ranked 104)  
+Progressed: 10,901 (Ranked 104)  
 Completed: 2 (0.02%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2 (0.02%) (Ranked 178)
 | 2023-05-06 | 10,827 | 2 |
 | 2023-05-07 | 10,863 | 2 |
 | 2023-05-08 | 10,898 | 2 |
-| 2023-05-09 | 10,900 | 2 |
+| 2023-05-09 | 10,901 | 2 |
 ## Awards
 Max (Relaxing): 216  (Ranked 248)  
 Sum: 1,756 (Ranked 197)  

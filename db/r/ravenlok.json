@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "RatingHistory": [
     {
       "Time": "2023-05-04T05:57:24.2490301+00:00",
@@ -742,9 +742,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 147
     },
     {
       "ID": "15",
@@ -798,9 +798,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 147
     },
     {
       "ID": "21",
@@ -910,25 +910,25 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 247
     },
     {
       "ID": "34",
       "SetID": "d0g98p",
       "Name": "Glimmer of Hope",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 195
     },
     {
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "36",
@@ -1014,9 +1014,9 @@
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 137
     },
     {
       "ID": "46",
@@ -1111,8 +1111,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:07:42.9515521+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:07:35.4958126+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-09T05:59:22.5997094+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:07:42.9516001+00:00"
+  "LastUpdate_Ratings": "2023-05-09T06:58:58.5465164+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:07:35.4958565+00:00"
 }

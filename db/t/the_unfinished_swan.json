@@ -4,7 +4,7 @@
   "ProductSlug": "the-unfinished-swan",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.6848788+00:00",
   "LastChanged": "2023-03-31T05:57:10.6848789+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:29.700367+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:00:17.4476+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:05:05.9280638+00:00"
+  "LastUpdate_Ratings": "2023-05-09T06:59:58.4088418+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:04:38.2027219+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 3.4,
   "RatingHistory": [
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1243,6 +1243,11 @@
       "Time": "2023-05-09T06:08:03.7559266+00:00",
       "NumProgressed": 927,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T07:07:56.1491408+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1500,9 +1505,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 111
     },
     {
       "ID": "howdoyouturnthison",
@@ -1612,9 +1617,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 28
     },
     {
       "ID": "mythicpower",
@@ -1814,7 +1819,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "warmachinesarmy",
@@ -1846,14 +1851,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 1
     }
   ],
@@ -1861,8 +1866,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:08:03.7559255+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:07:56.1491403+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:00:00.4516993+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:08:03.7560295+00:00"
+  "LastUpdate_Ratings": "2023-05-09T06:59:41.1981877+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:07:56.1492271+00:00"
 }

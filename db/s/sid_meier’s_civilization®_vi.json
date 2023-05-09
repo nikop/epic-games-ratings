@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.74,
   "NumberOfRatings": 57866,
@@ -5022,10 +5022,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 254839,
       "NumberOfAwardsMax": 30827
+    },
+    {
+      "Time": "2023-05-09T06:59:44.1053951+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 254953,
+      "NumberOfAwardsMax": 30827
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254839,
+  "NumberOfAwards": 254953,
   "NumberOfAwardsMax": 30827,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5063,13 +5069,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26191
+      "Count": 26230
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 27100
+      "Count": 27152
     },
     {
       "Text": "This game has Competitive Players",
@@ -5081,7 +5087,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23287
+      "Count": 23310
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5107,8 +5113,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-05-09T06:00:03.3057298+00:00",
+  "LastChanged": "2023-05-09T06:59:44.1053948+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:19.5857001+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:00:03.3057305+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:03:31.6251803+00:00"
+  "LastUpdate_Ratings": "2023-05-09T06:59:44.1053956+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:03:23.8651239+00:00"
 }

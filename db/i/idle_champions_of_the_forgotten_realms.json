@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3596,10 +3596,10 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86930,
+  "EOS_Progressed": 86931,
   "EOS_Completed": 1817,
-  "EOS_NewPlayers": 691,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 688,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5180,6 +5180,11 @@
     {
       "Time": "2023-05-09T06:08:41.9011703+00:00",
       "NumProgressed": 86930,
+      "NumCompleted": 1817
+    },
+    {
+      "Time": "2023-05-09T07:08:35.7171904+00:00",
+      "NumProgressed": 86931,
       "NumCompleted": 1817
     }
   ],
@@ -8934,9 +8939,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_902",
@@ -9103,21 +9108,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53204,
+      "Progressed": 53205,
       "Completed": 2482
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86930,
+      "Progressed": 86931,
       "Completed": 1817
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-09T06:08:41.9011698+00:00",
+  "LastChanged_Achievements": "2023-05-09T07:08:35.7171901+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:00:05.0538156+00:00",
-  "LastUpdate_Achievements": "2023-05-09T06:08:41.9040547+00:00"
+  "LastUpdate_Ratings": "2023-05-09T06:59:45.7675959+00:00",
+  "LastUpdate_Achievements": "2023-05-09T07:08:35.7197209+00:00"
 }

@@ -13,16 +13,16 @@
 | Vibing | 60.00% | ~316 |
 | Fun Guy | 60.00% | ~316 |
 | Tragic Brave | 51.00% | ~268 |
-| Awakened Spirits | 46.00% | ~242 |
+| Awakened Spirits | 47.00% | ~247 |
 | Little Shop | 45.00% | ~237 |
 | Surprise! | 41.00% | ~216 |
 | An Actor! | 41.00% | ~216 |
 | Curtain Call | 39.00% | ~205 |
 | Piece of Cake | 37.00% | ~195 |
+| Glimmer of Hope | 37.00% | ~195 |
 | Well Rested | 37.00% | ~195 |
 | Gooey Delight! | 36.00% | ~189 |
-| Glimmer of Hope | 36.00% | ~189 |
-| Teacups for Toppy | 35.00% | ~184 |
+| Teacups for Toppy | 36.00% | ~189 |
 | Nightmare Fuel | 34.00% | ~179 |
 | Take Heart | 34.00% | ~179 |
 | The Guardian | 34.00% | ~179 |
@@ -34,16 +34,16 @@
 | Spellbound | 29.00% | ~153 |
 | All Skilled Up! | 29.00% | ~153 |
 | Extinct Again! | 28.00% | ~147 |
-| Bird of Prey | 27.00% | ~142 |
-| Stardust | 27.00% | ~142 |
+| Bird of Prey | 28.00% | ~147 |
+| Stardust | 28.00% | ~147 |
 | Heartbreaker | 27.00% | ~142 |
 | Kidnapped! | 27.00% | ~142 |
 | Pull the Plug | 26.00% | ~137 |
 | All Heart | 26.00% | ~137 |
 | Trick Question! | 26.00% | ~137 |
+| Extraordinary! | 26.00% | ~137 |
 | Soul Slayer | 25.00% | ~132 |
 | The Downfall | 25.00% | ~132 |
-| Extraordinary! | 25.00% | ~132 |
 | Final Showdown | 25.00% | ~132 |
 | Spot of Tea? | 25.00% | ~132 |
 | Going Home | 25.00% | ~132 |
