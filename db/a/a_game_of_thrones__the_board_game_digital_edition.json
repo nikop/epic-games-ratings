@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 40,
   "Rating": 4.2,
   "NumberOfRatings": 2500,
@@ -1230,7 +1230,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11563,
+  "EOS_Progressed": 11566,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 2,
@@ -2800,6 +2800,11 @@
       "Time": "2023-05-09T08:07:04.9618313+00:00",
       "NumProgressed": 11563,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-09T09:08:17.1003398+00:00",
+      "NumProgressed": 11566,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2819,7 +2824,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "1017",
@@ -2827,7 +2832,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "1018",
@@ -2907,7 +2912,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "1028",
@@ -2915,7 +2920,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "1029",
@@ -2931,7 +2936,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "1031",
@@ -2939,7 +2944,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "1032",
@@ -2947,7 +2952,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4625
+      "UsersEstimate": 4626
     },
     {
       "ID": "1033",
@@ -2977,24 +2982,24 @@
       "ID": "1036",
       "SetID": "9l3d3cl",
       "Name": "A Long Journey",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 925
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11563,
+      "Progressed": 11566,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-09T08:07:04.961831+00:00",
+  "LastChanged_Achievements": "2023-05-09T09:08:17.1003394+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-09T08:01:30.0958483+00:00",
-  "LastUpdate_Achievements": "2023-05-09T08:07:04.9618568+00:00"
+  "LastUpdate_Ratings": "2023-05-09T09:02:37.8661828+00:00",
+  "LastUpdate_Achievements": "2023-05-09T09:08:17.1003855+00:00"
 }

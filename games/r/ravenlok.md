@@ -28,9 +28,9 @@
 | The Guardian | 34.00% | ~179 |
 | Ancient Wisdom | 32.00% | ~169 |
 | Frog Facts! | 32.00% | ~169 |
+| All That Glistens | 32.00% | ~169 |
 | Stronger! | 32.00% | ~169 |
 | It's Pointy! | 32.00% | ~169 |
-| All That Glistens | 31.00% | ~163 |
 | Spellbound | 29.00% | ~153 |
 | All Skilled Up! | 29.00% | ~153 |
 | Extinct Again! | 28.00% | ~148 |
@@ -39,10 +39,10 @@
 | Heartbreaker | 28.00% | ~148 |
 | Kidnapped! | 28.00% | ~148 |
 | Pull the Plug | 26.00% | ~137 |
+| Soul Slayer | 26.00% | ~137 |
 | All Heart | 26.00% | ~137 |
 | Trick Question! | 26.00% | ~137 |
 | Extraordinary! | 26.00% | ~137 |
-| Soul Slayer | 25.00% | ~132 |
 | The Downfall | 25.00% | ~132 |
 | Final Showdown | 25.00% | ~132 |
 | Spot of Tea? | 25.00% | ~132 |

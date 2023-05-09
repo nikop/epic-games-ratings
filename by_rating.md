@@ -19,11 +19,11 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,015 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 293 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 250 | 237 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,975 | 73 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,976 | 73 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,298 | 34 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 472 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 490 |
-| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,374 | 117 |
+| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,375 | 117 |
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,347 | 31 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,005 | 136 |
 | 27 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 490 |
@@ -149,7 +149,7 @@
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 589 | 166 |
 | 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,500 | 49 |
 | 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
-| 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,827 | 13 |
+| 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,870 | 13 |
 | 141 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 490 |
 | 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 490 |
 | 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 750 | 149 |
@@ -234,7 +234,7 @@
 | 213 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 770 | 146 |
 | 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,320 | 80 |
 | 233 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 490 |
-| 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,011 | 87 |
+| 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,012 | 87 |
 | 233 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 490 |
 | 233 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 644 | 161 |
 | 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 363 |
@@ -472,7 +472,7 @@
 | 467 | [Hue](games/h/hue.md) | 4.55 | 0 | 490 |
 | 467 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 439 |
 | 467 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 490 |
-| 467 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 838 | 145 |
+| 467 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 839 | 145 |
 | 467 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 433 |
 | 467 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 490 |
 | 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,140 | 125 |
@@ -819,7 +819,7 @@
 | 816 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 490 |
 | 816 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 431 |
 | 816 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 0 | 490 |
-| 816 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,977 | 4 |
+| 816 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 182,033 | 4 |
 | 816 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 490 |
 | 816 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 459 |
 | 823 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 89 | 335 |
@@ -913,7 +913,7 @@
 | 911 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 49 | 389 |
 | 912 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
 | 912 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
-| 914 | [Poker Club](games/p/poker_club.md) | 3.74 | 0 | 490 |
+| 914 | [Poker Club](games/p/poker_club.md) | 3.73 | 0 | 490 |
 | 915 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
 | 916 | [Adios](games/a/adios.md) | 3.48 | 0 | 490 |
 | 917 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 490 |

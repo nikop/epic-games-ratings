@@ -7,7 +7,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Kickstarter Backer | 82.00% | ~882 |
-| Completed Act I | 30.00% | ~322 |
+| Completed Act I | 30.00% | ~323 |
 | 5 Upgrades in Stronghold | 25.00% | ~269 |
 | First 5 Levels of Od Nua | 24.00% | ~258 |
 | Make an Adventurer | 23.00% | ~247 |
@@ -30,8 +30,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Fish Guts and Murder | 8.00% | ~86 |
 | Alchemist | 7.00% | ~75 |
 | The Siege of Crägholdt | 7.00% | ~75 |
-| A Voice from the Deep | 6.00% | ~64 |
-| Called to their Labor | 6.00% | ~64 |
+| A Voice from the Deep | 6.00% | ~65 |
+| Called to their Labor | 6.00% | ~65 |
 | From the Clouds to the Depths | 5.00% | ~54 |
 | Explorer | 5.00% | ~54 |
 | Chef | 4.00% | ~43 |
@@ -55,13 +55,14 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075 (Ranked 159)  
+Progressed: 1,076 (Ranked 159)  
 Completed: 4 (0.37%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,074 | 4 |
 | 2023-05-04 | 1,075 | 4 |
+| 2023-05-09 | 1,076 | 4 |
 ## Awards
 Max (Character Customization): 1,869  (Ranked 104)  
 Sum: 4,596 (Ranked 126)  

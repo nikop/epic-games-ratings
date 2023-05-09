@@ -4,7 +4,7 @@
   "ProductSlug": "merrily-perilly-99353b",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.4243072+00:00",
   "LastChanged": "2023-03-31T05:56:58.4243073+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:19.3908891+00:00",
-  "LastUpdate_Ratings": "2023-05-09T07:59:28.5463943+00:00",
-  "LastUpdate_Achievements": "2023-05-09T08:02:05.0403719+00:00"
+  "LastUpdate_Ratings": "2023-05-09T08:59:49.3446371+00:00",
+  "LastUpdate_Achievements": "2023-05-09T09:03:23.2531412+00:00"
 }

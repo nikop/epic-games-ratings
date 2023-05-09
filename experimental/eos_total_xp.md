@@ -389,6 +389,7 @@
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
 | [Tropico 6](../games/t/tropico_6.md) | 40 | 1,000 |
 | [Troublemaker](../games/t/troublemaker.md) | 25 | 1,000 |
+| [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](../games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 39 | 1,000 |
 | [Undead Horde](../games/u/undead_horde.md) | 24 | 1,000 |
 | [Unrailed!](../games/u/unrailed!.md) | 52 | 1,000 |
 | [Until the Last Plane](../games/u/until_the_last_plane.md) | 11 | 1,000 |

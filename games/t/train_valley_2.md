@@ -42,6 +42,7 @@ Number of Ratings: 87  (23.09.2022)
 | Ouroboros | 1.00% | ~7 |
 | Overseer | 1.00% | ~7 |
 | Relocation | 1.00% | ~7 |
+| Sabotage | 1.00% | ~7 |
 | Squander | 1.00% | ~7 |
 | Stargazer | 1.00% | ~7 |
 | The Tortoise | 1.00% | ~7 |
@@ -51,7 +52,6 @@ Number of Ratings: 87  (23.09.2022)
 | Globalisation Age | 0.90% | ~6 |
 | Missed it! | 0.90% | ~6 |
 | Prick of conscience | 0.90% | ~6 |
-| Sabotage | 0.90% | ~6 |
 | Astronomer | 0.70% | ~5 |
 | At the last moment! | 0.70% | ~5 |
 | Atomic Age | 0.70% | ~0 |

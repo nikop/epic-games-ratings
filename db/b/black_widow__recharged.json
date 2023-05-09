@@ -126,9 +126,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13916,
+  "EOS_Progressed": 13918,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1391,6 +1391,11 @@
       "Time": "2023-05-09T07:08:27.9027739+00:00",
       "NumProgressed": 13916,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-09T09:08:22.2630149+00:00",
+      "NumProgressed": 13918,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 14,
@@ -1402,7 +1407,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10994
+      "UsersEstimate": 10995
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -1426,7 +1431,7 @@
       "Name": "Danger Ahead",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3896
+      "UsersEstimate": 3897
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -1434,7 +1439,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -1458,7 +1463,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7375
+      "UsersEstimate": 7377
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -1482,7 +1487,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3896
+      "UsersEstimate": 3897
     },
     {
       "ID": "ACH_THE_FALL",
@@ -1506,22 +1511,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13916,
+      "Progressed": 13918,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
-  "LastChanged_Achievements": "2023-05-09T08:07:08.9902148+00:00",
+  "LastChanged_Achievements": "2023-05-09T09:08:22.2630142+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:28.2137622+00:00",
-  "LastUpdate_Ratings": "2023-05-09T08:01:45.1474143+00:00",
-  "LastUpdate_Achievements": "2023-05-09T08:07:08.990233+00:00"
+  "LastUpdate_Ratings": "2023-05-09T09:02:53.0079713+00:00",
+  "LastUpdate_Achievements": "2023-05-09T09:08:22.2630375+00:00"
 }

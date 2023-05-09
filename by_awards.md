@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,295,587 | 4.29 | 759 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 405,777 | 4.51 | 516 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 295,323 | 4.68 | 233 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,977 | 4.19 | 816 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,033 | 4.19 | 816 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 167,279 | 4.68 | 233 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 139,309 | 4.89 | 12 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 138,143 | 4.53 | 489 |
@@ -12,7 +12,7 @@
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,585 | 4.59 | 396 |
 | 11 | [VALORANT](games/v/valorant.md) | 51,780 | 4.54 | 477 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,617 | 4.50 | 534 |
-| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,827 | 4.74 | 141 |
+| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,870 | 4.74 | 141 |
 | 14 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 30,613 | 4.59 | 396 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,436 | 4.65 | 286 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,143 | 4.52 | 501 |
@@ -72,7 +72,7 @@
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,181 | 4.70 | 192 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,083 | 4.51 | 516 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,040 | 4.61 | 352 |
-| 73 | [God of War](games/g/god_of_war.md) | 3,975 | 4.88 | 18 |
+| 73 | [God of War](games/g/god_of_war.md) | 3,976 | 4.88 | 18 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,958 | 4.77 | 103 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,831 | 4.56 | 447 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,746 | 4.69 | 213 |
@@ -86,7 +86,7 @@
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,167 | 4.59 | 396 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,046 | 4.57 | 429 |
 | 86 | [Hades](games/h/hades.md) | 3,035 | 4.92 | 3 |
-| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,011 | 4.68 | 233 |
+| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,012 | 4.68 | 233 |
 | 88 | [Dead Island 2](games/d/dead_island_2.md) | 2,749 | 4.54 | 477 |
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,670 | 4.77 | 103 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,560 | 4.67 | 256 |
@@ -116,7 +116,7 @@
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,471 | 4.58 | 412 |
 | 115 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,440 | 4.79 | 91 |
 | 115 | [Celeste](games/c/celeste.md) | 1,440 | 4.92 | 3 |
-| 117 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,374 | 4.87 | 24 |
+| 117 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,375 | 4.87 | 24 |
 | 118 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,295 | 4.70 | 192 |
 | 119 | [DOOM 64](games/d/doom_64.md) | 1,286 | 4.66 | 270 |
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,271 | 4.82 | 60 |
@@ -144,7 +144,7 @@
 | 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 862 | 4.69 | 213 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 848 | 4.45 | 601 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 841 | 4.76 | 115 |
-| 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 838 | 4.55 | 467 |
+| 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 839 | 4.55 | 467 |
 | 146 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 770 | 4.69 | 213 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 768 | 4.74 | 141 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 752 | 4.50 | 534 |

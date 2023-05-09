@@ -56,13 +56,13 @@ Rating: 3.40 (Ranked 918)
 | Legendary | 0.50% | ~5 |
 | Sailor | 0.50% | ~5 |
 | Blueprint Upgrades | 0.40% | ~4 |
+| Challenger | 0.40% | ~4 |
 | Crystal Mining | 0.40% | ~4 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
 | The Alchemist | 0.40% | ~4 |
 | Transmute | 0.40% | ~4 |
 | Tree of Life | 0.40% | ~4 |
-| Challenger | 0.30% | ~3 |
 | Training makes a Pro player | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |

@@ -16,8 +16,8 @@ Rating: 4.60 (Ranked 376)
 | Horror of the Santa Maria | 9.00% | ~681 |
 | Liberty City State of Mind | 7.00% | ~529 |
 | With Extra Dip | 6.00% | ~454 |
+| The End of the Line | 6.00% | ~454 |
 | Original Gangster | 6.00% | ~454 |
-| The End of the Line | 5.00% | ~378 |
 | Saviour | 5.00% | ~378 |
 | They Can’t Stop All of Us | 4.00% | ~303 |
 | Rescue a Kitten Too? | 4.00% | ~303 |

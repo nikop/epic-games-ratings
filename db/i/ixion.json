@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1846,
+  "EOS_Progressed": 1847,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -446,6 +446,11 @@
       "Time": "2023-05-09T08:06:33.100484+00:00",
       "NumProgressed": 1846,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T09:07:35.4685128+00:00",
+      "NumProgressed": 1847,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -535,9 +540,9 @@
       "ID": "ACH_BASE_2",
       "SetID": "92iocjf",
       "Name": "Guy de Borderlands",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BASE_21",
@@ -599,9 +604,9 @@
       "ID": "ACH_BASE_28",
       "SetID": "92iocjf",
       "Name": "In Dolos We Trust",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_BASE_29",
@@ -839,9 +844,9 @@
       "ID": "ACH_BASE_6",
       "SetID": "92iocjf",
       "Name": "Hope Seeker",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BASE_60",
@@ -912,13 +917,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 3
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1846,
+      "Progressed": 1847,
       "Completed": 0
     }
   ],
@@ -926,8 +931,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-09T08:06:33.1004835+00:00",
+  "LastChanged_Achievements": "2023-05-09T09:07:35.4685124+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.0317624+00:00",
-  "LastUpdate_Ratings": "2023-05-09T07:59:52.7908744+00:00",
-  "LastUpdate_Achievements": "2023-05-09T08:06:33.100542+00:00"
+  "LastUpdate_Ratings": "2023-05-09T09:00:23.0989761+00:00",
+  "LastUpdate_Achievements": "2023-05-09T09:07:35.468585+00:00"
 }

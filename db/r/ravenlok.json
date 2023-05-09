@@ -763,9 +763,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 137
     },
     {
       "ID": "17",
@@ -875,9 +875,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 169
     },
     {
       "ID": "3",
@@ -1116,8 +1116,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-09T08:06:29.4279594+00:00",
+  "LastChanged_Achievements": "2023-05-09T09:07:30.891246+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-09T07:59:00.2079633+00:00",
-  "LastUpdate_Achievements": "2023-05-09T08:06:29.4279976+00:00"
+  "LastUpdate_Ratings": "2023-05-09T08:59:05.6360864+00:00",
+  "LastUpdate_Achievements": "2023-05-09T09:07:30.8912932+00:00"
 }

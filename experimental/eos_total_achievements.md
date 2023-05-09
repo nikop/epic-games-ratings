@@ -166,6 +166,7 @@
 | [Super Smash Asteroids](../games/s/super_smash_asteroids.md) | 39 | 1,000 |
 | [The Alto Collection](../games/t/the_alto_collection.md) | 39 | 1,000 |
 | [Train Valley](../games/t/train_valley.md) | 39 | 1,000 |
+| [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](../games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 39 | 1,000 |
 | [Chess Ultra](../games/c/chess_ultra.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |

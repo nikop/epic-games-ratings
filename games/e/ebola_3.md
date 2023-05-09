@@ -11,10 +11,10 @@
 | Mutation ✔ | 22.00% | ~34 |
 | Doberman ✔ | 12.00% | ~18 |
 | Survival ✔ | 7.00% | ~11 |
+| Master of Unlocking ✔ | 7.00% | ~11 |
 | Chess ✔ | 7.00% | ~11 |
 | Weapon ✔ | 7.00% | ~11 |
 | Hospital ✔ | 6.00% | ~9 |
-| Master of Unlocking ✔ | 6.00% | ~9 |
 | Antivirus ✔ | 5.00% | ~8 |
 | Betty ✔ | 5.00% | ~8 |
 | Brain ✔ | 5.00% | ~8 |

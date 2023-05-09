@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -82,9 +82,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -114,17 +114,17 @@
       "ID": "ACH_DEFEAT_ENEMEIS_WITH_FISTS",
       "SetID": "7i20me3",
       "Name": "Bringing guns to a sword fight",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -306,25 +306,25 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_REUNITE_WITH_BOJI",
@@ -362,9 +362,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-05-09T08:06:25.5261547+00:00",
+  "LastChanged_Achievements": "2023-05-09T09:07:25.3511097+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:11.0053311+00:00",
-  "LastUpdate_Ratings": "2023-05-09T07:59:19.3334467+00:00",
-  "LastUpdate_Achievements": "2023-05-09T08:06:25.5261898+00:00"
+  "LastUpdate_Ratings": "2023-05-09T08:59:35.3131031+00:00",
+  "LastUpdate_Achievements": "2023-05-09T09:07:25.3511594+00:00"
 }

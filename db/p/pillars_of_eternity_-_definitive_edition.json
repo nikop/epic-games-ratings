@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.65,
   "NumberOfRatings": 2847,
@@ -2392,9 +2392,9 @@
       "Count": 184
     }
   ],
-  "EOS_Progressed": 1075,
+  "EOS_Progressed": 1076,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2407,6 +2407,11 @@
       "Time": "2023-05-04T19:39:42.536731+00:00",
       "NumProgressed": 1075,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-09T09:07:41.1852279+00:00",
+      "NumProgressed": 1076,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -2418,7 +2423,7 @@
       "Name": "Completed Act I",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_02",
@@ -2578,7 +2583,7 @@
       "Name": "A Voice from the Deep",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_22",
@@ -2594,7 +2599,7 @@
       "Name": "Called to their Labor",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_24",
@@ -2801,15 +2806,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1075,
+      "Progressed": 1076,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-05-07T23:58:39.0388683+00:00",
-  "LastChanged_Achievements": "2023-05-09T08:06:37.4161643+00:00",
+  "LastChanged_Achievements": "2023-05-09T09:07:41.1852274+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:53.6404565+00:00",
-  "LastUpdate_Ratings": "2023-05-09T07:59:02.4445145+00:00",
-  "LastUpdate_Achievements": "2023-05-09T08:06:37.4162035+00:00"
+  "LastUpdate_Ratings": "2023-05-09T08:59:09.1064218+00:00",
+  "LastUpdate_Achievements": "2023-05-09T09:07:41.1852839+00:00"
 }

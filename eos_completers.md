@@ -19,7 +19,7 @@
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.11% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 22 | [Remains](games/r/remains.md) | 6.67% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
@@ -80,7 +80,7 @@
 | 78 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 79 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 80 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 81 | [Dungeons 3](games/d/dungeons_3.md) | 0.95% |
+| 81 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
 | 82 | [Sable](games/s/sable.md) | 0.92% |
 | 83 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 83 | [Hades](games/h/hades.md) | 0.89% |
@@ -117,9 +117,9 @@
 | 115 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
 | 115 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 115 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.32% |
-| 115 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
-| 119 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 119 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 118 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 118 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 118 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
 | 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 122 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 122 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
@@ -388,4 +388,4 @@
 | 194 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 194 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 194 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,572 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,573 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

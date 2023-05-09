@@ -17,20 +17,21 @@ Rating: 4.54 (Ranked 477)
 | Ain't Nobody Got Time for That | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
 | Infinite Growth... | 0.30% | ~6 |
+| Guy de Borderlands | 0.30% | ~6 |
 | Space Society | 0.30% | ~6 |
 | Power Outage | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
+| Hope Seeker | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
-| Guy de Borderlands | 0.20% | ~4 |
 | Sightseeing | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
+| In Dolos We Trust | 0.20% | ~4 |
 | Breaking Protocol | 0.20% | ~4 |
 | Access Granted | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | All in Good Health | 0.20% | ~4 |
 | Please Make it Stop! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
-| Hope Seeker | 0.20% | ~4 |
 | From the Past | 0.20% | ~4 |
 | Pulsar Disciple | 0.20% | ~4 |
 | Man's Best Friend | 0.10% | ~2 |
@@ -39,7 +40,6 @@ Rating: 4.54 (Ranked 477)
 | What They Hide From Us | 0.10% | ~2 |
 | ...  in a finite world | 0.10% | ~2 |
 | Sustainable Energy | 0.10% | ~2 |
-| In Dolos We Trust | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
 | Necessary Enhancement | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,846 (Ranked 146)  
+Progressed: 1,847 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 1,838 | 0 |
 | 2023-05-07 | 1,841 | 0 |
 | 2023-05-08 | 1,844 | 0 |
-| 2023-05-09 | 1,846 | 0 |
+| 2023-05-09 | 1,847 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

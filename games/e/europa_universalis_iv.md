@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,947 |
-| That's a Grand Army | 8.00% | ~2,620 |
-| That is mine! | 8.00% | ~2,620 |
-| Victorious! | 8.00% | ~2,620 |
-| Brothers in Arms | 6.00% | ~1,965 |
-| That's a Grand Navy | 6.00% | ~1,965 |
-| Seriously?! | 6.00% | ~1,965 |
-| For the Glory | 5.00% | ~1,637 |
-| Cold War | 4.00% | ~1,310 |
-| True Catholic | 4.00% | ~1,310 |
-| Defender of the Faith | 3.00% | ~982 |
-| It's all about the money | 3.00% | ~982 |
-| Respected | 3.00% | ~982 |
+| Until death do us apart | 9.00% | ~2,949 |
+| That's a Grand Army | 8.00% | ~2,621 |
+| That is mine! | 8.00% | ~2,621 |
+| Victorious! | 8.00% | ~2,621 |
+| Brothers in Arms | 6.00% | ~1,966 |
+| That's a Grand Navy | 6.00% | ~1,966 |
+| Seriously?! | 6.00% | ~1,966 |
+| For the Glory | 5.00% | ~1,638 |
+| Cold War | 4.00% | ~1,311 |
+| True Catholic | 4.00% | ~1,311 |
+| Defender of the Faith | 3.00% | ~983 |
+| It's all about the money | 3.00% | ~983 |
+| Respected | 3.00% | ~983 |
 | Blockader | 2.00% | ~655 |
 | Combined Arms | 2.00% | ~655 |
 | Double the Love | 2.00% | ~655 |
@@ -29,25 +29,25 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~655 |
 | Total Control | 2.00% | ~655 |
 | Truly Divine Ruler | 2.00% | ~655 |
-| Agressive Expander | 1.00% | ~327 |
-| All That's Thine Shall Be Mine | 1.00% | ~327 |
-| Azur semé de lis or | 1.00% | ~327 |
-| Bright Spark | 1.00% | ~327 |
-| City of Cities | 1.00% | ~327 |
-| Factionalism | 1.00% | ~327 |
-| A Golden Empire | 1.00% | ~327 |
-| My armies are invincible! | 1.00% | ~327 |
+| Agressive Expander | 1.00% | ~328 |
+| All That's Thine Shall Be Mine | 1.00% | ~328 |
+| Azur semé de lis or | 1.00% | ~328 |
+| Bright Spark | 1.00% | ~328 |
+| City of Cities | 1.00% | ~328 |
+| Factionalism | 1.00% | ~328 |
+| A Golden Empire | 1.00% | ~328 |
+| My armies are invincible! | 1.00% | ~328 |
 | Isn't this the way to India? | 0.80% | ~262 |
 | The Five Colonies | 0.80% | ~262 |
 | The Emperors new clothes | 0.70% | ~229 |
 | Market Control | 0.70% | ~229 |
-| Down Under | 0.60% | ~196 |
-| This navy can take it all | 0.60% | ~196 |
+| Down Under | 0.60% | ~197 |
+| This navy can take it all | 0.60% | ~197 |
+| At every continent | 0.50% | ~164 |
 | Electable! | 0.50% | ~164 |
 | Time Bandit | 0.50% | ~164 |
 | Trustworthy | 0.50% | ~164 |
 | All belongs to Mother Russia | 0.40% | ~131 |
-| At every continent | 0.40% | ~131 |
 | Early-Modern Warfare | 0.40% | ~131 |
 | One Family to Rule them All | 0.40% | ~131 |
 | The Continuation of Diplomacy | 0.40% | ~131 |
@@ -70,24 +70,24 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.30% | ~98 |
 | Traditional Player | 0.30% | ~98 |
 | Wonderful | 0.30% | ~98 |
-| A Decent Reserve | 0.20% | ~65 |
-| A Pile of Gold | 0.20% | ~65 |
-| A Protected Market | 0.20% | ~65 |
-| AAA Credit | 0.20% | ~65 |
-| Fine Financials | 0.20% | ~65 |
-| Global Hegemony | 0.20% | ~65 |
-| Imperio español | 0.20% | ~65 |
-| Industrial Powerhouse | 0.20% | ~65 |
-| Italian Ambition | 0.20% | ~65 |
-| Just a Little Patience | 0.20% | ~65 |
-| Magellan’s Voyage | 0.20% | ~65 |
-| Multiculturalism | 0.20% | ~65 |
-| No Pirates in my Caribbean | 0.20% | ~65 |
-| Not so sad a state... | 0.20% | ~65 |
-| The Chrysanthemum Throne | 0.20% | ~65 |
-| Three Trivial Tributary Tribes | 0.20% | ~65 |
-| Vasa or Wettin? | 0.20% | ~65 |
-| World Discoverer | 0.20% | ~65 |
+| A Decent Reserve | 0.20% | ~66 |
+| A Pile of Gold | 0.20% | ~66 |
+| A Protected Market | 0.20% | ~66 |
+| AAA Credit | 0.20% | ~66 |
+| Fine Financials | 0.20% | ~66 |
+| Global Hegemony | 0.20% | ~66 |
+| Imperio español | 0.20% | ~66 |
+| Industrial Powerhouse | 0.20% | ~66 |
+| Italian Ambition | 0.20% | ~66 |
+| Just a Little Patience | 0.20% | ~66 |
+| Magellan’s Voyage | 0.20% | ~66 |
+| Multiculturalism | 0.20% | ~66 |
+| No Pirates in my Caribbean | 0.20% | ~66 |
+| Not so sad a state... | 0.20% | ~66 |
+| The Chrysanthemum Throne | 0.20% | ~66 |
+| Three Trivial Tributary Tribes | 0.20% | ~66 |
+| Vasa or Wettin? | 0.20% | ~66 |
+| World Discoverer | 0.20% | ~66 |
 | A Blessed Nation | 0.10% | ~33 |
 | A Hero’s Welcome | 0.10% | ~33 |
 | A Manchurian Candidate | 0.10% | ~33 |
@@ -158,6 +158,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hessian Mercenaries | 0.10% | ~33 |
 | Holiest Roman Empire | 0.10% | ~33 |
 | Holy Horder | 0.10% | ~33 |
+| Home and Away | 0.10% | ~33 |
 | Ideas Guy | 0.10% | ~33 |
 | Imposter Syndrome | 0.10% | ~33 |
 | An Industrial Evolution | 0.10% | ~33 |
@@ -304,7 +305,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hanukkah Mutapa | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
-| Home and Away | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,748 (Ranked 80)  
+Progressed: 32,767 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
-| 2023-05-09 | 32,748 | 0 |
+| 2023-05-09 | 32,767 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
 Sum: 42,979 (Ranked 27)  
