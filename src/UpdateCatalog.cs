@@ -5,6 +5,49 @@ namespace EpicRatingsUpdater
 {
     internal class UpdateCatalog
     {
+        List<string> IgnoredAttributes = new List<string>
+        {
+            "epicgames.app.productSlug",
+            "com.epicgames.app.urlSlug",
+            "com.epicgames.app.productSlug",
+            "com.epicgames.app.productSlu",
+            "publisherName",
+            "developerName",
+            "availableDate",
+            "extraLaunchOption_001_Args",
+            "extraLaunchOption_001_Name",
+        };
+
+        List<string> NonStoreAttributes = new List<string>
+        {
+            "isBlockchainUsed",
+        };
+
+        public bool IsIgnoredAttribute(string attrib)
+        {
+            foreach (var attr in IgnoredAttributes)
+            {
+                if (attr.Equals(attrib, StringComparison.InvariantCultureIgnoreCase)) {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        public bool IsNonStored(string attrib)
+        {
+            foreach (var attr in NonStoreAttributes)
+            {
+                if (attr.Equals(attrib, StringComparison.InvariantCultureIgnoreCase))
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
         public async Task Run(GlobalDb globalDb, GameDb db)
         {
             var i = 0;
@@ -15,10 +58,23 @@ namespace EpicRatingsUpdater
 
             var catalogDate = globalDb.CatalogLastModifiedDate;
 
+            foreach (var key in globalDb.KnownCustomAttributes.Keys.ToList())
+            {
+                if (IsIgnoredAttribute(key))
+                {
+                    globalDb.KnownCustomAttributes.Remove(key);
+                }
+            }
+
             while (i < total)
             {
                 Console.WriteLine($"Catalog Update: {i} / {total}");
                 var page = await EpicApi.QueryCatalog("en", "US", pageSize, i, "lastModifiedDate", "DESC");
+
+                var endReached = false;
+
+                total = page.paging.total;
+                i += pageSize;
 
                 foreach (var el in page.elements)
                 {
@@ -38,6 +94,12 @@ namespace EpicRatingsUpdater
                     if (el.lastModifiedDate != null && el.lastModifiedDate > globalDb.CatalogLastModifiedDate)
                     {
                         globalDb.CatalogLastModifiedDate = el.lastModifiedDate.Value;
+                    }
+
+                    if (catalogDate > el.lastModifiedDate)
+                    {
+                        // Reached end of updates
+                        endReached = true;
                     }
          
                     // Mappings (storepage link)
@@ -61,13 +123,21 @@ namespace EpicRatingsUpdater
                         var blockChain = el.customAttributes.FirstOrDefault(x => x.key == "isBlockchainUsed");
                         item.Store.isBlockchainUsed = blockChain?.value == "true";
 
+                        item.Store.CustomAttributes.Clear();
+
                         foreach (var attr in el.customAttributes)
                         {
-                            if (attr.value == "false")
+                            if (IsIgnoredAttribute(attr.key))
                             {
                                 continue;
                             }
 
+                            if (!IsNonStored(attr.key))
+                            {
+                                item.Store.CustomAttributes[attr.key] = attr.value;
+                            }
+
+                            // Tracking for new attributes
                             if (!globalDb.KnownCustomAttributes.ContainsKey(attr.key))
                             {
                                 globalDb.KnownCustomAttributes[attr.key] = new();
@@ -82,8 +152,10 @@ namespace EpicRatingsUpdater
                     }
                 }
 
-                total = page.paging.total;
-                i += pageSize;
+                if (endReached)
+                {
+                    // break;
+                }
             }
 
             Console.WriteLine("::endgroup::");

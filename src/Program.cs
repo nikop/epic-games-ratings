@@ -237,13 +237,15 @@ await File.WriteAllTextAsync(
     awardsSumTable.FormatTable(items.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name))
 );
 
+
 // Release Date
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),
     nameDateTable.FormatTable(
         items
             .Where(x => x.Store.ReleaseDate != null && ratingsCutOffNew < x.Store.ReleaseDate && x.Store.ReleaseDate <= now)
-            .OrderByDescending(x => x.Store.ReleaseDate).ThenBy(x => x.Name)
+            .OrderByDescending(x => x.Store.ReleaseDate)
+            .ThenBy(x => x.Name)
     )
 );
 await File.WriteAllTextAsync(
@@ -252,6 +254,15 @@ await File.WriteAllTextAsync(
         items
             .Where(x => x.Store.ReleaseDate != null && ratingsCutOffNew < x.Store.ReleaseDate && x.Store.ReleaseDate > now)
             .OrderBy(x => x.Store.ReleaseDate)
+            .ThenBy(x => x.Name)
+    )
+);
+await File.WriteAllTextAsync(
+    Path.Combine(path, "blockchain.md"),
+    nameDateTable.FormatTable(
+        items
+            .Where(x => x.Store.isBlockchainUsed)
+            .OrderByDescending(x => x.Store.ReleaseDate)
             .ThenBy(x => x.Name)
     )
 );

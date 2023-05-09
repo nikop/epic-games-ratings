@@ -13,5 +13,7 @@ namespace EpicRatingsUpdater.GameDatabase
         public DateTimeOffset? PcReleaseDate { get; set; }
 
         public bool isBlockchainUsed { get; set; }
+
+        public Dictionary<string, string> CustomAttributes { get; set; } = new();
     }
 }
