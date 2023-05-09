@@ -8,6 +8,7 @@
 | Bringing guns to a sword fight | 50.00% | ~1 |
 | Self-Defence | 50.00% | ~1 |
 | Freezing Cold | 50.00% | ~1 |
+| Finally! | 50.00% | ~1 |
 | Don't Cry Wolf | 50.00% | ~1 |
 | A new World ahead | 50.00% | ~1 |
 | Can't touch this | 50.00% | ~1 |
@@ -39,7 +40,6 @@
 | Wayseeker | 0.00% | ~0 |
 | Pathfinder | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
-| Finally! | 0.00% | ~0 |
 | Welcome to the Club | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
 | The A-Team | 0.00% | ~0 |

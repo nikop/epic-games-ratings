@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,950 |
-| Into the Unknown | 8.00% | ~43,511 |
-| First Shot | 8.00% | ~43,511 |
-| Herzlich Wilkommen! | 7.00% | ~38,072 |
-| Sancho Panza | 7.00% | ~38,072 |
-| Good Night & Good Luck | 7.00% | ~38,072 |
-| Under Pressure | 6.00% | ~32,633 |
-| Flag Burning | 6.00% | ~32,633 |
-| Oh, So This Is How It Works! | 6.00% | ~32,633 |
-| Night Hunter | 6.00% | ~32,633 |
-| On the Trail of the Enemy | 5.00% | ~27,194 |
-| Light in the Darkness | 5.00% | ~27,194 |
-| Get Outta My House! | 5.00% | ~27,194 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,194 |
-| Being All Social | 5.00% | ~27,194 |
+| You Never Forget Your First... | 9.00% | ~48,952 |
+| Into the Unknown | 8.00% | ~43,513 |
+| First Shot | 8.00% | ~43,513 |
+| Herzlich Wilkommen! | 7.00% | ~38,074 |
+| Sancho Panza | 7.00% | ~38,074 |
+| Good Night & Good Luck | 7.00% | ~38,074 |
+| Under Pressure | 6.00% | ~32,634 |
+| Flag Burning | 6.00% | ~32,634 |
+| Oh, So This Is How It Works! | 6.00% | ~32,634 |
+| Night Hunter | 6.00% | ~32,634 |
+| On the Trail of the Enemy | 5.00% | ~27,195 |
+| Light in the Darkness | 5.00% | ~27,195 |
+| Get Outta My House! | 5.00% | ~27,195 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,195 |
+| Being All Social | 5.00% | ~27,195 |
 | Debris and Ashes | 4.00% | ~21,756 |
 | We Will Be Heard! | 4.00% | ~21,756 |
 | Known Associate | 4.00% | ~21,756 |
@@ -45,19 +45,19 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,439 |
 | Modder | 1.00% | ~5,439 |
 | Ironheart | 1.00% | ~5,439 |
-| Nemesis | 1.00% | ~1,893 |
+| Nemesis | 1.00% | ~1,894 |
 | Enter the Hall | 0.90% | ~1,704 |
 | That's Teamwork! | 0.80% | ~4,351 |
 | Fit as a Fiddle | 0.80% | ~4,351 |
+| Find Anything Interesting? | 0.70% | ~3,807 |
 | Boot Licker | 0.70% | ~3,807 |
 | Night of Terrors | 0.70% | ~1,325 |
-| Find Anything Interesting? | 0.60% | ~3,263 |
 | My Friend, Ciro | 0.60% | ~1,136 |
 | Skullcrusher | 0.60% | ~1,136 |
-| Revenants | 0.50% | ~2,719 |
-| Who Wants To Be a... | 0.50% | ~2,719 |
-| Tanning Salon | 0.50% | ~2,719 |
-| Get the Point? | 0.50% | ~2,719 |
+| Revenants | 0.50% | ~2,720 |
+| Who Wants To Be a... | 0.50% | ~2,720 |
+| Tanning Salon | 0.50% | ~2,720 |
+| Get the Point? | 0.50% | ~2,720 |
 | Lightning Reflexes | 0.40% | ~2,176 |
 | A Friend in Need... | 0.20% | ~1,088 |
 | Man On a Mission | 0.20% | ~1,088 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~189 |
 | Connoisseur | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,890 (Ranked 22)  
+Progressed: 543,908 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,14 +91,14 @@ Completed: 46 (0.01%) (Ranked 186)
 | 2023-05-06 | 541,890 | 46 |
 | 2023-05-07 | 542,868 | 46 |
 | 2023-05-08 | 543,600 | 46 |
-| 2023-05-09 | 543,890 | 46 |
+| 2023-05-09 | 543,908 | 46 |
 ## Awards
-Max (Character Customization): 6,955  (Ranked 44)  
-Sum: 16,116 (Ranked 58)  
+Max (Character Customization): 6,965  (Ranked 44)  
+Sum: 16,126 (Ranked 58)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,955 |
+| This game has Inclusive Character Customization | 6,965 |
 | This game has Great Boss Battles | 4,075 |
 | This game is Great for Beginners | 625 |
 | This game is Highly Recommended | 598 |
@@ -230,4 +230,4 @@ Diff (max vs sum): -14
 | 2023-05-06 | 4.57 | - | 6,910 | 15,980 |
 | 2023-05-07 | 4.57 | - | 6,933 | 16,040 |
 | 2023-05-08 | 4.57 | - | 6,955 | 16,101 |
-| 2023-05-09 | 4.57 | - | 6,955 | 16,116 |
+| 2023-05-09 | 4.57 | - | 6,965 | 16,126 |

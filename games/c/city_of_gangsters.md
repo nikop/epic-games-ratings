@@ -5,19 +5,19 @@ Rating: 4.26 (Ranked 773)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~142,896 |
-| Copacetic Coordination | 16.00% | ~49,703 |
-| Fronting the Money | 14.00% | ~43,490 |
-| The Dawn of Automation | 14.00% | ~43,490 |
-| Extraordinary Logistics | 14.00% | ~43,490 |
+| Corner Clout | 46.00% | ~142,898 |
+| Copacetic Coordination | 16.00% | ~49,704 |
+| Fronting the Money | 14.00% | ~43,491 |
+| The Dawn of Automation | 14.00% | ~43,491 |
+| Extraordinary Logistics | 14.00% | ~43,491 |
 | Family First | 13.00% | ~40,384 |
-| Cleaning House | 12.00% | ~37,277 |
-| Room in the Back | 12.00% | ~37,277 |
-| Dirty Money | 12.00% | ~37,277 |
+| Cleaning House | 12.00% | ~37,278 |
+| Room in the Back | 12.00% | ~37,278 |
+| Dirty Money | 12.00% | ~37,278 |
 | Booze Baron | 11.00% | ~34,171 |
-| Beating the Heat | 10.00% | ~31,064 |
-| Friends on the Force | 10.00% | ~31,064 |
-| Neighborhood Watch | 10.00% | ~31,064 |
+| Beating the Heat | 10.00% | ~31,065 |
+| Friends on the Force | 10.00% | ~31,065 |
+| Neighborhood Watch | 10.00% | ~31,065 |
 | Core Corps | 8.00% | ~24,852 |
 | Sizeable Stash | 7.00% | ~21,745 |
 | Street Fighter | 7.00% | ~21,745 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 773)
 | High Pillow | 0.10% | ~311 |
 | Station Master | 0.10% | ~311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310,644 (Ranked 37)  
+Progressed: 310,647 (Ranked 37)  
 Completed: 3 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 3 (0.00%) (Ranked 194)
 | 2023-05-06 | 309,666 | 3 |
 | 2023-05-07 | 310,150 | 3 |
 | 2023-05-08 | 310,501 | 3 |
-| 2023-05-09 | 310,644 | 3 |
+| 2023-05-09 | 310,647 | 3 |
 ## Awards
 Max (Relaxing): 23  (Ranked 468)  
 Sum: 46 (Ranked 435)  

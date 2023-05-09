@@ -3937,9 +3937,9 @@
       "Count": 3666
     }
   ],
-  "EOS_Progressed": 127873,
+  "EOS_Progressed": 127874,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5477,6 +5477,11 @@
       "Time": "2023-05-09T13:41:05.5575428+00:00",
       "NumProgressed": 127873,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-05-09T14:06:53.3052261+00:00",
+      "NumProgressed": 127874,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 112,
@@ -5496,7 +5501,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 35804
+      "UsersEstimate": 35805
     },
     {
       "ID": "advlevel03",
@@ -5536,7 +5541,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35804
+      "UsersEstimate": 35805
     },
     {
       "ID": "ascend02",
@@ -5592,7 +5597,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 75445
+      "UsersEstimate": 75446
     },
     {
       "ID": "blueprint02",
@@ -5624,7 +5629,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 56264
+      "UsersEstimate": 56265
     },
     {
       "ID": "boss02",
@@ -5648,7 +5653,7 @@
       "Name": "Fated Encounters",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 26853
+      "UsersEstimate": 26854
     },
     {
       "ID": "chest01",
@@ -5656,7 +5661,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124037
+      "UsersEstimate": 124038
     },
     {
       "ID": "chest02",
@@ -5664,7 +5669,7 @@
       "Name": "For the Hoard!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21738
+      "UsersEstimate": 21739
     },
     {
       "ID": "chest03",
@@ -5720,7 +5725,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 116364
+      "UsersEstimate": 116365
     },
     {
       "ID": "commonres02",
@@ -5728,7 +5733,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 49870
+      "UsersEstimate": 49871
     },
     {
       "ID": "commonres03",
@@ -5752,7 +5757,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 97183
+      "UsersEstimate": 97184
     },
     {
       "ID": "craft02",
@@ -5792,7 +5797,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 54985
+      "UsersEstimate": 54986
     },
     {
       "ID": "damage02",
@@ -5864,7 +5869,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 89511
+      "UsersEstimate": 89512
     },
     {
       "ID": "expansion02",
@@ -5952,7 +5957,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 35804
+      "UsersEstimate": 35805
     },
     {
       "ID": "gold01",
@@ -5984,7 +5989,7 @@
       "Name": "Royal Ransom",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 26853
+      "UsersEstimate": 26854
     },
     {
       "ID": "gold05",
@@ -6008,7 +6013,7 @@
       "Name": "Helping Hand",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35804
+      "UsersEstimate": 35805
     },
     {
       "ID": "help02",
@@ -6016,7 +6021,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16623
+      "UsersEstimate": 16624
     },
     {
       "ID": "help03",
@@ -6040,7 +6045,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 63936
+      "UsersEstimate": 63937
     },
     {
       "ID": "jackslot02",
@@ -6072,7 +6077,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 84396
+      "UsersEstimate": 84397
     },
     {
       "ID": "level02",
@@ -6112,7 +6117,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 54985
+      "UsersEstimate": 54986
     },
     {
       "ID": "loot02",
@@ -6144,7 +6149,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 60100
+      "UsersEstimate": 60101
     },
     {
       "ID": "master02",
@@ -6264,7 +6269,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 95905
+      "UsersEstimate": 95906
     },
     {
       "ID": "sell02",
@@ -6304,7 +6309,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 122758
+      "UsersEstimate": 122759
     },
     {
       "ID": "twinenchant01",
@@ -6312,7 +6317,7 @@
       "Name": "Magical Harmony",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 26853
+      "UsersEstimate": 26854
     },
     {
       "ID": "typeunlock01",
@@ -6328,7 +6333,7 @@
       "Name": "Special Ingredient",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21738
+      "UsersEstimate": 21739
     },
     {
       "ID": "uncommonres02",
@@ -6383,15 +6388,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 127873,
+      "Progressed": 127874,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-09T02:00:56.8610162+00:00",
-  "LastChanged_Achievements": "2023-05-09T13:41:05.5575423+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:06:53.3052257+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:38.2111116+00:00",
-  "LastUpdate_Ratings": "2023-05-09T13:33:41.8449461+00:00",
-  "LastUpdate_Achievements": "2023-05-09T13:41:05.5577157+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:59:58.5764788+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:06:53.3053897+00:00"
 }

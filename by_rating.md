@@ -103,7 +103,7 @@
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,889 | 37 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
 | 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,670 | 89 |
-| 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,546 | 18 |
+| 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,583 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,958 | 74 |
 | 103 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 490 |
 | 103 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 36 | 420 |
@@ -183,7 +183,7 @@
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,251 | 51 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 468 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 426 |
-| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,145 | 43 |
+| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,148 | 43 |
 | 178 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 490 |
 | 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 490 |
 | 178 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 490 |
@@ -435,7 +435,7 @@
 | 429 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 154 | 282 |
 | 429 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 397 |
 | 429 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 0 | 490 |
-| 429 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,955 | 44 |
+| 429 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,965 | 44 |
 | 429 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 426 |
 | 429 | [Hob](games/h/hob.md) | 4.57 | 0 | 490 |
 | 429 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 420 |
@@ -653,7 +653,7 @@
 | 643 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 235 |
 | 643 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 490 |
 | 643 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 128 | 293 |
-| 643 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 533 | 176 |
+| 643 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 534 | 176 |
 | 655 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 490 |
 | 655 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 490 |
 | 655 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 0 | 490 |

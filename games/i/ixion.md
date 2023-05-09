@@ -8,13 +8,13 @@ Rating: 4.54 (Ranked 477)
 | Without Breaking Some Eggs... | 0.70% | ~13 |
 | The Ship of Theseus | 0.60% | ~11 |
 | Wakey Wakey | 0.50% | ~9 |
+| Ready for a New World | 0.50% | ~9 |
+| Permanent Redesigns | 0.50% | ~9 |
 | Sputnik 2049 | 0.40% | ~7 |
 | A Thousand Strong | 0.40% | ~7 |
 | Exceeding Capacity | 0.40% | ~7 |
 | Power Outage | 0.40% | ~7 |
 | Fully Recycled | 0.40% | ~7 |
-| Ready for a New World | 0.40% | ~7 |
-| Permanent Redesigns | 0.40% | ~7 |
 | Ain't Nobody Got Time for That | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
 | Infinite Growth... | 0.30% | ~6 |

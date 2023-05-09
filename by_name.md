@@ -638,7 +638,7 @@
 | [Duskers](games/d/duskers.md) | 4.46 | 591 | 0 | 490 |
 | [Dust and Neon](games/d/dust_and_neon.md) | - | - | 0 | - |
 | [Dust Fleet](games/d/dust_fleet.md) | - | - | - | - |
-| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 429 | 6,955 | 44 |
+| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 429 | 6,965 | 44 |
 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.59 | 396 | 30,613 | 14 |
 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 783 | 9,157 | 35 |
 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | - | - | - | - |
@@ -962,7 +962,7 @@
 | [HITMAN](games/h/hitman.md) | 4.64 | 309 | 196 | 258 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 100 | 8,889 | 37 |
 | [Hob](games/h/hob.md) | 4.57 | 429 | 0 | 490 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 103 | 18,546 | 18 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 103 | 18,583 | 18 |
 | [Hold On](games/h/hold_on.md) | - | - | - | - |
 | [Home Wars](games/h/home_wars.md) | - | - | 0 | - |
 | [Homebody](games/h/homebody.md) | - | - | - | - |
@@ -1075,8 +1075,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 429 | 36 | 420 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Judas](games/j/judas.md) | - | - | 0 | - |
+| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 337 | 532 | 177 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 141 | 589 | 166 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 754 | 3,590 | 78 |
@@ -1119,7 +1119,7 @@
 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 115 | 0 | 490 |
 | [King's Bounty: Warriors of the North](games/k/king's_bounty__warriors_of_the_north.md) | - | - | 0 | - |
 | [Kingdom - The Far Reaches](games/k/kingdom_-_the_far_reaches.md) | - | - | - | - |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 178 | 7,145 | 43 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 178 | 7,148 | 43 |
 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 60 | 489 | 185 |
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 115 | 99 | 321 |
 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 91 | 718 | 153 |
@@ -1782,8 +1782,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 178 | 139 | 287 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 643 | 264 | 235 |
@@ -2292,8 +2292,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 622 | 0 | 490 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 256 | 0 | 490 |
@@ -2304,7 +2304,7 @@
 | [Tracks of Thought](games/t/tracks_of_thought.md) | - | - | - | - |
 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 879 | 0 | 490 |
 | [Train Sim World](games/t/train_sim_world.md) | - | - | - | - |
-| [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 643 | 533 | 176 |
+| [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 643 | 534 | 176 |
 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 477 | 277 | 227 |
 | [Train Valley](games/t/train_valley.md) | 4.47 | 577 | 0 | 490 |
 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 839 | 71 | 361 |

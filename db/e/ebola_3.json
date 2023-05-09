@@ -641,9 +641,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "achBett",
@@ -817,9 +817,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "achLizun",
@@ -1026,8 +1026,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-09T13:41:47.1090272+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:07:29.9845609+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-09T13:36:00.9545167+00:00",
-  "LastUpdate_Achievements": "2023-05-09T13:41:47.1091078+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:01:56.3942997+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:07:29.9846047+00:00"
 }

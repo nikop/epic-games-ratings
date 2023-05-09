@@ -834,7 +834,7 @@
   ],
   "EOS_Progressed": 2753,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1921,9 +1921,9 @@
       "ID": "ACH_JUSTONEMORETERM",
       "SetID": "1p8ab95",
       "Name": "Just One...More...Term...",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2147
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2089,8 +2089,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-05T17:04:08.8018054+00:00",
-  "LastChanged_Achievements": "2023-05-09T13:41:44.1923115+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:07:27.3200936+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-09T13:35:53.3585598+00:00",
-  "LastUpdate_Achievements": "2023-05-09T13:41:44.1923731+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:01:50.7722104+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:07:27.3201307+00:00"
 }

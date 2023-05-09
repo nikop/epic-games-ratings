@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Fright ✔ | 54.00% | ~85 |
 | Chest ✔ | 52.00% | ~82 |
-| Fright ✔ | 52.00% | ~82 |
-| Inventory ✔ | 48.00% | ~75 |
+| Inventory ✔ | 49.00% | ~77 |
 | Police officers ✔ | 24.00% | ~38 |
 | Mutation ✔ | 22.00% | ~35 |
 | Doberman ✔ | 11.00% | ~17 |

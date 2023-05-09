@@ -97,7 +97,7 @@
 | 95 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.70% |
 | 96 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 97 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
-| 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 99 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.54% |
 | 100 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 101 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |

@@ -15,9 +15,9 @@ Number of Ratings: 36  (23.09.2022)
 | Critical Thinker | 34.00% | ~204 |
 | Always Finding Your Mark | 29.00% | ~174 |
 | The Weight of the World | 29.00% | ~174 |
+| No Niños | 27.00% | ~162 |
 | Act I Complete | 26.00% | ~156 |
 | A drop in the Ocean | 26.00% | ~156 |
-| No Niños | 26.00% | ~156 |
 | I ain’t afraid of no Ghost | 25.00% | ~150 |
 | Act II Complete | 20.00% | ~120 |
 | A successful procedure! | 19.00% | ~114 |

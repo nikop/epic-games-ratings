@@ -17,7 +17,7 @@
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,436 | 4.65 | 286 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,143 | 4.52 | 501 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,740 | 4.53 | 489 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,546 | 4.77 | 103 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,583 | 4.77 | 103 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,221 | 4.57 | 429 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,034 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 14,650 | 4.61 | 352 |
@@ -42,8 +42,8 @@
 | 40 | [Supraland](games/s/supraland.md) | 7,607 | 4.61 | 352 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,530 | 4.85 | 38 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,259 | 4.57 | 429 |
-| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,145 | 4.71 | 178 |
-| 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,955 | 4.57 | 429 |
+| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,148 | 4.71 | 178 |
+| 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,965 | 4.57 | 429 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,924 | 4.89 | 12 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,751 | 4.47 | 577 |
 | 47 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 643 |
@@ -175,7 +175,7 @@
 | 173 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 548 | 4.66 | 271 |
 | 174 | [Vampyr](games/v/vampyr.md) | 545 | 4.32 | 741 |
 | 175 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 542 | 4.39 | 682 |
-| 176 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 533 | 4.42 | 643 |
+| 176 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 534 | 4.42 | 643 |
 | 177 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 532 | 4.62 | 337 |
 | 178 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 524 | 4.74 | 141 |
 | 179 | [Star Trek Online](games/s/star_trek_online.md) | 523 | 4.45 | 601 |

@@ -12,8 +12,8 @@
 | Hydrophobia | 27.00% | ~6 |
 | Stop Right There | 18.00% | ~4 |
 | Get to the Point | 18.00% | ~4 |
+| Ka-Ching! | 14.00% | ~3 |
 | The Hidden Secret | 9.00% | ~2 |
-| Ka-Ching! | 9.00% | ~2 |
 | Toe to Toe | 9.00% | ~2 |
 | The Paradox Coordinate Conqueror | 5.00% | ~1 |
 | Grand Escape | 5.00% | ~1 |
@@ -22,6 +22,7 @@
 | Antaeus | 5.00% | ~1 |
 | Air Interception | 5.00% | ~1 |
 | Proliferation | 5.00% | ~1 |
+| Phew! | 5.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Deep Frozen Conqueror | 0.00% | ~0 |
 | The Abyss Conqueror | 0.00% | ~0 |
@@ -50,7 +51,6 @@
 | Decapitation Strike | 0.00% | ~0 |
 | Clean Sweep | 0.00% | ~0 |
 | Bullets Fear Me | 0.00% | ~0 |
-| Phew! | 0.00% | ~0 |
 | Bye Bye Gravity | 0.00% | ~0 |
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |

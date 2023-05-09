@@ -919,9 +919,9 @@
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 247
     },
     {
       "ID": "32",
@@ -1103,17 +1103,17 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 322
     },
     {
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 274
     },
     {
       "ID": "9",
@@ -1136,8 +1136,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-09T13:40:50.1921393+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:06:39.7506535+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-09T13:32:36.0088787+00:00",
-  "LastUpdate_Achievements": "2023-05-09T13:40:50.1921944+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:59:02.1025257+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:06:39.7506971+00:00"
 }

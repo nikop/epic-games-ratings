@@ -11,10 +11,10 @@
 | Sword, Shield, Fight! | 75.00% | ~403 |
 | A Grand Visit | 71.00% | ~381 |
 | Vibing | 60.00% | ~322 |
-| Fun Guy | 59.00% | ~317 |
-| Tragic Brave | 50.00% | ~268 |
+| Fun Guy | 60.00% | ~322 |
+| Tragic Brave | 51.00% | ~274 |
 | Awakened Spirits | 47.00% | ~252 |
-| Little Shop | 45.00% | ~242 |
+| Little Shop | 46.00% | ~247 |
 | Surprise! | 41.00% | ~220 |
 | An Actor! | 41.00% | ~220 |
 | Curtain Call | 39.00% | ~209 |

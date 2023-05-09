@@ -5,46 +5,46 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,677 |
-| Shine On | 70.00% | ~110,765 |
-| On the Job | 69.00% | ~109,183 |
-| Get Stuck In | 68.00% | ~107,600 |
-| Room for Expansion | 68.00% | ~107,600 |
-| Sales Pitch | 65.00% | ~102,853 |
-| Chill Out | 65.00% | ~102,853 |
-| Tinker | 61.00% | ~96,524 |
+| Bootstrapping | 75.00% | ~118,678 |
+| Shine On | 70.00% | ~110,766 |
+| On the Job | 69.00% | ~109,184 |
+| Get Stuck In | 68.00% | ~107,601 |
+| Room for Expansion | 68.00% | ~107,601 |
+| Sales Pitch | 65.00% | ~102,854 |
+| Chill Out | 65.00% | ~102,854 |
+| Tinker | 61.00% | ~96,525 |
 | Grand Designs | 60.00% | ~94,942 |
-| Hot Stuff | 59.00% | ~93,359 |
-| MOAR RGB | 54.00% | ~85,447 |
+| Hot Stuff | 59.00% | ~93,360 |
+| MOAR RGB | 54.00% | ~85,448 |
 | Dream Theme | 46.00% | ~72,789 |
-| The Customer is King | 45.00% | ~71,206 |
+| The Customer is King | 45.00% | ~71,207 |
 | Working Hard | 44.00% | ~69,624 |
-| On the Bench | 42.00% | ~66,459 |
-| The More the Merrier | 42.00% | ~66,459 |
+| On the Bench | 42.00% | ~66,460 |
+| The More the Merrier | 42.00% | ~66,460 |
 | Mix and Match | 38.00% | ~60,130 |
 | Recycler | 38.00% | ~60,130 |
-| Foot in the Door | 37.00% | ~58,547 |
+| Foot in the Door | 37.00% | ~58,548 |
 | Very Imported PC | 36.00% | ~56,965 |
-| Full Throttle | 34.00% | ~53,800 |
+| Full Throttle | 34.00% | ~53,801 |
 | Pimp My Rig | 32.00% | ~50,636 |
 | Repair Master | 32.00% | ~50,636 |
 | Local Hero | 28.00% | ~44,306 |
-| Broken to Smokin' | 26.00% | ~41,141 |
-| Workaholic | 26.00% | ~41,141 |
+| Broken to Smokin' | 26.00% | ~41,142 |
+| Workaholic | 26.00% | ~41,142 |
 | Thanks Jeff | 25.00% | ~39,559 |
 | Cinematic | 24.00% | ~37,977 |
 | Bench Warmer | 24.00% | ~37,977 |
 | Gift of the Gab | 24.00% | ~37,977 |
 | Salvage Squad | 24.00% | ~37,977 |
-| On the Ladder | 23.00% | ~36,394 |
-| Stick With It | 23.00% | ~36,394 |
+| On the Ladder | 23.00% | ~36,395 |
+| Stick With It | 23.00% | ~36,395 |
 | Variations on a Theme | 22.00% | ~34,812 |
 | Cowboy | 22.00% | ~34,812 |
 | Slap Happy | 21.00% | ~33,230 |
 | Supercool | 19.00% | ~30,065 |
-| Stabiliser | 18.00% | ~28,482 |
-| This One Goes to 11 | 18.00% | ~28,482 |
-| Going Places | 15.00% | ~23,735 |
+| Stabiliser | 18.00% | ~28,483 |
+| This One Goes to 11 | 18.00% | ~28,483 |
+| Going Places | 15.00% | ~23,736 |
 | Forgetful Shopper | 14.00% | ~22,153 |
 | Showpiece | 13.00% | ~20,571 |
 | Paste Not, Want Not | 13.00% | ~20,571 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,236 (Ranked 52)  
+Progressed: 158,237 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 102 (0.06%) (Ranked 164)
 | 2023-05-06 | 158,209 | 102 |
 | 2023-05-07 | 158,219 | 102 |
 | 2023-05-08 | 158,229 | 102 |
-| 2023-05-09 | 158,236 | 102 |
+| 2023-05-09 | 158,237 | 102 |
 ## Awards
 Max (Great for Beginners): 599  (Ranked 164)  
 Sum: 4,532 (Ranked 127)  

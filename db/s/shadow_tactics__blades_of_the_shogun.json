@@ -1049,9 +1049,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 165942,
+  "EOS_Progressed": 165945,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2099,
+  "EOS_NewPlayers": 2084,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2714,6 +2714,11 @@
       "Time": "2023-05-09T13:41:18.8096975+00:00",
       "NumProgressed": 165942,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-09T14:07:04.6261012+00:00",
+      "NumProgressed": 165945,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 44,
@@ -2923,9 +2928,9 @@
       "ID": "Prisoners",
       "SetID": "ak6bfk8",
       "Name": "Prisoners",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6638
+      "UsersEstimate": 4978
     },
     {
       "ID": "ReleaseTheKraken",
@@ -3013,7 +3018,7 @@
       "Name": "Thorough",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 13275
+      "UsersEstimate": 13276
     },
     {
       "ID": "TimeParadox",
@@ -3076,15 +3081,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 165942,
+      "Progressed": 165945,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-05-09T12:50:03.0273311+00:00",
-  "LastChanged_Achievements": "2023-05-09T13:41:18.809697+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:07:04.6261009+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:09.8632245+00:00",
-  "LastUpdate_Ratings": "2023-05-09T13:34:23.9626115+00:00",
-  "LastUpdate_Achievements": "2023-05-09T13:41:18.8097735+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:00:34.917893+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:07:04.6261394+00:00"
 }

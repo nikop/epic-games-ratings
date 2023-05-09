@@ -340,9 +340,9 @@
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -501,8 +501,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-09T13:41:29.6568357+00:00",
+  "LastChanged_Achievements": "2023-05-09T14:07:14.0389969+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:32.8171839+00:00",
-  "LastUpdate_Ratings": "2023-05-09T13:32:11.9792977+00:00",
-  "LastUpdate_Achievements": "2023-05-09T13:41:29.6568705+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:58:42.2730649+00:00",
+  "LastUpdate_Achievements": "2023-05-09T14:07:14.0390155+00:00"
 }
