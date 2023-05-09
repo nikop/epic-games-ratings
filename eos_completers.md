@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
-| 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
-| 2 | [Overloop](games/o/overloop.md) | 25.00% |
-| 2 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 25.00% |
+| 1 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 50.00% |
+| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
+| 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
@@ -20,19 +20,19 @@
 | 18 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 20 | [Scorn](games/s/scorn.md) | 7.10% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 25 | [Remains](games/r/remains.md) | 5.88% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 5.73% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 5.72% |
 | 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 31 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.55% |
 | 32 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.20% |
+| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
 | 34 | [Doodle God](games/d/doodle_god.md) | 4.02% |
 | 35 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
@@ -56,7 +56,7 @@
 | 54 | [JARS](games/j/jars.md) | 2.56% |
 | 55 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 56 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 57 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 57 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
 | 58 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 59 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 59 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.96% |
