@@ -399,7 +399,7 @@
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](../games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 34 | 1,000 |
 | [We Are OFK](../games/w/we_are_ofk.md) | 28 | 1,000 |
-| [Weird West](../games/w/weird_west.md) | 53 | 1,000 |
+| [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
 | [Who Pressed Mute on Uncle Marcus?](../games/w/who_pressed_mute_on_uncle_marcus.md) | 17 | 1,000 |
 | [Wildcat Gun Machine](../games/w/wildcat_gun_machine.md) | 20 | 1,000 |

@@ -6,40 +6,40 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~218,919 |
-| Uncharted Territory | 89.00% | ~202,956 |
-| Getting A Glimpse | 73.00% | ~166,470 |
-| A Quick Escape | 65.00% | ~148,227 |
-| Explorer | 62.00% | ~141,385 |
-| Defeat The Dark | 61.00% | ~139,105 |
-| An Offering | 61.00% | ~139,105 |
-| Colorful Corpse | 58.00% | ~132,264 |
-| That Was Quick | 56.00% | ~127,703 |
-| A Donation | 56.00% | ~127,703 |
-| Goodbye, Frog Friend | 54.00% | ~123,142 |
-| Heavy Hitter | 52.00% | ~118,581 |
-| Heartless | 46.00% | ~104,899 |
-| Spine Breaker | 46.00% | ~104,899 |
-| Deflection | 44.00% | ~100,338 |
+| First Steps | 96.00% | ~218,921 |
+| Uncharted Territory | 89.00% | ~202,958 |
+| Getting A Glimpse | 73.00% | ~166,471 |
+| A Quick Escape | 65.00% | ~148,228 |
+| Explorer | 62.00% | ~141,387 |
+| Defeat The Dark | 61.00% | ~139,106 |
+| An Offering | 61.00% | ~139,106 |
+| Colorful Corpse | 58.00% | ~132,265 |
+| That Was Quick | 56.00% | ~127,704 |
+| A Donation | 56.00% | ~127,704 |
+| Goodbye, Frog Friend | 54.00% | ~123,143 |
+| Heavy Hitter | 52.00% | ~118,582 |
+| Heartless | 46.00% | ~104,900 |
+| Spine Breaker | 46.00% | ~104,900 |
+| Deflection | 44.00% | ~100,339 |
 | Sneaky | 43.00% | ~98,058 |
-| Delving Deeper | 42.00% | ~95,777 |
-| Ambitious Intent | 41.00% | ~93,497 |
-| C-C-Combo | 41.00% | ~93,497 |
-| The Bestiary | 40.00% | ~91,216 |
-| Nothing To Lose | 39.00% | ~88,936 |
+| Delving Deeper | 42.00% | ~95,778 |
+| Ambitious Intent | 41.00% | ~93,498 |
+| C-C-Combo | 41.00% | ~93,498 |
+| The Bestiary | 40.00% | ~91,217 |
+| Nothing To Lose | 39.00% | ~88,937 |
 | What's Yours Is Mine | 38.00% | ~86,656 |
 | R.I.P | 36.00% | ~82,095 |
-| Shootout | 35.00% | ~79,814 |
-| Cold Hearted | 34.00% | ~77,534 |
-| I Am Overburdened | 34.00% | ~77,534 |
-| Dig Your Own Grave | 32.00% | ~72,973 |
-| Toxic | 32.00% | ~72,973 |
+| Shootout | 35.00% | ~79,815 |
+| Cold Hearted | 34.00% | ~77,535 |
+| I Am Overburdened | 34.00% | ~77,535 |
+| Dig Your Own Grave | 32.00% | ~72,974 |
+| Toxic | 32.00% | ~72,974 |
 | Who To Trust? | 31.00% | ~70,693 |
 | Flesh Wound | 29.00% | ~66,132 |
-| Walk It Off | 27.00% | ~61,571 |
-| Stone Touch | 27.00% | ~61,571 |
-| Acid Bath | 27.00% | ~61,571 |
-| Shadow Walker | 27.00% | ~61,571 |
+| Walk It Off | 27.00% | ~61,572 |
+| Stone Touch | 27.00% | ~61,572 |
+| Acid Bath | 27.00% | ~61,572 |
+| Shadow Walker | 27.00% | ~61,572 |
 | Consecutive Curses | 26.00% | ~59,291 |
 | Destroy Your Fears | 26.00% | ~59,291 |
 | New Perspectives | 26.00% | ~59,291 |
@@ -48,8 +48,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | To The Death! | 19.00% | ~43,328 |
 | Well Prepared | 19.00% | ~43,328 |
 | Just Chilling | 19.00% | ~43,328 |
-| All Consuming | 18.00% | ~41,047 |
-| Stop Hitting Yourself | 18.00% | ~41,047 |
+| All Consuming | 18.00% | ~41,048 |
+| Stop Hitting Yourself | 18.00% | ~41,048 |
 | Shadow Spreads | 16.00% | ~36,487 |
 | Max Damage! | 16.00% | ~36,487 |
 | Don't Ignore Me! | 16.00% | ~36,487 |
@@ -75,14 +75,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 7.00% | ~15,963 |
 | Fire Away! | 7.00% | ~15,963 |
 | Sentimental Value | 7.00% | ~15,963 |
-| A Long Climb | 6.00% | ~13,682 |
-| Grave Digger | 6.00% | ~13,682 |
-| Soul Stash | 6.00% | ~13,682 |
-| Juggernaut | 6.00% | ~13,682 |
-| Gigantic | 6.00% | ~13,682 |
-| Power Score | 6.00% | ~13,682 |
-| Just Looking Around | 6.00% | ~13,682 |
-| Obsessed | 6.00% | ~13,682 |
+| A Long Climb | 6.00% | ~13,683 |
+| Grave Digger | 6.00% | ~13,683 |
+| Soul Stash | 6.00% | ~13,683 |
+| Juggernaut | 6.00% | ~13,683 |
+| Gigantic | 6.00% | ~13,683 |
+| Power Score | 6.00% | ~13,683 |
+| Just Looking Around | 6.00% | ~13,683 |
+| Obsessed | 6.00% | ~13,683 |
 | Champion of the Day | 5.00% | ~11,402 |
 | Achievement Hunter | 4.00% | ~9,122 |
 | Hydrophobe | 4.00% | ~9,122 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~912 |
 | Near Death Experience | 0.30% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,041 (Ranked 41)  
+Progressed: 228,043 (Ranked 41)  
 Completed: 226 (0.10%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 226 (0.10%) (Ranked 153)
 | 2023-05-06 | 227,893 | 224 |
 | 2023-05-07 | 227,981 | 224 |
 | 2023-05-08 | 228,029 | 226 |
-| 2023-05-09 | 228,041 | 226 |
+| 2023-05-09 | 228,043 | 226 |
 ## Awards
 Max (Quickly Understood Controls): 1,471  (Ranked 114)  
 Sum: 11,386 (Ranked 74)  

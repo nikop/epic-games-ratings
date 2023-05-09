@@ -2226,7 +2226,7 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14723,
+  "EOS_Progressed": 14724,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -3141,6 +3141,11 @@
       "Time": "2023-05-09T04:07:24.6817022+00:00",
       "NumProgressed": 14723,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-09T06:08:33.203667+00:00",
+      "NumProgressed": 14724,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3358,9 +3363,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "WinNearOutpost",
@@ -3551,15 +3556,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14723,
+      "Progressed": 14724,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-08T18:01:14.9978672+00:00",
-  "LastChanged_Achievements": "2023-05-09T05:06:54.9451578+00:00",
+  "LastChanged_Achievements": "2023-05-09T06:08:33.2036665+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-09T05:01:06.6678894+00:00",
-  "LastUpdate_Achievements": "2023-05-09T05:06:54.9451965+00:00"
+  "LastUpdate_Ratings": "2023-05-09T06:02:35.8421146+00:00",
+  "LastUpdate_Achievements": "2023-05-09T06:08:33.2037266+00:00"
 }

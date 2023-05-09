@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.79,
   "RatingHistory": [
@@ -1382,10 +1382,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 3308,
       "NumberOfAwardsMax": 509
+    },
+    {
+      "Time": "2023-05-09T05:59:09.7877279+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3309,
+      "NumberOfAwardsMax": 509
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3308,
+  "NumberOfAwards": 3309,
   "NumberOfAwardsMax": 509,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -1435,7 +1441,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 303
+      "Count": 304
     }
   ],
   "EOS_Progressed": 0,
@@ -1450,8 +1456,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-05-09T04:58:39.3765208+00:00",
+  "LastChanged": "2023-05-09T05:59:09.7877277+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.2844512+00:00",
-  "LastUpdate_Ratings": "2023-05-09T04:58:39.3765212+00:00",
-  "LastUpdate_Achievements": "2023-05-09T05:04:36.5829306+00:00"
+  "LastUpdate_Ratings": "2023-05-09T05:59:09.7877283+00:00",
+  "LastUpdate_Achievements": "2023-05-09T06:05:40.3277401+00:00"
 }

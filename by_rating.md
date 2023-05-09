@@ -60,7 +60,7 @@
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 490 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 345 |
 | 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 490 |
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,267 | 120 |
+| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,271 | 120 |
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,476 | 58 |
 | 60 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 490 |
 | 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 490 |
@@ -82,7 +82,7 @@
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,255 | 50 |
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 281 |
 | 79 | [Journey](games/j/journey.md) | 4.80 | 0 | 490 |
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,348 | 94 |
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,351 | 94 |
 | 79 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 0 | 490 |
 | 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 190 | 261 |
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 320 |
@@ -98,10 +98,10 @@
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,827 | 55 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 205 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 306 |
-| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 907 | 141 |
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 490 |
-| 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,747 | 64 |
-| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,889 | 37 |
+| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,747 | 64 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,889 | 37 |
+| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
 | 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,670 | 89 |
 | 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,546 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,958 | 74 |
@@ -212,7 +212,7 @@
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,258 | 69 |
 | 192 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 38 | 413 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 490 |
-| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,837 | 8 |
+| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,900 | 8 |
 | 213 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 490 |
 | 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,746 | 76 |
 | 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 490 |
@@ -618,7 +618,7 @@
 | 601 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 523 | 179 |
 | 601 | [STG Football](games/s/stg_football.md) | 4.45 | 37 | 417 |
 | 601 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 310 |
-| 601 | [Weird West](games/w/weird_west.md) | 4.45 | 23 | 468 |
+| 601 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 23 | 468 |
 | 601 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 490 |
 | 621 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 0 | 490 |
 | 621 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 490 |
@@ -869,7 +869,7 @@
 | 865 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 490 |
 | 865 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 490 |
 | 869 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,873 | 63 |
-| 869 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 399 | 199 |
+| 869 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 400 | 198 |
 | 871 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 490 |
 | 871 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 490 |
 | 871 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 490 |

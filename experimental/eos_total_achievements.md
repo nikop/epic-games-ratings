@@ -84,7 +84,7 @@
 | [Salt and Sacrifice](../games/s/salt_and_sacrifice.md) | 53 | 1,000 |
 | [Supraland Six Inches Under](../games/s/supraland_six_inches_under.md) | 53 | 1,000 |
 | [The Mageseeker: A League of Legends Story™](../games/t/the_mageseeker__a_league_of_legends_story™.md) | 53 | 1,000 |
-| [Weird West](../games/w/weird_west.md) | 53 | 1,000 |
+| [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [Redout 2](../games/r/redout_2.md) | 52 | 1,000 |

@@ -24,7 +24,7 @@
 | 22 | [Remains](games/r/remains.md) | 6.67% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.71% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.70% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -147,7 +147,7 @@
 | 145 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 145 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 147 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
-| 147 | [Weird West](games/w/weird_west.md) | 0.13% |
+| 147 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 149 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 150 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 150 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |

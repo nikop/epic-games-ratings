@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,944 |
-| That's a Grand Army | 8.00% | ~2,617 |
-| That is mine! | 8.00% | ~2,617 |
-| Victorious! | 8.00% | ~2,617 |
+| Until death do us apart | 9.00% | ~2,945 |
+| That's a Grand Army | 8.00% | ~2,618 |
+| That is mine! | 8.00% | ~2,618 |
+| Victorious! | 8.00% | ~2,618 |
 | Brothers in Arms | 6.00% | ~1,963 |
 | That's a Grand Navy | 6.00% | ~1,963 |
 | Seriously?! | 6.00% | ~1,963 |
 | For the Glory | 5.00% | ~1,636 |
-| Cold War | 4.00% | ~1,308 |
-| True Catholic | 4.00% | ~1,308 |
-| Defender of the Faith | 3.00% | ~981 |
-| It's all about the money | 3.00% | ~981 |
-| Respected | 3.00% | ~981 |
+| Cold War | 4.00% | ~1,309 |
+| True Catholic | 4.00% | ~1,309 |
+| Defender of the Faith | 3.00% | ~982 |
+| It's all about the money | 3.00% | ~982 |
+| Respected | 3.00% | ~982 |
 | Blockader | 2.00% | ~654 |
 | Combined Arms | 2.00% | ~654 |
 | Double the Love | 2.00% | ~654 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,711 (Ranked 80)  
+Progressed: 32,719 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,16 +380,16 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
-| 2023-05-09 | 32,711 | 0 |
+| 2023-05-09 | 32,719 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
-Sum: 42,973 (Ranked 27)  
+Sum: 42,979 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,198 |
 | This game is Highly Recommended | 4,975 |
-| This game has Challenging Combat | 4,960 |
+| This game has Challenging Combat | 4,966 |
 | This game is Extremely Fun | 4,928 |
 | This game has Diverse Characters | 4,882 |
 | This game is Relaxing | 4,841 |
@@ -512,3 +512,4 @@ Diff (max vs sum): 33
 | 2023-05-06 | 4.68 | - | 5,181 | 42,857 |
 | 2023-05-07 | 4.68 | - | 5,190 | 42,931 |
 | 2023-05-08 | 4.68 | - | 5,198 | 42,973 |
+| 2023-05-09 | 4.68 | - | 5,198 | 42,979 |

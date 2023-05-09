@@ -5425,10 +5425,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 167148,
       "NumberOfAwardsMax": 63846
+    },
+    {
+      "Time": "2023-05-09T05:59:40.3958857+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 167196,
+      "NumberOfAwardsMax": 63846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 167148,
+  "NumberOfAwards": 167196,
   "NumberOfAwardsMax": 63846,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5442,7 +5448,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 41026
+      "Count": 41074
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5505,7 +5511,7 @@
       "Count": 4672
     }
   ],
-  "EOS_Progressed": 798754,
+  "EOS_Progressed": 798761,
   "EOS_Completed": 1583,
   "EOS_NewPlayers": 1393,
   "EOS_NewCompleters": 27,
@@ -7105,6 +7111,11 @@
       "Time": "2023-05-09T05:06:15.8084621+00:00",
       "NumProgressed": 798754,
       "NumCompleted": 1583
+    },
+    {
+      "Time": "2023-05-09T06:07:42.1287232+00:00",
+      "NumProgressed": 798761,
+      "NumCompleted": 1583
     }
   ],
   "TotalAchievements": 44,
@@ -7124,7 +7135,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47925
+      "UsersEstimate": 47926
     },
     {
       "ID": "BushidoAndChill",
@@ -7132,7 +7143,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 119813
+      "UsersEstimate": 119814
     },
     {
       "ID": "Cyberjunkie",
@@ -7140,7 +7151,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 135788
+      "UsersEstimate": 135789
     },
     {
       "ID": "Denied",
@@ -7148,7 +7159,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295539
+      "UsersEstimate": 295542
     },
     {
       "ID": "FollowingTheRiver",
@@ -7156,7 +7167,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103838
+      "UsersEstimate": 103839
     },
     {
       "ID": "Fortuneteller",
@@ -7188,7 +7199,7 @@
       "Name": "Gun Fu",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103838
+      "UsersEstimate": 103839
     },
     {
       "ID": "Gunslinger",
@@ -7204,7 +7215,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103838
+      "UsersEstimate": 103839
     },
     {
       "ID": "IAmMaxTac",
@@ -7212,7 +7223,7 @@
       "Name": "I Am The Law",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 103838
+      "UsersEstimate": 103839
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -7236,7 +7247,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167738
+      "UsersEstimate": 167740
     },
     {
       "ID": "MaxPain",
@@ -7284,7 +7295,7 @@
       "Name": "Life of the Road",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 151763
+      "UsersEstimate": 151765
     },
     {
       "ID": "Roleplayer",
@@ -7292,7 +7303,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215664
+      "UsersEstimate": 215665
     },
     {
       "ID": "Specialist",
@@ -7300,7 +7311,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63900
+      "UsersEstimate": 63901
     },
     {
       "ID": "Temperance",
@@ -7332,7 +7343,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535165
+      "UsersEstimate": 535170
     },
     {
       "ID": "TheHermit",
@@ -7340,7 +7351,7 @@
       "Name": "The Hermit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175726
+      "UsersEstimate": 175727
     },
     {
       "ID": "TheHightPriestess",
@@ -7348,7 +7359,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159751
+      "UsersEstimate": 159752
     },
     {
       "ID": "TheLovers",
@@ -7356,7 +7367,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255601
+      "UsersEstimate": 255604
     },
     {
       "ID": "TheStar",
@@ -7364,7 +7375,7 @@
       "Name": "The Star",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47925
+      "UsersEstimate": 47926
     },
     {
       "ID": "TheSun",
@@ -7372,7 +7383,7 @@
       "Name": "The Sun",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47925
+      "UsersEstimate": 47926
     },
     {
       "ID": "TheWheelOfFortune",
@@ -7380,7 +7391,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199688
+      "UsersEstimate": 199690
     },
     {
       "ID": "TheWorld",
@@ -7388,7 +7399,7 @@
       "Name": "The World",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 127801
+      "UsersEstimate": 127802
     },
     {
       "ID": "ThisIsPacifica",
@@ -7412,7 +7423,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175726
+      "UsersEstimate": 175727
     },
     {
       "ID": "TrueWarrior",
@@ -7420,7 +7431,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 111826
+      "UsersEstimate": 111827
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -7428,7 +7439,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 87863
+      "UsersEstimate": 87864
     },
     {
       "ID": "UnderPressure",
@@ -7436,7 +7447,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103838
+      "UsersEstimate": 103839
     },
     {
       "ID": "VForVendetta",
@@ -7460,22 +7471,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 159751
+      "UsersEstimate": 159752
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 798754,
+      "Progressed": 798761,
       "Completed": 1583
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-08T21:59:02.8999202+00:00",
-  "LastChanged_Achievements": "2023-05-09T05:06:15.8084617+00:00",
+  "LastChanged": "2023-05-09T05:59:40.3958855+00:00",
+  "LastChanged_Achievements": "2023-05-09T06:07:42.1287226+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-09T04:59:05.9471378+00:00",
-  "LastUpdate_Achievements": "2023-05-09T05:06:15.8084982+00:00"
+  "LastUpdate_Ratings": "2023-05-09T05:59:40.3958863+00:00",
+  "LastUpdate_Achievements": "2023-05-09T06:07:42.1287706+00:00"
 }
