@@ -13,20 +13,20 @@
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 12 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
-| 14 | [Smelter](games/s/smelter.md) | 10.00% |
-| 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
-| 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
-| 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.63% |
-| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 21 | [Scorn](games/s/scorn.md) | 7.10% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
-| 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
-| 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 25 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 5.71% |
-| 27 | [Remains](games/r/remains.md) | 5.56% |
+| 14 | [Remains](games/r/remains.md) | 11.11% |
+| 15 | [Smelter](games/s/smelter.md) | 10.00% |
+| 16 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
+| 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
+| 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.63% |
+| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
+| 22 | [Scorn](games/s/scorn.md) | 7.10% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
+| 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
+| 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
+| 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 5.70% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -39,7 +39,7 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.55% |
-| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.48% |
+| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.47% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
@@ -176,10 +176,10 @@
 | 173 | [High On Life](games/h/high_on_life.md) | 0.04% |
 | 173 | [House Party](games/h/house_party.md) | 0.04% |
 | 173 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
+| 173 | [Saints Row](games/s/saints_row.md) | 0.04% |
 | 173 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 178 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 178 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 178 | [Saints Row](games/s/saints_row.md) | 0.03% |
+| 179 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 179 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 181 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 181 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
 | 181 | [Good Company](games/g/good_company.md) | 0.02% |
