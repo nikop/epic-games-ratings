@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46079,
+  "EOS_Progressed": 46080,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1283,6 +1283,11 @@
       "Time": "2023-05-09T02:07:58.9740386+00:00",
       "NumProgressed": 46079,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-09T04:06:50.1879815+00:00",
+      "NumProgressed": 46080,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1310,7 +1315,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5529
+      "UsersEstimate": 5530
     },
     {
       "ID": "04",
@@ -1829,21 +1834,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46079,
+      "Progressed": 46080,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9547,
+      "Progressed": 9548,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:24.3248812+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:06:50.1879811+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:58:39.8961698+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:24.3249542+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:58:56.9708997+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:06:50.1880548+00:00"
 }

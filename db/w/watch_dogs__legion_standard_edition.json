@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.37,
   "NumberOfRatings": 1361,
@@ -1416,10 +1416,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 610,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-05-09T03:59:50.237977+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 611,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 610,
+  "NumberOfAwards": 611,
   "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1481,7 +1487,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 38
+      "Count": 39
     }
   ],
   "EOS_Progressed": 0,
@@ -1495,8 +1501,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2023-05-08T17:59:55.3730442+00:00",
+  "LastChanged": "2023-05-09T03:59:50.2379769+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:40.654181+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:59:24.6731933+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:04:04.1075385+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:59:50.2379774+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:04:12.268911+00:00"
 }

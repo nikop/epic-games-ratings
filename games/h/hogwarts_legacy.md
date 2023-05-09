@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 103)
 | Savvy Spender | 0.70% | ~1,864 |
 | Demiguise Dread | 0.70% | ~1,864 |
 | A Forte for Achievement | 0.70% | ~1,864 |
-| Spilled Milk | 0.50% | ~1,331 |
-| Merlin's Beard! | 0.50% | ~1,331 |
+| Spilled Milk | 0.50% | ~1,332 |
+| Merlin's Beard! | 0.50% | ~1,332 |
 | The Nature of the Beast | 0.40% | ~1,065 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,297 (Ranked 38)  
+Progressed: 266,301 (Ranked 38)  
 Completed: 354 (0.13%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,10 +70,10 @@ Completed: 354 (0.13%) (Ranked 147)
 | 2023-05-06 | 265,901 | 351 |
 | 2023-05-07 | 266,124 | 351 |
 | 2023-05-08 | 266,274 | 354 |
-| 2023-05-09 | 266,297 | 354 |
+| 2023-05-09 | 266,301 | 354 |
 ## Awards
 Max (Character Customization): 18,546  (Ranked 18)  
-Sum: 33,875 (Ranked 33)  
+Sum: 33,881 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -82,11 +82,11 @@ Diff (max vs sum): -15
 | This game is Extremely Fun | 749 |
 | This game is Great for Beginners | 729 |
 | This game is Relaxing | 717 |
-| This game has Diverse Characters | 709 |
+| This game has Diverse Characters | 713 |
 | This game has Amazing Storytelling | 699 |
 | This game has Amazing Characters | 697 |
 | This game is Highly Recommended | 676 |
-| This game has Quickly Understood Controls | 619 |
+| This game has Quickly Understood Controls | 621 |
 | This game has Beautiful Visuals | 600 |
 | This game has a Creative Community | 459 |
 ## Ratings History
@@ -138,3 +138,4 @@ Diff (max vs sum): -15
 | 2023-05-06 | 4.77 | 18,430 | 33,633 |
 | 2023-05-07 | 4.77 | 18,488 | 33,760 |
 | 2023-05-08 | 4.77 | 18,546 | 33,875 |
+| 2023-05-09 | 4.77 | 18,546 | 33,881 |

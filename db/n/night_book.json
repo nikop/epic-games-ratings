@@ -3,8 +3,8 @@
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 181,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -43,6 +43,11 @@
       "Time": "2023-05-05T22:06:21.6676113+00:00",
       "NumProgressed": 180,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-09T04:06:45.8454142+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -54,7 +59,7 @@
       "Name": "A Little Extra",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "career_woman",
@@ -94,7 +99,7 @@
       "Name": "Impress Theron",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "marriage_is_off",
@@ -110,7 +115,7 @@
       "Name": "No One Is Safe",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "off_his_meds",
@@ -118,7 +123,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "on_your_bike",
@@ -142,7 +147,7 @@
       "Name": "Personal Life",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "save_dad",
@@ -164,9 +169,9 @@
       "ID": "unhelpful",
       "SetID": "a3kkelb",
       "Name": "Unhelpful",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "use_your_connections",
@@ -189,7 +194,7 @@
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 181,
       "Completed": 3
     }
   ],
@@ -197,8 +202,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:20.4862966+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:06:45.8454137+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.6293729+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:58:24.775791+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:20.4863105+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:58:37.6420739+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:06:45.8454276+00:00"
 }

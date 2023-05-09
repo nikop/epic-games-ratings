@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4,
   "NumberOfRatings": 53,
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -354,6 +354,11 @@
       "Time": "2023-05-08T11:08:22.0749296+00:00",
       "NumProgressed": 518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T04:06:59.1879452+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -363,9 +368,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH001",
@@ -429,7 +434,7 @@
       "Name": "Maker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH009",
@@ -453,7 +458,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH012",
@@ -565,7 +570,7 @@
       "Name": "My precious!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH026",
@@ -597,7 +602,7 @@
       "Name": "Licence to Kill",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH030",
@@ -621,7 +626,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH033",
@@ -651,9 +656,9 @@
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH037",
@@ -677,7 +682,7 @@
       "Name": "Panel of experts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH040",
@@ -764,15 +769,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-07T22:59:32.8382186+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:31.9140685+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:06:59.1879448+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:44.962683+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:59:27.3058739+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:31.9141128+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:59:53.6900696+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:06:59.1879982+00:00"
 }

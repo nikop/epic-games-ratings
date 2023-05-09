@@ -6,17 +6,17 @@ Rating: 3.27 (Ranked 919)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 86.00% | ~1,250 |
-| Home Is Where the Heart Is | 68.00% | ~988 |
+| Home Is Where the Heart Is | 68.00% | ~989 |
 | Ne Plus Ultra | 67.00% | ~974 |
 | Wounded Whispers | 67.00% | ~974 |
-| Blood Will Have Blood | 55.00% | ~799 |
-| ICU | 51.00% | ~741 |
+| Blood Will Have Blood | 55.00% | ~800 |
+| ICU | 51.00% | ~742 |
 | Catch and Release | 49.00% | ~712 |
-| Peek-a-boo | 48.00% | ~697 |
+| Peek-a-boo | 48.00% | ~698 |
 | Sucks To Be You | 47.00% | ~683 |
 | Welcome to the Neighborhood | 41.00% | ~596 |
 | Fly Fisher | 39.00% | ~567 |
-| Throw The First Stone | 38.00% | ~552 |
+| Throw The First Stone | 38.00% | ~553 |
 | Enter of Your Own Free Will | 35.00% | ~509 |
 | Heart Attack | 35.00% | ~509 |
 | Skin of Their Teeth | 35.00% | ~509 |
@@ -72,7 +72,7 @@ Rating: 3.27 (Ranked 919)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,453 (Ranked 152)  
+Progressed: 1,454 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 1,344 | 0 |
 | 2023-05-07 | 1,412 | 0 |
 | 2023-05-08 | 1,446 | 0 |
-| 2023-05-09 | 1,453 | 0 |
+| 2023-05-09 | 1,454 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

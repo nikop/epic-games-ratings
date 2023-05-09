@@ -6,26 +6,26 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~420 |
+| Cabin boy | 80.00% | ~415 |
 | My little farm | 65.00% | ~337 |
-| Every beginning is difficult | 62.00% | ~321 |
+| Every beginning is difficult | 61.00% | ~317 |
 | 3, 2, 1, mine | 55.00% | ~285 |
 | Gofer | 55.00% | ~285 |
 | Seafarer | 54.00% | ~280 |
 | O Captain! My Captain! | 53.00% | ~275 |
 | Greed for gold | 42.00% | ~218 |
-| Intangible | 41.00% | ~212 |
+| Intangible | 41.00% | ~213 |
 | I'm out of here for a while | 39.00% | ~202 |
 | In a mint condition | 38.00% | ~197 |
-| Licence to Kill | 35.00% | ~181 |
-| Pirates! | 35.00% | ~181 |
+| Licence to Kill | 35.00% | ~182 |
+| Pirates! | 35.00% | ~182 |
 | Collectionitis | 28.00% | ~145 |
 | Megalomania | 28.00% | ~145 |
 | Christening | 26.00% | ~135 |
 | Groundskeeper | 26.00% | ~135 |
 | Wholesale | 23.00% | ~119 |
 | Walk the plank | 21.00% | ~109 |
-| My precious! | 19.00% | ~98 |
+| My precious! | 19.00% | ~99 |
 | Pearly gates | 17.00% | ~88 |
 | Conquistador | 14.00% | ~73 |
 | Panic buying | 12.00% | ~62 |
@@ -33,8 +33,8 @@ Number of Ratings: 53  (23.09.2022)
 | Your vessel, my vessel | 10.00% | ~52 |
 | All mine! | 9.00% | ~47 |
 | Paths of Glory | 9.00% | ~47 |
-| Maker | 8.00% | ~41 |
-| Panel of experts | 8.00% | ~41 |
+| Maker | 8.00% | ~42 |
+| Panel of experts | 8.00% | ~42 |
 | Conglomerate | 7.00% | ~36 |
 | The Grande Bouffe | 6.00% | ~31 |
 | Buccaneer | 5.00% | ~26 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.80% | ~4 |
 | Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518 (Ranked 189)  
+Progressed: 519 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 515 | 0 |
 | 2023-05-07 | 517 | 0 |
 | 2023-05-08 | 518 | 0 |
+| 2023-05-09 | 519 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

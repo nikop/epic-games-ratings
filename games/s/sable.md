@@ -6,45 +6,45 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 35.00% | ~20,013 |
-| Just The Two of Us | 33.00% | ~18,869 |
-| Up On High | 26.00% | ~14,867 |
-| Under The Hood | 25.00% | ~14,295 |
-| The Gift of Gab | 25.00% | ~14,295 |
-| Got Your Nose | 24.00% | ~13,723 |
-| Wrapping Up | 23.00% | ~13,151 |
-| More Than A Box Of Sand | 19.00% | ~10,864 |
-| Badge Hobbyist | 18.00% | ~10,292 |
-| Chum Novice | 17.00% | ~9,721 |
-| The Dunboyne | 17.00% | ~9,721 |
-| Silver-Tongued Sable | 17.00% | ~9,721 |
-| Sticky Paws | 17.00% | ~9,721 |
-| Bubble Up | 17.00% | ~9,721 |
-| Thread The Needle | 16.00% | ~9,149 |
-| Power to the People | 15.00% | ~8,577 |
-| Take That! | 13.00% | ~7,433 |
-| Nesting Giant | 13.00% | ~7,433 |
-| Treasure Tracker | 13.00% | ~7,433 |
-| Big Spender | 13.00% | ~7,433 |
+| Simoon | 35.00% | ~20,015 |
+| Just The Two of Us | 33.00% | ~18,872 |
+| Up On High | 26.00% | ~14,869 |
+| Under The Hood | 25.00% | ~14,297 |
+| The Gift of Gab | 25.00% | ~14,297 |
+| Got Your Nose | 24.00% | ~13,725 |
+| Wrapping Up | 23.00% | ~13,153 |
+| More Than A Box Of Sand | 19.00% | ~10,866 |
+| Badge Hobbyist | 18.00% | ~10,294 |
+| Chum Novice | 17.00% | ~9,722 |
+| The Dunboyne | 17.00% | ~9,722 |
+| Silver-Tongued Sable | 17.00% | ~9,722 |
+| Sticky Paws | 17.00% | ~9,722 |
+| Bubble Up | 17.00% | ~9,722 |
+| Thread The Needle | 16.00% | ~9,150 |
+| Power to the People | 15.00% | ~8,578 |
+| Take That! | 13.00% | ~7,434 |
+| Nesting Giant | 13.00% | ~7,434 |
+| Treasure Tracker | 13.00% | ~7,434 |
+| Big Spender | 13.00% | ~7,434 |
 | Badge Collector | 12.00% | ~6,862 |
 | Quite The Catch | 12.00% | ~6,862 |
-| The Machinist Mask | 11.00% | ~6,290 |
-| Rowleys Way | 11.00% | ~6,290 |
-| Playing Dress Up | 11.00% | ~6,290 |
-| The Cartographer Mask | 10.00% | ~5,718 |
-| Balfron Connection | 10.00% | ~5,718 |
-| Ceiling Of Stars | 10.00% | ~5,718 |
-| Bike Collector | 10.00% | ~5,718 |
-| Many Different Faces | 9.00% | ~5,146 |
-| Trellick's Pillar | 9.00% | ~5,146 |
-| Centre Of Brunswick | 9.00% | ~5,146 |
-| Fragile Goods | 9.00% | ~5,146 |
-| Dune Rider | 9.00% | ~5,146 |
-| Not That Kind Of Gliding | 9.00% | ~5,146 |
-| The Scrapper Mask | 8.00% | ~4,574 |
-| Shadow Of Neave | 8.00% | ~4,574 |
-| Glider on the Storm | 8.00% | ~4,574 |
-| Squeeze One Out | 8.00% | ~4,574 |
+| The Machinist Mask | 11.00% | ~6,291 |
+| Rowleys Way | 11.00% | ~6,291 |
+| Playing Dress Up | 11.00% | ~6,291 |
+| The Cartographer Mask | 10.00% | ~5,719 |
+| Balfron Connection | 10.00% | ~5,719 |
+| Ceiling Of Stars | 10.00% | ~5,719 |
+| Bike Collector | 10.00% | ~5,719 |
+| Many Different Faces | 9.00% | ~5,147 |
+| Trellick's Pillar | 9.00% | ~5,147 |
+| Centre Of Brunswick | 9.00% | ~5,147 |
+| Fragile Goods | 9.00% | ~5,147 |
+| Dune Rider | 9.00% | ~5,147 |
+| Not That Kind Of Gliding | 9.00% | ~5,147 |
+| The Scrapper Mask | 8.00% | ~4,575 |
+| Shadow Of Neave | 8.00% | ~4,575 |
+| Glider on the Storm | 8.00% | ~4,575 |
+| Squeeze One Out | 8.00% | ~4,575 |
 | Amateur Historian | 7.00% | ~4,003 |
 | The Beetle Mask | 7.00% | ~4,003 |
 | The Guard Mask | 7.00% | ~4,003 |
@@ -58,12 +58,12 @@ Number of Ratings: 43  (23.09.2022)
 | Bike Aficionado | 5.00% | ~2,859 |
 | The Gliding | 4.00% | ~2,287 |
 | The Quick and the Curious | 4.00% | ~2,287 |
-| Chum Expert | 3.00% | ~1,715 |
-| Gastric Bypass | 3.00% | ~1,715 |
-| The Angler Mask | 3.00% | ~1,715 |
+| Chum Expert | 3.00% | ~1,716 |
+| Gastric Bypass | 3.00% | ~1,716 |
+| The Angler Mask | 3.00% | ~1,716 |
 | Vivacious Vivarium | 2.00% | ~1,144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,180 (Ranked 68)  
+Progressed: 57,187 (Ranked 68)  
 Completed: 525 (0.92%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 525 (0.92%) (Ranked 82)
 | 2023-05-06 | 56,453 | 515 |
 | 2023-05-07 | 56,897 | 518 |
 | 2023-05-08 | 57,145 | 524 |
-| 2023-05-09 | 57,180 | 525 |
+| 2023-05-09 | 57,187 | 525 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

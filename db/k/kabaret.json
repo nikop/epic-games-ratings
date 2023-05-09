@@ -4,7 +4,7 @@
   "ProductSlug": "kabaret-4810f9",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -55,9 +55,9 @@
       "ID": "10",
       "SetID": "37jn7be",
       "Name": "Strangers You Meet",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "11",
@@ -223,9 +223,9 @@
       "ID": "3",
       "SetID": "37jn7be",
       "Name": "Goodbye Dear Friend",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "30",
@@ -247,9 +247,9 @@
       "ID": "32",
       "SetID": "37jn7be",
       "Name": "Philosopher",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "33",
@@ -311,9 +311,9 @@
       "ID": "4",
       "SetID": "37jn7be",
       "Name": "By My Own Hands",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "40",
@@ -367,9 +367,9 @@
       "ID": "46",
       "SetID": "37jn7be",
       "Name": "Squashed Bug",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "47",
@@ -391,9 +391,9 @@
       "ID": "49",
       "SetID": "37jn7be",
       "Name": "Be Cruel To Be Kind",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5",
@@ -431,9 +431,9 @@
       "ID": "53",
       "SetID": "37jn7be",
       "Name": "Eating A Dead Flower",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "54",
@@ -592,8 +592,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:14.3431566+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:06:38.778286+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:22.0062617+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:59:02.9885325+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:14.3432151+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:59:25.2042228+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:06:38.7783559+00:00"
 }

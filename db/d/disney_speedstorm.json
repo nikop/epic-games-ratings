@@ -9,9 +9,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2385,
+  "EOS_Progressed": 2387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1094,6 +1094,11 @@
       "Time": "2023-05-09T02:08:10.0486929+00:00",
       "NumProgressed": 2385,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T04:07:00.9801711+00:00",
+      "NumProgressed": 2387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1113,7 +1118,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "11",
@@ -1145,7 +1150,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "15",
@@ -1193,7 +1198,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "20",
@@ -1257,7 +1262,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "6",
@@ -1296,13 +1301,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2385,
+      "Progressed": 2387,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:33.456698+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:07:00.9801706+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:59:50.0692978+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:33.456722+00:00"
+  "LastUpdate_Ratings": "2023-05-09T04:00:21.8417151+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:07:00.980197+00:00"
 }

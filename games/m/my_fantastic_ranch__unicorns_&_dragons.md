@@ -30,7 +30,7 @@
 | Kindred Spirits | 0.00% | ~0 |
 | Prized Possession | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 361)  
+Progressed: 1 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |

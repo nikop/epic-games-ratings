@@ -15,7 +15,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | In space, no one can hear you scream | 23.00% | ~105,242 |
 | Chapter I: Echoes | 22.00% | ~100,666 |
 | Excelsior Rule | 22.00% | ~100,666 |
-| Things persisted in not being what they seemed | 20.00% | ~91,514 |
+| Things persisted in not being what they seemed | 20.00% | ~91,515 |
 | Knightmare Frames | 15.00% | ~68,636 |
 | May His passing cleanse the world | 15.00% | ~68,636 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,636 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,572 (Ranked 28)  
+Progressed: 457,573 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 14 (0.00%) (Ranked 194)
 | 2023-05-06 | 457,393 | 14 |
 | 2023-05-07 | 457,494 | 14 |
 | 2023-05-08 | 457,563 | 14 |
-| 2023-05-09 | 457,572 | 14 |
+| 2023-05-09 | 457,573 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

@@ -27,10 +27,10 @@ Number of Ratings: 3,313  (23.09.2022)
 | Crossing Over | 29.00% | ~123,248 |
 | Quick Draw | 29.00% | ~123,248 |
 | Toshi's Fear | 27.00% | ~114,748 |
+| Bow Master | 26.00% | ~110,498 |
 | Toshi's Regret | 26.00% | ~110,498 |
 | Toshi's Love | 26.00% | ~110,498 |
 | A Leader Walks Alone | 25.00% | ~106,248 |
-| Bow Master | 25.00% | ~106,248 |
 | The Lonely Path | 25.00% | ~106,248 |
 | Restore Balance | 24.00% | ~101,998 |
 | Skillful Spirit Guide | 15.00% | ~63,749 |

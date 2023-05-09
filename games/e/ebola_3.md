@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 53.00% | ~82 |
-| Chest ✔ | 51.00% | ~79 |
-| Inventory ✔ | 48.00% | ~74 |
+| Chest ✔ | 52.00% | ~80 |
+| Inventory ✔ | 49.00% | ~75 |
 | Police officers ✔ | 23.00% | ~35 |
-| Mutation ✔ | 21.00% | ~32 |
+| Mutation ✔ | 22.00% | ~34 |
 | Doberman ✔ | 11.00% | ~17 |
 | Weapon ✔ | 7.00% | ~11 |
 | Survival ✔ | 6.00% | ~9 |

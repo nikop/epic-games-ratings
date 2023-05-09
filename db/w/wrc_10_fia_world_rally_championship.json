@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.48,
   "NumberOfRatings": 248,
@@ -480,10 +480,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 284,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-05-09T04:00:38.9995002+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 285,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 284,
+  "NumberOfAwards": 285,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -527,7 +533,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
@@ -571,8 +577,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2023-04-05T02:13:29.9774913+00:00",
+  "LastChanged": "2023-05-09T04:00:38.9995+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.1544782+00:00",
-  "LastUpdate_Ratings": "2023-05-09T03:00:03.3409808+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:04:58.5613374+00:00"
+  "LastUpdate_Ratings": "2023-05-09T04:00:38.9995006+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:05:29.9381006+00:00"
 }

@@ -94,6 +94,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
+| Hearts Aflame | 0.20% | ~106 |
 | Bad Odds in Avernus | 0.20% | ~106 |
 | An Even Worse Time in Avernus | 0.20% | ~106 |
 | The Giant's Bane Tavern | 0.20% | ~106 |
@@ -378,7 +379,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into The Fire | 0.10% | ~53 |
 | A Difficult Descent | 0.10% | ~53 |
 | The Devil Arrives | 0.10% | ~53 |
-| Hearts Aflame | 0.10% | ~53 |
 | Dreamscape | 0.10% | ~53 |
 | Dream Gauntlet | 0.10% | ~53 |
 | Zombie Dreams | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,921 (Ranked 59)  
+Progressed: 86,925 (Ranked 59)  
 Completed: 1,816 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,14 +515,14 @@ Completed: 1,816 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,921 | 1,816 |
+| 2023-05-09 | 86,925 | 1,816 |
 ## Awards
-Max (Diverse Characters): 4,868  (Ranked 63)  
-Sum: 29,833 (Ranked 37)  
+Max (Diverse Characters): 4,873  (Ranked 63)  
+Sum: 29,838 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,868 |
+| This game has Diverse Characters | 4,873 |
 | This game is Great for Beginners | 4,812 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,479 |
@@ -635,3 +635,4 @@ Diff (max vs sum): 26
 | 2023-05-06 | 4.06 | - | 4,868 | 29,822 |
 | 2023-05-07 | 4.06 | - | 4,868 | 29,830 |
 | 2023-05-08 | 4.06 | - | 4,868 | 29,833 |
+| 2023-05-09 | 4.06 | - | 4,873 | 29,838 |

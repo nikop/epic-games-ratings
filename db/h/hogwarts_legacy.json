@@ -1996,10 +1996,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 33875,
       "NumberOfAwardsMax": 18546
+    },
+    {
+      "Time": "2023-05-09T03:58:32.406432+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33881,
+      "NumberOfAwardsMax": 18546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33875,
+  "NumberOfAwards": 33881,
   "NumberOfAwardsMax": 18546,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2043,7 +2049,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 709
+      "Count": 713
     },
     {
       "Text": "This game is Relaxing",
@@ -2067,7 +2073,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 619
+      "Count": 621
     },
     {
       "Text": "This game has a Creative Community",
@@ -2076,7 +2082,7 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 266297,
+  "EOS_Progressed": 266301,
   "EOS_Completed": 354,
   "EOS_NewPlayers": 1179,
   "EOS_NewCompleters": 12,
@@ -3636,6 +3642,11 @@
       "Time": "2023-05-09T03:01:47.7826632+00:00",
       "NumProgressed": 266297,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2023-05-09T04:03:03.4241047+00:00",
+      "NumProgressed": 266301,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 45,
@@ -3855,7 +3866,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "PFA_34",
@@ -3887,7 +3898,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "PFA_38",
@@ -4006,16 +4017,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266297,
+      "Progressed": 266301,
       "Completed": 354
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-08T21:58:38.3438548+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:01:47.7826627+00:00",
+  "LastChanged": "2023-05-09T03:58:32.4064319+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:03:03.424104+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:58:21.1458682+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:01:47.7827093+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:58:32.4064324+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:03:03.4241676+00:00"
 }

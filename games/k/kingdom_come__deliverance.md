@@ -6,23 +6,23 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,868 |
-| Cavalier | 25.00% | ~195,055 |
+| Blacksmith's Son | 31.00% | ~241,869 |
+| Cavalier | 25.00% | ~195,056 |
 | Fatso | 23.00% | ~179,451 |
-| Awakening | 20.00% | ~156,044 |
-| Ranger | 20.00% | ~156,044 |
-| Scrooge | 20.00% | ~156,044 |
-| Anorectic | 16.00% | ~124,835 |
+| Awakening | 20.00% | ~156,045 |
+| Ranger | 20.00% | ~156,045 |
+| Scrooge | 20.00% | ~156,045 |
+| Anorectic | 16.00% | ~124,836 |
 | Firestarter | 15.00% | ~117,033 |
 | Bookworm | 14.00% | ~109,231 |
 | Insomniac | 13.00% | ~101,429 |
-| Buddy | 11.00% | ~85,824 |
-| Sinner | 11.00% | ~85,824 |
-| Thief | 11.00% | ~85,824 |
+| Buddy | 11.00% | ~85,825 |
+| Sinner | 11.00% | ~85,825 |
+| Thief | 11.00% | ~85,825 |
 | Convict | 10.00% | ~78,022 |
 | Traveller | 10.00% | ~78,022 |
 | Haggler | 9.00% | ~70,220 |
-| Runt | 7.00% | ~54,615 |
+| Runt | 7.00% | ~54,616 |
 | Casanova | 6.00% | ~46,813 |
 | McLovin | 6.00% | ~46,813 |
 | Bad Trip | 5.00% | ~39,011 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~780 |
 | Wingman | 0.10% | ~780 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 780,220 (Ranked 12)  
+Progressed: 780,223 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,17 +108,17 @@ Completed: 39 (0.00%) (Ranked 194)
 | 2023-05-06 | 779,872 | 38 |
 | 2023-05-07 | 780,060 | 39 |
 | 2023-05-08 | 780,207 | 39 |
-| 2023-05-09 | 780,220 | 39 |
+| 2023-05-09 | 780,223 | 39 |
 ## Awards
 Max (Character Customization): 7,145  (Ranked 43)  
-Sum: 26,738 (Ranked 42)  
+Sum: 26,740 (Ranked 42)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,145 |
 | This game has Great Boss Battles | 5,263 |
 | This game has Challenging Combat | 1,674 |
-| This game has Amazing Storytelling | 1,643 |
+| This game has Amazing Storytelling | 1,645 |
 | This game is Extremely Fun | 1,616 |
 | This game has Diverse Characters | 1,614 |
 | This game is Highly Recommended | 1,604 |
@@ -234,4 +234,4 @@ Diff (max vs sum): 1
 | 2023-05-06 | 4.71 | - | 7,141 | 26,719 |
 | 2023-05-07 | 4.71 | - | 7,145 | 26,729 |
 | 2023-05-08 | 4.71 | - | 7,145 | 26,737 |
-| 2023-05-09 | 4.71 | - | 7,145 | 26,738 |
+| 2023-05-09 | 4.71 | - | 7,145 | 26,740 |

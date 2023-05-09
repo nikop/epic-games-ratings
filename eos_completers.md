@@ -24,12 +24,12 @@
 | 22 | [Remains](games/r/remains.md) | 6.67% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.76% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.73% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
 | 29 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 30 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.61% |
+| 30 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.55% |
 | 31 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 32 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.20% |
 | 33 | [Doodle God](games/d/doodle_god.md) | 4.02% |
@@ -55,15 +55,15 @@
 | 53 | [JARS](games/j/jars.md) | 2.56% |
 | 54 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 55 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 56 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.27% |
-| 57 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 56 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 57 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.22% |
 | 58 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 59 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 60 | [Sifu](games/s/sifu.md) | 1.81% |
 | 61 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 62 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 63 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
-| 63 | [Night Book](games/n/night_book.md) | 1.67% |
+| 64 | [Night Book](games/n/night_book.md) | 1.66% |
 | 65 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 65 | [Somerville](games/s/somerville.md) | 1.61% |
 | 67 | [Frogun](games/f/frogun.md) | 1.55% |

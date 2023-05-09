@@ -641,9 +641,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 20369,
+  "EOS_Progressed": 20371,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1085,
+  "EOS_NewPlayers": 1080,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2226,6 +2226,11 @@
       "Time": "2023-05-09T03:06:38.3895763+00:00",
       "NumProgressed": 20369,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-09T04:07:06.9074283+00:00",
+      "NumProgressed": 20371,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -2349,7 +2354,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "nomad",
@@ -2365,7 +2370,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "playerFelipe",
@@ -2461,7 +2466,7 @@
       "Name": "Sightseer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "ultimate",
@@ -2548,15 +2553,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 20369,
+      "Progressed": 20371,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:38.3895759+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:07:06.9074279+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:24.8068644+00:00",
-  "LastUpdate_Ratings": "2023-05-09T03:00:08.670869+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:38.3896061+00:00"
+  "LastUpdate_Ratings": "2023-05-09T04:00:45.814593+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:07:06.907476+00:00"
 }

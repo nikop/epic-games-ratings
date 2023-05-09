@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 97.00% | ~28 |
-| First Blood | 69.00% | ~20 |
+| Seeds of War | 103.00% | ~30 |
+| First Blood | 76.00% | ~22 |
+| No Asperascope | 62.00% | ~18 |
+| Triple Kill | 62.00% | ~18 |
 | Cornivore | 62.00% | ~18 |
-| Triple Kill | 59.00% | ~17 |
-| No Asperascope | 55.00% | ~16 |
 | Drinking Problem | 24.00% | ~7 |
 | 10K | 24.00% | ~7 |
 | 15K | 21.00% | ~6 |
@@ -21,10 +21,10 @@
 | Getting Started | 10.00% | ~3 |
 | Forestside Survivor | 10.00% | ~3 |
 | Quit Horsin' Around | 10.00% | ~3 |
+| Early Bird | 10.00% | ~3 |
 | Carrocketeer | 10.00% | ~3 |
 | Bring Home The Bacon | 7.00% | ~2 |
 | Honk Honk | 7.00% | ~2 |
-| Early Bird | 7.00% | ~2 |
 | Pum-King | 7.00% | ~2 |
 | 15 Days | 3.00% | ~1 |
 | Darkside Survivor | 3.00% | ~1 |

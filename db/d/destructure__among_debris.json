@@ -3,8 +3,8 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 54,
   "RatingHistory": [
     {
@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.27,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -208,6 +208,11 @@
       "Time": "2023-05-08T21:07:13.4571279+00:00",
       "NumProgressed": 44,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T04:07:18.3600287+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -217,7 +222,7 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -233,7 +238,7 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -249,7 +254,7 @@
       "ID": "ball_galore",
       "SetID": "jig50d",
       "Name": "Ball Galore",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -257,7 +262,7 @@
       "ID": "ball_protector",
       "SetID": "jig50d",
       "Name": "Ball Protector",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -289,7 +294,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -305,9 +310,9 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -385,7 +390,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -441,7 +446,7 @@
       "ID": "untouchable",
       "SetID": "jig50d",
       "Name": "Untouchable",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -449,7 +454,7 @@
       "ID": "weapons",
       "SetID": "jig50d",
       "Name": "You Are Actually Supposed To Use Those",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -466,7 +471,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 1
     }
   ],
@@ -474,8 +479,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:48.1577413+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:07:18.3600283+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-09T03:00:48.5976833+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:48.1577622+00:00"
+  "LastUpdate_Ratings": "2023-05-09T04:01:38.2746436+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:07:18.3600537+00:00"
 }

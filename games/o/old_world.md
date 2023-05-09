@@ -6,25 +6,25 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,046 |
-| Settler | 82.00% | ~8,937 |
-| Explorer | 80.00% | ~8,719 |
-| Friendly Family | 76.00% | ~8,283 |
-| Intrepid | 70.00% | ~7,629 |
-| Able | 62.00% | ~6,757 |
-| Architect | 62.00% | ~6,757 |
-| Mason | 62.00% | ~6,757 |
-| Strong | 61.00% | ~6,648 |
-| Hanging Gardens | 60.00% | ~6,539 |
-| Noble | 59.00% | ~6,430 |
-| Oracle | 59.00% | ~6,430 |
-| Good | 57.00% | ~6,212 |
-| Just | 56.00% | ~6,103 |
-| Judaism | 56.00% | ~6,103 |
-| Keystone | 55.00% | ~5,994 |
-| Glorious | 53.00% | ~5,776 |
-| Trade Caravan | 53.00% | ~5,776 |
-| Naming Landmarks | 51.00% | ~5,558 |
+| Play a Single Player Game | 83.00% | ~9,047 |
+| Settler | 82.00% | ~8,938 |
+| Explorer | 80.00% | ~8,720 |
+| Friendly Family | 76.00% | ~8,284 |
+| Intrepid | 70.00% | ~7,630 |
+| Able | 62.00% | ~6,758 |
+| Architect | 62.00% | ~6,758 |
+| Mason | 62.00% | ~6,758 |
+| Strong | 61.00% | ~6,649 |
+| Hanging Gardens | 60.00% | ~6,540 |
+| Noble | 59.00% | ~6,431 |
+| Oracle | 59.00% | ~6,431 |
+| Good | 57.00% | ~6,213 |
+| Just | 56.00% | ~6,104 |
+| Judaism | 56.00% | ~6,104 |
+| Keystone | 55.00% | ~5,995 |
+| Glorious | 53.00% | ~5,777 |
+| Trade Caravan | 53.00% | ~5,777 |
+| Naming Landmarks | 51.00% | ~5,559 |
 | Learned | 50.00% | ~5,450 |
 | Zoroastrianism | 50.00% | ~5,450 |
 | Fountainhead | 49.00% | ~5,341 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~11 |
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,899 (Ranked 104)  
+Progressed: 10,900 (Ranked 104)  
 Completed: 2 (0.02%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 2 (0.02%) (Ranked 178)
 | 2023-05-06 | 10,827 | 2 |
 | 2023-05-07 | 10,863 | 2 |
 | 2023-05-08 | 10,898 | 2 |
-| 2023-05-09 | 10,899 | 2 |
+| 2023-05-09 | 10,900 | 2 |
 ## Awards
 Max (Relaxing): 216  (Ranked 248)  
 Sum: 1,756 (Ranked 197)  

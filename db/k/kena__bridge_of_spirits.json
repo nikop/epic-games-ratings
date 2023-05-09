@@ -1118,7 +1118,7 @@
   ],
   "EOS_Progressed": 424993,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2345,9 +2345,9 @@
       "ID": "ACH_CHALLENGE_MULTISHOT",
       "SetID": "231ghgk",
       "Name": "Bow Master",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 106248
+      "UsersEstimate": 110498
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -2561,8 +2561,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-01T14:58:01.0334867+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:21.733578+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:06:47.1329472+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.4868688+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:59:13.5493732+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:21.7336181+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:59:39.8986132+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:06:47.1329929+00:00"
 }

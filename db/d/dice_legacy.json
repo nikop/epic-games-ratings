@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.29,
   "RatingHistory": [
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -184,6 +184,11 @@
     {
       "Time": "2023-05-08T13:14:18.5022444+00:00",
       "NumProgressed": 745,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T04:06:37.7370621+00:00",
+      "NumProgressed": 746,
       "NumCompleted": 0
     }
   ],
@@ -378,9 +383,9 @@
       "ID": "FIND_ATTACKS_SOURCE",
       "SetID": "6ohhfoc",
       "Name": "The City",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 37
     },
     {
       "ID": "GOLDMASTER",
@@ -555,7 +560,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 746,
       "Completed": 0
     }
   ],
@@ -563,8 +568,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-09T03:06:13.4144712+00:00",
+  "LastChanged_Achievements": "2023-05-09T04:06:37.7370616+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.7477009+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:58:42.7858152+00:00",
-  "LastUpdate_Achievements": "2023-05-09T03:06:13.4145075+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:59:01.0610035+00:00",
+  "LastUpdate_Achievements": "2023-05-09T04:06:37.7371+00:00"
 }
