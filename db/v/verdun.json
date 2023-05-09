@@ -3,16 +3,17 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 489,
-  "Ranking_Popularity": 331,
+  "Ranking_Popularity": 330,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.53,
   "NumberOfRatings": 1999,
@@ -1477,9 +1478,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 43117,
+  "EOS_Progressed": 43118,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3102,6 +3103,11 @@
       "Time": "2023-05-09T15:24:13.2265758+00:00",
       "NumProgressed": 43117,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-09T16:06:28.0529899+00:00",
+      "NumProgressed": 43118,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 59,
@@ -3113,7 +3119,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 23714
+      "UsersEstimate": 23715
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -3369,7 +3375,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13797
+      "UsersEstimate": 13798
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -3457,7 +3463,7 @@
       "Name": "Manual Labour I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -3481,7 +3487,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 33200
+      "UsersEstimate": 33201
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -3577,22 +3583,22 @@
       "Name": "Blast fishing",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 16384
+      "UsersEstimate": 16385
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 43117,
+      "Progressed": 43118,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-08T20:59:42.7501304+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:13.2265752+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:28.0529894+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:37.2228715+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:19.4884407+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:13.2266468+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:40.5862454+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:28.0530536+00:00"
 }

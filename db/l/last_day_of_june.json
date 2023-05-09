@@ -3,16 +3,19 @@
   "Name": "Last Day of June",
   "ProductSlug": "last-day-of-june",
   "Ranking_Rating": 325,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2017-08-31T15:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "{}"
+    }
   },
   "Rating": 4.63,
   "NumberOfRatings": 33,
@@ -153,6 +156,6 @@
   "FirstSeenRating": "2022-08-09T02:31:32.2864337+00:00",
   "LastChanged": "2023-03-31T05:57:43.969303+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:18.3303457+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:07.3944142+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:21:12.8657429+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:18.9649601+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:15.5933631+00:00"
 }

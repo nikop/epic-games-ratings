@@ -32,6 +32,7 @@
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
+| [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
@@ -111,6 +112,7 @@
 | [Molten Horn](games/m/molten_horn.md) | 2023-09-30 | 2023-09-30 |
 | [Murder Is Game Over - Streaming Death](games/m/murder_is_game_over_-_streaming_death.md) | 2023-09-30 | 2023-09-30 |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2023-09-30 | 2023-09-30 |
+| [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-09-30 | 2023-09-30 |
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | 2023-02-14 |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 2023-09-30 |
 | [Total Reload](games/t/total_reload.md) | 2023-09-30 | 2023-09-30 |
@@ -394,8 +396,8 @@
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |
 | [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | 2020-11-05 |
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2099-04-12 | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | 2099-06-26 |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |
 | [Video Horror Society](games/v/video_horror_society.md) | 2099-07-18 | 2099-07-18 |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | 2099-07-28 | - |

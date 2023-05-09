@@ -3,16 +3,19 @@
   "Name": "Neighbours back From Hell",
   "ProductSlug": "neighbours-back-from-hell",
   "Ranking_Rating": 192,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-10-08T17:00:00+00:00",
     "PcReleaseDate": "2020-10-08T17:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.7,
   "NumberOfRatings": 30,
@@ -145,6 +148,6 @@
   "FirstSeenRating": "2022-08-26T08:01:54.6325484+00:00",
   "LastChanged": "2023-04-08T02:57:26.5505141+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:45.640907+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:35.7476428+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:23:13.9901869+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:41.6468945+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:40.656447+00:00"
 }

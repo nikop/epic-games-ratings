@@ -3,16 +3,19 @@
   "Name": "In Sound Mind",
   "ProductSlug": "in-sound-mind",
   "Ranking_Rating": 376,
-  "Ranking_Popularity": 373,
+  "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-09-28T13:00:00+00:00",
     "PcReleaseDate": "2021-09-28T13:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.6,
   "NumberOfRatings": 1937,
@@ -962,6 +965,6 @@
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
   "LastChanged": "2023-04-12T02:57:58.1210807+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:56.3758546+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:41.3371422+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:22:12.8069601+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:58.0425908+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:30.7202329+00:00"
 }

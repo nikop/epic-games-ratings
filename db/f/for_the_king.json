@@ -3,16 +3,19 @@
   "Name": "For The King",
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 192,
-  "Ranking_Popularity": 207,
+  "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.7,
   "NumberOfRatings": 5563,
@@ -2542,6 +2545,6 @@
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
   "LastChanged": "2023-05-09T06:01:21.9452856+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.7167338+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:01.8362954+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:20:09.2351366+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:14.8677333+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:01:57.1034955+00:00"
 }

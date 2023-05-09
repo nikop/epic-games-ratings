@@ -3,16 +3,17 @@
   "Name": "Scorn",
   "ProductSlug": "scorn",
   "Ranking_Rating": 568,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.48,
   "RatingHistory": [
@@ -187,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1872,
+  "EOS_Progressed": 1873,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.1,
   "EosHistory": [
@@ -302,6 +303,11 @@
       "Time": "2023-05-09T11:06:35.4118232+00:00",
       "NumProgressed": 1872,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-05-09T16:06:18.0389099+00:00",
+      "NumProgressed": 1873,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 12,
@@ -327,9 +333,9 @@
       "ID": "003",
       "SetID": "94k0mj8",
       "Name": "003",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "004",
@@ -408,7 +414,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 1872,
+      "Progressed": 1873,
       "Completed": 133
     }
   ],
@@ -416,8 +422,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:01.3745197+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:18.0389093+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.408296+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:56.4107566+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:01.3745327+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:22.9730562+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:18.0389221+00:00"
 }

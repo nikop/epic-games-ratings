@@ -3,16 +3,19 @@
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
+  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.67,
   "RatingHistory": [
@@ -495,8 +498,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:23.9297191+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:36.6462785+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:13.2811944+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:51.4480615+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:23.9297594+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:18.8658575+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:36.6463046+00:00"
 }

@@ -1,7 +1,7 @@
 # Chainmonsters
 [Store](https://store.epicgames.com/en-US/p/chainmonsters-blockchain-nft-857392)  
 [View Rawdata](../../db/c/chainmonsters.json)  
-Rating: 3.81 (Ranked 906)  
+Rating: 3.81 (Ranked 907)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

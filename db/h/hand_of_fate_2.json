@@ -3,16 +3,19 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 429,
-  "Ranking_Popularity": 426,
+  "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.57,
   "NumberOfRatings": 780,
@@ -829,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 655882,
+  "EOS_Progressed": 655885,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2269,6 +2272,11 @@
       "Time": "2023-05-09T15:24:11.81517+00:00",
       "NumProgressed": 655882,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-09T16:06:26.6145601+00:00",
+      "NumProgressed": 655885,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2280,7 +2288,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472235
+      "UsersEstimate": 472237
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2288,7 +2296,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380412
+      "UsersEstimate": 380413
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2296,7 +2304,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150853
+      "UsersEstimate": 150854
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -2416,7 +2424,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150853
+      "UsersEstimate": 150854
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -2424,7 +2432,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91823
+      "UsersEstimate": 91824
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -2464,7 +2472,7 @@
       "Name": "Leap of Faith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19676
+      "UsersEstimate": 19677
     },
     {
       "ID": "Achievement_25_Purgatorium",
@@ -2536,7 +2544,7 @@
       "Name": "Combat Ready",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19676
+      "UsersEstimate": 19677
     },
     {
       "ID": "Achievement_34_Close_Shave",
@@ -2544,7 +2552,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163970
+      "UsersEstimate": 163971
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -2560,7 +2568,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59029
+      "UsersEstimate": 59030
     },
     {
       "ID": "Achievement_37_Champion",
@@ -2584,7 +2592,7 @@
       "Name": "Stuffed Potato",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19676
+      "UsersEstimate": 19677
     },
     {
       "ID": "Achievement_40_Broken_Heart",
@@ -2663,15 +2671,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655882,
+      "Progressed": 655885,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:11.8151693+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:26.6145423+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.98479+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:31.4418669+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:11.8152521+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:02.8731616+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:26.6146081+00:00"
 }

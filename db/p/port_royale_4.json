@@ -2,17 +2,20 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
-  "Ranking_Rating": 879,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Rating": 880,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4,
   "NumberOfRatings": 53,
@@ -781,8 +784,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-07T22:59:32.8382186+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:25.1691893+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:37.7441719+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:44.962683+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:26.6735748+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:25.1692695+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:46.3745353+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:37.7442155+00:00"
 }

@@ -3,13 +3,17 @@
   "Name": "LEGO\u00AE 2K Drive",
   "ProductSlug": "lego-2k-drive",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
     "PcReleaseDate": "2023-05-19T16:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]",
+      "isPrepurchase": "true"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -25,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:58:45.7195724+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:20.6840224+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:21:21.5663183+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:58:54.6540888+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:22.1823836+00:00"
 }

@@ -3,16 +3,19 @@
   "Name": "Ashen",
   "ProductSlug": "ashen",
   "Ranking_Rating": 723,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2018-12-07T14:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.34,
   "NumberOfRatings": 111,
@@ -374,6 +377,6 @@
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
   "LastChanged": "2023-03-31T05:56:57.9344744+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.9603952+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:13.8536551+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:22:02.6266104+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:24.0661151+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:22.6124237+00:00"
 }

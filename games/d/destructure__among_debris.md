@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Graduation | 74.00% | ~37 |
-| Rookie | 70.00% | ~35 |
+| Rookie | 72.00% | ~36 |
 | You Have Been Deaded | 66.00% | ~33 |
 | Apprentice Destructor | 24.00% | ~12 |
 | You Are Actually Supposed To Use Those | 12.00% | ~6 |

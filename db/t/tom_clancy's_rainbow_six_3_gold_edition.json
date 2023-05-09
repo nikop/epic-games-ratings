@@ -3,13 +3,16 @@
   "Name": "Tom Clancy\u0027s Rainbow Six 3 GOLD EDITION",
   "ProductSlug": "rainbow-six-3-gold-edition",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-03-09T19:00:00+00:00",
     "PcReleaseDate": "2003-03-18T00:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "RatingHistory": [
     {
@@ -37,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.1285362+00:00",
   "LastChanged": "2023-03-31T05:58:42.1285363+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:07.4216777+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:52.4435218+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:20:13.4720603+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:07.0818217+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:02:00.5180581+00:00"
 }

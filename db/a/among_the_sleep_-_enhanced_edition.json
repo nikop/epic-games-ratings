@@ -3,8 +3,8 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 754,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 55,
@@ -12,7 +12,10 @@
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.3,
   "NumberOfRatings": 368,
@@ -440,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70250,
+  "EOS_Progressed": 70257,
   "EOS_Completed": 328,
-  "EOS_NewPlayers": 861,
+  "EOS_NewPlayers": 864,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2060,6 +2063,11 @@
       "Time": "2023-05-09T15:24:49.8013279+00:00",
       "NumProgressed": 70250,
       "NumCompleted": 328
+    },
+    {
+      "Time": "2023-05-09T16:06:58.2545794+00:00",
+      "NumProgressed": 70257,
+      "NumCompleted": 328
     }
   ],
   "TotalAchievements": 10,
@@ -2071,7 +2079,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "Drawings01",
@@ -2079,7 +2087,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "Drawings02",
@@ -2087,7 +2095,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "Drawings03",
@@ -2127,7 +2135,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "Level00BowlingStrike",
@@ -2135,7 +2143,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 25290
+      "UsersEstimate": 25293
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -2150,15 +2158,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 70250,
+      "Progressed": 70257,
       "Completed": 328
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:49.8013271+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:58.2545788+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:29.242445+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:19:24.4082379+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:49.8013592+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:01:20.3850876+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:58.2545976+00:00"
 }

@@ -3,13 +3,16 @@
   "Name": "Going Under",
   "ProductSlug": "going-under",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-09-29T16:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "KR"
+    }
   },
   "RatingHistory": [
     {
@@ -37,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.8880203+00:00",
   "LastChanged": "2023-03-31T05:58:03.8880204+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.4715183+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:25.5094863+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:20:20.5325019+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:45.3945884+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:06.0032099+00:00"
 }

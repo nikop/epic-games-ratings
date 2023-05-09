@@ -1,12 +1,12 @@
 # Ancient Enemy
 [Store](https://store.epicgames.com/en-US/p/ancient-enemy)  
 [View Rawdata](../../db/a/ancient_enemy.json)  
-Rating: 3.95 (Ranked 891)  
+Rating: 3.95 (Ranked 892)  
 Number of Ratings: 2,089  (23.09.2022)  
 ## Awards
-Max (Relaxing): 45  (Ranked 400)  
+Max (Relaxing): 45  (Ranked 399)  
 Sum: 193 (Ranked 351)  
-Diff (max vs sum): 49  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 45 |

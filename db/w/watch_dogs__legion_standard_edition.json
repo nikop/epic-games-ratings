@@ -3,16 +3,19 @@
   "Name": "Watch Dogs: Legion Standard Edition",
   "ProductSlug": "watch-dogs-legion",
   "Ranking_Rating": 699,
-  "Ranking_Popularity": 342,
+  "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-10-29T15:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "CN"
+    }
   },
   "Rating": 4.37,
   "NumberOfRatings": 1361,
@@ -1427,10 +1430,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 611,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-05-09T15:59:43.6496199+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 613,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 611,
+  "NumberOfAwards": 613,
   "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1438,7 +1447,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 72
+      "Count": 74
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1506,8 +1515,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2023-05-09T03:59:50.2379769+00:00",
+  "LastChanged": "2023-05-09T15:59:43.6496197+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:40.654181+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:23.3074666+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:19:51.8595768+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:43.6496201+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:01:43.1096515+00:00"
 }

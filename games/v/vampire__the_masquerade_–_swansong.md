@@ -1,18 +1,18 @@
 # Vampire: The Masquerade – Swansong
 [Store](https://store.epicgames.com/en-US/p/vampire-the-masquerade-swansong)  
 [View Rawdata](../../db/v/vampire__the_masquerade_–_swansong.json)  
-Rating: 4.20 (Ranked 804)  
+Rating: 4.20 (Ranked 805)  
 Number of Ratings: 736  (23.09.2022)  
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 307)  
-Completed: 0 (0.00%) (Ranked 194)  
+Completed: 0 (0.00%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 12 | 0 |
 ## Awards
-Max (Impact the Story): 77  (Ranked 348)  
-Sum: 77 (Ranked 407)  
+Max (Impact the Story): 77  (Ranked 347)  
+Sum: 77 (Ranked 406)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |

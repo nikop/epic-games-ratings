@@ -1,40 +1,40 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.30 (Ranked 919)  
+Rating: 3.30 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 86.00% | ~1,256 |
-| Home Is Where the Heart Is | 67.00% | ~979 |
-| Wounded Whispers | 67.00% | ~979 |
-| Ne Plus Ultra | 66.00% | ~964 |
-| Blood Will Have Blood | 55.00% | ~804 |
-| ICU | 50.00% | ~730 |
-| Catch and Release | 49.00% | ~716 |
-| Peek-a-boo | 48.00% | ~701 |
-| Sucks To Be You | 47.00% | ~687 |
-| Welcome to the Neighborhood | 41.00% | ~599 |
-| Fly Fisher | 39.00% | ~570 |
-| Throw The First Stone | 38.00% | ~555 |
-| Enter of Your Own Free Will | 35.00% | ~511 |
-| Heart Attack | 35.00% | ~511 |
-| Skin of Their Teeth | 35.00% | ~511 |
-| Grounded | 26.00% | ~380 |
-| Bad Wiring | 23.00% | ~336 |
-| I Spit On Your Grave | 22.00% | ~321 |
-| Neighborhood Revitalization | 17.00% | ~248 |
-| Radio Silence | 17.00% | ~248 |
+| I Like My Stakes Rare! | 86.00% | ~1,259 |
+| Home Is Where the Heart Is | 67.00% | ~981 |
+| Wounded Whispers | 67.00% | ~981 |
+| Ne Plus Ultra | 66.00% | ~966 |
+| Blood Will Have Blood | 55.00% | ~805 |
+| ICU | 50.00% | ~732 |
+| Catch and Release | 49.00% | ~717 |
+| Peek-a-boo | 48.00% | ~703 |
+| Sucks To Be You | 47.00% | ~688 |
+| Welcome to the Neighborhood | 41.00% | ~600 |
+| Fly Fisher | 39.00% | ~571 |
+| Throw The First Stone | 38.00% | ~556 |
+| Enter of Your Own Free Will | 35.00% | ~512 |
+| Heart Attack | 35.00% | ~512 |
+| Skin of Their Teeth | 35.00% | ~512 |
+| Grounded | 26.00% | ~381 |
+| Bad Wiring | 23.00% | ~337 |
+| I Spit On Your Grave | 22.00% | ~322 |
+| Neighborhood Revitalization | 17.00% | ~249 |
+| Radio Silence | 17.00% | ~249 |
 | Helping Hand | 13.00% | ~190 |
-| You Clean It Up | 12.00% | ~175 |
-| Starve the Beast | 9.00% | ~131 |
+| You Clean It Up | 12.00% | ~176 |
+| Starve the Beast | 9.00% | ~132 |
 | Block Party | 8.00% | ~117 |
 | From the Shadows | 6.00% | ~88 |
-| Revelations | 4.00% | ~58 |
-| Bell-ringer | 4.00% | ~58 |
-| Right This Way | 4.00% | ~58 |
-| Nice Try | 4.00% | ~58 |
-| Enemy of My Enemy | 4.00% | ~58 |
+| Revelations | 4.00% | ~59 |
+| Bell-ringer | 4.00% | ~59 |
+| Right This Way | 4.00% | ~59 |
+| Nice Try | 4.00% | ~59 |
+| Enemy of My Enemy | 4.00% | ~59 |
 | Contingency Plans | 3.00% | ~44 |
 | Sic Transit Umbra | 3.00% | ~44 |
 | Silence Is Golden | 3.00% | ~44 |
@@ -72,8 +72,8 @@ Rating: 3.30 (Ranked 919)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,461 (Ranked 152)  
-Completed: 0 (0.00%) (Ranked 194)  
+Progressed: 1,464 (Ranked 152)  
+Completed: 0 (0.00%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 1,344 | 0 |
 | 2023-05-07 | 1,412 | 0 |
 | 2023-05-08 | 1,446 | 0 |
-| 2023-05-09 | 1,461 | 0 |
+| 2023-05-09 | 1,464 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

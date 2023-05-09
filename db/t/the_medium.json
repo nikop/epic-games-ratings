@@ -3,16 +3,19 @@
   "Name": "The Medium",
   "ProductSlug": "the-medium",
   "Ranking_Rating": 396,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-01-28T17:00:00+00:00",
     "PcReleaseDate": "2021-01-28T17:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "KR"
+    }
   },
   "Rating": 4.59,
   "RatingHistory": [
@@ -95,6 +98,6 @@
   "FirstSeenRating": "2022-10-24T23:02:37.2163937+00:00",
   "LastChanged": "2023-04-12T04:57:48.9573349+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:09.9427503+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:19:03.4866961+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:23:32.4475639+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:01:03.6447085+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:55.1787223+00:00"
 }

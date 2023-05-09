@@ -3,16 +3,19 @@
   "Name": "Solitairica",
   "ProductSlug": "solitairica",
   "Ranking_Rating": 553,
-  "Ranking_Popularity": 344,
+  "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-12-29T16:00:00+00:00",
     "PcReleaseDate": "2020-12-29T16:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.49,
   "NumberOfRatings": 474,
@@ -820,6 +823,6 @@
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
   "LastChanged": "2023-05-07T12:00:39.4376539+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.4025752+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:26.1342448+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:23:03.506228+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:33.6951249+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:31.6998856+00:00"
 }

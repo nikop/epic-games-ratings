@@ -3,16 +3,19 @@
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 715,
-  "Ranking_Popularity": 334,
+  "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "KR"
+    }
   },
   "Rating": 4.35,
   "NumberOfRatings": 464,
@@ -985,6 +988,6 @@
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
   "LastChanged": "2023-05-08T09:01:56.3820561+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:45.6657268+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:36.7991683+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:23:12.1236108+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:42.5020627+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:38.7712259+00:00"
 }

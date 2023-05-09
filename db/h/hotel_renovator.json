@@ -3,16 +3,17 @@
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.5,
   "RatingHistory": [
@@ -67,11 +68,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 731,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.51,
+  "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -272,6 +273,11 @@
       "Time": "2023-05-08T21:07:09.4006354+00:00",
       "NumProgressed": 730,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-09T16:06:50.4025651+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -307,7 +313,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -339,7 +345,7 @@
       "Name": "Broken heart",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -347,7 +353,7 @@
       "Name": "No need to call anyone",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -363,7 +369,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -371,7 +377,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -403,7 +409,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_POSTCARD",
@@ -435,7 +441,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_STAR_2",
@@ -467,7 +473,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -483,7 +489,7 @@
       "Name": "Excellent service",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -498,7 +504,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 731,
       "Completed": 11
     }
   ],
@@ -506,8 +512,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:39.878835+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:50.4025646+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:32.8171839+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:06.5447236+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:39.8788695+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:58:42.6217123+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:50.4025833+00:00"
 }

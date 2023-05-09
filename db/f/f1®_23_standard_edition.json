@@ -3,13 +3,16 @@
   "Name": "F1\u00AE 23 Standard Edition",
   "ProductSlug": "f1-23",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-16T04:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "isPrepurchase": "true"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -25,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:58:34.915509+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:08.3032408+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:21:09.480034+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:58:44.0288184+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:12.8204434+00:00"
 }

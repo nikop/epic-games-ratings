@@ -3,16 +3,17 @@
   "Name": "The Last Stand: Aftermath",
   "ProductSlug": "the-last-stand-aftermath",
   "Ranking_Rating": 622,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-11-16T15:00:00+00:00",
     "PcReleaseDate": "2021-11-16T15:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.44,
   "NumberOfRatings": 44,
@@ -251,6 +252,6 @@
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
   "LastChanged": "2023-05-05T22:00:41.1044954+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:45.950324+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:37.6494394+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:23:15.7477929+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:42.8986245+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:42.0778511+00:00"
 }

@@ -3,7 +3,7 @@
 [View Rawdata](../../db/m/monorail_stories.json)  
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 322)  
-Completed: 0 (0.00%) (Ranked 194)  
+Completed: 0 (0.00%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

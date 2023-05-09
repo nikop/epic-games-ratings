@@ -3,16 +3,19 @@
   "Name": "Everything",
   "ProductSlug": "everything",
   "Ranking_Rating": 412,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2017-04-21T15:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "{}"
+    }
   },
   "Rating": 4.58,
   "RatingHistory": [
@@ -91,6 +94,6 @@
   "FirstSeenRating": "2022-10-18T21:30:46.9754194+00:00",
   "LastChanged": "2023-05-02T20:57:09.0456848+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:40.1670596+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:14.6163693+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:21:10.4564079+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:58:49.2100675+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:13.6543484+00:00"
 }

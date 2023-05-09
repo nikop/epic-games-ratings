@@ -55,8 +55,8 @@
 | Exterminate pests ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157 (Ranked 231)  
-Completed: 0 (0.00%) (Ranked 194)  
+Progressed: 157 (Ranked 232)  
+Completed: 0 (0.00%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

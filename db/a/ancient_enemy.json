@@ -2,17 +2,20 @@
   "ID": "138c9362d8ff4c239076bc556e18cdac",
   "Name": "Ancient Enemy",
   "ProductSlug": "ancient-enemy",
-  "Ranking_Rating": 891,
-  "Ranking_Popularity": 400,
+  "Ranking_Rating": 892,
+  "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2020-04-09T16:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 3.95,
   "NumberOfRatings": 2089,
@@ -774,6 +777,6 @@
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
   "LastChanged": "2022-09-22T21:00:39.6212241+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.1282972+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:00.6990018+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:22:51.6708484+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:13.8950923+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:22.3218729+00:00"
 }

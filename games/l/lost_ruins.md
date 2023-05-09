@@ -14,9 +14,9 @@
 | Ghost Buster | 17.00% | ~48 |
 | Reincarnation | 17.00% | ~48 |
 | Iconoclasm | 14.00% | ~40 |
+| Orcs Must Die! | 14.00% | ~40 |
 | Librarian | 13.00% | ~37 |
 | Lumberjack | 13.00% | ~37 |
-| Orcs Must Die! | 13.00% | ~37 |
 | The End | 13.00% | ~37 |
 | Gladiator | 12.00% | ~34 |
 | Troubleshooter | 12.00% | ~34 |
@@ -45,8 +45,8 @@
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 209)  
-Completed: 0 (0.00%) (Ranked 194)  
+Progressed: 285 (Ranked 210)  
+Completed: 0 (0.00%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

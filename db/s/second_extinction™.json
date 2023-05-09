@@ -2,17 +2,18 @@
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
   "ProductSlug": "second-extinction",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-09-30T12:00:00+00:00",
     "PcReleaseDate": "2020-10-13T16:01:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.06,
   "NumberOfRatings": 617,
@@ -953,8 +954,8 @@
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
   "LastChanged": "2023-05-09T06:01:43.5830922+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:29.0048912+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:40.9059814+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:27.787526+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:16.5922679+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:29.0048954+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:26.1847514+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:40.9059856+00:00"
 }

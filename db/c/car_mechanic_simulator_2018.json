@@ -6,13 +6,16 @@
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2017-07-28T15:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.49,
   "NumberOfRatings": 38343,
@@ -3345,11 +3348,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 15358,
       "NumberOfAwardsMax": 1974
+    },
+    {
+      "Time": "2023-05-09T15:59:36.6396591+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15359,
+      "NumberOfAwardsMax": 1975
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15358,
-  "NumberOfAwardsMax": 1974,
+  "NumberOfAwards": 15359,
+  "NumberOfAwardsMax": 1975,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -3362,7 +3371,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1974
+      "Count": 1975
     },
     {
       "Text": "This game is Educational",
@@ -3424,8 +3433,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2023-05-08T14:59:51.9170863+00:00",
+  "LastChanged": "2023-05-09T15:59:36.639659+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:34.1424621+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:14.5691603+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:19:51.1065503+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:36.6396594+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:01:42.6030952+00:00"
 }

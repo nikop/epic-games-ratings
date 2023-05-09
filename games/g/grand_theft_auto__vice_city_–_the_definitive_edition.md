@@ -41,7 +41,7 @@ Rating: 4.66 (Ranked 271)
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,095 (Ranked 115)  
-Completed: 20 (0.33%) (Ranked 113)  
+Completed: 20 (0.33%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,8 +61,8 @@ Completed: 20 (0.33%) (Ranked 113)
 | 2023-05-08 | 6,092 | 20 |
 | 2023-05-09 | 6,095 | 20 |
 ## Awards
-Max (Great Boss Battles): 31  (Ranked 439)  
-Sum: 31 (Ranked 456)  
+Max (Great Boss Battles): 31  (Ranked 438)  
+Sum: 31 (Ranked 455)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |

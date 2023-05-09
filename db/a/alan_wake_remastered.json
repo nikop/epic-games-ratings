@@ -3,16 +3,19 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 447,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.56,
   "NumberOfRatings": 524,
@@ -503,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46087,
+  "EOS_Progressed": 46088,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1323,6 +1326,11 @@
       "Time": "2023-05-09T15:06:22.8933757+00:00",
       "NumProgressed": 46087,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-09T16:06:30.5288456+00:00",
+      "NumProgressed": 46088,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1350,7 +1358,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5530
+      "UsersEstimate": 5531
     },
     {
       "ID": "04",
@@ -1462,7 +1470,7 @@
       "Name": "Departure",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "18",
@@ -1869,21 +1877,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46087,
+      "Progressed": 46088,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9555,
+      "Progressed": 9556,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:16.2695616+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:30.528845+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:34.943109+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:16.2696877+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:05.9990583+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:30.5289463+00:00"
 }

@@ -3,16 +3,19 @@
   "Name": "Atomicrops",
   "ProductSlug": "atomicrops",
   "Ranking_Rating": 18,
-  "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 386,
+  "Ranking_Popularity": 292,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2019-09-05T15:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "{}"
+    }
   },
   "Rating": 4.88,
   "NumberOfRatings": 157,
@@ -342,6 +345,6 @@
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
   "LastChanged": "2023-04-19T13:57:41.930692+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:25.2518508+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:13.6761826+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:22:57.0211566+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:23.9243654+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:26.6986411+00:00"
 }

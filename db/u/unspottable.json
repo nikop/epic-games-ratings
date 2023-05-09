@@ -3,13 +3,16 @@
   "Name": "Unspottable",
   "ProductSlug": "unspottable",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-12-14T19:00:00+00:00",
     "PcReleaseDate": "2020-10-22T12:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "RatingHistory": [
     {
@@ -37,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.2382786+00:00",
   "LastChanged": "2023-03-31T05:58:41.2382787+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:56.1032509+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:32.6866547+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:19:56.9424398+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:04.2408411+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:01:47.1543687+00:00"
 }

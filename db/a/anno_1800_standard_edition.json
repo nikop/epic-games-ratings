@@ -6,13 +6,16 @@
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "CN"
+    }
   },
   "Rating": 4.82,
   "NumberOfRatings": 4392,
@@ -4119,10 +4122,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 9851,
       "NumberOfAwardsMax": 1271
+    },
+    {
+      "Time": "2023-05-09T15:59:05.6223249+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9862,
+      "NumberOfAwardsMax": 1271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9851,
+  "NumberOfAwards": 9862,
   "NumberOfAwardsMax": 1271,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4142,7 +4151,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1196
+      "Count": 1202
     },
     {
       "Text": "This game is Educational",
@@ -4178,7 +4187,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1119
+      "Count": 1124
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4204,8 +4213,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-05-09T14:31:33.1400594+00:00",
+  "LastChanged": "2023-05-09T15:59:05.6223247+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:57.0998391+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:34.4055965+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:20:00.8286858+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:05.6223252+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:01:50.5262752+00:00"
 }

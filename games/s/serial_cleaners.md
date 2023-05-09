@@ -29,7 +29,7 @@
 | The Germophobes | 0.00% | ~0 |
 | Mr. Hygeni | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 229)  
+Progressed: 158 (Ranked 230)  
 Completed: 5 (3.16%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |

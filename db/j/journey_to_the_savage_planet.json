@@ -3,16 +3,17 @@
   "Name": "Journey to the Savage Planet",
   "ProductSlug": "journey-to-the-savage-planet",
   "Ranking_Rating": 429,
-  "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 446,
+  "Ranking_Popularity": 419,
+  "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-01-28T14:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.57,
   "NumberOfRatings": 114,
@@ -336,6 +337,6 @@
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
   "LastChanged": "2023-05-01T20:58:43.4905523+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.1425403+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:37.3799743+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:21:05.5732568+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:54.8049023+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:09.5880999+00:00"
 }

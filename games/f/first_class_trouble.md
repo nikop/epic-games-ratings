@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/first_class_trouble.json)  
 Rating: 4.52 (Ranked 501)  
 ## Awards
-Max (Great for Beginners): 86  (Ranked 339)  
+Max (Great for Beginners): 86  (Ranked 338)  
 Sum: 606 (Ranked 275)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 86 |

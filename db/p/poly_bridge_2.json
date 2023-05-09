@@ -3,16 +3,19 @@
   "Name": "Poly Bridge 2",
   "ProductSlug": "poly-bridge-2",
   "Ranking_Rating": 467,
-  "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 452,
+  "Ranking_Popularity": 432,
+  "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-05-28T17:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 4.55,
   "NumberOfRatings": 54,
@@ -286,6 +289,6 @@
   "FirstSeen": "2022-07-22T20:16:52.1339202+00:00",
   "LastChanged": "2023-04-16T18:56:59.0385796+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9502135+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:19:09.4854947+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:23:38.0159299+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:01:08.4510904+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:59.5579968+00:00"
 }

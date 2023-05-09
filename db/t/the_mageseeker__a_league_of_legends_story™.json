@@ -3,16 +3,17 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 141,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.74,
   "RatingHistory": [
@@ -71,7 +72,7 @@
   "Tags": [],
   "EOS_Progressed": 1935,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1471,8 +1472,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-08T18:59:09.7080254+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:15.5754172+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:29.8434955+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:34.0956601+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:15.5754903+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:05.3748328+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:29.8435491+00:00"
 }

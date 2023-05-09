@@ -7,12 +7,13 @@
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.65,
   "NumberOfRatings": 1307,
@@ -1406,9 +1407,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 10915,
+  "EOS_Progressed": 10916,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2576,6 +2577,11 @@
       "Time": "2023-05-09T14:39:48.7294581+00:00",
       "NumProgressed": 10915,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-09T16:06:46.1135496+00:00",
+      "NumProgressed": 10916,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 285,
@@ -2643,7 +2649,7 @@
       "Name": "Bad Heir Day",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -2915,7 +2921,7 @@
       "Name": "Able",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 6767
+      "UsersEstimate": 6768
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -2939,7 +2945,7 @@
       "Name": "Architect",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 6767
+      "UsersEstimate": 6768
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -2971,7 +2977,7 @@
       "Name": "Brilliant",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3821
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -3011,7 +3017,7 @@
       "Name": "Enlightened",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -3019,7 +3025,7 @@
       "Name": "Explorer",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 8732
+      "UsersEstimate": 8733
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -3027,7 +3033,7 @@
       "Name": "Fountainhead",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 5348
+      "UsersEstimate": 5349
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -3051,7 +3057,7 @@
       "Name": "Great",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 4475
+      "UsersEstimate": 4476
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -3075,7 +3081,7 @@
       "Name": "Intrepid",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 7640
+      "UsersEstimate": 7641
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -3083,7 +3089,7 @@
       "Name": "Invincible",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -3091,7 +3097,7 @@
       "Name": "Just",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 6112
+      "UsersEstimate": 6113
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -3099,7 +3105,7 @@
       "Name": "Keystone",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 6003
+      "UsersEstimate": 6004
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -3123,7 +3129,7 @@
       "Name": "Lion",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -3131,7 +3137,7 @@
       "Name": "Magnificent",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 5130
+      "UsersEstimate": 5131
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -3139,7 +3145,7 @@
       "Name": "Mason",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 6767
+      "UsersEstimate": 6768
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -3179,7 +3185,7 @@
       "Name": "Pioneer",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 5348
+      "UsersEstimate": 5349
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -3211,7 +3217,7 @@
       "Name": "Settler",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 8950
+      "UsersEstimate": 8951
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -3219,7 +3225,7 @@
       "Name": "Strong",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 6658
+      "UsersEstimate": 6659
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -3267,7 +3273,7 @@
       "Name": "Wise",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -3283,7 +3289,7 @@
       "Name": "Developing Cities",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 5348
+      "UsersEstimate": 5349
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -3443,7 +3449,7 @@
       "Name": "Hunters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -3459,7 +3465,7 @@
       "Name": "Patrons",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -3499,7 +3505,7 @@
       "Name": "Friendly Family",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 8295
+      "UsersEstimate": 8296
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -3899,7 +3905,7 @@
       "Name": "Hittite Iron",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -3915,7 +3921,7 @@
       "Name": "Apadana",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 3929
+      "UsersEstimate": 3930
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -3939,7 +3945,7 @@
       "Name": "Great Ziggurat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
@@ -3955,7 +3961,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 6549
+      "UsersEstimate": 6550
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -4003,7 +4009,7 @@
       "Name": "Lighthouse",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 4475
+      "UsersEstimate": 4476
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -4011,7 +4017,7 @@
       "Name": "Mausoleum",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -4019,7 +4025,7 @@
       "Name": "Musaeum",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 3929
+      "UsersEstimate": 3930
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -4107,7 +4113,7 @@
       "Name": "Learn to Play 1",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -4115,7 +4121,7 @@
       "Name": "Learn to Play 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -4123,7 +4129,7 @@
       "Name": "Learn to Play 3",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -4339,7 +4345,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 9059
+      "UsersEstimate": 9060
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -4363,7 +4369,7 @@
       "Name": "Christianity",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -4371,7 +4377,7 @@
       "Name": "Judaism",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 6112
+      "UsersEstimate": 6113
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -4379,7 +4385,7 @@
       "Name": "Manichaeism",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 3929
+      "UsersEstimate": 3930
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -4443,7 +4449,7 @@
       "Name": "Roman Paganism",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -4531,7 +4537,7 @@
       "Name": "Industrial Progress",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -4563,7 +4569,7 @@
       "Name": "Gnosticism",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -4571,7 +4577,7 @@
       "Name": "Legalism",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -4603,7 +4609,7 @@
       "Name": "Veneration",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -4866,21 +4872,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 10915,
+      "Progressed": 10916,
       "Completed": 2
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 10915,
+      "Progressed": 10916,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-05-08T13:05:19.6372301+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:34.5416832+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:46.1135473+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.7726608+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:52.58355+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:34.542907+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:19.8998435+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:46.1144177+00:00"
 }

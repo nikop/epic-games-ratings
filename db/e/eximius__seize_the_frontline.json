@@ -2,17 +2,18 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 804,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Rating": 805,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 49,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "Rating": 4.2,
   "RatingHistory": [
@@ -221,9 +222,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183919,
+  "EOS_Progressed": 183926,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1109,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1861,6 +1862,11 @@
       "Time": "2023-05-09T15:24:39.5264114+00:00",
       "NumProgressed": 183919,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-09T16:06:50.0303073+00:00",
+      "NumProgressed": 183926,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1880,7 +1886,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 130582
+      "UsersEstimate": 130587
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -1904,7 +1910,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33105
+      "UsersEstimate": 33107
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -1976,7 +1982,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -1999,7 +2005,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 183919,
+      "Progressed": 183926,
       "Completed": 4
     }
   ],
@@ -2007,8 +2013,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-06T20:00:47.8638846+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:39.5264108+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:50.0303068+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.0826299+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:43.5165639+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:39.5264348+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:47.2397237+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:50.0303283+00:00"
 }

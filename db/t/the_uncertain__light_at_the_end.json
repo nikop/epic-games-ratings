@@ -2,17 +2,20 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 901,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Rating": 902,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 77,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "Rating": 3.88,
   "RatingHistory": [
@@ -365,8 +368,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-04-14T16:58:18.4820759+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:54.921993+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:07:03.1042873+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:35.0221591+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:19:33.9345528+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:54.922027+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:01:27.4694821+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:07:03.1043084+00:00"
 }

@@ -14,8 +14,8 @@ Rating: 4.33 (Ranked 734)
 | The Blackmail | 59.00% | ~202 |
 | Major Felix Hagen | 59.00% | ~202 |
 | Florette Duval | 58.00% | ~198 |
+| Order and Method | 56.00% | ~192 |
 | Fine-toothed Comb | 56.00% | ~192 |
-| Order and Method | 55.00% | ~188 |
 | The Altercation | 52.00% | ~178 |
 | Truth from Within | 51.00% | ~174 |
 | The Major | 50.00% | ~171 |
@@ -52,7 +52,7 @@ Rating: 4.33 (Ranked 734)
 | Room with a View | 8.00% | ~27 |
 | Work-life Balance | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 201)  
+Progressed: 342 (Ranked 202)  
 Completed: 4 (1.17%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |

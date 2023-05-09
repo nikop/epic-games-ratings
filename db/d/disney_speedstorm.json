@@ -3,20 +3,21 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2394,
+  "EOS_Progressed": 2395,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1134,6 +1135,11 @@
       "Time": "2023-05-09T15:24:26.6242001+00:00",
       "NumProgressed": 2394,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T16:06:38.9914529+00:00",
+      "NumProgressed": 2395,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1225,15 +1231,15 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "2",
       "SetID": "9p3jgda",
       "Name": "ACE SPEEDSTER",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 455
+      "UsersEstimate": 431
     },
     {
       "ID": "20",
@@ -1241,7 +1247,7 @@
       "Name": "PROTECTED",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "21",
@@ -1265,7 +1271,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "24",
@@ -1273,7 +1279,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "3",
@@ -1289,7 +1295,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "5",
@@ -1336,13 +1342,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2394,
+      "Progressed": 2395,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:26.6241993+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:38.9914523+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:17:50.8463634+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:26.6242397+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:05.9851434+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:38.9914778+00:00"
 }

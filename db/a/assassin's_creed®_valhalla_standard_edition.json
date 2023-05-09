@@ -6,13 +6,17 @@
   "Ranking_Popularity": 29,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "CN,RU,BY",
+      "partnerLinkType": "ubisoft"
+    }
   },
   "Rating": 4.6,
   "NumberOfRatings": 12317,
@@ -4656,10 +4660,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 27222,
       "NumberOfAwardsMax": 11733
+    },
+    {
+      "Time": "2023-05-09T15:58:57.6342272+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27225,
+      "NumberOfAwardsMax": 11733
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27222,
+  "NumberOfAwards": 27225,
   "NumberOfAwardsMax": 11733,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4691,7 +4701,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 940
+      "Count": 943
     },
     {
       "Text": "This game is Relaxing",
@@ -4747,8 +4757,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-05-09T13:59:00.5912638+00:00",
+  "LastChanged": "2023-05-09T15:58:57.6342271+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.2009153+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:24.3194714+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:20:07.7157231+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:58:57.6342275+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:01:55.8504464+00:00"
 }

@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.13 (Ranked 848)  
+Rating: 4.13 (Ranked 849)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,7 +43,7 @@ Number of Ratings: 281  (23.09.2022)
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,441 (Ranked 130)  
-Completed: 0 (0.00%) (Ranked 194)  
+Completed: 0 (0.00%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,9 +63,9 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-08 | 3,438 | 0 |
 | 2023-05-09 | 3,441 | 0 |
 ## Awards
-Max (Relaxing): 32  (Ranked 433)  
+Max (Relaxing): 32  (Ranked 432)  
 Sum: 158 (Ranked 374)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |

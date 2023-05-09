@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,235 |
-| Apprentice | 58.00% | ~380,412 |
-| Close Shave | 25.00% | ~163,970 |
-| Mercenary | 23.00% | ~150,853 |
-| Ninja | 23.00% | ~150,853 |
+| The Fool | 72.00% | ~472,237 |
+| Apprentice | 58.00% | ~380,413 |
+| Close Shave | 25.00% | ~163,971 |
+| Mercenary | 23.00% | ~150,854 |
+| Ninja | 23.00% | ~150,854 |
 | Northern Scourge | 17.00% | ~111,500 |
-| Thief Bane | 14.00% | ~91,823 |
+| Thief Bane | 14.00% | ~91,824 |
 | Master of Arms | 12.00% | ~78,706 |
 | Gambler | 10.00% | ~65,588 |
 | Dice Master | 10.00% | ~65,588 |
-| Swordsman | 9.00% | ~59,029 |
+| Swordsman | 9.00% | ~59,030 |
 | Knight | 8.00% | ~52,471 |
 | Cure for Corruption | 8.00% | ~52,471 |
 | Focused | 8.00% | ~52,471 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 6.00% | ~39,353 |
 | Jack of all Trades | 5.00% | ~32,794 |
 | Smithy | 5.00% | ~32,794 |
-| Leap of Faith | 3.00% | ~19,676 |
-| Combat Ready | 3.00% | ~19,676 |
-| Stuffed Potato | 3.00% | ~19,676 |
+| Leap of Faith | 3.00% | ~19,677 |
+| Combat Ready | 3.00% | ~19,677 |
+| Stuffed Potato | 3.00% | ~19,677 |
 | Card Sharp | 2.00% | ~13,118 |
 | Magician | 2.00% | ~13,118 |
 | Draknar's Bane | 2.00% | ~13,118 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,882 (Ranked 18)  
+Progressed: 655,885 (Ranked 18)  
 Completed: 164 (0.03%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,11 +74,11 @@ Completed: 164 (0.03%) (Ranked 176)
 | 2023-05-06 | 655,725 | 164 |
 | 2023-05-07 | 655,791 | 164 |
 | 2023-05-08 | 655,846 | 164 |
-| 2023-05-09 | 655,882 | 164 |
+| 2023-05-09 | 655,885 | 164 |
 ## Awards
-Max (Amazing Storytelling): 35  (Ranked 426)  
+Max (Amazing Storytelling): 35  (Ranked 425)  
 Sum: 180 (Ranked 358)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

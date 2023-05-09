@@ -1,7 +1,7 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.15 (Ranked 839)  
+Rating: 4.15 (Ranked 840)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -91,8 +91,8 @@ Completed: 1 (0.14%) (Ranked 145)
 | 2023-05-01 | 697 | 1 |
 | 2023-05-06 | 698 | 1 |
 ## Awards
-Max (Challenging Puzzles): 71  (Ranked 361)  
-Sum: 71 (Ranked 416)  
+Max (Challenging Puzzles): 71  (Ranked 360)  
+Sum: 71 (Ranked 415)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |

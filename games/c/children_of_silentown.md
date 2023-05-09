@@ -19,7 +19,7 @@
 | Doll | 37.00% | ~54 |
 | Windmill | 36.00% | ~52 |
 | Cat | 32.00% | ~46 |
-| Mysterious paintings | 31.00% | ~45 |
+| Mysterious paintings | 32.00% | ~46 |
 | Depths of the well | 22.00% | ~32 |
 | Children | 21.00% | ~30 |
 | Huge Snail | 15.00% | ~22 |
@@ -31,8 +31,8 @@
 | Hope | 6.00% | ~9 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 239)  
-Completed: 0 (0.00%) (Ranked 194)  
+Progressed: 145 (Ranked 240)  
+Completed: 0 (0.00%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

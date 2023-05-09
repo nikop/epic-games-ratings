@@ -3,16 +3,19 @@
   "Name": "Eastward",
   "ProductSlug": "eastward",
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-09-16T07:00:00+00:00",
     "PcReleaseDate": "2021-09-16T07:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "CN, HK, TW"
+    }
   },
   "Rating": 4.67,
   "NumberOfRatings": 33,
@@ -146,6 +149,6 @@
   "FirstSeenRating": "2022-07-31T06:31:42.9533956+00:00",
   "LastChanged": "2023-03-31T05:58:19.5067631+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:09.9111696+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:16:47.1316767+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:20:04.6696135+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:59:15.9119488+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:01:53.6369036+00:00"
 }

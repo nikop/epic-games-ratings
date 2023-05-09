@@ -3,13 +3,16 @@
   "Name": "Foregone",
   "ProductSlug": "foregone",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-02-26T16:00:00+00:00",
     "PcReleaseDate": null,
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "{}"
+    }
   },
   "RatingHistory": [
     {
@@ -37,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:53.3098683+00:00",
   "LastChanged": "2023-03-31T05:57:53.3098684+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:07.2833347+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:19:00.9226795+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:21:14.9122978+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:01:01.5779404+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:04:16.994079+00:00"
 }

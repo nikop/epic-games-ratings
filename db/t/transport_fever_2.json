@@ -3,16 +3,19 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 192,
-  "Ranking_Popularity": 413,
+  "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "KR"
+    }
   },
   "Rating": 4.7,
   "NumberOfRatings": 180,
@@ -1318,8 +1321,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-06T04:00:32.6633108+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:46.6399533+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:55.615322+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.5035805+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:34.0776287+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:46.6400551+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:40.665338+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:55.6153728+00:00"
 }

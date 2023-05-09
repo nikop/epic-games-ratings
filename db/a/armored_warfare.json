@@ -2,17 +2,20 @@
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
   "ProductSlug": "armored-warfare",
-  "Ranking_Rating": 852,
-  "Ranking_Popularity": 355,
-  "Ranking_PopularitySum": 282,
+  "Ranking_Rating": 853,
+  "Ranking_Popularity": 352,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-04-21T14:00:00+00:00",
     "PcReleaseDate": "2022-04-21T14:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "KR"
+    }
   },
   "Rating": 4.12,
   "NumberOfRatings": 458,
@@ -999,11 +1002,17 @@
       "Rating": 4.12,
       "NumberOfAwards": 579,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-05-09T16:00:57.2410939+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 580,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 579,
-  "NumberOfAwardsMax": 73,
+  "NumberOfAwards": 580,
+  "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1022,7 +1031,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1078,8 +1087,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-05-08T16:01:09.5022753+00:00",
+  "LastChanged": "2023-05-09T16:00:57.2410937+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:02.4584348+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:55.8618855+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:23:26.1945141+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:57.2410941+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:05:50.2425004+00:00"
 }

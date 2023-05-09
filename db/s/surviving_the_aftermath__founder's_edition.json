@@ -3,16 +3,19 @@
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 577,
-  "Ranking_Popularity": 321,
+  "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
-    "isBlockchainUsed": false
+    "isBlockchainUsed": false,
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "{}"
+    }
   },
   "Rating": 4.47,
   "NumberOfRatings": 836,
@@ -974,7 +977,7 @@
   ],
   "EOS_Progressed": 5079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2816,8 +2819,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-04T17:00:01.1569445+00:00",
-  "LastChanged_Achievements": "2023-05-09T15:24:48.0154428+00:00",
+  "LastChanged_Achievements": "2023-05-09T16:06:56.6775385+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:01.275782+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:18:54.0943726+00:00",
-  "LastUpdate_Achievements": "2023-05-09T15:24:48.0155539+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:00:55.4499854+00:00",
+  "LastUpdate_Achievements": "2023-05-09T16:06:56.6776178+00:00"
 }

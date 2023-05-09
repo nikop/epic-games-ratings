@@ -3,9 +3,9 @@
 [View Rawdata](../../db/p/predecessor.json)  
 Rating: 4.44 (Ranked 622)  
 ## Awards
-Max (Diverse Characters): 79  (Ranked 346)  
+Max (Diverse Characters): 79  (Ranked 345)  
 Sum: 519 (Ranked 289)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 79 |

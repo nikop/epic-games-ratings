@@ -19,6 +19,7 @@
 | Job Creator | 31.00% | ~5 |
 | A Real Headache | 25.00% | ~4 |
 | A Light in the Dark | 25.00% | ~4 |
+| Socially Acceptable Insanity | 25.00% | ~4 |
 | A Total Riot | 19.00% | ~3 |
 | The Guardian | 19.00% | ~3 |
 | Blood Begets Blood | 19.00% | ~3 |
@@ -27,7 +28,6 @@
 | Knock Knock | 19.00% | ~3 |
 | The Partner | 19.00% | ~3 |
 | Quidnunc | 19.00% | ~3 |
-| Socially Acceptable Insanity | 19.00% | ~3 |
 | The Companion | 19.00% | ~3 |
 | That One Doesn't Count | 19.00% | ~3 |
 | They Flock to Him | 19.00% | ~3 |
@@ -54,7 +54,7 @@
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 305)  
-Completed: 0 (0.00%) (Ranked 194)  
+Completed: 0 (0.00%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
