@@ -68,8 +68,14 @@ namespace EpicRatingsUpdater
                                 continue;
                             }
 
-                            if (globalDb.KnownCustomAttributes.TryAdd(attr.value, el.ns))
+                            if (!globalDb.KnownCustomAttributes.ContainsKey(attr.key))
                             {
+                                globalDb.KnownCustomAttributes[attr.key] = new();
+                            }
+
+                            if (!globalDb.KnownCustomAttributes[attr.key].KnownValues.ContainsKey(attr.value))
+                            {
+                                globalDb.KnownCustomAttributes[attr.key].KnownValues[attr.key] = el.ns;
                                 Console.WriteLine($"::notice::New Atrribute {attr.key} in {el.ns} / {el.title}");
                             }
                         }
