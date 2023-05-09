@@ -3,8 +3,11 @@ using EpicRatingsUpdater.GameDatabase;
 using EpicRatingsUpdater.Markdown;
 
 using System.Text.Json;
+using CliWrap;
 
 // Configs
+var gitCmd = Cli.Wrap("git");
+
 var path = new DirectoryInfo(".").FullName;
 var index = new Dictionary<string, string>();
 
@@ -158,6 +161,9 @@ foreach (var item in items)
 
     await File.WriteAllTextAsync(fullName, page);
 }
+
+await gitCmd.WithArguments(new[] { "add", "." }).ExecuteAsync();
+await gitCmd.WithArguments(new[] { "commit", "-m", "Update DB" }).ExecuteAsync();
 
 string RawLink(GameDbItem item)
 {
@@ -324,3 +330,7 @@ await File.WriteAllTextAsync(
     Path.Combine(path, "experimental/reviews_disabled.md"),
     eosGamesSets.FormatTable(items.Where(x => x.ReviewsDisabled).OrderBy(x => x.Name))
 );
+
+//
+await gitCmd.WithArguments(new[] { "add", "." }).ExecuteAsync();
+await gitCmd.WithArguments(new[] { "commit", "-m", "Generate Markdown Lists" }).ExecuteAsync();

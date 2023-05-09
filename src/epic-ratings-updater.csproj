@@ -9,6 +9,7 @@
   </PropertyGroup>
 	
   <ItemGroup>
+    <PackageReference Include="CliWrap" Version="3.6.1" />
     <PackageReference Include="GraphQL.Client" Version="5.0.2" />
     <PackageReference Include="GraphQL.Client.Serializer.SystemTextJson" Version="5.0.2" />
   </ItemGroup>
