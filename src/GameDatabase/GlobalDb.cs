@@ -12,7 +12,7 @@ namespace EpicRatingsUpdater.GameDatabase
     {
         public DateTimeOffset CatalogLastModifiedDate { get; set; } = DateTimeOffset.MinValue;
 
-        [JsonPropertyName("KnownCustomAttributes_v2")]
+        [JsonPropertyName("KnownCustomAttributes")]
         public Dictionary<string, GlobalDbAttrib> KnownCustomAttributes { get; set; } = new();
     }
 }
