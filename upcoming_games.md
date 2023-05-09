@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Save District 3](games/s/save_district_3.md) | 2023-05-09 | 2023-04-10 |
 | [Cyber Drift](games/c/cyber_drift.md) | 2023-05-10 | 2023-04-28 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 2023-02-12 |
 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 2023-05-10 |
