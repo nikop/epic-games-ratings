@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Butcher | 100.00% | ~1 |
-| Kärrhäxan | 100.00% | ~1 |
-| Näcken | 100.00% | ~1 |
-| Pesta | 100.00% | ~1 |
-| Bramble | 100.00% | ~1 |
-| Skogsrået | 100.00% | ~1 |
-| Book worm | 100.00% | ~1 |
-| Witchcraft | 100.00% | ~1 |
-| Gnome Figurine | 100.00% | ~1 |
-| Lyktgubben Figurine | 100.00% | ~1 |
-| Näcken Figurine | 100.00% | ~1 |
-| Pesta Figurine | 100.00% | ~1 |
-| Lillemor Figurine | 100.00% | ~1 |
-| Skogsrået Figurine | 100.00% | ~1 |
-| Troll Figurine | 100.00% | ~1 |
-| Tuva Figurine | 100.00% | ~1 |
-| Bouncy | 100.00% | ~1 |
-| Proper burial | 100.00% | ~1 |
-| Bait | 100.00% | ~1 |
+| Butcher | 50.00% | ~1 |
+| Kärrhäxan | 50.00% | ~1 |
+| Näcken | 50.00% | ~1 |
+| Pesta | 50.00% | ~1 |
+| Bramble | 50.00% | ~1 |
+| Skogsrået | 50.00% | ~1 |
+| Book worm | 50.00% | ~1 |
+| Witchcraft | 50.00% | ~1 |
+| Gnome Figurine | 50.00% | ~1 |
+| Lyktgubben Figurine | 50.00% | ~1 |
+| Näcken Figurine | 50.00% | ~1 |
+| Pesta Figurine | 50.00% | ~1 |
+| Lillemor Figurine | 50.00% | ~1 |
+| Skogsrået Figurine | 50.00% | ~1 |
+| Troll Figurine | 50.00% | ~1 |
+| Tuva Figurine | 50.00% | ~1 |
+| Bouncy | 50.00% | ~1 |
+| Proper burial | 50.00% | ~1 |
+| Bait | 50.00% | ~1 |
 | Goal! | 0.00% | ~0 |
 | The Mountain King | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
@@ -35,12 +35,12 @@
 | Savior | 0.00% | ~0 |
 | Murderer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 365)  
-Completed: 0 (0.00%) (Ranked 195)  
+Progressed: 2 (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-05-09 | 1 | 0 |
+| 2023-05-09 | 2 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

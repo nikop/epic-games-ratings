@@ -6,14 +6,14 @@ Rating: 4.33 (Ranked 734)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 92.00% | ~315 |
-| Luc Piette | 78.00% | ~267 |
+| Luc Piette | 79.00% | ~270 |
 | Angeline Van den Bosch | 76.00% | ~260 |
+| Elizabeth Padget | 74.00% | ~253 |
 | Little Grey Cells | 73.00% | ~250 |
-| Elizabeth Padget | 73.00% | ~250 |
 | The Bracelet | 69.00% | ~236 |
 | The Blackmail | 59.00% | ~202 |
+| Florette Duval | 59.00% | ~202 |
 | Major Felix Hagen | 59.00% | ~202 |
-| Florette Duval | 58.00% | ~198 |
 | Order and Method | 56.00% | ~192 |
 | Fine-toothed Comb | 56.00% | ~192 |
 | The Altercation | 52.00% | ~178 |
@@ -53,7 +53,7 @@ Rating: 4.33 (Ranked 734)
 | Work-life Balance | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 342 (Ranked 202)  
-Completed: 4 (1.17%) (Ranked 79)  
+Completed: 4 (1.17%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

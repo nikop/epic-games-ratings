@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 103.00% | ~30 |
-| First Blood | 76.00% | ~22 |
+| First Blood | 79.00% | ~23 |
 | No Asperascope | 66.00% | ~19 |
 | Triple Kill | 62.00% | ~18 |
 | Cornivore | 62.00% | ~18 |
@@ -50,7 +50,7 @@
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 29 (Ranked 289)  
-Completed: 0 (0.00%) (Ranked 195)  
+Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

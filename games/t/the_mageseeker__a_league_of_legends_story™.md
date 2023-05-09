@@ -1,31 +1,31 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 140)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,838 |
-| No more cages! | 92.00% | ~1,780 |
-| Everfrost | 77.00% | ~1,490 |
+| For Demacia | 95.00% | ~1,839 |
+| No more cages! | 92.00% | ~1,781 |
+| Everfrost | 77.00% | ~1,491 |
 | Dark Forest | 76.00% | ~1,471 |
-| Pentakill | 75.00% | ~1,451 |
-| The use of petricite | 72.00% | ~1,393 |
-| You can pet the dog | 60.00% | ~1,161 |
+| Pentakill | 75.00% | ~1,452 |
+| The use of petricite | 72.00% | ~1,394 |
+| You can pet the dog | 60.00% | ~1,162 |
 | Big Helmet Bro | 34.00% | ~658 |
 | Clarion Cove | 34.00% | ~658 |
-| Past trauma | 32.00% | ~619 |
-| Ternmoat Headquarters | 32.00% | ~619 |
+| Past trauma | 32.00% | ~620 |
+| Ternmoat Headquarters | 32.00% | ~620 |
 | Thornbarrow | 31.00% | ~600 |
 | Cypress Glen Headquarters | 31.00% | ~600 |
-| Elemental master | 30.00% | ~580 |
+| Elemental master | 30.00% | ~581 |
 | Old friend | 26.00% | ~503 |
 | Petricite Burst | 26.00% | ~503 |
 | Devineur | 25.00% | ~484 |
-| Whispers in the Woods I | 24.00% | ~464 |
-| Hijack | 24.00% | ~464 |
+| Whispers in the Woods I | 24.00% | ~465 |
+| Hijack | 24.00% | ~465 |
 | Ancient power | 22.00% | ~426 |
-| I chose my shackles | 21.00% | ~406 |
+| I chose my shackles | 21.00% | ~407 |
 | Sacred Woods | 20.00% | ~387 |
 | Capelworth | 19.00% | ~368 |
 | Little light | 18.00% | ~348 |
@@ -33,9 +33,9 @@ Rating: 4.74 (Ranked 141)
 | Glyndemere | 17.00% | ~329 |
 | Full equipped | 16.00% | ~310 |
 | Whispers in the Woods II | 15.00% | ~290 |
+| No more holding back | 14.00% | ~271 |
 | Quickmoore Headquarters | 14.00% | ~271 |
 | Whispers in the Woods III | 13.00% | ~252 |
-| No more holding back | 13.00% | ~252 |
 | Terbisia | 13.00% | ~252 |
 | My heart and sword always for Demacia | 12.00% | ~232 |
 | Friendly fire | 12.00% | ~232 |
@@ -52,15 +52,15 @@ Rating: 4.74 (Ranked 141)
 | You can pet the... horse | 8.00% | ~155 |
 | Back to sleep, then... | 8.00% | ~155 |
 | Call it 'redistribution of magic | 8.00% | ~155 |
-| Do you trust me? | 7.00% | ~135 |
-| Truth is a dark mirror | 7.00% | ~135 |
-| Spellcrafting | 7.00% | ~135 |
+| Do you trust me? | 7.00% | ~136 |
+| Truth is a dark mirror | 7.00% | ~136 |
+| Spellcrafting | 7.00% | ~136 |
 | The great mage rebellion starts now | 6.00% | ~116 |
 | Silverwing nest | 2.00% | ~39 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,935 (Ranked 143)  
-Completed: 1 (0.05%) (Ranked 167)  
+Progressed: 1,936 (Ranked 143)  
+Completed: 1 (0.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 1 (0.05%) (Ranked 167)
 | 2023-05-06 | 1,899 | 1 |
 | 2023-05-07 | 1,916 | 1 |
 | 2023-05-08 | 1,927 | 1 |
-| 2023-05-09 | 1,935 | 1 |
+| 2023-05-09 | 1,936 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

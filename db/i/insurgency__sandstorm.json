@@ -6,9 +6,9 @@
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 35,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -1805,10 +1805,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2624,
       "NumberOfAwardsMax": 350
+    },
+    {
+      "Time": "2023-05-09T16:59:16.9051176+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2625,
+      "NumberOfAwardsMax": 350
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2624,
+  "NumberOfAwards": 2625,
   "NumberOfAwardsMax": 350,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1828,7 +1834,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 306
+      "Count": 307
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1879,9 +1885,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 364389,
+  "EOS_Progressed": 364400,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3694,
+  "EOS_NewPlayers": 3682,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3554,6 +3560,11 @@
       "Time": "2023-05-09T16:06:19.9024065+00:00",
       "NumProgressed": 364389,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-09T17:06:18.8160089+00:00",
+      "NumProgressed": 364400,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -3733,7 +3744,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18219
+      "UsersEstimate": 18220
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -3829,7 +3840,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18219
+      "UsersEstimate": 18220
     },
     {
       "ID": "ACH_WET_FEET",
@@ -3844,15 +3855,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 364389,
+      "Progressed": 364400,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-05-09T14:31:46.7699591+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:06:19.9024059+00:00",
+  "LastChanged": "2023-05-09T16:59:16.9051174+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:06:18.8160085+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.258944+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:59:15.5372144+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:19.9024423+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:59:16.905118+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:06:18.8160377+00:00"
 }

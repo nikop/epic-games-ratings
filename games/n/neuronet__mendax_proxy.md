@@ -32,12 +32,12 @@
 | That One Doesn't Count | 19.00% | ~3 |
 | They Flock to Him | 19.00% | ~3 |
 | The Counsellor | 19.00% | ~3 |
+| Zonk! | 19.00% | ~3 |
 | Full Coverage | 13.00% | ~2 |
 | Obligatory Fraudulent Baking | 13.00% | ~2 |
 | Overseer | 13.00% | ~2 |
 | The Provocateur | 13.00% | ~2 |
 | Social Butterfly | 13.00% | ~2 |
-| Zonk! | 13.00% | ~2 |
 | A Little Eccentric | 6.00% | ~1 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
 | Double Agent | 6.00% | ~1 |
@@ -54,7 +54,7 @@
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 305)  
-Completed: 0 (0.00%) (Ranked 195)  
+Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

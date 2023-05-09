@@ -2,9 +2,9 @@
   "ID": "8c32c11719374c049cac0b07d2a338a0",
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
-  "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_Progress": 188,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 540,
-  "EOS_Completed": 30,
+  "EOS_Completed": 31,
   "EOS_NewPlayers": 480,
-  "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 5.56,
+  "EOS_NewCompleters": 24,
+  "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -742,6 +742,11 @@
       "Time": "2023-05-09T16:06:21.6069036+00:00",
       "NumProgressed": 540,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-09T17:06:20.6303482+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 50,
@@ -1007,9 +1012,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 162
     },
     {
       "ID": "4",
@@ -1039,9 +1044,9 @@
       "ID": "42",
       "SetID": "d0g98p",
       "Name": "Shopping Spree!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     },
     {
       "ID": "43",
@@ -1071,17 +1076,17 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 119
     },
     {
       "ID": "47",
       "SetID": "d0g98p",
       "Name": "Crowned",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 103
     },
     {
       "ID": "48",
@@ -1103,9 +1108,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 200
     },
     {
       "ID": "50",
@@ -1153,15 +1158,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 540,
-      "Completed": 30
+      "Completed": 31
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:06:21.6069028+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:06:20.6303477+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:58:58.7366912+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:21.6069631+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:58:59.0862907+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:06:20.6303873+00:00"
 }

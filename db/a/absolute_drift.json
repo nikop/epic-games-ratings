@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 6,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -424,9 +424,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515336,
+  "EOS_Progressed": 1515340,
   "EOS_Completed": 598,
-  "EOS_NewPlayers": 1458,
+  "EOS_NewPlayers": 1448,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2114,6 +2114,11 @@
       "Time": "2023-05-09T16:06:54.1806636+00:00",
       "NumProgressed": 1515336,
       "NumCompleted": 598
+    },
+    {
+      "Time": "2023-05-09T17:06:53.5304799+00:00",
+      "NumProgressed": 1515340,
+      "NumCompleted": 598
     }
   ],
   "TotalAchievements": 20,
@@ -2173,7 +2178,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136380
+      "UsersEstimate": 136381
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -2284,15 +2289,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1515336,
+      "Progressed": 1515340,
       "Completed": 598
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-08T21:01:40.1068298+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:06:54.1806631+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:06:53.5304789+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.6784985+00:00",
-  "LastUpdate_Ratings": "2023-05-09T16:01:05.4673599+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:54.1806899+00:00"
+  "LastUpdate_Ratings": "2023-05-09T17:01:09.6010617+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:06:53.5305012+00:00"
 }

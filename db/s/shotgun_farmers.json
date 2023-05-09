@@ -3,9 +3,9 @@
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -215,9 +215,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_first_harvest",
@@ -528,8 +528,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:01:47.2193842+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:01:55.8234483+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-09T15:59:36.7674226+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:01:47.219442+00:00"
+  "LastUpdate_Ratings": "2023-05-09T16:59:39.0835122+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:01:55.82348+00:00"
 }

@@ -13,7 +13,7 @@
 | It's safe here! | 18.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 302)  
-Completed: 1 (5.88%) (Ranked 24)  
+Completed: 1 (5.88%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

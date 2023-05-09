@@ -48,7 +48,7 @@
 | First ninja bonus stage beaten | -33.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 343)  
-Completed: 0 (0.00%) (Ranked 195)  
+Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

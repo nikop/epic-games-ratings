@@ -76,14 +76,14 @@ Number of Ratings: 87  (23.09.2022)
 | Highlander | 0.10% | ~1 |
 | It's no coincidence | 0.10% | ~1 |
 | The Hare | 0.10% | ~1 |
+| The Hare with an espresso | 0.10% | ~1 |
 | Urbanization Age | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
-| The Hare with an espresso | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 698 (Ranked 175)  
-Completed: 1 (0.14%) (Ranked 145)  
+Completed: 1 (0.14%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

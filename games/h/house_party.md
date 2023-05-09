@@ -59,6 +59,7 @@ Number of Ratings: 177  (23.09.2022)
 | Vickie | 0.10% | ~5 |
 | La Coochadora | 0.10% | ~5 |
 | The Elder Brahs | 0.10% | ~5 |
+| Simple Geometry | 0.10% | ~5 |
 | Good Ol' Days | 0.10% | ~5 |
 | Snapped | 0.10% | ~5 |
 | Te Amo Lety | 0.10% | ~5 |
@@ -74,10 +75,9 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 | Derezzed | 0.00% | ~0 |
-| Simple Geometry | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,948 (Ranked 122)  
-Completed: 2 (0.04%) (Ranked 171)  
+Completed: 2 (0.04%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

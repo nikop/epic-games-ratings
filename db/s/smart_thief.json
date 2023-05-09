@@ -3,9 +3,9 @@
   "Name": "Smart Thief",
   "ProductSlug": "smart-thief-ef3a83",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-31T22:00:00+00:00",
     "PcReleaseDate": "2020-11-29T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.8205728+00:00",
-  "LastUpdate_Ratings": "2023-05-09T16:01:10.2238878+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:00.984589+00:00"
+  "LastUpdate_Ratings": "2023-05-09T17:01:14.4718531+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:05:59.4412763+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 56,
+  "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8929,
+  "EOS_Progressed": 8933,
   "EOS_Completed": 201,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.25,
   "EosHistory": [
@@ -1958,6 +1958,11 @@
       "Time": "2023-05-09T16:06:56.2311324+00:00",
       "NumProgressed": 8929,
       "NumCompleted": 201
+    },
+    {
+      "Time": "2023-05-09T17:06:55.6287767+00:00",
+      "NumProgressed": 8933,
+      "NumCompleted": 201
     }
   ],
   "TotalAchievements": 20,
@@ -1969,7 +1974,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -1985,7 +1990,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -2001,7 +2006,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -2009,7 +2014,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -2017,7 +2022,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -2025,7 +2030,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -2033,7 +2038,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "FOUND_ERIN",
@@ -2041,7 +2046,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -2065,7 +2070,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -2089,7 +2094,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6786
+      "UsersEstimate": 6789
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2097,7 +2102,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "NORTH_FINISHED",
@@ -2105,7 +2110,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -2128,15 +2133,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8929,
+      "Progressed": 8933,
       "Completed": 201
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-09T16:06:56.2311318+00:00",
+  "LastChanged_Achievements": "2023-05-09T17:06:55.6287763+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-09T16:01:08.4988939+00:00",
-  "LastUpdate_Achievements": "2023-05-09T16:06:56.2311572+00:00"
+  "LastUpdate_Ratings": "2023-05-09T17:01:12.8288448+00:00",
+  "LastUpdate_Achievements": "2023-05-09T17:06:55.6287951+00:00"
 }
