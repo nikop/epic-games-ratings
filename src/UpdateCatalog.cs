@@ -121,7 +121,7 @@ namespace EpicRatingsUpdater
                         item.Store.PcReleaseDate = el.pcReleaseDate;
 
                         var blockChain = el.customAttributes.FirstOrDefault(x => x.key == "isBlockchainUsed");
-                        item.Store.isBlockchainUsed = blockChain?.value == "true";
+                        item.Store.isBlockchainUsed = blockChain?.value.Equals("true", StringComparison.InvariantCultureIgnoreCase) == true;
 
                         item.Store.CustomAttributes.Clear();
 
@@ -154,7 +154,7 @@ namespace EpicRatingsUpdater
 
                 if (endReached)
                 {
-                    // break;
+                    break;
                 }
             }
 
