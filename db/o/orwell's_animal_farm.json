@@ -2,10 +2,10 @@
   "ID": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
   "Name": "Orwell\u0027s Animal Farm",
   "ProductSlug": "orwells-animal-farm",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:47.1841439+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.1841437+00:00",
   "LastChanged": "2023-03-31T05:58:47.1841438+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:26.8840372+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:29.5752379+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:04:36.734304+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:59:34.3998744+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:05:05.5130186+00:00"
 }

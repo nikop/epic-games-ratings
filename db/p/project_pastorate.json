@@ -2,10 +2,10 @@
   "ID": "5b09a6b974f0440097567beb6db5ae06",
   "Name": "Project Pastorate",
   "ProductSlug": "project-pastorate-6e8765",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:08.8932799+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:08.8932795+00:00",
   "LastChanged": "2023-03-31T05:58:08.8932796+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:30.8430603+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:01:30.4345244+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:02.4545293+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:02:00.0260958+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:26.0759687+00:00"
 }

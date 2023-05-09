@@ -2,10 +2,10 @@
   "ID": "d0ae2ef616fe4b6b8d31e00a7708ab24",
   "Name": "In Other Waters",
   "ProductSlug": "in-other-waters-771a9b",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:18.3474214+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:18.347421+00:00",
   "LastChanged": "2023-03-31T05:57:18.3474212+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:54.8518593+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:55.6573777+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:01:58.7936623+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:00:07.1554704+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:02:37.693504+00:00"
 }

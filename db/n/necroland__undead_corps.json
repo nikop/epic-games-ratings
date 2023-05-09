@@ -2,10 +2,10 @@
   "ID": "365ade02815042a9a804764344b17670",
   "Name": "NecroLand: Undead Corps",
   "ProductSlug": "necroland-undead-corps",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:26.8269404+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:26.8269401+00:00",
   "LastChanged": "2023-03-31T05:57:26.8269402+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:00.2014355+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:00:59.416268+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:05:41.2184166+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:01:22.0650761+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:05:59.6753452+00:00"
 }

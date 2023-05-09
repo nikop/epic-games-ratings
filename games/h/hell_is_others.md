@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~76,949 |
+| Survivor | 31.00% | ~76,950 |
 | Predator I | 21.00% | ~52,127 |
-| Fixer I | 10.00% | ~24,822 |
-| A week in Century City | 10.00% | ~24,822 |
+| Fixer I | 10.00% | ~24,823 |
+| A week in Century City | 10.00% | ~24,823 |
 | The Wait | 7.00% | ~17,376 |
-| Green thumb I | 6.00% | ~14,893 |
+| Green thumb I | 6.00% | ~14,894 |
 | Well-oiled machine | 5.00% | ~12,411 |
 | Saver I | 5.00% | ~12,411 |
 | Cleaning Company | 5.00% | ~12,411 |
@@ -19,14 +19,14 @@ Rating: 4.45 (Ranked 601)
 | Vandalism | 4.00% | ~9,929 |
 | Capitalist I | 4.00% | ~9,929 |
 | Adrenaline | 3.00% | ~7,447 |
-| By a hair | 2.00% | ~4,964 |
-| Fixer II | 2.00% | ~4,964 |
-| It took a while | 2.00% | ~4,964 |
-| Samurai | 2.00% | ~4,964 |
-| I Left You a Present | 2.00% | ~4,964 |
-| Predator II | 2.00% | ~4,964 |
-| Truffle Dog | 2.00% | ~4,964 |
-| A month in Century City | 2.00% | ~4,964 |
+| By a hair | 2.00% | ~4,965 |
+| Fixer II | 2.00% | ~4,965 |
+| It took a while | 2.00% | ~4,965 |
+| Samurai | 2.00% | ~4,965 |
+| I Left You a Present | 2.00% | ~4,965 |
+| Predator II | 2.00% | ~4,965 |
+| Truffle Dog | 2.00% | ~4,965 |
+| A month in Century City | 2.00% | ~4,965 |
 | The Strengthening | 1.00% | ~2,482 |
 | Saver II | 1.00% | ~2,482 |
 | It's the last one, I swear | 1.00% | ~2,482 |
@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 601)
 | Capitalist III | 0.10% | ~248 |
 | Hell Is You | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,223 (Ranked 39)  
+Progressed: 248,226 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.00%) (Ranked 194)
 | 2023-05-06 | 247,962 | 1 |
 | 2023-05-07 | 248,099 | 1 |
 | 2023-05-08 | 248,200 | 1 |
-| 2023-05-09 | 248,223 | 1 |
+| 2023-05-09 | 248,226 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 477)  
 Sum: 21 (Ranked 477)  

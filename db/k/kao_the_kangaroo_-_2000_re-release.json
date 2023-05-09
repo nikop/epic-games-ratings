@@ -2,10 +2,10 @@
   "ID": "a89f5408d9bc467aae313fbe07bbb7e6",
   "Name": "Kao the Kangaroo - 2000 re-release",
   "ProductSlug": "kao-the-kangaroo-2000-rerelease-1b53f5",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-04-30T21:00:25.1837078+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-04-30T21:00:25.1837076+00:00",
   "LastChanged": "2023-04-30T21:00:25.1837076+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.3996709+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:01:31.9596382+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:01.0580154+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:02:02.0425797+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:24.3607539+00:00"
 }

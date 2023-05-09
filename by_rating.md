@@ -585,7 +585,7 @@
 | 577 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 490 |
 | 577 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 490 |
 | 577 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 321 |
-| 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,741 | 46 |
+| 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,751 | 46 |
 | 577 | [The Surge](games/t/the_surge.md) | 4.47 | 26 | 459 |
 | 577 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 490 |
 | 577 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.47 | 0 | 490 |
@@ -615,27 +615,27 @@
 | 601 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 848 | 143 |
 | 601 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 490 |
 | 601 | [SMITE](games/s/smite.md) | 4.45 | 3,732 | 77 |
+| 601 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 490 |
 | 601 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 523 | 179 |
 | 601 | [STG Football](games/s/stg_football.md) | 4.45 | 37 | 417 |
 | 601 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 310 |
 | 601 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 23 | 468 |
 | 601 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 490 |
-| 621 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 0 | 490 |
-| 621 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 490 |
-| 621 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 490 |
-| 621 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 490 |
-| 621 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 490 |
-| 621 | [Predecessor](games/p/predecessor.md) | 4.44 | 79 | 346 |
-| 621 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 47 | 394 |
-| 621 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 490 |
-| 621 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 490 |
-| 621 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.44 | 0 | 490 |
-| 621 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 0 | 490 |
-| 621 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 490 |
-| 621 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 325 |
-| 621 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 490 |
-| 621 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 0 | 490 |
-| 621 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 379 |
+| 622 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 0 | 490 |
+| 622 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 490 |
+| 622 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 490 |
+| 622 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 490 |
+| 622 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 490 |
+| 622 | [Predecessor](games/p/predecessor.md) | 4.44 | 79 | 346 |
+| 622 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 47 | 394 |
+| 622 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 490 |
+| 622 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 490 |
+| 622 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 0 | 490 |
+| 622 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 490 |
+| 622 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 325 |
+| 622 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 490 |
+| 622 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 0 | 490 |
+| 622 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 379 |
 | 637 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 28 | 450 |
 | 637 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 490 |
 | 637 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 490 |

@@ -2,10 +2,10 @@
   "ID": "5798ab7fa43c4b42bf1ab29f73592c69",
   "Name": "Blood and Zombies",
   "ProductSlug": "blood-and-zombies-4273b6",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:35.8315659+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.8315657+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315658+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:55.5430482+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:55.8207915+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:05:07.4053618+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:00:07.4355053+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:05:18.2210591+00:00"
 }

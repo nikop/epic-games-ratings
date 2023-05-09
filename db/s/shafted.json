@@ -2,10 +2,10 @@
   "ID": "8f18636e259a476493fe88d998ec45ed",
   "Name": "SHAFTED",
   "ProductSlug": "shafted-0a8b60",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -20,6 +20,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T17:00:58.3644032+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:00:57.007749+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:05:39.611623+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:01:18.4625717+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:05:57.7767723+00:00"
 }

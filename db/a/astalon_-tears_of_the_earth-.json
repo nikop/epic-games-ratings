@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:06.6585969+00:00",
@@ -286,8 +286,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-05-09T10:06:21.4370645+00:00",
+  "LastChanged_Achievements": "2023-05-09T11:06:48.5904155+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:37.6557734+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:38.3023783+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:21.4370787+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:59:45.5091987+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:48.5904346+00:00"
 }

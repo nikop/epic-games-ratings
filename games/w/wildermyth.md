@@ -14,7 +14,7 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 21.00% | ~241 |
 | How Romantic! | 20.00% | ~230 |
 | Gotta Ca... Must Collect All of Them | 19.00% | ~218 |
-| Completing the Look | 10.00% | ~115 |
+| Completing the Look | 11.00% | ~126 |
 | Who's Counting? | 10.00% | ~115 |
 | War Endured | 10.00% | ~115 |
 | A Mythic Menagerie | 9.00% | ~103 |

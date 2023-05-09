@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 9,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
@@ -3596,9 +3596,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86939,
+  "EOS_Progressed": 86944,
   "EOS_Completed": 1817,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5201,6 +5201,11 @@
       "Time": "2023-05-09T10:06:58.0366365+00:00",
       "NumProgressed": 86939,
       "NumCompleted": 1817
+    },
+    {
+      "Time": "2023-05-09T11:07:31.4972004+00:00",
+      "NumProgressed": 86944,
+      "NumCompleted": 1817
     }
   ],
   "TotalAchievements": 489,
@@ -6106,9 +6111,9 @@
       "ID": "objective_completed_1209",
       "SetID": "415jc5c",
       "Name": "Bully for Vecna",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_1213",
@@ -7402,9 +7407,9 @@
       "ID": "objective_completed_546",
       "SetID": "cc37lbc",
       "Name": "Slow and Steady",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_547",
@@ -9123,21 +9128,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53213,
+      "Progressed": 53218,
       "Completed": 2483
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86939,
+      "Progressed": 86944,
       "Completed": 1817
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-09T10:06:58.0366362+00:00",
+  "LastChanged_Achievements": "2023-05-09T11:07:31.4972+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:24.1348652+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:58.0387899+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:59:27.8668676+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:07:31.4999577+00:00"
 }

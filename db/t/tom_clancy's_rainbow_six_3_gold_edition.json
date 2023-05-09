@@ -2,10 +2,10 @@
   "ID": "fb8d42f1548048be877d43bc701ede97",
   "Name": "Tom Clancy\u0027s Rainbow Six 3 GOLD EDITION",
   "ProductSlug": "rainbow-six-3-gold-edition",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:42.1285364+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.1285362+00:00",
   "LastChanged": "2023-03-31T05:58:42.1285363+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:07.4216777+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:00:07.7672372+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:01:59.6913782+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:00:21.2813718+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:02:38.6521122+00:00"
 }

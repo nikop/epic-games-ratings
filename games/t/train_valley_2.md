@@ -34,11 +34,13 @@ Number of Ratings: 87  (23.09.2022)
 | Beginner | 1.00% | ~7 |
 | Electrical Age | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |
+| Globalisation Age | 1.00% | ~7 |
 | Industrial Age | 1.00% | ~7 |
 | Jewelry accuracy | 1.00% | ~7 |
 | Large construction | 1.00% | ~7 |
 | Living it large | 1.00% | ~7 |
 | Lucky vandal | 1.00% | ~7 |
+| Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
 | Overseer | 1.00% | ~7 |
 | Relocation | 1.00% | ~7 |
@@ -49,8 +51,6 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 1.00% | ~7 |
 | Bridge builder | 0.90% | ~6 |
 | Engineer | 0.90% | ~6 |
-| Globalisation Age | 0.90% | ~6 |
-| Missed it! | 0.90% | ~6 |
 | Prick of conscience | 0.90% | ~6 |
 | Astronomer | 0.70% | ~5 |
 | At the last moment! | 0.70% | ~5 |

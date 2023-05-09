@@ -4,11 +4,11 @@
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 412,
   "Ranking_Popularity": 324,
-  "Ranking_PopularitySum": 235,
-  "Ranking_EOS_Progress": 390,
+  "Ranking_PopularitySum": 234,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.58,
   "RatingHistory": [
     {
@@ -1612,10 +1612,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 888,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-05-09T11:01:02.6249324+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 896,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 888,
+  "NumberOfAwards": 896,
   "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1653,13 +1659,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 72
+      "Count": 77
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 72
+      "Count": 75
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1704,8 +1710,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-05-08T18:00:54.0685686+00:00",
+  "LastChanged": "2023-05-09T11:01:02.6249322+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:43.0692154+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:00:42.9290495+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:05:28.2084469+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:01:02.6249329+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:05:43.6820116+00:00"
 }

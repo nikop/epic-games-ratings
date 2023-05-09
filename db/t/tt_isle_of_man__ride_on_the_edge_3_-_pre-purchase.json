@@ -2,19 +2,25 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3 - Pre-Purchase",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-05-09T11:06:33.5022357+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "TotalAchievements": 39,
   "TotalAchievementsXP": 1000,
   "Achievements": [
@@ -38,17 +44,17 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_04",
       "SetID": "gagif7",
       "Name": "Like Phileas Fogg",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -70,9 +76,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "gagif7",
       "Name": "Seven-League Boots",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -158,25 +164,25 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "gagif7",
       "Name": "Highly Qualified",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_19",
       "SetID": "gagif7",
       "Name": "Serial Winner",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_20",
       "SetID": "gagif7",
       "Name": "First and Foremost",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -190,9 +196,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "gagif7",
       "Name": "Made Mother Proud",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -206,9 +212,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "gagif7",
       "Name": "Winner Winner Chicken Dinner",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -246,25 +252,25 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_31",
       "SetID": "gagif7",
       "Name": "No Room for Improvement",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -286,9 +292,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -326,22 +332,22 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "gagif7",
       "Name": "Playing God",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-09T10:06:08.7366926+00:00",
+  "LastChanged_Achievements": "2023-05-09T11:06:33.5022352+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:56.5333155+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:01.6109155+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:08.7367161+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:59:00.309518+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:33.5022701+00:00"
 }

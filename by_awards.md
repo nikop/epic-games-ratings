@@ -45,7 +45,7 @@
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,145 | 4.71 | 178 |
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,955 | 4.57 | 429 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,924 | 4.89 | 12 |
-| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,741 | 4.47 | 577 |
+| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,751 | 4.47 | 577 |
 | 47 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 643 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,553 | 4.67 | 256 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,500 | 4.74 | 141 |
@@ -326,7 +326,7 @@
 | 324 | [Brawlhalla](games/b/brawlhalla.md) | 98 | 4.58 | 412 |
 | 325 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 97 | 4.50 | 534 |
 | 325 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 97 | 4.77 | 103 |
-| 325 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 621 |
+| 325 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 622 |
 | 328 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 823 |
 | 329 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 94 | 4.41 | 655 |
 | 329 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 94 | 4.86 | 27 |
@@ -345,7 +345,7 @@
 | 342 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 84 | 4.60 | 376 |
 | 344 | [Solitairica](games/s/solitairica.md) | 83 | 4.49 | 553 |
 | 345 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 82 | 4.83 | 55 |
-| 346 | [Predecessor](games/p/predecessor.md) | 79 | 4.44 | 621 |
+| 346 | [Predecessor](games/p/predecessor.md) | 79 | 4.44 | 622 |
 | 346 | [This War of Mine](games/t/this_war_of_mine.md) | 79 | 4.74 | 141 |
 | 348 | [MORDHAU](games/m/mordhau.md) | 77 | 4.42 | 643 |
 | 348 | [Super Meat Boy](games/s/super_meat_boy.md) | 77 | 4.70 | 192 |
@@ -379,7 +379,7 @@
 | 377 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 61 | 4.69 | 213 |
 | 378 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 60 | 4.42 | 643 |
 | 379 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 59 | 4.64 | 309 |
-| 379 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 621 |
+| 379 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 622 |
 | 381 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.60 | 376 |
 | 382 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 855 |
 | 383 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 51 | 4.65 | 286 |
@@ -394,7 +394,7 @@
 | 392 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 286 |
 | 392 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.65 | 286 |
 | 394 | [ATOM RPG](games/a/atom_rpg.md) | 47 | 4.45 | 601 |
-| 394 | [Ranch Simulator](games/r/ranch_simulator.md) | 47 | 4.44 | 621 |
+| 394 | [Ranch Simulator](games/r/ranch_simulator.md) | 47 | 4.44 | 622 |
 | 394 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 699 |
 | 397 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 429 |
 | 397 | [Desperados III](games/d/desperados_iii.md) | 46 | 4.84 | 49 |

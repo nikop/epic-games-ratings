@@ -2,10 +2,10 @@
   "ID": "01d1f832f50747ee97915be1f8fcfa45",
   "Name": "Out There Oceans of Time",
   "ProductSlug": "out-there-oceans-of-time-c92c90",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:12.9034797+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.9034795+00:00",
   "LastChanged": "2023-03-31T05:58:12.9034796+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.7388204+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:01:36.2301461+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:05.9243348+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:02:07.5509389+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:30.3222057+00:00"
 }

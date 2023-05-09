@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~869 |
 | Vecna Out! | 1.00% | ~532 |
 | Pin and Skewer | 0.90% | ~479 |
+| Bully for Vecna | 0.80% | ~426 |
 | The Cursed Farmer | 0.80% | ~696 |
-| Bully for Vecna | 0.70% | ~372 |
 | The Mad Wizard | 0.70% | ~609 |
 | Beast Intentions | 0.60% | ~522 |
 | Were-verpowered | 0.50% | ~435 |
@@ -91,6 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hopelessly Lost | 0.20% | ~174 |
 | A Tale of Two Cities | 0.20% | ~174 |
 | The Dead Three | 0.20% | ~174 |
+| Slow and Steady | 0.20% | ~174 |
 | Flying Monkey Skulls of Doom | 0.20% | ~174 |
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
@@ -311,7 +312,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~87 |
 | A Tale of Two Champions | 0.10% | ~87 |
 | A Tale of Two Years | 0.10% | ~53 |
-| Slow and Steady | 0.10% | ~87 |
 | A Hero's Entourage | 0.10% | ~87 |
 | Sneak Attack | 0.10% | ~53 |
 | Lair of the Xanathar | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,939 (Ranked 59)  
+Progressed: 86,944 (Ranked 59)  
 Completed: 1,817 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,817 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,939 | 1,817 |
+| 2023-05-09 | 86,944 | 1,817 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

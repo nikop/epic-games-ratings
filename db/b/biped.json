@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-04-22T05:57:51.3460148+00:00",
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1093,
+  "EOS_Progressed": 1094,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -998,6 +998,11 @@
       "Time": "2023-05-09T10:06:14.0529623+00:00",
       "NumProgressed": 1093,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T11:06:39.8702568+00:00",
+      "NumProgressed": 1094,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1063,9 +1068,9 @@
       "ID": "2",
       "SetID": "1dkhij4",
       "Name": "Dense Forest",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 405
     },
     {
       "ID": "3",
@@ -1105,7 +1110,7 @@
       "Name": "Blue Rapids",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "8",
@@ -1128,7 +1133,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1093,
+      "Progressed": 1094,
       "Completed": 0
     }
   ],
@@ -1136,8 +1141,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-09T10:06:14.0529621+00:00",
+  "LastChanged_Achievements": "2023-05-09T11:06:39.8702565+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:21.092462+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:23.8875108+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:14.0529747+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:59:27.5266128+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:39.8702723+00:00"
 }

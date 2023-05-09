@@ -5,10 +5,10 @@
   "Ranking_Rating": 12,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 8,
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.89,
   "NumberOfRatings": 102658,
   "RatingHistory": [
@@ -5550,10 +5550,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 355060,
       "NumberOfAwardsMax": 139309
+    },
+    {
+      "Time": "2023-05-09T11:00:27.9923166+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 355096,
+      "NumberOfAwardsMax": 139309
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 355060,
+  "NumberOfAwards": 355096,
   "NumberOfAwardsMax": 139309,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -5579,7 +5585,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 12983
+      "Count": 13019
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5653,8 +5659,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-05-09T02:01:45.7775079+00:00",
+  "LastChanged": "2023-05-09T11:00:27.9923163+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:13.2981455+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:00:13.7243457+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:01:50.419033+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:00:27.992317+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:02:28.027171+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 60.00% | ~150 |
 | Cowardice | 54.00% | ~135 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~125 |
+| NO LIFE IS WORTH SAVING... | 51.00% | ~128 |
 | Eat Lead! | 49.00% | ~122 |
 | Prospector | 45.00% | ~112 |
 | Here Comes the Boom | 45.00% | ~112 |

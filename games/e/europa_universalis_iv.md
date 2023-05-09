@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,951 |
-| That's a Grand Army | 8.00% | ~2,623 |
-| That is mine! | 8.00% | ~2,623 |
-| Victorious! | 8.00% | ~2,623 |
+| Until death do us apart | 9.00% | ~2,953 |
+| That's a Grand Army | 8.00% | ~2,625 |
+| That is mine! | 8.00% | ~2,625 |
+| Victorious! | 8.00% | ~2,625 |
 | Brothers in Arms | 6.00% | ~1,968 |
 | That's a Grand Navy | 6.00% | ~1,968 |
 | Seriously?! | 6.00% | ~1,968 |
@@ -61,7 +61,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dude, Where's my Boat? | 0.30% | ~98 |
 | Four For Trade | 0.30% | ~98 |
 | Grand Coalition | 0.30% | ~98 |
-| Grand Duchy | 0.30% | ~98 |
 | In the Name of the Father | 0.30% | ~98 |
 | Live Long and Prosper | 0.30% | ~98 |
 | One Night in Paris | 0.30% | ~98 |
@@ -76,6 +75,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | AAA Credit | 0.20% | ~66 |
 | Fine Financials | 0.20% | ~66 |
 | Global Hegemony | 0.20% | ~66 |
+| Grand Duchy | 0.20% | ~66 |
 | Imperio español | 0.20% | ~66 |
 | Industrial Powerhouse | 0.20% | ~66 |
 | Italian Ambition | 0.20% | ~66 |
@@ -132,6 +132,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Die Please Die | 0.10% | ~33 |
 | Dracula's Revenge | 0.10% | ~33 |
 | Emperor of Hindustan | 0.10% | ~33 |
+| Empire of Mann | 0.10% | ~33 |
 | Even Better than Piet Heyn | 0.10% | ~33 |
 | Fanatic Collectivist | 0.10% | ~33 |
 | A Fine Goosestep | 0.10% | ~33 |
@@ -295,7 +296,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
-| Empire of Mann | 0.00% | ~0 |
 | Everything's Coming Up Mulhouse | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,792 (Ranked 80)  
+Progressed: 32,807 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
-| 2023-05-09 | 32,792 | 0 |
+| 2023-05-09 | 32,807 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
 Sum: 42,979 (Ranked 27)  

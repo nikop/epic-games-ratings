@@ -2,10 +2,10 @@
   "ID": "27186c5b85a84b8c983bd616fb3351a8",
   "Name": "The Metronomicon",
   "ProductSlug": "the-metronomicon-766679",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:09.9842161+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.9842158+00:00",
   "LastChanged": "2023-03-31T05:57:09.9842159+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:13.0936785+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:01:10.7624914+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:05:49.6254563+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:01:35.8527031+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:10.2803226+00:00"
 }

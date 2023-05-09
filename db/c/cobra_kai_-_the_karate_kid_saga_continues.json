@@ -2,10 +2,10 @@
   "ID": "a89ff9c697d64dceb20519213bd50f4c",
   "Name": "Cobra Kai - The Karate Kid Saga Continues",
   "ProductSlug": "cobra-kai-the-karate-kid-saga-continues-6ee85d",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:39.2216114+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.2216112+00:00",
   "LastChanged": "2023-03-31T05:58:39.2216113+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:43.6205168+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:58:48.956484+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:02:12.1118051+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:58:43.3825254+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:04:03.1548693+00:00"
 }

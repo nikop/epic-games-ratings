@@ -2,10 +2,10 @@
   "ID": "61dbcd85808d4125ba873ba90385949b",
   "Name": "Spotify",
   "ProductSlug": "spotify",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:21.5812121+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.5812118+00:00",
   "LastChanged": "2023-03-31T05:58:21.5812119+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:12.0558803+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:01:11.6273552+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:05:49.3519795+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:01:36.6678973+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:09.946586+00:00"
 }

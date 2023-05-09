@@ -7,8 +7,8 @@
 | Chest ✔ | 53.00% | ~82 |
 | Fright ✔ | 53.00% | ~82 |
 | Inventory ✔ | 49.00% | ~75 |
-| Police officers ✔ | 23.00% | ~35 |
-| Mutation ✔ | 22.00% | ~34 |
+| Police officers ✔ | 24.00% | ~37 |
+| Mutation ✔ | 23.00% | ~35 |
 | Doberman ✔ | 12.00% | ~18 |
 | Survival ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |

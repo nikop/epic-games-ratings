@@ -6,7 +6,7 @@
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
 | 5 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 7 | [Island Cities](games/i/island_cities.md) | 18.75% |
+| 7 | [Island Cities](games/i/island_cities.md) | 18.46% |
 | 8 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 10 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -18,13 +18,13 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.66% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 19 | [Scorn](games/s/scorn.md) | 7.11% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
+| 19 | [Scorn](games/s/scorn.md) | 7.10% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 22 | [Remains](games/r/remains.md) | 6.67% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.67% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.65% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -374,6 +374,7 @@
 | 194 | [Tower Princess](games/t/tower_princess.md) | 0.00% |
 | 194 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.00% |
 | 194 | [Troublemaker](games/t/troublemaker.md) | 0.00% |
+| 194 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.00% |
 | 194 | [Undead Horde](games/u/undead_horde.md) | 0.00% |
 | 194 | [Unrailed!](games/u/unrailed!.md) | 0.00% |
 | 194 | [Urbek City Builder](games/u/urbek_city_builder.md) | 0.00% |

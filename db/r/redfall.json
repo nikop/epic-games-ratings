@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewCompleters": 71,
   "Rating": 3.27,
   "RatingHistory": [
     {
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1457,
+  "EOS_Progressed": 1458,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-05-09T06:07:48.466019+00:00",
       "NumProgressed": 1457,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T11:06:44.5742517+00:00",
+      "NumProgressed": 1458,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -881,7 +886,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Achievement_004",
@@ -913,15 +918,15 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 976
+      "UsersEstimate": 962
     },
     {
       "ID": "Achievement_010",
@@ -929,7 +934,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "Achievement_011",
@@ -1001,7 +1006,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Achievement_020",
@@ -1057,7 +1062,7 @@
       "Name": "Fly Fisher",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "Achievement_027",
@@ -1065,7 +1070,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "Achievement_028",
@@ -1089,7 +1094,7 @@
       "Name": "ICU",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "Achievement_031",
@@ -1113,7 +1118,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "Achievement_034",
@@ -1329,7 +1334,7 @@
       "Name": "Helping Hand",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Achievement_064",
@@ -1392,7 +1397,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1457,
+      "Progressed": 1458,
       "Completed": 0
     }
   ],
@@ -1400,8 +1405,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-08T11:59:49.0954716+00:00",
-  "LastChanged_Achievements": "2023-05-09T10:06:17.8712134+00:00",
+  "LastChanged_Achievements": "2023-05-09T11:06:44.5742513+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:13.2747277+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:17.8712682+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:59:14.0990829+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:44.5743454+00:00"
 }

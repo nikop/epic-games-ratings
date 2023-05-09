@@ -2,10 +2,10 @@
   "ID": "c097fab7c42a4bc2bd5e7e8423ca26f9",
   "Name": "Space Trader - Merchant Marine",
   "ProductSlug": "space-trader-merchant-marine-0426a8",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:43.9922176+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.9922174+00:00",
   "LastChanged": "2023-03-31T05:58:43.9922175+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:34.0381655+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:01:32.9654162+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:02:20.0226276+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:02:03.0334801+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:04:12.8009404+00:00"
 }

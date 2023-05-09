@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 71,
   "Rating": 3.4,
   "RatingHistory": [
     {
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 929,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1248,6 +1248,11 @@
       "Time": "2023-05-09T07:07:56.1491408+00:00",
       "NumProgressed": 928,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T11:06:57.7545008+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1321,9 +1326,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "conqueror",
@@ -1425,9 +1430,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 74
     },
     {
       "ID": "exoticmerchant",
@@ -1491,7 +1496,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "herewegoagain",
@@ -1651,7 +1656,7 @@
       "Name": "Prestigious",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "prestigiousx10",
@@ -1659,7 +1664,7 @@
       "Name": "Prestigious x10",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "relicofthepast",
@@ -1715,7 +1720,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "thealchemist",
@@ -1819,7 +1824,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "warmachinesarmy",
@@ -1851,14 +1856,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 929,
       "Completed": 1
     }
   ],
@@ -1866,8 +1871,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-09T10:06:29.2066652+00:00",
+  "LastChanged_Achievements": "2023-05-09T11:06:57.7545003+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:59:21.2687577+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:29.2067308+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:59:24.1627735+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:06:57.7545869+00:00"
 }

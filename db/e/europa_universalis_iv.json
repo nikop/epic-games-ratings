@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.68,
   "NumberOfRatings": 8414,
   "RatingHistory": [
@@ -4600,9 +4600,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 32792,
+  "EOS_Progressed": 32807,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5192,
+  "EOS_NewPlayers": 5181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6245,6 +6245,11 @@
       "Time": "2023-05-09T10:06:48.2675088+00:00",
       "NumProgressed": 32792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T11:07:20.7146441+00:00",
+      "NumProgressed": 32807,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -6990,9 +6995,9 @@
       "ID": "achievement_empire_of_mann",
       "SetID": "8p2n7he",
       "Name": "Empire of Mann",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_even_better_than_piet_heyn",
@@ -7256,7 +7261,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2625
     },
     {
       "ID": "achievement_grand_coalition",
@@ -7270,9 +7275,9 @@
       "ID": "achievement_grand_duchy",
       "SetID": "8p2n7he",
       "Name": "Grand Duchy",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_grand_navy",
@@ -8536,7 +8541,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2625
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -8920,7 +8925,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2953
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -8952,7 +8957,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2625
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -9087,21 +9092,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 32792,
+      "Progressed": 32807,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 32792,
+      "Progressed": 32807,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-09T05:59:09.4036514+00:00",
-  "LastChanged_Achievements": "2023-05-09T10:06:48.2675085+00:00",
+  "LastChanged_Achievements": "2023-05-09T11:07:20.7146437+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.1468914+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:58:47.4615107+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:48.2685065+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:58:41.5122022+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:07:20.7159198+00:00"
 }

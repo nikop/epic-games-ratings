@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Rating": 4.28,
   "RatingHistory": [
     {
@@ -166,9 +166,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 19772,
+  "EOS_Progressed": 19775,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1179,
+  "EOS_NewPlayers": 1175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1801,6 +1801,11 @@
       "Time": "2023-05-09T10:06:45.779826+00:00",
       "NumProgressed": 19772,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-09T11:07:17.2484634+00:00",
+      "NumProgressed": 19775,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 29,
@@ -1924,7 +1929,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -2043,7 +2048,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 19772,
+      "Progressed": 19775,
       "Completed": 14
     }
   ],
@@ -2051,8 +2056,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
-  "LastChanged_Achievements": "2023-05-09T10:06:45.7798256+00:00",
+  "LastChanged_Achievements": "2023-05-09T11:07:17.2484632+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.2822478+00:00",
-  "LastUpdate_Ratings": "2023-05-09T10:01:03.9635209+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:06:45.7798473+00:00"
+  "LastUpdate_Ratings": "2023-05-09T11:01:27.2914209+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:07:17.2484922+00:00"
 }

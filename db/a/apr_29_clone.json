@@ -1,10 +1,10 @@
 {
   "ID": "SeaQA",
   "Name": "Apr 29 clone",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -19,6 +19,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:30:51.3718032+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:58:46.3428209+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:01:40.2271631+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:58:40.1364749+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:02:15.006177+00:00"
 }

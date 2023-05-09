@@ -2,10 +2,10 @@
   "ID": "2f528676234141b7bcb70d8e399d4791",
   "Name": "Loop",
   "ProductSlug": "loop-d5c6d1",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
@@ -20,6 +20,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:58:35.488082+00:00",
-  "LastUpdate_Ratings": "2023-05-09T09:58:42.2448433+00:00",
-  "LastUpdate_Achievements": "2023-05-09T10:04:24.5915352+00:00"
+  "LastUpdate_Ratings": "2023-05-09T10:58:33.8511707+00:00",
+  "LastUpdate_Achievements": "2023-05-09T11:04:40.8306297+00:00"
 }
