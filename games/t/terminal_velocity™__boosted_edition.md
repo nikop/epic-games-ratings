@@ -37,7 +37,7 @@
 | This is tough | 0.00% | ~0 |
 | Top Gun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 364)  
+Progressed: 1 (Ranked 365)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |

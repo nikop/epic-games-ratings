@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 931,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1263,6 +1263,11 @@
       "Time": "2023-05-09T12:56:35.3183358+00:00",
       "NumProgressed": 930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T15:06:29.7973706+00:00",
+      "NumProgressed": 931,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1360,9 +1365,9 @@
       "ID": "dailyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Daily Quest Completionist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 47
     },
     {
       "ID": "doingmypart",
@@ -1666,7 +1671,7 @@
       "Name": "Prestigious",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "prestigiousx10",
@@ -1698,7 +1703,7 @@
       "Name": "Scientist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "scrollmaster",
@@ -1722,7 +1727,7 @@
       "Name": "Superior",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "templeofeternals",
@@ -1744,9 +1749,9 @@
       "ID": "theexpeditioner",
       "SetID": "3nl4bcg",
       "Name": "The Expeditioner",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 28
     },
     {
       "ID": "thefatherofdragons",
@@ -1834,7 +1839,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "warmachinesarmy",
@@ -1873,7 +1878,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 931,
       "Completed": 1
     }
   ],
@@ -1881,8 +1886,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:39:37.9518769+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:06:29.7973699+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:31:58.5158593+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:39:37.9519451+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:59:19.5792145+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:06:29.7974726+00:00"
 }

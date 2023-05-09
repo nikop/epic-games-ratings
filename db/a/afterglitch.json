@@ -2,7 +2,7 @@
   "ID": "012c57ee6be04204b19936827c11620c",
   "Name": "Afterglitch",
   "ProductSlug": "afterglitch-06da0d",
-  "Ranking_EOS_Progress": 342,
+  "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 71,
@@ -124,8 +124,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:51.4740413+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:39:18.6015996+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:06:13.8535038+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4582459+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:32:18.8179855+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:39:18.6016074+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:59:35.1872523+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:06:13.8535124+00:00"
 }

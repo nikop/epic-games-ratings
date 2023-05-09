@@ -38,6 +38,7 @@
 | [AER Memories of Old](../games/a/aer_memories_of_old.md) | 20 | 1,000 |
 | [Afterglitch](../games/a/afterglitch.md) | 10 | 1,000 |
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
+| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 44 | 1,000 |
 | [Airborne Kingdom](../games/a/airborne_kingdom.md) | 27 | 1,000 |
 | [Airoheart](../games/a/airoheart.md) | 29 | 1,000 |
 | [Alekon](../games/9/947753e35eda434f9eafba17afa8f570.md) | 40 | 1,000 |

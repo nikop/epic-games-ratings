@@ -365,7 +365,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8921,
+  "EOS_Progressed": 8923,
   "EOS_Completed": 201,
   "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 11,
@@ -1940,6 +1940,11 @@
       "Time": "2023-05-09T14:40:02.6015557+00:00",
       "NumProgressed": 8921,
       "NumCompleted": 201
+    },
+    {
+      "Time": "2023-05-09T15:06:50.1298876+00:00",
+      "NumProgressed": 8923,
+      "NumCompleted": 201
     }
   ],
   "TotalAchievements": 20,
@@ -1991,7 +1996,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -2031,7 +2036,7 @@
       "Name": "Tails of Stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "FOUND_MAMBA",
@@ -2039,7 +2044,7 @@
       "Name": "Baa from the past",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -2055,7 +2060,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "GAME_FINISHED",
@@ -2071,7 +2076,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2095,7 +2100,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "WEST_FINISHED",
@@ -2110,15 +2115,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 8921,
+      "Progressed": 8923,
       "Completed": 201
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:40:02.6015553+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:06:50.129887+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:34:23.9814445+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:40:02.6015742+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:01:13.8891231+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:06:50.1299152+00:00"
 }

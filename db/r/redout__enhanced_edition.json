@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221374,
+  "EOS_Progressed": 221376,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1845,6 +1845,11 @@
       "Time": "2023-05-09T14:39:18.8952843+00:00",
       "NumProgressed": 221374,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-09T15:06:14.1773265+00:00",
+      "NumProgressed": 221376,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -1904,7 +1909,7 @@
       "Name": "DRAGOON",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ENLIGHTENED",
@@ -1928,7 +1933,7 @@
       "Name": "FLAWLESS",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "GILA",
@@ -2040,7 +2045,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4428
     },
     {
       "ID": "QAREEN",
@@ -2056,7 +2061,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4428
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -2064,7 +2069,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4428
     },
     {
       "ID": "SHOWOFF",
@@ -2104,7 +2109,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48702
+      "UsersEstimate": 48703
     },
     {
       "ID": "TUNINGMANIAC",
@@ -2120,22 +2125,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90763
+      "UsersEstimate": 90764
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221374,
+      "Progressed": 221376,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:39:18.8952835+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:06:14.177326+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.7279724+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:32:14.8122842+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:39:18.8953112+00:00"
+  "LastUpdate_Ratings": "2023-05-09T14:59:32.2235347+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:06:14.1773636+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,954 |
-| Into the Unknown | 8.00% | ~43,514 |
-| First Shot | 8.00% | ~43,514 |
-| Herzlich Wilkommen! | 7.00% | ~38,075 |
-| Sancho Panza | 7.00% | ~38,075 |
-| Good Night & Good Luck | 7.00% | ~38,075 |
-| Under Pressure | 6.00% | ~32,636 |
-| Flag Burning | 6.00% | ~32,636 |
-| Oh, So This Is How It Works! | 6.00% | ~32,636 |
-| Night Hunter | 6.00% | ~32,636 |
-| On the Trail of the Enemy | 5.00% | ~27,196 |
-| Light in the Darkness | 5.00% | ~27,196 |
-| Get Outta My House! | 5.00% | ~27,196 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,196 |
-| Being All Social | 5.00% | ~27,196 |
-| Debris and Ashes | 4.00% | ~21,757 |
-| We Will Be Heard! | 4.00% | ~21,757 |
-| Known Associate | 4.00% | ~21,757 |
-| Brush with Death | 4.00% | ~21,757 |
-| Going Down | 4.00% | ~21,757 |
-| Family First | 4.00% | ~21,757 |
-| Tunnel Entrance | 4.00% | ~21,757 |
-| After the Fall | 4.00% | ~21,757 |
-| Can't Touch This! | 4.00% | ~21,757 |
+| You Never Forget Your First... | 9.00% | ~48,955 |
+| Into the Unknown | 8.00% | ~43,516 |
+| First Shot | 8.00% | ~43,516 |
+| Herzlich Wilkommen! | 7.00% | ~38,076 |
+| Sancho Panza | 7.00% | ~38,076 |
+| Good Night & Good Luck | 7.00% | ~38,076 |
+| Under Pressure | 6.00% | ~32,637 |
+| Flag Burning | 6.00% | ~32,637 |
+| Oh, So This Is How It Works! | 6.00% | ~32,637 |
+| Night Hunter | 6.00% | ~32,637 |
+| On the Trail of the Enemy | 5.00% | ~27,197 |
+| Light in the Darkness | 5.00% | ~27,197 |
+| Get Outta My House! | 5.00% | ~27,197 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,197 |
+| Being All Social | 5.00% | ~27,197 |
+| Debris and Ashes | 4.00% | ~21,758 |
+| We Will Be Heard! | 4.00% | ~21,758 |
+| Known Associate | 4.00% | ~21,758 |
+| Brush with Death | 4.00% | ~21,758 |
+| Going Down | 4.00% | ~21,758 |
+| Family First | 4.00% | ~21,758 |
+| Tunnel Entrance | 4.00% | ~21,758 |
+| After the Fall | 4.00% | ~21,758 |
+| Can't Touch This! | 4.00% | ~21,758 |
 | Your World, Your Rules | 3.00% | ~16,318 |
 | Death From Afar | 3.00% | ~16,318 |
 | Terminal Headache | 3.00% | ~16,318 |
@@ -46,9 +46,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,439 |
 | Ironheart | 1.00% | ~5,439 |
 | Nemesis | 1.00% | ~1,894 |
-| Enter the Hall | 0.90% | ~1,704 |
-| That's Teamwork! | 0.80% | ~4,351 |
-| Fit as a Fiddle | 0.80% | ~4,351 |
+| Enter the Hall | 0.90% | ~1,705 |
+| That's Teamwork! | 0.80% | ~4,352 |
+| Fit as a Fiddle | 0.80% | ~4,352 |
 | Find Anything Interesting? | 0.70% | ~3,808 |
 | Boot Licker | 0.70% | ~3,808 |
 | Night of Terrors | 0.70% | ~1,326 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~189 |
 | Connoisseur | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,930 (Ranked 22)  
+Progressed: 543,949 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,10 +91,10 @@ Completed: 46 (0.01%) (Ranked 186)
 | 2023-05-06 | 541,890 | 46 |
 | 2023-05-07 | 542,868 | 46 |
 | 2023-05-08 | 543,600 | 46 |
-| 2023-05-09 | 543,930 | 46 |
+| 2023-05-09 | 543,949 | 46 |
 ## Awards
 Max (Character Customization): 6,965  (Ranked 44)  
-Sum: 16,126 (Ranked 58)  
+Sum: 16,127 (Ranked 58)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -103,7 +103,7 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 625 |
 | This game is Highly Recommended | 598 |
 | This game has Amazing Characters | 587 |
-| This game is Extremely Fun | 581 |
+| This game is Extremely Fun | 582 |
 | This game has Diverse Characters | 578 |
 | This game has Quickly Understood Controls | 576 |
 | This game has Amazing Storytelling | 553 |
@@ -230,4 +230,4 @@ Diff (max vs sum): -14
 | 2023-05-06 | 4.57 | - | 6,910 | 15,980 |
 | 2023-05-07 | 4.57 | - | 6,933 | 16,040 |
 | 2023-05-08 | 4.57 | - | 6,955 | 16,101 |
-| 2023-05-09 | 4.57 | - | 6,965 | 16,126 |
+| 2023-05-09 | 4.57 | - | 6,965 | 16,127 |

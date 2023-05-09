@@ -19,17 +19,17 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 3.00% | ~262 |
 | All Paths Open | 3.00% | ~262 |
 | Demonic and Divine | 3.00% | ~262 |
-| Heart of the Fallen Land | 2.00% | ~174 |
-| Path of the Azata | 2.00% | ~174 |
-| Transformation | 2.00% | ~174 |
-| The Legacy | 2.00% | ~174 |
-| Divide and Rule | 2.00% | ~174 |
-| Mythic Reinforcements | 2.00% | ~174 |
-| Voice from Your Dreams | 2.00% | ~174 |
-| A Flame | 2.00% | ~174 |
-| Hey, I Know You! | 2.00% | ~174 |
-| Next-Door Play | 2.00% | ~174 |
-| Get the Toad | 2.00% | ~174 |
+| Heart of the Fallen Land | 2.00% | ~175 |
+| Path of the Azata | 2.00% | ~175 |
+| Transformation | 2.00% | ~175 |
+| The Legacy | 2.00% | ~175 |
+| Divide and Rule | 2.00% | ~175 |
+| Mythic Reinforcements | 2.00% | ~175 |
+| Voice from Your Dreams | 2.00% | ~175 |
+| A Flame | 2.00% | ~175 |
+| Hey, I Know You! | 2.00% | ~175 |
+| Next-Door Play | 2.00% | ~175 |
+| Get the Toad | 2.00% | ~175 |
 | The Lady of the Forest | 2.00% | ~150 |
 | Beware Still Water | 2.00% | ~150 |
 | Path of the Trickster | 1.00% | ~87 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,725 (Ranked 109)  
+Progressed: 8,726 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 8,667 | 0 |
 | 2023-05-07 | 8,693 | 0 |
 | 2023-05-08 | 8,712 | 0 |
-| 2023-05-09 | 8,725 | 0 |
+| 2023-05-09 | 8,726 | 0 |
 ## Awards
 Max (Character Customization): 1,627  (Ranked 111)  
 Sum: 6,594 (Ranked 108)  

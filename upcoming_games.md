@@ -393,8 +393,8 @@
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 03/09/2099 23:00:00 +00:00 |  |
 | [Blazing Sails](games/b/blazing_sails.md) | 04/06/2099 13:34:00 +00:00 | 11/05/2020 15:00:00 +00:00 |
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 04/12/2099 13:00:00 +00:00 |  |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 06/26/2099 16:00:00 +00:00 | 06/26/2099 16:00:00 +00:00 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 06/26/2099 16:00:00 +00:00 | 06/26/2099 16:00:00 +00:00 |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 06/26/2099 16:00:00 +00:00 | 06/26/2099 16:00:00 +00:00 |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 07/07/2099 13:00:00 +00:00 |  |
 | [Video Horror Society](games/v/video_horror_society.md) | 07/18/2099 17:00:00 +00:00 | 07/18/2099 17:00:00 +00:00 |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | 07/28/2099 09:00:00 +00:00 |  |

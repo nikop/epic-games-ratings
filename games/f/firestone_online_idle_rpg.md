@@ -5,10 +5,10 @@ Rating: 3.40 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~865 |
+| Victor | 93.00% | ~866 |
 | World Map | 79.00% | ~735 |
 | Temple of Eternals | 55.00% | ~512 |
-| Prestigious | 51.00% | ~474 |
+| Prestigious | 51.00% | ~475 |
 | Fellowship Power | 39.00% | ~363 |
 | Guild Power | 23.00% | ~214 |
 | Prestigious x10 | 19.00% | ~177 |
@@ -24,21 +24,21 @@ Rating: 3.40 (Ranked 918)
 | Lieutenant | 7.00% | ~65 |
 | The Unstoppable | 7.00% | ~65 |
 | Natural Talent | 6.00% | ~56 |
-| Scientist | 5.00% | ~46 |
-| Superior | 5.00% | ~46 |
-| Daily Quest Completionist | 4.00% | ~37 |
+| Daily Quest Completionist | 5.00% | ~47 |
+| Scientist | 5.00% | ~47 |
+| Superior | 5.00% | ~47 |
 | Milestone collector | 4.00% | ~37 |
 | Background Story | 3.00% | ~28 |
 | Frostfire Liberator | 3.00% | ~28 |
 | Mastery | 3.00% | ~28 |
 | Mysterious Rock | 3.00% | ~28 |
+| The Expeditioner | 3.00% | ~28 |
 | The power of Awakening | 3.00% | ~28 |
 | Here We Go Again | 2.00% | ~19 |
 | Hunter | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
 | Scroll Master | 2.00% | ~19 |
-| The Expeditioner | 2.00% | ~19 |
 | Active Member | 1.00% | ~9 |
 | Ancient Knowledge | 1.00% | ~9 |
 | Doing My Part | 1.00% | ~9 |
@@ -81,7 +81,7 @@ Rating: 3.40 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930 (Ranked 164)  
+Progressed: 931 (Ranked 164)  
 Completed: 1 (0.11%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.11%) (Ranked 150)
 | 2023-05-06 | 881 | 1 |
 | 2023-05-07 | 903 | 1 |
 | 2023-05-08 | 916 | 1 |
-| 2023-05-09 | 930 | 1 |
+| 2023-05-09 | 931 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

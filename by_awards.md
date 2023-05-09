@@ -36,7 +36,7 @@
 | 34 | [Satisfactory](games/s/satisfactory.md) | 9,298 | 4.88 | 18 |
 | 35 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 9,157 | 4.24 | 783 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,055 | 4.60 | 376 |
-| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 8,889 | 4.78 | 100 |
+| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 8,899 | 4.78 | 100 |
 | 38 | [Control](games/c/control.md) | 8,265 | 4.60 | 376 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,947 | 4.76 | 115 |
 | 40 | [Supraland](games/s/supraland.md) | 7,607 | 4.61 | 352 |
@@ -152,7 +152,7 @@
 | 150 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 743 | 4.56 | 447 |
 | 151 | [Auto Chess](games/a/auto_chess.md) | 735 | 4.52 | 501 |
 | 152 | [Core](games/c/core.md) | 728 | 4.37 | 699 |
-| 153 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 718 | 4.79 | 91 |
+| 153 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 720 | 4.79 | 91 |
 | 154 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 696 | 4.45 | 601 |
 | 155 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 692 | 4.59 | 396 |
 | 156 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 687 | 4.86 | 27 |
@@ -276,10 +276,10 @@
 | 273 | [The Witness](games/t/the_witness.md) | 170 | 4.70 | 192 |
 | 275 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 169 | 4.30 | 754 |
 | 276 | [Severed Steel](games/s/severed_steel.md) | 168 | 4.68 | 233 |
-| 277 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 164 | 4.65 | 286 |
-| 278 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 689 |
-| 278 | [Mothergunship](games/m/mothergunship.md) | 162 | 4.38 | 689 |
-| 280 | [The Sims™ 4](games/t/the_sims™_4.md) | 160 | 4.59 | 396 |
+| 277 | [The Sims™ 4](games/t/the_sims™_4.md) | 166 | 4.59 | 396 |
+| 278 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 164 | 4.65 | 286 |
+| 279 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 689 |
+| 279 | [Mothergunship](games/m/mothergunship.md) | 162 | 4.38 | 689 |
 | 281 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 158 | 4.80 | 79 |
 | 282 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 154 | 4.57 | 429 |
 | 283 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 151 | 4.65 | 286 |

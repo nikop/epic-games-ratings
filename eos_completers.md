@@ -24,7 +24,7 @@
 | 22 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 24 | [Remains](games/r/remains.md) | 5.88% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.58% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.57% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -197,6 +197,7 @@
 | 194 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
 | 194 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 194 | [Afterglitch](games/a/afterglitch.md) | 0.00% |
+| 194 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.00% |
 | 194 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 0.00% |
 | 194 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
 | 194 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |

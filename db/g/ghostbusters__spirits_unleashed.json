@@ -929,9 +929,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21658,
+  "EOS_Progressed": 21659,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2224,6 +2224,11 @@
       "Time": "2023-05-09T12:56:42.0868253+00:00",
       "NumProgressed": 21658,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-09T15:06:35.9488892+00:00",
+      "NumProgressed": 21659,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 51,
@@ -2235,7 +2240,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16027
+      "UsersEstimate": 16028
     },
     {
       "ID": "Animated",
@@ -2243,7 +2248,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "Back_Off",
@@ -2275,7 +2280,7 @@
       "Name": "Clutch Capture",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9097
     },
     {
       "ID": "Collect_Spores",
@@ -2283,7 +2288,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11262
+      "UsersEstimate": 11263
     },
     {
       "ID": "Collector",
@@ -2291,7 +2296,7 @@
       "Name": "Collector",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "Cultured",
@@ -2395,7 +2400,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "Legions",
@@ -2403,7 +2408,7 @@
       "Name": "Legions",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "Liability",
@@ -2459,7 +2464,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "Rift_Destroyer",
@@ -2507,7 +2512,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "Skilled",
@@ -2515,7 +2520,7 @@
       "Name": "Skilled",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "Solo_Capture",
@@ -2539,7 +2544,7 @@
       "Name": "Stylish",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 18842
+      "UsersEstimate": 18843
     },
     {
       "ID": "Summoner",
@@ -2563,7 +2568,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12128
+      "UsersEstimate": 12129
     },
     {
       "ID": "Teamwork",
@@ -2571,7 +2576,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "Terrifying",
@@ -2619,7 +2624,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10612
+      "UsersEstimate": 10613
     },
     {
       "ID": "Welcome_Crew",
@@ -2642,7 +2647,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21658,
+      "Progressed": 21659,
       "Completed": 39
     }
   ],
@@ -2650,8 +2655,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-08T23:00:00.524443+00:00",
-  "LastChanged_Achievements": "2023-05-09T14:39:45.3559015+00:00",
+  "LastChanged_Achievements": "2023-05-09T15:06:35.9488884+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.5642365+00:00",
-  "LastUpdate_Ratings": "2023-05-09T14:32:58.4666442+00:00",
-  "LastUpdate_Achievements": "2023-05-09T14:39:45.355943+00:00"
+  "LastUpdate_Ratings": "2023-05-09T15:00:08.3857329+00:00",
+  "LastUpdate_Achievements": "2023-05-09T15:06:35.9489509+00:00"
 }

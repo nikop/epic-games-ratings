@@ -15,6 +15,7 @@
 | You Get An Upgrade, You Get An Upgrade! | 100.00% | ~1 |
 | Onwards and Upwards | 100.00% | ~1 |
 | No Room for Improvement | 100.00% | ~1 |
+| Upgradeaholic | 100.00% | ~1 |
 | You're Going Down! | 100.00% | ~1 |
 | Playing God | 100.00% | ~1 |
 | Déjà-Vu | 0.00% | ~0 |
@@ -37,14 +38,13 @@
 | Supersport Superfan | 0.00% | ~0 |
 | Superbike Superfan | 0.00% | ~0 |
 | Playing Favourites | 0.00% | ~0 |
-| Upgradeaholic | 0.00% | ~0 |
 | Start Your Engines | 0.00% | ~0 |
 | Tailor-Made | 0.00% | ~0 |
 | Tailor-Made for Two | 0.00% | ~0 |
 | Tempus Fugit | 0.00% | ~0 |
 | Lone Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 364)  
+Progressed: 1 (Ranked 365)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
