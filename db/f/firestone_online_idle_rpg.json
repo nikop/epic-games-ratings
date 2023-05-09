@@ -1579,9 +1579,9 @@
       "ID": "masterenchanter",
       "SetID": "3nl4bcg",
       "Name": "Master Enchanter",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "mastery",
@@ -1771,9 +1771,9 @@
       "ID": "theunstoppable",
       "SetID": "3nl4bcg",
       "Name": "The Unstoppable",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 65
     },
     {
       "ID": "titanpower",
@@ -1876,8 +1876,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-06T20:59:32.1998606+00:00",
-  "LastChanged_Achievements": "2023-05-09T12:56:35.3183353+00:00",
+  "LastChanged_Achievements": "2023-05-09T13:41:11.0930461+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:49:02.6911234+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:56:35.3184028+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:33:14.1669901+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:41:11.0931492+00:00"
 }

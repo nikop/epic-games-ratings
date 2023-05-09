@@ -593,9 +593,9 @@
       "ID": "ACH_BASE_26",
       "SetID": "92iocjf",
       "Name": "Sightseeing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BASE_27",
@@ -936,8 +936,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-09T12:56:21.1283798+00:00",
+  "LastChanged_Achievements": "2023-05-09T13:40:54.6681116+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.0317624+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:49:30.3259908+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:56:21.1284269+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:33:46.3729524+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:40:54.6682126+00:00"
 }

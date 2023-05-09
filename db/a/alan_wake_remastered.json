@@ -498,7 +498,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46082,
+  "EOS_Progressed": 46083,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -1298,6 +1298,11 @@
       "Time": "2023-05-09T12:56:27.2141323+00:00",
       "NumProgressed": 46082,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-09T13:41:01.7928432+00:00",
+      "NumProgressed": 46083,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1781,7 +1786,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "61",
@@ -1837,28 +1842,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46082,
+      "Progressed": 46083,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9550,
+      "Progressed": 9551,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-09T12:56:27.2141319+00:00",
+  "LastChanged_Achievements": "2023-05-09T13:41:01.7928426+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:48:39.7188637+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:56:27.2141861+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:32:46.1948502+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:41:01.7929529+00:00"
 }

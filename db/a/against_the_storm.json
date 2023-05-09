@@ -2,9 +2,9 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 71,
+  "Ranking_Rating": 72,
   "Ranking_Popularity": 192,
-  "Ranking_PopularitySum": 149,
+  "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 109,
@@ -2228,7 +2228,7 @@
   ],
   "EOS_Progressed": 14726,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3277,9 +3277,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "WinNearBandit",
@@ -3573,8 +3573,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-08T18:01:14.9978672+00:00",
-  "LastChanged_Achievements": "2023-05-09T12:57:01.1062541+00:00",
+  "LastChanged_Achievements": "2023-05-09T13:41:40.9763026+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:51:07.9055084+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:57:01.1062904+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:35:41.1956313+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:41:40.9763852+00:00"
 }

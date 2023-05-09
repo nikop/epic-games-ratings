@@ -2,7 +2,7 @@
   "ID": "yarrow",
   "Name": "Flower",
   "ProductSlug": "flower",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 71,
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.5928881+00:00",
   "LastChanged": "2023-03-31T05:57:52.5928882+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:11.7716144+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:48:56.2649385+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:52:14.4659012+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:33:07.0662165+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:37:00.0155029+00:00"
 }

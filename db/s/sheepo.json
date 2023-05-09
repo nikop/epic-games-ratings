@@ -2,7 +2,7 @@
   "ID": "880489d7d5424ffdb016b96bc52653ba",
   "Name": "Sheepo",
   "ProductSlug": "sheepo-62cd3e",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 71,
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1712819+00:00",
   "LastChanged": "2023-03-31T05:57:31.171282+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.9015432+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:49:06.0085716+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:54:07.0881197+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:33:18.3655353+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:38:18.0756818+00:00"
 }

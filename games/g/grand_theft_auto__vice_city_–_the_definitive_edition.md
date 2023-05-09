@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.66 (Ranked 270)  
+Rating: 4.66 (Ranked 271)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,9 +35,9 @@ Rating: 4.66 (Ranked 270)
 | Chopper’d Up | 1.00% | ~61 |
 | Daredevil | 0.90% | ~55 |
 | Born in the 80’s | 0.70% | ~43 |
+| Keepie-Uppy Okie Dokie | 0.70% | ~43 |
 | I'm Famous! | 0.70% | ~43 |
 | Done it All | 0.70% | ~43 |
-| Keepie-Uppy Okie Dokie | 0.60% | ~37 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,095 (Ranked 115)  

@@ -457,7 +457,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12307,
+  "EOS_Progressed": 12308,
   "EOS_Completed": 93,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 2,
@@ -1487,6 +1487,11 @@
       "Time": "2023-05-09T12:56:16.4226045+00:00",
       "NumProgressed": 12307,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-09T13:40:49.484801+00:00",
+      "NumProgressed": 12308,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1538,7 +1543,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "tpote_achievement_15",
@@ -1578,7 +1583,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "tpote_achievement_2",
@@ -1586,7 +1591,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "tpote_achievement_20",
@@ -1610,7 +1615,7 @@
       "Name": "Two of us",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "tpote_achievement_23",
@@ -1650,7 +1655,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "tpote_achievement_28",
@@ -1674,7 +1679,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "tpote_achievement_30",
@@ -1714,7 +1719,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "tpote_achievement_35",
@@ -1802,7 +1807,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "tpote_achievement_8",
@@ -1825,15 +1830,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12307,
+      "Progressed": 12308,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-09T12:56:16.4226043+00:00",
+  "LastChanged_Achievements": "2023-05-09T13:40:49.4848001+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:51:04.9236941+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:56:16.4226353+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:35:37.4506265+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:40:49.4848677+00:00"
 }

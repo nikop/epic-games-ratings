@@ -4,36 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Butcher | 100.00% | ~1 |
+| Kärrhäxan | 100.00% | ~1 |
+| Näcken | 100.00% | ~1 |
+| Pesta | 100.00% | ~1 |
+| Bramble | 100.00% | ~1 |
+| Skogsrået | 100.00% | ~1 |
+| Book worm | 100.00% | ~1 |
+| Witchcraft | 100.00% | ~1 |
+| Gnome Figurine | 100.00% | ~1 |
+| Lyktgubben Figurine | 100.00% | ~1 |
+| Näcken Figurine | 100.00% | ~1 |
+| Pesta Figurine | 100.00% | ~1 |
+| Lillemor Figurine | 100.00% | ~1 |
+| Skogsrået Figurine | 100.00% | ~1 |
+| Troll Figurine | 100.00% | ~1 |
+| Tuva Figurine | 100.00% | ~1 |
+| Bouncy | 100.00% | ~1 |
+| Proper burial | 100.00% | ~1 |
+| Bait | 100.00% | ~1 |
 | Goal! | 0.00% | ~0 |
-| Butcher | 0.00% | ~0 |
-| Kärrhäxan | 0.00% | ~0 |
 | The Mountain King | 0.00% | ~0 |
-| Näcken | 0.00% | ~0 |
-| Pesta | 0.00% | ~0 |
-| Bramble | 0.00% | ~0 |
-| Skogsrået | 0.00% | ~0 |
-| Book worm | 0.00% | ~0 |
-| Witchcraft | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Home Again | 0.00% | ~0 |
 | Kärrhäxan Figurine | 0.00% | ~0 |
-| Gnome Figurine | 0.00% | ~0 |
-| Lyktgubben Figurine | 0.00% | ~0 |
 | Lemus Figurine | 0.00% | ~0 |
-| Näcken Figurine | 0.00% | ~0 |
 | King Nils Figurine | 0.00% | ~0 |
-| Pesta Figurine | 0.00% | ~0 |
-| Lillemor Figurine | 0.00% | ~0 |
-| Skogsrået Figurine | 0.00% | ~0 |
-| Troll Figurine | 0.00% | ~0 |
-| Tuva Figurine | 0.00% | ~0 |
 | Survivor | 0.00% | ~0 |
-| Bouncy | 0.00% | ~0 |
 | Evicted | 0.00% | ~0 |
-| Proper burial | 0.00% | ~0 |
-| Bait | 0.00% | ~0 |
 | Savior | 0.00% | ~0 |
 | Murderer | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 364)  
+Completed: 0 (0.00%) (Ranked 194)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-05-09 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

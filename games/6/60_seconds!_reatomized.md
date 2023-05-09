@@ -13,7 +13,7 @@ Rating: 4.63 (Ranked 325)
 | One way ticket | 83.00% | ~3,293 |
 | Last man standing | 76.00% | ~3,015 |
 | Family guy | 75.00% | ~2,975 |
-| Out of the Bag | 71.00% | ~2,817 |
+| Out of the Bag | 72.00% | ~2,856 |
 | The Dark Side | 67.00% | ~2,658 |
 | Duck and cover! | 62.00% | ~2,460 |
 | Souper! | 60.00% | ~2,380 |
@@ -24,7 +24,7 @@ Rating: 4.63 (Ranked 325)
 | What goes around... | 40.00% | ~1,587 |
 | Be Prepared | 34.00% | ~1,349 |
 | Unbreakable | 33.00% | ~1,309 |
-| Atomic drill | 31.00% | ~1,230 |
+| Atomic drill | 32.00% | ~1,269 |
 | This is the end | 31.00% | ~1,230 |
 | Gotta get 'em all | 29.00% | ~1,150 |
 | Disco Roach | 26.00% | ~1,031 |

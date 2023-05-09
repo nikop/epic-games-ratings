@@ -2,7 +2,7 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 71,
@@ -18,7 +18,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -603,6 +603,11 @@
       "Time": "2023-05-09T12:57:06.8829688+00:00",
       "NumProgressed": 155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T13:41:47.1090277+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -636,25 +641,25 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "achBett",
       "SetID": "72gjli4",
       "Name": "Betty \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achBrain",
       "SetID": "72gjli4",
       "Name": "Brain \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achCar",
@@ -678,15 +683,15 @@
       "Name": "Chest \u2714",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achCity",
       "SetID": "72gjli4",
       "Name": "City \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achCoinOne",
@@ -756,17 +761,17 @@
       "ID": "achDog",
       "SetID": "72gjli4",
       "Name": "Doberman \u2714",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "achEva",
       "SetID": "72gjli4",
       "Name": "Eva \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achExplosion",
@@ -812,7 +817,7 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 82
     },
@@ -836,9 +841,9 @@
       "ID": "achMaikl",
       "SetID": "72gjli4",
       "Name": "Fraternal help \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achOsipovOne",
@@ -868,9 +873,9 @@
       "ID": "achPlotThree",
       "SetID": "72gjli4",
       "Name": "Infected \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achPlotTwo",
@@ -886,7 +891,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achPriest",
@@ -932,9 +937,9 @@
       "ID": "achSecretos",
       "SetID": "72gjli4",
       "Name": "All secrets revealed \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achSeif",
@@ -950,7 +955,7 @@
       "Name": "Chess \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achSpped",
@@ -964,9 +969,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "achVip",
@@ -1013,7 +1018,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
@@ -1021,8 +1026,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-09T12:57:06.8829685+00:00",
+  "LastChanged_Achievements": "2023-05-09T13:41:47.1090272+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:51:24.2985474+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:57:06.8830048+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:36:00.9545167+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:41:47.1091078+00:00"
 }

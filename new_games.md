@@ -49,7 +49,7 @@
 | [Aftertime](games/a/aftertime.md) | - | - | 0 | - |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | - | - | 0 | - |
 | [Spaceman Defender](games/s/spaceman_defender.md) | - | - | 0 | - |
-| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.66 | 270 | 0 | 490 |
+| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.67 | 256 | 0 | 490 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.14 | 844 | 0 | 490 |
 | [The Ultimate Trivia Challenge](games/t/the_ultimate_trivia_challenge.md) | - | - | 0 | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Big Day | 83.00% | ~55 |
 | Home Cook | 55.00% | ~36 |
-| You're the Expert! | 45.00% | ~30 |
+| You're the Expert! | 47.00% | ~31 |
 | French Flair | 42.00% | ~28 |
 | So Clean You Can Eat Off the Floor | 39.00% | ~26 |
 | S is for Scrumptious | 32.00% | ~21 |

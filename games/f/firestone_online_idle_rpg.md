@@ -22,8 +22,8 @@ Rating: 3.40 (Ranked 918)
 | Enlightenment | 8.00% | ~74 |
 | Dragon Master | 7.00% | ~65 |
 | Lieutenant | 7.00% | ~65 |
+| The Unstoppable | 7.00% | ~65 |
 | Natural Talent | 6.00% | ~56 |
-| The Unstoppable | 6.00% | ~56 |
 | Scientist | 5.00% | ~46 |
 | Superior | 5.00% | ~46 |
 | Daily Quest Completionist | 4.00% | ~37 |
@@ -44,11 +44,11 @@ Rating: 3.40 (Ranked 918)
 | Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
+| Master Enchanter | 1.00% | ~9 |
 | Relic Of The Past | 1.00% | ~9 |
 | The father of Dragons | 1.00% | ~9 |
 | Trader | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
-| Master Enchanter | 0.90% | ~8 |
 | Challenger | 0.80% | ~7 |
 | Weekly Quest Completionist | 0.80% | ~7 |
 | Dragon Slayer | 0.60% | ~6 |

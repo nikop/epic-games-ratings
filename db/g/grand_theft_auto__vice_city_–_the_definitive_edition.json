@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 270,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 115,
@@ -1280,9 +1280,9 @@
       "ID": "ACH16",
       "SetID": "9llo822",
       "Name": "Keepie-Uppy Okie Dokie",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH17",
@@ -1441,8 +1441,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-09T12:49:19.9962975+00:00",
-  "LastChanged_Achievements": "2023-05-09T12:56:25.7368882+00:00",
+  "LastChanged_Achievements": "2023-05-09T13:40:59.8893188+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:49:19.9962979+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:56:25.7369115+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:33:34.9996293+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:40:59.8893689+00:00"
 }

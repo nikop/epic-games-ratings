@@ -20,11 +20,11 @@ Rating: 4.54 (Ranked 477)
 | Infinite Growth... | 0.30% | ~6 |
 | Guy de Borderlands | 0.30% | ~6 |
 | Space Society | 0.30% | ~6 |
+| Sightseeing | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | Hope Seeker | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
-| Sightseeing | 0.20% | ~4 |
 | A Hunk of Junk | 0.20% | ~4 |
 | In Dolos We Trust | 0.20% | ~4 |
 | Breaking Protocol | 0.20% | ~4 |

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 53.00% | ~82 |
-| Chest ✔ | 52.00% | ~81 |
-| Inventory ✔ | 49.00% | ~76 |
-| Police officers ✔ | 24.00% | ~37 |
-| Mutation ✔ | 23.00% | ~36 |
-| Doberman ✔ | 12.00% | ~19 |
-| Chess ✔ | 8.00% | ~12 |
+| Chest ✔ | 52.00% | ~82 |
+| Fright ✔ | 52.00% | ~82 |
+| Inventory ✔ | 48.00% | ~75 |
+| Police officers ✔ | 24.00% | ~38 |
+| Mutation ✔ | 22.00% | ~35 |
+| Doberman ✔ | 11.00% | ~17 |
+| Chess ✔ | 8.00% | ~13 |
 | Survival ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
 | Weapon ✔ | 7.00% | ~11 |
 | Hospital ✔ | 6.00% | ~9 |
 | Antivirus ✔ | 5.00% | ~8 |
-| Betty ✔ | 5.00% | ~8 |
-| Brain ✔ | 5.00% | ~8 |
 | Cheats ✔ | 5.00% | ~8 |
-| City ✔ | 5.00% | ~8 |
-| Eva ✔ | 5.00% | ~8 |
-| Fraternal help ✔ | 5.00% | ~8 |
-| Infected ✔ | 5.00% | ~8 |
 | King of survival ✔ | 5.00% | ~8 |
-| All secrets revealed ✔ | 5.00% | ~8 |
 | Thirst ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~6 |
 | Alice ✔ | 4.00% | ~6 |
+| Betty ✔ | 4.00% | ~6 |
+| Brain ✔ | 4.00% | ~6 |
+| City ✔ | 4.00% | ~6 |
+| Eva ✔ | 4.00% | ~6 |
 | Food ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
+| Fraternal help ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
+| Infected ✔ | 4.00% | ~6 |
+| All secrets revealed ✔ | 4.00% | ~6 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
 | Mutant fight ✔ | 3.00% | ~5 |
@@ -55,7 +55,7 @@
 | Exterminate pests ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 232)  
+Progressed: 157 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 139 | 0 |
 | 2023-05-07 | 149 | 0 |
 | 2023-05-08 | 153 | 0 |
-| 2023-05-09 | 155 | 0 |
+| 2023-05-09 | 157 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

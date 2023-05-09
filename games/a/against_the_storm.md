@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 71)  
+Rating: 4.81 (Ranked 72)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -38,12 +38,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
 | Against All Odds | 0.30% | ~44 |
+| Ruined Armory | 0.30% | ~44 |
 | Fishmen Ritual Site | 0.30% | ~44 |
 | Forbidden Lands | 0.30% | ~44 |
 | Defying the Crown | 0.30% | ~44 |
 | Lizard Utopia | 0.20% | ~29 |
 | Efficient Explorer | 0.20% | ~29 |
-| Ruined Armory | 0.20% | ~29 |
 | Prestigious Expedition | 0.20% | ~29 |
 | Blood Flower Farmer | 0.20% | ~29 |
 | Victory through Prosperity | 0.20% | ~29 |
@@ -79,8 +79,8 @@ Completed: 30 (0.20%) (Ranked 133)
 | 2023-05-09 | 14,726 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
-Sum: 3,017 (Ranked 149)  
-Diff (max vs sum): 43  
+Sum: 3,017 (Ranked 150)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |

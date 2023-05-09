@@ -53,7 +53,7 @@
 | Under the Weather | 0.00% | ~0 |
 | Wilful Ignorance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 303)  
+Progressed: 16 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |

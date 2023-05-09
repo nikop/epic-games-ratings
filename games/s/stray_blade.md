@@ -7,10 +7,12 @@
 | Tinkerer | 50.00% | ~1 |
 | Bringing guns to a sword fight | 50.00% | ~1 |
 | Self-Defence | 50.00% | ~1 |
+| Freezing Cold | 50.00% | ~1 |
 | Don't Cry Wolf | 50.00% | ~1 |
 | A new World ahead | 50.00% | ~1 |
 | Can't touch this | 50.00% | ~1 |
 | Apprentice | 50.00% | ~1 |
+| The Power of the Mountains | 50.00% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Sponsor | 0.00% | ~0 |
 | Craftsmen | 0.00% | ~0 |
@@ -19,7 +21,6 @@
 | Defeat Ingla | 0.00% | ~0 |
 | Defeat Tezuth | 0.00% | ~0 |
 | Defeat Uskol | 0.00% | ~0 |
-| Freezing Cold | 0.00% | ~0 |
 | Searing Heat | 0.00% | ~0 |
 | Through Dangers Untold | 0.00% | ~0 |
 | Locked and Loaded | 0.00% | ~0 |
@@ -48,7 +49,6 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 | The Golden Flash | 0.00% | ~0 |
-| The Power of the Mountains | 0.00% | ~0 |
 | Changing the World | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 347)  

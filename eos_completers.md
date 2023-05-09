@@ -19,12 +19,12 @@
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.10% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
-| 22 | [Remains](games/r/remains.md) | 6.67% |
-| 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.61% |
+| 22 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
+| 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
+| 24 | [Remains](games/r/remains.md) | 5.88% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.59% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -57,7 +57,7 @@
 | 55 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
 | 56 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 57 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
-| 58 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.08% |
+| 58 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2.04% |
 | 59 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
 | 60 | [Sifu](games/s/sifu.md) | 1.81% |
 | 61 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
@@ -100,7 +100,7 @@
 | 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 99 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.54% |
 | 100 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 101 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
+| 101 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 102 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 102 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 104 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
@@ -217,6 +217,7 @@
 | 194 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 0.00% |
 | 194 | [Bosorka](games/b/bosorka.md) | 0.00% |
 | 194 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 0.00% |
+| 194 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 0.00% |
 | 194 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 0.00% |
 | 194 | [BROK the InvestiGator](games/b/brok_the_investigator.md) | 0.00% |
 | 194 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 0.00% |

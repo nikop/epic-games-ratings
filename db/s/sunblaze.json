@@ -2,7 +2,7 @@
   "ID": "c59985e0c23d468ca98440ccad5f6f7f",
   "Name": "Sunblaze",
   "ProductSlug": "sunblaze",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 71,
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:07.5146868+00:00",
   "LastChanged": "2023-03-31T05:58:07.5146869+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:10.3045464+00:00",
-  "LastUpdate_Ratings": "2023-05-09T12:50:03.6159352+00:00",
-  "LastUpdate_Achievements": "2023-05-09T12:55:01.1944751+00:00"
+  "LastUpdate_Ratings": "2023-05-09T13:34:24.5918075+00:00",
+  "LastUpdate_Achievements": "2023-05-09T13:39:21.2590505+00:00"
 }

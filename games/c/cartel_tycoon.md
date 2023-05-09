@@ -17,7 +17,7 @@ Number of Ratings: 101  (23.09.2022)
 | Safe Pair of Hands | 34.00% | ~107 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~91 |
 | Architect of Fortunes | 25.00% | ~79 |
-| Pampered Life | 24.00% | ~76 |
+| Pampered Life | 25.00% | ~79 |
 | Bite the Blow | 17.00% | ~54 |
 | Spreading Fear | 9.00% | ~28 |
 | Follow the Money | 8.00% | ~25 |

@@ -45,8 +45,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hardboiled Writer | 3.00% | ~1,382 |
 | If It Flies, It Burns | 3.00% | ~1,382 |
 | KBF-FM | 3.00% | ~1,382 |
-| Kill Your Darlings | 3.00% | ~286 |
-| Heartbreaker | 3.00% | ~286 |
+| Kill Your Darlings | 3.00% | ~287 |
+| Heartbreaker | 3.00% | ~287 |
 | Boob Tube | 2.00% | ~922 |
 | Carny | 2.00% | ~922 |
 | Iron Will | 2.00% | ~191 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,082 (Ranked 74)  
+Progressed: 46,083 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 44 (0.10%) (Ranked 153)
 | 2023-05-06 | 46,035 | 44 |
 | 2023-05-07 | 46,058 | 44 |
 | 2023-05-08 | 46,074 | 44 |
-| 2023-05-09 | 46,082 | 44 |
+| 2023-05-09 | 46,083 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

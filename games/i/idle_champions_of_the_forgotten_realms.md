@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Checkmate | 2.00% | ~1,064 |
+| Checkmate | 2.00% | ~1,065 |
 | A Brief Tour of the Realms | 1.00% | ~870 |
 | Vecna Out! | 1.00% | ~532 |
 | Pin and Skewer | 0.90% | ~479 |
@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.30% | ~261 |
 | Building Trust | 0.30% | ~261 |
 | Unearthed Evil | 0.30% | ~261 |
+| The Dinner Party | 0.30% | ~261 |
 | The Crumbling Temple | 0.30% | ~261 |
 | Useless Allies | 0.30% | ~261 |
 | Exploring Port Nyanzaru | 0.30% | ~261 |
@@ -74,7 +75,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.20% | ~174 |
 | Invisible Shadows | 0.20% | ~174 |
 | Family Entanglements | 0.20% | ~174 |
-| The Dinner Party | 0.20% | ~174 |
 | Chatty Nobles | 0.20% | ~174 |
 | The Botched Kidnapping | 0.20% | ~174 |
 | Haaave You Met Asmodeus? | 0.20% | ~174 |
@@ -94,6 +94,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~174 |
 | Slow and Steady | 0.20% | ~174 |
 | Flying Monkey Skulls of Doom | 0.20% | ~174 |
+| Lair of the Xanathar | 0.20% | ~174 |
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
@@ -319,7 +320,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Years | 0.10% | ~53 |
 | A Hero's Entourage | 0.10% | ~87 |
 | Sneak Attack | 0.10% | ~53 |
-| Lair of the Xanathar | 0.10% | ~87 |
 | Dreams of Beholders | 0.10% | ~87 |
 | Feigned Weakness | 0.10% | ~87 |
 | DPS in the Deeps | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,951 (Ranked 59)  
+Progressed: 86,956 (Ranked 59)  
 Completed: 1,817 (2.09%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,817 (2.09%) (Ranked 57)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,951 | 1,817 |
+| 2023-05-09 | 86,956 | 1,817 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  
