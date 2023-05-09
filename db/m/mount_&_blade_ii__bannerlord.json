@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.74,
   "NumberOfRatings": 5603,
@@ -3871,9 +3871,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49264,
+  "EOS_Progressed": 49267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5391,6 +5391,11 @@
       "Time": "2023-05-09T04:07:18.3493643+00:00",
       "NumProgressed": 49264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T05:06:49.5058649+00:00",
+      "NumProgressed": 49267,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5410,7 +5415,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6404
+      "UsersEstimate": 6405
     },
     {
       "ID": "Bannerlord",
@@ -5442,7 +5447,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3448
+      "UsersEstimate": 3449
     },
     {
       "ID": "Catch",
@@ -5634,7 +5639,7 @@
       "Name": "Lawbringer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16750
+      "UsersEstimate": 16751
     },
     {
       "ID": "Lawmaker",
@@ -5642,7 +5647,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10345
+      "UsersEstimate": 10346
     },
     {
       "ID": "Long live the Empire",
@@ -5754,7 +5759,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7882
+      "UsersEstimate": 7883
     },
     {
       "ID": "This Is Our Land",
@@ -5778,7 +5783,7 @@
       "Name": "Trained",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9360
+      "UsersEstimate": 9361
     },
     {
       "ID": "Undercover",
@@ -5809,15 +5814,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49264,
+      "Progressed": 49267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-09T02:02:34.5050878+00:00",
-  "LastChanged_Achievements": "2023-05-09T04:07:18.3493638+00:00",
+  "LastChanged_Achievements": "2023-05-09T05:06:49.5058645+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-09T04:01:18.5423094+00:00",
-  "LastUpdate_Achievements": "2023-05-09T04:07:18.3494267+00:00"
+  "LastUpdate_Ratings": "2023-05-09T05:00:51.6219265+00:00",
+  "LastUpdate_Achievements": "2023-05-09T05:06:49.5059156+00:00"
 }

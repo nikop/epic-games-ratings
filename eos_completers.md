@@ -18,13 +18,13 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
-| 20 | [Scorn](games/s/scorn.md) | 7.11% |
+| 19 | [Scorn](games/s/scorn.md) | 7.11% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 22 | [Remains](games/r/remains.md) | 6.67% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.73% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.71% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -102,8 +102,8 @@
 | 100 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 101 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 102 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 102 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 102 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 104 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 105 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 106 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 107 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
@@ -166,15 +166,15 @@
 | 164 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 164 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
 | 164 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 167 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 167 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 167 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 167 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.05% |
-| 170 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 170 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.04% |
-| 170 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 170 | [House Party](games/h/house_party.md) | 0.04% |
-| 170 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
-| 170 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 171 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 171 | [High On Life](games/h/high_on_life.md) | 0.04% |
+| 171 | [House Party](games/h/house_party.md) | 0.04% |
+| 171 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
+| 171 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 176 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 176 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 178 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |

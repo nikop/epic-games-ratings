@@ -91,7 +91,7 @@
 | 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 490 |
 | 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 459 |
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,440 | 115 |
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 502 | 182 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 509 | 181 |
 | 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 718 | 153 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,244 | 97 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,007 | 135 |
@@ -209,7 +209,7 @@
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 490 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 490 |
 | 192 | [The Witness](games/t/the_witness.md) | 4.70 | 170 | 273 |
-| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,255 | 69 |
+| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,258 | 69 |
 | 192 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 38 | 413 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 490 |
 | 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,837 | 8 |
@@ -491,7 +491,7 @@
 | 489 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 490 |
 | 489 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 490 |
 | 489 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 490 |
-| 489 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,727 | 17 |
+| 489 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,740 | 17 |
 | 489 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 138,143 | 7 |
 | 489 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 301 |
 | 489 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 490 |
@@ -504,7 +504,7 @@
 | 501 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 413 |
 | 501 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,143 | 16 |
 | 501 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 86 | 339 |
-| 501 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 502 | 182 |
+| 501 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 502 | 183 |
 | 501 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 321 |
 | 501 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 285 |
 | 501 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 183 | 264 |
@@ -784,7 +784,7 @@
 | 779 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 490 |
 | 783 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 490 |
 | 783 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 439 |
-| 783 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,106 | 35 |
+| 783 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,157 | 35 |
 | 783 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 362 | 208 |
 | 783 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 490 |
 | 783 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 490 |
@@ -864,7 +864,7 @@
 | 860 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 490 |
 | 860 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 490 |
 | 864 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 137 | 290 |
-| 865 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 504 | 181 |
+| 865 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 504 | 182 |
 | 865 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 268 |
 | 865 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 490 |
 | 865 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 490 |

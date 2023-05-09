@@ -74,8 +74,8 @@ Completed: 8 (0.14%) (Ranked 145)
 | 2023-05-09 | 5,605 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 443)  
-Sum: 233 (Ranked 343)  
-Diff (max vs sum): 100  
+Sum: 253 (Ranked 340)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 30 |
@@ -87,6 +87,7 @@ Diff (max vs sum): 100
 | This game has Realistic Visuals | 25 |
 | This game has Challenging Combat | 24 |
 | This game has Competitive Players | 23 |
+| This game has a Kind Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -152,3 +153,4 @@ Diff (max vs sum): 100
 | 2023-04-24 | 4.56 | - | 30 | 231 |
 | 2023-04-25 | 4.56 | - | 30 | 232 |
 | 2023-05-07 | 4.56 | - | 30 | 233 |
+| 2023-05-09 | 4.56 | - | 30 | 253 |

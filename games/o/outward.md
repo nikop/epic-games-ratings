@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,732 |
-| Ready for Winter | 64.00% | ~1,498 |
-| Ready for Summer | 51.00% | ~1,193 |
-| Cordon Bleu | 43.00% | ~1,006 |
-| Tapped! | 36.00% | ~842 |
-| Eureka | 31.00% | ~725 |
-| Scourge Slayer | 26.00% | ~608 |
-| Home Sweet Home | 23.00% | ~538 |
-| Science, Troglodyte! | 23.00% | ~538 |
+| Venture Outward | 74.00% | ~1,733 |
+| Ready for Winter | 64.00% | ~1,499 |
+| Ready for Summer | 51.00% | ~1,194 |
+| Cordon Bleu | 43.00% | ~1,007 |
+| Tapped! | 36.00% | ~843 |
+| Eureka | 31.00% | ~726 |
+| Scourge Slayer | 25.00% | ~586 |
+| Home Sweet Home | 23.00% | ~539 |
+| Science, Troglodyte! | 23.00% | ~539 |
 | Exceptional Skill | 22.00% | ~515 |
 | Encyclopedic! | 20.00% | ~468 |
-| A Fortress Toppled! | 16.00% | ~374 |
-| Apex Predator | 16.00% | ~374 |
-| The Power of Family | 16.00% | ~374 |
+| A Fortress Toppled! | 16.00% | ~375 |
+| Apex Predator | 16.00% | ~375 |
+| The Power of Family | 16.00% | ~375 |
 | Strange amalgams | 13.00% | ~304 |
 | The Power of Faith | 13.00% | ~304 |
 | The Power of Freedom | 9.00% | ~211 |
@@ -30,8 +30,8 @@ Number of Ratings: 266  (23.09.2022)
 | Magic is a science | 8.00% | ~187 |
 | The power of ambition | 7.00% | ~164 |
 | The stuff of legends. | 7.00% | ~164 |
-| Blood and justice | 6.00% | ~140 |
-| Hold my Mead and Watch This | 6.00% | ~140 |
+| Blood and justice | 6.00% | ~141 |
+| Hold my Mead and Watch This | 6.00% | ~141 |
 | Ancestor's Pride | 5.00% | ~117 |
 | For All Aurai | 4.00% | ~94 |
 | Memory of a legend | 4.00% | ~94 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~7 |
 | The Absolute Pinnacle. | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,340 (Ranked 139)  
-Completed: 1 (0.04%) (Ranked 170)  
+Progressed: 2,342 (Ranked 139)  
+Completed: 1 (0.04%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,11 +67,11 @@ Completed: 1 (0.04%) (Ranked 170)
 | 2023-05-06 | 2,319 | 1 |
 | 2023-05-07 | 2,327 | 1 |
 | 2023-05-08 | 2,337 | 1 |
-| 2023-05-09 | 2,340 | 1 |
+| 2023-05-09 | 2,342 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 439)  
-Sum: 238 (Ranked 342)  
-Diff (max vs sum): 97  
+Sum: 238 (Ranked 343)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

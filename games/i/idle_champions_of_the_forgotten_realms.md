@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.20% | ~106 |
 | Thieves of the Coven | 0.20% | ~106 |
 | The Silken Swamp | 0.20% | ~174 |
+| Wet Feet | 0.20% | ~174 |
 | Supply Run | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~106 |
 | The Evacuation of Waterdeep | 0.20% | ~106 |
@@ -83,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
 | Treasure Hunters | 0.20% | ~174 |
+| Backtracking Through Barovia | 0.20% | ~174 |
 | Nimble Escape | 0.20% | ~174 |
 | Fugitives | 0.20% | ~174 |
 | Premature Betrayal | 0.20% | ~174 |
@@ -151,7 +153,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~53 |
 | Zarak's Revenge | 0.10% | ~53 |
 | Bully for You! | 0.10% | ~53 |
-| Wet Feet | 0.10% | ~87 |
 | The Dark Heart | 0.10% | ~53 |
 | Undergeared | 0.10% | ~53 |
 | Underdark Chill | 0.10% | ~53 |
@@ -274,7 +275,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.10% | ~87 |
 | Class Vacation | 0.10% | ~87 |
 | A Nod from Strahd | 0.10% | ~53 |
-| Backtracking Through Barovia | 0.10% | ~87 |
 | Diversity Day-Trip | 0.10% | ~87 |
 | Late Game | 0.10% | ~87 |
 | Shadowfell Stalwarts | 0.10% | ~53 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,925 (Ranked 59)  
-Completed: 1,816 (2.09%) (Ranked 58)  
+Progressed: 86,926 (Ranked 59)  
+Completed: 1,817 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -515,7 +515,7 @@ Completed: 1,816 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,925 | 1,816 |
+| 2023-05-09 | 86,926 | 1,817 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

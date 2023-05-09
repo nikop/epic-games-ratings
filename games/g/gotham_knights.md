@@ -21,6 +21,7 @@ Rating: 4.17 (Ranked 829)
 | Universal Health Scare | 0.30% | ~182 |
 | First Step Into the Knight | 0.30% | ~182 |
 | Unstoppable Force | 0.30% | ~182 |
+| Knighthood | 0.30% | ~182 |
 | Loose Ends | 0.30% | ~182 |
 | Whispered Words | 0.30% | ~182 |
 | Lock and Key | 0.30% | ~182 |
@@ -35,7 +36,6 @@ Rating: 4.17 (Ranked 829)
 | Bulldozed | 0.20% | ~121 |
 | Out of Their League | 0.20% | ~121 |
 | Drone You Out | 0.20% | ~121 |
-| Knighthood | 0.20% | ~121 |
 | Gotham City Confidential | 0.20% | ~121 |
 | Hammer and Icicle | 0.10% | ~31 |
 | Element of Surprise | 0.10% | ~31 |

@@ -6,20 +6,20 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~696,947 |
-| The Blues | 85.00% | ~598,389 |
-| Fast | 66.00% | ~464,631 |
+| Out of bed | 99.00% | ~696,948 |
+| The Blues | 85.00% | ~598,390 |
+| Fast | 66.00% | ~464,632 |
 | Healthbar | 55.00% | ~387,193 |
-| Force Cube | 52.00% | ~366,073 |
+| Force Cube | 52.00% | ~366,074 |
 | Double Jump | 48.00% | ~337,914 |
 | Regeneration | 47.00% | ~330,874 |
 | Climb the hill | 42.00% | ~295,675 |
 | Triple Jump | 42.00% | ~295,675 |
 | Through the fire pipe | 38.00% | ~267,515 |
-| MacGuffin | 37.00% | ~260,475 |
-| Just once | 36.00% | ~253,435 |
+| MacGuffin | 37.00% | ~260,476 |
+| Just once | 36.00% | ~253,436 |
 | Armor | 30.00% | ~211,196 |
-| True holy spirit | 27.00% | ~190,076 |
+| True holy spirit | 27.00% | ~190,077 |
 | That's how electronics work obviously | 26.00% | ~183,037 |
 | Force Cube Catapult | 25.00% | ~175,997 |
 | Holy Sword | 23.00% | ~161,917 |
@@ -35,8 +35,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~91,518 |
 | Purple Cube | 13.00% | ~91,518 |
 | Supraball Noob | 13.00% | ~91,518 |
-| Health Drink | 12.00% | ~84,478 |
-| Helped a star | 12.00% | ~84,478 |
+| Health Drink | 12.00% | ~84,479 |
+| Helped a star | 12.00% | ~84,479 |
 | Infiltrated | 11.00% | ~77,439 |
 | Robbed | 11.00% | ~77,439 |
 | Strong | 11.00% | ~77,439 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~704 |
 | DLC: Top of the world | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,987 (Ranked 14)  
+Progressed: 703,988 (Ranked 14)  
 Completed: 672 (0.10%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 672 (0.10%) (Ranked 153)
 | 2023-05-06 | 703,539 | 670 |
 | 2023-05-07 | 703,799 | 672 |
 | 2023-05-08 | 703,971 | 672 |
-| 2023-05-09 | 703,987 | 672 |
+| 2023-05-09 | 703,988 | 672 |
 ## Awards
 Max (Challenging Puzzles): 7,607  (Ranked 40)  
 Sum: 9,893 (Ranked 78)  

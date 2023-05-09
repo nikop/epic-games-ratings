@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,943 |
-| That's a Grand Army | 8.00% | ~2,616 |
-| That is mine! | 8.00% | ~2,616 |
-| Victorious! | 8.00% | ~2,616 |
-| Brothers in Arms | 6.00% | ~1,962 |
-| That's a Grand Navy | 6.00% | ~1,962 |
-| Seriously?! | 6.00% | ~1,962 |
-| For the Glory | 5.00% | ~1,635 |
+| Until death do us apart | 9.00% | ~2,944 |
+| That's a Grand Army | 8.00% | ~2,617 |
+| That is mine! | 8.00% | ~2,617 |
+| Victorious! | 8.00% | ~2,617 |
+| Brothers in Arms | 6.00% | ~1,963 |
+| That's a Grand Navy | 6.00% | ~1,963 |
+| Seriously?! | 6.00% | ~1,963 |
+| For the Glory | 5.00% | ~1,636 |
 | Cold War | 4.00% | ~1,308 |
 | True Catholic | 4.00% | ~1,308 |
 | Defender of the Faith | 3.00% | ~981 |
@@ -43,9 +43,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.70% | ~229 |
 | Down Under | 0.60% | ~196 |
 | This navy can take it all | 0.60% | ~196 |
-| Electable! | 0.50% | ~163 |
-| Time Bandit | 0.50% | ~163 |
-| Trustworthy | 0.50% | ~163 |
+| Electable! | 0.50% | ~164 |
+| Time Bandit | 0.50% | ~164 |
+| Trustworthy | 0.50% | ~164 |
 | All belongs to Mother Russia | 0.40% | ~131 |
 | At every continent | 0.40% | ~131 |
 | Early-Modern Warfare | 0.40% | ~131 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,699 (Ranked 80)  
+Progressed: 32,711 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
-| 2023-05-09 | 32,699 | 0 |
+| 2023-05-09 | 32,711 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
 Sum: 42,973 (Ranked 27)  

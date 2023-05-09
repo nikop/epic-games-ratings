@@ -320,7 +320,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221345,
+  "EOS_Progressed": 221346,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 0,
@@ -1795,6 +1795,11 @@
       "Time": "2023-05-09T04:06:40.6761242+00:00",
       "NumProgressed": 221345,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-09T05:06:16.6118016+00:00",
+      "NumProgressed": 221346,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -1942,7 +1947,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70830
+      "UsersEstimate": 70831
     },
     {
       "ID": "NOBUNAGA",
@@ -2030,7 +2035,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46482
+      "UsersEstimate": 46483
     },
     {
       "ID": "TACTICIAN",
@@ -2070,22 +2075,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90751
+      "UsersEstimate": 90752
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221345,
+      "Progressed": 221346,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-09T04:06:40.6761237+00:00",
+  "LastChanged_Achievements": "2023-05-09T05:06:16.6118012+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.7279724+00:00",
-  "LastUpdate_Ratings": "2023-05-09T03:59:36.6440728+00:00",
-  "LastUpdate_Achievements": "2023-05-09T04:06:40.6761648+00:00"
+  "LastUpdate_Ratings": "2023-05-09T04:59:32.5782258+00:00",
+  "LastUpdate_Achievements": "2023-05-09T05:06:16.6118284+00:00"
 }

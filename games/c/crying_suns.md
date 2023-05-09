@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~301,998 |
-| Jeef Skeejj | 44.00% | ~201,332 |
-| Careful planning | 39.00% | ~178,453 |
-| Second Coming | 33.00% | ~150,999 |
+| The Shutdown | 66.00% | ~302,000 |
+| Jeef Skeejj | 44.00% | ~201,333 |
+| Careful planning | 39.00% | ~178,454 |
+| Second Coming | 33.00% | ~151,000 |
 | Jeef Skagg | 30.00% | ~137,272 |
-| Mother | 25.00% | ~114,393 |
+| Mother | 25.00% | ~114,394 |
 | In space, no one can hear you scream | 23.00% | ~105,242 |
 | Chapter I: Echoes | 22.00% | ~100,666 |
 | Excelsior Rule | 22.00% | ~100,666 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~68,636 |
 | Tetsuo | 11.00% | ~50,333 |
 | Plan for the worst | 11.00% | ~50,333 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,757 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,758 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,606 |
 | Through the mirror | 8.00% | ~36,606 |
 | General Vivar | 8.00% | ~36,606 |
@@ -51,7 +51,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jericho Rule | 5.00% | ~22,879 |
 | Geno Rule | 3.00% | ~13,727 |
 | Hammer Rule | 3.00% | ~13,727 |
-| Survivor | 2.00% | ~9,151 |
+| Survivor | 2.00% | ~9,152 |
 | A Rock in the Dark | 1.00% | ~4,576 |
 | Emperor of Misery | 1.00% | ~4,576 |
 | A Frozen Lady | 1.00% | ~4,576 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,573 (Ranked 28)  
+Progressed: 457,575 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 14 (0.00%) (Ranked 194)
 | 2023-05-06 | 457,393 | 14 |
 | 2023-05-07 | 457,494 | 14 |
 | 2023-05-08 | 457,563 | 14 |
-| 2023-05-09 | 457,573 | 14 |
+| 2023-05-09 | 457,575 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

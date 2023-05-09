@@ -9,9 +9,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2387,
+  "EOS_Progressed": 2388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1099,6 +1099,11 @@
       "Time": "2023-05-09T04:07:00.9801711+00:00",
       "NumProgressed": 2387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T05:06:34.3151722+00:00",
+      "NumProgressed": 2388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1134,7 +1139,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "13",
@@ -1206,7 +1211,7 @@
       "Name": "PROTECTED",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "21",
@@ -1230,7 +1235,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "24",
@@ -1238,7 +1243,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "3",
@@ -1254,7 +1259,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "5",
@@ -1262,7 +1267,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "6",
@@ -1301,13 +1306,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2387,
+      "Progressed": 2388,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-09T04:07:00.9801706+00:00",
+  "LastChanged_Achievements": "2023-05-09T05:06:34.3151719+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-09T04:00:21.8417151+00:00",
-  "LastUpdate_Achievements": "2023-05-09T04:07:00.980197+00:00"
+  "LastUpdate_Ratings": "2023-05-09T05:00:07.6955811+00:00",
+  "LastUpdate_Achievements": "2023-05-09T05:06:34.3151916+00:00"
 }

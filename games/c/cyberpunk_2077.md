@@ -6,21 +6,21 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,163 |
-| Right Back At Ya | 37.00% | ~295,538 |
-| The Lovers | 32.00% | ~255,600 |
-| Stanislavski's Method | 27.00% | ~215,663 |
+| The Fool | 67.00% | ~535,165 |
+| Right Back At Ya | 37.00% | ~295,539 |
+| The Lovers | 32.00% | ~255,601 |
+| Stanislavski's Method | 27.00% | ~215,664 |
 | The Wheel of Fortune | 25.00% | ~199,688 |
-| The Hermit | 22.00% | ~175,725 |
-| True Soldier | 22.00% | ~175,725 |
+| The Hermit | 22.00% | ~175,726 |
+| True Soldier | 22.00% | ~175,726 |
 | Christmas Tree Attack | 21.00% | ~167,738 |
-| The High Priestess | 20.00% | ~159,750 |
-| Legend of The Afterlife | 20.00% | ~159,750 |
+| The High Priestess | 20.00% | ~159,751 |
+| Legend of The Afterlife | 20.00% | ~159,751 |
 | Life of the Road | 19.00% | ~151,763 |
 | Full Body Conversion | 17.00% | ~135,788 |
-| The World | 16.00% | ~127,800 |
+| The World | 16.00% | ~127,801 |
 | Bushido and Chill | 15.00% | ~119,813 |
-| True Warrior | 14.00% | ~111,825 |
+| True Warrior | 14.00% | ~111,826 |
 | To Protect and Serve | 13.00% | ~103,838 |
 | Gun Fu | 13.00% | ~103,838 |
 | Master Crafter | 13.00% | ~103,838 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,988 |
 | Rough Landing | 0.40% | ~3,195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,751 (Ranked 11)  
+Progressed: 798,754 (Ranked 11)  
 Completed: 1,583 (0.20%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 1,583 (0.20%) (Ranked 133)
 | 2023-05-06 | 798,340 | 1,574 |
 | 2023-05-07 | 798,560 | 1,577 |
 | 2023-05-08 | 798,732 | 1,580 |
-| 2023-05-09 | 798,751 | 1,583 |
+| 2023-05-09 | 798,754 | 1,583 |
 ## Awards
 Max (Character Customization): 63,846  (Ranked 9)  
 Sum: 167,148 (Ranked 13)  

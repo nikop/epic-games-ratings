@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
@@ -3596,9 +3596,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 86925,
-  "EOS_Completed": 1816,
-  "EOS_NewPlayers": 690,
+  "EOS_Progressed": 86926,
+  "EOS_Completed": 1817,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5171,6 +5171,11 @@
       "Time": "2023-05-09T04:07:32.7015001+00:00",
       "NumProgressed": 86925,
       "NumCompleted": 1816
+    },
+    {
+      "Time": "2023-05-09T05:07:01.9133523+00:00",
+      "NumProgressed": 86926,
+      "NumCompleted": 1817
     }
   ],
   "TotalAchievements": 489,
@@ -5556,9 +5561,9 @@
       "ID": "objective_completed_110",
       "SetID": "cc37lbc",
       "Name": "Wet Feet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_1100",
@@ -6996,9 +7001,9 @@
       "ID": "objective_completed_393",
       "SetID": "cc37lbc",
       "Name": "Backtracking Through Barovia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_394",
@@ -9093,21 +9098,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53199,
+      "Progressed": 53200,
       "Completed": 2482
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 86925,
-      "Completed": 1816
+      "Progressed": 86926,
+      "Completed": 1817
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-09T04:07:32.7014996+00:00",
+  "LastChanged_Achievements": "2023-05-09T05:07:01.9133521+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-09T03:59:24.5645994+00:00",
-  "LastUpdate_Achievements": "2023-05-09T04:07:32.7043045+00:00"
+  "LastUpdate_Ratings": "2023-05-09T04:59:23.9316201+00:00",
+  "LastUpdate_Achievements": "2023-05-09T05:07:01.9155509+00:00"
 }
