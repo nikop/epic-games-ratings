@@ -6,11 +6,12 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Spells and Swords | 0.40% | ~86 |
 | Captain and Crew | 0.30% | ~64 |
-| Spells and Swords | 0.30% | ~64 |
 | Harvest and Home | 0.20% | ~43 |
 | Poise and Poisons | 0.20% | ~43 |
 | Suns and Soldiers | 0.20% | ~43 |
+| No Harm in Looking | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~21 |
 | Black-shoppe | 0.10% | ~21 |
 | Full House | 0.10% | ~21 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Love | 0.10% | ~21 |
 | For Pride | 0.10% | ~21 |
 | K.O. | 0.10% | ~21 |
-| No Harm in Looking | 0.10% | ~21 |
 | Good Practice | 0.10% | ~21 |
 | Maybe Wax Doesn't Melt | 0.10% | ~21 |
 | A Glimpse of the Future | 0.10% | ~21 |

@@ -2,14 +2,14 @@
   "ID": "2a5eb81d6f384099a5259413ee22baa4",
   "Name": "Fights in Tight Spaces",
   "ProductSlug": "fights-in-tight-spaces",
-  "Ranking_Rating": 256,
+  "Ranking_Rating": 286,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 74,
-  "Rating": 4.67,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 73,
+  "Rating": 4.65,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -128,6 +128,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-09T00:01:29.0647573+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -145,8 +151,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:17.7163905+00:00",
-  "LastChanged": "2023-04-22T20:58:01.1073402+00:00",
+  "LastChanged": "2023-05-09T00:01:29.0647572+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:46.5901719+00:00",
-  "LastUpdate_Ratings": "2023-05-08T23:00:36.2063808+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:05:18.4566911+00:00"
+  "LastUpdate_Ratings": "2023-05-09T00:01:29.0647576+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:06:00.6714962+00:00"
 }

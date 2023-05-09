@@ -17,7 +17,7 @@
 | That's Not What Happened | 0.00% | ~0 |
 | Nothing Can Stop Us! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 248)  
+Progressed: 99 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -33,6 +33,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 85 | 0 |
 | 2023-05-07 | 93 | 0 |
 | 2023-05-08 | 98 | 0 |
+| 2023-05-09 | 99 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

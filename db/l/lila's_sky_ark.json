@@ -4,8 +4,8 @@
   "ProductSlug": "lilas-sky-ark-610f75",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:23.1657314+00:00",
@@ -32,6 +32,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.165731+00:00",
   "LastChanged": "2023-03-31T05:58:23.1657311+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.6689141+00:00",
-  "LastUpdate_Ratings": "2023-05-08T23:01:04.8336838+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:01:57.411013+00:00"
+  "LastUpdate_Ratings": "2023-05-09T00:02:12.8196178+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:03:33.2939228+00:00"
 }

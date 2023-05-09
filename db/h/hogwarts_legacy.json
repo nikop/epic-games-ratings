@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 14,
   "Rating": 4.77,
   "RatingHistory": [
@@ -2076,9 +2076,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 266274,
+  "EOS_Progressed": 266282,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 1185,
+  "EOS_NewPlayers": 1183,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3621,6 +3621,11 @@
       "Time": "2023-05-08T23:01:46.4500741+00:00",
       "NumProgressed": 266274,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2023-05-09T00:03:18.494126+00:00",
+      "NumProgressed": 266282,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 45,
@@ -3720,7 +3725,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "PFA_20",
@@ -3784,7 +3789,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "PFA_28",
@@ -3832,7 +3837,7 @@
       "Name": "Room with a View",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "PFA_33",
@@ -3848,7 +3853,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "PFA_35",
@@ -3880,7 +3885,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "PFA_39",
@@ -3896,7 +3901,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "PFA_40",
@@ -3912,7 +3917,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "PFA_42",
@@ -3928,7 +3933,7 @@
       "Name": "Finishing Touches",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "PFA_44",
@@ -3991,7 +3996,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266274,
+      "Progressed": 266282,
       "Completed": 354
     }
   ],
@@ -3999,8 +4004,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-08T21:58:38.3438548+00:00",
-  "LastChanged_Achievements": "2023-05-08T23:01:46.4500731+00:00",
+  "LastChanged_Achievements": "2023-05-09T00:03:18.4941255+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-08T22:58:33.3112217+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:01:46.4501268+00:00"
+  "LastUpdate_Ratings": "2023-05-08T23:58:38.9500681+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:03:18.4943588+00:00"
 }

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 286)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -233,6 +233,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.50% | ~54 |
 | No Characters | 0.50% | ~54 |
 | Bronze Victory (Carthage 4) | 0.40% | ~44 |
+| Silver Victory (Carthage 4) | 0.40% | ~44 |
 | Avenger | 0.40% | ~44 |
 | If? Then! | 0.40% | ~44 |
 | Queen of Politics | 0.40% | ~44 |
@@ -242,7 +243,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.30% | ~33 |
 | Epic Victory (Carthage 3) | 0.30% | ~33 |
 | Gold Victory (Carthage 4) | 0.30% | ~33 |
-| Silver Victory (Carthage 4) | 0.30% | ~33 |
 | White Death | 0.30% | ~33 |
 | Elephant in Elephantine | 0.30% | ~33 |
 | Shape of Things to Come | 0.30% | ~33 |

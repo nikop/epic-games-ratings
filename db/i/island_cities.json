@@ -322,25 +322,25 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 98,
+      "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_004",
@@ -378,9 +378,9 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_009",
@@ -507,8 +507,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-08T23:06:15.2607236+00:00",
+  "LastChanged_Achievements": "2023-05-09T00:07:03.4628694+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:19.9702608+00:00",
-  "LastUpdate_Ratings": "2023-05-08T22:59:15.922767+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:06:15.2607638+00:00"
+  "LastUpdate_Ratings": "2023-05-08T23:59:31.7556916+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:07:03.4628842+00:00"
 }

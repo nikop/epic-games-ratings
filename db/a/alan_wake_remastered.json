@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.56,
   "NumberOfRatings": 524,
   "RatingHistory": [
@@ -498,9 +498,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46074,
+  "EOS_Progressed": 46078,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1273,6 +1273,11 @@
       "Time": "2023-05-08T22:06:27.1208716+00:00",
       "NumProgressed": 46074,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-09T00:07:04.6764836+00:00",
+      "NumProgressed": 46078,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1284,7 +1289,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8754
+      "UsersEstimate": 8755
     },
     {
       "ID": "02",
@@ -1308,7 +1313,7 @@
       "Name": "Boob Tube",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "05",
@@ -1316,7 +1321,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "06",
@@ -1388,7 +1393,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2765
     },
     {
       "ID": "15",
@@ -1396,7 +1401,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2765
     },
     {
       "ID": "16",
@@ -1484,7 +1489,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2765
     },
     {
       "ID": "27",
@@ -1516,7 +1521,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2765
     },
     {
       "ID": "31",
@@ -1532,7 +1537,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6911
+      "UsersEstimate": 6912
     },
     {
       "ID": "33",
@@ -1548,7 +1553,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2765
     },
     {
       "ID": "35",
@@ -1564,7 +1569,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "37",
@@ -1684,7 +1689,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "52",
@@ -1819,21 +1824,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46074,
+      "Progressed": 46078,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9542,
+      "Progressed": 9546,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-08T23:06:16.2316309+00:00",
+  "LastChanged_Achievements": "2023-05-09T00:07:04.6764832+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-08T22:58:53.2112569+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:06:16.2317028+00:00"
+  "LastUpdate_Ratings": "2023-05-08T23:59:05.3511979+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:07:04.676554+00:00"
 }

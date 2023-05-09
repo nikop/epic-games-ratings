@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 19.00% | ~8,754 |
+| Follow the Light | 19.00% | ~8,755 |
 | Let There Be Light | 16.00% | ~7,372 |
-| Float Like a Butterfly | 15.00% | ~6,911 |
+| Float Like a Butterfly | 15.00% | ~6,912 |
 | Nordic Walking | 13.00% | ~5,990 |
 | Bright Falls' Finest | 12.00% | ~5,529 |
-| Under a Thin Layer of Skin | 11.00% | ~5,068 |
+| Under a Thin Layer of Skin | 11.00% | ~5,069 |
 | Park Ranger | 9.00% | ~4,147 |
 | Back! Back, I Say! | 9.00% | ~4,147 |
 | Finders Keepers | 9.00% | ~4,147 |
@@ -21,7 +21,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,686 |
 | Missed by a Mile | 8.00% | ~3,686 |
 | Damn Good Cup of Coffee | 8.00% | ~3,686 |
-| A Friend in Need | 8.00% | ~763 |
+| A Friend in Need | 8.00% | ~764 |
 | Heavy Metal | 7.00% | ~3,225 |
 | Iron Horse | 7.00% | ~3,225 |
 | Perchance to Dream | 7.00% | ~3,225 |
@@ -29,11 +29,11 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 7.00% | ~3,225 |
 | Collateral Carnage | 7.00% | ~3,225 |
 | Come One, Come All | 7.00% | ~3,225 |
-| Gatekeeper | 6.00% | ~2,764 |
-| The Lady of the Light | 6.00% | ~2,764 |
-| Thunder and Lightning | 6.00% | ~2,764 |
-| Two For the Price of One | 6.00% | ~2,764 |
-| Energized! | 6.00% | ~2,764 |
+| Gatekeeper | 6.00% | ~2,765 |
+| The Lady of the Light | 6.00% | ~2,765 |
+| Thunder and Lightning | 6.00% | ~2,765 |
+| Two For the Price of One | 6.00% | ~2,765 |
+| Energized! | 6.00% | ~2,765 |
 | A Friend Indeed | 6.00% | ~573 |
 | Tornado Wrangler | 5.00% | ~2,304 |
 | What Light Through Yonder Window | 5.00% | ~2,304 |
@@ -47,8 +47,8 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 3.00% | ~1,382 |
 | Kill Your Darlings | 3.00% | ~286 |
 | Heartbreaker | 3.00% | ~286 |
-| Boob Tube | 2.00% | ~921 |
-| Carny | 2.00% | ~921 |
+| Boob Tube | 2.00% | ~922 |
+| Carny | 2.00% | ~922 |
 | Iron Will | 2.00% | ~191 |
 | Medical Opinions | 1.00% | ~461 |
 | Taken Season | 1.00% | ~461 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,074 (Ranked 74)  
+Progressed: 46,078 (Ranked 74)  
 Completed: 44 (0.10%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 44 (0.10%) (Ranked 153)
 | 2023-05-06 | 46,035 | 44 |
 | 2023-05-07 | 46,058 | 44 |
 | 2023-05-08 | 46,074 | 44 |
+| 2023-05-09 | 46,078 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

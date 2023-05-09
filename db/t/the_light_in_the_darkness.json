@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1184,
+  "EOS_Progressed": 1185,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -773,6 +773,11 @@
       "Time": "2023-05-08T19:07:44.0140959+00:00",
       "NumProgressed": 1184,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-09T00:07:28.3054485+00:00",
+      "NumProgressed": 1185,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 12,
@@ -879,7 +884,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1184,
+      "Progressed": 1185,
       "Completed": 91
     }
   ],
@@ -887,8 +892,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-08T23:06:35.1341128+00:00",
+  "LastChanged_Achievements": "2023-05-09T00:07:28.3054483+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-08T23:00:34.9699966+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:06:35.1341301+00:00"
+  "LastUpdate_Ratings": "2023-05-09T00:01:27.2407248+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:07:28.3054577+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "star-wars-jedi-survivor",
   "Ranking_Rating": 654,
   "Ranking_Popularity": 224,
-  "Ranking_PopularitySum": 324,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.41,
   "RatingHistory": [
     {
@@ -206,6 +206,6 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "LastChanged": "2023-05-08T12:04:34.9885127+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:34.3115122+00:00",
-  "LastUpdate_Ratings": "2023-05-08T23:01:21.0986908+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:05:47.4032113+00:00"
+  "LastUpdate_Ratings": "2023-05-09T00:02:38.6993665+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:06:40.5945565+00:00"
 }

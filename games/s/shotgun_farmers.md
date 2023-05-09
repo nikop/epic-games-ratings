@@ -14,9 +14,9 @@
 | 15K | 22.00% | ~6 |
 | Skin Of Your Teeth | 19.00% | ~5 |
 | Pork Chop Express | 19.00% | ~5 |
+| Fresh Pancake | 15.00% | ~4 |
 | Graveside Survivor | 15.00% | ~4 |
 | Eggtraordinary | 15.00% | ~4 |
-| Fresh Pancake | 11.00% | ~3 |
 | Getting Started | 11.00% | ~3 |
 | Forestside Survivor | 11.00% | ~3 |
 | Quit Horsin' Around | 11.00% | ~3 |

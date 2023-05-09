@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 270)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,8 +14,8 @@ Rating: 4.66 (Ranked 271)
 | Chauffeur | 12.00% | ~731 |
 | Iron-y | 9.00% | ~548 |
 | Salutations My Little Friend | 9.00% | ~548 |
-| Gun for Hire | 7.00% | ~426 |
-| Mischief Managed | 7.00% | ~426 |
+| Gun for Hire | 7.00% | ~427 |
+| Mischief Managed | 7.00% | ~427 |
 | Vice City Mogul | 6.00% | ~366 |
 | Bloodstained Hands | 6.00% | ~366 |
 | Catch Me if You Can | 5.00% | ~305 |
@@ -40,7 +40,7 @@ Rating: 4.66 (Ranked 271)
 | Keepie-Uppy Okie Dokie | 0.60% | ~37 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,092 (Ranked 115)  
+Progressed: 6,093 (Ranked 115)  
 Completed: 20 (0.33%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 20 (0.33%) (Ranked 113)
 | 2023-05-06 | 6,063 | 20 |
 | 2023-05-07 | 6,082 | 20 |
 | 2023-05-08 | 6,092 | 20 |
+| 2023-05-09 | 6,093 | 20 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 443)  
 Sum: 30 (Ranked 457)  

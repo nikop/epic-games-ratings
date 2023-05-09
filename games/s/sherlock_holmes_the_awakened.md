@@ -12,9 +12,9 @@
 | History Check | 54.00% | ~78 |
 | The New World | 54.00% | ~78 |
 | Fond Memories | 53.00% | ~76 |
-| Open Sesame | 51.00% | ~73 |
-| Sticky Fingers | 51.00% | ~73 |
-| Knives Out | 51.00% | ~73 |
+| Open Sesame | 52.00% | ~75 |
+| Sticky Fingers | 52.00% | ~75 |
+| Knives Out | 52.00% | ~75 |
 | Land, Ho! | 51.00% | ~73 |
 | Back In The Saddle | 50.00% | ~72 |
 | Lock, Stock, And Barrel | 49.00% | ~71 |
@@ -29,12 +29,12 @@
 | Let Me Be Frank | 37.00% | ~53 |
 | No Stone Unturned | 35.00% | ~50 |
 | Curiosity Killed The Cat | 25.00% | ~36 |
+| Read It And Weep | 23.00% | ~33 |
 | Big Breakthrough | 22.00% | ~32 |
-| Read It And Weep | 22.00% | ~32 |
-| Reawakened | 10.00% | ~14 |
+| Reawakened | 11.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 144 (Ranked 239)  
-Completed: 9 (6.25%) (Ranked 23)  
+Completed: 10 (6.94%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,6 +52,7 @@ Completed: 9 (6.25%) (Ranked 23)
 | 2023-05-06 | 136 | 9 |
 | 2023-05-07 | 138 | 9 |
 | 2023-05-08 | 144 | 9 |
+| 2023-05-09 | 144 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-primal",
   "Ranking_Rating": 178,
   "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.71,
   "NumberOfRatings": 463,
   "RatingHistory": [
@@ -645,6 +645,6 @@
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
   "LastChanged": "2023-05-08T16:00:05.1006503+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:56.853458+00:00",
-  "LastUpdate_Ratings": "2023-05-08T22:59:50.0697976+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:04:03.7768542+00:00"
+  "LastUpdate_Ratings": "2023-05-09T00:00:23.0575855+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:04:27.129268+00:00"
 }

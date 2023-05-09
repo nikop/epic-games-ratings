@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,938 |
-| That's a Grand Army | 8.00% | ~2,611 |
-| That is mine! | 8.00% | ~2,611 |
-| Victorious! | 8.00% | ~2,611 |
-| Brothers in Arms | 6.00% | ~1,958 |
-| That's a Grand Navy | 6.00% | ~1,958 |
-| Seriously?! | 6.00% | ~1,958 |
-| For the Glory | 5.00% | ~1,632 |
+| Until death do us apart | 9.00% | ~2,939 |
+| That's a Grand Army | 8.00% | ~2,612 |
+| That is mine! | 8.00% | ~2,612 |
+| Victorious! | 8.00% | ~2,612 |
+| Brothers in Arms | 6.00% | ~1,959 |
+| That's a Grand Navy | 6.00% | ~1,959 |
+| Seriously?! | 6.00% | ~1,959 |
+| For the Glory | 5.00% | ~1,633 |
 | Cold War | 4.00% | ~1,306 |
 | True Catholic | 4.00% | ~1,306 |
-| Defender of the Faith | 3.00% | ~979 |
-| It's all about the money | 3.00% | ~979 |
-| Respected | 3.00% | ~979 |
+| Defender of the Faith | 3.00% | ~980 |
+| It's all about the money | 3.00% | ~980 |
+| Respected | 3.00% | ~980 |
 | Blockader | 2.00% | ~653 |
 | Combined Arms | 2.00% | ~653 |
 | Double the Love | 2.00% | ~653 |
@@ -29,18 +29,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~653 |
 | Total Control | 2.00% | ~653 |
 | Truly Divine Ruler | 2.00% | ~653 |
-| Agressive Expander | 1.00% | ~326 |
-| All That's Thine Shall Be Mine | 1.00% | ~326 |
-| Azur semé de lis or | 1.00% | ~326 |
-| Bright Spark | 1.00% | ~326 |
-| City of Cities | 1.00% | ~326 |
-| Factionalism | 1.00% | ~326 |
-| A Golden Empire | 1.00% | ~326 |
-| My armies are invincible! | 1.00% | ~326 |
+| Agressive Expander | 1.00% | ~327 |
+| All That's Thine Shall Be Mine | 1.00% | ~327 |
+| Azur semé de lis or | 1.00% | ~327 |
+| Bright Spark | 1.00% | ~327 |
+| City of Cities | 1.00% | ~327 |
+| Factionalism | 1.00% | ~327 |
+| A Golden Empire | 1.00% | ~327 |
+| My armies are invincible! | 1.00% | ~327 |
 | Isn't this the way to India? | 0.80% | ~261 |
 | The Five Colonies | 0.80% | ~261 |
-| The Emperors new clothes | 0.70% | ~228 |
-| Market Control | 0.70% | ~228 |
+| The Emperors new clothes | 0.70% | ~229 |
+| Market Control | 0.70% | ~229 |
 | Down Under | 0.60% | ~196 |
 | This navy can take it all | 0.60% | ~196 |
 | At every continent | 0.50% | ~163 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,639 (Ranked 80)  
+Progressed: 32,656 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,6 +380,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
+| 2023-05-09 | 32,656 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
 Sum: 42,973 (Ranked 27)  

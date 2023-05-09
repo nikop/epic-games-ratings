@@ -18,15 +18,15 @@
 | RELEASE THE KRAKEN | 7.00% | ~167 |
 | THE EYE OF THE HUNTER | 7.00% | ~167 |
 | ACE DEFENDER | 6.00% | ~143 |
+| ACE BRAWLER | 5.00% | ~119 |
 | LEGENDARY HERO | 5.00% | ~119 |
 | TRAINING HARD | 4.00% | ~95 |
-| ACE BRAWLER | 4.00% | ~95 |
 | ACE TRICKSTER | 3.00% | ~72 |
 | EXPERIENCED CREW | 2.00% | ~48 |
 | FRIENDLY | 2.00% | ~48 |
 | MASTER | 2.00% | ~48 |
 | BE OUR GUEST | 1.00% | ~24 |
-| FRAMED! | 0.70% | ~17 |
+| FRAMED! | 0.80% | ~19 |
 | PERFECTLY POISED | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,384 (Ranked 137)  

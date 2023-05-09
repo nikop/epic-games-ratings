@@ -6,15 +6,15 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,493 |
+| First Step | 69.00% | ~3,494 |
 | Leader | 60.00% | ~3,038 |
-| Explorer | 53.00% | ~2,683 |
-| Healer | 52.00% | ~2,633 |
-| Aspiring Inventor | 45.00% | ~2,278 |
+| Explorer | 53.00% | ~2,684 |
+| Healer | 53.00% | ~2,684 |
+| Aspiring Inventor | 45.00% | ~2,279 |
 | Adventurer | 41.00% | ~2,076 |
 | Famous Healer | 38.00% | ~1,924 |
 | Local Leader | 35.00% | ~1,772 |
-| New Opportunities | 34.00% | ~1,721 |
+| New Opportunities | 34.00% | ~1,722 |
 | Famous Explorer | 33.00% | ~1,671 |
 | Energized | 33.00% | ~1,671 |
 | The Long Haul | 33.00% | ~1,671 |
@@ -25,7 +25,7 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 27.00% | ~1,367 |
 | Finders, Keepers | 25.00% | ~1,266 |
 | Top Notch | 24.00% | ~1,215 |
-| Ice Lakes | 23.00% | ~1,164 |
+| Ice Lakes | 23.00% | ~1,165 |
 | Great Leader | 22.00% | ~1,114 |
 | Mentor | 22.00% | ~1,114 |
 | Merchant | 21.00% | ~1,063 |
@@ -34,8 +34,8 @@ Number of Ratings: 836  (23.09.2022)
 | Rocket Surgeon | 19.00% | ~962 |
 | Friendly | 16.00% | ~810 |
 | Big Game Hunter | 16.00% | ~810 |
-| Around the World | 15.00% | ~759 |
-| Spreading Influence | 15.00% | ~759 |
+| Around the World | 15.00% | ~760 |
+| Spreading Influence | 15.00% | ~760 |
 | Bookworm | 14.00% | ~709 |
 | Famous Adventurer | 13.00% | ~658 |
 | Prepared for Anything | 13.00% | ~658 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,063 (Ranked 120)  
+Progressed: 5,064 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 4,969 | 0 |
 | 2023-05-07 | 5,014 | 0 |
 | 2023-05-08 | 5,063 | 0 |
+| 2023-05-09 | 5,064 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 321)  
 Sum: 651 (Ranked 267)  

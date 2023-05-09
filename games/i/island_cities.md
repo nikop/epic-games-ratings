@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 98.00% | ~63 |
-| A tiny town | 80.00% | ~51 |
-| Buildings, roads, cars, ...and people | 66.00% | ~42 |
+| Welcome! | 100.00% | ~64 |
+| A tiny town | 81.00% | ~52 |
+| Buildings, roads, cars, ...and people | 67.00% | ~43 |
 | Great view from the beach and from the hill | 56.00% | ~36 |
 | Bridges to come and go | 52.00% | ~33 |
 | Found an oasis | 39.00% | ~25 |
 | Burger or pizza? | 36.00% | ~23 |
-| Passion for sports | 31.00% | ~20 |
+| Passion for sports | 33.00% | ~21 |
 | Who loves trains? | 28.00% | ~18 |
 | Easy and steady climb | 28.00% | ~18 |
 | At the heart of the city | 27.00% | ~17 |

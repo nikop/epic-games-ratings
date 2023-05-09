@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Rating": 4.57,
   "NumberOfRatings": 780,
   "RatingHistory": [
@@ -824,9 +824,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 655846,
+  "EOS_Progressed": 655847,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2199,6 +2199,11 @@
       "Time": "2023-05-08T22:06:23.4687409+00:00",
       "NumProgressed": 655846,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-09T00:07:00.3301015+00:00",
+      "NumProgressed": 655847,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2210,7 +2215,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472209
+      "UsersEstimate": 472210
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2354,7 +2359,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91818
+      "UsersEstimate": 91819
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -2593,15 +2598,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655846,
+      "Progressed": 655847,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-08T23:06:12.7362515+00:00",
+  "LastChanged_Achievements": "2023-05-09T00:07:00.330101+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.98479+00:00",
-  "LastUpdate_Ratings": "2023-05-08T22:58:50.006605+00:00",
-  "LastUpdate_Achievements": "2023-05-08T23:06:12.7363046+00:00"
+  "LastUpdate_Ratings": "2023-05-08T23:59:01.2637582+00:00",
+  "LastUpdate_Achievements": "2023-05-09T00:07:00.3301391+00:00"
 }
