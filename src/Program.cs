@@ -178,8 +178,8 @@ var nameTable = new MarkdownTable<GameDbItem>()
 
 var nameDateTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
-    .AddColumn("Release Date", x => x.Store.ReleaseDate?.ToString() ?? "")
-    .AddColumn("PC Release Date", x => x.Store.PcReleaseDate?.ToString() ?? "");
+    .AddColumn("Release Date", x => MarkdownHelpers.FormatDate(x.Store.ReleaseDate))
+    .AddColumn("PC Release Date", x => MarkdownHelpers.FormatDate(x.Store.ReleaseDate));
 
 var ratingTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating))

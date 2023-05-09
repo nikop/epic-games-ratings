@@ -62,6 +62,14 @@ namespace EpicRatingsUpdater.Markdown
             return votes.Value.ToString("F2", usCulture);
         }
 
+        public static string FormatDate(DateTimeOffset? date)
+        {
+            if (date == null)
+                return "-";
+
+            return date.Value.ToString("yyyy-MM-dd");
+        }
+
         static public void RankItems<TItem, TRanking>(
             IEnumerable<TItem> rankedItems,
             Func<TItem, TRanking> ratingRead,
