@@ -130,10 +130,6 @@ foreach (var file in Directory.GetFiles("games", "*.md", SearchOption.AllDirecto
 {
     File.Delete(file);
 }
-foreach (var file in Directory.GetFiles("experimental", "*.md", SearchOption.AllDirectories))
-{
-    File.Delete(file);
-}
 
 try
 {
@@ -165,6 +161,11 @@ foreach (var item in items)
 
 await gitCmd.WithArguments(new[] { "add", "." }).WithValidation(CommandResultValidation.None).ExecuteAsync();
 var res = await gitCmd.WithArguments(new[] { "commit", "-m", "Update DB" }).WithValidation(CommandResultValidation.None).ExecuteBufferedAsync();
+
+foreach (var file in Directory.GetFiles("experimental", "*.md", SearchOption.AllDirectories))
+{
+    File.Delete(file);
+}
 
 Console.Error.WriteLine(res.StandardError);
 Console.WriteLine(res.StandardOutput);
