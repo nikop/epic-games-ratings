@@ -4,7 +4,7 @@
   "ProductSlug": "elegies-aya-17c3f1",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -138,8 +138,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:08:07.8542741+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:31.6536585+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:08.2637725+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:01:41.6781323+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:08:07.8542867+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:59:55.5059917+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:31.6536666+00:00"
 }

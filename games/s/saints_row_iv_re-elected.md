@@ -5,50 +5,50 @@ Rating: 4.40 (Ranked 668)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 67.00% | ~103,193 |
-| Destroyer-In-Chief | 61.00% | ~93,952 |
-| There Is No Pancakes | 57.00% | ~87,791 |
-| First of Many | 45.00% | ~69,309 |
-| Woah. | 40.00% | ~61,608 |
-| Don't Look Down | 32.00% | ~49,286 |
-| Don't Panic | 31.00% | ~47,746 |
-| Ooo A Piece of Candy! | 25.00% | ~38,505 |
-| Ghost in the Machine | 20.00% | ~30,804 |
-| All Too Easy | 17.00% | ~26,183 |
-| Didn't Need to See Him Naked | 15.00% | ~23,103 |
-| Indomitable | 11.00% | ~16,942 |
-| Bow to the Boss! | 10.00% | ~15,402 |
-| Friend of the Raptors | 10.00% | ~15,402 |
-| Blast from the Past | 9.00% | ~13,862 |
-| About Time! | 8.00% | ~12,322 |
-| Actor-Turned-Politician | 8.00% | ~12,322 |
-| Maximum Stopping Power | 8.00% | ~12,322 |
-| Betrayed | 7.00% | ~10,781 |
-| Poodle Skirt | 7.00% | ~10,781 |
-| You Chose... Poorly | 7.00% | ~10,781 |
-| Double Team | 6.00% | ~9,241 |
-| Imperator | 6.00% | ~9,241 |
-| Keymaster | 6.00% | ~9,241 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~7,701 |
-| ...A Saint Gets a Gun | 4.00% | ~6,161 |
-| Half Way Home | 4.00% | ~6,161 |
-| How It Should Be | 4.00% | ~6,161 |
-| Machine Man | 4.00% | ~6,161 |
-| The Full Kinzie | 4.00% | ~6,161 |
-| The Two Shaundis | 4.00% | ~6,161 |
+| Zero Saints Thirty | 67.00% | ~103,209 |
+| Destroyer-In-Chief | 61.00% | ~93,967 |
+| There Is No Pancakes | 57.00% | ~87,805 |
+| First of Many | 45.00% | ~69,320 |
+| Woah. | 40.00% | ~61,618 |
+| Don't Look Down | 32.00% | ~49,294 |
+| Don't Panic | 31.00% | ~47,754 |
+| Ooo A Piece of Candy! | 25.00% | ~38,511 |
+| Ghost in the Machine | 20.00% | ~30,809 |
+| All Too Easy | 17.00% | ~26,187 |
+| Didn't Need to See Him Naked | 15.00% | ~23,107 |
+| Indomitable | 11.00% | ~16,945 |
+| Bow to the Boss! | 10.00% | ~15,404 |
+| Friend of the Raptors | 10.00% | ~15,404 |
+| Blast from the Past | 9.00% | ~13,864 |
+| About Time! | 8.00% | ~12,324 |
+| Actor-Turned-Politician | 8.00% | ~12,324 |
+| Maximum Stopping Power | 8.00% | ~12,324 |
+| Betrayed | 7.00% | ~10,783 |
+| Poodle Skirt | 7.00% | ~10,783 |
+| You Chose... Poorly | 7.00% | ~10,783 |
+| Double Team | 6.00% | ~9,243 |
+| Imperator | 6.00% | ~9,243 |
+| Keymaster | 6.00% | ~9,243 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~7,702 |
+| ...A Saint Gets a Gun | 4.00% | ~6,162 |
+| Half Way Home | 4.00% | ~6,162 |
+| How It Should Be | 4.00% | ~6,162 |
+| Machine Man | 4.00% | ~6,162 |
+| The Full Kinzie | 4.00% | ~6,162 |
+| The Two Shaundis | 4.00% | ~6,162 |
 | And I Ran... | 3.00% | ~4,621 |
 | Chill Out | 3.00% | ~4,621 |
 | Elementary | 3.00% | ~4,621 |
 | On Her Saint's Secret Service | 3.00% | ~4,621 |
 | Paranormal Bromance | 3.00% | ~4,621 |
 | Saints & Sensibility | 3.00% | ~4,621 |
-| Benjamin [CENSORED] King | 2.00% | ~3,080 |
-| Better This Way | 2.00% | ~3,080 |
-| Bouncin' with an Old Friend | 2.00% | ~3,080 |
-| Our Gift to You | 2.00% | ~3,080 |
-| The Face of the Saints | 2.00% | ~3,080 |
-| The Twin Saints | 2.00% | ~3,080 |
-| Where's My Cape? | 2.00% | ~3,080 |
+| Benjamin [CENSORED] King | 2.00% | ~3,081 |
+| Better This Way | 2.00% | ~3,081 |
+| Bouncin' with an Old Friend | 2.00% | ~3,081 |
+| Our Gift to You | 2.00% | ~3,081 |
+| The Face of the Saints | 2.00% | ~3,081 |
+| The Twin Saints | 2.00% | ~3,081 |
+| Where's My Cape? | 2.00% | ~3,081 |
 | A Real Cluster.... | 1.00% | ~1,540 |
 | A Very Genki Holiday | 1.00% | ~1,540 |
 | Here! Catch! | 1.00% | ~1,540 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 668)
 | Super Power Team Up! | 0.10% | ~154 |
 | Ultimate Hot Potato | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,019 (Ranked 53)  
+Progressed: 154,044 (Ranked 53)  
 Completed: 7 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 7 (0.00%) (Ranked 194)
 | 2023-05-06 | 151,689 | 6 |
 | 2023-05-07 | 152,983 | 7 |
 | 2023-05-08 | 153,926 | 7 |
-| 2023-05-09 | 154,019 | 7 |
+| 2023-05-09 | 154,044 | 7 |
 ## Awards
 Max (Great Boss Battles): 395  (Ranked 200)  
 Sum: 395 (Ranked 303)  

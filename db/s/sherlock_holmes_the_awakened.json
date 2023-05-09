@@ -192,9 +192,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "MQ01_2",
@@ -232,17 +232,17 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "MQ03_2",
@@ -376,9 +376,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "MQ08_1",
@@ -425,8 +425,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:07:55.2096291+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:21.1889207+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-09T01:59:36.9525302+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:07:55.2096518+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:58:19.7513701+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:21.1889427+00:00"
 }

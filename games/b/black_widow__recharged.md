@@ -1,7 +1,7 @@
 # Black Widow: Recharged
 [Store](https://store.epicgames.com/en-US/p/black-widow-recharged)  
 [View Rawdata](../../db/b/black_widow__recharged.json)  
-Rating: 4.25 (Ranked 778)  
+Rating: 4.25 (Ranked 779)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,14 +14,14 @@ Number of Ratings: 34  (23.09.2022)
 | The Fall | 18.00% | ~2,504 |
 | Everyone's Born to Die | 17.00% | ~2,365 |
 | Wild West Hero | 14.00% | ~1,948 |
-| In My Own Time | 13.00% | ~1,808 |
+| In My Own Time | 13.00% | ~1,809 |
 | Caught in a Trap | 12.00% | ~1,669 |
 | In For The Kill | 12.00% | ~1,669 |
 | Hello My Old Friend | 6.00% | ~835 |
-| After All | 0.80% | ~111 |
+| After All | 0.90% | ~125 |
 | Time of Our Life | 0.30% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,911 (Ranked 99)  
+Progressed: 13,912 (Ranked 99)  
 Completed: 42 (0.30%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,7 +40,7 @@ Completed: 42 (0.30%) (Ranked 121)
 | 2023-05-06 | 13,826 | 42 |
 | 2023-05-07 | 13,867 | 42 |
 | 2023-05-08 | 13,905 | 42 |
-| 2023-05-09 | 13,911 | 42 |
+| 2023-05-09 | 13,912 | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

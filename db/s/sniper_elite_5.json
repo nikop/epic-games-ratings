@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.44,
   "RatingHistory": [
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -356,6 +356,11 @@
       "Time": "2023-05-09T02:07:50.9629692+00:00",
       "NumProgressed": 692,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-09T03:06:17.6379865+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -431,7 +436,7 @@
       "Name": "Organ Grinder",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -447,7 +452,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -503,7 +508,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -607,7 +612,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -759,7 +764,7 @@
       "Name": "Target America",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -775,7 +780,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -839,7 +844,7 @@
       "Name": "Operation Foxley",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -910,13 +915,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 2
     }
   ],
@@ -924,8 +929,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-05T14:59:50.8848377+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:07:50.9629668+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:17.637986+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:03:30.0861042+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:07:50.963085+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:01:19.0525952+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:17.6380557+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 2571,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 72,
   "RatingHistory": [
     {
@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3462,
+  "EOS_Progressed": 3463,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.84,
   "EosHistory": [
@@ -43,6 +43,11 @@
       "Time": "2023-04-29T18:00:22.9672522+00:00",
       "NumProgressed": 3462,
       "NumCompleted": -29
+    },
+    {
+      "Time": "2023-05-09T03:06:12.1021794+00:00",
+      "NumProgressed": 3463,
+      "NumCompleted": -29
     }
   ],
   "TotalAchievements": 35,
@@ -54,7 +59,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "10",
@@ -134,7 +139,7 @@
       "Name": "Emperor\u0027s Hubris",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "2",
@@ -182,7 +187,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "25",
@@ -333,7 +338,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3462,
+      "Progressed": 3463,
       "Completed": -29
     }
   ],
@@ -341,8 +346,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:07:44.3731818+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:12.102179+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:38.3634308+00:00",
-  "LastUpdate_Ratings": "2023-05-09T01:59:36.3033362+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:07:44.3732273+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:58:19.2478262+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:12.102206+00:00"
 }

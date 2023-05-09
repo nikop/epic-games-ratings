@@ -18,9 +18,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -593,6 +593,11 @@
       "Time": "2023-05-08T20:08:03.9157071+00:00",
       "NumProgressed": 153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T03:06:58.1547902+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -628,7 +633,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achBett",
@@ -666,9 +671,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "achCity",
@@ -690,7 +695,7 @@
       "ID": "achCoinThree",
       "SetID": "72gjli4",
       "Name": "Seeker Three \u2714",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -698,7 +703,7 @@
       "ID": "achCoinTwo",
       "SetID": "72gjli4",
       "Name": "Seeker Two \u2714",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -722,7 +727,7 @@
       "ID": "achCrow",
       "SetID": "72gjli4",
       "Name": "Exterminate pests \u2714",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -762,9 +767,9 @@
       "ID": "achExplosion",
       "SetID": "72gjli4",
       "Name": "Survival \u2714",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achFood",
@@ -804,7 +809,7 @@
       "Name": "Fright \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achLizun",
@@ -898,7 +903,7 @@
       "ID": "achRankThree",
       "SetID": "72gjli4",
       "Name": "Rank A\u002B \u2714",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 85,
       "UsersEstimate": 1
     },
@@ -930,17 +935,17 @@
       "ID": "achSeif",
       "SetID": "72gjli4",
       "Name": "Master of Unlocking \u2714",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achShahmat",
       "SetID": "72gjli4",
       "Name": "Chess \u2714",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achSpped",
@@ -954,9 +959,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "achVip",
@@ -1003,7 +1008,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
@@ -1011,8 +1016,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:08:39.4972803+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:58.1547897+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:03:11.8107923+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:08:39.4973723+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:01:05.2528388+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:58.1548308+00:00"
 }

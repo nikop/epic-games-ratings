@@ -60,9 +60,9 @@ Completed: 47 (0.37%) (Ranked 107)
 | 2023-05-08 | 12,549 | 47 |
 | 2023-05-09 | 12,550 | 47 |
 ## Awards
-Max (Amazing Storytelling): 46  (Ranked 396)  
+Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 245 (Ranked 341)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 46 |

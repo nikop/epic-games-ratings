@@ -6,32 +6,32 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 79.00% | ~3,381 |
+| Longrunner | 79.00% | ~3,382 |
 | Sword Runner | 62.00% | ~2,654 |
-| Wallrunner | 58.00% | ~2,482 |
+| Wallrunner | 58.00% | ~2,483 |
 | Running out of breath | 56.00% | ~2,397 |
 | Homerunner | 47.00% | ~2,012 |
 | Out of order | 47.00% | ~2,012 |
 | I call it luck | 46.00% | ~1,969 |
-| Where are my Keys? | 44.00% | ~1,883 |
-| Back to hell | 39.00% | ~1,669 |
-| Perfection | 34.00% | ~1,455 |
+| Where are my Keys? | 44.00% | ~1,884 |
+| Back to hell | 39.00% | ~1,670 |
+| Perfection | 34.00% | ~1,456 |
 | Sword to a gunfight | 32.00% | ~1,370 |
 | Why not both | 32.00% | ~1,370 |
 | Artificial selection | 30.00% | ~1,284 |
 | Control freak | 30.00% | ~1,284 |
 | Running Wild | 30.00% | ~1,284 |
 | Upgrades not mandatory | 30.00% | ~1,284 |
-| Finish line | 28.00% | ~1,198 |
+| Finish line | 28.00% | ~1,199 |
 | Unstoppable force | 24.00% | ~1,027 |
-| Wave of mutilation | 23.00% | ~984 |
+| Wave of mutilation | 23.00% | ~985 |
 | Can't Run Can't Hide | 20.00% | ~856 |
 | R is for Running | 19.00% | ~813 |
 | Dead in the air | 17.00% | ~728 |
 | Improvise, adapt, overrun | 15.00% | ~642 |
 | Pre-empative strike | 15.00% | ~642 |
 | More than human | 14.00% | ~599 |
-| Strike | 13.00% | ~556 |
+| Strike | 13.00% | ~557 |
 | Triple A | 10.00% | ~428 |
 | Fine addition | 8.00% | ~342 |
 | One Of Those Days | 7.00% | ~300 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~21 |
 | Up Close And Personal | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,280 (Ranked 125)  
+Progressed: 4,281 (Ranked 125)  
 Completed: 21 (0.49%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 21 (0.49%) (Ranked 101)
 | 2023-05-06 | 4,083 | 20 |
 | 2023-05-07 | 4,199 | 21 |
 | 2023-05-08 | 4,272 | 21 |
-| 2023-05-09 | 4,280 | 21 |
+| 2023-05-09 | 4,281 | 21 |
 ## Awards
 Max (Great Boss Battles): 455  (Ranked 188)  
 Sum: 587 (Ranked 280)  

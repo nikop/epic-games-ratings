@@ -80,7 +80,7 @@
 | 78 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 79 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 80 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 81 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
+| 81 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
 | 82 | [Sable](games/s/sable.md) | 0.92% |
 | 83 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 83 | [Hades](games/h/hades.md) | 0.89% |

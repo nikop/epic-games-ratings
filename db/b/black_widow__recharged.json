@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 99,
@@ -126,9 +126,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13911,
+  "EOS_Progressed": 13912,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1366,6 +1366,11 @@
       "Time": "2023-05-09T02:08:35.5182832+00:00",
       "NumProgressed": 13911,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-09T03:06:54.8787661+00:00",
+      "NumProgressed": 13912,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 14,
@@ -1383,9 +1388,9 @@
       "ID": "ACH_AFTER_ALL",
       "SetID": "1blkama",
       "Name": "After All",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 111
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_COUGHT_IN_A_TRAP",
@@ -1449,7 +1454,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -1488,15 +1493,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13911,
+      "Progressed": 13912,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:08:35.5182825+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:54.8787656+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:28.2137622+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:03:21.5980524+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:08:35.5183143+00:00"
+  "LastUpdate_Ratings": "2023-05-09T03:01:12.087423+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:54.8787844+00:00"
 }

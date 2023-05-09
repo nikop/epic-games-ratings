@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 7,
   "RatingHistory": [
     {
@@ -711,9 +711,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "13",
@@ -735,9 +735,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "16",
@@ -759,9 +759,9 @@
       "ID": "18",
       "SetID": "d0g98p",
       "Name": "Surprise!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 214
     },
     {
       "ID": "19",
@@ -807,9 +807,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "24",
@@ -823,9 +823,9 @@
       "ID": "25",
       "SetID": "d0g98p",
       "Name": "Trick Question!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "26",
@@ -863,9 +863,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 313
     },
     {
       "ID": "30",
@@ -927,9 +927,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "38",
@@ -959,9 +959,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "41",
@@ -983,9 +983,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 214
     },
     {
       "ID": "44",
@@ -1071,9 +1071,9 @@
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 266
     },
     {
       "ID": "9",
@@ -1096,8 +1096,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:07:48.7800052+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:15.6992237+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-09T01:59:52.1044134+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:07:48.7800857+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:58:33.0261385+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:15.6992656+00:00"
 }

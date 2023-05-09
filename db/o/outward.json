@@ -476,9 +476,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2339,
+  "EOS_Progressed": 2340,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -796,6 +796,11 @@
       "Time": "2023-05-09T02:08:03.5769384+00:00",
       "NumProgressed": 2339,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T03:06:28.0266749+00:00",
+      "NumProgressed": 2340,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -869,9 +874,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 725
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -999,7 +1004,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1127,7 +1132,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1142,15 +1147,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2339,
+      "Progressed": 2340,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:08:03.5769377+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:28.0266744+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:02.1241057+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:00:07.4979347+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:08:03.5769742+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:58:43.1945888+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:28.0267091+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~481 |
+| Diligence as a goal | 4.00% | ~482 |
 | Project Arena | 3.00% | ~361 |
 | Bloody Sport | 1.00% | ~120 |
 | The best strikes are the ones we avoid | 0.90% | ~108 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,735 (Ranked 15)  
+Progressed: 702,737 (Ranked 15)  
 Completed: 12,716 (1.81%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,16 +76,16 @@ Completed: 12,716 (1.81%) (Ranked 60)
 | 2023-05-06 | 702,653 | 12,709 |
 | 2023-05-07 | 702,693 | 12,713 |
 | 2023-05-08 | 702,730 | 12,716 |
-| 2023-05-09 | 702,735 | 12,716 |
+| 2023-05-09 | 702,737 | 12,716 |
 ## Awards
 Max (Great Boss Battles): 6,044  (Ranked 53)  
-Sum: 10,248 (Ranked 77)  
+Sum: 10,251 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,044 |
 | This game has Diverse Characters | 503 |
-| This game has Challenging Combat | 500 |
+| This game has Challenging Combat | 501 |
 | This game has Quickly Understood Controls | 496 |
 | This game is Extremely Fun | 491 |
 | This game has Amazing Storytelling | 484 |
@@ -93,7 +93,7 @@ Diff (max vs sum): -24
 | This game has Amazing Characters | 467 |
 | This game has Unique Visuals | 449 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 342 |
+| This game has a Creative Community | 344 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -211,4 +211,4 @@ Diff (max vs sum): -24
 | 2023-05-06 | 4.82 | - | 6,035 | 10,228 |
 | 2023-05-07 | 4.82 | - | 6,035 | 10,235 |
 | 2023-05-08 | 4.82 | - | 6,041 | 10,245 |
-| 2023-05-09 | 4.82 | - | 6,044 | 10,248 |
+| 2023-05-09 | 4.82 | - | 6,044 | 10,251 |

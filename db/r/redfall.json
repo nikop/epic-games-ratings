@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 3.27,
   "RatingHistory": [
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1452,
+  "EOS_Progressed": 1453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -834,6 +834,11 @@
       "Time": "2023-05-09T02:07:53.2925198+00:00",
       "NumProgressed": 1452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T03:06:19.6668363+00:00",
+      "NumProgressed": 1453,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -861,7 +866,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "Achievement_004",
@@ -869,7 +874,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "Achievement_006",
@@ -901,7 +906,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "Achievement_010",
@@ -909,7 +914,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "Achievement_011",
@@ -981,7 +986,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "Achievement_020",
@@ -1037,7 +1042,7 @@
       "Name": "Fly Fisher",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "Achievement_027",
@@ -1075,9 +1080,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 683
     },
     {
       "ID": "Achievement_032",
@@ -1093,7 +1098,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "Achievement_034",
@@ -1101,7 +1106,7 @@
       "Name": "Catch and Release",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "Achievement_035",
@@ -1149,7 +1154,7 @@
       "Name": "Heart Attack",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "Achievement_041",
@@ -1181,7 +1186,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "Achievement_046",
@@ -1365,14 +1370,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1452,
+      "Progressed": 1453,
       "Completed": 0
     }
   ],
@@ -1380,8 +1385,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-08T11:59:49.0954716+00:00",
-  "LastChanged_Achievements": "2023-05-09T02:07:53.2925191+00:00",
+  "LastChanged_Achievements": "2023-05-09T03:06:19.6668357+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-09T02:00:17.0642183+00:00",
-  "LastUpdate_Achievements": "2023-05-09T02:07:53.2926509+00:00"
+  "LastUpdate_Ratings": "2023-05-09T02:58:49.6531292+00:00",
+  "LastUpdate_Achievements": "2023-05-09T03:06:19.6669035+00:00"
 }
