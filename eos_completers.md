@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 33.33% |
-| 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
-| 2 | [Overloop](games/o/overloop.md) | 25.00% |
+| 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
+| 1 | [Overloop](games/o/overloop.md) | 25.00% |
+| 1 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
 | 5 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
@@ -24,7 +24,7 @@
 | 22 | [Remains](games/r/remains.md) | 6.67% |
 | 23 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 24 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 5.70% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 5.69% |
 | 26 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -80,7 +80,7 @@
 | 78 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 79 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 80 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 81 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
+| 81 | [Dungeons 3](games/d/dungeons_3.md) | 0.95% |
 | 82 | [Sable](games/s/sable.md) | 0.92% |
 | 83 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 83 | [Hades](games/h/hades.md) | 0.89% |
@@ -94,7 +94,7 @@
 | 92 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.75% |
 | 93 | [Train Valley](games/t/train_valley.md) | 0.73% |
 | 94 | [Haven](games/h/haven.md) | 0.72% |
-| 95 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.69% |
+| 95 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.70% |
 | 96 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 97 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 98 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
@@ -264,6 +264,7 @@
 | 194 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 0.00% |
 | 194 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 0.00% |
 | 194 | [Garden In](games/g/garden_in.md) | 0.00% |
+| 194 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 0.00% |
 | 194 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 0.00% |
 | 194 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 0.00% |
 | 194 | [Grim Nights](games/g/grim_nights.md) | 0.00% |
@@ -387,4 +388,4 @@
 | 194 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 194 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 194 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,571 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,572 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

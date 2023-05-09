@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1930,
+  "EOS_Progressed": 1931,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1004,6 +1004,11 @@
       "Time": "2023-05-09T04:06:49.6866143+00:00",
       "NumProgressed": 1930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T08:06:37.8085558+00:00",
+      "NumProgressed": 1931,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1085,9 +1090,9 @@
       "ID": "STB_DEFEAT_GAREN_II",
       "SetID": "3pe2bac",
       "Name": "My heart and sword always for Demacia",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 212
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -1095,7 +1100,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1119,7 +1124,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1127,7 +1132,7 @@
       "Name": "I chose my shackles",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -1143,7 +1148,7 @@
       "Name": "Little light",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1199,7 +1204,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1231,7 +1236,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1239,7 +1244,7 @@
       "Name": "Thornbarrow",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1247,7 +1252,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1255,7 +1260,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1319,7 +1324,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1359,7 +1364,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1367,7 +1372,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -1438,7 +1443,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1930,
+      "Progressed": 1931,
       "Completed": 1
     }
   ],
@@ -1446,8 +1451,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-08T18:59:09.7080254+00:00",
-  "LastChanged_Achievements": "2023-05-09T07:07:46.3926193+00:00",
+  "LastChanged_Achievements": "2023-05-09T08:06:37.8085553+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:59:07.7752721+00:00",
-  "LastUpdate_Achievements": "2023-05-09T07:07:46.3926706+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:59:06.7563575+00:00",
+  "LastUpdate_Achievements": "2023-05-09T08:06:37.8086075+00:00"
 }

@@ -1290,9 +1290,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 59463,
+  "EOS_Progressed": 59464,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1528,
+  "EOS_NewPlayers": 1520,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2915,6 +2915,11 @@
       "Time": "2023-05-09T07:08:23.315228+00:00",
       "NumProgressed": 59463,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-05-09T08:07:05.62586+00:00",
+      "NumProgressed": 59464,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 37,
@@ -2934,7 +2939,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17244
+      "UsersEstimate": 17245
     },
     {
       "ID": "ACH_0012",
@@ -3070,7 +3075,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 38651
+      "UsersEstimate": 38652
     },
     {
       "ID": "ACH_0210",
@@ -3078,7 +3083,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43408
+      "UsersEstimate": 43409
     },
     {
       "ID": "ACH_0211",
@@ -3142,7 +3147,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20217
+      "UsersEstimate": 20218
     },
     {
       "ID": "ACH_0420",
@@ -3182,7 +3187,7 @@
       "Name": "Off the Rocks",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "ACH_0451",
@@ -3190,7 +3195,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8919
+      "UsersEstimate": 8920
     },
     {
       "ID": "ACH_0452",
@@ -3221,7 +3226,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 59463,
+      "Progressed": 59464,
       "Completed": 27
     }
   ],
@@ -3229,8 +3234,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-08T12:03:34.7304301+00:00",
-  "LastChanged_Achievements": "2023-05-09T07:08:23.3152276+00:00",
+  "LastChanged_Achievements": "2023-05-09T08:07:05.6258594+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.9893875+00:00",
-  "LastUpdate_Ratings": "2023-05-09T07:02:17.0182544+00:00",
-  "LastUpdate_Achievements": "2023-05-09T07:08:23.3152814+00:00"
+  "LastUpdate_Ratings": "2023-05-09T08:01:19.0123366+00:00",
+  "LastUpdate_Achievements": "2023-05-09T08:07:05.6258958+00:00"
 }

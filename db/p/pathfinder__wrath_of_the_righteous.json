@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 72,
   "Rating": 4.76,
   "NumberOfRatings": 1354,
@@ -2286,9 +2286,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8715,
+  "EOS_Progressed": 8718,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3116,6 +3116,11 @@
       "Time": "2023-05-09T05:06:40.1090087+00:00",
       "NumProgressed": 8715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-09T08:06:52.5904873+00:00",
+      "NumProgressed": 8718,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3159,7 +3164,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -3183,7 +3188,7 @@
       "Name": "Path of the Angel",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "09_PathOfDemon",
@@ -3335,7 +3340,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "29_StrategicVictory",
@@ -3479,7 +3484,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -3495,7 +3500,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "49_Flame",
@@ -3519,7 +3524,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -4054,21 +4059,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7497,
+      "Progressed": 7500,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8715,
+      "Progressed": 8718,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-09T02:00:52.1337756+00:00",
-  "LastChanged_Achievements": "2023-05-09T07:08:06.6561347+00:00",
+  "LastChanged_Achievements": "2023-05-09T08:06:52.5904868+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-09T07:00:05.1708999+00:00",
-  "LastUpdate_Achievements": "2023-05-09T07:08:06.6562992+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:59:46.6567908+00:00",
+  "LastUpdate_Achievements": "2023-05-09T08:06:52.590657+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,946 |
-| That's a Grand Army | 8.00% | ~2,619 |
-| That is mine! | 8.00% | ~2,619 |
-| Victorious! | 8.00% | ~2,619 |
-| Brothers in Arms | 6.00% | ~1,964 |
-| That's a Grand Navy | 6.00% | ~1,964 |
-| Seriously?! | 6.00% | ~1,964 |
+| Until death do us apart | 9.00% | ~2,947 |
+| That's a Grand Army | 8.00% | ~2,620 |
+| That is mine! | 8.00% | ~2,620 |
+| Victorious! | 8.00% | ~2,620 |
+| Brothers in Arms | 6.00% | ~1,965 |
+| That's a Grand Navy | 6.00% | ~1,965 |
+| Seriously?! | 6.00% | ~1,965 |
 | For the Glory | 5.00% | ~1,637 |
-| Cold War | 4.00% | ~1,309 |
-| True Catholic | 4.00% | ~1,309 |
+| Cold War | 4.00% | ~1,310 |
+| True Catholic | 4.00% | ~1,310 |
 | Defender of the Faith | 3.00% | ~982 |
 | It's all about the money | 3.00% | ~982 |
 | Respected | 3.00% | ~982 |
@@ -61,6 +61,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dude, Where's my Boat? | 0.30% | ~98 |
 | Four For Trade | 0.30% | ~98 |
 | Grand Coalition | 0.30% | ~98 |
+| Grand Duchy | 0.30% | ~98 |
 | In the Name of the Father | 0.30% | ~98 |
 | Live Long and Prosper | 0.30% | ~98 |
 | One Night in Paris | 0.30% | ~98 |
@@ -75,7 +76,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | AAA Credit | 0.20% | ~65 |
 | Fine Financials | 0.20% | ~65 |
 | Global Hegemony | 0.20% | ~65 |
-| Grand Duchy | 0.20% | ~65 |
 | Imperio español | 0.20% | ~65 |
 | Industrial Powerhouse | 0.20% | ~65 |
 | Italian Ambition | 0.20% | ~65 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,732 (Ranked 80)  
+Progressed: 32,748 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 31,114 | 0 |
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
-| 2023-05-09 | 32,732 | 0 |
+| 2023-05-09 | 32,748 | 0 |
 ## Awards
 Max (Educational): 5,198  (Ranked 60)  
 Sum: 42,979 (Ranked 27)  

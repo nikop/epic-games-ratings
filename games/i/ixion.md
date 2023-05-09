@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,845 (Ranked 146)  
+Progressed: 1,846 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 194)
 | 2023-05-06 | 1,838 | 0 |
 | 2023-05-07 | 1,841 | 0 |
 | 2023-05-08 | 1,844 | 0 |
-| 2023-05-09 | 1,845 | 0 |
+| 2023-05-09 | 1,846 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

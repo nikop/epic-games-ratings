@@ -18,11 +18,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 5.7,
+  "EOS_Completed_Percentage": 5.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -693,6 +693,11 @@
       "Time": "2023-05-09T06:07:42.9515526+00:00",
       "NumProgressed": 526,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-09T08:06:29.4279599+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -704,7 +709,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "10",
@@ -736,7 +741,7 @@
       "Name": "Extinct Again!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "14",
@@ -744,7 +749,7 @@
       "Name": "Bird of Prey",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "15",
@@ -784,7 +789,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "2",
@@ -792,7 +797,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "20",
@@ -800,7 +805,7 @@
       "Name": "Stardust",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "21",
@@ -814,9 +819,9 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 148
     },
     {
       "ID": "23",
@@ -830,9 +835,9 @@
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 148
     },
     {
       "ID": "25",
@@ -848,7 +853,7 @@
       "Name": "Ancient Wisdom",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "27",
@@ -856,7 +861,7 @@
       "Name": "Frog Facts!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "28",
@@ -864,7 +869,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "29",
@@ -888,15 +893,15 @@
       "Name": "Gooey Delight!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "32",
@@ -912,31 +917,31 @@
       "Name": "Awakened Spirits",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "34",
       "SetID": "d0g98p",
       "Name": "Glimmer of Hope",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 190
     },
     {
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 184
     },
     {
       "ID": "36",
       "SetID": "d0g98p",
       "Name": "Dance Master",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "37",
@@ -944,7 +949,7 @@
       "Name": "Stronger!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "38",
@@ -968,7 +973,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "40",
@@ -992,7 +997,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "43",
@@ -1008,7 +1013,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "45",
@@ -1024,7 +1029,7 @@
       "Name": "Flower Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "47",
@@ -1088,7 +1093,7 @@
       "Name": "Tragic Brave",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "9",
@@ -1096,14 +1101,14 @@
       "Name": "Curtain Call",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 30
     }
   ],
@@ -1111,8 +1116,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-09T07:07:35.4958126+00:00",
+  "LastChanged_Achievements": "2023-05-09T08:06:29.4279594+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:58:58.5465164+00:00",
-  "LastUpdate_Achievements": "2023-05-09T07:07:35.4958565+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:59:00.2079633+00:00",
+  "LastUpdate_Achievements": "2023-05-09T08:06:29.4279976+00:00"
 }

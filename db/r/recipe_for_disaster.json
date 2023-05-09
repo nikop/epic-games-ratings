@@ -2,14 +2,14 @@
   "ID": "615a4dc5c85c4c28a390dda4298acd80",
   "Name": "Recipe for Disaster",
   "ProductSlug": "recipe-for-disaster-83726f",
-  "Ranking_Rating": 800,
+  "Ranking_Rating": 804,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 72,
-  "Rating": 4.21,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-02-11T02:06:38.672535+00:00",
@@ -208,6 +208,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-09T07:59:08.2923693+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -226,8 +232,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-15T21:31:09.5308139+00:00",
   "FirstSeenRating": "2023-02-11T02:06:38.6725347+00:00",
-  "LastChanged": "2023-05-08T07:58:59.6267434+00:00",
+  "LastChanged": "2023-05-09T07:59:08.292369+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.8261533+00:00",
-  "LastUpdate_Ratings": "2023-05-09T06:59:12.6583906+00:00",
-  "LastUpdate_Achievements": "2023-05-09T07:05:42.7013996+00:00"
+  "LastUpdate_Ratings": "2023-05-09T07:59:08.2923697+00:00",
+  "LastUpdate_Achievements": "2023-05-09T08:05:18.5328866+00:00"
 }

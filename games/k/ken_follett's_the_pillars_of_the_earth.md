@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,107 |
 | The truth revealed | 9.00% | ~1,107 |
 | The End. | 9.00% | ~1,107 |
-| A cry for help | 7.00% | ~861 |
+| A cry for help | 8.00% | ~984 |
 | Silentium est aureum | 7.00% | ~861 |
 | Rebel without a cause | 6.00% | ~738 |
 | Staring contest champion | 5.00% | ~615 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~369 |
 | Boy of mystery | 2.00% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,299 (Ranked 102)  
+Progressed: 12,301 (Ranked 102)  
 Completed: 93 (0.76%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 93 (0.76%) (Ranked 91)
 | 2023-05-06 | 12,226 | 92 |
 | 2023-05-07 | 12,267 | 93 |
 | 2023-05-08 | 12,293 | 93 |
-| 2023-05-09 | 12,299 | 93 |
+| 2023-05-09 | 12,301 | 93 |
 ## Awards
 Max (Easy Puzzles): 147  (Ranked 285)  
 Sum: 186 (Ranked 354)  

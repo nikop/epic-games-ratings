@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 805,
+  "Ranking_Rating": 804,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 103,
@@ -1230,9 +1230,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11561,
+  "EOS_Progressed": 11563,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 842,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2795,6 +2795,11 @@
       "Time": "2023-05-09T07:08:22.6447902+00:00",
       "NumProgressed": 11561,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-09T08:07:04.9618313+00:00",
+      "NumProgressed": 11563,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -2878,7 +2883,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "1025",
@@ -2918,7 +2923,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "1030",
@@ -2942,7 +2947,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4624
+      "UsersEstimate": 4625
     },
     {
       "ID": "1033",
@@ -2974,22 +2979,22 @@
       "Name": "A Long Journey",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11561,
+      "Progressed": 11563,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-09T07:08:22.6447898+00:00",
+  "LastChanged_Achievements": "2023-05-09T08:07:04.961831+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-09T07:02:35.1137024+00:00",
-  "LastUpdate_Achievements": "2023-05-09T07:08:22.6448176+00:00"
+  "LastUpdate_Ratings": "2023-05-09T08:01:30.0958483+00:00",
+  "LastUpdate_Achievements": "2023-05-09T08:07:04.9618568+00:00"
 }

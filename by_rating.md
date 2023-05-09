@@ -95,7 +95,7 @@
 | 91 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 718 | 153 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,244 | 97 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,007 | 135 |
-| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,827 | 55 |
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,829 | 55 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 205 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 306 |
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 490 |
@@ -337,7 +337,7 @@
 | 325 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,731 | 110 |
 | 325 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 490 |
 | 337 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 490 |
-| 337 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 63,846 | 9 |
+| 337 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 63,904 | 9 |
 | 337 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 429 |
 | 337 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,224 | 121 |
 | 337 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 532 | 177 |
@@ -729,7 +729,7 @@
 | 724 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 490 |
 | 724 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 490 |
 | 724 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 490 |
-| 724 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,877 | 62 |
+| 724 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,881 | 62 |
 | 724 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 237 | 242 |
 | 724 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 490 |
 | 724 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 62 | 373 |
@@ -803,18 +803,18 @@
 | 800 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 270 |
 | 800 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,996 | 26 |
 | 800 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 490 |
-| 800 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 490 |
-| 805 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 299 |
-| 805 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 301 |
-| 805 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 29 | 447 |
-| 805 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 490 |
-| 805 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 0 | 490 |
-| 805 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.20 | 0 | 490 |
-| 805 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 472 |
-| 805 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 351 |
-| 805 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 490 |
-| 805 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 490 |
-| 805 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 348 |
+| 804 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 299 |
+| 804 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 301 |
+| 804 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 29 | 447 |
+| 804 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 490 |
+| 804 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 0 | 490 |
+| 804 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.20 | 0 | 490 |
+| 804 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 472 |
+| 804 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 351 |
+| 804 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 0 | 490 |
+| 804 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 490 |
+| 804 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 490 |
+| 804 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 348 |
 | 816 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 384 |
 | 816 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 490 |
 | 816 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 431 |

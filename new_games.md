@@ -96,4 +96,3 @@
 | [Onsen Master](games/o/onsen_master.md) | - | - | 0 | - |
 | [Kujlevka](games/k/kujlevka.md) | - | - | 0 | - |
 | [Mashed](games/m/mashed.md) | - | - | 0 | - |
-| [BROK the InvestiGator](games/b/brok_the_investigator.md) | - | - | 0 | - |

@@ -6,30 +6,30 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,935 |
-| Into the Unknown | 8.00% | ~43,498 |
-| First Shot | 8.00% | ~43,498 |
-| Herzlich Wilkommen! | 7.00% | ~38,061 |
-| Sancho Panza | 7.00% | ~38,061 |
-| Good Night & Good Luck | 7.00% | ~38,061 |
-| Under Pressure | 6.00% | ~32,624 |
-| Flag Burning | 6.00% | ~32,624 |
-| Oh, So This Is How It Works! | 6.00% | ~32,624 |
-| Night Hunter | 6.00% | ~32,624 |
-| On the Trail of the Enemy | 5.00% | ~27,186 |
-| Light in the Darkness | 5.00% | ~27,186 |
-| Get Outta My House! | 5.00% | ~27,186 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,186 |
-| Being All Social | 5.00% | ~27,186 |
-| Debris and Ashes | 4.00% | ~21,749 |
-| We Will Be Heard! | 4.00% | ~21,749 |
-| Known Associate | 4.00% | ~21,749 |
-| Brush with Death | 4.00% | ~21,749 |
-| Going Down | 4.00% | ~21,749 |
-| Family First | 4.00% | ~21,749 |
-| Tunnel Entrance | 4.00% | ~21,749 |
-| After the Fall | 4.00% | ~21,749 |
-| Can't Touch This! | 4.00% | ~21,749 |
+| You Never Forget Your First... | 9.00% | ~48,937 |
+| Into the Unknown | 8.00% | ~43,500 |
+| First Shot | 8.00% | ~43,500 |
+| Herzlich Wilkommen! | 7.00% | ~38,062 |
+| Sancho Panza | 7.00% | ~38,062 |
+| Good Night & Good Luck | 7.00% | ~38,062 |
+| Under Pressure | 6.00% | ~32,625 |
+| Flag Burning | 6.00% | ~32,625 |
+| Oh, So This Is How It Works! | 6.00% | ~32,625 |
+| Night Hunter | 6.00% | ~32,625 |
+| On the Trail of the Enemy | 5.00% | ~27,187 |
+| Light in the Darkness | 5.00% | ~27,187 |
+| Get Outta My House! | 5.00% | ~27,187 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,187 |
+| Being All Social | 5.00% | ~27,187 |
+| Debris and Ashes | 4.00% | ~21,750 |
+| We Will Be Heard! | 4.00% | ~21,750 |
+| Known Associate | 4.00% | ~21,750 |
+| Brush with Death | 4.00% | ~21,750 |
+| Going Down | 4.00% | ~21,750 |
+| Family First | 4.00% | ~21,750 |
+| Tunnel Entrance | 4.00% | ~21,750 |
+| After the Fall | 4.00% | ~21,750 |
+| Can't Touch This! | 4.00% | ~21,750 |
 | Your World, Your Rules | 3.00% | ~16,312 |
 | Death From Afar | 3.00% | ~16,312 |
 | Terminal Headache | 3.00% | ~16,312 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~189 |
 | Connoisseur | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,726 (Ranked 22)  
+Progressed: 543,749 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 46 (0.01%) (Ranked 186)
 | 2023-05-06 | 541,890 | 46 |
 | 2023-05-07 | 542,868 | 46 |
 | 2023-05-08 | 543,600 | 46 |
-| 2023-05-09 | 543,726 | 46 |
+| 2023-05-09 | 543,749 | 46 |
 ## Awards
 Max (Character Customization): 6,955  (Ranked 44)  
 Sum: 16,116 (Ranked 58)  
