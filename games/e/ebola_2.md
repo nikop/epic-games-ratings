@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Statue ✔ | 100.00% | ~2 |
+| Statue ✔ | 67.00% | ~2 |
 | Voodoo ✔ | 0.00% | ~0 |
 | Light will show the truth ✔ | 0.00% | ~0 |
 | Mask ✔ | 0.00% | ~0 |
@@ -23,9 +23,10 @@
 | Saved the planet ✔ | 0.00% | ~0 |
 | Witch ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 348)  
+Progressed: 3 (Ranked 343)  
 Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-03 | 2 | 0 |
+| 2023-05-09 | 3 | 0 |

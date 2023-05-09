@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -720,9 +720,9 @@
       "ID": "achCoinThree",
       "SetID": "72gjli4",
       "Name": "Seeker Three \u2714",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achCoinTwo",
@@ -752,9 +752,9 @@
       "ID": "achCrow",
       "SetID": "72gjli4",
       "Name": "Exterminate pests \u2714",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achDeva",
@@ -1041,8 +1041,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-09T18:06:55.0638955+00:00",
+  "LastChanged_Achievements": "2023-05-09T19:07:45.3812846+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:01:17.3249167+00:00",
-  "LastUpdate_Achievements": "2023-05-09T18:06:55.0639323+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:01:51.2967489+00:00",
+  "LastUpdate_Achievements": "2023-05-09T19:07:45.3813285+00:00"
 }

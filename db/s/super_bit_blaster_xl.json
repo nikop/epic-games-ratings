@@ -3,9 +3,9 @@
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 2,
+  "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 4,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 25,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
@@ -49,6 +49,11 @@
       "Time": "2023-05-09T08:06:33.9822258+00:00",
       "NumProgressed": 4,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-09T19:06:59.9626212+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -186,9 +191,9 @@
       "ID": "Bit Blaster V8",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V8",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -196,12 +201,12 @@
       "ID": "1f269fc",
       "IsBase": true,
       "Progressed": 4,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-09T18:06:15.6359504+00:00",
+  "LastChanged_Achievements": "2023-05-09T19:06:59.9626208+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:04.1567493+00:00",
-  "LastUpdate_Ratings": "2023-05-09T17:59:08.5226699+00:00",
-  "LastUpdate_Achievements": "2023-05-09T18:06:15.6359612+00:00"
+  "LastUpdate_Ratings": "2023-05-09T18:59:12.3671087+00:00",
+  "LastUpdate_Achievements": "2023-05-09T19:06:59.9626525+00:00"
 }

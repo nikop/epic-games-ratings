@@ -14,8 +14,8 @@
 | Set Sail | 14.00% | ~4 |
 | Snitch | 14.00% | ~4 |
 | Backstory Buff | 11.00% | ~3 |
+| Breathless End | 11.00% | ~3 |
 | Finger-Lickin' Bad | 11.00% | ~3 |
-| Breathless End | 7.00% | ~2 |
 | Explosive End | 7.00% | ~2 |
 | Flying High | 7.00% | ~2 |
 | Fool's Gold | 4.00% | ~1 |

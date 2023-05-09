@@ -5,24 +5,24 @@ Rating: 3.94 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,463 |
-| First One’s Free | 65.00% | ~38,700 |
-| Neophyte Ninja | 50.00% | ~29,769 |
-| Too Old for This | 47.00% | ~27,983 |
-| Fancy Pants | 35.00% | ~20,838 |
-| Case Closed | 34.00% | ~20,243 |
+| Downed but Not Outed | 73.00% | ~43,464 |
+| First One’s Free | 65.00% | ~38,701 |
+| Neophyte Ninja | 50.00% | ~29,770 |
+| Too Old for This | 47.00% | ~27,984 |
+| Fancy Pants | 35.00% | ~20,839 |
+| Case Closed | 34.00% | ~20,244 |
 | King of the Hill | 33.00% | ~19,648 |
-| Underworld Initiate | 29.00% | ~17,266 |
+| Underworld Initiate | 29.00% | ~17,267 |
 | Roid Ranger | 21.00% | ~12,503 |
-| True Player | 19.00% | ~11,312 |
+| True Player | 19.00% | ~11,313 |
 | Off the Rocks | 18.00% | ~10,717 |
 | Dragonslayer | 16.00% | ~9,526 |
 | Raider’s Ruin | 15.00% | ~8,931 |
 | Hidden Sonata | 13.00% | ~7,740 |
 | Classy Joint | 10.00% | ~5,954 |
 | Rockay Rex | 10.00% | ~5,954 |
-| Track Star | 9.00% | ~5,358 |
-| Freebooter | 9.00% | ~5,358 |
+| Track Star | 9.00% | ~5,359 |
+| Freebooter | 9.00% | ~5,359 |
 | Headhunter | 8.00% | ~4,763 |
 | Ding Dong | 8.00% | ~4,763 |
 | I Like Trains | 7.00% | ~4,168 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 894)
 | Geek Out | 0.50% | ~298 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,538 (Ranked 67)  
+Progressed: 59,540 (Ranked 67)  
 Completed: 27 (0.05%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,10 +62,10 @@ Completed: 27 (0.05%) (Ranked 168)
 | 2023-05-06 | 59,056 | 26 |
 | 2023-05-07 | 59,293 | 26 |
 | 2023-05-08 | 59,432 | 26 |
-| 2023-05-09 | 59,538 | 27 |
+| 2023-05-09 | 59,540 | 27 |
 ## Awards
 Max (Highly Recommended): 246  (Ranked 239)  
-Sum: 1,141 (Ranked 221)  
+Sum: 1,149 (Ranked 221)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
@@ -73,7 +73,7 @@ Diff (max vs sum): 18
 | This game has Diverse Characters | 232 |
 | This game has Amazing Characters | 226 |
 | This game has Quickly Understood Controls | 223 |
-| This game has Challenging Combat | 214 |
+| This game has Challenging Combat | 222 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -121,4 +121,4 @@ Diff (max vs sum): 18
 | 2023-05-06 | 3.93 | 236 | 1,106 |
 | 2023-05-07 | 3.94 | 236 | 1,115 |
 | 2023-05-08 | 3.94 | 241 | 1,130 |
-| 2023-05-09 | 3.94 | 246 | 1,141 |
+| 2023-05-09 | 3.94 | 246 | 1,149 |

@@ -46,13 +46,13 @@
 | Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 1.00% | ~2 |
+| Seeker Three ✔ | 1.00% | ~2 |
 | Crocodile Escape ✔ | 1.00% | ~2 |
+| Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |
 | Speedrun ✔ | 1.00% | ~2 |
 | VIP ✔ | 1.00% | ~2 |
-| Seeker Three ✔ | 0.60% | ~1 |
 | Seeker Two ✔ | 0.60% | ~1 |
-| Exterminate pests ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 230)  

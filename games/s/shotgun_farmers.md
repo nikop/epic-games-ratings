@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 103.00% | ~30 |
-| First Blood | 79.00% | ~23 |
-| No Asperascope | 66.00% | ~19 |
-| Triple Kill | 62.00% | ~18 |
-| Cornivore | 62.00% | ~18 |
-| Drinking Problem | 24.00% | ~7 |
-| 10K | 24.00% | ~7 |
-| 15K | 21.00% | ~6 |
-| Graveside Survivor | 17.00% | ~5 |
-| Skin Of Your Teeth | 17.00% | ~5 |
-| Pork Chop Express | 17.00% | ~5 |
-| Fresh Pancake | 14.00% | ~4 |
-| Eggtraordinary | 14.00% | ~4 |
+| Seeds of War | 103.00% | ~32 |
+| First Blood | 77.00% | ~24 |
+| No Asperascope | 68.00% | ~21 |
+| Triple Kill | 58.00% | ~18 |
+| Cornivore | 58.00% | ~18 |
+| Drinking Problem | 23.00% | ~7 |
+| 10K | 23.00% | ~7 |
+| 15K | 19.00% | ~6 |
+| Graveside Survivor | 16.00% | ~5 |
+| Skin Of Your Teeth | 16.00% | ~5 |
+| Pork Chop Express | 16.00% | ~5 |
+| Fresh Pancake | 13.00% | ~4 |
+| Eggtraordinary | 13.00% | ~4 |
+| Carrocketeer | 13.00% | ~4 |
 | Chick Magnet | 10.00% | ~3 |
 | Getting Started | 10.00% | ~3 |
 | Forestside Survivor | 10.00% | ~3 |
 | Quit Horsin' Around | 10.00% | ~3 |
 | Early Bird | 10.00% | ~3 |
-| Carrocketeer | 10.00% | ~3 |
-| Bring Home The Bacon | 7.00% | ~2 |
-| Honk Honk | 7.00% | ~2 |
-| Pum-King | 7.00% | ~2 |
+| Bring Home The Bacon | 6.00% | ~2 |
+| Honk Honk | 6.00% | ~2 |
+| Pum-King | 6.00% | ~2 |
 | 15 Days | 3.00% | ~1 |
 | Darkside Survivor | 3.00% | ~1 |
 | Hardcore Parkour | 3.00% | ~1 |
@@ -49,7 +49,7 @@
 | Pro Digger | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 289)  
+Progressed: 31 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 196)
 | 2023-05-06 | 15 | 0 |
 | 2023-05-07 | 23 | 0 |
 | 2023-05-08 | 27 | 0 |
-| 2023-05-09 | 29 | 0 |
+| 2023-05-09 | 31 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

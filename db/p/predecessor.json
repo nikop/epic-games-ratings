@@ -2,7 +2,7 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 393,
@@ -974,6 +974,6 @@
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
   "LastChanged": "2023-05-09T17:01:25.8951873+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:28.2465569+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:01:27.1135934+00:00",
-  "LastUpdate_Achievements": "2023-05-09T18:05:56.493838+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:02:01.9919133+00:00",
+  "LastUpdate_Achievements": "2023-05-09T19:06:37.2596773+00:00"
 }

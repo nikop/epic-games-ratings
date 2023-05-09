@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1542,
+  "EOS_Progressed": 1543,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -289,6 +289,11 @@
     {
       "Time": "2023-05-07T05:08:03.9882023+00:00",
       "NumProgressed": 1542,
+      "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-09T19:07:45.8881728+00:00",
+      "NumProgressed": 1543,
       "NumCompleted": 10
     }
   ],
@@ -365,7 +370,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHV_10",
@@ -499,9 +504,9 @@
       "ID": "ACHV_26",
       "SetID": "8p5mlmc",
       "Name": "Rigged And Ready",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1234
     },
     {
       "ID": "ACHV_27",
@@ -541,7 +546,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHV_32",
@@ -565,7 +570,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHV_35",
@@ -597,7 +602,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHV_39",
@@ -605,7 +610,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACHV_40",
@@ -637,7 +642,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHV_44",
@@ -661,7 +666,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHV_47",
@@ -756,7 +761,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1542,
+      "Progressed": 1543,
       "Completed": 10
     }
   ],
@@ -764,8 +769,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-09T18:06:55.4474915+00:00",
+  "LastChanged_Achievements": "2023-05-09T19:07:45.888172+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:33.3150703+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:01:30.8222977+00:00",
-  "LastUpdate_Achievements": "2023-05-09T18:06:55.4475312+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:02:06.8662073+00:00",
+  "LastUpdate_Achievements": "2023-05-09T19:07:45.8882203+00:00"
 }

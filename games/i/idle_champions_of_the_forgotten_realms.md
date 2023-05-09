@@ -82,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Modron Assistance | 0.20% | ~174 |
 | The Botched Kidnapping | 0.20% | ~174 |
 | Haaave You Met Asmodeus? | 0.20% | ~174 |
+| Domesticated Owlbears | 0.20% | ~174 |
 | Tower on the Lake | 0.20% | ~174 |
 | Seeds of Deceit | 0.20% | ~174 |
 | Trollskull Manor | 0.20% | ~174 |
@@ -251,7 +252,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Fortune | 0.10% | ~87 |
 | Relentless Misfortune | 0.10% | ~87 |
 | Thine Bounty is Mine! | 0.10% | ~53 |
-| Domesticated Owlbears | 0.10% | ~87 |
 | This Quest Stinks! | 0.10% | ~53 |
 | The Immortal Warrior | 0.10% | ~87 |
 | Hold for the Red Wizards | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,979 (Ranked 59)  
+Progressed: 86,982 (Ranked 59)  
 Completed: 1,819 (2.09%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -515,7 +515,7 @@ Completed: 1,819 (2.09%) (Ranked 58)
 | 2023-05-06 | 86,681 | 1,809 |
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
-| 2023-05-09 | 86,979 | 1,819 |
+| 2023-05-09 | 86,982 | 1,819 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

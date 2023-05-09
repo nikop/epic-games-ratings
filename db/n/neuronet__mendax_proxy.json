@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -118,9 +118,9 @@
       "ID": "ALITTLE_ECCENTRIC",
       "SetID": "2d85n75",
       "Name": "A Little Eccentric",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ALPHA01",
@@ -158,9 +158,9 @@
       "ID": "AURORA04",
       "SetID": "2d85n75",
       "Name": "A Light in the Dark",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AURORA_COMPLETE",
@@ -358,9 +358,9 @@
       "ID": "SOCIAL_BUTTERFLY",
       "SetID": "2d85n75",
       "Name": "Social Butterfly",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TALINGREY07",
@@ -511,8 +511,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-09T18:06:42.4444785+00:00",
+  "LastChanged_Achievements": "2023-05-09T19:07:30.9119545+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:48.8825019+00:00",
-  "LastUpdate_Ratings": "2023-05-09T18:00:47.5032304+00:00",
-  "LastUpdate_Achievements": "2023-05-09T18:06:42.4445085+00:00"
+  "LastUpdate_Ratings": "2023-05-09T19:01:16.6268413+00:00",
+  "LastUpdate_Achievements": "2023-05-09T19:07:30.9119903+00:00"
 }

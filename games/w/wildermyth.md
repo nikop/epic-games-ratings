@@ -7,14 +7,14 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 29.00% | ~334 |
-| Me and My Familiar | 27.00% | ~310 |
-| Passing Shadow | 23.00% | ~264 |
-| This Too Shall Pass | 23.00% | ~264 |
+| Me and My Familiar | 27.00% | ~311 |
+| Passing Shadow | 23.00% | ~265 |
+| This Too Shall Pass | 23.00% | ~265 |
 | Cutthroat Competitors | 22.00% | ~253 |
 | Daybreak | 21.00% | ~242 |
 | How Romantic! | 20.00% | ~230 |
-| Gotta Ca... Must Collect All of Them | 19.00% | ~218 |
-| Completing the Look | 11.00% | ~126 |
+| Gotta Ca... Must Collect All of Them | 19.00% | ~219 |
+| Completing the Look | 11.00% | ~127 |
 | Who's Counting? | 10.00% | ~115 |
 | War Endured | 10.00% | ~115 |
 | A Mythic Menagerie | 9.00% | ~104 |
@@ -32,12 +32,12 @@ Number of Ratings: 45  (23.09.2022)
 | Wingknight's Prowess | 4.00% | ~46 |
 | All My Birds, Safely Home | 4.00% | ~46 |
 | Turncoat | 4.00% | ~46 |
-| Worldwalker | 3.00% | ~34 |
-| Legends Never Die | 3.00% | ~34 |
-| In Soil, In Smoke | 3.00% | ~34 |
-| Bears are Scary | 3.00% | ~34 |
-| Grillmaster | 3.00% | ~34 |
-| No Time for Clawmonsters | 3.00% | ~34 |
+| Worldwalker | 3.00% | ~35 |
+| Legends Never Die | 3.00% | ~35 |
+| In Soil, In Smoke | 3.00% | ~35 |
+| Bears are Scary | 3.00% | ~35 |
+| Grillmaster | 3.00% | ~35 |
+| No Time for Clawmonsters | 3.00% | ~35 |
 | We Emerge Changed | 2.00% | ~23 |
 | Storied Past | 2.00% | ~23 |
 | The Power of Friendship | 2.00% | ~23 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.30% | ~3 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,150 (Ranked 156)  
+Progressed: 1,151 (Ranked 156)  
 Completed: 3 (0.26%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 3 (0.26%) (Ranked 129)
 | 2023-05-06 | 1,138 | 3 |
 | 2023-05-07 | 1,144 | 3 |
 | 2023-05-08 | 1,146 | 3 |
-| 2023-05-09 | 1,150 | 3 |
+| 2023-05-09 | 1,151 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 452)  
 Sum: 27 (Ranked 460)  
