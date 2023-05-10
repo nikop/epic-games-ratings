@@ -5,36 +5,36 @@ Rating: 3.33 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 84.00% | ~1,247 |
-| Home Is Where the Heart Is | 66.00% | ~980 |
-| Wounded Whispers | 66.00% | ~980 |
-| Ne Plus Ultra | 65.00% | ~965 |
+| I Like My Stakes Rare! | 84.00% | ~1,248 |
+| Home Is Where the Heart Is | 66.00% | ~981 |
+| Wounded Whispers | 66.00% | ~981 |
+| Ne Plus Ultra | 65.00% | ~966 |
 | Blood Will Have Blood | 54.00% | ~802 |
 | ICU | 49.00% | ~728 |
 | Catch and Release | 48.00% | ~713 |
 | Peek-a-boo | 47.00% | ~698 |
-| Sucks To Be You | 46.00% | ~683 |
+| Sucks To Be You | 46.00% | ~684 |
 | Welcome to the Neighborhood | 41.00% | ~609 |
-| Fly Fisher | 38.00% | ~564 |
-| Throw The First Stone | 37.00% | ~549 |
+| Fly Fisher | 38.00% | ~565 |
+| Throw The First Stone | 37.00% | ~550 |
 | Enter of Your Own Free Will | 35.00% | ~520 |
 | Heart Attack | 34.00% | ~505 |
 | Skin of Their Teeth | 34.00% | ~505 |
-| Grounded | 25.00% | ~371 |
+| Grounded | 25.00% | ~372 |
 | Bad Wiring | 23.00% | ~342 |
 | I Spit On Your Grave | 21.00% | ~312 |
-| Radio Silence | 17.00% | ~252 |
+| Radio Silence | 17.00% | ~253 |
 | Neighborhood Revitalization | 16.00% | ~238 |
 | Helping Hand | 13.00% | ~193 |
 | You Clean It Up | 12.00% | ~178 |
 | Starve the Beast | 9.00% | ~134 |
 | Block Party | 8.00% | ~119 |
 | From the Shadows | 6.00% | ~89 |
-| Revelations | 4.00% | ~59 |
 | Bell-ringer | 4.00% | ~59 |
 | Right This Way | 4.00% | ~59 |
 | Nice Try | 4.00% | ~59 |
 | Enemy of My Enemy | 4.00% | ~59 |
+| Revelations | 3.00% | ~45 |
 | Contingency Plans | 3.00% | ~45 |
 | Sic Transit Umbra | 3.00% | ~45 |
 | Silence Is Golden | 3.00% | ~45 |
@@ -72,7 +72,7 @@ Rating: 3.33 (Ranked 920)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,485 (Ranked 152)  
+Progressed: 1,486 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-07 | 1,412 | 0 |
 | 2023-05-08 | 1,446 | 0 |
 | 2023-05-09 | 1,472 | 0 |
-| 2023-05-10 | 1,485 | 0 |
+| 2023-05-10 | 1,486 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

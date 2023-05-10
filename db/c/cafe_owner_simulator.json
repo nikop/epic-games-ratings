@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "DEBTOR",
       "SetID": "64e5lgf",
       "Name": "DEBTOR",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "FIREFIGHTER",
@@ -308,8 +308,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-10T22:06:55.9394672+00:00",
+  "LastChanged_Achievements": "2023-05-10T23:06:32.4692486+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:36.5576999+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:00:49.848706+00:00",
-  "LastUpdate_Achievements": "2023-05-10T22:06:55.9394777+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:00:16.2873743+00:00",
+  "LastUpdate_Achievements": "2023-05-10T23:06:32.4692605+00:00"
 }

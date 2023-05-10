@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1873,
+  "EOS_Progressed": 1874,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -184,6 +184,11 @@
       "Time": "2023-05-10T22:07:13.0613893+00:00",
       "NumProgressed": 1873,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-10T23:06:49.5282696+00:00",
+      "NumProgressed": 1874,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -203,7 +208,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "complete_act_one",
@@ -211,7 +216,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "complete_act_three",
@@ -235,7 +240,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "deal_damage",
@@ -251,15 +256,15 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "defeat_tree_dummy",
       "SetID": "236b9eg",
       "Name": "Do you feel like a tough guy?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 862
     },
     {
       "ID": "fail_planet",
@@ -267,7 +272,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "piercing_beam",
@@ -299,7 +304,7 @@
       "Name": "Frogbot",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "save_planet_bestfriend",
@@ -323,7 +328,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "stun_enemies",
@@ -346,7 +351,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1873,
+      "Progressed": 1874,
       "Completed": 8
     }
   ],
@@ -354,8 +359,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-10T22:07:13.061389+00:00",
+  "LastChanged_Achievements": "2023-05-10T23:06:49.5282687+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:01:58.1207879+00:00",
-  "LastUpdate_Achievements": "2023-05-10T22:07:13.0614087+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:01:22.9407801+00:00",
+  "LastUpdate_Achievements": "2023-05-10T23:06:49.5282845+00:00"
 }

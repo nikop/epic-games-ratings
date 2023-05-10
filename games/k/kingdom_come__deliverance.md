@@ -6,19 +6,19 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,953 |
-| Cavalier | 25.00% | ~195,124 |
-| Fatso | 23.00% | ~179,514 |
-| Awakening | 20.00% | ~156,099 |
-| Ranger | 20.00% | ~156,099 |
-| Scrooge | 20.00% | ~156,099 |
-| Anorectic | 16.00% | ~124,879 |
-| Firestarter | 15.00% | ~117,074 |
-| Bookworm | 14.00% | ~109,269 |
-| Insomniac | 13.00% | ~101,464 |
-| Buddy | 11.00% | ~85,854 |
-| Sinner | 11.00% | ~85,854 |
-| Thief | 11.00% | ~85,854 |
+| Blacksmith's Son | 31.00% | ~241,955 |
+| Cavalier | 25.00% | ~195,125 |
+| Fatso | 23.00% | ~179,515 |
+| Awakening | 20.00% | ~156,100 |
+| Ranger | 20.00% | ~156,100 |
+| Scrooge | 20.00% | ~156,100 |
+| Anorectic | 16.00% | ~124,880 |
+| Firestarter | 15.00% | ~117,075 |
+| Bookworm | 14.00% | ~109,270 |
+| Insomniac | 13.00% | ~101,465 |
+| Buddy | 11.00% | ~85,855 |
+| Sinner | 11.00% | ~85,855 |
+| Thief | 11.00% | ~85,855 |
 | Convict | 10.00% | ~78,050 |
 | Traveller | 10.00% | ~78,050 |
 | Haggler | 9.00% | ~70,245 |
@@ -50,46 +50,46 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,805 |
 | Master Huntsman | 1.00% | ~7,805 |
 | Stealth Killer | 1.00% | ~7,805 |
-| Spoilsport | 0.90% | ~7,024 |
+| Spoilsport | 0.90% | ~7,025 |
 | Bailiff | 0.80% | ~6,244 |
 | Tracker | 0.80% | ~6,244 |
-| David Horak | 0.70% | ~5,463 |
-| Mercenary's Honour | 0.70% | ~5,463 |
-| Saviour | 0.70% | ~5,463 |
+| David Horak | 0.70% | ~5,464 |
+| Mercenary's Honour | 0.70% | ~5,464 |
+| Saviour | 0.70% | ~5,464 |
 | Edward Kelly | 0.60% | ~4,683 |
 | Fighter | 0.60% | ~4,683 |
 | I Can Quit Anytime | 0.40% | ~3,122 |
 | Perfectionist | 0.40% | ~3,122 |
-| Alcoholic | 0.30% | ~2,341 |
-| Sniper | 0.30% | ~2,341 |
+| Alcoholic | 0.30% | ~2,342 |
+| Sniper | 0.30% | ~2,342 |
 | Angel of Mercy | 0.20% | ~1,561 |
 | Christian Burial | 0.20% | ~1,561 |
 | Friends without benefits | 0.20% | ~1,561 |
 | Game Over | 0.20% | ~1,561 |
 | Not-so-Christian Burial | 0.20% | ~1,561 |
 | True Friend | 0.20% | ~1,561 |
-| Bad Girl | 0.10% | ~780 |
-| Cleric's pet | 0.10% | ~780 |
-| Full House Sinner | 0.10% | ~780 |
-| Lord Capon's Ghost | 0.10% | ~780 |
-| Hardcore Henry | 0.10% | ~780 |
-| Infernal Justice | 0.10% | ~780 |
-| Judas | 0.10% | ~780 |
-| Like a Ghost | 0.10% | ~780 |
-| Lost Trinket | 0.10% | ~780 |
-| Merciful | 0.10% | ~780 |
-| You had one job! | 0.10% | ~780 |
-| Pilgrim | 0.10% | ~780 |
-| Pinky Promis | 0.10% | ~780 |
-| Ledetchko Revenant | 0.10% | ~780 |
-| 'Tis but a scratch | 0.10% | ~780 |
-| Torturer | 0.10% | ~780 |
-| Trial-And-Error | 0.10% | ~780 |
-| Virgin | 0.10% | ~780 |
-| Voyeur | 0.10% | ~780 |
-| Wingman | 0.10% | ~780 |
+| Bad Girl | 0.10% | ~781 |
+| Cleric's pet | 0.10% | ~781 |
+| Full House Sinner | 0.10% | ~781 |
+| Lord Capon's Ghost | 0.10% | ~781 |
+| Hardcore Henry | 0.10% | ~781 |
+| Infernal Justice | 0.10% | ~781 |
+| Judas | 0.10% | ~781 |
+| Like a Ghost | 0.10% | ~781 |
+| Lost Trinket | 0.10% | ~781 |
+| Merciful | 0.10% | ~781 |
+| You had one job! | 0.10% | ~781 |
+| Pilgrim | 0.10% | ~781 |
+| Pinky Promis | 0.10% | ~781 |
+| Ledetchko Revenant | 0.10% | ~781 |
+| 'Tis but a scratch | 0.10% | ~781 |
+| Torturer | 0.10% | ~781 |
+| Trial-And-Error | 0.10% | ~781 |
+| Virgin | 0.10% | ~781 |
+| Voyeur | 0.10% | ~781 |
+| Wingman | 0.10% | ~781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 780,495 (Ranked 12)  
+Progressed: 780,501 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 39 (0.00%) (Ranked 198)
 | 2023-05-07 | 780,060 | 39 |
 | 2023-05-08 | 780,207 | 39 |
 | 2023-05-09 | 780,366 | 39 |
-| 2023-05-10 | 780,495 | 39 |
+| 2023-05-10 | 780,501 | 39 |
 ## Awards
 Max (Character Customization): 7,153  (Ranked 43)  
 Sum: 26,762 (Ranked 42)  

@@ -2,7 +2,7 @@
   "ID": "phlox",
   "Name": "Griftlands",
   "ProductSlug": "griftlands",
-  "Ranking_Rating": 71,
+  "Ranking_Rating": 89,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 395,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.79,
   "NumberOfRatings": 151,
   "RatingHistory": [
     {
@@ -268,6 +268,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-10T22:59:29.0440022+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -285,8 +291,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:37.4181634+00:00",
-  "LastChanged": "2023-03-31T05:57:34.5437121+00:00",
+  "LastChanged": "2023-05-10T22:59:29.044002+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.8219259+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:00:06.3553502+00:00",
-  "LastUpdate_Achievements": "2023-05-10T22:03:39.5666024+00:00"
+  "LastUpdate_Ratings": "2023-05-10T22:59:29.0440027+00:00",
+  "LastUpdate_Achievements": "2023-05-10T23:03:17.2836825+00:00"
 }

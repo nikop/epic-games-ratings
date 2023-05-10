@@ -15,8 +15,8 @@
 | Snitch | 13.00% | ~4 |
 | Backstory Buff | 10.00% | ~3 |
 | Breathless End | 10.00% | ~3 |
+| Explosive End | 10.00% | ~3 |
 | Finger-Lickin' Bad | 10.00% | ~3 |
-| Explosive End | 7.00% | ~2 |
 | Flying High | 7.00% | ~2 |
 | Fool's Gold | 3.00% | ~1 |
 | Escape Artist | 0.00% | ~0 |

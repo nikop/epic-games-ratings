@@ -3,7 +3,7 @@
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
   "Ranking_Rating": 725,
-  "Ranking_Popularity": 61,
+  "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 198,
@@ -4499,6 +4499,6 @@
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
   "LastChanged": "2023-05-10T18:59:53.1593469+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:45.6325578+00:00",
-  "LastUpdate_Ratings": "2023-05-10T21:59:32.0382982+00:00",
-  "LastUpdate_Achievements": "2023-05-10T22:04:46.4145882+00:00"
+  "LastUpdate_Ratings": "2023-05-10T22:58:58.4636373+00:00",
+  "LastUpdate_Achievements": "2023-05-10T23:04:13.4694434+00:00"
 }

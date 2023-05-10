@@ -6,37 +6,37 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~697,194 |
-| The Blues | 85.00% | ~598,601 |
-| Fast | 66.00% | ~464,796 |
-| Healthbar | 55.00% | ~387,330 |
-| Force Cube | 52.00% | ~366,203 |
-| Double Jump | 48.00% | ~338,033 |
-| Regeneration | 47.00% | ~330,991 |
-| Climb the hill | 42.00% | ~295,779 |
-| Triple Jump | 42.00% | ~295,779 |
+| Out of bed | 99.00% | ~697,196 |
+| The Blues | 85.00% | ~598,602 |
+| Fast | 66.00% | ~464,797 |
+| Healthbar | 55.00% | ~387,331 |
+| Force Cube | 52.00% | ~366,204 |
+| Double Jump | 48.00% | ~338,034 |
+| Regeneration | 47.00% | ~330,992 |
+| Climb the hill | 42.00% | ~295,780 |
+| Triple Jump | 42.00% | ~295,780 |
 | Through the fire pipe | 38.00% | ~267,610 |
-| MacGuffin | 37.00% | ~260,567 |
-| Just once | 36.00% | ~253,525 |
+| MacGuffin | 37.00% | ~260,568 |
+| Just once | 36.00% | ~253,526 |
 | Armor | 30.00% | ~211,271 |
 | True holy spirit | 27.00% | ~190,144 |
-| That's how electronics work obviously | 26.00% | ~183,101 |
-| Force Cube Catapult | 25.00% | ~176,059 |
-| Holy Sword | 23.00% | ~161,974 |
+| That's how electronics work obviously | 26.00% | ~183,102 |
+| Force Cube Catapult | 25.00% | ~176,060 |
+| Holy Sword | 23.00% | ~161,975 |
 | Telefrag | 22.00% | ~154,932 |
 | Freed from prison | 21.00% | ~147,890 |
 | Stomp | 21.00% | ~147,890 |
-| Double Health | 18.00% | ~126,762 |
+| Double Health | 18.00% | ~126,763 |
 | Buckle | 17.00% | ~119,720 |
 | Green Keycard | 17.00% | ~119,720 |
-| Rattle Hag | 15.00% | ~105,635 |
+| Rattle Hag | 15.00% | ~105,636 |
 | All Shells | 14.00% | ~98,593 |
 | Beam | 13.00% | ~91,551 |
 | 9 | 13.00% | ~91,551 |
 | Purple Cube | 13.00% | ~91,551 |
 | Supraball Noob | 13.00% | ~91,551 |
-| Health Drink | 12.00% | ~84,508 |
-| Helped a star | 12.00% | ~84,508 |
+| Health Drink | 12.00% | ~84,509 |
+| Helped a star | 12.00% | ~84,509 |
 | Infiltrated | 11.00% | ~77,466 |
 | Robbed | 11.00% | ~77,466 |
 | Strong | 11.00% | ~77,466 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~704 |
 | DLC: Top of the world | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,236 (Ranked 14)  
+Progressed: 704,238 (Ranked 14)  
 Completed: 674 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 674 (0.10%) (Ranked 156)
 | 2023-05-07 | 703,799 | 672 |
 | 2023-05-08 | 703,971 | 672 |
 | 2023-05-09 | 704,109 | 674 |
-| 2023-05-10 | 704,236 | 674 |
+| 2023-05-10 | 704,238 | 674 |
 ## Awards
 Max (Challenging Puzzles): 7,607  (Ranked 40)  
 Sum: 9,894 (Ranked 78)  

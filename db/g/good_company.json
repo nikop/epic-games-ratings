@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4730,
+  "EOS_Progressed": 4732,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -509,6 +509,11 @@
       "Time": "2023-05-10T22:06:59.4069343+00:00",
       "NumProgressed": 4730,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T23:06:36.1028513+00:00",
+      "NumProgressed": 4732,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -632,7 +637,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "ach_campaign_progress6",
@@ -672,7 +677,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "ach_campaign_special10",
@@ -776,7 +781,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_campaign_special6",
@@ -904,7 +909,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ach_frp_many_products2",
@@ -952,7 +957,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -1112,7 +1117,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_trait_overload",
@@ -1127,15 +1132,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4730,
+      "Progressed": 4732,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-10T22:06:59.4069337+00:00",
+  "LastChanged_Achievements": "2023-05-10T23:06:36.1028508+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.697112+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:00:13.9818907+00:00",
-  "LastUpdate_Achievements": "2023-05-10T22:06:59.4070182+00:00"
+  "LastUpdate_Ratings": "2023-05-10T22:59:37.3277336+00:00",
+  "LastUpdate_Achievements": "2023-05-10T23:06:36.1030273+00:00"
 }

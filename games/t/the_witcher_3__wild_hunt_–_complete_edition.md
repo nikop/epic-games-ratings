@@ -1,16 +1,16 @@
 # The Witcher 3: Wild Hunt – Complete Edition
 [Store](https://store.epicgames.com/en-US/p/the-witcher-3-wild-hunt)  
 [View Rawdata](../../db/t/the_witcher_3__wild_hunt_–_complete_edition.json)  
-Rating: 4.89 (Ranked 12)  
+Rating: 4.89 (Ranked 11)  
 Number of Ratings: 14,665  (23.09.2022)  
 ## Awards
 Max (Character Customization): 15,059  (Ranked 20)  
-Sum: 36,483 (Ranked 30)  
+Sum: 36,490 (Ranked 30)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 15,059 |
-| This game has Amazing Storytelling | 2,324 |
+| This game has Amazing Storytelling | 2,331 |
 | This game is Extremely Fun | 2,313 |
 | This game is Great for Beginners | 2,268 |
 | This game is Highly Recommended | 2,260 |
@@ -139,4 +139,4 @@ Diff (max vs sum): -10
 | 2023-05-07 | 4.89 | - | 14,997 | 36,324 |
 | 2023-05-08 | 4.89 | - | 15,015 | 36,377 |
 | 2023-05-09 | 4.89 | - | 15,034 | 36,430 |
-| 2023-05-10 | 4.89 | - | 15,059 | 36,483 |
+| 2023-05-10 | 4.89 | - | 15,059 | 36,490 |

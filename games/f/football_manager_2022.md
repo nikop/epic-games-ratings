@@ -1,75 +1,75 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 78)  
+Rating: 4.80 (Ranked 77)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~229,830 |
-| First Victory | 50.00% | ~229,830 |
-| Clean Sheet | 49.00% | ~225,233 |
-| He's Sold! | 47.00% | ~216,040 |
-| I'm The Boss! | 41.00% | ~188,461 |
-| Hat-trick | 41.00% | ~188,461 |
-| Scoring Streak | 37.00% | ~170,074 |
-| Unbeatable! | 36.00% | ~165,478 |
-| Thumping | 36.00% | ~165,478 |
-| Superb Dressing Room Atmosphere | 34.00% | ~156,284 |
-| Total Support | 32.00% | ~147,091 |
-| Record Signing | 31.00% | ~142,495 |
-| He's a Natural | 30.00% | ~137,898 |
-| Millionaire's Club | 30.00% | ~137,898 |
-| Team Performance | 29.00% | ~133,301 |
-| Parked The Bus | 28.00% | ~128,705 |
-| Shrewd Spender | 28.00% | ~128,705 |
-| Star Man | 28.00% | ~128,705 |
-| Attack! | 27.00% | ~124,108 |
-| You're On Fire | 26.00% | ~119,512 |
-| Tremendous Trio | 26.00% | ~119,512 |
-| On A Roll | 25.00% | ~114,915 |
-| Unstoppable Force | 25.00% | ~114,915 |
-| Record Sale | 25.00% | ~114,915 |
-| Armchair Expert | 24.00% | ~110,318 |
-| Fantastic Five | 23.00% | ~105,722 |
-| Full Faith | 23.00% | ~105,722 |
-| Iron Curtain | 23.00% | ~105,722 |
-| The Boss | 23.00% | ~105,722 |
-| Top Of The Class | 22.00% | ~101,125 |
-| Goal Machine | 22.00% | ~101,125 |
-| Splashing The Cash | 21.00% | ~96,529 |
-| What A Goal! | 21.00% | ~96,529 |
-| Cup Glory! | 21.00% | ~96,529 |
-| Clean Bill of Health | 20.00% | ~91,932 |
-| Irresistible Force | 19.00% | ~87,335 |
-| Excellent Match Cohesion | 19.00% | ~87,335 |
-| Do The Double | 18.00% | ~82,739 |
+| He's Signed! | 50.00% | ~229,832 |
+| First Victory | 50.00% | ~229,832 |
+| Clean Sheet | 49.00% | ~225,236 |
+| He's Sold! | 47.00% | ~216,043 |
+| I'm The Boss! | 41.00% | ~188,463 |
+| Hat-trick | 41.00% | ~188,463 |
+| Scoring Streak | 37.00% | ~170,076 |
+| Unbeatable! | 36.00% | ~165,479 |
+| Thumping | 36.00% | ~165,479 |
+| Superb Dressing Room Atmosphere | 34.00% | ~156,286 |
+| Total Support | 32.00% | ~147,093 |
+| Record Signing | 31.00% | ~142,496 |
+| He's a Natural | 30.00% | ~137,900 |
+| Millionaire's Club | 30.00% | ~137,900 |
+| Team Performance | 29.00% | ~133,303 |
+| Parked The Bus | 28.00% | ~128,706 |
+| Shrewd Spender | 28.00% | ~128,706 |
+| Star Man | 28.00% | ~128,706 |
+| Attack! | 27.00% | ~124,110 |
+| You're On Fire | 26.00% | ~119,513 |
+| Tremendous Trio | 26.00% | ~119,513 |
+| On A Roll | 25.00% | ~114,916 |
+| Unstoppable Force | 25.00% | ~114,916 |
+| Record Sale | 25.00% | ~114,916 |
+| Armchair Expert | 24.00% | ~110,320 |
+| Fantastic Five | 23.00% | ~105,723 |
+| Full Faith | 23.00% | ~105,723 |
+| Iron Curtain | 23.00% | ~105,723 |
+| The Boss | 23.00% | ~105,723 |
+| Top Of The Class | 22.00% | ~101,126 |
+| Goal Machine | 22.00% | ~101,126 |
+| Splashing The Cash | 21.00% | ~96,530 |
+| What A Goal! | 21.00% | ~96,530 |
+| Cup Glory! | 21.00% | ~96,530 |
+| Clean Bill of Health | 20.00% | ~91,933 |
+| Irresistible Force | 19.00% | ~87,336 |
+| Excellent Match Cohesion | 19.00% | ~87,336 |
+| Do The Double | 18.00% | ~82,740 |
 | Top Form | 16.00% | ~73,546 |
 | Cash To Burn | 16.00% | ~73,546 |
-| Overachiever! | 15.00% | ~68,949 |
-| Rushed signing | 15.00% | ~68,949 |
-| Beating Expectations | 14.00% | ~64,352 |
-| Eyes and Ears | 14.00% | ~64,352 |
-| Window Shopping | 14.00% | ~64,352 |
+| Overachiever! | 15.00% | ~68,950 |
+| Rushed signing | 15.00% | ~68,950 |
+| Beating Expectations | 14.00% | ~64,353 |
+| Eyes and Ears | 14.00% | ~64,353 |
+| Window Shopping | 14.00% | ~64,353 |
 | Comeback King! | 13.00% | ~59,756 |
-| You're Up! | 12.00% | ~55,159 |
+| You're Up! | 12.00% | ~55,160 |
 | Money, Money, Money | 11.00% | ~50,563 |
 | Invincible! | 10.00% | ~45,966 |
 | Best In The World | 10.00% | ~45,966 |
-| Best In Europe | 9.00% | ~41,369 |
-| Superb Strike | 9.00% | ~41,369 |
-| International Superstar | 9.00% | ~41,369 |
+| Best In Europe | 9.00% | ~41,370 |
+| Superb Strike | 9.00% | ~41,370 |
+| International Superstar | 9.00% | ~41,370 |
 | National Service | 8.00% | ~36,773 |
 | Headhunted | 8.00% | ~36,773 |
 | Domination | 8.00% | ~36,773 |
-| Best In The Business | 7.00% | ~32,176 |
+| Best In The Business | 7.00% | ~32,177 |
 | Parked The Tank | 6.00% | ~27,580 |
 | World Renowned | 6.00% | ~27,580 |
 | Head-to-Head | 6.00% | ~27,580 |
 | Legend | 5.00% | ~22,983 |
 | Win the Club World Cup | 5.00% | ~22,983 |
 | We Trust You | 5.00% | ~22,983 |
-| Going Places | 4.00% | ~18,386 |
+| Going Places | 4.00% | ~18,387 |
 | National Hero | 3.00% | ~13,790 |
 | Golden Boot | 3.00% | ~13,790 |
 | Trophy Hoarder | 3.00% | ~13,790 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~460 |
 | Shoestring Budget | 0.10% | ~460 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,660 (Ranked 27)  
+Progressed: 459,665 (Ranked 27)  
 Completed: 18 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,14 +125,14 @@ Completed: 18 (0.00%) (Ranked 198)
 | 2023-05-07 | 459,417 | 18 |
 | 2023-05-08 | 459,504 | 18 |
 | 2023-05-09 | 459,578 | 18 |
-| 2023-05-10 | 459,660 | 18 |
+| 2023-05-10 | 459,665 | 18 |
 ## Awards
-Max (Relaxing): 6,255  (Ranked 51)  
-Sum: 49,318 (Ranked 22)  
-Diff (max vs sum): 29  
+Max (Relaxing): 6,257  (Ranked 50)  
+Sum: 49,320 (Ranked 22)  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,255 |
+| This game is Relaxing | 6,257 |
 | This game is Extremely Fun | 5,907 |
 | This game has Competitive Players | 5,724 |
 | This game has Quickly Understood Controls | 5,718 |
@@ -250,4 +250,4 @@ Diff (max vs sum): 29
 | 2023-05-07 | 4.80 | - | 6,255 | 49,301 |
 | 2023-05-08 | 4.80 | - | 6,255 | 49,306 |
 | 2023-05-09 | 4.80 | - | 6,255 | 49,310 |
-| 2023-05-10 | 4.80 | - | 6,255 | 49,318 |
+| 2023-05-10 | 4.80 | - | 6,257 | 49,320 |

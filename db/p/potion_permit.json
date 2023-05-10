@@ -469,9 +469,9 @@
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1103
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -726,8 +726,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-10T22:07:17.5497886+00:00",
+  "LastChanged_Achievements": "2023-05-10T23:06:54.0286897+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:26.1702619+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:02:02.7397922+00:00",
-  "LastUpdate_Achievements": "2023-05-10T22:07:17.5498174+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:01:27.9094138+00:00",
+  "LastUpdate_Achievements": "2023-05-10T23:06:54.0287411+00:00"
 }

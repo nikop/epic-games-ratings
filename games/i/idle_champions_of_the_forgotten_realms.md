@@ -131,6 +131,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hearts Aflame | 0.20% | ~107 |
 | Dreamscape | 0.20% | ~107 |
 | Look Out! | 0.20% | ~107 |
+| The Path of Dreams | 0.20% | ~107 |
 | Bad Odds in Avernus | 0.20% | ~107 |
 | An Even Worse Time in Avernus | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
@@ -393,7 +394,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Devil Arrives | 0.10% | ~53 |
 | Dream Gauntlet | 0.10% | ~53 |
 | Zombie Dreams | 0.10% | ~53 |
-| The Path of Dreams | 0.10% | ~53 |
 | The Path of Redcaps | 0.10% | ~53 |
 | The Path of Trials | 0.10% | ~53 |
 | The Lost Hollyphant | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,092 (Ranked 59)  
+Progressed: 87,097 (Ranked 59)  
 Completed: 1,823 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,823 (2.09%) (Ranked 60)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,092 | 1,823 |
+| 2023-05-10 | 87,097 | 1,823 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,846 (Ranked 37)  

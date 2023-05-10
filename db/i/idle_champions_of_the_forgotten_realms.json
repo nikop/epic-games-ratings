@@ -3616,9 +3616,9 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87092,
+  "EOS_Progressed": 87097,
   "EOS_Completed": 1823,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5395,6 +5395,11 @@
     {
       "Time": "2023-05-10T22:07:22.9961338+00:00",
       "NumProgressed": 87092,
+      "NumCompleted": 1823
+    },
+    {
+      "Time": "2023-05-10T23:06:59.1260538+00:00",
+      "NumProgressed": 87097,
       "NumCompleted": 1823
     }
   ],
@@ -8237,9 +8242,9 @@
       "ID": "objective_completed_640",
       "SetID": "415jc5c",
       "Name": "The Path of Dreams",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_641",
@@ -9318,21 +9323,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53366,
+      "Progressed": 53371,
       "Completed": 2488
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87092,
+      "Progressed": 87097,
       "Completed": 1823
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-10T18:59:25.706+00:00",
-  "LastChanged_Achievements": "2023-05-10T22:07:22.9961331+00:00",
+  "LastChanged_Achievements": "2023-05-10T23:06:59.1260529+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T21:58:57.0338337+00:00",
-  "LastUpdate_Achievements": "2023-05-10T22:07:22.9986849+00:00"
+  "LastUpdate_Ratings": "2023-05-10T22:58:24.7835848+00:00",
+  "LastUpdate_Achievements": "2023-05-10T23:06:59.1289141+00:00"
 }
