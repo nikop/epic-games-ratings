@@ -8,6 +8,7 @@
 | [Fuga: Melodies of Steel 2](games/f/fuga__melodies_of_steel_2.md) | 2023-05-11 | 2023-05-11 |
 | [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | 2023-05-11 |
 | [Voodolls](games/v/voodolls.md) | 2023-05-11 | 2023-05-11 |
+| [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 2022-06-16 |
 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2023-05-11 | 2023-05-11 |
 | [Urban Tale](games/u/urban_tale.md) | 2023-05-11 | 2021-10-07 |
 | [Ungate](games/u/ungate.md) | 2023-05-11 | 2023-05-11 |
@@ -26,6 +27,7 @@
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-04-06 |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
+| [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
@@ -50,6 +52,7 @@
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-31 | 2016-12-14 |
 | [Supergalactix](games/s/supergalactix.md) | 2023-05-31 | 2023-05-31 |
 | [The Cullfield Ritual](games/t/the_cullfield_ritual.md) | 2023-05-31 | 2023-01-05 |
+| [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-31 | 2023-05-31 |
 | [Worlds War 1](games/w/worlds_war_1.md) | 2023-05-31 | 2023-05-31 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-05-31 | 2023-05-31 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 2023-04-06 |
@@ -270,7 +273,6 @@
 | [One Lonely Outpost](games/o/one_lonely_outpost.md) | 2099-01-01 | 2099-01-01 |
 | [One Military Camp](games/o/one_military_camp.md) | 2099-01-01 | 2099-01-01 |
 | [Outbreak Island](games/o/outbreak_island.md) | 2099-01-01 | 2099-01-01 |
-| [Oxide Room 104](games/o/oxide_room_104.md) | 2099-01-01 | 2022-06-16 |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | 2024-01-13 |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2099-01-01 | 2099-01-01 |
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2099-01-01 | - |

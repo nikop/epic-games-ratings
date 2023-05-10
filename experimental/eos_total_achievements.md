@@ -291,6 +291,7 @@
 | [SIMULACRA 3](../games/s/simulacra_3.md) | 24 | 1,000 |
 | [Skul: The Hero Slayer](../games/s/skul__the_hero_slayer.md) | 24 | 1,000 |
 | [Spirit of the North](../games/s/spirit_of_the_north.md) | 24 | 1,000 |
+| [Timothy vs the Aliens](../games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 24 | 1,000 |
 | [Undead Horde](../games/u/undead_horde.md) | 24 | 1,000 |
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
