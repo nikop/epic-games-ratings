@@ -146,4 +146,3 @@
 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 2023-04-11 |
 | [Undead Horde](games/u/undead_horde.md) | 2023-04-11 | 2019-05-14 |
 | [Precious Stones](games/p/precious_stones.md) | 2023-04-11 | 2023-04-30 |
-| [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 2023-04-10 | 2021-10-14 |
