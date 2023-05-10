@@ -8,11 +8,11 @@ Rating: 4.18 (Ranked 825)
 | Flesh Wound | 5.00% | ~628 |
 | Paper Jams | 5.00% | ~628 |
 | Get a Grip | 4.00% | ~502 |
+| The Outer Way | 4.00% | ~502 |
 | You Need a Gun | 3.00% | ~377 |
 | Two Heads Are Better Than One | 3.00% | ~377 |
 | Workplace Hazard | 3.00% | ~377 |
 | Float Like A Butterfly | 3.00% | ~377 |
-| The Outer Way | 3.00% | ~377 |
 | Desperate Times | 3.00% | ~377 |
 | Glutton for Punishment | 2.00% | ~10 |
 | I Do Belong Here | 2.00% | ~251 |
@@ -39,7 +39,7 @@ Rating: 4.18 (Ranked 825)
 | It's over, Jacob! | 0.10% | ~13 |
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,552 (Ranked 101)  
+Progressed: 12,553 (Ranked 101)  
 Completed: 47 (0.37%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 47 (0.37%) (Ranked 111)
 | 2023-05-07 | 12,543 | 47 |
 | 2023-05-08 | 12,549 | 47 |
 | 2023-05-09 | 12,551 | 47 |
-| 2023-05-10 | 12,552 | 47 |
+| 2023-05-10 | 12,553 | 47 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 245 (Ranked 342)  

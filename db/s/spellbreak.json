@@ -4,7 +4,7 @@
   "ProductSlug": "spellbreak",
   "Ranking_Rating": 325,
   "Ranking_Popularity": 224,
-  "Ranking_PopularitySum": 301,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 266,
@@ -747,6 +747,6 @@
   "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
   "LastChanged": "2022-11-28T20:57:02.2175915+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.1508834+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:57:33.5641616+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:02:26.199744+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:58:20.0666134+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:02:22.2057077+00:00"
 }

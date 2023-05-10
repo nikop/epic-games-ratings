@@ -7,7 +7,7 @@ Rating: 4.12 (Ranked 852)
 | ---- | ---------- | ----- |
 | Attachments | 9.00% | ~3,405 |
 | Unlocked Potential | 8.00% | ~3,027 |
-| Tinkerer | 7.00% | ~2,648 |
+| Tinkerer | 7.00% | ~2,649 |
 | Leapfrogger | 6.00% | ~2,270 |
 | Knock 'Em Dead | 6.00% | ~2,270 |
 | Pilgrimage: Initiate | 6.00% | ~2,270 |
@@ -32,16 +32,16 @@ Rating: 4.12 (Ranked 852)
 | Explorer: Pathfinder | 1.00% | ~378 |
 | Shocker | 1.00% | ~378 |
 | Pilgrimage: Novice | 1.00% | ~378 |
-| The Truth Will Out | 0.90% | ~340 |
-| Forspoken | 0.90% | ~340 |
+| The Truth Will Out | 0.90% | ~341 |
+| Forspoken | 0.90% | ~341 |
 | Wildfire | 0.60% | ~227 |
 | Realized Potential | 0.60% | ~227 |
 | Awakening | 0.50% | ~189 |
 | Explorer: Trailblazer | 0.50% | ~189 |
 | Through the Eyes of Another: Seer | 0.40% | ~151 |
-| Archivist | 0.30% | ~113 |
-| Craftsperson | 0.30% | ~113 |
-| Tit for Tat | 0.30% | ~113 |
+| Archivist | 0.30% | ~114 |
+| Craftsperson | 0.30% | ~114 |
+| Tit for Tat | 0.30% | ~114 |
 | Paragon | 0.20% | ~76 |
 | Call of the Fount: Beatified | 0.20% | ~76 |
 | I Can Fly! | 0.20% | ~76 |
@@ -59,7 +59,7 @@ Rating: 4.12 (Ranked 852)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,833 (Ranked 80)  
+Progressed: 37,836 (Ranked 80)  
 Completed: 1 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.00%) (Ranked 198)
 | 2023-05-07 | 37,697 | 1 |
 | 2023-05-08 | 37,740 | 1 |
 | 2023-05-09 | 37,795 | 1 |
-| 2023-05-10 | 37,833 | 1 |
+| 2023-05-10 | 37,836 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

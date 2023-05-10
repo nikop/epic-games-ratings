@@ -2,7 +2,7 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 124,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4729,
+  "EOS_Progressed": 4730,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -504,6 +504,11 @@
       "Time": "2023-05-10T20:06:55.7759664+00:00",
       "NumProgressed": 4729,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T22:06:59.4069343+00:00",
+      "NumProgressed": 4730,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -571,7 +576,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "ach_campaign_progress10",
@@ -627,7 +632,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "ach_campaign_progress6",
@@ -897,9 +902,9 @@
       "ID": "ach_frp_many_products",
       "SetID": "8cb3id7",
       "Name": "Peddler",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 378
     },
     {
       "ID": "ach_frp_many_products2",
@@ -1122,15 +1127,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4729,
+      "Progressed": 4730,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:34.6921298+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:06:59.4069337+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.697112+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:58:57.0883675+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:34.6922099+00:00"
+  "LastUpdate_Ratings": "2023-05-10T22:00:13.9818907+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:06:59.4070182+00:00"
 }

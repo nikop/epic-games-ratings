@@ -956,7 +956,7 @@
   ],
   "EOS_Progressed": 21685,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2391,9 +2391,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 11276
+      "UsersEstimate": 11493
     },
     {
       "ID": "Collector",
@@ -2615,9 +2615,9 @@
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6289
     },
     {
       "ID": "Skilled",
@@ -2760,8 +2760,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-10T14:59:00.6862703+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:29.915054+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:06:53.2596956+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.5642365+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:58:52.044098+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:29.9151005+00:00"
+  "LastUpdate_Ratings": "2023-05-10T22:00:06.0814003+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:06:53.2597483+00:00"
 }

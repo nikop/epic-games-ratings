@@ -156,9 +156,9 @@
       "ID": "ACH_PROFESSIONAL_TEAM",
       "SetID": "1p69hf1",
       "Name": "Professional team!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
@@ -213,8 +213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:16.9315158+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:06:35.9224201+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.5505621+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:59:20.0305519+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:16.931529+00:00"
+  "LastUpdate_Ratings": "2023-05-10T22:00:45.7146066+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:06:35.9224359+00:00"
 }

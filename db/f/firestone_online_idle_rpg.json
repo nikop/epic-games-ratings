@@ -1471,9 +1471,9 @@
       "ID": "dragonmaster",
       "SetID": "3nl4bcg",
       "Name": "Dragon Master",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 76
     },
     {
       "ID": "dragonslayer",
@@ -1968,8 +1968,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-10T19:59:22.0415837+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:23.8794957+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:06:45.2652676+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:57:59.7115039+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:23.8795774+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:58:51.7997842+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:06:45.2653799+00:00"
 }

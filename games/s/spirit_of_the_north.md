@@ -1,37 +1,37 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 706)  
+Rating: 4.36 (Ranked 707)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~35,787 |
-| INFUSED WITH LIGHT | 52.00% | ~27,775 |
-| FOXIN' AROUND | 28.00% | ~14,956 |
-| FETCH | 27.00% | ~14,422 |
-| BLOOMS OF LIGHT | 26.00% | ~13,888 |
-| BEST FRIENDS | 22.00% | ~11,751 |
-| AWAKEN | 21.00% | ~11,217 |
-| ERADICATE | 20.00% | ~10,683 |
-| SPIRIT BARK | 20.00% | ~10,683 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~35,791 |
+| INFUSED WITH LIGHT | 52.00% | ~27,778 |
+| FOXIN' AROUND | 28.00% | ~14,957 |
+| FETCH | 27.00% | ~14,423 |
+| BLOOMS OF LIGHT | 26.00% | ~13,889 |
+| BEST FRIENDS | 22.00% | ~11,752 |
+| AWAKEN | 21.00% | ~11,218 |
+| ERADICATE | 20.00% | ~10,684 |
+| SPIRIT BARK | 20.00% | ~10,684 |
 | GARDEN OF LIGHT | 18.00% | ~9,615 |
-| SPIRIT FORM | 15.00% | ~8,012 |
-| WRITTEN IN STONE | 15.00% | ~8,012 |
-| UPROOTING DARKNESS | 14.00% | ~7,478 |
+| SPIRIT FORM | 15.00% | ~8,013 |
+| WRITTEN IN STONE | 15.00% | ~8,013 |
+| UPROOTING DARKNESS | 14.00% | ~7,479 |
 | WEIGHTLESS | 11.00% | ~5,876 |
-| SPIRIT DASH | 10.00% | ~5,341 |
-| OLD COMPANION | 8.00% | ~4,273 |
-| PLAGUE DOCTOR | 8.00% | ~4,273 |
+| SPIRIT DASH | 10.00% | ~5,342 |
+| OLD COMPANION | 8.00% | ~4,274 |
+| PLAGUE DOCTOR | 8.00% | ~4,274 |
 | MATCH MAKER | 7.00% | ~3,739 |
 | NORTHERN LIGHTS | 7.00% | ~3,739 |
 | SPIRITED AWAY | 7.00% | ~3,739 |
-| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,602 |
+| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,603 |
 | ANCIENT HISTORY | 2.00% | ~1,068 |
 | NONE FORGOTTEN | 2.00% | ~1,068 |
-| KINDRED SPIRITS | 0.60% | ~320 |
+| KINDRED SPIRITS | 0.60% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,414 (Ranked 72)  
+Progressed: 53,419 (Ranked 72)  
 Completed: 250 (0.47%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 250 (0.47%) (Ranked 105)
 | 2023-05-07 | 53,066 | 248 |
 | 2023-05-08 | 53,200 | 249 |
 | 2023-05-09 | 53,310 | 250 |
-| 2023-05-10 | 53,414 | 250 |
+| 2023-05-10 | 53,419 | 250 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 463)  
 Sum: 93 (Ranked 400)  

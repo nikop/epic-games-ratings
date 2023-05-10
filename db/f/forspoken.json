@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37833,
+  "EOS_Progressed": 37836,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1429,6 +1429,11 @@
       "Time": "2023-05-10T21:05:26.6109181+00:00",
       "NumProgressed": 37833,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T22:06:48.765475+00:00",
+      "NumProgressed": 37836,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1448,7 +1453,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CAMP",
@@ -1544,7 +1549,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -1568,7 +1573,7 @@
       "Name": "Forspoken",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -1584,7 +1589,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CRAFT_FIRST",
@@ -1592,7 +1597,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "CUFF_ATTACK",
@@ -1624,7 +1629,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "LEAPFROG",
@@ -1863,22 +1868,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37833,
+      "Progressed": 37836,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2670,
-      "Completed": 2670
+      "Progressed": 2673,
+      "Completed": 2673
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-08T09:00:28.4742824+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:26.6109178+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:06:48.7654747+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:58:33.8877268+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:26.6109652+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:59:35.778651+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:06:48.7655337+00:00"
 }

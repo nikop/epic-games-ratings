@@ -2,7 +2,7 @@
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
-  "Ranking_Rating": 774,
+  "Ranking_Rating": 775,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 51,
@@ -218,9 +218,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161340,
+  "EOS_Progressed": 161381,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5659,
+  "EOS_NewPlayers": 5655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2038,6 +2038,11 @@
       "Time": "2023-05-10T21:05:39.8837155+00:00",
       "NumProgressed": 161340,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T22:07:06.6446471+00:00",
+      "NumProgressed": 161381,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -2049,7 +2054,7 @@
       "Name": "Absolute pin",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 70990
+      "UsersEstimate": 71008
     },
     {
       "ID": "AlekhinesGun",
@@ -2073,7 +2078,7 @@
       "Name": "Blind Pigs",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "BobbyTime",
@@ -2081,7 +2086,7 @@
       "Name": "Bobby Time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "BodensMate",
@@ -2097,7 +2102,7 @@
       "Name": "Check",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 83897
+      "UsersEstimate": 83918
     },
     {
       "ID": "Checkmate",
@@ -2105,7 +2110,7 @@
       "Name": "Checkmate",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 45175
+      "UsersEstimate": 45187
     },
     {
       "ID": "ChessChampion",
@@ -2121,7 +2126,7 @@
       "Name": "Chop Wood",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 106484
+      "UsersEstimate": 106511
     },
     {
       "ID": "DoubleCheck",
@@ -2129,7 +2134,7 @@
       "Name": "Double Check",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11294
+      "UsersEstimate": 11297
     },
     {
       "ID": "DoubledPawn",
@@ -2137,7 +2142,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 85510
+      "UsersEstimate": 85532
     },
     {
       "ID": "Elo",
@@ -2145,7 +2150,7 @@
       "Name": "ELO",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6455
     },
     {
       "ID": "EloElo",
@@ -2153,7 +2158,7 @@
       "Name": "ELO ELO",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 4840
+      "UsersEstimate": 4841
     },
     {
       "ID": "EloEloElo",
@@ -2161,7 +2166,7 @@
       "Name": "ELO ELO ELO",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "EnPassant",
@@ -2169,7 +2174,7 @@
       "Name": "En Passant",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12907
+      "UsersEstimate": 12910
     },
     {
       "ID": "EpauletteMate",
@@ -2185,7 +2190,7 @@
       "Name": "Family Fork",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "FoolsMate",
@@ -2201,7 +2206,7 @@
       "Name": "Friendly Fire",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "Learner",
@@ -2209,7 +2214,7 @@
       "Name": "Learner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "O-O",
@@ -2217,7 +2222,7 @@
       "Name": "O-O",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35495
+      "UsersEstimate": 35504
     },
     {
       "ID": "O-O-O",
@@ -2225,7 +2230,7 @@
       "Name": "O-O-O",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19361
+      "UsersEstimate": 19366
     },
     {
       "ID": "Octopus",
@@ -2233,7 +2238,7 @@
       "Name": "Octopus",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19361
+      "UsersEstimate": 19366
     },
     {
       "ID": "PieceCollector",
@@ -2241,7 +2246,7 @@
       "Name": "Piece Collector",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "ProblemSolved",
@@ -2265,7 +2270,7 @@
       "Name": "Promotion",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 46789
+      "UsersEstimate": 46800
     },
     {
       "ID": "QueenSacrifice",
@@ -2273,7 +2278,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 30655
+      "UsersEstimate": 30662
     },
     {
       "ID": "ScholarsMate",
@@ -2289,7 +2294,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30655
+      "UsersEstimate": 30662
     },
     {
       "ID": "Stalemate",
@@ -2297,7 +2302,7 @@
       "Name": "Stalemate",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 27428
+      "UsersEstimate": 27435
     },
     {
       "ID": "StrangerDanger",
@@ -2305,7 +2310,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19361
+      "UsersEstimate": 19366
     },
     {
       "ID": "TournamentAmateur",
@@ -2345,14 +2350,14 @@
       "Name": "Underpromote",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6455
     }
   ],
   "AchievementSets": [
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 161340,
+      "Progressed": 161381,
       "Completed": 0
     }
   ],
@@ -2360,8 +2365,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-05-06T20:58:38.5652686+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:39.8837151+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:07:06.6446468+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:33.6437598+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:57:12.3259484+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:39.8837535+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:57:47.0586102+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:07:06.6446959+00:00"
 }

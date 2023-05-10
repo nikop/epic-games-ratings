@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~174 |
 | Wet Feet | 0.20% | ~174 |
 | Hatchlings Underfoot | 0.20% | ~174 |
+| The Lutes of Loomlurch | 0.20% | ~107 |
 | Supply Run | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~107 |
 | The Evacuation of Waterdeep | 0.20% | ~107 |
@@ -69,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~107 |
 | Hands Off! | 0.20% | ~107 |
 | The Dread Domain of Tovag | 0.20% | ~107 |
+| Weak Doesn't Mean Feeble | 0.20% | ~107 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~107 |
 | Kas the Bloody Handed | 0.20% | ~107 |
 | Kas the Destroyer | 0.20% | ~107 |
@@ -211,7 +213,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Frozen Feywild | 0.10% | ~53 |
 | The Roots of Loomlurch | 0.10% | ~53 |
 | The Loots of Loomlurch | 0.10% | ~53 |
-| The Lutes of Loomlurch | 0.10% | ~53 |
 | Best Laid Plans | 0.10% | ~53 |
 | Pincushion Party | 0.10% | ~53 |
 | G. O. A. T. | 0.10% | ~53 |
@@ -228,7 +229,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | More Than Well Equipped | 0.10% | ~53 |
 | Arcane Efforts | 0.10% | ~53 |
 | To Avernus in a Handbasket | 0.10% | ~53 |
-| Weak Doesn't Mean Feeble | 0.10% | ~53 |
 | Clowning Around | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
 | Anti-Dexterous Explorers | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,090 (Ranked 59)  
+Progressed: 87,092 (Ranked 59)  
 Completed: 1,823 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,823 (2.09%) (Ranked 60)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,090 | 1,823 |
+| 2023-05-10 | 87,092 | 1,823 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,846 (Ranked 37)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -4488,9 +4488,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 780493,
+  "EOS_Progressed": 780495,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1104,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6263,6 +6263,11 @@
       "Time": "2023-05-10T21:05:27.8175422+00:00",
       "NumProgressed": 780493,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-10T22:06:50.4188799+00:00",
+      "NumProgressed": 780495,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -6386,7 +6391,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 195123
+      "UsersEstimate": 195124
     },
     {
       "ID": "Chivalrous",
@@ -6434,7 +6439,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78049
+      "UsersEstimate": 78050
     },
     {
       "ID": "DavidHorak",
@@ -6474,7 +6479,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179513
+      "UsersEstimate": 179514
     },
     {
       "ID": "Fighter",
@@ -6554,7 +6559,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70244
+      "UsersEstimate": 70245
     },
     {
       "ID": "HardcoreHenry",
@@ -6882,7 +6887,7 @@
       "Name": "Traveller",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78049
+      "UsersEstimate": 78050
     },
     {
       "ID": "TrialAndError",
@@ -6929,15 +6934,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 780493,
+      "Progressed": 780495,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-05-10T18:59:41.5741657+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:27.8175419+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:06:50.4188796+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:36.7621018+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:58:21.9974339+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:27.8176403+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:59:18.237236+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:06:50.4189806+00:00"
 }

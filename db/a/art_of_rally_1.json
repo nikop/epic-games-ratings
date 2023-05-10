@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9987,
+  "EOS_Progressed": 9988,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -341,6 +341,11 @@
       "Time": "2023-05-10T14:06:59.62952+00:00",
       "NumProgressed": 9987,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-10T22:06:23.97643+00:00",
+      "NumProgressed": 9988,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -376,7 +381,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -472,7 +477,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -512,7 +517,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7690
+      "UsersEstimate": 7691
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -592,7 +597,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "ACH_NIGHT",
@@ -600,7 +605,7 @@
       "Name": "night ride",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -608,7 +613,7 @@
       "Name": "the artist",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH_RAIN",
@@ -616,7 +621,7 @@
       "Name": "snorkel",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH_ROLL",
@@ -695,15 +700,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 9987,
+      "Progressed": 9988,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:07.9280999+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:06:23.9764296+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:45.0012761+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:57:24.1962378+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:07.9281348+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:58:04.233781+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:06:23.9764759+00:00"
 }

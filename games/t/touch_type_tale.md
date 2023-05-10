@@ -9,7 +9,7 @@
 | Economics 101 | 66.00% | ~1,682 |
 | Get Rich Quick | 48.00% | ~1,224 |
 | Do the Splits | 41.00% | ~1,045 |
-| Maestro | 28.00% | ~714 |
+| Maestro | 29.00% | ~739 |
 | Full Employment | 19.00% | ~484 |
 | Clay Fighter | 18.00% | ~459 |
 | Nowhere left to Hide | 15.00% | ~382 |

@@ -8,7 +8,7 @@
 | Medal of honor | 38.00% | ~59 |
 | Life matters | 36.00% | ~55 |
 | Safety first | 33.00% | ~51 |
-| Professional team! | 23.00% | ~35 |
+| Professional team! | 24.00% | ~37 |
 | Dawn of Victory | 15.00% | ~23 |
 | Team assemble | 14.00% | ~22 |
 | Resource manager | 12.00% | ~18 |

@@ -3616,9 +3616,9 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87090,
+  "EOS_Progressed": 87092,
   "EOS_Completed": 1823,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5391,6 +5391,11 @@
       "Time": "2023-05-10T21:05:52.5059337+00:00",
       "NumProgressed": 87090,
       "NumCompleted": 1823
+    },
+    {
+      "Time": "2023-05-10T22:07:22.9961338+00:00",
+      "NumProgressed": 87092,
+      "NumCompleted": 1823
     }
   ],
   "TotalAchievements": 489,
@@ -5952,9 +5957,9 @@
       "ID": "objective_completed_1139",
       "SetID": "415jc5c",
       "Name": "The Lutes of Loomlurch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_114",
@@ -6192,9 +6197,9 @@
       "ID": "objective_completed_1184",
       "SetID": "415jc5c",
       "Name": "Weak Doesn\u0027t Mean Feeble",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1185",
@@ -9313,21 +9318,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53364,
+      "Progressed": 53366,
       "Completed": 2488
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87090,
+      "Progressed": 87092,
       "Completed": 1823
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-10T18:59:25.706+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:52.5059333+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:07:22.9961331+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:58:06.7248257+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:52.5084769+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:58:57.0338337+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:07:22.9986849+00:00"
 }

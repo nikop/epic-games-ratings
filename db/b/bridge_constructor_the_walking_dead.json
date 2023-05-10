@@ -2,7 +2,7 @@
   "ID": "39697c68e46b48d2b75e17bdc417d859",
   "Name": "Bridge Constructor: The Walking Dead",
   "ProductSlug": "bridge-constructor-the-walking-dead",
-  "Ranking_Rating": 896,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 395,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.92,
+  "Rating": 3.93,
   "NumberOfRatings": 104,
   "RatingHistory": [
     {
@@ -302,6 +302,12 @@
       "Rating": 3.92,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-05-10T22:01:09.0495057+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 29,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
@@ -327,8 +333,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
-  "LastChanged": "2023-04-05T06:58:20.468964+00:00",
+  "LastChanged": "2023-05-10T22:01:09.0495055+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.3347024+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:59:35.2952696+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:04:20.3505762+00:00"
+  "LastUpdate_Ratings": "2023-05-10T22:01:09.049506+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:05:29.8216538+00:00"
 }

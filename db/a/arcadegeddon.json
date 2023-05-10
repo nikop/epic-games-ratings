@@ -709,9 +709,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6306,
+  "EOS_Progressed": 6307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1639,6 +1639,11 @@
       "Time": "2023-05-10T21:05:19.2778849+00:00",
       "NumProgressed": 6306,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T22:06:39.0904245+00:00",
+      "NumProgressed": 6307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1650,7 +1655,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5045
+      "UsersEstimate": 5046
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -1674,7 +1679,7 @@
       "Name": "Clips and Crits",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -1682,7 +1687,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -1706,7 +1711,7 @@
       "Name": "Field Medic",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -1714,7 +1719,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -1754,7 +1759,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -1762,7 +1767,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -1770,7 +1775,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -1794,7 +1799,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 5738
+      "UsersEstimate": 5739
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -1850,7 +1855,7 @@
       "Name": "Photogenic",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 5486
+      "UsersEstimate": 5487
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -1866,7 +1871,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -1874,7 +1879,7 @@
       "Name": "Poppin Noggins",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "ACH_PYROTECHNICAL",
@@ -1954,7 +1959,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 5360
+      "UsersEstimate": 5361
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -2010,7 +2015,7 @@
       "Name": "Ticket Titan",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_TICKET_TODDLER",
@@ -2049,15 +2054,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 6306,
+      "Progressed": 6307,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-04T16:58:15.4550999+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:05:19.2778844+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:06:39.0904242+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:34.2924475+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:58:21.2182459+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:05:19.2779308+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:59:17.2559695+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:06:39.0904759+00:00"
 }

@@ -76,9 +76,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Dust_fighter",
@@ -204,9 +204,9 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -218,8 +218,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-10T21:00:46.9004541+00:00",
+  "LastChanged_Achievements": "2023-05-10T22:02:56.2090147+00:00",
   "LastUpdate_AppInfo": "2023-05-08T14:58:36.6916699+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:57:10.2478926+00:00",
-  "LastUpdate_Achievements": "2023-05-10T21:00:46.9004788+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:57:45.0027829+00:00",
+  "LastUpdate_Achievements": "2023-05-10T22:02:56.2090352+00:00"
 }

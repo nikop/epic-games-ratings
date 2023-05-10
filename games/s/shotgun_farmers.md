@@ -12,9 +12,9 @@
 | 10K | 31.00% | ~11 |
 | 15K | 28.00% | ~10 |
 | Skin Of Your Teeth | 22.00% | ~8 |
+| Pork Chop Express | 22.00% | ~8 |
 | Drinking Problem | 19.00% | ~7 |
 | Graveside Survivor | 19.00% | ~7 |
-| Pork Chop Express | 19.00% | ~7 |
 | Eggtraordinary | 14.00% | ~5 |
 | Carrocketeer | 14.00% | ~5 |
 | Fresh Pancake | 11.00% | ~4 |

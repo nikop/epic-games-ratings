@@ -11,8 +11,8 @@ Rating: 4.49 (Ranked 552)
 | Discovery | 63.00% | ~13,662 |
 | Swift Rift Removers | 56.00% | ~12,144 |
 | Fully Upgraded | 55.00% | ~11,927 |
+| I collect Spores, Molds, and Fungi | 53.00% | ~11,493 |
 | Cultured | 53.00% | ~11,493 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,276 |
 | Vaporous Expansion | 49.00% | ~10,626 |
 | Teamwork | 45.00% | ~9,758 |
 | There you are! | 44.00% | ~9,541 |
@@ -23,8 +23,8 @@ Rating: 4.49 (Ranked 552)
 | Solo Capture | 32.00% | ~6,939 |
 | Ghostbuster In Training | 31.00% | ~6,722 |
 | Icing on the Cake | 30.00% | ~6,506 |
+| Side Hustle | 29.00% | ~6,289 |
 | Legions | 28.00% | ~6,072 |
-| Side Hustle | 28.00% | ~6,072 |
 | We have the best insurance | 27.00% | ~5,855 |
 | Pesky Jerks | 27.00% | ~5,855 |
 | Right back at ya | 27.00% | ~5,855 |
