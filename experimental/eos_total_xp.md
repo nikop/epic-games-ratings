@@ -356,6 +356,7 @@
 | [The Captain is Dead](../games/t/the_captain_is_dead.md) | 36 | 1,000 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 11 | 1,000 |
 | [The Complex](../games/t/the_complex.md) | 20 | 1,000 |
+| [The Crown of Wu](../games/t/the_crown_of_wu.md) | 37 | 1,000 |
 | [The Cullfield Ritual](../games/t/the_cullfield_ritual.md) | 12 | 1,000 |
 | [The Entropy Centre](../games/t/the_entropy_centre.md) | 27 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |

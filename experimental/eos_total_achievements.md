@@ -178,6 +178,7 @@
 | [PUBG: BATTLEGROUNDS](../games/p/pubg__battlegrounds.md) | 37 | 1,000 |
 | [RAILGRADE](../games/r/railgrade.md) | 37 | 1,000 |
 | [Salt and Sanctuary](../games/s/salt_and_sanctuary.md) | 37 | 1,000 |
+| [The Crown of Wu](../games/t/the_crown_of_wu.md) | 37 | 1,000 |
 | [ANNO Mutationem](../games/a/anno_mutationem.md) | 36 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |
 | [Deceive Inc.](../games/d/deceive_inc..md) | 36 | 1,000 |

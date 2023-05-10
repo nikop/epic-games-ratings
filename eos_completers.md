@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 10 | [Island Cities](games/i/island_cities.md) | 18.46% |
+| 10 | [Island Cities](games/i/island_cities.md) | 18.18% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 13 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -20,13 +20,13 @@
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.69% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
-| 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
+| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.19% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.36% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -51,7 +51,7 @@
 | 49 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 52 | [ZZT!](games/z/zzt!.md) | 2.78% |
+| 52 | [ZZT!](games/z/zzt!.md) | 2.82% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
@@ -61,11 +61,11 @@
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
-| 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
+| 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
-| 64 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.69% |
-| 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 65 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.67% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
 | 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 68 | [Somerville](games/s/somerville.md) | 1.61% |
@@ -97,7 +97,7 @@
 | 94 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 96 | [Train Valley](games/t/train_valley.md) | 0.73% |
 | 97 | [Haven](games/h/haven.md) | 0.72% |
-| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.70% |
+| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
 | 99 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 100 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
