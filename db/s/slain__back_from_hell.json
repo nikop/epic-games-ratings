@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -175,7 +175,7 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 19883,
+  "EOS_Progressed": 19887,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 0,
@@ -1905,6 +1905,11 @@
       "Time": "2023-05-10T04:05:22.4407094+00:00",
       "NumProgressed": 19883,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-10T05:05:28.0685955+00:00",
+      "NumProgressed": 19887,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 29,
@@ -1916,7 +1921,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3182
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -1924,7 +1929,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2098,9 +2103,9 @@
       "ID": "ACH_25_TALISMAN_COMPLETE",
       "SetID": "443p4o4",
       "Name": "That\u0027ll Come In Handy...",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -2147,7 +2152,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 19883,
+      "Progressed": 19887,
       "Completed": 14
     }
   ],
@@ -2155,8 +2160,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
-  "LastChanged_Achievements": "2023-05-10T04:05:22.440709+00:00",
+  "LastChanged_Achievements": "2023-05-10T05:05:28.0685949+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.2822478+00:00",
-  "LastUpdate_Ratings": "2023-05-10T03:59:28.3681496+00:00",
-  "LastUpdate_Achievements": "2023-05-10T04:05:22.4407335+00:00"
+  "LastUpdate_Ratings": "2023-05-10T04:59:37.6681341+00:00",
+  "LastUpdate_Achievements": "2023-05-10T05:05:28.0686262+00:00"
 }

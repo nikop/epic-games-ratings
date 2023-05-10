@@ -6,22 +6,22 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death From Above | 47.00% | ~597,797 |
-| Unseen Assassin | 46.00% | ~585,078 |
-| Master of the Household | 39.00% | ~496,044 |
-| Death of the Party | 37.00% | ~470,606 |
-| NEXUS-47 | 34.00% | ~432,449 |
-| The Last Tango | 32.00% | ~407,011 |
-| Nightmare Fuel | 31.00% | ~394,291 |
-| The Result of Previous Training | 28.00% | ~356,134 |
-| Tools of the Trade | 28.00% | ~356,134 |
-| Cleared for Field Duty | 27.00% | ~343,415 |
-| Seizing the Opportunity | 25.00% | ~317,977 |
-| Bullet Train | 22.00% | ~279,820 |
-| Stylish Assassin | 19.00% | ~241,663 |
-| Silent Assassin | 14.00% | ~178,067 |
-| Rise Up | 13.00% | ~165,348 |
-| Evil Wine Club | 12.00% | ~152,629 |
+| Death From Above | 47.00% | ~597,800 |
+| Unseen Assassin | 46.00% | ~585,080 |
+| Master of the Household | 39.00% | ~496,046 |
+| Death of the Party | 37.00% | ~470,608 |
+| NEXUS-47 | 34.00% | ~432,451 |
+| The Last Tango | 32.00% | ~407,012 |
+| Nightmare Fuel | 31.00% | ~394,293 |
+| The Result of Previous Training | 28.00% | ~356,136 |
+| Tools of the Trade | 28.00% | ~356,136 |
+| Cleared for Field Duty | 27.00% | ~343,417 |
+| Seizing the Opportunity | 25.00% | ~317,978 |
+| Bullet Train | 22.00% | ~279,821 |
+| Stylish Assassin | 19.00% | ~241,664 |
+| Silent Assassin | 14.00% | ~178,068 |
+| Rise Up | 13.00% | ~165,349 |
+| Evil Wine Club | 12.00% | ~152,630 |
 | Console Cowboy | 10.00% | ~127,191 |
 | Last Stop | 10.00% | ~127,191 |
 | A New Profile | 9.00% | ~114,472 |
@@ -31,18 +31,18 @@ Number of Ratings: 21,082  (23.09.2022)
 | Train Surfing | 8.00% | ~101,753 |
 | Family Feud | 7.00% | ~89,034 |
 | Icebreaker | 7.00% | ~89,034 |
-| Rich Harvest | 6.00% | ~76,314 |
-| Count Down From 47 | 6.00% | ~76,314 |
-| Shortcut Killer | 5.00% | ~63,595 |
-| Treacherous Architecture | 5.00% | ~63,595 |
-| Stair Master | 5.00% | ~63,595 |
-| Followed the Trails | 5.00% | ~63,595 |
-| Last Call | 5.00% | ~63,595 |
-| Upstairs, Downstairs | 4.00% | ~50,876 |
-| The Great Outdoors | 4.00% | ~50,876 |
-| Partied Out | 4.00% | ~50,876 |
-| Surveillance Master | 4.00% | ~50,876 |
-| Hack the Planet | 4.00% | ~50,876 |
+| Rich Harvest | 6.00% | ~76,315 |
+| Count Down From 47 | 6.00% | ~76,315 |
+| Shortcut Killer | 5.00% | ~63,596 |
+| Treacherous Architecture | 5.00% | ~63,596 |
+| Stair Master | 5.00% | ~63,596 |
+| Followed the Trails | 5.00% | ~63,596 |
+| Last Call | 5.00% | ~63,596 |
+| Upstairs, Downstairs | 4.00% | ~50,877 |
+| The Great Outdoors | 4.00% | ~50,877 |
+| Partied Out | 4.00% | ~50,877 |
+| Surveillance Master | 4.00% | ~50,877 |
+| Hack the Planet | 4.00% | ~50,877 |
 | Training Escalated | 3.00% | ~38,157 |
 | Keep Your Eyes Peeled | 3.00% | ~38,157 |
 | Warehouse Veteran | 3.00% | ~38,157 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~12,719 |
 | The Creative Assassin | 0.70% | ~8,903 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,271,908 (Ranked 8)  
+Progressed: 1,271,914 (Ranked 8)  
 Completed: 2,058 (0.16%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,15 +74,15 @@ Completed: 2,058 (0.16%) (Ranked 142)
 | 2023-05-07 | 1,271,115 | 2,058 |
 | 2023-05-08 | 1,271,515 | 2,058 |
 | 2023-05-09 | 1,271,866 | 2,058 |
-| 2023-05-10 | 1,271,908 | 2,058 |
+| 2023-05-10 | 1,271,914 | 2,058 |
 ## Awards
 Max (Diverse Characters): 8,899  (Ranked 37)  
-Sum: 65,551 (Ranked 18)  
+Sum: 65,561 (Ranked 18)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 8,899 |
-| This game is Highly Recommended | 8,587 |
+| This game is Highly Recommended | 8,597 |
 | This game is Extremely Fun | 8,508 |
 | This game is Great for Beginners | 8,394 |
 | This game has Amazing Storytelling | 8,297 |
@@ -226,3 +226,4 @@ Diff (max vs sum): 19
 | 2023-05-07 | 4.78 | - | 8,871 | 65,460 |
 | 2023-05-08 | 4.78 | - | 8,889 | 65,512 |
 | 2023-05-09 | 4.78 | - | 8,899 | 65,551 |
+| 2023-05-10 | 4.78 | - | 8,899 | 65,561 |

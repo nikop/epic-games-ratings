@@ -7,7 +7,7 @@
 | To Hell In A Handcart | 70.00% | ~101 |
 | Read Between The Lines | 63.00% | ~91 |
 | High Profile | 63.00% | ~91 |
-| Whispers In The Dark | 61.00% | ~88 |
+| Whispers In The Dark | 62.00% | ~89 |
 | A Method To His Madness | 55.00% | ~79 |
 | Fond Memories | 54.00% | ~78 |
 | History Check | 54.00% | ~78 |
@@ -28,13 +28,13 @@
 | Brain Food | 40.00% | ~58 |
 | Let Me Be Frank | 37.00% | ~53 |
 | No Stone Unturned | 35.00% | ~50 |
-| Curiosity Killed The Cat | 25.00% | ~36 |
+| Curiosity Killed The Cat | 26.00% | ~37 |
 | Read It And Weep | 24.00% | ~35 |
 | Big Breakthrough | 23.00% | ~33 |
 | Reawakened | 11.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 144 (Ranked 241)  
-Completed: 10 (6.94%) (Ranked 24)  
+Completed: 10 (6.94%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

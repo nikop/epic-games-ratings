@@ -5,23 +5,23 @@ Rating: 3.30 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 85.00% | ~1,254 |
-| Home Is Where the Heart Is | 67.00% | ~988 |
-| Ne Plus Ultra | 66.00% | ~974 |
-| Wounded Whispers | 66.00% | ~974 |
-| Blood Will Have Blood | 54.00% | ~796 |
+| I Like My Stakes Rare! | 85.00% | ~1,255 |
+| Home Is Where the Heart Is | 67.00% | ~990 |
+| Ne Plus Ultra | 66.00% | ~975 |
+| Wounded Whispers | 66.00% | ~975 |
+| Blood Will Have Blood | 54.00% | ~798 |
 | ICU | 50.00% | ~738 |
-| Catch and Release | 49.00% | ~723 |
-| Peek-a-boo | 48.00% | ~708 |
-| Sucks To Be You | 47.00% | ~693 |
-| Welcome to the Neighborhood | 41.00% | ~605 |
-| Fly Fisher | 38.00% | ~560 |
+| Catch and Release | 49.00% | ~724 |
+| Peek-a-boo | 48.00% | ~709 |
+| Sucks To Be You | 47.00% | ~694 |
+| Welcome to the Neighborhood | 41.00% | ~606 |
+| Fly Fisher | 38.00% | ~561 |
 | Throw The First Stone | 37.00% | ~546 |
-| Enter of Your Own Free Will | 35.00% | ~516 |
-| Heart Attack | 35.00% | ~516 |
+| Enter of Your Own Free Will | 35.00% | ~517 |
+| Heart Attack | 34.00% | ~502 |
 | Skin of Their Teeth | 34.00% | ~502 |
 | Grounded | 25.00% | ~369 |
-| Bad Wiring | 23.00% | ~339 |
+| Bad Wiring | 23.00% | ~340 |
 | I Spit On Your Grave | 21.00% | ~310 |
 | Neighborhood Revitalization | 17.00% | ~251 |
 | Radio Silence | 17.00% | ~251 |
@@ -29,7 +29,7 @@ Rating: 3.30 (Ranked 920)
 | You Clean It Up | 12.00% | ~177 |
 | Starve the Beast | 9.00% | ~133 |
 | Block Party | 8.00% | ~118 |
-| From the Shadows | 6.00% | ~88 |
+| From the Shadows | 6.00% | ~89 |
 | Revelations | 4.00% | ~59 |
 | Bell-ringer | 4.00% | ~59 |
 | Right This Way | 4.00% | ~59 |
@@ -72,7 +72,7 @@ Rating: 3.30 (Ranked 920)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,475 (Ranked 152)  
+Progressed: 1,477 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 1,412 | 0 |
 | 2023-05-08 | 1,446 | 0 |
 | 2023-05-09 | 1,472 | 0 |
-| 2023-05-10 | 1,475 | 0 |
+| 2023-05-10 | 1,477 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

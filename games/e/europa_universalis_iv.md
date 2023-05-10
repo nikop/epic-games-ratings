@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,994 |
+| Until death do us apart | 9.00% | ~2,995 |
 | That's a Grand Army | 8.00% | ~2,662 |
 | That is mine! | 8.00% | ~2,662 |
 | Victorious! | 8.00% | ~2,662 |
-| Brothers in Arms | 6.00% | ~1,996 |
-| That's a Grand Navy | 6.00% | ~1,996 |
-| Seriously?! | 6.00% | ~1,996 |
-| For the Glory | 5.00% | ~1,663 |
+| Brothers in Arms | 6.00% | ~1,997 |
+| That's a Grand Navy | 6.00% | ~1,997 |
+| Seriously?! | 6.00% | ~1,997 |
+| For the Glory | 5.00% | ~1,664 |
 | Cold War | 4.00% | ~1,331 |
 | True Catholic | 4.00% | ~1,331 |
 | Defender of the Faith | 3.00% | ~998 |
 | It's all about the money | 3.00% | ~998 |
 | Respected | 3.00% | ~998 |
-| Blockader | 2.00% | ~665 |
-| Combined Arms | 2.00% | ~665 |
-| Double the Love | 2.00% | ~665 |
-| Gentle Persuasion | 2.00% | ~665 |
-| It's all about luck | 2.00% | ~665 |
-| Queen of Conquest | 2.00% | ~665 |
-| Royal Authority | 2.00% | ~665 |
-| The Princess is in this Castle | 2.00% | ~665 |
-| Total Control | 2.00% | ~665 |
-| Truly Divine Ruler | 2.00% | ~665 |
+| Blockader | 2.00% | ~666 |
+| Combined Arms | 2.00% | ~666 |
+| Double the Love | 2.00% | ~666 |
+| Gentle Persuasion | 2.00% | ~666 |
+| It's all about luck | 2.00% | ~666 |
+| Queen of Conquest | 2.00% | ~666 |
+| Royal Authority | 2.00% | ~666 |
+| The Princess is in this Castle | 2.00% | ~666 |
+| Total Control | 2.00% | ~666 |
+| Truly Divine Ruler | 2.00% | ~666 |
 | Agressive Expander | 1.00% | ~333 |
 | All That's Thine Shall Be Mine | 1.00% | ~333 |
 | Azur semé de lis or | 1.00% | ~333 |
@@ -226,6 +226,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sailor Mon | 0.10% | ~33 |
 | Saladins Legacy | 0.10% | ~33 |
 | Shahanshah | 0.10% | ~33 |
+| Sikh Pun | 0.10% | ~33 |
 | Sinaasappel! | 0.10% | ~33 |
 | The Six Nations | 0.10% | ~33 |
 | Spaghetti Western | 0.10% | ~33 |
@@ -332,7 +333,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sakoku Law | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
-| Sikh Pun | 0.00% | ~0 |
 | Sleepless in Seattle | 0.00% | ~0 |
 | Sons of Carthage | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,269 (Ranked 81)  
+Progressed: 33,276 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,7 +381,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
-| 2023-05-10 | 33,269 | 0 |
+| 2023-05-10 | 33,276 | 0 |
 ## Awards
 Max (Educational): 5,201  (Ranked 60)  
 Sum: 43,010 (Ranked 27)  

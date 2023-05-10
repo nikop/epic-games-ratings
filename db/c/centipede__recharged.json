@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -284,7 +284,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13413,
+  "EOS_Progressed": 13414,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
@@ -1659,6 +1659,11 @@
       "Time": "2023-05-10T04:05:07.7776284+00:00",
       "NumProgressed": 13413,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-05-10T05:05:13.0094022+00:00",
+      "NumProgressed": 13414,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 16,
@@ -1718,7 +1723,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4426
+      "UsersEstimate": 4427
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -1734,7 +1739,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -1782,7 +1787,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "The_Reaper",
@@ -1797,15 +1802,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13413,
+      "Progressed": 13414,
       "Completed": 81
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-07T21:00:36.3506602+00:00",
-  "LastChanged_Achievements": "2023-05-10T04:05:07.7776279+00:00",
+  "LastChanged_Achievements": "2023-05-10T05:05:13.0094016+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.5820477+00:00",
-  "LastUpdate_Ratings": "2023-05-10T03:58:43.9629256+00:00",
-  "LastUpdate_Achievements": "2023-05-10T04:05:07.7776443+00:00"
+  "LastUpdate_Ratings": "2023-05-10T04:58:52.6294351+00:00",
+  "LastUpdate_Achievements": "2023-05-10T05:05:13.0094452+00:00"
 }

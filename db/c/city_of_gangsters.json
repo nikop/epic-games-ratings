@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 310835,
+  "EOS_Progressed": 310838,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2492,
+  "EOS_NewPlayers": 2484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2033,6 +2033,11 @@
       "Time": "2023-05-10T04:04:58.6775993+00:00",
       "NumProgressed": 310835,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-10T05:05:03.7786506+00:00",
+      "NumProgressed": 310838,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 80,
@@ -2060,7 +2065,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37300
+      "UsersEstimate": 37301
     },
     {
       "ID": "ach004",
@@ -2100,7 +2105,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37300
+      "UsersEstimate": 37301
     },
     {
       "ID": "ach009",
@@ -2172,7 +2177,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 37300
+      "UsersEstimate": 37301
     },
     {
       "ID": "ach018",
@@ -2180,7 +2185,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21758
+      "UsersEstimate": 21759
     },
     {
       "ID": "ach019",
@@ -2188,7 +2193,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12433
+      "UsersEstimate": 12434
     },
     {
       "ID": "ach020",
@@ -2252,7 +2257,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 142984
+      "UsersEstimate": 142985
     },
     {
       "ID": "ach028",
@@ -2260,7 +2265,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12433
+      "UsersEstimate": 12434
     },
     {
       "ID": "ach029",
@@ -2292,7 +2297,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12433
+      "UsersEstimate": 12434
     },
     {
       "ID": "ach033",
@@ -2380,7 +2385,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21758
+      "UsersEstimate": 21759
     },
     {
       "ID": "ach044",
@@ -2388,7 +2393,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12433
+      "UsersEstimate": 12434
     },
     {
       "ID": "ach045",
@@ -2404,7 +2409,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21758
+      "UsersEstimate": 21759
     },
     {
       "ID": "ach047",
@@ -2620,7 +2625,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 12433
+      "UsersEstimate": 12434
     },
     {
       "ID": "ach075",
@@ -2683,7 +2688,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 310835,
+      "Progressed": 310838,
       "Completed": 3
     }
   ],
@@ -2691,8 +2696,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-05-09T02:58:45.0459697+00:00",
-  "LastChanged_Achievements": "2023-05-10T04:04:58.677599+00:00",
+  "LastChanged_Achievements": "2023-05-10T05:05:03.7786502+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:04.018931+00:00",
-  "LastUpdate_Ratings": "2023-05-10T03:57:39.7883199+00:00",
-  "LastUpdate_Achievements": "2023-05-10T04:04:58.6776753+00:00"
+  "LastUpdate_Ratings": "2023-05-10T04:57:45.25423+00:00",
+  "LastUpdate_Achievements": "2023-05-10T05:05:03.7787348+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -402,7 +402,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18318,
+  "EOS_Progressed": 18319,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -1047,6 +1047,11 @@
       "Time": "2023-05-10T04:05:13.5386817+00:00",
       "NumProgressed": 18318,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-10T05:05:19.156132+00:00",
+      "NumProgressed": 18319,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 37,
@@ -1090,7 +1095,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15204
+      "UsersEstimate": 15205
     },
     {
       "ID": "ach.060.goingdistance",
@@ -1130,7 +1135,7 @@
       "Name": "Indecisive",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "ach.110.multiverse",
@@ -1154,7 +1159,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 16486
+      "UsersEstimate": 16487
     },
     {
       "ID": "ach.140.legacy",
@@ -1162,7 +1167,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 17952
+      "UsersEstimate": 17953
     },
     {
       "ID": "ach.150.pocket",
@@ -1194,7 +1199,7 @@
       "Name": "Inspector",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 10624
+      "UsersEstimate": 10625
     },
     {
       "ID": "ach.190.scenic",
@@ -1250,7 +1255,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17036
+      "UsersEstimate": 17037
     },
     {
       "ID": "ach.260.investor",
@@ -1314,7 +1319,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 16669
+      "UsersEstimate": 16670
     },
     {
       "ID": "ach.340.steel",
@@ -1353,7 +1358,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18318,
+      "Progressed": 18319,
       "Completed": 28
     }
   ],
@@ -1361,8 +1366,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-08T05:01:02.9878501+00:00",
-  "LastChanged_Achievements": "2023-05-10T04:05:13.5386813+00:00",
+  "LastChanged_Achievements": "2023-05-10T05:05:19.1561316+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:29.1139997+00:00",
-  "LastUpdate_Ratings": "2023-05-10T03:58:56.7456461+00:00",
-  "LastUpdate_Achievements": "2023-05-10T04:05:13.538704+00:00"
+  "LastUpdate_Ratings": "2023-05-10T04:59:05.8448795+00:00",
+  "LastUpdate_Achievements": "2023-05-10T05:05:19.156164+00:00"
 }

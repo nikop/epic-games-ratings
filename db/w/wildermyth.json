@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1155,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -335,6 +335,11 @@
       "Time": "2023-05-10T04:04:59.4624881+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-10T05:05:04.6185747+00:00",
+      "NumProgressed": 1155,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -418,7 +423,7 @@
       "Name": "Passing Shadow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -434,7 +439,7 @@
       "Name": "Completing the Look",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -490,7 +495,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -506,7 +511,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -586,7 +591,7 @@
       "Name": "War Endured",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "completedStory_legacy",
@@ -618,7 +623,7 @@
       "Name": "Daybreak",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "completedStory_vultureLord",
@@ -793,15 +798,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1155,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-10T04:04:59.4624877+00:00",
+  "LastChanged_Achievements": "2023-05-10T05:05:04.6185745+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-10T03:59:58.1065996+00:00",
-  "LastUpdate_Achievements": "2023-05-10T04:04:59.4625301+00:00"
+  "LastUpdate_Ratings": "2023-05-10T05:00:08.6438302+00:00",
+  "LastUpdate_Achievements": "2023-05-10T05:05:04.6186245+00:00"
 }

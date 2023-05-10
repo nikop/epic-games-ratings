@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242750,
+  "EOS_Progressed": 242751,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1679,6 +1679,11 @@
       "Time": "2023-05-10T04:05:13.0964316+00:00",
       "NumProgressed": 242750,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-10T05:05:18.6578937+00:00",
+      "NumProgressed": 242751,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -1762,7 +1767,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36412
+      "UsersEstimate": 36413
     },
     {
       "ID": "clearCut",
@@ -1842,7 +1847,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7282
+      "UsersEstimate": 7283
     },
     {
       "ID": "hereWeGo",
@@ -1882,7 +1887,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16992
+      "UsersEstimate": 16993
     },
     {
       "ID": "itsTheFall",
@@ -1930,7 +1935,7 @@
       "Name": "My First Runbow",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 123802
+      "UsersEstimate": 123803
     },
     {
       "ID": "notScared",
@@ -1962,7 +1967,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16992
+      "UsersEstimate": 16993
     },
     {
       "ID": "rideTheWave",
@@ -1978,7 +1983,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7282
+      "UsersEstimate": 7283
     },
     {
       "ID": "talentScout",
@@ -2057,7 +2062,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 242750,
+      "Progressed": 242751,
       "Completed": 2
     }
   ],
@@ -2065,8 +2070,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-10T04:05:13.0964311+00:00",
+  "LastChanged_Achievements": "2023-05-10T05:05:18.6578933+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.9561807+00:00",
-  "LastUpdate_Ratings": "2023-05-10T03:58:49.5845578+00:00",
-  "LastUpdate_Achievements": "2023-05-10T04:05:13.0964688+00:00"
+  "LastUpdate_Ratings": "2023-05-10T04:58:58.5954391+00:00",
+  "LastUpdate_Achievements": "2023-05-10T05:05:18.6579382+00:00"
 }
