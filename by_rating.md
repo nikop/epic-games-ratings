@@ -78,7 +78,7 @@
 | 72 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 120 | 299 |
 | 72 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 489 |
 | 72 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 489 |
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,255 | 50 |
+| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,255 | 51 |
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 281 |
 | 79 | [Journey](games/j/journey.md) | 4.80 | 0 | 489 |
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,351 | 94 |
@@ -179,7 +179,7 @@
 | 177 | [Barony](games/b/barony.md) | 4.71 | 70 | 361 |
 | 177 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 320 | 217 |
 | 177 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 489 |
-| 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,251 | 51 |
+| 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,256 | 50 |
 | 177 | [Fez](games/f/fez.md) | 4.71 | 23 | 467 |
 | 177 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 425 |
 | 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,148 | 43 |
@@ -211,7 +211,7 @@
 | 192 | [The Witness](games/t/the_witness.md) | 4.70 | 170 | 273 |
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,261 | 69 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 489 |
-| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,900 | 8 |
+| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,947 | 8 |
 | 212 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 489 |
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,746 | 76 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 489 |
@@ -491,7 +491,7 @@
 | 489 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 489 |
 | 489 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 489 |
 | 489 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 489 |
-| 489 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,740 | 17 |
+| 489 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,750 | 17 |
 | 489 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 138,179 | 7 |
 | 489 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 300 |
 | 489 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 489 |
@@ -500,7 +500,7 @@
 | 489 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.53 | 0 | 489 |
 | 489 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 489 |
 | 489 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 330 |
-| 501 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 735 | 151 |
+| 501 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 736 | 151 |
 | 501 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 412 |
 | 501 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,167 | 16 |
 | 501 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 86 | 339 |
@@ -784,7 +784,7 @@
 | 779 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 489 |
 | 783 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 489 |
 | 783 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 438 |
-| 783 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,157 | 35 |
+| 783 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,201 | 35 |
 | 783 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 364 | 207 |
 | 783 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 489 |
 | 783 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 489 |
