@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1055,7 +1055,7 @@
   ],
   "EOS_Progressed": 21481,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2037,9 +2037,9 @@
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 64
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -2203,8 +2203,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-06T20:00:16.7467137+00:00",
-  "LastChanged_Achievements": "2023-05-10T00:06:09.9177517+00:00",
+  "LastChanged_Achievements": "2023-05-10T02:02:22.5643403+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.4659285+00:00",
-  "LastUpdate_Ratings": "2023-05-09T23:59:29.6719196+00:00",
-  "LastUpdate_Achievements": "2023-05-10T00:06:09.9177847+00:00"
+  "LastUpdate_Ratings": "2023-05-10T01:56:05.528949+00:00",
+  "LastUpdate_Achievements": "2023-05-10T02:02:22.5643758+00:00"
 }

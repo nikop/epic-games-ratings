@@ -13,14 +13,14 @@
 | Coal's fur | 58.00% | ~84 |
 | Blue's drawing | 54.00% | ~78 |
 | Glass shards | 44.00% | ~64 |
-| Mysterious footprints | 43.00% | ~62 |
+| Mysterious footprints | 44.00% | ~64 |
 | Complicated padlock | 43.00% | ~62 |
 | Big metal ruler | 41.00% | ~59 |
 | Doll | 37.00% | ~54 |
 | Windmill | 36.00% | ~52 |
 | Cat | 32.00% | ~46 |
 | Mysterious paintings | 32.00% | ~46 |
-| Depths of the well | 22.00% | ~32 |
+| Depths of the well | 23.00% | ~33 |
 | Children | 21.00% | ~30 |
 | Huge Snail | 15.00% | ~22 |
 | Flower of hope | 14.00% | ~20 |

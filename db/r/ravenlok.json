@@ -3,7 +3,7 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
-  "EOS_Completed": 32,
-  "EOS_NewPlayers": 484,
-  "EOS_NewCompleters": 25,
-  "EOS_Completed_Percentage": 5.87,
+  "EOS_Progressed": 546,
+  "EOS_Completed": 33,
+  "EOS_NewPlayers": 485,
+  "EOS_NewCompleters": 26,
+  "EOS_Completed_Percentage": 6.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -777,6 +777,11 @@
       "Time": "2023-05-09T23:04:34.6891875+00:00",
       "NumProgressed": 545,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-10T02:02:00.1075002+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -788,7 +793,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "10",
@@ -860,7 +865,7 @@
       "Name": "Surprise!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "19",
@@ -868,7 +873,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "2",
@@ -876,7 +881,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "20",
@@ -932,23 +937,23 @@
       "Name": "Ancient Wisdom",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 415
     },
     {
       "ID": "29",
@@ -956,7 +961,7 @@
       "Name": "All That Glistens",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "3",
@@ -964,7 +969,7 @@
       "Name": "Vibing",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "30",
@@ -986,9 +991,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 191
     },
     {
       "ID": "33",
@@ -996,7 +1001,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "34",
@@ -1012,7 +1017,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "36",
@@ -1036,7 +1041,7 @@
       "Name": "Max Level!",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "39",
@@ -1052,23 +1057,23 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 131
     },
     {
       "ID": "41",
       "SetID": "d0g98p",
       "Name": "Bombs Away!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "42",
@@ -1084,7 +1089,7 @@
       "Name": "An Actor!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "44",
@@ -1092,15 +1097,15 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 147
     },
     {
       "ID": "46",
@@ -1124,7 +1129,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "49",
@@ -1164,7 +1169,7 @@
       "Name": "Fun Guy",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "8",
@@ -1178,25 +1183,25 @@
       "ID": "9",
       "SetID": "d0g98p",
       "Name": "Curtain Call",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 218
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 545,
-      "Completed": 32
+      "Progressed": 546,
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-10T00:05:39.9067794+00:00",
+  "LastChanged_Achievements": "2023-05-10T02:02:00.1074997+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-09T23:57:27.6847603+00:00",
-  "LastUpdate_Achievements": "2023-05-10T00:05:39.9068246+00:00"
+  "LastUpdate_Ratings": "2023-05-10T01:54:46.4056192+00:00",
+  "LastUpdate_Achievements": "2023-05-10T02:02:00.1075447+00:00"
 }

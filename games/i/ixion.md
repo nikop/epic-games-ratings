@@ -6,13 +6,14 @@ Rating: 4.54 (Ranked 477)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 0.90% | ~17 |
-| Wakey Wakey | 0.60% | ~11 |
+| Wakey Wakey | 0.70% | ~13 |
 | A Thousand Strong | 0.60% | ~11 |
 | The Ship of Theseus | 0.60% | ~11 |
 | Sputnik 2049 | 0.50% | ~9 |
 | Ready for a New World | 0.50% | ~9 |
 | Permanent Redesigns | 0.50% | ~9 |
 | Infinite Growth... | 0.40% | ~7 |
+| Space Society | 0.40% | ~7 |
 | Exceeding Capacity | 0.40% | ~7 |
 | Power Outage | 0.40% | ~7 |
 | Fully Recycled | 0.40% | ~7 |
@@ -21,13 +22,12 @@ Rating: 4.54 (Ranked 477)
 | Convenient Transport | 0.40% | ~7 |
 | Hope Seeker | 0.40% | ~7 |
 | Guy de Borderlands | 0.30% | ~6 |
-| Space Society | 0.30% | ~6 |
 | Sightseeing | 0.30% | ~6 |
+| A Hunk of Junk | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | From the Past | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
-| A Hunk of Junk | 0.20% | ~4 |
 | In Dolos We Trust | 0.20% | ~4 |
 | Access Granted | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,862 (Ranked 145)  
+Progressed: 1,863 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 1,841 | 0 |
 | 2023-05-08 | 1,844 | 0 |
 | 2023-05-09 | 1,862 | 0 |
+| 2023-05-10 | 1,863 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

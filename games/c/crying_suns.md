@@ -12,14 +12,14 @@ Number of Ratings: 1,003  (23.09.2022)
 | Second Coming | 33.00% | ~151,020 |
 | Jeef Skagg | 30.00% | ~137,291 |
 | Mother | 25.00% | ~114,409 |
-| In space, no one can hear you scream | 23.00% | ~105,256 |
+| In space, no one can hear you scream | 23.00% | ~105,257 |
 | Chapter I: Echoes | 22.00% | ~100,680 |
 | Excelsior Rule | 22.00% | ~100,680 |
 | Things persisted in not being what they seemed | 20.00% | ~91,527 |
-| Knightmare Frames | 15.00% | ~68,645 |
-| May His passing cleanse the world | 15.00% | ~68,645 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,645 |
-| Pope Zenon | 15.00% | ~68,645 |
+| Knightmare Frames | 15.00% | ~68,646 |
+| May His passing cleanse the world | 15.00% | ~68,646 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,646 |
+| Pope Zenon | 15.00% | ~68,646 |
 | Tetsuo | 11.00% | ~50,340 |
 | Plan for the worst | 11.00% | ~50,340 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,764 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,636 (Ranked 28)  
+Progressed: 457,637 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 14 (0.00%) (Ranked 197)
 | 2023-05-07 | 457,494 | 14 |
 | 2023-05-08 | 457,563 | 14 |
 | 2023-05-09 | 457,634 | 14 |
-| 2023-05-10 | 457,636 | 14 |
+| 2023-05-10 | 457,637 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

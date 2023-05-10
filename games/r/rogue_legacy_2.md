@@ -9,7 +9,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Captain and Crew | 0.40% | ~86 |
 | Spells and Swords | 0.40% | ~86 |
 | Harvest and Home | 0.30% | ~64 |
-| Poise and Poisons | 0.20% | ~43 |
+| Poise and Poisons | 0.30% | ~64 |
 | Suns and Soldiers | 0.20% | ~43 |
 | No Harm in Looking | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~21 |

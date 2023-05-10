@@ -28,15 +28,15 @@ Rating: 3.48 (Ranked 917)
 | Daily Quest Completionist | 5.00% | ~47 |
 | Scientist | 5.00% | ~47 |
 | Milestone collector | 4.00% | ~37 |
+| Mysterious Rock | 4.00% | ~37 |
 | Background Story | 3.00% | ~28 |
 | Frostfire Liberator | 3.00% | ~28 |
+| Hunter | 3.00% | ~28 |
 | Mastery | 3.00% | ~28 |
-| Mysterious Rock | 3.00% | ~28 |
 | The Expeditioner | 3.00% | ~28 |
 | The power of Awakening | 3.00% | ~28 |
 | Doing My Part | 2.00% | ~19 |
 | Here We Go Again | 2.00% | ~19 |
-| Hunter | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
 | Scroll Master | 2.00% | ~19 |

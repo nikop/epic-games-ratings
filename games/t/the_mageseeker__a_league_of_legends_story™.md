@@ -5,33 +5,33 @@ Rating: 4.72 (Ranked 165)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,843 |
-| No more cages! | 92.00% | ~1,785 |
-| Everfrost | 77.00% | ~1,494 |
-| Dark Forest | 76.00% | ~1,474 |
-| Pentakill | 75.00% | ~1,455 |
-| The use of petricite | 72.00% | ~1,397 |
-| You can pet the dog | 60.00% | ~1,164 |
+| For Demacia | 95.00% | ~1,845 |
+| No more cages! | 92.00% | ~1,787 |
+| Everfrost | 77.00% | ~1,495 |
+| Dark Forest | 76.00% | ~1,476 |
+| Pentakill | 75.00% | ~1,456 |
+| The use of petricite | 72.00% | ~1,398 |
+| You can pet the dog | 60.00% | ~1,165 |
 | Big Helmet Bro | 34.00% | ~660 |
 | Clarion Cove | 34.00% | ~660 |
 | Past trauma | 32.00% | ~621 |
 | Thornbarrow | 32.00% | ~621 |
 | Ternmoat Headquarters | 32.00% | ~621 |
-| Elemental master | 30.00% | ~582 |
-| Cypress Glen Headquarters | 30.00% | ~582 |
-| Old friend | 26.00% | ~504 |
-| Petricite Burst | 26.00% | ~504 |
-| Devineur | 25.00% | ~485 |
+| Elemental master | 30.00% | ~583 |
+| Cypress Glen Headquarters | 30.00% | ~583 |
+| Old friend | 26.00% | ~505 |
+| Petricite Burst | 26.00% | ~505 |
+| Devineur | 25.00% | ~486 |
 | Whispers in the Woods I | 24.00% | ~466 |
 | Hijack | 24.00% | ~466 |
 | Ancient power | 22.00% | ~427 |
-| I chose my shackles | 21.00% | ~407 |
+| I chose my shackles | 21.00% | ~408 |
 | Sacred Woods | 20.00% | ~388 |
 | Capelworth | 19.00% | ~369 |
-| Little light | 18.00% | ~349 |
-| Iffighain Headquarters | 18.00% | ~349 |
+| Little light | 18.00% | ~350 |
+| Iffighain Headquarters | 18.00% | ~350 |
 | Glyndemere | 17.00% | ~330 |
-| Full equipped | 16.00% | ~310 |
+| Full equipped | 16.00% | ~311 |
 | Whispers in the Woods II | 15.00% | ~291 |
 | No more holding back | 14.00% | ~272 |
 | Quickmoore Headquarters | 14.00% | ~272 |
@@ -42,7 +42,7 @@ Rating: 4.72 (Ranked 165)
 | True power | 12.00% | ~233 |
 | Meltridge | 12.00% | ~233 |
 | The Central Headquarters | 12.00% | ~233 |
-| Cloven Dell Headquarters | 11.00% | ~213 |
+| Cloven Dell Headquarters | 11.00% | ~214 |
 | Whispers in the Woods IV | 10.00% | ~194 |
 | Embrace the darkness | 9.00% | ~175 |
 | I smell fear | 9.00% | ~175 |
@@ -55,11 +55,11 @@ Rating: 4.72 (Ranked 165)
 | Do you trust me? | 7.00% | ~136 |
 | Truth is a dark mirror | 7.00% | ~136 |
 | Spellcrafting | 7.00% | ~136 |
-| The great mage rebellion starts now | 6.00% | ~116 |
+| The great mage rebellion starts now | 6.00% | ~117 |
 | Silverwing nest | 2.00% | ~39 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,940 (Ranked 143)  
+Progressed: 1,942 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 1 (0.05%) (Ranked 169)
 | 2023-05-07 | 1,916 | 1 |
 | 2023-05-08 | 1,927 | 1 |
 | 2023-05-09 | 1,940 | 1 |
+| 2023-05-10 | 1,942 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
