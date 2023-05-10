@@ -12,20 +12,20 @@
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 12 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 14 | [Remains](games/r/remains.md) | 11.11% |
 | 15 | [Smelter](games/s/smelter.md) | 10.00% |
 | 16 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.63% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.62% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 22 | [Scorn](games/s/scorn.md) | 7.10% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
-| 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
+| 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.00% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 5.99% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |

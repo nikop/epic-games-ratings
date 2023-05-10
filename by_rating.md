@@ -9,13 +9,13 @@
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 489 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 489 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 489 |
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,797 | 106 |
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,797 | 107 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 489 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,932 | 45 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 489 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 489 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 139,504 | 6 |
-| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 405 | 196 |
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 406 | 196 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,034 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 292 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 250 | 238 |
@@ -50,7 +50,7 @@
 | 38 | [TUNIC](games/t/tunic.md) | 4.85 | 33 | 430 |
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 46 | 396 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 212 | 252 |
-| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 196 |
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 197 |
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 252 | 237 |
 | 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 655 | 159 |
 | 49 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 489 |
@@ -209,7 +209,7 @@
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 489 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 489 |
 | 192 | [The Witness](games/t/the_witness.md) | 4.70 | 170 | 273 |
-| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,258 | 69 |
+| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,261 | 69 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 489 |
 | 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,900 | 8 |
 | 212 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 489 |
@@ -467,7 +467,7 @@
 | 447 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 49 | 389 |
 | 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,836 | 75 |
 | 467 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 489 |
-| 467 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,153 | 124 |
+| 467 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,155 | 124 |
 | 467 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 476 |
 | 467 | [Hue](games/h/hue.md) | 4.55 | 0 | 489 |
 | 467 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 438 |
@@ -885,7 +885,7 @@
 | 880 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 489 |
 | 884 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 367 | 205 |
 | 884 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.99 | 0 | 489 |
-| 884 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 1,790 | 107 |
+| 884 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 1,803 | 106 |
 | 887 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 489 |
 | 887 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,556 | 66 |
 | 887 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 489 |
