@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~5,732 |
-| Photogenic | 87.00% | ~5,480 |
-| Surge Gauntlet Jockey | 85.00% | ~5,354 |
-| Plug It In | 84.00% | ~5,291 |
-| Adventure Time | 80.00% | ~5,039 |
-| Playing With Power | 77.00% | ~4,850 |
-| You're Fired | 59.00% | ~3,716 |
-| Coup d'Etat | 58.00% | ~3,653 |
-| Get Furious | 55.00% | ~3,464 |
-| Gunplay And Cosplay | 54.00% | ~3,401 |
-| Hacks In Stacks | 54.00% | ~3,401 |
+| Let's Get This Party Started | 91.00% | ~5,733 |
+| Photogenic | 87.00% | ~5,481 |
+| Surge Gauntlet Jockey | 85.00% | ~5,355 |
+| Plug It In | 84.00% | ~5,292 |
+| Adventure Time | 80.00% | ~5,040 |
+| Playing With Power | 77.00% | ~4,851 |
+| You're Fired | 59.00% | ~3,717 |
+| Coup d'Etat | 58.00% | ~3,654 |
+| Get Furious | 55.00% | ~3,465 |
+| Gunplay And Cosplay | 54.00% | ~3,402 |
+| Hacks In Stacks | 54.00% | ~3,402 |
 | Meching Enemies | 49.00% | ~3,087 |
 | Ticket Toddler | 48.00% | ~3,024 |
 | Booty Bashing | 47.00% | ~2,961 |
@@ -53,11 +53,11 @@ Number of Ratings: 801  (23.09.2022)
 | The Collector | 1.00% | ~63 |
 | Everybody Freeze | 0.90% | ~57 |
 | Shield and Shred | 0.70% | ~44 |
-| I'm The Pluggernaut | 0.50% | ~31 |
-| Infinite Adventures! | 0.50% | ~31 |
+| I'm The Pluggernaut | 0.50% | ~32 |
+| Infinite Adventures! | 0.50% | ~32 |
 | Pyrotechnical | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,299 (Ranked 114)  
+Progressed: 6,300 (Ranked 114)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-07 | 6,253 | 0 |
 | 2023-05-08 | 6,269 | 0 |
 | 2023-05-09 | 6,292 | 0 |
-| 2023-05-10 | 6,299 | 0 |
+| 2023-05-10 | 6,300 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 372)  
 Sum: 533 (Ranked 288)  

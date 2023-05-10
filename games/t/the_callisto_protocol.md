@@ -39,7 +39,7 @@ Rating: 4.18 (Ranked 825)
 | It's over, Jacob! | 0.10% | ~13 |
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,551 (Ranked 101)  
+Progressed: 12,552 (Ranked 101)  
 Completed: 47 (0.37%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 47 (0.37%) (Ranked 111)
 | 2023-05-07 | 12,543 | 47 |
 | 2023-05-08 | 12,549 | 47 |
 | 2023-05-09 | 12,551 | 47 |
+| 2023-05-10 | 12,552 | 47 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 396)  
 Sum: 245 (Ranked 342)  

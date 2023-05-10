@@ -3610,9 +3610,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 87068,
+  "EOS_Progressed": 87071,
   "EOS_Completed": 1822,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5365,6 +5365,11 @@
       "Time": "2023-05-10T16:06:02.3380333+00:00",
       "NumProgressed": 87068,
       "NumCompleted": 1822
+    },
+    {
+      "Time": "2023-05-10T17:06:57.0629412+00:00",
+      "NumProgressed": 87071,
+      "NumCompleted": 1822
     }
   ],
   "TotalAchievements": 489,
@@ -6230,9 +6235,9 @@
       "ID": "objective_completed_1199",
       "SetID": "415jc5c",
       "Name": "Kas the Destroyer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_12",
@@ -8726,9 +8731,9 @@
       "ID": "objective_completed_82",
       "SetID": "cc37lbc",
       "Name": "Expert Opinion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_827",
@@ -8934,9 +8939,9 @@
       "ID": "objective_completed_862",
       "SetID": "415jc5c",
       "Name": "Frozen Vengeance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_863",
@@ -9287,21 +9292,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53342,
+      "Progressed": 53345,
       "Completed": 2488
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87068,
+      "Progressed": 87071,
       "Completed": 1822
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-10T06:57:46.2440134+00:00",
-  "LastChanged_Achievements": "2023-05-10T16:06:02.3380329+00:00",
+  "LastChanged_Achievements": "2023-05-10T17:06:57.0629407+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T15:58:05.5106375+00:00",
-  "LastUpdate_Achievements": "2023-05-10T16:06:02.3402769+00:00"
+  "LastUpdate_Ratings": "2023-05-10T16:58:11.1075461+00:00",
+  "LastUpdate_Achievements": "2023-05-10T17:06:57.0655641+00:00"
 }

@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~43,686 |
-| ''I don't like you either!'' | 79.00% | ~35,579 |
-| ''Impressive, most impressive'' | 71.00% | ~31,976 |
-| ''You think you're some kind of Jedi?'' | 71.00% | ~31,976 |
-| The Phantom Menace | 58.00% | ~26,121 |
-| ''Aggressive Negotiations'' | 57.00% | ~25,671 |
-| ''I can fly anything'' | 56.00% | ~25,221 |
-| ''And who gave you permission...?'' | 52.00% | ~23,419 |
-| A New Hope | 46.00% | ~20,717 |
-| Attack of the Clones | 45.00% | ~20,267 |
-| Revenge of the Sith | 38.00% | ~17,114 |
-| The Empire Strikes Back | 36.00% | ~16,213 |
-| ''A fine addition to my collection'' | 36.00% | ~16,213 |
-| Return of the Jedi | 30.00% | ~13,511 |
-| The Force Awakens | 25.00% | ~11,259 |
-| The Last Jedi | 21.00% | ~9,458 |
-| The Rise of Skywalker | 19.00% | ~8,557 |
-| ''It's true... all of it'' | 18.00% | ~8,107 |
-| ''Get the crews to their fighters'' | 17.00% | ~7,656 |
-| ''Raw, untamed power'' | 8.00% | ~3,603 |
-| Rishi Maze | 4.00% | ~1,801 |
-| ''Only one business in the Galaxy...'' | 4.00% | ~1,801 |
-| ''You may fire when ready'' | 3.00% | ~1,351 |
-| ''What have you done with those plans?'' | 3.00% | ~1,351 |
-| ''GONK!'' | 3.00% | ~1,351 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,351 |
-| The Slice | 3.00% | ~1,351 |
+| ''You guys got yourself a ship!'' | 97.00% | ~43,717 |
+| ''I don't like you either!'' | 79.00% | ~35,605 |
+| ''Impressive, most impressive'' | 71.00% | ~31,999 |
+| ''You think you're some kind of Jedi?'' | 71.00% | ~31,999 |
+| The Phantom Menace | 58.00% | ~26,140 |
+| ''Aggressive Negotiations'' | 57.00% | ~25,689 |
+| ''I can fly anything'' | 56.00% | ~25,239 |
+| ''And who gave you permission...?'' | 52.00% | ~23,436 |
+| A New Hope | 46.00% | ~20,732 |
+| Attack of the Clones | 45.00% | ~20,281 |
+| Revenge of the Sith | 38.00% | ~17,126 |
+| The Empire Strikes Back | 36.00% | ~16,225 |
+| ''A fine addition to my collection'' | 36.00% | ~16,225 |
+| Return of the Jedi | 30.00% | ~13,521 |
+| The Force Awakens | 25.00% | ~11,267 |
+| The Last Jedi | 21.00% | ~9,464 |
+| The Rise of Skywalker | 19.00% | ~8,563 |
+| ''It's true... all of it'' | 18.00% | ~8,112 |
+| ''Get the crews to their fighters'' | 17.00% | ~7,662 |
+| ''Raw, untamed power'' | 8.00% | ~3,606 |
+| Rishi Maze | 4.00% | ~1,803 |
+| ''Only one business in the Galaxy...'' | 4.00% | ~1,803 |
+| ''You may fire when ready'' | 3.00% | ~1,352 |
+| ''What have you done with those plans?'' | 3.00% | ~1,352 |
+| ''GONK!'' | 3.00% | ~1,352 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,352 |
+| The Slice | 3.00% | ~1,352 |
 | ''Hello there!'' | 2.00% | ~901 |
 | Unknown Regions | 2.00% | ~901 |
 | ''Do or do not. There is no try'' | 2.00% | ~901 |
@@ -46,13 +46,13 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Arkanis Sector | 2.00% | ~901 |
 | ''Power! Unlimited power!'' | 2.00% | ~901 |
 | ''Now I am the Master'' | 2.00% | ~901 |
-| ''A little short for a Stormtrooper...'' | 1.00% | ~450 |
-| ''Jedi Business'' | 1.00% | ~450 |
-| ''No more training, do you require'' | 1.00% | ~450 |
-| ''You needn't worry about your reward'' | 1.00% | ~450 |
-| ''I've never seen a real one!'' | 0.80% | ~360 |
+| ''A little short for a Stormtrooper...'' | 1.00% | ~451 |
+| ''Jedi Business'' | 1.00% | ~451 |
+| ''No more training, do you require'' | 1.00% | ~451 |
+| ''You needn't worry about your reward'' | 1.00% | ~451 |
+| ''I've never seen a real one!'' | 0.80% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,037 (Ranked 76)  
+Progressed: 45,069 (Ranked 76)  
 Completed: 162 (0.36%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 162 (0.36%) (Ranked 114)
 | 2023-05-07 | 43,102 | 161 |
 | 2023-05-08 | 44,149 | 162 |
 | 2023-05-09 | 44,719 | 162 |
-| 2023-05-10 | 45,037 | 162 |
+| 2023-05-10 | 45,069 | 162 |
 ## Awards
 Max (Great Boss Battles): 2,245  (Ranked 97)  
 Sum: 6,285 (Ranked 111)  

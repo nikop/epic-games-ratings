@@ -487,9 +487,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -512,8 +512,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-10T16:05:46.7047349+00:00",
+  "LastChanged_Achievements": "2023-05-10T17:06:37.3907647+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:32.8171839+00:00",
-  "LastUpdate_Ratings": "2023-05-10T15:57:17.2053437+00:00",
-  "LastUpdate_Achievements": "2023-05-10T16:05:46.7047527+00:00"
+  "LastUpdate_Ratings": "2023-05-10T16:57:02.4518484+00:00",
+  "LastUpdate_Achievements": "2023-05-10T17:06:37.390786+00:00"
 }

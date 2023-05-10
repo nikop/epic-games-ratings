@@ -69,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.20% | ~107 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~107 |
 | Kas the Bloody Handed | 0.20% | ~107 |
+| Kas the Destroyer | 0.20% | ~107 |
 | Who Lurks Below? | 0.20% | ~107 |
 | Xanathaaaaaaar! | 0.20% | ~107 |
 | Homecoming | 0.20% | ~174 |
@@ -138,12 +139,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.20% | ~107 |
 | Civilization | 0.20% | ~107 |
 | Durable Deep | 0.20% | ~174 |
+| Expert Opinion | 0.20% | ~174 |
 | Dwarven Rumors | 0.20% | ~107 |
 | Sunblight | 0.20% | ~107 |
 | Witty Riposting | 0.20% | ~107 |
 | Waiting on Sunrise | 0.20% | ~107 |
 | How Far Away is Thay | 0.20% | ~107 |
 | Deekin's Mission | 0.20% | ~107 |
+| Frozen Vengeance | 0.20% | ~107 |
 | The Templar's Camp | 0.20% | ~174 |
 | The Haunted Jungle | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
@@ -222,7 +225,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Efforts | 0.10% | ~53 |
 | To Avernus in a Handbasket | 0.10% | ~53 |
 | Weak Doesn't Mean Feeble | 0.10% | ~53 |
-| Kas the Destroyer | 0.10% | ~53 |
 | Clowning Around | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
 | Anti-Dexterous Explorers | 0.10% | ~87 |
@@ -435,7 +437,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.10% | ~53 |
 | Relentless Peril | 0.10% | ~53 |
 | Rickety Rubble | 0.10% | ~53 |
-| Expert Opinion | 0.10% | ~87 |
 | Mimic Perception | 0.10% | ~53 |
 | Frozen in Fear | 0.10% | ~53 |
 | It's Cold Out There Today | 0.10% | ~53 |
@@ -455,7 +456,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Chilling Encounter | 0.10% | ~53 |
 | Dive Bomb | 0.10% | ~53 |
 | Fire and Ice | 0.10% | ~53 |
-| Frozen Vengeance | 0.10% | ~53 |
 | Mimic Vengeance | 0.10% | ~53 |
 | REALLY Frozen Vengeance | 0.10% | ~53 |
 | The Battle of High Hall Tower | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,068 (Ranked 59)  
+Progressed: 87,071 (Ranked 59)  
 Completed: 1,822 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,822 (2.09%) (Ranked 60)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,068 | 1,822 |
+| 2023-05-10 | 87,071 | 1,822 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,842 (Ranked 37)  

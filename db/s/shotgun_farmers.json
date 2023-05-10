@@ -232,9 +232,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_first_first_blood",
@@ -296,9 +296,9 @@
       "ID": "ach_horde_forestside",
       "SetID": "cmg602e",
       "Name": "Forestside Survivor",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_horde_graveside",
@@ -496,9 +496,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_tripleKill",
@@ -553,8 +553,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-10T16:03:15.3276049+00:00",
+  "LastChanged_Achievements": "2023-05-10T17:03:11.8857482+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-10T15:58:17.283092+00:00",
-  "LastUpdate_Achievements": "2023-05-10T16:03:15.3276396+00:00"
+  "LastUpdate_Ratings": "2023-05-10T16:58:27.960618+00:00",
+  "LastUpdate_Achievements": "2023-05-10T17:03:11.8857823+00:00"
 }

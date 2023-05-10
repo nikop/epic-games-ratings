@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2348,
+  "EOS_Progressed": 2349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -839,6 +839,11 @@
       "Time": "2023-05-10T15:05:29.8282352+00:00",
       "NumProgressed": 2348,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T17:06:13.8618124+00:00",
+      "NumProgressed": 2349,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -890,7 +895,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "CrowdPleaser",
@@ -1034,7 +1039,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ReadyforWinter_42",
@@ -1074,7 +1079,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -1185,15 +1190,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2348,
+      "Progressed": 2349,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-10T16:05:28.431665+00:00",
+  "LastChanged_Achievements": "2023-05-10T17:06:13.8618118+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:02.1241057+00:00",
-  "LastUpdate_Ratings": "2023-05-10T15:57:46.3210211+00:00",
-  "LastUpdate_Achievements": "2023-05-10T16:05:28.4316951+00:00"
+  "LastUpdate_Ratings": "2023-05-10T16:57:44.2996931+00:00",
+  "LastUpdate_Achievements": "2023-05-10T17:06:13.8618483+00:00"
 }

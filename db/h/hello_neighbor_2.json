@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2317,
+  "EOS_Progressed": 2318,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
@@ -599,6 +599,11 @@
       "Time": "2023-05-10T15:05:58.3590275+00:00",
       "NumProgressed": 2317,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-10T17:06:46.924466+00:00",
+      "NumProgressed": 2318,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 14,
@@ -626,7 +631,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_CLIMBER",
@@ -650,7 +655,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -658,7 +663,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -721,7 +726,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2317,
+      "Progressed": 2318,
       "Completed": 89
     }
   ],
@@ -729,8 +734,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-09T21:01:08.5888479+00:00",
-  "LastChanged_Achievements": "2023-05-10T16:05:54.0593852+00:00",
+  "LastChanged_Achievements": "2023-05-10T17:06:46.9244655+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.2631073+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:00:10.8938908+00:00",
-  "LastUpdate_Achievements": "2023-05-10T16:05:54.0593965+00:00"
+  "LastUpdate_Ratings": "2023-05-10T17:01:10.5114812+00:00",
+  "LastUpdate_Achievements": "2023-05-10T17:06:46.9244803+00:00"
 }

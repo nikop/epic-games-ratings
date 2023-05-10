@@ -11,12 +11,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 1.00% | ~121 |
 | The best strikes are the ones we avoid | 0.90% | ~109 |
 | Qi Gong: Breath | 0.80% | ~5,622 |
-| The Hateful Pole Fighter | 0.70% | ~4,919 |
-| A Lady's Blood in the Snow | 0.70% | ~4,919 |
-| Lady Wing Chun | 0.70% | ~4,919 |
-| State of constant learning | 0.70% | ~4,919 |
-| Path of the Prospect | 0.70% | ~4,919 |
-| Rumble in the Hangar | 0.70% | ~4,919 |
+| The Hateful Pole Fighter | 0.70% | ~4,920 |
+| A Lady's Blood in the Snow | 0.70% | ~4,920 |
+| Lady Wing Chun | 0.70% | ~4,920 |
+| State of constant learning | 0.70% | ~4,920 |
+| Path of the Prospect | 0.70% | ~4,920 |
+| Rumble in the Hangar | 0.70% | ~4,920 |
 | The Assault | 0.60% | ~4,217 |
 | Furious Fists | 0.60% | ~4,217 |
 | Kill Nil | 0.60% | ~4,217 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,785 (Ranked 15)  
+Progressed: 702,786 (Ranked 15)  
 Completed: 12,719 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 12,719 (1.81%) (Ranked 62)
 | 2023-05-07 | 702,693 | 12,713 |
 | 2023-05-08 | 702,730 | 12,716 |
 | 2023-05-09 | 702,765 | 12,718 |
-| 2023-05-10 | 702,785 | 12,719 |
+| 2023-05-10 | 702,786 | 12,719 |
 ## Awards
 Max (Great Boss Battles): 6,046  (Ranked 53)  
 Sum: 10,256 (Ranked 77)  

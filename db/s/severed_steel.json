@@ -194,9 +194,9 @@
       "Count": 168
     }
   ],
-  "EOS_Progressed": 402315,
+  "EOS_Progressed": 402323,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 2471,
+  "EOS_NewPlayers": 2467,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1994,6 +1994,11 @@
       "Time": "2023-05-10T16:05:45.6615836+00:00",
       "NumProgressed": 402315,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-10T17:06:36.1171716+00:00",
+      "NumProgressed": 402323,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 52,
@@ -2005,7 +2010,7 @@
       "Name": "1000 KILLS",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -2069,7 +2074,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28162
+      "UsersEstimate": 28163
     },
     {
       "ID": "CHAPTER2",
@@ -2101,7 +2106,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "CHAPTER6",
@@ -2109,7 +2114,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "CHURCH",
@@ -2133,7 +2138,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -2381,7 +2386,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28162
+      "UsersEstimate": 28163
     },
     {
       "ID": "SOUL",
@@ -2420,7 +2425,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 402315,
+      "Progressed": 402323,
       "Completed": 30
     }
   ],
@@ -2428,8 +2433,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-07T07:00:48.9736863+00:00",
-  "LastChanged_Achievements": "2023-05-10T16:05:45.6615832+00:00",
+  "LastChanged_Achievements": "2023-05-10T17:06:36.1171709+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.9786833+00:00",
-  "LastUpdate_Ratings": "2023-05-10T15:59:25.4181352+00:00",
-  "LastUpdate_Achievements": "2023-05-10T16:05:45.6616356+00:00"
+  "LastUpdate_Ratings": "2023-05-10T17:00:08.0610413+00:00",
+  "LastUpdate_Achievements": "2023-05-10T17:06:36.1172229+00:00"
 }

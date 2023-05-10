@@ -5,24 +5,24 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,684 |
-| Shine On | 70.00% | ~110,772 |
+| Bootstrapping | 75.00% | ~118,685 |
+| Shine On | 70.00% | ~110,773 |
 | On the Job | 69.00% | ~109,190 |
-| Get Stuck In | 68.00% | ~107,607 |
-| Room for Expansion | 68.00% | ~107,607 |
-| Sales Pitch | 65.00% | ~102,860 |
-| Chill Out | 65.00% | ~102,860 |
-| Tinker | 61.00% | ~96,530 |
+| Get Stuck In | 68.00% | ~107,608 |
+| Room for Expansion | 68.00% | ~107,608 |
+| Sales Pitch | 65.00% | ~102,861 |
+| Chill Out | 65.00% | ~102,861 |
+| Tinker | 61.00% | ~96,531 |
 | Grand Designs | 60.00% | ~94,948 |
-| Hot Stuff | 59.00% | ~93,365 |
+| Hot Stuff | 59.00% | ~93,366 |
 | MOAR RGB | 54.00% | ~85,453 |
-| Dream Theme | 46.00% | ~72,793 |
+| Dream Theme | 46.00% | ~72,794 |
 | The Customer is King | 45.00% | ~71,211 |
-| Working Hard | 44.00% | ~69,628 |
-| On the Bench | 42.00% | ~66,463 |
-| The More the Merrier | 42.00% | ~66,463 |
-| Mix and Match | 38.00% | ~60,133 |
-| Recycler | 38.00% | ~60,133 |
+| Working Hard | 44.00% | ~69,629 |
+| On the Bench | 42.00% | ~66,464 |
+| The More the Merrier | 42.00% | ~66,464 |
+| Mix and Match | 38.00% | ~60,134 |
+| Recycler | 38.00% | ~60,134 |
 | Foot in the Door | 37.00% | ~58,551 |
 | Very Imported PC | 36.00% | ~56,969 |
 | Full Throttle | 34.00% | ~53,804 |
@@ -45,7 +45,7 @@ Rating: 4.61 (Ranked 352)
 | Stabiliser | 18.00% | ~28,484 |
 | This One Goes to 11 | 18.00% | ~28,484 |
 | Going Places | 15.00% | ~23,737 |
-| Forgetful Shopper | 14.00% | ~22,154 |
+| Forgetful Shopper | 14.00% | ~22,155 |
 | Showpiece | 13.00% | ~20,572 |
 | Paste Not, Want Not | 13.00% | ~20,572 |
 | Bench Press | 9.00% | ~14,242 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,246 (Ranked 52)  
+Progressed: 158,247 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 102 (0.06%) (Ranked 167)
 | 2023-05-07 | 158,219 | 102 |
 | 2023-05-08 | 158,229 | 102 |
 | 2023-05-09 | 158,240 | 102 |
-| 2023-05-10 | 158,246 | 102 |
+| 2023-05-10 | 158,247 | 102 |
 ## Awards
 Max (Great for Beginners): 602  (Ranked 164)  
 Sum: 4,536 (Ranked 127)  

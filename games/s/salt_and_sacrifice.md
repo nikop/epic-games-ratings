@@ -15,8 +15,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Hydromancer | 73.00% | ~46,631 |
 | The Matriarch | 70.00% | ~44,715 |
 | The Aeromancer | 66.00% | ~42,159 |
+| The Venomancer | 66.00% | ~42,159 |
 | The Huntsman | 65.00% | ~41,521 |
-| The Venomancer | 65.00% | ~41,521 |
 | Dawnlight Order | 64.00% | ~40,882 |
 | The Electromancer | 61.00% | ~38,966 |
 | The Terramancer | 59.00% | ~37,688 |
@@ -83,12 +83,12 @@ Completed: 1,153 (1.81%) (Ranked 62)
 | 2023-05-10 | 63,878 | 1,153 |
 ## Awards
 Max (Character Customization): 931  (Ranked 140)  
-Sum: 1,864 (Ranked 191)  
+Sum: 1,865 (Ranked 191)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 931 |
-| This game has Great Boss Battles | 540 |
+| This game has Great Boss Battles | 541 |
 | This game is Extremely Fun | 65 |
 | This game has Challenging Combat | 63 |
 | This game has Unique Visuals | 55 |
@@ -189,3 +189,4 @@ Diff (max vs sum): -51
 | 2023-05-06 | 4.31 | - | 929 | 1,860 |
 | 2023-05-08 | 4.31 | - | 930 | 1,861 |
 | 2023-05-09 | 4.31 | - | 931 | 1,864 |
+| 2023-05-10 | 4.31 | - | 931 | 1,865 |
