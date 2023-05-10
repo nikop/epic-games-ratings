@@ -26,7 +26,7 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 5.97% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 5.96% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -107,8 +107,8 @@
 | 104 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 106 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 107 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
-| 108 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
-| 109 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.38% |
+| 108 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
+| 109 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 110 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 110 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
@@ -392,4 +392,4 @@
 | 197 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 197 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 197 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,578 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,579 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 2023-02-12 |
 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 2023-05-10 |
 | [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | 2023-02-01 |
 | [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-11 | 2023-05-07 |
@@ -97,6 +96,7 @@
 | [Life by You](games/l/life_by_you.md) | 2023-09-12 | 2023-09-12 |
 | [Outlive](games/o/outlive.md) | 2023-09-14 | 2023-09-14 |
 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2023-09-30 | 2023-09-30 |
+| [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-09-30 | 2023-09-30 |
 | [Bloxs](games/b/bloxs.md) | 2023-09-30 | 2023-09-30 |
 | [Bucket Knight](games/b/bucket_knight.md) | 2023-09-30 | 2019-09-20 |
 | [Cats Hidden in Italy](games/c/cats_hidden_in_italy.md) | 2023-09-30 | 2023-09-30 |

@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 2023-02-12 |
 | [Cyber Drift](games/c/cyber_drift.md) | 2023-05-10 | 2023-04-28 |
 | [Save District 3](games/s/save_district_3.md) | 2023-05-09 | 2023-04-10 |
 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 2021-06-12 |
