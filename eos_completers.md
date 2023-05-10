@@ -19,14 +19,14 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.62% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.61% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 22 | [Scorn](games/s/scorn.md) | 7.10% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 5.96% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 5.95% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |

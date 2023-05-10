@@ -23,6 +23,7 @@
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
+| [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-04-06 |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
@@ -75,7 +76,6 @@
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-30 | 2023-06-30 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-06-30 | 2021-03-23 |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | 2023-06-30 |
-| [Minimal Move](games/m/minimal_move.md) | 2023-06-30 | 2021-03-30 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | 2023-12-31 |
 | [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | 2023-06-30 |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | 2022-10-13 |

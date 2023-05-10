@@ -123,7 +123,7 @@
 | 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 320 |
 | 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,627 | 111 |
 | 115 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 489 |
-| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,947 | 39 |
+| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,959 | 39 |
 | 115 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 489 |
 | 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 489 |
 | 127 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 464 |
@@ -820,7 +820,7 @@
 | 817 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 489 |
 | 817 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 430 |
 | 817 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 0 | 489 |
-| 817 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 182,033 | 4 |
+| 817 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 182,085 | 4 |
 | 817 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 489 |
 | 817 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 458 |
 | 824 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 89 | 334 |

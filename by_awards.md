@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,297,870 | 4.29 | 759 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 406,255 | 4.51 | 516 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 295,374 | 4.68 | 233 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,033 | 4.19 | 817 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,085 | 4.19 | 817 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 167,626 | 4.68 | 233 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 139,504 | 4.89 | 12 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 138,179 | 4.53 | 489 |
@@ -38,7 +38,7 @@
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,060 | 4.60 | 376 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 8,899 | 4.78 | 100 |
 | 38 | [Control](games/c/control.md) | 8,269 | 4.60 | 376 |
-| 39 | [SnowRunner](games/s/snowrunner.md) | 7,947 | 4.76 | 115 |
+| 39 | [SnowRunner](games/s/snowrunner.md) | 7,959 | 4.76 | 115 |
 | 40 | [Supraland](games/s/supraland.md) | 7,607 | 4.61 | 352 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,530 | 4.85 | 38 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,266 | 4.57 | 429 |
