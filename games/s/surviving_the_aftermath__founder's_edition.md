@@ -12,7 +12,7 @@ Number of Ratings: 836  (23.09.2022)
 | Healer | 53.00% | ~2,705 |
 | Aspiring Inventor | 45.00% | ~2,296 |
 | Adventurer | 41.00% | ~2,092 |
-| Famous Healer | 37.00% | ~1,888 |
+| Famous Healer | 38.00% | ~1,939 |
 | Local Leader | 35.00% | ~1,786 |
 | New Opportunities | 34.00% | ~1,735 |
 | Famous Explorer | 33.00% | ~1,684 |

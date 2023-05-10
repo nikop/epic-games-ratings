@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 477)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 0.90% | ~17 |
-| Wakey Wakey | 0.70% | ~13 |
+| Wakey Wakey | 0.80% | ~15 |
 | A Thousand Strong | 0.60% | ~11 |
 | The Ship of Theseus | 0.60% | ~11 |
 | Sputnik 2049 | 0.50% | ~9 |

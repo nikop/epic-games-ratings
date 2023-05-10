@@ -3604,9 +3604,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 87016,
+  "EOS_Progressed": 87019,
   "EOS_Completed": 1821,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5299,6 +5299,11 @@
       "Time": "2023-05-10T03:06:22.4041897+00:00",
       "NumProgressed": 87016,
       "NumCompleted": 1821
+    },
+    {
+      "Time": "2023-05-10T04:05:35.2687341+00:00",
+      "NumProgressed": 87019,
+      "NumCompleted": 1821
     }
   ],
   "TotalAchievements": 489,
@@ -6924,9 +6929,9 @@
       "ID": "objective_completed_279",
       "SetID": "cc37lbc",
       "Name": "The Gargoyle\u0027s Apprentice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_280",
@@ -9221,21 +9226,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53290,
+      "Progressed": 53293,
       "Completed": 2487
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87016,
+      "Progressed": 87019,
       "Completed": 1821
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-10T03:06:22.4041893+00:00",
+  "LastChanged_Achievements": "2023-05-10T04:05:35.2687336+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T02:58:05.4396355+00:00",
-  "LastUpdate_Achievements": "2023-05-10T03:06:22.4062824+00:00"
+  "LastUpdate_Ratings": "2023-05-10T03:57:54.9671363+00:00",
+  "LastUpdate_Achievements": "2023-05-10T04:05:35.2708546+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1067,9 +1067,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118192,
+  "EOS_Progressed": 118195,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2542,6 +2542,11 @@
       "Time": "2023-05-10T02:02:21.945896+00:00",
       "NumProgressed": 118192,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-10T04:05:12.5166385+00:00",
+      "NumProgressed": 118195,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -2601,7 +2606,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9455
+      "UsersEstimate": 9456
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -2609,7 +2614,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28366
+      "UsersEstimate": 28367
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -2617,7 +2622,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9455
+      "UsersEstimate": 9456
     },
     {
       "ID": "ACH_COP_DORK",
@@ -2633,7 +2638,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33094
+      "UsersEstimate": 33095
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -2665,7 +2670,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23638
+      "UsersEstimate": 23639
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -2713,7 +2718,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10637
+      "UsersEstimate": 10638
     },
     {
       "ID": "ACH_GLUTEN",
@@ -2872,15 +2877,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118192,
+      "Progressed": 118195,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-04T16:59:02.1126215+00:00",
-  "LastChanged_Achievements": "2023-05-10T03:05:54.7017468+00:00",
+  "LastChanged_Achievements": "2023-05-10T04:05:12.5166381+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-10T02:59:13.6519808+00:00",
-  "LastUpdate_Achievements": "2023-05-10T03:05:54.7017774+00:00"
+  "LastUpdate_Ratings": "2023-05-10T03:58:44.5738013+00:00",
+  "LastUpdate_Achievements": "2023-05-10T04:05:12.5166668+00:00"
 }

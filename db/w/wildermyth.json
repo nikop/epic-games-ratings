@@ -5,7 +5,7 @@
   "Ranking_Rating": 103,
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 460,
-  "Ranking_EOS_Progress": 156,
+  "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 78,
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1153,
+  "EOS_Progressed": 1154,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -330,6 +330,11 @@
       "Time": "2023-05-09T22:07:06.1741217+00:00",
       "NumProgressed": 1153,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-10T04:04:59.4624881+00:00",
+      "NumProgressed": 1154,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -357,7 +362,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -517,7 +522,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_mythwalker",
@@ -595,9 +600,9 @@
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 69
     },
     {
       "ID": "completedStory_procedural",
@@ -788,15 +793,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1153,
+      "Progressed": 1154,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-10T03:05:37.7084858+00:00",
+  "LastChanged_Achievements": "2023-05-10T04:04:59.4624877+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-10T03:00:57.4630566+00:00",
-  "LastUpdate_Achievements": "2023-05-10T03:05:37.7085245+00:00"
+  "LastUpdate_Ratings": "2023-05-10T03:59:58.1065996+00:00",
+  "LastUpdate_Achievements": "2023-05-10T04:04:59.4625301+00:00"
 }

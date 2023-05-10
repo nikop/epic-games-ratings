@@ -175,9 +175,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 19874,
+  "EOS_Progressed": 19883,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1142,
+  "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1900,6 +1900,11 @@
       "Time": "2023-05-10T03:06:07.3863157+00:00",
       "NumProgressed": 19874,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-10T04:05:22.4407094+00:00",
+      "NumProgressed": 19883,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 29,
@@ -1911,7 +1916,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -1919,7 +1924,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3778
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -1991,7 +1996,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -2023,7 +2028,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -2031,7 +2036,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -2039,7 +2044,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -2063,7 +2068,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -2071,7 +2076,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -2142,7 +2147,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 19874,
+      "Progressed": 19883,
       "Completed": 14
     }
   ],
@@ -2150,8 +2155,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
-  "LastChanged_Achievements": "2023-05-10T03:06:07.3863153+00:00",
+  "LastChanged_Achievements": "2023-05-10T04:05:22.440709+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.2822478+00:00",
-  "LastUpdate_Ratings": "2023-05-10T03:00:15.0740849+00:00",
-  "LastUpdate_Achievements": "2023-05-10T03:06:07.3863389+00:00"
+  "LastUpdate_Ratings": "2023-05-10T03:59:28.3681496+00:00",
+  "LastUpdate_Achievements": "2023-05-10T04:05:22.4407335+00:00"
 }

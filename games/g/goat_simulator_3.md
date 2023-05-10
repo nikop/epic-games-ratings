@@ -5,25 +5,25 @@ Rating: 4.85 (Ranked 38)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~196,818 |
-| Private Club | 74.00% | ~160,050 |
-| Rogue Guild | 66.00% | ~142,747 |
-| I Watched the Intro | 57.00% | ~123,282 |
-| Covert Consortium | 55.00% | ~118,956 |
-| Goat Queen | 53.00% | ~114,631 |
-| Reach the Stratosphere | 49.00% | ~105,979 |
-| Synchronization Complete | 47.00% | ~101,653 |
-| Secret Society | 45.00% | ~97,328 |
-| Shadow Syndicate | 37.00% | ~80,025 |
-| What a Waste of Money | 32.00% | ~69,211 |
-| New Goat Order | 30.00% | ~64,885 |
+| Forgotten Sorority | 91.00% | ~196,820 |
+| Private Club | 74.00% | ~160,052 |
+| Rogue Guild | 66.00% | ~142,749 |
+| I Watched the Intro | 57.00% | ~123,283 |
+| Covert Consortium | 55.00% | ~118,957 |
+| Goat Queen | 53.00% | ~114,632 |
+| Reach the Stratosphere | 49.00% | ~105,980 |
+| Synchronization Complete | 47.00% | ~101,654 |
+| Secret Society | 45.00% | ~97,329 |
+| Shadow Syndicate | 37.00% | ~80,026 |
+| What a Waste of Money | 32.00% | ~69,212 |
+| New Goat Order | 30.00% | ~64,886 |
 | Don't touch the servers | 28.00% | ~60,560 |
 | San Angora: Become Human | 26.00% | ~56,234 |
 | Raider of the Lost Parking Garage | 26.00% | ~56,234 |
 | Real Buoy | 26.00% | ~56,234 |
-| Welcome to Earth | 25.00% | ~54,071 |
+| Welcome to Earth | 25.00% | ~54,072 |
 | Into the Matrix | 18.00% | ~38,931 |
-| Where is It? | 17.00% | ~36,768 |
+| Where is It? | 17.00% | ~36,769 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~32,443 |
 | Egg Simulator | 14.00% | ~30,280 |
 | Black Market | 14.00% | ~30,280 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 38)
 | Move! That! Bus! | 0.60% | ~1,298 |
 | G.O.A.T | 0.30% | ~649 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,284 (Ranked 45)  
+Progressed: 216,286 (Ranked 45)  
 Completed: 686 (0.32%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 686 (0.32%) (Ranked 119)
 | 2023-05-07 | 216,032 | 686 |
 | 2023-05-08 | 216,170 | 686 |
 | 2023-05-09 | 216,268 | 686 |
-| 2023-05-10 | 216,284 | 686 |
+| 2023-05-10 | 216,286 | 686 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 222)  
 Sum: 2,650 (Ranked 161)  

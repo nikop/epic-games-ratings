@@ -5,37 +5,37 @@ Rating: 4.26 (Ranked 774)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~142,981 |
-| Copacetic Coordination | 16.00% | ~49,732 |
-| Fronting the Money | 14.00% | ~43,516 |
-| The Dawn of Automation | 14.00% | ~43,516 |
-| Extraordinary Logistics | 14.00% | ~43,516 |
-| Family First | 13.00% | ~40,408 |
-| Cleaning House | 12.00% | ~37,299 |
-| Room in the Back | 12.00% | ~37,299 |
-| Dirty Money | 12.00% | ~37,299 |
-| Booze Baron | 11.00% | ~34,191 |
-| Beating the Heat | 10.00% | ~31,083 |
-| Friends on the Force | 10.00% | ~31,083 |
-| Neighborhood Watch | 10.00% | ~31,083 |
-| Core Corps | 8.00% | ~24,866 |
+| Corner Clout | 46.00% | ~142,984 |
+| Copacetic Coordination | 16.00% | ~49,734 |
+| Fronting the Money | 14.00% | ~43,517 |
+| The Dawn of Automation | 14.00% | ~43,517 |
+| Extraordinary Logistics | 14.00% | ~43,517 |
+| Family First | 13.00% | ~40,409 |
+| Cleaning House | 12.00% | ~37,300 |
+| Room in the Back | 12.00% | ~37,300 |
+| Dirty Money | 12.00% | ~37,300 |
+| Booze Baron | 11.00% | ~34,192 |
+| Beating the Heat | 10.00% | ~31,084 |
+| Friends on the Force | 10.00% | ~31,084 |
+| Neighborhood Watch | 10.00% | ~31,084 |
+| Core Corps | 8.00% | ~24,867 |
 | Sizeable Stash | 7.00% | ~21,758 |
 | Street Fighter | 7.00% | ~21,758 |
 | Friendly Gestures | 7.00% | ~21,758 |
 | Liquor Lord | 6.00% | ~18,650 |
 | Show ‘em the Sugar | 6.00% | ~18,650 |
 | People Person | 6.00% | ~18,650 |
-| Street Knowledge | 5.00% | ~15,541 |
-| Oh Captain | 5.00% | ~15,541 |
-| Branching Out | 5.00% | ~15,541 |
-| Improvement Missions | 5.00% | ~15,541 |
-| Opportunity Knocked | 5.00% | ~15,541 |
-| City of Big Shoulders | 5.00% | ~15,541 |
-| Safety in Numbers | 5.00% | ~15,541 |
-| Moving Experiences | 5.00% | ~15,541 |
-| Mission Mastery | 5.00% | ~15,541 |
-| Wise Head | 5.00% | ~15,541 |
-| Killing Them Softly | 5.00% | ~15,541 |
+| Street Knowledge | 5.00% | ~15,542 |
+| Oh Captain | 5.00% | ~15,542 |
+| Branching Out | 5.00% | ~15,542 |
+| Improvement Missions | 5.00% | ~15,542 |
+| Opportunity Knocked | 5.00% | ~15,542 |
+| City of Big Shoulders | 5.00% | ~15,542 |
+| Safety in Numbers | 5.00% | ~15,542 |
+| Moving Experiences | 5.00% | ~15,542 |
+| Mission Mastery | 5.00% | ~15,542 |
+| Wise Head | 5.00% | ~15,542 |
+| Killing Them Softly | 5.00% | ~15,542 |
 | Considerable Clams | 4.00% | ~12,433 |
 | Gin Joint | 4.00% | ~12,433 |
 | An Affront to the Enemy | 4.00% | ~12,433 |
@@ -58,9 +58,9 @@ Rating: 4.26 (Ranked 774)
 | Corner Control | 1.00% | ~3,108 |
 | Full House | 1.00% | ~3,108 |
 | Cat’s Meow Clubs | 1.00% | ~3,108 |
-| The Rubber Meets the Road | 0.90% | ~2,797 |
-| Determined Deliveries | 0.90% | ~2,797 |
-| Stepping It Up | 0.90% | ~2,797 |
+| The Rubber Meets the Road | 0.90% | ~2,798 |
+| Determined Deliveries | 0.90% | ~2,798 |
+| Stepping It Up | 0.90% | ~2,798 |
 | Crossing Over | 0.80% | ~2,487 |
 | Boots in the Ground | 0.70% | ~2,176 |
 | Getting Fancy | 0.70% | ~2,176 |
@@ -69,9 +69,9 @@ Rating: 4.26 (Ranked 774)
 | High End Booze | 0.40% | ~1,243 |
 | Working on the Railroad | 0.40% | ~1,243 |
 | Social Butterfly | 0.40% | ~1,243 |
-| Bottled Up | 0.30% | ~932 |
-| Streetwise | 0.30% | ~932 |
-| In-House Maintenance | 0.30% | ~932 |
+| Bottled Up | 0.30% | ~933 |
+| Streetwise | 0.30% | ~933 |
+| In-House Maintenance | 0.30% | ~933 |
 | Dirty Work | 0.20% | ~622 |
 | Balkan Firewater | 0.20% | ~622 |
 | Windy City Win | 0.10% | ~311 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 774)
 | High Pillow | 0.10% | ~311 |
 | Station Master | 0.10% | ~311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310,828 (Ranked 37)  
+Progressed: 310,835 (Ranked 37)  
 Completed: 3 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 3 (0.00%) (Ranked 197)
 | 2023-05-07 | 310,150 | 3 |
 | 2023-05-08 | 310,501 | 3 |
 | 2023-05-09 | 310,789 | 3 |
-| 2023-05-10 | 310,828 | 3 |
+| 2023-05-10 | 310,835 | 3 |
 ## Awards
 Max (Relaxing): 23  (Ranked 467)  
 Sum: 46 (Ranked 434)  

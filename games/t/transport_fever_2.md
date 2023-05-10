@@ -37,9 +37,9 @@ Number of Ratings: 180  (23.09.2022)
 | City | 29.00% | ~304 |
 | The king of the sea | 29.00% | ~304 |
 | Transport tycoon | 25.00% | ~262 |
+| The ugly smell of success | 23.00% | ~242 |
 | Climate change | 22.00% | ~231 |
 | Old timer | 22.00% | ~231 |
-| The ugly smell of success | 22.00% | ~231 |
 | Heavily loaded | 20.00% | ~210 |
 | Bob Ross | 17.00% | ~178 |
 | No free seats | 11.00% | ~116 |

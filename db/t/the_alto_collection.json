@@ -649,9 +649,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 20492,
+  "EOS_Progressed": 20494,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1047,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2359,6 +2359,11 @@
       "Time": "2023-05-10T03:05:53.9605899+00:00",
       "NumProgressed": 20492,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-10T04:05:11.9615212+00:00",
+      "NumProgressed": 20494,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -2410,7 +2415,7 @@
       "Name": "Rookie",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "goals180",
@@ -2426,7 +2431,7 @@
       "Name": "Amateur",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "goals75",
@@ -2490,7 +2495,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "novice",
@@ -2522,7 +2527,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "playerPaz",
@@ -2681,15 +2686,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 20492,
+      "Progressed": 20494,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "LastChanged_Achievements": "2023-05-10T03:05:53.9605894+00:00",
+  "LastChanged_Achievements": "2023-05-10T04:05:11.9615205+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:24.8068644+00:00",
-  "LastUpdate_Ratings": "2023-05-10T02:59:24.9965262+00:00",
-  "LastUpdate_Achievements": "2023-05-10T03:05:53.9606424+00:00"
+  "LastUpdate_Ratings": "2023-05-10T03:58:52.6012308+00:00",
+  "LastUpdate_Achievements": "2023-05-10T04:05:11.9615501+00:00"
 }

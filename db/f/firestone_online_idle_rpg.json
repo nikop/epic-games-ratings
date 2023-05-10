@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1299,6 +1299,11 @@
       "Time": "2023-05-09T22:07:14.0163346+00:00",
       "NumProgressed": 935,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T04:05:05.8928013+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1422,7 +1427,7 @@
       "Name": "Dragon Master",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "dragonslayer",
@@ -1612,9 +1617,9 @@
       "ID": "lockandload",
       "SetID": "3nl4bcg",
       "Name": "Lock And Load",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "masterenchanter",
@@ -1686,7 +1691,7 @@
       "Name": "Natural Talent",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "pokerface",
@@ -1700,9 +1705,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 477
     },
     {
       "ID": "prestigiousx10",
@@ -1766,7 +1771,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "thealchemist",
@@ -1814,7 +1819,7 @@
       "Name": "The Unstoppable",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "titanpower",
@@ -1909,7 +1914,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 1
     }
   ],
@@ -1917,8 +1922,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-09T15:59:23.3222999+00:00",
-  "LastChanged_Achievements": "2023-05-10T03:05:45.9872634+00:00",
+  "LastChanged_Achievements": "2023-05-10T04:05:05.8928008+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-10T02:58:01.6029791+00:00",
-  "LastUpdate_Achievements": "2023-05-10T03:05:45.9873311+00:00"
+  "LastUpdate_Ratings": "2023-05-10T03:57:52.2924758+00:00",
+  "LastUpdate_Achievements": "2023-05-10T04:05:05.8928686+00:00"
 }

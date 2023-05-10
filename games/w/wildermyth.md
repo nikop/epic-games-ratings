@@ -6,8 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 29.00% | ~334 |
-| Me and My Familiar | 27.00% | ~311 |
+| The Cost of Heroism | 29.00% | ~335 |
+| Me and My Familiar | 27.00% | ~312 |
 | Passing Shadow | 23.00% | ~265 |
 | This Too Shall Pass | 23.00% | ~265 |
 | Cutthroat Competitors | 22.00% | ~254 |
@@ -20,9 +20,9 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 9.00% | ~104 |
 | Core Failure | 9.00% | ~104 |
 | Pyrrhic Victory | 8.00% | ~92 |
-| Echoes Die | 7.00% | ~81 |
 | Thematic Divergence | 6.00% | ~69 |
 | Chain Reaction | 6.00% | ~69 |
+| Echoes Die | 6.00% | ~69 |
 | A Story of Heroes | 6.00% | ~69 |
 | Let Me Get My Chisel | 5.00% | ~58 |
 | Everfading | 5.00% | ~58 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.30% | ~3 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,153 (Ranked 156)  
+Progressed: 1,154 (Ranked 157)  
 Completed: 3 (0.26%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 3 (0.26%) (Ranked 130)
 | 2023-05-07 | 1,144 | 3 |
 | 2023-05-08 | 1,146 | 3 |
 | 2023-05-09 | 1,153 | 3 |
+| 2023-05-10 | 1,154 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 452)  
 Sum: 27 (Ranked 460)  

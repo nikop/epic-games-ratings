@@ -7,8 +7,8 @@ Rating: 3.48 (Ranked 917)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~870 |
 | World Map | 79.00% | ~739 |
-| Temple of Eternals | 55.00% | ~514 |
-| Prestigious | 52.00% | ~486 |
+| Temple of Eternals | 55.00% | ~515 |
+| Prestigious | 51.00% | ~477 |
 | Fellowship Power | 39.00% | ~365 |
 | Guild Power | 23.00% | ~215 |
 | Prestigious x10 | 19.00% | ~178 |
@@ -21,9 +21,9 @@ Rating: 3.48 (Ranked 917)
 | Full Party | 11.00% | ~103 |
 | Enlightenment | 8.00% | ~75 |
 | Lieutenant | 8.00% | ~75 |
-| Dragon Master | 7.00% | ~65 |
-| Natural Talent | 7.00% | ~65 |
-| The Unstoppable | 7.00% | ~65 |
+| Dragon Master | 7.00% | ~66 |
+| Natural Talent | 7.00% | ~66 |
+| The Unstoppable | 7.00% | ~66 |
 | Superior | 6.00% | ~56 |
 | Daily Quest Completionist | 5.00% | ~47 |
 | Scientist | 5.00% | ~47 |
@@ -63,13 +63,13 @@ Rating: 3.48 (Ranked 917)
 | The Alchemist | 0.40% | ~4 |
 | Transmute | 0.40% | ~4 |
 | Tree of Life | 0.40% | ~4 |
+| Lock And Load | 0.30% | ~3 |
 | Training makes a Pro player | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |
 | Gear Enchanting | 0.20% | ~2 |
 | Guardian Master | 0.20% | ~2 |
-| Lock And Load | 0.20% | ~2 |
 | Mythic Power | 0.20% | ~2 |
 | Ultimate War Machines | 0.20% | ~2 |
 | Angel Power | 0.10% | ~1 |
@@ -81,7 +81,7 @@ Rating: 3.48 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935 (Ranked 165)  
+Progressed: 936 (Ranked 165)  
 Completed: 1 (0.11%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 1 (0.11%) (Ranked 152)
 | 2023-05-07 | 903 | 1 |
 | 2023-05-08 | 916 | 1 |
 | 2023-05-09 | 935 | 1 |
+| 2023-05-10 | 936 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

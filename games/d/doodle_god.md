@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Good Start | 95.00% | ~190 |
 | Practice Makes Perfect | 83.00% | ~166 |
-| Creator of Life | 81.00% | ~162 |
+| Creator of Life | 82.00% | ~164 |
 | Creator of Diversity | 70.00% | ~140 |
-| Similar to Similar | 67.00% | ~134 |
+| Similar to Similar | 68.00% | ~136 |
 | Creator of Humanity | 63.00% | ~126 |
 | Creator of Civilization | 36.00% | ~72 |
 | Honorable Santa | 25.00% | ~50 |

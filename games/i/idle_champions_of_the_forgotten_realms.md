@@ -88,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~174 |
 | Seeds of Deceit | 0.20% | ~174 |
 | Trollskull Manor | 0.20% | ~174 |
+| The Gargoyle's Apprentice | 0.20% | ~174 |
 | Attack on the Manor | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
 | Treasure Hunters | 0.20% | ~174 |
@@ -271,7 +272,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~87 |
 | Seeds of Corruption | 0.10% | ~87 |
 | The Strahd Squad | 0.10% | ~53 |
-| The Gargoyle's Apprentice | 0.10% | ~87 |
 | House of Darkness | 0.10% | ~87 |
 | Home Not So Alone | 0.10% | ~53 |
 | The Trepidatious Trio | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,016 (Ranked 59)  
+Progressed: 87,019 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,016 | 1,821 |
+| 2023-05-10 | 87,019 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  
