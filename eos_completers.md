@@ -22,10 +22,10 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.63% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 22 | [Scorn](games/s/scorn.md) | 7.10% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.04% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.02% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -34,7 +34,7 @@
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.55% |
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
-| 35 | [Doodle God](games/d/doodle_god.md) | 4.02% |
+| 35 | [Doodle God](games/d/doodle_god.md) | 4.00% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
@@ -50,7 +50,7 @@
 | 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.75% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.79% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
