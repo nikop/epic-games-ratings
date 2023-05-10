@@ -1,27 +1,27 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.48 (Ranked 917)  
+Rating: 3.55 (Ranked 917)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~880 |
-| World Map | 79.00% | ~747 |
-| Temple of Eternals | 55.00% | ~520 |
+| Victor | 93.00% | ~881 |
+| World Map | 79.00% | ~748 |
+| Temple of Eternals | 55.00% | ~521 |
 | Prestigious | 52.00% | ~492 |
 | Fellowship Power | 39.00% | ~369 |
 | Guild Power | 23.00% | ~218 |
 | Prestigious x10 | 19.00% | ~180 |
-| The game is on | 16.00% | ~151 |
+| The game is on | 16.00% | ~152 |
 | Exotic Merchant | 15.00% | ~142 |
-| Dragon Clicker | 14.00% | ~132 |
-| Miner Clicker | 14.00% | ~132 |
+| Dragon Clicker | 14.00% | ~133 |
+| Miner Clicker | 14.00% | ~133 |
 | Inspection | 13.00% | ~123 |
 | Hero inspection | 12.00% | ~114 |
 | Full Party | 11.00% | ~104 |
 | Lieutenant | 9.00% | ~85 |
-| Dragon Master | 8.00% | ~76 |
 | Enlightenment | 8.00% | ~76 |
+| Dragon Master | 7.00% | ~66 |
 | Natural Talent | 7.00% | ~66 |
 | The Unstoppable | 7.00% | ~66 |
 | Superior | 6.00% | ~57 |
@@ -81,7 +81,7 @@ Rating: 3.48 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 946 (Ranked 165)  
+Progressed: 947 (Ranked 165)  
 Completed: 1 (0.11%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,10 +101,11 @@ Completed: 1 (0.11%) (Ranked 153)
 | 2023-05-07 | 903 | 1 |
 | 2023-05-08 | 916 | 1 |
 | 2023-05-09 | 935 | 1 |
-| 2023-05-10 | 946 | 1 |
+| 2023-05-10 | 947 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-04-03 | - | 0 | 0 |
 | 2023-05-06 | 3.40 | 0 | 0 |
 | 2023-05-09 | 3.48 | 0 | 0 |
+| 2023-05-10 | 3.55 | 0 | 0 |

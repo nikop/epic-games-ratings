@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -80,6 +80,11 @@
     {
       "Time": "2023-05-10T19:01:52.8423798+00:00",
       "NumProgressed": 24,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T20:01:49.6799141+00:00",
+      "NumProgressed": 25,
       "NumCompleted": 0
     }
   ],
@@ -178,7 +183,7 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -186,7 +191,7 @@
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -210,7 +215,7 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 71,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -226,7 +231,7 @@
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 6
     }
@@ -235,14 +240,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:01:52.8423548+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:01:49.6798929+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:35.2006404+00:00",
-  "LastUpdate_Ratings": "2023-05-10T18:58:39.7114226+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:01:52.844605+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:58:38.9939877+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:01:49.6818586+00:00"
 }

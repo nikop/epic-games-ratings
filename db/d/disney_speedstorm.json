@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2407,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1343,17 +1343,17 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 650
+      "UsersEstimate": 674
     },
     {
       "ID": "5",
       "SetID": "9p3jgda",
       "Name": "ROOKIE",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1252
     },
     {
       "ID": "6",
@@ -1397,8 +1397,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:06:42.8663312+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:06:46.3400203+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:00:13.9554982+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:06:42.8663561+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:00:14.0919248+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:06:46.3400457+00:00"
 }

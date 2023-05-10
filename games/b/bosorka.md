@@ -10,7 +10,7 @@
 | Runes collector | 51.00% | ~35 |
 | First time, yes? | 46.00% | ~32 |
 | Kind heart | 45.00% | ~31 |
-| Skilled rider | 41.00% | ~28 |
+| Skilled rider | 42.00% | ~29 |
 | Devil's dozen | 26.00% | ~18 |
 | It doesn't work like that | 19.00% | ~13 |
 | A small victory | 16.00% | ~11 |

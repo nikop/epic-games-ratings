@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 158,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
@@ -198,7 +198,7 @@
       "ID": "DLC01_ACHIEVEMENT06",
       "SetID": "5jieak",
       "Name": "\u2026 Women Inherit The Earth",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -277,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:06:50.2208683+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:06:53.6118152+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:24.2338548+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:00:33.8736757+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:06:50.2208879+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:00:32.7868025+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:06:53.611833+00:00"
 }

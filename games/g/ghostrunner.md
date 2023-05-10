@@ -6,13 +6,13 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~3,449 |
+| Longrunner | 78.00% | ~3,450 |
 | Sword Runner | 63.00% | ~2,786 |
 | Wallrunner | 58.00% | ~2,565 |
 | Running out of breath | 57.00% | ~2,521 |
-| Homerunner | 47.00% | ~2,078 |
-| Out of order | 47.00% | ~2,078 |
-| I call it luck | 46.00% | ~2,034 |
+| Homerunner | 47.00% | ~2,079 |
+| Out of order | 47.00% | ~2,079 |
+| I call it luck | 46.00% | ~2,035 |
 | Where are my Keys? | 44.00% | ~1,946 |
 | Back to hell | 39.00% | ~1,725 |
 | Perfection | 35.00% | ~1,548 |
@@ -25,7 +25,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Finish line | 28.00% | ~1,238 |
 | Unstoppable force | 25.00% | ~1,106 |
 | Wave of mutilation | 23.00% | ~1,017 |
-| Can't Run Can't Hide | 20.00% | ~884 |
+| Can't Run Can't Hide | 20.00% | ~885 |
 | R is for Running | 19.00% | ~840 |
 | Dead in the air | 17.00% | ~752 |
 | Improvise, adapt, overrun | 15.00% | ~663 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~22 |
 | Up Close And Personal | 0.50% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,422 (Ranked 125)  
+Progressed: 4,423 (Ranked 125)  
 Completed: 22 (0.50%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 22 (0.50%) (Ranked 104)
 | 2023-05-07 | 4,199 | 21 |
 | 2023-05-08 | 4,272 | 21 |
 | 2023-05-09 | 4,362 | 21 |
-| 2023-05-10 | 4,422 | 22 |
+| 2023-05-10 | 4,423 | 22 |
 ## Awards
 Max (Great Boss Battles): 456  (Ranked 188)  
 Sum: 588 (Ranked 280)  

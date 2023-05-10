@@ -235,9 +235,9 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 75,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "RUNE_OVERSTAMINA",
@@ -276,8 +276,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:06:35.9335932+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:06:39.666176+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.4925322+00:00",
-  "LastUpdate_Ratings": "2023-05-10T18:58:57.33023+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:06:35.933606+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:58:55.5487053+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:06:39.6661894+00:00"
 }

@@ -42,16 +42,16 @@ Rating: 4.77 (Ranked 103)
 | The Auror's Apprentice | 1.00% | ~2,665 |
 | Rise to the Challenges | 1.00% | ~2,665 |
 | The Wise Owl | 1.00% | ~2,665 |
-| Finishing Touches | 0.90% | ~2,398 |
+| Finishing Touches | 0.90% | ~2,399 |
 | Demiguise Dread | 0.80% | ~2,132 |
-| Savvy Spender | 0.70% | ~1,865 |
-| A Forte for Achievement | 0.70% | ~1,865 |
+| Savvy Spender | 0.70% | ~1,866 |
+| A Forte for Achievement | 0.70% | ~1,866 |
 | Merlin's Beard! | 0.60% | ~1,599 |
-| Spilled Milk | 0.50% | ~1,332 |
+| Spilled Milk | 0.50% | ~1,333 |
 | The Nature of the Beast | 0.40% | ~1,066 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,496 (Ranked 38)  
+Progressed: 266,502 (Ranked 38)  
 Completed: 358 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 358 (0.13%) (Ranked 150)
 | 2023-05-07 | 266,124 | 351 |
 | 2023-05-08 | 266,274 | 354 |
 | 2023-05-09 | 266,399 | 356 |
-| 2023-05-10 | 266,496 | 358 |
+| 2023-05-10 | 266,502 | 358 |
 ## Awards
 Max (Character Customization): 18,623  (Ranked 18)  
 Sum: 34,054 (Ranked 33)  

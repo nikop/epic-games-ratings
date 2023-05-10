@@ -3616,9 +3616,9 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87084,
+  "EOS_Progressed": 87086,
   "EOS_Completed": 1822,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5380,6 +5380,11 @@
     {
       "Time": "2023-05-10T19:07:10.9103645+00:00",
       "NumProgressed": 87084,
+      "NumCompleted": 1822
+    },
+    {
+      "Time": "2023-05-10T20:07:14.2275765+00:00",
+      "NumProgressed": 87086,
       "NumCompleted": 1822
     }
   ],
@@ -7646,9 +7651,9 @@
       "ID": "objective_completed_555",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Under Siege",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_556",
@@ -9262,9 +9267,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 261
     },
     {
       "ID": "objective_completed_95",
@@ -9303,21 +9308,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53358,
+      "Progressed": 53360,
       "Completed": 2488
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87084,
+      "Progressed": 87086,
       "Completed": 1822
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-10T18:59:25.706+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:07:10.9103636+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:07:14.227576+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T18:59:25.7060005+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:07:10.9130592+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:59:26.2105046+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:07:14.2298704+00:00"
 }

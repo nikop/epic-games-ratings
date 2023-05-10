@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.30% | ~261 |
 | Waterdeep Detours | 0.30% | ~261 |
 | Underdeep Cartography | 0.30% | ~261 |
+| The Templar's Camp | 0.30% | ~261 |
 | Pros and CONs | 0.20% | ~174 |
 | Upholding the Law | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~107 |
@@ -114,6 +115,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.20% | ~174 |
 | Flying Monkey Skulls of Doom | 0.20% | ~174 |
 | Lair of the Xanathar | 0.20% | ~174 |
+| Waterdeep Under Siege | 0.20% | ~174 |
 | Crowded Streets | 0.20% | ~174 |
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Troublesome Prisoner | 0.20% | ~174 |
@@ -150,7 +152,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | How Far Away is Thay | 0.20% | ~107 |
 | Deekin's Mission | 0.20% | ~107 |
 | Frozen Vengeance | 0.20% | ~107 |
-| The Templar's Camp | 0.20% | ~174 |
 | The Haunted Jungle | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -335,7 +336,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.10% | ~87 |
 | Feigned Weakness | 0.10% | ~87 |
 | DPS in the Deeps | 0.10% | ~53 |
-| Waterdeep Under Siege | 0.10% | ~87 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~87 |
 | Sober Up | 0.10% | ~87 |
 | In The Beginning | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,084 (Ranked 59)  
+Progressed: 87,086 (Ranked 59)  
 Completed: 1,822 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,822 (2.09%) (Ranked 60)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,084 | 1,822 |
+| 2023-05-10 | 87,086 | 1,822 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,846 (Ranked 37)  

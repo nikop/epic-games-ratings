@@ -37,8 +37,8 @@ Number of Ratings: 63  (23.09.2022)
 | Shrub it Off | 15.00% | ~758 |
 | Collected 50 mushrooms | 14.00% | ~707 |
 | Budding Gardener | 14.00% | ~707 |
+| Ultimate Jerk | 13.00% | ~657 |
 | Stop Hitting Each Other | 12.00% | ~606 |
-| Ultimate Jerk | 12.00% | ~606 |
 | Hot Potato | 10.00% | ~505 |
 | Off the Beaten Path | 9.00% | ~455 |
 | It's Been a Blast | 9.00% | ~455 |

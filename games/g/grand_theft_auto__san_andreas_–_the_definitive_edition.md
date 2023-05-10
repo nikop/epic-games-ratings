@@ -7,7 +7,7 @@ Rating: 4.60 (Ranked 376)
 | ---- | ---------- | ----- |
 | Getting Started | 80.00% | ~6,058 |
 | Pay 'n' Spray | 48.00% | ~3,635 |
-| All Dressed Up for San Fierro | 22.00% | ~1,666 |
+| All Dressed Up for San Fierro | 23.00% | ~1,742 |
 | The American Dream | 17.00% | ~1,287 |
 | School's Out | 16.00% | ~1,212 |
 | Smooth Moves | 15.00% | ~1,136 |

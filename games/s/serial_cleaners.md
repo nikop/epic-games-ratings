@@ -9,6 +9,7 @@
 | Eyes Yet To Open | 0.60% | ~1 |
 | Small-time Finder | 0.60% | ~1 |
 | Business as usual | 0.60% | ~1 |
+| … Women Inherit The Earth | 0.60% | ~0 |
 | A New Broom Sweeps Clean | 0.60% | ~1 |
 | Mr. Hygeni | 0.60% | ~1 |
 | The Wing and the Thigh | 0.60% | ~1 |
@@ -25,7 +26,6 @@
 | Cha Cha Real Smooth | 0.00% | ~0 |
 | That’s One Big Pile | 0.00% | ~0 |
 | The Crush And Smash The Dino Four | 0.00% | ~0 |
-| … Women Inherit The Earth | 0.00% | ~0 |
 | Bee Squat | 0.00% | ~0 |
 | The Germophobes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

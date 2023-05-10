@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 51.00% | ~1,228 |
+| ROOKIE | 52.00% | ~1,252 |
 | EXTRA BOOST | 40.00% | ~963 |
 | IT MAKES BOOM! | 40.00% | ~963 |
 | PRO | 30.00% | ~722 |
 | PROTECTED | 28.00% | ~674 |
 | A TIGER'S FEAR | 28.00% | ~674 |
 | HERE ARE SOME BARE NECESSITIES | 28.00% | ~674 |
-| AGGRESSIVE RACER | 27.00% | ~650 |
+| AGGRESSIVE RACER | 28.00% | ~674 |
 | ACE SPEEDSTER | 19.00% | ~457 |
 | IT'S A LONG WAY TO THE TOP | 14.00% | ~337 |
 | DEFEAT OUR CHAMPION | 9.00% | ~217 |

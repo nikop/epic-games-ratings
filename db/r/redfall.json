@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1483,
+  "EOS_Progressed": 1484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -957,6 +957,11 @@
       "Time": "2023-05-10T19:06:30.8016564+00:00",
       "NumProgressed": 1483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T20:06:34.4253281+00:00",
+      "NumProgressed": 1484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1000,7 +1005,7 @@
       "Name": "Contingency Plans",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_007",
@@ -1024,7 +1029,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "Achievement_010",
@@ -1112,7 +1117,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_021",
@@ -1136,7 +1141,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_024",
@@ -1144,7 +1149,7 @@
       "Name": "Good Morning",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_025",
@@ -1198,9 +1203,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 683
     },
     {
       "ID": "Achievement_032",
@@ -1264,7 +1269,7 @@
       "Name": "Check, Please!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_040",
@@ -1272,7 +1277,7 @@
       "Name": "Heart Attack",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Achievement_041",
@@ -1288,7 +1293,7 @@
       "Name": "Starve the Beast",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Achievement_044",
@@ -1304,7 +1309,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Achievement_046",
@@ -1368,7 +1373,7 @@
       "Name": "Blacklight Down",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_056",
@@ -1488,14 +1493,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1483,
+      "Progressed": 1484,
       "Completed": 0
     }
   ],
@@ -1503,8 +1508,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-10T11:57:52.369097+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:06:30.801656+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:06:34.4253276+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-10T18:59:13.7297697+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:06:30.8017324+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:59:13.1593504+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:06:34.4254047+00:00"
 }

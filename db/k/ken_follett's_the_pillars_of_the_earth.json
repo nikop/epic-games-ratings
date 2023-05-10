@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12335,
+  "EOS_Progressed": 12336,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1580,6 +1580,11 @@
       "Time": "2023-05-10T19:06:24.6131072+00:00",
       "NumProgressed": 12335,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-10T20:06:28.601743+00:00",
+      "NumProgressed": 12336,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1631,7 +1636,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4317
+      "UsersEstimate": 4318
     },
     {
       "ID": "tpote_achievement_15",
@@ -1679,7 +1684,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4317
+      "UsersEstimate": 4318
     },
     {
       "ID": "tpote_achievement_20",
@@ -1703,7 +1708,7 @@
       "Name": "Two of us",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "tpote_achievement_23",
@@ -1895,7 +1900,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "tpote_achievement_8",
@@ -1918,15 +1923,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12335,
+      "Progressed": 12336,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:06:24.6131068+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:06:28.6017425+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:01:15.7075281+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:06:24.6131456+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:01:11.5579908+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:06:28.6017816+00:00"
 }

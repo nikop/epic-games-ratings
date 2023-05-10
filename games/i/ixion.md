@@ -7,7 +7,7 @@ Rating: 4.54 (Ranked 477)
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 1.00% | ~19 |
 | Wakey Wakey | 0.90% | ~17 |
-| Infinite Growth... | 0.60% | ~11 |
+| Infinite Growth... | 0.70% | ~13 |
 | Sputnik 2049 | 0.60% | ~11 |
 | A Thousand Strong | 0.60% | ~11 |
 | Ready for a New World | 0.60% | ~11 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,869 (Ranked 145)  
+Progressed: 1,869 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

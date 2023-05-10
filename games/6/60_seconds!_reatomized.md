@@ -24,7 +24,7 @@ Rating: 4.63 (Ranked 325)
 | What goes around... | 40.00% | ~1,589 |
 | Be Prepared | 34.00% | ~1,351 |
 | Unbreakable | 33.00% | ~1,311 |
-| Atomic drill | 31.00% | ~1,232 |
+| Atomic drill | 32.00% | ~1,271 |
 | This is the end | 31.00% | ~1,232 |
 | Gotta get 'em all | 29.00% | ~1,152 |
 | Disco Roach | 26.00% | ~1,033 |

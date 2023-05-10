@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1052,9 +1052,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60775,
+  "EOS_Progressed": 60776,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2217,6 +2217,11 @@
       "Time": "2023-05-10T19:07:01.6070318+00:00",
       "NumProgressed": 60775,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-10T20:07:04.8961096+00:00",
+      "NumProgressed": 60776,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 61,
@@ -2674,9 +2679,9 @@
       "ID": "MYSTERY_08",
       "SetID": "4eo5ebm",
       "Name": "Gotham Knight",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 243
     },
     {
       "ID": "SECRET_CACHE",
@@ -2715,13 +2720,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60775,
+      "Progressed": 60776,
       "Completed": 90
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31055,
+      "Progressed": 31056,
       "Completed": 2633
     }
   ],
@@ -2729,8 +2734,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-10T09:59:18.7365189+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:07:01.6070309+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:07:04.8961091+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:01:03.6763855+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:07:01.6070984+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:01:00.0768229+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:07:04.8961798+00:00"
 }

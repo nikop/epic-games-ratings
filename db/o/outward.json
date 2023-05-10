@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 467,
-  "Ranking_Popularity": 439,
+  "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 174,
@@ -986,9 +986,9 @@
       "ID": "LetEmEatMagma",
       "SetID": "c4hee28",
       "Name": "Let \u2018em eat magma!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 188
     },
     {
       "ID": "LightofLevant_18",
@@ -1202,8 +1202,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:06:37.6889013+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:06:41.355525+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:02.1241057+00:00",
-  "LastUpdate_Ratings": "2023-05-10T18:59:06.4456041+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:06:37.6889332+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:59:06.5614969+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:06:41.3555592+00:00"
 }

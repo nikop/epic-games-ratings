@@ -245,9 +245,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 75,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_first_harvest",
@@ -509,9 +509,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -541,9 +541,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -558,8 +558,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:04:09.1696994+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:04:04.2515018+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-10T18:59:39.387525+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:04:09.1697341+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:59:39.6971116+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:04:04.2515363+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
       "Time": "2023-05-07T09:03:21.6271367+00:00",
       "NumProgressed": 131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T20:04:23.5774855+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -63,7 +68,7 @@
       "Name": "Animal Lover",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "axe_of_kindness",
@@ -95,7 +100,7 @@
       "Name": "Chief Butler",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "choking_hazzard",
@@ -231,7 +236,7 @@
       "Name": "Perfect Harmony!",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "phonic_boom",
@@ -245,9 +250,9 @@
       "ID": "rapturous_applause",
       "SetID": "3j2phem",
       "Name": "Rapturous Applause!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "scholar",
@@ -302,7 +307,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
@@ -310,8 +315,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:04:29.0073963+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:04:23.5774851+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:22.3761086+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:00:31.3783598+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:04:29.0074233+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:00:30.4851498+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:04:23.5775113+00:00"
 }

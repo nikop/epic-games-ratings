@@ -2,7 +2,7 @@
   "ID": "51b1503392e04abab64364092cbfca2b",
   "Name": "INDUSTRIA",
   "ProductSlug": "industria",
-  "Ranking_EOS_Progress": 394,
+  "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 80,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.1554458+00:00",
   "LastChanged": "2023-03-31T05:57:34.1554459+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.713684+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:01:23.5707052+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:05:58.8136977+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:01:19.4253924+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:06:03.0638346+00:00"
 }

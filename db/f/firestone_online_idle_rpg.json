@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.48,
+  "Rating": 3.55,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -38,13 +38,19 @@
       "Rating": 3.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-10T19:59:22.0415838+00:00",
+      "Rating": 3.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 946,
+  "EOS_Progressed": 947,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -1334,6 +1340,11 @@
       "Time": "2023-05-10T19:06:41.4923164+00:00",
       "NumProgressed": 946,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T20:06:44.9531827+00:00",
+      "NumProgressed": 947,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1449,15 +1460,15 @@
       "Name": "Dragon Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "dragonmaster",
       "SetID": "3nl4bcg",
       "Name": "Dragon Master",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 66
     },
     {
       "ID": "dragonslayer",
@@ -1681,7 +1692,7 @@
       "Name": "Miner Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "missionsdedication",
@@ -1801,7 +1812,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "thealchemist",
@@ -1833,7 +1844,7 @@
       "Name": "The game is on",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "thepowerofawakening",
@@ -1905,7 +1916,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "warmachinesarmy",
@@ -1937,23 +1948,23 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 946,
+      "Progressed": 947,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-05-09T15:59:23.3222999+00:00",
-  "LastChanged_Achievements": "2023-05-10T19:06:41.4923159+00:00",
+  "LastChanged": "2023-05-10T19:59:22.0415837+00:00",
+  "LastChanged_Achievements": "2023-05-10T20:06:44.9531822+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-10T18:59:22.5306833+00:00",
-  "LastUpdate_Achievements": "2023-05-10T19:06:41.4924017+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:59:22.0415842+00:00",
+  "LastUpdate_Achievements": "2023-05-10T20:06:44.9532701+00:00"
 }

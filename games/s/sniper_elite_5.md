@@ -10,23 +10,23 @@ Rating: 4.38 (Ranked 688)
 | The Kraken Wakes | 29.00% | ~202 |
 | It's Starting to Crack | 28.00% | ~195 |
 | Change the Channel | 25.00% | ~174 |
-| Lord of War | 24.00% | ~167 |
-| Resourceful | 23.00% | ~160 |
-| Taking it back | 23.00% | ~160 |
-| Organ Grinder | 22.00% | ~153 |
-| Sharpshooter | 21.00% | ~146 |
-| Target America | 21.00% | ~146 |
-| As Quiet as a Mouse | 19.00% | ~132 |
-| The Kraken Sleeps | 19.00% | ~132 |
-| Liberté | 17.00% | ~118 |
-| Explosive Efficiency | 16.00% | ~111 |
-| Gunslinger | 15.00% | ~104 |
-| Climbing the Ladder | 14.00% | ~97 |
-| Fields of Glory | 14.00% | ~97 |
-| Skirmisher | 14.00% | ~97 |
-| Close Quarters | 14.00% | ~97 |
-| Just a Flesh Wound | 13.00% | ~90 |
-| Der Geist | 13.00% | ~90 |
+| Lord of War | 24.00% | ~168 |
+| Taking it back | 23.00% | ~161 |
+| Resourceful | 22.00% | ~154 |
+| Organ Grinder | 21.00% | ~147 |
+| Sharpshooter | 21.00% | ~147 |
+| Target America | 21.00% | ~147 |
+| As Quiet as a Mouse | 19.00% | ~133 |
+| The Kraken Sleeps | 19.00% | ~133 |
+| Liberté | 17.00% | ~119 |
+| Explosive Efficiency | 16.00% | ~112 |
+| Climbing the Ladder | 14.00% | ~98 |
+| Fields of Glory | 14.00% | ~98 |
+| Gunslinger | 14.00% | ~98 |
+| Skirmisher | 14.00% | ~98 |
+| Close Quarters | 14.00% | ~98 |
+| Just a Flesh Wound | 13.00% | ~91 |
+| Der Geist | 13.00% | ~91 |
 | Set Europe Ablaze | 12.00% | ~84 |
 | Die Nussknacker Sweet! | 12.00% | ~84 |
 | Snake in the Grass | 12.00% | ~84 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 688)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696 (Ranked 177)  
+Progressed: 698 (Ranked 176)  
 Completed: 2 (0.29%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 2 (0.29%) (Ranked 125)
 | 2023-05-07 | 688 | 2 |
 | 2023-05-08 | 691 | 2 |
 | 2023-05-09 | 694 | 2 |
-| 2023-05-10 | 696 | 2 |
+| 2023-05-10 | 698 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
