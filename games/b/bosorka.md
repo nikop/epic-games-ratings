@@ -8,7 +8,7 @@
 | A good start | 57.00% | ~39 |
 | Witch's duty | 52.00% | ~36 |
 | Runes collector | 51.00% | ~35 |
-| First time, yes? | 46.00% | ~32 |
+| First time, yes? | 48.00% | ~33 |
 | Kind heart | 45.00% | ~31 |
 | Skilled rider | 42.00% | ~29 |
 | Devil's dozen | 26.00% | ~18 |

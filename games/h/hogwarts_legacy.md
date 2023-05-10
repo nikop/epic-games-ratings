@@ -5,27 +5,27 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,325 |
-| Grappling with a Graphorn | 5.00% | ~13,325 |
-| The One Who Mastered Memories | 5.00% | ~13,325 |
-| The Hallowed Hero | 5.00% | ~13,325 |
-| The Hero of Hogwarts | 5.00% | ~13,325 |
-| The Defender of Dragons | 5.00% | ~13,325 |
-| Challenge Accepted | 5.00% | ~13,325 |
-| Loom for Improvement | 5.00% | ~13,325 |
-| Coasting Along | 5.00% | ~13,325 |
-| That's a Keeper | 5.00% | ~13,325 |
-| Rising From the Ashes | 5.00% | ~13,325 |
-| The Avenging Gazelle | 4.00% | ~10,660 |
-| Beast Friends | 4.00% | ~10,660 |
-| A Sallow Grave | 4.00% | ~10,660 |
-| Flight the Good Flight | 4.00% | ~10,660 |
-| A Keen Sense of Spell | 4.00% | ~10,660 |
-| A Talent for Spending | 4.00% | ~10,660 |
-| Followed the Butterflies | 4.00% | ~10,660 |
-| The Spell Master | 4.00% | ~10,660 |
-| First Class Student | 4.00% | ~10,660 |
-| Troll with the Punches | 4.00% | ~10,660 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,326 |
+| Grappling with a Graphorn | 5.00% | ~13,326 |
+| The One Who Mastered Memories | 5.00% | ~13,326 |
+| The Hallowed Hero | 5.00% | ~13,326 |
+| The Hero of Hogwarts | 5.00% | ~13,326 |
+| The Defender of Dragons | 5.00% | ~13,326 |
+| Challenge Accepted | 5.00% | ~13,326 |
+| Loom for Improvement | 5.00% | ~13,326 |
+| Coasting Along | 5.00% | ~13,326 |
+| That's a Keeper | 5.00% | ~13,326 |
+| Rising From the Ashes | 5.00% | ~13,326 |
+| The Avenging Gazelle | 4.00% | ~10,661 |
+| Beast Friends | 4.00% | ~10,661 |
+| A Sallow Grave | 4.00% | ~10,661 |
+| Flight the Good Flight | 4.00% | ~10,661 |
+| A Keen Sense of Spell | 4.00% | ~10,661 |
+| A Talent for Spending | 4.00% | ~10,661 |
+| Followed the Butterflies | 4.00% | ~10,661 |
+| The Spell Master | 4.00% | ~10,661 |
+| First Class Student | 4.00% | ~10,661 |
+| Troll with the Punches | 4.00% | ~10,661 |
 | The Seeker of Knowledge | 3.00% | ~7,995 |
 | The Root of the Problem | 3.00% | ~7,995 |
 | Third Time's a Charm | 3.00% | ~7,995 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,066 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,502 (Ranked 38)  
+Progressed: 266,513 (Ranked 38)  
 Completed: 358 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 358 (0.13%) (Ranked 150)
 | 2023-05-07 | 266,124 | 351 |
 | 2023-05-08 | 266,274 | 354 |
 | 2023-05-09 | 266,399 | 356 |
-| 2023-05-10 | 266,502 | 358 |
+| 2023-05-10 | 266,513 | 358 |
 ## Awards
 Max (Character Customization): 18,623  (Ranked 18)  
 Sum: 34,054 (Ranked 33)  

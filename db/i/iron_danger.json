@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -50,6 +50,11 @@
     {
       "Time": "2023-05-03T19:04:42.9660679+00:00",
       "NumProgressed": 164,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-10T21:05:41.8670413+00:00",
+      "NumProgressed": 165,
       "NumCompleted": 4
     }
   ],
@@ -86,7 +91,7 @@
       "Name": "Berry Nice",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -126,7 +131,7 @@
       "Name": "Found the Healer",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -182,7 +187,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_SHARD_2",
@@ -196,9 +201,9 @@
       "ID": "ACH_SHARD_3",
       "SetID": "ao59f0i",
       "Name": "Third Shard",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_SHARD_4",
@@ -245,7 +250,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 4
     }
   ],
@@ -253,8 +258,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-10T20:07:03.3138487+00:00",
+  "LastChanged_Achievements": "2023-05-10T21:05:41.8670411+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:09.1056686+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:01:16.045899+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:07:03.3138635+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:59:52.0221155+00:00",
+  "LastUpdate_Achievements": "2023-05-10T21:05:41.867056+00:00"
 }

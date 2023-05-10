@@ -12,15 +12,15 @@ Number of Ratings: 524  (23.09.2022)
 | Nordic Walking | 13.00% | ~5,994 |
 | Bright Falls' Finest | 12.00% | ~5,533 |
 | Under a Thin Layer of Skin | 11.00% | ~5,072 |
-| Park Ranger | 9.00% | ~4,149 |
-| Back! Back, I Say! | 9.00% | ~4,149 |
-| Finders Keepers | 9.00% | ~4,149 |
-| Paging Mr. Wake | 9.00% | ~4,149 |
-| Wheels Within Wheels | 8.00% | ~3,688 |
-| They're Heeeeeere! | 8.00% | ~3,688 |
-| Sound and Fury | 8.00% | ~3,688 |
-| Missed by a Mile | 8.00% | ~3,688 |
-| Damn Good Cup of Coffee | 8.00% | ~3,688 |
+| Park Ranger | 9.00% | ~4,150 |
+| Back! Back, I Say! | 9.00% | ~4,150 |
+| Finders Keepers | 9.00% | ~4,150 |
+| Paging Mr. Wake | 9.00% | ~4,150 |
+| Wheels Within Wheels | 8.00% | ~3,689 |
+| They're Heeeeeere! | 8.00% | ~3,689 |
+| Sound and Fury | 8.00% | ~3,689 |
+| Missed by a Mile | 8.00% | ~3,689 |
+| Damn Good Cup of Coffee | 8.00% | ~3,689 |
 | A Friend in Need | 8.00% | ~766 |
 | Heavy Metal | 7.00% | ~3,227 |
 | Iron Horse | 7.00% | ~3,227 |
@@ -49,7 +49,7 @@ Number of Ratings: 524  (23.09.2022)
 | Heartbreaker | 3.00% | ~287 |
 | Boob Tube | 2.00% | ~922 |
 | Carny | 2.00% | ~922 |
-| Iron Will | 2.00% | ~191 |
+| Iron Will | 2.00% | ~192 |
 | Medical Opinions | 1.00% | ~461 |
 | Taken Season | 1.00% | ~461 |
 | An Idyllic Small Town | 1.00% | ~461 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,105 (Ranked 75)  
+Progressed: 46,107 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-07 | 46,058 | 44 |
 | 2023-05-08 | 46,074 | 44 |
 | 2023-05-09 | 46,097 | 44 |
-| 2023-05-10 | 46,105 | 44 |
+| 2023-05-10 | 46,107 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

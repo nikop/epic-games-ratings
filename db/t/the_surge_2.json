@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1545,
+  "EOS_Progressed": 1546,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -305,6 +305,11 @@
       "Time": "2023-05-10T07:05:57.2200171+00:00",
       "NumProgressed": 1545,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-10T21:05:50.3896998+00:00",
+      "NumProgressed": 1546,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -356,7 +361,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHV_07",
@@ -452,7 +457,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHV_19",
@@ -468,7 +473,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHV_21",
@@ -516,7 +521,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ACHV_27",
@@ -540,7 +545,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHV_30",
@@ -644,7 +649,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHV_43",
@@ -771,7 +776,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1545,
+      "Progressed": 1546,
       "Completed": 10
     }
   ],
@@ -779,8 +784,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-10T20:07:12.2987396+00:00",
+  "LastChanged_Achievements": "2023-05-10T21:05:50.3896994+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:33.3150703+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:01:42.5894121+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:07:12.2987923+00:00"
+  "LastUpdate_Ratings": "2023-05-10T21:00:17.6503072+00:00",
+  "LastUpdate_Achievements": "2023-05-10T21:05:50.3897507+00:00"
 }

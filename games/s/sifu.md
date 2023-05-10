@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,794 (Ranked 15)  
+Progressed: 702,797 (Ranked 15)  
 Completed: 12,719 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,20 +77,20 @@ Completed: 12,719 (1.81%) (Ranked 62)
 | 2023-05-07 | 702,693 | 12,713 |
 | 2023-05-08 | 702,730 | 12,716 |
 | 2023-05-09 | 702,765 | 12,718 |
-| 2023-05-10 | 702,794 | 12,719 |
+| 2023-05-10 | 702,797 | 12,719 |
 ## Awards
 Max (Great Boss Battles): 6,046  (Ranked 53)  
-Sum: 10,256 (Ranked 77)  
+Sum: 10,258 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,046 |
 | This game has Diverse Characters | 503 |
 | This game has Challenging Combat | 501 |
-| This game has Quickly Understood Controls | 496 |
+| This game has Quickly Understood Controls | 497 |
 | This game is Extremely Fun | 491 |
 | This game has Amazing Storytelling | 486 |
-| This game is Highly Recommended | 472 |
+| This game is Highly Recommended | 473 |
 | This game has Amazing Characters | 468 |
 | This game has Unique Visuals | 449 |
 | This game is Relaxing | 401 |
@@ -213,4 +213,4 @@ Diff (max vs sum): -24
 | 2023-05-07 | 4.82 | - | 6,035 | 10,235 |
 | 2023-05-08 | 4.82 | - | 6,041 | 10,245 |
 | 2023-05-09 | 4.82 | - | 6,044 | 10,252 |
-| 2023-05-10 | 4.82 | - | 6,046 | 10,256 |
+| 2023-05-10 | 4.82 | - | 6,046 | 10,258 |

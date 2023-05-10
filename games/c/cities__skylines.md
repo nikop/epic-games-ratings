@@ -6,39 +6,39 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~508,153 |
-| Green Energy | 60.00% | ~429,425 |
-| Foggy Weather | 59.00% | ~422,268 |
-| Singing In The- | 59.00% | ~422,268 |
-| Unpopular Mayor | 41.00% | ~293,441 |
-| Power at Your Fingertips | 33.00% | ~236,184 |
-| City Planner | 23.00% | ~164,613 |
-| Rolling in Dough | 20.00% | ~143,142 |
-| Does My Bum Look Big In This? | 18.00% | ~128,828 |
-| Climbing the Social Ladder | 17.00% | ~121,671 |
-| Safe City | 14.00% | ~100,199 |
-| Quay-King | 11.00% | ~78,728 |
-| Lawmaker | 10.00% | ~71,571 |
-| With Canals You Can! | 10.00% | ~71,571 |
-| Nomen Est Omen | 7.00% | ~50,100 |
-| Well Informed | 6.00% | ~42,943 |
-| Fire Watch | 5.00% | ~35,785 |
-| Greenest City | 4.00% | ~28,628 |
-| Reporting! | 4.00% | ~28,628 |
-| Heavenly City | 3.00% | ~21,471 |
-| SIMulated City | 3.00% | ~21,471 |
-| The Safest Town | 3.00% | ~21,471 |
-| City in Motion | 2.00% | ~14,314 |
-| Professional Dumper | 2.00% | ~14,314 |
-| Earthloving City | 1.00% | ~7,157 |
-| Metropolis | 1.00% | ~7,157 |
+| Pioneer | 71.00% | ~508,200 |
+| Green Energy | 60.00% | ~429,465 |
+| Foggy Weather | 59.00% | ~422,307 |
+| Singing In The- | 59.00% | ~422,307 |
+| Unpopular Mayor | 41.00% | ~293,468 |
+| Power at Your Fingertips | 33.00% | ~236,206 |
+| City Planner | 23.00% | ~164,628 |
+| Rolling in Dough | 20.00% | ~143,155 |
+| Does My Bum Look Big In This? | 18.00% | ~128,840 |
+| Climbing the Social Ladder | 17.00% | ~121,682 |
+| Safe City | 14.00% | ~100,209 |
+| Quay-King | 11.00% | ~78,735 |
+| Lawmaker | 10.00% | ~71,578 |
+| With Canals You Can! | 10.00% | ~71,578 |
+| Nomen Est Omen | 7.00% | ~50,104 |
+| Well Informed | 6.00% | ~42,946 |
+| Fire Watch | 5.00% | ~35,789 |
+| Greenest City | 4.00% | ~28,631 |
+| Reporting! | 4.00% | ~28,631 |
+| Heavenly City | 3.00% | ~21,473 |
+| SIMulated City | 3.00% | ~21,473 |
+| The Safest Town | 3.00% | ~21,473 |
+| City in Motion | 2.00% | ~14,316 |
+| Professional Dumper | 2.00% | ~14,316 |
+| Earthloving City | 1.00% | ~7,158 |
+| Metropolis | 1.00% | ~7,158 |
 | Higher Education | 0.80% | ~5,726 |
 | Beam Me Up | 0.70% | ~5,010 |
 | Terraformer | 0.70% | ~5,010 |
-| Decorator | 0.60% | ~4,294 |
-| Full Capacity | 0.60% | ~4,294 |
-| It's heading right for us! | 0.60% | ~4,294 |
-| The Waters of Our Lives | 0.60% | ~4,294 |
+| Decorator | 0.60% | ~4,295 |
+| Full Capacity | 0.60% | ~4,295 |
+| It's heading right for us! | 0.60% | ~4,295 |
+| The Waters of Our Lives | 0.60% | ~4,295 |
 | Airfield Expertise | 0.50% | ~3,579 |
 | Drop the Base | 0.50% | ~3,579 |
 | Get Your Snowshoes Ready! | 0.50% | ~3,579 |
@@ -60,13 +60,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Run, Bambi! | 0.30% | ~2,147 |
 | Short Fuse | 0.30% | ~2,147 |
 | We need snorkels! | 0.30% | ~2,147 |
-| City in Motion 2 | 0.20% | ~1,431 |
-| Eternal City | 0.20% | ~1,431 |
-| It's Wintertime! | 0.20% | ~1,431 |
-| Make Them Pay | 0.20% | ~1,431 |
-| Medic! | 0.20% | ~1,431 |
-| Power to the People | 0.20% | ~1,431 |
-| The Park To Rule All Parks | 0.20% | ~1,431 |
+| City in Motion 2 | 0.20% | ~1,432 |
+| Eternal City | 0.20% | ~1,432 |
+| It's Wintertime! | 0.20% | ~1,432 |
+| Make Them Pay | 0.20% | ~1,432 |
+| Medic! | 0.20% | ~1,432 |
+| Power to the People | 0.20% | ~1,432 |
+| The Park To Rule All Parks | 0.20% | ~1,432 |
 | 1001 Nights | 0.10% | ~716 |
 | Academic Scholar | 0.10% | ~716 |
 | Airline Tycoon | 0.10% | ~716 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~716 |
 | Z00 | 0.10% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,709 (Ranked 13)  
+Progressed: 715,775 (Ranked 13)  
 Completed: 6 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 6 (0.00%) (Ranked 198)
 | 2023-05-07 | 710,313 | 6 |
 | 2023-05-08 | 712,293 | 6 |
 | 2023-05-09 | 714,132 | 6 |
-| 2023-05-10 | 715,709 | 6 |
+| 2023-05-10 | 715,775 | 6 |
 ## Awards
 Max (Relaxing): 4,430  (Ranked 68)  
 Sum: 33,825 (Ranked 34)  

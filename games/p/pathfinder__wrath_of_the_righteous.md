@@ -7,18 +7,18 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 12.00% | ~1,050 |
-| Burning City | 9.00% | ~787 |
-| A Spark | 9.00% | ~787 |
-| Banner over the Citadel | 7.00% | ~612 |
-| Mythic Choices | 7.00% | ~612 |
-| Defender's Heart | 7.00% | ~612 |
+| Burning City | 9.00% | ~788 |
+| A Spark | 9.00% | ~788 |
+| Banner over the Citadel | 7.00% | ~613 |
+| Mythic Choices | 7.00% | ~613 |
+| Defender's Heart | 7.00% | ~613 |
 | Queen's Gratitude | 6.00% | ~525 |
 | Fifth Crusade | 4.00% | ~350 |
-| Embrace of the Abyss | 3.00% | ~262 |
-| Path of the Angel | 3.00% | ~262 |
-| Great Upstart | 3.00% | ~262 |
-| All Paths Open | 3.00% | ~262 |
-| Demonic and Divine | 3.00% | ~262 |
+| Embrace of the Abyss | 3.00% | ~263 |
+| Path of the Angel | 3.00% | ~263 |
+| Great Upstart | 3.00% | ~263 |
+| All Paths Open | 3.00% | ~263 |
+| Demonic and Divine | 3.00% | ~263 |
 | Heart of the Fallen Land | 2.00% | ~175 |
 | Path of the Azata | 2.00% | ~175 |
 | Transformation | 2.00% | ~175 |
@@ -32,13 +32,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Get the Toad | 2.00% | ~175 |
 | The Lady of the Forest | 2.00% | ~151 |
 | Beware Still Water | 2.00% | ~151 |
-| Path of the Trickster | 1.00% | ~87 |
-| Path of the Lich | 1.00% | ~87 |
-| Heroic Victory | 1.00% | ~87 |
-| Capitulation Is Now Moot | 1.00% | ~87 |
-| Core of the Riddle | 1.00% | ~87 |
-| Your First Big Enemy | 1.00% | ~87 |
-| Truly Important Deed | 1.00% | ~87 |
+| Path of the Trickster | 1.00% | ~88 |
+| Path of the Lich | 1.00% | ~88 |
+| Heroic Victory | 1.00% | ~88 |
+| Capitulation Is Now Moot | 1.00% | ~88 |
+| Core of the Riddle | 1.00% | ~88 |
+| Your First Big Enemy | 1.00% | ~88 |
+| Truly Important Deed | 1.00% | ~88 |
 | Stay Underground | 1.00% | ~75 |
 | Hanged Man's Notes | 1.00% | ~75 |
 | Sarkoris Will Be Green | 1.00% | ~75 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 0.90% | ~79 |
 | Abyssal Conspiracy | 0.70% | ~61 |
 | This Wall Won't Fall | 0.70% | ~53 |
-| End of Eternal Guard | 0.60% | ~52 |
+| End of Eternal Guard | 0.60% | ~53 |
 | Not the Last Sarkorian | 0.60% | ~45 |
 | The Final Threshold | 0.50% | ~44 |
 | Path of the Dragon | 0.50% | ~44 |
@@ -56,9 +56,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Dreadful Dragon | 0.40% | ~35 |
 | Truly Profane Gift | 0.40% | ~35 |
 | Masterful Charge | 0.30% | ~26 |
-| Prelate's Nemesis | 0.20% | ~17 |
-| Just Pathetic | 0.20% | ~17 |
-| Ashes to Ashes | 0.20% | ~17 |
+| Prelate's Nemesis | 0.20% | ~18 |
+| Just Pathetic | 0.20% | ~18 |
+| Ashes to Ashes | 0.20% | ~18 |
 | Path of the Swarm | 0.10% | ~9 |
 | Equal to Aroden | 0.10% | ~9 |
 | Spirit of Adventure | 0.10% | ~9 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,749 (Ranked 109)  
+Progressed: 8,751 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-07 | 8,693 | 0 |
 | 2023-05-08 | 8,712 | 0 |
 | 2023-05-09 | 8,733 | 0 |
-| 2023-05-10 | 8,749 | 0 |
+| 2023-05-10 | 8,751 | 0 |
 ## Awards
 Max (Character Customization): 1,627  (Ranked 111)  
 Sum: 6,595 (Ranked 108)  

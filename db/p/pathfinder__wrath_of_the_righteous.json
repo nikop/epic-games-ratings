@@ -2312,7 +2312,7 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8749,
+  "EOS_Progressed": 8751,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -3232,6 +3232,11 @@
       "Time": "2023-05-10T17:06:31.2755479+00:00",
       "NumProgressed": 8749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T21:05:33.4175736+00:00",
+      "NumProgressed": 8751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3251,7 +3256,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -3259,7 +3264,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "04_FithCrusade",
@@ -3275,7 +3280,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -3299,7 +3304,7 @@
       "Name": "Path of the Angel",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "09_PathOfDemon",
@@ -3331,7 +3336,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "13_PathOfLich",
@@ -3339,7 +3344,7 @@
       "Name": "Path of the Lich",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "14_PathOfSwarm",
@@ -3379,7 +3384,7 @@
       "Name": "Mythic Choices",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "19_EqualToAroden",
@@ -3451,7 +3456,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "29_StrategicVictory",
@@ -3467,7 +3472,7 @@
       "Name": "Heroic Victory",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "31_DivideAndRule",
@@ -3491,7 +3496,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -3499,7 +3504,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -3515,7 +3520,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -3523,7 +3528,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -3531,7 +3536,7 @@
       "Name": "Prelate\u0027s Nemesis",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "39_Blight of Drezen",
@@ -3547,7 +3552,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "41_PlayfulMood",
@@ -3563,7 +3568,7 @@
       "Name": "Just Pathetic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "43_DreadfulDragon",
@@ -3579,7 +3584,7 @@
       "Name": "Ashes to Ashes",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "45_VoiceFromDreams",
@@ -3595,7 +3600,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -3611,7 +3616,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "49_Flame",
@@ -3635,7 +3640,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -3643,7 +3648,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -4170,21 +4175,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7531,
+      "Progressed": 7533,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8749,
+      "Progressed": 8751,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-10T14:00:24.5644768+00:00",
-  "LastChanged_Achievements": "2023-05-10T20:06:54.4375922+00:00",
+  "LastChanged_Achievements": "2023-05-10T21:05:33.4175729+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:59:41.9095899+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:06:54.4377589+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:58:21.46945+00:00",
+  "LastUpdate_Achievements": "2023-05-10T21:05:33.4177286+00:00"
 }

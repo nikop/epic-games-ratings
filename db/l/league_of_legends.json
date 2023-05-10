@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -4702,10 +4702,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 26886,
       "NumberOfAwardsMax": 13033
+    },
+    {
+      "Time": "2023-05-10T20:59:58.8466776+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 26889,
+      "NumberOfAwardsMax": 13033
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26886,
+  "NumberOfAwards": 26889,
   "NumberOfAwardsMax": 13033,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4737,7 +4743,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2219
+      "Count": 2222
     },
     {
       "Text": "This game has a Competitive Community",
@@ -4775,8 +4781,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-05-10T19:01:28.1481031+00:00",
+  "LastChanged": "2023-05-10T20:59:58.8466775+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.3563664+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:01:23.5289512+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:06:04.0696237+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:59:58.8466781+00:00",
+  "LastUpdate_Achievements": "2023-05-10T21:04:34.0589556+00:00"
 }

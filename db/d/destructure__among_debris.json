@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -460,9 +460,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "scrap_collector",
@@ -549,8 +549,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-10T20:07:01.0994723+00:00",
+  "LastChanged_Achievements": "2023-05-10T21:05:39.7723896+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:01:12.4447098+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:07:01.0994962+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:59:48.6910322+00:00",
+  "LastUpdate_Achievements": "2023-05-10T21:05:39.7724144+00:00"
 }

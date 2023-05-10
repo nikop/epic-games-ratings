@@ -24,13 +24,13 @@ Rating: 4.54 (Ranked 477)
 | Hope Seeker | 0.40% | ~7 |
 | Sightseeing | 0.30% | ~6 |
 | A Hunk of Junk | 0.30% | ~6 |
+| Access Granted | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | From the Past | 0.30% | ~6 |
 | Man's Best Friend | 0.20% | ~4 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | In Dolos We Trust | 0.20% | ~4 |
-| Access Granted | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | All in Good Health | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,869 (Ranked 146)  
+Progressed: 1,870 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-07 | 1,841 | 0 |
 | 2023-05-08 | 1,844 | 0 |
 | 2023-05-09 | 1,862 | 0 |
-| 2023-05-10 | 1,869 | 0 |
+| 2023-05-10 | 1,870 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

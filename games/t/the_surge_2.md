@@ -5,7 +5,7 @@ Rating: 4.24 (Ranked 782)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,236 |
+| Rigged And Ready | 80.00% | ~1,237 |
 | Don't I Know You...? | 77.00% | ~1,190 |
 | Jailbreak | 66.00% | ~1,020 |
 | Suited and Booted | 38.00% | ~587 |
@@ -15,10 +15,10 @@ Rating: 4.24 (Ranked 782)
 | High Performance | 30.00% | ~464 |
 | Powered Up | 28.00% | ~433 |
 | Studied The Blade | 25.00% | ~386 |
-| Home Invasion | 23.00% | ~355 |
+| Home Invasion | 23.00% | ~356 |
 | Luminary | 22.00% | ~340 |
 | It's a Trap | 22.00% | ~340 |
-| True Survivor | 21.00% | ~324 |
+| True Survivor | 21.00% | ~325 |
 | Shocking | 20.00% | ~309 |
 | Unforeseeable Consequences | 20.00% | ~309 |
 | Court Martial | 19.00% | ~294 |
@@ -32,10 +32,10 @@ Rating: 4.24 (Ranked 782)
 | Where It All Began | 13.00% | ~201 |
 | Risk Tolerant | 13.00% | ~201 |
 | What A Catchy Song | 13.00% | ~201 |
-| Marked For Success | 12.00% | ~185 |
-| Sorry, Didn't See You There | 12.00% | ~185 |
+| Marked For Success | 12.00% | ~186 |
+| Sorry, Didn't See You There | 12.00% | ~186 |
 | Corrupted Beauty | 11.00% | ~170 |
-| Triplets | 10.00% | ~154 |
+| Triplets | 10.00% | ~155 |
 | Denying Prophecy | 9.00% | ~139 |
 | Stimulating The Local Economy | 9.00% | ~139 |
 | A Little Banged Up | 8.00% | ~124 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 782)
 | Swiss Army Drone | 1.00% | ~15 |
 | Three Birds With One Stone | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,545 (Ranked 150)  
+Progressed: 1,546 (Ranked 150)  
 Completed: 10 (0.65%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 10 (0.65%) (Ranked 100)
 | 2023-05-06 | 1,540 | 10 |
 | 2023-05-07 | 1,542 | 10 |
 | 2023-05-09 | 1,544 | 10 |
-| 2023-05-10 | 1,545 | 10 |
+| 2023-05-10 | 1,546 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

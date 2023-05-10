@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-10T20:04:11.9373902+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T21:03:16.454895+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -102,7 +107,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -278,7 +283,7 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1335,13 +1340,13 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-10T20:04:11.9373898+00:00",
+  "LastChanged_Achievements": "2023-05-10T21:03:16.4548946+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:34.2073731+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:58:37.2487755+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:04:11.9376939+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:57:12.7485648+00:00",
+  "LastUpdate_Achievements": "2023-05-10T21:03:16.4552382+00:00"
 }

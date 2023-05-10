@@ -1276,10 +1276,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1162,
       "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-05-10T20:59:48.4344898+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1164,
+      "NumberOfAwardsMax": 246
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1162,
+  "NumberOfAwards": 1164,
   "NumberOfAwardsMax": 246,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1311,7 +1317,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 222
+      "Count": 224
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1332,9 +1338,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 59646,
+  "EOS_Progressed": 59649,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1231,
+  "EOS_NewPlayers": 1229,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3127,6 +3133,11 @@
       "Time": "2023-05-10T20:07:04.3732899+00:00",
       "NumProgressed": 59646,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-10T21:05:42.8356489+00:00",
+      "NumProgressed": 59649,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 37,
@@ -3138,7 +3149,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 29823
+      "UsersEstimate": 29824
     },
     {
       "ID": "ACH_0011",
@@ -3146,7 +3157,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17297
+      "UsersEstimate": 17298
     },
     {
       "ID": "ACH_0012",
@@ -3282,7 +3293,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 38770
+      "UsersEstimate": 38772
     },
     {
       "ID": "ACH_0210",
@@ -3290,7 +3301,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43542
+      "UsersEstimate": 43544
     },
     {
       "ID": "ACH_0211",
@@ -3306,7 +3317,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28034
+      "UsersEstimate": 28035
     },
     {
       "ID": "ACH_0300",
@@ -3354,7 +3365,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20280
+      "UsersEstimate": 20281
     },
     {
       "ID": "ACH_0420",
@@ -3362,7 +3373,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19683
+      "UsersEstimate": 19684
     },
     {
       "ID": "ACH_0430",
@@ -3370,7 +3381,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20876
+      "UsersEstimate": 20877
     },
     {
       "ID": "ACH_0431",
@@ -3394,7 +3405,7 @@
       "Name": "Off the Rocks",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10736
+      "UsersEstimate": 10737
     },
     {
       "ID": "ACH_0451",
@@ -3410,7 +3421,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9543
+      "UsersEstimate": 9544
     },
     {
       "ID": "ACH_0460",
@@ -3433,16 +3444,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 59646,
+      "Progressed": 59649,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-10T15:59:51.2019135+00:00",
-  "LastChanged_Achievements": "2023-05-10T20:07:04.3732895+00:00",
+  "LastChanged": "2023-05-10T20:59:48.4344897+00:00",
+  "LastChanged_Achievements": "2023-05-10T21:05:42.8356486+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.9893875+00:00",
-  "LastUpdate_Ratings": "2023-05-10T20:01:12.3238304+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:07:04.3733249+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:59:48.4344902+00:00",
+  "LastUpdate_Achievements": "2023-05-10T21:05:42.8356843+00:00"
 }

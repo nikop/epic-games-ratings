@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 98.00% | ~50 |
-| Rehearsal | 96.00% | ~49 |
-| Daily Life | 92.00% | ~47 |
-| Assembly Line Work | 86.00% | ~44 |
-| Solitude | 84.00% | ~43 |
-| Pinewood, Here we come! | 75.00% | ~38 |
-| The Van | 65.00% | ~33 |
-| Road-Trip | 57.00% | ~29 |
-| A Musical Pause | 55.00% | ~28 |
-| Sound of Noise | 47.00% | ~24 |
-| Briget's | 43.00% | ~22 |
-| Big City Music | 39.00% | ~20 |
-| Love at First Sight | 39.00% | ~20 |
+| ECG | 98.00% | ~51 |
+| Rehearsal | 96.00% | ~50 |
+| Daily Life | 92.00% | ~48 |
+| Assembly Line Work | 87.00% | ~45 |
+| Solitude | 85.00% | ~44 |
+| Pinewood, Here we come! | 75.00% | ~39 |
+| The Van | 65.00% | ~34 |
+| Road-Trip | 58.00% | ~30 |
+| A Musical Pause | 56.00% | ~29 |
+| Sound of Noise | 46.00% | ~24 |
+| Briget's | 44.00% | ~23 |
+| Big City Music | 38.00% | ~20 |
+| Love at First Sight | 38.00% | ~20 |
 | First Kiss | 35.00% | ~18 |
 | Fuel | 31.00% | ~16 |
 | A Bigger Band | 31.00% | ~16 |
 | Symbiosis | 31.00% | ~16 |
 | Alone Together | 29.00% | ~15 |
 | Threatening Nature | 27.00% | ~14 |
-| Flat Tire | 24.00% | ~12 |
-| The Clash | 24.00% | ~12 |
-| TV Dreams | 24.00% | ~12 |
-| Dreamers | 18.00% | ~9 |
-| Regrets | 16.00% | ~8 |
-| The Accident | 16.00% | ~8 |
-| The Fix | 16.00% | ~8 |
-| The Awakening | 14.00% | ~7 |
+| Flat Tire | 23.00% | ~12 |
+| The Clash | 23.00% | ~12 |
+| TV Dreams | 23.00% | ~12 |
+| Dreamers | 17.00% | ~9 |
+| Regrets | 15.00% | ~8 |
+| The Accident | 15.00% | ~8 |
+| The Fix | 15.00% | ~8 |
+| The Awakening | 13.00% | ~7 |
 | Bad Trip | 12.00% | ~6 |
 | Love | 12.00% | ~6 |
 | Here we go again! | 12.00% | ~6 |
@@ -59,13 +59,14 @@
 | Pinewood | 2.00% | ~1 |
 | Love is All | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51 (Ranked 277)  
-Completed: 1 (1.96%) (Ranked 61)  
+Progressed: 52 (Ranked 276)  
+Completed: 1 (1.92%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 50 | 1 |
 | 2023-05-04 | 51 | 1 |
+| 2023-05-10 | 52 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,11 +5,11 @@ Rating: 3.55 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~881 |
-| World Map | 79.00% | ~748 |
+| Victor | 93.00% | ~882 |
+| World Map | 79.00% | ~749 |
 | Temple of Eternals | 55.00% | ~521 |
-| Prestigious | 52.00% | ~492 |
-| Fellowship Power | 39.00% | ~369 |
+| Prestigious | 51.00% | ~483 |
+| Fellowship Power | 39.00% | ~370 |
 | Guild Power | 23.00% | ~218 |
 | Prestigious x10 | 19.00% | ~180 |
 | The game is on | 16.00% | ~152 |
@@ -42,14 +42,14 @@ Rating: 3.55 (Ranked 917)
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
 | Scroll Master | 2.00% | ~19 |
-| Active Member | 1.00% | ~9 |
 | Ancient Knowledge | 1.00% | ~9 |
-| Four Leaf Clover | 1.00% | ~9 |
 | Master Enchanter | 1.00% | ~9 |
-| Relic Of The Past | 1.00% | ~9 |
 | The father of Dragons | 1.00% | ~9 |
 | Trader | 1.00% | ~9 |
 | What lies behind the bush | 1.00% | ~9 |
+| Active Member | 0.90% | ~9 |
+| Four Leaf Clover | 0.90% | ~9 |
+| Relic Of The Past | 0.90% | ~9 |
 | Dragon Slayer | 0.70% | ~7 |
 | Weekly Quest Completionist | 0.70% | ~7 |
 | Engineer Mastery | 0.60% | ~6 |
@@ -81,7 +81,7 @@ Rating: 3.55 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 947 (Ranked 165)  
+Progressed: 948 (Ranked 165)  
 Completed: 1 (0.11%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.11%) (Ranked 153)
 | 2023-05-07 | 903 | 1 |
 | 2023-05-08 | 916 | 1 |
 | 2023-05-09 | 935 | 1 |
-| 2023-05-10 | 947 | 1 |
+| 2023-05-10 | 948 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

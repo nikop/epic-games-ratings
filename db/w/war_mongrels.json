@@ -2,12 +2,12 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 740,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -345,6 +345,11 @@
       "Time": "2023-05-09T03:06:24.850206+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T21:05:17.5600738+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -460,7 +465,7 @@
       "Name": "Explorer",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_COLL_20",
@@ -468,7 +473,7 @@
       "Name": "Prospector",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -516,7 +521,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -556,7 +561,7 @@
       "Name": "Collectibles of Chapter X",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -564,7 +569,7 @@
       "Name": "Collectibles of Chapter XI",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -578,9 +583,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -612,7 +617,7 @@
       "Name": "Consequences",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -716,7 +721,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -724,7 +729,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -732,7 +737,7 @@
       "Name": "Hold a Door",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_KILL_ENEMY",
@@ -748,7 +753,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -764,7 +769,7 @@
       "Name": "Eat Lead!",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -772,15 +777,15 @@
       "Name": "Food Massacre",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_KILL_SNIPER",
       "SetID": "1j25agn",
       "Name": "Sniper Wolf",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -788,7 +793,7 @@
       "Name": "King of Knives",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_NEST1",
@@ -804,7 +809,7 @@
       "Name": "Daddy Would Be Proud",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_NODETECT",
@@ -827,15 +832,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-10T20:06:38.4142838+00:00",
+  "LastChanged_Achievements": "2023-05-10T21:05:17.5600732+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.641778+00:00",
-  "LastUpdate_Ratings": "2023-05-10T19:58:53.6136113+00:00",
-  "LastUpdate_Achievements": "2023-05-10T20:06:38.4143329+00:00"
+  "LastUpdate_Ratings": "2023-05-10T20:57:29.0943508+00:00",
+  "LastUpdate_Achievements": "2023-05-10T21:05:17.5601237+00:00"
 }

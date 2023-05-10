@@ -94,6 +94,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Modron Assistance | 0.20% | ~174 |
 | Haaave You Met Asmodeus? | 0.20% | ~174 |
 | Domesticated Owlbears | 0.20% | ~174 |
+| The Immortal Warrior | 0.20% | ~174 |
 | Tower on the Lake | 0.20% | ~174 |
 | Seeds of Deceit | 0.20% | ~174 |
 | Trollskull Manor | 0.20% | ~174 |
@@ -268,7 +269,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Misfortune | 0.10% | ~87 |
 | Thine Bounty is Mine! | 0.10% | ~53 |
 | This Quest Stinks! | 0.10% | ~53 |
-| The Immortal Warrior | 0.10% | ~87 |
 | Hold for the Red Wizards | 0.10% | ~87 |
 | Form Ranks | 0.10% | ~87 |
 | Drop of Time | 0.10% | ~53 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,086 (Ranked 59)  
-Completed: 1,822 (2.09%) (Ranked 60)  
+Progressed: 87,090 (Ranked 59)  
+Completed: 1,823 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -516,7 +516,7 @@ Completed: 1,822 (2.09%) (Ranked 60)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,086 | 1,822 |
+| 2023-05-10 | 87,090 | 1,823 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,846 (Ranked 37)  
