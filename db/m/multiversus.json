@@ -3429,10 +3429,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 45658,
       "NumberOfAwardsMax": 4737
+    },
+    {
+      "Time": "2023-05-10T09:59:58.4634607+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45659,
+      "NumberOfAwardsMax": 4737
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45658,
+  "NumberOfAwards": 45659,
   "NumberOfAwardsMax": 4737,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3464,7 +3470,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4523
+      "Count": 4524
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3515,9 +3521,9 @@
       "Count": 3402
     }
   ],
-  "EOS_Progressed": 1069294,
+  "EOS_Progressed": 1069295,
   "EOS_Completed": 31627,
-  "EOS_NewPlayers": 1638,
+  "EOS_NewPlayers": 1634,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
@@ -5265,6 +5271,11 @@
       "Time": "2023-05-10T09:05:16.5910632+00:00",
       "NumProgressed": 1069294,
       "NumCompleted": 31627
+    },
+    {
+      "Time": "2023-05-10T10:04:42.3200163+00:00",
+      "NumProgressed": 1069295,
+      "NumCompleted": 31627
     }
   ],
   "TotalAchievements": 28,
@@ -5284,7 +5295,7 @@
       "Name": "Ground Floor: Ringouts",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 310095
+      "UsersEstimate": 310096
     },
     {
       "ID": "ACH_100_TOASTS",
@@ -5308,7 +5319,7 @@
       "Name": "Signature Slammer",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 459796
+      "UsersEstimate": 459797
     },
     {
       "ID": "ACH_10_RINGOUTS_BOTTOM",
@@ -5324,7 +5335,7 @@
       "Name": "Watch Your Step",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 310095
+      "UsersEstimate": 310096
     },
     {
       "ID": "ACH_10_RINGOUTS_LEFT",
@@ -5348,7 +5359,7 @@
       "Name": "Aerial Specialist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 673655
+      "UsersEstimate": 673656
     },
     {
       "ID": "ACH_10_TOASTS",
@@ -5372,7 +5383,7 @@
       "Name": "Going Down?",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 310095
+      "UsersEstimate": 310096
     },
     {
       "ID": "ACH_5_TOASTS",
@@ -5396,7 +5407,7 @@
       "Name": "Bun-Puncher Supreme",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 727120
+      "UsersEstimate": 727121
     },
     {
       "ID": "ACH_GET_200_PROJECTILE_RINGOUTS",
@@ -5404,7 +5415,7 @@
       "Name": "Distanced Damage Dealer",
       "Percentage": 42,
       "XP": 90,
-      "UsersEstimate": 449103
+      "UsersEstimate": 449104
     },
     {
       "ID": "ACH_GET_20_PROJECTILE_RINGOUTS",
@@ -5412,7 +5423,7 @@
       "Name": "Watch Your Head",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 449103
+      "UsersEstimate": 449104
     },
     {
       "ID": "ACH_GET_30_RINGOUTS",
@@ -5420,7 +5431,7 @@
       "Name": "You Mean Business",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 727120
+      "UsersEstimate": 727121
     },
     {
       "ID": "ACH_GET_50_PROJECTILE_RINGOUTS",
@@ -5428,7 +5439,7 @@
       "Name": "Catch This",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 449103
+      "UsersEstimate": 449104
     },
     {
       "ID": "ACH_GET_50_RINGOUTS",
@@ -5436,7 +5447,7 @@
       "Name": "You\u0027re Getting Pretty Good At This!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 727120
+      "UsersEstimate": 727121
     },
     {
       "ID": "ACH_PLAY_100_PARTY_MATCHES",
@@ -5476,7 +5487,7 @@
       "Name": "Proving Yourself",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 673655
+      "UsersEstimate": 673656
     },
     {
       "ID": "ACH_WIN_10_MATCHMADE_GAMES",
@@ -5484,7 +5495,7 @@
       "Name": "Stepping Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 673655
+      "UsersEstimate": 673656
     },
     {
       "ID": "ACH_WIN_300_MATCHMADE_GAMES",
@@ -5492,22 +5503,22 @@
       "Name": "The Throne Is Yours",
       "Percentage": 63,
       "XP": 90,
-      "UsersEstimate": 673655
+      "UsersEstimate": 673656
     }
   ],
   "AchievementSets": [
     {
       "ID": "dc21kim",
       "IsBase": true,
-      "Progressed": 1069294,
+      "Progressed": 1069295,
       "Completed": 31627
     }
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
-  "LastChanged": "2023-05-09T05:01:37.5382734+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:16.5910629+00:00",
+  "LastChanged": "2023-05-10T09:59:58.4634605+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:04:42.3200158+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:34.9053618+00:00",
-  "LastUpdate_Ratings": "2023-05-10T09:00:34.6273473+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:16.5910863+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:59:58.4634613+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:04:42.3200655+00:00"
 }

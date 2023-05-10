@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 45.00% | ~24 |
+| A Second Chance | 47.00% | ~25 |
 | Press-ganged | 36.00% | ~19 |
 | The Package | 21.00% | ~11 |
 | Randomized | 8.00% | ~4 |

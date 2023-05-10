@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 1.00% | ~533 |
 | Vecna Out! | 1.00% | ~533 |
 | The Cursed Farmer | 0.90% | ~783 |
-| Bully for Vecna | 0.80% | ~426 |
+| Bully for Vecna | 0.80% | ~427 |
 | Beast Intentions | 0.70% | ~609 |
 | The Mad Wizard | 0.70% | ~609 |
 | The Ring of Regeneration | 0.60% | ~522 |
@@ -64,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~107 |
 | Hands Off! | 0.20% | ~107 |
 | The Dread Domain of Tovag | 0.20% | ~107 |
+| Clumsy Doesn't Mean Inept | 0.20% | ~107 |
 | Kas the Bloody Handed | 0.20% | ~107 |
 | Who Lurks Below? | 0.20% | ~107 |
 | Xanathaaaaaaar! | 0.20% | ~107 |
@@ -216,7 +217,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Efforts | 0.10% | ~53 |
 | To Avernus in a Handbasket | 0.10% | ~53 |
 | Weak Doesn't Mean Feeble | 0.10% | ~53 |
-| Clumsy Doesn't Mean Inept | 0.10% | ~53 |
 | Kas the Destroyer | 0.10% | ~53 |
 | Clowning Around | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,036 (Ranked 59)  
+Progressed: 87,039 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,036 | 1,821 |
+| 2023-05-10 | 87,039 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,842 (Ranked 37)  

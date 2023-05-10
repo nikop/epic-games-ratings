@@ -47,7 +47,7 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 2.00% | ~39 |
 | Pew-Pew | 2.00% | ~39 |
 | Dipped! | 1.00% | ~19 |
-| That was wheelie fun | 0.80% | ~16 |
+| That was wheelie fun | 0.90% | ~18 |
 | Skatepark hero | 0.70% | ~14 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |

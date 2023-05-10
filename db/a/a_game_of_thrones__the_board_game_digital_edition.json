@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11644,
+  "EOS_Progressed": 11645,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 806,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2934,6 +2934,11 @@
       "Time": "2023-05-10T09:05:57.719717+00:00",
       "NumProgressed": 11644,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-10T10:05:18.5560205+00:00",
+      "NumProgressed": 11645,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -3049,7 +3054,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2212
+      "UsersEstimate": 2213
     },
     {
       "ID": "1029",
@@ -3111,24 +3116,24 @@
       "ID": "1036",
       "SetID": "9l3d3cl",
       "Name": "A Long Journey",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 1048
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11644,
+      "Progressed": 11645,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:57.7197161+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:05:18.5560197+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-10T09:00:10.9502789+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:57.7197359+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:59:40.945052+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:05:18.5560543+00:00"
 }

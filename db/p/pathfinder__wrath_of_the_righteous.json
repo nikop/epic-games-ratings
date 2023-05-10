@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2306,7 +2306,7 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8738,
+  "EOS_Progressed": 8739,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -3201,6 +3201,11 @@
       "Time": "2023-05-10T06:04:51.6522126+00:00",
       "NumProgressed": 8738,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T10:05:08.942776+00:00",
+      "NumProgressed": 8739,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3220,7 +3225,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -3580,7 +3585,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "49_Flame",
@@ -4139,21 +4144,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7520,
+      "Progressed": 7521,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8738,
+      "Progressed": 8739,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-09T10:59:43.5947196+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:46.511332+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:05:08.9427752+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:58:14.595674+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:46.5114767+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:58:07.3822172+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:05:08.9429477+00:00"
 }

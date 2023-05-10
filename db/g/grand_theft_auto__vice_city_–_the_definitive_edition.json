@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 6107,
+  "EOS_Progressed": 6108,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1197,6 +1197,11 @@
       "Time": "2023-05-10T06:04:34.4825994+00:00",
       "NumProgressed": 6107,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-10T10:04:50.5653125+00:00",
+      "NumProgressed": 6108,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1336,7 +1341,7 @@
       "Name": "Gun for Hire",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH18",
@@ -1440,7 +1445,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH31",
@@ -1479,7 +1484,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6107,
+      "Progressed": 6108,
       "Completed": 20
     }
   ],
@@ -1487,8 +1492,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-09T12:49:19.9962975+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:25.7834894+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:04:50.5653118+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:58:12.6905124+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:25.7835119+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:58:05.4582045+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:04:50.5653627+00:00"
 }

@@ -14,8 +14,8 @@ Rating: 4.66 (Ranked 271)
 | Chauffeur | 12.00% | ~733 |
 | Iron-y | 9.00% | ~550 |
 | Salutations My Little Friend | 9.00% | ~550 |
-| Gun for Hire | 7.00% | ~427 |
-| Mischief Managed | 7.00% | ~427 |
+| Gun for Hire | 7.00% | ~428 |
+| Mischief Managed | 7.00% | ~428 |
 | Vice City Mogul | 6.00% | ~366 |
 | Bloodstained Hands | 6.00% | ~366 |
 | Catch Me if You Can | 5.00% | ~305 |
@@ -40,7 +40,7 @@ Rating: 4.66 (Ranked 271)
 | Done it All | 0.70% | ~43 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,107 (Ranked 115)  
+Progressed: 6,108 (Ranked 115)  
 Completed: 20 (0.33%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 20 (0.33%) (Ranked 117)
 | 2023-05-07 | 6,082 | 20 |
 | 2023-05-08 | 6,092 | 20 |
 | 2023-05-09 | 6,102 | 20 |
-| 2023-05-10 | 6,107 | 20 |
+| 2023-05-10 | 6,108 | 20 |
 ## Awards
 Max (Great Boss Battles): 31  (Ranked 438)  
 Sum: 31 (Ranked 455)  

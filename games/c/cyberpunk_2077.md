@@ -14,8 +14,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 23.00% | ~183,756 |
 | True Soldier | 22.00% | ~175,766 |
 | Christmas Tree Attack | 21.00% | ~167,777 |
-| The High Priestess | 20.00% | ~159,787 |
-| Legend of The Afterlife | 20.00% | ~159,787 |
+| The High Priestess | 20.00% | ~159,788 |
+| Legend of The Afterlife | 20.00% | ~159,788 |
 | Life of the Road | 19.00% | ~151,798 |
 | Full Body Conversion | 17.00% | ~135,819 |
 | The World | 16.00% | ~127,830 |
@@ -34,8 +34,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 6.00% | ~47,936 |
 | The Star | 6.00% | ~47,936 |
 | The Sun | 6.00% | ~47,936 |
-| Must Be Rats | 4.00% | ~31,957 |
-| Temperance | 4.00% | ~31,957 |
+| Must Be Rats | 4.00% | ~31,958 |
+| Temperance | 4.00% | ~31,958 |
 | City Lights | 3.00% | ~23,968 |
 | Frequent Flyer | 3.00% | ~23,968 |
 | Mean Streets | 3.00% | ~23,968 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,989 |
 | Rough Landing | 0.40% | ~3,196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,937 (Ranked 11)  
+Progressed: 798,938 (Ranked 11)  
 Completed: 1,584 (0.20%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,18 +71,18 @@ Completed: 1,584 (0.20%) (Ranked 136)
 | 2023-05-07 | 798,560 | 1,577 |
 | 2023-05-08 | 798,732 | 1,580 |
 | 2023-05-09 | 798,891 | 1,584 |
-| 2023-05-10 | 798,937 | 1,584 |
+| 2023-05-10 | 798,938 | 1,584 |
 ## Awards
 Max (Character Customization): 63,968  (Ranked 9)  
-Sum: 167,463 (Ranked 13)  
+Sum: 167,477 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 63,968 |
 | This game has Great Boss Battles | 41,122 |
 | This game has Amazing Storytelling | 7,366 |
+| This game is Great for Beginners | 7,310 |
 | This game has Diverse Characters | 7,301 |
-| This game is Great for Beginners | 7,296 |
 | This game is Extremely Fun | 7,245 |
 | This game is Relaxing | 7,210 |
 | This game is Highly Recommended | 7,197 |
@@ -203,4 +203,4 @@ Diff (max vs sum): -4
 | 2023-05-07 | 4.62 | - | 63,762 | 166,902 |
 | 2023-05-08 | 4.62 | - | 63,846 | 167,148 |
 | 2023-05-09 | 4.62 | - | 63,904 | 167,351 |
-| 2023-05-10 | 4.62 | - | 63,968 | 167,463 |
+| 2023-05-10 | 4.62 | - | 63,968 | 167,477 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
@@ -194,9 +194,9 @@
       "Count": 168
     }
   ],
-  "EOS_Progressed": 402194,
+  "EOS_Progressed": 402204,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 2473,
+  "EOS_NewPlayers": 2462,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1964,6 +1964,11 @@
       "Time": "2023-05-10T09:05:51.248043+00:00",
       "NumProgressed": 402194,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-10T10:05:12.9142362+00:00",
+      "NumProgressed": 402204,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 52,
@@ -1983,7 +1988,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40219
+      "UsersEstimate": 40220
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -1999,7 +2004,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40219
+      "UsersEstimate": 40220
     },
     {
       "ID": "BIGUPS",
@@ -2390,7 +2395,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 402194,
+      "Progressed": 402204,
       "Completed": 30
     }
   ],
@@ -2398,8 +2403,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-07T07:00:48.9736863+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:51.2480427+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:05:12.9142357+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.9786833+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:59:27.6332852+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:51.2480868+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:59:06.0874477+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:05:12.9142923+00:00"
 }

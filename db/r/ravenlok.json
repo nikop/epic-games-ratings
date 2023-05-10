@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 554,
+  "EOS_Progressed": 555,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 26,
-  "EOS_Completed_Percentage": 5.96,
+  "EOS_Completed_Percentage": 5.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -812,6 +812,11 @@
       "Time": "2023-05-10T09:05:18.0454098+00:00",
       "NumProgressed": 554,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-10T10:04:43.7014264+00:00",
+      "NumProgressed": 555,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -823,7 +828,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "10",
@@ -903,7 +908,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "2",
@@ -911,7 +916,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "20",
@@ -991,7 +996,7 @@
       "Name": "All That Glistens",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "3",
@@ -999,7 +1004,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "30",
@@ -1015,7 +1020,7 @@
       "Name": "Little Shop",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "32",
@@ -1029,9 +1034,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 266
     },
     {
       "ID": "34",
@@ -1063,7 +1068,7 @@
       "Name": "Stronger!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "38",
@@ -1071,7 +1076,7 @@
       "Name": "Max Level!",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "39",
@@ -1087,7 +1092,7 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "40",
@@ -1101,9 +1106,9 @@
       "ID": "41",
       "SetID": "d0g98p",
       "Name": "Bombs Away!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "42",
@@ -1127,15 +1132,15 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 144
     },
     {
       "ID": "46",
@@ -1159,7 +1164,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "49",
@@ -1199,7 +1204,7 @@
       "Name": "Fun Guy",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "8",
@@ -1207,7 +1212,7 @@
       "Name": "Tragic Brave",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "9",
@@ -1215,14 +1220,14 @@
       "Name": "Curtain Call",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 554,
+      "Progressed": 555,
       "Completed": 33
     }
   ],
@@ -1230,8 +1235,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:18.045409+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:04:43.7014256+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:57:18.7592688+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:18.0454561+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:57:26.6002711+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:04:43.7015002+00:00"
 }

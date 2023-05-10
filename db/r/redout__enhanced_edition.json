@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221443,
+  "EOS_Progressed": 221445,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1938,6 +1938,11 @@
       "Time": "2023-05-10T09:05:17.4384058+00:00",
       "NumProgressed": 221443,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-10T10:04:43.1230529+00:00",
+      "NumProgressed": 221445,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -1965,7 +1970,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62004
+      "UsersEstimate": 62005
     },
     {
       "ID": "CENTAUR",
@@ -2013,7 +2018,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 17715
+      "UsersEstimate": 17716
     },
     {
       "ID": "FLAWLESS",
@@ -2197,7 +2202,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48717
+      "UsersEstimate": 48718
     },
     {
       "ID": "TUNINGMANIAC",
@@ -2220,15 +2225,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221443,
+      "Progressed": 221445,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:17.4384055+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:04:43.1230525+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.7279724+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:58:09.8396367+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:17.4384351+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:58:03.3794655+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:04:43.1230889+00:00"
 }

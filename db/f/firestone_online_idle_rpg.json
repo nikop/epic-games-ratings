@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 939,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -1309,6 +1309,11 @@
       "Time": "2023-05-10T09:05:36.0081811+00:00",
       "NumProgressed": 938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T10:04:59.4646673+00:00",
+      "NumProgressed": 939,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1806,9 +1811,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 150
     },
     {
       "ID": "thepowerofawakening",
@@ -1880,7 +1885,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "warmachinesarmy",
@@ -1912,14 +1917,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 1
     }
   ],
@@ -1927,8 +1932,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-09T15:59:23.3222999+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:36.0081807+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:04:59.4646669+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:57:54.9879028+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:36.008247+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:57:51.3845078+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:04:59.4647547+00:00"
 }

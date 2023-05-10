@@ -5493,10 +5493,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 167463,
       "NumberOfAwardsMax": 63968
+    },
+    {
+      "Time": "2023-05-10T09:57:38.5902067+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 167477,
+      "NumberOfAwardsMax": 63968
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 167463,
+  "NumberOfAwards": 167477,
   "NumberOfAwardsMax": 63968,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5546,7 +5552,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 7296
+      "Count": 7310
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5573,9 +5579,9 @@
       "Count": 4678
     }
   ],
-  "EOS_Progressed": 798937,
+  "EOS_Progressed": 798938,
   "EOS_Completed": 1584,
-  "EOS_NewPlayers": 1367,
+  "EOS_NewPlayers": 1365,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -7318,6 +7324,11 @@
       "Time": "2023-05-10T09:05:17.0321686+00:00",
       "NumProgressed": 798937,
       "NumCompleted": 1584
+    },
+    {
+      "Time": "2023-05-10T10:04:42.7742372+00:00",
+      "NumProgressed": 798938,
+      "NumCompleted": 1584
     }
   ],
   "TotalAchievements": 44,
@@ -7465,7 +7476,7 @@
       "Name": "Must Be Rats",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31957
+      "UsersEstimate": 31958
     },
     {
       "ID": "NeverFadeAway",
@@ -7521,7 +7532,7 @@
       "Name": "Temperance",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31957
+      "UsersEstimate": 31958
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -7561,7 +7572,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159787
+      "UsersEstimate": 159788
     },
     {
       "ID": "TheLovers",
@@ -7673,22 +7684,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 159787
+      "UsersEstimate": 159788
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 798937,
+      "Progressed": 798938,
       "Completed": 1584
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-10T08:57:37.0287648+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:17.032168+00:00",
+  "LastChanged": "2023-05-10T09:57:38.5902066+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:04:42.7742367+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:57:37.0287657+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:17.0322159+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:57:38.5902074+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:04:42.7742963+00:00"
 }

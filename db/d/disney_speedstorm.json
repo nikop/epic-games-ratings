@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1165,6 +1165,11 @@
       "Time": "2023-05-10T06:04:44.6113312+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T10:05:00.9166582+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1328,7 +1333,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "6",
@@ -1367,13 +1372,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:37.7955479+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:05:00.9166577+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:58:50.6299459+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:37.7955662+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:58:35.6464735+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:05:00.9166813+00:00"
 }

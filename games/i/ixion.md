@@ -11,17 +11,17 @@ Rating: 4.54 (Ranked 477)
 | The Ship of Theseus | 0.60% | ~11 |
 | Infinite Growth... | 0.50% | ~9 |
 | Sputnik 2049 | 0.50% | ~9 |
+| Exceeding Capacity | 0.50% | ~9 |
 | Ready for a New World | 0.50% | ~9 |
 | Permanent Redesigns | 0.50% | ~9 |
+| Guy de Borderlands | 0.40% | ~7 |
 | Space Society | 0.40% | ~7 |
-| Exceeding Capacity | 0.40% | ~7 |
 | Power Outage | 0.40% | ~7 |
 | Fully Recycled | 0.40% | ~7 |
 | Breaking Protocol | 0.40% | ~7 |
 | Ain't Nobody Got Time for That | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
 | Hope Seeker | 0.40% | ~7 |
-| Guy de Borderlands | 0.30% | ~6 |
 | Sightseeing | 0.30% | ~6 |
 | A Hunk of Junk | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |

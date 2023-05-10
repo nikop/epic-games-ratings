@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -212,10 +212,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32106,
+  "EOS_Progressed": 32107,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 487,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 488,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
@@ -1677,6 +1677,11 @@
       "Time": "2023-05-10T09:05:14.8059464+00:00",
       "NumProgressed": 32106,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-05-10T10:04:40.9308293+00:00",
+      "NumProgressed": 32107,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 44,
@@ -1688,7 +1693,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18300
+      "UsersEstimate": 18301
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1752,7 +1757,7 @@
       "Name": "Denouement",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -1808,7 +1813,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26006
+      "UsersEstimate": 26007
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1832,7 +1837,7 @@
       "Name": "Get Over Here",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1856,7 +1861,7 @@
       "Name": "The Hidden Village",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -1864,7 +1869,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 7063
+      "UsersEstimate": 7064
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1880,7 +1885,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 11879
+      "UsersEstimate": 11880
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -1904,7 +1909,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7705
+      "UsersEstimate": 7706
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -1912,7 +1917,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 17979
+      "UsersEstimate": 17980
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1944,7 +1949,7 @@
       "Name": "A Pleasant Stay",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1960,7 +1965,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 21832
+      "UsersEstimate": 21833
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2032,14 +2037,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16374
+      "UsersEstimate": 16375
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 32106,
+      "Progressed": 32107,
       "Completed": 149
     }
   ],
@@ -2047,8 +2052,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-10T09:05:14.8059461+00:00",
+  "LastChanged_Achievements": "2023-05-10T10:04:40.9308284+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:38.7776274+00:00",
-  "LastUpdate_Ratings": "2023-05-10T08:58:18.6895644+00:00",
-  "LastUpdate_Achievements": "2023-05-10T09:05:14.8059821+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:58:10.6403926+00:00",
+  "LastUpdate_Achievements": "2023-05-10T10:04:40.9309068+00:00"
 }

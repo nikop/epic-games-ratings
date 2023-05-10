@@ -7,16 +7,16 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~361,241 |
-| Now You're Talking | 62.00% | ~319,956 |
-| Steel Yourself | 62.00% | ~319,956 |
-| Window Dressing | 50.00% | ~258,029 |
+| Now You're Talking | 62.00% | ~319,957 |
+| Steel Yourself | 62.00% | ~319,957 |
+| Window Dressing | 50.00% | ~258,030 |
 | Trigger Happy | 46.00% | ~237,387 |
-| Riverborn | 45.00% | ~232,226 |
+| Riverborn | 45.00% | ~232,227 |
 | Starry Eyed | 34.00% | ~175,460 |
 | Poking Around | 34.00% | ~175,460 |
 | Talk of the Town | 24.00% | ~123,854 |
-| AAARR! | 23.00% | ~118,693 |
-| Hello Darkness | 23.00% | ~118,693 |
+| AAARR! | 23.00% | ~118,694 |
+| Hello Darkness | 23.00% | ~118,694 |
 | Wind At Our Backs | 22.00% | ~113,533 |
 | To the Beat | 20.00% | ~103,212 |
 | Sunny Shores | 17.00% | ~87,730 |
@@ -33,11 +33,11 @@ Number of Ratings: 617  (23.09.2022)
 | Partner in Crime | 7.00% | ~36,124 |
 | Hard to Hear | 7.00% | ~36,124 |
 | Under the Radar | 7.00% | ~36,124 |
-| Moving On Up | 6.00% | ~30,963 |
-| Owl Knows Best | 6.00% | ~30,963 |
-| Mind the Moose | 6.00% | ~30,963 |
-| Dressed to Kill | 6.00% | ~30,963 |
-| Beast Mode | 6.00% | ~30,963 |
+| Moving On Up | 6.00% | ~30,964 |
+| Owl Knows Best | 6.00% | ~30,964 |
+| Mind the Moose | 6.00% | ~30,964 |
+| Dressed to Kill | 6.00% | ~30,964 |
+| Beast Mode | 6.00% | ~30,964 |
 | Oh, Romeo! | 5.00% | ~25,803 |
 | Noble Intentions | 5.00% | ~25,803 |
 | Rising Star | 5.00% | ~25,803 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,548 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,058 (Ranked 24)  
+Progressed: 516,059 (Ranked 24)  
 Completed: 403 (0.08%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 403 (0.08%) (Ranked 162)
 | 2023-05-07 | 515,871 | 402 |
 | 2023-05-08 | 515,966 | 403 |
 | 2023-05-09 | 516,037 | 403 |
-| 2023-05-10 | 516,058 | 403 |
+| 2023-05-10 | 516,059 | 403 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
