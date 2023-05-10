@@ -20,13 +20,13 @@
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
-| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.90% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
+| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.33% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.29% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -124,9 +124,9 @@
 | 122 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 122 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 122 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 125 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 125 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
-| 125 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 125 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
+| 126 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
+| 126 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 129 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.27% |
 | 129 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
