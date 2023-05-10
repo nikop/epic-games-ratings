@@ -25,8 +25,8 @@
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 5.87% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.04% |
+| 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -57,10 +57,10 @@
 | 55 | [JARS](games/j/jars.md) | 2.56% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 57 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 58 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
+| 58 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 59 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 60 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
-| 60 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.96% |
+| 61 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
@@ -100,7 +100,7 @@
 | 98 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 99 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 100 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
-| 101 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.54% |
+| 101 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 102 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 103 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
 | 104 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
@@ -114,15 +114,15 @@
 | 110 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 113 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 114 | [Tchia](games/t/tchia.md) | 0.35% |
-| 115 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
-| 116 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 116 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 118 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
-| 118 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 120 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 120 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 120 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 120 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.31% |
+| 114 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
+| 116 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
+| 117 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 117 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
+| 119 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
+| 119 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 121 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 121 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 124 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 124 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 124 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |

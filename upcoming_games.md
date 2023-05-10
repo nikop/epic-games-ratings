@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Cyber Drift](games/c/cyber_drift.md) | 2023-05-10 | 2023-04-28 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 2023-02-12 |
 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 2023-05-10 |
 | [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | 2023-02-01 |
@@ -392,8 +391,8 @@
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |
 | [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | 2020-11-05 |
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2099-04-12 | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | 2099-06-26 |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |
 | [Video Horror Society](games/v/video_horror_society.md) | 2099-07-18 | 2099-07-18 |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | 2099-07-28 | - |
