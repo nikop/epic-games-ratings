@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2346,
+  "EOS_Progressed": 2348,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -834,6 +834,11 @@
       "Time": "2023-05-10T10:04:55.9206129+00:00",
       "NumProgressed": 2346,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T15:05:29.8282352+00:00",
+      "NumProgressed": 2348,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -845,7 +850,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "AceDetective_9",
@@ -869,7 +874,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "BloodAndJustice_50",
@@ -885,7 +890,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "CrowdPleaser",
@@ -901,7 +906,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "Eureka_23",
@@ -909,7 +914,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -917,7 +922,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ForAllAurai_8",
@@ -971,9 +976,9 @@
       "ID": "LetEmEatMagma",
       "SetID": "c4hee28",
       "Name": "Let \u2018em eat magma!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 164
     },
     {
       "ID": "LightofLevant_18",
@@ -1029,7 +1034,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "ReadyforWinter_42",
@@ -1037,7 +1042,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1503
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1053,7 +1058,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -1109,7 +1114,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -1165,7 +1170,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1738
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1180,15 +1185,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2346,
+      "Progressed": 2348,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-10T14:07:12.4165116+00:00",
+  "LastChanged_Achievements": "2023-05-10T15:05:29.828234+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:02.1241057+00:00",
-  "LastUpdate_Ratings": "2023-05-10T13:59:51.148858+00:00",
-  "LastUpdate_Achievements": "2023-05-10T14:07:12.4165469+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:57:40.8694509+00:00",
+  "LastUpdate_Achievements": "2023-05-10T15:05:29.8282726+00:00"
 }

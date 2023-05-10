@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -431,8 +431,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-10T14:07:04.5238242+00:00",
+  "LastChanged_Achievements": "2023-05-10T15:05:20.9227986+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-10T13:59:26.0610863+00:00",
-  "LastUpdate_Achievements": "2023-05-10T14:07:04.5238429+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:57:14.2403376+00:00",
+  "LastUpdate_Achievements": "2023-05-10T15:05:20.922825+00:00"
 }

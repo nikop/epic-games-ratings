@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 589,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -338,6 +338,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-05-10T15:00:28.1787091+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
@@ -352,9 +358,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248303,
+  "EOS_Progressed": 248312,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2097,6 +2103,11 @@
       "Time": "2023-05-10T14:07:42.7666456+00:00",
       "NumProgressed": 248303,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T15:06:04.1683874+00:00",
+      "NumProgressed": 248312,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2108,7 +2119,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17381
+      "UsersEstimate": 17382
     },
     {
       "ID": "Act2",
@@ -2156,7 +2167,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 76974
+      "UsersEstimate": 76977
     },
     {
       "ID": "BackHomeNTimes",
@@ -2164,7 +2175,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12415
+      "UsersEstimate": 12416
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -2212,7 +2223,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24830
+      "UsersEstimate": 24831
     },
     {
       "ID": "CreditLevel2",
@@ -2236,7 +2247,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12415
+      "UsersEstimate": 12416
     },
     {
       "ID": "CreedsInBank2",
@@ -2308,7 +2319,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14898
+      "UsersEstimate": 14899
     },
     {
       "ID": "GrowPlants2",
@@ -2364,7 +2375,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12415
+      "UsersEstimate": 12416
     },
     {
       "ID": "KillOtherWithKatana",
@@ -2396,7 +2407,7 @@
       "Name": "Predator I",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52144
+      "UsersEstimate": 52146
     },
     {
       "ID": "KillOthers2",
@@ -2500,7 +2511,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24830
+      "UsersEstimate": 24831
     },
     {
       "ID": "ReachNDays2",
@@ -2555,16 +2566,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248303,
+      "Progressed": 248312,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-05-08T02:02:56.6706281+00:00",
-  "LastChanged_Achievements": "2023-05-10T14:07:42.7666451+00:00",
+  "LastChanged": "2023-05-10T15:00:28.1787089+00:00",
+  "LastChanged_Achievements": "2023-05-10T15:06:04.1683865+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.8727241+00:00",
-  "LastUpdate_Ratings": "2023-05-10T14:02:07.2596776+00:00",
-  "LastUpdate_Achievements": "2023-05-10T14:07:42.7667058+00:00"
+  "LastUpdate_Ratings": "2023-05-10T15:00:28.1787095+00:00",
+  "LastUpdate_Achievements": "2023-05-10T15:06:04.1684454+00:00"
 }

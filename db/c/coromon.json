@@ -2,12 +2,12 @@
   "ID": "9aa3fab4ed5447d5b27e34d6aea7f259",
   "Name": "Coromon",
   "ProductSlug": "coromon-d4ef84",
-  "Ranking_Rating": 286,
-  "Ranking_Popularity": 407,
-  "Ranking_PopularitySum": 441,
+  "Ranking_Rating": 287,
+  "Ranking_Popularity": 408,
+  "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-05T16:00:00+00:00",
@@ -265,6 +265,6 @@
   "FirstSeen": "2022-07-22T20:28:42.7563508+00:00",
   "LastChanged": "2023-02-26T02:23:40.5372974+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:39.9864242+00:00",
-  "LastUpdate_Ratings": "2023-05-10T14:01:30.0154385+00:00",
-  "LastUpdate_Achievements": "2023-05-10T14:06:12.3029772+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:59:41.0210577+00:00",
+  "LastUpdate_Achievements": "2023-05-10T15:04:18.5126521+00:00"
 }

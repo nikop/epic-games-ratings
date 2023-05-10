@@ -5,17 +5,17 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,323 |
-| Grappling with a Graphorn | 5.00% | ~13,323 |
-| The One Who Mastered Memories | 5.00% | ~13,323 |
-| The Hallowed Hero | 5.00% | ~13,323 |
-| The Hero of Hogwarts | 5.00% | ~13,323 |
-| The Defender of Dragons | 5.00% | ~13,323 |
-| Challenge Accepted | 5.00% | ~13,323 |
-| Loom for Improvement | 5.00% | ~13,323 |
-| Coasting Along | 5.00% | ~13,323 |
-| That's a Keeper | 5.00% | ~13,323 |
-| Rising From the Ashes | 5.00% | ~13,323 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,324 |
+| Grappling with a Graphorn | 5.00% | ~13,324 |
+| The One Who Mastered Memories | 5.00% | ~13,324 |
+| The Hallowed Hero | 5.00% | ~13,324 |
+| The Hero of Hogwarts | 5.00% | ~13,324 |
+| The Defender of Dragons | 5.00% | ~13,324 |
+| Challenge Accepted | 5.00% | ~13,324 |
+| Loom for Improvement | 5.00% | ~13,324 |
+| Coasting Along | 5.00% | ~13,324 |
+| That's a Keeper | 5.00% | ~13,324 |
+| Rising From the Ashes | 5.00% | ~13,324 |
 | The Avenging Gazelle | 4.00% | ~10,659 |
 | Beast Friends | 4.00% | ~10,659 |
 | A Sallow Grave | 4.00% | ~10,659 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,066 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,467 (Ranked 38)  
+Progressed: 266,470 (Ranked 38)  
 Completed: 357 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,17 +71,17 @@ Completed: 357 (0.13%) (Ranked 150)
 | 2023-05-07 | 266,124 | 351 |
 | 2023-05-08 | 266,274 | 354 |
 | 2023-05-09 | 266,399 | 356 |
-| 2023-05-10 | 266,467 | 357 |
+| 2023-05-10 | 266,470 | 357 |
 ## Awards
-Max (Character Customization): 18,583  (Ranked 18)  
-Sum: 33,991 (Ranked 33)  
+Max (Character Customization): 18,623  (Ranked 18)  
+Sum: 34,034 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 18,583 |
+| This game has Inclusive Character Customization | 18,623 |
 | This game has Great Boss Battles | 8,699 |
 | This game is Extremely Fun | 751 |
-| This game is Great for Beginners | 734 |
+| This game is Great for Beginners | 737 |
 | This game is Relaxing | 722 |
 | This game has Diverse Characters | 716 |
 | This game has Amazing Storytelling | 710 |
@@ -140,4 +140,4 @@ Diff (max vs sum): -15
 | 2023-05-07 | 4.77 | 18,488 | 33,760 |
 | 2023-05-08 | 4.77 | 18,546 | 33,875 |
 | 2023-05-09 | 4.77 | 18,583 | 33,978 |
-| 2023-05-10 | 4.77 | 18,583 | 33,991 |
+| 2023-05-10 | 4.77 | 18,623 | 34,034 |

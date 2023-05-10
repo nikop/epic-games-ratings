@@ -26,6 +26,7 @@ Rating: 4.54 (Ranked 477)
 | A Hunk of Junk | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | From the Past | 0.30% | ~6 |
+| Man's Best Friend | 0.20% | ~4 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | In Dolos We Trust | 0.20% | ~4 |
@@ -36,7 +37,6 @@ Rating: 4.54 (Ranked 477)
 | Please Make it Stop! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
 | Pulsar Disciple | 0.20% | ~4 |
-| Man's Best Friend | 0.10% | ~2 |
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
 | ...  in a finite world | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,866 (Ranked 145)  
+Progressed: 1,866 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

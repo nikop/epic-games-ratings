@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~33,267 |
-| Worth it | 63.00% | ~27,219 |
-| Eagle Eye | 55.00% | ~23,762 |
-| Corpseman I | 40.00% | ~17,282 |
-| Blast fishing | 38.00% | ~16,418 |
-| Not alone | 32.00% | ~13,825 |
-| Headhunter I | 27.00% | ~11,665 |
-| Manual Labour I | 26.00% | ~11,233 |
-| Developers, Developers, Developers | 24.00% | ~10,369 |
-| Basic Training | 24.00% | ~10,369 |
+| Setting an example | 77.00% | ~33,272 |
+| Worth it | 63.00% | ~27,222 |
+| Eagle Eye | 55.00% | ~23,766 |
+| Corpseman I | 40.00% | ~17,284 |
+| Blast fishing | 38.00% | ~16,420 |
+| Not alone | 32.00% | ~13,827 |
+| Headhunter I | 27.00% | ~11,667 |
+| Manual Labour I | 26.00% | ~11,235 |
+| Developers, Developers, Developers | 24.00% | ~10,370 |
+| Basic Training | 24.00% | ~10,370 |
 | Furchtlos und Treu | 13.00% | ~5,617 |
-| Gott Mit Uns | 12.00% | ~5,184 |
-| This We'll Defend! | 9.00% | ~3,888 |
-| Anker wirf! | 9.00% | ~3,888 |
-| Providentiea Memor | 9.00% | ~3,888 |
-| For King and Country | 9.00% | ~3,888 |
-| Battle hardened | 8.00% | ~3,456 |
-| Semper Fidelis! | 7.00% | ~3,024 |
-| Honneur et Patrie | 7.00% | ~3,024 |
+| Gott Mit Uns | 12.00% | ~5,185 |
+| This We'll Defend! | 9.00% | ~3,889 |
+| Anker wirf! | 9.00% | ~3,889 |
+| Providentiea Memor | 9.00% | ~3,889 |
+| For King and Country | 9.00% | ~3,889 |
+| Battle hardened | 8.00% | ~3,457 |
+| Semper Fidelis! | 7.00% | ~3,025 |
+| Honneur et Patrie | 7.00% | ~3,025 |
 | In Treue Fest | 5.00% | ~2,160 |
 | Voor De Koning | 5.00% | ~2,160 |
 | Extreme Headhunter | 5.00% | ~2,160 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~43 |
 | Blood Brother | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,204 (Ranked 77)  
+Progressed: 43,210 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 2 (0.00%) (Ranked 198)
 | 2023-05-07 | 42,962 | 2 |
 | 2023-05-08 | 43,053 | 2 |
 | 2023-05-09 | 43,158 | 2 |
-| 2023-05-10 | 43,204 | 2 |
+| 2023-05-10 | 43,210 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 330)  
 Sum: 730 (Ranked 255)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1124,7 +1124,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425030,
+  "EOS_Progressed": 425031,
   "EOS_Completed": 498,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
@@ -2324,6 +2324,11 @@
       "Time": "2023-05-10T14:07:05.7573133+00:00",
       "NumProgressed": 425030,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-05-10T15:05:22.4364116+00:00",
+      "NumProgressed": 425031,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 41,
@@ -2335,7 +2340,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 63754
+      "UsersEstimate": 63755
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -2343,7 +2348,7 @@
       "Name": "Harness Your Power",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 161511
+      "UsersEstimate": 161512
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -2351,7 +2356,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255018
+      "UsersEstimate": 255019
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -2447,7 +2452,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131759
+      "UsersEstimate": 131760
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -2503,7 +2508,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 403778
+      "UsersEstimate": 403779
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -2551,7 +2556,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340024
+      "UsersEstimate": 340025
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -2647,7 +2652,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131759
+      "UsersEstimate": 131760
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -2662,15 +2667,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425030,
+      "Progressed": 425031,
       "Completed": 498
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-01T14:58:01.0334867+00:00",
-  "LastChanged_Achievements": "2023-05-10T14:07:05.7573129+00:00",
+  "LastChanged_Achievements": "2023-05-10T15:05:22.4364104+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.4868688+00:00",
-  "LastUpdate_Ratings": "2023-05-10T14:00:22.1265348+00:00",
-  "LastUpdate_Achievements": "2023-05-10T14:07:05.7573509+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:58:18.0538877+00:00",
+  "LastUpdate_Achievements": "2023-05-10T15:05:22.4364563+00:00"
 }
