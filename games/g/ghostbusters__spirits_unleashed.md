@@ -5,24 +5,24 @@ Rating: 4.49 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 87.00% | ~18,854 |
+| Stylish | 87.00% | ~18,855 |
 | Advancement | 74.00% | ~16,037 |
-| Meticulously Efficient | 65.00% | ~14,086 |
+| Meticulously Efficient | 65.00% | ~14,087 |
 | Discovery | 63.00% | ~13,653 |
 | Swift Rift Removers | 56.00% | ~12,136 |
-| Fully Upgraded | 55.00% | ~11,919 |
+| Fully Upgraded | 55.00% | ~11,920 |
 | Cultured | 53.00% | ~11,486 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,269 |
 | Vaporous Expansion | 49.00% | ~10,619 |
 | Teamwork | 45.00% | ~9,752 |
-| There you are! | 44.00% | ~9,535 |
+| There you are! | 44.00% | ~9,536 |
 | Clutch Capture | 42.00% | ~9,102 |
 | Back Off | 36.00% | ~7,802 |
 | Daily Dose | 36.00% | ~7,802 |
-| Welcome to the Crew | 33.00% | ~7,151 |
+| Welcome to the Crew | 33.00% | ~7,152 |
 | Solo Capture | 32.00% | ~6,935 |
 | Ghostbuster In Training | 31.00% | ~6,718 |
-| Icing on the Cake | 30.00% | ~6,501 |
+| Icing on the Cake | 30.00% | ~6,502 |
 | Legions | 28.00% | ~6,068 |
 | Side Hustle | 28.00% | ~6,068 |
 | We have the best insurance | 27.00% | ~5,851 |
@@ -35,12 +35,12 @@ Rating: 4.49 (Ranked 552)
 | Skilled | 25.00% | ~5,418 |
 | Ectoplasmic Entity | 24.00% | ~5,201 |
 | Rift Destroyer | 20.00% | ~4,334 |
-| Tobin's Prodigy | 19.00% | ~4,117 |
+| Tobin's Prodigy | 19.00% | ~4,118 |
 | Reckless | 18.00% | ~3,901 |
 | Terrifying | 17.00% | ~3,684 |
-| Diabolical | 16.00% | ~3,467 |
-| Escape Artist | 16.00% | ~3,467 |
-| Seasoned | 16.00% | ~3,467 |
+| Diabolical | 16.00% | ~3,468 |
+| Escape Artist | 16.00% | ~3,468 |
+| Seasoned | 16.00% | ~3,468 |
 | Liability | 11.00% | ~2,384 |
 | Rivalry | 10.00% | ~2,167 |
 | Fragile Panes | 9.00% | ~1,950 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 552)
 | I don't need these | 1.00% | ~217 |
 | Mycophile | 1.00% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,671 (Ranked 89)  
+Progressed: 21,672 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,15 +77,15 @@ Completed: 39 (0.18%) (Ranked 140)
 | 2023-05-07 | 21,611 | 40 |
 | 2023-05-08 | 21,644 | 40 |
 | 2023-05-09 | 21,670 | 39 |
-| 2023-05-10 | 21,671 | 39 |
+| 2023-05-10 | 21,672 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
-Sum: 2,050 (Ranked 185)  
+Sum: 2,052 (Ranked 185)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 228 |
-| This game is Great for Beginners | 218 |
+| This game is Great for Beginners | 220 |
 | This game has Diverse Characters | 210 |
 | This game has Amazing Storytelling | 207 |
 | This game has Competitive Players | 207 |
@@ -156,3 +156,4 @@ Diff (max vs sum): 60
 | 2023-05-07 | 4.49 | 228 | 2,047 |
 | 2023-05-08 | 4.49 | 228 | 2,049 |
 | 2023-05-09 | 4.49 | 228 | 2,050 |
+| 2023-05-10 | 4.49 | 228 | 2,052 |

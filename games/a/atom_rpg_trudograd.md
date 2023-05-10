@@ -54,8 +54,8 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-08 | 1,008 | 0 |
 | 2023-05-09 | 1,009 | 0 |
 ## Awards
-Max (Character Customization): 20  (Ranked 482)  
-Sum: 20 (Ranked 482)  
+Max (Character Customization): 20  (Ranked 483)  
+Sum: 20 (Ranked 483)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

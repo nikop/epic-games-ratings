@@ -17,7 +17,7 @@
 | Teamwork | 22.00% | ~26 |
 | Determined | 21.00% | ~25 |
 | Beginning of the End | 18.00% | ~21 |
-| Bling | 17.00% | ~20 |
+| Bling | 18.00% | ~21 |
 | Geared | 16.00% | ~19 |
 | Master Trader | 13.00% | ~15 |
 | Mysteries of Rin | 13.00% | ~15 |

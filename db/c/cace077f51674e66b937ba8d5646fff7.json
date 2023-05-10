@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-26T01:00:00+00:00",
@@ -622,8 +622,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-05-10T01:57:28.1557991+00:00",
+  "LastChanged_Achievements": "2023-05-10T03:01:15.7106422+00:00",
   "LastUpdate_AppInfo": "2023-05-08T08:58:18.5800684+00:00",
-  "LastUpdate_Ratings": "2023-05-10T01:54:30.1154281+00:00",
-  "LastUpdate_Achievements": "2023-05-10T01:57:28.1558766+00:00"
+  "LastUpdate_Ratings": "2023-05-10T02:57:04.1472252+00:00",
+  "LastUpdate_Achievements": "2023-05-10T03:01:15.7107067+00:00"
 }

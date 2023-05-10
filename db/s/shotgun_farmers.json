@@ -177,9 +177,9 @@
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -538,8 +538,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-10T01:57:49.2572597+00:00",
+  "LastChanged_Achievements": "2023-05-10T03:01:44.2601945+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-10T01:55:24.8168312+00:00",
-  "LastUpdate_Achievements": "2023-05-10T01:57:49.257293+00:00"
+  "LastUpdate_Ratings": "2023-05-10T02:58:21.0629978+00:00",
+  "LastUpdate_Achievements": "2023-05-10T03:01:44.2602209+00:00"
 }

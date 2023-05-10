@@ -6,33 +6,33 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,519 |
-| Leader | 60.00% | ~3,060 |
-| Explorer | 53.00% | ~2,703 |
-| Healer | 53.00% | ~2,703 |
-| Aspiring Inventor | 45.00% | ~2,295 |
-| Adventurer | 41.00% | ~2,091 |
-| Famous Healer | 38.00% | ~1,938 |
-| Local Leader | 35.00% | ~1,785 |
-| New Opportunities | 34.00% | ~1,734 |
-| Famous Explorer | 33.00% | ~1,683 |
-| Energized | 33.00% | ~1,683 |
-| The Long Haul | 33.00% | ~1,683 |
-| Survivor | 31.00% | ~1,581 |
-| The Great Healer | 30.00% | ~1,530 |
-| Cleaner | 28.00% | ~1,428 |
-| Catastrofan | 28.00% | ~1,428 |
-| Legendary Explorer | 27.00% | ~1,377 |
-| Finders, Keepers | 25.00% | ~1,275 |
-| Top Notch | 24.00% | ~1,224 |
-| Ice Lakes | 23.00% | ~1,173 |
-| Mentor | 23.00% | ~1,173 |
-| Great Leader | 22.00% | ~1,122 |
-| Merchant | 21.00% | ~1,071 |
-| Real Survivor | 21.00% | ~1,071 |
-| War Never Changes | 19.00% | ~969 |
-| Rocket Surgeon | 19.00% | ~969 |
-| Big Game Hunter | 17.00% | ~867 |
+| First Step | 69.00% | ~3,521 |
+| Leader | 60.00% | ~3,062 |
+| Explorer | 53.00% | ~2,705 |
+| Healer | 53.00% | ~2,705 |
+| Aspiring Inventor | 45.00% | ~2,296 |
+| Adventurer | 41.00% | ~2,092 |
+| Famous Healer | 37.00% | ~1,888 |
+| Local Leader | 35.00% | ~1,786 |
+| New Opportunities | 34.00% | ~1,735 |
+| Famous Explorer | 33.00% | ~1,684 |
+| Energized | 33.00% | ~1,684 |
+| The Long Haul | 33.00% | ~1,684 |
+| Survivor | 31.00% | ~1,582 |
+| The Great Healer | 30.00% | ~1,531 |
+| Cleaner | 28.00% | ~1,429 |
+| Catastrofan | 28.00% | ~1,429 |
+| Legendary Explorer | 27.00% | ~1,378 |
+| Finders, Keepers | 25.00% | ~1,276 |
+| Top Notch | 24.00% | ~1,225 |
+| Mentor | 23.00% | ~1,174 |
+| Great Leader | 22.00% | ~1,123 |
+| Ice Lakes | 22.00% | ~1,123 |
+| Merchant | 21.00% | ~1,072 |
+| Real Survivor | 21.00% | ~1,072 |
+| War Never Changes | 19.00% | ~970 |
+| Rocket Surgeon | 19.00% | ~970 |
+| Big Game Hunter | 17.00% | ~868 |
 | Friendly | 16.00% | ~816 |
 | Around the World | 15.00% | ~765 |
 | Spreading Influence | 15.00% | ~765 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,100 (Ranked 120)  
+Progressed: 5,103 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 5,014 | 0 |
 | 2023-05-08 | 5,063 | 0 |
 | 2023-05-09 | 5,091 | 0 |
-| 2023-05-10 | 5,100 | 0 |
+| 2023-05-10 | 5,103 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 320)  
 Sum: 651 (Ranked 267)  

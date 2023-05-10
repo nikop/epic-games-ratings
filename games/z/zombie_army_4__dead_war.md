@@ -31,7 +31,7 @@ Number of Ratings: 743  (23.09.2022)
 | All roads lead to Rome | 33.00% | ~13,935 |
 | You're all going to die down here | 31.00% | ~13,091 |
 | He did Nazi that coming | 31.00% | ~13,091 |
-| Kill of the week | 30.00% | ~12,668 |
+| Kill of the week | 31.00% | ~13,091 |
 | I never liked them anyway | 30.00% | ~12,668 |
 | Is it over? | 28.00% | ~11,824 |
 | Got your back | 27.00% | ~11,402 |

@@ -1,65 +1,65 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 699)  
+Rating: 4.37 (Ranked 700)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~23,616 |
-| Blood Moon | 73.00% | ~20,282 |
-| Path of the Necromancer | 65.00% | ~18,059 |
-| Chainbreaker - I | 60.00% | ~16,670 |
-| Cursed Creature | 57.00% | ~15,836 |
-| Extraction | 57.00% | ~15,836 |
-| Chainbreaker - II | 55.00% | ~15,281 |
-| Necromancer's Apprentice | 51.00% | ~14,169 |
-| Keeper of Keys | 47.00% | ~13,058 |
-| Distillation | 43.00% | ~11,947 |
-| Mountain King - I | 42.00% | ~11,669 |
-| Transmutation | 42.00% | ~11,669 |
-| Prepared Necromancer | 40.00% | ~11,113 |
-| Mountain King - II | 39.00% | ~10,835 |
-| Blind Rage | 38.00% | ~10,558 |
-| Mad Genius | 35.00% | ~9,724 |
-| Cannon Fodder - I | 34.00% | ~9,446 |
-| Soul of Lies | 34.00% | ~9,446 |
-| Bane of Mercenaries - I | 33.00% | ~9,168 |
-| Bane of Mercenaries - II | 31.00% | ~8,613 |
-| Cannon Fodder - II | 29.00% | ~8,057 |
-| Shadow Between Worlds | 29.00% | ~8,057 |
-| Bane of Monsters | 28.00% | ~7,779 |
-| Chainbreaker - III | 27.00% | ~7,501 |
-| Revealed Secrets - I | 26.00% | ~7,224 |
-| Revealed Secrets - II | 25.00% | ~6,946 |
-| Blood Elemental | 24.00% | ~6,668 |
-| Unholy Bones | 23.00% | ~6,390 |
-| Lord of Fire | 23.00% | ~6,390 |
-| Cannon Fodder - III | 22.00% | ~6,112 |
-| Spiritual Attraction | 22.00% | ~6,112 |
-| Uncommon Warrior | 22.00% | ~6,112 |
-| Nightmare of the Humanity - I | 22.00% | ~6,112 |
-| Nightmare of the Humanity - II | 21.00% | ~5,834 |
-| That Was Easy! | 20.00% | ~5,557 |
-| Silent Waters | 20.00% | ~5,557 |
-| Head of Order | 20.00% | ~5,557 |
-| Calcination | 19.00% | ~5,279 |
-| Blood Mage | 17.00% | ~4,723 |
-| Wild Hunger | 16.00% | ~4,445 |
-| Rage Concentrated | 16.00% | ~4,445 |
-| Mountain King - III | 15.00% | ~4,167 |
-| Rare Warrior | 15.00% | ~4,167 |
+| Improvement | 85.00% | ~23,620 |
+| Blood Moon | 73.00% | ~20,285 |
+| Path of the Necromancer | 65.00% | ~18,062 |
+| Chainbreaker - I | 60.00% | ~16,673 |
+| Cursed Creature | 57.00% | ~15,839 |
+| Extraction | 57.00% | ~15,839 |
+| Chainbreaker - II | 55.00% | ~15,283 |
+| Necromancer's Apprentice | 51.00% | ~14,172 |
+| Keeper of Keys | 47.00% | ~13,060 |
+| Distillation | 43.00% | ~11,949 |
+| Mountain King - I | 42.00% | ~11,671 |
+| Transmutation | 42.00% | ~11,671 |
+| Prepared Necromancer | 40.00% | ~11,115 |
+| Mountain King - II | 39.00% | ~10,837 |
+| Blind Rage | 38.00% | ~10,559 |
+| Mad Genius | 35.00% | ~9,726 |
+| Cannon Fodder - I | 34.00% | ~9,448 |
+| Soul of Lies | 34.00% | ~9,448 |
+| Bane of Mercenaries - I | 33.00% | ~9,170 |
+| Bane of Mercenaries - II | 31.00% | ~8,614 |
+| Cannon Fodder - II | 29.00% | ~8,059 |
+| Shadow Between Worlds | 29.00% | ~8,059 |
+| Bane of Monsters | 28.00% | ~7,781 |
+| Chainbreaker - III | 27.00% | ~7,503 |
+| Revealed Secrets - I | 26.00% | ~7,225 |
+| Revealed Secrets - II | 25.00% | ~6,947 |
+| Blood Elemental | 24.00% | ~6,669 |
+| Unholy Bones | 23.00% | ~6,391 |
+| Lord of Fire | 23.00% | ~6,391 |
+| Cannon Fodder - III | 22.00% | ~6,113 |
+| Spiritual Attraction | 22.00% | ~6,113 |
+| Uncommon Warrior | 22.00% | ~6,113 |
+| Nightmare of the Humanity - I | 22.00% | ~6,113 |
+| Nightmare of the Humanity - II | 21.00% | ~5,835 |
+| That Was Easy! | 20.00% | ~5,558 |
+| Silent Waters | 20.00% | ~5,558 |
+| Head of Order | 20.00% | ~5,558 |
+| Calcination | 19.00% | ~5,280 |
+| Blood Mage | 17.00% | ~4,724 |
+| Wild Hunger | 16.00% | ~4,446 |
+| Rage Concentrated | 16.00% | ~4,446 |
+| Mountain King - III | 15.00% | ~4,168 |
+| Rare Warrior | 15.00% | ~4,168 |
 | Blood Madness | 13.00% | ~3,612 |
 | First Sacrifice | 13.00% | ~3,612 |
 | Grand Arena | 13.00% | ~3,612 |
 | Master of Alchemy | 13.00% | ~3,612 |
-| Legendary Warrior | 12.00% | ~3,334 |
-| Bane of Mercenaries - III | 10.00% | ~2,778 |
-| Ancient Burial | 10.00% | ~2,778 |
-| More Mortal Suffering! | 9.00% | ~2,500 |
-| Monument to Greatness | 9.00% | ~2,500 |
-| Forbidden Knowledge | 9.00% | ~2,500 |
-| Live Operation | 9.00% | ~2,500 |
+| Legendary Warrior | 12.00% | ~3,335 |
+| Bane of Mercenaries - III | 10.00% | ~2,779 |
+| Ancient Burial | 10.00% | ~2,779 |
+| More Mortal Suffering! | 9.00% | ~2,501 |
+| Monument to Greatness | 9.00% | ~2,501 |
+| Forbidden Knowledge | 9.00% | ~2,501 |
+| Live Operation | 9.00% | ~2,501 |
 | Master of Rage | 8.00% | ~2,223 |
 | Icy Incursion | 8.00% | ~2,223 |
 | Arachnophobia | 8.00% | ~2,223 |
@@ -67,10 +67,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Nightmare of the Humanity - III | 7.00% | ~1,945 |
 | Means of Recovery | 6.00% | ~1,667 |
 | Master of Magic | 6.00% | ~1,667 |
-| Master of Destruction | 4.00% | ~1,111 |
-| Dungeon Queen | 3.00% | ~833 |
-| Mek Brothers | 3.00% | ~833 |
-| The Hunter Becomes... | 3.00% | ~833 |
+| Master of Destruction | 4.00% | ~1,112 |
+| Dungeon Queen | 3.00% | ~834 |
+| Mek Brothers | 3.00% | ~834 |
+| The Hunter Becomes... | 3.00% | ~834 |
 | Evil Always Wins! | 2.00% | ~556 |
 | Graveyard Call - I | 2.00% | ~556 |
 | Graveyard Call - II | 2.00% | ~556 |
@@ -78,11 +78,11 @@ Number of Ratings: 10,109  (23.09.2022)
 | Experimenter | 2.00% | ~556 |
 | Graveyard Call - III | 0.90% | ~250 |
 | I'll Be Back! | 0.80% | ~222 |
-| Doctorate in Potion Brewing | 0.70% | ~194 |
+| Doctorate in Potion Brewing | 0.70% | ~195 |
 | Unrivaled | 0.60% | ~167 |
 | Renowned Researcher | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,783 (Ranked 85)  
+Progressed: 27,788 (Ranked 85)  
 Completed: 14 (0.05%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 14 (0.05%) (Ranked 169)
 | 2023-05-07 | 27,546 | 14 |
 | 2023-05-08 | 27,659 | 14 |
 | 2023-05-09 | 27,774 | 14 |
-| 2023-05-10 | 27,783 | 14 |
+| 2023-05-10 | 27,788 | 14 |
 ## Awards
 Max (Character Customization): 2,131  (Ranked 101)  
 Sum: 4,128 (Ranked 130)  

@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-10T02:02:09.6477282+00:00",
+  "LastChanged_Achievements": "2023-05-10T03:05:38.8850546+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.2230184+00:00",
-  "LastUpdate_Ratings": "2023-05-10T01:55:08.5207661+00:00",
-  "LastUpdate_Achievements": "2023-05-10T02:02:09.6477311+00:00"
+  "LastUpdate_Ratings": "2023-05-10T02:57:57.7398429+00:00",
+  "LastUpdate_Achievements": "2023-05-10T03:05:38.8850568+00:00"
 }

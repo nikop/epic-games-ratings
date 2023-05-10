@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -1534,10 +1534,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 2881,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-05-10T02:59:13.0259837+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2886,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2881,
+  "NumberOfAwards": 2886,
   "NumberOfAwardsMax": 364,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -1551,7 +1557,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 332
+      "Count": 335
     },
     {
       "Text": "This game has Competitive Players",
@@ -1599,7 +1605,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 217
+      "Count": 219
     },
     {
       "Text": "This game is Relaxing",
@@ -1632,8 +1638,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-05-09T20:00:07.4132346+00:00",
+  "LastChanged": "2023-05-10T02:59:13.0259836+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:13.7173005+00:00",
-  "LastUpdate_Ratings": "2023-05-10T01:56:01.4668115+00:00",
-  "LastUpdate_Achievements": "2023-05-10T01:57:19.3368034+00:00"
+  "LastUpdate_Ratings": "2023-05-10T02:59:13.0259842+00:00",
+  "LastUpdate_Achievements": "2023-05-10T03:01:03.6866231+00:00"
 }

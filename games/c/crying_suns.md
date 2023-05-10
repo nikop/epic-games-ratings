@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,040 |
-| Jeef Skeejj | 44.00% | ~201,360 |
-| Careful planning | 39.00% | ~178,478 |
-| Second Coming | 33.00% | ~151,020 |
-| Jeef Skagg | 30.00% | ~137,291 |
-| Mother | 25.00% | ~114,409 |
+| The Shutdown | 66.00% | ~302,042 |
+| Jeef Skeejj | 44.00% | ~201,361 |
+| Careful planning | 39.00% | ~178,479 |
+| Second Coming | 33.00% | ~151,021 |
+| Jeef Skagg | 30.00% | ~137,292 |
+| Mother | 25.00% | ~114,410 |
 | In space, no one can hear you scream | 23.00% | ~105,257 |
-| Chapter I: Echoes | 22.00% | ~100,680 |
-| Excelsior Rule | 22.00% | ~100,680 |
-| Things persisted in not being what they seemed | 20.00% | ~91,527 |
+| Chapter I: Echoes | 22.00% | ~100,681 |
+| Excelsior Rule | 22.00% | ~100,681 |
+| Things persisted in not being what they seemed | 20.00% | ~91,528 |
 | Knightmare Frames | 15.00% | ~68,646 |
 | May His passing cleanse the world | 15.00% | ~68,646 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,646 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,637 (Ranked 28)  
+Progressed: 457,639 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 14 (0.00%) (Ranked 197)
 | 2023-05-07 | 457,494 | 14 |
 | 2023-05-08 | 457,563 | 14 |
 | 2023-05-09 | 457,634 | 14 |
-| 2023-05-10 | 457,637 | 14 |
+| 2023-05-10 | 457,639 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

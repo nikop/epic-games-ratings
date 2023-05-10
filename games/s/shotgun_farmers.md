@@ -18,12 +18,12 @@
 | Eggtraordinary | 16.00% | ~5 |
 | Carrocketeer | 16.00% | ~5 |
 | Fresh Pancake | 13.00% | ~4 |
+| Bring Home The Bacon | 9.00% | ~3 |
 | Chick Magnet | 9.00% | ~3 |
 | Getting Started | 9.00% | ~3 |
 | Forestside Survivor | 9.00% | ~3 |
 | Quit Horsin' Around | 9.00% | ~3 |
 | Early Bird | 9.00% | ~3 |
-| Bring Home The Bacon | 6.00% | ~2 |
 | Honk Honk | 6.00% | ~2 |
 | Pum-King | 6.00% | ~2 |
 | 15 Days | 3.00% | ~1 |

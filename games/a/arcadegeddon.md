@@ -7,19 +7,19 @@ Number of Ratings: 801  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 91.00% | ~5,728 |
-| Photogenic | 87.00% | ~5,476 |
-| Surge Gauntlet Jockey | 85.00% | ~5,350 |
-| Plug It In | 84.00% | ~5,287 |
-| Adventure Time | 80.00% | ~5,035 |
-| Playing With Power | 77.00% | ~4,846 |
-| You're Fired | 59.00% | ~3,713 |
+| Photogenic | 87.00% | ~5,477 |
+| Surge Gauntlet Jockey | 85.00% | ~5,351 |
+| Plug It In | 84.00% | ~5,288 |
+| Adventure Time | 80.00% | ~5,036 |
+| Playing With Power | 77.00% | ~4,847 |
+| You're Fired | 59.00% | ~3,714 |
 | Coup d'Etat | 58.00% | ~3,651 |
 | Get Furious | 55.00% | ~3,462 |
 | Gunplay And Cosplay | 54.00% | ~3,399 |
 | Hacks In Stacks | 54.00% | ~3,399 |
-| Meching Enemies | 49.00% | ~3,084 |
-| Ticket Toddler | 48.00% | ~3,021 |
-| Booty Bashing | 47.00% | ~2,958 |
+| Meching Enemies | 49.00% | ~3,085 |
+| Ticket Toddler | 48.00% | ~3,022 |
+| Booty Bashing | 47.00% | ~2,959 |
 | Here Comes a New Challenger | 37.00% | ~2,329 |
 | Field Medic | 36.00% | ~2,266 |
 | Guardian Angel | 34.00% | ~2,140 |
@@ -36,7 +36,7 @@ Number of Ratings: 801  (23.09.2022)
 | 1.21 Gigawatts | 12.00% | ~755 |
 | To Be Continued | 12.00% | ~755 |
 | This Is My Boomstick! | 11.00% | ~692 |
-| Get In The Ring! | 9.00% | ~566 |
+| Get In The Ring! | 9.00% | ~567 |
 | Ticket Titan | 8.00% | ~504 |
 | Rescue Ranger | 6.00% | ~378 |
 | Surge Gauntlet Scholar | 6.00% | ~378 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~31 |
 | Pyrotechnical | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,294 (Ranked 114)  
+Progressed: 6,295 (Ranked 114)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 6,253 | 0 |
 | 2023-05-08 | 6,269 | 0 |
 | 2023-05-09 | 6,292 | 0 |
-| 2023-05-10 | 6,294 | 0 |
+| 2023-05-10 | 6,295 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 372)  
 Sum: 533 (Ranked 287)  

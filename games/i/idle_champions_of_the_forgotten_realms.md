@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.30% | ~261 |
 | Building Trust | 0.30% | ~261 |
 | Unearthed Evil | 0.30% | ~261 |
+| No Time To Rest | 0.30% | ~261 |
 | The Dinner Party | 0.30% | ~261 |
 | Useless Allies | 0.30% | ~261 |
 | Exploring Port Nyanzaru | 0.30% | ~261 |
@@ -76,7 +77,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.20% | ~174 |
 | Sleuth It Out | 0.20% | ~174 |
 | A Grand Puzzle | 0.20% | ~174 |
-| No Time To Rest | 0.20% | ~174 |
 | The Mists of Ravenloft | 0.20% | ~174 |
 | Invisible Shadows | 0.20% | ~174 |
 | Family Entanglements | 0.20% | ~174 |
@@ -109,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
 | Resolve Amongst Chaos | 0.20% | ~174 |
+| Market Fluctuations | 0.20% | ~174 |
 | Into The Fire | 0.20% | ~107 |
 | Hearts Aflame | 0.20% | ~107 |
 | Look Out! | 0.20% | ~107 |
@@ -365,7 +366,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.10% | ~87 |
 | Shadow Stalkers | 0.10% | ~53 |
 | Avernus Frozen Over | 0.10% | ~53 |
-| Market Fluctuations | 0.10% | ~87 |
 | Once More Into The Breach | 0.10% | ~87 |
 | Twice More Into The Breach | 0.10% | ~87 |
 | Thrice More Into The Breach | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,012 (Ranked 59)  
+Progressed: 87,016 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,012 | 1,821 |
+| 2023-05-10 | 87,016 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

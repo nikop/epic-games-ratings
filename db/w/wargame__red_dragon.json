@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-03-04T16:00:00+00:00",
@@ -2970,10 +2970,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 7937,
       "NumberOfAwardsMax": 864
+    },
+    {
+      "Time": "2023-05-10T02:57:40.9354651+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7939,
+      "NumberOfAwardsMax": 864
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7937,
+  "NumberOfAwards": 7939,
   "NumberOfAwardsMax": 864,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3047,7 +3053,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 774
+      "Count": 776
     }
   ],
   "EOS_Progressed": 0,
@@ -3061,8 +3067,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-05-10T01:54:56.2941523+00:00",
+  "LastChanged": "2023-05-10T02:57:40.9354649+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.6264864+00:00",
-  "LastUpdate_Ratings": "2023-05-10T01:54:56.2941529+00:00",
-  "LastUpdate_Achievements": "2023-05-10T01:57:42.9290616+00:00"
+  "LastUpdate_Ratings": "2023-05-10T02:57:40.9354655+00:00",
+  "LastUpdate_Achievements": "2023-05-10T03:01:35.6051974+00:00"
 }
