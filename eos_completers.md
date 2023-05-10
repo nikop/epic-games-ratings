@@ -23,10 +23,10 @@
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.90% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.34% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.33% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -57,10 +57,10 @@
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 58 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
+| 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
-| 61 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
+| 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
@@ -97,7 +97,7 @@
 | 94 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 96 | [Train Valley](games/t/train_valley.md) | 0.73% |
 | 97 | [Haven](games/h/haven.md) | 0.72% |
-| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
+| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.70% |
 | 99 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 100 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
