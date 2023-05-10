@@ -7,7 +7,7 @@ Rating: 4.85 (Ranked 38)
 | ---- | ---------- | ----- |
 | Forgotten Sorority | 91.00% | ~196,804 |
 | Private Club | 74.00% | ~160,038 |
-| Rogue Guild | 65.00% | ~140,574 |
+| Rogue Guild | 66.00% | ~142,737 |
 | I Watched the Intro | 57.00% | ~123,273 |
 | Covert Consortium | 55.00% | ~118,947 |
 | Goat Queen | 53.00% | ~114,622 |

@@ -9,8 +9,8 @@
 | No Asperascope | 68.00% | ~21 |
 | Triple Kill | 68.00% | ~21 |
 | Cornivore | 61.00% | ~19 |
-| 10K | 29.00% | ~9 |
-| 15K | 26.00% | ~8 |
+| 10K | 32.00% | ~10 |
+| 15K | 29.00% | ~9 |
 | Drinking Problem | 23.00% | ~7 |
 | Graveside Survivor | 23.00% | ~7 |
 | Skin Of Your Teeth | 23.00% | ~7 |

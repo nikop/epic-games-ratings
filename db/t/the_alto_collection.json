@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -649,9 +649,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 20471,
+  "EOS_Progressed": 20477,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1048,
+  "EOS_NewPlayers": 1046,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2344,6 +2344,11 @@
       "Time": "2023-05-09T23:04:56.4142599+00:00",
       "NumProgressed": 20471,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-10T00:06:08.2910591+00:00",
+      "NumProgressed": 20477,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -2379,7 +2384,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "distance500000",
@@ -2395,7 +2400,7 @@
       "Name": "Rookie",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4913
+      "UsersEstimate": 4914
     },
     {
       "ID": "goals180",
@@ -2419,7 +2424,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "hoistthemainsail",
@@ -2435,7 +2440,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "journeyer",
@@ -2475,7 +2480,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3891
     },
     {
       "ID": "novice",
@@ -2483,7 +2488,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "playerFelipe",
@@ -2539,7 +2544,7 @@
       "Name": "Human Flight",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "pro",
@@ -2547,7 +2552,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "proximityFly1000",
@@ -2563,7 +2568,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5527
+      "UsersEstimate": 5529
     },
     {
       "ID": "sandboarder",
@@ -2619,7 +2624,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3276
     },
     {
       "ID": "unlockpaz",
@@ -2627,7 +2632,7 @@
       "Name": "Enter Paz",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "vandal",
@@ -2643,7 +2648,7 @@
       "Name": "Voyager",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "wanderer",
@@ -2651,7 +2656,7 @@
       "Name": "Wanderer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "windswept",
@@ -2666,15 +2671,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 20471,
+      "Progressed": 20477,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:04:56.4142597+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:06:08.2910585+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:24.8068644+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:58:42.3271065+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:04:56.4142886+00:00"
+  "LastUpdate_Ratings": "2023-05-09T23:59:36.6105807+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:06:08.2911276+00:00"
 }

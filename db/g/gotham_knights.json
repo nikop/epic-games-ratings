@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1040,9 +1040,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60761,
+  "EOS_Progressed": 60763,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2160,6 +2160,11 @@
       "Time": "2023-05-09T23:05:10.3413276+00:00",
       "NumProgressed": 60761,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-10T00:06:26.9880711+00:00",
+      "NumProgressed": 60763,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 61,
@@ -2257,9 +2262,9 @@
       "ID": "APPLY_STATUS",
       "SetID": "4eo5ebm",
       "Name": "In Your Element",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 182
     },
     {
       "ID": "CHALLENGES_1",
@@ -2658,13 +2663,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60761,
+      "Progressed": 60763,
       "Completed": 89
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31041,
+      "Progressed": 31043,
       "Completed": 2633
     }
   ],
@@ -2672,8 +2677,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-09T10:00:51.8031935+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:05:10.3413272+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:06:26.9880707+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:59:07.4125693+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:05:10.3413753+00:00"
+  "LastUpdate_Ratings": "2023-05-10T00:00:13.4737369+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:06:26.9881337+00:00"
 }

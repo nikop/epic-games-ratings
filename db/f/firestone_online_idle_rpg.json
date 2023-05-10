@@ -1404,9 +1404,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 19
     },
     {
       "ID": "dragonclicker",
@@ -1724,9 +1724,9 @@
       "ID": "sailor",
       "SetID": "3nl4bcg",
       "Name": "Sailor",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "scientist",
@@ -1917,8 +1917,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-09T15:59:23.3222999+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:04:50.2326572+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:06:00.0977669+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:57:40.3513486+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:04:50.2327217+00:00"
+  "LastUpdate_Ratings": "2023-05-09T23:58:04.8725089+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:06:00.0978519+00:00"
 }

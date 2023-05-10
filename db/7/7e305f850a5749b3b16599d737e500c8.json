@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -194,9 +194,9 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -208,8 +208,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:00:29.4875178+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:02:27.1903563+00:00",
   "LastUpdate_AppInfo": "2023-05-08T14:58:36.6916699+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:56:58.4957849+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:00:29.4875291+00:00"
+  "LastUpdate_Ratings": "2023-05-09T23:57:03.4842718+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:02:27.1907829+00:00"
 }

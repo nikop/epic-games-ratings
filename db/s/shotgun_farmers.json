@@ -212,9 +212,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_first_first_blood",
@@ -476,9 +476,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_tripleKill",
@@ -533,8 +533,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:00:19.5388322+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:02:12.805495+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:57:54.8602147+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:00:19.5388583+00:00"
+  "LastUpdate_Ratings": "2023-05-09T23:58:26.8865177+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:02:12.8055626+00:00"
 }

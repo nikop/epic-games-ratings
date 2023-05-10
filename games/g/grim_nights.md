@@ -8,9 +8,9 @@
 | Getting somewhere | 70.00% | ~7 |
 | Top notch! | 60.00% | ~6 |
 | Slay it! | 50.00% | ~5 |
+| Poor things... | 50.00% | ~5 |
 | Lives lost | 50.00% | ~5 |
 | Bling bling! | 50.00% | ~5 |
-| Poor things... | 40.00% | ~4 |
 | Still alive! | 40.00% | ~4 |
 | Slaughter | 40.00% | ~4 |
 | Slay that one too! | 20.00% | ~2 |

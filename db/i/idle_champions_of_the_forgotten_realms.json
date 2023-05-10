@@ -3604,9 +3604,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 87004,
+  "EOS_Progressed": 87008,
   "EOS_Completed": 1820,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5283,6 +5283,11 @@
     {
       "Time": "2023-05-09T23:05:20.0269444+00:00",
       "NumProgressed": 87004,
+      "NumCompleted": 1820
+    },
+    {
+      "Time": "2023-05-10T00:06:39.1396475+00:00",
+      "NumProgressed": 87008,
       "NumCompleted": 1820
     }
   ],
@@ -6981,9 +6986,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_36",
@@ -9206,21 +9211,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53278,
+      "Progressed": 53282,
       "Completed": 2484
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87004,
+      "Progressed": 87008,
       "Completed": 1820
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-09T03:59:24.5645987+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:05:20.0269439+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:06:39.1396471+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:57:43.1674811+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:05:20.0289883+00:00"
+  "LastUpdate_Ratings": "2023-05-09T23:58:08.9615392+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:06:39.1425041+00:00"
 }

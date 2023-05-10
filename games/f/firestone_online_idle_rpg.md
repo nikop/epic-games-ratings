@@ -34,6 +34,7 @@ Rating: 3.48 (Ranked 917)
 | Mysterious Rock | 3.00% | ~28 |
 | The Expeditioner | 3.00% | ~28 |
 | The power of Awakening | 3.00% | ~28 |
+| Doing My Part | 2.00% | ~19 |
 | Here We Go Again | 2.00% | ~19 |
 | Hunter | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
@@ -42,7 +43,6 @@ Rating: 3.48 (Ranked 917)
 | Active Member | 1.00% | ~9 |
 | Ancient Knowledge | 1.00% | ~9 |
 | Challenger | 1.00% | ~9 |
-| Doing My Part | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
 | Master Enchanter | 1.00% | ~9 |
@@ -52,10 +52,10 @@ Rating: 3.48 (Ranked 917)
 | What lies behind the bush | 1.00% | ~9 |
 | Weekly Quest Completionist | 0.70% | ~7 |
 | Dragon Slayer | 0.60% | ~6 |
+| Sailor | 0.60% | ~6 |
 | Enchanting skill | 0.50% | ~5 |
 | Engineer Mastery | 0.50% | ~5 |
 | Legendary | 0.50% | ~5 |
-| Sailor | 0.50% | ~5 |
 | Blueprint Upgrades | 0.40% | ~4 |
 | Crystal Mining | 0.40% | ~4 |
 | Ebony Jungle Liberator | 0.40% | ~4 |

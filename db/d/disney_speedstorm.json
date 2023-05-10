@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2396,
+  "EOS_Progressed": 2397,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -1145,6 +1145,11 @@
       "Time": "2023-05-09T17:06:38.1949185+00:00",
       "NumProgressed": 2396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T00:06:02.9271169+00:00",
+      "NumProgressed": 2397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1156,7 +1161,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "10",
@@ -1164,7 +1169,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "11",
@@ -1196,7 +1201,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "15",
@@ -1347,13 +1352,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2396,
+      "Progressed": 2397,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:04:52.4565154+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:06:02.9271165+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:58:24.5141117+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:04:52.4565322+00:00"
+  "LastUpdate_Ratings": "2023-05-09T23:59:11.9723914+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:06:02.9271402+00:00"
 }

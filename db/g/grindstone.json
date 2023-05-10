@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -204,9 +204,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5050,
+  "EOS_Progressed": 5051,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-05-09T19:07:41.4140411+00:00",
       "NumProgressed": 5050,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-10T00:06:31.6501532+00:00",
+      "NumProgressed": 5051,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -260,7 +265,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -268,7 +273,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -276,7 +281,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -364,7 +369,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -388,7 +393,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4949
+      "UsersEstimate": 4950
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -396,7 +401,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -436,7 +441,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -468,7 +473,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -476,7 +481,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -484,7 +489,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -500,7 +505,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -548,7 +553,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4949
+      "UsersEstimate": 4950
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -572,7 +577,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -588,7 +593,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -604,7 +609,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -628,7 +633,7 @@
       "Name": "Are We Good Guys Or Bad Guys?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVE_SPARE_SLOB",
@@ -651,15 +656,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5050,
+      "Progressed": 5051,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:05:14.1194695+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:06:31.6501527+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:05.7197071+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:59:21.0770128+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:05:14.1195026+00:00"
+  "LastUpdate_Ratings": "2023-05-10T00:00:34.8268361+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:06:31.6502315+00:00"
 }

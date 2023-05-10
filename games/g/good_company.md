@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,315 |
-| Returning Home: Quick Learner | 25.00% | ~1,181 |
+| Level: Returning Home | 49.00% | ~2,316 |
+| Returning Home: Quick Learner | 25.00% | ~1,182 |
 | Level: Charlie's Circuits | 22.00% | ~1,040 |
 | Level: Rising Markets | 9.00% | ~425 |
 | Peddler | 9.00% | ~425 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Campaign: Lesson Learned | 3.00% | ~142 |
 | Level: Bet On Bots | 3.00% | ~142 |
 | Modular Performance | 3.00% | ~142 |
-| Level: Merry-Go-Around | 2.00% | ~94 |
-| Charlies's Circuits: Artist | 2.00% | ~94 |
-| Modular Peak | 2.00% | ~94 |
-| Accountant | 2.00% | ~94 |
-| Data Churn Type III | 2.00% | ~94 |
-| Multi-Millionaire | 2.00% | ~94 |
-| Contender | 2.00% | ~94 |
-| Trophy Collector | 2.00% | ~94 |
-| Module Maniac | 2.00% | ~94 |
-| Overproducer | 2.00% | ~94 |
-| Natural Talent | 2.00% | ~94 |
+| Level: Merry-Go-Around | 2.00% | ~95 |
+| Charlies's Circuits: Artist | 2.00% | ~95 |
+| Modular Peak | 2.00% | ~95 |
+| Accountant | 2.00% | ~95 |
+| Data Churn Type III | 2.00% | ~95 |
+| Multi-Millionaire | 2.00% | ~95 |
+| Contender | 2.00% | ~95 |
+| Trophy Collector | 2.00% | ~95 |
+| Module Maniac | 2.00% | ~95 |
+| Overproducer | 2.00% | ~95 |
+| Natural Talent | 2.00% | ~95 |
 | Level: A Happy Taskforce | 1.00% | ~47 |
 | Level: Topple The Top | 1.00% | ~47 |
 | Level: The Machinery | 1.00% | ~47 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,725 (Ranked 124)  
+Progressed: 4,726 (Ranked 124)  
 Completed: 1 (0.02%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 1 (0.02%) (Ranked 181)
 | 2023-05-07 | 4,718 | 1 |
 | 2023-05-08 | 4,722 | 1 |
 | 2023-05-09 | 4,725 | 1 |
+| 2023-05-10 | 4,726 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
@@ -116,9 +116,9 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_bunny50",
@@ -221,8 +221,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:04:40.6621672+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:05:47.7457271+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:58:36.1848907+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:04:40.6621768+00:00"
+  "LastUpdate_Ratings": "2023-05-09T23:59:27.3482452+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:05:47.7457418+00:00"
 }

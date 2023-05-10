@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-v",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 5,
-  "Ranking_PopularitySum": 4,
+  "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
@@ -4754,10 +4754,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1328807,
       "NumberOfAwardsMax": 167626
+    },
+    {
+      "Time": "2023-05-10T00:00:44.4216545+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1329276,
+      "NumberOfAwardsMax": 167626
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1328807,
+  "NumberOfAwards": 1329276,
   "NumberOfAwardsMax": 167626,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4801,13 +4807,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 145931
+      "Count": 146193
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 138095
+      "Count": 138302
     },
     {
       "Text": "This game has Competitive Players",
@@ -4833,8 +4839,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-05-09T22:59:27.5108133+00:00",
+  "LastChanged": "2023-05-10T00:00:44.4216543+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.0771658+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:59:27.5108139+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:03:06.34115+00:00"
+  "LastUpdate_Ratings": "2023-05-10T00:00:44.4216551+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:03:34.2553218+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -1182,7 +1182,7 @@
   ],
   "EOS_Progressed": 216268,
   "EOS_Completed": 686,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3145,9 +3145,9 @@
       "ID": "AchievementWarRoomID",
       "SetID": "a2e41al",
       "Name": "Rogue Guild",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 140574
+      "UsersEstimate": 142737
     },
     {
       "ID": "AchievementWhaleID",
@@ -3170,8 +3170,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-05-09T21:01:13.1054018+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:05:17.4042161+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:06:35.9408399+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:27.6875004+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:59:38.3027358+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:05:17.4042468+00:00"
+  "LastUpdate_Ratings": "2023-05-10T00:01:00.3942845+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:06:35.940884+00:00"
 }

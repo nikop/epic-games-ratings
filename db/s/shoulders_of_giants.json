@@ -5,9 +5,9 @@
   "Ranking_Rating": 759,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
-  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1861,
+  "EOS_Progressed": 1862,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -139,6 +139,11 @@
       "Time": "2023-05-09T16:06:58.7121084+00:00",
       "NumProgressed": 1861,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-10T00:06:29.5931816+00:00",
+      "NumProgressed": 1862,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -174,7 +179,7 @@
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "complete_act_two",
@@ -190,7 +195,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "deal_damage",
@@ -222,7 +227,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "piercing_beam",
@@ -254,7 +259,7 @@
       "Name": "Frogbot",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "save_planet_bestfriend",
@@ -270,7 +275,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "stick_decoy",
@@ -301,7 +306,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1861,
+      "Progressed": 1862,
       "Completed": 7
     }
   ],
@@ -309,8 +314,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-09T23:05:12.3058643+00:00",
+  "LastChanged_Achievements": "2023-05-10T00:06:29.5931811+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
-  "LastUpdate_Ratings": "2023-05-09T22:59:34.7274546+00:00",
-  "LastUpdate_Achievements": "2023-05-09T23:05:12.3058733+00:00"
+  "LastUpdate_Ratings": "2023-05-10T00:00:54.9038798+00:00",
+  "LastUpdate_Achievements": "2023-05-10T00:06:29.5931982+00:00"
 }
