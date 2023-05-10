@@ -1,6 +1,7 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 2023-02-12 |
+| [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-10 | 2023-05-08 |
 | [Cyber Drift](games/c/cyber_drift.md) | 2023-05-10 | 2023-04-28 |
 | [Save District 3](games/s/save_district_3.md) | 2023-05-09 | 2023-04-10 |
 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 2021-06-12 |
@@ -146,4 +147,3 @@
 | [Undead Horde](games/u/undead_horde.md) | 2023-04-11 | 2019-05-14 |
 | [Precious Stones](games/p/precious_stones.md) | 2023-04-11 | 2023-04-30 |
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 2023-04-10 | 2021-10-14 |
-| [Chaos Galaxy](games/c/chaos_galaxy.md) | 2023-04-10 | 2020-06-19 |

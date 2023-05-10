@@ -26,7 +26,7 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 5.95% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 5.92% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -36,7 +36,7 @@
 | 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 4.00% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
+| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.84% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.55% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.47% |
@@ -60,7 +60,7 @@
 | 58 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 59 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 60 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
-| 61 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.89% |
+| 61 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.85% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
@@ -83,7 +83,7 @@
 | 81 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 82 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
 | 83 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
-| 84 | [Sable](games/s/sable.md) | 0.91% |
+| 84 | [Sable](games/s/sable.md) | 0.92% |
 | 85 | [Hades](games/h/hades.md) | 0.90% |
 | 86 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 87 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
@@ -180,14 +180,14 @@
 | 173 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 179 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 179 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 181 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 181 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
-| 181 | [Good Company](games/g/good_company.md) | 0.02% |
-| 181 | [Old World](games/o/old_world.md) | 0.02% |
-| 181 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 181 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 181 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
-| 181 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 179 | [Old World](games/o/old_world.md) | 0.03% |
+| 182 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 182 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
+| 182 | [Good Company](games/g/good_company.md) | 0.02% |
+| 182 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 182 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 182 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
+| 182 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 189 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 189 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 189 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |

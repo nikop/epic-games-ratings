@@ -2,7 +2,6 @@
 | ---- | ------------ | --------------- |
 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 2023-05-10 |
 | [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | 2023-02-01 |
-| [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-11 | 2023-05-07 |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-11 | 2023-05-11 |
 | [Fuga: Melodies of Steel 2](games/f/fuga__melodies_of_steel_2.md) | 2023-05-11 | 2023-05-11 |
 | [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | 2023-05-11 |
