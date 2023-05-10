@@ -48,8 +48,8 @@
 | [Bob A thousand lives](games/b/bob_a_thousand_lives.md) | 2023-05-31 | 2022-09-06 |
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
+| [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-31 | 2023-05-31 |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-31 | 2016-12-14 |
-| [Supergalactix](games/s/supergalactix.md) | 2023-05-31 | 2023-05-31 |
 | [The Cullfield Ritual](games/t/the_cullfield_ritual.md) | 2023-05-31 | 2023-01-05 |
 | [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-31 | 2023-05-31 |
 | [Worlds War 1](games/w/worlds_war_1.md) | 2023-05-31 | 2023-05-31 |
@@ -165,6 +165,7 @@
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2023-12-31 | 2023-12-31 |
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2023-12-31 | 2023-12-31 |
 | [Still Joking](games/s/still_joking.md) | 2023-12-31 | 2023-12-31 |
+| [Supergalactix](games/s/supergalactix.md) | 2023-12-31 | 2023-12-31 |
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2023-12-31 | 2023-12-31 |
 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-12-31 | 2023-12-31 |
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | 2023-12-31 | 2023-12-31 |

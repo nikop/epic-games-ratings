@@ -24,9 +24,9 @@
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.04% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.21% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -58,12 +58,12 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
-| 62 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.82% |
-| 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
-| 63 | [Sifu](games/s/sifu.md) | 1.81% |
+| 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
+| 62 | [Sifu](games/s/sifu.md) | 1.81% |
+| 64 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.79% |
 | 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
@@ -73,8 +73,8 @@
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.41% |
-| 74 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.33% |
-| 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
+| 74 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
+| 74 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.32% |
 | 76 | [Chorus](games/c/chorus.md) | 1.29% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 78 | [Trifox](games/t/trifox.md) | 1.28% |
@@ -392,4 +392,4 @@
 | 198 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,582 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,583 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
