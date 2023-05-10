@@ -8,9 +8,9 @@
 | Read Between The Lines | 63.00% | ~91 |
 | High Profile | 63.00% | ~91 |
 | Whispers In The Dark | 62.00% | ~89 |
+| A Method To His Madness | 56.00% | ~81 |
 | Fond Memories | 55.00% | ~79 |
-| A Method To His Madness | 55.00% | ~79 |
-| History Check | 54.00% | ~78 |
+| History Check | 55.00% | ~79 |
 | The New World | 54.00% | ~78 |
 | Open Sesame | 52.00% | ~75 |
 | Sticky Fingers | 52.00% | ~75 |

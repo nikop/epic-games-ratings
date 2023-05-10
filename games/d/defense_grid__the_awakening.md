@@ -6,23 +6,23 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~385,778 |
-| Hey! That's mine! | 78.00% | ~371,490 |
-| Happy Returns | 77.00% | ~366,727 |
-| Field Promotion | 74.00% | ~352,439 |
-| Leadhead | 71.00% | ~338,151 |
-| Eradicator | 67.00% | ~319,100 |
-| Surplus | 65.00% | ~309,575 |
-| I Spy | 63.00% | ~300,049 |
+| First Blood | 81.00% | ~385,779 |
+| Hey! That's mine! | 78.00% | ~371,491 |
+| Happy Returns | 77.00% | ~366,728 |
+| Field Promotion | 74.00% | ~352,440 |
+| Leadhead | 71.00% | ~338,152 |
+| Eradicator | 67.00% | ~319,101 |
+| Surplus | 65.00% | ~309,576 |
+| I Spy | 63.00% | ~300,050 |
 | Burn Baby Burn | 59.00% | ~280,999 |
-| Yellow Beats Green | 55.00% | ~261,948 |
+| Yellow Beats Green | 55.00% | ~261,949 |
 | Salvage Rights | 53.00% | ~252,423 |
-| What IS that? | 50.00% | ~238,134 |
+| What IS that? | 50.00% | ~238,135 |
 | Close Call | 49.00% | ~233,372 |
 | Penny Pincher | 49.00% | ~233,372 |
 | Pew Pew | 49.00% | ~233,372 |
 | Arsenal | 46.00% | ~219,084 |
-| Boot Camp | 45.00% | ~214,321 |
+| Boot Camp | 45.00% | ~214,322 |
 | Flawless Victory | 42.00% | ~200,033 |
 | Confident | 40.00% | ~190,508 |
 | Exterminator | 36.00% | ~171,457 |
@@ -45,8 +45,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Annihilator | 8.00% | ~38,102 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,102 |
 | Indecisive | 6.00% | ~28,576 |
-| Base Defender | 5.00% | ~23,813 |
-| Relay Race | 5.00% | ~23,813 |
+| Base Defender | 5.00% | ~23,814 |
+| Relay Race | 5.00% | ~23,814 |
 | Diversity | 3.00% | ~14,288 |
 | Full Potential | 3.00% | ~14,288 |
 | Tower Expert | 3.00% | ~14,288 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~476 |
 | You Monster | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,269 (Ranked 26)  
+Progressed: 476,270 (Ranked 26)  
 Completed: 4 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 4 (0.00%) (Ranked 197)
 | 2023-05-07 | 476,101 | 4 |
 | 2023-05-08 | 476,178 | 4 |
 | 2023-05-09 | 476,256 | 4 |
-| 2023-05-10 | 476,269 | 4 |
+| 2023-05-10 | 476,270 | 4 |
 ## Awards
 Max (Great for Beginners): 230  (Ranked 244)  
 Sum: 1,632 (Ranked 200)  

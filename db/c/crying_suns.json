@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457645,
+  "EOS_Progressed": 457647,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2128,6 +2128,11 @@
       "Time": "2023-05-10T06:04:55.4107715+00:00",
       "NumProgressed": 457645,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-10T07:05:40.5985123+00:00",
+      "NumProgressed": 457647,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2155,7 +2160,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105258
+      "UsersEstimate": 105259
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -2179,7 +2184,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45764
+      "UsersEstimate": 45765
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -2227,7 +2232,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302046
+      "UsersEstimate": 302047
     },
     {
       "ID": "achievement_story_landa",
@@ -2259,7 +2264,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114411
+      "UsersEstimate": 114412
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -2323,7 +2328,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151023
+      "UsersEstimate": 151024
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2563,7 +2568,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201364
+      "UsersEstimate": 201365
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -2658,21 +2663,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1579,
-      "Completed": 1579
+      "Progressed": 1581,
+      "Completed": 1581
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457645,
+      "Progressed": 457647,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-10T06:04:55.4107709+00:00",
+  "LastChanged_Achievements": "2023-05-10T07:05:40.5985121+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-10T05:58:30.546123+00:00",
-  "LastUpdate_Achievements": "2023-05-10T06:04:55.4108422+00:00"
+  "LastUpdate_Ratings": "2023-05-10T06:58:57.4918374+00:00",
+  "LastUpdate_Achievements": "2023-05-10T07:05:40.5985696+00:00"
 }

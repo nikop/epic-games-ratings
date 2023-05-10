@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~107 |
 | The Witchlight Carnival | 0.20% | ~107 |
 | Thieves of the Coven | 0.20% | ~107 |
+| Hither of the Feywild | 0.20% | ~107 |
 | The Silken Swamp | 0.20% | ~174 |
 | Wet Feet | 0.20% | ~174 |
 | Supply Run | 0.20% | ~174 |
@@ -151,7 +152,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sticky Fingers | 0.10% | ~53 |
 | Patron Party | 0.10% | ~53 |
 | Go Fourth | 0.10% | ~53 |
-| Hither of the Feywild | 0.10% | ~53 |
 | Don't Breathe the Marsh Gas | 0.10% | ~53 |
 | Don't Blast the Brigands | 0.10% | ~53 |
 | Don't Squeeze the Spiders | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,025 (Ranked 59)  
+Progressed: 87,028 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,19 +516,19 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,025 | 1,821 |
+| 2023-05-10 | 87,028 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
-Sum: 29,838 (Ranked 37)  
+Sum: 29,842 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,873 |
-| This game is Great for Beginners | 4,812 |
+| This game is Great for Beginners | 4,815 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,479 |
 | This game is Highly Recommended | 3,932 |
-| This game has Amazing Characters | 3,930 |
+| This game has Amazing Characters | 3,931 |
 | This game has Playful Visuals | 3,227 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -637,3 +637,4 @@ Diff (max vs sum): 26
 | 2023-05-07 | 4.06 | - | 4,868 | 29,830 |
 | 2023-05-08 | 4.06 | - | 4,868 | 29,833 |
 | 2023-05-09 | 4.06 | - | 4,873 | 29,838 |
+| 2023-05-10 | 4.06 | - | 4,873 | 29,842 |

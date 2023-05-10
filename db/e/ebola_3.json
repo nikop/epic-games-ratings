@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -640,9 +640,9 @@
       "ID": "achAliceTwo",
       "SetID": "72gjli4",
       "Name": "Alice \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achAntivirus",
@@ -800,9 +800,9 @@
       "ID": "achFood",
       "SetID": "72gjli4",
       "Name": "Food \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achGameHard",
@@ -1041,8 +1041,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-10T06:05:09.9750463+00:00",
+  "LastChanged_Achievements": "2023-05-10T07:05:57.0973755+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-10T05:59:18.1628589+00:00",
-  "LastUpdate_Achievements": "2023-05-10T06:05:09.9750972+00:00"
+  "LastUpdate_Ratings": "2023-05-10T06:59:58.1306921+00:00",
+  "LastUpdate_Achievements": "2023-05-10T07:05:57.0974116+00:00"
 }
