@@ -24,10 +24,10 @@
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 5.87% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.04% |
+| 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
@@ -49,7 +49,7 @@
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 49 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
-| 50 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
+| 50 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 52 | [ZZT!](games/z/zzt!.md) | 2.78% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
@@ -61,7 +61,7 @@
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
-| 62 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.85% |
+| 62 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.82% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 63 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
@@ -83,7 +83,7 @@
 | 81 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 84 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
+| 84 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
 | 85 | [Sable](games/s/sable.md) | 0.92% |
 | 86 | [Hades](games/h/hades.md) | 0.90% |
 | 87 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
@@ -163,9 +163,9 @@
 | 161 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 161 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
 | 163 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 163 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 163 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 165 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 165 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 166 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 167 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 167 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
 | 167 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
@@ -392,4 +392,4 @@
 | 198 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,581 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,582 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
