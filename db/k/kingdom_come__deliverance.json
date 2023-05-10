@@ -4470,9 +4470,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 780392,
+  "EOS_Progressed": 780394,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6175,6 +6175,11 @@
       "Time": "2023-05-10T05:05:14.7921529+00:00",
       "NumProgressed": 780392,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-10T06:04:46.2560551+00:00",
+      "NumProgressed": 780394,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -6218,7 +6223,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 156078
+      "UsersEstimate": 156079
     },
     {
       "ID": "BadGirl",
@@ -6386,7 +6391,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179490
+      "UsersEstimate": 179491
     },
     {
       "ID": "Fighter",
@@ -6666,7 +6671,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156078
+      "UsersEstimate": 156079
     },
     {
       "ID": "RevenantOfLedechko",
@@ -6690,7 +6695,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54627
+      "UsersEstimate": 54628
     },
     {
       "ID": "Saviour",
@@ -6706,7 +6711,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156078
+      "UsersEstimate": 156079
     },
     {
       "ID": "SerialKiller",
@@ -6841,15 +6846,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 780392,
+      "Progressed": 780394,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-05-09T19:59:31.7745678+00:00",
-  "LastChanged_Achievements": "2023-05-10T05:05:14.7921527+00:00",
+  "LastChanged_Achievements": "2023-05-10T06:04:46.2560547+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:36.7621018+00:00",
-  "LastUpdate_Ratings": "2023-05-10T04:58:15.2484986+00:00",
-  "LastUpdate_Achievements": "2023-05-10T05:05:14.7922534+00:00"
+  "LastUpdate_Ratings": "2023-05-10T05:57:46.273158+00:00",
+  "LastUpdate_Achievements": "2023-05-10T06:04:46.2561544+00:00"
 }

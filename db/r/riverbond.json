@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516053,
+  "EOS_Progressed": 516054,
   "EOS_Completed": 403,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2135,6 +2135,11 @@
       "Time": "2023-05-10T05:05:08.6525719+00:00",
       "NumProgressed": 516053,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-05-10T06:04:40.2316795+00:00",
+      "NumProgressed": 516054,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 57,
@@ -2162,7 +2167,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 361237
+      "UsersEstimate": 361238
     },
     {
       "ID": "12",
@@ -2370,7 +2375,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 258026
+      "UsersEstimate": 258027
     },
     {
       "ID": "36",
@@ -2506,7 +2511,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 72247
+      "UsersEstimate": 72248
     },
     {
       "ID": "51",
@@ -2522,7 +2527,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237384
+      "UsersEstimate": 237385
     },
     {
       "ID": "53",
@@ -2601,15 +2606,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516053,
+      "Progressed": 516054,
       "Completed": 403
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-10T05:05:08.6525714+00:00",
+  "LastChanged_Achievements": "2023-05-10T06:04:40.2316789+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.3106863+00:00",
-  "LastUpdate_Ratings": "2023-05-10T04:57:25.2234228+00:00",
-  "LastUpdate_Achievements": "2023-05-10T05:05:08.6526313+00:00"
+  "LastUpdate_Ratings": "2023-05-10T05:56:58.9661031+00:00",
+  "LastUpdate_Achievements": "2023-05-10T06:04:40.2317432+00:00"
 }

@@ -16,10 +16,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.70% | ~609 |
 | The Ring of Regeneration | 0.60% | ~522 |
 | Were-verpowered | 0.50% | ~435 |
+| Seeking Allies | 0.50% | ~435 |
 | Are Ya Chicken? | 0.50% | ~435 |
 | A Persistent Buzzing | 0.40% | ~348 |
 | The Crumbling Temple | 0.40% | ~348 |
-| Seeking Allies | 0.40% | ~348 |
 | Mad Cow Disease | 0.40% | ~348 |
 | Friendly Imps | 0.40% | ~348 |
 | Pure Energy | 0.40% | ~348 |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.30% | ~160 |
 | Best Thay Ever | 0.30% | ~160 |
 | Frail Doesn't Mean Broken | 0.30% | ~160 |
+| The Castle of a Thousand Vecnas | 0.30% | ~160 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~160 |
 | The Sanctum of the Sword | 0.30% | ~160 |
 | Get Back In The Castle | 0.30% | ~160 |
@@ -61,7 +62,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heatwave | 0.20% | ~107 |
 | Hands Off! | 0.20% | ~107 |
 | The Dread Domain of Tovag | 0.20% | ~107 |
-| The Castle of a Thousand Vecnas | 0.20% | ~107 |
 | Kas the Bloody Handed | 0.20% | ~107 |
 | Who Lurks Below? | 0.20% | ~107 |
 | Xanathaaaaaaar! | 0.20% | ~107 |
@@ -130,6 +130,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.20% | ~107 |
 | Durable Deep | 0.20% | ~174 |
 | Dwarven Rumors | 0.20% | ~107 |
+| Sunblight | 0.20% | ~107 |
 | Witty Riposting | 0.20% | ~107 |
 | How Far Away is Thay | 0.20% | ~107 |
 | Deekin's Mission | 0.20% | ~107 |
@@ -437,7 +438,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Perception | 0.10% | ~53 |
 | Frozen in Fear | 0.10% | ~53 |
 | It's Cold Out There Today | 0.10% | ~53 |
-| Sunblight | 0.10% | ~53 |
 | Fortress Assault | 0.10% | ~53 |
 | Hats off to you! | 0.10% | ~53 |
 | It's Cold Out There Every Day | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,022 (Ranked 59)  
+Progressed: 87,025 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,022 | 1,821 |
+| 2023-05-10 | 87,025 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,838 (Ranked 37)  

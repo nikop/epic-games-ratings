@@ -1924,7 +1924,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 27799,
+  "EOS_Progressed": 27801,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 0,
@@ -3634,6 +3634,11 @@
       "Time": "2023-05-10T05:05:19.9738855+00:00",
       "NumProgressed": 27799,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-10T06:04:51.2993782+00:00",
+      "NumProgressed": 27801,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 75,
@@ -3677,7 +3682,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 15845
+      "UsersEstimate": 15847
     },
     {
       "ID": "achievements_14",
@@ -3749,7 +3754,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 16679
+      "UsersEstimate": 16681
     },
     {
       "ID": "achievements_24",
@@ -3757,7 +3762,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 15289
+      "UsersEstimate": 15291
     },
     {
       "ID": "achievements_25",
@@ -3893,7 +3898,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 18069
+      "UsersEstimate": 18071
     },
     {
       "ID": "achievements_40",
@@ -3949,7 +3954,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 23629
+      "UsersEstimate": 23631
     },
     {
       "ID": "achievements_47",
@@ -3981,7 +3986,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 14177
+      "UsersEstimate": 14179
     },
     {
       "ID": "achievements_50",
@@ -4013,7 +4018,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 15845
+      "UsersEstimate": 15847
     },
     {
       "ID": "achievements_54",
@@ -4221,7 +4226,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 20293
+      "UsersEstimate": 20295
     },
     {
       "ID": "achievements_8",
@@ -4244,15 +4249,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 27799,
+      "Progressed": 27801,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-04-30T11:59:02.0136942+00:00",
-  "LastChanged_Achievements": "2023-05-10T05:05:19.9738852+00:00",
+  "LastChanged_Achievements": "2023-05-10T06:04:51.2993766+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:00.9604085+00:00",
-  "LastUpdate_Ratings": "2023-05-10T04:58:42.5485523+00:00",
-  "LastUpdate_Achievements": "2023-05-10T05:05:19.9739787+00:00"
+  "LastUpdate_Ratings": "2023-05-10T05:58:11.0345305+00:00",
+  "LastUpdate_Achievements": "2023-05-10T06:04:51.2994647+00:00"
 }

@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12319,
+  "EOS_Progressed": 12321,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1545,6 +1545,11 @@
       "Time": "2023-05-09T21:06:03.0362226+00:00",
       "NumProgressed": 12319,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-10T06:04:26.9749762+00:00",
+      "NumProgressed": 12321,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1620,7 +1625,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "tpote_achievement_18",
@@ -1660,7 +1665,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3819
+      "UsersEstimate": 3820
     },
     {
       "ID": "tpote_achievement_22",
@@ -1716,7 +1721,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "tpote_achievement_29",
@@ -1732,7 +1737,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4188
+      "UsersEstimate": 4189
     },
     {
       "ID": "tpote_achievement_30",
@@ -1748,7 +1753,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "tpote_achievement_32",
@@ -1820,7 +1825,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "tpote_achievement_40",
@@ -1868,7 +1873,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "tpote_achievement_9",
@@ -1876,22 +1881,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4435
+      "UsersEstimate": 4436
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12319,
+      "Progressed": 12321,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-10T05:04:54.6144964+00:00",
+  "LastChanged_Achievements": "2023-05-10T06:04:26.9749755+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-10T04:59:36.2152468+00:00",
-  "LastUpdate_Achievements": "2023-05-10T05:04:54.6145337+00:00"
+  "LastUpdate_Ratings": "2023-05-10T05:59:03.7440545+00:00",
+  "LastUpdate_Achievements": "2023-05-10T06:04:26.9750143+00:00"
 }

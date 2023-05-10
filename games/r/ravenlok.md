@@ -19,31 +19,31 @@
 | An Actor! | 42.00% | ~231 |
 | Curtain Call | 40.00% | ~220 |
 | Piece of Cake | 38.00% | ~209 |
+| Glimmer of Hope | 38.00% | ~209 |
 | Gooey Delight! | 37.00% | ~204 |
-| Glimmer of Hope | 37.00% | ~204 |
 | Teacups for Toppy | 37.00% | ~204 |
 | Well Rested | 37.00% | ~204 |
 | Nightmare Fuel | 35.00% | ~193 |
 | Take Heart | 35.00% | ~193 |
 | The Guardian | 35.00% | ~193 |
+| Ancient Wisdom | 33.00% | ~182 |
 | Frog Facts! | 33.00% | ~182 |
 | Stronger! | 33.00% | ~182 |
-| Ancient Wisdom | 32.00% | ~176 |
 | All That Glistens | 32.00% | ~176 |
 | It's Pointy! | 32.00% | ~176 |
+| Spellbound | 31.00% | ~171 |
 | All Skilled Up! | 31.00% | ~171 |
-| Spellbound | 30.00% | ~165 |
 | Extinct Again! | 29.00% | ~160 |
 | Bird of Prey | 29.00% | ~160 |
 | Stardust | 29.00% | ~160 |
 | Heartbreaker | 29.00% | ~160 |
 | Kidnapped! | 29.00% | ~160 |
 | Trick Question! | 27.00% | ~149 |
+| Extraordinary! | 27.00% | ~149 |
 | Pull the Plug | 26.00% | ~143 |
 | Soul Slayer | 26.00% | ~143 |
 | The Downfall | 26.00% | ~143 |
 | All Heart | 26.00% | ~143 |
-| Extraordinary! | 26.00% | ~143 |
 | Final Showdown | 26.00% | ~143 |
 | Spot of Tea? | 26.00% | ~143 |
 | Going Home | 26.00% | ~143 |

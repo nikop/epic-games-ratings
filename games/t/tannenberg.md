@@ -6,27 +6,27 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~96,343 |
-| Comeback | 81.00% | ~87,683 |
-| Information is Key | 80.00% | ~86,601 |
-| Unlucky | 71.00% | ~76,858 |
+| Immovable Object | 89.00% | ~96,344 |
+| Comeback | 81.00% | ~87,684 |
+| Information is Key | 80.00% | ~86,602 |
+| Unlucky | 71.00% | ~76,859 |
 | Anarchist | 68.00% | ~73,611 |
-| Wallhack | 65.00% | ~70,363 |
+| Wallhack | 65.00% | ~70,364 |
 | Steady Supply | 60.00% | ~64,951 |
-| Lucky Shot | 53.00% | ~57,373 |
+| Lucky Shot | 53.00% | ~57,374 |
 | Forward Observer | 52.00% | ~56,291 |
 | Ring Ring! | 52.00% | ~56,291 |
 | Bossing Around | 45.00% | ~48,713 |
 | Frostbite | 45.00% | ~48,713 |
 | Strength in Numbers | 45.00% | ~48,713 |
-| Night Owl | 44.00% | ~47,630 |
+| Night Owl | 44.00% | ~47,631 |
 | Fog of War | 41.00% | ~44,383 |
 | Stronghold Denied | 39.00% | ~42,218 |
-| Anyone Else? | 38.00% | ~41,135 |
-| Rasputin | 38.00% | ~41,135 |
-| This Belongs to Us Now | 36.00% | ~38,970 |
+| Anyone Else? | 38.00% | ~41,136 |
+| Rasputin | 38.00% | ~41,136 |
+| This Belongs to Us Now | 36.00% | ~38,971 |
 | Hydra | 35.00% | ~37,888 |
-| Stronghold | 34.00% | ~36,805 |
+| Stronghold | 34.00% | ~36,806 |
 | Leeroy | 33.00% | ~35,723 |
 | Lost Batallion | 33.00% | ~35,723 |
 | This is MY Machine Gun! | 31.00% | ~33,558 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~974 |
 | Road to Berlin | 0.60% | ~650 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108,251 (Ranked 58)  
+Progressed: 108,252 (Ranked 58)  
 Completed: 21 (0.02%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 21 (0.02%) (Ranked 181)
 | 2023-05-07 | 107,911 | 21 |
 | 2023-05-08 | 108,070 | 21 |
 | 2023-05-09 | 108,220 | 21 |
-| 2023-05-10 | 108,251 | 21 |
+| 2023-05-10 | 108,252 | 21 |
 ## Awards
 Max (Competitive Players): 322  (Ranked 216)  
 Sum: 2,823 (Ranked 156)  
