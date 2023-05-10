@@ -2,10 +2,10 @@
 | - | ---- | --------- |
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
 | 1 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 50.00% |
-| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 28.57% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
-| 4 | [Overloop](games/o/overloop.md) | 25.00% |
-| 4 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 25.00% |
+| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 25.00% |
+| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
+| 3 | [Overloop](games/o/overloop.md) | 25.00% |
+| 3 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 25.00% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
@@ -23,10 +23,10 @@
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.67% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
-| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
+| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.90% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.36% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.34% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -270,6 +270,7 @@
 | 198 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 0.00% |
 | 198 | [Garden In](games/g/garden_in.md) | 0.00% |
 | 198 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 0.00% |
+| 198 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 0.00% |
 | 198 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 0.00% |
 | 198 | [Grim Nights](games/g/grim_nights.md) | 0.00% |
 | 198 | [GRIME](games/g/grime.md) | 0.00% |

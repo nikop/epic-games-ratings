@@ -5,6 +5,7 @@
 | [Old World](../games/o/old_world.md) | 285 | 2,940 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 214 | 5,105 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
+| [GPRO - Classic racing manager](../games/g/gpro_-_classic_racing_manager.md) | 162 | 1,000 |
 | [Stellar Interface](../games/s/stellar_interface.md) | 132 | 1,000 |
 | [Pirates Outlaws](../games/p/pirates_outlaws.md) | 124 | 1,000 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 122 | 1,000 |

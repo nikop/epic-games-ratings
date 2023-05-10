@@ -250,7 +250,7 @@
 | 233 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 662 | 158 |
 | 233 | [Revita](games/r/revita.md) | 4.68 | 0 | 490 |
 | 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 168 | 276 |
-| 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 31 | 439 |
+| 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 31 | 440 |
 | 233 | [The Machines Arena](games/t/the_machines_arena.md) | 4.68 | 0 | 490 |
 | 233 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 490 |
 | 233 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 85 | 341 |
@@ -258,7 +258,7 @@
 | 256 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 490 |
 | 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,589 | 48 |
 | 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 490 |
-| 256 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 31 | 439 |
+| 256 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 32 | 434 |
 | 256 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.67 | 0 | 490 |
 | 256 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 490 |
 | 256 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 490 |
@@ -291,7 +291,7 @@
 | 287 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 410 |
 | 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 164 | 278 |
 | 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 490 |
-| 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 318 | 220 |
+| 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 319 | 218 |
 | 287 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 45 | 400 |
 | 287 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.65 | 0 | 490 |
 | 287 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.65 | 0 | 490 |
@@ -406,7 +406,7 @@
 | 396 | [RiME](games/r/rime.md) | 4.59 | 0 | 490 |
 | 396 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 353 |
 | 396 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 490 |
-| 396 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 166 | 277 |
+| 396 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 168 | 276 |
 | 396 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,167 | 84 |
 | 396 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 444 |
 | 396 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
@@ -470,7 +470,7 @@
 | 467 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,155 | 124 |
 | 467 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 477 |
 | 467 | [Hue](games/h/hue.md) | 4.55 | 0 | 490 |
-| 467 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 439 |
+| 467 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 440 |
 | 467 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 490 |
 | 467 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 839 | 145 |
 | 467 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 434 |
@@ -697,7 +697,7 @@
 | 688 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.38 | 0 | 490 |
 | 688 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 490 |
 | 688 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
-| 688 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 439 |
+| 688 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 440 |
 | 699 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 490 |
 | 699 | [Core](games/c/core.md) | 4.37 | 728 | 152 |
 | 699 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
@@ -782,7 +782,7 @@
 | 778 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 490 |
 | 778 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 490 |
 | 782 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 490 |
-| 782 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 439 |
+| 782 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 440 |
 | 782 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,201 | 35 |
 | 782 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 364 | 208 |
 | 782 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 490 |
@@ -912,11 +912,11 @@
 | 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,024 | 133 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 490 |
 | 912 | [Poker Club](games/p/poker_club.md) | 3.76 | 0 | 490 |
-| 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 50 | 384 |
-| 914 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
-| 914 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
+| 913 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
+| 913 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
+| 913 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 50 | 384 |
 | 916 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
-| 917 | [Adios](games/a/adios.md) | 3.48 | 0 | 490 |
-| 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.48 | 0 | 490 |
+| 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.55 | 0 | 490 |
+| 918 | [Adios](games/a/adios.md) | 3.48 | 0 | 490 |
 | 919 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 490 |
 | 920 | [Redfall](games/r/redfall.md) | 3.33 | 0 | 490 |

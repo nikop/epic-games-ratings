@@ -218,8 +218,8 @@
 | 216 | [Tannenberg](games/t/tannenberg.md) | 322 | 4.39 | 682 |
 | 217 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 320 | 4.71 | 177 |
 | 218 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 352 |
+| 218 | [Dungeons 3](games/d/dungeons_3.md) | 319 | 4.65 | 287 |
 | 218 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 319 | 4.59 | 396 |
-| 220 | [Dungeons 3](games/d/dungeons_3.md) | 318 | 4.65 | 287 |
 | 221 | [The Messenger](games/t/the_messenger.md) | 312 | 4.80 | 79 |
 | 222 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 311 | 4.85 | 38 |
 | 223 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 309 | 4.73 | 155 |
@@ -276,7 +276,7 @@
 | 273 | [The Witness](games/t/the_witness.md) | 170 | 4.70 | 192 |
 | 275 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 169 | 4.30 | 753 |
 | 276 | [Severed Steel](games/s/severed_steel.md) | 168 | 4.68 | 233 |
-| 277 | [The Sims™ 4](games/t/the_sims™_4.md) | 166 | 4.59 | 396 |
+| 276 | [The Sims™ 4](games/t/the_sims™_4.md) | 168 | 4.59 | 396 |
 | 278 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 164 | 4.65 | 287 |
 | 279 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 688 |
 | 279 | [Mothergunship](games/m/mothergunship.md) | 162 | 4.38 | 688 |
@@ -388,7 +388,7 @@
 | 384 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.56 | 447 |
 | 384 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 192 |
 | 384 | [The Escapists 2](games/t/the_escapists_2.md) | 50 | 4.58 | 412 |
-| 384 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 50 | 3.76 | 912 |
+| 384 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 50 | 3.75 | 913 |
 | 390 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 49 | 4.35 | 716 |
 | 390 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 49 | 4.56 | 447 |
 | 392 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 287 |
@@ -436,13 +436,13 @@
 | 434 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.12 | 852 |
 | 434 | [Chorus](games/c/chorus.md) | 32 | 4.47 | 576 |
 | 434 | [DOOM (1993)](games/d/doom_(1993).md) | 32 | 4.81 | 72 |
+| 434 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 32 | 4.67 | 256 |
 | 434 | [MythForce](games/m/mythforce.md) | 32 | 4.51 | 516 |
 | 434 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 32 | 4.55 | 467 |
-| 439 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 782 |
-| 439 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 31 | 4.67 | 256 |
-| 439 | [Outward Definitive Edition](games/o/outward.md) | 31 | 4.55 | 467 |
-| 439 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 31 | 4.68 | 233 |
-| 439 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.38 | 688 |
+| 440 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 782 |
+| 440 | [Outward Definitive Edition](games/o/outward.md) | 31 | 4.55 | 467 |
+| 440 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 31 | 4.68 | 233 |
+| 440 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.38 | 688 |
 | 444 | [Blankos Block Party](games/b/blankos_block_party.md) | 30 | 4.20 | 807 |
 | 444 | [Isonzo](games/i/isonzo.md) | 30 | 4.56 | 447 |
 | 444 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 30 | 4.41 | 654 |

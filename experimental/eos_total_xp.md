@@ -166,6 +166,7 @@
 | [Godlike Burger](../games/g/godlike_burger.md) | 28 | 1,000 |
 | [Going Medieval](../games/g/going_medieval.md) | 31 | 1,000 |
 | [Good Company](../games/g/good_company.md) | 76 | 1,000 |
+| [GPRO - Classic racing manager](../games/g/gpro_-_classic_racing_manager.md) | 162 | 1,000 |
 | [Grand Theft Auto III – The Definitive Edition](../games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 29 | 1,000 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](../games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 35 | 1,000 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](../games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 34 | 1,000 |
