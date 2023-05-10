@@ -8,11 +8,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Marshlands | 0.90% | ~133 |
 | No Deaths | 0.90% | ~133 |
+| Overcoming Difficulty | 0.80% | ~118 |
 | Fertile Meadows | 0.80% | ~118 |
 | Coral Forest | 0.80% | ~118 |
 | The Scarlet Orchard | 0.80% | ~118 |
 | First Real Expedition | 0.70% | ~103 |
-| Overcoming Difficulty | 0.70% | ~103 |
 | Taking Action | 0.70% | ~103 |
 | Like a Machine | 0.70% | ~103 |
 | Bandit Camp | 0.60% | ~88 |
@@ -37,11 +37,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.40% | ~59 |
 | Forsaken Gods Temple | 0.40% | ~59 |
 | Watchtower | 0.40% | ~59 |
+| Defying the Crown | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
 | Ruined Armory | 0.30% | ~44 |
 | Fishmen Ritual Site | 0.30% | ~44 |
 | Forbidden Lands | 0.30% | ~44 |
-| Defying the Crown | 0.30% | ~44 |
 | Beaver Utopia | 0.20% | ~29 |
 | Lizard Utopia | 0.20% | ~29 |
 | Efficient Explorer | 0.20% | ~29 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,735 (Ranked 98)  
-Completed: 30 (0.20%) (Ranked 136)  
+Progressed: 14,736 (Ranked 98)  
+Completed: 30 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 30 (0.20%) (Ranked 136)
 | 2023-05-07 | 14,702 | 30 |
 | 2023-05-08 | 14,720 | 30 |
 | 2023-05-09 | 14,731 | 30 |
-| 2023-05-10 | 14,735 | 30 |
+| 2023-05-10 | 14,736 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,018 (Ranked 151)  

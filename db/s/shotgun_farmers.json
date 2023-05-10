@@ -3,9 +3,9 @@
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -280,9 +280,9 @@
       "ID": "ach_honk_horn",
       "SetID": "cmg602e",
       "Name": "Honk Honk",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_horde_darkside",
@@ -344,9 +344,9 @@
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
@@ -553,8 +553,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-10T12:03:12.7440766+00:00",
+  "LastChanged_Achievements": "2023-05-10T14:05:04.4407802+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:58:16.0399675+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:03:12.7441086+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:00:22.9047348+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:05:04.4408367+00:00"
 }

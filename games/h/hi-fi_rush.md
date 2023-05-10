@@ -68,7 +68,7 @@ Rating: 4.86 (Ranked 27)
 | What a journey it was... | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,479 (Ranked 151)  
-Completed: 4 (0.27%) (Ranked 128)  
+Completed: 4 (0.27%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

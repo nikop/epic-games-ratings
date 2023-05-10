@@ -4,11 +4,11 @@
   "ProductSlug": "doom-ii",
   "Ranking_Rating": 140,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-18T15:00:00+00:00",
     "PcReleaseDate": "1994-10-10T12:00:00+00:00",
@@ -214,6 +214,6 @@
   "FirstSeenRating": "2022-09-01T17:32:34.6447237+00:00",
   "LastChanged": "2023-05-02T21:57:09.0138248+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.9806315+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:57:26.0342431+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:00:23.7837844+00:00"
+  "LastUpdate_Ratings": "2023-05-10T13:59:29.267535+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:02:36.7755671+00:00"
 }

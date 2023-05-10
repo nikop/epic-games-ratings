@@ -5,12 +5,12 @@ Rating: 4.28 (Ranked 767)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 19.00% | ~3,783 |
-| A Good Day To Die | 16.00% | ~3,186 |
+| Man 'O War | 19.00% | ~3,784 |
+| A Good Day To Die | 16.00% | ~3,187 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,195 |
 | Right Back Atcha | 6.00% | ~1,195 |
 | Killed by Death | 5.00% | ~996 |
-| Kill 'Em All | 4.00% | ~796 |
+| Kill 'Em All | 4.00% | ~797 |
 | A Snowball's Chance in Hell | 2.00% | ~398 |
 | Down Boy! | 1.00% | ~199 |
 | Enjoy The Silence | 1.00% | ~199 |
@@ -22,8 +22,8 @@ Rating: 4.28 (Ranked 767)
 | Death Becomes Her | 0.70% | ~139 |
 | The Sky Is Falling | 0.70% | ~139 |
 | That'll Come In Handy... | 0.70% | ~139 |
-| Start As You Mean To Go On | 0.60% | ~119 |
-| Hail the Great Horned Metal God! | 0.60% | ~119 |
+| Start As You Mean To Go On | 0.60% | ~120 |
+| Hail the Great Horned Metal God! | 0.60% | ~120 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~100 |
 | Four Legged Friend | 0.40% | ~80 |
 | Ice To See You | 0.40% | ~80 |
@@ -35,8 +35,8 @@ Rating: 4.28 (Ranked 767)
 | Too Metal For Magic | 0.10% | ~20 |
 | Heart Of Steel | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,911 (Ranked 92)  
-Completed: 14 (0.07%) (Ranked 164)  
+Progressed: 19,917 (Ranked 92)  
+Completed: 14 (0.07%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,14 +55,14 @@ Completed: 14 (0.07%) (Ranked 164)
 | 2023-05-07 | 19,558 | 14 |
 | 2023-05-08 | 19,727 | 14 |
 | 2023-05-09 | 19,861 | 14 |
-| 2023-05-10 | 19,911 | 14 |
+| 2023-05-10 | 19,917 | 14 |
 ## Awards
-Max (Great Boss Battles): 124  (Ranked 297)  
-Sum: 124 (Ranked 387)  
+Max (Great Boss Battles): 125  (Ranked 296)  
+Sum: 125 (Ranked 386)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 124 |
+| This game has Great Boss Battles | 125 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -94,3 +94,4 @@ Diff (max vs sum): -90
 | 2023-01-24 | 4.28 | - | - |
 | 2023-01-26 | 4.29 | - | - |
 | 2023-04-18 | 4.28 | 124 | 124 |
+| 2023-05-10 | 4.28 | 125 | 125 |

@@ -7,8 +7,8 @@ Rating: 4.38 (Ranked 688)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 36.00% | ~250 |
 | Confirming Suspicions | 31.00% | ~215 |
-| The Kraken Wakes | 29.00% | ~201 |
-| It's Starting to Crack | 28.00% | ~194 |
+| The Kraken Wakes | 29.00% | ~202 |
+| It's Starting to Crack | 28.00% | ~195 |
 | Change the Channel | 25.00% | ~174 |
 | Lord of War | 24.00% | ~167 |
 | Resourceful | 23.00% | ~160 |
@@ -34,7 +34,7 @@ Rating: 4.38 (Ranked 688)
 | No Stone Unturned | 11.00% | ~76 |
 | Opposing Force | 11.00% | ~76 |
 | Enemy at the Gates | 11.00% | ~76 |
-| My Little Friend | 9.00% | ~62 |
+| My Little Friend | 9.00% | ~63 |
 | Herr Today, Gone Tomorrow | 9.00% | ~58 |
 | Precision Is Key | 8.00% | ~56 |
 | Rigged to Blow | 8.00% | ~56 |
@@ -74,8 +74,8 @@ Rating: 4.38 (Ranked 688)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694 (Ranked 177)  
-Completed: 2 (0.29%) (Ranked 124)  
+Progressed: 695 (Ranked 177)  
+Completed: 2 (0.29%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,6 +93,7 @@ Completed: 2 (0.29%) (Ranked 124)
 | 2023-05-07 | 688 | 2 |
 | 2023-05-08 | 691 | 2 |
 | 2023-05-09 | 694 | 2 |
+| 2023-05-10 | 695 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

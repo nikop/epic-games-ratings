@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 77.00% | ~51 |
-| Rookie | 77.00% | ~51 |
-| Challenge Accepted | 64.00% | ~42 |
-| Nanonic I | 62.00% | ~41 |
-| Terminated I | 62.00% | ~41 |
-| Unlocked and Loaded | 58.00% | ~38 |
-| Terminated II | 52.00% | ~34 |
-| Terminated III | 35.00% | ~23 |
+| Rookie | 78.00% | ~52 |
+| Augmented | 76.00% | ~51 |
+| Challenge Accepted | 63.00% | ~42 |
+| Nanonic I | 61.00% | ~41 |
+| Terminated I | 61.00% | ~41 |
+| Unlocked and Loaded | 57.00% | ~38 |
+| Terminated II | 51.00% | ~34 |
+| Terminated III | 34.00% | ~23 |
 | Nanonic II | 33.00% | ~22 |
-| Challenge Mastered | 26.00% | ~17 |
+| Challenge Mastered | 25.00% | ~17 |
 | The City | 24.00% | ~16 |
 | Supply Run | 24.00% | ~16 |
 | Up Close And Personal | 21.00% | ~14 |
 | Nanonic III | 18.00% | ~12 |
-| The Bigger They Are | 14.00% | ~9 |
-| Starship Docks | 14.00% | ~9 |
+| The Bigger They Are | 13.00% | ~9 |
+| Starship Docks | 13.00% | ~9 |
 | Fully Modded | 12.00% | ~8 |
 | Cybernetic | 9.00% | ~6 |
 | Eden Heights | 6.00% | ~4 |
 | Ripperdoc | 6.00% | ~4 |
 | Outer Core | 3.00% | ~2 |
-| Cyborg | 2.00% | ~1 |
-| Destruction | 2.00% | ~1 |
-| Hard Boiled | 2.00% | ~1 |
-| Inner Core | 2.00% | ~1 |
-| Integration | 2.00% | ~1 |
-| Trickshot | 2.00% | ~1 |
+| Cyborg | 1.00% | ~1 |
+| Destruction | 1.00% | ~1 |
+| Hard Boiled | 1.00% | ~1 |
+| Inner Core | 1.00% | ~1 |
+| Integration | 1.00% | ~1 |
+| Trickshot | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 267)  
-Completed: 0 (0.00%) (Ranked 197)  
+Progressed: 67 (Ranked 266)  
+Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-05 | 60 | 0 |
 | 2023-05-06 | 61 | 0 |
 | 2023-05-07 | 65 | 0 |
-| 2023-05-10 | 66 | 0 |
+| 2023-05-10 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

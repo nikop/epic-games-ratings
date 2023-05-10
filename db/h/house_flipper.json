@@ -6,9 +6,9 @@
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 93,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1294,10 +1294,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2112,
       "NumberOfAwardsMax": 285
+    },
+    {
+      "Time": "2023-05-10T14:01:25.5135472+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2113,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2112,
+  "NumberOfAwards": 2113,
   "NumberOfAwardsMax": 285,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1359,7 +1365,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 154
+      "Count": 155
     },
     {
       "Text": "This game has a Creative Community",
@@ -1368,7 +1374,7 @@
       "Count": 203
     }
   ],
-  "EOS_Progressed": 18702,
+  "EOS_Progressed": 18703,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -1868,6 +1874,11 @@
       "Time": "2023-05-09T19:07:25.8214853+00:00",
       "NumProgressed": 18702,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-10T14:07:26.1669151+00:00",
+      "NumProgressed": 18703,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -1927,7 +1938,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17580
+      "UsersEstimate": 17581
     },
     {
       "ID": "GameOver",
@@ -1991,7 +2002,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "Negotiator",
@@ -2015,7 +2026,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "SeniorEstateAgent",
@@ -2031,7 +2042,7 @@
       "Name": "Pro-creative",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "Strongman",
@@ -2062,15 +2073,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18702,
+      "Progressed": 18703,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-09T17:00:38.0260272+00:00",
-  "LastChanged_Achievements": "2023-05-10T12:05:35.957391+00:00",
+  "LastChanged": "2023-05-10T14:01:25.513547+00:00",
+  "LastChanged_Achievements": "2023-05-10T14:07:26.1669146+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.5211178+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:59:14.8500999+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:05:35.957411+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:01:25.5135477+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:07:26.1669337+00:00"
 }

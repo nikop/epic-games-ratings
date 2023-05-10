@@ -6,50 +6,50 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~385,785 |
-| Hey! That's mine! | 78.00% | ~371,497 |
-| Happy Returns | 77.00% | ~366,734 |
-| Field Promotion | 74.00% | ~352,446 |
-| Leadhead | 71.00% | ~338,157 |
-| Eradicator | 67.00% | ~319,106 |
-| Surplus | 65.00% | ~309,581 |
-| I Spy | 63.00% | ~300,055 |
-| Burn Baby Burn | 59.00% | ~281,004 |
-| Yellow Beats Green | 55.00% | ~261,953 |
-| Salvage Rights | 53.00% | ~252,427 |
-| What IS that? | 50.00% | ~238,139 |
-| Close Call | 49.00% | ~233,376 |
-| Penny Pincher | 49.00% | ~233,376 |
-| Pew Pew | 49.00% | ~233,376 |
-| Arsenal | 46.00% | ~219,088 |
-| Boot Camp | 45.00% | ~214,325 |
-| Flawless Victory | 42.00% | ~200,037 |
-| Confident | 40.00% | ~190,511 |
-| Exterminator | 36.00% | ~171,460 |
-| Sharpshooter | 33.00% | ~157,172 |
-| Great Ball of Fire | 32.00% | ~152,409 |
-| Not So Fast | 32.00% | ~152,409 |
-| No Sale | 30.00% | ~142,883 |
-| Kaboom! | 29.00% | ~138,121 |
-| Liquidator | 29.00% | ~138,121 |
-| High Voltage | 24.00% | ~114,307 |
-| Filthy Rich | 19.00% | ~90,493 |
-| The Not-So-Friendly Skies | 18.00% | ~85,730 |
-| Power Builder | 17.00% | ~80,967 |
-| Pyrrhic Victory | 17.00% | ~80,967 |
-| Death From Above | 16.00% | ~76,204 |
-| Retry | 16.00% | ~76,204 |
-| Head Trauma | 12.00% | ~57,153 |
-| Full Defense | 10.00% | ~47,628 |
-| Overseer | 9.00% | ~42,865 |
-| Annihilator | 8.00% | ~38,102 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,102 |
+| First Blood | 81.00% | ~385,793 |
+| Hey! That's mine! | 78.00% | ~371,505 |
+| Happy Returns | 77.00% | ~366,742 |
+| Field Promotion | 74.00% | ~352,453 |
+| Leadhead | 71.00% | ~338,164 |
+| Eradicator | 67.00% | ~319,113 |
+| Surplus | 65.00% | ~309,587 |
+| I Spy | 63.00% | ~300,061 |
+| Burn Baby Burn | 59.00% | ~281,010 |
+| Yellow Beats Green | 55.00% | ~261,958 |
+| Salvage Rights | 53.00% | ~252,433 |
+| What IS that? | 50.00% | ~238,144 |
+| Close Call | 49.00% | ~233,381 |
+| Penny Pincher | 49.00% | ~233,381 |
+| Pew Pew | 49.00% | ~233,381 |
+| Arsenal | 46.00% | ~219,092 |
+| Boot Camp | 45.00% | ~214,330 |
+| Flawless Victory | 42.00% | ~200,041 |
+| Confident | 40.00% | ~190,515 |
+| Exterminator | 36.00% | ~171,464 |
+| Sharpshooter | 33.00% | ~157,175 |
+| Great Ball of Fire | 32.00% | ~152,412 |
+| Not So Fast | 32.00% | ~152,412 |
+| No Sale | 30.00% | ~142,886 |
+| Kaboom! | 29.00% | ~138,124 |
+| Liquidator | 29.00% | ~138,124 |
+| High Voltage | 24.00% | ~114,309 |
+| Filthy Rich | 19.00% | ~90,495 |
+| The Not-So-Friendly Skies | 18.00% | ~85,732 |
+| Power Builder | 17.00% | ~80,969 |
+| Pyrrhic Victory | 17.00% | ~80,969 |
+| Death From Above | 16.00% | ~76,206 |
+| Retry | 16.00% | ~76,206 |
+| Head Trauma | 12.00% | ~57,155 |
+| Full Defense | 10.00% | ~47,629 |
+| Overseer | 9.00% | ~42,866 |
+| Annihilator | 8.00% | ~38,103 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,103 |
 | Indecisive | 6.00% | ~28,577 |
 | Base Defender | 5.00% | ~23,814 |
 | Relay Race | 5.00% | ~23,814 |
-| Diversity | 3.00% | ~14,288 |
-| Full Potential | 3.00% | ~14,288 |
-| Tower Expert | 3.00% | ~14,288 |
+| Diversity | 3.00% | ~14,289 |
+| Full Potential | 3.00% | ~14,289 |
+| Tower Expert | 3.00% | ~14,289 |
 | Minimalist | 2.00% | ~9,526 |
 | Nail Biter | 2.00% | ~9,526 |
 | Siege Breaker | 2.00% | ~9,526 |
@@ -94,8 +94,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~476 |
 | You Monster | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,278 (Ranked 26)  
-Completed: 4 (0.00%) (Ranked 197)  
+Progressed: 476,288 (Ranked 26)  
+Completed: 4 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,7 +114,7 @@ Completed: 4 (0.00%) (Ranked 197)
 | 2023-05-07 | 476,101 | 4 |
 | 2023-05-08 | 476,178 | 4 |
 | 2023-05-09 | 476,256 | 4 |
-| 2023-05-10 | 476,278 | 4 |
+| 2023-05-10 | 476,288 | 4 |
 ## Awards
 Max (Great for Beginners): 230  (Ranked 244)  
 Sum: 1,632 (Ranked 200)  

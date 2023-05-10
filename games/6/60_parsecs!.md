@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~570 |
-| Friendzone | 79.00% | ~465 |
+| Don't Panic! | 97.00% | ~571 |
 | Space Colonization | 79.00% | ~465 |
-| Hello World | 74.00% | ~435 |
-| Space Engineer | 62.00% | ~365 |
+| Friendzone | 78.00% | ~459 |
+| Hello World | 74.00% | ~436 |
 | Tinkerer | 62.00% | ~365 |
-| Dust to Dust | 57.00% | ~335 |
-| Across The Stars | 47.00% | ~276 |
+| Space Engineer | 61.00% | ~359 |
+| Dust to Dust | 57.00% | ~336 |
+| Across The Stars | 47.00% | ~277 |
 | Crafty | 44.00% | ~259 |
 | All Seats Taken | 35.00% | ~206 |
-| For Science! | 31.00% | ~182 |
-| Meet the Petersons | 31.00% | ~182 |
+| For Science! | 31.00% | ~183 |
+| Meet the Petersons | 31.00% | ~183 |
 | Stay Cool | 28.00% | ~165 |
 | KIA | 25.00% | ~147 |
-| Mutiny in making | 22.00% | ~129 |
+| Mutiny in making | 22.00% | ~130 |
 | Et tu, Astrocitizen? | 19.00% | ~112 |
 | Eco-Shuttle | 18.00% | ~106 |
 | Space Explorer | 14.00% | ~82 |
@@ -41,16 +41,16 @@
 | AAARGH! | 1.00% | ~6 |
 | Feels like home | 1.00% | ~6 |
 | Space Selfie | 1.00% | ~6 |
-| No Ticket | 0.90% | ~5 |
-| Bingpot! | 0.90% | ~5 |
+| No Ticket | 0.80% | ~5 |
+| Bingpot! | 0.80% | ~5 |
 | Small Step | 0.50% | ~3 |
 | Giant Leap | 0.30% | ~2 |
 | Unidentified Flying Offspring | 0.20% | ~1 |
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588 (Ranked 183)  
-Completed: 1 (0.17%) (Ranked 141)  
+Progressed: 589 (Ranked 183)  
+Completed: 1 (0.17%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 1 (0.17%) (Ranked 141)
 | 2023-05-07 | 585 | 1 |
 | 2023-05-08 | 586 | 1 |
 | 2023-05-09 | 587 | 1 |
-| 2023-05-10 | 588 | 1 |
+| 2023-05-10 | 589 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

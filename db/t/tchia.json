@@ -6,7 +6,7 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5639,
+  "EOS_Progressed": 5641,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1173,6 +1173,11 @@
       "Time": "2023-05-10T09:05:21.3279747+00:00",
       "NumProgressed": 5639,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-10T14:07:02.6414244+00:00",
+      "NumProgressed": 5641,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1232,7 +1237,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1256,7 +1261,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1288,7 +1293,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "LIBERATOR",
@@ -1351,7 +1356,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5639,
+      "Progressed": 5641,
       "Completed": 20
     }
   ],
@@ -1359,8 +1364,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-10T12:05:13.0526068+00:00",
+  "LastChanged_Achievements": "2023-05-10T14:07:02.6414238+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:57:59.6438343+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:05:13.052628+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:00:05.826589+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:07:02.6414458+00:00"
 }

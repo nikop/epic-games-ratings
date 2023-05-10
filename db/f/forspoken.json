@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37811,
+  "EOS_Progressed": 37818,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1394,6 +1394,11 @@
       "Time": "2023-05-10T11:05:51.134123+00:00",
       "NumProgressed": 37811,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T14:07:18.9209744+00:00",
+      "NumProgressed": 37818,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1437,7 +1442,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -1453,7 +1458,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -1461,7 +1466,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -1469,7 +1474,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -1581,7 +1586,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "JUSTCOUNTER",
@@ -1661,7 +1666,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "MAGIC_IVY",
@@ -1828,22 +1833,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37811,
+      "Progressed": 37818,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2648,
-      "Completed": 2648
+      "Progressed": 2655,
+      "Completed": 2655
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-08T09:00:28.4742824+00:00",
-  "LastChanged_Achievements": "2023-05-10T12:05:28.6689701+00:00",
+  "LastChanged_Achievements": "2023-05-10T14:07:18.9209736+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:58:29.9003728+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:05:28.6690259+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:00:38.8357002+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:07:18.9210314+00:00"
 }

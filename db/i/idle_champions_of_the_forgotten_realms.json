@@ -6,9 +6,9 @@
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3610,9 +3610,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 87048,
+  "EOS_Progressed": 87054,
   "EOS_Completed": 1821,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5350,6 +5350,11 @@
       "Time": "2023-05-10T12:05:56.0349119+00:00",
       "NumProgressed": 87048,
       "NumCompleted": 1821
+    },
+    {
+      "Time": "2023-05-10T14:07:45.8432+00:00",
+      "NumProgressed": 87054,
+      "NumCompleted": 1821
     }
   ],
   "TotalAchievements": 489,
@@ -5361,7 +5366,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "objective_completed_10",
@@ -6233,7 +6238,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "objective_completed_1204",
@@ -9272,21 +9277,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53322,
+      "Progressed": 53328,
       "Completed": 2488
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87048,
+      "Progressed": 87054,
       "Completed": 1821
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-10T06:57:46.2440134+00:00",
-  "LastChanged_Achievements": "2023-05-10T12:05:56.0349112+00:00",
+  "LastChanged_Achievements": "2023-05-10T14:07:45.8431995+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:58:03.8432826+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:05:56.0372594+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:00:09.9647993+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:07:45.8454971+00:00"
 }

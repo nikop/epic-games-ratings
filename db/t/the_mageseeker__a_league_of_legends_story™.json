@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1944,
+  "EOS_Progressed": 1945,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -1071,6 +1071,11 @@
       "Time": "2023-05-10T07:05:17.4314253+00:00",
       "NumProgressed": 1944,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T14:07:08.5154129+00:00",
+      "NumProgressed": 1945,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1130,7 +1135,7 @@
       "Name": "Elemental master",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1146,7 +1151,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1162,7 +1167,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1218,7 +1223,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1258,7 +1263,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1266,7 +1271,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1298,7 +1303,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1338,7 +1343,7 @@
       "Name": "Glyndemere",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -1346,7 +1351,7 @@
       "Name": "Capelworth",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -1386,7 +1391,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1426,7 +1431,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1498,14 +1503,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1944,
+      "Progressed": 1945,
       "Completed": 1
     }
   ],
@@ -1513,8 +1518,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-10T12:05:18.6889665+00:00",
+  "LastChanged_Achievements": "2023-05-10T14:07:08.5154125+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:57:40.9178346+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:05:18.6890183+00:00"
+  "LastUpdate_Ratings": "2023-05-10T13:59:46.8757014+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:07:08.5154578+00:00"
 }

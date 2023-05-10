@@ -3,9 +3,9 @@
   "Name": "Edge Of Galaxy",
   "ProductSlug": "edge-of-galaxy-092087",
   "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-10T17:00:00+00:00",
     "PcReleaseDate": "2021-07-22T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8352229+00:00",
   "LastChanged": "2023-03-31T05:58:13.835223+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:47.5994571+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:57:30.6958509+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:03:54.9438461+00:00"
+  "LastUpdate_Ratings": "2023-05-10T13:59:33.8342766+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:05:46.173601+00:00"
 }

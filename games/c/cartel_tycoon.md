@@ -14,7 +14,7 @@ Number of Ratings: 101  (23.09.2022)
 | Bad Trip | 45.00% | ~143 |
 | Spread | 39.00% | ~124 |
 | That was base | 38.00% | ~120 |
-| Safe Pair of Hands | 34.00% | ~108 |
+| Safe Pair of Hands | 35.00% | ~111 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~92 |
 | Architect of Fortunes | 25.00% | ~79 |
 | Pampered Life | 25.00% | ~79 |
@@ -27,7 +27,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 317 (Ranked 206)  
-Completed: 1 (0.32%) (Ranked 119)  
+Completed: 1 (0.32%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

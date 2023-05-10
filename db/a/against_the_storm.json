@@ -6,9 +6,9 @@
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2240,7 +2240,7 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14735,
+  "EOS_Progressed": 14736,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -3210,6 +3210,11 @@
       "Time": "2023-05-10T04:05:28.0140616+00:00",
       "NumProgressed": 14735,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-10T14:07:38.8096777+00:00",
+      "NumProgressed": 14736,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3315,9 +3320,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 118
     },
     {
       "ID": "WinImpossible",
@@ -3603,9 +3608,9 @@
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "Year1Dangerous",
@@ -3620,15 +3625,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14735,
+      "Progressed": 14736,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-10T07:59:27.2105993+00:00",
-  "LastChanged_Achievements": "2023-05-10T12:05:49.2552162+00:00",
+  "LastChanged_Achievements": "2023-05-10T14:07:38.8096773+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:59:43.3114794+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:05:49.2552677+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:01:54.3363679+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:07:38.8097294+00:00"
 }

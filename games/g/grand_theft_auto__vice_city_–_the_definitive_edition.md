@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.66 (Ranked 271)  
+Rating: 4.67 (Ranked 256)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,7 +41,7 @@ Rating: 4.66 (Ranked 271)
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,108 (Ranked 115)  
-Completed: 20 (0.33%) (Ranked 117)  
+Completed: 20 (0.33%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,8 +63,8 @@ Completed: 20 (0.33%) (Ranked 117)
 | 2023-05-10 | 6,108 | 20 |
 ## Awards
 Max (Great Boss Battles): 31  (Ranked 438)  
-Sum: 31 (Ranked 455)  
-Diff (max vs sum): -17  
+Sum: 31 (Ranked 456)  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 31 |
@@ -119,3 +119,4 @@ Diff (max vs sum): -17
 | 2023-05-03 | 4.66 | 28 | 28 |
 | 2023-05-07 | 4.66 | 30 | 30 |
 | 2023-05-09 | 4.66 | 31 | 31 |
+| 2023-05-10 | 4.67 | 31 | 31 |

@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 7.00% | ~612 |
 | Mythic Choices | 7.00% | ~612 |
 | Defender's Heart | 7.00% | ~612 |
-| Queen's Gratitude | 6.00% | ~524 |
+| Queen's Gratitude | 6.00% | ~525 |
 | Fifth Crusade | 4.00% | ~350 |
 | Embrace of the Abyss | 3.00% | ~262 |
 | Path of the Angel | 3.00% | ~262 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 2.00% | ~175 |
 | Next-Door Play | 2.00% | ~175 |
 | Get the Toad | 2.00% | ~175 |
-| The Lady of the Forest | 2.00% | ~150 |
-| Beware Still Water | 2.00% | ~150 |
+| The Lady of the Forest | 2.00% | ~151 |
+| Beware Still Water | 2.00% | ~151 |
 | Path of the Trickster | 1.00% | ~87 |
 | Path of the Lich | 1.00% | ~87 |
 | Heroic Victory | 1.00% | ~87 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,740 (Ranked 109)  
-Completed: 0 (0.00%) (Ranked 197)  
+Progressed: 8,744 (Ranked 109)  
+Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,17 +143,17 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 8,693 | 0 |
 | 2023-05-08 | 8,712 | 0 |
 | 2023-05-09 | 8,733 | 0 |
-| 2023-05-10 | 8,740 | 0 |
+| 2023-05-10 | 8,744 | 0 |
 ## Awards
 Max (Character Customization): 1,627  (Ranked 111)  
-Sum: 6,594 (Ranked 108)  
+Sum: 6,595 (Ranked 108)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,627 |
 | This game is Extremely Fun | 615 |
+| This game is Highly Recommended | 603 |
 | This game has Amazing Characters | 602 |
-| This game is Highly Recommended | 602 |
 | This game has Amazing Storytelling | 586 |
 | This game has Diverse Characters | 586 |
 | This game has Quickly Understood Controls | 545 |
@@ -269,3 +269,4 @@ Diff (max vs sum): 3
 | 2023-05-07 | 4.76 | - | 1,626 | 6,589 |
 | 2023-05-08 | 4.76 | - | 1,627 | 6,591 |
 | 2023-05-09 | 4.76 | - | 1,627 | 6,594 |
+| 2023-05-10 | 4.76 | - | 1,627 | 6,595 |

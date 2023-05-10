@@ -6,9 +6,9 @@
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 18,
-  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 655926,
+  "EOS_Progressed": 655929,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2367,6 +2367,11 @@
       "Time": "2023-05-10T12:05:14.9606158+00:00",
       "NumProgressed": 655926,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-10T14:07:04.7087355+00:00",
+      "NumProgressed": 655929,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2378,7 +2383,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472267
+      "UsersEstimate": 472269
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2386,7 +2391,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380437
+      "UsersEstimate": 380439
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2394,7 +2399,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150863
+      "UsersEstimate": 150864
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -2514,7 +2519,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150863
+      "UsersEstimate": 150864
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -2530,7 +2535,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111507
+      "UsersEstimate": 111508
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -2578,7 +2583,7 @@
       "Name": "Gamester",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4591
+      "UsersEstimate": 4592
     },
     {
       "ID": "Achievement_27_Money_Bags",
@@ -2658,7 +2663,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59033
+      "UsersEstimate": 59034
     },
     {
       "ID": "Achievement_37_Champion",
@@ -2761,15 +2766,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655926,
+      "Progressed": 655929,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-10T12:05:14.960615+00:00",
+  "LastChanged_Achievements": "2023-05-10T14:07:04.708735+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.98479+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:57:38.8197233+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:05:14.9606664+00:00"
+  "LastUpdate_Ratings": "2023-05-10T13:59:43.1093763+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:07:04.7087827+00:00"
 }

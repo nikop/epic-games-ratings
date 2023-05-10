@@ -8,13 +8,13 @@ Rating: 3.48 (Ranked 917)
 | Victor | 93.00% | ~876 |
 | World Map | 79.00% | ~744 |
 | Temple of Eternals | 55.00% | ~518 |
-| Prestigious | 51.00% | ~480 |
+| Prestigious | 52.00% | ~490 |
 | Fellowship Power | 39.00% | ~367 |
 | Guild Power | 23.00% | ~217 |
 | Prestigious x10 | 19.00% | ~179 |
 | The game is on | 16.00% | ~151 |
 | Exotic Merchant | 15.00% | ~141 |
-| Dragon Clicker | 13.00% | ~122 |
+| Dragon Clicker | 14.00% | ~132 |
 | Inspection | 13.00% | ~122 |
 | Miner Clicker | 13.00% | ~122 |
 | Hero inspection | 12.00% | ~113 |
@@ -53,24 +53,24 @@ Rating: 3.48 (Ranked 917)
 | Weekly Quest Completionist | 0.70% | ~7 |
 | Dragon Slayer | 0.60% | ~6 |
 | Engineer Mastery | 0.60% | ~6 |
+| Legendary | 0.60% | ~6 |
 | Sailor | 0.60% | ~6 |
 | Blueprint Upgrades | 0.50% | ~5 |
 | Crystal Mining | 0.50% | ~5 |
 | Enchanting skill | 0.50% | ~5 |
-| Legendary | 0.50% | ~5 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
 | Lock And Load | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
 | The Alchemist | 0.40% | ~4 |
 | Transmute | 0.40% | ~4 |
 | Tree of Life | 0.40% | ~4 |
+| Gear Enchanting | 0.30% | ~3 |
+| Mythic Power | 0.30% | ~3 |
 | Training makes a Pro player | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |
-| Gear Enchanting | 0.20% | ~2 |
 | Guardian Master | 0.20% | ~2 |
-| Mythic Power | 0.20% | ~2 |
 | Ultimate War Machines | 0.20% | ~2 |
 | Angel Power | 0.10% | ~1 |
 | Arena Challenger | 0.10% | ~1 |
@@ -82,7 +82,7 @@ Rating: 3.48 (Ranked 917)
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 942 (Ranked 165)  
-Completed: 1 (0.11%) (Ranked 152)  
+Completed: 1 (0.11%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

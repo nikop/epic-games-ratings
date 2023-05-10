@@ -4,11 +4,11 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 429,
   "Ranking_Popularity": 42,
-  "Ranking_PopularitySum": 56,
+  "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-11-07T00:00:00+00:00",
@@ -4118,10 +4118,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 16856,
       "NumberOfAwardsMax": 7266
+    },
+    {
+      "Time": "2023-05-10T14:02:27.2538917+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 16860,
+      "NumberOfAwardsMax": 7266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16856,
+  "NumberOfAwards": 16860,
   "NumberOfAwardsMax": 7266,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4141,13 +4147,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 777
+      "Count": 778
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 751
+      "Count": 753
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4165,7 +4171,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 756
+      "Count": 757
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4191,8 +4197,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-05-10T07:00:17.1172415+00:00",
+  "LastChanged": "2023-05-10T14:02:27.2538916+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.8804949+00:00",
-  "LastUpdate_Ratings": "2023-05-10T12:00:14.4873885+00:00",
-  "LastUpdate_Achievements": "2023-05-10T12:05:00.7055831+00:00"
+  "LastUpdate_Ratings": "2023-05-10T14:02:27.2538926+00:00",
+  "LastUpdate_Achievements": "2023-05-10T14:06:50.6551369+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Big Day | 84.00% | ~59 |
-| Home Cook | 53.00% | ~37 |
+| Home Cook | 54.00% | ~38 |
 | You're the Expert! | 47.00% | ~33 |
 | French Flair | 40.00% | ~28 |
 | So Clean You Can Eat Off the Floor | 37.00% | ~26 |
@@ -46,7 +46,7 @@
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 70 (Ranked 261)  
-Completed: 0 (0.00%) (Ranked 197)  
+Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -13,7 +13,7 @@ Number of Ratings: 53  (23.09.2022)
 | Gofer | 55.00% | ~288 |
 | Seafarer | 54.00% | ~282 |
 | O Captain! My Captain! | 54.00% | ~282 |
-| Greed for gold | 42.00% | ~220 |
+| Greed for gold | 43.00% | ~225 |
 | Intangible | 41.00% | ~214 |
 | I'm out of here for a while | 40.00% | ~209 |
 | In a mint condition | 38.00% | ~199 |
@@ -58,7 +58,7 @@ Number of Ratings: 53  (23.09.2022)
 | Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 523 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 197)  
+Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
