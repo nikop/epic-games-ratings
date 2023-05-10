@@ -22,10 +22,10 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.62% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 22 | [Scorn](games/s/scorn.md) | 7.10% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 5.99% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 5.98% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -60,7 +60,7 @@
 | 58 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 59 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 60 | [A Musical Story](games/a/a_musical_story.md) | 1.96% |
-| 61 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.92% |
+| 61 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.89% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |

@@ -41,7 +41,7 @@
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,947 | 4.76 | 115 |
 | 40 | [Supraland](games/s/supraland.md) | 7,607 | 4.61 | 352 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,530 | 4.85 | 38 |
-| 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,259 | 4.57 | 429 |
+| 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,266 | 4.57 | 429 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,148 | 4.71 | 177 |
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,965 | 4.57 | 429 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,932 | 4.89 | 12 |
@@ -88,7 +88,7 @@
 | 86 | [Hades](games/h/hades.md) | 3,037 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,012 | 4.68 | 233 |
 | 88 | [Dead Island 2](games/d/dead_island_2.md) | 2,848 | 4.54 | 477 |
-| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,670 | 4.77 | 103 |
+| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,681 | 4.77 | 103 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,570 | 4.67 | 256 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,471 | 4.61 | 352 |
 | 92 | [Rage 2](games/r/rage_2.md) | 2,438 | 4.28 | 767 |
@@ -100,7 +100,7 @@
 | 98 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,215 | 4.67 | 256 |
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,201 | 4.17 | 831 |
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,161 | 4.41 | 656 |
-| 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,131 | 4.37 | 700 |
+| 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,131 | 4.37 | 699 |
 | 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,096 | 4.64 | 309 |
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,975 | 4.49 | 552 |
 | 104 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,872 | 4.65 | 286 |
@@ -151,7 +151,7 @@
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 750 | 4.74 | 140 |
 | 150 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 744 | 4.56 | 447 |
 | 151 | [Auto Chess](games/a/auto_chess.md) | 736 | 4.52 | 501 |
-| 152 | [Core](games/c/core.md) | 728 | 4.37 | 700 |
+| 152 | [Core](games/c/core.md) | 728 | 4.37 | 699 |
 | 153 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 720 | 4.79 | 90 |
 | 154 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 696 | 4.45 | 601 |
 | 155 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 692 | 4.59 | 397 |
@@ -341,7 +341,7 @@
 | 339 | [First Class Trouble](games/f/first_class_trouble.md) | 86 | 4.52 | 501 |
 | 340 | [Cave Story+](games/c/cave_story+.md) | 85 | 4.75 | 127 |
 | 340 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 85 | 4.68 | 233 |
-| 342 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 84 | 4.37 | 700 |
+| 342 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 84 | 4.37 | 699 |
 | 342 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 84 | 4.60 | 376 |
 | 344 | [Solitairica](games/s/solitairica.md) | 83 | 4.49 | 552 |
 | 345 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 82 | 4.83 | 55 |
@@ -387,14 +387,14 @@
 | 383 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.56 | 447 |
 | 383 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 192 |
 | 383 | [The Escapists 2](games/t/the_escapists_2.md) | 50 | 4.58 | 412 |
-| 383 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 50 | 3.76 | 912 |
+| 383 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 50 | 3.76 | 913 |
 | 389 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 49 | 4.35 | 716 |
 | 389 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 49 | 4.56 | 447 |
 | 391 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 286 |
 | 391 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.65 | 286 |
 | 393 | [ATOM RPG](games/a/atom_rpg.md) | 47 | 4.45 | 601 |
 | 393 | [Ranch Simulator](games/r/ranch_simulator.md) | 47 | 4.45 | 601 |
-| 393 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 700 |
+| 393 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 699 |
 | 396 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 429 |
 | 396 | [Desperados III](games/d/desperados_iii.md) | 46 | 4.84 | 49 |
 | 396 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 46 | 4.18 | 824 |

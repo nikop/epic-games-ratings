@@ -102,7 +102,7 @@
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,758 | 64 |
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,899 | 37 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
-| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,670 | 89 |
+| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,681 | 89 |
 | 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,583 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,961 | 74 |
 | 103 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 489 |
@@ -439,7 +439,7 @@
 | 429 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 425 |
 | 429 | [Hob](games/h/hob.md) | 4.57 | 0 | 489 |
 | 429 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 419 |
-| 429 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,259 | 42 |
+| 429 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,266 | 42 |
 | 429 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,046 | 85 |
 | 429 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 117 | 304 |
 | 429 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,232 | 19 |
@@ -689,7 +689,6 @@
 | 682 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,654 | 30 |
 | 682 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 322 | 216 |
 | 689 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 489 |
-| 689 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 489 |
 | 689 | [Breathedge](games/b/breathedge.md) | 4.38 | 0 | 489 |
 | 689 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 489 |
 | 689 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 489 |
@@ -699,12 +698,13 @@
 | 689 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 489 |
 | 689 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 489 |
 | 689 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 438 |
-| 700 | [Core](games/c/core.md) | 4.37 | 728 | 152 |
-| 700 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 489 |
-| 700 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |
-| 700 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 489 |
-| 700 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 393 |
-| 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 84 | 342 |
+| 699 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 489 |
+| 699 | [Core](games/c/core.md) | 4.37 | 728 | 152 |
+| 699 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 489 |
+| 699 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |
+| 699 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 489 |
+| 699 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 393 |
+| 699 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 84 | 342 |
 | 706 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 489 |
 | 706 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 273 |
 | 706 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 489 |
@@ -910,11 +910,11 @@
 | 908 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 489 |
 | 908 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 366 |
 | 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,024 | 133 |
+| 911 | [Poker Club](games/p/poker_club.md) | 3.77 | 0 | 489 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 489 |
-| 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 50 | 383 |
-| 913 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 489 |
-| 913 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 489 |
-| 915 | [Poker Club](games/p/poker_club.md) | 3.74 | 0 | 489 |
+| 913 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 50 | 383 |
+| 914 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 489 |
+| 914 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 489 |
 | 916 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 489 |
 | 917 | [Adios](games/a/adios.md) | 3.48 | 0 | 489 |
 | 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.48 | 0 | 489 |
