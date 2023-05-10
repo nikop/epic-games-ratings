@@ -29,7 +29,7 @@
 | 27 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 489 |
 | 27 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 476 |
 | 27 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 139 | 287 |
-| 27 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 687 | 156 |
+| 27 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 688 | 156 |
 | 27 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 489 |
 | 27 | [Inscryption](games/i/inscryption.md) | 4.86 | 330 | 214 |
 | 27 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 328 |
@@ -147,7 +147,7 @@
 | 140 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 62 | 372 |
 | 140 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 147 |
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 589 | 166 |
-| 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,500 | 49 |
+| 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,506 | 49 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
 | 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,910 | 13 |
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 489 |
@@ -185,7 +185,7 @@
 | 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,148 | 43 |
 | 177 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 489 |
 | 177 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 489 |
-| 177 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 68 | 364 |
+| 177 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 68 | 365 |
 | 177 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 489 |
 | 177 | [shapez](games/s/shapez.md) | 4.71 | 0 | 489 |
 | 177 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 114 | 306 |
@@ -220,7 +220,7 @@
 | 212 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,172 | 123 |
 | 212 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 489 |
 | 212 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 489 |
-| 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,198 | 32 |
+| 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,201 | 32 |
 | 212 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 452 |
 | 212 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 489 |
 | 212 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 489 |
@@ -237,7 +237,7 @@
 | 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,012 | 87 |
 | 233 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 489 |
 | 233 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 644 | 161 |
-| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 362 |
+| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 363 |
 | 233 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 489 |
 | 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,201 | 60 |
 | 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,374 | 3 |
@@ -457,7 +457,7 @@
 | 447 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 489 |
 | 447 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 134 | 290 |
 | 447 | [Isonzo](games/i/isonzo.md) | 4.56 | 30 | 443 |
-| 447 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 362 |
+| 447 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 363 |
 | 447 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 489 |
 | 447 | [Minit](games/m/minit.md) | 4.56 | 0 | 489 |
 | 447 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,737 | 65 |
@@ -537,7 +537,7 @@
 | 533 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 489 |
 | 533 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 88 | 335 |
 | 533 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 489 |
-| 533 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,645 | 12 |
+| 533 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,698 | 12 |
 | 533 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 489 |
 | 533 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,294 | 95 |
 | 533 | [Horace](games/h/horace.md) | 4.50 | 0 | 489 |
@@ -889,8 +889,8 @@
 | 887 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 489 |
 | 887 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,556 | 66 |
 | 887 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 489 |
-| 890 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 489 |
-| 890 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.97 | 68 | 364 |
+| 887 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.98 | 70 | 361 |
+| 891 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 489 |
 | 892 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 399 |
 | 892 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 0 | 489 |
 | 894 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 246 | 239 |
@@ -910,9 +910,9 @@
 | 908 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 489 |
 | 908 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 366 |
 | 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,024 | 133 |
+| 911 | [Poker Club](games/p/poker_club.md) | 3.77 | 0 | 489 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 489 |
-| 912 | [Poker Club](games/p/poker_club.md) | 3.76 | 0 | 489 |
-| 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 50 | 383 |
+| 913 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 50 | 383 |
 | 914 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 489 |
 | 914 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 489 |
 | 916 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 489 |

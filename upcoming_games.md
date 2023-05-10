@@ -220,6 +220,7 @@
 | [Dust Fleet](games/d/dust_fleet.md) | 2099-01-01 | 2099-01-01 |
 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 2099-01-01 | 2023-03-16 |
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | 2099-01-01 | 2099-01-01 |
+| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2099-01-01 | 2022-09-21 |
 | [Elypse](games/e/elypse.md) | 2099-01-01 | 2099-01-01 |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2099-01-01 | 2099-01-01 |
 | [Eternity Convergence](games/e/eternity_convergence.md) | 2099-01-01 | 2099-01-01 |
@@ -393,8 +394,8 @@
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |
 | [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | 2020-11-05 |
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2099-04-12 | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | 2099-06-26 |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |
 | [Video Horror Society](games/v/video_horror_society.md) | 2099-07-18 | 2099-07-18 |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | 2099-07-28 | - |
