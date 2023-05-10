@@ -25,7 +25,7 @@
 | 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.94% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.02% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.00% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
