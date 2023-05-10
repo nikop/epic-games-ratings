@@ -106,9 +106,9 @@
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
       "SetID": "7i20me3",
       "Name": "Defeat Tezuth",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_BOSS_USKOL",
@@ -427,8 +427,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-05-10T08:04:38.7563995+00:00",
+  "LastChanged_Achievements": "2023-05-10T09:05:13.3558735+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:11.0053311+00:00",
-  "LastUpdate_Ratings": "2023-05-10T07:57:38.395746+00:00",
-  "LastUpdate_Achievements": "2023-05-10T08:04:38.7564304+00:00"
+  "LastUpdate_Ratings": "2023-05-10T08:57:44.221853+00:00",
+  "LastUpdate_Achievements": "2023-05-10T09:05:13.3559011+00:00"
 }

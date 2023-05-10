@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 936,
+  "EOS_Progressed": 938,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1304,6 +1304,11 @@
       "Time": "2023-05-10T04:05:05.8928013+00:00",
       "NumProgressed": 936,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T09:05:36.0081811+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1491,7 +1496,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "fellowshippower",
@@ -1499,7 +1504,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "fourleafclover",
@@ -1547,7 +1552,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "herewegoagain",
@@ -1563,7 +1568,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "howdoyouturnthison",
@@ -1643,7 +1648,7 @@
       "Name": "Milestone collector",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "minerclicker",
@@ -1675,7 +1680,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "mythicpower",
@@ -1707,7 +1712,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "prestigiousx10",
@@ -1771,7 +1776,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "thealchemist",
@@ -1803,7 +1808,7 @@
       "Name": "The game is on",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "thepowerofawakening",
@@ -1875,7 +1880,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 872
     },
     {
       "ID": "warmachinesarmy",
@@ -1907,14 +1912,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 741
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 936,
+      "Progressed": 938,
       "Completed": 1
     }
   ],
@@ -1922,8 +1927,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-09T15:59:23.3222999+00:00",
-  "LastChanged_Achievements": "2023-05-10T08:04:58.2323087+00:00",
+  "LastChanged_Achievements": "2023-05-10T09:05:36.0081807+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-10T07:57:45.6674294+00:00",
-  "LastUpdate_Achievements": "2023-05-10T08:04:58.2323781+00:00"
+  "LastUpdate_Ratings": "2023-05-10T08:57:54.9879028+00:00",
+  "LastUpdate_Achievements": "2023-05-10T09:05:36.008247+00:00"
 }

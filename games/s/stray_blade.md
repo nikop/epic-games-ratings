@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tinkerer | 50.00% | ~1 |
+| Defeat Tezuth | 50.00% | ~1 |
 | Bringing guns to a sword fight | 50.00% | ~1 |
 | Self-Defence | 50.00% | ~1 |
 | Freezing Cold | 50.00% | ~1 |
@@ -20,7 +21,6 @@
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Defeat Ingla | 0.00% | ~0 |
-| Defeat Tezuth | 0.00% | ~0 |
 | Defeat Uskol | 0.00% | ~0 |
 | Searing Heat | 0.00% | ~0 |
 | Through Dangers Untold | 0.00% | ~0 |

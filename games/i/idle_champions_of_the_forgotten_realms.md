@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~174 |
 | Upholding the Law | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~107 |
+| Nightmare Rats! | 0.20% | ~107 |
 | The Witchlight Carnival | 0.20% | ~107 |
 | Thieves of the Coven | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
@@ -144,7 +145,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~53 |
 | Friends and Foes | 0.10% | ~53 |
 | And Your Enemies Closer | 0.10% | ~53 |
-| Nightmare Rats! | 0.10% | ~53 |
 | An Unexpected Geist | 0.10% | ~53 |
 | Back to Nature | 0.10% | ~53 |
 | A Monarch Among Us | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,031 (Ranked 59)  
+Progressed: 87,036 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,031 | 1,821 |
+| 2023-05-10 | 87,036 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,842 (Ranked 37)  

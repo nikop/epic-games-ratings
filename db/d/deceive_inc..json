@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 5457,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1747,9 +1747,9 @@
       "ID": "0026",
       "SetID": "2n2feee",
       "Name": "The Living Portrait",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1364
     },
     {
       "ID": "0027",
@@ -1844,8 +1844,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-09T22:01:14.6468412+00:00",
-  "LastChanged_Achievements": "2023-05-10T08:05:13.5731477+00:00",
+  "LastChanged_Achievements": "2023-05-10T09:05:53.3926149+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.5440231+00:00",
-  "LastUpdate_Ratings": "2023-05-10T07:59:08.021004+00:00",
-  "LastUpdate_Achievements": "2023-05-10T08:05:13.5731756+00:00"
+  "LastUpdate_Ratings": "2023-05-10T08:59:37.2070011+00:00",
+  "LastUpdate_Achievements": "2023-05-10T09:05:53.3926408+00:00"
 }

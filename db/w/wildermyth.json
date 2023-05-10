@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1155,
+  "EOS_Progressed": 1156,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -340,6 +340,11 @@
       "Time": "2023-05-10T05:05:04.6185747+00:00",
       "NumProgressed": 1155,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-10T09:05:28.2666574+00:00",
+      "NumProgressed": 1156,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -415,7 +420,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -437,9 +442,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -798,15 +803,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1155,
+      "Progressed": 1156,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-10T08:04:51.5223466+00:00",
+  "LastChanged_Achievements": "2023-05-10T09:05:28.266657+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-10T07:59:56.0947576+00:00",
-  "LastUpdate_Achievements": "2023-05-10T08:04:51.5223851+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:00:36.5617916+00:00",
+  "LastUpdate_Achievements": "2023-05-10T09:05:28.2666951+00:00"
 }

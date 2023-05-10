@@ -20,11 +20,11 @@ Rating: 4.64 (Ranked 309)
 | Private Collection | 26.00% | ~1,419 |
 | Smells Like Trouble | 26.00% | ~1,419 |
 | Assistant Accountant | 25.00% | ~1,364 |
+| The Living Portrait | 25.00% | ~1,364 |
 | Killer Looks | 25.00% | ~1,364 |
 | Hostile Takeover | 25.00% | ~1,364 |
 | Keycards Royale | 24.00% | ~1,310 |
 | Dr. No Kill | 24.00% | ~1,310 |
-| The Living Portrait | 24.00% | ~1,310 |
 | My Motto, My Creed | 24.00% | ~1,310 |
 | Security Supervisor | 10.00% | ~546 |
 | License to Thrill | 8.00% | ~437 |

@@ -7,14 +7,14 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Balding bloot! | 80.00% | ~890 |
-| Lovebirds | 52.00% | ~578 |
+| Lovebirds | 52.00% | ~579 |
 | Life’s short, ride long | 47.00% | ~523 |
 | Hug therapy | 46.00% | ~512 |
 | Over my dead body | 42.00% | ~467 |
 | Shake the rust off their feet | 23.00% | ~256 |
 | Strike! | 21.00% | ~234 |
 | My little pony | 21.00% | ~234 |
-| A love supreme | 20.00% | ~222 |
+| A love supreme | 20.00% | ~223 |
 | In my shoes | 18.00% | ~200 |
 | Like new! | 16.00% | ~178 |
 | Head in the clouds | 15.00% | ~167 |
@@ -29,15 +29,15 @@ Number of Ratings: 38  (23.09.2022)
 | Spring cleaning | 6.00% | ~67 |
 | An eye for an eye | 6.00% | ~67 |
 | Can't get wetter... | 5.00% | ~56 |
-| Second thoughts | 4.00% | ~44 |
-| Mooning the moon | 4.00% | ~44 |
-| Strip-a-bobble | 4.00% | ~44 |
+| Second thoughts | 4.00% | ~45 |
+| Mooning the moon | 4.00% | ~45 |
+| Strip-a-bobble | 4.00% | ~45 |
 | Pearls before Birble | 3.00% | ~33 |
 | Last minute | 3.00% | ~33 |
 | Thar she blows | 2.00% | ~22 |
 | À la carte | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 158)  
+Progressed: 1,113 (Ranked 158)  
 Completed: 8 (0.72%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,6 +56,7 @@ Completed: 8 (0.72%) (Ranked 96)
 | 2023-05-07 | 1,109 | 8 |
 | 2023-05-08 | 1,110 | 8 |
 | 2023-05-09 | 1,112 | 8 |
+| 2023-05-10 | 1,113 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

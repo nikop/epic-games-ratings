@@ -6,53 +6,53 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 89.00% | ~38,112 |
-| A Clear Conscience | 56.00% | ~23,981 |
-| Unleash Hell | 50.00% | ~21,412 |
-| Unfulfilled Desires | 50.00% | ~21,412 |
-| Funny Guy | 48.00% | ~20,555 |
-| Long Live the King | 48.00% | ~20,555 |
-| Wyrdly Reconstructed | 44.00% | ~18,842 |
-| Unshackled | 43.00% | ~18,414 |
-| Boxcar Kid | 42.00% | ~17,986 |
-| Don't Make Me Turn This Coach Around | 39.00% | ~16,701 |
-| Hope Rekindled | 38.00% | ~16,273 |
-| Resurrection | 35.00% | ~14,988 |
-| This Looks Familiar | 31.00% | ~13,275 |
-| To Grandmother's House | 30.00% | ~12,847 |
-| Rush Hour | 29.00% | ~12,419 |
-| Serenity Now! | 21.00% | ~8,993 |
-| Nope | 21.00% | ~8,993 |
-| Hot Air | 20.00% | ~8,565 |
-| Eyes Up | 11.00% | ~4,711 |
-| Creep and Sleep | 10.00% | ~4,282 |
-| Overdue Notice | 8.00% | ~3,426 |
-| Merry Time | 8.00% | ~3,426 |
-| Harvest Festival | 8.00% | ~3,426 |
-| Whale | 8.00% | ~3,426 |
-| FNG | 7.00% | ~2,998 |
-| Autodidact | 5.00% | ~2,141 |
-| Meat and Greet | 4.00% | ~1,713 |
-| Escape from the Black Hole | 4.00% | ~1,713 |
-| It Happens | 4.00% | ~1,713 |
-| Spelunker | 4.00% | ~1,713 |
-| Ramble On | 4.00% | ~1,713 |
-| Road Trip | 4.00% | ~1,713 |
-| It Rings a Bell | 3.00% | ~1,285 |
-| When You Want Something Done Right | 3.00% | ~1,285 |
-| Handled | 3.00% | ~1,285 |
-| This Belongs in a Museum | 2.00% | ~856 |
-| Not Today! | 2.00% | ~856 |
-| Catch and Decease | 2.00% | ~856 |
-| Shrine of Reflection | 2.00% | ~856 |
-| Now Stay Dead | 0.90% | ~385 |
-| Hat Trick | 0.90% | ~385 |
-| Body of Work | 0.90% | ~385 |
-| Utopia | 0.70% | ~300 |
-| Banishment | 0.60% | ~257 |
-| The World As It Was | 0.40% | ~171 |
-| Triage | 0.40% | ~171 |
-| Predator | 0.30% | ~128 |
+| A Place to Lay Your Head | 89.00% | ~38,443 |
+| A Clear Conscience | 56.00% | ~24,189 |
+| Unleash Hell | 50.00% | ~21,597 |
+| Unfulfilled Desires | 50.00% | ~21,597 |
+| Funny Guy | 48.00% | ~20,733 |
+| Long Live the King | 48.00% | ~20,733 |
+| Wyrdly Reconstructed | 45.00% | ~19,437 |
+| Unshackled | 44.00% | ~19,005 |
+| Boxcar Kid | 42.00% | ~18,141 |
+| Don't Make Me Turn This Coach Around | 39.00% | ~16,846 |
+| Hope Rekindled | 38.00% | ~16,414 |
+| Resurrection | 35.00% | ~15,118 |
+| This Looks Familiar | 31.00% | ~13,390 |
+| To Grandmother's House | 30.00% | ~12,958 |
+| Rush Hour | 29.00% | ~12,526 |
+| Serenity Now! | 21.00% | ~9,071 |
+| Nope | 21.00% | ~9,071 |
+| Hot Air | 20.00% | ~8,639 |
+| Eyes Up | 11.00% | ~4,751 |
+| Creep and Sleep | 10.00% | ~4,319 |
+| Overdue Notice | 8.00% | ~3,456 |
+| Merry Time | 8.00% | ~3,456 |
+| Harvest Festival | 8.00% | ~3,456 |
+| Whale | 8.00% | ~3,456 |
+| FNG | 7.00% | ~3,024 |
+| Ramble On | 5.00% | ~2,160 |
+| Autodidact | 5.00% | ~2,160 |
+| Meat and Greet | 4.00% | ~1,728 |
+| Escape from the Black Hole | 4.00% | ~1,728 |
+| It Happens | 4.00% | ~1,728 |
+| Spelunker | 4.00% | ~1,728 |
+| Road Trip | 4.00% | ~1,728 |
+| It Rings a Bell | 3.00% | ~1,296 |
+| When You Want Something Done Right | 3.00% | ~1,296 |
+| Handled | 3.00% | ~1,296 |
+| This Belongs in a Museum | 2.00% | ~864 |
+| Not Today! | 2.00% | ~864 |
+| Catch and Decease | 2.00% | ~864 |
+| Shrine of Reflection | 2.00% | ~864 |
+| Now Stay Dead | 1.00% | ~432 |
+| Hat Trick | 0.90% | ~389 |
+| Body of Work | 0.90% | ~389 |
+| Utopia | 0.70% | ~302 |
+| Banishment | 0.60% | ~259 |
+| The World As It Was | 0.40% | ~173 |
+| Triage | 0.40% | ~173 |
+| Predator | 0.30% | ~130 |
 | Clearing the Ledger | 0.20% | ~86 |
 | A Life Well Lived | 0.10% | ~43 |
 | Loop Year | 0.10% | ~43 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Pub Crawl | 0.00% | ~0 |
 | Hard Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,823 (Ranked 77)  
+Progressed: 43,194 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,10 +82,10 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-05 | 5 | 0 |
 | 2023-05-08 | 18,861 | 0 |
 | 2023-05-09 | 39,312 | 0 |
-| 2023-05-10 | 42,823 | 0 |
+| 2023-05-10 | 43,194 | 0 |
 ## Awards
 Max (Character Customization): 6,589  (Ranked 48)  
-Sum: 16,819 (Ranked 57)  
+Sum: 16,830 (Ranked 57)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -97,7 +97,7 @@ Diff (max vs sum): -9
 | This game is Extremely Fun | 1,196 |
 | This game has Amazing Storytelling | 1,139 |
 | This game has Quickly Understood Controls | 1,127 |
-| This game has Unique Visuals | 1,056 |
+| This game has Unique Visuals | 1,067 |
 | This game has a Creative Community | 787 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -208,4 +208,4 @@ Diff (max vs sum): -9
 | 2023-05-07 | 4.67 | - | 6,517 | 16,637 |
 | 2023-05-08 | 4.67 | - | 6,522 | 16,657 |
 | 2023-05-09 | 4.67 | - | 6,553 | 16,763 |
-| 2023-05-10 | 4.67 | - | 6,589 | 16,819 |
+| 2023-05-10 | 4.67 | - | 6,589 | 16,830 |

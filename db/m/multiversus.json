@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 9,
   "Ranking_EOS_Completed": 46,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -3515,10 +3515,10 @@
       "Count": 3402
     }
   ],
-  "EOS_Progressed": 1069290,
+  "EOS_Progressed": 1069294,
   "EOS_Completed": 31627,
   "EOS_NewPlayers": 1638,
-  "EOS_NewCompleters": 12,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
     {
@@ -5260,6 +5260,11 @@
       "Time": "2023-05-10T08:04:41.5346364+00:00",
       "NumProgressed": 1069290,
       "NumCompleted": 31627
+    },
+    {
+      "Time": "2023-05-10T09:05:16.5910632+00:00",
+      "NumProgressed": 1069294,
+      "NumCompleted": 31627
     }
   ],
   "TotalAchievements": 28,
@@ -5271,7 +5276,7 @@
       "Name": "And Your Little Dog, Too!",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 352866
+      "UsersEstimate": 352867
     },
     {
       "ID": "ACH_100_RINGOUTS_DOWNSPIKE",
@@ -5279,7 +5284,7 @@
       "Name": "Ground Floor: Ringouts",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 310094
+      "UsersEstimate": 310095
     },
     {
       "ID": "ACH_100_TOASTS",
@@ -5287,7 +5292,7 @@
       "Name": "Toast Master",
       "Percentage": 41,
       "XP": 90,
-      "UsersEstimate": 438409
+      "UsersEstimate": 438411
     },
     {
       "ID": "ACH_10_DOUBLE_RINGOUTS",
@@ -5295,7 +5300,7 @@
       "Name": "Bring A Friend",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 352866
+      "UsersEstimate": 352867
     },
     {
       "ID": "ACH_10_LOW_DAMAGE_RINGOUTS",
@@ -5303,7 +5308,7 @@
       "Name": "Signature Slammer",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 459795
+      "UsersEstimate": 459796
     },
     {
       "ID": "ACH_10_RINGOUTS_BOTTOM",
@@ -5311,7 +5316,7 @@
       "Name": "Spike Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 577417
+      "UsersEstimate": 577419
     },
     {
       "ID": "ACH_10_RINGOUTS_DOWNSPIKE",
@@ -5319,7 +5324,7 @@
       "Name": "Watch Your Step",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 310094
+      "UsersEstimate": 310095
     },
     {
       "ID": "ACH_10_RINGOUTS_LEFT",
@@ -5327,7 +5332,7 @@
       "Name": "Southpaw Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 577417
+      "UsersEstimate": 577419
     },
     {
       "ID": "ACH_10_RINGOUTS_RIGHT",
@@ -5335,7 +5340,7 @@
       "Name": "Rightie Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 577417
+      "UsersEstimate": 577419
     },
     {
       "ID": "ACH_10_RINGOUTS_TOP",
@@ -5343,7 +5348,7 @@
       "Name": "Aerial Specialist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 673653
+      "UsersEstimate": 673655
     },
     {
       "ID": "ACH_10_TOASTS",
@@ -5351,7 +5356,7 @@
       "Name": "Nice Speech",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 438409
+      "UsersEstimate": 438411
     },
     {
       "ID": "ACH_25_DOUBLE_RINGOUTS",
@@ -5359,7 +5364,7 @@
       "Name": "Ringouts Are Better In Pairs",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 352866
+      "UsersEstimate": 352867
     },
     {
       "ID": "ACH_50_RINGOUTS_DOWNSPIKE",
@@ -5367,7 +5372,7 @@
       "Name": "Going Down?",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 310094
+      "UsersEstimate": 310095
     },
     {
       "ID": "ACH_5_TOASTS",
@@ -5375,7 +5380,7 @@
       "Name": "Credit Where It\u0027s Due",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 438409
+      "UsersEstimate": 438411
     },
     {
       "ID": "ACH_ACCEPT_100_REMATCHES",
@@ -5383,7 +5388,7 @@
       "Name": "Run It Back",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 64157
+      "UsersEstimate": 64158
     },
     {
       "ID": "ACH_GET_100_RINGOUTS",
@@ -5391,7 +5396,7 @@
       "Name": "Bun-Puncher Supreme",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 727117
+      "UsersEstimate": 727120
     },
     {
       "ID": "ACH_GET_200_PROJECTILE_RINGOUTS",
@@ -5399,7 +5404,7 @@
       "Name": "Distanced Damage Dealer",
       "Percentage": 42,
       "XP": 90,
-      "UsersEstimate": 449102
+      "UsersEstimate": 449103
     },
     {
       "ID": "ACH_GET_20_PROJECTILE_RINGOUTS",
@@ -5407,7 +5412,7 @@
       "Name": "Watch Your Head",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 449102
+      "UsersEstimate": 449103
     },
     {
       "ID": "ACH_GET_30_RINGOUTS",
@@ -5415,7 +5420,7 @@
       "Name": "You Mean Business",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 727117
+      "UsersEstimate": 727120
     },
     {
       "ID": "ACH_GET_50_PROJECTILE_RINGOUTS",
@@ -5423,7 +5428,7 @@
       "Name": "Catch This",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 449102
+      "UsersEstimate": 449103
     },
     {
       "ID": "ACH_GET_50_RINGOUTS",
@@ -5431,7 +5436,7 @@
       "Name": "You\u0027re Getting Pretty Good At This!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 727117
+      "UsersEstimate": 727120
     },
     {
       "ID": "ACH_PLAY_100_PARTY_MATCHES",
@@ -5439,7 +5444,7 @@
       "Name": "Life of the Party",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 384944
+      "UsersEstimate": 384946
     },
     {
       "ID": "ACH_PLAY_1_MACHMADE",
@@ -5447,7 +5452,7 @@
       "Name": "Matchmaker",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 791275
+      "UsersEstimate": 791278
     },
     {
       "ID": "ACH_PLAY_25_PARTY_MATCHES",
@@ -5455,7 +5460,7 @@
       "Name": "Social Butterfly",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 384944
+      "UsersEstimate": 384946
     },
     {
       "ID": "ACH_PLAY_500_PARTY_MATCHES",
@@ -5463,7 +5468,7 @@
       "Name": "Party Animal",
       "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 384944
+      "UsersEstimate": 384946
     },
     {
       "ID": "ACH_WIN_100_MATCHMADE_GAMES",
@@ -5471,7 +5476,7 @@
       "Name": "Proving Yourself",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 673653
+      "UsersEstimate": 673655
     },
     {
       "ID": "ACH_WIN_10_MATCHMADE_GAMES",
@@ -5479,7 +5484,7 @@
       "Name": "Stepping Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 673653
+      "UsersEstimate": 673655
     },
     {
       "ID": "ACH_WIN_300_MATCHMADE_GAMES",
@@ -5487,22 +5492,22 @@
       "Name": "The Throne Is Yours",
       "Percentage": 63,
       "XP": 90,
-      "UsersEstimate": 673653
+      "UsersEstimate": 673655
     }
   ],
   "AchievementSets": [
     {
       "ID": "dc21kim",
       "IsBase": true,
-      "Progressed": 1069290,
+      "Progressed": 1069294,
       "Completed": 31627
     }
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
   "LastChanged": "2023-05-09T05:01:37.5382734+00:00",
-  "LastChanged_Achievements": "2023-05-10T08:04:41.534636+00:00",
+  "LastChanged_Achievements": "2023-05-10T09:05:16.5910629+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:34.9053618+00:00",
-  "LastUpdate_Ratings": "2023-05-10T07:59:54.5706469+00:00",
-  "LastUpdate_Achievements": "2023-05-10T08:04:41.5346593+00:00"
+  "LastUpdate_Ratings": "2023-05-10T09:00:34.6273473+00:00",
+  "LastUpdate_Achievements": "2023-05-10T09:05:16.5910863+00:00"
 }
