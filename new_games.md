@@ -146,4 +146,3 @@
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 2023-04-10 | 2021-10-14 |
 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 2023-04-10 | 2020-06-19 |
 | [Super Smash Asteroids](games/s/super_smash_asteroids.md) | 2023-04-10 | 2023-04-30 |
-| [The Gravehouse](games/t/the_gravehouse.md) | 2023-04-09 | 2023-01-06 |
