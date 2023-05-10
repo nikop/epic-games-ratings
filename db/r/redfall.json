@@ -5,10 +5,10 @@
   "Ranking_Rating": 920,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 489,
-  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1478,
+  "EOS_Progressed": 1479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -942,6 +942,11 @@
       "Time": "2023-05-10T08:04:47.7676203+00:00",
       "NumProgressed": 1478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T16:05:20.5339615+00:00",
+      "NumProgressed": 1479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -967,9 +972,9 @@
       "ID": "Achievement_003",
       "SetID": "6b34g18",
       "Name": "Home Is Where the Heart Is",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 976
     },
     {
       "ID": "Achievement_004",
@@ -977,7 +982,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Achievement_006",
@@ -1001,7 +1006,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "Achievement_009",
@@ -1009,7 +1014,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Achievement_010",
@@ -1089,7 +1094,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "Achievement_020",
@@ -1153,7 +1158,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "Achievement_028",
@@ -1177,7 +1182,7 @@
       "Name": "ICU",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "Achievement_031",
@@ -1201,15 +1206,15 @@
       "Name": "Wounded Whispers",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 710
     },
     {
       "ID": "Achievement_035",
@@ -1473,14 +1478,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1478,
+      "Progressed": 1479,
       "Completed": 0
     }
   ],
@@ -1488,8 +1493,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-10T11:57:52.369097+00:00",
-  "LastChanged_Achievements": "2023-05-10T15:05:21.5224397+00:00",
+  "LastChanged_Achievements": "2023-05-10T16:05:20.533961+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-10T14:57:49.0961811+00:00",
-  "LastUpdate_Achievements": "2023-05-10T15:05:21.5225292+00:00"
+  "LastUpdate_Ratings": "2023-05-10T15:57:53.0500617+00:00",
+  "LastUpdate_Achievements": "2023-05-10T16:05:20.5340325+00:00"
 }

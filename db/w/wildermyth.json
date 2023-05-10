@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,7 +145,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1157,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -345,6 +345,11 @@
       "Time": "2023-05-10T09:05:28.2666574+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-10T16:05:24.3748848+00:00",
+      "NumProgressed": 1157,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -514,9 +519,9 @@
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 278
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -532,7 +537,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_mythwalker",
@@ -548,7 +553,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -572,7 +577,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "completedStory_cvawn",
@@ -658,9 +663,9 @@
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 116
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -803,15 +808,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-10T15:05:25.9457025+00:00",
+  "LastChanged_Achievements": "2023-05-10T16:05:24.3748844+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-10T15:00:50.7418129+00:00",
-  "LastUpdate_Achievements": "2023-05-10T15:05:25.9457554+00:00"
+  "LastUpdate_Ratings": "2023-05-10T16:00:26.3892592+00:00",
+  "LastUpdate_Achievements": "2023-05-10T16:05:24.3749326+00:00"
 }

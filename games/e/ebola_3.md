@@ -29,11 +29,11 @@
 | Infected ✔ | 5.00% | ~8 |
 | All secrets revealed ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~6 |
+| Mutant fight ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
-| Mutant fight ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |
 | Priest ✔ | 3.00% | ~5 |
 | Rank B+ ✔ | 3.00% | ~5 |

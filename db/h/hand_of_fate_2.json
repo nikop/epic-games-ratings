@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 655933,
+  "EOS_Progressed": 655934,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2377,6 +2377,11 @@
       "Time": "2023-05-10T15:05:21.1851707+00:00",
       "NumProgressed": 655933,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-10T16:05:20.1481943+00:00",
+      "NumProgressed": 655934,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2396,7 +2401,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380441
+      "UsersEstimate": 380442
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2652,7 +2657,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 163983
+      "UsersEstimate": 163984
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -2771,15 +2776,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655933,
+      "Progressed": 655934,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-10T15:05:21.1851684+00:00",
+  "LastChanged_Achievements": "2023-05-10T16:05:20.1481939+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.98479+00:00",
-  "LastUpdate_Ratings": "2023-05-10T14:57:33.1160931+00:00",
-  "LastUpdate_Achievements": "2023-05-10T15:05:21.1852434+00:00"
+  "LastUpdate_Ratings": "2023-05-10T15:57:39.3209861+00:00",
+  "LastUpdate_Achievements": "2023-05-10T16:05:20.1482421+00:00"
 }

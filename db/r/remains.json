@@ -2,7 +2,7 @@
   "ID": "e9f8d704869e4bd1a2d4e065c8c86f6e",
   "Name": "Remains",
   "ProductSlug": "remains-dcb937",
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 42,
@@ -120,9 +120,9 @@
       "ID": "Achievement_GarbageCollector",
       "SetID": "436h0ek",
       "Name": "Garbage collector",
-      "Percentage": 83,
+      "Percentage": 89,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_IAmSpeed",
@@ -183,8 +183,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-05-10T15:05:13.8756703+00:00",
+  "LastChanged_Achievements": "2023-05-10T16:05:13.2495759+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.1999703+00:00",
-  "LastUpdate_Ratings": "2023-05-10T14:58:16.3329682+00:00",
-  "LastUpdate_Achievements": "2023-05-10T15:05:13.875679+00:00"
+  "LastUpdate_Ratings": "2023-05-10T15:58:15.2234237+00:00",
+  "LastUpdate_Achievements": "2023-05-10T16:05:13.2495825+00:00"
 }

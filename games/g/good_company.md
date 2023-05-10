@@ -6,11 +6,11 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,316 |
+| Level: Returning Home | 49.00% | ~2,317 |
 | Returning Home: Quick Learner | 25.00% | ~1,182 |
 | Level: Charlie's Circuits | 22.00% | ~1,040 |
-| Level: Rising Markets | 9.00% | ~425 |
-| Peddler | 9.00% | ~425 |
+| Level: Rising Markets | 9.00% | ~426 |
+| Peddler | 9.00% | ~426 |
 | Level: Extra Life | 7.00% | ~331 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~331 |
 | Data Churn Type I | 7.00% | ~331 |
@@ -48,8 +48,8 @@ Number of Ratings: 75  (23.09.2022)
 | Merry-Go-Around: Self-Made | 0.70% | ~33 |
 | Trendsetter | 0.70% | ~33 |
 | Level: Eye In The Sky | 0.60% | ~28 |
-| Bet On Bots: Inspector's Favorite | 0.60% | ~28 |
 | Level: Heating-Up | 0.50% | ~24 |
+| Bet On Bots: Inspector's Favorite | 0.50% | ~24 |
 | CEO | 0.50% | ~24 |
 | Campaign: Man vs. Machine | 0.40% | ~19 |
 | Rockstar | 0.40% | ~19 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,727 (Ranked 124)  
+Progressed: 4,728 (Ranked 124)  
 Completed: 1 (0.02%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.02%) (Ranked 183)
 | 2023-05-07 | 4,718 | 1 |
 | 2023-05-08 | 4,722 | 1 |
 | 2023-05-09 | 4,725 | 1 |
-| 2023-05-10 | 4,727 | 1 |
+| 2023-05-10 | 4,728 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 49.00% | ~954 |
+| You're free now! | 50.00% | ~974 |
 | Keeping it classy | 25.00% | ~487 |
 | Welcome to the family | 18.00% | ~350 |
 | The finer things in life | 16.00% | ~312 |

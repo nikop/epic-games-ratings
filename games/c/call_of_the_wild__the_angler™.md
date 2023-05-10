@@ -6,21 +6,21 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 71.00% | ~2,445 |
-| Hey Good Hookin | 61.00% | ~2,101 |
-| I'm on a Boat! | 52.00% | ~1,791 |
-| Scaling up | 46.00% | ~1,584 |
-| Can you smell what the Rod is Hooking | 44.00% | ~1,515 |
-| More Fish in the Sea | 37.00% | ~1,274 |
-| Ready to Rod and Roll | 36.00% | ~1,240 |
-| License to Gill | 31.00% | ~1,068 |
-| Fish Out of Water | 29.00% | ~999 |
-| Things that go Splash in the Night | 25.00% | ~861 |
-| Goldfish? | 25.00% | ~861 |
-| Going for Gold | 23.00% | ~792 |
-| I'm Hooked! | 17.00% | ~585 |
+| Fish Just Got Reel | 71.00% | ~2,447 |
+| Hey Good Hookin | 61.00% | ~2,103 |
+| I'm on a Boat! | 52.00% | ~1,792 |
+| Scaling up | 46.00% | ~1,586 |
+| Can you smell what the Rod is Hooking | 44.00% | ~1,517 |
+| More Fish in the Sea | 37.00% | ~1,275 |
+| Ready to Rod and Roll | 36.00% | ~1,241 |
+| License to Gill | 31.00% | ~1,069 |
+| Fish Out of Water | 29.00% | ~1,000 |
+| Things that go Splash in the Night | 25.00% | ~862 |
+| Goldfish? | 25.00% | ~862 |
+| Going for Gold | 23.00% | ~793 |
+| I'm Hooked! | 17.00% | ~586 |
 | More than a Tourist | 13.00% | ~448 |
-| Diamond in the Rough | 12.00% | ~413 |
+| Diamond in the Rough | 12.00% | ~414 |
 | Hook, Line and Sinker | 8.00% | ~276 |
 | Marathon | 8.00% | ~276 |
 | Big Fish Small Pond | 6.00% | ~207 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,444 (Ranked 130)  
+Progressed: 3,447 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-07 | 3,425 | 0 |
 | 2023-05-08 | 3,438 | 0 |
 | 2023-05-09 | 3,443 | 0 |
-| 2023-05-10 | 3,444 | 0 |
+| 2023-05-10 | 3,447 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 433)  
 Sum: 158 (Ranked 374)  

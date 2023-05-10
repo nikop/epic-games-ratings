@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 696,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -389,6 +389,11 @@
       "Time": "2023-05-10T14:07:02.5518073+00:00",
       "NumProgressed": 695,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-10T16:05:18.0297406+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -424,7 +429,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -432,7 +437,7 @@
       "Name": "Opposing Force",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -440,7 +445,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -480,7 +485,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -552,7 +557,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -568,7 +573,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -616,7 +621,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -664,7 +669,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -776,7 +781,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -943,13 +948,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 646,
+      "Progressed": 647,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 696,
       "Completed": 2
     }
   ],
@@ -957,8 +962,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-10T15:05:18.732816+00:00",
+  "LastChanged_Achievements": "2023-05-10T16:05:18.0297402+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-10T15:00:45.7905258+00:00",
-  "LastUpdate_Achievements": "2023-05-10T15:05:18.7328986+00:00"
+  "LastUpdate_Ratings": "2023-05-10T16:00:22.4567038+00:00",
+  "LastUpdate_Achievements": "2023-05-10T16:05:18.0298078+00:00"
 }

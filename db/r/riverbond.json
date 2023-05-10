@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516075,
+  "EOS_Progressed": 516076,
   "EOS_Completed": 403,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2165,6 +2165,11 @@
       "Time": "2023-05-10T15:05:30.3107115+00:00",
       "NumProgressed": 516075,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-05-10T16:05:28.8673322+00:00",
+      "NumProgressed": 516076,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 57,
@@ -2192,7 +2197,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 361252
+      "UsersEstimate": 361253
     },
     {
       "ID": "12",
@@ -2200,7 +2205,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113536
+      "UsersEstimate": 113537
     },
     {
       "ID": "13",
@@ -2240,7 +2245,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30964
+      "UsersEstimate": 30965
     },
     {
       "ID": "18",
@@ -2256,7 +2261,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 319966
+      "UsersEstimate": 319967
     },
     {
       "ID": "2",
@@ -2312,7 +2317,7 @@
       "Name": "Owl Knows Best",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30964
+      "UsersEstimate": 30965
     },
     {
       "ID": "26",
@@ -2320,7 +2325,7 @@
       "Name": "Mind the Moose",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30964
+      "UsersEstimate": 30965
     },
     {
       "ID": "27",
@@ -2416,7 +2421,7 @@
       "Name": "Dressed to Kill",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 30964
+      "UsersEstimate": 30965
     },
     {
       "ID": "38",
@@ -2440,7 +2445,7 @@
       "Name": "Beast Mode",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 30964
+      "UsersEstimate": 30965
     },
     {
       "ID": "40",
@@ -2504,7 +2509,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 319966
+      "UsersEstimate": 319967
     },
     {
       "ID": "48",
@@ -2536,7 +2541,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 72250
+      "UsersEstimate": 72251
     },
     {
       "ID": "51",
@@ -2552,7 +2557,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237394
+      "UsersEstimate": 237395
     },
     {
       "ID": "53",
@@ -2631,15 +2636,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516075,
+      "Progressed": 516076,
       "Completed": 403
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-10T15:05:30.3107108+00:00",
+  "LastChanged_Achievements": "2023-05-10T16:05:28.8673319+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.3106863+00:00",
-  "LastUpdate_Ratings": "2023-05-10T14:57:19.1323184+00:00",
-  "LastUpdate_Achievements": "2023-05-10T15:05:30.3107847+00:00"
+  "LastUpdate_Ratings": "2023-05-10T15:57:27.2374823+00:00",
+  "LastUpdate_Achievements": "2023-05-10T16:05:28.8673919+00:00"
 }

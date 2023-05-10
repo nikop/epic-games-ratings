@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 78.00% | ~52 |
-| Augmented | 76.00% | ~51 |
-| Challenge Accepted | 63.00% | ~42 |
-| Nanonic I | 61.00% | ~41 |
-| Terminated I | 61.00% | ~41 |
-| Unlocked and Loaded | 57.00% | ~38 |
-| Terminated II | 51.00% | ~34 |
+| Rookie | 78.00% | ~53 |
+| Augmented | 76.00% | ~52 |
+| Challenge Accepted | 62.00% | ~42 |
+| Nanonic I | 62.00% | ~42 |
+| Terminated I | 62.00% | ~42 |
+| Unlocked and Loaded | 56.00% | ~38 |
+| Terminated II | 50.00% | ~34 |
 | Terminated III | 34.00% | ~23 |
-| Nanonic II | 33.00% | ~22 |
+| Nanonic II | 32.00% | ~22 |
 | Challenge Mastered | 25.00% | ~17 |
 | The City | 24.00% | ~16 |
 | Supply Run | 24.00% | ~16 |
@@ -33,7 +33,7 @@
 | Trickshot | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 266)  
+Progressed: 68 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-05 | 60 | 0 |
 | 2023-05-06 | 61 | 0 |
 | 2023-05-07 | 65 | 0 |
-| 2023-05-10 | 67 | 0 |
+| 2023-05-10 | 68 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

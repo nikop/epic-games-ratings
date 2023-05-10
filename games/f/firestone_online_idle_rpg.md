@@ -58,10 +58,10 @@ Rating: 3.48 (Ranked 917)
 | Blueprint Upgrades | 0.50% | ~5 |
 | Crystal Mining | 0.50% | ~5 |
 | Enchanting skill | 0.50% | ~5 |
+| The Alchemist | 0.50% | ~5 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
 | Lock And Load | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
-| The Alchemist | 0.40% | ~4 |
 | Transmute | 0.40% | ~4 |
 | Tree of Life | 0.40% | ~4 |
 | Gear Enchanting | 0.30% | ~3 |

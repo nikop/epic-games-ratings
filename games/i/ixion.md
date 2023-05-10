@@ -7,11 +7,11 @@ Rating: 4.54 (Ranked 477)
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 0.90% | ~17 |
 | Wakey Wakey | 0.80% | ~15 |
+| Infinite Growth... | 0.60% | ~11 |
+| Sputnik 2049 | 0.60% | ~11 |
 | A Thousand Strong | 0.60% | ~11 |
 | Ready for a New World | 0.60% | ~11 |
 | The Ship of Theseus | 0.60% | ~11 |
-| Infinite Growth... | 0.50% | ~9 |
-| Sputnik 2049 | 0.50% | ~9 |
 | Exceeding Capacity | 0.50% | ~9 |
 | Permanent Redesigns | 0.50% | ~9 |
 | Guy de Borderlands | 0.40% | ~7 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,866 (Ranked 146)  
+Progressed: 1,867 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-07 | 1,841 | 0 |
 | 2023-05-08 | 1,844 | 0 |
 | 2023-05-09 | 1,862 | 0 |
-| 2023-05-10 | 1,866 | 0 |
+| 2023-05-10 | 1,867 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
