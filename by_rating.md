@@ -127,7 +127,7 @@
 | 115 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 489 |
 | 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 489 |
 | 127 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 464 |
-| 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,883 | 61 |
+| 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,883 | 62 |
 | 127 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 85 | 340 |
 | 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,175 | 83 |
 | 127 | [Diabotical](games/d/diabotical.md) | 4.75 | 266 | 234 |
@@ -144,7 +144,6 @@
 | 140 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 489 |
 | 140 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 524 | 179 |
 | 140 | [DOOM II](games/d/doom_ii.md) | 4.74 | 25 | 462 |
-| 140 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 62 | 372 |
 | 140 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 147 |
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 589 | 166 |
 | 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,506 | 49 |
@@ -155,15 +154,16 @@
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 750 | 149 |
 | 140 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 79 | 346 |
 | 140 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 585 | 167 |
-| 156 | [Haven](games/h/haven.md) | 4.73 | 0 | 489 |
-| 156 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 549 | 172 |
-| 156 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 287 |
-| 156 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 489 |
-| 156 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 489 |
-| 156 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 489 |
-| 156 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 309 | 223 |
-| 156 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 489 |
-| 156 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 489 |
+| 155 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.73 | 62 | 372 |
+| 155 | [Haven](games/h/haven.md) | 4.73 | 0 | 489 |
+| 155 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 549 | 172 |
+| 155 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 287 |
+| 155 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 489 |
+| 155 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 489 |
+| 155 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 489 |
+| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 309 | 223 |
+| 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 489 |
+| 155 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 489 |
 | 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 455 | 188 |
 | 165 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 489 |
 | 165 | [Northgard](games/n/northgard.md) | 4.72 | 27 | 452 |
@@ -213,7 +213,7 @@
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 489 |
 | 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,947 | 8 |
 | 212 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 489 |
-| 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,746 | 76 |
+| 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,747 | 76 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 489 |
 | 212 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 489 |
 | 212 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 489 |
@@ -729,7 +729,7 @@
 | 724 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 489 |
 | 724 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 489 |
 | 724 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 489 |
-| 724 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,881 | 62 |
+| 724 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,884 | 61 |
 | 724 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 238 | 242 |
 | 724 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 489 |
 | 724 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 62 | 372 |

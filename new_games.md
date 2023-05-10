@@ -1,5 +1,7 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 2023-05-10 |
+| [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | 2023-02-01 |
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | 2023-05-10 | 2023-05-10 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 2023-02-12 |
 | [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-10 | 2023-05-08 |
@@ -52,6 +54,7 @@
 | [Lua Zombies](games/l/lua_zombies.md) | 2023-04-30 | 2023-04-30 |
 | [Active Soccer 2023](games/a/active_soccer_2023.md) | 2023-04-30 | 2023-03-29 |
 | [Battle Ram](games/b/battle_ram.md) | 2023-04-30 | 2020-03-21 |
+| [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-04-30 | 2023-04-30 |
 | [Everlasting Guilt](games/e/everlasting_guilt.md) | 2023-04-30 | 2021-07-11 |
 | [Lichenvale](games/l/lichenvale.md) | 2023-04-30 | 2023-04-30 |
 | [Lynn](games/l/lynn.md) | 2023-04-30 | 2023-04-30 |
