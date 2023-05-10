@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -4632,9 +4632,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 33292,
+  "EOS_Progressed": 33303,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5043,
+  "EOS_NewPlayers": 5029,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6387,6 +6387,11 @@
       "Time": "2023-05-10T07:05:53.8124221+00:00",
       "NumProgressed": 33292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T08:05:23.1752617+00:00",
+      "NumProgressed": 33303,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -6638,7 +6643,7 @@
       "Name": "At every continent",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_atwix_legacy",
@@ -7092,9 +7097,9 @@
       "ID": "achievement_early_modern_warfare",
       "SetID": "8p2n7he",
       "Name": "Early-Modern Warfare",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -7110,7 +7115,7 @@
       "Name": "Electable!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -7398,7 +7403,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "achievement_grand_coalition",
@@ -8678,7 +8683,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -8934,7 +8939,7 @@
       "Name": "Time Bandit",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_to_the_bone",
@@ -9014,7 +9019,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_turkish_delight",
@@ -9062,7 +9067,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2996
+      "UsersEstimate": 2997
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -9094,7 +9099,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -9229,21 +9234,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 33292,
+      "Progressed": 33303,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 33292,
+      "Progressed": 33303,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-09T22:57:06.9647086+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:53.8124217+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:05:23.1752612+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.1468914+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:56:59.131581+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:53.8133942+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:57:12.7934889+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:05:23.1762496+00:00"
 }

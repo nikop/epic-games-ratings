@@ -1,10 +1,10 @@
 {
   "ID": "199e9b6553cc49e7949112684af1b16d",
   "Name": "Dovekie",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:06.1098403+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:57:14.8302973+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:02:04.3461337+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:57:25.2338862+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:00:26.7950847+00:00"
 }

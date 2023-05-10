@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -832,7 +832,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 655918,
+  "EOS_Progressed": 655919,
   "EOS_Completed": 164,
   "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
@@ -2342,6 +2342,11 @@
       "Time": "2023-05-10T07:05:13.2078416+00:00",
       "NumProgressed": 655918,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-10T08:04:47.4831687+00:00",
+      "NumProgressed": 655919,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2353,7 +2358,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472261
+      "UsersEstimate": 472262
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2361,7 +2366,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380432
+      "UsersEstimate": 380433
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2393,7 +2398,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52473
+      "UsersEstimate": 52474
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -2521,7 +2526,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52473
+      "UsersEstimate": 52474
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -2577,7 +2582,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52473
+      "UsersEstimate": 52474
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -2649,7 +2654,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52473
+      "UsersEstimate": 52474
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -2736,15 +2741,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 655918,
+      "Progressed": 655919,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:13.2078412+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:04:47.4831685+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.98479+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:57:14.8803967+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:13.2078786+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:57:25.3046872+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:04:47.4832189+00:00"
 }

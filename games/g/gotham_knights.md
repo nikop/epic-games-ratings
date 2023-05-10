@@ -11,6 +11,7 @@ Rating: 4.17 (Ranked 831)
 | Something in the Clay | 0.30% | ~182 |
 | The Show Mud Go On | 0.30% | ~182 |
 | Rock and a Hard Place | 0.30% | ~182 |
+| Bulldozed | 0.30% | ~182 |
 | Shock Til They Drop | 0.30% | ~182 |
 | To the Victor Go the Spoils | 0.30% | ~182 |
 | Quartzer Life Crisis | 0.30% | ~182 |
@@ -34,7 +35,6 @@ Rating: 4.17 (Ranked 831)
 | The Batman Family | 0.20% | ~122 |
 | Fusion Expert | 0.20% | ~122 |
 | Not On My Watch | 0.20% | ~122 |
-| Bulldozed | 0.20% | ~122 |
 | Out of Their League | 0.20% | ~122 |
 | Family Meeting | 0.20% | ~122 |
 | Drone You Out | 0.20% | ~122 |
@@ -89,12 +89,12 @@ Completed: 90 (0.15%) (Ranked 144)
 | 2023-05-09 | 60,761 | 89 |
 | 2023-05-10 | 60,771 | 90 |
 ## Awards
-Max (Great Boss Battles): 2,201  (Ranked 99)  
-Sum: 3,647 (Ranked 137)  
+Max (Great Boss Battles): 2,204  (Ranked 99)  
+Sum: 3,650 (Ranked 137)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,201 |
+| This game has Great Boss Battles | 2,204 |
 | This game is Extremely Fun | 190 |
 | This game is Relaxing | 188 |
 | This game has Quickly Understood Controls | 185 |
@@ -186,3 +186,4 @@ Diff (max vs sum): -38
 | 2023-05-07 | 4.17 | 2,196 | 3,633 |
 | 2023-05-08 | 4.17 | 2,201 | 3,640 |
 | 2023-05-09 | 4.17 | 2,201 | 3,647 |
+| 2023-05-10 | 4.17 | 2,204 | 3,650 |

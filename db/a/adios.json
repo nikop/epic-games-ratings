@@ -42,9 +42,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55074,
+  "EOS_Progressed": 55075,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1400,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1797,6 +1797,11 @@
       "Time": "2023-05-10T07:05:51.8362785+00:00",
       "NumProgressed": 55074,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-05-10T08:05:21.1667442+00:00",
+      "NumProgressed": 55075,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 25,
@@ -1816,7 +1821,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "Adios, Friendo",
@@ -1832,7 +1837,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "Be Seeing You",
@@ -1928,7 +1933,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9913
+      "UsersEstimate": 9914
     },
     {
       "ID": "Nice Try",
@@ -1952,7 +1957,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5507
+      "UsersEstimate": 5508
     },
     {
       "ID": "Right On Target",
@@ -2007,7 +2012,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 55074,
+      "Progressed": 55075,
       "Completed": 442
     }
   ],
@@ -2015,8 +2020,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-08T21:02:08.2864781+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:51.8362784+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:05:21.1667434+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:31.9453874+00:00",
-  "LastUpdate_Ratings": "2023-05-10T07:00:12.1670522+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:51.8362991+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:59:50.8444976+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:05:21.1667657+00:00"
 }

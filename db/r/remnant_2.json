@@ -2,10 +2,10 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T17:01:07.6397828+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:59:45.7814577+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:04:33.4242036+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:59:29.6865865+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:04:14.1919053+00:00"
 }

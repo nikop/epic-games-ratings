@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | So far so good... | 80.00% | ~8 |
 | Getting somewhere | 70.00% | ~7 |
+| Top notch! | 70.00% | ~7 |
 | Slay it! | 60.00% | ~6 |
-| Top notch! | 60.00% | ~6 |
 | Poor things... | 50.00% | ~5 |
 | Lives lost | 50.00% | ~5 |
 | Bling bling! | 50.00% | ~5 |

@@ -10,6 +10,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Spells and Swords | 0.40% | ~86 |
 | Harvest and Home | 0.30% | ~64 |
 | Poise and Poisons | 0.30% | ~64 |
+| Hands and Hammers | 0.20% | ~43 |
 | Suns and Soldiers | 0.20% | ~43 |
 | No Harm in Looking | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~21 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.10% | ~21 |
 | For Glory | 0.10% | ~21 |
 | For Wrath | 0.10% | ~21 |
-| Hands and Hammers | 0.10% | ~21 |
 | For Greed | 0.10% | ~21 |
 | King and Kin | 0.10% | ~21 |
 | For Survival | 0.10% | ~21 |

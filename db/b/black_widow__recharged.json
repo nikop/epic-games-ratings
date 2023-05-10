@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13945,
+  "EOS_Progressed": 13946,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1479,6 +1479,11 @@
       "Time": "2023-05-10T06:05:04.6764129+00:00",
       "NumProgressed": 13945,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-10T08:05:20.6091983+00:00",
+      "NumProgressed": 13946,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 14,
@@ -1506,7 +1511,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -1554,7 +1559,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -1601,15 +1606,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 13945,
+      "Progressed": 13946,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:51.1903636+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:05:20.6091979+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:28.2137622+00:00",
-  "LastUpdate_Ratings": "2023-05-10T07:00:07.6060862+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:51.1903776+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:59:46.9387595+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:05:20.6092124+00:00"
 }

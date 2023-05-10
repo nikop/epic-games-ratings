@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1055,7 +1055,7 @@
   ],
   "EOS_Progressed": 21483,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1983,9 +1983,9 @@
       "ID": "BossCaveDefeated",
       "SetID": "3ojhj46",
       "Name": "Hands and Hammers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 43
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -2213,8 +2213,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-06T20:00:16.7467137+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:34.4517409+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:05:05.9019589+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.4659285+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:58:50.6215478+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:34.451766+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:58:43.3998361+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:05:05.9019855+00:00"
 }

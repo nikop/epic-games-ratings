@@ -972,18 +972,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3647,
       "NumberOfAwardsMax": 2201
+    },
+    {
+      "Time": "2023-05-10T07:59:13.3199678+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3650,
+      "NumberOfAwardsMax": 2204
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3647,
-  "NumberOfAwardsMax": 2201,
+  "NumberOfAwards": 3650,
+  "NumberOfAwardsMax": 2204,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2201
+      "Count": 2204
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1042,7 +1048,7 @@
   ],
   "EOS_Progressed": 60771,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2370,9 +2376,9 @@
       "ID": "DEFEAT_FREAKS_1",
       "SetID": "4eo5ebm",
       "Name": "Bulldozed",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 182
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -2696,9 +2702,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-09T10:00:51.8031935+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:48.836388+00:00",
+  "LastChanged": "2023-05-10T07:59:13.3199676+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:05:18.5500549+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:59:27.1851687+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:48.8364466+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:59:13.3199681+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:05:18.5501044+00:00"
 }

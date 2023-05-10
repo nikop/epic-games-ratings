@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
 | Treasure Hunters | 0.20% | ~174 |
+| Flies on the Wall | 0.20% | ~174 |
 | Backtracking Through Barovia | 0.20% | ~174 |
 | Nimble Escape | 0.20% | ~174 |
 | Fugitives | 0.20% | ~174 |
@@ -286,7 +287,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.10% | ~87 |
 | A Saurial's Resolve | 0.10% | ~87 |
 | Spirit of the Trickster Gods | 0.10% | ~53 |
-| Flies on the Wall | 0.10% | ~87 |
 | The Killer Mists | 0.10% | ~87 |
 | Class Vacation | 0.10% | ~87 |
 | A Nod from Strahd | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,028 (Ranked 59)  
+Progressed: 87,031 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,028 | 1,821 |
+| 2023-05-10 | 87,031 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,842 (Ranked 37)  

@@ -6,7 +6,7 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~4,656 |
+| Conqueror | 40.00% | ~4,657 |
 | Battering Crew | 21.00% | ~2,445 |
 | The Kingsroad | 19.00% | ~2,212 |
 | Well Stocked | 15.00% | ~1,746 |
@@ -20,16 +20,16 @@ Number of Ratings: 2,500  (23.09.2022)
 | A Long Journey | 8.00% | ~931 |
 | Ours is the Fury | 7.00% | ~815 |
 | We Do Not Sow | 7.00% | ~815 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~698 |
-| Hear me Roar! | 6.00% | ~698 |
-| Defender of the Wall | 6.00% | ~698 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~699 |
+| Hear me Roar! | 6.00% | ~699 |
+| Defender of the Wall | 6.00% | ~699 |
 | Growing Strong | 5.00% | ~582 |
 | What is Dead may Never Die | 3.00% | ~349 |
 | The Swift | 3.00% | ~349 |
 | King in the North | 2.00% | ~233 |
 | War of the Five Kings | 1.00% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,641 (Ranked 103)  
+Progressed: 11,642 (Ranked 103)  
 Completed: 23 (0.20%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 23 (0.20%) (Ranked 136)
 | 2023-05-07 | 11,427 | 23 |
 | 2023-05-08 | 11,537 | 23 |
 | 2023-05-09 | 11,625 | 23 |
-| 2023-05-10 | 11,641 | 23 |
+| 2023-05-10 | 11,642 | 23 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 298)  
 Sum: 779 (Ranked 250)  

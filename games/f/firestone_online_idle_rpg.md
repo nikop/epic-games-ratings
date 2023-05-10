@@ -52,18 +52,18 @@ Rating: 3.48 (Ranked 917)
 | What lies behind the bush | 1.00% | ~9 |
 | Weekly Quest Completionist | 0.70% | ~7 |
 | Dragon Slayer | 0.60% | ~6 |
+| Engineer Mastery | 0.60% | ~6 |
 | Sailor | 0.60% | ~6 |
+| Blueprint Upgrades | 0.50% | ~5 |
+| Crystal Mining | 0.50% | ~5 |
 | Enchanting skill | 0.50% | ~5 |
-| Engineer Mastery | 0.50% | ~5 |
 | Legendary | 0.50% | ~5 |
-| Blueprint Upgrades | 0.40% | ~4 |
-| Crystal Mining | 0.40% | ~4 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
+| Lock And Load | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
 | The Alchemist | 0.40% | ~4 |
 | Transmute | 0.40% | ~4 |
 | Tree of Life | 0.40% | ~4 |
-| Lock And Load | 0.30% | ~3 |
 | Training makes a Pro player | 0.30% | ~3 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |

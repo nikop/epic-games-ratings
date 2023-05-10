@@ -2,10 +2,10 @@
   "ID": "3b5b3310fcb74963b8d4ec489cd74291",
   "Name": "The Temple of Archimagus Hatabus",
   "ProductSlug": "ancient_temple-7c94d5",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-03-20T22:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-06T21:58:46.0016068+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:56:49.7462101+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:00:49.6070811+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:57:05.4611496+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:00:23.6991619+00:00"
 }

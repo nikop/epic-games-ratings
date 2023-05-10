@@ -2,10 +2,10 @@
   "ID": "819b03da6120456fb7976c94a99d306f",
   "Name": "The Land of Pain",
   "ProductSlug": "the-land-of-pain-d6a3ed",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-02T19:00:00+00:00",
     "PcReleaseDate": "2017-09-13T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.0700343+00:00",
   "LastChanged": "2023-03-31T05:58:02.0700344+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:47.545748+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:58:14.5930647+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:02:07.5628724+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:58:13.5174402+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:00:29.3794634+00:00"
 }

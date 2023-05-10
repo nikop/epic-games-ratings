@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37805,
+  "EOS_Progressed": 37809,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1379,6 +1379,11 @@
       "Time": "2023-05-10T06:04:45.7964549+00:00",
       "NumProgressed": 37805,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T08:05:01.4176284+00:00",
+      "NumProgressed": 37809,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1438,7 +1443,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3402
+      "UsersEstimate": 3403
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -1542,7 +1547,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "CUFF_ATTACK",
@@ -1582,7 +1587,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -1630,7 +1635,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -1678,7 +1683,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -1702,7 +1707,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -1726,7 +1731,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3024
+      "UsersEstimate": 3025
     },
     {
       "ID": "SPRING_ALL",
@@ -1813,22 +1818,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37805,
+      "Progressed": 37809,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2642,
-      "Completed": 2642
+      "Progressed": 2646,
+      "Completed": 2646
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-08T09:00:28.4742824+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:29.2841394+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:05:01.4176279+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:58:16.7846638+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:29.2841809+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:58:15.3051089+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:05:01.4176677+00:00"
 }

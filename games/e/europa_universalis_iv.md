@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~2,996 |
-| That's a Grand Army | 8.00% | ~2,663 |
-| That is mine! | 8.00% | ~2,663 |
-| Victorious! | 8.00% | ~2,663 |
+| Until death do us apart | 9.00% | ~2,997 |
+| That's a Grand Army | 8.00% | ~2,664 |
+| That is mine! | 8.00% | ~2,664 |
+| Victorious! | 8.00% | ~2,664 |
 | Brothers in Arms | 6.00% | ~1,998 |
 | That's a Grand Navy | 6.00% | ~1,998 |
 | Seriously?! | 6.00% | ~1,998 |
@@ -43,12 +43,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.70% | ~233 |
 | This navy can take it all | 0.70% | ~233 |
 | Down Under | 0.60% | ~200 |
-| At every continent | 0.50% | ~166 |
-| Electable! | 0.50% | ~166 |
-| Time Bandit | 0.50% | ~166 |
-| Trustworthy | 0.50% | ~166 |
+| At every continent | 0.50% | ~167 |
+| Early-Modern Warfare | 0.50% | ~167 |
+| Electable! | 0.50% | ~167 |
+| Time Bandit | 0.50% | ~167 |
+| Trustworthy | 0.50% | ~167 |
 | All belongs to Mother Russia | 0.40% | ~133 |
-| Early-Modern Warfare | 0.40% | ~133 |
 | One Family to Rule them All | 0.40% | ~133 |
 | The Continuation of Diplomacy | 0.40% | ~133 |
 | The pen is mightier than the sword | 0.40% | ~133 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,292 (Ranked 81)  
+Progressed: 33,303 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,7 +381,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 32,029 | 0 |
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
-| 2023-05-10 | 33,292 | 0 |
+| 2023-05-10 | 33,303 | 0 |
 ## Awards
 Max (Educational): 5,201  (Ranked 60)  
 Sum: 43,010 (Ranked 27)  

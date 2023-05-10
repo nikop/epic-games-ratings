@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -3811,10 +3811,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 12950,
       "NumberOfAwardsMax": 6500
+    },
+    {
+      "Time": "2023-05-10T07:59:11.1639516+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12952,
+      "NumberOfAwardsMax": 6500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12950,
+  "NumberOfAwards": 12952,
   "NumberOfAwardsMax": 6500,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3834,7 +3840,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 727
+      "Count": 729
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3891,7 +3897,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49389,
+  "EOS_Progressed": 49390,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 0,
@@ -5541,6 +5547,11 @@
       "Time": "2023-05-10T07:05:46.649469+00:00",
       "NumProgressed": 49389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T08:05:16.6799288+00:00",
+      "NumProgressed": 49390,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5720,7 +5731,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "I spit on your grave",
@@ -5760,7 +5771,7 @@
       "Name": "Know your enemy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "Lance-a-lot",
@@ -5912,7 +5923,7 @@
       "Name": "This Is Our Land",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "This is Sparta",
@@ -5959,15 +5970,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49389,
+      "Progressed": 49390,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-09T21:00:40.0812296+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:46.6494687+00:00",
+  "LastChanged": "2023-05-10T07:59:11.1639515+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:05:16.6799284+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:59:25.454898+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:46.6495094+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:59:11.1639521+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:05:16.6799698+00:00"
 }

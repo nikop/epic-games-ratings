@@ -14,7 +14,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Trained | 19.00% | ~9,384 |
 | The king is pleased | 16.00% | ~7,902 |
 | King Solomon | 15.00% | ~7,408 |
-| I can do it | 14.00% | ~6,914 |
+| I can do it | 14.00% | ~6,915 |
 | Apple of my eye | 13.00% | ~6,421 |
 | God of the Arena | 12.00% | ~5,927 |
 | Against all odds | 9.00% | ~4,445 |
@@ -25,8 +25,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 8.00% | ~3,951 |
 | Butterlord | 7.00% | ~3,457 |
 | Mastery | 6.00% | ~2,963 |
-| Know your enemy | 5.00% | ~2,469 |
-| This Is Our Land | 5.00% | ~2,469 |
+| Know your enemy | 5.00% | ~2,470 |
+| This Is Our Land | 5.00% | ~2,470 |
 | Crush your enemies | 4.00% | ~1,976 |
 | My way | 4.00% | ~1,976 |
 | Veni vidi vici | 4.00% | ~1,976 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,389 (Ranked 73)  
+Progressed: 49,390 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,10 +78,10 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 49,168 | 0 |
 | 2023-05-08 | 49,259 | 0 |
 | 2023-05-09 | 49,375 | 0 |
-| 2023-05-10 | 49,389 | 0 |
+| 2023-05-10 | 49,390 | 0 |
 ## Awards
 Max (Character Customization): 6,500  (Ranked 49)  
-Sum: 12,950 (Ranked 68)  
+Sum: 12,952 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -89,7 +89,7 @@ Diff (max vs sum): -19
 | This game is Great for Beginners | 799 |
 | This game has Diverse Characters | 795 |
 | This game is Highly Recommended | 764 |
-| This game is Extremely Fun | 727 |
+| This game is Extremely Fun | 729 |
 | This game has Amazing Storytelling | 721 |
 | This game has Quickly Understood Controls | 717 |
 | This game has Amazing Characters | 710 |
@@ -215,3 +215,4 @@ Diff (max vs sum): -19
 | 2023-05-07 | 4.74 | - | 6,493 | 12,930 |
 | 2023-05-08 | 4.74 | - | 6,493 | 12,936 |
 | 2023-05-09 | 4.74 | - | 6,500 | 12,950 |
+| 2023-05-10 | 4.74 | - | 6,500 | 12,952 |

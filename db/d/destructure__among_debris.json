@@ -339,9 +339,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "easy_victory",
@@ -435,9 +435,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "scrap_collector",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-10T07:05:44.9681079+00:00",
+  "LastChanged_Achievements": "2023-05-10T08:05:15.1419033+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-10T06:59:40.718217+00:00",
-  "LastUpdate_Achievements": "2023-05-10T07:05:44.968125+00:00"
+  "LastUpdate_Ratings": "2023-05-10T07:59:25.5875526+00:00",
+  "LastUpdate_Achievements": "2023-05-10T08:05:15.1419211+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,238 |
-| Now You're Talking | 62.00% | ~319,953 |
-| Steel Yourself | 62.00% | ~319,953 |
-| Window Dressing | 50.00% | ~258,027 |
-| Trigger Happy | 46.00% | ~237,385 |
-| Riverborn | 45.00% | ~232,224 |
-| Starry Eyed | 34.00% | ~175,458 |
-| Poking Around | 34.00% | ~175,458 |
-| Talk of the Town | 24.00% | ~123,853 |
-| AAARR! | 23.00% | ~118,692 |
-| Hello Darkness | 23.00% | ~118,692 |
-| Wind At Our Backs | 22.00% | ~113,532 |
-| To the Beat | 20.00% | ~103,211 |
-| Sunny Shores | 17.00% | ~87,729 |
-| To Victory! | 15.00% | ~77,408 |
-| Sunday Best | 15.00% | ~77,408 |
+| First Step | 70.00% | ~361,241 |
+| Now You're Talking | 62.00% | ~319,956 |
+| Steel Yourself | 62.00% | ~319,956 |
+| Window Dressing | 50.00% | ~258,029 |
+| Trigger Happy | 46.00% | ~237,387 |
+| Riverborn | 45.00% | ~232,226 |
+| Starry Eyed | 34.00% | ~175,460 |
+| Poking Around | 34.00% | ~175,460 |
+| Talk of the Town | 24.00% | ~123,854 |
+| AAARR! | 23.00% | ~118,693 |
+| Hello Darkness | 23.00% | ~118,693 |
+| Wind At Our Backs | 22.00% | ~113,533 |
+| To the Beat | 20.00% | ~103,212 |
+| Sunny Shores | 17.00% | ~87,730 |
+| To Victory! | 15.00% | ~77,409 |
+| Sunday Best | 15.00% | ~77,409 |
 | Two of a Kind | 14.00% | ~72,248 |
-| Keep On Trucking | 13.00% | ~67,087 |
+| Keep On Trucking | 13.00% | ~67,088 |
 | Going on an Adventure | 11.00% | ~56,766 |
 | Make Peace, Not War | 11.00% | ~56,766 |
-| Walking The Line | 10.00% | ~51,605 |
-| Not So Cute Anymore | 10.00% | ~51,605 |
+| Walking The Line | 10.00% | ~51,606 |
+| Not So Cute Anymore | 10.00% | ~51,606 |
 | Road Less Travelled | 9.00% | ~46,445 |
 | Lost and Found | 9.00% | ~46,445 |
 | Partner in Crime | 7.00% | ~36,124 |
@@ -60,11 +60,11 @@ Number of Ratings: 617  (23.09.2022)
 | Words of Truth | 1.00% | ~5,161 |
 | Don't Care | 1.00% | ~5,161 |
 | Don’t Get Crabby | 1.00% | ~5,161 |
-| Written in the Stars | 0.90% | ~4,644 |
+| Written in the Stars | 0.90% | ~4,645 |
 | Boss of All Bosses | 0.30% | ~1,548 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,054 (Ranked 24)  
+Progressed: 516,058 (Ranked 24)  
 Completed: 403 (0.08%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 403 (0.08%) (Ranked 162)
 | 2023-05-07 | 515,871 | 402 |
 | 2023-05-08 | 515,966 | 403 |
 | 2023-05-09 | 516,037 | 403 |
-| 2023-05-10 | 516,054 | 403 |
+| 2023-05-10 | 516,058 | 403 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

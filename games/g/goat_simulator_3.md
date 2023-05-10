@@ -68,7 +68,7 @@ Completed: 686 (0.32%) (Ranked 119)
 | 2023-05-10 | 216,293 | 686 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 222)  
-Sum: 2,650 (Ranked 161)  
+Sum: 2,653 (Ranked 161)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -81,7 +81,7 @@ Diff (max vs sum): 61
 | This game is Extremely Fun | 258 |
 | This game has Amazing Storytelling | 255 |
 | This game has a Silly Community | 233 |
-| This game has Easy Combat | 221 |
+| This game has Easy Combat | 224 |
 | This game is Educational | 158 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -135,4 +135,4 @@ Diff (max vs sum): 61
 | 2023-05-07 | 4.85 | 308 | 2,634 |
 | 2023-05-08 | 4.85 | 311 | 2,643 |
 | 2023-05-09 | 4.85 | 311 | 2,648 |
-| 2023-05-10 | 4.85 | 311 | 2,650 |
+| 2023-05-10 | 4.85 | 311 | 2,653 |

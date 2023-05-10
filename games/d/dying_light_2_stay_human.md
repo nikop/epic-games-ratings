@@ -6,31 +6,31 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~48,992 |
-| Into the Unknown | 8.00% | ~43,548 |
-| First Shot | 8.00% | ~43,548 |
-| Herzlich Wilkommen! | 7.00% | ~38,105 |
-| Sancho Panza | 7.00% | ~38,105 |
-| Good Night & Good Luck | 7.00% | ~38,105 |
-| Under Pressure | 6.00% | ~32,661 |
-| Flag Burning | 6.00% | ~32,661 |
-| Oh, So This Is How It Works! | 6.00% | ~32,661 |
-| Night Hunter | 6.00% | ~32,661 |
+| You Never Forget Your First... | 9.00% | ~48,993 |
+| Into the Unknown | 8.00% | ~43,549 |
+| First Shot | 8.00% | ~43,549 |
+| Herzlich Wilkommen! | 7.00% | ~38,106 |
+| Sancho Panza | 7.00% | ~38,106 |
+| Good Night & Good Luck | 7.00% | ~38,106 |
+| Under Pressure | 6.00% | ~32,662 |
+| Flag Burning | 6.00% | ~32,662 |
+| Oh, So This Is How It Works! | 6.00% | ~32,662 |
+| Night Hunter | 6.00% | ~32,662 |
 | On the Trail of the Enemy | 5.00% | ~27,218 |
 | Light in the Darkness | 5.00% | ~27,218 |
 | Get Outta My House! | 5.00% | ~27,218 |
 | It Wasn't That Hard, Was It? | 5.00% | ~27,218 |
 | Being All Social | 5.00% | ~27,218 |
-| Debris and Ashes | 4.00% | ~21,774 |
-| We Will Be Heard! | 4.00% | ~21,774 |
-| Known Associate | 4.00% | ~21,774 |
-| Brush with Death | 4.00% | ~21,774 |
-| Going Down | 4.00% | ~21,774 |
-| Family First | 4.00% | ~21,774 |
-| Your World, Your Rules | 4.00% | ~21,774 |
-| Tunnel Entrance | 4.00% | ~21,774 |
-| After the Fall | 4.00% | ~21,774 |
-| Can't Touch This! | 4.00% | ~21,774 |
+| Debris and Ashes | 4.00% | ~21,775 |
+| We Will Be Heard! | 4.00% | ~21,775 |
+| Known Associate | 4.00% | ~21,775 |
+| Brush with Death | 4.00% | ~21,775 |
+| Going Down | 4.00% | ~21,775 |
+| Family First | 4.00% | ~21,775 |
+| Your World, Your Rules | 4.00% | ~21,775 |
+| Tunnel Entrance | 4.00% | ~21,775 |
+| After the Fall | 4.00% | ~21,775 |
+| Can't Touch This! | 4.00% | ~21,775 |
 | Death From Afar | 3.00% | ~16,331 |
 | Terminal Headache | 3.00% | ~16,331 |
 | Slowpoke! | 3.00% | ~16,331 |
@@ -49,8 +49,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Enter the Hall | 0.90% | ~1,708 |
 | That's Teamwork! | 0.80% | ~4,355 |
 | Fit as a Fiddle | 0.80% | ~4,355 |
-| Find Anything Interesting? | 0.70% | ~3,810 |
-| Boot Licker | 0.70% | ~3,810 |
+| Find Anything Interesting? | 0.70% | ~3,811 |
+| Boot Licker | 0.70% | ~3,811 |
 | Night of Terrors | 0.70% | ~1,329 |
 | Get the Point? | 0.60% | ~3,266 |
 | My Friend, Ciro | 0.60% | ~1,139 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~190 |
 | Connoisseur | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,353 (Ranked 22)  
+Progressed: 544,368 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 46 (0.01%) (Ranked 189)
 | 2023-05-07 | 542,868 | 46 |
 | 2023-05-08 | 543,600 | 46 |
 | 2023-05-09 | 544,236 | 46 |
-| 2023-05-10 | 544,353 | 46 |
+| 2023-05-10 | 544,368 | 46 |
 ## Awards
 Max (Character Customization): 6,965  (Ranked 44)  
 Sum: 16,146 (Ranked 58)  

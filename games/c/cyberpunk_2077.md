@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,279 |
-| Right Back At Ya | 37.00% | ~295,602 |
-| The Lovers | 32.00% | ~255,656 |
-| Stanislavski's Method | 27.00% | ~215,709 |
-| The Wheel of Fortune | 25.00% | ~199,731 |
+| The Fool | 67.00% | ~535,282 |
+| Right Back At Ya | 37.00% | ~295,603 |
+| The Lovers | 32.00% | ~255,657 |
+| Stanislavski's Method | 27.00% | ~215,711 |
+| The Wheel of Fortune | 25.00% | ~199,732 |
 | The Hermit | 23.00% | ~183,753 |
-| True Soldier | 22.00% | ~175,763 |
-| Christmas Tree Attack | 21.00% | ~167,774 |
-| The High Priestess | 20.00% | ~159,785 |
-| Legend of The Afterlife | 20.00% | ~159,785 |
+| True Soldier | 22.00% | ~175,764 |
+| Christmas Tree Attack | 21.00% | ~167,775 |
+| The High Priestess | 20.00% | ~159,786 |
+| Legend of The Afterlife | 20.00% | ~159,786 |
 | Life of the Road | 19.00% | ~151,796 |
-| Full Body Conversion | 17.00% | ~135,817 |
+| Full Body Conversion | 17.00% | ~135,818 |
 | The World | 16.00% | ~127,828 |
 | Bushido and Chill | 15.00% | ~119,839 |
-| True Warrior | 14.00% | ~111,849 |
-| To Protect and Serve | 13.00% | ~103,860 |
-| Gun Fu | 13.00% | ~103,860 |
-| Master Crafter | 13.00% | ~103,860 |
-| I Am The Law | 13.00% | ~103,860 |
-| Judy vs Night City | 13.00% | ~103,860 |
+| True Warrior | 14.00% | ~111,850 |
+| To Protect and Serve | 13.00% | ~103,861 |
+| Gun Fu | 13.00% | ~103,861 |
+| Master Crafter | 13.00% | ~103,861 |
+| I Am The Law | 13.00% | ~103,861 |
+| Judy vs Night City | 13.00% | ~103,861 |
 | Two Heads, One Bullet | 11.00% | ~87,882 |
-| The Wandering Fool | 9.00% | ~71,903 |
-| The Quick and the Dead | 9.00% | ~71,903 |
+| The Wandering Fool | 9.00% | ~71,904 |
+| The Quick and the Dead | 9.00% | ~71,904 |
 | Ten out of Ten | 8.00% | ~63,914 |
 | Breathtaking | 7.00% | ~55,925 |
-| To Bad Decisions! | 6.00% | ~47,935 |
-| The Star | 6.00% | ~47,935 |
-| The Sun | 6.00% | ~47,935 |
+| To Bad Decisions! | 6.00% | ~47,936 |
+| The Star | 6.00% | ~47,936 |
+| The Sun | 6.00% | ~47,936 |
 | Must Be Rats | 4.00% | ~31,957 |
 | Temperance | 4.00% | ~31,957 |
 | City Lights | 3.00% | ~23,968 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~23,968 |
 | V for Vendetta | 3.00% | ~23,968 |
 | It's Elementary | 3.00% | ~23,968 |
-| Autojock | 2.00% | ~15,978 |
-| The Wasteland | 2.00% | ~15,978 |
-| Daemon In The Shell | 2.00% | ~15,978 |
-| The Devil | 2.00% | ~15,978 |
+| Autojock | 2.00% | ~15,979 |
+| The Wasteland | 2.00% | ~15,979 |
+| Daemon In The Shell | 2.00% | ~15,979 |
+| The Devil | 2.00% | ~15,979 |
 | Gunslinger | 1.00% | ~7,989 |
 | Rough Landing | 0.40% | ~3,196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798,924 (Ranked 11)  
+Progressed: 798,928 (Ranked 11)  
 Completed: 1,584 (0.20%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 1,584 (0.20%) (Ranked 136)
 | 2023-05-07 | 798,560 | 1,577 |
 | 2023-05-08 | 798,732 | 1,580 |
 | 2023-05-09 | 798,891 | 1,584 |
-| 2023-05-10 | 798,924 | 1,584 |
+| 2023-05-10 | 798,928 | 1,584 |
 ## Awards
 Max (Character Customization): 63,904  (Ranked 9)  
 Sum: 167,399 (Ranked 13)  
