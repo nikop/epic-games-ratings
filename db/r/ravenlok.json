@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
-  "EOS_Completed": 35,
-  "EOS_NewPlayers": 504,
-  "EOS_NewCompleters": 28,
-  "EOS_Completed_Percentage": 6.19,
+  "EOS_Progressed": 566,
+  "EOS_Completed": 36,
+  "EOS_NewPlayers": 498,
+  "EOS_NewCompleters": 29,
+  "EOS_Completed_Percentage": 6.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -842,6 +842,11 @@
       "Time": "2023-05-10T17:05:57.4438369+00:00",
       "NumProgressed": 565,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-10T19:06:25.1804249+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 50,
@@ -853,7 +858,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "10",
@@ -923,9 +928,9 @@
       "ID": "18",
       "SetID": "d0g98p",
       "Name": "Surprise!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "19",
@@ -933,7 +938,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "2",
@@ -941,7 +946,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "20",
@@ -987,9 +992,9 @@
       "ID": "25",
       "SetID": "d0g98p",
       "Name": "Trick Question!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 158
     },
     {
       "ID": "26",
@@ -997,7 +1002,7 @@
       "Name": "Ancient Wisdom",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "27",
@@ -1005,7 +1010,7 @@
       "Name": "Frog Facts!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "28",
@@ -1021,7 +1026,7 @@
       "Name": "All That Glistens",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "3",
@@ -1061,7 +1066,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "34",
@@ -1099,9 +1104,9 @@
       "ID": "38",
       "SetID": "d0g98p",
       "Name": "Max Level!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 74
     },
     {
       "ID": "39",
@@ -1115,17 +1120,17 @@
       "ID": "4",
       "SetID": "d0g98p",
       "Name": "A Prophecy",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 481
     },
     {
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "41",
@@ -1141,7 +1146,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "43",
@@ -1149,7 +1154,7 @@
       "Name": "An Actor!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "44",
@@ -1157,7 +1162,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "45",
@@ -1219,17 +1224,17 @@
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 153
     },
     {
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 345
     },
     {
       "ID": "8",
@@ -1252,16 +1257,16 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 565,
-      "Completed": 35
+      "Progressed": 566,
+      "Completed": 36
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:05:57.4438366+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:06:25.1804246+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:57:28.3268195+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:05:57.4438825+00:00"
+  "LastUpdate_Ratings": "2023-05-10T18:58:53.2657951+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:06:25.180473+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 456,
+  "Ranking_Popularity": 439,
+  "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 116,
@@ -298,7 +298,7 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 6110,
+  "EOS_Progressed": 6111,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -1213,6 +1213,11 @@
       "Time": "2023-05-10T17:06:06.4498378+00:00",
       "NumProgressed": 6110,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-10T19:06:31.9255605+00:00",
+      "NumProgressed": 6111,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1384,7 +1389,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ACH22",
@@ -1400,7 +1405,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "ACH24",
@@ -1495,7 +1500,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6110,
+      "Progressed": 6111,
       "Completed": 20
     }
   ],
@@ -1503,8 +1508,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-10T14:00:23.0311692+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:06:06.4498373+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:06:31.9255602+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:58:28.1257662+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:06:06.4498716+00:00"
+  "LastUpdate_Ratings": "2023-05-10T18:59:39.4654421+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:06:31.9255911+00:00"
 }

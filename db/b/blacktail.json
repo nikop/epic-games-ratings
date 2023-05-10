@@ -3,11 +3,11 @@
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -239,6 +239,11 @@
       "Time": "2023-05-10T15:05:33.2252654+00:00",
       "NumProgressed": 330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T19:06:40.8064401+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -274,7 +279,7 @@
       "Name": "Dental maturity",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "DevilDetail",
@@ -298,7 +303,7 @@
       "Name": "Devoted",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "EyeSpy",
@@ -338,7 +343,7 @@
       "Name": "Gold rush",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GossipGirl",
@@ -378,7 +383,7 @@
       "Name": "A friend in need...",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "LostAndFound",
@@ -442,7 +447,7 @@
       "Name": "Uprooting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "TheGuardian",
@@ -464,9 +469,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 76
     },
     {
       "ID": "Toxic",
@@ -505,7 +510,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 332,
       "Completed": 0
     }
   ],
@@ -513,8 +518,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:06:17.9310324+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:06:40.8064393+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:13.2811944+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:57:59.5144653+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:06:17.9310576+00:00"
+  "LastUpdate_Ratings": "2023-05-10T18:59:18.0113151+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:06:40.8064654+00:00"
 }

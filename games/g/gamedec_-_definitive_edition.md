@@ -6,34 +6,34 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~62,824 |
-| Powergamer | 26.00% | ~58,336 |
-| Barely scratched the surface | 25.00% | ~56,092 |
-| Write that down | 24.00% | ~53,849 |
-| Guns, lots of guns | 12.00% | ~26,924 |
-| Collector | 11.00% | ~24,681 |
-| Elementary! | 8.00% | ~17,950 |
-| Pumpkin Jack | 8.00% | ~17,950 |
-| Wake up! | 8.00% | ~17,950 |
-| It's honest work | 7.00% | ~15,706 |
-| Griever | 7.00% | ~15,706 |
-| Me smart | 6.00% | ~13,462 |
-| Good listener | 5.00% | ~11,218 |
-| Trash compactor | 5.00% | ~11,218 |
-| Valedictorian | 5.00% | ~11,218 |
-| BOY! | 4.00% | ~8,975 |
-| Ka-ching! | 4.00% | ~8,975 |
-| I like to sniff around | 3.00% | ~6,731 |
-| Mind reader | 3.00% | ~6,731 |
-| So you like to read? | 3.00% | ~6,731 |
-| Gentleman's classic | 2.00% | ~4,487 |
-| Hoarder | 2.00% | ~4,487 |
-| Is that a rift? | 2.00% | ~4,487 |
-| It's alive! | 2.00% | ~4,487 |
-| Enjoy the beach | 2.00% | ~4,487 |
-| Rinse and repeat | 2.00% | ~4,487 |
-| Mama, I'm a criminal | 2.00% | ~4,487 |
-| Never gonna give you up | 2.00% | ~4,487 |
+| I will finish what you started | 28.00% | ~62,829 |
+| Powergamer | 26.00% | ~58,341 |
+| Barely scratched the surface | 25.00% | ~56,097 |
+| Write that down | 24.00% | ~53,853 |
+| Guns, lots of guns | 12.00% | ~26,927 |
+| Collector | 11.00% | ~24,683 |
+| Elementary! | 8.00% | ~17,951 |
+| Pumpkin Jack | 8.00% | ~17,951 |
+| Wake up! | 8.00% | ~17,951 |
+| It's honest work | 7.00% | ~15,707 |
+| Griever | 7.00% | ~15,707 |
+| Me smart | 6.00% | ~13,463 |
+| Good listener | 5.00% | ~11,219 |
+| Trash compactor | 5.00% | ~11,219 |
+| Valedictorian | 5.00% | ~11,219 |
+| BOY! | 4.00% | ~8,976 |
+| Ka-ching! | 4.00% | ~8,976 |
+| I like to sniff around | 3.00% | ~6,732 |
+| Mind reader | 3.00% | ~6,732 |
+| So you like to read? | 3.00% | ~6,732 |
+| Gentleman's classic | 2.00% | ~4,488 |
+| Hoarder | 2.00% | ~4,488 |
+| Is that a rift? | 2.00% | ~4,488 |
+| It's alive! | 2.00% | ~4,488 |
+| Enjoy the beach | 2.00% | ~4,488 |
+| Rinse and repeat | 2.00% | ~4,488 |
+| Mama, I'm a criminal | 2.00% | ~4,488 |
+| Never gonna give you up | 2.00% | ~4,488 |
 | A muscle to rely on | 1.00% | ~2,244 |
 | Catnip | 1.00% | ~2,244 |
 | I am in great pain, please help me | 1.00% | ~2,244 |
@@ -48,8 +48,8 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.70% | ~1,571 |
 | I have the high ground | 0.60% | ~1,346 |
 | Who wouldn't love a troll? | 0.50% | ~1,122 |
-| Enjoy these little moments | 0.40% | ~897 |
-| Un-bear-able | 0.40% | ~897 |
+| Enjoy these little moments | 0.40% | ~898 |
+| Un-bear-able | 0.40% | ~898 |
 | Irondec | 0.30% | ~673 |
 | LET ME OUT! | 0.30% | ~673 |
 | Well-deserved reunion | 0.30% | ~673 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~449 |
 | Memory 5 | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,370 (Ranked 42)  
+Progressed: 224,388 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,10 +79,10 @@ Completed: 5 (0.00%) (Ranked 198)
 | 2023-05-07 | 223,805 | 5 |
 | 2023-05-08 | 224,025 | 5 |
 | 2023-05-09 | 224,219 | 5 |
-| 2023-05-10 | 224,370 | 5 |
+| 2023-05-10 | 224,388 | 5 |
 ## Awards
-Max (Character Customization): 72  (Ranked 356)  
-Sum: 72 (Ranked 413)  
+Max (Character Customization): 72  (Ranked 357)  
+Sum: 72 (Ranked 414)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |

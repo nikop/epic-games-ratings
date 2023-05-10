@@ -6,54 +6,54 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,348 |
-| Sweet Sorrow | 18.00% | ~5,174 |
-| Rules the Waves | 17.00% | ~4,886 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,599 |
-| Rival | 14.00% | ~4,024 |
-| Correspondent | 12.00% | ~3,449 |
-| Lose Your Mind | 12.00% | ~3,449 |
-| Sound Mind? | 12.00% | ~3,449 |
-| Salt's Curse | 11.00% | ~3,162 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,162 |
-| The Fall of the House | 11.00% | ~3,162 |
-| Shipmate | 11.00% | ~3,162 |
-| The Ascent of Man | 8.00% | ~2,300 |
+| Sink Beneath the Waves | 36.00% | ~10,351 |
+| Sweet Sorrow | 18.00% | ~5,176 |
+| Rules the Waves | 17.00% | ~4,888 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,600 |
+| Rival | 14.00% | ~4,025 |
+| Correspondent | 12.00% | ~3,450 |
+| Lose Your Mind | 12.00% | ~3,450 |
+| Sound Mind? | 12.00% | ~3,450 |
+| Salt's Curse | 11.00% | ~3,163 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,163 |
+| The Fall of the House | 11.00% | ~3,163 |
+| Shipmate | 11.00% | ~3,163 |
 | One Year at Zee | 8.00% | ~2,300 |
-| Pupil | 7.00% | ~2,012 |
-| Salvager | 7.00% | ~2,012 |
-| Open Your Ears | 7.00% | ~2,012 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,437 |
-| Zee Fever | 5.00% | ~1,437 |
+| Pupil | 7.00% | ~2,013 |
+| Salvager | 7.00% | ~2,013 |
+| Open Your Ears | 7.00% | ~2,013 |
+| The Ascent of Man | 7.00% | ~2,013 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,438 |
+| Zee Fever | 5.00% | ~1,438 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,150 |
-| Storm's Curse | 3.00% | ~862 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~862 |
-| Come Closer | 3.00% | ~862 |
+| Storm's Curse | 3.00% | ~863 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~863 |
+| Come Closer | 3.00% | ~863 |
 | Roaring Rise | 2.00% | ~575 |
 | I am the Captain of my Soul | 2.00% | ~575 |
-| A buoyant escape | 1.00% | ~287 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~287 |
-| The Bell Tolls | 1.00% | ~287 |
-| His bones in whispers | 1.00% | ~287 |
-| The beauty of the deep | 1.00% | ~287 |
-| The dragon in the zee | 1.00% | ~287 |
-| Thanks for all the fish | 1.00% | ~287 |
-| Knife, Cup and Bone | 1.00% | ~287 |
-| Those are pearls that were his eyes | 1.00% | ~287 |
-| Rosewater sailor | 1.00% | ~287 |
-| Under the zee | 1.00% | ~287 |
-| A current under zee | 1.00% | ~287 |
+| A buoyant escape | 1.00% | ~288 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~288 |
+| The Bell Tolls | 1.00% | ~288 |
+| His bones in whispers | 1.00% | ~288 |
+| The beauty of the deep | 1.00% | ~288 |
+| The dragon in the zee | 1.00% | ~288 |
+| Thanks for all the fish | 1.00% | ~288 |
+| Knife, Cup and Bone | 1.00% | ~288 |
+| Those are pearls that were his eyes | 1.00% | ~288 |
+| No regrets | 1.00% | ~288 |
+| Rosewater sailor | 1.00% | ~288 |
+| Under the zee | 1.00% | ~288 |
+| A current under zee | 1.00% | ~288 |
 | A zee-change | 0.90% | ~259 |
 | Never Stop Sinking... | 0.90% | ~259 |
 | Leviathan | 0.90% | ~259 |
-| No regrets | 0.90% | ~259 |
 | Depth charge | 0.90% | ~259 |
 | What lies beneath | 0.80% | ~230 |
 | Stone's Curse | 0.70% | ~201 |
 | Five Years at Zee | 0.50% | ~144 |
-| The Lady's Parlour | 0.20% | ~57 |
-| A Past Wreathed in Shadows | 0.20% | ~57 |
-| Under pressure | 0.20% | ~57 |
+| The Lady's Parlour | 0.20% | ~58 |
+| A Past Wreathed in Shadows | 0.20% | ~58 |
+| Under pressure | 0.20% | ~58 |
 | A Drownie devotee | 0.10% | ~29 |
 | Romans 6:9 | 0.10% | ~29 |
 | Ofermod | 0.10% | ~29 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~29 |
 | Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,744 (Ranked 84)  
+Progressed: 28,753 (Ranked 84)  
 Completed: 3 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 3 (0.01%) (Ranked 190)
 | 2023-05-07 | 28,519 | 3 |
 | 2023-05-08 | 28,605 | 3 |
 | 2023-05-09 | 28,691 | 3 |
-| 2023-05-10 | 28,744 | 3 |
+| 2023-05-10 | 28,753 | 3 |
 ## Awards
 Max (Character Customization): 205  (Ranked 255)  
 Sum: 274 (Ranked 331)  

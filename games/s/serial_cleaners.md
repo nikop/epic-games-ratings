@@ -4,12 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it goes | 1.00% | ~2 |
+| So it goes | 2.00% | ~3 |
 | Pride and Joy | 0.60% | ~1 |
 | Eyes Yet To Open | 0.60% | ~1 |
 | Small-time Finder | 0.60% | ~1 |
 | Business as usual | 0.60% | ~1 |
 | A New Broom Sweeps Clean | 0.60% | ~1 |
+| Mr. Hygeni | 0.60% | ~1 |
 | The Wing and the Thigh | 0.60% | ~1 |
 | Clean Conscience | 0.60% | ~1 |
 | Hackathon | 0.60% | ~1 |
@@ -27,7 +28,6 @@
 | … Women Inherit The Earth | 0.00% | ~0 |
 | Bee Squat | 0.00% | ~0 |
 | The Germophobes | 0.00% | ~0 |
-| Mr. Hygeni | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 230)  
 Completed: 5 (3.16%) (Ranked 44)  

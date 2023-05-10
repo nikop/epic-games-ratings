@@ -2,9 +2,9 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 533,
-  "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 401,
+  "Ranking_Rating": 532,
+  "Ranking_Popularity": 336,
+  "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 263,
@@ -388,6 +388,6 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "LastChanged": "2023-05-06T23:01:40.4806333+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:24.6737315+00:00",
-  "LastUpdate_Ratings": "2023-05-10T17:01:15.1018219+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:05:31.1787008+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:01:38.738405+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:06:06.638662+00:00"
 }

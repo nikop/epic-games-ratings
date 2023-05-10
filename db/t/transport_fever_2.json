@@ -3,7 +3,7 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 212,
-  "Ranking_Popularity": 412,
+  "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 198,
@@ -434,7 +434,7 @@
   ],
   "EOS_Progressed": 1051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1024,9 +1024,9 @@
       "ID": "achCreateLine",
       "SetID": "dgl390n",
       "Name": "First line",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 809
     },
     {
       "ID": "achCrowdInATrain",
@@ -1352,8 +1352,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-09T18:00:41.8531621+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:06:45.4506889+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:07:01.4774316+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.5035805+00:00",
-  "LastUpdate_Ratings": "2023-05-10T17:00:15.9456312+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:06:45.4507568+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:00:55.8238029+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:07:01.4774823+00:00"
 }

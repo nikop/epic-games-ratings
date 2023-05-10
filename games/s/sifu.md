@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~483 |
+| Diligence as a goal | 4.00% | ~484 |
 | Project Arena | 3.00% | ~363 |
 | Bloody Sport | 1.00% | ~121 |
 | The best strikes are the ones we avoid | 0.90% | ~109 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,786 (Ranked 15)  
+Progressed: 702,791 (Ranked 15)  
 Completed: 12,719 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 12,719 (1.81%) (Ranked 62)
 | 2023-05-07 | 702,693 | 12,713 |
 | 2023-05-08 | 702,730 | 12,716 |
 | 2023-05-09 | 702,765 | 12,718 |
-| 2023-05-10 | 702,786 | 12,719 |
+| 2023-05-10 | 702,791 | 12,719 |
 ## Awards
 Max (Great Boss Battles): 6,046  (Ranked 53)  
 Sum: 10,256 (Ranked 77)  

@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 880 (Ranked 167)  
+Progressed: 881 (Ranked 167)  
 Completed: 1 (0.11%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 1 (0.11%) (Ranked 153)
 | 2023-05-07 | 872 | 1 |
 | 2023-05-08 | 873 | 1 |
 | 2023-05-09 | 878 | 1 |
-| 2023-05-10 | 880 | 1 |
+| 2023-05-10 | 881 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

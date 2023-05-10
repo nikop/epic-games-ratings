@@ -2,9 +2,9 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
-  "Ranking_Rating": 376,
-  "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 167,
+  "Ranking_Rating": 396,
+  "Ranking_Popularity": 218,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 263,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 6460,
   "RatingHistory": [
     {
@@ -3064,11 +3064,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 2387,
       "NumberOfAwardsMax": 318
+    },
+    {
+      "Time": "2023-05-10T19:00:22.3638744+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2393,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2387,
-  "NumberOfAwardsMax": 318,
+  "NumberOfAwards": 2393,
+  "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -3087,13 +3093,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 283
+      "Count": 288
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 318
+      "Count": 319
     },
     {
       "Text": "This game is Relaxing",
@@ -3143,8 +3149,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-05-10T04:58:51.6405532+00:00",
+  "LastChanged": "2023-05-10T19:00:22.3638742+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:13.4153105+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:59:31.8193496+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:01:59.4680959+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:00:22.3638749+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:02:10.714803+00:00"
 }

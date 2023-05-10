@@ -10,7 +10,7 @@ Number of Ratings: 281  (23.09.2022)
 | Hey Good Hookin | 61.00% | ~2,103 |
 | I'm on a Boat! | 52.00% | ~1,792 |
 | Scaling up | 46.00% | ~1,586 |
-| Can you smell what the Rod is Hooking | 44.00% | ~1,517 |
+| Can you smell what the Rod is Hooking | 45.00% | ~1,551 |
 | More Fish in the Sea | 37.00% | ~1,275 |
 | Ready to Rod and Roll | 36.00% | ~1,241 |
 | License to Gill | 31.00% | ~1,069 |
@@ -64,9 +64,9 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 3,443 | 0 |
 | 2023-05-10 | 3,447 | 0 |
 ## Awards
-Max (Relaxing): 32  (Ranked 433)  
+Max (Relaxing): 32  (Ranked 434)  
 Sum: 158 (Ranked 374)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |

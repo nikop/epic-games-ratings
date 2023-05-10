@@ -20,9 +20,9 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 10.00% | ~116 |
 | A Mythic Menagerie | 9.00% | ~104 |
 | Pyrrhic Victory | 8.00% | ~93 |
+| Echoes Die | 7.00% | ~81 |
 | Thematic Divergence | 6.00% | ~69 |
 | Chain Reaction | 6.00% | ~69 |
-| Echoes Die | 6.00% | ~69 |
 | A Story of Heroes | 6.00% | ~69 |
 | Let Me Get My Chisel | 5.00% | ~58 |
 | Everfading | 5.00% | ~58 |
@@ -82,8 +82,8 @@ Completed: 3 (0.26%) (Ranked 131)
 | 2023-05-09 | 1,153 | 3 |
 | 2023-05-10 | 1,157 | 3 |
 ## Awards
-Max (Character Customization): 27  (Ranked 452)  
-Sum: 27 (Ranked 461)  
+Max (Character Customization): 27  (Ranked 453)  
+Sum: 27 (Ranked 462)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |

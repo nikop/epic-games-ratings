@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2314,7 +2314,7 @@
   ],
   "EOS_Progressed": 8749,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3641,9 +3641,9 @@
       "ID": "52_TrulyImportantDeed",
       "SetID": "989of5o",
       "Name": "Truly Important Deed",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 87
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -4183,8 +4183,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-10T14:00:24.5644768+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:06:31.2755473+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:06:50.9433734+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:58:31.7523158+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:06:31.2757096+00:00"
+  "LastUpdate_Ratings": "2023-05-10T18:59:41.0436572+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:06:50.9435471+00:00"
 }

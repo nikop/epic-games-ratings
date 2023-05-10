@@ -6,50 +6,50 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,738 |
-| Ready for Winter | 64.00% | ~1,503 |
-| Ready for Summer | 51.00% | ~1,198 |
+| Venture Outward | 74.00% | ~1,740 |
+| Ready for Winter | 64.00% | ~1,505 |
+| Ready for Summer | 51.00% | ~1,199 |
 | Cordon Bleu | 44.00% | ~1,034 |
 | Tapped! | 36.00% | ~846 |
-| Eureka | 31.00% | ~728 |
-| Scourge Slayer | 25.00% | ~587 |
-| Home Sweet Home | 23.00% | ~540 |
-| Science, Troglodyte! | 23.00% | ~540 |
+| Eureka | 31.00% | ~729 |
+| Scourge Slayer | 25.00% | ~588 |
+| Home Sweet Home | 23.00% | ~541 |
+| Science, Troglodyte! | 23.00% | ~541 |
 | Exceptional Skill | 22.00% | ~517 |
 | Encyclopedic! | 20.00% | ~470 |
 | A Fortress Toppled! | 16.00% | ~376 |
 | Apex Predator | 16.00% | ~376 |
 | The Power of Family | 16.00% | ~376 |
-| Strange amalgams | 13.00% | ~305 |
-| The Power of Faith | 13.00% | ~305 |
-| The Power of Freedom | 9.00% | ~211 |
+| Strange amalgams | 13.00% | ~306 |
+| The Power of Faith | 13.00% | ~306 |
+| The Power of Freedom | 9.00% | ~212 |
 | Ace Detective | 8.00% | ~188 |
 | Gift from the Ancestors | 8.00% | ~188 |
 | House of Cards | 8.00% | ~188 |
 | Magic is a science | 8.00% | ~188 |
-| Let ‘em eat magma! | 7.00% | ~164 |
-| The power of ambition | 7.00% | ~164 |
-| The stuff of legends. | 7.00% | ~164 |
+| Let ‘em eat magma! | 7.00% | ~165 |
+| The power of ambition | 7.00% | ~165 |
+| The stuff of legends. | 7.00% | ~165 |
 | Blood and justice | 6.00% | ~141 |
 | Hold my Mead and Watch This | 6.00% | ~141 |
-| Ancestor's Pride | 5.00% | ~117 |
+| Ancestor's Pride | 5.00% | ~118 |
 | For All Aurai | 4.00% | ~94 |
 | Memory of a legend | 4.00% | ~94 |
-| Light of Levant | 3.00% | ~70 |
-| This was a mistake... | 3.00% | ~70 |
+| Light of Levant | 3.00% | ~71 |
+| This was a mistake... | 3.00% | ~71 |
 | Crowd Pleaser. | 2.00% | ~47 |
 | Perfect Defense | 2.00% | ~47 |
 | Power! To! The People! | 2.00% | ~47 |
 | Your actions define you | 2.00% | ~47 |
-| The blood is life | 1.00% | ~23 |
-| They'll Tell Stories About This | 1.00% | ~23 |
-| Vanquisher of nightmares | 1.00% | ~23 |
+| The blood is life | 1.00% | ~24 |
+| They'll Tell Stories About This | 1.00% | ~24 |
+| Vanquisher of nightmares | 1.00% | ~24 |
 | Through fire and flame. | 0.80% | ~19 |
 | Legacy of a master hunter | 0.40% | ~9 |
 | Master of Aurai | 0.30% | ~7 |
 | The Absolute Pinnacle. | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,349 (Ranked 139)  
+Progressed: 2,351 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,11 +68,11 @@ Completed: 1 (0.04%) (Ranked 174)
 | 2023-05-07 | 2,327 | 1 |
 | 2023-05-08 | 2,337 | 1 |
 | 2023-05-09 | 2,345 | 1 |
-| 2023-05-10 | 2,349 | 1 |
+| 2023-05-10 | 2,351 | 1 |
 ## Awards
-Max (Amazing Characters): 31  (Ranked 438)  
+Max (Amazing Characters): 31  (Ranked 439)  
 Sum: 238 (Ranked 343)  
-Diff (max vs sum): 95  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

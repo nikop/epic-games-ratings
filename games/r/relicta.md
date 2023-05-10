@@ -5,12 +5,12 @@ Rating: 4.15 (Ranked 841)
 Number of Ratings: 429  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 193  (Ranked 260)  
-Sum: 261 (Ranked 338)  
-Diff (max vs sum): -78  
+Sum: 262 (Ranked 337)  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 193 |
-| In this game, your choices Don't Impact the Story | 68 |
+| In this game, your choices Don't Impact the Story | 69 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -100,3 +100,4 @@ Diff (max vs sum): -78
 | 2023-04-10 | 4.15 | - | 192 | 258 |
 | 2023-04-13 | 4.15 | - | 192 | 260 |
 | 2023-04-21 | 4.15 | - | 193 | 261 |
+| 2023-05-10 | 4.15 | - | 193 | 262 |

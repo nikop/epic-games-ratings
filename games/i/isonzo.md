@@ -6,22 +6,22 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,028 |
-| Tutti Eroi! | 53.00% | ~2,972 |
-| You Shall Not Pass | 53.00% | ~2,972 |
+| Peak Performance | 54.00% | ~3,029 |
+| Tutti Eroi! | 53.00% | ~2,973 |
+| You Shall Not Pass | 53.00% | ~2,973 |
 | Avanti Savoia! | 46.00% | ~2,580 |
 | Conrad von Hotzensocks | 35.00% | ~1,963 |
 | Mamma Mia! | 35.00% | ~1,963 |
 | Gabriele D'Annunzio | 32.00% | ~1,795 |
-| Silver Lining | 28.00% | ~1,570 |
+| Silver Lining | 28.00% | ~1,571 |
 | Aurelio Baruzzi | 22.00% | ~1,234 |
 | Veni Vidi Vici | 22.00% | ~1,234 |
 | Decimation | 20.00% | ~1,122 |
 | Donatello | 20.00% | ~1,122 |
 | Insubordination | 19.00% | ~1,066 |
 | The Italian Job | 19.00% | ~1,066 |
-| The Lion of the Isonzo | 18.00% | ~1,009 |
-| Ragazzi del '99 | 17.00% | ~953 |
+| The Lion of the Isonzo | 18.00% | ~1,010 |
+| Ragazzi del '99 | 17.00% | ~954 |
 | Thus With A Kiss | 15.00% | ~841 |
 | Dirty Dozen | 14.00% | ~785 |
 | Luigi Cadorna | 13.00% | ~729 |
@@ -35,8 +35,8 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 9.00% | ~505 |
 | The Show Must Go On | 8.00% | ~449 |
 | Tosca | 8.00% | ~449 |
-| Generalissimo | 6.00% | ~336 |
-| The Enlightment | 6.00% | ~336 |
+| Generalissimo | 6.00% | ~337 |
+| The Enlightment | 6.00% | ~337 |
 | 12th Bottle of the Isonzo | 5.00% | ~280 |
 | Cercatore d'Oro | 5.00% | ~280 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~224 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~22 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,608 (Ranked 117)  
+Progressed: 5,609 (Ranked 117)  
 Completed: 8 (0.14%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,11 +72,11 @@ Completed: 8 (0.14%) (Ranked 148)
 | 2023-05-07 | 5,602 | 8 |
 | 2023-05-08 | 5,604 | 8 |
 | 2023-05-09 | 5,605 | 8 |
-| 2023-05-10 | 5,608 | 8 |
+| 2023-05-10 | 5,609 | 8 |
 ## Awards
-Max (Highly Recommended): 30  (Ranked 443)  
+Max (Highly Recommended): 30  (Ranked 444)  
 Sum: 253 (Ranked 340)  
-Diff (max vs sum): 103  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 30 |

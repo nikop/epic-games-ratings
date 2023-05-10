@@ -6,7 +6,7 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 76.00% | ~799 |
+| First line | 77.00% | ~809 |
 | First cargo item on board | 71.00% | ~746 |
 | First cargo item waiting | 71.00% | ~746 |
 | First bus stop | 69.00% | ~725 |
@@ -90,9 +90,9 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 1,050 | 0 |
 | 2023-05-10 | 1,051 | 0 |
 ## Awards
-Max (Highly Recommended): 38  (Ranked 412)  
+Max (Highly Recommended): 38  (Ranked 413)  
 Sum: 260 (Ranked 339)  
-Diff (max vs sum): 73  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 38 |

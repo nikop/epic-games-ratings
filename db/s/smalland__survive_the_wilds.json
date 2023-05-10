@@ -3,8 +3,8 @@
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
   "Ranking_Rating": 552,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 490,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 82,
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18425,
+  "EOS_Progressed": 18433,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1580,6 +1580,11 @@
       "Time": "2023-05-10T17:05:49.9838778+00:00",
       "NumProgressed": 18425,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-10T19:06:19.7611111+00:00",
+      "NumProgressed": 18433,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -1591,7 +1596,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "FirstGlide",
@@ -1647,7 +1652,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "PickupChitin",
@@ -1694,7 +1699,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18425,
+      "Progressed": 18433,
       "Completed": 18
     }
   ],
@@ -1702,8 +1707,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-05-08T18:58:57.4957635+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:05:49.9838773+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:06:19.7611106+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:49.5742227+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:57:26.5037168+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:05:49.9838995+00:00"
+  "LastUpdate_Ratings": "2023-05-10T18:58:52.0273951+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:06:19.7611291+00:00"
 }

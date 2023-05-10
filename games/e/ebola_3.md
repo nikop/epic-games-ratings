@@ -7,16 +7,16 @@
 | Chest ✔ | 53.00% | ~84 |
 | Fright ✔ | 53.00% | ~84 |
 | Inventory ✔ | 49.00% | ~77 |
-| Police officers ✔ | 24.00% | ~38 |
+| Police officers ✔ | 25.00% | ~40 |
 | Mutation ✔ | 22.00% | ~35 |
 | Doberman ✔ | 12.00% | ~19 |
 | Chess ✔ | 8.00% | ~13 |
 | Weapon ✔ | 8.00% | ~13 |
 | Survival ✔ | 7.00% | ~11 |
+| Hospital ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
 | Antivirus ✔ | 6.00% | ~9 |
 | Cheats ✔ | 6.00% | ~9 |
-| Hospital ✔ | 6.00% | ~9 |
 | King of survival ✔ | 6.00% | ~9 |
 | Thirst ✔ | 6.00% | ~9 |
 | Alice ✔ | 5.00% | ~8 |

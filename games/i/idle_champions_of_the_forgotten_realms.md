@@ -8,13 +8,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Checkmate | 2.00% | ~1,067 |
 | A Brief Tour of the Realms | 1.00% | ~871 |
-| Pin and Skewer | 1.00% | ~533 |
-| Vecna Out! | 1.00% | ~533 |
+| Pin and Skewer | 1.00% | ~534 |
+| Vecna Out! | 1.00% | ~534 |
 | The Cursed Farmer | 0.90% | ~784 |
 | Bully for Vecna | 0.80% | ~427 |
-| Beast Intentions | 0.70% | ~609 |
-| The Mad Wizard | 0.70% | ~609 |
-| The Ring of Regeneration | 0.60% | ~522 |
+| Beast Intentions | 0.70% | ~610 |
+| The Mad Wizard | 0.70% | ~610 |
+| The Ring of Regeneration | 0.60% | ~523 |
 | Were-verpowered | 0.50% | ~435 |
 | Seeking Allies | 0.50% | ~435 |
 | Are Ya Chicken? | 0.50% | ~435 |
@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Evacuation of Waterdeep | 0.20% | ~107 |
 | Vecna Lives! | 0.20% | ~107 |
 | Vecna Loots! | 0.20% | ~107 |
+| Well Equipped | 0.20% | ~107 |
 | Return to the Tomb | 0.20% | ~107 |
 | Keep Your Distance | 0.20% | ~107 |
 | Heatwave | 0.20% | ~107 |
@@ -113,6 +114,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.20% | ~174 |
 | Flying Monkey Skulls of Doom | 0.20% | ~174 |
 | Lair of the Xanathar | 0.20% | ~174 |
+| Crowded Streets | 0.20% | ~174 |
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Troublesome Prisoner | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
@@ -127,6 +129,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.20% | ~107 |
 | An Even Worse Time in Avernus | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
+| Giant-Size Adventure | 0.20% | ~107 |
 | The Everlasting Rime | 0.20% | ~107 |
 | Close Escort | 0.20% | ~174 |
 | Constant Banditry | 0.20% | ~174 |
@@ -219,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~87 |
 | Overwhelmed with Knowledge | 0.10% | ~53 |
 | A Demi-god's Defender | 0.10% | ~53 |
-| Well Equipped | 0.10% | ~53 |
 | Friends of the Forest | 0.10% | ~87 |
 | More Than Well Equipped | 0.10% | ~53 |
 | Arcane Efforts | 0.10% | ~53 |
@@ -337,7 +339,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~87 |
 | Sober Up | 0.10% | ~87 |
 | In The Beginning | 0.10% | ~53 |
-| Crowded Streets | 0.10% | ~87 |
 | The Sunless Citadel | 0.10% | ~87 |
 | Veteran Brigade | 0.10% | ~87 |
 | Social Grace | 0.10% | ~53 |
@@ -421,7 +422,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.10% | ~53 |
 | Prisoners of Unknown Choices | 0.10% | ~53 |
 | Rime Bandits | 0.10% | ~53 |
-| Giant-Size Adventure | 0.10% | ~53 |
 | Power of Three | 0.10% | ~53 |
 | Enemy Summit | 0.10% | ~53 |
 | Mirage Arcane | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,071 (Ranked 59)  
+Progressed: 87,084 (Ranked 59)  
 Completed: 1,822 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,10 +516,10 @@ Completed: 1,822 (2.09%) (Ranked 60)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,071 | 1,822 |
+| 2023-05-10 | 87,084 | 1,822 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
-Sum: 29,842 (Ranked 37)  
+Sum: 29,846 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -529,7 +529,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,479 |
 | This game is Highly Recommended | 3,932 |
 | This game has Amazing Characters | 3,931 |
-| This game has Playful Visuals | 3,227 |
+| This game has Playful Visuals | 3,231 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -637,4 +637,4 @@ Diff (max vs sum): 26
 | 2023-05-07 | 4.06 | - | 4,868 | 29,830 |
 | 2023-05-08 | 4.06 | - | 4,868 | 29,833 |
 | 2023-05-09 | 4.06 | - | 4,873 | 29,838 |
-| 2023-05-10 | 4.06 | - | 4,873 | 29,842 |
+| 2023-05-10 | 4.06 | - | 4,873 | 29,846 |

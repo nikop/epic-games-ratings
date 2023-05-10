@@ -6,14 +6,14 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,720 |
-| Say goodbye, creep! | 65.00% | ~27,453 |
-| Blood splattered | 64.00% | ~27,031 |
-| Choo choo! | 61.00% | ~25,764 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,721 |
+| Say goodbye, creep! | 65.00% | ~27,454 |
+| Blood splattered | 64.00% | ~27,032 |
+| Choo choo! | 62.00% | ~26,187 |
 | Groovy | 60.00% | ~25,342 |
-| Cleanup on aisle 4! | 56.00% | ~23,652 |
+| Cleanup on aisle 4! | 56.00% | ~23,653 |
 | Gold | 50.00% | ~21,118 |
-| The boat can leave now...tell the crew | 48.00% | ~20,273 |
+| The boat can leave now...tell the crew | 48.00% | ~20,274 |
 | Give me something to shoot! | 46.00% | ~19,429 |
 | Stand back boy! | 46.00% | ~19,429 |
 | Weird science | 44.00% | ~18,584 |
@@ -27,7 +27,7 @@ Number of Ratings: 743  (23.09.2022)
 | Zombie killin' machine | 36.00% | ~15,205 |
 | Every bullet counts | 36.00% | ~15,205 |
 | All of this has happened before… | 35.00% | ~14,783 |
-| You've got red on you | 34.00% | ~14,360 |
+| You've got red on you | 34.00% | ~14,361 |
 | All roads lead to Rome | 33.00% | ~13,938 |
 | You're all going to die down here | 31.00% | ~13,093 |
 | He did Nazi that coming | 31.00% | ~13,093 |
@@ -38,11 +38,11 @@ Number of Ratings: 743  (23.09.2022)
 | Gore soaked | 24.00% | ~10,137 |
 | Shock therapy | 22.00% | ~9,292 |
 | Leave the limbs you've lost | 22.00% | ~9,292 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,602 |
-| Take them down screaming | 18.00% | ~7,602 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,603 |
+| Take them down screaming | 18.00% | ~7,603 |
 | Weapons expert | 17.00% | ~7,180 |
 | Bad Blood | 16.00% | ~6,758 |
-| The bigger they are... | 15.00% | ~6,335 |
+| The bigger they are... | 15.00% | ~6,336 |
 | I'm going deeper underground | 14.00% | ~5,913 |
 | Well equipped | 12.00% | ~5,068 |
 | Into the deep | 12.00% | ~5,068 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~422 |
 | None more hard | 0.50% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,236 (Ranked 78)  
+Progressed: 42,237 (Ranked 78)  
 Completed: 24 (0.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 24 (0.06%) (Ranked 167)
 | 2023-05-07 | 42,216 | 24 |
 | 2023-05-08 | 42,224 | 24 |
 | 2023-05-09 | 42,228 | 24 |
-| 2023-05-10 | 42,236 | 24 |
+| 2023-05-10 | 42,237 | 24 |
 ## Awards
 Max (Great Boss Battles): 773  (Ranked 146)  
 Sum: 2,359 (Ranked 170)  

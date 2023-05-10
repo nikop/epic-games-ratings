@@ -38,12 +38,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 1.00% | ~87 |
 | Core of the Riddle | 1.00% | ~87 |
 | Your First Big Enemy | 1.00% | ~87 |
+| Truly Important Deed | 1.00% | ~87 |
 | Stay Underground | 1.00% | ~75 |
 | Hanged Man's Notes | 1.00% | ~75 |
 | Sarkoris Will Be Green | 1.00% | ~75 |
 | Path of the Demon | 0.90% | ~79 |
 | Path of the Aeon | 0.90% | ~79 |
-| Truly Important Deed | 0.90% | ~79 |
 | Abyssal Conspiracy | 0.70% | ~61 |
 | This Wall Won't Fall | 0.70% | ~53 |
 | End of Eternal Guard | 0.60% | ~52 |

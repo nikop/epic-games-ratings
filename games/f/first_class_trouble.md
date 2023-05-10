@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/first_class_trouble.json)  
 Rating: 4.52 (Ranked 501)  
 ## Awards
-Max (Great for Beginners): 86  (Ranked 339)  
-Sum: 606 (Ranked 275)  
-Diff (max vs sum): 64  
+Max (Great for Beginners): 86  (Ranked 340)  
+Sum: 607 (Ranked 275)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 86 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 64
 | This game has Amazing Storytelling | 64 |
 | This game has Quickly Understood Controls | 60 |
 | This game has Amazing Characters | 54 |
-| This game is Relaxing | 48 |
+| This game is Relaxing | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -80,3 +80,4 @@ Diff (max vs sum): 64
 | 2023-05-04 | 4.51 | 84 | 596 |
 | 2023-05-06 | 4.51 | 84 | 599 |
 | 2023-05-07 | 4.52 | 86 | 606 |
+| 2023-05-10 | 4.52 | 86 | 607 |

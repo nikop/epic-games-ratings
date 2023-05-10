@@ -3,7 +3,7 @@
   "Name": "The Drone Racing League\u00AE",
   "ProductSlug": "the-drone-racing-league-simulator",
   "Ranking_Rating": 501,
-  "Ranking_Popularity": 370,
+  "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 198,
@@ -429,10 +429,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 443,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-05-10T18:58:51.7561033+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 445,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 443,
+  "NumberOfAwards": 445,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -458,7 +464,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -482,7 +488,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Great for Beginners",
@@ -515,8 +521,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
-  "LastChanged": "2023-05-07T16:58:38.8502268+00:00",
+  "LastChanged": "2023-05-10T18:58:51.7561032+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:47.782498+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:57:26.0879075+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:04:00.5383879+00:00"
+  "LastUpdate_Ratings": "2023-05-10T18:58:51.7561038+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:05:02.9152444+00:00"
 }

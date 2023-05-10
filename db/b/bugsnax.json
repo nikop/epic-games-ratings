@@ -3,12 +3,12 @@
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 38,
-  "Ranking_Popularity": 412,
+  "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 32,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -1309,8 +1309,8 @@
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-05-09T21:00:42.4039374+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:06:39.7286643+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:06:57.3251607+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.7065737+00:00",
-  "LastUpdate_Ratings": "2023-05-10T17:00:29.4506086+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:06:39.7286918+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:01:04.9938962+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:06:57.3251857+00:00"
 }

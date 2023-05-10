@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2406,
+  "EOS_Progressed": 2407,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
@@ -1185,6 +1185,11 @@
       "Time": "2023-05-10T17:06:20.5848377+00:00",
       "NumProgressed": 2406,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-10T19:06:42.8663318+00:00",
+      "NumProgressed": 2407,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1204,7 +1209,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "11",
@@ -1236,7 +1241,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "15",
@@ -1252,7 +1257,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "17",
@@ -1322,9 +1327,9 @@
       "ID": "24",
       "SetID": "9p3jgda",
       "Name": "HERE ARE SOME BARE NECESSITIES",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 650
+      "UsersEstimate": 674
     },
     {
       "ID": "3",
@@ -1348,7 +1353,7 @@
       "Name": "ROOKIE",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "6",
@@ -1387,13 +1392,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2406,
+      "Progressed": 2407,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:06:20.5848372+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:06:42.8663312+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:59:19.4211479+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:06:20.5848632+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:00:13.9554982+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:06:42.8663561+00:00"
 }

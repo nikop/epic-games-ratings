@@ -4,9 +4,9 @@
 Rating: 4.61 (Ranked 352)  
 Number of Ratings: 312  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 36  (Ranked 419)  
+Max (Extremely Fun): 36  (Ranked 420)  
 Sum: 340 (Ranked 317)  
-Diff (max vs sum): 102  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

@@ -4,7 +4,7 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 27,
   "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 263,
@@ -739,10 +739,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 643,
       "NumberOfAwardsMax": 459
+    },
+    {
+      "Time": "2023-05-10T19:00:55.985522+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 644,
+      "NumberOfAwardsMax": 459
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 643,
+  "NumberOfAwards": 644,
   "NumberOfAwardsMax": 459,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -792,7 +798,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -806,8 +812,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-05-09T19:01:10.217327+00:00",
+  "LastChanged": "2023-05-10T19:00:55.9855218+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.367648+00:00",
-  "LastUpdate_Ratings": "2023-05-10T17:00:16.1327823+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:04:52.8584742+00:00"
+  "LastUpdate_Ratings": "2023-05-10T19:00:55.9855224+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:05:40.1276863+00:00"
 }

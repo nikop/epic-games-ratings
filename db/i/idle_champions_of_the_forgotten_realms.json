@@ -3560,10 +3560,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29842,
       "NumberOfAwardsMax": 4873
+    },
+    {
+      "Time": "2023-05-10T18:59:25.7060001+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29846,
+      "NumberOfAwardsMax": 4873
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29842,
+  "NumberOfAwards": 29846,
   "NumberOfAwardsMax": 4873,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3607,12 +3613,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3227
+      "Count": 3231
     }
   ],
-  "EOS_Progressed": 87071,
+  "EOS_Progressed": 87084,
   "EOS_Completed": 1822,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5370,6 +5376,11 @@
       "Time": "2023-05-10T17:06:57.0629412+00:00",
       "NumProgressed": 87071,
       "NumCompleted": 1822
+    },
+    {
+      "Time": "2023-05-10T19:07:10.9103645+00:00",
+      "NumProgressed": 87084,
+      "NumCompleted": 1822
     }
   ],
   "TotalAchievements": 489,
@@ -5749,7 +5760,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "objective_completed_110",
@@ -6091,9 +6102,9 @@
       "ID": "objective_completed_1169",
       "SetID": "415jc5c",
       "Name": "Well Equipped",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_117",
@@ -6261,7 +6272,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "objective_completed_1208",
@@ -6269,7 +6280,7 @@
       "Name": "Vecna Out!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "objective_completed_1209",
@@ -7061,7 +7072,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "objective_completed_35",
@@ -7667,9 +7678,9 @@
       "ID": "objective_completed_56",
       "SetID": "cc37lbc",
       "Name": "Crowded Streets",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_560",
@@ -8475,9 +8486,9 @@
       "ID": "objective_completed_692",
       "SetID": "415jc5c",
       "Name": "Giant-Size Adventure",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_693",
@@ -8525,7 +8536,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "objective_completed_70",
@@ -9292,21 +9303,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53345,
+      "Progressed": 53358,
       "Completed": 2488
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87071,
+      "Progressed": 87084,
       "Completed": 1822
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-10T06:57:46.2440134+00:00",
-  "LastChanged_Achievements": "2023-05-10T17:06:57.0629407+00:00",
+  "LastChanged": "2023-05-10T18:59:25.706+00:00",
+  "LastChanged_Achievements": "2023-05-10T19:07:10.9103636+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T16:58:11.1075461+00:00",
-  "LastUpdate_Achievements": "2023-05-10T17:06:57.0655641+00:00"
+  "LastUpdate_Ratings": "2023-05-10T18:59:25.7060005+00:00",
+  "LastUpdate_Achievements": "2023-05-10T19:07:10.9130592+00:00"
 }
