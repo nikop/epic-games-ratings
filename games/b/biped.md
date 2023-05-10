@@ -20,7 +20,7 @@
 | Robot lives matter too | 0.00% | ~0 |
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,100 (Ranked 159)  
+Progressed: 1,101 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,7 +40,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-05-07 | 1,075 | 0 |
 | 2023-05-08 | 1,087 | 0 |
 | 2023-05-09 | 1,099 | 0 |
-| 2023-05-10 | 1,100 | 0 |
+| 2023-05-10 | 1,101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

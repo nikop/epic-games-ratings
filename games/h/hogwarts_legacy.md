@@ -5,17 +5,17 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,322 |
-| Grappling with a Graphorn | 5.00% | ~13,322 |
-| The One Who Mastered Memories | 5.00% | ~13,322 |
-| The Hallowed Hero | 5.00% | ~13,322 |
-| The Hero of Hogwarts | 5.00% | ~13,322 |
-| The Defender of Dragons | 5.00% | ~13,322 |
-| Challenge Accepted | 5.00% | ~13,322 |
-| Loom for Improvement | 5.00% | ~13,322 |
-| Coasting Along | 5.00% | ~13,322 |
-| That's a Keeper | 5.00% | ~13,322 |
-| Rising From the Ashes | 5.00% | ~13,322 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,323 |
+| Grappling with a Graphorn | 5.00% | ~13,323 |
+| The One Who Mastered Memories | 5.00% | ~13,323 |
+| The Hallowed Hero | 5.00% | ~13,323 |
+| The Hero of Hogwarts | 5.00% | ~13,323 |
+| The Defender of Dragons | 5.00% | ~13,323 |
+| Challenge Accepted | 5.00% | ~13,323 |
+| Loom for Improvement | 5.00% | ~13,323 |
+| Coasting Along | 5.00% | ~13,323 |
+| That's a Keeper | 5.00% | ~13,323 |
+| Rising From the Ashes | 5.00% | ~13,323 |
 | The Avenging Gazelle | 4.00% | ~10,658 |
 | Beast Friends | 4.00% | ~10,658 |
 | A Sallow Grave | 4.00% | ~10,658 |
@@ -37,11 +37,11 @@ Rating: 4.77 (Ranked 103)
 | The Intrepid Explorer | 2.00% | ~5,329 |
 | The Gryffindor in the Graveyard | 2.00% | ~5,329 |
 | The Ends Petrify the Means | 2.00% | ~5,329 |
-| The Good Samaritan | 1.00% | ~2,664 |
-| Put Down Roots | 1.00% | ~2,664 |
-| The Auror's Apprentice | 1.00% | ~2,664 |
-| Rise to the Challenges | 1.00% | ~2,664 |
-| The Wise Owl | 1.00% | ~2,664 |
+| The Good Samaritan | 1.00% | ~2,665 |
+| Put Down Roots | 1.00% | ~2,665 |
+| The Auror's Apprentice | 1.00% | ~2,665 |
+| Rise to the Challenges | 1.00% | ~2,665 |
+| The Wise Owl | 1.00% | ~2,665 |
 | Finishing Touches | 0.90% | ~2,398 |
 | Demiguise Dread | 0.80% | ~2,132 |
 | Savvy Spender | 0.70% | ~1,865 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,066 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,450 (Ranked 38)  
-Completed: 356 (0.13%) (Ranked 149)  
+Progressed: 266,453 (Ranked 38)  
+Completed: 357 (0.13%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 356 (0.13%) (Ranked 149)
 | 2023-05-07 | 266,124 | 351 |
 | 2023-05-08 | 266,274 | 354 |
 | 2023-05-09 | 266,399 | 356 |
-| 2023-05-10 | 266,450 | 356 |
+| 2023-05-10 | 266,453 | 357 |
 ## Awards
 Max (Character Customization): 18,583  (Ranked 18)  
 Sum: 33,981 (Ranked 33)  

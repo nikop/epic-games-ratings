@@ -10,7 +10,7 @@
 | Get Rich Quick | 48.00% | ~1,222 |
 | Do the Splits | 41.00% | ~1,043 |
 | Maestro | 28.00% | ~713 |
-| Full Employment | 19.00% | ~484 |
+| Full Employment | 20.00% | ~509 |
 | Clay Fighter | 18.00% | ~458 |
 | Nowhere left to Hide | 15.00% | ~382 |
 | All Ovens Blazing | 14.00% | ~356 |

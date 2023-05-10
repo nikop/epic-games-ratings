@@ -4,7 +4,7 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 140,
   "Ranking_Popularity": 199,
-  "Ranking_PopularitySum": 285,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 126,
@@ -798,9 +798,9 @@
       "ID": "ACH_03",
       "SetID": "9d4cf4c",
       "Name": "A Burden of Blood",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 7469
+      "UsersEstimate": 7572
     },
     {
       "ID": "ACH_04",
@@ -1071,8 +1071,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-06T21:01:02.9835105+00:00",
-  "LastChanged_Achievements": "2023-05-10T11:06:01.6648197+00:00",
+  "LastChanged_Achievements": "2023-05-10T12:05:37.4723058+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:31.4095452+00:00",
-  "LastUpdate_Ratings": "2023-05-10T10:59:41.1474206+00:00",
-  "LastUpdate_Achievements": "2023-05-10T11:06:01.664843+00:00"
+  "LastUpdate_Ratings": "2023-05-10T11:59:09.9753312+00:00",
+  "LastUpdate_Achievements": "2023-05-10T12:05:37.4723377+00:00"
 }

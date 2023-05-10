@@ -6,26 +6,26 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~90,794 |
-| NATURAL BORN WINNER | 32.00% | ~70,863 |
-| CALLING HOUSTON | 28.00% | ~62,005 |
+| VANGUARD | 41.00% | ~90,795 |
+| NATURAL BORN WINNER | 32.00% | ~70,864 |
+| CALLING HOUSTON | 28.00% | ~62,006 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~48,719 |
-| SNEAKY SNEAKY | 21.00% | ~46,504 |
+| SNEAKY SNEAKY | 21.00% | ~46,505 |
 | GT9STRADALE | 20.00% | ~44,290 |
-| CHALLENGER | 11.00% | ~24,359 |
-| ON A ROLL | 9.00% | ~19,930 |
+| CHALLENGER | 11.00% | ~24,360 |
+| ON A ROLL | 9.00% | ~19,931 |
 | FASTER THAN EVER | 8.00% | ~17,716 |
-| CENTAUR | 7.00% | ~15,501 |
-| CHALLENGE THE WORLD | 7.00% | ~15,501 |
-| PHOTOFINISH | 7.00% | ~15,501 |
-| QAREEN | 5.00% | ~11,072 |
+| CENTAUR | 7.00% | ~15,502 |
+| CHALLENGE THE WORLD | 7.00% | ~15,502 |
+| PHOTOFINISH | 7.00% | ~15,502 |
+| QAREEN | 5.00% | ~11,073 |
 | SHOWOFF | 4.00% | ~8,858 |
 | TAKATORA | 4.00% | ~8,858 |
-| GILA | 3.00% | ~6,643 |
+| GILA | 3.00% | ~6,644 |
 | PRO | 2.00% | ~4,429 |
 | RESPWND | 2.00% | ~4,429 |
 | SHINY SHINY GOLD | 2.00% | ~4,429 |
-| HARDCORE | 1.00% | ~2,214 |
+| HARDCORE | 1.00% | ~2,215 |
 | ACE | 0.70% | ~1,550 |
 | TACTICIAN | 0.60% | ~1,329 |
 | GTX COMPETIZIONE | 0.50% | ~1,107 |
@@ -41,8 +41,8 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~443 |
 | ENLIGHTENED | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,448 (Ranked 43)  
-Completed: 41 (0.02%) (Ranked 181)  
+Progressed: 221,451 (Ranked 43)  
+Completed: 41 (0.02%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,7 +61,7 @@ Completed: 41 (0.02%) (Ranked 181)
 | 2023-05-07 | 221,246 | 41 |
 | 2023-05-08 | 221,331 | 41 |
 | 2023-05-09 | 221,414 | 41 |
-| 2023-05-10 | 221,448 | 41 |
+| 2023-05-10 | 221,451 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -581,9 +581,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 220
     },
     {
       "ID": "Hard_Serpent",
@@ -717,8 +717,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-10T11:06:01.255807+00:00",
+  "LastChanged_Achievements": "2023-05-10T12:05:37.1637251+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:27.8079323+00:00",
-  "LastUpdate_Ratings": "2023-05-10T10:59:35.8561379+00:00",
-  "LastUpdate_Achievements": "2023-05-10T11:06:01.2558247+00:00"
+  "LastUpdate_Ratings": "2023-05-10T11:59:05.9902098+00:00",
+  "LastUpdate_Achievements": "2023-05-10T12:05:37.1637461+00:00"
 }

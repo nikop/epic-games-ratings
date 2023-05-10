@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 103.00% | ~36 |
-| First Blood | 74.00% | ~26 |
-| Triple Kill | 63.00% | ~22 |
+| First Blood | 77.00% | ~27 |
+| Triple Kill | 66.00% | ~23 |
 | No Asperascope | 60.00% | ~21 |
-| Cornivore | 57.00% | ~20 |
+| Cornivore | 60.00% | ~21 |
 | 10K | 29.00% | ~10 |
 | 15K | 26.00% | ~9 |
 | Skin Of Your Teeth | 23.00% | ~8 |

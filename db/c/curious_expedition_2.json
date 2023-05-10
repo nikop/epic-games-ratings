@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "ach-discover-locations-high",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-10T11:06:20.4440668+00:00",
+  "LastChanged_Achievements": "2023-05-10T12:05:53.6681196+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:37.7226254+00:00",
-  "LastUpdate_Ratings": "2023-05-10T11:01:09.8169339+00:00",
-  "LastUpdate_Achievements": "2023-05-10T11:06:20.4441086+00:00"
+  "LastUpdate_Ratings": "2023-05-10T12:00:16.3380602+00:00",
+  "LastUpdate_Achievements": "2023-05-10T12:05:53.6681745+00:00"
 }

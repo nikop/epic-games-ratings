@@ -51,13 +51,13 @@ Number of Ratings: 87  (23.09.2022)
 | Stargazer | 1.00% | ~7 |
 | The Tortoise | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
+| Innovator | 0.90% | ~6 |
 | Prick of conscience | 0.90% | ~6 |
 | Astronomer | 0.70% | ~5 |
 | At the last moment! | 0.70% | ~5 |
 | Atomic Age | 0.70% | ~0 |
 | Digital Age | 0.70% | ~0 |
 | Information Age | 0.70% | ~0 |
-| Innovator | 0.70% | ~5 |
 | Achiever | 0.60% | ~4 |
 | Miscalculation | 0.60% | ~4 |
 | Railroad tycoon | 0.60% | ~4 |

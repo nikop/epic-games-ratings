@@ -140,6 +140,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.20% | ~107 |
 | Sunblight | 0.20% | ~107 |
 | Witty Riposting | 0.20% | ~107 |
+| Waiting on Sunrise | 0.20% | ~107 |
 | How Far Away is Thay | 0.20% | ~107 |
 | Deekin's Mission | 0.20% | ~107 |
 | The Templar's Camp | 0.20% | ~174 |
@@ -450,7 +451,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.10% | ~53 |
 | Quick Thinking | 0.10% | ~53 |
 | Tough Acting | 0.10% | ~53 |
-| Waiting on Sunrise | 0.10% | ~53 |
 | Frontline Fighters | 0.10% | ~53 |
 | A Chilling Encounter | 0.10% | ~53 |
 | Dive Bomb | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,042 (Ranked 59)  
+Progressed: 87,048 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,042 | 1,821 |
+| 2023-05-10 | 87,048 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,842 (Ranked 37)  

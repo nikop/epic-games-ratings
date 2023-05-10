@@ -7,7 +7,7 @@ Rating: 4.74 (Ranked 140)
 | ---- | ---------- | ----- |
 | Under a New Sun | 93.00% | ~9,516 |
 | Newcomers | 79.00% | ~8,083 |
-| A Burden of Blood | 73.00% | ~7,469 |
+| A Burden of Blood | 74.00% | ~7,572 |
 | Protector's Duty | 70.00% | ~7,162 |
 | Alchemist | 68.00% | ~6,958 |
 | In our Wake | 67.00% | ~6,855 |
@@ -64,8 +64,8 @@ Completed: 30 (0.29%) (Ranked 124)
 | 2023-05-10 | 10,232 | 30 |
 ## Awards
 Max (Great Boss Battles): 400  (Ranked 199)  
-Sum: 556 (Ranked 285)  
-Diff (max vs sum): -86  
+Sum: 556 (Ranked 286)  
+Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 400 |

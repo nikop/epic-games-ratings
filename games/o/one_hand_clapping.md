@@ -18,8 +18,8 @@
 | Maestro Mountain Glyph | 0.40% | ~3 |
 | Coda Cave | 0.40% | ~3 |
 | Solo Sea | 0.40% | ~3 |
+| Antiphony | 0.30% | ~2 |
 | Silent City: Reprise | 0.30% | ~2 |
-| Antiphony | 0.10% | ~1 |
 | Resonance | 0.10% | ~1 |
 | Symphony | 0.00% | ~0 |
 | Musica Universalis | 0.00% | ~0 |

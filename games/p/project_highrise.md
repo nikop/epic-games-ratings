@@ -5,18 +5,18 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~90 |
-| Starting Skyward | 54.00% | ~84 |
+| Starting Skyward | 53.00% | ~83 |
 | Grime is Not Good | 47.00% | ~73 |
 | Campaign Launch | 40.00% | ~62 |
-| Floor Galore | 39.00% | ~60 |
-| Dinner Dash | 39.00% | ~60 |
+| Floor Galore | 39.00% | ~61 |
+| Dinner Dash | 39.00% | ~61 |
 | It's Technical | 36.00% | ~56 |
-| Upgrade Unlock | 35.00% | ~54 |
+| Upgrade Unlock | 35.00% | ~55 |
 | Need a Consult | 34.00% | ~53 |
 | Delegate Maintenance | 32.00% | ~50 |
 | Proper Walls | 31.00% | ~48 |
 | Destination Destiny | 27.00% | ~42 |
-| Happy Tenants | 25.00% | ~39 |
+| Happy Tenants | 24.00% | ~37 |
 | Smooth Service | 24.00% | ~37 |
 | Potent Potables | 23.00% | ~36 |
 | Lux Living | 22.00% | ~34 |
@@ -29,17 +29,17 @@
 | Get Electrified | 21.00% | ~33 |
 | Artfully Done | 20.00% | ~31 |
 | Rehab Expert | 20.00% | ~31 |
-| Tasty Profits | 19.00% | ~29 |
-| We Don't Need No Education | 19.00% | ~29 |
+| Tasty Profits | 19.00% | ~30 |
+| We Don't Need No Education | 19.00% | ~30 |
 | Cashflow Chief | 18.00% | ~28 |
-| Under One Roof | 17.00% | ~26 |
-| Established Fame | 17.00% | ~26 |
-| Boutique Benefits | 17.00% | ~26 |
-| Terrifically Trashed | 17.00% | ~26 |
+| Under One Roof | 17.00% | ~27 |
+| Established Fame | 17.00% | ~27 |
+| Boutique Benefits | 17.00% | ~27 |
+| Terrifically Trashed | 17.00% | ~27 |
 | Thrilled Tenants | 16.00% | ~25 |
 | Swimming in Surplus | 15.00% | ~23 |
 | Starred Dining | 15.00% | ~23 |
-| Smooth Operator | 14.00% | ~22 |
+| Smooth Operator | 13.00% | ~20 |
 | 28 Days Later | 13.00% | ~20 |
 | Plaza Plan | 12.00% | ~19 |
 | First 100 Days | 10.00% | ~16 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 234)  
+Progressed: 156 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 0 (0.00%) (Ranked 197)
 | 2023-04-30 | 153 | 0 |
 | 2023-05-04 | 154 | 0 |
 | 2023-05-06 | 155 | 0 |
+| 2023-05-10 | 156 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
