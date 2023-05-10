@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516059,
+  "EOS_Progressed": 516060,
   "EOS_Completed": 403,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2150,6 +2150,11 @@
       "Time": "2023-05-10T10:04:56.4278455+00:00",
       "NumProgressed": 516059,
       "NumCompleted": 403
+    },
+    {
+      "Time": "2023-05-10T11:05:43.736947+00:00",
+      "NumProgressed": 516060,
+      "NumCompleted": 403
     }
   ],
   "TotalAchievements": 57,
@@ -2177,7 +2182,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 361241
+      "UsersEstimate": 361242
     },
     {
       "ID": "12",
@@ -2201,7 +2206,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 56766
+      "UsersEstimate": 56767
     },
     {
       "ID": "15",
@@ -2265,7 +2270,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 56766
+      "UsersEstimate": 56767
     },
     {
       "ID": "22",
@@ -2537,7 +2542,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237387
+      "UsersEstimate": 237388
     },
     {
       "ID": "53",
@@ -2616,15 +2621,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516059,
+      "Progressed": 516060,
       "Completed": 403
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-10T10:04:56.4278448+00:00",
+  "LastChanged_Achievements": "2023-05-10T11:05:43.7369466+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.3106863+00:00",
-  "LastUpdate_Ratings": "2023-05-10T09:57:18.5855435+00:00",
-  "LastUpdate_Achievements": "2023-05-10T10:04:56.4279826+00:00"
+  "LastUpdate_Ratings": "2023-05-10T10:57:22.3959421+00:00",
+  "LastUpdate_Achievements": "2023-05-10T11:05:43.7369971+00:00"
 }

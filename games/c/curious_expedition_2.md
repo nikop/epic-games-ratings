@@ -6,19 +6,19 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 57.00% | ~165 |
-| Cartographer | 50.00% | ~145 |
-| A Strange Artefact | 47.00% | ~136 |
+| The Adventure Begins | 57.00% | ~166 |
+| Cartographer | 50.00% | ~146 |
+| A Strange Artefact | 46.00% | ~134 |
 | Insomnia | 43.00% | ~125 |
-| From Whence we Came | 38.00% | ~110 |
-| Lost & Found & Lost Again | 37.00% | ~107 |
+| From Whence we Came | 38.00% | ~111 |
+| Lost & Found & Lost Again | 37.00% | ~108 |
 | Fire and Flood | 35.00% | ~102 |
 | Spooky! | 33.00% | ~96 |
 | Shennong Herbalist | 31.00% | ~90 |
 | Treasure Hunt | 30.00% | ~87 |
 | Good Mama | 29.00% | ~84 |
-| O Captain My Captain | 27.00% | ~78 |
-| Plunderer | 25.00% | ~72 |
+| O Captain My Captain | 26.00% | ~76 |
+| Plunderer | 25.00% | ~73 |
 | Taxonomist | 24.00% | ~70 |
 | Nahua Seeker | 22.00% | ~64 |
 | Uncertain Loyalties | 22.00% | ~64 |
@@ -47,8 +47,8 @@ Number of Ratings: 20  (23.09.2022)
 | Level Up | 8.00% | ~23 |
 | Cold Blood, Warm Heart | 8.00% | ~23 |
 | No Laughing Matter | 7.00% | ~20 |
-| Zookeeper | 6.00% | ~17 |
-| The Workshop | 5.00% | ~14 |
+| Zookeeper | 5.00% | ~15 |
+| The Workshop | 5.00% | ~15 |
 | Islander Understanding | 4.00% | ~12 |
 | A Paris Sunset | 4.00% | ~12 |
 | The Director Perseveres | 4.00% | ~12 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 209)  
+Progressed: 291 (Ranked 209)  
 Completed: 1 (0.34%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 1 (0.34%) (Ranked 116)
 | 2023-04-25 | 287 | 1 |
 | 2023-05-05 | 288 | 1 |
 | 2023-05-08 | 290 | 1 |
+| 2023-05-10 | 291 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

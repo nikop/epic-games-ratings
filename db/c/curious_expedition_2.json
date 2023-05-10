@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -68,6 +68,11 @@
     {
       "Time": "2023-05-08T14:09:49.4500344+00:00",
       "NumProgressed": 290,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-10T11:06:20.4440672+00:00",
+      "NumProgressed": 291,
       "NumCompleted": 1
     }
   ],
@@ -94,9 +99,9 @@
       "ID": "ach-allAnimals",
       "SetID": "17ih7ma",
       "Name": "Zookeeper",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ach-anthropology-complete",
@@ -214,9 +219,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "ach-campaign-story2",
@@ -224,15 +229,15 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "ach-cartography-complete",
@@ -256,7 +261,7 @@
       "Name": "Cartographer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach-discover-locations-high",
@@ -304,7 +309,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach-hardExpeditions",
@@ -376,7 +381,7 @@
       "Name": "The Workshop",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach-maxClubLevel-british",
@@ -456,7 +461,7 @@
       "Name": "From Whence we Came",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach-promotion",
@@ -496,7 +501,7 @@
       "Name": "Plunderer",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach-salamanderPrince",
@@ -559,7 +564,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 1
     }
   ],
@@ -567,8 +572,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-10T10:05:26.4195714+00:00",
+  "LastChanged_Achievements": "2023-05-10T11:06:20.4440668+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:37.7226254+00:00",
-  "LastUpdate_Ratings": "2023-05-10T10:00:00.6079935+00:00",
-  "LastUpdate_Achievements": "2023-05-10T10:05:26.4196629+00:00"
+  "LastUpdate_Ratings": "2023-05-10T11:01:09.8169339+00:00",
+  "LastUpdate_Achievements": "2023-05-10T11:06:20.4441086+00:00"
 }

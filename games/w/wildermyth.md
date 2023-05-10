@@ -57,7 +57,7 @@ Number of Ratings: 45  (23.09.2022)
 | Symbiosis | 1.00% | ~12 |
 | I'm Not Smiling | 1.00% | ~12 |
 | Thwack! | 1.00% | ~12 |
-| A Temperamental Shrub | 0.80% | ~9 |
+| A Temperamental Shrub | 0.90% | ~10 |
 | A Lowly Crust of Beef | 0.70% | ~8 |
 | We Call That Mortificient! | 0.50% | ~6 |
 | Overwhelming Monstrosity | 0.40% | ~5 |

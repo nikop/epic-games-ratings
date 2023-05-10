@@ -3610,9 +3610,9 @@
       "Count": 3227
     }
   ],
-  "EOS_Progressed": 87039,
+  "EOS_Progressed": 87042,
   "EOS_Completed": 1821,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5340,6 +5340,11 @@
       "Time": "2023-05-10T10:05:28.6116627+00:00",
       "NumProgressed": 87039,
       "NumCompleted": 1821
+    },
+    {
+      "Time": "2023-05-10T11:06:23.2137313+00:00",
+      "NumProgressed": 87042,
+      "NumCompleted": 1821
     }
   ],
   "TotalAchievements": 489,
@@ -5781,9 +5786,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_1111",
@@ -6565,9 +6570,9 @@
       "ID": "objective_completed_167",
       "SetID": "cc37lbc",
       "Name": "Vajra\u0027s Guards",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_169",
@@ -6645,9 +6650,9 @@
       "ID": "objective_completed_184",
       "SetID": "cc37lbc",
       "Name": "Tomb of the Nine Gods",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_185",
@@ -7717,9 +7722,9 @@
       "ID": "objective_completed_571",
       "SetID": "cc37lbc",
       "Name": "Troublesome Prisoner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_572",
@@ -9262,21 +9267,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53313,
+      "Progressed": 53316,
       "Completed": 2488
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87039,
+      "Progressed": 87042,
       "Completed": 1821
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-10T06:57:46.2440134+00:00",
-  "LastChanged_Achievements": "2023-05-10T10:05:28.6116622+00:00",
+  "LastChanged_Achievements": "2023-05-10T11:06:23.2137309+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T09:57:54.19808+00:00",
-  "LastUpdate_Achievements": "2023-05-10T10:05:28.6146753+00:00"
+  "LastUpdate_Ratings": "2023-05-10T10:58:11.6065437+00:00",
+  "LastUpdate_Achievements": "2023-05-10T11:06:23.2158658+00:00"
 }

@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 103)
 | The Spell Master | 4.00% | ~10,658 |
 | First Class Student | 4.00% | ~10,658 |
 | Troll with the Punches | 4.00% | ~10,658 |
-| The Seeker of Knowledge | 3.00% | ~7,993 |
-| The Root of the Problem | 3.00% | ~7,993 |
-| Third Time's a Charm | 3.00% | ~7,993 |
-| Raising Expectations | 3.00% | ~7,993 |
+| The Seeker of Knowledge | 3.00% | ~7,994 |
+| The Root of the Problem | 3.00% | ~7,994 |
+| Third Time's a Charm | 3.00% | ~7,994 |
+| Raising Expectations | 3.00% | ~7,994 |
 | The Toast of the Town | 2.00% | ~5,329 |
 | Going Through the Potions | 2.00% | ~5,329 |
 | Room with a View | 2.00% | ~5,329 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,066 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,446 (Ranked 38)  
+Progressed: 266,450 (Ranked 38)  
 Completed: 356 (0.13%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,10 +71,10 @@ Completed: 356 (0.13%) (Ranked 149)
 | 2023-05-07 | 266,124 | 351 |
 | 2023-05-08 | 266,274 | 354 |
 | 2023-05-09 | 266,399 | 356 |
-| 2023-05-10 | 266,446 | 356 |
+| 2023-05-10 | 266,450 | 356 |
 ## Awards
 Max (Character Customization): 18,583  (Ranked 18)  
-Sum: 33,978 (Ranked 33)  
+Sum: 33,981 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -83,7 +83,7 @@ Diff (max vs sum): -15
 | This game is Extremely Fun | 751 |
 | This game is Great for Beginners | 734 |
 | This game is Relaxing | 722 |
-| This game has Diverse Characters | 713 |
+| This game has Diverse Characters | 716 |
 | This game has Amazing Storytelling | 705 |
 | This game has Amazing Characters | 701 |
 | This game is Highly Recommended | 682 |
@@ -140,3 +140,4 @@ Diff (max vs sum): -15
 | 2023-05-07 | 4.77 | 18,488 | 33,760 |
 | 2023-05-08 | 4.77 | 18,546 | 33,875 |
 | 2023-05-09 | 4.77 | 18,583 | 33,978 |
+| 2023-05-10 | 4.77 | 18,583 | 33,981 |

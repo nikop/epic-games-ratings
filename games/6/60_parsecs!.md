@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~569 |
-| Space Colonization | 80.00% | ~470 |
-| Friendzone | 79.00% | ~464 |
-| Hello World | 74.00% | ~434 |
-| Tinkerer | 63.00% | ~370 |
-| Space Engineer | 62.00% | ~364 |
+| Don't Panic! | 97.00% | ~570 |
+| Friendzone | 79.00% | ~465 |
+| Space Colonization | 79.00% | ~465 |
+| Hello World | 74.00% | ~435 |
+| Space Engineer | 62.00% | ~365 |
+| Tinkerer | 62.00% | ~365 |
 | Dust to Dust | 57.00% | ~335 |
 | Across The Stars | 47.00% | ~276 |
-| Crafty | 44.00% | ~258 |
-| All Seats Taken | 35.00% | ~205 |
-| For Science! | 32.00% | ~188 |
+| Crafty | 44.00% | ~259 |
+| All Seats Taken | 35.00% | ~206 |
+| For Science! | 31.00% | ~182 |
 | Meet the Petersons | 31.00% | ~182 |
-| Stay Cool | 28.00% | ~164 |
+| Stay Cool | 28.00% | ~165 |
 | KIA | 25.00% | ~147 |
 | Mutiny in making | 22.00% | ~129 |
 | Et tu, Astrocitizen? | 19.00% | ~112 |
 | Eco-Shuttle | 18.00% | ~106 |
 | Space Explorer | 14.00% | ~82 |
-| Hands Full | 12.00% | ~70 |
+| Hands Full | 12.00% | ~71 |
 | Gold Medalist | 11.00% | ~65 |
 | Non-Fiction | 11.00% | ~65 |
 | No Man Left Behind | 9.00% | ~53 |
@@ -32,9 +32,9 @@
 | First of April | 6.00% | ~35 |
 | Fix-It Felix | 6.00% | ~35 |
 | Axel jump in space! | 5.00% | ~29 |
-| Extreme Makeover | 4.00% | ~23 |
-| The Improvinator | 4.00% | ~23 |
-| The Last Supper | 4.00% | ~23 |
+| Extreme Makeover | 4.00% | ~24 |
+| The Improvinator | 4.00% | ~24 |
+| The Last Supper | 4.00% | ~24 |
 | Bovine Domain | 2.00% | ~12 |
 | 2018: A Soup Odyssey | 2.00% | ~12 |
 | That's No Moon! | 2.00% | ~12 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587 (Ranked 183)  
+Progressed: 588 (Ranked 183)  
 Completed: 1 (0.17%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,6 +62,7 @@ Completed: 1 (0.17%) (Ranked 141)
 | 2023-05-07 | 585 | 1 |
 | 2023-05-08 | 586 | 1 |
 | 2023-05-09 | 587 | 1 |
+| 2023-05-10 | 588 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

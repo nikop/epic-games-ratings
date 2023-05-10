@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~107 |
 | The Silken Swamp | 0.20% | ~174 |
 | Wet Feet | 0.20% | ~174 |
+| Hatchlings Underfoot | 0.20% | ~174 |
 | Supply Run | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~107 |
 | The Evacuation of Waterdeep | 0.20% | ~107 |
@@ -76,10 +77,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.20% | ~174 |
 | Street War | 0.20% | ~174 |
 | Force Grey Unleashed | 0.20% | ~174 |
+| Vajra's Guards | 0.20% | ~174 |
 | March of the Undead | 0.20% | ~174 |
 | Wisdom Check | 0.20% | ~174 |
 | Sleuth It Out | 0.20% | ~174 |
 | A Grand Puzzle | 0.20% | ~174 |
+| Tomb of the Nine Gods | 0.20% | ~174 |
 | The Mists of Ravenloft | 0.20% | ~174 |
 | Invisible Shadows | 0.20% | ~174 |
 | Family Entanglements | 0.20% | ~174 |
@@ -110,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.20% | ~174 |
 | Lair of the Xanathar | 0.20% | ~174 |
 | The Darkness Runs Deeper | 0.20% | ~174 |
+| Troublesome Prisoner | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
@@ -183,7 +187,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Alien Underdark | 0.10% | ~53 |
 | Thoughts on the Menu | 0.10% | ~53 |
 | Brains on Ice | 0.10% | ~53 |
-| Hatchlings Underfoot | 0.10% | ~87 |
 | The Oozing Hunger | 0.10% | ~53 |
 | Levelheaded | 0.10% | ~53 |
 | The Madness of Zuggtmoy | 0.10% | ~53 |
@@ -243,12 +246,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~87 |
 | Double Vision | 0.10% | ~87 |
 | Underground Railroad | 0.10% | ~87 |
-| Vajra's Guards | 0.10% | ~87 |
 | The Newcomers of Notoriety | 0.10% | ~53 |
 | Never Split the Party | 0.10% | ~87 |
 | Azaka's Procession - Part 1 | 0.10% | ~87 |
 | Snakes on our Plane | 0.10% | ~53 |
-| Tomb of the Nine Gods | 0.10% | ~87 |
 | The Soulmonger Calls | 0.10% | ~87 |
 | Azaka's Procession - Part 2 | 0.10% | ~87 |
 | Acererak's Puzzle | 0.10% | ~53 |
@@ -341,7 +342,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~87 |
 | The Tallest of Kobolds | 0.10% | ~53 |
 | Patience is Key | 0.10% | ~87 |
-| Troublesome Prisoner | 0.10% | ~87 |
 | Dark Doppelgangers | 0.10% | ~87 |
 | Faerûn's Most Wanted | 0.10% | ~53 |
 | Cold & Wet | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,039 (Ranked 59)  
+Progressed: 87,042 (Ranked 59)  
 Completed: 1,821 (2.09%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -516,7 +516,7 @@ Completed: 1,821 (2.09%) (Ranked 59)
 | 2023-05-07 | 86,808 | 1,811 |
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
-| 2023-05-10 | 87,039 | 1,821 |
+| 2023-05-10 | 87,042 | 1,821 |
 ## Awards
 Max (Diverse Characters): 4,873  (Ranked 63)  
 Sum: 29,842 (Ranked 37)  

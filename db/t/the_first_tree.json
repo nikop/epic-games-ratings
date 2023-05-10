@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30501,
+  "EOS_Progressed": 30502,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1701,6 +1701,11 @@
       "Time": "2023-05-10T10:05:19.3069046+00:00",
       "NumProgressed": 30501,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-10T11:06:11.6859938+00:00",
+      "NumProgressed": 30502,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 14,
@@ -1728,7 +1733,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 7930
+      "UsersEstimate": 7931
     },
     {
       "ID": "allItems",
@@ -1792,7 +1797,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7626
     },
     {
       "ID": "firstItem",
@@ -1800,7 +1805,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23791
+      "UsersEstimate": 23792
     },
     {
       "ID": "roots",
@@ -1823,15 +1828,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30501,
+      "Progressed": 30502,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
-  "LastChanged_Achievements": "2023-05-10T10:05:19.3069041+00:00",
+  "LastChanged_Achievements": "2023-05-10T11:06:11.6859932+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.1528242+00:00",
-  "LastUpdate_Ratings": "2023-05-10T09:59:42.5292623+00:00",
-  "LastUpdate_Achievements": "2023-05-10T10:05:19.3069248+00:00"
+  "LastUpdate_Ratings": "2023-05-10T11:00:42.6798206+00:00",
+  "LastUpdate_Achievements": "2023-05-10T11:06:11.6860082+00:00"
 }

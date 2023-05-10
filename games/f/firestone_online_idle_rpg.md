@@ -5,18 +5,18 @@ Rating: 3.48 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~873 |
-| World Map | 79.00% | ~742 |
-| Temple of Eternals | 55.00% | ~516 |
-| Prestigious | 52.00% | ~488 |
-| Fellowship Power | 39.00% | ~366 |
+| Victor | 93.00% | ~874 |
+| World Map | 79.00% | ~743 |
+| Temple of Eternals | 55.00% | ~517 |
+| Prestigious | 52.00% | ~489 |
+| Fellowship Power | 39.00% | ~367 |
 | Guild Power | 23.00% | ~216 |
-| Prestigious x10 | 19.00% | ~178 |
+| Prestigious x10 | 19.00% | ~179 |
 | The game is on | 16.00% | ~150 |
 | Exotic Merchant | 15.00% | ~141 |
-| Dragon Clicker | 13.00% | ~122 |
+| Dragon Clicker | 14.00% | ~132 |
+| Miner Clicker | 14.00% | ~132 |
 | Inspection | 13.00% | ~122 |
-| Miner Clicker | 13.00% | ~122 |
 | Hero inspection | 12.00% | ~113 |
 | Full Party | 11.00% | ~103 |
 | Dragon Master | 8.00% | ~75 |
@@ -35,6 +35,7 @@ Rating: 3.48 (Ranked 917)
 | Mastery | 3.00% | ~28 |
 | The Expeditioner | 3.00% | ~28 |
 | The power of Awakening | 3.00% | ~28 |
+| Challenger | 2.00% | ~19 |
 | Doing My Part | 2.00% | ~19 |
 | Here We Go Again | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
@@ -42,7 +43,6 @@ Rating: 3.48 (Ranked 917)
 | Scroll Master | 2.00% | ~19 |
 | Active Member | 1.00% | ~9 |
 | Ancient Knowledge | 1.00% | ~9 |
-| Challenger | 1.00% | ~9 |
 | Four Leaf Clover | 1.00% | ~9 |
 | How Do You Turn This On? | 1.00% | ~9 |
 | Master Enchanter | 1.00% | ~9 |
@@ -81,7 +81,7 @@ Rating: 3.48 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 939 (Ranked 165)  
+Progressed: 940 (Ranked 165)  
 Completed: 1 (0.11%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.11%) (Ranked 152)
 | 2023-05-07 | 903 | 1 |
 | 2023-05-08 | 916 | 1 |
 | 2023-05-09 | 935 | 1 |
-| 2023-05-10 | 939 | 1 |
+| 2023-05-10 | 940 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
