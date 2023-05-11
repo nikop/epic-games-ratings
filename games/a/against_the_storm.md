@@ -20,12 +20,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 0.70% | ~103 |
 | Bandit Camp | 0.60% | ~88 |
 | Ancient Battleground | 0.60% | ~88 |
+| Royal Outpost | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
 | Sparkdew Crystals | 0.50% | ~74 |
 | Dangerous Lands | 0.50% | ~74 |
 | Flooded Mines | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |
-| Royal Outpost | 0.50% | ~74 |
 | Corrosive Torrent | 0.50% | ~74 |
 | Cursed Lands | 0.50% | ~74 |
 | A Real Challenge | 0.50% | ~74 |

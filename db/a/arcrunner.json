@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -447,9 +447,9 @@
       "ID": "ACHV_SUPPLYRUN",
       "SetID": "cceobco",
       "Name": "Supply Run",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -520,8 +520,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-11T04:05:01.3908747+00:00",
+  "LastChanged_Achievements": "2023-05-11T05:06:02.3149764+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:59:05.184989+00:00",
-  "LastUpdate_Achievements": "2023-05-11T04:05:01.3908975+00:00"
+  "LastUpdate_Ratings": "2023-05-11T04:59:40.9690542+00:00",
+  "LastUpdate_Achievements": "2023-05-11T05:06:02.3150142+00:00"
 }

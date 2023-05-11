@@ -5609,9 +5609,9 @@
       "Count": 4685
     }
   ],
-  "EOS_Progressed": 799052,
+  "EOS_Progressed": 799055,
   "EOS_Completed": 1585,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -7434,6 +7434,11 @@
       "Time": "2023-05-11T04:04:34.0229774+00:00",
       "NumProgressed": 799052,
       "NumCompleted": 1585
+    },
+    {
+      "Time": "2023-05-11T05:05:30.2198774+00:00",
+      "NumProgressed": 799055,
+      "NumCompleted": 1585
     }
   ],
   "TotalAchievements": 44,
@@ -7477,7 +7482,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295649
+      "UsersEstimate": 295650
     },
     {
       "ID": "FollowingTheRiver",
@@ -7565,7 +7570,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167801
+      "UsersEstimate": 167802
     },
     {
       "ID": "MaxPain",
@@ -7621,7 +7626,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215744
+      "UsersEstimate": 215745
     },
     {
       "ID": "Specialist",
@@ -7661,7 +7666,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535365
+      "UsersEstimate": 535367
     },
     {
       "ID": "TheHermit",
@@ -7669,7 +7674,7 @@
       "Name": "The Hermit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 183782
+      "UsersEstimate": 183783
     },
     {
       "ID": "TheHightPriestess",
@@ -7677,7 +7682,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159810
+      "UsersEstimate": 159811
     },
     {
       "ID": "TheLovers",
@@ -7685,7 +7690,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255697
+      "UsersEstimate": 255698
     },
     {
       "ID": "TheStar",
@@ -7709,7 +7714,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199763
+      "UsersEstimate": 199764
     },
     {
       "ID": "TheWorld",
@@ -7717,7 +7722,7 @@
       "Name": "The World",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 127848
+      "UsersEstimate": 127849
     },
     {
       "ID": "ThisIsPacifica",
@@ -7741,7 +7746,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175791
+      "UsersEstimate": 175792
     },
     {
       "ID": "TrueWarrior",
@@ -7749,7 +7754,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 111867
+      "UsersEstimate": 111868
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -7789,22 +7794,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 167801
+      "UsersEstimate": 167802
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799052,
+      "Progressed": 799055,
       "Completed": 1585
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-05-11T01:56:37.4629998+00:00",
-  "LastChanged_Achievements": "2023-05-11T04:04:34.0229769+00:00",
+  "LastChanged_Achievements": "2023-05-11T05:05:30.2198768+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:57:30.1238086+00:00",
-  "LastUpdate_Achievements": "2023-05-11T04:04:34.0230292+00:00"
+  "LastUpdate_Ratings": "2023-05-11T04:57:44.0312749+00:00",
+  "LastUpdate_Achievements": "2023-05-11T05:05:30.2199419+00:00"
 }

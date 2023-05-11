@@ -6,40 +6,40 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~219,031 |
-| Uncharted Territory | 89.00% | ~203,060 |
+| First Steps | 96.00% | ~219,032 |
+| Uncharted Territory | 89.00% | ~203,061 |
 | Getting A Glimpse | 73.00% | ~166,555 |
-| A Quick Escape | 65.00% | ~148,302 |
-| Explorer | 62.00% | ~141,457 |
+| A Quick Escape | 65.00% | ~148,303 |
+| Explorer | 62.00% | ~141,458 |
 | Defeat The Dark | 61.00% | ~139,176 |
 | An Offering | 61.00% | ~139,176 |
-| Colorful Corpse | 58.00% | ~132,331 |
+| Colorful Corpse | 58.00% | ~132,332 |
 | That Was Quick | 56.00% | ~127,768 |
 | A Donation | 56.00% | ~127,768 |
 | Goodbye, Frog Friend | 54.00% | ~123,205 |
 | Heavy Hitter | 52.00% | ~118,642 |
-| Heartless | 46.00% | ~104,952 |
-| Spine Breaker | 46.00% | ~104,952 |
-| Deflection | 44.00% | ~100,389 |
+| Heartless | 46.00% | ~104,953 |
+| Spine Breaker | 46.00% | ~104,953 |
+| Deflection | 44.00% | ~100,390 |
 | Sneaky | 43.00% | ~98,108 |
 | Delving Deeper | 42.00% | ~95,826 |
-| Ambitious Intent | 41.00% | ~93,544 |
-| C-C-Combo | 41.00% | ~93,544 |
+| Ambitious Intent | 41.00% | ~93,545 |
+| C-C-Combo | 41.00% | ~93,545 |
 | The Bestiary | 40.00% | ~91,263 |
-| Nothing To Lose | 39.00% | ~88,981 |
+| Nothing To Lose | 39.00% | ~88,982 |
 | What's Yours Is Mine | 38.00% | ~86,700 |
 | R.I.P | 36.00% | ~82,137 |
 | Shootout | 35.00% | ~79,855 |
-| Cold Hearted | 34.00% | ~77,573 |
-| I Am Overburdened | 34.00% | ~77,573 |
-| Dig Your Own Grave | 32.00% | ~73,010 |
-| Toxic | 32.00% | ~73,010 |
+| Cold Hearted | 34.00% | ~77,574 |
+| I Am Overburdened | 34.00% | ~77,574 |
+| Dig Your Own Grave | 32.00% | ~73,011 |
+| Toxic | 32.00% | ~73,011 |
 | Who To Trust? | 31.00% | ~70,729 |
 | Flesh Wound | 29.00% | ~66,166 |
-| Walk It Off | 27.00% | ~61,602 |
-| Stone Touch | 27.00% | ~61,602 |
-| Acid Bath | 27.00% | ~61,602 |
-| Shadow Walker | 27.00% | ~61,602 |
+| Walk It Off | 27.00% | ~61,603 |
+| Stone Touch | 27.00% | ~61,603 |
+| Acid Bath | 27.00% | ~61,603 |
+| Shadow Walker | 27.00% | ~61,603 |
 | Consecutive Curses | 26.00% | ~59,321 |
 | Destroy Your Fears | 26.00% | ~59,321 |
 | New Perspectives | 26.00% | ~59,321 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~913 |
 | Near Death Experience | 0.30% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,157 (Ranked 41)  
+Progressed: 228,158 (Ranked 41)  
 Completed: 228 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 228 (0.10%) (Ranked 156)
 | 2023-05-08 | 228,029 | 226 |
 | 2023-05-09 | 228,086 | 228 |
 | 2023-05-10 | 228,144 | 228 |
-| 2023-05-11 | 228,157 | 228 |
+| 2023-05-11 | 228,158 | 228 |
 ## Awards
 Max (Quickly Understood Controls): 1,471  (Ranked 114)  
 Sum: 11,387 (Ranked 74)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -128,10 +128,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5653,
+  "EOS_Progressed": 5655,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 186,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 188,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -1218,6 +1218,11 @@
       "Time": "2023-05-11T04:04:37.1055547+00:00",
       "NumProgressed": 5653,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-11T05:05:33.7539341+00:00",
+      "NumProgressed": 5655,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1253,7 +1258,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -1277,7 +1282,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1381,7 +1386,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "THING",
@@ -1396,7 +1401,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5653,
+      "Progressed": 5655,
       "Completed": 20
     }
   ],
@@ -1404,8 +1409,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-11T04:04:37.1055542+00:00",
+  "LastChanged_Achievements": "2023-05-11T05:05:33.7539332+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:57:41.7724749+00:00",
-  "LastUpdate_Achievements": "2023-05-11T04:04:37.105574+00:00"
+  "LastUpdate_Ratings": "2023-05-11T04:57:58.5395531+00:00",
+  "LastUpdate_Achievements": "2023-05-11T05:05:33.7539689+00:00"
 }

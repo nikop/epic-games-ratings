@@ -26,7 +26,7 @@ Rating: 4.72 (Ranked 165)
 | Hijack | 24.00% | ~469 |
 | Ancient power | 22.00% | ~430 |
 | I chose my shackles | 21.00% | ~410 |
-| Sacred Woods | 20.00% | ~391 |
+| Sacred Woods | 21.00% | ~410 |
 | Capelworth | 19.00% | ~371 |
 | Little light | 18.00% | ~352 |
 | Iffighain Headquarters | 18.00% | ~352 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6571,
+  "EOS_Progressed": 6573,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -583,6 +583,11 @@
       "Time": "2023-05-10T23:06:13.4981631+00:00",
       "NumProgressed": 6571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T05:05:41.7067395+00:00",
+      "NumProgressed": 6573,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -656,9 +661,9 @@
       "ID": "bankSuccess",
       "SetID": "10d14j0",
       "Name": "Bank Heisted",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "chickenMax",
@@ -817,7 +822,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 6571,
+      "Progressed": 6573,
       "Completed": 0
     }
   ],
@@ -825,8 +830,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-05-11T04:04:43.8540829+00:00",
+  "LastChanged_Achievements": "2023-05-11T05:05:41.7067389+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:22.1519868+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:57:47.7589355+00:00",
-  "LastUpdate_Achievements": "2023-05-11T04:04:43.8541069+00:00"
+  "LastUpdate_Ratings": "2023-05-11T04:58:06.5622532+00:00",
+  "LastUpdate_Achievements": "2023-05-11T05:05:41.7067636+00:00"
 }

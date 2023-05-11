@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -300,9 +300,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 224452,
+  "EOS_Progressed": 224454,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1652,
+  "EOS_NewPlayers": 1650,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2125,6 +2125,11 @@
       "Time": "2023-05-11T04:04:40.9753187+00:00",
       "NumProgressed": 224452,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-11T05:05:38.4915092+00:00",
+      "NumProgressed": 224454,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 52,
@@ -2352,7 +2357,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 53868
+      "UsersEstimate": 53869
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -2456,7 +2461,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 56113
+      "UsersEstimate": 56114
     },
     {
       "ID": "ACH_SOREAD",
@@ -2551,7 +2556,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 224452,
+      "Progressed": 224454,
       "Completed": 5
     }
   ],
@@ -2559,8 +2564,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-05-08T03:59:54.2389857+00:00",
-  "LastChanged_Achievements": "2023-05-11T04:04:40.9753182+00:00",
+  "LastChanged_Achievements": "2023-05-11T05:05:38.4915085+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.8566986+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:57:41.9015302+00:00",
-  "LastUpdate_Achievements": "2023-05-11T04:04:40.9753724+00:00"
+  "LastUpdate_Ratings": "2023-05-11T04:57:58.6991368+00:00",
+  "LastUpdate_Achievements": "2023-05-11T05:05:38.4915884+00:00"
 }

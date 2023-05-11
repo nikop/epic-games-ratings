@@ -27,9 +27,9 @@
 | Bumper Car | 5.00% | ~17 |
 | First Victory | 5.00% | ~17 |
 | OP | 5.00% | ~17 |
+| The Disruptor | 4.00% | ~14 |
 | Early Bird | 4.00% | ~14 |
 | Thirty Birds... | 4.00% | ~14 |
-| The Disruptor | 3.00% | ~10 |
 | Swiss Cheese | 3.00% | ~10 |
 | Heavy Metal | 2.00% | ~7 |
 | Mister Fix It | 2.00% | ~7 |

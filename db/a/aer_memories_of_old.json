@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9043,
+  "EOS_Progressed": 9044,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
@@ -2113,6 +2113,11 @@
       "Time": "2023-05-11T04:05:08.3151555+00:00",
       "NumProgressed": 9043,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-05-11T05:06:10.3531889+00:00",
+      "NumProgressed": 9044,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 20,
@@ -2140,7 +2145,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -2172,7 +2177,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -2188,7 +2193,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "FOUND_ERIN",
@@ -2283,15 +2288,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9043,
+      "Progressed": 9044,
       "Completed": 202
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-11T04:05:08.3151549+00:00",
+  "LastChanged_Achievements": "2023-05-11T05:06:10.3531882+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:59:30.1167571+00:00",
-  "LastUpdate_Achievements": "2023-05-11T04:05:08.3151812+00:00"
+  "LastUpdate_Ratings": "2023-05-11T05:00:12.5910712+00:00",
+  "LastUpdate_Achievements": "2023-05-11T05:06:10.3532332+00:00"
 }

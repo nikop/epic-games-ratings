@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,044 |
-| That's a Grand Army | 8.00% | ~2,706 |
-| That is mine! | 8.00% | ~2,706 |
-| Victorious! | 8.00% | ~2,706 |
+| Until death do us apart | 9.00% | ~3,045 |
+| That's a Grand Army | 8.00% | ~2,707 |
+| That is mine! | 8.00% | ~2,707 |
+| Victorious! | 8.00% | ~2,707 |
 | Brothers in Arms | 6.00% | ~2,030 |
 | That's a Grand Navy | 6.00% | ~2,030 |
 | Seriously?! | 6.00% | ~2,030 |
-| For the Glory | 5.00% | ~1,691 |
+| For the Glory | 5.00% | ~1,692 |
 | Cold War | 4.00% | ~1,353 |
 | True Catholic | 4.00% | ~1,353 |
 | Defender of the Faith | 3.00% | ~1,015 |
@@ -56,21 +56,21 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.40% | ~135 |
 | Trophy Hunter | 0.40% | ~135 |
 | Voting Streak | 0.40% | ~135 |
-| Absolutely | 0.30% | ~101 |
-| All Your Trade Are Belong to Us | 0.30% | ~101 |
-| Bleed Them Dry | 0.30% | ~101 |
-| Dude, Where's my Boat? | 0.30% | ~101 |
-| Four For Trade | 0.30% | ~101 |
-| Global Hegemony | 0.30% | ~101 |
-| Grand Coalition | 0.30% | ~101 |
-| Grand Duchy | 0.30% | ~101 |
-| In the Name of the Father | 0.30% | ~101 |
-| Live Long and Prosper | 0.30% | ~101 |
-| One Night in Paris | 0.30% | ~101 |
-| Ruina Imperii | 0.30% | ~101 |
-| Tear Down This Wall | 0.30% | ~101 |
-| Traditional Player | 0.30% | ~101 |
-| Wonderful | 0.30% | ~101 |
+| Absolutely | 0.30% | ~102 |
+| All Your Trade Are Belong to Us | 0.30% | ~102 |
+| Bleed Them Dry | 0.30% | ~102 |
+| Dude, Where's my Boat? | 0.30% | ~102 |
+| Four For Trade | 0.30% | ~102 |
+| Global Hegemony | 0.30% | ~102 |
+| Grand Coalition | 0.30% | ~102 |
+| Grand Duchy | 0.30% | ~102 |
+| In the Name of the Father | 0.30% | ~102 |
+| Live Long and Prosper | 0.30% | ~102 |
+| One Night in Paris | 0.30% | ~102 |
+| Ruina Imperii | 0.30% | ~102 |
+| Tear Down This Wall | 0.30% | ~102 |
+| Traditional Player | 0.30% | ~102 |
+| Wonderful | 0.30% | ~102 |
 | A Decent Reserve | 0.20% | ~68 |
 | A Pile of Gold | 0.20% | ~68 |
 | A Protected Market | 0.20% | ~68 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,826 (Ranked 81)  
+Progressed: 33,834 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 33,826 | 0 |
+| 2023-05-11 | 33,834 | 0 |
 ## Awards
 Max (Educational): 5,201  (Ranked 60)  
 Sum: 43,038 (Ranked 27)  

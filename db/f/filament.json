@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -189,7 +189,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 189435,
+  "EOS_Progressed": 189436,
   "EOS_Completed": 412,
   "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 8,
@@ -1999,6 +1999,11 @@
       "Time": "2023-05-11T04:04:50.3078764+00:00",
       "NumProgressed": 189435,
       "NumCompleted": 412
+    },
+    {
+      "Time": "2023-05-11T05:05:49.1776907+00:00",
+      "NumProgressed": 189436,
+      "NumCompleted": 412
     }
   ],
   "TotalAchievements": 29,
@@ -2034,7 +2039,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 178069
+      "UsersEstimate": 178070
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -2210,7 +2215,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13260
+      "UsersEstimate": 13261
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -2241,7 +2246,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 189435,
+      "Progressed": 189436,
       "Completed": 412
     }
   ],
@@ -2249,8 +2254,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-04-27T13:58:35.1849608+00:00",
-  "LastChanged_Achievements": "2023-05-11T04:04:50.3078759+00:00",
+  "LastChanged_Achievements": "2023-05-11T05:05:49.1776899+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:02.1474684+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:58:23.3642644+00:00",
-  "LastUpdate_Achievements": "2023-05-11T04:04:50.3079088+00:00"
+  "LastUpdate_Ratings": "2023-05-11T04:58:50.2235783+00:00",
+  "LastUpdate_Achievements": "2023-05-11T05:05:49.1777475+00:00"
 }

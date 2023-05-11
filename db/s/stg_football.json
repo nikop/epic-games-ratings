@@ -4,11 +4,11 @@
   "ProductSlug": "superteam-football-6ce66c",
   "Ranking_Rating": 601,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 321,
+  "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-26T16:00:00+00:00",
@@ -415,10 +415,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 321,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-05-11T05:00:32.196135+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 324,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 321,
+  "NumberOfAwards": 324,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -432,7 +438,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -492,7 +498,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -507,8 +513,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-05-11T03:59:44.7514098+00:00",
+  "LastChanged": "2023-05-11T05:00:32.1961348+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:31.11396+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:59:44.7514103+00:00",
-  "LastUpdate_Achievements": "2023-05-11T04:04:23.3829705+00:00"
+  "LastUpdate_Ratings": "2023-05-11T05:00:32.1961355+00:00",
+  "LastUpdate_Achievements": "2023-05-11T05:05:17.3332921+00:00"
 }
