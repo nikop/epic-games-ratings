@@ -5609,9 +5609,9 @@
       "Count": 4685
     }
   ],
-  "EOS_Progressed": 799051,
+  "EOS_Progressed": 799052,
   "EOS_Completed": 1585,
-  "EOS_NewPlayers": 1340,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -7429,6 +7429,11 @@
       "Time": "2023-05-11T03:05:32.5515313+00:00",
       "NumProgressed": 799051,
       "NumCompleted": 1585
+    },
+    {
+      "Time": "2023-05-11T04:04:34.0229774+00:00",
+      "NumProgressed": 799052,
+      "NumCompleted": 1585
     }
   ],
   "TotalAchievements": 44,
@@ -7656,7 +7661,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535364
+      "UsersEstimate": 535365
     },
     {
       "ID": "TheHermit",
@@ -7680,7 +7685,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255696
+      "UsersEstimate": 255697
     },
     {
       "ID": "TheStar",
@@ -7791,15 +7796,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799051,
+      "Progressed": 799052,
       "Completed": 1585
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-05-11T01:56:37.4629998+00:00",
-  "LastChanged_Achievements": "2023-05-11T03:05:32.5515304+00:00",
+  "LastChanged_Achievements": "2023-05-11T04:04:34.0229769+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-11T02:57:36.3131123+00:00",
-  "LastUpdate_Achievements": "2023-05-11T03:05:32.5515891+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:57:30.1238086+00:00",
+  "LastUpdate_Achievements": "2023-05-11T04:04:34.0230292+00:00"
 }

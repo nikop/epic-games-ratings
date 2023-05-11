@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,043 |
-| That's a Grand Army | 8.00% | ~2,705 |
-| That is mine! | 8.00% | ~2,705 |
-| Victorious! | 8.00% | ~2,705 |
-| Brothers in Arms | 6.00% | ~2,029 |
-| That's a Grand Navy | 6.00% | ~2,029 |
-| Seriously?! | 6.00% | ~2,029 |
+| Until death do us apart | 9.00% | ~3,044 |
+| That's a Grand Army | 8.00% | ~2,706 |
+| That is mine! | 8.00% | ~2,706 |
+| Victorious! | 8.00% | ~2,706 |
+| Brothers in Arms | 6.00% | ~2,030 |
+| That's a Grand Navy | 6.00% | ~2,030 |
+| Seriously?! | 6.00% | ~2,030 |
 | For the Glory | 5.00% | ~1,691 |
 | Cold War | 4.00% | ~1,353 |
 | True Catholic | 4.00% | ~1,353 |
-| Defender of the Faith | 3.00% | ~1,014 |
-| It's all about the money | 3.00% | ~1,014 |
-| Respected | 3.00% | ~1,014 |
-| Blockader | 2.00% | ~676 |
-| Combined Arms | 2.00% | ~676 |
-| Double the Love | 2.00% | ~676 |
-| Gentle Persuasion | 2.00% | ~676 |
-| It's all about luck | 2.00% | ~676 |
-| Queen of Conquest | 2.00% | ~676 |
-| Royal Authority | 2.00% | ~676 |
-| The Princess is in this Castle | 2.00% | ~676 |
-| Total Control | 2.00% | ~676 |
-| Truly Divine Ruler | 2.00% | ~676 |
+| Defender of the Faith | 3.00% | ~1,015 |
+| It's all about the money | 3.00% | ~1,015 |
+| Respected | 3.00% | ~1,015 |
+| Blockader | 2.00% | ~677 |
+| Combined Arms | 2.00% | ~677 |
+| Double the Love | 2.00% | ~677 |
+| Gentle Persuasion | 2.00% | ~677 |
+| It's all about luck | 2.00% | ~677 |
+| Queen of Conquest | 2.00% | ~677 |
+| Royal Authority | 2.00% | ~677 |
+| The Princess is in this Castle | 2.00% | ~677 |
+| Total Control | 2.00% | ~677 |
+| Truly Divine Ruler | 2.00% | ~677 |
 | Agressive Expander | 1.00% | ~338 |
 | All That's Thine Shall Be Mine | 1.00% | ~338 |
 | Azur semé de lis or | 1.00% | ~338 |
@@ -43,11 +43,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.70% | ~237 |
 | This navy can take it all | 0.70% | ~237 |
 | Down Under | 0.60% | ~203 |
-| Trustworthy | 0.60% | ~203 |
 | At every continent | 0.50% | ~169 |
 | Early-Modern Warfare | 0.50% | ~169 |
 | Electable! | 0.50% | ~169 |
 | Time Bandit | 0.50% | ~169 |
+| Trustworthy | 0.50% | ~169 |
 | All belongs to Mother Russia | 0.40% | ~135 |
 | One Family to Rule them All | 0.40% | ~135 |
 | Populists in Government | 0.40% | ~135 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,815 (Ranked 81)  
+Progressed: 33,826 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 33,815 | 0 |
+| 2023-05-11 | 33,826 | 0 |
 ## Awards
 Max (Educational): 5,201  (Ranked 60)  
 Sum: 43,038 (Ranked 27)  

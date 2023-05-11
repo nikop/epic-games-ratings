@@ -4,7 +4,7 @@
   "ProductSlug": "tails-noir-4240c4",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-02T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:01.5318242+00:00",
   "LastChanged": "2023-03-31T05:58:01.5318244+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:31.1132407+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:00:56.4027478+00:00",
+  "LastUpdate_Ratings": "2023-05-11T03:59:44.9446765+00:00",
   "LastUpdate_Achievements": "2023-05-11T03:03:30.4159173+00:00"
 }

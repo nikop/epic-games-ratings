@@ -8,8 +8,8 @@ Rating: 4.72 (Ranked 165)
 | For Demacia | 95.00% | ~1,856 |
 | No more cages! | 92.00% | ~1,798 |
 | Everfrost | 77.00% | ~1,505 |
+| Pentakill | 76.00% | ~1,485 |
 | Dark Forest | 76.00% | ~1,485 |
-| Pentakill | 75.00% | ~1,466 |
 | The use of petricite | 72.00% | ~1,407 |
 | You can pet the dog | 60.00% | ~1,172 |
 | Big Helmet Bro | 34.00% | ~664 |
@@ -46,9 +46,9 @@ Rating: 4.72 (Ranked 165)
 | Whispers in the Woods IV | 10.00% | ~195 |
 | Embrace the darkness | 9.00% | ~176 |
 | I smell fear | 9.00% | ~176 |
+| The end of the experiments | 9.00% | ~176 |
 | The Great City of Demacia | 9.00% | ~176 |
 | Chains master | 8.00% | ~156 |
-| The end of the experiments | 8.00% | ~156 |
 | You can pet the... horse | 8.00% | ~156 |
 | Back to sleep, then... | 8.00% | ~156 |
 | Call it 'redistribution of magic | 8.00% | ~156 |

@@ -2242,7 +2242,7 @@
   ],
   "EOS_Progressed": 14741,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3332,9 +3332,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 118
     },
     {
       "ID": "WinHard",
@@ -3372,9 +3372,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     },
     {
       "ID": "WinNearBattleground",
@@ -3652,8 +3652,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-10T07:59:27.2105993+00:00",
-  "LastChanged_Achievements": "2023-05-11T03:06:23.5947218+00:00",
+  "LastChanged_Achievements": "2023-05-11T04:05:11.6961694+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-11T03:00:22.6843685+00:00",
-  "LastUpdate_Achievements": "2023-05-11T03:06:23.5947956+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:59:22.6833077+00:00",
+  "LastUpdate_Achievements": "2023-05-11T04:05:11.6962127+00:00"
 }

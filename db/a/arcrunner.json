@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHV_CITY",
@@ -471,9 +471,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -520,8 +520,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-11T03:06:09.6989727+00:00",
+  "LastChanged_Achievements": "2023-05-11T04:05:01.3908747+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-11T02:59:56.9289149+00:00",
-  "LastUpdate_Achievements": "2023-05-11T03:06:09.6989958+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:59:05.184989+00:00",
+  "LastUpdate_Achievements": "2023-05-11T04:05:01.3908975+00:00"
 }

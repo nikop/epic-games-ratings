@@ -6,16 +6,16 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,034 |
-| Into the Unknown | 8.00% | ~43,585 |
-| First Shot | 8.00% | ~43,585 |
-| Herzlich Wilkommen! | 7.00% | ~38,137 |
-| Sancho Panza | 7.00% | ~38,137 |
-| Good Night & Good Luck | 7.00% | ~38,137 |
-| Under Pressure | 6.00% | ~32,689 |
-| Flag Burning | 6.00% | ~32,689 |
-| Oh, So This Is How It Works! | 6.00% | ~32,689 |
-| Night Hunter | 6.00% | ~32,689 |
+| You Never Forget Your First... | 9.00% | ~49,035 |
+| Into the Unknown | 8.00% | ~43,586 |
+| First Shot | 8.00% | ~43,586 |
+| Herzlich Wilkommen! | 7.00% | ~38,138 |
+| Sancho Panza | 7.00% | ~38,138 |
+| Good Night & Good Luck | 7.00% | ~38,138 |
+| Under Pressure | 6.00% | ~32,690 |
+| Flag Burning | 6.00% | ~32,690 |
+| Oh, So This Is How It Works! | 6.00% | ~32,690 |
+| Night Hunter | 6.00% | ~32,690 |
 | On the Trail of the Enemy | 5.00% | ~27,241 |
 | Light in the Darkness | 5.00% | ~27,241 |
 | Get Outta My House! | 5.00% | ~27,241 |
@@ -34,10 +34,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 3.00% | ~16,345 |
 | Terminal Headache | 3.00% | ~16,345 |
 | Slowpoke! | 3.00% | ~16,345 |
-| Tickets, Please! | 2.00% | ~10,896 |
-| Parkour Master | 2.00% | ~10,896 |
-| Combat Master | 2.00% | ~10,896 |
-| You're Going Down! | 2.00% | ~10,896 |
+| Tickets, Please! | 2.00% | ~10,897 |
+| Parkour Master | 2.00% | ~10,897 |
+| Combat Master | 2.00% | ~10,897 |
+| You're Going Down! | 2.00% | ~10,897 |
 | Municipal Services | 1.00% | ~5,448 |
 | Tube Map | 1.00% | ~5,448 |
 | Don Quixote | 1.00% | ~5,448 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~190 |
 | Connoisseur | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,817 (Ranked 22)  
+Progressed: 544,828 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,10 +93,10 @@ Completed: 46 (0.01%) (Ranked 190)
 | 2023-05-08 | 543,600 | 46 |
 | 2023-05-09 | 544,236 | 46 |
 | 2023-05-10 | 544,773 | 46 |
-| 2023-05-11 | 544,817 | 46 |
+| 2023-05-11 | 544,828 | 46 |
 ## Awards
 Max (Character Customization): 6,977  (Ranked 44)  
-Sum: 16,186 (Ranked 58)  
+Sum: 16,189 (Ranked 58)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -107,9 +107,9 @@ Diff (max vs sum): -14
 | This game has Amazing Characters | 591 |
 | This game is Extremely Fun | 587 |
 | This game has Diverse Characters | 584 |
-| This game has Quickly Understood Controls | 579 |
+| This game has Quickly Understood Controls | 580 |
 | This game has Amazing Storytelling | 553 |
-| This game is Relaxing | 551 |
+| This game is Relaxing | 553 |
 | This game has a Creative Community | 445 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
@@ -234,4 +234,4 @@ Diff (max vs sum): -14
 | 2023-05-08 | 4.57 | - | 6,955 | 16,101 |
 | 2023-05-09 | 4.57 | - | 6,965 | 16,135 |
 | 2023-05-10 | 4.57 | - | 6,977 | 16,183 |
-| 2023-05-11 | 4.57 | - | 6,977 | 16,186 |
+| 2023-05-11 | 4.57 | - | 6,977 | 16,189 |

@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2351,
+  "EOS_Progressed": 2352,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-05-10T19:06:37.688902+00:00",
       "NumProgressed": 2351,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T04:04:46.8133505+00:00",
+      "NumProgressed": 2352,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -900,7 +905,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "CrowdPleaser",
@@ -1044,7 +1049,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "ReadyforWinter_42",
@@ -1066,9 +1071,9 @@
       "ID": "ScourgeSlayer_26",
       "SetID": "c4hee28",
       "Name": "Scourge Slayer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 588
+      "UsersEstimate": 612
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -1084,7 +1089,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -1180,7 +1185,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1195,15 +1200,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2351,
+      "Progressed": 2352,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-11T03:05:49.8357546+00:00",
+  "LastChanged_Achievements": "2023-05-11T04:04:46.8133494+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:02.1241057+00:00",
-  "LastUpdate_Ratings": "2023-05-11T02:57:34.3557239+00:00",
-  "LastUpdate_Achievements": "2023-05-11T03:05:49.8357933+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:57:28.836297+00:00",
+  "LastUpdate_Achievements": "2023-05-11T04:04:46.8133877+00:00"
 }

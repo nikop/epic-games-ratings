@@ -8,17 +8,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Marshlands | 0.90% | ~133 |
 | No Deaths | 0.90% | ~133 |
+| First Real Expedition | 0.80% | ~118 |
 | Overcoming Difficulty | 0.80% | ~118 |
 | Fertile Meadows | 0.80% | ~118 |
 | Coral Forest | 0.80% | ~118 |
 | The Scarlet Orchard | 0.80% | ~118 |
-| First Real Expedition | 0.70% | ~103 |
+| Barren Lands | 0.70% | ~103 |
 | Lost Colonies | 0.70% | ~103 |
 | Taking Action | 0.70% | ~103 |
 | Like a Machine | 0.70% | ~103 |
 | Trade Baron | 0.70% | ~103 |
 | Bandit Camp | 0.60% | ~88 |
-| Barren Lands | 0.60% | ~88 |
 | Ancient Battleground | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
 | Sparkdew Crystals | 0.50% | ~74 |

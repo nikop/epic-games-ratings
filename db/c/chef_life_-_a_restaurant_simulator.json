@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -294,6 +294,11 @@
       "Time": "2023-05-10T22:06:44.9387183+00:00",
       "NumProgressed": 71,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T04:04:49.8730797+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -481,7 +486,7 @@
       "Name": "The Big Day",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Packing20",
@@ -503,7 +508,7 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 38
     },
@@ -624,7 +629,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
@@ -632,8 +637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-11T03:05:53.8766305+00:00",
+  "LastChanged_Achievements": "2023-05-11T04:04:49.8730792+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:42.4678268+00:00",
-  "LastUpdate_Ratings": "2023-05-11T02:58:28.2398095+00:00",
-  "LastUpdate_Achievements": "2023-05-11T03:05:53.876662+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:58:04.8740702+00:00",
+  "LastUpdate_Achievements": "2023-05-11T04:04:49.8731103+00:00"
 }

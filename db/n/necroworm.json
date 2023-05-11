@@ -4,7 +4,7 @@
   "ProductSlug": "necroworm-5784e5",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-03T23:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-04-18T13:57:39.2344339+00:00",
   "LastChanged": "2023-04-18T13:57:39.2344339+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:50.6798759+00:00",
-  "LastUpdate_Ratings": "2023-05-11T02:58:40.2868534+00:00",
-  "LastUpdate_Achievements": "2023-05-11T03:03:56.5809113+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:58:12.7876945+00:00",
+  "LastUpdate_Achievements": "2023-05-11T04:03:19.1333711+00:00"
 }

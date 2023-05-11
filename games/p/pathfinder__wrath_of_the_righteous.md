@@ -17,6 +17,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 3.00% | ~263 |
 | Path of the Angel | 3.00% | ~263 |
 | Great Upstart | 3.00% | ~263 |
+| Voice from Your Dreams | 3.00% | ~263 |
 | All Paths Open | 3.00% | ~263 |
 | Demonic and Divine | 3.00% | ~263 |
 | Heart of the Fallen Land | 2.00% | ~175 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Legacy | 2.00% | ~175 |
 | Divide and Rule | 2.00% | ~175 |
 | Mythic Reinforcements | 2.00% | ~175 |
-| Voice from Your Dreams | 2.00% | ~175 |
 | A Flame | 2.00% | ~175 |
 | Hey, I Know You! | 2.00% | ~175 |
 | Next-Door Play | 2.00% | ~175 |

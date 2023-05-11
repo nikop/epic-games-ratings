@@ -9,16 +9,16 @@
 | Nazis in Paris | 24.00% | ~289 |
 | Building the Fox | 20.00% | ~241 |
 | Green Ticket Roundup | 18.00% | ~217 |
-| Arranging Boxes | 14.00% | ~168 |
-| Jakob | 13.00% | ~156 |
+| Arranging Boxes | 14.00% | ~169 |
+| Jakob | 13.00% | ~157 |
 | Jude | 12.00% | ~144 |
 | Le Juif et la France | 12.00% | ~144 |
 | Bernard | 11.00% | ~132 |
 | Nuremberg Laws | 11.00% | ~132 |
 | May Their Memories be a Blessing | 8.00% | ~96 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,203 (Ranked 156)  
-Completed: 93 (7.73%) (Ranked 21)  
+Progressed: 1,204 (Ranked 156)  
+Completed: 93 (7.72%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -38,7 +38,7 @@ Completed: 93 (7.73%) (Ranked 21)
 | 2023-05-08 | 1,184 | 91 |
 | 2023-05-09 | 1,193 | 91 |
 | 2023-05-10 | 1,202 | 92 |
-| 2023-05-11 | 1,203 | 93 |
+| 2023-05-11 | 1,204 | 93 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
