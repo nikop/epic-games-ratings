@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2023-05-11 | 2021-12-16 |
 | [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 2022-06-16 |
 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2023-05-11 | 2023-05-11 |
 | [Urban Tale](games/u/urban_tale.md) | 2023-05-11 | 2021-10-07 |
@@ -44,6 +43,7 @@
 | [Backbeat](games/b/backbeat.md) | 2023-05-31 | 2023-03-16 |
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-05-31 | 2022-12-02 |
 | [Bob A thousand lives](games/b/bob_a_thousand_lives.md) | 2023-05-31 | 2022-09-06 |
+| [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | 2023-05-31 |
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
 | [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-31 | 2023-05-31 |

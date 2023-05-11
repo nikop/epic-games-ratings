@@ -1,9 +1,9 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2023-05-11 | 2021-12-16 |
 | [Voodolls](games/v/voodolls.md) | 2023-05-11 | 2023-05-11 |
 | [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | 2023-05-11 |
 | [Fuga: Melodies of Steel 2](games/f/fuga__melodies_of_steel_2.md) | 2023-05-11 | 2023-05-11 |
-| [Death or Treat](games/d/death_or_treat.md) | 2023-05-11 | 2023-05-11 |
 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 2023-05-10 |
 | [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | 2023-02-01 |
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | 2023-05-10 | 2023-05-10 |

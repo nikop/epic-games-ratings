@@ -6,10 +6,10 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
-| 7 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 20.00% |
-| 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 19.35% |
-| 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.91% |
+| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 19.35% |
+| 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
+| 9 | [Island Cities](games/i/island_cities.md) | 17.91% |
+| 10 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 16.67% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 13 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -22,11 +22,11 @@
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
-| 24 | [Scorn](games/s/scorn.md) | 7.10% |
+| 23 | [Scorn](games/s/scorn.md) | 7.10% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.14% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.12% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -97,7 +97,7 @@
 | 94 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 96 | [Train Valley](games/t/train_valley.md) | 0.73% |
 | 97 | [Haven](games/h/haven.md) | 0.72% |
-| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.70% |
+| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
 | 99 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 100 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
