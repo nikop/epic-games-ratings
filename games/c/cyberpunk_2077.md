@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,418 |
-| Right Back At Ya | 37.00% | ~295,679 |
-| The Lovers | 32.00% | ~255,722 |
-| Stanislavski's Method | 27.00% | ~215,766 |
-| The Wheel of Fortune | 25.00% | ~199,783 |
-| The Hermit | 23.00% | ~183,800 |
-| True Soldier | 22.00% | ~175,809 |
-| Christmas Tree Attack | 21.00% | ~167,818 |
-| Legend of The Afterlife | 21.00% | ~167,818 |
-| The High Priestess | 20.00% | ~159,826 |
-| Life of the Road | 19.00% | ~151,835 |
-| Full Body Conversion | 17.00% | ~135,852 |
-| The World | 16.00% | ~127,861 |
-| Bushido and Chill | 15.00% | ~119,870 |
-| True Warrior | 14.00% | ~111,878 |
-| To Protect and Serve | 13.00% | ~103,887 |
-| Gun Fu | 13.00% | ~103,887 |
-| Master Crafter | 13.00% | ~103,887 |
-| I Am The Law | 13.00% | ~103,887 |
-| Judy vs Night City | 13.00% | ~103,887 |
-| Two Heads, One Bullet | 11.00% | ~87,905 |
-| The Wandering Fool | 9.00% | ~71,922 |
-| The Quick and the Dead | 9.00% | ~71,922 |
-| Ten out of Ten | 8.00% | ~63,931 |
-| Breathtaking | 7.00% | ~55,939 |
-| To Bad Decisions! | 6.00% | ~47,948 |
-| The Star | 6.00% | ~47,948 |
-| The Sun | 6.00% | ~47,948 |
-| Must Be Rats | 4.00% | ~31,965 |
-| Temperance | 4.00% | ~31,965 |
+| The Fool | 67.00% | ~535,426 |
+| Right Back At Ya | 37.00% | ~295,683 |
+| The Lovers | 32.00% | ~255,726 |
+| Stanislavski's Method | 27.00% | ~215,769 |
+| The Wheel of Fortune | 25.00% | ~199,786 |
+| The Hermit | 23.00% | ~183,803 |
+| True Soldier | 22.00% | ~175,812 |
+| Christmas Tree Attack | 21.00% | ~167,820 |
+| Legend of The Afterlife | 21.00% | ~167,820 |
+| The High Priestess | 20.00% | ~159,829 |
+| Life of the Road | 19.00% | ~151,837 |
+| Full Body Conversion | 17.00% | ~135,854 |
+| The World | 16.00% | ~127,863 |
+| Bushido and Chill | 15.00% | ~119,872 |
+| True Warrior | 14.00% | ~111,880 |
+| To Protect and Serve | 13.00% | ~103,889 |
+| Gun Fu | 13.00% | ~103,889 |
+| Master Crafter | 13.00% | ~103,889 |
+| I Am The Law | 13.00% | ~103,889 |
+| Judy vs Night City | 13.00% | ~103,889 |
+| Two Heads, One Bullet | 11.00% | ~87,906 |
+| The Wandering Fool | 9.00% | ~71,923 |
+| The Quick and the Dead | 9.00% | ~71,923 |
+| Ten out of Ten | 8.00% | ~63,932 |
+| Breathtaking | 7.00% | ~55,940 |
+| To Bad Decisions! | 6.00% | ~47,949 |
+| The Star | 6.00% | ~47,949 |
+| The Sun | 6.00% | ~47,949 |
+| Must Be Rats | 4.00% | ~31,966 |
+| Temperance | 4.00% | ~31,966 |
 | City Lights | 3.00% | ~23,974 |
 | Frequent Flyer | 3.00% | ~23,974 |
 | Mean Streets | 3.00% | ~23,974 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,991 |
 | Rough Landing | 0.40% | ~3,197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,132 (Ranked 11)  
+Progressed: 799,144 (Ranked 11)  
 Completed: 1,587 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,22 +72,22 @@ Completed: 1,587 (0.20%) (Ranked 137)
 | 2023-05-08 | 798,732 | 1,580 |
 | 2023-05-09 | 798,891 | 1,584 |
 | 2023-05-10 | 799,039 | 1,585 |
-| 2023-05-11 | 799,132 | 1,587 |
+| 2023-05-11 | 799,144 | 1,587 |
 ## Awards
 Max (Character Customization): 64,019  (Ranked 9)  
-Sum: 167,710 (Ranked 13)  
+Sum: 167,738 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 64,019 |
 | This game has Great Boss Battles | 41,175 |
 | This game has Amazing Storytelling | 7,378 |
+| This game has Diverse Characters | 7,334 |
 | This game is Great for Beginners | 7,326 |
-| This game has Diverse Characters | 7,320 |
 | This game is Extremely Fun | 7,266 |
 | This game is Relaxing | 7,230 |
 | This game is Highly Recommended | 7,208 |
-| This game has Quickly Understood Controls | 7,079 |
+| This game has Quickly Understood Controls | 7,093 |
 | This game has Amazing Characters | 7,024 |
 | This game has a Creative Community | 4,685 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -205,4 +205,4 @@ Diff (max vs sum): -4
 | 2023-05-08 | 4.62 | - | 63,846 | 167,148 |
 | 2023-05-09 | 4.62 | - | 63,904 | 167,351 |
 | 2023-05-10 | 4.62 | - | 63,968 | 167,544 |
-| 2023-05-11 | 4.62 | - | 64,019 | 167,710 |
+| 2023-05-11 | 4.62 | - | 64,019 | 167,738 |

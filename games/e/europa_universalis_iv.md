@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,066 |
-| That's a Grand Army | 8.00% | ~2,726 |
-| That is mine! | 8.00% | ~2,726 |
-| Victorious! | 8.00% | ~2,726 |
-| Brothers in Arms | 6.00% | ~2,044 |
-| That's a Grand Navy | 6.00% | ~2,044 |
-| Seriously?! | 6.00% | ~2,044 |
-| For the Glory | 5.00% | ~1,703 |
-| Cold War | 4.00% | ~1,363 |
-| True Catholic | 4.00% | ~1,363 |
-| Defender of the Faith | 3.00% | ~1,022 |
-| It's all about the money | 3.00% | ~1,022 |
-| Respected | 3.00% | ~1,022 |
-| Blockader | 2.00% | ~681 |
-| Combined Arms | 2.00% | ~681 |
-| Double the Love | 2.00% | ~681 |
-| Gentle Persuasion | 2.00% | ~681 |
-| It's all about luck | 2.00% | ~681 |
-| Queen of Conquest | 2.00% | ~681 |
-| Royal Authority | 2.00% | ~681 |
-| The Princess is in this Castle | 2.00% | ~681 |
-| Total Control | 2.00% | ~681 |
-| Truly Divine Ruler | 2.00% | ~681 |
+| Until death do us apart | 9.00% | ~3,070 |
+| That's a Grand Army | 8.00% | ~2,729 |
+| That is mine! | 8.00% | ~2,729 |
+| Victorious! | 8.00% | ~2,729 |
+| Brothers in Arms | 6.00% | ~2,047 |
+| That's a Grand Navy | 6.00% | ~2,047 |
+| Seriously?! | 6.00% | ~2,047 |
+| For the Glory | 5.00% | ~1,705 |
+| Cold War | 4.00% | ~1,364 |
+| True Catholic | 4.00% | ~1,364 |
+| Defender of the Faith | 3.00% | ~1,023 |
+| It's all about the money | 3.00% | ~1,023 |
+| Respected | 3.00% | ~1,023 |
+| Blockader | 2.00% | ~682 |
+| Combined Arms | 2.00% | ~682 |
+| Double the Love | 2.00% | ~682 |
+| Gentle Persuasion | 2.00% | ~682 |
+| It's all about luck | 2.00% | ~682 |
+| Queen of Conquest | 2.00% | ~682 |
+| Royal Authority | 2.00% | ~682 |
+| The Princess is in this Castle | 2.00% | ~682 |
+| Total Control | 2.00% | ~682 |
+| Truly Divine Ruler | 2.00% | ~682 |
 | Agressive Expander | 1.00% | ~341 |
 | All That's Thine Shall Be Mine | 1.00% | ~341 |
 | Azur semé de lis or | 1.00% | ~341 |
@@ -39,16 +39,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 1.00% | ~341 |
 | Isn't this the way to India? | 0.80% | ~273 |
 | The Five Colonies | 0.80% | ~273 |
-| The Emperors new clothes | 0.70% | ~238 |
-| Market Control | 0.70% | ~238 |
-| This navy can take it all | 0.70% | ~238 |
-| Down Under | 0.60% | ~204 |
-| Trustworthy | 0.60% | ~204 |
-| At every continent | 0.50% | ~170 |
-| Early-Modern Warfare | 0.50% | ~170 |
-| Electable! | 0.50% | ~170 |
-| Time Bandit | 0.50% | ~170 |
-| All belongs to Mother Russia | 0.40% | ~136 |
+| The Emperors new clothes | 0.70% | ~239 |
+| Market Control | 0.70% | ~239 |
+| This navy can take it all | 0.70% | ~239 |
+| Down Under | 0.60% | ~205 |
+| Trustworthy | 0.60% | ~205 |
+| All belongs to Mother Russia | 0.50% | ~171 |
+| At every continent | 0.50% | ~171 |
+| Early-Modern Warfare | 0.50% | ~171 |
+| Electable! | 0.50% | ~171 |
+| Time Bandit | 0.50% | ~171 |
 | Dude, Where's my Boat? | 0.40% | ~136 |
 | Live Long and Prosper | 0.40% | ~136 |
 | One Family to Rule them All | 0.40% | ~136 |
@@ -259,6 +259,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Navigator | 0.10% | ~34 |
 | The Ostenders | 0.10% | ~34 |
 | The Power of Three | 0.10% | ~34 |
+| The Re-Reconquista | 0.10% | ~34 |
 | The Rising Sun | 0.10% | ~34 |
 | The Third Way | 0.10% | ~34 |
 | The Uncommonwealth | 0.10% | ~34 |
@@ -344,7 +345,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Great Khan | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
-| The Re-Reconquista | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,069 (Ranked 81)  
+Progressed: 34,109 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 34,069 | 0 |
+| 2023-05-11 | 34,109 | 0 |
 ## Awards
 Max (Educational): 5,206  (Ranked 60)  
 Sum: 43,050 (Ranked 27)  

@@ -56,7 +56,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 959,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -1391,6 +1391,11 @@
       "Time": "2023-05-11T15:05:29.3727548+00:00",
       "NumProgressed": 958,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T17:05:59.3100065+00:00",
+      "NumProgressed": 959,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1634,7 +1639,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "herewegoagain",
@@ -1794,7 +1799,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "prestigiousx10",
@@ -1850,7 +1855,7 @@
       "Name": "Superior",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "templeofeternals",
@@ -1962,7 +1967,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "warmachinesarmy",
@@ -1994,14 +1999,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 959,
       "Completed": 1
     }
   ],
@@ -2009,8 +2014,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-11T06:58:13.3610558+00:00",
-  "LastChanged_Achievements": "2023-05-11T16:05:53.9899627+00:00",
+  "LastChanged_Achievements": "2023-05-11T17:05:59.3100062+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-11T15:58:10.3345794+00:00",
-  "LastUpdate_Achievements": "2023-05-11T16:05:53.9900295+00:00"
+  "LastUpdate_Ratings": "2023-05-11T16:58:14.8749109+00:00",
+  "LastUpdate_Achievements": "2023-05-11T17:05:59.3100841+00:00"
 }

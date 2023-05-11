@@ -1,36 +1,36 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 177)  
+Rating: 4.71 (Ranked 178)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~241,982 |
-| Cavalier | 25.00% | ~195,147 |
-| Fatso | 23.00% | ~179,535 |
-| Awakening | 20.00% | ~156,117 |
-| Ranger | 20.00% | ~156,117 |
-| Scrooge | 20.00% | ~156,117 |
-| Anorectic | 16.00% | ~124,894 |
-| Firestarter | 15.00% | ~117,088 |
-| Bookworm | 14.00% | ~109,282 |
-| Insomniac | 13.00% | ~101,476 |
-| Buddy | 11.00% | ~85,865 |
-| Sinner | 11.00% | ~85,865 |
-| Thief | 11.00% | ~85,865 |
-| Convict | 10.00% | ~78,059 |
-| Traveller | 10.00% | ~78,059 |
-| Haggler | 9.00% | ~70,253 |
-| Runt | 7.00% | ~54,641 |
-| Casanova | 6.00% | ~46,835 |
-| McLovin | 6.00% | ~46,835 |
-| Bad Trip | 5.00% | ~39,029 |
-| Monk | 5.00% | ~39,029 |
-| Serial Killer | 5.00% | ~39,029 |
-| Bastard | 4.00% | ~31,223 |
-| Hunter | 4.00% | ~31,223 |
-| Plague Doctor | 4.00% | ~31,223 |
+| Blacksmith's Son | 31.00% | ~241,985 |
+| Cavalier | 25.00% | ~195,150 |
+| Fatso | 23.00% | ~179,538 |
+| Awakening | 20.00% | ~156,120 |
+| Ranger | 20.00% | ~156,120 |
+| Scrooge | 20.00% | ~156,120 |
+| Anorectic | 16.00% | ~124,896 |
+| Firestarter | 15.00% | ~117,090 |
+| Bookworm | 14.00% | ~109,284 |
+| Insomniac | 13.00% | ~101,478 |
+| Buddy | 11.00% | ~85,866 |
+| Sinner | 11.00% | ~85,866 |
+| Thief | 11.00% | ~85,866 |
+| Convict | 10.00% | ~78,060 |
+| Traveller | 10.00% | ~78,060 |
+| Haggler | 9.00% | ~70,254 |
+| Runt | 7.00% | ~54,642 |
+| Casanova | 6.00% | ~46,836 |
+| McLovin | 6.00% | ~46,836 |
+| Bad Trip | 5.00% | ~39,030 |
+| Monk | 5.00% | ~39,030 |
+| Serial Killer | 5.00% | ~39,030 |
+| Bastard | 4.00% | ~31,224 |
+| Hunter | 4.00% | ~31,224 |
+| Plague Doctor | 4.00% | ~31,224 |
 | Bard | 3.00% | ~23,418 |
 | Conqueror | 3.00% | ~23,418 |
 | Ginger in a Pickle | 3.00% | ~23,418 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~781 |
 | Wingman | 0.10% | ~781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 780,587 (Ranked 12)  
+Progressed: 780,598 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,20 +110,20 @@ Completed: 39 (0.00%) (Ranked 198)
 | 2023-05-08 | 780,207 | 39 |
 | 2023-05-09 | 780,366 | 39 |
 | 2023-05-10 | 780,501 | 39 |
-| 2023-05-11 | 780,587 | 39 |
+| 2023-05-11 | 780,598 | 39 |
 ## Awards
-Max (Character Customization): 7,153  (Ranked 43)  
-Sum: 26,764 (Ranked 42)  
+Max (Character Customization): 7,155  (Ranked 43)  
+Sum: 26,767 (Ranked 42)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,153 |
+| This game has Inclusive Character Customization | 7,155 |
 | This game has Great Boss Battles | 5,269 |
 | This game has Challenging Combat | 1,674 |
 | This game has Amazing Storytelling | 1,646 |
 | This game is Extremely Fun | 1,617 |
 | This game has Diverse Characters | 1,617 |
-| This game is Highly Recommended | 1,604 |
+| This game is Highly Recommended | 1,605 |
 | This game has Amazing Characters | 1,598 |
 | This game has Realistic Visuals | 1,579 |
 | This game is Educational | 1,533 |
@@ -238,4 +238,4 @@ Diff (max vs sum): 1
 | 2023-05-08 | 4.71 | - | 7,145 | 26,737 |
 | 2023-05-09 | 4.71 | - | 7,148 | 26,751 |
 | 2023-05-10 | 4.71 | - | 7,153 | 26,762 |
-| 2023-05-11 | 4.71 | - | 7,153 | 26,764 |
+| 2023-05-11 | 4.71 | - | 7,155 | 26,767 |

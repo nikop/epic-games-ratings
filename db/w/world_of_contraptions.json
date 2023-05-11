@@ -2,7 +2,7 @@
   "ID": "494a9b22e0ce449aa1a362ba9dce9ba5",
   "Name": "World of Contraptions",
   "ProductSlug": "world-of-contraptions-6dbc07",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 80,
@@ -25,9 +25,218 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "FIRST_LEVEL",
+      "SetID": "aemieak",
+      "Name": "The first of many",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_EASY_COMPLETED",
+      "SetID": "aemieak",
+      "Name": "Easy group",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_EASY_GOLD",
+      "SetID": "aemieak",
+      "Name": "Easy group with gold stars",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_EASY_SILVER",
+      "SetID": "aemieak",
+      "Name": "Easy group with silver stars",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_EASY_TOTAL",
+      "SetID": "aemieak",
+      "Name": "Easy group with all stars",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_EXTREME_COMPLETED",
+      "SetID": "aemieak",
+      "Name": "Extreme group",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_EXTREME_GOLD",
+      "SetID": "aemieak",
+      "Name": "Extreme group with gold stars",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_EXTREME_SILVER",
+      "SetID": "aemieak",
+      "Name": "Extreme group with silver stars",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_EXTREME_TOTAL",
+      "SetID": "aemieak",
+      "Name": "Extreme group with all stars",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_HARD_COMPLETED",
+      "SetID": "aemieak",
+      "Name": "Hard group",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_HARD_GOLD",
+      "SetID": "aemieak",
+      "Name": "Hard group with gold stars",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_HARD_SILVER",
+      "SetID": "aemieak",
+      "Name": "Hard group with silver stars",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_HARD_TOTAL",
+      "SetID": "aemieak",
+      "Name": "Hard group with all stars",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_MEDIUM_COMPLETED",
+      "SetID": "aemieak",
+      "Name": "Medium group",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_MEDIUM_GOLD",
+      "SetID": "aemieak",
+      "Name": "Medium group with gold stars",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_MEDIUM_SILVER",
+      "SetID": "aemieak",
+      "Name": "Medium group with silver stars",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GROUP_MEDIUM_TOTAL",
+      "SetID": "aemieak",
+      "Name": "Medium group with all stars",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAIN_CAMPAIGN_COMPLETED",
+      "SetID": "aemieak",
+      "Name": "Contraption engineer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAIN_CAMPAIGN_GOLD",
+      "SetID": "aemieak",
+      "Name": "Professional contraption engineer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAIN_CAMPAIGN_SILVER",
+      "SetID": "aemieak",
+      "Name": "Experienced contraption engineer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAIN_CAMPAIGN_TOTAL",
+      "SetID": "aemieak",
+      "Name": "Master contraption engineer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOUNTAIN_COMPLETED",
+      "SetID": "aemieak",
+      "Name": "Mountain for amateurs",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOUNTAIN_GOLD",
+      "SetID": "aemieak",
+      "Name": "Experienced climber",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOUNTAIN_SILVER",
+      "SetID": "aemieak",
+      "Name": "Beginner climber",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOUNTAIN_TOTAL",
+      "SetID": "aemieak",
+      "Name": "Mountain master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TUTORIAL_COMPLETED",
+      "SetID": "aemieak",
+      "Name": "Graduated in contraptions",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "aemieak",
@@ -37,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-05-11T16:05:32.0105423+00:00",
+  "LastChanged_Achievements": "2023-05-11T17:05:36.7072566+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:28.7833905+00:00",
-  "LastUpdate_Ratings": "2023-05-11T15:58:22.9143736+00:00",
-  "LastUpdate_Achievements": "2023-05-11T16:05:32.0105437+00:00"
+  "LastUpdate_Ratings": "2023-05-11T16:58:27.4767912+00:00",
+  "LastUpdate_Achievements": "2023-05-11T17:05:36.7072752+00:00"
 }

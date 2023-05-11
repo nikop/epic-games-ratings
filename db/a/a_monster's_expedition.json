@@ -2,7 +2,7 @@
   "ID": "2b4079af75f0487798a504ca35952942",
   "Name": "A Monster\u0027s Expedition",
   "ProductSlug": "a-monsters-expedition",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 80,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:16.6505829+00:00",
   "LastChanged": "2023-03-31T05:57:16.650583+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.3531239+00:00",
-  "LastUpdate_Ratings": "2023-05-11T15:58:11.2629219+00:00",
-  "LastUpdate_Achievements": "2023-05-11T16:03:43.522693+00:00"
+  "LastUpdate_Ratings": "2023-05-11T16:58:15.7642091+00:00",
+  "LastUpdate_Achievements": "2023-05-11T17:03:55.2813338+00:00"
 }

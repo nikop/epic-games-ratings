@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -54,11 +54,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1882,
+  "EOS_Progressed": 1883,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.43,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.8863145+00:00",
@@ -219,6 +219,11 @@
       "Time": "2023-05-11T13:11:40.1984864+00:00",
       "NumProgressed": 1882,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-11T17:06:24.622385+00:00",
+      "NumProgressed": 1883,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -238,7 +243,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "complete_act_one",
@@ -270,7 +275,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "deal_damage",
@@ -286,7 +291,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "defeat_tree_dummy",
@@ -302,7 +307,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "piercing_beam",
@@ -381,7 +386,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1882,
+      "Progressed": 1883,
       "Completed": 8
     }
   ],
@@ -389,8 +394,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-11T16:06:18.6393014+00:00",
+  "LastChanged_Achievements": "2023-05-11T17:06:24.6223841+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
-  "LastUpdate_Ratings": "2023-05-11T16:00:40.1377249+00:00",
-  "LastUpdate_Achievements": "2023-05-11T16:06:18.6393144+00:00"
+  "LastUpdate_Ratings": "2023-05-11T17:00:48.1684156+00:00",
+  "LastUpdate_Achievements": "2023-05-11T17:06:24.6223979+00:00"
 }

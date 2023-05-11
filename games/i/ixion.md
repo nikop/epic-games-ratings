@@ -15,12 +15,12 @@ Rating: 4.54 (Ranked 477)
 | The Ship of Theseus | 0.60% | ~11 |
 | Space Society | 0.50% | ~9 |
 | Exceeding Capacity | 0.50% | ~9 |
+| Fully Recycled | 0.50% | ~9 |
 | Permanent Redesigns | 0.50% | ~9 |
 | Ain't Nobody Got Time for That | 0.50% | ~9 |
 | Hope Seeker | 0.50% | ~9 |
 | Guy de Borderlands | 0.40% | ~7 |
 | Power Outage | 0.40% | ~7 |
-| Fully Recycled | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
 | Sightseeing | 0.30% | ~6 |
 | A Hunk of Junk | 0.30% | ~6 |

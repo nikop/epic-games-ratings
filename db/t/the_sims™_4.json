@@ -2,10 +2,10 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 80,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -1580,10 +1580,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1095,
       "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-05-11T16:57:43.0527735+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1101,
+      "NumberOfAwardsMax": 168
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1095,
+  "NumberOfAwards": 1101,
   "NumberOfAwardsMax": 168,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1591,7 +1597,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 81
+      "Count": 83
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1621,7 +1627,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 83
+      "Count": 85
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1639,7 +1645,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 78
+      "Count": 80
     },
     {
       "Text": "This game is Relaxing",
@@ -1666,8 +1672,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-05-11T13:03:39.1190326+00:00",
+  "LastChanged": "2023-05-11T16:57:43.0527734+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.0706383+00:00",
-  "LastUpdate_Ratings": "2023-05-11T15:57:40.3467062+00:00",
-  "LastUpdate_Achievements": "2023-05-11T16:01:10.8915897+00:00"
+  "LastUpdate_Ratings": "2023-05-11T16:57:43.0527739+00:00",
+  "LastUpdate_Achievements": "2023-05-11T17:01:22.5714252+00:00"
 }

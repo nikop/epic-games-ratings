@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3640,9 +3640,9 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87146,
+  "EOS_Progressed": 87162,
   "EOS_Completed": 1825,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5505,6 +5505,11 @@
       "Time": "2023-05-11T16:06:28.1912458+00:00",
       "NumProgressed": 87146,
       "NumCompleted": 1825
+    },
+    {
+      "Time": "2023-05-11T17:06:33.9303489+00:00",
+      "NumProgressed": 87162,
+      "NumCompleted": 1825
     }
   ],
   "TotalAchievements": 489,
@@ -5516,7 +5521,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "objective_completed_10",
@@ -5602,9 +5607,9 @@
       "ID": "objective_completed_1052",
       "SetID": "415jc5c",
       "Name": "An Unexpected Geist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1053",
@@ -5634,9 +5639,9 @@
       "ID": "objective_completed_1057",
       "SetID": "415jc5c",
       "Name": "A Dragon Against Us",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1058",
@@ -5826,9 +5831,9 @@
       "ID": "objective_completed_1090",
       "SetID": "415jc5c",
       "Name": "Slack-jawed Lorna",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1091",
@@ -6130,9 +6135,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_1152",
@@ -6388,7 +6393,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "objective_completed_1204",
@@ -6954,9 +6959,9 @@
       "ID": "objective_completed_233",
       "SetID": "415jc5c",
       "Name": "Thine Bounty is Mine!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_235",
@@ -7026,9 +7031,9 @@
       "ID": "objective_completed_251",
       "SetID": "cc37lbc",
       "Name": "The Wyrmheart Mine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_252",
@@ -9186,9 +9191,9 @@
       "ID": "objective_completed_887",
       "SetID": "415jc5c",
       "Name": "Ending the Rime - Part 1",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_888",
@@ -9427,21 +9432,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53420,
+      "Progressed": 53436,
       "Completed": 2490
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87146,
+      "Progressed": 87162,
       "Completed": 1825
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T15:58:14.2200215+00:00",
-  "LastChanged_Achievements": "2023-05-11T16:06:28.1912453+00:00",
+  "LastChanged_Achievements": "2023-05-11T17:06:33.9303485+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-11T15:58:14.2200222+00:00",
-  "LastUpdate_Achievements": "2023-05-11T16:06:28.1933534+00:00"
+  "LastUpdate_Ratings": "2023-05-11T16:58:18.8374244+00:00",
+  "LastUpdate_Achievements": "2023-05-11T17:06:33.9331263+00:00"
 }

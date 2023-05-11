@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
       "Time": "2023-05-07T14:06:56.0186282+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T17:06:17.7912666+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -73,7 +78,7 @@
       "ID": "ArtCollector",
       "SetID": "82505mn",
       "Name": "Art Collector",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -97,9 +102,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "BugHunter",
@@ -107,7 +112,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Cryomancer",
@@ -131,7 +136,7 @@
       "Name": "Ghost Buster",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Gladiator",
@@ -147,13 +152,13 @@
       "Name": "Goblin Tales",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Hardboiled",
       "SetID": "82505mn",
       "Name": "Hardboiled",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -187,7 +192,7 @@
       "Name": "Inquisitor",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Librarian",
@@ -267,7 +272,7 @@
       "Name": "Reincarnation",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Roughneck",
@@ -386,7 +391,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
@@ -394,8 +399,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-11T16:06:12.0922651+00:00",
+  "LastChanged_Achievements": "2023-05-11T17:06:17.7912661+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:42.6742178+00:00",
-  "LastUpdate_Ratings": "2023-05-11T15:59:53.5121936+00:00",
-  "LastUpdate_Achievements": "2023-05-11T16:06:12.0922907+00:00"
+  "LastUpdate_Ratings": "2023-05-11T16:59:58.943501+00:00",
+  "LastUpdate_Achievements": "2023-05-11T17:06:17.7912981+00:00"
 }

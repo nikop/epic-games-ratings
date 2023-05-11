@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Checkmate | 2.00% | ~1,068 |
-| A Brief Tour of the Realms | 1.00% | ~871 |
+| Checkmate | 2.00% | ~1,069 |
+| A Brief Tour of the Realms | 1.00% | ~872 |
 | Pin and Skewer | 1.00% | ~534 |
 | Vecna Out! | 1.00% | ~534 |
 | The Cursed Farmer | 0.90% | ~784 |
@@ -54,18 +54,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~107 |
 | Nightmare Rats! | 0.20% | ~107 |
+| An Unexpected Geist | 0.20% | ~107 |
 | The Witchlight Carnival | 0.20% | ~107 |
 | A Monarch Among Us | 0.20% | ~107 |
+| A Dragon Against Us | 0.20% | ~107 |
 | Thieves of the Coven | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
 | The Prince of a Thousand Enemies | 0.20% | ~107 |
 | Third Third Out | 0.20% | ~107 |
 | The Silken Swamp | 0.20% | ~174 |
+| Slack-jawed Lorna | 0.20% | ~107 |
 | Wet Feet | 0.20% | ~174 |
 | Hatchlings Underfoot | 0.20% | ~174 |
 | Will of the Feywild | 0.20% | ~107 |
 | The Lutes of Loomlurch | 0.20% | ~107 |
 | Supply Run | 0.20% | ~174 |
+| Heavy Burden | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~107 |
 | Speeds of Destruction | 0.20% | ~107 |
 | The Evacuation of Waterdeep | 0.20% | ~107 |
@@ -102,9 +106,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~174 |
 | Chatty Nobles | 0.20% | ~174 |
 | Modron Assistance | 0.20% | ~174 |
+| Thine Bounty is Mine! | 0.20% | ~107 |
 | Haaave You Met Asmodeus? | 0.20% | ~174 |
 | Domesticated Owlbears | 0.20% | ~174 |
 | The Immortal Warrior | 0.20% | ~174 |
+| The Wyrmheart Mine | 0.20% | ~174 |
 | Tower on the Lake | 0.20% | ~174 |
 | Seeds of Deceit | 0.20% | ~174 |
 | Trollskull Manor | 0.20% | ~174 |
@@ -171,6 +177,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | How Far Away is Thay | 0.20% | ~107 |
 | Deekin's Mission | 0.20% | ~107 |
 | Frozen Vengeance | 0.20% | ~107 |
+| Ending the Rime - Part 1 | 0.20% | ~107 |
 | The Haunted Jungle | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -178,9 +185,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~53 |
 | Friends and Foes | 0.10% | ~53 |
 | And Your Enemies Closer | 0.10% | ~53 |
-| An Unexpected Geist | 0.10% | ~53 |
 | Back to Nature | 0.10% | ~53 |
-| A Dragon Against Us | 0.10% | ~53 |
 | A Familiar Behind Us | 0.10% | ~53 |
 | Sticky Fingers | 0.10% | ~53 |
 | Patron Party | 0.10% | ~53 |
@@ -199,7 +204,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.10% | ~53 |
 | First Third Out | 0.10% | ~53 |
 | Second Third Out | 0.10% | ~53 |
-| Slack-jawed Lorna | 0.10% | ~53 |
 | I'm Sure I Saw It Move! | 0.10% | ~53 |
 | End of the Line | 0.10% | ~53 |
 | A Steadfast Love | 0.10% | ~53 |
@@ -231,7 +235,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~53 |
 | Strength of Character | 0.10% | ~53 |
 | The Invisible Wizards of Thay | 0.10% | ~53 |
-| Heavy Burden | 0.10% | ~87 |
 | Flapjacks and Waffles | 0.10% | ~53 |
 | On the Hunt | 0.10% | ~87 |
 | Overwhelmed with Knowledge | 0.10% | ~53 |
@@ -275,12 +278,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~87 |
 | Poor Fortune | 0.10% | ~87 |
 | Relentless Misfortune | 0.10% | ~87 |
-| Thine Bounty is Mine! | 0.10% | ~53 |
 | This Quest Stinks! | 0.10% | ~53 |
 | Hold for the Red Wizards | 0.10% | ~87 |
 | Form Ranks | 0.10% | ~87 |
 | Drop of Time | 0.10% | ~53 |
-| The Wyrmheart Mine | 0.10% | ~87 |
 | They Who Smelt It | 0.10% | ~87 |
 | Distribute Your Weight | 0.10% | ~87 |
 | Mongrelfolk Incursion | 0.10% | ~53 |
@@ -469,7 +470,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Leemooggoogoon Rises | 0.10% | ~53 |
 | Stragglers | 0.10% | ~53 |
 | Volo's Guide to Kuo-toa | 0.10% | ~53 |
-| Ending the Rime - Part 1 | 0.10% | ~53 |
 | Ambitious Speakers - Part 1 | 0.10% | ~53 |
 | Shady Sidekicks - Part 1 | 0.10% | ~53 |
 | Ending the Rime - Part 2 | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,146 (Ranked 59)  
+Progressed: 87,162 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,146 | 1,825 |
+| 2023-05-11 | 87,162 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,858 (Ranked 37)  

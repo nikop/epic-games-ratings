@@ -2,7 +2,7 @@
   "ID": "e6b91350d2734c3b94dc6add87d004f0",
   "Name": "Tr\u00FCberbrook",
   "ProductSlug": "truberbrook",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 80,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.5017424+00:00",
   "LastChanged": "2023-03-31T05:58:37.5017425+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:01.6133672+00:00",
-  "LastUpdate_Ratings": "2023-05-11T16:00:15.6035151+00:00",
-  "LastUpdate_Achievements": "2023-05-11T16:04:57.2244556+00:00"
+  "LastUpdate_Ratings": "2023-05-11T17:00:21.7149229+00:00",
+  "LastUpdate_Achievements": "2023-05-11T17:05:00.5620317+00:00"
 }
