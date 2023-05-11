@@ -256,9 +256,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "MQ03_2",
@@ -296,17 +296,17 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MQ04_3",
@@ -441,8 +441,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-11T02:04:58.0578523+00:00",
+  "LastChanged_Achievements": "2023-05-11T03:05:40.0280691+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-11T01:55:59.8575872+00:00",
-  "LastUpdate_Achievements": "2023-05-11T02:04:58.057873+00:00"
+  "LastUpdate_Ratings": "2023-05-11T02:57:01.3938144+00:00",
+  "LastUpdate_Achievements": "2023-05-11T03:05:40.0280931+00:00"
 }

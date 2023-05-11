@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 80,
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37838,
+  "EOS_Progressed": 37841,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1444,6 +1444,11 @@
       "Time": "2023-05-11T02:05:15.8162728+00:00",
       "NumProgressed": 37838,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T03:05:57.5992631+00:00",
+      "NumProgressed": 37841,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1503,7 +1508,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -1878,22 +1883,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37838,
+      "Progressed": 37841,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2675,
-      "Completed": 2675
+      "Progressed": 2678,
+      "Completed": 2678
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-08T09:00:28.4742824+00:00",
-  "LastChanged_Achievements": "2023-05-11T02:05:15.8162725+00:00",
+  "LastChanged_Achievements": "2023-05-11T03:05:57.5992625+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-11T01:57:53.6423579+00:00",
-  "LastUpdate_Achievements": "2023-05-11T02:05:15.8163334+00:00"
+  "LastUpdate_Ratings": "2023-05-11T02:58:37.3146152+00:00",
+  "LastUpdate_Achievements": "2023-05-11T03:05:57.5993198+00:00"
 }

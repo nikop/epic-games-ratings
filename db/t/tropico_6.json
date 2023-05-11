@@ -6,8 +6,8 @@
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -846,9 +846,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2770,
+  "EOS_Progressed": 2772,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-05-11T02:05:44.3014096+00:00",
       "NumProgressed": 2770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T03:06:25.8021874+00:00",
+      "NumProgressed": 2772,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1887,7 +1892,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -1895,7 +1900,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -1943,7 +1948,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -1967,7 +1972,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -1991,7 +1996,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -2007,7 +2012,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2103,7 +2108,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2166,15 +2171,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2770,
+      "Progressed": 2772,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-11T02:05:44.3014091+00:00",
+  "LastChanged_Achievements": "2023-05-11T03:06:25.802187+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-11T02:00:02.1883524+00:00",
-  "LastUpdate_Achievements": "2023-05-11T02:05:44.3014522+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:00:34.5317673+00:00",
+  "LastUpdate_Achievements": "2023-05-11T03:06:25.8022245+00:00"
 }

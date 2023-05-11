@@ -61,7 +61,7 @@ Rating: 4.86 (Ranked 27)
 | I saw all those hits coming a measure away! | 1.00% | ~15 |
 | OK, I THINK I know what I'm doing now | 1.00% | ~15 |
 | I have to read ALL of these things? | 0.90% | ~13 |
-| I'm untouchable! | 0.80% | ~12 |
+| I'm untouchable! | 0.90% | ~13 |
 | I think that's enough health for now | 0.70% | ~10 |
 | I'm trying to FOCUS HERE! | 0.60% | ~9 |
 | Didn't skip a beat! | 0.50% | ~7 |

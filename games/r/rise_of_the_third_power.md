@@ -16,9 +16,9 @@
 | Ready to Rock | 23.00% | ~27 |
 | Teamwork | 23.00% | ~27 |
 | Determined | 21.00% | ~25 |
-| Beginning of the End | 18.00% | ~21 |
+| Beginning of the End | 19.00% | ~23 |
 | Bling | 18.00% | ~21 |
-| Geared | 16.00% | ~19 |
+| Geared | 17.00% | ~20 |
 | Master Crafter | 13.00% | ~15 |
 | Master Trader | 13.00% | ~15 |
 | Mysteries of Rin | 13.00% | ~15 |

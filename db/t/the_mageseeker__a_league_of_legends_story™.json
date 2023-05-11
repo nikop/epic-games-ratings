@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1953,
+  "EOS_Progressed": 1954,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1106,6 +1106,11 @@
       "Time": "2023-05-11T02:05:03.1050682+00:00",
       "NumProgressed": 1953,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T03:05:45.0292993+00:00",
+      "NumProgressed": 1954,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1173,7 +1178,7 @@
       "Name": "No more holding back",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -1181,7 +1186,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1197,7 +1202,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1293,7 +1298,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1301,7 +1306,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1333,7 +1338,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1461,7 +1466,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1477,7 +1482,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -1493,7 +1498,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1509,7 +1514,7 @@
       "Name": "Full equipped",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -1540,7 +1545,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1953,
+      "Progressed": 1954,
       "Completed": 1
     }
   ],
@@ -1548,8 +1553,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-11T02:05:03.1050677+00:00",
+  "LastChanged_Achievements": "2023-05-11T03:05:45.0292983+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-11T01:56:28.4572839+00:00",
-  "LastUpdate_Achievements": "2023-05-11T02:05:03.1051273+00:00"
+  "LastUpdate_Ratings": "2023-05-11T02:57:27.8164625+00:00",
+  "LastUpdate_Achievements": "2023-05-11T03:05:45.0293578+00:00"
 }

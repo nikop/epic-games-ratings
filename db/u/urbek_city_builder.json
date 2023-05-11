@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -111,6 +111,11 @@
     {
       "Time": "2023-05-09T02:08:13.9301308+00:00",
       "NumProgressed": 141,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T03:06:03.5851329+00:00",
+      "NumProgressed": 142,
       "NumCompleted": 0
     }
   ],
@@ -337,9 +342,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "FAITH_2",
@@ -403,7 +408,7 @@
       "Name": "I am very happy!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FELIZ_3",
@@ -473,9 +478,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "MILLS",
@@ -507,7 +512,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -754,7 +759,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
@@ -762,8 +767,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-11T02:05:21.8964774+00:00",
+  "LastChanged_Achievements": "2023-05-11T03:06:03.585132+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-11T01:58:16.7740836+00:00",
-  "LastUpdate_Achievements": "2023-05-11T02:05:21.8965846+00:00"
+  "LastUpdate_Ratings": "2023-05-11T02:58:59.8603774+00:00",
+  "LastUpdate_Achievements": "2023-05-11T03:06:03.58523+00:00"
 }

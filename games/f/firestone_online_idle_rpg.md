@@ -5,10 +5,10 @@ Rating: 3.55 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~883 |
+| Victor | 93.00% | ~884 |
 | World Map | 79.00% | ~750 |
 | Temple of Eternals | 55.00% | ~522 |
-| Prestigious | 52.00% | ~493 |
+| Prestigious | 52.00% | ~494 |
 | Fellowship Power | 39.00% | ~370 |
 | Guild Power | 23.00% | ~218 |
 | Prestigious x10 | 19.00% | ~180 |
@@ -16,17 +16,17 @@ Rating: 3.55 (Ranked 917)
 | Exotic Merchant | 15.00% | ~142 |
 | Dragon Clicker | 14.00% | ~133 |
 | Miner Clicker | 14.00% | ~133 |
-| Inspection | 13.00% | ~123 |
+| Inspection | 13.00% | ~124 |
 | Hero inspection | 12.00% | ~114 |
 | Full Party | 11.00% | ~104 |
-| Lieutenant | 9.00% | ~85 |
+| Lieutenant | 9.00% | ~86 |
 | Dragon Master | 8.00% | ~76 |
 | Enlightenment | 8.00% | ~76 |
 | Natural Talent | 7.00% | ~66 |
 | The Unstoppable | 7.00% | ~66 |
 | Superior | 6.00% | ~57 |
-| Daily Quest Completionist | 5.00% | ~47 |
-| Scientist | 5.00% | ~47 |
+| Daily Quest Completionist | 5.00% | ~48 |
+| Scientist | 5.00% | ~48 |
 | Milestone collector | 4.00% | ~38 |
 | Mysterious Rock | 4.00% | ~38 |
 | Background Story | 3.00% | ~28 |
@@ -43,10 +43,10 @@ Rating: 3.55 (Ranked 917)
 | How Do You Turn This On? | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
-| Master Enchanter | 1.00% | ~9 |
-| The father of Dragons | 1.00% | ~9 |
-| Trader | 1.00% | ~9 |
-| What lies behind the bush | 1.00% | ~9 |
+| Master Enchanter | 1.00% | ~10 |
+| The father of Dragons | 1.00% | ~10 |
+| Trader | 1.00% | ~10 |
+| What lies behind the bush | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
 | Four Leaf Clover | 0.90% | ~9 |
 | Relic Of The Past | 0.90% | ~9 |
@@ -81,7 +81,7 @@ Rating: 3.55 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 949 (Ranked 165)  
+Progressed: 950 (Ranked 165)  
 Completed: 1 (0.11%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.11%) (Ranked 153)
 | 2023-05-08 | 916 | 1 |
 | 2023-05-09 | 935 | 1 |
 | 2023-05-10 | 948 | 1 |
-| 2023-05-11 | 949 | 1 |
+| 2023-05-11 | 950 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

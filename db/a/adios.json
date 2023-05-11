@@ -42,9 +42,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55208,
+  "EOS_Progressed": 55211,
   "EOS_Completed": 443,
-  "EOS_NewPlayers": 1404,
+  "EOS_NewPlayers": 1402,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1877,6 +1877,11 @@
       "Time": "2023-05-11T02:05:41.4855217+00:00",
       "NumProgressed": 55208,
       "NumCompleted": 443
+    },
+    {
+      "Time": "2023-05-11T03:06:23.1536886+00:00",
+      "NumProgressed": 55211,
+      "NumCompleted": 443
     }
   ],
   "TotalAchievements": 25,
@@ -1904,7 +1909,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9385
+      "UsersEstimate": 9386
     },
     {
       "ID": "Audiophile",
@@ -1928,7 +1933,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9385
+      "UsersEstimate": 9386
     },
     {
       "ID": "Butcher",
@@ -1944,7 +1949,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "Fair\u0027sFair",
@@ -2008,7 +2013,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9937
+      "UsersEstimate": 9938
     },
     {
       "ID": "Nice Try",
@@ -2016,7 +2021,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8833
+      "UsersEstimate": 8834
     },
     {
       "ID": "Nothing Left to Say",
@@ -2024,7 +2029,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "Piano Man",
@@ -2048,7 +2053,7 @@
       "Name": "Sniper",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "Spicy",
@@ -2087,7 +2092,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 55208,
+      "Progressed": 55211,
       "Completed": 443
     }
   ],
@@ -2095,8 +2100,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-08T21:02:08.2864781+00:00",
-  "LastChanged_Achievements": "2023-05-11T02:05:41.4855212+00:00",
+  "LastChanged_Achievements": "2023-05-11T03:06:23.1536877+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:31.9453874+00:00",
-  "LastUpdate_Ratings": "2023-05-11T02:00:31.7617301+00:00",
-  "LastUpdate_Achievements": "2023-05-11T02:05:41.4855555+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:00:57.7604254+00:00",
+  "LastUpdate_Achievements": "2023-05-11T03:06:23.1537273+00:00"
 }

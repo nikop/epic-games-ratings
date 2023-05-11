@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12339,
+  "EOS_Progressed": 12340,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1595,6 +1595,11 @@
       "Time": "2023-05-10T22:06:23.4886279+00:00",
       "NumProgressed": 12339,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-11T03:05:32.8738186+00:00",
+      "NumProgressed": 12340,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1662,7 +1667,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "tpote_achievement_17",
@@ -1686,7 +1691,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "tpote_achievement_2",
@@ -1750,7 +1755,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "tpote_achievement_27",
@@ -1758,7 +1763,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "tpote_achievement_28",
@@ -1782,7 +1787,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4195
+      "UsersEstimate": 4196
     },
     {
       "ID": "tpote_achievement_30",
@@ -1870,7 +1875,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "tpote_achievement_40",
@@ -1933,15 +1938,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12339,
+      "Progressed": 12340,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-11T02:04:50.9858354+00:00",
+  "LastChanged_Achievements": "2023-05-11T03:05:32.8738177+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-11T01:59:45.5776222+00:00",
-  "LastUpdate_Achievements": "2023-05-11T02:04:50.9858799+00:00"
+  "LastUpdate_Ratings": "2023-05-11T03:00:18.8448628+00:00",
+  "LastUpdate_Achievements": "2023-05-11T03:05:32.873864+00:00"
 }

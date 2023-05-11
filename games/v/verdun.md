@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~33,307 |
-| Worth it | 63.00% | ~27,251 |
-| Eagle Eye | 55.00% | ~23,791 |
-| Corpseman I | 40.00% | ~17,302 |
-| Blast fishing | 38.00% | ~16,437 |
-| Not alone | 32.00% | ~13,842 |
-| Headhunter I | 27.00% | ~11,679 |
+| Setting an example | 77.00% | ~33,309 |
+| Worth it | 63.00% | ~27,253 |
+| Eagle Eye | 55.00% | ~23,792 |
+| Corpseman I | 40.00% | ~17,303 |
+| Blast fishing | 38.00% | ~16,438 |
+| Not alone | 32.00% | ~13,843 |
+| Headhunter I | 27.00% | ~11,680 |
 | Manual Labour I | 26.00% | ~11,247 |
-| Developers, Developers, Developers | 24.00% | ~10,381 |
-| Basic Training | 24.00% | ~10,381 |
-| Furchtlos und Treu | 13.00% | ~5,623 |
+| Developers, Developers, Developers | 24.00% | ~10,382 |
+| Basic Training | 24.00% | ~10,382 |
+| Furchtlos und Treu | 13.00% | ~5,624 |
 | Gott Mit Uns | 12.00% | ~5,191 |
 | This We'll Defend! | 9.00% | ~3,893 |
 | Anker wirf! | 9.00% | ~3,893 |
 | Providentiea Memor | 9.00% | ~3,893 |
 | For King and Country | 9.00% | ~3,893 |
-| Battle hardened | 8.00% | ~3,460 |
+| Battle hardened | 8.00% | ~3,461 |
 | Semper Fidelis! | 7.00% | ~3,028 |
 | Honneur et Patrie | 7.00% | ~3,028 |
 | In Treue Fest | 5.00% | ~2,163 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~43 |
 | Blood Brother | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,256 (Ranked 77)  
+Progressed: 43,258 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 2 (0.00%) (Ranked 198)
 | 2023-05-08 | 43,053 | 2 |
 | 2023-05-09 | 43,158 | 2 |
 | 2023-05-10 | 43,249 | 2 |
-| 2023-05-11 | 43,256 | 2 |
+| 2023-05-11 | 43,258 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 331)  
 Sum: 730 (Ranked 255)  

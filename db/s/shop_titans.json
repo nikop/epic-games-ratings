@@ -3958,7 +3958,7 @@
       "Count": 3666
     }
   ],
-  "EOS_Progressed": 127971,
+  "EOS_Progressed": 127972,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 2,
@@ -5658,6 +5658,11 @@
       "Time": "2023-05-11T02:05:10.1910549+00:00",
       "NumProgressed": 127971,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-05-11T03:05:52.0796055+00:00",
+      "NumProgressed": 127972,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 112,
@@ -5797,7 +5802,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 33272
+      "UsersEstimate": 33273
     },
     {
       "ID": "boss01",
@@ -5805,7 +5810,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 56307
+      "UsersEstimate": 56308
     },
     {
       "ID": "boss02",
@@ -5837,7 +5842,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124132
+      "UsersEstimate": 124133
     },
     {
       "ID": "chest02",
@@ -5901,7 +5906,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 116454
+      "UsersEstimate": 116455
     },
     {
       "ID": "commonres02",
@@ -5933,7 +5938,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 97258
+      "UsersEstimate": 97259
     },
     {
       "ID": "craft02",
@@ -5941,7 +5946,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 52468
+      "UsersEstimate": 52469
     },
     {
       "ID": "craft03",
@@ -6021,7 +6026,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 78062
+      "UsersEstimate": 78063
     },
     {
       "ID": "energy02",
@@ -6141,7 +6146,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 111335
+      "UsersEstimate": 111336
     },
     {
       "ID": "gold02",
@@ -6149,7 +6154,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 72943
+      "UsersEstimate": 72944
     },
     {
       "ID": "gold03",
@@ -6157,7 +6162,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 47349
+      "UsersEstimate": 47350
     },
     {
       "ID": "gold04",
@@ -6253,7 +6258,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 84461
+      "UsersEstimate": 84462
     },
     {
       "ID": "level02",
@@ -6325,7 +6330,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 60146
+      "UsersEstimate": 60147
     },
     {
       "ID": "master02",
@@ -6333,7 +6338,7 @@
       "Name": "Natural 20",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 29433
+      "UsersEstimate": 29434
     },
     {
       "ID": "master03",
@@ -6445,7 +6450,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 95978
+      "UsersEstimate": 95979
     },
     {
       "ID": "sell02",
@@ -6485,7 +6490,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 122852
+      "UsersEstimate": 122853
     },
     {
       "ID": "twinenchant01",
@@ -6564,15 +6569,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 127971,
+      "Progressed": 127972,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-10T14:58:25.8889111+00:00",
-  "LastChanged_Achievements": "2023-05-11T02:05:10.1910544+00:00",
+  "LastChanged_Achievements": "2023-05-11T03:05:52.0796047+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:38.2111116+00:00",
-  "LastUpdate_Ratings": "2023-05-11T01:57:37.5333305+00:00",
-  "LastUpdate_Achievements": "2023-05-11T02:05:10.1911883+00:00"
+  "LastUpdate_Ratings": "2023-05-11T02:58:24.0135965+00:00",
+  "LastUpdate_Achievements": "2023-05-11T03:05:52.0797725+00:00"
 }

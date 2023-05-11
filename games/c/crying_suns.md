@@ -6,7 +6,7 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,081 |
+| The Shutdown | 66.00% | ~302,082 |
 | Jeef Skeejj | 44.00% | ~201,388 |
 | Careful planning | 39.00% | ~178,503 |
 | Second Coming | 33.00% | ~151,041 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,699 (Ranked 28)  
+Progressed: 457,700 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 14 (0.00%) (Ranked 198)
 | 2023-05-08 | 457,563 | 14 |
 | 2023-05-09 | 457,634 | 14 |
 | 2023-05-10 | 457,695 | 14 |
-| 2023-05-11 | 457,699 | 14 |
+| 2023-05-11 | 457,700 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

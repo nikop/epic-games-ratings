@@ -55,6 +55,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.20% | ~107 |
 | Thieves of the Coven | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
+| The Prince of a Thousand Enemies | 0.20% | ~107 |
 | The Silken Swamp | 0.20% | ~174 |
 | Wet Feet | 0.20% | ~174 |
 | Hatchlings Underfoot | 0.20% | ~174 |
@@ -136,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bad Odds in Avernus | 0.20% | ~107 |
 | An Even Worse Time in Avernus | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
+| Rime Bandits | 0.20% | ~107 |
 | Giant-Size Adventure | 0.20% | ~107 |
 | The Everlasting Rime | 0.20% | ~107 |
 | Close Escort | 0.20% | ~174 |
@@ -180,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~53 |
 | Icequake | 0.10% | ~53 |
 | A Lesson in Classes | 0.10% | ~53 |
-| The Prince of a Thousand Enemies | 0.10% | ~53 |
 | Uncommon Allies | 0.10% | ~53 |
 | The Birds | 0.10% | ~53 |
 | Where the Magic Happens | 0.10% | ~53 |
@@ -421,7 +422,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~53 |
 | Prisoners of Lolth | 0.10% | ~53 |
 | Prisoners of Unknown Choices | 0.10% | ~53 |
-| Rime Bandits | 0.10% | ~53 |
 | Power of Three | 0.10% | ~53 |
 | Enemy Summit | 0.10% | ~53 |
 | Mirage Arcane | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,108 (Ranked 59)  
+Progressed: 87,113 (Ranked 59)  
 Completed: 1,823 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 1,823 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,108 | 1,823 |
+| 2023-05-11 | 87,113 | 1,823 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,850 (Ranked 37)  
