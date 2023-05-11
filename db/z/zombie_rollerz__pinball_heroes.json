@@ -166,9 +166,9 @@
       "ID": "CLG_UNLOCK_10004",
       "SetID": "89cjc9l",
       "Name": "The Blacksmith",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CLG_UNLOCK_10005",
@@ -542,9 +542,9 @@
       "ID": "PRG_MODE_HARD",
       "SetID": "89cjc9l",
       "Name": "Out of the Frying Pan...",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -574,9 +574,9 @@
       "ID": "PRG_NORMAL_10003",
       "SetID": "89cjc9l",
       "Name": "Verse",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PRG_NORMAL_10004",
@@ -663,8 +663,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-11T05:05:53.9669458+00:00",
+  "LastChanged_Achievements": "2023-05-11T06:05:58.0375798+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:52.4511908+00:00",
-  "LastUpdate_Ratings": "2023-05-11T04:57:31.2931251+00:00",
-  "LastUpdate_Achievements": "2023-05-11T05:05:53.9670224+00:00"
+  "LastUpdate_Ratings": "2023-05-11T05:57:27.0898439+00:00",
+  "LastUpdate_Achievements": "2023-05-11T06:05:58.0376381+00:00"
 }

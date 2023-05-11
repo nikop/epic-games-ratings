@@ -404,7 +404,7 @@
   ],
   "EOS_Progressed": 18330,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1237,9 +1237,9 @@
       "ID": "ach.180.inspector",
       "SetID": "384aaja",
       "Name": "Inspector",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10815
     },
     {
       "ID": "ach.190.scenic",
@@ -1406,8 +1406,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-08T05:01:02.9878501+00:00",
-  "LastChanged_Achievements": "2023-05-11T05:05:56.5830573+00:00",
+  "LastChanged_Achievements": "2023-05-11T06:06:01.178741+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:29.1139997+00:00",
-  "LastUpdate_Ratings": "2023-05-11T04:59:20.7808282+00:00",
-  "LastUpdate_Achievements": "2023-05-11T05:05:56.5831143+00:00"
+  "LastUpdate_Ratings": "2023-05-11T05:59:28.584382+00:00",
+  "LastUpdate_Achievements": "2023-05-11T06:06:01.1787663+00:00"
 }

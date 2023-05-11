@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1114,
+  "EOS_Progressed": 1115,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -278,6 +278,11 @@
       "Time": "2023-05-10T16:05:46.1745038+00:00",
       "NumProgressed": 1114,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-11T06:06:08.5956771+00:00",
+      "NumProgressed": 1115,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -289,7 +294,7 @@
       "Name": "Lovebirds",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "10",
@@ -297,7 +302,7 @@
       "Name": "Perfect timing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "11",
@@ -353,7 +358,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "18",
@@ -449,7 +454,7 @@
       "Name": "Hug therapy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "30",
@@ -495,9 +500,9 @@
       "ID": "6",
       "SetID": "n50no0",
       "Name": "Life\u2019s short, ride long",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 535
     },
     {
       "ID": "7",
@@ -528,15 +533,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1114,
+      "Progressed": 1115,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-11T05:06:03.561956+00:00",
+  "LastChanged_Achievements": "2023-05-11T06:06:08.5956766+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:42.3936713+00:00",
-  "LastUpdate_Ratings": "2023-05-11T04:59:34.7253217+00:00",
-  "LastUpdate_Achievements": "2023-05-11T05:06:03.5619794+00:00"
+  "LastUpdate_Ratings": "2023-05-11T05:59:43.4077849+00:00",
+  "LastUpdate_Achievements": "2023-05-11T06:06:08.5956945+00:00"
 }

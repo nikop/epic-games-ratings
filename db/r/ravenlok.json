@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 579,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 28,
-  "EOS_Completed_Percentage": 6.23,
+  "EOS_Completed_Percentage": 6.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -887,6 +887,11 @@
       "Time": "2023-05-11T04:04:35.1233499+00:00",
       "NumProgressed": 578,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-05-11T06:05:33.2123312+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 50,
@@ -898,7 +903,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "10",
@@ -914,7 +919,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "12",
@@ -930,7 +935,7 @@
       "Name": "Extinct Again!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "14",
@@ -938,7 +943,7 @@
       "Name": "Bird of Prey",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "15",
@@ -978,7 +983,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "2",
@@ -994,7 +999,7 @@
       "Name": "Stardust",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "21",
@@ -1002,7 +1007,7 @@
       "Name": "Take Heart",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "22",
@@ -1098,15 +1103,15 @@
       "Name": "The Guardian",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 272
     },
     {
       "ID": "34",
@@ -1130,7 +1135,7 @@
       "Name": "Dance Master",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "37",
@@ -1162,7 +1167,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "40",
@@ -1170,7 +1175,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "41",
@@ -1200,9 +1205,9 @@
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 185
     },
     {
       "ID": "45",
@@ -1234,7 +1239,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "49",
@@ -1248,9 +1253,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 226
     },
     {
       "ID": "50",
@@ -1297,7 +1302,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 579,
       "Completed": 36
     }
   ],
@@ -1305,8 +1310,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-11T05:05:31.5036285+00:00",
+  "LastChanged_Achievements": "2023-05-11T06:05:33.2123309+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-11T04:57:29.0487305+00:00",
-  "LastUpdate_Achievements": "2023-05-11T05:05:31.5037106+00:00"
+  "LastUpdate_Ratings": "2023-05-11T05:57:24.7490458+00:00",
+  "LastUpdate_Achievements": "2023-05-11T06:05:33.2123672+00:00"
 }

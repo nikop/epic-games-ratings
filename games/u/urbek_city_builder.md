@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 61.00% | ~87 |
-| I like parks | 46.00% | ~65 |
-| The spiritual world... | 27.00% | ~38 |
-| Sport is good for you | 27.00% | ~38 |
+| Small town | 60.00% | ~86 |
+| I like parks | 46.00% | ~66 |
+| The spiritual world... | 27.00% | ~39 |
+| Sport is good for you | 27.00% | ~39 |
 | The woodcutter | 25.00% | ~36 |
-| It is nice to share with friends in the city | 25.00% | ~36 |
-| I like books | 20.00% | ~28 |
-| I like my life | 20.00% | ~28 |
-| Clean energy | 20.00% | ~28 |
+| It is nice to share with friends in the city | 24.00% | ~34 |
+| I like books | 20.00% | ~29 |
+| I like my life | 20.00% | ~29 |
+| Clean energy | 20.00% | ~29 |
 | Soviet town | 15.00% | ~21 |
 | Bucolic city | 14.00% | ~20 |
 | King of fish | 12.00% | ~17 |
-| I love books! | 11.00% | ~16 |
-| I love parks | 11.00% | ~16 |
+| I love books! | 10.00% | ~14 |
+| I love parks | 10.00% | ~14 |
 | What would we do if we can't go out with friends? | 9.00% | ~13 |
 | Food producer | 7.00% | ~10 |
 | Metropolurbek | 7.00% | ~10 |
 | I am very happy! | 6.00% | ~9 |
-| Read! Everyone should read! | 4.00% | ~6 |
-| Little Mayor | 4.00% | ~6 |
 | Sport is the best thing | 4.00% | ~6 |
 | Banking city | 3.00% | ~4 |
+| Read! Everyone should read! | 3.00% | ~4 |
+| Little Mayor | 3.00% | ~4 |
 | Rebel city | 3.00% | ~4 |
 | Temperate builder | 3.00% | ~4 |
 | Archipelago builder | 2.00% | ~3 |
@@ -34,6 +34,7 @@
 | Freedom to go to the mall! | 2.00% | ~3 |
 | Anarchist Utopia | 1.00% | ~1 |
 | Archipelago urban planner | 1.00% | ~1 |
+| City crisis | 1.00% | ~1 |
 | Perfect city | 1.00% | ~1 |
 | Oh, I love parks, listening to birds! | 1.00% | ~1 |
 | Town planner | 1.00% | ~1 |
@@ -41,7 +42,6 @@
 | Anarchist paradise | 0.70% | ~1 |
 | I can't see the sky | 0.70% | ~1 |
 | Urban style | 0.70% | ~1 |
-| City crisis | 0.70% | ~1 |
 | Desert builder | 0.70% | ~1 |
 | Desert urban planner | 0.70% | ~1 |
 | Oh, I am sad | 0.70% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 242)  
+Progressed: 143 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-07 | 138 | 0 |
 | 2023-05-08 | 140 | 0 |
 | 2023-05-09 | 141 | 0 |
-| 2023-05-11 | 142 | 0 |
+| 2023-05-11 | 143 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

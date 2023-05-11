@@ -5,17 +5,17 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 5.00% | ~13,327 |
-| Grappling with a Graphorn | 5.00% | ~13,327 |
-| The One Who Mastered Memories | 5.00% | ~13,327 |
-| The Hallowed Hero | 5.00% | ~13,327 |
-| The Hero of Hogwarts | 5.00% | ~13,327 |
-| The Defender of Dragons | 5.00% | ~13,327 |
-| Challenge Accepted | 5.00% | ~13,327 |
-| Loom for Improvement | 5.00% | ~13,327 |
-| Coasting Along | 5.00% | ~13,327 |
-| That's a Keeper | 5.00% | ~13,327 |
-| Rising From the Ashes | 5.00% | ~13,327 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,328 |
+| Grappling with a Graphorn | 5.00% | ~13,328 |
+| The One Who Mastered Memories | 5.00% | ~13,328 |
+| The Hallowed Hero | 5.00% | ~13,328 |
+| The Hero of Hogwarts | 5.00% | ~13,328 |
+| The Defender of Dragons | 5.00% | ~13,328 |
+| Challenge Accepted | 5.00% | ~13,328 |
+| Loom for Improvement | 5.00% | ~13,328 |
+| Coasting Along | 5.00% | ~13,328 |
+| That's a Keeper | 5.00% | ~13,328 |
+| Rising From the Ashes | 5.00% | ~13,328 |
 | The Avenging Gazelle | 4.00% | ~10,662 |
 | Beast Friends | 4.00% | ~10,662 |
 | A Sallow Grave | 4.00% | ~10,662 |
@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 103)
 | The Spell Master | 4.00% | ~10,662 |
 | First Class Student | 4.00% | ~10,662 |
 | Troll with the Punches | 4.00% | ~10,662 |
-| The Seeker of Knowledge | 3.00% | ~7,996 |
-| The Root of the Problem | 3.00% | ~7,996 |
-| Third Time's a Charm | 3.00% | ~7,996 |
-| Raising Expectations | 3.00% | ~7,996 |
+| The Seeker of Knowledge | 3.00% | ~7,997 |
+| The Root of the Problem | 3.00% | ~7,997 |
+| Third Time's a Charm | 3.00% | ~7,997 |
+| Raising Expectations | 3.00% | ~7,997 |
 | The Toast of the Town | 2.00% | ~5,331 |
 | Going Through the Potions | 2.00% | ~5,331 |
 | Room with a View | 2.00% | ~5,331 |
@@ -37,12 +37,12 @@ Rating: 4.77 (Ranked 103)
 | The Intrepid Explorer | 2.00% | ~5,331 |
 | The Gryffindor in the Graveyard | 2.00% | ~5,331 |
 | The Ends Petrify the Means | 2.00% | ~5,331 |
-| The Good Samaritan | 1.00% | ~2,665 |
-| Put Down Roots | 1.00% | ~2,665 |
-| The Auror's Apprentice | 1.00% | ~2,665 |
-| Rise to the Challenges | 1.00% | ~2,665 |
-| Finishing Touches | 1.00% | ~2,665 |
-| The Wise Owl | 1.00% | ~2,665 |
+| The Good Samaritan | 1.00% | ~2,666 |
+| Put Down Roots | 1.00% | ~2,666 |
+| The Auror's Apprentice | 1.00% | ~2,666 |
+| Rise to the Challenges | 1.00% | ~2,666 |
+| Finishing Touches | 1.00% | ~2,666 |
+| The Wise Owl | 1.00% | ~2,666 |
 | Demiguise Dread | 0.80% | ~2,132 |
 | Savvy Spender | 0.70% | ~1,866 |
 | A Forte for Achievement | 0.70% | ~1,866 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,066 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,549 (Ranked 38)  
+Progressed: 266,552 (Ranked 38)  
 Completed: 359 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-08 | 266,274 | 354 |
 | 2023-05-09 | 266,399 | 356 |
 | 2023-05-10 | 266,527 | 358 |
-| 2023-05-11 | 266,549 | 359 |
+| 2023-05-11 | 266,552 | 359 |
 ## Awards
 Max (Character Customization): 18,623  (Ranked 18)  
 Sum: 34,062 (Ranked 33)  

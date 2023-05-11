@@ -738,9 +738,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5589,
+  "EOS_Progressed": 5590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1818,6 +1818,11 @@
       "Time": "2023-05-11T00:00:31.090715+00:00",
       "NumProgressed": 5589,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T06:01:14.5613495+00:00",
+      "NumProgressed": 5590,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -1861,7 +1866,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -1869,7 +1874,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "Control_All_Relics",
@@ -1893,7 +1898,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -1933,7 +1938,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "First_Race_Met",
@@ -1941,7 +1946,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4080
+      "UsersEstimate": 4081
     },
     {
       "ID": "First_Ship_Designed",
@@ -1965,7 +1970,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4359
+      "UsersEstimate": 4360
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2149,7 +2154,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3466
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2173,7 +2178,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Win_As_Altarian",
@@ -2381,7 +2386,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "Win_Quickly",
@@ -2389,7 +2394,7 @@
       "Name": "Win Quickly",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Win_Research",
@@ -2404,15 +2409,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5589,
+      "Progressed": 5590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-04-29T02:57:00.132474+00:00",
-  "LastChanged_Achievements": "2023-05-11T05:00:57.6664554+00:00",
+  "LastChanged_Achievements": "2023-05-11T06:01:14.561349+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:42.1856232+00:00",
-  "LastUpdate_Ratings": "2023-05-11T04:57:20.31994+00:00",
-  "LastUpdate_Achievements": "2023-05-11T05:00:57.6665618+00:00"
+  "LastUpdate_Ratings": "2023-05-11T05:57:15.2689698+00:00",
+  "LastUpdate_Achievements": "2023-05-11T06:01:14.5614144+00:00"
 }

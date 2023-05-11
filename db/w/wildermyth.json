@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -350,6 +350,11 @@
       "Time": "2023-05-10T16:05:24.3748848+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-11T06:05:43.8853228+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -377,7 +382,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -519,9 +524,9 @@
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -663,9 +668,9 @@
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 104
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -751,9 +756,9 @@
       "ID": "theme_skeleton_terrify10Enemies",
       "SetID": "95dc8p",
       "Name": "I\u0027m Not Smiling",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "theme_star_kill20EnemiesWithFallingStars",
@@ -808,15 +813,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-11T05:05:41.4038293+00:00",
+  "LastChanged_Achievements": "2023-05-11T06:05:43.8853225+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-11T05:00:39.9798503+00:00",
-  "LastUpdate_Achievements": "2023-05-11T05:05:41.4039126+00:00"
+  "LastUpdate_Ratings": "2023-05-11T06:00:52.9029479+00:00",
+  "LastUpdate_Achievements": "2023-05-11T06:05:43.885357+00:00"
 }

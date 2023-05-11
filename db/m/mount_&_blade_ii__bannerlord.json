@@ -3915,9 +3915,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49469,
+  "EOS_Progressed": 49470,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5655,6 +5655,11 @@
       "Time": "2023-05-11T05:06:09.9278903+00:00",
       "NumProgressed": 49469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T06:06:15.3157689+00:00",
+      "NumProgressed": 49470,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5874,7 +5879,7 @@
       "Name": "Know your enemy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "Lance-a-lot",
@@ -5906,7 +5911,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10388
+      "UsersEstimate": 10389
     },
     {
       "ID": "Long live the Empire",
@@ -6026,7 +6031,7 @@
       "Name": "This Is Our Land",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "This is Sparta",
@@ -6073,15 +6078,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49469,
+      "Progressed": 49470,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-10T17:00:25.2144226+00:00",
-  "LastChanged_Achievements": "2023-05-11T05:06:09.9278893+00:00",
+  "LastChanged_Achievements": "2023-05-11T06:06:15.3157686+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-11T04:59:44.8210543+00:00",
-  "LastUpdate_Achievements": "2023-05-11T05:06:09.9279857+00:00"
+  "LastUpdate_Ratings": "2023-05-11T05:59:54.4458703+00:00",
+  "LastUpdate_Achievements": "2023-05-11T06:06:15.3158102+00:00"
 }

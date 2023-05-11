@@ -29,17 +29,17 @@
 | The Slime | 20.00% | ~11 |
 | The Flower | 19.00% | ~10 |
 | The Giant | 19.00% | ~10 |
-| Out of the Frying Pan... | 17.00% | ~9 |
-| The Blacksmith | 15.00% | ~8 |
+| Out of the Frying Pan... | 19.00% | ~10 |
+| The Blacksmith | 17.00% | ~9 |
 | The Assistant | 13.00% | ~7 |
 | The Droid | 11.00% | ~6 |
 | The Ooze | 11.00% | ~6 |
 | Ember | 11.00% | ~6 |
 | Turquoise | 11.00% | ~6 |
+| Verse | 11.00% | ~6 |
 | Tested | 11.00% | ~6 |
 | The Bomber | 9.00% | ~5 |
 | The Steampunk | 9.00% | ~5 |
-| Verse | 9.00% | ~5 |
 | Iron | 9.00% | ~5 |
 | Anvil | 6.00% | ~3 |
 | Power Overwhelming | 4.00% | ~2 |

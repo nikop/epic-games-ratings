@@ -6,27 +6,27 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,415 |
-| Worker Specialization | 78.00% | ~4,359 |
-| First Contact | 73.00% | ~4,080 |
+| Colonize a Planet | 79.00% | ~4,416 |
+| Worker Specialization | 78.00% | ~4,360 |
+| First Contact | 73.00% | ~4,081 |
 | Win a Battle | 67.00% | ~3,745 |
-| Anomaly Researcher | 63.00% | ~3,521 |
-| Unleash My Power | 62.00% | ~3,465 |
+| Anomaly Researcher | 63.00% | ~3,522 |
+| Unleash My Power | 62.00% | ~3,466 |
 | Own 30 Planets | 35.00% | ~1,956 |
-| Xenocide | 33.00% | ~1,844 |
-| Commodity Trader | 32.00% | ~1,788 |
+| Xenocide | 33.00% | ~1,845 |
+| Commodity Trader | 32.00% | ~1,789 |
 | Design a Civilization | 31.00% | ~1,733 |
 | Design a Ship | 29.00% | ~1,621 |
 | Commodity Seller | 26.00% | ~1,453 |
-| Prestige Victory! | 14.00% | ~782 |
+| Prestige Victory! | 14.00% | ~783 |
 | Galactic War | 11.00% | ~615 |
 | Trading Partner | 9.00% | ~503 |
 | Fleet Victory | 8.00% | ~447 |
 | Win as Terrans | 7.00% | ~391 |
 | Win with a Custom Faction | 7.00% | ~391 |
 | Gain an Ally | 6.00% | ~335 |
-| War with the Unknown | 5.00% | ~279 |
-| Win Quickly | 5.00% | ~279 |
+| War with the Unknown | 5.00% | ~280 |
+| Win Quickly | 5.00% | ~280 |
 | Conquest Victory! | 4.00% | ~224 |
 | Pirate Cleansing | 3.00% | ~168 |
 | Win an Immense Game | 3.00% | ~168 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,589 (Ranked 118)  
+Progressed: 5,590 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 5,563 | 0 |
 | 2023-05-09 | 5,577 | 0 |
 | 2023-05-10 | 5,588 | 0 |
-| 2023-05-11 | 5,589 | 0 |
+| 2023-05-11 | 5,590 | 0 |
 ## Awards
 Max (Diverse Characters): 89  (Ranked 335)  
 Sum: 655 (Ranked 266)  

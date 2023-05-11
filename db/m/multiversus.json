@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 9,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": null,
@@ -3521,9 +3521,9 @@
       "Count": 3402
     }
   ],
-  "EOS_Progressed": 1069461,
+  "EOS_Progressed": 1069462,
   "EOS_Completed": 31628,
-  "EOS_NewPlayers": 1632,
+  "EOS_NewPlayers": 1631,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
@@ -5356,6 +5356,11 @@
       "Time": "2023-05-11T05:05:29.6211898+00:00",
       "NumProgressed": 1069461,
       "NumCompleted": 31628
+    },
+    {
+      "Time": "2023-05-11T06:05:31.1881739+00:00",
+      "NumProgressed": 1069462,
+      "NumCompleted": 31628
     }
   ],
   "TotalAchievements": 28,
@@ -5399,7 +5404,7 @@
       "Name": "Signature Slammer",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 459868
+      "UsersEstimate": 459869
     },
     {
       "ID": "ACH_10_RINGOUTS_BOTTOM",
@@ -5439,7 +5444,7 @@
       "Name": "Aerial Specialist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 673760
+      "UsersEstimate": 673761
     },
     {
       "ID": "ACH_10_TOASTS",
@@ -5487,7 +5492,7 @@
       "Name": "Bun-Puncher Supreme",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 727233
+      "UsersEstimate": 727234
     },
     {
       "ID": "ACH_GET_200_PROJECTILE_RINGOUTS",
@@ -5511,7 +5516,7 @@
       "Name": "You Mean Business",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 727233
+      "UsersEstimate": 727234
     },
     {
       "ID": "ACH_GET_50_PROJECTILE_RINGOUTS",
@@ -5527,7 +5532,7 @@
       "Name": "You\u0027re Getting Pretty Good At This!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 727233
+      "UsersEstimate": 727234
     },
     {
       "ID": "ACH_PLAY_100_PARTY_MATCHES",
@@ -5543,7 +5548,7 @@
       "Name": "Matchmaker",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 791401
+      "UsersEstimate": 791402
     },
     {
       "ID": "ACH_PLAY_25_PARTY_MATCHES",
@@ -5567,7 +5572,7 @@
       "Name": "Proving Yourself",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 673760
+      "UsersEstimate": 673761
     },
     {
       "ID": "ACH_WIN_10_MATCHMADE_GAMES",
@@ -5575,7 +5580,7 @@
       "Name": "Stepping Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 673760
+      "UsersEstimate": 673761
     },
     {
       "ID": "ACH_WIN_300_MATCHMADE_GAMES",
@@ -5583,22 +5588,22 @@
       "Name": "The Throne Is Yours",
       "Percentage": 63,
       "XP": 90,
-      "UsersEstimate": 673760
+      "UsersEstimate": 673761
     }
   ],
   "AchievementSets": [
     {
       "ID": "dc21kim",
       "IsBase": true,
-      "Progressed": 1069461,
+      "Progressed": 1069462,
       "Completed": 31628
     }
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
   "LastChanged": "2023-05-10T09:59:58.4634605+00:00",
-  "LastChanged_Achievements": "2023-05-11T05:05:29.6211891+00:00",
+  "LastChanged_Achievements": "2023-05-11T06:05:31.1881735+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:34.9053618+00:00",
-  "LastUpdate_Ratings": "2023-05-11T05:00:38.1320313+00:00",
-  "LastUpdate_Achievements": "2023-05-11T05:05:29.6212412+00:00"
+  "LastUpdate_Ratings": "2023-05-11T06:00:51.0044353+00:00",
+  "LastUpdate_Achievements": "2023-05-11T06:05:31.1881957+00:00"
 }
