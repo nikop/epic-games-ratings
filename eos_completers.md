@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
-| 1 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 50.00% |
+| 2 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 40.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -21,8 +21,8 @@
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.76% |
-| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.33% |
+| 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
@@ -51,7 +51,7 @@
 | 49 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 52 | [ZZT!](games/z/zzt!.md) | 2.80% |
+| 52 | [ZZT!](games/z/zzt!.md) | 2.85% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
@@ -83,7 +83,7 @@
 | 81 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 84 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
+| 84 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
 | 85 | [Sable](games/s/sable.md) | 0.92% |
 | 86 | [Hades](games/h/hades.md) | 0.90% |
 | 87 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
