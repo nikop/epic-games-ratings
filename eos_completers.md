@@ -119,11 +119,11 @@
 | 117 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 118 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 120 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.32% |
 | 120 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 122 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 122 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 122 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 121 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
+| 121 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 121 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 125 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 126 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 126 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |

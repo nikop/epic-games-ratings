@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | 2023-05-11 |
 | [Fuga: Melodies of Steel 2](games/f/fuga__melodies_of_steel_2.md) | 2023-05-11 | 2023-05-11 |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-11 | 2023-05-11 |
 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 2023-05-10 |
