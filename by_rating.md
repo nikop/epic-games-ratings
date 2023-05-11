@@ -161,7 +161,7 @@
 | 155 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 490 |
 | 155 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 490 |
 | 155 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 490 |
-| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 309 | 223 |
+| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 310 | 223 |
 | 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 490 |
 | 155 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 490 |
 | 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 456 | 188 |
@@ -264,30 +264,30 @@
 | 256 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 490 |
 | 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,215 | 98 |
 | 256 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 311 |
-| 256 | [Returnal™](games/r/returnal™.md) | 4.67 | 21 | 477 |
 | 256 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 490 |
 | 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 490 |
 | 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 490 |
 | 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,579 | 90 |
 | 256 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 104 | 315 |
 | 256 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 477 |
-| 272 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 490 |
-| 272 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 72 | 357 |
-| 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 262 |
-| 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 490 |
-| 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,286 | 119 |
-| 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 512 | 180 |
-| 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 490 |
-| 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 490 |
-| 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,037 | 132 |
-| 272 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 51 | 383 |
-| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 548 | 173 |
-| 272 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 465 |
-| 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 421 | 191 |
-| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,765 | 56 |
-| 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 187 |
+| 271 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 490 |
+| 271 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 72 | 357 |
+| 271 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 262 |
+| 271 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 490 |
+| 271 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,286 | 119 |
+| 271 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 512 | 180 |
+| 271 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 490 |
+| 271 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 490 |
+| 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,037 | 132 |
+| 271 | [Returnal™](games/r/returnal™.md) | 4.66 | 21 | 477 |
+| 271 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 51 | 383 |
+| 271 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 548 | 173 |
+| 271 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 465 |
+| 271 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 421 | 191 |
+| 271 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,765 | 56 |
+| 271 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 187 |
 | 287 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 490 |
-| 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,430 | 68 |
+| 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,433 | 68 |
 | 287 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 410 |
 | 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 165 | 278 |
 | 287 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 490 |
@@ -383,7 +383,7 @@
 | 376 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 304 |
 | 376 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 490 |
 | 376 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 381 |
-| 376 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 559 | 169 |
+| 376 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 562 | 169 |
 | 376 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 374 |
 | 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,060 | 36 |
 | 376 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
@@ -850,11 +850,11 @@
 | 846 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 490 |
 | 849 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 490 |
 | 849 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 490 |
-| 849 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 0 | 490 |
-| 852 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 490 |
-| 852 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 74 | 353 |
-| 852 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 434 |
-| 852 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 490 |
+| 851 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 490 |
+| 851 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 74 | 353 |
+| 851 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 434 |
+| 851 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 490 |
+| 851 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 0 | 490 |
 | 856 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 490 |
 | 856 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 490 |
 | 856 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 382 |

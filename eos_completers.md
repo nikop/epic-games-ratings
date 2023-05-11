@@ -23,10 +23,10 @@
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.73% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.26% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.24% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -134,8 +134,8 @@
 | 131 | [Wildermyth](games/w/wildermyth.md) | 0.26% |
 | 133 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 134 | [Blanc](games/b/blanc.md) | 0.22% |
+| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.22% |
 | 134 | [Filament](games/f/filament.md) | 0.22% |
-| 136 | [Dead Island 2](games/d/dead_island_2.md) | 0.21% |
 | 137 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 137 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
@@ -172,13 +172,13 @@
 | 170 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 170 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 170 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 170 | [Saints Row](games/s/saints_row.md) | 0.05% |
 | 170 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.05% |
-| 174 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 174 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 174 | [House Party](games/h/house_party.md) | 0.04% |
-| 174 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
-| 174 | [Saints Row](games/s/saints_row.md) | 0.04% |
-| 174 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 175 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 175 | [High On Life](games/h/high_on_life.md) | 0.04% |
+| 175 | [House Party](games/h/house_party.md) | 0.04% |
+| 175 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
+| 175 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 180 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 180 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 180 | [Old World](games/o/old_world.md) | 0.03% |
