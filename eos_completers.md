@@ -66,18 +66,18 @@
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
-| 67 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.64% |
-| 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
-| 68 | [Somerville](games/s/somerville.md) | 1.61% |
+| 67 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
+| 67 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.61% |
+| 67 | [Somerville](games/s/somerville.md) | 1.61% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.41% |
 | 74 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 74 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.32% |
-| 76 | [Chorus](games/c/chorus.md) | 1.29% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
-| 78 | [Trifox](games/t/trifox.md) | 1.28% |
+| 77 | [Chorus](games/c/chorus.md) | 1.28% |
+| 77 | [Trifox](games/t/trifox.md) | 1.28% |
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 80 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.22% |
 | 81 | [Late Shift](games/l/late_shift.md) | 1.19% |
@@ -100,7 +100,7 @@
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.70% |
 | 99 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 100 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
-| 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
+| 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 102 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 103 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
