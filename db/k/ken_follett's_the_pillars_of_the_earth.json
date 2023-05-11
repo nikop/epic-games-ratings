@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12343,
+  "EOS_Progressed": 12344,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1615,6 +1615,11 @@
       "Time": "2023-05-11T10:04:58.9852435+00:00",
       "NumProgressed": 12343,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-11T11:04:58.0757682+00:00",
+      "NumProgressed": 12344,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1730,7 +1735,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3826
+      "UsersEstimate": 3827
     },
     {
       "ID": "tpote_achievement_22",
@@ -1826,7 +1831,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "tpote_achievement_33",
@@ -1842,7 +1847,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "tpote_achievement_35",
@@ -1938,7 +1943,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "tpote_achievement_9",
@@ -1946,22 +1951,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4444
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12343,
+      "Progressed": 12344,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-11T10:04:58.985243+00:00",
+  "LastChanged_Achievements": "2023-05-11T11:04:58.0757676+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-11T09:59:35.0767246+00:00",
-  "LastUpdate_Achievements": "2023-05-11T10:04:58.9852837+00:00"
+  "LastUpdate_Ratings": "2023-05-11T10:59:32.4644506+00:00",
+  "LastUpdate_Achievements": "2023-05-11T11:04:58.0758116+00:00"
 }

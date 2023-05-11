@@ -1,39 +1,39 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.50 (Ranked 531)  
+Rating: 4.50 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~556 |
-| And so it begins | 72.00% | ~526 |
-| No pressure | 69.00% | ~504 |
-| Memento | 61.00% | ~446 |
-| Let there be light | 59.00% | ~431 |
-| I think you dropped this | 55.00% | ~402 |
-| Soulmate? | 53.00% | ~387 |
+| And so it begins | 72.00% | ~527 |
+| No pressure | 69.00% | ~505 |
+| Memento | 61.00% | ~447 |
+| Let there be light | 59.00% | ~432 |
+| I think you dropped this | 55.00% | ~403 |
+| Soulmate? | 53.00% | ~388 |
 | Excellent service | 48.00% | ~351 |
 | Roll with it | 45.00% | ~329 |
-| Humble beginnings | 43.00% | ~314 |
-| Love is in the air | 43.00% | ~314 |
-| Moving up | 40.00% | ~292 |
+| Humble beginnings | 43.00% | ~315 |
+| Love is in the air | 43.00% | ~315 |
+| Moving up | 40.00% | ~293 |
 | Fine, I'll do it myself | 39.00% | ~285 |
 | No need to call anyone | 38.00% | ~278 |
 | Big fortune | 31.00% | ~227 |
-| Hotel sleuthing | 27.00% | ~197 |
-| Still more work ahead | 27.00% | ~197 |
+| Hotel sleuthing | 27.00% | ~198 |
+| Still more work ahead | 27.00% | ~198 |
 | Aesop's fable | 25.00% | ~183 |
-| Kaboom | 24.00% | ~175 |
-| Nearly there | 24.00% | ~175 |
+| Kaboom | 24.00% | ~176 |
+| Nearly there | 24.00% | ~176 |
 | Broken heart | 21.00% | ~154 |
 | Island boy | 20.00% | ~146 |
-| Unstoppable | 18.00% | ~132 |
 | You're a star | 18.00% | ~132 |
+| Unstoppable | 17.00% | ~124 |
 | Reunited | 16.00% | ~117 |
-| King of hospitality | 11.00% | ~80 |
+| King of hospitality | 11.00% | ~81 |
 | Top spot in town | 3.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731 (Ranked 175)  
+Progressed: 732 (Ranked 175)  
 Completed: 11 (1.50%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,6 +52,7 @@ Completed: 11 (1.50%) (Ranked 72)
 | 2023-05-07 | 728 | 11 |
 | 2023-05-08 | 730 | 11 |
 | 2023-05-09 | 731 | 11 |
+| 2023-05-11 | 732 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@ Number of Ratings: 401  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sink Beneath the Waves | 36.00% | ~10,364 |
-| Sweet Sorrow | 18.00% | ~5,182 |
+| Sweet Sorrow | 19.00% | ~5,470 |
 | Rules the Waves | 17.00% | ~4,894 |
 | Thou, All-Shaking Thunder | 16.00% | ~4,606 |
 | Rival | 14.00% | ~4,030 |

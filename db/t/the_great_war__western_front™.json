@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -424,6 +424,11 @@
       "Time": "2023-05-11T08:05:22.9128637+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T11:05:12.3732199+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -465,7 +470,7 @@
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
       "SetID": "6kcl14p",
       "Name": "War with Friends",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -489,7 +494,7 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -530,7 +535,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
@@ -538,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-11T10:05:12.9492179+00:00",
+  "LastChanged_Achievements": "2023-05-11T11:05:12.3732191+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:44.2155635+00:00",
-  "LastUpdate_Ratings": "2023-05-11T09:58:21.0134715+00:00",
-  "LastUpdate_Achievements": "2023-05-11T10:05:12.9492293+00:00"
+  "LastUpdate_Ratings": "2023-05-11T10:58:19.1724189+00:00",
+  "LastUpdate_Achievements": "2023-05-11T11:05:12.3732325+00:00"
 }

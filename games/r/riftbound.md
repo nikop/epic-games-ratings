@@ -32,7 +32,7 @@
 | Who's The Boss? | 0.00% | ~0 |
 | Worker Wisp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 331)  
+Progressed: 5 (Ranked 332)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

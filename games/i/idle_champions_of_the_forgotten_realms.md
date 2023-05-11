@@ -18,12 +18,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.50% | ~436 |
 | Seeking Allies | 0.50% | ~436 |
 | Are Ya Chicken? | 0.50% | ~436 |
-| A Persistent Buzzing | 0.40% | ~348 |
-| Terror in the Dark | 0.40% | ~348 |
-| The Crumbling Temple | 0.40% | ~348 |
-| Mad Cow Disease | 0.40% | ~348 |
-| Friendly Imps | 0.40% | ~348 |
-| Pure Energy | 0.40% | ~348 |
+| Friendly Imps | 0.50% | ~436 |
+| A Persistent Buzzing | 0.40% | ~349 |
+| Terror in the Dark | 0.40% | ~349 |
+| The Crumbling Temple | 0.40% | ~349 |
+| Mad Cow Disease | 0.40% | ~349 |
+| Pure Energy | 0.40% | ~349 |
 | Maddening | 0.30% | ~261 |
 | Owlbear Necessities | 0.30% | ~160 |
 | Best Thay Ever | 0.30% | ~160 |
@@ -95,6 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.20% | ~174 |
 | The Mists of Ravenloft | 0.20% | ~174 |
 | Invisible Shadows | 0.20% | ~174 |
+| Werewolves in the Mist | 0.20% | ~174 |
 | Family Entanglements | 0.20% | ~174 |
 | Chatty Nobles | 0.20% | ~174 |
 | Modron Assistance | 0.20% | ~174 |
@@ -265,7 +266,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.10% | ~87 |
 | Acererak's Puzzle | 0.10% | ~53 |
 | The Hunt for Owl-y | 0.10% | ~87 |
-| Werewolves in the Mist | 0.10% | ~87 |
 | We're not in Faerûn Anymore | 0.10% | ~87 |
 | Haunted Fortunes | 0.10% | ~87 |
 | Poor Fortune | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,123 (Ranked 59)  
+Progressed: 87,128 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,123 | 1,825 |
+| 2023-05-11 | 87,128 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,856 (Ranked 37)  

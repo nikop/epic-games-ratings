@@ -451,9 +451,9 @@
       "ID": "Finish5SideMissions",
       "SetID": "a6c395p",
       "Name": "Helping Hand",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 583
     },
     {
       "ID": "FinishAllSideMissions",
@@ -779,8 +779,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-11T10:05:34.8220664+00:00",
+  "LastChanged_Achievements": "2023-05-11T11:05:34.2155194+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.0894109+00:00",
-  "LastUpdate_Ratings": "2023-05-11T09:59:35.4063459+00:00",
-  "LastUpdate_Achievements": "2023-05-11T10:05:34.8221014+00:00"
+  "LastUpdate_Ratings": "2023-05-11T10:59:32.8573152+00:00",
+  "LastUpdate_Achievements": "2023-05-11T11:05:34.215556+00:00"
 }
