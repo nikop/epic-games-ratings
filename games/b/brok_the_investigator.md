@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 71.00% | ~5 |
+| Introduction completed | 86.00% | ~6 |
 | Chapter 1 | 29.00% | ~2 |
 | Chapter 2 | 29.00% | ~2 |
 | Chapter 3 | 29.00% | ~2 |

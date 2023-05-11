@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -165,9 +165,9 @@
       "ID": "ENDING_7",
       "SetID": "8eejhlh",
       "Name": "The Frenzy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -270,8 +270,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-11T21:05:03.3147709+00:00",
+  "LastChanged_Achievements": "2023-05-11T22:05:20.8699672+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:05.1876368+00:00",
-  "LastUpdate_Ratings": "2023-05-11T20:57:48.2531676+00:00",
-  "LastUpdate_Achievements": "2023-05-11T21:05:03.3147812+00:00"
+  "LastUpdate_Ratings": "2023-05-11T21:57:50.6673464+00:00",
+  "LastUpdate_Achievements": "2023-05-11T22:05:20.8699889+00:00"
 }

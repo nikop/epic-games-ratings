@@ -11,9 +11,10 @@
 | Room 104 | 75.00% | ~3 |
 | Face to face | 75.00% | ~3 |
 | Antidote | 50.00% | ~2 |
-| Let's play a game… | 25.00% | ~1 |
-| Soundtrack | 25.00% | ~1 |
-| Now or never | 25.00% | ~1 |
+| Let's play a game… | 50.00% | ~2 |
+| Soundtrack | 50.00% | ~2 |
+| Now or never | 50.00% | ~2 |
+| He who seeks, finds! | 25.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
 | 373 | 0.00% | ~0 |
 | On the right path | 0.00% | ~0 |
@@ -33,7 +34,6 @@
 | Matthew's revenge | 0.00% | ~0 |
 | Pick the right door | 0.00% | ~0 |
 | One-way | 0.00% | ~0 |
-| He who seeks, finds! | 0.00% | ~0 |
 | The third floor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 342)  

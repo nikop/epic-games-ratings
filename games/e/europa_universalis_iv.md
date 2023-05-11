@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,087 |
-| That's a Grand Army | 8.00% | ~2,744 |
-| That is mine! | 8.00% | ~2,744 |
-| Victorious! | 8.00% | ~2,744 |
-| Brothers in Arms | 6.00% | ~2,058 |
-| That's a Grand Navy | 6.00% | ~2,058 |
-| Seriously?! | 6.00% | ~2,058 |
-| For the Glory | 5.00% | ~1,715 |
-| Cold War | 4.00% | ~1,372 |
-| True Catholic | 4.00% | ~1,372 |
-| Defender of the Faith | 3.00% | ~1,029 |
-| It's all about the money | 3.00% | ~1,029 |
-| Respected | 3.00% | ~1,029 |
+| Until death do us apart | 9.00% | ~3,089 |
+| That's a Grand Army | 8.00% | ~2,746 |
+| That is mine! | 8.00% | ~2,746 |
+| Victorious! | 8.00% | ~2,746 |
+| Brothers in Arms | 6.00% | ~2,059 |
+| That's a Grand Navy | 6.00% | ~2,059 |
+| Seriously?! | 6.00% | ~2,059 |
+| For the Glory | 5.00% | ~1,716 |
+| Cold War | 4.00% | ~1,373 |
+| True Catholic | 4.00% | ~1,373 |
+| Defender of the Faith | 3.00% | ~1,030 |
+| It's all about the money | 3.00% | ~1,030 |
+| Respected | 3.00% | ~1,030 |
 | Blockader | 2.00% | ~686 |
 | Combined Arms | 2.00% | ~686 |
 | Double the Love | 2.00% | ~686 |
@@ -37,18 +37,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~343 |
 | A Golden Empire | 1.00% | ~343 |
 | My armies are invincible! | 1.00% | ~343 |
-| Isn't this the way to India? | 0.80% | ~274 |
-| The Five Colonies | 0.80% | ~274 |
+| Isn't this the way to India? | 0.80% | ~275 |
+| The Five Colonies | 0.80% | ~275 |
 | The Emperors new clothes | 0.70% | ~240 |
 | Market Control | 0.70% | ~240 |
 | This navy can take it all | 0.70% | ~240 |
 | Down Under | 0.60% | ~206 |
 | Trustworthy | 0.60% | ~206 |
-| All belongs to Mother Russia | 0.50% | ~171 |
-| At every continent | 0.50% | ~171 |
-| Early-Modern Warfare | 0.50% | ~171 |
-| Electable! | 0.50% | ~171 |
-| Time Bandit | 0.50% | ~171 |
+| All belongs to Mother Russia | 0.50% | ~172 |
+| At every continent | 0.50% | ~172 |
+| Early-Modern Warfare | 0.50% | ~172 |
+| Electable! | 0.50% | ~172 |
+| Time Bandit | 0.50% | ~172 |
 | Live Long and Prosper | 0.40% | ~137 |
 | One Family to Rule them All | 0.40% | ~137 |
 | Populists in Government | 0.40% | ~137 |
@@ -277,6 +277,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The White Elephant | 0.10% | ~34 |
 | Winged Hussars | 0.10% | ~34 |
 | World Conqueror | 0.10% | ~34 |
+| Yarr Harr a Pirate's Life For Me | 0.10% | ~34 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~34 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
@@ -359,9 +360,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
-| Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,295 (Ranked 81)  
+Progressed: 34,323 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,10 +382,10 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 34,295 | 0 |
+| 2023-05-11 | 34,323 | 0 |
 ## Awards
 Max (Educational): 5,206  (Ranked 60)  
-Sum: 43,060 (Ranked 27)  
+Sum: 43,064 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -397,7 +397,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 4,851 |
 | This game has Competitive Players | 4,672 |
 | This game has Amazing Storytelling | 4,435 |
-| This game has Amazing Characters | 4,105 |
+| This game has Amazing Characters | 4,109 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -516,4 +516,4 @@ Diff (max vs sum): 33
 | 2023-05-08 | 4.68 | - | 5,198 | 42,973 |
 | 2023-05-09 | 4.68 | - | 5,201 | 43,010 |
 | 2023-05-10 | 4.68 | - | 5,201 | 43,029 |
-| 2023-05-11 | 4.68 | - | 5,206 | 43,060 |
+| 2023-05-11 | 4.68 | - | 5,206 | 43,064 |

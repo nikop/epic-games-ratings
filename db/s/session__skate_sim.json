@@ -2,13 +2,13 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 271,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -622,9 +622,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1949,
+  "EOS_Progressed": 1951,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -877,6 +877,11 @@
       "Time": "2023-05-11T17:05:42.6447966+00:00",
       "NumProgressed": 1949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T22:05:28.0056978+00:00",
+      "NumProgressed": 1951,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -904,7 +909,7 @@
       "Name": "Bottom ply killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -920,7 +925,7 @@
       "Name": "Cops called!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -936,7 +941,7 @@
       "Name": "Dipped!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_DIY-BOSS",
@@ -952,7 +957,7 @@
       "Name": "Fashionista",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -968,7 +973,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -976,7 +981,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -992,7 +997,7 @@
       "Name": "Go with the Flow",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -1000,7 +1005,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_GOLDEN",
@@ -1016,7 +1021,7 @@
       "Name": "Good vibes",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_HOARDER",
@@ -1024,7 +1029,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -1040,7 +1045,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -1088,7 +1093,7 @@
       "Name": "NAHELL!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -1104,7 +1109,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -1120,7 +1125,7 @@
       "Name": "Purple passion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -1144,7 +1149,7 @@
       "Name": "Squad goals",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -1152,7 +1157,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -1200,7 +1205,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -1216,7 +1221,7 @@
       "Name": "Tight lipslides",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -1224,7 +1229,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -1248,7 +1253,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -1264,22 +1269,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 976
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1949,
+      "Progressed": 1951,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-11T17:59:26.7871412+00:00",
-  "LastChanged_Achievements": "2023-05-11T21:05:10.1666006+00:00",
+  "LastChanged_Achievements": "2023-05-11T22:05:28.005697+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.3028704+00:00",
-  "LastUpdate_Ratings": "2023-05-11T20:58:57.7193152+00:00",
-  "LastUpdate_Achievements": "2023-05-11T21:05:10.1666325+00:00"
+  "LastUpdate_Ratings": "2023-05-11T21:59:15.3975438+00:00",
+  "LastUpdate_Achievements": "2023-05-11T22:05:28.0057575+00:00"
 }

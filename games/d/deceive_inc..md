@@ -1,24 +1,24 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 288)  
+Rating: 4.67 (Ranked 256)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,540 |
-| Tomorrow Never Dyes | 47.00% | ~2,600 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,541 |
+| Tomorrow Never Dyes | 47.00% | ~2,601 |
 | Mainframe Hacker | 46.00% | ~2,545 |
 | The Spy who eliminated me | 46.00% | ~2,545 |
-| Never Say Loser Again | 42.00% | ~2,323 |
-| For your Eyes only | 39.00% | ~2,157 |
-| Tailor-Made | 38.00% | ~2,102 |
+| Never Say Loser Again | 42.00% | ~2,324 |
+| For your Eyes only | 39.00% | ~2,158 |
+| Tailor-Made | 38.00% | ~2,103 |
 | From the Vault with Love | 37.00% | ~2,047 |
 | Fully Decked Out | 37.00% | ~2,047 |
 | You Only Live Twice | 31.00% | ~1,715 |
-| A view to Win | 29.00% | ~1,604 |
+| A view to Win | 29.00% | ~1,605 |
 | Smells Like Trouble | 27.00% | ~1,494 |
-| In It to Win It | 26.00% | ~1,438 |
-| Private Collection | 26.00% | ~1,438 |
+| In It to Win It | 26.00% | ~1,439 |
+| Private Collection | 26.00% | ~1,439 |
 | Assistant Accountant | 25.00% | ~1,383 |
 | The Living Portrait | 25.00% | ~1,383 |
 | Killer Looks | 25.00% | ~1,383 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 288)
 | Extraction Confusion | 0.30% | ~17 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,532 (Ranked 119)  
+Progressed: 5,533 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 5,382 | 0 |
 | 2023-05-09 | 5,439 | 0 |
 | 2023-05-10 | 5,491 | 0 |
-| 2023-05-11 | 5,532 | 0 |
+| 2023-05-11 | 5,533 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -83,3 +83,4 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 4.63 | 0 | 0 |
 | 2023-05-09 | 4.64 | 0 | 0 |
 | 2023-05-10 | 4.65 | 0 | 0 |
+| 2023-05-11 | 4.67 | 0 | 0 |

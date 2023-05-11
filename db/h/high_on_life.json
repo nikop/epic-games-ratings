@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22638,
+  "EOS_Progressed": 22639,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -562,6 +562,11 @@
       "Time": "2023-05-11T17:01:40.167411+00:00",
       "NumProgressed": 22638,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-11T22:02:06.5068343+00:00",
+      "NumProgressed": 22639,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -589,7 +594,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17431
+      "UsersEstimate": 17432
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -597,7 +602,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9734
+      "UsersEstimate": 9735
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -605,7 +610,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -637,7 +642,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17205
+      "UsersEstimate": 17206
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -701,7 +706,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13356
+      "UsersEstimate": 13357
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -725,7 +730,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 4980
+      "UsersEstimate": 4981
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -821,14 +826,14 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4980
+      "UsersEstimate": 4981
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22638,
+      "Progressed": 22639,
       "Completed": 8
     }
   ],
@@ -836,8 +841,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-07T05:59:32.3480184+00:00",
-  "LastChanged_Achievements": "2023-05-11T21:00:51.0768604+00:00",
+  "LastChanged_Achievements": "2023-05-11T22:02:06.5068336+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:16.0551159+00:00",
-  "LastUpdate_Ratings": "2023-05-11T20:57:59.5387168+00:00",
-  "LastUpdate_Achievements": "2023-05-11T21:00:51.0768848+00:00"
+  "LastUpdate_Ratings": "2023-05-11T21:58:03.9706695+00:00",
+  "LastUpdate_Achievements": "2023-05-11T22:02:06.5071913+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3646,9 +3646,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87178,
+  "EOS_Progressed": 87181,
   "EOS_Completed": 1825,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5536,6 +5536,11 @@
       "Time": "2023-05-11T21:05:54.3857937+00:00",
       "NumProgressed": 87178,
       "NumCompleted": 1825
+    },
+    {
+      "Time": "2023-05-11T22:06:18.1741442+00:00",
+      "NumProgressed": 87181,
+      "NumCompleted": 1825
     }
   ],
   "TotalAchievements": 489,
@@ -5545,9 +5550,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 1744
     },
     {
       "ID": "objective_completed_10",
@@ -6153,9 +6158,9 @@
       "ID": "objective_completed_1149",
       "SetID": "415jc5c",
       "Name": "The Invisible Wizards of Thay",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_115",
@@ -6265,9 +6270,9 @@
       "ID": "objective_completed_117",
       "SetID": "cc37lbc",
       "Name": "Friends of the Forest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_1170",
@@ -9458,21 +9463,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53452,
+      "Progressed": 53455,
       "Completed": 2491
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87178,
+      "Progressed": 87181,
       "Completed": 1825
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T19:58:13.1579822+00:00",
-  "LastChanged_Achievements": "2023-05-11T21:05:54.3857933+00:00",
+  "LastChanged_Achievements": "2023-05-11T22:06:18.1741435+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-11T20:58:03.1249738+00:00",
-  "LastUpdate_Achievements": "2023-05-11T21:05:54.3878286+00:00"
+  "LastUpdate_Ratings": "2023-05-11T21:58:08.3634173+00:00",
+  "LastUpdate_Achievements": "2023-05-11T22:06:18.1785754+00:00"
 }

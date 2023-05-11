@@ -4,10 +4,10 @@
   "ProductSlug": "suicide-squad-kill-the-justice-league",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
-    "ReleaseDate": null,
+    "ReleaseDate": "2024-02-02T17:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "CustomAttributes": {}
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.3456684+00:00",
-  "LastUpdate_Ratings": "2023-05-11T20:57:38.3659697+00:00",
-  "LastUpdate_Achievements": "2023-05-11T21:00:22.155262+00:00"
+  "LastUpdate_Ratings": "2023-05-11T21:57:38.7870272+00:00",
+  "LastUpdate_Achievements": "2023-05-11T22:01:01.8327233+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Brief Tour of the Realms | 2.00% | ~1,744 |
 | Checkmate | 2.00% | ~1,069 |
-| A Brief Tour of the Realms | 1.00% | ~872 |
 | Pin and Skewer | 1.00% | ~535 |
 | Vecna Out! | 1.00% | ~535 |
 | The Cursed Farmer | 0.90% | ~785 |
@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.20% | ~107 |
 | The Lutes of Loomlurch | 0.20% | ~107 |
 | Supply Run | 0.20% | ~174 |
+| The Invisible Wizards of Thay | 0.20% | ~107 |
 | Heavy Burden | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~107 |
 | Speeds of Destruction | 0.20% | ~107 |
@@ -80,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Demi-god's Defender | 0.20% | ~107 |
 | Vecna Loots! | 0.20% | ~107 |
 | Well Equipped | 0.20% | ~107 |
+| Friends of the Forest | 0.20% | ~174 |
 | Return to the Tomb | 0.20% | ~107 |
 | Arcane Efforts | 0.20% | ~107 |
 | Heatwave | 0.20% | ~107 |
@@ -239,11 +241,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.10% | ~53 |
 | The Howling Peaks of Yon | 0.10% | ~53 |
 | Strength of Character | 0.10% | ~53 |
-| The Invisible Wizards of Thay | 0.10% | ~53 |
 | Flapjacks and Waffles | 0.10% | ~53 |
 | On the Hunt | 0.10% | ~87 |
 | Overwhelmed with Knowledge | 0.10% | ~53 |
-| Friends of the Forest | 0.10% | ~87 |
 | More Than Well Equipped | 0.10% | ~53 |
 | To Avernus in a Handbasket | 0.10% | ~53 |
 | Clowning Around | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,178 (Ranked 59)  
+Progressed: 87,181 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,178 | 1,825 |
+| 2023-05-11 | 87,181 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,859 (Ranked 37)  
