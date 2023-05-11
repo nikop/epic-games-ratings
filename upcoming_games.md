@@ -213,10 +213,10 @@
 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 2099-01-01 | 2019-06-11 |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | 2099-01-01 |
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | 2099-01-01 |
+| [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | 2099-01-01 | 2099-01-01 |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2099-01-01 | 2099-01-01 |
 | [Dr. Fetus' Mean Meat Machine](games/d/dr._fetus'_mean_meat_machine.md) | 2099-01-01 | 2099-01-01 |
 | [Dust Fleet](games/d/dust_fleet.md) | 2099-01-01 | 2099-01-01 |
-| [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 2099-01-01 | 2023-03-16 |
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | 2099-01-01 | 2099-01-01 |
 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2099-01-01 | 2022-09-21 |
 | [Elypse](games/e/elypse.md) | 2099-01-01 | 2099-01-01 |

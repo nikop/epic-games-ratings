@@ -3,6 +3,7 @@
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2023-05-11 | 2021-12-16 |
 | [Voodolls](games/v/voodolls.md) | 2023-05-11 | 2023-05-11 |
 | [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | 2023-05-11 |
+| [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 2023-05-11 | 2023-03-16 |
 | [Fuga: Melodies of Steel 2](games/f/fuga__melodies_of_steel_2.md) | 2023-05-11 | 2023-05-11 |
 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 2023-05-10 |
 | [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | 2023-02-01 |
