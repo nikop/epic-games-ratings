@@ -29,11 +29,11 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 7.00% | ~3,228 |
 | Collateral Carnage | 7.00% | ~3,228 |
 | Come One, Come All | 7.00% | ~3,228 |
-| Gatekeeper | 6.00% | ~2,766 |
-| The Lady of the Light | 6.00% | ~2,766 |
-| Thunder and Lightning | 6.00% | ~2,766 |
-| Two For the Price of One | 6.00% | ~2,766 |
-| Energized! | 6.00% | ~2,766 |
+| Gatekeeper | 6.00% | ~2,767 |
+| The Lady of the Light | 6.00% | ~2,767 |
+| Thunder and Lightning | 6.00% | ~2,767 |
+| Two For the Price of One | 6.00% | ~2,767 |
+| Energized! | 6.00% | ~2,767 |
 | A Friend Indeed | 6.00% | ~575 |
 | Tornado Wrangler | 5.00% | ~2,305 |
 | What Light Through Yonder Window | 5.00% | ~2,305 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,108 (Ranked 75)  
+Progressed: 46,109 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-08 | 46,074 | 44 |
 | 2023-05-09 | 46,097 | 44 |
 | 2023-05-10 | 46,108 | 44 |
+| 2023-05-11 | 46,109 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

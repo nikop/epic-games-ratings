@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 103.00% | ~40 |
-| First Blood | 72.00% | ~28 |
-| Triple Kill | 62.00% | ~24 |
-| Cornivore | 56.00% | ~22 |
+| First Blood | 74.00% | ~29 |
+| Triple Kill | 67.00% | ~26 |
+| Cornivore | 62.00% | ~24 |
 | No Asperascope | 54.00% | ~21 |
-| 10K | 28.00% | ~11 |
-| 15K | 26.00% | ~10 |
-| Drinking Problem | 21.00% | ~8 |
-| Skin Of Your Teeth | 21.00% | ~8 |
+| 15K | 36.00% | ~14 |
+| 10K | 36.00% | ~14 |
+| Drinking Problem | 28.00% | ~11 |
+| Skin Of Your Teeth | 23.00% | ~9 |
 | Pork Chop Express | 21.00% | ~8 |
 | Graveside Survivor | 18.00% | ~7 |
+| Quit Horsin' Around | 15.00% | ~6 |
 | Eggtraordinary | 13.00% | ~5 |
 | Carrocketeer | 13.00% | ~5 |
 | Fresh Pancake | 10.00% | ~4 |
 | Forestside Survivor | 10.00% | ~4 |
-| Quit Horsin' Around | 10.00% | ~4 |
 | Bring Home The Bacon | 8.00% | ~3 |
 | Chick Magnet | 8.00% | ~3 |
 | Getting Started | 8.00% | ~3 |

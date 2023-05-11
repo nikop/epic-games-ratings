@@ -242,17 +242,17 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 26,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_first_harvest",
@@ -274,9 +274,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 21,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -346,17 +346,17 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
@@ -506,17 +506,17 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 28,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -546,9 +546,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 56,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
@@ -563,8 +563,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-10T23:03:03.4798748+00:00",
+  "LastChanged_Achievements": "2023-05-11T00:01:08.5755714+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.7687785+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:58:42.2685376+00:00",
-  "LastUpdate_Achievements": "2023-05-10T23:03:03.4799348+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:58:07.0398571+00:00",
+  "LastUpdate_Achievements": "2023-05-11T00:01:08.5755998+00:00"
 }

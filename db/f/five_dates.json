@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -127,6 +127,11 @@
       "Time": "2023-05-08T02:07:48.2920194+00:00",
       "NumProgressed": 350,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-11T00:04:49.2163606+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -138,7 +143,7 @@
       "Name": "All Set Up",
       "Percentage": 99,
       "XP": 100,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "booty_call",
@@ -154,7 +159,7 @@
       "Name": "Crash and Burn",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "digital_casanova",
@@ -162,7 +167,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "hold_my_beer",
@@ -178,7 +183,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "interrogation",
@@ -186,7 +191,7 @@
       "Name": "Interrogation",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "light_sleepers",
@@ -210,7 +215,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "only_thyme_will_tell",
@@ -257,7 +262,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 3
     }
   ],
@@ -265,8 +270,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-10T23:06:16.3067825+00:00",
+  "LastChanged_Achievements": "2023-05-11T00:04:49.2163603+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:26.7327168+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:58:33.1284377+00:00",
-  "LastUpdate_Achievements": "2023-05-10T23:06:16.3067938+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:58:00.4449876+00:00",
+  "LastUpdate_Achievements": "2023-05-11T00:04:49.216368+00:00"
 }

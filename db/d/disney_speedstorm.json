@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2407,
+  "EOS_Progressed": 2408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1190,6 +1190,11 @@
       "Time": "2023-05-10T19:06:42.8663318+00:00",
       "NumProgressed": 2407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T00:05:04.9480831+00:00",
+      "NumProgressed": 2408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1247,9 +1252,9 @@
       "ID": "15",
       "SetID": "9p3jgda",
       "Name": "FRAMED!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "16",
@@ -1289,7 +1294,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "20",
@@ -1305,7 +1310,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "22",
@@ -1313,7 +1318,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "23",
@@ -1392,13 +1397,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2407,
+      "Progressed": 2408,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-10T23:06:23.7645533+00:00",
+  "LastChanged_Achievements": "2023-05-11T00:05:04.9480826+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:59:27.4215723+00:00",
-  "LastUpdate_Achievements": "2023-05-10T23:06:23.7645919+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:58:39.0687807+00:00",
+  "LastUpdate_Achievements": "2023-05-11T00:05:04.9481004+00:00"
 }

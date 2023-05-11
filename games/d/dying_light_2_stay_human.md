@@ -7,15 +7,15 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 9.00% | ~49,030 |
-| Into the Unknown | 8.00% | ~43,582 |
-| First Shot | 8.00% | ~43,582 |
-| Herzlich Wilkommen! | 7.00% | ~38,134 |
-| Sancho Panza | 7.00% | ~38,134 |
-| Good Night & Good Luck | 7.00% | ~38,134 |
-| Under Pressure | 6.00% | ~32,686 |
-| Flag Burning | 6.00% | ~32,686 |
-| Oh, So This Is How It Works! | 6.00% | ~32,686 |
-| Night Hunter | 6.00% | ~32,686 |
+| Into the Unknown | 8.00% | ~43,583 |
+| First Shot | 8.00% | ~43,583 |
+| Herzlich Wilkommen! | 7.00% | ~38,135 |
+| Sancho Panza | 7.00% | ~38,135 |
+| Good Night & Good Luck | 7.00% | ~38,135 |
+| Under Pressure | 6.00% | ~32,687 |
+| Flag Burning | 6.00% | ~32,687 |
+| Oh, So This Is How It Works! | 6.00% | ~32,687 |
+| Night Hunter | 6.00% | ~32,687 |
 | On the Trail of the Enemy | 5.00% | ~27,239 |
 | Light in the Darkness | 5.00% | ~27,239 |
 | Get Outta My House! | 5.00% | ~27,239 |
@@ -34,10 +34,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 3.00% | ~16,343 |
 | Terminal Headache | 3.00% | ~16,343 |
 | Slowpoke! | 3.00% | ~16,343 |
-| Tickets, Please! | 2.00% | ~10,895 |
-| Parkour Master | 2.00% | ~10,895 |
-| Combat Master | 2.00% | ~10,895 |
-| You're Going Down! | 2.00% | ~10,895 |
+| Tickets, Please! | 2.00% | ~10,896 |
+| Parkour Master | 2.00% | ~10,896 |
+| Combat Master | 2.00% | ~10,896 |
+| You're Going Down! | 2.00% | ~10,896 |
 | Municipal Services | 1.00% | ~5,448 |
 | Tube Map | 1.00% | ~5,448 |
 | Don Quixote | 1.00% | ~5,448 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~190 |
 | Connoisseur | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,773 (Ranked 22)  
+Progressed: 544,782 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 46 (0.01%) (Ranked 190)
 | 2023-05-08 | 543,600 | 46 |
 | 2023-05-09 | 544,236 | 46 |
 | 2023-05-10 | 544,773 | 46 |
+| 2023-05-11 | 544,782 | 46 |
 ## Awards
 Max (Character Customization): 6,977  (Ranked 44)  
 Sum: 16,183 (Ranked 58)  

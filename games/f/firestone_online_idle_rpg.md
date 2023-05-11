@@ -33,6 +33,7 @@ Rating: 3.55 (Ranked 917)
 | Frostfire Liberator | 3.00% | ~28 |
 | Hunter | 3.00% | ~28 |
 | Mastery | 3.00% | ~28 |
+| Scroll Master | 3.00% | ~28 |
 | The Expeditioner | 3.00% | ~28 |
 | The power of Awakening | 3.00% | ~28 |
 | Challenger | 2.00% | ~19 |
@@ -41,7 +42,6 @@ Rating: 3.55 (Ranked 917)
 | How Do You Turn This On? | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
-| Scroll Master | 2.00% | ~19 |
 | Ancient Knowledge | 1.00% | ~9 |
 | Master Enchanter | 1.00% | ~9 |
 | The father of Dragons | 1.00% | ~9 |

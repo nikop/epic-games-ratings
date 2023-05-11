@@ -3,7 +3,7 @@
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -206,8 +206,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-05-10T23:06:46.2714305+00:00",
+  "LastChanged_Achievements": "2023-05-11T00:05:21.8636332+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.5835257+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:01:04.9851231+00:00",
-  "LastUpdate_Achievements": "2023-05-10T23:06:46.2714485+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:59:51.3056225+00:00",
+  "LastUpdate_Achievements": "2023-05-11T00:05:21.8636427+00:00"
 }

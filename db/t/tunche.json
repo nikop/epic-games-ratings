@@ -2,7 +2,7 @@
   "ID": "78683b0edafd4a978a5ab61a7f6b0594",
   "Name": "Tunche",
   "ProductSlug": "tunche",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 667,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 395,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:24.469039+00:00",
@@ -172,6 +172,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-10T23:59:00.4009575+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -190,8 +196,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.1699893+00:00",
   "FirstSeenRating": "2023-03-31T05:57:24.4690387+00:00",
-  "LastChanged": "2023-05-10T22:59:54.6945516+00:00",
+  "LastChanged": "2023-05-10T23:59:00.4009573+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:22.2037938+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:59:54.6945523+00:00",
-  "LastUpdate_Achievements": "2023-05-10T23:04:27.6378025+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:59:00.4009579+00:00",
+  "LastUpdate_Achievements": "2023-05-11T00:03:39.6765495+00:00"
 }

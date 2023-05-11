@@ -745,9 +745,9 @@
       "ID": "WELFARE_2",
       "SetID": "44dlcg0",
       "Name": "Welfare state",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -762,8 +762,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-10T23:06:31.2755406+00:00",
+  "LastChanged_Achievements": "2023-05-11T00:05:10.5669975+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-10T22:59:26.9789452+00:00",
-  "LastUpdate_Achievements": "2023-05-10T23:06:31.2756532+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:58:38.4432655+00:00",
+  "LastUpdate_Achievements": "2023-05-11T00:05:10.5670669+00:00"
 }

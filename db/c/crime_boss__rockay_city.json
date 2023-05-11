@@ -1282,11 +1282,17 @@
       "Rating": 3.93,
       "NumberOfAwards": 1164,
       "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-05-10T23:59:43.1842837+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1167,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1164,
-  "NumberOfAwardsMax": 246,
+  "NumberOfAwards": 1167,
+  "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1329,7 +1335,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 246
+      "Count": 249
     },
     {
       "Text": "This game has a Silly Community",
@@ -1340,7 +1346,7 @@
   ],
   "EOS_Progressed": 59655,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1227,
+  "EOS_NewPlayers": 1221,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3461,9 +3467,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-10T20:59:48.4344897+00:00",
-  "LastChanged_Achievements": "2023-05-10T23:06:46.984641+00:00",
+  "LastChanged": "2023-05-10T23:59:43.1842834+00:00",
+  "LastChanged_Achievements": "2023-05-11T00:05:22.4610925+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.9893875+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:00:54.5084291+00:00",
-  "LastUpdate_Achievements": "2023-05-10T23:06:46.9847082+00:00"
+  "LastUpdate_Ratings": "2023-05-10T23:59:43.184284+00:00",
+  "LastUpdate_Achievements": "2023-05-11T00:05:22.4611215+00:00"
 }
