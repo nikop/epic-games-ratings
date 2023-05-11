@@ -10,7 +10,7 @@
 | Repair master | 61.00% | ~11 |
 | I am speed! | 44.00% | ~8 |
 | No one will hear you! | 44.00% | ~8 |
-| It's safe here! | 22.00% | ~4 |
+| It's safe here! | 28.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 302)  
 Completed: 2 (11.11%) (Ranked 15)  

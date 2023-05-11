@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2246,9 +2246,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14744,
+  "EOS_Progressed": 14746,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3256,6 +3256,11 @@
       "Time": "2023-05-11T12:05:19.9202347+00:00",
       "NumProgressed": 14744,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-11T14:06:18.7459095+00:00",
+      "NumProgressed": 14746,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3529,25 +3534,25 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 88
     },
     {
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 147
     },
     {
       "ID": "WinOnMoorlands",
@@ -3666,15 +3671,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14744,
+      "Progressed": 14746,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-11T08:59:55.7146601+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:41.7516657+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:06:18.7459089+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:05:42.7156478+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:41.7517076+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:00:17.0495156+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:06:18.7459587+00:00"
 }

@@ -25,8 +25,8 @@
 | EXPERIENCED CREW | 2.00% | ~48 |
 | FRIENDLY | 2.00% | ~48 |
 | MASTER | 2.00% | ~48 |
+| FRAMED! | 1.00% | ~24 |
 | BE OUR GUEST | 1.00% | ~24 |
-| FRAMED! | 0.90% | ~22 |
 | PERFECTLY POISED | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,412 (Ranked 137)  

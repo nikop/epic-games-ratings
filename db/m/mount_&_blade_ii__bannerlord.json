@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -3841,10 +3841,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 12970,
       "NumberOfAwardsMax": 6512
+    },
+    {
+      "Time": "2023-05-11T13:59:58.3034228+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12971,
+      "NumberOfAwardsMax": 6512
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12970,
+  "NumberOfAwards": 12971,
   "NumberOfAwardsMax": 6512,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3912,7 +3918,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 513
+      "Count": 514
     },
     {
       "Text": "This game has Competitive Players",
@@ -3921,9 +3927,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49498,
+  "EOS_Progressed": 49502,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5696,6 +5702,11 @@
       "Time": "2023-05-11T13:11:37.8597759+00:00",
       "NumProgressed": 49498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T14:06:14.0933924+00:00",
+      "NumProgressed": 49502,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5731,7 +5742,7 @@
       "Name": "Best served cold",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Butcher of Calradia",
@@ -5739,7 +5750,7 @@
       "Name": "Butcher of Calradia",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Butterlord",
@@ -5755,7 +5766,7 @@
       "Name": "Catch",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Champion",
@@ -5771,7 +5782,7 @@
       "Name": "Crackshot",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "Crush your enemies",
@@ -5811,7 +5822,7 @@
       "Name": "Explorer",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Fat Cat",
@@ -5843,7 +5854,7 @@
       "Name": "Great Granny",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Head hunter",
@@ -5851,7 +5862,7 @@
       "Name": "Headhunter",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Heartbreaker",
@@ -5859,7 +5870,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Horde breaker",
@@ -5907,7 +5918,7 @@
       "Name": "Kingslayer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Know your enemy",
@@ -5923,7 +5934,7 @@
       "Name": "Lance-a-lot",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Landlord",
@@ -5931,7 +5942,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14354
+      "UsersEstimate": 14356
     },
     {
       "ID": "Lawbringer",
@@ -5939,7 +5950,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17324
+      "UsersEstimate": 17326
     },
     {
       "ID": "Lawmaker",
@@ -5971,7 +5982,7 @@
       "Name": "Minor Clan",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Mounted Archery",
@@ -6003,7 +6014,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Roadkill",
@@ -6011,7 +6022,7 @@
       "Name": "Roadkill",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Shish Kebab",
@@ -6035,7 +6046,7 @@
       "Name": "Strike!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Supreme Emperor",
@@ -6075,7 +6086,7 @@
       "Name": "This is Sparta!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Trained",
@@ -6091,7 +6102,7 @@
       "Name": "Undercover",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "Veni vidi vici",
@@ -6114,15 +6125,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49498,
+      "Progressed": 49502,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-11T11:59:14.8131107+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:37.8597755+00:00",
+  "LastChanged": "2023-05-11T13:59:58.3034226+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:06:14.0933919+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:05:28.4630344+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:37.8598301+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:59:58.3034232+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:06:14.0934479+00:00"
 }

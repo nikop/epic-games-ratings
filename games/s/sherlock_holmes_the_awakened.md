@@ -16,9 +16,9 @@
 | Sticky Fingers | 52.00% | ~76 |
 | Knives Out | 52.00% | ~76 |
 | Lock, Stock, And Barrel | 51.00% | ~74 |
+| Back In The Saddle | 51.00% | ~74 |
 | Land, Ho! | 51.00% | ~74 |
 | Gaze Into The Abyss | 50.00% | ~73 |
-| Back In The Saddle | 50.00% | ~73 |
 | No Man Is An Island | 48.00% | ~70 |
 | At Wits' End | 45.00% | ~66 |
 | Bookworm | 44.00% | ~64 |

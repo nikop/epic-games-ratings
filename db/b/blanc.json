@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1816,
+  "EOS_Progressed": 1817,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -233,6 +233,11 @@
       "Time": "2023-05-10T21:05:30.3337163+00:00",
       "NumProgressed": 1816,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-11T14:05:58.8608595+00:00",
+      "NumProgressed": 1817,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -268,7 +273,7 @@
       "Name": "Helping the little ones",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "MOVE_ON",
@@ -292,7 +297,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "SNOW_RUINS",
@@ -340,14 +345,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1816,
+      "Progressed": 1817,
       "Completed": 4
     }
   ],
@@ -355,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:24.9191228+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:05:58.8608589+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:25.9125028+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:05:06.9439823+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:24.919134+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:59:31.7073147+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:05:58.860871+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.54 (Ranked 477)
 | Without Breaking Some Eggs... | 1.00% | ~19 |
 | Wakey Wakey | 1.00% | ~19 |
 | Infinite Growth... | 0.90% | ~17 |
-| Sputnik 2049 | 0.70% | ~13 |
+| Sputnik 2049 | 0.80% | ~15 |
 | A Thousand Strong | 0.60% | ~11 |
 | Ready for a New World | 0.60% | ~11 |
 | The Ship of Theseus | 0.60% | ~11 |

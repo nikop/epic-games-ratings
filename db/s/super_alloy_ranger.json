@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -132,6 +132,11 @@
     {
       "Time": "2023-05-09T16:06:55.1801141+00:00",
       "NumProgressed": 23,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T14:06:14.6545391+00:00",
+      "NumProgressed": 24,
       "NumCompleted": 0
     }
   ],
@@ -278,7 +283,7 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 61,
+      "Percentage": 58,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -294,7 +299,7 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -310,7 +315,7 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 74,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -318,7 +323,7 @@
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -350,7 +355,7 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -374,7 +379,7 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 61,
+      "Percentage": 58,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -406,7 +411,7 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -454,7 +459,7 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -543,7 +548,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
@@ -551,8 +556,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:38.2890549+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:06:14.6545382+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:01.899245+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:05:39.0051786+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:38.2891032+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:00:12.1228412+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:06:14.6545831+00:00"
 }

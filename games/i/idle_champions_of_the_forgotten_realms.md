@@ -131,6 +131,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Troublesome Prisoner | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
+| Vault of Dragons | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
 | Resolve Amongst Chaos | 0.20% | ~174 |
@@ -355,7 +356,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold & Wet | 0.10% | ~87 |
 | Madcap Adventures | 0.10% | ~87 |
 | Faerûn's Most Neglected | 0.10% | ~53 |
-| Vault of Dragons | 0.10% | ~87 |
 | Vault of Pixies | 0.10% | ~87 |
 | Vault of Poison | 0.10% | ~87 |
 | Vault of Cuteness | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,134 (Ranked 59)  
+Progressed: 87,140 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,134 | 1,825 |
+| 2023-05-11 | 87,140 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,856 (Ranked 37)  

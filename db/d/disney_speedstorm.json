@@ -1272,9 +1272,9 @@
       "ID": "15",
       "SetID": "9p3jgda",
       "Name": "FRAMED!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "16",
@@ -1422,8 +1422,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:20.4975653+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:05:54.076662+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:04:48.2463796+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:20.4975899+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:59:08.18665+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:05:54.0766912+00:00"
 }

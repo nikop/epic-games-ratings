@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,324 |
-| Landlord | 29.00% | ~14,354 |
+| Lawbringer | 35.00% | ~17,326 |
+| Landlord | 29.00% | ~14,356 |
 | Lawmaker | 21.00% | ~10,395 |
 | Bannerlord | 20.00% | ~9,900 |
 | Horde breaker | 20.00% | ~9,900 |
@@ -36,29 +36,29 @@ Number of Ratings: 5,603  (23.09.2022)
 | Long live the Empire! | 2.00% | ~990 |
 | Real Estate | 2.00% | ~990 |
 | Supreme Emperor | 1.00% | ~495 |
-| Crackshot | 0.70% | ~346 |
-| Undercover | 0.70% | ~346 |
+| Crackshot | 0.70% | ~347 |
+| Undercover | 0.70% | ~347 |
 | Fat Cat | 0.60% | ~297 |
-| Catch | 0.50% | ~247 |
+| Catch | 0.50% | ~248 |
 | Slice 'n dice | 0.40% | ~198 |
-| Ride it like you stole it | 0.30% | ~148 |
+| Ride it like you stole it | 0.30% | ~149 |
 | Mounted Archery | 0.20% | ~99 |
-| Best served cold | 0.10% | ~49 |
-| Butcher of Calradia | 0.10% | ~49 |
-| Explorer | 0.10% | ~49 |
-| Great Granny | 0.10% | ~49 |
-| Headhunter | 0.10% | ~49 |
-| Heartbreaker | 0.10% | ~49 |
-| Kingslayer | 0.10% | ~49 |
-| Lance-a-lot | 0.10% | ~49 |
-| Minor Clan | 0.10% | ~49 |
-| Roadkill | 0.10% | ~49 |
-| Strike! | 0.10% | ~49 |
-| This is Sparta! | 0.10% | ~49 |
+| Best served cold | 0.10% | ~50 |
+| Butcher of Calradia | 0.10% | ~50 |
+| Explorer | 0.10% | ~50 |
+| Great Granny | 0.10% | ~50 |
+| Headhunter | 0.10% | ~50 |
+| Heartbreaker | 0.10% | ~50 |
+| Kingslayer | 0.10% | ~50 |
+| Lance-a-lot | 0.10% | ~50 |
+| Minor Clan | 0.10% | ~50 |
+| Roadkill | 0.10% | ~50 |
+| Strike! | 0.10% | ~50 |
+| This is Sparta! | 0.10% | ~50 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,498 (Ranked 74)  
+Progressed: 49,502 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,10 +79,10 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 49,259 | 0 |
 | 2023-05-09 | 49,375 | 0 |
 | 2023-05-10 | 49,454 | 0 |
-| 2023-05-11 | 49,498 | 0 |
+| 2023-05-11 | 49,502 | 0 |
 ## Awards
 Max (Character Customization): 6,512  (Ranked 49)  
-Sum: 12,970 (Ranked 68)  
+Sum: 12,971 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -95,7 +95,7 @@ Diff (max vs sum): -19
 | This game has Quickly Understood Controls | 718 |
 | This game has Amazing Characters | 710 |
 | This game is Relaxing | 705 |
-| This game has a Creative Community | 513 |
+| This game has a Creative Community | 514 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -217,4 +217,4 @@ Diff (max vs sum): -19
 | 2023-05-08 | 4.74 | - | 6,493 | 12,936 |
 | 2023-05-09 | 4.74 | - | 6,500 | 12,950 |
 | 2023-05-10 | 4.74 | - | 6,506 | 12,964 |
-| 2023-05-11 | 4.74 | - | 6,512 | 12,970 |
+| 2023-05-11 | 4.74 | - | 6,512 | 12,971 |

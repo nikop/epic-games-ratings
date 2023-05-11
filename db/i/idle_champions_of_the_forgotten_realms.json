@@ -3634,9 +3634,9 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87134,
+  "EOS_Progressed": 87140,
   "EOS_Completed": 1825,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5483,6 +5483,11 @@
     {
       "Time": "2023-05-11T13:11:48.2484438+00:00",
       "NumProgressed": 87134,
+      "NumCompleted": 1825
+    },
+    {
+      "Time": "2023-05-11T14:06:25.8604651+00:00",
+      "NumProgressed": 87140,
       "NumCompleted": 1825
     }
   ],
@@ -7917,9 +7922,9 @@
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_581",
@@ -9406,21 +9411,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53408,
-      "Completed": 2489
+      "Progressed": 53414,
+      "Completed": 2490
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87134,
+      "Progressed": 87140,
       "Completed": 1825
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T07:57:50.1776572+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:48.2484435+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:06:25.8604645+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:04:06.7340686+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:48.2616827+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:58:14.218285+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:06:25.8637556+00:00"
 }

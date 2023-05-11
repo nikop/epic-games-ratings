@@ -1142,10 +1142,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 2659,
       "NumberOfAwardsMax": 311
+    },
+    {
+      "Time": "2023-05-11T14:00:41.3216988+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2661,
+      "NumberOfAwardsMax": 311
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2659,
+  "NumberOfAwards": 2661,
   "NumberOfAwardsMax": 311,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1207,7 +1213,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 297
+      "Count": 299
     },
     {
       "Text": "This game has Easy Combat",
@@ -1216,9 +1222,9 @@
       "Count": 224
     }
   ],
-  "EOS_Progressed": 216423,
+  "EOS_Progressed": 216424,
   "EOS_Completed": 686,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3021,6 +3027,11 @@
       "Time": "2023-05-11T13:11:44.9535365+00:00",
       "NumProgressed": 216423,
       "NumCompleted": 686
+    },
+    {
+      "Time": "2023-05-11T14:06:22.4112102+00:00",
+      "NumProgressed": 216424,
+      "NumCompleted": 686
     }
   ],
   "TotalAchievements": 39,
@@ -3096,7 +3107,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 196945
+      "UsersEstimate": 196946
     },
     {
       "ID": "AchievementClownID",
@@ -3120,7 +3131,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 60598
+      "UsersEstimate": 60599
     },
     {
       "ID": "AchievementEggID",
@@ -3144,7 +3155,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 69255
+      "UsersEstimate": 69256
     },
     {
       "ID": "AchievementGoatID",
@@ -3160,7 +3171,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 114704
+      "UsersEstimate": 114705
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -3176,7 +3187,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 32463
+      "UsersEstimate": 32464
     },
     {
       "ID": "AchievementInstinctID",
@@ -3192,7 +3203,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 97390
+      "UsersEstimate": 97391
     },
     {
       "ID": "AchievementIntroID",
@@ -3200,7 +3211,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 123361
+      "UsersEstimate": 123362
     },
     {
       "ID": "AchievementLootBoxID",
@@ -3264,7 +3275,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 160153
+      "UsersEstimate": 160154
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -3280,7 +3291,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 106047
+      "UsersEstimate": 106048
     },
     {
       "ID": "AchievementStreakingID",
@@ -3328,7 +3339,7 @@
       "Name": "Rogue Guild",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 142839
+      "UsersEstimate": 142840
     },
     {
       "ID": "AchievementWhaleID",
@@ -3343,16 +3354,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 216423,
+      "Progressed": 216424,
       "Completed": 686
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-05-11T03:00:50.0051577+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:44.953536+00:00",
+  "LastChanged": "2023-05-11T14:00:41.3216984+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:06:22.4112096+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:27.6875004+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:06:01.9180288+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:44.9535757+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:00:41.3216992+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:06:22.4112528+00:00"
 }

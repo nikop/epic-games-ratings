@@ -6,12 +6,12 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Marshlands | 0.90% | ~133 |
+| The Marshlands | 1.00% | ~147 |
+| Coral Forest | 0.90% | ~133 |
 | No Deaths | 0.90% | ~133 |
 | First Real Expedition | 0.80% | ~118 |
 | Overcoming Difficulty | 0.80% | ~118 |
 | Fertile Meadows | 0.80% | ~118 |
-| Coral Forest | 0.80% | ~118 |
 | The Scarlet Orchard | 0.80% | ~118 |
 | Bandit Camp | 0.70% | ~103 |
 | Barren Lands | 0.70% | ~103 |
@@ -21,13 +21,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 0.70% | ~103 |
 | Ancient Battleground | 0.60% | ~88 |
 | Royal Outpost | 0.60% | ~88 |
+| Cursed Lands | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
 | Sparkdew Crystals | 0.50% | ~74 |
 | Dangerous Lands | 0.50% | ~74 |
 | Flooded Mines | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |
 | Corrosive Torrent | 0.50% | ~74 |
-| Cursed Lands | 0.50% | ~74 |
 | A Real Challenge | 0.50% | ~74 |
 | Serving Ale | 0.40% | ~59 |
 | Refinery | 0.40% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,744 (Ranked 98)  
+Progressed: 14,746 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 30 (0.20%) (Ranked 137)
 | 2023-05-08 | 14,720 | 30 |
 | 2023-05-09 | 14,731 | 30 |
 | 2023-05-10 | 14,738 | 30 |
-| 2023-05-11 | 14,744 | 30 |
+| 2023-05-11 | 14,746 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 193)  
 Sum: 3,019 (Ranked 151)  

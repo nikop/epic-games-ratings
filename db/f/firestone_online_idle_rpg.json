@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 955,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-05-11T10:05:15.5687313+00:00",
       "NumProgressed": 954,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T14:05:52.1241062+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1624,7 +1629,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "herewegoagain",
@@ -1640,7 +1645,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "howdoyouturnthison",
@@ -1784,7 +1789,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "prestigiousx10",
@@ -1952,7 +1957,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "warmachinesarmy",
@@ -1991,7 +1996,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 955,
       "Completed": 1
     }
   ],
@@ -1999,8 +2004,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-11T06:58:13.3610558+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:18.8255958+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:05:52.1241056+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:04:03.4561266+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:18.8256804+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:58:10.268973+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:05:52.1241906+00:00"
 }

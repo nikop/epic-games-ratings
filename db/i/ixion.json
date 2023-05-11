@@ -672,9 +672,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASE_25",
@@ -1031,8 +1031,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-11T13:11:06.5126969+00:00",
+  "LastChanged_Achievements": "2023-05-11T14:05:38.2151328+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.0317624+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:04:26.4034197+00:00",
-  "LastUpdate_Achievements": "2023-05-11T13:11:06.5127571+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:58:39.3728129+00:00",
+  "LastUpdate_Achievements": "2023-05-11T14:05:38.2151926+00:00"
 }
