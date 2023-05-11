@@ -2,12 +2,12 @@
   "ID": "d74efb08c7f449928fcdfdba1dcbda48",
   "Name": "Let\u0027s Build A Zoo",
   "ProductSlug": "lets-build-a-zoo",
-  "Ranking_Rating": 669,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-11-05T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.42,
   "NumberOfRatings": 39,
   "RatingHistory": [
     {
@@ -147,6 +147,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-11T22:59:55.96372+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -165,8 +171,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:30.4243035+00:00",
   "FirstSeenRating": "2022-08-08T07:31:42.1612375+00:00",
-  "LastChanged": "2023-03-31T05:58:13.0235971+00:00",
+  "LastChanged": "2023-05-11T22:59:55.9637199+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:52.5019126+00:00",
-  "LastUpdate_Ratings": "2023-05-11T21:59:58.6366744+00:00",
-  "LastUpdate_Achievements": "2023-05-11T22:04:39.4687012+00:00"
+  "LastUpdate_Ratings": "2023-05-11T22:59:55.9637204+00:00",
+  "LastUpdate_Achievements": "2023-05-11T23:04:29.3167786+00:00"
 }

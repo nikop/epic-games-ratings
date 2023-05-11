@@ -1815,9 +1815,9 @@
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 192
     },
     {
       "ID": "relicofthepast",
@@ -2024,8 +2024,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-11T06:58:13.3610558+00:00",
-  "LastChanged_Achievements": "2023-05-11T22:05:44.2284258+00:00",
+  "LastChanged_Achievements": "2023-05-11T23:05:33.0947884+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-11T21:58:04.4474294+00:00",
-  "LastUpdate_Achievements": "2023-05-11T22:05:44.2285315+00:00"
+  "LastUpdate_Ratings": "2023-05-11T22:57:58.7008668+00:00",
+  "LastUpdate_Achievements": "2023-05-11T23:05:33.0948779+00:00"
 }

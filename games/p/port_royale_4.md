@@ -26,7 +26,7 @@ Number of Ratings: 53  (23.09.2022)
 | Wholesale | 23.00% | ~121 |
 | Walk the plank | 21.00% | ~110 |
 | My precious! | 19.00% | ~100 |
-| Pearly gates | 17.00% | ~89 |
+| Pearly gates | 18.00% | ~94 |
 | Conquistador | 14.00% | ~74 |
 | Panic buying | 11.00% | ~58 |
 | Just a scratch | 10.00% | ~52 |

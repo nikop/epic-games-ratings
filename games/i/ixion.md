@@ -16,11 +16,11 @@ Rating: 4.54 (Ranked 477)
 | Exceeding Capacity | 0.60% | ~11 |
 | Permanent Redesigns | 0.60% | ~11 |
 | The Ship of Theseus | 0.60% | ~11 |
+| Hope Seeker | 0.60% | ~11 |
 | Guy de Borderlands | 0.50% | ~9 |
 | Power Outage | 0.50% | ~9 |
 | Fully Recycled | 0.50% | ~9 |
 | Ain't Nobody Got Time for That | 0.50% | ~9 |
-| Hope Seeker | 0.50% | ~9 |
 | Sightseeing | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |
 | A Hunk of Junk | 0.30% | ~6 |

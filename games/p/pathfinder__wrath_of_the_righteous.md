@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 12.00% | ~1,052 |
+| Devoured by Darkness | 13.00% | ~1,140 |
 | Burning City | 9.00% | ~789 |
 | A Spark | 9.00% | ~789 |
 | Banner over the Citadel | 7.00% | ~614 |

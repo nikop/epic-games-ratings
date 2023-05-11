@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 595,
-  "EOS_Completed": 37,
-  "EOS_NewPlayers": 382,
-  "EOS_NewCompleters": 26,
-  "EOS_Completed_Percentage": 6.22,
+  "EOS_Completed": 38,
+  "EOS_NewPlayers": 368,
+  "EOS_NewCompleters": 27,
+  "EOS_Completed_Percentage": 6.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -952,6 +952,11 @@
       "Time": "2023-05-11T22:05:26.1179504+00:00",
       "NumProgressed": 595,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-05-11T23:05:15.3984064+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 50,
@@ -969,9 +974,9 @@
       "ID": "10",
       "SetID": "d0g98p",
       "Name": "Piece of Cake",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 232
     },
     {
       "ID": "11",
@@ -993,9 +998,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 184
     },
     {
       "ID": "14",
@@ -1009,9 +1014,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 173
     },
     {
       "ID": "16",
@@ -1081,9 +1086,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 173
     },
     {
       "ID": "24",
@@ -1097,9 +1102,9 @@
       "ID": "25",
       "SetID": "d0g98p",
       "Name": "Trick Question!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 173
     },
     {
       "ID": "26",
@@ -1153,9 +1158,9 @@
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 286
     },
     {
       "ID": "32",
@@ -1193,9 +1198,9 @@
       "ID": "36",
       "SetID": "d0g98p",
       "Name": "Dance Master",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "37",
@@ -1273,9 +1278,9 @@
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 167
     },
     {
       "ID": "46",
@@ -1363,15 +1368,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 595,
-      "Completed": 37
+      "Completed": 38
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-11T22:05:26.1179493+00:00",
+  "LastChanged_Achievements": "2023-05-11T23:05:15.3984058+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-11T21:57:31.9009152+00:00",
-  "LastUpdate_Achievements": "2023-05-11T22:05:26.1180328+00:00"
+  "LastUpdate_Ratings": "2023-05-11T22:57:25.9975431+00:00",
+  "LastUpdate_Achievements": "2023-05-11T23:05:15.3984555+00:00"
 }

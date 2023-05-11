@@ -6,25 +6,25 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 40.00% | ~22,638 |
-| Final touch | 38.00% | ~21,506 |
-| Prop-M Rover | 34.00% | ~19,243 |
-| Changing the Planet | 30.00% | ~16,979 |
-| Sojourner | 29.00% | ~16,413 |
-| New Home | 26.00% | ~14,715 |
-| Beagle 2 | 26.00% | ~14,715 |
-| Winner Winner Terraformer | 24.00% | ~13,583 |
-| Project Manager | 21.00% | ~11,885 |
-| Curiosity | 21.00% | ~11,885 |
-| Collector | 21.00% | ~11,885 |
-| Self-sufficient | 21.00% | ~11,885 |
-| Master | 21.00% | ~11,885 |
-| No Longer Red | 20.00% | ~11,319 |
-| Money money | 17.00% | ~9,621 |
-| Biggest Reward | 16.00% | ~9,055 |
-| Acquired knowledge | 14.00% | ~7,923 |
-| Most Achievements | 13.00% | ~7,357 |
-| Hellenic Elysium | 13.00% | ~7,357 |
+| It's a steal! | 40.00% | ~22,640 |
+| Final touch | 38.00% | ~21,508 |
+| Prop-M Rover | 34.00% | ~19,244 |
+| Changing the Planet | 30.00% | ~16,980 |
+| Sojourner | 29.00% | ~16,414 |
+| New Home | 26.00% | ~14,716 |
+| Beagle 2 | 26.00% | ~14,716 |
+| Winner Winner Terraformer | 24.00% | ~13,584 |
+| Project Manager | 21.00% | ~11,886 |
+| Curiosity | 21.00% | ~11,886 |
+| Collector | 21.00% | ~11,886 |
+| Self-sufficient | 21.00% | ~11,886 |
+| Master | 21.00% | ~11,886 |
+| No Longer Red | 20.00% | ~11,320 |
+| Money money | 17.00% | ~9,622 |
+| Biggest Reward | 16.00% | ~9,056 |
+| Acquired knowledge | 14.00% | ~7,924 |
+| Most Achievements | 13.00% | ~7,358 |
+| Hellenic Elysium | 13.00% | ~7,358 |
 | First Journey | 12.00% | ~6,792 |
 | Landlord | 12.00% | ~6,792 |
 | Grand champion | 12.00% | ~6,792 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~1,698 |
 | Opportunity | 3.00% | ~1,698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,596 (Ranked 69)  
+Progressed: 56,600 (Ranked 70)  
 Completed: 61 (0.11%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 61 (0.11%) (Ranked 153)
 | 2023-05-08 | 56,151 | 61 |
 | 2023-05-09 | 56,314 | 61 |
 | 2023-05-10 | 56,458 | 61 |
-| 2023-05-11 | 56,596 | 61 |
+| 2023-05-11 | 56,600 | 61 |
 ## Awards
 Max (Relaxing): 494  (Ranked 184)  
 Sum: 3,054 (Ranked 146)  

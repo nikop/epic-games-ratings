@@ -6,52 +6,52 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,105 |
-| Settler | 82.00% | ~8,995 |
-| Explorer | 80.00% | ~8,776 |
-| Friendly Family | 76.00% | ~8,337 |
-| Intrepid | 70.00% | ~7,679 |
-| Able | 62.00% | ~6,801 |
-| Architect | 62.00% | ~6,801 |
-| Mason | 62.00% | ~6,801 |
+| Play a Single Player Game | 83.00% | ~9,106 |
+| Settler | 82.00% | ~8,996 |
+| Explorer | 80.00% | ~8,777 |
+| Friendly Family | 76.00% | ~8,338 |
+| Intrepid | 70.00% | ~7,680 |
+| Able | 62.00% | ~6,802 |
+| Architect | 62.00% | ~6,802 |
+| Mason | 62.00% | ~6,802 |
 | Strong | 61.00% | ~6,692 |
-| Hanging Gardens | 60.00% | ~6,582 |
-| Noble | 59.00% | ~6,472 |
+| Hanging Gardens | 60.00% | ~6,583 |
+| Noble | 59.00% | ~6,473 |
 | Oracle | 58.00% | ~6,363 |
 | Good | 57.00% | ~6,253 |
-| Judaism | 56.00% | ~6,143 |
+| Judaism | 56.00% | ~6,144 |
 | Just | 55.00% | ~6,034 |
 | Keystone | 55.00% | ~6,034 |
-| Glorious | 53.00% | ~5,814 |
-| Trade Caravan | 53.00% | ~5,814 |
+| Glorious | 53.00% | ~5,815 |
+| Trade Caravan | 53.00% | ~5,815 |
 | Naming Landmarks | 51.00% | ~5,595 |
-| Learned | 50.00% | ~5,485 |
-| Zoroastrianism | 50.00% | ~5,485 |
-| Fountainhead | 49.00% | ~5,375 |
-| Pioneer | 49.00% | ~5,375 |
-| Developing Cities | 49.00% | ~5,375 |
+| Learned | 50.00% | ~5,486 |
+| Zoroastrianism | 50.00% | ~5,486 |
+| Fountainhead | 49.00% | ~5,376 |
+| Pioneer | 49.00% | ~5,376 |
+| Developing Cities | 49.00% | ~5,376 |
 | Magnificent | 47.00% | ~5,156 |
-| Strong Cities | 46.00% | ~5,046 |
-| Pyramids | 46.00% | ~5,046 |
-| Greek Paganism | 46.00% | ~5,046 |
-| Warrior | 45.00% | ~4,936 |
-| Ishtar Gate | 45.00% | ~4,936 |
+| Strong Cities | 46.00% | ~5,047 |
+| Pyramids | 46.00% | ~5,047 |
+| Greek Paganism | 46.00% | ~5,047 |
+| Warrior | 45.00% | ~4,937 |
+| Ishtar Gate | 45.00% | ~4,937 |
 | Babylonian Paganism | 44.00% | ~4,827 |
-| Enlightened | 43.00% | ~4,717 |
-| Great Ziggurat | 42.00% | ~4,607 |
-| Christianity | 42.00% | ~4,607 |
-| Roman Paganism | 42.00% | ~4,607 |
+| Enlightened | 43.00% | ~4,718 |
+| Great Ziggurat | 42.00% | ~4,608 |
+| Christianity | 42.00% | ~4,608 |
+| Roman Paganism | 42.00% | ~4,608 |
 | Great | 41.00% | ~4,498 |
 | Lighthouse | 41.00% | ~4,498 |
 | Able Difficulty | 40.00% | ~4,388 |
-| Carthaginian Paganism | 39.00% | ~4,278 |
+| Carthaginian Paganism | 39.00% | ~4,279 |
 | Ambitious | 38.00% | ~4,169 |
 | Necropolis | 37.00% | ~4,059 |
 | Egyptian Paganism | 37.00% | ~4,059 |
-| Apadana | 36.00% | ~3,949 |
-| Musaeum | 36.00% | ~3,949 |
-| Manichaeism | 36.00% | ~3,949 |
-| Brilliant | 35.00% | ~3,839 |
+| Apadana | 36.00% | ~3,950 |
+| Musaeum | 36.00% | ~3,950 |
+| Manichaeism | 36.00% | ~3,950 |
+| Brilliant | 35.00% | ~3,840 |
 | Drillmaster | 33.00% | ~3,620 |
 | Colossus | 33.00% | ~3,620 |
 | Legendary Cities | 31.00% | ~3,401 |
@@ -62,14 +62,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 31.00% | ~3,401 |
 | Mausoleum | 30.00% | ~3,291 |
 | Learn to Play 1 | 30.00% | ~3,291 |
-| Wise | 29.00% | ~3,181 |
+| Wise | 29.00% | ~3,182 |
 | Intercessor | 27.00% | ~2,962 |
 | Valiant | 26.00% | ~2,852 |
 | Sages | 26.00% | ~2,852 |
-| Hanging Gardens in Babylon | 25.00% | ~2,742 |
-| Temple of Solomon | 25.00% | ~2,742 |
-| Persian Paganism | 25.00% | ~2,742 |
-| Points Victory | 25.00% | ~2,742 |
+| Hanging Gardens in Babylon | 25.00% | ~2,743 |
+| Temple of Solomon | 25.00% | ~2,743 |
+| Persian Paganism | 25.00% | ~2,743 |
+| Points Victory | 25.00% | ~2,743 |
 | Good Difficulty | 24.00% | ~2,633 |
 | Champions | 24.00% | ~2,633 |
 | Greece | 24.00% | ~2,633 |
@@ -78,7 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 23.00% | ~2,523 |
 | Learn to Play 2 | 23.00% | ~2,523 |
 | Legalism | 23.00% | ~2,523 |
-| Hittite Iron | 22.00% | ~2,413 |
+| Hittite Iron | 22.00% | ~2,414 |
 | Mighty | 21.00% | ~2,304 |
 | Hagia Sophia | 21.00% | ~2,304 |
 | Via Recta Souk | 21.00% | ~2,304 |
@@ -129,10 +129,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 13.00% | ~1,426 |
 | One True Faith | 13.00% | ~1,426 |
 | Cataphract Archer | 13.00% | ~1,426 |
-| Regicide | 12.00% | ~1,316 |
-| Ishtar Gate in Babylon | 12.00% | ~1,316 |
-| Ten Crowns | 12.00% | ~1,316 |
-| All Nations | 12.00% | ~1,316 |
+| Regicide | 12.00% | ~1,317 |
+| Ishtar Gate in Babylon | 12.00% | ~1,317 |
+| Ten Crowns | 12.00% | ~1,317 |
+| All Nations | 12.00% | ~1,317 |
 | Ready | 11.00% | ~1,207 |
 | Noble Difficulty | 11.00% | ~1,207 |
 | Learn to Play 4 | 11.00% | ~1,207 |
@@ -152,15 +152,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 6.00% | ~658 |
 | Conquest Victory | 6.00% | ~658 |
 | Necropolis in Waset | 6.00% | ~658 |
-| Cleopatra's Love | 5.00% | ~548 |
-| Old | 5.00% | ~548 |
-| Great Difficulty | 5.00% | ~548 |
-| Event Level High | 5.00% | ~548 |
-| Run, Pheidippides, Run! | 5.00% | ~548 |
-| Nenikekamen | 5.00% | ~548 |
-| Hatti | 5.00% | ~548 |
-| Apadana in Parsa | 5.00% | ~548 |
-| Circus Maximus in Roma | 5.00% | ~548 |
+| Cleopatra's Love | 5.00% | ~549 |
+| Old | 5.00% | ~549 |
+| Great Difficulty | 5.00% | ~549 |
+| Event Level High | 5.00% | ~549 |
+| Run, Pheidippides, Run! | 5.00% | ~549 |
+| Nenikekamen | 5.00% | ~549 |
+| Hatti | 5.00% | ~549 |
+| Apadana in Parsa | 5.00% | ~549 |
+| Circus Maximus in Roma | 5.00% | ~549 |
 | Carthage - Riches and Influence | 4.00% | ~439 |
 | Five Routs | 4.00% | ~439 |
 | Pantheon in Roma | 4.00% | ~439 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~11 |
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,970 (Ranked 104)  
+Progressed: 10,971 (Ranked 104)  
 Completed: 3 (0.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 3 (0.03%) (Ranked 180)
 | 2023-05-08 | 10,898 | 2 |
 | 2023-05-09 | 10,925 | 2 |
 | 2023-05-10 | 10,954 | 3 |
-| 2023-05-11 | 10,970 | 3 |
+| 2023-05-11 | 10,971 | 3 |
 ## Awards
 Max (Relaxing): 216  (Ranked 248)  
 Sum: 1,756 (Ranked 197)  

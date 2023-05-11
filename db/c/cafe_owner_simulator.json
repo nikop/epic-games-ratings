@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -178,6 +178,11 @@
       "Time": "2023-05-10T22:06:55.9394675+00:00",
       "NumProgressed": 244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T23:05:41.6882164+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -197,7 +202,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "CHIEF",
@@ -213,7 +218,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "DEBTOR",
@@ -229,7 +234,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "FIRST_100K",
@@ -300,7 +305,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 245,
       "Completed": 0
     }
   ],
@@ -308,8 +313,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-11T22:05:52.8918407+00:00",
+  "LastChanged_Achievements": "2023-05-11T23:05:41.6882158+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:36.5576999+00:00",
-  "LastUpdate_Ratings": "2023-05-11T21:59:40.5698593+00:00",
-  "LastUpdate_Achievements": "2023-05-11T22:05:52.8918577+00:00"
+  "LastUpdate_Ratings": "2023-05-11T22:59:39.4949772+00:00",
+  "LastUpdate_Achievements": "2023-05-11T23:05:41.6882304+00:00"
 }

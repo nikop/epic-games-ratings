@@ -15,10 +15,10 @@
 | Who loves trains? | 31.00% | ~21 |
 | Easy and steady climb | 31.00% | ~21 |
 | At the heart of the city | 29.00% | ~20 |
-| Calm neighborhood | 26.00% | ~18 |
-| Elevated ring | 24.00% | ~16 |
-| Not lonely anymore | 21.00% | ~14 |
-| Monumental tribute | 21.00% | ~14 |
+| Calm neighborhood | 28.00% | ~19 |
+| Elevated ring | 25.00% | ~17 |
+| Not lonely anymore | 22.00% | ~15 |
+| Monumental tribute | 22.00% | ~15 |
 | The beach is right there | 19.00% | ~13 |
 | Commuting | 19.00% | ~13 |
 | Le jardin magnifique | 18.00% | ~12 |

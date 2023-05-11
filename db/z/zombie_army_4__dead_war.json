@@ -2,7 +2,7 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 78,
@@ -1443,9 +1443,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42244,
+  "EOS_Progressed": 42245,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1868,6 +1868,11 @@
       "Time": "2023-05-11T22:06:13.7068158+00:00",
       "NumProgressed": 42244,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-11T23:06:02.1429454+00:00",
+      "NumProgressed": 42245,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -1879,7 +1884,7 @@
       "Name": "Groovy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 25346
+      "UsersEstimate": 25347
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -1935,7 +1940,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11828
+      "UsersEstimate": 11829
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -2071,7 +2076,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26191
+      "UsersEstimate": 26192
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2095,7 +2100,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18587
+      "UsersEstimate": 18588
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -2127,7 +2132,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20277
+      "UsersEstimate": 20278
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -2135,7 +2140,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14785
+      "UsersEstimate": 14786
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -2207,7 +2212,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28726
+      "UsersEstimate": 28727
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2223,7 +2228,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12673
+      "UsersEstimate": 12674
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -2231,7 +2236,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19432
+      "UsersEstimate": 19433
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -2247,7 +2252,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19432
+      "UsersEstimate": 19433
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -2271,7 +2276,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18587
+      "UsersEstimate": 18588
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -2295,7 +2300,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7181
+      "UsersEstimate": 7182
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -2335,7 +2340,7 @@
       "Name": "Blood splattered",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 27036
+      "UsersEstimate": 27037
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -2406,15 +2411,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42244,
+      "Progressed": 42245,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-11T03:00:09.4592038+00:00",
-  "LastChanged_Achievements": "2023-05-11T22:06:13.7068151+00:00",
+  "LastChanged_Achievements": "2023-05-11T23:06:02.1429447+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:55.2365089+00:00",
-  "LastUpdate_Ratings": "2023-05-11T22:00:04.5806381+00:00",
-  "LastUpdate_Achievements": "2023-05-11T22:06:13.7069293+00:00"
+  "LastUpdate_Ratings": "2023-05-11T23:00:01.3094084+00:00",
+  "LastUpdate_Achievements": "2023-05-11T23:06:02.1430087+00:00"
 }

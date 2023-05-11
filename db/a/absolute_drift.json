@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 653,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 6,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515751,
+  "EOS_Progressed": 1515760,
   "EOS_Completed": 600,
-  "EOS_NewPlayers": 1449,
+  "EOS_NewPlayers": 1445,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2370,6 +2370,11 @@
       "Time": "2023-05-11T22:06:02.1453398+00:00",
       "NumProgressed": 1515751,
       "NumCompleted": 600
+    },
+    {
+      "Time": "2023-05-11T23:05:51.0277729+00:00",
+      "NumProgressed": 1515760,
+      "NumCompleted": 600
     }
   ],
   "TotalAchievements": 20,
@@ -2477,7 +2482,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151575
+      "UsersEstimate": 151576
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -2493,7 +2498,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121260
+      "UsersEstimate": 121261
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -2540,15 +2545,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1515751,
+      "Progressed": 1515760,
       "Completed": 600
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-11T22:06:02.1453389+00:00",
+  "LastChanged_Achievements": "2023-05-11T23:05:51.0277721+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.6784985+00:00",
-  "LastUpdate_Ratings": "2023-05-11T22:00:23.3124109+00:00",
-  "LastUpdate_Achievements": "2023-05-11T22:06:02.1453824+00:00"
+  "LastUpdate_Ratings": "2023-05-11T23:00:20.0978593+00:00",
+  "LastUpdate_Achievements": "2023-05-11T23:05:51.0278034+00:00"
 }

@@ -13,13 +13,13 @@
 | Vibing | 61.00% | ~363 |
 | Fun Guy | 61.00% | ~363 |
 | Tragic Brave | 52.00% | ~309 |
+| Little Shop | 48.00% | ~286 |
 | Awakened Spirits | 48.00% | ~286 |
-| Little Shop | 47.00% | ~280 |
 | Surprise! | 43.00% | ~256 |
 | An Actor! | 43.00% | ~256 |
 | Curtain Call | 42.00% | ~250 |
+| Piece of Cake | 39.00% | ~232 |
 | Well Rested | 39.00% | ~232 |
-| Piece of Cake | 38.00% | ~226 |
 | Gooey Delight! | 38.00% | ~226 |
 | Glimmer of Hope | 38.00% | ~226 |
 | Teacups for Toppy | 37.00% | ~220 |
@@ -33,30 +33,30 @@
 | It's Pointy! | 33.00% | ~196 |
 | Spellbound | 32.00% | ~190 |
 | All Skilled Up! | 32.00% | ~190 |
-| Extinct Again! | 30.00% | ~178 |
+| Extinct Again! | 31.00% | ~184 |
 | Bird of Prey | 30.00% | ~178 |
 | Stardust | 30.00% | ~178 |
 | Heartbreaker | 30.00% | ~178 |
 | Kidnapped! | 30.00% | ~178 |
-| Pull the Plug | 28.00% | ~167 |
+| Pull the Plug | 29.00% | ~173 |
+| All Heart | 29.00% | ~173 |
+| Trick Question! | 29.00% | ~173 |
 | Soul Slayer | 28.00% | ~167 |
 | The Downfall | 28.00% | ~167 |
-| All Heart | 28.00% | ~167 |
-| Trick Question! | 28.00% | ~167 |
+| Extraordinary! | 28.00% | ~167 |
 | Final Showdown | 28.00% | ~167 |
 | Spot of Tea? | 28.00% | ~167 |
 | Going Home | 28.00% | ~167 |
-| Extraordinary! | 27.00% | ~161 |
 | Mirror, Mirror | 26.00% | ~155 |
 | Flower Power | 24.00% | ~143 |
 | Crowned | 20.00% | ~119 |
 | Shopping Spree! | 19.00% | ~113 |
 | Max Level! | 13.00% | ~77 |
+| Dance Master | 8.00% | ~48 |
 | Bombs Away! | 8.00% | ~48 |
-| Dance Master | 7.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 595 (Ranked 184)  
-Completed: 37 (6.22%) (Ranked 27)  
+Completed: 38 (6.39%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 37 (6.22%) (Ranked 27)
 | 2023-05-08 | 514 | 30 |
 | 2023-05-09 | 545 | 32 |
 | 2023-05-10 | 573 | 36 |
-| 2023-05-11 | 595 | 37 |
+| 2023-05-11 | 595 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

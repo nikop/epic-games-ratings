@@ -631,9 +631,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 28827,
+  "EOS_Progressed": 28828,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2476,6 +2476,11 @@
       "Time": "2023-05-11T22:06:00.6535529+00:00",
       "NumProgressed": 28827,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-11T23:05:49.5992918+00:00",
+      "NumProgressed": 28828,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -2918,15 +2923,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 28827,
+      "Progressed": 28828,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-07T19:01:26.1696192+00:00",
-  "LastChanged_Achievements": "2023-05-11T22:06:00.6535516+00:00",
+  "LastChanged_Achievements": "2023-05-11T23:05:49.5992914+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:46.8537665+00:00",
-  "LastUpdate_Ratings": "2023-05-11T21:59:52.479207+00:00",
-  "LastUpdate_Achievements": "2023-05-11T22:06:00.6536472+00:00"
+  "LastUpdate_Ratings": "2023-05-11T22:59:50.6468421+00:00",
+  "LastUpdate_Achievements": "2023-05-11T23:05:49.5993547+00:00"
 }

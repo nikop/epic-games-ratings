@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The One Who Mastered Memories | 6.00% | ~15,997 |
+| The One Who Mastered Memories | 6.00% | ~15,998 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,331 |
 | Grappling with a Graphorn | 5.00% | ~13,331 |
 | The Hallowed Hero | 5.00% | ~13,331 |
@@ -30,13 +30,13 @@ Rating: 4.77 (Ranked 103)
 | The Root of the Problem | 3.00% | ~7,999 |
 | Third Time's a Charm | 3.00% | ~7,999 |
 | Raising Expectations | 3.00% | ~7,999 |
-| The Toast of the Town | 2.00% | ~5,332 |
-| Going Through the Potions | 2.00% | ~5,332 |
-| Room with a View | 2.00% | ~5,332 |
-| Floo Around the World | 2.00% | ~5,332 |
-| The Intrepid Explorer | 2.00% | ~5,332 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,332 |
-| The Ends Petrify the Means | 2.00% | ~5,332 |
+| The Toast of the Town | 2.00% | ~5,333 |
+| Going Through the Potions | 2.00% | ~5,333 |
+| Room with a View | 2.00% | ~5,333 |
+| Floo Around the World | 2.00% | ~5,333 |
+| The Intrepid Explorer | 2.00% | ~5,333 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,333 |
+| The Ends Petrify the Means | 2.00% | ~5,333 |
 | The Good Samaritan | 1.00% | ~2,666 |
 | Put Down Roots | 1.00% | ~2,666 |
 | The Auror's Apprentice | 1.00% | ~2,666 |
@@ -44,14 +44,14 @@ Rating: 4.77 (Ranked 103)
 | Finishing Touches | 1.00% | ~2,666 |
 | The Wise Owl | 1.00% | ~2,666 |
 | Demiguise Dread | 0.80% | ~2,133 |
+| A Forte for Achievement | 0.80% | ~2,133 |
 | Savvy Spender | 0.70% | ~1,866 |
-| A Forte for Achievement | 0.70% | ~1,866 |
 | Merlin's Beard! | 0.60% | ~1,600 |
 | Spilled Milk | 0.50% | ~1,333 |
-| The Nature of the Beast | 0.40% | ~1,066 |
+| The Nature of the Beast | 0.40% | ~1,067 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,619 (Ranked 38)  
+Progressed: 266,628 (Ranked 38)  
 Completed: 359 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-08 | 266,274 | 354 |
 | 2023-05-09 | 266,399 | 356 |
 | 2023-05-10 | 266,527 | 358 |
-| 2023-05-11 | 266,619 | 359 |
+| 2023-05-11 | 266,628 | 359 |
 ## Awards
 Max (Character Customization): 18,654  (Ranked 18)  
 Sum: 34,135 (Ranked 33)  
