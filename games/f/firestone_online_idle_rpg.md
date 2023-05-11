@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.55 (Ranked 917)  
+Rating: 3.61 (Ranked 917)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -43,12 +43,12 @@ Rating: 3.55 (Ranked 917)
 | How Do You Turn This On? | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
+| Four Leaf Clover | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
 | The father of Dragons | 1.00% | ~10 |
 | Trader | 1.00% | ~10 |
 | What lies behind the bush | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
-| Four Leaf Clover | 0.90% | ~9 |
 | Relic Of The Past | 0.90% | ~9 |
 | Dragon Slayer | 0.70% | ~7 |
 | Weekly Quest Completionist | 0.70% | ~7 |
@@ -110,3 +110,4 @@ Completed: 1 (0.11%) (Ranked 153)
 | 2023-05-06 | 3.40 | 0 | 0 |
 | 2023-05-09 | 3.48 | 0 | 0 |
 | 2023-05-10 | 3.55 | 0 | 0 |
+| 2023-05-11 | 3.61 | 0 | 0 |

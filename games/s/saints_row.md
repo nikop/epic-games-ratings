@@ -6,58 +6,58 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 84.00% | ~21,534 |
-| To The Nines | 79.00% | ~20,252 |
-| Optimized | 70.00% | ~17,945 |
-| Performance Review | 70.00% | ~17,945 |
-| Making a Name | 67.00% | ~17,176 |
-| Tune Up | 65.00% | ~16,663 |
-| Landlord | 63.00% | ~16,151 |
-| The Side Job | 61.00% | ~15,638 |
-| Wet Work | 61.00% | ~15,638 |
-| Wrecking Ball | 54.00% | ~13,843 |
-| Food for Thought | 54.00% | ~13,843 |
-| Finders Keepers | 51.00% | ~13,074 |
-| A Young Empire | 50.00% | ~12,818 |
-| Work Ethic | 47.00% | ~12,049 |
-| Picking Fights | 38.00% | ~9,742 |
-| Quality Time | 37.00% | ~9,485 |
-| Power Players | 37.00% | ~9,485 |
-| Took It to The Limit | 34.00% | ~8,716 |
-| Et tu? | 31.00% | ~7,947 |
-| Showdown | 30.00% | ~7,691 |
-| Kitted Out | 27.00% | ~6,922 |
-| Masters of Santo Ileso | 25.00% | ~6,409 |
-| Hijacked | 23.00% | ~5,896 |
-| The Spins | 21.00% | ~5,384 |
-| The Mechanic | 21.00% | ~5,384 |
-| Closet Space | 17.00% | ~4,358 |
-| We could go home, or… | 15.00% | ~3,845 |
-| A Golden Age | 15.00% | ~3,845 |
-| Challenge Accepted | 14.00% | ~3,589 |
-| Free Refills | 12.00% | ~3,076 |
-| Smooth Moves | 12.00% | ~3,076 |
-| The Professional | 11.00% | ~2,820 |
-| Chaos Tamer | 11.00% | ~2,820 |
-| Neighborly | 10.00% | ~2,564 |
-| Shopping Spree | 8.00% | ~2,051 |
-| Always Be Hustling | 8.00% | ~2,051 |
-| Prankster | 8.00% | ~2,051 |
-| Tourist | 8.00% | ~2,051 |
-| Community Outreach | 6.00% | ~1,538 |
-| Bonus Round | 5.00% | ~1,282 |
-| The Collector | 4.00% | ~1,025 |
-| All Mine | 4.00% | ~1,025 |
-| Untouchable | 3.00% | ~769 |
+| First F#@!ing Day | 84.00% | ~21,551 |
+| To The Nines | 79.00% | ~20,268 |
+| Optimized | 70.00% | ~17,959 |
+| Performance Review | 70.00% | ~17,959 |
+| Making a Name | 67.00% | ~17,190 |
+| Tune Up | 65.00% | ~16,676 |
+| Landlord | 63.00% | ~16,163 |
+| The Side Job | 61.00% | ~15,650 |
+| Wet Work | 61.00% | ~15,650 |
+| Wrecking Ball | 54.00% | ~13,854 |
+| Food for Thought | 54.00% | ~13,854 |
+| Finders Keepers | 51.00% | ~13,085 |
+| A Young Empire | 50.00% | ~12,828 |
+| Work Ethic | 47.00% | ~12,058 |
+| Picking Fights | 38.00% | ~9,749 |
+| Quality Time | 37.00% | ~9,493 |
+| Power Players | 37.00% | ~9,493 |
+| Took It to The Limit | 34.00% | ~8,723 |
+| Et tu? | 31.00% | ~7,953 |
+| Showdown | 30.00% | ~7,697 |
+| Kitted Out | 27.00% | ~6,927 |
+| Masters of Santo Ileso | 25.00% | ~6,414 |
+| Hijacked | 23.00% | ~5,901 |
+| The Spins | 21.00% | ~5,388 |
+| The Mechanic | 21.00% | ~5,388 |
+| Closet Space | 17.00% | ~4,362 |
+| We could go home, or… | 15.00% | ~3,848 |
+| A Golden Age | 15.00% | ~3,848 |
+| Challenge Accepted | 14.00% | ~3,592 |
+| Free Refills | 12.00% | ~3,079 |
+| Smooth Moves | 12.00% | ~3,079 |
+| The Professional | 11.00% | ~2,822 |
+| Chaos Tamer | 11.00% | ~2,822 |
+| Neighborly | 10.00% | ~2,566 |
+| Shopping Spree | 8.00% | ~2,052 |
+| Always Be Hustling | 8.00% | ~2,052 |
+| Prankster | 8.00% | ~2,052 |
+| Tourist | 8.00% | ~2,052 |
+| Community Outreach | 6.00% | ~1,539 |
+| Bonus Round | 5.00% | ~1,283 |
+| The Collector | 4.00% | ~1,026 |
+| All Mine | 4.00% | ~1,026 |
+| Untouchable | 3.00% | ~770 |
 | Jack of All Trades | 2.00% | ~513 |
 | It's a Bird! | 2.00% | ~513 |
 | Heard You Like Wheels | 2.00% | ~513 |
-| Armor Piercing | 1.00% | ~256 |
-| Statement Pieces | 0.90% | ~231 |
+| Armor Piercing | 1.00% | ~257 |
+| Statement Pieces | 0.80% | ~205 |
 | A Car Named Simone | 0.80% | ~205 |
 | Fiesta Time | 0.60% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,636 (Ranked 87)  
+Progressed: 25,656 (Ranked 87)  
 Completed: 12 (0.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 12 (0.05%) (Ranked 170)
 | 2023-05-08 | 23,726 | 1 |
 | 2023-05-09 | 24,554 | 10 |
 | 2023-05-10 | 25,464 | 11 |
-| 2023-05-11 | 25,636 | 12 |
+| 2023-05-11 | 25,656 | 12 |
 ## Awards
 Max (Extremely Fun): 1,026  (Ranked 133)  
 Sum: 8,297 (Ranked 87)  

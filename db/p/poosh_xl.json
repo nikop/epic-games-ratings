@@ -2,7 +2,7 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 80,
@@ -259,17 +259,17 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Poosh Past 10000",
@@ -283,9 +283,9 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 77,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Poosh Past 5000",
@@ -307,9 +307,9 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Terrible Start",
@@ -329,8 +329,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-11T06:05:42.5846958+00:00",
+  "LastChanged_Achievements": "2023-05-11T07:05:12.9547951+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:57.379216+00:00",
-  "LastUpdate_Ratings": "2023-05-11T05:57:33.1071068+00:00",
-  "LastUpdate_Achievements": "2023-05-11T06:05:42.5847069+00:00"
+  "LastUpdate_Ratings": "2023-05-11T06:57:54.7907541+00:00",
+  "LastUpdate_Achievements": "2023-05-11T07:05:12.9548127+00:00"
 }

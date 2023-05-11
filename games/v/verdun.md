@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~33,313 |
-| Worth it | 63.00% | ~27,256 |
-| Eagle Eye | 55.00% | ~23,795 |
+| Setting an example | 77.00% | ~33,315 |
+| Worth it | 63.00% | ~27,258 |
+| Eagle Eye | 55.00% | ~23,796 |
 | Corpseman I | 40.00% | ~17,306 |
-| Blast fishing | 38.00% | ~16,440 |
-| Not alone | 32.00% | ~13,844 |
-| Headhunter I | 27.00% | ~11,681 |
+| Blast fishing | 38.00% | ~16,441 |
+| Not alone | 32.00% | ~13,845 |
+| Headhunter I | 27.00% | ~11,682 |
 | Manual Labour I | 26.00% | ~11,249 |
-| Developers, Developers, Developers | 24.00% | ~10,383 |
-| Basic Training | 24.00% | ~10,383 |
-| Furchtlos und Treu | 13.00% | ~5,624 |
+| Developers, Developers, Developers | 24.00% | ~10,384 |
+| Basic Training | 24.00% | ~10,384 |
+| Furchtlos und Treu | 13.00% | ~5,625 |
 | Gott Mit Uns | 12.00% | ~5,192 |
 | This We'll Defend! | 9.00% | ~3,894 |
 | Anker wirf! | 9.00% | ~3,894 |
 | Providentiea Memor | 9.00% | ~3,894 |
 | For King and Country | 9.00% | ~3,894 |
 | Battle hardened | 8.00% | ~3,461 |
-| Semper Fidelis! | 7.00% | ~3,028 |
-| Honneur et Patrie | 7.00% | ~3,028 |
+| Semper Fidelis! | 7.00% | ~3,029 |
+| Honneur et Patrie | 7.00% | ~3,029 |
 | In Treue Fest | 5.00% | ~2,163 |
 | Voor De Koning | 5.00% | ~2,163 |
 | Extreme Headhunter | 5.00% | ~2,163 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~43 |
 | Blood Brother | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,264 (Ranked 77)  
+Progressed: 43,266 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 2 (0.00%) (Ranked 198)
 | 2023-05-08 | 43,053 | 2 |
 | 2023-05-09 | 43,158 | 2 |
 | 2023-05-10 | 43,249 | 2 |
-| 2023-05-11 | 43,264 | 2 |
+| 2023-05-11 | 43,266 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 331)  
 Sum: 730 (Ranked 255)  

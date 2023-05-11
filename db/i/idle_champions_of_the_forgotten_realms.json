@@ -3629,9 +3629,9 @@
     }
   ],
   "EOS_Progressed": 87117,
-  "EOS_Completed": 1823,
-  "EOS_NewPlayers": 707,
-  "EOS_NewCompleters": 23,
+  "EOS_Completed": 1824,
+  "EOS_NewPlayers": 704,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5443,6 +5443,11 @@
       "Time": "2023-05-11T06:06:27.9263304+00:00",
       "NumProgressed": 87117,
       "NumCompleted": 1823
+    },
+    {
+      "Time": "2023-05-11T07:05:49.2288835+00:00",
+      "NumProgressed": 87117,
+      "NumCompleted": 1824
     }
   ],
   "TotalAchievements": 489,
@@ -5748,9 +5753,9 @@
       "ID": "objective_completed_1088",
       "SetID": "415jc5c",
       "Name": "Third Third Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_109",
@@ -6236,9 +6241,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_completed_1184",
@@ -6572,9 +6577,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_150",
@@ -7420,9 +7425,9 @@
       "ID": "objective_completed_413",
       "SetID": "cc37lbc",
       "Name": "Towering Expectations",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_414",
@@ -9372,14 +9377,14 @@
       "ID": "cc37lbc",
       "IsBase": true,
       "Progressed": 87117,
-      "Completed": 1823
+      "Completed": 1824
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T01:57:09.1903604+00:00",
-  "LastChanged_Achievements": "2023-05-11T06:06:27.9263299+00:00",
+  "LastChanged_Achievements": "2023-05-11T07:05:49.228883+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-11T05:58:03.3644622+00:00",
-  "LastUpdate_Achievements": "2023-05-11T06:06:27.9285587+00:00"
+  "LastUpdate_Ratings": "2023-05-11T06:58:16.293945+00:00",
+  "LastUpdate_Achievements": "2023-05-11T07:05:49.2316183+00:00"
 }

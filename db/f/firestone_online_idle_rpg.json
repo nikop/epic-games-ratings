@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.55,
+  "Rating": 3.61,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -42,6 +42,12 @@
     {
       "Time": "2023-05-10T19:59:22.0415838+00:00",
       "Rating": 3.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-11T06:58:13.361056+00:00",
+      "Rating": 3.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1566,9 +1572,9 @@
       "ID": "fourleafclover",
       "SetID": "3nl4bcg",
       "Name": "Four Leaf Clover",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "frostfireliberator",
@@ -1982,9 +1988,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-05-10T19:59:22.0415837+00:00",
-  "LastChanged_Achievements": "2023-05-11T06:05:52.3280218+00:00",
+  "LastChanged": "2023-05-11T06:58:13.3610558+00:00",
+  "LastChanged_Achievements": "2023-05-11T07:05:20.6497927+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-11T05:57:59.3886648+00:00",
-  "LastUpdate_Achievements": "2023-05-11T06:05:52.3280869+00:00"
+  "LastUpdate_Ratings": "2023-05-11T06:58:13.361057+00:00",
+  "LastUpdate_Achievements": "2023-05-11T07:05:20.6498816+00:00"
 }

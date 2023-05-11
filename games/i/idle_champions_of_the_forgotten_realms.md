@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.50% | ~436 |
 | Are Ya Chicken? | 0.50% | ~436 |
 | A Persistent Buzzing | 0.40% | ~348 |
+| Terror in the Dark | 0.40% | ~348 |
 | The Crumbling Temple | 0.40% | ~348 |
 | Mad Cow Disease | 0.40% | ~348 |
 | Friendly Imps | 0.40% | ~348 |
@@ -26,13 +27,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~261 |
 | Owlbear Necessities | 0.30% | ~160 |
 | Best Thay Ever | 0.30% | ~160 |
+| The Dread Domain of Tovag | 0.30% | ~160 |
 | Frail Doesn't Mean Broken | 0.30% | ~160 |
 | The Castle of a Thousand Vecnas | 0.30% | ~160 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~160 |
 | The Sanctum of the Sword | 0.30% | ~160 |
 | Get Back In The Castle | 0.30% | ~160 |
 | Beast Mode | 0.30% | ~261 |
-| Terror in the Dark | 0.30% | ~261 |
 | Low Initiative | 0.30% | ~261 |
 | A Mysterious Summons | 0.30% | ~261 |
 | Building Trust | 0.30% | ~261 |
@@ -56,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
 | The Prince of a Thousand Enemies | 0.20% | ~107 |
+| Third Third Out | 0.20% | ~107 |
 | The Silken Swamp | 0.20% | ~174 |
 | Wet Feet | 0.20% | ~174 |
 | Hatchlings Underfoot | 0.20% | ~174 |
@@ -71,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Distance | 0.20% | ~107 |
 | Heatwave | 0.20% | ~107 |
 | Hands Off! | 0.20% | ~107 |
-| The Dread Domain of Tovag | 0.20% | ~107 |
 | Weak Doesn't Mean Feeble | 0.20% | ~107 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~107 |
 | Kas the Bloody Handed | 0.20% | ~107 |
@@ -113,6 +114,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~174 |
 | Excavating History | 0.20% | ~174 |
 | Premature Betrayal | 0.20% | ~174 |
+| Towering Expectations | 0.20% | ~174 |
 | Hopelessly Lost | 0.20% | ~174 |
 | Cramped Quarters | 0.20% | ~174 |
 | Enter the Sargauth | 0.20% | ~174 |
@@ -189,7 +191,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.10% | ~53 |
 | First Third Out | 0.10% | ~53 |
 | Second Third Out | 0.10% | ~53 |
-| Third Third Out | 0.10% | ~53 |
 | Slack-jawed Lorna | 0.10% | ~53 |
 | I'm Sure I Saw It Move! | 0.10% | ~53 |
 | End of the Line | 0.10% | ~53 |
@@ -312,7 +313,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Screams of the Dead | 0.10% | ~87 |
 | Frantic Excavation | 0.10% | ~87 |
 | Birds of a Feather | 0.10% | ~53 |
-| Towering Expectations | 0.10% | ~87 |
 | Guests of the Groom | 0.10% | ~87 |
 | Careful Consideration | 0.10% | ~87 |
 | Tanking Expectations | 0.10% | ~53 |
@@ -497,7 +497,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87,117 (Ranked 59)  
-Completed: 1,823 (2.09%) (Ranked 60)  
+Completed: 1,824 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -517,7 +517,7 @@ Completed: 1,823 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,117 | 1,823 |
+| 2023-05-11 | 87,117 | 1,824 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,850 (Ranked 37)  

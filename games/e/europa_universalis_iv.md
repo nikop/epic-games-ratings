@@ -7,18 +7,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~3,046 |
-| That's a Grand Army | 8.00% | ~2,707 |
-| That is mine! | 8.00% | ~2,707 |
-| Victorious! | 8.00% | ~2,707 |
-| Brothers in Arms | 6.00% | ~2,030 |
-| That's a Grand Navy | 6.00% | ~2,030 |
-| Seriously?! | 6.00% | ~2,030 |
+| That's a Grand Army | 8.00% | ~2,708 |
+| That is mine! | 8.00% | ~2,708 |
+| Victorious! | 8.00% | ~2,708 |
+| Brothers in Arms | 6.00% | ~2,031 |
+| That's a Grand Navy | 6.00% | ~2,031 |
+| Seriously?! | 6.00% | ~2,031 |
 | For the Glory | 5.00% | ~1,692 |
 | Cold War | 4.00% | ~1,354 |
 | True Catholic | 4.00% | ~1,354 |
-| Defender of the Faith | 3.00% | ~1,015 |
-| It's all about the money | 3.00% | ~1,015 |
-| Respected | 3.00% | ~1,015 |
+| Defender of the Faith | 3.00% | ~1,016 |
+| It's all about the money | 3.00% | ~1,016 |
+| Respected | 3.00% | ~1,016 |
 | Blockader | 2.00% | ~677 |
 | Combined Arms | 2.00% | ~677 |
 | Double the Love | 2.00% | ~677 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,841 (Ranked 81)  
+Progressed: 33,850 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,10 +382,10 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 33,841 | 0 |
+| 2023-05-11 | 33,850 | 0 |
 ## Awards
 Max (Educational): 5,201  (Ranked 60)  
-Sum: 43,038 (Ranked 27)  
+Sum: 43,041 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -394,7 +394,7 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 4,969 |
 | This game is Extremely Fun | 4,937 |
 | This game has Diverse Characters | 4,890 |
-| This game is Relaxing | 4,848 |
+| This game is Relaxing | 4,851 |
 | This game has Competitive Players | 4,672 |
 | This game has Amazing Storytelling | 4,430 |
 | This game has Amazing Characters | 4,105 |
@@ -516,4 +516,4 @@ Diff (max vs sum): 33
 | 2023-05-08 | 4.68 | - | 5,198 | 42,973 |
 | 2023-05-09 | 4.68 | - | 5,201 | 43,010 |
 | 2023-05-10 | 4.68 | - | 5,201 | 43,029 |
-| 2023-05-11 | 4.68 | - | 5,201 | 43,038 |
+| 2023-05-11 | 4.68 | - | 5,201 | 43,041 |

@@ -7,8 +7,8 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~361,276 |
-| Now You're Talking | 62.00% | ~319,987 |
-| Steel Yourself | 62.00% | ~319,987 |
+| Now You're Talking | 62.00% | ~319,988 |
+| Steel Yourself | 62.00% | ~319,988 |
 | Window Dressing | 50.00% | ~258,054 |
 | Trigger Happy | 46.00% | ~237,410 |
 | Riverborn | 45.00% | ~232,249 |
@@ -19,7 +19,7 @@ Number of Ratings: 617  (23.09.2022)
 | Hello Darkness | 23.00% | ~118,705 |
 | Wind At Our Backs | 22.00% | ~113,544 |
 | To the Beat | 20.00% | ~103,222 |
-| Sunny Shores | 17.00% | ~87,738 |
+| Sunny Shores | 17.00% | ~87,739 |
 | To Victory! | 15.00% | ~77,416 |
 | Sunday Best | 15.00% | ~77,416 |
 | Two of a Kind | 14.00% | ~72,255 |
@@ -33,11 +33,11 @@ Number of Ratings: 617  (23.09.2022)
 | Partner in Crime | 7.00% | ~36,128 |
 | Hard to Hear | 7.00% | ~36,128 |
 | Under the Radar | 7.00% | ~36,128 |
-| Moving On Up | 6.00% | ~30,966 |
-| Owl Knows Best | 6.00% | ~30,966 |
-| Mind the Moose | 6.00% | ~30,966 |
-| Dressed to Kill | 6.00% | ~30,966 |
-| Beast Mode | 6.00% | ~30,966 |
+| Moving On Up | 6.00% | ~30,967 |
+| Owl Knows Best | 6.00% | ~30,967 |
+| Mind the Moose | 6.00% | ~30,967 |
+| Dressed to Kill | 6.00% | ~30,967 |
+| Beast Mode | 6.00% | ~30,967 |
 | Oh, Romeo! | 5.00% | ~25,805 |
 | Noble Intentions | 5.00% | ~25,805 |
 | Rising Star | 5.00% | ~25,805 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,548 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,108 (Ranked 24)  
+Progressed: 516,109 (Ranked 24)  
 Completed: 403 (0.08%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 403 (0.08%) (Ranked 163)
 | 2023-05-08 | 515,966 | 403 |
 | 2023-05-09 | 516,037 | 403 |
 | 2023-05-10 | 516,093 | 403 |
-| 2023-05-11 | 516,108 | 403 |
+| 2023-05-11 | 516,109 | 403 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

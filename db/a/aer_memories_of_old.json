@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9045,
+  "EOS_Progressed": 9046,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
@@ -2123,6 +2123,11 @@
       "Time": "2023-05-11T06:06:15.7655427+00:00",
       "NumProgressed": 9045,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-05-11T07:05:38.8979662+00:00",
+      "NumProgressed": 9046,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 20,
@@ -2166,7 +2171,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -2190,7 +2195,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -2254,7 +2259,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2293,15 +2298,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9045,
+      "Progressed": 9046,
       "Completed": 202
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-11T06:06:15.7655421+00:00",
+  "LastChanged_Achievements": "2023-05-11T07:05:38.8979657+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:15.0937546+00:00",
-  "LastUpdate_Ratings": "2023-05-11T06:00:24.5988106+00:00",
-  "LastUpdate_Achievements": "2023-05-11T06:06:15.7655617+00:00"
+  "LastUpdate_Ratings": "2023-05-11T06:59:58.4538953+00:00",
+  "LastUpdate_Achievements": "2023-05-11T07:05:38.8980081+00:00"
 }

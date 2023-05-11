@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2549,
+  "EOS_Progressed": 2550,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-05-10T20:07:07.244549+00:00",
       "NumProgressed": 2549,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-11T07:05:42.2945369+00:00",
+      "NumProgressed": 2550,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -568,7 +573,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "bonus3",
@@ -576,7 +581,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "bonus4",
@@ -592,7 +597,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "bonus6",
@@ -600,7 +605,7 @@
       "Name": "All Geared Up",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "campaign1",
@@ -608,7 +613,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "campaign10",
@@ -616,7 +621,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "campaign11",
@@ -632,7 +637,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "campaign13",
@@ -688,7 +693,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "campaign2",
@@ -696,7 +701,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "campaign20",
@@ -704,7 +709,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "campaign3",
@@ -712,7 +717,7 @@
       "Name": "Economics 101",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "campaign4",
@@ -744,7 +749,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "campaign8",
@@ -768,7 +773,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "scenario2",
@@ -784,7 +789,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "scenario4",
@@ -823,7 +828,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2549,
+      "Progressed": 2550,
       "Completed": 9
     }
   ],
@@ -831,8 +836,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-11T06:06:19.9187692+00:00",
+  "LastChanged_Achievements": "2023-05-11T07:05:42.2945364+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-11T06:00:27.8313497+00:00",
-  "LastUpdate_Achievements": "2023-05-11T06:06:19.9187903+00:00"
+  "LastUpdate_Ratings": "2023-05-11T07:00:01.0088431+00:00",
+  "LastUpdate_Achievements": "2023-05-11T07:05:42.2945743+00:00"
 }

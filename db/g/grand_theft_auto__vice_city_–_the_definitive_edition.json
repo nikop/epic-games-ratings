@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 6112,
+  "EOS_Progressed": 6113,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1229,6 +1229,11 @@
       "Time": "2023-05-11T02:05:00.2026557+00:00",
       "NumProgressed": 6112,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-11T07:05:11.3644504+00:00",
+      "NumProgressed": 6113,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1264,7 +1269,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH05",
@@ -1400,7 +1405,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "ACH22",
@@ -1432,7 +1437,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH26",
@@ -1448,7 +1453,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH28",
@@ -1511,7 +1516,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6112,
+      "Progressed": 6113,
       "Completed": 20
     }
   ],
@@ -1519,8 +1524,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-10T19:59:39.8173766+00:00",
-  "LastChanged_Achievements": "2023-05-11T06:05:40.5987092+00:00",
+  "LastChanged_Achievements": "2023-05-11T07:05:11.3644499+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-11T05:58:19.0542973+00:00",
-  "LastUpdate_Achievements": "2023-05-11T06:05:40.5987318+00:00"
+  "LastUpdate_Ratings": "2023-05-11T06:58:27.2233916+00:00",
+  "LastUpdate_Achievements": "2023-05-11T07:05:11.3644822+00:00"
 }

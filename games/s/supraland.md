@@ -6,24 +6,24 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~697,222 |
-| The Blues | 85.00% | ~598,625 |
-| Fast | 66.00% | ~464,815 |
+| Out of bed | 99.00% | ~697,223 |
+| The Blues | 85.00% | ~598,626 |
+| Fast | 66.00% | ~464,816 |
 | Healthbar | 55.00% | ~387,346 |
 | Force Cube | 52.00% | ~366,218 |
-| Double Jump | 48.00% | ~338,047 |
+| Double Jump | 48.00% | ~338,048 |
 | Regeneration | 47.00% | ~331,005 |
-| Climb the hill | 42.00% | ~295,791 |
-| Triple Jump | 42.00% | ~295,791 |
+| Climb the hill | 42.00% | ~295,792 |
+| Triple Jump | 42.00% | ~295,792 |
 | Through the fire pipe | 38.00% | ~267,621 |
 | MacGuffin | 37.00% | ~260,578 |
-| Just once | 36.00% | ~253,535 |
+| Just once | 36.00% | ~253,536 |
 | Armor | 30.00% | ~211,280 |
 | True holy spirit | 27.00% | ~190,152 |
 | That's how electronics work obviously | 26.00% | ~183,109 |
 | Force Cube Catapult | 25.00% | ~176,066 |
 | Holy Sword | 23.00% | ~161,981 |
-| Telefrag | 22.00% | ~154,938 |
+| Telefrag | 22.00% | ~154,939 |
 | Freed from prison | 21.00% | ~147,896 |
 | Stomp | 21.00% | ~147,896 |
 | Double Health | 18.00% | ~126,768 |
@@ -31,24 +31,24 @@ Number of Ratings: 25,175  (23.09.2022)
 | Green Keycard | 17.00% | ~119,725 |
 | Rattle Hag | 15.00% | ~105,640 |
 | All Shells | 14.00% | ~98,597 |
-| Beam | 13.00% | ~91,554 |
-| 9 | 13.00% | ~91,554 |
-| Purple Cube | 13.00% | ~91,554 |
-| Supraball Noob | 13.00% | ~91,554 |
+| Beam | 13.00% | ~91,555 |
+| 9 | 13.00% | ~91,555 |
+| Purple Cube | 13.00% | ~91,555 |
+| Supraball Noob | 13.00% | ~91,555 |
 | Health Drink | 12.00% | ~84,512 |
 | Helped a star | 12.00% | ~84,512 |
 | Infiltrated | 11.00% | ~77,469 |
 | Robbed | 11.00% | ~77,469 |
 | Strong | 11.00% | ~77,469 |
-| Blue King's lair | 10.00% | ~70,426 |
-| Payback | 10.00% | ~70,426 |
-| Got the coins back | 10.00% | ~70,426 |
-| Cave Flies | 10.00% | ~70,426 |
-| Gold Scam | 10.00% | ~70,426 |
-| Gold Scam Uncovered | 10.00% | ~70,426 |
-| Got the gun back | 10.00% | ~70,426 |
-| Translocator | 10.00% | ~70,426 |
-| Yellow Shot Button | 10.00% | ~70,426 |
+| Blue King's lair | 10.00% | ~70,427 |
+| Payback | 10.00% | ~70,427 |
+| Got the coins back | 10.00% | ~70,427 |
+| Cave Flies | 10.00% | ~70,427 |
+| Gold Scam | 10.00% | ~70,427 |
+| Gold Scam Uncovered | 10.00% | ~70,427 |
+| Got the gun back | 10.00% | ~70,427 |
+| Translocator | 10.00% | ~70,427 |
+| Yellow Shot Button | 10.00% | ~70,427 |
 | Fire Flies | 9.00% | ~63,384 |
 | Moon Door | 9.00% | ~63,384 |
 | Momentum | 9.00% | ~63,384 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~704 |
 | DLC: Top of the world | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,265 (Ranked 14)  
+Progressed: 704,266 (Ranked 14)  
 Completed: 674 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 674 (0.10%) (Ranked 156)
 | 2023-05-08 | 703,971 | 672 |
 | 2023-05-09 | 704,109 | 674 |
 | 2023-05-10 | 704,238 | 674 |
-| 2023-05-11 | 704,265 | 674 |
+| 2023-05-11 | 704,266 | 674 |
 ## Awards
 Max (Challenging Puzzles): 7,609  (Ranked 40)  
 Sum: 9,896 (Ranked 78)  

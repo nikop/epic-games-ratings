@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4733,
+  "EOS_Progressed": 4734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2023-05-11T05:06:01.4015072+00:00",
       "NumProgressed": 4733,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T07:05:31.4041544+00:00",
+      "NumProgressed": 4734,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -642,7 +647,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "ach_campaign_progress6",
@@ -682,7 +687,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "ach_campaign_special10",
@@ -784,9 +789,9 @@
       "ID": "ach_campaign_special5",
       "SetID": "8cb3id7",
       "Name": "Extra Life: Wish Granted",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 189
     },
     {
       "ID": "ach_campaign_special6",
@@ -1137,15 +1142,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4733,
+      "Progressed": 4734,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-11T06:06:06.2937251+00:00",
+  "LastChanged_Achievements": "2023-05-11T07:05:31.4041537+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.697112+00:00",
-  "LastUpdate_Ratings": "2023-05-11T05:59:07.4861602+00:00",
-  "LastUpdate_Achievements": "2023-05-11T06:06:06.2937936+00:00"
+  "LastUpdate_Ratings": "2023-05-11T06:59:03.3655691+00:00",
+  "LastUpdate_Achievements": "2023-05-11T07:05:31.4043468+00:00"
 }

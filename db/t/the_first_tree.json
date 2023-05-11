@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30538,
+  "EOS_Progressed": 30539,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1776,6 +1776,11 @@
       "Time": "2023-05-11T06:06:15.5227452+00:00",
       "NumProgressed": 30538,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-11T07:05:38.836812+00:00",
+      "NumProgressed": 30539,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 14,
@@ -1835,7 +1840,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "completionist",
@@ -1867,7 +1872,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7634
+      "UsersEstimate": 7635
     },
     {
       "ID": "firstItem",
@@ -1883,7 +1888,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5191
+      "UsersEstimate": 5192
     },
     {
       "ID": "secretItem",
@@ -1898,15 +1903,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30538,
+      "Progressed": 30539,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
-  "LastChanged_Achievements": "2023-05-11T06:06:15.522745+00:00",
+  "LastChanged_Achievements": "2023-05-11T07:05:38.8368113+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.1528242+00:00",
-  "LastUpdate_Ratings": "2023-05-11T06:00:28.9082425+00:00",
-  "LastUpdate_Achievements": "2023-05-11T06:06:15.522759+00:00"
+  "LastUpdate_Ratings": "2023-05-11T07:00:02.369097+00:00",
+  "LastUpdate_Achievements": "2023-05-11T07:05:38.8368335+00:00"
 }
