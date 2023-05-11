@@ -4,9 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 50.00% | ~1 |
-| Better than cake | 50.00% | ~1 |
-| First taste | 0.00% | ~0 |
+| Newbie | 100.00% | ~3 |
+| Better than cake | 100.00% | ~3 |
+| No brakes | 67.00% | ~2 |
+| First taste | 33.00% | ~1 |
+| Wannabe | 33.00% | ~1 |
+| Loyalty | 33.00% | ~1 |
+| Hero | 33.00% | ~1 |
+| Shepherd | 33.00% | ~1 |
+| Tutorial master | 33.00% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -24,15 +30,12 @@
 | Monster Elite car | 0.00% | ~0 |
 | Amateur hitchhiker | 0.00% | ~0 |
 | Pro hitchhiker | 0.00% | ~0 |
-| Wannabe | 0.00% | ~0 |
 | Master hitchhiker | 0.00% | ~0 |
 | Elite hitchhiker | 0.00% | ~0 |
 | Amateur champion | 0.00% | ~0 |
 | Pro champion | 0.00% | ~0 |
 | Master champion | 0.00% | ~0 |
 | GPRO champion | 0.00% | ~0 |
-| Loyalty | 0.00% | ~0 |
-| Hero | 0.00% | ~0 |
 | Team effort | 0.00% | ~0 |
 | Ultimate organizer | 0.00% | ~0 |
 | Berserk Amateur | 0.00% | ~0 |
@@ -67,7 +70,6 @@
 | Knockout Elite | 0.00% | ~0 |
 | Elite wannabe | 0.00% | ~0 |
 | Relay | 0.00% | ~0 |
-| No brakes | 0.00% | ~0 |
 | No brakes Amateur | 0.00% | ~0 |
 | No brakes Pro | 0.00% | ~0 |
 | Grand Chelem | 0.00% | ~0 |
@@ -90,7 +92,6 @@
 | Tried and tested | 0.00% | ~0 |
 | Elit1st | 0.00% | ~0 |
 | Addict | 0.00% | ~0 |
-| Shepherd | 0.00% | ~0 |
 | Just don't scratch it | 0.00% | ~0 |
 | Reliability expert | 0.00% | ~0 |
 | Zero to hero | 0.00% | ~0 |
@@ -121,7 +122,6 @@
 | Master hattrick | 0.00% | ~0 |
 | Elite podium national invader | 0.00% | ~0 |
 | Master podium national invader | 0.00% | ~0 |
-| Tutorial master | 0.00% | ~0 |
 | The wall | 0.00% | ~0 |
 | Enemies for life | 0.00% | ~0 |
 | Oval overtaker | 0.00% | ~0 |
@@ -167,9 +167,10 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 350)  
+Progressed: 3 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-10 | 2 | 0 |
+| 2023-05-11 | 3 | 0 |

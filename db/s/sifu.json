@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -3850,10 +3850,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10261,
       "NumberOfAwardsMax": 6046
+    },
+    {
+      "Time": "2023-05-11T13:04:52.8629562+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10263,
+      "NumberOfAwardsMax": 6046
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10261,
+  "NumberOfAwards": 10263,
   "NumberOfAwardsMax": 6046,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3885,7 +3891,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 468
+      "Count": 470
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3930,10 +3936,10 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 702808,
-  "EOS_Completed": 12720,
-  "EOS_NewPlayers": 239,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 702809,
+  "EOS_Completed": 12721,
+  "EOS_NewPlayers": 238,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
@@ -5430,6 +5436,11 @@
       "Time": "2023-05-11T12:05:05.007832+00:00",
       "NumProgressed": 702808,
       "NumCompleted": 12720
+    },
+    {
+      "Time": "2023-05-11T13:11:27.5773001+00:00",
+      "NumProgressed": 702809,
+      "NumCompleted": 12721
     }
   ],
   "TotalAchievements": 50,
@@ -5495,9 +5506,9 @@
       "ID": "08_Wude_H2",
       "SetID": "adcm20g",
       "Name": "Tiger on Fire",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2108
+      "UsersEstimate": 2811
     },
     {
       "ID": "09_Wude_H3",
@@ -5840,21 +5851,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12109,
+      "Progressed": 12110,
       "Completed": 10070
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702808,
-      "Completed": 12720
+      "Progressed": 702809,
+      "Completed": 12721
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-11T04:59:00.7098066+00:00",
-  "LastChanged_Achievements": "2023-05-11T12:05:05.0078316+00:00",
+  "LastChanged": "2023-05-11T13:04:52.862956+00:00",
+  "LastChanged_Achievements": "2023-05-11T13:11:27.5772997+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-11T11:58:35.5017903+00:00",
-  "LastUpdate_Achievements": "2023-05-11T12:05:05.0079105+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:04:52.8629569+00:00",
+  "LastUpdate_Achievements": "2023-05-11T13:11:27.5773523+00:00"
 }

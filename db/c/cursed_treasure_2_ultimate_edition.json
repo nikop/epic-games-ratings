@@ -236,17 +236,17 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Starry: Holy Mountain",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_3",
       "SetID": "ak6pfjk",
       "Name": "Starry: Tanglewood",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_4",
@@ -509,8 +509,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-11T12:04:58.5150841+00:00",
+  "LastChanged_Achievements": "2023-05-11T13:11:21.1427534+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:51.8789277+00:00",
-  "LastUpdate_Ratings": "2023-05-11T11:58:15.5477695+00:00",
-  "LastUpdate_Achievements": "2023-05-11T12:04:58.5151232+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:04:35.3015786+00:00",
+  "LastUpdate_Achievements": "2023-05-11T13:11:21.1427927+00:00"
 }

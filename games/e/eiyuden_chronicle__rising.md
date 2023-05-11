@@ -44,12 +44,12 @@ Number of Ratings: 48  (23.09.2022)
 | No Treasure Left Behind | 13.00% | ~86 |
 | Sommelier | 12.00% | ~80 |
 | One-Hundred Resident Record | 11.00% | ~73 |
+| A Local Hero | 11.00% | ~73 |
 | Champion of the Great Forest | 11.00% | ~73 |
-| A Local Hero | 10.00% | ~66 |
+| Gourmand | 10.00% | ~66 |
 | Champion of the Quarry | 10.00% | ~66 |
 | Champion of the Lava Ruins | 10.00% | ~66 |
 | No One Better | 9.00% | ~60 |
-| Gourmand | 9.00% | ~60 |
 | Accessorizer | 9.00% | ~60 |
 | Champion of the Snowpeak | 9.00% | ~60 |
 | Full Force - CJ | 8.00% | ~53 |

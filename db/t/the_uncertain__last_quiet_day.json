@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.46,
   "EosHistory": [
@@ -80,6 +80,11 @@
     {
       "Time": "2023-05-11T07:05:22.7361785+00:00",
       "NumProgressed": 433,
+      "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-11T13:11:20.921139+00:00",
+      "NumProgressed": 434,
       "NumCompleted": 15
     }
   ],
@@ -180,7 +185,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -212,7 +217,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "LUCKY_DOG",
@@ -252,7 +257,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "PERFECT_HEARING",
@@ -292,7 +297,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "SILENT",
@@ -347,7 +352,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 15
     }
   ],
@@ -355,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-11T12:04:58.2927534+00:00",
+  "LastChanged_Achievements": "2023-05-11T13:11:20.9211385+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:58.4087907+00:00",
-  "LastUpdate_Ratings": "2023-05-11T11:58:21.463251+00:00",
-  "LastUpdate_Achievements": "2023-05-11T12:04:58.2927763+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:04:40.867959+00:00",
+  "LastUpdate_Achievements": "2023-05-11T13:11:20.9211601+00:00"
 }

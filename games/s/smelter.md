@@ -56,7 +56,7 @@
 | With a Little Help from My Friends | 10.00% | ~3 |
 | The More the Merrier | 10.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 291)  
+Progressed: 30 (Ranked 292)  
 Completed: 3 (10.00%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |

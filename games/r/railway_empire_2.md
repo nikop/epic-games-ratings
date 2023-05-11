@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Apprentice | 67.00% | ~4 |
 | Departure | 67.00% | ~4 |
 | A new Journey | 67.00% | ~4 |
 | We brake for nobody | 67.00% | ~4 |
 | Poor Devil | 67.00% | ~4 |
 | Mystery Tour | 67.00% | ~4 |
 | Travel Company | 67.00% | ~4 |
-| Apprentice | 50.00% | ~3 |
 | From X to Y | 50.00% | ~3 |
 | Full Steam ahead | 50.00% | ~3 |
 | Country Bumpkin | 50.00% | ~3 |

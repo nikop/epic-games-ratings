@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2411,
+  "EOS_Progressed": 2412,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -1210,6 +1210,11 @@
       "Time": "2023-05-11T10:05:16.9260152+00:00",
       "NumProgressed": 2411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T13:11:20.4975659+00:00",
+      "NumProgressed": 2412,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1229,7 +1234,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "11",
@@ -1243,9 +1248,9 @@
       "ID": "12",
       "SetID": "9p3jgda",
       "Name": "TRAINING HARD",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 145
     },
     {
       "ID": "13",
@@ -1261,7 +1266,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "15",
@@ -1381,7 +1386,7 @@
       "Name": "PRO",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "7",
@@ -1412,13 +1417,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2411,
+      "Progressed": 2412,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-11T12:04:57.8763555+00:00",
+  "LastChanged_Achievements": "2023-05-11T13:11:20.4975653+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-11T11:58:30.4117772+00:00",
-  "LastUpdate_Achievements": "2023-05-11T12:04:57.8763802+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:04:48.2463796+00:00",
+  "LastUpdate_Achievements": "2023-05-11T13:11:20.4975899+00:00"
 }

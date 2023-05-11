@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2244,18 +2244,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6596,
       "NumberOfAwardsMax": 1627
+    },
+    {
+      "Time": "2023-05-11T13:04:20.1274117+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6598,
+      "NumberOfAwardsMax": 1629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6596,
-  "NumberOfAwardsMax": 1627,
+  "NumberOfAwards": 6598,
+  "NumberOfAwardsMax": 1629,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1627
+      "Count": 1629
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2318,9 +2324,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8761,
+  "EOS_Progressed": 8763,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3278,6 +3284,11 @@
       "Time": "2023-05-11T10:05:25.5787834+00:00",
       "NumProgressed": 8761,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T13:11:29.3885752+00:00",
+      "NumProgressed": 8763,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3289,7 +3300,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "02_BurningCity",
@@ -3297,7 +3308,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -3313,7 +3324,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -3657,7 +3668,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "49_Flame",
@@ -4216,21 +4227,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7543,
+      "Progressed": 7545,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8761,
+      "Progressed": 8763,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-11T01:57:32.0492108+00:00",
-  "LastChanged_Achievements": "2023-05-11T12:05:06.9228877+00:00",
+  "LastChanged": "2023-05-11T13:04:20.1274115+00:00",
+  "LastChanged_Achievements": "2023-05-11T13:11:29.3885747+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-11T11:57:59.2302865+00:00",
-  "LastUpdate_Achievements": "2023-05-11T12:05:06.9230665+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:04:20.1274123+00:00",
+  "LastUpdate_Achievements": "2023-05-11T13:11:29.3887277+00:00"
 }

@@ -30,6 +30,7 @@ Rating: 3.61 (Ranked 917)
 | Scientist | 5.00% | ~48 |
 | Milestone collector | 4.00% | ~38 |
 | Background Story | 3.00% | ~29 |
+| Challenger | 3.00% | ~29 |
 | Frostfire Liberator | 3.00% | ~29 |
 | Hunter | 3.00% | ~29 |
 | Mastery | 3.00% | ~29 |
@@ -37,7 +38,6 @@ Rating: 3.61 (Ranked 917)
 | The Expeditioner | 3.00% | ~29 |
 | The power of Awakening | 3.00% | ~29 |
 | Ancient Knowledge | 2.00% | ~19 |
-| Challenger | 2.00% | ~19 |
 | Doing My Part | 2.00% | ~19 |
 | Here We Go Again | 2.00% | ~19 |
 | How Do You Turn This On? | 2.00% | ~19 |

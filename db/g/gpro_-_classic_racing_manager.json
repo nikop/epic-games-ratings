@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36,6 +36,11 @@
       "Time": "2023-05-10T21:03:16.454895+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T13:09:21.2120044+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -45,9 +50,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "76k7b7p",
       "Name": "First taste",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -109,9 +114,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -197,9 +202,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "76k7b7p",
       "Name": "Wannabe",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -253,17 +258,17 @@
       "ID": "ACHIEVEMENT_197",
       "SetID": "76k7b7p",
       "Name": "Loyalty",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_198",
       "SetID": "76k7b7p",
       "Name": "Hero",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_199",
@@ -285,9 +290,9 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -549,9 +554,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "76k7b7p",
       "Name": "No brakes",
-      "Percentage": 0,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -733,9 +738,9 @@
       "ID": "ACHIEVEMENT_305",
       "SetID": "76k7b7p",
       "Name": "Shepherd",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_306",
@@ -981,9 +986,9 @@
       "ID": "ACHIEVEMENT_352",
       "SetID": "76k7b7p",
       "Name": "Tutorial master",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_353",
@@ -1342,14 +1347,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-11T12:02:23.3717485+00:00",
+  "LastChanged_Achievements": "2023-05-11T13:09:21.2120038+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:34.2073731+00:00",
-  "LastUpdate_Ratings": "2023-05-11T11:56:59.3669442+00:00",
-  "LastUpdate_Achievements": "2023-05-11T12:02:23.3720824+00:00"
+  "LastUpdate_Ratings": "2023-05-11T13:03:22.5835388+00:00",
+  "LastUpdate_Achievements": "2023-05-11T13:09:21.2123068+00:00"
 }

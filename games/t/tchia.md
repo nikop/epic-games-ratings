@@ -12,8 +12,8 @@ Rating: 4.77 (Ranked 103)
 | Body and Soul | 10.00% | ~566 |
 | Ahem Ahem | 9.00% | ~509 |
 | Audiophile | 7.00% | ~396 |
-| Clay Pigeon | 6.00% | ~339 |
-| Soul-Canon | 6.00% | ~339 |
+| Clay Pigeon | 6.00% | ~340 |
+| Soul-Canon | 6.00% | ~340 |
 | Historian | 5.00% | ~283 |
 | Iconoclast | 5.00% | ~283 |
 | Shredder | 5.00% | ~283 |
@@ -27,7 +27,7 @@ Rating: 4.77 (Ranked 103)
 | Ça de Wizz! | 1.00% | ~57 |
 | Thing | 1.00% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,656 (Ranked 116)  
+Progressed: 5,659 (Ranked 116)  
 Completed: 20 (0.35%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 20 (0.35%) (Ranked 115)
 | 2023-05-08 | 5,614 | 20 |
 | 2023-05-09 | 5,635 | 20 |
 | 2023-05-10 | 5,648 | 20 |
-| 2023-05-11 | 5,656 | 20 |
+| 2023-05-11 | 5,659 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

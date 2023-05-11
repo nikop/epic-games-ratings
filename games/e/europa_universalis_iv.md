@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,055 |
-| That's a Grand Army | 8.00% | ~2,716 |
-| That is mine! | 8.00% | ~2,716 |
-| Victorious! | 8.00% | ~2,716 |
-| Brothers in Arms | 6.00% | ~2,037 |
-| That's a Grand Navy | 6.00% | ~2,037 |
-| Seriously?! | 6.00% | ~2,037 |
-| For the Glory | 5.00% | ~1,697 |
-| Cold War | 4.00% | ~1,358 |
-| True Catholic | 4.00% | ~1,358 |
-| Defender of the Faith | 3.00% | ~1,018 |
-| It's all about the money | 3.00% | ~1,018 |
-| Respected | 3.00% | ~1,018 |
+| Until death do us apart | 9.00% | ~3,058 |
+| That's a Grand Army | 8.00% | ~2,718 |
+| That is mine! | 8.00% | ~2,718 |
+| Victorious! | 8.00% | ~2,718 |
+| Brothers in Arms | 6.00% | ~2,038 |
+| That's a Grand Navy | 6.00% | ~2,038 |
+| Seriously?! | 6.00% | ~2,038 |
+| For the Glory | 5.00% | ~1,699 |
+| Cold War | 4.00% | ~1,359 |
+| True Catholic | 4.00% | ~1,359 |
+| Defender of the Faith | 3.00% | ~1,019 |
+| It's all about the money | 3.00% | ~1,019 |
+| Respected | 3.00% | ~1,019 |
 | Blockader | 2.00% | ~679 |
 | Combined Arms | 2.00% | ~679 |
 | Double the Love | 2.00% | ~679 |
@@ -29,14 +29,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~679 |
 | Total Control | 2.00% | ~679 |
 | Truly Divine Ruler | 2.00% | ~679 |
-| Agressive Expander | 1.00% | ~339 |
-| All That's Thine Shall Be Mine | 1.00% | ~339 |
-| Azur semé de lis or | 1.00% | ~339 |
-| Bright Spark | 1.00% | ~339 |
-| City of Cities | 1.00% | ~339 |
-| Factionalism | 1.00% | ~339 |
-| A Golden Empire | 1.00% | ~339 |
-| My armies are invincible! | 1.00% | ~339 |
+| Agressive Expander | 1.00% | ~340 |
+| All That's Thine Shall Be Mine | 1.00% | ~340 |
+| Azur semé de lis or | 1.00% | ~340 |
+| Bright Spark | 1.00% | ~340 |
+| City of Cities | 1.00% | ~340 |
+| Factionalism | 1.00% | ~340 |
+| A Golden Empire | 1.00% | ~340 |
+| My armies are invincible! | 1.00% | ~340 |
 | Isn't this the way to India? | 0.80% | ~272 |
 | The Five Colonies | 0.80% | ~272 |
 | The Emperors new clothes | 0.70% | ~238 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,949 (Ranked 81)  
+Progressed: 33,973 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 33,949 | 0 |
+| 2023-05-11 | 33,973 | 0 |
 ## Awards
 Max (Educational): 5,206  (Ranked 60)  
 Sum: 43,050 (Ranked 27)  

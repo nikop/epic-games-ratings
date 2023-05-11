@@ -34,9 +34,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Deadly Venom | 0.50% | ~61 |
 | A Touch of Acumen | 0.50% | ~61 |
 | Muk Yan Master | 0.40% | ~2,811 |
+| Tiger on Fire | 0.40% | ~2,811 |
 | Qi Gong: Mind | 0.40% | ~2,811 |
 | I know Kung-Fu | 0.40% | ~2,811 |
-| Tiger on Fire | 0.30% | ~2,108 |
 | Source of Flying Daggers | 0.30% | ~2,108 |
 | Iron Money | 0.30% | ~2,108 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,108 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,808 (Ranked 15)  
-Completed: 12,720 (1.81%) (Ranked 62)  
+Progressed: 702,809 (Ranked 15)  
+Completed: 12,721 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,10 +78,10 @@ Completed: 12,720 (1.81%) (Ranked 62)
 | 2023-05-08 | 702,730 | 12,716 |
 | 2023-05-09 | 702,765 | 12,718 |
 | 2023-05-10 | 702,799 | 12,720 |
-| 2023-05-11 | 702,808 | 12,720 |
+| 2023-05-11 | 702,809 | 12,721 |
 ## Awards
 Max (Great Boss Battles): 6,046  (Ranked 53)  
-Sum: 10,261 (Ranked 77)  
+Sum: 10,263 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +92,7 @@ Diff (max vs sum): -24
 | This game is Extremely Fun | 493 |
 | This game has Amazing Storytelling | 486 |
 | This game is Highly Recommended | 473 |
-| This game has Amazing Characters | 468 |
+| This game has Amazing Characters | 470 |
 | This game has Unique Visuals | 449 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 344 |
@@ -215,4 +215,4 @@ Diff (max vs sum): -24
 | 2023-05-08 | 4.82 | - | 6,041 | 10,245 |
 | 2023-05-09 | 4.82 | - | 6,044 | 10,252 |
 | 2023-05-10 | 4.82 | - | 6,046 | 10,258 |
-| 2023-05-11 | 4.82 | - | 6,046 | 10,261 |
+| 2023-05-11 | 4.82 | - | 6,046 | 10,263 |
