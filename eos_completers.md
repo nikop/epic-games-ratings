@@ -13,7 +13,7 @@
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 13 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
+| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 15 | [Remains](games/r/remains.md) | 11.11% |
 | 16 | [Smelter](games/s/smelter.md) | 10.00% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
@@ -26,7 +26,7 @@
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.23% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.22% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
