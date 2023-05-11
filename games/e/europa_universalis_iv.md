@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,046 |
-| That's a Grand Army | 8.00% | ~2,708 |
-| That is mine! | 8.00% | ~2,708 |
-| Victorious! | 8.00% | ~2,708 |
-| Brothers in Arms | 6.00% | ~2,031 |
-| That's a Grand Navy | 6.00% | ~2,031 |
-| Seriously?! | 6.00% | ~2,031 |
-| For the Glory | 5.00% | ~1,692 |
-| Cold War | 4.00% | ~1,354 |
-| True Catholic | 4.00% | ~1,354 |
+| Until death do us apart | 9.00% | ~3,048 |
+| That's a Grand Army | 8.00% | ~2,710 |
+| That is mine! | 8.00% | ~2,710 |
+| Victorious! | 8.00% | ~2,710 |
+| Brothers in Arms | 6.00% | ~2,032 |
+| That's a Grand Navy | 6.00% | ~2,032 |
+| Seriously?! | 6.00% | ~2,032 |
+| For the Glory | 5.00% | ~1,694 |
+| Cold War | 4.00% | ~1,355 |
+| True Catholic | 4.00% | ~1,355 |
 | Defender of the Faith | 3.00% | ~1,016 |
 | It's all about the money | 3.00% | ~1,016 |
 | Respected | 3.00% | ~1,016 |
@@ -29,26 +29,27 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~677 |
 | Total Control | 2.00% | ~677 |
 | Truly Divine Ruler | 2.00% | ~677 |
-| Agressive Expander | 1.00% | ~338 |
-| All That's Thine Shall Be Mine | 1.00% | ~338 |
-| Azur semé de lis or | 1.00% | ~338 |
-| Bright Spark | 1.00% | ~338 |
-| City of Cities | 1.00% | ~338 |
-| Factionalism | 1.00% | ~338 |
-| A Golden Empire | 1.00% | ~338 |
-| My armies are invincible! | 1.00% | ~338 |
+| Agressive Expander | 1.00% | ~339 |
+| All That's Thine Shall Be Mine | 1.00% | ~339 |
+| Azur semé de lis or | 1.00% | ~339 |
+| Bright Spark | 1.00% | ~339 |
+| City of Cities | 1.00% | ~339 |
+| Factionalism | 1.00% | ~339 |
+| A Golden Empire | 1.00% | ~339 |
+| My armies are invincible! | 1.00% | ~339 |
 | Isn't this the way to India? | 0.80% | ~271 |
 | The Five Colonies | 0.80% | ~271 |
 | The Emperors new clothes | 0.70% | ~237 |
 | Market Control | 0.70% | ~237 |
 | This navy can take it all | 0.70% | ~237 |
 | Down Under | 0.60% | ~203 |
+| Trustworthy | 0.60% | ~203 |
 | At every continent | 0.50% | ~169 |
 | Early-Modern Warfare | 0.50% | ~169 |
 | Electable! | 0.50% | ~169 |
 | Time Bandit | 0.50% | ~169 |
-| Trustworthy | 0.50% | ~169 |
 | All belongs to Mother Russia | 0.40% | ~135 |
+| Live Long and Prosper | 0.40% | ~135 |
 | One Family to Rule them All | 0.40% | ~135 |
 | Populists in Government | 0.40% | ~135 |
 | The Continuation of Diplomacy | 0.40% | ~135 |
@@ -65,7 +66,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.30% | ~102 |
 | Grand Duchy | 0.30% | ~102 |
 | In the Name of the Father | 0.30% | ~102 |
-| Live Long and Prosper | 0.30% | ~102 |
 | One Night in Paris | 0.30% | ~102 |
 | Ruina Imperii | 0.30% | ~102 |
 | Tear Down This Wall | 0.30% | ~102 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,850 (Ranked 81)  
+Progressed: 33,871 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 33,850 | 0 |
+| 2023-05-11 | 33,871 | 0 |
 ## Awards
 Max (Educational): 5,201  (Ranked 60)  
 Sum: 43,041 (Ranked 27)  

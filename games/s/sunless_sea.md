@@ -6,10 +6,10 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,362 |
+| Sink Beneath the Waves | 36.00% | ~10,363 |
 | Sweet Sorrow | 18.00% | ~5,181 |
-| Rules the Waves | 17.00% | ~4,893 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,605 |
+| Rules the Waves | 17.00% | ~4,894 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,606 |
 | Rival | 14.00% | ~4,030 |
 | Correspondent | 12.00% | ~3,454 |
 | Lose Your Mind | 12.00% | ~3,454 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves. Again. | 5.00% | ~1,439 |
 | Zee Fever | 5.00% | ~1,439 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,151 |
-| Storm's Curse | 3.00% | ~863 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~863 |
-| Come Closer | 3.00% | ~863 |
+| Storm's Curse | 3.00% | ~864 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~864 |
+| Come Closer | 3.00% | ~864 |
 | Roaring Rise | 2.00% | ~576 |
 | I am the Captain of my Soul | 2.00% | ~576 |
 | A buoyant escape | 1.00% | ~288 |
@@ -49,7 +49,7 @@ Number of Ratings: 401  (23.09.2022)
 | Leviathan | 0.90% | ~259 |
 | Depth charge | 0.90% | ~259 |
 | What lies beneath | 0.80% | ~230 |
-| Stone's Curse | 0.70% | ~201 |
+| Stone's Curse | 0.70% | ~202 |
 | Five Years at Zee | 0.50% | ~144 |
 | The Lady's Parlour | 0.20% | ~58 |
 | A Past Wreathed in Shadows | 0.20% | ~58 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~29 |
 | Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,783 (Ranked 84)  
+Progressed: 28,786 (Ranked 84)  
 Completed: 3 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 3 (0.01%) (Ranked 190)
 | 2023-05-08 | 28,605 | 3 |
 | 2023-05-09 | 28,691 | 3 |
 | 2023-05-10 | 28,762 | 3 |
-| 2023-05-11 | 28,783 | 3 |
+| 2023-05-11 | 28,786 | 3 |
 ## Awards
 Max (Character Customization): 205  (Ranked 255)  
 Sum: 274 (Ranked 331)  

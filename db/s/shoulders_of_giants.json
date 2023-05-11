@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1877,
+  "EOS_Progressed": 1878,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2023-05-11T07:05:41.3926115+00:00",
       "NumProgressed": 1877,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-11T08:05:46.4962431+00:00",
+      "NumProgressed": 1878,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -250,7 +255,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "deal_damage",
@@ -266,7 +271,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "defeat_tree_dummy",
@@ -274,7 +279,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "fail_planet",
@@ -282,7 +287,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "piercing_beam",
@@ -314,7 +319,7 @@
       "Name": "Frogbot",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "save_planet_bestfriend",
@@ -330,7 +335,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "stick_decoy",
@@ -344,9 +349,9 @@
       "ID": "stun_enemies",
       "SetID": "236b9eg",
       "Name": "Fun in the Stun",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1052
     },
     {
       "ID": "trash_truck",
@@ -361,7 +366,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1877,
+      "Progressed": 1878,
       "Completed": 8
     }
   ],
@@ -369,8 +374,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-11T07:05:41.392611+00:00",
+  "LastChanged_Achievements": "2023-05-11T08:05:46.4962428+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
-  "LastUpdate_Ratings": "2023-05-11T07:00:06.7400607+00:00",
-  "LastUpdate_Achievements": "2023-05-11T07:05:41.3926374+00:00"
+  "LastUpdate_Ratings": "2023-05-11T07:59:44.9281936+00:00",
+  "LastUpdate_Achievements": "2023-05-11T08:05:46.4962603+00:00"
 }

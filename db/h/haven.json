@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -283,6 +283,11 @@
       "Time": "2023-05-11T06:06:08.5956771+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-11T08:05:38.4199793+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -318,7 +323,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "13",
@@ -358,7 +363,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "18",
@@ -366,7 +371,7 @@
       "Name": "Like new!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "19",
@@ -500,9 +505,9 @@
       "ID": "6",
       "SetID": "n50no0",
       "Name": "Life\u2019s short, ride long",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 525
     },
     {
       "ID": "7",
@@ -518,7 +523,7 @@
       "Name": "Over my dead body",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "9",
@@ -533,15 +538,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-11T07:05:33.2279422+00:00",
+  "LastChanged_Achievements": "2023-05-11T08:05:38.419979+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:42.3936713+00:00",
-  "LastUpdate_Ratings": "2023-05-11T06:59:28.8472633+00:00",
-  "LastUpdate_Achievements": "2023-05-11T07:05:33.2279887+00:00"
+  "LastUpdate_Ratings": "2023-05-11T07:59:04.8128859+00:00",
+  "LastUpdate_Achievements": "2023-05-11T08:05:38.4199977+00:00"
 }

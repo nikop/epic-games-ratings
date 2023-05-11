@@ -7,20 +7,20 @@ Number of Ratings: 398  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 78.00% | ~2,164 |
-| Un-Lonely Island | 50.00% | ~1,387 |
+| Un-Lonely Island | 50.00% | ~1,388 |
 | The Beginning of a Servantship | 46.00% | ~1,276 |
 | Trade Is My Trait | 38.00% | ~1,054 |
-| Number 18 | 26.00% | ~721 |
+| Number 18 | 26.00% | ~722 |
 | We Don't Have Time For That | 20.00% | ~555 |
-| Caribbean Comrade | 18.00% | ~499 |
-| The Legend of Langostino | 18.00% | ~499 |
-| The Governator | 18.00% | ~499 |
+| Caribbean Comrade | 18.00% | ~500 |
+| The Legend of Langostino | 18.00% | ~500 |
+| The Governator | 18.00% | ~500 |
 | The Dreamer of Dreams | 17.00% | ~472 |
 | Go Sovereigns! | 12.00% | ~333 |
 | For Science! | 12.00% | ~333 |
 | Happy Ending? | 11.00% | ~305 |
-| Of Seals And Men | 10.00% | ~277 |
-| Shackadelic | 10.00% | ~277 |
+| Of Seals And Men | 10.00% | ~278 |
+| Shackadelic | 10.00% | ~278 |
 | Double Trouble | 9.00% | ~250 |
 | Firestarter | 9.00% | ~250 |
 | Make Tropico Great Again! | 9.00% | ~250 |
@@ -38,16 +38,16 @@ Number of Ratings: 398  (23.09.2022)
 | Narcissist | 3.00% | ~83 |
 | Promising Endeavors | 3.00% | ~83 |
 | Terraformer | 3.00% | ~83 |
-| Chain Gang | 2.00% | ~55 |
-| From Knight to Little Duck | 2.00% | ~55 |
-| One Does Not Simply Stage A Coup | 2.00% | ~55 |
-| Sublime Subliminal Supreme | 2.00% | ~55 |
-| Teamplayer | 2.00% | ~55 |
-| Curse of the Mummy | 2.00% | ~55 |
+| Chain Gang | 2.00% | ~56 |
+| From Knight to Little Duck | 2.00% | ~56 |
+| One Does Not Simply Stage A Coup | 2.00% | ~56 |
+| Sublime Subliminal Supreme | 2.00% | ~56 |
+| Teamplayer | 2.00% | ~56 |
+| Curse of the Mummy | 2.00% | ~56 |
 | Survivor | 1.00% | ~28 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,774 (Ranked 133)  
+Progressed: 2,775 (Ranked 133)  
 Completed: 1 (0.04%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 1 (0.04%) (Ranked 175)
 | 2023-05-08 | 2,744 | 1 |
 | 2023-05-09 | 2,759 | 1 |
 | 2023-05-10 | 2,769 | 1 |
-| 2023-05-11 | 2,774 | 1 |
+| 2023-05-11 | 2,775 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 315)  
 Sum: 749 (Ranked 253)  

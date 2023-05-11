@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So far so good... | 77.00% | ~10 |
+| So far so good... | 85.00% | ~11 |
 | Getting somewhere | 77.00% | ~10 |
 | Poor things... | 54.00% | ~7 |
 | Top notch! | 54.00% | ~7 |

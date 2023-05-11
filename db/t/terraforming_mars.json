@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2146,9 +2146,9 @@
       "Count": 229
     }
   ],
-  "EOS_Progressed": 56484,
+  "EOS_Progressed": 56486,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 1358,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3966,6 +3966,11 @@
       "Time": "2023-05-11T06:05:27.3759245+00:00",
       "NumProgressed": 56484,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-05-11T08:05:05.315198+00:00",
+      "NumProgressed": 56486,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 30,
@@ -4025,7 +4030,7 @@
       "Name": "Biggest Reward",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9037
+      "UsersEstimate": 9038
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -4041,7 +4046,7 @@
       "Name": "Variety Expert",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5649
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -4065,7 +4070,7 @@
       "Name": "Changing the Planet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 16945
+      "UsersEstimate": 16946
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -4113,7 +4118,7 @@
       "Name": "Sojourner",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 16380
+      "UsersEstimate": 16381
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -4129,7 +4134,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 13556
+      "UsersEstimate": 13557
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -4145,7 +4150,7 @@
       "Name": "Money money",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9602
+      "UsersEstimate": 9603
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4153,7 +4158,7 @@
       "Name": "Final touch",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 21464
+      "UsersEstimate": 21465
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -4216,15 +4221,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 56484,
+      "Progressed": 56486,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-05-08T12:00:30.9844199+00:00",
-  "LastChanged_Achievements": "2023-05-11T07:05:00.7176359+00:00",
+  "LastChanged_Achievements": "2023-05-11T08:05:05.3151975+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:28.5038252+00:00",
-  "LastUpdate_Ratings": "2023-05-11T06:58:23.2462465+00:00",
-  "LastUpdate_Achievements": "2023-05-11T07:05:00.7176716+00:00"
+  "LastUpdate_Ratings": "2023-05-11T07:57:57.3596559+00:00",
+  "LastUpdate_Achievements": "2023-05-11T08:05:05.3152282+00:00"
 }

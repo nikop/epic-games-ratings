@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -4328,10 +4328,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 15001,
       "NumberOfAwardsMax": 2276
+    },
+    {
+      "Time": "2023-05-11T07:58:00.6076432+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 15007,
+      "NumberOfAwardsMax": 2276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15001,
+  "NumberOfAwards": 15007,
   "NumberOfAwardsMax": 2276,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -4351,7 +4357,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2166
+      "Count": 2172
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4389,8 +4395,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-05-10T22:58:39.9951601+00:00",
+  "LastChanged": "2023-05-11T07:58:00.607643+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:32.1437705+00:00",
-  "LastUpdate_Ratings": "2023-05-11T06:58:26.2901394+00:00",
-  "LastUpdate_Achievements": "2023-05-11T07:03:10.3470891+00:00"
+  "LastUpdate_Ratings": "2023-05-11T07:58:00.6076437+00:00",
+  "LastUpdate_Achievements": "2023-05-11T08:03:31.9298286+00:00"
 }

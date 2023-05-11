@@ -10,7 +10,7 @@ Rating: 4.46 (Ranked 590)
 | Fixer I | 10.00% | ~24,836 |
 | A week in Century City | 10.00% | ~24,836 |
 | The Wait | 7.00% | ~17,385 |
-| Green thumb I | 6.00% | ~14,901 |
+| Green thumb I | 6.00% | ~14,902 |
 | Well-oiled machine | 5.00% | ~12,418 |
 | Saver I | 5.00% | ~12,418 |
 | Cleaning Company | 5.00% | ~12,418 |
@@ -36,7 +36,7 @@ Rating: 4.46 (Ranked 590)
 | Bricklayer | 1.00% | ~2,484 |
 | Run the Economy | 1.00% | ~2,484 |
 | Committed Relationship | 0.80% | ~1,987 |
-| Number 1 | 0.70% | ~1,738 |
+| Number 1 | 0.70% | ~1,739 |
 | Interior designer | 0.60% | ~1,490 |
 | The Gamble | 0.50% | ~1,242 |
 | The Descent | 0.50% | ~1,242 |
@@ -62,7 +62,7 @@ Rating: 4.46 (Ranked 590)
 | Capitalist III | 0.10% | ~248 |
 | Hell Is You | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,357 (Ranked 39)  
+Progressed: 248,359 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.00%) (Ranked 198)
 | 2023-05-08 | 248,200 | 1 |
 | 2023-05-09 | 248,270 | 1 |
 | 2023-05-10 | 248,340 | 1 |
-| 2023-05-11 | 248,357 | 1 |
+| 2023-05-11 | 248,359 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 477)  
 Sum: 21 (Ranked 478)  

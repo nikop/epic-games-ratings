@@ -26,16 +26,16 @@
 | Nightmare Fuel | 35.00% | ~203 |
 | Take Heart | 35.00% | ~203 |
 | The Guardian | 35.00% | ~203 |
+| Stronger! | 34.00% | ~197 |
 | Ancient Wisdom | 33.00% | ~191 |
 | Frog Facts! | 33.00% | ~191 |
 | All That Glistens | 33.00% | ~191 |
-| Stronger! | 33.00% | ~191 |
-| It's Pointy! | 32.00% | ~186 |
+| It's Pointy! | 33.00% | ~191 |
 | Spellbound | 31.00% | ~180 |
 | All Skilled Up! | 31.00% | ~180 |
 | Extinct Again! | 30.00% | ~174 |
-| Bird of Prey | 29.00% | ~168 |
-| Stardust | 29.00% | ~168 |
+| Bird of Prey | 30.00% | ~174 |
+| Stardust | 30.00% | ~174 |
 | Heartbreaker | 29.00% | ~168 |
 | Kidnapped! | 29.00% | ~168 |
 | Pull the Plug | 28.00% | ~162 |

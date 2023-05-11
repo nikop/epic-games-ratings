@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -704,9 +704,9 @@
       "ID": "ID_ACHIEV_39",
       "SetID": "98bke8c",
       "Name": "Homo Machinalis",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 84
     },
     {
       "ID": "ID_ACHIEV_40",
@@ -952,8 +952,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-09T23:58:01.2131401+00:00",
-  "LastChanged_Achievements": "2023-05-11T07:05:12.5627434+00:00",
+  "LastChanged_Achievements": "2023-05-11T08:05:17.3149873+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.2959444+00:00",
-  "LastUpdate_Ratings": "2023-05-11T06:58:11.3003507+00:00",
-  "LastUpdate_Achievements": "2023-05-11T07:05:12.5628235+00:00"
+  "LastUpdate_Ratings": "2023-05-11T07:57:45.0641778+00:00",
+  "LastUpdate_Achievements": "2023-05-11T08:05:17.3150606+00:00"
 }
