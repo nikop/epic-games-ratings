@@ -5,27 +5,27 @@ Rating: 4.74 (Ranked 140)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 93.00% | ~9,521 |
-| Newcomers | 79.00% | ~8,088 |
-| A Burden of Blood | 74.00% | ~7,576 |
+| Under a New Sun | 93.00% | ~9,522 |
+| Newcomers | 79.00% | ~8,089 |
+| A Burden of Blood | 73.00% | ~7,474 |
 | Protector's Duty | 70.00% | ~7,167 |
-| Alchemist | 68.00% | ~6,962 |
-| In our Wake | 67.00% | ~6,859 |
-| Leaving all Behind | 64.00% | ~6,552 |
-| Felons | 61.00% | ~6,245 |
+| Alchemist | 68.00% | ~6,963 |
+| In our Wake | 67.00% | ~6,860 |
+| Leaving all Behind | 64.00% | ~6,553 |
+| Felons | 61.00% | ~6,246 |
 | A Sea of Promises | 60.00% | ~6,143 |
-| Tales and Revelations | 56.00% | ~5,733 |
-| Bloodline | 51.00% | ~5,221 |
+| Tales and Revelations | 56.00% | ~5,734 |
+| Bloodline | 51.00% | ~5,222 |
 | The Cradle of Centuries | 47.00% | ~4,812 |
-| The Life We Deserve | 45.00% | ~4,607 |
-| Night guard | 43.00% | ~4,402 |
-| Nothing Left | 38.00% | ~3,890 |
+| The Life We Deserve | 45.00% | ~4,608 |
+| Night guard | 43.00% | ~4,403 |
+| Nothing Left | 38.00% | ~3,891 |
 | Healing our Wounds | 36.00% | ~3,686 |
 | Dying Sun | 32.00% | ~3,276 |
 | Improved crossbow | 26.00% | ~2,662 |
 | King Hugo | 23.00% | ~2,355 |
 | Mercy | 23.00% | ~2,355 |
-| Perfect shot | 22.00% | ~2,252 |
+| Perfect shot | 22.00% | ~2,253 |
 | Effective instruments | 21.00% | ~2,150 |
 | Perfect throw | 21.00% | ~2,150 |
 | Knights! | 19.00% | ~1,945 |
@@ -41,7 +41,7 @@ Rating: 4.74 (Ranked 140)
 | Explorer | 1.00% | ~102 |
 | Malignant | 1.00% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,238 (Ranked 105)  
+Progressed: 10,239 (Ranked 105)  
 Completed: 31 (0.30%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 31 (0.30%) (Ranked 125)
 | 2023-05-08 | 10,222 | 30 |
 | 2023-05-09 | 10,228 | 30 |
 | 2023-05-10 | 10,235 | 31 |
-| 2023-05-11 | 10,238 | 31 |
+| 2023-05-11 | 10,239 | 31 |
 ## Awards
 Max (Great Boss Battles): 400  (Ranked 199)  
 Sum: 556 (Ranked 286)  

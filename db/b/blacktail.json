@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -243,6 +243,11 @@
     {
       "Time": "2023-05-10T19:06:40.8064401+00:00",
       "NumProgressed": 332,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T10:05:14.8696743+00:00",
+      "NumProgressed": 333,
       "NumCompleted": 0
     }
   ],
@@ -471,7 +476,7 @@
       "Name": "Tooth fairy",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Toxic",
@@ -510,7 +515,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 0
     }
   ],
@@ -518,8 +523,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-11T09:05:33.0966825+00:00",
+  "LastChanged_Achievements": "2023-05-11T10:05:14.8696738+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:13.2811944+00:00",
-  "LastUpdate_Ratings": "2023-05-11T08:57:48.2430993+00:00",
-  "LastUpdate_Achievements": "2023-05-11T09:05:33.0967058+00:00"
+  "LastUpdate_Ratings": "2023-05-11T09:57:51.7308159+00:00",
+  "LastUpdate_Achievements": "2023-05-11T10:05:14.8696987+00:00"
 }

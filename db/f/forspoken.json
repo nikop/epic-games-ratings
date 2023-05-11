@@ -230,7 +230,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37849,
+  "EOS_Progressed": 37850,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
@@ -1480,6 +1480,11 @@
       "Time": "2023-05-11T09:05:37.1524064+00:00",
       "NumProgressed": 37849,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T10:05:18.3165614+00:00",
+      "NumProgressed": 37850,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1555,7 +1560,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -1643,7 +1648,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "CUFF_ATTACK",
@@ -1667,7 +1672,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "JUSTCOUNTER",
@@ -1914,22 +1919,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37849,
+      "Progressed": 37850,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2686,
-      "Completed": 2686
+      "Progressed": 2687,
+      "Completed": 2687
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-11T09:05:37.1524057+00:00",
+  "LastChanged_Achievements": "2023-05-11T10:05:18.3165611+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-11T08:58:28.1258806+00:00",
-  "LastUpdate_Achievements": "2023-05-11T09:05:37.1524636+00:00"
+  "LastUpdate_Ratings": "2023-05-11T09:58:24.5311797+00:00",
+  "LastUpdate_Achievements": "2023-05-11T10:05:18.3166138+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 3.61 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~886 |
-| World Map | 79.00% | ~753 |
-| Temple of Eternals | 55.00% | ~524 |
+| Victor | 94.00% | ~897 |
+| World Map | 79.00% | ~754 |
+| Temple of Eternals | 55.00% | ~525 |
 | Prestigious | 52.00% | ~496 |
 | Fellowship Power | 39.00% | ~372 |
 | Guild Power | 23.00% | ~219 |
 | Prestigious x10 | 19.00% | ~181 |
-| The game is on | 16.00% | ~152 |
+| The game is on | 16.00% | ~153 |
 | Exotic Merchant | 15.00% | ~143 |
-| Dragon Clicker | 14.00% | ~133 |
-| Miner Clicker | 14.00% | ~133 |
+| Dragon Clicker | 14.00% | ~134 |
+| Miner Clicker | 14.00% | ~134 |
 | Inspection | 13.00% | ~124 |
 | Hero inspection | 12.00% | ~114 |
 | Full Party | 11.00% | ~105 |
@@ -58,9 +58,9 @@ Rating: 3.61 (Ranked 917)
 | Blueprint Upgrades | 0.50% | ~5 |
 | Crystal Mining | 0.50% | ~5 |
 | Enchanting skill | 0.50% | ~5 |
+| Lock And Load | 0.50% | ~5 |
 | The Alchemist | 0.50% | ~5 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
-| Lock And Load | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
 | Transmute | 0.40% | ~4 |
 | Tree of Life | 0.40% | ~4 |
@@ -81,7 +81,7 @@ Rating: 3.61 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 953 (Ranked 165)  
+Progressed: 954 (Ranked 165)  
 Completed: 1 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.10%) (Ranked 155)
 | 2023-05-08 | 916 | 1 |
 | 2023-05-09 | 935 | 1 |
 | 2023-05-10 | 948 | 1 |
-| 2023-05-11 | 953 | 1 |
+| 2023-05-11 | 954 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

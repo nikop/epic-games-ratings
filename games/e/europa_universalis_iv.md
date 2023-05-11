@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,050 |
-| That's a Grand Army | 8.00% | ~2,711 |
-| That is mine! | 8.00% | ~2,711 |
-| Victorious! | 8.00% | ~2,711 |
-| Brothers in Arms | 6.00% | ~2,033 |
-| That's a Grand Navy | 6.00% | ~2,033 |
-| Seriously?! | 6.00% | ~2,033 |
-| For the Glory | 5.00% | ~1,694 |
+| Until death do us apart | 9.00% | ~3,052 |
+| That's a Grand Army | 8.00% | ~2,713 |
+| That is mine! | 8.00% | ~2,713 |
+| Victorious! | 8.00% | ~2,713 |
+| Brothers in Arms | 6.00% | ~2,034 |
+| That's a Grand Navy | 6.00% | ~2,034 |
+| Seriously?! | 6.00% | ~2,034 |
+| For the Glory | 5.00% | ~1,695 |
 | Cold War | 4.00% | ~1,356 |
 | True Catholic | 4.00% | ~1,356 |
 | Defender of the Faith | 3.00% | ~1,017 |
@@ -44,11 +44,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 0.70% | ~237 |
 | Down Under | 0.60% | ~203 |
 | Trustworthy | 0.60% | ~203 |
-| At every continent | 0.50% | ~169 |
-| Early-Modern Warfare | 0.50% | ~169 |
-| Electable! | 0.50% | ~169 |
-| Time Bandit | 0.50% | ~169 |
+| At every continent | 0.50% | ~170 |
+| Early-Modern Warfare | 0.50% | ~170 |
+| Electable! | 0.50% | ~170 |
+| Time Bandit | 0.50% | ~170 |
 | All belongs to Mother Russia | 0.40% | ~136 |
+| Dude, Where's my Boat? | 0.40% | ~136 |
 | Live Long and Prosper | 0.40% | ~136 |
 | One Family to Rule them All | 0.40% | ~136 |
 | Populists in Government | 0.40% | ~136 |
@@ -60,7 +61,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Absolutely | 0.30% | ~102 |
 | All Your Trade Are Belong to Us | 0.30% | ~102 |
 | Bleed Them Dry | 0.30% | ~102 |
-| Dude, Where's my Boat? | 0.30% | ~102 |
 | Four For Trade | 0.30% | ~102 |
 | Global Hegemony | 0.30% | ~102 |
 | Grand Coalition | 0.30% | ~102 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,889 (Ranked 81)  
+Progressed: 33,907 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,16 +382,16 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 33,889 | 0 |
+| 2023-05-11 | 33,907 | 0 |
 ## Awards
-Max (Educational): 5,201  (Ranked 60)  
-Sum: 43,041 (Ranked 27)  
+Max (Educational): 5,206  (Ranked 60)  
+Sum: 43,050 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,201 |
+| This game is Educational | 5,206 |
 | This game is Highly Recommended | 4,986 |
-| This game has Challenging Combat | 4,969 |
+| This game has Challenging Combat | 4,973 |
 | This game is Extremely Fun | 4,937 |
 | This game has Diverse Characters | 4,890 |
 | This game is Relaxing | 4,851 |
@@ -516,4 +516,4 @@ Diff (max vs sum): 33
 | 2023-05-08 | 4.68 | - | 5,198 | 42,973 |
 | 2023-05-09 | 4.68 | - | 5,201 | 43,010 |
 | 2023-05-10 | 4.68 | - | 5,201 | 43,029 |
-| 2023-05-11 | 4.68 | - | 5,201 | 43,041 |
+| 2023-05-11 | 4.68 | - | 5,206 | 43,050 |
