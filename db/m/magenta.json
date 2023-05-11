@@ -1,9 +1,9 @@
 {
   "ID": "0f0b930a0f3d4fe7aece94faa58b5318",
   "Name": "Magenta",
-  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:00.3438744+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:00:17.9541864+00:00",
-  "LastUpdate_Achievements": "2023-05-11T17:01:33.6791381+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:00:26.0439921+00:00",
+  "LastUpdate_Achievements": "2023-05-11T18:01:51.8365391+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.72 (Ranked 165)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,860 |
-| No more cages! | 92.00% | ~1,801 |
+| For Demacia | 95.00% | ~1,861 |
+| No more cages! | 92.00% | ~1,802 |
 | Everfrost | 77.00% | ~1,508 |
-| Pentakill | 76.00% | ~1,488 |
-| Dark Forest | 76.00% | ~1,488 |
+| Pentakill | 76.00% | ~1,489 |
+| Dark Forest | 76.00% | ~1,489 |
 | The use of petricite | 72.00% | ~1,410 |
 | You can pet the dog | 60.00% | ~1,175 |
 | Big Helmet Bro | 34.00% | ~666 |
@@ -18,18 +18,18 @@ Rating: 4.72 (Ranked 165)
 | Thornbarrow | 32.00% | ~627 |
 | Ternmoat Headquarters | 32.00% | ~627 |
 | Cypress Glen Headquarters | 31.00% | ~607 |
-| Elemental master | 30.00% | ~587 |
+| Elemental master | 30.00% | ~588 |
 | Old friend | 26.00% | ~509 |
 | Petricite Burst | 26.00% | ~509 |
+| Whispers in the Woods I | 25.00% | ~490 |
 | Devineur | 25.00% | ~490 |
-| Whispers in the Woods I | 24.00% | ~470 |
 | Hijack | 24.00% | ~470 |
 | I chose my shackles | 22.00% | ~431 |
 | Ancient power | 22.00% | ~431 |
 | Sacred Woods | 21.00% | ~411 |
 | Capelworth | 19.00% | ~372 |
-| Little light | 18.00% | ~352 |
-| Iffighain Headquarters | 18.00% | ~352 |
+| Little light | 18.00% | ~353 |
+| Iffighain Headquarters | 18.00% | ~353 |
 | Glyndemere | 17.00% | ~333 |
 | Full equipped | 17.00% | ~333 |
 | Whispers in the Woods II | 15.00% | ~294 |
@@ -55,11 +55,11 @@ Rating: 4.72 (Ranked 165)
 | Call it 'redistribution of magic | 8.00% | ~157 |
 | Do you trust me? | 7.00% | ~137 |
 | Spellcrafting | 7.00% | ~137 |
-| The great mage rebellion starts now | 6.00% | ~117 |
+| The great mage rebellion starts now | 6.00% | ~118 |
 | Silverwing nest | 2.00% | ~39 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,958 (Ranked 142)  
+Progressed: 1,959 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.05%) (Ranked 170)
 | 2023-05-08 | 1,927 | 1 |
 | 2023-05-09 | 1,940 | 1 |
 | 2023-05-10 | 1,950 | 1 |
-| 2023-05-11 | 1,958 | 1 |
+| 2023-05-11 | 1,959 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2324,
+  "EOS_Progressed": 2325,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2023-05-11T17:06:24.2716714+00:00",
       "NumProgressed": 2324,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-11T18:06:39.4519841+00:00",
+      "NumProgressed": 2325,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 14,
@@ -640,7 +645,7 @@
       "Name": "Ancient Curse",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -648,7 +653,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -688,7 +693,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -704,15 +709,15 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
       "SetID": "4kfb9pd",
       "Name": "Mad Scientist",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 535
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_REUNION",
@@ -736,7 +741,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -751,7 +756,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2324,
+      "Progressed": 2325,
       "Completed": 89
     }
   ],
@@ -759,8 +764,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-09T21:01:08.5888479+00:00",
-  "LastChanged_Achievements": "2023-05-11T17:06:24.271671+00:00",
+  "LastChanged_Achievements": "2023-05-11T18:06:39.4519837+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.2631073+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:00:47.5037505+00:00",
-  "LastUpdate_Achievements": "2023-05-11T17:06:24.2716848+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:00:57.4313561+00:00",
+  "LastUpdate_Achievements": "2023-05-11T18:06:39.4519968+00:00"
 }

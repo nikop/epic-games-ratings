@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 27.00% | ~32,108 |
-| Get Busy Living | 17.00% | ~20,216 |
-| Samuel Norton | 10.00% | ~11,892 |
-| Spare The Rod | 5.00% | ~5,946 |
-| Wait and Hope | 4.00% | ~4,757 |
-| I May Have Found A Way Out Of Here | 4.00% | ~4,757 |
+| Stone Walls | 27.00% | ~32,117 |
+| Get Busy Living | 17.00% | ~20,222 |
+| Samuel Norton | 10.00% | ~11,895 |
+| Spare The Rod | 5.00% | ~5,948 |
+| Wait and Hope | 4.00% | ~4,758 |
+| I May Have Found A Way Out Of Here | 4.00% | ~4,758 |
 | Don't Put Me In The Dark | 3.00% | ~3,568 |
 | Iron Bars | 3.00% | ~3,568 |
-| Throw The Book At Them | 2.00% | ~2,378 |
-| D.B. Cooper | 1.00% | ~1,189 |
+| Throw The Book At Them | 2.00% | ~2,379 |
+| D.B. Cooper | 1.00% | ~1,190 |
 | Reformation | 0.60% | ~714 |
 | Crowd Control | 0.50% | ~595 |
 | Freedom | 0.40% | ~476 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~119 |
 | ... It's What You Can Prove | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,919 (Ranked 55)  
+Progressed: 118,950 (Ranked 55)  
 Completed: 4 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,10 +44,10 @@ Completed: 4 (0.00%) (Ranked 198)
 | 2023-05-08 | 117,950 | 4 |
 | 2023-05-09 | 118,310 | 4 |
 | 2023-05-10 | 118,670 | 4 |
-| 2023-05-11 | 118,919 | 4 |
+| 2023-05-11 | 118,950 | 4 |
 ## Awards
 Max (Extremely Fun): 412  (Ranked 194)  
-Sum: 3,251 (Ranked 145)  
+Sum: 3,252 (Ranked 145)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -59,7 +59,7 @@ Diff (max vs sum): 49
 | This game has Diverse Characters | 358 |
 | This game has Amazing Storytelling | 350 |
 | This game has Amazing Characters | 326 |
-| This game has a Creative Community | 256 |
+| This game has a Creative Community | 257 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -176,4 +176,4 @@ Diff (max vs sum): 49
 | 2023-05-08 | 4.61 | - | 411 | 3,244 |
 | 2023-05-09 | 4.61 | - | 412 | 3,246 |
 | 2023-05-10 | 4.61 | - | 412 | 3,248 |
-| 2023-05-11 | 4.61 | - | 412 | 3,251 |
+| 2023-05-11 | 4.61 | - | 412 | 3,252 |

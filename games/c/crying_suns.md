@@ -7,11 +7,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shutdown | 66.00% | ~302,102 |
-| Jeef Skeejj | 44.00% | ~201,401 |
+| Jeef Skeejj | 44.00% | ~201,402 |
 | Careful planning | 39.00% | ~178,515 |
 | Second Coming | 33.00% | ~151,051 |
 | Jeef Skagg | 30.00% | ~137,319 |
-| Mother | 25.00% | ~114,432 |
+| Mother | 25.00% | ~114,433 |
 | In space, no one can hear you scream | 23.00% | ~105,278 |
 | Chapter I: Echoes | 22.00% | ~100,701 |
 | Excelsior Rule | 22.00% | ~100,701 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~27,464 |
 | The Crazy Repairman | 6.00% | ~27,464 |
 | The Weasel | 6.00% | ~27,464 |
-| Kill the Doctor | 5.00% | ~22,886 |
-| Forsaken | 5.00% | ~22,886 |
-| Mercy | 5.00% | ~22,886 |
-| Jericho Rule | 5.00% | ~22,886 |
+| Kill the Doctor | 5.00% | ~22,887 |
+| Forsaken | 5.00% | ~22,887 |
+| Mercy | 5.00% | ~22,887 |
+| Jericho Rule | 5.00% | ~22,887 |
 | Geno Rule | 3.00% | ~13,732 |
 | Hammer Rule | 3.00% | ~13,732 |
 | Survivor | 2.00% | ~9,155 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,730 (Ranked 28)  
+Progressed: 457,731 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 14 (0.00%) (Ranked 198)
 | 2023-05-08 | 457,563 | 14 |
 | 2023-05-09 | 457,634 | 14 |
 | 2023-05-10 | 457,695 | 14 |
-| 2023-05-11 | 457,730 | 14 |
+| 2023-05-11 | 457,731 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -3942,9 +3942,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 702812,
+  "EOS_Progressed": 702814,
   "EOS_Completed": 12721,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5462,6 +5462,11 @@
       "Time": "2023-05-11T16:06:04.042339+00:00",
       "NumProgressed": 702812,
       "NumCompleted": 12721
+    },
+    {
+      "Time": "2023-05-11T18:06:23.4940992+00:00",
+      "NumProgressed": 702814,
+      "NumCompleted": 12721
     }
   ],
   "TotalAchievements": 50,
@@ -5673,7 +5678,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "27_ShrineBody",
@@ -5872,21 +5877,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12113,
+      "Progressed": 12115,
       "Completed": 10072
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702812,
+      "Progressed": 702814,
       "Completed": 12721
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-11T14:59:00.4869179+00:00",
-  "LastChanged_Achievements": "2023-05-11T17:06:09.9449143+00:00",
+  "LastChanged_Achievements": "2023-05-11T18:06:23.4940986+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-11T16:59:20.5009474+00:00",
-  "LastUpdate_Achievements": "2023-05-11T17:06:09.9449779+00:00"
+  "LastUpdate_Ratings": "2023-05-11T17:59:20.0616147+00:00",
+  "LastUpdate_Achievements": "2023-05-11T18:06:23.494145+00:00"
 }

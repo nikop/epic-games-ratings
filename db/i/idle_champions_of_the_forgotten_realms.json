@@ -3640,10 +3640,10 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87162,
+  "EOS_Progressed": 87167,
   "EOS_Completed": 1825,
-  "EOS_NewPlayers": 706,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 707,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5510,6 +5510,11 @@
       "Time": "2023-05-11T17:06:33.9303489+00:00",
       "NumProgressed": 87162,
       "NumCompleted": 1825
+    },
+    {
+      "Time": "2023-05-11T18:06:49.9256578+00:00",
+      "NumProgressed": 87167,
+      "NumCompleted": 1825
     }
   ],
   "TotalAchievements": 489,
@@ -5529,7 +5534,7 @@
       "Name": "Maddening",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_100",
@@ -5791,9 +5796,9 @@
       "ID": "objective_completed_1085",
       "SetID": "415jc5c",
       "Name": "Downfall",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1086",
@@ -5863,9 +5868,9 @@
       "ID": "objective_completed_1095",
       "SetID": "415jc5c",
       "Name": "The Fairy Rings of Thither",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1096",
@@ -6367,9 +6372,9 @@
       "ID": "objective_completed_1198",
       "SetID": "415jc5c",
       "Name": "Get Back In The Castle",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 214
     },
     {
       "ID": "objective_completed_1199",
@@ -6417,7 +6422,7 @@
       "Name": "Bully for Vecna",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "objective_completed_1213",
@@ -6625,7 +6630,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_149",
@@ -6705,7 +6710,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_164",
@@ -6713,7 +6718,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_165",
@@ -6745,7 +6750,7 @@
       "Name": "Building Trust",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_17",
@@ -6849,7 +6854,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_20",
@@ -6857,7 +6862,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_208",
@@ -6937,7 +6942,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_231",
@@ -6969,7 +6974,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_236",
@@ -7193,7 +7198,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "objective_completed_34",
@@ -7393,7 +7398,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_400",
@@ -7665,7 +7670,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_540",
@@ -8009,7 +8014,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_590",
@@ -8065,7 +8070,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_60",
@@ -8593,7 +8598,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_690",
@@ -8697,7 +8702,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_75",
@@ -8729,7 +8734,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_8",
@@ -9393,7 +9398,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_95",
@@ -9432,21 +9437,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53436,
-      "Completed": 2490
+      "Progressed": 53441,
+      "Completed": 2491
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87162,
+      "Progressed": 87167,
       "Completed": 1825
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T15:58:14.2200215+00:00",
-  "LastChanged_Achievements": "2023-05-11T17:06:33.9303485+00:00",
+  "LastChanged_Achievements": "2023-05-11T18:06:49.9256572+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-11T16:58:18.8374244+00:00",
-  "LastUpdate_Achievements": "2023-05-11T17:06:33.9331263+00:00"
+  "LastUpdate_Ratings": "2023-05-11T17:58:08.2572258+00:00",
+  "LastUpdate_Achievements": "2023-05-11T18:06:49.9281057+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1958,
+  "EOS_Progressed": 1959,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1131,6 +1131,11 @@
       "Time": "2023-05-11T17:05:50.7377804+00:00",
       "NumProgressed": 1958,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T18:06:02.2462692+00:00",
+      "NumProgressed": 1959,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1148,9 +1153,9 @@
       "ID": "STB_COLISSEUM_FIRST",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods I",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 490
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1190,7 +1195,7 @@
       "Name": "Elemental master",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1206,7 +1211,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1270,7 +1275,7 @@
       "Name": "Little light",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1318,7 +1323,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1326,7 +1331,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1350,7 +1355,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -1358,7 +1363,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1494,7 +1499,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -1565,7 +1570,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1958,
+      "Progressed": 1959,
       "Completed": 1
     }
   ],
@@ -1573,8 +1578,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-11T17:05:50.7377799+00:00",
+  "LastChanged_Achievements": "2023-05-11T18:06:02.2462686+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-11T16:57:49.3451433+00:00",
-  "LastUpdate_Achievements": "2023-05-11T17:05:50.7378553+00:00"
+  "LastUpdate_Ratings": "2023-05-11T17:57:35.5756478+00:00",
+  "LastUpdate_Achievements": "2023-05-11T18:06:02.2463205+00:00"
 }

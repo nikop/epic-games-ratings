@@ -1,39 +1,39 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 288)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,529 |
-| Tomorrow Never Dyes | 48.00% | ~2,647 |
-| Mainframe Hacker | 46.00% | ~2,536 |
-| The Spy who eliminated me | 46.00% | ~2,536 |
-| Never Say Loser Again | 42.00% | ~2,316 |
-| For your Eyes only | 39.00% | ~2,150 |
-| Tailor-Made | 38.00% | ~2,095 |
-| From the Vault with Love | 37.00% | ~2,040 |
-| Fully Decked Out | 37.00% | ~2,040 |
-| You Only Live Twice | 31.00% | ~1,709 |
-| A view to Win | 29.00% | ~1,599 |
-| Smells Like Trouble | 27.00% | ~1,489 |
-| In It to Win It | 26.00% | ~1,434 |
-| Private Collection | 26.00% | ~1,434 |
-| Assistant Accountant | 25.00% | ~1,378 |
-| The Living Portrait | 25.00% | ~1,378 |
-| Killer Looks | 25.00% | ~1,378 |
-| Hostile Takeover | 25.00% | ~1,378 |
-| Keycards Royale | 24.00% | ~1,323 |
-| Dr. No Kill | 24.00% | ~1,323 |
-| My Motto, My Creed | 24.00% | ~1,323 |
-| Security Supervisor | 10.00% | ~551 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,532 |
+| Tomorrow Never Dyes | 48.00% | ~2,649 |
+| Mainframe Hacker | 46.00% | ~2,538 |
+| The Spy who eliminated me | 46.00% | ~2,538 |
+| Never Say Loser Again | 42.00% | ~2,318 |
+| For your Eyes only | 39.00% | ~2,152 |
+| Tailor-Made | 38.00% | ~2,097 |
+| From the Vault with Love | 37.00% | ~2,042 |
+| Fully Decked Out | 37.00% | ~2,042 |
+| You Only Live Twice | 31.00% | ~1,711 |
+| A view to Win | 29.00% | ~1,600 |
+| In It to Win It | 26.00% | ~1,435 |
+| Private Collection | 26.00% | ~1,435 |
+| Smells Like Trouble | 26.00% | ~1,435 |
+| Assistant Accountant | 25.00% | ~1,380 |
+| The Living Portrait | 25.00% | ~1,380 |
+| Killer Looks | 25.00% | ~1,380 |
+| Hostile Takeover | 25.00% | ~1,380 |
+| Keycards Royale | 24.00% | ~1,324 |
+| Dr. No Kill | 24.00% | ~1,324 |
+| My Motto, My Creed | 24.00% | ~1,324 |
+| Security Supervisor | 10.00% | ~552 |
 | License to Thrill | 8.00% | ~441 |
 | Social of Solace | 8.00% | ~441 |
 | Safe Withdrawal | 7.00% | ~386 |
 | Live and let lie | 5.00% | ~276 |
 | Call Me Maybe | 5.00% | ~276 |
 | PHD in VIP | 4.00% | ~221 |
-| Branch Manager | 3.00% | ~165 |
+| Branch Manager | 3.00% | ~166 |
 | The terminals are not enough | 2.00% | ~110 |
 | Lose Another Day | 2.00% | ~110 |
 | Chairman of Deceive Inc. | 2.00% | ~110 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 287)
 | Extraction Confusion | 0.30% | ~17 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,514 (Ranked 119)  
+Progressed: 5,518 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 5,382 | 0 |
 | 2023-05-09 | 5,439 | 0 |
 | 2023-05-10 | 5,491 | 0 |
-| 2023-05-11 | 5,514 | 0 |
+| 2023-05-11 | 5,518 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

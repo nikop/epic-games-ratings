@@ -5,14 +5,14 @@ Rating: 4.49 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 87.00% | ~18,876 |
-| Advancement | 74.00% | ~16,056 |
-| Meticulously Efficient | 65.00% | ~14,103 |
-| Discovery | 63.00% | ~13,669 |
-| Swift Rift Removers | 56.00% | ~12,150 |
-| Fully Upgraded | 55.00% | ~11,933 |
-| Cultured | 53.00% | ~11,499 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,282 |
+| Stylish | 87.00% | ~18,877 |
+| Advancement | 74.00% | ~16,057 |
+| Meticulously Efficient | 65.00% | ~14,104 |
+| Discovery | 63.00% | ~13,670 |
+| Swift Rift Removers | 56.00% | ~12,151 |
+| Fully Upgraded | 55.00% | ~11,934 |
+| Cultured | 53.00% | ~11,500 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,283 |
 | Vaporous Expansion | 49.00% | ~10,632 |
 | Teamwork | 45.00% | ~9,764 |
 | There you are! | 44.00% | ~9,547 |
@@ -33,11 +33,11 @@ Rating: 4.49 (Ranked 552)
 | Animated | 25.00% | ~5,424 |
 | Collector | 25.00% | ~5,424 |
 | Skilled | 25.00% | ~5,424 |
-| Ectoplasmic Entity | 24.00% | ~5,207 |
-| Rift Destroyer | 20.00% | ~4,339 |
-| Tobin's Prodigy | 19.00% | ~4,122 |
-| Reckless | 18.00% | ~3,905 |
-| Terrifying | 17.00% | ~3,688 |
+| Ectoplasmic Entity | 24.00% | ~5,208 |
+| Rift Destroyer | 20.00% | ~4,340 |
+| Tobin's Prodigy | 19.00% | ~4,123 |
+| Reckless | 18.00% | ~3,906 |
+| Terrifying | 17.00% | ~3,689 |
 | Diabolical | 16.00% | ~3,472 |
 | Escape Artist | 16.00% | ~3,472 |
 | Seasoned | 16.00% | ~3,472 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 552)
 | I don't need these | 1.00% | ~217 |
 | Mycophile | 1.00% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,697 (Ranked 89)  
+Progressed: 21,698 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 39 (0.18%) (Ranked 141)
 | 2023-05-08 | 21,644 | 40 |
 | 2023-05-09 | 21,670 | 39 |
 | 2023-05-10 | 21,687 | 39 |
-| 2023-05-11 | 21,697 | 39 |
+| 2023-05-11 | 21,698 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
 Sum: 2,057 (Ranked 185)  

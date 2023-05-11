@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 19.00% | ~8,762 |
-| Let There Be Light | 16.00% | ~7,378 |
+| Let There Be Light | 16.00% | ~7,379 |
 | Float Like a Butterfly | 15.00% | ~6,917 |
 | Nordic Walking | 13.00% | ~5,995 |
 | Bright Falls' Finest | 12.00% | ~5,534 |
@@ -45,8 +45,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hardboiled Writer | 3.00% | ~1,383 |
 | If It Flies, It Burns | 3.00% | ~1,383 |
 | KBF-FM | 3.00% | ~1,383 |
-| Kill Your Darlings | 3.00% | ~287 |
-| Heartbreaker | 3.00% | ~287 |
+| Kill Your Darlings | 3.00% | ~288 |
+| Heartbreaker | 3.00% | ~288 |
 | Boob Tube | 2.00% | ~922 |
 | Carny | 2.00% | ~922 |
 | Iron Will | 2.00% | ~192 |
@@ -55,8 +55,8 @@ Number of Ratings: 524  (23.09.2022)
 | An Idyllic Small Town | 1.00% | ~461 |
 | Couch Potato | 1.00% | ~461 |
 | Go Gentle Into That Good Light | 1.00% | ~96 |
-| Words Will Never Harm You | 0.60% | ~57 |
-| Cardboard Companions | 0.60% | ~57 |
+| Words Will Never Harm You | 0.60% | ~58 |
+| Cardboard Companions | 0.60% | ~58 |
 | Fast and Furious | 0.50% | ~48 |
 | Creative Space | 0.50% | ~48 |
 | License Revoked | 0.40% | ~38 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,114 (Ranked 75)  
+Progressed: 46,116 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 44 (0.10%) (Ranked 155)
 | 2023-05-08 | 46,074 | 44 |
 | 2023-05-09 | 46,097 | 44 |
 | 2023-05-10 | 46,108 | 44 |
-| 2023-05-11 | 46,114 | 44 |
+| 2023-05-11 | 46,116 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

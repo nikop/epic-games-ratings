@@ -2,7 +2,7 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 287,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 143,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 111,
   "RatingHistory": [
     {
@@ -534,6 +534,12 @@
     {
       "Time": "2023-05-09T18:00:15.4061164+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 406,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-05-11T17:59:26.7871414+00:00",
+      "Rating": 4.66,
       "NumberOfAwards": 406,
       "NumberOfAwardsMax": 48
     }
@@ -1271,9 +1277,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-05-09T18:00:15.4061163+00:00",
-  "LastChanged_Achievements": "2023-05-11T17:05:42.6447962+00:00",
+  "LastChanged": "2023-05-11T17:59:26.7871412+00:00",
+  "LastChanged_Achievements": "2023-05-11T18:05:53.0421605+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:16.3028704+00:00",
-  "LastUpdate_Ratings": "2023-05-11T16:59:26.488466+00:00",
-  "LastUpdate_Achievements": "2023-05-11T17:05:42.6448333+00:00"
+  "LastUpdate_Ratings": "2023-05-11T17:59:26.7871422+00:00",
+  "LastUpdate_Achievements": "2023-05-11T18:05:53.0421986+00:00"
 }

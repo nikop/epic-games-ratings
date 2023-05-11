@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~872 |
 | Pin and Skewer | 1.00% | ~534 |
 | Vecna Out! | 1.00% | ~534 |
-| The Cursed Farmer | 0.90% | ~784 |
-| Bully for Vecna | 0.80% | ~427 |
+| The Cursed Farmer | 0.90% | ~785 |
+| Bully for Vecna | 0.80% | ~428 |
 | The Mad Wizard | 0.80% | ~697 |
 | Beast Intentions | 0.70% | ~610 |
 | The Ring of Regeneration | 0.60% | ~523 |
@@ -19,12 +19,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.50% | ~436 |
 | Are Ya Chicken? | 0.50% | ~436 |
 | Friendly Imps | 0.50% | ~436 |
+| Get Back In The Castle | 0.40% | ~214 |
 | A Persistent Buzzing | 0.40% | ~349 |
 | Terror in the Dark | 0.40% | ~349 |
 | The Crumbling Temple | 0.40% | ~349 |
 | Mad Cow Disease | 0.40% | ~349 |
 | Pure Energy | 0.40% | ~349 |
-| Maddening | 0.30% | ~261 |
+| Maddening | 0.30% | ~262 |
 | Owlbear Necessities | 0.30% | ~160 |
 | Best Thay Ever | 0.30% | ~160 |
 | Keep Your Distance | 0.30% | ~160 |
@@ -33,23 +34,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.30% | ~160 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~160 |
 | The Sanctum of the Sword | 0.30% | ~160 |
-| Get Back In The Castle | 0.30% | ~160 |
-| Beast Mode | 0.30% | ~261 |
-| Low Initiative | 0.30% | ~261 |
-| A Mysterious Summons | 0.30% | ~261 |
-| Building Trust | 0.30% | ~261 |
-| Unearthed Evil | 0.30% | ~261 |
-| No Time To Rest | 0.30% | ~261 |
-| The Dinner Party | 0.30% | ~261 |
-| The Botched Kidnapping | 0.30% | ~261 |
-| Useless Allies | 0.30% | ~261 |
-| Exploring Port Nyanzaru | 0.30% | ~261 |
-| Running of the Saurs | 0.30% | ~261 |
-| The Contagious Curse | 0.30% | ~261 |
-| Escort to Waterdeep | 0.30% | ~261 |
-| Waterdeep Detours | 0.30% | ~261 |
-| Underdeep Cartography | 0.30% | ~261 |
-| The Templar's Camp | 0.30% | ~261 |
+| Beast Mode | 0.30% | ~262 |
+| Low Initiative | 0.30% | ~262 |
+| A Mysterious Summons | 0.30% | ~262 |
+| Building Trust | 0.30% | ~262 |
+| Unearthed Evil | 0.30% | ~262 |
+| No Time To Rest | 0.30% | ~262 |
+| The Dinner Party | 0.30% | ~262 |
+| The Botched Kidnapping | 0.30% | ~262 |
+| Useless Allies | 0.30% | ~262 |
+| Exploring Port Nyanzaru | 0.30% | ~262 |
+| Running of the Saurs | 0.30% | ~262 |
+| The Contagious Curse | 0.30% | ~262 |
+| Escort to Waterdeep | 0.30% | ~262 |
+| Waterdeep Detours | 0.30% | ~262 |
+| Underdeep Cartography | 0.30% | ~262 |
+| The Templar's Camp | 0.30% | ~262 |
 | Pros and CONs | 0.20% | ~174 |
 | Upholding the Law | 0.20% | ~174 |
 | Tall Tales | 0.20% | ~107 |
@@ -61,9 +61,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
 | The Prince of a Thousand Enemies | 0.20% | ~107 |
+| Downfall | 0.20% | ~107 |
 | Third Third Out | 0.20% | ~107 |
 | The Silken Swamp | 0.20% | ~174 |
 | Slack-jawed Lorna | 0.20% | ~107 |
+| The Fairy Rings of Thither | 0.20% | ~107 |
 | Wet Feet | 0.20% | ~174 |
 | Hatchlings Underfoot | 0.20% | ~174 |
 | Will of the Feywild | 0.20% | ~107 |
@@ -201,13 +203,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Uncommon Allies | 0.10% | ~53 |
 | The Birds | 0.10% | ~53 |
 | Where the Magic Happens | 0.10% | ~53 |
-| Downfall | 0.10% | ~53 |
 | First Third Out | 0.10% | ~53 |
 | Second Third Out | 0.10% | ~53 |
 | I'm Sure I Saw It Move! | 0.10% | ~53 |
 | End of the Line | 0.10% | ~53 |
 | A Steadfast Love | 0.10% | ~53 |
-| The Fairy Rings of Thither | 0.10% | ~53 |
 | Zarak's Revenge | 0.10% | ~53 |
 | Bully for You! | 0.10% | ~53 |
 | The Dark Heart | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,162 (Ranked 59)  
+Progressed: 87,167 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,162 | 1,825 |
+| 2023-05-11 | 87,167 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,858 (Ranked 37)  

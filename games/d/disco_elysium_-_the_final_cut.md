@@ -6,9 +6,9 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,113 |
+| Goodest Of The Good Cops | 28.00% | ~33,114 |
 | Biggest Communism Builder | 24.00% | ~28,383 |
-| The World's Most Laughable Centrist | 20.00% | ~23,652 |
+| The World's Most Laughable Centrist | 20.00% | ~23,653 |
 | Il Coppo Del'Arte! | 18.00% | ~21,287 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~18,922 |
 | Hyperstellar Law Official | 15.00% | ~17,739 |
@@ -20,13 +20,13 @@ Number of Ratings: 1,611  (23.09.2022)
 | Unbelievably Boring **** | 8.00% | ~9,461 |
 | Enemy Of The Physical Realm | 8.00% | ~9,461 |
 | Hardie's Heroes | 5.00% | ~5,913 |
-| The Lawbringer | 4.00% | ~4,730 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,730 |
+| The Lawbringer | 4.00% | ~4,731 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,731 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,548 |
+| Bother Kim After Hours | 3.00% | ~3,548 |
 | Baddest Of the Bad Cops | 2.00% | ~2,365 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,365 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,365 |
-| Bother Kim After Hours | 2.00% | ~2,365 |
 | Wheel of Pleasure and Light | 2.00% | ~2,365 |
 | Massive Torque Dork | 1.00% | ~1,183 |
 | Avowed Inframaterialist | 0.90% | ~1,064 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~118 |
 | What body? | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,262 (Ranked 56)  
+Progressed: 118,263 (Ranked 56)  
 Completed: 25 (0.02%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 25 (0.02%) (Ranked 183)
 | 2023-05-08 | 118,155 | 25 |
 | 2023-05-09 | 118,190 | 25 |
 | 2023-05-10 | 118,230 | 25 |
-| 2023-05-11 | 118,262 | 25 |
+| 2023-05-11 | 118,263 | 25 |
 ## Awards
 Max (Character Customization): 688  (Ranked 156)  
 Sum: 1,044 (Ranked 227)  

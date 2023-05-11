@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46114,
+  "EOS_Progressed": 46116,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1421,6 +1421,11 @@
       "Time": "2023-05-11T17:05:52.3176198+00:00",
       "NumProgressed": 46114,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-11T18:06:03.8637033+00:00",
+      "NumProgressed": 46116,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1704,7 +1709,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7378
+      "UsersEstimate": 7379
     },
     {
       "ID": "36",
@@ -1856,7 +1861,7 @@
       "Name": "Words Will Never Harm You",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "55",
@@ -1888,7 +1893,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "59",
@@ -1904,7 +1909,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "61",
@@ -1960,28 +1965,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46114,
+      "Progressed": 46116,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9582,
+      "Progressed": 9584,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-11T17:05:52.3176193+00:00",
+  "LastChanged_Achievements": "2023-05-11T18:06:03.8637026+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-11T16:57:50.5043325+00:00",
-  "LastUpdate_Achievements": "2023-05-11T17:05:52.3176988+00:00"
+  "LastUpdate_Ratings": "2023-05-11T17:57:37.2248045+00:00",
+  "LastUpdate_Achievements": "2023-05-11T18:06:03.8638521+00:00"
 }
