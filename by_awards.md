@@ -33,8 +33,8 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,350 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,201 | 4.69 | 212 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,171 | 4.45 | 601 |
-| 34 | [Satisfactory](games/s/satisfactory.md) | 9,311 | 4.88 | 18 |
-| 35 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 9,201 | 4.24 | 783 |
+| 34 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 9,348 | 4.24 | 783 |
+| 35 | [Satisfactory](games/s/satisfactory.md) | 9,320 | 4.88 | 18 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,060 | 4.60 | 376 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 8,906 | 4.78 | 100 |
 | 38 | [Control](games/c/control.md) | 8,269 | 4.60 | 376 |
@@ -130,14 +130,14 @@
 | 128 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,082 | 4.61 | 352 |
 | 129 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.60 | 376 |
 | 130 | [World of Warships](games/w/world_of_warships.md) | 1,045 | 4.43 | 635 |
-| 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,038 | 4.54 | 477 |
+| 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,043 | 4.54 | 477 |
 | 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,037 | 4.66 | 271 |
 | 133 | [Saints Row](games/s/saints_row.md) | 1,026 | 3.78 | 910 |
 | 134 | [EVE Online](games/e/eve_online.md) | 1,018 | 4.26 | 775 |
 | 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,009 | 4.79 | 89 |
 | 136 | [Ooblets](games/o/ooblets.md) | 1,005 | 4.87 | 24 |
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 995 | 4.23 | 793 |
-| 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 984 | 4.40 | 668 |
+| 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 985 | 4.40 | 668 |
 | 139 | [Torchlight II](games/t/torchlight_ii.md) | 970 | 4.58 | 412 |
 | 140 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 931 | 4.31 | 750 |
 | 141 | [Sonic Mania](games/s/sonic_mania.md) | 907 | 4.78 | 100 |
@@ -211,7 +211,7 @@
 | 209 | [For The King](games/f/for_the_king.md) | 363 | 4.70 | 192 |
 | 210 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 350 | 4.61 | 352 |
 | 211 | [Dishonored 2](games/d/dishonored_2.md) | 345 | 4.79 | 89 |
-| 212 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 341 | 4.32 | 741 |
+| 212 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 342 | 4.32 | 741 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 337 | 4.70 | 192 |
 | 214 | [Inscryption](games/i/inscryption.md) | 330 | 4.86 | 27 |
 | 215 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 324 | 4.77 | 103 |
@@ -320,10 +320,10 @@
 | 318 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 901 |
 | 318 | [Phantom Brigade](games/p/phantom_brigade.md) | 103 | 4.62 | 337 |
 | 320 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 101 | 4.80 | 77 |
+| 321 | [Brawlhalla](games/b/brawlhalla.md) | 99 | 4.58 | 412 |
 | 321 | [Just Die Already](games/j/just_die_already.md) | 99 | 4.52 | 501 |
 | 321 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 99 | 4.76 | 115 |
 | 321 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 99 | 4.47 | 576 |
-| 324 | [Brawlhalla](games/b/brawlhalla.md) | 98 | 4.58 | 412 |
 | 325 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 97 | 4.50 | 531 |
 | 325 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 97 | 4.77 | 103 |
 | 325 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 620 |

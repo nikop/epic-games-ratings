@@ -20,7 +20,7 @@
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 294 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 250 | 238 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,978 | 73 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,311 | 34 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,320 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 472 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 490 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,375 | 117 |
@@ -412,7 +412,7 @@
 | 396 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
 | 396 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 319 | 218 |
 | 412 | [Among Us](games/a/among_us.md) | 4.58 | 2,398 | 93 |
-| 412 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 98 | 324 |
+| 412 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 99 | 321 |
 | 412 | [Everything](games/e/everything.md) | 4.58 | 0 | 490 |
 | 412 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 490 |
 | 412 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 216 | 248 |
@@ -478,7 +478,7 @@
 | 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,143 | 125 |
 | 477 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 2,940 | 88 |
 | 477 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 431 |
-| 477 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,038 | 131 |
+| 477 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,043 | 131 |
 | 477 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 197 | 258 |
 | 477 | [IXION](games/i/ixion.md) | 4.54 | 0 | 490 |
 | 477 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 339 |
@@ -669,7 +669,7 @@
 | 655 | [Tunche](games/t/tunche.md) | 4.41 | 0 | 490 |
 | 668 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 490 |
 | 668 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
-| 668 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 984 | 138 |
+| 668 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 985 | 138 |
 | 668 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 490 |
 | 668 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 0 | 490 |
 | 668 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 490 |
@@ -740,7 +740,7 @@
 | 735 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 72 | 357 |
 | 735 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 490 |
 | 735 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 490 |
-| 741 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 341 | 212 |
+| 741 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 342 | 212 |
 | 741 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 490 |
 | 741 | [Filament](games/f/filament.md) | 4.32 | 551 | 171 |
 | 741 | [House Party](games/h/house_party.md) | 4.32 | 0 | 490 |
@@ -784,7 +784,7 @@
 | 780 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 490 |
 | 783 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 490 |
 | 783 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 440 |
-| 783 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,201 | 35 |
+| 783 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,348 | 34 |
 | 783 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 364 | 208 |
 | 783 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 490 |
 | 783 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 490 |
@@ -916,7 +916,7 @@
 | 913 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
 | 913 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 50 | 384 |
 | 916 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
-| 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.55 | 0 | 490 |
+| 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.61 | 0 | 490 |
 | 918 | [Adios](games/a/adios.md) | 3.48 | 0 | 490 |
 | 919 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 490 |
 | 920 | [Redfall](games/r/redfall.md) | 3.33 | 0 | 490 |

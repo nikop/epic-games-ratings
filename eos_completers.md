@@ -7,7 +7,7 @@
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 25.00% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
-| 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
+| 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 19.35% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.91% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
@@ -22,11 +22,11 @@
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 23 | [Scorn](games/s/scorn.md) | 7.10% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
+| 24 | [Scorn](games/s/scorn.md) | 7.10% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.22% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.21% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -40,7 +40,7 @@
 | 38 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.84% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
 | 40 | [The Complex](games/t/the_complex.md) | 3.55% |
-| 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.47% |
+| 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.46% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 43 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 44 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
@@ -103,7 +103,7 @@
 | 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 102 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 103 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 105 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 105 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 105 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
