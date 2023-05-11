@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -4720,18 +4720,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 26904,
       "NumberOfAwardsMax": 13033
+    },
+    {
+      "Time": "2023-05-11T18:59:42.7283845+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 26932,
+      "NumberOfAwardsMax": 13048
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26904,
-  "NumberOfAwardsMax": 13033,
+  "NumberOfAwards": 26932,
+  "NumberOfAwardsMax": 13048,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 13033
+      "Count": 13048
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4749,7 +4755,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2240
+      "Count": 2245
     },
     {
       "Text": "This game has Competitive Players",
@@ -4761,7 +4767,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2057
+      "Count": 2065
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4793,8 +4799,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-05-11T17:00:39.7208912+00:00",
+  "LastChanged": "2023-05-11T18:59:42.7283843+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.3563664+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:00:49.6690714+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:05:15.6774412+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:59:42.7283852+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:04:16.2173791+00:00"
 }

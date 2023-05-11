@@ -19,8 +19,8 @@
 | Back In The Saddle | 51.00% | ~74 |
 | Land, Ho! | 51.00% | ~74 |
 | Gaze Into The Abyss | 50.00% | ~73 |
-| No Man Is An Island | 48.00% | ~70 |
-| At Wits' End | 45.00% | ~66 |
+| No Man Is An Island | 49.00% | ~72 |
+| At Wits' End | 46.00% | ~67 |
 | Bookworm | 44.00% | ~64 |
 | Fhtagn! | 41.00% | ~60 |
 | Going Once... | 40.00% | ~58 |
@@ -29,8 +29,8 @@
 | Let Me Be Frank | 38.00% | ~55 |
 | No Stone Unturned | 35.00% | ~51 |
 | Curiosity Killed The Cat | 25.00% | ~36 |
+| Read It And Weep | 24.00% | ~35 |
 | Big Breakthrough | 23.00% | ~34 |
-| Read It And Weep | 23.00% | ~34 |
 | Reawakened | 11.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 146 (Ranked 240)  

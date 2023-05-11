@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 699,
+  "EOS_Progressed": 700,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -403,6 +403,11 @@
     {
       "Time": "2023-05-11T15:05:17.4383879+00:00",
       "NumProgressed": 699,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-11T19:04:45.366527+00:00",
+      "NumProgressed": 700,
       "NumCompleted": 2
     }
   ],
@@ -839,7 +844,7 @@
       "Name": "F\u00FChrerious Repetition",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -871,7 +876,7 @@
       "Name": "Alpha",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -879,7 +884,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -911,7 +916,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -958,13 +963,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 699,
+      "Progressed": 700,
       "Completed": 2
     }
   ],
@@ -972,8 +977,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:05:55.6845889+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:04:45.3665259+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:01:13.6626413+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:05:55.68467+00:00"
+  "LastUpdate_Ratings": "2023-05-11T19:00:01.6176208+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:04:45.3666041+00:00"
 }

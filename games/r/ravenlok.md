@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~568 |
 | Waff! | 93.00% | ~551 |
-| Into the Barn | 87.00% | ~515 |
+| Into the Barn | 88.00% | ~521 |
 | A Prophecy | 85.00% | ~503 |
 | Sword, Shield, Fight! | 75.00% | ~444 |
 | A Grand Visit | 71.00% | ~420 |
@@ -31,8 +31,8 @@
 | Frog Facts! | 33.00% | ~195 |
 | All That Glistens | 33.00% | ~195 |
 | It's Pointy! | 33.00% | ~195 |
-| Spellbound | 31.00% | ~184 |
-| All Skilled Up! | 31.00% | ~184 |
+| Spellbound | 32.00% | ~189 |
+| All Skilled Up! | 32.00% | ~189 |
 | Extinct Again! | 30.00% | ~178 |
 | Bird of Prey | 30.00% | ~178 |
 | Stardust | 30.00% | ~178 |

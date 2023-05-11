@@ -189,9 +189,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 189479,
+  "EOS_Progressed": 189484,
   "EOS_Completed": 412,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2064,6 +2064,11 @@
       "Time": "2023-05-11T18:06:11.9792097+00:00",
       "NumProgressed": 189479,
       "NumCompleted": 412
+    },
+    {
+      "Time": "2023-05-11T19:04:58.1602475+00:00",
+      "NumProgressed": 189484,
+      "NumCompleted": 412
     }
   ],
   "TotalAchievements": 29,
@@ -2099,7 +2104,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 178110
+      "UsersEstimate": 178115
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -2147,7 +2152,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -2243,7 +2248,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -2306,7 +2311,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 189479,
+      "Progressed": 189484,
       "Completed": 412
     }
   ],
@@ -2314,8 +2319,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-04-27T13:58:35.1849608+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:06:11.9792094+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:04:58.1602467+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:02.1474684+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:59:05.4868334+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:06:11.9792409+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:58:30.9551787+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:04:58.1602812+00:00"
 }

@@ -87,7 +87,7 @@
 | Pasta Bolognese | 0.00% | ~0 |
 | Slimy... yet satisfying | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 341)  
+Progressed: 4 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

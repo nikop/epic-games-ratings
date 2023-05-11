@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 159,
+  "EOS_Progressed": 160,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -628,6 +628,11 @@
       "Time": "2023-05-11T15:05:56.1048641+00:00",
       "NumProgressed": 159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T19:05:25.7126379+00:00",
+      "NumProgressed": 160,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -703,7 +708,7 @@
       "Name": "Chest \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achCity",
@@ -837,17 +842,17 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "achLizun",
       "SetID": "72gjli4",
       "Name": "Mutant fight \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achLizunTwo",
@@ -909,9 +914,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "achPriest",
@@ -1038,7 +1043,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 159,
+      "Progressed": 160,
       "Completed": 0
     }
   ],
@@ -1046,8 +1051,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:06:47.6537026+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:05:25.712637+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:00:54.5008441+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:06:47.653743+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:59:46.8071805+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:05:25.712684+00:00"
 }

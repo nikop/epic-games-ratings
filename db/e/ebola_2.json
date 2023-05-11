@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -171,6 +171,11 @@
       "Time": "2023-05-11T17:01:46.930446+00:00",
       "NumProgressed": 49,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T19:00:41.2393187+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -268,9 +273,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achMeat",
@@ -300,9 +305,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achVirus",
@@ -325,14 +330,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:02:06.9562783+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:00:41.2393174+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:35.2006404+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:57:06.4448174+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:02:06.9562957+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:57:03.1948231+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:00:41.2393541+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,371 |
-| Sweet Sorrow | 19.00% | ~5,474 |
-| Rules the Waves | 17.00% | ~4,897 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,609 |
-| Rival | 14.00% | ~4,033 |
-| Correspondent | 12.00% | ~3,457 |
-| Lose Your Mind | 12.00% | ~3,457 |
-| Sound Mind? | 12.00% | ~3,457 |
-| Salt's Curse | 11.00% | ~3,169 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,169 |
-| The Fall of the House | 11.00% | ~3,169 |
-| Shipmate | 11.00% | ~3,169 |
+| Sink Beneath the Waves | 36.00% | ~10,373 |
+| Sweet Sorrow | 19.00% | ~5,475 |
+| Rules the Waves | 17.00% | ~4,899 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,610 |
+| Rival | 14.00% | ~4,034 |
+| Correspondent | 12.00% | ~3,458 |
+| Lose Your Mind | 12.00% | ~3,458 |
+| Sound Mind? | 12.00% | ~3,458 |
+| Salt's Curse | 11.00% | ~3,170 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,170 |
+| The Fall of the House | 11.00% | ~3,170 |
+| Shipmate | 11.00% | ~3,170 |
 | One Year at Zee | 8.00% | ~2,305 |
 | Pupil | 7.00% | ~2,017 |
 | Salvager | 7.00% | ~2,017 |
 | Open Your Ears | 7.00% | ~2,017 |
 | The Ascent of Man | 7.00% | ~2,017 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,440 |
-| Zee Fever | 5.00% | ~1,440 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,152 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,441 |
+| Zee Fever | 5.00% | ~1,441 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,153 |
 | Storm's Curse | 3.00% | ~864 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~864 |
 | Come Closer | 3.00% | ~864 |
@@ -48,7 +48,7 @@ Number of Ratings: 401  (23.09.2022)
 | Never Stop Sinking... | 0.90% | ~259 |
 | Leviathan | 0.90% | ~259 |
 | Depth charge | 0.90% | ~259 |
-| What lies beneath | 0.80% | ~230 |
+| What lies beneath | 0.80% | ~231 |
 | Stone's Curse | 0.70% | ~202 |
 | Five Years at Zee | 0.50% | ~144 |
 | The Lady's Parlour | 0.20% | ~58 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~29 |
 | Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,808 (Ranked 84)  
+Progressed: 28,815 (Ranked 84)  
 Completed: 3 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 3 (0.01%) (Ranked 190)
 | 2023-05-08 | 28,605 | 3 |
 | 2023-05-09 | 28,691 | 3 |
 | 2023-05-10 | 28,762 | 3 |
-| 2023-05-11 | 28,808 | 3 |
+| 2023-05-11 | 28,815 | 3 |
 ## Awards
 Max (Character Customization): 205  (Ranked 255)  
 Sum: 274 (Ranked 331)  

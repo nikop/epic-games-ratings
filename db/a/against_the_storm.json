@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2246,9 +2246,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14749,
+  "EOS_Progressed": 14752,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3271,6 +3271,11 @@
       "Time": "2023-05-11T18:06:42.141241+00:00",
       "NumProgressed": 14749,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-11T19:05:21.4302081+00:00",
+      "NumProgressed": 14752,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3314,7 +3319,7 @@
       "Name": "Beaver Utopia",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "HarpyUtopia",
@@ -3330,7 +3335,7 @@
       "Name": "Human Utopia",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "LizardUtopia",
@@ -3338,7 +3343,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ManyEvents",
@@ -3346,7 +3351,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MetalChain",
@@ -3418,7 +3423,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WinNearCrystals",
@@ -3498,7 +3503,7 @@
       "Name": "Royal Outpost",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WinNearRuins",
@@ -3554,7 +3559,7 @@
       "Name": "Cursed Lands",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WinOnMarshlands",
@@ -3562,7 +3567,7 @@
       "Name": "The Marshlands",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "WinOnMoorlands",
@@ -3578,7 +3583,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "WinPrestige20",
@@ -3610,15 +3615,15 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 118
     },
     {
       "ID": "WinWithResolve",
@@ -3626,7 +3631,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "WinWithRuins",
@@ -3681,15 +3686,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14749,
+      "Progressed": 14752,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-11T08:59:55.7146601+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:06:42.1412404+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:05:21.4302074+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:00:36.3043823+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:06:42.1413045+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:59:32.0524463+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:05:21.4302588+00:00"
 }

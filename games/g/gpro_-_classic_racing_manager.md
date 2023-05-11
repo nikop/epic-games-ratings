@@ -4,15 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better than cake | 57.00% | ~4 |
-| Newbie | 43.00% | ~3 |
-| No brakes | 29.00% | ~2 |
-| First taste | 14.00% | ~1 |
-| Wannabe | 14.00% | ~1 |
-| Loyalty | 14.00% | ~1 |
-| Hero | 14.00% | ~1 |
-| Shepherd | 14.00% | ~1 |
-| Tutorial master | 14.00% | ~1 |
+| Better than cake | 63.00% | ~5 |
+| Newbie | 50.00% | ~4 |
+| No brakes | 25.00% | ~2 |
+| First taste | 13.00% | ~1 |
+| Amateur hitchhiker | 13.00% | ~1 |
+| Wannabe | 13.00% | ~1 |
+| Loyalty | 13.00% | ~1 |
+| Hero | 13.00% | ~1 |
+| Shepherd | 13.00% | ~1 |
+| Tutorial master | 13.00% | ~1 |
+| Photo shoot | 13.00% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -28,7 +30,6 @@
 | Monster Pro car | 0.00% | ~0 |
 | Monster Master car | 0.00% | ~0 |
 | Monster Elite car | 0.00% | ~0 |
-| Amateur hitchhiker | 0.00% | ~0 |
 | Pro hitchhiker | 0.00% | ~0 |
 | Master hitchhiker | 0.00% | ~0 |
 | Elite hitchhiker | 0.00% | ~0 |
@@ -144,7 +145,6 @@
 | First Pro taste | 0.00% | ~0 |
 | First Master taste | 0.00% | ~0 |
 | First Elite taste | 0.00% | ~0 |
-| Photo shoot | 0.00% | ~0 |
 | Weatherman | 0.00% | ~0 |
 | Salesman | 0.00% | ~0 |
 | Heavy duty | 0.00% | ~0 |
@@ -167,10 +167,10 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 322)  
+Progressed: 8 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-10 | 2 | 0 |
-| 2023-05-11 | 7 | 0 |
+| 2023-05-11 | 8 | 0 |

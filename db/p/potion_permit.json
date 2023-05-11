@@ -506,9 +506,9 @@
       "ID": "ACHIEVEMENTS_12",
       "SetID": "d4o538a",
       "Name": "Amateur Chef",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 248
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -731,8 +731,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:06:43.7641291+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:05:22.5741682+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:26.1702619+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:01:03.1045113+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:06:43.7641569+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:59:53.50224+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:05:22.5741977+00:00"
 }

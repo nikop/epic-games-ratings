@@ -8,15 +8,15 @@ Rating: 4.54 (Ranked 477)
 | Without Breaking Some Eggs... | 1.00% | ~19 |
 | Wakey Wakey | 1.00% | ~19 |
 | Infinite Growth... | 0.90% | ~17 |
-| Sputnik 2049 | 0.80% | ~15 |
+| Sputnik 2049 | 0.90% | ~17 |
 | Ready for a New World | 0.70% | ~13 |
+| Space Society | 0.60% | ~11 |
 | A Thousand Strong | 0.60% | ~11 |
 | Breaking Protocol | 0.60% | ~11 |
+| Permanent Redesigns | 0.60% | ~11 |
 | The Ship of Theseus | 0.60% | ~11 |
-| Space Society | 0.50% | ~9 |
 | Exceeding Capacity | 0.50% | ~9 |
 | Fully Recycled | 0.50% | ~9 |
-| Permanent Redesigns | 0.50% | ~9 |
 | Ain't Nobody Got Time for That | 0.50% | ~9 |
 | Hope Seeker | 0.50% | ~9 |
 | Guy de Borderlands | 0.40% | ~7 |

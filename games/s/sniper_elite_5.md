@@ -35,14 +35,14 @@ Rating: 4.38 (Ranked 688)
 | Opposing Force | 11.00% | ~77 |
 | Enemy at the Gates | 11.00% | ~77 |
 | My Little Friend | 9.00% | ~63 |
-| Herr Today, Gone Tomorrow | 9.00% | ~58 |
+| Herr Today, Gone Tomorrow | 9.00% | ~59 |
 | Precision Is Key | 8.00% | ~56 |
 | Rigged to Blow | 8.00% | ~56 |
 | Operation Foxley | 8.00% | ~52 |
 | Last Resort | 7.00% | ~46 |
 | Ghost of Falaise | 6.00% | ~39 |
 | The Long Game | 5.00% | ~35 |
-| Siegebreaker | 5.00% | ~32 |
+| Siegebreaker | 5.00% | ~33 |
 | Strategist | 4.00% | ~28 |
 | Tinkerer | 4.00% | ~28 |
 | Don't hold your breath | 4.00% | ~28 |
@@ -59,8 +59,8 @@ Rating: 4.38 (Ranked 688)
 | Souvenir hunter | 2.00% | ~14 |
 | Reich To The Point | 2.00% | ~13 |
 | Best of the Best | 1.00% | ~7 |
-| Führerious Repetition | 1.00% | ~6 |
-| Alpha | 1.00% | ~6 |
+| Führerious Repetition | 1.00% | ~7 |
+| Alpha | 1.00% | ~7 |
 | Das Familienjuwel | 0.90% | ~6 |
 | Eagle Eyed | 0.70% | ~5 |
 | Up close and personal | 0.70% | ~5 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 688)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699 (Ranked 176)  
+Progressed: 700 (Ranked 176)  
 Completed: 2 (0.29%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 2 (0.29%) (Ranked 126)
 | 2023-05-08 | 691 | 2 |
 | 2023-05-09 | 694 | 2 |
 | 2023-05-10 | 698 | 2 |
-| 2023-05-11 | 699 | 2 |
+| 2023-05-11 | 700 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

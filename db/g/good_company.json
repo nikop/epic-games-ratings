@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4736,
+  "EOS_Progressed": 4737,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-05-11T17:06:13.140123+00:00",
       "NumProgressed": 4736,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T19:05:09.3860424+00:00",
+      "NumProgressed": 4737,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -647,9 +652,9 @@
       "ID": "ach_campaign_progress4",
       "SetID": "8cb3id7",
       "Name": "Level: Topple The Top",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_campaign_progress5",
@@ -1152,15 +1157,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4736,
+      "Progressed": 4737,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:06:27.0030249+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:05:09.3860418+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.697112+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:59:22.1689471+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:06:27.003113+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:58:41.7129461+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:05:09.3861182+00:00"
 }

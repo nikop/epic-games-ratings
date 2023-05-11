@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2389,
-  "EOS_Completed": 67,
+  "EOS_Progressed": 2390,
+  "EOS_Completed": 68,
   "EOS_NewPlayers": 113,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 2.8,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 2.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -1056,6 +1056,11 @@
       "Time": "2023-05-11T18:06:04.2705411+00:00",
       "NumProgressed": 2389,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-05-11T19:04:51.7474+00:00",
+      "NumProgressed": 2390,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 5,
@@ -1067,7 +1072,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "2",
@@ -1075,7 +1080,7 @@
       "Name": "Traveler",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "3",
@@ -1106,16 +1111,16 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2389,
-      "Completed": 67
+      "Progressed": 2390,
+      "Completed": 68
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:06:04.2705407+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:04:51.7473992+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:37.4953287+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:58:30.2980674+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:06:04.2705559+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:58:05.9767357+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:04:51.7474162+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "carnival-games",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-11-19T21:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.0151108+00:00",
   "LastChanged": "2023-03-31T05:58:35.0151109+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:56.9604953+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:57:36.8388437+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:01:33.8905346+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:57:25.9793417+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:00:17.1697255+00:00"
 }

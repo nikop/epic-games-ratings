@@ -452,17 +452,17 @@
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_STAR_4",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:06:30.1808464+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:05:11.8749893+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:32.8171839+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:57:02.5125523+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:06:30.1808691+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:57:00.3896663+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:05:11.8750122+00:00"
 }

@@ -19,7 +19,7 @@ Rating: 3.79 (Ranked 908)
 | Lumber Specialist | 29.00% | ~360 |
 | Catch of the Day | 23.00% | ~285 |
 | Kind-hearted | 22.00% | ~273 |
-| Amateur Chef | 19.00% | ~236 |
+| Amateur Chef | 20.00% | ~248 |
 | Fishing Guru | 17.00% | ~211 |
 | Community Helper | 16.00% | ~198 |
 | Spark of Love | 14.00% | ~174 |

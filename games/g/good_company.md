@@ -36,13 +36,13 @@ Number of Ratings: 75  (23.09.2022)
 | Overproducer | 2.00% | ~95 |
 | Natural Talent | 2.00% | ~95 |
 | Level: A Happy Taskforce | 1.00% | ~47 |
-| Level: Topple The Top | 1.00% | ~47 |
 | Level: The Machinery | 1.00% | ~47 |
 | Extra Life: Knowledge Cap | 1.00% | ~47 |
 | Merry-Go-Around: Debt-Be-Gone | 1.00% | ~47 |
 | Entrepreneur | 1.00% | ~47 |
 | Data Churn Type IV | 1.00% | ~47 |
 | Keen Eye | 1.00% | ~47 |
+| Level: Topple The Top | 0.90% | ~43 |
 | Tycoon | 0.90% | ~43 |
 | Bet On Bots: Safety First | 0.80% | ~38 |
 | Merry-Go-Around: Self-Made | 0.70% | ~33 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,736 (Ranked 124)  
+Progressed: 4,737 (Ranked 124)  
 Completed: 1 (0.02%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.02%) (Ranked 183)
 | 2023-05-08 | 4,722 | 1 |
 | 2023-05-09 | 4,725 | 1 |
 | 2023-05-10 | 4,732 | 1 |
-| 2023-05-11 | 4,736 | 1 |
+| 2023-05-11 | 4,737 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

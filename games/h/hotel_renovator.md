@@ -16,12 +16,12 @@ Rating: 4.50 (Ranked 532)
 | Roll with it | 45.00% | ~329 |
 | Humble beginnings | 43.00% | ~315 |
 | Love is in the air | 43.00% | ~315 |
-| Moving up | 40.00% | ~293 |
+| Moving up | 41.00% | ~300 |
 | Fine, I'll do it myself | 39.00% | ~285 |
 | No need to call anyone | 38.00% | ~278 |
 | Big fortune | 31.00% | ~227 |
+| Still more work ahead | 28.00% | ~205 |
 | Hotel sleuthing | 27.00% | ~198 |
-| Still more work ahead | 27.00% | ~198 |
 | Aesop's fable | 25.00% | ~183 |
 | Kaboom | 24.00% | ~176 |
 | Nearly there | 24.00% | ~176 |

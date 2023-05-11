@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Liberator",
@@ -161,9 +161,9 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Repair",
@@ -223,8 +223,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:01:30.4776065+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:00:14.892894+00:00",
   "LastUpdate_AppInfo": "2023-05-08T14:58:36.6916699+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:57:01.5009455+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:01:30.4776433+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:56:59.620497+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:00:14.8929234+00:00"
 }

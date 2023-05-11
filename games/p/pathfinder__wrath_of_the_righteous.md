@@ -40,8 +40,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 1.00% | ~88 |
 | Your First Big Enemy | 1.00% | ~88 |
 | Truly Important Deed | 1.00% | ~88 |
-| Stay Underground | 1.00% | ~75 |
-| Sarkoris Will Be Green | 1.00% | ~75 |
+| Stay Underground | 1.00% | ~76 |
+| Sarkoris Will Be Green | 1.00% | ~76 |
 | Path of the Demon | 0.90% | ~79 |
 | Path of the Aeon | 0.90% | ~79 |
 | Abyssal Conspiracy | 0.70% | ~61 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,766 (Ranked 109)  
+Progressed: 8,770 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 8,712 | 0 |
 | 2023-05-09 | 8,733 | 0 |
 | 2023-05-10 | 8,754 | 0 |
-| 2023-05-11 | 8,766 | 0 |
+| 2023-05-11 | 8,770 | 0 |
 ## Awards
 Max (Character Customization): 1,629  (Ranked 111)  
 Sum: 6,600 (Ranked 108)  

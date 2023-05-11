@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 592,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 6.08,
   "EosHistory": [
@@ -975,9 +975,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "13",
@@ -1207,9 +1207,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "4",
@@ -1287,9 +1287,9 @@
       "ID": "48",
       "SetID": "d0g98p",
       "Name": "Into the Barn",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 521
     },
     {
       "ID": "49",
@@ -1360,8 +1360,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-11T18:05:51.0101343+00:00",
+  "LastChanged_Achievements": "2023-05-11T19:04:41.8557899+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-11T17:57:25.7850198+00:00",
-  "LastUpdate_Achievements": "2023-05-11T18:05:51.0101933+00:00"
+  "LastUpdate_Ratings": "2023-05-11T18:57:16.385095+00:00",
+  "LastUpdate_Achievements": "2023-05-11T19:04:41.8558344+00:00"
 }
