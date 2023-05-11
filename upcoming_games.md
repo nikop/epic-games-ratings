@@ -197,6 +197,7 @@
 | [Bleak Sword DX](games/b/bleak_sword_dx.md) | 2099-01-01 | 2099-01-01 |
 | [Bloody Hell Hotel](games/b/bloody_hell_hotel.md) | 2099-01-01 | 2099-01-01 |
 | [BurnOut](games/b/burnout.md) | 2099-01-01 | 2099-01-01 |
+| [Bus Driver Simulator](games/d/d696915035d84092a02a646f25530ccd.md) | 2099-01-01 | 2019-12-04 |
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | 2099-01-01 |
 | [Chemists Area of infection](games/c/chemists_area_of_infection.md) | 2099-01-01 | 2022-09-09 |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | 2099-01-01 |
