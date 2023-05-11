@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 10 | [Island Cities](games/i/island_cities.md) | 18.18% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.91% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 13 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -20,13 +20,13 @@
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.65% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.73% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
-| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
+| 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.27% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.26% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -51,7 +51,7 @@
 | 49 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 52 | [ZZT!](games/z/zzt!.md) | 2.82% |
+| 52 | [ZZT!](games/z/zzt!.md) | 2.81% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
@@ -65,8 +65,8 @@
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
-| 65 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.67% |
-| 67 | [Night Book](games/n/night_book.md) | 1.66% |
+| 66 | [Night Book](games/n/night_book.md) | 1.66% |
+| 67 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.64% |
 | 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 68 | [Somerville](games/s/somerville.md) | 1.61% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
@@ -83,7 +83,7 @@
 | 81 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 84 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
+| 84 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
 | 85 | [Sable](games/s/sable.md) | 0.92% |
 | 86 | [Hades](games/h/hades.md) | 0.90% |
 | 87 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
@@ -105,8 +105,8 @@
 | 103 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
 | 105 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 105 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 105 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
-| 107 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 108 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 109 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 110 | [Potion Permit](games/p/potion_permit.md) | 0.40% |

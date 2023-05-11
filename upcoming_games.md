@@ -1,7 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Death or Treat](games/d/death_or_treat.md) | 2023-05-11 | 2023-05-11 |
-| [Fuga: Melodies of Steel 2](games/f/fuga__melodies_of_steel_2.md) | 2023-05-11 | 2023-05-11 |
 | [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | 2023-05-11 |
 | [Voodolls](games/v/voodolls.md) | 2023-05-11 | 2023-05-11 |
 | [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 2022-06-16 |
@@ -393,8 +391,8 @@
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |
 | [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | 2020-11-05 |
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2099-04-12 | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | 2099-06-26 |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2099-06-26 | 2099-06-26 |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |
 | [Video Horror Society](games/v/video_horror_society.md) | 2099-07-18 | 2099-07-18 |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | 2099-07-28 | - |
