@@ -90,7 +90,7 @@
 | 88 | [Dead Island 2](games/d/dead_island_2.md) | 2,940 | 4.54 | 477 |
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,681 | 4.77 | 103 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,579 | 4.67 | 256 |
-| 91 | [Path of Exile](games/p/path_of_exile.md) | 2,471 | 4.61 | 352 |
+| 91 | [Path of Exile](games/p/path_of_exile.md) | 2,473 | 4.61 | 352 |
 | 92 | [Rage 2](games/r/rage_2.md) | 2,439 | 4.28 | 768 |
 | 93 | [Among Us](games/a/among_us.md) | 2,398 | 4.58 | 412 |
 | 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,352 | 4.80 | 77 |
@@ -132,7 +132,7 @@
 | 130 | [World of Warships](games/w/world_of_warships.md) | 1,045 | 4.43 | 635 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,038 | 4.54 | 477 |
 | 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,037 | 4.66 | 271 |
-| 133 | [Saints Row](games/s/saints_row.md) | 1,024 | 3.78 | 910 |
+| 133 | [Saints Row](games/s/saints_row.md) | 1,026 | 3.78 | 910 |
 | 134 | [EVE Online](games/e/eve_online.md) | 1,018 | 4.26 | 775 |
 | 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,009 | 4.79 | 89 |
 | 136 | [Ooblets](games/o/ooblets.md) | 1,005 | 4.87 | 24 |

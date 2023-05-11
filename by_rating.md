@@ -367,7 +367,7 @@
 | 352 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 490 |
 | 352 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,082 | 128 |
 | 352 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 490 |
-| 352 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,471 | 91 |
+| 352 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,473 | 91 |
 | 352 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 602 | 164 |
 | 352 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 412 | 193 |
 | 352 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 268 | 233 |
@@ -909,7 +909,7 @@
 | 907 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 490 |
 | 908 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 490 |
 | 908 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 367 |
-| 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,024 | 133 |
+| 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,026 | 133 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 490 |
 | 912 | [Poker Club](games/p/poker_club.md) | 3.76 | 0 | 490 |
 | 913 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
