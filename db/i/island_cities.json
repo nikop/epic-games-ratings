@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,7 +31,7 @@
   "EOS_Progressed": 68,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 17.65,
   "EosHistory": [
     {
@@ -368,73 +368,73 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LEVEL_012",
@@ -537,8 +537,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-11T20:05:44.202574+00:00",
+  "LastChanged_Achievements": "2023-05-11T21:05:14.365044+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:19.9702608+00:00",
-  "LastUpdate_Ratings": "2023-05-11T19:58:11.9092565+00:00",
-  "LastUpdate_Achievements": "2023-05-11T20:05:44.202615+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:58:02.0850759+00:00",
+  "LastUpdate_Achievements": "2023-05-11T21:05:14.3650582+00:00"
 }

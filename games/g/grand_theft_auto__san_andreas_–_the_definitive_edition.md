@@ -5,15 +5,15 @@ Rating: 4.60 (Ranked 376)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,066 |
+| Getting Started | 80.00% | ~6,067 |
 | Pay 'n' Spray | 48.00% | ~3,640 |
 | All Dressed Up for San Fierro | 23.00% | ~1,744 |
 | The American Dream | 17.00% | ~1,289 |
 | School's Out | 16.00% | ~1,213 |
-| Smooth Moves | 15.00% | ~1,137 |
+| Smooth Moves | 15.00% | ~1,138 |
 | Today Was a Good Day | 14.00% | ~1,062 |
 | What happens in Las Venturas... | 12.00% | ~910 |
-| Horror of the Santa Maria | 9.00% | ~682 |
+| Horror of the Santa Maria | 9.00% | ~683 |
 | Liberty City State of Mind | 7.00% | ~531 |
 | With Extra Dip | 6.00% | ~455 |
 | The End of the Line | 6.00% | ~455 |
@@ -21,7 +21,7 @@ Rating: 4.60 (Ranked 376)
 | Saviour | 5.00% | ~379 |
 | They Can’t Stop All of Us | 4.00% | ~303 |
 | Rescue a Kitten Too? | 4.00% | ~303 |
-| What are the Odds | 3.00% | ~227 |
+| What are the Odds | 3.00% | ~228 |
 | I’ll Have Two Number 9s | 2.00% | ~152 |
 | Bike or Biker | 2.00% | ~152 |
 | What the City Needs | 2.00% | ~152 |
@@ -36,12 +36,12 @@ Rating: 4.60 (Ranked 376)
 | Chick Magnet | 0.90% | ~68 |
 | Lucky Spinner | 0.80% | ~61 |
 | Hoopin' it Up | 0.70% | ~53 |
-| Not a Player | 0.60% | ~45 |
+| Not a Player | 0.60% | ~46 |
 | Remastered | 0.50% | ~38 |
 | ...Here we go again | 0.20% | ~15 |
 | I Ain't No Buster | 0.20% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,583 (Ranked 110)  
+Progressed: 7,584 (Ranked 110)  
 Completed: 15 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 15 (0.20%) (Ranked 137)
 | 2023-05-08 | 7,560 | 15 |
 | 2023-05-09 | 7,568 | 15 |
 | 2023-05-10 | 7,573 | 15 |
-| 2023-05-11 | 7,583 | 15 |
+| 2023-05-11 | 7,584 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

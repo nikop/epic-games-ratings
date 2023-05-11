@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 688)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700 (Ranked 176)  
+Progressed: 701 (Ranked 176)  
 Completed: 2 (0.29%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 2 (0.29%) (Ranked 126)
 | 2023-05-08 | 691 | 2 |
 | 2023-05-09 | 694 | 2 |
 | 2023-05-10 | 698 | 2 |
-| 2023-05-11 | 700 | 2 |
+| 2023-05-11 | 701 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

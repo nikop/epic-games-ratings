@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~1,765 |
-| Ready for Winter | 64.00% | ~1,506 |
-| Ready for Summer | 51.00% | ~1,200 |
-| Cordon Bleu | 44.00% | ~1,035 |
+| Venture Outward | 75.00% | ~1,766 |
+| Ready for Winter | 64.00% | ~1,507 |
+| Ready for Summer | 51.00% | ~1,201 |
+| Cordon Bleu | 44.00% | ~1,036 |
 | Tapped! | 36.00% | ~847 |
-| Eureka | 31.00% | ~729 |
+| Eureka | 31.00% | ~730 |
 | Scourge Slayer | 25.00% | ~588 |
 | Home Sweet Home | 23.00% | ~541 |
 | Science, Troglodyte! | 23.00% | ~541 |
 | Exceptional Skill | 22.00% | ~518 |
 | Encyclopedic! | 20.00% | ~471 |
-| A Fortress Toppled! | 16.00% | ~376 |
-| Apex Predator | 16.00% | ~376 |
-| The Power of Family | 16.00% | ~376 |
+| A Fortress Toppled! | 16.00% | ~377 |
+| Apex Predator | 16.00% | ~377 |
+| The Power of Family | 16.00% | ~377 |
 | Strange amalgams | 13.00% | ~306 |
 | The Power of Faith | 13.00% | ~306 |
 | The Power of Freedom | 9.00% | ~212 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~7 |
 | The Absolute Pinnacle. | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,353 (Ranked 139)  
+Progressed: 2,354 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 1 (0.04%) (Ranked 175)
 | 2023-05-08 | 2,337 | 1 |
 | 2023-05-09 | 2,345 | 1 |
 | 2023-05-10 | 2,351 | 1 |
-| 2023-05-11 | 2,353 | 1 |
+| 2023-05-11 | 2,354 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 440)  
 Sum: 238 (Ranked 343)  

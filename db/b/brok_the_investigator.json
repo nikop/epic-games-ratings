@@ -2,7 +2,7 @@
   "ID": "a8bf762f26ca484cb26164d48821e90f",
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 80,
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -37,6 +37,11 @@
     {
       "Time": "2023-04-25T16:14:32.8723235+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T21:05:28.3623787+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -47,7 +52,7 @@
       "ID": "ADS",
       "SetID": "bb2dp",
       "Name": "Ads Fan",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "CHAPTER1",
       "SetID": "bb2dp",
       "Name": "Chapter 1",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -87,7 +92,7 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -95,7 +100,7 @@
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -103,7 +108,7 @@
       "ID": "CHAPTER4",
       "SetID": "bb2dp",
       "Name": "Chapter 4",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -111,7 +116,7 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -119,7 +124,7 @@
       "ID": "CHAPTER6",
       "SetID": "bb2dp",
       "Name": "Chapter 6",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -151,7 +156,7 @@
       "ID": "HIGHWAYSURVIVE",
       "SetID": "bb2dp",
       "Name": "Highway Survival",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "INTRO",
       "SetID": "bb2dp",
       "Name": "Introduction completed",
-      "Percentage": 83,
+      "Percentage": 71,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -183,7 +188,7 @@
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -231,7 +236,7 @@
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -263,7 +268,7 @@
       "ID": "WAKEUPHUSH",
       "SetID": "bb2dp",
       "Name": "Hard To Wake Up",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -280,7 +285,7 @@
     {
       "ID": "bb2dp",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
@@ -288,8 +293,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-05-11T20:06:00.1276943+00:00",
+  "LastChanged_Achievements": "2023-05-11T21:05:28.3623783+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:13.7126654+00:00",
-  "LastUpdate_Ratings": "2023-05-11T19:59:15.8114361+00:00",
-  "LastUpdate_Achievements": "2023-05-11T20:06:00.1277372+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:58:55.864051+00:00",
+  "LastUpdate_Achievements": "2023-05-11T21:05:28.362393+00:00"
 }

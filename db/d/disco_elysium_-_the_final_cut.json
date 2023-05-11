@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1073,7 +1073,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118263,
+  "EOS_Progressed": 118265,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
@@ -2693,6 +2693,11 @@
       "Time": "2023-05-11T18:06:20.1291043+00:00",
       "NumProgressed": 118263,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-11T21:05:30.4466008+00:00",
+      "NumProgressed": 118265,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -2736,7 +2741,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21287
+      "UsersEstimate": 21288
     },
     {
       "ID": "ACH_COP_BAD",
@@ -2760,7 +2765,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28383
+      "UsersEstimate": 28384
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -2840,7 +2845,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17739
+      "UsersEstimate": 17740
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -3023,15 +3028,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118263,
+      "Progressed": 118265,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-10T10:59:21.1666605+00:00",
-  "LastChanged_Achievements": "2023-05-11T20:06:02.5462723+00:00",
+  "LastChanged_Achievements": "2023-05-11T21:05:30.4466004+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-11T19:59:17.6777307+00:00",
-  "LastUpdate_Achievements": "2023-05-11T20:06:02.5463407+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:58:57.4438342+00:00",
+  "LastUpdate_Achievements": "2023-05-11T21:05:30.4466322+00:00"
 }

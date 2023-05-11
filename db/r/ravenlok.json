@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,8 +29,8 @@
   "Tags": [],
   "EOS_Progressed": 594,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 405,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 395,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
@@ -1100,17 +1100,17 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 202
     },
     {
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 202
     },
     {
       "ID": "28",
@@ -1124,9 +1124,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 202
     },
     {
       "ID": "3",
@@ -1156,9 +1156,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 214
     },
     {
       "ID": "33",
@@ -1196,9 +1196,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 208
     },
     {
       "ID": "38",
@@ -1276,9 +1276,9 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "47",
@@ -1365,8 +1365,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-11T20:05:37.5905182+00:00",
+  "LastChanged_Achievements": "2023-05-11T21:05:07.9102183+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-11T19:57:37.1042322+00:00",
-  "LastUpdate_Achievements": "2023-05-11T20:05:37.5905668+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:57:33.1452078+00:00",
+  "LastUpdate_Achievements": "2023-05-11T21:05:07.9102577+00:00"
 }

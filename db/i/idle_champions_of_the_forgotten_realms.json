@@ -3646,9 +3646,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87174,
+  "EOS_Progressed": 87178,
   "EOS_Completed": 1825,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5531,6 +5531,11 @@
       "Time": "2023-05-11T20:06:28.9966979+00:00",
       "NumProgressed": 87174,
       "NumCompleted": 1825
+    },
+    {
+      "Time": "2023-05-11T21:05:54.3857937+00:00",
+      "NumProgressed": 87178,
+      "NumCompleted": 1825
     }
   ],
   "TotalAchievements": 489,
@@ -5692,9 +5697,9 @@
       "ID": "objective_completed_1062",
       "SetID": "415jc5c",
       "Name": "Patron Party",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1063",
@@ -6422,7 +6427,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "objective_completed_1208",
@@ -6430,7 +6435,7 @@
       "Name": "Vecna Out!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "objective_completed_1209",
@@ -9453,21 +9458,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53448,
+      "Progressed": 53452,
       "Completed": 2491
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87174,
+      "Progressed": 87178,
       "Completed": 1825
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T19:58:13.1579822+00:00",
-  "LastChanged_Achievements": "2023-05-11T20:06:28.9966972+00:00",
+  "LastChanged_Achievements": "2023-05-11T21:05:54.3857933+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-11T19:58:13.157983+00:00",
-  "LastUpdate_Achievements": "2023-05-11T20:06:28.9993695+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:58:03.1249738+00:00",
+  "LastUpdate_Achievements": "2023-05-11T21:05:54.3878286+00:00"
 }

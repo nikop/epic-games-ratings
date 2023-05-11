@@ -846,9 +846,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2780,
+  "EOS_Progressed": 2781,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1871,6 +1871,11 @@
       "Time": "2023-05-11T17:06:28.0146866+00:00",
       "NumProgressed": 2780,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T21:05:49.0158269+00:00",
+      "NumProgressed": 2781,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1938,7 +1943,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -1986,7 +1991,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -2042,7 +2047,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2154,7 +2159,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2201,15 +2206,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2780,
+      "Progressed": 2781,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-11T20:06:23.3801691+00:00",
+  "LastChanged_Achievements": "2023-05-11T21:05:49.0158266+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-11T20:00:26.356971+00:00",
-  "LastUpdate_Achievements": "2023-05-11T20:06:23.3802053+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:59:54.8308828+00:00",
+  "LastUpdate_Achievements": "2023-05-11T21:05:49.0158549+00:00"
 }

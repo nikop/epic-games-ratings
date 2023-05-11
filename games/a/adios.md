@@ -1,21 +1,21 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.48 (Ranked 918)  
+Rating: 3.41 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~11,617 |
-| Hard Worker | 19.00% | ~10,511 |
-| Master, Commander | 19.00% | ~10,511 |
+| Be Seeing You | 21.00% | ~11,618 |
+| Hard Worker | 19.00% | ~10,512 |
+| Master, Commander | 19.00% | ~10,512 |
 | Mechanic | 18.00% | ~9,958 |
-| Adios, Friendo | 17.00% | ~9,404 |
-| Bottom's Up | 17.00% | ~9,404 |
-| Nice Try | 16.00% | ~8,851 |
+| Adios, Friendo | 17.00% | ~9,405 |
+| Bottom's Up | 17.00% | ~9,405 |
+| Nice Try | 16.00% | ~8,852 |
 | Right On Target | 13.00% | ~7,192 |
 | Piano Man | 10.00% | ~5,532 |
 | Lazy Bones | 9.00% | ~4,979 |
-| Vinyl Vibes | 7.00% | ~3,872 |
+| Vinyl Vibes | 7.00% | ~3,873 |
 | Nothing Left to Say | 6.00% | ~3,319 |
 | Sniper | 6.00% | ~3,319 |
 | Cut Call | 5.00% | ~2,766 |
@@ -31,7 +31,7 @@ Rating: 3.48 (Ranked 918)
 | Audiophile | 2.00% | ~1,106 |
 | Tape Head | 1.00% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,320 (Ranked 71)  
+Progressed: 55,324 (Ranked 71)  
 Completed: 443 (0.80%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,10 +52,11 @@ Completed: 443 (0.80%) (Ranked 92)
 | 2023-05-08 | 54,873 | 439 |
 | 2023-05-09 | 55,039 | 442 |
 | 2023-05-10 | 55,187 | 443 |
-| 2023-05-11 | 55,320 | 443 |
+| 2023-05-11 | 55,324 | 443 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
 | 2023-04-30 | 3.50 | 0 | 0 |
 | 2023-05-08 | 3.48 | 0 | 0 |
+| 2023-05-11 | 3.41 | 0 | 0 |

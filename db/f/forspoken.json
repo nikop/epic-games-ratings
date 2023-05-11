@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -230,7 +230,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37880,
+  "EOS_Progressed": 37884,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
@@ -1535,6 +1535,11 @@
       "Time": "2023-05-11T20:05:59.4160223+00:00",
       "NumProgressed": 37880,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T21:05:27.7402283+00:00",
+      "NumProgressed": 37884,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1594,7 +1599,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -1610,7 +1615,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -1722,7 +1727,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "JUSTCOUNTER",
@@ -1882,7 +1887,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "SPRING_ALL",
@@ -1969,22 +1974,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37880,
+      "Progressed": 37884,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2717,
-      "Completed": 2717
+      "Progressed": 2721,
+      "Completed": 2721
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-11T20:05:59.4160216+00:00",
+  "LastChanged_Achievements": "2023-05-11T21:05:27.7402279+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-11T19:58:46.1557542+00:00",
-  "LastUpdate_Achievements": "2023-05-11T20:05:59.4160789+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:58:30.6932124+00:00",
+  "LastUpdate_Achievements": "2023-05-11T21:05:27.7402687+00:00"
 }

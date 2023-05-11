@@ -190,9 +190,9 @@
       "ID": "23",
       "SetID": "1530e6b",
       "Name": "Collector",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "24",
@@ -303,8 +303,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-05-11T20:06:16.4001937+00:00",
+  "LastChanged_Achievements": "2023-05-11T21:05:42.9340428+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:02.0172938+00:00",
-  "LastUpdate_Ratings": "2023-05-11T20:00:11.9644349+00:00",
-  "LastUpdate_Achievements": "2023-05-11T20:06:16.4002542+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:59:42.8005684+00:00",
+  "LastUpdate_Achievements": "2023-05-11T21:05:42.9340563+00:00"
 }

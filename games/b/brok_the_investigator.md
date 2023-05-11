@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 83.00% | ~5 |
-| Chapter 1 | 33.00% | ~2 |
-| Chapter 2 | 33.00% | ~2 |
-| Chapter 3 | 33.00% | ~2 |
-| Chapter 4 | 33.00% | ~2 |
-| Chapter 5 | 33.00% | ~2 |
-| Your Days Are Numbered | 33.00% | ~2 |
-| All Materials | 33.00% | ~2 |
-| It's In My Nature | 33.00% | ~2 |
-| Ads Fan | 17.00% | ~1 |
-| Chapter 6 | 17.00% | ~1 |
-| Highway Survival | 17.00% | ~1 |
-| Hard To Wake Up | 17.00% | ~1 |
+| Introduction completed | 71.00% | ~5 |
+| Chapter 1 | 29.00% | ~2 |
+| Chapter 2 | 29.00% | ~2 |
+| Chapter 3 | 29.00% | ~2 |
+| Chapter 4 | 29.00% | ~2 |
+| Chapter 5 | 29.00% | ~2 |
+| Your Days Are Numbered | 29.00% | ~2 |
+| All Materials | 29.00% | ~2 |
+| It's In My Nature | 29.00% | ~2 |
+| Ads Fan | 14.00% | ~1 |
+| Chapter 6 | 14.00% | ~1 |
+| Highway Survival | 14.00% | ~1 |
+| Hard To Wake Up | 14.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
 | Best Student | 0.00% | ~0 |
@@ -34,12 +34,13 @@
 | Tramp Saver | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 325)  
+Progressed: 7 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 6 | 0 |
+| 2023-05-11 | 7 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

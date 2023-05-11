@@ -36,10 +36,10 @@ Rating: 4.54 (Ranked 477)
 | High Flier | 3.00% | ~550 |
 | To infinity, and beyond! | 3.00% | ~550 |
 | Space industrialization | 2.00% | ~367 |
+| Deertastic | 1.00% | ~183 |
 | High tech | 1.00% | ~183 |
 | Cleanup crew | 1.00% | ~183 |
 | Flying Lightning | 1.00% | ~183 |
-| Deertastic | 0.90% | ~165 |
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)

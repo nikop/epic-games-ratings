@@ -25,11 +25,11 @@
 | Teacups for Toppy | 37.00% | ~220 |
 | Nightmare Fuel | 36.00% | ~214 |
 | Take Heart | 36.00% | ~214 |
-| The Guardian | 35.00% | ~208 |
-| Stronger! | 34.00% | ~202 |
-| Ancient Wisdom | 33.00% | ~196 |
-| Frog Facts! | 33.00% | ~196 |
-| All That Glistens | 33.00% | ~196 |
+| The Guardian | 36.00% | ~214 |
+| Stronger! | 35.00% | ~208 |
+| Ancient Wisdom | 34.00% | ~202 |
+| Frog Facts! | 34.00% | ~202 |
+| All That Glistens | 34.00% | ~202 |
 | It's Pointy! | 33.00% | ~196 |
 | Spellbound | 32.00% | ~190 |
 | All Skilled Up! | 32.00% | ~190 |
@@ -48,7 +48,7 @@
 | Spot of Tea? | 27.00% | ~160 |
 | Going Home | 27.00% | ~160 |
 | Mirror, Mirror | 25.00% | ~148 |
-| Flower Power | 23.00% | ~137 |
+| Flower Power | 24.00% | ~143 |
 | Crowned | 20.00% | ~119 |
 | Shopping Spree! | 19.00% | ~113 |
 | Max Level! | 12.00% | ~71 |

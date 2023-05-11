@@ -12,7 +12,7 @@
 | Master of Cards | 59.00% | ~195 |
 | Over Nine Thousaaand | 56.00% | ~185 |
 | Getting the Hang Of This | 47.00% | ~155 |
-| Collector | 28.00% | ~92 |
+| Collector | 29.00% | ~96 |
 | Poker-Man | 21.00% | ~69 |
 | Blow ‘Em Up | 21.00% | ~69 |
 | That’s What Friends Are For | 20.00% | ~66 |
