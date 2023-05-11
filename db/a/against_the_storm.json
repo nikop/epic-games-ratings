@@ -2172,10 +2172,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3018,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-05-11T08:59:55.7146603+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3019,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3018,
+  "NumberOfAwards": 3019,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2201,7 +2207,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 389
+      "Count": 390
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2240,9 +2246,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 14741,
+  "EOS_Progressed": 14742,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3235,6 +3241,11 @@
       "Time": "2023-05-11T02:05:41.8423105+00:00",
       "NumProgressed": 14741,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-11T09:06:00.6029464+00:00",
+      "NumProgressed": 14742,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3364,9 +3375,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     },
     {
       "ID": "WinNearBarren",
@@ -3645,15 +3656,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14741,
+      "Progressed": 14742,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-05-10T07:59:27.2105993+00:00",
-  "LastChanged_Achievements": "2023-05-11T08:05:47.8537913+00:00",
+  "LastChanged": "2023-05-11T08:59:55.7146601+00:00",
+  "LastChanged_Achievements": "2023-05-11T09:06:00.6029457+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.8701585+00:00",
-  "LastUpdate_Ratings": "2023-05-11T07:59:29.9041236+00:00",
-  "LastUpdate_Achievements": "2023-05-11T08:05:47.8538412+00:00"
+  "LastUpdate_Ratings": "2023-05-11T08:59:55.7146609+00:00",
+  "LastUpdate_Achievements": "2023-05-11T09:06:00.6030048+00:00"
 }

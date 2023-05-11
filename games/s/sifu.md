@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,803 (Ranked 15)  
+Progressed: 702,805 (Ranked 15)  
 Completed: 12,720 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 12,720 (1.81%) (Ranked 62)
 | 2023-05-08 | 702,730 | 12,716 |
 | 2023-05-09 | 702,765 | 12,718 |
 | 2023-05-10 | 702,799 | 12,720 |
-| 2023-05-11 | 702,803 | 12,720 |
+| 2023-05-11 | 702,805 | 12,720 |
 ## Awards
 Max (Great Boss Battles): 6,046  (Ranked 53)  
 Sum: 10,261 (Ranked 77)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3385,
+  "EOS_Progressed": 3386,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -296,6 +296,11 @@
       "Time": "2023-05-09T12:56:49.8103781+00:00",
       "NumProgressed": 3385,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T09:05:47.249177+00:00",
+      "NumProgressed": 3386,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -387,7 +392,7 @@
       "Name": "...To Heroes",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -419,7 +424,7 @@
       "Name": "We\u0027re In",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -481,9 +486,9 @@
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
       "SetID": "kakdpn",
       "Name": "And Still Champion...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 474
+      "UsersEstimate": 440
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -514,7 +519,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3385,
+      "Progressed": 3386,
       "Completed": 0
     }
   ],
@@ -522,8 +527,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "LastChanged_Achievements": "2023-05-11T08:05:37.1340908+00:00",
+  "LastChanged_Achievements": "2023-05-11T09:05:47.2491764+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.7717422+00:00",
-  "LastUpdate_Ratings": "2023-05-11T07:59:02.8755376+00:00",
-  "LastUpdate_Achievements": "2023-05-11T08:05:37.1341119+00:00"
+  "LastUpdate_Ratings": "2023-05-11T08:59:25.9306796+00:00",
+  "LastUpdate_Achievements": "2023-05-11T09:05:47.2492047+00:00"
 }

@@ -102,9 +102,9 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 46,
+      "Percentage": 54,
       "XP": 150,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_boss2",
@@ -182,9 +182,9 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_lose",
@@ -231,8 +231,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-11T08:05:15.532665+00:00",
+  "LastChanged_Achievements": "2023-05-11T09:05:22.3606613+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-11T07:58:42.2932618+00:00",
-  "LastUpdate_Achievements": "2023-05-11T08:05:15.532679+00:00"
+  "LastUpdate_Ratings": "2023-05-11T08:59:00.9769006+00:00",
+  "LastUpdate_Achievements": "2023-05-11T09:05:22.3606747+00:00"
 }

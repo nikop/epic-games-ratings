@@ -169,6 +169,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 3.00% | ~329 |
 | The Turning Point | 3.00% | ~329 |
 | A Good Start | 3.00% | ~329 |
+| Like a Lion | 3.00% | ~329 |
 | Tell the Spartans | 3.00% | ~329 |
 | Macedonian Wars | 3.00% | ~329 |
 | Realistic Mortality | 3.00% | ~329 |
@@ -187,7 +188,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Rise of Rome | 2.00% | ~219 |
 | Game of the Week | 2.00% | ~219 |
 | Get the Hellas Out | 2.00% | ~219 |
-| Like a Lion | 2.00% | ~219 |
 | The Olive Wreath | 2.00% | ~219 |
 | Those Were Mine | 2.00% | ~219 |
 | What's 'hubris' in Greek? | 2.00% | ~219 |

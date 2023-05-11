@@ -6,15 +6,15 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,546 |
-| Leader | 60.00% | ~3,083 |
+| First Step | 69.00% | ~3,547 |
+| Leader | 60.00% | ~3,084 |
 | Explorer | 53.00% | ~2,724 |
 | Healer | 53.00% | ~2,724 |
 | Aspiring Inventor | 45.00% | ~2,313 |
 | Adventurer | 41.00% | ~2,107 |
 | Famous Healer | 38.00% | ~1,953 |
 | Local Leader | 35.00% | ~1,799 |
-| New Opportunities | 34.00% | ~1,747 |
+| New Opportunities | 34.00% | ~1,748 |
 | Famous Explorer | 33.00% | ~1,696 |
 | Energized | 33.00% | ~1,696 |
 | The Long Haul | 33.00% | ~1,696 |
@@ -25,18 +25,18 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 27.00% | ~1,388 |
 | Finders, Keepers | 25.00% | ~1,285 |
 | Top Notch | 25.00% | ~1,285 |
+| Ice Lakes | 23.00% | ~1,182 |
 | Mentor | 23.00% | ~1,182 |
 | Great Leader | 22.00% | ~1,131 |
-| Ice Lakes | 22.00% | ~1,131 |
 | Real Survivor | 22.00% | ~1,131 |
 | Merchant | 21.00% | ~1,079 |
-| War Never Changes | 19.00% | ~976 |
-| Rocket Surgeon | 19.00% | ~976 |
+| War Never Changes | 19.00% | ~977 |
+| Rocket Surgeon | 19.00% | ~977 |
 | Friendly | 16.00% | ~822 |
 | Big Game Hunter | 16.00% | ~822 |
 | Around the World | 15.00% | ~771 |
 | Spreading Influence | 15.00% | ~771 |
-| Bookworm | 14.00% | ~719 |
+| Bookworm | 14.00% | ~720 |
 | Famous Adventurer | 13.00% | ~668 |
 | Prepared for Anything | 13.00% | ~668 |
 | Big Catastrofan | 12.00% | ~617 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,139 (Ranked 120)  
+Progressed: 5,140 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 5,063 | 0 |
 | 2023-05-09 | 5,091 | 0 |
 | 2023-05-10 | 5,125 | 0 |
-| 2023-05-11 | 5,139 | 0 |
+| 2023-05-11 | 5,140 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 321)  
 Sum: 651 (Ranked 267)  

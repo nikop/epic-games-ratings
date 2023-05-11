@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | So far so good... | 85.00% | ~11 |
 | Getting somewhere | 77.00% | ~10 |
+| Top notch! | 62.00% | ~8 |
+| Slay it! | 54.00% | ~7 |
 | Poor things... | 54.00% | ~7 |
-| Top notch! | 54.00% | ~7 |
-| Slay it! | 46.00% | ~6 |
 | Bling bling! | 46.00% | ~6 |
 | Lives lost | 38.00% | ~5 |
 | Still alive! | 31.00% | ~4 |

@@ -1409,7 +1409,7 @@
   ],
   "EOS_Progressed": 10959,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3740,9 +3740,9 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
       "SetID": "9201eeb",
       "Name": "Like a Lion",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 329
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_30",
@@ -5010,8 +5010,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-05-08T13:05:19.6372301+00:00",
-  "LastChanged_Achievements": "2023-05-11T08:05:39.7004804+00:00",
+  "LastChanged_Achievements": "2023-05-11T09:05:50.3256196+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.7726608+00:00",
-  "LastUpdate_Ratings": "2023-05-11T07:57:43.7665375+00:00",
-  "LastUpdate_Achievements": "2023-05-11T08:05:39.7013367+00:00"
+  "LastUpdate_Ratings": "2023-05-11T08:57:48.9542337+00:00",
+  "LastUpdate_Achievements": "2023-05-11T09:05:50.3264381+00:00"
 }

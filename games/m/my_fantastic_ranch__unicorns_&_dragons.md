@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 100.00% | ~1 |
+| Let the Adventure Begin! | 100.00% | ~2 |
 | Creature Evolution | 0.00% | ~0 |
 | Think Positive | 0.00% | ~0 |
 | Kingdom Champions | 0.00% | ~0 |
@@ -30,12 +30,13 @@
 | Kindred Spirits | 0.00% | ~0 |
 | Prized Possession | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 369)  
+Progressed: 2 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-05 | 1 | 0 |
+| 2023-05-11 | 2 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,30 +6,30 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~124,138 |
-| Titan's First Steps | 96.00% | ~122,858 |
-| Basic in Bulk | 91.00% | ~116,459 |
-| Tinkle of Coins | 87.00% | ~111,340 |
+| Sponsored by Argon | 97.00% | ~124,139 |
+| Titan's First Steps | 96.00% | ~122,859 |
+| Basic in Bulk | 91.00% | ~116,460 |
+| Tinkle of Coins | 87.00% | ~111,341 |
 | Disintermediation | 76.00% | ~97,263 |
-| Capitalism Ho! | 75.00% | ~95,983 |
-| It's Free Real Estate | 70.00% | ~89,584 |
+| Capitalism Ho! | 75.00% | ~95,984 |
+| It's Free Real Estate | 70.00% | ~89,585 |
 | Budding Merchant | 66.00% | ~84,465 |
-| Another Satisfied Customer | 61.00% | ~78,066 |
-| One Easy Payment | 60.00% | ~76,786 |
-| Own the Means of Production | 60.00% | ~76,786 |
-| Some Assembly Required | 59.00% | ~75,506 |
+| Another Satisfied Customer | 61.00% | ~78,067 |
+| One Easy Payment | 60.00% | ~76,787 |
+| Own the Means of Production | 60.00% | ~76,787 |
+| Some Assembly Required | 59.00% | ~75,507 |
 | Pretty Penny | 57.00% | ~72,947 |
-| One-Armed Bandit | 50.00% | ~63,988 |
-| Through Repetition, Perfection | 47.00% | ~60,149 |
-| The Daily Grind | 46.00% | ~58,869 |
+| One-Armed Bandit | 50.00% | ~63,989 |
+| Through Repetition, Perfection | 47.00% | ~60,150 |
+| The Daily Grind | 46.00% | ~58,870 |
 | Bounty Hunters | 44.00% | ~56,310 |
-| Where it Hurts | 43.00% | ~55,030 |
-| Dungeon Imports | 43.00% | ~55,030 |
+| Where it Hurts | 43.00% | ~55,031 |
+| Dungeon Imports | 43.00% | ~55,031 |
 | Flooding the Market | 41.00% | ~52,471 |
 | Demand for Supplies | 39.00% | ~49,911 |
-| Gild-Gotten Goods | 37.00% | ~47,351 |
+| Gild-Gotten Goods | 37.00% | ~47,352 |
 | Did we pack lunch? | 35.00% | ~44,792 |
-| Arcane Industries | 34.00% | ~43,512 |
+| Arcane Industries | 34.00% | ~43,513 |
 | Accomplished Merchant | 31.00% | ~39,673 |
 | On the Path to Greatness | 28.00% | ~35,834 |
 | Ascended | 28.00% | ~35,834 |
@@ -39,13 +39,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 27.00% | ~34,554 |
 | Vanity, Verily | 26.00% | ~33,274 |
 | Research & Development | 25.00% | ~31,994 |
-| Power of Love | 24.00% | ~30,714 |
-| Flawless Fusion | 24.00% | ~30,714 |
+| Power of Love | 24.00% | ~30,715 |
+| Flawless Fusion | 24.00% | ~30,715 |
 | Natural 20 | 23.00% | ~29,435 |
 | Fated Encounters | 21.00% | ~26,875 |
 | Royal Ransom | 21.00% | ~26,875 |
 | Magical Harmony | 21.00% | ~26,875 |
-| Tax not Included | 20.00% | ~25,595 |
+| Tax not Included | 20.00% | ~25,596 |
 | Trash to Treasure | 18.00% | ~23,036 |
 | For the Hoard! | 17.00% | ~21,756 |
 | Special Ingredient | 17.00% | ~21,756 |
@@ -63,12 +63,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 12.00% | ~15,357 |
 | Mammonite | 12.00% | ~15,357 |
 | Attrition Mission | 12.00% | ~15,357 |
-| Above the Norm | 11.00% | ~14,077 |
-| Omae wa Mou Shindeiru | 11.00% | ~14,077 |
-| Cranked up to 11 | 11.00% | ~14,077 |
-| By Your Powers Combined... | 11.00% | ~14,077 |
-| Exotic Commodities | 11.00% | ~14,077 |
-| Complete Monopoly | 11.00% | ~14,077 |
+| Above the Norm | 11.00% | ~14,078 |
+| Omae wa Mou Shindeiru | 11.00% | ~14,078 |
+| Cranked up to 11 | 11.00% | ~14,078 |
+| By Your Powers Combined... | 11.00% | ~14,078 |
+| Exotic Commodities | 11.00% | ~14,078 |
+| Complete Monopoly | 11.00% | ~14,078 |
 | Ritualist | 9.00% | ~11,518 |
 | Master Merchant | 9.00% | ~11,518 |
 | Glittering Collection | 9.00% | ~11,518 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~512 |
 | Capitalist Camaraderie | 0.20% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,977 (Ranked 54)  
+Progressed: 127,978 (Ranked 54)  
 Completed: 78 (0.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 78 (0.06%) (Ranked 167)
 | 2023-05-08 | 127,853 | 78 |
 | 2023-05-09 | 127,907 | 78 |
 | 2023-05-10 | 127,968 | 78 |
-| 2023-05-11 | 127,977 | 78 |
+| 2023-05-11 | 127,978 | 78 |
 ## Awards
 Max (Great for Beginners): 4,558  (Ranked 66)  
 Sum: 26,540 (Ranked 43)  

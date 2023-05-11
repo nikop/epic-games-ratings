@@ -4,7 +4,7 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 808,
   "Ranking_Popularity": 299,
-  "Ranking_PopularitySum": 250,
+  "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 58,
@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11720,
+  "EOS_Progressed": 11722,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3024,6 +3024,11 @@
       "Time": "2023-05-11T08:05:43.4684333+00:00",
       "NumProgressed": 11720,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-11T09:05:55.6907572+00:00",
+      "NumProgressed": 11722,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -3043,7 +3048,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "1017",
@@ -3051,7 +3056,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "1018",
@@ -3155,7 +3160,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "1031",
@@ -3171,7 +3176,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "1033",
@@ -3210,15 +3215,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 11720,
+      "Progressed": 11722,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-11T08:05:43.4684329+00:00",
+  "LastChanged_Achievements": "2023-05-11T09:05:55.6907565+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:16.408987+00:00",
-  "LastUpdate_Ratings": "2023-05-11T07:59:40.692026+00:00",
-  "LastUpdate_Achievements": "2023-05-11T08:05:43.4684625+00:00"
+  "LastUpdate_Ratings": "2023-05-11T09:00:09.695296+00:00",
+  "LastUpdate_Achievements": "2023-05-11T09:05:55.6907876+00:00"
 }

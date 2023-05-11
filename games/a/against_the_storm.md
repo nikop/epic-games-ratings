@@ -13,12 +13,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 0.80% | ~118 |
 | Coral Forest | 0.80% | ~118 |
 | The Scarlet Orchard | 0.80% | ~118 |
+| Bandit Camp | 0.70% | ~103 |
 | Barren Lands | 0.70% | ~103 |
 | Lost Colonies | 0.70% | ~103 |
 | Taking Action | 0.70% | ~103 |
 | Like a Machine | 0.70% | ~103 |
 | Trade Baron | 0.70% | ~103 |
-| Bandit Camp | 0.60% | ~88 |
 | Ancient Battleground | 0.60% | ~88 |
 | Royal Outpost | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,741 (Ranked 98)  
+Progressed: 14,742 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,16 +78,16 @@ Completed: 30 (0.20%) (Ranked 137)
 | 2023-05-08 | 14,720 | 30 |
 | 2023-05-09 | 14,731 | 30 |
 | 2023-05-10 | 14,738 | 30 |
-| 2023-05-11 | 14,741 | 30 |
+| 2023-05-11 | 14,742 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
-Sum: 3,018 (Ranked 151)  
+Sum: 3,019 (Ranked 151)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |
 | This game is Relaxing | 410 |
-| This game is Extremely Fun | 389 |
+| This game is Extremely Fun | 390 |
 | This game is Great for Beginners | 373 |
 | This game is Highly Recommended | 370 |
 | This game has Unique Visuals | 300 |
@@ -212,3 +212,4 @@ Diff (max vs sum): 41
 | 2023-05-07 | 4.81 | - | 417 | 3,016 |
 | 2023-05-08 | 4.81 | - | 417 | 3,017 |
 | 2023-05-10 | 4.81 | - | 417 | 3,018 |
+| 2023-05-11 | 4.81 | - | 417 | 3,019 |
