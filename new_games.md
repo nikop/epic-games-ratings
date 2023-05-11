@@ -1,5 +1,7 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 2022-06-16 |
+| [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2023-05-11 | 2023-05-11 |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2023-05-11 | 2021-12-16 |
 | [Voodolls](games/v/voodolls.md) | 2023-05-11 | 2023-05-11 |
 | [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | 2023-05-11 |
@@ -150,5 +152,3 @@
 | [The First Spark](games/t/the_first_spark.md) | 2023-04-12 | 2023-04-12 |
 | [Soda Story - Brewing Tycoon](games/s/soda_story_-_brewing_tycoon.md) | 2023-04-12 | 2022-07-20 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 2022-12-05 |
-| [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 2023-04-11 | 2022-05-31 |
-| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 2023-04-11 |

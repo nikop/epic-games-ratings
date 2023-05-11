@@ -20,13 +20,13 @@
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.77% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [Scorn](games/s/scorn.md) | 7.10% |
 | 24 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.11% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.10% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -58,7 +58,7 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -108,7 +108,7 @@
 | 105 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 105 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 108 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
-| 109 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
+| 109 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 110 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 111 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 111 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -391,6 +391,7 @@
 | 198 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
 | 198 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
 | 198 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
+| 198 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 0.00% |
 | 198 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |

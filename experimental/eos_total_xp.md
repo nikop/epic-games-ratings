@@ -409,9 +409,11 @@
 | [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
 | [Who Pressed Mute on Uncle Marcus?](../games/w/who_pressed_mute_on_uncle_marcus.md) | 17 | 1,000 |
+| [Wild Animal Sports Day](../games/w/wild_animal_sports_day.md) | 10 | 1,000 |
 | [Wildcat Gun Machine](../games/w/wildcat_gun_machine.md) | 20 | 1,000 |
 | [Wildermyth](../games/w/wildermyth.md) | 56 | 1,000 |
 | [Without Escape](../games/w/without_escape.md) | 9 | 1,000 |
+| [World of Contraptions](../games/w/world_of_contraptions.md) | 26 | 1,000 |
 | [WTC - Relentless Protagonist](../games/w/wtc_-_relentless_protagonist.md) | 60 | 1,000 |
 | [Wunderling DX](../games/w/wunderling_dx.md) | 41 | 1,000 |
 | [Yars: Recharged](../games/y/yars__recharged.md) | 15 | 1,000 |

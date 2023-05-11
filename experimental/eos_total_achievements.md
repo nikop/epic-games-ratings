@@ -273,6 +273,7 @@
 | [New Tales from the Borderlands](../games/n/new_tales_from_the_borderlands.md) | 26 | 1,000 |
 | [Outcore - Desktop Adventure](../games/o/outcore_-_desktop_adventure.md) | 26 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
+| [World of Contraptions](../games/w/world_of_contraptions.md) | 26 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
 | [My Fantastic Ranch: Unicorns & Dragons](../games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 25 | 1,000 |
@@ -409,6 +410,7 @@
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Monster Harvest](../games/m/monster_harvest.md) | 10 | 1,000 |
 | [Volley Pals](../games/v/volley_pals.md) | 10 | 1,000 |
+| [Wild Animal Sports Day](../games/w/wild_animal_sports_day.md) | 10 | 1,000 |
 | [Doodle Devil](../games/d/doodle_devil.md) | 9 | 1,000 |
 | [Switchball HD](../games/s/switchball_hd.md) | 9 | 1,000 |
 | [Without Escape](../games/w/without_escape.md) | 9 | 1,000 |
