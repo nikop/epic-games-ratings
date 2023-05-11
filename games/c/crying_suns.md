@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,094 |
-| Jeef Skeejj | 44.00% | ~201,396 |
-| Careful planning | 39.00% | ~178,510 |
-| Second Coming | 33.00% | ~151,047 |
-| Jeef Skagg | 30.00% | ~137,315 |
+| The Shutdown | 66.00% | ~302,096 |
+| Jeef Skeejj | 44.00% | ~201,397 |
+| Careful planning | 39.00% | ~178,511 |
+| Second Coming | 33.00% | ~151,048 |
+| Jeef Skagg | 30.00% | ~137,316 |
 | Mother | 25.00% | ~114,430 |
-| In space, no one can hear you scream | 23.00% | ~105,275 |
-| Chapter I: Echoes | 22.00% | ~100,698 |
-| Excelsior Rule | 22.00% | ~100,698 |
+| In space, no one can hear you scream | 23.00% | ~105,276 |
+| Chapter I: Echoes | 22.00% | ~100,699 |
+| Excelsior Rule | 22.00% | ~100,699 |
 | Things persisted in not being what they seemed | 20.00% | ~91,544 |
 | Knightmare Frames | 15.00% | ~68,658 |
 | May His passing cleanse the world | 15.00% | ~68,658 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | Tetsuo | 11.00% | ~50,349 |
 | Plan for the worst | 11.00% | ~50,349 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,772 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~36,617 |
-| Through the mirror | 8.00% | ~36,617 |
-| General Vivar | 8.00% | ~36,617 |
-| Back to Ganyma | 8.00% | ~36,617 |
-| Kaos Rule | 8.00% | ~36,617 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~36,618 |
+| Through the mirror | 8.00% | ~36,618 |
+| General Vivar | 8.00% | ~36,618 |
+| Back to Ganyma | 8.00% | ~36,618 |
+| Kaos Rule | 8.00% | ~36,618 |
 | Admiral Okonkwo | 7.00% | ~32,040 |
 | The Survivalists | 7.00% | ~32,040 |
 | The Tech Specialist | 7.00% | ~32,040 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,718 (Ranked 28)  
+Progressed: 457,721 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 14 (0.00%) (Ranked 198)
 | 2023-05-08 | 457,563 | 14 |
 | 2023-05-09 | 457,634 | 14 |
 | 2023-05-10 | 457,695 | 14 |
-| 2023-05-11 | 457,718 | 14 |
+| 2023-05-11 | 457,721 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 60)  
+Rating: 4.82 (Ranked 59)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,810 (Ranked 15)  
+Progressed: 702,811 (Ranked 15)  
 Completed: 12,721 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,14 +78,14 @@ Completed: 12,721 (1.81%) (Ranked 62)
 | 2023-05-08 | 702,730 | 12,716 |
 | 2023-05-09 | 702,765 | 12,718 |
 | 2023-05-10 | 702,799 | 12,720 |
-| 2023-05-11 | 702,810 | 12,721 |
+| 2023-05-11 | 702,811 | 12,721 |
 ## Awards
-Max (Great Boss Battles): 6,046  (Ranked 53)  
-Sum: 10,263 (Ranked 77)  
+Max (Great Boss Battles): 6,050  (Ranked 53)  
+Sum: 10,267 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,046 |
+| This game has Great Boss Battles | 6,050 |
 | This game has Diverse Characters | 504 |
 | This game has Challenging Combat | 501 |
 | This game has Quickly Understood Controls | 497 |
@@ -215,4 +215,4 @@ Diff (max vs sum): -24
 | 2023-05-08 | 4.82 | - | 6,041 | 10,245 |
 | 2023-05-09 | 4.82 | - | 6,044 | 10,252 |
 | 2023-05-10 | 4.82 | - | 6,046 | 10,258 |
-| 2023-05-11 | 4.82 | - | 6,046 | 10,263 |
+| 2023-05-11 | 4.82 | - | 6,050 | 10,267 |

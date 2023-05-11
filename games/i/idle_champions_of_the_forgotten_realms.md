@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~174 |
 | Wet Feet | 0.20% | ~174 |
 | Hatchlings Underfoot | 0.20% | ~174 |
+| Will of the Feywild | 0.20% | ~107 |
 | The Lutes of Loomlurch | 0.20% | ~107 |
 | Supply Run | 0.20% | ~174 |
 | Seeds of Destruction | 0.20% | ~107 |
@@ -162,6 +163,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.20% | ~174 |
 | Dwarven Rumors | 0.20% | ~107 |
 | Sunblight | 0.20% | ~107 |
+| The Radiant Nightmare | 0.20% | ~107 |
 | Witty Riposting | 0.20% | ~107 |
 | Waiting on Sunrise | 0.20% | ~107 |
 | How Far Away is Thay | 0.20% | ~107 |
@@ -217,7 +219,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Head over Heals | 0.10% | ~53 |
 | The Demon Lords of the Abyss | 0.10% | ~53 |
 | Speed Demons | 0.10% | ~53 |
-| Will of the Feywild | 0.10% | ~53 |
 | All Damage, All The Time | 0.10% | ~53 |
 | Will of the Frozen Feywild | 0.10% | ~53 |
 | The Roots of Loomlurch | 0.10% | ~53 |
@@ -449,7 +450,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Idyllglen | 0.10% | ~53 |
 | The Madness of Yeenoghu | 0.10% | ~53 |
 | Reya Reborn | 0.10% | ~53 |
-| The Radiant Nightmare | 0.10% | ~53 |
 | Quick Thinking | 0.10% | ~53 |
 | Tough Acting | 0.10% | ~53 |
 | Frontline Fighters | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,140 (Ranked 59)  
+Progressed: 87,144 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,140 | 1,825 |
+| 2023-05-11 | 87,144 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,856 (Ranked 37)  

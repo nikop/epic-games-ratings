@@ -22,7 +22,7 @@ Rating: 4.07 (Ranked 866)
 | Those Were the Days... | 18.00% | ~609 |
 | ...To Heroes | 17.00% | ~576 |
 | Mas, Por Favor | 16.00% | ~542 |
-| And Still Champion... | 13.00% | ~440 |
+| And Still Champion... | 14.00% | ~474 |
 | Super Trusting Friend! | 9.00% | ~305 |
 | Bring back the butt! | 4.00% | ~135 |
 | Hey, thanks! | 4.00% | ~135 |

@@ -6,48 +6,48 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~219,048 |
-| Uncharted Territory | 89.00% | ~203,076 |
-| Getting A Glimpse | 73.00% | ~166,568 |
-| A Quick Escape | 65.00% | ~148,314 |
-| Explorer | 62.00% | ~141,468 |
-| Defeat The Dark | 61.00% | ~139,187 |
-| An Offering | 61.00% | ~139,187 |
-| Colorful Corpse | 58.00% | ~132,342 |
-| That Was Quick | 56.00% | ~127,778 |
-| A Donation | 56.00% | ~127,778 |
-| Goodbye, Frog Friend | 54.00% | ~123,215 |
-| Heavy Hitter | 52.00% | ~118,651 |
-| Heartless | 46.00% | ~104,960 |
-| Spine Breaker | 46.00% | ~104,960 |
-| Deflection | 44.00% | ~100,397 |
-| Sneaky | 43.00% | ~98,115 |
-| Delving Deeper | 42.00% | ~95,834 |
-| Ambitious Intent | 41.00% | ~93,552 |
-| C-C-Combo | 41.00% | ~93,552 |
-| The Bestiary | 40.00% | ~91,270 |
-| Nothing To Lose | 39.00% | ~88,988 |
-| What's Yours Is Mine | 38.00% | ~86,706 |
-| R.I.P | 36.00% | ~82,143 |
-| Shootout | 35.00% | ~79,861 |
-| Cold Hearted | 34.00% | ~77,580 |
-| I Am Overburdened | 34.00% | ~77,580 |
-| Dig Your Own Grave | 32.00% | ~73,016 |
-| Toxic | 32.00% | ~73,016 |
-| Who To Trust? | 31.00% | ~70,734 |
-| Flesh Wound | 29.00% | ~66,171 |
-| Walk It Off | 27.00% | ~61,607 |
-| Stone Touch | 27.00% | ~61,607 |
-| Acid Bath | 27.00% | ~61,607 |
-| Shadow Walker | 27.00% | ~61,607 |
+| First Steps | 96.00% | ~219,051 |
+| Uncharted Territory | 89.00% | ~203,078 |
+| Getting A Glimpse | 73.00% | ~166,570 |
+| A Quick Escape | 65.00% | ~148,316 |
+| Explorer | 62.00% | ~141,470 |
+| Defeat The Dark | 61.00% | ~139,189 |
+| An Offering | 61.00% | ~139,189 |
+| Colorful Corpse | 58.00% | ~132,343 |
+| That Was Quick | 56.00% | ~127,780 |
+| A Donation | 56.00% | ~127,780 |
+| Goodbye, Frog Friend | 54.00% | ~123,216 |
+| Heavy Hitter | 52.00% | ~118,653 |
+| Heartless | 46.00% | ~104,962 |
+| Spine Breaker | 46.00% | ~104,962 |
+| Deflection | 44.00% | ~100,398 |
+| Sneaky | 43.00% | ~98,117 |
+| Delving Deeper | 42.00% | ~95,835 |
+| Ambitious Intent | 41.00% | ~93,553 |
+| C-C-Combo | 41.00% | ~93,553 |
+| The Bestiary | 40.00% | ~91,271 |
+| Nothing To Lose | 39.00% | ~88,989 |
+| What's Yours Is Mine | 38.00% | ~86,708 |
+| R.I.P | 36.00% | ~82,144 |
+| Shootout | 35.00% | ~79,862 |
+| Cold Hearted | 34.00% | ~77,581 |
+| I Am Overburdened | 34.00% | ~77,581 |
+| Dig Your Own Grave | 32.00% | ~73,017 |
+| Toxic | 32.00% | ~73,017 |
+| Who To Trust? | 31.00% | ~70,735 |
+| Flesh Wound | 29.00% | ~66,172 |
+| Walk It Off | 27.00% | ~61,608 |
+| Stone Touch | 27.00% | ~61,608 |
+| Acid Bath | 27.00% | ~61,608 |
+| Shadow Walker | 27.00% | ~61,608 |
 | Consecutive Curses | 26.00% | ~59,326 |
 | Destroy Your Fears | 26.00% | ~59,326 |
 | New Perspectives | 26.00% | ~59,326 |
 | Shapeshifting | 26.00% | ~59,326 |
-| Save Our Souls | 24.00% | ~54,762 |
-| To The Death! | 19.00% | ~43,353 |
-| Well Prepared | 19.00% | ~43,353 |
-| Just Chilling | 19.00% | ~43,353 |
+| Save Our Souls | 24.00% | ~54,763 |
+| To The Death! | 19.00% | ~43,354 |
+| Well Prepared | 19.00% | ~43,354 |
+| Just Chilling | 19.00% | ~43,354 |
 | All Consuming | 18.00% | ~41,072 |
 | Stop Hitting Yourself | 18.00% | ~41,072 |
 | Shadow Spreads | 16.00% | ~36,508 |
@@ -60,7 +60,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 12.00% | ~27,381 |
 | Berzerker | 12.00% | ~27,381 |
 | Chain Reaction | 12.00% | ~27,381 |
-| Antivenom | 11.00% | ~25,099 |
+| Antivenom | 11.00% | ~25,100 |
 | Thank You, Friend | 10.00% | ~22,818 |
 | Barbecue | 10.00% | ~22,818 |
 | Snake Sneak | 9.00% | ~20,536 |
@@ -76,13 +76,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 7.00% | ~15,972 |
 | Fire Away! | 7.00% | ~15,972 |
 | Sentimental Value | 7.00% | ~15,972 |
-| A Long Climb | 6.00% | ~13,690 |
-| Grave Digger | 6.00% | ~13,690 |
-| Soul Stash | 6.00% | ~13,690 |
-| Gigantic | 6.00% | ~13,690 |
-| Power Score | 6.00% | ~13,690 |
-| Just Looking Around | 6.00% | ~13,690 |
-| Obsessed | 6.00% | ~13,690 |
+| A Long Climb | 6.00% | ~13,691 |
+| Grave Digger | 6.00% | ~13,691 |
+| Soul Stash | 6.00% | ~13,691 |
+| Gigantic | 6.00% | ~13,691 |
+| Power Score | 6.00% | ~13,691 |
+| Just Looking Around | 6.00% | ~13,691 |
+| Obsessed | 6.00% | ~13,691 |
 | Champion of the Day | 5.00% | ~11,409 |
 | Achievement Hunter | 4.00% | ~9,127 |
 | Hydrophobe | 4.00% | ~9,127 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~913 |
 | Near Death Experience | 0.30% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,175 (Ranked 41)  
+Progressed: 228,178 (Ranked 41)  
 Completed: 228 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,14 +150,14 @@ Completed: 228 (0.10%) (Ranked 155)
 | 2023-05-08 | 228,029 | 226 |
 | 2023-05-09 | 228,086 | 228 |
 | 2023-05-10 | 228,144 | 228 |
-| 2023-05-11 | 228,175 | 228 |
+| 2023-05-11 | 228,178 | 228 |
 ## Awards
-Max (Quickly Understood Controls): 1,471  (Ranked 114)  
-Sum: 11,387 (Ranked 74)  
+Max (Quickly Understood Controls): 1,472  (Ranked 114)  
+Sum: 11,389 (Ranked 74)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 1,471 |
+| This game has Quickly Understood Controls | 1,472 |
 | This game is Great for Beginners | 1,429 |
 | This game is Relaxing | 1,406 |
 | This game has Challenging Combat | 1,393 |
@@ -167,7 +167,7 @@ Diff (max vs sum): 40
 | This game has Amazing Characters | 1,198 |
 | This game has Unique Visuals | 1,182 |
 | This game has Obsessive Gameplay | 1,088 |
-| This game has a Creative Community | 723 |
+| This game has a Creative Community | 724 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -236,3 +236,4 @@ Diff (max vs sum): 40
 | 2023-05-07 | 4.58 | - | 1,470 | 11,383 |
 | 2023-05-08 | 4.58 | - | 1,471 | 11,386 |
 | 2023-05-09 | 4.58 | - | 1,471 | 11,387 |
+| 2023-05-11 | 4.58 | - | 1,472 | 11,389 |

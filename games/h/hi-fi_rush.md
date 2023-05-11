@@ -22,13 +22,13 @@ Rating: 4.86 (Ranked 27)
 | Whoa! There's ANOTHER health bar!? | 54.00% | ~800 |
 | The Negotiator | 52.00% | ~771 |
 | Does that say weakpoint? | 52.00% | ~771 |
+| Out in a puff of smoke | 47.00% | ~697 |
 | You must like calling me in, Chai | 46.00% | ~682 |
-| Out in a puff of smoke | 46.00% | ~682 |
 | Headliner | 45.00% | ~667 |
 | Time to pay up! | 42.00% | ~622 |
 | Perfecter Parry-er! | 42.00% | ~622 |
 | Who's the boss now? | 40.00% | ~593 |
-| I have to read these things? | 37.00% | ~548 |
+| I have to read these things? | 38.00% | ~563 |
 | I look cool. But I can look COOLER. | 37.00% | ~548 |
 | That's a lot of junk metal… | 29.00% | ~430 |
 | There's such a thing as TOO helpful | 29.00% | ~430 |

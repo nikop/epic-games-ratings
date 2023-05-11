@@ -3634,9 +3634,9 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87140,
+  "EOS_Progressed": 87144,
   "EOS_Completed": 1825,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -5489,6 +5489,11 @@
       "Time": "2023-05-11T14:06:25.8604651+00:00",
       "NumProgressed": 87140,
       "NumCompleted": 1825
+    },
+    {
+      "Time": "2023-05-11T15:05:58.0549637+00:00",
+      "NumProgressed": 87144,
+      "NumCompleted": 1825
     }
   ],
   "TotalAchievements": 489,
@@ -6010,9 +6015,9 @@
       "ID": "objective_completed_1132",
       "SetID": "415jc5c",
       "Name": "Will of the Feywild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1133",
@@ -8970,9 +8975,9 @@
       "ID": "objective_completed_847",
       "SetID": "415jc5c",
       "Name": "The Radiant Nightmare",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_848",
@@ -9411,21 +9416,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53414,
+      "Progressed": 53418,
       "Completed": 2490
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87140,
+      "Progressed": 87144,
       "Completed": 1825
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T07:57:50.1776572+00:00",
-  "LastChanged_Achievements": "2023-05-11T14:06:25.8604645+00:00",
+  "LastChanged_Achievements": "2023-05-11T15:05:58.0549632+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:58:14.218285+00:00",
-  "LastUpdate_Achievements": "2023-05-11T14:06:25.8637556+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:58:14.9362504+00:00",
+  "LastUpdate_Achievements": "2023-05-11T15:05:58.0573031+00:00"
 }

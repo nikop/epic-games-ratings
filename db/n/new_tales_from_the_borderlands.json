@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -486,9 +486,9 @@
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
       "SetID": "kakdpn",
       "Name": "And Still Champion...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 440
+      "UsersEstimate": 474
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "LastChanged_Achievements": "2023-05-11T14:06:05.5714636+00:00",
+  "LastChanged_Achievements": "2023-05-11T15:05:40.7312734+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.7717422+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:59:46.2315801+00:00",
-  "LastUpdate_Achievements": "2023-05-11T14:06:05.5714837+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:59:27.5107109+00:00",
+  "LastUpdate_Achievements": "2023-05-11T15:05:40.731293+00:00"
 }

@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 955,
+  "EOS_Progressed": 958,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1386,6 +1386,11 @@
       "Time": "2023-05-11T14:05:52.1241062+00:00",
       "NumProgressed": 955,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T15:05:29.3727548+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1509,7 +1514,7 @@
       "Name": "Dragon Master",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "dragonslayer",
@@ -1565,7 +1570,7 @@
       "Name": "Enlightenment",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "exoticmerchant",
@@ -1573,7 +1578,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "fellowshippower",
@@ -1581,7 +1586,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 374
     },
     {
       "ID": "fourleafclover",
@@ -1669,7 +1674,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "jewelenchanting",
@@ -1789,7 +1794,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "prestigiousx10",
@@ -1797,7 +1802,7 @@
       "Name": "Prestigious x10",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "relicofthepast",
@@ -1853,7 +1858,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 527
     },
     {
       "ID": "thealchemist",
@@ -1955,9 +1960,9 @@
       "ID": "victor",
       "SetID": "3nl4bcg",
       "Name": "Victor",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 891
     },
     {
       "ID": "warmachinesarmy",
@@ -1989,14 +1994,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 757
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 955,
+      "Progressed": 958,
       "Completed": 1
     }
   ],
@@ -2004,8 +2009,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-11T06:58:13.3610558+00:00",
-  "LastChanged_Achievements": "2023-05-11T14:05:52.1241056+00:00",
+  "LastChanged_Achievements": "2023-05-11T15:05:29.3727534+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:58:10.268973+00:00",
-  "LastUpdate_Achievements": "2023-05-11T14:05:52.1241906+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:58:11.1816545+00:00",
+  "LastUpdate_Achievements": "2023-05-11T15:05:29.3728333+00:00"
 }

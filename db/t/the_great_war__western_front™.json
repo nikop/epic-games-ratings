@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -444,6 +444,11 @@
       "Time": "2023-05-11T14:05:49.1245073+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T15:05:26.8039874+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -501,9 +506,9 @@
       "ID": "KILL_1000_WITH_GAS",
       "SetID": "6kcl14p",
       "Name": "The Chemists\u0027 War",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -517,17 +522,17 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -550,7 +555,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
@@ -558,8 +563,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-11T14:05:49.1245067+00:00",
+  "LastChanged_Achievements": "2023-05-11T15:05:26.8039861+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:44.2155635+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:58:42.3727779+00:00",
-  "LastUpdate_Achievements": "2023-05-11T14:05:49.1245204+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:58:36.2183636+00:00",
+  "LastUpdate_Achievements": "2023-05-11T15:05:26.8040024+00:00"
 }

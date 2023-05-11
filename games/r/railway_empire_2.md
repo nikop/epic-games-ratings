@@ -7,27 +7,27 @@
 | Departure | 83.00% | ~5 |
 | A new Journey | 83.00% | ~5 |
 | We brake for nobody | 83.00% | ~5 |
+| Poor Devil | 83.00% | ~5 |
 | Mystery Tour | 83.00% | ~5 |
 | Travel Company | 83.00% | ~5 |
 | Apprentice | 67.00% | ~4 |
 | From X to Y | 67.00% | ~4 |
+| Full Steam ahead | 67.00% | ~4 |
 | Country Bumpkin | 67.00% | ~4 |
+| Producer | 67.00% | ~4 |
 | Way of Iron | 67.00% | ~4 |
 | All around the World | 67.00% | ~4 |
-| Poor Devil | 67.00% | ~4 |
-| Full Steam ahead | 50.00% | ~3 |
+| Facility Manager | 50.00% | ~3 |
 | Country Life | 50.00% | ~3 |
 | Brainstorm | 50.00% | ~3 |
-| Producer | 50.00% | ~3 |
 | Bold and beautiful | 50.00% | ~3 |
 | Mind the Gap | 50.00% | ~3 |
 | Right through the middle | 50.00% | ~3 |
+| Bridge Builder | 50.00% | ~3 |
 | Stoker | 33.00% | ~2 |
 | Seven at one stroke | 33.00% | ~2 |
-| Facility Manager | 33.00% | ~2 |
 | General Manager | 33.00% | ~2 |
 | Access granted | 33.00% | ~2 |
-| Bridge Builder | 33.00% | ~2 |
 | Breaking Ground | 33.00% | ~2 |
 | Bull and bear | 33.00% | ~2 |
 | Financial Shark | 33.00% | ~2 |

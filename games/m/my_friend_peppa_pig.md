@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The View From Windy Castle. | 60.00% | ~40 |
+| The View From Windy Castle. | 61.00% | ~41 |
 | Rocket to the Moon! | 54.00% | ~36 |
 | Daddy’s Glasses | 49.00% | ~33 |
-| Whose tracks are these? | 48.00% | ~32 |
-| Collecting Sticks For the Campfire. | 46.00% | ~31 |
+| Whose tracks are these? | 49.00% | ~33 |
+| Collecting Sticks For the Campfire. | 48.00% | ~32 |
 | The Best Snowman Ever! | 46.00% | ~31 |
 | Rounding Up the Chickens. | 42.00% | ~28 |
 | What’s in These Rockpools? | 34.00% | ~23 |

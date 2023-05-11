@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -278,7 +278,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7579,
+  "EOS_Progressed": 7580,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
@@ -1228,6 +1228,11 @@
       "Time": "2023-05-11T14:06:19.688274+00:00",
       "NumProgressed": 7579,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-11T15:05:52.7626868+00:00",
+      "NumProgressed": 7580,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1239,7 +1244,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6063
+      "UsersEstimate": 6064
     },
     {
       "ID": "ACH02",
@@ -1287,7 +1292,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ACH08",
@@ -1407,7 +1412,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH23",
@@ -1518,7 +1523,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7579,
+      "Progressed": 7580,
       "Completed": 15
     }
   ],
@@ -1526,8 +1531,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-11T14:06:19.6882734+00:00",
+  "LastChanged_Achievements": "2023-05-11T15:05:52.7626858+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
-  "LastUpdate_Ratings": "2023-05-11T14:00:31.398732+00:00",
-  "LastUpdate_Achievements": "2023-05-11T14:06:19.6883077+00:00"
+  "LastUpdate_Ratings": "2023-05-11T15:00:05.3914824+00:00",
+  "LastUpdate_Achievements": "2023-05-11T15:05:52.7627167+00:00"
 }

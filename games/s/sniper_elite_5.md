@@ -5,12 +5,12 @@ Rating: 4.38 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 36.00% | ~251 |
-| Confirming Suspicions | 31.00% | ~216 |
-| The Kraken Wakes | 29.00% | ~202 |
-| It's Starting to Crack | 28.00% | ~195 |
-| Change the Channel | 25.00% | ~174 |
-| Lord of War | 24.00% | ~168 |
+| Meeting Resistance | 36.00% | ~252 |
+| Confirming Suspicions | 31.00% | ~217 |
+| The Kraken Wakes | 29.00% | ~203 |
+| It's Starting to Crack | 28.00% | ~196 |
+| Lord of War | 25.00% | ~175 |
+| Change the Channel | 25.00% | ~175 |
 | Resourceful | 23.00% | ~161 |
 | Taking it back | 23.00% | ~161 |
 | Organ Grinder | 22.00% | ~154 |
@@ -20,9 +20,9 @@ Rating: 4.38 (Ranked 688)
 | The Kraken Sleeps | 19.00% | ~133 |
 | Liberté | 17.00% | ~119 |
 | Explosive Efficiency | 16.00% | ~112 |
+| Gunslinger | 15.00% | ~105 |
 | Climbing the Ladder | 14.00% | ~98 |
 | Fields of Glory | 14.00% | ~98 |
-| Gunslinger | 14.00% | ~98 |
 | Skirmisher | 14.00% | ~98 |
 | Close Quarters | 14.00% | ~98 |
 | Just a Flesh Wound | 13.00% | ~91 |
@@ -39,7 +39,7 @@ Rating: 4.38 (Ranked 688)
 | Precision Is Key | 8.00% | ~56 |
 | Rigged to Blow | 8.00% | ~56 |
 | Operation Foxley | 8.00% | ~52 |
-| Last Resort | 7.00% | ~45 |
+| Last Resort | 7.00% | ~46 |
 | Ghost of Falaise | 6.00% | ~39 |
 | The Long Game | 5.00% | ~35 |
 | Siegebreaker | 5.00% | ~32 |
@@ -53,7 +53,7 @@ Rating: 4.38 (Ranked 688)
 | It'll Buff Right Out | 3.00% | ~21 |
 | Locomotion Commotion | 3.00% | ~21 |
 | Road Rage | 3.00% | ~21 |
-| Covert Elimination | 3.00% | ~19 |
+| Covert Elimination | 3.00% | ~20 |
 | Out of Scope | 2.00% | ~14 |
 | From Paris with Love | 2.00% | ~14 |
 | Souvenir hunter | 2.00% | ~14 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 688)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698 (Ranked 176)  
+Progressed: 699 (Ranked 176)  
 Completed: 2 (0.29%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 2 (0.29%) (Ranked 126)
 | 2023-05-08 | 691 | 2 |
 | 2023-05-09 | 694 | 2 |
 | 2023-05-10 | 698 | 2 |
+| 2023-05-11 | 699 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

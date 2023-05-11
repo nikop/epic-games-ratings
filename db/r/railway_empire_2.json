@@ -4,7 +4,7 @@
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -169,9 +169,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A16",
@@ -185,9 +185,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A18",
@@ -321,9 +321,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A35",
@@ -353,9 +353,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A39",
@@ -385,9 +385,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A43",
@@ -495,8 +495,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-11T14:05:52.8505466+00:00",
+  "LastChanged_Achievements": "2023-05-11T15:05:30.0231082+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.2422566+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:58:15.1691835+00:00",
-  "LastUpdate_Achievements": "2023-05-11T14:05:52.8505966+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:58:15.6747497+00:00",
+  "LastUpdate_Achievements": "2023-05-11T15:05:30.0231634+00:00"
 }

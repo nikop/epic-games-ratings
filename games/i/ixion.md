@@ -11,14 +11,14 @@ Rating: 4.54 (Ranked 477)
 | Sputnik 2049 | 0.80% | ~15 |
 | A Thousand Strong | 0.60% | ~11 |
 | Ready for a New World | 0.60% | ~11 |
+| Breaking Protocol | 0.60% | ~11 |
 | The Ship of Theseus | 0.60% | ~11 |
+| Space Society | 0.50% | ~9 |
 | Exceeding Capacity | 0.50% | ~9 |
-| Breaking Protocol | 0.50% | ~9 |
 | Permanent Redesigns | 0.50% | ~9 |
 | Ain't Nobody Got Time for That | 0.50% | ~9 |
 | Hope Seeker | 0.50% | ~9 |
 | Guy de Borderlands | 0.40% | ~7 |
-| Space Society | 0.40% | ~7 |
 | Power Outage | 0.40% | ~7 |
 | Fully Recycled | 0.40% | ~7 |
 | Convenient Transport | 0.40% | ~7 |

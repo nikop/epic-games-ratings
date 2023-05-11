@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
       "Time": "2023-05-11T14:03:18.891262+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T15:03:23.7603486+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -55,7 +60,7 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "76k7b7p",
       "Name": "First taste",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -119,7 +124,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -207,7 +212,7 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "76k7b7p",
       "Name": "Wannabe",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -263,7 +268,7 @@
       "ID": "ACHIEVEMENT_197",
       "SetID": "76k7b7p",
       "Name": "Loyalty",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -271,7 +276,7 @@
       "ID": "ACHIEVEMENT_198",
       "SetID": "76k7b7p",
       "Name": "Hero",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -295,9 +300,9 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -559,7 +564,7 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "76k7b7p",
       "Name": "No brakes",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -743,7 +748,7 @@
       "ID": "ACHIEVEMENT_305",
       "SetID": "76k7b7p",
       "Name": "Shepherd",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -991,7 +996,7 @@
       "ID": "ACHIEVEMENT_352",
       "SetID": "76k7b7p",
       "Name": "Tutorial master",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1352,14 +1357,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-11T14:03:18.8912615+00:00",
+  "LastChanged_Achievements": "2023-05-11T15:03:23.7603477+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:34.2073731+00:00",
-  "LastUpdate_Ratings": "2023-05-11T13:57:18.55801+00:00",
-  "LastUpdate_Achievements": "2023-05-11T14:03:18.8916782+00:00"
+  "LastUpdate_Ratings": "2023-05-11T14:57:30.8369959+00:00",
+  "LastUpdate_Achievements": "2023-05-11T15:03:23.7607012+00:00"
 }
