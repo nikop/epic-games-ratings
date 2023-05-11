@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -400,17 +400,17 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "MQ08_3",
@@ -441,8 +441,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:04:46.2346891+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:05:42.6788102+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:57:05.6726953+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:04:46.2347117+00:00"
+  "LastUpdate_Ratings": "2023-05-11T19:57:22.3014398+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:05:42.6788333+00:00"
 }

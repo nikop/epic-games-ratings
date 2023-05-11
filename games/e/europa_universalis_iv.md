@@ -6,44 +6,44 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,079 |
-| That's a Grand Army | 8.00% | ~2,737 |
-| That is mine! | 8.00% | ~2,737 |
-| Victorious! | 8.00% | ~2,737 |
-| Brothers in Arms | 6.00% | ~2,053 |
-| That's a Grand Navy | 6.00% | ~2,053 |
-| Seriously?! | 6.00% | ~2,053 |
-| For the Glory | 5.00% | ~1,711 |
-| Cold War | 4.00% | ~1,369 |
-| True Catholic | 4.00% | ~1,369 |
-| Defender of the Faith | 3.00% | ~1,026 |
-| It's all about the money | 3.00% | ~1,026 |
-| Respected | 3.00% | ~1,026 |
-| Blockader | 2.00% | ~684 |
-| Combined Arms | 2.00% | ~684 |
-| Double the Love | 2.00% | ~684 |
-| Gentle Persuasion | 2.00% | ~684 |
-| It's all about luck | 2.00% | ~684 |
-| Queen of Conquest | 2.00% | ~684 |
-| Royal Authority | 2.00% | ~684 |
-| The Princess is in this Castle | 2.00% | ~684 |
-| Total Control | 2.00% | ~684 |
-| Truly Divine Ruler | 2.00% | ~684 |
-| Agressive Expander | 1.00% | ~342 |
-| All That's Thine Shall Be Mine | 1.00% | ~342 |
-| Azur semé de lis or | 1.00% | ~342 |
-| Bright Spark | 1.00% | ~342 |
-| City of Cities | 1.00% | ~342 |
-| Factionalism | 1.00% | ~342 |
-| A Golden Empire | 1.00% | ~342 |
-| My armies are invincible! | 1.00% | ~342 |
+| Until death do us apart | 9.00% | ~3,084 |
+| That's a Grand Army | 8.00% | ~2,741 |
+| That is mine! | 8.00% | ~2,741 |
+| Victorious! | 8.00% | ~2,741 |
+| Brothers in Arms | 6.00% | ~2,056 |
+| That's a Grand Navy | 6.00% | ~2,056 |
+| Seriously?! | 6.00% | ~2,056 |
+| For the Glory | 5.00% | ~1,713 |
+| Cold War | 4.00% | ~1,371 |
+| True Catholic | 4.00% | ~1,371 |
+| Defender of the Faith | 3.00% | ~1,028 |
+| It's all about the money | 3.00% | ~1,028 |
+| Respected | 3.00% | ~1,028 |
+| Blockader | 2.00% | ~685 |
+| Combined Arms | 2.00% | ~685 |
+| Double the Love | 2.00% | ~685 |
+| Gentle Persuasion | 2.00% | ~685 |
+| It's all about luck | 2.00% | ~685 |
+| Queen of Conquest | 2.00% | ~685 |
+| Royal Authority | 2.00% | ~685 |
+| The Princess is in this Castle | 2.00% | ~685 |
+| Total Control | 2.00% | ~685 |
+| Truly Divine Ruler | 2.00% | ~685 |
+| Agressive Expander | 1.00% | ~343 |
+| All That's Thine Shall Be Mine | 1.00% | ~343 |
+| Azur semé de lis or | 1.00% | ~343 |
+| Bright Spark | 1.00% | ~343 |
+| City of Cities | 1.00% | ~343 |
+| Factionalism | 1.00% | ~343 |
+| A Golden Empire | 1.00% | ~343 |
+| My armies are invincible! | 1.00% | ~343 |
 | Isn't this the way to India? | 0.80% | ~274 |
 | The Five Colonies | 0.80% | ~274 |
-| The Emperors new clothes | 0.70% | ~239 |
-| Market Control | 0.70% | ~239 |
-| This navy can take it all | 0.70% | ~239 |
-| Down Under | 0.60% | ~205 |
-| Trustworthy | 0.60% | ~205 |
+| The Emperors new clothes | 0.70% | ~240 |
+| Market Control | 0.70% | ~240 |
+| This navy can take it all | 0.70% | ~240 |
+| Down Under | 0.60% | ~206 |
+| Trustworthy | 0.60% | ~206 |
 | All belongs to Mother Russia | 0.50% | ~171 |
 | At every continent | 0.50% | ~171 |
 | Early-Modern Warfare | 0.50% | ~171 |
@@ -71,23 +71,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.30% | ~103 |
 | Traditional Player | 0.30% | ~103 |
 | Wonderful | 0.30% | ~103 |
-| A Decent Reserve | 0.20% | ~68 |
-| A Pile of Gold | 0.20% | ~68 |
-| A Protected Market | 0.20% | ~68 |
-| AAA Credit | 0.20% | ~68 |
-| Fine Financials | 0.20% | ~68 |
-| Imperio español | 0.20% | ~68 |
-| Industrial Powerhouse | 0.20% | ~68 |
-| Italian Ambition | 0.20% | ~68 |
-| Just a Little Patience | 0.20% | ~68 |
-| Magellan’s Voyage | 0.20% | ~68 |
-| Multiculturalism | 0.20% | ~68 |
-| No Pirates in my Caribbean | 0.20% | ~68 |
-| Not so sad a state... | 0.20% | ~68 |
-| The Chrysanthemum Throne | 0.20% | ~68 |
-| Three Trivial Tributary Tribes | 0.20% | ~68 |
-| Vasa or Wettin? | 0.20% | ~68 |
-| World Discoverer | 0.20% | ~68 |
+| A Decent Reserve | 0.20% | ~69 |
+| A Pile of Gold | 0.20% | ~69 |
+| A Protected Market | 0.20% | ~69 |
+| AAA Credit | 0.20% | ~69 |
+| Fine Financials | 0.20% | ~69 |
+| Imperio español | 0.20% | ~69 |
+| Industrial Powerhouse | 0.20% | ~69 |
+| Italian Ambition | 0.20% | ~69 |
+| Just a Little Patience | 0.20% | ~69 |
+| Magellan’s Voyage | 0.20% | ~69 |
+| Multiculturalism | 0.20% | ~69 |
+| No Pirates in my Caribbean | 0.20% | ~69 |
+| Not so sad a state... | 0.20% | ~69 |
+| The Chrysanthemum Throne | 0.20% | ~69 |
+| Three Trivial Tributary Tribes | 0.20% | ~69 |
+| Vasa or Wettin? | 0.20% | ~69 |
+| World Discoverer | 0.20% | ~69 |
 | A Blessed Nation | 0.10% | ~34 |
 | A Hero’s Welcome | 0.10% | ~34 |
 | A Manchurian Candidate | 0.10% | ~34 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,214 (Ranked 81)  
+Progressed: 34,264 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 34,214 | 0 |
+| 2023-05-11 | 34,264 | 0 |
 ## Awards
 Max (Educational): 5,206  (Ranked 60)  
 Sum: 43,060 (Ranked 27)  

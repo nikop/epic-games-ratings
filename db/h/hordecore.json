@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.04,
+  "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -56,6 +56,11 @@
       "Time": "2023-05-07T08:07:30.2307217+00:00",
       "NumProgressed": 329,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-11T20:06:16.400218+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -67,7 +72,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "10",
@@ -139,7 +144,7 @@
       "Name": "I Choo-Choo-Choose You",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "19",
@@ -155,7 +160,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "20",
@@ -185,17 +190,17 @@
       "ID": "23",
       "SetID": "1530e6b",
       "Name": "Collector",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 92
     },
     {
       "ID": "24",
       "SetID": "1530e6b",
       "Name": "Over Nine Thousaaand",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 185
     },
     {
       "ID": "25",
@@ -243,7 +248,7 @@
       "Name": "Master of Cards",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "5",
@@ -290,7 +295,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 10
     }
   ],
@@ -298,8 +303,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:05:16.3430654+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:06:16.4001937+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:02.0172938+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:59:28.5886422+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:05:16.3430842+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:00:11.9644349+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:06:16.4002542+00:00"
 }

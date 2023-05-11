@@ -6,11 +6,11 @@ Rating: 3.93 (Ranked 895)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Downed but Not Outed | 73.00% | ~43,634 |
-| First One’s Free | 64.00% | ~38,254 |
+| First One’s Free | 65.00% | ~38,852 |
 | Neophyte Ninja | 50.00% | ~29,886 |
 | Too Old for This | 47.00% | ~28,093 |
-| Fancy Pants | 35.00% | ~20,920 |
-| Case Closed | 34.00% | ~20,322 |
+| Fancy Pants | 35.00% | ~20,921 |
+| Case Closed | 34.00% | ~20,323 |
 | King of the Hill | 33.00% | ~19,725 |
 | Underworld Initiate | 29.00% | ~17,334 |
 | Roid Ranger | 21.00% | ~12,552 |
@@ -21,8 +21,8 @@ Rating: 3.93 (Ranked 895)
 | Hidden Sonata | 13.00% | ~7,770 |
 | Classy Joint | 10.00% | ~5,977 |
 | Rockay Rex | 10.00% | ~5,977 |
-| Track Star | 9.00% | ~5,379 |
-| Freebooter | 9.00% | ~5,379 |
+| Track Star | 9.00% | ~5,380 |
+| Freebooter | 9.00% | ~5,380 |
 | I Like Trains | 8.00% | ~4,782 |
 | Headhunter | 8.00% | ~4,782 |
 | Ding Dong | 8.00% | ~4,782 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~299 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,772 (Ranked 67)  
+Progressed: 59,773 (Ranked 67)  
 Completed: 29 (0.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,17 +64,17 @@ Completed: 29 (0.05%) (Ranked 170)
 | 2023-05-08 | 59,432 | 26 |
 | 2023-05-09 | 59,546 | 28 |
 | 2023-05-10 | 59,655 | 28 |
-| 2023-05-11 | 59,772 | 29 |
+| 2023-05-11 | 59,773 | 29 |
 ## Awards
 Max (Highly Recommended): 249  (Ranked 239)  
-Sum: 1,174 (Ranked 221)  
+Sum: 1,177 (Ranked 221)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 249 |
 | This game has Amazing Characters | 237 |
 | This game has Diverse Characters | 236 |
-| This game has Quickly Understood Controls | 228 |
+| This game has Quickly Understood Controls | 231 |
 | This game has Challenging Combat | 224 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -125,4 +125,4 @@ Diff (max vs sum): 18
 | 2023-05-08 | 3.94 | 241 | 1,130 |
 | 2023-05-09 | 3.94 | 246 | 1,149 |
 | 2023-05-10 | 3.94 | 249 | 1,167 |
-| 2023-05-11 | 3.94 | 249 | 1,174 |
+| 2023-05-11 | 3.94 | 249 | 1,177 |

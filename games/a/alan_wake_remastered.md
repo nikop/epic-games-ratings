@@ -8,14 +8,14 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 19.00% | ~8,762 |
 | Let There Be Light | 16.00% | ~7,379 |
-| Float Like a Butterfly | 15.00% | ~6,917 |
+| Float Like a Butterfly | 15.00% | ~6,918 |
 | Nordic Walking | 13.00% | ~5,995 |
 | Bright Falls' Finest | 12.00% | ~5,534 |
 | Under a Thin Layer of Skin | 11.00% | ~5,073 |
-| Park Ranger | 9.00% | ~4,150 |
-| Back! Back, I Say! | 9.00% | ~4,150 |
-| Finders Keepers | 9.00% | ~4,150 |
-| Paging Mr. Wake | 9.00% | ~4,150 |
+| Park Ranger | 9.00% | ~4,151 |
+| Back! Back, I Say! | 9.00% | ~4,151 |
+| Finders Keepers | 9.00% | ~4,151 |
+| Paging Mr. Wake | 9.00% | ~4,151 |
 | Wheels Within Wheels | 8.00% | ~3,689 |
 | They're Heeeeeere! | 8.00% | ~3,689 |
 | Sound and Fury | 8.00% | ~3,689 |
@@ -40,11 +40,11 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 5.00% | ~2,306 |
 | Ding! | 5.00% | ~479 |
 | Departure | 4.00% | ~1,845 |
-| Children of the Elder God | 3.00% | ~1,383 |
-| Drink 'Em Both Up | 3.00% | ~1,383 |
-| Hardboiled Writer | 3.00% | ~1,383 |
-| If It Flies, It Burns | 3.00% | ~1,383 |
-| KBF-FM | 3.00% | ~1,383 |
+| Children of the Elder God | 3.00% | ~1,384 |
+| Drink 'Em Both Up | 3.00% | ~1,384 |
+| Hardboiled Writer | 3.00% | ~1,384 |
+| If It Flies, It Burns | 3.00% | ~1,384 |
+| KBF-FM | 3.00% | ~1,384 |
 | Kill Your Darlings | 3.00% | ~288 |
 | Heartbreaker | 3.00% | ~288 |
 | Boob Tube | 2.00% | ~922 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,116 (Ranked 75)  
+Progressed: 46,117 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 44 (0.10%) (Ranked 155)
 | 2023-05-08 | 46,074 | 44 |
 | 2023-05-09 | 46,097 | 44 |
 | 2023-05-10 | 46,108 | 44 |
-| 2023-05-11 | 46,116 | 44 |
+| 2023-05-11 | 46,117 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

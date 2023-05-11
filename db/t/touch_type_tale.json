@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2557,
+  "EOS_Progressed": 2558,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -579,6 +579,11 @@
       "Time": "2023-05-11T18:06:41.8208338+00:00",
       "NumProgressed": 2557,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-11T20:06:21.6414185+00:00",
+      "NumProgressed": 2558,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -638,7 +643,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "campaign10",
@@ -742,7 +747,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "campaign4",
@@ -750,7 +755,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "campaign5",
@@ -798,7 +803,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "scenario2",
@@ -853,7 +858,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2557,
+      "Progressed": 2558,
       "Completed": 9
     }
   ],
@@ -861,8 +866,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:05:21.1566884+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:06:21.6414177+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:59:43.8763656+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:05:21.1567182+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:00:29.4091009+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:06:21.6414596+00:00"
 }

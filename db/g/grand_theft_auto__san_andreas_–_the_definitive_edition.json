@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7581,
+  "EOS_Progressed": 7583,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1238,6 +1238,11 @@
       "Time": "2023-05-11T17:06:27.5190013+00:00",
       "NumProgressed": 7581,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-11T20:06:22.7383342+00:00",
+      "NumProgressed": 7583,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1249,7 +1254,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "ACH02",
@@ -1305,7 +1310,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     },
     {
       "ID": "ACH09",
@@ -1473,7 +1478,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH30",
@@ -1528,7 +1533,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7581,
+      "Progressed": 7583,
       "Completed": 15
     }
   ],
@@ -1536,8 +1541,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:05:22.1389836+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:06:22.7383332+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:59:44.5279685+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:05:22.1390153+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:00:30.328406+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:06:22.7383687+00:00"
 }

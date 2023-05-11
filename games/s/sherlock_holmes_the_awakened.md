@@ -22,12 +22,12 @@
 | No Man Is An Island | 49.00% | ~72 |
 | At Wits' End | 46.00% | ~67 |
 | Bookworm | 44.00% | ~64 |
+| Up In Flames | 41.00% | ~60 |
 | Fhtagn! | 41.00% | ~60 |
 | Going Once... | 40.00% | ~58 |
 | Brain Food | 40.00% | ~58 |
-| Up In Flames | 40.00% | ~58 |
 | Let Me Be Frank | 38.00% | ~55 |
-| No Stone Unturned | 35.00% | ~51 |
+| No Stone Unturned | 36.00% | ~53 |
 | Curiosity Killed The Cat | 25.00% | ~36 |
 | Read It And Weep | 24.00% | ~35 |
 | Big Breakthrough | 23.00% | ~34 |

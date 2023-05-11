@@ -80,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.20% | ~107 |
 | Well Equipped | 0.20% | ~107 |
 | Return to the Tomb | 0.20% | ~107 |
+| Arcane Efforts | 0.20% | ~107 |
 | Heatwave | 0.20% | ~107 |
 | Hands Off! | 0.20% | ~107 |
 | Weak Doesn't Mean Feeble | 0.20% | ~107 |
@@ -118,8 +119,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~174 |
 | The Gargoyle's Apprentice | 0.20% | ~174 |
 | Attack on the Manor | 0.20% | ~174 |
+| Our Time To Shine | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
 | Treasure Hunters | 0.20% | ~174 |
+| The Guardian of Orolunga | 0.20% | ~174 |
 | Flies on the Wall | 0.20% | ~174 |
 | Backtracking Through Barovia | 0.20% | ~174 |
 | Nimble Escape | 0.20% | ~174 |
@@ -131,6 +134,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.20% | ~174 |
 | Enter the Sargauth | 0.20% | ~174 |
 | A Tale of Two Cities | 0.20% | ~174 |
+| A Tale of Two Fiends | 0.20% | ~174 |
 | The Dead Three | 0.20% | ~174 |
 | Slow and Steady | 0.20% | ~174 |
 | A Hero's Entourage | 0.20% | ~174 |
@@ -180,6 +184,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Deekin's Mission | 0.20% | ~107 |
 | Frozen Vengeance | 0.20% | ~107 |
 | Ending the Rime - Part 1 | 0.20% | ~107 |
+| Ending the Rime - Part 2 | 0.20% | ~107 |
 | The Haunted Jungle | 0.20% | ~174 |
 | Rescue in the Jungle | 0.20% | ~174 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -240,7 +245,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelmed with Knowledge | 0.10% | ~53 |
 | Friends of the Forest | 0.10% | ~87 |
 | More Than Well Equipped | 0.10% | ~53 |
-| Arcane Efforts | 0.10% | ~53 |
 | To Avernus in a Handbasket | 0.10% | ~53 |
 | Clowning Around | 0.10% | ~53 |
 | A Whale of a Time | 0.10% | ~53 |
@@ -294,9 +298,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | House of Darkness | 0.10% | ~87 |
 | Home Not So Alone | 0.10% | ~53 |
 | The Trepidatious Trio | 0.10% | ~87 |
-| Our Time To Shine | 0.10% | ~87 |
 | Review by the Blackstaff | 0.10% | ~53 |
-| The Guardian of Orolunga | 0.10% | ~87 |
 | Think Your Way Out Of It | 0.10% | ~87 |
 | Air's Getting Pretty Thin | 0.10% | ~87 |
 | Red Wizard 'Escort' | 0.10% | ~53 |
@@ -336,7 +338,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~87 |
 | Dino Nightmare | 0.10% | ~87 |
 | A Familiar Friend | 0.10% | ~53 |
-| A Tale of Two Fiends | 0.10% | ~87 |
 | A Tale of Two Champions | 0.10% | ~87 |
 | A Tale of Two Years | 0.10% | ~53 |
 | Sneak Attack | 0.10% | ~53 |
@@ -472,7 +473,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Volo's Guide to Kuo-toa | 0.10% | ~53 |
 | Ambitious Speakers - Part 1 | 0.10% | ~53 |
 | Shady Sidekicks - Part 1 | 0.10% | ~53 |
-| Ending the Rime - Part 2 | 0.10% | ~53 |
 | Ambitious Speakers - Part 2 | 0.10% | ~53 |
 | Shady Sidekicks - Part 2 | 0.10% | ~53 |
 | Reghed Glacier Mysteries | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,169 (Ranked 59)  
+Progressed: 87,174 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,10 +517,10 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,169 | 1,825 |
+| 2023-05-11 | 87,174 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
-Sum: 29,858 (Ranked 37)  
+Sum: 29,859 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -530,7 +530,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,482 |
 | This game is Highly Recommended | 3,935 |
 | This game has Amazing Characters | 3,934 |
-| This game has Playful Visuals | 3,231 |
+| This game has Playful Visuals | 3,232 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -639,4 +639,4 @@ Diff (max vs sum): 26
 | 2023-05-08 | 4.06 | - | 4,868 | 29,833 |
 | 2023-05-09 | 4.06 | - | 4,873 | 29,838 |
 | 2023-05-10 | 4.06 | - | 4,874 | 29,847 |
-| 2023-05-11 | 4.06 | - | 4,874 | 29,858 |
+| 2023-05-11 | 4.06 | - | 4,874 | 29,859 |

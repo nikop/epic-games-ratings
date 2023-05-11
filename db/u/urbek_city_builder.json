@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -121,6 +121,11 @@
     {
       "Time": "2023-05-11T06:06:01.6421364+00:00",
       "NumProgressed": 143,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T20:06:04.53215+00:00",
+      "NumProgressed": 144,
       "NumCompleted": 0
     }
   ],
@@ -275,9 +280,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "CULTURE_2",
@@ -403,9 +408,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "FELIZ_2",
@@ -461,7 +466,7 @@
       "Name": "I like parks",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -491,9 +496,9 @@
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "MURICA_1",
@@ -517,7 +522,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -563,9 +568,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "POPULATION_2",
@@ -651,9 +656,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "SPORTS_2",
@@ -749,7 +754,7 @@
       "Name": "Soviet town",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "WELFARE_2",
@@ -764,7 +769,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 0
     }
   ],
@@ -772,8 +777,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:05:05.7879775+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:06:04.5321492+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:58:34.5803861+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:05:05.788069+00:00"
+  "LastUpdate_Ratings": "2023-05-11T19:59:06.0721039+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:06:04.5322916+00:00"
 }

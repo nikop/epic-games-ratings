@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12351,
+  "EOS_Progressed": 12353,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2023-05-11T19:04:40.8347774+00:00",
       "NumProgressed": 12351,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-11T20:05:36.2834943+00:00",
+      "NumProgressed": 12353,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1696,7 +1701,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "tpote_achievement_15",
@@ -1744,7 +1749,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "tpote_achievement_20",
@@ -1832,7 +1837,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4199
+      "UsersEstimate": 4200
     },
     {
       "ID": "tpote_achievement_30",
@@ -1848,7 +1853,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "tpote_achievement_32",
@@ -1920,7 +1925,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5187
+      "UsersEstimate": 5188
     },
     {
       "ID": "tpote_achievement_40",
@@ -1968,7 +1973,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "tpote_achievement_9",
@@ -1976,22 +1981,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4447
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12351,
+      "Progressed": 12353,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:04:40.8347763+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:05:36.2834936+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:59:29.4854809+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:04:40.8348198+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:00:12.8711983+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:05:36.28357+00:00"
 }

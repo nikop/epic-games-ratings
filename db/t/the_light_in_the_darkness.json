@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1212,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 7.76,
+  "EOS_Completed_Percentage": 7.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -893,6 +893,11 @@
       "Time": "2023-05-11T18:06:25.6192384+00:00",
       "NumProgressed": 1212,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-11T20:06:07.3404232+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 12,
@@ -920,7 +925,7 @@
       "Name": "Building the Fox",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Green Ticket Roundup",
@@ -936,7 +941,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Jakob",
@@ -952,7 +957,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Le Juif et la France",
@@ -960,7 +965,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Little Helper",
@@ -982,9 +987,9 @@
       "ID": "Nazis in Paris",
       "SetID": "b40dflc",
       "Name": "Nazis in Paris",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 291
     },
     {
       "ID": "Nuremberg Laws",
@@ -999,7 +1004,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1212,
+      "Progressed": 1213,
       "Completed": 94
     }
   ],
@@ -1007,8 +1012,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:05:08.400157+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:06:07.3404228+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:44.1856033+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:59:12.4037376+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:05:08.4001732+00:00"
+  "LastUpdate_Ratings": "2023-05-11T19:59:50.9146558+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:06:07.3404374+00:00"
 }

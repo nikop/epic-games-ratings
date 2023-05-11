@@ -4,7 +4,7 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -279,17 +279,17 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Poosh Past 10000",
@@ -335,9 +335,9 @@
       "ID": "Terrible Start",
       "SetID": "5n829i",
       "Name": "Terrible Start",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -349,8 +349,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:04:49.0845043+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:05:46.1553441+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:57.379216+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:57:24.9853101+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:04:49.0845233+00:00"
+  "LastUpdate_Ratings": "2023-05-11T19:57:45.3682458+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:05:46.1553589+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-new-dawn",
   "Ranking_Rating": 642,
   "Ranking_Popularity": 265,
-  "Ranking_PopularitySum": 357,
+  "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
@@ -583,18 +583,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 181,
       "NumberOfAwardsMax": 181
+    },
+    {
+      "Time": "2023-05-11T20:00:09.1293497+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 182,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 181,
-  "NumberOfAwardsMax": 181,
+  "NumberOfAwards": 182,
+  "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 181
+      "Count": 182
     }
   ],
   "EOS_Progressed": 0,
@@ -608,8 +614,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2023-05-09T19:01:28.3555018+00:00",
+  "LastChanged": "2023-05-11T20:00:09.1293494+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:59.8692869+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:59:26.3171065+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:00:12.3629218+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:00:09.1293503+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:01:03.234141+00:00"
 }

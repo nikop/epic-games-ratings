@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9988,
+  "EOS_Progressed": 9989,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -346,6 +346,11 @@
       "Time": "2023-05-10T22:06:23.97643+00:00",
       "NumProgressed": 9988,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-11T20:05:36.7198323+00:00",
+      "NumProgressed": 9989,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -365,7 +370,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -405,7 +410,7 @@
       "Name": "car wash",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -413,7 +418,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -461,7 +466,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -493,7 +498,7 @@
       "Name": "monster",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -517,7 +522,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7691
+      "UsersEstimate": 7692
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -565,7 +570,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5593
+      "UsersEstimate": 5594
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -581,7 +586,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9588
+      "UsersEstimate": 9589
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -597,7 +602,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5893
+      "UsersEstimate": 5894
     },
     {
       "ID": "ACH_NIGHT",
@@ -629,7 +634,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -645,7 +650,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "ACH_SNOW",
@@ -693,22 +698,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7191
+      "UsersEstimate": 7192
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 9988,
+      "Progressed": 9989,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:04:41.2165283+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:05:36.7198317+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:45.0012761+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:57:12.2632643+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:04:41.2165644+00:00"
+  "LastUpdate_Ratings": "2023-05-11T19:57:30.5689316+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:05:36.7198624+00:00"
 }

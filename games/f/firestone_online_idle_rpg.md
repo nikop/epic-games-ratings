@@ -43,11 +43,11 @@ Rating: 3.61 (Ranked 917)
 | How Do You Turn This On? | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
+| What lies behind the bush | 2.00% | ~19 |
 | Four Leaf Clover | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
 | The father of Dragons | 1.00% | ~10 |
 | Trader | 1.00% | ~10 |
-| What lies behind the bush | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
 | Relic Of The Past | 0.90% | ~9 |
 | Dragon Slayer | 0.70% | ~7 |

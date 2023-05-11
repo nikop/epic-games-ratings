@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 351,
+  "EOS_Progressed": 352,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -132,6 +132,11 @@
       "Time": "2023-05-11T00:04:49.2163606+00:00",
       "NumProgressed": 351,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-11T20:05:50.630616+00:00",
+      "NumProgressed": 352,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -143,7 +148,7 @@
       "Name": "All Set Up",
       "Percentage": 99,
       "XP": 100,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "booty_call",
@@ -151,7 +156,7 @@
       "Name": "Booty Call",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "crash_and_burn",
@@ -167,15 +172,15 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 225
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -183,7 +188,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "interrogation",
@@ -207,7 +212,7 @@
       "Name": "Not Alone",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "nueva_beginnings",
@@ -255,14 +260,14 @@
       "Name": "We Go Again",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 351,
+      "Progressed": 352,
       "Completed": 3
     }
   ],
@@ -270,8 +275,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:04:53.1196193+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:05:50.6306154+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:26.7327168+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:57:56.8335743+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:04:53.1196446+00:00"
+  "LastUpdate_Ratings": "2023-05-11T19:58:20.1502189+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:05:50.6306301+00:00"
 }

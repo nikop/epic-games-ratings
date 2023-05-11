@@ -1300,10 +1300,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1174,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2023-05-11T20:00:14.1763153+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1177,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1174,
+  "NumberOfAwards": 1177,
   "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1329,7 +1335,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 228
+      "Count": 231
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1356,9 +1362,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 59772,
+  "EOS_Progressed": 59773,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3256,6 +3262,11 @@
       "Time": "2023-05-11T19:05:17.5694081+00:00",
       "NumProgressed": 59772,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-11T20:06:17.8054266+00:00",
+      "NumProgressed": 59773,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -3299,7 +3310,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "ACH_0015",
@@ -3363,7 +3374,7 @@
       "Name": "Freebooter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "ACH_0061",
@@ -3409,9 +3420,9 @@
       "ID": "ACH_0200",
       "SetID": "3kam13l",
       "Name": "First One\u2019s Free",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 38254
+      "UsersEstimate": 38852
     },
     {
       "ID": "ACH_0210",
@@ -3483,7 +3494,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20322
+      "UsersEstimate": 20323
     },
     {
       "ID": "ACH_0420",
@@ -3499,7 +3510,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20920
+      "UsersEstimate": 20921
     },
     {
       "ID": "ACH_0431",
@@ -3562,16 +3573,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 59772,
+      "Progressed": 59773,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-11T16:00:18.49814+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:05:17.5694072+00:00",
+  "LastChanged": "2023-05-11T20:00:14.176315+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:06:17.8054259+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.9893875+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:59:30.1729445+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:05:17.5694511+00:00"
+  "LastUpdate_Ratings": "2023-05-11T20:00:14.1763157+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:06:17.8054665+00:00"
 }

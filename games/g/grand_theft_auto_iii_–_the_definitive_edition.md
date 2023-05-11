@@ -11,7 +11,7 @@ Rating: 4.12 (Ranked 852)
 | Wreckless Driving | 27.00% | ~1,317 |
 | A Marked Man | 24.00% | ~1,170 |
 | Street Sweeper | 17.00% | ~829 |
-| Liberty City Minute | 16.00% | ~780 |
+| Liberty City Minute | 17.00% | ~829 |
 | Offshore Delivery | 12.00% | ~585 |
 | Dirty Money | 11.00% | ~536 |
 | By a Mile | 9.00% | ~439 |

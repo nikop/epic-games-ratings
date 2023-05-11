@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457734,
+  "EOS_Progressed": 457735,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2278,6 +2278,11 @@
       "Time": "2023-05-11T19:05:10.2704924+00:00",
       "NumProgressed": 457734,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-11T20:06:09.5522693+00:00",
+      "NumProgressed": 457735,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2313,7 +2318,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 100701
+      "UsersEstimate": 100702
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -2329,7 +2334,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45773
+      "UsersEstimate": 45774
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -2377,7 +2382,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302104
+      "UsersEstimate": 302105
     },
     {
       "ID": "achievement_story_landa",
@@ -2473,7 +2478,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151052
+      "UsersEstimate": 151053
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2745,7 +2750,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178516
+      "UsersEstimate": 178517
     },
     {
       "ID": "achievement_win_run_hard",
@@ -2801,28 +2806,28 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 100701
+      "UsersEstimate": 100702
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1668,
-      "Completed": 1668
+      "Progressed": 1669,
+      "Completed": 1669
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457734,
+      "Progressed": 457735,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-11T19:05:10.2704915+00:00",
+  "LastChanged_Achievements": "2023-05-11T20:06:09.5522689+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-11T18:58:54.0675862+00:00",
-  "LastUpdate_Achievements": "2023-05-11T19:05:10.2705718+00:00"
+  "LastUpdate_Ratings": "2023-05-11T19:59:28.4199316+00:00",
+  "LastUpdate_Achievements": "2023-05-11T20:06:09.5523533+00:00"
 }
