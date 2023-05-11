@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Urban Tale](games/u/urban_tale.md) | 2023-05-11 | 2021-10-07 |
 | [Ungate](games/u/ungate.md) | 2023-05-11 | 2023-05-11 |
 | [Infindustry](games/i/infindustry.md) | 2023-05-11 | 2022-05-03 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-12 | 2022-05-05 |

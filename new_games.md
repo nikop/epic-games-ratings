@@ -1,5 +1,12 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Death to Spies](games/4/4d40161c73db44369e250c40015e4f52.md) | 2023-05-11 | 2007-10-16 |
+| [Death to Spies: Moment of Truth](games/b/bd2c5acda74f43af84ef775561773aec.md) | 2023-05-11 | 2009-08-07 |
+| [NecroVision](games/2/228902bbbf0d49f08c7acda453af8bf5.md) | 2023-05-11 | 2009-05-20 |
+| [NecroVisioN: Lost Company](games/6/667f289be6b3430cb4f425808d2a0ea8.md) | 2023-05-11 | 2010-02-19 |
+| [Perimeter](games/2/29f31b0806a94f53b81ea684f29ff159.md) | 2023-05-11 | 2004-05-21 |
+| [Perimeter: Emperor's Testament](games/c/cec90f999e994e05a3ec2426d3da7600.md) | 2023-05-11 | 2006-08-29 |
+| [Urban Tale](games/u/urban_tale.md) | 2023-05-11 | 2021-10-07 |
 | [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 2022-06-16 |
 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2023-05-11 | 2023-05-11 |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2023-05-11 | 2021-12-16 |
