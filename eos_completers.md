@@ -22,11 +22,11 @@
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
 | 24 | [Scorn](games/s/scorn.md) | 7.10% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.21% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.19% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.41% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -152,14 +152,14 @@
 | 150 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 150 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 152 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 153 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 153 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 153 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 156 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 156 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 156 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 156 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
-| 156 | [Supraland](games/s/supraland.md) | 0.10% |
+| 155 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 155 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 155 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 155 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 155 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
+| 155 | [Supraland](games/s/supraland.md) | 0.10% |
 | 161 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 161 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
 | 163 | [Riverbond](games/r/riverbond.md) | 0.08% |
