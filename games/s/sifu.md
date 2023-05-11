@@ -30,8 +30,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.50% | ~3,514 |
 | Old Child | 0.50% | ~3,514 |
 | Kung-Fu Tussle | 0.50% | ~3,514 |
-| Deadly Venom | 0.50% | ~60 |
-| A Touch of Acumen | 0.50% | ~60 |
+| Deadly Venom | 0.50% | ~61 |
+| A Touch of Acumen | 0.50% | ~61 |
 | Muk Yan Master | 0.40% | ~2,811 |
 | Dance of the Praying Mantis | 0.40% | ~2,811 |
 | Qi Gong: Mind | 0.40% | ~2,811 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,799 (Ranked 15)  
+Progressed: 702,801 (Ranked 15)  
 Completed: 12,720 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 12,720 (1.81%) (Ranked 62)
 | 2023-05-08 | 702,730 | 12,716 |
 | 2023-05-09 | 702,765 | 12,718 |
 | 2023-05-10 | 702,799 | 12,720 |
+| 2023-05-11 | 702,801 | 12,720 |
 ## Awards
 Max (Great Boss Battles): 6,046  (Ranked 53)  
 Sum: 10,258 (Ranked 77)  

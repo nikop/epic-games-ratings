@@ -3572,10 +3572,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29847,
       "NumberOfAwardsMax": 4874
+    },
+    {
+      "Time": "2023-05-11T01:57:09.1903607+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29850,
+      "NumberOfAwardsMax": 4874
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29847,
+  "NumberOfAwards": 29850,
   "NumberOfAwardsMax": 4874,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3607,7 +3613,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3932
+      "Count": 3935
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3622,7 +3628,7 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87101,
+  "EOS_Progressed": 87108,
   "EOS_Completed": 1823,
   "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 23,
@@ -5412,6 +5418,11 @@
       "Time": "2023-05-11T00:05:31.9330925+00:00",
       "NumProgressed": 87101,
       "NumCompleted": 1823
+    },
+    {
+      "Time": "2023-05-11T02:05:49.8176209+00:00",
+      "NumProgressed": 87108,
+      "NumCompleted": 1823
     }
   ],
   "TotalAchievements": 489,
@@ -6509,9 +6520,9 @@
       "ID": "objective_completed_1350",
       "SetID": "415jc5c",
       "Name": "Welcome to the Rock",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1351",
@@ -9334,21 +9345,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53375,
+      "Progressed": 53382,
       "Completed": 2488
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87101,
+      "Progressed": 87108,
       "Completed": 1823
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-10T23:57:53.2169261+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:05:31.933092+00:00",
+  "LastChanged": "2023-05-11T01:57:09.1903604+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:05:49.8176204+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:57:53.2169268+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:05:31.9352341+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:57:09.1903613+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:05:49.8202997+00:00"
 }

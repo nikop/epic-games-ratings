@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46109,
+  "EOS_Progressed": 46110,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1396,6 +1396,11 @@
       "Time": "2023-05-11T00:04:47.196286+00:00",
       "NumProgressed": 46109,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-11T02:05:04.2974716+00:00",
+      "NumProgressed": 46110,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1527,7 +1532,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "17",
@@ -1599,15 +1604,15 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "26",
       "SetID": "212770e",
       "Name": "Thunder and Lightning",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2767
+      "UsersEstimate": 3228
     },
     {
       "ID": "27",
@@ -1679,7 +1684,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7377
+      "UsersEstimate": 7378
     },
     {
       "ID": "36",
@@ -1719,7 +1724,7 @@
       "Name": "Right of Way",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "41",
@@ -1942,21 +1947,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46109,
+      "Progressed": 46110,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9577,
+      "Progressed": 9578,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:04:47.1962853+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:05:04.297471+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:57:30.3679341+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:04:47.1963461+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:56:29.6611433+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:05:04.2975541+00:00"
 }

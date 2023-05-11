@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -213,6 +213,11 @@
       "Time": "2023-05-10T16:05:12.3276145+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T02:04:48.9430953+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -344,7 +349,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -384,7 +389,7 @@
       "Name": "The Greedy Ones",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -583,7 +588,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
@@ -591,8 +596,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:04:35.7818586+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:04:48.9430948+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:01.7477009+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:57:34.3810493+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:04:35.7818881+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:56:36.3456714+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:04:48.9431361+00:00"
 }

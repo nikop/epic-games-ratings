@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~174 |
 | The Lost Heir of Omu | 0.20% | ~174 |
 | No One Can Hear You Scream | 0.20% | ~107 |
+| Welcome to the Rock | 0.20% | ~107 |
 | The Forbidden City | 0.20% | ~174 |
 | Captured! | 0.20% | ~174 |
 | Street War | 0.20% | ~174 |
@@ -247,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Palace of Heart's Desire | 0.10% | ~53 |
 | The Egg of Nat's Desire | 0.10% | ~53 |
 | Anchors Aweigh | 0.10% | ~53 |
-| Welcome to the Rock | 0.10% | ~53 |
 | Welcome to the Band | 0.10% | ~53 |
 | Periodic Petrification | 0.10% | ~87 |
 | No Good at All | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,101 (Ranked 59)  
+Progressed: 87,108 (Ranked 59)  
 Completed: 1,823 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,10 +517,10 @@ Completed: 1,823 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,101 | 1,823 |
+| 2023-05-11 | 87,108 | 1,823 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
-Sum: 29,847 (Ranked 37)  
+Sum: 29,850 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -528,7 +528,7 @@ Diff (max vs sum): 26
 | This game is Great for Beginners | 4,815 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,479 |
-| This game is Highly Recommended | 3,932 |
+| This game is Highly Recommended | 3,935 |
 | This game has Amazing Characters | 3,931 |
 | This game has Playful Visuals | 3,231 |
 ## Ratings History
@@ -639,3 +639,4 @@ Diff (max vs sum): 26
 | 2023-05-08 | 4.06 | - | 4,868 | 29,833 |
 | 2023-05-09 | 4.06 | - | 4,873 | 29,838 |
 | 2023-05-10 | 4.06 | - | 4,874 | 29,847 |
+| 2023-05-11 | 4.06 | - | 4,874 | 29,850 |

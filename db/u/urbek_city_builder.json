@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -369,9 +369,9 @@
       "ID": "FELIZ_01",
       "SetID": "44dlcg0",
       "Name": "Oh, I am sad",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FELIZ_02",
@@ -762,8 +762,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:05:10.5669975+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:05:21.8964774+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:58:38.4432655+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:05:10.5670669+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:58:16.7740836+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:05:21.8965846+00:00"
 }

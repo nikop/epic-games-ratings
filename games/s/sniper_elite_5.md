@@ -11,8 +11,8 @@ Rating: 4.38 (Ranked 688)
 | It's Starting to Crack | 28.00% | ~195 |
 | Change the Channel | 25.00% | ~174 |
 | Lord of War | 24.00% | ~168 |
+| Resourceful | 23.00% | ~161 |
 | Taking it back | 23.00% | ~161 |
-| Resourceful | 22.00% | ~154 |
 | Organ Grinder | 21.00% | ~147 |
 | Sharpshooter | 21.00% | ~147 |
 | Target America | 21.00% | ~147 |

@@ -2080,10 +2080,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 34055,
       "NumberOfAwardsMax": 18623
+    },
+    {
+      "Time": "2023-05-11T01:56:02.0629458+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34059,
+      "NumberOfAwardsMax": 18623
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34055,
+  "NumberOfAwards": 34059,
   "NumberOfAwardsMax": 18623,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2103,7 +2109,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 604
+      "Count": 606
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2121,7 +2127,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 751
+      "Count": 753
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2160,10 +2166,10 @@
       "Count": 464
     }
   ],
-  "EOS_Progressed": 266532,
+  "EOS_Progressed": 266534,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1152,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1144,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -3925,6 +3931,11 @@
       "Time": "2023-05-11T00:01:06.1892728+00:00",
       "NumProgressed": 266532,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2023-05-11T02:01:50.9782275+00:00",
+      "NumProgressed": 266534,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 45,
@@ -4230,9 +4241,9 @@
       "ID": "PFA_43",
       "SetID": "1hf4dep",
       "Name": "Finishing Touches",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2399
+      "UsersEstimate": 2665
     },
     {
       "ID": "PFA_44",
@@ -4295,16 +4306,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266532,
+      "Progressed": 266534,
       "Completed": 359
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-10T23:57:09.1806852+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:01:06.1892723+00:00",
+  "LastChanged": "2023-05-11T01:56:02.0629455+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:01:50.9782268+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:57:09.1806857+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:01:06.1893086+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:56:02.0629462+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:01:50.9783347+00:00"
 }

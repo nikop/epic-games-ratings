@@ -44,6 +44,7 @@
 | City crisis | 0.70% | ~1 |
 | Desert builder | 0.70% | ~1 |
 | Desert urban planner | 0.70% | ~1 |
+| Oh, I am sad | 0.70% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.70% | ~1 |
 | Farming Frenzy | 0.70% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.70% | ~1 |
@@ -65,7 +66,6 @@
 | How scary! | 0.00% | ~0 |
 | Haunted city | 0.00% | ~0 |
 | Fear God, you sinners! | 0.00% | ~0 |
-| Oh, I am sad | 0.00% | ~0 |
 | Smile? I don't understand | 0.00% | ~0 |
 | Work, work, work... | 0.00% | ~0 |
 | ¡Muy feliz! | 0.00% | ~0 |

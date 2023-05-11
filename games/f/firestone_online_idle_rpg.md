@@ -5,9 +5,9 @@ Rating: 3.55 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~882 |
-| World Map | 79.00% | ~749 |
-| Temple of Eternals | 55.00% | ~521 |
+| Victor | 93.00% | ~883 |
+| World Map | 79.00% | ~750 |
+| Temple of Eternals | 55.00% | ~522 |
 | Prestigious | 52.00% | ~493 |
 | Fellowship Power | 39.00% | ~370 |
 | Guild Power | 23.00% | ~218 |
@@ -36,13 +36,13 @@ Rating: 3.55 (Ranked 917)
 | Scroll Master | 3.00% | ~28 |
 | The Expeditioner | 3.00% | ~28 |
 | The power of Awakening | 3.00% | ~28 |
+| Ancient Knowledge | 2.00% | ~19 |
 | Challenger | 2.00% | ~19 |
 | Doing My Part | 2.00% | ~19 |
 | Here We Go Again | 2.00% | ~19 |
 | How Do You Turn This On? | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
-| Ancient Knowledge | 1.00% | ~9 |
 | Master Enchanter | 1.00% | ~9 |
 | The father of Dragons | 1.00% | ~9 |
 | Trader | 1.00% | ~9 |
@@ -81,7 +81,7 @@ Rating: 3.55 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 948 (Ranked 165)  
+Progressed: 949 (Ranked 165)  
 Completed: 1 (0.11%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 1 (0.11%) (Ranked 153)
 | 2023-05-08 | 916 | 1 |
 | 2023-05-09 | 935 | 1 |
 | 2023-05-10 | 948 | 1 |
+| 2023-05-11 | 949 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

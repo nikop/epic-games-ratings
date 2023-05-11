@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 477)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 1.00% | ~19 |
-| Wakey Wakey | 0.90% | ~17 |
+| Wakey Wakey | 1.00% | ~19 |
 | Infinite Growth... | 0.70% | ~13 |
 | Sputnik 2049 | 0.70% | ~13 |
 | A Thousand Strong | 0.60% | ~11 |

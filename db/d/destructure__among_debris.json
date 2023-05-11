@@ -3,7 +3,7 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -283,6 +283,11 @@
       "Time": "2023-05-10T19:06:57.9403994+00:00",
       "NumProgressed": 60,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T02:05:33.6122993+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -292,7 +297,7 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -364,7 +369,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -380,7 +385,7 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -460,7 +465,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 42
     },
@@ -541,7 +546,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 1
     }
   ],
@@ -549,8 +554,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:05:19.3485146+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:05:33.6122987+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:59:43.3010875+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:05:19.3485335+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:59:46.7675218+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:05:33.612327+00:00"
 }

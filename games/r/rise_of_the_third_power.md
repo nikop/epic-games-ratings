@@ -19,11 +19,11 @@
 | Beginning of the End | 18.00% | ~21 |
 | Bling | 18.00% | ~21 |
 | Geared | 16.00% | ~19 |
+| Master Crafter | 13.00% | ~15 |
 | Master Trader | 13.00% | ~15 |
 | Mysteries of Rin | 13.00% | ~15 |
-| Master Crafter | 12.00% | ~14 |
 | Empyrean Champion | 10.00% | ~12 |
-| Patience | 9.00% | ~11 |
+| Patience | 10.00% | ~12 |
 | Master Tactician | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 246)  

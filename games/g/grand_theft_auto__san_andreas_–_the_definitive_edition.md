@@ -5,13 +5,13 @@ Rating: 4.60 (Ranked 376)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,058 |
-| Pay 'n' Spray | 48.00% | ~3,635 |
+| Getting Started | 80.00% | ~6,060 |
+| Pay 'n' Spray | 48.00% | ~3,636 |
 | All Dressed Up for San Fierro | 23.00% | ~1,742 |
-| The American Dream | 17.00% | ~1,287 |
+| The American Dream | 17.00% | ~1,288 |
 | School's Out | 16.00% | ~1,212 |
 | Smooth Moves | 15.00% | ~1,136 |
-| Today Was a Good Day | 13.00% | ~984 |
+| Today Was a Good Day | 13.00% | ~985 |
 | What happens in Las Venturas... | 12.00% | ~909 |
 | Horror of the Santa Maria | 9.00% | ~682 |
 | Liberty City State of Mind | 7.00% | ~530 |
@@ -22,12 +22,12 @@ Rating: 4.60 (Ranked 376)
 | They Can’t Stop All of Us | 4.00% | ~303 |
 | Rescue a Kitten Too? | 4.00% | ~303 |
 | What are the Odds | 3.00% | ~227 |
-| I’ll Have Two Number 9s | 2.00% | ~151 |
-| Bike or Biker | 2.00% | ~151 |
-| What the City Needs | 2.00% | ~151 |
-| Yes I Speak English | 2.00% | ~151 |
-| Double or Nothin' | 2.00% | ~151 |
-| Public Enemy No. 1 | 2.00% | ~151 |
+| I’ll Have Two Number 9s | 2.00% | ~152 |
+| Bike or Biker | 2.00% | ~152 |
+| What the City Needs | 2.00% | ~152 |
+| Yes I Speak English | 2.00% | ~152 |
+| Double or Nothin' | 2.00% | ~152 |
+| Public Enemy No. 1 | 2.00% | ~152 |
 | A Legitimate Business | 1.00% | ~76 |
 | Who Needs Directions? | 1.00% | ~76 |
 | Swiss Army Strife | 1.00% | ~76 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 376)
 | ...Here we go again | 0.20% | ~15 |
 | I Ain't No Buster | 0.20% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,573 (Ranked 110)  
+Progressed: 7,575 (Ranked 110)  
 Completed: 15 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,6 +62,7 @@ Completed: 15 (0.20%) (Ranked 137)
 | 2023-05-08 | 7,560 | 15 |
 | 2023-05-09 | 7,568 | 15 |
 | 2023-05-10 | 7,573 | 15 |
+| 2023-05-11 | 7,575 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

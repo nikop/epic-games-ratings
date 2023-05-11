@@ -399,9 +399,9 @@
       "ID": "Ach004",
       "SetID": "12n4k20",
       "Name": "The Negotiator",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 785
     },
     {
       "ID": "Ach005",
@@ -878,8 +878,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-05-08T21:59:53.9566776+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:04:49.5750886+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:05:07.5376748+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:50.5446427+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:58:23.0096721+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:04:49.5751377+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:57:56.1553969+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:05:07.5377449+00:00"
 }

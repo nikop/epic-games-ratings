@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1358,10 +1358,16 @@
       "Rating": 4.03,
       "NumberOfAwards": 1484,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2023-05-11T01:58:27.9164658+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 1486,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1484,
+  "NumberOfAwards": 1486,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1381,7 +1387,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 143
+      "Count": 144
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1423,7 +1429,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1444,9 +1450,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 214538,
+  "EOS_Progressed": 214572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3466,
+  "EOS_NewPlayers": 3485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3279,6 +3285,11 @@
       "Time": "2023-05-11T00:05:04.5692496+00:00",
       "NumProgressed": 214538,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T02:05:13.6455477+00:00",
+      "NumProgressed": 214572,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -3338,7 +3349,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 23599
+      "UsersEstimate": 23603
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -3378,7 +3389,7 @@
       "Name": "First but not Last",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6436
+      "UsersEstimate": 6437
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -3450,7 +3461,7 @@
       "Name": "I Found it!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12872
+      "UsersEstimate": 12874
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3498,7 +3509,7 @@
       "Name": "Dress Code",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8582
+      "UsersEstimate": 8583
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -3514,7 +3525,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 173776
+      "UsersEstimate": 173803
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -3522,22 +3533,22 @@
       "Name": "I know the Rules",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 94397
+      "UsersEstimate": 94412
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 214538,
+      "Progressed": 214572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-05-05T19:00:17.9448756+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:05:04.5692491+00:00",
+  "LastChanged": "2023-05-11T01:58:27.9164655+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:05:13.6455474+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:12.6013299+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:58:49.7815437+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:05:04.569274+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:58:27.9164664+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:05:13.6455843+00:00"
 }

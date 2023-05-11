@@ -16,10 +16,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 0.70% | ~103 |
 | Taking Action | 0.70% | ~103 |
 | Like a Machine | 0.70% | ~103 |
+| Trade Baron | 0.70% | ~103 |
 | Bandit Camp | 0.60% | ~88 |
 | Barren Lands | 0.60% | ~88 |
 | Ancient Battleground | 0.60% | ~88 |
-| Trade Baron | 0.60% | ~88 |
 | Homesick | 0.50% | ~74 |
 | Sparkdew Crystals | 0.50% | ~74 |
 | Dangerous Lands | 0.50% | ~74 |
@@ -43,6 +43,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 0.30% | ~44 |
 | Forbidden Lands | 0.30% | ~44 |
 | Beaver Utopia | 0.20% | ~29 |
+| Human Utopia | 0.20% | ~29 |
 | Lizard Utopia | 0.20% | ~29 |
 | Efficient Explorer | 0.20% | ~29 |
 | Prestigious Expedition | 0.20% | ~29 |
@@ -52,12 +53,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 | Harpy Utopia | 0.10% | ~15 |
-| Human Utopia | 0.10% | ~15 |
 | The Queen's Chosen | 0.10% | ~15 |
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,739 (Ranked 98)  
+Progressed: 14,741 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 30 (0.20%) (Ranked 137)
 | 2023-05-08 | 14,720 | 30 |
 | 2023-05-09 | 14,731 | 30 |
 | 2023-05-10 | 14,738 | 30 |
-| 2023-05-11 | 14,739 | 30 |
+| 2023-05-11 | 14,741 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 192)  
 Sum: 3,018 (Ranked 151)  

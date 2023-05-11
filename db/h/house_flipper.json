@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2045,9 +2045,9 @@
       "ID": "SmothFamily",
       "SetID": "d0jo315",
       "Name": "Pro-creative",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3367
     },
     {
       "ID": "Strongman",
@@ -2085,8 +2085,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-10T14:01:25.513547+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:05:12.5675734+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:05:24.6431197+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.5211178+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:59:15.0349526+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:05:12.5675868+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:59:04.0644127+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:05:24.643139+00:00"
 }

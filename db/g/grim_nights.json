@@ -2,10 +2,10 @@
   "ID": "9d5393fd5460430e80d2bfe9fcd55d6a",
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -88,6 +88,11 @@
       "Time": "2023-05-10T21:05:13.8830287+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T02:04:59.2353813+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -97,7 +102,7 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 150,
       "UsersEstimate": 6
     },
@@ -105,7 +110,7 @@
       "ID": "ach_boss2",
       "SetID": "c2c0fb6",
       "Name": "Slay that one too!",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -121,7 +126,7 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -137,7 +142,7 @@
       "ID": "ach_day10",
       "SetID": "c2c0fb6",
       "Name": "Still alive!",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -145,7 +150,7 @@
       "ID": "ach_day15",
       "SetID": "c2c0fb6",
       "Name": "Endurance test!",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -161,7 +166,7 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 83,
+      "Percentage": 77,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -169,7 +174,7 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 83,
+      "Percentage": 77,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -177,7 +182,7 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 58,
+      "Percentage": 54,
       "XP": 70,
       "UsersEstimate": 7
     },
@@ -185,7 +190,7 @@
       "ID": "ach_lose",
       "SetID": "c2c0fb6",
       "Name": "Lives lost",
-      "Percentage": 42,
+      "Percentage": 38,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -193,7 +198,7 @@
       "ID": "ach_rich",
       "SetID": "c2c0fb6",
       "Name": "Bling bling!",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -201,7 +206,7 @@
       "ID": "ach_slay1000",
       "SetID": "c2c0fb6",
       "Name": "Slaughter",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -209,7 +214,7 @@
       "ID": "ach_slay2000",
       "SetID": "c2c0fb6",
       "Name": "Massive slaughter",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 2
     }
@@ -218,7 +223,7 @@
     {
       "ID": "c2c0fb6",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
@@ -226,8 +231,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-11T00:04:43.3527073+00:00",
+  "LastChanged_Achievements": "2023-05-11T02:04:59.235381+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:17.4519709+00:00",
-  "LastUpdate_Ratings": "2023-05-10T23:58:54.7924297+00:00",
-  "LastUpdate_Achievements": "2023-05-11T00:04:43.352714+00:00"
+  "LastUpdate_Ratings": "2023-05-11T01:58:34.4596868+00:00",
+  "LastUpdate_Achievements": "2023-05-11T02:04:59.2353925+00:00"
 }

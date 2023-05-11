@@ -6,12 +6,12 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~173,776 |
-| I know the Rules | 44.00% | ~94,397 |
-| Contender | 11.00% | ~23,599 |
-| I Found it! | 6.00% | ~12,872 |
-| Dress Code | 4.00% | ~8,582 |
-| First but not Last | 3.00% | ~6,436 |
+| Ball Launched | 81.00% | ~173,803 |
+| I know the Rules | 44.00% | ~94,412 |
+| Contender | 11.00% | ~23,603 |
+| I Found it! | 6.00% | ~12,874 |
+| Dress Code | 4.00% | ~8,583 |
+| First but not Last | 3.00% | ~6,437 |
 | Ready Steady Score | 2.00% | ~4,291 |
 | Full Loot Madness | 2.00% | ~4,291 |
 | Nine Zeroes | 0.90% | ~1,931 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,538 (Ranked 46)  
+Progressed: 214,572 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,10 +58,10 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 213,808 | 0 |
 | 2023-05-09 | 214,161 | 0 |
 | 2023-05-10 | 214,524 | 0 |
-| 2023-05-11 | 214,538 | 0 |
+| 2023-05-11 | 214,572 | 0 |
 ## Awards
 Max (Great for Beginners): 172  (Ranked 271)  
-Sum: 1,484 (Ranked 208)  
+Sum: 1,486 (Ranked 208)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -71,8 +71,8 @@ Diff (max vs sum): 63
 | This game is Relaxing | 156 |
 | This game is Extremely Fun | 151 |
 | This game is Highly Recommended | 148 |
-| This game has Competitive Players | 143 |
-| This game has Amazing Storytelling | 99 |
+| This game has Competitive Players | 144 |
+| This game has Amazing Storytelling | 100 |
 | This game has a Competitive Community | 99 |
 | This game has Challenging Combat | 98 |
 | This game has Amazing Characters | 89 |
@@ -195,3 +195,4 @@ Diff (max vs sum): 63
 | 2023-05-01 | 4.03 | - | 171 | 1,481 |
 | 2023-05-03 | 4.03 | - | 172 | 1,483 |
 | 2023-05-05 | 4.03 | - | 172 | 1,484 |
+| 2023-05-11 | 4.03 | - | 172 | 1,486 |
