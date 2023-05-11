@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,054 |
-| That's a Grand Army | 8.00% | ~2,714 |
-| That is mine! | 8.00% | ~2,714 |
-| Victorious! | 8.00% | ~2,714 |
-| Brothers in Arms | 6.00% | ~2,036 |
-| That's a Grand Navy | 6.00% | ~2,036 |
-| Seriously?! | 6.00% | ~2,036 |
-| For the Glory | 5.00% | ~1,696 |
-| Cold War | 4.00% | ~1,357 |
-| True Catholic | 4.00% | ~1,357 |
+| Until death do us apart | 9.00% | ~3,055 |
+| That's a Grand Army | 8.00% | ~2,716 |
+| That is mine! | 8.00% | ~2,716 |
+| Victorious! | 8.00% | ~2,716 |
+| Brothers in Arms | 6.00% | ~2,037 |
+| That's a Grand Navy | 6.00% | ~2,037 |
+| Seriously?! | 6.00% | ~2,037 |
+| For the Glory | 5.00% | ~1,697 |
+| Cold War | 4.00% | ~1,358 |
+| True Catholic | 4.00% | ~1,358 |
 | Defender of the Faith | 3.00% | ~1,018 |
 | It's all about the money | 3.00% | ~1,018 |
 | Respected | 3.00% | ~1,018 |
@@ -37,8 +37,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~339 |
 | A Golden Empire | 1.00% | ~339 |
 | My armies are invincible! | 1.00% | ~339 |
-| Isn't this the way to India? | 0.80% | ~271 |
-| The Five Colonies | 0.80% | ~271 |
+| Isn't this the way to India? | 0.80% | ~272 |
+| The Five Colonies | 0.80% | ~272 |
 | The Emperors new clothes | 0.70% | ~238 |
 | Market Control | 0.70% | ~238 |
 | This navy can take it all | 0.70% | ~238 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,929 (Ranked 81)  
+Progressed: 33,949 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 32,639 | 0 |
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
-| 2023-05-11 | 33,929 | 0 |
+| 2023-05-11 | 33,949 | 0 |
 ## Awards
 Max (Educational): 5,206  (Ranked 60)  
 Sum: 43,050 (Ranked 27)  

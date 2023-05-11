@@ -15,8 +15,8 @@
 | Open Sesame | 52.00% | ~76 |
 | Sticky Fingers | 52.00% | ~76 |
 | Knives Out | 52.00% | ~76 |
+| Lock, Stock, And Barrel | 51.00% | ~74 |
 | Land, Ho! | 51.00% | ~74 |
-| Lock, Stock, And Barrel | 50.00% | ~73 |
 | Back In The Saddle | 50.00% | ~73 |
 | Gaze Into The Abyss | 49.00% | ~72 |
 | No Man Is An Island | 48.00% | ~70 |

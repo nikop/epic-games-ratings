@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,7 +506,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46111,
+  "EOS_Progressed": 46112,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -1406,6 +1406,11 @@
       "Time": "2023-05-11T05:05:41.9177716+00:00",
       "NumProgressed": 46111,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-11T12:04:49.8516451+00:00",
+      "NumProgressed": 46112,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1425,7 +1430,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     },
     {
       "ID": "03",
@@ -1952,21 +1957,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46111,
+      "Progressed": 46112,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9579,
+      "Progressed": 9580,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-11T11:05:08.8627238+00:00",
+  "LastChanged_Achievements": "2023-05-11T12:04:49.8516447+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-11T10:57:35.542344+00:00",
-  "LastUpdate_Achievements": "2023-05-11T11:05:08.8627977+00:00"
+  "LastUpdate_Ratings": "2023-05-11T11:57:22.5013943+00:00",
+  "LastUpdate_Achievements": "2023-05-11T12:04:49.8517169+00:00"
 }

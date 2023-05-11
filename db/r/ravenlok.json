@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 584,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 6.16,
   "EosHistory": [
@@ -993,17 +993,17 @@
       "ID": "18",
       "SetID": "d0g98p",
       "Name": "Surprise!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 251
     },
     {
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 420
     },
     {
       "ID": "2",
@@ -1145,9 +1145,9 @@
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 216
     },
     {
       "ID": "36",
@@ -1161,9 +1161,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 199
     },
     {
       "ID": "38",
@@ -1217,9 +1217,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 251
     },
     {
       "ID": "44",
@@ -1330,8 +1330,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-11T11:04:59.2646073+00:00",
+  "LastChanged_Achievements": "2023-05-11T12:04:40.0982579+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-11T10:57:27.6155847+00:00",
-  "LastUpdate_Achievements": "2023-05-11T11:04:59.2646558+00:00"
+  "LastUpdate_Ratings": "2023-05-11T11:57:14.8721629+00:00",
+  "LastUpdate_Achievements": "2023-05-11T12:04:40.0983075+00:00"
 }

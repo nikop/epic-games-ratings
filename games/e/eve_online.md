@@ -1,7 +1,7 @@
 # EVE Online
 [Store](https://store.epicgames.com/en-US/p/eve-online)  
 [View Rawdata](../../db/e/eve_online.json)  
-Rating: 4.26 (Ranked 775)  
+Rating: 4.25 (Ranked 779)  
 Number of Ratings: 1,408  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,018  (Ranked 134)  
@@ -147,3 +147,4 @@ Diff (max vs sum): -41
 | 2023-05-05 | 4.26 | - | 1,018 | 2,012 |
 | 2023-05-07 | 4.26 | - | 1,018 | 2,013 |
 | 2023-05-10 | 4.26 | - | 1,018 | 2,196 |
+| 2023-05-11 | 4.25 | - | 1,018 | 2,196 |

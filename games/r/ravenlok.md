@@ -9,27 +9,27 @@
 | Into the Barn | 87.00% | ~508 |
 | A Prophecy | 85.00% | ~496 |
 | Sword, Shield, Fight! | 76.00% | ~444 |
-| A Grand Visit | 71.00% | ~415 |
+| A Grand Visit | 72.00% | ~420 |
 | Fun Guy | 61.00% | ~356 |
 | Vibing | 60.00% | ~350 |
 | Tragic Brave | 52.00% | ~304 |
 | Awakened Spirits | 48.00% | ~280 |
 | Little Shop | 47.00% | ~274 |
-| Surprise! | 42.00% | ~245 |
-| An Actor! | 42.00% | ~245 |
+| Surprise! | 43.00% | ~251 |
+| An Actor! | 43.00% | ~251 |
 | Curtain Call | 41.00% | ~239 |
 | Well Rested | 39.00% | ~228 |
 | Piece of Cake | 38.00% | ~222 |
 | Glimmer of Hope | 38.00% | ~222 |
 | Gooey Delight! | 37.00% | ~216 |
-| Teacups for Toppy | 36.00% | ~210 |
+| Teacups for Toppy | 37.00% | ~216 |
 | Nightmare Fuel | 35.00% | ~204 |
 | Take Heart | 35.00% | ~204 |
 | The Guardian | 35.00% | ~204 |
+| Stronger! | 34.00% | ~199 |
 | Ancient Wisdom | 33.00% | ~193 |
 | Frog Facts! | 33.00% | ~193 |
 | All That Glistens | 33.00% | ~193 |
-| Stronger! | 33.00% | ~193 |
 | It's Pointy! | 32.00% | ~187 |
 | Spellbound | 31.00% | ~181 |
 | All Skilled Up! | 31.00% | ~181 |

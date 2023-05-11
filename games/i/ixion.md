@@ -24,6 +24,7 @@ Rating: 4.54 (Ranked 477)
 | Convenient Transport | 0.40% | ~7 |
 | Sightseeing | 0.30% | ~6 |
 | A Hunk of Junk | 0.30% | ~6 |
+| In Dolos We Trust | 0.30% | ~6 |
 | Access Granted | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | Please Make it Stop! | 0.30% | ~6 |
@@ -31,7 +32,6 @@ Rating: 4.54 (Ranked 477)
 | Man's Best Friend | 0.20% | ~4 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
-| In Dolos We Trust | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | All in Good Health | 0.20% | ~4 |

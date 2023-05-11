@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~261 |
 | Owlbear Necessities | 0.30% | ~160 |
 | Best Thay Ever | 0.30% | ~160 |
+| Keep Your Distance | 0.30% | ~160 |
 | The Dread Domain of Tovag | 0.30% | ~160 |
 | Frail Doesn't Mean Broken | 0.30% | ~160 |
 | The Castle of a Thousand Vecnas | 0.30% | ~160 |
@@ -54,6 +55,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~107 |
 | Nightmare Rats! | 0.20% | ~107 |
 | The Witchlight Carnival | 0.20% | ~107 |
+| A Monarch Among Us | 0.20% | ~107 |
 | Thieves of the Coven | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
 | The Prince of a Thousand Enemies | 0.20% | ~107 |
@@ -70,7 +72,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.20% | ~107 |
 | Well Equipped | 0.20% | ~107 |
 | Return to the Tomb | 0.20% | ~107 |
-| Keep Your Distance | 0.20% | ~107 |
 | Heatwave | 0.20% | ~107 |
 | Hands Off! | 0.20% | ~107 |
 | Weak Doesn't Mean Feeble | 0.20% | ~107 |
@@ -144,6 +145,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.20% | ~107 |
 | Giant-Size Adventure | 0.20% | ~107 |
 | The Everlasting Rime | 0.20% | ~107 |
+| Enemy Summit | 0.20% | ~107 |
 | Close Escort | 0.20% | ~174 |
 | Constant Banditry | 0.20% | ~174 |
 | The Long Haul | 0.20% | ~174 |
@@ -172,7 +174,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | And Your Enemies Closer | 0.10% | ~53 |
 | An Unexpected Geist | 0.10% | ~53 |
 | Back to Nature | 0.10% | ~53 |
-| A Monarch Among Us | 0.10% | ~53 |
 | A Dragon Against Us | 0.10% | ~53 |
 | A Familiar Behind Us | 0.10% | ~53 |
 | Sticky Fingers | 0.10% | ~53 |
@@ -423,7 +424,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.10% | ~53 |
 | Prisoners of Unknown Choices | 0.10% | ~53 |
 | Power of Three | 0.10% | ~53 |
-| Enemy Summit | 0.10% | ~53 |
 | Mirage Arcane | 0.10% | ~53 |
 | Only Human | 0.10% | ~53 |
 | CONtagious Cold | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,128 (Ranked 59)  
+Progressed: 87,130 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,128 | 1,825 |
+| 2023-05-11 | 87,130 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,856 (Ranked 37)  

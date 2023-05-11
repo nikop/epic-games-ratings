@@ -3634,7 +3634,7 @@
       "Count": 3231
     }
   ],
-  "EOS_Progressed": 87128,
+  "EOS_Progressed": 87130,
   "EOS_Completed": 1825,
   "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 25,
@@ -5474,6 +5474,11 @@
       "Time": "2023-05-11T11:05:43.7800986+00:00",
       "NumProgressed": 87128,
       "NumCompleted": 1825
+    },
+    {
+      "Time": "2023-05-11T12:05:26.7782159+00:00",
+      "NumProgressed": 87130,
+      "NumCompleted": 1825
     }
   ],
   "TotalAchievements": 489,
@@ -5595,9 +5600,9 @@
       "ID": "objective_completed_1056",
       "SetID": "415jc5c",
       "Name": "A Monarch Among Us",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1057",
@@ -6235,9 +6240,9 @@
       "ID": "objective_completed_1175",
       "SetID": "415jc5c",
       "Name": "Keep Your Distance",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_completed_1178",
@@ -8603,9 +8608,9 @@
       "ID": "objective_completed_696",
       "SetID": "415jc5c",
       "Name": "Enemy Summit",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_697",
@@ -9396,21 +9401,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53402,
+      "Progressed": 53404,
       "Completed": 2489
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87128,
+      "Progressed": 87130,
       "Completed": 1825
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T07:57:50.1776572+00:00",
-  "LastChanged_Achievements": "2023-05-11T11:05:43.7800978+00:00",
+  "LastChanged_Achievements": "2023-05-11T12:05:26.7782151+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-11T10:57:56.9972921+00:00",
-  "LastUpdate_Achievements": "2023-05-11T11:05:43.7824187+00:00"
+  "LastUpdate_Ratings": "2023-05-11T11:57:44.9620044+00:00",
+  "LastUpdate_Achievements": "2023-05-11T12:05:26.780804+00:00"
 }

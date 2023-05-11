@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 287)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,522 |
-| Tomorrow Never Dyes | 47.00% | ~2,586 |
-| Mainframe Hacker | 46.00% | ~2,531 |
-| The Spy who eliminated me | 46.00% | ~2,531 |
-| Never Say Loser Again | 42.00% | ~2,311 |
-| For your Eyes only | 39.00% | ~2,146 |
-| From the Vault with Love | 38.00% | ~2,091 |
-| Tailor-Made | 38.00% | ~2,091 |
-| Fully Decked Out | 37.00% | ~2,036 |
-| You Only Live Twice | 31.00% | ~1,706 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,523 |
+| Tomorrow Never Dyes | 47.00% | ~2,587 |
+| Mainframe Hacker | 46.00% | ~2,532 |
+| The Spy who eliminated me | 46.00% | ~2,532 |
+| Never Say Loser Again | 42.00% | ~2,312 |
+| For your Eyes only | 39.00% | ~2,147 |
+| From the Vault with Love | 38.00% | ~2,092 |
+| Tailor-Made | 38.00% | ~2,092 |
+| Fully Decked Out | 37.00% | ~2,037 |
+| You Only Live Twice | 31.00% | ~1,707 |
 | A view to Win | 29.00% | ~1,596 |
+| Smells Like Trouble | 27.00% | ~1,486 |
 | In It to Win It | 26.00% | ~1,431 |
 | Private Collection | 26.00% | ~1,431 |
-| Smells Like Trouble | 26.00% | ~1,431 |
 | Assistant Accountant | 25.00% | ~1,376 |
 | The Living Portrait | 25.00% | ~1,376 |
 | Killer Looks | 25.00% | ~1,376 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 287)
 | Extraction Confusion | 0.30% | ~17 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,503 (Ranked 119)  
+Progressed: 5,505 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 5,382 | 0 |
 | 2023-05-09 | 5,439 | 0 |
 | 2023-05-10 | 5,491 | 0 |
-| 2023-05-11 | 5,503 | 0 |
+| 2023-05-11 | 5,505 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
