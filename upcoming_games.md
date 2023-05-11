@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Ungate](games/u/ungate.md) | 2023-05-11 | 2023-05-11 |
 | [Infindustry](games/i/infindustry.md) | 2023-05-11 | 2022-05-03 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-12 | 2022-05-05 |
 | [Vacation Adventures: Cruise Director 8 CE](games/v/vacation_adventures__cruise_director_8_ce.md) | 2023-05-12 | 2023-05-12 |
@@ -172,6 +171,7 @@
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2023-12-31 | 2023-12-31 |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | 2023-02-02 |
 | [Xenonauts 2](games/x/xenonauts_2.md) | 2023-12-31 | 2023-12-31 |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-02-02 | - |
 | [Elder's Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-03-31 | 2024-03-31 |
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | 2024-12-31 |
 | [Dawn Apart](games/d/dawn_apart.md) | 2024-12-31 | 2024-12-31 |

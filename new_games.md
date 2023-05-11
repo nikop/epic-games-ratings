@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Ungate](games/u/ungate.md) | 2023-05-11 | 2023-05-11 |
 | [Death to Spies](games/4/4d40161c73db44369e250c40015e4f52.md) | 2023-05-11 | 2007-10-16 |
 | [Death to Spies: Moment of Truth](games/b/bd2c5acda74f43af84ef775561773aec.md) | 2023-05-11 | 2009-08-07 |
 | [NecroVision](games/2/228902bbbf0d49f08c7acda453af8bf5.md) | 2023-05-11 | 2009-05-20 |
