@@ -64,7 +64,6 @@
 | [Outworld Patrol](games/o/outworld_patrol.md) | 2023-04-30 | 2022-12-11 |
 | [The Sorrowvirus](games/t/the_sorrowvirus.md) | 2023-04-30 | 2020-05-30 |
 | [The Swine](games/t/the_swine.md) | 2023-04-30 | 2020-06-18 |
-| [Vacation Adventures: Cruise Director 8 CE](games/v/vacation_adventures__cruise_director_8_ce.md) | 2023-04-30 | 2023-04-30 |
 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 2023-04-29 | 2023-04-29 |
 | [Saboteur II Avenging Angel](games/s/saboteur_ii_avenging_angel.md) | 2023-04-28 | 2023-04-28 |
 | [Saboteur SiO](games/s/saboteur_sio.md) | 2023-04-28 | 2023-04-28 |

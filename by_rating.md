@@ -211,7 +211,7 @@
 | 192 | [The Witness](games/t/the_witness.md) | 4.70 | 170 | 273 |
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,261 | 69 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 490 |
-| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,947 | 8 |
+| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,009 | 8 |
 | 212 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 490 |
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,747 | 76 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 490 |
@@ -439,7 +439,7 @@
 | 429 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 426 |
 | 429 | [Hob](games/h/hob.md) | 4.57 | 0 | 490 |
 | 429 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 420 |
-| 429 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,266 | 42 |
+| 429 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,277 | 42 |
 | 429 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,053 | 85 |
 | 429 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 117 | 305 |
 | 429 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,245 | 19 |
@@ -465,7 +465,7 @@
 | 447 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,769 | 108 |
 | 447 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 0 | 490 |
 | 447 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 49 | 390 |
-| 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,836 | 75 |
+| 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,842 | 75 |
 | 467 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 490 |
 | 467 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,155 | 124 |
 | 467 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 477 |
@@ -700,7 +700,7 @@
 | 688 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
 | 688 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 440 |
 | 700 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 490 |
-| 700 | [Core](games/c/core.md) | 4.37 | 728 | 152 |
+| 700 | [Core](games/c/core.md) | 4.37 | 729 | 152 |
 | 700 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
 | 700 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |
 | 700 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 490 |
@@ -806,17 +806,17 @@
 | 802 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 270 |
 | 802 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,033 | 26 |
 | 802 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 490 |
-| 807 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 299 |
-| 807 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 301 |
-| 807 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 30 | 444 |
-| 807 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 490 |
-| 807 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.20 | 0 | 490 |
-| 807 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 472 |
-| 807 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 351 |
-| 807 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 0 | 490 |
-| 807 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 490 |
-| 807 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 490 |
-| 807 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 349 |
+| 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 490 |
+| 808 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 299 |
+| 808 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 301 |
+| 808 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 30 | 444 |
+| 808 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 490 |
+| 808 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.20 | 0 | 490 |
+| 808 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 472 |
+| 808 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 351 |
+| 808 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 490 |
+| 808 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 490 |
+| 808 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 349 |
 | 818 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 384 |
 | 818 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 490 |
 | 818 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 431 |
