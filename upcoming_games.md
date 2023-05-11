@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Voodolls](games/v/voodolls.md) | 2023-05-11 | 2023-05-11 |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 2023-05-11 | 2021-12-16 |
 | [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 2022-06-16 |
 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2023-05-11 | 2023-05-11 |
