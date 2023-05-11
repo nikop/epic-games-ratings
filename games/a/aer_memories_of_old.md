@@ -1,34 +1,34 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 601)  
+Rating: 4.45 (Ranked 602)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~6,895 |
-| Mama? | 28.00% | ~2,540 |
-| People's Haven | 19.00% | ~1,724 |
-| Cartographer | 18.00% | ~1,633 |
-| Knowledge for Power | 15.00% | ~1,361 |
-| Antlers of Stone | 15.00% | ~1,361 |
-| Gaze into the abyss | 14.00% | ~1,270 |
-| Mausoleum of Ice | 14.00% | ~1,270 |
-| Equilibrium | 13.00% | ~1,179 |
+| Light at the end of the tunnel | 76.00% | ~6,900 |
+| Mama? | 28.00% | ~2,542 |
+| People's Haven | 19.00% | ~1,725 |
+| Cartographer | 18.00% | ~1,634 |
+| Knowledge for Power | 15.00% | ~1,362 |
+| Antlers of Stone | 15.00% | ~1,362 |
+| Gaze into the abyss | 14.00% | ~1,271 |
+| Mausoleum of Ice | 14.00% | ~1,271 |
+| Equilibrium | 13.00% | ~1,180 |
 | In the belly of the beast | 12.00% | ~1,089 |
 | Wings of Stone | 12.00% | ~1,089 |
-| Condor condo | 11.00% | ~998 |
+| Condor condo | 11.00% | ~999 |
 | Memorial | 9.00% | ~817 |
 | An uninvited guest | 8.00% | ~726 |
-| Tails of Stone | 7.00% | ~635 |
-| Baa from the past | 7.00% | ~635 |
-| Written in stone | 7.00% | ~635 |
-| Talk to all the spirit animals | 7.00% | ~635 |
-| Ripples on the surface | 6.00% | ~544 |
+| Tails of Stone | 7.00% | ~636 |
+| Baa from the past | 7.00% | ~636 |
+| Written in stone | 7.00% | ~636 |
+| Talk to all the spirit animals | 7.00% | ~636 |
+| Ripples on the surface | 6.00% | ~545 |
 | Hide and Seek | 5.00% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,073 (Ranked 108)  
-Completed: 202 (2.23%) (Ranked 59)  
+Progressed: 9,079 (Ranked 108)  
+Completed: 203 (2.24%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,7 +48,7 @@ Completed: 202 (2.23%) (Ranked 59)
 | 2023-05-08 | 8,879 | 200 |
 | 2023-05-09 | 8,952 | 202 |
 | 2023-05-10 | 9,026 | 202 |
-| 2023-05-11 | 9,073 | 202 |
+| 2023-05-11 | 9,079 | 203 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

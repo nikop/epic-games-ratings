@@ -9,8 +9,8 @@ Rating: 4.54 (Ranked 477)
 | Wakey Wakey | 1.00% | ~19 |
 | Infinite Growth... | 0.90% | ~17 |
 | Sputnik 2049 | 0.80% | ~15 |
+| Ready for a New World | 0.70% | ~13 |
 | A Thousand Strong | 0.60% | ~11 |
-| Ready for a New World | 0.60% | ~11 |
 | Breaking Protocol | 0.60% | ~11 |
 | The Ship of Theseus | 0.60% | ~11 |
 | Space Society | 0.50% | ~9 |

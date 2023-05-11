@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1956,
+  "EOS_Progressed": 1957,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1121,6 +1121,11 @@
       "Time": "2023-05-11T13:11:11.7066754+00:00",
       "NumProgressed": 1956,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-11T16:05:45.7892496+00:00",
+      "NumProgressed": 1957,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1140,7 +1145,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1156,7 +1161,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -1172,7 +1177,7 @@
       "Name": "Hijack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1196,7 +1201,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1212,7 +1217,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1244,7 +1249,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -1300,7 +1305,7 @@
       "Name": "Chains master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -1428,7 +1433,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "STB_PET_DOG",
@@ -1444,7 +1449,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "STB_PLATINUM",
@@ -1460,7 +1465,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -1476,7 +1481,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1508,7 +1513,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1532,7 +1537,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -1540,7 +1545,7 @@
       "Name": "Ancient power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -1555,7 +1560,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1956,
+      "Progressed": 1957,
       "Completed": 1
     }
   ],
@@ -1563,8 +1568,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-11T15:05:22.3762653+00:00",
+  "LastChanged_Achievements": "2023-05-11T16:05:45.789249+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-11T14:57:52.416734+00:00",
-  "LastUpdate_Achievements": "2023-05-11T15:05:22.3763161+00:00"
+  "LastUpdate_Ratings": "2023-05-11T15:57:46.4174225+00:00",
+  "LastUpdate_Achievements": "2023-05-11T16:05:45.7892898+00:00"
 }

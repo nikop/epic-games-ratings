@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2552,
+  "EOS_Progressed": 2553,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2023-05-11T13:11:41.5119865+00:00",
       "NumProgressed": 2552,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-11T16:06:20.2614981+00:00",
+      "NumProgressed": 2553,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -623,7 +628,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "campaign10",
@@ -725,9 +730,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1659
     },
     {
       "ID": "campaign4",
@@ -743,7 +748,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "campaign6",
@@ -783,7 +788,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "scenario2",
@@ -838,7 +843,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2552,
+      "Progressed": 2553,
       "Completed": 9
     }
   ],
@@ -846,8 +851,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-11T15:05:51.7629283+00:00",
+  "LastChanged_Achievements": "2023-05-11T16:06:20.2614977+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-11T15:00:04.7718383+00:00",
-  "LastUpdate_Achievements": "2023-05-11T15:05:51.7629731+00:00"
+  "LastUpdate_Ratings": "2023-05-11T16:00:34.5151636+00:00",
+  "LastUpdate_Achievements": "2023-05-11T16:06:20.2615218+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3386,
+  "EOS_Progressed": 3387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-05-11T09:05:47.249177+00:00",
       "NumProgressed": 3386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-11T16:06:07.2977504+00:00",
+      "NumProgressed": 3387,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -384,7 +389,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -432,7 +437,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -440,7 +445,7 @@
       "Name": "You Poor Now!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -448,7 +453,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -480,7 +485,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -496,7 +501,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -519,7 +524,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3386,
+      "Progressed": 3387,
       "Completed": 0
     }
   ],
@@ -527,8 +532,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
-  "LastChanged_Achievements": "2023-05-11T15:05:40.7312734+00:00",
+  "LastChanged_Achievements": "2023-05-11T16:06:07.29775+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.7717422+00:00",
-  "LastUpdate_Ratings": "2023-05-11T14:59:27.5107109+00:00",
-  "LastUpdate_Achievements": "2023-05-11T15:05:40.731293+00:00"
+  "LastUpdate_Ratings": "2023-05-11T15:59:49.9963088+00:00",
+  "LastUpdate_Achievements": "2023-05-11T16:06:07.297767+00:00"
 }

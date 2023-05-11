@@ -241,9 +241,9 @@
       "ID": "A24",
       "SetID": "9b7p7eo",
       "Name": "Access granted",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A25",
@@ -495,8 +495,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-11T15:05:30.0231082+00:00",
+  "LastChanged_Achievements": "2023-05-11T16:05:54.6900103+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.2422566+00:00",
-  "LastUpdate_Ratings": "2023-05-11T14:58:15.6747497+00:00",
-  "LastUpdate_Achievements": "2023-05-11T15:05:30.0231634+00:00"
+  "LastUpdate_Ratings": "2023-05-11T15:58:15.1659303+00:00",
+  "LastUpdate_Achievements": "2023-05-11T16:05:54.6900509+00:00"
 }

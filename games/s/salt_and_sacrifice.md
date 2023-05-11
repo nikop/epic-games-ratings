@@ -15,8 +15,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Hydromancer | 73.00% | ~46,646 |
 | The Matriarch | 70.00% | ~44,729 |
 | The Aeromancer | 66.00% | ~42,173 |
+| The Venomancer | 66.00% | ~42,173 |
 | The Huntsman | 65.00% | ~41,534 |
-| The Venomancer | 65.00% | ~41,534 |
 | Dawnlight Order | 64.00% | ~40,895 |
 | The Electromancer | 61.00% | ~38,978 |
 | The Terramancer | 59.00% | ~37,700 |
@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,195 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 63,899 (Ranked 63)  
-Completed: 1,153 (1.80%) (Ranked 63)  
+Completed: 1,154 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,7 +81,7 @@ Completed: 1,153 (1.80%) (Ranked 63)
 | 2023-05-08 | 63,836 | 1,152 |
 | 2023-05-09 | 63,864 | 1,153 |
 | 2023-05-10 | 63,886 | 1,153 |
-| 2023-05-11 | 63,899 | 1,153 |
+| 2023-05-11 | 63,899 | 1,154 |
 ## Awards
 Max (Character Customization): 931  (Ranked 140)  
 Sum: 1,865 (Ranked 191)  

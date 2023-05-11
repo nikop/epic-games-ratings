@@ -30,6 +30,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Love | 0.10% | ~21 |
 | For Pride | 0.10% | ~21 |
 | K.O. | 0.10% | ~21 |
+| It Was Just an Estimate | 0.10% | ~21 |
 | Good Practice | 0.10% | ~21 |
 | Maybe Wax Doesn't Melt | 0.10% | ~21 |
 | A Glimpse of the Future | 0.10% | ~21 |
@@ -41,12 +42,11 @@ Number of Ratings: 1,331  (23.09.2022)
 | Jack of all Trades | 0.10% | ~21 |
 | Color Coordination | 0.10% | ~21 |
 | Rogue's Legacy | 0.00% | ~0 |
-| It Was Just an Estimate | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,491 (Ranked 90)  
+Progressed: 21,492 (Ranked 90)  
 Completed: 35 (0.16%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 35 (0.16%) (Ranked 143)
 | 2023-05-08 | 21,470 | 35 |
 | 2023-05-09 | 21,480 | 35 |
 | 2023-05-10 | 21,489 | 35 |
-| 2023-05-11 | 21,491 | 35 |
+| 2023-05-11 | 21,492 | 35 |
 ## Awards
 Max (Extremely Fun): 215  (Ranked 250)  
 Sum: 1,624 (Ranked 201)  

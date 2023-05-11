@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Fulfilled the dream | 5.00% | ~97 |
 | G'Day Mate! | 5.00% | ~97 |
 | NAHELL! | 5.00% | ~97 |
+| Purple passion | 5.00% | ~97 |
 | Squad goals | 5.00% | ~97 |
 | Sup widdit big dog! | 5.00% | ~97 |
 | Tight lipslides | 5.00% | ~97 |
@@ -35,7 +36,6 @@ Number of Ratings: 111  (23.09.2022)
 | Lines for days | 4.00% | ~78 |
 | Manny Destroys All | 4.00% | ~78 |
 | Prince of Philly | 4.00% | ~78 |
-| Purple passion | 4.00% | ~78 |
 | Renaissance man | 4.00% | ~78 |
 | Tank commander | 4.00% | ~78 |
 | Cops called! | 3.00% | ~58 |

@@ -12,8 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 1.00% | ~534 |
 | The Cursed Farmer | 0.90% | ~784 |
 | Bully for Vecna | 0.80% | ~427 |
+| The Mad Wizard | 0.80% | ~697 |
 | Beast Intentions | 0.70% | ~610 |
-| The Mad Wizard | 0.70% | ~610 |
 | The Ring of Regeneration | 0.60% | ~523 |
 | Were-verpowered | 0.50% | ~436 |
 | Seeking Allies | 0.50% | ~436 |
@@ -125,6 +125,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~174 |
 | The Dead Three | 0.20% | ~174 |
 | Slow and Steady | 0.20% | ~174 |
+| A Hero's Entourage | 0.20% | ~174 |
 | Flying Monkey Skulls of Doom | 0.20% | ~174 |
 | Lair of the Xanathar | 0.20% | ~174 |
 | Waterdeep Under Siege | 0.20% | ~174 |
@@ -132,6 +133,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Troublesome Prisoner | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
+| Cold & Wet | 0.20% | ~174 |
 | Vault of Dragons | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
@@ -336,7 +338,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~87 |
 | A Tale of Two Champions | 0.10% | ~87 |
 | A Tale of Two Years | 0.10% | ~53 |
-| A Hero's Entourage | 0.10% | ~87 |
 | Sneak Attack | 0.10% | ~53 |
 | Dreams of Beholders | 0.10% | ~87 |
 | Feigned Weakness | 0.10% | ~87 |
@@ -354,7 +355,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.10% | ~87 |
 | Dark Doppelgangers | 0.10% | ~87 |
 | Faerûn's Most Wanted | 0.10% | ~53 |
-| Cold & Wet | 0.10% | ~87 |
 | Madcap Adventures | 0.10% | ~87 |
 | Faerûn's Most Neglected | 0.10% | ~53 |
 | Vault of Pixies | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,144 (Ranked 59)  
+Progressed: 87,146 (Ranked 59)  
 Completed: 1,825 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,15 +517,15 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-08 | 86,910 | 1,816 |
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
-| 2023-05-11 | 87,144 | 1,825 |
+| 2023-05-11 | 87,146 | 1,825 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
-Sum: 29,856 (Ranked 37)  
+Sum: 29,858 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,874 |
-| This game is Great for Beginners | 4,815 |
+| This game is Great for Beginners | 4,817 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,482 |
 | This game is Highly Recommended | 3,935 |
@@ -639,4 +639,4 @@ Diff (max vs sum): 26
 | 2023-05-08 | 4.06 | - | 4,868 | 29,833 |
 | 2023-05-09 | 4.06 | - | 4,873 | 29,838 |
 | 2023-05-10 | 4.06 | - | 4,874 | 29,847 |
-| 2023-05-11 | 4.06 | - | 4,874 | 29,856 |
+| 2023-05-11 | 4.06 | - | 4,874 | 29,858 |

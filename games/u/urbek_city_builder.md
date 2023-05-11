@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 61.00% | ~87 |
-| I like parks | 46.00% | ~66 |
+| I like parks | 47.00% | ~67 |
 | The spiritual world... | 27.00% | ~39 |
 | Sport is good for you | 27.00% | ~39 |
 | The woodcutter | 25.00% | ~36 |

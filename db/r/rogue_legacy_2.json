@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1065,9 +1065,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21491,
+  "EOS_Progressed": 21492,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1920,6 +1920,11 @@
       "Time": "2023-05-11T12:05:03.717458+00:00",
       "NumProgressed": 21491,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-11T16:06:02.7974978+00:00",
+      "NumProgressed": 21492,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2129,9 +2134,9 @@
       "ID": "EndTimerFail",
       "SetID": "3ojhj46",
       "Name": "It Was Just an Estimate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 21
     },
     {
       "ID": "FifteenLivesEasy",
@@ -2242,21 +2247,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21491,
+      "Progressed": 21492,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 421,
+      "Progressed": 422,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-11T01:58:38.0457569+00:00",
-  "LastChanged_Achievements": "2023-05-11T15:05:36.6319132+00:00",
+  "LastChanged_Achievements": "2023-05-11T16:06:02.7974973+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.4659285+00:00",
-  "LastUpdate_Ratings": "2023-05-11T14:59:07.8219161+00:00",
-  "LastUpdate_Achievements": "2023-05-11T15:05:36.631951+00:00"
+  "LastUpdate_Ratings": "2023-05-11T15:59:25.0774255+00:00",
+  "LastUpdate_Achievements": "2023-05-11T16:06:02.7975257+00:00"
 }

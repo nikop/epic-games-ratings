@@ -12,7 +12,7 @@ Rating: 4.86 (Ranked 27)
 | Cream of the Crop | 77.00% | ~1,141 |
 | Thanks for the free chip, Peppermint! | 76.00% | ~1,126 |
 | You got this, Peppermint? | 72.00% | ~1,067 |
-| Perfect Parry | 69.00% | ~1,023 |
+| Perfect Parry | 70.00% | ~1,037 |
 | Alright, that felt AWESOME! | 69.00% | ~1,023 |
 | I play my own way! | 64.00% | ~948 |
 | This will cost you big time | 62.00% | ~919 |

@@ -30,6 +30,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 2.00% | ~175 |
 | Next-Door Play | 2.00% | ~175 |
 | Get the Toad | 2.00% | ~175 |
+| Hanged Man's Notes | 2.00% | ~151 |
 | The Lady of the Forest | 2.00% | ~151 |
 | Beware Still Water | 2.00% | ~151 |
 | Path of the Trickster | 1.00% | ~88 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 1.00% | ~88 |
 | Truly Important Deed | 1.00% | ~88 |
 | Stay Underground | 1.00% | ~75 |
-| Hanged Man's Notes | 1.00% | ~75 |
 | Sarkoris Will Be Green | 1.00% | ~75 |
 | Path of the Demon | 0.90% | ~79 |
 | Path of the Aeon | 0.90% | ~79 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,765 (Ranked 109)  
+Progressed: 8,766 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,10 +144,10 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 8,712 | 0 |
 | 2023-05-09 | 8,733 | 0 |
 | 2023-05-10 | 8,754 | 0 |
-| 2023-05-11 | 8,765 | 0 |
+| 2023-05-11 | 8,766 | 0 |
 ## Awards
 Max (Character Customization): 1,629  (Ranked 111)  
-Sum: 6,598 (Ranked 108)  
+Sum: 6,600 (Ranked 108)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): 3
 | This game has Amazing Storytelling | 587 |
 | This game has Diverse Characters | 586 |
 | This game has Quickly Understood Controls | 545 |
-| This game has Challenging Combat | 542 |
+| This game has Challenging Combat | 544 |
 | This game is Relaxing | 522 |
 | This game has a Creative Community | 367 |
 | This game has Obsessive Gameplay | 364 |
@@ -271,4 +271,4 @@ Diff (max vs sum): 3
 | 2023-05-08 | 4.76 | - | 1,627 | 6,591 |
 | 2023-05-09 | 4.76 | - | 1,627 | 6,594 |
 | 2023-05-10 | 4.76 | - | 1,627 | 6,595 |
-| 2023-05-11 | 4.76 | - | 1,629 | 6,598 |
+| 2023-05-11 | 4.76 | - | 1,629 | 6,600 |

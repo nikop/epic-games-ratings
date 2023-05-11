@@ -20,6 +20,7 @@
 | Facility Manager | 50.00% | ~3 |
 | Country Life | 50.00% | ~3 |
 | Brainstorm | 50.00% | ~3 |
+| Access granted | 50.00% | ~3 |
 | Bold and beautiful | 50.00% | ~3 |
 | Mind the Gap | 50.00% | ~3 |
 | Right through the middle | 50.00% | ~3 |
@@ -27,7 +28,6 @@
 | Stoker | 33.00% | ~2 |
 | Seven at one stroke | 33.00% | ~2 |
 | General Manager | 33.00% | ~2 |
-| Access granted | 33.00% | ~2 |
 | Breaking Ground | 33.00% | ~2 |
 | Bull and bear | 33.00% | ~2 |
 | Financial Shark | 33.00% | ~2 |
