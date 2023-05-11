@@ -9,10 +9,10 @@
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 19.35% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.65% |
-| 10 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 14.29% |
-| 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
-| 13 | [Them and Us](games/t/them_and_us.md) | 12.50% |
+| 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
+| 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
+| 12 | [Them and Us](games/t/them_and_us.md) | 12.50% |
+| 12 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 12.50% |
 | 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 15 | [Remains](games/r/remains.md) | 11.11% |
 | 16 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -20,13 +20,13 @@
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.74% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.46% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.22% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.39% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -179,16 +179,16 @@
 | 175 | [House Party](games/h/house_party.md) | 0.04% |
 | 175 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
 | 175 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 180 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 180 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 180 | [Old World](games/o/old_world.md) | 0.03% |
-| 183 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 183 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
-| 183 | [Good Company](games/g/good_company.md) | 0.02% |
-| 183 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 183 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 183 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
-| 183 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 182 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 182 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
+| 182 | [Good Company](games/g/good_company.md) | 0.02% |
+| 182 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.02% |
+| 182 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 182 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 182 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
+| 182 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 190 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 190 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
