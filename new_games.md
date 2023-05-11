@@ -149,4 +149,3 @@
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 2022-12-05 |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 2023-04-11 | 2022-05-31 |
 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 2023-04-11 |
-| [Undead Horde](games/u/undead_horde.md) | 2023-04-11 | 2019-05-14 |
