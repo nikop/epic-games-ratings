@@ -8,6 +8,7 @@
 | [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
+| [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
@@ -75,7 +76,6 @@
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-06-30 | 2023-06-30 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | 2023-06-27 |
 | [Tiny Thor](games/t/tiny_thor.md) | 2023-06-30 | 2023-06-30 |
-| [Witchcrafty](games/w/witchcrafty.md) | 2023-06-30 | 2022-03-01 |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-06-30 | 2023-06-30 |
 | [Yomi 2](games/y/yomi_2.md) | 2023-06-30 | 2023-06-30 |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 2023-04-03 |

@@ -11,22 +11,22 @@
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
-| 12 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
-| 14 | [Remains](games/r/remains.md) | 11.11% |
-| 15 | [Smelter](games/s/smelter.md) | 10.00% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
+| 13 | [Remains](games/r/remains.md) | 11.11% |
+| 14 | [Smelter](games/s/smelter.md) | 10.00% |
+| 14 | [Them and Us](games/t/them_and_us.md) | 10.00% |
 | 16 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.76% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.44% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.40% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -167,13 +167,13 @@
 | 163 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 166 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 167 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 167 | [Saints Row](games/s/saints_row.md) | 0.06% |
 | 167 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
 | 167 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 170 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 170 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 170 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
-| 170 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 170 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.05% |
+| 171 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 171 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 171 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 171 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.05% |
 | 175 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 175 | [High On Life](games/h/high_on_life.md) | 0.04% |
 | 175 | [House Party](games/h/house_party.md) | 0.04% |

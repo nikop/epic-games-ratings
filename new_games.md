@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [ELEGIES Aya](games/e/elegies_aya.md) | 2023-05-12 | 2023-04-28 |
 | [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |
 | [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 2021-09-28 |
 | [Mobilization](games/9/9df3ec873af34f9ab4e6e13fb4a17248.md) | 2023-05-12 | 2023-04-21 |
@@ -92,7 +93,6 @@
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 2018-08-18 |
 | [Overtop](games/o/overtop.md) | 2023-04-28 | 2022-11-10 |
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 2023-04-28 |
-| [ELEGIES Aya](games/e/elegies_aya.md) | 2023-04-28 | 2023-04-28 |
 | [Dojoran](games/d/dojoran.md) | 2023-04-27 | 2020-11-09 |
 | [Mail Time](games/m/mail_time.md) | 2023-04-27 | 2023-04-27 |
 | [Poker Club](games/p/poker_club.md) | 2023-04-27 | 2020-11-20 |
