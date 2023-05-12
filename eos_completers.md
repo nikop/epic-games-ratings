@@ -25,12 +25,12 @@
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.49% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.48% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
-| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.95% |
+| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.94% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
 | 34 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
@@ -59,7 +59,7 @@
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
-| 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.09% |
+| 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
