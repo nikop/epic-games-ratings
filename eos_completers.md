@@ -26,7 +26,7 @@
 | 24 | [Scorn](games/s/scorn.md) | 7.08% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.80% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.38% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.37% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -58,7 +58,7 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -68,8 +68,8 @@
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
 | 67 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
-| 69 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.56% |
-| 70 | [Frogun](games/f/frogun.md) | 1.55% |
+| 69 | [Frogun](games/f/frogun.md) | 1.55% |
+| 70 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
