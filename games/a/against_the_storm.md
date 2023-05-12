@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |
 | Corrosive Torrent | 0.50% | ~74 |
+| Watchtower | 0.50% | ~74 |
 | A Real Challenge | 0.50% | ~74 |
 | Serving Ale | 0.40% | ~59 |
 | Refinery | 0.40% | ~59 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 0.40% | ~59 |
 | Statue of the Forefathers | 0.40% | ~59 |
 | Forsaken Gods Temple | 0.40% | ~59 |
-| Watchtower | 0.40% | ~59 |
 | Defying the Crown | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
 | Ruined Armory | 0.30% | ~44 |

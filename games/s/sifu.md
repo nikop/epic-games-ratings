@@ -35,13 +35,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.50% | ~61 |
 | Muk Yan Master | 0.40% | ~2,811 |
 | Tiger on Fire | 0.40% | ~2,811 |
+| Detective Story | 0.40% | ~2,811 |
 | Qi Gong: Mind | 0.40% | ~2,811 |
 | I know Kung-Fu | 0.40% | ~2,811 |
 | Source of Flying Daggers | 0.30% | ~2,108 |
 | Iron Money | 0.30% | ~2,108 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,108 |
 | Prodigal Child | 0.30% | ~2,108 |
-| Detective Story | 0.30% | ~2,108 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,108 |
 | Sword Stained With Blood | 0.30% | ~2,108 |
 | Martial Hub | 0.30% | ~36 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~703 |
 | Come Snap With Me | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,832 (Ranked 15)  
+Progressed: 702,833 (Ranked 15)  
 Completed: 12,723 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 12,723 (1.81%) (Ranked 62)
 | 2023-05-09 | 702,765 | 12,718 |
 | 2023-05-10 | 702,799 | 12,720 |
 | 2023-05-11 | 702,825 | 12,721 |
-| 2023-05-12 | 702,832 | 12,723 |
+| 2023-05-12 | 702,833 | 12,723 |
 ## Awards
 Max (Great Boss Battles): 6,050  (Ranked 53)  
 Sum: 10,267 (Ranked 77)  

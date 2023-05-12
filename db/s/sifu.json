@@ -3942,7 +3942,7 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 702832,
+  "EOS_Progressed": 702833,
   "EOS_Completed": 12723,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 16,
@@ -5517,6 +5517,11 @@
       "Time": "2023-05-12T06:06:21.5142241+00:00",
       "NumProgressed": 702832,
       "NumCompleted": 12723
+    },
+    {
+      "Time": "2023-05-12T07:06:19.6578326+00:00",
+      "NumProgressed": 702833,
+      "NumCompleted": 12723
     }
   ],
   "TotalAchievements": 50,
@@ -5638,9 +5643,9 @@
       "ID": "15_Detective_H1",
       "SetID": "adcm20g",
       "Name": "Detective Story",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2108
+      "UsersEstimate": 2811
     },
     {
       "ID": "16_Detective_H2",
@@ -5927,21 +5932,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12133,
-      "Completed": 10075
+      "Progressed": 12134,
+      "Completed": 10076
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702832,
+      "Progressed": 702833,
       "Completed": 12723
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-11T14:59:00.4869179+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:06:21.5142233+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:06:19.6578316+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-12T05:59:25.0668859+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:06:21.5143178+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:59:21.5202071+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:06:19.6578945+00:00"
 }

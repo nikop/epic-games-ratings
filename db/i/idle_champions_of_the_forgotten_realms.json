@@ -3648,7 +3648,7 @@
   ],
   "EOS_Progressed": 87218,
   "EOS_Completed": 1828,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -7233,9 +7233,9 @@
       "ID": "objective_completed_284",
       "SetID": "cc37lbc",
       "Name": "The Trepidatious Trio",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_285",
@@ -9511,8 +9511,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T19:58:13.1579822+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:06:46.554612+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:06:44.541819+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-12T05:58:17.058935+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:06:46.5573344+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:58:14.0255386+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:06:44.5445677+00:00"
 }

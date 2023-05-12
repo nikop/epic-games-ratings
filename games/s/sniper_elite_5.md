@@ -19,15 +19,15 @@ Rating: 4.38 (Ranked 689)
 | As Quiet as a Mouse | 19.00% | ~134 |
 | The Kraken Sleeps | 19.00% | ~134 |
 | Liberté | 17.00% | ~120 |
-| Explosive Efficiency | 16.00% | ~112 |
-| Gunslinger | 15.00% | ~105 |
-| Climbing the Ladder | 14.00% | ~98 |
-| Fields of Glory | 14.00% | ~98 |
-| Skirmisher | 14.00% | ~98 |
-| Close Quarters | 14.00% | ~98 |
-| Just a Flesh Wound | 13.00% | ~91 |
-| Der Geist | 13.00% | ~91 |
-| Snake in the Grass | 13.00% | ~91 |
+| Explosive Efficiency | 16.00% | ~113 |
+| Climbing the Ladder | 14.00% | ~99 |
+| Fields of Glory | 14.00% | ~99 |
+| Gunslinger | 14.00% | ~99 |
+| Skirmisher | 14.00% | ~99 |
+| Close Quarters | 14.00% | ~99 |
+| Just a Flesh Wound | 13.00% | ~92 |
+| Der Geist | 13.00% | ~92 |
+| Snake in the Grass | 13.00% | ~92 |
 | Set Europe Ablaze | 12.00% | ~84 |
 | Die Nussknacker Sweet! | 12.00% | ~84 |
 | Brains of the Operation | 12.00% | ~84 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703 (Ranked 176)  
+Progressed: 704 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 2 (0.28%) (Ranked 127)
 | 2023-05-09 | 694 | 2 |
 | 2023-05-10 | 698 | 2 |
 | 2023-05-11 | 701 | 2 |
-| 2023-05-12 | 703 | 2 |
+| 2023-05-12 | 704 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

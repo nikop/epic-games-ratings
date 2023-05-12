@@ -6,31 +6,31 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 35.00% | ~20,302 |
-| Just The Two of Us | 33.00% | ~19,142 |
-| Up On High | 26.00% | ~15,082 |
-| Under The Hood | 25.00% | ~14,502 |
-| The Gift of Gab | 25.00% | ~14,502 |
-| Got Your Nose | 24.00% | ~13,922 |
-| Wrapping Up | 23.00% | ~13,342 |
-| More Than A Box Of Sand | 19.00% | ~11,021 |
-| Badge Hobbyist | 18.00% | ~10,441 |
-| Chum Novice | 17.00% | ~9,861 |
-| The Dunboyne | 17.00% | ~9,861 |
-| Silver-Tongued Sable | 17.00% | ~9,861 |
-| Sticky Paws | 17.00% | ~9,861 |
-| Bubble Up | 17.00% | ~9,861 |
-| Thread The Needle | 16.00% | ~9,281 |
-| Power to the People | 15.00% | ~8,701 |
-| Take That! | 13.00% | ~7,541 |
-| Nesting Giant | 13.00% | ~7,541 |
-| Treasure Tracker | 13.00% | ~7,541 |
-| Big Spender | 13.00% | ~7,541 |
-| Badge Collector | 12.00% | ~6,961 |
-| Quite The Catch | 12.00% | ~6,961 |
-| The Machinist Mask | 11.00% | ~6,381 |
-| Rowleys Way | 11.00% | ~6,381 |
-| Playing Dress Up | 11.00% | ~6,381 |
+| Simoon | 35.00% | ~20,305 |
+| Just The Two of Us | 33.00% | ~19,145 |
+| Up On High | 26.00% | ~15,084 |
+| Under The Hood | 25.00% | ~14,504 |
+| The Gift of Gab | 25.00% | ~14,504 |
+| Got Your Nose | 24.00% | ~13,923 |
+| Wrapping Up | 23.00% | ~13,343 |
+| More Than A Box Of Sand | 19.00% | ~11,023 |
+| Badge Hobbyist | 18.00% | ~10,443 |
+| Chum Novice | 17.00% | ~9,862 |
+| The Dunboyne | 17.00% | ~9,862 |
+| Silver-Tongued Sable | 17.00% | ~9,862 |
+| Sticky Paws | 17.00% | ~9,862 |
+| Bubble Up | 17.00% | ~9,862 |
+| Thread The Needle | 16.00% | ~9,282 |
+| Power to the People | 15.00% | ~8,702 |
+| Take That! | 13.00% | ~7,542 |
+| Nesting Giant | 13.00% | ~7,542 |
+| Treasure Tracker | 13.00% | ~7,542 |
+| Big Spender | 13.00% | ~7,542 |
+| Badge Collector | 12.00% | ~6,962 |
+| Quite The Catch | 12.00% | ~6,962 |
+| The Machinist Mask | 11.00% | ~6,382 |
+| Rowleys Way | 11.00% | ~6,382 |
+| Playing Dress Up | 11.00% | ~6,382 |
 | The Cartographer Mask | 10.00% | ~5,801 |
 | Balfron Connection | 10.00% | ~5,801 |
 | Ceiling Of Stars | 10.00% | ~5,801 |
@@ -45,25 +45,25 @@ Number of Ratings: 43  (23.09.2022)
 | Shadow Of Neave | 8.00% | ~4,641 |
 | Glider on the Storm | 8.00% | ~4,641 |
 | Squeeze One Out | 8.00% | ~4,641 |
-| Amateur Historian | 7.00% | ~4,060 |
-| The Beetle Mask | 7.00% | ~4,060 |
-| The Guard Mask | 7.00% | ~4,060 |
-| The Merchant Mask | 7.00% | ~4,060 |
-| Honorary Chum | 7.00% | ~4,060 |
-| Smoked Out | 7.00% | ~4,060 |
-| Bikes Don't Fly | 7.00% | ~4,060 |
-| The Climber Mask | 6.00% | ~3,480 |
-| A Hard Place | 6.00% | ~3,480 |
-| The Entertainer Mask | 5.00% | ~2,900 |
-| Bike Aficionado | 5.00% | ~2,900 |
-| The Gliding | 4.00% | ~2,320 |
-| The Quick and the Curious | 4.00% | ~2,320 |
+| Amateur Historian | 7.00% | ~4,061 |
+| The Beetle Mask | 7.00% | ~4,061 |
+| The Guard Mask | 7.00% | ~4,061 |
+| The Merchant Mask | 7.00% | ~4,061 |
+| Honorary Chum | 7.00% | ~4,061 |
+| Smoked Out | 7.00% | ~4,061 |
+| Bikes Don't Fly | 7.00% | ~4,061 |
+| The Climber Mask | 6.00% | ~3,481 |
+| A Hard Place | 6.00% | ~3,481 |
+| The Entertainer Mask | 5.00% | ~2,901 |
+| Bike Aficionado | 5.00% | ~2,901 |
+| The Gliding | 4.00% | ~2,321 |
+| The Quick and the Curious | 4.00% | ~2,321 |
 | Chum Expert | 3.00% | ~1,740 |
 | Gastric Bypass | 3.00% | ~1,740 |
 | The Angler Mask | 3.00% | ~1,740 |
 | Vivacious Vivarium | 2.00% | ~1,160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,007 (Ranked 69)  
+Progressed: 58,014 (Ranked 69)  
 Completed: 532 (0.92%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 532 (0.92%) (Ranked 85)
 | 2023-05-09 | 57,399 | 526 |
 | 2023-05-10 | 57,661 | 529 |
 | 2023-05-11 | 57,932 | 532 |
-| 2023-05-12 | 58,007 | 532 |
+| 2023-05-12 | 58,014 | 532 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -125,6 +125,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~174 |
 | The Gargoyle's Apprentice | 0.20% | ~174 |
 | Attack on the Manor | 0.20% | ~174 |
+| The Trepidatious Trio | 0.20% | ~174 |
 | Our Time To Shine | 0.20% | ~174 |
 | The Death Curse | 0.20% | ~174 |
 | Treasure Hunters | 0.20% | ~174 |
@@ -302,7 +303,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Strahd Squad | 0.10% | ~53 |
 | House of Darkness | 0.10% | ~87 |
 | Home Not So Alone | 0.10% | ~53 |
-| The Trepidatious Trio | 0.10% | ~87 |
 | Review by the Blackstaff | 0.10% | ~53 |
 | Think Your Way Out Of It | 0.10% | ~87 |
 | Air's Getting Pretty Thin | 0.10% | ~87 |

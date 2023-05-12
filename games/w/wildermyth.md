@@ -58,7 +58,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 1.00% | ~12 |
 | I'm Not Smiling | 0.90% | ~10 |
 | A Temperamental Shrub | 0.90% | ~10 |
-| A Lowly Crust of Beef | 0.70% | ~8 |
+| A Lowly Crust of Beef | 0.80% | ~9 |
 | We Call That Mortificient! | 0.50% | ~6 |
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~3 |
@@ -83,8 +83,8 @@ Completed: 3 (0.26%) (Ranked 131)
 | 2023-05-10 | 1,157 | 3 |
 | 2023-05-11 | 1,159 | 3 |
 ## Awards
-Max (Character Customization): 27  (Ranked 453)  
-Sum: 27 (Ranked 462)  
+Max (Character Customization): 27  (Ranked 454)  
+Sum: 27 (Ranked 463)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |

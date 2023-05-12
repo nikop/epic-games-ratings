@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 434,
-  "Ranking_PopularitySum": 454,
+  "Ranking_Popularity": 435,
+  "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 117,
@@ -304,7 +304,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 6120,
+  "EOS_Progressed": 6121,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -1269,6 +1269,11 @@
       "Time": "2023-05-12T06:05:57.247241+00:00",
       "NumProgressed": 6120,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-12T07:05:55.3375197+00:00",
+      "NumProgressed": 6121,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1334,9 +1339,9 @@
       "ID": "ACH08",
       "SetID": "9llo822",
       "Name": "Pie Guy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH09",
@@ -1448,7 +1453,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "ACH23",
@@ -1470,9 +1475,9 @@
       "ID": "ACH25",
       "SetID": "9llo822",
       "Name": "Chauffeur",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH26",
@@ -1551,7 +1556,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6120,
+      "Progressed": 6121,
       "Completed": 20
     }
   ],
@@ -1559,8 +1564,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-10T19:59:39.8173766+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:05:57.2472402+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:05:55.3375187+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.988901+00:00",
-  "LastUpdate_Ratings": "2023-05-12T05:58:34.3171324+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:05:57.2472861+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:58:30.9120744+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:05:55.3375589+00:00"
 }

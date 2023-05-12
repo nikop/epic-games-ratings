@@ -3,8 +3,8 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 79,
@@ -132,7 +132,7 @@
   "Tags": [],
   "EOS_Progressed": 5542,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1980,9 +1980,9 @@
       "ID": "0033",
       "SetID": "2n2feee",
       "Name": "Hostile Takeover",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1441
     },
     {
       "ID": "0034",
@@ -2021,8 +2021,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-11T21:59:52.6419493+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:06:28.0390214+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:06:26.3128421+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.5440231+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:00:13.9176776+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:06:28.0390621+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:00:09.8663876+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:06:26.3128855+00:00"
 }

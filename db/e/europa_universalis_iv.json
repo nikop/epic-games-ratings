@@ -4698,9 +4698,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 34434,
+  "EOS_Progressed": 34443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4934,
+  "EOS_NewPlayers": 4928,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6668,6 +6668,11 @@
       "Time": "2023-05-12T06:06:45.5337402+00:00",
       "NumProgressed": 34434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T07:06:43.849143+00:00",
+      "NumProgressed": 34443,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -7119,7 +7124,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -7199,7 +7204,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "achievement_colonial_management",
@@ -7703,7 +7708,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -7871,7 +7876,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_italian_ambition",
@@ -8679,7 +8684,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -9023,7 +9028,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -9271,7 +9276,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -9343,7 +9348,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -9510,21 +9515,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 34434,
+      "Progressed": 34443,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 34434,
+      "Progressed": 34443,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-12T04:57:01.2040277+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:06:45.5337389+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:06:43.8491424+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.1468914+00:00",
-  "LastUpdate_Ratings": "2023-05-12T05:57:23.3655034+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:06:45.5348946+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:57:19.0569412+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:06:43.8507736+00:00"
 }

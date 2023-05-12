@@ -7,27 +7,27 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 68.00% | ~28,727 |
-| Say goodbye, creep! | 65.00% | ~27,459 |
+| Say goodbye, creep! | 65.00% | ~27,460 |
 | Blood splattered | 64.00% | ~27,037 |
-| Choo choo! | 62.00% | ~26,192 |
-| Groovy | 60.00% | ~25,347 |
-| Cleanup on aisle 4! | 56.00% | ~23,657 |
-| Gold | 50.00% | ~21,122 |
+| Choo choo! | 62.00% | ~26,193 |
+| Groovy | 60.00% | ~25,348 |
+| Cleanup on aisle 4! | 56.00% | ~23,658 |
+| Gold | 50.00% | ~21,123 |
 | The boat can leave now...tell the crew | 48.00% | ~20,278 |
 | Give me something to shoot! | 46.00% | ~19,433 |
 | Stand back boy! | 46.00% | ~19,433 |
 | Weird science | 44.00% | ~18,588 |
 | Chain reaction | 44.00% | ~18,588 |
-| Look mummy! A shark! | 41.00% | ~17,320 |
-| What did you say, Blain? | 41.00% | ~17,320 |
+| Look mummy! A shark! | 41.00% | ~17,321 |
+| What did you say, Blain? | 41.00% | ~17,321 |
 | In the dark dark woods... | 38.00% | ~16,053 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,053 |
-| Double tap | 36.00% | ~15,208 |
-| Cranial blowout! | 36.00% | ~15,208 |
-| Zombie killin' machine | 36.00% | ~15,208 |
-| Every bullet counts | 36.00% | ~15,208 |
+| Double tap | 36.00% | ~15,209 |
+| Cranial blowout! | 36.00% | ~15,209 |
+| Zombie killin' machine | 36.00% | ~15,209 |
+| Every bullet counts | 36.00% | ~15,209 |
 | All of this has happened before… | 35.00% | ~14,786 |
-| You've got red on you | 34.00% | ~14,363 |
+| You've got red on you | 34.00% | ~14,364 |
 | All roads lead to Rome | 33.00% | ~13,941 |
 | You're all going to die down here | 31.00% | ~13,096 |
 | He did Nazi that coming | 31.00% | ~13,096 |
@@ -44,8 +44,8 @@ Number of Ratings: 743  (23.09.2022)
 | Bad Blood | 16.00% | ~6,759 |
 | The bigger they are... | 15.00% | ~6,337 |
 | I'm going deeper underground | 14.00% | ~5,914 |
-| Well equipped | 12.00% | ~5,069 |
-| Into the deep | 12.00% | ~5,069 |
+| Well equipped | 12.00% | ~5,070 |
+| Into the deep | 12.00% | ~5,070 |
 | Damnedbusters | 9.00% | ~3,802 |
 | I can do anything I want. I got guns | 8.00% | ~3,380 |
 | Send me an angel | 8.00% | ~3,380 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~422 |
 | None more hard | 0.50% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,245 (Ranked 78)  
+Progressed: 42,246 (Ranked 78)  
 Completed: 24 (0.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 24 (0.06%) (Ranked 167)
 | 2023-05-09 | 42,228 | 24 |
 | 2023-05-10 | 42,237 | 24 |
 | 2023-05-11 | 42,245 | 24 |
+| 2023-05-12 | 42,246 | 24 |
 ## Awards
 Max (Great Boss Battles): 773  (Ranked 146)  
 Sum: 2,360 (Ranked 170)  

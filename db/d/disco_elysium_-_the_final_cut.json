@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1073,9 +1073,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118275,
+  "EOS_Progressed": 118276,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2728,6 +2728,11 @@
       "Time": "2023-05-12T06:06:17.4688022+00:00",
       "NumProgressed": 118275,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-12T07:06:15.697534+00:00",
+      "NumProgressed": 118276,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -2955,7 +2960,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16558
+      "UsersEstimate": 16559
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -3058,15 +3063,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118275,
+      "Progressed": 118276,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-10T10:59:21.1666605+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:06:17.4688014+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:06:15.6975334+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-12T05:59:31.8457494+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:06:17.4689066+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:59:27.7377062+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:06:15.6975829+00:00"
 }

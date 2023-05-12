@@ -9,11 +9,11 @@ Rating: 4.77 (Ranked 103)
 | Energy Saver | 16.00% | ~908 |
 | The Journey Onwards | 12.00% | ~681 |
 | Globe Trotter | 11.00% | ~624 |
-| Body and Soul | 10.00% | ~567 |
+| Body and Soul | 10.00% | ~568 |
 | Ahem Ahem | 9.00% | ~511 |
 | Audiophile | 7.00% | ~397 |
-| Clay Pigeon | 6.00% | ~340 |
-| Soul-Canon | 6.00% | ~340 |
+| Clay Pigeon | 6.00% | ~341 |
+| Soul-Canon | 6.00% | ~341 |
 | Historian | 5.00% | ~284 |
 | Iconoclast | 5.00% | ~284 |
 | Shredder | 5.00% | ~284 |
@@ -21,13 +21,13 @@ Rating: 4.77 (Ranked 103)
 | Liberator | 4.00% | ~227 |
 | Live Wire | 4.00% | ~227 |
 | Fashion Faux-Pas | 3.00% | ~170 |
-| Arrr! | 2.00% | ~113 |
-| Fashion Victim | 2.00% | ~113 |
-| Snip Snip | 2.00% | ~113 |
+| Arrr! | 2.00% | ~114 |
+| Fashion Victim | 2.00% | ~114 |
+| Snip Snip | 2.00% | ~114 |
 | Ça de Wizz! | 1.00% | ~57 |
 | Thing | 1.00% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,674 (Ranked 116)  
+Progressed: 5,676 (Ranked 116)  
 Completed: 20 (0.35%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 20 (0.35%) (Ranked 114)
 | 2023-05-09 | 5,635 | 20 |
 | 2023-05-10 | 5,648 | 20 |
 | 2023-05-11 | 5,668 | 20 |
-| 2023-05-12 | 5,674 | 20 |
+| 2023-05-12 | 5,676 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

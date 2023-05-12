@@ -6,24 +6,24 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mushroom Picker | 60.00% | ~97 |
+| Mushroom Picker | 60.00% | ~98 |
+| My New Home | 60.00% | ~98 |
 | Scrap Gatherer | 59.00% | ~96 |
-| My New Home | 59.00% | ~96 |
-| Scrapper | 50.00% | ~81 |
-| Cook | 41.00% | ~66 |
-| Scrap Master | 40.00% | ~65 |
-| Teleport | 39.00% | ~63 |
-| Digger | 35.00% | ~57 |
+| Scrapper | 50.00% | ~82 |
+| Cook | 42.00% | ~68 |
+| Scrap Master | 39.00% | ~64 |
+| Teleport | 39.00% | ~64 |
+| Digger | 34.00% | ~55 |
 | Smelter | 34.00% | ~55 |
-| Electro-Scrap Gatherer | 33.00% | ~53 |
-| Survivor | 31.00% | ~50 |
+| Electro-Scrap Gatherer | 33.00% | ~54 |
+| Survivor | 31.00% | ~51 |
 | Robot Destroyer | 30.00% | ~49 |
-| Herbalist | 28.00% | ~45 |
-| Prepper | 27.00% | ~44 |
-| Lumberjack | 25.00% | ~40 |
+| Herbalist | 28.00% | ~46 |
+| Prepper | 26.00% | ~42 |
+| Lumberjack | 25.00% | ~41 |
 | Electro-Scrap Master | 23.00% | ~37 |
-| Robot Hunter | 20.00% | ~32 |
-| Advanced Survivalist | 20.00% | ~32 |
+| Robot Hunter | 20.00% | ~33 |
+| Advanced Survivalist | 20.00% | ~33 |
 | Master Of Technology | 17.00% | ~28 |
 | Treasure Hunter | 15.00% | ~24 |
 | Mythical Smelter | 11.00% | ~18 |
@@ -33,12 +33,12 @@ Number of Ratings: 38  (23.09.2022)
 | Master Of Management | 9.00% | ~15 |
 | Smelting Master | 9.00% | ~15 |
 | Black Gold | 8.00% | ~13 |
-| Survival Master | 4.00% | ~6 |
+| Survival Master | 4.00% | ~7 |
 | Traveler | 3.00% | ~5 |
 | Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 229)  
+Progressed: 163 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,6 +49,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-03 | 158 | 0 |
 | 2023-05-06 | 160 | 0 |
 | 2023-05-08 | 162 | 0 |
+| 2023-05-12 | 163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

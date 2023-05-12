@@ -3,8 +3,8 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 103,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 96,
@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5674,
+  "EOS_Progressed": 5676,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1283,6 +1283,11 @@
       "Time": "2023-05-12T05:04:37.5515101+00:00",
       "NumProgressed": 5674,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-12T07:05:50.5355572+00:00",
+      "NumProgressed": 5676,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1302,7 +1307,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "AUDIOPHILE",
@@ -1318,7 +1323,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -1334,7 +1339,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ENERGY_SAVER",
@@ -1358,7 +1363,7 @@
       "Name": "Fashion Victim",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -1430,7 +1435,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "SOUL_CANON",
@@ -1438,7 +1443,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -1461,7 +1466,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5674,
+      "Progressed": 5676,
       "Completed": 20
     }
   ],
@@ -1469,8 +1474,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:05:52.469792+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:05:50.5355565+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-12T05:58:10.2657468+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:05:52.4698163+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:58:07.677946+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:05:50.5355818+00:00"
 }

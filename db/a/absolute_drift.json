@@ -3,12 +3,12 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 655,
-  "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,10 +430,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515791,
-  "EOS_Completed": 600,
-  "EOS_NewPlayers": 1431,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 1515794,
+  "EOS_Completed": 601,
+  "EOS_NewPlayers": 1428,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -2405,6 +2405,11 @@
       "Time": "2023-05-12T06:06:29.7802508+00:00",
       "NumProgressed": 1515791,
       "NumCompleted": 600
+    },
+    {
+      "Time": "2023-05-12T07:06:27.8232542+00:00",
+      "NumProgressed": 1515794,
+      "NumCompleted": 601
     }
   ],
   "TotalAchievements": 20,
@@ -2424,7 +2429,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106105
+      "UsersEstimate": 106106
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -2528,7 +2533,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121263
+      "UsersEstimate": 121264
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -2575,15 +2580,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1515791,
-      "Completed": 600
+      "Progressed": 1515794,
+      "Completed": 601
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:06:29.7802499+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:06:27.8232535+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.6784985+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:00:48.4493863+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:06:29.7802823+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:00:44.160925+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:06:27.8232845+00:00"
 }

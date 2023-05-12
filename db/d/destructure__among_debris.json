@@ -307,9 +307,9 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "avaricerite",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:06:29.8482647+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:06:28.0846842+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:00:37.5433628+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:06:29.8482908+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:00:34.4650236+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:06:28.0847129+00:00"
 }

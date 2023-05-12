@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -1990,7 +1990,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15673,
+  "EOS_Progressed": 15674,
   "EOS_Completed": 147,
   "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 6,
@@ -3885,6 +3885,11 @@
       "Time": "2023-05-12T05:04:37.9743588+00:00",
       "NumProgressed": 15673,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-05-12T07:05:51.1177737+00:00",
+      "NumProgressed": 15674,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 60,
@@ -3904,7 +3909,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7366
+      "UsersEstimate": 7367
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -3912,7 +3917,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 9247
+      "UsersEstimate": 9248
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -3944,7 +3949,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -4008,7 +4013,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 7993
+      "UsersEstimate": 7994
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -4048,7 +4053,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -4056,7 +4061,7 @@
       "Name": "The last burger",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6269
+      "UsersEstimate": 6270
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -4088,7 +4093,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 6112
+      "UsersEstimate": 6113
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -4128,7 +4133,7 @@
       "Name": "Rusty Steel",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6740
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -4176,7 +4181,7 @@
       "Name": "Destroy the thing",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -4296,7 +4301,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -4320,7 +4325,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -4328,7 +4333,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -4344,7 +4349,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -4368,22 +4373,22 @@
       "Name": "Tide Master",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 15673,
+      "Progressed": 15674,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-10T20:00:28.5595328+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:05:52.994242+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:05:51.1177732+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.7377244+00:00",
-  "LastUpdate_Ratings": "2023-05-12T05:59:36.9485104+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:05:52.9943229+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:59:32.6808357+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:05:51.1178538+00:00"
 }

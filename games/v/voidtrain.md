@@ -4,9 +4,9 @@
 Rating: 4.50 (Ranked 531)  
 Number of Ratings: 1,305  (23.09.2022)  
 ## Awards
-Max (Easy Combat): 28  (Ranked 450)  
+Max (Easy Combat): 28  (Ranked 451)  
 Sum: 125 (Ranked 387)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 28 |

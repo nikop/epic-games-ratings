@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2262,10 +2262,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6601,
       "NumberOfAwardsMax": 1629
+    },
+    {
+      "Time": "2023-05-12T06:58:32.8175026+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6602,
+      "NumberOfAwardsMax": 1629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6601,
+  "NumberOfAwards": 6602,
   "NumberOfAwardsMax": 1629,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2321,7 +2327,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 545
+      "Count": 546
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2336,9 +2342,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8773,
+  "EOS_Progressed": 8775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3336,6 +3342,11 @@
       "Time": "2023-05-12T04:05:56.4581008+00:00",
       "NumProgressed": 8773,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T07:06:22.5956008+00:00",
+      "NumProgressed": 8775,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3347,7 +3358,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "02_BurningCity",
@@ -3387,7 +3398,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "07_FinalThreshold",
@@ -3419,7 +3430,7 @@
       "Name": "Path of the Azata",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "11_PathOfAeon",
@@ -3475,7 +3486,7 @@
       "Name": "Transformation",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "18_MythicChoices",
@@ -3531,7 +3542,7 @@
       "Name": "The Legacy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "25_MasterfulDispell",
@@ -3561,9 +3572,9 @@
       "ID": "29_StrategicVictory",
       "SetID": "989of5o",
       "Name": "Strategic Victory",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 53
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -3579,7 +3590,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "32_MythicReinforcements",
@@ -3587,7 +3598,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "33_DefendersHeart",
@@ -3723,7 +3734,7 @@
       "Name": "A Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -3731,7 +3742,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -3771,7 +3782,7 @@
       "Name": "Next-Door Play",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "56_GetToad",
@@ -3779,7 +3790,7 @@
       "Name": "Get the Toad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "57_PathOfDevil",
@@ -4274,21 +4285,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7555,
+      "Progressed": 7557,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8773,
+      "Progressed": 8775,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-12T03:58:18.598895+00:00",
-  "LastChanged_Achievements": "2023-05-12T06:06:24.2259831+00:00",
+  "LastChanged": "2023-05-12T06:58:32.8175024+00:00",
+  "LastChanged_Achievements": "2023-05-12T07:06:22.5955999+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-12T05:58:36.3992487+00:00",
-  "LastUpdate_Achievements": "2023-05-12T06:06:24.2261399+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:58:32.817503+00:00",
+  "LastUpdate_Achievements": "2023-05-12T07:06:22.5958022+00:00"
 }

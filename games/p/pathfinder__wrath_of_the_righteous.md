@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 13.00% | ~1,140 |
+| Devoured by Darkness | 13.00% | ~1,141 |
 | Burning City | 9.00% | ~790 |
 | A Spark | 9.00% | ~790 |
 | Banner over the Citadel | 7.00% | ~614 |
@@ -20,16 +20,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 3.00% | ~263 |
 | All Paths Open | 3.00% | ~263 |
 | Demonic and Divine | 3.00% | ~263 |
-| Heart of the Fallen Land | 2.00% | ~175 |
-| Path of the Azata | 2.00% | ~175 |
-| Transformation | 2.00% | ~175 |
-| The Legacy | 2.00% | ~175 |
-| Divide and Rule | 2.00% | ~175 |
-| Mythic Reinforcements | 2.00% | ~175 |
-| A Flame | 2.00% | ~175 |
-| Hey, I Know You! | 2.00% | ~175 |
-| Next-Door Play | 2.00% | ~175 |
-| Get the Toad | 2.00% | ~175 |
+| Heart of the Fallen Land | 2.00% | ~176 |
+| Path of the Azata | 2.00% | ~176 |
+| Transformation | 2.00% | ~176 |
+| The Legacy | 2.00% | ~176 |
+| Divide and Rule | 2.00% | ~176 |
+| Mythic Reinforcements | 2.00% | ~176 |
+| A Flame | 2.00% | ~176 |
+| Hey, I Know You! | 2.00% | ~176 |
+| Next-Door Play | 2.00% | ~176 |
+| Get the Toad | 2.00% | ~176 |
 | Hanged Man's Notes | 2.00% | ~151 |
 | The Lady of the Forest | 2.00% | ~151 |
 | Beware Still Water | 2.00% | ~151 |
@@ -46,12 +46,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 0.90% | ~79 |
 | Abyssal Conspiracy | 0.70% | ~61 |
 | This Wall Won't Fall | 0.70% | ~53 |
+| Strategic Victory | 0.60% | ~53 |
 | End of Eternal Guard | 0.60% | ~53 |
 | Not the Last Sarkorian | 0.60% | ~45 |
 | The Final Threshold | 0.50% | ~44 |
 | Path of the Dragon | 0.50% | ~44 |
 | Path of the Legend | 0.50% | ~44 |
-| Strategic Victory | 0.50% | ~44 |
 | Playful Mood | 0.50% | ~44 |
 | Dreadful Dragon | 0.40% | ~35 |
 | Truly Profane Gift | 0.40% | ~35 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,773 (Ranked 109)  
+Progressed: 8,775 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,10 +145,10 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 8,733 | 0 |
 | 2023-05-10 | 8,754 | 0 |
 | 2023-05-11 | 8,770 | 0 |
-| 2023-05-12 | 8,773 | 0 |
+| 2023-05-12 | 8,775 | 0 |
 ## Awards
 Max (Character Customization): 1,629  (Ranked 111)  
-Sum: 6,601 (Ranked 108)  
+Sum: 6,602 (Ranked 108)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 602 |
 | This game has Amazing Storytelling | 587 |
 | This game has Diverse Characters | 586 |
-| This game has Quickly Understood Controls | 545 |
+| This game has Quickly Understood Controls | 546 |
 | This game has Challenging Combat | 544 |
 | This game is Relaxing | 523 |
 | This game has a Creative Community | 367 |
@@ -273,4 +273,4 @@ Diff (max vs sum): 3
 | 2023-05-09 | 4.76 | - | 1,627 | 6,594 |
 | 2023-05-10 | 4.76 | - | 1,627 | 6,595 |
 | 2023-05-11 | 4.76 | - | 1,629 | 6,600 |
-| 2023-05-12 | 4.76 | - | 1,629 | 6,601 |
+| 2023-05-12 | 4.76 | - | 1,629 | 6,602 |
