@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.30% | ~160 |
 | Best Thay Ever | 0.30% | ~160 |
 | Keep Your Distance | 0.30% | ~160 |
+| Hands Off! | 0.30% | ~160 |
 | The Dread Domain of Tovag | 0.30% | ~160 |
 | Frail Doesn't Mean Broken | 0.30% | ~160 |
 | The Castle of a Thousand Vecnas | 0.30% | ~160 |
@@ -88,7 +89,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.20% | ~107 |
 | Arcane Efforts | 0.20% | ~107 |
 | Heatwave | 0.20% | ~107 |
-| Hands Off! | 0.20% | ~107 |
 | Weak Doesn't Mean Feeble | 0.20% | ~107 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~107 |
 | Kas the Bloody Handed | 0.20% | ~107 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,219 (Ranked 59)  
+Progressed: 87,223 (Ranked 59)  
 Completed: 1,828 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 1,828 (2.10%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,219 | 1,828 |
+| 2023-05-12 | 87,223 | 1,828 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,859 (Ranked 37)  

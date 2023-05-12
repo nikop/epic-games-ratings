@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1160,
+  "EOS_Progressed": 1161,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -365,6 +365,11 @@
       "Time": "2023-05-12T08:05:57.7578423+00:00",
       "NumProgressed": 1160,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-12T09:05:50.0967822+00:00",
+      "NumProgressed": 1161,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -390,9 +395,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -440,7 +445,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -536,7 +541,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -552,7 +557,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "achievement_mythwalker",
@@ -823,15 +828,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1160,
+      "Progressed": 1161,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-12T08:05:57.7578418+00:00",
+  "LastChanged_Achievements": "2023-05-12T09:05:50.0967818+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:36.314654+00:00",
-  "LastUpdate_Ratings": "2023-05-12T08:01:25.5513051+00:00",
-  "LastUpdate_Achievements": "2023-05-12T08:05:57.7578956+00:00"
+  "LastUpdate_Ratings": "2023-05-12T09:00:55.0327761+00:00",
+  "LastUpdate_Achievements": "2023-05-12T09:05:50.0968227+00:00"
 }

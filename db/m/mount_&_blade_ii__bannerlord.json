@@ -3951,9 +3951,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49579,
+  "EOS_Progressed": 49581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5811,6 +5811,11 @@
       "Time": "2023-05-12T08:06:31.3385001+00:00",
       "NumProgressed": 49579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T09:06:19.6631985+00:00",
+      "NumProgressed": 49581,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5830,7 +5835,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6445
+      "UsersEstimate": 6446
     },
     {
       "ID": "Bannerlord",
@@ -5950,7 +5955,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "Great Granny",
@@ -6229,15 +6234,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49579,
+      "Progressed": 49581,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-12T07:00:14.7564939+00:00",
-  "LastChanged_Achievements": "2023-05-12T08:06:31.3384995+00:00",
+  "LastChanged_Achievements": "2023-05-12T09:06:19.6631976+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-12T08:00:19.0370767+00:00",
-  "LastUpdate_Achievements": "2023-05-12T08:06:31.3385479+00:00"
+  "LastUpdate_Ratings": "2023-05-12T09:00:00.1016047+00:00",
+  "LastUpdate_Achievements": "2023-05-12T09:06:19.6632411+00:00"
 }

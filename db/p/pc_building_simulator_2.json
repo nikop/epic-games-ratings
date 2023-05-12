@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-12T16:00:00+00:00",
@@ -834,9 +834,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158291,
+  "EOS_Progressed": 158292,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2189,6 +2189,11 @@
       "Time": "2023-05-12T08:06:28.160246+00:00",
       "NumProgressed": 158291,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-12T09:06:16.7759767+00:00",
+      "NumProgressed": 158292,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -2232,7 +2237,7 @@
       "Name": "Bootstrapping",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 118718
+      "UsersEstimate": 118719
     },
     {
       "ID": "CASH_going_places",
@@ -2424,7 +2429,7 @@
       "Name": "Elite Technician",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9497
+      "UsersEstimate": 9498
     },
     {
       "ID": "LEVEL_legendary_technician",
@@ -2456,7 +2461,7 @@
       "Name": "MOAR RGB",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 85477
+      "UsersEstimate": 85478
     },
     {
       "ID": "LIGHTING_shine_on",
@@ -2472,7 +2477,7 @@
       "Name": "Stabiliser",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 28492
+      "UsersEstimate": 28493
     },
     {
       "ID": "OVER_glutton",
@@ -2496,7 +2501,7 @@
       "Name": "This One Goes to 11",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 28492
+      "UsersEstimate": 28493
     },
     {
       "ID": "SCORE_bench_press",
@@ -2504,7 +2509,7 @@
       "Name": "On the Bench",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 66482
+      "UsersEstimate": 66483
     },
     {
       "ID": "SCORE_bench_warmer",
@@ -2552,7 +2557,7 @@
       "Name": "The More the Merrier",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 66482
+      "UsersEstimate": 66483
     },
     {
       "ID": "SHOP_basket_case",
@@ -2568,7 +2573,7 @@
       "Name": "Sales Pitch",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102889
+      "UsersEstimate": 102890
     },
     {
       "ID": "SPARESNREPAIRS_recycler",
@@ -2600,7 +2605,7 @@
       "Name": "Local Hero",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44321
+      "UsersEstimate": 44322
     },
     {
       "ID": "STARS_the_customer_is_king",
@@ -2616,7 +2621,7 @@
       "Name": "Get Stuck In",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107638
+      "UsersEstimate": 107639
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -2648,7 +2653,7 @@
       "Name": "Room for Expansion",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107638
+      "UsersEstimate": 107639
     },
     {
       "ID": "WATERCOOL_chill_out",
@@ -2656,7 +2661,7 @@
       "Name": "Chill Out",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102889
+      "UsersEstimate": 102890
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -2671,7 +2676,7 @@
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158291,
+      "Progressed": 158292,
       "Completed": 102
     }
   ],
@@ -2679,8 +2684,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-11T18:00:19.7552201+00:00",
-  "LastChanged_Achievements": "2023-05-12T08:06:28.1602454+00:00",
+  "LastChanged_Achievements": "2023-05-12T09:06:16.7759763+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:53.44692+00:00",
-  "LastUpdate_Ratings": "2023-05-12T08:00:22.7370875+00:00",
-  "LastUpdate_Achievements": "2023-05-12T08:06:28.1602986+00:00"
+  "LastUpdate_Ratings": "2023-05-12T09:00:03.3363662+00:00",
+  "LastUpdate_Achievements": "2023-05-12T09:06:16.7760241+00:00"
 }

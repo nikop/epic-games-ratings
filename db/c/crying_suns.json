@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457759,
+  "EOS_Progressed": 457760,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2333,6 +2333,11 @@
       "Time": "2023-05-12T08:06:22.5801359+00:00",
       "NumProgressed": 457759,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-12T09:06:11.797616+00:00",
+      "NumProgressed": 457760,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2432,7 +2437,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302121
+      "UsersEstimate": 302122
     },
     {
       "ID": "achievement_story_landa",
@@ -2496,7 +2501,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50353
+      "UsersEstimate": 50354
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -2528,7 +2533,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151060
+      "UsersEstimate": 151061
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2792,7 +2797,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50353
+      "UsersEstimate": 50354
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -2863,21 +2868,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1693,
-      "Completed": 1693
+      "Progressed": 1694,
+      "Completed": 1694
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457759,
+      "Progressed": 457760,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-12T08:06:22.5801355+00:00",
+  "LastChanged_Achievements": "2023-05-12T09:06:11.7976156+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-12T07:59:43.9663251+00:00",
-  "LastUpdate_Achievements": "2023-05-12T08:06:22.5802031+00:00"
+  "LastUpdate_Ratings": "2023-05-12T08:59:31.8470571+00:00",
+  "LastUpdate_Achievements": "2023-05-12T09:06:11.7976723+00:00"
 }

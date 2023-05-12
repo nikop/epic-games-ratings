@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,101 |
-| That's a Grand Army | 8.00% | ~2,757 |
-| That is mine! | 8.00% | ~2,757 |
-| Victorious! | 8.00% | ~2,757 |
-| Brothers in Arms | 6.00% | ~2,067 |
-| That's a Grand Navy | 6.00% | ~2,067 |
-| Seriously?! | 6.00% | ~2,067 |
+| Until death do us apart | 9.00% | ~3,102 |
+| That's a Grand Army | 8.00% | ~2,758 |
+| That is mine! | 8.00% | ~2,758 |
+| Victorious! | 8.00% | ~2,758 |
+| Brothers in Arms | 6.00% | ~2,068 |
+| That's a Grand Navy | 6.00% | ~2,068 |
+| Seriously?! | 6.00% | ~2,068 |
 | For the Glory | 5.00% | ~1,723 |
-| Cold War | 4.00% | ~1,378 |
-| True Catholic | 4.00% | ~1,378 |
+| Cold War | 4.00% | ~1,379 |
+| True Catholic | 4.00% | ~1,379 |
 | Defender of the Faith | 3.00% | ~1,034 |
 | It's all about the money | 3.00% | ~1,034 |
 | Respected | 3.00% | ~1,034 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,458 (Ranked 81)  
+Progressed: 34,469 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
 | 2023-05-11 | 34,344 | 0 |
-| 2023-05-12 | 34,458 | 0 |
+| 2023-05-12 | 34,469 | 0 |
 ## Awards
 Max (Educational): 5,206  (Ranked 60)  
 Sum: 43,077 (Ranked 27)  

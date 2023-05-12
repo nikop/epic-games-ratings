@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46123,
+  "EOS_Progressed": 46126,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1451,6 +1451,11 @@
       "Time": "2023-05-12T07:06:00.8711716+00:00",
       "NumProgressed": 46123,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-12T09:05:51.7588766+00:00",
+      "NumProgressed": 46126,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1462,7 +1467,7 @@
       "Name": "Follow the Light",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "02",
@@ -1486,7 +1491,7 @@
       "Name": "Boob Tube",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "05",
@@ -1566,7 +1571,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "15",
@@ -1574,7 +1579,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "16",
@@ -1694,7 +1699,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "31",
@@ -1710,7 +1715,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6918
+      "UsersEstimate": 6919
     },
     {
       "ID": "33",
@@ -1726,7 +1731,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2767
+      "UsersEstimate": 2768
     },
     {
       "ID": "35",
@@ -1742,7 +1747,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "37",
@@ -1862,7 +1867,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "52",
@@ -1870,7 +1875,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "53",
@@ -1997,21 +2002,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46123,
+      "Progressed": 46126,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9591,
+      "Progressed": 9594,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-12T08:05:59.7184346+00:00",
+  "LastChanged_Achievements": "2023-05-12T09:05:51.7588761+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-12T07:57:38.7818172+00:00",
-  "LastUpdate_Achievements": "2023-05-12T08:05:59.7185038+00:00"
+  "LastUpdate_Ratings": "2023-05-12T08:57:50.8671014+00:00",
+  "LastUpdate_Achievements": "2023-05-12T09:05:51.7589319+00:00"
 }

@@ -32,7 +32,7 @@ Number of Ratings: 28  (23.09.2022)
 | Achtung! | 13.00% | ~36 |
 | Japan | 11.00% | ~30 |
 | Tycoon | 8.00% | ~22 |
-| Germany | 7.00% | ~19 |
+| Germany | 8.00% | ~22 |
 | Supercrash! | 6.00% | ~16 |
 | Chuck Norris | 6.00% | ~16 |
 | Сhancellor | 4.00% | ~11 |

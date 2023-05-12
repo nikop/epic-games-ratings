@@ -10,18 +10,18 @@
 | A Prophecy | 85.00% | ~512 |
 | Sword, Shield, Fight! | 75.00% | ~452 |
 | A Grand Visit | 71.00% | ~427 |
+| Fun Guy | 61.00% | ~367 |
 | Vibing | 60.00% | ~361 |
-| Fun Guy | 60.00% | ~361 |
 | Tragic Brave | 52.00% | ~313 |
 | Awakened Spirits | 48.00% | ~289 |
 | Little Shop | 47.00% | ~283 |
 | Surprise! | 43.00% | ~259 |
 | An Actor! | 43.00% | ~259 |
 | Curtain Call | 41.00% | ~247 |
+| Well Rested | 39.00% | ~235 |
 | Piece of Cake | 38.00% | ~229 |
 | Gooey Delight! | 38.00% | ~229 |
 | Glimmer of Hope | 38.00% | ~229 |
-| Well Rested | 38.00% | ~229 |
 | Teacups for Toppy | 37.00% | ~223 |
 | Nightmare Fuel | 36.00% | ~217 |
 | Take Heart | 36.00% | ~217 |

@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221599,
+  "EOS_Progressed": 221602,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2148,6 +2148,11 @@
       "Time": "2023-05-12T08:05:44.1431216+00:00",
       "NumProgressed": 221599,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-12T09:05:38.0660413+00:00",
+      "NumProgressed": 221602,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -2175,7 +2180,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62048
+      "UsersEstimate": 62049
     },
     {
       "ID": "CENTAUR",
@@ -2295,7 +2300,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70912
+      "UsersEstimate": 70913
     },
     {
       "ID": "NOBUNAGA",
@@ -2423,22 +2428,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90856
+      "UsersEstimate": 90857
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221599,
+      "Progressed": 221602,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-12T08:05:44.1431213+00:00",
+  "LastChanged_Achievements": "2023-05-12T09:05:38.0660409+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.7279724+00:00",
-  "LastUpdate_Ratings": "2023-05-12T07:58:26.1899332+00:00",
-  "LastUpdate_Achievements": "2023-05-12T08:05:44.1431577+00:00"
+  "LastUpdate_Ratings": "2023-05-12T08:58:28.2691954+00:00",
+  "LastUpdate_Achievements": "2023-05-12T09:05:38.0660695+00:00"
 }

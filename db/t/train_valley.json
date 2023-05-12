@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -207,9 +207,9 @@
       "ID": "11_germany",
       "SetID": "chb1m60",
       "Name": "Germany",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "12_roll",
@@ -447,8 +447,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-05-12T08:01:53.0746291+00:00",
+  "LastChanged_Achievements": "2023-05-12T09:01:18.6334491+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.8226513+00:00",
-  "LastUpdate_Ratings": "2023-05-12T07:57:39.5851941+00:00",
-  "LastUpdate_Achievements": "2023-05-12T08:01:53.0746634+00:00"
+  "LastUpdate_Ratings": "2023-05-12T08:57:51.6261648+00:00",
+  "LastUpdate_Achievements": "2023-05-12T09:01:18.6334796+00:00"
 }

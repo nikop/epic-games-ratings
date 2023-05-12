@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 53565,
+  "EOS_Progressed": 53566,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 985,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2276,6 +2276,11 @@
       "Time": "2023-05-12T08:06:16.0607675+00:00",
       "NumProgressed": 53565,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-05-12T09:06:06.1230059+00:00",
+      "NumProgressed": 53566,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 24,
@@ -2311,7 +2316,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 11784
+      "UsersEstimate": 11785
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -2439,7 +2444,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5356
+      "UsersEstimate": 5357
     },
     {
       "ID": "SPIRIT_FORM",
@@ -2478,7 +2483,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 53565,
+      "Progressed": 53566,
       "Completed": 250
     }
   ],
@@ -2486,8 +2491,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-05-12T08:06:16.0607671+00:00",
+  "LastChanged_Achievements": "2023-05-12T09:06:06.1230054+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.6917673+00:00",
-  "LastUpdate_Ratings": "2023-05-12T07:59:58.5592275+00:00",
-  "LastUpdate_Achievements": "2023-05-12T08:06:16.0608+00:00"
+  "LastUpdate_Ratings": "2023-05-12T08:59:43.863292+00:00",
+  "LastUpdate_Achievements": "2023-05-12T09:06:06.123029+00:00"
 }
