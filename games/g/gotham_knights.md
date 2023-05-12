@@ -5,6 +5,7 @@ Rating: 4.17 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Working Hard or Harley Working? | 0.40% | ~243 |
 | Gotham Knight | 0.40% | ~243 |
 | The Batman Family | 0.30% | ~182 |
 | End of an Era | 0.30% | ~182 |
@@ -21,7 +22,6 @@ Rating: 4.17 (Ranked 831)
 | Cooldown | 0.30% | ~182 |
 | Har, Har, Har, Very Funny | 0.30% | ~182 |
 | Get ReQ'd | 0.30% | ~182 |
-| Working Hard or Harley Working? | 0.30% | ~182 |
 | Universal Health Scare | 0.30% | ~182 |
 | First Step Into the Knight | 0.30% | ~182 |
 | Unstoppable Force | 0.30% | ~182 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,800 (Ranked 66)  
+Progressed: 60,802 (Ranked 66)  
 Completed: 90 (0.15%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,14 +89,14 @@ Completed: 90 (0.15%) (Ranked 145)
 | 2023-05-09 | 60,761 | 89 |
 | 2023-05-10 | 60,780 | 90 |
 | 2023-05-11 | 60,799 | 90 |
-| 2023-05-12 | 60,800 | 90 |
+| 2023-05-12 | 60,802 | 90 |
 ## Awards
-Max (Great Boss Battles): 2,204  (Ranked 99)  
-Sum: 3,651 (Ranked 137)  
+Max (Great Boss Battles): 2,208  (Ranked 99)  
+Sum: 3,655 (Ranked 137)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,204 |
+| This game has Great Boss Battles | 2,208 |
 | This game is Extremely Fun | 190 |
 | This game is Relaxing | 188 |
 | This game has Quickly Understood Controls | 185 |
@@ -189,3 +189,4 @@ Diff (max vs sum): -38
 | 2023-05-08 | 4.17 | 2,201 | 3,640 |
 | 2023-05-09 | 4.17 | 2,201 | 3,647 |
 | 2023-05-10 | 4.17 | 2,204 | 3,651 |
+| 2023-05-12 | 4.17 | 2,208 | 3,655 |

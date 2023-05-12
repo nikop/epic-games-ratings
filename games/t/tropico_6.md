@@ -6,24 +6,24 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,171 |
+| Just One...More...Term... | 78.00% | ~2,172 |
 | Un-Lonely Island | 50.00% | ~1,392 |
 | The Beginning of a Servantship | 47.00% | ~1,308 |
-| Trade Is My Trait | 39.00% | ~1,085 |
+| Trade Is My Trait | 39.00% | ~1,086 |
 | Number 18 | 26.00% | ~724 |
 | We Don't Have Time For That | 20.00% | ~557 |
-| The Governator | 19.00% | ~529 |
 | Caribbean Comrade | 18.00% | ~501 |
 | The Legend of Langostino | 18.00% | ~501 |
+| The Governator | 18.00% | ~501 |
 | The Dreamer of Dreams | 16.00% | ~445 |
 | Go Sovereigns! | 12.00% | ~334 |
 | For Science! | 12.00% | ~334 |
 | Happy Ending? | 11.00% | ~306 |
 | Of Seals And Men | 10.00% | ~278 |
 | Shackadelic | 10.00% | ~278 |
-| Double Trouble | 9.00% | ~250 |
-| Firestarter | 9.00% | ~250 |
-| Make Tropico Great Again! | 9.00% | ~250 |
+| Double Trouble | 9.00% | ~251 |
+| Firestarter | 9.00% | ~251 |
+| Make Tropico Great Again! | 9.00% | ~251 |
 | French Connection | 8.00% | ~223 |
 | Don't Panic! | 7.00% | ~195 |
 | I Owe You Nothing | 7.00% | ~195 |
@@ -34,10 +34,10 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~139 |
 | Apocalypso | 4.00% | ~111 |
 | The Time For Wonders | 4.00% | ~111 |
-| Been there, Done That | 3.00% | ~83 |
-| Narcissist | 3.00% | ~83 |
-| Promising Endeavors | 3.00% | ~83 |
-| Terraformer | 3.00% | ~83 |
+| Been there, Done That | 3.00% | ~84 |
+| Narcissist | 3.00% | ~84 |
+| Promising Endeavors | 3.00% | ~84 |
+| Terraformer | 3.00% | ~84 |
 | Chain Gang | 2.00% | ~56 |
 | From Knight to Little Duck | 2.00% | ~56 |
 | One Does Not Simply Stage A Coup | 2.00% | ~56 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~28 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,783 (Ranked 133)  
+Progressed: 2,784 (Ranked 133)  
 Completed: 1 (0.04%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 1 (0.04%) (Ranked 175)
 | 2023-05-09 | 2,759 | 1 |
 | 2023-05-10 | 2,769 | 1 |
 | 2023-05-11 | 2,782 | 1 |
-| 2023-05-12 | 2,783 | 1 |
+| 2023-05-12 | 2,784 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 316)  
 Sum: 749 (Ranked 252)  

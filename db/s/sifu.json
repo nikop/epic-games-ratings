@@ -3943,9 +3943,9 @@
     }
   ],
   "EOS_Progressed": 702827,
-  "EOS_Completed": 12722,
-  "EOS_NewPlayers": 232,
-  "EOS_NewCompleters": 15,
+  "EOS_Completed": 12723,
+  "EOS_NewPlayers": 231,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
@@ -5492,6 +5492,11 @@
       "Time": "2023-05-12T00:06:08.0657625+00:00",
       "NumProgressed": 702827,
       "NumCompleted": 12722
+    },
+    {
+      "Time": "2023-05-12T02:01:37.7015905+00:00",
+      "NumProgressed": 702827,
+      "NumCompleted": 12723
     }
   ],
   "TotalAchievements": 50,
@@ -5805,9 +5810,9 @@
       "ID": "39_CustomTrophy_H3",
       "SetID": "adcm20g",
       "Name": "Be like water my friend",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 1406
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -5909,14 +5914,14 @@
       "ID": "adcm20g",
       "IsBase": true,
       "Progressed": 702827,
-      "Completed": 12722
+      "Completed": 12723
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-11T14:59:00.4869179+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:06:08.0657618+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:37.70159+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:59:20.1066298+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:06:08.0658196+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:55:00.9642422+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:37.7016332+00:00"
 }

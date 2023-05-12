@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -248,9 +248,9 @@
       "ID": "CONTAMINACION_2",
       "SetID": "44dlcg0",
       "Name": "I can\u0027t breathe",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COOL_CITY",
@@ -696,17 +696,17 @@
       "ID": "TEMPERADO_2",
       "SetID": "44dlcg0",
       "Name": "Temperate urban planner",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TEMPERADO_3",
       "SetID": "44dlcg0",
       "Name": "Temperate master",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VALDIVIA3_1",
@@ -777,8 +777,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:06:06.477123+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:36.3897945+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:06.4258859+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:59:11.8246371+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:06:06.4772534+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:54:53.9100473+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:36.389863+00:00"
 }

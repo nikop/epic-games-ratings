@@ -14,21 +14,21 @@
 | Passion for sports | 34.00% | ~23 |
 | Who loves trains? | 31.00% | ~21 |
 | Easy and steady climb | 31.00% | ~21 |
-| At the heart of the city | 29.00% | ~20 |
-| Calm neighborhood | 28.00% | ~19 |
-| Elevated ring | 25.00% | ~17 |
+| At the heart of the city | 31.00% | ~21 |
+| Calm neighborhood | 29.00% | ~20 |
+| Elevated ring | 26.00% | ~18 |
 | Not lonely anymore | 22.00% | ~15 |
 | Monumental tribute | 22.00% | ~15 |
 | The beach is right there | 21.00% | ~14 |
 | Commuting | 21.00% | ~14 |
 | Le jardin magnifique | 19.00% | ~13 |
-| Aiming for a living and human city | 18.00% | ~12 |
-| City of dreams | 18.00% | ~12 |
-| Happy Christmas night! | 18.00% | ~12 |
-| Night walk along the beach | 18.00% | ~12 |
+| Aiming for a living and human city | 19.00% | ~13 |
+| City of dreams | 19.00% | ~13 |
+| Happy Christmas night! | 19.00% | ~13 |
+| Night walk along the beach | 19.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68 (Ranked 266)  
-Completed: 12 (17.65%) (Ranked 9)  
+Completed: 13 (19.12%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -48,6 +48,7 @@ Completed: 12 (17.65%) (Ranked 9)
 | 2023-05-09 | 65 | 12 |
 | 2023-05-10 | 66 | 12 |
 | 2023-05-11 | 68 | 12 |
+| 2023-05-12 | 68 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

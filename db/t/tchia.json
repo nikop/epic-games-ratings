@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -128,7 +128,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5670,
+  "EOS_Progressed": 5671,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 1,
@@ -1268,6 +1268,11 @@
       "Time": "2023-05-12T00:05:38.7232452+00:00",
       "NumProgressed": 5670,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-12T02:01:09.9569353+00:00",
+      "NumProgressed": 5671,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1431,7 +1436,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "THING",
@@ -1446,7 +1451,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5670,
+      "Progressed": 5671,
       "Completed": 20
     }
   ],
@@ -1454,8 +1459,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-05T08:57:51.5234335+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:05:38.7232446+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:09.9569347+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.5745353+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:58:03.47883+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:05:38.7232683+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:53:49.3649294+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:09.9569514+00:00"
 }

@@ -846,9 +846,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2783,
+  "EOS_Progressed": 2784,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1886,6 +1886,11 @@
       "Time": "2023-05-12T00:06:28.2763658+00:00",
       "NumProgressed": 2783,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T02:01:56.8889238+00:00",
+      "NumProgressed": 2784,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1913,7 +1918,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -1929,7 +1934,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -2025,7 +2030,7 @@
       "Name": "Firestarter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -2047,9 +2052,9 @@
       "ID": "ACH_GOVERNATOR",
       "SetID": "1p8ab95",
       "Name": "The Governator",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2057,7 +2062,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2105,7 +2110,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -2113,7 +2118,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -2145,7 +2150,7 @@
       "Name": "Terraformer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -2169,7 +2174,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2177,7 +2182,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -2216,15 +2221,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2783,
+      "Progressed": 2784,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:06:28.2763652+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:56.8889236+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-12T00:00:52.7435096+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:06:28.2764023+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:56:23.544345+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:56.8889545+00:00"
 }

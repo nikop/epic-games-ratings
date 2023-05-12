@@ -4,7 +4,7 @@
   "ProductSlug": "planescape-torment-enhanced-edition",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-28T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:43.2916774+00:00",
   "LastChanged": "2023-03-31T05:57:43.2916775+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:15.4132439+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:58:01.1531396+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:02:18.1367896+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:53:47.2222673+00:00",
+  "LastUpdate_Achievements": "2023-05-12T01:57:41.282718+00:00"
 }

@@ -19,10 +19,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 0.70% | ~103 |
 | Like a Machine | 0.70% | ~103 |
 | Trade Baron | 0.70% | ~103 |
+| Homesick | 0.60% | ~89 |
 | Ancient Battleground | 0.60% | ~89 |
 | Royal Outpost | 0.60% | ~89 |
 | Cursed Lands | 0.60% | ~89 |
-| Homesick | 0.50% | ~74 |
 | Sparkdew Crystals | 0.50% | ~74 |
 | Dangerous Lands | 0.50% | ~74 |
 | Flooded Mines | 0.50% | ~74 |
@@ -82,7 +82,7 @@ Completed: 30 (0.20%) (Ranked 137)
 | 2023-05-12 | 14,758 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 193)  
-Sum: 3,019 (Ranked 151)  
+Sum: 3,021 (Ranked 151)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): 42
 | This game is Extremely Fun | 390 |
 | This game is Great for Beginners | 373 |
 | This game is Highly Recommended | 370 |
-| This game has Unique Visuals | 300 |
+| This game has Unique Visuals | 302 |
 | This game has Amazing Storytelling | 297 |
 | This game has Amazing Characters | 268 |
 | This game has Obsessive Gameplay | 254 |
@@ -214,3 +214,4 @@ Diff (max vs sum): 42
 | 2023-05-08 | 4.81 | - | 417 | 3,017 |
 | 2023-05-10 | 4.81 | - | 417 | 3,018 |
 | 2023-05-11 | 4.81 | - | 417 | 3,019 |
+| 2023-05-12 | 4.81 | - | 417 | 3,021 |

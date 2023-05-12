@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 2.00% | ~1,069 |
 | Pin and Skewer | 1.00% | ~535 |
 | Vecna Out! | 1.00% | ~535 |
-| The Cursed Farmer | 0.90% | ~785 |
+| The Cursed Farmer | 1.00% | ~872 |
 | Beast Intentions | 0.80% | ~698 |
 | Bully for Vecna | 0.80% | ~428 |
 | The Mad Wizard | 0.80% | ~698 |
@@ -69,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~107 |
 | Wet Feet | 0.20% | ~174 |
 | Hatchlings Underfoot | 0.20% | ~174 |
+| Don't Look Up! | 0.20% | ~174 |
 | Will of the Feywild | 0.20% | ~107 |
 | The Lutes of Loomlurch | 0.20% | ~107 |
 | Supply Run | 0.20% | ~174 |
@@ -149,6 +150,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
 | Cold & Wet | 0.20% | ~174 |
+| Madcap Adventures | 0.20% | ~174 |
 | Vault of Dragons | 0.20% | ~174 |
 | Dinosaur Racing | 0.20% | ~174 |
 | Elturel Has Fallen | 0.20% | ~174 |
@@ -227,7 +229,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Levelheaded | 0.10% | ~53 |
 | The Madness of Zuggtmoy | 0.10% | ~53 |
 | It's So Pretty… | 0.10% | ~53 |
-| Don't Look Up! | 0.10% | ~87 |
 | The Cult of Lolth | 0.10% | ~53 |
 | Head over Heals | 0.10% | ~53 |
 | The Demon Lords of the Abyss | 0.10% | ~53 |
@@ -357,7 +358,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.10% | ~87 |
 | Dark Doppelgangers | 0.10% | ~87 |
 | Faerûn's Most Wanted | 0.10% | ~53 |
-| Madcap Adventures | 0.10% | ~87 |
 | Faerûn's Most Neglected | 0.10% | ~53 |
 | Vault of Pixies | 0.10% | ~87 |
 | Vault of Poison | 0.10% | ~87 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,192 (Ranked 59)  
-Completed: 1,825 (2.09%) (Ranked 60)  
+Progressed: 87,200 (Ranked 59)  
+Completed: 1,826 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -518,7 +518,7 @@ Completed: 1,825 (2.09%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,192 | 1,825 |
+| 2023-05-12 | 87,200 | 1,826 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,859 (Ranked 37)  

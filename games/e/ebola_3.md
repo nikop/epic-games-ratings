@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chest ✔ | 54.00% | ~86 |
-| Fright ✔ | 54.00% | ~86 |
+| Chest ✔ | 55.00% | ~89 |
+| Fright ✔ | 53.00% | ~85 |
 | Inventory ✔ | 51.00% | ~82 |
-| Police officers ✔ | 24.00% | ~38 |
+| Police officers ✔ | 24.00% | ~39 |
 | Mutation ✔ | 22.00% | ~35 |
 | Doberman ✔ | 12.00% | ~19 |
-| Hospital ✔ | 8.00% | ~13 |
 | Chess ✔ | 8.00% | ~13 |
 | Weapon ✔ | 8.00% | ~13 |
 | Survival ✔ | 7.00% | ~11 |
+| Hospital ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
 | Antivirus ✔ | 6.00% | ~10 |
 | Cheats ✔ | 6.00% | ~10 |
@@ -33,18 +33,18 @@
 | Mutant run ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
-| Group Alpha ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |
-| Priest ✔ | 3.00% | ~5 |
-| Rank B+ ✔ | 3.00% | ~5 |
 | Rank A ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |
-| Boss 3 ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Secret ✔ | 2.00% | ~3 |
 | Boss 2 ✔ | 2.00% | ~3 |
+| Group Alpha ✔ | 2.00% | ~3 |
 | Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
+| Priest ✔ | 2.00% | ~3 |
+| Rank B+ ✔ | 2.00% | ~3 |
+| Boss 3 ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 1.00% | ~2 |
 | Seeker Three ✔ | 1.00% | ~2 |
 | Crocodile Escape ✔ | 1.00% | ~2 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 230)  
+Progressed: 161 (Ranked 230)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 153 | 0 |
 | 2023-05-09 | 158 | 0 |
 | 2023-05-11 | 160 | 0 |
+| 2023-05-12 | 161 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

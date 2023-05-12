@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1893,
+  "EOS_Progressed": 1897,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2023-05-12T00:06:23.8570294+00:00",
       "NumProgressed": 1893,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-12T02:01:52.696289+00:00",
+      "NumProgressed": 1897,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -273,7 +278,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "complete_act_one",
@@ -281,7 +286,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "complete_act_three",
@@ -289,7 +294,7 @@
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "complete_act_two",
@@ -297,7 +302,7 @@
       "Name": "The Second Law of Thermodynamics",
       "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "complete_tutorial",
@@ -305,15 +310,15 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1669
     },
     {
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1062
     },
     {
       "ID": "defeat_enemies",
@@ -321,7 +326,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1480
     },
     {
       "ID": "defeat_tree_dummy",
@@ -329,7 +334,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 873
     },
     {
       "ID": "fail_planet",
@@ -337,7 +342,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1461
     },
     {
       "ID": "piercing_beam",
@@ -345,7 +350,7 @@
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "reach_heat",
@@ -353,7 +358,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 778
     },
     {
       "ID": "reach_high_heat",
@@ -369,7 +374,7 @@
       "Name": "Frogbot",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1404
     },
     {
       "ID": "save_planet_bestfriend",
@@ -377,15 +382,15 @@
       "Name": "Do you trust me?",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "save_planet_coop",
       "SetID": "236b9eg",
       "Name": "The Interdimensional Power of Friendship",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 854
     },
     {
       "ID": "stick_decoy",
@@ -393,7 +398,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 681
+      "UsersEstimate": 683
     },
     {
       "ID": "stun_enemies",
@@ -401,7 +406,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1062
     },
     {
       "ID": "trash_truck",
@@ -416,7 +421,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1893,
+      "Progressed": 1897,
       "Completed": 8
     }
   ],
@@ -424,8 +429,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:06:23.8570289+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:52.6962883+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
-  "LastUpdate_Ratings": "2023-05-12T00:01:04.3537198+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:06:23.8570448+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:56:33.4086505+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:52.6963015+00:00"
 }

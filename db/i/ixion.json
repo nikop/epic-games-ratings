@@ -677,9 +677,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BASE_25",
@@ -941,9 +941,9 @@
       "ID": "ACH_BASE_59",
       "SetID": "92iocjf",
       "Name": "The Ship of Theseus",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_BASE_6",
@@ -1036,8 +1036,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:05:41.11001+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:12.0684284+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.0317624+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:58:38.6031399+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:05:41.1100648+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:54:22.4425606+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:12.068473+00:00"
 }

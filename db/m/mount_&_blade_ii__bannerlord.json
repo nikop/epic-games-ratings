@@ -3945,9 +3945,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49558,
+  "EOS_Progressed": 49561,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5770,6 +5770,11 @@
       "Time": "2023-05-11T23:05:54.71975+00:00",
       "NumProgressed": 49558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T02:01:49.9062098+00:00",
+      "NumProgressed": 49561,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5949,7 +5954,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6938
+      "UsersEstimate": 6939
     },
     {
       "ID": "I spit on your grave",
@@ -6005,7 +6010,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14372
+      "UsersEstimate": 14373
     },
     {
       "ID": "Lawbringer",
@@ -6013,7 +6018,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17345
+      "UsersEstimate": 17346
     },
     {
       "ID": "Lawmaker",
@@ -6021,7 +6026,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10407
+      "UsersEstimate": 10408
     },
     {
       "ID": "Long live the Empire",
@@ -6037,7 +6042,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "Minor Clan",
@@ -6133,7 +6138,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7929
+      "UsersEstimate": 7930
     },
     {
       "ID": "This Is Our Land",
@@ -6157,7 +6162,7 @@
       "Name": "Trained",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9416
+      "UsersEstimate": 9417
     },
     {
       "ID": "Undercover",
@@ -6188,15 +6193,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49558,
+      "Progressed": 49561,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-11T18:00:15.8890208+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:06:20.948717+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:49.9062094+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-12T00:00:19.8756311+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:06:20.9487682+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:55:53.4626387+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:49.9062524+00:00"
 }

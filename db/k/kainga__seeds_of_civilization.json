@@ -4,7 +4,7 @@
   "ProductSlug": "delete-2-7314ee",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-06T00:00:00+00:00",
@@ -230,8 +230,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:47.8999799+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:06:08.7122476+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:38.3980314+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:31.4124575+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:59:51.2957886+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:06:08.7122652+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:55:29.3119309+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:38.3980429+00:00"
 }

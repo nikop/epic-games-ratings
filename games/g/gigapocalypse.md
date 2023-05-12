@@ -26,8 +26,8 @@
 | Mutant And Proud | 35.00% | ~39 |
 | Happy Little Home | 30.00% | ~34 |
 | The Emperor's New Clothes | 29.00% | ~32 |
+| Godlike Power | 29.00% | ~32 |
 | Final Evolution | 29.00% | ~32 |
-| Godlike Power | 28.00% | ~31 |
 | Supremacy | 28.00% | ~31 |
 | You Shall Not Pass | 27.00% | ~30 |
 | Mommy's Very Angry | 26.00% | ~29 |

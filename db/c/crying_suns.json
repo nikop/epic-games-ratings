@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457746,
+  "EOS_Progressed": 457748,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2303,6 +2303,11 @@
       "Time": "2023-05-12T00:06:12.2377639+00:00",
       "NumProgressed": 457746,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-12T02:01:41.6505368+00:00",
+      "NumProgressed": 457748,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2338,7 +2343,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 100704
+      "UsersEstimate": 100705
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -2402,7 +2407,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302112
+      "UsersEstimate": 302114
     },
     {
       "ID": "achievement_story_landa",
@@ -2434,7 +2439,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114436
+      "UsersEstimate": 114437
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -2490,7 +2495,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91549
+      "UsersEstimate": 91550
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -2498,7 +2503,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151056
+      "UsersEstimate": 151057
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2738,7 +2743,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201408
+      "UsersEstimate": 201409
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -2770,7 +2775,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178521
+      "UsersEstimate": 178522
     },
     {
       "ID": "achievement_win_run_hard",
@@ -2826,28 +2831,28 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 100704
+      "UsersEstimate": 100705
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1680,
-      "Completed": 1680
+      "Progressed": 1682,
+      "Completed": 1682
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457746,
+      "Progressed": 457748,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-12T00:06:12.2377633+00:00",
+  "LastChanged_Achievements": "2023-05-12T02:01:41.6505363+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:59:41.0159961+00:00",
-  "LastUpdate_Achievements": "2023-05-12T00:06:12.2378927+00:00"
+  "LastUpdate_Ratings": "2023-05-12T01:55:19.7408854+00:00",
+  "LastUpdate_Achievements": "2023-05-12T02:01:41.6505938+00:00"
 }

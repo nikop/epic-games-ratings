@@ -16,7 +16,7 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 15.00% | ~388 |
 | Surgical Excision | 14.00% | ~363 |
 | Bloodless | 14.00% | ~363 |
-| Honoured Battle-Brother | 10.00% | ~259 |
+| Honoured Battle-Brother | 11.00% | ~285 |
 | The Emperor Protects | 10.00% | ~259 |
 | Nemesis Master | 10.00% | ~259 |
 | Gunmaster | 10.00% | ~259 |

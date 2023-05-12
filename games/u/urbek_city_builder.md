@@ -32,15 +32,16 @@
 | Food provider master | 2.00% | ~3 |
 | What is there after death? | 2.00% | ~3 |
 | Freedom to go to the mall! | 2.00% | ~3 |
+| Temperate urban planner | 2.00% | ~3 |
 | Anarchist Utopia | 1.00% | ~1 |
 | Archipelago urban planner | 1.00% | ~1 |
 | City crisis | 1.00% | ~1 |
 | Perfect city | 1.00% | ~1 |
 | Oh, I love parks, listening to birds! | 1.00% | ~1 |
 | Town planner | 1.00% | ~1 |
-| Temperate urban planner | 1.00% | ~1 |
 | Anarchist paradise | 0.70% | ~1 |
 | I can't see the sky | 0.70% | ~1 |
+| I can't breathe | 0.70% | ~1 |
 | Urban style | 0.70% | ~1 |
 | Desert builder | 0.70% | ~1 |
 | Desert urban planner | 0.70% | ~1 |
@@ -52,6 +53,7 @@
 | City in flames | 0.70% | ~1 |
 | Restorer | 0.70% | ~1 |
 | Full temperate | 0.70% | ~1 |
+| Temperate master | 0.70% | ~1 |
 | Welfare state | 0.70% | ~1 |
 | Full archipelago | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
@@ -59,7 +61,6 @@
 | Pumpkin farmer | 0.00% | ~0 |
 | Ready to make sopaipillas | 0.00% | ~0 |
 | Green energy | 0.00% | ~0 |
-| I can't breathe | 0.00% | ~0 |
 | Collapsed city | 0.00% | ~0 |
 | Full desert | 0.00% | ~0 |
 | Desert master | 0.00% | ~0 |
@@ -78,7 +79,6 @@
 | Singapore | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |
 | Everyone should always do sport! | 0.00% | ~0 |
-| Temperate master | 0.00% | ~0 |
 | Full rainforest | 0.00% | ~0 |
 | Rainforest builder | 0.00% | ~0 |
 | Rainforest urban planner | 0.00% | ~0 |

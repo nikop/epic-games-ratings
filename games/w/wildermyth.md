@@ -17,8 +17,8 @@ Number of Ratings: 45  (23.09.2022)
 | Completing the Look | 11.00% | ~127 |
 | Who's Counting? | 10.00% | ~116 |
 | War Endured | 10.00% | ~116 |
+| Core Failure | 10.00% | ~116 |
 | A Mythic Menagerie | 9.00% | ~104 |
-| Core Failure | 9.00% | ~104 |
 | Pyrrhic Victory | 8.00% | ~93 |
 | Echoes Die | 7.00% | ~81 |
 | Thematic Divergence | 6.00% | ~70 |

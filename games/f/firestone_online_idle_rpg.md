@@ -5,20 +5,20 @@ Rating: 3.61 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~895 |
-| World Map | 79.00% | ~760 |
-| Temple of Eternals | 55.00% | ~529 |
-| Prestigious | 52.00% | ~500 |
-| Fellowship Power | 39.00% | ~375 |
-| Guild Power | 23.00% | ~221 |
-| Prestigious x10 | 20.00% | ~192 |
+| Victor | 93.00% | ~897 |
+| World Map | 79.00% | ~762 |
+| Temple of Eternals | 55.00% | ~530 |
+| Prestigious | 52.00% | ~501 |
+| Fellowship Power | 39.00% | ~376 |
+| Guild Power | 23.00% | ~222 |
+| Prestigious x10 | 20.00% | ~193 |
 | The game is on | 16.00% | ~154 |
-| Exotic Merchant | 15.00% | ~144 |
+| Exotic Merchant | 15.00% | ~145 |
 | Dragon Clicker | 14.00% | ~135 |
 | Miner Clicker | 14.00% | ~135 |
 | Inspection | 13.00% | ~125 |
-| Full Party | 12.00% | ~115 |
-| Hero inspection | 12.00% | ~115 |
+| Full Party | 12.00% | ~116 |
+| Hero inspection | 12.00% | ~116 |
 | Lieutenant | 9.00% | ~87 |
 | Dragon Master | 8.00% | ~77 |
 | Enlightenment | 8.00% | ~77 |
@@ -28,7 +28,7 @@ Rating: 3.61 (Ranked 917)
 | Daily Quest Completionist | 5.00% | ~48 |
 | Mysterious Rock | 5.00% | ~48 |
 | Scientist | 5.00% | ~48 |
-| Milestone collector | 4.00% | ~38 |
+| Milestone collector | 4.00% | ~39 |
 | Background Story | 3.00% | ~29 |
 | Challenger | 3.00% | ~29 |
 | Frostfire Liberator | 3.00% | ~29 |
@@ -50,9 +50,9 @@ Rating: 3.61 (Ranked 917)
 | Trader | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
 | Relic Of The Past | 0.90% | ~9 |
-| Dragon Slayer | 0.70% | ~7 |
+| Dragon Slayer | 0.80% | ~8 |
+| Engineer Mastery | 0.70% | ~7 |
 | Weekly Quest Completionist | 0.70% | ~7 |
-| Engineer Mastery | 0.60% | ~6 |
 | Legendary | 0.60% | ~6 |
 | Sailor | 0.60% | ~6 |
 | Blueprint Upgrades | 0.50% | ~5 |
@@ -81,7 +81,7 @@ Rating: 3.61 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962 (Ranked 165)  
+Progressed: 964 (Ranked 165)  
 Completed: 1 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 1 (0.10%) (Ranked 155)
 | 2023-05-09 | 935 | 1 |
 | 2023-05-10 | 948 | 1 |
 | 2023-05-11 | 962 | 1 |
+| 2023-05-12 | 964 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
