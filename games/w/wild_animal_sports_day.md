@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Hurdles Pro | 100.00% | ~2 |
 | Tennis Pro | 100.00% | ~2 |
-| Hurdles Pro | 50.00% | ~1 |
 | Skiing Pro | 50.00% | ~1 |
 | Darts Pro | 0.00% | ~0 |
 | Diving Pro | 0.00% | ~0 |

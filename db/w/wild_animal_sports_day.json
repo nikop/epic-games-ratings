@@ -67,9 +67,9 @@
       "ID": "HURDLES_PRO",
       "SetID": "9fjm696",
       "Name": "Hurdles Pro",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "POLE_VAULT_PRO",
@@ -129,8 +129,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00",
-  "LastChanged_Achievements": "2023-05-12T14:05:08.7352102+00:00",
+  "LastChanged_Achievements": "2023-05-12T15:05:38.5164928+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:46.2579035+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:59:10.9805317+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:05:08.7352201+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:59:37.9434299+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:05:38.5165+00:00"
 }

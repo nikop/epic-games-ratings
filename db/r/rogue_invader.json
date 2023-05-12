@@ -2,9 +2,9 @@
   "ID": "d6f829222d6d4d40b60cf3d431322f34",
   "Name": "Rogue Invader",
   "ProductSlug": "rogue-invader-68d438",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-03-18T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.2897715+00:00",
   "LastChanged": "2023-03-31T05:58:13.2897716+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:41.5500763+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:58:09.6370606+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:00:28.8312751+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:58:21.2570534+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:01:17.4316804+00:00"
 }

@@ -846,9 +846,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2798,
+  "EOS_Progressed": 2799,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1921,6 +1921,11 @@
       "Time": "2023-05-12T13:09:52.6987182+00:00",
       "NumProgressed": 2798,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T15:05:57.1510478+00:00",
+      "NumProgressed": 2799,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2028,7 +2033,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2052,7 +2057,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2092,7 +2097,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2188,7 +2193,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2204,7 +2209,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2251,15 +2256,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2798,
+      "Progressed": 2799,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-12T14:05:24.6046793+00:00",
+  "LastChanged_Achievements": "2023-05-12T15:05:57.1510473+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:59:36.8623917+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:05:24.6047153+00:00"
+  "LastUpdate_Ratings": "2023-05-12T15:00:11.3861488+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:05:57.1510765+00:00"
 }

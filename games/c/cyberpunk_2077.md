@@ -6,30 +6,30 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,508 |
-| Right Back At Ya | 37.00% | ~295,728 |
-| The Lovers | 32.00% | ~255,765 |
-| Stanislavski's Method | 27.00% | ~215,802 |
-| The Wheel of Fortune | 25.00% | ~199,816 |
-| The Hermit | 23.00% | ~183,831 |
-| True Soldier | 22.00% | ~175,838 |
-| Christmas Tree Attack | 21.00% | ~167,846 |
-| Legend of The Afterlife | 21.00% | ~167,846 |
-| The High Priestess | 20.00% | ~159,853 |
-| Life of the Road | 19.00% | ~151,860 |
-| Full Body Conversion | 17.00% | ~135,875 |
-| The World | 16.00% | ~127,882 |
-| Bushido and Chill | 15.00% | ~119,890 |
-| True Warrior | 14.00% | ~111,897 |
-| To Protect and Serve | 13.00% | ~103,904 |
-| Gun Fu | 13.00% | ~103,904 |
-| Master Crafter | 13.00% | ~103,904 |
-| I Am The Law | 13.00% | ~103,904 |
-| Judy vs Night City | 13.00% | ~103,904 |
-| Two Heads, One Bullet | 11.00% | ~87,919 |
-| The Wandering Fool | 9.00% | ~71,934 |
-| The Quick and the Dead | 9.00% | ~71,934 |
-| Ten out of Ten | 8.00% | ~63,941 |
+| The Fool | 67.00% | ~535,514 |
+| Right Back At Ya | 37.00% | ~295,732 |
+| The Lovers | 32.00% | ~255,768 |
+| Stanislavski's Method | 27.00% | ~215,804 |
+| The Wheel of Fortune | 25.00% | ~199,819 |
+| The Hermit | 23.00% | ~183,833 |
+| True Soldier | 22.00% | ~175,840 |
+| Christmas Tree Attack | 21.00% | ~167,848 |
+| Legend of The Afterlife | 21.00% | ~167,848 |
+| The High Priestess | 20.00% | ~159,855 |
+| Life of the Road | 19.00% | ~151,862 |
+| Full Body Conversion | 17.00% | ~135,877 |
+| The World | 16.00% | ~127,884 |
+| Bushido and Chill | 15.00% | ~119,891 |
+| True Warrior | 14.00% | ~111,899 |
+| To Protect and Serve | 13.00% | ~103,906 |
+| Gun Fu | 13.00% | ~103,906 |
+| Master Crafter | 13.00% | ~103,906 |
+| I Am The Law | 13.00% | ~103,906 |
+| Judy vs Night City | 13.00% | ~103,906 |
+| Two Heads, One Bullet | 11.00% | ~87,920 |
+| The Wandering Fool | 9.00% | ~71,935 |
+| The Quick and the Dead | 9.00% | ~71,935 |
+| Ten out of Ten | 8.00% | ~63,942 |
 | Breathtaking | 7.00% | ~55,949 |
 | To Bad Decisions! | 6.00% | ~47,956 |
 | The Star | 6.00% | ~47,956 |
@@ -44,15 +44,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~23,978 |
 | V for Vendetta | 3.00% | ~23,978 |
 | It's Elementary | 3.00% | ~23,978 |
-| Autojock | 2.00% | ~15,985 |
-| The Wasteland | 2.00% | ~15,985 |
-| Daemon In The Shell | 2.00% | ~15,985 |
-| The Devil | 2.00% | ~15,985 |
+| Autojock | 2.00% | ~15,986 |
+| The Wasteland | 2.00% | ~15,986 |
+| Daemon In The Shell | 2.00% | ~15,986 |
+| The Devil | 2.00% | ~15,986 |
 | Gunslinger | 1.00% | ~7,993 |
 | Rough Landing | 0.40% | ~3,197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,265 (Ranked 11)  
-Completed: 1,589 (0.20%) (Ranked 137)  
+Progressed: 799,275 (Ranked 11)  
+Completed: 1,590 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,10 +73,10 @@ Completed: 1,589 (0.20%) (Ranked 137)
 | 2023-05-09 | 798,891 | 1,584 |
 | 2023-05-10 | 799,039 | 1,585 |
 | 2023-05-11 | 799,187 | 1,588 |
-| 2023-05-12 | 799,265 | 1,589 |
+| 2023-05-12 | 799,275 | 1,590 |
 ## Awards
 Max (Character Customization): 64,063  (Ranked 9)  
-Sum: 167,877 (Ranked 13)  
+Sum: 167,887 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -87,7 +87,7 @@ Diff (max vs sum): -4
 | This game has Diverse Characters | 7,334 |
 | This game is Extremely Fun | 7,280 |
 | This game is Relaxing | 7,230 |
-| This game is Highly Recommended | 7,208 |
+| This game is Highly Recommended | 7,218 |
 | This game has Quickly Understood Controls | 7,093 |
 | This game has Amazing Characters | 7,031 |
 | This game has a Creative Community | 4,690 |
@@ -207,4 +207,4 @@ Diff (max vs sum): -4
 | 2023-05-09 | 4.62 | - | 63,904 | 167,351 |
 | 2023-05-10 | 4.62 | - | 63,968 | 167,544 |
 | 2023-05-11 | 4.62 | - | 64,019 | 167,743 |
-| 2023-05-12 | 4.62 | - | 64,063 | 167,877 |
+| 2023-05-12 | 4.62 | - | 64,063 | 167,887 |

@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221614,
+  "EOS_Progressed": 221616,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2178,6 +2178,11 @@
       "Time": "2023-05-12T14:04:43.0285804+00:00",
       "NumProgressed": 221614,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-12T15:05:09.6195077+00:00",
+      "NumProgressed": 221616,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -2325,7 +2330,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70916
+      "UsersEstimate": 70917
     },
     {
       "ID": "NOBUNAGA",
@@ -2437,7 +2442,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48755
+      "UsersEstimate": 48756
     },
     {
       "ID": "TUNINGMANIAC",
@@ -2453,22 +2458,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90862
+      "UsersEstimate": 90863
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221614,
+      "Progressed": 221616,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-12T14:04:43.0285799+00:00",
+  "LastChanged_Achievements": "2023-05-12T15:05:09.6195073+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:31.7279724+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:58:00.4524237+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:04:43.0286112+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:58:09.3244893+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:05:09.6195395+00:00"
 }

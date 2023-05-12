@@ -3874,18 +3874,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10272,
       "NumberOfAwardsMax": 6050
+    },
+    {
+      "Time": "2023-05-12T14:58:55.8203493+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10277,
+      "NumberOfAwardsMax": 6055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10272,
-  "NumberOfAwardsMax": 6050,
+  "NumberOfAwards": 10277,
+  "NumberOfAwardsMax": 6055,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6050
+      "Count": 6055
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3954,9 +3960,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 702840,
+  "EOS_Progressed": 702843,
   "EOS_Completed": 12723,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5559,6 +5565,11 @@
       "Time": "2023-05-12T12:05:15.5497596+00:00",
       "NumProgressed": 702840,
       "NumCompleted": 12723
+    },
+    {
+      "Time": "2023-05-12T15:05:40.2163224+00:00",
+      "NumProgressed": 702843,
+      "NumCompleted": 12723
     }
   ],
   "TotalAchievements": 50,
@@ -5672,9 +5683,9 @@
       "ID": "14_DeathlessBoss_Trophy",
       "SetID": "adcm20g",
       "Name": "Kill Nil",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4920
     },
     {
       "ID": "15_Detective_H1",
@@ -5969,21 +5980,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12141,
-      "Completed": 10079
+      "Progressed": 12144,
+      "Completed": 10080
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702840,
+      "Progressed": 702843,
       "Completed": 12723
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-12T11:58:40.8860663+00:00",
-  "LastChanged_Achievements": "2023-05-12T14:05:10.0257776+00:00",
+  "LastChanged": "2023-05-12T14:58:55.8203491+00:00",
+  "LastChanged_Achievements": "2023-05-12T15:05:40.2163219+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:58:38.8868176+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:05:10.0258279+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:58:55.8203498+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:05:40.216358+00:00"
 }

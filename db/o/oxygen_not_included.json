@@ -3,11 +3,11 @@
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 237,
+  "Ranking_Popularity": 238,
   "Ranking_PopularitySum": 177,
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -1461,10 +1461,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2169,
       "NumberOfAwardsMax": 252
+    },
+    {
+      "Time": "2023-05-12T14:58:10.4436108+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2170,
+      "NumberOfAwardsMax": 252
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2169,
+  "NumberOfAwards": 2170,
   "NumberOfAwardsMax": 252,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1520,7 +1526,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game has a Creative Community",
@@ -1546,8 +1552,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-05-11T20:58:14.146308+00:00",
+  "LastChanged": "2023-05-12T14:58:10.4436106+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:32.5650858+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:58:01.3251998+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:03:14.1516415+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:58:10.4436112+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:03:08.0095278+00:00"
 }

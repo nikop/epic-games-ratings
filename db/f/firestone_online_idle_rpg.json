@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 971,
+  "EOS_Progressed": 972,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -1447,6 +1447,11 @@
       "Time": "2023-05-12T11:05:22.0101573+00:00",
       "NumProgressed": 971,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T15:05:29.6533146+00:00",
+      "NumProgressed": 972,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1634,7 +1639,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "fellowshippower",
@@ -1690,7 +1695,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "herewegoagain",
@@ -1784,9 +1789,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 29
     },
     {
       "ID": "minerclicker",
@@ -1816,9 +1821,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 58
     },
     {
       "ID": "mythicpower",
@@ -1864,9 +1869,9 @@
       "ID": "relicofthepast",
       "SetID": "3nl4bcg",
       "Name": "Relic Of The Past",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "sailor",
@@ -1880,9 +1885,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 58
     },
     {
       "ID": "scrollmaster",
@@ -1914,7 +1919,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "thealchemist",
@@ -2018,7 +2023,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "warmachinesarmy",
@@ -2050,14 +2055,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 971,
+      "Progressed": 972,
       "Completed": 1
     }
   ],
@@ -2065,8 +2070,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-12T14:05:00.8081236+00:00",
+  "LastChanged_Achievements": "2023-05-12T15:05:29.6533141+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:57:47.8013587+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:05:00.8082091+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:57:53.7014981+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:05:29.6533928+00:00"
 }

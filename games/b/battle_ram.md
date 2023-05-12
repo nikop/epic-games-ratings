@@ -4,7 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 0.00% | ~0 |
+| START | 100.00% | ~1 |
+| Ram Corporal | 100.00% | ~1 |
 | Senior warrant officer Baran 3rd class | 0.00% | ~0 |
 | Senior warrant officer Baran 4th class | 0.00% | ~0 |
 | Junior Lieutenant Baran | 0.00% | ~0 |
@@ -15,7 +16,6 @@
 | Lieutenant Colonel Baran | 0.00% | ~0 |
 | Colonel Baran | 0.00% | ~0 |
 | Brigadier General Baran | 0.00% | ~0 |
-| Ram Corporal | 0.00% | ~0 |
 | Lieutenant General Baran | 0.00% | ~0 |
 | EMERAID RAM | 0.00% | ~0 |
 | GOLDEN RAM | 0.00% | ~0 |

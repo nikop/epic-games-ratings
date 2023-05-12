@@ -4,7 +4,7 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -226,17 +226,17 @@
       "ID": "Challenge 02",
       "SetID": "5n829i",
       "Name": "Challenge 02",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Challenge 03",
       "SetID": "5n829i",
       "Name": "Challenge 03",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Challenge 04",
@@ -384,8 +384,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-12T14:04:51.2374216+00:00",
+  "LastChanged_Achievements": "2023-05-12T15:05:19.3535269+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:57.379216+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:57:28.7669362+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:04:51.2374359+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:57:30.0947148+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:05:19.3535389+00:00"
 }

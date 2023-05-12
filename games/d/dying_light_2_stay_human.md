@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,101 |
-| Into the Unknown | 8.00% | ~43,645 |
-| First Shot | 8.00% | ~43,645 |
-| Herzlich Wilkommen! | 7.00% | ~38,189 |
-| Sancho Panza | 7.00% | ~38,189 |
-| Good Night & Good Luck | 7.00% | ~38,189 |
-| Under Pressure | 6.00% | ~32,734 |
-| Flag Burning | 6.00% | ~32,734 |
-| Oh, So This Is How It Works! | 6.00% | ~32,734 |
-| Night Hunter | 6.00% | ~32,734 |
-| On the Trail of the Enemy | 5.00% | ~27,278 |
-| Light in the Darkness | 5.00% | ~27,278 |
-| Get Outta My House! | 5.00% | ~27,278 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,278 |
-| Being All Social | 5.00% | ~27,278 |
-| Debris and Ashes | 4.00% | ~21,822 |
-| We Will Be Heard! | 4.00% | ~21,822 |
-| Known Associate | 4.00% | ~21,822 |
-| Brush with Death | 4.00% | ~21,822 |
-| Going Down | 4.00% | ~21,822 |
-| Family First | 4.00% | ~21,822 |
-| Your World, Your Rules | 4.00% | ~21,822 |
-| Tunnel Entrance | 4.00% | ~21,822 |
-| After the Fall | 4.00% | ~21,822 |
-| Can't Touch This! | 4.00% | ~21,822 |
-| Death From Afar | 3.00% | ~16,367 |
-| Terminal Headache | 3.00% | ~16,367 |
-| Slowpoke! | 3.00% | ~16,367 |
-| Tickets, Please! | 2.00% | ~10,911 |
-| Parkour Master | 2.00% | ~10,911 |
-| Combat Master | 2.00% | ~10,911 |
-| You're Going Down! | 2.00% | ~10,911 |
+| You Never Forget Your First... | 9.00% | ~49,104 |
+| Into the Unknown | 8.00% | ~43,648 |
+| First Shot | 8.00% | ~43,648 |
+| Herzlich Wilkommen! | 7.00% | ~38,192 |
+| Sancho Panza | 7.00% | ~38,192 |
+| Good Night & Good Luck | 7.00% | ~38,192 |
+| Under Pressure | 6.00% | ~32,736 |
+| Flag Burning | 6.00% | ~32,736 |
+| Oh, So This Is How It Works! | 6.00% | ~32,736 |
+| Night Hunter | 6.00% | ~32,736 |
+| On the Trail of the Enemy | 5.00% | ~27,280 |
+| Light in the Darkness | 5.00% | ~27,280 |
+| Get Outta My House! | 5.00% | ~27,280 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,280 |
+| Being All Social | 5.00% | ~27,280 |
+| Debris and Ashes | 4.00% | ~21,824 |
+| We Will Be Heard! | 4.00% | ~21,824 |
+| Known Associate | 4.00% | ~21,824 |
+| Brush with Death | 4.00% | ~21,824 |
+| Going Down | 4.00% | ~21,824 |
+| Family First | 4.00% | ~21,824 |
+| Your World, Your Rules | 4.00% | ~21,824 |
+| Tunnel Entrance | 4.00% | ~21,824 |
+| After the Fall | 4.00% | ~21,824 |
+| Can't Touch This! | 4.00% | ~21,824 |
+| Death From Afar | 3.00% | ~16,368 |
+| Terminal Headache | 3.00% | ~16,368 |
+| Slowpoke! | 3.00% | ~16,368 |
+| Tickets, Please! | 2.00% | ~10,912 |
+| Parkour Master | 2.00% | ~10,912 |
+| Combat Master | 2.00% | ~10,912 |
+| You're Going Down! | 2.00% | ~10,912 |
 | Municipal Services | 1.00% | ~5,456 |
 | Tube Map | 1.00% | ~5,456 |
 | Don Quixote | 1.00% | ~5,456 |
@@ -47,12 +47,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~5,456 |
 | Nemesis | 1.00% | ~1,910 |
 | Enter the Hall | 0.90% | ~1,719 |
-| That's Teamwork! | 0.80% | ~4,364 |
-| Fit as a Fiddle | 0.80% | ~4,364 |
+| That's Teamwork! | 0.80% | ~4,365 |
+| Fit as a Fiddle | 0.80% | ~4,365 |
 | Find Anything Interesting? | 0.70% | ~3,819 |
 | Boot Licker | 0.70% | ~3,819 |
 | Night of Terrors | 0.70% | ~1,337 |
-| Get the Point? | 0.60% | ~3,273 |
+| Get the Point? | 0.60% | ~3,274 |
 | My Friend, Ciro | 0.60% | ~1,146 |
 | Skullcrusher | 0.60% | ~1,146 |
 | Revenants | 0.50% | ~2,728 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~191 |
 | Connoisseur | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545,562 (Ranked 22)  
+Progressed: 545,599 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 46 (0.01%) (Ranked 190)
 | 2023-05-09 | 544,236 | 46 |
 | 2023-05-10 | 544,773 | 46 |
 | 2023-05-11 | 545,309 | 46 |
-| 2023-05-12 | 545,562 | 46 |
+| 2023-05-12 | 545,599 | 46 |
 ## Awards
 Max (Character Customization): 6,990  (Ranked 44)  
 Sum: 16,233 (Ranked 58)  

@@ -5,46 +5,46 @@ Rating: 4.42 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~666,226 |
-| The ABCs | 43.00% | ~572,955 |
-| Home Run | 42.00% | ~559,630 |
-| Keeps Coming Off | 40.00% | ~532,981 |
-| Guts | 20.00% | ~266,491 |
-| Meat Grinder | 20.00% | ~266,491 |
-| Burning Man | 16.00% | ~213,192 |
-| Lived to Tell the Tale | 12.00% | ~159,894 |
-| Highlander | 10.00% | ~133,245 |
-| Unstoppable | 10.00% | ~133,245 |
-| Just a Scratch | 9.00% | ~119,921 |
-| Tough Nut to Crack | 6.00% | ~79,947 |
-| Yoink | 5.00% | ~66,623 |
-| Long List of Names | 4.00% | ~53,298 |
-| Pyromaniac | 4.00% | ~53,298 |
-| The Queen of Weapons | 3.00% | ~39,974 |
-| This isn’t Sparta | 2.00% | ~26,649 |
-| Poacher | 2.00% | ~26,649 |
-| Put That Away | 2.00% | ~26,649 |
-| You’re Welcome | 2.00% | ~26,649 |
-| Crybaby | 1.00% | ~13,325 |
-| Eagle Eye | 1.00% | ~13,325 |
-| I Know Kung Fu | 1.00% | ~13,325 |
-| Coming Through | 0.80% | ~10,660 |
-| Chambermaid | 0.60% | ~7,995 |
-| Training Accident | 0.60% | ~7,995 |
-| Virtuoso | 0.60% | ~7,995 |
-| Boxer | 0.50% | ~6,662 |
-| Rock’n’Roll | 0.50% | ~6,662 |
-| Flyswatter | 0.30% | ~3,997 |
-| Whack-A-Mole | 0.30% | ~3,997 |
+| Justice from the Grave | 50.00% | ~666,336 |
+| The ABCs | 43.00% | ~573,049 |
+| Home Run | 42.00% | ~559,722 |
+| Keeps Coming Off | 40.00% | ~533,069 |
+| Guts | 20.00% | ~266,534 |
+| Meat Grinder | 20.00% | ~266,534 |
+| Burning Man | 16.00% | ~213,228 |
+| Lived to Tell the Tale | 12.00% | ~159,921 |
+| Highlander | 10.00% | ~133,267 |
+| Unstoppable | 10.00% | ~133,267 |
+| Just a Scratch | 9.00% | ~119,940 |
+| Tough Nut to Crack | 6.00% | ~79,960 |
+| Yoink | 5.00% | ~66,634 |
+| Long List of Names | 4.00% | ~53,307 |
+| Pyromaniac | 4.00% | ~53,307 |
+| The Queen of Weapons | 3.00% | ~39,980 |
+| This isn’t Sparta | 2.00% | ~26,653 |
+| Poacher | 2.00% | ~26,653 |
+| Put That Away | 2.00% | ~26,653 |
+| You’re Welcome | 2.00% | ~26,653 |
+| Crybaby | 1.00% | ~13,327 |
+| Eagle Eye | 1.00% | ~13,327 |
+| I Know Kung Fu | 1.00% | ~13,327 |
+| Coming Through | 0.80% | ~10,661 |
+| Chambermaid | 0.60% | ~7,996 |
+| Training Accident | 0.60% | ~7,996 |
+| Virtuoso | 0.60% | ~7,996 |
+| Boxer | 0.50% | ~6,663 |
+| Rock’n’Roll | 0.50% | ~6,663 |
+| Flyswatter | 0.30% | ~3,998 |
+| Whack-A-Mole | 0.30% | ~3,998 |
 | Friend Indeed | 0.20% | ~2,665 |
 | Vlad the Impaler | 0.20% | ~2,665 |
-| Clobbered | 0.10% | ~1,332 |
-| Ended Rightly | 0.10% | ~1,332 |
-| Living Sculpture | 0.10% | ~1,332 |
-| That’s No Ordinary Cold | 0.10% | ~1,332 |
-| Stairway to Hell | 0.10% | ~1,332 |
+| Clobbered | 0.10% | ~1,333 |
+| Ended Rightly | 0.10% | ~1,333 |
+| Living Sculpture | 0.10% | ~1,333 |
+| That’s No Ordinary Cold | 0.10% | ~1,333 |
+| Stairway to Hell | 0.10% | ~1,333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,332,453 (Ranked 7)  
+Progressed: 1,332,672 (Ranked 7)  
 Completed: 9 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,17 +66,17 @@ Completed: 9 (0.00%) (Ranked 198)
 | 2023-05-09 | 1,323,653 | 9 |
 | 2023-05-10 | 1,327,247 | 9 |
 | 2023-05-11 | 1,330,677 | 9 |
-| 2023-05-12 | 1,332,453 | 9 |
+| 2023-05-12 | 1,332,672 | 9 |
 ## Awards
-Max (Highly Recommended): 95  (Ranked 329)  
-Sum: 627 (Ranked 273)  
-Diff (max vs sum): 56  
+Max (Highly Recommended): 101  (Ranked 320)  
+Sum: 635 (Ranked 273)  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 95 |
+| This game is Highly Recommended | 101 |
 | This game has Challenging Combat | 86 |
 | This game has Diverse Characters | 84 |
-| This game has Amazing Characters | 81 |
+| This game has Amazing Characters | 83 |
 | This game has Competitive Players | 74 |
 | This game has Amazing Storytelling | 72 |
 | This game is Extremely Fun | 71 |
@@ -112,4 +112,4 @@ Diff (max vs sum): 56
 | 2023-05-09 | 4.42 | 88 | 502 |
 | 2023-05-10 | 4.42 | 88 | 586 |
 | 2023-05-11 | 4.42 | 95 | 624 |
-| 2023-05-12 | 4.42 | 95 | 627 |
+| 2023-05-12 | 4.42 | 101 | 635 |

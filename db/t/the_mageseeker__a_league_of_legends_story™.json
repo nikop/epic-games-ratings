@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 1968,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1534,9 +1534,9 @@
       "ID": "STB_SECONDARY_ASSAULT_II",
       "SetID": "3pe2bac",
       "Name": "Cypress Glen Headquarters",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 610
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1558,9 +1558,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 236
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -1623,8 +1623,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-12T14:04:52.9628886+00:00",
+  "LastChanged_Achievements": "2023-05-12T15:05:21.0129953+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:57:29.1222762+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:04:52.9629412+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:57:30.5640582+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:05:21.0130369+00:00"
 }

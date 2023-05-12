@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -461,9 +461,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVEL_015",
@@ -542,8 +542,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-12T14:04:49.5921442+00:00",
+  "LastChanged_Achievements": "2023-05-12T15:05:17.4018796+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:19.9702608+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:57:50.4545801+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:04:49.5921625+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:57:56.5558777+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:05:17.401894+00:00"
 }

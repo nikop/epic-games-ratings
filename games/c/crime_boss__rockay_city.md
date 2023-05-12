@@ -5,22 +5,22 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,686 |
-| First One’s Free | 64.00% | ~38,300 |
-| Neophyte Ninja | 50.00% | ~29,922 |
-| Too Old for This | 47.00% | ~28,127 |
-| Fancy Pants | 35.00% | ~20,945 |
-| Case Closed | 34.00% | ~20,347 |
-| King of the Hill | 33.00% | ~19,749 |
-| Underworld Initiate | 29.00% | ~17,355 |
-| Roid Ranger | 21.00% | ~12,567 |
-| True Player | 19.00% | ~11,370 |
-| Off the Rocks | 18.00% | ~10,772 |
-| Raider’s Ruin | 16.00% | ~9,575 |
-| Dragonslayer | 16.00% | ~9,575 |
+| Downed but Not Outed | 73.00% | ~43,689 |
+| First One’s Free | 64.00% | ~38,303 |
+| Neophyte Ninja | 50.00% | ~29,924 |
+| Too Old for This | 47.00% | ~28,129 |
+| Fancy Pants | 35.00% | ~20,947 |
+| Case Closed | 34.00% | ~20,348 |
+| King of the Hill | 33.00% | ~19,750 |
+| Underworld Initiate | 29.00% | ~17,356 |
+| Roid Ranger | 21.00% | ~12,568 |
+| True Player | 19.00% | ~11,371 |
+| Off the Rocks | 18.00% | ~10,773 |
+| Raider’s Ruin | 16.00% | ~9,576 |
+| Dragonslayer | 16.00% | ~9,576 |
 | Hidden Sonata | 13.00% | ~7,780 |
-| Classy Joint | 10.00% | ~5,984 |
-| Rockay Rex | 10.00% | ~5,984 |
+| Classy Joint | 10.00% | ~5,985 |
+| Rockay Rex | 10.00% | ~5,985 |
 | Track Star | 9.00% | ~5,386 |
 | Freebooter | 9.00% | ~5,386 |
 | I Like Trains | 8.00% | ~4,788 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~299 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,844 (Ranked 67)  
+Progressed: 59,848 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,14 +65,14 @@ Completed: 29 (0.05%) (Ranked 170)
 | 2023-05-09 | 59,546 | 28 |
 | 2023-05-10 | 59,655 | 28 |
 | 2023-05-11 | 59,781 | 29 |
-| 2023-05-12 | 59,844 | 29 |
+| 2023-05-12 | 59,848 | 29 |
 ## Awards
-Max (Highly Recommended): 249  (Ranked 239)  
-Sum: 1,185 (Ranked 220)  
-Diff (max vs sum): 19  
+Max (Highly Recommended): 256  (Ranked 237)  
+Sum: 1,192 (Ranked 220)  
+Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 249 |
+| This game is Highly Recommended | 256 |
 | This game has Diverse Characters | 238 |
 | This game has Amazing Characters | 237 |
 | This game has Quickly Understood Controls | 231 |
@@ -127,4 +127,4 @@ Diff (max vs sum): 19
 | 2023-05-09 | 3.94 | 246 | 1,149 |
 | 2023-05-10 | 3.94 | 249 | 1,167 |
 | 2023-05-11 | 3.94 | 249 | 1,179 |
-| 2023-05-12 | 3.93 | 249 | 1,185 |
+| 2023-05-12 | 3.93 | 256 | 1,192 |

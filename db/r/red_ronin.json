@@ -2,9 +2,9 @@
   "ID": "b9dc20c9c82142f39378eee96ab7aaf7",
   "Name": "Red Ronin",
   "ProductSlug": "red-ronin-d2678c",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-03-17T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.2317068+00:00",
   "LastChanged": "2023-03-31T05:57:54.2317069+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.8416554+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:59:04.063096+00:00",
-  "LastUpdate_Achievements": "2023-05-12T14:03:59.6051139+00:00"
+  "LastUpdate_Ratings": "2023-05-12T14:59:27.1919948+00:00",
+  "LastUpdate_Achievements": "2023-05-12T15:04:14.8354482+00:00"
 }

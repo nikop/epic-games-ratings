@@ -17,8 +17,8 @@ Rating: 4.72 (Ranked 165)
 | Past trauma | 32.00% | ~630 |
 | Thornbarrow | 32.00% | ~630 |
 | Ternmoat Headquarters | 32.00% | ~630 |
+| Cypress Glen Headquarters | 31.00% | ~610 |
 | Elemental master | 30.00% | ~590 |
-| Cypress Glen Headquarters | 30.00% | ~590 |
 | Old friend | 26.00% | ~512 |
 | Petricite Burst | 26.00% | ~512 |
 | Devineur | 25.00% | ~492 |
@@ -42,7 +42,7 @@ Rating: 4.72 (Ranked 165)
 | True power | 12.00% | ~236 |
 | Meltridge | 12.00% | ~236 |
 | The Central Headquarters | 12.00% | ~236 |
-| Cloven Dell Headquarters | 11.00% | ~216 |
+| Cloven Dell Headquarters | 12.00% | ~236 |
 | Whispers in the Woods IV | 10.00% | ~197 |
 | Embrace the darkness | 9.00% | ~177 |
 | I smell fear | 9.00% | ~177 |

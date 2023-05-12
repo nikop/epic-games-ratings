@@ -10,8 +10,8 @@
 | Freshen Up | 48.00% | ~12 |
 | GG EZ | 40.00% | ~10 |
 | Hydrophobia | 24.00% | ~6 |
+| Stop Right There | 20.00% | ~5 |
 | Ka-Ching! | 16.00% | ~4 |
-| Stop Right There | 16.00% | ~4 |
 | Get to the Point | 16.00% | ~4 |
 | Grand Escape | 8.00% | ~2 |
 | Space Warrior: Prologue | 8.00% | ~2 |

@@ -13,17 +13,17 @@ Rating: 4.54 (Ranked 477)
 | Breaking Protocol | 0.70% | ~13 |
 | Permanent Redesigns | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |
+| Hope Seeker | 0.70% | ~13 |
 | Guy de Borderlands | 0.60% | ~11 |
 | Space Society | 0.60% | ~11 |
 | A Thousand Strong | 0.60% | ~11 |
 | Exceeding Capacity | 0.60% | ~11 |
 | Fully Recycled | 0.60% | ~11 |
 | Ain't Nobody Got Time for That | 0.60% | ~11 |
-| Hope Seeker | 0.60% | ~11 |
 | Power Outage | 0.50% | ~9 |
 | Sightseeing | 0.40% | ~8 |
+| A Hunk of Junk | 0.40% | ~8 |
 | Convenient Transport | 0.40% | ~8 |
-| A Hunk of Junk | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |
 | Access Granted | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |

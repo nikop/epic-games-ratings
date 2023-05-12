@@ -5,15 +5,15 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~913 |
-| World Map | 79.00% | ~767 |
-| Temple of Eternals | 55.00% | ~534 |
+| Victor | 94.00% | ~914 |
+| World Map | 79.00% | ~768 |
+| Temple of Eternals | 55.00% | ~535 |
 | Prestigious | 52.00% | ~505 |
 | Fellowship Power | 39.00% | ~379 |
-| Guild Power | 23.00% | ~223 |
+| Guild Power | 23.00% | ~224 |
 | Prestigious x10 | 20.00% | ~194 |
 | The game is on | 17.00% | ~165 |
-| Exotic Merchant | 16.00% | ~155 |
+| Exotic Merchant | 16.00% | ~156 |
 | Dragon Clicker | 14.00% | ~136 |
 | Miner Clicker | 14.00% | ~136 |
 | Inspection | 13.00% | ~126 |
@@ -24,16 +24,16 @@ Rating: 3.64 (Ranked 917)
 | Lieutenant | 9.00% | ~87 |
 | Natural Talent | 7.00% | ~68 |
 | The Unstoppable | 7.00% | ~68 |
+| Mysterious Rock | 6.00% | ~58 |
+| Scientist | 6.00% | ~58 |
 | Superior | 6.00% | ~58 |
 | Daily Quest Completionist | 5.00% | ~49 |
-| Mysterious Rock | 5.00% | ~49 |
-| Scientist | 5.00% | ~49 |
-| Milestone collector | 4.00% | ~39 |
 | Background Story | 3.00% | ~29 |
 | Challenger | 3.00% | ~29 |
 | Frostfire Liberator | 3.00% | ~29 |
 | Hunter | 3.00% | ~29 |
 | Mastery | 3.00% | ~29 |
+| Milestone collector | 3.00% | ~29 |
 | Scroll Master | 3.00% | ~29 |
 | The Expeditioner | 3.00% | ~29 |
 | The power of Awakening | 3.00% | ~29 |
@@ -48,8 +48,8 @@ Rating: 3.64 (Ranked 917)
 | What lies behind the bush | 2.00% | ~19 |
 | Four Leaf Clover | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
+| Relic Of The Past | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
-| Relic Of The Past | 0.90% | ~9 |
 | Dragon Slayer | 0.80% | ~8 |
 | Engineer Mastery | 0.70% | ~7 |
 | Weekly Quest Completionist | 0.70% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 971 (Ranked 164)  
+Progressed: 972 (Ranked 164)  
 Completed: 1 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.10%) (Ranked 155)
 | 2023-05-09 | 935 | 1 |
 | 2023-05-10 | 948 | 1 |
 | 2023-05-11 | 962 | 1 |
-| 2023-05-12 | 971 | 1 |
+| 2023-05-12 | 972 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
