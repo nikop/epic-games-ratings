@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 19.00% | ~8,763 |
-| Let There Be Light | 16.00% | ~7,379 |
+| Let There Be Light | 16.00% | ~7,380 |
 | Float Like a Butterfly | 15.00% | ~6,918 |
 | Nordic Walking | 13.00% | ~5,996 |
 | Bright Falls' Finest | 12.00% | ~5,535 |
@@ -22,14 +22,14 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 8.00% | ~3,690 |
 | Damn Good Cup of Coffee | 8.00% | ~3,690 |
 | A Friend in Need | 8.00% | ~767 |
-| Heavy Metal | 7.00% | ~3,228 |
-| Iron Horse | 7.00% | ~3,228 |
-| Perchance to Dream | 7.00% | ~3,228 |
-| The Six-Gun Scribe | 7.00% | ~3,228 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,228 |
-| Thunder and Lightning | 7.00% | ~3,228 |
-| Collateral Carnage | 7.00% | ~3,228 |
-| Come One, Come All | 7.00% | ~3,228 |
+| Heavy Metal | 7.00% | ~3,229 |
+| Iron Horse | 7.00% | ~3,229 |
+| Perchance to Dream | 7.00% | ~3,229 |
+| The Six-Gun Scribe | 7.00% | ~3,229 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,229 |
+| Thunder and Lightning | 7.00% | ~3,229 |
+| Collateral Carnage | 7.00% | ~3,229 |
+| Come One, Come All | 7.00% | ~3,229 |
 | Gatekeeper | 6.00% | ~2,767 |
 | The Lady of the Light | 6.00% | ~2,767 |
 | Two For the Price of One | 6.00% | ~2,767 |
@@ -38,7 +38,7 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,306 |
 | What Light Through Yonder Window | 5.00% | ~2,306 |
 | Right of Way | 5.00% | ~2,306 |
-| Ding! | 5.00% | ~479 |
+| Ding! | 5.00% | ~480 |
 | Departure | 4.00% | ~1,845 |
 | Children of the Elder God | 3.00% | ~1,384 |
 | Drink 'Em Both Up | 3.00% | ~1,384 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,121 (Ranked 75)  
+Progressed: 46,122 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 44 (0.10%) (Ranked 155)
 | 2023-05-09 | 46,097 | 44 |
 | 2023-05-10 | 46,108 | 44 |
 | 2023-05-11 | 46,117 | 44 |
-| 2023-05-12 | 46,121 | 44 |
+| 2023-05-12 | 46,122 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -10,8 +10,8 @@ Rating: 4.67 (Ranked 256)
 | South American Connection | 23.00% | ~1,407 |
 | Life of the Party | 17.00% | ~1,040 |
 | Big Heat from Little Havana | 13.00% | ~795 |
+| Chauffeur | 13.00% | ~795 |
 | Tommy Two-Wheels | 13.00% | ~795 |
-| Chauffeur | 12.00% | ~734 |
 | Iron-y | 9.00% | ~551 |
 | Salutations My Little Friend | 9.00% | ~551 |
 | Gun for Hire | 7.00% | ~428 |

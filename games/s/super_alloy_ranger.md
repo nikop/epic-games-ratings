@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Iceberg Theory | 75.00% | ~18 |
-| Gear Up | 58.00% | ~14 |
-| A Grand Show | 58.00% | ~14 |
+| Gear Up | 63.00% | ~15 |
+| A Grand Show | 63.00% | ~15 |
 | Freshen Up | 50.00% | ~12 |
 | GG EZ | 42.00% | ~10 |
 | Hydrophobia | 25.00% | ~6 |
@@ -17,12 +17,12 @@
 | Space Warrior: Prologue | 8.00% | ~2 |
 | The Hidden Secret | 8.00% | ~2 |
 | Toe to Toe | 8.00% | ~2 |
+| Phew! | 8.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~1 |
 | Mr. Want It All | 4.00% | ~1 |
 | Antaeus | 4.00% | ~1 |
 | Air Interception | 4.00% | ~1 |
 | Proliferation | 4.00% | ~1 |
-| Phew! | 4.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Deep Frozen Conqueror | 0.00% | ~0 |
 | The Abyss Conqueror | 0.00% | ~0 |

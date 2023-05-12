@@ -21,8 +21,8 @@ Rating: 4.54 (Ranked 477)
 | Hope Seeker | 0.60% | ~11 |
 | Power Outage | 0.50% | ~9 |
 | Ain't Nobody Got Time for That | 0.50% | ~9 |
-| Sightseeing | 0.40% | ~7 |
-| Convenient Transport | 0.40% | ~7 |
+| Sightseeing | 0.40% | ~8 |
+| Convenient Transport | 0.40% | ~8 |
 | A Hunk of Junk | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |
 | Access Granted | 0.30% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,874 (Ranked 146)  
+Progressed: 1,875 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 1,862 | 0 |
 | 2023-05-10 | 1,870 | 0 |
 | 2023-05-11 | 1,874 | 0 |
+| 2023-05-12 | 1,875 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

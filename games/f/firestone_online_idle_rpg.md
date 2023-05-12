@@ -5,18 +5,18 @@ Rating: 3.61 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~897 |
-| World Map | 79.00% | ~762 |
+| Victor | 93.00% | ~898 |
+| World Map | 79.00% | ~763 |
 | Temple of Eternals | 55.00% | ~531 |
 | Prestigious | 52.00% | ~502 |
-| Fellowship Power | 39.00% | ~376 |
+| Fellowship Power | 39.00% | ~377 |
 | Guild Power | 23.00% | ~222 |
-| Prestigious x10 | 19.00% | ~183 |
-| The game is on | 16.00% | ~154 |
+| Prestigious x10 | 19.00% | ~184 |
+| The game is on | 16.00% | ~155 |
 | Exotic Merchant | 15.00% | ~145 |
 | Dragon Clicker | 14.00% | ~135 |
 | Miner Clicker | 14.00% | ~135 |
-| Inspection | 13.00% | ~125 |
+| Inspection | 13.00% | ~126 |
 | Full Party | 12.00% | ~116 |
 | Hero inspection | 12.00% | ~116 |
 | Lieutenant | 9.00% | ~87 |
@@ -43,11 +43,11 @@ Rating: 3.61 (Ranked 917)
 | How Do You Turn This On? | 2.00% | ~19 |
 | Missions Dedication | 2.00% | ~19 |
 | Moving Up The Ladder | 2.00% | ~19 |
+| Trader | 2.00% | ~19 |
 | What lies behind the bush | 2.00% | ~19 |
 | Four Leaf Clover | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
 | The father of Dragons | 1.00% | ~10 |
-| Trader | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
 | Relic Of The Past | 0.90% | ~9 |
 | Dragon Slayer | 0.80% | ~8 |
@@ -81,7 +81,7 @@ Rating: 3.61 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 965 (Ranked 165)  
+Progressed: 966 (Ranked 164)  
 Completed: 1 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.10%) (Ranked 155)
 | 2023-05-09 | 935 | 1 |
 | 2023-05-10 | 948 | 1 |
 | 2023-05-11 | 962 | 1 |
-| 2023-05-12 | 965 | 1 |
+| 2023-05-12 | 966 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

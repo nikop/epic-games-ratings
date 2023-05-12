@@ -21,9 +21,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 0.70% | ~103 |
 | Homesick | 0.60% | ~89 |
 | Ancient Battleground | 0.60% | ~89 |
+| Sparkdew Crystals | 0.60% | ~89 |
 | Royal Outpost | 0.60% | ~89 |
 | Cursed Lands | 0.60% | ~89 |
-| Sparkdew Crystals | 0.50% | ~74 |
 | Dangerous Lands | 0.50% | ~74 |
 | Flooded Mines | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |

@@ -10,7 +10,7 @@
 | Police officers ✔ | 25.00% | ~40 |
 | Mutation ✔ | 22.00% | ~35 |
 | Doberman ✔ | 12.00% | ~19 |
-| Chess ✔ | 8.00% | ~13 |
+| Chess ✔ | 9.00% | ~14 |
 | Weapon ✔ | 8.00% | ~13 |
 | Survival ✔ | 7.00% | ~11 |
 | Hospital ✔ | 7.00% | ~11 |

@@ -28,12 +28,12 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 5.00% | ~58 |
 | Another Tale to Tell | 5.00% | ~58 |
 | Plague Doctor | 4.00% | ~46 |
+| Legends Never Die | 4.00% | ~46 |
 | A Hunger, Sated | 4.00% | ~46 |
 | Wingknight's Prowess | 4.00% | ~46 |
 | All My Birds, Safely Home | 4.00% | ~46 |
 | Turncoat | 4.00% | ~46 |
 | Worldwalker | 3.00% | ~35 |
-| Legends Never Die | 3.00% | ~35 |
 | In Soil, In Smoke | 3.00% | ~35 |
 | Bears are Scary | 3.00% | ~35 |
 | Grillmaster | 3.00% | ~35 |

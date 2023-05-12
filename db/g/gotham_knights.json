@@ -1058,9 +1058,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60804,
+  "EOS_Progressed": 60805,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2323,6 +2323,11 @@
       "Time": "2023-05-12T04:06:06.8349337+00:00",
       "NumProgressed": 60804,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-12T05:05:10.5007727+00:00",
+      "NumProgressed": 60805,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 61,
@@ -2452,9 +2457,9 @@
       "ID": "CLAYFACE_3",
       "SetID": "4eo5ebm",
       "Name": "Rock and a Hard Place",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 243
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -2821,13 +2826,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60804,
+      "Progressed": 60805,
       "Completed": 90
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31084,
+      "Progressed": 31085,
       "Completed": 2635
     }
   ],
@@ -2835,8 +2840,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-12T01:55:55.6076416+00:00",
-  "LastChanged_Achievements": "2023-05-12T04:06:06.8349333+00:00",
+  "LastChanged_Achievements": "2023-05-12T05:05:10.5007723+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-12T03:59:55.9967213+00:00",
-  "LastUpdate_Achievements": "2023-05-12T04:06:06.8349918+00:00"
+  "LastUpdate_Ratings": "2023-05-12T04:59:05.0067249+00:00",
+  "LastUpdate_Achievements": "2023-05-12T05:05:10.5008389+00:00"
 }

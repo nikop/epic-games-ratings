@@ -16,11 +16,11 @@ Rating: 4.75 (Ranked 126)
 | Hat-trick | 60.00% | ~37,658 |
 | "I Would Love It If We Beat Them" | 58.00% | ~36,403 |
 | Planned Signing | 57.00% | ~35,775 |
+| Scoring Streak | 54.00% | ~33,892 |
 | Thumping | 53.00% | ~33,264 |
-| Scoring Streak | 53.00% | ~33,264 |
 | Wheeler Dealer | 52.00% | ~32,637 |
+| Unbeatable! | 51.00% | ~32,009 |
 | People Pleaser | 51.00% | ~32,009 |
-| Unbeatable! | 50.00% | ~31,382 |
 | One Of Our Own | 47.00% | ~29,499 |
 | They're a Natural | 44.00% | ~27,616 |
 | Team Performance | 43.00% | ~26,988 |
