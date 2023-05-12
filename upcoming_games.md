@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 2021-09-28 |
 | [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |
 | [Fusion Paradox](games/f/fusion_paradox.md) | 2023-05-12 | 2023-04-10 |
 | [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-13 | 2023-05-31 |
@@ -12,6 +11,7 @@
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
+| [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-04-06 |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
@@ -34,7 +34,6 @@
 | [Shame Legacy](games/s/shame_legacy.md) | 2023-05-30 | 2023-05-30 |
 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 2023-05-30 | 2023-05-30 |
 | [System Shock](games/s/system_shock.md) | 2023-05-30 | 2023-05-30 |
-| [Backbeat](games/b/backbeat.md) | 2023-05-31 | 2023-03-16 |
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-05-31 | 2022-12-02 |
 | [Bob A thousand lives](games/b/bob_a_thousand_lives.md) | 2023-05-31 | 2022-09-06 |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | 2023-05-31 |
@@ -47,6 +46,7 @@
 | [Worlds War 1](games/w/worlds_war_1.md) | 2023-05-31 | 2023-05-31 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-05-31 | 2023-05-31 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 2023-04-06 |
+| [Search](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | 2022-08-29 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 2023-06-16 |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | 2023-06-20 |

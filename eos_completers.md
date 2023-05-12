@@ -14,13 +14,13 @@
 | 12 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 14 | [Remains](games/r/remains.md) | 11.11% |
-| 14 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 11.11% |
-| 16 | [Smelter](games/s/smelter.md) | 10.00% |
+| 15 | [Smelter](games/s/smelter.md) | 10.00% |
+| 15 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 10.00% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.77% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
@@ -397,4 +397,4 @@
 | 198 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,595 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,596 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
