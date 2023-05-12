@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |
 | [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 2021-09-28 |
 | [Mobilization](games/9/9df3ec873af34f9ab4e6e13fb4a17248.md) | 2023-05-12 | 2023-04-21 |
 | [Vacation Adventures: Cruise Director 8 CE](games/v/vacation_adventures__cruise_director_8_ce.md) | 2023-05-12 | 2023-05-12 |
@@ -163,4 +164,3 @@
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 2023-04-12 |
 | [The First Spark](games/t/the_first_spark.md) | 2023-04-12 | 2023-04-12 |
 | [Soda Story - Brewing Tycoon](games/s/soda_story_-_brewing_tycoon.md) | 2023-04-12 | 2022-07-20 |
-| [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 2022-12-05 |

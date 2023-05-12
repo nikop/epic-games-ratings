@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |
 | [Fusion Paradox](games/f/fusion_paradox.md) | 2023-05-12 | 2023-04-10 |
 | [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-13 | 2023-05-31 |
 | [Georifters](games/g/georifters.md) | 2023-05-14 | 2020-05-28 |
@@ -14,6 +13,7 @@
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-04-06 |
+| [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 2023-05-19 | 2022-11-03 |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
