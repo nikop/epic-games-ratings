@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-12 | 2022-05-05 |
 | [Vacation Adventures: Cruise Director 8 CE](games/v/vacation_adventures__cruise_director_8_ce.md) | 2023-05-12 | 2023-05-12 |
 | [Mobilization](games/9/9df3ec873af34f9ab4e6e13fb4a17248.md) | 2023-05-12 | 2023-04-21 |
 | [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 2021-09-28 |
@@ -31,6 +30,7 @@
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 2023-05-26 |
 | [The Shape of Things](games/6/610757afe5b8478f89000d9779c205ef.md) | 2023-05-26 | 2023-05-26 |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | 2023-05-26 |
+| [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-05-28 | 2023-05-28 |
 | [Everdream Valley](games/e/everdream_valley.md) | 2023-05-29 | 2023-05-29 |
 | [Shame Legacy](games/s/shame_legacy.md) | 2023-05-30 | 2023-05-30 |
 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 2023-05-30 | 2023-05-30 |

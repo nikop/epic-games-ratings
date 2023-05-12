@@ -11,8 +11,8 @@
 | [Age of Rust](games/a/age_of_rust.md) | 2023-12-31 | 2023-12-31 |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | 2023-02-02 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | 2023-11-30 |
+| [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-05-28 | 2023-05-28 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | 2023-05-08 |
-| [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-04-30 | 2023-04-30 |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | 2023-04-26 | 2023-05-01 |
 | [canVERSE](games/c/canverse.md) | 2023-03-31 | 2022-06-07 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | 2023-03-08 |

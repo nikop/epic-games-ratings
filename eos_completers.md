@@ -7,8 +7,8 @@
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 19.35% |
-| 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 9 | [Island Cities](games/i/island_cities.md) | 17.65% |
+| 8 | [Island Cities](games/i/island_cities.md) | 19.12% |
+| 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 12 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -25,7 +25,7 @@
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.55% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.53% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |

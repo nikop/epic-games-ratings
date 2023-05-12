@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-12 | 2022-05-05 |
 | [Infindustry](games/i/infindustry.md) | 2023-05-11 | 2022-05-03 |
 | [Ungate](games/u/ungate.md) | 2023-05-11 | 2023-05-11 |
 | [Death to Spies](games/4/4d40161c73db44369e250c40015e4f52.md) | 2023-05-11 | 2007-10-16 |
@@ -70,7 +71,6 @@
 | [Lua Zombies](games/l/lua_zombies.md) | 2023-04-30 | 2023-04-30 |
 | [Active Soccer 2023](games/a/active_soccer_2023.md) | 2023-04-30 | 2023-03-29 |
 | [Battle Ram](games/b/battle_ram.md) | 2023-04-30 | 2020-03-21 |
-| [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-04-30 | 2023-04-30 |
 | [Everlasting Guilt](games/e/everlasting_guilt.md) | 2023-04-30 | 2021-07-11 |
 | [Lichenvale](games/l/lichenvale.md) | 2023-04-30 | 2023-04-30 |
 | [Lynn](games/l/lynn.md) | 2023-04-30 | 2023-04-30 |
