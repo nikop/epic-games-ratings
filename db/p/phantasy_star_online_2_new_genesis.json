@@ -4,7 +4,7 @@
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 466,
   "Ranking_Popularity": 145,
-  "Ranking_PopularitySum": 138,
+  "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
@@ -1905,10 +1905,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3655,
       "NumberOfAwardsMax": 839
+    },
+    {
+      "Time": "2023-05-12T13:02:28.4738319+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3659,
+      "NumberOfAwardsMax": 839
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3655,
+  "NumberOfAwards": 3659,
   "NumberOfAwardsMax": 839,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1934,7 +1940,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 236
+      "Count": 240
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1996,8 +2002,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-05-12T07:58:28.5614691+00:00",
+  "LastChanged": "2023-05-12T13:02:28.4738318+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:33.2267851+00:00",
-  "LastUpdate_Ratings": "2023-05-12T11:58:03.7308357+00:00",
+  "LastUpdate_Ratings": "2023-05-12T13:02:28.4738323+00:00",
   "LastUpdate_Achievements": "2023-05-12T12:00:35.2981948+00:00"
 }

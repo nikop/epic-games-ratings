@@ -3920,10 +3920,16 @@
       "Rating": 3.98,
       "NumberOfAwards": 26546,
       "NumberOfAwardsMax": 4561
+    },
+    {
+      "Time": "2023-05-12T13:02:33.5492413+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 26547,
+      "NumberOfAwardsMax": 4561
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26546,
+  "NumberOfAwards": 26547,
   "NumberOfAwardsMax": 4561,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3955,7 +3961,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3935
+      "Count": 3936
     },
     {
       "Text": "This game is Relaxing",
@@ -3976,9 +3982,9 @@
       "Count": 3666
     }
   ],
-  "EOS_Progressed": 128052,
+  "EOS_Progressed": 128053,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5811,6 +5817,11 @@
       "Time": "2023-05-12T12:05:06.6521388+00:00",
       "NumProgressed": 128052,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-05-12T13:09:29.3219634+00:00",
+      "NumProgressed": 128053,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 112,
@@ -5822,7 +5833,7 @@
       "Name": "The Daily Grind",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 57623
+      "UsersEstimate": 57624
     },
     {
       "ID": "advlevel02",
@@ -5902,7 +5913,7 @@
       "Name": "One Easy Payment",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 76831
+      "UsersEstimate": 76832
     },
     {
       "ID": "bigsale02",
@@ -5910,7 +5921,7 @@
       "Name": "Tax not Included",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 25610
+      "UsersEstimate": 25611
     },
     {
       "ID": "bigsale03",
@@ -5990,7 +6001,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124210
+      "UsersEstimate": 124211
     },
     {
       "ID": "chest02",
@@ -6054,7 +6065,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 116527
+      "UsersEstimate": 116528
     },
     {
       "ID": "commonres02",
@@ -6062,7 +6073,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 49940
+      "UsersEstimate": 49941
     },
     {
       "ID": "commonres03",
@@ -6094,7 +6105,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 52501
+      "UsersEstimate": 52502
     },
     {
       "ID": "craft03",
@@ -6126,7 +6137,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55062
+      "UsersEstimate": 55063
     },
     {
       "ID": "damage02",
@@ -6198,7 +6209,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 89636
+      "UsersEstimate": 89637
     },
     {
       "ID": "expansion02",
@@ -6262,7 +6273,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30732
+      "UsersEstimate": 30733
     },
     {
       "ID": "fuselegendary",
@@ -6278,7 +6289,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 23049
+      "UsersEstimate": 23050
     },
     {
       "ID": "gemsspent",
@@ -6294,7 +6305,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 111405
+      "UsersEstimate": 111406
     },
     {
       "ID": "gold02",
@@ -6310,7 +6321,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 47379
+      "UsersEstimate": 47380
     },
     {
       "ID": "gold04",
@@ -6406,7 +6417,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 84514
+      "UsersEstimate": 84515
     },
     {
       "ID": "level02",
@@ -6446,7 +6457,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55062
+      "UsersEstimate": 55063
     },
     {
       "ID": "loot02",
@@ -6478,7 +6489,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 60184
+      "UsersEstimate": 60185
     },
     {
       "ID": "master02",
@@ -6534,7 +6545,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 44818
+      "UsersEstimate": 44819
     },
     {
       "ID": "quest02",
@@ -6598,7 +6609,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 96039
+      "UsersEstimate": 96040
     },
     {
       "ID": "sell02",
@@ -6638,7 +6649,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 122930
+      "UsersEstimate": 122931
     },
     {
       "ID": "twinenchant01",
@@ -6686,7 +6697,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 76831
+      "UsersEstimate": 76832
     },
     {
       "ID": "workers02",
@@ -6717,15 +6728,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 128052,
+      "Progressed": 128053,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-05-12T04:57:56.0424856+00:00",
-  "LastChanged_Achievements": "2023-05-12T12:05:06.6521384+00:00",
+  "LastChanged": "2023-05-12T13:02:33.5492411+00:00",
+  "LastChanged_Achievements": "2023-05-12T13:09:29.3219628+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:38.2111116+00:00",
-  "LastUpdate_Ratings": "2023-05-12T11:58:09.6446304+00:00",
-  "LastUpdate_Achievements": "2023-05-12T12:05:06.6522668+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:02:33.5492423+00:00",
+  "LastUpdate_Achievements": "2023-05-12T13:09:29.3221415+00:00"
 }

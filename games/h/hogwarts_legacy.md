@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,000 |
-| The One Who Mastered Memories | 6.00% | ~16,000 |
+| Grappling with a Graphorn | 6.00% | ~16,001 |
+| The One Who Mastered Memories | 6.00% | ~16,001 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,334 |
 | The Hallowed Hero | 5.00% | ~13,334 |
 | The Hero of Hogwarts | 5.00% | ~13,334 |
@@ -30,13 +30,13 @@ Rating: 4.77 (Ranked 103)
 | The Root of the Problem | 3.00% | ~8,000 |
 | Third Time's a Charm | 3.00% | ~8,000 |
 | Raising Expectations | 3.00% | ~8,000 |
-| The Toast of the Town | 2.00% | ~5,333 |
-| Going Through the Potions | 2.00% | ~5,333 |
-| Room with a View | 2.00% | ~5,333 |
-| Floo Around the World | 2.00% | ~5,333 |
-| The Intrepid Explorer | 2.00% | ~5,333 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,333 |
-| The Ends Petrify the Means | 2.00% | ~5,333 |
+| The Toast of the Town | 2.00% | ~5,334 |
+| Going Through the Potions | 2.00% | ~5,334 |
+| Room with a View | 2.00% | ~5,334 |
+| Floo Around the World | 2.00% | ~5,334 |
+| The Intrepid Explorer | 2.00% | ~5,334 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,334 |
+| The Ends Petrify the Means | 2.00% | ~5,334 |
 | The Good Samaritan | 1.00% | ~2,667 |
 | Put Down Roots | 1.00% | ~2,667 |
 | The Auror's Apprentice | 1.00% | ~2,667 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,067 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,672 (Ranked 38)  
+Progressed: 266,681 (Ranked 38)  
 Completed: 359 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-09 | 266,399 | 356 |
 | 2023-05-10 | 266,527 | 358 |
 | 2023-05-11 | 266,628 | 359 |
-| 2023-05-12 | 266,672 | 359 |
+| 2023-05-12 | 266,681 | 359 |
 ## Awards
 Max (Character Customization): 18,654  (Ranked 18)  
 Sum: 34,149 (Ranked 33)  

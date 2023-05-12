@@ -18,9 +18,9 @@ Rating: 4.54 (Ranked 477)
 | A Thousand Strong | 0.60% | ~11 |
 | Exceeding Capacity | 0.60% | ~11 |
 | Fully Recycled | 0.60% | ~11 |
+| Ain't Nobody Got Time for That | 0.60% | ~11 |
 | Hope Seeker | 0.60% | ~11 |
 | Power Outage | 0.50% | ~9 |
-| Ain't Nobody Got Time for That | 0.50% | ~9 |
 | Sightseeing | 0.40% | ~8 |
 | Convenient Transport | 0.40% | ~8 |
 | A Hunk of Junk | 0.30% | ~6 |

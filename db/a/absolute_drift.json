@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515828,
+  "EOS_Progressed": 1515834,
   "EOS_Completed": 601,
-  "EOS_NewPlayers": 1425,
+  "EOS_NewPlayers": 1419,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2435,6 +2435,11 @@
       "Time": "2023-05-12T12:05:21.6710917+00:00",
       "NumProgressed": 1515828,
       "NumCompleted": 601
+    },
+    {
+      "Time": "2023-05-12T13:09:43.6879943+00:00",
+      "NumProgressed": 1515834,
+      "NumCompleted": 601
     }
   ],
   "TotalAchievements": 20,
@@ -2558,7 +2563,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121266
+      "UsersEstimate": 121267
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -2590,7 +2595,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75791
+      "UsersEstimate": 75792
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -2598,22 +2603,22 @@
       "Name": "Washing Machine",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4548
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1515828,
+      "Progressed": 1515834,
       "Completed": 601
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-12T12:05:21.6710912+00:00",
+  "LastChanged_Achievements": "2023-05-12T13:09:43.6879934+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.6784985+00:00",
-  "LastUpdate_Ratings": "2023-05-12T11:59:39.7320408+00:00",
-  "LastUpdate_Achievements": "2023-05-12T12:05:21.6711114+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:04:05.9038814+00:00",
+  "LastUpdate_Achievements": "2023-05-12T13:09:43.68803+00:00"
 }

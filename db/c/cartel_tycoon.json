@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 318,
+  "EOS_Progressed": 319,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -490,6 +490,11 @@
       "Time": "2023-05-11T12:05:16.3897764+00:00",
       "NumProgressed": 318,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T13:09:47.2308823+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -501,7 +506,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "cool-shirts",
@@ -525,7 +530,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "female-conqueror",
@@ -549,7 +554,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "kill-lieutenants",
@@ -557,7 +562,7 @@
       "Name": "Spreading Fear",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "pack-and-sell",
@@ -565,7 +570,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "play-at-night",
@@ -573,7 +578,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "product-profit",
@@ -581,7 +586,7 @@
       "Name": "Follow the Money",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "rage-quit",
@@ -589,7 +594,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "rename-lieutenant",
@@ -597,7 +602,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "rob-village",
@@ -611,9 +616,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "send-smuggling",
@@ -621,7 +626,7 @@
       "Name": "Camellos",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "unlock-residences",
@@ -637,7 +642,7 @@
       "Name": "Take-Off",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "use-submarine",
@@ -652,15 +657,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 318,
+      "Progressed": 319,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-12T12:05:25.2165621+00:00",
+  "LastChanged_Achievements": "2023-05-12T13:09:47.2308815+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.865388+00:00",
-  "LastUpdate_Ratings": "2023-05-12T11:59:39.8760373+00:00",
-  "LastUpdate_Achievements": "2023-05-12T12:05:25.2165742+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:04:06.0282575+00:00",
+  "LastUpdate_Achievements": "2023-05-12T13:09:47.230899+00:00"
 }

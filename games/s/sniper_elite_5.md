@@ -27,9 +27,9 @@ Rating: 4.38 (Ranked 689)
 | Close Quarters | 14.00% | ~99 |
 | Just a Flesh Wound | 13.00% | ~92 |
 | Der Geist | 13.00% | ~92 |
+| Snake in the Grass | 13.00% | ~92 |
 | Set Europe Ablaze | 12.00% | ~85 |
 | Die Nussknacker Sweet! | 12.00% | ~85 |
-| Snake in the Grass | 12.00% | ~85 |
 | Brains of the Operation | 12.00% | ~85 |
 | No Stone Unturned | 11.00% | ~78 |
 | Opposing Force | 11.00% | ~78 |

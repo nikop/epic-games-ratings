@@ -30,6 +30,7 @@ Number of Ratings: 87  (23.09.2022)
 | Non-Stop | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Steam Age | 2.00% | ~14 |
+| The Tortoise | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
 | Beginner | 1.00% | ~7 |
 | Bridge builder | 1.00% | ~7 |
@@ -49,7 +50,6 @@ Number of Ratings: 87  (23.09.2022)
 | Sabotage | 1.00% | ~7 |
 | Squander | 1.00% | ~7 |
 | Stargazer | 1.00% | ~7 |
-| The Tortoise | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
 | Innovator | 0.90% | ~6 |
 | Prick of conscience | 0.90% | ~6 |

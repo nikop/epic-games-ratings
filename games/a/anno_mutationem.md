@@ -5,13 +5,13 @@ Rating: 4.55 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~451 |
+| Tell me your story | 75.00% | ~452 |
 | Don't judge a manhole by its cover | 60.00% | ~361 |
-| I just love stuff! | 40.00% | ~240 |
-| Keep 'em coming! | 39.00% | ~234 |
-| Big Spender | 37.00% | ~222 |
-| The things they print nowadays | 36.00% | ~216 |
-| That's gotta hurt | 34.00% | ~204 |
+| I just love stuff! | 40.00% | ~241 |
+| Keep 'em coming! | 39.00% | ~235 |
+| Big Spender | 37.00% | ~223 |
+| The things they print nowadays | 36.00% | ~217 |
+| That's gotta hurt | 34.00% | ~205 |
 | I think it's broke | 25.00% | ~150 |
 | The Ann Flores Combo Experience | 25.00% | ~150 |
 | Club Star | 23.00% | ~138 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 466)
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 601 (Ranked 183)  
+Progressed: 602 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,6 +56,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-06 | 598 | 0 |
 | 2023-05-07 | 599 | 0 |
 | 2023-05-09 | 601 | 0 |
+| 2023-05-12 | 602 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

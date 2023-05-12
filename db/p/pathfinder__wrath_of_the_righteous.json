@@ -2348,9 +2348,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8778,
+  "EOS_Progressed": 8779,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3368,6 +3368,11 @@
       "Time": "2023-05-12T12:05:18.0547858+00:00",
       "NumProgressed": 8778,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T13:09:40.3637224+00:00",
+      "NumProgressed": 8779,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3395,7 +3400,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "04_FithCrusade",
@@ -3515,7 +3520,7 @@
       "Name": "Mythic Choices",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "19_EqualToAroden",
@@ -3627,7 +3632,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -3641,9 +3646,9 @@
       "ID": "35_AbyssalConspiracy",
       "SetID": "989of5o",
       "Name": "Abyssal Conspiracy",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -4306,21 +4311,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7560,
+      "Progressed": 7561,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8778,
+      "Progressed": 8779,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-12T10:58:10.2367965+00:00",
-  "LastChanged_Achievements": "2023-05-12T12:05:18.0547852+00:00",
+  "LastChanged_Achievements": "2023-05-12T13:09:40.3637219+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:35.4418071+00:00",
-  "LastUpdate_Ratings": "2023-05-12T11:58:05.5680896+00:00",
-  "LastUpdate_Achievements": "2023-05-12T12:05:18.0549143+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:02:30.3664265+00:00",
+  "LastUpdate_Achievements": "2023-05-12T13:09:40.3639674+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -2226,10 +2226,10 @@
       "Count": 467
     }
   ],
-  "EOS_Progressed": 266672,
+  "EOS_Progressed": 266681,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1108,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 1115,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -4151,6 +4151,11 @@
       "Time": "2023-05-12T12:02:24.2092174+00:00",
       "NumProgressed": 266672,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2023-05-12T13:07:30.521499+00:00",
+      "NumProgressed": 266681,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 45,
@@ -4170,7 +4175,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16000
+      "UsersEstimate": 16001
     },
     {
       "ID": "PFA_11",
@@ -4178,7 +4183,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16000
+      "UsersEstimate": 16001
     },
     {
       "ID": "PFA_12",
@@ -4250,7 +4255,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5333
+      "UsersEstimate": 5334
     },
     {
       "ID": "PFA_20",
@@ -4314,7 +4319,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5333
+      "UsersEstimate": 5334
     },
     {
       "ID": "PFA_28",
@@ -4362,7 +4367,7 @@
       "Name": "Room with a View",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5333
+      "UsersEstimate": 5334
     },
     {
       "ID": "PFA_33",
@@ -4378,7 +4383,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5333
+      "UsersEstimate": 5334
     },
     {
       "ID": "PFA_35",
@@ -4410,7 +4415,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5333
+      "UsersEstimate": 5334
     },
     {
       "ID": "PFA_39",
@@ -4426,7 +4431,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5333
+      "UsersEstimate": 5334
     },
     {
       "ID": "PFA_40",
@@ -4442,7 +4447,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5333
+      "UsersEstimate": 5334
     },
     {
       "ID": "PFA_42",
@@ -4521,7 +4526,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266672,
+      "Progressed": 266681,
       "Completed": 359
     }
   ],
@@ -4529,8 +4534,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-12T11:57:13.4150431+00:00",
-  "LastChanged_Achievements": "2023-05-12T12:02:24.209217+00:00",
+  "LastChanged_Achievements": "2023-05-12T13:07:30.521498+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-12T11:57:13.4150435+00:00",
-  "LastUpdate_Achievements": "2023-05-12T12:02:24.2092579+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:01:36.3499443+00:00",
+  "LastUpdate_Achievements": "2023-05-12T13:07:30.5215562+00:00"
 }

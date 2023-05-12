@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,306 |
-| Flanked! | 80.00% | ~2,050 |
-| Economics 101 | 65.00% | ~1,665 |
-| Get Rich Quick | 48.00% | ~1,230 |
-| Do the Splits | 41.00% | ~1,050 |
-| Maestro | 28.00% | ~717 |
+| You and what Army? | 90.00% | ~2,308 |
+| Flanked! | 80.00% | ~2,051 |
+| Economics 101 | 65.00% | ~1,667 |
+| Get Rich Quick | 48.00% | ~1,231 |
+| Do the Splits | 41.00% | ~1,051 |
+| Maestro | 28.00% | ~718 |
 | Full Employment | 19.00% | ~487 |
-| Clay Fighter | 18.00% | ~461 |
-| Nowhere left to Hide | 15.00% | ~384 |
+| Clay Fighter | 18.00% | ~462 |
+| Nowhere left to Hide | 15.00% | ~385 |
 | All Ovens Blazing | 14.00% | ~359 |
 | Boulder Clash | 14.00% | ~359 |
-| Held Back by the Roots | 12.00% | ~307 |
+| Held Back by the Roots | 12.00% | ~308 |
 | Well Supplied | 11.00% | ~282 |
 | Damage Control | 8.00% | ~205 |
 | Master of the Brawl | 8.00% | ~205 |
@@ -27,10 +27,10 @@
 | An Ally in Need | 5.00% | ~128 |
 | For the Queen | 5.00% | ~128 |
 | Not a Drop Wasted | 5.00% | ~128 |
-| Reinforcements | 4.00% | ~102 |
-| Sweet Revenge | 4.00% | ~102 |
-| We Have the Technology | 4.00% | ~102 |
-| Figure of Breach | 4.00% | ~102 |
+| Reinforcements | 4.00% | ~103 |
+| Sweet Revenge | 4.00% | ~103 |
+| We Have the Technology | 4.00% | ~103 |
+| Figure of Breach | 4.00% | ~103 |
 | Work It | 3.00% | ~77 |
 | The Handyman Can! | 3.00% | ~77 |
 | A Brief Moment of Respite | 3.00% | ~77 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~26 |
 | All Geared Up | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,562 (Ranked 136)  
+Progressed: 2,564 (Ranked 136)  
 Completed: 9 (0.35%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 9 (0.35%) (Ranked 114)
 | 2023-05-09 | 2,543 | 8 |
 | 2023-05-10 | 2,549 | 9 |
 | 2023-05-11 | 2,558 | 9 |
-| 2023-05-12 | 2,562 | 9 |
+| 2023-05-12 | 2,564 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

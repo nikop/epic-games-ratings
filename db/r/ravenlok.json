@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 603,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 6.47,
   "EosHistory": [
@@ -1036,9 +1036,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 187
     },
     {
       "ID": "15",
@@ -1092,9 +1092,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 187
     },
     {
       "ID": "21",
@@ -1140,9 +1140,9 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 205
     },
     {
       "ID": "27",
@@ -1164,9 +1164,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 205
     },
     {
       "ID": "3",
@@ -1196,9 +1196,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 217
     },
     {
       "ID": "33",
@@ -1405,8 +1405,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-12T12:04:49.9213683+00:00",
+  "LastChanged_Achievements": "2023-05-12T13:09:13.057771+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-12T11:57:22.8266841+00:00",
-  "LastUpdate_Achievements": "2023-05-12T12:04:49.9214052+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:01:45.6511665+00:00",
+  "LastUpdate_Achievements": "2023-05-12T13:09:13.0578293+00:00"
 }

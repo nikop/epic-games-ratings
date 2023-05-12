@@ -18,12 +18,12 @@ Rating: 4.86 (Ranked 27)
 | This will cost you big time | 62.00% | ~921 |
 | Uh, they were broken when I got here | 62.00% | ~921 |
 | Z-shielding's got nothing on us! | 60.00% | ~891 |
-| Kissing the sky! | 58.00% | ~861 |
+| Kissing the sky! | 59.00% | ~876 |
 | Whoa! There's ANOTHER health bar!? | 54.00% | ~802 |
 | The Negotiator | 53.00% | ~787 |
 | Does that say weakpoint? | 52.00% | ~772 |
+| You must like calling me in, Chai | 47.00% | ~698 |
 | Out in a puff of smoke | 47.00% | ~698 |
-| You must like calling me in, Chai | 46.00% | ~683 |
 | Headliner | 45.00% | ~668 |
 | Time to pay up! | 42.00% | ~624 |
 | Perfecter Parry-er! | 42.00% | ~624 |

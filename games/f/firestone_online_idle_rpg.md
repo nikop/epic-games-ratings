@@ -19,9 +19,9 @@ Rating: 3.64 (Ranked 917)
 | Inspection | 13.00% | ~126 |
 | Full Party | 12.00% | ~117 |
 | Hero inspection | 12.00% | ~117 |
+| Dragon Master | 9.00% | ~87 |
 | Enlightenment | 9.00% | ~87 |
 | Lieutenant | 9.00% | ~87 |
-| Dragon Master | 8.00% | ~78 |
 | Natural Talent | 7.00% | ~68 |
 | The Unstoppable | 7.00% | ~68 |
 | Superior | 6.00% | ~58 |
