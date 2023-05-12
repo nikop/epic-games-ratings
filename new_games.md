@@ -161,5 +161,3 @@
 | [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 2019-04-29 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 2023-04-13 |
 | [Dogfight](games/d/dogfight.md) | 2023-04-12 | 2023-04-12 |
-| [BoxR](games/b/boxr.md) | 2023-04-12 | 2023-04-19 |
-| [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 2023-04-12 |
