@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Infindustry](games/i/infindustry.md) | 2023-05-11 | 2022-05-03 |
 | [Ungate](games/u/ungate.md) | 2023-05-11 | 2023-05-11 |
 | [Death to Spies](games/4/4d40161c73db44369e250c40015e4f52.md) | 2023-05-11 | 2007-10-16 |
 | [Death to Spies: Moment of Truth](games/b/bd2c5acda74f43af84ef775561773aec.md) | 2023-05-11 | 2009-08-07 |

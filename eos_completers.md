@@ -21,12 +21,12 @@
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.72% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.46% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.45% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
-| 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.39% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.55% |
+| 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -113,9 +113,9 @@
 | 111 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 111 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 111 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 114 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 115 | [Tchia](games/t/tchia.md) | 0.35% |
-| 115 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
+| 114 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
+| 114 | [Tchia](games/t/tchia.md) | 0.35% |
+| 114 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 117 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 118 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
@@ -126,8 +126,8 @@
 | 121 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 125 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 126 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
-| 126 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
-| 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
+| 127 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
+| 127 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 129 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.27% |
 | 129 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 131 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
@@ -136,10 +136,10 @@
 | 134 | [Blanc](games/b/blanc.md) | 0.22% |
 | 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.22% |
 | 134 | [Filament](games/f/filament.md) | 0.22% |
-| 137 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 137 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 137 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
+| 140 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
 | 141 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 142 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 143 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
