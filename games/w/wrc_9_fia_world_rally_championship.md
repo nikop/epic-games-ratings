@@ -4,9 +4,9 @@
 Rating: 4.54 (Ranked 477)  
 Number of Ratings: 233  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 28  (Ranked 451)  
+Max (Competitive Players): 28  (Ranked 452)  
 Sum: 212 (Ranked 347)  
-Diff (max vs sum): 104  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 29 |

@@ -13,8 +13,8 @@
 | Avaricerite | 6.00% | ~4 |
 | Master Destructor | 6.00% | ~4 |
 | Back From The Dead | 5.00% | ~3 |
+| Ball Galore | 5.00% | ~3 |
 | Easy Victory | 5.00% | ~3 |
-| Ball Galore | 3.00% | ~2 |
 | Ball Protector | 3.00% | ~2 |
 | Untouchable | 3.00% | ~2 |
 | Ball Collector | 2.00% | ~1 |

@@ -3652,9 +3652,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87284,
+  "EOS_Progressed": 87290,
   "EOS_Completed": 1829,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5652,6 +5652,11 @@
       "Time": "2023-05-12T21:05:52.0080134+00:00",
       "NumProgressed": 87284,
       "NumCompleted": 1829
+    },
+    {
+      "Time": "2023-05-12T22:06:56.7831489+00:00",
+      "NumProgressed": 87290,
+      "NumCompleted": 1829
     }
   ],
   "TotalAchievements": 489,
@@ -6559,7 +6564,7 @@
       "Name": "Bully for Vecna",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "objective_completed_1213",
@@ -9381,9 +9386,9 @@
       "ID": "objective_completed_897",
       "SetID": "415jc5c",
       "Name": "Reghed Glacier Mysteries",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_898",
@@ -9574,21 +9579,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53558,
-      "Completed": 2496
+      "Progressed": 53564,
+      "Completed": 2497
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87284,
+      "Progressed": 87290,
       "Completed": 1829
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-12T14:57:57.844953+00:00",
-  "LastChanged_Achievements": "2023-05-12T21:05:52.0080117+00:00",
+  "LastChanged_Achievements": "2023-05-12T22:06:56.7831483+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-12T20:57:56.8221639+00:00",
-  "LastUpdate_Achievements": "2023-05-12T21:05:52.0102777+00:00"
+  "LastUpdate_Ratings": "2023-05-12T21:58:20.6397131+00:00",
+  "LastUpdate_Achievements": "2023-05-12T22:06:56.7859485+00:00"
 }

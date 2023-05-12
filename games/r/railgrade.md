@@ -68,8 +68,8 @@ Completed: 28 (0.15%) (Ranked 145)
 | 2023-05-12 | 18,337 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 339)  
-Sum: 644 (Ranked 269)  
-Diff (max vs sum): 70  
+Sum: 644 (Ranked 270)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 87 |

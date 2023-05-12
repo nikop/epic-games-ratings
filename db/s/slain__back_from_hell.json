@@ -4,7 +4,7 @@
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 768,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 44,
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 20251,
+  "EOS_Progressed": 20258,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2216,6 +2216,11 @@
       "Time": "2023-05-12T21:05:36.3676408+00:00",
       "NumProgressed": 20251,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-12T22:06:39.3046866+00:00",
+      "NumProgressed": 20258,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2227,7 +2232,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3241
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -2235,7 +2240,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4052
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2458,7 +2463,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 20251,
+      "Progressed": 20258,
       "Completed": 16
     }
   ],
@@ -2466,8 +2471,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-12T21:05:36.3676402+00:00",
+  "LastChanged_Achievements": "2023-05-12T22:06:39.304686+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:00:00.4467403+00:00",
-  "LastUpdate_Achievements": "2023-05-12T21:05:36.3676797+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:00:43.3933001+00:00",
+  "LastUpdate_Achievements": "2023-05-12T22:06:39.3047182+00:00"
 }

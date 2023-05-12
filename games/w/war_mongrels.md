@@ -6,29 +6,29 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 60.00% | ~151 |
-| Cowardice | 54.00% | ~136 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~126 |
-| Eat Lead! | 49.00% | ~123 |
-| Prospector | 45.00% | ~113 |
-| Here Comes the Boom | 44.00% | ~111 |
-| Treasure Hunter | 43.00% | ~108 |
-| The Breaking Point | 39.00% | ~98 |
+| Explorer | 60.00% | ~152 |
+| Cowardice | 53.00% | ~134 |
+| NO LIFE IS WORTH SAVING... | 51.00% | ~129 |
+| Eat Lead! | 49.00% | ~124 |
+| Prospector | 45.00% | ~114 |
+| Here Comes the Boom | 45.00% | ~114 |
+| Treasure Hunter | 43.00% | ~109 |
+| The Breaking Point | 39.00% | ~99 |
 | Missing in Action | 38.00% | ~96 |
 | Sniper Wolf | 38.00% | ~96 |
-| The Motivation | 35.00% | ~88 |
+| The Motivation | 35.00% | ~89 |
 | King of Knives | 33.00% | ~83 |
 | Heroism | 32.00% | ~81 |
-| Collectibles of Chapter I | 31.00% | ~78 |
+| Collectibles of Chapter I | 30.00% | ~76 |
 | Consequences | 29.00% | ~73 |
 | Opportunities | 28.00% | ~71 |
 | The Horror | 27.00% | ~68 |
-| Collectibles of Chapter II | 24.00% | ~60 |
-| The Difference | 24.00% | ~60 |
+| Collectibles of Chapter II | 24.00% | ~61 |
+| The Difference | 24.00% | ~61 |
 | Vengeance | 23.00% | ~58 |
 | Food Massacre | 21.00% | ~53 |
-| Broken Hopes | 20.00% | ~50 |
-| Bullseye! | 20.00% | ~50 |
+| Broken Hopes | 20.00% | ~51 |
+| Bullseye! | 20.00% | ~51 |
 | It's Just an Accident | 17.00% | ~43 |
 | Collectibles of Chapter III | 16.00% | ~40 |
 | Sorrow | 16.00% | ~40 |
@@ -39,10 +39,10 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter V | 9.00% | ~23 |
 | Collectibles of Chapter VII | 8.00% | ~20 |
 | Such is War! | 8.00% | ~20 |
+| Piece of Cake | 7.00% | ~18 |
 | Tiptoe Around | 7.00% | ~18 |
 | Collectibles of Chapter VIII | 6.00% | ~15 |
 | Collectibles of Chapter XII | 6.00% | ~15 |
-| Piece of Cake | 6.00% | ~15 |
 | Collectibles of Chapter X | 5.00% | ~13 |
 | Collectibles of Chapter XI | 5.00% | ~13 |
 | The Good Samaritan | 4.00% | ~10 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252 (Ranked 218)  
+Progressed: 253 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 249 | 0 |
 | 2023-05-09 | 250 | 0 |
 | 2023-05-10 | 251 | 0 |
-| 2023-05-12 | 252 | 0 |
+| 2023-05-12 | 253 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

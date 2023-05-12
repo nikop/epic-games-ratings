@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 1.00% | ~536 |
 | The Cursed Farmer | 1.00% | ~873 |
 | Beast Intentions | 0.80% | ~698 |
-| Bully for Vecna | 0.80% | ~428 |
+| Bully for Vecna | 0.80% | ~429 |
 | The Mad Wizard | 0.80% | ~698 |
 | The Ring of Regeneration | 0.60% | ~524 |
 | Were-verpowered | 0.50% | ~436 |
@@ -205,6 +205,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.20% | ~107 |
 | Ending the Rime - Part 1 | 0.20% | ~107 |
 | Ending the Rime - Part 2 | 0.20% | ~107 |
+| Reghed Glacier Mysteries | 0.20% | ~107 |
 | The Haunted Jungle | 0.20% | ~175 |
 | Rescue in the Jungle | 0.20% | ~175 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -475,7 +476,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 1 | 0.10% | ~54 |
 | Ambitious Speakers - Part 2 | 0.10% | ~54 |
 | Shady Sidekicks - Part 2 | 0.10% | ~54 |
-| Reghed Glacier Mysteries | 0.10% | ~54 |
 | Mysteries Unlocked | 0.10% | ~54 |
 | Male Pattern Boldness | 0.10% | ~54 |
 | Tekeli-li's Hunt | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,284 (Ranked 59)  
+Progressed: 87,290 (Ranked 59)  
 Completed: 1,829 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 1,829 (2.10%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,284 | 1,829 |
+| 2023-05-12 | 87,290 | 1,829 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,862 (Ranked 37)  

@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.38 (Ranked 690)  
+Rating: 4.38 (Ranked 689)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,9 +40,9 @@ Rating: 4.38 (Ranked 690)
 | Herr Today, Gone Tomorrow | 8.00% | ~53 |
 | Operation Foxley | 8.00% | ~53 |
 | Last Resort | 7.00% | ~46 |
+| Siegebreaker | 6.00% | ~39 |
 | Ghost of Falaise | 6.00% | ~39 |
 | The Long Game | 5.00% | ~35 |
-| Siegebreaker | 5.00% | ~33 |
 | Strategist | 4.00% | ~28 |
 | Tinkerer | 4.00% | ~28 |
 | Don't hold your breath | 4.00% | ~28 |
@@ -71,7 +71,7 @@ Rating: 4.38 (Ranked 690)
 | Master-at-arms | 0.40% | ~3 |
 | Sight Beyond Sights | 0.40% | ~3 |
 | From Führer Away | 0.40% | ~3 |
-| Operation Overlord | 0.30% | ~2 |
+| Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 707 (Ranked 176)  

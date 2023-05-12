@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1906,
+  "EOS_Progressed": 1907,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -294,6 +294,11 @@
       "Time": "2023-05-12T20:05:20.6242643+00:00",
       "NumProgressed": 1906,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-12T22:06:46.5527184+00:00",
+      "NumProgressed": 1907,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -311,9 +316,9 @@
       "ID": "collect_dyes",
       "SetID": "236b9eg",
       "Name": "Nothing to Wear",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 591
+      "UsersEstimate": 610
     },
     {
       "ID": "complete_act_one",
@@ -345,7 +350,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "deal_damage",
@@ -353,7 +358,7 @@
       "Name": "Ouch",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "defeat_enemies",
@@ -385,7 +390,7 @@
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "reach_heat",
@@ -393,7 +398,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "reach_high_heat",
@@ -409,7 +414,7 @@
       "Name": "Frogbot",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "save_planet_bestfriend",
@@ -433,7 +438,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "stun_enemies",
@@ -441,7 +446,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "trash_truck",
@@ -456,7 +461,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1906,
+      "Progressed": 1907,
       "Completed": 8
     }
   ],
@@ -464,8 +469,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-12T21:05:42.8079529+00:00",
+  "LastChanged_Achievements": "2023-05-12T22:06:46.5527175+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:12.4998547+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:00:22.3544065+00:00",
-  "LastUpdate_Achievements": "2023-05-12T21:05:42.8079671+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:01:09.2893649+00:00",
+  "LastUpdate_Achievements": "2023-05-12T22:06:46.5527365+00:00"
 }

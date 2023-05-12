@@ -3,8 +3,8 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.61,
+  "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -58,6 +58,11 @@
       "Time": "2023-05-04T13:11:18.7088758+00:00",
       "NumProgressed": 62,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T22:06:48.2744052+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -67,7 +72,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 14
     },
@@ -83,7 +88,7 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -115,9 +120,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement16",
@@ -131,7 +136,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 35,
       "UsersEstimate": 41
     },
@@ -139,7 +144,7 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 90,
       "UsersEstimate": 19
     },
@@ -163,7 +168,7 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -171,7 +176,7 @@
       "ID": "Achievement21",
       "SetID": "jf6ho5",
       "Name": "Stilt House",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -219,7 +224,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 16
     },
@@ -236,7 +241,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 1
     }
   ],
@@ -244,8 +249,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-12T21:05:44.3120638+00:00",
+  "LastChanged_Achievements": "2023-05-12T22:06:48.274404+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:06.9087903+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:00:16.4240029+00:00",
-  "LastUpdate_Achievements": "2023-05-12T21:05:44.3120777+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:01:01.1956103+00:00",
+  "LastUpdate_Achievements": "2023-05-12T22:06:48.2744227+00:00"
 }

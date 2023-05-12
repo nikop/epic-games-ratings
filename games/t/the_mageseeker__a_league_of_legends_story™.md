@@ -5,19 +5,19 @@ Rating: 4.72 (Ranked 164)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,871 |
-| No more cages! | 92.00% | ~1,811 |
-| Everfrost | 77.00% | ~1,516 |
-| Pentakill | 76.00% | ~1,496 |
-| Dark Forest | 76.00% | ~1,496 |
+| For Demacia | 95.00% | ~1,872 |
+| No more cages! | 92.00% | ~1,812 |
+| Everfrost | 77.00% | ~1,517 |
+| Pentakill | 76.00% | ~1,497 |
+| Dark Forest | 76.00% | ~1,497 |
 | The use of petricite | 72.00% | ~1,418 |
-| You can pet the dog | 60.00% | ~1,181 |
-| Big Helmet Bro | 34.00% | ~669 |
-| Clarion Cove | 34.00% | ~669 |
+| You can pet the dog | 60.00% | ~1,182 |
+| Big Helmet Bro | 34.00% | ~670 |
+| Clarion Cove | 34.00% | ~670 |
 | Past trauma | 32.00% | ~630 |
 | Thornbarrow | 32.00% | ~630 |
 | Ternmoat Headquarters | 32.00% | ~630 |
-| Cypress Glen Headquarters | 31.00% | ~610 |
+| Cypress Glen Headquarters | 31.00% | ~611 |
 | Elemental master | 30.00% | ~591 |
 | Old friend | 26.00% | ~512 |
 | Petricite Burst | 26.00% | ~512 |
@@ -26,13 +26,13 @@ Rating: 4.72 (Ranked 164)
 | Hijack | 24.00% | ~473 |
 | I chose my shackles | 22.00% | ~433 |
 | Ancient power | 22.00% | ~433 |
-| Sacred Woods | 21.00% | ~413 |
+| Sacred Woods | 21.00% | ~414 |
 | Capelworth | 19.00% | ~374 |
-| Little light | 18.00% | ~354 |
-| Iffighain Headquarters | 18.00% | ~354 |
+| Little light | 18.00% | ~355 |
+| Iffighain Headquarters | 18.00% | ~355 |
 | Glyndemere | 17.00% | ~335 |
 | Full equipped | 17.00% | ~335 |
-| Whispers in the Woods II | 15.00% | ~295 |
+| Whispers in the Woods II | 15.00% | ~296 |
 | No more holding back | 14.00% | ~276 |
 | Quickmoore Headquarters | 14.00% | ~276 |
 | Whispers in the Woods III | 13.00% | ~256 |
@@ -59,7 +59,7 @@ Rating: 4.72 (Ranked 164)
 | Silverwing nest | 2.00% | ~39 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,969 (Ranked 143)  
+Progressed: 1,970 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.05%) (Ranked 171)
 | 2023-05-09 | 1,940 | 1 |
 | 2023-05-10 | 1,950 | 1 |
 | 2023-05-11 | 1,962 | 1 |
-| 2023-05-12 | 1,969 | 1 |
+| 2023-05-12 | 1,970 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -622,9 +622,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1951,
+  "EOS_Progressed": 1953,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -881,6 +881,11 @@
     {
       "Time": "2023-05-11T22:05:28.0056978+00:00",
       "NumProgressed": 1951,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T22:06:02.0892118+00:00",
+      "NumProgressed": 1953,
       "NumCompleted": 0
     }
   ],
@@ -1261,7 +1266,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -1276,15 +1281,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1951,
+      "Progressed": 1953,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-11T17:59:26.7871412+00:00",
-  "LastChanged_Achievements": "2023-05-12T21:05:02.9285949+00:00",
+  "LastChanged_Achievements": "2023-05-12T22:06:02.0892111+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-12T20:59:02.1665138+00:00",
-  "LastUpdate_Achievements": "2023-05-12T21:05:02.9286315+00:00"
+  "LastUpdate_Ratings": "2023-05-12T21:59:37.3202013+00:00",
+  "LastUpdate_Achievements": "2023-05-12T22:06:02.0892523+00:00"
 }

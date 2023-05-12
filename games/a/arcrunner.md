@@ -17,9 +17,9 @@
 | Supply Run | 24.00% | ~17 |
 | The City | 23.00% | ~16 |
 | Up Close And Personal | 23.00% | ~16 |
+| Starship Docks | 17.00% | ~12 |
 | Nanonic III | 17.00% | ~12 |
 | The Bigger They Are | 14.00% | ~10 |
-| Starship Docks | 14.00% | ~10 |
 | Fully Modded | 11.00% | ~8 |
 | Cybernetic | 10.00% | ~7 |
 | Eden Heights | 6.00% | ~4 |

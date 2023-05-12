@@ -18,8 +18,8 @@
 | Culinary Arts | 9.00% | ~7 |
 | Perfectionist | 8.00% | ~6 |
 | Rolling in Dough | 6.00% | ~5 |
+| Leaning Tower of Pizza | 4.00% | ~3 |
 | Chef, Yes Chef! | 3.00% | ~2 |
-| Leaning Tower of Pizza | 3.00% | ~2 |
 | Eco Warrior | 1.00% | ~1 |
 | Teamwork | 0.00% | ~0 |
 | Say Cheese! | 0.00% | ~0 |

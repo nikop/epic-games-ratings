@@ -4,10 +4,10 @@
   "ProductSlug": "trackmania",
   "Ranking_Rating": 256,
   "Ranking_Popularity": 90,
-  "Ranking_PopularitySum": 50,
+  "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -4857,10 +4857,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 22196,
       "NumberOfAwardsMax": 2585
+    },
+    {
+      "Time": "2023-05-12T21:58:35.7658086+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 22202,
+      "NumberOfAwardsMax": 2585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22196,
+  "NumberOfAwards": 22202,
   "NumberOfAwardsMax": 2585,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4928,7 +4934,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1395
+      "Count": 1401
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4948,8 +4954,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-05-12T20:58:09.1758924+00:00",
+  "LastChanged": "2023-05-12T21:58:35.7658085+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:09.9595292+00:00",
-  "LastUpdate_Ratings": "2023-05-12T20:58:09.1758931+00:00",
-  "LastUpdate_Achievements": "2023-05-12T21:03:08.4310317+00:00"
+  "LastUpdate_Ratings": "2023-05-12T21:58:35.765809+00:00",
+  "LastUpdate_Achievements": "2023-05-12T22:03:39.3317756+00:00"
 }

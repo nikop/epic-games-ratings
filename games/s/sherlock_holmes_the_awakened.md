@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 70.00% | ~104 |
 | High Profile | 64.00% | ~95 |
-| Read Between The Lines | 62.00% | ~92 |
+| Read Between The Lines | 63.00% | ~93 |
 | Whispers In The Dark | 62.00% | ~92 |
 | Fond Memories | 55.00% | ~81 |
 | History Check | 55.00% | ~81 |
