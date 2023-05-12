@@ -3957,9 +3957,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49610,
+  "EOS_Progressed": 49612,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5852,6 +5852,11 @@
       "Time": "2023-05-12T15:05:50.910382+00:00",
       "NumProgressed": 49610,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T16:05:44.5141094+00:00",
+      "NumProgressed": 49612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5871,7 +5876,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6449
+      "UsersEstimate": 6450
     },
     {
       "ID": "Bannerlord",
@@ -6031,7 +6036,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6945
+      "UsersEstimate": 6946
     },
     {
       "ID": "I spit on your grave",
@@ -6071,7 +6076,7 @@
       "Name": "Know your enemy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "Lance-a-lot",
@@ -6103,7 +6108,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10418
+      "UsersEstimate": 10419
     },
     {
       "ID": "Long live the Empire",
@@ -6189,9 +6194,9 @@
       "ID": "Strike",
       "SetID": "den0lp1",
       "Name": "Strike!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 99
     },
     {
       "ID": "Supreme Emperor",
@@ -6223,7 +6228,7 @@
       "Name": "This Is Our Land",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "This is Sparta",
@@ -6270,15 +6275,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49610,
+      "Progressed": 49612,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-12T13:03:44.855964+00:00",
-  "LastChanged_Achievements": "2023-05-12T15:05:50.9103814+00:00",
+  "LastChanged_Achievements": "2023-05-12T16:05:44.5141088+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-12T14:59:43.1407309+00:00",
-  "LastUpdate_Achievements": "2023-05-12T15:05:50.9104256+00:00"
+  "LastUpdate_Ratings": "2023-05-12T15:59:37.6586526+00:00",
+  "LastUpdate_Achievements": "2023-05-12T16:05:44.5141611+00:00"
 }

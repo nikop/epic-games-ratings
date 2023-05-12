@@ -18,7 +18,7 @@
 | Calm neighborhood | 29.00% | ~20 |
 | Elevated ring | 26.00% | ~18 |
 | Not lonely anymore | 24.00% | ~16 |
-| Monumental tribute | 22.00% | ~15 |
+| Monumental tribute | 24.00% | ~16 |
 | The beach is right there | 21.00% | ~14 |
 | Commuting | 21.00% | ~14 |
 | Le jardin magnifique | 19.00% | ~13 |

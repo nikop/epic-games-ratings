@@ -8,7 +8,7 @@
 | Press-ganged | 38.00% | ~21 |
 | The Package | 21.00% | ~12 |
 | Randomized | 7.00% | ~4 |
-| Conquered | 5.00% | ~3 |
+| Conquered | 7.00% | ~4 |
 | Bounty Hunter | 2.00% | ~1 |
 | Scribe | 2.00% | ~1 |
 | Scholar | 2.00% | ~1 |

@@ -7,8 +7,8 @@ Rating: 4.38 (Ranked 689)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 36.00% | ~254 |
 | Confirming Suspicions | 32.00% | ~226 |
-| The Kraken Wakes | 29.00% | ~204 |
-| It's Starting to Crack | 28.00% | ~197 |
+| The Kraken Wakes | 29.00% | ~205 |
+| It's Starting to Crack | 28.00% | ~198 |
 | Lord of War | 25.00% | ~176 |
 | Change the Channel | 25.00% | ~176 |
 | Resourceful | 23.00% | ~162 |
@@ -34,11 +34,11 @@ Rating: 4.38 (Ranked 689)
 | No Stone Unturned | 11.00% | ~78 |
 | Opposing Force | 11.00% | ~78 |
 | Enemy at the Gates | 11.00% | ~78 |
-| My Little Friend | 9.00% | ~63 |
-| Herr Today, Gone Tomorrow | 9.00% | ~59 |
+| My Little Friend | 9.00% | ~64 |
 | Precision Is Key | 8.00% | ~56 |
 | Rigged to Blow | 8.00% | ~56 |
-| Operation Foxley | 8.00% | ~52 |
+| Herr Today, Gone Tomorrow | 8.00% | ~53 |
+| Operation Foxley | 8.00% | ~53 |
 | Last Resort | 7.00% | ~46 |
 | Ghost of Falaise | 6.00% | ~39 |
 | The Long Game | 5.00% | ~35 |
@@ -61,7 +61,7 @@ Rating: 4.38 (Ranked 689)
 | Best of the Best | 1.00% | ~7 |
 | Führerious Repetition | 1.00% | ~7 |
 | Alpha | 1.00% | ~7 |
-| Das Familienjuwel | 0.90% | ~6 |
+| Das Familienjuwel | 0.80% | ~5 |
 | Eagle Eyed | 0.70% | ~5 |
 | Up close and personal | 0.70% | ~5 |
 | Can't Outrun A Bullet | 0.70% | ~5 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 176)  
+Progressed: 706 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 2 (0.28%) (Ranked 127)
 | 2023-05-09 | 694 | 2 |
 | 2023-05-10 | 698 | 2 |
 | 2023-05-11 | 701 | 2 |
-| 2023-05-12 | 705 | 2 |
+| 2023-05-12 | 706 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

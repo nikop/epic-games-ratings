@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~262 |
 | Running of the Saurs | 0.30% | ~262 |
 | The Contagious Curse | 0.30% | ~262 |
+| An Even Worse Time in Avernus | 0.30% | ~161 |
 | Escort to Waterdeep | 0.30% | ~262 |
 | Constant Banditry | 0.30% | ~262 |
 | Waterdeep Detours | 0.30% | ~262 |
@@ -87,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Speeds of Destruction | 0.20% | ~107 |
 | The Evacuation of Waterdeep | 0.20% | ~107 |
 | Vecna Lives! | 0.20% | ~107 |
+| Overwhelmed with Knowledge | 0.20% | ~107 |
 | A Demi-god's Defender | 0.20% | ~107 |
 | Vecna Loots! | 0.20% | ~107 |
 | Well Equipped | 0.20% | ~107 |
@@ -172,7 +174,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~107 |
 | Bad Odds in Avernus | 0.20% | ~107 |
 | The Lost Hollyphant | 0.20% | ~107 |
-| An Even Worse Time in Avernus | 0.20% | ~107 |
 | Tiamat's Army | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
 | Rime Bandits | 0.20% | ~107 |
@@ -253,7 +254,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.10% | ~54 |
 | Flapjacks and Waffles | 0.10% | ~54 |
 | On the Hunt | 0.10% | ~87 |
-| Overwhelmed with Knowledge | 0.10% | ~54 |
 | More Than Well Equipped | 0.10% | ~54 |
 | To Avernus in a Handbasket | 0.10% | ~54 |
 | Clowning Around | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,254 (Ranked 59)  
+Progressed: 87,259 (Ranked 59)  
 Completed: 1,829 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 1,829 (2.10%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,254 | 1,829 |
+| 2023-05-12 | 87,259 | 1,829 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,862 (Ranked 37)  

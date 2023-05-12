@@ -14,7 +14,7 @@ Rating: 4.60 (Ranked 376)
 | Today Was a Good Day | 14.00% | ~1,063 |
 | What happens in Las Venturas... | 12.00% | ~911 |
 | Horror of the Santa Maria | 9.00% | ~683 |
-| Liberty City State of Mind | 7.00% | ~531 |
+| Liberty City State of Mind | 8.00% | ~607 |
 | With Extra Dip | 6.00% | ~455 |
 | The End of the Line | 6.00% | ~455 |
 | Original Gangster | 6.00% | ~455 |

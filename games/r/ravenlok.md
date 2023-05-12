@@ -4,59 +4,59 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~582 |
-| Waff! | 93.00% | ~564 |
-| Into the Barn | 87.00% | ~527 |
-| A Prophecy | 85.00% | ~515 |
-| Sword, Shield, Fight! | 75.00% | ~454 |
-| A Grand Visit | 71.00% | ~430 |
-| Fun Guy | 61.00% | ~370 |
-| Vibing | 60.00% | ~364 |
-| Tragic Brave | 52.00% | ~315 |
-| Awakened Spirits | 48.00% | ~291 |
-| Little Shop | 47.00% | ~285 |
-| Surprise! | 43.00% | ~261 |
-| An Actor! | 43.00% | ~261 |
-| Curtain Call | 41.00% | ~248 |
-| Piece of Cake | 38.00% | ~230 |
-| Gooey Delight! | 38.00% | ~230 |
-| Glimmer of Hope | 38.00% | ~230 |
-| Well Rested | 38.00% | ~230 |
-| Teacups for Toppy | 37.00% | ~224 |
-| Nightmare Fuel | 36.00% | ~218 |
-| Take Heart | 36.00% | ~218 |
-| The Guardian | 35.00% | ~212 |
-| Frog Facts! | 34.00% | ~206 |
-| Stronger! | 34.00% | ~206 |
-| Ancient Wisdom | 33.00% | ~200 |
-| All That Glistens | 33.00% | ~200 |
-| It's Pointy! | 33.00% | ~200 |
-| Spellbound | 32.00% | ~194 |
-| All Skilled Up! | 32.00% | ~194 |
-| Extinct Again! | 31.00% | ~188 |
-| Bird of Prey | 30.00% | ~182 |
-| Stardust | 30.00% | ~182 |
-| Heartbreaker | 30.00% | ~182 |
-| Kidnapped! | 30.00% | ~182 |
-| Pull the Plug | 28.00% | ~170 |
-| Soul Slayer | 28.00% | ~170 |
-| The Downfall | 28.00% | ~170 |
-| All Heart | 28.00% | ~170 |
-| Trick Question! | 28.00% | ~170 |
-| Final Showdown | 28.00% | ~170 |
-| Spot of Tea? | 28.00% | ~170 |
-| Going Home | 28.00% | ~170 |
+| Once Upon a Time | 96.00% | ~585 |
+| Waff! | 93.00% | ~566 |
+| Into the Barn | 87.00% | ~530 |
+| A Prophecy | 85.00% | ~518 |
+| Sword, Shield, Fight! | 75.00% | ~457 |
+| A Grand Visit | 71.00% | ~432 |
+| Vibing | 60.00% | ~365 |
+| Fun Guy | 60.00% | ~365 |
+| Tragic Brave | 51.00% | ~311 |
+| Awakened Spirits | 48.00% | ~292 |
+| Little Shop | 47.00% | ~286 |
+| Surprise! | 43.00% | ~262 |
+| An Actor! | 43.00% | ~262 |
+| Curtain Call | 41.00% | ~250 |
+| Piece of Cake | 38.00% | ~231 |
+| Gooey Delight! | 38.00% | ~231 |
+| Glimmer of Hope | 38.00% | ~231 |
+| Well Rested | 38.00% | ~231 |
+| Teacups for Toppy | 37.00% | ~225 |
+| Nightmare Fuel | 36.00% | ~219 |
+| Take Heart | 36.00% | ~219 |
+| The Guardian | 35.00% | ~213 |
+| Frog Facts! | 34.00% | ~207 |
+| Stronger! | 34.00% | ~207 |
+| Ancient Wisdom | 33.00% | ~201 |
+| All That Glistens | 33.00% | ~201 |
+| It's Pointy! | 33.00% | ~201 |
+| Spellbound | 32.00% | ~195 |
+| All Skilled Up! | 32.00% | ~195 |
+| Extinct Again! | 30.00% | ~183 |
+| Bird of Prey | 30.00% | ~183 |
+| Stardust | 30.00% | ~183 |
+| Heartbreaker | 30.00% | ~183 |
+| Kidnapped! | 30.00% | ~183 |
+| Pull the Plug | 28.00% | ~171 |
+| Soul Slayer | 28.00% | ~171 |
+| The Downfall | 28.00% | ~171 |
+| All Heart | 28.00% | ~171 |
+| Trick Question! | 28.00% | ~171 |
+| Final Showdown | 28.00% | ~171 |
+| Spot of Tea? | 28.00% | ~171 |
+| Going Home | 28.00% | ~171 |
 | Extraordinary! | 27.00% | ~164 |
 | Mirror, Mirror | 26.00% | ~158 |
-| Flower Power | 23.00% | ~139 |
-| Crowned | 20.00% | ~121 |
-| Shopping Spree! | 19.00% | ~115 |
-| Max Level! | 13.00% | ~79 |
-| Bombs Away! | 8.00% | ~48 |
-| Dance Master | 7.00% | ~42 |
+| Flower Power | 23.00% | ~140 |
+| Crowned | 20.00% | ~122 |
+| Shopping Spree! | 19.00% | ~116 |
+| Max Level! | 12.00% | ~73 |
+| Bombs Away! | 8.00% | ~49 |
+| Dance Master | 7.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606 (Ranked 182)  
-Completed: 39 (6.44%) (Ranked 27)  
+Progressed: 609 (Ranked 182)  
+Completed: 39 (6.40%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 39 (6.44%) (Ranked 27)
 | 2023-05-09 | 545 | 32 |
 | 2023-05-10 | 573 | 36 |
 | 2023-05-11 | 595 | 38 |
-| 2023-05-12 | 606 | 39 |
+| 2023-05-12 | 609 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,14 +12,14 @@ Number of Ratings: 101  (23.09.2022)
 | Camellos | 58.00% | ~185 |
 | Bad Trip | 46.00% | ~147 |
 | Didn't Miss A Single One | 45.00% | ~144 |
+| That was base | 39.00% | ~124 |
 | Spread | 39.00% | ~124 |
-| That was base | 38.00% | ~121 |
 | Safe Pair of Hands | 35.00% | ~112 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~93 |
 | Architect of Fortunes | 25.00% | ~80 |
 | Pampered Life | 25.00% | ~80 |
 | Bite the Blow | 18.00% | ~57 |
-| Spreading Fear | 8.00% | ~26 |
+| Spreading Fear | 9.00% | ~29 |
 | Follow the Money | 8.00% | ~26 |
 | I'm Going To Call You Kitty | 8.00% | ~26 |
 | Operation Odessa | 1.00% | ~3 |

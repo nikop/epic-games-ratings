@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46129,
+  "EOS_Progressed": 46130,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-05-12T14:04:55.3310739+00:00",
       "NumProgressed": 46129,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-12T16:05:16.2889694+00:00",
+      "NumProgressed": 46130,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1498,7 +1503,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5535
+      "UsersEstimate": 5536
     },
     {
       "ID": "04",
@@ -1730,7 +1735,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6919
+      "UsersEstimate": 6920
     },
     {
       "ID": "33",
@@ -2017,21 +2022,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46129,
+      "Progressed": 46130,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9597,
+      "Progressed": 9598,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-12T15:05:23.1773711+00:00",
+  "LastChanged_Achievements": "2023-05-12T16:05:16.2889689+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:59.0687168+00:00",
-  "LastUpdate_Ratings": "2023-05-12T14:57:31.6496867+00:00",
-  "LastUpdate_Achievements": "2023-05-12T15:05:23.1774269+00:00"
+  "LastUpdate_Ratings": "2023-05-12T15:57:29.1200308+00:00",
+  "LastUpdate_Achievements": "2023-05-12T16:05:16.2890393+00:00"
 }

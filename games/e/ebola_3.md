@@ -37,6 +37,8 @@
 | Rank A ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
+| Seeker One ✔ | 2.00% | ~3 |
+| Crocodile Escape ✔ | 2.00% | ~3 |
 | Secret ✔ | 2.00% | ~3 |
 | Boss 2 ✔ | 2.00% | ~3 |
 | Group Alpha ✔ | 2.00% | ~3 |
@@ -45,9 +47,7 @@
 | Priest ✔ | 2.00% | ~3 |
 | Rank B+ ✔ | 2.00% | ~3 |
 | Boss 3 ✔ | 2.00% | ~3 |
-| Seeker One ✔ | 1.00% | ~2 |
 | Seeker Three ✔ | 1.00% | ~2 |
-| Crocodile Escape ✔ | 1.00% | ~2 |
 | Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |
 | Speedrun ✔ | 1.00% | ~2 |

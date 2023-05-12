@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3652,10 +3652,10 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87254,
+  "EOS_Progressed": 87259,
   "EOS_Completed": 1829,
-  "EOS_NewPlayers": 717,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 718,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5622,6 +5622,11 @@
       "Time": "2023-05-12T15:06:01.7000252+00:00",
       "NumProgressed": 87254,
       "NumCompleted": 1829
+    },
+    {
+      "Time": "2023-05-12T16:05:56.8828526+00:00",
+      "NumProgressed": 87259,
+      "NumCompleted": 1829
     }
   ],
   "TotalAchievements": 489,
@@ -6319,9 +6324,9 @@
       "ID": "objective_completed_1164",
       "SetID": "415jc5c",
       "Name": "Overwhelmed with Knowledge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1165",
@@ -8519,9 +8524,9 @@
       "ID": "objective_completed_648",
       "SetID": "415jc5c",
       "Name": "An Even Worse Time in Avernus",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 161
     },
     {
       "ID": "objective_completed_655",
@@ -9544,21 +9549,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53528,
+      "Progressed": 53533,
       "Completed": 2495
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87254,
+      "Progressed": 87259,
       "Completed": 1829
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-12T14:57:57.844953+00:00",
-  "LastChanged_Achievements": "2023-05-12T15:06:01.7000247+00:00",
+  "LastChanged_Achievements": "2023-05-12T16:05:56.8828521+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-12T14:57:57.8449537+00:00",
-  "LastUpdate_Achievements": "2023-05-12T15:06:01.7208054+00:00"
+  "LastUpdate_Ratings": "2023-05-12T15:57:54.460741+00:00",
+  "LastUpdate_Achievements": "2023-05-12T16:05:56.8850955+00:00"
 }

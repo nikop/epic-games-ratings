@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457772,
+  "EOS_Progressed": 457775,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2363,6 +2363,11 @@
       "Time": "2023-05-12T15:05:42.9287032+00:00",
       "NumProgressed": 457772,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-12T16:05:36.5624131+00:00",
+      "NumProgressed": 457775,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2414,7 +2419,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45777
+      "UsersEstimate": 45778
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -2462,7 +2467,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302130
+      "UsersEstimate": 302132
     },
     {
       "ID": "achievement_story_landa",
@@ -2494,7 +2499,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114443
+      "UsersEstimate": 114444
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -2550,7 +2555,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91554
+      "UsersEstimate": 91555
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -2558,7 +2563,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151065
+      "UsersEstimate": 151066
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2798,7 +2803,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201420
+      "UsersEstimate": 201421
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -2814,7 +2819,7 @@
       "Name": "Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9155
+      "UsersEstimate": 9156
     },
     {
       "ID": "achievement_win_expedition_with_monster_noloss",
@@ -2830,7 +2835,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178531
+      "UsersEstimate": 178532
     },
     {
       "ID": "achievement_win_run_hard",
@@ -2893,21 +2898,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1706,
-      "Completed": 1706
+      "Progressed": 1709,
+      "Completed": 1709
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457772,
+      "Progressed": 457775,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-12T15:05:42.9287026+00:00",
+  "LastChanged_Achievements": "2023-05-12T16:05:36.5624126+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-12T14:59:11.9944566+00:00",
-  "LastUpdate_Achievements": "2023-05-12T15:05:42.9287664+00:00"
+  "LastUpdate_Ratings": "2023-05-12T15:59:09.1142905+00:00",
+  "LastUpdate_Achievements": "2023-05-12T16:05:36.5624844+00:00"
 }

@@ -544,9 +544,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "hire-lieutenant",
@@ -560,9 +560,9 @@
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "pack-and-sell",
@@ -664,8 +664,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-12T15:05:50.6344393+00:00",
+  "LastChanged_Achievements": "2023-05-12T16:05:44.2471056+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:11.865388+00:00",
-  "LastUpdate_Ratings": "2023-05-12T15:00:08.175297+00:00",
-  "LastUpdate_Achievements": "2023-05-12T15:05:50.6344518+00:00"
+  "LastUpdate_Ratings": "2023-05-12T16:00:01.1523547+00:00",
+  "LastUpdate_Achievements": "2023-05-12T16:05:44.2471213+00:00"
 }
