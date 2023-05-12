@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 398,
   "Ranking_Popularity": 165,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -909,7 +909,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
   "LastChanged": "2023-05-09T12:51:26.0206456+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T17:01:20.4434354+00:00",
-  "LastUpdate_Ratings": "2023-05-12T17:00:27.0880836+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:04:50.6670894+00:00"
+  "LastUpdate_AppInfo": "2023-05-12T18:00:11.7765501+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:03:16.6215988+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:07:50.2539805+00:00"
 }

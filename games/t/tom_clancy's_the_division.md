@@ -5,8 +5,8 @@ Rating: 4.58 (Ranked 412)
 Number of Ratings: 247  (23.09.2022)  
 ## Awards
 Max (Character Customization): 264  (Ranked 235)  
-Sum: 595 (Ranked 280)  
-Diff (max vs sum): -45  
+Sum: 617 (Ranked 276)  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 264 |
@@ -17,8 +17,8 @@ Diff (max vs sum): -45
 | This game has Competitive Players | 24 |
 | This game is Relaxing | 23 |
 | This game is Great for Beginners | 22 |
+| This game has Realistic Visuals | 22 |
 | This game has Amazing Characters | 22 |
-| This game has Realistic Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -128,3 +128,4 @@ Diff (max vs sum): -45
 | 2023-05-08 | 4.58 | - | 263 | 592 |
 | 2023-05-09 | 4.58 | - | 263 | 593 |
 | 2023-05-10 | 4.58 | - | 264 | 595 |
+| 2023-05-12 | 4.58 | - | 264 | 617 |

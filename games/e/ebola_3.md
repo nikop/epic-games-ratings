@@ -11,14 +11,14 @@
 | Mutation ✔ | 22.00% | ~35 |
 | Doberman ✔ | 12.00% | ~19 |
 | Chess ✔ | 9.00% | ~14 |
-| Weapon ✔ | 8.00% | ~13 |
+| Weapon ✔ | 9.00% | ~14 |
 | Survival ✔ | 7.00% | ~11 |
 | Hospital ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
+| Thirst ✔ | 7.00% | ~11 |
 | Antivirus ✔ | 6.00% | ~10 |
 | Cheats ✔ | 6.00% | ~10 |
 | King of survival ✔ | 6.00% | ~10 |
-| Thirst ✔ | 6.00% | ~10 |
 | Alice ✔ | 5.00% | ~8 |
 | Betty ✔ | 5.00% | ~8 |
 | Brain ✔ | 5.00% | ~8 |

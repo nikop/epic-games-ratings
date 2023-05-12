@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -82,9 +82,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_BATHROOM",
@@ -98,9 +98,9 @@
       "ID": "ACH_COMMONAREA",
       "SetID": "511e31d",
       "Name": "On the right path",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DOCDOCUMENTS",
@@ -114,25 +114,25 @@
       "ID": "ACH_ENTRANCE",
       "SetID": "511e31d",
       "Name": "I\u0027m close now",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENTRANCEEVIL",
       "SetID": "511e31d",
       "Name": "Failed attempt",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ESCAPEDOC",
       "SetID": "511e31d",
       "Name": "The real escape",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EVADOCUMENTS",
@@ -162,9 +162,9 @@
       "ID": "ACH_GOODENDING",
       "SetID": "511e31d",
       "Name": "Born again",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HOHARMFORCE104",
@@ -178,9 +178,9 @@
       "ID": "ACH_KITCHEN",
       "SetID": "511e31d",
       "Name": "Nightmare in the kitchen",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MATTDOCUMENTS",
@@ -210,17 +210,17 @@
       "ID": "ACH_NOKNIFE",
       "SetID": "511e31d",
       "Name": "Good choice",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -234,9 +234,9 @@
       "ID": "ACH_RESTAURANT",
       "SetID": "511e31d",
       "Name": "Take the long way round",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_REVENGE",
@@ -258,17 +258,17 @@
       "ID": "ACH_ROOM203",
       "SetID": "511e31d",
       "Name": "Pick the right door",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ROOM303",
       "SetID": "511e31d",
       "Name": "One-way",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SPADE",
@@ -290,9 +290,9 @@
       "ID": "ACH_THIRDFLOOR",
       "SetID": "511e31d",
       "Name": "The third floor",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_WAREHOUSE",
@@ -312,8 +312,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:05:11.595175+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T16:58:37.8015467+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:57:15.3191522+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:05:11.5952085+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:08.4519045+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:57:10.9793389+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:00:38.7227777+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:08.4519287+00:00"
 }

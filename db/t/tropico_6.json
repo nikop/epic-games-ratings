@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -846,7 +846,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2800,
+  "EOS_Progressed": 2801,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -1931,6 +1931,11 @@
       "Time": "2023-05-12T17:06:01.5778129+00:00",
       "NumProgressed": 2800,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T18:08:52.4424296+00:00",
+      "NumProgressed": 2801,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2102,7 +2107,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2116,9 +2121,9 @@
       "ID": "ACH_MILITARYCOUP",
       "SetID": "1p8ab95",
       "Name": "One Does Not Simply Stage A Coup",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -2261,15 +2266,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2800,
+      "Progressed": 2801,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:06:01.5778123+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T17:01:14.9913924+00:00",
-  "LastUpdate_Ratings": "2023-05-12T17:00:18.6546642+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:06:01.5778781+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:52.4424292+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:03:09.0662501+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:52.4424662+00:00"
 }

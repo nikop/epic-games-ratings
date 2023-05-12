@@ -3,9 +3,9 @@
   "Name": "ZZT!",
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2393,
-  "EOS_Completed": 68,
+  "EOS_Progressed": 2395,
+  "EOS_Completed": 69,
   "EOS_NewPlayers": 102,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 2.84,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 2.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -1076,6 +1076,11 @@
       "Time": "2023-05-12T14:04:54.2687871+00:00",
       "NumProgressed": 2393,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-05-12T18:08:20.6163102+00:00",
+      "NumProgressed": 2395,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 5,
@@ -1087,7 +1092,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2395
     },
     {
       "ID": "2",
@@ -1126,16 +1131,16 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2393,
-      "Completed": 68
+      "Progressed": 2395,
+      "Completed": 69
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:05:25.2947205+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T16:59:37.4953287+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:58:24.5113861+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:05:25.2947423+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:20.6163097+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:58:15.7920183+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:01:34.7562302+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:20.6163244+00:00"
 }

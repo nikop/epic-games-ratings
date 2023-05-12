@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 102.00% | ~44 |
-| First Blood | 72.00% | ~31 |
-| Triple Kill | 70.00% | ~30 |
-| No Asperascope | 58.00% | ~25 |
-| Cornivore | 58.00% | ~25 |
-| 15K | 37.00% | ~16 |
-| 10K | 37.00% | ~16 |
+| Seeds of War | 100.00% | ~44 |
+| First Blood | 73.00% | ~32 |
+| Triple Kill | 68.00% | ~30 |
+| No Asperascope | 57.00% | ~25 |
+| Cornivore | 57.00% | ~25 |
+| 15K | 36.00% | ~16 |
+| 10K | 36.00% | ~16 |
 | Drinking Problem | 30.00% | ~13 |
-| Skin Of Your Teeth | 21.00% | ~9 |
-| Pork Chop Express | 19.00% | ~8 |
+| Skin Of Your Teeth | 20.00% | ~9 |
+| Pork Chop Express | 18.00% | ~8 |
 | Graveside Survivor | 16.00% | ~7 |
 | Quit Horsin' Around | 14.00% | ~6 |
 | Eggtraordinary | 14.00% | ~6 |
-| Fresh Pancake | 12.00% | ~5 |
-| Carrocketeer | 12.00% | ~5 |
+| Fresh Pancake | 11.00% | ~5 |
+| Carrocketeer | 11.00% | ~5 |
 | Getting Started | 9.00% | ~4 |
 | Forestside Survivor | 9.00% | ~4 |
 | Bring Home The Bacon | 7.00% | ~3 |
@@ -49,7 +49,7 @@
 | Pro Moolotover | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 281)  
+Progressed: 44 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 31 | 0 |
 | 2023-05-10 | 39 | 0 |
 | 2023-05-11 | 42 | 0 |
-| 2023-05-12 | 43 | 0 |
+| 2023-05-12 | 44 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

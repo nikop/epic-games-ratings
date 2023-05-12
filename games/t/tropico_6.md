@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,184 |
+| Just One...More...Term... | 78.00% | ~2,185 |
 | Un-Lonely Island | 50.00% | ~1,400 |
 | The Beginning of a Servantship | 47.00% | ~1,316 |
 | Trade Is My Trait | 39.00% | ~1,092 |
@@ -35,19 +35,19 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 4.00% | ~112 |
 | The Time For Wonders | 4.00% | ~112 |
 | Been there, Done That | 3.00% | ~84 |
-| One Does Not Simply Stage A Coup | 3.00% | ~84 |
 | Narcissist | 3.00% | ~84 |
 | Promising Endeavors | 3.00% | ~84 |
 | Terraformer | 3.00% | ~84 |
 | Chain Gang | 2.00% | ~56 |
 | From Knight to Little Duck | 2.00% | ~56 |
+| One Does Not Simply Stage A Coup | 2.00% | ~56 |
 | Sublime Subliminal Supreme | 2.00% | ~56 |
 | Teamplayer | 2.00% | ~56 |
 | Curse of the Mummy | 2.00% | ~56 |
 | Survivor | 1.00% | ~28 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,800 (Ranked 132)  
+Progressed: 2,801 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 1 (0.04%) (Ranked 175)
 | 2023-05-09 | 2,759 | 1 |
 | 2023-05-10 | 2,769 | 1 |
 | 2023-05-11 | 2,782 | 1 |
-| 2023-05-12 | 2,800 | 1 |
+| 2023-05-12 | 2,801 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 316)  
 Sum: 749 (Ranked 252)  

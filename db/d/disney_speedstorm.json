@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,9 +1264,9 @@
       "ID": "1",
       "SetID": "9p3jgda",
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 363
     },
     {
       "ID": "10",
@@ -1462,8 +1462,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:05:34.3283697+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:59:01.8379437+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:05:34.3284114+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:28.1942728+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:02:05.3058865+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:28.1942983+00:00"
 }

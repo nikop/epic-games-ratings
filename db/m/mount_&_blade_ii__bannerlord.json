@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -3877,10 +3877,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 12987,
       "NumberOfAwardsMax": 6520
+    },
+    {
+      "Time": "2023-05-12T18:02:46.5218585+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12988,
+      "NumberOfAwardsMax": 6520
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12987,
+  "NumberOfAwards": 12988,
   "NumberOfAwardsMax": 6520,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3936,7 +3942,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 796
+      "Count": 797
     },
     {
       "Text": "This game is Relaxing",
@@ -3957,9 +3963,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49614,
+  "EOS_Progressed": 49615,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5862,6 +5868,11 @@
       "Time": "2023-05-12T17:05:54.9321576+00:00",
       "NumProgressed": 49614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T18:08:46.5609333+00:00",
+      "NumProgressed": 49615,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6280,15 +6291,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49614,
+      "Progressed": 49615,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-12T13:03:44.855964+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:05:54.932157+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T17:00:50.2174263+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:59:50.1155917+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:05:54.9322364+00:00"
+  "LastChanged": "2023-05-12T18:02:46.5218582+00:00",
+  "LastChanged_Achievements": "2023-05-12T18:08:46.5609328+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:02:46.5218589+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:46.5609853+00:00"
 }

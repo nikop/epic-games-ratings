@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1023,17 +1023,17 @@
       "ID": "achWater",
       "SetID": "72gjli4",
       "Name": "Thirst \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achWorms",
@@ -1056,8 +1056,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:06:03.3310306+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T17:01:20.6561526+00:00",
-  "LastUpdate_Ratings": "2023-05-12T17:00:24.2078099+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:06:03.3311102+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:54.1381351+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:03:14.7053013+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:54.1381812+00:00"
 }

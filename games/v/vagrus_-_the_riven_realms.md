@@ -10,6 +10,7 @@
 | Randomized | 7.00% | ~4 |
 | Conquered | 7.00% | ~4 |
 | Bounty Hunter | 2.00% | ~1 |
+| Conciliator | 2.00% | ~1 |
 | Scribe | 2.00% | ~1 |
 | Scholar | 2.00% | ~1 |
 | Loremaster | 2.00% | ~1 |
@@ -21,7 +22,6 @@
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
 | And the Sky Full of Stars | 0.00% | ~0 |
-| Conciliator | 0.00% | ~0 |
 | Beloved by Irafons | 0.00% | ~0 |
 | Deceptions Disclosed | 0.00% | ~0 |
 | Quartermaster | 0.00% | ~0 |

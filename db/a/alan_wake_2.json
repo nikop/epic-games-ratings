@@ -4,8 +4,8 @@
   "ProductSlug": "alan-wake-2",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -39,7 +39,7 @@
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T17:00:08.9973384+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:59:02.8016946+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:03:58.6813315+00:00"
+  "LastUpdate_AppInfo": "2023-05-12T17:58:50.9909189+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:02:06.2139598+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:07:05.4358907+00:00"
 }

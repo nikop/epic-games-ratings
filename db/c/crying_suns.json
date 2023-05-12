@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457777,
+  "EOS_Progressed": 457778,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2373,6 +2373,11 @@
       "Time": "2023-05-12T17:05:47.2779061+00:00",
       "NumProgressed": 457777,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-12T18:08:39.4433721+00:00",
+      "NumProgressed": 457778,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2536,7 +2541,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50355
+      "UsersEstimate": 50356
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -2560,7 +2565,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91555
+      "UsersEstimate": 91556
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -2568,7 +2573,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151066
+      "UsersEstimate": 151067
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2832,7 +2837,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50355
+      "UsersEstimate": 50356
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -2903,21 +2908,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1711,
-      "Completed": 1711
+      "Progressed": 1712,
+      "Completed": 1712
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457777,
+      "Progressed": 457778,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:05:47.2779052+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:59:20.8093024+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:05:47.2780365+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:39.4433715+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:02:22.0764206+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:39.4434448+00:00"
 }

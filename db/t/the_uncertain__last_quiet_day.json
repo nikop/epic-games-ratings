@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.46,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -86,6 +86,11 @@
       "Time": "2023-05-11T13:11:20.921139+00:00",
       "NumProgressed": 434,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-12T18:08:29.345857+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -113,7 +118,7 @@
       "Name": "Blade Runner",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "BUCKLE_UP",
@@ -121,7 +126,7 @@
       "Name": "Buckle up",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -129,7 +134,7 @@
       "Name": "Concrete painting",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CURIOUS",
@@ -145,7 +150,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -161,15 +166,15 @@
       "Name": "Found it!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "GOODY",
       "SetID": "2iigf77",
       "Name": "Goody",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "HACKER",
@@ -185,15 +190,15 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "HAPPY_HALLOWEEN",
       "SetID": "2iigf77",
       "Name": "Trick or Treat?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -241,7 +246,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -249,7 +254,7 @@
       "Name": "Not what it seems",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -257,7 +262,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "PERFECT_HEARING",
@@ -289,7 +294,7 @@
       "Name": "Quick charge",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -297,7 +302,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "SILENT",
@@ -313,7 +318,7 @@
       "Name": "Sysadmin",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -321,7 +326,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -352,7 +357,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 15
     }
   ],
@@ -360,8 +365,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:05:35.3615814+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T16:59:58.4087907+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:58:49.6735594+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:05:35.3616183+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:29.3458565+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:58:37.9013138+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:01:55.324416+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:29.3458799+00:00"
 }

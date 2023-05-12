@@ -9,19 +9,19 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Shutdown | 66.00% | ~302,133 |
 | Jeef Skeejj | 44.00% | ~201,422 |
 | Careful planning | 39.00% | ~178,533 |
-| Second Coming | 33.00% | ~151,066 |
+| Second Coming | 33.00% | ~151,067 |
 | Jeef Skagg | 30.00% | ~137,333 |
 | Mother | 25.00% | ~114,444 |
 | In space, no one can hear you scream | 23.00% | ~105,289 |
 | Chapter I: Echoes | 22.00% | ~100,711 |
 | Excelsior Rule | 22.00% | ~100,711 |
-| Things persisted in not being what they seemed | 20.00% | ~91,555 |
+| Things persisted in not being what they seemed | 20.00% | ~91,556 |
 | Knightmare Frames | 15.00% | ~68,667 |
 | May His passing cleanse the world | 15.00% | ~68,667 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,667 |
 | Pope Zenon | 15.00% | ~68,667 |
-| Tetsuo | 11.00% | ~50,355 |
-| Plan for the worst | 11.00% | ~50,355 |
+| Tetsuo | 11.00% | ~50,356 |
+| Plan for the worst | 11.00% | ~50,356 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,778 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,622 |
 | Through the mirror | 8.00% | ~36,622 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,777 (Ranked 28)  
+Progressed: 457,778 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 14 (0.00%) (Ranked 198)
 | 2023-05-09 | 457,634 | 14 |
 | 2023-05-10 | 457,695 | 14 |
 | 2023-05-11 | 457,744 | 14 |
-| 2023-05-12 | 457,777 | 14 |
+| 2023-05-12 | 457,778 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

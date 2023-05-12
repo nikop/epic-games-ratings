@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -230,7 +230,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37923,
+  "EOS_Progressed": 37927,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
@@ -1620,6 +1620,11 @@
       "Time": "2023-05-12T16:05:27.2911024+00:00",
       "NumProgressed": 37923,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T18:08:31.0964204+00:00",
+      "NumProgressed": 37927,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1647,7 +1652,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -1703,7 +1708,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -1711,7 +1716,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -1719,7 +1724,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -1823,7 +1828,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -1871,7 +1876,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -1903,7 +1908,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "MONUMENT_ALL",
@@ -1919,7 +1924,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -1935,7 +1940,7 @@
       "Name": "Endless Runner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "PARKOUR_TIME",
@@ -1943,7 +1948,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -2054,22 +2059,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37923,
+      "Progressed": 37927,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2760,
-      "Completed": 2760
+      "Progressed": 2764,
+      "Completed": 2764
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:05:37.6659031+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T16:59:49.2856121+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:58:39.3600456+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:05:37.6659983+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:31.09642+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:01:46.9879778+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:31.0964734+00:00"
 }

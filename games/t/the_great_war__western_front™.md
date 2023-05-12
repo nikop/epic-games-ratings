@@ -17,7 +17,7 @@
 | Bombs Away! | 0.00% | ~0 |
 | Nothing Can Stop Us! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 246)  
+Progressed: 120 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -35,7 +35,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 98 | 0 |
 | 2023-05-09 | 103 | 0 |
 | 2023-05-11 | 114 | 0 |
-| 2023-05-12 | 119 | 0 |
+| 2023-05-12 | 120 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

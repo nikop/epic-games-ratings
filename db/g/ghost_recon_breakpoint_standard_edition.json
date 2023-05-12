@@ -3,12 +3,12 @@
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 477,
-  "Ranking_Popularity": 131,
+  "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3847,11 +3847,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 8093,
       "NumberOfAwardsMax": 1043
+    },
+    {
+      "Time": "2023-05-12T18:00:51.5429155+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8097,
+      "NumberOfAwardsMax": 1045
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8093,
-  "NumberOfAwardsMax": 1043,
+  "NumberOfAwards": 8097,
+  "NumberOfAwardsMax": 1045,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3864,13 +3870,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1043
+      "Count": 1045
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 816
+      "Count": 818
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3926,8 +3932,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-05-12T08:57:43.5935164+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T16:58:52.1672225+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:57:30.918177+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:00:49.126076+00:00"
+  "LastChanged": "2023-05-12T18:00:51.5429152+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:57:26.7737544+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:00:51.5429162+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:03:35.1079726+00:00"
 }

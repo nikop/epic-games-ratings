@@ -8,16 +8,16 @@ Number of Ratings: 7,683  (23.09.2022)
 | ---- | ---------- | ----- |
 | Own use | 76.00% | ~32,086 |
 | I read Shakespeare and stuff | 64.00% | ~27,020 |
-| Just a sprinkle | 63.00% | ~26,597 |
-| I'm stumped | 61.00% | ~25,753 |
-| Plant get enough | 61.00% | ~25,753 |
+| Just a sprinkle | 63.00% | ~26,598 |
+| I'm stumped | 61.00% | ~25,754 |
+| Plant get enough | 61.00% | ~25,754 |
 | It's just the beginning | 59.00% | ~24,909 |
-| This is just my weekend vehicle | 58.00% | ~24,486 |
+| This is just my weekend vehicle | 58.00% | ~24,487 |
 | Hard work pays off | 53.00% | ~22,376 |
-| It's never too late to farm | 46.00% | ~19,420 |
+| It's never too late to farm | 46.00% | ~19,421 |
 | All out of Land | 44.00% | ~18,576 |
 | Field Trip | 43.00% | ~18,154 |
-| I like to switch it up | 40.00% | ~16,887 |
+| I like to switch it up | 40.00% | ~16,888 |
 | Help me to help you | 38.00% | ~16,043 |
 | Ultimutt Pawesomeness | 28.00% | ~11,821 |
 | Van Gogh | 26.00% | ~10,977 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~169 |
 | Raisin the stakes | 0.30% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,218 (Ranked 79)  
+Progressed: 42,219 (Ranked 79)  
 Completed: 5 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,20 +72,20 @@ Completed: 5 (0.01%) (Ranked 190)
 | 2023-05-09 | 42,096 | 5 |
 | 2023-05-10 | 42,150 | 5 |
 | 2023-05-11 | 42,191 | 5 |
-| 2023-05-12 | 42,218 | 5 |
+| 2023-05-12 | 42,219 | 5 |
 ## Awards
-Max (Great for Beginners): 4,189  (Ranked 70)  
-Sum: 36,319 (Ranked 31)  
+Max (Great for Beginners): 4,194  (Ranked 70)  
+Sum: 36,326 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,189 |
+| This game is Great for Beginners | 4,194 |
 | This game is Relaxing | 3,887 |
 | This game is Educational | 3,833 |
 | This game has Quickly Understood Controls | 3,810 |
 | This game is Extremely Fun | 3,683 |
 | This game is Highly Recommended | 3,649 |
-| This game has Diverse Characters | 3,583 |
+| This game has Diverse Characters | 3,585 |
 | This game has Amazing Storytelling | 3,548 |
 | This game has Amazing Characters | 3,163 |
 | This game has a Creative Community | 2,974 |
@@ -209,4 +209,4 @@ Diff (max vs sum): 39
 | 2023-05-09 | 4.70 | - | 4,186 | 36,286 |
 | 2023-05-10 | 4.70 | - | 4,186 | 36,297 |
 | 2023-05-11 | 4.70 | - | 4,189 | 36,313 |
-| 2023-05-12 | 4.70 | - | 4,189 | 36,319 |
+| 2023-05-12 | 4.70 | - | 4,194 | 36,326 |

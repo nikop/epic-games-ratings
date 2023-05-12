@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 975,
+  "EOS_Progressed": 976,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -1457,6 +1457,11 @@
       "Time": "2023-05-12T17:05:33.3249478+00:00",
       "NumProgressed": 975,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T18:08:27.3829342+00:00",
+      "NumProgressed": 976,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1572,7 +1577,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "dragonmaster",
@@ -1652,7 +1657,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "fourleafclover",
@@ -1804,7 +1809,7 @@
       "Name": "Miner Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "missionsdedication",
@@ -1828,7 +1833,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "mythicpower",
@@ -1860,7 +1865,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "prestigiousx10",
@@ -1892,7 +1897,7 @@
       "Name": "Scientist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "scrollmaster",
@@ -1916,7 +1921,7 @@
       "Name": "Superior",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "templeofeternals",
@@ -1924,7 +1929,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "thealchemist",
@@ -2028,7 +2033,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "warmachinesarmy",
@@ -2058,16 +2063,16 @@
       "ID": "worldmap",
       "SetID": "3nl4bcg",
       "Name": "World Map",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 781
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 975,
+      "Progressed": 976,
       "Completed": 1
     }
   ],
@@ -2075,8 +2080,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-12T17:05:33.3249473+00:00",
-  "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-12T16:58:02.7454979+00:00",
-  "LastUpdate_Achievements": "2023-05-12T17:05:33.3250993+00:00"
+  "LastChanged_Achievements": "2023-05-12T18:08:27.3829337+00:00",
+  "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
+  "LastUpdate_Ratings": "2023-05-12T18:01:16.7924846+00:00",
+  "LastUpdate_Achievements": "2023-05-12T18:08:27.3830188+00:00"
 }
