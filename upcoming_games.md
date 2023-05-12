@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Vacation Adventures: Cruise Director 8 CE](games/v/vacation_adventures__cruise_director_8_ce.md) | 2023-05-12 | 2023-05-12 |
 | [Mobilization](games/9/9df3ec873af34f9ab4e6e13fb4a17248.md) | 2023-05-12 | 2023-04-21 |
 | [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 2021-09-28 |
 | [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |
@@ -63,6 +62,7 @@
 | [Covid Carl](games/c/covid_carl.md) | 2023-06-30 | 2022-10-25 |
 | [Cubzh](games/c/cubzh.md) | 2023-06-30 | 2021-10-24 |
 | [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | 2022-12-15 |
+| [Indies Lies](games/i/indies_lies.md) | 2023-06-30 | 2022-03-31 |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | 2023-06-30 |
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | 2021-10-20 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-30 | 2023-06-30 |
@@ -369,7 +369,6 @@
 | [Vampire: The Masquerade® - Bloodlines™ 2](games/v/vampire__the_masquerade®_-_bloodlines™_2.md) | 2099-01-02 | - |
 | [Worlds Of The Future](games/w/worlds_of_the_future.md) | 2099-01-02 | - |
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |
-| [Indies Lies](games/i/indies_lies.md) | 2099-01-25 | 2022-03-31 |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2099-02-01 | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |
