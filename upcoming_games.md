@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Mobilization](games/9/9df3ec873af34f9ab4e6e13fb4a17248.md) | 2023-05-12 | 2023-04-21 |
 | [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 2021-09-28 |
 | [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |
 | [Fusion Paradox](games/f/fusion_paradox.md) | 2023-05-12 | 2023-04-10 |
@@ -9,6 +8,7 @@
 | [Flyto](games/f/flyto.md) | 2023-05-15 | 2023-05-15 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-15 | 2023-01-14 |
 | [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
+| [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
@@ -66,7 +66,6 @@
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | 2023-06-30 |
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | 2021-10-20 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-30 | 2023-06-30 |
-| [Machinika Museum](games/m/machinika_museum.md) | 2023-06-30 | 2021-03-23 |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | 2023-06-30 |
 | [MUSYNX](games/7/739d0f3d53054b29befc2753d58c7045.md) | 2023-06-30 | 2018-12-04 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | 2023-12-31 |

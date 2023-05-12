@@ -210,9 +210,9 @@
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 491 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 491 |
 | 192 | [The Witness](games/t/the_witness.md) | 4.70 | 170 | 274 |
-| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,266 | 69 |
+| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,270 | 69 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 491 |
-| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,009 | 8 |
+| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,060 | 8 |
 | 213 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 491 |
 | 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,747 | 76 |
 | 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 491 |
@@ -411,7 +411,7 @@
 | 398 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,170 | 84 |
 | 398 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 445 |
 | 398 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
-| 412 | [Among Us](games/a/among_us.md) | 4.58 | 2,398 | 93 |
+| 412 | [Among Us](games/a/among_us.md) | 4.58 | 2,399 | 93 |
 | 412 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 99 | 322 |
 | 412 | [Everything](games/e/everything.md) | 4.58 | 0 | 491 |
 | 412 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 491 |
@@ -768,7 +768,7 @@
 | 760 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.29 | 0 | 491 |
 | 760 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 491 |
 | 768 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 491 |
-| 768 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,439 | 92 |
+| 768 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,441 | 92 |
 | 768 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 297 |
 | 768 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.28 | 0 | 491 |
 | 772 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.27 | 0 | 491 |
