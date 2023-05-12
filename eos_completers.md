@@ -14,17 +14,17 @@
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 13 | [Remains](games/r/remains.md) | 11.11% |
 | 14 | [Smelter](games/s/smelter.md) | 10.00% |
-| 15 | [Them and Us](games/t/them_and_us.md) | 9.09% |
-| 16 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
-| 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
-| 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
+| 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
+| 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
+| 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
+| 20 | [Them and Us](games/t/them_and_us.md) | 7.69% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 7.08% |
-| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
+| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.80% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.38% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
@@ -39,7 +39,7 @@
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 38 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
-| 40 | [The Complex](games/t/the_complex.md) | 3.55% |
+| 40 | [The Complex](games/t/the_complex.md) | 3.54% |
 | 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.45% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 43 | [The Bunker](games/t/the_bunker.md) | 3.33% |
@@ -58,7 +58,7 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -68,7 +68,7 @@
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
 | 67 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
-| 69 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.59% |
+| 69 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.56% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
@@ -398,4 +398,4 @@
 | 198 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,598 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,599 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
