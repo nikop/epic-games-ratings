@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -644,9 +644,9 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -844,8 +844,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-12T18:08:21.4214125+00:00",
+  "LastChanged_Achievements": "2023-05-12T19:06:12.2079412+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:26.9106567+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:00:51.8028556+00:00",
-  "LastUpdate_Achievements": "2023-05-12T18:08:21.421461+00:00"
+  "LastUpdate_Ratings": "2023-05-12T18:57:42.7474903+00:00",
+  "LastUpdate_Achievements": "2023-05-12T19:06:12.2079965+00:00"
 }

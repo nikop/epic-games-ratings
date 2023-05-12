@@ -6,47 +6,47 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 0.50% | ~107 |
+| Spells and Swords | 0.50% | ~108 |
 | Captain and Crew | 0.40% | ~86 |
-| Harvest and Home | 0.30% | ~64 |
-| Poise and Poisons | 0.30% | ~64 |
+| Harvest and Home | 0.30% | ~65 |
+| Poise and Poisons | 0.30% | ~65 |
 | Hands and Hammers | 0.20% | ~43 |
 | Suns and Soldiers | 0.20% | ~43 |
 | No Harm in Looking | 0.20% | ~43 |
-| Truly Blessed | 0.10% | ~21 |
-| Black-shoppe | 0.10% | ~21 |
-| Full House | 0.10% | ~21 |
-| Pillow Investments | 0.10% | ~21 |
-| Erebus Purified | 0.10% | ~21 |
-| Looks Familiar | 0.10% | ~21 |
-| For Justice | 0.10% | ~21 |
-| For Glory | 0.10% | ~21 |
-| For Wrath | 0.10% | ~21 |
-| For Greed | 0.10% | ~21 |
-| King and Kin | 0.10% | ~21 |
-| For Survival | 0.10% | ~21 |
-| For Penance | 0.10% | ~21 |
-| Progenitor and Protégé | 0.10% | ~21 |
-| For Love | 0.10% | ~21 |
-| For Pride | 0.10% | ~21 |
-| K.O. | 0.10% | ~21 |
-| It Was Just an Estimate | 0.10% | ~21 |
-| Good Practice | 0.10% | ~21 |
-| Maybe Wax Doesn't Melt | 0.10% | ~21 |
-| A Glimpse of the Future | 0.10% | ~21 |
-| Good Boy! | 0.10% | ~21 |
-| Prequel to the Sequel | 0.10% | ~21 |
-| Just the Beginning | 0.10% | ~21 |
-| Wasted Betrayal | 0.10% | ~21 |
-| Had to Do It | 0.10% | ~21 |
-| Jack of all Trades | 0.10% | ~21 |
-| Color Coordination | 0.10% | ~21 |
+| Truly Blessed | 0.10% | ~22 |
+| Black-shoppe | 0.10% | ~22 |
+| Full House | 0.10% | ~22 |
+| Pillow Investments | 0.10% | ~22 |
+| Erebus Purified | 0.10% | ~22 |
+| Looks Familiar | 0.10% | ~22 |
+| For Justice | 0.10% | ~22 |
+| For Glory | 0.10% | ~22 |
+| For Wrath | 0.10% | ~22 |
+| For Greed | 0.10% | ~22 |
+| King and Kin | 0.10% | ~22 |
+| For Survival | 0.10% | ~22 |
+| For Penance | 0.10% | ~22 |
+| Progenitor and Protégé | 0.10% | ~22 |
+| For Love | 0.10% | ~22 |
+| For Pride | 0.10% | ~22 |
+| K.O. | 0.10% | ~22 |
+| It Was Just an Estimate | 0.10% | ~22 |
+| Good Practice | 0.10% | ~22 |
+| Maybe Wax Doesn't Melt | 0.10% | ~22 |
+| A Glimpse of the Future | 0.10% | ~22 |
+| Good Boy! | 0.10% | ~22 |
+| Prequel to the Sequel | 0.10% | ~22 |
+| Just the Beginning | 0.10% | ~22 |
+| Wasted Betrayal | 0.10% | ~22 |
+| Had to Do It | 0.10% | ~22 |
+| Jack of all Trades | 0.10% | ~22 |
+| Color Coordination | 0.10% | ~22 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,498 (Ranked 90)  
+Progressed: 21,501 (Ranked 90)  
 Completed: 35 (0.16%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 35 (0.16%) (Ranked 143)
 | 2023-05-09 | 21,480 | 35 |
 | 2023-05-10 | 21,489 | 35 |
 | 2023-05-11 | 21,494 | 35 |
-| 2023-05-12 | 21,498 | 35 |
+| 2023-05-12 | 21,501 | 35 |
 ## Awards
 Max (Extremely Fun): 215  (Ranked 250)  
 Sum: 1,625 (Ranked 201)  

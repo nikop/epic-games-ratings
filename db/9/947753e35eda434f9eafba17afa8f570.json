@@ -2,9 +2,9 @@
   "ID": "947753e35eda434f9eafba17afa8f570",
   "Name": "Alekon",
   "ProductSlug": "alekon-b2faec",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33,6 +33,11 @@
     {
       "Time": "2023-05-09T04:04:10.1974853+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T19:03:21.8945356+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -155,7 +160,7 @@
       "ID": "ACH_22_MIND_READER",
       "SetID": "2k150c1",
       "Name": "Mind Reader",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -291,7 +296,7 @@
       "ID": "ACH_38_TREASURE",
       "SetID": "2k150c1",
       "Name": "Richer Than McMuney",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -364,13 +369,13 @@
     {
       "ID": "2k150c1",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-05-12T18:06:23.5651859+00:00",
+  "LastChanged_Achievements": "2023-05-12T19:03:21.8945348+00:00",
   "LastUpdate_AppInfo": "2023-05-06T11:58:42.8508941+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:00:32.8092452+00:00",
-  "LastUpdate_Achievements": "2023-05-12T18:06:23.5652181+00:00"
+  "LastUpdate_Ratings": "2023-05-12T18:57:15.6137236+00:00",
+  "LastUpdate_Achievements": "2023-05-12T19:03:21.8945701+00:00"
 }

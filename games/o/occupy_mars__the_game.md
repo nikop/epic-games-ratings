@@ -53,7 +53,7 @@
 | Tech Expert | 0.00% | ~0 |
 | Bob The Builder | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 349)  
+Progressed: 3 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

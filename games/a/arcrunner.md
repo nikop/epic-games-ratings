@@ -19,7 +19,7 @@
 | Up Close And Personal | 23.00% | ~16 |
 | Nanonic III | 17.00% | ~12 |
 | The Bigger They Are | 14.00% | ~10 |
-| Starship Docks | 13.00% | ~9 |
+| Starship Docks | 14.00% | ~10 |
 | Fully Modded | 11.00% | ~8 |
 | Cybernetic | 10.00% | ~7 |
 | Eden Heights | 6.00% | ~4 |

@@ -6,16 +6,16 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~502,244 |
-| Every story has a beginning | 37.00% | ~226,622 |
-| The first of many | 32.00% | ~195,998 |
-| Positive word of mouth | 18.00% | ~110,249 |
-| Lawn in the U.S.A. | 15.00% | ~91,874 |
-| Blade Runner | 9.00% | ~55,124 |
-| Credible | 7.00% | ~42,875 |
-| Teamwork makes the dream work | 5.00% | ~30,625 |
-| Bigger and better | 4.00% | ~24,500 |
-| Aggressive expansion | 4.00% | ~24,500 |
+| The dream begins | 82.00% | ~502,263 |
+| Every story has a beginning | 37.00% | ~226,631 |
+| The first of many | 32.00% | ~196,005 |
+| Positive word of mouth | 18.00% | ~110,253 |
+| Lawn in the U.S.A. | 15.00% | ~91,877 |
+| Blade Runner | 9.00% | ~55,126 |
+| Credible | 7.00% | ~42,876 |
+| Teamwork makes the dream work | 5.00% | ~30,626 |
+| Bigger and better | 4.00% | ~24,501 |
+| Aggressive expansion | 4.00% | ~24,501 |
 | Where there's muck there's brass | 3.00% | ~18,375 |
 | Size isn't everything | 3.00% | ~18,375 |
 | Established | 3.00% | ~18,375 |
@@ -27,12 +27,12 @@ Number of Ratings: 5,086  (23.09.2022)
 | Trusted | 2.00% | ~12,250 |
 | Fighting on all fronts | 1.00% | ~6,125 |
 | The top of the mountain | 1.00% | ~6,125 |
-| Earn your stripes | 0.90% | ~5,512 |
-| Lawn & Order | 0.90% | ~5,512 |
-| Professional | 0.90% | ~5,512 |
+| Earn your stripes | 0.90% | ~5,513 |
+| Lawn & Order | 0.90% | ~5,513 |
+| Professional | 0.90% | ~5,513 |
 | Jack of all trades | 0.80% | ~4,900 |
 | All hands on deck | 0.80% | ~4,900 |
-| Worked your grass off | 0.70% | ~4,287 |
+| Worked your grass off | 0.70% | ~4,288 |
 | The grass is always greener | 0.60% | ~3,675 |
 | Phoenix rises | 0.40% | ~2,450 |
 | Cut Loose | 0.40% | ~2,450 |
@@ -40,28 +40,28 @@ Number of Ratings: 5,086  (23.09.2022)
 | In it for the long haul | 0.20% | ~1,225 |
 | Hard times | 0.20% | ~1,225 |
 | Distinguished | 0.20% | ~1,225 |
-| Amateur mower | 0.10% | ~612 |
-| Expert mower | 0.10% | ~612 |
-| Professional mower | 0.10% | ~612 |
-| Lawn on the 4th of July | 0.10% | ~612 |
-| Zero to hero | 0.10% | ~612 |
-| A seat at the round table | 0.10% | ~612 |
-| Home game | 0.10% | ~612 |
-| Excalibur? | 0.10% | ~612 |
-| An axe to grind | 0.10% | ~612 |
-| Elderly chap, big grey beard, pointy hat. | 0.10% | ~612 |
-| Head of the family | 0.10% | ~612 |
-| Spared no expense | 0.10% | ~612 |
-| We’re going to make a fortune with this place | 0.10% | ~612 |
-| Don’t go into the long grass! | 0.10% | ~612 |
-| Clever girl | 0.10% | ~612 |
-| We have a T-Rex | 0.10% | ~612 |
-| Welcome to Dino Safari! | 0.10% | ~612 |
-| Centurion | 0.10% | ~612 |
-| Lawn Enforcement Officer | 0.10% | ~612 |
-| Mo mowers, mo problems | 0.10% | ~612 |
+| Amateur mower | 0.10% | ~613 |
+| Expert mower | 0.10% | ~613 |
+| Professional mower | 0.10% | ~613 |
+| Lawn on the 4th of July | 0.10% | ~613 |
+| Zero to hero | 0.10% | ~613 |
+| A seat at the round table | 0.10% | ~613 |
+| Home game | 0.10% | ~613 |
+| Excalibur? | 0.10% | ~613 |
+| An axe to grind | 0.10% | ~613 |
+| Elderly chap, big grey beard, pointy hat. | 0.10% | ~613 |
+| Head of the family | 0.10% | ~613 |
+| Spared no expense | 0.10% | ~613 |
+| We’re going to make a fortune with this place | 0.10% | ~613 |
+| Don’t go into the long grass! | 0.10% | ~613 |
+| Clever girl | 0.10% | ~613 |
+| We have a T-Rex | 0.10% | ~613 |
+| Welcome to Dino Safari! | 0.10% | ~613 |
+| Centurion | 0.10% | ~613 |
+| Lawn Enforcement Officer | 0.10% | ~613 |
+| Mo mowers, mo problems | 0.10% | ~613 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612,493 (Ranked 19)  
+Progressed: 612,516 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 9 (0.00%) (Ranked 198)
 | 2023-05-09 | 611,591 | 9 |
 | 2023-05-10 | 611,915 | 9 |
 | 2023-05-11 | 612,229 | 9 |
-| 2023-05-12 | 612,493 | 9 |
+| 2023-05-12 | 612,516 | 9 |
 ## Awards
 Max (Quickly Understood Controls): 179  (Ranked 268)  
 Sum: 957 (Ranked 229)  

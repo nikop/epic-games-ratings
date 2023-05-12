@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.59,
+  "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -298,6 +298,11 @@
       "Time": "2023-05-11T13:11:34.7879727+00:00",
       "NumProgressed": 63,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T19:06:40.0473708+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -307,7 +312,7 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -379,7 +384,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -395,7 +400,7 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -403,7 +408,7 @@
       "ID": "i_prefer_fusion_jazz",
       "SetID": "jig50d",
       "Name": "I Prefer Jazz Fusion",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -475,7 +480,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -539,7 +544,7 @@
       "ID": "weapons",
       "SetID": "jig50d",
       "Name": "You Are Actually Supposed To Use Those",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -556,7 +561,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 1
     }
   ],
@@ -564,8 +569,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-12T18:08:43.1821101+00:00",
+  "LastChanged_Achievements": "2023-05-12T19:06:40.04737+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.876258+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:02:59.2208453+00:00",
-  "LastUpdate_Achievements": "2023-05-12T18:08:43.1821353+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:00:48.8464231+00:00",
+  "LastUpdate_Achievements": "2023-05-12T19:06:40.0473963+00:00"
 }

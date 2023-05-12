@@ -15,9 +15,9 @@
 | Pooshed Past 7500 | 5.00% | ~2 |
 | Challenge 02 | 2.00% | ~1 |
 | Challenge 03 | 2.00% | ~1 |
-| Challenge 04 | 0.00% | ~0 |
-| Challenge 05 | 0.00% | ~0 |
-| Challenge 06 | 0.00% | ~0 |
+| Challenge 04 | 2.00% | ~1 |
+| Challenge 05 | 2.00% | ~1 |
+| Challenge 06 | 2.00% | ~1 |
 | Challenge 07 | 0.00% | ~0 |
 | Challenge 08 | 0.00% | ~0 |
 | Challenge 09 | 0.00% | ~0 |

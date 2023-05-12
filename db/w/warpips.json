@@ -4,7 +4,7 @@
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 670,
   "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 442,
+  "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 265,
@@ -334,10 +334,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-05-12T18:57:30.1794219+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 62,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
+  "NumberOfAwards": 62,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Playful Visuals",
   "Tags": [
@@ -352,6 +358,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -374,9 +386,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-05-10T13:59:30.2913121+00:00",
-  "LastChanged_Achievements": "2023-05-12T18:08:11.1927176+00:00",
+  "LastChanged": "2023-05-12T18:57:30.1794218+00:00",
+  "LastChanged_Achievements": "2023-05-12T19:05:59.015107+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:17.0350384+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:00:43.1676153+00:00",
-  "LastUpdate_Achievements": "2023-05-12T18:08:11.1927212+00:00"
+  "LastUpdate_Ratings": "2023-05-12T18:57:30.1794222+00:00",
+  "LastUpdate_Achievements": "2023-05-12T19:05:59.0151107+00:00"
 }

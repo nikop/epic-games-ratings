@@ -744,7 +744,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5612,
+  "EOS_Progressed": 5613,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -1909,6 +1909,11 @@
       "Time": "2023-05-12T18:06:12.7369934+00:00",
       "NumProgressed": 5612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T19:03:07.5924839+00:00",
+      "NumProgressed": 5613,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -1998,9 +2003,9 @@
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1740
     },
     {
       "ID": "First_Major_Ally",
@@ -2024,7 +2029,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "First_Race_Met",
@@ -2040,7 +2045,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "First_Stream_Travel",
@@ -2056,7 +2061,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4377
+      "UsersEstimate": 4378
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2136,7 +2141,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "Play_1000_Hours",
@@ -2240,7 +2245,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2408,7 +2413,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3760
+      "UsersEstimate": 3761
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2424,7 +2429,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Win_CustomFaction",
@@ -2495,15 +2500,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5612,
+      "Progressed": 5613,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-12T13:57:15.9226682+00:00",
-  "LastChanged_Achievements": "2023-05-12T18:06:12.7369929+00:00",
+  "LastChanged_Achievements": "2023-05-12T19:03:07.5924666+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:00:42.9247864+00:00",
-  "LastUpdate_Achievements": "2023-05-12T18:06:12.7372997+00:00"
+  "LastUpdate_Ratings": "2023-05-12T18:57:29.9468269+00:00",
+  "LastUpdate_Achievements": "2023-05-12T19:03:07.5925668+00:00"
 }

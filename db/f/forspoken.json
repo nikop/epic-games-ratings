@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37927,
+  "EOS_Progressed": 37934,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1625,6 +1625,11 @@
       "Time": "2023-05-12T18:08:31.0964204+00:00",
       "NumProgressed": 37927,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T19:06:25.0080428+00:00",
+      "NumProgressed": 37934,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1684,7 +1689,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -1796,7 +1801,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -1852,7 +1857,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -1972,7 +1977,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "SPRING_ALL",
@@ -1988,7 +1993,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "STAYING_AIR",
@@ -2059,22 +2064,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37927,
+      "Progressed": 37934,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2764,
-      "Completed": 2764
+      "Progressed": 2771,
+      "Completed": 2771
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-12T18:08:31.09642+00:00",
+  "LastChanged_Achievements": "2023-05-12T19:06:25.0080422+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:01:46.9879778+00:00",
-  "LastUpdate_Achievements": "2023-05-12T18:08:31.0964734+00:00"
+  "LastUpdate_Ratings": "2023-05-12T18:59:02.7074962+00:00",
+  "LastUpdate_Achievements": "2023-05-12T19:06:25.0081026+00:00"
 }

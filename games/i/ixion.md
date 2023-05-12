@@ -33,13 +33,13 @@ Rating: 4.54 (Ranked 477)
 | Man's Best Friend | 0.20% | ~4 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
+| ...  in a finite world | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
 | Pulsar Disciple | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
-| ...  in a finite world | 0.10% | ~2 |
 | Sustainable Energy | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
 | Praise the Hull! | 0.10% | ~2 |
@@ -49,6 +49,7 @@ Rating: 4.54 (Ranked 477)
 | Tiqqun Unchained | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
+| Help of the Forgotten Member | 0.10% | ~2 |
 | What the Ruins Teach Us | 0.10% | ~2 |
 | Beyond Time and Space | 0.00% | ~0 |
 | Tiqqun Contender | 0.00% | ~0 |
@@ -60,7 +61,6 @@ Rating: 4.54 (Ranked 477)
 | Scenic View | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
-| Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,878 (Ranked 146)  

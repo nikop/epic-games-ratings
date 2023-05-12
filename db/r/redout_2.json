@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 967,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -142,6 +142,11 @@
     {
       "Time": "2023-05-11T08:05:27.4376199+00:00",
       "NumProgressed": 966,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T19:06:22.7010886+00:00",
+      "NumProgressed": 967,
       "NumCompleted": 0
     }
   ],
@@ -304,9 +309,9 @@
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 232
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -448,9 +453,9 @@
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 232
     },
     {
       "ID": "ONELIVERY",
@@ -569,7 +574,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 967,
       "Completed": 0
     }
   ],
@@ -577,8 +582,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-12T18:08:29.1940842+00:00",
+  "LastChanged_Achievements": "2023-05-12T19:06:22.7010876+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:03.0964777+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:01:24.4955423+00:00",
-  "LastUpdate_Achievements": "2023-05-12T18:08:29.1941368+00:00"
+  "LastUpdate_Ratings": "2023-05-12T18:58:30.8169976+00:00",
+  "LastUpdate_Achievements": "2023-05-12T19:06:22.7011302+00:00"
 }
