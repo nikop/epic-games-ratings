@@ -214,6 +214,7 @@
 | 198 | [Atari Mania](games/a/atari_mania.md) | 0.00% |
 | 198 | [ATOM RPG](games/a/atom_rpg.md) | 0.00% |
 | 198 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
+| 198 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 198 | [Biped](games/b/biped.md) | 0.00% |
 | 198 | [BLACKTAIL](games/b/blacktail.md) | 0.00% |
 | 198 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 0.00% |
