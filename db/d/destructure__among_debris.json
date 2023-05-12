@@ -379,9 +379,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "easy_victory",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-12T05:05:06.6581747+00:00",
+  "LastChanged_Achievements": "2023-05-12T06:06:29.8482647+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.5749039+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:59:15.9533381+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:05:06.6581979+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:00:37.5433628+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:06:29.8482908+00:00"
 }

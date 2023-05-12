@@ -2,12 +2,12 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
-  "Ranking_Rating": 516,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 1305,
   "RatingHistory": [
     {
@@ -729,12 +729,18 @@
       "Rating": 4.51,
       "NumberOfAwards": 124,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-05-12T05:58:14.7130995+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 125,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 124,
+  "NumberOfAwards": 125,
   "NumberOfAwardsMax": 28,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Easy Combat",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -758,7 +764,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Highly Recommended",
@@ -778,8 +784,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-05-11T10:57:55.6693021+00:00",
+  "LastChanged": "2023-05-12T05:58:14.7130994+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:19.6830528+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:57:37.4390647+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:02:27.8541396+00:00"
+  "LastUpdate_Ratings": "2023-05-12T05:58:14.7131+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:03:21.3890139+00:00"
 }

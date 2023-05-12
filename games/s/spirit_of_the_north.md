@@ -10,16 +10,16 @@ Number of Ratings: 1,175  (23.09.2022)
 | INFUSED WITH LIGHT | 52.00% | ~27,851 |
 | FOXIN' AROUND | 28.00% | ~14,997 |
 | FETCH | 27.00% | ~14,461 |
-| BLOOMS OF LIGHT | 26.00% | ~13,925 |
+| BLOOMS OF LIGHT | 26.00% | ~13,926 |
 | BEST FRIENDS | 22.00% | ~11,783 |
-| AWAKEN | 21.00% | ~11,247 |
+| AWAKEN | 21.00% | ~11,248 |
 | ERADICATE | 20.00% | ~10,712 |
 | SPIRIT BARK | 20.00% | ~10,712 |
 | GARDEN OF LIGHT | 18.00% | ~9,641 |
 | SPIRIT FORM | 15.00% | ~8,034 |
 | WRITTEN IN STONE | 15.00% | ~8,034 |
 | UPROOTING DARKNESS | 14.00% | ~7,498 |
-| WEIGHTLESS | 11.00% | ~5,891 |
+| WEIGHTLESS | 11.00% | ~5,892 |
 | SPIRIT DASH | 10.00% | ~5,356 |
 | OLD COMPANION | 8.00% | ~4,285 |
 | PLAGUE DOCTOR | 8.00% | ~4,285 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,071 |
 | KINDRED SPIRITS | 0.60% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,559 (Ranked 73)  
+Progressed: 53,560 (Ranked 73)  
 Completed: 250 (0.47%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 250 (0.47%) (Ranked 105)
 | 2023-05-09 | 53,310 | 250 |
 | 2023-05-10 | 53,421 | 250 |
 | 2023-05-11 | 53,540 | 250 |
-| 2023-05-12 | 53,559 | 250 |
+| 2023-05-12 | 53,560 | 250 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 463)  
 Sum: 93 (Ranked 400)  

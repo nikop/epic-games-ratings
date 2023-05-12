@@ -5,9 +5,9 @@
   "Ranking_Rating": 825,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1012,
+  "EOS_Progressed": 1013,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.94,
   "EosHistory": [
@@ -442,6 +442,11 @@
       "Time": "2023-05-12T05:05:08.2202824+00:00",
       "NumProgressed": 1012,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-12T06:06:31.8005041+00:00",
+      "NumProgressed": 1013,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 11,
@@ -453,7 +458,7 @@
       "Name": "Cutepie",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -469,7 +474,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -517,7 +522,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -540,15 +545,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1012,
+      "Progressed": 1013,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-12T05:05:08.220282+00:00",
+  "LastChanged_Achievements": "2023-05-12T06:06:31.8005031+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.5241617+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:59:20.3675828+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:05:08.2202946+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:00:44.7595135+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:06:31.8005168+00:00"
 }

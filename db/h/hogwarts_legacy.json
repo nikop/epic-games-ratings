@@ -2134,10 +2134,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 34144,
       "NumberOfAwardsMax": 18654
+    },
+    {
+      "Time": "2023-05-12T05:57:22.0431757+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34146,
+      "NumberOfAwardsMax": 18654
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34144,
+  "NumberOfAwards": 34146,
   "NumberOfAwardsMax": 18654,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2157,7 +2163,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 606
+      "Count": 608
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2214,9 +2220,9 @@
       "Count": 467
     }
   ],
-  "EOS_Progressed": 266657,
+  "EOS_Progressed": 266659,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1114,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4104,6 +4110,11 @@
       "Time": "2023-05-12T05:02:22.380432+00:00",
       "NumProgressed": 266657,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2023-05-12T06:03:13.875832+00:00",
+      "NumProgressed": 266659,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 45,
@@ -4123,7 +4134,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15999
+      "UsersEstimate": 16000
     },
     {
       "ID": "PFA_11",
@@ -4131,7 +4142,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15999
+      "UsersEstimate": 16000
     },
     {
       "ID": "PFA_12",
@@ -4474,16 +4485,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266657,
+      "Progressed": 266659,
       "Completed": 359
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-12T03:57:07.9305397+00:00",
-  "LastChanged_Achievements": "2023-05-12T05:02:22.3804316+00:00",
+  "LastChanged": "2023-05-12T05:57:22.0431755+00:00",
+  "LastChanged_Achievements": "2023-05-12T06:03:13.8758312+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.7514351+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:57:00.3014696+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:02:22.3804796+00:00"
+  "LastUpdate_Ratings": "2023-05-12T05:57:22.0431761+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:03:13.8758794+00:00"
 }

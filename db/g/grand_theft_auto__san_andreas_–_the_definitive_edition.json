@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 376,
+  "Ranking_Rating": 375,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 110,
@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7587,
+  "EOS_Progressed": 7588,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1258,6 +1258,11 @@
       "Time": "2023-05-12T00:06:27.5298204+00:00",
       "NumProgressed": 7587,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-12T06:06:39.928448+00:00",
+      "NumProgressed": 7588,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1381,7 +1386,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH16",
@@ -1413,7 +1418,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH20",
@@ -1437,7 +1442,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH23",
@@ -1548,7 +1553,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7587,
+      "Progressed": 7588,
       "Completed": 15
     }
   ],
@@ -1556,8 +1561,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-12T05:05:14.4194302+00:00",
+  "LastChanged_Achievements": "2023-05-12T06:06:39.9284475+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.5246947+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:59:28.2102435+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:05:14.4194615+00:00"
+  "LastUpdate_Ratings": "2023-05-12T06:00:57.9870477+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:06:39.9284786+00:00"
 }

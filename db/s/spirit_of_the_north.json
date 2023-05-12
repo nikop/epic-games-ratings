@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 53559,
+  "EOS_Progressed": 53560,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2261,6 +2261,11 @@
       "Time": "2023-05-12T05:04:58.2103037+00:00",
       "NumProgressed": 53559,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-05-12T06:06:18.9712308+00:00",
+      "NumProgressed": 53560,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 24,
@@ -2280,7 +2285,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 11247
+      "UsersEstimate": 11248
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -2304,7 +2309,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 13925
+      "UsersEstimate": 13926
     },
     {
       "ID": "ERADICATE",
@@ -2448,7 +2453,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -2463,7 +2468,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 53559,
+      "Progressed": 53560,
       "Completed": 250
     }
   ],
@@ -2471,8 +2476,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-05-12T05:04:58.2103034+00:00",
+  "LastChanged_Achievements": "2023-05-12T06:06:18.9712293+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.6917673+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:58:49.4118168+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:04:58.2103311+00:00"
+  "LastUpdate_Ratings": "2023-05-12T05:59:59.1391906+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:06:18.9712636+00:00"
 }

@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.60 (Ranked 376)  
+Rating: 4.60 (Ranked 375)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,15 +12,15 @@ Rating: 4.60 (Ranked 376)
 | School's Out | 16.00% | ~1,214 |
 | Smooth Moves | 15.00% | ~1,138 |
 | Today Was a Good Day | 14.00% | ~1,062 |
-| What happens in Las Venturas... | 12.00% | ~910 |
+| What happens in Las Venturas... | 12.00% | ~911 |
 | Horror of the Santa Maria | 9.00% | ~683 |
 | Liberty City State of Mind | 7.00% | ~531 |
 | With Extra Dip | 6.00% | ~455 |
 | The End of the Line | 6.00% | ~455 |
 | Original Gangster | 6.00% | ~455 |
 | Saviour | 5.00% | ~379 |
-| They Can’t Stop All of Us | 4.00% | ~303 |
-| Rescue a Kitten Too? | 4.00% | ~303 |
+| They Can’t Stop All of Us | 4.00% | ~304 |
+| Rescue a Kitten Too? | 4.00% | ~304 |
 | What are the Odds | 3.00% | ~228 |
 | I’ll Have Two Number 9s | 2.00% | ~152 |
 | Bike or Biker | 2.00% | ~152 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 376)
 | ...Here we go again | 0.20% | ~15 |
 | I Ain't No Buster | 0.20% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,587 (Ranked 110)  
+Progressed: 7,588 (Ranked 110)  
 Completed: 15 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 15 (0.20%) (Ranked 137)
 | 2023-05-09 | 7,568 | 15 |
 | 2023-05-10 | 7,573 | 15 |
 | 2023-05-11 | 7,586 | 15 |
-| 2023-05-12 | 7,587 | 15 |
+| 2023-05-12 | 7,588 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,55 +5,55 @@ Rating: 4.75 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 78.00% | ~48,955 |
-| The Player Whisperer | 76.00% | ~47,700 |
-| One of Us, One of Us! | 73.00% | ~45,817 |
-| First Victory | 69.00% | ~43,306 |
-| Clean Sheet | 68.00% | ~42,679 |
-| #DoneDeal | 67.00% | ~42,051 |
-| Off the Books | 66.00% | ~41,424 |
-| Super-Sub | 65.00% | ~40,796 |
-| Hat-trick | 60.00% | ~37,658 |
-| "I Would Love It If We Beat Them" | 58.00% | ~36,403 |
-| Planned Signing | 57.00% | ~35,775 |
-| Scoring Streak | 54.00% | ~33,892 |
-| Thumping | 53.00% | ~33,264 |
-| Wheeler Dealer | 52.00% | ~32,637 |
-| Unbeatable! | 51.00% | ~32,009 |
-| People Pleaser | 51.00% | ~32,009 |
-| One Of Our Own | 47.00% | ~29,499 |
-| They're a Natural | 44.00% | ~27,616 |
-| Team Performance | 43.00% | ~26,988 |
-| Record Signing | 43.00% | ~26,988 |
-| The Only Stat That Matters | 43.00% | ~26,988 |
-| Full Faith | 40.00% | ~25,105 |
-| Star Player | 40.00% | ~25,105 |
-| Squad Goals | 40.00% | ~25,105 |
+| Motivational Speaker | 78.00% | ~48,957 |
+| The Player Whisperer | 76.00% | ~47,701 |
+| One of Us, One of Us! | 73.00% | ~45,818 |
+| First Victory | 69.00% | ~43,308 |
+| Clean Sheet | 68.00% | ~42,680 |
+| #DoneDeal | 67.00% | ~42,053 |
+| Off the Books | 66.00% | ~41,425 |
+| Super-Sub | 65.00% | ~40,797 |
+| Hat-trick | 60.00% | ~37,659 |
+| "I Would Love It If We Beat Them" | 58.00% | ~36,404 |
+| Planned Signing | 57.00% | ~35,776 |
+| Thumping | 53.00% | ~33,265 |
+| Scoring Streak | 53.00% | ~33,265 |
+| Wheeler Dealer | 52.00% | ~32,638 |
+| People Pleaser | 51.00% | ~32,010 |
+| Unbeatable! | 50.00% | ~31,382 |
+| One Of Our Own | 47.00% | ~29,500 |
+| They're a Natural | 44.00% | ~27,617 |
+| Team Performance | 43.00% | ~26,989 |
+| Record Signing | 43.00% | ~26,989 |
+| The Only Stat That Matters | 43.00% | ~26,989 |
+| Full Faith | 40.00% | ~25,106 |
+| Star Player | 40.00% | ~25,106 |
+| Squad Goals | 40.00% | ~25,106 |
 | The People's Champion | 39.00% | ~24,478 |
-| Parked The Bus | 38.00% | ~23,850 |
-| Beating Expectations | 38.00% | ~23,850 |
-| Goal Rush | 38.00% | ~23,850 |
+| Parked The Bus | 38.00% | ~23,851 |
+| Beating Expectations | 38.00% | ~23,851 |
+| Goal Rush | 38.00% | ~23,851 |
 | Flavour Of The Month | 36.00% | ~22,595 |
-| What A Goal! | 35.00% | ~21,967 |
-| Unstoppable Force | 35.00% | ~21,967 |
-| Tremendous Trio | 34.00% | ~21,339 |
-| Record Sale | 34.00% | ~21,339 |
-| Shots For Days | 34.00% | ~21,339 |
+| What A Goal! | 35.00% | ~21,968 |
+| Unstoppable Force | 35.00% | ~21,968 |
+| Tremendous Trio | 34.00% | ~21,340 |
+| Record Sale | 34.00% | ~21,340 |
+| Shots For Days | 34.00% | ~21,340 |
 | You're on Fire | 33.00% | ~20,712 |
 | The Special One | 33.00% | ~20,712 |
 | On a Roll | 31.00% | ~19,457 |
 | Splashing the Cash | 31.00% | ~19,457 |
-| Drilling Down | 30.00% | ~18,829 |
-| Goal Machine | 29.00% | ~18,201 |
-| Immovable Object | 27.00% | ~16,946 |
-| Cup Glory! | 27.00% | ~16,946 |
-| Cash to Burn | 26.00% | ~16,318 |
+| Drilling Down | 30.00% | ~18,830 |
+| Goal Machine | 29.00% | ~18,202 |
+| Immovable Object | 27.00% | ~16,947 |
+| Cup Glory! | 27.00% | ~16,947 |
+| Cash to Burn | 26.00% | ~16,319 |
 | Irresistible Force | 25.00% | ~15,691 |
 | Do The Double | 22.00% | ~13,808 |
 | A Game of Two Halves | 20.00% | ~12,553 |
-| Top Form | 18.00% | ~11,297 |
-| First Goal Network | 18.00% | ~11,297 |
-| You're Up! | 18.00% | ~11,297 |
+| Top Form | 18.00% | ~11,298 |
+| First Goal Network | 18.00% | ~11,298 |
+| You're Up! | 18.00% | ~11,298 |
 | First Win Network | 17.00% | ~10,670 |
 | Window Shopping | 17.00% | ~10,670 |
 | Clean Sheet Network | 16.00% | ~10,042 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 126)
 | Versus Anyone | 0.10% | ~63 |
 | 200 Club | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,763 (Ranked 65)  
+Progressed: 62,765 (Ranked 65)  
 Completed: 14 (0.02%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,15 +128,15 @@ Completed: 14 (0.02%) (Ranked 182)
 | 2023-05-09 | 62,422 | 14 |
 | 2023-05-10 | 62,591 | 14 |
 | 2023-05-11 | 62,744 | 14 |
-| 2023-05-12 | 62,763 | 14 |
+| 2023-05-12 | 62,765 | 14 |
 ## Awards
 Max (Diverse Characters): 412  (Ranked 194)  
-Sum: 3,047 (Ranked 148)  
+Sum: 3,049 (Ranked 148)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 412 |
-| This game is Highly Recommended | 367 |
+| This game is Highly Recommended | 369 |
 | This game is Educational | 365 |
 | This game is Extremely Fun | 360 |
 | This game is Relaxing | 346 |
@@ -223,3 +223,4 @@ Diff (max vs sum): 46
 | 2023-05-09 | 4.76 | 409 | 3,028 |
 | 2023-05-10 | 4.76 | 410 | 3,039 |
 | 2023-05-11 | 4.75 | 412 | 3,047 |
+| 2023-05-12 | 4.75 | 412 | 3,049 |

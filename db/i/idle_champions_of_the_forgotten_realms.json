@@ -3646,9 +3646,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87214,
+  "EOS_Progressed": 87218,
   "EOS_Completed": 1828,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5570,6 +5570,11 @@
     {
       "Time": "2023-05-12T05:05:19.6697742+00:00",
       "NumProgressed": 87214,
+      "NumCompleted": 1828
+    },
+    {
+      "Time": "2023-05-12T06:06:46.5546127+00:00",
+      "NumProgressed": 87218,
       "NumCompleted": 1828
     }
   ],
@@ -7716,9 +7721,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 436
     },
     {
       "ID": "objective_completed_54",
@@ -7956,9 +7961,9 @@
       "ID": "objective_completed_572",
       "SetID": "cc37lbc",
       "Name": "Dark Doppelgangers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_completed_573",
@@ -8532,9 +8537,9 @@
       "ID": "objective_completed_665",
       "SetID": "415jc5c",
       "Name": "Tiamat\u0027s Army",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_666",
@@ -8708,9 +8713,9 @@
       "ID": "objective_completed_697",
       "SetID": "415jc5c",
       "Name": "Mirage Arcane",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_698",
@@ -8740,9 +8745,9 @@
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_72",
@@ -9493,21 +9498,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53488,
+      "Progressed": 53492,
       "Completed": 2493
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87214,
+      "Progressed": 87218,
       "Completed": 1828
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T19:58:13.1579822+00:00",
-  "LastChanged_Achievements": "2023-05-12T05:05:19.6697739+00:00",
+  "LastChanged_Achievements": "2023-05-12T06:06:46.554612+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:57:38.7529866+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:05:19.6720369+00:00"
+  "LastUpdate_Ratings": "2023-05-12T05:58:17.058935+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:06:46.5573344+00:00"
 }

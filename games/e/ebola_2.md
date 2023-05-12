@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Statue ✔ | 60.00% | ~38 |
-| Recluse ✔ | 30.00% | ~19 |
-| Scent of Meat ✔ | 19.00% | ~12 |
-| Witch ✔ | 19.00% | ~12 |
+| Recluse ✔ | 33.00% | ~21 |
+| Scent of Meat ✔ | 21.00% | ~13 |
+| Witch ✔ | 21.00% | ~13 |
 | Voodoo ✔ | 0.00% | ~0 |
 | Light will show the truth ✔ | 0.00% | ~0 |
 | Mask ✔ | 0.00% | ~0 |

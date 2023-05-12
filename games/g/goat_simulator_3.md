@@ -5,23 +5,23 @@ Rating: 4.85 (Ranked 38)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~197,006 |
+| Forgotten Sorority | 91.00% | ~197,007 |
 | Private Club | 74.00% | ~160,203 |
-| Rogue Guild | 66.00% | ~142,883 |
-| I Watched the Intro | 57.00% | ~123,399 |
+| Rogue Guild | 66.00% | ~142,884 |
+| I Watched the Intro | 57.00% | ~123,400 |
 | Covert Consortium | 55.00% | ~119,070 |
 | Goat Queen | 53.00% | ~114,740 |
-| Reach the Stratosphere | 49.00% | ~106,080 |
-| Synchronization Complete | 47.00% | ~101,750 |
-| Secret Society | 45.00% | ~97,420 |
-| Shadow Syndicate | 37.00% | ~80,101 |
+| Reach the Stratosphere | 49.00% | ~106,081 |
+| Synchronization Complete | 47.00% | ~101,751 |
+| Secret Society | 45.00% | ~97,421 |
+| Shadow Syndicate | 37.00% | ~80,102 |
 | What a Waste of Money | 32.00% | ~69,277 |
 | New Goat Order | 30.00% | ~64,947 |
 | Don't touch the servers | 28.00% | ~60,617 |
-| San Angora: Become Human | 26.00% | ~56,287 |
-| Raider of the Lost Parking Garage | 26.00% | ~56,287 |
-| Real Buoy | 26.00% | ~56,287 |
-| Welcome to Earth | 25.00% | ~54,122 |
+| San Angora: Become Human | 26.00% | ~56,288 |
+| Raider of the Lost Parking Garage | 26.00% | ~56,288 |
+| Real Buoy | 26.00% | ~56,288 |
+| Welcome to Earth | 25.00% | ~54,123 |
 | Into the Matrix | 18.00% | ~38,968 |
 | Where is It? | 17.00% | ~36,803 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~32,474 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 38)
 | Move! That! Bus! | 0.60% | ~1,299 |
 | G.O.A.T | 0.30% | ~649 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,490 (Ranked 45)  
+Progressed: 216,491 (Ranked 45)  
 Completed: 686 (0.32%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 686 (0.32%) (Ranked 120)
 | 2023-05-09 | 216,268 | 686 |
 | 2023-05-10 | 216,368 | 686 |
 | 2023-05-11 | 216,473 | 686 |
-| 2023-05-12 | 216,490 | 686 |
+| 2023-05-12 | 216,491 | 686 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 222)  
 Sum: 2,664 (Ranked 161)  

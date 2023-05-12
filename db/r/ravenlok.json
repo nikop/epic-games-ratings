@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 602,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 6.48,
   "EosHistory": [
@@ -1375,9 +1375,9 @@
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 313
     },
     {
       "ID": "9",
@@ -1400,8 +1400,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-12T05:04:35.578353+00:00",
+  "LastChanged_Achievements": "2023-05-12T06:05:49.9053487+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:57:09.0932043+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:04:35.5784002+00:00"
+  "LastUpdate_Ratings": "2023-05-12T05:57:35.4280688+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:05:49.9054504+00:00"
 }

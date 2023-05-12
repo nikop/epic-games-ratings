@@ -2,12 +2,12 @@
   "ID": "71e6bd85af1841f598526da595f22a62",
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "ProductSlug": "hot-wheels-unleashed",
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 375,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-30T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 312,
   "RatingHistory": [
     {
@@ -444,6 +444,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 340,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-05-12T05:57:29.2072598+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 340,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
@@ -535,8 +541,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
-  "LastChanged": "2023-05-03T04:57:23.3118343+00:00",
+  "LastChanged": "2023-05-12T05:57:29.2072596+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.46717+00:00",
-  "LastUpdate_Ratings": "2023-05-12T04:57:05.094965+00:00",
-  "LastUpdate_Achievements": "2023-05-12T05:03:07.083516+00:00"
+  "LastUpdate_Ratings": "2023-05-12T05:57:29.2072603+00:00",
+  "LastUpdate_Achievements": "2023-05-12T06:03:34.0349449+00:00"
 }

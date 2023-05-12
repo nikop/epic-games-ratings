@@ -12,7 +12,7 @@
 | A Grand Visit | 71.00% | ~427 |
 | Vibing | 60.00% | ~361 |
 | Fun Guy | 60.00% | ~361 |
-| Tragic Brave | 51.00% | ~307 |
+| Tragic Brave | 52.00% | ~313 |
 | Awakened Spirits | 48.00% | ~289 |
 | Little Shop | 47.00% | ~283 |
 | Surprise! | 43.00% | ~259 |

@@ -18,12 +18,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.50% | ~436 |
 | Seeking Allies | 0.50% | ~436 |
 | Are Ya Chicken? | 0.50% | ~436 |
+| Mad Cow Disease | 0.50% | ~436 |
 | Friendly Imps | 0.50% | ~436 |
 | Get Back In The Castle | 0.40% | ~214 |
 | A Persistent Buzzing | 0.40% | ~349 |
 | Terror in the Dark | 0.40% | ~349 |
 | The Crumbling Temple | 0.40% | ~349 |
-| Mad Cow Disease | 0.40% | ~349 |
 | Pure Energy | 0.40% | ~349 |
 | Maddening | 0.30% | ~262 |
 | Owlbear Necessities | 0.30% | ~160 |
@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.30% | ~262 |
 | The Contagious Curse | 0.30% | ~262 |
 | Escort to Waterdeep | 0.30% | ~262 |
+| Constant Banditry | 0.30% | ~262 |
 | Waterdeep Detours | 0.30% | ~262 |
 | Underdeep Cartography | 0.30% | ~262 |
 | The Templar's Camp | 0.30% | ~262 |
@@ -149,6 +150,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~174 |
 | The Darkness Runs Deeper | 0.20% | ~174 |
 | Troublesome Prisoner | 0.20% | ~174 |
+| Dark Doppelgangers | 0.20% | ~174 |
 | Difficult Terrain | 0.20% | ~174 |
 | Cold & Wet | 0.20% | ~174 |
 | Madcap Adventures | 0.20% | ~174 |
@@ -164,13 +166,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~107 |
 | Bad Odds in Avernus | 0.20% | ~107 |
 | An Even Worse Time in Avernus | 0.20% | ~107 |
+| Tiamat's Army | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
 | Rime Bandits | 0.20% | ~107 |
 | Giant-Size Adventure | 0.20% | ~107 |
 | The Everlasting Rime | 0.20% | ~107 |
 | Enemy Summit | 0.20% | ~107 |
+| Mirage Arcane | 0.20% | ~107 |
 | Close Escort | 0.20% | ~174 |
-| Constant Banditry | 0.20% | ~174 |
 | The Long Haul | 0.20% | ~174 |
 | Lost in the Deep | 0.20% | ~174 |
 | Easily Distracted | 0.20% | ~174 |
@@ -357,7 +360,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~87 |
 | The Tallest of Kobolds | 0.10% | ~53 |
 | Patience is Key | 0.10% | ~87 |
-| Dark Doppelgangers | 0.10% | ~87 |
 | Faerûn's Most Wanted | 0.10% | ~53 |
 | Faerûn's Most Neglected | 0.10% | ~53 |
 | Vault of Pixies | 0.10% | ~87 |
@@ -412,7 +414,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.10% | ~53 |
 | Madcap Adventures Redux | 0.10% | ~53 |
 | When the Going Gets Tough | 0.10% | ~53 |
-| Tiamat's Army | 0.10% | ~53 |
 | Show of Strength | 0.10% | ~53 |
 | Fight Dragons with Dragons | 0.10% | ~53 |
 | Questlines | 0.10% | ~53 |
@@ -428,7 +429,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.10% | ~53 |
 | Prisoners of Unknown Choices | 0.10% | ~53 |
 | Power of Three | 0.10% | ~53 |
-| Mirage Arcane | 0.10% | ~53 |
 | Only Human | 0.10% | ~53 |
 | Ten in Ten-Towns | 0.10% | ~53 |
 | Trench Coat Run | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,214 (Ranked 59)  
+Progressed: 87,218 (Ranked 59)  
 Completed: 1,828 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 1,828 (2.10%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,214 | 1,828 |
+| 2023-05-12 | 87,218 | 1,828 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,859 (Ranked 37)  
