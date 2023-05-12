@@ -148,7 +148,7 @@
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 593 | 166 |
 | 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,512 | 49 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
-| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,950 | 14 |
+| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,999 | 14 |
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 491 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 491 |
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 751 | 149 |
@@ -240,7 +240,7 @@
 | 234 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 644 | 161 |
 | 234 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 365 |
 | 234 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 491 |
-| 234 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,206 | 60 |
+| 234 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,212 | 60 |
 | 234 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,477 | 3 |
 | 234 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 168,329 | 5 |
 | 234 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 491 |
@@ -464,7 +464,7 @@
 | 447 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 0 | 491 |
 | 447 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 351 |
 | 447 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 49 | 391 |
-| 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,842 | 75 |
+| 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,850 | 75 |
 | 466 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 491 |
 | 466 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,158 | 124 |
 | 466 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.55 | 34 | 430 |
@@ -609,7 +609,7 @@
 | 602 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 699 | 154 |
 | 602 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 491 |
 | 602 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 491 |
-| 602 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,195 | 33 |
+| 602 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,205 | 33 |
 | 602 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 491 |
 | 602 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 850 | 143 |
 | 602 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 47 | 395 |

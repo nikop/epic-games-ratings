@@ -13,7 +13,7 @@
 | 11 | [VALORANT](games/v/valorant.md) | 52,099 | 4.54 | 477 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,715 | 4.50 | 531 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 31,463 | 4.59 | 398 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,950 | 4.74 | 140 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,999 | 4.74 | 140 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,443 | 4.65 | 289 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,219 | 4.52 | 501 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,768 | 4.53 | 490 |
@@ -32,7 +32,7 @@
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,654 | 4.39 | 683 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,352 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,204 | 4.69 | 213 |
-| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,195 | 4.45 | 602 |
+| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,205 | 4.45 | 602 |
 | 34 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 9,443 | 4.24 | 784 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,334 | 4.88 | 18 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,064 | 4.60 | 375 |
@@ -59,7 +59,7 @@
 | 57 | [Prey](games/p/prey.md) | 5,536 | 4.62 | 338 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,478 | 4.82 | 59 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,461 | 4.85 | 38 |
-| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,206 | 4.68 | 234 |
+| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,212 | 4.68 | 234 |
 | 61 | [Rogue Company](games/r/rogue_company.md) | 4,891 | 4.34 | 725 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,890 | 4.75 | 126 |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,874 | 4.06 | 870 |
@@ -74,7 +74,7 @@
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,053 | 4.61 | 352 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,980 | 4.88 | 18 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,963 | 4.77 | 103 |
-| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,842 | 4.56 | 447 |
+| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,850 | 4.56 | 447 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,747 | 4.69 | 213 |
 | 77 | [SMITE](games/s/smite.md) | 3,742 | 4.45 | 602 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,592 | 4.30 | 754 |
