@@ -361,7 +361,6 @@
 | 352 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 370 |
 | 352 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 490 |
 | 352 | [GRIME](games/g/grime.md) | 4.61 | 0 | 490 |
-| 352 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 36 | 420 |
 | 352 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 350 | 210 |
 | 352 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 490 |
 | 352 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 490 |
@@ -375,28 +374,29 @@
 | 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,609 | 40 |
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 372 |
 | 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,696 | 21 |
-| 376 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,766 | 29 |
-| 376 | [Control](games/c/control.md) | 4.60 | 8,272 | 38 |
-| 376 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
-| 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 353 |
-| 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,257 | 25 |
-| 376 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 304 |
-| 376 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 490 |
-| 376 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 381 |
-| 376 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 562 | 169 |
-| 376 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 374 |
-| 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,064 | 36 |
-| 376 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
-| 376 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 490 |
-| 376 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 441 | 189 |
-| 376 | [The Medium](games/t/the_medium.md) | 4.60 | 0 | 490 |
-| 376 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 173 | 271 |
-| 376 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 484 |
-| 376 | [Wall World](games/w/wall_world.md) | 4.60 | 0 | 490 |
-| 376 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 490 |
-| 376 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 319 | 218 |
-| 376 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 343 |
-| 376 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 490 |
+| 375 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,766 | 29 |
+| 375 | [Control](games/c/control.md) | 4.60 | 8,272 | 38 |
+| 375 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
+| 375 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 353 |
+| 375 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,257 | 25 |
+| 375 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 304 |
+| 375 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 490 |
+| 375 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 381 |
+| 375 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 420 |
+| 375 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 562 | 169 |
+| 375 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 374 |
+| 375 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,064 | 36 |
+| 375 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
+| 375 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 490 |
+| 375 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 441 | 189 |
+| 375 | [The Medium](games/t/the_medium.md) | 4.60 | 0 | 490 |
+| 375 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 173 | 271 |
+| 375 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 484 |
+| 375 | [Wall World](games/w/wall_world.md) | 4.60 | 0 | 490 |
+| 375 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 490 |
+| 375 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 319 | 218 |
+| 375 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 343 |
+| 375 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 490 |
 | 398 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 404 |
 | 398 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 56,645 | 10 |
 | 398 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 596 | 165 |
@@ -528,30 +528,30 @@
 | 516 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 0 | 490 |
 | 516 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 490 |
 | 516 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.51 | 0 | 490 |
-| 516 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 28 | 450 |
 | 516 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 131 | 292 |
 | 516 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 490 |
-| 532 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.50 | 20 | 484 |
-| 532 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 253 |
-| 532 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 490 |
-| 532 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 88 | 337 |
-| 532 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
-| 532 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,715 | 12 |
-| 532 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 490 |
-| 532 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
-| 532 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,295 | 95 |
-| 532 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |
-| 532 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 490 |
-| 532 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.50 | 0 | 490 |
-| 532 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 490 |
-| 532 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 97 | 325 |
-| 532 | [MythForce](games/m/mythforce.md) | 4.50 | 32 | 434 |
-| 532 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 490 |
-| 532 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 652 | 160 |
-| 532 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.50 | 0 | 490 |
-| 532 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 490 |
-| 532 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 752 | 148 |
-| 532 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 490 |
+| 531 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.50 | 20 | 484 |
+| 531 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 253 |
+| 531 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 490 |
+| 531 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 88 | 337 |
+| 531 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
+| 531 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,715 | 12 |
+| 531 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 490 |
+| 531 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
+| 531 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,295 | 95 |
+| 531 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |
+| 531 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 490 |
+| 531 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.50 | 0 | 490 |
+| 531 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 490 |
+| 531 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 97 | 325 |
+| 531 | [MythForce](games/m/mythforce.md) | 4.50 | 32 | 434 |
+| 531 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 490 |
+| 531 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 652 | 160 |
+| 531 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.50 | 0 | 490 |
+| 531 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 490 |
+| 531 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 752 | 148 |
+| 531 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 490 |
+| 531 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 28 | 450 |
 | 553 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 374 |
 | 553 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 394 | 202 |
 | 553 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 103 |
@@ -912,11 +912,11 @@
 | 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,026 | 133 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 490 |
 | 912 | [Poker Club](games/p/poker_club.md) | 3.76 | 0 | 490 |
-| 913 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
-| 913 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
-| 913 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 50 | 384 |
+| 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 50 | 384 |
+| 914 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 490 |
+| 914 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
 | 916 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
 | 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.61 | 0 | 490 |
-| 918 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 490 |
+| 918 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.48 | 0 | 490 |
 | 919 | [Adios](games/a/adios.md) | 3.41 | 0 | 490 |
 | 920 | [Redfall](games/r/redfall.md) | 3.33 | 0 | 490 |
