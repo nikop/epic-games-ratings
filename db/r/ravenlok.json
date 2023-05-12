@@ -3,7 +3,7 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 595,
-  "EOS_Completed": 38,
-  "EOS_NewPlayers": 368,
-  "EOS_NewCompleters": 27,
-  "EOS_Completed_Percentage": 6.39,
+  "EOS_Completed": 39,
+  "EOS_NewPlayers": 358,
+  "EOS_NewCompleters": 28,
+  "EOS_Completed_Percentage": 6.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -957,6 +957,11 @@
       "Time": "2023-05-11T23:05:15.3984064+00:00",
       "NumProgressed": 595,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-05-12T00:05:36.1851259+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 50,
@@ -1046,9 +1051,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 428
     },
     {
       "ID": "2",
@@ -1126,9 +1131,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 452
     },
     {
       "ID": "29",
@@ -1174,9 +1179,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 292
     },
     {
       "ID": "34",
@@ -1302,9 +1307,9 @@
       "ID": "48",
       "SetID": "d0g98p",
       "Name": "Into the Barn",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 524
     },
     {
       "ID": "49",
@@ -1368,15 +1373,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 595,
-      "Completed": 38
+      "Completed": 39
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-11T23:05:15.3984058+00:00",
+  "LastChanged_Achievements": "2023-05-12T00:05:36.1851251+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-11T22:57:25.9975431+00:00",
-  "LastUpdate_Achievements": "2023-05-11T23:05:15.3984555+00:00"
+  "LastUpdate_Ratings": "2023-05-11T23:57:26.589533+00:00",
+  "LastUpdate_Achievements": "2023-05-12T00:05:36.1851732+00:00"
 }

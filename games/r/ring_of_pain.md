@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~219,071 |
-| Uncharted Territory | 89.00% | ~203,097 |
-| Getting A Glimpse | 73.00% | ~166,585 |
-| A Quick Escape | 65.00% | ~148,329 |
-| Explorer | 62.00% | ~141,483 |
-| Defeat The Dark | 61.00% | ~139,201 |
-| An Offering | 61.00% | ~139,201 |
-| Colorful Corpse | 58.00% | ~132,355 |
-| That Was Quick | 56.00% | ~127,791 |
-| A Donation | 56.00% | ~127,791 |
-| Goodbye, Frog Friend | 54.00% | ~123,227 |
-| Heavy Hitter | 52.00% | ~118,663 |
+| First Steps | 96.00% | ~219,073 |
+| Uncharted Territory | 89.00% | ~203,099 |
+| Getting A Glimpse | 73.00% | ~166,587 |
+| A Quick Escape | 65.00% | ~148,331 |
+| Explorer | 62.00% | ~141,485 |
+| Defeat The Dark | 61.00% | ~139,203 |
+| An Offering | 61.00% | ~139,203 |
+| Colorful Corpse | 58.00% | ~132,357 |
+| That Was Quick | 56.00% | ~127,793 |
+| A Donation | 56.00% | ~127,793 |
+| Goodbye, Frog Friend | 54.00% | ~123,229 |
+| Heavy Hitter | 52.00% | ~118,665 |
 | Heartless | 46.00% | ~104,972 |
 | Spine Breaker | 46.00% | ~104,972 |
 | Deflection | 44.00% | ~100,408 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~913 |
 | Near Death Experience | 0.30% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,199 (Ranked 41)  
+Progressed: 228,201 (Ranked 41)  
 Completed: 228 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 228 (0.10%) (Ranked 155)
 | 2023-05-09 | 228,086 | 228 |
 | 2023-05-10 | 228,144 | 228 |
 | 2023-05-11 | 228,199 | 228 |
+| 2023-05-12 | 228,201 | 228 |
 ## Awards
 Max (Quickly Understood Controls): 1,472  (Ranked 114)  
 Sum: 11,389 (Ranked 74)  

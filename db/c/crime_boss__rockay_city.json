@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 895,
   "Ranking_Popularity": 239,
-  "Ranking_PopularitySum": 221,
+  "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 43,
@@ -1312,10 +1312,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1179,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2023-05-12T00:00:38.1729648+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1185,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1179,
+  "NumberOfAwards": 1185,
   "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1347,7 +1353,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 224
+      "Count": 230
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1368,9 +1374,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 59781,
+  "EOS_Progressed": 59782,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1150,
+  "EOS_NewPlayers": 1146,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3288,6 +3294,11 @@
       "Time": "2023-05-11T23:05:55.4442759+00:00",
       "NumProgressed": 59781,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-12T00:06:21.7504246+00:00",
+      "NumProgressed": 59782,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -3299,7 +3310,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 29890
+      "UsersEstimate": 29891
     },
     {
       "ID": "ACH_0011",
@@ -3307,7 +3318,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17336
+      "UsersEstimate": 17337
     },
     {
       "ID": "ACH_0012",
@@ -3379,7 +3390,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "ACH_0050",
@@ -3411,7 +3422,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "ACH_0101",
@@ -3451,7 +3462,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43640
+      "UsersEstimate": 43641
     },
     {
       "ID": "ACH_0211",
@@ -3467,7 +3478,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28097
+      "UsersEstimate": 28098
     },
     {
       "ID": "ACH_0300",
@@ -3491,7 +3502,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     },
     {
       "ID": "ACH_0340",
@@ -3531,7 +3542,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20923
+      "UsersEstimate": 20924
     },
     {
       "ID": "ACH_0431",
@@ -3547,7 +3558,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 11358
+      "UsersEstimate": 11359
     },
     {
       "ID": "ACH_0450",
@@ -3594,16 +3605,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 59781,
+      "Progressed": 59782,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-11T20:59:44.2542224+00:00",
-  "LastChanged_Achievements": "2023-05-11T23:05:55.4442754+00:00",
+  "LastChanged": "2023-05-12T00:00:38.1729646+00:00",
+  "LastChanged_Achievements": "2023-05-12T00:06:21.7504243+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:04.9893875+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:00:10.9747184+00:00",
-  "LastUpdate_Achievements": "2023-05-11T23:05:55.44432+00:00"
+  "LastUpdate_Ratings": "2023-05-12T00:00:38.1729652+00:00",
+  "LastUpdate_Achievements": "2023-05-12T00:06:21.7504608+00:00"
 }

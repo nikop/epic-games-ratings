@@ -2,12 +2,12 @@
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
   "ProductSlug": "killing-floor-2",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 18418,
   "RatingHistory": [
     {
@@ -4540,6 +4540,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 25785,
       "NumberOfAwardsMax": 11909
+    },
+    {
+      "Time": "2023-05-12T00:01:06.2754348+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 25785,
+      "NumberOfAwardsMax": 11909
     }
   ],
   "ReviewsDisabled": false,
@@ -4619,8 +4625,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-05-11T20:00:37.0900189+00:00",
+  "LastChanged": "2023-05-12T00:01:06.2754346+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:23.8949338+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:00:34.4968458+00:00",
-  "LastUpdate_Achievements": "2023-05-11T23:04:51.6628955+00:00"
+  "LastUpdate_Ratings": "2023-05-12T00:01:06.2754352+00:00",
+  "LastUpdate_Achievements": "2023-05-12T00:05:08.9645692+00:00"
 }

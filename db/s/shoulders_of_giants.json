@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1891,
+  "EOS_Progressed": 1893,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-05-11T23:05:57.2472131+00:00",
       "NumProgressed": 1891,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-12T00:06:23.8570294+00:00",
+      "NumProgressed": 1893,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -268,7 +273,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "complete_act_one",
@@ -276,7 +281,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "complete_act_three",
@@ -300,7 +305,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1666
     },
     {
       "ID": "deal_damage",
@@ -308,7 +313,7 @@
       "Name": "Ouch",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "defeat_enemies",
@@ -316,7 +321,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1477
     },
     {
       "ID": "defeat_tree_dummy",
@@ -324,7 +329,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "fail_planet",
@@ -332,7 +337,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1458
     },
     {
       "ID": "piercing_beam",
@@ -348,7 +353,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "reach_high_heat",
@@ -364,7 +369,7 @@
       "Name": "Frogbot",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1401
     },
     {
       "ID": "save_planet_bestfriend",
@@ -380,7 +385,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "stick_decoy",
@@ -396,7 +401,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "trash_truck",
@@ -404,14 +409,14 @@
       "Name": "Taking Out the Trash",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1891,
+      "Progressed": 1893,
       "Completed": 8
     }
   ],
@@ -419,8 +424,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-11T23:05:57.2472127+00:00",
+  "LastChanged_Achievements": "2023-05-12T00:06:23.8570289+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:00:32.5297946+00:00",
-  "LastUpdate_Achievements": "2023-05-11T23:05:57.247231+00:00"
+  "LastUpdate_Ratings": "2023-05-12T00:01:04.3537198+00:00",
+  "LastUpdate_Achievements": "2023-05-12T00:06:23.8570448+00:00"
 }

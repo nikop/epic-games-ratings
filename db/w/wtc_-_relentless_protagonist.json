@@ -4,7 +4,7 @@
   "ProductSlug": "wtc-relentless-protagonist-06c355",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-01T05:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-05-08T12:01:28.6185449+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00",
-  "LastChanged_Achievements": "2023-05-11T23:05:39.0263234+00:00",
+  "LastChanged_Achievements": "2023-05-12T00:06:03.19524+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:57.0664494+00:00",
-  "LastUpdate_Ratings": "2023-05-11T22:58:49.2592784+00:00",
-  "LastUpdate_Achievements": "2023-05-11T23:05:39.0263771+00:00"
+  "LastUpdate_Ratings": "2023-05-11T23:59:00.7589541+00:00",
+  "LastUpdate_Achievements": "2023-05-12T00:06:03.19529+00:00"
 }

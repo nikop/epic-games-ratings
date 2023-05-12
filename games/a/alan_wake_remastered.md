@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Bright Falls Aficionado | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,117 (Ranked 75)  
+Progressed: 46,118 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 44 (0.10%) (Ranked 155)
 | 2023-05-09 | 46,097 | 44 |
 | 2023-05-10 | 46,108 | 44 |
 | 2023-05-11 | 46,117 | 44 |
+| 2023-05-12 | 46,118 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

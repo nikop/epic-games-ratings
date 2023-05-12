@@ -6,15 +6,15 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,558 |
-| Leader | 60.00% | ~3,094 |
-| Explorer | 53.00% | ~2,733 |
-| Healer | 53.00% | ~2,733 |
+| First Step | 69.00% | ~3,559 |
+| Leader | 60.00% | ~3,095 |
+| Explorer | 53.00% | ~2,734 |
+| Healer | 53.00% | ~2,734 |
 | Aspiring Inventor | 45.00% | ~2,321 |
-| Adventurer | 41.00% | ~2,114 |
+| Adventurer | 41.00% | ~2,115 |
 | Famous Healer | 38.00% | ~1,960 |
 | Local Leader | 35.00% | ~1,805 |
-| New Opportunities | 34.00% | ~1,753 |
+| New Opportunities | 34.00% | ~1,754 |
 | Famous Explorer | 33.00% | ~1,702 |
 | Energized | 33.00% | ~1,702 |
 | The Long Haul | 33.00% | ~1,702 |
@@ -22,9 +22,9 @@ Number of Ratings: 836  (23.09.2022)
 | The Great Healer | 30.00% | ~1,547 |
 | Cleaner | 28.00% | ~1,444 |
 | Catastrofan | 28.00% | ~1,444 |
-| Legendary Explorer | 27.00% | ~1,392 |
-| Finders, Keepers | 25.00% | ~1,289 |
-| Top Notch | 25.00% | ~1,289 |
+| Legendary Explorer | 27.00% | ~1,393 |
+| Finders, Keepers | 25.00% | ~1,290 |
+| Top Notch | 25.00% | ~1,290 |
 | Ice Lakes | 23.00% | ~1,186 |
 | Mentor | 23.00% | ~1,186 |
 | Great Leader | 22.00% | ~1,135 |
@@ -37,8 +37,8 @@ Number of Ratings: 836  (23.09.2022)
 | Spreading Influence | 16.00% | ~825 |
 | Around the World | 15.00% | ~774 |
 | Bookworm | 14.00% | ~722 |
-| Famous Adventurer | 13.00% | ~670 |
-| Prepared for Anything | 13.00% | ~670 |
+| Famous Adventurer | 13.00% | ~671 |
+| Prepared for Anything | 13.00% | ~671 |
 | Big Catastrofan | 12.00% | ~619 |
 | It's a Finnish Thing | 10.00% | ~516 |
 | Sky Burial | 9.00% | ~464 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,157 (Ranked 120)  
+Progressed: 5,158 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,10 +88,11 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 5,091 | 0 |
 | 2023-05-10 | 5,125 | 0 |
 | 2023-05-11 | 5,157 | 0 |
+| 2023-05-12 | 5,158 | 0 |
 ## Awards
-Max (Extremely Fun): 99  (Ranked 321)  
+Max (Extremely Fun): 99  (Ranked 322)  
 Sum: 651 (Ranked 267)  
-Diff (max vs sum): 54  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |

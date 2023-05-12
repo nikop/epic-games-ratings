@@ -6,8 +6,8 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,11 +164,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 701,
+  "EOS_Progressed": 702,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -414,6 +414,11 @@
       "Time": "2023-05-11T21:05:12.3421912+00:00",
       "NumProgressed": 701,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-12T00:05:40.9695341+00:00",
+      "NumProgressed": 702,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -505,7 +510,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -591,9 +596,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -633,7 +638,7 @@
       "Name": "Lord of War",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -673,7 +678,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -737,7 +742,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -761,7 +766,7 @@
       "Name": "Change the Channel",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -968,13 +973,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 652,
+      "Progressed": 653,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 701,
+      "Progressed": 702,
       "Completed": 2
     }
   ],
@@ -982,8 +987,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-11T23:05:19.5517336+00:00",
+  "LastChanged_Achievements": "2023-05-12T00:05:40.9695335+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-11T23:00:46.7310841+00:00",
-  "LastUpdate_Achievements": "2023-05-11T23:05:19.5518001+00:00"
+  "LastUpdate_Ratings": "2023-05-12T00:01:19.8694542+00:00",
+  "LastUpdate_Achievements": "2023-05-12T00:05:40.9695999+00:00"
 }
