@@ -2,9 +2,9 @@
   "ID": "088a84adb8e34fd881e77cd4f3c23ba8",
   "Name": "Wild Animal Sports Day",
   "ProductSlug": "wild-animal-sports-day-2bd1c2",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-28T11:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-11T17:06:10.3898009+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T14:05:08.7352112+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -62,7 +67,7 @@
       "ID": "HURDLES_PRO",
       "SetID": "9fjm696",
       "Name": "Hurdles Pro",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -78,7 +83,7 @@
       "ID": "SKIING_PRO",
       "SetID": "9fjm696",
       "Name": "Skiing Pro",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -86,7 +91,7 @@
       "ID": "TENNIS_PRO",
       "SetID": "9fjm696",
       "Name": "Tennis Pro",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -119,13 +124,13 @@
     {
       "ID": "9fjm696",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:36.5826444+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:05:08.7352102+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:46.2579035+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:03:38.6029983+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:36.5826532+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:59:10.9805317+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:05:08.7352201+00:00"
 }

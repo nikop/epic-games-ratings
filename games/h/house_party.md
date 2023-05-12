@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 | Derezzed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,956 (Ranked 122)  
+Progressed: 4,957 (Ranked 122)  
 Completed: 2 (0.04%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 2 (0.04%) (Ranked 175)
 | 2023-05-09 | 4,948 | 2 |
 | 2023-05-10 | 4,949 | 2 |
 | 2023-05-11 | 4,954 | 2 |
-| 2023-05-12 | 4,956 | 2 |
+| 2023-05-12 | 4,957 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

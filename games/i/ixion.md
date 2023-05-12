@@ -27,6 +27,7 @@ Rating: 4.54 (Ranked 477)
 | In Dolos We Trust | 0.30% | ~6 |
 | Access Granted | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
+| All in Good Health | 0.30% | ~6 |
 | Please Make it Stop! | 0.30% | ~6 |
 | From the Past | 0.30% | ~6 |
 | Man's Best Friend | 0.20% | ~4 |
@@ -34,7 +35,6 @@ Rating: 4.54 (Ranked 477)
 | What They Hide From Us | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
-| All in Good Health | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
 | Pulsar Disciple | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.54 (Ranked 477)
 | Help of the Forgotten Member | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,876 (Ranked 146)  
+Progressed: 1,876 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

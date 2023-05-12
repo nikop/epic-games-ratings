@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1504,
+  "EOS_Progressed": 1505,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -439,6 +439,11 @@
       "Time": "2023-05-10T20:06:37.9602571+00:00",
       "NumProgressed": 1504,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-12T14:04:52.796593+00:00",
+      "NumProgressed": 1505,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -458,7 +463,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -498,7 +503,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_EXPLORER",
@@ -530,7 +535,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -602,7 +607,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -682,7 +687,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -690,7 +695,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_PERKY",
@@ -714,7 +719,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -746,7 +751,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -754,7 +759,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -770,7 +775,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -818,7 +823,7 @@
       "Name": "Turning the Tables",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -826,7 +831,7 @@
       "Name": "Unforgiven",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -834,7 +839,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -873,15 +878,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1504,
+      "Progressed": 1505,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:21.4277318+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:04:52.7965922+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:43.5309725+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:02:38.1193933+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:21.4277852+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:58:11.7391575+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:04:52.7966388+00:00"
 }

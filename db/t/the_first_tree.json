@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30593,
+  "EOS_Progressed": 30596,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 2,
@@ -1891,6 +1891,11 @@
       "Time": "2023-05-12T13:09:45.7320032+00:00",
       "NumProgressed": 30593,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-12T14:05:17.8701006+00:00",
+      "NumProgressed": 30596,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 14,
@@ -1918,7 +1923,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 7954
+      "UsersEstimate": 7955
     },
     {
       "ID": "allItems",
@@ -1950,7 +1955,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2753
+      "UsersEstimate": 2754
     },
     {
       "ID": "completionist",
@@ -1982,7 +1987,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7648
+      "UsersEstimate": 7649
     },
     {
       "ID": "firstItem",
@@ -1990,7 +1995,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23863
+      "UsersEstimate": 23865
     },
     {
       "ID": "roots",
@@ -2013,15 +2018,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30593,
+      "Progressed": 30596,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:45.7320027+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:05:17.8700999+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:18.1528242+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:04:11.5772778+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:45.7320295+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:59:39.9430148+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:05:17.8701222+00:00"
 }

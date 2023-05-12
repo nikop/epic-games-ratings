@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242841,
+  "EOS_Progressed": 242842,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1899,6 +1899,11 @@
       "Time": "2023-05-12T13:09:34.7273393+00:00",
       "NumProgressed": 242841,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-12T14:05:06.7128724+00:00",
+      "NumProgressed": 242842,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -1910,7 +1915,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14570
+      "UsersEstimate": 14571
     },
     {
       "ID": "aWinnerIsYou",
@@ -1958,7 +1963,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14570
+      "UsersEstimate": 14571
     },
     {
       "ID": "canYouDigIt",
@@ -2006,7 +2011,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43711
+      "UsersEstimate": 43712
     },
     {
       "ID": "curator",
@@ -2277,7 +2282,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 242841,
+      "Progressed": 242842,
       "Completed": 2
     }
   ],
@@ -2285,8 +2290,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:34.7273388+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:05:06.7128717+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.9561807+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:03:14.1533205+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:34.7273988+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:58:48.0736548+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:05:06.7129234+00:00"
 }

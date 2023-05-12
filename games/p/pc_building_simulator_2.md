@@ -5,17 +5,17 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,724 |
-| Shine On | 70.00% | ~110,809 |
-| On the Job | 69.00% | ~109,226 |
-| Get Stuck In | 68.00% | ~107,643 |
-| Room for Expansion | 68.00% | ~107,643 |
-| Sales Pitch | 65.00% | ~102,894 |
-| Chill Out | 65.00% | ~102,894 |
-| Tinker | 61.00% | ~96,562 |
-| Grand Designs | 60.00% | ~94,979 |
-| Hot Stuff | 59.00% | ~93,396 |
-| MOAR RGB | 54.00% | ~85,481 |
+| Bootstrapping | 75.00% | ~118,726 |
+| Shine On | 70.00% | ~110,811 |
+| On the Job | 69.00% | ~109,228 |
+| Get Stuck In | 68.00% | ~107,645 |
+| Room for Expansion | 68.00% | ~107,645 |
+| Sales Pitch | 65.00% | ~102,896 |
+| Chill Out | 65.00% | ~102,896 |
+| Tinker | 61.00% | ~96,564 |
+| Grand Designs | 60.00% | ~94,981 |
+| Hot Stuff | 59.00% | ~93,398 |
+| MOAR RGB | 54.00% | ~85,483 |
 | Dream Theme | 46.00% | ~72,818 |
 | The Customer is King | 45.00% | ~71,235 |
 | Working Hard | 44.00% | ~69,652 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,299 (Ranked 52)  
+Progressed: 158,301 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,17 +87,17 @@ Completed: 102 (0.06%) (Ranked 167)
 | 2023-05-09 | 158,240 | 102 |
 | 2023-05-10 | 158,248 | 102 |
 | 2023-05-11 | 158,275 | 102 |
-| 2023-05-12 | 158,299 | 102 |
+| 2023-05-12 | 158,301 | 102 |
 ## Awards
 Max (Great for Beginners): 605  (Ranked 164)  
-Sum: 4,543 (Ranked 127)  
+Sum: 4,544 (Ranked 127)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 605 |
 | This game is Relaxing | 578 |
 | This game is Educational | 575 |
-| This game is Extremely Fun | 545 |
+| This game is Extremely Fun | 546 |
 | This game has Quickly Understood Controls | 535 |
 | This game is Highly Recommended | 512 |
 | This game has Amazing Storytelling | 470 |
@@ -161,3 +161,4 @@ Diff (max vs sum): 37
 | 2023-05-09 | 4.61 | 599 | 4,533 |
 | 2023-05-10 | 4.61 | 602 | 4,536 |
 | 2023-05-11 | 4.61 | 605 | 4,543 |
+| 2023-05-12 | 4.61 | 605 | 4,544 |

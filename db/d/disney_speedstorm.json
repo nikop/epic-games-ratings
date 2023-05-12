@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2420,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1245,6 +1245,11 @@
       "Time": "2023-05-12T02:01:28.5199904+00:00",
       "NumProgressed": 2420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T14:05:01.7883529+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1254,9 +1259,9 @@
       "ID": "1",
       "SetID": "9p3jgda",
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 339
     },
     {
       "ID": "10",
@@ -1408,7 +1413,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "6",
@@ -1416,7 +1421,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "7",
@@ -1447,13 +1452,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:30.0416355+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:05:01.7883523+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:05.2807111+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:03:00.6373995+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:30.0416632+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:58:36.0526352+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:05:01.7883758+00:00"
 }

@@ -13,7 +13,7 @@ Rating: 4.38 (Ranked 689)
 | Change the Channel | 25.00% | ~176 |
 | Resourceful | 23.00% | ~162 |
 | Taking it back | 23.00% | ~162 |
-| Organ Grinder | 21.00% | ~148 |
+| Organ Grinder | 22.00% | ~155 |
 | Sharpshooter | 21.00% | ~148 |
 | Target America | 21.00% | ~148 |
 | As Quiet as a Mouse | 19.00% | ~134 |

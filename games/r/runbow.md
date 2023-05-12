@@ -11,7 +11,7 @@ Rating: 4.46 (Ranked 590)
 | The Stunner | 21.00% | ~50,997 |
 | Be Aggressive | 20.00% | ~48,568 |
 | Curator | 20.00% | ~48,568 |
-| Crowning Around | 18.00% | ~43,711 |
+| Crowning Around | 18.00% | ~43,712 |
 | Can You Dig It? | 17.00% | ~41,283 |
 | You Juan-A-Go? | 16.00% | ~38,855 |
 | Chan-tastic | 15.00% | ~36,426 |
@@ -20,8 +20,8 @@ Rating: 4.46 (Ranked 590)
 | Lazy Laser | 8.00% | ~19,427 |
 | Into The Drift | 7.00% | ~16,999 |
 | Ready? Fight! | 7.00% | ~16,999 |
-| Just A Phaze | 6.00% | ~14,570 |
-| Butt Butt | 6.00% | ~14,570 |
+| Just A Phaze | 6.00% | ~14,571 |
+| Butt Butt | 6.00% | ~14,571 |
 | He Who Laughs Last | 3.00% | ~7,285 |
 | Shoo, Cat! | 3.00% | ~7,285 |
 | And You're Okay | 2.00% | ~4,857 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 590)
 | Talent Scout | 0.10% | ~243 |
 | True Completionist | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,841 (Ranked 40)  
+Progressed: 242,842 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 2 (0.00%) (Ranked 198)
 | 2023-05-09 | 242,746 | 2 |
 | 2023-05-10 | 242,779 | 2 |
 | 2023-05-11 | 242,822 | 2 |
-| 2023-05-12 | 242,841 | 2 |
+| 2023-05-12 | 242,842 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

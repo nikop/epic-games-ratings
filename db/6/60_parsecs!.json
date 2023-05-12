@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "Achievement_Friendzone",
       "SetID": "c01p6e5",
       "Name": "Friendzone",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 466
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -438,9 +438,9 @@
       "ID": "Achievement_Tinkerer",
       "SetID": "c01p6e5",
       "Name": "Tinkerer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 372
     },
     {
       "ID": "Achievement_Traitor",
@@ -463,8 +463,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:14.5064405+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:04:45.9462641+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:08.8405232+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:03:00.5003736+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:14.506479+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:58:35.8871232+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:04:45.9462988+00:00"
 }

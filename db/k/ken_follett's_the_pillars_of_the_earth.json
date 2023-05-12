@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12362,
+  "EOS_Progressed": 12364,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1680,6 +1680,11 @@
       "Time": "2023-05-12T11:05:04.8705024+00:00",
       "NumProgressed": 12362,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-12T14:04:43.6028421+00:00",
+      "NumProgressed": 12364,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1707,7 +1712,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "tpote_achievement_12",
@@ -1795,7 +1800,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3832
+      "UsersEstimate": 3833
     },
     {
       "ID": "tpote_achievement_22",
@@ -1803,7 +1808,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "tpote_achievement_23",
@@ -1827,7 +1832,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "tpote_achievement_26",
@@ -1867,7 +1872,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "tpote_achievement_30",
@@ -1883,7 +1888,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "tpote_achievement_32",
@@ -1891,7 +1896,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "tpote_achievement_33",
@@ -1915,7 +1920,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "tpote_achievement_36",
@@ -1939,7 +1944,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "tpote_achievement_39",
@@ -1955,7 +1960,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5192
+      "UsersEstimate": 5193
     },
     {
       "ID": "tpote_achievement_40",
@@ -1979,7 +1984,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "tpote_achievement_6",
@@ -1987,7 +1992,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "tpote_achievement_7",
@@ -2011,22 +2016,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12362,
+      "Progressed": 12364,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:12.1434569+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:04:43.6028413+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:03:57.0089598+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:12.1435342+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:59:26.7865854+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:04:43.6028825+00:00"
 }

@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1901,
+  "EOS_Progressed": 1902,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 2,
@@ -274,6 +274,11 @@
       "Time": "2023-05-12T11:05:42.6951837+00:00",
       "NumProgressed": 1901,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-12T14:05:21.1004591+00:00",
+      "NumProgressed": 1902,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -291,9 +296,9 @@
       "ID": "collect_dyes",
       "SetID": "236b9eg",
       "Name": "Nothing to Wear",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 608
+      "UsersEstimate": 590
     },
     {
       "ID": "complete_act_one",
@@ -301,7 +306,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "complete_act_three",
@@ -325,7 +330,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "deal_damage",
@@ -341,7 +346,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "defeat_tree_dummy",
@@ -349,7 +354,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "fail_planet",
@@ -357,7 +362,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "piercing_beam",
@@ -373,7 +378,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "reach_high_heat",
@@ -405,7 +410,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "stick_decoy",
@@ -413,7 +418,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "stun_enemies",
@@ -436,7 +441,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1901,
+      "Progressed": 1902,
       "Completed": 8
     }
   ],
@@ -444,8 +449,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:49.1096851+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:05:21.1004416+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:22.7192812+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:04:15.263618+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:49.1097004+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:59:43.6111025+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:05:21.1004755+00:00"
 }

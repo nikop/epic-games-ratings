@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1967,
+  "EOS_Progressed": 1968,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1176,6 +1176,11 @@
       "Time": "2023-05-12T13:09:21.4337062+00:00",
       "NumProgressed": 1967,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T14:04:52.9628897+00:00",
+      "NumProgressed": 1968,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1193,9 +1198,9 @@
       "ID": "STB_COLISSEUM_FIRST",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods I",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 472
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1251,7 +1256,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1307,7 +1312,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1323,7 +1328,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1363,7 +1368,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1371,7 +1376,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1403,7 +1408,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1411,7 +1416,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1443,7 +1448,7 @@
       "Name": "Glyndemere",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -1491,7 +1496,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1523,15 +1528,15 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
       "SetID": "3pe2bac",
       "Name": "Cypress Glen Headquarters",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 590
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1547,7 +1552,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -1563,7 +1568,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1579,7 +1584,7 @@
       "Name": "Full equipped",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -1603,14 +1608,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1967,
+      "Progressed": 1968,
       "Completed": 1
     }
   ],
@@ -1618,8 +1623,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:21.4337057+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:04:52.9628886+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:01:53.2501889+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:21.4337654+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:57:29.1222762+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:04:52.9629412+00:00"
 }

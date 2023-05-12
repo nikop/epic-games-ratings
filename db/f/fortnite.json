@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
@@ -4625,10 +4625,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 9415596,
       "NumberOfAwardsMax": 1302596
+    },
+    {
+      "Time": "2023-05-12T13:57:20.2833539+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 9416894,
+      "NumberOfAwardsMax": 1302596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9415596,
+  "NumberOfAwards": 9416894,
   "NumberOfAwardsMax": 1302596,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -4654,7 +4660,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1213406
+      "Count": 1214704
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4692,8 +4698,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-05-11T20:57:30.0644843+00:00",
+  "LastChanged": "2023-05-12T13:57:20.2833536+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:48.0480866+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:01:42.8807586+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:07:58.192976+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:57:20.2833544+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:03:32.1937029+00:00"
 }

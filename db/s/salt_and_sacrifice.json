@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1308,7 +1308,7 @@
   ],
   "EOS_Progressed": 63914,
   "EOS_Completed": 1155,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -2537,9 +2537,9 @@
       "ID": "crafting_all_replenish_found",
       "SetID": "2jelldm",
       "Name": "Well Stocked",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 17257
+      "UsersEstimate": 17896
     },
     {
       "ID": "crafting_all_replenish_upgrade",
@@ -2897,8 +2897,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-05-10T16:58:24.0109883+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:24.136882+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:04:56.0484803+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:30.6675947+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:02:26.2987516+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:24.1369488+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:58:00.1021033+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:04:56.0485645+00:00"
 }

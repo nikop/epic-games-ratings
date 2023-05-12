@@ -3646,7 +3646,7 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87236,
+  "EOS_Progressed": 87241,
   "EOS_Completed": 1829,
   "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 24,
@@ -5606,6 +5606,11 @@
       "Time": "2023-05-12T13:09:57.6698944+00:00",
       "NumProgressed": 87236,
       "NumCompleted": 1829
+    },
+    {
+      "Time": "2023-05-12T14:05:29.53778+00:00",
+      "NumProgressed": 87241,
+      "NumCompleted": 1829
     }
   ],
   "TotalAchievements": 489,
@@ -6447,9 +6452,9 @@
       "ID": "objective_completed_1193",
       "SetID": "415jc5c",
       "Name": "The Sanctum of the Sword",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 214
     },
     {
       "ID": "objective_completed_1194",
@@ -9528,21 +9533,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53510,
+      "Progressed": 53515,
       "Completed": 2495
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87236,
+      "Progressed": 87241,
       "Completed": 1829
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T19:58:13.1579822+00:00",
-  "LastChanged_Achievements": "2023-05-12T13:09:57.6698936+00:00",
+  "LastChanged_Achievements": "2023-05-12T14:05:29.5377794+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-12T13:02:16.7920247+00:00",
-  "LastUpdate_Achievements": "2023-05-12T13:09:57.6730757+00:00"
+  "LastUpdate_Ratings": "2023-05-12T13:57:51.4799147+00:00",
+  "LastUpdate_Achievements": "2023-05-12T14:05:29.5404247+00:00"
 }
