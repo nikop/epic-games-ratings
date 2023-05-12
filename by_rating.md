@@ -33,7 +33,7 @@
 | 27 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 490 |
 | 27 | [Inscryption](games/i/inscryption.md) | 4.86 | 330 | 214 |
 | 27 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 330 |
-| 27 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 110 | 311 |
+| 27 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 113 | 309 |
 | 27 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 411 |
 | 27 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,219 | 122 |
 | 27 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 459 | 186 |
@@ -264,7 +264,7 @@
 | 256 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 490 |
 | 256 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 490 |
 | 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,215 | 98 |
-| 256 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 310 |
+| 256 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 311 |
 | 256 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 490 |
 | 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 490 |
 | 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 490 |
@@ -676,7 +676,7 @@
 | 670 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 490 |
 | 670 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 490 |
 | 670 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 73 | 356 |
-| 670 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 395 | 201 |
+| 670 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 397 | 201 |
 | 670 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 490 |
 | 670 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 490 |
 | 670 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 490 |
