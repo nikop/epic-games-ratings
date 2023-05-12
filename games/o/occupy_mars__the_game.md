@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Occupy Mars! | 100.00% | ~3 |
+| I don't feel so good | 67.00% | ~2 |
 | Cooking Vegetables | 33.00% | ~1 |
 | Driver's License | 33.00% | ~1 |
 | Explosive Miner | 33.00% | ~1 |
@@ -27,7 +28,6 @@
 | ITS crash site | 33.00% | ~1 |
 | Korolev crater | 33.00% | ~1 |
 | Miner | 33.00% | ~1 |
-| I don't feel so good | 33.00% | ~1 |
 | Never Ending Story? | 33.00% | ~1 |
 | Roadster | 33.00% | ~1 |
 | Rover Mechanic | 33.00% | ~1 |

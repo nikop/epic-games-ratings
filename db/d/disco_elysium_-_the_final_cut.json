@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1073,9 +1073,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118285,
+  "EOS_Progressed": 118288,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2753,6 +2753,11 @@
       "Time": "2023-05-12T16:05:29.7717859+00:00",
       "NumProgressed": 118285,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-12T17:05:40.1547719+00:00",
+      "NumProgressed": 118288,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -2796,7 +2801,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21291
+      "UsersEstimate": 21292
     },
     {
       "ID": "ACH_COP_BAD",
@@ -2820,7 +2825,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28388
+      "UsersEstimate": 28389
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -2844,7 +2849,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33120
+      "UsersEstimate": 33121
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -2860,7 +2865,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4731
+      "UsersEstimate": 4732
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -2876,7 +2881,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23657
+      "UsersEstimate": 23658
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -2908,7 +2913,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13011
+      "UsersEstimate": 13012
     },
     {
       "ID": "ACH_CUNO",
@@ -3060,7 +3065,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4731
+      "UsersEstimate": 4732
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -3083,15 +3088,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118285,
+      "Progressed": 118288,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-10T10:59:21.1666605+00:00",
-  "LastChanged_Achievements": "2023-05-12T16:05:29.7717854+00:00",
+  "LastChanged_Achievements": "2023-05-12T17:05:40.1547713+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:14.2912719+00:00",
-  "LastUpdate_Ratings": "2023-05-12T15:58:56.0144227+00:00",
-  "LastUpdate_Achievements": "2023-05-12T16:05:29.7718299+00:00"
+  "LastUpdate_Ratings": "2023-05-12T16:59:10.3745748+00:00",
+  "LastUpdate_Achievements": "2023-05-12T17:05:40.1548453+00:00"
 }

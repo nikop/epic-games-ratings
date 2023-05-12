@@ -35,7 +35,7 @@ Number of Ratings: 180  (23.09.2022)
 | Not in my backyard | 31.00% | ~329 |
 | The future is now, old man | 31.00% | ~329 |
 | City | 29.00% | ~307 |
-| The king of the sea | 28.00% | ~297 |
+| The king of the sea | 29.00% | ~307 |
 | Transport tycoon | 25.00% | ~265 |
 | Climate change | 22.00% | ~233 |
 | Old timer | 22.00% | ~233 |

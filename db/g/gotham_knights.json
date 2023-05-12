@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1066,7 +1066,7 @@
   ],
   "EOS_Progressed": 60811,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2605,9 +2605,9 @@
       "ID": "FREEZE_1_5",
       "SetID": "4eo5ebm",
       "Name": "Quartzer Life Crisis",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 243
     },
     {
       "ID": "FREEZE_2",
@@ -2876,8 +2876,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-12T07:00:17.2180218+00:00",
-  "LastChanged_Achievements": "2023-05-12T16:05:45.6934333+00:00",
+  "LastChanged_Achievements": "2023-05-12T17:05:56.2765827+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:51.5175234+00:00",
-  "LastUpdate_Ratings": "2023-05-12T15:59:39.8236853+00:00",
-  "LastUpdate_Achievements": "2023-05-12T16:05:45.6935524+00:00"
+  "LastUpdate_Ratings": "2023-05-12T16:59:52.4780041+00:00",
+  "LastUpdate_Achievements": "2023-05-12T17:05:56.2766987+00:00"
 }

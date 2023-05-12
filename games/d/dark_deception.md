@@ -1,7 +1,7 @@
 # Dark Deception
 [Store](https://store.epicgames.com/en-US/p/dark-deception)  
 [View Rawdata](../../db/d/dark_deception.json)  
-Rating: 4.51 (Ranked 516)  
+Rating: 4.49 (Ranked 552)  
 Number of Ratings: 50  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -54,3 +54,4 @@ Number of Ratings: 50  (23.09.2022)
 | 2023-03-29 | 4.50 | - | - | - |
 | 2023-03-31 | 4.50 | - | 0 | 0 |
 | 2023-04-23 | 4.51 | - | 0 | 0 |
+| 2023-05-12 | 4.49 | - | 0 | 0 |

@@ -6,44 +6,44 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~385,909 |
-| Hey! That's mine! | 78.00% | ~371,616 |
-| Happy Returns | 77.00% | ~366,852 |
-| Field Promotion | 74.00% | ~352,559 |
-| Leadhead | 71.00% | ~338,266 |
-| Eradicator | 67.00% | ~319,209 |
-| Surplus | 65.00% | ~309,680 |
-| I Spy | 63.00% | ~300,152 |
-| Burn Baby Burn | 59.00% | ~281,094 |
-| Yellow Beats Green | 55.00% | ~262,037 |
-| Salvage Rights | 53.00% | ~252,508 |
-| Pew Pew | 50.00% | ~238,216 |
-| What IS that? | 50.00% | ~238,216 |
-| Close Call | 49.00% | ~233,451 |
-| Penny Pincher | 49.00% | ~233,451 |
-| Arsenal | 46.00% | ~219,158 |
-| Boot Camp | 45.00% | ~214,394 |
-| Flawless Victory | 42.00% | ~200,101 |
-| Confident | 40.00% | ~190,572 |
-| Exterminator | 36.00% | ~171,515 |
-| Sharpshooter | 33.00% | ~157,222 |
-| Great Ball of Fire | 32.00% | ~152,458 |
-| Not So Fast | 32.00% | ~152,458 |
-| No Sale | 30.00% | ~142,929 |
-| Kaboom! | 29.00% | ~138,165 |
-| Liquidator | 29.00% | ~138,165 |
-| High Voltage | 24.00% | ~114,343 |
-| Filthy Rich | 19.00% | ~90,522 |
-| The Not-So-Friendly Skies | 18.00% | ~85,758 |
-| Power Builder | 17.00% | ~80,993 |
-| Pyrrhic Victory | 17.00% | ~80,993 |
-| Death From Above | 16.00% | ~76,229 |
-| Retry | 16.00% | ~76,229 |
-| Head Trauma | 12.00% | ~57,172 |
-| Full Defense | 10.00% | ~47,643 |
+| First Blood | 81.00% | ~385,915 |
+| Hey! That's mine! | 78.00% | ~371,622 |
+| Happy Returns | 77.00% | ~366,857 |
+| Field Promotion | 74.00% | ~352,564 |
+| Leadhead | 71.00% | ~338,271 |
+| Eradicator | 67.00% | ~319,213 |
+| Surplus | 65.00% | ~309,685 |
+| I Spy | 63.00% | ~300,156 |
+| Burn Baby Burn | 59.00% | ~281,098 |
+| Yellow Beats Green | 55.00% | ~262,041 |
+| Salvage Rights | 53.00% | ~252,512 |
+| Pew Pew | 50.00% | ~238,219 |
+| What IS that? | 50.00% | ~238,219 |
+| Close Call | 49.00% | ~233,455 |
+| Penny Pincher | 49.00% | ~233,455 |
+| Arsenal | 46.00% | ~219,161 |
+| Boot Camp | 45.00% | ~214,397 |
+| Flawless Victory | 42.00% | ~200,104 |
+| Confident | 40.00% | ~190,575 |
+| Exterminator | 36.00% | ~171,518 |
+| Sharpshooter | 33.00% | ~157,225 |
+| Great Ball of Fire | 32.00% | ~152,460 |
+| Not So Fast | 32.00% | ~152,460 |
+| No Sale | 30.00% | ~142,931 |
+| Kaboom! | 29.00% | ~138,167 |
+| Liquidator | 29.00% | ~138,167 |
+| High Voltage | 24.00% | ~114,345 |
+| Filthy Rich | 19.00% | ~90,523 |
+| The Not-So-Friendly Skies | 18.00% | ~85,759 |
+| Power Builder | 17.00% | ~80,994 |
+| Pyrrhic Victory | 17.00% | ~80,994 |
+| Death From Above | 16.00% | ~76,230 |
+| Retry | 16.00% | ~76,230 |
+| Head Trauma | 12.00% | ~57,173 |
+| Full Defense | 10.00% | ~47,644 |
 | Overseer | 9.00% | ~42,879 |
-| Annihilator | 8.00% | ~38,114 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,114 |
+| Annihilator | 8.00% | ~38,115 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,115 |
 | Indecisive | 6.00% | ~28,586 |
 | Base Defender | 5.00% | ~23,822 |
 | Relay Race | 5.00% | ~23,822 |
@@ -60,8 +60,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Gun Crazy | 0.90% | ~4,288 |
 | Planet Defender | 0.90% | ~4,288 |
 | Xenocide | 0.90% | ~4,288 |
-| Master Siege Breaker | 0.80% | ~3,811 |
-| Few and Proud | 0.80% | ~3,811 |
+| Master Siege Breaker | 0.80% | ~3,812 |
+| Few and Proud | 0.80% | ~3,812 |
 | Shell-shocked | 0.70% | ~3,335 |
 | Alien Tears | 0.50% | ~2,382 |
 | Full House | 0.40% | ~1,906 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~476 |
 | You Monster | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,431 (Ranked 26)  
+Progressed: 476,438 (Ranked 26)  
 Completed: 4 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 4 (0.00%) (Ranked 198)
 | 2023-05-09 | 476,256 | 4 |
 | 2023-05-10 | 476,323 | 4 |
 | 2023-05-11 | 476,386 | 4 |
-| 2023-05-12 | 476,431 | 4 |
+| 2023-05-12 | 476,438 | 4 |
 ## Awards
 Max (Great for Beginners): 230  (Ranked 244)  
 Sum: 1,632 (Ranked 200)  

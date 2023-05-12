@@ -21,8 +21,8 @@ Rating: 4.72 (Ranked 165)
 | Elemental master | 30.00% | ~591 |
 | Old friend | 26.00% | ~512 |
 | Petricite Burst | 26.00% | ~512 |
+| Whispers in the Woods I | 25.00% | ~492 |
 | Devineur | 25.00% | ~492 |
-| Whispers in the Woods I | 24.00% | ~473 |
 | Hijack | 24.00% | ~473 |
 | I chose my shackles | 22.00% | ~433 |
 | Ancient power | 22.00% | ~433 |

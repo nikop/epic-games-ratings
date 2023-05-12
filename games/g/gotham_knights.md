@@ -6,6 +6,7 @@ Rating: 4.17 (Ranked 831)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock and a Hard Place | 0.40% | ~243 |
+| Quartzer Life Crisis | 0.40% | ~243 |
 | Working Hard or Harley Working? | 0.40% | ~243 |
 | Unstoppable Force | 0.40% | ~243 |
 | Gotham Knight | 0.40% | ~243 |
@@ -19,7 +20,6 @@ Rating: 4.17 (Ranked 831)
 | Out of Their League | 0.30% | ~182 |
 | Shock Til They Drop | 0.30% | ~182 |
 | To the Victor Go the Spoils | 0.30% | ~182 |
-| Quartzer Life Crisis | 0.30% | ~182 |
 | Snow Problem | 0.30% | ~182 |
 | Cooldown | 0.30% | ~182 |
 | Har, Har, Har, Very Funny | 0.30% | ~182 |

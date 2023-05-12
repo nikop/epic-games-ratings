@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 972,
+  "EOS_Progressed": 975,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1452,6 +1452,11 @@
       "Time": "2023-05-12T15:05:29.6533146+00:00",
       "NumProgressed": 972,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T17:05:33.3249478+00:00",
+      "NumProgressed": 975,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1471,7 +1476,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "angelpower",
@@ -1485,9 +1490,9 @@
       "ID": "arenachallenger",
       "SetID": "3nl4bcg",
       "Name": "Arena Challenger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "backgroundstory",
@@ -1559,7 +1564,7 @@
       "Name": "Doing My Part",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "dragonclicker",
@@ -1575,7 +1580,7 @@
       "Name": "Dragon Master",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "dragonslayer",
@@ -1631,15 +1636,15 @@
       "Name": "Enlightenment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 146
     },
     {
       "ID": "fellowshippower",
@@ -1647,7 +1652,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "fourleafclover",
@@ -1703,7 +1708,7 @@
       "Name": "Here We Go Again",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "heroinspection",
@@ -1719,7 +1724,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "hunter",
@@ -1735,7 +1740,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "jewelenchanting",
@@ -1759,7 +1764,7 @@
       "Name": "Lieutenant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "lockandload",
@@ -1807,7 +1812,7 @@
       "Name": "Missions Dedication",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "movinguptheladder",
@@ -1815,7 +1820,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "mysteriousrock",
@@ -1855,7 +1860,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 507
     },
     {
       "ID": "prestigiousx10",
@@ -1863,7 +1868,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "relicofthepast",
@@ -1917,9 +1922,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 546
     },
     {
       "ID": "thealchemist",
@@ -1943,7 +1948,7 @@
       "Name": "The father of Dragons",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "thegameison",
@@ -1951,7 +1956,7 @@
       "Name": "The game is on",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "thepowerofawakening",
@@ -1965,9 +1970,9 @@
       "ID": "theunstoppable",
       "SetID": "3nl4bcg",
       "Name": "The Unstoppable",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 78
     },
     {
       "ID": "titanpower",
@@ -1983,7 +1988,7 @@
       "Name": "Trader",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -2023,7 +2028,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 914
+      "UsersEstimate": 916
     },
     {
       "ID": "warmachinesarmy",
@@ -2047,7 +2052,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "worldmap",
@@ -2055,14 +2060,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 770
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 972,
+      "Progressed": 975,
       "Completed": 1
     }
   ],
@@ -2070,8 +2075,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-12T16:05:23.0154527+00:00",
+  "LastChanged_Achievements": "2023-05-12T17:05:33.3249473+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-12T15:57:50.434089+00:00",
-  "LastUpdate_Achievements": "2023-05-12T16:05:23.015549+00:00"
+  "LastUpdate_Ratings": "2023-05-12T16:58:02.7454979+00:00",
+  "LastUpdate_Achievements": "2023-05-12T17:05:33.3250993+00:00"
 }
