@@ -18,15 +18,15 @@
 | 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.88% |
 | 20 | [Them and Us](games/t/them_and_us.md) | 7.69% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.48% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.47% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 7.08% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.37% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.36% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -34,7 +34,7 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
 | 34 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 4.00% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 38 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
@@ -66,8 +66,8 @@
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
-| 67 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.61% |
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
+| 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
 | 70 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -398,4 +398,4 @@
 | 198 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,599 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,600 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

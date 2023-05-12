@@ -314,6 +314,7 @@
 | [The Alters](games/t/the_alters.md) | 2099-01-01 | 2099-01-01 |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2099-01-01 | 2021-02-01 |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | 2099-01-01 |
+| [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2099-01-01 | 2023-04-27 |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | 2099-01-01 | 2099-01-01 |
 | [The Dead Await](games/t/the_dead_await.md) | 2099-01-01 | 2099-01-01 |
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2099-01-01 | 2099-01-01 |
