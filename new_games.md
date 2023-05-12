@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Fusion Paradox](games/f/fusion_paradox.md) | 2023-05-12 | 2023-04-10 |
 | [ELEGIES Aya](games/e/elegies_aya.md) | 2023-05-12 | 2023-04-28 |
 | [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |
 | [Them and Us](games/t/them_and_us.md) | 2023-05-12 | 2021-09-28 |
