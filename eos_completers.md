@@ -18,13 +18,13 @@
 | 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
 | 20 | [Them and Us](games/t/them_and_us.md) | 7.69% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.48% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 7.08% |
-| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.80% |
+| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 6.37% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
@@ -96,8 +96,8 @@
 | 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.75% |
 | 94 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 96 | [Train Valley](games/t/train_valley.md) | 0.73% |
-| 97 | [Haven](games/h/haven.md) | 0.72% |
-| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
+| 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
+| 97 | [Haven](games/h/haven.md) | 0.71% |
 | 99 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 100 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
