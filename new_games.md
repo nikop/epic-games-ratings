@@ -163,4 +163,3 @@
 | [BoxR](games/b/boxr.md) | 2023-04-12 | 2023-04-19 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 2023-04-12 |
 | [The First Spark](games/t/the_first_spark.md) | 2023-04-12 | 2023-04-12 |
-| [Soda Story - Brewing Tycoon](games/s/soda_story_-_brewing_tycoon.md) | 2023-04-12 | 2022-07-20 |

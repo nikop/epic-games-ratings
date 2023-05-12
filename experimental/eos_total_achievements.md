@@ -406,6 +406,7 @@
 | [Until the Last Plane](../games/u/until_the_last_plane.md) | 11 | 1,000 |
 | [Afterglitch](../games/a/afterglitch.md) | 10 | 1,000 |
 | [Among the Sleep - Enhanced Edition](../games/a/among_the_sleep_-_enhanced_edition.md) | 10 | 1,000 |
+| [Croc's World Construction Kit 2](../games/5/55c1dafc343149419579a9939de53424.md) | 10 | 1,000 |
 | [Full Metal Sergeant](../games/f/full_metal_sergeant.md) | 10 | 1,000 |
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Monster Harvest](../games/m/monster_harvest.md) | 10 | 1,000 |

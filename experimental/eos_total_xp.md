@@ -99,6 +99,7 @@
 | [Crayta](../games/c/crayta.md) | 34 | 1,000 |
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 37 | 1,000 |
 | [Crimson Spires](../games/c/crimson_spires.md) | 14 | 1,000 |
+| [Croc's World Construction Kit 2](../games/5/55c1dafc343149419579a9939de53424.md) | 10 | 1,000 |
 | [Crying Suns](../games/c/crying_suns.md) | 65 | 1,000 |
 | [Curious Expedition 2](../games/c/curious_expedition_2.md) | 60 | 1,000 |
 | [Curse of the Deadwood](../games/c/curse_of_the_deadwood.md) | 70 | 1,000 |

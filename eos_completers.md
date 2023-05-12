@@ -19,14 +19,14 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 18 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.76% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.54% |
-| 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.76% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
+| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
+| 23 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.46% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.44% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -237,6 +237,7 @@
 | 198 | [Colossal Cave](games/c/colossal_cave.md) | 0.00% |
 | 198 | [Crayta](games/c/crayta.md) | 0.00% |
 | 198 | [Crimson Spires](games/c/crimson_spires.md) | 0.00% |
+| 198 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 0.00% |
 | 198 | [Crying Suns](games/c/crying_suns.md) | 0.00% |
 | 198 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 0.00% |
 | 198 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 0.00% |
@@ -397,4 +398,4 @@
 | 198 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,597 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,598 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

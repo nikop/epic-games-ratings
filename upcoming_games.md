@@ -205,6 +205,7 @@
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2099-01-01 | 2099-01-01 |
 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 2099-01-01 | 2099-01-01 |
 | [Critter Crops](games/c/critter_crops.md) | 2099-01-01 | 2099-01-01 |
+| [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 2099-01-01 | 2022-02-03 |
 | [Cryptmaster](games/c/cryptmaster.md) | 2099-01-01 | 2099-01-01 |
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | 2099-01-01 | 2022-12-16 |
 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 2099-01-01 | 2019-06-11 |
