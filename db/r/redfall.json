@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1507,
+  "EOS_Progressed": 1508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1042,6 +1042,11 @@
       "Time": "2023-05-12T04:05:30.6883053+00:00",
       "NumProgressed": 1507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T11:05:12.3604104+00:00",
+      "NumProgressed": 1508,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1077,7 +1082,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Achievement_006",
@@ -1109,7 +1114,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "Achievement_010",
@@ -1189,7 +1194,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "Achievement_020",
@@ -1253,7 +1258,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "Achievement_028",
@@ -1277,7 +1282,7 @@
       "Name": "ICU",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "Achievement_031",
@@ -1285,7 +1290,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "Achievement_032",
@@ -1309,7 +1314,7 @@
       "Name": "Catch and Release",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "Achievement_035",
@@ -1357,7 +1362,7 @@
       "Name": "Heart Attack",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Achievement_041",
@@ -1389,7 +1394,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "Achievement_046",
@@ -1573,14 +1578,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1507,
+      "Progressed": 1508,
       "Completed": 0
     }
   ],
@@ -1588,8 +1593,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-10T11:57:52.369097+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:05:25.972184+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:12.3604101+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:08.8473003+00:00",
-  "LastUpdate_Ratings": "2023-05-12T09:57:43.6830684+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:05:25.9723186+00:00"
+  "LastUpdate_Ratings": "2023-05-12T10:57:44.5995819+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:12.3604654+00:00"
 }

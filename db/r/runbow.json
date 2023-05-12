@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242837,
+  "EOS_Progressed": 242838,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1884,6 +1884,11 @@
       "Time": "2023-05-12T09:06:05.1148994+00:00",
       "NumProgressed": 242837,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-12T11:05:27.9503661+00:00",
+      "NumProgressed": 242838,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -1919,7 +1924,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48567
+      "UsersEstimate": 48568
     },
     {
       "ID": "blotbuster",
@@ -1999,7 +2004,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 48567
+      "UsersEstimate": 48568
     },
     {
       "ID": "didYourTime",
@@ -2262,7 +2267,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 242837,
+      "Progressed": 242838,
       "Completed": 2
     }
   ],
@@ -2270,8 +2275,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:05:44.1886218+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:27.9503657+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:19.9561807+00:00",
-  "LastUpdate_Ratings": "2023-05-12T09:59:10.2772811+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:05:44.1886885+00:00"
+  "LastUpdate_Ratings": "2023-05-12T10:58:56.1127277+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:27.9504+00:00"
 }

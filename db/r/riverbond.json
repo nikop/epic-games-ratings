@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516187,
+  "EOS_Progressed": 516189,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2355,6 +2355,11 @@
       "Time": "2023-05-12T10:05:33.5908025+00:00",
       "NumProgressed": 516187,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-05-12T11:05:18.959956+00:00",
+      "NumProgressed": 516189,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 57,
@@ -2374,7 +2379,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 232284
+      "UsersEstimate": 232285
     },
     {
       "ID": "11",
@@ -2382,7 +2387,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 361331
+      "UsersEstimate": 361332
     },
     {
       "ID": "12",
@@ -2390,7 +2395,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113561
+      "UsersEstimate": 113562
     },
     {
       "ID": "13",
@@ -2398,7 +2403,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67104
+      "UsersEstimate": 67105
     },
     {
       "ID": "14",
@@ -2446,7 +2451,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 320036
+      "UsersEstimate": 320037
     },
     {
       "ID": "2",
@@ -2494,7 +2499,7 @@
       "Name": "Privacy, Please!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "25",
@@ -2518,7 +2523,7 @@
       "Name": "Silky Smooth",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "28",
@@ -2534,7 +2539,7 @@
       "Name": "Hash It Over",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "3",
@@ -2582,7 +2587,7 @@
       "Name": "Biting Tongue",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "35",
@@ -2694,7 +2699,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 320036
+      "UsersEstimate": 320037
     },
     {
       "ID": "48",
@@ -2702,7 +2707,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 103237
+      "UsersEstimate": 103238
     },
     {
       "ID": "49",
@@ -2718,7 +2723,7 @@
       "Name": "What a Catch!",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "50",
@@ -2734,7 +2739,7 @@
       "Name": "Hit the Spot",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "52",
@@ -2742,7 +2747,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237446
+      "UsersEstimate": 237447
     },
     {
       "ID": "53",
@@ -2821,15 +2826,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516187,
+      "Progressed": 516189,
       "Completed": 404
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:05:33.5908015+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:18.9599555+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.3106863+00:00",
-  "LastUpdate_Ratings": "2023-05-12T09:57:12.188523+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:05:33.5909151+00:00"
+  "LastUpdate_Ratings": "2023-05-12T10:57:19.4933165+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:18.9600032+00:00"
 }

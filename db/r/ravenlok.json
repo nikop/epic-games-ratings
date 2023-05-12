@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 602,
+  "EOS_Progressed": 603,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 28,
-  "EOS_Completed_Percentage": 6.48,
+  "EOS_Completed_Percentage": 6.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -982,6 +982,11 @@
       "Time": "2023-05-12T05:04:35.5783534+00:00",
       "NumProgressed": 602,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-12T11:05:05.9336671+00:00",
+      "NumProgressed": 603,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 50,
@@ -993,7 +998,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "10",
@@ -1073,7 +1078,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "2",
@@ -1081,7 +1086,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "20",
@@ -1169,7 +1174,7 @@
       "Name": "Vibing",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "30",
@@ -1191,9 +1196,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 211
     },
     {
       "ID": "33",
@@ -1257,7 +1262,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "40",
@@ -1281,7 +1286,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "43",
@@ -1313,7 +1318,7 @@
       "Name": "Flower Power",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "47",
@@ -1321,7 +1326,7 @@
       "Name": "Crowned",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "48",
@@ -1329,7 +1334,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "49",
@@ -1369,7 +1374,7 @@
       "Name": "Fun Guy",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "8",
@@ -1377,22 +1382,22 @@
       "Name": "Tragic Brave",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "9",
       "SetID": "d0g98p",
       "Name": "Curtain Call",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 247
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 602,
+      "Progressed": 603,
       "Completed": 39
     }
   ],
@@ -1400,8 +1405,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:05:18.6962694+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:05.9336667+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-12T09:57:21.1633171+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:05:18.6963561+00:00"
+  "LastUpdate_Ratings": "2023-05-12T10:57:26.3712775+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:05.9337146+00:00"
 }

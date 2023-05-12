@@ -3646,9 +3646,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87228,
+  "EOS_Progressed": 87230,
   "EOS_Completed": 1828,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5591,6 +5591,11 @@
       "Time": "2023-05-12T10:06:10.465069+00:00",
       "NumProgressed": 87228,
       "NumCompleted": 1828
+    },
+    {
+      "Time": "2023-05-12T11:05:51.095888+00:00",
+      "NumProgressed": 87230,
+      "NumCompleted": 1828
     }
   ],
   "TotalAchievements": 489,
@@ -6136,9 +6141,9 @@
       "ID": "objective_completed_1137",
       "SetID": "415jc5c",
       "Name": "The Roots of Loomlurch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1138",
@@ -8976,9 +8981,9 @@
       "ID": "objective_completed_829",
       "SetID": "415jc5c",
       "Name": "Frozen in Fear",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_830",
@@ -9513,21 +9518,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53502,
+      "Progressed": 53504,
       "Completed": 2495
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87228,
+      "Progressed": 87230,
       "Completed": 1828
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T19:58:13.1579822+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:06:10.4650684+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:51.0958875+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-12T09:57:58.3891254+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:06:10.4678664+00:00"
+  "LastUpdate_Ratings": "2023-05-12T10:57:55.81941+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:51.0980839+00:00"
 }

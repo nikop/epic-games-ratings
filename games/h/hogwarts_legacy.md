@@ -7,15 +7,15 @@ Rating: 4.77 (Ranked 103)
 | ---- | ---------- | ----- |
 | Grappling with a Graphorn | 6.00% | ~16,000 |
 | The One Who Mastered Memories | 6.00% | ~16,000 |
-| The Sort Who Makes an Entrance | 5.00% | ~13,333 |
-| The Hallowed Hero | 5.00% | ~13,333 |
-| The Hero of Hogwarts | 5.00% | ~13,333 |
-| The Defender of Dragons | 5.00% | ~13,333 |
-| Challenge Accepted | 5.00% | ~13,333 |
-| Loom for Improvement | 5.00% | ~13,333 |
-| Coasting Along | 5.00% | ~13,333 |
-| That's a Keeper | 5.00% | ~13,333 |
-| Rising From the Ashes | 5.00% | ~13,333 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,334 |
+| The Hallowed Hero | 5.00% | ~13,334 |
+| The Hero of Hogwarts | 5.00% | ~13,334 |
+| The Defender of Dragons | 5.00% | ~13,334 |
+| Challenge Accepted | 5.00% | ~13,334 |
+| Loom for Improvement | 5.00% | ~13,334 |
+| Coasting Along | 5.00% | ~13,334 |
+| That's a Keeper | 5.00% | ~13,334 |
+| Rising From the Ashes | 5.00% | ~13,334 |
 | The Avenging Gazelle | 4.00% | ~10,667 |
 | Beast Friends | 4.00% | ~10,667 |
 | A Sallow Grave | 4.00% | ~10,667 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,067 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,666 (Ranked 38)  
+Progressed: 266,671 (Ranked 38)  
 Completed: 359 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-09 | 266,399 | 356 |
 | 2023-05-10 | 266,527 | 358 |
 | 2023-05-11 | 266,628 | 359 |
-| 2023-05-12 | 266,666 | 359 |
+| 2023-05-12 | 266,671 | 359 |
 ## Awards
 Max (Character Customization): 18,654  (Ranked 18)  
 Sum: 34,146 (Ranked 33)  

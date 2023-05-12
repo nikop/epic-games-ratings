@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "MQ06_3",
@@ -392,9 +392,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "MQ08_1",
@@ -441,8 +441,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:05:24.13459+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:10.6855479+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:39.4224542+00:00",
-  "LastUpdate_Ratings": "2023-05-12T09:57:07.4194353+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:05:24.1346186+00:00"
+  "LastUpdate_Ratings": "2023-05-12T10:57:14.5665272+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:10.6855638+00:00"
 }

@@ -492,9 +492,9 @@
       "ID": "ACH_COLL_CH01",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter I",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -588,9 +588,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -844,8 +844,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:05:30.4536327+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:16.2470522+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:50.641778+00:00",
-  "LastUpdate_Ratings": "2023-05-12T09:57:23.6246942+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:05:30.45369+00:00"
+  "LastUpdate_Ratings": "2023-05-12T10:57:28.266669+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:16.2470933+00:00"
 }

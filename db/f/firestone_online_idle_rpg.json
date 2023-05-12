@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 970,
+  "EOS_Progressed": 971,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1442,6 +1442,11 @@
       "Time": "2023-05-12T10:05:37.2991949+00:00",
       "NumProgressed": 970,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T11:05:22.0101573+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1541,7 +1546,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "doingmypart",
@@ -1619,17 +1624,17 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 87
     },
     {
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 155
     },
     {
       "ID": "fellowshippower",
@@ -1637,7 +1642,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "fourleafclover",
@@ -1661,7 +1666,7 @@
       "Name": "Full Party",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "gearenchanting",
@@ -1701,7 +1706,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "howdoyouturnthison",
@@ -1813,7 +1818,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "mythicpower",
@@ -1845,15 +1850,15 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 194
     },
     {
       "ID": "relicofthepast",
@@ -1877,7 +1882,7 @@
       "Name": "Scientist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "scrollmaster",
@@ -2013,7 +2018,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "warmachinesarmy",
@@ -2045,14 +2050,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 970,
+      "Progressed": 971,
       "Completed": 1
     }
   ],
@@ -2060,8 +2065,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:05:37.2991942+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:22.0101569+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-12T09:57:54.4513413+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:05:37.2992859+00:00"
+  "LastUpdate_Ratings": "2023-05-12T10:57:52.6044514+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:22.0102228+00:00"
 }

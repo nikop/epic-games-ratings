@@ -48,9 +48,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55387,
+  "EOS_Progressed": 55390,
   "EOS_Completed": 443,
-  "EOS_NewPlayers": 1400,
+  "EOS_NewPlayers": 1398,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -2033,6 +2033,11 @@
       "Time": "2023-05-12T10:06:02.0432095+00:00",
       "NumProgressed": 55387,
       "NumCompleted": 443
+    },
+    {
+      "Time": "2023-05-12T11:05:43.3127481+00:00",
+      "NumProgressed": 55390,
+      "NumCompleted": 443
     }
   ],
   "TotalAchievements": 25,
@@ -2076,7 +2081,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11631
+      "UsersEstimate": 11632
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -2092,7 +2097,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "Cut Call",
@@ -2100,7 +2105,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "Fair\u0027sFair",
@@ -2140,7 +2145,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "Master, Commander",
@@ -2196,7 +2201,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7200
+      "UsersEstimate": 7201
     },
     {
       "ID": "Sniper",
@@ -2212,7 +2217,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "Taco Toto",
@@ -2243,7 +2248,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 55387,
+      "Progressed": 55390,
       "Completed": 443
     }
   ],
@@ -2251,8 +2256,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-11T21:00:12.8058431+00:00",
-  "LastChanged_Achievements": "2023-05-12T10:06:02.0432088+00:00",
+  "LastChanged_Achievements": "2023-05-12T11:05:43.3127476+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:31.9453874+00:00",
-  "LastUpdate_Ratings": "2023-05-12T10:00:41.0835014+00:00",
-  "LastUpdate_Achievements": "2023-05-12T10:06:02.043259+00:00"
+  "LastUpdate_Ratings": "2023-05-12T11:00:06.1857249+00:00",
+  "LastUpdate_Achievements": "2023-05-12T11:05:43.3127697+00:00"
 }
