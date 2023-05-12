@@ -477,17 +477,17 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_018",
@@ -542,8 +542,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:05.8890849+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:04:49.5315818+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.1366152+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:58:22.6938311+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:05.8891032+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:57:51.8291097+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:04:49.5315957+00:00"
 }

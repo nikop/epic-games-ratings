@@ -1,7 +1,7 @@
 # Marvel's Guardians of the Galaxy
 [Store](https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy)  
 [View Rawdata](../../db/m/marvel's_guardians_of_the_galaxy.json)  
-Rating: 4.73 (Ranked 154)  
+Rating: 4.72 (Ranked 164)  
 Number of Ratings: 898  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 549  (Ranked 172)  
@@ -115,3 +115,4 @@ Diff (max vs sum): -79
 | 2023-05-04 | 4.73 | - | 548 | 753 |
 | 2023-05-06 | 4.72 | - | 549 | 754 |
 | 2023-05-08 | 4.73 | - | 549 | 754 |
+| 2023-05-12 | 4.72 | - | 549 | 754 |

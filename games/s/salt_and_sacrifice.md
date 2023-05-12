@@ -40,8 +40,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Copse | 29.00% | ~18,538 |
 | The Dragon | 29.00% | ~18,538 |
 | The Dracomancer | 29.00% | ~18,538 |
+| Well Stocked | 28.00% | ~17,899 |
 | The Umbramancer | 28.00% | ~17,899 |
-| Well Stocked | 27.00% | ~17,260 |
 | Chaos Hunger | 27.00% | ~17,260 |
 | The Kinetomancer | 27.00% | ~17,260 |
 | The Sanguimancer | 27.00% | ~17,260 |
@@ -84,12 +84,12 @@ Completed: 1,155 (1.81%) (Ranked 62)
 | 2023-05-11 | 63,904 | 1,154 |
 | 2023-05-12 | 63,925 | 1,155 |
 ## Awards
-Max (Character Customization): 931  (Ranked 140)  
-Sum: 1,865 (Ranked 191)  
+Max (Character Customization): 932  (Ranked 140)  
+Sum: 1,866 (Ranked 191)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 931 |
+| This game has Inclusive Character Customization | 932 |
 | This game has Great Boss Battles | 541 |
 | This game is Extremely Fun | 65 |
 | This game has Challenging Combat | 63 |
@@ -192,3 +192,4 @@ Diff (max vs sum): -51
 | 2023-05-08 | 4.31 | - | 930 | 1,861 |
 | 2023-05-09 | 4.31 | - | 931 | 1,864 |
 | 2023-05-10 | 4.31 | - | 931 | 1,865 |
+| 2023-05-12 | 4.31 | - | 932 | 1,866 |

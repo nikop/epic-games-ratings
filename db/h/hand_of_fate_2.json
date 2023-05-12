@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656037,
+  "EOS_Progressed": 656040,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2602,6 +2602,11 @@
       "Time": "2023-05-12T19:06:06.3994934+00:00",
       "NumProgressed": 656037,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-12T20:04:49.8001025+00:00",
+      "NumProgressed": 656040,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2613,7 +2618,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472347
+      "UsersEstimate": 472349
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2621,7 +2626,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380501
+      "UsersEstimate": 380503
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2757,7 +2762,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91845
+      "UsersEstimate": 91846
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -2765,7 +2770,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111526
+      "UsersEstimate": 111527
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -2853,7 +2858,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78724
+      "UsersEstimate": 78725
     },
     {
       "ID": "Achievement_32_Karma",
@@ -2877,7 +2882,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164009
+      "UsersEstimate": 164010
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -2893,7 +2898,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59043
+      "UsersEstimate": 59044
     },
     {
       "ID": "Achievement_37_Champion",
@@ -2996,15 +3001,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656037,
+      "Progressed": 656040,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:06.3994927+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:04:49.8001021+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:30.4319872+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:57:47.8041241+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:06.3995504+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:57:29.789093+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:04:49.8001416+00:00"
 }

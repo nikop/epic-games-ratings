@@ -185,9 +185,9 @@
       "ID": "kamikaze",
       "SetID": "d4f4pll",
       "Name": "Kamikaze",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 294
+      "UsersEstimate": 298
     },
     {
       "ID": "kindar_surprise",
@@ -250,8 +250,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:51.1175722+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:05:24.2159846+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:07.4794959+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:57:18.8486642+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:51.1175868+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:57:10.0793211+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:05:24.2159958+00:00"
 }

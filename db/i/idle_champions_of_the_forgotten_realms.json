@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3652,9 +3652,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87274,
+  "EOS_Progressed": 87281,
   "EOS_Completed": 1829,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5642,6 +5642,11 @@
       "Time": "2023-05-12T19:06:57.5122035+00:00",
       "NumProgressed": 87274,
       "NumCompleted": 1829
+    },
+    {
+      "Time": "2023-05-12T20:05:29.1124155+00:00",
+      "NumProgressed": 87281,
+      "NumCompleted": 1829
     }
   ],
   "TotalAchievements": 489,
@@ -5653,7 +5658,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "objective_completed_10",
@@ -6533,7 +6538,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "objective_completed_1208",
@@ -6541,7 +6546,7 @@
       "Name": "Vecna Out!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "objective_completed_1209",
@@ -7795,9 +7800,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 349
     },
     {
       "ID": "objective_completed_540",
@@ -9564,21 +9569,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53548,
-      "Completed": 2495
+      "Progressed": 53555,
+      "Completed": 2496
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87274,
+      "Progressed": 87281,
       "Completed": 1829
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-12T14:57:57.844953+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:57.5122026+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:05:29.1124151+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:58:24.2138737+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:57.5150101+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:57:53.1543211+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:05:29.1144838+00:00"
 }

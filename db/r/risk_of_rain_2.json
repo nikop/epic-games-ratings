@@ -1338,10 +1338,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 2225,
       "NumberOfAwardsMax": 226
+    },
+    {
+      "Time": "2023-05-12T19:58:53.204219+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2227,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2225,
+  "NumberOfAwards": 2227,
   "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1361,7 +1367,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1415,7 +1421,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 149
+      "Count": 150
     }
   ],
   "EOS_Progressed": 0,
@@ -1429,8 +1435,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-05-12T10:59:00.4471962+00:00",
+  "LastChanged": "2023-05-12T19:58:53.2042189+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.6288442+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:59:52.8913721+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:04:39.5981965+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:58:53.2042193+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:03:38.4322887+00:00"
 }

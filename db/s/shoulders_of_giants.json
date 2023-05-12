@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1905,
+  "EOS_Progressed": 1906,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -289,6 +289,11 @@
       "Time": "2023-05-12T16:05:46.6708369+00:00",
       "NumProgressed": 1905,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-12T20:05:20.6242643+00:00",
+      "NumProgressed": 1906,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -316,7 +321,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "complete_act_three",
@@ -324,7 +329,7 @@
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "complete_act_two",
@@ -340,7 +345,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "deal_damage",
@@ -356,7 +361,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "defeat_tree_dummy",
@@ -364,7 +369,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "fail_planet",
@@ -372,7 +377,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "piercing_beam",
@@ -420,7 +425,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "stick_decoy",
@@ -451,7 +456,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1905,
+      "Progressed": 1906,
       "Completed": 8
     }
   ],
@@ -459,8 +464,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:46.8468416+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:05:20.6242637+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:12.4998547+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:01:15.3286848+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:46.8468576+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:59:47.5402837+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:05:20.624277+00:00"
 }

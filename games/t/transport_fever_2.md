@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~816 |
+| First line | 76.00% | ~806 |
 | First cargo item waiting | 71.00% | ~753 |
-| First cargo item on board | 70.00% | ~742 |
-| First bus stop | 69.00% | ~731 |
+| First cargo item on board | 70.00% | ~743 |
+| First bus stop | 69.00% | ~732 |
 | First passenger on board | 66.00% | ~700 |
 | First passenger waiting | 66.00% | ~700 |
-| First bus arrived | 65.00% | ~689 |
+| First bus arrived | 65.00% | ~690 |
 | First train station | 63.00% | ~668 |
-| First steam train arrived | 60.00% | ~636 |
+| First steam train arrived | 59.00% | ~626 |
 | First industry upgraded | 56.00% | ~594 |
-| Transport millionaire | 54.00% | ~572 |
-| Cargo hub | 54.00% | ~572 |
+| Transport millionaire | 54.00% | ~573 |
+| Cargo hub | 54.00% | ~573 |
 | Transport master | 51.00% | ~541 |
 | Cadet | 51.00% | ~541 |
 | Sculpturer | 50.00% | ~530 |
@@ -34,8 +34,8 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 31.00% | ~329 |
 | Not in my backyard | 31.00% | ~329 |
 | The future is now, old man | 31.00% | ~329 |
-| City | 29.00% | ~307 |
-| The king of the sea | 29.00% | ~307 |
+| City | 29.00% | ~308 |
+| The king of the sea | 29.00% | ~308 |
 | Transport tycoon | 25.00% | ~265 |
 | Climate change | 22.00% | ~233 |
 | Old timer | 22.00% | ~233 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,060 (Ranked 161)  
+Progressed: 1,061 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 1,050 | 0 |
 | 2023-05-10 | 1,051 | 0 |
 | 2023-05-11 | 1,054 | 0 |
-| 2023-05-12 | 1,060 | 0 |
+| 2023-05-12 | 1,061 | 0 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 414)  
 Sum: 260 (Ranked 339)  

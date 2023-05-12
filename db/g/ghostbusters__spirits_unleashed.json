@@ -972,9 +972,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21718,
+  "EOS_Progressed": 21719,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2447,6 +2447,11 @@
       "Time": "2023-05-12T19:06:28.7000192+00:00",
       "NumProgressed": 21718,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-12T20:05:06.875617+00:00",
+      "NumProgressed": 21719,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 51,
@@ -2458,7 +2463,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16071
+      "UsersEstimate": 16072
     },
     {
       "ID": "Animated",
@@ -2474,7 +2479,7 @@
       "Name": "Back Off",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 7818
+      "UsersEstimate": 7819
     },
     {
       "ID": "Best_Insurance",
@@ -2506,7 +2511,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11293
+      "UsersEstimate": 11294
     },
     {
       "ID": "Collector",
@@ -2530,7 +2535,7 @@
       "Name": "Daily Dose",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 7818
+      "UsersEstimate": 7819
     },
     {
       "ID": "Diabolical",
@@ -2546,7 +2551,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13682
+      "UsersEstimate": 13683
     },
     {
       "ID": "Dont_Need_These",
@@ -2562,7 +2567,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5212
+      "UsersEstimate": 5213
     },
     {
       "ID": "Efficient",
@@ -2618,7 +2623,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "Legions",
@@ -2762,7 +2767,7 @@
       "Name": "Stylish",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 18895
+      "UsersEstimate": 18896
     },
     {
       "ID": "Summoner",
@@ -2786,7 +2791,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12162
+      "UsersEstimate": 12163
     },
     {
       "ID": "Teamwork",
@@ -2794,7 +2799,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9773
+      "UsersEstimate": 9774
     },
     {
       "ID": "Terrifying",
@@ -2826,7 +2831,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "Ultimate_Defense",
@@ -2865,7 +2870,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21718,
+      "Progressed": 21719,
       "Completed": 39
     }
   ],
@@ -2873,8 +2878,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-12T09:58:53.8798859+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:28.7000184+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:05:06.8756163+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:59:28.1904141+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:28.7000709+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:58:35.5181368+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:05:06.8756568+00:00"
 }

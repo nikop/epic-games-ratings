@@ -7,8 +7,8 @@
 | I can do a thing or two | 61.00% | ~265 |
 | Buckle up | 60.00% | ~261 |
 | Quick charge | 60.00% | ~261 |
+| Now you know | 54.00% | ~235 |
 | Hands up! | 53.00% | ~231 |
-| Now you know | 53.00% | ~231 |
 | Short circuit | 53.00% | ~231 |
 | Curious | 41.00% | ~178 |
 | Everybody lies | 36.00% | ~157 |

@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 591,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 39,
@@ -364,9 +364,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 248469,
+  "EOS_Progressed": 248470,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2349,6 +2349,11 @@
       "Time": "2023-05-12T19:06:53.1570573+00:00",
       "NumProgressed": 248469,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T20:05:25.8055254+00:00",
+      "NumProgressed": 248470,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2408,7 +2413,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77025
+      "UsersEstimate": 77026
     },
     {
       "ID": "BackHomeNTimes",
@@ -2416,7 +2421,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12423
+      "UsersEstimate": 12424
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -2488,7 +2493,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12423
+      "UsersEstimate": 12424
     },
     {
       "ID": "CreedsInBank2",
@@ -2616,7 +2621,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12423
+      "UsersEstimate": 12424
     },
     {
       "ID": "KillOtherWithKatana",
@@ -2807,7 +2812,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248469,
+      "Progressed": 248470,
       "Completed": 1
     }
   ],
@@ -2815,8 +2820,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-12T11:59:47.1110886+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:53.1570567+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:05:25.8055251+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.6367659+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:01:10.8697211+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:53.157119+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:59:45.2254152+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:05:25.805572+00:00"
 }

@@ -6,17 +6,18 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 0.80% | ~40 |
+| A Friend in Need... | 0.90% | ~45 |
 | Smooth Operator: Madison | 0.70% | ~35 |
 | Katherine | 0.50% | ~25 |
 | Drunk and Disorderly: Stephanie | 0.40% | ~20 |
 | Life Found a Way | 0.40% | ~8 |
 | Relentless | 0.40% | ~20 |
+| If at First You Don't Succeed... | 0.40% | ~20 |
 | The Brahdyssey | 0.30% | ~15 |
-| If at First You Don't Succeed... | 0.30% | ~15 |
 | Caught in the Act | 0.20% | ~10 |
 | IRL Let's Player | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |
+| The Muse: Madison | 0.20% | ~10 |
 | The Crush | 0.20% | ~10 |
 | Amy | 0.10% | ~5 |
 | Amy: Scavenger Hunt | 0.10% | ~5 |
@@ -53,7 +54,6 @@ Number of Ratings: 177  (23.09.2022)
 | A Striking Resemblance | 0.10% | ~5 |
 | The Muse: Derek | 0.10% | ~5 |
 | Howz It Goin Dood | 0.10% | ~5 |
-| The Muse: Madison | 0.10% | ~5 |
 | The Crush(es) | 0.10% | ~5 |
 | The Magic Number | 0.10% | ~5 |
 | Vickie | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 | Derezzed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,958 (Ranked 122)  
+Progressed: 4,959 (Ranked 122)  
 Completed: 2 (0.04%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 2 (0.04%) (Ranked 175)
 | 2023-05-09 | 4,948 | 2 |
 | 2023-05-10 | 4,949 | 2 |
 | 2023-05-11 | 4,954 | 2 |
-| 2023-05-12 | 4,958 | 2 |
+| 2023-05-12 | 4,959 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

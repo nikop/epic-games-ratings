@@ -248,9 +248,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10248,
+  "EOS_Progressed": 10249,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -843,6 +843,11 @@
       "Time": "2023-05-12T19:06:36.0212069+00:00",
       "NumProgressed": 10248,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-12T20:05:12.3335885+00:00",
+      "NumProgressed": 10249,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -854,7 +859,7 @@
       "Name": "Under a New Sun",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 9531
+      "UsersEstimate": 9532
     },
     {
       "ID": "ACH_02",
@@ -862,7 +867,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 8096
+      "UsersEstimate": 8097
     },
     {
       "ID": "ACH_03",
@@ -886,7 +891,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 6866
+      "UsersEstimate": 6867
     },
     {
       "ID": "ACH_06",
@@ -902,7 +907,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 6251
+      "UsersEstimate": 6252
     },
     {
       "ID": "ACH_08",
@@ -926,7 +931,7 @@
       "Name": "Bloodline",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 5226
+      "UsersEstimate": 5227
     },
     {
       "ID": "ACH_11",
@@ -950,7 +955,7 @@
       "Name": "Nothing Left",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     },
     {
       "ID": "ACH_14",
@@ -958,7 +963,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3690
     },
     {
       "ID": "ACH_15",
@@ -966,7 +971,7 @@
       "Name": "Dying Sun",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "ACH_16",
@@ -1030,7 +1035,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "ACH_24",
@@ -1133,7 +1138,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10248,
+      "Progressed": 10249,
       "Completed": 31
     }
   ],
@@ -1141,8 +1146,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-06T21:01:02.9835105+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:36.0212062+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:05:12.3335882+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:15.9050942+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:00:00.9513563+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:36.0212375+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:58:58.9497898+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:05:12.3336073+00:00"
 }

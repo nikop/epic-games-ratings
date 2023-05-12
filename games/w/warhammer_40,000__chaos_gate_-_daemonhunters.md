@@ -34,6 +34,7 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 3.00% | ~78 |
 | Tactical Flexibility | 3.00% | ~78 |
 | Patron of Deimos | 2.00% | ~52 |
+| Exterminator | 2.00% | ~52 |
 | Preservationist | 2.00% | ~52 |
 | Engine Kill | 2.00% | ~52 |
 | Death Comes For All | 2.00% | ~52 |
@@ -41,7 +42,6 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 1.00% | ~26 |
 | Unstable Immaterium | 1.00% | ~26 |
 | Strike Force | 1.00% | ~26 |
-| Exterminator | 1.00% | ~26 |
 | Hands-On Research | 1.00% | ~26 |
 | Only in Death | 1.00% | ~26 |
 | Clean Slate | 0.90% | ~23 |

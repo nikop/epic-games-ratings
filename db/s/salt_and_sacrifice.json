@@ -1232,18 +1232,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 1865,
       "NumberOfAwardsMax": 931
+    },
+    {
+      "Time": "2023-05-12T19:58:01.8435599+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1866,
+      "NumberOfAwardsMax": 932
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1865,
-  "NumberOfAwardsMax": 931,
+  "NumberOfAwards": 1866,
+  "NumberOfAwardsMax": 932,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 931
+      "Count": 932
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1308,7 +1314,7 @@
   ],
   "EOS_Progressed": 63925,
   "EOS_Completed": 1155,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -2562,9 +2568,9 @@
       "ID": "crafting_all_replenish_found",
       "SetID": "2jelldm",
       "Name": "Well Stocked",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 17260
+      "UsersEstimate": 17899
     },
     {
       "ID": "crafting_all_replenish_upgrade",
@@ -2921,9 +2927,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2023-05-10T16:58:24.0109883+00:00",
-  "LastChanged_Achievements": "2023-05-12T19:06:13.2755178+00:00",
+  "LastChanged": "2023-05-12T19:58:01.8435597+00:00",
+  "LastChanged_Achievements": "2023-05-12T20:04:55.1262897+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.7340977+00:00",
-  "LastUpdate_Ratings": "2023-05-12T18:58:38.2285725+00:00",
-  "LastUpdate_Achievements": "2023-05-12T19:06:13.2756798+00:00"
+  "LastUpdate_Ratings": "2023-05-12T19:58:01.8435603+00:00",
+  "LastUpdate_Achievements": "2023-05-12T20:04:55.1263316+00:00"
 }
