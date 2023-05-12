@@ -12,9 +12,9 @@
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
 | 12 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 12 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 12.50% |
-| 14 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
-| 15 | [Remains](games/r/remains.md) | 11.11% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
+| 14 | [Remains](games/r/remains.md) | 11.11% |
+| 14 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 11.11% |
 | 16 | [Smelter](games/s/smelter.md) | 10.00% |
 | 17 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
@@ -25,7 +25,7 @@
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.53% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.50% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.97% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
@@ -396,4 +396,4 @@
 | 198 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,594 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,595 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

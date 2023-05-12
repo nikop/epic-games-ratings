@@ -68,6 +68,7 @@
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-30 | 2023-06-30 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-06-30 | 2021-03-23 |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | 2023-06-30 |
+| [MUSYNX](games/7/739d0f3d53054b29befc2753d58c7045.md) | 2023-06-30 | 2018-12-04 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | 2023-12-31 |
 | [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | 2023-06-30 |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | 2022-10-13 |
