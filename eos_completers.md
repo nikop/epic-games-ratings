@@ -14,19 +14,19 @@
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 13 | [Remains](games/r/remains.md) | 11.11% |
 | 14 | [Smelter](games/s/smelter.md) | 10.00% |
-| 14 | [Them and Us](games/t/them_and_us.md) | 10.00% |
+| 15 | [Them and Us](games/t/them_and_us.md) | 9.09% |
 | 16 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.53% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.52% |
 | 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 23 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 6.40% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 6.39% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -132,10 +132,10 @@
 | 129 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 131 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 131 | [Wildermyth](games/w/wildermyth.md) | 0.26% |
+| 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.23% |
 | 133 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
-| 134 | [Blanc](games/b/blanc.md) | 0.22% |
-| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.22% |
-| 134 | [Filament](games/f/filament.md) | 0.22% |
+| 135 | [Blanc](games/b/blanc.md) | 0.22% |
+| 135 | [Filament](games/f/filament.md) | 0.22% |
 | 137 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
 | 137 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 137 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |

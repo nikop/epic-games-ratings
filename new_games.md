@@ -162,4 +162,3 @@
 | [Dogfight](games/d/dogfight.md) | 2023-04-12 | 2023-04-12 |
 | [BoxR](games/b/boxr.md) | 2023-04-12 | 2023-04-19 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 2023-04-12 |
-| [The First Spark](games/t/the_first_spark.md) | 2023-04-12 | 2023-04-12 |
