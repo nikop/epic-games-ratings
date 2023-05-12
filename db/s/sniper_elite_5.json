@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 702,
+  "EOS_Progressed": 703,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -419,6 +419,11 @@
       "Time": "2023-05-12T00:05:40.9695341+00:00",
       "NumProgressed": 702,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-12T03:05:20.0481406+00:00",
+      "NumProgressed": 703,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -438,7 +443,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -492,9 +497,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -566,7 +571,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -654,7 +659,7 @@
       "Name": "Resourceful",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -670,7 +675,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -798,7 +803,7 @@
       "Name": "Taking it back",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -822,7 +827,7 @@
       "Name": "Target America",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -838,7 +843,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -973,13 +978,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 653,
+      "Progressed": 654,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 702,
+      "Progressed": 703,
       "Completed": 2
     }
   ],
@@ -987,8 +992,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:12.0621479+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:20.0481401+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:32.791679+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:56:47.4742611+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:12.0622014+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:00:29.8498802+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:20.0482187+00:00"
 }

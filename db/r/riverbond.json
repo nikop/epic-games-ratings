@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516174,
+  "EOS_Progressed": 516176,
   "EOS_Completed": 404,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2325,6 +2325,11 @@
       "Time": "2023-05-12T02:01:23.039981+00:00",
       "NumProgressed": 516174,
       "NumCompleted": 404
+    },
+    {
+      "Time": "2023-05-12T03:05:30.3165274+00:00",
+      "NumProgressed": 516176,
+      "NumCompleted": 404
     }
   ],
   "TotalAchievements": 57,
@@ -2344,7 +2349,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 232278
+      "UsersEstimate": 232279
     },
     {
       "ID": "11",
@@ -2352,7 +2357,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 361322
+      "UsersEstimate": 361323
     },
     {
       "ID": "12",
@@ -2360,7 +2365,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113558
+      "UsersEstimate": 113559
     },
     {
       "ID": "13",
@@ -2384,7 +2389,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 51617
+      "UsersEstimate": 51618
     },
     {
       "ID": "16",
@@ -2400,7 +2405,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30970
+      "UsersEstimate": 30971
     },
     {
       "ID": "18",
@@ -2416,7 +2421,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 320028
+      "UsersEstimate": 320029
     },
     {
       "ID": "2",
@@ -2424,7 +2429,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 51617
+      "UsersEstimate": 51618
     },
     {
       "ID": "20",
@@ -2472,7 +2477,7 @@
       "Name": "Owl Knows Best",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30970
+      "UsersEstimate": 30971
     },
     {
       "ID": "26",
@@ -2480,7 +2485,7 @@
       "Name": "Mind the Moose",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30970
+      "UsersEstimate": 30971
     },
     {
       "ID": "27",
@@ -2520,7 +2525,7 @@
       "Name": "Seek the Rainbow",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10323
+      "UsersEstimate": 10324
     },
     {
       "ID": "31",
@@ -2560,7 +2565,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 258087
+      "UsersEstimate": 258088
     },
     {
       "ID": "36",
@@ -2576,7 +2581,7 @@
       "Name": "Dressed to Kill",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 30970
+      "UsersEstimate": 30971
     },
     {
       "ID": "38",
@@ -2592,7 +2597,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 175499
+      "UsersEstimate": 175500
     },
     {
       "ID": "4",
@@ -2600,7 +2605,7 @@
       "Name": "Beast Mode",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 30970
+      "UsersEstimate": 30971
     },
     {
       "ID": "40",
@@ -2616,7 +2621,7 @@
       "Name": "Star Power",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10323
+      "UsersEstimate": 10324
     },
     {
       "ID": "42",
@@ -2664,7 +2669,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 320028
+      "UsersEstimate": 320029
     },
     {
       "ID": "48",
@@ -2680,7 +2685,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 175499
+      "UsersEstimate": 175500
     },
     {
       "ID": "5",
@@ -2696,7 +2701,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 72264
+      "UsersEstimate": 72265
     },
     {
       "ID": "51",
@@ -2712,7 +2717,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237440
+      "UsersEstimate": 237441
     },
     {
       "ID": "53",
@@ -2776,7 +2781,7 @@
       "Name": "Justice Served",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10323
+      "UsersEstimate": 10324
     },
     {
       "ID": "9",
@@ -2791,15 +2796,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516174,
+      "Progressed": 516176,
       "Completed": 404
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:23.0399805+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:30.3165269+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:44.3106863+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:53:05.0861219+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:23.0400282+00:00"
+  "LastUpdate_Ratings": "2023-05-12T02:57:13.6056476+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:30.3165847+00:00"
 }

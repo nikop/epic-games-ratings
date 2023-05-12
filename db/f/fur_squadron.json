@@ -2,7 +2,7 @@
   "ID": "1f48927b60c5460dbca66555584a80cf",
   "Name": "FUR Squadron",
   "ProductSlug": "fur-squadron-0042b8",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 79,
@@ -145,17 +145,17 @@
       "ID": "COMPLETED_BLAZE_4",
       "SetID": "d91enl3",
       "Name": "Whatever it is, fix it!",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETED_BLAZE_5",
       "SetID": "d91enl3",
       "Name": "The opposite of good news",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETED_BLAZE_6",
@@ -271,8 +271,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:35.2640242+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:41.3947113+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:35.2653701+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:55:33.452921+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:35.2640388+00:00"
+  "LastUpdate_Ratings": "2023-05-12T02:59:23.6452581+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:41.3947282+00:00"
 }

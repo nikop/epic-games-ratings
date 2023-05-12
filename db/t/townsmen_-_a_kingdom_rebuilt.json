@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4145,
+  "EOS_Progressed": 4146,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -567,6 +567,11 @@
     {
       "Time": "2023-05-11T18:06:01.9051077+00:00",
       "NumProgressed": 4145,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-12T03:05:26.0622432+00:00",
+      "NumProgressed": 4146,
       "NumCompleted": 3
     }
   ],
@@ -931,7 +936,7 @@
       "Name": "Eureka!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -1331,7 +1336,7 @@
       "Name": "A new beginning",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -1386,15 +1391,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4145,
+      "Progressed": 4146,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-04-30T20:57:58.3057684+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:18.2943203+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:26.0622427+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:21.231095+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:53:56.4464923+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:18.2944211+00:00"
+  "LastUpdate_Ratings": "2023-05-12T02:57:59.76562+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:26.0623667+00:00"
 }

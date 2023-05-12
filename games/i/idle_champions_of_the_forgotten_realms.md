@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,744 |
-| Checkmate | 2.00% | ~1,069 |
+| Checkmate | 2.00% | ~1,070 |
 | Pin and Skewer | 1.00% | ~535 |
 | Vecna Out! | 1.00% | ~535 |
 | The Cursed Farmer | 1.00% | ~872 |
@@ -59,6 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.20% | ~107 |
 | A Dragon Against Us | 0.20% | ~107 |
 | Thieves of the Coven | 0.20% | ~107 |
+| Sticky Fingers | 0.20% | ~107 |
 | Patron Party | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
 | The Prince of a Thousand Enemies | 0.20% | ~107 |
@@ -199,7 +200,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | And Your Enemies Closer | 0.10% | ~53 |
 | Back to Nature | 0.10% | ~53 |
 | A Familiar Behind Us | 0.10% | ~53 |
-| Sticky Fingers | 0.10% | ~53 |
 | Go Fourth | 0.10% | ~53 |
 | Don't Breathe the Marsh Gas | 0.10% | ~53 |
 | Don't Blast the Brigands | 0.10% | ~53 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,200 (Ranked 59)  
+Progressed: 87,205 (Ranked 59)  
 Completed: 1,826 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -518,7 +518,7 @@ Completed: 1,826 (2.09%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,200 | 1,826 |
+| 2023-05-12 | 87,205 | 1,826 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,859 (Ranked 37)  

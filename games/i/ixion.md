@@ -13,11 +13,11 @@ Rating: 4.54 (Ranked 477)
 | Breaking Protocol | 0.70% | ~13 |
 | Permanent Redesigns | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |
+| Guy de Borderlands | 0.60% | ~11 |
 | Space Society | 0.60% | ~11 |
 | A Thousand Strong | 0.60% | ~11 |
 | Exceeding Capacity | 0.60% | ~11 |
 | Hope Seeker | 0.60% | ~11 |
-| Guy de Borderlands | 0.50% | ~9 |
 | Power Outage | 0.50% | ~9 |
 | Fully Recycled | 0.50% | ~9 |
 | Ain't Nobody Got Time for That | 0.50% | ~9 |

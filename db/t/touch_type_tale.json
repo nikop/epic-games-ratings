@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2559,
+  "EOS_Progressed": 2561,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -589,6 +589,11 @@
       "Time": "2023-05-12T02:01:54.7160299+00:00",
       "NumProgressed": 2559,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-12T03:05:59.037739+00:00",
+      "NumProgressed": 2561,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -600,7 +605,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "bonus2",
@@ -648,7 +653,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2305
     },
     {
       "ID": "campaign10",
@@ -688,7 +693,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "campaign15",
@@ -736,7 +741,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2049
     },
     {
       "ID": "campaign20",
@@ -752,7 +757,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1665
     },
     {
       "ID": "campaign4",
@@ -760,7 +765,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "campaign5",
@@ -800,7 +805,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "scenario1",
@@ -808,7 +813,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "scenario2",
@@ -816,7 +821,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "scenario3",
@@ -863,7 +868,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2559,
+      "Progressed": 2561,
       "Completed": 9
     }
   ],
@@ -871,8 +876,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:54.7160297+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:59.0377387+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:56:26.9021336+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:54.7160543+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:00:11.613377+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:59.0377663+00:00"
 }

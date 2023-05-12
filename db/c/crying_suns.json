@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457748,
+  "EOS_Progressed": 457750,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2308,6 +2308,11 @@
       "Time": "2023-05-12T02:01:41.6505368+00:00",
       "NumProgressed": 457748,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-12T03:05:47.3238057+00:00",
+      "NumProgressed": 457750,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2383,7 +2388,7 @@
       "Name": "A Rock in the Dark",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "achievement_story_ending_emperor",
@@ -2391,7 +2396,7 @@
       "Name": "Emperor of Misery",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "achievement_story_ending_rebecca",
@@ -2399,7 +2404,7 @@
       "Name": "A Frozen Lady",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "achievement_story_event_bowie_ended",
@@ -2407,7 +2412,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302114
+      "UsersEstimate": 302115
     },
     {
       "ID": "achievement_story_landa",
@@ -2415,7 +2420,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -2423,7 +2428,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -2439,7 +2444,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114437
+      "UsersEstimate": 114438
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -2455,7 +2460,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32042
+      "UsersEstimate": 32043
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -2463,7 +2468,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32042
+      "UsersEstimate": 32043
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -2503,7 +2508,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151057
+      "UsersEstimate": 151058
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -2519,7 +2524,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -2559,7 +2564,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32042
+      "UsersEstimate": 32043
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -2743,7 +2748,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201409
+      "UsersEstimate": 201410
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -2751,7 +2756,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137324
+      "UsersEstimate": 137325
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -2799,7 +2804,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -2815,7 +2820,7 @@
       "Name": "Void Rule",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "achievement_win_run_with_scrapper",
@@ -2838,21 +2843,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1682,
-      "Completed": 1682
+      "Progressed": 1684,
+      "Completed": 1684
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457748,
+      "Progressed": 457750,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:41.6505363+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:47.3238052+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:26.1847868+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:55:19.7408854+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:41.6505938+00:00"
+  "LastUpdate_Ratings": "2023-05-12T02:59:11.377746+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:47.3239409+00:00"
 }

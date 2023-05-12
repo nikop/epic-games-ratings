@@ -12,7 +12,7 @@
 | Fond Memories | 55.00% | ~80 |
 | History Check | 55.00% | ~80 |
 | The New World | 55.00% | ~80 |
-| Open Sesame | 52.00% | ~76 |
+| Open Sesame | 53.00% | ~77 |
 | Sticky Fingers | 52.00% | ~76 |
 | Knives Out | 52.00% | ~76 |
 | Lock, Stock, And Barrel | 51.00% | ~74 |

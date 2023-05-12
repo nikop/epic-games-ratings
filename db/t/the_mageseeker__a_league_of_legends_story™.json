@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1963,
+  "EOS_Progressed": 1964,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -1156,6 +1156,11 @@
       "Time": "2023-05-12T00:05:46.8743762+00:00",
       "NumProgressed": 1963,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T03:05:25.3555784+00:00",
+      "NumProgressed": 1964,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1191,7 +1196,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -1231,7 +1236,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1271,7 +1276,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1295,7 +1300,7 @@
       "Name": "Little light",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1303,7 +1308,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1343,7 +1348,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1351,7 +1356,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1383,7 +1388,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1399,7 +1404,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1519,7 +1524,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -1533,9 +1538,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 236
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -1543,7 +1548,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1583,14 +1588,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1963,
+      "Progressed": 1964,
       "Completed": 1
     }
   ],
@@ -1598,8 +1603,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:17.5686567+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:25.3555781+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:58.363113+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:53:25.0396979+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:17.5686963+00:00"
+  "LastUpdate_Ratings": "2023-05-12T02:57:31.5283895+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:25.3556488+00:00"
 }

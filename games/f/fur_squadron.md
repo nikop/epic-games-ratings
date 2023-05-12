@@ -9,6 +9,8 @@
 | Piece of cake | 13.00% | ~1 |
 | Do a barrel roll! | 13.00% | ~1 |
 | Huh? What was that? | 13.00% | ~1 |
+| Whatever it is, fix it! | 13.00% | ~1 |
+| The opposite of good news | 13.00% | ~1 |
 | No need to say goodbye | 13.00% | ~1 |
 | Priceless company | 13.00% | ~1 |
 | Better hurry up | 0.00% | ~0 |
@@ -16,8 +18,6 @@
 | Axel? | 0.00% | ~0 |
 | You won't escape that easy!! | 0.00% | ~0 |
 | See you on the other side | 0.00% | ~0 |
-| Whatever it is, fix it! | 0.00% | ~0 |
-| The opposite of good news | 0.00% | ~0 |
 | My Emperor... I've failed you! | 0.00% | ~0 |
 | I'm ready, anytime | 0.00% | ~0 |
 | Actually it's called aileron roll | 0.00% | ~0 |
@@ -29,7 +29,7 @@
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 319)  
+Progressed: 8 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

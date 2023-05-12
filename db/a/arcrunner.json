@@ -481,9 +481,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -505,9 +505,9 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -530,8 +530,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:41.3005087+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:46.9227058+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:47.3202939+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:55:49.2999133+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:41.3005278+00:00"
+  "LastUpdate_Ratings": "2023-05-12T02:59:37.8122393+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:46.9227247+00:00"
 }

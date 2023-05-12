@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 964,
+  "EOS_Progressed": 965,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1411,6 +1411,11 @@
       "Time": "2023-05-12T02:01:26.8644543+00:00",
       "NumProgressed": 964,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T03:05:33.9090743+00:00",
+      "NumProgressed": 965,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1798,7 +1803,7 @@
       "Name": "Natural Talent",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "pokerface",
@@ -1814,15 +1819,15 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 183
     },
     {
       "ID": "relicofthepast",
@@ -1878,7 +1883,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "thealchemist",
@@ -1926,7 +1931,7 @@
       "Name": "The Unstoppable",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "titanpower",
@@ -2021,7 +2026,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 964,
+      "Progressed": 965,
       "Completed": 1
     }
   ],
@@ -2029,8 +2034,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-11T06:58:13.3610558+00:00",
-  "LastChanged_Achievements": "2023-05-12T02:01:26.864454+00:00",
+  "LastChanged_Achievements": "2023-05-12T03:05:33.909074+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-12T01:53:50.8569279+00:00",
-  "LastUpdate_Achievements": "2023-05-12T02:01:26.8645183+00:00"
+  "LastUpdate_Ratings": "2023-05-12T02:57:54.5677115+00:00",
+  "LastUpdate_Achievements": "2023-05-12T03:05:33.9091436+00:00"
 }
