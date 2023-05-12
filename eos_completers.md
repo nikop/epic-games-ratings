@@ -20,12 +20,12 @@
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.70% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.59% |
 | 23 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 24 | [Scorn](games/s/scorn.md) | 7.09% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.85% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.48% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.47% |
 | 27 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
@@ -72,7 +72,7 @@
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
-| 73 | [Bloodshore](games/b/bloodshore.md) | 1.41% |
+| 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 74 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 74 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.32% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -103,7 +103,7 @@
 | 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 102 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 103 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
+| 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 105 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 105 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 105 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
