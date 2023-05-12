@@ -73,9 +73,9 @@ Number of Ratings: 37  (23.09.2022)
 | When there's fire... | 0.60% | ~25 |
 | Last man standing | 0.60% | ~25 |
 | I've been everywhere II | 0.60% | ~25 |
+| I've been everywhere VI | 0.60% | ~25 |
 | Builder V | 0.50% | ~21 |
 | Ten-Hut! | 0.50% | ~21 |
-| I've been everywhere VI | 0.50% | ~21 |
 | The wood shortage | 0.50% | ~21 |
 | Buried | 0.40% | ~17 |
 | Craftsmen challenge | 0.40% | ~17 |

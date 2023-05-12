@@ -2,7 +2,7 @@
   "ID": "fcd7c2c964cb46f495874f1ef94cf031",
   "Name": "Age of Rust",
   "ProductSlug": "age-of-rust-001afd",
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 79,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T17:00:00.1911822+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:59:06.6285544+00:00",
-  "LastUpdate_Achievements": "2023-05-12T07:02:27.6157175+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:59:08.8116381+00:00",
+  "LastUpdate_Achievements": "2023-05-12T08:03:03.6468904+00:00"
 }

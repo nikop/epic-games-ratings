@@ -5,20 +5,20 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,659 |
-| First One’s Free | 64.00% | ~38,276 |
-| Neophyte Ninja | 50.00% | ~29,904 |
-| Too Old for This | 47.00% | ~28,109 |
-| Fancy Pants | 35.00% | ~20,932 |
-| Case Closed | 34.00% | ~20,334 |
-| King of the Hill | 33.00% | ~19,736 |
-| Underworld Initiate | 29.00% | ~17,344 |
-| Roid Ranger | 21.00% | ~12,559 |
-| True Player | 19.00% | ~11,363 |
-| Off the Rocks | 18.00% | ~10,765 |
-| Raider’s Ruin | 16.00% | ~9,569 |
-| Dragonslayer | 16.00% | ~9,569 |
-| Hidden Sonata | 13.00% | ~7,775 |
+| Downed but Not Outed | 73.00% | ~43,663 |
+| First One’s Free | 64.00% | ~38,280 |
+| Neophyte Ninja | 50.00% | ~29,906 |
+| Too Old for This | 47.00% | ~28,112 |
+| Fancy Pants | 35.00% | ~20,934 |
+| Case Closed | 34.00% | ~20,336 |
+| King of the Hill | 33.00% | ~19,738 |
+| Underworld Initiate | 29.00% | ~17,345 |
+| Roid Ranger | 21.00% | ~12,561 |
+| True Player | 19.00% | ~11,364 |
+| Off the Rocks | 18.00% | ~10,766 |
+| Raider’s Ruin | 16.00% | ~9,570 |
+| Dragonslayer | 16.00% | ~9,570 |
+| Hidden Sonata | 13.00% | ~7,776 |
 | Classy Joint | 10.00% | ~5,981 |
 | Rockay Rex | 10.00% | ~5,981 |
 | Track Star | 9.00% | ~5,383 |
@@ -26,9 +26,9 @@ Rating: 3.93 (Ranked 895)
 | I Like Trains | 8.00% | ~4,785 |
 | Headhunter | 8.00% | ~4,785 |
 | Ding Dong | 8.00% | ~4,785 |
-| Foo Finder | 7.00% | ~4,186 |
-| Legend Looter | 5.00% | ~2,990 |
-| Savvy Seeker | 5.00% | ~2,990 |
+| Foo Finder | 7.00% | ~4,187 |
+| Legend Looter | 5.00% | ~2,991 |
+| Savvy Seeker | 5.00% | ~2,991 |
 | Imports and Exports | 4.00% | ~2,392 |
 | Olympus Ascended | 4.00% | ~2,392 |
 | Red Star | 4.00% | ~2,392 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~299 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,807 (Ranked 67)  
+Progressed: 59,812 (Ranked 67)  
 Completed: 29 (0.05%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 29 (0.05%) (Ranked 170)
 | 2023-05-09 | 59,546 | 28 |
 | 2023-05-10 | 59,655 | 28 |
 | 2023-05-11 | 59,781 | 29 |
-| 2023-05-12 | 59,807 | 29 |
+| 2023-05-12 | 59,812 | 29 |
 ## Awards
 Max (Highly Recommended): 249  (Ranked 239)  
 Sum: 1,185 (Ranked 220)  

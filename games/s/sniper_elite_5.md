@@ -5,8 +5,8 @@ Rating: 4.38 (Ranked 689)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 36.00% | ~253 |
-| Confirming Suspicions | 31.00% | ~218 |
+| Meeting Resistance | 36.00% | ~254 |
+| Confirming Suspicions | 31.00% | ~219 |
 | The Kraken Wakes | 29.00% | ~204 |
 | It's Starting to Crack | 28.00% | ~197 |
 | Lord of War | 25.00% | ~176 |
@@ -27,13 +27,13 @@ Rating: 4.38 (Ranked 689)
 | Close Quarters | 14.00% | ~99 |
 | Just a Flesh Wound | 13.00% | ~92 |
 | Der Geist | 13.00% | ~92 |
-| Snake in the Grass | 13.00% | ~92 |
-| Set Europe Ablaze | 12.00% | ~84 |
-| Die Nussknacker Sweet! | 12.00% | ~84 |
-| Brains of the Operation | 12.00% | ~84 |
-| No Stone Unturned | 11.00% | ~77 |
-| Opposing Force | 11.00% | ~77 |
-| Enemy at the Gates | 11.00% | ~77 |
+| Set Europe Ablaze | 12.00% | ~85 |
+| Die Nussknacker Sweet! | 12.00% | ~85 |
+| Snake in the Grass | 12.00% | ~85 |
+| Brains of the Operation | 12.00% | ~85 |
+| No Stone Unturned | 11.00% | ~78 |
+| Opposing Force | 11.00% | ~78 |
+| Enemy at the Gates | 11.00% | ~78 |
 | My Little Friend | 9.00% | ~63 |
 | Herr Today, Gone Tomorrow | 9.00% | ~59 |
 | Precision Is Key | 8.00% | ~56 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.30% | ~2 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704 (Ranked 176)  
+Progressed: 705 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 2 (0.28%) (Ranked 127)
 | 2023-05-09 | 694 | 2 |
 | 2023-05-10 | 698 | 2 |
 | 2023-05-11 | 701 | 2 |
-| 2023-05-12 | 704 | 2 |
+| 2023-05-12 | 705 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

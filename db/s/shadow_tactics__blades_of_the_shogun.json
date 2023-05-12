@@ -1063,9 +1063,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 166669,
+  "EOS_Progressed": 166673,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2133,
+  "EOS_NewPlayers": 2128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3043,6 +3043,11 @@
       "Time": "2023-05-12T07:06:15.402418+00:00",
       "NumProgressed": 166669,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-12T08:06:14.4716493+00:00",
+      "NumProgressed": 166673,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 44,
@@ -3078,7 +3083,7 @@
       "Name": "Chunin",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8333
+      "UsersEstimate": 8334
     },
     {
       "ID": "CompleteMastery",
@@ -3158,7 +3163,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8333
+      "UsersEstimate": 8334
     },
     {
       "ID": "ItsRainingMen",
@@ -3302,7 +3307,7 @@
       "Name": "Stoned Ox",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8333
+      "UsersEstimate": 8334
     },
     {
       "ID": "TanukiTime",
@@ -3398,22 +3403,22 @@
       "Name": "Yabu",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 8333
+      "UsersEstimate": 8334
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 166669,
+      "Progressed": 166673,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-05-09T22:58:28.7130265+00:00",
-  "LastChanged_Achievements": "2023-05-12T07:06:15.4024172+00:00",
+  "LastChanged_Achievements": "2023-05-12T08:06:14.4716491+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:09.8632245+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:59:19.492939+00:00",
-  "LastUpdate_Achievements": "2023-05-12T07:06:15.4024724+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:59:22.9460353+00:00",
+  "LastUpdate_Achievements": "2023-05-12T08:06:14.4716879+00:00"
 }

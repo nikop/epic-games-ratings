@@ -2,7 +2,7 @@
   "ID": "4ede2a7cb66d4a84806269e521375a6a",
   "Name": "Bibots",
   "ProductSlug": "bibots-aad4d0",
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 79,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.7768439+00:00",
   "LastChanged": "2023-03-31T05:57:21.776844+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:42.6727644+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:58:44.5369492+00:00",
-  "LastUpdate_Achievements": "2023-05-12T07:02:27.2250405+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:58:44.3503421+00:00",
+  "LastUpdate_Achievements": "2023-05-12T08:03:03.27965+00:00"
 }

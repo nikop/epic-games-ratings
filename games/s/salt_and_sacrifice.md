@@ -40,8 +40,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Copse | 29.00% | ~18,534 |
 | The Dragon | 29.00% | ~18,534 |
 | The Dracomancer | 29.00% | ~18,534 |
+| Well Stocked | 28.00% | ~17,895 |
 | The Umbramancer | 28.00% | ~17,895 |
-| Well Stocked | 27.00% | ~17,256 |
 | Chaos Hunger | 27.00% | ~17,256 |
 | The Kinetomancer | 27.00% | ~17,256 |
 | The Sanguimancer | 27.00% | ~17,256 |

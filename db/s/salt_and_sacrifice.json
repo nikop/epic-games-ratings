@@ -1308,7 +1308,7 @@
   ],
   "EOS_Progressed": 63911,
   "EOS_Completed": 1154,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -2522,9 +2522,9 @@
       "ID": "crafting_all_replenish_found",
       "SetID": "2jelldm",
       "Name": "Well Stocked",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 17256
+      "UsersEstimate": 17895
     },
     {
       "ID": "crafting_all_replenish_upgrade",
@@ -2882,8 +2882,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-05-10T16:58:24.0109883+00:00",
-  "LastChanged_Achievements": "2023-05-12T07:06:01.7880398+00:00",
+  "LastChanged_Achievements": "2023-05-12T08:06:00.8296405+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:30.6675947+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:58:27.1270368+00:00",
-  "LastUpdate_Achievements": "2023-05-12T07:06:01.788095+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:58:25.4695955+00:00",
+  "LastUpdate_Achievements": "2023-05-12T08:06:00.8297249+00:00"
 }

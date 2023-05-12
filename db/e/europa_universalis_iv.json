@@ -4698,9 +4698,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 34443,
+  "EOS_Progressed": 34458,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4928,
+  "EOS_NewPlayers": 4926,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6673,6 +6673,11 @@
       "Time": "2023-05-12T07:06:43.849143+00:00",
       "NumProgressed": 34443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T08:06:43.4431758+00:00",
+      "NumProgressed": 34458,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -6812,7 +6817,7 @@
       "Name": "Agressive Expander",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -6844,7 +6849,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -6964,7 +6969,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -7116,7 +7121,7 @@
       "Name": "Bright Spark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_brothers_in_arms",
@@ -7196,7 +7201,7 @@
       "Name": "City of Cities",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_cold_war",
@@ -7300,7 +7305,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -7444,7 +7449,7 @@
       "Name": "Factionalism",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_fanatic_collectivist",
@@ -7516,7 +7521,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "achievement_forever_golden",
@@ -7644,7 +7649,7 @@
       "Name": "A Golden Empire",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_golden_horn",
@@ -7684,7 +7689,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2757
     },
     {
       "ID": "achievement_grand_coalition",
@@ -7900,7 +7905,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -8252,7 +8257,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_my_true_friend",
@@ -8620,7 +8625,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -8964,7 +8969,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2757
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -9348,7 +9353,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -9380,7 +9385,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2757
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -9515,21 +9520,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 34443,
+      "Progressed": 34458,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 34443,
+      "Progressed": 34458,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-12T04:57:01.2040277+00:00",
-  "LastChanged_Achievements": "2023-05-12T07:06:43.8491424+00:00",
+  "LastChanged_Achievements": "2023-05-12T08:06:43.4431753+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:41.1468914+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:57:19.0569412+00:00",
-  "LastUpdate_Achievements": "2023-05-12T07:06:43.8507736+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:57:14.5424765+00:00",
+  "LastUpdate_Achievements": "2023-05-12T08:06:43.4447627+00:00"
 }

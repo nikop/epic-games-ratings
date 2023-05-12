@@ -26,3 +26,10 @@
 | Sergeant Major Baran | 0.00% | ~0 |
 | Senior warrant officer Baran 1st class | 0.00% | ~0 |
 | Senior warrant officer Baran 2nd class | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 372)  
+Completed: 0 (0.00%) (Ranked 198)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-05-12 | 1 | 0 |

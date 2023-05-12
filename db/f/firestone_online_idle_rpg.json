@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 968,
+  "EOS_Progressed": 969,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -1432,6 +1432,11 @@
       "Time": "2023-05-12T06:06:10.2963351+00:00",
       "NumProgressed": 968,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-12T08:06:07.4366608+00:00",
+      "NumProgressed": 969,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1555,7 +1560,7 @@
       "Name": "Dragon Master",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "dragonslayer",
@@ -1611,7 +1616,7 @@
       "Name": "Enlightenment",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "exoticmerchant",
@@ -1745,9 +1750,9 @@
       "ID": "lockandload",
       "SetID": "3nl4bcg",
       "Name": "Lock And Load",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "masterenchanter",
@@ -1835,7 +1840,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "prestigiousx10",
@@ -1899,7 +1904,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "thealchemist",
@@ -1921,9 +1926,9 @@
       "ID": "thefatherofdragons",
       "SetID": "3nl4bcg",
       "Name": "The father of Dragons",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "thegameison",
@@ -2003,7 +2008,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "warmachinesarmy",
@@ -2035,14 +2040,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 968,
+      "Progressed": 969,
       "Completed": 1
     }
   ],
@@ -2050,8 +2055,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-12T07:06:08.3878984+00:00",
+  "LastChanged_Achievements": "2023-05-12T08:06:07.4366602+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:17.6970015+00:00",
-  "LastUpdate_Ratings": "2023-05-12T06:58:09.2308941+00:00",
-  "LastUpdate_Achievements": "2023-05-12T07:06:08.387988+00:00"
+  "LastUpdate_Ratings": "2023-05-12T07:58:07.1595572+00:00",
+  "LastUpdate_Achievements": "2023-05-12T08:06:07.4367595+00:00"
 }
