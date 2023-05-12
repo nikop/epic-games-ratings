@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~262 |
 | The Death Curse | 0.30% | ~262 |
 | Useless Allies | 0.30% | ~262 |
+| Flying Monkey Skulls of Doom | 0.30% | ~262 |
 | Running of the Saurs | 0.30% | ~262 |
 | The Contagious Curse | 0.30% | ~262 |
 | An Even Worse Time in Avernus | 0.30% | ~161 |
@@ -55,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~262 |
 | Underdeep Cartography | 0.30% | ~262 |
 | The Templar's Camp | 0.30% | ~262 |
+| Rescue in the Jungle | 0.30% | ~262 |
 | Pros and CONs | 0.20% | ~175 |
 | Upholding the Law | 0.20% | ~175 |
 | Tall Tales | 0.20% | ~107 |
@@ -115,9 +117,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~175 |
 | Wisdom Check | 0.20% | ~175 |
 | Sleuth It Out | 0.20% | ~175 |
+| The Newcomers of Notoriety | 0.20% | ~107 |
 | A Grand Puzzle | 0.20% | ~175 |
 | Tomb of the Nine Gods | 0.20% | ~175 |
 | The Mists of Ravenloft | 0.20% | ~175 |
+| The Hunt for Owl-y | 0.20% | ~175 |
 | Invisible Shadows | 0.20% | ~175 |
 | Werewolves in the Mist | 0.20% | ~175 |
 | Family Entanglements | 0.20% | ~175 |
@@ -151,7 +155,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~175 |
 | Slow and Steady | 0.20% | ~175 |
 | A Hero's Entourage | 0.20% | ~175 |
-| Flying Monkey Skulls of Doom | 0.20% | ~175 |
 | Lair of the Xanathar | 0.20% | ~175 |
 | Waterdeep Under Siege | 0.20% | ~175 |
 | Crowded Streets | 0.20% | ~175 |
@@ -192,6 +195,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.20% | ~107 |
 | CONtagious Cold | 0.20% | ~107 |
 | Civilization | 0.20% | ~107 |
+| Trench Coat Run | 0.20% | ~107 |
 | Durable Deep | 0.20% | ~175 |
 | Expert Opinion | 0.20% | ~175 |
 | Dwarven Rumors | 0.20% | ~107 |
@@ -207,7 +211,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.20% | ~107 |
 | Reghed Glacier Mysteries | 0.20% | ~107 |
 | The Haunted Jungle | 0.20% | ~175 |
-| Rescue in the Jungle | 0.20% | ~175 |
 | Starving in the Jungle | 0.10% | ~87 |
 | Cold as Ice | 0.10% | ~54 |
 | Keep Your Friends Close | 0.10% | ~54 |
@@ -281,14 +284,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~87 |
 | Double Vision | 0.10% | ~87 |
 | Underground Railroad | 0.10% | ~87 |
-| The Newcomers of Notoriety | 0.10% | ~54 |
 | Never Split the Party | 0.10% | ~87 |
 | Azaka's Procession - Part 1 | 0.10% | ~87 |
 | Snakes on our Plane | 0.10% | ~54 |
 | The Soulmonger Calls | 0.10% | ~87 |
 | Azaka's Procession - Part 2 | 0.10% | ~87 |
 | Acererak's Puzzle | 0.10% | ~54 |
-| The Hunt for Owl-y | 0.10% | ~87 |
 | We're not in Faerûn Anymore | 0.10% | ~87 |
 | Haunted Fortunes | 0.10% | ~87 |
 | Poor Fortune | 0.10% | ~87 |
@@ -433,7 +434,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Power of Three | 0.10% | ~54 |
 | Only Human | 0.10% | ~54 |
 | Ten in Ten-Towns | 0.10% | ~54 |
-| Trench Coat Run | 0.10% | ~54 |
 | The Taunting Lord | 0.10% | ~54 |
 | Lone Wolf Party | 0.10% | ~54 |
 | The Sibriex | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,290 (Ranked 59)  
-Completed: 1,829 (2.10%) (Ranked 60)  
+Progressed: 87,292 (Ranked 59)  
+Completed: 1,830 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -518,7 +518,7 @@ Completed: 1,829 (2.10%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,290 | 1,829 |
+| 2023-05-12 | 87,292 | 1,830 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,862 (Ranked 37)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -510,9 +510,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2592,
+  "EOS_Progressed": 2593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -760,6 +760,11 @@
       "Time": "2023-05-12T18:08:34.9374105+00:00",
       "NumProgressed": 2592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T23:05:46.8554881+00:00",
+      "NumProgressed": 2593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -987,7 +992,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Kills_Knockback",
@@ -1003,7 +1008,7 @@
       "Name": "Purging Spree",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "Kills_Vakir",
@@ -1099,7 +1104,7 @@
       "Name": "Efficient Killer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1131,7 +1136,7 @@
       "Name": "Just a Scratch",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "NexusCompleted",
@@ -1242,21 +1247,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2592,
+      "Progressed": 2593,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2592,
+      "Progressed": 2593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-08T20:00:29.2116217+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:29.8310683+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:05:46.855487+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:33.8980479+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:59:06.0224173+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:29.8311325+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:58:44.3585085+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:05:46.8555409+00:00"
 }

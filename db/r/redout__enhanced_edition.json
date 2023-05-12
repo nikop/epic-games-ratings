@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221654,
+  "EOS_Progressed": 221656,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2218,6 +2218,11 @@
       "Time": "2023-05-12T22:05:57.2918027+00:00",
       "NumProgressed": 221654,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-12T23:05:18.5781895+00:00",
+      "NumProgressed": 221656,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -2245,7 +2250,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62063
+      "UsersEstimate": 62064
     },
     {
       "ID": "CENTAUR",
@@ -2365,7 +2370,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70929
+      "UsersEstimate": 70930
     },
     {
       "ID": "NOBUNAGA",
@@ -2453,7 +2458,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46547
+      "UsersEstimate": 46548
     },
     {
       "ID": "TACTICIAN",
@@ -2493,22 +2498,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90878
+      "UsersEstimate": 90879
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221654,
+      "Progressed": 221656,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:05:57.291802+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:05:18.578189+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.9960773+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:58:34.574703+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:05:57.2918388+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:58:18.6945337+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:05:18.5782249+00:00"
 }

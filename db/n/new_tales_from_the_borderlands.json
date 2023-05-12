@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3387,
+  "EOS_Progressed": 3388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -312,6 +312,11 @@
       "Time": "2023-05-11T16:06:07.2977504+00:00",
       "NumProgressed": 3387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T23:05:51.1417428+00:00",
+      "NumProgressed": 3388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -323,7 +328,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -355,7 +360,7 @@
       "Name": "Totally Intentional",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -363,7 +368,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -371,7 +376,7 @@
       "Name": "From Zeroes...",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -387,7 +392,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -419,7 +424,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -475,7 +480,7 @@
       "Name": "Bring back the butt!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WATCH_CREDITS_TO_THE_END",
@@ -483,7 +488,7 @@
       "Name": "Hey, thanks!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WIN_BATTLE_OLD_SCHOOL",
@@ -521,16 +526,16 @@
       "ID": "WISH_FOR_MORE_TACOS",
       "SetID": "kakdpn",
       "Name": "Mas, Por Favor",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 542
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3387,
+      "Progressed": 3388,
       "Completed": 0
     }
   ],
@@ -538,8 +543,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:34.8101383+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:05:51.1417422+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:25.1754424+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:00:08.083654+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:34.8101594+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:59:36.5242642+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:05:51.1417634+00:00"
 }

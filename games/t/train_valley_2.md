@@ -10,6 +10,7 @@ Number of Ratings: 87  (23.09.2022)
 | Full garage | 4.00% | ~28 |
 | Juggler | 4.00% | ~28 |
 | To the eyeballs! | 4.00% | ~28 |
+| Builder | 3.00% | ~21 |
 | Common cause | 3.00% | ~21 |
 | Forgot something | 3.00% | ~21 |
 | Individual delivery | 3.00% | ~21 |
@@ -21,7 +22,6 @@ Number of Ratings: 87  (23.09.2022)
 | Trapiche Emerald | 3.00% | ~1 |
 | Upgrade complete | 3.00% | ~21 |
 | Bridgemania | 2.00% | ~14 |
-| Builder | 2.00% | ~14 |
 | Close call! | 2.00% | ~14 |
 | Critical care | 2.00% | ~14 |
 | Get out my way | 2.00% | ~14 |

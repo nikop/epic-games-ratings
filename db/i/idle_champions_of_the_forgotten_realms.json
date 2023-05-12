@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3652,10 +3652,10 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87290,
-  "EOS_Completed": 1829,
-  "EOS_NewPlayers": 718,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 87292,
+  "EOS_Completed": 1830,
+  "EOS_NewPlayers": 719,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5657,6 +5657,11 @@
       "Time": "2023-05-12T22:06:56.7831489+00:00",
       "NumProgressed": 87290,
       "NumCompleted": 1829
+    },
+    {
+      "Time": "2023-05-12T23:06:10.7190002+00:00",
+      "NumProgressed": 87292,
+      "NumCompleted": 1830
     }
   ],
   "TotalAchievements": 489,
@@ -6922,9 +6927,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_179",
@@ -7018,9 +7023,9 @@
       "ID": "objective_completed_209",
       "SetID": "cc37lbc",
       "Name": "The Hunt for Owl-y",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_21",
@@ -7882,9 +7887,9 @@
       "ID": "objective_completed_55",
       "SetID": "cc37lbc",
       "Name": "Flying Monkey Skulls of Doom",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_550",
@@ -8938,9 +8943,9 @@
       "ID": "objective_completed_808",
       "SetID": "415jc5c",
       "Name": "Trench Coat Run",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_809",
@@ -9570,30 +9575,30 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53564,
-      "Completed": 2497
+      "Progressed": 53566,
+      "Completed": 2498
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87290,
-      "Completed": 1829
+      "Progressed": 87292,
+      "Completed": 1830
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-12T14:57:57.844953+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:56.7831483+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:06:10.7189997+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:58:20.6397131+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:56.7859485+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:58:06.2539605+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:06:10.7216881+00:00"
 }

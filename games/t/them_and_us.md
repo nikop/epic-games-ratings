@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Forced to Kill | 69.00% | ~9 |
 | Alone with Them | 54.00% | ~7 |
-| Safe...For now? | 38.00% | ~5 |
+| Safe...For now? | 46.00% | ~6 |
 | The Cultists | 31.00% | ~4 |
 | A Night To Remember | 31.00% | ~4 |
 | Alone In The Dark | 23.00% | ~3 |
+| Open Sesame | 23.00% | ~3 |
 | Lover of classics | 15.00% | ~2 |
 | Them and Us | 15.00% | ~2 |
-| Open Sesame | 15.00% | ~2 |
 | OUTRAGE | 15.00% | ~2 |
 | Parasite Exterminated | 15.00% | ~2 |
 | The bus stop | 15.00% | ~2 |

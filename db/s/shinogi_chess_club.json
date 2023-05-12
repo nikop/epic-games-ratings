@@ -2,7 +2,7 @@
   "ID": "86bea31a21594ea3859c3cb3563a9b80",
   "Name": "Shinogi Chess Club",
   "ProductSlug": "shinogi-chess-club-995dd7",
-  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 79,
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -37,6 +37,11 @@
     {
       "Time": "2023-04-25T16:15:21.788142+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T23:05:33.2475001+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -47,7 +52,7 @@
       "ID": "ACH_COMPLETECH1",
       "SetID": "3milekj",
       "Name": "Frostbite",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -111,7 +116,7 @@
       "ID": "ACH_FINDROCK",
       "SetID": "3milekj",
       "Name": "Rock Out",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -119,7 +124,7 @@
       "ID": "ACH_FINDTORTOISE",
       "SetID": "3milekj",
       "Name": "And the Hare",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -144,7 +149,7 @@
     {
       "ID": "3milekj",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
@@ -152,8 +157,8 @@
   "FirstSeenRating": "2023-04-18T22:59:17.8138997+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:21.7881428+00:00",
   "LastChanged": "2023-04-18T22:59:17.8138997+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:14.0672271+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:05:33.2474997+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:24.5279783+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:58:53.771372+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:14.0672407+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:58:33.8060333+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:05:33.2475099+00:00"
 }

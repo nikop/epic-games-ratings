@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-05-10T16:05:39.9246035+00:00",
       "NumProgressed": 157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T23:05:48.2336129+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -76,9 +81,9 @@
       "ID": "ach_100days",
       "SetID": "b8gh1fi",
       "Name": "First 100 Days",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_ada",
@@ -110,15 +115,15 @@
       "Name": "Floor Galore",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_area_1",
       "SetID": "b8gh1fi",
       "Name": "Under One Roof",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_art",
@@ -126,7 +131,7 @@
       "Name": "Artfully Done",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_art_large",
@@ -214,7 +219,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_consultant_1",
@@ -222,15 +227,15 @@
       "Name": "Upgrade Unlock",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_consultants_b",
@@ -246,7 +251,7 @@
       "Name": "Smooth Operator",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_contracts_1",
@@ -284,9 +289,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_drones",
@@ -382,7 +387,7 @@
       "Name": "Starting Skyward",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_floors_1",
@@ -422,7 +427,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_grime_2",
@@ -430,7 +435,7 @@
       "Name": "Rehab Expert",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_happy",
@@ -446,7 +451,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_mod_1",
@@ -470,15 +475,15 @@
       "Name": "28 Days Later",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_office_1",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s Technical",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_office_2",
@@ -542,7 +547,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_profit_1",
@@ -580,9 +585,9 @@
       "ID": "ach_restaurants_1",
       "SetID": "b8gh1fi",
       "Name": "Refined Palates",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_restaurants_2",
@@ -598,7 +603,7 @@
       "Name": "Dinner Dash",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_restaurants_4",
@@ -644,9 +649,9 @@
       "ID": "ach_retail_4",
       "SetID": "b8gh1fi",
       "Name": "Boutique Benefits",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_revs_1",
@@ -700,17 +705,17 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_trash_1",
       "SetID": "b8gh1fi",
       "Name": "Terrifically Trashed",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_tutorial",
@@ -750,7 +755,7 @@
       "Name": "Get Electrified",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_util_water",
@@ -774,14 +779,14 @@
       "Name": "Destination Destiny",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 0
     }
   ],
@@ -789,8 +794,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:31.4017302+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:05:48.2336124+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:00.4875795+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:58:23.5179694+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:31.4018531+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:58:08.861851+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:05:48.2337099+00:00"
 }

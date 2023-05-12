@@ -5,30 +5,30 @@ Rating: 4.67 (Ranked 256)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,562 |
-| Tomorrow Never Dyes | 47.00% | ~2,616 |
-| Mainframe Hacker | 46.00% | ~2,560 |
-| The Spy who eliminated me | 46.00% | ~2,560 |
-| Never Say Loser Again | 42.00% | ~2,337 |
-| For your Eyes only | 39.00% | ~2,170 |
-| Tailor-Made | 38.00% | ~2,115 |
-| From the Vault with Love | 37.00% | ~2,059 |
-| Fully Decked Out | 37.00% | ~2,059 |
-| You Only Live Twice | 31.00% | ~1,725 |
-| A view to Win | 29.00% | ~1,614 |
-| Smells Like Trouble | 27.00% | ~1,503 |
-| In It to Win It | 26.00% | ~1,447 |
-| Private Collection | 26.00% | ~1,447 |
-| Assistant Accountant | 25.00% | ~1,391 |
-| The Living Portrait | 25.00% | ~1,391 |
-| Killer Looks | 25.00% | ~1,391 |
-| Hostile Takeover | 25.00% | ~1,391 |
-| Keycards Royale | 24.00% | ~1,336 |
-| Dr. No Kill | 24.00% | ~1,336 |
-| My Motto, My Creed | 24.00% | ~1,336 |
-| Security Supervisor | 10.00% | ~556 |
-| License to Thrill | 8.00% | ~445 |
-| Social of Solace | 8.00% | ~445 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,564 |
+| Tomorrow Never Dyes | 47.00% | ~2,617 |
+| Mainframe Hacker | 46.00% | ~2,562 |
+| The Spy who eliminated me | 46.00% | ~2,562 |
+| Never Say Loser Again | 42.00% | ~2,339 |
+| For your Eyes only | 39.00% | ~2,172 |
+| Tailor-Made | 38.00% | ~2,116 |
+| From the Vault with Love | 37.00% | ~2,061 |
+| Fully Decked Out | 37.00% | ~2,061 |
+| You Only Live Twice | 31.00% | ~1,726 |
+| A view to Win | 29.00% | ~1,615 |
+| Smells Like Trouble | 27.00% | ~1,504 |
+| In It to Win It | 26.00% | ~1,448 |
+| Private Collection | 26.00% | ~1,448 |
+| Assistant Accountant | 25.00% | ~1,392 |
+| The Living Portrait | 25.00% | ~1,392 |
+| Killer Looks | 25.00% | ~1,392 |
+| Hostile Takeover | 25.00% | ~1,392 |
+| Keycards Royale | 24.00% | ~1,337 |
+| Dr. No Kill | 24.00% | ~1,337 |
+| My Motto, My Creed | 24.00% | ~1,337 |
+| Security Supervisor | 10.00% | ~557 |
+| License to Thrill | 8.00% | ~446 |
+| Social of Solace | 8.00% | ~446 |
 | Safe Withdrawal | 7.00% | ~390 |
 | Live and let lie | 5.00% | ~278 |
 | Call Me Maybe | 5.00% | ~278 |
@@ -42,7 +42,7 @@ Rating: 4.67 (Ranked 256)
 | Extraction Confusion | 0.30% | ~17 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,565 (Ranked 119)  
+Progressed: 5,569 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 5,439 | 0 |
 | 2023-05-10 | 5,491 | 0 |
 | 2023-05-11 | 5,535 | 0 |
-| 2023-05-12 | 5,565 | 0 |
+| 2023-05-12 | 5,569 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

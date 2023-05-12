@@ -15,28 +15,28 @@
 | Let's play a game… | 44.00% | ~4 |
 | Now or never | 44.00% | ~4 |
 | On the right path | 22.00% | ~2 |
+| I'm close now | 22.00% | ~2 |
+| Failed attempt | 22.00% | ~2 |
+| The real escape | 22.00% | ~2 |
+| Born again | 22.00% | ~2 |
+| Nightmare in the kitchen | 22.00% | ~2 |
+| Good choice | 22.00% | ~2 |
 | It can't be true | 22.00% | ~2 |
+| Take the long way round | 22.00% | ~2 |
 | Pick the right door | 22.00% | ~2 |
 | One-way | 22.00% | ~2 |
 | The third floor | 22.00% | ~2 |
 | 373 | 11.00% | ~1 |
-| I'm close now | 11.00% | ~1 |
-| Failed attempt | 11.00% | ~1 |
-| The real escape | 11.00% | ~1 |
-| Born again | 11.00% | ~1 |
-| Nightmare in the kitchen | 11.00% | ~1 |
-| Good choice | 11.00% | ~1 |
-| Take the long way round | 11.00% | ~1 |
+| The experiment | 11.00% | ~1 |
 | He who seeks, finds! | 11.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
-| The experiment | 0.00% | ~0 |
 | Eva's diary | 0.00% | ~0 |
 | Horror book | 0.00% | ~0 |
 | A dark past | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 | Matthew's revenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 318)  
+Progressed: 9 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

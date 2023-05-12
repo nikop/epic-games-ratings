@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2023-05-12T03:05:32.5259685+00:00",
       "NumProgressed": 334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T23:05:36.9633566+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -297,7 +302,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Devoted",
@@ -377,7 +382,7 @@
       "Name": "Spirit animal",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LiarLiar",
@@ -481,7 +486,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Toxic",
@@ -520,7 +525,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 336,
       "Completed": 0
     }
   ],
@@ -528,8 +533,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:18.389976+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:05:36.9633561+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:50.1564465+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:58:10.6778091+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:18.3900022+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:57:57.9873587+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:05:36.9633836+00:00"
 }

@@ -1594,12 +1594,18 @@
       "Rating": 4.24,
       "NumberOfAwards": 2915,
       "NumberOfAwardsMax": 367
+    },
+    {
+      "Time": "2023-05-12T22:59:07.8757194+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2918,
+      "NumberOfAwardsMax": 369
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2915,
-  "NumberOfAwardsMax": 367,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 2918,
+  "NumberOfAwardsMax": 369,
+  "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1617,7 +1623,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 367
+      "Count": 369
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1635,7 +1641,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 350
+      "Count": 351
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1692,8 +1698,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-05-11T21:59:14.0839477+00:00",
+  "LastChanged": "2023-05-12T22:59:07.8757192+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:58.5147446+00:00",
-  "LastUpdate_Ratings": "2023-05-12T21:59:35.391128+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:02:13.5580453+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:59:07.8757206+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:01:24.3126615+00:00"
 }

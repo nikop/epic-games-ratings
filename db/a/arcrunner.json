@@ -337,9 +337,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHV_CYBORG",
@@ -369,9 +369,9 @@
       "ID": "ACHV_EDEN",
       "SetID": "cceobco",
       "Name": "Eden Heights",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHV_FULLYMODDED",
@@ -530,8 +530,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:34.9535104+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:05:51.2729099+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:34.7775367+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:00:19.4414351+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:34.9535372+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:59:46.0883784+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:05:51.2729316+00:00"
 }

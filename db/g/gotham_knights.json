@@ -1064,7 +1064,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60817,
+  "EOS_Progressed": 60819,
   "EOS_Completed": 90,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
@@ -2379,6 +2379,11 @@
       "Time": "2023-05-12T22:06:46.1149696+00:00",
       "NumProgressed": 60817,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-12T23:06:01.0550997+00:00",
+      "NumProgressed": 60819,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 61,
@@ -2700,9 +2705,9 @@
       "ID": "HARLEY_2",
       "SetID": "4eo5ebm",
       "Name": "Get ReQ\u0027d",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 243
     },
     {
       "ID": "HARLEY_3",
@@ -2877,13 +2882,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60817,
+      "Progressed": 60819,
       "Completed": 90
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31097,
+      "Progressed": 31099,
       "Completed": 2635
     }
   ],
@@ -2891,8 +2896,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-12T07:00:17.2180218+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:46.1149689+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:06:01.0550992+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:00:26.2695257+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:46.115048+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:59:51.4889937+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:06:01.0551704+00:00"
 }

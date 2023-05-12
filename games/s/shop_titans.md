@@ -39,8 +39,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 27.00% | ~34,581 |
 | Vanity, Verily | 26.00% | ~33,301 |
 | Research & Development | 25.00% | ~32,020 |
+| Power of Love | 24.00% | ~30,739 |
 | Flawless Fusion | 24.00% | ~30,739 |
-| Power of Love | 23.00% | ~29,458 |
 | Natural 20 | 23.00% | ~29,458 |
 | Fated Encounters | 21.00% | ~26,897 |
 | Royal Ransom | 21.00% | ~26,897 |

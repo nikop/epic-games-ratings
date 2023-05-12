@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-05-10T03:06:00.0804063+00:00",
       "NumProgressed": 200,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-12T23:05:50.0712502+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -82,7 +87,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "605742",
@@ -90,7 +95,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "605752",
@@ -98,7 +103,7 @@
       "Name": "Creator of Life",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "605762",
@@ -106,7 +111,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "605772",
@@ -128,9 +133,9 @@
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "605802",
@@ -160,9 +165,9 @@
       "ID": "605832",
       "SetID": "4lpaifm",
       "Name": "Deity of Darkness",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "605842",
@@ -194,7 +199,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "605892",
@@ -202,31 +207,31 @@
       "Name": "Similar to Similar",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "605912",
       "SetID": "4lpaifm",
       "Name": "Master of Alchemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "605942",
       "SetID": "4lpaifm",
       "Name": "Master of the Worlds",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "610000",
       "SetID": "4lpaifm",
       "Name": "Greatest inventor",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "610001",
@@ -240,9 +245,9 @@
       "ID": "740512",
       "SetID": "4lpaifm",
       "Name": "Honorable Santa",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "844452",
@@ -257,7 +262,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 8
     }
   ],
@@ -265,8 +270,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-05-12T22:06:33.5698712+00:00",
+  "LastChanged_Achievements": "2023-05-12T23:05:50.0712497+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:20.3995088+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:00:02.619111+00:00",
-  "LastUpdate_Achievements": "2023-05-12T22:06:33.5698905+00:00"
+  "LastUpdate_Ratings": "2023-05-12T22:59:31.324452+00:00",
+  "LastUpdate_Achievements": "2023-05-12T23:05:50.0712659+00:00"
 }

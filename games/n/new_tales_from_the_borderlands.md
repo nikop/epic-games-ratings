@@ -6,33 +6,33 @@ Rating: 4.08 (Ranked 865)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 48.00% | ~1,626 |
-| Totally Intentional | 43.00% | ~1,456 |
-| Each Sold Separately | 36.00% | ~1,219 |
+| Totally Intentional | 43.00% | ~1,457 |
+| Each Sold Separately | 36.00% | ~1,220 |
 | We're In | 31.00% | ~1,050 |
-| You're Not Naked | 28.00% | ~948 |
-| Tale in the Toilet | 28.00% | ~948 |
-| From Zeroes... | 27.00% | ~914 |
+| You're Not Naked | 28.00% | ~949 |
+| Tale in the Toilet | 28.00% | ~949 |
+| From Zeroes... | 27.00% | ~915 |
 | Don't Get Cocky | 26.00% | ~881 |
 | Shard Snatchers | 23.00% | ~779 |
 | You Rich Now! | 21.00% | ~711 |
-| Our Lucky Winner | 20.00% | ~677 |
+| Our Lucky Winner | 20.00% | ~678 |
 | You Poor Now! | 19.00% | ~644 |
 | You Got the Goods, Kid | 19.00% | ~644 |
 | The Shardmenstration | 18.00% | ~610 |
 | Those Were the Days... | 18.00% | ~610 |
 | ...To Heroes | 17.00% | ~576 |
-| Mas, Por Favor | 17.00% | ~576 |
+| Mas, Por Favor | 16.00% | ~542 |
 | And Still Champion... | 14.00% | ~474 |
 | Super Trusting Friend! | 9.00% | ~305 |
-| Bring back the butt! | 4.00% | ~135 |
-| Hey, thanks! | 4.00% | ~135 |
+| Bring back the butt! | 4.00% | ~136 |
+| Hey, thanks! | 4.00% | ~136 |
 | Murderous Mascot Mayhem | 3.00% | ~102 |
 | New Business | 0.90% | ~30 |
 | Okay, Vain Much? | 0.50% | ~17 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,387 (Ranked 131)  
+Progressed: 3,388 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,6 +50,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-08 | 3,384 | 0 |
 | 2023-05-09 | 3,385 | 0 |
 | 2023-05-11 | 3,387 | 0 |
+| 2023-05-12 | 3,388 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
