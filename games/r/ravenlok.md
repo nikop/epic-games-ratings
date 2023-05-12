@@ -17,7 +17,7 @@
 | Little Shop | 47.00% | ~283 |
 | Surprise! | 43.00% | ~259 |
 | An Actor! | 43.00% | ~259 |
-| Curtain Call | 41.00% | ~247 |
+| Curtain Call | 42.00% | ~253 |
 | Well Rested | 39.00% | ~235 |
 | Piece of Cake | 38.00% | ~229 |
 | Gooey Delight! | 38.00% | ~229 |
@@ -25,7 +25,7 @@
 | Teacups for Toppy | 37.00% | ~223 |
 | Nightmare Fuel | 36.00% | ~217 |
 | Take Heart | 36.00% | ~217 |
-| The Guardian | 35.00% | ~211 |
+| The Guardian | 36.00% | ~217 |
 | Frog Facts! | 34.00% | ~205 |
 | Stronger! | 34.00% | ~205 |
 | Ancient Wisdom | 33.00% | ~199 |

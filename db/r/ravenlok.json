@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 602,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 6.48,
   "EosHistory": [
@@ -1191,9 +1191,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 217
     },
     {
       "ID": "33",
@@ -1383,9 +1383,9 @@
       "ID": "9",
       "SetID": "d0g98p",
       "Name": "Curtain Call",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 253
     }
   ],
   "AchievementSets": [
@@ -1400,8 +1400,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-12T09:05:39.8979174+00:00",
+  "LastChanged_Achievements": "2023-05-12T10:05:18.6962694+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:51.0430334+00:00",
-  "LastUpdate_Ratings": "2023-05-12T08:57:40.6738165+00:00",
-  "LastUpdate_Achievements": "2023-05-12T09:05:39.897956+00:00"
+  "LastUpdate_Ratings": "2023-05-12T09:57:21.1633171+00:00",
+  "LastUpdate_Achievements": "2023-05-12T10:05:18.6963561+00:00"
 }

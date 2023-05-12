@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,067 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,664 (Ranked 38)  
+Progressed: 266,666 (Ranked 38)  
 Completed: 359 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-09 | 266,399 | 356 |
 | 2023-05-10 | 266,527 | 358 |
 | 2023-05-11 | 266,628 | 359 |
-| 2023-05-12 | 266,664 | 359 |
+| 2023-05-12 | 266,666 | 359 |
 ## Awards
 Max (Character Customization): 18,654  (Ranked 18)  
 Sum: 34,146 (Ranked 33)  

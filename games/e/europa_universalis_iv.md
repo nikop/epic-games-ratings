@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,102 |
-| That's a Grand Army | 8.00% | ~2,758 |
-| That is mine! | 8.00% | ~2,758 |
-| Victorious! | 8.00% | ~2,758 |
-| Brothers in Arms | 6.00% | ~2,068 |
-| That's a Grand Navy | 6.00% | ~2,068 |
-| Seriously?! | 6.00% | ~2,068 |
-| For the Glory | 5.00% | ~1,723 |
-| Cold War | 4.00% | ~1,379 |
-| True Catholic | 4.00% | ~1,379 |
-| Defender of the Faith | 3.00% | ~1,034 |
-| It's all about the money | 3.00% | ~1,034 |
-| Respected | 3.00% | ~1,034 |
-| Blockader | 2.00% | ~689 |
-| Combined Arms | 2.00% | ~689 |
-| Double the Love | 2.00% | ~689 |
-| Gentle Persuasion | 2.00% | ~689 |
-| It's all about luck | 2.00% | ~689 |
-| Queen of Conquest | 2.00% | ~689 |
-| Royal Authority | 2.00% | ~689 |
-| The Princess is in this Castle | 2.00% | ~689 |
-| Total Control | 2.00% | ~689 |
-| Truly Divine Ruler | 2.00% | ~689 |
+| Until death do us apart | 9.00% | ~3,104 |
+| That's a Grand Army | 8.00% | ~2,759 |
+| That is mine! | 8.00% | ~2,759 |
+| Victorious! | 8.00% | ~2,759 |
+| Brothers in Arms | 6.00% | ~2,069 |
+| That's a Grand Navy | 6.00% | ~2,069 |
+| Seriously?! | 6.00% | ~2,069 |
+| For the Glory | 5.00% | ~1,724 |
+| Cold War | 4.00% | ~1,380 |
+| True Catholic | 4.00% | ~1,380 |
+| Defender of the Faith | 3.00% | ~1,035 |
+| It's all about the money | 3.00% | ~1,035 |
+| Respected | 3.00% | ~1,035 |
+| Blockader | 2.00% | ~690 |
+| Combined Arms | 2.00% | ~690 |
+| Double the Love | 2.00% | ~690 |
+| Gentle Persuasion | 2.00% | ~690 |
+| It's all about luck | 2.00% | ~690 |
+| Queen of Conquest | 2.00% | ~690 |
+| Royal Authority | 2.00% | ~690 |
+| The Princess is in this Castle | 2.00% | ~690 |
+| Total Control | 2.00% | ~690 |
+| Truly Divine Ruler | 2.00% | ~690 |
 | Agressive Expander | 1.00% | ~345 |
 | All That's Thine Shall Be Mine | 1.00% | ~345 |
 | Azur semé de lis or | 1.00% | ~345 |
@@ -76,6 +76,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Protected Market | 0.20% | ~69 |
 | AAA Credit | 0.20% | ~69 |
 | Fine Financials | 0.20% | ~69 |
+| A Fine Goosestep | 0.20% | ~69 |
 | Imperio español | 0.20% | ~69 |
 | Industrial Powerhouse | 0.20% | ~69 |
 | Italian Ambition | 0.20% | ~69 |
@@ -135,7 +136,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Empire of Mann | 0.10% | ~34 |
 | Even Better than Piet Heyn | 0.10% | ~34 |
 | Fanatic Collectivist | 0.10% | ~34 |
-| A Fine Goosestep | 0.10% | ~34 |
 | The First Toungoo Empire | 0.10% | ~34 |
 | For Odin! | 0.10% | ~34 |
 | For the Emperor! | 0.10% | ~34 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,469 (Ranked 81)  
+Progressed: 34,488 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,18 +383,18 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
 | 2023-05-11 | 34,344 | 0 |
-| 2023-05-12 | 34,469 | 0 |
+| 2023-05-12 | 34,488 | 0 |
 ## Awards
-Max (Educational): 5,206  (Ranked 60)  
-Sum: 43,077 (Ranked 27)  
+Max (Educational): 5,212  (Ranked 60)  
+Sum: 43,090 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,206 |
+| This game is Educational | 5,212 |
 | This game is Highly Recommended | 4,991 |
 | This game has Challenging Combat | 4,973 |
 | This game is Extremely Fun | 4,945 |
-| This game has Diverse Characters | 4,890 |
+| This game has Diverse Characters | 4,897 |
 | This game is Relaxing | 4,851 |
 | This game has Competitive Players | 4,677 |
 | This game has Amazing Storytelling | 4,435 |
@@ -518,4 +518,4 @@ Diff (max vs sum): 33
 | 2023-05-09 | 4.68 | - | 5,201 | 43,010 |
 | 2023-05-10 | 4.68 | - | 5,201 | 43,029 |
 | 2023-05-11 | 4.68 | - | 5,206 | 43,064 |
-| 2023-05-12 | 4.68 | - | 5,206 | 43,077 |
+| 2023-05-12 | 4.68 | - | 5,212 | 43,090 |

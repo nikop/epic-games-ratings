@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,330 |
-| Now You're Talking | 62.00% | ~320,035 |
-| Steel Yourself | 62.00% | ~320,035 |
-| Window Dressing | 50.00% | ~258,092 |
-| Trigger Happy | 46.00% | ~237,445 |
-| Riverborn | 45.00% | ~232,283 |
-| Starry Eyed | 34.00% | ~175,503 |
-| Poking Around | 34.00% | ~175,503 |
-| Talk of the Town | 24.00% | ~123,884 |
+| First Step | 70.00% | ~361,331 |
+| Now You're Talking | 62.00% | ~320,036 |
+| Steel Yourself | 62.00% | ~320,036 |
+| Window Dressing | 50.00% | ~258,094 |
+| Trigger Happy | 46.00% | ~237,446 |
+| Riverborn | 45.00% | ~232,284 |
+| Starry Eyed | 34.00% | ~175,504 |
+| Poking Around | 34.00% | ~175,504 |
+| Talk of the Town | 24.00% | ~123,885 |
 | AAARR! | 23.00% | ~118,723 |
 | Hello Darkness | 23.00% | ~118,723 |
 | Wind At Our Backs | 22.00% | ~113,561 |
 | To the Beat | 20.00% | ~103,237 |
-| Sunny Shores | 17.00% | ~87,751 |
+| Sunny Shores | 17.00% | ~87,752 |
 | To Victory! | 15.00% | ~77,428 |
 | Sunday Best | 15.00% | ~77,428 |
 | Two of a Kind | 14.00% | ~72,266 |
 | Keep On Trucking | 13.00% | ~67,104 |
-| Going on an Adventure | 11.00% | ~56,780 |
-| Make Peace, Not War | 11.00% | ~56,780 |
-| Walking The Line | 10.00% | ~51,618 |
-| Not So Cute Anymore | 10.00% | ~51,618 |
+| Going on an Adventure | 11.00% | ~56,781 |
+| Make Peace, Not War | 11.00% | ~56,781 |
+| Walking The Line | 10.00% | ~51,619 |
+| Not So Cute Anymore | 10.00% | ~51,619 |
 | Road Less Travelled | 9.00% | ~46,457 |
 | Lost and Found | 9.00% | ~46,457 |
 | Partner in Crime | 7.00% | ~36,133 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,549 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,185 (Ranked 24)  
+Progressed: 516,187 (Ranked 24)  
 Completed: 404 (0.08%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 404 (0.08%) (Ranked 163)
 | 2023-05-09 | 516,037 | 403 |
 | 2023-05-10 | 516,093 | 403 |
 | 2023-05-11 | 516,164 | 404 |
-| 2023-05-12 | 516,185 | 404 |
+| 2023-05-12 | 516,187 | 404 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

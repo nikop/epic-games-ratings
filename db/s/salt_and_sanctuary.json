@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2089,10 +2089,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1873,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2023-05-12T09:59:20.9234983+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1874,
+      "NumberOfAwardsMax": 268
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1873,
+  "NumberOfAwards": 1874,
   "NumberOfAwardsMax": 268,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2106,7 +2112,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2157,9 +2163,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 520619,
+  "EOS_Progressed": 520621,
   "EOS_Completed": 1406,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -4102,6 +4108,11 @@
       "Time": "2023-05-12T09:06:04.6628353+00:00",
       "NumProgressed": 520619,
       "NumCompleted": 1406
+    },
+    {
+      "Time": "2023-05-12T10:05:43.7157849+00:00",
+      "NumProgressed": 520621,
+      "NumCompleted": 1406
     }
   ],
   "TotalAchievements": 37,
@@ -4113,7 +4124,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67680
+      "UsersEstimate": 67681
     },
     {
       "ID": "COASTROCK",
@@ -4169,7 +4180,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 432114
+      "UsersEstimate": 432115
     },
     {
       "ID": "HONED",
@@ -4281,7 +4292,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67680
+      "UsersEstimate": 67681
     },
     {
       "ID": "THE_IRON_ONES",
@@ -4289,7 +4300,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 93711
+      "UsersEstimate": 93712
     },
     {
       "ID": "THE_KEEP",
@@ -4297,7 +4308,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67680
+      "UsersEstimate": 67681
     },
     {
       "ID": "THE_LAKE",
@@ -4369,7 +4380,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 333196
+      "UsersEstimate": 333197
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -4408,15 +4419,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 520619,
+      "Progressed": 520621,
       "Completed": 1406
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-05-07T21:00:53.21025+00:00",
-  "LastChanged_Achievements": "2023-05-12T09:06:04.6628349+00:00",
+  "LastChanged": "2023-05-12T09:59:20.9234981+00:00",
+  "LastChanged_Achievements": "2023-05-12T10:05:43.7157843+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:29.1697974+00:00",
-  "LastUpdate_Ratings": "2023-05-12T08:59:37.4225845+00:00",
-  "LastUpdate_Achievements": "2023-05-12T09:06:04.662866+00:00"
+  "LastUpdate_Ratings": "2023-05-12T09:59:20.9234987+00:00",
+  "LastUpdate_Achievements": "2023-05-12T10:05:43.7158505+00:00"
 }
