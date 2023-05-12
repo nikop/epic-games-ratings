@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2561,
+  "EOS_Progressed": 2562,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -594,6 +594,11 @@
       "Time": "2023-05-12T03:05:59.037739+00:00",
       "NumProgressed": 2561,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-12T04:06:10.0735153+00:00",
+      "NumProgressed": 2562,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -653,7 +658,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "campaign10",
@@ -741,7 +746,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     },
     {
       "ID": "campaign20",
@@ -765,7 +770,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "campaign5",
@@ -868,7 +873,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2561,
+      "Progressed": 2562,
       "Completed": 9
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:59.0377387+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:06:10.0735148+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:17.3310572+00:00",
-  "LastUpdate_Ratings": "2023-05-12T03:00:11.613377+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:59.0377663+00:00"
+  "LastUpdate_Ratings": "2023-05-12T04:00:28.5259179+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:06:10.0735365+00:00"
 }

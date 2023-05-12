@@ -8,7 +8,7 @@ Rating: 4.86 (Ranked 27)
 | Start with a bang! | 89.00% | ~1,322 |
 | Feeling the beat! | 89.00% | ~1,322 |
 | You can pet the cat! | 84.00% | ~1,247 |
-| Who put gears in there? | 80.00% | ~1,188 |
+| Who put gears in there? | 81.00% | ~1,203 |
 | Cream of the Crop | 77.00% | ~1,143 |
 | Thanks for the free chip, Peppermint! | 76.00% | ~1,129 |
 | You got this, Peppermint? | 72.00% | ~1,069 |
@@ -20,7 +20,7 @@ Rating: 4.86 (Ranked 27)
 | Z-shielding's got nothing on us! | 60.00% | ~891 |
 | Kissing the sky! | 58.00% | ~861 |
 | Whoa! There's ANOTHER health bar!? | 54.00% | ~802 |
-| The Negotiator | 52.00% | ~772 |
+| The Negotiator | 53.00% | ~787 |
 | Does that say weakpoint? | 52.00% | ~772 |
 | Out in a puff of smoke | 47.00% | ~698 |
 | You must like calling me in, Chai | 46.00% | ~683 |

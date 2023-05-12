@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4877,
+  "EOS_Progressed": 4878,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -942,6 +942,11 @@
       "Time": "2023-05-12T02:01:12.7610389+00:00",
       "NumProgressed": 4877,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-12T04:05:28.982302+00:00",
+      "NumProgressed": 4878,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -953,7 +958,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4048
+      "UsersEstimate": 4049
     },
     {
       "ID": "ACH02",
@@ -977,7 +982,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "ACH05",
@@ -1073,7 +1078,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ACH17",
@@ -1137,7 +1142,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH25",
@@ -1184,7 +1189,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4877,
+      "Progressed": 4878,
       "Completed": 26
     }
   ],
@@ -1192,8 +1197,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-11T02:57:51.0234389+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:20.7370617+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:05:28.9823013+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:14.6349715+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:57:51.1189012+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:20.7370853+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:57:51.9659751+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:05:28.9823203+00:00"
 }

@@ -3020,9 +3020,9 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 108521,
+  "EOS_Progressed": 108522,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1258,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4970,6 +4970,11 @@
       "Time": "2023-05-12T03:06:00.3476855+00:00",
       "NumProgressed": 108521,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-05-12T04:06:11.2652592+00:00",
+      "NumProgressed": 108522,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 67,
@@ -4981,7 +4986,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 73794
+      "UsersEstimate": 73795
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -5013,7 +5018,7 @@
       "Name": "Bossing Around",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 48834
+      "UsersEstimate": 48835
     },
     {
       "ID": "TANNENBERG_ACH_BUTCHER",
@@ -5053,7 +5058,7 @@
       "Name": "Comeback",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 87902
+      "UsersEstimate": 87903
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -5077,7 +5082,7 @@
       "Name": "Developers, Developers, Developers, Developers!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17363
+      "UsersEstimate": 17364
     },
     {
       "ID": "TANNENBERG_ACH_EQUALITY_FOR_ALL",
@@ -5141,7 +5146,7 @@
       "Name": "Frostbite",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 48834
+      "UsersEstimate": 48835
     },
     {
       "ID": "TANNENBERG_ACH_GAVRILO_PRINCIP",
@@ -5173,7 +5178,7 @@
       "Name": "H\u00F6tzendorf",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7596
+      "UsersEstimate": 7597
     },
     {
       "ID": "TANNENBERG_ACH_HYDRA",
@@ -5181,7 +5186,7 @@
       "Name": "Hydra",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 37982
+      "UsersEstimate": 37983
     },
     {
       "ID": "TANNENBERG_ACH_IMMOVABLE_OBJECT",
@@ -5189,7 +5194,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 96584
+      "UsersEstimate": 96585
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -5205,7 +5210,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 86817
+      "UsersEstimate": 86818
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -5261,7 +5266,7 @@
       "Name": "Lucky Shot",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 57516
+      "UsersEstimate": 57517
     },
     {
       "ID": "TANNENBERG_ACH_NA_NOZH",
@@ -5277,7 +5282,7 @@
       "Name": "Night Owl",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 47749
+      "UsersEstimate": 47750
     },
     {
       "ID": "TANNENBERG_ACH_OOPS",
@@ -5389,7 +5394,7 @@
       "Name": "Strength in Numbers",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 48834
+      "UsersEstimate": 48835
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD",
@@ -5405,7 +5410,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 42323
+      "UsersEstimate": 42324
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -5485,7 +5490,7 @@
       "Name": "Unlucky",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 77050
+      "UsersEstimate": 77051
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -5516,15 +5521,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 108521,
+      "Progressed": 108522,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-05-12T01:56:09.5194849+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:06:00.3476849+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:06:11.2652588+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6465576+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:59:56.1861351+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:06:00.3477704+00:00"
+  "LastUpdate_Ratings": "2023-05-12T04:00:10.292576+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:06:11.2653215+00:00"
 }

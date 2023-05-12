@@ -465,7 +465,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12358,
+  "EOS_Progressed": 12359,
   "EOS_Completed": 93,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 2,
@@ -1665,6 +1665,11 @@
       "Time": "2023-05-12T03:05:14.5983591+00:00",
       "NumProgressed": 12358,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-12T04:05:22.4675296+00:00",
+      "NumProgressed": 12359,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 41,
@@ -1684,7 +1689,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "tpote_achievement_11",
@@ -1716,7 +1721,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "tpote_achievement_15",
@@ -1764,7 +1769,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "tpote_achievement_20",
@@ -1786,9 +1791,9 @@
       "ID": "tpote_achievement_22",
       "SetID": "3jcf6c3",
       "Name": "Two of us",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2595
     },
     {
       "ID": "tpote_achievement_23",
@@ -1868,7 +1873,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "tpote_achievement_32",
@@ -1940,7 +1945,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "tpote_achievement_40",
@@ -2003,15 +2008,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12358,
+      "Progressed": 12359,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:14.5983589+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:05:22.4675291+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:03.6307675+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:59:55.7323278+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:14.5983948+00:00"
+  "LastUpdate_Ratings": "2023-05-12T04:00:09.7871685+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:05:22.4675614+00:00"
 }

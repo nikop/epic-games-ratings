@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Going Down! | 100.00% | ~9 |
+| To Each Their Own | 44.00% | ~4 |
 | Onwards and Upwards | 44.00% | ~4 |
-| To Each Their Own | 33.00% | ~3 |
 | Like Phileas Fogg | 33.00% | ~3 |
+| You Get An Upgrade, You Get An Upgrade! | 33.00% | ~3 |
 | Seven-League Boots | 22.00% | ~2 |
 | Highly Qualified | 22.00% | ~2 |
 | Serial Winner | 22.00% | ~2 |
 | First and Foremost | 22.00% | ~2 |
 | Made Mother Proud | 22.00% | ~2 |
 | Winner Winner Chicken Dinner | 22.00% | ~2 |
-| You Get An Upgrade, You Get An Upgrade! | 22.00% | ~2 |
 | No Room for Improvement | 22.00% | ~2 |
 | Upgradeaholic | 22.00% | ~2 |
 | Start Your Engines | 22.00% | ~2 |

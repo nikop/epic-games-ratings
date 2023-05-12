@@ -194,7 +194,7 @@
       "Count": 168
     }
   ],
-  "EOS_Progressed": 402753,
+  "EOS_Progressed": 402761,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 2454,
   "EOS_NewCompleters": 1,
@@ -2154,6 +2154,11 @@
       "Time": "2023-05-12T03:05:48.0144044+00:00",
       "NumProgressed": 402753,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-12T04:05:58.3849051+00:00",
+      "NumProgressed": 402761,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 52,
@@ -2173,7 +2178,7 @@
       "Name": "100 KILLS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40275
+      "UsersEstimate": 40276
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -2181,7 +2186,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24165
+      "UsersEstimate": 24166
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -2189,7 +2194,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40275
+      "UsersEstimate": 40276
     },
     {
       "ID": "BIGUPS",
@@ -2580,7 +2585,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 402753,
+      "Progressed": 402761,
       "Completed": 30
     }
   ],
@@ -2588,8 +2593,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-07T07:00:48.9736863+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:48.0144035+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:05:58.3849048+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:37.9786833+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:59:27.5245418+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:48.0144563+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:59:39.3469069+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:05:58.3849489+00:00"
 }

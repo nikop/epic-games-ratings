@@ -82,7 +82,7 @@ Completed: 39 (0.18%) (Ranked 141)
 | 2023-05-12 | 21,709 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
-Sum: 2,057 (Ranked 185)  
+Sum: 2,059 (Ranked 185)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -94,8 +94,8 @@ Diff (max vs sum): 60
 | This game is Extremely Fun | 205 |
 | This game is Highly Recommended | 198 |
 | This game is Relaxing | 197 |
+| This game has Amazing Characters | 192 |
 | This game has Quickly Understood Controls | 192 |
-| This game has Amazing Characters | 190 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -160,3 +160,4 @@ Diff (max vs sum): 60
 | 2023-05-09 | 4.49 | 228 | 2,050 |
 | 2023-05-10 | 4.49 | 228 | 2,055 |
 | 2023-05-11 | 4.49 | 228 | 2,057 |
+| 2023-05-12 | 4.49 | 228 | 2,059 |

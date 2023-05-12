@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515782,
+  "EOS_Progressed": 1515784,
   "EOS_Completed": 600,
-  "EOS_NewPlayers": 1436,
+  "EOS_NewPlayers": 1432,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2390,6 +2390,11 @@
       "Time": "2023-05-12T03:05:51.2132086+00:00",
       "NumProgressed": 1515782,
       "NumCompleted": 600
+    },
+    {
+      "Time": "2023-05-12T04:06:01.7594548+00:00",
+      "NumProgressed": 1515784,
+      "NumCompleted": 600
     }
   ],
   "TotalAchievements": 20,
@@ -2433,7 +2438,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 45473
+      "UsersEstimate": 45474
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -2449,7 +2454,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136420
+      "UsersEstimate": 136421
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -2481,7 +2486,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 45473
+      "UsersEstimate": 45474
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -2560,15 +2565,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1515782,
+      "Progressed": 1515784,
       "Completed": 600
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:51.2132081+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:06:01.7594544+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:10.6784985+00:00",
-  "LastUpdate_Ratings": "2023-05-12T03:00:05.1282049+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:51.2132334+00:00"
+  "LastUpdate_Ratings": "2023-05-12T04:00:20.976571+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:06:01.7594741+00:00"
 }

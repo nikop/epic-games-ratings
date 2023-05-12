@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9989,
+  "EOS_Progressed": 9990,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -350,6 +350,11 @@
     {
       "Time": "2023-05-11T20:05:36.7198323+00:00",
       "NumProgressed": 9989,
+      "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-12T04:05:22.9975436+00:00",
+      "NumProgressed": 9990,
       "NumCompleted": 9
     }
   ],
@@ -530,7 +535,7 @@
       "Name": "group b",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_DAILY",
@@ -538,7 +543,7 @@
       "Name": "in like a lamb, out like a lion",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_FIVE_HUNDRED_KM",
@@ -578,7 +583,7 @@
       "Name": "if in doubt, flat out!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_MAX_SPEED_LIGHT",
@@ -586,7 +591,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9589
+      "UsersEstimate": 9590
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -698,22 +703,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7192
+      "UsersEstimate": 7193
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 9989,
+      "Progressed": 9990,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:15.1383898+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:05:22.9975432+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:45.0012761+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:57:17.3073749+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:15.1384199+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:57:14.7848532+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:05:22.99757+00:00"
 }

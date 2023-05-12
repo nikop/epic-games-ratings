@@ -3646,10 +3646,10 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87205,
-  "EOS_Completed": 1826,
-  "EOS_NewPlayers": 708,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 87212,
+  "EOS_Completed": 1827,
+  "EOS_NewPlayers": 714,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -5561,6 +5561,11 @@
       "Time": "2023-05-12T03:06:06.6815459+00:00",
       "NumProgressed": 87205,
       "NumCompleted": 1826
+    },
+    {
+      "Time": "2023-05-12T04:06:17.745172+00:00",
+      "NumProgressed": 87212,
+      "NumCompleted": 1827
     }
   ],
   "TotalAchievements": 489,
@@ -8818,9 +8823,9 @@
       "ID": "objective_completed_804",
       "SetID": "415jc5c",
       "Name": "CONtagious Cold",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_805",
@@ -9483,21 +9488,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53479,
+      "Progressed": 53486,
       "Completed": 2493
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87205,
-      "Completed": 1826
+      "Progressed": 87212,
+      "Completed": 1827
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T19:58:13.1579822+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:06:06.681545+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:06:17.7451716+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:57:58.3256223+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:06:06.684285+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:58:01.2977408+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:06:17.7475467+00:00"
 }

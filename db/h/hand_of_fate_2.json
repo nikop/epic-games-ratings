@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656006,
+  "EOS_Progressed": 656007,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2522,6 +2522,11 @@
       "Time": "2023-05-12T02:01:14.0327036+00:00",
       "NumProgressed": 656006,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-12T04:05:30.1480897+00:00",
+      "NumProgressed": 656007,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2533,7 +2538,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472324
+      "UsersEstimate": 472325
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2541,7 +2546,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380483
+      "UsersEstimate": 380484
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2549,7 +2554,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150881
+      "UsersEstimate": 150882
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -2573,7 +2578,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52480
+      "UsersEstimate": 52481
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -2669,7 +2674,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150881
+      "UsersEstimate": 150882
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -2701,7 +2706,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52480
+      "UsersEstimate": 52481
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -2757,7 +2762,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52480
+      "UsersEstimate": 52481
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -2829,7 +2834,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52480
+      "UsersEstimate": 52481
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -2916,15 +2921,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656006,
+      "Progressed": 656007,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:22.0039254+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:05:30.1480894+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:58:54.98479+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:57:29.5625192+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:22.0039921+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:57:27.4791226+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:05:30.1481284+00:00"
 }

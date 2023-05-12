@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -5651,9 +5651,9 @@
       "Count": 4690
     }
   ],
-  "EOS_Progressed": 799198,
+  "EOS_Progressed": 799201,
   "EOS_Completed": 1588,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -7586,6 +7586,11 @@
       "Time": "2023-05-12T03:05:14.9536904+00:00",
       "NumProgressed": 799198,
       "NumCompleted": 1588
+    },
+    {
+      "Time": "2023-05-12T04:05:22.7522312+00:00",
+      "NumProgressed": 799201,
+      "NumCompleted": 1588
     }
   ],
   "TotalAchievements": 44,
@@ -7629,7 +7634,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295703
+      "UsersEstimate": 295704
     },
     {
       "ID": "FollowingTheRiver",
@@ -7773,7 +7778,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215783
+      "UsersEstimate": 215784
     },
     {
       "ID": "Specialist",
@@ -7813,7 +7818,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535463
+      "UsersEstimate": 535465
     },
     {
       "ID": "TheHermit",
@@ -7837,7 +7842,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255743
+      "UsersEstimate": 255744
     },
     {
       "ID": "TheStar",
@@ -7948,15 +7953,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799198,
+      "Progressed": 799201,
       "Completed": 1588
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-05-12T01:53:33.2011119+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:14.9536902+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:05:22.7522308+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:03.2874516+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:57:39.200115+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:14.9537463+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:57:37.8817341+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:05:22.7522692+00:00"
 }

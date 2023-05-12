@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~576 |
-| Waff! | 94.00% | ~564 |
-| Into the Barn | 87.00% | ~522 |
-| A Prophecy | 85.00% | ~510 |
-| Sword, Shield, Fight! | 75.00% | ~450 |
-| A Grand Visit | 71.00% | ~426 |
-| Fun Guy | 61.00% | ~366 |
-| Vibing | 60.00% | ~360 |
-| Tragic Brave | 52.00% | ~312 |
+| Once Upon a Time | 96.00% | ~577 |
+| Waff! | 94.00% | ~565 |
+| Into the Barn | 87.00% | ~523 |
+| A Prophecy | 85.00% | ~511 |
+| Sword, Shield, Fight! | 75.00% | ~451 |
+| A Grand Visit | 71.00% | ~427 |
+| Fun Guy | 61.00% | ~367 |
+| Vibing | 60.00% | ~361 |
+| Tragic Brave | 52.00% | ~313 |
 | Awakened Spirits | 48.00% | ~288 |
 | Little Shop | 47.00% | ~282 |
 | Surprise! | 43.00% | ~258 |
 | An Actor! | 43.00% | ~258 |
 | Curtain Call | 41.00% | ~246 |
-| Well Rested | 39.00% | ~234 |
 | Piece of Cake | 38.00% | ~228 |
 | Gooey Delight! | 38.00% | ~228 |
 | Glimmer of Hope | 38.00% | ~228 |
+| Well Rested | 38.00% | ~228 |
 | Teacups for Toppy | 37.00% | ~222 |
 | Nightmare Fuel | 36.00% | ~216 |
 | Take Heart | 36.00% | ~216 |
-| The Guardian | 36.00% | ~216 |
-| Ancient Wisdom | 34.00% | ~204 |
+| The Guardian | 35.00% | ~210 |
 | Frog Facts! | 34.00% | ~204 |
-| All That Glistens | 34.00% | ~204 |
 | Stronger! | 34.00% | ~204 |
+| Ancient Wisdom | 33.00% | ~198 |
+| All That Glistens | 33.00% | ~198 |
 | It's Pointy! | 33.00% | ~198 |
 | Spellbound | 32.00% | ~192 |
 | All Skilled Up! | 32.00% | ~192 |
@@ -48,15 +48,15 @@
 | Going Home | 28.00% | ~168 |
 | Extraordinary! | 27.00% | ~162 |
 | Mirror, Mirror | 26.00% | ~156 |
-| Flower Power | 24.00% | ~144 |
+| Flower Power | 23.00% | ~138 |
 | Crowned | 20.00% | ~120 |
 | Shopping Spree! | 19.00% | ~114 |
 | Max Level! | 13.00% | ~78 |
-| Dance Master | 8.00% | ~48 |
 | Bombs Away! | 8.00% | ~48 |
+| Dance Master | 7.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 184)  
-Completed: 39 (6.50%) (Ranked 26)  
+Progressed: 601 (Ranked 182)  
+Completed: 39 (6.49%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 39 (6.50%) (Ranked 26)
 | 2023-05-09 | 545 | 32 |
 | 2023-05-10 | 573 | 36 |
 | 2023-05-11 | 595 | 38 |
-| 2023-05-12 | 600 | 39 |
+| 2023-05-12 | 601 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

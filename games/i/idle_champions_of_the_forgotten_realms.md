@@ -178,6 +178,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~174 |
 | Moose Tracks | 0.20% | ~107 |
 | An Awakened Axe | 0.20% | ~107 |
+| CONtagious Cold | 0.20% | ~107 |
 | Civilization | 0.20% | ~107 |
 | Durable Deep | 0.20% | ~174 |
 | Expert Opinion | 0.20% | ~174 |
@@ -429,7 +430,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Power of Three | 0.10% | ~53 |
 | Mirage Arcane | 0.10% | ~53 |
 | Only Human | 0.10% | ~53 |
-| CONtagious Cold | 0.10% | ~53 |
 | Ten in Ten-Towns | 0.10% | ~53 |
 | Trench Coat Run | 0.10% | ~53 |
 | The Taunting Lord | 0.10% | ~53 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,205 (Ranked 59)  
-Completed: 1,826 (2.09%) (Ranked 60)  
+Progressed: 87,212 (Ranked 59)  
+Completed: 1,827 (2.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -518,7 +518,7 @@ Completed: 1,826 (2.09%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,205 | 1,826 |
+| 2023-05-12 | 87,212 | 1,827 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,859 (Ranked 37)  

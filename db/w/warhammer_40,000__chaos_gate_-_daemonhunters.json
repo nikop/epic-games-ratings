@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -510,9 +510,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2590,
+  "EOS_Progressed": 2591,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -750,6 +750,11 @@
       "Time": "2023-05-11T17:06:07.5697792+00:00",
       "NumProgressed": 2590,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T04:05:51.4703173+00:00",
+      "NumProgressed": 2591,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -777,7 +782,7 @@
       "Name": "Look Over There!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "BloodAndIron",
@@ -847,9 +852,9 @@
       "ID": "ExperiencedKnight",
       "SetID": "3jha1np",
       "Name": "Honoured Battle-Brother",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 259
     },
     {
       "ID": "ExtractorSkullUses",
@@ -929,7 +934,7 @@
       "Name": "Not So Fast...",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Kills_Bleed",
@@ -937,7 +942,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -969,7 +974,7 @@
       "Name": "Friendly Fire",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Kills_Interactable",
@@ -985,15 +990,15 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 518
     },
     {
       "ID": "Kills_Vakir",
@@ -1232,21 +1237,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2590,
+      "Progressed": 2591,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2590,
+      "Progressed": 2591,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-08T20:00:29.2116217+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:41.6286774+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:05:51.4703168+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:53.7346834+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:58:35.6337144+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:41.6287277+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:58:42.0432288+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:05:51.4703603+00:00"
 }

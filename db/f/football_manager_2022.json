@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": null,
@@ -4229,7 +4229,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 459766,
+  "EOS_Progressed": 459767,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
@@ -6044,6 +6044,11 @@
       "Time": "2023-05-12T03:06:04.9062252+00:00",
       "NumProgressed": 459766,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-12T04:06:16.0266744+00:00",
+      "NumProgressed": 459767,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -6151,7 +6156,7 @@
       "Name": "Parked The Bus",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 128734
+      "UsersEstimate": 128735
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -6239,7 +6244,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 225285
+      "UsersEstimate": 225286
     },
     {
       "ID": "achievement_club_world_cup",
@@ -6367,7 +6372,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 128734
+      "UsersEstimate": 128735
     },
     {
       "ID": "achievement_hattrick",
@@ -6479,7 +6484,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 156320
+      "UsersEstimate": 156321
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -6559,7 +6564,7 @@
       "Name": "Record Signing",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 142527
+      "UsersEstimate": 142528
     },
     {
       "ID": "achievement_rushed_signing",
@@ -6575,7 +6580,7 @@
       "Name": "Scoring Streak",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 170113
+      "UsersEstimate": 170114
     },
     {
       "ID": "achievement_scouts_honour",
@@ -6607,7 +6612,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 229883
+      "UsersEstimate": 229884
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -6687,7 +6692,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 229883
+      "UsersEstimate": 229884
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -6838,15 +6843,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 459766,
+      "Progressed": 459767,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-05-11T18:00:42.2051015+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:06:04.9062247+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:06:16.0266742+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:01:06.5996122+00:00",
-  "LastUpdate_Ratings": "2023-05-12T03:00:03.7801087+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:06:04.9063508+00:00"
+  "LastUpdate_Ratings": "2023-05-12T04:00:19.5488082+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:06:16.0267763+00:00"
 }

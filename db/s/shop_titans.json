@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -3908,10 +3908,16 @@
       "Rating": 3.98,
       "NumberOfAwards": 26541,
       "NumberOfAwardsMax": 4558
+    },
+    {
+      "Time": "2023-05-12T03:58:22.8588261+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 26543,
+      "NumberOfAwardsMax": 4558
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26541,
+  "NumberOfAwards": 26543,
   "NumberOfAwardsMax": 4558,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3925,7 +3931,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3743
+      "Count": 3745
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3964,9 +3970,9 @@
       "Count": 3666
     }
   ],
-  "EOS_Progressed": 128031,
+  "EOS_Progressed": 128032,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5759,6 +5765,11 @@
       "Time": "2023-05-12T03:05:33.4686424+00:00",
       "NumProgressed": 128031,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-05-12T04:05:42.7660206+00:00",
+      "NumProgressed": 128032,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 112,
@@ -5794,7 +5805,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "advlevel05",
@@ -5826,7 +5837,7 @@
       "Name": "Above the Norm",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "ascend03",
@@ -5866,7 +5877,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "blueprint01",
@@ -5874,7 +5885,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 75538
+      "UsersEstimate": 75539
     },
     {
       "ID": "blueprint02",
@@ -5938,7 +5949,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124190
+      "UsersEstimate": 124191
     },
     {
       "ID": "chest02",
@@ -5962,7 +5973,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 34568
+      "UsersEstimate": 34569
     },
     {
       "ID": "collection02",
@@ -6002,7 +6013,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 116508
+      "UsersEstimate": 116509
     },
     {
       "ID": "commonres02",
@@ -6074,7 +6085,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55053
+      "UsersEstimate": 55054
     },
     {
       "ID": "damage02",
@@ -6090,7 +6101,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "donovan_a",
@@ -6122,7 +6133,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 78099
+      "UsersEstimate": 78100
     },
     {
       "ID": "energy02",
@@ -6138,7 +6149,7 @@
       "Name": "Supercharged",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "expansion01",
@@ -6178,7 +6189,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 34568
+      "UsersEstimate": 34569
     },
     {
       "ID": "furniture02",
@@ -6186,7 +6197,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "furniture03",
@@ -6202,7 +6213,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "fuseflawless",
@@ -6210,7 +6221,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30727
+      "UsersEstimate": 30728
     },
     {
       "ID": "fuselegendary",
@@ -6242,7 +6253,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 111387
+      "UsersEstimate": 111388
     },
     {
       "ID": "gold02",
@@ -6258,7 +6269,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 47371
+      "UsersEstimate": 47372
     },
     {
       "ID": "gold04",
@@ -6346,7 +6357,7 @@
       "Name": "Item of Renown",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10242
+      "UsersEstimate": 10243
     },
     {
       "ID": "level01",
@@ -6354,7 +6365,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 84500
+      "UsersEstimate": 84501
     },
     {
       "ID": "level02",
@@ -6394,7 +6405,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55053
+      "UsersEstimate": 55054
     },
     {
       "ID": "loot02",
@@ -6546,7 +6557,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 96023
+      "UsersEstimate": 96024
     },
     {
       "ID": "sell02",
@@ -6586,7 +6597,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 122910
+      "UsersEstimate": 122911
     },
     {
       "ID": "twinenchant01",
@@ -6618,7 +6629,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "uncommonres03",
@@ -6650,7 +6661,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "yami_a",
@@ -6665,15 +6676,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 128031,
+      "Progressed": 128032,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-05-11T19:58:33.2476937+00:00",
-  "LastChanged_Achievements": "2023-05-12T03:05:33.468642+00:00",
+  "LastChanged": "2023-05-12T03:58:22.858826+00:00",
+  "LastChanged_Achievements": "2023-05-12T04:05:42.7660201+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:38.2111116+00:00",
-  "LastUpdate_Ratings": "2023-05-12T02:58:18.4474418+00:00",
-  "LastUpdate_Achievements": "2023-05-12T03:05:33.4688183+00:00"
+  "LastUpdate_Ratings": "2023-05-12T03:58:22.8588265+00:00",
+  "LastUpdate_Achievements": "2023-05-12T04:05:42.7661556+00:00"
 }
