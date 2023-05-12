@@ -74,7 +74,7 @@
 | 71 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 435 |
 | 71 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 491 |
 | 71 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 120 | 300 |
-| 71 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 190 | 261 |
+| 71 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 191 | 261 |
 | 71 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 491 |
 | 71 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 491 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,257 | 51 |
@@ -93,7 +93,7 @@
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 491 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 517 | 180 |
 | 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 720 | 153 |
-| 89 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,247 | 97 |
+| 89 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,248 | 97 |
 | 89 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,009 | 135 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,831 | 55 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 206 |
@@ -128,7 +128,7 @@
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 466 |
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,890 | 62 |
 | 126 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 85 | 341 |
-| 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,176 | 83 |
+| 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,177 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 266 | 234 |
 | 126 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 41 | 409 |
 | 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 412 | 194 |
@@ -384,7 +384,7 @@
 | 376 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 491 |
 | 376 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 382 |
 | 376 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 421 |
-| 376 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 562 | 169 |
+| 376 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 563 | 169 |
 | 376 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 375 |
 | 376 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
 | 376 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 491 |
@@ -493,7 +493,7 @@
 | 490 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 491 |
 | 490 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 491 |
 | 490 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,779 | 17 |
-| 490 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 138,360 | 7 |
+| 490 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 138,443 | 7 |
 | 490 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 301 |
 | 490 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 491 |
 | 490 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 469 |
@@ -780,7 +780,7 @@
 | 776 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.26 | 0 | 491 |
 | 776 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 491 |
 | 780 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 473 |
-| 780 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,018 | 134 |
+| 780 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,019 | 134 |
 | 780 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 491 |
 | 780 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 491 |
 | 784 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 491 |
@@ -824,7 +824,7 @@
 | 818 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 182,202 | 4 |
 | 818 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 491 |
 | 818 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 460 |
-| 825 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 89 | 336 |
+| 825 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 90 | 336 |
 | 825 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 328 |
 | 825 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 46 | 398 |
 | 825 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 491 |
