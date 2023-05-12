@@ -34,11 +34,11 @@
 | Holy Knight | 2.00% | ~6 |
 | Marksman | 2.00% | ~6 |
 | Sling of David | 2.00% | ~6 |
+| Sword Master | 2.00% | ~6 |
 | Witch | 2.00% | ~6 |
 | Assassin | 1.00% | ~3 |
 | Roughneck | 1.00% | ~3 |
 | Rune Master | 1.00% | ~3 |
-| Sword Master | 1.00% | ~3 |
 | Weapon Master | 1.00% | ~3 |
 | Art Collector | 0.30% | ~1 |
 | Hardboiled | 0.30% | ~1 |

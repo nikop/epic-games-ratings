@@ -22,10 +22,10 @@
 | LEGENDARY HERO | 6.00% | ~145 |
 | ACE BRAWLER | 5.00% | ~121 |
 | FRIENDLY | 3.00% | ~73 |
+| MASTER | 3.00% | ~73 |
 | ACE TRICKSTER | 3.00% | ~73 |
 | EXPERIENCED CREW | 2.00% | ~48 |
 | BE OUR GUEST | 2.00% | ~48 |
-| MASTER | 2.00% | ~48 |
 | FRAMED! | 1.00% | ~24 |
 | PERFECTLY POISED | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

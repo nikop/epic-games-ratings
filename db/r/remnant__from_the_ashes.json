@@ -2,13 +2,13 @@
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
   "ProductSlug": "remnant-from-the-ashes",
-  "Ranking_Rating": 375,
+  "Ranking_Rating": 352,
   "Ranking_Popularity": 36,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 12107,
   "RatingHistory": [
     {
@@ -3754,6 +3754,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 13590,
       "NumberOfAwardsMax": 9064
+    },
+    {
+      "Time": "2023-05-12T11:58:07.1444124+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 13590,
+      "NumberOfAwardsMax": 9064
     }
   ],
   "ReviewsDisabled": false,
@@ -3845,8 +3851,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2023-05-12T06:58:34.5571587+00:00",
+  "LastChanged": "2023-05-12T11:58:07.1444122+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:37.7906489+00:00",
-  "LastUpdate_Ratings": "2023-05-12T10:58:11.6665649+00:00",
-  "LastUpdate_Achievements": "2023-05-12T11:03:30.6069793+00:00"
+  "LastUpdate_Ratings": "2023-05-12T11:58:07.1444127+00:00",
+  "LastUpdate_Achievements": "2023-05-12T12:03:04.5772732+00:00"
 }

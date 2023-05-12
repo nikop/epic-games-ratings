@@ -33,7 +33,7 @@
 | It's Pointy! | 33.00% | ~199 |
 | Spellbound | 32.00% | ~193 |
 | All Skilled Up! | 32.00% | ~193 |
-| Extinct Again! | 30.00% | ~181 |
+| Extinct Again! | 31.00% | ~187 |
 | Bird of Prey | 30.00% | ~181 |
 | Stardust | 30.00% | ~181 |
 | Heartbreaker | 30.00% | ~181 |
@@ -43,12 +43,12 @@
 | The Downfall | 28.00% | ~169 |
 | All Heart | 28.00% | ~169 |
 | Trick Question! | 28.00% | ~169 |
+| Extraordinary! | 28.00% | ~169 |
 | Final Showdown | 28.00% | ~169 |
 | Spot of Tea? | 28.00% | ~169 |
 | Going Home | 28.00% | ~169 |
-| Extraordinary! | 27.00% | ~163 |
 | Mirror, Mirror | 26.00% | ~157 |
-| Flower Power | 23.00% | ~139 |
+| Flower Power | 24.00% | ~145 |
 | Crowned | 20.00% | ~121 |
 | Shopping Spree! | 19.00% | ~115 |
 | Max Level! | 13.00% | ~78 |

@@ -2,13 +2,13 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
-  "Ranking_Rating": 375,
+  "Ranking_Rating": 397,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 6460,
   "RatingHistory": [
     {
@@ -3112,10 +3112,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2406,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-05-12T11:58:44.5384034+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2407,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2406,
+  "NumberOfAwards": 2407,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3177,7 +3183,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 276
+      "Count": 277
     }
   ],
   "EOS_Progressed": 0,
@@ -3191,8 +3197,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-05-12T06:59:26.4747458+00:00",
+  "LastChanged": "2023-05-12T11:58:44.5384032+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:13.4153105+00:00",
-  "LastUpdate_Ratings": "2023-05-12T10:58:50.6675744+00:00",
-  "LastUpdate_Achievements": "2023-05-12T11:00:14.5933086+00:00"
+  "LastUpdate_Ratings": "2023-05-12T11:58:44.5384038+00:00",
+  "LastUpdate_Achievements": "2023-05-12T12:00:09.879579+00:00"
 }

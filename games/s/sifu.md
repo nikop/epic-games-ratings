@@ -14,11 +14,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Hateful Pole Fighter | 0.70% | ~4,920 |
 | A Lady's Blood in the Snow | 0.70% | ~4,920 |
 | Lady Wing Chun | 0.70% | ~4,920 |
+| Furious Fists | 0.70% | ~4,920 |
 | State of constant learning | 0.70% | ~4,920 |
 | Path of the Prospect | 0.70% | ~4,920 |
 | Rumble in the Hangar | 0.70% | ~4,920 |
 | The Assault | 0.60% | ~4,217 |
-| Furious Fists | 0.60% | ~4,217 |
 | Kill Nil | 0.60% | ~4,217 |
 | Street Fighting | 0.60% | ~4,217 |
 | Life is your teacher | 0.60% | ~4,217 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,839 (Ranked 15)  
+Progressed: 702,840 (Ranked 15)  
 Completed: 12,723 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,19 +79,19 @@ Completed: 12,723 (1.81%) (Ranked 62)
 | 2023-05-09 | 702,765 | 12,718 |
 | 2023-05-10 | 702,799 | 12,720 |
 | 2023-05-11 | 702,825 | 12,721 |
-| 2023-05-12 | 702,839 | 12,723 |
+| 2023-05-12 | 702,840 | 12,723 |
 ## Awards
 Max (Great Boss Battles): 6,050  (Ranked 53)  
-Sum: 10,268 (Ranked 77)  
+Sum: 10,272 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,050 |
 | This game has Diverse Characters | 504 |
-| This game has Challenging Combat | 501 |
+| This game has Challenging Combat | 504 |
 | This game has Quickly Understood Controls | 497 |
 | This game is Extremely Fun | 493 |
-| This game has Amazing Storytelling | 486 |
+| This game has Amazing Storytelling | 487 |
 | This game is Highly Recommended | 473 |
 | This game has Amazing Characters | 470 |
 | This game has Unique Visuals | 450 |
@@ -217,4 +217,4 @@ Diff (max vs sum): -24
 | 2023-05-09 | 4.82 | - | 6,044 | 10,252 |
 | 2023-05-10 | 4.82 | - | 6,046 | 10,258 |
 | 2023-05-11 | 4.82 | - | 6,050 | 10,267 |
-| 2023-05-12 | 4.82 | - | 6,050 | 10,268 |
+| 2023-05-12 | 4.82 | - | 6,050 | 10,272 |

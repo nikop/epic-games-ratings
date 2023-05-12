@@ -3868,10 +3868,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10268,
       "NumberOfAwardsMax": 6050
+    },
+    {
+      "Time": "2023-05-12T11:58:40.8860664+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10272,
+      "NumberOfAwardsMax": 6050
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10268,
+  "NumberOfAwards": 10272,
   "NumberOfAwardsMax": 6050,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3897,7 +3903,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 486
+      "Count": 487
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3921,7 +3927,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 501
+      "Count": 504
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3948,7 +3954,7 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 702839,
+  "EOS_Progressed": 702840,
   "EOS_Completed": 12723,
   "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 16,
@@ -5548,6 +5554,11 @@
       "Time": "2023-05-12T11:05:31.1164262+00:00",
       "NumProgressed": 702839,
       "NumCompleted": 12723
+    },
+    {
+      "Time": "2023-05-12T12:05:15.5497596+00:00",
+      "NumProgressed": 702840,
+      "NumCompleted": 12723
     }
   ],
   "TotalAchievements": 50,
@@ -5597,9 +5608,9 @@
       "ID": "06_Vengeance_H5",
       "SetID": "adcm20g",
       "Name": "Furious Fists",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4920
     },
     {
       "ID": "07_Wude_H1",
@@ -5958,21 +5969,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12140,
+      "Progressed": 12141,
       "Completed": 10077
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702839,
+      "Progressed": 702840,
       "Completed": 12723
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-12T08:59:14.988472+00:00",
-  "LastChanged_Achievements": "2023-05-12T11:05:31.1164252+00:00",
+  "LastChanged": "2023-05-12T11:58:40.8860663+00:00",
+  "LastChanged_Achievements": "2023-05-12T12:05:15.5497593+00:00",
   "LastUpdate_AppInfo": "2023-05-05T17:00:11.2763099+00:00",
-  "LastUpdate_Ratings": "2023-05-12T10:58:46.9701243+00:00",
-  "LastUpdate_Achievements": "2023-05-12T11:05:31.1165412+00:00"
+  "LastUpdate_Ratings": "2023-05-12T11:58:40.8860667+00:00",
+  "LastUpdate_Achievements": "2023-05-12T12:05:15.5497983+00:00"
 }

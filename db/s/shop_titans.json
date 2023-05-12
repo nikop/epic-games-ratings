@@ -3976,9 +3976,9 @@
       "Count": 3666
     }
   ],
-  "EOS_Progressed": 128051,
+  "EOS_Progressed": 128052,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5806,6 +5806,11 @@
       "Time": "2023-05-12T11:05:22.2359201+00:00",
       "NumProgressed": 128051,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-05-12T12:05:06.6521388+00:00",
+      "NumProgressed": 128052,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 112,
@@ -5823,9 +5828,9 @@
       "ID": "advlevel02",
       "SetID": "anfd17p",
       "Name": "On the Path to Greatness",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 34574
+      "UsersEstimate": 35855
     },
     {
       "ID": "advlevel03",
@@ -5865,7 +5870,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35854
+      "UsersEstimate": 35855
     },
     {
       "ID": "ascend02",
@@ -5921,7 +5926,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 75550
+      "UsersEstimate": 75551
     },
     {
       "ID": "blueprint02",
@@ -5945,7 +5950,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 33293
+      "UsersEstimate": 33294
     },
     {
       "ID": "boss01",
@@ -5953,7 +5958,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 56342
+      "UsersEstimate": 56343
     },
     {
       "ID": "boss02",
@@ -5985,7 +5990,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124209
+      "UsersEstimate": 124210
     },
     {
       "ID": "chest02",
@@ -6049,7 +6054,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 116526
+      "UsersEstimate": 116527
     },
     {
       "ID": "commonres02",
@@ -6081,7 +6086,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 97319
+      "UsersEstimate": 97320
     },
     {
       "ID": "craft02",
@@ -6169,7 +6174,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 78111
+      "UsersEstimate": 78112
     },
     {
       "ID": "energy02",
@@ -6281,7 +6286,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 35854
+      "UsersEstimate": 35855
     },
     {
       "ID": "gold01",
@@ -6289,7 +6294,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 111404
+      "UsersEstimate": 111405
     },
     {
       "ID": "gold02",
@@ -6297,7 +6302,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 72989
+      "UsersEstimate": 72990
     },
     {
       "ID": "gold03",
@@ -6337,7 +6342,7 @@
       "Name": "Helping Hand",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35854
+      "UsersEstimate": 35855
     },
     {
       "ID": "help02",
@@ -6593,7 +6598,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 96038
+      "UsersEstimate": 96039
     },
     {
       "ID": "sell02",
@@ -6633,7 +6638,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 122929
+      "UsersEstimate": 122930
     },
     {
       "ID": "twinenchant01",
@@ -6689,7 +6694,7 @@
       "Name": "Arcane Industries",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 43537
+      "UsersEstimate": 43538
     },
     {
       "ID": "workers03",
@@ -6712,15 +6717,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 128051,
+      "Progressed": 128052,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-12T04:57:56.0424856+00:00",
-  "LastChanged_Achievements": "2023-05-12T11:05:22.2359197+00:00",
+  "LastChanged_Achievements": "2023-05-12T12:05:06.6521384+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:38.2111116+00:00",
-  "LastUpdate_Ratings": "2023-05-12T10:58:13.746964+00:00",
-  "LastUpdate_Achievements": "2023-05-12T11:05:22.2360478+00:00"
+  "LastUpdate_Ratings": "2023-05-12T11:58:09.6446304+00:00",
+  "LastUpdate_Achievements": "2023-05-12T12:05:06.6522668+00:00"
 }

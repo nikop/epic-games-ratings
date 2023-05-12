@@ -86,12 +86,12 @@ Completed: 1 (0.00%) (Ranked 198)
 | 2023-05-11 | 248,407 | 1 |
 | 2023-05-12 | 248,441 | 1 |
 ## Awards
-Max (Great for Quick Sessions): 21  (Ranked 478)  
-Sum: 21 (Ranked 479)  
-Diff (max vs sum): -1  
+Max (Great for Quick Sessions): 22  (Ranked 473)  
+Sum: 22 (Ranked 475)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 21 |
+| This game is Great for Quick Sessions | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -153,3 +153,4 @@ Diff (max vs sum): -1
 | 2023-05-07 | 4.45 | 0 | 0 |
 | 2023-05-08 | 4.45 | 21 | 21 |
 | 2023-05-10 | 4.46 | 21 | 21 |
+| 2023-05-12 | 4.46 | 22 | 22 |

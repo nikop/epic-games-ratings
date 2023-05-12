@@ -9,7 +9,7 @@
 | Buildings, roads, cars, ...and people | 66.00% | ~45 |
 | Great view from the beach and from the hill | 56.00% | ~38 |
 | Bridges to come and go | 51.00% | ~35 |
-| Found an oasis | 40.00% | ~27 |
+| Found an oasis | 41.00% | ~28 |
 | Burger or pizza? | 37.00% | ~25 |
 | Passion for sports | 34.00% | ~23 |
 | Who loves trains? | 31.00% | ~21 |
@@ -27,7 +27,7 @@
 | Happy Christmas night! | 19.00% | ~13 |
 | Night walk along the beach | 19.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 266)  
+Progressed: 68 (Ranked 267)  
 Completed: 13 (19.12%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |

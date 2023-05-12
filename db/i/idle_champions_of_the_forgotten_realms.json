@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3646,10 +3646,10 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87230,
-  "EOS_Completed": 1828,
-  "EOS_NewPlayers": 710,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 87233,
+  "EOS_Completed": 1829,
+  "EOS_NewPlayers": 708,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5596,6 +5596,11 @@
       "Time": "2023-05-12T11:05:51.095888+00:00",
       "NumProgressed": 87230,
       "NumCompleted": 1828
+    },
+    {
+      "Time": "2023-05-12T12:05:35.4775776+00:00",
+      "NumProgressed": 87233,
+      "NumCompleted": 1829
     }
   ],
   "TotalAchievements": 489,
@@ -6277,9 +6282,9 @@
       "ID": "objective_completed_1160",
       "SetID": "415jc5c",
       "Name": "Best Thay Ever",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 214
     },
     {
       "ID": "objective_completed_1163",
@@ -8469,9 +8474,9 @@
       "ID": "objective_completed_645",
       "SetID": "415jc5c",
       "Name": "The Lost Hollyphant",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_646",
@@ -9518,21 +9523,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53504,
+      "Progressed": 53507,
       "Completed": 2495
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87230,
-      "Completed": 1828
+      "Progressed": 87233,
+      "Completed": 1829
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-11T19:58:13.1579822+00:00",
-  "LastChanged_Achievements": "2023-05-12T11:05:51.0958875+00:00",
+  "LastChanged_Achievements": "2023-05-12T12:05:35.4775772+00:00",
   "LastUpdate_AppInfo": "2023-05-05T16:59:20.6605043+00:00",
-  "LastUpdate_Ratings": "2023-05-12T10:57:55.81941+00:00",
-  "LastUpdate_Achievements": "2023-05-12T11:05:51.0980839+00:00"
+  "LastUpdate_Ratings": "2023-05-12T11:57:52.8154535+00:00",
+  "LastUpdate_Achievements": "2023-05-12T12:05:35.4796481+00:00"
 }

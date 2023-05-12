@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.50% | ~436 |
 | Mad Cow Disease | 0.50% | ~436 |
 | Friendly Imps | 0.50% | ~436 |
+| Best Thay Ever | 0.40% | ~214 |
 | Get Back In The Castle | 0.40% | ~214 |
 | A Persistent Buzzing | 0.40% | ~349 |
 | Terror in the Dark | 0.40% | ~349 |
@@ -27,7 +28,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.40% | ~349 |
 | Maddening | 0.30% | ~262 |
 | Owlbear Necessities | 0.30% | ~161 |
-| Best Thay Ever | 0.30% | ~161 |
 | Keep Your Distance | 0.30% | ~161 |
 | Hands Off! | 0.30% | ~161 |
 | The Dread Domain of Tovag | 0.30% | ~161 |
@@ -170,6 +170,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Look Out! | 0.20% | ~107 |
 | The Path of Dreams | 0.20% | ~107 |
 | Bad Odds in Avernus | 0.20% | ~107 |
+| The Lost Hollyphant | 0.20% | ~107 |
 | An Even Worse Time in Avernus | 0.20% | ~107 |
 | Tiamat's Army | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
@@ -405,7 +406,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zombie Dreams | 0.10% | ~54 |
 | The Path of Redcaps | 0.10% | ~54 |
 | The Path of Trials | 0.10% | ~54 |
-| The Lost Hollyphant | 0.10% | ~54 |
 | Zapper Overload | 0.10% | ~54 |
 | Best Friend Search Squad! | 0.10% | ~54 |
 | Alterdeep | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,230 (Ranked 59)  
-Completed: 1,828 (2.10%) (Ranked 60)  
+Progressed: 87,233 (Ranked 59)  
+Completed: 1,829 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -518,7 +518,7 @@ Completed: 1,828 (2.10%) (Ranked 60)
 | 2023-05-09 | 87,004 | 1,820 |
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
-| 2023-05-12 | 87,230 | 1,828 |
+| 2023-05-12 | 87,233 | 1,829 |
 ## Awards
 Max (Diverse Characters): 4,874  (Ranked 63)  
 Sum: 29,859 (Ranked 37)  

@@ -6,10 +6,10 @@ Rating: 4.54 (Ranked 477)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 1.00% | ~19 |
+| Infinite Growth... | 1.00% | ~19 |
 | Wakey Wakey | 1.00% | ~19 |
 | Sputnik 2049 | 1.00% | ~19 |
-| Infinite Growth... | 0.90% | ~17 |
-| Ready for a New World | 0.80% | ~15 |
+| Ready for a New World | 0.90% | ~17 |
 | Breaking Protocol | 0.70% | ~13 |
 | Permanent Redesigns | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |
