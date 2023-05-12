@@ -168,11 +168,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.72,
+  "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -298,6 +298,11 @@
       "Time": "2023-05-12T19:06:37.7544581+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-12T21:05:34.9909435+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -309,7 +314,7 @@
       "Name": "Lovebirds",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "10",
@@ -373,7 +378,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "18",
@@ -461,7 +466,7 @@
       "Name": "A love supreme",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "3",
@@ -469,7 +474,7 @@
       "Name": "Hug therapy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "30",
@@ -477,7 +482,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "31",
@@ -548,15 +553,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1119,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-12T20:05:13.6814004+00:00",
+  "LastChanged_Achievements": "2023-05-12T21:05:34.9909429+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:27.7554539+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:59:09.228581+00:00",
-  "LastUpdate_Achievements": "2023-05-12T20:05:13.6814197+00:00"
+  "LastUpdate_Ratings": "2023-05-12T20:59:32.59783+00:00",
+  "LastUpdate_Achievements": "2023-05-12T21:05:34.9909641+00:00"
 }

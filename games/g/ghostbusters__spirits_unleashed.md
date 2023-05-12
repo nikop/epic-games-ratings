@@ -6,25 +6,25 @@ Rating: 4.49 (Ranked 552)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 87.00% | ~18,896 |
-| Advancement | 74.00% | ~16,072 |
-| Meticulously Efficient | 65.00% | ~14,117 |
-| Discovery | 63.00% | ~13,683 |
+| Advancement | 74.00% | ~16,073 |
+| Meticulously Efficient | 65.00% | ~14,118 |
+| Discovery | 63.00% | ~13,684 |
 | Swift Rift Removers | 56.00% | ~12,163 |
-| Fully Upgraded | 55.00% | ~11,945 |
-| Cultured | 53.00% | ~11,511 |
+| Fully Upgraded | 55.00% | ~11,946 |
+| Cultured | 53.00% | ~11,512 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,294 |
-| Vaporous Expansion | 49.00% | ~10,642 |
+| Vaporous Expansion | 49.00% | ~10,643 |
 | Teamwork | 45.00% | ~9,774 |
-| There you are! | 44.00% | ~9,556 |
+| There you are! | 44.00% | ~9,557 |
 | Clutch Capture | 42.00% | ~9,122 |
 | Back Off | 36.00% | ~7,819 |
 | Daily Dose | 36.00% | ~7,819 |
-| Welcome to the Crew | 33.00% | ~7,167 |
+| Welcome to the Crew | 33.00% | ~7,168 |
 | Solo Capture | 32.00% | ~6,950 |
 | Ghostbuster In Training | 31.00% | ~6,733 |
 | Icing on the Cake | 30.00% | ~6,516 |
-| Legions | 28.00% | ~6,081 |
-| Side Hustle | 28.00% | ~6,081 |
+| Legions | 28.00% | ~6,082 |
+| Side Hustle | 28.00% | ~6,082 |
 | We have the best insurance | 27.00% | ~5,864 |
 | Pesky Jerks | 27.00% | ~5,864 |
 | Right back at ya | 27.00% | ~5,864 |
@@ -36,7 +36,7 @@ Rating: 4.49 (Ranked 552)
 | Ectoplasmic Entity | 24.00% | ~5,213 |
 | Rift Destroyer | 20.00% | ~4,344 |
 | Tobin's Prodigy | 19.00% | ~4,127 |
-| Reckless | 18.00% | ~3,909 |
+| Reckless | 18.00% | ~3,910 |
 | Terrifying | 17.00% | ~3,692 |
 | Diabolical | 16.00% | ~3,475 |
 | Escape Artist | 16.00% | ~3,475 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 552)
 | I don't need these | 1.00% | ~217 |
 | Mycophile | 1.00% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,719 (Ranked 89)  
+Progressed: 21,720 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,10 +79,10 @@ Completed: 39 (0.18%) (Ranked 141)
 | 2023-05-09 | 21,670 | 39 |
 | 2023-05-10 | 21,687 | 39 |
 | 2023-05-11 | 21,705 | 39 |
-| 2023-05-12 | 21,719 | 39 |
+| 2023-05-12 | 21,720 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
-Sum: 2,061 (Ranked 185)  
+Sum: 2,062 (Ranked 185)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +92,7 @@ Diff (max vs sum): 60
 | This game has Diverse Characters | 210 |
 | This game has Amazing Storytelling | 208 |
 | This game is Extremely Fun | 205 |
-| This game is Highly Recommended | 198 |
+| This game is Highly Recommended | 199 |
 | This game is Relaxing | 197 |
 | This game has Amazing Characters | 192 |
 | This game has Quickly Understood Controls | 192 |
@@ -160,4 +160,4 @@ Diff (max vs sum): 60
 | 2023-05-09 | 4.49 | 228 | 2,050 |
 | 2023-05-10 | 4.49 | 228 | 2,055 |
 | 2023-05-11 | 4.49 | 228 | 2,057 |
-| 2023-05-12 | 4.49 | 228 | 2,061 |
+| 2023-05-12 | 4.49 | 228 | 2,062 |

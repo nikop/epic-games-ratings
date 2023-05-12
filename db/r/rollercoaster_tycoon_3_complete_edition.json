@@ -4,7 +4,7 @@
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
   "Ranking_Rating": 273,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 265,
@@ -857,10 +857,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 416,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-05-12T21:00:00.7898339+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 417,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 416,
+  "NumberOfAwards": 417,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -910,7 +916,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Extremely Fun",
@@ -948,8 +954,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2023-05-10T15:00:10.9417551+00:00",
+  "LastChanged": "2023-05-12T21:00:00.7898337+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.6851016+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:59:31.0084695+00:00",
-  "LastUpdate_Achievements": "2023-05-12T20:04:11.2413018+00:00"
+  "LastUpdate_Ratings": "2023-05-12T21:00:00.7898343+00:00",
+  "LastUpdate_Achievements": "2023-05-12T21:04:20.1182695+00:00"
 }

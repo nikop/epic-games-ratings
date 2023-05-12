@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515917,
+  "EOS_Progressed": 1515922,
   "EOS_Completed": 601,
-  "EOS_NewPlayers": 1432,
+  "EOS_NewPlayers": 1424,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2475,6 +2475,11 @@
       "Time": "2023-05-12T20:05:15.3573404+00:00",
       "NumProgressed": 1515917,
       "NumCompleted": 601
+    },
+    {
+      "Time": "2023-05-12T21:05:36.8256321+00:00",
+      "NumProgressed": 1515922,
+      "NumCompleted": 601
     }
   ],
   "TotalAchievements": 20,
@@ -2494,7 +2499,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106114
+      "UsersEstimate": 106115
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -2598,7 +2603,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121273
+      "UsersEstimate": 121274
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -2645,15 +2650,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1515917,
+      "Progressed": 1515922,
       "Completed": 601
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-12T20:05:15.35734+00:00",
+  "LastChanged_Achievements": "2023-05-12T21:05:36.8256315+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.7394244+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:59:37.5318672+00:00",
-  "LastUpdate_Achievements": "2023-05-12T20:05:15.3573614+00:00"
+  "LastUpdate_Ratings": "2023-05-12T21:00:09.0322525+00:00",
+  "LastUpdate_Achievements": "2023-05-12T21:05:36.8256583+00:00"
 }

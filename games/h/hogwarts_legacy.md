@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 104)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,004 |
-| The One Who Mastered Memories | 6.00% | ~16,004 |
+| Grappling with a Graphorn | 6.00% | ~16,005 |
+| The One Who Mastered Memories | 6.00% | ~16,005 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,337 |
 | The Hallowed Hero | 5.00% | ~13,337 |
 | The Hero of Hogwarts | 5.00% | ~13,337 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,067 |
 | Collector's Edition | 0.20% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,741 (Ranked 38)  
+Progressed: 266,747 (Ranked 38)  
 Completed: 359 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,10 +73,10 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-09 | 266,399 | 356 |
 | 2023-05-10 | 266,527 | 358 |
 | 2023-05-11 | 266,628 | 359 |
-| 2023-05-12 | 266,741 | 359 |
+| 2023-05-12 | 266,747 | 359 |
 ## Awards
 Max (Character Customization): 18,684  (Ranked 18)  
-Sum: 34,198 (Ranked 33)  
+Sum: 34,201 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -84,7 +84,7 @@ Diff (max vs sum): -15
 | This game has Great Boss Battles | 8,757 |
 | This game is Extremely Fun | 759 |
 | This game is Great for Beginners | 742 |
-| This game is Relaxing | 725 |
+| This game is Relaxing | 728 |
 | This game has Diverse Characters | 719 |
 | This game has Amazing Storytelling | 714 |
 | This game has Amazing Characters | 705 |
@@ -144,4 +144,4 @@ Diff (max vs sum): -15
 | 2023-05-09 | 4.77 | 18,583 | 33,978 |
 | 2023-05-10 | 4.77 | 18,623 | 34,055 |
 | 2023-05-11 | 4.77 | 18,654 | 34,135 |
-| 2023-05-12 | 4.77 | 18,684 | 34,198 |
+| 2023-05-12 | 4.77 | 18,684 | 34,201 |

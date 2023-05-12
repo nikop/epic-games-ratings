@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brute force | 88.00% | ~7 |
-| What's going on here? | 75.00% | ~6 |
-| First aid | 63.00% | ~5 |
-| Nimble fingers | 63.00% | ~5 |
-| Room 104 | 63.00% | ~5 |
-| Face to face | 63.00% | ~5 |
-| Antidote | 50.00% | ~4 |
-| Let's play a game… | 50.00% | ~4 |
-| Soundtrack | 50.00% | ~4 |
-| Now or never | 50.00% | ~4 |
-| On the right path | 13.00% | ~1 |
-| I'm close now | 13.00% | ~1 |
-| Failed attempt | 13.00% | ~1 |
-| The real escape | 13.00% | ~1 |
-| Born again | 13.00% | ~1 |
-| Nightmare in the kitchen | 13.00% | ~1 |
-| Good choice | 13.00% | ~1 |
-| It can't be true | 13.00% | ~1 |
-| Take the long way round | 13.00% | ~1 |
-| Pick the right door | 13.00% | ~1 |
-| One-way | 13.00% | ~1 |
-| He who seeks, finds! | 13.00% | ~1 |
-| The third floor | 13.00% | ~1 |
+| Brute force | 78.00% | ~7 |
+| What's going on here? | 67.00% | ~6 |
+| First aid | 56.00% | ~5 |
+| Nimble fingers | 56.00% | ~5 |
+| Room 104 | 56.00% | ~5 |
+| Face to face | 56.00% | ~5 |
+| Antidote | 44.00% | ~4 |
+| Let's play a game… | 44.00% | ~4 |
+| Soundtrack | 44.00% | ~4 |
+| Now or never | 44.00% | ~4 |
+| On the right path | 22.00% | ~2 |
+| It can't be true | 22.00% | ~2 |
+| Pick the right door | 22.00% | ~2 |
+| One-way | 22.00% | ~2 |
+| The third floor | 22.00% | ~2 |
+| 373 | 11.00% | ~1 |
+| I'm close now | 11.00% | ~1 |
+| Failed attempt | 11.00% | ~1 |
+| The real escape | 11.00% | ~1 |
+| Born again | 11.00% | ~1 |
+| Nightmare in the kitchen | 11.00% | ~1 |
+| Good choice | 11.00% | ~1 |
+| Take the long way round | 11.00% | ~1 |
+| He who seeks, finds! | 11.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
-| 373 | 0.00% | ~0 |
 | The experiment | 0.00% | ~0 |
 | Eva's diary | 0.00% | ~0 |
 | Horror book | 0.00% | ~0 |
@@ -36,11 +36,11 @@
 | Sly as a fox | 0.00% | ~0 |
 | Matthew's revenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 321)  
+Progressed: 9 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-04 | 1 | 0 |
 | 2023-05-11 | 4 | 0 |
-| 2023-05-12 | 8 | 0 |
+| 2023-05-12 | 9 | 0 |

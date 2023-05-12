@@ -24,6 +24,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 0.60% | ~89 |
 | Royal Outpost | 0.60% | ~89 |
 | Cursed Lands | 0.60% | ~89 |
+| Refinery | 0.50% | ~74 |
 | Dangerous Lands | 0.50% | ~74 |
 | Flooded Mines | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 0.50% | ~74 |
 | A Real Challenge | 0.50% | ~74 |
 | Serving Ale | 0.40% | ~59 |
-| Refinery | 0.40% | ~59 |
 | Against All Odds | 0.40% | ~59 |
 | Haunted Forest | 0.40% | ~59 |
 | Levitating Monument | 0.40% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,764 (Ranked 98)  
+Progressed: 14,765 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 30 (0.20%) (Ranked 137)
 | 2023-05-09 | 14,731 | 30 |
 | 2023-05-10 | 14,738 | 30 |
 | 2023-05-11 | 14,756 | 30 |
-| 2023-05-12 | 14,764 | 30 |
+| 2023-05-12 | 14,765 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 193)  
 Sum: 3,021 (Ranked 151)  

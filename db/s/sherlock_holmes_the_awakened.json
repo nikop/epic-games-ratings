@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.8,
+  "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -204,6 +204,11 @@
       "Time": "2023-05-12T19:06:04.991269+00:00",
       "NumProgressed": 147,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-12T21:05:05.9715535+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -213,15 +218,15 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 40,
       "UsersEstimate": 104
     },
@@ -231,7 +236,7 @@
       "Name": "High Profile",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MQ02_2",
@@ -253,9 +258,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 92
     },
     {
       "ID": "MQ03_1",
@@ -285,17 +290,17 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "MQ04_1",
@@ -311,7 +316,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "MQ04_3",
@@ -343,7 +348,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "MQ05_4",
@@ -351,7 +356,7 @@
       "Name": "Knives Out",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "MQ06_1",
@@ -359,7 +364,7 @@
       "Name": "Brain Food",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MQ06_2",
@@ -373,9 +378,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "MQ06_4",
@@ -383,7 +388,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "MQ07_1",
@@ -391,7 +396,7 @@
       "Name": "Read It And Weep",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MQ07_2",
@@ -407,7 +412,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "MQ08_2",
@@ -415,7 +420,7 @@
       "Name": "Up In Flames",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "MQ08_3",
@@ -438,7 +443,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 10
     }
   ],
@@ -446,8 +451,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-12T20:04:48.8241123+00:00",
+  "LastChanged_Achievements": "2023-05-12T21:05:05.9715528+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.4352441+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:57:13.0810659+00:00",
-  "LastUpdate_Achievements": "2023-05-12T20:04:48.8241283+00:00"
+  "LastUpdate_Ratings": "2023-05-12T20:57:06.3080305+00:00",
+  "LastUpdate_Achievements": "2023-05-12T21:05:05.9715761+00:00"
 }

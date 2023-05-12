@@ -35,7 +35,7 @@
 | Robo Terminator | 0.00% | ~0 |
 | My Precious! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 321)  
+Progressed: 8 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

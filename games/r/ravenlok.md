@@ -8,20 +8,20 @@
 | Waff! | 93.00% | ~569 |
 | Into the Barn | 87.00% | ~532 |
 | A Prophecy | 85.00% | ~520 |
-| Sword, Shield, Fight! | 75.00% | ~459 |
-| A Grand Visit | 71.00% | ~435 |
-| Vibing | 60.00% | ~367 |
+| Sword, Shield, Fight! | 76.00% | ~465 |
+| A Grand Visit | 72.00% | ~441 |
+| Vibing | 61.00% | ~373 |
 | Fun Guy | 60.00% | ~367 |
-| Tragic Brave | 51.00% | ~312 |
+| Tragic Brave | 52.00% | ~318 |
 | Awakened Spirits | 48.00% | ~294 |
 | Little Shop | 47.00% | ~288 |
 | Surprise! | 42.00% | ~257 |
 | An Actor! | 42.00% | ~257 |
 | Curtain Call | 41.00% | ~251 |
+| Well Rested | 39.00% | ~239 |
 | Piece of Cake | 38.00% | ~233 |
 | Gooey Delight! | 38.00% | ~233 |
 | Glimmer of Hope | 38.00% | ~233 |
-| Well Rested | 38.00% | ~233 |
 | Teacups for Toppy | 37.00% | ~226 |
 | Nightmare Fuel | 36.00% | ~220 |
 | Take Heart | 36.00% | ~220 |
@@ -38,11 +38,11 @@
 | Stardust | 31.00% | ~190 |
 | Heartbreaker | 30.00% | ~184 |
 | Kidnapped! | 30.00% | ~184 |
-| Pull the Plug | 28.00% | ~171 |
+| Pull the Plug | 29.00% | ~177 |
+| All Heart | 29.00% | ~177 |
+| Trick Question! | 29.00% | ~177 |
 | Soul Slayer | 28.00% | ~171 |
 | The Downfall | 28.00% | ~171 |
-| All Heart | 28.00% | ~171 |
-| Trick Question! | 28.00% | ~171 |
 | Extraordinary! | 28.00% | ~171 |
 | Final Showdown | 28.00% | ~171 |
 | Spot of Tea? | 28.00% | ~171 |

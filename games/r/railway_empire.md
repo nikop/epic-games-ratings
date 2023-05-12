@@ -1,7 +1,7 @@
 # Railway Empire
 [Store](https://store.epicgames.com/en-US/p/railway-empire)  
 [View Rawdata](../../db/r/railway_empire.json)  
-Rating: 4.52 (Ranked 501)  
+Rating: 4.52 (Ranked 502)  
 Number of Ratings: 2,155  (23.09.2022)  
 ## Awards
 Max (Relaxing): 275  (Ranked 230)  

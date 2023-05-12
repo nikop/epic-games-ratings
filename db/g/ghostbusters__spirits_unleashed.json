@@ -892,10 +892,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2061,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-05-12T20:58:51.4127679+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2062,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2061,
+  "NumberOfAwards": 2062,
   "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -951,7 +957,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game is Relaxing",
@@ -972,9 +978,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21719,
+  "EOS_Progressed": 21720,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2452,6 +2458,11 @@
       "Time": "2023-05-12T20:05:06.875617+00:00",
       "NumProgressed": 21719,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-12T21:05:26.517819+00:00",
+      "NumProgressed": 21720,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 51,
@@ -2463,7 +2474,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16072
+      "UsersEstimate": 16073
     },
     {
       "ID": "Animated",
@@ -2527,7 +2538,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11511
+      "UsersEstimate": 11512
     },
     {
       "ID": "Daily_Dose",
@@ -2551,7 +2562,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13683
+      "UsersEstimate": 13684
     },
     {
       "ID": "Dont_Need_These",
@@ -2575,7 +2586,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 14117
+      "UsersEstimate": 14118
     },
     {
       "ID": "Escape_Artist",
@@ -2599,7 +2610,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 11945
+      "UsersEstimate": 11946
     },
     {
       "ID": "GB_In_Training",
@@ -2631,7 +2642,7 @@
       "Name": "Legions",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "Liability",
@@ -2687,7 +2698,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "Rift_Destroyer",
@@ -2735,7 +2746,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "Skilled",
@@ -2823,7 +2834,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9556
+      "UsersEstimate": 9557
     },
     {
       "ID": "Tobins_Prodigy",
@@ -2847,7 +2858,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10642
+      "UsersEstimate": 10643
     },
     {
       "ID": "Welcome_Crew",
@@ -2855,7 +2866,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "Whoopsie",
@@ -2870,16 +2881,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21719,
+      "Progressed": 21720,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-05-12T09:58:53.8798859+00:00",
-  "LastChanged_Achievements": "2023-05-12T20:05:06.8756163+00:00",
+  "LastChanged": "2023-05-12T20:58:51.4127678+00:00",
+  "LastChanged_Achievements": "2023-05-12T21:05:26.5178184+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:58:35.5181368+00:00",
-  "LastUpdate_Achievements": "2023-05-12T20:05:06.8756568+00:00"
+  "LastUpdate_Ratings": "2023-05-12T20:58:51.4127683+00:00",
+  "LastUpdate_Achievements": "2023-05-12T21:05:26.5178716+00:00"
 }

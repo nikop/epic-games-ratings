@@ -6,39 +6,39 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,151 |
-| That's a Grand Army | 8.00% | ~2,801 |
-| That is mine! | 8.00% | ~2,801 |
-| Victorious! | 8.00% | ~2,801 |
-| Brothers in Arms | 6.00% | ~2,101 |
-| That's a Grand Navy | 6.00% | ~2,101 |
-| Seriously?! | 6.00% | ~2,101 |
-| For the Glory | 5.00% | ~1,751 |
-| Cold War | 4.00% | ~1,400 |
-| True Catholic | 4.00% | ~1,400 |
-| Defender of the Faith | 3.00% | ~1,050 |
-| It's all about the money | 3.00% | ~1,050 |
-| Respected | 3.00% | ~1,050 |
-| Blockader | 2.00% | ~700 |
-| Combined Arms | 2.00% | ~700 |
-| Double the Love | 2.00% | ~700 |
-| Gentle Persuasion | 2.00% | ~700 |
-| It's all about luck | 2.00% | ~700 |
-| Queen of Conquest | 2.00% | ~700 |
-| Royal Authority | 2.00% | ~700 |
-| The Princess is in this Castle | 2.00% | ~700 |
-| Total Control | 2.00% | ~700 |
-| Truly Divine Ruler | 2.00% | ~700 |
-| Agressive Expander | 1.00% | ~350 |
-| All That's Thine Shall Be Mine | 1.00% | ~350 |
-| Azur semé de lis or | 1.00% | ~350 |
-| Bright Spark | 1.00% | ~350 |
-| City of Cities | 1.00% | ~350 |
-| Factionalism | 1.00% | ~350 |
-| A Golden Empire | 1.00% | ~350 |
-| My armies are invincible! | 1.00% | ~350 |
-| Isn't this the way to India? | 0.80% | ~280 |
-| The Five Colonies | 0.80% | ~280 |
+| Until death do us apart | 9.00% | ~3,156 |
+| That's a Grand Army | 8.00% | ~2,805 |
+| That is mine! | 8.00% | ~2,805 |
+| Victorious! | 8.00% | ~2,805 |
+| Brothers in Arms | 6.00% | ~2,104 |
+| That's a Grand Navy | 6.00% | ~2,104 |
+| Seriously?! | 6.00% | ~2,104 |
+| For the Glory | 5.00% | ~1,753 |
+| Cold War | 4.00% | ~1,403 |
+| True Catholic | 4.00% | ~1,403 |
+| Defender of the Faith | 3.00% | ~1,052 |
+| It's all about the money | 3.00% | ~1,052 |
+| Respected | 3.00% | ~1,052 |
+| Blockader | 2.00% | ~701 |
+| Combined Arms | 2.00% | ~701 |
+| Double the Love | 2.00% | ~701 |
+| Gentle Persuasion | 2.00% | ~701 |
+| It's all about luck | 2.00% | ~701 |
+| Queen of Conquest | 2.00% | ~701 |
+| Royal Authority | 2.00% | ~701 |
+| The Princess is in this Castle | 2.00% | ~701 |
+| Total Control | 2.00% | ~701 |
+| Truly Divine Ruler | 2.00% | ~701 |
+| Agressive Expander | 1.00% | ~351 |
+| All That's Thine Shall Be Mine | 1.00% | ~351 |
+| Azur semé de lis or | 1.00% | ~351 |
+| Bright Spark | 1.00% | ~351 |
+| City of Cities | 1.00% | ~351 |
+| Factionalism | 1.00% | ~351 |
+| A Golden Empire | 1.00% | ~351 |
+| My armies are invincible! | 1.00% | ~351 |
+| Isn't this the way to India? | 0.80% | ~281 |
+| The Five Colonies | 0.80% | ~281 |
 | The Emperors new clothes | 0.70% | ~245 |
 | Market Control | 0.70% | ~245 |
 | This navy can take it all | 0.70% | ~245 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,012 (Ranked 81)  
+Progressed: 35,063 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,10 +383,10 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 33,201 | 0 |
 | 2023-05-10 | 33,769 | 0 |
 | 2023-05-11 | 34,344 | 0 |
-| 2023-05-12 | 35,012 | 0 |
+| 2023-05-12 | 35,063 | 0 |
 ## Awards
 Max (Educational): 5,212  (Ranked 60)  
-Sum: 43,096 (Ranked 27)  
+Sum: 43,101 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -397,7 +397,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 4,897 |
 | This game is Relaxing | 4,851 |
 | This game has Competitive Players | 4,677 |
-| This game has Amazing Storytelling | 4,435 |
+| This game has Amazing Storytelling | 4,440 |
 | This game has Amazing Characters | 4,109 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -518,4 +518,4 @@ Diff (max vs sum): 33
 | 2023-05-09 | 4.68 | - | 5,201 | 43,010 |
 | 2023-05-10 | 4.68 | - | 5,201 | 43,029 |
 | 2023-05-11 | 4.68 | - | 5,206 | 43,064 |
-| 2023-05-12 | 4.68 | - | 5,212 | 43,096 |
+| 2023-05-12 | 4.68 | - | 5,212 | 43,101 |

@@ -19,6 +19,8 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Ashley | 0.20% | ~10 |
 | The Muse: Madison | 0.20% | ~10 |
 | The Crush | 0.20% | ~10 |
+| The Magic Number | 0.20% | ~10 |
+| Vickie | 0.20% | ~10 |
 | Amy | 0.10% | ~5 |
 | Amy: Scavenger Hunt | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
@@ -55,8 +57,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.10% | ~5 |
 | Howz It Goin Dood | 0.10% | ~5 |
 | The Crush(es) | 0.10% | ~5 |
-| The Magic Number | 0.10% | ~5 |
-| Vickie | 0.10% | ~5 |
 | La Coochadora | 0.10% | ~5 |
 | The Elder Brahs | 0.10% | ~5 |
 | Simple Geometry | 0.10% | ~5 |

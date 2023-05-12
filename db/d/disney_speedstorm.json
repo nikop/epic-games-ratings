@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2424,
+  "EOS_Progressed": 2426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1265,6 +1265,11 @@
       "Time": "2023-05-12T20:05:00.9698071+00:00",
       "NumProgressed": 2424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-12T21:05:19.8678287+00:00",
+      "NumProgressed": 2426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1300,7 +1305,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "13",
@@ -1308,7 +1313,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "14",
@@ -1340,7 +1345,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "18",
@@ -1428,7 +1433,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1262
     },
     {
       "ID": "6",
@@ -1436,15 +1441,15 @@
       "Name": "PRO",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 65,
-      "UsersEstimate": 73
+      "UsersEstimate": 97
     },
     {
       "ID": "8",
@@ -1460,20 +1465,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2424,
+      "Progressed": 2426,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-12T20:05:00.9698067+00:00",
+  "LastChanged_Achievements": "2023-05-12T21:05:19.8678272+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-12T19:58:36.6482132+00:00",
-  "LastUpdate_Achievements": "2023-05-12T20:05:00.9698265+00:00"
+  "LastUpdate_Ratings": "2023-05-12T20:58:52.9494375+00:00",
+  "LastUpdate_Achievements": "2023-05-12T21:05:19.867853+00:00"
 }

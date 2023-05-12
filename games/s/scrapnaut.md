@@ -7,11 +7,11 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mushroom Picker | 60.00% | ~98 |
+| Scrap Gatherer | 60.00% | ~98 |
 | My New Home | 60.00% | ~98 |
-| Scrap Gatherer | 59.00% | ~96 |
 | Scrapper | 50.00% | ~82 |
 | Cook | 42.00% | ~68 |
-| Scrap Master | 39.00% | ~64 |
+| Scrap Master | 40.00% | ~65 |
 | Teleport | 39.00% | ~64 |
 | Digger | 34.00% | ~55 |
 | Smelter | 34.00% | ~55 |
