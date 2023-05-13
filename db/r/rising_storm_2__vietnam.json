@@ -2881,10 +2881,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 6077,
       "NumberOfAwardsMax": 652
+    },
+    {
+      "Time": "2023-05-13T06:59:23.8500349+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 6079,
+      "NumberOfAwardsMax": 652
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6077,
+  "NumberOfAwards": 6079,
   "NumberOfAwardsMax": 652,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2910,7 +2916,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 617
+      "Count": 619
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -2972,8 +2978,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-05-13T04:59:52.3914778+00:00",
+  "LastChanged": "2023-05-13T06:59:23.8500347+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:35.7675385+00:00",
-  "LastUpdate_Ratings": "2023-05-13T05:59:36.3752045+00:00",
-  "LastUpdate_Achievements": "2023-05-13T06:04:11.2774242+00:00"
+  "LastUpdate_Ratings": "2023-05-13T06:59:23.8500353+00:00",
+  "LastUpdate_Achievements": "2023-05-13T07:04:07.9584519+00:00"
 }

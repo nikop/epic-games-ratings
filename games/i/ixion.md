@@ -20,9 +20,9 @@ Rating: 4.54 (Ranked 477)
 | Hope Seeker | 0.70% | ~13 |
 | Space Society | 0.60% | ~11 |
 | Exceeding Capacity | 0.60% | ~11 |
+| Sightseeing | 0.50% | ~9 |
 | Power Outage | 0.50% | ~9 |
 | Convenient Transport | 0.50% | ~9 |
-| Sightseeing | 0.40% | ~8 |
 | A Hunk of Junk | 0.40% | ~8 |
 | Please Make it Stop! | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |

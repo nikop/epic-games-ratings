@@ -6,25 +6,25 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~5,777 |
-| Photogenic | 87.00% | ~5,523 |
-| Surge Gauntlet Jockey | 85.00% | ~5,396 |
-| Plug It In | 84.00% | ~5,332 |
-| Adventure Time | 80.00% | ~5,078 |
-| Playing With Power | 77.00% | ~4,888 |
-| You're Fired | 59.00% | ~3,745 |
+| Let's Get This Party Started | 91.00% | ~5,778 |
+| Photogenic | 87.00% | ~5,524 |
+| Surge Gauntlet Jockey | 85.00% | ~5,397 |
+| Plug It In | 84.00% | ~5,333 |
+| Adventure Time | 80.00% | ~5,079 |
+| Playing With Power | 77.00% | ~4,889 |
+| You're Fired | 59.00% | ~3,746 |
 | Coup d'Etat | 58.00% | ~3,682 |
-| Get Furious | 55.00% | ~3,491 |
+| Get Furious | 55.00% | ~3,492 |
 | Gunplay And Cosplay | 54.00% | ~3,428 |
 | Hacks In Stacks | 54.00% | ~3,428 |
 | Meching Enemies | 49.00% | ~3,111 |
-| Ticket Toddler | 48.00% | ~3,047 |
+| Ticket Toddler | 48.00% | ~3,048 |
 | Booty Bashing | 47.00% | ~2,984 |
 | Field Medic | 37.00% | ~2,349 |
 | Here Comes a New Challenger | 37.00% | ~2,349 |
-| Guardian Angel | 34.00% | ~2,158 |
-| Rapid Response | 32.00% | ~2,031 |
-| The Full Monty | 32.00% | ~2,031 |
+| Guardian Angel | 34.00% | ~2,159 |
+| Rapid Response | 32.00% | ~2,032 |
+| The Full Monty | 32.00% | ~2,032 |
 | Surge Ahead | 31.00% | ~1,968 |
 | Poppin Noggins | 25.00% | ~1,587 |
 | Clips and Crits | 23.00% | ~1,460 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~32 |
 | Pyrotechnical | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,348 (Ranked 113)  
+Progressed: 6,349 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-10 | 6,308 | 0 |
 | 2023-05-11 | 6,327 | 0 |
 | 2023-05-12 | 6,346 | 0 |
-| 2023-05-13 | 6,348 | 0 |
+| 2023-05-13 | 6,349 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 483 (Ranked 291)  

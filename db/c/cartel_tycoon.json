@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -500,6 +500,11 @@
       "Time": "2023-05-13T03:05:11.3808231+00:00",
       "NumProgressed": 320,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T07:05:26.7201157+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -559,7 +564,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "kill-lieutenants",
@@ -575,7 +580,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "play-at-night",
@@ -589,9 +594,9 @@
       "ID": "product-profit",
       "SetID": "bed33dd",
       "Name": "Follow the Money",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "rage-quit",
@@ -599,7 +604,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "rename-lieutenant",
@@ -662,15 +667,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-13T06:05:45.8348149+00:00",
+  "LastChanged_Achievements": "2023-05-13T07:05:26.7201151+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.8903016+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:00:05.56214+00:00",
-  "LastUpdate_Achievements": "2023-05-13T06:05:45.8348318+00:00"
+  "LastUpdate_Ratings": "2023-05-13T06:59:45.2181256+00:00",
+  "LastUpdate_Achievements": "2023-05-13T07:05:26.7201275+00:00"
 }

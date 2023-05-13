@@ -6,21 +6,21 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~546,759 |
-| Error: Stack Overflow | 66.00% | ~388,023 |
-| We need more gold | 60.00% | ~352,748 |
-| The dawn of civilization | 53.00% | ~311,594 |
-| More FPS for the FPS god! | 49.00% | ~288,077 |
-| Beauty and harmony | 48.00% | ~282,198 |
-| One more! | 44.00% | ~258,682 |
-| Overmind | 24.00% | ~141,099 |
-| RNG is my best friend now | 18.00% | ~105,824 |
+| First.. Bit? | 93.00% | ~546,765 |
+| Error: Stack Overflow | 66.00% | ~388,027 |
+| We need more gold | 60.00% | ~352,751 |
+| The dawn of civilization | 53.00% | ~311,597 |
+| More FPS for the FPS god! | 49.00% | ~288,080 |
+| Beauty and harmony | 48.00% | ~282,201 |
+| One more! | 44.00% | ~258,684 |
+| Overmind | 24.00% | ~141,101 |
+| RNG is my best friend now | 18.00% | ~105,825 |
 | Cosplay | 13.00% | ~76,429 |
 | Evolution in progress... | 13.00% | ~76,429 |
-| Step by step | 8.00% | ~47,033 |
-| README reader | 3.00% | ~17,637 |
-| Data scientist | 3.00% | ~17,637 |
-| One small step for a man... | 3.00% | ~17,637 |
+| Step by step | 8.00% | ~47,034 |
+| README reader | 3.00% | ~17,638 |
+| Data scientist | 3.00% | ~17,638 |
+| One small step for a man... | 3.00% | ~17,638 |
 | To see it all, to learn it all | 2.00% | ~11,758 |
 | Evolution complete | 2.00% | ~11,758 |
 | Is this Skynet? | 2.00% | ~11,758 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,764 |
 | The Scrooge | 0.10% | ~588 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 587,913 (Ranked 21)  
+Progressed: 587,919 (Ranked 21)  
 Completed: 479 (0.08%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 479 (0.08%) (Ranked 163)
 | 2023-05-10 | 587,673 | 478 |
 | 2023-05-11 | 587,765 | 479 |
 | 2023-05-12 | 587,882 | 479 |
-| 2023-05-13 | 587,913 | 479 |
+| 2023-05-13 | 587,919 | 479 |
 ## Awards
 Max (Challenging Puzzles): 131  (Ranked 292)  
 Sum: 131 (Ranked 385)  

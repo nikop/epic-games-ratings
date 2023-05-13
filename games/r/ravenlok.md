@@ -22,15 +22,15 @@
 | Well Rested | 39.00% | ~241 |
 | Gooey Delight! | 38.00% | ~234 |
 | Glimmer of Hope | 38.00% | ~234 |
-| Teacups for Toppy | 37.00% | ~228 |
-| Nightmare Fuel | 36.00% | ~222 |
-| Take Heart | 36.00% | ~222 |
+| Teacups for Toppy | 38.00% | ~234 |
+| Nightmare Fuel | 37.00% | ~228 |
+| Take Heart | 37.00% | ~228 |
 | The Guardian | 36.00% | ~222 |
 | Stronger! | 35.00% | ~216 |
 | Ancient Wisdom | 34.00% | ~210 |
 | Frog Facts! | 34.00% | ~210 |
 | All That Glistens | 34.00% | ~210 |
-| It's Pointy! | 33.00% | ~204 |
+| It's Pointy! | 34.00% | ~210 |
 | Spellbound | 32.00% | ~197 |
 | All Skilled Up! | 32.00% | ~197 |
 | Extinct Again! | 31.00% | ~191 |

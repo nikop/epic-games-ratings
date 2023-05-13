@@ -12,7 +12,7 @@
 | 15K | 39.00% | ~17 |
 | 10K | 39.00% | ~17 |
 | Drinking Problem | 30.00% | ~13 |
-| Skin Of Your Teeth | 20.00% | ~9 |
+| Skin Of Your Teeth | 23.00% | ~10 |
 | Pork Chop Express | 18.00% | ~8 |
 | Graveside Survivor | 16.00% | ~7 |
 | Eggtraordinary | 16.00% | ~7 |

@@ -3969,9 +3969,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49657,
+  "EOS_Progressed": 49659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5934,6 +5934,11 @@
       "Time": "2023-05-13T06:05:46.7124234+00:00",
       "NumProgressed": 49657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T07:05:27.3853534+00:00",
+      "NumProgressed": 49659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5953,7 +5958,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6455
+      "UsersEstimate": 6456
     },
     {
       "ID": "Bannerlord",
@@ -5961,7 +5966,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 9931
+      "UsersEstimate": 9932
     },
     {
       "ID": "Best served cold",
@@ -6105,7 +6110,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 9931
+      "UsersEstimate": 9932
     },
     {
       "ID": "I can do it",
@@ -6177,7 +6182,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17380
+      "UsersEstimate": 17381
     },
     {
       "ID": "Lawmaker",
@@ -6201,7 +6206,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "Minor Clan",
@@ -6352,15 +6357,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49657,
+      "Progressed": 49659,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-13T04:59:54.720626+00:00",
-  "LastChanged_Achievements": "2023-05-13T06:05:46.7124229+00:00",
+  "LastChanged_Achievements": "2023-05-13T07:05:27.385353+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-13T05:59:38.6580687+00:00",
-  "LastUpdate_Achievements": "2023-05-13T06:05:46.7125151+00:00"
+  "LastUpdate_Ratings": "2023-05-13T06:59:25.8170266+00:00",
+  "LastUpdate_Achievements": "2023-05-13T07:05:27.3853955+00:00"
 }

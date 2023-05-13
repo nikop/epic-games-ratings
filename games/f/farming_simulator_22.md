@@ -6,16 +6,16 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~32,104 |
-| I read Shakespeare and stuff | 64.00% | ~27,035 |
-| Just a sprinkle | 63.00% | ~26,612 |
+| Own use | 76.00% | ~32,105 |
+| I read Shakespeare and stuff | 64.00% | ~27,036 |
+| Just a sprinkle | 63.00% | ~26,613 |
 | I'm stumped | 61.00% | ~25,768 |
 | Plant get enough | 61.00% | ~25,768 |
 | It's just the beginning | 59.00% | ~24,923 |
-| This is just my weekend vehicle | 58.00% | ~24,500 |
-| Hard work pays off | 53.00% | ~22,388 |
-| It's never too late to farm | 46.00% | ~19,431 |
-| All out of Land | 44.00% | ~18,586 |
+| This is just my weekend vehicle | 58.00% | ~24,501 |
+| Hard work pays off | 53.00% | ~22,389 |
+| It's never too late to farm | 46.00% | ~19,432 |
+| All out of Land | 44.00% | ~18,587 |
 | Field Trip | 43.00% | ~18,164 |
 | I like to switch it up | 40.00% | ~16,897 |
 | Help me to help you | 38.00% | ~16,052 |
@@ -28,8 +28,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~6,336 |
 | Large-scale supplier | 15.00% | ~6,336 |
 | Well-Oiled Machine | 15.00% | ~6,336 |
-| Fix me up | 13.00% | ~5,491 |
-| That's a wrap | 13.00% | ~5,491 |
+| Fix me up | 13.00% | ~5,492 |
+| That's a wrap | 13.00% | ~5,492 |
 | Rock on | 12.00% | ~5,069 |
 | It's sow easy | 11.00% | ~4,647 |
 | Highly cultivated | 10.00% | ~4,224 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~169 |
 | Raisin the stakes | 0.30% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,242 (Ranked 79)  
+Progressed: 42,243 (Ranked 79)  
 Completed: 5 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,16 +73,16 @@ Completed: 5 (0.01%) (Ranked 190)
 | 2023-05-10 | 42,150 | 5 |
 | 2023-05-11 | 42,191 | 5 |
 | 2023-05-12 | 42,234 | 5 |
-| 2023-05-13 | 42,242 | 5 |
+| 2023-05-13 | 42,243 | 5 |
 ## Awards
 Max (Great for Beginners): 4,194  (Ranked 70)  
-Sum: 36,329 (Ranked 31)  
+Sum: 36,331 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,194 |
 | This game is Relaxing | 3,887 |
-| This game is Educational | 3,833 |
+| This game is Educational | 3,835 |
 | This game has Quickly Understood Controls | 3,810 |
 | This game is Extremely Fun | 3,686 |
 | This game is Highly Recommended | 3,649 |
@@ -211,3 +211,4 @@ Diff (max vs sum): 39
 | 2023-05-10 | 4.70 | - | 4,186 | 36,297 |
 | 2023-05-11 | 4.70 | - | 4,189 | 36,313 |
 | 2023-05-12 | 4.70 | - | 4,194 | 36,329 |
+| 2023-05-13 | 4.70 | - | 4,194 | 36,331 |

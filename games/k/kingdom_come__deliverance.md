@@ -7,15 +7,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 31.00% | ~242,049 |
-| Cavalier | 25.00% | ~195,200 |
-| Fatso | 23.00% | ~179,584 |
-| Awakening | 20.00% | ~156,160 |
-| Ranger | 20.00% | ~156,160 |
-| Scrooge | 20.00% | ~156,160 |
-| Anorectic | 16.00% | ~124,928 |
-| Firestarter | 15.00% | ~117,120 |
-| Bookworm | 14.00% | ~109,312 |
-| Insomniac | 13.00% | ~101,504 |
+| Cavalier | 25.00% | ~195,201 |
+| Fatso | 23.00% | ~179,585 |
+| Awakening | 20.00% | ~156,161 |
+| Ranger | 20.00% | ~156,161 |
+| Scrooge | 20.00% | ~156,161 |
+| Anorectic | 16.00% | ~124,929 |
+| Firestarter | 15.00% | ~117,121 |
+| Bookworm | 14.00% | ~109,313 |
+| Insomniac | 13.00% | ~101,505 |
 | Buddy | 11.00% | ~85,888 |
 | Sinner | 11.00% | ~85,888 |
 | Thief | 11.00% | ~85,888 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~781 |
 | Wingman | 0.10% | ~781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 780,802 (Ranked 12)  
+Progressed: 780,804 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,10 +112,10 @@ Completed: 39 (0.00%) (Ranked 198)
 | 2023-05-10 | 780,501 | 39 |
 | 2023-05-11 | 780,633 | 39 |
 | 2023-05-12 | 780,768 | 39 |
-| 2023-05-13 | 780,802 | 39 |
+| 2023-05-13 | 780,804 | 39 |
 ## Awards
 Max (Character Customization): 7,155  (Ranked 43)  
-Sum: 26,778 (Ranked 42)  
+Sum: 26,779 (Ranked 42)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -126,7 +126,7 @@ Diff (max vs sum): 1
 | This game is Extremely Fun | 1,620 |
 | This game has Diverse Characters | 1,617 |
 | This game is Highly Recommended | 1,605 |
-| This game has Amazing Characters | 1,598 |
+| This game has Amazing Characters | 1,599 |
 | This game has Realistic Visuals | 1,580 |
 | This game is Educational | 1,533 |
 | This game is Relaxing | 1,477 |
@@ -242,4 +242,4 @@ Diff (max vs sum): 1
 | 2023-05-10 | 4.71 | - | 7,153 | 26,762 |
 | 2023-05-11 | 4.71 | - | 7,155 | 26,771 |
 | 2023-05-12 | 4.71 | - | 7,155 | 26,775 |
-| 2023-05-13 | 4.71 | - | 7,155 | 26,778 |
+| 2023-05-13 | 4.71 | - | 7,155 | 26,779 |

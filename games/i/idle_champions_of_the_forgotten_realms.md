@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.50% | ~437 |
 | Mad Cow Disease | 0.50% | ~437 |
 | Friendly Imps | 0.50% | ~437 |
+| Pure Energy | 0.50% | ~437 |
 | Best Thay Ever | 0.40% | ~214 |
 | The Sanctum of the Sword | 0.40% | ~214 |
 | Get Back In The Castle | 0.40% | ~214 |
@@ -30,7 +31,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~349 |
 | Exploring Port Nyanzaru | 0.40% | ~349 |
 | The Contagious Curse | 0.40% | ~349 |
-| Pure Energy | 0.40% | ~349 |
 | Maddening | 0.30% | ~262 |
 | The Silken Swamp | 0.30% | ~262 |
 | Owlbear Necessities | 0.30% | ~161 |
@@ -176,6 +176,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.20% | ~175 |
 | Dinosaur Racing | 0.20% | ~175 |
 | Elturel Has Fallen | 0.20% | ~175 |
+| Hailstorm! | 0.20% | ~107 |
 | Resolve Amongst Chaos | 0.20% | ~175 |
 | Market Fluctuations | 0.20% | ~175 |
 | Déjà Vu All Over Again | 0.20% | ~107 |
@@ -384,7 +385,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~54 |
 | Everything is Awful | 0.10% | ~87 |
 | Earthquake! | 0.10% | ~54 |
-| Hailstorm! | 0.10% | ~54 |
 | All You Know Is Wrong | 0.10% | ~87 |
 | Shadow Stalkers | 0.10% | ~54 |
 | Avernus Frozen Over | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,326 (Ranked 59)  
+Progressed: 87,329 (Ranked 59)  
 Completed: 1,832 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,832 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,326 | 1,832 |
+| 2023-05-13 | 87,329 | 1,832 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,867 (Ranked 37)  
