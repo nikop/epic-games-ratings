@@ -508,7 +508,7 @@
 | [Dark Light](games/d/dark_light.md) | 4.33 | 735 | 0 | 491 |
 | [Dark Matter](games/d/dark_matter.md) | - | - | 0 | - |
 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 256 | 6,668 | 48 |
-| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 126 | 3,180 | 83 |
+| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 126 | 3,180 | 84 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 502 | 38 | 414 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 352 | 374 | 205 |
 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 530 | 88 | 337 |
@@ -525,7 +525,7 @@
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 836 | 0 | 491 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 502 | 27,280 | 16 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 251 | 239 |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 477 | 3,095 | 85 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 477 | 3,185 | 83 |
 | [Dead Space](games/d/dead_space.md) | 4.76 | 115 | 42 | 408 |
 | [Deadly Flight](games/d/deadly_flight.md) | - | - | - | - |
 | [Death Coming](games/d/death_coming.md) | 4.44 | 623 | 0 | 491 |
@@ -589,7 +589,7 @@
 | [Disgaea 6 Complete](games/d/disgaea_6_complete.md) | - | - | 0 | - |
 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 140 | 529 | 178 |
 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 89 | 348 | 211 |
-| [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 636 | 28 | 452 |
+| [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 636 | 29 | 449 |
 | [Dismay](games/d/dismay.md) | - | - | - | - |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 115 | 841 | 144 |
 | [Disney Speedstorm](games/d/disney_speedstorm.md) | - | - | - | - |
@@ -758,7 +758,7 @@
 | [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | - | - | - | - |
 | [Farm Day 2023](games/f/farm_day_2023.md) | - | - | 0 | - |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 818 | 0 | 491 |
-| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 178 | 6,266 | 50 |
+| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 178 | 6,273 | 50 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 192 | 4,194 | 70 |
 | [Fashion Police Squad](games/f/fashion_police_squad.md) | - | - | 0 | - |
 | [Fata Deum](games/f/fata_deum.md) | - | - | - | - |
@@ -1170,7 +1170,7 @@
 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 818 | 0 | 491 |
 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 603 | 0 | 491 |
 | [League Manager 2023](games/l/league_manager_2023.md) | - | - | 0 | - |
-| [League of Legends](games/l/league_of_legends.md) | 4.21 | 802 | 13,075 | 26 |
+| [League of Legends](games/l/league_of_legends.md) | 4.21 | 802 | 13,118 | 26 |
 | [LEAP Mod Editor](games/l/leap_mod_editor.md) | - | - | - | - |
 | [Learning Factory](games/l/learning_factory.md) | - | - | 0 | - |
 | [Legend Bowl](games/l/legend_bowl.md) | - | - | 0 | - |
@@ -1198,7 +1198,7 @@
 | [Life After Death](games/l/life_after_death.md) | - | - | - | - |
 | [Life by You](games/l/life_by_you.md) | - | - | - | - |
 | [Life of Delta](games/l/life_of_delta.md) | - | - | 0 | - |
-| [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 873 | 0 | 491 |
+| [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 872 | 0 | 491 |
 | [Lifeslide](games/l/lifeslide.md) | - | - | 0 | - |
 | [Light of Alariya](games/l/light_of_alariya.md) | - | - | - | - |
 | [Lightracer Spark](games/l/lightracer_spark.md) | - | - | - | - |
@@ -1208,8 +1208,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 725 | 0 | 491 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 352 | 0 | 491 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1771,7 +1771,7 @@
 | [Seal of Evil](games/s/seal_of_evil.md) | - | - | 0 | - |
 | [Search](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | - | - | - | - |
 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | - | - | 0 | - |
-| [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 871 | 408 | 197 |
+| [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 872 | 408 | 197 |
 | [Secret Government](games/s/secret_government.md) | - | - | 0 | - |
 | [Secret of Dream](games/s/secret_of_dream.md) | - | - | - | - |
 | [Selfloss](games/s/selfloss.md) | - | - | - | - |
@@ -1805,8 +1805,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 178 | 148 | 285 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 642 | 264 | 236 |
@@ -1825,7 +1825,7 @@
 | [Showmaker](games/s/showmaker.md) | - | - | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | - | - | - | - |
 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 140 | 31,058 | 14 |
-| [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 873 | 0 | 491 |
+| [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 872 | 0 | 491 |
 | [Sifu](games/s/sifu.md) | 4.82 | 59 | 6,063 | 53 |
 | [Silence](games/s/silence.md) | - | - | 0 | - |
 | [Silt](games/s/silt.md) | - | - | 0 | - |
@@ -2069,7 +2069,7 @@
 | [test_entry](games/t/test_entry.md) | - | - | - | - |
 | [Tetragon](games/t/tetragon.md) | - | - | - | - |
 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 27 | 39 | 412 |
-| [Tharsis](games/t/tharsis.md) | 4.05 | 873 | 0 | 491 |
+| [Tharsis](games/t/tharsis.md) | 4.05 | 872 | 0 | 491 |
 | [The Abbey](games/t/the_abbey.md) | - | - | - | - |
 | [The Alien Cube](games/t/the_alien_cube.md) | - | - | 0 | - |
 | [The Alters](games/t/the_alters.md) | - | - | - | - |
@@ -2253,7 +2253,7 @@
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 78 | 0 | 491 |
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | - | - | - | - |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 868 | 0 | 491 |
-| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 398 | 3,177 | 84 |
+| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 398 | 3,177 | 85 |
 | [Them and Us](games/t/them_and_us.md) | - | - | 0 | - |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 324 | 0 | 491 |
 | [There Is No Light](games/t/there_is_no_light.md) | - | - | 0 | - |
@@ -2535,7 +2535,7 @@
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | - | - | 0 | - |
 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 567 | 36 | 421 |
 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 377 | 0 | 491 |
-| [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 477 | 28 | 452 |
+| [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 477 | 28 | 453 |
 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 576 | 0 | 491 |
 | [Wreckfest](games/w/wreckfest.md) | 4.08 | 865 | 0 | 491 |
 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | - | - | 0 | - |

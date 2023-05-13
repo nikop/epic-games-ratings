@@ -25,7 +25,7 @@
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,165 | 4.76 | 115 |
 | 24 | [Maneater](games/m/maneater.md) | 13,447 | 4.49 | 552 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,260 | 4.60 | 377 |
-| 26 | [League of Legends](games/l/league_of_legends.md) | 13,075 | 4.21 | 802 |
+| 26 | [League of Legends](games/l/league_of_legends.md) | 13,118 | 4.21 | 802 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,370 | 4.36 | 707 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,911 | 4.42 | 642 |
 | 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,774 | 4.60 | 377 |
@@ -49,7 +49,7 @@
 | 47 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 642 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,668 | 4.67 | 256 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,523 | 4.74 | 140 |
-| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,266 | 4.71 | 178 |
+| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,273 | 4.71 | 178 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,259 | 4.80 | 78 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,076 | 4.58 | 413 |
 | 53 | [Sifu](games/s/sifu.md) | 6,063 | 4.82 | 59 |
@@ -82,9 +82,9 @@
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 235 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,275 | 4.46 | 591 |
 | 82 | [Paladins](games/p/paladins.md) | 3,219 | 4.35 | 717 |
-| 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,180 | 4.75 | 126 |
-| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,177 | 4.59 | 398 |
-| 85 | [Dead Island 2](games/d/dead_island_2.md) | 3,095 | 4.54 | 477 |
+| 83 | [Dead Island 2](games/d/dead_island_2.md) | 3,185 | 4.54 | 477 |
+| 84 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,180 | 4.75 | 126 |
+| 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,177 | 4.59 | 398 |
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,062 | 4.57 | 428 |
 | 87 | [Hades](games/h/hades.md) | 3,041 | 4.92 | 3 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,022 | 4.68 | 235 |
@@ -196,7 +196,7 @@
 | 193 | [Football Manager 2023](games/f/football_manager_2023.md) | 417 | 4.75 | 126 |
 | 195 | [Prison Architect](games/p/prison_architect.md) | 412 | 4.61 | 352 |
 | 196 | [Loop Hero](games/l/loop_hero.md) | 410 | 4.68 | 235 |
-| 197 | [Second Extinction™](games/s/second_extinction™.md) | 408 | 4.06 | 871 |
+| 197 | [Second Extinction™](games/s/second_extinction™.md) | 408 | 4.05 | 872 |
 | 198 | [RimWorld](games/r/rimworld.md) | 406 | 4.89 | 11 |
 | 199 | [Into the Breach](games/i/into_the_breach.md) | 405 | 4.84 | 49 |
 | 200 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 400 | 4.74 | 140 |
@@ -449,10 +449,10 @@
 | 445 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 30 | 4.41 | 653 |
 | 445 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.59 | 398 |
 | 449 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 895 |
+| 449 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 29 | 4.43 | 636 |
 | 449 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 741 |
 | 449 | [Voidtrain](games/v/voidtrain.md) | 29 | 4.50 | 530 |
-| 452 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 28 | 4.43 | 636 |
-| 452 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.54 | 477 |
+| 453 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.54 | 477 |
 | 454 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 725 |
 | 454 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 446 |
 | 454 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 27 | 4.46 | 591 |

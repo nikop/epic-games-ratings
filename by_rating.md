@@ -128,7 +128,7 @@
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 466 |
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,895 | 62 |
 | 126 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 85 | 341 |
-| 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,180 | 83 |
+| 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,180 | 84 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 266 | 234 |
 | 126 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 41 | 409 |
 | 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 417 | 193 |
@@ -180,7 +180,7 @@
 | 178 | [Barony](games/b/barony.md) | 4.71 | 70 | 364 |
 | 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 321 | 217 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 491 |
-| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,266 | 50 |
+| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,273 | 50 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 469 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 427 |
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,155 | 43 |
@@ -408,7 +408,7 @@
 | 398 | [RiME](games/r/rime.md) | 4.59 | 0 | 491 |
 | 398 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 353 |
 | 398 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 491 |
-| 398 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,177 | 84 |
+| 398 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,177 | 85 |
 | 398 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 445 |
 | 398 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
 | 398 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 319 | 219 |
@@ -476,7 +476,7 @@
 | 465 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 435 |
 | 465 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 491 |
 | 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,146 | 125 |
-| 477 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 3,095 | 85 |
+| 477 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 3,185 | 83 |
 | 477 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 432 |
 | 477 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,045 | 131 |
 | 477 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 198 | 258 |
@@ -487,7 +487,7 @@
 | 477 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 495 | 185 |
 | 477 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 491 |
 | 477 | [VALORANT](games/v/valorant.md) | 4.54 | 52,226 | 11 |
-| 477 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 452 |
+| 477 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 453 |
 | 489 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 491 |
 | 489 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 491 |
 | 489 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 491 |
@@ -635,7 +635,7 @@
 | 623 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 326 |
 | 623 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 491 |
 | 623 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
-| 636 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 28 | 452 |
+| 636 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 29 | 449 |
 | 636 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 491 |
 | 636 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 491 |
 | 636 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 369 |
@@ -805,7 +805,7 @@
 | 802 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 0 | 491 |
 | 802 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 491 |
 | 802 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 271 |
-| 802 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,075 | 26 |
+| 802 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,118 | 26 |
 | 802 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 491 |
 | 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 491 |
 | 809 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 299 |
@@ -871,10 +871,10 @@
 | 868 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 269 |
 | 868 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 491 |
 | 871 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,877 | 63 |
-| 871 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 408 | 197 |
-| 873 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 491 |
-| 873 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 491 |
-| 873 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 491 |
+| 872 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 491 |
+| 872 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 408 | 197 |
+| 872 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 491 |
+| 872 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 491 |
 | 876 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 491 |
 | 876 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 0 | 491 |
 | 878 | [Lake](games/l/lake.md) | 4.03 | 0 | 491 |

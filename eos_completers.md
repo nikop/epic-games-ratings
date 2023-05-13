@@ -18,8 +18,8 @@
 | 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.45% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.24% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.76% |
@@ -37,7 +37,7 @@
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.96% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
+| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.64% |
 | 39 | [Them and Us](games/t/them_and_us.md) | 3.57% |
 | 40 | [The Complex](games/t/the_complex.md) | 3.53% |
 | 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.45% |
@@ -59,7 +59,7 @@
 | 57 | [JARS](games/j/jars.md) | 2.56% |
 | 58 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -137,10 +137,10 @@
 | 134 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 136 | [Blanc](games/b/blanc.md) | 0.22% |
 | 136 | [Filament](games/f/filament.md) | 0.22% |
-| 138 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 138 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
-| 138 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
-| 138 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
+| 138 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
+| 139 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
+| 139 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
 | 142 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 143 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 144 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
