@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1980,
+  "EOS_Progressed": 1981,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1226,6 +1226,11 @@
       "Time": "2023-05-13T15:05:50.9316631+00:00",
       "NumProgressed": 1980,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T16:04:44.1531935+00:00",
+      "NumProgressed": 1981,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1269,7 +1274,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -1301,7 +1306,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1341,7 +1346,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1365,7 +1370,7 @@
       "Name": "Little light",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1413,7 +1418,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1421,7 +1426,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1453,7 +1458,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1469,7 +1474,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1509,7 +1514,7 @@
       "Name": "Terbisia",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -1541,7 +1546,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1555,9 +1560,9 @@
       "ID": "STB_PLATINUM",
       "SetID": "3pe2bac",
       "Name": "The Unshackled",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_ALL",
@@ -1589,7 +1594,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -1660,7 +1665,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1980,
+      "Progressed": 1981,
       "Completed": 1
     }
   ],
@@ -1668,8 +1673,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:05:50.9316619+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:04:44.1531931+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:57:48.3763935+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:05:50.9317354+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:21.246486+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:04:44.1532344+00:00"
 }

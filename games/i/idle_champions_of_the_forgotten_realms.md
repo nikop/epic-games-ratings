@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~349 |
 | Exploring Port Nyanzaru | 0.40% | ~349 |
 | The Contagious Curse | 0.40% | ~349 |
+| Escort to Waterdeep | 0.40% | ~349 |
 | The Silken Swamp | 0.30% | ~262 |
 | Owlbear Necessities | 0.30% | ~161 |
 | Keep Your Distance | 0.30% | ~161 |
@@ -54,7 +55,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.30% | ~262 |
 | Running of the Saurs | 0.30% | ~262 |
 | An Even Worse Time in Avernus | 0.30% | ~161 |
-| Escort to Waterdeep | 0.30% | ~262 |
 | Constant Banditry | 0.30% | ~262 |
 | Waterdeep Detours | 0.30% | ~262 |
 | Underdeep Cartography | 0.30% | ~262 |
@@ -229,6 +229,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.20% | ~107 |
 | Reghed Glacier Mysteries | 0.20% | ~107 |
 | The Haunted Jungle | 0.20% | ~175 |
+| Poor Guidance | 0.20% | ~175 |
 | Starving in the Jungle | 0.10% | ~87 |
 | Cold as Ice | 0.10% | ~54 |
 | Keep Your Friends Close | 0.10% | ~54 |
@@ -493,10 +494,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 | The Archaeologist and the Sailor | 0.10% | ~54 |
-| Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,371 (Ranked 59)  
+Progressed: 87,374 (Ranked 59)  
 Completed: 1,834 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,834 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,371 | 1,834 |
+| 2023-05-13 | 87,374 | 1,834 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,870 (Ranked 37)  

@@ -2354,7 +2354,7 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8794,
+  "EOS_Progressed": 8795,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
@@ -3424,6 +3424,11 @@
       "Time": "2023-05-13T13:08:50.8088426+00:00",
       "NumProgressed": 8794,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T16:05:03.1634444+00:00",
+      "NumProgressed": 8795,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3443,7 +3448,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -3803,7 +3808,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "49_Flame",
@@ -4362,21 +4367,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7576,
+      "Progressed": 7577,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8794,
+      "Progressed": 8795,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-13T10:58:20.5799687+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:06:13.0532639+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:05:03.1634438+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:58:33.4778501+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:06:13.0535387+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:55.3868768+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:05:03.1635872+00:00"
 }

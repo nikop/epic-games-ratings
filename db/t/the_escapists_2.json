@@ -2,9 +2,9 @@
   "ID": "115577f4ef1e4055aaf0da534fdfe81e",
   "Name": "The Escapists 2",
   "ProductSlug": "the-escapists-2",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 413,
   "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 268,
@@ -929,10 +929,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 396,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-05-13T15:57:58.1723185+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 397,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 396,
+  "NumberOfAwards": 397,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1000,7 +1006,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -1014,8 +1020,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-05-07T22:59:25.8374729+00:00",
+  "LastChanged": "2023-05-13T15:57:58.1723182+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:17.2775702+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:58:37.1653812+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:01:10.8247736+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:58.172319+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:00:01.5516695+00:00"
 }

@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -213,6 +213,11 @@
       "Time": "2023-05-12T18:06:25.1922008+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T16:02:14.9906492+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -262,7 +267,7 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -270,7 +275,7 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -278,7 +283,7 @@
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 102,
+      "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -294,7 +299,7 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -302,9 +307,9 @@
       "ID": "ach_hit_tree_with_shovel",
       "SetID": "cmg602e",
       "Name": "Getting Started",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_honk_horn",
@@ -366,7 +371,7 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -374,7 +379,7 @@
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -510,7 +515,7 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 27
     },
@@ -526,7 +531,7 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -534,7 +539,7 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -550,7 +555,7 @@
       "ID": "ach_x_kills_with_pumpkin",
       "SetID": "cmg602e",
       "Name": "Pum-King",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -566,7 +571,7 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 27
     }
@@ -575,7 +580,7 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
@@ -583,8 +588,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:03:37.7524278+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:02:14.9906485+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.3160105+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:58:33.8013739+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:03:37.7524643+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:55.6324759+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:02:14.9906868+00:00"
 }

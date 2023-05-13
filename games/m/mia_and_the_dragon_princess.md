@@ -10,18 +10,18 @@
 | Bathroom Brawler | 20.00% | ~7 |
 | Codebreaker | 17.00% | ~6 |
 | Explosive End | 17.00% | ~6 |
+| Puzzle Prodigy | 17.00% | ~6 |
 | Set Sail | 17.00% | ~6 |
 | Snitch | 17.00% | ~6 |
-| Puzzle Prodigy | 14.00% | ~5 |
-| A Box of Tricks | 11.00% | ~4 |
+| A Box of Tricks | 14.00% | ~5 |
 | Backstory Buff | 11.00% | ~4 |
+| Breathless End | 11.00% | ~4 |
 | Finger-Lickin' Bad | 11.00% | ~4 |
-| Breathless End | 9.00% | ~3 |
 | Flying High | 6.00% | ~2 |
 | Fool's Gold | 6.00% | ~2 |
 | Freedum Fighter | 3.00% | ~1 |
+| Key Keeper's Curse | 3.00% | ~1 |
 | Escape Artist | 0.00% | ~0 |
-| Key Keeper's Curse | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 198)  

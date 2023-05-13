@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1521,
+  "EOS_Progressed": 1522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1113,6 +1113,11 @@
       "Time": "2023-05-13T15:05:48.41407+00:00",
       "NumProgressed": 1521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T16:04:42.2465481+00:00",
+      "NumProgressed": 1522,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1124,7 +1129,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Achievement_002",
@@ -1180,7 +1185,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "Achievement_010",
@@ -1188,7 +1193,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Achievement_011",
@@ -1260,7 +1265,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "Achievement_020",
@@ -1276,7 +1281,7 @@
       "Name": "Radio Silence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Achievement_022",
@@ -1330,9 +1335,9 @@
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 167
     },
     {
       "ID": "Achievement_029",
@@ -1348,7 +1353,7 @@
       "Name": "ICU",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "Achievement_031",
@@ -1356,7 +1361,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "Achievement_032",
@@ -1372,7 +1377,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "Achievement_034",
@@ -1644,14 +1649,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1521,
+      "Progressed": 1522,
       "Completed": 0
     }
   ],
@@ -1659,8 +1664,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-13T11:57:46.4999243+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:05:48.4140687+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:04:42.2465476+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:58:01.8508805+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:05:48.4142032+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:32.2079051+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:04:42.246605+00:00"
 }

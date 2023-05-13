@@ -7,11 +7,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~487 |
-| Project Arena | 3.00% | ~365 |
+| Project Arena | 3.00% | ~366 |
 | Bloody Sport | 1.00% | ~122 |
 | The best strikes are the ones we avoid | 0.90% | ~110 |
+| The Hateful Pole Fighter | 0.80% | ~5,623 |
 | Qi Gong: Breath | 0.80% | ~5,623 |
-| The Hateful Pole Fighter | 0.70% | ~4,920 |
 | A Lady's Blood in the Snow | 0.70% | ~4,920 |
 | Lady Wing Chun | 0.70% | ~4,920 |
 | Furious Fists | 0.70% | ~4,920 |
@@ -49,15 +49,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Drunken Fighter | 0.20% | ~1,406 |
 | Martial Artist | 0.20% | ~1,406 |
 | Knowledge Greed | 0.20% | ~1,406 |
+| Healing Memory | 0.20% | ~1,406 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,406 |
 | The Pit Protector | 0.20% | ~1,406 |
 | Be like water my friend | 0.20% | ~1,406 |
 | Come Snap With Me | 0.20% | ~1,406 |
-| Healing Memory | 0.10% | ~703 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,878 (Ranked 15)  
+Progressed: 702,883 (Ranked 15)  
 Completed: 12,724 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 12,724 (1.81%) (Ranked 62)
 | 2023-05-10 | 702,799 | 12,720 |
 | 2023-05-11 | 702,825 | 12,721 |
 | 2023-05-12 | 702,858 | 12,723 |
-| 2023-05-13 | 702,878 | 12,724 |
+| 2023-05-13 | 702,883 | 12,724 |
 ## Awards
 Max (Great Boss Battles): 6,055  (Ranked 53)  
 Sum: 10,280 (Ranked 77)  

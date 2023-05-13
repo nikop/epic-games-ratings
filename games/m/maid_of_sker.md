@@ -13,7 +13,7 @@
 | Perfect Harmony! | 11.00% | ~15 |
 | Wales Interactive | 10.00% | ~13 |
 | Chief Butler | 8.00% | ~11 |
-| Bull in a China Shop | 6.00% | ~8 |
+| Bull in a China Shop | 7.00% | ~9 |
 | Sker Explorer | 4.00% | ~5 |
 | Ending on a High Note | 2.00% | ~3 |
 | Maids of Sker | 2.00% | ~3 |

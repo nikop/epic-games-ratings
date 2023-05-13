@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 99,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -306,6 +306,11 @@
       "Time": "2023-05-13T15:03:26.2049962+00:00",
       "NumProgressed": 96,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T16:02:05.4958826+00:00",
+      "NumProgressed": 99,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -403,9 +408,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "achMeat",
@@ -413,7 +418,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achSaveses",
@@ -435,9 +440,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "achVirus",
@@ -453,21 +458,21 @@
       "Name": "Witch \u2714",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 99,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:03:26.2049953+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:02:05.495882+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:07.9454664+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:57:21.73731+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:03:26.2050197+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:00.8213773+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:02:05.4958983+00:00"
 }

@@ -203,9 +203,9 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "backstory_buff",
@@ -227,9 +227,9 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "codebreaker",
@@ -299,17 +299,17 @@
       "ID": "key_keepers_curse",
       "SetID": "5anb57n",
       "Name": "Key Keeper\u0027s Curse",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "relight_my_cannon",
@@ -353,8 +353,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:05:47.0811546+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:04:41.0525384+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:59.9025038+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:58:19.1034676+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:05:47.0811771+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:44.521404+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:04:41.0525504+00:00"
 }

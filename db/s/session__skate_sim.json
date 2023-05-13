@@ -965,9 +965,9 @@
       "ID": "ACH_FASHIONISTA",
       "SetID": "72olkc5",
       "Name": "Fashionista",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -1293,8 +1293,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-11T17:59:26.7871412+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:05:42.2511999+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:04:36.9378045+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:59:22.1362845+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:05:42.2512409+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:58:34.5497402+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:04:36.9378378+00:00"
 }

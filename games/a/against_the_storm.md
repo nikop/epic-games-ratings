@@ -8,11 +8,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Marshlands | 1.00% | ~148 |
 | No Deaths | 1.00% | ~148 |
+| First Real Expedition | 0.90% | ~133 |
 | Overcoming Difficulty | 0.90% | ~133 |
 | Fertile Meadows | 0.90% | ~133 |
 | Coral Forest | 0.90% | ~133 |
 | The Scarlet Orchard | 0.90% | ~133 |
-| First Real Expedition | 0.80% | ~118 |
 | Taking Action | 0.80% | ~118 |
 | Like a Machine | 0.80% | ~118 |
 | Bandit Camp | 0.70% | ~103 |

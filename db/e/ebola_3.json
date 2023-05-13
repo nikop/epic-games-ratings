@@ -724,9 +724,9 @@
       "ID": "achCity",
       "SetID": "72gjli4",
       "Name": "City \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achCoinOne",
@@ -876,9 +876,9 @@
       "ID": "achMaikl",
       "SetID": "72gjli4",
       "Name": "Fraternal help \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achOsipovOne",
@@ -1061,8 +1061,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:06:29.3440377+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:05:16.7533952+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-13T15:00:34.9755103+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:06:29.3440887+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:59:31.9473267+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:05:16.7534368+00:00"
 }

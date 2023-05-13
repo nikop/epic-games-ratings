@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -3972,9 +3972,9 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 702878,
+  "EOS_Progressed": 702883,
   "EOS_Completed": 12724,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5682,6 +5682,11 @@
       "Time": "2023-05-13T15:06:10.2941633+00:00",
       "NumProgressed": 702878,
       "NumCompleted": 12724
+    },
+    {
+      "Time": "2023-05-13T16:05:00.7500839+00:00",
+      "NumProgressed": 702883,
+      "NumCompleted": 12724
     }
   ],
   "TotalAchievements": 50,
@@ -5707,9 +5712,9 @@
       "ID": "03_Vengeance_H2",
       "SetID": "adcm20g",
       "Name": "The Hateful Pole Fighter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4920
+      "UsersEstimate": 5623
     },
     {
       "ID": "04_Vengeance_H3",
@@ -5835,9 +5840,9 @@
       "ID": "19_Detective_H5",
       "SetID": "adcm20g",
       "Name": "Healing Memory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 703
+      "UsersEstimate": 1406
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -6029,7 +6034,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6092,21 +6097,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12179,
+      "Progressed": 12184,
       "Completed": 10088
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702878,
+      "Progressed": 702883,
       "Completed": 12724
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-13T07:59:09.4802526+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:06:10.2941624+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:05:00.7500834+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:59:17.127134+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:06:10.2942535+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:58:30.7778912+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:05:00.7501237+00:00"
 }

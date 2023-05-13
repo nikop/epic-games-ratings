@@ -2,7 +2,7 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 400,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -1764,10 +1764,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 938,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-05-13T15:58:59.9500505+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 940,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 938,
+  "NumberOfAwards": 940,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1799,7 +1805,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 94
+      "Count": 96
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1856,8 +1862,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-05-13T10:00:31.993536+00:00",
+  "LastChanged": "2023-05-13T15:58:59.9500501+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.0776553+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:59:54.0262189+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:04:42.8723769+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:58:59.950051+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:03:47.9211243+00:00"
 }

@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2325,
+  "EOS_Progressed": 2326,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
@@ -640,6 +640,11 @@
       "Time": "2023-05-11T18:06:39.4519841+00:00",
       "NumProgressed": 2325,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-05-13T16:05:10.9320483+00:00",
+      "NumProgressed": 2326,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 14,
@@ -667,7 +672,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH_CLIMBER",
@@ -755,14 +760,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 74,
       "XP": 35,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2325,
+      "Progressed": 2326,
       "Completed": 89
     }
   ],
@@ -770,8 +775,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-12T22:01:09.3840523+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:06:22.2051622+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:05:10.9320478+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:11.6755878+00:00",
-  "LastUpdate_Ratings": "2023-05-13T15:00:38.653376+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:06:22.2051828+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:59:34.798773+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:05:10.9320589+00:00"
 }

@@ -122,9 +122,9 @@
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Powerball Badge",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_EXPERT_ID",
@@ -176,8 +176,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:05:32.8713536+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:04:28.8893806+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:57:26.2533981+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:05:32.8713653+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:03.8777143+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:04:28.8893874+00:00"
 }

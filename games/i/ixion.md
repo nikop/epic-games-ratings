@@ -34,6 +34,7 @@ Rating: 4.54 (Ranked 477)
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | ...  in a finite world | 0.20% | ~4 |
+| Praise the Hull! | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
@@ -43,7 +44,6 @@ Rating: 4.54 (Ranked 477)
 | Oats | 0.10% | ~2 |
 | Sustainable Energy | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
-| Praise the Hull! | 0.10% | ~2 |
 | Necessary Enhancement | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Space Greenhouse | 0.10% | ~2 |

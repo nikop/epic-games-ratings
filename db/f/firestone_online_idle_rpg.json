@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 995,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1517,6 +1517,11 @@
       "Time": "2023-05-13T15:05:59.1913511+00:00",
       "NumProgressed": 994,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T16:04:51.0840908+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1640,7 +1645,7 @@
       "Name": "Dragon Master",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "dragonslayer",
@@ -1696,7 +1701,7 @@
       "Name": "Enlightenment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "exoticmerchant",
@@ -1824,7 +1829,7 @@
       "Name": "Lieutenant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "lockandload",
@@ -1926,9 +1931,9 @@
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 189
     },
     {
       "ID": "relicofthepast",
@@ -2088,7 +2093,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "warmachinesarmy",
@@ -2120,14 +2125,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 1
     }
   ],
@@ -2135,8 +2140,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:05:59.1913503+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:04:51.0840903+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:58:13.5794645+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:05:59.1914512+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:39.7826377+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:04:51.0841588+00:00"
 }

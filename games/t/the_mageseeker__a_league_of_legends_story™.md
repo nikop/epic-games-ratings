@@ -5,15 +5,15 @@ Rating: 4.72 (Ranked 164)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,881 |
-| No more cages! | 92.00% | ~1,822 |
+| For Demacia | 95.00% | ~1,882 |
+| No more cages! | 92.00% | ~1,823 |
 | Everfrost | 77.00% | ~1,525 |
-| Pentakill | 76.00% | ~1,505 |
-| Dark Forest | 76.00% | ~1,505 |
+| Pentakill | 76.00% | ~1,506 |
+| Dark Forest | 76.00% | ~1,506 |
 | The use of petricite | 72.00% | ~1,426 |
-| You can pet the dog | 60.00% | ~1,188 |
-| Big Helmet Bro | 34.00% | ~673 |
-| Clarion Cove | 34.00% | ~673 |
+| You can pet the dog | 60.00% | ~1,189 |
+| Big Helmet Bro | 34.00% | ~674 |
+| Clarion Cove | 34.00% | ~674 |
 | Past trauma | 32.00% | ~634 |
 | Thornbarrow | 32.00% | ~634 |
 | Ternmoat Headquarters | 32.00% | ~634 |
@@ -28,15 +28,15 @@ Rating: 4.72 (Ranked 164)
 | Ancient power | 22.00% | ~436 |
 | Sacred Woods | 21.00% | ~416 |
 | Capelworth | 19.00% | ~376 |
-| Little light | 18.00% | ~356 |
-| Iffighain Headquarters | 18.00% | ~356 |
+| Little light | 18.00% | ~357 |
+| Iffighain Headquarters | 18.00% | ~357 |
 | Glyndemere | 17.00% | ~337 |
 | Full equipped | 17.00% | ~337 |
 | Whispers in the Woods II | 15.00% | ~297 |
 | No more holding back | 14.00% | ~277 |
 | Quickmoore Headquarters | 14.00% | ~277 |
-| Whispers in the Woods III | 13.00% | ~257 |
-| Terbisia | 13.00% | ~257 |
+| Whispers in the Woods III | 13.00% | ~258 |
+| Terbisia | 13.00% | ~258 |
 | My heart and sword always for Demacia | 12.00% | ~238 |
 | Friendly fire | 12.00% | ~238 |
 | True power | 12.00% | ~238 |
@@ -57,9 +57,9 @@ Rating: 4.72 (Ranked 164)
 | Spellcrafting | 7.00% | ~139 |
 | The great mage rebellion starts now | 6.00% | ~119 |
 | Silverwing nest | 2.00% | ~40 |
-| The Unshackled | 0.50% | ~10 |
+| The Unshackled | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,980 (Ranked 143)  
+Progressed: 1,981 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.05%) (Ranked 171)
 | 2023-05-10 | 1,950 | 1 |
 | 2023-05-11 | 1,962 | 1 |
 | 2023-05-12 | 1,972 | 1 |
-| 2023-05-13 | 1,980 | 1 |
+| 2023-05-13 | 1,981 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

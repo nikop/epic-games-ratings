@@ -750,7 +750,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5630,
+  "EOS_Progressed": 5632,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -1970,6 +1970,11 @@
       "Time": "2023-05-13T15:03:29.2876771+00:00",
       "NumProgressed": 5630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T16:02:08.0946593+00:00",
+      "NumProgressed": 5632,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2021,7 +2026,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3547
+      "UsersEstimate": 3548
     },
     {
       "ID": "Control_All_Relics",
@@ -2045,7 +2050,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2061,7 +2066,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "First_Major_Ally",
@@ -2085,7 +2090,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4448
+      "UsersEstimate": 4449
     },
     {
       "ID": "First_Race_Met",
@@ -2093,7 +2098,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4110
+      "UsersEstimate": 4111
     },
     {
       "ID": "First_Ship_Designed",
@@ -2117,7 +2122,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4393
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2197,7 +2202,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "Play_1000_Hours",
@@ -2301,7 +2306,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2317,7 +2322,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "War_Without_Translator",
@@ -2469,7 +2474,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2477,7 +2482,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "Win_Conquest",
@@ -2556,15 +2561,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5630,
+      "Progressed": 5632,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-13T13:57:10.2538669+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:03:29.2876763+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:02:08.0946589+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:57:30.9485633+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:03:29.2877681+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:57:07.4200246+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:02:08.0947372+00:00"
 }

@@ -121,33 +121,33 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Headshots_1",
@@ -193,9 +193,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SecretEnding",
@@ -266,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-05-13T15:06:03.2948943+00:00",
+  "LastChanged_Achievements": "2023-05-13T16:04:54.6170441+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:55.4665279+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:59:17.1921533+00:00",
-  "LastUpdate_Achievements": "2023-05-13T15:06:03.2949238+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:58:30.853467+00:00",
+  "LastUpdate_Achievements": "2023-05-13T16:04:54.6170569+00:00"
 }
