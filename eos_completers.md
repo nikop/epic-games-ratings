@@ -19,7 +19,7 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.40% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.24% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.76% |
@@ -51,8 +51,8 @@
 | 49 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
-| 52 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.86% |
 | 52 | [ZZT!](games/z/zzt!.md) | 2.86% |
+| 53 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.78% |
 | 54 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.67% |
@@ -70,9 +70,9 @@
 | 68 | [Somerville](games/s/somerville.md) | 1.61% |
 | 69 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
-| 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.52% |
-| 72 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
+| 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 72 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
+| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 75 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.32% |
@@ -148,10 +148,10 @@
 | 146 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 146 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 146 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 149 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
 | 149 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 149 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 151 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
-| 151 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
+| 152 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 153 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 154 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 154 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
