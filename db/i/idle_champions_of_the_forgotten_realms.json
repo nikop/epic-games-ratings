@@ -3670,9 +3670,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87391,
+  "EOS_Progressed": 87395,
   "EOS_Completed": 1835,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5770,6 +5770,11 @@
       "Time": "2023-05-13T18:06:33.3368762+00:00",
       "NumProgressed": 87391,
       "NumCompleted": 1835
+    },
+    {
+      "Time": "2023-05-13T19:06:36.015397+00:00",
+      "NumProgressed": 87395,
+      "NumCompleted": 1835
     }
   ],
   "TotalAchievements": 489,
@@ -6907,9 +6912,9 @@
       "ID": "objective_completed_150",
       "SetID": "cc37lbc",
       "Name": "Periodic Petrification",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_151",
@@ -7963,9 +7968,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_546",
@@ -9692,21 +9697,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53665,
+      "Progressed": 53669,
       "Completed": 2502
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87391,
+      "Progressed": 87395,
       "Completed": 1835
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-13T13:00:56.2777344+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:06:33.3368758+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:06:36.0153966+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:58:04.9759865+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:06:33.3391287+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:58:08.4828694+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:06:36.0175467+00:00"
 }

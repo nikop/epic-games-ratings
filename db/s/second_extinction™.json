@@ -2,12 +2,12 @@
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
   "ProductSlug": "second-extinction",
-  "Ranking_Rating": 871,
+  "Ranking_Rating": 872,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-30T12:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.06,
+  "Rating": 4.05,
   "NumberOfRatings": 617,
   "RatingHistory": [
     {
@@ -932,10 +932,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 459,
       "NumberOfAwardsMax": 408
+    },
+    {
+      "Time": "2023-05-13T18:59:35.0023416+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 460,
+      "NumberOfAwardsMax": 408
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 459,
+  "NumberOfAwards": 460,
   "NumberOfAwardsMax": 408,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -949,7 +955,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Diverse Characters",
@@ -977,9 +983,9 @@
   ],
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
-  "LastChanged": "2023-05-12T23:59:26.0137975+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:05:58.5553505+00:00",
+  "LastChanged": "2023-05-13T18:59:35.0023414+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:06:00.7216486+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:13.3486605+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:59:29.4379329+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:05:58.5553531+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:59:35.0023419+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:06:00.7216505+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,717 |
-| Thorough | 9.00% | ~15,045 |
-| A thief's beginning | 7.00% | ~11,702 |
-| Tanuki Time | 7.00% | ~11,702 |
-| Disguised | 6.00% | ~10,030 |
-| Jonin | 6.00% | ~10,030 |
-| Rescue Takuma | 6.00% | ~10,030 |
-| Rollin' | 6.00% | ~10,030 |
-| Chunin | 5.00% | ~8,358 |
-| Ice Ice Yuki | 5.00% | ~8,358 |
-| Mugen Unchained | 5.00% | ~8,358 |
-| Stoned Ox | 5.00% | ~8,358 |
-| Yabu | 5.00% | ~8,358 |
+| Genin | 10.00% | ~16,718 |
+| Thorough | 9.00% | ~15,046 |
+| A thief's beginning | 7.00% | ~11,703 |
+| Tanuki Time | 7.00% | ~11,703 |
+| Disguised | 6.00% | ~10,031 |
+| Jonin | 6.00% | ~10,031 |
+| Rescue Takuma | 6.00% | ~10,031 |
+| Rollin' | 6.00% | ~10,031 |
+| Chunin | 5.00% | ~8,359 |
+| Ice Ice Yuki | 5.00% | ~8,359 |
+| Mugen Unchained | 5.00% | ~8,359 |
+| Stoned Ox | 5.00% | ~8,359 |
+| Yabu | 5.00% | ~8,359 |
 | Flying Rocks | 4.00% | ~6,687 |
 | Happy Planning | 4.00% | ~6,687 |
 | Okkoto | 4.00% | ~6,687 |
@@ -30,14 +30,14 @@ Number of Ratings: 495  (23.09.2022)
 | Still Rollin' | 3.00% | ~5,015 |
 | Stoned | 3.00% | ~5,015 |
 | Too Early | 3.00% | ~5,015 |
-| It's raining men | 2.00% | ~3,343 |
-| The Old Way | 2.00% | ~3,343 |
+| It's raining men | 2.00% | ~3,344 |
+| The Old Way | 2.00% | ~3,344 |
+| Winner Winner | 2.00% | ~3,344 |
 | Atheist Ox | 1.00% | ~1,672 |
 | Meticulous | 1.00% | ~1,672 |
 | No Gimmicks | 1.00% | ~1,672 |
 | Old Man | 1.00% | ~1,672 |
 | The End | 1.00% | ~1,672 |
-| Winner Winner | 1.00% | ~1,672 |
 | Undeserved Honor | 0.80% | ~1,337 |
 | When Cut Across the Neck | 0.70% | ~1,170 |
 | High Five the Moon | 0.60% | ~1,003 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~167 |
 | Release the Kraken | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,169 (Ranked 50)  
+Progressed: 167,181 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 41 (0.02%) (Ranked 183)
 | 2023-05-10 | 166,348 | 41 |
 | 2023-05-11 | 166,606 | 41 |
 | 2023-05-12 | 166,883 | 41 |
-| 2023-05-13 | 167,169 | 41 |
+| 2023-05-13 | 167,181 | 41 |
 ## Awards
 Max (Great for Beginners): 548  (Ranked 173)  
 Sum: 4,657 (Ranked 125)  

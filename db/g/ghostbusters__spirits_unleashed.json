@@ -990,9 +990,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21747,
+  "EOS_Progressed": 21748,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2545,6 +2545,11 @@
       "Time": "2023-05-13T18:06:06.8086659+00:00",
       "NumProgressed": 21747,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-13T19:06:08.9790683+00:00",
+      "NumProgressed": 21748,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 51,
@@ -2556,7 +2561,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16093
+      "UsersEstimate": 16094
     },
     {
       "ID": "Animated",
@@ -2604,7 +2609,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11308
+      "UsersEstimate": 11309
     },
     {
       "ID": "Collector",
@@ -2660,7 +2665,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5219
+      "UsersEstimate": 5220
     },
     {
       "ID": "Efficient",
@@ -2780,7 +2785,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3915
     },
     {
       "ID": "Rift_Destroyer",
@@ -2788,7 +2793,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "Rift_Seeker",
@@ -2860,7 +2865,7 @@
       "Name": "Stylish",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 18920
+      "UsersEstimate": 18921
     },
     {
       "ID": "Summoner",
@@ -2884,7 +2889,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12178
+      "UsersEstimate": 12179
     },
     {
       "ID": "Teamwork",
@@ -2892,7 +2897,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "Terrifying",
@@ -2940,7 +2945,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10656
+      "UsersEstimate": 10657
     },
     {
       "ID": "Welcome_Crew",
@@ -2963,7 +2968,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21747,
+      "Progressed": 21748,
       "Completed": 39
     }
   ],
@@ -2971,8 +2976,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-13T17:59:02.7983989+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:06:06.8086655+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:06:08.979068+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:59:02.7983996+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:06:06.808707+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:59:06.9437233+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:06:08.9791076+00:00"
 }

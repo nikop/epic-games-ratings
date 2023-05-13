@@ -4,10 +4,10 @@
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
   "Ranking_Rating": 55,
   "Ranking_Popularity": 346,
-  "Ranking_PopularitySum": 268,
+  "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-09-04T01:00:00+00:00",
@@ -1247,10 +1247,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 651,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2023-05-13T18:59:55.1850714+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 652,
+      "NumberOfAwardsMax": 82
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 651,
+  "NumberOfAwards": 652,
   "NumberOfAwardsMax": 82,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1270,7 +1276,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1344,8 +1350,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2023-05-10T01:56:28.0761178+00:00",
+  "LastChanged": "2023-05-13T18:59:55.1850713+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5324969+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:59:49.0992494+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:04:40.3530956+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:59:55.1850717+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:04:43.0610258+00:00"
 }

@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 621,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
@@ -1348,9 +1348,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 168
     },
     {
       "ID": "41",
@@ -1452,9 +1452,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 379
     },
     {
       "ID": "8",
@@ -1485,8 +1485,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:05:37.9918514+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:05:40.2188885+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:57:24.5851535+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:05:37.9918974+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:57:28.3406434+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:05:40.2189268+00:00"
 }

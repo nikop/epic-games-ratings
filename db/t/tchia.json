@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5704,
+  "EOS_Progressed": 5705,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2023-05-13T17:05:14.0480812+00:00",
       "NumProgressed": 5704,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-13T19:05:42.5517883+00:00",
+      "NumProgressed": 5705,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1457,7 +1462,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1537,7 +1542,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "THING",
@@ -1552,7 +1557,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5704,
+      "Progressed": 5705,
       "Completed": 20
     }
   ],
@@ -1560,8 +1565,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-12T16:58:00.7751461+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:05:40.2531296+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:05:42.5517879+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:57:58.5655393+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:05:40.2531477+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:58:01.5141545+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:05:42.551806+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 636)  
 ## Awards
-Max (Highly Recommended): 28  (Ranked 452)  
-Sum: 174 (Ranked 363)  
-Diff (max vs sum): 89  
+Max (Highly Recommended): 29  (Ranked 449)  
+Sum: 175 (Ranked 363)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 28 |
+| This game is Highly Recommended | 29 |
 | This game has Great Boss Battles | 27 |
 | This game is Extremely Fun | 26 |
 | This game is Relaxing | 26 |
@@ -77,4 +77,4 @@ Diff (max vs sum): 89
 | 2023-05-08 | 4.43 | 28 | 170 |
 | 2023-05-11 | 4.43 | 28 | 172 |
 | 2023-05-12 | 4.43 | 28 | 173 |
-| 2023-05-13 | 4.43 | 28 | 174 |
+| 2023-05-13 | 4.43 | 29 | 175 |

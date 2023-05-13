@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1923,
+  "EOS_Progressed": 1924,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2023-05-13T18:06:22.4728845+00:00",
       "NumProgressed": 1923,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-13T19:06:24.666093+00:00",
+      "NumProgressed": 1924,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -371,7 +376,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "complete_act_three",
@@ -387,7 +392,7 @@
       "Name": "The Second Law of Thermodynamics",
       "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "complete_tutorial",
@@ -395,7 +400,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "deal_damage",
@@ -411,7 +416,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "defeat_tree_dummy",
@@ -443,7 +448,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "reach_high_heat",
@@ -459,7 +464,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "save_planet_bestfriend",
@@ -475,7 +480,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "stick_decoy",
@@ -506,7 +511,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1923,
+      "Progressed": 1924,
       "Completed": 8
     }
   ],
@@ -514,8 +519,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:06:22.4728842+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:06:24.6660926+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:12.4998547+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:00:37.6951091+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:06:22.4728974+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:00:43.2384359+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:06:24.6661049+00:00"
 }

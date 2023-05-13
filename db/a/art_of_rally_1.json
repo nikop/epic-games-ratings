@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9993,
+  "EOS_Progressed": 9994,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -371,6 +371,11 @@
       "Time": "2023-05-12T20:04:43.5312476+00:00",
       "NumProgressed": 9993,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-13T19:05:39.2650183+00:00",
+      "NumProgressed": 9994,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -486,7 +491,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -590,7 +595,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5596
+      "UsersEstimate": 5597
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -606,7 +611,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9593
+      "UsersEstimate": 9594
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -670,7 +675,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "ACH_SNOW",
@@ -686,7 +691,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -718,22 +723,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7195
+      "UsersEstimate": 7196
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 9993,
+      "Progressed": 9994,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:05:36.8182524+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:05:39.265018+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:20.3856718+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:57:19.8806358+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:05:36.8182933+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:57:23.4594176+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:05:39.2650464+00:00"
 }

@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.30% | ~262 |
 | Useless Allies | 0.30% | ~262 |
 | Premature Betrayal | 0.30% | ~262 |
+| The Dead Three | 0.30% | ~262 |
 | Flying Monkey Skulls of Doom | 0.30% | ~262 |
 | Running of the Saurs | 0.30% | ~262 |
 | An Even Worse Time in Avernus | 0.30% | ~161 |
@@ -120,6 +121,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~107 |
 | Welcome to the Rock | 0.20% | ~107 |
 | The Forbidden City | 0.20% | ~175 |
+| Periodic Petrification | 0.20% | ~175 |
 | Captured! | 0.20% | ~175 |
 | Home Field Advantage | 0.20% | ~175 |
 | Double Vision | 0.20% | ~175 |
@@ -168,7 +170,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks in Lurkwood | 0.20% | ~175 |
 | A Tale of Two Cities | 0.20% | ~175 |
 | A Tale of Two Fiends | 0.20% | ~175 |
-| The Dead Three | 0.20% | ~175 |
 | Slow and Steady | 0.20% | ~175 |
 | A Hero's Entourage | 0.20% | ~175 |
 | Lair of the Xanathar | 0.20% | ~175 |
@@ -295,7 +296,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~54 |
 | Anchors Aweigh | 0.10% | ~54 |
 | Welcome to the Band | 0.10% | ~54 |
-| Periodic Petrification | 0.10% | ~87 |
 | No Good at All | 0.10% | ~87 |
 | Fall From Grace | 0.10% | ~87 |
 | Underground Railroad | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,391 (Ranked 59)  
+Progressed: 87,395 (Ranked 59)  
 Completed: 1,835 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,835 (2.10%) (Ranked 61)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,391 | 1,835 |
+| 2023-05-13 | 87,395 | 1,835 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,870 (Ranked 37)  

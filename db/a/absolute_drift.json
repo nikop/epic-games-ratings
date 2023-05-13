@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516090,
+  "EOS_Progressed": 1516104,
   "EOS_Completed": 602,
-  "EOS_NewPlayers": 1408,
+  "EOS_NewPlayers": 1409,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2580,6 +2580,11 @@
       "Time": "2023-05-13T18:06:16.4724979+00:00",
       "NumProgressed": 1516090,
       "NumCompleted": 602
+    },
+    {
+      "Time": "2023-05-13T19:06:18.5326445+00:00",
+      "NumProgressed": 1516104,
+      "NumCompleted": 602
     }
   ],
   "TotalAchievements": 20,
@@ -2591,7 +2596,7 @@
       "Name": "Bacon Donuts",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 7580
+      "UsersEstimate": 7581
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
@@ -2599,7 +2604,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106126
+      "UsersEstimate": 106127
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -2615,7 +2620,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7580
+      "UsersEstimate": 7581
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -2639,7 +2644,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136448
+      "UsersEstimate": 136449
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -2687,7 +2692,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151609
+      "UsersEstimate": 151610
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -2703,7 +2708,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121287
+      "UsersEstimate": 121288
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -2735,7 +2740,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75804
+      "UsersEstimate": 75805
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -2750,15 +2755,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1516090,
+      "Progressed": 1516104,
       "Completed": 602
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:06:16.4724975+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:06:18.5326441+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.7394244+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:00:22.7651946+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:06:16.4725202+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:00:29.3123854+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:06:18.5326659+00:00"
 }

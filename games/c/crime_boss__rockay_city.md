@@ -5,28 +5,28 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,801 |
-| First One’s Free | 65.00% | ~39,001 |
-| Neophyte Ninja | 50.00% | ~30,001 |
-| Too Old for This | 47.00% | ~28,201 |
-| Fancy Pants | 35.00% | ~21,001 |
-| Case Closed | 34.00% | ~20,401 |
-| King of the Hill | 33.00% | ~19,801 |
-| Underworld Initiate | 29.00% | ~17,401 |
-| Roid Ranger | 21.00% | ~12,600 |
-| True Player | 19.00% | ~11,400 |
-| Off the Rocks | 18.00% | ~10,800 |
-| Raider’s Ruin | 16.00% | ~9,600 |
-| Dragonslayer | 16.00% | ~9,600 |
-| Hidden Sonata | 13.00% | ~7,800 |
-| Classy Joint | 10.00% | ~6,000 |
-| Rockay Rex | 10.00% | ~6,000 |
-| Track Star | 9.00% | ~5,400 |
-| Freebooter | 9.00% | ~5,400 |
-| I Like Trains | 8.00% | ~4,800 |
-| Headhunter | 8.00% | ~4,800 |
-| Ding Dong | 8.00% | ~4,800 |
-| Foo Finder | 7.00% | ~4,200 |
+| Downed but Not Outed | 73.00% | ~43,807 |
+| First One’s Free | 65.00% | ~39,006 |
+| Neophyte Ninja | 50.00% | ~30,004 |
+| Too Old for This | 47.00% | ~28,204 |
+| Fancy Pants | 35.00% | ~21,003 |
+| Case Closed | 34.00% | ~20,403 |
+| King of the Hill | 33.00% | ~19,803 |
+| Underworld Initiate | 29.00% | ~17,403 |
+| Roid Ranger | 21.00% | ~12,602 |
+| True Player | 19.00% | ~11,402 |
+| Off the Rocks | 18.00% | ~10,802 |
+| Raider’s Ruin | 16.00% | ~9,601 |
+| Dragonslayer | 16.00% | ~9,601 |
+| Hidden Sonata | 13.00% | ~7,801 |
+| Classy Joint | 10.00% | ~6,001 |
+| Rockay Rex | 10.00% | ~6,001 |
+| Track Star | 9.00% | ~5,401 |
+| Freebooter | 9.00% | ~5,401 |
+| I Like Trains | 8.00% | ~4,801 |
+| Headhunter | 8.00% | ~4,801 |
+| Ding Dong | 8.00% | ~4,801 |
+| Foo Finder | 7.00% | ~4,201 |
 | Legend Looter | 5.00% | ~3,000 |
 | Savvy Seeker | 5.00% | ~3,000 |
 | Imports and Exports | 4.00% | ~2,400 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~300 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,002 (Ranked 68)  
+Progressed: 60,009 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 29 (0.05%) (Ranked 172)
 | 2023-05-10 | 59,655 | 28 |
 | 2023-05-11 | 59,781 | 29 |
 | 2023-05-12 | 59,889 | 29 |
-| 2023-05-13 | 60,002 | 29 |
+| 2023-05-13 | 60,009 | 29 |
 ## Awards
 Max (Highly Recommended): 260  (Ranked 237)  
 Sum: 1,219 (Ranked 219)  

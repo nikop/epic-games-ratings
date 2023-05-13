@@ -4,10 +4,10 @@
   "ProductSlug": "the-messenger",
   "Ranking_Rating": 78,
   "Ranking_Popularity": 222,
-  "Ranking_PopularitySum": 311,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2019-11-14T16:00:00+00:00",
@@ -613,6 +613,6 @@
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
   "LastChanged": "2023-05-11T17:00:40.5375819+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:06.6358955+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:00:30.4224907+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:05:07.067864+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:00:35.9036341+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:05:09.350968+00:00"
 }

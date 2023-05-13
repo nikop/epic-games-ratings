@@ -20,9 +20,9 @@ Rating: 4.54 (Ranked 477)
 | Ain't Nobody Got Time for That | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |
 | Exceeding Capacity | 0.60% | ~11 |
+| Power Outage | 0.60% | ~11 |
 | Convenient Transport | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~9 |
-| Power Outage | 0.50% | ~9 |
 | A Hunk of Junk | 0.40% | ~8 |
 | Please Make it Stop! | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |

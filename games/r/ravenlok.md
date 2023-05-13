@@ -11,7 +11,7 @@
 | Sword, Shield, Fight! | 76.00% | ~472 |
 | A Grand Visit | 71.00% | ~441 |
 | Vibing | 61.00% | ~379 |
-| Fun Guy | 60.00% | ~373 |
+| Fun Guy | 61.00% | ~379 |
 | Tragic Brave | 52.00% | ~323 |
 | Awakened Spirits | 48.00% | ~298 |
 | Little Shop | 47.00% | ~292 |
@@ -47,7 +47,7 @@
 | Spot of Tea? | 29.00% | ~180 |
 | Going Home | 29.00% | ~180 |
 | Extraordinary! | 28.00% | ~174 |
-| Mirror, Mirror | 26.00% | ~161 |
+| Mirror, Mirror | 27.00% | ~168 |
 | Flower Power | 24.00% | ~149 |
 | Crowned | 21.00% | ~130 |
 | Shopping Spree! | 20.00% | ~124 |

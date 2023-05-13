@@ -36,8 +36,8 @@
 | Island 30 | 25.00% | ~8 |
 | Island 31 | 25.00% | ~8 |
 | Island 32 | 22.00% | ~7 |
-| Island 33 | 19.00% | ~6 |
-| Island 34 | 19.00% | ~6 |
+| Island 33 | 22.00% | ~7 |
+| Island 34 | 22.00% | ~7 |
 | Island 35 | 19.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 32 (Ranked 289)  

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -2258,9 +2258,9 @@
       "Count": 303
     }
   ],
-  "EOS_Progressed": 14785,
+  "EOS_Progressed": 14786,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3403,6 +3403,11 @@
       "Time": "2023-05-13T18:06:26.3200413+00:00",
       "NumProgressed": 14785,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-13T19:06:28.6495019+00:00",
+      "NumProgressed": 14786,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3534,7 +3539,7 @@
       "Name": "Bandit Camp",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearBarren",
@@ -3542,15 +3547,15 @@
       "Name": "Barren Lands",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearCrystals",
@@ -3638,7 +3643,7 @@
       "Name": "Lost Colonies",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearStatue",
@@ -3700,9 +3705,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 148
     },
     {
       "ID": "WinPrestige10",
@@ -3813,15 +3818,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14785,
+      "Progressed": 14786,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-13T13:02:57.3510292+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:06:26.3200409+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:06:28.6495014+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:00:16.4305536+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:06:26.3200799+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:00:23.0585305+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:06:28.6495472+00:00"
 }

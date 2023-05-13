@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 20410,
+  "EOS_Progressed": 20421,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1118,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2316,6 +2316,11 @@
       "Time": "2023-05-13T18:06:16.2590066+00:00",
       "NumProgressed": 20410,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-13T19:06:18.3060767+00:00",
+      "NumProgressed": 20421,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2327,7 +2332,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -2335,7 +2340,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4084
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2343,7 +2348,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -2365,9 +2370,9 @@
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
       "SetID": "443p4o4",
       "Name": "Down Boy!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -2399,7 +2404,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -2471,7 +2476,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -2503,7 +2508,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -2511,7 +2516,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -2558,7 +2563,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 20410,
+      "Progressed": 20421,
       "Completed": 16
     }
   ],
@@ -2566,8 +2571,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-13T18:06:16.2590062+00:00",
+  "LastChanged_Achievements": "2023-05-13T19:06:18.3060763+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:00:14.9160433+00:00",
-  "LastUpdate_Achievements": "2023-05-13T18:06:16.2590325+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:00:21.6015856+00:00",
+  "LastUpdate_Achievements": "2023-05-13T19:06:18.3061001+00:00"
 }
