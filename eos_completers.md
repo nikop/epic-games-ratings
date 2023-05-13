@@ -19,7 +19,7 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.41% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
@@ -29,8 +29,8 @@
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
-| 30 | [Them and Us](games/t/them_and_us.md) | 5.00% |
-| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
+| 31 | [Them and Us](games/t/them_and_us.md) | 4.76% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
 | 34 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
@@ -50,8 +50,8 @@
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 49 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
-| 50 | [ZZT!](games/z/zzt!.md) | 2.88% |
-| 52 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
+| 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.87% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
