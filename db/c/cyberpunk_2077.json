@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -5699,9 +5699,9 @@
       "Count": 4701
     }
   ],
-  "EOS_Progressed": 799337,
+  "EOS_Progressed": 799340,
   "EOS_Completed": 1592,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1247,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -7734,6 +7734,11 @@
       "Time": "2023-05-12T23:05:20.2583578+00:00",
       "NumProgressed": 799337,
       "NumCompleted": 1592
+    },
+    {
+      "Time": "2023-05-13T00:05:28.156607+00:00",
+      "NumProgressed": 799340,
+      "NumCompleted": 1592
     }
   ],
   "TotalAchievements": 44,
@@ -7769,7 +7774,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 135887
+      "UsersEstimate": 135888
     },
     {
       "ID": "Denied",
@@ -7777,7 +7782,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295755
+      "UsersEstimate": 295756
     },
     {
       "ID": "FollowingTheRiver",
@@ -7793,7 +7798,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 71940
+      "UsersEstimate": 71941
     },
     {
       "ID": "Gearhead",
@@ -7873,7 +7878,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 71940
+      "UsersEstimate": 71941
     },
     {
       "ID": "MustBeTheRats",
@@ -7881,7 +7886,7 @@
       "Name": "Must Be Rats",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31973
+      "UsersEstimate": 31974
     },
     {
       "ID": "NeverFadeAway",
@@ -7913,7 +7918,7 @@
       "Name": "Life of the Road",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 151874
+      "UsersEstimate": 151875
     },
     {
       "ID": "Roleplayer",
@@ -7921,7 +7926,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215821
+      "UsersEstimate": 215822
     },
     {
       "ID": "Specialist",
@@ -7937,7 +7942,7 @@
       "Name": "Temperance",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31973
+      "UsersEstimate": 31974
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -7961,7 +7966,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535556
+      "UsersEstimate": 535558
     },
     {
       "ID": "TheHermit",
@@ -7977,7 +7982,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159867
+      "UsersEstimate": 159868
     },
     {
       "ID": "TheLovers",
@@ -7985,7 +7990,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255788
+      "UsersEstimate": 255789
     },
     {
       "ID": "TheStar",
@@ -8009,7 +8014,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199834
+      "UsersEstimate": 199835
     },
     {
       "ID": "TheWorld",
@@ -8041,7 +8046,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175854
+      "UsersEstimate": 175855
     },
     {
       "ID": "TrueWarrior",
@@ -8049,7 +8054,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 111907
+      "UsersEstimate": 111908
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -8096,15 +8101,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799337,
+      "Progressed": 799340,
       "Completed": 1592
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-05-12T22:57:46.0374663+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:05:20.2583573+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:05:28.1566063+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.285145+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:57:46.0374675+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:05:20.2584068+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:57:49.2667276+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:05:28.1566662+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -444,6 +444,11 @@
       "Time": "2023-05-12T18:08:15.0302622+00:00",
       "NumProgressed": 707,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-13T00:05:32.6052822+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -591,7 +596,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -623,7 +628,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -695,7 +700,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -847,7 +852,7 @@
       "Name": "Target America",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -863,7 +868,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -951,7 +956,7 @@
       "Name": "Siegebreaker",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -959,7 +964,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -998,13 +1003,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 2
     }
   ],
@@ -1012,8 +1017,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:05:24.6683602+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:05:32.6052817+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-12T23:00:39.1370245+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:05:24.6684287+00:00"
+  "LastUpdate_Ratings": "2023-05-13T00:00:39.6749701+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:05:32.6053635+00:00"
 }

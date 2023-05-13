@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 980,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
@@ -1472,6 +1472,11 @@
       "Time": "2023-05-12T23:05:38.7165816+00:00",
       "NumProgressed": 979,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T00:05:46.7992585+00:00",
+      "NumProgressed": 980,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1691,7 +1696,7 @@
       "Name": "Full Party",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "gearenchanting",
@@ -1731,7 +1736,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "howdoyouturnthison",
@@ -1833,9 +1838,9 @@
       "ID": "movinguptheladder",
       "SetID": "3nl4bcg",
       "Name": "Moving Up The Ladder",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "mysteriousrock",
@@ -1875,7 +1880,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "prestigiousx10",
@@ -1939,7 +1944,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "thealchemist",
@@ -1971,7 +1976,7 @@
       "Name": "The game is on",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "thepowerofawakening",
@@ -2043,7 +2048,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "warmachinesarmy",
@@ -2075,14 +2080,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 980,
       "Completed": 1
     }
   ],
@@ -2090,8 +2095,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:05:38.7165801+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:05:46.799258+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:58:02.6263717+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:05:38.7166696+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:58:04.9457176+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:05:46.7993618+00:00"
 }

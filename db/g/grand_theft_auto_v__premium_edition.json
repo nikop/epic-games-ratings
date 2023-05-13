@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
@@ -4796,10 +4796,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1335260,
       "NumberOfAwardsMax": 168716
+    },
+    {
+      "Time": "2023-05-13T00:00:18.2973021+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1336059,
+      "NumberOfAwardsMax": 168716
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1335260,
+  "NumberOfAwards": 1336059,
   "NumberOfAwardsMax": 168716,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4807,7 +4813,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 151909
+      "Count": 152199
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4825,7 +4831,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 142811
+      "Count": 143075
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4843,7 +4849,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 146699
+      "Count": 146944
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4875,8 +4881,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-05-12T23:00:15.6201949+00:00",
+  "LastChanged": "2023-05-13T00:00:18.297302+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.7039954+00:00",
-  "LastUpdate_Ratings": "2023-05-12T23:00:15.6201956+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:03:38.7424072+00:00"
+  "LastUpdate_Ratings": "2023-05-13T00:00:18.2973026+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:03:36.7337413+00:00"
 }

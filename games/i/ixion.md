@@ -10,7 +10,7 @@ Rating: 4.54 (Ranked 477)
 | Infinite Growth... | 1.00% | ~19 |
 | Sputnik 2049 | 1.00% | ~19 |
 | Ready for a New World | 0.90% | ~17 |
-| Guy de Borderlands | 0.70% | ~13 |
+| Guy de Borderlands | 0.80% | ~15 |
 | A Thousand Strong | 0.70% | ~13 |
 | Fully Recycled | 0.70% | ~13 |
 | Breaking Protocol | 0.70% | ~13 |

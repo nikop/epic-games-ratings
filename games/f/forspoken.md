@@ -6,7 +6,7 @@ Rating: 4.13 (Ranked 849)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 9.00% | ~3,414 |
-| Unlocked Potential | 8.00% | ~3,035 |
+| Unlocked Potential | 9.00% | ~3,414 |
 | Tinkerer | 7.00% | ~2,656 |
 | Leapfrogger | 6.00% | ~2,276 |
 | Knock 'Em Dead | 6.00% | ~2,276 |

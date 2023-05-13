@@ -4,7 +4,7 @@
   "ProductSlug": "super-mega-zero-485299",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-21T07:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.6270403+00:00",
   "LastChanged": "2023-03-31T05:58:12.6270404+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:23.0363375+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:57:28.5942594+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:03:54.8865813+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:57:31.3200254+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:04:02.4162811+00:00"
 }

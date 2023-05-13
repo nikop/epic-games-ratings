@@ -6,25 +6,25 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,130 |
-| Settler | 82.00% | ~9,020 |
-| Explorer | 80.00% | ~8,800 |
-| Friendly Family | 76.00% | ~8,360 |
-| Intrepid | 70.00% | ~7,700 |
-| Able | 62.00% | ~6,820 |
-| Architect | 62.00% | ~6,820 |
-| Mason | 62.00% | ~6,820 |
-| Strong | 61.00% | ~6,710 |
-| Hanging Gardens | 60.00% | ~6,600 |
-| Noble | 59.00% | ~6,490 |
-| Oracle | 59.00% | ~6,490 |
-| Good | 57.00% | ~6,270 |
-| Judaism | 56.00% | ~6,160 |
-| Just | 55.00% | ~6,050 |
-| Keystone | 55.00% | ~6,050 |
-| Glorious | 53.00% | ~5,830 |
-| Trade Caravan | 53.00% | ~5,830 |
-| Naming Landmarks | 51.00% | ~5,610 |
+| Play a Single Player Game | 83.00% | ~9,131 |
+| Settler | 82.00% | ~9,021 |
+| Explorer | 80.00% | ~8,801 |
+| Friendly Family | 76.00% | ~8,361 |
+| Intrepid | 70.00% | ~7,701 |
+| Able | 62.00% | ~6,821 |
+| Architect | 62.00% | ~6,821 |
+| Mason | 62.00% | ~6,821 |
+| Strong | 61.00% | ~6,711 |
+| Hanging Gardens | 60.00% | ~6,601 |
+| Noble | 59.00% | ~6,491 |
+| Oracle | 58.00% | ~6,381 |
+| Good | 57.00% | ~6,271 |
+| Judaism | 56.00% | ~6,161 |
+| Just | 55.00% | ~6,051 |
+| Keystone | 55.00% | ~6,051 |
+| Glorious | 53.00% | ~5,831 |
+| Trade Caravan | 53.00% | ~5,831 |
+| Naming Landmarks | 51.00% | ~5,611 |
 | Learned | 50.00% | ~5,500 |
 | Zoroastrianism | 50.00% | ~5,500 |
 | Fountainhead | 49.00% | ~5,390 |
@@ -67,11 +67,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 26.00% | ~2,860 |
 | Sages | 26.00% | ~2,860 |
 | Hanging Gardens in Babylon | 25.00% | ~2,750 |
-| Temple of Solomon | 25.00% | ~2,750 |
 | Persian Paganism | 25.00% | ~2,750 |
 | Points Victory | 25.00% | ~2,750 |
 | Good Difficulty | 24.00% | ~2,640 |
 | Champions | 24.00% | ~2,640 |
+| Temple of Solomon | 24.00% | ~2,640 |
 | Greece | 24.00% | ~2,640 |
 | Power to the People | 24.00% | ~2,640 |
 | Building Wonders | 24.00% | ~2,640 |
@@ -80,12 +80,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 23.00% | ~2,530 |
 | Hittite Iron | 22.00% | ~2,420 |
 | Mighty | 21.00% | ~2,310 |
-| Hagia Sophia | 21.00% | ~2,310 |
 | Via Recta Souk | 21.00% | ~2,310 |
 | Dualism | 21.00% | ~2,310 |
 | Legionary | 21.00% | ~2,310 |
 | Statesmen | 20.00% | ~2,200 |
 | Circus Maximus | 20.00% | ~2,200 |
+| Hagia Sophia | 20.00% | ~2,200 |
 | Adur Burzen-Mihr | 20.00% | ~2,200 |
 | Economic Reform | 20.00% | ~2,200 |
 | Cimmerian Archer | 20.00% | ~2,200 |
@@ -183,7 +183,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 2.00% | ~220 |
 | Gold Victory (Carthage 1) | 2.00% | ~220 |
 | Silver Victory (Carthage 1) | 2.00% | ~220 |
-| Bronze Victory (Carthage 2) | 2.00% | ~220 |
 | Carthage - Rise of Rome | 2.00% | ~220 |
 | Game of the Week | 2.00% | ~220 |
 | Get the Hellas Out | 2.00% | ~220 |
@@ -198,6 +197,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Families | 2.00% | ~220 |
 | Role-Playing | 2.00% | ~220 |
 | Centenarian | 1.00% | ~110 |
+| Bronze Victory (Carthage 2) | 1.00% | ~110 |
 | Silver Victory (Carthage 2) | 1.00% | ~110 |
 | Carthage - Seizing Destiny | 1.00% | ~110 |
 | Carthage Campaign | 1.00% | ~110 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~11 |
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,000 (Ranked 104)  
+Progressed: 11,001 (Ranked 104)  
 Completed: 3 (0.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,6 +315,7 @@ Completed: 3 (0.03%) (Ranked 180)
 | 2023-05-10 | 10,954 | 3 |
 | 2023-05-11 | 10,971 | 3 |
 | 2023-05-12 | 11,000 | 3 |
+| 2023-05-13 | 11,001 | 3 |
 ## Awards
 Max (Relaxing): 216  (Ranked 248)  
 Sum: 1,757 (Ranked 197)  

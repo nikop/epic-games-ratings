@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1512,
+  "EOS_Progressed": 1513,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1062,6 +1062,11 @@
       "Time": "2023-05-12T23:05:28.0221823+00:00",
       "NumProgressed": 1512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T00:05:36.2682481+00:00",
+      "NumProgressed": 1513,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1121,7 +1126,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "Achievement_009",
@@ -1209,7 +1214,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "Achievement_020",
@@ -1233,7 +1238,7 @@
       "Name": "Bell-ringer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_023",
@@ -1265,7 +1270,7 @@
       "Name": "Fly Fisher",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Achievement_027",
@@ -1281,7 +1286,7 @@
       "Name": "You Clean It Up",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_029",
@@ -1289,7 +1294,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Achievement_030",
@@ -1449,7 +1454,7 @@
       "Name": "Right This Way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_052",
@@ -1457,7 +1462,7 @@
       "Name": "Nice Try",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_053",
@@ -1497,7 +1502,7 @@
       "Name": "Enemy of My Enemy",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_059",
@@ -1600,7 +1605,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1512,
+      "Progressed": 1513,
       "Completed": 0
     }
   ],
@@ -1608,8 +1613,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-10T11:57:52.369097+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:05:28.0221818+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:05:36.2682474+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:57:53.2743267+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:05:28.0222581+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:57:55.4371679+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:05:36.268341+00:00"
 }

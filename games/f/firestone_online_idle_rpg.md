@@ -5,20 +5,20 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~920 |
-| World Map | 79.00% | ~773 |
-| Temple of Eternals | 56.00% | ~548 |
-| Prestigious | 52.00% | ~509 |
+| Victor | 94.00% | ~921 |
+| World Map | 79.00% | ~774 |
+| Temple of Eternals | 56.00% | ~549 |
+| Prestigious | 52.00% | ~510 |
 | Fellowship Power | 39.00% | ~382 |
 | Guild Power | 23.00% | ~225 |
 | Prestigious x10 | 20.00% | ~196 |
-| The game is on | 17.00% | ~166 |
+| The game is on | 17.00% | ~167 |
 | Exotic Merchant | 16.00% | ~157 |
 | Dragon Clicker | 14.00% | ~137 |
 | Miner Clicker | 14.00% | ~137 |
 | Inspection | 13.00% | ~127 |
-| Full Party | 12.00% | ~117 |
-| Hero inspection | 12.00% | ~117 |
+| Full Party | 12.00% | ~118 |
+| Hero inspection | 12.00% | ~118 |
 | Dragon Master | 9.00% | ~88 |
 | Enlightenment | 9.00% | ~88 |
 | Lieutenant | 9.00% | ~88 |
@@ -34,6 +34,7 @@ Rating: 3.64 (Ranked 917)
 | Hunter | 3.00% | ~29 |
 | Mastery | 3.00% | ~29 |
 | Milestone collector | 3.00% | ~29 |
+| Moving Up The Ladder | 3.00% | ~29 |
 | Scroll Master | 3.00% | ~29 |
 | The Expeditioner | 3.00% | ~29 |
 | The power of Awakening | 3.00% | ~29 |
@@ -42,7 +43,6 @@ Rating: 3.64 (Ranked 917)
 | Here We Go Again | 2.00% | ~20 |
 | How Do You Turn This On? | 2.00% | ~20 |
 | Missions Dedication | 2.00% | ~20 |
-| Moving Up The Ladder | 2.00% | ~20 |
 | The father of Dragons | 2.00% | ~20 |
 | Trader | 2.00% | ~20 |
 | What lies behind the bush | 2.00% | ~20 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979 (Ranked 164)  
+Progressed: 980 (Ranked 164)  
 Completed: 1 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 1 (0.10%) (Ranked 155)
 | 2023-05-10 | 948 | 1 |
 | 2023-05-11 | 962 | 1 |
 | 2023-05-12 | 979 | 1 |
+| 2023-05-13 | 980 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

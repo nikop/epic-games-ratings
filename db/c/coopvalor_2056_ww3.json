@@ -4,7 +4,7 @@
   "ProductSlug": "coopvalor-wwii-718385",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-10T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-27T07:00:05.0177716+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:05:13.1760228+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:05:20.9800759+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:09.3768524+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:57:13.9474324+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:05:13.1760258+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:57:17.5945741+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:05:20.9800791+00:00"
 }

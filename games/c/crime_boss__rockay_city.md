@@ -5,19 +5,19 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,719 |
-| First One’s Free | 64.00% | ~38,329 |
-| Neophyte Ninja | 50.00% | ~29,944 |
-| Too Old for This | 47.00% | ~28,148 |
-| Fancy Pants | 35.00% | ~20,961 |
-| Case Closed | 34.00% | ~20,362 |
-| King of the Hill | 33.00% | ~19,763 |
-| Underworld Initiate | 29.00% | ~17,368 |
+| Downed but Not Outed | 73.00% | ~43,721 |
+| First One’s Free | 64.00% | ~38,331 |
+| Neophyte Ninja | 50.00% | ~29,946 |
+| Too Old for This | 47.00% | ~28,149 |
+| Fancy Pants | 35.00% | ~20,962 |
+| Case Closed | 34.00% | ~20,363 |
+| King of the Hill | 33.00% | ~19,764 |
+| Underworld Initiate | 29.00% | ~17,369 |
 | Roid Ranger | 21.00% | ~12,577 |
 | True Player | 19.00% | ~11,379 |
-| Off the Rocks | 18.00% | ~10,780 |
-| Raider’s Ruin | 16.00% | ~9,582 |
-| Dragonslayer | 16.00% | ~9,582 |
+| Off the Rocks | 18.00% | ~10,781 |
+| Raider’s Ruin | 16.00% | ~9,583 |
+| Dragonslayer | 16.00% | ~9,583 |
 | Hidden Sonata | 13.00% | ~7,786 |
 | Classy Joint | 10.00% | ~5,989 |
 | Rockay Rex | 10.00% | ~5,989 |
@@ -27,8 +27,8 @@ Rating: 3.93 (Ranked 895)
 | Headhunter | 8.00% | ~4,791 |
 | Ding Dong | 8.00% | ~4,791 |
 | Foo Finder | 7.00% | ~4,192 |
-| Legend Looter | 5.00% | ~2,994 |
-| Savvy Seeker | 5.00% | ~2,994 |
+| Legend Looter | 5.00% | ~2,995 |
+| Savvy Seeker | 5.00% | ~2,995 |
 | Imports and Exports | 4.00% | ~2,396 |
 | Olympus Ascended | 4.00% | ~2,396 |
 | Red Star | 4.00% | ~2,396 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~299 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,889 (Ranked 68)  
+Progressed: 59,892 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 29 (0.05%) (Ranked 171)
 | 2023-05-10 | 59,655 | 28 |
 | 2023-05-11 | 59,781 | 29 |
 | 2023-05-12 | 59,889 | 29 |
+| 2023-05-13 | 59,892 | 29 |
 ## Awards
 Max (Highly Recommended): 256  (Ranked 237)  
 Sum: 1,200 (Ranked 220)  

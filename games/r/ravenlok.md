@@ -18,14 +18,14 @@
 | Surprise! | 43.00% | ~265 |
 | An Actor! | 42.00% | ~259 |
 | Curtain Call | 41.00% | ~253 |
+| Well Rested | 39.00% | ~240 |
 | Piece of Cake | 38.00% | ~234 |
 | Gooey Delight! | 38.00% | ~234 |
 | Glimmer of Hope | 38.00% | ~234 |
-| Well Rested | 38.00% | ~234 |
 | Teacups for Toppy | 37.00% | ~228 |
 | Nightmare Fuel | 36.00% | ~222 |
 | Take Heart | 36.00% | ~222 |
-| The Guardian | 35.00% | ~216 |
+| The Guardian | 36.00% | ~222 |
 | Frog Facts! | 34.00% | ~209 |
 | Stronger! | 34.00% | ~209 |
 | Ancient Wisdom | 33.00% | ~203 |
@@ -55,7 +55,7 @@
 | Bombs Away! | 8.00% | ~49 |
 | Dance Master | 7.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616 (Ranked 181)  
+Progressed: 616 (Ranked 182)  
 Completed: 39 (6.33%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |

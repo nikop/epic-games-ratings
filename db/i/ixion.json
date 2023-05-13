@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -680,9 +680,9 @@
       "ID": "ACH_BASE_2",
       "SetID": "92iocjf",
       "Name": "Guy de Borderlands",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASE_21",
@@ -1071,8 +1071,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:05:24.9595472+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:05:32.8825323+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:58:31.5783615+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:05:24.9596011+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:58:33.739061+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:05:32.8826059+00:00"
 }

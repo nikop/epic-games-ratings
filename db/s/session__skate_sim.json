@@ -1048,9 +1048,9 @@
       "ID": "ACH_KEEPING-IT-CLASSY",
       "SetID": "72olkc5",
       "Name": "Keeping it classy",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -1288,8 +1288,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-11T17:59:26.7871412+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:05:22.7297885+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:05:30.6497294+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:59:09.440187+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:05:22.729835+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:59:12.6345497+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:05:30.6497784+00:00"
 }

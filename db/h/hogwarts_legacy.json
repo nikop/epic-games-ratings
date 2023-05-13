@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -2176,10 +2176,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 34205,
       "NumberOfAwardsMax": 18684
+    },
+    {
+      "Time": "2023-05-12T23:57:21.618404+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34208,
+      "NumberOfAwardsMax": 18684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34205,
+  "NumberOfAwards": 34208,
   "NumberOfAwardsMax": 18684,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2247,7 +2253,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 630
+      "Count": 633
     },
     {
       "Text": "This game has a Creative Community",
@@ -2256,10 +2262,10 @@
       "Count": 467
     }
   ],
-  "EOS_Progressed": 266757,
+  "EOS_Progressed": 266764,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1101,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1098,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -4236,6 +4242,11 @@
       "Time": "2023-05-12T23:03:20.2896234+00:00",
       "NumProgressed": 266757,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2023-05-13T00:03:18.2919658+00:00",
+      "NumProgressed": 266764,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 45,
@@ -4255,7 +4266,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16005
+      "UsersEstimate": 16006
     },
     {
       "ID": "PFA_11",
@@ -4263,7 +4274,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16005
+      "UsersEstimate": 16006
     },
     {
       "ID": "PFA_12",
@@ -4295,7 +4306,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_16",
@@ -4311,7 +4322,7 @@
       "Name": "Beast Friends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_18",
@@ -4319,7 +4330,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_19",
@@ -4327,7 +4338,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_2",
@@ -4367,7 +4378,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_24",
@@ -4431,7 +4442,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_31",
@@ -4471,7 +4482,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_36",
@@ -4551,7 +4562,7 @@
       "Name": "The Spell Master",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_45",
@@ -4575,7 +4586,7 @@
       "Name": "First Class Student",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_7",
@@ -4583,7 +4594,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "PFA_8",
@@ -4606,16 +4617,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266757,
+      "Progressed": 266764,
       "Completed": 359
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-12T22:57:18.8467708+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:03:20.2896229+00:00",
+  "LastChanged": "2023-05-12T23:57:21.6184038+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:03:18.2919652+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:57:18.8467713+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:03:20.2896742+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:57:21.6184044+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:03:18.2920279+00:00"
 }

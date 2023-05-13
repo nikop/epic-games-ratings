@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -996,10 +996,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3656,
       "NumberOfAwardsMax": 2208
+    },
+    {
+      "Time": "2023-05-12T23:59:53.9149758+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3657,
+      "NumberOfAwardsMax": 2208
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3656,
+  "NumberOfAwards": 3657,
   "NumberOfAwardsMax": 2208,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1037,7 +1043,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game is Relaxing",
@@ -1064,9 +1070,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60819,
+  "EOS_Progressed": 60821,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2384,6 +2390,11 @@
       "Time": "2023-05-12T23:06:01.0550997+00:00",
       "NumProgressed": 60819,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-13T00:06:09.8062161+00:00",
+      "NumProgressed": 60821,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 61,
@@ -2882,22 +2893,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60819,
+      "Progressed": 60821,
       "Completed": 90
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31099,
+      "Progressed": 31101,
       "Completed": 2635
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-12T07:00:17.2180218+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:06:01.0550992+00:00",
+  "LastChanged": "2023-05-12T23:59:53.9149757+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:06:09.8062156+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:59:51.4889937+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:06:01.0551704+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:59:53.9149762+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:06:09.8062951+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 3.33 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 83.00% | ~1,255 |
+| I Like My Stakes Rare! | 83.00% | ~1,256 |
 | Home Is Where the Heart Is | 65.00% | ~983 |
 | Wounded Whispers | 65.00% | ~983 |
 | Ne Plus Ultra | 64.00% | ~968 |
-| Blood Will Have Blood | 53.00% | ~801 |
+| Blood Will Have Blood | 53.00% | ~802 |
 | ICU | 49.00% | ~741 |
 | Catch and Release | 47.00% | ~711 |
 | Peek-a-boo | 46.00% | ~696 |
 | Sucks To Be You | 46.00% | ~696 |
 | Welcome to the Neighborhood | 40.00% | ~605 |
-| Fly Fisher | 37.00% | ~559 |
-| Throw The First Stone | 37.00% | ~559 |
+| Fly Fisher | 37.00% | ~560 |
+| Throw The First Stone | 37.00% | ~560 |
 | Enter of Your Own Free Will | 34.00% | ~514 |
 | Heart Attack | 34.00% | ~514 |
 | Skin of Their Teeth | 34.00% | ~514 |
@@ -26,14 +26,14 @@ Rating: 3.33 (Ranked 920)
 | Neighborhood Revitalization | 16.00% | ~242 |
 | Radio Silence | 16.00% | ~242 |
 | Helping Hand | 13.00% | ~197 |
-| You Clean It Up | 12.00% | ~181 |
+| You Clean It Up | 12.00% | ~182 |
 | Starve the Beast | 9.00% | ~136 |
 | Block Party | 8.00% | ~121 |
 | From the Shadows | 6.00% | ~91 |
-| Bell-ringer | 4.00% | ~60 |
-| Right This Way | 4.00% | ~60 |
-| Nice Try | 4.00% | ~60 |
-| Enemy of My Enemy | 4.00% | ~60 |
+| Bell-ringer | 4.00% | ~61 |
+| Right This Way | 4.00% | ~61 |
+| Nice Try | 4.00% | ~61 |
+| Enemy of My Enemy | 4.00% | ~61 |
 | Revelations | 3.00% | ~45 |
 | Contingency Plans | 3.00% | ~45 |
 | Sic Transit Umbra | 3.00% | ~45 |
@@ -72,7 +72,7 @@ Rating: 3.33 (Ranked 920)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,512 (Ranked 151)  
+Progressed: 1,513 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-10 | 1,486 | 0 |
 | 2023-05-11 | 1,503 | 0 |
 | 2023-05-12 | 1,512 | 0 |
+| 2023-05-13 | 1,513 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.80% | ~698 |
 | Bully for Vecna | 0.80% | ~429 |
 | The Mad Wizard | 0.80% | ~698 |
-| The Ring of Regeneration | 0.60% | ~524 |
+| The Ring of Regeneration | 0.70% | ~611 |
 | Were-verpowered | 0.50% | ~436 |
 | Seeking Allies | 0.50% | ~436 |
 | Are Ya Chicken? | 0.50% | ~436 |
@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~262 |
 | The Death Curse | 0.30% | ~262 |
 | Useless Allies | 0.30% | ~262 |
+| Premature Betrayal | 0.30% | ~262 |
 | Flying Monkey Skulls of Doom | 0.30% | ~262 |
 | Running of the Saurs | 0.30% | ~262 |
 | The Contagious Curse | 0.30% | ~262 |
@@ -55,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 0.30% | ~262 |
 | Waterdeep Detours | 0.30% | ~262 |
 | Underdeep Cartography | 0.30% | ~262 |
+| Overdue Rendezvous | 0.30% | ~262 |
 | The Templar's Camp | 0.30% | ~262 |
 | Rescue in the Jungle | 0.30% | ~262 |
 | Pros and CONs | 0.20% | ~175 |
@@ -70,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sticky Fingers | 0.20% | ~107 |
 | Patron Party | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
+| Don't Breathe the Marsh Gas | 0.20% | ~107 |
 | The Prince of a Thousand Enemies | 0.20% | ~107 |
 | Uncommon Allies | 0.20% | ~107 |
 | Downfall | 0.20% | ~107 |
@@ -107,6 +110,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~175 |
 | The Lost Heir of Omu | 0.20% | ~175 |
 | Lobsterfolk Assault | 0.20% | ~175 |
+| The Minions of Endelyn Moongrave | 0.20% | ~107 |
 | No One Can Hear You Scream | 0.20% | ~107 |
 | Welcome to the Rock | 0.20% | ~107 |
 | The Forbidden City | 0.20% | ~175 |
@@ -130,11 +134,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thine Bounty is Mine! | 0.20% | ~107 |
 | Haaave You Met Asmodeus? | 0.20% | ~175 |
 | Domesticated Owlbears | 0.20% | ~175 |
+| This Quest Stinks! | 0.20% | ~107 |
 | The Immortal Warrior | 0.20% | ~175 |
 | The Wyrmheart Mine | 0.20% | ~175 |
 | Tower on the Lake | 0.20% | ~175 |
 | Seeds of Deceit | 0.20% | ~175 |
 | The Gargoyle's Apprentice | 0.20% | ~175 |
+| House of Darkness | 0.20% | ~175 |
 | Attack on the Manor | 0.20% | ~175 |
 | The Trepidatious Trio | 0.20% | ~175 |
 | Our Time To Shine | 0.20% | ~175 |
@@ -145,7 +151,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~175 |
 | Fugitives | 0.20% | ~175 |
 | Excavating History | 0.20% | ~175 |
-| Premature Betrayal | 0.20% | ~175 |
 | Towering Expectations | 0.20% | ~175 |
 | Hopelessly Lost | 0.20% | ~175 |
 | Cramped Quarters | 0.20% | ~175 |
@@ -190,7 +195,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~175 |
 | Easily Distracted | 0.20% | ~175 |
 | Rude Welcome | 0.20% | ~175 |
-| Overdue Rendezvous | 0.20% | ~175 |
 | Moose Tracks | 0.20% | ~107 |
 | An Awakened Axe | 0.20% | ~107 |
 | CONtagious Cold | 0.20% | ~107 |
@@ -218,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | And Your Enemies Closer | 0.10% | ~54 |
 | Back to Nature | 0.10% | ~54 |
 | Go Fourth | 0.10% | ~54 |
-| Don't Breathe the Marsh Gas | 0.10% | ~54 |
 | Don't Blast the Brigands | 0.10% | ~54 |
 | Don't Squeeze the Spiders | 0.10% | ~54 |
 | The Spire of Iriolarthas | 0.10% | ~54 |
@@ -268,7 +271,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wagon Train | 0.10% | ~87 |
 | Not Very Charming | 0.10% | ~87 |
 | Taking Responsibility | 0.10% | ~87 |
-| The Minions of Endelyn Moongrave | 0.10% | ~54 |
 | Between a Brigganock and a Hard Place | 0.10% | ~54 |
 | Love Unsoiled | 0.10% | ~54 |
 | The Play's the Thing! | 0.10% | ~54 |
@@ -294,7 +296,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~87 |
 | Poor Fortune | 0.10% | ~87 |
 | Relentless Misfortune | 0.10% | ~87 |
-| This Quest Stinks! | 0.10% | ~54 |
 | Hold for the Red Wizards | 0.10% | ~87 |
 | Form Ranks | 0.10% | ~87 |
 | Drop of Time | 0.10% | ~54 |
@@ -307,7 +308,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~87 |
 | Seeds of Corruption | 0.10% | ~87 |
 | The Strahd Squad | 0.10% | ~54 |
-| House of Darkness | 0.10% | ~87 |
 | Home Not So Alone | 0.10% | ~54 |
 | Review by the Blackstaff | 0.10% | ~54 |
 | Think Your Way Out Of It | 0.10% | ~87 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,292 (Ranked 59)  
-Completed: 1,830 (2.10%) (Ranked 60)  
+Progressed: 87,298 (Ranked 59)  
+Completed: 1,831 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -519,9 +519,10 @@ Completed: 1,830 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
+| 2023-05-13 | 87,298 | 1,831 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
-Sum: 29,862 (Ranked 37)  
+Sum: 29,863 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -529,7 +530,7 @@ Diff (max vs sum): 26
 | This game is Great for Beginners | 4,817 |
 | This game has Quickly Understood Controls | 4,585 |
 | This game is Relaxing | 4,482 |
-| This game is Highly Recommended | 3,935 |
+| This game is Highly Recommended | 3,936 |
 | This game has Amazing Characters | 3,934 |
 | This game has Playful Visuals | 3,232 |
 ## Ratings History
@@ -641,4 +642,4 @@ Diff (max vs sum): 26
 | 2023-05-09 | 4.06 | - | 4,873 | 29,838 |
 | 2023-05-10 | 4.06 | - | 4,874 | 29,847 |
 | 2023-05-11 | 4.06 | - | 4,874 | 29,859 |
-| 2023-05-12 | 4.06 | - | 4,877 | 29,862 |
+| 2023-05-12 | 4.06 | - | 4,877 | 29,863 |

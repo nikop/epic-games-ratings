@@ -4,7 +4,7 @@
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -495,8 +495,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-12T23:05:39.6574451+00:00",
+  "LastChanged_Achievements": "2023-05-13T00:05:47.7753103+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:59.0049246+00:00",
-  "LastUpdate_Ratings": "2023-05-12T22:58:07.0405655+00:00",
-  "LastUpdate_Achievements": "2023-05-12T23:05:39.6574949+00:00"
+  "LastUpdate_Ratings": "2023-05-12T23:58:10.5855324+00:00",
+  "LastUpdate_Achievements": "2023-05-13T00:05:47.7753626+00:00"
 }

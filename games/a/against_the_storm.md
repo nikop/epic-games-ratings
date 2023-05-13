@@ -26,6 +26,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 0.60% | ~89 |
 | Refinery | 0.50% | ~74 |
 | Dangerous Lands | 0.50% | ~74 |
+| Haunted Forest | 0.50% | ~74 |
 | Flooded Mines | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |
 | Corrosive Torrent | 0.50% | ~74 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 0.50% | ~74 |
 | Serving Ale | 0.40% | ~59 |
 | Against All Odds | 0.40% | ~59 |
-| Haunted Forest | 0.40% | ~59 |
 | Levitating Monument | 0.40% | ~59 |
 | Statue of the Forefathers | 0.40% | ~59 |
 | Forsaken Gods Temple | 0.40% | ~59 |
