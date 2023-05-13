@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,748 |
-| Checkmate | 2.00% | ~1,073 |
+| Checkmate | 2.00% | ~1,074 |
 | Pin and Skewer | 1.00% | ~537 |
 | Vecna Out! | 1.00% | ~537 |
 | The Cursed Farmer | 1.00% | ~874 |
@@ -182,6 +182,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~175 |
 | Cold & Wet | 0.20% | ~175 |
 | Madcap Adventures | 0.20% | ~175 |
+| Faerûn's Most Neglected | 0.20% | ~107 |
 | Vault of Dragons | 0.20% | ~175 |
 | Champions of Waterdeep | 0.20% | ~175 |
 | Dinosaur Racing | 0.20% | ~175 |
@@ -375,7 +376,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~87 |
 | The Tallest of Kobolds | 0.10% | ~54 |
 | Patience is Key | 0.10% | ~87 |
-| Faerûn's Most Neglected | 0.10% | ~54 |
 | Vault of Pixies | 0.10% | ~87 |
 | Vault of Poison | 0.10% | ~87 |
 | Vault of Cuteness | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,395 (Ranked 59)  
-Completed: 1,835 (2.10%) (Ranked 61)  
+Progressed: 87,405 (Ranked 59)  
+Completed: 1,836 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -519,7 +519,7 @@ Completed: 1,835 (2.10%) (Ranked 61)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,395 | 1,835 |
+| 2023-05-13 | 87,405 | 1,836 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,870 (Ranked 37)  

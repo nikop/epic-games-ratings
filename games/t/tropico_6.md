@@ -7,20 +7,20 @@ Number of Ratings: 398  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 78.00% | ~2,204 |
-| Un-Lonely Island | 50.00% | ~1,412 |
+| Un-Lonely Island | 50.00% | ~1,413 |
 | The Beginning of a Servantship | 47.00% | ~1,328 |
 | Trade Is My Trait | 39.00% | ~1,102 |
-| Number 18 | 26.00% | ~734 |
+| Number 18 | 26.00% | ~735 |
 | We Don't Have Time For That | 20.00% | ~565 |
 | The Governator | 19.00% | ~537 |
-| Caribbean Comrade | 18.00% | ~508 |
-| The Legend of Langostino | 18.00% | ~508 |
+| Caribbean Comrade | 18.00% | ~509 |
+| The Legend of Langostino | 18.00% | ~509 |
 | The Dreamer of Dreams | 16.00% | ~452 |
 | Go Sovereigns! | 12.00% | ~339 |
 | For Science! | 12.00% | ~339 |
 | Happy Ending? | 11.00% | ~311 |
-| Of Seals And Men | 10.00% | ~282 |
-| Shackadelic | 10.00% | ~282 |
+| Of Seals And Men | 10.00% | ~283 |
+| Shackadelic | 10.00% | ~283 |
 | Double Trouble | 9.00% | ~254 |
 | Firestarter | 9.00% | ~254 |
 | Make Tropico Great Again! | 9.00% | ~254 |
@@ -39,15 +39,15 @@ Number of Ratings: 398  (23.09.2022)
 | Narcissist | 3.00% | ~85 |
 | Promising Endeavors | 3.00% | ~85 |
 | Terraformer | 3.00% | ~85 |
-| Chain Gang | 2.00% | ~56 |
-| From Knight to Little Duck | 2.00% | ~56 |
-| Sublime Subliminal Supreme | 2.00% | ~56 |
-| Teamplayer | 2.00% | ~56 |
-| Curse of the Mummy | 2.00% | ~56 |
+| Chain Gang | 2.00% | ~57 |
+| From Knight to Little Duck | 2.00% | ~57 |
+| Sublime Subliminal Supreme | 2.00% | ~57 |
+| Teamplayer | 2.00% | ~57 |
+| Curse of the Mummy | 2.00% | ~57 |
 | Survivor | 1.00% | ~28 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,825 (Ranked 132)  
+Progressed: 2,826 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 1 (0.04%) (Ranked 176)
 | 2023-05-10 | 2,769 | 1 |
 | 2023-05-11 | 2,782 | 1 |
 | 2023-05-12 | 2,806 | 1 |
-| 2023-05-13 | 2,825 | 1 |
+| 2023-05-13 | 2,826 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 317)  
 Sum: 749 (Ranked 252)  

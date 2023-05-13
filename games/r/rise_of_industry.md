@@ -1,39 +1,39 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.22 (Ranked 799)  
+Rating: 4.23 (Ranked 794)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~313,247 |
-| Well educated | 37.00% | ~246,599 |
-| City Planner | 19.00% | ~126,632 |
-| Deforester | 16.00% | ~106,637 |
-| Big Hauling | 15.00% | ~99,972 |
-| Exporter | 13.00% | ~86,643 |
-| Apprentice Manufacturer | 12.00% | ~79,978 |
-| I would drive 500 tiles... | 11.00% | ~73,313 |
-| Landscaper | 11.00% | ~73,313 |
-| Railwayman | 7.00% | ~46,654 |
-| Penniless | 6.00% | ~39,989 |
-| Massive Gains | 6.00% | ~39,989 |
-| Engineer | 2.00% | ~13,330 |
-| Salesman | 2.00% | ~13,330 |
-| High Flyer | 2.00% | ~13,330 |
-| Captain | 0.70% | ~4,665 |
+| Entrepreneur | 47.00% | ~313,273 |
+| Well educated | 37.00% | ~246,619 |
+| City Planner | 19.00% | ~126,642 |
+| Deforester | 16.00% | ~106,646 |
+| Big Hauling | 15.00% | ~99,981 |
+| Exporter | 13.00% | ~86,650 |
+| I would drive 500 tiles... | 12.00% | ~79,985 |
+| Apprentice Manufacturer | 12.00% | ~79,985 |
+| Landscaper | 11.00% | ~73,319 |
+| Railwayman | 7.00% | ~46,658 |
+| Penniless | 6.00% | ~39,992 |
+| Massive Gains | 6.00% | ~39,992 |
+| Engineer | 2.00% | ~13,331 |
+| Salesman | 2.00% | ~13,331 |
+| High Flyer | 2.00% | ~13,331 |
+| Captain | 0.70% | ~4,666 |
 | Billionaire | 0.60% | ~3,999 |
 | Vroom Vroom | 0.40% | ~2,666 |
-| Excavator | 0.30% | ~1,999 |
-| Loan Ranger | 0.30% | ~1,999 |
-| [2130] Nature Lover | 0.10% | ~666 |
-| [2130] No Quarter Given | 0.10% | ~666 |
-| [2130] Dumpster Diving | 0.10% | ~666 |
-| Freelancer | 0.10% | ~666 |
-| Director | 0.10% | ~666 |
-| Master Builder | 0.10% | ~666 |
-| Hard working | 0.10% | ~666 |
+| Excavator | 0.30% | ~2,000 |
+| Loan Ranger | 0.30% | ~2,000 |
+| [2130] Nature Lover | 0.10% | ~667 |
+| [2130] No Quarter Given | 0.10% | ~667 |
+| [2130] Dumpster Diving | 0.10% | ~667 |
+| Freelancer | 0.10% | ~667 |
+| Director | 0.10% | ~667 |
+| Master Builder | 0.10% | ~667 |
+| Hard working | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,483 (Ranked 17)  
+Progressed: 666,538 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-10 | 664,282 | 1 |
 | 2023-05-11 | 664,902 | 1 |
 | 2023-05-12 | 665,647 | 1 |
-| 2023-05-13 | 666,483 | 1 |
+| 2023-05-13 | 666,538 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -86,3 +86,4 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-04-18 | 4.22 | 0 | 0 |
 | 2023-05-02 | 4.23 | 0 | 0 |
 | 2023-05-06 | 4.22 | 0 | 0 |
+| 2023-05-13 | 4.23 | 0 | 0 |

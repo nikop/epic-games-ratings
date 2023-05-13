@@ -5,50 +5,50 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,769 |
-| Shine On | 70.00% | ~110,851 |
-| On the Job | 69.00% | ~109,268 |
-| Get Stuck In | 68.00% | ~107,684 |
-| Room for Expansion | 68.00% | ~107,684 |
-| Sales Pitch | 65.00% | ~102,933 |
-| Chill Out | 64.00% | ~101,350 |
-| Tinker | 61.00% | ~96,599 |
-| Grand Designs | 60.00% | ~95,015 |
-| Hot Stuff | 59.00% | ~93,432 |
-| MOAR RGB | 54.00% | ~85,514 |
-| Dream Theme | 46.00% | ~72,845 |
-| The Customer is King | 45.00% | ~71,262 |
-| Working Hard | 44.00% | ~69,678 |
-| On the Bench | 42.00% | ~66,511 |
-| The More the Merrier | 42.00% | ~66,511 |
-| Mix and Match | 38.00% | ~60,176 |
-| Recycler | 38.00% | ~60,176 |
-| Foot in the Door | 37.00% | ~58,593 |
-| Very Imported PC | 36.00% | ~57,009 |
-| Full Throttle | 34.00% | ~53,842 |
-| Repair Master | 32.00% | ~50,675 |
-| Pimp My Rig | 31.00% | ~49,091 |
+| Bootstrapping | 75.00% | ~118,772 |
+| Shine On | 70.00% | ~110,853 |
+| On the Job | 69.00% | ~109,270 |
+| Get Stuck In | 68.00% | ~107,686 |
+| Room for Expansion | 68.00% | ~107,686 |
+| Sales Pitch | 65.00% | ~102,935 |
+| Chill Out | 64.00% | ~101,352 |
+| Tinker | 61.00% | ~96,601 |
+| Grand Designs | 60.00% | ~95,017 |
+| Hot Stuff | 59.00% | ~93,434 |
+| MOAR RGB | 54.00% | ~85,515 |
+| Dream Theme | 46.00% | ~72,847 |
+| The Customer is King | 45.00% | ~71,263 |
+| Working Hard | 44.00% | ~69,679 |
+| On the Bench | 42.00% | ~66,512 |
+| The More the Merrier | 42.00% | ~66,512 |
+| Mix and Match | 38.00% | ~60,178 |
+| Recycler | 38.00% | ~60,178 |
+| Foot in the Door | 37.00% | ~58,594 |
+| Very Imported PC | 36.00% | ~57,010 |
+| Full Throttle | 34.00% | ~53,843 |
+| Repair Master | 32.00% | ~50,676 |
+| Pimp My Rig | 31.00% | ~49,092 |
 | Local Hero | 28.00% | ~44,341 |
-| Broken to Smokin' | 26.00% | ~41,173 |
-| Workaholic | 26.00% | ~41,173 |
+| Broken to Smokin' | 26.00% | ~41,174 |
+| Workaholic | 26.00% | ~41,174 |
 | Thanks Jeff | 25.00% | ~39,590 |
-| Cinematic | 24.00% | ~38,006 |
-| Bench Warmer | 24.00% | ~38,006 |
-| Gift of the Gab | 24.00% | ~38,006 |
-| Salvage Squad | 24.00% | ~38,006 |
+| Cinematic | 24.00% | ~38,007 |
+| Bench Warmer | 24.00% | ~38,007 |
+| Gift of the Gab | 24.00% | ~38,007 |
+| Salvage Squad | 24.00% | ~38,007 |
 | On the Ladder | 23.00% | ~36,423 |
 | Stick With It | 23.00% | ~36,423 |
-| Variations on a Theme | 22.00% | ~34,839 |
-| Cowboy | 22.00% | ~34,839 |
-| Slap Happy | 21.00% | ~33,255 |
-| Supercool | 19.00% | ~30,088 |
+| Variations on a Theme | 22.00% | ~34,840 |
+| Cowboy | 22.00% | ~34,840 |
+| Slap Happy | 21.00% | ~33,256 |
+| Supercool | 19.00% | ~30,089 |
 | Stabiliser | 18.00% | ~28,505 |
 | This One Goes to 11 | 18.00% | ~28,505 |
 | Going Places | 15.00% | ~23,754 |
-| Forgetful Shopper | 14.00% | ~22,170 |
+| Forgetful Shopper | 14.00% | ~22,171 |
 | Showpiece | 13.00% | ~20,587 |
 | Paste Not, Want Not | 13.00% | ~20,587 |
-| Bench Press | 9.00% | ~14,252 |
+| Bench Press | 9.00% | ~14,253 |
 | Matching Set | 8.00% | ~12,669 |
 | Tech Vet | 8.00% | ~12,669 |
 | Salesperson of the Month | 8.00% | ~12,669 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,359 (Ranked 52)  
+Progressed: 158,362 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,14 +88,14 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-10 | 158,248 | 102 |
 | 2023-05-11 | 158,275 | 102 |
 | 2023-05-12 | 158,322 | 102 |
-| 2023-05-13 | 158,359 | 102 |
+| 2023-05-13 | 158,362 | 102 |
 ## Awards
-Max (Great for Beginners): 605  (Ranked 164)  
-Sum: 4,545 (Ranked 127)  
-Diff (max vs sum): 37  
+Max (Great for Beginners): 607  (Ranked 163)  
+Sum: 4,547 (Ranked 127)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 605 |
+| This game is Great for Beginners | 607 |
 | This game is Relaxing | 578 |
 | This game is Educational | 575 |
 | This game is Extremely Fun | 546 |
@@ -163,4 +163,4 @@ Diff (max vs sum): 37
 | 2023-05-10 | 4.61 | 602 | 4,536 |
 | 2023-05-11 | 4.61 | 605 | 4,543 |
 | 2023-05-12 | 4.61 | 605 | 4,544 |
-| 2023-05-13 | 4.61 | 605 | 4,545 |
+| 2023-05-13 | 4.61 | 607 | 4,547 |

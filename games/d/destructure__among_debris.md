@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 74.00% | ~49 |
-| You Have Been Deaded | 71.00% | ~47 |
-| Rookie | 70.00% | ~46 |
+| Graduation | 73.00% | ~49 |
+| You Have Been Deaded | 72.00% | ~48 |
+| Rookie | 70.00% | ~47 |
 | Apprentice Destructor | 27.00% | ~18 |
 | I Prefer Jazz Fusion | 9.00% | ~6 |
 | You Are Actually Supposed To Use Those | 9.00% | ~6 |
-| Master Destructor | 8.00% | ~5 |
+| Master Destructor | 7.00% | ~5 |
 | Avaricerite | 6.00% | ~4 |
 | Ball Galore | 6.00% | ~4 |
-| Back From The Dead | 5.00% | ~3 |
-| Easy Victory | 5.00% | ~3 |
+| Back From The Dead | 4.00% | ~3 |
+| Easy Victory | 4.00% | ~3 |
 | Ball Protector | 3.00% | ~2 |
 | Untouchable | 3.00% | ~2 |
-| Ball Collector | 2.00% | ~1 |
-| Bullet Hell | 2.00% | ~1 |
-| Collector | 2.00% | ~1 |
-| Detoxed | 2.00% | ~1 |
-| Ice Breaker | 2.00% | ~1 |
-| Legendary Destructor | 2.00% | ~1 |
-| Machine Man | 2.00% | ~1 |
-| Medium Rare | 2.00% | ~1 |
-| Monster of Fashion | 2.00% | ~1 |
-| Mushroom Man | 2.00% | ~1 |
-| Nomad | 2.00% | ~1 |
-| Scrap Collector | 2.00% | ~1 |
-| Single Person On Earth | 2.00% | ~1 |
-| Ticking Clock | 2.00% | ~1 |
-| Total Walrus | 2.00% | ~1 |
-| True Victory | 2.00% | ~1 |
-| Victory That Is Even More True | 2.00% | ~1 |
-| What Even Are You? | 2.00% | ~1 |
+| Ball Collector | 1.00% | ~1 |
+| Bullet Hell | 1.00% | ~1 |
+| Collector | 1.00% | ~1 |
+| Detoxed | 1.00% | ~1 |
+| Ice Breaker | 1.00% | ~1 |
+| Legendary Destructor | 1.00% | ~1 |
+| Machine Man | 1.00% | ~1 |
+| Medium Rare | 1.00% | ~1 |
+| Monster of Fashion | 1.00% | ~1 |
+| Mushroom Man | 1.00% | ~1 |
+| Nomad | 1.00% | ~1 |
+| Scrap Collector | 1.00% | ~1 |
+| Single Person On Earth | 1.00% | ~1 |
+| Ticking Clock | 1.00% | ~1 |
+| Total Walrus | 1.00% | ~1 |
+| True Victory | 1.00% | ~1 |
+| Victory That Is Even More True | 1.00% | ~1 |
+| What Even Are You? | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 270)  
-Completed: 1 (1.52%) (Ranked 71)  
+Progressed: 67 (Ranked 270)  
+Completed: 1 (1.49%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -56,7 +56,7 @@ Completed: 1 (1.52%) (Ranked 71)
 | 2023-05-10 | 60 | 1 |
 | 2023-05-11 | 63 | 1 |
 | 2023-05-12 | 65 | 1 |
-| 2023-05-13 | 66 | 1 |
+| 2023-05-13 | 67 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

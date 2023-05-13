@@ -6,68 +6,68 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~11,135 |
-| The Evilest Evil | 60.00% | ~9,544 |
-| Twistram is devastated | 59.00% | ~9,385 |
-| The Gehenna Stones | 51.00% | ~8,113 |
-| No one has to die today! | 47.00% | ~7,476 |
-| Death and destruction! | 46.00% | ~7,317 |
-| The Swamplanders from the swamplands | 45.00% | ~7,158 |
-| Rusty Steel | 43.00% | ~6,840 |
-| The One-Huge-Army-Building Evil | 42.00% | ~6,681 |
-| The last burger | 40.00% | ~6,363 |
-| Braiiiiins! | 39.00% | ~6,204 |
-| Hands off the Dungeonheart! | 38.00% | ~6,045 |
-| A trip on sea, what fun it can be | 37.00% | ~5,886 |
-| Damned good | 35.00% | ~5,567 |
-| Stock Market Crash | 33.00% | ~5,249 |
-| Factory farming | 33.00% | ~5,249 |
-| Not-So-Overproud | 32.00% | ~5,090 |
-| For a handfull of Catapults | 31.00% | ~4,931 |
-| Thirst quencher | 29.00% | ~4,613 |
-| Ogre Solo! | 29.00% | ~4,613 |
-| Shadow hunter | 29.00% | ~4,613 |
-| Destroy the thing | 28.00% | ~4,454 |
-| Tide Master | 28.00% | ~4,454 |
-| Difficult family relationships | 27.00% | ~4,295 |
-| Prepare the grave | 26.00% | ~4,136 |
-| Angel of Fire | 26.00% | ~4,136 |
-| MASS-O-BOT | 25.00% | ~3,977 |
-| Where there is Light, there is Shadow | 25.00% | ~3,977 |
-| At the foot of Mount Destiny | 24.00% | ~3,818 |
-| The Force disturbed | 23.00% | ~3,659 |
-| The Victorious Evil | 21.00% | ~3,340 |
-| We don’t have time! | 21.00% | ~3,340 |
-| Chorus of damnation | 20.00% | ~3,181 |
-| Lifeguard | 19.00% | ~3,022 |
-| The Stones’ Power | 18.00% | ~2,863 |
-| Flat as a pancake | 18.00% | ~2,863 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~2,545 |
-| This is fun, I’m going to keep doing this! | 13.00% | ~2,068 |
-| Then let them eat cake! | 13.00% | ~2,068 |
-| Please, no interruptions! | 11.00% | ~1,750 |
-| The White Knight | 10.00% | ~1,591 |
-| Use the terrain | 9.00% | ~1,432 |
-| Master of Traps | 9.00% | ~1,432 |
-| Ignore The Level Designer’s Plan | 9.00% | ~1,432 |
-| Can’t stand to see an Ogre bleed | 9.00% | ~1,432 |
-| Lifesaver | 9.00% | ~1,432 |
-| Prison Break | 9.00% | ~1,432 |
-| Hearts of Iron | 8.00% | ~1,273 |
-| Spawner Killer | 7.00% | ~1,113 |
-| A little something extra | 7.00% | ~1,113 |
-| Hearts are trump | 7.00% | ~1,113 |
-| The Benevolent Evil | 6.00% | ~954 |
-| Band of Brothers | 5.00% | ~795 |
-| Night of the Living Dead (on Speed) | 4.00% | ~636 |
-| I need a hero! | 4.00% | ~636 |
-| Storm And Stress | 3.00% | ~477 |
-| Not a scratch | 3.00% | ~477 |
-| I love the smell of Catapult fire! | 3.00% | ~477 |
+| The Shadow strikes | 70.00% | ~11,145 |
+| The Evilest Evil | 60.00% | ~9,553 |
+| Twistram is devastated | 59.00% | ~9,394 |
+| The Gehenna Stones | 51.00% | ~8,120 |
+| No one has to die today! | 47.00% | ~7,483 |
+| Death and destruction! | 46.00% | ~7,324 |
+| The Swamplanders from the swamplands | 45.00% | ~7,165 |
+| Rusty Steel | 43.00% | ~6,846 |
+| The One-Huge-Army-Building Evil | 42.00% | ~6,687 |
+| The last burger | 39.00% | ~6,210 |
+| Braiiiiins! | 39.00% | ~6,210 |
+| Hands off the Dungeonheart! | 38.00% | ~6,050 |
+| A trip on sea, what fun it can be | 37.00% | ~5,891 |
+| Damned good | 35.00% | ~5,573 |
+| Stock Market Crash | 33.00% | ~5,254 |
+| Factory farming | 33.00% | ~5,254 |
+| Not-So-Overproud | 32.00% | ~5,095 |
+| For a handfull of Catapults | 31.00% | ~4,936 |
+| Thirst quencher | 29.00% | ~4,617 |
+| Ogre Solo! | 29.00% | ~4,617 |
+| Shadow hunter | 29.00% | ~4,617 |
+| Destroy the thing | 28.00% | ~4,458 |
+| Tide Master | 28.00% | ~4,458 |
+| Difficult family relationships | 27.00% | ~4,299 |
+| Prepare the grave | 26.00% | ~4,140 |
+| Angel of Fire | 26.00% | ~4,140 |
+| MASS-O-BOT | 25.00% | ~3,980 |
+| Where there is Light, there is Shadow | 25.00% | ~3,980 |
+| At the foot of Mount Destiny | 24.00% | ~3,821 |
+| The Force disturbed | 23.00% | ~3,662 |
+| The Victorious Evil | 21.00% | ~3,344 |
+| We don’t have time! | 21.00% | ~3,344 |
+| Chorus of damnation | 20.00% | ~3,184 |
+| Lifeguard | 19.00% | ~3,025 |
+| The Stones’ Power | 18.00% | ~2,866 |
+| Flat as a pancake | 18.00% | ~2,866 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~2,548 |
+| This is fun, I’m going to keep doing this! | 13.00% | ~2,070 |
+| Then let them eat cake! | 13.00% | ~2,070 |
+| Please, no interruptions! | 11.00% | ~1,751 |
+| The White Knight | 10.00% | ~1,592 |
+| Use the terrain | 9.00% | ~1,433 |
+| Master of Traps | 9.00% | ~1,433 |
+| Ignore The Level Designer’s Plan | 9.00% | ~1,433 |
+| Can’t stand to see an Ogre bleed | 9.00% | ~1,433 |
+| Lifesaver | 9.00% | ~1,433 |
+| Prison Break | 9.00% | ~1,433 |
+| Hearts of Iron | 8.00% | ~1,274 |
+| Spawner Killer | 7.00% | ~1,115 |
+| A little something extra | 7.00% | ~1,115 |
+| Hearts are trump | 7.00% | ~1,115 |
+| The Benevolent Evil | 6.00% | ~955 |
+| Band of Brothers | 5.00% | ~796 |
+| Night of the Living Dead (on Speed) | 4.00% | ~637 |
+| I need a hero! | 4.00% | ~637 |
+| Storm And Stress | 3.00% | ~478 |
+| Not a scratch | 3.00% | ~478 |
+| I love the smell of Catapult fire! | 3.00% | ~478 |
 | Discoverer | 2.00% | ~318 |
 | Sacrifices! | 2.00% | ~318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,907 (Ranked 96)  
+Progressed: 15,922 (Ranked 96)  
 Completed: 150 (0.94%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,10 +90,10 @@ Completed: 150 (0.94%) (Ranked 85)
 | 2023-05-10 | 15,554 | 145 |
 | 2023-05-11 | 15,645 | 146 |
 | 2023-05-12 | 15,762 | 148 |
-| 2023-05-13 | 15,907 | 150 |
+| 2023-05-13 | 15,922 | 150 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 217)  
-Sum: 2,523 (Ranked 165)  
+Sum: 2,524 (Ranked 165)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): 52
 | This game is Extremely Fun | 307 |
 | This game has Quickly Understood Controls | 298 |
 | This game is Highly Recommended | 281 |
-| This game has Amazing Storytelling | 280 |
+| This game has Amazing Storytelling | 281 |
 | This game has Amazing Characters | 279 |
 | This game is Relaxing | 259 |
 | This game has Diverse Characters | 258 |
@@ -211,4 +211,4 @@ Diff (max vs sum): 52
 | 2023-05-07 | 4.65 | - | 318 | 2,517 |
 | 2023-05-08 | 4.65 | - | 318 | 2,520 |
 | 2023-05-10 | 4.65 | - | 319 | 2,521 |
-| 2023-05-13 | 4.65 | - | 321 | 2,523 |
+| 2023-05-13 | 4.65 | - | 321 | 2,524 |

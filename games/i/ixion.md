@@ -34,6 +34,7 @@ Rating: 4.54 (Ranked 477)
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | ...  in a finite world | 0.20% | ~4 |
+| Sustainable Energy | 0.20% | ~4 |
 | Praise the Hull! | 0.20% | ~4 |
 | Necessary Enhancement | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
@@ -44,7 +45,7 @@ Rating: 4.54 (Ranked 477)
 | Pulsar Disciple | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
-| Sustainable Energy | 0.10% | ~2 |
+| Tiqqun Contender | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Space Greenhouse | 0.10% | ~2 |
@@ -52,7 +53,6 @@ Rating: 4.54 (Ranked 477)
 | Soylent Green | 0.10% | ~2 |
 | Help of the Forgotten Member | 0.10% | ~2 |
 | Beyond Time and Space | 0.00% | ~0 |
-| Tiqqun Contender | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
 | Work Harder | 0.00% | ~0 |

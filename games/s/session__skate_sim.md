@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~977 |
+| You're free now! | 50.00% | ~978 |
 | Keeping it classy | 26.00% | ~508 |
 | Welcome to the family | 18.00% | ~352 |
 | The finer things in life | 16.00% | ~313 |
-| Backpacker | 12.00% | ~234 |
-| Go with the Flow | 12.00% | ~234 |
+| Backpacker | 12.00% | ~235 |
+| Go with the Flow | 12.00% | ~235 |
 | Plastic Surgeon | 9.00% | ~176 |
 | The flip trick crown jewel | 9.00% | ~176 |
 | Keep the dream alive | 8.00% | ~156 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,954 (Ranked 144)  
+Progressed: 1,955 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-10 | 1,948 | 0 |
 | 2023-05-11 | 1,951 | 0 |
 | 2023-05-12 | 1,953 | 0 |
-| 2023-05-13 | 1,954 | 0 |
+| 2023-05-13 | 1,955 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
-Sum: 406 (Ranked 302)  
+Sum: 407 (Ranked 302)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
@@ -94,7 +94,7 @@ Diff (max vs sum): 91
 | This game has Diverse Characters | 36 |
 | This game is Extremely Fun | 34 |
 | This game has Quickly Understood Controls | 34 |
-| This game has Challenging Combat | 25 |
+| This game has Challenging Combat | 26 |
 | This game is Educational | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -191,3 +191,4 @@ Diff (max vs sum): 91
 | 2023-05-07 | 4.65 | - | 48 | 404 |
 | 2023-05-09 | 4.65 | - | 48 | 406 |
 | 2023-05-11 | 4.66 | - | 48 | 406 |
+| 2023-05-13 | 4.66 | - | 48 | 407 |

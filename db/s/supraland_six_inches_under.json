@@ -590,9 +590,9 @@
       "ID": "BoomerAxe",
       "SetID": "5lok9mm",
       "Name": "Boomeraxe",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1743
     },
     {
       "ID": "BossBeaten",
@@ -846,9 +846,9 @@
       "ID": "Race",
       "SetID": "5lok9mm",
       "Name": "Faster",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1202
     },
     {
       "ID": "Revenge",
@@ -958,8 +958,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-13T19:06:32.5807715+00:00",
+  "LastChanged_Achievements": "2023-05-13T20:07:01.708083+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:59.1604031+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:00:27.9169322+00:00",
-  "LastUpdate_Achievements": "2023-05-13T19:06:32.5808075+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:00:55.7318935+00:00",
+  "LastUpdate_Achievements": "2023-05-13T20:07:01.7081266+00:00"
 }

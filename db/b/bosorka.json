@@ -2,9 +2,9 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -143,6 +143,11 @@
       "Time": "2023-05-11T09:05:27.7507812+00:00",
       "NumProgressed": 70,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T20:06:18.6759753+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -152,7 +157,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 55,
       "UsersEstimate": 39
     },
@@ -160,7 +165,7 @@
       "ID": "RUNE_BAT",
       "SetID": "9433p49",
       "Name": "It doesn\u0027t work like that",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 55,
       "UsersEstimate": 13
     },
@@ -200,7 +205,7 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
       "UsersEstimate": 35
     },
@@ -216,7 +221,7 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 55,
       "UsersEstimate": 33
     },
@@ -248,7 +253,7 @@
       "ID": "RUNE_OVERSTAMINA",
       "SetID": "9433p49",
       "Name": "A small victory",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 75,
       "UsersEstimate": 11
     },
@@ -256,7 +261,7 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 55,
       "UsersEstimate": 55
     },
@@ -273,7 +278,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
@@ -281,8 +286,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-05-13T19:05:51.3580046+00:00",
+  "LastChanged_Achievements": "2023-05-13T20:06:18.675975+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:29.3226944+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:57:34.7023312+00:00",
-  "LastUpdate_Achievements": "2023-05-13T19:05:51.3580153+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:57:48.7127529+00:00",
+  "LastUpdate_Achievements": "2023-05-13T20:06:18.6759874+00:00"
 }

@@ -178,7 +178,7 @@
   "Tags": [],
   "EOS_Progressed": 1882,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -653,9 +653,9 @@
       "ID": "ACH_BASE_16",
       "SetID": "92iocjf",
       "Name": "Tiqqun Contender",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BASE_17",
@@ -701,9 +701,9 @@
       "ID": "ACH_BASE_22",
       "SetID": "92iocjf",
       "Name": "Sustainable Energy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_BASE_23",
@@ -1076,8 +1076,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
-  "LastChanged_Achievements": "2023-05-13T19:05:46.0613598+00:00",
+  "LastChanged_Achievements": "2023-05-13T20:06:13.220568+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:58:36.4687896+00:00",
-  "LastUpdate_Achievements": "2023-05-13T19:05:46.0614064+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:58:54.6326377+00:00",
+  "LastUpdate_Achievements": "2023-05-13T20:06:13.2206392+00:00"
 }

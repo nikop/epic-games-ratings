@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Occupy Mars! | 80.00% | ~4 |
+| Fear my botany powers, Mars | 60.00% | ~3 |
 | I don't feel so good | 60.00% | ~3 |
-| Fear my botany powers, Mars | 40.00% | ~2 |
 | Cooking Vegetables | 20.00% | ~1 |
 | Driver's License | 20.00% | ~1 |
 | Explosive Miner | 20.00% | ~1 |

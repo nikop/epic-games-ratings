@@ -6,53 +6,53 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~3,655 |
-| Sword Runner | 63.00% | ~2,952 |
-| Wallrunner | 58.00% | ~2,718 |
-| Running out of breath | 57.00% | ~2,671 |
-| Homerunner | 48.00% | ~2,249 |
-| I call it luck | 47.00% | ~2,202 |
-| Out of order | 47.00% | ~2,202 |
-| Where are my Keys? | 45.00% | ~2,109 |
-| Back to hell | 39.00% | ~1,828 |
-| Perfection | 35.00% | ~1,640 |
-| Sword to a gunfight | 32.00% | ~1,500 |
-| Why not both | 32.00% | ~1,500 |
-| Upgrades not mandatory | 31.00% | ~1,453 |
-| Artificial selection | 30.00% | ~1,406 |
-| Control freak | 30.00% | ~1,406 |
-| Running Wild | 30.00% | ~1,406 |
-| Finish line | 28.00% | ~1,312 |
-| Unstoppable force | 25.00% | ~1,172 |
-| Wave of mutilation | 23.00% | ~1,078 |
-| Can't Run Can't Hide | 20.00% | ~937 |
-| R is for Running | 19.00% | ~890 |
-| Dead in the air | 17.00% | ~797 |
-| Improvise, adapt, overrun | 15.00% | ~703 |
-| Pre-empative strike | 15.00% | ~703 |
-| More than human | 13.00% | ~609 |
-| Strike | 13.00% | ~609 |
+| Longrunner | 78.00% | ~3,660 |
+| Sword Runner | 63.00% | ~2,956 |
+| Wallrunner | 58.00% | ~2,721 |
+| Running out of breath | 57.00% | ~2,674 |
+| Homerunner | 48.00% | ~2,252 |
+| I call it luck | 47.00% | ~2,205 |
+| Out of order | 47.00% | ~2,205 |
+| Where are my Keys? | 45.00% | ~2,111 |
+| Back to hell | 39.00% | ~1,830 |
+| Perfection | 35.00% | ~1,642 |
+| Sword to a gunfight | 32.00% | ~1,501 |
+| Why not both | 32.00% | ~1,501 |
+| Upgrades not mandatory | 31.00% | ~1,455 |
+| Artificial selection | 30.00% | ~1,408 |
+| Control freak | 30.00% | ~1,408 |
+| Running Wild | 30.00% | ~1,408 |
+| Finish line | 28.00% | ~1,314 |
+| Unstoppable force | 25.00% | ~1,173 |
+| Wave of mutilation | 23.00% | ~1,079 |
+| Can't Run Can't Hide | 20.00% | ~938 |
+| R is for Running | 19.00% | ~891 |
+| Dead in the air | 17.00% | ~798 |
+| Improvise, adapt, overrun | 15.00% | ~704 |
+| Pre-empative strike | 15.00% | ~704 |
+| More than human | 13.00% | ~610 |
+| Strike | 13.00% | ~610 |
 | Triple A | 10.00% | ~469 |
 | Fine addition | 8.00% | ~375 |
 | One Of Those Days | 7.00% | ~328 |
-| About Adam | 5.00% | ~234 |
-| Push it to the limit | 5.00% | ~234 |
-| Where He Stood | 5.00% | ~234 |
-| Just A Man | 4.00% | ~187 |
-| Scrapped | 4.00% | ~187 |
-| Strafing Run | 4.00% | ~187 |
+| About Adam | 5.00% | ~235 |
+| Push it to the limit | 5.00% | ~235 |
+| Where He Stood | 5.00% | ~235 |
+| Just A Man | 4.00% | ~188 |
+| Scrapped | 4.00% | ~188 |
+| Strafing Run | 4.00% | ~188 |
 | Junkrunner | 3.00% | ~141 |
 | One man's trash | 3.00% | ~141 |
 | Hit me if you can | 2.00% | ~94 |
 | Obedient Machine | 1.00% | ~47 |
-| Everyone Needs A Hobby | 0.80% | ~37 |
+| Everyone Needs A Hobby | 0.80% | ~38 |
 | Sticks And Stones | 0.60% | ~28 |
 | A Grade | 0.50% | ~23 |
 | GR Project Complete | 0.50% | ~23 |
 | Legacy Drivers | 0.50% | ~23 |
 | Up Close And Personal | 0.50% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,686 (Ranked 125)  
+Progressed: 4,692 (Ranked 125)  
 Completed: 22 (0.47%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,16 +75,16 @@ Completed: 22 (0.47%) (Ranked 105)
 | 2023-05-10 | 4,429 | 22 |
 | 2023-05-11 | 4,506 | 22 |
 | 2023-05-12 | 4,596 | 22 |
-| 2023-05-13 | 4,686 | 22 |
+| 2023-05-13 | 4,692 | 22 |
 ## Awards
 Max (Great Boss Battles): 456  (Ranked 189)  
-Sum: 588 (Ranked 282)  
+Sum: 589 (Ranked 282)  
 Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 456 |
+| This game has Amazing Characters | 25 |
 | This game has Diverse Characters | 24 |
-| This game has Amazing Characters | 24 |
 | This game has a Creative Community | 22 |
 | This game is Relaxing | 21 |
 | This game has Challenging Combat | 21 |
@@ -188,3 +188,4 @@ Diff (max vs sum): -93
 | 2023-04-30 | 4.72 | - | 454 | 586 |
 | 2023-05-07 | 4.72 | - | 455 | 587 |
 | 2023-05-10 | 4.72 | - | 456 | 588 |
+| 2023-05-13 | 4.72 | - | 456 | 589 |

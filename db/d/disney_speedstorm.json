@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2434,
+  "EOS_Progressed": 2437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1305,6 +1305,11 @@
       "Time": "2023-05-13T19:06:00.9929614+00:00",
       "NumProgressed": 2434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T20:06:28.8840535+00:00",
+      "NumProgressed": 2437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1316,7 +1321,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "10",
@@ -1324,7 +1329,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "11",
@@ -1356,7 +1361,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "15",
@@ -1404,7 +1409,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "20",
@@ -1420,7 +1425,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "22",
@@ -1428,7 +1433,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "23",
@@ -1468,7 +1473,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "6",
@@ -1500,20 +1505,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2434,
+      "Progressed": 2437,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-13T19:06:00.9929608+00:00",
+  "LastChanged_Achievements": "2023-05-13T20:06:28.8840531+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:59:08.1810426+00:00",
-  "LastUpdate_Achievements": "2023-05-13T19:06:00.9929853+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:59:29.9630565+00:00",
+  "LastUpdate_Achievements": "2023-05-13T20:06:28.8840811+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
-  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -2298,11 +2298,11 @@
       "Count": 467
     }
   ],
-  "EOS_Progressed": 266875,
-  "EOS_Completed": 360,
-  "EOS_NewPlayers": 1026,
+  "EOS_Progressed": 266886,
+  "EOS_Completed": 361,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:00.6952195+00:00",
@@ -4368,6 +4368,11 @@
       "Time": "2023-05-13T19:01:27.7072751+00:00",
       "NumProgressed": 266875,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2023-05-13T20:02:01.9646837+00:00",
+      "NumProgressed": 266886,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 45,
@@ -4387,7 +4392,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16012
+      "UsersEstimate": 16013
     },
     {
       "ID": "PFA_11",
@@ -4395,7 +4400,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16012
+      "UsersEstimate": 16013
     },
     {
       "ID": "PFA_12",
@@ -4403,7 +4408,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16012
+      "UsersEstimate": 16013
     },
     {
       "ID": "PFA_13",
@@ -4419,7 +4424,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 8006
+      "UsersEstimate": 8007
     },
     {
       "ID": "PFA_15",
@@ -4515,7 +4520,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8006
+      "UsersEstimate": 8007
     },
     {
       "ID": "PFA_26",
@@ -4547,7 +4552,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8006
+      "UsersEstimate": 8007
     },
     {
       "ID": "PFA_3",
@@ -4579,7 +4584,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8006
+      "UsersEstimate": 8007
     },
     {
       "ID": "PFA_33",
@@ -4667,7 +4672,7 @@
       "Name": "Raising Expectations",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8006
+      "UsersEstimate": 8007
     },
     {
       "ID": "PFA_43",
@@ -4738,16 +4743,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 266875,
-      "Completed": 360
+      "Progressed": 266886,
+      "Completed": 361
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-13T18:57:16.2222557+00:00",
-  "LastChanged_Achievements": "2023-05-13T19:01:27.7072747+00:00",
+  "LastChanged_Achievements": "2023-05-13T20:02:01.9646833+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-13T18:57:16.2222562+00:00",
-  "LastUpdate_Achievements": "2023-05-13T19:01:27.7073189+00:00"
+  "LastUpdate_Ratings": "2023-05-13T19:57:29.4621167+00:00",
+  "LastUpdate_Achievements": "2023-05-13T20:02:01.96474+00:00"
 }
