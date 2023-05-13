@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ROOKIE | 52.00% | ~1,267 |
-| EXTRA BOOST | 40.00% | ~975 |
+| EXTRA BOOST | 41.00% | ~999 |
 | IT MAKES BOOM! | 40.00% | ~975 |
 | PRO | 31.00% | ~755 |
 | PROTECTED | 28.00% | ~682 |
@@ -21,7 +21,7 @@
 | LEGENDARY HERO | 7.00% | ~171 |
 | TRAINING HARD | 6.00% | ~146 |
 | ACE BRAWLER | 6.00% | ~146 |
-| MASTER | 4.00% | ~97 |
+| MASTER | 5.00% | ~122 |
 | FRIENDLY | 3.00% | ~73 |
 | ACE TRICKSTER | 3.00% | ~73 |
 | EXPERIENCED CREW | 2.00% | ~49 |

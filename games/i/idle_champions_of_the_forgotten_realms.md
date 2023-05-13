@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 1.00% | ~537 |
 | The Cursed Farmer | 1.00% | ~874 |
 | Beast Intentions | 0.80% | ~699 |
-| Bully for Vecna | 0.80% | ~429 |
+| Bully for Vecna | 0.80% | ~430 |
 | The Mad Wizard | 0.80% | ~699 |
 | The Ring of Regeneration | 0.70% | ~612 |
 | Were-verpowered | 0.60% | ~524 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,409 (Ranked 59)  
+Progressed: 87,415 (Ranked 59)  
 Completed: 1,836 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,836 (2.10%) (Ranked 61)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,409 | 1,836 |
+| 2023-05-13 | 87,415 | 1,836 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,873 (Ranked 37)  

@@ -5,18 +5,18 @@ Rating: 4.68 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,798 |
-| Mods Please Ban | 77.00% | ~17,439 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,212 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,533 |
-| First Bounty Down | 59.00% | ~13,362 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,909 |
+| Eye Scream, You Scream | 83.00% | ~18,799 |
+| Mods Please Ban | 77.00% | ~17,440 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,213 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,534 |
+| First Bounty Down | 59.00% | ~13,363 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,910 |
 | Luglox Genocide | 43.00% | ~9,739 |
 | Playing Card To Get | 33.00% | ~7,474 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,474 |
 | Creature Feature | 29.00% | ~6,568 |
-| Satisfied Gus-tomer | 28.00% | ~6,341 |
-| Cold-Blooded Driller | 28.00% | ~6,341 |
+| Satisfied Gus-tomer | 28.00% | ~6,342 |
+| Cold-Blooded Driller | 28.00% | ~6,342 |
 | G3 Graduation | 25.00% | ~5,662 |
 | Are You Packin'? | 24.00% | ~5,436 |
 | RIP Davey Glutes | 24.00% | ~5,436 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 235)
 | Epic Legendary Prize | 1.00% | ~226 |
 | A Starfish Is Born | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,648 (Ranked 88)  
+Progressed: 22,649 (Ranked 88)  
 Completed: 8 (0.04%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 8 (0.04%) (Ranked 176)
 | 2023-05-10 | 22,634 | 8 |
 | 2023-05-11 | 22,640 | 8 |
 | 2023-05-12 | 22,644 | 8 |
-| 2023-05-13 | 22,648 | 8 |
+| 2023-05-13 | 22,649 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

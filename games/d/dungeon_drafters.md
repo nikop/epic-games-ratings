@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 43.00% | ~10 |
-| Uncut Gem | 43.00% | ~10 |
-| Might be useful… | 43.00% | ~10 |
-| Friend! | 39.00% | ~9 |
-| Setting Off | 35.00% | ~8 |
-| Clear as Water | 35.00% | ~8 |
-| Riddlesolver | 30.00% | ~7 |
-| Shine! | 30.00% | ~7 |
-| Dungeon Mastery | 26.00% | ~6 |
+| Treasure Hunting | 42.00% | ~10 |
+| Uncut Gem | 42.00% | ~10 |
+| Might be useful… | 42.00% | ~10 |
+| Friend! | 38.00% | ~9 |
+| Setting Off | 33.00% | ~8 |
+| Clear as Water | 33.00% | ~8 |
+| Riddlesolver | 29.00% | ~7 |
+| Shine! | 29.00% | ~7 |
+| Dungeon Mastery | 25.00% | ~6 |
 | The Apprentice | 17.00% | ~4 |
 | The Steed | 17.00% | ~4 |
 | Card Collector | 17.00% | ~4 |
 | The Bodyguard | 13.00% | ~3 |
 | The Familiar | 13.00% | ~3 |
 | A Strange Proposition | 13.00% | ~3 |
-| Braving Miasma | 9.00% | ~2 |
-| Ancient Nemesis | 9.00% | ~2 |
-| Best Pupil | 9.00% | ~2 |
-| Oracle Mastery | 9.00% | ~2 |
-| FOR JUSTICE! | 9.00% | ~2 |
-| Raider Mastery | 9.00% | ~2 |
-| Journey’s End | 9.00% | ~2 |
-| Traveler Mastery | 9.00% | ~2 |
-| Masterpiece | 9.00% | ~2 |
-| Warden Mastery | 9.00% | ~2 |
-| Towards the Future | 9.00% | ~2 |
-| The Plot Thickens | 9.00% | ~2 |
-| Trinket Enthusiast | 9.00% | ~2 |
-| The Usurper | 9.00% | ~2 |
-| First time? | 9.00% | ~2 |
-| Harmony | 9.00% | ~2 |
-| A New Tomorrow | 9.00% | ~2 |
-| ACHOO! | 9.00% | ~2 |
-| No Stone Unturned | 9.00% | ~2 |
+| Braving Miasma | 8.00% | ~2 |
+| Ancient Nemesis | 8.00% | ~2 |
+| Best Pupil | 8.00% | ~2 |
+| Oracle Mastery | 8.00% | ~2 |
+| FOR JUSTICE! | 8.00% | ~2 |
+| Raider Mastery | 8.00% | ~2 |
+| Journey’s End | 8.00% | ~2 |
+| Traveler Mastery | 8.00% | ~2 |
+| Masterpiece | 8.00% | ~2 |
+| Warden Mastery | 8.00% | ~2 |
+| Towards the Future | 8.00% | ~2 |
+| The Plot Thickens | 8.00% | ~2 |
+| Trinket Enthusiast | 8.00% | ~2 |
+| The Usurper | 8.00% | ~2 |
+| First time? | 8.00% | ~2 |
+| Harmony | 8.00% | ~2 |
+| A New Tomorrow | 8.00% | ~2 |
+| ACHOO! | 8.00% | ~2 |
+| No Stone Unturned | 8.00% | ~2 |
 | The New Demon Lord | 4.00% | ~1 |
 | Card Completionist | 4.00% | ~1 |
 | The False Prophet | 4.00% | ~1 |
@@ -45,7 +45,7 @@
 | Gladiator | 4.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 297)  
+Progressed: 24 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-03 | 20 | 0 |
 | 2023-05-05 | 22 | 0 |
 | 2023-05-06 | 23 | 0 |
+| 2023-05-13 | 24 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -300,11 +300,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2328,
+  "EOS_Progressed": 2329,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.87,
+  "EOS_Completed_Percentage": 3.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -660,6 +660,11 @@
       "Time": "2023-05-13T20:06:54.0268409+00:00",
       "NumProgressed": 2328,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-13T22:06:41.7582666+00:00",
+      "NumProgressed": 2329,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 14,
@@ -695,7 +700,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -703,7 +708,7 @@
       "Name": "Dog Person",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -727,7 +732,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -741,9 +746,9 @@
       "ID": "ACH_MAD_SCIENTIST",
       "SetID": "4kfb9pd",
       "Name": "Mad Scientist",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 535
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_REUNION",
@@ -767,7 +772,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -782,7 +787,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2328,
+      "Progressed": 2329,
       "Completed": 90
     }
   ],
@@ -790,8 +795,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-12T22:01:09.3840523+00:00",
-  "LastChanged_Achievements": "2023-05-13T21:05:24.5134976+00:00",
+  "LastChanged_Achievements": "2023-05-13T22:06:41.7582662+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:11.6755878+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:59:40.2397619+00:00",
-  "LastUpdate_Achievements": "2023-05-13T21:05:24.5135106+00:00"
+  "LastUpdate_Ratings": "2023-05-13T22:00:59.3122374+00:00",
+  "LastUpdate_Achievements": "2023-05-13T22:06:41.7582812+00:00"
 }

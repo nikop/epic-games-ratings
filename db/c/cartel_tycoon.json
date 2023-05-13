@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -515,6 +515,11 @@
       "Time": "2023-05-13T21:05:22.5687515+00:00",
       "NumProgressed": 323,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T22:06:39.221639+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -550,7 +555,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "female-conqueror",
@@ -574,7 +579,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "kill-lieutenants",
@@ -598,7 +603,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "product-profit",
@@ -612,9 +617,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 146
     },
     {
       "ID": "rename-lieutenant",
@@ -646,7 +651,7 @@
       "Name": "Camellos",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "unlock-residences",
@@ -677,15 +682,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-13T21:05:22.5687509+00:00",
+  "LastChanged_Achievements": "2023-05-13T22:06:39.2216385+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.8903016+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:59:29.9719141+00:00",
-  "LastUpdate_Achievements": "2023-05-13T21:05:22.5687665+00:00"
+  "LastUpdate_Ratings": "2023-05-13T22:00:44.4168369+00:00",
+  "LastUpdate_Achievements": "2023-05-13T22:06:39.2216533+00:00"
 }

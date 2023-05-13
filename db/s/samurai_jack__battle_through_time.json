@@ -4,7 +4,7 @@
   "ProductSlug": "samurai-jack-battle-through-time",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-07-22T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:06.2862274+00:00",
   "LastChanged": "2023-03-31T05:57:06.2862275+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:47.6671683+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:59:19.3622221+00:00",
-  "LastUpdate_Achievements": "2023-05-13T21:04:13.9733458+00:00"
+  "LastUpdate_Ratings": "2023-05-13T22:00:29.7654713+00:00",
+  "LastUpdate_Achievements": "2023-05-13T22:05:06.3887112+00:00"
 }

@@ -3676,9 +3676,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87409,
+  "EOS_Progressed": 87415,
   "EOS_Completed": 1836,
-  "EOS_NewPlayers": 735,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5791,6 +5791,11 @@
       "Time": "2023-05-13T21:05:33.3461931+00:00",
       "NumProgressed": 87409,
       "NumCompleted": 1836
+    },
+    {
+      "Time": "2023-05-13T22:06:52.6064166+00:00",
+      "NumProgressed": 87415,
+      "NumCompleted": 1836
     }
   ],
   "TotalAchievements": 489,
@@ -6698,7 +6703,7 @@
       "Name": "Bully for Vecna",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "objective_completed_1213",
@@ -9713,21 +9718,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53683,
+      "Progressed": 53689,
       "Completed": 2502
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87409,
+      "Progressed": 87415,
       "Completed": 1836
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-13T20:57:49.0180244+00:00",
-  "LastChanged_Achievements": "2023-05-13T21:05:33.3461926+00:00",
+  "LastChanged_Achievements": "2023-05-13T22:06:52.6064163+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:57:49.018025+00:00",
-  "LastUpdate_Achievements": "2023-05-13T21:05:33.3485626+00:00"
+  "LastUpdate_Ratings": "2023-05-13T21:58:14.3025392+00:00",
+  "LastUpdate_Achievements": "2023-05-13T22:06:52.609121+00:00"
 }

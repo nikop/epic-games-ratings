@@ -163,9 +163,9 @@
       "ID": "ACH_EVILDOCUMENTS",
       "SetID": "511e31d",
       "Name": "Horror book",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FORCE",
@@ -330,8 +330,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-05-13T21:04:44.955799+00:00",
+  "LastChanged_Achievements": "2023-05-13T22:05:50.8481768+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:10.9793389+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:57:08.9744887+00:00",
-  "LastUpdate_Achievements": "2023-05-13T21:04:44.9558217+00:00"
+  "LastUpdate_Ratings": "2023-05-13T21:57:14.7550422+00:00",
+  "LastUpdate_Achievements": "2023-05-13T22:05:50.8482014+00:00"
 }

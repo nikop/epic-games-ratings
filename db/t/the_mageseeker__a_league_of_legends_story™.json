@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1985,
+  "EOS_Progressed": 1986,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1246,6 +1246,11 @@
       "Time": "2023-05-13T20:06:19.500608+00:00",
       "NumProgressed": 1985,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T22:06:07.1946436+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1257,7 +1262,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 10,
       "XP": 120,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -1265,7 +1270,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1273,7 +1278,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -1297,7 +1302,7 @@
       "Name": "Hijack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1321,7 +1326,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1337,7 +1342,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1377,7 +1382,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1441,7 +1446,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1481,7 +1486,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1513,7 +1518,7 @@
       "Name": "Glyndemere",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -1527,9 +1532,9 @@
       "ID": "STB_MISSION6_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Terbisia",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 258
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -1561,7 +1566,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1593,7 +1598,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1601,7 +1606,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1633,7 +1638,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1649,7 +1654,7 @@
       "Name": "Full equipped",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -1680,7 +1685,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1985,
+      "Progressed": 1986,
       "Completed": 1
     }
   ],
@@ -1688,8 +1693,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-13T21:04:57.8600505+00:00",
+  "LastChanged_Achievements": "2023-05-13T22:06:07.1946432+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:57:26.7191747+00:00",
-  "LastUpdate_Achievements": "2023-05-13T21:04:57.8601039+00:00"
+  "LastUpdate_Ratings": "2023-05-13T21:57:41.4021445+00:00",
+  "LastUpdate_Achievements": "2023-05-13T22:06:07.1946983+00:00"
 }

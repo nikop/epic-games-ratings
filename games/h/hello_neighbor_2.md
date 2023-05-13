@@ -10,18 +10,18 @@ Rating: 4.38 (Ranked 690)
 | Case Closed | 35.00% | ~815 |
 | Easy As Pie | 32.00% | ~745 |
 | Family Lost | 31.00% | ~722 |
-| Treasure Hunt | 30.00% | ~698 |
+| Treasure Hunt | 30.00% | ~699 |
 | Ancient Curse | 27.00% | ~629 |
 | Cat Person | 25.00% | ~582 |
 | Reunion | 24.00% | ~559 |
-| Climber | 23.00% | ~535 |
-| Hidden Secrets | 23.00% | ~535 |
-| Mad Scientist | 23.00% | ~535 |
+| Climber | 23.00% | ~536 |
+| Hidden Secrets | 23.00% | ~536 |
 | Imprisonment | 22.00% | ~512 |
-| Dog Person | 19.00% | ~442 |
+| Mad Scientist | 22.00% | ~512 |
+| Dog Person | 19.00% | ~443 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,328 (Ranked 140)  
-Completed: 90 (3.87%) (Ranked 36)  
+Progressed: 2,329 (Ranked 140)  
+Completed: 90 (3.86%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -42,7 +42,7 @@ Completed: 90 (3.87%) (Ranked 36)
 | 2023-05-09 | 2,313 | 89 |
 | 2023-05-10 | 2,319 | 89 |
 | 2023-05-11 | 2,325 | 89 |
-| 2023-05-13 | 2,328 | 90 |
+| 2023-05-13 | 2,329 | 90 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

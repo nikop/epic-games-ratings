@@ -30,9 +30,9 @@
 | He who seeks, finds! | 20.00% | ~2 |
 | The experiment | 10.00% | ~1 |
 | Eva's diary | 10.00% | ~1 |
+| Horror book | 10.00% | ~1 |
 | Matthew's revenge | 10.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
-| Horror book | 0.00% | ~0 |
 | A dark past | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

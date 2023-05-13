@@ -12,7 +12,7 @@
 | Bling bling! | 50.00% | ~7 |
 | Still alive! | 36.00% | ~5 |
 | Lives lost | 36.00% | ~5 |
-| Slaughter | 29.00% | ~4 |
+| Slaughter | 36.00% | ~5 |
 | Slay that one too! | 14.00% | ~2 |
 | Endurance test! | 14.00% | ~2 |
 | Massive slaughter | 14.00% | ~2 |

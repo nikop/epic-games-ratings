@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 25.00% | ~2 |
-| Enemy shield analyzed | 25.00% | ~2 |
-| Piece of cake | 13.00% | ~1 |
-| Do a barrel roll! | 13.00% | ~1 |
-| Huh? What was that? | 13.00% | ~1 |
-| Whatever it is, fix it! | 13.00% | ~1 |
-| The opposite of good news | 13.00% | ~1 |
-| No need to say goodbye | 13.00% | ~1 |
-| Priceless company | 13.00% | ~1 |
+| All systems go | 33.00% | ~3 |
+| Do a barrel roll! | 22.00% | ~2 |
+| Enemy shield analyzed | 22.00% | ~2 |
+| Priceless company | 22.00% | ~2 |
+| Piece of cake | 11.00% | ~1 |
+| Huh? What was that? | 11.00% | ~1 |
+| Whatever it is, fix it! | 11.00% | ~1 |
+| The opposite of good news | 11.00% | ~1 |
+| No need to say goodbye | 11.00% | ~1 |
 | Better hurry up | 0.00% | ~0 |
 | I call her the BF-Worm | 0.00% | ~0 |
 | Axel? | 0.00% | ~0 |
@@ -29,7 +29,7 @@
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 325)  
+Progressed: 9 (Ranked 321)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,3 +42,4 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-05 | 6 | 0 |
 | 2023-05-07 | 7 | 0 |
 | 2023-05-12 | 8 | 0 |
+| 2023-05-13 | 9 | 0 |

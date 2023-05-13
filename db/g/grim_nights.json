@@ -211,9 +211,9 @@
       "ID": "ach_slay1000",
       "SetID": "c2c0fb6",
       "Name": "Slaughter",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_slay2000",
@@ -236,8 +236,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-13T21:04:51.9857479+00:00",
+  "LastChanged_Achievements": "2023-05-13T22:05:59.3332333+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:01.3068365+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:58:39.6841777+00:00",
-  "LastUpdate_Achievements": "2023-05-13T21:04:51.985761+00:00"
+  "LastUpdate_Ratings": "2023-05-13T21:59:31.7162115+00:00",
+  "LastUpdate_Achievements": "2023-05-13T22:05:59.3332444+00:00"
 }

@@ -5,35 +5,35 @@ Rating: 4.67 (Ranked 256)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,593 |
-| Tomorrow Never Dyes | 48.00% | ~2,695 |
-| Mainframe Hacker | 45.00% | ~2,526 |
-| The Spy who eliminated me | 45.00% | ~2,526 |
-| Never Say Loser Again | 42.00% | ~2,358 |
-| For your Eyes only | 39.00% | ~2,189 |
-| Tailor-Made | 38.00% | ~2,133 |
-| From the Vault with Love | 37.00% | ~2,077 |
-| Fully Decked Out | 37.00% | ~2,077 |
-| You Only Live Twice | 31.00% | ~1,740 |
-| A view to Win | 29.00% | ~1,628 |
-| Smells Like Trouble | 27.00% | ~1,516 |
-| Private Collection | 26.00% | ~1,460 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,596 |
+| Tomorrow Never Dyes | 47.00% | ~2,640 |
+| Mainframe Hacker | 45.00% | ~2,528 |
+| The Spy who eliminated me | 45.00% | ~2,528 |
+| Never Say Loser Again | 42.00% | ~2,360 |
+| For your Eyes only | 39.00% | ~2,191 |
+| Tailor-Made | 38.00% | ~2,135 |
+| From the Vault with Love | 37.00% | ~2,079 |
+| Fully Decked Out | 37.00% | ~2,079 |
+| You Only Live Twice | 31.00% | ~1,742 |
+| A view to Win | 29.00% | ~1,629 |
+| Smells Like Trouble | 27.00% | ~1,517 |
+| Private Collection | 26.00% | ~1,461 |
 | Assistant Accountant | 25.00% | ~1,404 |
 | In It to Win It | 25.00% | ~1,404 |
 | The Living Portrait | 25.00% | ~1,404 |
 | Killer Looks | 25.00% | ~1,404 |
 | Hostile Takeover | 25.00% | ~1,404 |
-| Keycards Royale | 24.00% | ~1,347 |
-| Dr. No Kill | 24.00% | ~1,347 |
-| My Motto, My Creed | 24.00% | ~1,347 |
-| Security Supervisor | 10.00% | ~561 |
+| Keycards Royale | 24.00% | ~1,348 |
+| Dr. No Kill | 24.00% | ~1,348 |
+| My Motto, My Creed | 24.00% | ~1,348 |
+| Security Supervisor | 10.00% | ~562 |
 | License to Thrill | 8.00% | ~449 |
 | Social of Solace | 8.00% | ~449 |
-| Safe Withdrawal | 7.00% | ~393 |
+| Safe Withdrawal | 6.00% | ~337 |
 | Live and let lie | 5.00% | ~281 |
 | Call Me Maybe | 5.00% | ~281 |
 | PHD in VIP | 4.00% | ~225 |
-| Branch Manager | 3.00% | ~168 |
+| Branch Manager | 3.00% | ~169 |
 | The terminals are not enough | 2.00% | ~112 |
 | Lose Another Day | 2.00% | ~112 |
 | Chairman of Deceive Inc. | 2.00% | ~112 |
@@ -42,7 +42,7 @@ Rating: 4.67 (Ranked 256)
 | Extraction Confusion | 0.30% | ~17 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,614 (Ranked 119)  
+Progressed: 5,618 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-10 | 5,491 | 0 |
 | 2023-05-11 | 5,535 | 0 |
 | 2023-05-12 | 5,569 | 0 |
-| 2023-05-13 | 5,614 | 0 |
+| 2023-05-13 | 5,618 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
