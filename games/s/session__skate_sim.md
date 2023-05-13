@@ -30,6 +30,7 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 5.00% | ~98 |
 | Sup widdit big dog! | 5.00% | ~98 |
 | Commence the Hijinx! | 4.00% | ~78 |
+| Cops called! | 4.00% | ~78 |
 | DIY Boss | 4.00% | ~78 |
 | Globetrotter | 4.00% | ~78 |
 | Laid back | 4.00% | ~78 |
@@ -38,7 +39,6 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 4.00% | ~78 |
 | Renaissance man | 4.00% | ~78 |
 | Tank commander | 4.00% | ~78 |
-| Cops called! | 3.00% | ~59 |
 | G.O.A.T. status | 3.00% | ~59 |
 | Hoarder | 3.00% | ~59 |
 | Trick shot marksman | 3.00% | ~59 |

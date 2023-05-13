@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46142,
+  "EOS_Progressed": 46143,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1511,6 +1511,11 @@
       "Time": "2023-05-13T12:05:35.2939674+00:00",
       "NumProgressed": 46142,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-13T14:06:03.544337+00:00",
+      "NumProgressed": 46143,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1522,7 +1527,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9228
+      "UsersEstimate": 9229
     },
     {
       "ID": "02",
@@ -1530,7 +1535,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5998
+      "UsersEstimate": 5999
     },
     {
       "ID": "03",
@@ -1986,7 +1991,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "60",
@@ -2057,21 +2062,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46142,
+      "Progressed": 46143,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9610,
+      "Progressed": 9611,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-13T13:08:30.7146221+00:00",
+  "LastChanged_Achievements": "2023-05-13T14:06:03.5443365+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:00:30.7312485+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:08:30.7147363+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:57:33.2256565+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:06:03.5444178+00:00"
 }

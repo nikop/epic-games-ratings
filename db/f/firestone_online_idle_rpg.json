@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
@@ -1507,6 +1507,11 @@
       "Time": "2023-05-13T13:08:37.3646153+00:00",
       "NumProgressed": 992,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T14:06:10.9464725+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1564,9 +1569,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "cauldronliberator",
@@ -1820,9 +1825,9 @@
       "ID": "lockandload",
       "SetID": "3nl4bcg",
       "Name": "Lock And Load",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "masterenchanter",
@@ -1894,7 +1899,7 @@
       "Name": "Natural Talent",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "pokerface",
@@ -1918,7 +1923,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "relicofthepast",
@@ -2044,9 +2049,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "transmute",
@@ -2078,7 +2083,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "warmachinesarmy",
@@ -2117,7 +2122,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 1
     }
   ],
@@ -2125,8 +2130,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-13T13:08:37.364615+00:00",
+  "LastChanged_Achievements": "2023-05-13T14:06:10.9464721+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:00:52.2020891+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:08:37.364706+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:57:59.1290492+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:06:10.9465613+00:00"
 }

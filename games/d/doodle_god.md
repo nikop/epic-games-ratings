@@ -8,7 +8,7 @@
 | Practice Makes Perfect | 83.00% | ~168 |
 | Creator of Life | 82.00% | ~166 |
 | Creator of Diversity | 70.00% | ~141 |
-| Similar to Similar | 67.00% | ~135 |
+| Similar to Similar | 68.00% | ~137 |
 | Creator of Humanity | 63.00% | ~127 |
 | Creator of Civilization | 36.00% | ~73 |
 | Creator of Technology | 24.00% | ~48 |
@@ -28,7 +28,7 @@
 | God of Patience | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 202 (Ranked 224)  
-Completed: 8 (3.96%) (Ranked 36)  
+Completed: 8 (3.96%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

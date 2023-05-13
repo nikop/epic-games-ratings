@@ -6,19 +6,19 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,419 |
-| Sweet Sorrow | 19.00% | ~5,499 |
-| Rules the Waves | 17.00% | ~4,920 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,631 |
-| Rival | 14.00% | ~4,052 |
-| Correspondent | 12.00% | ~3,473 |
-| Lose Your Mind | 12.00% | ~3,473 |
-| Sound Mind? | 12.00% | ~3,473 |
+| Sink Beneath the Waves | 36.00% | ~10,422 |
+| Sweet Sorrow | 19.00% | ~5,500 |
+| Rules the Waves | 17.00% | ~4,921 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,632 |
+| Rival | 14.00% | ~4,053 |
+| Correspondent | 12.00% | ~3,474 |
+| Lose Your Mind | 12.00% | ~3,474 |
+| Sound Mind? | 12.00% | ~3,474 |
 | Salt's Curse | 11.00% | ~3,184 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,184 |
 | The Fall of the House | 11.00% | ~3,184 |
 | Shipmate | 11.00% | ~3,184 |
-| One Year at Zee | 8.00% | ~2,315 |
+| One Year at Zee | 8.00% | ~2,316 |
 | Pupil | 7.00% | ~2,026 |
 | Salvager | 7.00% | ~2,026 |
 | Open Your Ears | 7.00% | ~2,026 |
@@ -40,14 +40,14 @@ Number of Ratings: 401  (23.09.2022)
 | Thanks for all the fish | 1.00% | ~289 |
 | Knife, Cup and Bone | 1.00% | ~289 |
 | Those are pearls that were his eyes | 1.00% | ~289 |
-| No regrets | 1.00% | ~289 |
 | Rosewater sailor | 1.00% | ~289 |
 | Under the zee | 1.00% | ~289 |
 | A current under zee | 1.00% | ~289 |
-| A zee-change | 0.90% | ~260 |
-| Never Stop Sinking... | 0.90% | ~260 |
-| Leviathan | 0.90% | ~260 |
-| Depth charge | 0.90% | ~260 |
+| A zee-change | 0.90% | ~261 |
+| Never Stop Sinking... | 0.90% | ~261 |
+| Leviathan | 0.90% | ~261 |
+| No regrets | 0.90% | ~261 |
+| Depth charge | 0.90% | ~261 |
 | What lies beneath | 0.80% | ~232 |
 | Stone's Curse | 0.70% | ~203 |
 | Five Years at Zee | 0.50% | ~145 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~29 |
 | Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,943 (Ranked 84)  
+Progressed: 28,949 (Ranked 84)  
 Completed: 3 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 3 (0.01%) (Ranked 190)
 | 2023-05-10 | 28,762 | 3 |
 | 2023-05-11 | 28,828 | 3 |
 | 2023-05-12 | 28,900 | 3 |
-| 2023-05-13 | 28,943 | 3 |
+| 2023-05-13 | 28,949 | 3 |
 ## Awards
 Max (Character Customization): 205  (Ranked 255)  
 Sum: 274 (Ranked 331)  

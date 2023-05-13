@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2431,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1483,9 +1483,9 @@
       "ID": "9",
       "SetID": "9p3jgda",
       "Name": "LEGENDARY HERO",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
@@ -1497,8 +1497,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-13T13:08:37.5978723+00:00",
+  "LastChanged_Achievements": "2023-05-13T14:06:11.1984345+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:01:51.1127298+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:08:37.5979379+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:59:09.3229473+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:06:11.1984616+00:00"
 }

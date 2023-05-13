@@ -8,7 +8,7 @@
 | Gear Up | 60.00% | ~15 |
 | A Grand Show | 60.00% | ~15 |
 | Freshen Up | 48.00% | ~12 |
-| GG EZ | 40.00% | ~10 |
+| GG EZ | 44.00% | ~11 |
 | Hydrophobia | 24.00% | ~6 |
 | Stop Right There | 20.00% | ~5 |
 | Ka-Ching! | 16.00% | ~4 |
@@ -55,7 +55,7 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 295)  
+Progressed: 25 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

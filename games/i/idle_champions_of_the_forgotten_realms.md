@@ -144,6 +144,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.20% | ~175 |
 | The Gargoyle's Apprentice | 0.20% | ~175 |
 | House of Darkness | 0.20% | ~175 |
+| Home Not So Alone | 0.20% | ~107 |
 | Attack on the Manor | 0.20% | ~175 |
 | The Trepidatious Trio | 0.20% | ~175 |
 | Our Time To Shine | 0.20% | ~175 |
@@ -158,6 +159,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Towering Expectations | 0.20% | ~175 |
 | Hopelessly Lost | 0.20% | ~175 |
 | Cramped Quarters | 0.20% | ~175 |
+| Flame(skull) War | 0.20% | ~175 |
 | Enter the Sargauth | 0.20% | ~175 |
 | Who Lurks in Lurkwood | 0.20% | ~175 |
 | A Tale of Two Cities | 0.20% | ~175 |
@@ -182,6 +184,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hailstorm! | 0.20% | ~107 |
 | Resolve Amongst Chaos | 0.20% | ~175 |
 | Market Fluctuations | 0.20% | ~175 |
+| Once More Into The Breach | 0.20% | ~175 |
 | Déjà Vu All Over Again | 0.20% | ~107 |
 | Into The Fire | 0.20% | ~107 |
 | Hearts Aflame | 0.20% | ~107 |
@@ -196,6 +199,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.20% | ~107 |
 | Rime Bandits | 0.20% | ~107 |
 | Giant-Size Adventure | 0.20% | ~107 |
+| Power of Three | 0.20% | ~107 |
 | The Everlasting Rime | 0.20% | ~107 |
 | Enemy Summit | 0.20% | ~107 |
 | Mirage Arcane | 0.20% | ~107 |
@@ -314,7 +318,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~87 |
 | Seeds of Corruption | 0.10% | ~87 |
 | The Strahd Squad | 0.10% | ~54 |
-| Home Not So Alone | 0.10% | ~54 |
 | Review by the Blackstaff | 0.10% | ~54 |
 | Think Your Way Out Of It | 0.10% | ~87 |
 | Air's Getting Pretty Thin | 0.10% | ~87 |
@@ -341,7 +344,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Careful Consideration | 0.10% | ~87 |
 | Tanking Expectations | 0.10% | ~54 |
 | Bazaar Exploits | 0.10% | ~87 |
-| Flame(skull) War | 0.10% | ~87 |
 | Servants of the Demon Prince | 0.10% | ~54 |
 | Elder Rune Madness | 0.10% | ~87 |
 | The Madness Grows | 0.10% | ~87 |
@@ -388,7 +390,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.10% | ~87 |
 | Shadow Stalkers | 0.10% | ~54 |
 | Avernus Frozen Over | 0.10% | ~54 |
-| Once More Into The Breach | 0.10% | ~87 |
 | Twice More Into The Breach | 0.10% | ~87 |
 | Thrice More Into The Breach | 0.10% | ~54 |
 | Nightmare Mode | 0.10% | ~54 |
@@ -431,7 +432,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~54 |
 | Prisoners of Lolth | 0.10% | ~54 |
 | Prisoners of Unknown Choices | 0.10% | ~54 |
-| Power of Three | 0.10% | ~54 |
 | Only Human | 0.10% | ~54 |
 | Ten in Ten-Towns | 0.10% | ~54 |
 | The Taunting Lord | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,361 (Ranked 59)  
-Completed: 1,833 (2.10%) (Ranked 60)  
+Progressed: 87,365 (Ranked 59)  
+Completed: 1,834 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -519,7 +519,7 @@ Completed: 1,833 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,361 | 1,833 |
+| 2023-05-13 | 87,365 | 1,834 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,870 (Ranked 37)  

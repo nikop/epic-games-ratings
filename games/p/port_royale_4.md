@@ -6,31 +6,31 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~420 |
-| My little farm | 66.00% | ~346 |
+| Cabin boy | 80.00% | ~421 |
+| My little farm | 66.00% | ~347 |
 | Every beginning is difficult | 62.00% | ~326 |
 | 3, 2, 1, mine | 55.00% | ~289 |
 | Gofer | 55.00% | ~289 |
 | Seafarer | 54.00% | ~284 |
 | O Captain! My Captain! | 54.00% | ~284 |
 | Greed for gold | 43.00% | ~226 |
-| Intangible | 41.00% | ~215 |
+| Intangible | 41.00% | ~216 |
 | I'm out of here for a while | 40.00% | ~210 |
 | In a mint condition | 38.00% | ~200 |
 | Licence to Kill | 36.00% | ~189 |
 | Pirates! | 35.00% | ~184 |
-| Megalomania | 29.00% | ~152 |
+| Megalomania | 29.00% | ~153 |
 | Collectionitis | 28.00% | ~147 |
-| Christening | 26.00% | ~136 |
-| Groundskeeper | 26.00% | ~136 |
+| Christening | 27.00% | ~142 |
+| Groundskeeper | 26.00% | ~137 |
 | Wholesale | 23.00% | ~121 |
 | Walk the plank | 21.00% | ~110 |
 | My precious! | 19.00% | ~100 |
-| Pearly gates | 18.00% | ~94 |
+| Pearly gates | 17.00% | ~89 |
 | Conquistador | 14.00% | ~74 |
 | Panic buying | 11.00% | ~58 |
-| Just a scratch | 10.00% | ~52 |
-| Your vessel, my vessel | 10.00% | ~52 |
+| Just a scratch | 10.00% | ~53 |
+| Your vessel, my vessel | 10.00% | ~53 |
 | All mine! | 9.00% | ~47 |
 | Paths of Glory | 9.00% | ~47 |
 | Maker | 8.00% | ~42 |
@@ -43,12 +43,12 @@ Number of Ratings: 53  (23.09.2022)
 | Overpopulation | 4.00% | ~21 |
 | Premier Maître | 3.00% | ~16 |
 | Strategist | 3.00% | ~16 |
-| Supreme conqueror | 2.00% | ~10 |
-| The customer is always right | 2.00% | ~10 |
-| Master & Commander | 2.00% | ~10 |
-| All aboard! | 2.00% | ~10 |
-| Gold fever | 2.00% | ~10 |
-| Fill it up, please! | 2.00% | ~10 |
+| Supreme conqueror | 2.00% | ~11 |
+| The customer is always right | 2.00% | ~11 |
+| Master & Commander | 2.00% | ~11 |
+| All aboard! | 2.00% | ~11 |
+| Gold fever | 2.00% | ~11 |
+| Fill it up, please! | 2.00% | ~11 |
 | Capitalist | 1.00% | ~5 |
 | Administrator | 1.00% | ~5 |
 | Raiders of the Lost Ark | 1.00% | ~5 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.80% | ~4 |
 | Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525 (Ranked 190)  
+Progressed: 526 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 520 | 0 |
 | 2023-05-10 | 523 | 0 |
 | 2023-05-11 | 525 | 0 |
+| 2023-05-13 | 526 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "73c5297403d440f69cc7418a75df293d",
   "Name": "Switchball HD",
   "ProductSlug": "switchball-hd-6d3802",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
     "PcReleaseDate": "2021-05-17T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -84,6 +84,11 @@
       "Time": "2023-05-13T07:04:46.0977423+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T14:05:41.1086101+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -101,15 +106,15 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 56,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -117,7 +122,7 @@
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Powerball Badge",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -141,9 +146,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -166,13 +171,13 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-13T13:08:11.438159+00:00",
+  "LastChanged_Achievements": "2023-05-13T14:05:41.1086091+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:00:06.4892258+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:08:11.4381702+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:57:04.8722147+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:05:41.1086186+00:00"
 }

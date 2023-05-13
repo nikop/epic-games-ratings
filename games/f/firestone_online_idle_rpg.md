@@ -5,13 +5,13 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~932 |
+| Victor | 94.00% | ~933 |
 | World Map | 80.00% | ~794 |
 | Temple of Eternals | 56.00% | ~556 |
 | Prestigious | 52.00% | ~516 |
 | Fellowship Power | 39.00% | ~387 |
 | Guild Power | 23.00% | ~228 |
-| Prestigious x10 | 20.00% | ~198 |
+| Prestigious x10 | 20.00% | ~199 |
 | The game is on | 17.00% | ~169 |
 | Exotic Merchant | 16.00% | ~159 |
 | Dragon Clicker | 14.00% | ~139 |
@@ -23,7 +23,7 @@ Rating: 3.64 (Ranked 917)
 | Enlightenment | 9.00% | ~89 |
 | Lieutenant | 9.00% | ~89 |
 | The Unstoppable | 8.00% | ~79 |
-| Natural Talent | 7.00% | ~69 |
+| Natural Talent | 7.00% | ~70 |
 | Mysterious Rock | 6.00% | ~60 |
 | Scientist | 6.00% | ~60 |
 | Superior | 6.00% | ~60 |
@@ -52,21 +52,21 @@ Rating: 3.64 (Ranked 917)
 | Active Member | 0.90% | ~9 |
 | Dragon Slayer | 0.80% | ~8 |
 | Engineer Mastery | 0.70% | ~7 |
+| Lock And Load | 0.70% | ~7 |
 | Weekly Quest Completionist | 0.70% | ~7 |
+| Blueprint Upgrades | 0.60% | ~6 |
 | Crystal Mining | 0.60% | ~6 |
 | Legendary | 0.60% | ~6 |
-| Lock And Load | 0.60% | ~6 |
 | Sailor | 0.60% | ~6 |
-| Blueprint Upgrades | 0.50% | ~5 |
 | Enchanting skill | 0.50% | ~5 |
 | The Alchemist | 0.50% | ~5 |
 | Transmute | 0.50% | ~5 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
+| Training makes a Pro player | 0.40% | ~4 |
 | Tree of Life | 0.40% | ~4 |
 | Gear Enchanting | 0.30% | ~3 |
 | Mythic Power | 0.30% | ~3 |
-| Training makes a Pro player | 0.30% | ~3 |
 | Arena Challenger | 0.20% | ~2 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 992 (Ranked 164)  
+Progressed: 993 (Ranked 164)  
 Completed: 1 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.10%) (Ranked 155)
 | 2023-05-10 | 948 | 1 |
 | 2023-05-11 | 962 | 1 |
 | 2023-05-12 | 979 | 1 |
-| 2023-05-13 | 992 | 1 |
+| 2023-05-13 | 993 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

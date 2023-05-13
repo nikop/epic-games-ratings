@@ -4,8 +4,8 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:58:57.6905189+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:01:57.7169653+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:07:04.7153327+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:59:17.3415401+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:04:21.8224526+00:00"
 }

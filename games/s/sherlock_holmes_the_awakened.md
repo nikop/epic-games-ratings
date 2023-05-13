@@ -15,8 +15,8 @@
 | Open Sesame | 53.00% | ~78 |
 | Sticky Fingers | 53.00% | ~78 |
 | Knives Out | 53.00% | ~78 |
+| Lock, Stock, And Barrel | 52.00% | ~77 |
 | Land, Ho! | 52.00% | ~77 |
-| Lock, Stock, And Barrel | 51.00% | ~75 |
 | Gaze Into The Abyss | 51.00% | ~75 |
 | Back In The Saddle | 51.00% | ~75 |
 | No Man Is An Island | 50.00% | ~74 |
@@ -27,7 +27,7 @@
 | Going Once... | 41.00% | ~61 |
 | Brain Food | 40.00% | ~59 |
 | Let Me Be Frank | 38.00% | ~56 |
-| No Stone Unturned | 36.00% | ~53 |
+| No Stone Unturned | 37.00% | ~55 |
 | Curiosity Killed The Cat | 25.00% | ~37 |
 | Read It And Weep | 25.00% | ~37 |
 | Big Breakthrough | 23.00% | ~34 |

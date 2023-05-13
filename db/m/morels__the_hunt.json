@@ -4,8 +4,8 @@
   "ProductSlug": "morels-ed7501",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T15:00:00+00:00",
     "PcReleaseDate": "2019-10-15T15:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:58:00.4868874+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:00:59.2318274+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:03:51.2122324+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:58:07.3391214+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:01:38.3213364+00:00"
 }

@@ -16,12 +16,12 @@ Rating: 4.38 (Ranked 690)
 | Reunion | 24.00% | ~558 |
 | Climber | 23.00% | ~535 |
 | Hidden Secrets | 23.00% | ~535 |
+| Mad Scientist | 23.00% | ~535 |
 | Imprisonment | 22.00% | ~512 |
-| Mad Scientist | 22.00% | ~512 |
 | Dog Person | 19.00% | ~442 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,325 (Ranked 140)  
-Completed: 89 (3.83%) (Ranked 38)  
+Completed: 89 (3.83%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

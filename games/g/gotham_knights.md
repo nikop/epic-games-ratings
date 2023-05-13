@@ -14,6 +14,7 @@ Rating: 4.17 (Ranked 831)
 | Universal Health Scare | 0.40% | ~243 |
 | Unstoppable Force | 0.40% | ~243 |
 | Bad Apples in Every Orchard | 0.40% | ~243 |
+| From Inside Gotham's Walls | 0.40% | ~243 |
 | Gotham Knight | 0.40% | ~243 |
 | The Batman Family | 0.30% | ~182 |
 | End of an Era | 0.30% | ~182 |
@@ -32,7 +33,6 @@ Rating: 4.17 (Ranked 831)
 | Loose Ends | 0.30% | ~182 |
 | Whispered Words | 0.30% | ~182 |
 | Lock and Key | 0.30% | ~182 |
-| From Inside Gotham's Walls | 0.30% | ~182 |
 | Voiceless | 0.30% | ~182 |
 | Seeking Asylum | 0.30% | ~182 |
 | Fusion Expert | 0.20% | ~122 |

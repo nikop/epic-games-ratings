@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -31,7 +31,7 @@
   "EOS_Progressed": 65,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
     {
@@ -317,9 +317,9 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "avaricerite",
@@ -389,9 +389,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "easy_victory",
@@ -574,8 +574,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-13T13:08:54.5727447+00:00",
+  "LastChanged_Achievements": "2023-05-13T14:06:30.5119009+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.876258+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:02:55.4001191+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:08:54.5727693+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:00:28.2459711+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:06:30.5119257+00:00"
 }

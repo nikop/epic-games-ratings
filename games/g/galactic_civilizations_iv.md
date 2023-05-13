@@ -105,13 +105,13 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-13 | 5,627 | 0 |
 ## Awards
 Max (Diverse Characters): 90  (Ranked 336)  
-Sum: 656 (Ranked 266)  
+Sum: 657 (Ranked 266)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 90 |
 | This game is Relaxing | 86 |
-| This game has Quickly Understood Controls | 82 |
+| This game has Quickly Understood Controls | 83 |
 | This game is Extremely Fun | 80 |
 | This game is Highly Recommended | 80 |
 | This game has Amazing Storytelling | 77 |
@@ -207,3 +207,4 @@ Diff (max vs sum): 70
 | 2023-04-28 | 4.18 | - | 89 | 653 |
 | 2023-04-29 | 4.18 | - | 89 | 655 |
 | 2023-05-12 | 4.18 | - | 90 | 656 |
+| 2023-05-13 | 4.18 | - | 90 | 657 |

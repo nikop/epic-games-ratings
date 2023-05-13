@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -228,9 +228,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -393,6 +393,11 @@
       "Time": "2023-05-11T10:05:15.505829+00:00",
       "NumProgressed": 525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T14:06:10.6846696+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -404,7 +409,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH001",
@@ -452,7 +457,7 @@
       "Name": "Supreme conqueror",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH007",
@@ -460,7 +465,7 @@
       "Name": "My little farm",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH008",
@@ -492,7 +497,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH012",
@@ -514,9 +519,9 @@
       "ID": "ACH014",
       "SetID": "69nfp41",
       "Name": "Christening",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH015",
@@ -524,7 +529,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH016",
@@ -538,9 +543,9 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH018",
@@ -556,7 +561,7 @@
       "Name": "Just a scratch",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH020",
@@ -596,7 +601,7 @@
       "Name": "The customer is always right",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH025",
@@ -724,7 +729,7 @@
       "Name": "Master \u0026 Commander",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH041",
@@ -740,7 +745,7 @@
       "Name": "All aboard!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH043",
@@ -748,7 +753,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH044",
@@ -764,7 +769,7 @@
       "Name": "Gold fever",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH046",
@@ -772,7 +777,7 @@
       "Name": "Fill it up, please!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH047",
@@ -788,7 +793,7 @@
       "Name": "Megalomania",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH049",
@@ -803,15 +808,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-10T22:58:56.4542522+00:00",
-  "LastChanged_Achievements": "2023-05-13T13:08:37.3188905+00:00",
+  "LastChanged_Achievements": "2023-05-13T14:06:10.6846689+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:24.5882773+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:01:23.1044052+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:08:37.3189582+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:58:35.9934089+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:06:10.6847468+00:00"
 }

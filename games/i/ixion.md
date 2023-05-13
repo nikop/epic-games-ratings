@@ -20,9 +20,9 @@ Rating: 4.54 (Ranked 477)
 | Ain't Nobody Got Time for That | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |
 | Exceeding Capacity | 0.60% | ~11 |
+| Convenient Transport | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~9 |
 | Power Outage | 0.50% | ~9 |
-| Convenient Transport | 0.50% | ~9 |
 | A Hunk of Junk | 0.40% | ~8 |
 | Please Make it Stop! | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |
@@ -37,6 +37,7 @@ Rating: 4.54 (Ranked 477)
 | You Had One Job... | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
+| What the Ruins Teach Us | 0.20% | ~4 |
 | Pulsar Disciple | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
@@ -50,7 +51,6 @@ Rating: 4.54 (Ranked 477)
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
 | Help of the Forgotten Member | 0.10% | ~2 |
-| What the Ruins Teach Us | 0.10% | ~2 |
 | Beyond Time and Space | 0.00% | ~0 |
 | Tiqqun Contender | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |

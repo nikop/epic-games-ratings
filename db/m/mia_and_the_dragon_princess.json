@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "finger_lickin_bad",
       "SetID": "5anb57n",
       "Name": "Finger-Lickin\u0027 Bad",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "flying_high",
@@ -291,9 +291,9 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "key_keepers_curse",
@@ -315,9 +315,9 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "set_sail",
@@ -339,9 +339,9 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -353,8 +353,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-13T13:08:25.4581197+00:00",
+  "LastChanged_Achievements": "2023-05-13T14:05:57.3956896+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:59.9025038+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:00:57.8176126+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:08:25.4581357+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:58:05.5998699+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:05:57.3957064+00:00"
 }

@@ -274,9 +274,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "MQ03_3",
@@ -410,9 +410,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "MQ08_2",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-13T13:08:23.1867437+00:00",
+  "LastChanged_Achievements": "2023-05-13T14:05:54.9403609+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.4352441+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:00:06.1623307+00:00",
-  "LastUpdate_Achievements": "2023-05-13T13:08:23.1867856+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:57:04.4131725+00:00",
+  "LastUpdate_Achievements": "2023-05-13T14:05:54.940383+00:00"
 }
