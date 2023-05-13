@@ -18,11 +18,11 @@
 | 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.35% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.32% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.24% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 6.25% |
@@ -35,7 +35,7 @@
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
 | 35 | [Them and Us](games/t/them_and_us.md) | 4.00% |
-| 36 | [Doodle God](games/d/doodle_god.md) | 3.98% |
+| 36 | [Doodle God](games/d/doodle_god.md) | 3.96% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 38 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
@@ -71,7 +71,7 @@
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
 | 70 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.50% |
+| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 74 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 74 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.32% |
