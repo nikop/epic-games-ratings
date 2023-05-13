@@ -11,18 +11,18 @@
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 18.75% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
 | 13 | [Remains](games/r/remains.md) | 10.53% |
 | 14 | [Smelter](games/s/smelter.md) | 10.00% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
 | 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.31% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.24% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
@@ -49,16 +49,16 @@
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 49 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
-| 50 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
-| 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
+| 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
+| 50 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 52 | [ZZT!](games/z/zzt!.md) | 2.86% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
+| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.67% |
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -69,7 +69,7 @@
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
 | 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
-| 70 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.54% |
+| 70 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.52% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
@@ -105,8 +105,8 @@
 | 103 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 104 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
-| 104 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
-| 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 106 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 106 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 108 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 109 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 110 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
@@ -398,4 +398,4 @@
 | 198 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 198 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 198 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,601 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,603 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -3,6 +3,7 @@
 | [Superior](games/s/superior.md) | 2099-12-13 | 2099-12-13 |
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | 2099-01-01 |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | 2099-01-01 |
+| [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2099-01-01 | 2022-09-07 |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | 2099-01-01 |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | 2099-01-01 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | 2099-01-01 |

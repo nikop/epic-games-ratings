@@ -46,6 +46,7 @@
 | [To Hell With The Ugly](games/e/ee141714887d486a873a9a5a55fa4dfe.md) | 2023-05-31 | 2023-05-31 |
 | [Worlds War 1](games/w/worlds_war_1.md) | 2023-05-31 | 2023-05-31 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-05-31 | 2023-05-31 |
+| [Barrett Foster - Chapter One](games/8/866ee32c061b4765b9c0ea3a72d2d17f.md) | 2023-06-01 | 2023-06-01 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 2023-04-06 |
 | [Search](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | 2022-08-29 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
@@ -248,6 +249,7 @@
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | 2099-01-01 |
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | 2099-01-01 | 2099-01-01 |
 | [KarmaZoo](games/k/karmazoo.md) | 2099-01-01 | 2099-01-01 |
+| [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2099-01-01 | 2022-09-07 |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | 2099-01-01 |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | 2099-01-01 |
 | [Lempo](games/l/lempo.md) | 2099-01-01 | 2099-01-01 |
