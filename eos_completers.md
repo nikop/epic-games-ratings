@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 18.75% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
+| 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.67% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 13 | [Remains](games/r/remains.md) | 10.53% |
 | 14 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -19,16 +19,16 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.33% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.19% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
-| 27 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 5.26% |
-| 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
-| 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
+| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
+| 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
+| 29 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 5.00% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
@@ -109,7 +109,7 @@
 | 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
-| 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 111 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 112 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 112 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
