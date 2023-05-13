@@ -14,7 +14,7 @@
 | 11 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 491 |
 | 11 | [Firework](games/f/firework.md) | 4.89 | 0 | 491 |
 | 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 491 |
-| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 139,863 | 6 |
+| 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 140,047 | 6 |
 | 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 406 | 198 |
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,108 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 294 |
@@ -277,7 +277,7 @@
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 262 |
 | 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 491 |
 | 273 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,286 | 119 |
-| 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 512 | 181 |
+| 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 513 | 181 |
 | 273 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 491 |
 | 273 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,037 | 132 |
 | 273 | [Returnal™](games/r/returnal™.md) | 4.66 | 21 | 479 |
@@ -486,7 +486,7 @@
 | 477 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 491 |
 | 477 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 494 | 184 |
 | 477 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 491 |
-| 477 | [VALORANT](games/v/valorant.md) | 4.54 | 52,099 | 11 |
+| 477 | [VALORANT](games/v/valorant.md) | 4.54 | 52,226 | 11 |
 | 477 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 452 |
 | 489 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 491 |
 | 489 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 491 |
@@ -517,7 +517,7 @@
 | 502 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 491 |
 | 516 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,567 | 112 |
 | 516 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 334 |
-| 516 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,085 | 71 |
+| 516 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,086 | 71 |
 | 516 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 479 |
 | 516 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 86 | 340 |
 | 516 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 316 |
@@ -709,7 +709,7 @@
 | 707 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 491 |
 | 707 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 274 |
 | 707 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 491 |
-| 707 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,364 | 27 |
+| 707 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,370 | 27 |
 | 707 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 491 |
 | 707 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 491 |
 | 707 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 464 |
@@ -801,22 +801,22 @@
 | 799 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 0 | 491 |
 | 799 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 202 | 256 |
 | 799 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 491 |
+| 802 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 30 | 445 |
 | 802 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 0 | 491 |
 | 802 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 491 |
 | 802 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 270 |
 | 802 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,075 | 26 |
 | 802 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 491 |
 | 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 491 |
-| 808 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 299 |
-| 808 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 301 |
-| 808 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 30 | 445 |
-| 808 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 491 |
-| 808 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.20 | 0 | 491 |
-| 808 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 473 |
-| 808 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 351 |
-| 808 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 491 |
-| 808 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 491 |
-| 808 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 349 |
+| 809 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 299 |
+| 809 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 301 |
+| 809 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 491 |
+| 809 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.20 | 0 | 491 |
+| 809 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 473 |
+| 809 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 351 |
+| 809 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 491 |
+| 809 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 491 |
+| 809 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 349 |
 | 818 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 385 |
 | 818 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 491 |
 | 818 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 432 |
@@ -909,7 +909,7 @@
 | 907 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 491 |
 | 908 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 491 |
 | 908 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 368 |
-| 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,026 | 133 |
+| 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,027 | 133 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 491 |
 | 912 | [Poker Club](games/p/poker_club.md) | 3.76 | 0 | 491 |
 | 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 50 | 385 |

@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-13 | 2023-05-31 |
 | [Georifters](games/g/georifters.md) | 2023-05-14 | 2020-05-28 |
 | [Flyto](games/f/flyto.md) | 2023-05-15 | 2023-05-15 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-15 | 2023-01-14 |
