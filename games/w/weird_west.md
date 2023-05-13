@@ -43,8 +43,8 @@ Number of Ratings: 125  (23.09.2022)
 | Knuckle Sandwich | 8.00% | ~121 |
 | Do Not Pass Go… | 7.00% | ~105 |
 | Getting the Gang Back Together | 7.00% | ~105 |
+| Healing Old Wounds | 6.00% | ~90 |
 | Who You Gonna Call? | 6.00% | ~90 |
-| Healing Old Wounds | 5.00% | ~75 |
 | This Is Sparta | 5.00% | ~75 |
 | What’s in the Box? | 5.00% | ~75 |
 | Ghost Town | 3.00% | ~45 |

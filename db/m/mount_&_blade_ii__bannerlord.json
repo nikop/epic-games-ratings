@@ -3889,10 +3889,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 12992,
       "NumberOfAwardsMax": 6520
+    },
+    {
+      "Time": "2023-05-13T08:00:08.1206174+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12993,
+      "NumberOfAwardsMax": 6520
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12992,
+  "NumberOfAwards": 12993,
   "NumberOfAwardsMax": 6520,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3942,7 +3948,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 718
+      "Count": 719
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3969,9 +3975,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49659,
+  "EOS_Progressed": 49662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5939,6 +5945,11 @@
       "Time": "2023-05-13T07:05:27.3853534+00:00",
       "NumProgressed": 49659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T08:06:07.995554+00:00",
+      "NumProgressed": 49662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5950,7 +5961,7 @@
       "Name": "Against all odds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "Apple of my eye",
@@ -6118,7 +6129,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6952
+      "UsersEstimate": 6953
     },
     {
       "ID": "I spit on your grave",
@@ -6174,7 +6185,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14401
+      "UsersEstimate": 14402
     },
     {
       "ID": "Lawbringer",
@@ -6182,7 +6193,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17381
+      "UsersEstimate": 17382
     },
     {
       "ID": "Lawmaker",
@@ -6190,7 +6201,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10428
+      "UsersEstimate": 10429
     },
     {
       "ID": "Long live the Empire",
@@ -6294,7 +6305,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "The king is pleased",
@@ -6302,7 +6313,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "This Is Our Land",
@@ -6326,7 +6337,7 @@
       "Name": "Trained",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9435
+      "UsersEstimate": 9436
     },
     {
       "ID": "Undercover",
@@ -6357,15 +6368,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49659,
+      "Progressed": 49662,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-13T04:59:54.720626+00:00",
-  "LastChanged_Achievements": "2023-05-13T07:05:27.385353+00:00",
+  "LastChanged": "2023-05-13T08:00:08.1206172+00:00",
+  "LastChanged_Achievements": "2023-05-13T08:06:07.9955537+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:59:25.8170266+00:00",
-  "LastUpdate_Achievements": "2023-05-13T07:05:27.3853955+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:00:08.1206178+00:00",
+  "LastUpdate_Achievements": "2023-05-13T08:06:07.9955977+00:00"
 }

@@ -6,83 +6,83 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~23,944 |
-| Blood Moon | 73.00% | ~20,563 |
-| Path of the Necromancer | 65.00% | ~18,310 |
-| Chainbreaker - I | 60.00% | ~16,901 |
-| Cursed Creature | 57.00% | ~16,056 |
-| Extraction | 57.00% | ~16,056 |
-| Chainbreaker - II | 55.00% | ~15,493 |
-| Necromancer's Apprentice | 51.00% | ~14,366 |
-| Keeper of Keys | 47.00% | ~13,239 |
-| Distillation | 43.00% | ~12,113 |
-| Mountain King - I | 42.00% | ~11,831 |
-| Transmutation | 42.00% | ~11,831 |
-| Prepared Necromancer | 40.00% | ~11,268 |
-| Mountain King - II | 39.00% | ~10,986 |
-| Blind Rage | 38.00% | ~10,704 |
-| Mad Genius | 35.00% | ~9,859 |
-| Cannon Fodder - I | 34.00% | ~9,577 |
-| Soul of Lies | 34.00% | ~9,577 |
-| Bane of Mercenaries - I | 33.00% | ~9,296 |
-| Bane of Mercenaries - II | 31.00% | ~8,732 |
-| Cannon Fodder - II | 29.00% | ~8,169 |
-| Shadow Between Worlds | 29.00% | ~8,169 |
-| Bane of Monsters | 28.00% | ~7,887 |
-| Chainbreaker - III | 27.00% | ~7,606 |
-| Revealed Secrets - I | 26.00% | ~7,324 |
-| Revealed Secrets - II | 25.00% | ~7,042 |
-| Blood Elemental | 24.00% | ~6,761 |
-| Unholy Bones | 23.00% | ~6,479 |
-| Lord of Fire | 23.00% | ~6,479 |
-| Cannon Fodder - III | 22.00% | ~6,197 |
-| Spiritual Attraction | 22.00% | ~6,197 |
-| Uncommon Warrior | 22.00% | ~6,197 |
-| Nightmare of the Humanity - I | 22.00% | ~6,197 |
-| Nightmare of the Humanity - II | 21.00% | ~5,915 |
-| That Was Easy! | 20.00% | ~5,634 |
-| Silent Waters | 20.00% | ~5,634 |
-| Head of Order | 20.00% | ~5,634 |
-| Calcination | 19.00% | ~5,352 |
-| Blood Mage | 17.00% | ~4,789 |
-| Wild Hunger | 16.00% | ~4,507 |
-| Rage Concentrated | 16.00% | ~4,507 |
-| Mountain King - III | 15.00% | ~4,225 |
-| Rare Warrior | 15.00% | ~4,225 |
-| Blood Madness | 13.00% | ~3,662 |
-| First Sacrifice | 13.00% | ~3,662 |
-| Grand Arena | 13.00% | ~3,662 |
-| Master of Alchemy | 13.00% | ~3,662 |
-| Legendary Warrior | 12.00% | ~3,380 |
-| Bane of Mercenaries - III | 10.00% | ~2,817 |
-| Ancient Burial | 10.00% | ~2,817 |
-| More Mortal Suffering! | 9.00% | ~2,535 |
-| Monument to Greatness | 9.00% | ~2,535 |
-| Forbidden Knowledge | 9.00% | ~2,535 |
-| Live Operation | 9.00% | ~2,535 |
+| Improvement | 85.00% | ~23,950 |
+| Blood Moon | 73.00% | ~20,568 |
+| Path of the Necromancer | 65.00% | ~18,314 |
+| Chainbreaker - I | 60.00% | ~16,906 |
+| Cursed Creature | 57.00% | ~16,060 |
+| Extraction | 57.00% | ~16,060 |
+| Chainbreaker - II | 55.00% | ~15,497 |
+| Necromancer's Apprentice | 51.00% | ~14,370 |
+| Keeper of Keys | 47.00% | ~13,243 |
+| Distillation | 43.00% | ~12,116 |
+| Mountain King - I | 42.00% | ~11,834 |
+| Transmutation | 42.00% | ~11,834 |
+| Prepared Necromancer | 40.00% | ~11,270 |
+| Mountain King - II | 39.00% | ~10,989 |
+| Blind Rage | 38.00% | ~10,707 |
+| Mad Genius | 35.00% | ~9,862 |
+| Cannon Fodder - I | 34.00% | ~9,580 |
+| Soul of Lies | 34.00% | ~9,580 |
+| Bane of Mercenaries - I | 33.00% | ~9,298 |
+| Bane of Mercenaries - II | 31.00% | ~8,735 |
+| Cannon Fodder - II | 29.00% | ~8,171 |
+| Shadow Between Worlds | 29.00% | ~8,171 |
+| Bane of Monsters | 28.00% | ~7,889 |
+| Chainbreaker - III | 27.00% | ~7,608 |
+| Revealed Secrets - I | 26.00% | ~7,326 |
+| Revealed Secrets - II | 25.00% | ~7,044 |
+| Blood Elemental | 24.00% | ~6,762 |
+| Unholy Bones | 23.00% | ~6,480 |
+| Lord of Fire | 23.00% | ~6,480 |
+| Cannon Fodder - III | 22.00% | ~6,199 |
+| Spiritual Attraction | 22.00% | ~6,199 |
+| Uncommon Warrior | 22.00% | ~6,199 |
+| Nightmare of the Humanity - I | 22.00% | ~6,199 |
+| Nightmare of the Humanity - II | 21.00% | ~5,917 |
+| That Was Easy! | 20.00% | ~5,635 |
+| Silent Waters | 20.00% | ~5,635 |
+| Head of Order | 20.00% | ~5,635 |
+| Calcination | 19.00% | ~5,353 |
+| Blood Mage | 17.00% | ~4,790 |
+| Wild Hunger | 16.00% | ~4,508 |
+| Rage Concentrated | 16.00% | ~4,508 |
+| Mountain King - III | 15.00% | ~4,226 |
+| Rare Warrior | 15.00% | ~4,226 |
+| Blood Madness | 13.00% | ~3,663 |
+| First Sacrifice | 13.00% | ~3,663 |
+| Grand Arena | 13.00% | ~3,663 |
+| Master of Alchemy | 13.00% | ~3,663 |
+| Legendary Warrior | 12.00% | ~3,381 |
+| Bane of Mercenaries - III | 10.00% | ~2,818 |
+| Ancient Burial | 10.00% | ~2,818 |
+| More Mortal Suffering! | 9.00% | ~2,536 |
+| Monument to Greatness | 9.00% | ~2,536 |
+| Forbidden Knowledge | 9.00% | ~2,536 |
+| Live Operation | 9.00% | ~2,536 |
 | Master of Rage | 8.00% | ~2,254 |
 | Icy Incursion | 8.00% | ~2,254 |
 | Arachnophobia | 8.00% | ~2,254 |
 | Revealed Secrets - III | 8.00% | ~2,254 |
 | Nightmare of the Humanity - III | 7.00% | ~1,972 |
-| Means of Recovery | 6.00% | ~1,690 |
-| Master of Magic | 6.00% | ~1,690 |
+| Means of Recovery | 6.00% | ~1,691 |
+| Master of Magic | 6.00% | ~1,691 |
 | Master of Destruction | 4.00% | ~1,127 |
 | Dungeon Queen | 3.00% | ~845 |
 | Mek Brothers | 3.00% | ~845 |
 | The Hunter Becomes... | 3.00% | ~845 |
-| Evil Always Wins! | 2.00% | ~563 |
-| Graveyard Call - I | 2.00% | ~563 |
-| Graveyard Call - II | 2.00% | ~563 |
-| Sweet Revenge | 2.00% | ~563 |
-| Experimenter | 2.00% | ~563 |
+| Evil Always Wins! | 2.00% | ~564 |
+| Graveyard Call - I | 2.00% | ~564 |
+| Graveyard Call - II | 2.00% | ~564 |
+| Sweet Revenge | 2.00% | ~564 |
+| Experimenter | 2.00% | ~564 |
 | I'll Be Back! | 0.90% | ~254 |
 | Graveyard Call - III | 0.90% | ~254 |
 | Doctorate in Potion Brewing | 0.70% | ~197 |
 | Unrivaled | 0.60% | ~169 |
 | Renowned Researcher | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,169 (Ranked 85)  
+Progressed: 28,176 (Ranked 85)  
 Completed: 14 (0.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 14 (0.05%) (Ranked 171)
 | 2023-05-10 | 27,898 | 14 |
 | 2023-05-11 | 28,025 | 14 |
 | 2023-05-12 | 28,140 | 14 |
-| 2023-05-13 | 28,169 | 14 |
+| 2023-05-13 | 28,176 | 14 |
 ## Awards
 Max (Character Customization): 2,132  (Ranked 101)  
 Sum: 4,129 (Ranked 131)  

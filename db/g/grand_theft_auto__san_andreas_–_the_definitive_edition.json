@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7598,
+  "EOS_Progressed": 7599,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1303,6 +1303,11 @@
       "Time": "2023-05-13T03:05:16.3278983+00:00",
       "NumProgressed": 7598,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-13T08:06:13.1695497+00:00",
+      "NumProgressed": 7599,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1314,7 +1319,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "ACH02",
@@ -1370,7 +1375,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     },
     {
       "ID": "ACH09",
@@ -1593,7 +1598,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7598,
+      "Progressed": 7599,
       "Completed": 15
     }
   ],
@@ -1601,8 +1606,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-13T07:05:31.5694537+00:00",
+  "LastChanged_Achievements": "2023-05-13T08:06:13.1695494+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:59:51.7251958+00:00",
-  "LastUpdate_Achievements": "2023-05-13T07:05:31.5694779+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:00:46.1937187+00:00",
+  "LastUpdate_Achievements": "2023-05-13T08:06:13.1695736+00:00"
 }

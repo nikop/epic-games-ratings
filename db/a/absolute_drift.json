@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 656,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 6,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515979,
+  "EOS_Progressed": 1515982,
   "EOS_Completed": 602,
-  "EOS_NewPlayers": 1409,
+  "EOS_NewPlayers": 1410,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2525,6 +2525,11 @@
       "Time": "2023-05-13T07:05:23.3109588+00:00",
       "NumProgressed": 1515979,
       "NumCompleted": 602
+    },
+    {
+      "Time": "2023-05-13T08:06:02.7019062+00:00",
+      "NumProgressed": 1515982,
+      "NumCompleted": 602
     }
   ],
   "TotalAchievements": 20,
@@ -2648,7 +2653,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121278
+      "UsersEstimate": 121279
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -2695,15 +2700,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1515979,
+      "Progressed": 1515982,
       "Completed": 602
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-13T07:05:23.3109582+00:00",
+  "LastChanged_Achievements": "2023-05-13T08:06:02.7019059+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.7394244+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:59:45.1005237+00:00",
-  "LastUpdate_Achievements": "2023-05-13T07:05:23.3109801+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:00:35.5397547+00:00",
+  "LastUpdate_Achievements": "2023-05-13T08:06:02.7019273+00:00"
 }

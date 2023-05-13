@@ -92,8 +92,8 @@ Completed: 1 (0.14%) (Ranked 148)
 | 2023-05-06 | 698 | 1 |
 | 2023-05-11 | 699 | 1 |
 ## Awards
-Max (Challenging Puzzles): 71  (Ranked 361)  
-Sum: 71 (Ranked 416)  
+Max (Challenging Puzzles): 71  (Ranked 362)  
+Sum: 71 (Ranked 417)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |

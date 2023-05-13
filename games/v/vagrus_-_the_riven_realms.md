@@ -7,7 +7,7 @@
 | A Second Chance | 48.00% | ~27 |
 | Press-ganged | 38.00% | ~21 |
 | The Package | 21.00% | ~12 |
-| Randomized | 7.00% | ~4 |
+| Randomized | 9.00% | ~5 |
 | Conquered | 7.00% | ~4 |
 | Bounty Hunter | 2.00% | ~1 |
 | Conciliator | 2.00% | ~1 |

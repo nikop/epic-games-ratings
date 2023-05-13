@@ -22,14 +22,14 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 8.00% | ~3,691 |
 | Damn Good Cup of Coffee | 8.00% | ~3,691 |
 | A Friend in Need | 8.00% | ~768 |
-| Heavy Metal | 7.00% | ~3,229 |
-| Iron Horse | 7.00% | ~3,229 |
-| Perchance to Dream | 7.00% | ~3,229 |
-| The Six-Gun Scribe | 7.00% | ~3,229 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,229 |
-| Thunder and Lightning | 7.00% | ~3,229 |
-| Collateral Carnage | 7.00% | ~3,229 |
-| Come One, Come All | 7.00% | ~3,229 |
+| Heavy Metal | 7.00% | ~3,230 |
+| Iron Horse | 7.00% | ~3,230 |
+| Perchance to Dream | 7.00% | ~3,230 |
+| The Six-Gun Scribe | 7.00% | ~3,230 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,230 |
+| Thunder and Lightning | 7.00% | ~3,230 |
+| Collateral Carnage | 7.00% | ~3,230 |
+| Come One, Come All | 7.00% | ~3,230 |
 | Gatekeeper | 6.00% | ~2,768 |
 | The Lady of the Light | 6.00% | ~2,768 |
 | Two For the Price of One | 6.00% | ~2,768 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,135 (Ranked 75)  
+Progressed: 46,136 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 44 (0.10%) (Ranked 155)
 | 2023-05-10 | 46,108 | 44 |
 | 2023-05-11 | 46,117 | 44 |
 | 2023-05-12 | 46,131 | 44 |
-| 2023-05-13 | 46,135 | 44 |
+| 2023-05-13 | 46,136 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

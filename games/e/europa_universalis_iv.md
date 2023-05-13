@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,176 |
-| That's a Grand Army | 8.00% | ~2,823 |
-| That is mine! | 8.00% | ~2,823 |
-| Victorious! | 8.00% | ~2,823 |
-| Brothers in Arms | 6.00% | ~2,118 |
-| That's a Grand Navy | 6.00% | ~2,118 |
-| Seriously?! | 6.00% | ~2,118 |
-| For the Glory | 5.00% | ~1,765 |
-| Cold War | 4.00% | ~1,412 |
-| True Catholic | 4.00% | ~1,412 |
-| Defender of the Faith | 3.00% | ~1,059 |
-| It's all about the money | 3.00% | ~1,059 |
-| Respected | 3.00% | ~1,059 |
-| Blockader | 2.00% | ~706 |
-| Combined Arms | 2.00% | ~706 |
-| Double the Love | 2.00% | ~706 |
-| Gentle Persuasion | 2.00% | ~706 |
-| It's all about luck | 2.00% | ~706 |
-| Queen of Conquest | 2.00% | ~706 |
-| Royal Authority | 2.00% | ~706 |
-| The Princess is in this Castle | 2.00% | ~706 |
-| Total Control | 2.00% | ~706 |
-| Truly Divine Ruler | 2.00% | ~706 |
+| Until death do us apart | 9.00% | ~3,180 |
+| That's a Grand Army | 8.00% | ~2,827 |
+| That is mine! | 8.00% | ~2,827 |
+| Victorious! | 8.00% | ~2,827 |
+| Brothers in Arms | 6.00% | ~2,120 |
+| That's a Grand Navy | 6.00% | ~2,120 |
+| Seriously?! | 6.00% | ~2,120 |
+| For the Glory | 5.00% | ~1,767 |
+| Cold War | 4.00% | ~1,413 |
+| True Catholic | 4.00% | ~1,413 |
+| Defender of the Faith | 3.00% | ~1,060 |
+| It's all about the money | 3.00% | ~1,060 |
+| Respected | 3.00% | ~1,060 |
+| Blockader | 2.00% | ~707 |
+| Combined Arms | 2.00% | ~707 |
+| Double the Love | 2.00% | ~707 |
+| Gentle Persuasion | 2.00% | ~707 |
+| It's all about luck | 2.00% | ~707 |
+| Queen of Conquest | 2.00% | ~707 |
+| Royal Authority | 2.00% | ~707 |
+| The Princess is in this Castle | 2.00% | ~707 |
+| Total Control | 2.00% | ~707 |
+| Truly Divine Ruler | 2.00% | ~707 |
 | Agressive Expander | 1.00% | ~353 |
 | All That's Thine Shall Be Mine | 1.00% | ~353 |
 | Azur semé de lis or | 1.00% | ~353 |
@@ -37,18 +37,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~353 |
 | A Golden Empire | 1.00% | ~353 |
 | My armies are invincible! | 1.00% | ~353 |
-| Isn't this the way to India? | 0.80% | ~282 |
-| The Five Colonies | 0.80% | ~282 |
+| Isn't this the way to India? | 0.80% | ~283 |
+| The Five Colonies | 0.80% | ~283 |
 | The Emperors new clothes | 0.70% | ~247 |
 | Market Control | 0.70% | ~247 |
 | This navy can take it all | 0.70% | ~247 |
 | Down Under | 0.60% | ~212 |
 | Trustworthy | 0.60% | ~212 |
-| All belongs to Mother Russia | 0.50% | ~176 |
-| At every continent | 0.50% | ~176 |
-| Early-Modern Warfare | 0.50% | ~176 |
-| Electable! | 0.50% | ~176 |
-| Time Bandit | 0.50% | ~176 |
+| All belongs to Mother Russia | 0.50% | ~177 |
+| At every continent | 0.50% | ~177 |
+| Early-Modern Warfare | 0.50% | ~177 |
+| Electable! | 0.50% | ~177 |
+| Time Bandit | 0.50% | ~177 |
+| Live Long and Prosper | 0.40% | ~141 |
 | One Family to Rule them All | 0.40% | ~141 |
 | Populists in Government | 0.40% | ~141 |
 | The Continuation of Diplomacy | 0.40% | ~141 |
@@ -65,7 +66,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.30% | ~106 |
 | Grand Duchy | 0.30% | ~106 |
 | In the Name of the Father | 0.30% | ~106 |
-| Live Long and Prosper | 0.30% | ~106 |
+| Italian Ambition | 0.30% | ~106 |
 | One Night in Paris | 0.30% | ~106 |
 | Ruina Imperii | 0.30% | ~106 |
 | Tear Down This Wall | 0.30% | ~106 |
@@ -79,7 +80,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Fine Goosestep | 0.20% | ~71 |
 | Imperio español | 0.20% | ~71 |
 | Industrial Powerhouse | 0.20% | ~71 |
-| Italian Ambition | 0.20% | ~71 |
 | Just a Little Patience | 0.20% | ~71 |
 | Magellan’s Voyage | 0.20% | ~71 |
 | Multiculturalism | 0.20% | ~71 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,293 (Ranked 81)  
+Progressed: 35,334 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-10 | 33,769 | 0 |
 | 2023-05-11 | 34,344 | 0 |
 | 2023-05-12 | 35,136 | 0 |
-| 2023-05-13 | 35,293 | 0 |
+| 2023-05-13 | 35,334 | 0 |
 ## Awards
 Max (Educational): 5,212  (Ranked 60)  
 Sum: 43,120 (Ranked 27)  

@@ -101,17 +101,17 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
@@ -171,8 +171,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-13T07:04:46.0977419+00:00",
+  "LastChanged_Achievements": "2023-05-13T08:05:16.2972972+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:57:12.5355767+00:00",
-  "LastUpdate_Achievements": "2023-05-13T07:04:46.0977504+00:00"
+  "LastUpdate_Ratings": "2023-05-13T07:57:01.7839158+00:00",
+  "LastUpdate_Achievements": "2023-05-13T08:05:16.2973031+00:00"
 }

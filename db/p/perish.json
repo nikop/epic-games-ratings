@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2800,
+  "EOS_Progressed": 2801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -708,6 +708,11 @@
       "Time": "2023-05-13T04:06:37.2460452+00:00",
       "NumProgressed": 2800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T08:06:03.8266373+00:00",
+      "NumProgressed": 2801,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -917,9 +922,9 @@
       "ID": "ACH_M_SC",
       "SetID": "b3fep3o",
       "Name": "Buyer\u0027s Remorse",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_OB_B",
@@ -1021,9 +1026,9 @@
       "ID": "ACH_OB_LI",
       "SetID": "b3fep3o",
       "Name": "Lochos",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_OB_LS",
@@ -1222,7 +1227,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 2800,
+      "Progressed": 2801,
       "Completed": 0
     }
   ],
@@ -1230,8 +1235,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-05-13T07:05:24.2207122+00:00",
+  "LastChanged_Achievements": "2023-05-13T08:06:03.8266369+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:37.5647388+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:59:25.4181727+00:00",
-  "LastUpdate_Achievements": "2023-05-13T07:05:24.2207609+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:00:07.5585827+00:00",
+  "LastUpdate_Achievements": "2023-05-13T08:06:03.8266885+00:00"
 }

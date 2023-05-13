@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 5.00% | ~140 |
-| Lochos | 5.00% | ~140 |
 | Initiate's Resolve | 5.00% | ~140 |
 | Missilis | 4.00% | ~112 |
 | Modest Earnings | 4.00% | ~112 |
 | Armaments of the Pantheon | 4.00% | ~112 |
 | Persephone's Guidance | 4.00% | ~112 |
+| Lochos | 4.00% | ~112 |
 | Strength of Herakles | 4.00% | ~112 |
 | Reign in Blood | 4.00% | ~112 |
 | Pillars of Eternity | 3.00% | ~84 |
@@ -61,14 +61,14 @@
 | Blessing of Spring | 0.40% | ~11 |
 | Interrupt the Interloper | 0.40% | ~11 |
 | Window Shopping | 0.30% | ~8 |
-| Buyer's Remorse | 0.30% | ~8 |
 | Elephantine | 0.30% | ~8 |
+| Buyer's Remorse | 0.20% | ~6 |
 | Library of Alexandria | 0.10% | ~3 |
 | Chitinous | 0.10% | ~3 |
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,800 (Ranked 133)  
+Progressed: 2,801 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-10 | 2,784 | 0 |
 | 2023-05-11 | 2,794 | 0 |
 | 2023-05-12 | 2,799 | 0 |
-| 2023-05-13 | 2,800 | 0 |
+| 2023-05-13 | 2,801 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

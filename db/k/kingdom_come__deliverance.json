@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -4536,9 +4536,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 780804,
+  "EOS_Progressed": 780809,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1079,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6586,6 +6586,11 @@
       "Time": "2023-05-13T07:05:13.5550521+00:00",
       "NumProgressed": 780804,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-13T08:05:50.5061307+00:00",
+      "NumProgressed": 780809,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -6629,7 +6634,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 156161
+      "UsersEstimate": 156162
     },
     {
       "ID": "BadGirl",
@@ -6677,7 +6682,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 242049
+      "UsersEstimate": 242051
     },
     {
       "ID": "Bookworm",
@@ -6693,7 +6698,7 @@
       "Name": "Buddy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 85888
+      "UsersEstimate": 85889
     },
     {
       "ID": "Casanova",
@@ -6701,7 +6706,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46848
+      "UsersEstimate": 46849
     },
     {
       "ID": "Cavalier",
@@ -6709,7 +6714,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 195201
+      "UsersEstimate": 195202
     },
     {
       "ID": "Chivalrous",
@@ -6757,7 +6762,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78080
+      "UsersEstimate": 78081
     },
     {
       "ID": "DavidHorak",
@@ -6797,7 +6802,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179585
+      "UsersEstimate": 179586
     },
     {
       "ID": "Fighter",
@@ -6877,7 +6882,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70272
+      "UsersEstimate": 70273
     },
     {
       "ID": "HardcoreHenry",
@@ -6997,7 +7002,7 @@
       "Name": "McLovin",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46848
+      "UsersEstimate": 46849
     },
     {
       "ID": "MercenarysHonor",
@@ -7077,7 +7082,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156161
+      "UsersEstimate": 156162
     },
     {
       "ID": "RevenantOfLedechko",
@@ -7101,7 +7106,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54656
+      "UsersEstimate": 54657
     },
     {
       "ID": "Saviour",
@@ -7117,7 +7122,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156161
+      "UsersEstimate": 156162
     },
     {
       "ID": "SerialKiller",
@@ -7133,7 +7138,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 85888
+      "UsersEstimate": 85889
     },
     {
       "ID": "Sniper",
@@ -7173,7 +7178,7 @@
       "Name": "Thief",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 85888
+      "UsersEstimate": 85889
     },
     {
       "ID": "TisButAScratch",
@@ -7205,7 +7210,7 @@
       "Name": "Traveller",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78080
+      "UsersEstimate": 78081
     },
     {
       "ID": "TrialAndError",
@@ -7252,15 +7257,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 780804,
+      "Progressed": 780809,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-05-13T06:58:14.8483644+00:00",
-  "LastChanged_Achievements": "2023-05-13T07:05:13.5550513+00:00",
+  "LastChanged_Achievements": "2023-05-13T08:05:50.5061304+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.3995489+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:58:14.8483651+00:00",
-  "LastUpdate_Achievements": "2023-05-13T07:05:13.5551319+00:00"
+  "LastUpdate_Ratings": "2023-05-13T07:58:25.5933861+00:00",
+  "LastUpdate_Achievements": "2023-05-13T08:05:50.5062093+00:00"
 }

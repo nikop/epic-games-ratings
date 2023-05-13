@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Speedroller Rookie | 63.00% | ~10 |
-| Marbleball Badge | 50.00% | ~8 |
-| Metalball Badge | 13.00% | ~2 |
+| Marbleball Badge | 56.00% | ~9 |
+| Metalball Badge | 19.00% | ~3 |
 | Powerball Badge | 13.00% | ~2 |
 | Airball Badge | 0.00% | ~0 |
 | Speedroller Expert | 0.00% | ~0 |

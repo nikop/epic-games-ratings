@@ -7,22 +7,22 @@ Rating: 4.61 (Ranked 352)
 | ---- | ---------- | ----- |
 | Bootstrapping | 75.00% | ~118,754 |
 | Shine On | 70.00% | ~110,837 |
-| On the Job | 69.00% | ~109,253 |
-| Get Stuck In | 68.00% | ~107,670 |
-| Room for Expansion | 68.00% | ~107,670 |
+| On the Job | 69.00% | ~109,254 |
+| Get Stuck In | 68.00% | ~107,671 |
+| Room for Expansion | 68.00% | ~107,671 |
 | Sales Pitch | 65.00% | ~102,920 |
-| Chill Out | 64.00% | ~101,336 |
-| Tinker | 61.00% | ~96,586 |
+| Chill Out | 64.00% | ~101,337 |
+| Tinker | 61.00% | ~96,587 |
 | Grand Designs | 60.00% | ~95,003 |
-| Hot Stuff | 59.00% | ~93,419 |
+| Hot Stuff | 59.00% | ~93,420 |
 | MOAR RGB | 54.00% | ~85,503 |
-| Dream Theme | 46.00% | ~72,835 |
-| The Customer is King | 45.00% | ~71,252 |
+| Dream Theme | 46.00% | ~72,836 |
+| The Customer is King | 45.00% | ~71,253 |
 | Working Hard | 44.00% | ~69,669 |
 | On the Bench | 42.00% | ~66,502 |
 | The More the Merrier | 42.00% | ~66,502 |
-| Mix and Match | 38.00% | ~60,168 |
-| Recycler | 38.00% | ~60,168 |
+| Mix and Match | 38.00% | ~60,169 |
+| Recycler | 38.00% | ~60,169 |
 | Foot in the Door | 37.00% | ~58,585 |
 | Very Imported PC | 36.00% | ~57,002 |
 | Full Throttle | 34.00% | ~53,835 |
@@ -31,15 +31,15 @@ Rating: 4.61 (Ranked 352)
 | Local Hero | 28.00% | ~44,335 |
 | Broken to Smokin' | 26.00% | ~41,168 |
 | Workaholic | 26.00% | ~41,168 |
-| Thanks Jeff | 25.00% | ~39,584 |
+| Thanks Jeff | 25.00% | ~39,585 |
 | Cinematic | 24.00% | ~38,001 |
 | Bench Warmer | 24.00% | ~38,001 |
 | Gift of the Gab | 24.00% | ~38,001 |
 | Salvage Squad | 24.00% | ~38,001 |
 | On the Ladder | 23.00% | ~36,418 |
 | Stick With It | 23.00% | ~36,418 |
-| Variations on a Theme | 22.00% | ~34,834 |
-| Cowboy | 22.00% | ~34,834 |
+| Variations on a Theme | 22.00% | ~34,835 |
+| Cowboy | 22.00% | ~34,835 |
 | Slap Happy | 21.00% | ~33,251 |
 | Supercool | 19.00% | ~30,084 |
 | Stabiliser | 18.00% | ~28,501 |
@@ -48,7 +48,7 @@ Rating: 4.61 (Ranked 352)
 | Forgetful Shopper | 14.00% | ~22,167 |
 | Showpiece | 13.00% | ~20,584 |
 | Paste Not, Want Not | 13.00% | ~20,584 |
-| Bench Press | 9.00% | ~14,250 |
+| Bench Press | 9.00% | ~14,251 |
 | Matching Set | 8.00% | ~12,667 |
 | Tech Vet | 8.00% | ~12,667 |
 | Salesperson of the Month | 8.00% | ~12,667 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,338 (Ranked 52)  
+Progressed: 158,339 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 102 (0.06%) (Ranked 167)
 | 2023-05-10 | 158,248 | 102 |
 | 2023-05-11 | 158,275 | 102 |
 | 2023-05-12 | 158,322 | 102 |
-| 2023-05-13 | 158,338 | 102 |
+| 2023-05-13 | 158,339 | 102 |
 ## Awards
 Max (Great for Beginners): 605  (Ranked 164)  
 Sum: 4,544 (Ranked 127)  

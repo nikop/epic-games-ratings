@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -744,7 +744,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5622,
+  "EOS_Progressed": 5623,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -1934,6 +1934,11 @@
       "Time": "2023-05-13T01:59:30.9377684+00:00",
       "NumProgressed": 5622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T08:02:27.7687168+00:00",
+      "NumProgressed": 5623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2009,7 +2014,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2049,7 +2054,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4441
+      "UsersEstimate": 4442
     },
     {
       "ID": "First_Race_Met",
@@ -2057,7 +2062,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "First_Ship_Designed",
@@ -2065,7 +2070,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "First_Stream_Travel",
@@ -2081,7 +2086,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4386
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2281,7 +2286,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "War_Without_Translator",
@@ -2503,9 +2508,9 @@
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 225
     },
     {
       "ID": "Win_Research",
@@ -2520,15 +2525,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5622,
+      "Progressed": 5623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-12T13:57:15.9226682+00:00",
-  "LastChanged_Achievements": "2023-05-13T07:02:14.1945727+00:00",
+  "LastChanged_Achievements": "2023-05-13T08:02:27.768716+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:57:16.6710279+00:00",
-  "LastUpdate_Achievements": "2023-05-13T07:02:14.1946357+00:00"
+  "LastUpdate_Ratings": "2023-05-13T07:57:07.6989157+00:00",
+  "LastUpdate_Achievements": "2023-05-13T08:02:27.7687887+00:00"
 }

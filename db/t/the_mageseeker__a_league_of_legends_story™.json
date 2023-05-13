@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1977,
+  "EOS_Progressed": 1978,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1211,6 +1211,11 @@
       "Time": "2023-05-13T06:05:16.4032779+00:00",
       "NumProgressed": 1977,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T08:05:35.4374012+00:00",
+      "NumProgressed": 1978,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1230,7 +1235,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1262,7 +1267,7 @@
       "Name": "Hijack",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1286,7 +1291,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1302,7 +1307,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1326,7 +1331,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1406,7 +1411,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1454,7 +1459,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1492,9 +1497,9 @@
       "ID": "STB_MISSION6_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Terbisia",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 257
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -1526,7 +1531,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1564,9 +1569,9 @@
       "ID": "STB_SECONDARY_ASSAULT_II",
       "SetID": "3pe2bac",
       "Name": "Cypress Glen Headquarters",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 593
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1598,7 +1603,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1645,7 +1650,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1977,
+      "Progressed": 1978,
       "Completed": 1
     }
   ],
@@ -1653,8 +1658,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-13T07:05:00.9852304+00:00",
+  "LastChanged_Achievements": "2023-05-13T08:05:35.4374009+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-13T06:57:32.276257+00:00",
-  "LastUpdate_Achievements": "2023-05-13T07:05:00.9852706+00:00"
+  "LastUpdate_Ratings": "2023-05-13T07:57:29.1035051+00:00",
+  "LastUpdate_Achievements": "2023-05-13T08:05:35.4374406+00:00"
 }
