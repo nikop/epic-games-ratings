@@ -475,9 +475,9 @@
       "ID": "ACH_STAR_3",
       "SetID": "7k95e4n",
       "Name": "Still more work ahead",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_STAR_4",
@@ -532,8 +532,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:42.1514656+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:05:58.8387675+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:04.7333336+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:57:05.7272458+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:42.1514857+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:56:56.3366614+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:05:58.838783+00:00"
 }

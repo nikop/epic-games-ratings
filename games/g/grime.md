@@ -11,7 +11,7 @@ Number of Ratings: 46  (23.09.2022)
 | Ravenous | 18.00% | ~97 |
 | The Hunt | 17.00% | ~92 |
 | Weeper | 15.00% | ~81 |
-| Devourer | 11.00% | ~59 |
+| Devourer | 12.00% | ~65 |
 | Scion | 10.00% | ~12 |
 | Glare | 10.00% | ~12 |
 | Harmless | 10.00% | ~54 |

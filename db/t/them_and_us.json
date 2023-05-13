@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 25,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -93,6 +93,11 @@
       "Time": "2023-05-13T11:01:14.440281+00:00",
       "NumProgressed": 23,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T12:01:50.1484763+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -102,7 +107,7 @@
       "ID": "ETUA_ADC",
       "SetID": "65jc0ap",
       "Name": "Lover of classics",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -110,7 +115,7 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -118,9 +123,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -198,15 +203,15 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -254,7 +259,7 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -262,7 +267,7 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -278,7 +283,7 @@
       "ID": "ETUA_ParasiteExterminated",
       "SetID": "65jc0ap",
       "Name": "Parasite Exterminated",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -310,7 +315,7 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -342,7 +347,7 @@
       "ID": "ETUA_TheBusStop",
       "SetID": "65jc0ap",
       "Name": "The bus stop",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -350,7 +355,7 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -374,7 +379,7 @@
       "ID": "ETUA_ThisCoffin",
       "SetID": "65jc0ap",
       "Name": "This Coffin Has Your Name On It!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -390,7 +395,7 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -414,7 +419,7 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 2
     }
@@ -423,7 +428,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 25,
       "Completed": 1
     }
   ],
@@ -431,8 +436,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:01:14.4402806+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:01:50.148476+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:57:09.8904926+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:01:14.4403146+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:57:00.6395424+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:01:50.1485079+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5617,
+  "EOS_Progressed": 5618,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -846,6 +846,11 @@
       "Time": "2023-05-13T11:05:23.1563226+00:00",
       "NumProgressed": 5617,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-13T12:05:34.5080261+00:00",
+      "NumProgressed": 5618,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -921,7 +926,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -937,7 +942,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -945,7 +950,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -969,7 +974,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1049,7 +1054,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1185,7 +1190,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1209,14 +1214,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5617,
+      "Progressed": 5618,
       "Completed": 8
     }
   ],
@@ -1224,8 +1229,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-11T18:57:10.7073968+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:23.1563223+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:05:34.5080257+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:18.2018805+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:57:18.7572745+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:23.1563521+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:57:11.3135055+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:05:34.5080569+00:00"
 }

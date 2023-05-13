@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46140,
+  "EOS_Progressed": 46142,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1506,6 +1506,11 @@
       "Time": "2023-05-13T11:05:23.8199766+00:00",
       "NumProgressed": 46140,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-13T12:05:35.2939674+00:00",
+      "NumProgressed": 46142,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1549,7 +1554,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5075
+      "UsersEstimate": 5076
     },
     {
       "ID": "06",
@@ -1621,7 +1626,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "15",
@@ -1629,7 +1634,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "16",
@@ -1749,7 +1754,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "31",
@@ -1781,7 +1786,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "35",
@@ -1789,7 +1794,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7382
+      "UsersEstimate": 7383
     },
     {
       "ID": "36",
@@ -1925,7 +1930,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "53",
@@ -2052,21 +2057,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46140,
+      "Progressed": 46142,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9608,
+      "Progressed": 9610,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:23.8199763+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:05:35.293967+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:57:37.8091483+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:23.8200448+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:57:32.5914106+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:05:35.2940228+00:00"
 }

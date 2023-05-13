@@ -840,9 +840,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158344,
+  "EOS_Progressed": 158345,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2315,6 +2315,11 @@
       "Time": "2023-05-13T11:05:44.7800577+00:00",
       "NumProgressed": 158344,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-13T12:06:02.4773638+00:00",
+      "NumProgressed": 158345,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -2358,7 +2363,7 @@
       "Name": "Bootstrapping",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 118758
+      "UsersEstimate": 118759
     },
     {
       "ID": "CASH_going_places",
@@ -2390,7 +2395,7 @@
       "Name": "Broken to Smokin\u0027",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 41169
+      "UsersEstimate": 41170
     },
     {
       "ID": "CUSTOMIZE_dream_theme",
@@ -2398,7 +2403,7 @@
       "Name": "Dream Theme",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 72838
+      "UsersEstimate": 72839
     },
     {
       "ID": "CUSTOMIZE_grand_designs",
@@ -2406,7 +2411,7 @@
       "Name": "Grand Designs",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 95006
+      "UsersEstimate": 95007
     },
     {
       "ID": "CUSTOMIZE_just_how_you_like_it",
@@ -2510,7 +2515,7 @@
       "Name": "Workaholic",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 41169
+      "UsersEstimate": 41170
     },
     {
       "ID": "JOBS_on_the_job",
@@ -2518,7 +2523,7 @@
       "Name": "On the Job",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 109257
+      "UsersEstimate": 109258
     },
     {
       "ID": "JOBS_pc_og",
@@ -2534,7 +2539,7 @@
       "Name": "Working Hard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 69671
+      "UsersEstimate": 69672
     },
     {
       "ID": "JOBS_workoholic",
@@ -2590,7 +2595,7 @@
       "Name": "Shine On",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 110841
+      "UsersEstimate": 110842
     },
     {
       "ID": "OCCT_stabiliser",
@@ -2630,7 +2635,7 @@
       "Name": "On the Bench",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 66504
+      "UsersEstimate": 66505
     },
     {
       "ID": "SCORE_bench_warmer",
@@ -2654,7 +2659,7 @@
       "Name": "Foot in the Door",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 58587
+      "UsersEstimate": 58588
     },
     {
       "ID": "SELL_gift_of_the_gab",
@@ -2678,7 +2683,7 @@
       "Name": "The More the Merrier",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 66504
+      "UsersEstimate": 66505
     },
     {
       "ID": "SHOP_basket_case",
@@ -2726,7 +2731,7 @@
       "Name": "Local Hero",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44336
+      "UsersEstimate": 44337
     },
     {
       "ID": "STARS_the_customer_is_king",
@@ -2742,7 +2747,7 @@
       "Name": "Get Stuck In",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107674
+      "UsersEstimate": 107675
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -2766,7 +2771,7 @@
       "Name": "Hot Stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 93423
+      "UsersEstimate": 93424
     },
     {
       "ID": "UNLOCK_room_for_expansion",
@@ -2774,7 +2779,7 @@
       "Name": "Room for Expansion",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107674
+      "UsersEstimate": 107675
     },
     {
       "ID": "WATERCOOL_chill_out",
@@ -2782,7 +2787,7 @@
       "Name": "Chill Out",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 101340
+      "UsersEstimate": 101341
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -2790,14 +2795,14 @@
       "Name": "Supercool",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 30085
+      "UsersEstimate": 30086
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158344,
+      "Progressed": 158345,
       "Completed": 102
     }
   ],
@@ -2805,8 +2810,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-12T13:59:17.2457804+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:44.7800574+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:06:02.4773634+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.9884476+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:59:59.5848536+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:44.7801089+00:00"
+  "LastUpdate_Ratings": "2023-05-13T12:00:10.8719831+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:06:02.4774139+00:00"
 }

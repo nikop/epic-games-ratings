@@ -108,6 +108,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks Below? | 0.20% | ~107 |
 | Xanathaaaaaaar! | 0.20% | ~107 |
 | Homecoming | 0.20% | ~175 |
+| Anti-Dexterous Explorers | 0.20% | ~175 |
 | The Lost Heir of Omu | 0.20% | ~175 |
 | Lobsterfolk Assault | 0.20% | ~175 |
 | The Minions of Endelyn Moongrave | 0.20% | ~107 |
@@ -147,6 +148,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Our Time To Shine | 0.20% | ~175 |
 | Treasure Hunters | 0.20% | ~175 |
 | The Guardian of Orolunga | 0.20% | ~175 |
+| The Lost Love | 0.20% | ~175 |
 | Flies on the Wall | 0.20% | ~175 |
 | Backtracking Through Barovia | 0.20% | ~175 |
 | Nimble Escape | 0.20% | ~175 |
@@ -176,6 +178,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.20% | ~175 |
 | Dinosaur Racing | 0.20% | ~175 |
 | Elturel Has Fallen | 0.20% | ~175 |
+| Hailstorm! | 0.20% | ~107 |
 | Resolve Amongst Chaos | 0.20% | ~175 |
 | Market Fluctuations | 0.20% | ~175 |
 | Déjà Vu All Over Again | 0.20% | ~107 |
@@ -271,7 +274,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.10% | ~54 |
 | Clowning Around | 0.10% | ~54 |
 | A Whale of a Time | 0.10% | ~54 |
-| Anti-Dexterous Explorers | 0.10% | ~87 |
 | Struggling Toward Omu | 0.10% | ~87 |
 | Wagon Train | 0.10% | ~87 |
 | Not Very Charming | 0.10% | ~87 |
@@ -317,7 +319,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.10% | ~87 |
 | Air's Getting Pretty Thin | 0.10% | ~87 |
 | Red Wizard 'Escort' | 0.10% | ~54 |
-| The Lost Love | 0.10% | ~87 |
 | A Saurial's Lament | 0.10% | ~87 |
 | A Saurial's Resolve | 0.10% | ~87 |
 | Spirit of the Trickster Gods | 0.10% | ~54 |
@@ -384,7 +385,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~54 |
 | Everything is Awful | 0.10% | ~87 |
 | Earthquake! | 0.10% | ~54 |
-| Hailstorm! | 0.10% | ~54 |
 | All You Know Is Wrong | 0.10% | ~87 |
 | Shadow Stalkers | 0.10% | ~54 |
 | Avernus Frozen Over | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,343 (Ranked 59)  
+Progressed: 87,346 (Ranked 59)  
 Completed: 1,833 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,833 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,343 | 1,833 |
+| 2023-05-13 | 87,346 | 1,833 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,867 (Ranked 37)  

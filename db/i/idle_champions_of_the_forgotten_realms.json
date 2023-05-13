@@ -3664,9 +3664,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87343,
+  "EOS_Progressed": 87346,
   "EOS_Completed": 1833,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5729,6 +5729,11 @@
       "Time": "2023-05-13T11:05:56.9393696+00:00",
       "NumProgressed": 87343,
       "NumCompleted": 1833
+    },
+    {
+      "Time": "2023-05-13T12:06:16.6619887+00:00",
+      "NumProgressed": 87346,
+      "NumCompleted": 1833
     }
   ],
   "TotalAchievements": 489,
@@ -6682,9 +6687,9 @@
       "ID": "objective_completed_125",
       "SetID": "cc37lbc",
       "Name": "Anti-Dexterous Explorers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_126",
@@ -7482,9 +7487,9 @@
       "ID": "objective_completed_383",
       "SetID": "cc37lbc",
       "Name": "The Lost Love",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_384",
@@ -8322,9 +8327,9 @@
       "ID": "objective_completed_603",
       "SetID": "415jc5c",
       "Name": "Hailstorm!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_605",
@@ -9651,21 +9656,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53617,
+      "Progressed": 53620,
       "Completed": 2500
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87343,
+      "Progressed": 87346,
       "Completed": 1833
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-13T01:54:30.3444711+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:56.9393694+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:06:16.6619879+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:58:05.1598645+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:56.9416208+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:58:01.3876883+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:06:16.6641683+00:00"
 }

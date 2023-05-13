@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 774,
+  "EOS_Progressed": 775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -540,6 +540,11 @@
       "Time": "2023-05-12T21:05:43.4313451+00:00",
       "NumProgressed": 774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T12:06:07.2778938+00:00",
+      "NumProgressed": 775,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -559,7 +564,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -599,7 +604,7 @@
       "Name": "Double agent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -607,7 +612,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "EXPERT_1",
@@ -639,7 +644,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "HEAD_BURST_1",
@@ -671,7 +676,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "LOVE_GURU_1",
@@ -703,7 +708,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -727,7 +732,7 @@
       "Name": "Paranoia",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "PRIVATE_EYE",
@@ -807,7 +812,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "VVE",
@@ -831,22 +836,22 @@
       "Name": "Wishmaster",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:48.790811+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:06:07.2778933+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:04.4870163+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:00:25.3552138+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:48.7908379+00:00"
+  "LastUpdate_Ratings": "2023-05-13T12:00:41.2419517+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:06:07.2779166+00:00"
 }

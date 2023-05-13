@@ -77,8 +77,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 24.00% | ~2,643 |
 | Patrons | 23.00% | ~2,533 |
 | Learn to Play 2 | 23.00% | ~2,533 |
+| Legalism | 23.00% | ~2,533 |
 | Hittite Iron | 22.00% | ~2,423 |
-| Legalism | 22.00% | ~2,423 |
 | Mighty | 21.00% | ~2,313 |
 | Via Recta Souk | 21.00% | ~2,313 |
 | Dualism | 21.00% | ~2,313 |

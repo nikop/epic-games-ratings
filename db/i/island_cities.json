@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 68,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 20.59,
   "EosHistory": [
@@ -547,8 +547,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:18.33186+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:05:28.2108079+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.1366152+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:58:04.4146439+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:18.3318801+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:58:00.3425442+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:05:28.2108226+00:00"
 }

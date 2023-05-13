@@ -4,7 +4,7 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 897,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 148,
+  "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 268,
@@ -2629,10 +2629,16 @@
       "Rating": 3.92,
       "NumberOfAwards": 3050,
       "NumberOfAwardsMax": 388
+    },
+    {
+      "Time": "2023-05-13T12:00:13.7924402+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 2728,
+      "NumberOfAwardsMax": 388
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3050,
+  "NumberOfAwards": 2728,
   "NumberOfAwardsMax": 388,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2714,8 +2720,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-05-12T06:00:25.2433253+00:00",
+  "LastChanged": "2023-05-13T12:00:13.79244+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:42.804235+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:00:01.084514+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:04:25.4180326+00:00"
+  "LastUpdate_Ratings": "2023-05-13T12:00:13.7924405+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:04:30.7438613+00:00"
 }

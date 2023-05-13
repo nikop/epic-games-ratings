@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -349,6 +349,11 @@
       "Time": "2023-05-13T10:06:33.5391871+00:00",
       "NumProgressed": 83,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T12:05:40.533598+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -406,9 +411,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -518,7 +523,7 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -536,15 +541,15 @@
       "Name": "The Big Day",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PerfectGrade25",
@@ -560,7 +565,7 @@
       "Name": "Home Cook",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "RecipeDifferent30",
@@ -616,15 +621,15 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TrattoriaSet",
       "SetID": "d1bm05f",
       "Name": "Italian Style",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "UnlockAssiette",
@@ -679,7 +684,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 0
     }
   ],
@@ -687,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:27.8809934+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:05:40.5335975+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:21.5130518+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:58:28.9356436+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:27.8810255+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:58:31.9265371+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:05:40.5336234+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.29 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,683 |
-| A Ribbiting Performance | 78.00% | ~1,492 |
-| At Least We Have Each Other... | 77.00% | ~1,473 |
-| Frogbot | 73.00% | ~1,396 |
-| Ouch | 56.00% | ~1,071 |
-| Fun in the Stun | 56.00% | ~1,071 |
-| Do you feel like a tough guy? | 46.00% | ~880 |
-| The Interdimensional Power of Friendship | 45.00% | ~861 |
-| Turn Up The HEAT | 41.00% | ~784 |
-| Stop Hitting Yourself! | 36.00% | ~689 |
-| Nothing to Wear | 31.00% | ~593 |
+| On the Shoulders of Giants | 88.00% | ~1,686 |
+| A Ribbiting Performance | 78.00% | ~1,494 |
+| At Least We Have Each Other... | 77.00% | ~1,475 |
+| Frogbot | 73.00% | ~1,399 |
+| Ouch | 56.00% | ~1,073 |
+| Fun in the Stun | 56.00% | ~1,073 |
+| Do you feel like a tough guy? | 46.00% | ~881 |
+| The Interdimensional Power of Friendship | 45.00% | ~862 |
+| Turn Up The HEAT | 41.00% | ~786 |
+| Stop Hitting Yourself! | 36.00% | ~690 |
+| Nothing to Wear | 31.00% | ~594 |
 | The First Law of Thermodynamics | 28.00% | ~536 |
-| Do you trust me? | 16.00% | ~306 |
+| Do you trust me? | 16.00% | ~307 |
 | The Second Law of Thermodynamics | 15.00% | ~287 |
 | The Third Law of Thermodynamics | 9.00% | ~172 |
 | Say "Cheese!" | 8.00% | ~153 |
@@ -25,7 +25,7 @@ Rating: 4.29 (Ranked 760)
 | Better Than the Devs | 4.00% | ~77 |
 | So do we just stay up here, or?... | 2.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,913 (Ranked 145)  
+Progressed: 1,916 (Ranked 145)  
 Completed: 8 (0.42%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,7 +43,7 @@ Completed: 8 (0.42%) (Ranked 109)
 | 2023-05-10 | 1,874 | 8 |
 | 2023-05-11 | 1,891 | 8 |
 | 2023-05-12 | 1,908 | 8 |
-| 2023-05-13 | 1,913 | 8 |
+| 2023-05-13 | 1,916 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

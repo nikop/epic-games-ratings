@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1240,
+  "EOS_Progressed": 1242,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.82,
+  "EOS_Completed_Percentage": 7.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -998,6 +998,11 @@
       "Time": "2023-05-13T11:05:37.6633911+00:00",
       "NumProgressed": 1240,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-05-13T12:05:53.0922521+00:00",
+      "NumProgressed": 1242,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 12,
@@ -1017,7 +1022,7 @@
       "Name": "Bernard",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Building the Fox",
@@ -1033,7 +1038,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Jacques a Dit",
@@ -1041,7 +1046,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Jakob",
@@ -1097,14 +1102,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1240,
+      "Progressed": 1242,
       "Completed": 97
     }
   ],
@@ -1112,8 +1117,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:37.6633907+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:05:53.0922516+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:59:49.927252+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:37.6634067+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:59:57.4385353+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:05:53.0922651+00:00"
 }

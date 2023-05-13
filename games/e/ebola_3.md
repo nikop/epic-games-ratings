@@ -30,9 +30,9 @@
 | Fraternal help ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~6 |
+| Crocodile Attack ✔ | 4.00% | ~6 |
 | Mutant run ✔ | 4.00% | ~6 |
 | City on fire ✔ | 4.00% | ~6 |
-| Crocodile Attack ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |
 | Rank A ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |

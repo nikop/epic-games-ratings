@@ -8,7 +8,7 @@
 | High Profile | 65.00% | ~96 |
 | Read Between The Lines | 64.00% | ~95 |
 | Whispers In The Dark | 64.00% | ~95 |
-| Fond Memories | 56.00% | ~83 |
+| Fond Memories | 57.00% | ~84 |
 | History Check | 56.00% | ~83 |
 | A Method To His Madness | 56.00% | ~83 |
 | The New World | 55.00% | ~81 |
@@ -20,21 +20,21 @@
 | Gaze Into The Abyss | 51.00% | ~75 |
 | Back In The Saddle | 51.00% | ~75 |
 | No Man Is An Island | 50.00% | ~74 |
-| At Wits' End | 46.00% | ~68 |
+| At Wits' End | 47.00% | ~70 |
 | Bookworm | 45.00% | ~67 |
 | Fhtagn! | 42.00% | ~62 |
 | Going Once... | 41.00% | ~61 |
 | Up In Flames | 41.00% | ~61 |
 | Brain Food | 40.00% | ~59 |
 | Let Me Be Frank | 38.00% | ~56 |
-| No Stone Unturned | 35.00% | ~52 |
+| No Stone Unturned | 36.00% | ~53 |
 | Curiosity Killed The Cat | 25.00% | ~37 |
-| Read It And Weep | 24.00% | ~36 |
+| Read It And Weep | 25.00% | ~37 |
 | Big Breakthrough | 23.00% | ~34 |
 | Reawakened | 11.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 148 (Ranked 240)  
-Completed: 10 (6.76%) (Ranked 23)  
+Completed: 10 (6.76%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

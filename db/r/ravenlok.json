@@ -3,9 +3,9 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 618,
-  "EOS_Completed": 41,
-  "EOS_NewPlayers": 236,
-  "EOS_NewCompleters": 25,
-  "EOS_Completed_Percentage": 6.63,
+  "EOS_Completed": 42,
+  "EOS_NewPlayers": 231,
+  "EOS_NewCompleters": 26,
+  "EOS_Completed_Percentage": 6.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1047,6 +1047,11 @@
       "Time": "2023-05-13T09:05:09.0217508+00:00",
       "NumProgressed": 618,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-13T12:05:22.004249+00:00",
+      "NumProgressed": 618,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 50,
@@ -1312,9 +1317,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 204
     },
     {
       "ID": "4",
@@ -1458,15 +1463,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 618,
-      "Completed": 41
+      "Completed": 42
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:13.4618724+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:05:22.0042486+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:57:26.8210308+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:13.4619173+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:57:19.3439731+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:05:22.0042886+00:00"
 }

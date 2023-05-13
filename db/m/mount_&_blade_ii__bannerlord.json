@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -3975,7 +3975,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49679,
+  "EOS_Progressed": 49683,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 0,
@@ -5965,6 +5965,11 @@
       "Time": "2023-05-13T11:05:47.4745052+00:00",
       "NumProgressed": 49679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T12:06:05.6213156+00:00",
+      "NumProgressed": 49683,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5984,7 +5989,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6458
+      "UsersEstimate": 6459
     },
     {
       "ID": "Bannerlord",
@@ -5992,7 +5997,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 9936
+      "UsersEstimate": 9937
     },
     {
       "ID": "Best served cold",
@@ -6056,7 +6061,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "Dynasty",
@@ -6064,7 +6069,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "Entrepreneur",
@@ -6104,7 +6109,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5961
+      "UsersEstimate": 5962
     },
     {
       "ID": "Great Granny",
@@ -6136,7 +6141,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 9936
+      "UsersEstimate": 9937
     },
     {
       "ID": "I can do it",
@@ -6144,7 +6149,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6955
+      "UsersEstimate": 6956
     },
     {
       "ID": "I spit on your grave",
@@ -6152,7 +6157,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "Jack of All Trades",
@@ -6200,7 +6205,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14407
+      "UsersEstimate": 14408
     },
     {
       "ID": "Lawbringer",
@@ -6208,7 +6213,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17388
+      "UsersEstimate": 17389
     },
     {
       "ID": "Lawmaker",
@@ -6352,7 +6357,7 @@
       "Name": "Trained",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9439
+      "UsersEstimate": 9440
     },
     {
       "ID": "Undercover",
@@ -6376,22 +6381,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49679,
+      "Progressed": 49683,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-13T08:00:08.1206172+00:00",
-  "LastChanged_Achievements": "2023-05-13T11:05:47.4745048+00:00",
+  "LastChanged_Achievements": "2023-05-13T12:06:05.6213152+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:59:57.3039044+00:00",
-  "LastUpdate_Achievements": "2023-05-13T11:05:47.4745566+00:00"
+  "LastUpdate_Ratings": "2023-05-13T12:00:06.5155007+00:00",
+  "LastUpdate_Achievements": "2023-05-13T12:06:05.6213594+00:00"
 }
