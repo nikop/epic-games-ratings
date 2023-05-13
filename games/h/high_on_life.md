@@ -1,20 +1,20 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.68 (Ranked 234)  
+Rating: 4.68 (Ranked 235)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,796 |
-| Mods Please Ban | 77.00% | ~17,437 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,211 |
+| Eye Scream, You Scream | 83.00% | ~18,797 |
+| Mods Please Ban | 77.00% | ~17,438 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,212 |
 | Fallout Doesn't Let You Do This | 73.00% | ~16,532 |
-| First Bounty Down | 59.00% | ~13,361 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,908 |
+| First Bounty Down | 59.00% | ~13,362 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,909 |
 | Luglox Genocide | 43.00% | ~9,738 |
-| Playing Card To Get | 33.00% | ~7,473 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,473 |
-| Creature Feature | 29.00% | ~6,567 |
+| Playing Card To Get | 33.00% | ~7,474 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,474 |
+| Creature Feature | 29.00% | ~6,568 |
 | Satisfied Gus-tomer | 28.00% | ~6,341 |
 | Cold-Blooded Driller | 28.00% | ~6,341 |
 | G3 Graduation | 25.00% | ~5,662 |
@@ -25,10 +25,10 @@ Rating: 4.68 (Ranked 234)
 | Series Wrap on Suit-O | 22.00% | ~4,982 |
 | Lezduit! | 20.00% | ~4,529 |
 | Who's The Boss? | 20.00% | ~4,529 |
-| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,529 |
 | Self-Actualization | 19.00% | ~4,303 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,303 |
 | Legendary Bounty Hunter | 18.00% | ~4,076 |
-| Seeing All The Sights | 16.00% | ~3,623 |
+| Seeing All The Sights | 16.00% | ~3,624 |
 | Carried Stan's Load To Completion | 13.00% | ~2,944 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,718 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,038 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 234)
 | Epic Legendary Prize | 1.00% | ~226 |
 | A Starfish Is Born | 1.00% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,646 (Ranked 88)  
+Progressed: 22,647 (Ranked 88)  
 Completed: 8 (0.04%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 8 (0.04%) (Ranked 175)
 | 2023-05-10 | 22,634 | 8 |
 | 2023-05-11 | 22,640 | 8 |
 | 2023-05-12 | 22,644 | 8 |
-| 2023-05-13 | 22,646 | 8 |
+| 2023-05-13 | 22,647 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

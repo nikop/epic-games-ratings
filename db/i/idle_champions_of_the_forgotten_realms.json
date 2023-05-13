@@ -3670,10 +3670,10 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87374,
-  "EOS_Completed": 1834,
-  "EOS_NewPlayers": 732,
-  "EOS_NewCompleters": 26,
+  "EOS_Progressed": 87383,
+  "EOS_Completed": 1835,
+  "EOS_NewPlayers": 734,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5760,6 +5760,11 @@
       "Time": "2023-05-13T16:05:19.6866369+00:00",
       "NumProgressed": 87374,
       "NumCompleted": 1834
+    },
+    {
+      "Time": "2023-05-13T17:06:02.3825218+00:00",
+      "NumProgressed": 87383,
+      "NumCompleted": 1835
     }
   ],
   "TotalAchievements": 489,
@@ -5771,7 +5776,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "objective_completed_10",
@@ -5779,7 +5784,7 @@
       "Name": "Maddening",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_100",
@@ -5953,9 +5958,9 @@
       "ID": "objective_completed_1067",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Blast the Brigands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1068",
@@ -6089,9 +6094,9 @@
       "ID": "objective_completed_1091",
       "SetID": "415jc5c",
       "Name": "I\u0027m Sure I Saw It Move!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1092",
@@ -6105,9 +6110,9 @@
       "ID": "objective_completed_1093",
       "SetID": "415jc5c",
       "Name": "A Steadfast Love",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1095",
@@ -6651,7 +6656,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "objective_completed_1208",
@@ -6659,7 +6664,7 @@
       "Name": "Vecna Out!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "objective_completed_1209",
@@ -6891,7 +6896,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_150",
@@ -6963,7 +6968,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_165",
@@ -7099,7 +7104,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_20",
@@ -7459,7 +7464,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_36",
@@ -7915,7 +7920,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_540",
@@ -8315,7 +8320,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_60",
@@ -8473,9 +8478,9 @@
       "ID": "objective_completed_620",
       "SetID": "415jc5c",
       "Name": "An Illithid Undertaking",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_621",
@@ -8843,7 +8848,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_690",
@@ -9682,21 +9687,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53648,
+      "Progressed": 53657,
       "Completed": 2502
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87374,
-      "Completed": 1834
+      "Progressed": 87383,
+      "Completed": 1835
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-13T13:00:56.2777344+00:00",
-  "LastChanged_Achievements": "2023-05-13T16:05:19.686636+00:00",
+  "LastChanged_Achievements": "2023-05-13T17:06:02.3825215+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T15:57:43.2481957+00:00",
-  "LastUpdate_Achievements": "2023-05-13T16:05:19.6887343+00:00"
+  "LastUpdate_Ratings": "2023-05-13T16:58:03.0674171+00:00",
+  "LastUpdate_Achievements": "2023-05-13T17:06:02.3845923+00:00"
 }

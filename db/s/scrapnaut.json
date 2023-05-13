@@ -5,10 +5,10 @@
   "Ranking_Rating": 725,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -184,6 +184,11 @@
       "Time": "2023-05-13T16:04:37.7491761+00:00",
       "NumProgressed": 164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T17:05:15.4793812+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -209,9 +214,9 @@
       "ID": "ACH_BUILD_RAFINERY",
       "SetID": "7c4cldc",
       "Name": "Black Gold",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
@@ -219,15 +224,15 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -265,17 +270,17 @@
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Management",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -289,9 +294,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -355,7 +360,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -377,9 +382,9 @@
       "ID": "ACH_METEORITE_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelting Master",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -401,9 +406,9 @@
       "ID": "ACH_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelter",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -417,9 +422,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "7c4cldc",
       "Name": "Advanced Survivalist",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -442,7 +447,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 0
     }
   ],
@@ -450,8 +455,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-13T16:04:37.7491757+00:00",
+  "LastChanged_Achievements": "2023-05-13T17:05:15.4793808+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:24.851912+00:00",
-  "LastUpdate_Ratings": "2023-05-13T15:58:04.7882545+00:00",
-  "LastUpdate_Achievements": "2023-05-13T16:04:37.7491915+00:00"
+  "LastUpdate_Ratings": "2023-05-13T16:58:29.3279391+00:00",
+  "LastUpdate_Achievements": "2023-05-13T17:05:15.4793972+00:00"
 }

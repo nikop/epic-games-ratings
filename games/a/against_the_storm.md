@@ -27,12 +27,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 0.60% | ~89 |
 | Corrosive Torrent | 0.60% | ~89 |
 | Cursed Lands | 0.60% | ~89 |
+| A Real Challenge | 0.60% | ~89 |
 | Refinery | 0.50% | ~74 |
 | Haunted Forest | 0.50% | ~74 |
 | Levitating Monument | 0.50% | ~74 |
 | Monastery of the Holy Flame | 0.50% | ~74 |
 | Watchtower | 0.50% | ~74 |
-| A Real Challenge | 0.50% | ~74 |
 | Serving Ale | 0.40% | ~59 |
 | Against All Odds | 0.40% | ~59 |
 | Statue of the Forefathers | 0.40% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,781 (Ranked 98)  
+Progressed: 14,784 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 30 (0.20%) (Ranked 137)
 | 2023-05-10 | 14,738 | 30 |
 | 2023-05-11 | 14,756 | 30 |
 | 2023-05-12 | 14,766 | 30 |
-| 2023-05-13 | 14,781 | 30 |
+| 2023-05-13 | 14,784 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 193)  
 Sum: 3,022 (Ranked 150)  

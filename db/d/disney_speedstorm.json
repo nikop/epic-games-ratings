@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2431,
+  "EOS_Progressed": 2432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1290,6 +1290,11 @@
       "Time": "2023-05-13T13:08:37.5978729+00:00",
       "NumProgressed": 2431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T17:05:31.1530881+00:00",
+      "NumProgressed": 2432,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1307,9 +1312,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 972
+      "UsersEstimate": 997
     },
     {
       "ID": "11",
@@ -1341,7 +1346,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "15",
@@ -1357,7 +1362,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "17",
@@ -1453,7 +1458,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "6",
@@ -1492,13 +1497,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2431,
+      "Progressed": 2432,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-13T16:04:51.2751433+00:00",
+  "LastChanged_Achievements": "2023-05-13T17:05:31.1530875+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-13T15:58:27.0392326+00:00",
-  "LastUpdate_Achievements": "2023-05-13T16:04:51.2751621+00:00"
+  "LastUpdate_Ratings": "2023-05-13T16:58:55.7633136+00:00",
+  "LastUpdate_Achievements": "2023-05-13T17:05:31.1531116+00:00"
 }

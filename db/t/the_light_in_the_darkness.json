@@ -1032,9 +1032,9 @@
       "ID": "Arranging Boxes",
       "SetID": "b40dflc",
       "Name": "Arranging Boxes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 162
+      "UsersEstimate": 175
     },
     {
       "ID": "Bernard",
@@ -1137,8 +1137,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-13T16:04:59.8453333+00:00",
+  "LastChanged_Achievements": "2023-05-13T17:05:40.5440474+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-13T15:59:00.5365226+00:00",
-  "LastUpdate_Achievements": "2023-05-13T16:04:59.8453474+00:00"
+  "LastUpdate_Ratings": "2023-05-13T16:59:36.170938+00:00",
+  "LastUpdate_Achievements": "2023-05-13T17:05:40.544061+00:00"
 }

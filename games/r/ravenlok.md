@@ -23,8 +23,8 @@
 | Gooey Delight! | 38.00% | ~236 |
 | Glimmer of Hope | 38.00% | ~236 |
 | Teacups for Toppy | 38.00% | ~236 |
-| Nightmare Fuel | 36.00% | ~224 |
-| Take Heart | 36.00% | ~224 |
+| Nightmare Fuel | 37.00% | ~230 |
+| Take Heart | 37.00% | ~230 |
 | The Guardian | 36.00% | ~224 |
 | Stronger! | 35.00% | ~217 |
 | Ancient Wisdom | 34.00% | ~211 |
@@ -45,8 +45,8 @@
 | Trick Question! | 29.00% | ~180 |
 | Final Showdown | 29.00% | ~180 |
 | Spot of Tea? | 29.00% | ~180 |
+| Going Home | 29.00% | ~180 |
 | Extraordinary! | 28.00% | ~174 |
-| Going Home | 28.00% | ~174 |
 | Mirror, Mirror | 26.00% | ~161 |
 | Flower Power | 24.00% | ~149 |
 | Crowned | 21.00% | ~130 |

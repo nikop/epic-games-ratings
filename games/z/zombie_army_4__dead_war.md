@@ -6,32 +6,32 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,736 |
-| Say goodbye, creep! | 65.00% | ~27,468 |
-| Blood splattered | 65.00% | ~27,468 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,737 |
+| Say goodbye, creep! | 65.00% | ~27,469 |
+| Blood splattered | 65.00% | ~27,469 |
 | Choo choo! | 62.00% | ~26,201 |
-| Groovy | 60.00% | ~25,355 |
-| Cleanup on aisle 4! | 56.00% | ~23,665 |
+| Groovy | 60.00% | ~25,356 |
+| Cleanup on aisle 4! | 56.00% | ~23,666 |
 | Gold | 50.00% | ~21,130 |
-| The boat can leave now...tell the crew | 48.00% | ~20,284 |
-| Give me something to shoot! | 46.00% | ~19,439 |
-| Stand back boy! | 46.00% | ~19,439 |
+| The boat can leave now...tell the crew | 48.00% | ~20,285 |
+| Give me something to shoot! | 46.00% | ~19,440 |
+| Stand back boy! | 46.00% | ~19,440 |
 | Weird science | 44.00% | ~18,594 |
 | Chain reaction | 44.00% | ~18,594 |
-| Look mummy! A shark! | 41.00% | ~17,326 |
-| What did you say, Blain? | 41.00% | ~17,326 |
-| In the dark dark woods... | 38.00% | ~16,058 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,058 |
-| Double tap | 36.00% | ~15,213 |
-| Cranial blowout! | 36.00% | ~15,213 |
-| Zombie killin' machine | 36.00% | ~15,213 |
-| Every bullet counts | 36.00% | ~15,213 |
+| Look mummy! A shark! | 41.00% | ~17,327 |
+| What did you say, Blain? | 41.00% | ~17,327 |
+| In the dark dark woods... | 38.00% | ~16,059 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,059 |
+| Double tap | 36.00% | ~15,214 |
+| Cranial blowout! | 36.00% | ~15,214 |
+| Zombie killin' machine | 36.00% | ~15,214 |
+| Every bullet counts | 36.00% | ~15,214 |
 | All of this has happened before… | 35.00% | ~14,791 |
 | You've got red on you | 34.00% | ~14,368 |
-| All roads lead to Rome | 33.00% | ~13,945 |
-| You're all going to die down here | 31.00% | ~13,100 |
-| He did Nazi that coming | 31.00% | ~13,100 |
-| Kill of the week | 31.00% | ~13,100 |
+| All roads lead to Rome | 33.00% | ~13,946 |
+| You're all going to die down here | 31.00% | ~13,101 |
+| He did Nazi that coming | 31.00% | ~13,101 |
+| Kill of the week | 31.00% | ~13,101 |
 | I never liked them anyway | 30.00% | ~12,678 |
 | Is it over? | 28.00% | ~11,833 |
 | Got your back | 27.00% | ~11,410 |
@@ -41,7 +41,7 @@ Number of Ratings: 743  (23.09.2022)
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,607 |
 | Take them down screaming | 18.00% | ~7,607 |
 | Weapons expert | 17.00% | ~7,184 |
-| Bad Blood | 16.00% | ~6,761 |
+| Bad Blood | 16.00% | ~6,762 |
 | The bigger they are... | 15.00% | ~6,339 |
 | I'm going deeper underground | 14.00% | ~5,916 |
 | Well equipped | 12.00% | ~5,071 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~423 |
 | None more hard | 0.50% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,259 (Ranked 79)  
+Progressed: 42,260 (Ranked 79)  
 Completed: 24 (0.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,10 +96,10 @@ Completed: 24 (0.06%) (Ranked 167)
 | 2023-05-10 | 42,237 | 24 |
 | 2023-05-11 | 42,245 | 24 |
 | 2023-05-12 | 42,253 | 24 |
-| 2023-05-13 | 42,259 | 24 |
+| 2023-05-13 | 42,260 | 24 |
 ## Awards
 Max (Great Boss Battles): 773  (Ranked 146)  
-Sum: 2,360 (Ranked 170)  
+Sum: 2,361 (Ranked 170)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -108,7 +108,7 @@ Diff (max vs sum): -24
 | This game has Amazing Storytelling | 204 |
 | This game is Extremely Fun | 203 |
 | This game is Highly Recommended | 202 |
-| This game has Diverse Characters | 195 |
+| This game has Diverse Characters | 196 |
 | This game has Quickly Understood Controls | 192 |
 | This game is Relaxing | 180 |
 | This game has Amazing Characters | 173 |
@@ -226,3 +226,4 @@ Diff (max vs sum): -24
 | 2023-05-09 | 4.69 | - | 772 | 2,358 |
 | 2023-05-10 | 4.69 | - | 773 | 2,359 |
 | 2023-05-11 | 4.69 | - | 773 | 2,360 |
+| 2023-05-13 | 4.69 | - | 773 | 2,361 |

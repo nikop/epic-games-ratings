@@ -7,8 +7,8 @@ Rating: 4.38 (Ranked 690)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 36.00% | ~255 |
 | Confirming Suspicions | 32.00% | ~227 |
-| The Kraken Wakes | 29.00% | ~205 |
-| It's Starting to Crack | 28.00% | ~198 |
+| The Kraken Wakes | 29.00% | ~206 |
+| It's Starting to Crack | 28.00% | ~199 |
 | Lord of War | 25.00% | ~177 |
 | Change the Channel | 25.00% | ~177 |
 | Resourceful | 23.00% | ~163 |
@@ -18,7 +18,7 @@ Rating: 4.38 (Ranked 690)
 | Target America | 21.00% | ~149 |
 | As Quiet as a Mouse | 19.00% | ~135 |
 | The Kraken Sleeps | 19.00% | ~135 |
-| Liberté | 17.00% | ~120 |
+| Liberté | 17.00% | ~121 |
 | Explosive Efficiency | 16.00% | ~113 |
 | Gunslinger | 15.00% | ~106 |
 | Climbing the Ladder | 14.00% | ~99 |
@@ -28,12 +28,12 @@ Rating: 4.38 (Ranked 690)
 | Just a Flesh Wound | 13.00% | ~92 |
 | Der Geist | 13.00% | ~92 |
 | Snake in the Grass | 13.00% | ~92 |
+| Enemy at the Gates | 12.00% | ~85 |
 | Set Europe Ablaze | 12.00% | ~85 |
 | Die Nussknacker Sweet! | 12.00% | ~85 |
 | Brains of the Operation | 12.00% | ~85 |
 | No Stone Unturned | 11.00% | ~78 |
 | Opposing Force | 11.00% | ~78 |
-| Enemy at the Gates | 11.00% | ~78 |
 | My Little Friend | 9.00% | ~64 |
 | Precision Is Key | 8.00% | ~57 |
 | Rigged to Blow | 8.00% | ~57 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 690)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708 (Ranked 176)  
+Progressed: 709 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 2 (0.28%) (Ranked 127)
 | 2023-05-10 | 698 | 2 |
 | 2023-05-11 | 701 | 2 |
 | 2023-05-12 | 707 | 2 |
-| 2023-05-13 | 708 | 2 |
+| 2023-05-13 | 709 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

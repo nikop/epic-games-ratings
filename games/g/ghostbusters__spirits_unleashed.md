@@ -5,26 +5,26 @@ Rating: 4.49 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 87.00% | ~18,917 |
+| Stylish | 87.00% | ~18,918 |
 | Advancement | 74.00% | ~16,091 |
 | Meticulously Efficient | 65.00% | ~14,134 |
 | Discovery | 63.00% | ~13,699 |
 | Swift Rift Removers | 56.00% | ~12,177 |
-| Fully Upgraded | 55.00% | ~11,959 |
-| Cultured | 53.00% | ~11,524 |
+| Fully Upgraded | 55.00% | ~11,960 |
+| Cultured | 53.00% | ~11,525 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,307 |
 | Vaporous Expansion | 49.00% | ~10,655 |
 | Teamwork | 45.00% | ~9,785 |
-| There you are! | 44.00% | ~9,567 |
-| Clutch Capture | 42.00% | ~9,132 |
+| There you are! | 44.00% | ~9,568 |
+| Clutch Capture | 42.00% | ~9,133 |
 | Back Off | 36.00% | ~7,828 |
 | Daily Dose | 36.00% | ~7,828 |
 | Welcome to the Crew | 33.00% | ~7,176 |
 | Solo Capture | 32.00% | ~6,958 |
 | Ghostbuster In Training | 31.00% | ~6,741 |
-| Icing on the Cake | 30.00% | ~6,523 |
-| Legions | 28.00% | ~6,088 |
-| Side Hustle | 28.00% | ~6,088 |
+| Icing on the Cake | 30.00% | ~6,524 |
+| Legions | 28.00% | ~6,089 |
+| Side Hustle | 28.00% | ~6,089 |
 | We have the best insurance | 27.00% | ~5,871 |
 | Pesky Jerks | 27.00% | ~5,871 |
 | Right back at ya | 27.00% | ~5,871 |
@@ -35,9 +35,9 @@ Rating: 4.49 (Ranked 552)
 | Skilled | 25.00% | ~5,436 |
 | Ectoplasmic Entity | 24.00% | ~5,219 |
 | Rift Destroyer | 21.00% | ~4,566 |
-| Tobin's Prodigy | 19.00% | ~4,131 |
+| Tobin's Prodigy | 19.00% | ~4,132 |
 | Reckless | 18.00% | ~3,914 |
-| Terrifying | 17.00% | ~3,696 |
+| Terrifying | 17.00% | ~3,697 |
 | Diabolical | 16.00% | ~3,479 |
 | Escape Artist | 16.00% | ~3,479 |
 | Seasoned | 16.00% | ~3,479 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 552)
 | I don't need these | 1.00% | ~217 |
 | Mycophile | 1.00% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,744 (Ranked 89)  
+Progressed: 21,745 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 39 (0.18%) (Ranked 141)
 | 2023-05-10 | 21,687 | 39 |
 | 2023-05-11 | 21,705 | 39 |
 | 2023-05-12 | 21,723 | 39 |
-| 2023-05-13 | 21,744 | 39 |
+| 2023-05-13 | 21,745 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
 Sum: 2,063 (Ranked 185)  

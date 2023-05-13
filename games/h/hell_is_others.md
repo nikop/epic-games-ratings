@@ -5,12 +5,12 @@ Rating: 4.46 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,058 |
-| Predator I | 22.00% | ~54,686 |
-| Fixer I | 10.00% | ~24,857 |
-| A week in Century City | 10.00% | ~24,857 |
-| The Wait | 7.00% | ~17,400 |
-| Green thumb I | 6.00% | ~14,914 |
+| Survivor | 31.00% | ~77,060 |
+| Predator I | 22.00% | ~54,688 |
+| Fixer I | 10.00% | ~24,858 |
+| A week in Century City | 10.00% | ~24,858 |
+| The Wait | 7.00% | ~17,401 |
+| Green thumb I | 6.00% | ~14,915 |
 | Well-oiled machine | 5.00% | ~12,429 |
 | Saver I | 5.00% | ~12,429 |
 | Cleaning Company | 5.00% | ~12,429 |
@@ -19,14 +19,14 @@ Rating: 4.46 (Ranked 591)
 | Vandalism | 4.00% | ~9,943 |
 | Capitalist I | 4.00% | ~9,943 |
 | Adrenaline | 3.00% | ~7,457 |
-| By a hair | 2.00% | ~4,971 |
-| Fixer II | 2.00% | ~4,971 |
-| It took a while | 2.00% | ~4,971 |
-| Samurai | 2.00% | ~4,971 |
-| I Left You a Present | 2.00% | ~4,971 |
-| Predator II | 2.00% | ~4,971 |
-| Truffle Dog | 2.00% | ~4,971 |
-| A month in Century City | 2.00% | ~4,971 |
+| By a hair | 2.00% | ~4,972 |
+| Fixer II | 2.00% | ~4,972 |
+| It took a while | 2.00% | ~4,972 |
+| Samurai | 2.00% | ~4,972 |
+| I Left You a Present | 2.00% | ~4,972 |
+| Predator II | 2.00% | ~4,972 |
+| Truffle Dog | 2.00% | ~4,972 |
+| A month in Century City | 2.00% | ~4,972 |
 | The Strengthening | 1.00% | ~2,486 |
 | Saver II | 1.00% | ~2,486 |
 | It's the last one, I swear | 1.00% | ~2,486 |
@@ -62,7 +62,7 @@ Rating: 4.46 (Ranked 591)
 | Capitalist III | 0.10% | ~249 |
 | Hell Is You | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,574 (Ranked 39)  
+Progressed: 248,580 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.00%) (Ranked 198)
 | 2023-05-10 | 248,340 | 1 |
 | 2023-05-11 | 248,407 | 1 |
 | 2023-05-12 | 248,486 | 1 |
-| 2023-05-13 | 248,574 | 1 |
+| 2023-05-13 | 248,580 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 469)  
 Sum: 23 (Ranked 472)  

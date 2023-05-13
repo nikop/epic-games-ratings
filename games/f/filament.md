@@ -5,7 +5,7 @@ Rating: 4.32 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~178,316 |
+| Boarded! | 94.00% | ~178,323 |
 | Snooper. | 10.00% | ~18,970 |
 | You have to start somewhere, right? | 7.00% | ~13,279 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,382 |
@@ -30,12 +30,12 @@ Rating: 4.32 (Ranked 741)
 | Witness it. | 0.70% | ~1,328 |
 | Bridge crossed. | 0.60% | ~1,138 |
 | A full deck. | 0.60% | ~1,138 |
-| No Anchor too great. | 0.50% | ~948 |
-| 14237b6509eafd8c | 0.50% | ~948 |
+| No Anchor too great. | 0.50% | ~949 |
+| 14237b6509eafd8c | 0.50% | ~949 |
 | Snooper + | 0.40% | ~759 |
 | Corrupted + | 0.30% | ~569 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189,698 (Ranked 48)  
+Progressed: 189,705 (Ranked 48)  
 Completed: 417 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 417 (0.22%) (Ranked 135)
 | 2023-05-10 | 189,421 | 412 |
 | 2023-05-11 | 189,508 | 414 |
 | 2023-05-12 | 189,608 | 417 |
-| 2023-05-13 | 189,698 | 417 |
+| 2023-05-13 | 189,705 | 417 |
 ## Awards
 Max (Challenging Puzzles): 551  (Ranked 171)  
 Sum: 665 (Ranked 263)  

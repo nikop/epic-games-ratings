@@ -30,10 +30,10 @@
 | I am Root! | 1.00% | ~1 |
 | Yeehaw! | 1.00% | ~1 |
 | Yeetus Deletus | 1.00% | ~1 |
+| Best in the field | 1.00% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 | Daddy Issues | 0.00% | ~0 |
 | Free Spirit | 0.00% | ~0 |
-| Best in the field | 0.00% | ~0 |
 | V is for Vegan | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 260)  

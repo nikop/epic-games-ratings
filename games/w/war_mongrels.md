@@ -6,19 +6,19 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 59.00% | ~150 |
+| Explorer | 60.00% | ~153 |
 | Cowardice | 53.00% | ~135 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~130 |
-| Eat Lead! | 49.00% | ~124 |
-| Prospector | 45.00% | ~114 |
-| Here Comes the Boom | 45.00% | ~114 |
-| Treasure Hunter | 43.00% | ~109 |
-| The Breaking Point | 39.00% | ~99 |
+| Eat Lead! | 49.00% | ~125 |
+| Prospector | 45.00% | ~115 |
+| Here Comes the Boom | 45.00% | ~115 |
+| Treasure Hunter | 44.00% | ~112 |
+| The Breaking Point | 38.00% | ~97 |
 | Missing in Action | 38.00% | ~97 |
 | Sniper Wolf | 38.00% | ~97 |
 | The Motivation | 35.00% | ~89 |
 | King of Knives | 33.00% | ~84 |
-| Heroism | 31.00% | ~79 |
+| Heroism | 32.00% | ~82 |
 | Collectibles of Chapter I | 30.00% | ~76 |
 | Consequences | 29.00% | ~74 |
 | Opportunities | 28.00% | ~71 |
@@ -26,14 +26,14 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter II | 24.00% | ~61 |
 | The Difference | 24.00% | ~61 |
 | Vengeance | 22.00% | ~56 |
-| Food Massacre | 21.00% | ~53 |
+| Food Massacre | 21.00% | ~54 |
 | Broken Hopes | 20.00% | ~51 |
 | Bullseye! | 20.00% | ~51 |
-| It's Just an Accident | 17.00% | ~43 |
 | Collectibles of Chapter III | 16.00% | ~41 |
 | Sorrow | 16.00% | ~41 |
+| It's Just an Accident | 16.00% | ~41 |
 | Atonement | 15.00% | ~38 |
-| Collectibles of Chapter IV | 13.00% | ~33 |
+| Collectibles of Chapter IV | 14.00% | ~36 |
 | Without a Second Thought | 13.00% | ~33 |
 | Helping Hand | 11.00% | ~28 |
 | Collectibles of Chapter V | 9.00% | ~23 |
@@ -41,8 +41,8 @@ Number of Ratings: 34  (23.09.2022)
 | Such is War! | 7.00% | ~18 |
 | Piece of Cake | 7.00% | ~18 |
 | Tiptoe Around | 7.00% | ~18 |
-| Collectibles of Chapter VIII | 6.00% | ~15 |
 | Collectibles of Chapter XII | 6.00% | ~15 |
+| Collectibles of Chapter VIII | 5.00% | ~13 |
 | Collectibles of Chapter X | 5.00% | ~13 |
 | Collectibles of Chapter XI | 5.00% | ~13 |
 | The Good Samaritan | 4.00% | ~10 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 217)  
+Progressed: 255 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-09 | 250 | 0 |
 | 2023-05-10 | 251 | 0 |
 | 2023-05-12 | 253 | 0 |
-| 2023-05-13 | 254 | 0 |
+| 2023-05-13 | 255 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

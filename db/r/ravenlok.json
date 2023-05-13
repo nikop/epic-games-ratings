@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 621,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
@@ -1092,9 +1092,9 @@
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "12",
@@ -1180,9 +1180,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "22",
@@ -1444,9 +1444,9 @@
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "7",
@@ -1485,8 +1485,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-13T16:04:34.9756157+00:00",
+  "LastChanged_Achievements": "2023-05-13T17:05:12.1018734+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-13T15:57:13.8719474+00:00",
-  "LastUpdate_Achievements": "2023-05-13T16:04:34.9756552+00:00"
+  "LastUpdate_Ratings": "2023-05-13T16:57:27.0938385+00:00",
+  "LastUpdate_Achievements": "2023-05-13T17:05:12.1019115+00:00"
 }

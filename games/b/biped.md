@@ -12,7 +12,7 @@
 | Snowy Peak | 11.00% | ~125 |
 | Speed walkers | 10.00% | ~114 |
 | High Treetops | 9.00% | ~102 |
-| Blue Rapids | 7.00% | ~80 |
+| Blue Rapids | 8.00% | ~91 |
 | Sunset Ridge | 4.00% | ~45 |
 | Trend hunters | 0.10% | ~1 |
 | I can do this alone | 0.10% | ~1 |

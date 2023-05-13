@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,747 |
+| A Brief Tour of the Realms | 2.00% | ~1,748 |
 | Checkmate | 2.00% | ~1,073 |
-| Pin and Skewer | 1.00% | ~536 |
-| Vecna Out! | 1.00% | ~536 |
+| Pin and Skewer | 1.00% | ~537 |
+| Vecna Out! | 1.00% | ~537 |
 | The Cursed Farmer | 1.00% | ~874 |
 | Beast Intentions | 0.80% | ~699 |
 | Bully for Vecna | 0.80% | ~429 |
@@ -22,17 +22,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.50% | ~437 |
 | Friendly Imps | 0.50% | ~437 |
 | Pure Energy | 0.50% | ~437 |
-| Maddening | 0.40% | ~349 |
+| Maddening | 0.40% | ~350 |
 | Best Thay Ever | 0.40% | ~215 |
 | The Sanctum of the Sword | 0.40% | ~215 |
 | Get Back In The Castle | 0.40% | ~215 |
-| Terror in the Dark | 0.40% | ~349 |
-| A Mysterious Summons | 0.40% | ~349 |
-| Unearthed Evil | 0.40% | ~349 |
-| The Crumbling Temple | 0.40% | ~349 |
-| Exploring Port Nyanzaru | 0.40% | ~349 |
-| The Contagious Curse | 0.40% | ~349 |
-| Escort to Waterdeep | 0.40% | ~349 |
+| Terror in the Dark | 0.40% | ~350 |
+| A Mysterious Summons | 0.40% | ~350 |
+| Unearthed Evil | 0.40% | ~350 |
+| The Crumbling Temple | 0.40% | ~350 |
+| Exploring Port Nyanzaru | 0.40% | ~350 |
+| The Contagious Curse | 0.40% | ~350 |
+| Escort to Waterdeep | 0.40% | ~350 |
 | The Silken Swamp | 0.30% | ~262 |
 | Owlbear Necessities | 0.30% | ~161 |
 | Keep Your Distance | 0.30% | ~161 |
@@ -75,11 +75,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patron Party | 0.20% | ~107 |
 | Hither of the Feywild | 0.20% | ~107 |
 | Don't Breathe the Marsh Gas | 0.20% | ~107 |
+| Don't Blast the Brigands | 0.20% | ~107 |
 | The Prince of a Thousand Enemies | 0.20% | ~107 |
 | Uncommon Allies | 0.20% | ~107 |
 | Downfall | 0.20% | ~107 |
 | Third Third Out | 0.20% | ~107 |
 | Slack-jawed Lorna | 0.20% | ~107 |
+| I'm Sure I Saw It Move! | 0.20% | ~107 |
+| A Steadfast Love | 0.20% | ~107 |
 | The Fairy Rings of Thither | 0.20% | ~107 |
 | Wet Feet | 0.20% | ~175 |
 | Hatchlings Underfoot | 0.20% | ~175 |
@@ -186,6 +189,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.20% | ~175 |
 | Once More Into The Breach | 0.20% | ~175 |
 | Wyllowwood | 0.20% | ~175 |
+| An Illithid Undertaking | 0.20% | ~107 |
 | Déjà Vu All Over Again | 0.20% | ~107 |
 | Into The Fire | 0.20% | ~107 |
 | Hearts Aflame | 0.20% | ~107 |
@@ -237,7 +241,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | And Your Enemies Closer | 0.10% | ~54 |
 | Back to Nature | 0.10% | ~54 |
 | Go Fourth | 0.10% | ~54 |
-| Don't Blast the Brigands | 0.10% | ~54 |
 | Don't Squeeze the Spiders | 0.10% | ~54 |
 | The Spire of Iriolarthas | 0.10% | ~54 |
 | Always Watching | 0.10% | ~54 |
@@ -248,9 +251,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Where the Magic Happens | 0.10% | ~54 |
 | First Third Out | 0.10% | ~54 |
 | Second Third Out | 0.10% | ~54 |
-| I'm Sure I Saw It Move! | 0.10% | ~54 |
 | End of the Line | 0.10% | ~54 |
-| A Steadfast Love | 0.10% | ~54 |
 | Zarak's Revenge | 0.10% | ~54 |
 | Bully for You! | 0.10% | ~54 |
 | The Dark Heart | 0.10% | ~54 |
@@ -399,7 +400,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ettercap Swarm | 0.10% | ~54 |
 | Smooth Talkers | 0.10% | ~54 |
 | Relay Race | 0.10% | ~87 |
-| An Illithid Undertaking | 0.10% | ~54 |
 | An Illithid Ambush | 0.10% | ~54 |
 | Misty Undermountain | 0.10% | ~54 |
 | An Owlbear of an Undertaking | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,374 (Ranked 59)  
-Completed: 1,834 (2.10%) (Ranked 60)  
+Progressed: 87,383 (Ranked 59)  
+Completed: 1,835 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -519,7 +519,7 @@ Completed: 1,834 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,374 | 1,834 |
+| 2023-05-13 | 87,383 | 1,835 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,870 (Ranked 37)  
