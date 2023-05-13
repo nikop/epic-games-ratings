@@ -37,7 +37,6 @@
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-05-31 | 2022-12-02 |
 | [Bob A thousand lives](games/b/bob_a_thousand_lives.md) | 2023-05-31 | 2022-09-06 |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | 2023-05-31 |
-| [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-31 | 2023-05-31 |
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
 | [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-31 | 2023-05-31 |

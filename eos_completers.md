@@ -20,11 +20,11 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.38% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
+| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.24% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.63% |
-| 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
+| 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
@@ -39,7 +39,7 @@
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 38 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.70% |
-| 40 | [The Complex](games/t/the_complex.md) | 3.54% |
+| 40 | [The Complex](games/t/the_complex.md) | 3.53% |
 | 41 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.45% |
 | 42 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 43 | [The Bunker](games/t/the_bunker.md) | 3.33% |
@@ -103,9 +103,9 @@
 | 101 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 102 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 103 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
-| 105 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
-| 105 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 104 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
+| 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
+| 104 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 108 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 109 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
