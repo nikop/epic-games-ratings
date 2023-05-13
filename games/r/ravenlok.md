@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~599 |
 | Waff! | 93.00% | ~580 |
-| Into the Barn | 87.00% | ~543 |
+| Into the Barn | 88.00% | ~549 |
 | A Prophecy | 85.00% | ~530 |
-| Sword, Shield, Fight! | 75.00% | ~468 |
-| A Grand Visit | 71.00% | ~443 |
+| Sword, Shield, Fight! | 76.00% | ~474 |
+| A Grand Visit | 72.00% | ~449 |
 | Vibing | 61.00% | ~381 |
-| Fun Guy | 60.00% | ~374 |
+| Fun Guy | 61.00% | ~381 |
 | Tragic Brave | 52.00% | ~324 |
 | Awakened Spirits | 48.00% | ~300 |
 | Little Shop | 47.00% | ~293 |
@@ -38,11 +38,11 @@
 | Stardust | 31.00% | ~193 |
 | Heartbreaker | 31.00% | ~193 |
 | Kidnapped! | 31.00% | ~193 |
+| Trick Question! | 30.00% | ~187 |
 | Pull the Plug | 29.00% | ~181 |
 | Soul Slayer | 29.00% | ~181 |
 | The Downfall | 29.00% | ~181 |
 | All Heart | 29.00% | ~181 |
-| Trick Question! | 29.00% | ~181 |
 | Final Showdown | 29.00% | ~181 |
 | Spot of Tea? | 29.00% | ~181 |
 | Going Home | 29.00% | ~181 |

@@ -1073,7 +1073,7 @@
   ],
   "EOS_Progressed": 21509,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2261,9 +2261,9 @@
       "ID": "PrequelReveal",
       "SetID": "3ojhj46",
       "Name": "Prequel to the Sequel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 43
     },
     {
       "ID": "RogueMode",
@@ -2331,8 +2331,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-12T18:02:17.0255075+00:00",
-  "LastChanged_Achievements": "2023-05-13T22:06:25.3104975+00:00",
+  "LastChanged_Achievements": "2023-05-13T23:06:03.5419152+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:03.489431+00:00",
-  "LastUpdate_Ratings": "2023-05-13T21:59:35.2911167+00:00",
-  "LastUpdate_Achievements": "2023-05-13T22:06:25.310544+00:00"
+  "LastUpdate_Ratings": "2023-05-13T22:59:17.7042846+00:00",
+  "LastUpdate_Achievements": "2023-05-13T23:06:03.5419429+00:00"
 }

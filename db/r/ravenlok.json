@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 624,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 6.73,
   "EosHistory": [
@@ -1166,9 +1166,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 449
     },
     {
       "ID": "2",
@@ -1222,9 +1222,9 @@
       "ID": "25",
       "SetID": "d0g98p",
       "Name": "Trick Question!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 187
     },
     {
       "ID": "26",
@@ -1246,9 +1246,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 474
     },
     {
       "ID": "29",
@@ -1422,9 +1422,9 @@
       "ID": "48",
       "SetID": "d0g98p",
       "Name": "Into the Barn",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 549
     },
     {
       "ID": "49",
@@ -1462,9 +1462,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 381
     },
     {
       "ID": "8",
@@ -1495,8 +1495,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-13T22:05:54.4063828+00:00",
+  "LastChanged_Achievements": "2023-05-13T23:05:34.2747574+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-13T21:57:31.1278807+00:00",
-  "LastUpdate_Achievements": "2023-05-13T22:05:54.4064314+00:00"
+  "LastUpdate_Ratings": "2023-05-13T22:57:22.5701193+00:00",
+  "LastUpdate_Achievements": "2023-05-13T23:05:34.2747949+00:00"
 }

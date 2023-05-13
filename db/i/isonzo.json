@@ -526,9 +526,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5620,
+  "EOS_Progressed": 5621,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -861,6 +861,11 @@
       "Time": "2023-05-13T22:06:08.4723129+00:00",
       "NumProgressed": 5620,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-13T23:05:47.6128188+00:00",
+      "NumProgressed": 5621,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -880,7 +885,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -888,7 +893,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -984,7 +989,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1024,7 +1029,7 @@
       "Name": "Machiavelli",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -1080,7 +1085,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -1112,7 +1117,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -1216,7 +1221,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -1231,7 +1236,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5620,
+      "Progressed": 5621,
       "Completed": 8
     }
   ],
@@ -1239,8 +1244,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-11T18:57:10.7073968+00:00",
-  "LastChanged_Achievements": "2023-05-13T22:06:08.4723125+00:00",
+  "LastChanged_Achievements": "2023-05-13T23:05:47.6128184+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:18.2018805+00:00",
-  "LastUpdate_Ratings": "2023-05-13T21:57:22.6923901+00:00",
-  "LastUpdate_Achievements": "2023-05-13T22:06:08.4723485+00:00"
+  "LastUpdate_Ratings": "2023-05-13T22:57:15.0763954+00:00",
+  "LastUpdate_Achievements": "2023-05-13T23:05:47.612847+00:00"
 }

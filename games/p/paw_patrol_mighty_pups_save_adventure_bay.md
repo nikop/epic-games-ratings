@@ -35,7 +35,7 @@
 | Mountain and Ice | 0.00% | ~0 |
 | Adventure Bay’s Citizen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 358)  
+Progressed: 2 (Ranked 359)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

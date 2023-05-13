@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.54 (Ranked 477)  
+Rating: 4.55 (Ranked 465)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,10 +24,10 @@ Rating: 4.54 (Ranked 477)
 | Convenient Transport | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~9 |
 | A Hunk of Junk | 0.40% | ~8 |
+| Access Granted | 0.40% | ~8 |
 | Please Make it Stop! | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |
-| Access Granted | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | All in Good Health | 0.30% | ~6 |
 | From the Past | 0.30% | ~6 |
@@ -122,3 +122,4 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-03-31 | 4.54 | 0 | 0 |
 | 2023-04-02 | 4.53 | 0 | 0 |
 | 2023-04-15 | 4.54 | 0 | 0 |
+| 2023-05-13 | 4.55 | 0 | 0 |

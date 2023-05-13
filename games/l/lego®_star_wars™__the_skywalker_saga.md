@@ -6,20 +6,20 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~44,527 |
-| ''I don't like you either!'' | 79.00% | ~36,264 |
-| ''Impressive, most impressive'' | 71.00% | ~32,592 |
-| ''You think you're some kind of Jedi?'' | 71.00% | ~32,592 |
-| The Phantom Menace | 58.00% | ~26,624 |
-| ''Aggressive Negotiations'' | 58.00% | ~26,624 |
-| ''I can fly anything'' | 57.00% | ~26,165 |
-| ''And who gave you permission...?'' | 52.00% | ~23,870 |
-| A New Hope | 46.00% | ~21,116 |
-| Attack of the Clones | 45.00% | ~20,657 |
+| ''You guys got yourself a ship!'' | 97.00% | ~44,529 |
+| ''I don't like you either!'' | 79.00% | ~36,266 |
+| ''Impressive, most impressive'' | 71.00% | ~32,593 |
+| ''You think you're some kind of Jedi?'' | 71.00% | ~32,593 |
+| The Phantom Menace | 58.00% | ~26,625 |
+| ''Aggressive Negotiations'' | 58.00% | ~26,625 |
+| ''I can fly anything'' | 57.00% | ~26,166 |
+| ''And who gave you permission...?'' | 52.00% | ~23,871 |
+| A New Hope | 46.00% | ~21,117 |
+| Attack of the Clones | 45.00% | ~20,658 |
 | Revenge of the Sith | 39.00% | ~17,903 |
-| The Empire Strikes Back | 36.00% | ~16,525 |
-| ''A fine addition to my collection'' | 36.00% | ~16,525 |
-| Return of the Jedi | 30.00% | ~13,771 |
+| The Empire Strikes Back | 36.00% | ~16,526 |
+| ''A fine addition to my collection'' | 36.00% | ~16,526 |
+| Return of the Jedi | 30.00% | ~13,772 |
 | The Force Awakens | 25.00% | ~11,476 |
 | The Last Jedi | 21.00% | ~9,640 |
 | The Rise of Skywalker | 19.00% | ~8,722 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~459 |
 | ''I've never seen a real one!'' | 0.80% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,904 (Ranked 76)  
+Progressed: 45,906 (Ranked 76)  
 Completed: 162 (0.35%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,10 +75,10 @@ Completed: 162 (0.35%) (Ranked 115)
 | 2023-05-10 | 45,216 | 162 |
 | 2023-05-11 | 45,627 | 162 |
 | 2023-05-12 | 45,785 | 162 |
-| 2023-05-13 | 45,904 | 162 |
+| 2023-05-13 | 45,906 | 162 |
 ## Awards
 Max (Great Boss Battles): 2,252  (Ranked 97)  
-Sum: 6,296 (Ranked 111)  
+Sum: 6,298 (Ranked 111)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): -14
 | This game has Easy Combat | 441 |
 | This game is Extremely Fun | 435 |
 | This game has Quickly Understood Controls | 430 |
-| This game is Relaxing | 427 |
+| This game is Relaxing | 429 |
 | This game has Obsessive Gameplay | 341 |
 | This game has a Creative Community | 307 |
 ## Ratings History
@@ -197,4 +197,4 @@ Diff (max vs sum): -14
 | 2023-05-10 | 4.79 | - | 2,247 | 6,287 |
 | 2023-05-11 | 4.79 | - | 2,247 | 6,288 |
 | 2023-05-12 | 4.79 | - | 2,248 | 6,289 |
-| 2023-05-13 | 4.79 | - | 2,252 | 6,296 |
+| 2023-05-13 | 4.79 | - | 2,252 | 6,298 |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chest ✔ | 55.00% | ~89 |
-| Fright ✔ | 54.00% | ~87 |
+| Chest ✔ | 55.00% | ~90 |
+| Fright ✔ | 54.00% | ~88 |
 | Inventory ✔ | 51.00% | ~83 |
-| Police officers ✔ | 25.00% | ~40 |
+| Police officers ✔ | 25.00% | ~41 |
 | Mutation ✔ | 23.00% | ~37 |
 | Doberman ✔ | 13.00% | ~21 |
 | Chess ✔ | 9.00% | ~15 |
@@ -29,10 +29,10 @@
 | Eva ✔ | 5.00% | ~8 |
 | Mutant fight ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
-| Boss 1 ✔ | 4.00% | ~6 |
-| Crocodile Attack ✔ | 4.00% | ~6 |
-| Mutant run ✔ | 4.00% | ~6 |
-| City on fire ✔ | 4.00% | ~6 |
+| Boss 1 ✔ | 4.00% | ~7 |
+| Crocodile Attack ✔ | 4.00% | ~7 |
+| Mutant run ✔ | 4.00% | ~7 |
+| City on fire ✔ | 4.00% | ~7 |
 | Sheriff ✔ | 3.00% | ~5 |
 | Rank A ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 230)  
+Progressed: 163 (Ranked 230)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-09 | 158 | 0 |
 | 2023-05-11 | 160 | 0 |
 | 2023-05-12 | 161 | 0 |
-| 2023-05-13 | 162 | 0 |
+| 2023-05-13 | 163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

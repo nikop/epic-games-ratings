@@ -15,6 +15,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 0.20% | ~43 |
 | Suns and Soldiers | 0.20% | ~43 |
 | No Harm in Looking | 0.20% | ~43 |
+| Prequel to the Sequel | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~22 |
 | Black-shoppe | 0.10% | ~22 |
 | Full House | 0.10% | ~22 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Maybe Wax Doesn't Melt | 0.10% | ~22 |
 | A Glimpse of the Future | 0.10% | ~22 |
 | Good Boy! | 0.10% | ~22 |
-| Prequel to the Sequel | 0.10% | ~22 |
 | Just the Beginning | 0.10% | ~22 |
 | Wasted Betrayal | 0.10% | ~22 |
 | Had to Do It | 0.10% | ~22 |

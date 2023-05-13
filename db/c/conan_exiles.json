@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
@@ -3091,10 +3091,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 8278,
       "NumberOfAwardsMax": 1167
+    },
+    {
+      "Time": "2023-05-13T23:00:28.2885387+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 8280,
+      "NumberOfAwardsMax": 1167
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8278,
+  "NumberOfAwards": 8280,
   "NumberOfAwardsMax": 1167,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3114,7 +3120,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1095
+      "Count": 1097
     },
     {
       "Text": "This game is Relaxing",
@@ -3164,8 +3170,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-05-13T20:01:02.3082318+00:00",
+  "LastChanged": "2023-05-13T23:00:28.2885386+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.0818973+00:00",
-  "LastUpdate_Ratings": "2023-05-13T22:00:49.0822546+00:00",
-  "LastUpdate_Achievements": "2023-05-13T22:05:16.4396766+00:00"
+  "LastUpdate_Ratings": "2023-05-13T23:00:28.2885391+00:00",
+  "LastUpdate_Achievements": "2023-05-13T23:04:59.2316148+00:00"
 }

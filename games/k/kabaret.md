@@ -11,6 +11,7 @@
 | I'll Become... A Beast | 25.00% | ~2 |
 | Congkak Hero | 25.00% | ~2 |
 | Congkak Champion | 25.00% | ~2 |
+| Equality | 25.00% | ~2 |
 | Goodbye Dear Friend | 25.00% | ~2 |
 | An Unheard Song | 25.00% | ~2 |
 | By My Own Hands | 25.00% | ~2 |
@@ -31,7 +32,6 @@
 | In Service Of Others | 13.00% | ~1 |
 | Expert Service | 13.00% | ~1 |
 | Human Supremacy | 13.00% | ~1 |
-| Equality | 13.00% | ~1 |
 | Face Value | 13.00% | ~1 |
 | Uncommitted | 13.00% | ~1 |
 | Thou Art Naive | 13.00% | ~1 |

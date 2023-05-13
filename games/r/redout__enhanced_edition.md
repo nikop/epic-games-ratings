@@ -12,7 +12,7 @@ Number of Ratings: 274  (23.09.2022)
 | TRICK UP YOUR SLEEVE | 22.00% | ~48,785 |
 | SNEAKY SNEAKY | 21.00% | ~46,568 |
 | GT9STRADALE | 20.00% | ~44,350 |
-| CHALLENGER | 11.00% | ~24,392 |
+| CHALLENGER | 11.00% | ~24,393 |
 | ON A ROLL | 9.00% | ~19,958 |
 | CENTAUR | 8.00% | ~17,740 |
 | FASTER THAN EVER | 8.00% | ~17,740 |
@@ -21,13 +21,13 @@ Number of Ratings: 274  (23.09.2022)
 | QAREEN | 5.00% | ~11,088 |
 | SHOWOFF | 4.00% | ~8,870 |
 | TAKATORA | 4.00% | ~8,870 |
-| GILA | 3.00% | ~6,652 |
+| GILA | 3.00% | ~6,653 |
 | PRO | 2.00% | ~4,435 |
 | RESPWND | 2.00% | ~4,435 |
 | SHINY SHINY GOLD | 2.00% | ~4,435 |
 | HARDCORE | 1.00% | ~2,218 |
 | ACE | 0.70% | ~1,552 |
-| TACTICIAN | 0.60% | ~1,330 |
+| TACTICIAN | 0.60% | ~1,331 |
 | GTX COMPETIZIONE | 0.50% | ~1,109 |
 | HIDDEN POWER | 0.50% | ~1,109 |
 | TUNING MANIAC | 0.50% | ~1,109 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~444 |
 | ENLIGHTENED | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,750 (Ranked 43)  
+Progressed: 221,751 (Ranked 43)  
 Completed: 41 (0.02%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 41 (0.02%) (Ranked 183)
 | 2023-05-10 | 221,494 | 41 |
 | 2023-05-11 | 221,573 | 41 |
 | 2023-05-12 | 221,656 | 41 |
-| 2023-05-13 | 221,750 | 41 |
+| 2023-05-13 | 221,751 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

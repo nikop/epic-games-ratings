@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221750,
+  "EOS_Progressed": 221751,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2328,6 +2328,11 @@
       "Time": "2023-05-13T22:05:52.5459139+00:00",
       "NumProgressed": 221750,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-13T23:05:32.5291473+00:00",
+      "NumProgressed": 221751,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -2371,7 +2376,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24392
+      "UsersEstimate": 24393
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -2419,7 +2424,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6652
+      "UsersEstimate": 6653
     },
     {
       "ID": "GT9STRADALE",
@@ -2571,7 +2576,7 @@
       "Name": "TACTICIAN",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "TAKATORA",
@@ -2610,15 +2615,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221750,
+      "Progressed": 221751,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-13T22:05:52.5459136+00:00",
+  "LastChanged_Achievements": "2023-05-13T23:05:32.5291468+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.9960773+00:00",
-  "LastUpdate_Ratings": "2023-05-13T21:58:28.6099638+00:00",
-  "LastUpdate_Achievements": "2023-05-13T22:05:52.5459654+00:00"
+  "LastUpdate_Ratings": "2023-05-13T22:58:15.195133+00:00",
+  "LastUpdate_Achievements": "2023-05-13T23:05:32.5291757+00:00"
 }
