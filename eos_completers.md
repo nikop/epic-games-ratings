@@ -27,9 +27,9 @@
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
 | 26 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
-| 28 | [Them and Us](games/t/them_and_us.md) | 5.56% |
-| 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
-| 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
+| 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
+| 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
+| 30 | [Them and Us](games/t/them_and_us.md) | 5.00% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |

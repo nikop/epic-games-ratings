@@ -228,8 +228,8 @@
 | 226 | [House Flipper](games/h/house_flipper.md) | 285 | 4.70 | 192 |
 | 227 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 278 | 4.53 | 489 |
 | 228 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 277 | 4.43 | 636 |
+| 229 | [Railway Empire](games/r/railway_empire.md) | 276 | 4.52 | 502 |
 | 229 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 276 | 4.46 | 590 |
-| 230 | [Railway Empire](games/r/railway_empire.md) | 275 | 4.52 | 502 |
 | 231 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 272 | 4.61 | 352 |
 | 232 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 271 | 4.49 | 552 |
 | 233 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 268 | 4.61 | 352 |
@@ -308,8 +308,8 @@
 | 306 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 89 |
 | 307 | [BIOMUTANT](games/b/biomutant.md) | 114 | 4.33 | 735 |
 | 307 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 310 |
-| 309 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 113 | 4.86 | 27 |
-| 309 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 603 |
+| 307 | [Tropico 5](games/t/tropico_5.md) | 114 | 4.45 | 603 |
+| 310 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 113 | 4.86 | 27 |
 | 311 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 256 |
 | 312 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 109 | 4.71 | 178 |
 | 313 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 590 |

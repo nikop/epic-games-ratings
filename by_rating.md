@@ -33,7 +33,7 @@
 | 27 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 491 |
 | 27 | [Inscryption](games/i/inscryption.md) | 4.86 | 330 | 214 |
 | 27 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 330 |
-| 27 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 113 | 309 |
+| 27 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 113 | 310 |
 | 27 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 412 |
 | 27 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,219 | 122 |
 | 27 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 459 | 187 |
@@ -510,7 +510,7 @@
 | 502 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 183 | 266 |
 | 502 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,145 | 126 |
 | 502 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 491 |
-| 502 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 275 | 230 |
+| 502 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 276 | 229 |
 | 502 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 491 |
 | 502 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.52 | 63 | 373 |
 | 502 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 150 | 284 |
@@ -617,7 +617,7 @@
 | 603 | [SMITE](games/s/smite.md) | 4.45 | 3,749 | 76 |
 | 603 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 525 | 179 |
 | 603 | [STG Football](games/s/stg_football.md) | 4.45 | 37 | 418 |
-| 603 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 309 |
+| 603 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 307 |
 | 603 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 23 | 469 |
 | 603 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 491 |
 | 621 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 0 | 491 |
