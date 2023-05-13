@@ -7,17 +7,17 @@
 | To Hell In A Handcart | 71.00% | ~105 |
 | High Profile | 64.00% | ~95 |
 | Read Between The Lines | 63.00% | ~93 |
-| Whispers In The Dark | 62.00% | ~92 |
+| Whispers In The Dark | 63.00% | ~93 |
 | Fond Memories | 55.00% | ~81 |
 | History Check | 55.00% | ~81 |
 | A Method To His Madness | 55.00% | ~81 |
 | The New World | 55.00% | ~81 |
 | Open Sesame | 53.00% | ~78 |
-| Sticky Fingers | 52.00% | ~77 |
-| Knives Out | 52.00% | ~77 |
+| Sticky Fingers | 53.00% | ~78 |
+| Knives Out | 53.00% | ~78 |
+| Lock, Stock, And Barrel | 51.00% | ~75 |
 | Back In The Saddle | 51.00% | ~75 |
 | Land, Ho! | 51.00% | ~75 |
-| Lock, Stock, And Barrel | 50.00% | ~74 |
 | Gaze Into The Abyss | 49.00% | ~73 |
 | No Man Is An Island | 49.00% | ~73 |
 | At Wits' End | 46.00% | ~68 |
@@ -34,7 +34,7 @@
 | Reawakened | 11.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 148 (Ranked 240)  
-Completed: 10 (6.76%) (Ranked 24)  
+Completed: 10 (6.76%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,746 |
-| Checkmate | 2.00% | ~1,071 |
+| Checkmate | 2.00% | ~1,072 |
 | Pin and Skewer | 1.00% | ~536 |
 | Vecna Out! | 1.00% | ~536 |
 | The Cursed Farmer | 1.00% | ~873 |
@@ -15,21 +15,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.80% | ~429 |
 | The Mad Wizard | 0.80% | ~698 |
 | The Ring of Regeneration | 0.70% | ~611 |
-| Were-verpowered | 0.50% | ~436 |
-| Seeking Allies | 0.50% | ~436 |
-| Are Ya Chicken? | 0.50% | ~436 |
-| Mad Cow Disease | 0.50% | ~436 |
-| Friendly Imps | 0.50% | ~436 |
+| Were-verpowered | 0.60% | ~524 |
+| Seeking Allies | 0.50% | ~437 |
+| Are Ya Chicken? | 0.50% | ~437 |
+| Mad Cow Disease | 0.50% | ~437 |
+| Friendly Imps | 0.50% | ~437 |
 | Best Thay Ever | 0.40% | ~214 |
 | The Sanctum of the Sword | 0.40% | ~214 |
 | Get Back In The Castle | 0.40% | ~214 |
 | A Persistent Buzzing | 0.40% | ~349 |
 | Terror in the Dark | 0.40% | ~349 |
+| A Mysterious Summons | 0.40% | ~349 |
 | Unearthed Evil | 0.40% | ~349 |
 | The Crumbling Temple | 0.40% | ~349 |
 | Exploring Port Nyanzaru | 0.40% | ~349 |
 | Pure Energy | 0.40% | ~349 |
 | Maddening | 0.30% | ~262 |
+| The Silken Swamp | 0.30% | ~262 |
 | Owlbear Necessities | 0.30% | ~161 |
 | Keep Your Distance | 0.30% | ~161 |
 | Hands Off! | 0.30% | ~161 |
@@ -39,7 +41,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~161 |
 | Beast Mode | 0.30% | ~262 |
 | Low Initiative | 0.30% | ~262 |
-| A Mysterious Summons | 0.30% | ~262 |
 | Building Trust | 0.30% | ~262 |
 | No Time To Rest | 0.30% | ~262 |
 | The Dinner Party | 0.30% | ~262 |
@@ -77,7 +78,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Uncommon Allies | 0.20% | ~107 |
 | Downfall | 0.20% | ~107 |
 | Third Third Out | 0.20% | ~107 |
-| The Silken Swamp | 0.20% | ~175 |
 | Slack-jawed Lorna | 0.20% | ~107 |
 | The Fairy Rings of Thither | 0.20% | ~107 |
 | Wet Feet | 0.20% | ~175 |
@@ -115,6 +115,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~107 |
 | The Forbidden City | 0.20% | ~175 |
 | Captured! | 0.20% | ~175 |
+| Double Vision | 0.20% | ~175 |
 | Street War | 0.20% | ~175 |
 | Force Grey Unleashed | 0.20% | ~175 |
 | Vajra's Guards | 0.20% | ~175 |
@@ -183,6 +184,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~107 |
 | Bad Odds in Avernus | 0.20% | ~107 |
 | The Lost Hollyphant | 0.20% | ~107 |
+| The Wandering Emporium | 0.20% | ~107 |
 | Tiamat's Army | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
 | Rime Bandits | 0.20% | ~107 |
@@ -284,7 +286,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Good at All | 0.10% | ~87 |
 | Fall From Grace | 0.10% | ~87 |
 | Home Field Advantage | 0.10% | ~87 |
-| Double Vision | 0.10% | ~87 |
 | Underground Railroad | 0.10% | ~87 |
 | Never Split the Party | 0.10% | ~87 |
 | Azaka's Procession - Part 1 | 0.10% | ~87 |
@@ -414,7 +415,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Attack | 0.10% | ~54 |
 | The Gargoyle | 0.10% | ~54 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~54 |
-| The Wandering Emporium | 0.10% | ~54 |
 | Madcap Adventures Redux | 0.10% | ~54 |
 | When the Going Gets Tough | 0.10% | ~54 |
 | Show of Strength | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,298 (Ranked 59)  
-Completed: 1,831 (2.10%) (Ranked 60)  
+Progressed: 87,306 (Ranked 59)  
+Completed: 1,832 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -519,16 +519,16 @@ Completed: 1,831 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,298 | 1,831 |
+| 2023-05-13 | 87,306 | 1,832 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
-Sum: 29,863 (Ranked 37)  
+Sum: 29,867 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,877 |
 | This game is Great for Beginners | 4,817 |
-| This game has Quickly Understood Controls | 4,585 |
+| This game has Quickly Understood Controls | 4,589 |
 | This game is Relaxing | 4,482 |
 | This game is Highly Recommended | 3,936 |
 | This game has Amazing Characters | 3,934 |
@@ -643,3 +643,4 @@ Diff (max vs sum): 26
 | 2023-05-10 | 4.06 | - | 4,874 | 29,847 |
 | 2023-05-11 | 4.06 | - | 4,874 | 29,859 |
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
+| 2023-05-13 | 4.06 | - | 4,877 | 29,867 |

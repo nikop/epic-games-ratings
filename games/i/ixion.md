@@ -15,11 +15,11 @@ Rating: 4.54 (Ranked 477)
 | Fully Recycled | 0.70% | ~13 |
 | Breaking Protocol | 0.70% | ~13 |
 | Permanent Redesigns | 0.70% | ~13 |
+| Ain't Nobody Got Time for That | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |
 | Hope Seeker | 0.70% | ~13 |
 | Space Society | 0.60% | ~11 |
 | Exceeding Capacity | 0.60% | ~11 |
-| Ain't Nobody Got Time for That | 0.60% | ~11 |
 | Power Outage | 0.50% | ~9 |
 | Convenient Transport | 0.50% | ~9 |
 | Sightseeing | 0.40% | ~8 |

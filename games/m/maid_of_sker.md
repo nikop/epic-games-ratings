@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 44.00% | ~58 |
+| Choking Hazard | 45.00% | ~59 |
 | Animal Lover | 36.00% | ~48 |
-| Don't Breathe | 32.00% | ~42 |
+| Don't Breathe | 33.00% | ~44 |
 | Smooth Operator | 15.00% | ~20 |
 | Easy Listening | 14.00% | ~18 |
 | Rapturous Applause! | 14.00% | ~18 |
 | Perfect Harmony! | 11.00% | ~15 |
-| Wales Interactive | 9.00% | ~12 |
+| Wales Interactive | 10.00% | ~13 |
 | Chief Butler | 8.00% | ~11 |
 | Bull in a China Shop | 6.00% | ~8 |
 | Sker Explorer | 4.00% | ~5 |

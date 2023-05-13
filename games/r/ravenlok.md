@@ -16,47 +16,47 @@
 | Awakened Spirits | 48.00% | ~296 |
 | Little Shop | 47.00% | ~290 |
 | Surprise! | 43.00% | ~265 |
-| An Actor! | 42.00% | ~259 |
+| An Actor! | 43.00% | ~265 |
 | Curtain Call | 41.00% | ~253 |
+| Piece of Cake | 39.00% | ~240 |
 | Well Rested | 39.00% | ~240 |
-| Piece of Cake | 38.00% | ~234 |
 | Gooey Delight! | 38.00% | ~234 |
 | Glimmer of Hope | 38.00% | ~234 |
-| Teacups for Toppy | 37.00% | ~228 |
+| Teacups for Toppy | 38.00% | ~234 |
 | Nightmare Fuel | 36.00% | ~222 |
 | Take Heart | 36.00% | ~222 |
 | The Guardian | 36.00% | ~222 |
+| Stronger! | 35.00% | ~216 |
+| Ancient Wisdom | 34.00% | ~209 |
 | Frog Facts! | 34.00% | ~209 |
-| Stronger! | 34.00% | ~209 |
-| Ancient Wisdom | 33.00% | ~203 |
-| All That Glistens | 33.00% | ~203 |
+| All That Glistens | 34.00% | ~209 |
 | It's Pointy! | 33.00% | ~203 |
 | Spellbound | 32.00% | ~197 |
 | All Skilled Up! | 32.00% | ~197 |
 | Extinct Again! | 31.00% | ~191 |
 | Bird of Prey | 31.00% | ~191 |
 | Stardust | 31.00% | ~191 |
-| Heartbreaker | 30.00% | ~185 |
-| Kidnapped! | 30.00% | ~185 |
+| Heartbreaker | 31.00% | ~191 |
+| Kidnapped! | 31.00% | ~191 |
 | Pull the Plug | 29.00% | ~179 |
+| Soul Slayer | 29.00% | ~179 |
+| The Downfall | 29.00% | ~179 |
 | All Heart | 29.00% | ~179 |
 | Trick Question! | 29.00% | ~179 |
-| Soul Slayer | 28.00% | ~172 |
-| The Downfall | 28.00% | ~172 |
-| Final Showdown | 28.00% | ~172 |
-| Spot of Tea? | 28.00% | ~172 |
+| Final Showdown | 29.00% | ~179 |
+| Spot of Tea? | 29.00% | ~179 |
+| Extraordinary! | 28.00% | ~172 |
 | Going Home | 28.00% | ~172 |
-| Extraordinary! | 27.00% | ~166 |
 | Mirror, Mirror | 26.00% | ~160 |
-| Flower Power | 23.00% | ~142 |
+| Flower Power | 24.00% | ~148 |
+| Crowned | 21.00% | ~129 |
 | Shopping Spree! | 20.00% | ~123 |
-| Crowned | 20.00% | ~123 |
 | Max Level! | 13.00% | ~80 |
 | Bombs Away! | 8.00% | ~49 |
 | Dance Master | 7.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 616 (Ranked 182)  
-Completed: 39 (6.33%) (Ranked 27)  
+Completed: 40 (6.49%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,6 +76,7 @@ Completed: 39 (6.33%) (Ranked 27)
 | 2023-05-10 | 573 | 36 |
 | 2023-05-11 | 595 | 38 |
 | 2023-05-12 | 616 | 39 |
+| 2023-05-13 | 616 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

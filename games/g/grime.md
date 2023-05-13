@@ -37,11 +37,11 @@ Number of Ratings: 46  (23.09.2022)
 | Kin | 5.00% | ~6 |
 | Kinship | 4.00% | ~22 |
 | Unwrap the Gift | 4.00% | ~22 |
+| Bloodhunter | 3.00% | ~16 |
 | Weakness | 3.00% | ~16 |
 | Breathsmith | 3.00% | ~16 |
 | Listen | 3.00% | ~4 |
 | Proportions | 3.00% | ~16 |
-| Bloodhunter | 2.00% | ~11 |
 | Breath | 2.00% | ~11 |
 | Skinmaker | 1.00% | ~5 |
 | Zygote | 1.00% | ~1 |

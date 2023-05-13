@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 19.00% | ~8,765 |
+| Follow the Light | 20.00% | ~9,226 |
 | Let There Be Light | 16.00% | ~7,381 |
 | Float Like a Butterfly | 15.00% | ~6,920 |
 | Nordic Walking | 13.00% | ~5,997 |

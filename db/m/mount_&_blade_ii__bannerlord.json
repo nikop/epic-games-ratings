@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -3963,9 +3963,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49642,
+  "EOS_Progressed": 49643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 738,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5903,6 +5903,11 @@
       "Time": "2023-05-13T00:06:08.7966597+00:00",
       "NumProgressed": 49642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T02:02:43.9814388+00:00",
+      "NumProgressed": 49643,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -5922,7 +5927,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6453
+      "UsersEstimate": 6454
     },
     {
       "ID": "Bannerlord",
@@ -5930,7 +5935,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 9928
+      "UsersEstimate": 9929
     },
     {
       "ID": "Best served cold",
@@ -5978,7 +5983,7 @@
       "Name": "Crackshot",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Crush your enemies",
@@ -6074,7 +6079,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 9928
+      "UsersEstimate": 9929
     },
     {
       "ID": "I can do it",
@@ -6298,7 +6303,7 @@
       "Name": "Undercover",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Veni vidi vici",
@@ -6321,15 +6326,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49642,
+      "Progressed": 49643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-12T18:02:46.5218582+00:00",
-  "LastChanged_Achievements": "2023-05-13T00:06:08.7966593+00:00",
+  "LastChanged_Achievements": "2023-05-13T02:02:43.9814385+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-12T23:59:51.8847988+00:00",
-  "LastUpdate_Achievements": "2023-05-13T00:06:08.7967265+00:00"
+  "LastUpdate_Ratings": "2023-05-13T01:56:15.4145177+00:00",
+  "LastUpdate_Achievements": "2023-05-13T02:02:43.9814801+00:00"
 }

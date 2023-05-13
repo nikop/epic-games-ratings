@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Island | 90.00% | ~28 |
-| Island 2 | 90.00% | ~28 |
-| Island 3 | 87.00% | ~27 |
-| Island 4 | 77.00% | ~24 |
-| Island 5 | 68.00% | ~21 |
-| Island 6 | 48.00% | ~15 |
-| Island 10 | 45.00% | ~14 |
-| Island 7 | 45.00% | ~14 |
-| Island 8 | 45.00% | ~14 |
-| Island 9 | 45.00% | ~14 |
-| Island 11 | 39.00% | ~12 |
-| Island 12 | 39.00% | ~12 |
-| Island 13 | 35.00% | ~11 |
-| Island 14 | 35.00% | ~11 |
-| Island 15 | 32.00% | ~10 |
-| Island 16 | 32.00% | ~10 |
-| Island 17 | 32.00% | ~10 |
-| Island 18 | 32.00% | ~10 |
-| Island 19 | 29.00% | ~9 |
-| Island 20 | 29.00% | ~9 |
-| Island 21 | 29.00% | ~9 |
-| Island 22 | 29.00% | ~9 |
-| Island 23 | 29.00% | ~9 |
-| Island 24 | 26.00% | ~8 |
-| Island 25 | 26.00% | ~8 |
-| Island 26 | 26.00% | ~8 |
-| Island 27 | 26.00% | ~8 |
-| Island 28 | 23.00% | ~7 |
-| Island 29 | 23.00% | ~7 |
-| Island 30 | 23.00% | ~7 |
-| Island 31 | 23.00% | ~7 |
+| First Island | 91.00% | ~29 |
+| Island 2 | 91.00% | ~29 |
+| Island 3 | 88.00% | ~28 |
+| Island 4 | 75.00% | ~24 |
+| Island 5 | 66.00% | ~21 |
+| Island 6 | 47.00% | ~15 |
+| Island 10 | 44.00% | ~14 |
+| Island 7 | 44.00% | ~14 |
+| Island 8 | 44.00% | ~14 |
+| Island 9 | 44.00% | ~14 |
+| Island 11 | 38.00% | ~12 |
+| Island 12 | 38.00% | ~12 |
+| Island 13 | 34.00% | ~11 |
+| Island 14 | 34.00% | ~11 |
+| Island 15 | 31.00% | ~10 |
+| Island 16 | 31.00% | ~10 |
+| Island 17 | 31.00% | ~10 |
+| Island 18 | 31.00% | ~10 |
+| Island 19 | 28.00% | ~9 |
+| Island 20 | 28.00% | ~9 |
+| Island 21 | 28.00% | ~9 |
+| Island 22 | 28.00% | ~9 |
+| Island 23 | 28.00% | ~9 |
+| Island 24 | 25.00% | ~8 |
+| Island 25 | 25.00% | ~8 |
+| Island 26 | 25.00% | ~8 |
+| Island 27 | 25.00% | ~8 |
+| Island 28 | 22.00% | ~7 |
+| Island 29 | 22.00% | ~7 |
+| Island 30 | 22.00% | ~7 |
+| Island 31 | 22.00% | ~7 |
 | Island 32 | 19.00% | ~6 |
 | Island 33 | 19.00% | ~6 |
 | Island 34 | 19.00% | ~6 |
 | Island 35 | 19.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 290)  
-Completed: 6 (19.35%) (Ranked 7)  
+Progressed: 32 (Ranked 289)  
+Completed: 6 (18.75%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,6 +55,7 @@ Completed: 6 (19.35%) (Ranked 7)
 | 2023-05-08 | 29 | 6 |
 | 2023-05-09 | 30 | 6 |
 | 2023-05-11 | 31 | 6 |
+| 2023-05-13 | 32 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

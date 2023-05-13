@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 20270,
+  "EOS_Progressed": 20275,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2231,6 +2231,11 @@
       "Time": "2023-05-13T00:06:04.0527045+00:00",
       "NumProgressed": 20270,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-13T02:02:39.1260476+00:00",
+      "NumProgressed": 20275,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2242,7 +2247,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3243
+      "UsersEstimate": 3244
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -2250,7 +2255,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2354,7 +2359,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -2473,7 +2478,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 20270,
+      "Progressed": 20275,
       "Completed": 16
     }
   ],
@@ -2481,8 +2486,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-13T00:06:04.0527041+00:00",
+  "LastChanged_Achievements": "2023-05-13T02:02:39.1260473+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-13T00:00:07.6023885+00:00",
-  "LastUpdate_Achievements": "2023-05-13T00:06:04.0527451+00:00"
+  "LastUpdate_Ratings": "2023-05-13T01:56:31.9765451+00:00",
+  "LastUpdate_Achievements": "2023-05-13T02:02:39.1260736+00:00"
 }

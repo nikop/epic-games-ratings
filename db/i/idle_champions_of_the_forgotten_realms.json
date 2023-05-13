@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3608,10 +3608,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29863,
       "NumberOfAwardsMax": 4877
+    },
+    {
+      "Time": "2023-05-13T01:54:30.3444713+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29867,
+      "NumberOfAwardsMax": 4877
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29863,
+  "NumberOfAwards": 29867,
   "NumberOfAwardsMax": 4877,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3631,7 +3637,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4585
+      "Count": 4589
     },
     {
       "Text": "This game is Relaxing",
@@ -3658,10 +3664,10 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87298,
-  "EOS_Completed": 1831,
+  "EOS_Progressed": 87306,
+  "EOS_Completed": 1832,
   "EOS_NewPlayers": 725,
-  "EOS_NewCompleters": 25,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5673,6 +5679,11 @@
       "Time": "2023-05-13T00:06:19.8581214+00:00",
       "NumProgressed": 87298,
       "NumCompleted": 1831
+    },
+    {
+      "Time": "2023-05-13T02:02:55.4037182+00:00",
+      "NumProgressed": 87306,
+      "NumCompleted": 1832
     }
   ],
   "TotalAchievements": 489,
@@ -5986,9 +5997,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_1090",
@@ -6546,9 +6557,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 524
     },
     {
       "ID": "objective_completed_1203",
@@ -6556,7 +6567,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "objective_completed_1204",
@@ -6850,9 +6861,9 @@
       "ID": "objective_completed_156",
       "SetID": "cc37lbc",
       "Name": "Double Vision",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_157",
@@ -6874,9 +6885,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 349
     },
     {
       "ID": "objective_completed_165",
@@ -7476,7 +7487,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_390",
@@ -7548,7 +7559,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_40",
@@ -7820,7 +7831,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_54",
@@ -8610,9 +8621,9 @@
       "ID": "objective_completed_660",
       "SetID": "415jc5c",
       "Name": "The Wandering Emporium",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_661",
@@ -8900,7 +8911,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_80",
@@ -9595,21 +9606,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53572,
+      "Progressed": 53580,
       "Completed": 2498
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87298,
-      "Completed": 1831
+      "Progressed": 87306,
+      "Completed": 1832
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-12T23:58:09.7966395+00:00",
-  "LastChanged_Achievements": "2023-05-13T00:06:19.8581209+00:00",
+  "LastChanged": "2023-05-13T01:54:30.3444711+00:00",
+  "LastChanged_Achievements": "2023-05-13T02:02:55.4037179+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-12T23:58:09.79664+00:00",
-  "LastUpdate_Achievements": "2023-05-13T00:06:19.8609505+00:00"
+  "LastUpdate_Ratings": "2023-05-13T01:54:30.3444717+00:00",
+  "LastUpdate_Achievements": "2023-05-13T02:02:55.4058261+00:00"
 }

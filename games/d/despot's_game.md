@@ -10,7 +10,7 @@ Rating: 4.50 (Ranked 530)
 | Party | 45.00% | ~159 |
 | Knowledge is Power | 43.00% | ~152 |
 | Impossible Cube | 42.00% | ~149 |
-| No Mercy | 40.00% | ~142 |
+| No Mercy | 41.00% | ~145 |
 | The Return of a Rat | 39.00% | ~138 |
 | Through the Darkness | 39.00% | ~138 |
 | Fat of the Earth | 32.00% | ~113 |
