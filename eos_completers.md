@@ -11,19 +11,19 @@
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 18.75% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.75% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 13 | [Remains](games/r/remains.md) | 10.53% |
 | 14 | [Smelter](games/s/smelter.md) | 10.00% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
 | 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.37% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.24% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
+| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.19% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.75% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 27 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 5.26% |
@@ -35,14 +35,14 @@
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.96% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.64% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.53% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.45% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.33% |
-| 42 | [Them and Us](games/t/them_and_us.md) | 3.33% |
+| 43 | [Them and Us](games/t/them_and_us.md) | 3.23% |
 | 44 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 45 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 46 | [Lamentum](games/l/lamentum.md) | 3.00% |
@@ -120,11 +120,11 @@
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 119 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 119 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
+| 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 121 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 122 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 122 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
-| 122 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 122 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 123 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
+| 123 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 123 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 126 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 127 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
