@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2580,
+  "EOS_Progressed": 2582,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -654,6 +654,11 @@
       "Time": "2023-05-13T09:05:53.163192+00:00",
       "NumProgressed": 2580,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-13T10:07:04.5584905+00:00",
+      "NumProgressed": 2582,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -665,7 +670,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "bonus2",
@@ -713,7 +718,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2324
     },
     {
       "ID": "campaign10",
@@ -745,7 +750,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "campaign14",
@@ -769,7 +774,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "campaign17",
@@ -801,7 +806,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2066
     },
     {
       "ID": "campaign20",
@@ -815,9 +820,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1678
     },
     {
       "ID": "campaign4",
@@ -825,7 +830,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "campaign5",
@@ -833,7 +838,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "campaign6",
@@ -849,7 +854,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "campaign8",
@@ -873,7 +878,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "scenario2",
@@ -881,7 +886,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "scenario3",
@@ -928,7 +933,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2580,
+      "Progressed": 2582,
       "Completed": 9
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:53.1631913+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:07:04.5584833+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-13T09:00:24.0373218+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:53.1632243+00:00"
+  "LastUpdate_Ratings": "2023-05-13T10:01:24.1501328+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:07:04.5585409+00:00"
 }

@@ -36,7 +36,7 @@
 | Sly as a fox | 0.00% | ~0 |
 | Matthew's revenge | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 319)  
+Progressed: 9 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

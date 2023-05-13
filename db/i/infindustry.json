@@ -2,9 +2,9 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -63,6 +63,11 @@
     {
       "Time": "2023-05-13T03:04:41.6180442+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T10:06:18.7023074+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -161,7 +166,7 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
       "UsersEstimate": 1
     }
@@ -170,13 +175,13 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:13.3603529+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:06:18.7023068+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:12.5693976+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:57:07.3389478+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:13.3603649+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:57:11.4319289+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:06:18.7023194+00:00"
 }

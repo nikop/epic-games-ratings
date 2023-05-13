@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "ACHIEVEMENTS_20",
       "SetID": "d4o538a",
       "Name": "Decorative Mind",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 384
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -731,8 +731,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:53.8850679+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:07:05.3168507+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:16.3443594+00:00",
-  "LastUpdate_Ratings": "2023-05-13T09:00:36.0084334+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:53.8850996+00:00"
+  "LastUpdate_Ratings": "2023-05-13T10:01:39.4511485+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:07:05.3169034+00:00"
 }

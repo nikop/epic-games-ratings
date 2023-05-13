@@ -5,8 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let the Adventure Begin! | 100.00% | ~3 |
+| Creature Evolution | 33.00% | ~1 |
 | Spirit of competition | 33.00% | ~1 |
-| Creature Evolution | 0.00% | ~0 |
+| Kingdom Party Time | 33.00% | ~1 |
+| Lecturer | 33.00% | ~1 |
 | Think Positive | 0.00% | ~0 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
@@ -22,11 +24,9 @@
 | Dragon Academy | 0.00% | ~0 |
 | Fully Booked! | 0.00% | ~0 |
 | Job Done! | 0.00% | ~0 |
-| Kingdom Party Time | 0.00% | ~0 |
 | Entering New Territory | 0.00% | ~0 |
 | Neverending Story | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
-| Lecturer | 0.00% | ~0 |
 | Kindred Spirits | 0.00% | ~0 |
 | Prized Possession | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

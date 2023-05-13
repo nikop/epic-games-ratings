@@ -2,12 +2,12 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 377,
+  "Ranking_Rating": 352,
   "Ranking_Popularity": 169,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 791,
   "RatingHistory": [
     {
@@ -805,10 +805,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 816,
       "NumberOfAwardsMax": 563
+    },
+    {
+      "Time": "2023-05-13T09:59:45.1649607+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 817,
+      "NumberOfAwardsMax": 563
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 816,
+  "NumberOfAwards": 817,
   "NumberOfAwardsMax": 563,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -840,7 +846,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -878,8 +884,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-05-12T13:58:43.0593183+00:00",
+  "LastChanged": "2023-05-13T09:59:45.1649604+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:58.6616465+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:59:08.1870086+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:03:56.3323305+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:59:45.1649614+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:04:36.6159644+00:00"
 }

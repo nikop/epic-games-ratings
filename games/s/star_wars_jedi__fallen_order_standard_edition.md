@@ -1,7 +1,7 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order)  
 [View Rawdata](../../db/s/star_wars_jedi__fallen_order_standard_edition.json)  
-Rating: 4.64 (Ranked 310)  
+Rating: 4.65 (Ranked 289)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -28,3 +28,4 @@ Rating: 4.64 (Ranked 310)
 | 2023-05-02 | 4.66 | 0 | 0 |
 | 2023-05-06 | 4.65 | 0 | 0 |
 | 2023-05-07 | 4.64 | 0 | 0 |
+| 2023-05-13 | 4.65 | 0 | 0 |

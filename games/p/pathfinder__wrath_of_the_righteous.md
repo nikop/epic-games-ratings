@@ -46,10 +46,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 0.90% | ~79 |
 | Abyssal Conspiracy | 0.80% | ~70 |
 | This Wall Won't Fall | 0.70% | ~53 |
+| The Final Threshold | 0.60% | ~53 |
 | Strategic Victory | 0.60% | ~53 |
 | End of Eternal Guard | 0.60% | ~53 |
 | Not the Last Sarkorian | 0.60% | ~45 |
-| The Final Threshold | 0.50% | ~44 |
 | Path of the Dragon | 0.50% | ~44 |
 | Path of the Legend | 0.50% | ~44 |
 | Playful Mood | 0.50% | ~44 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -183,9 +183,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1016,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -323,6 +323,11 @@
       "Time": "2023-05-12T14:04:50.1496453+00:00",
       "NumProgressed": 1016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T10:06:21.1359874+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -350,7 +355,7 @@
       "Name": "Atomic Soda",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ATOM_QUIT",
@@ -414,7 +419,7 @@
       "Name": "Freelance Police",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "HOLY_MOUNTAIN",
@@ -486,7 +491,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "OLD_FRIEND",
@@ -502,7 +507,7 @@
       "Name": "The Great and Powerful",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "POWER_SIMPLICITY",
@@ -534,7 +539,7 @@
       "Name": "Shadow over Trudograd",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SICK_FREAK",
@@ -582,14 +587,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1016,
+      "Progressed": 1017,
       "Completed": 0
     }
   ],
@@ -597,8 +602,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:15.4782666+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:06:21.1359866+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.3359938+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:57:11.5715703+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:15.4782933+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:57:14.8078428+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:06:21.1360159+00:00"
 }

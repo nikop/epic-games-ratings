@@ -3664,9 +3664,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87334,
+  "EOS_Progressed": 87339,
   "EOS_Completed": 1833,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5719,6 +5719,11 @@
       "Time": "2023-05-13T09:06:00.0549822+00:00",
       "NumProgressed": 87334,
       "NumCompleted": 1833
+    },
+    {
+      "Time": "2023-05-13T10:07:11.9444228+00:00",
+      "NumProgressed": 87339,
+      "NumCompleted": 1833
     }
   ],
   "TotalAchievements": 489,
@@ -6704,9 +6709,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_130",
@@ -8112,9 +8117,9 @@
       "ID": "objective_completed_573",
       "SetID": "415jc5c",
       "Name": "Faer\u00FBn\u0027s Most Wanted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_575",
@@ -9641,21 +9646,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53608,
-      "Completed": 2499
+      "Progressed": 53613,
+      "Completed": 2500
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87334,
+      "Progressed": 87339,
       "Completed": 1833
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-13T01:54:30.3444711+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:06:00.0549818+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:07:11.9444222+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:57:59.4862594+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:06:00.0576278+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:58:15.9471008+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:07:11.9474486+00:00"
 }

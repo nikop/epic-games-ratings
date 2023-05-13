@@ -4,7 +4,7 @@
   "ProductSlug": "gonner",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-02-27T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.2756017+00:00",
   "LastChanged": "2023-03-31T05:57:55.2756018+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:19.4523922+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:59:33.3626191+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:04:06.352402+00:00"
+  "LastUpdate_Ratings": "2023-05-13T10:00:17.0908051+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:04:48.7309775+00:00"
 }

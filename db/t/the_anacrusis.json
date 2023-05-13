@@ -4,7 +4,7 @@
   "ProductSlug": "the-anacrusis",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:59:12.9621006+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:59:25.6201855+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:04:03.8890853+00:00"
+  "LastUpdate_Ratings": "2023-05-13T10:00:07.1306297+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:04:45.7559655+00:00"
 }

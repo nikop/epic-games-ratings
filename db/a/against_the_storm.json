@@ -2252,9 +2252,9 @@
       "Count": 302
     }
   ],
-  "EOS_Progressed": 14772,
+  "EOS_Progressed": 14774,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3362,6 +3362,11 @@
       "Time": "2023-05-13T09:05:53.6708631+00:00",
       "NumProgressed": 14772,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-13T10:07:05.0512562+00:00",
+      "NumProgressed": 14774,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3467,9 +3472,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "WinImpossible",
@@ -3772,15 +3777,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14772,
+      "Progressed": 14774,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-12T01:56:13.0396287+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:53.6708625+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:07:05.0512555+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-13T09:00:10.6855814+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:53.6709117+00:00"
+  "LastUpdate_Ratings": "2023-05-13T10:01:08.1643775+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:07:05.0513129+00:00"
 }

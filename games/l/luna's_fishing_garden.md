@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Feel for the Reel | 84.00% | ~559 |
-| Anything Else? | 83.00% | ~553 |
-| The Ones that Got Away | 68.00% | ~453 |
-| Immortal | 40.00% | ~266 |
-| Up! | 34.00% | ~226 |
+| A Feel for the Reel | 84.00% | ~560 |
+| Anything Else? | 83.00% | ~554 |
+| The Ones that Got Away | 68.00% | ~454 |
+| Immortal | 40.00% | ~267 |
+| Up! | 34.00% | ~227 |
 | Bird Breeder | 27.00% | ~180 |
 | Science Enthusiast | 27.00% | ~180 |
 | Master Angler | 24.00% | ~160 |
@@ -19,14 +19,15 @@
 | Hide and Seek | 15.00% | ~100 |
 | Be Like the Lotus | 12.00% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 178)  
-Completed: 43 (6.46%) (Ranked 25)  
+Progressed: 667 (Ranked 178)  
+Completed: 43 (6.45%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 665 | 42 |
 | 2023-04-27 | 666 | 42 |
 | 2023-05-08 | 666 | 43 |
+| 2023-05-13 | 667 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

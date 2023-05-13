@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.80% | ~699 |
 | The Ring of Regeneration | 0.70% | ~611 |
 | Were-verpowered | 0.60% | ~524 |
+| A Persistent Buzzing | 0.50% | ~437 |
 | Seeking Allies | 0.50% | ~437 |
 | Are Ya Chicken? | 0.50% | ~437 |
 | Mad Cow Disease | 0.50% | ~437 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.40% | ~214 |
 | The Sanctum of the Sword | 0.40% | ~214 |
 | Get Back In The Castle | 0.40% | ~214 |
-| A Persistent Buzzing | 0.40% | ~349 |
 | Terror in the Dark | 0.40% | ~349 |
 | A Mysterious Summons | 0.40% | ~349 |
 | Unearthed Evil | 0.40% | ~349 |
@@ -168,6 +168,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~175 |
 | Troublesome Prisoner | 0.20% | ~175 |
 | Dark Doppelgangers | 0.20% | ~175 |
+| Faerûn's Most Wanted | 0.20% | ~107 |
 | Difficult Terrain | 0.20% | ~175 |
 | Cold & Wet | 0.20% | ~175 |
 | Madcap Adventures | 0.20% | ~175 |
@@ -367,7 +368,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~87 |
 | The Tallest of Kobolds | 0.10% | ~54 |
 | Patience is Key | 0.10% | ~87 |
-| Faerûn's Most Wanted | 0.10% | ~54 |
 | Faerûn's Most Neglected | 0.10% | ~54 |
 | Vault of Pixies | 0.10% | ~87 |
 | Vault of Poison | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,334 (Ranked 59)  
+Progressed: 87,339 (Ranked 59)  
 Completed: 1,833 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,833 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,334 | 1,833 |
+| 2023-05-13 | 87,339 | 1,833 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,867 (Ranked 37)  

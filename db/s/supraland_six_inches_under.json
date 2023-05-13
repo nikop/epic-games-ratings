@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -642,9 +642,9 @@
       "ID": "FloatingMan",
       "SetID": "5lok9mm",
       "Name": "Much Magic",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1139
     },
     {
       "ID": "ForceCube",
@@ -826,9 +826,9 @@
       "ID": "Race",
       "SetID": "5lok9mm",
       "Name": "Faster",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1199
     },
     {
       "ID": "Revenge",
@@ -938,8 +938,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:57.1750899+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:07:09.1020393+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:59.1604031+00:00",
-  "LastUpdate_Ratings": "2023-05-13T09:00:14.9559843+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:57.1751408+00:00"
+  "LastUpdate_Ratings": "2023-05-13T10:01:13.4419707+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:07:09.1020883+00:00"
 }

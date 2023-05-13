@@ -6,7 +6,7 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32268,
+  "EOS_Progressed": 32269,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1952,6 +1952,11 @@
       "Time": "2023-05-13T09:05:07.2890479+00:00",
       "NumProgressed": 32268,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-05-13T10:06:10.4888473+00:00",
+      "NumProgressed": 32269,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 44,
@@ -1971,7 +1976,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9680
+      "UsersEstimate": 9681
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2003,7 +2008,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3549
+      "UsersEstimate": 3550
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2027,7 +2032,7 @@
       "Name": "Denouement",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2083,7 +2088,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26137
+      "UsersEstimate": 26138
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2107,7 +2112,7 @@
       "Name": "Get Over Here",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2131,7 +2136,7 @@
       "Name": "The Hidden Village",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2155,7 +2160,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 11939
+      "UsersEstimate": 11940
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2179,7 +2184,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7744
+      "UsersEstimate": 7745
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -2187,7 +2192,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 18070
+      "UsersEstimate": 18071
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -2211,7 +2216,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8712
+      "UsersEstimate": 8713
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -2219,7 +2224,7 @@
       "Name": "A Pleasant Stay",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2235,7 +2240,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 21942
+      "UsersEstimate": 21943
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2314,7 +2319,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 32268,
+      "Progressed": 32269,
       "Completed": 152
     }
   ],
@@ -2322,8 +2327,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:07.2890475+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:06:10.4888467+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:18.9557254+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:58:21.2687036+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:07.2890952+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:58:45.8886899+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:06:10.4889019+00:00"
 }

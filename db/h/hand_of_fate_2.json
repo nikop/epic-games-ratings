@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656064,
+  "EOS_Progressed": 656065,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2657,6 +2657,11 @@
       "Time": "2023-05-13T09:05:15.4502736+00:00",
       "NumProgressed": 656064,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-05-13T10:06:21.1292619+00:00",
+      "NumProgressed": 656065,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 48,
@@ -2668,7 +2673,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472366
+      "UsersEstimate": 472367
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2676,7 +2681,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380517
+      "UsersEstimate": 380518
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2740,7 +2745,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45924
+      "UsersEstimate": 45925
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -2900,7 +2905,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45924
+      "UsersEstimate": 45925
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -3051,15 +3056,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656064,
+      "Progressed": 656065,
       "Completed": 164
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:15.4502731+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:06:21.1292614+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:30.4319872+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:57:29.1896603+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:15.4503346+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:57:39.1334757+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:06:21.129324+00:00"
 }

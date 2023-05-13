@@ -4,7 +4,7 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.46,
+  "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -45,6 +45,11 @@
     {
       "Time": "2023-05-08T21:06:31.6137167+00:00",
       "NumProgressed": 666,
+      "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-13T10:06:07.3321655+00:00",
+      "NumProgressed": 667,
       "NumCompleted": 43
     }
   ],
@@ -73,7 +78,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "12_art",
@@ -97,7 +102,7 @@
       "Name": "Up!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "2_reel",
@@ -105,7 +110,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "3_master_angler",
@@ -137,7 +142,7 @@
       "Name": "Immortal",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "7_cleanup",
@@ -153,7 +158,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "9_lotus",
@@ -168,7 +173,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 43
     }
   ],
@@ -176,8 +181,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-05-13T09:05:04.5175706+00:00",
+  "LastChanged_Achievements": "2023-05-13T10:06:07.332165+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:19.9388218+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:57:16.5291633+00:00",
-  "LastUpdate_Achievements": "2023-05-13T09:05:04.5175806+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:57:20.6844935+00:00",
+  "LastUpdate_Achievements": "2023-05-13T10:06:07.332177+00:00"
 }

@@ -28,7 +28,7 @@ Rating: 4.33 (Ranked 735)
 | Well-read | 41.00% | ~140 |
 | Cassandra Van den Bosch | 39.00% | ~133 |
 | The Secret | 39.00% | ~133 |
-| Gedeon Demir | 36.00% | ~123 |
+| Gedeon Demir | 37.00% | ~127 |
 | Rehana Piette | 36.00% | ~123 |
 | Instinct is Marvellous | 34.00% | ~116 |
 | Ernesto da Silva | 34.00% | ~116 |
