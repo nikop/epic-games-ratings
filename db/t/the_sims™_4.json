@@ -2,20 +2,20 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 377,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -1634,10 +1634,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1178,
       "NumberOfAwardsMax": 189
+    },
+    {
+      "Time": "2023-05-13T13:00:21.9259964+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1180,
+      "NumberOfAwardsMax": 189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1178,
+  "NumberOfAwards": 1180,
   "NumberOfAwardsMax": 189,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1699,7 +1705,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 92
+      "Count": 94
     },
     {
       "Text": "This game has Easy Combat",
@@ -1720,8 +1726,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-05-13T06:57:26.2553743+00:00",
+  "LastChanged": "2023-05-13T13:00:21.9259962+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:26.5840964+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:57:21.9676898+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:01:47.5602043+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:00:21.9259968+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:04:03.0793283+00:00"
 }

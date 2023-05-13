@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1519,
+  "EOS_Progressed": 1520,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1103,6 +1103,11 @@
       "Time": "2023-05-13T11:05:20.4686517+00:00",
       "NumProgressed": 1519,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T13:08:26.7908709+00:00",
+      "NumProgressed": 1520,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1130,7 +1135,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "Achievement_004",
@@ -1138,7 +1143,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "Achievement_006",
@@ -1162,7 +1167,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "Achievement_009",
@@ -1170,7 +1175,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Achievement_010",
@@ -1250,7 +1255,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "Achievement_020",
@@ -1338,7 +1343,7 @@
       "Name": "ICU",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "Achievement_031",
@@ -1362,7 +1367,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Achievement_034",
@@ -1416,9 +1421,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 502
     },
     {
       "ID": "Achievement_041",
@@ -1450,7 +1455,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Achievement_046",
@@ -1578,7 +1583,7 @@
       "Name": "Helping Hand",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Achievement_064",
@@ -1641,7 +1646,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1519,
+      "Progressed": 1520,
       "Completed": 0
     }
   ],
@@ -1649,8 +1654,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-13T11:57:46.4999243+00:00",
-  "LastChanged_Achievements": "2023-05-13T12:05:31.0154704+00:00",
+  "LastChanged_Achievements": "2023-05-13T13:08:26.7908701+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:57:46.4999249+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:05:31.0155258+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:00:42.4840637+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:08:26.791002+00:00"
 }

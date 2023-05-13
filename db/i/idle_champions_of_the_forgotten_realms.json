@@ -3614,10 +3614,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29867,
       "NumberOfAwardsMax": 4877
+    },
+    {
+      "Time": "2023-05-13T13:00:56.2777346+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29870,
+      "NumberOfAwardsMax": 4877
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29867,
+  "NumberOfAwards": 29870,
   "NumberOfAwardsMax": 4877,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3625,7 +3631,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4817
+      "Count": 4820
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3664,9 +3670,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87346,
+  "EOS_Progressed": 87361,
   "EOS_Completed": 1833,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5734,6 +5740,11 @@
       "Time": "2023-05-13T12:06:16.6619887+00:00",
       "NumProgressed": 87346,
       "NumCompleted": 1833
+    },
+    {
+      "Time": "2023-05-13T13:09:09.9090899+00:00",
+      "NumProgressed": 87361,
+      "NumCompleted": 1833
     }
   ],
   "TotalAchievements": 489,
@@ -5751,9 +5762,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 349
     },
     {
       "ID": "objective_completed_100",
@@ -6417,7 +6428,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_completed_1163",
@@ -6577,7 +6588,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_completed_1194",
@@ -6593,7 +6604,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_completed_1199",
@@ -6617,7 +6628,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "objective_completed_1204",
@@ -6903,9 +6914,9 @@
       "ID": "objective_completed_155",
       "SetID": "cc37lbc",
       "Name": "Home Field Advantage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_156",
@@ -6943,9 +6954,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_166",
@@ -7417,7 +7428,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "objective_completed_34",
@@ -7425,7 +7436,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "objective_completed_35",
@@ -7607,9 +7618,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 524
     },
     {
       "ID": "objective_completed_40",
@@ -9656,21 +9667,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53620,
+      "Progressed": 53635,
       "Completed": 2500
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87346,
+      "Progressed": 87361,
       "Completed": 1833
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-13T01:54:30.3444711+00:00",
-  "LastChanged_Achievements": "2023-05-13T12:06:16.6619879+00:00",
+  "LastChanged": "2023-05-13T13:00:56.2777344+00:00",
+  "LastChanged_Achievements": "2023-05-13T13:09:09.9090894+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:58:01.3876883+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:06:16.6641683+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:00:56.2777351+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:09:09.9117646+00:00"
 }

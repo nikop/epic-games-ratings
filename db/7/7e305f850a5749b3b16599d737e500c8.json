@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -223,8 +223,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-13T12:02:20.8100208+00:00",
+  "LastChanged_Achievements": "2023-05-13T13:05:22.4769972+00:00",
   "LastUpdate_AppInfo": "2023-05-08T14:58:36.6916699+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:56:54.8038405+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:02:20.810031+00:00"
+  "LastUpdate_Ratings": "2023-05-13T12:59:59.12879+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:05:22.4770122+00:00"
 }

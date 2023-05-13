@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 845,
+  "EOS_Progressed": 846,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -192,6 +192,11 @@
     {
       "Time": "2023-05-12T18:08:41.176504+00:00",
       "NumProgressed": 845,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T13:08:52.26513+00:00",
+      "NumProgressed": 846,
       "NumCompleted": 0
     }
   ],
@@ -234,9 +239,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 575
     },
     {
       "ID": "06",
@@ -244,7 +249,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "07",
@@ -252,7 +257,7 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "08",
@@ -268,7 +273,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "10",
@@ -332,7 +337,7 @@
       "Name": "Ready to Learn",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "18",
@@ -387,7 +392,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 845,
+      "Progressed": 846,
       "Completed": 0
     }
   ],
@@ -395,8 +400,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-13T12:05:58.0860881+00:00",
+  "LastChanged_Achievements": "2023-05-13T13:08:52.2651294+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:35.0665614+00:00",
-  "LastUpdate_Ratings": "2023-05-13T12:00:03.1017228+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:05:58.0861011+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:02:36.4157002+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:08:52.2651472+00:00"
 }

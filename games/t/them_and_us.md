@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forced to Kill | 72.00% | ~18 |
-| Alone with Them | 68.00% | ~17 |
-| Safe...For now? | 24.00% | ~6 |
-| A Night To Remember | 24.00% | ~6 |
+| Forced to Kill | 76.00% | ~19 |
+| Alone with Them | 72.00% | ~18 |
+| Safe...For now? | 32.00% | ~8 |
+| A Night To Remember | 28.00% | ~7 |
+| Open Sesame | 16.00% | ~4 |
 | The Cultists | 16.00% | ~4 |
 | Alone In The Dark | 12.00% | ~3 |
-| Open Sesame | 12.00% | ~3 |
 | Lover of classics | 8.00% | ~2 |
 | Them and Us | 8.00% | ~2 |
 | OUTRAGE | 8.00% | ~2 |

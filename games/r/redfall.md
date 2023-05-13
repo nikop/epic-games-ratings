@@ -5,27 +5,27 @@ Rating: 3.38 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 83.00% | ~1,261 |
-| Home Is Where the Heart Is | 65.00% | ~987 |
-| Ne Plus Ultra | 64.00% | ~972 |
-| Wounded Whispers | 64.00% | ~972 |
-| Blood Will Have Blood | 53.00% | ~805 |
-| ICU | 48.00% | ~729 |
+| I Like My Stakes Rare! | 83.00% | ~1,262 |
+| Home Is Where the Heart Is | 65.00% | ~988 |
+| Ne Plus Ultra | 64.00% | ~973 |
+| Wounded Whispers | 64.00% | ~973 |
+| Blood Will Have Blood | 53.00% | ~806 |
+| ICU | 48.00% | ~730 |
 | Catch and Release | 47.00% | ~714 |
 | Peek-a-boo | 46.00% | ~699 |
 | Sucks To Be You | 45.00% | ~684 |
 | Welcome to the Neighborhood | 40.00% | ~608 |
 | Fly Fisher | 37.00% | ~562 |
 | Throw The First Stone | 36.00% | ~547 |
-| Enter of Your Own Free Will | 34.00% | ~516 |
-| Heart Attack | 34.00% | ~516 |
-| Skin of Their Teeth | 33.00% | ~501 |
+| Enter of Your Own Free Will | 34.00% | ~517 |
+| Heart Attack | 33.00% | ~502 |
+| Skin of Their Teeth | 33.00% | ~502 |
 | Grounded | 25.00% | ~380 |
 | Bad Wiring | 22.00% | ~334 |
 | I Spit On Your Grave | 21.00% | ~319 |
 | Neighborhood Revitalization | 16.00% | ~243 |
 | Radio Silence | 16.00% | ~243 |
-| Helping Hand | 13.00% | ~197 |
+| Helping Hand | 13.00% | ~198 |
 | You Clean It Up | 12.00% | ~182 |
 | Starve the Beast | 9.00% | ~137 |
 | Block Party | 8.00% | ~122 |
@@ -72,7 +72,7 @@ Rating: 3.38 (Ranked 920)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,519 (Ranked 151)  
+Progressed: 1,520 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-10 | 1,486 | 0 |
 | 2023-05-11 | 1,503 | 0 |
 | 2023-05-12 | 1,512 | 0 |
-| 2023-05-13 | 1,519 | 0 |
+| 2023-05-13 | 1,520 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

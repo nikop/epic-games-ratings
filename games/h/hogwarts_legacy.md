@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 104)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,009 |
-| The One Who Mastered Memories | 6.00% | ~16,009 |
-| The Hallowed Hero | 6.00% | ~16,009 |
+| Grappling with a Graphorn | 6.00% | ~16,010 |
+| The One Who Mastered Memories | 6.00% | ~16,010 |
+| The Hallowed Hero | 6.00% | ~16,010 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,341 |
 | The Hero of Hogwarts | 5.00% | ~13,341 |
 | The Defender of Dragons | 5.00% | ~13,341 |
@@ -30,13 +30,13 @@ Rating: 4.77 (Ranked 104)
 | The Root of the Problem | 3.00% | ~8,005 |
 | Third Time's a Charm | 3.00% | ~8,005 |
 | Raising Expectations | 3.00% | ~8,005 |
-| The Toast of the Town | 2.00% | ~5,336 |
-| Going Through the Potions | 2.00% | ~5,336 |
-| Room with a View | 2.00% | ~5,336 |
-| Floo Around the World | 2.00% | ~5,336 |
-| The Intrepid Explorer | 2.00% | ~5,336 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,336 |
-| The Ends Petrify the Means | 2.00% | ~5,336 |
+| The Toast of the Town | 2.00% | ~5,337 |
+| Going Through the Potions | 2.00% | ~5,337 |
+| Room with a View | 2.00% | ~5,337 |
+| Floo Around the World | 2.00% | ~5,337 |
+| The Intrepid Explorer | 2.00% | ~5,337 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,337 |
+| The Ends Petrify the Means | 2.00% | ~5,337 |
 | The Good Samaritan | 1.00% | ~2,668 |
 | Put Down Roots | 1.00% | ~2,668 |
 | The Auror's Apprentice | 1.00% | ~2,668 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,067 |
 | Collector's Edition | 0.20% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,822 (Ranked 38)  
+Progressed: 266,827 (Ranked 38)  
 Completed: 359 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-10 | 266,527 | 358 |
 | 2023-05-11 | 266,628 | 359 |
 | 2023-05-12 | 266,757 | 359 |
-| 2023-05-13 | 266,822 | 359 |
+| 2023-05-13 | 266,827 | 359 |
 ## Awards
 Max (Character Customization): 18,684  (Ranked 18)  
 Sum: 34,217 (Ranked 33)  

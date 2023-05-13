@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37950,
+  "EOS_Progressed": 37957,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1690,6 +1690,11 @@
       "Time": "2023-05-13T12:05:46.9674238+00:00",
       "NumProgressed": 37950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T13:08:41.6444076+00:00",
+      "NumProgressed": 37957,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1765,7 +1770,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -1877,7 +1882,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "JUSTCOUNTER",
@@ -2124,22 +2129,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37950,
+      "Progressed": 37957,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2787,
-      "Completed": 2787
+      "Progressed": 2794,
+      "Completed": 2794
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-13T12:05:46.9674233+00:00",
+  "LastChanged_Achievements": "2023-05-13T13:08:41.644407+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:58:40.3644247+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:05:46.9674655+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:01:28.1024947+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:08:41.6445121+00:00"
 }

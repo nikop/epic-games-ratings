@@ -6,45 +6,45 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~432,222 |
-| The Three | 64.00% | ~333,279 |
-| The Banquet | 40.00% | ~208,300 |
-| Devara's Light | 30.00% | ~156,225 |
-| The Iron Ones | 18.00% | ~93,735 |
-| The Village | 16.00% | ~83,320 |
-| The Forest | 14.00% | ~72,905 |
-| Branded | 13.00% | ~67,697 |
-| The Imposter | 13.00% | ~67,697 |
-| The Keep | 13.00% | ~67,697 |
-| The Castle | 11.00% | ~57,282 |
-| The Dome | 9.00% | ~46,867 |
-| The Red Hall | 9.00% | ~46,867 |
-| The Sacrifice | 8.00% | ~41,660 |
-| The Cave | 7.00% | ~36,452 |
-| The Stone Roots | 7.00% | ~36,452 |
-| The Ziggurat | 7.00% | ~36,452 |
-| Storied | 6.00% | ~31,245 |
-| The Construct | 6.00% | ~31,245 |
-| The Mire | 6.00% | ~31,245 |
-| The Ruins | 6.00% | ~31,245 |
-| The Alkymancery | 5.00% | ~26,037 |
-| The Lake | 5.00% | ~26,037 |
-| The Pitchwoods | 5.00% | ~26,037 |
+| Find Sanctuary | 83.00% | ~432,230 |
+| The Three | 64.00% | ~333,286 |
+| The Banquet | 40.00% | ~208,304 |
+| Devara's Light | 30.00% | ~156,228 |
+| The Iron Ones | 18.00% | ~93,737 |
+| The Village | 16.00% | ~83,321 |
+| The Forest | 14.00% | ~72,906 |
+| Branded | 13.00% | ~67,699 |
+| The Imposter | 13.00% | ~67,699 |
+| The Keep | 13.00% | ~67,699 |
+| The Castle | 11.00% | ~57,283 |
+| The Dome | 9.00% | ~46,868 |
+| The Red Hall | 9.00% | ~46,868 |
+| The Sacrifice | 8.00% | ~41,661 |
+| The Cave | 7.00% | ~36,453 |
+| The Stone Roots | 7.00% | ~36,453 |
+| The Ziggurat | 7.00% | ~36,453 |
+| Storied | 6.00% | ~31,246 |
+| The Construct | 6.00% | ~31,246 |
+| The Mire | 6.00% | ~31,246 |
+| The Ruins | 6.00% | ~31,246 |
+| The Alkymancery | 5.00% | ~26,038 |
+| The Lake | 5.00% | ~26,038 |
+| The Pitchwoods | 5.00% | ~26,038 |
 | Honed | 4.00% | ~20,830 |
 | The House of Splendor | 4.00% | ~20,830 |
 | The Crypt | 4.00% | ~20,830 |
 | The Palace | 4.00% | ~20,830 |
-| Find Salvation | 3.00% | ~15,622 |
-| The Unspeakable Deep | 3.00% | ~15,622 |
+| Find Salvation | 3.00% | ~15,623 |
+| The Unspeakable Deep | 3.00% | ~15,623 |
 | Coastrock | 2.00% | ~10,415 |
 | Devoted | 2.00% | ~10,415 |
 | Dominion | 2.00% | ~10,415 |
 | Keepers of Fire and Sky | 2.00% | ~10,415 |
 | Order of the Betrayer | 2.00% | ~10,415 |
 | Wise Words | 2.00% | ~10,415 |
-| Fading Fast | 1.00% | ~5,207 |
+| Fading Fast | 1.00% | ~5,208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,749 (Ranked 23)  
+Progressed: 520,759 (Ranked 23)  
 Completed: 1,406 (0.27%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 1,406 (0.27%) (Ranked 129)
 | 2023-05-10 | 520,475 | 1,402 |
 | 2023-05-11 | 520,580 | 1,404 |
 | 2023-05-12 | 520,683 | 1,406 |
-| 2023-05-13 | 520,749 | 1,406 |
+| 2023-05-13 | 520,759 | 1,406 |
 ## Awards
 Max (Challenging Combat): 268  (Ranked 233)  
 Sum: 1,874 (Ranked 190)  

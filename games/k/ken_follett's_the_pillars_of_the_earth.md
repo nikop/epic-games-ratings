@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,200 |
-| Man of politics | 36.00% | ~4,457 |
-| Friends of sorts | 35.00% | ~4,333 |
-| Yet another secret | 35.00% | ~4,333 |
+| Tattletale | 42.00% | ~5,201 |
+| Man of politics | 36.00% | ~4,458 |
+| Friends of sorts | 35.00% | ~4,334 |
+| Yet another secret | 35.00% | ~4,334 |
 | Let there be darkness | 34.00% | ~4,210 |
-| End of Book One | 31.00% | ~3,838 |
-| Wannabe knight | 25.00% | ~3,095 |
-| Garden of Eden | 25.00% | ~3,095 |
-| Full house | 25.00% | ~3,095 |
+| End of Book One | 31.00% | ~3,839 |
+| Wannabe knight | 25.00% | ~3,096 |
+| Garden of Eden | 25.00% | ~3,096 |
+| Full house | 25.00% | ~3,096 |
 | Help an old friend | 22.00% | ~2,724 |
 | Two of us | 21.00% | ~2,600 |
-| Negotiation skills | 19.00% | ~2,352 |
-| Workers' union | 19.00% | ~2,352 |
+| Negotiation skills | 19.00% | ~2,353 |
+| Workers' union | 19.00% | ~2,353 |
 | End of Book Two | 18.00% | ~2,229 |
 | Everything's in order | 17.00% | ~2,105 |
 | Jack was here! | 15.00% | ~1,857 |
-| Twist of Fate | 14.00% | ~1,733 |
-| Exterminator | 14.00% | ~1,733 |
+| Twist of Fate | 14.00% | ~1,734 |
+| Exterminator | 14.00% | ~1,734 |
 | Whodunnit | 13.00% | ~1,610 |
 | Good midwife | 11.00% | ~1,362 |
 | Friar Tuck | 11.00% | ~1,362 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,114 |
 | The truth revealed | 9.00% | ~1,114 |
 | The End. | 9.00% | ~1,114 |
-| A cry for help | 8.00% | ~990 |
+| A cry for help | 8.00% | ~991 |
 | Silentium est aureum | 7.00% | ~867 |
 | Rebel without a cause | 6.00% | ~743 |
 | Staring contest champion | 5.00% | ~619 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~371 |
 | Boy of mystery | 2.00% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,381 (Ranked 102)  
+Progressed: 12,383 (Ranked 102)  
 Completed: 93 (0.75%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 93 (0.75%) (Ranked 94)
 | 2023-05-10 | 12,339 | 93 |
 | 2023-05-11 | 12,355 | 93 |
 | 2023-05-12 | 12,378 | 93 |
-| 2023-05-13 | 12,381 | 93 |
+| 2023-05-13 | 12,383 | 93 |
 ## Awards
 Max (Easy Puzzles): 147  (Ranked 286)  
 Sum: 186 (Ranked 354)  

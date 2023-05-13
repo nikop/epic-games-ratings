@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1978,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-05-13T08:05:35.4374012+00:00",
       "NumProgressed": 1978,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T13:08:28.937595+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1275,7 +1280,7 @@
       "Name": "Elemental master",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1291,7 +1296,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1307,7 +1312,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1363,7 +1368,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1379,7 +1384,7 @@
       "Name": "Do you trust me?",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -1403,7 +1408,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1411,7 +1416,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1443,7 +1448,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1467,7 +1472,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1475,7 +1480,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -1603,7 +1608,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1611,7 +1616,7 @@
       "Name": "Spellcrafting",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -1643,14 +1648,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1978,
+      "Progressed": 1979,
       "Completed": 1
     }
   ],
@@ -1658,8 +1663,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-13T12:05:33.3318625+00:00",
+  "LastChanged_Achievements": "2023-05-13T13:08:28.9375939+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:57:29.838375+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:05:33.3319035+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:00:28.781107+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:08:28.9376691+00:00"
 }

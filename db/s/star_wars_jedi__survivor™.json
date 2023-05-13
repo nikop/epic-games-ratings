@@ -2,20 +2,20 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 642,
-  "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 293,
+  "Ranking_Rating": 653,
+  "Ranking_Popularity": 184,
+  "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-04-28T17:02:09.2169577+00:00",
@@ -214,18 +214,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 467,
       "NumberOfAwardsMax": 467
+    },
+    {
+      "Time": "2023-05-13T13:03:28.460488+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 502,
+      "NumberOfAwardsMax": 502
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 467,
-  "NumberOfAwardsMax": 467,
+  "NumberOfAwards": 502,
+  "NumberOfAwardsMax": 502,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 467
+      "Count": 502
     }
   ],
   "EOS_Progressed": 0,
@@ -240,8 +246,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
-  "LastChanged": "2023-05-13T04:01:16.2772267+00:00",
+  "LastChanged": "2023-05-13T13:03:28.4604879+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.86138+00:00",
-  "LastUpdate_Ratings": "2023-05-13T12:01:07.1139948+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:05:07.075679+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:03:28.4604884+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:08:04.7003333+00:00"
 }

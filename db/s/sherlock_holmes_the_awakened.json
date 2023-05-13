@@ -418,17 +418,17 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "PLTN",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-13T12:05:27.2506955+00:00",
+  "LastChanged_Achievements": "2023-05-13T13:08:23.1867437+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.4352441+00:00",
-  "LastUpdate_Ratings": "2023-05-13T11:57:03.7601252+00:00",
-  "LastUpdate_Achievements": "2023-05-13T12:05:27.2507105+00:00"
+  "LastUpdate_Ratings": "2023-05-13T13:00:06.1623307+00:00",
+  "LastUpdate_Achievements": "2023-05-13T13:08:23.1867856+00:00"
 }

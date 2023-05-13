@@ -7,31 +7,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,747 |
-| Checkmate | 2.00% | ~1,072 |
+| Checkmate | 2.00% | ~1,073 |
 | Pin and Skewer | 1.00% | ~536 |
 | Vecna Out! | 1.00% | ~536 |
-| The Cursed Farmer | 1.00% | ~873 |
+| The Cursed Farmer | 1.00% | ~874 |
 | Beast Intentions | 0.80% | ~699 |
 | Bully for Vecna | 0.80% | ~429 |
 | The Mad Wizard | 0.80% | ~699 |
-| The Ring of Regeneration | 0.70% | ~611 |
+| The Ring of Regeneration | 0.70% | ~612 |
 | Were-verpowered | 0.60% | ~524 |
+| Are Ya Chicken? | 0.60% | ~524 |
 | A Persistent Buzzing | 0.50% | ~437 |
 | Seeking Allies | 0.50% | ~437 |
-| Are Ya Chicken? | 0.50% | ~437 |
 | Mad Cow Disease | 0.50% | ~437 |
 | Friendly Imps | 0.50% | ~437 |
 | Pure Energy | 0.50% | ~437 |
-| Best Thay Ever | 0.40% | ~214 |
-| The Sanctum of the Sword | 0.40% | ~214 |
-| Get Back In The Castle | 0.40% | ~214 |
+| Maddening | 0.40% | ~349 |
+| Best Thay Ever | 0.40% | ~215 |
+| The Sanctum of the Sword | 0.40% | ~215 |
+| Get Back In The Castle | 0.40% | ~215 |
 | Terror in the Dark | 0.40% | ~349 |
 | A Mysterious Summons | 0.40% | ~349 |
 | Unearthed Evil | 0.40% | ~349 |
 | The Crumbling Temple | 0.40% | ~349 |
 | Exploring Port Nyanzaru | 0.40% | ~349 |
 | The Contagious Curse | 0.40% | ~349 |
-| Maddening | 0.30% | ~262 |
 | The Silken Swamp | 0.30% | ~262 |
 | Owlbear Necessities | 0.30% | ~161 |
 | Keep Your Distance | 0.30% | ~161 |
@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~161 |
 | Beast Mode | 0.30% | ~262 |
 | Low Initiative | 0.30% | ~262 |
+| Street War | 0.30% | ~262 |
 | Building Trust | 0.30% | ~262 |
 | No Time To Rest | 0.30% | ~262 |
 | The Dinner Party | 0.30% | ~262 |
@@ -116,8 +117,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~107 |
 | The Forbidden City | 0.20% | ~175 |
 | Captured! | 0.20% | ~175 |
+| Home Field Advantage | 0.20% | ~175 |
 | Double Vision | 0.20% | ~175 |
-| Street War | 0.20% | ~175 |
 | Force Grey Unleashed | 0.20% | ~175 |
 | Vajra's Guards | 0.20% | ~175 |
 | March of the Undead | 0.20% | ~175 |
@@ -290,7 +291,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~87 |
 | No Good at All | 0.10% | ~87 |
 | Fall From Grace | 0.10% | ~87 |
-| Home Field Advantage | 0.10% | ~87 |
 | Underground Railroad | 0.10% | ~87 |
 | Never Split the Party | 0.10% | ~87 |
 | Azaka's Procession - Part 1 | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,346 (Ranked 59)  
+Progressed: 87,361 (Ranked 59)  
 Completed: 1,833 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,15 +519,15 @@ Completed: 1,833 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,346 | 1,833 |
+| 2023-05-13 | 87,361 | 1,833 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
-Sum: 29,867 (Ranked 37)  
+Sum: 29,870 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,877 |
-| This game is Great for Beginners | 4,817 |
+| This game is Great for Beginners | 4,820 |
 | This game has Quickly Understood Controls | 4,589 |
 | This game is Relaxing | 4,482 |
 | This game is Highly Recommended | 3,936 |
@@ -643,4 +643,4 @@ Diff (max vs sum): 26
 | 2023-05-10 | 4.06 | - | 4,874 | 29,847 |
 | 2023-05-11 | 4.06 | - | 4,874 | 29,859 |
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
-| 2023-05-13 | 4.06 | - | 4,877 | 29,867 |
+| 2023-05-13 | 4.06 | - | 4,877 | 29,870 |
