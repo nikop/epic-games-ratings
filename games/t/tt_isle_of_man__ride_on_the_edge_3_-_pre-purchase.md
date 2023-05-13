@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 93.00% | ~14 |
-| To Each Their Own | 33.00% | ~5 |
-| Like Phileas Fogg | 27.00% | ~4 |
-| Onwards and Upwards | 27.00% | ~4 |
-| You Get An Upgrade, You Get An Upgrade! | 20.00% | ~3 |
+| You're Going Down! | 88.00% | ~14 |
+| To Each Their Own | 31.00% | ~5 |
+| Like Phileas Fogg | 25.00% | ~4 |
+| Onwards and Upwards | 25.00% | ~4 |
+| You Get An Upgrade, You Get An Upgrade! | 19.00% | ~3 |
 | Seven-League Boots | 13.00% | ~2 |
 | Highly Qualified | 13.00% | ~2 |
 | Serial Winner | 13.00% | ~2 |
@@ -20,32 +20,32 @@
 | Start Your Engines | 13.00% | ~2 |
 | Tailor-Made for Two | 13.00% | ~2 |
 | Playing God | 13.00% | ~2 |
-| Déjà-Vu | 7.00% | ~1 |
-| Golden Ratio | 7.00% | ~1 |
-| POI Hunter | 7.00% | ~1 |
-| The Joy of Discovery | 7.00% | ~1 |
-| Gotta Go Fast! | 7.00% | ~1 |
-| Say My Name | 7.00% | ~1 |
-| Nerd | 7.00% | ~1 |
-| Geek | 7.00% | ~1 |
-| Last One Standing | 7.00% | ~1 |
-| The Immortal One | 7.00% | ~1 |
-| Shopping List | 7.00% | ~1 |
-| Checklist | 7.00% | ~1 |
-| Time Lord | 7.00% | ~1 |
-| Time Is of the Essence | 7.00% | ~1 |
-| First Things First | 7.00% | ~1 |
-| Made Father Proud | 7.00% | ~1 |
-| Win-Win! | 7.00% | ~1 |
-| Supersport Superfan | 7.00% | ~1 |
-| Superbike Superfan | 7.00% | ~1 |
-| Playing Favourites | 7.00% | ~1 |
-| Tailor-Made | 7.00% | ~1 |
-| Tempus Fugit | 7.00% | ~1 |
-| Lone Wolf | 7.00% | ~1 |
+| Déjà-Vu | 6.00% | ~1 |
+| Golden Ratio | 6.00% | ~1 |
+| POI Hunter | 6.00% | ~1 |
+| The Joy of Discovery | 6.00% | ~1 |
+| Gotta Go Fast! | 6.00% | ~1 |
+| Say My Name | 6.00% | ~1 |
+| Nerd | 6.00% | ~1 |
+| Geek | 6.00% | ~1 |
+| Last One Standing | 6.00% | ~1 |
+| The Immortal One | 6.00% | ~1 |
+| Shopping List | 6.00% | ~1 |
+| Checklist | 6.00% | ~1 |
+| Time Lord | 6.00% | ~1 |
+| Time Is of the Essence | 6.00% | ~1 |
+| First Things First | 6.00% | ~1 |
+| Made Father Proud | 6.00% | ~1 |
+| Win-Win! | 6.00% | ~1 |
+| Supersport Superfan | 6.00% | ~1 |
+| Superbike Superfan | 6.00% | ~1 |
+| Playing Favourites | 6.00% | ~1 |
+| Tailor-Made | 6.00% | ~1 |
+| Tempus Fugit | 6.00% | ~1 |
+| Lone Wolf | 6.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 309)  
-Completed: 1 (6.67%) (Ranked 24)  
+Progressed: 16 (Ranked 308)  
+Completed: 1 (6.25%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,3 +53,4 @@ Completed: 1 (6.67%) (Ranked 24)
 | 2023-05-10 | 4 | 1 |
 | 2023-05-11 | 8 | 1 |
 | 2023-05-12 | 15 | 1 |
+| 2023-05-13 | 16 | 1 |

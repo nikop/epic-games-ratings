@@ -5,17 +5,18 @@ Rating: 4.17 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Protector of Gotham | 0.40% | ~243 |
 | Rock and a Hard Place | 0.40% | ~243 |
 | Quartzer Life Crisis | 0.40% | ~243 |
 | Snow Problem | 0.40% | ~243 |
 | Get ReQ'd | 0.40% | ~243 |
 | Working Hard or Harley Working? | 0.40% | ~243 |
+| Universal Health Scare | 0.40% | ~243 |
 | Unstoppable Force | 0.40% | ~243 |
 | Gotham Knight | 0.40% | ~243 |
 | The Batman Family | 0.30% | ~182 |
 | End of an Era | 0.30% | ~182 |
 | In Your Element | 0.30% | ~182 |
-| Protector of Gotham | 0.30% | ~182 |
 | Something in the Clay | 0.30% | ~182 |
 | The Show Mud Go On | 0.30% | ~182 |
 | Bulldozed | 0.30% | ~182 |
@@ -25,7 +26,6 @@ Rating: 4.17 (Ranked 831)
 | To the Victor Go the Spoils | 0.30% | ~182 |
 | Cooldown | 0.30% | ~182 |
 | Har, Har, Har, Very Funny | 0.30% | ~182 |
-| Universal Health Scare | 0.30% | ~182 |
 | First Step Into the Knight | 0.30% | ~182 |
 | Knighthood | 0.30% | ~182 |
 | Loose Ends | 0.30% | ~182 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,824 (Ranked 67)  
+Progressed: 60,826 (Ranked 67)  
 Completed: 90 (0.15%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 90 (0.15%) (Ranked 145)
 | 2023-05-10 | 60,780 | 90 |
 | 2023-05-11 | 60,799 | 90 |
 | 2023-05-12 | 60,819 | 90 |
-| 2023-05-13 | 60,824 | 90 |
+| 2023-05-13 | 60,826 | 90 |
 ## Awards
 Max (Great Boss Battles): 2,208  (Ranked 99)  
 Sum: 3,657 (Ranked 138)  

@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,152 |
-| Jeef Skeejj | 44.00% | ~201,435 |
-| Careful planning | 39.00% | ~178,544 |
-| Second Coming | 33.00% | ~151,076 |
+| The Shutdown | 66.00% | ~302,153 |
+| Jeef Skeejj | 44.00% | ~201,436 |
+| Careful planning | 39.00% | ~178,545 |
+| Second Coming | 33.00% | ~151,077 |
 | Jeef Skagg | 30.00% | ~137,342 |
 | Mother | 25.00% | ~114,452 |
-| In space, no one can hear you scream | 23.00% | ~105,295 |
-| Chapter I: Echoes | 22.00% | ~100,717 |
-| Excelsior Rule | 22.00% | ~100,717 |
-| Things persisted in not being what they seemed | 20.00% | ~91,561 |
+| In space, no one can hear you scream | 23.00% | ~105,296 |
+| Chapter I: Echoes | 22.00% | ~100,718 |
+| Excelsior Rule | 22.00% | ~100,718 |
+| Things persisted in not being what they seemed | 20.00% | ~91,562 |
 | Knightmare Frames | 15.00% | ~68,671 |
 | May His passing cleanse the world | 15.00% | ~68,671 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,671 |
@@ -23,14 +23,14 @@ Number of Ratings: 1,003  (23.09.2022)
 | Tetsuo | 11.00% | ~50,359 |
 | Plan for the worst | 11.00% | ~50,359 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,781 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~36,624 |
-| Through the mirror | 8.00% | ~36,624 |
-| General Vivar | 8.00% | ~36,624 |
-| Back to Ganyma | 8.00% | ~36,624 |
-| Kaos Rule | 8.00% | ~36,624 |
-| Admiral Okonkwo | 7.00% | ~32,046 |
-| The Survivalists | 7.00% | ~32,046 |
-| The Tech Specialist | 7.00% | ~32,046 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~36,625 |
+| Through the mirror | 8.00% | ~36,625 |
+| General Vivar | 8.00% | ~36,625 |
+| Back to Ganyma | 8.00% | ~36,625 |
+| Kaos Rule | 8.00% | ~36,625 |
+| Admiral Okonkwo | 7.00% | ~32,047 |
+| The Survivalists | 7.00% | ~32,047 |
+| The Tech Specialist | 7.00% | ~32,047 |
 | Chapter V: Memories of None | 6.00% | ~27,468 |
 | Meet your maker | 6.00% | ~27,468 |
 | The Impersonator | 6.00% | ~27,468 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,806 (Ranked 28)  
+Progressed: 457,808 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 14 (0.00%) (Ranked 198)
 | 2023-05-10 | 457,695 | 14 |
 | 2023-05-11 | 457,744 | 14 |
 | 2023-05-12 | 457,795 | 14 |
-| 2023-05-13 | 457,806 | 14 |
+| 2023-05-13 | 457,808 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

@@ -6,25 +6,25 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~502,389 |
-| Every story has a beginning | 37.00% | ~226,688 |
-| The first of many | 32.00% | ~196,054 |
-| Positive word of mouth | 18.00% | ~110,281 |
-| Lawn in the U.S.A. | 15.00% | ~91,900 |
-| Blade Runner | 9.00% | ~55,140 |
-| Credible | 7.00% | ~42,887 |
-| Teamwork makes the dream work | 6.00% | ~36,760 |
+| The dream begins | 82.00% | ~502,400 |
+| Every story has a beginning | 37.00% | ~226,693 |
+| The first of many | 32.00% | ~196,059 |
+| Positive word of mouth | 18.00% | ~110,283 |
+| Lawn in the U.S.A. | 15.00% | ~91,902 |
+| Blade Runner | 9.00% | ~55,141 |
+| Credible | 7.00% | ~42,888 |
+| Teamwork makes the dream work | 6.00% | ~36,761 |
 | Bigger and better | 4.00% | ~24,507 |
 | Aggressive expansion | 4.00% | ~24,507 |
 | Where there's muck there's brass | 3.00% | ~18,380 |
 | Size isn't everything | 3.00% | ~18,380 |
 | Established | 3.00% | ~18,380 |
-| Mighty Mowing Park Ranger | 2.00% | ~12,253 |
-| Close shave | 2.00% | ~12,253 |
-| Every good deed… | 2.00% | ~12,253 |
-| Leaner and meaner | 2.00% | ~12,253 |
-| First step on the ladder | 2.00% | ~12,253 |
-| Trusted | 2.00% | ~12,253 |
+| Mighty Mowing Park Ranger | 2.00% | ~12,254 |
+| Close shave | 2.00% | ~12,254 |
+| Every good deed… | 2.00% | ~12,254 |
+| Leaner and meaner | 2.00% | ~12,254 |
+| First step on the ladder | 2.00% | ~12,254 |
+| Trusted | 2.00% | ~12,254 |
 | Fighting on all fronts | 1.00% | ~6,127 |
 | The top of the mountain | 1.00% | ~6,127 |
 | Earn your stripes | 0.90% | ~5,514 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~613 |
 | Mo mowers, mo problems | 0.10% | ~613 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612,670 (Ranked 19)  
+Progressed: 612,683 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 9 (0.00%) (Ranked 198)
 | 2023-05-10 | 611,915 | 9 |
 | 2023-05-11 | 612,229 | 9 |
 | 2023-05-12 | 612,613 | 9 |
-| 2023-05-13 | 612,670 | 9 |
+| 2023-05-13 | 612,683 | 9 |
 ## Awards
 Max (Quickly Understood Controls): 179  (Ranked 269)  
 Sum: 957 (Ranked 229)  

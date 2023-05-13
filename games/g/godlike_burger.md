@@ -24,8 +24,8 @@ Rating: 4.23 (Ranked 794)
 | PRUDENT | 12.00% | ~32 |
 | PATTY-KILLER | 11.00% | ~30 |
 | GOURMET | 10.00% | ~27 |
+| SCATTERBRAIN | 9.00% | ~24 |
 | EXPERIMENTALIST | 8.00% | ~22 |
-| SCATTERBRAIN | 8.00% | ~22 |
 | TASTE UNTASTY | 5.00% | ~14 |
 | HIGH TECHNOLOGIES | 4.00% | ~11 |
 | CORRUPTIONIST | 3.00% | ~8 |

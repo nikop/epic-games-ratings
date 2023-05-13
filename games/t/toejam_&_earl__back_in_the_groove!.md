@@ -7,15 +7,15 @@ Rating: 4.32 (Ranked 741)
 | ---- | ---------- | ----- |
 | Food Taster | 8.00% | ~4,350 |
 | Fall Fest | 7.00% | ~3,806 |
-| Thrill Seeker | 6.00% | ~3,262 |
+| Thrill Seeker | 6.00% | ~3,263 |
 | Flying Present Catcher | 5.00% | ~2,719 |
 | HFZ Goober | 5.00% | ~2,719 |
 | Sunflower Master | 4.00% | ~2,175 |
-| Backer Visitor | 2.00% | ~1,087 |
-| Hi Fiver | 2.00% | ~1,087 |
-| Hate That Randomizer | 2.00% | ~1,087 |
-| Feet on Funkotron | 2.00% | ~1,087 |
-| A Timely Splash | 2.00% | ~1,087 |
+| Backer Visitor | 2.00% | ~1,088 |
+| Hi Fiver | 2.00% | ~1,088 |
+| Hate That Randomizer | 2.00% | ~1,088 |
+| Feet on Funkotron | 2.00% | ~1,088 |
+| A Timely Splash | 2.00% | ~1,088 |
 | Elf Chaser | 1.00% | ~544 |
 | Fool Me Twice | 1.00% | ~544 |
 | Old School Jammin' | 1.00% | ~544 |
@@ -26,11 +26,11 @@ Rating: 4.32 (Ranked 741)
 | Beaten By A Little Girl | 0.60% | ~326 |
 | Teamwork Rules | 0.60% | ~326 |
 | Totally Bummed Again | 0.60% | ~326 |
-| Boom Box Baby | 0.40% | ~217 |
-| I Can't Believe I've Done This | 0.40% | ~217 |
-| Harsh Love | 0.40% | ~217 |
-| Made It Through | 0.40% | ~217 |
-| Piece O' Cake | 0.40% | ~217 |
+| Boom Box Baby | 0.40% | ~218 |
+| I Can't Believe I've Done This | 0.40% | ~218 |
+| Harsh Love | 0.40% | ~218 |
+| Made It Through | 0.40% | ~218 |
+| Piece O' Cake | 0.40% | ~218 |
 | Map Explorer | 0.30% | ~163 |
 | Flying Present Ultimate Master | 0.30% | ~163 |
 | Ridiculously Generous | 0.30% | ~163 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 741)
 | Why Do I Keep Doing That? | 0.10% | ~54 |
 | Hey, You Did It! | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,372 (Ranked 72)  
+Progressed: 54,376 (Ranked 72)  
 Completed: 4 (0.01%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 4 (0.01%) (Ranked 190)
 | 2023-05-10 | 54,325 | 4 |
 | 2023-05-11 | 54,343 | 4 |
 | 2023-05-12 | 54,365 | 4 |
-| 2023-05-13 | 54,372 | 4 |
+| 2023-05-13 | 54,376 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

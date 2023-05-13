@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -368,11 +368,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9201,
-  "EOS_Completed": 204,
-  "EOS_NewPlayers": 603,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_Progressed": 9205,
+  "EOS_Completed": 205,
+  "EOS_NewPlayers": 604,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -2328,6 +2328,11 @@
       "Time": "2023-05-13T03:05:10.8192743+00:00",
       "NumProgressed": 9201,
       "NumCompleted": 204
+    },
+    {
+      "Time": "2023-05-13T04:06:39.8070684+00:00",
+      "NumProgressed": 9205,
+      "NumCompleted": 205
     }
   ],
   "TotalAchievements": 20,
@@ -2339,7 +2344,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -2355,7 +2360,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -2371,7 +2376,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -2379,7 +2384,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -2395,7 +2400,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -2403,7 +2408,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "FOUND_ERIN",
@@ -2435,7 +2440,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -2451,7 +2456,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "INTRO_FINISHED",
@@ -2459,7 +2464,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 6993
+      "UsersEstimate": 6996
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2467,7 +2472,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "NORTH_FINISHED",
@@ -2475,7 +2480,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -2491,22 +2496,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9201,
-      "Completed": 204
+      "Progressed": 9205,
+      "Completed": 205
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-13T03:05:10.8192735+00:00",
+  "LastChanged_Achievements": "2023-05-13T04:06:39.8070677+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.8345922+00:00",
-  "LastUpdate_Ratings": "2023-05-13T02:59:28.9085978+00:00",
-  "LastUpdate_Achievements": "2023-05-13T03:05:10.819307+00:00"
+  "LastUpdate_Ratings": "2023-05-13T04:00:48.9345754+00:00",
+  "LastUpdate_Achievements": "2023-05-13T04:06:39.8070964+00:00"
 }

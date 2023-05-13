@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -375,9 +375,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 209536,
+  "EOS_Progressed": 209539,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2420,6 +2420,11 @@
       "Time": "2023-05-13T03:04:43.8166786+00:00",
       "NumProgressed": 209536,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-13T04:06:03.2102884+00:00",
+      "NumProgressed": 209539,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 34,
@@ -2439,7 +2444,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 52384
+      "UsersEstimate": 52385
     },
     {
       "ID": "ACH_BASE_11",
@@ -2455,7 +2460,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "ACH_BASE_13",
@@ -2471,7 +2476,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "ACH_BASE_16",
@@ -2479,7 +2484,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "ACH_BASE_17",
@@ -2487,7 +2492,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "ACH_BASE_18",
@@ -2495,7 +2500,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "ACH_BASE_19",
@@ -2599,7 +2604,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "ACH_BASE_30",
@@ -2679,7 +2684,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25144
+      "UsersEstimate": 25145
     },
     {
       "ID": "ACH_BASE_8",
@@ -2687,7 +2692,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "ACH_BASE_9",
@@ -2695,14 +2700,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 209536,
+      "Progressed": 209539,
       "Completed": 2
     }
   ],
@@ -2710,8 +2715,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-05-11T19:58:42.8150734+00:00",
-  "LastChanged_Achievements": "2023-05-13T03:04:43.8166776+00:00",
+  "LastChanged_Achievements": "2023-05-13T04:06:03.2102878+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:25.5662141+00:00",
-  "LastUpdate_Ratings": "2023-05-13T02:58:07.3829939+00:00",
-  "LastUpdate_Achievements": "2023-05-13T03:04:43.8167284+00:00"
+  "LastUpdate_Ratings": "2023-05-13T03:58:45.6122676+00:00",
+  "LastUpdate_Achievements": "2023-05-13T04:06:03.2103324+00:00"
 }

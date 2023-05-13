@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forced to Kill | 71.00% | ~12 |
-| Alone with Them | 59.00% | ~10 |
-| Safe...For now? | 35.00% | ~6 |
-| A Night To Remember | 29.00% | ~5 |
-| The Cultists | 24.00% | ~4 |
-| Alone In The Dark | 18.00% | ~3 |
-| Open Sesame | 18.00% | ~3 |
-| Lover of classics | 12.00% | ~2 |
-| Them and Us | 12.00% | ~2 |
-| OUTRAGE | 12.00% | ~2 |
-| Parasite Exterminated | 12.00% | ~2 |
-| The bus stop | 12.00% | ~2 |
-| This Coffin Has Your Name On It! | 12.00% | ~2 |
-| What have I done!? | 12.00% | ~2 |
+| Forced to Kill | 72.00% | ~13 |
+| Alone with Them | 61.00% | ~11 |
+| Safe...For now? | 33.00% | ~6 |
+| A Night To Remember | 28.00% | ~5 |
+| The Cultists | 22.00% | ~4 |
+| Alone In The Dark | 17.00% | ~3 |
+| Open Sesame | 17.00% | ~3 |
+| Lover of classics | 11.00% | ~2 |
+| Them and Us | 11.00% | ~2 |
+| OUTRAGE | 11.00% | ~2 |
+| Parasite Exterminated | 11.00% | ~2 |
+| The bus stop | 11.00% | ~2 |
+| This Coffin Has Your Name On It! | 11.00% | ~2 |
+| What have I done!? | 11.00% | ~2 |
 | Armed To The Teeth | 6.00% | ~1 |
 | Back In Time | 6.00% | ~1 |
 | Before The Eclipse | 6.00% | ~1 |
@@ -45,15 +45,15 @@
 | Trapped | 6.00% | ~1 |
 | What A Mansion | 6.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 305)  
-Completed: 1 (5.88%) (Ranked 27)  
+Progressed: 18 (Ranked 304)  
+Completed: 1 (5.56%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-30 | 7 | 1 |
 | 2023-05-01 | 8 | 1 |
 | 2023-05-12 | 13 | 1 |
-| 2023-05-13 | 17 | 1 |
+| 2023-05-13 | 18 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -25,10 +25,10 @@
 | Aiming for a living and human city | 21.00% | ~14 |
 | City of dreams | 21.00% | ~14 |
 | Happy Christmas night! | 21.00% | ~14 |
-| Night walk along the beach | 19.00% | ~13 |
+| Night walk along the beach | 21.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68 (Ranked 267)  
-Completed: 13 (19.12%) (Ranked 7)  
+Completed: 14 (20.59%) (Ranked 6)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,6 +49,7 @@ Completed: 13 (19.12%) (Ranked 7)
 | 2023-05-10 | 66 | 12 |
 | 2023-05-11 | 68 | 12 |
 | 2023-05-12 | 68 | 13 |
+| 2023-05-13 | 68 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-29T13:00:00+00:00",
     "PcReleaseDate": "2023-04-29T13:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "level_19",
       "SetID": "dlpjnee",
       "Name": "Island 19",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "level_2",
@@ -313,17 +313,17 @@
       "ID": "level_20",
       "SetID": "dlpjnee",
       "Name": "Island 20",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "level_21",
       "SetID": "dlpjnee",
       "Name": "Island 21",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "level_22",
@@ -506,8 +506,8 @@
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "LastChanged_Achievements": "2023-05-13T03:04:44.4992174+00:00",
+  "LastChanged_Achievements": "2023-05-13T04:06:04.1613772+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:34.7730428+00:00",
-  "LastUpdate_Ratings": "2023-05-13T02:57:23.1599893+00:00",
-  "LastUpdate_Achievements": "2023-05-13T03:04:44.4992496+00:00"
+  "LastUpdate_Ratings": "2023-05-13T03:57:41.2376231+00:00",
+  "LastUpdate_Achievements": "2023-05-13T04:06:04.1614085+00:00"
 }

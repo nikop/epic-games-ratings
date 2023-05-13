@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109269,
+  "EOS_Progressed": 109270,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -634,6 +634,11 @@
       "Time": "2023-05-12T12:04:44.9372637+00:00",
       "NumProgressed": 109269,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-13T04:05:48.8256242+00:00",
+      "NumProgressed": 109270,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -685,7 +690,7 @@
       "Name": "Getting Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5463
+      "UsersEstimate": 5464
     },
     {
       "ID": "15",
@@ -845,7 +850,7 @@
       "Name": "Challenge Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5463
+      "UsersEstimate": 5464
     },
     {
       "ID": "35",
@@ -916,15 +921,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109269,
+      "Progressed": 109270,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-05-13T03:04:33.1659646+00:00",
+  "LastChanged_Achievements": "2023-05-13T04:05:48.8256235+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.8590607+00:00",
-  "LastUpdate_Ratings": "2023-05-13T02:57:52.6889767+00:00",
-  "LastUpdate_Achievements": "2023-05-13T03:04:33.1660239+00:00"
+  "LastUpdate_Ratings": "2023-05-13T03:58:24.878156+00:00",
+  "LastUpdate_Achievements": "2023-05-13T04:05:48.8256544+00:00"
 }

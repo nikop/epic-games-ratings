@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1000,9 +1000,9 @@
       "ID": "ACH_GO-WITH-THE-FLOW",
       "SetID": "72olkc5",
       "Name": "Go with the Flow",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 215
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -1288,8 +1288,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-11T17:59:26.7871412+00:00",
-  "LastChanged_Achievements": "2023-05-13T03:04:40.0954267+00:00",
+  "LastChanged_Achievements": "2023-05-13T04:05:58.1871372+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-13T02:58:35.7324816+00:00",
-  "LastUpdate_Achievements": "2023-05-13T03:04:40.0954823+00:00"
+  "LastUpdate_Ratings": "2023-05-13T03:59:28.2237732+00:00",
+  "LastUpdate_Achievements": "2023-05-13T04:05:58.1871831+00:00"
 }

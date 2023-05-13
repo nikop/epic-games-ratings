@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4886,
+  "EOS_Progressed": 4887,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
@@ -988,6 +988,11 @@
       "Time": "2023-05-13T02:02:08.9278724+00:00",
       "NumProgressed": 4886,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-13T04:06:01.2839008+00:00",
+      "NumProgressed": 4887,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -999,7 +1004,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "ACH02",
@@ -1183,7 +1188,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH25",
@@ -1230,7 +1235,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4886,
+      "Progressed": 4887,
       "Completed": 26
     }
   ],
@@ -1238,8 +1243,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-13T03:04:42.2961084+00:00",
+  "LastChanged_Achievements": "2023-05-13T04:06:01.2839002+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:51.3816793+00:00",
-  "LastUpdate_Ratings": "2023-05-13T02:57:38.0284764+00:00",
-  "LastUpdate_Achievements": "2023-05-13T03:04:42.2962451+00:00"
+  "LastUpdate_Ratings": "2023-05-13T03:58:01.7264569+00:00",
+  "LastUpdate_Achievements": "2023-05-13T04:06:01.2839445+00:00"
 }

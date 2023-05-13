@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2577,
+  "EOS_Progressed": 2579,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-05-12T23:06:03.7283385+00:00",
       "NumProgressed": 2577,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-13T04:06:45.8502245+00:00",
+      "NumProgressed": 2579,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -653,9 +658,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 335
     },
     {
       "ID": "bonus2",
@@ -663,7 +668,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "bonus3",
@@ -703,7 +708,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2321
     },
     {
       "ID": "campaign10",
@@ -711,7 +716,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "campaign11",
@@ -727,7 +732,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "campaign13",
@@ -743,7 +748,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "campaign15",
@@ -791,7 +796,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "campaign20",
@@ -805,9 +810,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1676
     },
     {
       "ID": "campaign4",
@@ -815,7 +820,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "campaign5",
@@ -918,7 +923,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2577,
+      "Progressed": 2579,
       "Completed": 9
     }
   ],
@@ -926,8 +931,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-13T03:05:15.3602896+00:00",
+  "LastChanged_Achievements": "2023-05-13T04:06:45.8502238+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-13T02:59:31.9229462+00:00",
-  "LastUpdate_Achievements": "2023-05-13T03:05:15.3603175+00:00"
+  "LastUpdate_Ratings": "2023-05-13T04:00:52.417768+00:00",
+  "LastUpdate_Achievements": "2023-05-13T04:06:45.8502554+00:00"
 }

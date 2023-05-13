@@ -3,7 +3,7 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 6.49,
+  "EOS_Completed_Percentage": 6.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1032,6 +1032,11 @@
       "Time": "2023-05-13T02:02:03.9471928+00:00",
       "NumProgressed": 616,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-13T04:05:55.2427766+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -1043,7 +1048,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "10",
@@ -1051,7 +1056,7 @@
       "Name": "Piece of Cake",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "11",
@@ -1123,7 +1128,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "2",
@@ -1131,7 +1136,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "20",
@@ -1187,7 +1192,7 @@
       "Name": "Ancient Wisdom",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "27",
@@ -1195,7 +1200,7 @@
       "Name": "Frog Facts!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "28",
@@ -1203,7 +1208,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "29",
@@ -1211,7 +1216,7 @@
       "Name": "All That Glistens",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "3",
@@ -1265,9 +1270,9 @@
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 228
     },
     {
       "ID": "36",
@@ -1347,7 +1352,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "45",
@@ -1355,7 +1360,7 @@
       "Name": "Extraordinary!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "46",
@@ -1371,7 +1376,7 @@
       "Name": "Crowned",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "48",
@@ -1379,7 +1384,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "49",
@@ -1395,7 +1400,7 @@
       "Name": "Well Rested",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "50",
@@ -1411,7 +1416,7 @@
       "Name": "Going Home",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "7",
@@ -1427,7 +1432,7 @@
       "Name": "Tragic Brave",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "9",
@@ -1442,7 +1447,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 40
     }
   ],
@@ -1450,8 +1455,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-13T03:04:37.7763406+00:00",
+  "LastChanged_Achievements": "2023-05-13T04:05:55.2427758+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-13T02:57:14.4657495+00:00",
-  "LastUpdate_Achievements": "2023-05-13T03:04:37.7764288+00:00"
+  "LastUpdate_Ratings": "2023-05-13T03:57:26.1983015+00:00",
+  "LastUpdate_Achievements": "2023-05-13T04:05:55.2428258+00:00"
 }
