@@ -160,4 +160,3 @@
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 2023-04-13 |
 | [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 2019-04-29 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 2023-04-13 |
-| [Dogfight](games/d/dogfight.md) | 2023-04-12 | 2023-04-12 |

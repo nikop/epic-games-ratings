@@ -89,7 +89,7 @@
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 491 |
 | 78 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 491 |
 | 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,442 | 116 |
-| 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 347 | 211 |
+| 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 348 | 211 |
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 491 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 520 | 180 |
 | 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 720 | 153 |
@@ -235,7 +235,7 @@
 | 214 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 773 | 146 |
 | 234 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,320 | 80 |
 | 234 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 491 |
-| 234 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,018 | 88 |
+| 234 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,022 | 88 |
 | 234 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 491 |
 | 234 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 644 | 161 |
 | 234 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 365 |
@@ -513,7 +513,7 @@
 | 502 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 275 | 230 |
 | 502 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 491 |
 | 502 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.52 | 63 | 373 |
-| 502 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 149 | 284 |
+| 502 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 150 | 284 |
 | 502 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 491 |
 | 516 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,567 | 112 |
 | 516 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 334 |
@@ -870,7 +870,7 @@
 | 867 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 268 |
 | 867 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 491 |
 | 870 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,877 | 63 |
-| 870 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 407 | 197 |
+| 870 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 408 | 197 |
 | 872 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 491 |
 | 872 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 491 |
 | 872 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 491 |

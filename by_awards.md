@@ -87,7 +87,7 @@
 | 85 | [Dead Island 2](games/d/dead_island_2.md) | 3,095 | 4.54 | 477 |
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,062 | 4.57 | 429 |
 | 87 | [Hades](games/h/hades.md) | 3,041 | 4.92 | 3 |
-| 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,018 | 4.68 | 234 |
+| 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,022 | 4.68 | 234 |
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,706 | 4.77 | 104 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,591 | 4.67 | 256 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,474 | 4.61 | 352 |
@@ -196,7 +196,7 @@
 | 194 | [Football Manager 2023](games/f/football_manager_2023.md) | 416 | 4.75 | 126 |
 | 195 | [Prison Architect](games/p/prison_architect.md) | 412 | 4.61 | 352 |
 | 196 | [Loop Hero](games/l/loop_hero.md) | 410 | 4.68 | 234 |
-| 197 | [Second Extinction™](games/s/second_extinction™.md) | 407 | 4.06 | 870 |
+| 197 | [Second Extinction™](games/s/second_extinction™.md) | 408 | 4.06 | 870 |
 | 198 | [RimWorld](games/r/rimworld.md) | 406 | 4.89 | 11 |
 | 199 | [Into the Breach](games/i/into_the_breach.md) | 405 | 4.84 | 49 |
 | 200 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 400 | 4.74 | 140 |
@@ -210,7 +210,7 @@
 | 207 | [Nuclear Throne](games/n/nuclear_throne.md) | 367 | 4.79 | 89 |
 | 209 | [For The King](games/f/for_the_king.md) | 363 | 4.70 | 192 |
 | 210 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 350 | 4.61 | 352 |
-| 211 | [Dishonored 2](games/d/dishonored_2.md) | 347 | 4.79 | 89 |
+| 211 | [Dishonored 2](games/d/dishonored_2.md) | 348 | 4.79 | 89 |
 | 212 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 342 | 4.32 | 741 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 337 | 4.70 | 192 |
 | 214 | [Inscryption](games/i/inscryption.md) | 330 | 4.86 | 27 |
@@ -283,7 +283,7 @@
 | 281 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 158 | 4.80 | 78 |
 | 282 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 154 | 4.57 | 429 |
 | 283 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 152 | 4.65 | 289 |
-| 284 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 149 | 4.52 | 502 |
+| 284 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 150 | 4.52 | 502 |
 | 285 | [shapez](games/s/shapez.md) | 148 | 4.71 | 178 |
 | 286 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 147 | 4.52 | 502 |
 | 287 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 143 | 4.77 | 104 |
