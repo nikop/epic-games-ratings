@@ -64,7 +64,7 @@
   "Tags": [],
   "EOS_Progressed": 982,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1571,9 +1571,9 @@
       "ID": "crystalmining",
       "SetID": "3nl4bcg",
       "Name": "Crystal Mining",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "dailyquestcompletionist",
@@ -2100,8 +2100,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:02:22.4662256+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:04:53.6618862+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:54:26.6591044+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:02:22.4662922+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:57:40.777458+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:04:53.6619779+00:00"
 }

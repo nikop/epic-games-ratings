@@ -53,11 +53,11 @@ Rating: 3.64 (Ranked 917)
 | Dragon Slayer | 0.80% | ~8 |
 | Engineer Mastery | 0.70% | ~7 |
 | Weekly Quest Completionist | 0.70% | ~7 |
+| Crystal Mining | 0.60% | ~6 |
 | Legendary | 0.60% | ~6 |
 | Lock And Load | 0.60% | ~6 |
 | Sailor | 0.60% | ~6 |
 | Blueprint Upgrades | 0.50% | ~5 |
-| Crystal Mining | 0.50% | ~5 |
 | Enchanting skill | 0.50% | ~5 |
 | The Alchemist | 0.50% | ~5 |
 | Transmute | 0.50% | ~5 |

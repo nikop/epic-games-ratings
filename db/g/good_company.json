@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4741,
+  "EOS_Progressed": 4742,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2023-05-12T05:05:02.4728956+00:00",
       "NumProgressed": 4741,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T03:05:04.5742102+00:00",
+      "NumProgressed": 4742,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -682,7 +687,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "ach_campaign_progress6",
@@ -722,7 +727,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ach_campaign_special10",
@@ -922,7 +927,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ach_frp_many_modules",
@@ -1177,15 +1182,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4741,
+      "Progressed": 4742,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:02:35.348487+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:05:04.5742094+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:55.3006294+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:55:30.8581392+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:02:35.3485527+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:58:32.2647705+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:05:04.5743004+00:00"
 }

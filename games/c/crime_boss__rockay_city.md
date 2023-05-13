@@ -1,24 +1,24 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 895)  
+Rating: 3.94 (Ranked 894)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,723 |
-| First One’s Free | 64.00% | ~38,333 |
-| Neophyte Ninja | 50.00% | ~29,948 |
-| Too Old for This | 47.00% | ~28,151 |
-| Fancy Pants | 35.00% | ~20,963 |
-| Case Closed | 34.00% | ~20,364 |
-| King of the Hill | 33.00% | ~19,765 |
-| Underworld Initiate | 29.00% | ~17,370 |
-| Roid Ranger | 21.00% | ~12,578 |
-| True Player | 19.00% | ~11,380 |
-| Off the Rocks | 18.00% | ~10,781 |
-| Raider’s Ruin | 16.00% | ~9,583 |
-| Dragonslayer | 16.00% | ~9,583 |
-| Hidden Sonata | 13.00% | ~7,786 |
+| Downed but Not Outed | 73.00% | ~43,728 |
+| First One’s Free | 64.00% | ~38,337 |
+| Neophyte Ninja | 50.00% | ~29,950 |
+| Too Old for This | 47.00% | ~28,153 |
+| Fancy Pants | 35.00% | ~20,965 |
+| Case Closed | 34.00% | ~20,366 |
+| King of the Hill | 33.00% | ~19,767 |
+| Underworld Initiate | 29.00% | ~17,371 |
+| Roid Ranger | 21.00% | ~12,579 |
+| True Player | 19.00% | ~11,381 |
+| Off the Rocks | 18.00% | ~10,782 |
+| Raider’s Ruin | 16.00% | ~9,584 |
+| Dragonslayer | 16.00% | ~9,584 |
+| Hidden Sonata | 13.00% | ~7,787 |
 | Classy Joint | 10.00% | ~5,990 |
 | Rockay Rex | 10.00% | ~5,990 |
 | Track Star | 9.00% | ~5,391 |
@@ -40,10 +40,10 @@ Rating: 3.93 (Ranked 895)
 | Impossible Dreamer | 2.00% | ~1,198 |
 | Rockay Knight | 1.00% | ~599 |
 | Talent Scout | 1.00% | ~599 |
-| Geek Out | 0.50% | ~299 |
+| Geek Out | 0.50% | ~300 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,895 (Ranked 68)  
+Progressed: 59,901 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,16 +66,16 @@ Completed: 29 (0.05%) (Ranked 171)
 | 2023-05-10 | 59,655 | 28 |
 | 2023-05-11 | 59,781 | 29 |
 | 2023-05-12 | 59,889 | 29 |
-| 2023-05-13 | 59,895 | 29 |
+| 2023-05-13 | 59,901 | 29 |
 ## Awards
 Max (Highly Recommended): 256  (Ranked 237)  
-Sum: 1,200 (Ranked 220)  
-Diff (max vs sum): 17  
+Sum: 1,205 (Ranked 219)  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 256 |
 | This game has Amazing Characters | 245 |
-| This game has Diverse Characters | 238 |
+| This game has Diverse Characters | 243 |
 | This game has Quickly Understood Controls | 231 |
 | This game has Challenging Combat | 230 |
 | This game is Great for Quick Sessions | 70 |
@@ -129,3 +129,4 @@ Diff (max vs sum): 17
 | 2023-05-10 | 3.94 | 249 | 1,167 |
 | 2023-05-11 | 3.94 | 249 | 1,179 |
 | 2023-05-12 | 3.94 | 256 | 1,200 |
+| 2023-05-13 | 3.94 | 256 | 1,205 |

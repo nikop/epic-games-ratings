@@ -19,8 +19,8 @@
 | ACE DEFENDER | 7.00% | ~170 |
 | THE EYE OF THE HUNTER | 7.00% | ~170 |
 | TRAINING HARD | 6.00% | ~146 |
+| ACE BRAWLER | 6.00% | ~146 |
 | LEGENDARY HERO | 6.00% | ~146 |
-| ACE BRAWLER | 5.00% | ~121 |
 | MASTER | 4.00% | ~97 |
 | FRIENDLY | 3.00% | ~73 |
 | ACE TRICKSTER | 3.00% | ~73 |

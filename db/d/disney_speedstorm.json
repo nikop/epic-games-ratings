@@ -1361,9 +1361,9 @@
       "ID": "18",
       "SetID": "9p3jgda",
       "Name": "ACE BRAWLER",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 146
     },
     {
       "ID": "19",
@@ -1487,8 +1487,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:02:23.1691939+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:04:54.2118615+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:55:25.9996423+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:02:23.1692145+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:58:27.9777217+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:04:54.2118955+00:00"
 }

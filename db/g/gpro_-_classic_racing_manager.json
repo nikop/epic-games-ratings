@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -106,6 +106,11 @@
       "Time": "2023-05-12T22:01:51.6189504+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T03:00:12.3676796+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -179,9 +184,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -355,7 +360,7 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -619,7 +624,7 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "76k7b7p",
       "Name": "No brakes",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -1412,14 +1417,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-13T01:57:32.500352+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:00:12.3676788+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:05.5779498+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:53:33.9274534+00:00",
-  "LastUpdate_Achievements": "2023-05-13T01:57:32.5006189+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:56:58.4153709+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:00:12.3681727+00:00"
 }

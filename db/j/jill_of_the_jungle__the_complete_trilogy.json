@@ -4,7 +4,7 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 618,
+  "EOS_Progressed": 620,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 7.44,
+  "EOS_Completed_Percentage": 7.42,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -1349,6 +1349,11 @@
       "Time": "2023-05-13T02:02:05.6958189+00:00",
       "NumProgressed": 618,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-05-13T03:04:39.2614563+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 5,
@@ -1360,7 +1365,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 618
+      "UsersEstimate": 620
     },
     {
       "ID": "2",
@@ -1384,7 +1389,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "5",
@@ -1399,7 +1404,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 618,
+      "Progressed": 620,
       "Completed": 46
     }
   ],
@@ -1407,8 +1412,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:02:05.6958185+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:04:39.2614554+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.3085445+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:53:39.5416298+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:02:05.6958303+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:57:04.3597604+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:04:39.2614786+00:00"
 }

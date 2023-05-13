@@ -6,21 +6,21 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,565 |
-| Right Back At Ya | 37.00% | ~295,760 |
-| The Lovers | 32.00% | ~255,792 |
-| Stanislavski's Method | 27.00% | ~215,825 |
-| The Wheel of Fortune | 25.00% | ~199,838 |
-| The Hermit | 23.00% | ~183,851 |
-| True Soldier | 22.00% | ~175,857 |
-| Christmas Tree Attack | 21.00% | ~167,864 |
-| Legend of The Afterlife | 21.00% | ~167,864 |
-| The High Priestess | 20.00% | ~159,870 |
+| The Fool | 67.00% | ~535,568 |
+| Right Back At Ya | 37.00% | ~295,761 |
+| The Lovers | 32.00% | ~255,794 |
+| Stanislavski's Method | 27.00% | ~215,826 |
+| The Wheel of Fortune | 25.00% | ~199,839 |
+| The Hermit | 23.00% | ~183,852 |
+| True Soldier | 22.00% | ~175,858 |
+| Christmas Tree Attack | 21.00% | ~167,865 |
+| Legend of The Afterlife | 21.00% | ~167,865 |
+| The High Priestess | 20.00% | ~159,871 |
 | Life of the Road | 19.00% | ~151,877 |
 | Full Body Conversion | 17.00% | ~135,890 |
-| The World | 16.00% | ~127,896 |
+| The World | 16.00% | ~127,897 |
 | Bushido and Chill | 15.00% | ~119,903 |
-| True Warrior | 14.00% | ~111,909 |
+| True Warrior | 14.00% | ~111,910 |
 | To Protect and Serve | 13.00% | ~103,916 |
 | Gun Fu | 13.00% | ~103,916 |
 | Master Crafter | 13.00% | ~103,916 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,994 |
 | Rough Landing | 0.40% | ~3,197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,351 (Ranked 11)  
+Progressed: 799,355 (Ranked 11)  
 Completed: 1,592 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 1,592 (0.20%) (Ranked 137)
 | 2023-05-10 | 799,039 | 1,585 |
 | 2023-05-11 | 799,187 | 1,588 |
 | 2023-05-12 | 799,337 | 1,592 |
-| 2023-05-13 | 799,351 | 1,592 |
+| 2023-05-13 | 799,355 | 1,592 |
 ## Awards
 Max (Character Customization): 64,063  (Ranked 9)  
 Sum: 167,941 (Ranked 13)  

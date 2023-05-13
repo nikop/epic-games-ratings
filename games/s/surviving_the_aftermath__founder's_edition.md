@@ -6,13 +6,13 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 69.00% | ~3,585 |
+| First Step | 69.00% | ~3,586 |
 | Leader | 60.00% | ~3,118 |
 | Explorer | 53.00% | ~2,754 |
 | Healer | 53.00% | ~2,754 |
-| Aspiring Inventor | 45.00% | ~2,338 |
-| Adventurer | 41.00% | ~2,130 |
-| Famous Healer | 38.00% | ~1,974 |
+| Aspiring Inventor | 45.00% | ~2,339 |
+| Adventurer | 41.00% | ~2,131 |
+| Famous Healer | 38.00% | ~1,975 |
 | Local Leader | 35.00% | ~1,819 |
 | New Opportunities | 34.00% | ~1,767 |
 | Famous Explorer | 33.00% | ~1,715 |
@@ -33,12 +33,12 @@ Number of Ratings: 836  (23.09.2022)
 | War Never Changes | 19.00% | ~987 |
 | Rocket Surgeon | 19.00% | ~987 |
 | Big Game Hunter | 17.00% | ~883 |
-| Friendly | 16.00% | ~831 |
-| Spreading Influence | 16.00% | ~831 |
-| Around the World | 15.00% | ~779 |
-| Bookworm | 14.00% | ~727 |
-| Famous Adventurer | 13.00% | ~675 |
-| Prepared for Anything | 13.00% | ~675 |
+| Friendly | 16.00% | ~832 |
+| Spreading Influence | 16.00% | ~832 |
+| Around the World | 15.00% | ~780 |
+| Bookworm | 14.00% | ~728 |
+| Famous Adventurer | 13.00% | ~676 |
+| Prepared for Anything | 13.00% | ~676 |
 | Big Catastrofan | 12.00% | ~624 |
 | It's a Finnish Thing | 10.00% | ~520 |
 | Sky Burial | 9.00% | ~468 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~10 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,196 (Ranked 120)  
+Progressed: 5,197 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,11 +89,11 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-10 | 5,125 | 0 |
 | 2023-05-11 | 5,157 | 0 |
 | 2023-05-12 | 5,192 | 0 |
-| 2023-05-13 | 5,196 | 0 |
+| 2023-05-13 | 5,197 | 0 |
 ## Awards
-Max (Extremely Fun): 99  (Ranked 323)  
+Max (Extremely Fun): 99  (Ranked 324)  
 Sum: 651 (Ranked 268)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |

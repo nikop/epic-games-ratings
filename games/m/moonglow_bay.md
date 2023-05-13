@@ -10,11 +10,12 @@
 | An Ancient Feud | 0.80% | ~3 |
 | Selfish Shellfish | 0.80% | ~3 |
 | They Can Change | 0.50% | ~2 |
+| The Heart of Moonglow | 0.50% | ~2 |
 | The Art of Conversation | 0.50% | ~2 |
 | Aquatic Expansion | 0.50% | ~2 |
 | Wise and Floofy | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |
-| The Heart of Moonglow | 0.30% | ~1 |
+| From Beyond | 0.30% | ~1 |
 | Ocean Wings | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
 | Then Peel Me A Grape | 0.30% | ~1 |
@@ -32,7 +33,6 @@
 | Like a Fairytale | 0.00% | ~0 |
 | From the Underworld | 0.00% | ~0 |
 | The Stuff of Legend | 0.00% | ~0 |
-| From Beyond | 0.00% | ~0 |
 | Collection of Confection | 0.00% | ~0 |
 | Ode to a Blacksmith | 0.00% | ~0 |
 | Expedition | 0.00% | ~0 |

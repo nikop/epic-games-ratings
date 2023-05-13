@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 80,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -334,6 +334,11 @@
       "Time": "2023-05-13T02:02:21.2241615+00:00",
       "NumProgressed": 79,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T03:04:52.5994721+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -399,7 +404,7 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 29
     },
@@ -519,7 +524,7 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
       "UsersEstimate": 64
     },
@@ -567,7 +572,7 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
       "UsersEstimate": 25
     },
@@ -599,7 +604,7 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 37
     },
@@ -664,7 +669,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 0
     }
   ],
@@ -672,8 +677,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:02:21.2241611+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:04:52.5994714+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:21.5130518+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:54:53.9598829+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:02:21.2241868+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:58:04.11231+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:04:52.5995601+00:00"
 }

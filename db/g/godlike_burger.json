@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -122,6 +122,11 @@
       "Time": "2023-05-11T12:04:48.3803456+00:00",
       "NumProgressed": 269,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T03:04:45.8179834+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -141,7 +146,7 @@
       "Name": "CELEBRITY",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -157,7 +162,7 @@
       "Name": "CRIMINAL",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "GB_DEBTOR",
@@ -211,9 +216,9 @@
       "ID": "GB_HELLS_KITCHEN",
       "SetID": "8ga3kd9",
       "Name": "HELL\u0027S KITCHEN",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -285,7 +290,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -333,7 +338,7 @@
       "Name": "TASTE UNTASTY",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GB_TRAVELER",
@@ -349,14 +354,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 1
     }
   ],
@@ -364,8 +369,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-03-31T05:57:15.2354538+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:02:13.1926852+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:04:45.8179824+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.2737606+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:54:48.1637413+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:02:13.1927015+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:57:57.9007693+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:04:45.8180055+00:00"
 }

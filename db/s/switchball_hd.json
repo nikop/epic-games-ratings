@@ -2,9 +2,9 @@
   "ID": "73c5297403d440f69cc7418a75df293d",
   "Name": "Switchball HD",
   "ProductSlug": "switchball-hd-6d3802",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -64,6 +64,11 @@
       "Time": "2023-05-13T02:01:57.2005305+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T03:04:32.0384879+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -81,7 +86,7 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -121,7 +126,7 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 58,
+      "Percentage": 54,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -146,13 +151,13 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:01:57.2005301+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:04:32.0384868+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:53:39.6040798+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:01:57.200538+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:57:04.4062832+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:04:32.0384968+00:00"
 }

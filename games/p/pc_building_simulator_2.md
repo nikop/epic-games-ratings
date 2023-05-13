@@ -5,43 +5,43 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,746 |
+| Bootstrapping | 75.00% | ~118,747 |
 | Shine On | 70.00% | ~110,830 |
-| On the Job | 69.00% | ~109,246 |
-| Get Stuck In | 68.00% | ~107,663 |
-| Room for Expansion | 68.00% | ~107,663 |
-| Sales Pitch | 65.00% | ~102,913 |
-| Chill Out | 65.00% | ~102,913 |
-| Tinker | 61.00% | ~96,580 |
+| On the Job | 69.00% | ~109,247 |
+| Get Stuck In | 68.00% | ~107,664 |
+| Room for Expansion | 68.00% | ~107,664 |
+| Sales Pitch | 65.00% | ~102,914 |
+| Chill Out | 64.00% | ~101,331 |
+| Tinker | 61.00% | ~96,581 |
 | Grand Designs | 60.00% | ~94,997 |
 | Hot Stuff | 59.00% | ~93,414 |
-| MOAR RGB | 54.00% | ~85,497 |
+| MOAR RGB | 54.00% | ~85,498 |
 | Dream Theme | 46.00% | ~72,831 |
 | The Customer is King | 45.00% | ~71,248 |
-| Working Hard | 44.00% | ~69,664 |
+| Working Hard | 44.00% | ~69,665 |
 | On the Bench | 42.00% | ~66,498 |
 | The More the Merrier | 42.00% | ~66,498 |
 | Mix and Match | 38.00% | ~60,165 |
 | Recycler | 38.00% | ~60,165 |
-| Foot in the Door | 37.00% | ~58,581 |
+| Foot in the Door | 37.00% | ~58,582 |
 | Very Imported PC | 36.00% | ~56,998 |
 | Full Throttle | 34.00% | ~53,832 |
 | Pimp My Rig | 32.00% | ~50,665 |
 | Repair Master | 32.00% | ~50,665 |
 | Local Hero | 28.00% | ~44,332 |
-| Broken to Smokin' | 26.00% | ~41,165 |
-| Workaholic | 26.00% | ~41,165 |
+| Broken to Smokin' | 26.00% | ~41,166 |
+| Workaholic | 26.00% | ~41,166 |
 | Thanks Jeff | 25.00% | ~39,582 |
 | Cinematic | 24.00% | ~37,999 |
 | Bench Warmer | 24.00% | ~37,999 |
 | Gift of the Gab | 24.00% | ~37,999 |
 | Salvage Squad | 24.00% | ~37,999 |
-| On the Ladder | 23.00% | ~36,415 |
-| Stick With It | 23.00% | ~36,415 |
+| On the Ladder | 23.00% | ~36,416 |
+| Stick With It | 23.00% | ~36,416 |
 | Variations on a Theme | 22.00% | ~34,832 |
 | Cowboy | 22.00% | ~34,832 |
 | Slap Happy | 21.00% | ~33,249 |
-| Supercool | 19.00% | ~30,082 |
+| Supercool | 19.00% | ~30,083 |
 | Stabiliser | 18.00% | ~28,499 |
 | This One Goes to 11 | 18.00% | ~28,499 |
 | Going Places | 15.00% | ~23,749 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,328 (Ranked 52)  
+Progressed: 158,329 (Ranked 52)  
 Completed: 102 (0.06%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 102 (0.06%) (Ranked 167)
 | 2023-05-10 | 158,248 | 102 |
 | 2023-05-11 | 158,275 | 102 |
 | 2023-05-12 | 158,322 | 102 |
-| 2023-05-13 | 158,328 | 102 |
+| 2023-05-13 | 158,329 | 102 |
 ## Awards
 Max (Great for Beginners): 605  (Ranked 164)  
 Sum: 4,544 (Ranked 127)  

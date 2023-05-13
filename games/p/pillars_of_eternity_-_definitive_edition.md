@@ -8,7 +8,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | ---- | ---------- | ----- |
 | Kickstarter Backer | 82.00% | ~882 |
 | Completed Act I | 30.00% | ~323 |
-| 5 Upgrades in Stronghold | 25.00% | ~269 |
+| 5 Upgrades in Stronghold | 26.00% | ~280 |
 | First 5 Levels of Od Nua | 24.00% | ~258 |
 | Make an Adventurer | 23.00% | ~247 |
 | Completed Act II | 16.00% | ~172 |

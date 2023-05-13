@@ -11,9 +11,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 1.00% | ~536 |
 | Vecna Out! | 1.00% | ~536 |
 | The Cursed Farmer | 1.00% | ~873 |
-| Beast Intentions | 0.80% | ~698 |
+| Beast Intentions | 0.80% | ~699 |
 | Bully for Vecna | 0.80% | ~429 |
-| The Mad Wizard | 0.80% | ~698 |
+| The Mad Wizard | 0.80% | ~699 |
 | The Ring of Regeneration | 0.70% | ~611 |
 | Were-verpowered | 0.60% | ~524 |
 | Seeking Allies | 0.50% | ~437 |
@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.40% | ~349 |
 | The Crumbling Temple | 0.40% | ~349 |
 | Exploring Port Nyanzaru | 0.40% | ~349 |
+| The Contagious Curse | 0.40% | ~349 |
 | Pure Energy | 0.40% | ~349 |
 | Maddening | 0.30% | ~262 |
 | The Silken Swamp | 0.30% | ~262 |
@@ -51,7 +52,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.30% | ~262 |
 | Flying Monkey Skulls of Doom | 0.30% | ~262 |
 | Running of the Saurs | 0.30% | ~262 |
-| The Contagious Curse | 0.30% | ~262 |
 | An Even Worse Time in Avernus | 0.30% | ~161 |
 | Escort to Waterdeep | 0.30% | ~262 |
 | Constant Banditry | 0.30% | ~262 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,306 (Ranked 59)  
+Progressed: 87,314 (Ranked 59)  
 Completed: 1,832 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,832 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,306 | 1,832 |
+| 2023-05-13 | 87,314 | 1,832 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,867 (Ranked 37)  

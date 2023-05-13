@@ -1070,9 +1070,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60822,
+  "EOS_Progressed": 60824,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2400,6 +2400,11 @@
       "Time": "2023-05-13T02:02:44.9025125+00:00",
       "NumProgressed": 60822,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-13T03:05:12.6767655+00:00",
+      "NumProgressed": 60824,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 61,
@@ -2625,9 +2630,9 @@
       "ID": "DEFEAT_OC_3",
       "SetID": "4eo5ebm",
       "Name": "Drone You Out",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 182
     },
     {
       "ID": "FREEZE_1",
@@ -2898,13 +2903,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60822,
+      "Progressed": 60824,
       "Completed": 90
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31102,
+      "Progressed": 31104,
       "Completed": 2635
     }
   ],
@@ -2912,8 +2917,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-12T23:59:53.9149757+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:02:44.902512+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:05:12.6767645+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:56:17.4617436+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:02:44.9025644+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:59:08.3946121+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:05:12.6768607+00:00"
 }

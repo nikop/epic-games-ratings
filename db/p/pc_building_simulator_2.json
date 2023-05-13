@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-12T16:00:00+00:00",
@@ -840,9 +840,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 158328,
+  "EOS_Progressed": 158329,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2270,6 +2270,11 @@
       "Time": "2023-05-13T02:02:40.8642316+00:00",
       "NumProgressed": 158328,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-05-13T03:05:09.3583091+00:00",
+      "NumProgressed": 158329,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 59,
@@ -2313,7 +2318,7 @@
       "Name": "Bootstrapping",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 118746
+      "UsersEstimate": 118747
     },
     {
       "ID": "CASH_going_places",
@@ -2329,7 +2334,7 @@
       "Name": "On the Ladder",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 36415
+      "UsersEstimate": 36416
     },
     {
       "ID": "CINEBENCH_cinematic",
@@ -2345,7 +2350,7 @@
       "Name": "Broken to Smokin\u0027",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 41165
+      "UsersEstimate": 41166
     },
     {
       "ID": "CUSTOMIZE_dream_theme",
@@ -2465,7 +2470,7 @@
       "Name": "Workaholic",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 41165
+      "UsersEstimate": 41166
     },
     {
       "ID": "JOBS_on_the_job",
@@ -2473,7 +2478,7 @@
       "Name": "On the Job",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 109246
+      "UsersEstimate": 109247
     },
     {
       "ID": "JOBS_pc_og",
@@ -2489,7 +2494,7 @@
       "Name": "Working Hard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 69664
+      "UsersEstimate": 69665
     },
     {
       "ID": "JOBS_workoholic",
@@ -2529,7 +2534,7 @@
       "Name": "Tinker",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 96580
+      "UsersEstimate": 96581
     },
     {
       "ID": "LIGHTING_moar_rgb",
@@ -2537,7 +2542,7 @@
       "Name": "MOAR RGB",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 85497
+      "UsersEstimate": 85498
     },
     {
       "ID": "LIGHTING_shine_on",
@@ -2609,7 +2614,7 @@
       "Name": "Foot in the Door",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 58581
+      "UsersEstimate": 58582
     },
     {
       "ID": "SELL_gift_of_the_gab",
@@ -2649,7 +2654,7 @@
       "Name": "Sales Pitch",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 102913
+      "UsersEstimate": 102914
     },
     {
       "ID": "SPARESNREPAIRS_recycler",
@@ -2697,7 +2702,7 @@
       "Name": "Get Stuck In",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107663
+      "UsersEstimate": 107664
     },
     {
       "ID": "STICKERS_its_a_stick_up",
@@ -2705,7 +2710,7 @@
       "Name": "Stick With It",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 36415
+      "UsersEstimate": 36416
     },
     {
       "ID": "STICKERS_slap_happy",
@@ -2729,15 +2734,15 @@
       "Name": "Room for Expansion",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 107663
+      "UsersEstimate": 107664
     },
     {
       "ID": "WATERCOOL_chill_out",
       "SetID": "9b9e43a",
       "Name": "Chill Out",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 102913
+      "UsersEstimate": 101331
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -2745,14 +2750,14 @@
       "Name": "Supercool",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 30082
+      "UsersEstimate": 30083
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 158328,
+      "Progressed": 158329,
       "Completed": 102
     }
   ],
@@ -2760,8 +2765,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-05-12T13:59:17.2457804+00:00",
-  "LastChanged_Achievements": "2023-05-13T02:02:40.8642311+00:00",
+  "LastChanged_Achievements": "2023-05-13T03:05:09.3583084+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.9884476+00:00",
-  "LastUpdate_Ratings": "2023-05-13T01:56:18.2778295+00:00",
-  "LastUpdate_Achievements": "2023-05-13T02:02:40.8642786+00:00"
+  "LastUpdate_Ratings": "2023-05-13T02:59:09.0203311+00:00",
+  "LastUpdate_Achievements": "2023-05-13T03:05:09.3583849+00:00"
 }
