@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,7 +506,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46136,
+  "EOS_Progressed": 46138,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -1496,6 +1496,11 @@
       "Time": "2023-05-13T08:05:37.3264002+00:00",
       "NumProgressed": 46136,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-13T09:05:21.2585799+00:00",
+      "NumProgressed": 46138,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1507,7 +1512,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9227
+      "UsersEstimate": 9228
     },
     {
       "ID": "02",
@@ -1523,7 +1528,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5536
+      "UsersEstimate": 5537
     },
     {
       "ID": "04",
@@ -1635,7 +1640,7 @@
       "Name": "Departure",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "18",
@@ -1755,7 +1760,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "33",
@@ -2042,21 +2047,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46136,
+      "Progressed": 46138,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9604,
+      "Progressed": 9606,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-13T08:05:37.3263996+00:00",
+  "LastChanged_Achievements": "2023-05-13T09:05:21.2585794+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-13T07:57:30.2606467+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:05:37.3265535+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:57:34.1830982+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:05:21.2586562+00:00"
 }

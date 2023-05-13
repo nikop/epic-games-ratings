@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | START | 75.00% | ~3 |
 | Ram Corporal | 75.00% | ~3 |
-| Ram Sergeant | 25.00% | ~1 |
+| Ram Sergeant | 50.00% | ~2 |
 | Ram Staff Sergeant | 25.00% | ~1 |
 | Senior warrant officer Baran 3rd class | 0.00% | ~0 |
 | Senior warrant officer Baran 4th class | 0.00% | ~0 |

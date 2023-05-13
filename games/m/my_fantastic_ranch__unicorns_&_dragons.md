@@ -4,7 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 100.00% | ~2 |
+| Let the Adventure Begin! | 100.00% | ~3 |
+| Spirit of competition | 33.00% | ~1 |
 | Creature Evolution | 0.00% | ~0 |
 | Think Positive | 0.00% | ~0 |
 | Kingdom Champions | 0.00% | ~0 |
@@ -15,7 +16,6 @@
 | Protected Nature Reserve | 0.00% | ~0 |
 | Diamonds in the Rough | 0.00% | ~0 |
 | Landscaper | 0.00% | ~0 |
-| Spirit of competition | 0.00% | ~0 |
 | Paving the Way | 0.00% | ~0 |
 | Dream Big | 0.00% | ~0 |
 | Just One More Go | 0.00% | ~0 |
@@ -30,13 +30,14 @@
 | Kindred Spirits | 0.00% | ~0 |
 | Prized Possession | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 356)  
+Progressed: 3 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-05 | 1 | 0 |
 | 2023-05-11 | 2 | 0 |
+| 2023-05-13 | 3 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

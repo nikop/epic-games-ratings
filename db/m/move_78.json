@@ -4,8 +4,8 @@
   "ProductSlug": "move-78-dbbc02",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-31T16:00:00+00:00",
     "PcReleaseDate": "2022-08-03T10:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-20T15:58:15.2788496+00:00",
   "LastChanged": "2023-04-20T15:58:15.2788496+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:01.8224313+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:00:36.8074558+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:02:18.5465509+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:00:17.6686702+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:02:10.0851088+00:00"
 }

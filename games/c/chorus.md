@@ -6,37 +6,37 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~729 |
-| Voices from the Past | 79.00% | ~678 |
-| Space Traveler | 79.00% | ~678 |
+| Another Life | 85.00% | ~730 |
+| Voices from the Past | 79.00% | ~679 |
+| Space Traveler | 79.00% | ~679 |
 | Demigod | 77.00% | ~661 |
 | The Great Destroyer | 75.00% | ~644 |
-| Shields Down | 73.00% | ~626 |
-| Helping Hand | 68.00% | ~583 |
-| Safe Home | 68.00% | ~583 |
-| Paragon | 64.00% | ~549 |
+| Shields Down | 73.00% | ~627 |
+| Helping Hand | 68.00% | ~584 |
+| Safe Home | 68.00% | ~584 |
+| Paragon | 64.00% | ~550 |
 | Old Days Born Anew | 63.00% | ~541 |
 | Full Arsenal | 58.00% | ~498 |
-| Controlled Demolition | 56.00% | ~480 |
-| Payback | 54.00% | ~463 |
+| Controlled Demolition | 56.00% | ~481 |
+| Payback | 54.00% | ~464 |
 | Born to Drift | 53.00% | ~455 |
 | Huntress | 53.00% | ~455 |
-| Relentless | 49.00% | ~420 |
-| The Path Forward | 47.00% | ~403 |
-| Disruption | 45.00% | ~386 |
-| Phoenix | 45.00% | ~386 |
-| Cult Slayer | 42.00% | ~360 |
+| Relentless | 49.00% | ~421 |
+| The Path Forward | 47.00% | ~404 |
+| Disruption | 45.00% | ~387 |
+| Phoenix | 45.00% | ~387 |
+| Cult Slayer | 42.00% | ~361 |
 | Origin | 41.00% | ~352 |
-| It Was An Accident | 40.00% | ~343 |
+| It Was An Accident | 40.00% | ~344 |
 | Set in Motion | 39.00% | ~335 |
 | In the Eye of the Storm | 38.00% | ~326 |
 | The Crimson Void | 36.00% | ~309 |
-| The Nameless Dread | 35.00% | ~300 |
+| The Nameless Dread | 35.00% | ~301 |
 | Time to Spear | 31.00% | ~266 |
-| Mastery of Weapons | 30.00% | ~257 |
-| Disciple | 30.00% | ~257 |
+| Mastery of Weapons | 30.00% | ~258 |
+| Disciple | 30.00% | ~258 |
 | Two Birds | 26.00% | ~223 |
-| Ghosts | 25.00% | ~214 |
+| Ghosts | 25.00% | ~215 |
 | Uneasy Alliance | 24.00% | ~206 |
 | Mastery of Combat | 22.00% | ~189 |
 | Mastery of Rites | 21.00% | ~180 |
@@ -44,13 +44,13 @@ Number of Ratings: 58  (23.09.2022)
 | Power Chord | 20.00% | ~172 |
 | Crash Test | 20.00% | ~172 |
 | Ascension | 19.00% | ~163 |
-| Rise as One | 18.00% | ~154 |
+| Rise as One | 18.00% | ~155 |
 | Showoff | 15.00% | ~129 |
 | Overcharged | 10.00% | ~86 |
 | Radiation Area | 10.00% | ~86 |
 | At Least You Tried | 2.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 858 (Ranked 168)  
+Progressed: 859 (Ranked 168)  
 Completed: 11 (1.28%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 11 (1.28%) (Ranked 77)
 | 2023-05-09 | 852 | 11 |
 | 2023-05-10 | 853 | 11 |
 | 2023-05-11 | 858 | 11 |
+| 2023-05-13 | 859 | 11 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 435)  
 Sum: 32 (Ranked 455)  

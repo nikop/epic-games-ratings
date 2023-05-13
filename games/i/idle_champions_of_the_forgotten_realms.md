@@ -168,7 +168,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~175 |
 | Troublesome Prisoner | 0.20% | ~175 |
 | Dark Doppelgangers | 0.20% | ~175 |
-| Faerûn's Most Wanted | 0.20% | ~107 |
 | Difficult Terrain | 0.20% | ~175 |
 | Cold & Wet | 0.20% | ~175 |
 | Madcap Adventures | 0.20% | ~175 |
@@ -176,7 +175,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.20% | ~175 |
 | Dinosaur Racing | 0.20% | ~175 |
 | Elturel Has Fallen | 0.20% | ~175 |
-| Hailstorm! | 0.20% | ~107 |
 | Resolve Amongst Chaos | 0.20% | ~175 |
 | Market Fluctuations | 0.20% | ~175 |
 | Déjà Vu All Over Again | 0.20% | ~107 |
@@ -189,7 +187,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.20% | ~107 |
 | The Wandering Emporium | 0.20% | ~107 |
 | Tiamat's Army | 0.20% | ~107 |
-| Questlines | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
 | Rime Bandits | 0.20% | ~107 |
 | Giant-Size Adventure | 0.20% | ~107 |
@@ -370,6 +367,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~87 |
 | The Tallest of Kobolds | 0.10% | ~54 |
 | Patience is Key | 0.10% | ~87 |
+| Faerûn's Most Wanted | 0.10% | ~54 |
 | Faerûn's Most Neglected | 0.10% | ~54 |
 | Vault of Pixies | 0.10% | ~87 |
 | Vault of Poison | 0.10% | ~87 |
@@ -385,6 +383,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~54 |
 | Everything is Awful | 0.10% | ~87 |
 | Earthquake! | 0.10% | ~54 |
+| Hailstorm! | 0.10% | ~54 |
 | All You Know Is Wrong | 0.10% | ~87 |
 | Shadow Stalkers | 0.10% | ~54 |
 | Avernus Frozen Over | 0.10% | ~54 |
@@ -420,6 +419,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | When the Going Gets Tough | 0.10% | ~54 |
 | Show of Strength | 0.10% | ~54 |
 | Fight Dragons with Dragons | 0.10% | ~54 |
+| Questlines | 0.10% | ~54 |
 | Raggadragga's Crew | 0.10% | ~54 |
 | Just The Worst | 0.10% | ~54 |
 | Bel's Forge | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,330 (Ranked 59)  
-Completed: 1,832 (2.10%) (Ranked 60)  
+Progressed: 87,334 (Ranked 59)  
+Completed: 1,833 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -519,7 +519,7 @@ Completed: 1,832 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,330 | 1,832 |
+| 2023-05-13 | 87,334 | 1,833 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,867 (Ranked 37)  

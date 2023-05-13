@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5696,
+  "EOS_Progressed": 5700,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1354,6 +1354,11 @@
       "Time": "2023-05-13T06:05:08.1494814+00:00",
       "NumProgressed": 5696,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-13T09:05:11.2102084+00:00",
+      "NumProgressed": 5700,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1413,7 +1418,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1469,7 +1474,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "LIBERATOR",
@@ -1532,7 +1537,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5696,
+      "Progressed": 5700,
       "Completed": 20
     }
   ],
@@ -1540,8 +1545,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-12T16:58:00.7751461+00:00",
-  "LastChanged_Achievements": "2023-05-13T08:05:26.1531077+00:00",
+  "LastChanged_Achievements": "2023-05-13T09:05:11.210208+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-13T07:57:54.7368351+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:05:26.153125+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:57:54.4576337+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:05:11.2102306+00:00"
 }

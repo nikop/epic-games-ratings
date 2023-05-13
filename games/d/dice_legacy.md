@@ -10,11 +10,11 @@ Rating: 4.29 (Ranked 760)
 | Manipulating Fate | 5.00% | ~38 |
 | Burn and Pillage | 4.00% | ~30 |
 | Hear me out | 4.00% | ~30 |
+| Listening to the crowd | 4.00% | ~30 |
 | Full house | 3.00% | ~23 |
 | Ascended | 3.00% | ~23 |
 | Greedy | 3.00% | ~23 |
 | Hidden Secrets | 3.00% | ~23 |
-| Listening to the crowd | 3.00% | ~23 |
 | The Stranded King | 3.00% | ~23 |
 | Accepting the Prophecy | 3.00% | ~23 |
 | Just Chilling | 2.00% | ~15 |

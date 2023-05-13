@@ -17,15 +17,15 @@ Rating: 4.72 (Ranked 164)
 | Past trauma | 32.00% | ~633 |
 | Thornbarrow | 32.00% | ~633 |
 | Ternmoat Headquarters | 32.00% | ~633 |
+| Cypress Glen Headquarters | 31.00% | ~613 |
 | Elemental master | 30.00% | ~593 |
-| Cypress Glen Headquarters | 30.00% | ~593 |
 | Old friend | 26.00% | ~514 |
 | Petricite Burst | 26.00% | ~514 |
 | Devineur | 25.00% | ~494 |
 | Whispers in the Woods I | 24.00% | ~475 |
 | Hijack | 24.00% | ~475 |
+| I chose my shackles | 22.00% | ~435 |
 | Ancient power | 22.00% | ~435 |
-| I chose my shackles | 21.00% | ~415 |
 | Sacred Woods | 21.00% | ~415 |
 | Capelworth | 19.00% | ~376 |
 | Little light | 18.00% | ~356 |

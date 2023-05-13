@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -304,7 +304,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 6127,
+  "EOS_Progressed": 6128,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -1304,6 +1304,11 @@
       "Time": "2023-05-13T08:05:31.4342064+00:00",
       "NumProgressed": 6127,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-13T09:05:15.9511066+00:00",
+      "NumProgressed": 6128,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1331,7 +1336,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH04",
@@ -1395,7 +1400,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH12",
@@ -1441,9 +1446,9 @@
       "ID": "ACH17",
       "SetID": "9llo822",
       "Name": "Gun for Hire",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH18",
@@ -1586,7 +1591,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6127,
+      "Progressed": 6128,
       "Completed": 20
     }
   ],
@@ -1594,8 +1599,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-10T19:59:39.8173766+00:00",
-  "LastChanged_Achievements": "2023-05-13T08:05:31.434206+00:00",
+  "LastChanged_Achievements": "2023-05-13T09:05:15.9511061+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-13T07:58:17.3033025+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:05:31.4342276+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:58:14.3924183+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:05:15.9511403+00:00"
 }

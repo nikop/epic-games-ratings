@@ -5,19 +5,19 @@ Rating: 3.94 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,747 |
-| First One’s Free | 65.00% | ~38,953 |
-| Neophyte Ninja | 50.00% | ~29,964 |
-| Too Old for This | 47.00% | ~28,166 |
-| Fancy Pants | 35.00% | ~20,975 |
+| Downed but Not Outed | 73.00% | ~43,749 |
+| First One’s Free | 65.00% | ~38,954 |
+| Neophyte Ninja | 50.00% | ~29,965 |
+| Too Old for This | 47.00% | ~28,167 |
+| Fancy Pants | 35.00% | ~20,976 |
 | Case Closed | 34.00% | ~20,376 |
-| King of the Hill | 33.00% | ~19,776 |
-| Underworld Initiate | 29.00% | ~17,379 |
+| King of the Hill | 33.00% | ~19,777 |
+| Underworld Initiate | 29.00% | ~17,380 |
 | Roid Ranger | 21.00% | ~12,585 |
-| True Player | 19.00% | ~11,386 |
+| True Player | 19.00% | ~11,387 |
 | Off the Rocks | 18.00% | ~10,787 |
-| Raider’s Ruin | 16.00% | ~9,588 |
-| Dragonslayer | 16.00% | ~9,588 |
+| Raider’s Ruin | 16.00% | ~9,589 |
+| Dragonslayer | 16.00% | ~9,589 |
 | Hidden Sonata | 13.00% | ~7,791 |
 | Classy Joint | 10.00% | ~5,993 |
 | Rockay Rex | 10.00% | ~5,993 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 894)
 | Geek Out | 0.50% | ~300 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,928 (Ranked 68)  
+Progressed: 59,930 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,18 +66,18 @@ Completed: 29 (0.05%) (Ranked 171)
 | 2023-05-10 | 59,655 | 28 |
 | 2023-05-11 | 59,781 | 29 |
 | 2023-05-12 | 59,889 | 29 |
-| 2023-05-13 | 59,928 | 29 |
+| 2023-05-13 | 59,930 | 29 |
 ## Awards
 Max (Highly Recommended): 256  (Ranked 237)  
-Sum: 1,205 (Ranked 219)  
+Sum: 1,211 (Ranked 219)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 256 |
 | This game has Amazing Characters | 245 |
 | This game has Diverse Characters | 243 |
+| This game has Challenging Combat | 236 |
 | This game has Quickly Understood Controls | 231 |
-| This game has Challenging Combat | 230 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -129,4 +129,4 @@ Diff (max vs sum): 18
 | 2023-05-10 | 3.94 | 249 | 1,167 |
 | 2023-05-11 | 3.94 | 249 | 1,179 |
 | 2023-05-12 | 3.94 | 256 | 1,200 |
-| 2023-05-13 | 3.94 | 256 | 1,205 |
+| 2023-05-13 | 3.94 | 256 | 1,211 |

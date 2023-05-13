@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221677,
+  "EOS_Progressed": 221678,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2258,6 +2258,11 @@
       "Time": "2023-05-13T08:05:22.1395485+00:00",
       "NumProgressed": 221677,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-13T09:05:07.4778273+00:00",
+      "NumProgressed": 221678,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -2301,7 +2306,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24384
+      "UsersEstimate": 24385
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -2357,7 +2362,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44335
+      "UsersEstimate": 44336
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -2540,15 +2545,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221677,
+      "Progressed": 221678,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-13T08:05:22.1395481+00:00",
+  "LastChanged_Achievements": "2023-05-13T09:05:07.4778268+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.9960773+00:00",
-  "LastUpdate_Ratings": "2023-05-13T07:58:14.0412807+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:05:22.1395752+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:58:11.7943631+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:05:07.4778684+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 618,
-  "EOS_Completed": 40,
-  "EOS_NewPlayers": 245,
-  "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 6.47,
+  "EOS_Completed": 41,
+  "EOS_NewPlayers": 242,
+  "EOS_NewCompleters": 25,
+  "EOS_Completed_Percentage": 6.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1042,6 +1042,11 @@
       "Time": "2023-05-13T08:05:23.744252+00:00",
       "NumProgressed": 618,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-13T09:05:09.0217508+00:00",
+      "NumProgressed": 618,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 50,
@@ -1107,17 +1112,17 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 179
     },
     {
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 173
+      "UsersEstimate": 179
     },
     {
       "ID": "18",
@@ -1227,9 +1232,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 377
     },
     {
       "ID": "30",
@@ -1283,9 +1288,9 @@
       "ID": "36",
       "SetID": "d0g98p",
       "Name": "Dance Master",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "37",
@@ -1323,9 +1328,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 167
     },
     {
       "ID": "41",
@@ -1395,9 +1400,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 179
     },
     {
       "ID": "5",
@@ -1411,9 +1416,9 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 179
     },
     {
       "ID": "6",
@@ -1453,15 +1458,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 618,
-      "Completed": 40
+      "Completed": 41
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-13T08:05:23.7442515+00:00",
+  "LastChanged_Achievements": "2023-05-13T09:05:09.0217503+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-13T07:57:17.4339654+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:05:23.744363+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:57:22.7429285+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:05:09.0217986+00:00"
 }

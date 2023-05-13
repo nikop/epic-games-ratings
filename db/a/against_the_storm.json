@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2252,9 +2252,9 @@
       "Count": 302
     }
   ],
-  "EOS_Progressed": 14771,
+  "EOS_Progressed": 14772,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3357,6 +3357,11 @@
       "Time": "2023-05-13T08:06:12.4603102+00:00",
       "NumProgressed": 14771,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-13T09:05:53.6708631+00:00",
+      "NumProgressed": 14772,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3566,9 +3571,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "WinNearMonastery",
@@ -3726,9 +3731,9 @@
       "ID": "WinWithTimedOrders",
       "SetID": "cfbk359",
       "Name": "Like a Machine",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 118
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -3767,15 +3772,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14771,
+      "Progressed": 14772,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-12T01:56:13.0396287+00:00",
-  "LastChanged_Achievements": "2023-05-13T08:06:12.4603098+00:00",
+  "LastChanged_Achievements": "2023-05-13T09:05:53.6708625+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:00:28.9218715+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:06:12.4603492+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:00:10.6855814+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:05:53.6709117+00:00"
 }

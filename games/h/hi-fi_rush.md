@@ -32,7 +32,7 @@ Rating: 4.86 (Ranked 27)
 | I look cool. But I can look COOLER. | 37.00% | ~550 |
 | That's a lot of junk metal… | 29.00% | ~431 |
 | There's such a thing as TOO helpful | 29.00% | ~431 |
-| Beat-hit mania | 26.00% | ~386 |
+| Beat-hit mania | 27.00% | ~401 |
 | Well that was a rush! | 24.00% | ~357 |
 | I told you I'd be fine, Peppermint! | 24.00% | ~357 |
 | Check out my moves! | 18.00% | ~267 |

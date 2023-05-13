@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,590 |
-| Right Back At Ya | 37.00% | ~295,774 |
-| The Lovers | 32.00% | ~255,804 |
-| Stanislavski's Method | 27.00% | ~215,835 |
-| The Wheel of Fortune | 25.00% | ~199,847 |
-| The Hermit | 23.00% | ~183,859 |
-| True Soldier | 22.00% | ~175,865 |
-| Christmas Tree Attack | 21.00% | ~167,871 |
-| Legend of The Afterlife | 21.00% | ~167,871 |
-| The High Priestess | 20.00% | ~159,878 |
-| Life of the Road | 19.00% | ~151,884 |
-| Full Body Conversion | 17.00% | ~135,896 |
-| The World | 16.00% | ~127,902 |
-| Bushido and Chill | 15.00% | ~119,908 |
-| True Warrior | 14.00% | ~111,914 |
-| To Protect and Serve | 13.00% | ~103,920 |
-| Gun Fu | 13.00% | ~103,920 |
-| Master Crafter | 13.00% | ~103,920 |
-| I Am The Law | 13.00% | ~103,920 |
-| Judy vs Night City | 13.00% | ~103,920 |
-| Two Heads, One Bullet | 11.00% | ~87,933 |
-| The Wandering Fool | 9.00% | ~71,945 |
-| The Quick and the Dead | 9.00% | ~71,945 |
-| Ten out of Ten | 8.00% | ~63,951 |
-| Breathtaking | 7.00% | ~55,957 |
-| To Bad Decisions! | 6.00% | ~47,963 |
-| The Star | 6.00% | ~47,963 |
-| The Sun | 6.00% | ~47,963 |
+| The Fool | 67.00% | ~535,595 |
+| Right Back At Ya | 37.00% | ~295,777 |
+| The Lovers | 32.00% | ~255,807 |
+| Stanislavski's Method | 27.00% | ~215,837 |
+| The Wheel of Fortune | 25.00% | ~199,849 |
+| The Hermit | 23.00% | ~183,861 |
+| True Soldier | 22.00% | ~175,867 |
+| Christmas Tree Attack | 21.00% | ~167,873 |
+| Legend of The Afterlife | 21.00% | ~167,873 |
+| The High Priestess | 20.00% | ~159,879 |
+| Life of the Road | 19.00% | ~151,885 |
+| Full Body Conversion | 17.00% | ~135,897 |
+| The World | 16.00% | ~127,903 |
+| Bushido and Chill | 15.00% | ~119,909 |
+| True Warrior | 14.00% | ~111,915 |
+| To Protect and Serve | 13.00% | ~103,921 |
+| Gun Fu | 13.00% | ~103,921 |
+| Master Crafter | 13.00% | ~103,921 |
+| I Am The Law | 13.00% | ~103,921 |
+| Judy vs Night City | 13.00% | ~103,921 |
+| Two Heads, One Bullet | 11.00% | ~87,934 |
+| The Wandering Fool | 9.00% | ~71,946 |
+| The Quick and the Dead | 9.00% | ~71,946 |
+| Ten out of Ten | 8.00% | ~63,952 |
+| Breathtaking | 7.00% | ~55,958 |
+| To Bad Decisions! | 6.00% | ~47,964 |
+| The Star | 6.00% | ~47,964 |
+| The Sun | 6.00% | ~47,964 |
 | Must Be Rats | 4.00% | ~31,976 |
 | Temperance | 4.00% | ~31,976 |
 | City Lights | 3.00% | ~23,982 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,994 |
 | Rough Landing | 0.40% | ~3,198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,388 (Ranked 11)  
+Progressed: 799,396 (Ranked 11)  
 Completed: 1,592 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 1,592 (0.20%) (Ranked 137)
 | 2023-05-10 | 799,039 | 1,585 |
 | 2023-05-11 | 799,187 | 1,588 |
 | 2023-05-12 | 799,337 | 1,592 |
-| 2023-05-13 | 799,388 | 1,592 |
+| 2023-05-13 | 799,396 | 1,592 |
 ## Awards
 Max (Character Customization): 64,063  (Ranked 9)  
 Sum: 167,996 (Ranked 13)  

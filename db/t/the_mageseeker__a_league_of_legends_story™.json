@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -1337,9 +1337,9 @@
       "ID": "STB_DEFEAT_MORGANA",
       "SetID": "3pe2bac",
       "Name": "I chose my shackles",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 435
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -1569,9 +1569,9 @@
       "ID": "STB_SECONDARY_ASSAULT_II",
       "SetID": "3pe2bac",
       "Name": "Cypress Glen Headquarters",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 613
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1658,8 +1658,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-13T08:05:35.4374009+00:00",
+  "LastChanged_Achievements": "2023-05-13T09:05:19.5729411+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-13T07:57:29.1035051+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:05:35.4374406+00:00"
+  "LastUpdate_Ratings": "2023-05-13T08:57:31.2348311+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:05:19.5729957+00:00"
 }

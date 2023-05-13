@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7599,
+  "EOS_Progressed": 7600,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1308,6 +1308,11 @@
       "Time": "2023-05-13T08:06:13.1695497+00:00",
       "NumProgressed": 7599,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-13T09:05:54.2365674+00:00",
+      "NumProgressed": 7600,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1319,7 +1324,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "ACH02",
@@ -1477,17 +1482,17 @@
       "ID": "ACH21",
       "SetID": "4ck5mbe",
       "Name": "Lucky Spinner",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH22",
       "SetID": "4ck5mbe",
       "Name": "What happens in Las Venturas...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 912
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH23",
@@ -1598,7 +1603,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7599,
+      "Progressed": 7600,
       "Completed": 15
     }
   ],
@@ -1606,8 +1611,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-13T08:06:13.1695494+00:00",
+  "LastChanged_Achievements": "2023-05-13T09:05:54.236567+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-13T08:00:46.1937187+00:00",
-  "LastUpdate_Achievements": "2023-05-13T08:06:13.1695736+00:00"
+  "LastUpdate_Ratings": "2023-05-13T09:00:28.2863198+00:00",
+  "LastUpdate_Achievements": "2023-05-13T09:05:54.2366032+00:00"
 }

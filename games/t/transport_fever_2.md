@@ -7,14 +7,14 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~819 |
+| First cargo item on board | 71.00% | ~755 |
 | First cargo item waiting | 71.00% | ~755 |
-| First cargo item on board | 70.00% | ~744 |
 | First bus stop | 69.00% | ~733 |
 | First passenger on board | 66.00% | ~702 |
 | First passenger waiting | 66.00% | ~702 |
 | First bus arrived | 65.00% | ~691 |
 | First train station | 63.00% | ~670 |
-| First steam train arrived | 59.00% | ~627 |
+| First steam train arrived | 60.00% | ~638 |
 | First industry upgraded | 56.00% | ~595 |
 | Transport millionaire | 54.00% | ~574 |
 | Cargo hub | 54.00% | ~574 |
@@ -24,7 +24,7 @@ Number of Ratings: 180  (23.09.2022)
 | First electric train arrived | 48.00% | ~510 |
 | Settled down | 48.00% | ~510 |
 | First ship arrived | 46.00% | ~489 |
-| Now what? | 45.00% | ~478 |
+| Now what? | 46.00% | ~489 |
 | High speed | 43.00% | ~457 |
 | Transport shark | 40.00% | ~425 |
 | First aircraft arrived | 40.00% | ~425 |

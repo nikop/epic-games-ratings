@@ -9,7 +9,7 @@ Rating: 4.54 (Ranked 477)
 | Without Breaking Some Eggs... | 1.00% | ~19 |
 | Infinite Growth... | 1.00% | ~19 |
 | Sputnik 2049 | 1.00% | ~19 |
-| Ready for a New World | 0.90% | ~17 |
+| Ready for a New World | 1.00% | ~19 |
 | Guy de Borderlands | 0.80% | ~15 |
 | Space Society | 0.70% | ~13 |
 | A Thousand Strong | 0.70% | ~13 |

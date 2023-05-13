@@ -10,7 +10,7 @@
 | A Prophecy | 85.00% | ~525 |
 | Sword, Shield, Fight! | 75.00% | ~464 |
 | A Grand Visit | 71.00% | ~439 |
-| Vibing | 60.00% | ~371 |
+| Vibing | 61.00% | ~377 |
 | Fun Guy | 60.00% | ~371 |
 | Tragic Brave | 51.00% | ~315 |
 | Awakened Spirits | 48.00% | ~297 |
@@ -39,24 +39,24 @@
 | Heartbreaker | 31.00% | ~192 |
 | Kidnapped! | 31.00% | ~192 |
 | Pull the Plug | 29.00% | ~179 |
+| Soul Slayer | 29.00% | ~179 |
+| The Downfall | 29.00% | ~179 |
 | All Heart | 29.00% | ~179 |
 | Trick Question! | 29.00% | ~179 |
-| Soul Slayer | 28.00% | ~173 |
-| The Downfall | 28.00% | ~173 |
+| Final Showdown | 29.00% | ~179 |
+| Spot of Tea? | 29.00% | ~179 |
 | Extraordinary! | 28.00% | ~173 |
-| Final Showdown | 28.00% | ~173 |
-| Spot of Tea? | 28.00% | ~173 |
 | Going Home | 28.00% | ~173 |
-| Mirror, Mirror | 26.00% | ~161 |
+| Mirror, Mirror | 27.00% | ~167 |
 | Flower Power | 24.00% | ~148 |
 | Crowned | 21.00% | ~130 |
 | Shopping Spree! | 20.00% | ~124 |
 | Max Level! | 13.00% | ~80 |
+| Dance Master | 8.00% | ~49 |
 | Bombs Away! | 8.00% | ~49 |
-| Dance Master | 7.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 618 (Ranked 182)  
-Completed: 40 (6.47%) (Ranked 24)  
+Completed: 41 (6.63%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,7 +76,7 @@ Completed: 40 (6.47%) (Ranked 24)
 | 2023-05-10 | 573 | 36 |
 | 2023-05-11 | 595 | 38 |
 | 2023-05-12 | 616 | 39 |
-| 2023-05-13 | 618 | 40 |
+| 2023-05-13 | 618 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
