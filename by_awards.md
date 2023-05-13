@@ -24,7 +24,7 @@
 | 22 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,339 | 4.58 | 412 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,165 | 4.76 | 115 |
 | 24 | [Maneater](games/m/maneater.md) | 13,442 | 4.49 | 552 |
-| 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,257 | 4.60 | 376 |
+| 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,260 | 4.60 | 376 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 13,075 | 4.21 | 802 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,370 | 4.36 | 707 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,911 | 4.42 | 642 |
@@ -183,7 +183,7 @@
 | 181 | [FAR CRY 4](games/f/far_cry_4.md) | 513 | 4.66 | 273 |
 | 182 | [Godfall Ultimate Edition](games/g/godfall.md) | 505 | 4.07 | 867 |
 | 183 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 503 | 4.52 | 502 |
-| 184 | [Terraforming Mars](games/t/terraforming_mars.md) | 494 | 4.54 | 477 |
+| 184 | [Terraforming Mars](games/t/terraforming_mars.md) | 495 | 4.54 | 477 |
 | 185 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 493 | 4.82 | 59 |
 | 186 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 467 | 4.42 | 642 |
 | 187 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 459 | 4.86 | 27 |
@@ -238,7 +238,7 @@
 | 235 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 264 | 4.58 | 412 |
 | 237 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 256 | 3.94 | 894 |
 | 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 252 | 4.84 | 49 |
-| 239 | [Dead Cells](games/d/dead_cells.md) | 250 | 4.88 | 18 |
+| 239 | [Dead Cells](games/d/dead_cells.md) | 251 | 4.88 | 18 |
 | 240 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 671 |
 | 241 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 240 | 4.59 | 398 |
 | 242 | [Roller Champions™](games/r/roller_champions™.md) | 239 | 4.34 | 725 |

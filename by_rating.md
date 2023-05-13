@@ -18,7 +18,7 @@
 | 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 406 | 198 |
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,108 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 294 |
-| 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 250 | 239 |
+| 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 251 | 239 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,983 | 73 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,334 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 473 |
@@ -379,7 +379,7 @@
 | 376 | [Control](games/c/control.md) | 4.60 | 8,274 | 38 |
 | 376 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
 | 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 353 |
-| 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,257 | 25 |
+| 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,260 | 25 |
 | 376 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 304 |
 | 376 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 491 |
 | 376 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 382 |
@@ -484,7 +484,7 @@
 | 477 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 339 |
 | 477 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 337 |
 | 477 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 491 |
-| 477 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 494 | 184 |
+| 477 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 495 | 184 |
 | 477 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 491 |
 | 477 | [VALORANT](games/v/valorant.md) | 4.54 | 52,226 | 11 |
 | 477 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 452 |
