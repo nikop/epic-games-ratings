@@ -1,7 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-13 | 2023-05-31 |
-| [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-13 | 2023-05-31 |
 | [Fusion Paradox](games/f/fusion_paradox.md) | 2023-05-12 | 2023-04-10 |
 | [ELEGIES Aya](games/e/elegies_aya.md) | 2023-05-12 | 2023-04-28 |
 | [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |
