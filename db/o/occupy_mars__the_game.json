@@ -152,9 +152,9 @@
       "ID": "NEW_ACHIEVEMENT_ALIENS",
       "SetID": "l546gc",
       "Name": "\u201CAliens\u201D",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -447,8 +447,8 @@
   ],
   "FirstSeen": "2023-05-10T20:57:26.0655367+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:01:41.5099339+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:00:00.2419847+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.3951133+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:57:39.2815352+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:01:41.5099996+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:57:17.7709908+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:00:00.2420459+00:00"
 }

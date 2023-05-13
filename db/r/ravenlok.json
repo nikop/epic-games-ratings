@@ -3,7 +3,7 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 23,
+  "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 203,
-  "EOS_NewCompleters": 25,
-  "EOS_Completed_Percentage": 6.76,
+  "EOS_NewPlayers": 198,
+  "EOS_NewCompleters": 24,
+  "EOS_Completed_Percentage": 6.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1067,6 +1067,11 @@
       "Time": "2023-05-13T16:04:34.9756164+00:00",
       "NumProgressed": 621,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-13T21:04:48.1455985+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 50,
@@ -1078,7 +1083,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "10",
@@ -1086,7 +1091,7 @@
       "Name": "Piece of Cake",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "11",
@@ -1100,9 +1105,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 199
     },
     {
       "ID": "13",
@@ -1140,9 +1145,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 174
     },
     {
       "ID": "18",
@@ -1156,9 +1161,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 448
     },
     {
       "ID": "2",
@@ -1212,9 +1217,9 @@
       "ID": "25",
       "SetID": "d0g98p",
       "Name": "Trick Question!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "26",
@@ -1230,7 +1235,7 @@
       "Name": "Frog Facts!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "28",
@@ -1238,7 +1243,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "29",
@@ -1276,9 +1281,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 224
     },
     {
       "ID": "33",
@@ -1286,7 +1291,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "34",
@@ -1318,7 +1323,7 @@
       "Name": "Stronger!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "38",
@@ -1342,7 +1347,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "40",
@@ -1406,7 +1411,7 @@
       "Name": "Crowned",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "48",
@@ -1414,7 +1419,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "49",
@@ -1430,23 +1435,23 @@
       "Name": "Well Rested",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 174
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 174
     },
     {
       "ID": "7",
@@ -1477,7 +1482,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 42
     }
   ],
@@ -1485,8 +1490,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:06.7802587+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:04:48.1455977+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:57:41.8132514+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:06.7803058+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:57:19.4544277+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:04:48.1456483+00:00"
 }

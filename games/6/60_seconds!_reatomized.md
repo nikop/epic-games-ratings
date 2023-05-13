@@ -6,25 +6,25 @@ Rating: 4.63 (Ranked 324)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 92.00% | ~3,674 |
-| I will survive! | 91.00% | ~3,634 |
-| All thumbs | 90.00% | ~3,594 |
-| Home, sweet home | 89.00% | ~3,554 |
-| Survivalist | 87.00% | ~3,474 |
-| One way ticket | 83.00% | ~3,314 |
+| I will survive! | 91.00% | ~3,635 |
+| All thumbs | 90.00% | ~3,595 |
+| Home, sweet home | 89.00% | ~3,555 |
+| Survivalist | 87.00% | ~3,475 |
+| One way ticket | 83.00% | ~3,315 |
 | Last man standing | 76.00% | ~3,035 |
-| Family guy | 75.00% | ~2,995 |
-| Out of the Bag | 72.00% | ~2,875 |
-| The Dark Side | 67.00% | ~2,675 |
+| Family guy | 75.00% | ~2,996 |
+| Out of the Bag | 72.00% | ~2,876 |
+| The Dark Side | 67.00% | ~2,676 |
 | Duck and cover! | 62.00% | ~2,476 |
 | Souper! | 60.00% | ~2,396 |
-| Pacifist | 55.00% | ~2,196 |
-| 2-1-6 | 53.00% | ~2,116 |
-| A gift | 50.00% | ~1,996 |
+| Pacifist | 55.00% | ~2,197 |
+| 2-1-6 | 53.00% | ~2,117 |
+| A gift | 50.00% | ~1,997 |
 | Girl Power | 44.00% | ~1,757 |
-| What goes around... | 40.00% | ~1,597 |
+| What goes around... | 40.00% | ~1,598 |
 | Be Prepared | 34.00% | ~1,358 |
 | Unbreakable | 33.00% | ~1,318 |
-| Atomic drill | 32.00% | ~1,278 |
+| Atomic drill | 31.00% | ~1,238 |
 | This is the end | 31.00% | ~1,238 |
 | Gotta get 'em all | 29.00% | ~1,158 |
 | Disco Roach | 26.00% | ~1,038 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 324)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,993 (Ranked 128)  
+Progressed: 3,994 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-10 | 3,974 | 0 |
 | 2023-05-11 | 3,977 | 0 |
 | 2023-05-12 | 3,985 | 0 |
-| 2023-05-13 | 3,993 | 0 |
+| 2023-05-13 | 3,994 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

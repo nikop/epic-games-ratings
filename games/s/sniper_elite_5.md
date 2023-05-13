@@ -35,9 +35,9 @@ Rating: 4.38 (Ranked 690)
 | No Stone Unturned | 11.00% | ~78 |
 | Opposing Force | 11.00% | ~78 |
 | My Little Friend | 9.00% | ~64 |
+| Herr Today, Gone Tomorrow | 9.00% | ~59 |
 | Precision Is Key | 8.00% | ~57 |
 | Rigged to Blow | 8.00% | ~57 |
-| Herr Today, Gone Tomorrow | 8.00% | ~53 |
 | Operation Foxley | 8.00% | ~53 |
 | Last Resort | 7.00% | ~46 |
 | Siegebreaker | 6.00% | ~40 |

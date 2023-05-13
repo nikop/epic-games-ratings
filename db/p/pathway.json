@@ -2,7 +2,7 @@
   "ID": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
   "Name": "Pathway",
   "ProductSlug": "pathway",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 622,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 400,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 425,
   "RatingHistory": [
     {
@@ -456,6 +456,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-13T20:59:54.9391358+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -473,8 +479,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:48.5183295+00:00",
-  "LastChanged": "2023-03-31T05:58:15.7945996+00:00",
+  "LastChanged": "2023-05-13T20:59:54.9391355+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:29.2538461+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:01:34.7016375+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:05:54.7713657+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:59:54.9391362+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:04:39.0781076+00:00"
 }

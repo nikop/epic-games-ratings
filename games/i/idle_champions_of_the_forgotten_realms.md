@@ -78,6 +78,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~107 |
 | Don't Breathe the Marsh Gas | 0.20% | ~107 |
 | Don't Blast the Brigands | 0.20% | ~107 |
+| The Fall of Ythryn | 0.20% | ~107 |
 | The Prince of a Thousand Enemies | 0.20% | ~107 |
 | Uncommon Allies | 0.20% | ~107 |
 | Downfall | 0.20% | ~107 |
@@ -225,6 +226,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.20% | ~107 |
 | Frozen in Fear | 0.20% | ~107 |
 | Sunblight | 0.20% | ~107 |
+| Fortress Assault | 0.20% | ~107 |
 | The Radiant Nightmare | 0.20% | ~107 |
 | Witty Riposting | 0.20% | ~107 |
 | Waiting on Sunrise | 0.20% | ~107 |
@@ -246,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Squeeze the Spiders | 0.10% | ~54 |
 | The Spire of Iriolarthas | 0.10% | ~54 |
 | Always Watching | 0.10% | ~54 |
-| The Fall of Ythryn | 0.10% | ~54 |
 | Icequake | 0.10% | ~54 |
 | A Lesson in Classes | 0.10% | ~54 |
 | The Birds | 0.10% | ~54 |
@@ -445,7 +446,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rickety Rubble | 0.10% | ~54 |
 | Mimic Perception | 0.10% | ~54 |
 | It's Cold Out There Today | 0.10% | ~54 |
-| Fortress Assault | 0.10% | ~54 |
 | Hats off to you! | 0.10% | ~54 |
 | It's Cold Out There Every Day | 0.10% | ~54 |
 | The Bleeding Citadel | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,405 (Ranked 59)  
+Progressed: 87,409 (Ranked 59)  
 Completed: 1,836 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,17 +519,17 @@ Completed: 1,836 (2.10%) (Ranked 61)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,405 | 1,836 |
+| 2023-05-13 | 87,409 | 1,836 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
-Sum: 29,870 (Ranked 37)  
+Sum: 29,873 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,877 |
 | This game is Great for Beginners | 4,820 |
 | This game has Quickly Understood Controls | 4,589 |
-| This game is Relaxing | 4,482 |
+| This game is Relaxing | 4,485 |
 | This game is Highly Recommended | 3,936 |
 | This game has Amazing Characters | 3,934 |
 | This game has Playful Visuals | 3,232 |
@@ -643,4 +643,4 @@ Diff (max vs sum): 26
 | 2023-05-10 | 4.06 | - | 4,874 | 29,847 |
 | 2023-05-11 | 4.06 | - | 4,874 | 29,859 |
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
-| 2023-05-13 | 4.06 | - | 4,877 | 29,870 |
+| 2023-05-13 | 4.06 | - | 4,877 | 29,873 |

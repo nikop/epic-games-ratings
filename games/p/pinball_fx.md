@@ -6,16 +6,16 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~174,974 |
-| I know the Rules | 44.00% | ~95,047 |
-| Contender | 11.00% | ~23,762 |
-| I Found it! | 6.00% | ~12,961 |
-| Dress Code | 4.00% | ~8,641 |
-| First but not Last | 3.00% | ~6,481 |
-| Ready Steady Score | 2.00% | ~4,320 |
-| Full Loot Madness | 2.00% | ~4,320 |
-| Nine Zeroes | 0.90% | ~1,944 |
-| My Table, my Rules | 0.80% | ~1,728 |
+| Ball Launched | 81.00% | ~175,012 |
+| I know the Rules | 44.00% | ~95,068 |
+| Contender | 11.00% | ~23,767 |
+| I Found it! | 6.00% | ~12,964 |
+| Dress Code | 4.00% | ~8,643 |
+| First but not Last | 3.00% | ~6,482 |
+| Ready Steady Score | 2.00% | ~4,321 |
+| Full Loot Madness | 2.00% | ~4,321 |
+| Nine Zeroes | 0.90% | ~1,945 |
+| My Table, my Rules | 0.80% | ~1,729 |
 | Shiny Memento | 0.30% | ~648 |
 | Pinball Hoarder | 0.30% | ~648 |
 | Interior Designer | 0.30% | ~648 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,017 (Ranked 46)  
+Progressed: 216,064 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,10 +60,10 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-10 | 214,524 | 0 |
 | 2023-05-11 | 214,913 | 0 |
 | 2023-05-12 | 215,310 | 0 |
-| 2023-05-13 | 216,017 | 0 |
+| 2023-05-13 | 216,064 | 0 |
 ## Awards
 Max (Great for Beginners): 172  (Ranked 272)  
-Sum: 1,486 (Ranked 208)  
+Sum: 1,487 (Ranked 208)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -71,7 +71,7 @@ Diff (max vs sum): 64
 | This game is Great for Quick Sessions | 169 |
 | This game has Quickly Understood Controls | 160 |
 | This game is Relaxing | 156 |
-| This game is Extremely Fun | 151 |
+| This game is Extremely Fun | 152 |
 | This game is Highly Recommended | 148 |
 | This game has Competitive Players | 144 |
 | This game has Amazing Storytelling | 100 |
@@ -198,3 +198,4 @@ Diff (max vs sum): 64
 | 2023-05-03 | 4.03 | - | 172 | 1,483 |
 | 2023-05-05 | 4.03 | - | 172 | 1,484 |
 | 2023-05-11 | 4.03 | - | 172 | 1,486 |
+| 2023-05-13 | 4.03 | - | 172 | 1,487 |

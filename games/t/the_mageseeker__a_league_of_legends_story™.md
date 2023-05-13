@@ -10,7 +10,7 @@ Rating: 4.72 (Ranked 164)
 | Everfrost | 77.00% | ~1,528 |
 | Pentakill | 76.00% | ~1,509 |
 | Dark Forest | 76.00% | ~1,509 |
-| The use of petricite | 72.00% | ~1,429 |
+| The use of petricite | 73.00% | ~1,449 |
 | You can pet the dog | 60.00% | ~1,191 |
 | Big Helmet Bro | 34.00% | ~675 |
 | Clarion Cove | 34.00% | ~675 |
@@ -34,10 +34,10 @@ Rating: 4.72 (Ranked 164)
 | Full equipped | 17.00% | ~337 |
 | Whispers in the Woods II | 15.00% | ~298 |
 | No more holding back | 14.00% | ~278 |
+| Terbisia | 14.00% | ~278 |
 | Quickmoore Headquarters | 14.00% | ~278 |
 | Whispers in the Woods III | 13.00% | ~258 |
 | Friendly fire | 13.00% | ~258 |
-| Terbisia | 13.00% | ~258 |
 | My heart and sword always for Demacia | 12.00% | ~238 |
 | True power | 12.00% | ~238 |
 | Meltridge | 12.00% | ~238 |

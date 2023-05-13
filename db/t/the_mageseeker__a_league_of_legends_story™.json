@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 1985,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1527,9 +1527,9 @@
       "ID": "STB_MISSION6_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Terbisia",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 278
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -1631,9 +1631,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1449
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1688,8 +1688,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:19.5006077+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:04:57.8600505+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:57:52.1605944+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:19.5006568+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:57:26.7191747+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:04:57.8601039+00:00"
 }

@@ -16,16 +16,16 @@ Rating: 4.77 (Ranked 104)
 | Coasting Along | 5.00% | ~13,344 |
 | That's a Keeper | 5.00% | ~13,344 |
 | Rising From the Ashes | 5.00% | ~13,344 |
-| The Avenging Gazelle | 4.00% | ~10,675 |
-| Beast Friends | 4.00% | ~10,675 |
-| A Sallow Grave | 4.00% | ~10,675 |
-| Flight the Good Flight | 4.00% | ~10,675 |
-| A Keen Sense of Spell | 4.00% | ~10,675 |
-| A Talent for Spending | 4.00% | ~10,675 |
-| Followed the Butterflies | 4.00% | ~10,675 |
-| The Spell Master | 4.00% | ~10,675 |
-| First Class Student | 4.00% | ~10,675 |
-| Troll with the Punches | 4.00% | ~10,675 |
+| The Avenging Gazelle | 4.00% | ~10,676 |
+| Beast Friends | 4.00% | ~10,676 |
+| A Sallow Grave | 4.00% | ~10,676 |
+| Flight the Good Flight | 4.00% | ~10,676 |
+| A Keen Sense of Spell | 4.00% | ~10,676 |
+| A Talent for Spending | 4.00% | ~10,676 |
+| Followed the Butterflies | 4.00% | ~10,676 |
+| The Spell Master | 4.00% | ~10,676 |
+| First Class Student | 4.00% | ~10,676 |
+| Troll with the Punches | 4.00% | ~10,676 |
 | The Seeker of Knowledge | 3.00% | ~8,007 |
 | The Root of the Problem | 3.00% | ~8,007 |
 | Third Time's a Charm | 3.00% | ~8,007 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,068 |
 | Collector's Edition | 0.20% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,886 (Ranked 38)  
+Progressed: 266,890 (Ranked 38)  
 Completed: 361 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,17 +74,17 @@ Completed: 361 (0.14%) (Ranked 149)
 | 2023-05-10 | 266,527 | 358 |
 | 2023-05-11 | 266,628 | 359 |
 | 2023-05-12 | 266,757 | 359 |
-| 2023-05-13 | 266,886 | 361 |
+| 2023-05-13 | 266,890 | 361 |
 ## Awards
 Max (Character Customization): 18,717  (Ranked 18)  
-Sum: 34,279 (Ranked 33)  
+Sum: 34,293 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 18,717 |
 | This game has Great Boss Battles | 8,778 |
-| This game is Extremely Fun | 759 |
-| This game is Great for Beginners | 742 |
+| This game is Extremely Fun | 765 |
+| This game is Great for Beginners | 750 |
 | This game is Relaxing | 728 |
 | This game has Diverse Characters | 722 |
 | This game has Amazing Storytelling | 719 |
@@ -146,4 +146,4 @@ Diff (max vs sum): -15
 | 2023-05-10 | 4.77 | 18,623 | 34,055 |
 | 2023-05-11 | 4.77 | 18,654 | 34,135 |
 | 2023-05-12 | 4.77 | 18,684 | 34,208 |
-| 2023-05-13 | 4.77 | 18,717 | 34,279 |
+| 2023-05-13 | 4.77 | 18,717 | 34,293 |

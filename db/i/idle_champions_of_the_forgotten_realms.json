@@ -3620,10 +3620,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29870,
       "NumberOfAwardsMax": 4877
+    },
+    {
+      "Time": "2023-05-13T20:57:49.0180246+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29873,
+      "NumberOfAwardsMax": 4877
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29870,
+  "NumberOfAwards": 29873,
   "NumberOfAwardsMax": 4877,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3649,7 +3655,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4482
+      "Count": 4485
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3670,10 +3676,10 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87405,
+  "EOS_Progressed": 87409,
   "EOS_Completed": 1836,
   "EOS_NewPlayers": 735,
-  "EOS_NewCompleters": 28,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5780,6 +5786,11 @@
       "Time": "2023-05-13T20:07:05.2995503+00:00",
       "NumProgressed": 87405,
       "NumCompleted": 1836
+    },
+    {
+      "Time": "2023-05-13T21:05:33.3461931+00:00",
+      "NumProgressed": 87409,
+      "NumCompleted": 1836
     }
   ],
   "TotalAchievements": 489,
@@ -6005,9 +6016,9 @@
       "ID": "objective_completed_1075",
       "SetID": "415jc5c",
       "Name": "The Fall of Ythryn",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1076",
@@ -9189,9 +9200,9 @@
       "ID": "objective_completed_833",
       "SetID": "415jc5c",
       "Name": "Fortress Assault",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_834",
@@ -9702,21 +9713,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53679,
+      "Progressed": 53683,
       "Completed": 2502
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87405,
+      "Progressed": 87409,
       "Completed": 1836
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-13T13:00:56.2777344+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:07:05.2995498+00:00",
+  "LastChanged": "2023-05-13T20:57:49.0180244+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:05:33.3461926+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:58:24.5515518+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:07:05.3021002+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:57:49.018025+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:05:33.3485626+00:00"
 }

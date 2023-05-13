@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -466,10 +466,10 @@
     }
   ],
   "EOS_Progressed": 12393,
-  "EOS_Completed": 93,
-  "EOS_NewPlayers": 172,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.75,
+  "EOS_Completed": 94,
+  "EOS_NewPlayers": 169,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:32.3721818+00:00",
@@ -1775,6 +1775,11 @@
       "Time": "2023-05-13T20:06:04.8368324+00:00",
       "NumProgressed": 12393,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-13T21:04:46.6245241+00:00",
+      "NumProgressed": 12393,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2114,14 +2119,14 @@
       "ID": "3jcf6c3",
       "IsBase": true,
       "Progressed": 12393,
-      "Completed": 93
+      "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:04.836832+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:04:46.6245234+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:00:46.4066805+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:04.836885+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:59:22.6410935+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:04:46.6245682+00:00"
 }

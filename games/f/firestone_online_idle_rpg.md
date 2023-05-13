@@ -5,23 +5,23 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~940 |
-| World Map | 80.00% | ~800 |
-| Temple of Eternals | 56.00% | ~560 |
-| Prestigious | 52.00% | ~520 |
+| Victor | 94.00% | ~941 |
+| World Map | 80.00% | ~801 |
+| Temple of Eternals | 56.00% | ~561 |
+| Prestigious | 52.00% | ~521 |
 | Fellowship Power | 39.00% | ~390 |
 | Guild Power | 23.00% | ~230 |
 | Prestigious x10 | 19.00% | ~190 |
 | The game is on | 17.00% | ~170 |
-| Exotic Merchant | 16.00% | ~160 |
+| Exotic Merchant | 15.00% | ~150 |
 | Dragon Clicker | 14.00% | ~140 |
 | Miner Clicker | 14.00% | ~140 |
 | Inspection | 13.00% | ~130 |
 | Full Party | 12.00% | ~120 |
 | Hero inspection | 12.00% | ~120 |
+| Lieutenant | 10.00% | ~100 |
 | Dragon Master | 9.00% | ~90 |
 | Enlightenment | 9.00% | ~90 |
-| Lieutenant | 9.00% | ~90 |
 | The Unstoppable | 8.00% | ~80 |
 | Natural Talent | 7.00% | ~70 |
 | Superior | 7.00% | ~70 |
@@ -31,7 +31,6 @@ Rating: 3.64 (Ranked 917)
 | Challenger | 4.00% | ~40 |
 | Background Story | 3.00% | ~30 |
 | Frostfire Liberator | 3.00% | ~30 |
-| Here We Go Again | 3.00% | ~30 |
 | Hunter | 3.00% | ~30 |
 | Mastery | 3.00% | ~30 |
 | Milestone collector | 3.00% | ~30 |
@@ -40,19 +39,20 @@ Rating: 3.64 (Ranked 917)
 | The Expeditioner | 3.00% | ~30 |
 | The power of Awakening | 3.00% | ~30 |
 | Ancient Knowledge | 2.00% | ~20 |
-| Doing My Part | 2.00% | ~20 |
+| Here We Go Again | 2.00% | ~20 |
 | How Do You Turn This On? | 2.00% | ~20 |
 | Missions Dedication | 2.00% | ~20 |
 | The father of Dragons | 2.00% | ~20 |
 | Trader | 2.00% | ~20 |
 | What lies behind the bush | 2.00% | ~20 |
+| Doing My Part | 1.00% | ~10 |
 | Four Leaf Clover | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
 | Dragon Slayer | 0.90% | ~9 |
 | Engineer Mastery | 0.80% | ~8 |
-| Lock And Load | 0.70% | ~7 |
+| Lock And Load | 0.80% | ~8 |
 | Weekly Quest Completionist | 0.70% | ~7 |
 | Blueprint Upgrades | 0.60% | ~6 |
 | Crystal Mining | 0.60% | ~6 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000 (Ranked 164)  
+Progressed: 1,001 (Ranked 164)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-10 | 948 | 1 |
 | 2023-05-11 | 962 | 1 |
 | 2023-05-12 | 979 | 1 |
-| 2023-05-13 | 1,000 | 1 |
+| 2023-05-13 | 1,001 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

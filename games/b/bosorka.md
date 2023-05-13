@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of purity | 77.00% | ~55 |
-| A good start | 55.00% | ~39 |
-| Witch's duty | 54.00% | ~38 |
-| Runes collector | 49.00% | ~35 |
+| Path of purity | 79.00% | ~56 |
+| A good start | 56.00% | ~40 |
+| Witch's duty | 55.00% | ~39 |
+| Runes collector | 51.00% | ~36 |
 | First time, yes? | 46.00% | ~33 |
-| Kind heart | 44.00% | ~31 |
-| Skilled rider | 41.00% | ~29 |
+| Kind heart | 45.00% | ~32 |
+| Skilled rider | 42.00% | ~30 |
 | Devil's dozen | 27.00% | ~19 |
 | It doesn't work like that | 18.00% | ~13 |
 | A small victory | 15.00% | ~11 |
 | This is just the beginning... | 13.00% | ~9 |
-| Time is on my side | 10.00% | ~7 |
+| Time is on my side | 11.00% | ~8 |
 | Unstoppable Curiosity | 10.00% | ~7 |
 | Gold Digger | 6.00% | ~4 |
 | Secret at the bottom | 0.00% | ~0 |

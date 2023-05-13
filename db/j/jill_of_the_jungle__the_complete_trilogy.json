@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 638,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 7.4,
+  "EOS_Completed_Percentage": 7.37,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -1409,6 +1409,11 @@
       "Time": "2023-05-13T20:06:08.2047209+00:00",
       "NumProgressed": 635,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-13T21:04:49.1389196+00:00",
+      "NumProgressed": 638,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 5,
@@ -1420,7 +1425,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 635
+      "UsersEstimate": 638
     },
     {
       "ID": "2",
@@ -1428,7 +1433,7 @@
       "Name": "Jill the Bold",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "3",
@@ -1452,14 +1457,14 @@
       "Name": "Jill the Champion",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 638,
       "Completed": 47
     }
   ],
@@ -1467,8 +1472,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:08.2047206+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:04:49.1389188+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.3085445+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:57:26.4257655+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:08.2047353+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:57:09.2716938+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:04:49.1389352+00:00"
 }

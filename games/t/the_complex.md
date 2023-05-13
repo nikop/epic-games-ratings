@@ -10,7 +10,7 @@
 | The Rebel And The Doctor | 61.00% | ~276 |
 | Beat It | 55.00% | ~249 |
 | Storage Hunter | 49.00% | ~222 |
-| Free Champagne | 47.00% | ~213 |
+| Free Champagne | 48.00% | ~217 |
 | Falling For You | 46.00% | ~208 |
 | Trust Me For Once | 30.00% | ~136 |
 | Lab Rat | 24.00% | ~109 |
@@ -22,11 +22,11 @@
 | The Promise | 10.00% | ~45 |
 | People Pleaser | 10.00% | ~45 |
 | The Nano Glitches And The Martyr | 8.00% | ~36 |
-| Second Chances | 7.00% | ~32 |
+| Second Chances | 8.00% | ~36 |
 | Not A People Person | 5.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 453 (Ranked 191)  
-Completed: 16 (3.53%) (Ranked 40)  
+Completed: 16 (3.53%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

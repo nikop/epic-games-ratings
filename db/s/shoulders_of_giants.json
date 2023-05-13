@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1925,
+  "EOS_Progressed": 1926,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -354,6 +354,11 @@
       "Time": "2023-05-13T20:06:53.7667722+00:00",
       "NumProgressed": 1925,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-13T21:05:24.2727907+00:00",
+      "NumProgressed": 1926,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -365,7 +370,7 @@
       "Name": "So do we just stay up here, or?...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "collect_dyes",
@@ -405,7 +410,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "deal_damage",
@@ -413,7 +418,7 @@
       "Name": "Ouch",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "defeat_enemies",
@@ -435,9 +440,9 @@
       "ID": "fail_planet",
       "SetID": "236b9eg",
       "Name": "At Least We Have Each Other...",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1464
     },
     {
       "ID": "piercing_beam",
@@ -453,7 +458,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "reach_high_heat",
@@ -469,7 +474,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "save_planet_bestfriend",
@@ -485,7 +490,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "stick_decoy",
@@ -501,7 +506,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "trash_truck",
@@ -516,7 +521,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1925,
+      "Progressed": 1926,
       "Completed": 8
     }
   ],
@@ -524,8 +529,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-09T22:59:34.7274538+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:53.7667719+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:05:24.2727901+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:12.4998547+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:01:12.2537223+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:53.766788+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:59:40.107015+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:05:24.272807+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -270,7 +270,7 @@
   ],
   "EOS_Progressed": 860,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
@@ -626,9 +626,9 @@
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 593
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -642,9 +642,9 @@
       "ID": "MissionOldFriend",
       "SetID": "a6c395p",
       "Name": "Old Days Born Anew",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 542
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -794,8 +794,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:54.5427338+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:05:24.815914+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.1050523+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:00:48.7239226+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:54.5427672+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:59:24.0630025+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:05:24.815949+00:00"
 }

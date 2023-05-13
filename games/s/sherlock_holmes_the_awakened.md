@@ -11,7 +11,7 @@
 | Fond Memories | 57.00% | ~84 |
 | History Check | 57.00% | ~84 |
 | A Method To His Madness | 57.00% | ~84 |
-| The New World | 55.00% | ~81 |
+| The New World | 56.00% | ~83 |
 | Open Sesame | 53.00% | ~78 |
 | Sticky Fingers | 53.00% | ~78 |
 | Knives Out | 53.00% | ~78 |

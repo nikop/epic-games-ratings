@@ -1,7 +1,7 @@
 # Fallout Tactics: Brotherhood of Steel
 [Store](https://store.epicgames.com/en-US/p/fallout-tactics-brotherhood-of-steel)  
 [View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
-Rating: 4.50 (Ranked 530)  
+Rating: 4.50 (Ranked 529)  
 ## Awards
 Max (Character Customization): 71  (Ranked 362)  
 Sum: 71 (Ranked 417)  

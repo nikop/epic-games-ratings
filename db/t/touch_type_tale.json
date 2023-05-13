@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2589,
+  "EOS_Progressed": 2590,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -679,6 +679,11 @@
       "Time": "2023-05-13T17:05:55.9276331+00:00",
       "NumProgressed": 2589,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-13T21:05:26.6347265+00:00",
+      "NumProgressed": 2590,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -706,7 +711,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "bonus4",
@@ -738,7 +743,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "campaign10",
@@ -818,7 +823,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "campaign2",
@@ -826,7 +831,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "campaign20",
@@ -834,15 +839,15 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1684
     },
     {
       "ID": "campaign4",
@@ -890,7 +895,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "scenario1",
@@ -898,7 +903,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "scenario2",
@@ -914,7 +919,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "scenario4",
@@ -953,7 +958,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2589,
+      "Progressed": 2590,
       "Completed": 9
     }
   ],
@@ -961,8 +966,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:56.826487+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:05:26.6347259+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-13T20:01:05.2460875+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:56.8265141+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:59:35.4922419+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:05:26.6347572+00:00"
 }

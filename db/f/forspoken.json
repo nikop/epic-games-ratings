@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37974,
+  "EOS_Progressed": 37975,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-05-13T20:06:33.5654486+00:00",
       "NumProgressed": 37974,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T21:05:08.940349+00:00",
+      "NumProgressed": 37975,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1752,7 +1757,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -1808,7 +1813,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -1816,7 +1821,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -1824,7 +1829,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -2008,7 +2013,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "MONUMENT_ALL",
@@ -2040,7 +2045,7 @@
       "Name": "Endless Runner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "PARKOUR_TIME",
@@ -2159,22 +2164,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 37974,
+      "Progressed": 37975,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2811,
-      "Completed": 2811
+      "Progressed": 2812,
+      "Completed": 2812
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:33.5654482+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:05:08.9403481+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:59:02.3229916+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:33.5655+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:58:14.1181938+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:05:08.940403+00:00"
 }

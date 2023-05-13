@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 80,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -359,6 +359,11 @@
       "Time": "2023-05-13T16:04:49.5357659+00:00",
       "NumProgressed": 85,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T21:05:03.2601107+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -416,7 +421,7 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -544,7 +549,7 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
       "UsersEstimate": 68
     },
@@ -568,7 +573,7 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 44
     },
@@ -592,7 +597,7 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 40,
       "UsersEstimate": 26
     },
@@ -624,7 +629,7 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 39
     },
@@ -632,7 +637,7 @@
       "ID": "TrattoriaSet",
       "SetID": "d1bm05f",
       "Name": "Italian Style",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -664,7 +669,7 @@
       "ID": "VerticalCustomDressing",
       "SetID": "d1bm05f",
       "Name": "Leaning Tower of Pizza",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -689,7 +694,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 0
     }
   ],
@@ -697,8 +702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:26.4924427+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:05:03.2601101+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:21.5130518+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:58:52.7463803+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:26.4924729+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:58:08.1845777+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:05:03.2601456+00:00"
 }

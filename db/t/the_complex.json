@@ -3,7 +3,7 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -118,9 +118,9 @@
       "ID": "ending_2",
       "SetID": "d4f4pll",
       "Name": "Second Chances",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "ending_3",
@@ -182,9 +182,9 @@
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 213
+      "UsersEstimate": 217
     },
     {
       "ID": "kamikaze",
@@ -255,8 +255,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-05-13T20:06:58.5794548+00:00",
+  "LastChanged_Achievements": "2023-05-13T21:05:27.9196833+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:07.4794959+00:00",
-  "LastUpdate_Ratings": "2023-05-13T19:57:21.856644+00:00",
-  "LastUpdate_Achievements": "2023-05-13T20:06:58.5794686+00:00"
+  "LastUpdate_Ratings": "2023-05-13T20:57:06.3911578+00:00",
+  "LastUpdate_Achievements": "2023-05-13T21:05:27.9196976+00:00"
 }
