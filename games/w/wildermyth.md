@@ -7,7 +7,7 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 30.00% | ~349 |
-| Me and My Familiar | 28.00% | ~325 |
+| Me and My Familiar | 28.00% | ~326 |
 | This Too Shall Pass | 24.00% | ~279 |
 | Passing Shadow | 23.00% | ~267 |
 | Cutthroat Competitors | 23.00% | ~267 |
@@ -27,12 +27,12 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 6.00% | ~70 |
 | Let Me Get My Chisel | 5.00% | ~58 |
 | Everfading | 5.00% | ~58 |
-| Plague Doctor | 4.00% | ~46 |
-| Legends Never Die | 4.00% | ~46 |
-| A Hunger, Sated | 4.00% | ~46 |
-| Wingknight's Prowess | 4.00% | ~46 |
-| All My Birds, Safely Home | 4.00% | ~46 |
-| Turncoat | 4.00% | ~46 |
+| Plague Doctor | 4.00% | ~47 |
+| Legends Never Die | 4.00% | ~47 |
+| A Hunger, Sated | 4.00% | ~47 |
+| Wingknight's Prowess | 4.00% | ~47 |
+| All My Birds, Safely Home | 4.00% | ~47 |
+| Turncoat | 4.00% | ~47 |
 | Worldwalker | 3.00% | ~35 |
 | In Soil, In Smoke | 3.00% | ~35 |
 | Bears are Scary | 3.00% | ~35 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,162 (Ranked 157)  
+Progressed: 1,163 (Ranked 157)  
 Completed: 3 (0.26%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 3 (0.26%) (Ranked 131)
 | 2023-05-10 | 1,157 | 3 |
 | 2023-05-11 | 1,159 | 3 |
 | 2023-05-12 | 1,162 | 3 |
+| 2023-05-13 | 1,163 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 454)  
 Sum: 27 (Ranked 463)  

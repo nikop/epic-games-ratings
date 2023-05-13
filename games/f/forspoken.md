@@ -32,8 +32,8 @@ Rating: 4.13 (Ranked 849)
 | Explorer: Pathfinder | 1.00% | ~379 |
 | Shocker | 1.00% | ~379 |
 | Pilgrimage: Novice | 1.00% | ~379 |
-| The Truth Will Out | 0.90% | ~341 |
-| Forspoken | 0.90% | ~341 |
+| The Truth Will Out | 0.90% | ~342 |
+| Forspoken | 0.90% | ~342 |
 | Wildfire | 0.60% | ~228 |
 | Realized Potential | 0.60% | ~228 |
 | Awakening | 0.50% | ~190 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 849)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,944 (Ranked 80)  
+Progressed: 37,945 (Ranked 80)  
 Completed: 1 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.00%) (Ranked 198)
 | 2023-05-10 | 37,836 | 1 |
 | 2023-05-11 | 37,890 | 1 |
 | 2023-05-12 | 37,938 | 1 |
-| 2023-05-13 | 37,944 | 1 |
+| 2023-05-13 | 37,945 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

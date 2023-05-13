@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515,
+  "EOS_Progressed": 1516,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1077,6 +1077,11 @@
       "Time": "2023-05-13T05:05:36.3351815+00:00",
       "NumProgressed": 1515,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T06:05:14.3389075+00:00",
+      "NumProgressed": 1516,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1088,7 +1093,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Achievement_002",
@@ -1208,7 +1213,7 @@
       "Name": "Bad Wiring",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Achievement_018",
@@ -1224,7 +1229,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "Achievement_020",
@@ -1240,7 +1245,7 @@
       "Name": "Radio Silence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Achievement_022",
@@ -1302,17 +1307,17 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 546
     },
     {
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 728
     },
     {
       "ID": "Achievement_031",
@@ -1344,7 +1349,7 @@
       "Name": "Catch and Release",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Achievement_035",
@@ -1615,7 +1620,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1515,
+      "Progressed": 1516,
       "Completed": 0
     }
   ],
@@ -1623,8 +1628,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-10T11:57:52.369097+00:00",
-  "LastChanged_Achievements": "2023-05-13T05:05:36.3351809+00:00",
+  "LastChanged_Achievements": "2023-05-13T06:05:14.338907+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-13T04:57:52.3092601+00:00",
-  "LastUpdate_Achievements": "2023-05-13T05:05:36.3353095+00:00"
+  "LastUpdate_Ratings": "2023-05-13T05:57:37.476202+00:00",
+  "LastUpdate_Achievements": "2023-05-13T06:05:14.3390382+00:00"
 }

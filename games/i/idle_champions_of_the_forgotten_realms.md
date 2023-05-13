@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,746 |
+| A Brief Tour of the Realms | 2.00% | ~1,747 |
 | Checkmate | 2.00% | ~1,072 |
 | Pin and Skewer | 1.00% | ~536 |
 | Vecna Out! | 1.00% | ~536 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,323 (Ranked 59)  
+Progressed: 87,326 (Ranked 59)  
 Completed: 1,832 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,832 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,323 | 1,832 |
+| 2023-05-13 | 87,326 | 1,832 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,867 (Ranked 37)  

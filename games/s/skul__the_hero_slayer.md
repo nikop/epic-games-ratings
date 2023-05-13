@@ -15,11 +15,11 @@ Number of Ratings: 546  (23.09.2022)
 | False Goddess, Disappear | 38.00% | ~2,729 |
 | Quick Movements | 33.00% | ~2,370 |
 | Inventory Management | 33.00% | ~2,370 |
-| The Fall of the Leonia Order | 28.00% | ~2,011 |
+| The Fall of the Leonia Order | 29.00% | ~2,082 |
 | The Hero Killer | 27.00% | ~1,939 |
 | The Final Battle of the First Hero | 25.00% | ~1,795 |
 | Go Home... | 25.00% | ~1,795 |
-| Brain at Full Throttle | 22.00% | ~1,580 |
+| Brain at Full Throttle | 23.00% | ~1,652 |
 | Rookies Welcome | 20.00% | ~1,436 |
 | Deadly Power | 15.00% | ~1,077 |
 | Castle Restoration Plans | 14.00% | ~1,005 |

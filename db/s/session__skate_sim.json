@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -624,7 +624,7 @@
   ],
   "EOS_Progressed": 1953,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -984,9 +984,9 @@
       "ID": "ACH_GDAY-MATE",
       "SetID": "72olkc5",
       "Name": "G\u0027Day Mate!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -1288,8 +1288,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-11T17:59:26.7871412+00:00",
-  "LastChanged_Achievements": "2023-05-13T05:05:30.6503259+00:00",
+  "LastChanged_Achievements": "2023-05-13T06:05:08.7092265+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-13T04:59:13.3984235+00:00",
-  "LastUpdate_Achievements": "2023-05-13T05:05:30.650393+00:00"
+  "LastUpdate_Ratings": "2023-05-13T05:58:59.1127189+00:00",
+  "LastUpdate_Achievements": "2023-05-13T06:05:08.7092962+00:00"
 }

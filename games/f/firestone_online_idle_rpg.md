@@ -5,7 +5,7 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~915 |
+| Victor | 94.00% | ~925 |
 | World Map | 79.00% | ~777 |
 | Temple of Eternals | 55.00% | ~541 |
 | Prestigious | 52.00% | ~512 |

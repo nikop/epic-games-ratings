@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -748,7 +748,7 @@
   ],
   "EOS_Progressed": 7181,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -910,9 +910,9 @@
       "ID": "BrainPoolOperation",
       "SetID": "97dk767",
       "Name": "Brain at Full Throttle",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1652
     },
     {
       "ID": "Chatterbox",
@@ -1006,9 +1006,9 @@
       "ID": "LeoniasFall",
       "SetID": "97dk767",
       "Name": "The Fall of the Leonia Order",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2082
     },
     {
       "ID": "LeoniasFall_2",
@@ -1110,8 +1110,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-11T08:58:50.9904434+00:00",
-  "LastChanged_Achievements": "2023-05-13T05:05:26.7386591+00:00",
+  "LastChanged_Achievements": "2023-05-13T06:05:04.6128414+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:50.5220974+00:00",
-  "LastUpdate_Ratings": "2023-05-13T04:59:04.0224035+00:00",
-  "LastUpdate_Achievements": "2023-05-13T05:05:26.7386861+00:00"
+  "LastUpdate_Ratings": "2023-05-13T05:58:49.4365503+00:00",
+  "LastUpdate_Achievements": "2023-05-13T06:05:04.6128589+00:00"
 }

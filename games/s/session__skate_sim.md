@@ -19,12 +19,12 @@ Number of Ratings: 111  (23.09.2022)
 | Upfront shredder | 8.00% | ~156 |
 | Good vibes | 7.00% | ~137 |
 | Finally he zips it | 6.00% | ~117 |
+| G'Day Mate! | 6.00% | ~117 |
 | That pinch! | 6.00% | ~117 |
 | Tight lipslides | 6.00% | ~117 |
 | Bottom ply killer | 5.00% | ~98 |
 | Fashionista | 5.00% | ~98 |
 | Fulfilled the dream | 5.00% | ~98 |
-| G'Day Mate! | 5.00% | ~98 |
 | NAHELL! | 5.00% | ~98 |
 | Purple passion | 5.00% | ~98 |
 | Squad goals | 5.00% | ~98 |

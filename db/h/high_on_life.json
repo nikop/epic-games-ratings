@@ -825,9 +825,9 @@
       "ID": "ACH_NIPULON_JOKE",
       "SetID": "cdkbb11",
       "Name": "Spent 15 Hours At The Alien Strip Club",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4529
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -866,8 +866,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-07T05:59:32.3480184+00:00",
-  "LastChanged_Achievements": "2023-05-13T05:01:17.680747+00:00",
+  "LastChanged_Achievements": "2023-05-13T06:01:07.5616362+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.4475252+00:00",
-  "LastUpdate_Ratings": "2023-05-13T04:58:02.9305372+00:00",
-  "LastUpdate_Achievements": "2023-05-13T05:01:17.6807889+00:00"
+  "LastUpdate_Ratings": "2023-05-13T05:57:47.2819882+00:00",
+  "LastUpdate_Achievements": "2023-05-13T06:01:07.561687+00:00"
 }

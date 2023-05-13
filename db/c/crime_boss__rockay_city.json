@@ -1404,9 +1404,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 59911,
+  "EOS_Progressed": 59916,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1030,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3459,6 +3459,11 @@
       "Time": "2023-05-13T05:06:08.1294052+00:00",
       "NumProgressed": 59911,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-13T06:05:45.9924737+00:00",
+      "NumProgressed": 59916,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -3470,7 +3475,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 29956
+      "UsersEstimate": 29958
     },
     {
       "ID": "ACH_0011",
@@ -3478,7 +3483,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17374
+      "UsersEstimate": 17376
     },
     {
       "ID": "ACH_0012",
@@ -3486,7 +3491,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12581
+      "UsersEstimate": 12582
     },
     {
       "ID": "ACH_0013",
@@ -3494,7 +3499,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7788
+      "UsersEstimate": 7789
     },
     {
       "ID": "ACH_0014",
@@ -3518,7 +3523,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ACH_0021",
@@ -3614,7 +3619,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 38343
+      "UsersEstimate": 38346
     },
     {
       "ID": "ACH_0210",
@@ -3622,7 +3627,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43735
+      "UsersEstimate": 43739
     },
     {
       "ID": "ACH_0211",
@@ -3638,7 +3643,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28158
+      "UsersEstimate": 28161
     },
     {
       "ID": "ACH_0300",
@@ -3646,7 +3651,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ACH_0310",
@@ -3670,7 +3675,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "ACH_0350",
@@ -3686,7 +3691,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20370
+      "UsersEstimate": 20371
     },
     {
       "ID": "ACH_0420",
@@ -3694,7 +3699,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19771
+      "UsersEstimate": 19772
     },
     {
       "ID": "ACH_0430",
@@ -3702,7 +3707,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20969
+      "UsersEstimate": 20971
     },
     {
       "ID": "ACH_0431",
@@ -3710,7 +3715,7 @@
       "Name": "Classy Joint",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 5991
+      "UsersEstimate": 5992
     },
     {
       "ID": "ACH_0440",
@@ -3718,7 +3723,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 11383
+      "UsersEstimate": 11384
     },
     {
       "ID": "ACH_0450",
@@ -3726,7 +3731,7 @@
       "Name": "Off the Rocks",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10784
+      "UsersEstimate": 10785
     },
     {
       "ID": "ACH_0451",
@@ -3734,7 +3739,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9586
+      "UsersEstimate": 9587
     },
     {
       "ID": "ACH_0452",
@@ -3742,7 +3747,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9586
+      "UsersEstimate": 9587
     },
     {
       "ID": "ACH_0460",
@@ -3758,14 +3763,14 @@
       "Name": "Rockay Rex",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 5991
+      "UsersEstimate": 5992
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 59911,
+      "Progressed": 59916,
       "Completed": 29
     }
   ],
@@ -3773,8 +3778,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-13T02:59:19.2087937+00:00",
-  "LastChanged_Achievements": "2023-05-13T05:06:08.1294045+00:00",
+  "LastChanged_Achievements": "2023-05-13T06:05:45.9924734+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-13T05:00:09.4751348+00:00",
-  "LastUpdate_Achievements": "2023-05-13T05:06:08.1294566+00:00"
+  "LastUpdate_Ratings": "2023-05-13T05:59:56.6791814+00:00",
+  "LastUpdate_Achievements": "2023-05-13T06:05:45.9925397+00:00"
 }

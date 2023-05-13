@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -281,6 +281,11 @@
       "Time": "2023-05-13T05:02:21.5950702+00:00",
       "NumProgressed": 84,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T06:02:20.203884+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -386,7 +391,7 @@
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -412,7 +417,7 @@
       "Name": "Statue \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achVirus",
@@ -426,7 +431,7 @@
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 14
     }
@@ -435,14 +440,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-13T05:02:21.5950696+00:00",
+  "LastChanged_Achievements": "2023-05-13T06:02:20.2038834+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:07.9454664+00:00",
-  "LastUpdate_Ratings": "2023-05-13T04:57:11.5908177+00:00",
-  "LastUpdate_Achievements": "2023-05-13T05:02:21.5950845+00:00"
+  "LastUpdate_Ratings": "2023-05-13T05:56:56.172398+00:00",
+  "LastUpdate_Achievements": "2023-05-13T06:02:20.2039157+00:00"
 }

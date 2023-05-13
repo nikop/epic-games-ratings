@@ -6,30 +6,30 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,575 |
-| Right Back At Ya | 37.00% | ~295,765 |
-| The Lovers | 32.00% | ~255,797 |
-| Stanislavski's Method | 27.00% | ~215,829 |
-| The Wheel of Fortune | 25.00% | ~199,842 |
-| The Hermit | 23.00% | ~183,854 |
-| True Soldier | 22.00% | ~175,861 |
-| Christmas Tree Attack | 21.00% | ~167,867 |
-| Legend of The Afterlife | 21.00% | ~167,867 |
-| The High Priestess | 20.00% | ~159,873 |
-| Life of the Road | 19.00% | ~151,880 |
-| Full Body Conversion | 17.00% | ~135,892 |
-| The World | 16.00% | ~127,899 |
-| Bushido and Chill | 15.00% | ~119,905 |
-| True Warrior | 14.00% | ~111,911 |
+| The Fool | 67.00% | ~535,580 |
+| Right Back At Ya | 37.00% | ~295,768 |
+| The Lovers | 32.00% | ~255,799 |
+| Stanislavski's Method | 27.00% | ~215,831 |
+| The Wheel of Fortune | 25.00% | ~199,843 |
+| The Hermit | 23.00% | ~183,856 |
+| True Soldier | 22.00% | ~175,862 |
+| Christmas Tree Attack | 21.00% | ~167,868 |
+| Legend of The Afterlife | 21.00% | ~167,868 |
+| The High Priestess | 20.00% | ~159,875 |
+| Life of the Road | 19.00% | ~151,881 |
+| Full Body Conversion | 17.00% | ~135,893 |
+| The World | 16.00% | ~127,900 |
+| Bushido and Chill | 15.00% | ~119,906 |
+| True Warrior | 14.00% | ~111,912 |
 | To Protect and Serve | 13.00% | ~103,918 |
 | Gun Fu | 13.00% | ~103,918 |
 | Master Crafter | 13.00% | ~103,918 |
 | I Am The Law | 13.00% | ~103,918 |
 | Judy vs Night City | 13.00% | ~103,918 |
-| Two Heads, One Bullet | 11.00% | ~87,930 |
-| The Wandering Fool | 9.00% | ~71,943 |
-| The Quick and the Dead | 9.00% | ~71,943 |
-| Ten out of Ten | 8.00% | ~63,949 |
+| Two Heads, One Bullet | 11.00% | ~87,931 |
+| The Wandering Fool | 9.00% | ~71,944 |
+| The Quick and the Dead | 9.00% | ~71,944 |
+| Ten out of Ten | 8.00% | ~63,950 |
 | Breathtaking | 7.00% | ~55,956 |
 | To Bad Decisions! | 6.00% | ~47,962 |
 | The Star | 6.00% | ~47,962 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,994 |
 | Rough Landing | 0.40% | ~3,197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,366 (Ranked 11)  
+Progressed: 799,373 (Ranked 11)  
 Completed: 1,592 (0.20%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 1,592 (0.20%) (Ranked 137)
 | 2023-05-10 | 799,039 | 1,585 |
 | 2023-05-11 | 799,187 | 1,588 |
 | 2023-05-12 | 799,337 | 1,592 |
-| 2023-05-13 | 799,366 | 1,592 |
+| 2023-05-13 | 799,373 | 1,592 |
 ## Awards
 Max (Character Customization): 64,063  (Ranked 9)  
 Sum: 167,948 (Ranked 13)  
