@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 104)
 | The Spell Master | 4.00% | ~10,673 |
 | First Class Student | 4.00% | ~10,673 |
 | Troll with the Punches | 4.00% | ~10,673 |
-| The Seeker of Knowledge | 3.00% | ~8,004 |
-| The Root of the Problem | 3.00% | ~8,004 |
-| Third Time's a Charm | 3.00% | ~8,004 |
-| Raising Expectations | 3.00% | ~8,004 |
+| The Seeker of Knowledge | 3.00% | ~8,005 |
+| The Root of the Problem | 3.00% | ~8,005 |
+| Third Time's a Charm | 3.00% | ~8,005 |
+| Raising Expectations | 3.00% | ~8,005 |
 | The Toast of the Town | 2.00% | ~5,336 |
 | Going Through the Potions | 2.00% | ~5,336 |
 | Room with a View | 2.00% | ~5,336 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,067 |
 | Collector's Edition | 0.20% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,815 (Ranked 38)  
+Progressed: 266,819 (Ranked 38)  
 Completed: 359 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-10 | 266,527 | 358 |
 | 2023-05-11 | 266,628 | 359 |
 | 2023-05-12 | 266,757 | 359 |
-| 2023-05-13 | 266,815 | 359 |
+| 2023-05-13 | 266,819 | 359 |
 ## Awards
 Max (Character Customization): 18,684  (Ranked 18)  
 Sum: 34,217 (Ranked 33)  

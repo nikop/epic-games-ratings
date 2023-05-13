@@ -32,7 +32,7 @@ Number of Ratings: 209  (23.09.2022)
 | Mission Unlikely | 85.00% | ~1,699 |
 | Don't draw dicks pls | 84.00% | ~1,679 |
 | Ripped | 84.00% | ~1,679 |
-| Beat the big arena | 82.00% | ~1,639 |
+| Beat the big arena | 83.00% | ~1,659 |
 | Force Cube | 82.00% | ~1,639 |
 | Got Battery | 80.00% | ~1,599 |
 | Guard Distracted | 80.00% | ~1,599 |
@@ -43,7 +43,7 @@ Number of Ratings: 209  (23.09.2022)
 | Trickle Down Economy | 76.00% | ~1,519 |
 | Win | 75.00% | ~1,499 |
 | Greenhouse | 71.00% | ~1,419 |
-| Played with fire | 69.00% | ~1,379 |
+| Played with fire | 70.00% | ~1,399 |
 | You feel very sorry | 69.00% | ~1,379 |
 | No Match for you | 65.00% | ~1,299 |
 | Bouncy | 61.00% | ~1,219 |

@@ -24,7 +24,7 @@ Rating: 4.50 (Ranked 530)
 | Sixth Sense | 0.70% | ~7 |
 | KGB Bunker | 0.60% | ~6 |
 | Rising Star | 0.60% | ~6 |
-| Baby Eater | 0.40% | ~4 |
+| Baby Eater | 0.50% | ~5 |
 | Admiral | 0.30% | ~3 |
 | Commando | 0.30% | ~3 |
 | Incompetence | 0.30% | ~3 |

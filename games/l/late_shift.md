@@ -11,7 +11,7 @@
 | Shill Bidder | 44.00% | ~150 |
 | Star-Crossed Lovers | 44.00% | ~150 |
 | The Frenzy | 34.00% | ~116 |
-| Office Clerk | 32.00% | ~109 |
+| Office Clerk | 33.00% | ~112 |
 | Good Karma | 31.00% | ~105 |
 | Protector | 28.00% | ~95 |
 | The Bribe | 26.00% | ~88 |

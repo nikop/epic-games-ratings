@@ -32,10 +32,10 @@
 | The Blacksmith | 18.00% | ~10 |
 | The Flower | 18.00% | ~10 |
 | The Assistant | 15.00% | ~8 |
+| The Droid | 13.00% | ~7 |
 | The Ooze | 13.00% | ~7 |
 | Turquoise | 13.00% | ~7 |
 | Tested | 13.00% | ~7 |
-| The Droid | 11.00% | ~6 |
 | The Steampunk | 11.00% | ~6 |
 | Ember | 11.00% | ~6 |
 | Verse | 11.00% | ~6 |

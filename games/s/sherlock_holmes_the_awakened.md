@@ -19,7 +19,7 @@
 | Lock, Stock, And Barrel | 51.00% | ~75 |
 | Gaze Into The Abyss | 51.00% | ~75 |
 | Back In The Saddle | 51.00% | ~75 |
-| No Man Is An Island | 49.00% | ~73 |
+| No Man Is An Island | 50.00% | ~74 |
 | At Wits' End | 46.00% | ~68 |
 | Bookworm | 45.00% | ~67 |
 | Fhtagn! | 42.00% | ~62 |

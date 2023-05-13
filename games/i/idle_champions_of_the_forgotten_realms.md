@@ -188,6 +188,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.20% | ~107 |
 | The Wandering Emporium | 0.20% | ~107 |
 | Tiamat's Army | 0.20% | ~107 |
+| Questlines | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
 | Rime Bandits | 0.20% | ~107 |
 | Giant-Size Adventure | 0.20% | ~107 |
@@ -419,7 +420,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | When the Going Gets Tough | 0.10% | ~54 |
 | Show of Strength | 0.10% | ~54 |
 | Fight Dragons with Dragons | 0.10% | ~54 |
-| Questlines | 0.10% | ~54 |
 | Raggadragga's Crew | 0.10% | ~54 |
 | Just The Worst | 0.10% | ~54 |
 | Bel's Forge | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,339 (Ranked 59)  
+Progressed: 87,343 (Ranked 59)  
 Completed: 1,833 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,833 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,339 | 1,833 |
+| 2023-05-13 | 87,343 | 1,833 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,867 (Ranked 37)  

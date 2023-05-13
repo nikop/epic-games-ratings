@@ -11,6 +11,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Harvest and Home | 0.30% | ~65 |
 | Poise and Poisons | 0.30% | ~65 |
 | Hands and Hammers | 0.20% | ~43 |
+| King and Kin | 0.20% | ~43 |
+| Progenitor and Protégé | 0.20% | ~43 |
 | Suns and Soldiers | 0.20% | ~43 |
 | No Harm in Looking | 0.20% | ~43 |
 | Truly Blessed | 0.10% | ~22 |
@@ -23,10 +25,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Glory | 0.10% | ~22 |
 | For Wrath | 0.10% | ~22 |
 | For Greed | 0.10% | ~22 |
-| King and Kin | 0.10% | ~22 |
 | For Survival | 0.10% | ~22 |
 | For Penance | 0.10% | ~22 |
-| Progenitor and Protégé | 0.10% | ~22 |
 | For Love | 0.10% | ~22 |
 | For Pride | 0.10% | ~22 |
 | K.O. | 0.10% | ~22 |

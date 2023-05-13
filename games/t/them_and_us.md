@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forced to Kill | 77.00% | ~17 |
-| Alone with Them | 73.00% | ~16 |
-| Safe...For now? | 27.00% | ~6 |
-| A Night To Remember | 27.00% | ~6 |
-| The Cultists | 18.00% | ~4 |
-| Alone In The Dark | 14.00% | ~3 |
-| Open Sesame | 14.00% | ~3 |
+| Forced to Kill | 74.00% | ~17 |
+| Alone with Them | 70.00% | ~16 |
+| Safe...For now? | 26.00% | ~6 |
+| A Night To Remember | 26.00% | ~6 |
+| The Cultists | 17.00% | ~4 |
+| Alone In The Dark | 13.00% | ~3 |
+| Open Sesame | 13.00% | ~3 |
 | Lover of classics | 9.00% | ~2 |
 | Them and Us | 9.00% | ~2 |
 | OUTRAGE | 9.00% | ~2 |
@@ -18,42 +18,42 @@
 | The bus stop | 9.00% | ~2 |
 | This Coffin Has Your Name On It! | 9.00% | ~2 |
 | What have I done!? | 9.00% | ~2 |
-| Armed To The Teeth | 5.00% | ~1 |
-| Back In Time | 5.00% | ~1 |
-| Before The Eclipse | 5.00% | ~1 |
-| Box Of Ploutus | 5.00% | ~1 |
-| Chosen One | 5.00% | ~1 |
-| Retro Player | 5.00% | ~1 |
-| Die Another Day | 5.00% | ~1 |
-| Dressed to Kill | 5.00% | ~1 |
-| Spiritual essence well spent | 5.00% | ~1 |
-| Life Of The Thousand Gods | 5.00% | ~1 |
-| Run and Gun | 5.00% | ~1 |
-| Modern Player | 5.00% | ~1 |
-| Nightmare Over | 5.00% | ~1 |
-| No Time To Relax | 5.00% | ~1 |
-| Pet The Dog | 5.00% | ~1 |
-| Researcher | 5.00% | ~1 |
-| Rest In Peace | 5.00% | ~1 |
-| Survival Horror | 5.00% | ~1 |
-| I Am The Gate Keeper! | 5.00% | ~1 |
-| Survival Hero | 5.00% | ~1 |
-| The 5th Element | 5.00% | ~1 |
-| The Curse Is Real | 5.00% | ~1 |
-| The Forgotten Tower | 5.00% | ~1 |
-| This Mansion Is Clean | 5.00% | ~1 |
-| Trapped | 5.00% | ~1 |
-| What A Mansion | 5.00% | ~1 |
+| Armed To The Teeth | 4.00% | ~1 |
+| Back In Time | 4.00% | ~1 |
+| Before The Eclipse | 4.00% | ~1 |
+| Box Of Ploutus | 4.00% | ~1 |
+| Chosen One | 4.00% | ~1 |
+| Retro Player | 4.00% | ~1 |
+| Die Another Day | 4.00% | ~1 |
+| Dressed to Kill | 4.00% | ~1 |
+| Spiritual essence well spent | 4.00% | ~1 |
+| Life Of The Thousand Gods | 4.00% | ~1 |
+| Run and Gun | 4.00% | ~1 |
+| Modern Player | 4.00% | ~1 |
+| Nightmare Over | 4.00% | ~1 |
+| No Time To Relax | 4.00% | ~1 |
+| Pet The Dog | 4.00% | ~1 |
+| Researcher | 4.00% | ~1 |
+| Rest In Peace | 4.00% | ~1 |
+| Survival Horror | 4.00% | ~1 |
+| I Am The Gate Keeper! | 4.00% | ~1 |
+| Survival Hero | 4.00% | ~1 |
+| The 5th Element | 4.00% | ~1 |
+| The Curse Is Real | 4.00% | ~1 |
+| The Forgotten Tower | 4.00% | ~1 |
+| This Mansion Is Clean | 4.00% | ~1 |
+| Trapped | 4.00% | ~1 |
+| What A Mansion | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 300)  
-Completed: 1 (4.55%) (Ranked 32)  
+Progressed: 23 (Ranked 296)  
+Completed: 1 (4.35%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-30 | 7 | 1 |
 | 2023-05-01 | 8 | 1 |
 | 2023-05-12 | 13 | 1 |
-| 2023-05-13 | 22 | 1 |
+| 2023-05-13 | 23 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

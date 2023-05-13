@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -820,9 +820,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1704
     },
     {
       "ID": "campaign4",
@@ -941,8 +941,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-13T10:07:04.5584833+00:00",
+  "LastChanged_Achievements": "2023-05-13T11:05:50.5011569+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:01:24.1501328+00:00",
-  "LastUpdate_Achievements": "2023-05-13T10:07:04.5585409+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:00:27.7792242+00:00",
+  "LastUpdate_Achievements": "2023-05-13T11:05:50.5011842+00:00"
 }

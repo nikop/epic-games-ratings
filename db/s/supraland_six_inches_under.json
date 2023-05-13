@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -538,9 +538,9 @@
       "ID": "Area4",
       "SetID": "5lok9mm",
       "Name": "Beat the big arena",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1659
     },
     {
       "ID": "Arrested",
@@ -562,9 +562,9 @@
       "ID": "BenCave",
       "SetID": "5lok9mm",
       "Name": "Played with fire",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1399
     },
     {
       "ID": "BoomerAxe",
@@ -938,8 +938,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-13T10:07:09.1020393+00:00",
+  "LastChanged_Achievements": "2023-05-13T11:05:54.1441964+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:59.1604031+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:01:13.4419707+00:00",
-  "LastUpdate_Achievements": "2023-05-13T10:07:09.1020883+00:00"
+  "LastUpdate_Ratings": "2023-05-13T11:00:20.5256921+00:00",
+  "LastUpdate_Achievements": "2023-05-13T11:05:54.1442422+00:00"
 }

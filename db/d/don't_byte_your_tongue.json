@@ -4,7 +4,7 @@
   "ProductSlug": "dont-byte-your-tongue-da237b",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-07T07:00:00+00:00",
@@ -297,8 +297,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00",
-  "LastChanged_Achievements": "2023-05-13T10:06:44.7738653+00:00",
+  "LastChanged_Achievements": "2023-05-13T11:05:36.008667+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:19.1514401+00:00",
-  "LastUpdate_Ratings": "2023-05-13T10:00:16.0004632+00:00",
-  "LastUpdate_Achievements": "2023-05-13T10:06:44.7738941+00:00"
+  "LastUpdate_Ratings": "2023-05-13T10:59:36.5881007+00:00",
+  "LastUpdate_Achievements": "2023-05-13T11:05:36.0086893+00:00"
 }

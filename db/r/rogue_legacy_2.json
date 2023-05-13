@@ -1073,7 +1073,7 @@
   ],
   "EOS_Progressed": 21505,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2102,9 +2102,9 @@
       "ID": "BossFinalDefeated",
       "SetID": "3ojhj46",
       "Name": "King and Kin",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 43
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -2134,9 +2134,9 @@
       "ID": "BossGardenDefeated",
       "SetID": "3ojhj46",
       "Name": "Progenitor and Prot\u00E9g\u00E9",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 43
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -2316,8 +2316,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-12T18:02:17.0255075+00:00",
-  "LastChanged_Achievements": "2023-05-13T10:06:45.0799633+00:00",
+  "LastChanged_Achievements": "2023-05-13T11:05:36.3970913+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:03.489431+00:00",
-  "LastUpdate_Ratings": "2023-05-13T09:59:53.5639959+00:00",
-  "LastUpdate_Achievements": "2023-05-13T10:06:45.0800048+00:00"
+  "LastUpdate_Ratings": "2023-05-13T10:59:20.8671036+00:00",
+  "LastUpdate_Achievements": "2023-05-13T11:05:36.3971264+00:00"
 }
