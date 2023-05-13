@@ -8,7 +8,7 @@
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 491 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 491 |
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 491 |
-| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,797 | 107 |
+| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,799 | 107 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 491 |
 | 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,949 | 45 |
 | 11 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 491 |
@@ -273,7 +273,7 @@
 | 256 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 104 | 316 |
 | 256 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 479 |
 | 273 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 491 |
-| 273 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 72 | 358 |
+| 273 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 72 | 359 |
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 263 |
 | 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 491 |
 | 273 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,286 | 119 |
@@ -350,7 +350,7 @@
 | 338 | [Prey](games/p/prey.md) | 4.62 | 5,540 | 57 |
 | 338 | [Road 96](games/r/road_96.md) | 4.62 | 0 | 491 |
 | 338 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.62 | 0 | 491 |
-| 338 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 72 | 358 |
+| 338 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 72 | 359 |
 | 352 | [20XX](games/2/20xx.md) | 4.61 | 36 | 421 |
 | 352 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 128 | 294 |
 | 352 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,058 | 72 |
@@ -668,7 +668,7 @@
 | 655 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 30 | 445 |
 | 655 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 73 | 357 |
 | 655 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,162 | 100 |
-| 655 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 358 |
+| 655 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 359 |
 | 655 | [Tunche](games/t/tunche.md) | 4.41 | 0 | 491 |
 | 671 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 491 |
 | 671 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
@@ -737,7 +737,7 @@
 | 735 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 491 |
 | 735 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 307 |
 | 735 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 491 |
-| 735 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 72 | 358 |
+| 735 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 73 | 357 |
 | 735 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 491 |
 | 735 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 491 |
 | 741 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 342 | 212 |
@@ -919,4 +919,4 @@
 | 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.64 | 0 | 491 |
 | 918 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.48 | 0 | 491 |
 | 919 | [Adios](games/a/adios.md) | 3.41 | 0 | 491 |
-| 920 | [Redfall](games/r/redfall.md) | 3.33 | 0 | 491 |
+| 920 | [Redfall](games/r/redfall.md) | 3.38 | 0 | 491 |
