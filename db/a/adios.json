@@ -48,9 +48,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55532,
+  "EOS_Progressed": 55541,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 1360,
+  "EOS_NewPlayers": 1358,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -2118,6 +2118,11 @@
       "Time": "2023-05-13T04:06:43.7547551+00:00",
       "NumProgressed": 55532,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-05-13T05:06:10.6315275+00:00",
+      "NumProgressed": 55541,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 25,
@@ -2145,7 +2150,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9440
+      "UsersEstimate": 9442
     },
     {
       "ID": "Audiophile",
@@ -2161,7 +2166,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11662
+      "UsersEstimate": 11664
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -2169,7 +2174,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9440
+      "UsersEstimate": 9442
     },
     {
       "ID": "Butcher",
@@ -2177,7 +2182,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "Cut Call",
@@ -2201,7 +2206,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10551
+      "UsersEstimate": 10553
     },
     {
       "ID": "Hearty",
@@ -2217,7 +2222,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "Magnetic Miracles",
@@ -2225,7 +2230,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "Master, Commander",
@@ -2233,7 +2238,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10551
+      "UsersEstimate": 10553
     },
     {
       "ID": "Meaty",
@@ -2249,7 +2254,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 9996
+      "UsersEstimate": 9997
     },
     {
       "ID": "Nice Try",
@@ -2257,7 +2262,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8885
+      "UsersEstimate": 8887
     },
     {
       "ID": "Nothing Left to Say",
@@ -2273,7 +2278,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5553
+      "UsersEstimate": 5554
     },
     {
       "ID": "Right On Target",
@@ -2281,7 +2286,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7219
+      "UsersEstimate": 7220
     },
     {
       "ID": "Sniper",
@@ -2297,7 +2302,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "Taco Toto",
@@ -2321,14 +2326,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3887
+      "UsersEstimate": 3888
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 55532,
+      "Progressed": 55541,
       "Completed": 444
     }
   ],
@@ -2336,8 +2341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-11T21:00:12.8058431+00:00",
-  "LastChanged_Achievements": "2023-05-13T04:06:43.7547544+00:00",
+  "LastChanged_Achievements": "2023-05-13T05:06:10.6315266+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:22.0018801+00:00",
-  "LastUpdate_Ratings": "2023-05-13T04:01:13.4998845+00:00",
-  "LastUpdate_Achievements": "2023-05-13T04:06:43.7547893+00:00"
+  "LastUpdate_Ratings": "2023-05-13T05:00:42.5139299+00:00",
+  "LastUpdate_Achievements": "2023-05-13T05:06:10.6315581+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.54 (Ranked 477)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~17,971 |
-| Before the Downfall | 93.00% | ~17,054 |
+| Trevithick's Legacy | 98.00% | ~17,972 |
+| Before the Downfall | 93.00% | ~17,055 |
 | Money like Water | 91.00% | ~16,688 |
-| Minimalist | 90.00% | ~16,504 |
+| Minimalist | 90.00% | ~16,505 |
 | Builder | 83.00% | ~15,221 |
 | Eraser | 70.00% | ~12,837 |
 | Pocket of Trains | 65.00% | ~11,920 |
-| Inspector | 59.00% | ~10,819 |
+| Inspector | 59.00% | ~10,820 |
 | Going the Distance | 54.00% | ~9,903 |
 | Oil Baron | 42.00% | ~7,702 |
 | Loads-a-Money | 42.00% | ~7,702 |
@@ -22,14 +22,14 @@ Rating: 4.54 (Ranked 477)
 | Let There be Light | 32.00% | ~5,868 |
 | Hot Water | 31.00% | ~5,685 |
 | Indecisive | 29.00% | ~5,318 |
-| The scenic route | 27.00% | ~4,951 |
-| Industrialist | 25.00% | ~4,584 |
+| The scenic route | 27.00% | ~4,952 |
+| Industrialist | 25.00% | ~4,585 |
 | Perfectionist | 23.00% | ~4,218 |
 | Trains over Pipes | 23.00% | ~4,218 |
-| 8K is Enough for Everyone | 22.00% | ~4,034 |
+| 8K is Enough for Everyone | 22.00% | ~4,035 |
 | Man of Steel | 16.00% | ~2,934 |
 | Room Full of Trains | 12.00% | ~2,201 |
-| Investor | 9.00% | ~1,650 |
+| Investor | 9.00% | ~1,651 |
 | Multiverse | 7.00% | ~1,284 |
 | The poor groundwater levels | 7.00% | ~1,284 |
 | Metropolis | 7.00% | ~1,284 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 477)
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,338 (Ranked 95)  
+Progressed: 18,339 (Ranked 95)  
 Completed: 28 (0.15%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,10 +66,11 @@ Completed: 28 (0.15%) (Ranked 145)
 | 2023-05-10 | 18,328 | 28 |
 | 2023-05-11 | 18,330 | 28 |
 | 2023-05-12 | 18,338 | 28 |
+| 2023-05-13 | 18,339 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 339)  
-Sum: 644 (Ranked 270)  
-Diff (max vs sum): 69  
+Sum: 644 (Ranked 269)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 87 |

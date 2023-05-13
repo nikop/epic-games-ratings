@@ -9,7 +9,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 4.00% | ~487 |
 | Project Arena | 3.00% | ~365 |
 | Bloody Sport | 1.00% | ~122 |
-| The best strikes are the ones we avoid | 0.90% | ~109 |
+| The best strikes are the ones we avoid | 0.90% | ~110 |
 | Qi Gong: Breath | 0.80% | ~5,623 |
 | The Hateful Pole Fighter | 0.70% | ~4,920 |
 | A Lady's Blood in the Snow | 0.70% | ~4,920 |
@@ -44,8 +44,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.30% | ~2,109 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,109 |
 | Sword Stained With Blood | 0.30% | ~2,109 |
-| Martial Hub | 0.30% | ~36 |
-| Secure, Protect, Leave | 0.30% | ~36 |
+| Martial Hub | 0.30% | ~37 |
+| Secure, Protect, Leave | 0.30% | ~37 |
 | Drunken Fighter | 0.20% | ~1,406 |
 | Martial Artist | 0.20% | ~1,406 |
 | Knowledge Greed | 0.20% | ~1,406 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,864 (Ranked 15)  
+Progressed: 702,867 (Ranked 15)  
 Completed: 12,723 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 12,723 (1.81%) (Ranked 62)
 | 2023-05-10 | 702,799 | 12,720 |
 | 2023-05-11 | 702,825 | 12,721 |
 | 2023-05-12 | 702,858 | 12,723 |
-| 2023-05-13 | 702,864 | 12,723 |
+| 2023-05-13 | 702,867 | 12,723 |
 ## Awards
 Max (Great Boss Battles): 6,055  (Ranked 53)  
 Sum: 10,278 (Ranked 77)  

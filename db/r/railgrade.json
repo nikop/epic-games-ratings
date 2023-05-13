@@ -4,10 +4,10 @@
   "ProductSlug": "railgrade",
   "Ranking_Rating": 477,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -402,9 +402,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18338,
+  "EOS_Progressed": 18339,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1127,6 +1127,11 @@
       "Time": "2023-05-12T23:05:45.4154831+00:00",
       "NumProgressed": 18338,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-13T05:05:53.4026191+00:00",
+      "NumProgressed": 18339,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 37,
@@ -1186,7 +1191,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach.080.eraser",
@@ -1234,7 +1239,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 16504
+      "UsersEstimate": 16505
     },
     {
       "ID": "ach.140.legacy",
@@ -1242,7 +1247,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 17971
+      "UsersEstimate": 17972
     },
     {
       "ID": "ach.150.pocket",
@@ -1274,7 +1279,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 10819
+      "UsersEstimate": 10820
     },
     {
       "ID": "ach.190.scenic",
@@ -1282,7 +1287,7 @@
       "Name": "The scenic route",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4951
+      "UsersEstimate": 4952
     },
     {
       "ID": "ach.200.light",
@@ -1330,7 +1335,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17054
+      "UsersEstimate": 17055
     },
     {
       "ID": "ach.260.investor",
@@ -1338,7 +1343,7 @@
       "Name": "Investor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ach.270.groundwater",
@@ -1386,7 +1391,7 @@
       "Name": "Industrialist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "ach.330.water",
@@ -1433,7 +1438,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18338,
+      "Progressed": 18339,
       "Completed": 28
     }
   ],
@@ -1441,8 +1446,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-08T05:01:02.9878501+00:00",
-  "LastChanged_Achievements": "2023-05-13T04:06:24.1546435+00:00",
+  "LastChanged_Achievements": "2023-05-13T05:05:53.4026184+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:13.8696234+00:00",
-  "LastUpdate_Ratings": "2023-05-13T03:59:46.2710503+00:00",
-  "LastUpdate_Achievements": "2023-05-13T04:06:24.1546784+00:00"
+  "LastUpdate_Ratings": "2023-05-13T04:59:28.1169227+00:00",
+  "LastUpdate_Achievements": "2023-05-13T05:05:53.4026736+00:00"
 }

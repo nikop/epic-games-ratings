@@ -15,8 +15,8 @@ Rating: 3.88 (Ranked 902)
 | F is for Feline | 13.00% | ~53 |
 | Does Not Compute | 13.00% | ~53 |
 | Identity Theft | 12.00% | ~49 |
+| U Mad Bro? | 12.00% | ~49 |
 | A Trip to Remember | 12.00% | ~49 |
-| U Mad Bro? | 11.00% | ~45 |
 | Short Circuit | 11.00% | ~45 |
 | A Stealthy Outlook | 8.00% | ~33 |
 | Catch You Later | 6.00% | ~25 |

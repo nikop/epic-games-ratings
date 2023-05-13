@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-03-13T08:00:00+00:00",
@@ -1859,10 +1859,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 2367,
       "NumberOfAwardsMax": 310
+    },
+    {
+      "Time": "2023-05-13T05:00:01.6023617+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2368,
+      "NumberOfAwardsMax": 310
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2367,
+  "NumberOfAwards": 2368,
   "NumberOfAwardsMax": 310,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1888,7 +1894,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1950,8 +1956,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2023-05-11T13:05:34.1637853+00:00",
+  "LastChanged": "2023-05-13T05:00:01.6023615+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.963808+00:00",
-  "LastUpdate_Ratings": "2023-05-13T04:00:24.1550876+00:00",
-  "LastUpdate_Achievements": "2023-05-13T04:02:11.2680801+00:00"
+  "LastUpdate_Ratings": "2023-05-13T05:00:01.6023622+00:00",
+  "LastUpdate_Achievements": "2023-05-13T05:02:03.1847537+00:00"
 }

@@ -5,39 +5,39 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~923 |
-| World Map | 79.00% | ~776 |
-| Temple of Eternals | 55.00% | ~540 |
-| Prestigious | 52.00% | ~511 |
-| Fellowship Power | 39.00% | ~383 |
+| Victor | 93.00% | ~915 |
+| World Map | 79.00% | ~777 |
+| Temple of Eternals | 55.00% | ~541 |
+| Prestigious | 52.00% | ~512 |
+| Fellowship Power | 39.00% | ~384 |
 | Guild Power | 23.00% | ~226 |
-| Prestigious x10 | 20.00% | ~196 |
+| Prestigious x10 | 20.00% | ~197 |
 | The game is on | 17.00% | ~167 |
 | Exotic Merchant | 16.00% | ~157 |
-| Dragon Clicker | 14.00% | ~137 |
-| Miner Clicker | 14.00% | ~137 |
+| Dragon Clicker | 14.00% | ~138 |
+| Miner Clicker | 14.00% | ~138 |
 | Inspection | 13.00% | ~128 |
 | Full Party | 12.00% | ~118 |
 | Hero inspection | 12.00% | ~118 |
-| Dragon Master | 9.00% | ~88 |
-| Enlightenment | 9.00% | ~88 |
-| Lieutenant | 9.00% | ~88 |
+| Dragon Master | 9.00% | ~89 |
+| Enlightenment | 9.00% | ~89 |
+| Lieutenant | 9.00% | ~89 |
 | Natural Talent | 8.00% | ~79 |
 | The Unstoppable | 8.00% | ~79 |
 | Mysterious Rock | 6.00% | ~59 |
 | Scientist | 6.00% | ~59 |
 | Superior | 6.00% | ~59 |
 | Daily Quest Completionist | 5.00% | ~49 |
-| Background Story | 3.00% | ~29 |
-| Challenger | 3.00% | ~29 |
-| Frostfire Liberator | 3.00% | ~29 |
-| Hunter | 3.00% | ~29 |
-| Mastery | 3.00% | ~29 |
-| Milestone collector | 3.00% | ~29 |
-| Moving Up The Ladder | 3.00% | ~29 |
-| Scroll Master | 3.00% | ~29 |
-| The Expeditioner | 3.00% | ~29 |
-| The power of Awakening | 3.00% | ~29 |
+| Background Story | 3.00% | ~30 |
+| Challenger | 3.00% | ~30 |
+| Frostfire Liberator | 3.00% | ~30 |
+| Hunter | 3.00% | ~30 |
+| Mastery | 3.00% | ~30 |
+| Milestone collector | 3.00% | ~30 |
+| Moving Up The Ladder | 3.00% | ~30 |
+| Scroll Master | 3.00% | ~30 |
+| The Expeditioner | 3.00% | ~30 |
+| The power of Awakening | 3.00% | ~30 |
 | Ancient Knowledge | 2.00% | ~20 |
 | Doing My Part | 2.00% | ~20 |
 | Here We Go Again | 2.00% | ~20 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982 (Ranked 164)  
+Progressed: 984 (Ranked 164)  
 Completed: 1 (0.10%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.10%) (Ranked 155)
 | 2023-05-10 | 948 | 1 |
 | 2023-05-11 | 962 | 1 |
 | 2023-05-12 | 979 | 1 |
-| 2023-05-13 | 982 | 1 |
+| 2023-05-13 | 984 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

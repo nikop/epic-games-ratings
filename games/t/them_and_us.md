@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Forced to Kill | 72.00% | ~13 |
-| Alone with Them | 61.00% | ~11 |
+| Alone with Them | 67.00% | ~12 |
 | Safe...For now? | 33.00% | ~6 |
-| A Night To Remember | 28.00% | ~5 |
+| A Night To Remember | 33.00% | ~6 |
 | The Cultists | 22.00% | ~4 |
 | Alone In The Dark | 17.00% | ~3 |
 | Open Sesame | 17.00% | ~3 |
