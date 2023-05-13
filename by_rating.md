@@ -19,7 +19,7 @@
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,108 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 294 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 250 | 239 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,980 | 73 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,983 | 73 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,334 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 473 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 491 |
@@ -115,7 +115,7 @@
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 491 |
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 454 |
 | 115 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 491 |
-| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,157 | 23 |
+| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,165 | 23 |
 | 115 | [Dead Space](games/d/dead_space.md) | 4.76 | 42 | 408 |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 841 | 144 |
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 491 |
@@ -375,8 +375,8 @@
 | 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,609 | 40 |
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 373 |
 | 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,726 | 21 |
-| 376 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,766 | 29 |
-| 376 | [Control](games/c/control.md) | 4.60 | 8,272 | 38 |
+| 376 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,774 | 29 |
+| 376 | [Control](games/c/control.md) | 4.60 | 8,274 | 38 |
 | 376 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
 | 376 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 353 |
 | 376 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,257 | 25 |
@@ -424,7 +424,7 @@
 | 412 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 181 | 267 |
 | 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 264 | 235 |
 | 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 971 | 139 |
-| 412 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,073 | 52 |
+| 412 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,076 | 52 |
 | 412 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 491 |
 | 412 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 208 | 254 |
 | 412 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,339 | 22 |
@@ -653,35 +653,35 @@
 | 642 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 235 |
 | 642 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 491 |
 | 642 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 128 | 294 |
+| 642 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.42 | 467 | 186 |
 | 642 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 534 | 176 |
-| 655 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 491 |
-| 655 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 491 |
-| 655 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 491 |
-| 655 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 330 |
-| 655 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.41 | 0 | 491 |
-| 655 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 491 |
-| 655 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 491 |
-| 655 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 491 |
-| 655 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 491 |
-| 655 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 491 |
-| 655 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 30 | 445 |
-| 655 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,162 | 100 |
-| 655 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 357 |
-| 655 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.41 | 467 | 186 |
-| 655 | [Tunche](games/t/tunche.md) | 4.41 | 0 | 491 |
-| 670 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 491 |
-| 670 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
-| 670 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 985 | 138 |
-| 670 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
-| 670 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
-| 670 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
-| 670 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 73 | 356 |
-| 670 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 397 | 201 |
-| 670 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
-| 670 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
-| 670 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 491 |
-| 670 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 491 |
-| 670 | [Warpips](games/w/warpips.md) | 4.40 | 21 | 479 |
+| 656 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 491 |
+| 656 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 491 |
+| 656 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 491 |
+| 656 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 330 |
+| 656 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.41 | 0 | 491 |
+| 656 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 491 |
+| 656 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 491 |
+| 656 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 491 |
+| 656 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 491 |
+| 656 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 491 |
+| 656 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 30 | 445 |
+| 656 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 73 | 356 |
+| 656 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,162 | 100 |
+| 656 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 357 |
+| 656 | [Tunche](games/t/tunche.md) | 4.41 | 0 | 491 |
+| 671 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 491 |
+| 671 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
+| 671 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 985 | 138 |
+| 671 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
+| 671 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
+| 671 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
+| 671 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 397 | 201 |
+| 671 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
+| 671 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
+| 671 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 491 |
+| 671 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 491 |
+| 671 | [Warpips](games/w/warpips.md) | 4.40 | 21 | 479 |
 | 683 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 491 |
 | 683 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 491 |
 | 683 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 545 | 174 |

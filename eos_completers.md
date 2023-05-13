@@ -5,8 +5,8 @@
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
-| 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
-| 7 | [Island Cities](games/i/island_cities.md) | 19.12% |
+| 6 | [Island Cities](games/i/island_cities.md) | 20.59% |
+| 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 18.75% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
@@ -23,11 +23,11 @@
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
-| 24 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 6.67% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.49% |
-| 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.48% |
+| 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.46% |
+| 26 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
-| 27 | [Them and Us](games/t/them_and_us.md) | 5.88% |
+| 28 | [Them and Us](games/t/them_and_us.md) | 5.56% |
 | 29 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.26% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
@@ -58,7 +58,7 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
