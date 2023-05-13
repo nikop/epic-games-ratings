@@ -6,31 +6,31 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,190 |
-| Jeef Skeejj | 44.00% | ~201,460 |
-| Careful planning | 39.00% | ~178,567 |
-| Second Coming | 33.00% | ~151,095 |
-| Jeef Skagg | 30.00% | ~137,359 |
-| Mother | 25.00% | ~114,466 |
-| In space, no one can hear you scream | 23.00% | ~105,308 |
-| Chapter I: Echoes | 22.00% | ~100,730 |
-| Excelsior Rule | 22.00% | ~100,730 |
-| Things persisted in not being what they seemed | 20.00% | ~91,573 |
-| Knightmare Frames | 15.00% | ~68,679 |
-| May His passing cleanse the world | 15.00% | ~68,679 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,679 |
-| Pope Zenon | 15.00% | ~68,679 |
-| Tetsuo | 11.00% | ~50,365 |
-| Plan for the worst | 11.00% | ~50,365 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,786 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~36,629 |
-| Through the mirror | 8.00% | ~36,629 |
-| General Vivar | 8.00% | ~36,629 |
-| Back to Ganyma | 8.00% | ~36,629 |
-| Kaos Rule | 8.00% | ~36,629 |
-| Admiral Okonkwo | 7.00% | ~32,050 |
-| The Survivalists | 7.00% | ~32,050 |
-| The Tech Specialist | 7.00% | ~32,050 |
+| The Shutdown | 66.00% | ~302,196 |
+| Jeef Skeejj | 44.00% | ~201,464 |
+| Careful planning | 39.00% | ~178,570 |
+| Second Coming | 33.00% | ~151,098 |
+| Jeef Skagg | 30.00% | ~137,362 |
+| Mother | 25.00% | ~114,468 |
+| In space, no one can hear you scream | 23.00% | ~105,311 |
+| Chapter I: Echoes | 22.00% | ~100,732 |
+| Excelsior Rule | 22.00% | ~100,732 |
+| Things persisted in not being what they seemed | 20.00% | ~91,574 |
+| Knightmare Frames | 15.00% | ~68,681 |
+| May His passing cleanse the world | 15.00% | ~68,681 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,681 |
+| Pope Zenon | 15.00% | ~68,681 |
+| Tetsuo | 11.00% | ~50,366 |
+| Plan for the worst | 11.00% | ~50,366 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,787 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~36,630 |
+| Through the mirror | 8.00% | ~36,630 |
+| General Vivar | 8.00% | ~36,630 |
+| Back to Ganyma | 8.00% | ~36,630 |
+| Kaos Rule | 8.00% | ~36,630 |
+| Admiral Okonkwo | 7.00% | ~32,051 |
+| The Survivalists | 7.00% | ~32,051 |
+| The Tech Specialist | 7.00% | ~32,051 |
 | Chapter V: Memories of None | 6.00% | ~27,472 |
 | Meet your maker | 6.00% | ~27,472 |
 | The Impersonator | 6.00% | ~27,472 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~27,472 |
 | The Crazy Repairman | 6.00% | ~27,472 |
 | The Weasel | 6.00% | ~27,472 |
-| Kill the Doctor | 5.00% | ~22,893 |
-| Forsaken | 5.00% | ~22,893 |
-| Mercy | 5.00% | ~22,893 |
-| Jericho Rule | 5.00% | ~22,893 |
+| Kill the Doctor | 5.00% | ~22,894 |
+| Forsaken | 5.00% | ~22,894 |
+| Mercy | 5.00% | ~22,894 |
+| Jericho Rule | 5.00% | ~22,894 |
 | Geno Rule | 3.00% | ~13,736 |
 | Hammer Rule | 3.00% | ~13,736 |
 | Survivor | 2.00% | ~9,157 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,863 (Ranked 28)  
+Progressed: 457,872 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 14 (0.00%) (Ranked 198)
 | 2023-05-10 | 457,695 | 14 |
 | 2023-05-11 | 457,744 | 14 |
 | 2023-05-12 | 457,795 | 14 |
-| 2023-05-13 | 457,863 | 14 |
+| 2023-05-13 | 457,872 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

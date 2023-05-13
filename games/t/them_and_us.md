@@ -7,17 +7,17 @@
 | Forced to Kill | 74.00% | ~20 |
 | Alone with Them | 70.00% | ~19 |
 | Safe...For now? | 33.00% | ~9 |
-| A Night To Remember | 26.00% | ~7 |
-| Open Sesame | 15.00% | ~4 |
+| A Night To Remember | 30.00% | ~8 |
+| Open Sesame | 19.00% | ~5 |
 | The Cultists | 15.00% | ~4 |
 | Alone In The Dark | 11.00% | ~3 |
+| Them and Us | 11.00% | ~3 |
+| OUTRAGE | 11.00% | ~3 |
+| Parasite Exterminated | 11.00% | ~3 |
+| What have I done!? | 11.00% | ~3 |
 | Lover of classics | 7.00% | ~2 |
-| Them and Us | 7.00% | ~2 |
-| OUTRAGE | 7.00% | ~2 |
-| Parasite Exterminated | 7.00% | ~2 |
 | The bus stop | 7.00% | ~2 |
 | This Coffin Has Your Name On It! | 7.00% | ~2 |
-| What have I done!? | 7.00% | ~2 |
 | Armed To The Teeth | 4.00% | ~1 |
 | Back In Time | 4.00% | ~1 |
 | Before The Eclipse | 4.00% | ~1 |

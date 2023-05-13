@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -368,11 +368,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9237,
-  "EOS_Completed": 206,
-  "EOS_NewPlayers": 600,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 2.23,
+  "EOS_Progressed": 9239,
+  "EOS_Completed": 207,
+  "EOS_NewPlayers": 598,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 2.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -2383,6 +2383,11 @@
       "Time": "2023-05-13T14:06:33.5931855+00:00",
       "NumProgressed": 9237,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2023-05-13T15:06:19.5426245+00:00",
+      "NumProgressed": 9239,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 20,
@@ -2418,7 +2423,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -2426,7 +2431,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -2450,7 +2455,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -2514,7 +2519,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7020
+      "UsersEstimate": 7022
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2522,7 +2527,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "NORTH_FINISHED",
@@ -2553,15 +2558,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9237,
-      "Completed": 206
+      "Progressed": 9239,
+      "Completed": 207
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:06:33.5931845+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:06:19.5426235+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.8345922+00:00",
-  "LastUpdate_Ratings": "2023-05-13T14:00:41.8790059+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:06:33.5932257+00:00"
+  "LastUpdate_Ratings": "2023-05-13T15:00:29.365507+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:06:19.5426668+00:00"
 }

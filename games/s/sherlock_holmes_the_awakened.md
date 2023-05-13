@@ -9,8 +9,8 @@
 | Read Between The Lines | 64.00% | ~95 |
 | Whispers In The Dark | 64.00% | ~95 |
 | Fond Memories | 57.00% | ~84 |
-| History Check | 56.00% | ~83 |
-| A Method To His Madness | 56.00% | ~83 |
+| History Check | 57.00% | ~84 |
+| A Method To His Madness | 57.00% | ~84 |
 | The New World | 55.00% | ~81 |
 | Open Sesame | 53.00% | ~78 |
 | Sticky Fingers | 53.00% | ~78 |
@@ -26,7 +26,7 @@
 | Fhtagn! | 43.00% | ~64 |
 | Going Once... | 41.00% | ~61 |
 | Brain Food | 40.00% | ~59 |
-| Let Me Be Frank | 38.00% | ~56 |
+| Let Me Be Frank | 39.00% | ~58 |
 | No Stone Unturned | 37.00% | ~55 |
 | Curiosity Killed The Cat | 25.00% | ~37 |
 | Read It And Weep | 25.00% | ~37 |

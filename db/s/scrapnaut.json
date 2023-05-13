@@ -204,17 +204,17 @@
       "ID": "ACH_BUILD_RAFINERY",
       "SetID": "7c4cldc",
       "Name": "Black Gold",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -445,8 +445,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:05:53.3192621+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:05:43.1981199+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:24.851912+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:58:36.388132+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:05:53.3192857+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:58:45.7821445+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:05:43.1981485+00:00"
 }

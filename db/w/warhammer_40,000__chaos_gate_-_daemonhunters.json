@@ -510,7 +510,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2595,
+  "EOS_Progressed": 2596,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
@@ -775,6 +775,11 @@
       "Time": "2023-05-13T13:08:46.4133789+00:00",
       "NumProgressed": 2595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T15:06:08.483386+00:00",
+      "NumProgressed": 2596,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -872,9 +877,9 @@
       "ID": "ExperiencedKnight",
       "SetID": "3jha1np",
       "Name": "Honoured Battle-Brother",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 286
     },
     {
       "ID": "ExtractorSkullUses",
@@ -978,7 +983,7 @@
       "Name": "Executioner",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "Kills_Exterminator",
@@ -1257,21 +1262,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2595,
+      "Progressed": 2596,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2595,
+      "Progressed": 2596,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-08T20:00:29.2116217+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:06:21.3059684+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:06:08.4833853+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:33.8980479+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:58:48.746042+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:06:21.3060664+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:58:55.5894274+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:06:08.4834551+00:00"
 }

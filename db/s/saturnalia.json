@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63414,
+  "EOS_Progressed": 63418,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1794,6 +1794,11 @@
       "Time": "2023-05-13T14:01:31.1485693+00:00",
       "NumProgressed": 63414,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-13T15:01:12.8222687+00:00",
+      "NumProgressed": 63418,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -1813,7 +1818,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -1861,7 +1866,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -1909,7 +1914,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_READCLUES",
@@ -1925,7 +1930,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -1957,14 +1962,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63414,
+      "Progressed": 63418,
       "Completed": 10
     }
   ],
@@ -1972,8 +1977,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-04-14T01:53:25.2992682+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:01:31.1485684+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:01:12.8222677+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:27.061306+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:57:23.3739266+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:01:31.1486205+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:57:42.1245293+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:01:12.822323+00:00"
 }

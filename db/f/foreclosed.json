@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed_Percentage": 2.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -51,6 +51,11 @@
       "Time": "2023-05-06T18:07:28.7436239+00:00",
       "NumProgressed": 74,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-13T15:06:03.2948949+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -60,7 +65,7 @@
       "ID": "AllCreditorsComplete",
       "SetID": "9e3d06k",
       "Name": "Full and Final Settlement",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -92,7 +97,7 @@
       "ID": "EnemyDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Unstoppable",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -100,7 +105,7 @@
       "ID": "EnemyDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Cyborg",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -116,7 +121,7 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -124,7 +129,7 @@
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 39
     },
@@ -132,7 +137,7 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 43
     },
@@ -188,7 +193,7 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 47
     },
@@ -220,7 +225,7 @@
       "ID": "StoryEnd",
       "SetID": "9e3d06k",
       "Name": "One Click Away",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -244,7 +249,7 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 22
     }
@@ -253,7 +258,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 2
     }
   ],
@@ -261,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:06:15.6406688+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:06:03.2948943+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:55.4665279+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:59:15.1820203+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:06:15.6406894+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:59:17.1921533+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:06:03.2949238+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -66,6 +66,11 @@
       "Time": "2023-05-12T11:05:37.0656823+00:00",
       "NumProgressed": 287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T15:06:16.6646231+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -91,9 +96,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "Assassin",
@@ -149,7 +154,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "GoblinTales",
@@ -317,7 +322,7 @@
       "Name": "Spell Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SwordMaster",
@@ -339,9 +344,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "TheTrio",
@@ -373,7 +378,7 @@
       "Name": "Troubleshooter",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "WeaponMaster",
@@ -396,7 +401,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 0
     }
   ],
@@ -404,8 +409,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:06:30.4837049+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:06:16.6646222+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:28.9930498+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:59:57.0566876+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:06:30.4837375+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:59:53.2344998+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:06:16.6646549+00:00"
 }

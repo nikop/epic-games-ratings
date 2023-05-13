@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221704,
+  "EOS_Progressed": 221706,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2288,6 +2288,11 @@
       "Time": "2023-05-13T14:05:47.1405118+00:00",
       "NumProgressed": 221704,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-13T15:05:37.9502181+00:00",
+      "NumProgressed": 221706,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -2315,7 +2320,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62077
+      "UsersEstimate": 62078
     },
     {
       "ID": "CENTAUR",
@@ -2331,7 +2336,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24387
+      "UsersEstimate": 24388
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -2435,7 +2440,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 70945
+      "UsersEstimate": 70946
     },
     {
       "ID": "NOBUNAGA",
@@ -2459,7 +2464,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19953
+      "UsersEstimate": 19954
     },
     {
       "ID": "PHOTOFINISH",
@@ -2570,15 +2575,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221704,
+      "Progressed": 221706,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:05:47.1405111+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:05:37.9502172+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.9960773+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:58:17.6285237+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:05:47.1405482+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:58:29.0507392+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:05:37.9502523+00:00"
 }

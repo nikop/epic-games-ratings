@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 870)  
+Rating: 4.06 (Ranked 871)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -185,6 +185,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.20% | ~175 |
 | Market Fluctuations | 0.20% | ~175 |
 | Once More Into The Breach | 0.20% | ~175 |
+| Wyllowwood | 0.20% | ~175 |
 | Déjà Vu All Over Again | 0.20% | ~107 |
 | Into The Fire | 0.20% | ~107 |
 | Hearts Aflame | 0.20% | ~107 |
@@ -393,7 +394,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twice More Into The Breach | 0.10% | ~87 |
 | Thrice More Into The Breach | 0.10% | ~54 |
 | Nightmare Mode | 0.10% | ~54 |
-| Wyllowwood | 0.10% | ~87 |
 | Displaced Anger | 0.10% | ~87 |
 | Ettercap Swarm | 0.10% | ~54 |
 | Smooth Talkers | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~87 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,365 (Ranked 59)  
+Progressed: 87,371 (Ranked 59)  
 Completed: 1,834 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -519,7 +519,7 @@ Completed: 1,834 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,365 | 1,834 |
+| 2023-05-13 | 87,371 | 1,834 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,870 (Ranked 37)  

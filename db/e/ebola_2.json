@@ -2,7 +2,7 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 77,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-05-13T14:03:13.7081741+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T15:03:26.2049962+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -398,7 +403,7 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -432,7 +437,7 @@
       "Name": "Statue \u2714",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "achVirus",
@@ -455,14 +460,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:03:13.7081733+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:03:26.2049953+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:07.9454664+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:57:00.4898798+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:03:13.708193+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:57:21.73731+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:03:26.2050197+00:00"
 }

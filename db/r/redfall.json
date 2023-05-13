@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1520,
+  "EOS_Progressed": 1521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1108,6 +1108,11 @@
       "Time": "2023-05-13T13:08:26.7908709+00:00",
       "NumProgressed": 1520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T15:05:48.41407+00:00",
+      "NumProgressed": 1521,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1135,7 +1140,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "Achievement_004",
@@ -1165,9 +1170,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 791
     },
     {
       "ID": "Achievement_009",
@@ -1239,7 +1244,7 @@
       "Name": "Bad Wiring",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Achievement_018",
@@ -1253,9 +1258,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1247
     },
     {
       "ID": "Achievement_020",
@@ -1311,7 +1316,7 @@
       "Name": "Fly Fisher",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Achievement_027",
@@ -1319,7 +1324,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "Achievement_028",
@@ -1327,7 +1332,7 @@
       "Name": "You Clean It Up",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Achievement_029",
@@ -1335,7 +1340,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Achievement_030",
@@ -1375,7 +1380,7 @@
       "Name": "Catch and Release",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "Achievement_035",
@@ -1646,7 +1651,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1520,
+      "Progressed": 1521,
       "Completed": 0
     }
   ],
@@ -1654,8 +1659,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-13T11:57:46.4999243+00:00",
-  "LastChanged_Achievements": "2023-05-13T14:05:58.7245009+00:00",
+  "LastChanged_Achievements": "2023-05-13T15:05:48.4140687+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:57:47.4302702+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:05:58.7245794+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:58:01.8508805+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:05:48.4142032+00:00"
 }

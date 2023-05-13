@@ -11,8 +11,8 @@
 | GG EZ | 44.00% | ~11 |
 | Hydrophobia | 24.00% | ~6 |
 | Stop Right There | 20.00% | ~5 |
+| Get to the Point | 20.00% | ~5 |
 | Ka-Ching! | 16.00% | ~4 |
-| Get to the Point | 16.00% | ~4 |
 | Grand Escape | 8.00% | ~2 |
 | Space Warrior: Prologue | 8.00% | ~2 |
 | The Hidden Secret | 8.00% | ~2 |
@@ -20,6 +20,7 @@
 | Phew! | 8.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~1 |
 | Mr. Want It All | 4.00% | ~1 |
+| Keep it Up, rookie! | 4.00% | ~1 |
 | Antaeus | 4.00% | ~1 |
 | Air Interception | 4.00% | ~1 |
 | Proliferation | 4.00% | ~1 |
@@ -43,7 +44,6 @@
 | Easy Peasy | 0.00% | ~0 |
 | Rapidfire | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |
-| Keep it Up, rookie! | 0.00% | ~0 |
 | Hell of a Fight | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
 | Mischief Time | 0.00% | ~0 |

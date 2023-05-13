@@ -2,12 +2,12 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 875,
+  "Ranking_Rating": 865,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.04,
+  "Rating": 4.08,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:07.236765+00:00",
@@ -52,6 +52,12 @@
       "Rating": 4.04,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-13T14:58:14.5549308+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -70,8 +76,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-11T06:58:06.4643937+00:00",
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
-  "LastChanged": "2023-05-01T14:57:48.1464559+00:00",
+  "LastChanged": "2023-05-13T14:58:14.5549305+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:55.9297533+00:00",
-  "LastUpdate_Ratings": "2023-05-13T13:58:00.317743+00:00",
-  "LastUpdate_Achievements": "2023-05-13T14:02:09.2570075+00:00"
+  "LastUpdate_Ratings": "2023-05-13T14:58:14.5549311+00:00",
+  "LastUpdate_Achievements": "2023-05-13T15:01:36.887236+00:00"
 }

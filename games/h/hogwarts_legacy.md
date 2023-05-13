@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 104)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,010 |
-| The One Who Mastered Memories | 6.00% | ~16,010 |
-| The Hallowed Hero | 6.00% | ~16,010 |
+| Grappling with a Graphorn | 6.00% | ~16,011 |
+| The One Who Mastered Memories | 6.00% | ~16,011 |
+| The Hallowed Hero | 6.00% | ~16,011 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,342 |
 | The Hero of Hogwarts | 5.00% | ~13,342 |
 | The Defender of Dragons | 5.00% | ~13,342 |
@@ -16,16 +16,16 @@ Rating: 4.77 (Ranked 104)
 | Coasting Along | 5.00% | ~13,342 |
 | That's a Keeper | 5.00% | ~13,342 |
 | Rising From the Ashes | 5.00% | ~13,342 |
-| The Avenging Gazelle | 4.00% | ~10,673 |
-| Beast Friends | 4.00% | ~10,673 |
-| A Sallow Grave | 4.00% | ~10,673 |
-| Flight the Good Flight | 4.00% | ~10,673 |
-| A Keen Sense of Spell | 4.00% | ~10,673 |
-| A Talent for Spending | 4.00% | ~10,673 |
-| Followed the Butterflies | 4.00% | ~10,673 |
-| The Spell Master | 4.00% | ~10,673 |
-| First Class Student | 4.00% | ~10,673 |
-| Troll with the Punches | 4.00% | ~10,673 |
+| The Avenging Gazelle | 4.00% | ~10,674 |
+| Beast Friends | 4.00% | ~10,674 |
+| A Sallow Grave | 4.00% | ~10,674 |
+| Flight the Good Flight | 4.00% | ~10,674 |
+| A Keen Sense of Spell | 4.00% | ~10,674 |
+| A Talent for Spending | 4.00% | ~10,674 |
+| Followed the Butterflies | 4.00% | ~10,674 |
+| The Spell Master | 4.00% | ~10,674 |
+| First Class Student | 4.00% | ~10,674 |
+| Troll with the Punches | 4.00% | ~10,674 |
 | The Seeker of Knowledge | 3.00% | ~8,005 |
 | The Root of the Problem | 3.00% | ~8,005 |
 | Third Time's a Charm | 3.00% | ~8,005 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,067 |
 | Collector's Edition | 0.20% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,834 (Ranked 38)  
-Completed: 359 (0.13%) (Ranked 150)  
+Progressed: 266,843 (Ranked 38)  
+Completed: 360 (0.13%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 359 (0.13%) (Ranked 150)
 | 2023-05-10 | 266,527 | 358 |
 | 2023-05-11 | 266,628 | 359 |
 | 2023-05-12 | 266,757 | 359 |
-| 2023-05-13 | 266,834 | 359 |
+| 2023-05-13 | 266,843 | 360 |
 ## Awards
 Max (Character Customization): 18,684  (Ranked 18)  
 Sum: 34,222 (Ranked 33)  

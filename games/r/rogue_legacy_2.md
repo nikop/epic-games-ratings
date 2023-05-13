@@ -8,7 +8,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spells and Swords | 0.50% | ~108 |
 | Captain and Crew | 0.40% | ~86 |
-| Harvest and Home | 0.30% | ~65 |
+| Harvest and Home | 0.40% | ~86 |
 | Poise and Poisons | 0.30% | ~65 |
 | Hands and Hammers | 0.20% | ~43 |
 | King and Kin | 0.20% | ~43 |

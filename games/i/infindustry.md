@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Workforce | 8.00% | ~1 |
+| Workforce | 17.00% | ~2 |
 | Builder | 0.00% | ~0 |
 | Cook | 0.00% | ~0 |
 | Crafter | 0.00% | ~0 |
