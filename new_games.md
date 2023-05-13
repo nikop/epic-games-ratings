@@ -158,4 +158,3 @@
 | [Dream magic will](games/d/dream_magic_will.md) | 2023-04-14 | 2022-08-17 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 2016-02-01 |
 | [Two World Portal - Mysterious Adventure](games/t/two_world_portal_-_mysterious_adventure.md) | 2023-04-13 | 2023-04-13 |
-| [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 2023-04-13 |
