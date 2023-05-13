@@ -7,7 +7,7 @@
 | In the Black | 58.00% | ~92 |
 | Starting Skyward | 53.00% | ~84 |
 | Grime is Not Good | 47.00% | ~74 |
-| Campaign Launch | 40.00% | ~63 |
+| Campaign Launch | 41.00% | ~65 |
 | Floor Galore | 39.00% | ~62 |
 | Dinner Dash | 39.00% | ~62 |
 | It's Technical | 35.00% | ~55 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 231)  
-Completed: 0 (0.00%) (Ranked 198)  
+Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

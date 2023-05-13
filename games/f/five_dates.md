@@ -21,7 +21,7 @@
 | Interrogation | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 352 (Ranked 200)  
-Completed: 3 (0.85%) (Ranked 89)  
+Completed: 3 (0.85%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

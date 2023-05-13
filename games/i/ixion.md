@@ -10,7 +10,7 @@ Rating: 4.54 (Ranked 477)
 | Infinite Growth... | 1.00% | ~19 |
 | Sputnik 2049 | 1.00% | ~19 |
 | Ready for a New World | 1.00% | ~19 |
-| Guy de Borderlands | 0.80% | ~15 |
+| Guy de Borderlands | 0.90% | ~17 |
 | Space Society | 0.80% | ~15 |
 | Breaking Protocol | 0.80% | ~15 |
 | Hope Seeker | 0.80% | ~15 |
@@ -35,8 +35,10 @@ Rating: 4.54 (Ranked 477)
 | What They Hide From Us | 0.20% | ~4 |
 | ...  in a finite world | 0.20% | ~4 |
 | Praise the Hull! | 0.20% | ~4 |
+| Necessary Enhancement | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
+| Tiqqun Unchained | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
 | What the Ruins Teach Us | 0.20% | ~4 |
 | Pulsar Disciple | 0.20% | ~4 |
@@ -44,10 +46,8 @@ Rating: 4.54 (Ranked 477)
 | Oats | 0.10% | ~2 |
 | Sustainable Energy | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
-| Necessary Enhancement | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Space Greenhouse | 0.10% | ~2 |
-| Tiqqun Unchained | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
 | Help of the Forgotten Member | 0.10% | ~2 |
@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 477)
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,882 (Ranked 146)  
-Completed: 0 (0.00%) (Ranked 198)  
+Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

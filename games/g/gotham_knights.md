@@ -39,6 +39,7 @@ Rating: 4.17 (Ranked 831)
 | Expert Crime Fighter | 0.20% | ~122 |
 | Not On My Watch | 0.20% | ~122 |
 | Family Meeting | 0.20% | ~122 |
+| A Worthy Successor | 0.20% | ~122 |
 | Gotham City Confidential | 0.20% | ~122 |
 | Solid Alibi | 0.20% | ~122 |
 | Hammer and Icicle | 0.10% | ~31 |
@@ -63,12 +64,11 @@ Rating: 4.17 (Ranked 831)
 | A Sophisticated Mallet | 0.10% | ~31 |
 | He'd Be So Proud of You | 0.10% | ~61 |
 | A Momentum Occasion | 0.10% | ~61 |
-| A Worthy Successor | 0.10% | ~61 |
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,836 (Ranked 67)  
-Completed: 90 (0.15%) (Ranked 145)  
+Progressed: 60,839 (Ranked 67)  
+Completed: 90 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,7 +90,7 @@ Completed: 90 (0.15%) (Ranked 145)
 | 2023-05-10 | 60,780 | 90 |
 | 2023-05-11 | 60,799 | 90 |
 | 2023-05-12 | 60,819 | 90 |
-| 2023-05-13 | 60,836 | 90 |
+| 2023-05-13 | 60,839 | 90 |
 ## Awards
 Max (Great Boss Battles): 2,208  (Ranked 99)  
 Sum: 3,657 (Ranked 138)  

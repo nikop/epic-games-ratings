@@ -6,7 +6,7 @@
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -3670,9 +3670,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87383,
+  "EOS_Progressed": 87391,
   "EOS_Completed": 1835,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5764,6 +5764,11 @@
     {
       "Time": "2023-05-13T17:06:02.3825218+00:00",
       "NumProgressed": 87383,
+      "NumCompleted": 1835
+    },
+    {
+      "Time": "2023-05-13T18:06:33.3368762+00:00",
+      "NumProgressed": 87391,
       "NumCompleted": 1835
     }
   ],
@@ -8926,9 +8931,9 @@
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_71",
@@ -9687,21 +9692,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53657,
+      "Progressed": 53665,
       "Completed": 2502
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87383,
+      "Progressed": 87391,
       "Completed": 1835
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-13T13:00:56.2777344+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:06:02.3825215+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:06:33.3368758+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T16:58:03.0674171+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:06:02.3845923+00:00"
+  "LastUpdate_Ratings": "2023-05-13T17:58:04.9759865+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:06:33.3391287+00:00"
 }

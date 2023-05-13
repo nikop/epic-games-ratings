@@ -3,9 +3,9 @@
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -169,9 +169,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_campaigns_1",
@@ -794,8 +794,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:41.2286411+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:06:09.8323306+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:00.4875795+00:00",
-  "LastUpdate_Ratings": "2023-05-13T16:58:05.1186362+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:41.2287231+00:00"
+  "LastUpdate_Ratings": "2023-05-13T17:58:07.3502318+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:06:09.8324145+00:00"
 }

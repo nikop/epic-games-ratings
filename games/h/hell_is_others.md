@@ -5,20 +5,20 @@ Rating: 4.46 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,060 |
-| Predator I | 22.00% | ~54,688 |
-| Fixer I | 10.00% | ~24,858 |
-| A week in Century City | 10.00% | ~24,858 |
+| Survivor | 31.00% | ~77,062 |
+| Predator I | 22.00% | ~54,689 |
+| Fixer I | 10.00% | ~24,859 |
+| A week in Century City | 10.00% | ~24,859 |
 | The Wait | 7.00% | ~17,401 |
 | Green thumb I | 6.00% | ~14,915 |
 | Well-oiled machine | 5.00% | ~12,429 |
 | Saver I | 5.00% | ~12,429 |
 | Cleaning Company | 5.00% | ~12,429 |
-| The Ascent | 4.00% | ~9,943 |
-| Pacifist | 4.00% | ~9,943 |
-| Vandalism | 4.00% | ~9,943 |
-| Capitalist I | 4.00% | ~9,943 |
-| Adrenaline | 3.00% | ~7,457 |
+| The Ascent | 4.00% | ~9,944 |
+| Pacifist | 4.00% | ~9,944 |
+| Vandalism | 4.00% | ~9,944 |
+| Capitalist I | 4.00% | ~9,944 |
+| Adrenaline | 3.00% | ~7,458 |
 | By a hair | 2.00% | ~4,972 |
 | Fixer II | 2.00% | ~4,972 |
 | It took a while | 2.00% | ~4,972 |
@@ -37,7 +37,7 @@ Rating: 4.46 (Ranked 591)
 | Run the Economy | 1.00% | ~2,486 |
 | Committed Relationship | 0.80% | ~1,989 |
 | Number 1 | 0.70% | ~1,740 |
-| Interior designer | 0.60% | ~1,491 |
+| Interior designer | 0.60% | ~1,492 |
 | The Gamble | 0.50% | ~1,243 |
 | The Descent | 0.50% | ~1,243 |
 | A major purchase | 0.50% | ~1,243 |
@@ -62,8 +62,8 @@ Rating: 4.46 (Ranked 591)
 | Capitalist III | 0.10% | ~249 |
 | Hell Is You | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,580 (Ranked 39)  
-Completed: 1 (0.00%) (Ranked 198)  
+Progressed: 248,588 (Ranked 39)  
+Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 1 (0.00%) (Ranked 198)
 | 2023-05-10 | 248,340 | 1 |
 | 2023-05-11 | 248,407 | 1 |
 | 2023-05-12 | 248,486 | 1 |
-| 2023-05-13 | 248,580 | 1 |
+| 2023-05-13 | 248,588 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 469)  
 Sum: 23 (Ranked 472)  

@@ -6,29 +6,29 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~219,198 |
+| First Steps | 96.00% | ~219,199 |
 | Uncharted Territory | 89.00% | ~203,215 |
 | Getting A Glimpse | 73.00% | ~166,682 |
-| A Quick Escape | 65.00% | ~148,415 |
-| Explorer | 62.00% | ~141,565 |
-| Defeat The Dark | 61.00% | ~139,282 |
-| An Offering | 61.00% | ~139,282 |
-| Colorful Corpse | 58.00% | ~132,432 |
-| That Was Quick | 56.00% | ~127,865 |
-| A Donation | 56.00% | ~127,865 |
+| A Quick Escape | 65.00% | ~148,416 |
+| Explorer | 62.00% | ~141,566 |
+| Defeat The Dark | 61.00% | ~139,283 |
+| An Offering | 61.00% | ~139,283 |
+| Colorful Corpse | 58.00% | ~132,433 |
+| That Was Quick | 56.00% | ~127,866 |
+| A Donation | 56.00% | ~127,866 |
 | Goodbye, Frog Friend | 54.00% | ~123,299 |
-| Heavy Hitter | 52.00% | ~118,732 |
-| Heartless | 46.00% | ~105,032 |
-| Spine Breaker | 46.00% | ~105,032 |
+| Heavy Hitter | 52.00% | ~118,733 |
+| Heartless | 46.00% | ~105,033 |
+| Spine Breaker | 46.00% | ~105,033 |
 | Deflection | 44.00% | ~100,466 |
-| Sneaky | 43.00% | ~98,182 |
+| Sneaky | 43.00% | ~98,183 |
 | Delving Deeper | 42.00% | ~95,899 |
 | Ambitious Intent | 41.00% | ~93,616 |
 | C-C-Combo | 41.00% | ~93,616 |
-| The Bestiary | 40.00% | ~91,332 |
+| The Bestiary | 40.00% | ~91,333 |
 | Nothing To Lose | 39.00% | ~89,049 |
 | What's Yours Is Mine | 38.00% | ~86,766 |
-| R.I.P | 36.00% | ~82,199 |
+| R.I.P | 36.00% | ~82,200 |
 | Shootout | 35.00% | ~79,916 |
 | Cold Hearted | 34.00% | ~77,633 |
 | I Am Overburdened | 34.00% | ~77,633 |
@@ -36,15 +36,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 32.00% | ~73,066 |
 | Who To Trust? | 31.00% | ~70,783 |
 | Flesh Wound | 29.00% | ~66,216 |
-| Walk It Off | 27.00% | ~61,649 |
-| Stone Touch | 27.00% | ~61,649 |
-| Acid Bath | 27.00% | ~61,649 |
-| Shadow Walker | 27.00% | ~61,649 |
+| Walk It Off | 27.00% | ~61,650 |
+| Stone Touch | 27.00% | ~61,650 |
+| Acid Bath | 27.00% | ~61,650 |
+| Shadow Walker | 27.00% | ~61,650 |
 | Consecutive Curses | 26.00% | ~59,366 |
 | Destroy Your Fears | 26.00% | ~59,366 |
 | New Perspectives | 26.00% | ~59,366 |
 | Shapeshifting | 26.00% | ~59,366 |
-| Save Our Souls | 24.00% | ~54,799 |
+| Save Our Souls | 24.00% | ~54,800 |
 | To The Death! | 19.00% | ~43,383 |
 | Well Prepared | 19.00% | ~43,383 |
 | Just Chilling | 19.00% | ~43,383 |
@@ -60,16 +60,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 12.00% | ~27,400 |
 | Berzerker | 12.00% | ~27,400 |
 | Chain Reaction | 12.00% | ~27,400 |
-| Antivenom | 11.00% | ~25,116 |
+| Antivenom | 11.00% | ~25,117 |
 | Thank You, Friend | 10.00% | ~22,833 |
 | Barbecue | 10.00% | ~22,833 |
 | Snake Sneak | 9.00% | ~20,550 |
-| Challenge Increases | 8.00% | ~18,266 |
-| New Game+ | 8.00% | ~18,266 |
-| Clearing The Room | 8.00% | ~18,266 |
-| Fragile Mortality | 8.00% | ~18,266 |
-| Defuser | 8.00% | ~18,266 |
-| Precious | 8.00% | ~18,266 |
+| Challenge Increases | 8.00% | ~18,267 |
+| New Game+ | 8.00% | ~18,267 |
+| Clearing The Room | 8.00% | ~18,267 |
+| Fragile Mortality | 8.00% | ~18,267 |
+| Defuser | 8.00% | ~18,267 |
+| Precious | 8.00% | ~18,267 |
 | Friend of Vermin | 7.00% | ~15,983 |
 | Juggernaut | 7.00% | ~15,983 |
 | Path To Enlightenment | 7.00% | ~15,983 |
@@ -129,8 +129,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~913 |
 | Near Death Experience | 0.30% | ~685 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,331 (Ranked 41)  
-Completed: 228 (0.10%) (Ranked 155)  
+Progressed: 228,332 (Ranked 41)  
+Completed: 228 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,7 +152,7 @@ Completed: 228 (0.10%) (Ranked 155)
 | 2023-05-10 | 228,144 | 228 |
 | 2023-05-11 | 228,199 | 228 |
 | 2023-05-12 | 228,267 | 228 |
-| 2023-05-13 | 228,331 | 228 |
+| 2023-05-13 | 228,332 | 228 |
 ## Awards
 Max (Quickly Understood Controls): 1,472  (Ranked 114)  
 Sum: 11,391 (Ranked 74)  

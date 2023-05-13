@@ -6,9 +6,9 @@
   "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -147,7 +147,7 @@
   ],
   "EOS_Progressed": 1164,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -594,9 +594,9 @@
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -634,9 +634,9 @@
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 128
     },
     {
       "ID": "completedStory_legacy",
@@ -850,8 +850,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:22.5162173+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:05:49.4502751+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.1630654+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:00:35.734848+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:22.5162584+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:00:57.8861753+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:49.4503149+00:00"
 }

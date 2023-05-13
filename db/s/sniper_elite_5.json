@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -719,9 +719,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 106
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1022,8 +1022,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:16.5308503+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:05:42.9545089+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:00:31.3590169+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:16.5309053+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:00:52.9642533+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:42.9545634+00:00"
 }

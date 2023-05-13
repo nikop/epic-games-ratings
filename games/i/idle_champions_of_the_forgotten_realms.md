@@ -55,6 +55,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.30% | ~262 |
 | Running of the Saurs | 0.30% | ~262 |
 | An Even Worse Time in Avernus | 0.30% | ~161 |
+| Close Escort | 0.30% | ~262 |
 | Constant Banditry | 0.30% | ~262 |
 | Waterdeep Detours | 0.30% | ~262 |
 | Underdeep Cartography | 0.30% | ~262 |
@@ -208,7 +209,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.20% | ~107 |
 | Enemy Summit | 0.20% | ~107 |
 | Mirage Arcane | 0.20% | ~107 |
-| Close Escort | 0.20% | ~175 |
 | The Long Haul | 0.20% | ~175 |
 | Lost in the Deep | 0.20% | ~175 |
 | Easily Distracted | 0.20% | ~175 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,383 (Ranked 59)  
-Completed: 1,835 (2.10%) (Ranked 60)  
+Progressed: 87,391 (Ranked 59)  
+Completed: 1,835 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -519,7 +519,7 @@ Completed: 1,835 (2.10%) (Ranked 60)
 | 2023-05-10 | 87,097 | 1,823 |
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
-| 2023-05-13 | 87,383 | 1,835 |
+| 2023-05-13 | 87,391 | 1,835 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,870 (Ranked 37)  

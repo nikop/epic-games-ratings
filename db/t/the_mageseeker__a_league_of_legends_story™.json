@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1983,
+  "EOS_Progressed": 1984,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1236,6 +1236,11 @@
       "Time": "2023-05-13T17:05:22.8322018+00:00",
       "NumProgressed": 1983,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-13T18:05:49.7676837+00:00",
+      "NumProgressed": 1984,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1271,7 +1276,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -1311,7 +1316,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1327,7 +1332,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1335,15 +1340,15 @@
       "Name": "I smell fear",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
       "SetID": "3pe2bac",
       "Name": "Friendly fire",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 258
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -1351,7 +1356,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1359,7 +1364,7 @@
       "Name": "I chose my shackles",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -1423,7 +1428,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1431,7 +1436,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1447,7 +1452,7 @@
       "Name": "The end of the experiments",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -1463,7 +1468,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1479,7 +1484,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1495,7 +1500,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -1535,7 +1540,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -1613,9 +1618,9 @@
       "ID": "STB_SECONDARY_ASSAULT_V",
       "SetID": "3pe2bac",
       "Name": "Cloven Dell Headquarters",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 238
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -1670,7 +1675,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1983,
+      "Progressed": 1984,
       "Completed": 1
     }
   ],
@@ -1678,8 +1683,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:22.8322012+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:05:49.7676831+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-13T16:57:36.2457332+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:22.8322417+00:00"
+  "LastUpdate_Ratings": "2023-05-13T17:57:34.3994155+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:49.7677303+00:00"
 }

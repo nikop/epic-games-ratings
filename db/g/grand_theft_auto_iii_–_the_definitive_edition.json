@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 102,
+  "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4895,
+  "EOS_Progressed": 4896,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1028,6 +1028,11 @@
       "Time": "2023-05-13T17:05:17.1265879+00:00",
       "NumProgressed": 4895,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-13T18:05:43.5405943+00:00",
+      "NumProgressed": 4896,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1039,7 +1044,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4064
     },
     {
       "ID": "ACH02",
@@ -1047,7 +1052,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "ACH03",
@@ -1063,7 +1068,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH05",
@@ -1167,7 +1172,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH18",
@@ -1223,7 +1228,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH25",
@@ -1270,7 +1275,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4895,
+      "Progressed": 4896,
       "Completed": 26
     }
   ],
@@ -1278,8 +1283,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:17.1265872+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:05:43.5405939+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:51.3816793+00:00",
-  "LastUpdate_Ratings": "2023-05-13T16:57:55.2628978+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:17.1266081+00:00"
+  "LastUpdate_Ratings": "2023-05-13T17:57:56.2840309+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:43.5406136+00:00"
 }

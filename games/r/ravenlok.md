@@ -8,7 +8,7 @@
 | Waff! | 93.00% | ~578 |
 | Into the Barn | 87.00% | ~540 |
 | A Prophecy | 85.00% | ~528 |
-| Sword, Shield, Fight! | 75.00% | ~466 |
+| Sword, Shield, Fight! | 76.00% | ~472 |
 | A Grand Visit | 71.00% | ~441 |
 | Vibing | 61.00% | ~379 |
 | Fun Guy | 60.00% | ~373 |
@@ -25,10 +25,10 @@
 | Teacups for Toppy | 38.00% | ~236 |
 | Nightmare Fuel | 37.00% | ~230 |
 | Take Heart | 37.00% | ~230 |
-| The Guardian | 36.00% | ~224 |
+| The Guardian | 37.00% | ~230 |
+| Frog Facts! | 35.00% | ~217 |
 | Stronger! | 35.00% | ~217 |
 | Ancient Wisdom | 34.00% | ~211 |
-| Frog Facts! | 34.00% | ~211 |
 | All That Glistens | 34.00% | ~211 |
 | It's Pointy! | 34.00% | ~211 |
 | All Skilled Up! | 33.00% | ~205 |

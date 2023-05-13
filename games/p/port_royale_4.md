@@ -58,7 +58,7 @@ Number of Ratings: 53  (23.09.2022)
 | Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 526 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 198)  
+Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

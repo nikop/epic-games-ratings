@@ -85,7 +85,7 @@
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 146 (Ranked 241)  
-Completed: 0 (0.00%) (Ranked 198)  
+Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

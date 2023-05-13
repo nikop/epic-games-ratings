@@ -6,9 +6,9 @@
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 775,
+  "EOS_Progressed": 776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -545,6 +545,11 @@
       "Time": "2023-05-13T12:06:07.2778938+00:00",
       "NumProgressed": 775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T18:06:23.2028655+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -612,7 +617,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "EXPERT_1",
@@ -716,7 +721,7 @@
       "Name": "One shot, one kill",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "PACIFIST",
@@ -843,15 +848,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 775,
+      "Progressed": 776,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:53.67382+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:06:23.2028652+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:04.4870163+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:00:10.9137104+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:53.6738417+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:00:28.5664342+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:06:23.2028858+00:00"
 }

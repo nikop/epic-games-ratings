@@ -3,9 +3,9 @@
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -354,17 +354,17 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Poosh Past 10000",
@@ -378,9 +378,9 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Poosh Past 5000",
@@ -402,17 +402,17 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Terrible Start",
       "SetID": "5n829i",
       "Name": "Terrible Start",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -424,8 +424,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:19.4339044+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:05:46.0811756+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:31.9787117+00:00",
-  "LastUpdate_Ratings": "2023-05-13T16:57:36.0434244+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:19.4339176+00:00"
+  "LastUpdate_Ratings": "2023-05-13T17:57:34.1431081+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:46.0811875+00:00"
 }

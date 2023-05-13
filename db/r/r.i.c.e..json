@@ -3,9 +3,9 @@
   "Name": "R.I.C.E.",
   "ProductSlug": "rice-d1b792",
   "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-01T14:00:00+00:00",
     "PcReleaseDate": "2023-05-01T14:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-05-04T06:00:36.8272403+00:00",
   "LastChanged": "2023-05-04T06:00:36.8272403+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:14.8501149+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:00:21.1302614+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:04:50.1126902+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:00:40.4338016+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:14.7351777+00:00"
 }

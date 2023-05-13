@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,205 |
-| Jeef Skeejj | 44.00% | ~201,470 |
-| Careful planning | 39.00% | ~178,576 |
-| Second Coming | 33.00% | ~151,103 |
-| Jeef Skagg | 30.00% | ~137,366 |
-| Mother | 25.00% | ~114,472 |
-| In space, no one can hear you scream | 23.00% | ~105,314 |
-| Chapter I: Echoes | 22.00% | ~100,735 |
-| Excelsior Rule | 22.00% | ~100,735 |
-| Things persisted in not being what they seemed | 20.00% | ~91,577 |
-| Knightmare Frames | 15.00% | ~68,683 |
-| May His passing cleanse the world | 15.00% | ~68,683 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,683 |
-| Pope Zenon | 15.00% | ~68,683 |
+| The Shutdown | 66.00% | ~302,209 |
+| Jeef Skeejj | 44.00% | ~201,473 |
+| Careful planning | 39.00% | ~178,578 |
+| Second Coming | 33.00% | ~151,105 |
+| Jeef Skagg | 30.00% | ~137,368 |
+| Mother | 25.00% | ~114,473 |
+| In space, no one can hear you scream | 23.00% | ~105,315 |
+| Chapter I: Echoes | 22.00% | ~100,736 |
+| Excelsior Rule | 22.00% | ~100,736 |
+| Things persisted in not being what they seemed | 20.00% | ~91,579 |
+| Knightmare Frames | 15.00% | ~68,684 |
+| May His passing cleanse the world | 15.00% | ~68,684 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,684 |
+| Pope Zenon | 15.00% | ~68,684 |
 | Tetsuo | 11.00% | ~50,368 |
 | Plan for the worst | 11.00% | ~50,368 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,789 |
@@ -28,27 +28,27 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~36,631 |
 | Back to Ganyma | 8.00% | ~36,631 |
 | Kaos Rule | 8.00% | ~36,631 |
-| Admiral Okonkwo | 7.00% | ~32,052 |
-| The Survivalists | 7.00% | ~32,052 |
-| The Tech Specialist | 7.00% | ~32,052 |
-| Chapter V: Memories of None | 6.00% | ~27,473 |
-| Meet your maker | 6.00% | ~27,473 |
-| The Impersonator | 6.00% | ~27,473 |
-| The Kid | 6.00% | ~27,473 |
-| The Evangelist | 6.00% | ~27,473 |
-| The Inquisitor | 6.00% | ~27,473 |
-| The Ace Pilot | 6.00% | ~27,473 |
-| The Tech Med | 6.00% | ~27,473 |
-| The Mech Soldier | 6.00% | ~27,473 |
-| The lucky charm | 6.00% | ~27,473 |
-| The Anonymous | 6.00% | ~27,473 |
-| The Smuggler | 6.00% | ~27,473 |
-| The Crazy Repairman | 6.00% | ~27,473 |
-| The Weasel | 6.00% | ~27,473 |
-| Kill the Doctor | 5.00% | ~22,894 |
-| Forsaken | 5.00% | ~22,894 |
-| Mercy | 5.00% | ~22,894 |
-| Jericho Rule | 5.00% | ~22,894 |
+| Admiral Okonkwo | 7.00% | ~32,053 |
+| The Survivalists | 7.00% | ~32,053 |
+| The Tech Specialist | 7.00% | ~32,053 |
+| Chapter V: Memories of None | 6.00% | ~27,474 |
+| Meet your maker | 6.00% | ~27,474 |
+| The Impersonator | 6.00% | ~27,474 |
+| The Kid | 6.00% | ~27,474 |
+| The Evangelist | 6.00% | ~27,474 |
+| The Inquisitor | 6.00% | ~27,474 |
+| The Ace Pilot | 6.00% | ~27,474 |
+| The Tech Med | 6.00% | ~27,474 |
+| The Mech Soldier | 6.00% | ~27,474 |
+| The lucky charm | 6.00% | ~27,474 |
+| The Anonymous | 6.00% | ~27,474 |
+| The Smuggler | 6.00% | ~27,474 |
+| The Crazy Repairman | 6.00% | ~27,474 |
+| The Weasel | 6.00% | ~27,474 |
+| Kill the Doctor | 5.00% | ~22,895 |
+| Forsaken | 5.00% | ~22,895 |
+| Mercy | 5.00% | ~22,895 |
+| Jericho Rule | 5.00% | ~22,895 |
 | Geno Rule | 3.00% | ~13,737 |
 | Hammer Rule | 3.00% | ~13,737 |
 | Survivor | 2.00% | ~9,158 |
@@ -72,8 +72,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,887 (Ranked 28)  
-Completed: 14 (0.00%) (Ranked 198)  
+Progressed: 457,893 (Ranked 28)  
+Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,7 +95,7 @@ Completed: 14 (0.00%) (Ranked 198)
 | 2023-05-10 | 457,695 | 14 |
 | 2023-05-11 | 457,744 | 14 |
 | 2023-05-12 | 457,795 | 14 |
-| 2023-05-13 | 457,887 | 14 |
+| 2023-05-13 | 457,893 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

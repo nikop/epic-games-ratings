@@ -17,14 +17,14 @@
 | Backstory Buff | 11.00% | ~4 |
 | Breathless End | 11.00% | ~4 |
 | Finger-Lickin' Bad | 11.00% | ~4 |
-| Flying High | 6.00% | ~2 |
+| Flying High | 9.00% | ~3 |
 | Fool's Gold | 6.00% | ~2 |
+| Escape Artist | 3.00% | ~1 |
 | Freedum Fighter | 3.00% | ~1 |
 | Key Keeper's Curse | 3.00% | ~1 |
-| Escape Artist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35 (Ranked 288)  
-Completed: 0 (0.00%) (Ranked 198)  
+Completed: 1 (2.86%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -39,4 +39,4 @@ Completed: 0 (0.00%) (Ranked 198)
 | 2023-05-10 | 30 | 0 |
 | 2023-05-11 | 32 | 0 |
 | 2023-05-12 | 34 | 0 |
-| 2023-05-13 | 35 | 0 |
+| 2023-05-13 | 35 | 1 |

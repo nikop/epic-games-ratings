@@ -5,14 +5,14 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~937 |
+| Victor | 94.00% | ~938 |
 | World Map | 80.00% | ~798 |
-| Temple of Eternals | 56.00% | ~558 |
-| Prestigious | 52.00% | ~518 |
+| Temple of Eternals | 56.00% | ~559 |
+| Prestigious | 52.00% | ~519 |
 | Fellowship Power | 39.00% | ~389 |
-| Guild Power | 23.00% | ~229 |
-| Prestigious x10 | 19.00% | ~189 |
-| The game is on | 17.00% | ~169 |
+| Guild Power | 23.00% | ~230 |
+| Prestigious x10 | 19.00% | ~190 |
+| The game is on | 17.00% | ~170 |
 | Exotic Merchant | 16.00% | ~160 |
 | Dragon Clicker | 14.00% | ~140 |
 | Miner Clicker | 14.00% | ~140 |
@@ -50,8 +50,8 @@ Rating: 3.64 (Ranked 917)
 | Master Enchanter | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
-| Dragon Slayer | 0.80% | ~8 |
-| Engineer Mastery | 0.70% | ~7 |
+| Dragon Slayer | 0.90% | ~9 |
+| Engineer Mastery | 0.80% | ~8 |
 | Lock And Load | 0.70% | ~7 |
 | Weekly Quest Completionist | 0.70% | ~7 |
 | Blueprint Upgrades | 0.60% | ~6 |
@@ -81,8 +81,8 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 997 (Ranked 164)  
-Completed: 1 (0.10%) (Ranked 155)  
+Progressed: 998 (Ranked 164)  
+Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 1 (0.10%) (Ranked 155)
 | 2023-05-10 | 948 | 1 |
 | 2023-05-11 | 962 | 1 |
 | 2023-05-12 | 979 | 1 |
-| 2023-05-13 | 997 | 1 |
+| 2023-05-13 | 998 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

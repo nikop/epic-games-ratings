@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 621,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
@@ -1228,17 +1228,17 @@
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 217
     },
     {
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 472
     },
     {
       "ID": "29",
@@ -1276,9 +1276,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "33",
@@ -1485,8 +1485,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:12.1018734+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:05:37.9918514+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-13T16:57:27.0938385+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:12.1019115+00:00"
+  "LastUpdate_Ratings": "2023-05-13T17:57:24.5851535+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:37.9918974+00:00"
 }

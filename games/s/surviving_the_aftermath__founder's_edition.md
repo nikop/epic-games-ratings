@@ -18,7 +18,7 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Explorer | 33.00% | ~1,725 |
 | Energized | 33.00% | ~1,725 |
 | The Long Haul | 33.00% | ~1,725 |
-| Survivor | 31.00% | ~1,620 |
+| Survivor | 32.00% | ~1,673 |
 | The Great Healer | 30.00% | ~1,568 |
 | Cleaner | 28.00% | ~1,464 |
 | Catastrofan | 28.00% | ~1,464 |
@@ -34,8 +34,8 @@ Number of Ratings: 836  (23.09.2022)
 | Rocket Surgeon | 19.00% | ~993 |
 | Friendly | 16.00% | ~836 |
 | Big Game Hunter | 16.00% | ~836 |
+| Spreading Influence | 16.00% | ~836 |
 | Around the World | 15.00% | ~784 |
-| Spreading Influence | 15.00% | ~784 |
 | Bookworm | 14.00% | ~732 |
 | Famous Adventurer | 13.00% | ~680 |
 | Prepared for Anything | 13.00% | ~680 |
@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,227 (Ranked 120)  
-Completed: 0 (0.00%) (Ranked 198)  
+Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

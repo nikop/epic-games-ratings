@@ -3,9 +3,9 @@
   "Name": "Football Manager 2021 Touch",
   "ProductSlug": "football-manager-2021-touch",
   "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T18:00:19.8652022+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:00:27.2755802+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:04:53.5240903+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:00:47.9639749+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:18.5350708+00:00"
 }

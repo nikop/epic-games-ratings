@@ -21,10 +21,10 @@ Rating: 4.38 (Ranked 690)
 | Liberté | 17.00% | ~121 |
 | Explosive Efficiency | 16.00% | ~113 |
 | Gunslinger | 15.00% | ~106 |
+| Close Quarters | 15.00% | ~106 |
 | Climbing the Ladder | 14.00% | ~99 |
 | Fields of Glory | 14.00% | ~99 |
 | Skirmisher | 14.00% | ~99 |
-| Close Quarters | 14.00% | ~99 |
 | Just a Flesh Wound | 13.00% | ~92 |
 | Der Geist | 13.00% | ~92 |
 | Snake in the Grass | 13.00% | ~92 |
@@ -75,7 +75,7 @@ Rating: 4.38 (Ranked 690)
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 709 (Ranked 176)  
-Completed: 2 (0.28%) (Ranked 127)  
+Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

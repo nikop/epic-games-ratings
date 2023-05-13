@@ -21,7 +21,7 @@ Rating: 4.08 (Ranked 865)
 | The Shardmenstration | 18.00% | ~610 |
 | Those Were the Days... | 18.00% | ~610 |
 | ...To Heroes | 17.00% | ~576 |
-| Mas, Por Favor | 16.00% | ~542 |
+| Mas, Por Favor | 17.00% | ~576 |
 | And Still Champion... | 14.00% | ~474 |
 | Super Trusting Friend! | 9.00% | ~305 |
 | Bring back the butt! | 4.00% | ~136 |
@@ -33,7 +33,7 @@ Rating: 4.08 (Ranked 865)
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,389 (Ranked 131)  
-Completed: 0 (0.00%) (Ranked 198)  
+Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

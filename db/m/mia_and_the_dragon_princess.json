@@ -3,9 +3,9 @@
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 35,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -196,6 +196,11 @@
       "Time": "2023-05-13T12:05:29.6805564+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-13T18:05:45.8511395+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -245,9 +250,9 @@
       "ID": "escape_artist",
       "SetID": "5anb57n",
       "Name": "Escape Artist",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "explosive_end",
@@ -269,9 +274,9 @@
       "ID": "flying_high",
       "SetID": "5anb57n",
       "Name": "Flying High",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "fools_gold",
@@ -351,13 +356,13 @@
       "ID": "5anb57n",
       "IsBase": true,
       "Progressed": 35,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-13T17:05:19.1654566+00:00",
+  "LastChanged_Achievements": "2023-05-13T18:05:45.8511391+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:59.9025038+00:00",
-  "LastUpdate_Ratings": "2023-05-13T16:58:04.6283695+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:05:19.1654671+00:00"
+  "LastUpdate_Ratings": "2023-05-13T17:58:06.6597801+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:45.8511507+00:00"
 }

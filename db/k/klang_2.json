@@ -3,9 +3,9 @@
   "Name": "Klang 2",
   "ProductSlug": "klang-2-4f9883",
   "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T18:00:20.1708304+00:00",
-  "LastUpdate_Ratings": "2023-05-13T17:00:27.43857+00:00",
-  "LastUpdate_Achievements": "2023-05-13T17:04:53.8903491+00:00"
+  "LastUpdate_Ratings": "2023-05-13T18:00:48.8371579+00:00",
+  "LastUpdate_Achievements": "2023-05-13T18:05:18.9011136+00:00"
 }

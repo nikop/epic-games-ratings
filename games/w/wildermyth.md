@@ -15,13 +15,13 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 21.00% | ~244 |
 | Gotta Ca... Must Collect All of Them | 19.00% | ~221 |
 | Completing the Look | 11.00% | ~128 |
+| War Endured | 11.00% | ~128 |
 | Who's Counting? | 10.00% | ~116 |
-| War Endured | 10.00% | ~116 |
 | Core Failure | 10.00% | ~116 |
 | A Mythic Menagerie | 9.00% | ~105 |
 | Pyrrhic Victory | 8.00% | ~93 |
+| Thematic Divergence | 7.00% | ~81 |
 | Echoes Die | 7.00% | ~81 |
-| Thematic Divergence | 6.00% | ~70 |
 | Chain Reaction | 6.00% | ~70 |
 | A Story of Heroes | 6.00% | ~70 |
 | Let Me Get My Chisel | 5.00% | ~58 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,164 (Ranked 157)  
-Completed: 3 (0.26%) (Ranked 131)  
+Completed: 3 (0.26%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
