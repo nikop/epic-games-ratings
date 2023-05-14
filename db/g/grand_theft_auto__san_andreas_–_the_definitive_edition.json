@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 351,
+  "Ranking_Rating": 352,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7622,
+  "EOS_Progressed": 7623,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1394,6 +1394,11 @@
       "Time": "2023-05-14T20:06:47.8863858+00:00",
       "NumProgressed": 7622,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-14T21:05:31.3040014+00:00",
+      "NumProgressed": 7623,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1684,7 +1689,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7622,
+      "Progressed": 7623,
       "Completed": 15
     }
   ],
@@ -1692,8 +1697,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:47.8863851+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:05:31.304001+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:00:58.3356366+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:47.8864199+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:59:58.8368371+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:05:31.3040296+00:00"
 }

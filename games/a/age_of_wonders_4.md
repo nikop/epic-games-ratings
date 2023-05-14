@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 516)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 82.00% | ~1,966 |
-| Realm Estate | 80.00% | ~1,918 |
-| Secret Technique | 80.00% | ~1,918 |
-| Walls Cannot Stop Us | 76.00% | ~1,822 |
-| From Friends to Family | 72.00% | ~1,726 |
-| Magical Synergy | 67.00% | ~1,606 |
-| Bone Peddler | 63.00% | ~1,510 |
-| Stronger Together | 56.00% | ~1,342 |
-| Full Ascension | 54.00% | ~1,294 |
-| There Can Only Be One! | 47.00% | ~1,127 |
-| Seat of Power | 46.00% | ~1,103 |
-| My Final Form | 42.00% | ~1,007 |
-| Intimidation Tactics | 41.00% | ~983 |
-| Valley of Wonders | 40.00% | ~959 |
-| In a Liege of Your Own | 35.00% | ~839 |
-| Digging for Treasure | 29.00% | ~695 |
-| Against the Odds | 29.00% | ~695 |
-| Return of the Wizard King | 27.00% | ~647 |
-| Enchanted Archipelago | 23.00% | ~551 |
-| Impenetrable Fortress | 23.00% | ~551 |
-| The Magic That Empowers Me! | 16.00% | ~384 |
+| A Wonderful Discovery | 83.00% | ~1,993 |
+| Realm Estate | 80.00% | ~1,921 |
+| Secret Technique | 80.00% | ~1,921 |
+| Walls Cannot Stop Us | 76.00% | ~1,825 |
+| From Friends to Family | 72.00% | ~1,729 |
+| Magical Synergy | 67.00% | ~1,609 |
+| Bone Peddler | 63.00% | ~1,513 |
+| Stronger Together | 56.00% | ~1,345 |
+| Full Ascension | 54.00% | ~1,297 |
+| There Can Only Be One! | 47.00% | ~1,128 |
+| Seat of Power | 46.00% | ~1,104 |
+| My Final Form | 42.00% | ~1,008 |
+| Intimidation Tactics | 41.00% | ~984 |
+| Valley of Wonders | 40.00% | ~960 |
+| In a Liege of Your Own | 35.00% | ~840 |
+| Digging for Treasure | 29.00% | ~696 |
+| Against the Odds | 29.00% | ~696 |
+| Return of the Wizard King | 27.00% | ~648 |
+| Enchanted Archipelago | 23.00% | ~552 |
+| Impenetrable Fortress | 23.00% | ~552 |
+| The Magic That Empowers Me! | 17.00% | ~408 |
 | Preparation Is Everything | 16.00% | ~384 |
 | God Emperor | 15.00% | ~360 |
 | Arch Mage | 15.00% | ~360 |
@@ -40,17 +40,17 @@ Rating: 4.51 (Ranked 516)
 | The Eternal Court | 5.00% | ~120 |
 | Jack of All Tomes | 5.00% | ~120 |
 | Betrayal Most Foul | 4.00% | ~96 |
-| Grexolis | 2.00% | ~48 |
 | Snap Out of It! | 1.00% | ~24 |
 | I Want to Break Free | 1.00% | ~24 |
+| Grexolis | 1.00% | ~24 |
 | One for All, All for One | 1.00% | ~24 |
 | Manufactured War | 0.80% | ~19 |
 | I'll Fight You All | 0.70% | ~17 |
-| The Grey Wizard | 0.30% | ~7 |
+| The Grey Wizard | 0.20% | ~5 |
 | Master of Evilness | 0.10% | ~2 |
 | Returning Circle | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,397 (Ranked 139)  
+Progressed: 2,401 (Ranked 139)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 1,834 | 0 |
 | 2023-05-12 | 2,037 | 0 |
 | 2023-05-13 | 2,241 | 0 |
-| 2023-05-14 | 2,397 | 0 |
+| 2023-05-14 | 2,401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -469,9 +469,9 @@
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
       "SetID": "kakdpn",
       "Name": "You Poor Now!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 678
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -558,8 +558,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:32.0840252+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:05:17.5295033+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:25.1754424+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:00:03.0994451+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:32.0840471+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:59:12.5951268+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:05:17.5295174+00:00"
 }

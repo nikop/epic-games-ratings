@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46167,
+  "EOS_Progressed": 46169,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-05-14T20:06:11.6192018+00:00",
       "NumProgressed": 46167,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-14T21:04:59.6370181+00:00",
+      "NumProgressed": 46169,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1592,7 +1597,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9233
+      "UsersEstimate": 9234
     },
     {
       "ID": "02",
@@ -1624,7 +1629,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "06",
@@ -1656,7 +1661,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "10",
@@ -1752,7 +1757,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "22",
@@ -1816,7 +1821,7 @@
       "Name": "Sound and Fury",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "30",
@@ -1848,7 +1853,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "34",
@@ -1952,7 +1957,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "47",
@@ -2127,21 +2132,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46167,
+      "Progressed": 46169,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9635,
+      "Progressed": 9637,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:11.6192012+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:04:59.6370178+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:57:43.6445814+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:11.6192885+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:57:19.3799829+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:04:59.6370722+00:00"
 }

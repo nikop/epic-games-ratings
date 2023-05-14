@@ -6,12 +6,12 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~3,961 |
-| I'll Be Back | 84.00% | ~3,540 |
-| Sorry, I Dropped This | 77.00% | ~3,245 |
+| On My Own Two Feet | 94.00% | ~3,962 |
+| I'll Be Back | 84.00% | ~3,541 |
+| Sorry, I Dropped This | 77.00% | ~3,246 |
 | First Day on the Job | 76.00% | ~3,203 |
 | Butcher's Bill | 55.00% | ~2,318 |
-| P.A.X | 37.00% | ~1,559 |
+| P.A.X | 37.00% | ~1,560 |
 | Hey Listen | 36.00% | ~1,517 |
 | OPERATOR | 35.00% | ~1,475 |
 | It's Blue Light | 33.00% | ~1,391 |
@@ -19,8 +19,8 @@ Number of Ratings: 62  (23.09.2022)
 | Infidel | 23.00% | ~969 |
 | GOLIATH | 21.00% | ~885 |
 | Firebug | 20.00% | ~843 |
-| I Choose You | 17.00% | ~716 |
-| Nothing to Lose | 17.00% | ~716 |
+| I Choose You | 17.00% | ~717 |
+| Nothing to Lose | 17.00% | ~717 |
 | Big Sister | 15.00% | ~632 |
 | Gear Up | 15.00% | ~632 |
 | SENTINEL | 15.00% | ~632 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~464 |
 | Who's in Charge Here? | 11.00% | ~464 |
 | Shall Not Pass | 11.00% | ~464 |
-| Right Tool for the Job | 10.00% | ~421 |
+| Right Tool for the Job | 10.00% | ~422 |
 | Melting Down | 9.00% | ~379 |
 | Raging Drones | 9.00% | ~379 |
 | Overconfident | 9.00% | ~379 |
@@ -67,14 +67,14 @@ Number of Ratings: 62  (23.09.2022)
 | End of Transmission | 2.00% | ~84 |
 | Gramophone Enthusiast | 2.00% | ~84 |
 | Bling-Bling | 1.00% | ~42 |
-| Sniffing Around | 0.70% | ~29 |
-| Suited and Booted | 0.70% | ~29 |
-| Tools of War | 0.70% | ~29 |
+| Sniffing Around | 0.70% | ~30 |
+| Suited and Booted | 0.70% | ~30 |
+| Tools of War | 0.70% | ~30 |
 | Modus Operandi | 0.60% | ~25 |
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,214 (Ranked 126)  
+Progressed: 4,215 (Ranked 126)  
 Completed: 13 (0.31%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 13 (0.31%) (Ranked 123)
 | 2023-05-10 | 4,209 | 13 |
 | 2023-05-11 | 4,212 | 13 |
 | 2023-05-13 | 4,214 | 13 |
+| 2023-05-14 | 4,215 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 460)  
 Sum: 26 (Ranked 465)  

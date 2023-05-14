@@ -14,14 +14,14 @@
 | Fun Guy | 61.00% | ~384 |
 | Tragic Brave | 52.00% | ~328 |
 | Awakened Spirits | 49.00% | ~309 |
-| Little Shop | 47.00% | ~296 |
+| Little Shop | 48.00% | ~302 |
 | Surprise! | 43.00% | ~271 |
 | An Actor! | 43.00% | ~271 |
-| Curtain Call | 41.00% | ~258 |
+| Curtain Call | 42.00% | ~265 |
 | Piece of Cake | 39.00% | ~246 |
 | Gooey Delight! | 39.00% | ~246 |
+| Glimmer of Hope | 39.00% | ~246 |
 | Well Rested | 39.00% | ~246 |
-| Glimmer of Hope | 38.00% | ~239 |
 | Teacups for Toppy | 38.00% | ~239 |
 | Nightmare Fuel | 37.00% | ~233 |
 | Take Heart | 37.00% | ~233 |

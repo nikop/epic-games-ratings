@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 630,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 6.98,
   "EosHistory": [
@@ -1313,9 +1313,9 @@
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 302
     },
     {
       "ID": "32",
@@ -1337,9 +1337,9 @@
       "ID": "34",
       "SetID": "d0g98p",
       "Name": "Glimmer of Hope",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 246
     },
     {
       "ID": "35",
@@ -1513,9 +1513,9 @@
       "ID": "9",
       "SetID": "d0g98p",
       "Name": "Curtain Call",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 265
     }
   ],
   "AchievementSets": [
@@ -1530,8 +1530,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:05:57.0993436+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:04:46.8319294+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:57:30.842246+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:05:57.099394+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:57:09.0562154+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:04:46.831967+00:00"
 }

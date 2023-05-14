@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1889,
+  "EOS_Progressed": 1891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -637,6 +637,11 @@
       "Time": "2023-05-14T15:05:03.7920396+00:00",
       "NumProgressed": 1889,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T21:04:51.5090624+00:00",
+      "NumProgressed": 1891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -942,17 +947,17 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BASE_49",
       "SetID": "92iocjf",
       "Name": "Ain\u0027t Nobody Got Time for That",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BASE_5",
@@ -1103,13 +1108,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 69,
+      "Progressed": 71,
       "Completed": 3
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1889,
+      "Progressed": 1891,
       "Completed": 0
     }
   ],
@@ -1117,8 +1122,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:02.7112956+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:04:51.5090621+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:58:44.0766787+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:02.7114804+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:58:08.2493368+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:04:51.5091079+00:00"
 }

@@ -17,14 +17,14 @@
 | Knives Out | 53.00% | ~78 |
 | Land, Ho! | 53.00% | ~78 |
 | Lock, Stock, And Barrel | 52.00% | ~77 |
+| Gaze Into The Abyss | 52.00% | ~77 |
 | Back In The Saddle | 52.00% | ~77 |
-| Gaze Into The Abyss | 51.00% | ~75 |
 | No Man Is An Island | 51.00% | ~75 |
 | At Wits' End | 49.00% | ~73 |
 | Bookworm | 46.00% | ~68 |
 | Fhtagn! | 45.00% | ~67 |
 | Up In Flames | 44.00% | ~65 |
-| Going Once... | 41.00% | ~61 |
+| Going Once... | 42.00% | ~62 |
 | Brain Food | 41.00% | ~61 |
 | Let Me Be Frank | 39.00% | ~58 |
 | No Stone Unturned | 39.00% | ~58 |

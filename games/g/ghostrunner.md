@@ -6,15 +6,15 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~3,741 |
-| Sword Runner | 63.00% | ~3,021 |
+| Longrunner | 78.00% | ~3,742 |
+| Sword Runner | 63.00% | ~3,022 |
 | Wallrunner | 58.00% | ~2,782 |
 | Running out of breath | 57.00% | ~2,734 |
-| Homerunner | 48.00% | ~2,302 |
-| I call it luck | 47.00% | ~2,254 |
-| Out of order | 47.00% | ~2,254 |
-| Where are my Keys? | 44.00% | ~2,110 |
-| Back to hell | 39.00% | ~1,870 |
+| Homerunner | 48.00% | ~2,303 |
+| I call it luck | 47.00% | ~2,255 |
+| Out of order | 47.00% | ~2,255 |
+| Where are my Keys? | 44.00% | ~2,111 |
+| Back to hell | 39.00% | ~1,871 |
 | Perfection | 35.00% | ~1,679 |
 | Sword to a gunfight | 32.00% | ~1,535 |
 | Why not both | 32.00% | ~1,535 |
@@ -28,10 +28,10 @@ Number of Ratings: 1,047  (23.09.2022)
 | Can't Run Can't Hide | 20.00% | ~959 |
 | R is for Running | 19.00% | ~911 |
 | Dead in the air | 17.00% | ~815 |
-| Improvise, adapt, overrun | 15.00% | ~719 |
-| Pre-empative strike | 15.00% | ~719 |
-| More than human | 13.00% | ~623 |
-| Strike | 13.00% | ~623 |
+| Improvise, adapt, overrun | 15.00% | ~720 |
+| Pre-empative strike | 15.00% | ~720 |
+| More than human | 13.00% | ~624 |
+| Strike | 13.00% | ~624 |
 | Triple A | 10.00% | ~480 |
 | Fine addition | 8.00% | ~384 |
 | One Of Those Days | 7.00% | ~336 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~24 |
 | Up Close And Personal | 0.50% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,796 (Ranked 124)  
+Progressed: 4,797 (Ranked 124)  
 Completed: 24 (0.50%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 24 (0.50%) (Ranked 105)
 | 2023-05-11 | 4,506 | 22 |
 | 2023-05-12 | 4,596 | 22 |
 | 2023-05-13 | 4,703 | 22 |
-| 2023-05-14 | 4,796 | 24 |
+| 2023-05-14 | 4,797 | 24 |
 ## Awards
 Max (Great Boss Battles): 456  (Ranked 189)  
 Sum: 590 (Ranked 282)  

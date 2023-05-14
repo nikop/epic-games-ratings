@@ -5,42 +5,42 @@ Rating: 4.26 (Ranked 776)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~143,716 |
-| Copacetic Coordination | 16.00% | ~49,988 |
-| Fronting the Money | 14.00% | ~43,740 |
-| The Dawn of Automation | 14.00% | ~43,740 |
-| Extraordinary Logistics | 14.00% | ~43,740 |
-| Family First | 13.00% | ~40,616 |
-| Cleaning House | 12.00% | ~37,491 |
-| Room in the Back | 12.00% | ~37,491 |
-| Dirty Money | 12.00% | ~37,491 |
-| Booze Baron | 11.00% | ~34,367 |
-| Beating the Heat | 10.00% | ~31,243 |
-| Friends on the Force | 10.00% | ~31,243 |
-| Neighborhood Watch | 10.00% | ~31,243 |
-| Core Corps | 8.00% | ~24,994 |
-| Sizeable Stash | 7.00% | ~21,870 |
-| Street Fighter | 7.00% | ~21,870 |
-| Friendly Gestures | 7.00% | ~21,870 |
-| Liquor Lord | 6.00% | ~18,746 |
-| Show ‘em the Sugar | 6.00% | ~18,746 |
-| People Person | 6.00% | ~18,746 |
-| Street Knowledge | 5.00% | ~15,621 |
-| Oh Captain | 5.00% | ~15,621 |
-| Branching Out | 5.00% | ~15,621 |
-| Improvement Missions | 5.00% | ~15,621 |
-| Opportunity Knocked | 5.00% | ~15,621 |
-| City of Big Shoulders | 5.00% | ~15,621 |
-| Safety in Numbers | 5.00% | ~15,621 |
-| Moving Experiences | 5.00% | ~15,621 |
-| Mission Mastery | 5.00% | ~15,621 |
-| Wise Head | 5.00% | ~15,621 |
-| Killing Them Softly | 5.00% | ~15,621 |
-| Considerable Clams | 4.00% | ~12,497 |
-| Gin Joint | 4.00% | ~12,497 |
-| An Affront to the Enemy | 4.00% | ~12,497 |
-| Friends from Back Home | 4.00% | ~12,497 |
-| Half Century Mark | 4.00% | ~12,497 |
+| Corner Clout | 46.00% | ~143,724 |
+| Copacetic Coordination | 16.00% | ~49,991 |
+| Fronting the Money | 14.00% | ~43,742 |
+| The Dawn of Automation | 14.00% | ~43,742 |
+| Extraordinary Logistics | 14.00% | ~43,742 |
+| Family First | 13.00% | ~40,618 |
+| Cleaning House | 12.00% | ~37,493 |
+| Room in the Back | 12.00% | ~37,493 |
+| Dirty Money | 12.00% | ~37,493 |
+| Booze Baron | 11.00% | ~34,369 |
+| Beating the Heat | 10.00% | ~31,244 |
+| Friends on the Force | 10.00% | ~31,244 |
+| Neighborhood Watch | 10.00% | ~31,244 |
+| Core Corps | 8.00% | ~24,995 |
+| Sizeable Stash | 7.00% | ~21,871 |
+| Street Fighter | 7.00% | ~21,871 |
+| Friendly Gestures | 7.00% | ~21,871 |
+| Liquor Lord | 6.00% | ~18,747 |
+| Show ‘em the Sugar | 6.00% | ~18,747 |
+| People Person | 6.00% | ~18,747 |
+| Street Knowledge | 5.00% | ~15,622 |
+| Oh Captain | 5.00% | ~15,622 |
+| Branching Out | 5.00% | ~15,622 |
+| Improvement Missions | 5.00% | ~15,622 |
+| Opportunity Knocked | 5.00% | ~15,622 |
+| City of Big Shoulders | 5.00% | ~15,622 |
+| Safety in Numbers | 5.00% | ~15,622 |
+| Moving Experiences | 5.00% | ~15,622 |
+| Mission Mastery | 5.00% | ~15,622 |
+| Wise Head | 5.00% | ~15,622 |
+| Killing Them Softly | 5.00% | ~15,622 |
+| Considerable Clams | 4.00% | ~12,498 |
+| Gin Joint | 4.00% | ~12,498 |
+| An Affront to the Enemy | 4.00% | ~12,498 |
+| Friends from Back Home | 4.00% | ~12,498 |
+| Half Century Mark | 4.00% | ~12,498 |
 | Corner Opportunities | 3.00% | ~9,373 |
 | 2122 North Clark Street | 3.00% | ~9,373 |
 | Copious Cabbage | 3.00% | ~9,373 |
@@ -61,7 +61,7 @@ Rating: 4.26 (Ranked 776)
 | The Rubber Meets the Road | 0.90% | ~2,812 |
 | Determined Deliveries | 0.90% | ~2,812 |
 | Stepping It Up | 0.90% | ~2,812 |
-| Crossing Over | 0.80% | ~2,499 |
+| Crossing Over | 0.80% | ~2,500 |
 | Boots in the Ground | 0.70% | ~2,187 |
 | Getting Fancy | 0.70% | ~2,187 |
 | Homemade Hooch | 0.40% | ~1,250 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 776)
 | High Pillow | 0.10% | ~312 |
 | Station Master | 0.10% | ~312 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,427 (Ranked 37)  
+Progressed: 312,443 (Ranked 37)  
 Completed: 3 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 3 (0.00%) (Ranked 199)
 | 2023-05-11 | 311,339 | 3 |
 | 2023-05-12 | 311,653 | 3 |
 | 2023-05-13 | 312,059 | 3 |
-| 2023-05-14 | 312,427 | 3 |
+| 2023-05-14 | 312,443 | 3 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 466)  
 Sum: 87 (Ranked 404)  

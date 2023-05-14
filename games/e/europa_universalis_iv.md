@@ -6,37 +6,37 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,313 |
-| That's a Grand Army | 8.00% | ~2,945 |
-| That is mine! | 8.00% | ~2,945 |
-| Victorious! | 8.00% | ~2,945 |
-| Brothers in Arms | 6.00% | ~2,209 |
-| That's a Grand Navy | 6.00% | ~2,209 |
-| Seriously?! | 6.00% | ~2,209 |
-| For the Glory | 5.00% | ~1,841 |
-| Cold War | 4.00% | ~1,473 |
-| True Catholic | 4.00% | ~1,473 |
-| Defender of the Faith | 3.00% | ~1,104 |
-| It's all about the money | 3.00% | ~1,104 |
-| Respected | 3.00% | ~1,104 |
-| Truly Divine Ruler | 3.00% | ~1,104 |
-| Blockader | 2.00% | ~736 |
-| Combined Arms | 2.00% | ~736 |
-| Double the Love | 2.00% | ~736 |
-| Gentle Persuasion | 2.00% | ~736 |
-| It's all about luck | 2.00% | ~736 |
-| Queen of Conquest | 2.00% | ~736 |
-| Royal Authority | 2.00% | ~736 |
-| The Princess is in this Castle | 2.00% | ~736 |
-| Total Control | 2.00% | ~736 |
-| Agressive Expander | 1.00% | ~368 |
-| All That's Thine Shall Be Mine | 1.00% | ~368 |
-| Azur semé de lis or | 1.00% | ~368 |
-| Bright Spark | 1.00% | ~368 |
-| City of Cities | 1.00% | ~368 |
-| Factionalism | 1.00% | ~368 |
-| A Golden Empire | 1.00% | ~368 |
-| My armies are invincible! | 1.00% | ~368 |
+| Until death do us apart | 9.00% | ~3,317 |
+| That's a Grand Army | 8.00% | ~2,949 |
+| That is mine! | 8.00% | ~2,949 |
+| Victorious! | 8.00% | ~2,949 |
+| Brothers in Arms | 6.00% | ~2,211 |
+| That's a Grand Navy | 6.00% | ~2,211 |
+| Seriously?! | 6.00% | ~2,211 |
+| For the Glory | 5.00% | ~1,843 |
+| Cold War | 4.00% | ~1,474 |
+| True Catholic | 4.00% | ~1,474 |
+| Defender of the Faith | 3.00% | ~1,106 |
+| It's all about the money | 3.00% | ~1,106 |
+| Respected | 3.00% | ~1,106 |
+| Truly Divine Ruler | 3.00% | ~1,106 |
+| Blockader | 2.00% | ~737 |
+| Combined Arms | 2.00% | ~737 |
+| Double the Love | 2.00% | ~737 |
+| Gentle Persuasion | 2.00% | ~737 |
+| It's all about luck | 2.00% | ~737 |
+| Queen of Conquest | 2.00% | ~737 |
+| Royal Authority | 2.00% | ~737 |
+| The Princess is in this Castle | 2.00% | ~737 |
+| Total Control | 2.00% | ~737 |
+| Agressive Expander | 1.00% | ~369 |
+| All That's Thine Shall Be Mine | 1.00% | ~369 |
+| Azur semé de lis or | 1.00% | ~369 |
+| Bright Spark | 1.00% | ~369 |
+| City of Cities | 1.00% | ~369 |
+| Factionalism | 1.00% | ~369 |
+| A Golden Empire | 1.00% | ~369 |
+| My armies are invincible! | 1.00% | ~369 |
 | Isn't this the way to India? | 0.80% | ~295 |
 | Market Control | 0.80% | ~295 |
 | The Five Colonies | 0.80% | ~295 |
@@ -59,19 +59,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.40% | ~147 |
 | Trophy Hunter | 0.40% | ~147 |
 | Voting Streak | 0.40% | ~147 |
-| All Your Trade Are Belong to Us | 0.30% | ~110 |
-| Bleed Them Dry | 0.30% | ~110 |
-| Dude, Where's my Boat? | 0.30% | ~110 |
-| Four For Trade | 0.30% | ~110 |
-| Global Hegemony | 0.30% | ~110 |
-| Grand Coalition | 0.30% | ~110 |
-| Grand Duchy | 0.30% | ~110 |
-| In the Name of the Father | 0.30% | ~110 |
-| Italian Ambition | 0.30% | ~110 |
-| One Night in Paris | 0.30% | ~110 |
-| Tear Down This Wall | 0.30% | ~110 |
-| Traditional Player | 0.30% | ~110 |
-| Wonderful | 0.30% | ~110 |
+| All Your Trade Are Belong to Us | 0.30% | ~111 |
+| Bleed Them Dry | 0.30% | ~111 |
+| Dude, Where's my Boat? | 0.30% | ~111 |
+| Four For Trade | 0.30% | ~111 |
+| Global Hegemony | 0.30% | ~111 |
+| Grand Coalition | 0.30% | ~111 |
+| Grand Duchy | 0.30% | ~111 |
+| In the Name of the Father | 0.30% | ~111 |
+| Italian Ambition | 0.30% | ~111 |
+| One Night in Paris | 0.30% | ~111 |
+| Tear Down This Wall | 0.30% | ~111 |
+| Traditional Player | 0.30% | ~111 |
+| Wonderful | 0.30% | ~111 |
 | A Decent Reserve | 0.20% | ~74 |
 | A Pile of Gold | 0.20% | ~74 |
 | A Protected Market | 0.20% | ~74 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,815 (Ranked 81)  
+Progressed: 36,858 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,16 +385,16 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 34,344 | 0 |
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
-| 2023-05-14 | 36,815 | 0 |
+| 2023-05-14 | 36,858 | 0 |
 ## Awards
 Max (Educational): 5,220  (Ranked 60)  
-Sum: 43,195 (Ranked 27)  
+Sum: 43,200 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,220 |
 | This game is Highly Recommended | 5,002 |
-| This game has Challenging Combat | 4,987 |
+| This game has Challenging Combat | 4,992 |
 | This game is Extremely Fun | 4,960 |
 | This game has Diverse Characters | 4,909 |
 | This game is Relaxing | 4,861 |
@@ -522,4 +522,4 @@ Diff (max vs sum): 33
 | 2023-05-11 | 4.68 | - | 5,206 | 43,064 |
 | 2023-05-12 | 4.68 | - | 5,212 | 43,110 |
 | 2023-05-13 | 4.68 | - | 5,216 | 43,160 |
-| 2023-05-14 | 4.68 | - | 5,220 | 43,195 |
+| 2023-05-14 | 4.68 | - | 5,220 | 43,200 |

@@ -1,35 +1,35 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 352)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~432,371 |
-| The Three | 64.00% | ~333,395 |
-| The Banquet | 40.00% | ~208,372 |
-| Devara's Light | 30.00% | ~156,279 |
-| The Iron Ones | 18.00% | ~93,767 |
-| The Village | 16.00% | ~83,349 |
-| The Forest | 14.00% | ~72,930 |
-| Branded | 13.00% | ~67,721 |
-| The Imposter | 13.00% | ~67,721 |
-| The Keep | 13.00% | ~67,721 |
-| The Castle | 11.00% | ~57,302 |
+| Find Sanctuary | 83.00% | ~432,378 |
+| The Three | 64.00% | ~333,400 |
+| The Banquet | 40.00% | ~208,375 |
+| Devara's Light | 30.00% | ~156,281 |
+| The Iron Ones | 18.00% | ~93,769 |
+| The Village | 16.00% | ~83,350 |
+| The Forest | 14.00% | ~72,931 |
+| Branded | 13.00% | ~67,722 |
+| The Imposter | 13.00% | ~67,722 |
+| The Keep | 13.00% | ~67,722 |
+| The Castle | 11.00% | ~57,303 |
 | The Dome | 9.00% | ~46,884 |
 | The Red Hall | 9.00% | ~46,884 |
-| The Sacrifice | 8.00% | ~41,674 |
-| The Cave | 7.00% | ~36,465 |
-| The Stone Roots | 7.00% | ~36,465 |
-| The Ziggurat | 7.00% | ~36,465 |
+| The Sacrifice | 8.00% | ~41,675 |
+| The Cave | 7.00% | ~36,466 |
+| The Stone Roots | 7.00% | ~36,466 |
+| The Ziggurat | 7.00% | ~36,466 |
 | Storied | 6.00% | ~31,256 |
 | The Construct | 6.00% | ~31,256 |
 | The Mire | 6.00% | ~31,256 |
 | The Ruins | 6.00% | ~31,256 |
-| The Alkymancery | 5.00% | ~26,046 |
-| The Lake | 5.00% | ~26,046 |
-| The Pitchwoods | 5.00% | ~26,046 |
+| The Alkymancery | 5.00% | ~26,047 |
+| The Lake | 5.00% | ~26,047 |
+| The Pitchwoods | 5.00% | ~26,047 |
 | Honed | 4.00% | ~20,837 |
 | The House of Splendor | 4.00% | ~20,837 |
 | The Crypt | 4.00% | ~20,837 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,419 |
 | Fading Fast | 1.00% | ~5,209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,929 (Ranked 23)  
-Completed: 1,406 (0.27%) (Ranked 130)  
+Progressed: 520,937 (Ranked 23)  
+Completed: 1,407 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 1,406 (0.27%) (Ranked 130)
 | 2023-05-11 | 520,580 | 1,404 |
 | 2023-05-12 | 520,683 | 1,406 |
 | 2023-05-13 | 520,820 | 1,406 |
-| 2023-05-14 | 520,929 | 1,406 |
+| 2023-05-14 | 520,937 | 1,407 |
 ## Awards
 Max (Challenging Combat): 268  (Ranked 233)  
 Sum: 1,874 (Ranked 190)  

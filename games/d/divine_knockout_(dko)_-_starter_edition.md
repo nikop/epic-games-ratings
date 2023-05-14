@@ -4,9 +4,9 @@
 Rating: 4.35 (Ranked 716)  
 Number of Ratings: 60  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 50  (Ranked 385)  
+Max (Great for Beginners): 50  (Ranked 386)  
 Sum: 437 (Ranked 297)  
-Diff (max vs sum): 88  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 50 |

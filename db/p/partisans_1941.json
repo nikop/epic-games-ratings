@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 351,
+  "Ranking_Rating": 352,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -490,6 +490,11 @@
       "Time": "2023-05-14T00:06:09.980939+00:00",
       "NumProgressed": 885,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T21:05:17.9791065+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -501,7 +506,7 @@
       "Name": "Agent 47",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Auditor",
@@ -533,7 +538,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Commandos",
@@ -589,7 +594,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Experienced_strategist",
@@ -613,7 +618,7 @@
       "Name": "Grenadier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Hard_Serpent",
@@ -659,9 +664,9 @@
       "ID": "KillAllM2",
       "SetID": "85nb4h3",
       "Name": "No Witness",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 27
     },
     {
       "ID": "Kultprosvet",
@@ -685,7 +690,7 @@
       "Name": "Bomberman",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "MoskitoBite",
@@ -717,7 +722,7 @@
       "Name": "War Never Changes",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "We_were_not_here",
@@ -740,15 +745,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:32.5547369+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:05:17.9791061+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:11.284496+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:59:44.4179196+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:32.5547642+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:58:58.2929367+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:05:17.9791235+00:00"
 }

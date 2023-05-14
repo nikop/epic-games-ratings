@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5622,
+  "EOS_Progressed": 5623,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -871,6 +871,11 @@
       "Time": "2023-05-14T10:05:49.1616015+00:00",
       "NumProgressed": 5622,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-14T21:04:58.3403475+00:00",
+      "NumProgressed": 5623,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -898,7 +903,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -938,7 +943,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -946,7 +951,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -954,7 +959,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -970,7 +975,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -1154,7 +1159,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -1241,7 +1246,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5622,
+      "Progressed": 5623,
       "Completed": 8
     }
   ],
@@ -1249,8 +1254,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-11T18:57:10.7073968+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:10.2827365+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:04:58.3403471+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:18.2018805+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:57:22.3557608+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:10.2827768+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:57:02.5032956+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:04:58.3403744+00:00"
 }

@@ -16,7 +16,7 @@ Rating: 4.08 (Ranked 866)
 | Shard Snatchers | 23.00% | ~780 |
 | You Rich Now! | 21.00% | ~712 |
 | Our Lucky Winner | 20.00% | ~678 |
-| You Poor Now! | 19.00% | ~644 |
+| You Poor Now! | 20.00% | ~678 |
 | You Got the Goods, Kid | 19.00% | ~644 |
 | The Shardmenstration | 18.00% | ~610 |
 | Those Were the Days... | 18.00% | ~610 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -295,9 +295,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4214,
+  "EOS_Progressed": 4215,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -430,6 +430,11 @@
       "Time": "2023-05-13T17:05:20.0503048+00:00",
       "NumProgressed": 4214,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-14T21:04:54.6701804+00:00",
+      "NumProgressed": 4215,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -441,7 +446,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -489,7 +494,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -497,7 +502,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -505,7 +510,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3245
+      "UsersEstimate": 3246
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -609,7 +614,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -729,7 +734,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -761,7 +766,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -801,7 +806,7 @@
       "Name": "Sniffing Around",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ID_ACHIEV_48",
@@ -921,7 +926,7 @@
       "Name": "Suited and Booted",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ID_ACHIEV_63",
@@ -929,7 +934,7 @@
       "Name": "Tools of War",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ID_ACHIEV_64",
@@ -976,15 +981,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4214,
+      "Progressed": 4215,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-13T23:57:53.8271899+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:06.1135146+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:04:54.67018+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.7493365+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:58:07.2934282+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:06.1135893+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:57:37.2670165+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:04:54.6702319+00:00"
 }

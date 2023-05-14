@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Learned how to jump! | 57.00% | ~4 |
-| Learned how to walk! | 57.00% | ~4 |
-| Defeated Captain Tutorial | 43.00% | ~3 |
+| Learned how to jump! | 71.00% | ~5 |
+| Learned how to walk! | 71.00% | ~5 |
+| Defeated Captain Tutorial | 57.00% | ~4 |
 | Defeated Booty The Bootleg | 29.00% | ~2 |
 | Defeated Mistermind | 29.00% | ~2 |
 | Defeated the core of the outside world | 29.00% | ~2 |

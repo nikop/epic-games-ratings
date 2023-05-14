@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -64,7 +64,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1539,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -1174,6 +1174,11 @@
       "Time": "2023-05-14T19:04:44.5317942+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T21:04:56.0815839+00:00",
+      "NumProgressed": 1539,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1201,7 +1206,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Achievement_004",
@@ -1241,7 +1246,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "Achievement_010",
@@ -1305,7 +1310,7 @@
       "Name": "Bad Wiring",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Achievement_018",
@@ -1319,9 +1324,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1247
     },
     {
       "ID": "Achievement_020",
@@ -1385,7 +1390,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Achievement_028",
@@ -1409,7 +1414,7 @@
       "Name": "ICU",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "Achievement_031",
@@ -1417,7 +1422,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "Achievement_032",
@@ -1433,7 +1438,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Achievement_034",
@@ -1505,7 +1510,7 @@
       "Name": "Starve the Beast",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Achievement_044",
@@ -1712,7 +1717,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1539,
       "Completed": 0
     }
   ],
@@ -1720,8 +1725,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-14T03:58:02.3893579+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:07.6180992+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:04:56.0815832+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:57:58.7485708+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:07.6181721+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:57:30.1789706+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:04:56.0816403+00:00"
 }

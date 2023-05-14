@@ -14,16 +14,19 @@
 | Get to the Point | 19.00% | ~5 |
 | Ka-Ching! | 15.00% | ~4 |
 | Toe to Toe | 11.00% | ~3 |
+| Phew! | 11.00% | ~3 |
 | Grand Escape | 7.00% | ~2 |
 | Space Warrior: Prologue | 7.00% | ~2 |
 | The Hidden Secret | 7.00% | ~2 |
-| Phew! | 7.00% | ~2 |
+| Mr. Want It All | 7.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~1 |
-| Mr. Want It All | 4.00% | ~1 |
+| The Hypergravitational Abyss Conqueror | 4.00% | ~1 |
+| Death Bringer Conqueror | 4.00% | ~1 |
 | Keep it Up, rookie! | 4.00% | ~1 |
 | Antaeus | 4.00% | ~1 |
 | Air Interception | 4.00% | ~1 |
 | Proliferation | 4.00% | ~1 |
+| Decapitation Strike | 4.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Deep Frozen Conqueror | 0.00% | ~0 |
 | The Abyss Conqueror | 0.00% | ~0 |
@@ -31,8 +34,6 @@
 | The Fortress Conqueror | 0.00% | ~0 |
 | The Zero Dimensional Capital Conqueror | 0.00% | ~0 |
 | The Inactivated Frozen Conqueror | 0.00% | ~0 |
-| The Hypergravitational Abyss Conqueror | 0.00% | ~0 |
-| Death Bringer Conqueror | 0.00% | ~0 |
 | he Ultra Fortress Conqueror | 0.00% | ~0 |
 | The Looping Space Conqueror | 0.00% | ~0 |
 | Break Through the Forbidden | 0.00% | ~0 |
@@ -48,7 +49,6 @@
 | Peace Out | 0.00% | ~0 |
 | Mischief Time | 0.00% | ~0 |
 | Art is an Explosion | 0.00% | ~0 |
-| Decapitation Strike | 0.00% | ~0 |
 | Clean Sweep | 0.00% | ~0 |
 | Bullets Fear Me | 0.00% | ~0 |
 | Bye Bye Gravity | 0.00% | ~0 |

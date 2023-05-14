@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9359,
+  "EOS_Progressed": 9360,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
@@ -2528,6 +2528,11 @@
       "Time": "2023-05-14T20:06:39.8551229+00:00",
       "NumProgressed": 9359,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-05-14T21:05:24.3268861+00:00",
+      "NumProgressed": 9360,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 20,
@@ -2579,7 +2584,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -2659,7 +2664,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7113
+      "UsersEstimate": 7114
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2698,15 +2703,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9359,
+      "Progressed": 9360,
       "Completed": 208
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:06:39.8551221+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:05:24.3268857+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.8345922+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:00:51.2820638+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:06:39.8551547+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:59:53.2578693+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:05:24.3269057+00:00"
 }

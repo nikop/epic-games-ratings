@@ -6,45 +6,45 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~386,077 |
-| Hey! That's mine! | 78.00% | ~371,778 |
-| Happy Returns | 77.00% | ~367,011 |
-| Field Promotion | 74.00% | ~352,712 |
-| Leadhead | 71.00% | ~338,413 |
-| Eradicator | 67.00% | ~319,347 |
-| Surplus | 65.00% | ~309,815 |
-| I Spy | 64.00% | ~305,048 |
-| Burn Baby Burn | 59.00% | ~281,216 |
-| Yellow Beats Green | 55.00% | ~262,151 |
-| Salvage Rights | 53.00% | ~252,618 |
-| Pew Pew | 50.00% | ~238,319 |
-| What IS that? | 50.00% | ~238,319 |
-| Close Call | 49.00% | ~233,553 |
-| Penny Pincher | 49.00% | ~233,553 |
-| Arsenal | 46.00% | ~219,253 |
-| Boot Camp | 45.00% | ~214,487 |
-| Flawless Victory | 42.00% | ~200,188 |
-| Confident | 40.00% | ~190,655 |
-| Exterminator | 36.00% | ~171,590 |
-| Sharpshooter | 33.00% | ~157,291 |
-| Great Ball of Fire | 32.00% | ~152,524 |
-| Not So Fast | 32.00% | ~152,524 |
-| No Sale | 30.00% | ~142,991 |
-| Kaboom! | 29.00% | ~138,225 |
-| Liquidator | 29.00% | ~138,225 |
-| High Voltage | 24.00% | ~114,393 |
-| Filthy Rich | 19.00% | ~90,561 |
-| The Not-So-Friendly Skies | 18.00% | ~85,795 |
-| Power Builder | 17.00% | ~81,028 |
-| Pyrrhic Victory | 17.00% | ~81,028 |
-| Death From Above | 16.00% | ~76,262 |
-| Retry | 16.00% | ~76,262 |
+| First Blood | 81.00% | ~386,082 |
+| Hey! That's mine! | 78.00% | ~371,782 |
+| Happy Returns | 77.00% | ~367,016 |
+| Field Promotion | 74.00% | ~352,717 |
+| Leadhead | 71.00% | ~338,417 |
+| Eradicator | 67.00% | ~319,351 |
+| Surplus | 65.00% | ~309,819 |
+| I Spy | 64.00% | ~305,052 |
+| Burn Baby Burn | 59.00% | ~281,220 |
+| Yellow Beats Green | 55.00% | ~262,154 |
+| Salvage Rights | 53.00% | ~252,621 |
+| Pew Pew | 50.00% | ~238,322 |
+| What IS that? | 50.00% | ~238,322 |
+| Close Call | 49.00% | ~233,556 |
+| Penny Pincher | 49.00% | ~233,556 |
+| Arsenal | 46.00% | ~219,256 |
+| Boot Camp | 45.00% | ~214,490 |
+| Flawless Victory | 42.00% | ~200,190 |
+| Confident | 40.00% | ~190,658 |
+| Exterminator | 36.00% | ~171,592 |
+| Sharpshooter | 33.00% | ~157,293 |
+| Great Ball of Fire | 32.00% | ~152,526 |
+| Not So Fast | 32.00% | ~152,526 |
+| No Sale | 30.00% | ~142,993 |
+| Kaboom! | 29.00% | ~138,227 |
+| Liquidator | 29.00% | ~138,227 |
+| High Voltage | 24.00% | ~114,395 |
+| Filthy Rich | 19.00% | ~90,562 |
+| The Not-So-Friendly Skies | 18.00% | ~85,796 |
+| Power Builder | 17.00% | ~81,029 |
+| Pyrrhic Victory | 17.00% | ~81,029 |
+| Death From Above | 16.00% | ~76,263 |
+| Retry | 16.00% | ~76,263 |
 | Head Trauma | 12.00% | ~57,197 |
 | Full Defense | 10.00% | ~47,664 |
-| Overseer | 9.00% | ~42,897 |
-| Annihilator | 8.00% | ~38,131 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,131 |
-| Indecisive | 6.00% | ~28,598 |
+| Overseer | 9.00% | ~42,898 |
+| Annihilator | 8.00% | ~38,132 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,132 |
+| Indecisive | 6.00% | ~28,599 |
 | Base Defender | 5.00% | ~23,832 |
 | Relay Race | 5.00% | ~23,832 |
 | Diversity | 3.00% | ~14,299 |
@@ -62,7 +62,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Xenocide | 0.90% | ~4,290 |
 | Master Siege Breaker | 0.80% | ~3,813 |
 | Few and Proud | 0.80% | ~3,813 |
-| Shell-shocked | 0.70% | ~3,336 |
+| Shell-shocked | 0.70% | ~3,337 |
 | Alien Tears | 0.50% | ~2,383 |
 | Full House | 0.40% | ~1,907 |
 | Kickstarter | 0.30% | ~1,430 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~477 |
 | You Monster | 0.10% | ~477 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,638 (Ranked 26)  
+Progressed: 476,644 (Ranked 26)  
 Completed: 4 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 4 (0.00%) (Ranked 199)
 | 2023-05-11 | 476,386 | 4 |
 | 2023-05-12 | 476,459 | 4 |
 | 2023-05-13 | 476,552 | 4 |
-| 2023-05-14 | 476,638 | 4 |
+| 2023-05-14 | 476,644 | 4 |
 ## Awards
 Max (Great for Beginners): 230  (Ranked 244)  
 Sum: 1,632 (Ranked 200)  

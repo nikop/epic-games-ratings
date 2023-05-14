@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 3,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -99,9 +99,9 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Engineer",
@@ -115,9 +115,9 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Fisher",
@@ -233,8 +233,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:01:43.1766613+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:00:38.8013748+00:00",
   "LastUpdate_AppInfo": "2023-05-08T14:58:36.6916699+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:57:06.1423664+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:01:43.1766795+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:56:48.7734599+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:00:38.8013904+00:00"
 }

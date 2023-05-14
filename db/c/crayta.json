@@ -3,12 +3,12 @@
   "Name": "Crayta",
   "ProductSlug": "crayta",
   "Ranking_Rating": 818,
-  "Ranking_Popularity": 385,
+  "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109275,
+  "EOS_Progressed": 109276,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2023-05-14T20:05:50.4121896+00:00",
       "NumProgressed": 109275,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-14T21:04:41.0075983+00:00",
+      "NumProgressed": 109276,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -946,15 +951,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109275,
+      "Progressed": 109276,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-05-14T20:05:50.4121891+00:00",
+  "LastChanged_Achievements": "2023-05-14T21:04:41.007598+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.8590607+00:00",
-  "LastUpdate_Ratings": "2023-05-14T19:58:28.034812+00:00",
-  "LastUpdate_Achievements": "2023-05-14T20:05:50.4122178+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:57:54.7638542+00:00",
+  "LastUpdate_Achievements": "2023-05-14T21:04:41.0076188+00:00"
 }

@@ -1,28 +1,28 @@
 # PC Building Simulator 2
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator-2)  
 [View Rawdata](../../db/p/pc_building_simulator_2.json)  
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 352)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,797 |
-| Shine On | 70.00% | ~110,877 |
-| On the Job | 69.00% | ~109,293 |
-| Get Stuck In | 68.00% | ~107,709 |
-| Room for Expansion | 68.00% | ~107,709 |
-| Sales Pitch | 65.00% | ~102,957 |
-| Chill Out | 64.00% | ~101,373 |
-| Tinker | 61.00% | ~96,622 |
-| Grand Designs | 60.00% | ~95,038 |
-| Hot Stuff | 59.00% | ~93,454 |
-| MOAR RGB | 54.00% | ~85,534 |
-| Dream Theme | 46.00% | ~72,862 |
-| The Customer is King | 45.00% | ~71,278 |
-| Working Hard | 44.00% | ~69,694 |
-| On the Bench | 42.00% | ~66,526 |
-| The More the Merrier | 42.00% | ~66,526 |
-| Mix and Match | 38.00% | ~60,190 |
-| Recycler | 38.00% | ~60,190 |
+| Bootstrapping | 75.00% | ~118,798 |
+| Shine On | 70.00% | ~110,879 |
+| On the Job | 69.00% | ~109,295 |
+| Get Stuck In | 68.00% | ~107,711 |
+| Room for Expansion | 68.00% | ~107,711 |
+| Sales Pitch | 65.00% | ~102,959 |
+| Chill Out | 64.00% | ~101,375 |
+| Tinker | 61.00% | ~96,623 |
+| Grand Designs | 60.00% | ~95,039 |
+| Hot Stuff | 59.00% | ~93,455 |
+| MOAR RGB | 54.00% | ~85,535 |
+| Dream Theme | 46.00% | ~72,863 |
+| The Customer is King | 45.00% | ~71,279 |
+| Working Hard | 44.00% | ~69,695 |
+| On the Bench | 42.00% | ~66,527 |
+| The More the Merrier | 42.00% | ~66,527 |
+| Mix and Match | 38.00% | ~60,191 |
+| Recycler | 38.00% | ~60,191 |
 | Foot in the Door | 37.00% | ~58,607 |
 | Very Imported PC | 36.00% | ~57,023 |
 | Full Throttle | 34.00% | ~53,855 |
@@ -31,23 +31,23 @@ Rating: 4.61 (Ranked 351)
 | Local Hero | 28.00% | ~44,351 |
 | Broken to Smokin' | 26.00% | ~41,183 |
 | Workaholic | 26.00% | ~41,183 |
-| Thanks Jeff | 25.00% | ~39,599 |
-| Cinematic | 24.00% | ~38,015 |
-| Bench Warmer | 24.00% | ~38,015 |
-| Gift of the Gab | 24.00% | ~38,015 |
-| Salvage Squad | 24.00% | ~38,015 |
-| On the Ladder | 23.00% | ~36,431 |
-| Stick With It | 23.00% | ~36,431 |
-| Variations on a Theme | 22.00% | ~34,847 |
-| Cowboy | 22.00% | ~34,847 |
-| Slap Happy | 21.00% | ~33,263 |
-| Supercool | 19.00% | ~30,095 |
-| Stabiliser | 18.00% | ~28,511 |
-| This One Goes to 11 | 18.00% | ~28,511 |
-| Going Places | 15.00% | ~23,759 |
-| Forgetful Shopper | 14.00% | ~22,175 |
-| Showpiece | 13.00% | ~20,591 |
-| Paste Not, Want Not | 13.00% | ~20,591 |
+| Thanks Jeff | 25.00% | ~39,600 |
+| Cinematic | 24.00% | ~38,016 |
+| Bench Warmer | 24.00% | ~38,016 |
+| Gift of the Gab | 24.00% | ~38,016 |
+| Salvage Squad | 24.00% | ~38,016 |
+| On the Ladder | 23.00% | ~36,432 |
+| Stick With It | 23.00% | ~36,432 |
+| Variations on a Theme | 22.00% | ~34,848 |
+| Cowboy | 22.00% | ~34,848 |
+| Slap Happy | 21.00% | ~33,264 |
+| Supercool | 19.00% | ~30,096 |
+| Stabiliser | 18.00% | ~28,512 |
+| This One Goes to 11 | 18.00% | ~28,512 |
+| Going Places | 15.00% | ~23,760 |
+| Forgetful Shopper | 14.00% | ~22,176 |
+| Showpiece | 13.00% | ~20,592 |
+| Paste Not, Want Not | 13.00% | ~20,592 |
 | Bench Press | 9.00% | ~14,256 |
 | Matching Set | 8.00% | ~12,672 |
 | Tech Vet | 8.00% | ~12,672 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 351)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,396 (Ranked 53)  
+Progressed: 158,398 (Ranked 53)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-11 | 158,275 | 102 |
 | 2023-05-12 | 158,322 | 102 |
 | 2023-05-13 | 158,365 | 102 |
-| 2023-05-14 | 158,396 | 102 |
+| 2023-05-14 | 158,398 | 102 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 163)  
 Sum: 4,552 (Ranked 127)  
