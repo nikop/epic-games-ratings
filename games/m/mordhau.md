@@ -5,37 +5,37 @@ Rating: 4.42 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~670,976 |
-| The ABCs | 43.00% | ~577,039 |
-| Home Run | 42.00% | ~563,619 |
-| Keeps Coming Off | 40.00% | ~536,780 |
-| Guts | 20.00% | ~268,390 |
-| Meat Grinder | 20.00% | ~268,390 |
-| Burning Man | 16.00% | ~214,712 |
-| Lived to Tell the Tale | 12.00% | ~161,034 |
-| Highlander | 10.00% | ~134,195 |
-| Unstoppable | 10.00% | ~134,195 |
-| Just a Scratch | 9.00% | ~120,776 |
-| Tough Nut to Crack | 6.00% | ~80,517 |
-| Yoink | 5.00% | ~67,098 |
-| Long List of Names | 4.00% | ~53,678 |
-| Pyromaniac | 4.00% | ~53,678 |
-| The Queen of Weapons | 4.00% | ~53,678 |
-| This isn’t Sparta | 2.00% | ~26,839 |
-| Poacher | 2.00% | ~26,839 |
-| Put That Away | 2.00% | ~26,839 |
-| You’re Welcome | 2.00% | ~26,839 |
-| Crybaby | 1.00% | ~13,420 |
-| Eagle Eye | 1.00% | ~13,420 |
-| I Know Kung Fu | 1.00% | ~13,420 |
-| Coming Through | 0.80% | ~10,736 |
-| Chambermaid | 0.60% | ~8,052 |
-| Training Accident | 0.60% | ~8,052 |
-| Virtuoso | 0.60% | ~8,052 |
-| Boxer | 0.50% | ~6,710 |
-| Rock’n’Roll | 0.50% | ~6,710 |
-| Flyswatter | 0.30% | ~4,026 |
-| Whack-A-Mole | 0.30% | ~4,026 |
+| Justice from the Grave | 50.00% | ~671,112 |
+| The ABCs | 43.00% | ~577,156 |
+| Home Run | 42.00% | ~563,734 |
+| Keeps Coming Off | 40.00% | ~536,890 |
+| Guts | 20.00% | ~268,445 |
+| Meat Grinder | 20.00% | ~268,445 |
+| Burning Man | 16.00% | ~214,756 |
+| Lived to Tell the Tale | 12.00% | ~161,067 |
+| Highlander | 10.00% | ~134,222 |
+| Unstoppable | 10.00% | ~134,222 |
+| Just a Scratch | 9.00% | ~120,800 |
+| Tough Nut to Crack | 6.00% | ~80,533 |
+| Yoink | 5.00% | ~67,111 |
+| Long List of Names | 4.00% | ~53,689 |
+| Pyromaniac | 4.00% | ~53,689 |
+| The Queen of Weapons | 4.00% | ~53,689 |
+| This isn’t Sparta | 2.00% | ~26,844 |
+| Poacher | 2.00% | ~26,844 |
+| Put That Away | 2.00% | ~26,844 |
+| You’re Welcome | 2.00% | ~26,844 |
+| Crybaby | 1.00% | ~13,422 |
+| Eagle Eye | 1.00% | ~13,422 |
+| I Know Kung Fu | 1.00% | ~13,422 |
+| Coming Through | 0.80% | ~10,738 |
+| Chambermaid | 0.60% | ~8,053 |
+| Training Accident | 0.60% | ~8,053 |
+| Virtuoso | 0.60% | ~8,053 |
+| Boxer | 0.50% | ~6,711 |
+| Rock’n’Roll | 0.50% | ~6,711 |
+| Flyswatter | 0.30% | ~4,027 |
+| Whack-A-Mole | 0.30% | ~4,027 |
 | Friend Indeed | 0.20% | ~2,684 |
 | Vlad the Impaler | 0.20% | ~2,684 |
 | Clobbered | 0.10% | ~1,342 |
@@ -44,8 +44,8 @@ Rating: 4.42 (Ranked 642)
 | That’s No Ordinary Cold | 0.10% | ~1,342 |
 | Stairway to Hell | 0.10% | ~1,342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,341,951 (Ranked 7)  
-Completed: 13 (0.00%) (Ranked 199)  
+Progressed: 1,342,224 (Ranked 7)  
+Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,19 +68,19 @@ Completed: 13 (0.00%) (Ranked 199)
 | 2023-05-11 | 1,330,677 | 9 |
 | 2023-05-12 | 1,334,459 | 10 |
 | 2023-05-13 | 1,339,351 | 12 |
-| 2023-05-14 | 1,341,951 | 13 |
+| 2023-05-14 | 1,342,224 | 14 |
 ## Awards
 Max (Highly Recommended): 110  (Ranked 312)  
-Sum: 621 (Ranked 275)  
-Diff (max vs sum): 37  
+Sum: 627 (Ranked 274)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 110 |
 | This game has Diverse Characters | 95 |
 | This game has Challenging Combat | 91 |
 | This game has Amazing Characters | 89 |
+| This game has Competitive Players | 84 |
 | This game is Extremely Fun | 82 |
-| This game has Competitive Players | 78 |
 | This game has Amazing Storytelling | 76 |
 | This game has Quickly Understood Controls | 76 |
 | This game is Great for Quick Sessions | 28 |
@@ -116,4 +116,4 @@ Diff (max vs sum): 37
 | 2023-05-11 | 4.42 | 95 | 624 |
 | 2023-05-12 | 4.42 | 101 | 652 |
 | 2023-05-13 | 4.42 | 110 | 613 |
-| 2023-05-14 | 4.42 | 110 | 621 |
+| 2023-05-14 | 4.42 | 110 | 627 |

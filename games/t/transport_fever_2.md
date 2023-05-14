@@ -7,30 +7,30 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~825 |
-| First cargo item on board | 71.00% | ~760 |
-| First cargo item waiting | 71.00% | ~760 |
+| First cargo item on board | 71.00% | ~761 |
+| First cargo item waiting | 71.00% | ~761 |
 | First bus stop | 70.00% | ~750 |
-| First passenger on board | 66.00% | ~707 |
-| First passenger waiting | 66.00% | ~707 |
-| First bus arrived | 65.00% | ~696 |
-| First train station | 64.00% | ~685 |
+| First passenger on board | 66.00% | ~708 |
+| First passenger waiting | 66.00% | ~708 |
+| First bus arrived | 65.00% | ~697 |
+| First train station | 64.00% | ~686 |
 | First steam train arrived | 60.00% | ~643 |
 | First industry upgraded | 56.00% | ~600 |
-| Transport millionaire | 55.00% | ~589 |
-| Cargo hub | 54.00% | ~578 |
-| Transport master | 51.00% | ~546 |
-| Cadet | 51.00% | ~546 |
+| Transport millionaire | 55.00% | ~590 |
+| Cargo hub | 54.00% | ~579 |
+| Transport master | 51.00% | ~547 |
+| Cadet | 51.00% | ~547 |
 | Sculpturer | 50.00% | ~536 |
-| First electric train arrived | 48.00% | ~514 |
-| Settled down | 48.00% | ~514 |
+| First electric train arrived | 48.00% | ~515 |
+| Settled down | 48.00% | ~515 |
 | First ship arrived | 46.00% | ~493 |
 | Now what? | 46.00% | ~493 |
 | High speed | 43.00% | ~461 |
-| Transport shark | 40.00% | ~428 |
-| First aircraft arrived | 40.00% | ~428 |
-| Exemplary student | 40.00% | ~428 |
+| Transport shark | 40.00% | ~429 |
+| First aircraft arrived | 40.00% | ~429 |
+| Exemplary student | 40.00% | ~429 |
 | Mass production | 35.00% | ~375 |
-| Aircraft entrepreneur | 33.00% | ~353 |
+| Aircraft entrepreneur | 33.00% | ~354 |
 | Crowd in a train | 31.00% | ~332 |
 | Not in my backyard | 31.00% | ~332 |
 | The future is now, old man | 31.00% | ~332 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071 (Ranked 161)  
+Progressed: 1,072 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 1,054 | 0 |
 | 2023-05-12 | 1,061 | 0 |
 | 2023-05-13 | 1,069 | 0 |
-| 2023-05-14 | 1,071 | 0 |
+| 2023-05-14 | 1,072 | 0 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 414)  
 Sum: 260 (Ranked 339)  

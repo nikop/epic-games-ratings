@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -750,9 +750,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5650,
+  "EOS_Progressed": 5652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2035,6 +2035,11 @@
       "Time": "2023-05-14T14:00:11.1974962+00:00",
       "NumProgressed": 5650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T15:00:18.3305316+00:00",
+      "NumProgressed": 5652,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2078,7 +2083,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2086,7 +2091,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "Control_All_Relics",
@@ -2110,7 +2115,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2150,7 +2155,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4464
+      "UsersEstimate": 4465
     },
     {
       "ID": "First_Race_Met",
@@ -2158,7 +2163,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4126
     },
     {
       "ID": "First_Ship_Designed",
@@ -2166,7 +2171,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "First_Stream_Travel",
@@ -2182,7 +2187,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4409
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2238,7 +2243,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "Level_5_Ship",
@@ -2262,7 +2267,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "Play_1000_Hours",
@@ -2350,7 +2355,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -2366,7 +2371,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2390,7 +2395,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Win_As_Altarian",
@@ -2406,7 +2411,7 @@
       "Name": "Win as Arceans",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Win_As_Baratak",
@@ -2414,7 +2419,7 @@
       "Name": "Win as the Baratak",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Win_As_Drath",
@@ -2438,7 +2443,7 @@
       "Name": "Win as Festron",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Win_As_Iconian",
@@ -2478,7 +2483,7 @@
       "Name": "Win as the Mimot",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Win_As_Navigators",
@@ -2534,7 +2539,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2621,15 +2626,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5650,
+      "Progressed": 5652,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-13T13:57:10.2538669+00:00",
-  "LastChanged_Achievements": "2023-05-14T14:00:11.1974957+00:00",
+  "LastChanged_Achievements": "2023-05-14T15:00:18.330531+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:57:20.1266475+00:00",
-  "LastUpdate_Achievements": "2023-05-14T14:00:11.197563+00:00"
+  "LastUpdate_Ratings": "2023-05-14T14:57:22.9623129+00:00",
+  "LastUpdate_Achievements": "2023-05-14T15:00:18.330606+00:00"
 }

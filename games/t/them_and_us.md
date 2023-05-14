@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 63.00% | ~29 |
-| Forced to Kill | 63.00% | ~29 |
-| A Night To Remember | 28.00% | ~13 |
-| Safe...For now? | 26.00% | ~12 |
-| Open Sesame | 20.00% | ~9 |
-| The Cultists | 11.00% | ~5 |
-| Alone In The Dark | 9.00% | ~4 |
-| Them and Us | 7.00% | ~3 |
-| OUTRAGE | 7.00% | ~3 |
-| Parasite Exterminated | 7.00% | ~3 |
-| This Coffin Has Your Name On It! | 7.00% | ~3 |
-| What have I done!? | 7.00% | ~3 |
+| Alone with Them | 60.00% | ~29 |
+| Forced to Kill | 60.00% | ~29 |
+| A Night To Remember | 29.00% | ~14 |
+| Safe...For now? | 25.00% | ~12 |
+| Open Sesame | 19.00% | ~9 |
+| The Cultists | 10.00% | ~5 |
+| Alone In The Dark | 8.00% | ~4 |
+| Them and Us | 6.00% | ~3 |
+| OUTRAGE | 6.00% | ~3 |
+| Parasite Exterminated | 6.00% | ~3 |
+| This Coffin Has Your Name On It! | 6.00% | ~3 |
+| What have I done!? | 6.00% | ~3 |
 | Lover of classics | 4.00% | ~2 |
 | The bus stop | 4.00% | ~2 |
 | The Forgotten Tower | 4.00% | ~2 |
@@ -45,8 +45,8 @@
 | Trapped | 2.00% | ~1 |
 | What A Mansion | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 282)  
-Completed: 1 (2.17%) (Ranked 60)  
+Progressed: 48 (Ranked 282)  
+Completed: 1 (2.08%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,7 +54,7 @@ Completed: 1 (2.17%) (Ranked 60)
 | 2023-05-01 | 8 | 1 |
 | 2023-05-12 | 13 | 1 |
 | 2023-05-13 | 31 | 1 |
-| 2023-05-14 | 46 | 1 |
+| 2023-05-14 | 48 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

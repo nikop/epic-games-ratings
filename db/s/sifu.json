@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -3910,10 +3910,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10293,
       "NumberOfAwardsMax": 6063
+    },
+    {
+      "Time": "2023-05-14T14:58:46.9450316+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10295,
+      "NumberOfAwardsMax": 6063
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10293,
+  "NumberOfAwards": 10295,
   "NumberOfAwardsMax": 6063,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3975,7 +3981,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 450
+      "Count": 452
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3990,9 +3996,9 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 702912,
+  "EOS_Progressed": 702918,
   "EOS_Completed": 12726,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5795,6 +5801,11 @@
       "Time": "2023-05-14T14:05:27.8573476+00:00",
       "NumProgressed": 702912,
       "NumCompleted": 12726
+    },
+    {
+      "Time": "2023-05-14T15:05:25.5131181+00:00",
+      "NumProgressed": 702918,
+      "NumCompleted": 12726
     }
   ],
   "TotalAchievements": 50,
@@ -5814,7 +5825,7 @@
       "Name": "The Assault",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "03_Vengeance_H2",
@@ -5894,7 +5905,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "13_LowAge",
@@ -5958,7 +5969,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -5974,7 +5985,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -5982,7 +5993,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -6014,7 +6025,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -6070,7 +6081,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "35_WideStrike",
@@ -6118,7 +6129,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -6142,7 +6153,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6205,21 +6216,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12213,
-      "Completed": 10097
+      "Progressed": 12219,
+      "Completed": 10098
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702912,
+      "Progressed": 702918,
       "Completed": 12726
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-14T09:59:11.663291+00:00",
-  "LastChanged_Achievements": "2023-05-14T14:05:27.8573471+00:00",
+  "LastChanged": "2023-05-14T14:58:46.9450315+00:00",
+  "LastChanged_Achievements": "2023-05-14T15:05:25.5131177+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:58:42.6029916+00:00",
-  "LastUpdate_Achievements": "2023-05-14T14:05:27.8573894+00:00"
+  "LastUpdate_Ratings": "2023-05-14T14:58:46.945032+00:00",
+  "LastUpdate_Achievements": "2023-05-14T15:05:25.5131596+00:00"
 }

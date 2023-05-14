@@ -19,12 +19,12 @@
 | Hospital ✔ | 7.00% | ~12 |
 | King of survival ✔ | 7.00% | ~12 |
 | Thirst ✔ | 7.00% | ~12 |
+| Alice ✔ | 6.00% | ~10 |
 | Betty ✔ | 6.00% | ~10 |
 | Brain ✔ | 6.00% | ~10 |
-| Alice ✔ | 5.00% | ~8 |
+| Food ✔ | 6.00% | ~10 |
 | City ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
-| Food ✔ | 5.00% | ~8 |
 | Mutant fight ✔ | 5.00% | ~8 |
 | Fraternal help ✔ | 5.00% | ~8 |
 | City on fire ✔ | 5.00% | ~8 |

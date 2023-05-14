@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 6147,
+  "EOS_Progressed": 6149,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2023-05-14T14:05:08.5311924+00:00",
       "NumProgressed": 6147,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-14T15:05:05.2649175+00:00",
+      "NumProgressed": 6149,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1489,7 +1494,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "ACH15",
@@ -1545,7 +1550,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH22",
@@ -1553,7 +1558,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "ACH23",
@@ -1656,7 +1661,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6147,
+      "Progressed": 6149,
       "Completed": 20
     }
   ],
@@ -1664,8 +1669,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-10T19:59:39.8173766+00:00",
-  "LastChanged_Achievements": "2023-05-14T14:05:08.531192+00:00",
+  "LastChanged_Achievements": "2023-05-14T15:05:05.2649172+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:58:06.9647697+00:00",
-  "LastUpdate_Achievements": "2023-05-14T14:05:08.5312154+00:00"
+  "LastUpdate_Ratings": "2023-05-14T14:58:09.6613449+00:00",
+  "LastUpdate_Achievements": "2023-05-14T15:05:05.2649421+00:00"
 }

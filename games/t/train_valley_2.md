@@ -68,16 +68,16 @@ Number of Ratings: 87  (23.09.2022)
 | Woodcutter | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Astrochemist | 0.30% | ~0 |
+| Astrophysicist | 0.30% | ~2 |
 | Metro builder | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
+| Urbanization Age | 0.30% | ~2 |
 | Voyager | 0.30% | ~2 |
 | Arcturus | 0.10% | ~0 |
-| Astrophysicist | 0.10% | ~1 |
 | Highlander | 0.10% | ~1 |
 | It's no coincidence | 0.10% | ~1 |
 | The Hare | 0.10% | ~1 |
 | The Hare with an espresso | 0.10% | ~1 |
-| Urbanization Age | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
@@ -92,8 +92,8 @@ Completed: 1 (0.14%) (Ranked 149)
 | 2023-05-06 | 698 | 1 |
 | 2023-05-11 | 699 | 1 |
 ## Awards
-Max (Challenging Puzzles): 71  (Ranked 362)  
-Sum: 71 (Ranked 417)  
+Max (Challenging Puzzles): 71  (Ranked 363)  
+Sum: 71 (Ranked 418)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -118,6 +118,11 @@
       "Time": "2023-05-08T20:04:12.2565615+00:00",
       "NumProgressed": 274,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-14T15:00:11.1251355+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -129,7 +134,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "02_collector",
@@ -137,7 +142,7 @@
       "Name": "Collector",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "03_philatelist",
@@ -161,7 +166,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "06_living",
@@ -177,7 +182,7 @@
       "Name": "Europe",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "08_america",
@@ -185,7 +190,7 @@
       "Name": "America",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "09_russia",
@@ -217,7 +222,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "13_bunkrupt",
@@ -225,7 +230,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "14_woodcutter",
@@ -257,7 +262,7 @@
       "Name": "Builder",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "18_foreman",
@@ -281,7 +286,7 @@
       "Name": "Sabotage",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "21_missed",
@@ -353,15 +358,15 @@
       "Name": "Madness!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "31_chancellor",
@@ -440,15 +445,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-05-14T14:00:03.9021047+00:00",
+  "LastChanged_Achievements": "2023-05-14T15:00:11.1251351+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:34.2083649+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:57:34.7369915+00:00",
-  "LastUpdate_Achievements": "2023-05-14T14:00:03.9021318+00:00"
+  "LastUpdate_Ratings": "2023-05-14T14:57:38.5827951+00:00",
+  "LastUpdate_Achievements": "2023-05-14T15:00:11.1251633+00:00"
 }

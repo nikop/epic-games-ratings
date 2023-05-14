@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~489 |
-| Project Arena | 3.00% | ~366 |
+| Project Arena | 3.00% | ~367 |
 | Bloody Sport | 1.00% | ~122 |
 | The best strikes are the ones we avoid | 0.90% | ~110 |
 | The Hateful Pole Fighter | 0.80% | ~5,623 |
@@ -19,14 +19,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.70% | ~4,920 |
 | Path of the Prospect | 0.70% | ~4,920 |
 | Rumble in the Hangar | 0.70% | ~4,920 |
-| The Assault | 0.60% | ~4,217 |
-| Scareless | 0.60% | ~4,217 |
-| Stuntmaster | 0.60% | ~4,217 |
-| Street Fighting | 0.60% | ~4,217 |
-| Life is your teacher | 0.60% | ~4,217 |
-| Qi Gong: Essence | 0.60% | ~4,217 |
-| Lightning Hands | 0.60% | ~4,217 |
-| Take damage to save time | 0.60% | ~4,217 |
+| The Assault | 0.60% | ~4,218 |
+| Scareless | 0.60% | ~4,218 |
+| Stuntmaster | 0.60% | ~4,218 |
+| Street Fighting | 0.60% | ~4,218 |
+| Life is your teacher | 0.60% | ~4,218 |
+| Qi Gong: Essence | 0.60% | ~4,218 |
+| Lightning Hands | 0.60% | ~4,218 |
+| Take damage to save time | 0.60% | ~4,218 |
 | The Old Grandmaster | 0.50% | ~3,515 |
 | Dance of the Praying Mantis | 0.50% | ~3,515 |
 | Qi Gong: Mind | 0.50% | ~3,515 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,912 (Ranked 15)  
+Progressed: 702,918 (Ranked 15)  
 Completed: 12,726 (1.81%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,10 +81,10 @@ Completed: 12,726 (1.81%) (Ranked 63)
 | 2023-05-11 | 702,825 | 12,721 |
 | 2023-05-12 | 702,858 | 12,723 |
 | 2023-05-13 | 702,892 | 12,725 |
-| 2023-05-14 | 702,912 | 12,726 |
+| 2023-05-14 | 702,918 | 12,726 |
 ## Awards
 Max (Great Boss Battles): 6,063  (Ranked 53)  
-Sum: 10,293 (Ranked 77)  
+Sum: 10,295 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -96,7 +96,7 @@ Diff (max vs sum): -24
 | This game has Amazing Storytelling | 487 |
 | This game is Highly Recommended | 475 |
 | This game has Amazing Characters | 473 |
-| This game has Unique Visuals | 450 |
+| This game has Unique Visuals | 452 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 345 |
 | This game has Obsessive Gameplay | 293 |
@@ -221,4 +221,4 @@ Diff (max vs sum): -24
 | 2023-05-11 | 4.82 | - | 6,050 | 10,267 |
 | 2023-05-12 | 4.82 | - | 6,055 | 10,277 |
 | 2023-05-13 | 4.82 | - | 6,063 | 10,288 |
-| 2023-05-14 | 4.82 | - | 6,063 | 10,293 |
+| 2023-05-14 | 4.82 | - | 6,063 | 10,295 |

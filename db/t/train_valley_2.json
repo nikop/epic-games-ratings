@@ -3,12 +3,12 @@
   "Name": "Train Valley 2",
   "ProductSlug": "train-valley-2-3606da",
   "Ranking_Rating": 841,
-  "Ranking_Popularity": 362,
-  "Ranking_PopularitySum": 417,
+  "Ranking_Popularity": 363,
+  "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "ID": "AchievementAstrophysicist",
       "SetID": "76o014g",
       "Name": "Astrophysicist",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchievementAtTheLastMoment",
@@ -843,9 +843,9 @@
       "ID": "AchievementUrbanizationAge",
       "SetID": "76o014g",
       "Name": "Urbanization Age",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchievementVandal",
@@ -913,8 +913,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-14T14:05:18.8221317+00:00",
+  "LastChanged_Achievements": "2023-05-14T15:05:16.3442448+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:25.4877513+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:57:27.3292903+00:00",
-  "LastUpdate_Achievements": "2023-05-14T14:05:18.822196+00:00"
+  "LastUpdate_Ratings": "2023-05-14T14:57:30.4187016+00:00",
+  "LastUpdate_Achievements": "2023-05-14T15:05:16.344309+00:00"
 }
