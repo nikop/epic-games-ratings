@@ -2,16 +2,16 @@
 | - | ---- | --------- |
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
 | 2 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 40.00% |
-| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.00% |
+| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 27.27% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.88% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
-| 8 | [Island Cities](games/i/island_cities.md) | 20.00% |
+| 8 | [Island Cities](games/i/island_cities.md) | 19.72% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.67% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 13 | [Remains](games/r/remains.md) | 10.53% |
 | 14 | [Smelter](games/s/smelter.md) | 10.00% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
@@ -20,9 +20,9 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.27% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.26% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.98% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -51,16 +51,16 @@
 | 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.85% |
-| 52 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.78% |
-| 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
-| 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
+| 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.70% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.67% |
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
-| 61 | [Them and Us](games/t/them_and_us.md) | 2.00% |
+| 61 | [Them and Us](games/t/them_and_us.md) | 1.96% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 63 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -118,8 +118,8 @@
 | 115 | [Tchia](games/t/tchia.md) | 0.35% |
 | 115 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
-| 119 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 119 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
+| 118 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
+| 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 121 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 123 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
