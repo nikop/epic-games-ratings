@@ -20,12 +20,12 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.41% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.40% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
-| 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.88% |
+| 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
+| 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
 | 29 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 5.00% |
@@ -93,7 +93,7 @@
 | 90 | [Lemon Cake](games/l/lemon_cake.md) | 0.85% |
 | 92 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 93 | [Adios](games/a/adios.md) | 0.80% |
-| 94 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
+| 93 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 95 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 96 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.74% |
 | 97 | [Train Valley](games/t/train_valley.md) | 0.73% |

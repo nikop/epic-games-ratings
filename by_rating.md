@@ -241,7 +241,7 @@
 | 235 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 365 |
 | 235 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 491 |
 | 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,216 | 60 |
-| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,518 | 3 |
+| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,595 | 3 |
 | 235 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 169,189 | 5 |
 | 235 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 491 |
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
@@ -426,7 +426,7 @@
 | 413 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,076 | 52 |
 | 413 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 491 |
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 208 | 254 |
-| 413 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,339 | 22 |
+| 413 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,340 | 22 |
 | 428 | [Aimlabs](games/a/aimlabs.md) | 4.57 | 0 | 491 |
 | 428 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 491 |
 | 428 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 491 |
@@ -666,21 +666,21 @@
 | 653 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 73 | 357 |
 | 653 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,162 | 100 |
 | 653 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 359 |
-| 653 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.41 | 502 | 184 |
 | 653 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 534 | 176 |
 | 653 | [Tunche](games/t/tunche.md) | 4.41 | 0 | 491 |
-| 670 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 491 |
-| 670 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
-| 670 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 986 | 138 |
-| 670 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
-| 670 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
-| 670 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
-| 670 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 397 | 201 |
-| 670 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
-| 670 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
-| 670 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 491 |
-| 670 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 491 |
-| 670 | [Warpips](games/w/warpips.md) | 4.40 | 21 | 479 |
+| 669 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 491 |
+| 669 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
+| 669 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 986 | 138 |
+| 669 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
+| 669 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
+| 669 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
+| 669 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 397 | 201 |
+| 669 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
+| 669 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
+| 669 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.40 | 502 | 184 |
+| 669 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 491 |
+| 669 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 491 |
+| 669 | [Warpips](games/w/warpips.md) | 4.40 | 21 | 479 |
 | 682 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 491 |
 | 682 | [Breathedge](games/b/breathedge.md) | 4.39 | 0 | 491 |
 | 682 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 491 |
@@ -871,7 +871,7 @@
 | 868 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 269 |
 | 868 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 491 |
 | 871 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 491 |
-| 871 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,877 | 63 |
+| 871 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,878 | 63 |
 | 873 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 491 |
 | 873 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 408 | 197 |
 | 873 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 491 |
@@ -919,4 +919,4 @@
 | 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.64 | 0 | 491 |
 | 918 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.48 | 0 | 491 |
 | 919 | [Adios](games/a/adios.md) | 3.41 | 0 | 491 |
-| 920 | [Redfall](games/r/redfall.md) | 3.38 | 0 | 491 |
+| 919 | [Redfall](games/r/redfall.md) | 3.41 | 0 | 491 |
