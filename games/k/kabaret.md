@@ -7,9 +7,9 @@
 | Your Journey Begins | 75.00% | ~6 |
 | The Boy That Came With The Rain | 50.00% | ~4 |
 | Welcome To The Kabaret | 38.00% | ~3 |
+| Congkak Hero | 38.00% | ~3 |
 | Strangers You Meet | 25.00% | ~2 |
 | I'll Become... A Beast | 25.00% | ~2 |
-| Congkak Hero | 25.00% | ~2 |
 | Congkak Champion | 25.00% | ~2 |
 | Equality | 25.00% | ~2 |
 | Goodbye Dear Friend | 25.00% | ~2 |

@@ -17,11 +17,11 @@ Number of Ratings: 46  (23.09.2022)
 | Harmless | 10.00% | ~54 |
 | Silenced Whispers | 10.00% | ~54 |
 | Yank | 10.00% | ~54 |
+| Host | 9.00% | ~11 |
 | Jawcrab | 9.00% | ~49 |
 | Feast | 9.00% | ~49 |
 | Sharpened Vessel | 9.00% | ~49 |
 | Shapely | 8.00% | ~43 |
-| Host | 8.00% | ~10 |
 | Jawstag | 8.00% | ~43 |
 | Assimilation | 6.00% | ~32 |
 | Celebration | 6.00% | ~32 |

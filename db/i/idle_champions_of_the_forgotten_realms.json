@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3700,9 +3700,9 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87537,
+  "EOS_Progressed": 87538,
   "EOS_Completed": 1842,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5929,6 +5929,11 @@
     {
       "Time": "2023-05-14T21:05:37.4499303+00:00",
       "NumProgressed": 87537,
+      "NumCompleted": 1842
+    },
+    {
+      "Time": "2023-05-14T22:05:39.1429801+00:00",
+      "NumProgressed": 87538,
       "NumCompleted": 1842
     }
   ],
@@ -8267,9 +8272,9 @@
       "ID": "objective_completed_565",
       "SetID": "cc37lbc",
       "Name": "Meepo\u0027s Quest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_566",
@@ -8859,9 +8864,9 @@
       "ID": "objective_completed_658",
       "SetID": "415jc5c",
       "Name": "Ulkoria\u0027s Escape from Alterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_660",
@@ -9852,21 +9857,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53811,
+      "Progressed": 53812,
       "Completed": 2507
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87537,
+      "Progressed": 87538,
       "Completed": 1842
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T14:57:58.5030539+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:05:37.4499298+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:05:39.1429796+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:57:43.9445403+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:05:37.4520585+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:57:46.5771473+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:05:39.1451003+00:00"
 }

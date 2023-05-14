@@ -9,8 +9,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 13.00% | ~1,147 |
 | Burning City | 9.00% | ~794 |
 | A Spark | 9.00% | ~794 |
+| Mythic Choices | 8.00% | ~706 |
 | Banner over the Citadel | 7.00% | ~617 |
-| Mythic Choices | 7.00% | ~617 |
 | Defender's Heart | 7.00% | ~617 |
 | Queen's Gratitude | 6.00% | ~529 |
 | Fifth Crusade | 4.00% | ~353 |

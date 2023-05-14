@@ -4,8 +4,8 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-30T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 926,
+  "EOS_Progressed": 927,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2023-05-09T18:06:19.1438061+00:00",
       "NumProgressed": 926,
+      "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-14T22:04:51.9197791+00:00",
+      "NumProgressed": 927,
       "NumCompleted": 14
     }
   ],
@@ -119,7 +124,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "achievement_ship_bought",
@@ -127,7 +132,7 @@
       "Name": "New Ride",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "achievement_ship_fueled",
@@ -135,7 +140,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -150,7 +155,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 926,
+      "Progressed": 927,
       "Completed": 14
     }
   ],
@@ -158,8 +163,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:04:49.9784228+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:04:51.9197787+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:36.9308913+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:57:21.7189321+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:04:49.9784299+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:57:24.5344562+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:04:51.9197864+00:00"
 }

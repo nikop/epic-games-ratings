@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "Achievement21",
       "SetID": "jf6ho5",
       "Name": "Stilt House",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement3",
@@ -249,8 +249,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:05:28.9523023+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:05:30.5344405+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:06.9087903+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:59:56.4283332+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:05:28.9523195+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:59:59.0292742+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:05:30.5344605+00:00"
 }

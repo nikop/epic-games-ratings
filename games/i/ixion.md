@@ -32,6 +32,7 @@ Rating: 4.55 (Ranked 465)
 | In Dolos We Trust | 0.30% | ~6 |
 | Necessary Enhancement | 0.30% | ~6 |
 | All in Good Health | 0.30% | ~6 |
+| Pulsar Disciple | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | ...  in a finite world | 0.20% | ~4 |
@@ -43,7 +44,6 @@ Rating: 4.55 (Ranked 465)
 | Tiqqun Unchained | 0.20% | ~4 |
 | Pedal to the Metal | 0.20% | ~4 |
 | What the Ruins Teach Us | 0.20% | ~4 |
-| Pulsar Disciple | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
 | Tiqqun Contender | 0.10% | ~2 |

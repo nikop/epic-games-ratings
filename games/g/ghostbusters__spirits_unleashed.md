@@ -5,14 +5,14 @@ Rating: 4.49 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~18,747 |
-| Advancement | 74.00% | ~16,131 |
-| Meticulously Efficient | 65.00% | ~14,169 |
-| Discovery | 63.00% | ~13,733 |
-| Swift Rift Removers | 56.00% | ~12,207 |
-| Fully Upgraded | 55.00% | ~11,989 |
-| Cultured | 53.00% | ~11,553 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,335 |
+| Stylish | 87.00% | ~18,967 |
+| Advancement | 74.00% | ~16,133 |
+| Meticulously Efficient | 65.00% | ~14,171 |
+| Discovery | 63.00% | ~13,735 |
+| Swift Rift Removers | 56.00% | ~12,209 |
+| Fully Upgraded | 55.00% | ~11,991 |
+| Cultured | 53.00% | ~11,555 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,337 |
 | Vaporous Expansion | 49.00% | ~10,682 |
 | Teamwork | 45.00% | ~9,810 |
 | There you are! | 44.00% | ~9,592 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 553)
 | I don't need these | 1.00% | ~218 |
 | Mycophile | 1.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,799 (Ranked 89)  
+Progressed: 21,801 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 39 (0.18%) (Ranked 142)
 | 2023-05-11 | 21,705 | 39 |
 | 2023-05-12 | 21,723 | 39 |
 | 2023-05-13 | 21,764 | 39 |
-| 2023-05-14 | 21,799 | 39 |
+| 2023-05-14 | 21,801 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
 Sum: 2,065 (Ranked 185)  

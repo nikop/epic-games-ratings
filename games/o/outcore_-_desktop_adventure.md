@@ -7,7 +7,7 @@
 | Learned how to jump! | 71.00% | ~5 |
 | Learned how to walk! | 71.00% | ~5 |
 | Defeated Captain Tutorial | 57.00% | ~4 |
-| Defeated Booty The Bootleg | 29.00% | ~2 |
+| Defeated Booty The Bootleg | 43.00% | ~3 |
 | Defeated Mistermind | 29.00% | ~2 |
 | Defeated the core of the outside world | 29.00% | ~2 |
 | Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 29.00% | ~2 |
@@ -18,10 +18,10 @@
 | Murder | 29.00% | ~2 |
 | Too good for this racing mini-game | 29.00% | ~2 |
 | Booty Master | 14.00% | ~1 |
+| Good boy | 14.00% | ~1 |
 | Internet Explorer | 14.00% | ~1 |
 | Diverse desktop | 0.00% | ~0 |
 | Pure hearted | 0.00% | ~0 |
-| Good boy | 0.00% | ~0 |
 | HIGH striker | 0.00% | ~0 |
 | It really wasn't worth it | 0.00% | ~0 |
 | DEMON??? | 0.00% | ~0 |

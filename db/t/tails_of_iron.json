@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -325,6 +325,11 @@
       "Time": "2023-05-13T20:03:22.4175815+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-14T22:00:31.6270112+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -360,7 +365,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "CollectAllStatues",
@@ -400,7 +405,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "CompleteElderFaction",
@@ -416,7 +421,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "CompleteHunterFaction",
@@ -440,7 +445,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "DefeatMoziQueen",
@@ -472,7 +477,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "GetRangedWeapon",
@@ -488,7 +493,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "Kill25Bugs",
@@ -512,7 +517,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "MeetTheMoles",
@@ -536,7 +541,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "RepairSmith",
@@ -575,22 +580,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 12,
-      "Completed": 12
+      "Progressed": 13,
+      "Completed": 13
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:00:29.3935277+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:00:31.6270107+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.6820766+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:58:01.7015202+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:00:29.3935489+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:58:03.9005642+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:00:31.6270323+00:00"
 }

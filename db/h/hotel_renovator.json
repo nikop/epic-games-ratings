@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737,
+  "EOS_Progressed": 738,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -308,6 +308,11 @@
       "Time": "2023-05-14T20:06:36.1667959+00:00",
       "NumProgressed": 737,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-14T22:05:22.597454+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -359,7 +364,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -447,7 +452,7 @@
       "Name": "Island boy",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -471,7 +476,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH_STAR_2",
@@ -479,7 +484,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_STAR_3",
@@ -487,7 +492,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_STAR_4",
@@ -527,14 +532,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 737,
+      "Progressed": 738,
       "Completed": 11
     }
   ],
@@ -542,8 +547,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:05:21.1370762+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:05:22.5974536+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:04.7333336+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:56:50.1918477+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:05:21.1370913+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:56:53.0625643+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:05:22.5974739+00:00"
 }

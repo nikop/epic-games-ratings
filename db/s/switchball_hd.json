@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
     "PcReleaseDate": "2021-05-17T17:00:00+00:00",
@@ -161,9 +161,9 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
@@ -231,8 +231,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:04:39.3307796+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:04:41.3069202+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:56:56.6511434+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:04:39.3307867+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:56:59.4220159+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:04:41.3069256+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,317 |
-| That's a Grand Army | 8.00% | ~2,949 |
-| That is mine! | 8.00% | ~2,949 |
-| Victorious! | 8.00% | ~2,949 |
-| Brothers in Arms | 6.00% | ~2,211 |
-| That's a Grand Navy | 6.00% | ~2,211 |
-| Seriously?! | 6.00% | ~2,211 |
-| For the Glory | 5.00% | ~1,843 |
-| Cold War | 4.00% | ~1,474 |
-| True Catholic | 4.00% | ~1,474 |
+| Until death do us apart | 9.00% | ~3,319 |
+| That's a Grand Army | 8.00% | ~2,950 |
+| That is mine! | 8.00% | ~2,950 |
+| Victorious! | 8.00% | ~2,950 |
+| Brothers in Arms | 6.00% | ~2,213 |
+| That's a Grand Navy | 6.00% | ~2,213 |
+| Seriously?! | 6.00% | ~2,213 |
+| For the Glory | 5.00% | ~1,844 |
+| Cold War | 4.00% | ~1,475 |
+| True Catholic | 4.00% | ~1,475 |
 | Defender of the Faith | 3.00% | ~1,106 |
 | It's all about the money | 3.00% | ~1,106 |
 | Respected | 3.00% | ~1,106 |
 | Truly Divine Ruler | 3.00% | ~1,106 |
-| Blockader | 2.00% | ~737 |
-| Combined Arms | 2.00% | ~737 |
-| Double the Love | 2.00% | ~737 |
-| Gentle Persuasion | 2.00% | ~737 |
-| It's all about luck | 2.00% | ~737 |
-| Queen of Conquest | 2.00% | ~737 |
-| Royal Authority | 2.00% | ~737 |
-| The Princess is in this Castle | 2.00% | ~737 |
-| Total Control | 2.00% | ~737 |
+| Blockader | 2.00% | ~738 |
+| Combined Arms | 2.00% | ~738 |
+| Double the Love | 2.00% | ~738 |
+| Gentle Persuasion | 2.00% | ~738 |
+| It's all about luck | 2.00% | ~738 |
+| Queen of Conquest | 2.00% | ~738 |
+| Royal Authority | 2.00% | ~738 |
+| The Princess is in this Castle | 2.00% | ~738 |
+| Total Control | 2.00% | ~738 |
 | Agressive Expander | 1.00% | ~369 |
 | All That's Thine Shall Be Mine | 1.00% | ~369 |
 | Azur semé de lis or | 1.00% | ~369 |
@@ -49,16 +49,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.50% | ~184 |
 | Electable! | 0.50% | ~184 |
 | Time Bandit | 0.50% | ~184 |
-| Absolutely | 0.40% | ~147 |
-| Live Long and Prosper | 0.40% | ~147 |
-| One Family to Rule them All | 0.40% | ~147 |
-| Populists in Government | 0.40% | ~147 |
-| Ruina Imperii | 0.40% | ~147 |
-| The Continuation of Diplomacy | 0.40% | ~147 |
-| The pen is mightier than the sword | 0.40% | ~147 |
-| This is My Faith | 0.40% | ~147 |
-| Trophy Hunter | 0.40% | ~147 |
-| Voting Streak | 0.40% | ~147 |
+| Absolutely | 0.40% | ~148 |
+| Live Long and Prosper | 0.40% | ~148 |
+| One Family to Rule them All | 0.40% | ~148 |
+| Populists in Government | 0.40% | ~148 |
+| Ruina Imperii | 0.40% | ~148 |
+| The Continuation of Diplomacy | 0.40% | ~148 |
+| The pen is mightier than the sword | 0.40% | ~148 |
+| This is My Faith | 0.40% | ~148 |
+| Trophy Hunter | 0.40% | ~148 |
+| Voting Streak | 0.40% | ~148 |
 | All Your Trade Are Belong to Us | 0.30% | ~111 |
 | Bleed Them Dry | 0.30% | ~111 |
 | Dude, Where's my Boat? | 0.30% | ~111 |
@@ -179,6 +179,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kingdom of God | 0.10% | ~37 |
 | Kinslayer | 0.10% | ~37 |
 | Kirishitan Japan | 0.10% | ~37 |
+| Knights of the Caribbean | 0.10% | ~37 |
 | Kow-Tow | 0.10% | ~37 |
 | Krabater | 0.10% | ~37 |
 | Land of Eastern Jade | 0.10% | ~37 |
@@ -313,7 +314,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Inner Turmoil | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
-| Knights of the Caribbean | 0.00% | ~0 |
 | Komnenoi Empire | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,858 (Ranked 81)  
+Progressed: 36,881 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,7 +385,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 34,344 | 0 |
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
-| 2023-05-14 | 36,858 | 0 |
+| 2023-05-14 | 36,881 | 0 |
 ## Awards
 Max (Educational): 5,220  (Ranked 60)  
 Sum: 43,200 (Ranked 27)  

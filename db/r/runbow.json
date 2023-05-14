@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243025,
+  "EOS_Progressed": 243026,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2164,6 +2164,11 @@
       "Time": "2023-05-14T21:05:10.9896339+00:00",
       "NumProgressed": 243025,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-14T22:05:12.7677069+00:00",
+      "NumProgressed": 243026,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -2191,7 +2196,7 @@
       "Name": "And You\u0027re Okay",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4861
     },
     {
       "ID": "beAgressive",
@@ -2207,7 +2212,7 @@
       "Name": "Blotbuster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4861
     },
     {
       "ID": "breakingOut",
@@ -2271,7 +2276,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43744
+      "UsersEstimate": 43745
     },
     {
       "ID": "curator",
@@ -2351,7 +2356,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 128803
+      "UsersEstimate": 128804
     },
     {
       "ID": "indegestible",
@@ -2375,7 +2380,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63186
+      "UsersEstimate": 63187
     },
     {
       "ID": "justABit",
@@ -2542,7 +2547,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 243025,
+      "Progressed": 243026,
       "Completed": 2
     }
   ],
@@ -2550,8 +2555,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:05:10.9896336+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:05:12.7677065+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:04.7117538+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:58:52.5937828+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:05:10.9896714+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:58:53.9747302+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:05:12.7677453+00:00"
 }

@@ -7,13 +7,13 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 78.00% | ~3,742 |
-| Sword Runner | 63.00% | ~3,022 |
-| Wallrunner | 58.00% | ~2,782 |
-| Running out of breath | 57.00% | ~2,734 |
+| Sword Runner | 63.00% | ~3,023 |
+| Wallrunner | 58.00% | ~2,783 |
+| Running out of breath | 57.00% | ~2,735 |
 | Homerunner | 48.00% | ~2,303 |
 | I call it luck | 47.00% | ~2,255 |
 | Out of order | 47.00% | ~2,255 |
-| Where are my Keys? | 44.00% | ~2,111 |
+| Where are my Keys? | 45.00% | ~2,159 |
 | Back to hell | 39.00% | ~1,871 |
 | Perfection | 35.00% | ~1,679 |
 | Sword to a gunfight | 32.00% | ~1,535 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,047  (23.09.2022)
 | Control freak | 30.00% | ~1,439 |
 | Running Wild | 30.00% | ~1,439 |
 | Finish line | 28.00% | ~1,343 |
-| Unstoppable force | 25.00% | ~1,199 |
-| Wave of mutilation | 23.00% | ~1,103 |
-| Can't Run Can't Hide | 20.00% | ~959 |
-| R is for Running | 19.00% | ~911 |
-| Dead in the air | 17.00% | ~815 |
+| Unstoppable force | 25.00% | ~1,200 |
+| Wave of mutilation | 23.00% | ~1,104 |
+| Can't Run Can't Hide | 20.00% | ~960 |
+| R is for Running | 19.00% | ~912 |
+| Dead in the air | 17.00% | ~816 |
 | Improvise, adapt, overrun | 15.00% | ~720 |
 | Pre-empative strike | 15.00% | ~720 |
 | More than human | 13.00% | ~624 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~24 |
 | Up Close And Personal | 0.50% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,797 (Ranked 124)  
+Progressed: 4,798 (Ranked 124)  
 Completed: 24 (0.50%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 24 (0.50%) (Ranked 105)
 | 2023-05-11 | 4,506 | 22 |
 | 2023-05-12 | 4,596 | 22 |
 | 2023-05-13 | 4,703 | 22 |
-| 2023-05-14 | 4,797 | 24 |
+| 2023-05-14 | 4,798 | 24 |
 ## Awards
 Max (Great Boss Battles): 456  (Ranked 189)  
 Sum: 590 (Ranked 282)  

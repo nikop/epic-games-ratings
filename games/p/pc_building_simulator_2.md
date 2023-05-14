@@ -5,32 +5,32 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,798 |
-| Shine On | 70.00% | ~110,879 |
-| On the Job | 69.00% | ~109,295 |
-| Get Stuck In | 68.00% | ~107,711 |
-| Room for Expansion | 68.00% | ~107,711 |
-| Sales Pitch | 65.00% | ~102,959 |
-| Chill Out | 64.00% | ~101,375 |
-| Tinker | 61.00% | ~96,623 |
-| Grand Designs | 60.00% | ~95,039 |
-| Hot Stuff | 59.00% | ~93,455 |
-| MOAR RGB | 54.00% | ~85,535 |
-| Dream Theme | 46.00% | ~72,863 |
-| The Customer is King | 45.00% | ~71,279 |
-| Working Hard | 44.00% | ~69,695 |
-| On the Bench | 42.00% | ~66,527 |
-| The More the Merrier | 42.00% | ~66,527 |
-| Mix and Match | 38.00% | ~60,191 |
-| Recycler | 38.00% | ~60,191 |
-| Foot in the Door | 37.00% | ~58,607 |
-| Very Imported PC | 36.00% | ~57,023 |
-| Full Throttle | 34.00% | ~53,855 |
-| Repair Master | 32.00% | ~50,687 |
-| Pimp My Rig | 31.00% | ~49,103 |
-| Local Hero | 28.00% | ~44,351 |
-| Broken to Smokin' | 26.00% | ~41,183 |
-| Workaholic | 26.00% | ~41,183 |
+| Bootstrapping | 75.00% | ~118,800 |
+| Shine On | 70.00% | ~110,880 |
+| On the Job | 69.00% | ~109,296 |
+| Get Stuck In | 68.00% | ~107,712 |
+| Room for Expansion | 68.00% | ~107,712 |
+| Sales Pitch | 65.00% | ~102,960 |
+| Chill Out | 64.00% | ~101,376 |
+| Tinker | 61.00% | ~96,624 |
+| Grand Designs | 60.00% | ~95,040 |
+| Hot Stuff | 59.00% | ~93,456 |
+| MOAR RGB | 54.00% | ~85,536 |
+| Dream Theme | 46.00% | ~72,864 |
+| The Customer is King | 45.00% | ~71,280 |
+| Working Hard | 44.00% | ~69,696 |
+| On the Bench | 42.00% | ~66,528 |
+| The More the Merrier | 42.00% | ~66,528 |
+| Mix and Match | 38.00% | ~60,192 |
+| Recycler | 38.00% | ~60,192 |
+| Foot in the Door | 37.00% | ~58,608 |
+| Very Imported PC | 36.00% | ~57,024 |
+| Full Throttle | 34.00% | ~53,856 |
+| Repair Master | 32.00% | ~50,688 |
+| Pimp My Rig | 31.00% | ~49,104 |
+| Local Hero | 28.00% | ~44,352 |
+| Broken to Smokin' | 26.00% | ~41,184 |
+| Workaholic | 26.00% | ~41,184 |
 | Thanks Jeff | 25.00% | ~39,600 |
 | Cinematic | 24.00% | ~38,016 |
 | Bench Warmer | 24.00% | ~38,016 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,398 (Ranked 53)  
+Progressed: 158,400 (Ranked 53)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,10 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-11 | 158,275 | 102 |
 | 2023-05-12 | 158,322 | 102 |
 | 2023-05-13 | 158,365 | 102 |
-| 2023-05-14 | 158,398 | 102 |
+| 2023-05-14 | 158,400 | 102 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 163)  
-Sum: 4,552 (Ranked 127)  
+Sum: 4,553 (Ranked 127)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): 36
 | This game is Educational | 575 |
 | This game is Extremely Fun | 548 |
 | This game has Quickly Understood Controls | 536 |
-| This game is Highly Recommended | 512 |
+| This game is Highly Recommended | 513 |
 | This game has Amazing Storytelling | 471 |
 | This game has a Creative Community | 384 |
 | This game has Amazing Characters | 340 |
@@ -165,4 +165,4 @@ Diff (max vs sum): 36
 | 2023-05-11 | 4.61 | 605 | 4,543 |
 | 2023-05-12 | 4.61 | 605 | 4,544 |
 | 2023-05-13 | 4.61 | 607 | 4,549 |
-| 2023-05-14 | 4.61 | 607 | 4,552 |
+| 2023-05-14 | 4.61 | 607 | 4,553 |

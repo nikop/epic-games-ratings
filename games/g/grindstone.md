@@ -45,8 +45,8 @@ Number of Ratings: 63  (23.09.2022)
 | For Rock and Stone! | 9.00% | ~455 |
 | Don't Get Too Greedy | 7.00% | ~354 |
 | You're In a Cult, Call Your Dad | 6.00% | ~303 |
+| Survived The Slaughter | 5.00% | ~253 |
 | The Poison You Just Drank | 4.00% | ~202 |
-| Survived The Slaughter | 4.00% | ~202 |
 | The Fellowship | 3.00% | ~152 |
 | Eternal Frenemies | 3.00% | ~152 |
 | Are We Good Guys Or Bad Guys? | 1.00% | ~51 |

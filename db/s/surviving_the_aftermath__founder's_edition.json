@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5282,
+  "EOS_Progressed": 5283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2801,6 +2801,11 @@
       "Time": "2023-05-14T21:05:28.496802+00:00",
       "NumProgressed": 5282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T22:05:29.9587428+00:00",
+      "NumProgressed": 5283,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2812,7 +2817,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "10",
@@ -2844,7 +2849,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "14",
@@ -2892,7 +2897,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "2",
@@ -2908,7 +2913,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "21",
@@ -3132,7 +3137,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "47",
@@ -3172,7 +3177,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "51",
@@ -3260,7 +3265,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "8",
@@ -3283,15 +3288,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5282,
+      "Progressed": 5283,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:05:28.4968016+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:05:29.9587424+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:59:38.4178846+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:05:28.4968769+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:59:40.7045355+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:05:29.9587929+00:00"
 }

@@ -54,8 +54,8 @@ Rating: 4.72 (Ranked 165)
 | You can pet the... horse | 8.00% | ~159 |
 | Back to sleep, then... | 8.00% | ~159 |
 | Do you trust me? | 7.00% | ~140 |
+| The great mage rebellion starts now | 7.00% | ~140 |
 | Spellcrafting | 7.00% | ~140 |
-| The great mage rebellion starts now | 6.00% | ~120 |
 | Silverwing nest | 2.00% | ~40 |
 | The Unshackled | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)

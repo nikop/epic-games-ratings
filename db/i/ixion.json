@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -1099,9 +1099,9 @@
       "ID": "ACH_BASE_9",
       "SetID": "92iocjf",
       "Name": "Pulsar Disciple",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -1122,8 +1122,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-14T21:04:51.5090621+00:00",
+  "LastChanged_Achievements": "2023-05-14T22:04:53.5624924+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-14T20:58:08.2493368+00:00",
-  "LastUpdate_Achievements": "2023-05-14T21:04:51.5091079+00:00"
+  "LastUpdate_Ratings": "2023-05-14T21:58:10.9170548+00:00",
+  "LastUpdate_Achievements": "2023-05-14T22:04:53.562539+00:00"
 }
