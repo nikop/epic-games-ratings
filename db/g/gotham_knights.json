@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1088,9 +1088,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60878,
+  "EOS_Progressed": 60880,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2553,6 +2553,11 @@
       "Time": "2023-05-14T19:05:12.3638472+00:00",
       "NumProgressed": 60878,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-14T20:06:44.6935094+00:00",
+      "NumProgressed": 60880,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -2970,9 +2975,9 @@
       "ID": "MYSTERY_03",
       "SetID": "4eo5ebm",
       "Name": "Lock and Key",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 244
     },
     {
       "ID": "MYSTERY_04",
@@ -3051,13 +3056,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60878,
+      "Progressed": 60880,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31158,
+      "Progressed": 31160,
       "Completed": 2637
     }
   ],
@@ -3065,8 +3070,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-14T13:03:00.8577341+00:00",
-  "LastChanged_Achievements": "2023-05-14T19:05:12.3638467+00:00",
+  "LastChanged_Achievements": "2023-05-14T20:06:44.6935089+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:59:04.4364752+00:00",
-  "LastUpdate_Achievements": "2023-05-14T19:05:12.363914+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:00:20.4149942+00:00",
+  "LastUpdate_Achievements": "2023-05-14T20:06:44.6935899+00:00"
 }

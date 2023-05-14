@@ -6,23 +6,23 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~882 |
+| Kickstarter Backer | 82.00% | ~883 |
 | Completed Act I | 30.00% | ~323 |
 | 5 Upgrades in Stronghold | 26.00% | ~280 |
 | First 5 Levels of Od Nua | 24.00% | ~258 |
-| Make an Adventurer | 23.00% | ~247 |
+| Make an Adventurer | 23.00% | ~248 |
 | Completed Act II | 16.00% | ~172 |
-| Enchanter | 15.00% | ~161 |
-| Disposition | 15.00% | ~161 |
-| Middle 5 Levels of Od Nua | 15.00% | ~161 |
+| Enchanter | 15.00% | ~162 |
+| Disposition | 15.00% | ~162 |
+| Middle 5 Levels of Od Nua | 15.00% | ~162 |
 | Super Murderer | 14.00% | ~151 |
 | All Upgrades in Stronghold | 14.00% | ~151 |
 | The Watcher With Eight Friends | 14.00% | ~151 |
 | The Heir of Caed Nua | 13.00% | ~140 |
 | Soulbinder | 13.00% | ~140 |
 | Last 5 Levels of Od Nua | 12.00% | ~129 |
-| The Giftbearer | 11.00% | ~118 |
 | Bounty Hunter | 10.00% | ~108 |
+| The Giftbearer | 10.00% | ~108 |
 | Trappy | 9.00% | ~97 |
 | Herald of the Old Flame | 9.00% | ~97 |
 | Watcher at the Breach | 9.00% | ~97 |
@@ -42,7 +42,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | The Storied Adventurer | 3.00% | ~32 |
 | Among the Moss and Peat | 2.00% | ~22 |
 | Legendary Enchanter | 1.00% | ~11 |
-| Path of the Damned | 0.70% | ~8 |
+| Path of the Damned | 0.60% | ~6 |
 | Expert | 0.60% | ~6 |
 | Solo | 0.60% | ~6 |
 | Triple Crown | 0.60% | ~6 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076 (Ranked 160)  
+Progressed: 1,077 (Ranked 160)  
 Completed: 4 (0.37%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 4 (0.37%) (Ranked 113)
 | 2023-04-25 | 1,074 | 4 |
 | 2023-05-04 | 1,075 | 4 |
 | 2023-05-09 | 1,076 | 4 |
+| 2023-05-14 | 1,077 | 4 |
 ## Awards
 Max (Character Customization): 1,872  (Ranked 104)  
 Sum: 4,601 (Ranked 126)  

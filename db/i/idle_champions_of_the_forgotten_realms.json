@@ -3700,10 +3700,10 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87528,
-  "EOS_Completed": 1841,
-  "EOS_NewPlayers": 746,
-  "EOS_NewCompleters": 31,
+  "EOS_Progressed": 87530,
+  "EOS_Completed": 1842,
+  "EOS_NewPlayers": 739,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5920,6 +5920,11 @@
       "Time": "2023-05-14T19:05:19.7862111+00:00",
       "NumProgressed": 87528,
       "NumCompleted": 1841
+    },
+    {
+      "Time": "2023-05-14T20:06:54.0912447+00:00",
+      "NumProgressed": 87530,
+      "NumCompleted": 1842
     }
   ],
   "TotalAchievements": 489,
@@ -6209,9 +6214,9 @@
       "ID": "objective_completed_1086",
       "SetID": "415jc5c",
       "Name": "First Third Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_1087",
@@ -8081,9 +8086,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 263
     },
     {
       "ID": "objective_completed_541",
@@ -9257,9 +9262,9 @@
       "ID": "objective_completed_817",
       "SetID": "415jc5c",
       "Name": "Wrecked Flying Fortress",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_818",
@@ -9377,9 +9382,9 @@
       "ID": "objective_completed_842",
       "SetID": "415jc5c",
       "Name": "Idyllglen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_843",
@@ -9842,21 +9847,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53802,
+      "Progressed": 53804,
       "Completed": 2507
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87528,
-      "Completed": 1841
+      "Progressed": 87530,
+      "Completed": 1842
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T14:57:58.5030539+00:00",
-  "LastChanged_Achievements": "2023-05-14T19:05:19.7862106+00:00",
+  "LastChanged_Achievements": "2023-05-14T20:06:54.0912423+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:57:40.3583543+00:00",
-  "LastUpdate_Achievements": "2023-05-14T19:05:19.7886272+00:00"
+  "LastUpdate_Ratings": "2023-05-14T19:58:14.7108036+00:00",
+  "LastUpdate_Achievements": "2023-05-14T20:06:54.0943503+00:00"
 }

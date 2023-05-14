@@ -4,7 +4,7 @@
   "ProductSlug": "the-valiant",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-19T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:24.0340673+00:00",
   "LastChanged": "2023-03-31T05:57:24.0340674+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:45.0464165+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:58:20.2247519+00:00",
-  "LastUpdate_Achievements": "2023-05-14T19:02:21.8116789+00:00"
+  "LastUpdate_Ratings": "2023-05-14T19:59:12.7770205+00:00",
+  "LastUpdate_Achievements": "2023-05-14T20:03:15.5563381+00:00"
 }

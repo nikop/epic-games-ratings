@@ -14,7 +14,7 @@ Number of Ratings: 98  (23.09.2022)
 | Spice It Up | 20.00% | ~177 |
 | Agent 47 | 17.00% | ~150 |
 | You're Gonna Go Far, Kid | 17.00% | ~150 |
-| Bomberman | 16.00% | ~142 |
+| Bomberman | 17.00% | ~150 |
 | Death to the Oppressor! | 12.00% | ~106 |
 | The Gang's All Here | 10.00% | ~88 |
 | Your Answer | 9.00% | ~80 |

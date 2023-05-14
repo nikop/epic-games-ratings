@@ -13,18 +13,18 @@
 | Lochos | 4.00% | ~113 |
 | Strength of Herakles | 4.00% | ~113 |
 | Reign in Blood | 4.00% | ~113 |
-| Pillars of Eternity | 3.00% | ~84 |
-| Immolator | 3.00% | ~84 |
-| Go For the Head | 3.00% | ~84 |
-| Spartan Sandal | 3.00% | ~84 |
-| War Chest | 3.00% | ~84 |
-| Symbols of Heresy | 3.00% | ~84 |
-| The Sons of Minos | 3.00% | ~84 |
-| Sisters of the Pantheon | 3.00% | ~84 |
-| Siege Unit | 3.00% | ~84 |
-| Eidola | 3.00% | ~84 |
-| Divine Assemblage | 3.00% | ~84 |
-| Ophiolatreia | 3.00% | ~84 |
+| Pillars of Eternity | 3.00% | ~85 |
+| Immolator | 3.00% | ~85 |
+| Go For the Head | 3.00% | ~85 |
+| Spartan Sandal | 3.00% | ~85 |
+| War Chest | 3.00% | ~85 |
+| Symbols of Heresy | 3.00% | ~85 |
+| The Sons of Minos | 3.00% | ~85 |
+| Sisters of the Pantheon | 3.00% | ~85 |
+| Siege Unit | 3.00% | ~85 |
+| Eidola | 3.00% | ~85 |
+| Divine Assemblage | 3.00% | ~85 |
+| Ophiolatreia | 3.00% | ~85 |
 | Comedy and Tragedy | 2.00% | ~56 |
 | Forged in Fire | 2.00% | ~56 |
 | Chthonic Investor | 2.00% | ~56 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,815 (Ranked 133)  
+Progressed: 2,817 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 2,794 | 0 |
 | 2023-05-12 | 2,799 | 0 |
 | 2023-05-13 | 2,805 | 0 |
-| 2023-05-14 | 2,815 | 0 |
+| 2023-05-14 | 2,817 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

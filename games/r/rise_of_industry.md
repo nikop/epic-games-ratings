@@ -1,27 +1,27 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 794)  
+Rating: 4.22 (Ranked 799)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~313,671 |
-| Well educated | 37.00% | ~246,933 |
-| City Planner | 19.00% | ~126,803 |
-| Deforester | 16.00% | ~106,782 |
-| Big Hauling | 15.00% | ~100,108 |
-| Exporter | 13.00% | ~86,760 |
-| I would drive 500 tiles... | 12.00% | ~80,086 |
-| Apprentice Manufacturer | 12.00% | ~80,086 |
-| Landscaper | 11.00% | ~73,412 |
-| Railwayman | 7.00% | ~46,717 |
-| Penniless | 6.00% | ~40,043 |
-| Massive Gains | 6.00% | ~40,043 |
-| Engineer | 2.00% | ~13,348 |
-| Salesman | 2.00% | ~13,348 |
-| High Flyer | 2.00% | ~13,348 |
+| Entrepreneur | 47.00% | ~313,711 |
+| Well educated | 37.00% | ~246,964 |
+| City Planner | 19.00% | ~126,819 |
+| Deforester | 16.00% | ~106,795 |
+| Big Hauling | 15.00% | ~100,121 |
+| Exporter | 13.00% | ~86,771 |
+| I would drive 500 tiles... | 12.00% | ~80,097 |
+| Apprentice Manufacturer | 12.00% | ~80,097 |
+| Landscaper | 11.00% | ~73,422 |
+| Railwayman | 7.00% | ~46,723 |
+| Penniless | 6.00% | ~40,048 |
+| Massive Gains | 6.00% | ~40,048 |
+| Engineer | 2.00% | ~13,349 |
+| Salesman | 2.00% | ~13,349 |
+| High Flyer | 2.00% | ~13,349 |
 | Captain | 0.70% | ~4,672 |
-| Billionaire | 0.60% | ~4,004 |
+| Billionaire | 0.60% | ~4,005 |
 | Vroom Vroom | 0.40% | ~2,670 |
 | Excavator | 0.30% | ~2,002 |
 | Loan Ranger | 0.30% | ~2,002 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 794)
 | Master Builder | 0.10% | ~667 |
 | Hard working | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,386 (Ranked 17)  
+Progressed: 667,471 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-11 | 664,902 | 1 |
 | 2023-05-12 | 665,647 | 1 |
 | 2023-05-13 | 666,665 | 1 |
-| 2023-05-14 | 667,386 | 1 |
+| 2023-05-14 | 667,471 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -88,3 +88,4 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-02 | 4.23 | 0 | 0 |
 | 2023-05-06 | 4.22 | 0 | 0 |
 | 2023-05-13 | 4.23 | 0 | 0 |
+| 2023-05-14 | 4.22 | 0 | 0 |

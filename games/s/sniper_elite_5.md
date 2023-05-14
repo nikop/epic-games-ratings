@@ -8,20 +8,20 @@ Rating: 4.38 (Ranked 689)
 | Meeting Resistance | 36.00% | ~258 |
 | Confirming Suspicions | 32.00% | ~229 |
 | The Kraken Wakes | 29.00% | ~208 |
-| It's Starting to Crack | 28.00% | ~200 |
+| It's Starting to Crack | 28.00% | ~201 |
 | Lord of War | 25.00% | ~179 |
 | Change the Channel | 25.00% | ~179 |
 | Taking it back | 24.00% | ~172 |
 | Resourceful | 23.00% | ~165 |
 | Organ Grinder | 22.00% | ~158 |
-| Sharpshooter | 21.00% | ~150 |
-| Target America | 21.00% | ~150 |
+| Sharpshooter | 21.00% | ~151 |
+| Target America | 21.00% | ~151 |
 | As Quiet as a Mouse | 20.00% | ~143 |
 | The Kraken Sleeps | 19.00% | ~136 |
 | Liberté | 17.00% | ~122 |
 | Explosive Efficiency | 16.00% | ~115 |
-| Gunslinger | 15.00% | ~107 |
-| Close Quarters | 15.00% | ~107 |
+| Gunslinger | 15.00% | ~108 |
+| Close Quarters | 15.00% | ~108 |
 | Climbing the Ladder | 14.00% | ~100 |
 | Fields of Glory | 14.00% | ~100 |
 | Skirmisher | 14.00% | ~100 |
@@ -34,7 +34,7 @@ Rating: 4.38 (Ranked 689)
 | Brains of the Operation | 12.00% | ~86 |
 | No Stone Unturned | 11.00% | ~79 |
 | Opposing Force | 11.00% | ~79 |
-| My Little Friend | 9.00% | ~64 |
+| My Little Friend | 9.00% | ~65 |
 | Herr Today, Gone Tomorrow | 9.00% | ~60 |
 | Precision Is Key | 8.00% | ~57 |
 | Rigged to Blow | 8.00% | ~57 |
@@ -48,11 +48,11 @@ Rating: 4.38 (Ranked 689)
 | Don't hold your breath | 4.00% | ~29 |
 | If You Go Down To The Woods Today | 4.00% | ~27 |
 | Fight Another Day | 4.00% | ~27 |
-| Burn after reading | 3.00% | ~21 |
-| It'll Buff Right Out | 3.00% | ~21 |
-| Locomotion Commotion | 3.00% | ~21 |
-| Road Rage | 3.00% | ~21 |
-| Shoot for the Moon | 3.00% | ~21 |
+| Burn after reading | 3.00% | ~22 |
+| It'll Buff Right Out | 3.00% | ~22 |
+| Locomotion Commotion | 3.00% | ~22 |
+| Road Rage | 3.00% | ~22 |
+| Shoot for the Moon | 3.00% | ~22 |
 | Covert Elimination | 3.00% | ~20 |
 | Out of Scope | 2.00% | ~14 |
 | From Paris with Love | 2.00% | ~14 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716 (Ranked 176)  
+Progressed: 717 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-11 | 701 | 2 |
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
-| 2023-05-14 | 716 | 2 |
+| 2023-05-14 | 717 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

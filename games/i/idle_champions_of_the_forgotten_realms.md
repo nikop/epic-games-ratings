@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.30% | ~263 |
 | The Death Curse | 0.30% | ~263 |
 | Premature Betrayal | 0.30% | ~263 |
+| A Tale of Two Cities | 0.30% | ~263 |
 | The Dead Three | 0.30% | ~263 |
 | Flying Monkey Skulls of Doom | 0.30% | ~263 |
 | Running of the Saurs | 0.30% | ~263 |
@@ -87,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prince of a Thousand Enemies | 0.20% | ~108 |
 | Uncommon Allies | 0.20% | ~108 |
 | Downfall | 0.20% | ~108 |
+| First Third Out | 0.20% | ~108 |
 | Third Third Out | 0.20% | ~108 |
 | Slack-jawed Lorna | 0.20% | ~108 |
 | I'm Sure I Saw It Move! | 0.20% | ~108 |
@@ -179,7 +181,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.20% | ~175 |
 | Who Lurks in Lurkwood | 0.20% | ~175 |
 | Orcs Are Wild | 0.20% | ~175 |
-| A Tale of Two Cities | 0.20% | ~175 |
 | A Tale of Two Fiends | 0.20% | ~175 |
 | Slow and Steady | 0.20% | ~175 |
 | A Hero's Entourage | 0.20% | ~175 |
@@ -236,6 +237,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trench Coat Run | 0.20% | ~108 |
 | Durable Deep | 0.20% | ~175 |
 | The Sibriex | 0.20% | ~108 |
+| Wrecked Flying Fortress | 0.20% | ~108 |
 | Expert Opinion | 0.20% | ~175 |
 | Dwarven Rumors | 0.20% | ~108 |
 | Mimic Perception | 0.20% | ~108 |
@@ -244,6 +246,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~108 |
 | Fortress Assault | 0.20% | ~108 |
 | The Bleeding Citadel | 0.20% | ~108 |
+| Idyllglen | 0.20% | ~108 |
 | The Radiant Nightmare | 0.20% | ~108 |
 | Quick Thinking | 0.20% | ~108 |
 | Witty Riposting | 0.20% | ~108 |
@@ -273,7 +276,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Lesson in Classes | 0.10% | ~54 |
 | The Birds | 0.10% | ~54 |
 | Where the Magic Happens | 0.10% | ~54 |
-| First Third Out | 0.10% | ~54 |
 | Second Third Out | 0.10% | ~54 |
 | End of the Line | 0.10% | ~54 |
 | Zarak's Revenge | 0.10% | ~54 |
@@ -449,14 +451,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lone Wolf Party | 0.10% | ~54 |
 | The Archduke's Blessing | 0.10% | ~54 |
 | A Neutral Party | 0.10% | ~54 |
-| Wrecked Flying Fortress | 0.10% | ~54 |
 | Relentless Peril | 0.10% | ~54 |
 | Rickety Rubble | 0.10% | ~54 |
 | Hats off to you! | 0.10% | ~54 |
 | It's Cold Out There Every Day | 0.10% | ~54 |
 | Don't Pick at the Scab | 0.10% | ~54 |
 | Going To Eleven | 0.10% | ~54 |
-| Idyllglen | 0.10% | ~54 |
 | The Madness of Yeenoghu | 0.10% | ~54 |
 | Reya Reborn | 0.10% | ~54 |
 | Tough Acting | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,528 (Ranked 59)  
-Completed: 1,841 (2.10%) (Ranked 60)  
+Progressed: 87,530 (Ranked 59)  
+Completed: 1,842 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -520,7 +520,7 @@ Completed: 1,841 (2.10%) (Ranked 60)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,528 | 1,841 |
+| 2023-05-14 | 87,530 | 1,842 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,881 (Ranked 37)  

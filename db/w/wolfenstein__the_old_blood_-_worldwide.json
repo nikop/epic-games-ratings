@@ -4,10 +4,10 @@
   "ProductSlug": "wolfenstein-the-old-blood",
   "Ranking_Rating": 378,
   "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 406,
+  "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -422,6 +422,6 @@
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
   "LastChanged": "2023-04-08T01:48:07.2535284+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:19.2882705+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:57:57.6899782+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:59:47.5634127+00:00"
+  "LastUpdate_Ratings": "2023-05-14T19:58:39.6203354+00:00",
+  "LastUpdate_Achievements": "2023-05-14T20:01:29.0209365+00:00"
 }

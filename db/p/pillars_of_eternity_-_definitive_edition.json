@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2418,9 +2418,9 @@
       "Count": 184
     }
   ],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2437,6 +2437,11 @@
     {
       "Time": "2023-05-09T09:07:41.1852279+00:00",
       "NumProgressed": 1076,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-14T20:06:05.4586723+00:00",
+      "NumProgressed": 1077,
       "NumCompleted": 4
     }
   ],
@@ -2481,7 +2486,7 @@
       "Name": "Enchanter",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_06",
@@ -2577,7 +2582,7 @@
       "Name": "Disposition",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_18",
@@ -2657,7 +2662,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_28",
@@ -2673,7 +2678,7 @@
       "Name": "Middle 5 Levels of Od Nua",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_30",
@@ -2703,9 +2708,9 @@
       "ID": "achievement_33",
       "SetID": "70p237j",
       "Name": "The Giftbearer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_34",
@@ -2729,7 +2734,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "achievement_37",
@@ -2743,9 +2748,9 @@
       "ID": "achievement_38",
       "SetID": "70p237j",
       "Name": "Path of the Damned",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_39",
@@ -2832,15 +2837,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-05-11T22:57:31.4160479+00:00",
-  "LastChanged_Achievements": "2023-05-14T19:04:42.824312+00:00",
+  "LastChanged_Achievements": "2023-05-14T20:06:05.4586718+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:28.4600425+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:57:13.790194+00:00",
-  "LastUpdate_Achievements": "2023-05-14T19:04:42.8243513+00:00"
+  "LastUpdate_Ratings": "2023-05-14T19:57:36.0062206+00:00",
+  "LastUpdate_Achievements": "2023-05-14T20:06:05.4587139+00:00"
 }

@@ -8,7 +8,7 @@
 | Bakery Startup | 43.00% | ~51 |
 | Apprentice Baker | 36.00% | ~42 |
 | The Kitchen Is On Fire | 34.00% | ~40 |
-| Perfect Server | 16.00% | ~19 |
+| Perfect Server | 17.00% | ~20 |
 | Adept Baker | 11.00% | ~13 |
 | Verdant Greenhouse | 10.00% | ~12 |
 | Bustling Store | 10.00% | ~12 |
@@ -16,8 +16,8 @@
 | Luxury Kitchen | 9.00% | ~11 |
 | Gotta Go Fast | 8.00% | ~9 |
 | Swing The Broom | 8.00% | ~9 |
+| A Loving Home | 7.00% | ~8 |
 | Master Baker | 6.00% | ~7 |
-| A Loving Home | 6.00% | ~7 |
 | Bakery Business | 5.00% | ~6 |
 | The Famous Lemon Cake | 5.00% | ~6 |
 | Bakery Empire | 4.00% | ~5 |

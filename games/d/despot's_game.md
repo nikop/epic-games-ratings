@@ -1,7 +1,7 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 529)  
+Rating: 4.50 (Ranked 530)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,10 +16,10 @@ Rating: 4.50 (Ranked 529)
 | Fat of the Earth | 32.00% | ~114 |
 | Last Man Standing | 31.00% | ~110 |
 | Catch Jonathan_tostar | 26.00% | ~92 |
+| Campaigning | 24.00% | ~85 |
 | Assemble a Meganewbie | 24.00% | ~85 |
 | He's Seen It All | 24.00% | ~85 |
 | Great Hero | 24.00% | ~85 |
-| Campaigning | 23.00% | ~82 |
 | Rookie | 23.00% | ~82 |
 | Frugal | 20.00% | ~71 |
 | Feed a God | 19.00% | ~67 |

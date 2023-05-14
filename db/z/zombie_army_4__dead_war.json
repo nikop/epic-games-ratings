@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1455,9 +1455,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42270,
+  "EOS_Progressed": 42271,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1975,6 +1975,11 @@
       "Time": "2023-05-14T19:05:17.3824321+00:00",
       "NumProgressed": 42270,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-14T20:06:51.3672107+00:00",
+      "NumProgressed": 42271,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -1986,7 +1991,7 @@
       "Name": "Groovy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 25362
+      "UsersEstimate": 25363
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2018,7 +2023,7 @@
       "Name": "Well equipped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5072
+      "UsersEstimate": 5073
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -2154,7 +2159,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5072
+      "UsersEstimate": 5073
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -2178,7 +2183,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26207
+      "UsersEstimate": 26208
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2242,7 +2247,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14794
+      "UsersEstimate": 14795
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -2258,7 +2263,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9299
+      "UsersEstimate": 9300
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -2274,7 +2279,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15217
+      "UsersEstimate": 15218
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -2290,7 +2295,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21135
+      "UsersEstimate": 21136
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -2306,7 +2311,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15217
+      "UsersEstimate": 15218
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -2338,7 +2343,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19444
+      "UsersEstimate": 19445
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -2346,7 +2351,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23671
+      "UsersEstimate": 23672
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2354,7 +2359,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19444
+      "UsersEstimate": 19445
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -2362,7 +2367,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15217
+      "UsersEstimate": 15218
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -2482,7 +2487,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9299
+      "UsersEstimate": 9300
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -2490,7 +2495,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -2506,22 +2511,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15217
+      "UsersEstimate": 15218
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42270,
+      "Progressed": 42271,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-14T07:00:49.390597+00:00",
-  "LastChanged_Achievements": "2023-05-14T19:05:17.3824316+00:00",
+  "LastChanged_Achievements": "2023-05-14T20:06:51.3672101+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.0993815+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:59:07.9913907+00:00",
-  "LastUpdate_Achievements": "2023-05-14T19:05:17.3824958+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:00:25.7369324+00:00",
+  "LastUpdate_Achievements": "2023-05-14T20:06:51.3672783+00:00"
 }

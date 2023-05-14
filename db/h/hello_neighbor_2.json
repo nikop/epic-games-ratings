@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2336,
+  "EOS_Progressed": 2337,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -695,6 +695,11 @@
       "Time": "2023-05-14T19:05:11.1104357+00:00",
       "NumProgressed": 2336,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-14T20:06:43.3029313+00:00",
+      "NumProgressed": 2337,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 14,
@@ -730,7 +735,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -762,7 +767,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -778,7 +783,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_REUNION",
@@ -817,7 +822,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2336,
+      "Progressed": 2337,
       "Completed": 90
     }
   ],
@@ -825,8 +830,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-12T22:01:09.3840523+00:00",
-  "LastChanged_Achievements": "2023-05-14T19:05:11.1104353+00:00",
+  "LastChanged_Achievements": "2023-05-14T20:06:43.3029307+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:11.6755878+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:59:32.1475258+00:00",
-  "LastUpdate_Achievements": "2023-05-14T19:05:11.1104483+00:00"
+  "LastUpdate_Ratings": "2023-05-14T20:01:02.2509045+00:00",
+  "LastUpdate_Achievements": "2023-05-14T20:06:43.3029456+00:00"
 }

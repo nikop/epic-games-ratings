@@ -1,27 +1,27 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 529)  
+Rating: 4.50 (Ranked 530)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,287 |
-| Jeef Skeejj | 44.00% | ~201,524 |
-| Careful planning | 39.00% | ~178,624 |
-| Second Coming | 33.00% | ~151,143 |
-| Jeef Skagg | 30.00% | ~137,403 |
-| Mother | 25.00% | ~114,502 |
-| In space, no one can hear you scream | 23.00% | ~105,342 |
-| Chapter I: Echoes | 22.00% | ~100,762 |
-| Excelsior Rule | 22.00% | ~100,762 |
-| Things persisted in not being what they seemed | 20.00% | ~91,602 |
+| The Shutdown | 66.00% | ~302,289 |
+| Jeef Skeejj | 44.00% | ~201,526 |
+| Careful planning | 39.00% | ~178,625 |
+| Second Coming | 33.00% | ~151,145 |
+| Jeef Skagg | 30.00% | ~137,404 |
+| Mother | 25.00% | ~114,504 |
+| In space, no one can hear you scream | 23.00% | ~105,343 |
+| Chapter I: Echoes | 22.00% | ~100,763 |
+| Excelsior Rule | 22.00% | ~100,763 |
+| Things persisted in not being what they seemed | 20.00% | ~91,603 |
 | Knightmare Frames | 15.00% | ~68,702 |
 | May His passing cleanse the world | 15.00% | ~68,702 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,702 |
 | Pope Zenon | 15.00% | ~68,702 |
-| Tetsuo | 11.00% | ~50,381 |
-| Plan for the worst | 11.00% | ~50,381 |
+| Tetsuo | 11.00% | ~50,382 |
+| Plan for the worst | 11.00% | ~50,382 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,801 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,641 |
 | Through the mirror | 8.00% | ~36,641 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~27,481 |
 | The Crazy Repairman | 6.00% | ~27,481 |
 | The Weasel | 6.00% | ~27,481 |
-| Kill the Doctor | 5.00% | ~22,900 |
-| Forsaken | 5.00% | ~22,900 |
-| Mercy | 5.00% | ~22,900 |
-| Jericho Rule | 5.00% | ~22,900 |
+| Kill the Doctor | 5.00% | ~22,901 |
+| Forsaken | 5.00% | ~22,901 |
+| Mercy | 5.00% | ~22,901 |
+| Jericho Rule | 5.00% | ~22,901 |
 | Geno Rule | 3.00% | ~13,740 |
 | Hammer Rule | 3.00% | ~13,740 |
 | Survivor | 2.00% | ~9,160 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,010 (Ranked 28)  
+Progressed: 458,014 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 14 (0.00%) (Ranked 199)
 | 2023-05-11 | 457,744 | 14 |
 | 2023-05-12 | 457,795 | 14 |
 | 2023-05-13 | 457,931 | 14 |
-| 2023-05-14 | 458,010 | 14 |
+| 2023-05-14 | 458,014 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 349)  
