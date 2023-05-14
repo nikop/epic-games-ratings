@@ -60,8 +60,8 @@
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
-| 61 | [Them and Us](games/t/them_and_us.md) | 1.96% |
-| 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
+| 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
+| 62 | [Them and Us](games/t/them_and_us.md) | 1.85% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 63 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
