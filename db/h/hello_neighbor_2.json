@@ -5,9 +5,9 @@
   "Ranking_Rating": 689,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 140,
+  "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2332,
+  "EOS_Progressed": 2333,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.86,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2023-05-14T12:05:21.2776735+00:00",
       "NumProgressed": 2332,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-05-14T13:09:24.797509+00:00",
+      "NumProgressed": 2333,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 14,
@@ -699,7 +704,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -715,7 +720,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -731,7 +736,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -747,7 +752,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -763,7 +768,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ACH_REUNION",
@@ -802,7 +807,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2332,
+      "Progressed": 2333,
       "Completed": 90
     }
   ],
@@ -810,8 +815,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-12T22:01:09.3840523+00:00",
-  "LastChanged_Achievements": "2023-05-14T12:05:21.2776731+00:00",
+  "LastChanged_Achievements": "2023-05-14T13:09:24.7975084+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:11.6755878+00:00",
-  "LastUpdate_Ratings": "2023-05-14T11:59:51.3343385+00:00",
-  "LastUpdate_Achievements": "2023-05-14T12:05:21.2776842+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:03:40.8452936+00:00",
+  "LastUpdate_Achievements": "2023-05-14T13:09:24.7975218+00:00"
 }

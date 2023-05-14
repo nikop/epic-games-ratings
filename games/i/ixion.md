@@ -23,7 +23,7 @@ Rating: 4.55 (Ranked 465)
 | Power Outage | 0.60% | ~11 |
 | Convenient Transport | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~9 |
-| A Hunk of Junk | 0.40% | ~8 |
+| A Hunk of Junk | 0.50% | ~9 |
 | Access Granted | 0.40% | ~8 |
 | BRAWL! | 0.40% | ~8 |
 | Please Make it Stop! | 0.40% | ~8 |

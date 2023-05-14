@@ -5,27 +5,27 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,868 |
-| First One’s Free | 65.00% | ~39,060 |
-| Neophyte Ninja | 50.00% | ~30,046 |
-| Too Old for This | 47.00% | ~28,244 |
-| Fancy Pants | 35.00% | ~21,033 |
-| Case Closed | 34.00% | ~20,432 |
-| King of the Hill | 33.00% | ~19,831 |
-| Underworld Initiate | 29.00% | ~17,427 |
-| Roid Ranger | 21.00% | ~12,620 |
-| True Player | 19.00% | ~11,418 |
-| Off the Rocks | 19.00% | ~11,418 |
-| Raider’s Ruin | 16.00% | ~9,615 |
-| Dragonslayer | 16.00% | ~9,615 |
-| Hidden Sonata | 13.00% | ~7,812 |
-| Classy Joint | 10.00% | ~6,009 |
-| Rockay Rex | 10.00% | ~6,009 |
-| Track Star | 9.00% | ~5,408 |
-| Freebooter | 9.00% | ~5,408 |
-| I Like Trains | 8.00% | ~4,807 |
-| Headhunter | 8.00% | ~4,807 |
-| Ding Dong | 8.00% | ~4,807 |
+| Downed but Not Outed | 73.00% | ~43,873 |
+| First One’s Free | 65.00% | ~39,065 |
+| Neophyte Ninja | 50.00% | ~30,050 |
+| Too Old for This | 47.00% | ~28,247 |
+| Fancy Pants | 35.00% | ~21,035 |
+| Case Closed | 34.00% | ~20,434 |
+| King of the Hill | 33.00% | ~19,833 |
+| Underworld Initiate | 29.00% | ~17,429 |
+| Roid Ranger | 21.00% | ~12,621 |
+| True Player | 19.00% | ~11,419 |
+| Off the Rocks | 19.00% | ~11,419 |
+| Raider’s Ruin | 16.00% | ~9,616 |
+| Dragonslayer | 16.00% | ~9,616 |
+| Hidden Sonata | 13.00% | ~7,813 |
+| Classy Joint | 10.00% | ~6,010 |
+| Rockay Rex | 10.00% | ~6,010 |
+| Track Star | 9.00% | ~5,409 |
+| Freebooter | 9.00% | ~5,409 |
+| I Like Trains | 8.00% | ~4,808 |
+| Headhunter | 8.00% | ~4,808 |
+| Ding Dong | 8.00% | ~4,808 |
 | Foo Finder | 7.00% | ~4,207 |
 | Legend Looter | 5.00% | ~3,005 |
 | Savvy Seeker | 5.00% | ~3,005 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~300 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,093 (Ranked 68)  
+Progressed: 60,100 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 29 (0.05%) (Ranked 172)
 | 2023-05-11 | 59,781 | 29 |
 | 2023-05-12 | 59,889 | 29 |
 | 2023-05-13 | 60,028 | 29 |
-| 2023-05-14 | 60,093 | 29 |
+| 2023-05-14 | 60,100 | 29 |
 ## Awards
 Max (Highly Recommended): 260  (Ranked 237)  
 Sum: 1,233 (Ranked 219)  

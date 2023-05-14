@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
     "PcReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -2554,10 +2554,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 16151,
       "NumberOfAwardsMax": 2739
+    },
+    {
+      "Time": "2023-05-14T13:03:31.2262614+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 16183,
+      "NumberOfAwardsMax": 2739
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16151,
+  "NumberOfAwards": 16183,
   "NumberOfAwardsMax": 2739,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2571,7 +2577,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2171
+      "Count": 2183
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2589,7 +2595,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1617
+      "Count": 1629
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2625,7 +2631,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1204
+      "Count": 1212
     },
     {
       "Text": "This game has a Creative Community",
@@ -2652,8 +2658,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-05-14T11:59:44.981991+00:00",
+  "LastChanged": "2023-05-14T13:03:31.2262613+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:04.329396+00:00",
-  "LastUpdate_Ratings": "2023-05-14T11:59:44.9819917+00:00",
-  "LastUpdate_Achievements": "2023-05-14T12:04:19.2718707+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:03:31.2262619+00:00",
+  "LastUpdate_Achievements": "2023-05-14T13:08:00.6474713+00:00"
 }

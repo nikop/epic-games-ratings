@@ -3,12 +3,12 @@
   "Name": "Swords of Legends Online",
   "ProductSlug": "swords-of-legends-online",
   "Ranking_Rating": 754,
-  "Ranking_Popularity": 276,
+  "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-07-09T12:00:00+00:00",
     "PcReleaseDate": "2021-07-09T12:00:00+00:00",
@@ -580,18 +580,24 @@
       "Rating": 4.3,
       "NumberOfAwards": 412,
       "NumberOfAwardsMax": 169
+    },
+    {
+      "Time": "2023-05-14T13:02:10.0244368+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 413,
+      "NumberOfAwardsMax": 170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 412,
-  "NumberOfAwardsMax": 169,
+  "NumberOfAwards": 413,
+  "NumberOfAwardsMax": 170,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 169
+      "Count": 170
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -653,8 +659,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2023-05-13T20:58:38.0108854+00:00",
+  "LastChanged": "2023-05-14T13:02:10.0244367+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:58.9956997+00:00",
-  "LastUpdate_Ratings": "2023-05-14T11:58:48.5075253+00:00",
-  "LastUpdate_Achievements": "2023-05-14T12:03:47.2429856+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:02:10.0244373+00:00",
+  "LastUpdate_Achievements": "2023-05-14T13:07:14.9908723+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.61 (Ranked 351)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,787 |
-| Shine On | 70.00% | ~110,868 |
-| On the Job | 69.00% | ~109,284 |
-| Get Stuck In | 68.00% | ~107,700 |
-| Room for Expansion | 68.00% | ~107,700 |
-| Sales Pitch | 65.00% | ~102,949 |
-| Chill Out | 64.00% | ~101,365 |
-| Tinker | 61.00% | ~96,614 |
-| Grand Designs | 60.00% | ~95,030 |
-| Hot Stuff | 59.00% | ~93,446 |
-| MOAR RGB | 54.00% | ~85,527 |
-| Dream Theme | 46.00% | ~72,856 |
-| The Customer is King | 45.00% | ~71,272 |
+| Bootstrapping | 75.00% | ~118,789 |
+| Shine On | 70.00% | ~110,870 |
+| On the Job | 69.00% | ~109,286 |
+| Get Stuck In | 68.00% | ~107,702 |
+| Room for Expansion | 68.00% | ~107,702 |
+| Sales Pitch | 65.00% | ~102,950 |
+| Chill Out | 64.00% | ~101,366 |
+| Tinker | 61.00% | ~96,615 |
+| Grand Designs | 60.00% | ~95,031 |
+| Hot Stuff | 59.00% | ~93,447 |
+| MOAR RGB | 54.00% | ~85,528 |
+| Dream Theme | 46.00% | ~72,857 |
+| The Customer is King | 45.00% | ~71,273 |
 | Working Hard | 44.00% | ~69,689 |
-| On the Bench | 42.00% | ~66,521 |
-| The More the Merrier | 42.00% | ~66,521 |
+| On the Bench | 42.00% | ~66,522 |
+| The More the Merrier | 42.00% | ~66,522 |
 | Mix and Match | 38.00% | ~60,186 |
 | Recycler | 38.00% | ~60,186 |
 | Foot in the Door | 37.00% | ~58,602 |
-| Very Imported PC | 36.00% | ~57,018 |
-| Full Throttle | 34.00% | ~53,850 |
+| Very Imported PC | 36.00% | ~57,019 |
+| Full Throttle | 34.00% | ~53,851 |
 | Repair Master | 32.00% | ~50,683 |
 | Pimp My Rig | 31.00% | ~49,099 |
-| Local Hero | 28.00% | ~44,347 |
+| Local Hero | 28.00% | ~44,348 |
 | Broken to Smokin' | 26.00% | ~41,180 |
 | Workaholic | 26.00% | ~41,180 |
 | Thanks Jeff | 25.00% | ~39,596 |
@@ -36,19 +36,19 @@ Rating: 4.61 (Ranked 351)
 | Bench Warmer | 24.00% | ~38,012 |
 | Gift of the Gab | 24.00% | ~38,012 |
 | Salvage Squad | 24.00% | ~38,012 |
-| On the Ladder | 23.00% | ~36,428 |
-| Stick With It | 23.00% | ~36,428 |
-| Variations on a Theme | 22.00% | ~34,844 |
-| Cowboy | 22.00% | ~34,844 |
-| Slap Happy | 21.00% | ~33,260 |
+| On the Ladder | 23.00% | ~36,429 |
+| Stick With It | 23.00% | ~36,429 |
+| Variations on a Theme | 22.00% | ~34,845 |
+| Cowboy | 22.00% | ~34,845 |
+| Slap Happy | 21.00% | ~33,261 |
 | Supercool | 19.00% | ~30,093 |
 | Stabiliser | 18.00% | ~28,509 |
 | This One Goes to 11 | 18.00% | ~28,509 |
-| Going Places | 15.00% | ~23,757 |
+| Going Places | 15.00% | ~23,758 |
 | Forgetful Shopper | 14.00% | ~22,174 |
 | Showpiece | 13.00% | ~20,590 |
 | Paste Not, Want Not | 13.00% | ~20,590 |
-| Bench Press | 9.00% | ~14,254 |
+| Bench Press | 9.00% | ~14,255 |
 | Matching Set | 8.00% | ~12,671 |
 | Tech Vet | 8.00% | ~12,671 |
 | Salesperson of the Month | 8.00% | ~12,671 |
@@ -56,8 +56,8 @@ Rating: 4.61 (Ranked 351)
 | Ship It | 7.00% | ~11,087 |
 | Elite Technician | 6.00% | ~9,503 |
 | Unlimited Power | 5.00% | ~7,919 |
-| Big Shot | 3.00% | ~4,751 |
-| Just Like Old Times | 3.00% | ~4,751 |
+| Big Shot | 3.00% | ~4,752 |
+| Just Like Old Times | 3.00% | ~4,752 |
 | Legendary Technician | 2.00% | ~3,168 |
 | Procrastinator | 1.00% | ~1,584 |
 | PC OG | 0.80% | ~1,267 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 351)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,383 (Ranked 53)  
+Progressed: 158,385 (Ranked 53)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,10 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-11 | 158,275 | 102 |
 | 2023-05-12 | 158,322 | 102 |
 | 2023-05-13 | 158,365 | 102 |
-| 2023-05-14 | 158,383 | 102 |
+| 2023-05-14 | 158,385 | 102 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 163)  
-Sum: 4,549 (Ranked 127)  
+Sum: 4,550 (Ranked 127)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -102,7 +102,7 @@ Diff (max vs sum): 36
 | This game is Extremely Fun | 546 |
 | This game has Quickly Understood Controls | 536 |
 | This game is Highly Recommended | 512 |
-| This game has Amazing Storytelling | 470 |
+| This game has Amazing Storytelling | 471 |
 | This game has a Creative Community | 384 |
 | This game has Amazing Characters | 340 |
 | This game has Obsessive Gameplay | 171 |
@@ -165,3 +165,4 @@ Diff (max vs sum): 36
 | 2023-05-11 | 4.61 | 605 | 4,543 |
 | 2023-05-12 | 4.61 | 605 | 4,544 |
 | 2023-05-13 | 4.61 | 607 | 4,549 |
+| 2023-05-14 | 4.61 | 607 | 4,550 |

@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 627,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 6.86,
   "EosHistory": [
@@ -1498,9 +1498,9 @@
       "ID": "9",
       "SetID": "d0g98p",
       "Name": "Curtain Call",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 263
     }
   ],
   "AchievementSets": [
@@ -1515,8 +1515,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-14T12:04:46.3551919+00:00",
+  "LastChanged_Achievements": "2023-05-14T13:08:39.17409+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-14T11:57:26.8802523+00:00",
-  "LastUpdate_Achievements": "2023-05-14T12:04:46.3552314+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:00:14.2641637+00:00",
+  "LastUpdate_Achievements": "2023-05-14T13:08:39.1741412+00:00"
 }

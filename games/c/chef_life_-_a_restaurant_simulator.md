@@ -11,7 +11,7 @@
 | So Clean You Can Eat Off the Floor | 34.00% | ~30 |
 | S is for Scrumptious | 30.00% | ~26 |
 | Next Level Cuisine | 19.00% | ~17 |
-| Italian Style | 17.00% | ~15 |
+| Italian Style | 18.00% | ~16 |
 | Haute Cuisine | 15.00% | ~13 |
 | Sous-Chef | 11.00% | ~10 |
 | Well-Stocked Kitchen | 9.00% | ~8 |

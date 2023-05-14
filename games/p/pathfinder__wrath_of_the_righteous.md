@@ -13,16 +13,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 7.00% | ~617 |
 | Defender's Heart | 7.00% | ~617 |
 | Queen's Gratitude | 6.00% | ~529 |
-| Fifth Crusade | 4.00% | ~352 |
+| Fifth Crusade | 4.00% | ~353 |
 | Embrace of the Abyss | 3.00% | ~264 |
 | Path of the Angel | 3.00% | ~264 |
+| Transformation | 3.00% | ~264 |
 | Great Upstart | 3.00% | ~264 |
 | Voice from Your Dreams | 3.00% | ~264 |
 | All Paths Open | 3.00% | ~264 |
 | Demonic and Divine | 3.00% | ~264 |
 | Heart of the Fallen Land | 2.00% | ~176 |
 | Path of the Azata | 2.00% | ~176 |
-| Transformation | 2.00% | ~176 |
 | The Legacy | 2.00% | ~176 |
 | Divide and Rule | 2.00% | ~176 |
 | Mythic Reinforcements | 2.00% | ~176 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 1.00% | ~76 |
 | Sarkoris Will Be Green | 1.00% | ~76 |
 | Path of the Demon | 0.90% | ~79 |
-| Abyssal Conspiracy | 0.80% | ~70 |
+| Abyssal Conspiracy | 0.80% | ~71 |
 | This Wall Won't Fall | 0.70% | ~53 |
 | The Final Threshold | 0.60% | ~53 |
 | Strategic Victory | 0.60% | ~53 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,812 (Ranked 109)  
+Progressed: 8,813 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,17 +147,17 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 8,770 | 0 |
 | 2023-05-12 | 8,785 | 0 |
 | 2023-05-13 | 8,800 | 0 |
-| 2023-05-14 | 8,812 | 0 |
+| 2023-05-14 | 8,813 | 0 |
 ## Awards
 Max (Character Customization): 1,630  (Ranked 111)  
-Sum: 6,605 (Ranked 108)  
+Sum: 6,609 (Ranked 108)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,630 |
-| This game is Extremely Fun | 615 |
+| This game is Extremely Fun | 618 |
+| This game has Amazing Characters | 603 |
 | This game is Highly Recommended | 603 |
-| This game has Amazing Characters | 602 |
 | This game has Amazing Storytelling | 587 |
 | This game has Diverse Characters | 587 |
 | This game has Quickly Understood Controls | 546 |
@@ -277,3 +277,4 @@ Diff (max vs sum): 3
 | 2023-05-11 | 4.76 | - | 1,629 | 6,600 |
 | 2023-05-12 | 4.76 | - | 1,629 | 6,603 |
 | 2023-05-13 | 4.76 | - | 1,630 | 6,605 |
+| 2023-05-14 | 4.76 | - | 1,630 | 6,609 |

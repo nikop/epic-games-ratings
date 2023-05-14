@@ -7,8 +7,8 @@ Rating: 4.18 (Ranked 825)
 | ---- | ---------- | ----- |
 | Flesh Wound | 5.00% | ~628 |
 | Paper Jams | 5.00% | ~628 |
-| Get a Grip | 4.00% | ~502 |
-| The Outer Way | 4.00% | ~502 |
+| Get a Grip | 4.00% | ~503 |
+| The Outer Way | 4.00% | ~503 |
 | You Need a Gun | 3.00% | ~377 |
 | Two Heads Are Better Than One | 3.00% | ~377 |
 | Workplace Hazard | 3.00% | ~377 |
@@ -39,7 +39,7 @@ Rating: 4.18 (Ranked 825)
 | It's over, Jacob! | 0.10% | ~13 |
 | Lifer | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,562 (Ranked 101)  
+Progressed: 12,563 (Ranked 101)  
 Completed: 48 (0.38%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 48 (0.38%) (Ranked 112)
 | 2023-05-11 | 12,554 | 47 |
 | 2023-05-12 | 12,558 | 47 |
 | 2023-05-13 | 12,562 | 47 |
-| 2023-05-14 | 12,562 | 48 |
+| 2023-05-14 | 12,563 | 48 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 245 (Ranked 342)  

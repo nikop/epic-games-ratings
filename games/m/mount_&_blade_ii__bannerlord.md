@@ -6,23 +6,23 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,429 |
-| Landlord | 29.00% | ~14,441 |
-| Lawmaker | 21.00% | ~10,457 |
-| Bannerlord | 20.00% | ~9,959 |
-| Horde breaker | 20.00% | ~9,959 |
-| Trained | 19.00% | ~9,461 |
-| The king is pleased | 16.00% | ~7,967 |
-| King Solomon | 15.00% | ~7,469 |
-| I can do it | 14.00% | ~6,971 |
-| Apple of my eye | 13.00% | ~6,473 |
-| God of the Arena | 12.00% | ~5,976 |
-| Against all odds | 9.00% | ~4,482 |
-| Swordbearer | 9.00% | ~4,482 |
-| Duelist | 8.00% | ~3,984 |
-| Dynasty | 8.00% | ~3,984 |
-| I spit on your grave | 8.00% | ~3,984 |
-| What have the Romans ever done for us? | 8.00% | ~3,984 |
+| Lawbringer | 35.00% | ~17,432 |
+| Landlord | 29.00% | ~14,444 |
+| Lawmaker | 21.00% | ~10,459 |
+| Bannerlord | 20.00% | ~9,961 |
+| Horde breaker | 20.00% | ~9,961 |
+| Trained | 19.00% | ~9,463 |
+| The king is pleased | 16.00% | ~7,969 |
+| King Solomon | 15.00% | ~7,471 |
+| I can do it | 14.00% | ~6,973 |
+| Apple of my eye | 13.00% | ~6,475 |
+| God of the Arena | 12.00% | ~5,977 |
+| Against all odds | 9.00% | ~4,483 |
+| Swordbearer | 9.00% | ~4,483 |
+| Duelist | 8.00% | ~3,985 |
+| Dynasty | 8.00% | ~3,985 |
+| I spit on your grave | 8.00% | ~3,985 |
+| What have the Romans ever done for us? | 8.00% | ~3,985 |
 | Butterlord | 7.00% | ~3,486 |
 | Mastery | 6.00% | ~2,988 |
 | Know your enemy | 5.00% | ~2,490 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,796 (Ranked 74)  
+Progressed: 49,807 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 49,558 | 0 |
 | 2023-05-12 | 49,639 | 0 |
 | 2023-05-13 | 49,748 | 0 |
-| 2023-05-14 | 49,796 | 0 |
+| 2023-05-14 | 49,807 | 0 |
 ## Awards
 Max (Character Customization): 6,523  (Ranked 49)  
 Sum: 13,005 (Ranked 68)  

@@ -3694,9 +3694,9 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87483,
+  "EOS_Progressed": 87492,
   "EOS_Completed": 1840,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5878,6 +5878,11 @@
     {
       "Time": "2023-05-14T12:05:30.37102+00:00",
       "NumProgressed": 87483,
+      "NumCompleted": 1840
+    },
+    {
+      "Time": "2023-05-14T13:09:35.8942589+00:00",
+      "NumProgressed": 87492,
       "NumCompleted": 1840
     }
   ],
@@ -8488,9 +8493,9 @@
       "ID": "objective_completed_606",
       "SetID": "cc37lbc",
       "Name": "All You Know Is Wrong",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_607",
@@ -9801,21 +9806,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53757,
-      "Completed": 2505
+      "Progressed": 53766,
+      "Completed": 2506
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87483,
+      "Progressed": 87492,
       "Completed": 1840
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T05:57:43.2647561+00:00",
-  "LastChanged_Achievements": "2023-05-14T12:05:30.3710196+00:00",
+  "LastChanged_Achievements": "2023-05-14T13:09:35.8942583+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T11:57:57.6804167+00:00",
-  "LastUpdate_Achievements": "2023-05-14T12:05:30.3731789+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:00:56.2679628+00:00",
+  "LastUpdate_Achievements": "2023-05-14T13:09:35.8969163+00:00"
 }

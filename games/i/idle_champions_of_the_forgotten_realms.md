@@ -198,6 +198,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~175 |
 | Hailstorm! | 0.20% | ~108 |
 | Resolve Amongst Chaos | 0.20% | ~175 |
+| All You Know Is Wrong | 0.20% | ~175 |
 | Market Fluctuations | 0.20% | ~175 |
 | Once More Into The Breach | 0.20% | ~175 |
 | Wyllowwood | 0.20% | ~175 |
@@ -397,7 +398,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~54 |
 | Everything is Awful | 0.10% | ~87 |
 | Earthquake! | 0.10% | ~54 |
-| All You Know Is Wrong | 0.10% | ~87 |
 | Shadow Stalkers | 0.10% | ~54 |
 | Avernus Frozen Over | 0.10% | ~54 |
 | Twice More Into The Breach | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,483 (Ranked 59)  
+Progressed: 87,492 (Ranked 59)  
 Completed: 1,840 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,840 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,483 | 1,840 |
+| 2023-05-14 | 87,492 | 1,840 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,876 (Ranked 37)  

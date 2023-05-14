@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12408,
+  "EOS_Progressed": 12409,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1830,6 +1830,11 @@
       "Time": "2023-05-14T12:04:44.3124843+00:00",
       "NumProgressed": 12408,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-14T13:08:36.4983609+00:00",
+      "NumProgressed": 12409,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -1849,7 +1854,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "tpote_achievement_11",
@@ -1905,7 +1910,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "tpote_achievement_18",
@@ -1945,7 +1950,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "tpote_achievement_22",
@@ -2015,9 +2020,9 @@
       "ID": "tpote_achievement_3",
       "SetID": "3jcf6c3",
       "Name": "Let there be darkness",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4095
     },
     {
       "ID": "tpote_achievement_30",
@@ -2033,7 +2038,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "tpote_achievement_32",
@@ -2105,7 +2110,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5211
+      "UsersEstimate": 5212
     },
     {
       "ID": "tpote_achievement_40",
@@ -2168,15 +2173,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12408,
+      "Progressed": 12409,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-14T12:04:44.312484+00:00",
+  "LastChanged_Achievements": "2023-05-14T13:08:36.4983602+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-14T11:59:33.4790955+00:00",
-  "LastUpdate_Achievements": "2023-05-14T12:04:44.3125163+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:03:14.9730914+00:00",
+  "LastUpdate_Achievements": "2023-05-14T13:08:36.4984008+00:00"
 }

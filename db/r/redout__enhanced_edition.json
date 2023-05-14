@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221808,
+  "EOS_Progressed": 221809,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2393,6 +2393,11 @@
       "Time": "2023-05-14T12:04:44.4909737+00:00",
       "NumProgressed": 221808,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-14T13:08:36.7683521+00:00",
+      "NumProgressed": 221809,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -2420,7 +2425,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62106
+      "UsersEstimate": 62107
     },
     {
       "ID": "CENTAUR",
@@ -2668,22 +2673,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90941
+      "UsersEstimate": 90942
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221808,
+      "Progressed": 221809,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-14T12:04:44.4909732+00:00",
+  "LastChanged_Achievements": "2023-05-14T13:08:36.7683517+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.9960773+00:00",
-  "LastUpdate_Ratings": "2023-05-14T11:58:07.2610386+00:00",
-  "LastUpdate_Achievements": "2023-05-14T12:04:44.4910023+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:01:09.970421+00:00",
+  "LastUpdate_Achievements": "2023-05-14T13:08:36.76839+00:00"
 }

@@ -404,9 +404,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12562,
+  "EOS_Progressed": 12563,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -704,6 +704,11 @@
       "Time": "2023-05-14T02:08:01.9491606+00:00",
       "NumProgressed": 12562,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-05-14T13:08:51.2366306+00:00",
+      "NumProgressed": 12563,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 33,
@@ -819,7 +824,7 @@
       "Name": "Get a Grip",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -907,7 +912,7 @@
       "Name": "The Outer Way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "STORY_ESCAPE",
@@ -978,13 +983,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12562,
+      "Progressed": 12563,
       "Completed": 48
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 29
     }
   ],
@@ -992,8 +997,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-05T17:02:12.7332747+00:00",
-  "LastChanged_Achievements": "2023-05-14T12:04:55.6739452+00:00",
+  "LastChanged_Achievements": "2023-05-14T13:08:51.23663+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-14T11:57:46.5369603+00:00",
-  "LastUpdate_Achievements": "2023-05-14T12:04:55.6739667+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:00:40.1805679+00:00",
+  "LastUpdate_Achievements": "2023-05-14T13:08:51.2366581+00:00"
 }
