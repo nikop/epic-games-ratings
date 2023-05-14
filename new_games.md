@@ -150,5 +150,3 @@
 | [Soar](games/s/soar.md) | 2023-04-16 | 2023-04-24 |
 | [Cats Yakuza - Online card game](games/c/cats_yakuza_-_online_card_game.md) | 2023-04-15 | 2022-07-29 |
 | [The Ultimate Trivia Challenge](games/t/the_ultimate_trivia_challenge.md) | 2023-04-14 | 2017-10-27 |
-| [De-Exit - Eternal Matters](games/d/de-exit_-_eternal_matters.md) | 2023-04-14 | 2023-04-14 |
-| [Bosorka](games/b/bosorka.md) | 2023-04-14 | 2023-04-14 |

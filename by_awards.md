@@ -19,8 +19,8 @@
 | 17 | [Dauntless](games/d/dauntless.md) | 19,814 | 4.53 | 490 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,751 | 4.77 | 104 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,284 | 4.57 | 427 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,129 | 4.89 | 11 |
-| 21 | [Warframe](games/w/warframe.md) | 14,751 | 4.61 | 351 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,157 | 4.89 | 11 |
+| 21 | [Warframe](games/w/warframe.md) | 14,777 | 4.61 | 351 |
 | 22 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,340 | 4.58 | 412 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,179 | 4.76 | 114 |
 | 24 | [Maneater](games/m/maneater.md) | 13,447 | 4.49 | 553 |
@@ -38,7 +38,7 @@
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,073 | 4.61 | 351 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 8,946 | 4.78 | 100 |
 | 38 | [Control](games/c/control.md) | 8,277 | 4.60 | 377 |
-| 39 | [SnowRunner](games/s/snowrunner.md) | 8,003 | 4.76 | 114 |
+| 39 | [SnowRunner](games/s/snowrunner.md) | 8,022 | 4.76 | 114 |
 | 40 | [Supraland](games/s/supraland.md) | 7,609 | 4.61 | 351 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,541 | 4.85 | 38 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,295 | 4.57 | 427 |
@@ -64,7 +64,7 @@
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,904 | 4.34 | 724 |
 | 63 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,878 | 4.06 | 871 |
 | 64 | [DEATH STRANDING](games/d/death_stranding.md) | 4,797 | 4.78 | 100 |
-| 65 | [MultiVersus](games/m/multiversus.md) | 4,737 | 4.56 | 448 |
+| 65 | [MultiVersus](games/m/multiversus.md) | 4,739 | 4.56 | 448 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,566 | 3.98 | 887 |
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,525 | 4.70 | 192 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,447 | 4.65 | 290 |
@@ -78,7 +78,7 @@
 | 76 | [SMITE](games/s/smite.md) | 3,752 | 4.45 | 603 |
 | 77 | [Days Gone](games/d/days_gone.md) | 3,751 | 4.69 | 214 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,597 | 4.30 | 754 |
-| 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,445 | 4.47 | 579 |
+| 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,447 | 4.47 | 579 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 235 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,277 | 4.46 | 592 |
 | 82 | [Paladins](games/p/paladins.md) | 3,219 | 4.35 | 716 |
@@ -93,7 +93,7 @@
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,474 | 4.61 | 351 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,442 | 4.28 | 768 |
 | 93 | [Among Us](games/a/among_us.md) | 2,400 | 4.58 | 412 |
-| 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,354 | 4.80 | 78 |
+| 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,356 | 4.80 | 78 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,302 | 4.50 | 529 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,284 | 4.10 | 857 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,252 | 4.79 | 90 |
@@ -107,11 +107,11 @@
 | 105 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 1,860 | 3.98 | 887 |
 | 106 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,820 | 4.70 | 192 |
 | 107 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,799 | 4.90 | 6 |
-| 108 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,771 | 4.56 | 448 |
+| 108 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,772 | 4.56 | 448 |
 | 109 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,739 | 4.57 | 427 |
 | 110 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,733 | 4.63 | 324 |
-| 111 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,630 | 4.76 | 114 |
-| 112 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,567 | 4.51 | 516 |
+| 111 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,631 | 4.76 | 114 |
+| 112 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,569 | 4.51 | 516 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,501 | 4.69 | 214 |
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,472 | 4.58 | 412 |
 | 115 | [Celeste](games/c/celeste.md) | 1,446 | 4.92 | 3 |
@@ -366,7 +366,7 @@
 | 364 | [Barony](games/b/barony.md) | 70 | 4.71 | 178 |
 | 365 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 235 |
 | 365 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 448 |
-| 367 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 68 | 4.72 | 164 |
+| 365 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 69 | 4.72 | 164 |
 | 368 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 67 | 4.34 | 724 |
 | 369 | [Potion Permit](games/p/potion_permit.md) | 66 | 3.79 | 908 |
 | 369 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 636 |

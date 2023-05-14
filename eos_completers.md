@@ -18,9 +18,9 @@
 | 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.29% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.28% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.85% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
@@ -35,8 +35,8 @@
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.96% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
-| 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.64% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.53% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.45% |
@@ -84,7 +84,7 @@
 | 82 | [Late Shift](games/l/late_shift.md) | 1.18% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 85 | [Dungeons 3](games/d/dungeons_3.md) | 0.94% |
+| 85 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
 | 86 | [Sable](games/s/sable.md) | 0.92% |
 | 87 | [Hades](games/h/hades.md) | 0.90% |
 | 88 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
@@ -96,7 +96,7 @@
 | 93 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 95 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 96 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.74% |
-| 97 | [Train Valley](games/t/train_valley.md) | 0.73% |
+| 97 | [Train Valley](games/t/train_valley.md) | 0.72% |
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
 | 98 | [Haven](games/h/haven.md) | 0.71% |
 | 100 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
@@ -398,4 +398,4 @@
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,603 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,604 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

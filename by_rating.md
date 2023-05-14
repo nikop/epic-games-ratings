@@ -16,7 +16,7 @@
 | 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 491 |
 | 11 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 140,305 | 6 |
 | 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 406 | 198 |
-| 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,129 | 20 |
+| 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,157 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 294 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 251 | 239 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,984 | 73 |
@@ -80,7 +80,7 @@
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,262 | 51 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 281 |
 | 78 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 524 | 181 |
-| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,354 | 94 |
+| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,356 | 94 |
 | 78 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 0 | 491 |
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 321 |
 | 78 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 491 |
@@ -120,9 +120,9 @@
 | 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 843 | 144 |
 | 114 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 491 |
 | 114 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 101 | 321 |
-| 114 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,630 | 111 |
+| 114 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,631 | 111 |
 | 114 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 491 |
-| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,003 | 39 |
+| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,022 | 39 |
 | 114 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 491 |
 | 114 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 491 |
 | 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 491 |
@@ -170,7 +170,7 @@
 | 164 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 412 |
 | 164 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 491 |
 | 164 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 0 | 491 |
-| 164 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 68 | 367 |
+| 164 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 69 | 365 |
 | 164 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 491 |
 | 164 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.72 | 0 | 491 |
 | 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 491 |
@@ -375,7 +375,7 @@
 | 351 | [Supraland](games/s/supraland.md) | 4.61 | 7,609 | 40 |
 | 351 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 194 | 260 |
 | 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 373 |
-| 351 | [Warframe](games/w/warframe.md) | 4.61 | 14,751 | 21 |
+| 351 | [Warframe](games/w/warframe.md) | 4.61 | 14,777 | 21 |
 | 377 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,784 | 29 |
 | 377 | [Control](games/c/control.md) | 4.60 | 8,277 | 38 |
 | 377 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
@@ -458,9 +458,9 @@
 | 448 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 365 |
 | 448 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 491 |
 | 448 | [Minit](games/m/minit.md) | 4.56 | 0 | 491 |
-| 448 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,737 | 65 |
+| 448 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,739 | 65 |
 | 448 | [Observation](games/o/observation.md) | 4.56 | 0 | 491 |
-| 448 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,771 | 108 |
+| 448 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,772 | 108 |
 | 448 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 351 |
 | 448 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 49 | 392 |
 | 448 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,861 | 75 |
@@ -515,7 +515,7 @@
 | 501 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.52 | 63 | 373 |
 | 501 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 150 | 285 |
 | 501 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 491 |
-| 516 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,567 | 112 |
+| 516 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,569 | 112 |
 | 516 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 334 |
 | 516 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,086 | 71 |
 | 516 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 479 |
@@ -581,7 +581,7 @@
 | 579 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 491 |
 | 579 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 435 |
 | 579 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 491 |
-| 579 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,445 | 79 |
+| 579 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,447 | 79 |
 | 579 | [Knockout City™](games/k/knockout_city™.md) | 4.47 | 0 | 491 |
 | 579 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 491 |
 | 579 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 491 |
