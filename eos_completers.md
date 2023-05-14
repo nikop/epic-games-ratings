@@ -11,7 +11,7 @@
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.67% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
 | 13 | [Remains](games/r/remains.md) | 10.53% |
 | 14 | [Smelter](games/s/smelter.md) | 10.00% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
@@ -56,8 +56,8 @@
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [FORECLOSED](games/f/foreclosed.md) | 2.67% |
 | 56 | [JARS](games/j/jars.md) | 2.56% |
-| 57 | [Them and Us](games/t/them_and_us.md) | 2.50% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 58 | [Them and Us](games/t/them_and_us.md) | 2.44% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
@@ -122,10 +122,10 @@
 | 119 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 121 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 123 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 123 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
 | 123 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 123 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 126 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 127 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 128 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
@@ -180,16 +180,16 @@
 | 176 | [House Party](games/h/house_party.md) | 0.04% |
 | 176 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
 | 176 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 181 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 181 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 181 | [Old World](games/o/old_world.md) | 0.03% |
 | 181 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
-| 184 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 184 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
-| 184 | [Good Company](games/g/good_company.md) | 0.02% |
-| 184 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.02% |
-| 184 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 184 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 184 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 185 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 185 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
+| 185 | [Good Company](games/g/good_company.md) | 0.02% |
+| 185 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 185 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 185 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 191 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 191 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 191 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |

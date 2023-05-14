@@ -653,7 +653,6 @@
 | 642 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 491 |
 | 642 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 128 | 294 |
 | 653 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 491 |
-| 653 | [Against All Odds](games/a/against_all_odds.md) | 4.41 | 0 | 491 |
 | 653 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 491 |
 | 653 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 491 |
 | 653 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 330 |
@@ -668,19 +667,20 @@
 | 653 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 359 |
 | 653 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 534 | 176 |
 | 653 | [Tunche](games/t/tunche.md) | 4.41 | 0 | 491 |
-| 669 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 491 |
-| 669 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
-| 669 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 986 | 138 |
-| 669 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
-| 669 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
-| 669 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
-| 669 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 397 | 201 |
-| 669 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
-| 669 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
-| 669 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.40 | 502 | 184 |
-| 669 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 491 |
-| 669 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 491 |
-| 669 | [Warpips](games/w/warpips.md) | 4.40 | 21 | 479 |
+| 668 | [Against All Odds](games/a/against_all_odds.md) | 4.40 | 0 | 491 |
+| 668 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 491 |
+| 668 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
+| 668 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 986 | 138 |
+| 668 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
+| 668 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
+| 668 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
+| 668 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 397 | 201 |
+| 668 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
+| 668 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
+| 668 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.40 | 502 | 184 |
+| 668 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 491 |
+| 668 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 491 |
+| 668 | [Warpips](games/w/warpips.md) | 4.40 | 21 | 479 |
 | 682 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 491 |
 | 682 | [Breathedge](games/b/breathedge.md) | 4.39 | 0 | 491 |
 | 682 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 491 |
@@ -689,6 +689,7 @@
 | 682 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,654 | 30 |
 | 682 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 322 | 216 |
 | 689 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 491 |
+| 689 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 491 |
 | 689 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 491 |
 | 689 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 491 |
 | 689 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 0 | 491 |
@@ -699,13 +700,12 @@
 | 689 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 491 |
 | 689 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 491 |
 | 689 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 441 |
-| 700 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 491 |
-| 700 | [Core](games/c/core.md) | 4.37 | 730 | 152 |
-| 700 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 491 |
-| 700 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,132 | 101 |
-| 700 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 491 |
-| 700 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 395 |
-| 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 84 | 343 |
+| 701 | [Core](games/c/core.md) | 4.37 | 730 | 152 |
+| 701 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 491 |
+| 701 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,132 | 101 |
+| 701 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 491 |
+| 701 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 395 |
+| 701 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 84 | 343 |
 | 707 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 491 |
 | 707 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 274 |
 | 707 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 491 |
@@ -785,7 +785,7 @@
 | 780 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 491 |
 | 784 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 491 |
 | 784 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 441 |
-| 784 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,546 | 34 |
+| 784 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,614 | 34 |
 | 784 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 369 | 206 |
 | 784 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 491 |
 | 784 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 491 |

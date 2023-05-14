@@ -16,6 +16,7 @@
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
+| [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 2023-05-19 | 2022-08-18 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
@@ -294,7 +295,6 @@
 | [Shadowman - Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | 2099-01-01 |
 | [Ship Simulator Realistic](games/s/ship_simulator_realistic.md) | 2099-01-01 | 2022-01-11 |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | 2099-01-01 |
-| [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 2099-01-01 | 2022-08-18 |
 | [SLUDGE LIFE 2](games/s/sludge_life_2.md) | 2099-01-01 | 2099-01-01 |
 | [Soliloquy](games/s/soliloquy.md) | 2099-01-01 | 2099-01-01 |
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | 2099-01-01 |
