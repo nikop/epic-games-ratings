@@ -5,8 +5,8 @@
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
-| 6 | [Island Cities](games/i/island_cities.md) | 20.59% |
-| 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
+| 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
+| 7 | [Island Cities](games/i/island_cities.md) | 20.29% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 18.75% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
@@ -18,12 +18,12 @@
 | 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.47% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.19% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.88% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -44,14 +44,14 @@
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
-| 44 | [Them and Us](games/t/them_and_us.md) | 3.03% |
-| 46 | [Lamentum](games/l/lamentum.md) | 3.00% |
-| 47 | [MultiVersus](games/m/multiversus.md) | 2.96% |
-| 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
-| 49 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
-| 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 50 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
-| 52 | [ZZT!](games/z/zzt!.md) | 2.86% |
+| 45 | [Lamentum](games/l/lamentum.md) | 3.00% |
+| 46 | [MultiVersus](games/m/multiversus.md) | 2.96% |
+| 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
+| 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
+| 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
+| 49 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
+| 51 | [Them and Us](games/t/them_and_us.md) | 2.86% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.86% |
 | 53 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.78% |
 | 54 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -111,9 +111,9 @@
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 111 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
-| 112 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
-| 112 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
+| 113 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
+| 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 115 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 115 | [Tchia](games/t/tchia.md) | 0.35% |
 | 115 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
