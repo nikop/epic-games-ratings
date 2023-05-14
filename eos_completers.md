@@ -20,10 +20,10 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.25% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.23% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.98% |
-| 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
+| 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.71% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
@@ -58,12 +58,12 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
-| 62 | [Them and Us](games/t/them_and_us.md) | 1.82% |
-| 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
-| 63 | [Sifu](games/s/sifu.md) | 1.81% |
+| 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
+| 62 | [Sifu](games/s/sifu.md) | 1.81% |
+| 64 | [Them and Us](games/t/them_and_us.md) | 1.79% |
 | 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
@@ -82,7 +82,7 @@
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.22% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.18% |
-| 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
+| 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
 | 85 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
 | 86 | [Sable](games/s/sable.md) | 0.92% |
