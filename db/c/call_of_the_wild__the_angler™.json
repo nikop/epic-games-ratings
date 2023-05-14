@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1207,9 +1207,9 @@
       "ID": "ACHIEVEMENT_013",
       "SetID": "1a05lfd",
       "Name": "Hook, Line and Sinker",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -1406,8 +1406,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-10T03:00:05.0407408+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:06:14.1564693+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:08:22.4260996+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.4232926+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:59:48.6880474+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:06:14.156513+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:02:25.1648241+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:08:22.4261247+00:00"
 }

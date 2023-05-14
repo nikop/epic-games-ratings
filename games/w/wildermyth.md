@@ -25,9 +25,9 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 6.00% | ~70 |
 | A Story of Heroes | 6.00% | ~70 |
 | Let Me Get My Chisel | 5.00% | ~58 |
+| Plague Doctor | 5.00% | ~58 |
 | Everfading | 5.00% | ~58 |
 | Another Tale to Tell | 5.00% | ~58 |
-| Plague Doctor | 4.00% | ~47 |
 | Legends Never Die | 4.00% | ~47 |
 | A Hunger, Sated | 4.00% | ~47 |
 | Wingknight's Prowess | 4.00% | ~47 |

@@ -14,7 +14,7 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 0.40% | ~20 |
 | If at First You Don't Succeed... | 0.40% | ~20 |
 | The Brahdyssey | 0.30% | ~15 |
-| Caught in the Act | 0.20% | ~10 |
+| Caught in the Act | 0.30% | ~15 |
 | IRL Let's Player | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |
 | The Muse: Madison | 0.20% | ~10 |

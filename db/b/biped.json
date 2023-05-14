@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -1185,9 +1185,9 @@
       "ID": "1",
       "SetID": "1dkhij4",
       "Name": "First Step",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 45,
-      "UsersEstimate": 501
+      "UsersEstimate": 513
     },
     {
       "ID": "10",
@@ -1314,8 +1314,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:05:37.491356+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:07:50.9296745+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.6922017+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:57:58.694606+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:05:37.4913871+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:00:57.5303275+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:07:50.9296888+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 13.00% | ~1,144 |
+| Devoured by Darkness | 13.00% | ~1,145 |
 | Burning City | 9.00% | ~792 |
 | A Spark | 9.00% | ~792 |
 | Banner over the Citadel | 7.00% | ~616 |
@@ -49,7 +49,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Final Threshold | 0.60% | ~53 |
 | Strategic Victory | 0.60% | ~53 |
 | End of Eternal Guard | 0.60% | ~53 |
-| Not the Last Sarkorian | 0.60% | ~45 |
+| Not the Last Sarkorian | 0.60% | ~46 |
 | Path of the Dragon | 0.50% | ~44 |
 | Path of the Legend | 0.50% | ~44 |
 | Playful Mood | 0.50% | ~44 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,800 (Ranked 109)  
+Progressed: 8,804 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 8,770 | 0 |
 | 2023-05-12 | 8,785 | 0 |
 | 2023-05-13 | 8,800 | 0 |
+| 2023-05-14 | 8,804 | 0 |
 ## Awards
 Max (Character Customization): 1,630  (Ranked 111)  
 Sum: 6,605 (Ranked 108)  

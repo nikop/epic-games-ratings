@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,238 |
-| Jeef Skeejj | 44.00% | ~201,492 |
-| Careful planning | 39.00% | ~178,595 |
-| Second Coming | 33.00% | ~151,119 |
-| Jeef Skagg | 30.00% | ~137,381 |
-| Mother | 25.00% | ~114,484 |
-| In space, no one can hear you scream | 23.00% | ~105,325 |
-| Chapter I: Echoes | 22.00% | ~100,746 |
-| Excelsior Rule | 22.00% | ~100,746 |
-| Things persisted in not being what they seemed | 20.00% | ~91,587 |
-| Knightmare Frames | 15.00% | ~68,690 |
-| May His passing cleanse the world | 15.00% | ~68,690 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,690 |
-| Pope Zenon | 15.00% | ~68,690 |
+| The Shutdown | 66.00% | ~302,240 |
+| Jeef Skeejj | 44.00% | ~201,494 |
+| Careful planning | 39.00% | ~178,597 |
+| Second Coming | 33.00% | ~151,120 |
+| Jeef Skagg | 30.00% | ~137,382 |
+| Mother | 25.00% | ~114,485 |
+| In space, no one can hear you scream | 23.00% | ~105,326 |
+| Chapter I: Echoes | 22.00% | ~100,747 |
+| Excelsior Rule | 22.00% | ~100,747 |
+| Things persisted in not being what they seemed | 20.00% | ~91,588 |
+| Knightmare Frames | 15.00% | ~68,691 |
+| May His passing cleanse the world | 15.00% | ~68,691 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,691 |
+| Pope Zenon | 15.00% | ~68,691 |
 | Tetsuo | 11.00% | ~50,373 |
 | Plan for the worst | 11.00% | ~50,373 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,794 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,579 |
 | A Frozen Lady | 1.00% | ~4,579 |
 | Void Rule | 1.00% | ~4,579 |
-| Excelsior Mastery | 0.80% | ~3,663 |
+| Excelsior Mastery | 0.80% | ~3,664 |
 | The greatest admiral of all time | 0.50% | ~2,290 |
 | Liberator | 0.10% | ~458 |
 | The Art of War | 0.10% | ~458 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,936 (Ranked 28)  
+Progressed: 457,940 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 14 (0.00%) (Ranked 199)
 | 2023-05-11 | 457,744 | 14 |
 | 2023-05-12 | 457,795 | 14 |
 | 2023-05-13 | 457,931 | 14 |
-| 2023-05-14 | 457,936 | 14 |
+| 2023-05-14 | 457,940 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 348)  

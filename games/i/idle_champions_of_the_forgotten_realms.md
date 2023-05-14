@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,748 |
+| A Brief Tour of the Realms | 2.00% | ~1,749 |
 | Checkmate | 2.00% | ~1,074 |
 | Pin and Skewer | 1.00% | ~537 |
 | Vecna Out! | 1.00% | ~537 |
@@ -229,6 +229,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~107 |
 | Fortress Assault | 0.20% | ~107 |
 | The Radiant Nightmare | 0.20% | ~107 |
+| Quick Thinking | 0.20% | ~107 |
 | Witty Riposting | 0.20% | ~107 |
 | Waiting on Sunrise | 0.20% | ~107 |
 | How Far Away is Thay | 0.20% | ~107 |
@@ -237,6 +238,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 1 | 0.20% | ~107 |
 | Ending the Rime - Part 2 | 0.20% | ~107 |
 | Reghed Glacier Mysteries | 0.20% | ~107 |
+| Tekeli-li's Hunt | 0.20% | ~107 |
 | The Haunted Jungle | 0.20% | ~175 |
 | Poor Guidance | 0.20% | ~175 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -454,7 +456,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Idyllglen | 0.10% | ~54 |
 | The Madness of Yeenoghu | 0.10% | ~54 |
 | Reya Reborn | 0.10% | ~54 |
-| Quick Thinking | 0.10% | ~54 |
 | Tough Acting | 0.10% | ~54 |
 | Frontline Fighters | 0.10% | ~54 |
 | A Chilling Encounter | 0.10% | ~54 |
@@ -479,7 +480,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 2 | 0.10% | ~54 |
 | Mysteries Unlocked | 0.10% | ~54 |
 | Male Pattern Boldness | 0.10% | ~54 |
-| Tekeli-li's Hunt | 0.10% | ~54 |
 | Cackling Horror | 0.10% | ~54 |
 | Working for the Weak End | 0.10% | ~54 |
 | Neutral No More | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,425 (Ranked 59)  
+Progressed: 87,430 (Ranked 59)  
 Completed: 1,836 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,10 +520,10 @@ Completed: 1,836 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,425 | 1,836 |
+| 2023-05-14 | 87,430 | 1,836 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
-Sum: 29,873 (Ranked 37)  
+Sum: 29,874 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -533,7 +533,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,485 |
 | This game is Highly Recommended | 3,936 |
 | This game has Amazing Characters | 3,934 |
-| This game has Playful Visuals | 3,232 |
+| This game has Playful Visuals | 3,233 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -645,3 +645,4 @@ Diff (max vs sum): 26
 | 2023-05-11 | 4.06 | - | 4,874 | 29,859 |
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
 | 2023-05-13 | 4.06 | - | 4,877 | 29,873 |
+| 2023-05-14 | 4.06 | - | 4,877 | 29,874 |

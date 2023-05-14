@@ -17,8 +17,8 @@ Rating: 4.72 (Ranked 164)
 | Past trauma | 32.00% | ~636 |
 | Thornbarrow | 32.00% | ~636 |
 | Ternmoat Headquarters | 32.00% | ~636 |
+| Elemental master | 31.00% | ~616 |
 | Cypress Glen Headquarters | 31.00% | ~616 |
-| Elemental master | 30.00% | ~596 |
 | Old friend | 26.00% | ~516 |
 | Petricite Burst | 26.00% | ~516 |
 | Devineur | 25.00% | ~496 |
@@ -48,11 +48,11 @@ Rating: 4.72 (Ranked 164)
 | I smell fear | 9.00% | ~179 |
 | The end of the experiments | 9.00% | ~179 |
 | The Great City of Demacia | 9.00% | ~179 |
+| Call it 'redistribution of magic | 9.00% | ~179 |
 | Chains master | 8.00% | ~159 |
 | Truth is a dark mirror | 8.00% | ~159 |
 | You can pet the... horse | 8.00% | ~159 |
 | Back to sleep, then... | 8.00% | ~159 |
-| Call it 'redistribution of magic | 8.00% | ~159 |
 | Do you trust me? | 7.00% | ~139 |
 | Spellcrafting | 7.00% | ~139 |
 | The great mage rebellion starts now | 6.00% | ~119 |

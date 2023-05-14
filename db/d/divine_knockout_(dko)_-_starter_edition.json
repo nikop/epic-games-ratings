@@ -3,12 +3,12 @@
   "Name": "Divine Knockout (DKO) - Starter Edition",
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 717,
-  "Ranking_Popularity": 391,
+  "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-13T15:00:00+00:00",
     "PcReleaseDate": "2023-01-13T15:00:00+00:00",
@@ -672,18 +672,24 @@
       "Rating": 4.35,
       "NumberOfAwards": 434,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-05-14T02:02:25.0722622+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 435,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 434,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 435,
+  "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -769,8 +775,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-05-13T23:00:03.5237124+00:00",
+  "LastChanged": "2023-05-14T02:02:25.0722621+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.3998289+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:59:48.5328862+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:04:53.8909834+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:02:25.0722625+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:07:14.9133017+00:00"
 }

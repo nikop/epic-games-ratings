@@ -2,13 +2,13 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46152,
+  "EOS_Progressed": 46155,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1541,6 +1541,11 @@
       "Time": "2023-05-13T23:05:48.4598623+00:00",
       "NumProgressed": 46152,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-14T02:08:03.1854633+00:00",
+      "NumProgressed": 46155,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1552,7 +1557,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9230
+      "UsersEstimate": 9231
     },
     {
       "ID": "02",
@@ -1568,7 +1573,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     },
     {
       "ID": "04",
@@ -1824,7 +1829,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7384
+      "UsersEstimate": 7385
     },
     {
       "ID": "36",
@@ -2087,21 +2092,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46152,
+      "Progressed": 46155,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9620,
+      "Progressed": 9623,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:05:52.0437336+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:08:03.1854629+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:57:35.9293879+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:05:52.043808+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:00:38.2335863+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:08:03.1855206+00:00"
 }

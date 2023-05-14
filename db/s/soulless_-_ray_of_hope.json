@@ -4,8 +4,8 @@
   "ProductSlug": "soulless-ray-of-hope-e37a13",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-27T16:00:00+00:00",
     "PcReleaseDate": "2016-10-18T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.4942379+00:00",
   "LastChanged": "2023-03-31T05:58:24.494238+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.5786279+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:58:57.2707448+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:03:27.2420645+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:01:44.0836204+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:06:03.3398738+00:00"
 }

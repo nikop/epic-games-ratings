@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1003,10 +1003,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1625,
       "NumberOfAwardsMax": 215
+    },
+    {
+      "Time": "2023-05-14T02:01:52.4007862+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1626,
+      "NumberOfAwardsMax": 215
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1625,
+  "NumberOfAwards": 1626,
   "NumberOfAwardsMax": 215,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1062,7 +1068,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 146
+      "Count": 147
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1071,9 +1077,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21509,
+  "EOS_Progressed": 21510,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1996,6 +2002,11 @@
       "Time": "2023-05-13T19:06:09.7217952+00:00",
       "NumProgressed": 21509,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-14T02:08:15.4220024+00:00",
+      "NumProgressed": 21510,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2318,21 +2329,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21509,
+      "Progressed": 21510,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-05-12T18:02:17.0255075+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:06:06.054454+00:00",
+  "LastChanged": "2023-05-14T02:01:52.400786+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:08:15.4220019+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:03.489431+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:59:07.5374449+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:06:06.0545097+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:01:52.4007865+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:08:15.4220356+00:00"
 }

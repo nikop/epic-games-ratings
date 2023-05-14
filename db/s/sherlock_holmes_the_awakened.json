@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -330,9 +330,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "MQ05_2",
@@ -346,9 +346,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "MQ05_4",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:05:44.5761548+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:07:56.4599785+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.4352441+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:57:12.0953341+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:05:44.5761918+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:00:17.0227114+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:07:56.4599948+00:00"
 }

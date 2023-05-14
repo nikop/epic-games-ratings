@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~44,532 |
-| ''I don't like you either!'' | 79.00% | ~36,268 |
-| ''Impressive, most impressive'' | 71.00% | ~32,595 |
-| ''You think you're some kind of Jedi?'' | 71.00% | ~32,595 |
-| The Phantom Menace | 58.00% | ~26,627 |
-| ''Aggressive Negotiations'' | 58.00% | ~26,627 |
-| ''I can fly anything'' | 57.00% | ~26,168 |
-| ''And who gave you permission...?'' | 52.00% | ~23,873 |
-| A New Hope | 46.00% | ~21,118 |
-| Attack of the Clones | 45.00% | ~20,659 |
-| Revenge of the Sith | 39.00% | ~17,905 |
-| The Empire Strikes Back | 36.00% | ~16,527 |
-| ''A fine addition to my collection'' | 36.00% | ~16,527 |
-| Return of the Jedi | 30.00% | ~13,773 |
-| The Force Awakens | 25.00% | ~11,477 |
-| The Last Jedi | 21.00% | ~9,641 |
-| The Rise of Skywalker | 19.00% | ~8,723 |
-| ''It's true... all of it'' | 18.00% | ~8,264 |
-| ''Get the crews to their fighters'' | 17.00% | ~7,805 |
-| ''Raw, untamed power'' | 8.00% | ~3,673 |
-| Rishi Maze | 4.00% | ~1,836 |
-| ''Only one business in the Galaxy...'' | 4.00% | ~1,836 |
-| ''You may fire when ready'' | 3.00% | ~1,377 |
-| ''What have you done with those plans?'' | 3.00% | ~1,377 |
-| ''GONK!'' | 3.00% | ~1,377 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,377 |
-| The Slice | 3.00% | ~1,377 |
+| ''You guys got yourself a ship!'' | 97.00% | ~44,542 |
+| ''I don't like you either!'' | 79.00% | ~36,277 |
+| ''Impressive, most impressive'' | 71.00% | ~32,603 |
+| ''You think you're some kind of Jedi?'' | 71.00% | ~32,603 |
+| The Phantom Menace | 58.00% | ~26,634 |
+| ''Aggressive Negotiations'' | 58.00% | ~26,634 |
+| ''I can fly anything'' | 57.00% | ~26,174 |
+| ''And who gave you permission...?'' | 52.00% | ~23,878 |
+| A New Hope | 46.00% | ~21,123 |
+| Attack of the Clones | 45.00% | ~20,664 |
+| Revenge of the Sith | 39.00% | ~17,909 |
+| The Empire Strikes Back | 36.00% | ~16,531 |
+| ''A fine addition to my collection'' | 36.00% | ~16,531 |
+| Return of the Jedi | 30.00% | ~13,776 |
+| The Force Awakens | 25.00% | ~11,480 |
+| The Last Jedi | 21.00% | ~9,643 |
+| The Rise of Skywalker | 19.00% | ~8,725 |
+| ''It's true... all of it'' | 18.00% | ~8,266 |
+| ''Get the crews to their fighters'' | 17.00% | ~7,806 |
+| ''Raw, untamed power'' | 8.00% | ~3,674 |
+| Rishi Maze | 4.00% | ~1,837 |
+| ''Only one business in the Galaxy...'' | 4.00% | ~1,837 |
+| ''You may fire when ready'' | 3.00% | ~1,378 |
+| ''What have you done with those plans?'' | 3.00% | ~1,378 |
+| ''GONK!'' | 3.00% | ~1,378 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,378 |
+| The Slice | 3.00% | ~1,378 |
 | ''Hello there!'' | 2.00% | ~918 |
 | Unknown Regions | 2.00% | ~918 |
 | ''Do or do not. There is no try'' | 2.00% | ~918 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~459 |
 | ''I've never seen a real one!'' | 0.80% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,909 (Ranked 76)  
+Progressed: 45,920 (Ranked 76)  
 Completed: 162 (0.35%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,10 +76,10 @@ Completed: 162 (0.35%) (Ranked 115)
 | 2023-05-11 | 45,627 | 162 |
 | 2023-05-12 | 45,785 | 162 |
 | 2023-05-13 | 45,906 | 162 |
-| 2023-05-14 | 45,909 | 162 |
+| 2023-05-14 | 45,920 | 162 |
 ## Awards
 Max (Great Boss Battles): 2,252  (Ranked 97)  
-Sum: 6,298 (Ranked 111)  
+Sum: 6,299 (Ranked 111)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -90,7 +90,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 453 |
 | This game is Highly Recommended | 451 |
 | This game has Easy Combat | 441 |
-| This game is Extremely Fun | 435 |
+| This game is Extremely Fun | 436 |
 | This game has Quickly Understood Controls | 430 |
 | This game is Relaxing | 429 |
 | This game has Obsessive Gameplay | 341 |
@@ -199,3 +199,4 @@ Diff (max vs sum): -14
 | 2023-05-11 | 4.79 | - | 2,247 | 6,288 |
 | 2023-05-12 | 4.79 | - | 2,248 | 6,289 |
 | 2023-05-13 | 4.79 | - | 2,252 | 6,298 |
+| 2023-05-14 | 4.79 | - | 2,252 | 6,299 |

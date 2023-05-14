@@ -12,8 +12,8 @@
 | History Check | 57.00% | ~84 |
 | A Method To His Madness | 57.00% | ~84 |
 | The New World | 56.00% | ~83 |
-| Open Sesame | 53.00% | ~78 |
-| Sticky Fingers | 53.00% | ~78 |
+| Open Sesame | 54.00% | ~80 |
+| Sticky Fingers | 54.00% | ~80 |
 | Knives Out | 53.00% | ~78 |
 | Land, Ho! | 53.00% | ~78 |
 | Lock, Stock, And Barrel | 52.00% | ~77 |

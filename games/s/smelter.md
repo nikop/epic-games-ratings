@@ -16,12 +16,12 @@
 | It's a Sign! | 20.00% | ~6 |
 | Just Some Improvements | 17.00% | ~5 |
 | A Little Extra Love | 17.00% | ~5 |
+| A New Strategy | 17.00% | ~5 |
 | A Terrible Way to Go | 17.00% | ~5 |
 | Isn't It Beautiful? | 13.00% | ~4 |
 | A Generous Leader | 13.00% | ~4 |
 | Final Announcement | 13.00% | ~4 |
 | How Do You Like Them Apples? | 13.00% | ~4 |
-| A New Strategy | 13.00% | ~4 |
 | Gotta Collect Them All | 10.00% | ~3 |
 | Keeping Things Tidy | 10.00% | ~3 |
 | My Precious Gems! | 10.00% | ~3 |

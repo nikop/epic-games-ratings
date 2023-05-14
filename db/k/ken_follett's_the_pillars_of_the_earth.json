@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12396,
+  "EOS_Progressed": 12397,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1795,6 +1795,11 @@
       "Time": "2023-05-14T00:05:36.9709378+00:00",
       "NumProgressed": 12396,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-14T02:07:50.4682918+00:00",
+      "NumProgressed": 12397,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -1862,7 +1867,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "tpote_achievement_17",
@@ -1916,9 +1921,9 @@
       "ID": "tpote_achievement_22",
       "SetID": "3jcf6c3",
       "Name": "Two of us",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2603
     },
     {
       "ID": "tpote_achievement_23",
@@ -1950,7 +1955,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "tpote_achievement_27",
@@ -1966,7 +1971,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "tpote_achievement_29",
@@ -2006,7 +2011,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "tpote_achievement_33",
@@ -2070,7 +2075,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5206
+      "UsersEstimate": 5207
     },
     {
       "ID": "tpote_achievement_40",
@@ -2133,15 +2138,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12396,
+      "Progressed": 12397,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:05:36.9709372+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:07:50.4682914+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:59:55.7525828+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:05:36.9710077+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:02:30.9657186+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:07:50.4683252+00:00"
 }

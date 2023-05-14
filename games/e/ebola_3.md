@@ -19,13 +19,13 @@
 | Alice ✔ | 6.00% | ~10 |
 | Antivirus ✔ | 6.00% | ~10 |
 | Betty ✔ | 6.00% | ~10 |
+| Brain ✔ | 6.00% | ~10 |
 | Cheats ✔ | 6.00% | ~10 |
 | City ✔ | 6.00% | ~10 |
 | Food ✔ | 6.00% | ~10 |
 | Fraternal help ✔ | 6.00% | ~10 |
 | King of survival ✔ | 6.00% | ~10 |
 | All secrets revealed ✔ | 6.00% | ~10 |
-| Brain ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
 | Mutant fight ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
@@ -33,8 +33,8 @@
 | Crocodile Attack ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
 | City on fire ✔ | 4.00% | ~7 |
+| Rank A ✔ | 4.00% | ~7 |
 | Sheriff ✔ | 3.00% | ~5 |
-| Rank A ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 2.00% | ~3 |

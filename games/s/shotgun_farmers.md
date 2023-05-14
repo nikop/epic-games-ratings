@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 100.00% | ~46 |
-| First Blood | 74.00% | ~34 |
-| Triple Kill | 67.00% | ~31 |
-| No Asperascope | 59.00% | ~27 |
-| Cornivore | 59.00% | ~27 |
-| 15K | 37.00% | ~17 |
-| 10K | 37.00% | ~17 |
+| Seeds of War | 100.00% | ~47 |
+| First Blood | 74.00% | ~35 |
+| Triple Kill | 68.00% | ~32 |
+| No Asperascope | 60.00% | ~28 |
+| Cornivore | 60.00% | ~28 |
+| 15K | 36.00% | ~17 |
+| 10K | 36.00% | ~17 |
 | Drinking Problem | 30.00% | ~14 |
-| Skin Of Your Teeth | 22.00% | ~10 |
+| Skin Of Your Teeth | 21.00% | ~10 |
 | Pork Chop Express | 17.00% | ~8 |
 | Graveside Survivor | 15.00% | ~7 |
 | Eggtraordinary | 15.00% | ~7 |
@@ -21,10 +21,10 @@
 | Quit Horsin' Around | 13.00% | ~6 |
 | Carrocketeer | 11.00% | ~5 |
 | Forestside Survivor | 9.00% | ~4 |
-| Bring Home The Bacon | 7.00% | ~3 |
-| Chick Magnet | 7.00% | ~3 |
-| Honk Honk | 7.00% | ~3 |
-| Early Bird | 7.00% | ~3 |
+| Bring Home The Bacon | 6.00% | ~3 |
+| Chick Magnet | 6.00% | ~3 |
+| Honk Honk | 6.00% | ~3 |
+| Early Bird | 6.00% | ~3 |
 | Pum-King | 4.00% | ~2 |
 | 15 Days | 2.00% | ~1 |
 | Darkside Survivor | 2.00% | ~1 |
@@ -49,7 +49,7 @@
 | Pro Moolotover | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 281)  
+Progressed: 47 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 42 | 0 |
 | 2023-05-12 | 44 | 0 |
 | 2023-05-13 | 46 | 0 |
+| 2023-05-14 | 47 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

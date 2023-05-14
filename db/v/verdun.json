@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1478,9 +1478,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 43567,
+  "EOS_Progressed": 43575,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3578,6 +3578,11 @@
       "Time": "2023-05-14T00:05:48.3495385+00:00",
       "NumProgressed": 43567,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-14T02:08:00.0331088+00:00",
+      "NumProgressed": 43575,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 59,
@@ -3589,7 +3594,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 23962
+      "UsersEstimate": 23966
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -3629,7 +3634,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -3645,7 +3650,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -3653,7 +3658,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -3709,7 +3714,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10456
+      "UsersEstimate": 10458
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -3717,7 +3722,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -3781,7 +3786,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -3813,7 +3818,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -3821,7 +3826,7 @@
       "Name": "Headhunter I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11763
+      "UsersEstimate": 11765
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -3845,7 +3850,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13941
+      "UsersEstimate": 13944
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -3853,7 +3858,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 17427
+      "UsersEstimate": 17430
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -3877,7 +3882,7 @@
       "Name": "Worth it",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 27883
+      "UsersEstimate": 27888
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -3885,7 +3890,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5228
+      "UsersEstimate": 5229
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -3901,7 +3906,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10456
+      "UsersEstimate": 10458
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -3909,7 +3914,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -3933,7 +3938,7 @@
       "Name": "Manual Labour I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11327
+      "UsersEstimate": 11330
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -3957,7 +3962,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 33547
+      "UsersEstimate": 33553
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -3965,7 +3970,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -4005,7 +4010,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5664
+      "UsersEstimate": 5665
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -4029,7 +4034,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -4045,7 +4050,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -4053,22 +4058,22 @@
       "Name": "Blast fishing",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 16555
+      "UsersEstimate": 16558
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 43567,
+      "Progressed": 43575,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-08T20:59:42.7501304+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:05:48.3495379+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:08:00.0331082+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:17.8107213+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:58:18.8563801+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:05:48.3495995+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:01:14.485516+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:08:00.0331586+00:00"
 }

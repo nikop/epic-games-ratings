@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -697,9 +697,9 @@
       "ID": "achBrain",
       "SetID": "72gjli4",
       "Name": "Brain \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achCar",
@@ -961,9 +961,9 @@
       "ID": "achRankTwo",
       "SetID": "72gjli4",
       "Name": "Rank A \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achSave",
@@ -1066,8 +1066,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:06:26.7091625+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:08:33.2486982+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-14T00:00:14.0957097+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:06:26.7092216+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:02:45.4463364+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:08:33.2487382+00:00"
 }

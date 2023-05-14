@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -758,9 +758,9 @@
       "ID": "CaughtInAct",
       "SetID": "bmkn7o4",
       "Name": "Caught in the Act",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -1236,8 +1236,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:03:35.4385849+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:06:10.1285835+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:19.144132+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:57:19.428934+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:03:35.4386535+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:00:23.9712773+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:06:10.1286415+00:00"
 }

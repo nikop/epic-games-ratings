@@ -21,7 +21,7 @@
 | What Shall We Do Now? | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 69 (Ranked 266)  
-Completed: 2 (2.90%) (Ranked 49)  
+Completed: 2 (2.90%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

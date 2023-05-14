@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 860,
+  "EOS_Progressed": 861,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
@@ -433,6 +433,11 @@
       "Time": "2023-05-13T19:06:25.4810322+00:00",
       "NumProgressed": 860,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-14T02:08:27.9968678+00:00",
+      "NumProgressed": 861,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -444,7 +449,7 @@
       "Name": "Demigod",
       "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "DieInPermadeath",
@@ -460,7 +465,7 @@
       "Name": "Voices from the Past",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "Finish5SideMissions",
@@ -476,7 +481,7 @@
       "Name": "Paragon",
       "Percentage": 64,
       "XP": 70,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "GatlingVsArmor",
@@ -508,7 +513,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "MasteryOfCombat",
@@ -564,7 +569,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -572,7 +577,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -596,7 +601,7 @@
       "Name": "Set in Motion",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "MissionFirstRiftBoss",
@@ -620,7 +625,7 @@
       "Name": "Cult Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -628,7 +633,7 @@
       "Name": "Safe Home",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -660,7 +665,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MissionScavengingJob",
@@ -668,7 +673,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "MissionShipyard",
@@ -682,9 +687,9 @@
       "ID": "MissionSlayingChimera",
       "SetID": "a6c395p",
       "Name": "The Path Forward",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 70,
-      "UsersEstimate": 404
+      "UsersEstimate": 396
     },
     {
       "ID": "MissionTemple",
@@ -700,7 +705,7 @@
       "Name": "Ascension",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "MissionTheiaStep1",
@@ -772,7 +777,7 @@
       "Name": "Space Traveler",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "WinARace",
@@ -780,22 +785,22 @@
       "Name": "Relentless",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 860,
+      "Progressed": 861,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-14T00:06:20.7333015+00:00",
+  "LastChanged_Achievements": "2023-05-14T02:08:27.9968675+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.1050523+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:59:57.5071951+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:06:20.7333529+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:02:32.3701625+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:08:27.9969017+00:00"
 }

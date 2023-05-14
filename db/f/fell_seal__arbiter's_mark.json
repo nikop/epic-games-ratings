@@ -2,13 +2,13 @@
   "ID": "3d4ea555f7954f06b48050b3b821d6d0",
   "Name": "Fell Seal: Arbiter\u0027s Mark",
   "ProductSlug": "fell-seal-arbiters-mark",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-12-17T18:00:00+00:00",
     "PcReleaseDate": "2020-12-17T18:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 39,
   "RatingHistory": [
     {
@@ -152,6 +152,12 @@
     {
       "Time": "2023-02-20T03:13:04.313637+00:00",
       "Rating": 4.56
+    },
+    {
+      "Time": "2023-05-14T02:00:39.5530205+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
@@ -177,8 +183,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:38.543998+00:00",
-  "LastChanged": "2023-02-20T03:13:04.3136368+00:00",
+  "LastChanged": "2023-05-14T02:00:39.5530203+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:35.8562531+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:57:37.398901+00:00",
-  "LastUpdate_Achievements": "2023-05-14T00:03:04.6730595+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:00:39.5530208+00:00",
+  "LastUpdate_Achievements": "2023-05-14T02:03:35.2644864+00:00"
 }
