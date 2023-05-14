@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 447)  
+Rating: 4.56 (Ranked 448)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,10 +30,10 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 7.00% | ~3,231 |
 | Collateral Carnage | 7.00% | ~3,231 |
 | Come One, Come All | 7.00% | ~3,231 |
-| Gatekeeper | 6.00% | ~2,769 |
-| The Lady of the Light | 6.00% | ~2,769 |
-| Two For the Price of One | 6.00% | ~2,769 |
-| Energized! | 6.00% | ~2,769 |
+| Gatekeeper | 6.00% | ~2,770 |
+| The Lady of the Light | 6.00% | ~2,770 |
+| Two For the Price of One | 6.00% | ~2,770 |
+| Energized! | 6.00% | ~2,770 |
 | A Friend Indeed | 6.00% | ~578 |
 | Tornado Wrangler | 5.00% | ~2,308 |
 | What Light Through Yonder Window | 5.00% | ~2,308 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,158 (Ranked 75)  
+Progressed: 46,159 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-11 | 46,117 | 44 |
 | 2023-05-12 | 46,131 | 44 |
 | 2023-05-13 | 46,152 | 44 |
-| 2023-05-14 | 46,158 | 44 |
+| 2023-05-14 | 46,159 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

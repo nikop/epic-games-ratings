@@ -19,9 +19,9 @@
 | Fashionista | 16.00% | ~13 |
 | Bad Robots | 15.00% | ~12 |
 | Archivist | 12.00% | ~10 |
-| Looper | 10.00% | ~8 |
+| Looper | 11.00% | ~9 |
+| Cataclysm | 10.00% | ~8 |
 | Final Charge | 9.00% | ~7 |
-| Cataclysm | 9.00% | ~7 |
 | So Close | 7.00% | ~6 |
 | Transformers, cubes in disguise | 7.00% | ~6 |
 | Kaboom! | 7.00% | ~6 |

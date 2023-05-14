@@ -21,7 +21,7 @@
 | Challenge 07 | 2.00% | ~1 |
 | Challenge 08 | 2.00% | ~1 |
 | Challenge 09 | 2.00% | ~1 |
-| Challenge 10 | 0.00% | ~0 |
+| Challenge 10 | 2.00% | ~1 |
 | Challenge 11 | 0.00% | ~0 |
 | Challenge 12 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

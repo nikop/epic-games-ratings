@@ -4,7 +4,7 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "Challenge 10",
       "SetID": "5n829i",
       "Name": "Challenge 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Challenge 11",
@@ -434,8 +434,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-14T10:05:43.7362225+00:00",
+  "LastChanged_Achievements": "2023-05-14T11:05:04.363431+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:31.9787117+00:00",
-  "LastUpdate_Ratings": "2023-05-14T09:57:30.3132449+00:00",
-  "LastUpdate_Achievements": "2023-05-14T10:05:43.7362372+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:57:30.9233666+00:00",
+  "LastUpdate_Achievements": "2023-05-14T11:05:04.3634441+00:00"
 }

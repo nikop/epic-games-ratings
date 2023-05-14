@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -204,9 +204,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5052,
+  "EOS_Progressed": 5053,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -259,6 +259,11 @@
       "Time": "2023-05-12T03:05:59.918674+00:00",
       "NumProgressed": 5052,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-14T11:05:37.4359594+00:00",
+      "NumProgressed": 5053,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -270,7 +275,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -286,7 +291,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -294,7 +299,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -302,7 +307,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -342,7 +347,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -374,7 +379,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -398,7 +403,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4951
+      "UsersEstimate": 4952
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -406,7 +411,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -422,7 +427,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -446,7 +451,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -510,7 +515,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -558,7 +563,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4951
+      "UsersEstimate": 4952
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -654,22 +659,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5052,
+      "Progressed": 5053,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
-  "LastChanged_Achievements": "2023-05-14T10:06:25.9650883+00:00",
+  "LastChanged_Achievements": "2023-05-14T11:05:37.435959+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:55.926984+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:00:25.3310266+00:00",
-  "LastUpdate_Achievements": "2023-05-14T10:06:25.9651204+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:59:28.2686731+00:00",
+  "LastUpdate_Achievements": "2023-05-14T11:05:37.4359911+00:00"
 }

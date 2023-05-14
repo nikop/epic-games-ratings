@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7616,
+  "EOS_Progressed": 7617,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1363,6 +1363,11 @@
       "Time": "2023-05-14T06:05:12.6252284+00:00",
       "NumProgressed": 7616,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-14T11:05:37.8899549+00:00",
+      "NumProgressed": 7617,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1374,7 +1379,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6094
     },
     {
       "ID": "ACH02",
@@ -1478,7 +1483,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH15",
@@ -1494,7 +1499,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ACH17",
@@ -1566,7 +1571,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH26",
@@ -1653,7 +1658,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7616,
+      "Progressed": 7617,
       "Completed": 15
     }
   ],
@@ -1661,8 +1666,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-14T10:06:26.9367128+00:00",
+  "LastChanged_Achievements": "2023-05-14T11:05:37.8899547+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:00:41.5257236+00:00",
-  "LastUpdate_Achievements": "2023-05-14T10:06:26.9367452+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:59:39.2072503+00:00",
+  "LastUpdate_Achievements": "2023-05-14T11:05:37.8899782+00:00"
 }

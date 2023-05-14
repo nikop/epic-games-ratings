@@ -6,50 +6,50 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~96,989 |
-| Comeback | 81.00% | ~88,271 |
-| Information is Key | 80.00% | ~87,181 |
-| Unlucky | 71.00% | ~77,373 |
-| Anarchist | 68.00% | ~74,104 |
-| Wallhack | 65.00% | ~70,834 |
-| Steady Supply | 60.00% | ~65,386 |
-| Lucky Shot | 53.00% | ~57,757 |
-| Forward Observer | 52.00% | ~56,668 |
-| Ring Ring! | 52.00% | ~56,668 |
-| Bossing Around | 45.00% | ~49,039 |
-| Frostbite | 45.00% | ~49,039 |
-| Strength in Numbers | 45.00% | ~49,039 |
-| Night Owl | 44.00% | ~47,949 |
-| Fog of War | 41.00% | ~44,680 |
-| Stronghold Denied | 39.00% | ~42,501 |
-| Anyone Else? | 38.00% | ~41,411 |
-| Rasputin | 38.00% | ~41,411 |
-| This Belongs to Us Now | 36.00% | ~39,231 |
-| Hydra | 35.00% | ~38,142 |
-| Stronghold | 34.00% | ~37,052 |
-| Leeroy | 33.00% | ~35,962 |
-| Lost Batallion | 33.00% | ~35,962 |
-| This is MY Machine Gun! | 31.00% | ~33,783 |
-| Together As One | 31.00% | ~33,783 |
-| Gavrilo Princip | 27.00% | ~29,424 |
-| Lead Harvest | 25.00% | ~27,244 |
-| Kesselschlacht | 23.00% | ~25,064 |
-| Skynet Confirmed | 23.00% | ~25,064 |
-| Democracy Works! | 20.00% | ~21,795 |
-| Switch, Please! | 19.00% | ~20,705 |
-| I've Seen It All | 18.00% | ~19,616 |
-| Tourist | 18.00% | ~19,616 |
-| At Least This Way I Can Win... | 17.00% | ~18,526 |
-| Oops! | 17.00% | ~18,526 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~17,436 |
-| Butcher | 12.00% | ~13,077 |
+| Immovable Object | 89.00% | ~96,995 |
+| Comeback | 81.00% | ~88,276 |
+| Information is Key | 80.00% | ~87,186 |
+| Unlucky | 71.00% | ~77,378 |
+| Anarchist | 68.00% | ~74,108 |
+| Wallhack | 65.00% | ~70,839 |
+| Steady Supply | 60.00% | ~65,390 |
+| Lucky Shot | 53.00% | ~57,761 |
+| Forward Observer | 52.00% | ~56,671 |
+| Ring Ring! | 52.00% | ~56,671 |
+| Bossing Around | 45.00% | ~49,042 |
+| Frostbite | 45.00% | ~49,042 |
+| Strength in Numbers | 45.00% | ~49,042 |
+| Night Owl | 44.00% | ~47,953 |
+| Fog of War | 41.00% | ~44,683 |
+| Stronghold Denied | 39.00% | ~42,503 |
+| Anyone Else? | 38.00% | ~41,414 |
+| Rasputin | 38.00% | ~41,414 |
+| This Belongs to Us Now | 36.00% | ~39,234 |
+| Hydra | 35.00% | ~38,144 |
+| Stronghold | 34.00% | ~37,054 |
+| Leeroy | 33.00% | ~35,964 |
+| Lost Batallion | 33.00% | ~35,964 |
+| This is MY Machine Gun! | 31.00% | ~33,785 |
+| Together As One | 31.00% | ~33,785 |
+| Gavrilo Princip | 27.00% | ~29,425 |
+| Lead Harvest | 25.00% | ~27,246 |
+| Kesselschlacht | 23.00% | ~25,066 |
+| Skynet Confirmed | 23.00% | ~25,066 |
+| Democracy Works! | 20.00% | ~21,797 |
+| Switch, Please! | 19.00% | ~20,707 |
+| I've Seen It All | 18.00% | ~19,617 |
+| Tourist | 18.00% | ~19,617 |
+| At Least This Way I Can Win... | 17.00% | ~18,527 |
+| Oops! | 17.00% | ~18,527 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~17,437 |
+| Butcher | 12.00% | ~13,078 |
 | Before the Leaves Fall | 10.00% | ~10,898 |
 | Close Call | 10.00% | ~10,898 |
 | Pinpoint | 10.00% | ~10,898 |
 | Tannenberg | 9.00% | ~9,808 |
-| For the Emperor | 8.00% | ~8,718 |
-| Hawk Eye | 8.00% | ~8,718 |
-| Hötzendorf | 7.00% | ~7,628 |
+| For the Emperor | 8.00% | ~8,719 |
+| Hawk Eye | 8.00% | ~8,719 |
+| Hötzendorf | 7.00% | ~7,629 |
 | Equality For All | 6.00% | ~6,539 |
 | Crack Shot | 5.00% | ~5,449 |
 | From Russia with Love | 5.00% | ~5,449 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~981 |
 | Road to Berlin | 0.60% | ~654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108,976 (Ranked 58)  
+Progressed: 108,983 (Ranked 58)  
 Completed: 22 (0.02%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 22 (0.02%) (Ranked 185)
 | 2023-05-11 | 108,504 | 21 |
 | 2023-05-12 | 108,673 | 21 |
 | 2023-05-13 | 108,894 | 22 |
-| 2023-05-14 | 108,976 | 22 |
+| 2023-05-14 | 108,983 | 22 |
 ## Awards
 Max (Competitive Players): 322  (Ranked 216)  
 Sum: 2,825 (Ranked 155)  

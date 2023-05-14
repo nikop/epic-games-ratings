@@ -5,27 +5,27 @@ Rating: 4.29 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,705 |
-| A Ribbiting Performance | 78.00% | ~1,511 |
-| At Least We Have Each Other... | 77.00% | ~1,491 |
-| Frogbot | 74.00% | ~1,433 |
-| Ouch | 56.00% | ~1,085 |
-| Fun in the Stun | 56.00% | ~1,085 |
-| Do you feel like a tough guy? | 46.00% | ~891 |
-| The Interdimensional Power of Friendship | 45.00% | ~872 |
-| Turn Up The HEAT | 41.00% | ~794 |
-| Stop Hitting Yourself! | 35.00% | ~678 |
-| Nothing to Wear | 31.00% | ~600 |
-| The First Law of Thermodynamics | 28.00% | ~542 |
+| On the Shoulders of Giants | 88.00% | ~1,707 |
+| A Ribbiting Performance | 78.00% | ~1,513 |
+| At Least We Have Each Other... | 77.00% | ~1,494 |
+| Frogbot | 74.00% | ~1,436 |
+| Ouch | 56.00% | ~1,086 |
+| Fun in the Stun | 56.00% | ~1,086 |
+| Do you feel like a tough guy? | 46.00% | ~892 |
+| The Interdimensional Power of Friendship | 45.00% | ~873 |
+| Turn Up The HEAT | 41.00% | ~795 |
+| Stop Hitting Yourself! | 35.00% | ~679 |
+| Nothing to Wear | 31.00% | ~601 |
+| The First Law of Thermodynamics | 27.00% | ~524 |
 | Do you trust me? | 16.00% | ~310 |
-| The Second Law of Thermodynamics | 15.00% | ~291 |
-| The Third Law of Thermodynamics | 9.00% | ~174 |
+| The Second Law of Thermodynamics | 14.00% | ~272 |
+| The Third Law of Thermodynamics | 9.00% | ~175 |
 | Say "Cheese!" | 8.00% | ~155 |
 | Taking Out the Trash | 7.00% | ~136 |
-| Better Than the Devs | 4.00% | ~77 |
+| Better Than the Devs | 4.00% | ~78 |
 | So do we just stay up here, or?... | 2.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,937 (Ranked 145)  
+Progressed: 1,940 (Ranked 145)  
 Completed: 8 (0.41%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,7 +44,7 @@ Completed: 8 (0.41%) (Ranked 110)
 | 2023-05-11 | 1,891 | 8 |
 | 2023-05-12 | 1,908 | 8 |
 | 2023-05-13 | 1,930 | 8 |
-| 2023-05-14 | 1,937 | 8 |
+| 2023-05-14 | 1,940 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

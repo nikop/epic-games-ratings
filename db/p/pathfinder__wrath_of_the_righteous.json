@@ -2360,9 +2360,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8809,
+  "EOS_Progressed": 8810,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3470,6 +3470,11 @@
       "Time": "2023-05-14T10:06:13.5931523+00:00",
       "NumProgressed": 8809,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T11:05:27.6708561+00:00",
+      "NumProgressed": 8810,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3559,9 +3564,9 @@
       "ID": "11_PathOfAeon",
       "SetID": "989of5o",
       "Name": "Path of the Aeon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 88
     },
     {
       "ID": "12_PathOfTrickster",
@@ -4408,21 +4413,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7591,
+      "Progressed": 7592,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8809,
+      "Progressed": 8810,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-13T18:58:25.726981+00:00",
-  "LastChanged_Achievements": "2023-05-14T10:06:13.593152+00:00",
+  "LastChanged_Achievements": "2023-05-14T11:05:27.6708558+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-14T09:58:21.8525689+00:00",
-  "LastUpdate_Achievements": "2023-05-14T10:06:13.5932851+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:58:04.8612185+00:00",
+  "LastUpdate_Achievements": "2023-05-14T11:05:27.6710028+00:00"
 }

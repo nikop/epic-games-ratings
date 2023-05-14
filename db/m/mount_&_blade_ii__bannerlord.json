@@ -4005,9 +4005,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49789,
+  "EOS_Progressed": 49791,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6105,6 +6105,11 @@
       "Time": "2023-05-14T10:06:22.3797904+00:00",
       "NumProgressed": 49789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T11:05:34.5055843+00:00",
+      "NumProgressed": 49791,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6284,7 +6289,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6970
+      "UsersEstimate": 6971
     },
     {
       "ID": "I spit on your grave",
@@ -6308,7 +6313,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7468
+      "UsersEstimate": 7469
     },
     {
       "ID": "Kingslayer",
@@ -6324,7 +6329,7 @@
       "Name": "Know your enemy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "Lance-a-lot",
@@ -6348,7 +6353,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17426
+      "UsersEstimate": 17427
     },
     {
       "ID": "Lawmaker",
@@ -6386,9 +6391,9 @@
       "ID": "Mounted Archery",
       "SetID": "den0lp1",
       "Name": "Mounted Archery",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 149
     },
     {
       "ID": "My way",
@@ -6468,7 +6473,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7966
+      "UsersEstimate": 7967
     },
     {
       "ID": "This Is Our Land",
@@ -6476,7 +6481,7 @@
       "Name": "This Is Our Land",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "This is Sparta",
@@ -6523,15 +6528,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49789,
+      "Progressed": 49791,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-14T10:00:03.0226448+00:00",
-  "LastChanged_Achievements": "2023-05-14T10:06:22.3797901+00:00",
+  "LastChanged_Achievements": "2023-05-14T11:05:34.505584+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:00:03.0226454+00:00",
-  "LastUpdate_Achievements": "2023-05-14T10:06:22.3798371+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:59:13.0585811+00:00",
+  "LastUpdate_Achievements": "2023-05-14T11:05:34.50563+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1124,9 +1124,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425115,
+  "EOS_Progressed": 425116,
   "EOS_Completed": 500,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2584,6 +2584,11 @@
       "Time": "2023-05-14T09:05:06.3426455+00:00",
       "NumProgressed": 425115,
       "NumCompleted": 500
+    },
+    {
+      "Time": "2023-05-14T11:05:05.6955354+00:00",
+      "NumProgressed": 425116,
+      "NumCompleted": 500
     }
   ],
   "TotalAchievements": 41,
@@ -2611,7 +2616,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255069
+      "UsersEstimate": 255070
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -2619,7 +2624,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123283
+      "UsersEstimate": 123284
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -2635,7 +2640,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 178548
+      "UsersEstimate": 178549
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -2651,7 +2656,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 127534
+      "UsersEstimate": 127535
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -2683,7 +2688,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123283
+      "UsersEstimate": 123284
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -2763,7 +2768,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 403859
+      "UsersEstimate": 403860
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -2779,7 +2784,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306083
+      "UsersEstimate": 306084
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -2795,7 +2800,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293329
+      "UsersEstimate": 293330
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -2811,7 +2816,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340092
+      "UsersEstimate": 340093
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -2835,7 +2840,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68018
+      "UsersEstimate": 68019
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -2875,7 +2880,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 233813
+      "UsersEstimate": 233814
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -2883,7 +2888,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 182799
+      "UsersEstimate": 182800
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -2922,15 +2927,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425115,
+      "Progressed": 425116,
       "Completed": 500
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-01T14:58:01.0334867+00:00",
-  "LastChanged_Achievements": "2023-05-14T10:05:45.5193251+00:00",
+  "LastChanged_Achievements": "2023-05-14T11:05:05.695535+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:11.4695978+00:00",
-  "LastUpdate_Ratings": "2023-05-14T09:58:19.7345854+00:00",
-  "LastUpdate_Achievements": "2023-05-14T10:05:45.5193936+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:58:03.5206171+00:00",
+  "LastUpdate_Achievements": "2023-05-14T11:05:05.6955672+00:00"
 }

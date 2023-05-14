@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1988,
+  "EOS_Progressed": 1989,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1261,6 +1261,11 @@
       "Time": "2023-05-14T08:06:15.5547031+00:00",
       "NumProgressed": 1988,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T11:05:07.9766996+00:00",
+      "NumProgressed": 1989,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1304,7 +1309,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -1320,7 +1325,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1336,7 +1341,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1352,7 +1357,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1368,7 +1373,7 @@
       "Name": "Friendly fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -1384,7 +1389,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -1448,7 +1453,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1456,7 +1461,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1488,7 +1493,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1520,7 +1525,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -1616,7 +1621,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1646,9 +1651,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1432
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1680,7 +1685,7 @@
       "Name": "Ancient power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -1695,7 +1700,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1988,
+      "Progressed": 1989,
       "Completed": 1
     }
   ],
@@ -1703,8 +1708,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-14T10:05:48.3257616+00:00",
+  "LastChanged_Achievements": "2023-05-14T11:05:07.9766992+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-14T09:57:30.3438911+00:00",
-  "LastUpdate_Achievements": "2023-05-14T10:05:48.3258119+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:57:31.0321395+00:00",
+  "LastUpdate_Achievements": "2023-05-14T11:05:07.9767406+00:00"
 }

@@ -33,6 +33,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 2.00% | ~152 |
 | The Lady of the Forest | 2.00% | ~152 |
 | Beware Still Water | 2.00% | ~152 |
+| Path of the Aeon | 1.00% | ~88 |
 | Path of the Trickster | 1.00% | ~88 |
 | Path of the Lich | 1.00% | ~88 |
 | Heroic Victory | 1.00% | ~88 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 1.00% | ~76 |
 | Sarkoris Will Be Green | 1.00% | ~76 |
 | Path of the Demon | 0.90% | ~79 |
-| Path of the Aeon | 0.90% | ~79 |
 | Abyssal Conspiracy | 0.80% | ~70 |
 | This Wall Won't Fall | 0.70% | ~53 |
 | The Final Threshold | 0.60% | ~53 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,809 (Ranked 109)  
+Progressed: 8,810 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 8,770 | 0 |
 | 2023-05-12 | 8,785 | 0 |
 | 2023-05-13 | 8,800 | 0 |
-| 2023-05-14 | 8,809 | 0 |
+| 2023-05-14 | 8,810 | 0 |
 ## Awards
 Max (Character Customization): 1,630  (Ranked 111)  
 Sum: 6,605 (Ranked 108)  

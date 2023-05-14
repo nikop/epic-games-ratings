@@ -6,42 +6,42 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,269 |
-| That's a Grand Army | 8.00% | ~2,906 |
-| That is mine! | 8.00% | ~2,906 |
-| Victorious! | 8.00% | ~2,906 |
-| Brothers in Arms | 6.00% | ~2,179 |
-| That's a Grand Navy | 6.00% | ~2,179 |
-| Seriously?! | 6.00% | ~2,179 |
-| For the Glory | 5.00% | ~1,816 |
-| Cold War | 4.00% | ~1,453 |
-| True Catholic | 4.00% | ~1,453 |
-| Defender of the Faith | 3.00% | ~1,090 |
-| It's all about the money | 3.00% | ~1,090 |
-| Respected | 3.00% | ~1,090 |
-| Blockader | 2.00% | ~726 |
-| Combined Arms | 2.00% | ~726 |
-| Double the Love | 2.00% | ~726 |
-| Gentle Persuasion | 2.00% | ~726 |
-| It's all about luck | 2.00% | ~726 |
-| Queen of Conquest | 2.00% | ~726 |
-| Royal Authority | 2.00% | ~726 |
-| The Princess is in this Castle | 2.00% | ~726 |
-| Total Control | 2.00% | ~726 |
-| Truly Divine Ruler | 2.00% | ~726 |
-| Agressive Expander | 1.00% | ~363 |
-| All That's Thine Shall Be Mine | 1.00% | ~363 |
-| Azur semé de lis or | 1.00% | ~363 |
-| Bright Spark | 1.00% | ~363 |
-| City of Cities | 1.00% | ~363 |
-| Factionalism | 1.00% | ~363 |
-| A Golden Empire | 1.00% | ~363 |
-| My armies are invincible! | 1.00% | ~363 |
+| Until death do us apart | 9.00% | ~3,274 |
+| That's a Grand Army | 8.00% | ~2,910 |
+| That is mine! | 8.00% | ~2,910 |
+| Victorious! | 8.00% | ~2,910 |
+| Brothers in Arms | 6.00% | ~2,182 |
+| That's a Grand Navy | 6.00% | ~2,182 |
+| Seriously?! | 6.00% | ~2,182 |
+| For the Glory | 5.00% | ~1,819 |
+| Cold War | 4.00% | ~1,455 |
+| True Catholic | 4.00% | ~1,455 |
+| Defender of the Faith | 3.00% | ~1,091 |
+| It's all about the money | 3.00% | ~1,091 |
+| Respected | 3.00% | ~1,091 |
+| Blockader | 2.00% | ~727 |
+| Combined Arms | 2.00% | ~727 |
+| Double the Love | 2.00% | ~727 |
+| Gentle Persuasion | 2.00% | ~727 |
+| It's all about luck | 2.00% | ~727 |
+| Queen of Conquest | 2.00% | ~727 |
+| Royal Authority | 2.00% | ~727 |
+| The Princess is in this Castle | 2.00% | ~727 |
+| Total Control | 2.00% | ~727 |
+| Truly Divine Ruler | 2.00% | ~727 |
+| Agressive Expander | 1.00% | ~364 |
+| All That's Thine Shall Be Mine | 1.00% | ~364 |
+| Azur semé de lis or | 1.00% | ~364 |
+| Bright Spark | 1.00% | ~364 |
+| City of Cities | 1.00% | ~364 |
+| Factionalism | 1.00% | ~364 |
+| A Golden Empire | 1.00% | ~364 |
+| My armies are invincible! | 1.00% | ~364 |
 | Isn't this the way to India? | 0.80% | ~291 |
 | Market Control | 0.80% | ~291 |
 | The Five Colonies | 0.80% | ~291 |
-| The Emperors new clothes | 0.70% | ~254 |
-| This navy can take it all | 0.70% | ~254 |
+| The Emperors new clothes | 0.70% | ~255 |
+| This navy can take it all | 0.70% | ~255 |
 | Down Under | 0.60% | ~218 |
 | Trustworthy | 0.60% | ~218 |
 | All belongs to Mother Russia | 0.50% | ~182 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,321 (Ranked 81)  
+Progressed: 36,373 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,7 +385,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 34,344 | 0 |
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
-| 2023-05-14 | 36,321 | 0 |
+| 2023-05-14 | 36,373 | 0 |
 ## Awards
 Max (Educational): 5,216  (Ranked 60)  
 Sum: 43,176 (Ranked 27)  

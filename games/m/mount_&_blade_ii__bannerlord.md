@@ -6,15 +6,15 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,426 |
+| Lawbringer | 35.00% | ~17,427 |
 | Landlord | 29.00% | ~14,439 |
 | Lawmaker | 21.00% | ~10,456 |
 | Bannerlord | 20.00% | ~9,958 |
 | Horde breaker | 20.00% | ~9,958 |
 | Trained | 19.00% | ~9,460 |
-| The king is pleased | 16.00% | ~7,966 |
-| King Solomon | 15.00% | ~7,468 |
-| I can do it | 14.00% | ~6,970 |
+| The king is pleased | 16.00% | ~7,967 |
+| King Solomon | 15.00% | ~7,469 |
+| I can do it | 14.00% | ~6,971 |
 | Apple of my eye | 13.00% | ~6,473 |
 | God of the Arena | 12.00% | ~5,975 |
 | Against all odds | 9.00% | ~4,481 |
@@ -25,8 +25,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 8.00% | ~3,983 |
 | Butterlord | 7.00% | ~3,485 |
 | Mastery | 6.00% | ~2,987 |
-| Know your enemy | 5.00% | ~2,489 |
-| This Is Our Land | 5.00% | ~2,489 |
+| Know your enemy | 5.00% | ~2,490 |
+| This Is Our Land | 5.00% | ~2,490 |
 | Crush your enemies | 4.00% | ~1,992 |
 | My way | 4.00% | ~1,992 |
 | Veni vidi vici | 4.00% | ~1,992 |
@@ -41,8 +41,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Fat Cat | 0.60% | ~299 |
 | Catch | 0.50% | ~249 |
 | Slice 'n dice | 0.40% | ~199 |
+| Mounted Archery | 0.30% | ~149 |
 | Ride it like you stole it | 0.30% | ~149 |
-| Mounted Archery | 0.20% | ~100 |
 | Strike! | 0.20% | ~100 |
 | Best served cold | 0.10% | ~50 |
 | Butcher of Calradia | 0.10% | ~50 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,789 (Ranked 74)  
+Progressed: 49,791 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 49,558 | 0 |
 | 2023-05-12 | 49,639 | 0 |
 | 2023-05-13 | 49,748 | 0 |
-| 2023-05-14 | 49,789 | 0 |
+| 2023-05-14 | 49,791 | 0 |
 ## Awards
 Max (Character Customization): 6,523  (Ranked 49)  
 Sum: 13,005 (Ranked 68)  
