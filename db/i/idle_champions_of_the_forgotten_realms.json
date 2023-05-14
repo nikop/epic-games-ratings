@@ -3694,9 +3694,9 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87449,
+  "EOS_Progressed": 87453,
   "EOS_Completed": 1839,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5854,6 +5854,11 @@
       "Time": "2023-05-14T07:06:55.7242732+00:00",
       "NumProgressed": 87449,
       "NumCompleted": 1839
+    },
+    {
+      "Time": "2023-05-14T08:07:00.3753366+00:00",
+      "NumProgressed": 87453,
+      "NumCompleted": 1839
     }
   ],
   "TotalAchievements": 489,
@@ -6737,7 +6742,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "objective_completed_1204",
@@ -6751,9 +6756,9 @@
       "ID": "objective_completed_1208",
       "SetID": "415jc5c",
       "Name": "Vecna Out!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 1075
     },
     {
       "ID": "objective_completed_1209",
@@ -7537,7 +7542,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "objective_completed_34",
@@ -7655,9 +7660,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 525
     },
     {
       "ID": "objective_completed_390",
@@ -9007,9 +9012,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 787
     },
     {
       "ID": "objective_completed_70",
@@ -9776,21 +9781,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53723,
+      "Progressed": 53727,
       "Completed": 2505
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87449,
+      "Progressed": 87453,
       "Completed": 1839
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T05:57:43.2647561+00:00",
-  "LastChanged_Achievements": "2023-05-14T07:06:55.7242727+00:00",
+  "LastChanged_Achievements": "2023-05-14T08:07:00.375336+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T06:58:59.2315214+00:00",
-  "LastUpdate_Achievements": "2023-05-14T07:06:55.7269024+00:00"
+  "LastUpdate_Ratings": "2023-05-14T07:58:20.8242887+00:00",
+  "LastUpdate_Achievements": "2023-05-14T08:07:00.3784075+00:00"
 }

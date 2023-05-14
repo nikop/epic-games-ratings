@@ -25,11 +25,11 @@ Rating: 4.55 (Ranked 465)
 | Sightseeing | 0.50% | ~9 |
 | A Hunk of Junk | 0.40% | ~8 |
 | Access Granted | 0.40% | ~8 |
+| BRAWL! | 0.40% | ~8 |
 | Please Make it Stop! | 0.40% | ~8 |
 | From the Past | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |
-| BRAWL! | 0.30% | ~6 |
 | All in Good Health | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |

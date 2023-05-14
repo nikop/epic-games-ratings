@@ -5,13 +5,13 @@ Rating: 4.72 (Ranked 164)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,888 |
-| No more cages! | 92.00% | ~1,828 |
-| Everfrost | 77.00% | ~1,530 |
-| Pentakill | 76.00% | ~1,510 |
-| Dark Forest | 76.00% | ~1,510 |
-| The use of petricite | 73.00% | ~1,451 |
-| You can pet the dog | 60.00% | ~1,192 |
+| For Demacia | 95.00% | ~1,889 |
+| No more cages! | 92.00% | ~1,829 |
+| Everfrost | 77.00% | ~1,531 |
+| Pentakill | 76.00% | ~1,511 |
+| Dark Forest | 76.00% | ~1,511 |
+| The use of petricite | 72.00% | ~1,431 |
+| You can pet the dog | 60.00% | ~1,193 |
 | Big Helmet Bro | 34.00% | ~676 |
 | Clarion Cove | 34.00% | ~676 |
 | Past trauma | 32.00% | ~636 |
@@ -34,15 +34,15 @@ Rating: 4.72 (Ranked 164)
 | Full equipped | 17.00% | ~338 |
 | Whispers in the Woods II | 15.00% | ~298 |
 | No more holding back | 14.00% | ~278 |
+| Terbisia | 14.00% | ~278 |
 | Quickmoore Headquarters | 14.00% | ~278 |
 | Whispers in the Woods III | 13.00% | ~258 |
 | Friendly fire | 13.00% | ~258 |
-| Terbisia | 13.00% | ~258 |
-| My heart and sword always for Demacia | 12.00% | ~238 |
-| True power | 12.00% | ~238 |
-| Meltridge | 12.00% | ~238 |
-| The Central Headquarters | 12.00% | ~238 |
-| Cloven Dell Headquarters | 12.00% | ~238 |
+| My heart and sword always for Demacia | 12.00% | ~239 |
+| True power | 12.00% | ~239 |
+| Meltridge | 12.00% | ~239 |
+| The Central Headquarters | 12.00% | ~239 |
+| Cloven Dell Headquarters | 12.00% | ~239 |
 | Embrace the darkness | 10.00% | ~199 |
 | Whispers in the Woods IV | 10.00% | ~199 |
 | I smell fear | 9.00% | ~179 |
@@ -59,7 +59,7 @@ Rating: 4.72 (Ranked 164)
 | Silverwing nest | 2.00% | ~40 |
 | The Unshackled | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,987 (Ranked 143)  
+Progressed: 1,988 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.05%) (Ranked 172)
 | 2023-05-11 | 1,962 | 1 |
 | 2023-05-12 | 1,972 | 1 |
 | 2023-05-13 | 1,986 | 1 |
-| 2023-05-14 | 1,987 | 1 |
+| 2023-05-14 | 1,988 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

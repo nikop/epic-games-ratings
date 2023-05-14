@@ -7,18 +7,18 @@ Rating: 4.61 (Ranked 351)
 | ---- | ---------- | ----- |
 | Bootstrapping | 75.00% | ~118,784 |
 | Shine On | 70.00% | ~110,865 |
-| On the Job | 69.00% | ~109,281 |
-| Get Stuck In | 68.00% | ~107,697 |
-| Room for Expansion | 68.00% | ~107,697 |
+| On the Job | 69.00% | ~109,282 |
+| Get Stuck In | 68.00% | ~107,698 |
+| Room for Expansion | 68.00% | ~107,698 |
 | Sales Pitch | 65.00% | ~102,946 |
-| Chill Out | 64.00% | ~101,362 |
+| Chill Out | 64.00% | ~101,363 |
 | Tinker | 61.00% | ~96,611 |
 | Grand Designs | 60.00% | ~95,027 |
-| Hot Stuff | 59.00% | ~93,443 |
-| MOAR RGB | 54.00% | ~85,524 |
+| Hot Stuff | 59.00% | ~93,444 |
+| MOAR RGB | 54.00% | ~85,525 |
 | Dream Theme | 46.00% | ~72,854 |
-| The Customer is King | 45.00% | ~71,270 |
-| Working Hard | 44.00% | ~69,686 |
+| The Customer is King | 45.00% | ~71,271 |
+| Working Hard | 44.00% | ~69,687 |
 | On the Bench | 42.00% | ~66,519 |
 | The More the Merrier | 42.00% | ~66,519 |
 | Mix and Match | 38.00% | ~60,184 |
@@ -29,9 +29,9 @@ Rating: 4.61 (Ranked 351)
 | Repair Master | 32.00% | ~50,681 |
 | Pimp My Rig | 31.00% | ~49,097 |
 | Local Hero | 28.00% | ~44,346 |
-| Broken to Smokin' | 26.00% | ~41,178 |
-| Workaholic | 26.00% | ~41,178 |
-| Thanks Jeff | 25.00% | ~39,594 |
+| Broken to Smokin' | 26.00% | ~41,179 |
+| Workaholic | 26.00% | ~41,179 |
+| Thanks Jeff | 25.00% | ~39,595 |
 | Cinematic | 24.00% | ~38,011 |
 | Bench Warmer | 24.00% | ~38,011 |
 | Gift of the Gab | 24.00% | ~38,011 |
@@ -40,7 +40,7 @@ Rating: 4.61 (Ranked 351)
 | Stick With It | 23.00% | ~36,427 |
 | Variations on a Theme | 22.00% | ~34,843 |
 | Cowboy | 22.00% | ~34,843 |
-| Slap Happy | 21.00% | ~33,259 |
+| Slap Happy | 21.00% | ~33,260 |
 | Supercool | 19.00% | ~30,092 |
 | Stabiliser | 18.00% | ~28,508 |
 | This One Goes to 11 | 18.00% | ~28,508 |
@@ -52,8 +52,8 @@ Rating: 4.61 (Ranked 351)
 | Matching Set | 8.00% | ~12,670 |
 | Tech Vet | 8.00% | ~12,670 |
 | Salesperson of the Month | 8.00% | ~12,670 |
-| Making It Mine | 7.00% | ~11,086 |
-| Ship It | 7.00% | ~11,086 |
+| Making It Mine | 7.00% | ~11,087 |
+| Ship It | 7.00% | ~11,087 |
 | Elite Technician | 6.00% | ~9,503 |
 | Unlimited Power | 5.00% | ~7,919 |
 | Big Shot | 3.00% | ~4,751 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 351)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,378 (Ranked 53)  
+Progressed: 158,379 (Ranked 53)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-11 | 158,275 | 102 |
 | 2023-05-12 | 158,322 | 102 |
 | 2023-05-13 | 158,365 | 102 |
-| 2023-05-14 | 158,378 | 102 |
+| 2023-05-14 | 158,379 | 102 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 163)  
 Sum: 4,549 (Ranked 127)  

@@ -7,18 +7,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,749 |
-| Checkmate | 2.00% | ~1,074 |
+| Checkmate | 2.00% | ~1,075 |
+| Vecna Out! | 2.00% | ~1,075 |
 | Pin and Skewer | 1.00% | ~537 |
-| Vecna Out! | 1.00% | ~537 |
-| The Cursed Farmer | 1.00% | ~874 |
+| The Cursed Farmer | 1.00% | ~875 |
+| The Mad Wizard | 0.90% | ~787 |
 | Beast Intentions | 0.80% | ~700 |
 | Bully for Vecna | 0.80% | ~430 |
-| The Mad Wizard | 0.80% | ~700 |
 | The Ring of Regeneration | 0.70% | ~612 |
 | Were-verpowered | 0.60% | ~525 |
+| Seeking Allies | 0.60% | ~525 |
 | Are Ya Chicken? | 0.60% | ~525 |
 | A Persistent Buzzing | 0.50% | ~437 |
-| Seeking Allies | 0.50% | ~437 |
 | Mad Cow Disease | 0.50% | ~437 |
 | Friendly Imps | 0.50% | ~437 |
 | Pure Energy | 0.50% | ~437 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,449 (Ranked 59)  
+Progressed: 87,453 (Ranked 59)  
 Completed: 1,839 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,839 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,449 | 1,839 |
+| 2023-05-14 | 87,453 | 1,839 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,876 (Ranked 37)  

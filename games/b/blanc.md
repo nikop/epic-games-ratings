@@ -14,11 +14,11 @@
 | Reunion | 5.00% | ~91 |
 | The end | 5.00% | ~91 |
 | Sliders | 3.00% | ~55 |
-| Sheltered by the fallen tree | 2.00% | ~36 |
+| Sheltered by the fallen tree | 2.00% | ~37 |
 | Snow-covered ruins | 0.40% | ~7 |
 | Another ride! | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,825 (Ranked 148)  
+Progressed: 1,826 (Ranked 148)  
 Completed: 4 (0.22%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,7 +41,7 @@ Completed: 4 (0.22%) (Ranked 136)
 | 2023-05-11 | 1,817 | 4 |
 | 2023-05-12 | 1,820 | 4 |
 | 2023-05-13 | 1,823 | 4 |
-| 2023-05-14 | 1,825 | 4 |
+| 2023-05-14 | 1,826 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

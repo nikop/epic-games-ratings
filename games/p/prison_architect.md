@@ -6,14 +6,14 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 27.00% | ~32,452 |
-| Get Busy Living | 17.00% | ~20,433 |
-| Samuel Norton | 10.00% | ~12,019 |
-| Spare The Rod | 5.00% | ~6,010 |
-| Wait and Hope | 4.00% | ~4,808 |
-| I May Have Found A Way Out Of Here | 4.00% | ~4,808 |
-| Don't Put Me In The Dark | 3.00% | ~3,606 |
-| Iron Bars | 3.00% | ~3,606 |
+| Stone Walls | 27.00% | ~32,459 |
+| Get Busy Living | 17.00% | ~20,437 |
+| Samuel Norton | 10.00% | ~12,022 |
+| Spare The Rod | 5.00% | ~6,011 |
+| Wait and Hope | 4.00% | ~4,809 |
+| I May Have Found A Way Out Of Here | 4.00% | ~4,809 |
+| Don't Put Me In The Dark | 3.00% | ~3,607 |
+| Iron Bars | 3.00% | ~3,607 |
 | Throw The Book At Them | 2.00% | ~2,404 |
 | D.B. Cooper | 1.00% | ~1,202 |
 | Reformation | 0.60% | ~721 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~120 |
 | ... It's What You Can Prove | 0.10% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,192 (Ranked 55)  
+Progressed: 120,218 (Ranked 55)  
 Completed: 4 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,10 +47,10 @@ Completed: 4 (0.00%) (Ranked 199)
 | 2023-05-11 | 119,051 | 4 |
 | 2023-05-12 | 119,502 | 4 |
 | 2023-05-13 | 120,093 | 4 |
-| 2023-05-14 | 120,192 | 4 |
+| 2023-05-14 | 120,218 | 4 |
 ## Awards
 Max (Extremely Fun): 414  (Ranked 195)  
-Sum: 3,263 (Ranked 144)  
+Sum: 3,265 (Ranked 144)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -60,7 +60,7 @@ Diff (max vs sum): 51
 | This game has Quickly Understood Controls | 386 |
 | This game is Relaxing | 362 |
 | This game has Diverse Characters | 358 |
-| This game has Amazing Storytelling | 351 |
+| This game has Amazing Storytelling | 353 |
 | This game has Amazing Characters | 329 |
 | This game has a Creative Community | 258 |
 | This game has Obsessive Gameplay | 234 |
@@ -182,4 +182,4 @@ Diff (max vs sum): 51
 | 2023-05-11 | 4.61 | - | 412 | 3,252 |
 | 2023-05-12 | 4.61 | - | 412 | 3,255 |
 | 2023-05-13 | 4.61 | - | 414 | 3,261 |
-| 2023-05-14 | 4.61 | - | 414 | 3,263 |
+| 2023-05-14 | 4.61 | - | 414 | 3,265 |

@@ -6,30 +6,30 @@ Rating: 3.41 (Ranked 919)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 82.00% | ~1,255 |
-| Home Is Where the Heart Is | 64.00% | ~979 |
-| Wounded Whispers | 64.00% | ~979 |
-| Ne Plus Ultra | 63.00% | ~964 |
+| Home Is Where the Heart Is | 64.00% | ~980 |
+| Wounded Whispers | 64.00% | ~980 |
+| Ne Plus Ultra | 63.00% | ~965 |
 | Blood Will Have Blood | 52.00% | ~796 |
-| ICU | 48.00% | ~734 |
-| Catch and Release | 47.00% | ~719 |
+| ICU | 48.00% | ~735 |
+| Catch and Release | 47.00% | ~720 |
 | Peek-a-boo | 46.00% | ~704 |
-| Sucks To Be You | 45.00% | ~688 |
+| Sucks To Be You | 45.00% | ~689 |
 | Welcome to the Neighborhood | 39.00% | ~597 |
 | Fly Fisher | 37.00% | ~566 |
 | Throw The First Stone | 36.00% | ~551 |
-| Enter of Your Own Free Will | 34.00% | ~520 |
+| Enter of Your Own Free Will | 34.00% | ~521 |
 | Heart Attack | 33.00% | ~505 |
 | Skin of Their Teeth | 33.00% | ~505 |
-| Grounded | 25.00% | ~382 |
+| Grounded | 24.00% | ~367 |
 | Bad Wiring | 22.00% | ~337 |
-| I Spit On Your Grave | 21.00% | ~321 |
+| I Spit On Your Grave | 21.00% | ~322 |
 | Neighborhood Revitalization | 16.00% | ~245 |
 | Radio Silence | 16.00% | ~245 |
 | Helping Hand | 13.00% | ~199 |
 | You Clean It Up | 11.00% | ~168 |
 | Starve the Beast | 9.00% | ~138 |
 | Block Party | 8.00% | ~122 |
-| From the Shadows | 5.00% | ~76 |
+| From the Shadows | 5.00% | ~77 |
 | Bell-ringer | 4.00% | ~61 |
 | Right This Way | 4.00% | ~61 |
 | Nice Try | 4.00% | ~61 |
@@ -72,7 +72,7 @@ Rating: 3.41 (Ranked 919)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,530 (Ranked 151)  
+Progressed: 1,531 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 1,503 | 0 |
 | 2023-05-12 | 1,512 | 0 |
 | 2023-05-13 | 1,526 | 0 |
-| 2023-05-14 | 1,530 | 0 |
+| 2023-05-14 | 1,531 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

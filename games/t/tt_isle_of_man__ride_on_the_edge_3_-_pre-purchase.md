@@ -11,6 +11,7 @@
 | You Get An Upgrade, You Get An Upgrade! | 15.00% | ~3 |
 | Playing God | 15.00% | ~3 |
 | Seven-League Boots | 10.00% | ~2 |
+| Nerd | 10.00% | ~2 |
 | Highly Qualified | 10.00% | ~2 |
 | Serial Winner | 10.00% | ~2 |
 | First and Foremost | 10.00% | ~2 |
@@ -26,7 +27,6 @@
 | The Joy of Discovery | 5.00% | ~1 |
 | Gotta Go Fast! | 5.00% | ~1 |
 | Say My Name | 5.00% | ~1 |
-| Nerd | 5.00% | ~1 |
 | Geek | 5.00% | ~1 |
 | Last One Standing | 5.00% | ~1 |
 | The Immortal One | 5.00% | ~1 |

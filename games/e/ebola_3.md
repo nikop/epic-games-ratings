@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chest ✔ | 55.00% | ~90 |
-| Fright ✔ | 54.00% | ~88 |
-| Inventory ✔ | 51.00% | ~83 |
-| Police officers ✔ | 25.00% | ~41 |
-| Mutation ✔ | 23.00% | ~37 |
+| Chest ✔ | 54.00% | ~89 |
+| Fright ✔ | 54.00% | ~89 |
+| Inventory ✔ | 51.00% | ~84 |
+| Police officers ✔ | 24.00% | ~39 |
+| Mutation ✔ | 23.00% | ~38 |
 | Doberman ✔ | 13.00% | ~21 |
 | Chess ✔ | 9.00% | ~15 |
 | Weapon ✔ | 9.00% | ~15 |
+| Antivirus ✔ | 7.00% | ~11 |
 | Survival ✔ | 7.00% | ~11 |
 | Hospital ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
 | Thirst ✔ | 7.00% | ~11 |
-| Alice ✔ | 6.00% | ~10 |
-| Antivirus ✔ | 6.00% | ~10 |
-| Betty ✔ | 6.00% | ~10 |
-| Brain ✔ | 6.00% | ~10 |
 | Cheats ✔ | 6.00% | ~10 |
-| City ✔ | 6.00% | ~10 |
-| Food ✔ | 6.00% | ~10 |
-| Fraternal help ✔ | 6.00% | ~10 |
 | King of survival ✔ | 6.00% | ~10 |
-| All secrets revealed ✔ | 6.00% | ~10 |
+| Alice ✔ | 5.00% | ~8 |
+| Betty ✔ | 5.00% | ~8 |
+| Brain ✔ | 5.00% | ~8 |
+| City ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
+| Food ✔ | 5.00% | ~8 |
 | Mutant fight ✔ | 5.00% | ~8 |
+| Fraternal help ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
+| All secrets revealed ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~7 |
 | Crocodile Attack ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
 | City on fire ✔ | 4.00% | ~7 |
 | Rank A ✔ | 4.00% | ~7 |
+| Boss 2 ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 2.00% | ~3 |
 | Crocodile Escape ✔ | 2.00% | ~3 |
 | Secret ✔ | 2.00% | ~3 |
-| Boss 2 ✔ | 2.00% | ~3 |
 | Group Alpha ✔ | 2.00% | ~3 |
 | Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163 (Ranked 230)  
+Progressed: 164 (Ranked 230)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 160 | 0 |
 | 2023-05-12 | 161 | 0 |
 | 2023-05-13 | 163 | 0 |
+| 2023-05-14 | 164 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

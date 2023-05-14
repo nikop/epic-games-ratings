@@ -13,7 +13,7 @@ Rating: 4.67 (Ranked 256)
 | Slavic squatter | 9.00% | ~30 |
 | Devoted | 8.00% | ~27 |
 | Spirit animal | 7.00% | ~24 |
-| Gold rush | 5.00% | ~17 |
+| Gold rush | 6.00% | ~20 |
 | A friend in need... | 5.00% | ~17 |
 | Sneak peek | 4.00% | ~13 |
 | Favorite | 4.00% | ~13 |
