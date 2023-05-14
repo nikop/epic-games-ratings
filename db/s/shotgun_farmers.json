@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -255,9 +255,9 @@
       "ID": "ach_all_points_in_chicken_run",
       "SetID": "cmg602e",
       "Name": "Chick Magnet",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_crushed_by_supply_drop",
@@ -287,9 +287,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_first_first_blood",
@@ -551,9 +551,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_tripleKill",
@@ -608,8 +608,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:03:20.1940302+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:03:09.3844059+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.3160105+00:00",
-  "LastUpdate_Ratings": "2023-05-14T16:58:23.3495827+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:03:20.1940604+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:58:17.1619359+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:03:09.3844344+00:00"
 }

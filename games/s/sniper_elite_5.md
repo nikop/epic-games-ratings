@@ -11,8 +11,8 @@ Rating: 4.38 (Ranked 689)
 | It's Starting to Crack | 28.00% | ~200 |
 | Lord of War | 25.00% | ~179 |
 | Change the Channel | 25.00% | ~179 |
+| Taking it back | 24.00% | ~172 |
 | Resourceful | 23.00% | ~165 |
-| Taking it back | 23.00% | ~165 |
 | Organ Grinder | 22.00% | ~158 |
 | Sharpshooter | 21.00% | ~150 |
 | Target America | 21.00% | ~150 |
@@ -42,9 +42,9 @@ Rating: 4.38 (Ranked 689)
 | Last Resort | 7.00% | ~47 |
 | Ghost of Falaise | 6.00% | ~40 |
 | The Long Game | 5.00% | ~36 |
+| Tinkerer | 5.00% | ~36 |
 | Siegebreaker | 5.00% | ~33 |
 | Strategist | 4.00% | ~29 |
-| Tinkerer | 4.00% | ~29 |
 | Don't hold your breath | 4.00% | ~29 |
 | If You Go Down To The Woods Today | 4.00% | ~27 |
 | Fight Another Day | 4.00% | ~27 |

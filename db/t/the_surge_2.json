@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -325,6 +325,11 @@
       "Time": "2023-05-14T06:05:14.7191146+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-14T18:06:00.5257629+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -344,7 +349,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "ACHV_03",
@@ -368,7 +373,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACHV_06",
@@ -400,7 +405,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHV_10",
@@ -416,7 +421,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHV_12",
@@ -424,7 +429,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHV_13",
@@ -432,7 +437,7 @@
       "Name": "Own Medicine",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHV_14",
@@ -448,7 +453,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_16",
@@ -472,7 +477,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHV_19",
@@ -496,7 +501,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHV_22",
@@ -512,7 +517,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACHV_24",
@@ -528,7 +533,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHV_26",
@@ -536,7 +541,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "ACHV_27",
@@ -576,7 +581,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHV_32",
@@ -584,7 +589,7 @@
       "Name": "Remote Surgery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_33",
@@ -592,7 +597,7 @@
       "Name": "Swiss Army Drone",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHV_34",
@@ -632,7 +637,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHV_39",
@@ -640,7 +645,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "ACHV_40",
@@ -648,7 +653,7 @@
       "Name": "Three Birds With One Stone",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHV_41",
@@ -672,7 +677,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHV_44",
@@ -680,7 +685,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_45",
@@ -728,7 +733,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_51",
@@ -768,7 +773,7 @@
       "Name": "Plank of Wood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_56",
@@ -791,7 +796,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 10
     }
   ],
@@ -799,8 +804,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:06:32.4009922+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:06:00.5257625+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.3956221+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:00:52.6298563+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:06:32.4010345+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:00:33.0251181+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:06:00.5258051+00:00"
 }

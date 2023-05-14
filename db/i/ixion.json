@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -814,9 +814,9 @@
       "ID": "ACH_BASE_30",
       "SetID": "92iocjf",
       "Name": "Exceeding Capacity",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_BASE_31",
@@ -838,9 +838,9 @@
       "ID": "ACH_BASE_33",
       "SetID": "92iocjf",
       "Name": "Fully Recycled",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_BASE_34",
@@ -854,9 +854,9 @@
       "ID": "ACH_BASE_35",
       "SetID": "92iocjf",
       "Name": "Breaking Protocol",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BASE_36",
@@ -1030,9 +1030,9 @@
       "ID": "ACH_BASE_6",
       "SetID": "92iocjf",
       "Name": "Hope Seeker",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BASE_60",
@@ -1117,8 +1117,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:05:43.6198133+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:05:17.9140017+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-14T16:58:32.8584966+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:05:43.6198654+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:58:26.9798786+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:05:17.9140476+00:00"
 }

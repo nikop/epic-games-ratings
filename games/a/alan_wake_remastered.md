@@ -8,7 +8,7 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 20.00% | ~9,233 |
 | Let There Be Light | 16.00% | ~7,386 |
-| Float Like a Butterfly | 15.00% | ~6,924 |
+| Float Like a Butterfly | 15.00% | ~6,925 |
 | Nordic Walking | 13.00% | ~6,001 |
 | Bright Falls' Finest | 12.00% | ~5,540 |
 | Under a Thin Layer of Skin | 11.00% | ~5,078 |
@@ -21,15 +21,15 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,693 |
 | Missed by a Mile | 8.00% | ~3,693 |
 | Damn Good Cup of Coffee | 8.00% | ~3,693 |
-| A Friend in Need | 8.00% | ~770 |
-| Heavy Metal | 7.00% | ~3,231 |
-| Iron Horse | 7.00% | ~3,231 |
-| Perchance to Dream | 7.00% | ~3,231 |
-| The Six-Gun Scribe | 7.00% | ~3,231 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,231 |
-| Thunder and Lightning | 7.00% | ~3,231 |
-| Collateral Carnage | 7.00% | ~3,231 |
-| Come One, Come All | 7.00% | ~3,231 |
+| A Friend in Need | 8.00% | ~771 |
+| Heavy Metal | 7.00% | ~3,232 |
+| Iron Horse | 7.00% | ~3,232 |
+| Perchance to Dream | 7.00% | ~3,232 |
+| The Six-Gun Scribe | 7.00% | ~3,232 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,232 |
+| Thunder and Lightning | 7.00% | ~3,232 |
+| Collateral Carnage | 7.00% | ~3,232 |
+| Come One, Come All | 7.00% | ~3,232 |
 | Gatekeeper | 6.00% | ~2,770 |
 | The Lady of the Light | 6.00% | ~2,770 |
 | Two For the Price of One | 6.00% | ~2,770 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,163 (Ranked 75)  
+Progressed: 46,165 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-11 | 46,117 | 44 |
 | 2023-05-12 | 46,131 | 44 |
 | 2023-05-13 | 46,152 | 44 |
-| 2023-05-14 | 46,163 | 44 |
+| 2023-05-14 | 46,165 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

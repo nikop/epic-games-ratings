@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -2123,9 +2123,9 @@
       "ID": "Destroy_Any_Faction",
       "SetID": "4h07amh",
       "Name": "Xenocide",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1866
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2643,8 +2643,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-13T13:57:10.2538669+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:01:20.8462963+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:00:58.7347675+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-14T16:57:17.5534655+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:01:20.8463829+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:57:17.8902186+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:00:58.7348417+00:00"
 }

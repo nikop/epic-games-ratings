@@ -3,7 +3,7 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 895,
-  "Ranking_Popularity": 237,
+  "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 172,
@@ -1384,11 +1384,17 @@
       "Rating": 3.93,
       "NumberOfAwards": 1238,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2023-05-14T17:59:59.4341575+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1244,
+      "NumberOfAwardsMax": 266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1238,
-  "NumberOfAwardsMax": 260,
+  "NumberOfAwards": 1244,
+  "NumberOfAwardsMax": 266,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1431,7 +1437,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 260
+      "Count": 266
     },
     {
       "Text": "This game has a Silly Community",
@@ -1440,9 +1446,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60126,
+  "EOS_Progressed": 60128,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 865,
+  "EOS_NewPlayers": 857,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3670,6 +3676,11 @@
       "Time": "2023-05-14T17:06:23.6011099+00:00",
       "NumProgressed": 60126,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-14T18:05:52.3372714+00:00",
+      "NumProgressed": 60128,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -3681,7 +3692,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30063
+      "UsersEstimate": 30064
     },
     {
       "ID": "ACH_0011",
@@ -3697,7 +3708,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12626
+      "UsersEstimate": 12627
     },
     {
       "ID": "ACH_0013",
@@ -3705,7 +3716,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7816
+      "UsersEstimate": 7817
     },
     {
       "ID": "ACH_0014",
@@ -3713,7 +3724,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "ACH_0015",
@@ -3777,7 +3788,7 @@
       "Name": "Freebooter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "ACH_0061",
@@ -3825,7 +3836,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39082
+      "UsersEstimate": 39083
     },
     {
       "ID": "ACH_0210",
@@ -3833,7 +3844,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43892
+      "UsersEstimate": 43893
     },
     {
       "ID": "ACH_0211",
@@ -3849,7 +3860,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28259
+      "UsersEstimate": 28260
     },
     {
       "ID": "ACH_0300",
@@ -3897,7 +3908,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20443
+      "UsersEstimate": 20444
     },
     {
       "ID": "ACH_0420",
@@ -3913,7 +3924,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 21044
+      "UsersEstimate": 21045
     },
     {
       "ID": "ACH_0431",
@@ -3976,16 +3987,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60126,
+      "Progressed": 60128,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-14T15:59:15.4922189+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:06:23.6011091+00:00",
+  "LastChanged": "2023-05-14T17:59:59.4341573+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:05:52.337271+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:00:16.2242134+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:06:23.6011411+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:59:59.4341579+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:05:52.3373029+00:00"
 }

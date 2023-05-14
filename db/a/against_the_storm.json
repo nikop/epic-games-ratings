@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2258,7 +2258,7 @@
       "Count": 303
     }
   ],
-  "EOS_Progressed": 14811,
+  "EOS_Progressed": 14814,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -3468,6 +3468,11 @@
       "Time": "2023-05-14T17:06:27.2592938+00:00",
       "NumProgressed": 14811,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-14T18:05:55.858948+00:00",
+      "NumProgressed": 14814,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3599,7 +3604,7 @@
       "Name": "Bandit Camp",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "WinNearBarren",
@@ -3703,7 +3708,7 @@
       "Name": "Lost Colonies",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "WinNearStatue",
@@ -3839,7 +3844,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -3847,7 +3852,7 @@
       "Name": "Trade Baron",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "WinWithoutDeath",
@@ -3878,15 +3883,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14811,
+      "Progressed": 14814,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-13T13:02:57.3510292+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:06:27.2592936+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:05:55.8589477+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:00:19.1764608+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:06:27.2593316+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:00:02.1331971+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:05:55.8589863+00:00"
 }

@@ -11,15 +11,15 @@ Rating: 4.55 (Ranked 465)
 | Infinite Growth... | 1.00% | ~19 |
 | Guy de Borderlands | 1.00% | ~19 |
 | Ready for a New World | 1.00% | ~19 |
+| Breaking Protocol | 1.00% | ~19 |
+| Hope Seeker | 1.00% | ~19 |
 | Space Society | 0.90% | ~17 |
-| Breaking Protocol | 0.90% | ~17 |
+| Fully Recycled | 0.90% | ~17 |
 | Permanent Redesigns | 0.90% | ~17 |
 | Ain't Nobody Got Time for That | 0.90% | ~17 |
-| Hope Seeker | 0.90% | ~17 |
 | A Thousand Strong | 0.80% | ~15 |
-| Fully Recycled | 0.80% | ~15 |
+| Exceeding Capacity | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |
-| Exceeding Capacity | 0.60% | ~11 |
 | Power Outage | 0.60% | ~11 |
 | Convenient Transport | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~9 |

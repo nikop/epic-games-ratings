@@ -5,18 +5,18 @@ Rating: 4.13 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,071 |
+| First Day on the Job | 83.00% | ~4,072 |
 | Disposing of the Evidence | 36.00% | ~1,766 |
 | Without a Scratch | 32.00% | ~1,570 |
-| Wreckless Driving | 27.00% | ~1,324 |
+| Wreckless Driving | 27.00% | ~1,325 |
 | A Marked Man | 24.00% | ~1,177 |
 | Street Sweeper | 17.00% | ~834 |
 | Liberty City Minute | 17.00% | ~834 |
 | Offshore Delivery | 12.00% | ~589 |
 | Dirty Money | 11.00% | ~540 |
-| By a Mile | 9.00% | ~441 |
-| Not So Fast | 9.00% | ~441 |
-| Right-hand Man | 9.00% | ~441 |
+| By a Mile | 9.00% | ~442 |
+| Not So Fast | 9.00% | ~442 |
+| Right-hand Man | 9.00% | ~442 |
 | A Gift from the King | 6.00% | ~294 |
 | Full Artillery | 4.00% | ~196 |
 | Mob Boss | 2.00% | ~98 |
@@ -26,16 +26,16 @@ Rating: 4.13 (Ranked 849)
 | Got This Figured Out | 1.00% | ~49 |
 | Come Out to Play-y-y-y | 1.00% | ~49 |
 | Where To? | 1.00% | ~49 |
+| Man Toyz | 1.00% | ~49 |
 | Playing Doctor | 1.00% | ~49 |
 | Planned Ahead | 0.90% | ~44 |
 | Wheels Up | 0.90% | ~44 |
-| Man Toyz | 0.90% | ~44 |
 | Going Rogue | 0.80% | ~39 |
 | Furious First Responder | 0.80% | ~39 |
 | Is That All You've Got? | 0.80% | ~39 |
 | King of Liberty City | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,905 (Ranked 123)  
+Progressed: 4,906 (Ranked 123)  
 Completed: 26 (0.53%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 26 (0.53%) (Ranked 103)
 | 2023-05-11 | 4,876 | 26 |
 | 2023-05-12 | 4,885 | 26 |
 | 2023-05-13 | 4,896 | 26 |
-| 2023-05-14 | 4,905 | 26 |
+| 2023-05-14 | 4,906 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

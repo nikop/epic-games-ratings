@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 114,
+  "Ranking_Rating": 115,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2372,9 +2372,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8817,
+  "EOS_Progressed": 8818,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3512,6 +3512,11 @@
       "Time": "2023-05-14T16:04:51.2619491+00:00",
       "NumProgressed": 8817,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T18:05:46.3209625+00:00",
+      "NumProgressed": 8818,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4450,21 +4455,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7599,
+      "Progressed": 7600,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8817,
+      "Progressed": 8818,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-14T16:58:23.4104149+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:06:16.2029879+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:05:46.3209621+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-14T16:58:23.4104153+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:06:16.2031286+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:58:17.2662445+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:05:46.3210971+00:00"
 }

@@ -3700,7 +3700,7 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87517,
+  "EOS_Progressed": 87523,
   "EOS_Completed": 1841,
   "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 31,
@@ -5909,6 +5909,11 @@
     {
       "Time": "2023-05-14T17:06:35.6519602+00:00",
       "NumProgressed": 87517,
+      "NumCompleted": 1841
+    },
+    {
+      "Time": "2023-05-14T18:06:03.0058687+00:00",
+      "NumProgressed": 87523,
       "NumCompleted": 1841
     }
   ],
@@ -9223,9 +9228,9 @@
       "ID": "objective_completed_812",
       "SetID": "415jc5c",
       "Name": "The Sibriex",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_813",
@@ -9783,9 +9788,9 @@
       "ID": "objective_completed_935",
       "SetID": "415jc5c",
       "Name": "The Archaeologist and the Sailor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_94",
@@ -9832,21 +9837,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53791,
+      "Progressed": 53797,
       "Completed": 2507
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87517,
+      "Progressed": 87523,
       "Completed": 1841
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T14:57:58.5030539+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:06:35.6519594+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:06:03.0058684+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T16:58:05.8485327+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:06:35.6541764+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:58:01.5782329+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:06:03.0080742+00:00"
 }

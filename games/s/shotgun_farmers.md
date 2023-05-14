@@ -9,8 +9,8 @@
 | Triple Kill | 69.00% | ~34 |
 | Cornivore | 61.00% | ~30 |
 | No Asperascope | 59.00% | ~29 |
-| 15K | 37.00% | ~18 |
-| 10K | 37.00% | ~18 |
+| 15K | 39.00% | ~19 |
+| 10K | 39.00% | ~19 |
 | Drinking Problem | 29.00% | ~14 |
 | Skin Of Your Teeth | 20.00% | ~10 |
 | Eggtraordinary | 18.00% | ~9 |
@@ -19,8 +19,8 @@
 | Getting Started | 14.00% | ~7 |
 | Fresh Pancake | 12.00% | ~6 |
 | Quit Horsin' Around | 12.00% | ~6 |
+| Chick Magnet | 10.00% | ~5 |
 | Carrocketeer | 10.00% | ~5 |
-| Chick Magnet | 8.00% | ~4 |
 | Forestside Survivor | 8.00% | ~4 |
 | Bring Home The Bacon | 6.00% | ~3 |
 | Honk Honk | 6.00% | ~3 |

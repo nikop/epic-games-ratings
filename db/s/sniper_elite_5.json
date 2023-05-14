@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -797,9 +797,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -861,9 +861,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 172
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1052,8 +1052,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:05:43.4914564+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:05:17.7892751+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:00:53.5140651+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:05:43.4915156+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:00:33.8067438+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:05:17.7893294+00:00"
 }

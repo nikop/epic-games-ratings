@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~36,163 |
-| INFUSED WITH LIGHT | 52.00% | ~28,066 |
-| FOXIN' AROUND | 28.00% | ~15,113 |
-| FETCH | 27.00% | ~14,573 |
-| BLOOMS OF LIGHT | 26.00% | ~14,033 |
-| BEST FRIENDS | 22.00% | ~11,874 |
-| AWAKEN | 21.00% | ~11,335 |
-| ERADICATE | 20.00% | ~10,795 |
-| SPIRIT BARK | 20.00% | ~10,795 |
-| GARDEN OF LIGHT | 18.00% | ~9,715 |
-| SPIRIT FORM | 15.00% | ~8,096 |
-| WRITTEN IN STONE | 15.00% | ~8,096 |
-| UPROOTING DARKNESS | 14.00% | ~7,556 |
-| WEIGHTLESS | 11.00% | ~5,937 |
-| SPIRIT DASH | 10.00% | ~5,397 |
-| OLD COMPANION | 8.00% | ~4,318 |
-| PLAGUE DOCTOR | 8.00% | ~4,318 |
-| MATCH MAKER | 7.00% | ~3,778 |
-| NORTHERN LIGHTS | 7.00% | ~3,778 |
-| SPIRITED AWAY | 7.00% | ~3,778 |
-| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,619 |
-| ANCIENT HISTORY | 2.00% | ~1,079 |
-| NONE FORGOTTEN | 2.00% | ~1,079 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~36,174 |
+| INFUSED WITH LIGHT | 52.00% | ~28,075 |
+| FOXIN' AROUND | 28.00% | ~15,117 |
+| FETCH | 27.00% | ~14,578 |
+| BLOOMS OF LIGHT | 26.00% | ~14,038 |
+| BEST FRIENDS | 22.00% | ~11,878 |
+| AWAKEN | 21.00% | ~11,338 |
+| ERADICATE | 20.00% | ~10,798 |
+| SPIRIT BARK | 20.00% | ~10,798 |
+| GARDEN OF LIGHT | 18.00% | ~9,718 |
+| SPIRIT FORM | 15.00% | ~8,099 |
+| WRITTEN IN STONE | 15.00% | ~8,099 |
+| UPROOTING DARKNESS | 14.00% | ~7,559 |
+| WEIGHTLESS | 11.00% | ~5,939 |
+| SPIRIT DASH | 10.00% | ~5,399 |
+| OLD COMPANION | 8.00% | ~4,319 |
+| PLAGUE DOCTOR | 8.00% | ~4,319 |
+| MATCH MAKER | 7.00% | ~3,779 |
+| NORTHERN LIGHTS | 7.00% | ~3,779 |
+| SPIRITED AWAY | 7.00% | ~3,779 |
+| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,620 |
+| ANCIENT HISTORY | 2.00% | ~1,080 |
+| NONE FORGOTTEN | 2.00% | ~1,080 |
 | KINDRED SPIRITS | 0.60% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,974 (Ranked 73)  
+Progressed: 53,991 (Ranked 73)  
 Completed: 252 (0.47%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 252 (0.47%) (Ranked 107)
 | 2023-05-11 | 53,540 | 250 |
 | 2023-05-12 | 53,680 | 250 |
 | 2023-05-13 | 53,860 | 250 |
-| 2023-05-14 | 53,974 | 252 |
+| 2023-05-14 | 53,991 | 252 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 465)  
 Sum: 93 (Ranked 400)  

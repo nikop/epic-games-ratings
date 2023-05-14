@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -60,6 +60,11 @@
       "Time": "2023-05-07T02:12:16.947308+00:00",
       "NumProgressed": 354,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T18:05:35.9309575+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -71,7 +76,7 @@
       "Name": "Strength and Sorcery",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "assemble-team2",
@@ -79,7 +84,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "assemble-team3",
@@ -119,7 +124,7 @@
       "Name": "No Mercy",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "different-items1",
@@ -127,7 +132,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "different-items2",
@@ -143,7 +148,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "finished-quest-cube",
@@ -167,7 +172,7 @@
       "Name": "Campaigning",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "finished-quest-nurgle",
@@ -207,7 +212,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "finished-quest-secret",
@@ -287,7 +292,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "win-first-level",
@@ -295,7 +300,7 @@
       "Name": "Good start!",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "win-koth-fights1",
@@ -303,7 +308,7 @@
       "Name": "Rookie",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "win-koth-fights2",
@@ -335,7 +340,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "win-with-mrakus",
@@ -350,7 +355,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 1
     }
   ],
@@ -358,8 +363,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:06:04.3716011+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:05:35.9309571+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:35.7046138+00:00",
-  "LastUpdate_Ratings": "2023-05-14T16:58:50.8772802+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:06:04.3716214+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:58:41.9761958+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:05:35.9309793+00:00"
 }

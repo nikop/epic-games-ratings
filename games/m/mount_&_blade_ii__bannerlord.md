@@ -6,30 +6,30 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,442 |
-| Landlord | 29.00% | ~14,452 |
-| Lawmaker | 21.00% | ~10,465 |
-| Bannerlord | 20.00% | ~9,967 |
-| Horde breaker | 20.00% | ~9,967 |
-| Trained | 19.00% | ~9,469 |
-| The king is pleased | 16.00% | ~7,974 |
-| King Solomon | 15.00% | ~7,475 |
-| I can do it | 14.00% | ~6,977 |
+| Lawbringer | 35.00% | ~17,445 |
+| Landlord | 29.00% | ~14,454 |
+| Lawmaker | 21.00% | ~10,467 |
+| Bannerlord | 20.00% | ~9,968 |
+| Horde breaker | 20.00% | ~9,968 |
+| Trained | 19.00% | ~9,470 |
+| The king is pleased | 16.00% | ~7,975 |
+| King Solomon | 15.00% | ~7,476 |
+| I can do it | 14.00% | ~6,978 |
 | Apple of my eye | 13.00% | ~6,479 |
-| God of the Arena | 12.00% | ~5,980 |
-| Against all odds | 9.00% | ~4,485 |
-| Swordbearer | 9.00% | ~4,485 |
+| God of the Arena | 12.00% | ~5,981 |
+| Against all odds | 9.00% | ~4,486 |
+| Swordbearer | 9.00% | ~4,486 |
 | Duelist | 8.00% | ~3,987 |
 | Dynasty | 8.00% | ~3,987 |
 | I spit on your grave | 8.00% | ~3,987 |
 | What have the Romans ever done for us? | 8.00% | ~3,987 |
-| Butterlord | 7.00% | ~3,488 |
-| Mastery | 6.00% | ~2,990 |
+| Butterlord | 7.00% | ~3,489 |
+| Mastery | 6.00% | ~2,991 |
 | Know your enemy | 5.00% | ~2,492 |
 | This Is Our Land | 5.00% | ~2,492 |
-| Crush your enemies | 4.00% | ~1,993 |
-| My way | 4.00% | ~1,993 |
-| Veni vidi vici | 4.00% | ~1,993 |
+| Crush your enemies | 4.00% | ~1,994 |
+| My way | 4.00% | ~1,994 |
+| Veni vidi vici | 4.00% | ~1,994 |
 | Crowdfunded | 3.00% | ~1,495 |
 | Freedom! | 3.00% | ~1,495 |
 | Entrepreneur | 2.00% | ~997 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,835 (Ranked 74)  
+Progressed: 49,842 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,14 +82,14 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 49,558 | 0 |
 | 2023-05-12 | 49,639 | 0 |
 | 2023-05-13 | 49,748 | 0 |
-| 2023-05-14 | 49,835 | 0 |
+| 2023-05-14 | 49,842 | 0 |
 ## Awards
-Max (Character Customization): 6,523  (Ranked 49)  
-Sum: 13,010 (Ranked 68)  
+Max (Character Customization): 6,526  (Ranked 49)  
+Sum: 13,013 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,523 |
+| This game has Inclusive Character Customization | 6,526 |
 | This game is Great for Beginners | 803 |
 | This game has Diverse Characters | 800 |
 | This game is Highly Recommended | 770 |
@@ -223,4 +223,4 @@ Diff (max vs sum): -19
 | 2023-05-11 | 4.74 | - | 6,512 | 12,975 |
 | 2023-05-12 | 4.74 | - | 6,520 | 12,988 |
 | 2023-05-13 | 4.74 | - | 6,523 | 13,001 |
-| 2023-05-14 | 4.74 | - | 6,523 | 13,010 |
+| 2023-05-14 | 4.74 | - | 6,526 | 13,013 |

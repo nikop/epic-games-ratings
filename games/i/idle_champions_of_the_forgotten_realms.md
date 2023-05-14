@@ -234,6 +234,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.20% | ~108 |
 | Trench Coat Run | 0.20% | ~108 |
 | Durable Deep | 0.20% | ~175 |
+| The Sibriex | 0.20% | ~108 |
 | Expert Opinion | 0.20% | ~175 |
 | Dwarven Rumors | 0.20% | ~108 |
 | Mimic Perception | 0.20% | ~108 |
@@ -253,6 +254,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.20% | ~108 |
 | Tekeli-li's Hunt | 0.20% | ~108 |
 | The Rite of the Arcane Octad | 0.20% | ~108 |
+| The Archaeologist and the Sailor | 0.20% | ~108 |
 | The Haunted Jungle | 0.20% | ~175 |
 | Poor Guidance | 0.20% | ~175 |
 | Overwhelming Force | 0.20% | ~175 |
@@ -445,7 +447,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ten in Ten-Towns | 0.10% | ~54 |
 | The Taunting Lord | 0.10% | ~54 |
 | Lone Wolf Party | 0.10% | ~54 |
-| The Sibriex | 0.10% | ~54 |
 | The Archduke's Blessing | 0.10% | ~54 |
 | A Neutral Party | 0.10% | ~54 |
 | Wrecked Flying Fortress | 0.10% | ~54 |
@@ -494,9 +495,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~54 |
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
-| The Archaeologist and the Sailor | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,517 (Ranked 59)  
+Progressed: 87,523 (Ranked 59)  
 Completed: 1,841 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,841 (2.10%) (Ranked 60)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,517 | 1,841 |
+| 2023-05-14 | 87,523 | 1,841 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,881 (Ranked 37)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -846,9 +846,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2838,
+  "EOS_Progressed": 2841,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2051,6 +2051,11 @@
       "Time": "2023-05-14T13:09:30.7894652+00:00",
       "NumProgressed": 2838,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T18:05:58.4992628+00:00",
+      "NumProgressed": 2841,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2078,7 +2083,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -2086,7 +2091,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -2134,7 +2139,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -2158,7 +2163,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2182,7 +2187,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2190,7 +2195,7 @@
       "Name": "Firestarter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -2214,7 +2219,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2222,7 +2227,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2216
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2236,9 +2241,9 @@
       "ID": "ACH_MILITARYCOUP",
       "SetID": "1p8ab95",
       "Name": "One Does Not Simply Stage A Coup",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -2318,7 +2323,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2334,7 +2339,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2342,7 +2347,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -2381,15 +2386,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2838,
+      "Progressed": 2841,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:06:29.9998391+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:05:58.4992624+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:00:29.9258394+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:06:29.9998679+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:00:12.0578295+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:05:58.4992912+00:00"
 }

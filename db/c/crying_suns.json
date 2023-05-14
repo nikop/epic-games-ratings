@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457997,
+  "EOS_Progressed": 458003,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2598,6 +2598,11 @@
       "Time": "2023-05-14T17:06:14.5376214+00:00",
       "NumProgressed": 457997,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-14T18:05:44.7872479+00:00",
+      "NumProgressed": 458003,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2625,7 +2630,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105339
+      "UsersEstimate": 105341
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -2633,7 +2638,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 100759
+      "UsersEstimate": 100761
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -2697,7 +2702,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302278
+      "UsersEstimate": 302282
     },
     {
       "ID": "achievement_story_landa",
@@ -2729,7 +2734,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114499
+      "UsersEstimate": 114501
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -2785,7 +2790,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91599
+      "UsersEstimate": 91601
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -2793,7 +2798,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151139
+      "UsersEstimate": 151141
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -3033,7 +3038,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201519
+      "UsersEstimate": 201521
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -3041,7 +3046,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137399
+      "UsersEstimate": 137401
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -3065,7 +3070,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178619
+      "UsersEstimate": 178621
     },
     {
       "ID": "achievement_win_run_hard",
@@ -3121,28 +3126,28 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 100759
+      "UsersEstimate": 100761
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1931,
-      "Completed": 1931
+      "Progressed": 1937,
+      "Completed": 1937
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457997,
+      "Progressed": 458003,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-14T17:06:14.5376209+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:05:44.7872476+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-14T16:59:26.5620154+00:00",
-  "LastUpdate_Achievements": "2023-05-14T17:06:14.5376845+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:59:15.8725174+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:05:44.7873073+00:00"
 }
