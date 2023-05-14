@@ -16,9 +16,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.80% | ~430 |
 | The Ring of Regeneration | 0.70% | ~612 |
 | Were-verpowered | 0.60% | ~525 |
-| Seeking Allies | 0.60% | ~525 |
 | Are Ya Chicken? | 0.60% | ~525 |
 | A Persistent Buzzing | 0.50% | ~437 |
+| Seeking Allies | 0.50% | ~437 |
 | Mad Cow Disease | 0.50% | ~437 |
 | Friendly Imps | 0.50% | ~437 |
 | Pure Energy | 0.50% | ~437 |
@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.30% | ~262 |
 | Building Trust | 0.30% | ~262 |
 | No Time To Rest | 0.30% | ~262 |
+| Invisible Shadows | 0.30% | ~262 |
 | The Dinner Party | 0.30% | ~262 |
 | The Botched Kidnapping | 0.30% | ~262 |
 | Trollskull Manor | 0.30% | ~262 |
@@ -140,7 +141,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.20% | ~175 |
 | The Mists of Ravenloft | 0.20% | ~175 |
 | The Hunt for Owl-y | 0.20% | ~175 |
-| Invisible Shadows | 0.20% | ~175 |
 | Werewolves in the Mist | 0.20% | ~175 |
 | Family Entanglements | 0.20% | ~175 |
 | Haunted Fortunes | 0.20% | ~175 |
@@ -234,6 +234,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Today | 0.20% | ~107 |
 | Sunblight | 0.20% | ~107 |
 | Fortress Assault | 0.20% | ~107 |
+| The Bleeding Citadel | 0.20% | ~107 |
 | The Radiant Nightmare | 0.20% | ~107 |
 | Quick Thinking | 0.20% | ~107 |
 | Witty Riposting | 0.20% | ~107 |
@@ -245,6 +246,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.20% | ~107 |
 | Reghed Glacier Mysteries | 0.20% | ~107 |
 | Tekeli-li's Hunt | 0.20% | ~107 |
+| The Rite of the Arcane Octad | 0.20% | ~107 |
 | The Haunted Jungle | 0.20% | ~175 |
 | Poor Guidance | 0.20% | ~175 |
 | Starving in the Jungle | 0.10% | ~87 |
@@ -450,7 +452,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Perception | 0.10% | ~54 |
 | Hats off to you! | 0.10% | ~54 |
 | It's Cold Out There Every Day | 0.10% | ~54 |
-| The Bleeding Citadel | 0.10% | ~54 |
 | Don't Pick at the Scab | 0.10% | ~54 |
 | Going To Eleven | 0.10% | ~54 |
 | Idyllglen | 0.10% | ~54 |
@@ -488,7 +489,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Encroaching Madness | 0.10% | ~54 |
 | Watchful Eyes | 0.10% | ~54 |
 | Maroon Madness | 0.10% | ~54 |
-| The Rite of the Arcane Octad | 0.10% | ~54 |
 | Alien Allies | 0.10% | ~54 |
 | An Icewind Dale Reunion | 0.10% | ~54 |
 | The Netherese Necropolis | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,453 (Ranked 59)  
+Progressed: 87,459 (Ranked 59)  
 Completed: 1,839 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,839 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,453 | 1,839 |
+| 2023-05-14 | 87,459 | 1,839 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,876 (Ranked 37)  

@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -702,9 +702,9 @@
       "ID": "achBrain",
       "SetID": "72gjli4",
       "Name": "Brain \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achCar",
@@ -718,17 +718,17 @@
       "ID": "achCheet",
       "SetID": "72gjli4",
       "Name": "Cheats \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achCity",
@@ -910,9 +910,9 @@
       "ID": "achPlotOne",
       "SetID": "72gjli4",
       "Name": "City on fire \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achPlotThree",
@@ -934,9 +934,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "achPriest",
@@ -950,9 +950,9 @@
       "ID": "achRankOne",
       "SetID": "72gjli4",
       "Name": "Rank B\u002B \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achRankThree",
@@ -974,9 +974,9 @@
       "ID": "achSave",
       "SetID": "72gjli4",
       "Name": "King of survival \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achSecretos",
@@ -1071,8 +1071,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-14T08:06:56.3967369+00:00",
+  "LastChanged_Achievements": "2023-05-14T09:05:39.7969263+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:01:01.8180064+00:00",
-  "LastUpdate_Achievements": "2023-05-14T08:06:56.3967859+00:00"
+  "LastUpdate_Ratings": "2023-05-14T08:59:40.2430147+00:00",
+  "LastUpdate_Achievements": "2023-05-14T09:05:39.7969738+00:00"
 }

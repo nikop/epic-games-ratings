@@ -13,7 +13,7 @@
 | Vibing | 61.00% | ~381 |
 | Fun Guy | 61.00% | ~381 |
 | Tragic Brave | 52.00% | ~325 |
-| Awakened Spirits | 48.00% | ~300 |
+| Awakened Spirits | 49.00% | ~306 |
 | Little Shop | 47.00% | ~294 |
 | Surprise! | 43.00% | ~269 |
 | An Actor! | 43.00% | ~269 |

@@ -6,19 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,261 |
-| That's a Grand Army | 8.00% | ~2,899 |
-| That is mine! | 8.00% | ~2,899 |
-| Victorious! | 8.00% | ~2,899 |
-| Brothers in Arms | 6.00% | ~2,174 |
-| That's a Grand Navy | 6.00% | ~2,174 |
-| Seriously?! | 6.00% | ~2,174 |
-| For the Glory | 5.00% | ~1,812 |
-| Cold War | 4.00% | ~1,449 |
-| True Catholic | 4.00% | ~1,449 |
-| Defender of the Faith | 3.00% | ~1,087 |
-| It's all about the money | 3.00% | ~1,087 |
-| Respected | 3.00% | ~1,087 |
+| Until death do us apart | 9.00% | ~3,265 |
+| That's a Grand Army | 8.00% | ~2,902 |
+| That is mine! | 8.00% | ~2,902 |
+| Victorious! | 8.00% | ~2,902 |
+| Brothers in Arms | 6.00% | ~2,176 |
+| That's a Grand Navy | 6.00% | ~2,176 |
+| Seriously?! | 6.00% | ~2,176 |
+| For the Glory | 5.00% | ~1,814 |
+| Cold War | 4.00% | ~1,451 |
+| True Catholic | 4.00% | ~1,451 |
+| Defender of the Faith | 3.00% | ~1,088 |
+| It's all about the money | 3.00% | ~1,088 |
+| Respected | 3.00% | ~1,088 |
 | Blockader | 2.00% | ~725 |
 | Combined Arms | 2.00% | ~725 |
 | Double the Love | 2.00% | ~725 |
@@ -29,26 +29,27 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 2.00% | ~725 |
 | Total Control | 2.00% | ~725 |
 | Truly Divine Ruler | 2.00% | ~725 |
-| Agressive Expander | 1.00% | ~362 |
-| All That's Thine Shall Be Mine | 1.00% | ~362 |
-| Azur semé de lis or | 1.00% | ~362 |
-| Bright Spark | 1.00% | ~362 |
-| City of Cities | 1.00% | ~362 |
-| Factionalism | 1.00% | ~362 |
-| A Golden Empire | 1.00% | ~362 |
-| My armies are invincible! | 1.00% | ~362 |
+| Agressive Expander | 1.00% | ~363 |
+| All That's Thine Shall Be Mine | 1.00% | ~363 |
+| Azur semé de lis or | 1.00% | ~363 |
+| Bright Spark | 1.00% | ~363 |
+| City of Cities | 1.00% | ~363 |
+| Factionalism | 1.00% | ~363 |
+| A Golden Empire | 1.00% | ~363 |
+| My armies are invincible! | 1.00% | ~363 |
 | Isn't this the way to India? | 0.80% | ~290 |
 | The Five Colonies | 0.80% | ~290 |
 | The Emperors new clothes | 0.70% | ~254 |
 | Market Control | 0.70% | ~254 |
 | This navy can take it all | 0.70% | ~254 |
-| Down Under | 0.60% | ~217 |
-| Trustworthy | 0.60% | ~217 |
+| Down Under | 0.60% | ~218 |
+| Trustworthy | 0.60% | ~218 |
 | All belongs to Mother Russia | 0.50% | ~181 |
 | At every continent | 0.50% | ~181 |
 | Early-Modern Warfare | 0.50% | ~181 |
 | Electable! | 0.50% | ~181 |
 | Time Bandit | 0.50% | ~181 |
+| Absolutely | 0.40% | ~145 |
 | Live Long and Prosper | 0.40% | ~145 |
 | One Family to Rule them All | 0.40% | ~145 |
 | Populists in Government | 0.40% | ~145 |
@@ -58,7 +59,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.40% | ~145 |
 | Trophy Hunter | 0.40% | ~145 |
 | Voting Streak | 0.40% | ~145 |
-| Absolutely | 0.30% | ~109 |
 | All Your Trade Are Belong to Us | 0.30% | ~109 |
 | Bleed Them Dry | 0.30% | ~109 |
 | Dude, Where's my Boat? | 0.30% | ~109 |
@@ -72,23 +72,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.30% | ~109 |
 | Traditional Player | 0.30% | ~109 |
 | Wonderful | 0.30% | ~109 |
-| A Decent Reserve | 0.20% | ~72 |
-| A Pile of Gold | 0.20% | ~72 |
-| A Protected Market | 0.20% | ~72 |
-| AAA Credit | 0.20% | ~72 |
-| Fine Financials | 0.20% | ~72 |
-| A Fine Goosestep | 0.20% | ~72 |
-| Imperio español | 0.20% | ~72 |
-| Industrial Powerhouse | 0.20% | ~72 |
-| Just a Little Patience | 0.20% | ~72 |
-| Magellan’s Voyage | 0.20% | ~72 |
-| Multiculturalism | 0.20% | ~72 |
-| No Pirates in my Caribbean | 0.20% | ~72 |
-| Not so sad a state... | 0.20% | ~72 |
-| The Chrysanthemum Throne | 0.20% | ~72 |
-| Three Trivial Tributary Tribes | 0.20% | ~72 |
-| Vasa or Wettin? | 0.20% | ~72 |
-| World Discoverer | 0.20% | ~72 |
+| A Decent Reserve | 0.20% | ~73 |
+| A Pile of Gold | 0.20% | ~73 |
+| A Protected Market | 0.20% | ~73 |
+| AAA Credit | 0.20% | ~73 |
+| Fine Financials | 0.20% | ~73 |
+| A Fine Goosestep | 0.20% | ~73 |
+| Imperio español | 0.20% | ~73 |
+| Industrial Powerhouse | 0.20% | ~73 |
+| Just a Little Patience | 0.20% | ~73 |
+| Magellan’s Voyage | 0.20% | ~73 |
+| Multiculturalism | 0.20% | ~73 |
+| No Pirates in my Caribbean | 0.20% | ~73 |
+| Not so sad a state... | 0.20% | ~73 |
+| The Chrysanthemum Throne | 0.20% | ~73 |
+| Three Trivial Tributary Tribes | 0.20% | ~73 |
+| Vasa or Wettin? | 0.20% | ~73 |
+| World Discoverer | 0.20% | ~73 |
 | I don't like sand | 0.10% | ~36 |
 | A Blessed Nation | 0.10% | ~36 |
 | A Hero’s Welcome | 0.10% | ~36 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,232 (Ranked 81)  
+Progressed: 36,273 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,7 +385,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 34,344 | 0 |
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
-| 2023-05-14 | 36,232 | 0 |
+| 2023-05-14 | 36,273 | 0 |
 ## Awards
 Max (Educational): 5,216  (Ranked 60)  
 Sum: 43,176 (Ranked 27)  

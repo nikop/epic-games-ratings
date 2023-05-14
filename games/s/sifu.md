@@ -20,14 +20,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.70% | ~4,920 |
 | Rumble in the Hangar | 0.70% | ~4,920 |
 | The Assault | 0.60% | ~4,217 |
+| Scareless | 0.60% | ~4,217 |
+| Stuntmaster | 0.60% | ~4,217 |
 | Street Fighting | 0.60% | ~4,217 |
 | Life is your teacher | 0.60% | ~4,217 |
 | Qi Gong: Essence | 0.60% | ~4,217 |
 | Lightning Hands | 0.60% | ~4,217 |
 | Take damage to save time | 0.60% | ~4,217 |
 | The Old Grandmaster | 0.50% | ~3,514 |
-| Scareless | 0.50% | ~3,514 |
-| Stuntmaster | 0.50% | ~3,514 |
 | Dance of the Praying Mantis | 0.50% | ~3,514 |
 | Old Child | 0.50% | ~3,514 |
 | Kung-Fu Tussle | 0.50% | ~3,514 |

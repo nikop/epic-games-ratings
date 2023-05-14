@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3694,9 +3694,9 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87453,
+  "EOS_Progressed": 87459,
   "EOS_Completed": 1839,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 733,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5859,6 +5859,11 @@
       "Time": "2023-05-14T08:07:00.3753366+00:00",
       "NumProgressed": 87453,
       "NumCompleted": 1839
+    },
+    {
+      "Time": "2023-05-14T09:05:43.3538975+00:00",
+      "NumProgressed": 87459,
+      "NumCompleted": 1839
     }
   ],
   "TotalAchievements": 489,
@@ -7228,9 +7233,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_210",
@@ -7660,9 +7665,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 437
     },
     {
       "ID": "objective_completed_390",
@@ -9292,9 +9297,9 @@
       "ID": "objective_completed_837",
       "SetID": "415jc5c",
       "Name": "The Bleeding Citadel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_838",
@@ -9692,9 +9697,9 @@
       "ID": "objective_completed_928",
       "SetID": "415jc5c",
       "Name": "The Rite of the Arcane Octad",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_929",
@@ -9781,21 +9786,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53727,
+      "Progressed": 53733,
       "Completed": 2505
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87453,
+      "Progressed": 87459,
       "Completed": 1839
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T05:57:43.2647561+00:00",
-  "LastChanged_Achievements": "2023-05-14T08:07:00.375336+00:00",
+  "LastChanged_Achievements": "2023-05-14T09:05:43.3538971+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T07:58:20.8242887+00:00",
-  "LastUpdate_Achievements": "2023-05-14T08:07:00.3784075+00:00"
+  "LastUpdate_Ratings": "2023-05-14T08:57:51.0765382+00:00",
+  "LastUpdate_Achievements": "2023-05-14T09:05:43.3563419+00:00"
 }

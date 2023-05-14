@@ -228,9 +228,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184573,
+  "EOS_Progressed": 184579,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2393,6 +2393,11 @@
       "Time": "2023-05-14T08:06:35.3142647+00:00",
       "NumProgressed": 184573,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-14T09:05:23.3036744+00:00",
+      "NumProgressed": 184579,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -2412,7 +2417,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 131047
+      "UsersEstimate": 131051
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -2436,7 +2441,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33223
+      "UsersEstimate": 33224
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -2508,7 +2513,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -2531,7 +2536,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 184573,
+      "Progressed": 184579,
       "Completed": 4
     }
   ],
@@ -2539,8 +2544,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-09T20:00:41.1544744+00:00",
-  "LastChanged_Achievements": "2023-05-14T08:06:35.3142641+00:00",
+  "LastChanged_Achievements": "2023-05-14T09:05:23.3036739+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:39.6476318+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:00:23.9536455+00:00",
-  "LastUpdate_Achievements": "2023-05-14T08:06:35.3142992+00:00"
+  "LastUpdate_Ratings": "2023-05-14T08:59:14.0734055+00:00",
+  "LastUpdate_Achievements": "2023-05-14T09:05:23.3037007+00:00"
 }

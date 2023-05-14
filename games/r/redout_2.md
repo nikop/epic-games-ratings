@@ -36,11 +36,11 @@ Rating: 4.45 (Ranked 603)
 | Dev, this! | 4.00% | ~39 |
 | He who laughs last... | 4.00% | ~39 |
 | Try them all | 3.00% | ~29 |
+| A-mazing! | 3.00% | ~29 |
 | To infinity and gravity! | 3.00% | ~29 |
 | One giant drive for mankind | 3.00% | ~29 |
 | [Sweats profusely] | 3.00% | ~29 |
 | Healthy competition | 3.00% | ~29 |
-| A-mazing! | 2.00% | ~19 |
 | S-uper! | 2.00% | ~19 |
 | This is to go, even Further Beyond! | 2.00% | ~19 |
 | Gitting Gud | 2.00% | ~19 |

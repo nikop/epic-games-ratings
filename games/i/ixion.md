@@ -13,9 +13,9 @@ Rating: 4.55 (Ranked 465)
 | Guy de Borderlands | 0.90% | ~17 |
 | Space Society | 0.90% | ~17 |
 | Breaking Protocol | 0.90% | ~17 |
+| Permanent Redesigns | 0.90% | ~17 |
 | Ain't Nobody Got Time for That | 0.90% | ~17 |
 | Fully Recycled | 0.80% | ~15 |
-| Permanent Redesigns | 0.80% | ~15 |
 | Hope Seeker | 0.80% | ~15 |
 | A Thousand Strong | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |

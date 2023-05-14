@@ -246,9 +246,9 @@
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TABLES",
@@ -303,8 +303,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-05-14T08:06:26.9185404+00:00",
+  "LastChanged_Achievements": "2023-05-14T09:05:17.1376878+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:57.8276057+00:00",
-  "LastUpdate_Ratings": "2023-05-14T07:59:32.5764824+00:00",
-  "LastUpdate_Achievements": "2023-05-14T08:06:26.918563+00:00"
+  "LastUpdate_Ratings": "2023-05-14T08:58:39.3450694+00:00",
+  "LastUpdate_Achievements": "2023-05-14T09:05:17.137709+00:00"
 }

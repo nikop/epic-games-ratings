@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
@@ -740,10 +740,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 618,
       "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-05-14T08:59:27.7635826+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 619,
+      "NumberOfAwardsMax": 265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 618,
+  "NumberOfAwards": 619,
   "NumberOfAwardsMax": 265,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -781,7 +787,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Great for Beginners",
@@ -819,8 +825,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-05-13T10:01:08.35095+00:00",
+  "LastChanged": "2023-05-14T08:59:27.7635824+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8203039+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:00:44.1343885+00:00",
-  "LastUpdate_Achievements": "2023-05-14T08:05:19.8287929+00:00"
+  "LastUpdate_Ratings": "2023-05-14T08:59:27.763583+00:00",
+  "LastUpdate_Achievements": "2023-05-14T09:04:27.4027495+00:00"
 }

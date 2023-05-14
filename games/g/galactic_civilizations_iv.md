@@ -6,15 +6,15 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,457 |
-| Worker Specialization | 78.00% | ~4,401 |
+| Colonize a Planet | 79.00% | ~4,458 |
+| Worker Specialization | 78.00% | ~4,402 |
 | First Contact | 73.00% | ~4,119 |
-| Win a Battle | 67.00% | ~3,780 |
-| Anomaly Researcher | 63.00% | ~3,554 |
-| Unleash My Power | 62.00% | ~3,498 |
+| Win a Battle | 67.00% | ~3,781 |
+| Anomaly Researcher | 63.00% | ~3,555 |
+| Unleash My Power | 62.00% | ~3,499 |
 | Own 30 Planets | 35.00% | ~1,975 |
 | Xenocide | 33.00% | ~1,862 |
-| Commodity Trader | 32.00% | ~1,805 |
+| Commodity Trader | 32.00% | ~1,806 |
 | Design a Civilization | 31.00% | ~1,749 |
 | Design a Ship | 29.00% | ~1,636 |
 | Commodity Seller | 26.00% | ~1,467 |
@@ -41,11 +41,11 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Navigators | 0.90% | ~51 |
 | Win as Torians | 0.90% | ~51 |
 | Win as Xeloxi | 0.80% | ~45 |
-| Win as the Drath | 0.70% | ~39 |
-| Win as the Drengin | 0.70% | ~39 |
-| Win as the Krynn | 0.70% | ~39 |
-| Win as the Manti | 0.70% | ~39 |
-| Diplomatic Victory! | 0.70% | ~39 |
+| Win as the Drath | 0.70% | ~40 |
+| Win as the Drengin | 0.70% | ~40 |
+| Win as the Krynn | 0.70% | ~40 |
+| Win as the Manti | 0.70% | ~40 |
+| Diplomatic Victory! | 0.70% | ~40 |
 | Win as the Iconians | 0.60% | ~34 |
 | Win as the Iridium | 0.60% | ~34 |
 | Win as the Onyx | 0.60% | ~34 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,642 (Ranked 117)  
+Progressed: 5,643 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 5,597 | 0 |
 | 2023-05-12 | 5,621 | 0 |
 | 2023-05-13 | 5,639 | 0 |
-| 2023-05-14 | 5,642 | 0 |
+| 2023-05-14 | 5,643 | 0 |
 ## Awards
 Max (Diverse Characters): 90  (Ranked 336)  
 Sum: 657 (Ranked 266)  

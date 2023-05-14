@@ -4,38 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chest ✔ | 54.00% | ~89 |
+| Chest ✔ | 55.00% | ~90 |
 | Fright ✔ | 54.00% | ~89 |
 | Inventory ✔ | 51.00% | ~84 |
-| Police officers ✔ | 24.00% | ~39 |
+| Police officers ✔ | 25.00% | ~41 |
 | Mutation ✔ | 23.00% | ~38 |
 | Doberman ✔ | 13.00% | ~21 |
 | Chess ✔ | 9.00% | ~15 |
 | Weapon ✔ | 9.00% | ~15 |
 | Antivirus ✔ | 7.00% | ~11 |
+| Cheats ✔ | 7.00% | ~11 |
 | Survival ✔ | 7.00% | ~11 |
 | Hospital ✔ | 7.00% | ~11 |
+| King of survival ✔ | 7.00% | ~11 |
 | Master of Unlocking ✔ | 7.00% | ~11 |
 | Thirst ✔ | 7.00% | ~11 |
-| Cheats ✔ | 6.00% | ~10 |
-| King of survival ✔ | 6.00% | ~10 |
+| Brain ✔ | 6.00% | ~10 |
 | Alice ✔ | 5.00% | ~8 |
 | Betty ✔ | 5.00% | ~8 |
-| Brain ✔ | 5.00% | ~8 |
 | City ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
 | Food ✔ | 5.00% | ~8 |
 | Mutant fight ✔ | 5.00% | ~8 |
 | Fraternal help ✔ | 5.00% | ~8 |
+| City on fire ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
 | All secrets revealed ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~7 |
 | Crocodile Attack ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
-| City on fire ✔ | 4.00% | ~7 |
 | Rank A ✔ | 4.00% | ~7 |
 | Boss 2 ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |
+| Rank B+ ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 2.00% | ~3 |
@@ -45,7 +46,6 @@
 | Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
 | Priest ✔ | 2.00% | ~3 |
-| Rank B+ ✔ | 2.00% | ~3 |
 | Boss 3 ✔ | 2.00% | ~3 |
 | Seeker Three ✔ | 1.00% | ~2 |
 | Exterminate pests ✔ | 1.00% | ~2 |
