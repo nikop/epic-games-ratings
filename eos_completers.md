@@ -20,7 +20,7 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.26% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.25% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.98% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
@@ -37,7 +37,7 @@
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.94% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
-| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.64% |
+| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.53% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.45% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
@@ -45,9 +45,9 @@
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 45 | [Lamentum](games/l/lamentum.md) | 3.00% |
-| 46 | [MultiVersus](games/m/multiversus.md) | 2.96% |
-| 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
-| 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
+| 46 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 47 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
+| 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.85% |
@@ -61,7 +61,7 @@
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
-| 62 | [Them and Us](games/t/them_and_us.md) | 1.85% |
+| 62 | [Them and Us](games/t/them_and_us.md) | 1.82% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 63 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
@@ -116,9 +116,9 @@
 | 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 115 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 115 | [Tchia](games/t/tchia.md) | 0.35% |
-| 115 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
-| 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
-| 118 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
+| 117 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
+| 117 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
+| 117 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
 | 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 121 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
