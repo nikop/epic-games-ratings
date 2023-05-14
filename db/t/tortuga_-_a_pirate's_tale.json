@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15278,
+  "EOS_Progressed": 15279,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -737,6 +737,11 @@
       "Time": "2023-05-13T18:06:23.9288084+00:00",
       "NumProgressed": 15278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T04:06:34.5303667+00:00",
+      "NumProgressed": 15279,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -748,7 +753,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14514
+      "UsersEstimate": 14515
     },
     {
       "ID": "ACH001",
@@ -756,7 +761,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13292
+      "UsersEstimate": 13293
     },
     {
       "ID": "ACH0010",
@@ -828,7 +833,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "ACH0019",
@@ -844,7 +849,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11000
+      "UsersEstimate": 11001
     },
     {
       "ID": "ACH0020",
@@ -908,7 +913,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13445
+      "UsersEstimate": 13446
     },
     {
       "ID": "ACH005",
@@ -955,7 +960,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15278,
+      "Progressed": 15279,
       "Completed": 0
     }
   ],
@@ -963,8 +968,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-09T21:01:06.0893897+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:58.7096692+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:06:34.530366+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.4506507+00:00",
-  "LastUpdate_Ratings": "2023-05-14T03:00:31.2717694+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:58.7096869+00:00"
+  "LastUpdate_Ratings": "2023-05-14T04:01:03.6177188+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:06:34.5303895+00:00"
 }

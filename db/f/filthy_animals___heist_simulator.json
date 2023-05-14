@@ -4,8 +4,8 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6642,
+  "EOS_Progressed": 6644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -743,6 +743,11 @@
       "Time": "2023-05-14T02:08:01.7376093+00:00",
       "NumProgressed": 6642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T04:05:59.0146952+00:00",
+      "NumProgressed": 6644,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -977,7 +982,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 6642,
+      "Progressed": 6644,
       "Completed": 0
     }
   ],
@@ -985,8 +990,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:25.2434842+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:05:59.0146945+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:59.8521521+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:58:02.5569698+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:25.2435025+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:58:20.6383418+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:05:59.0147202+00:00"
 }

@@ -11,9 +11,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 1.00% | ~537 |
 | Vecna Out! | 1.00% | ~537 |
 | The Cursed Farmer | 1.00% | ~874 |
-| Beast Intentions | 0.80% | ~699 |
+| Beast Intentions | 0.80% | ~700 |
 | Bully for Vecna | 0.80% | ~430 |
-| The Mad Wizard | 0.80% | ~699 |
+| The Mad Wizard | 0.80% | ~700 |
 | The Ring of Regeneration | 0.70% | ~612 |
 | Were-verpowered | 0.60% | ~525 |
 | Are Ya Chicken? | 0.60% | ~525 |
@@ -109,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Return to the Tomb | 0.20% | ~107 |
 | Arcane Efforts | 0.20% | ~107 |
 | Heatwave | 0.20% | ~107 |
+| To Avernus in a Handbasket | 0.20% | ~107 |
 | Weak Doesn't Mean Feeble | 0.20% | ~107 |
 | Clumsy Doesn't Mean Inept | 0.20% | ~107 |
 | Kas the Bloody Handed | 0.20% | ~107 |
@@ -118,6 +119,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~175 |
 | Anti-Dexterous Explorers | 0.20% | ~175 |
 | The Lost Heir of Omu | 0.20% | ~175 |
+| Not Very Charming | 0.20% | ~175 |
 | Lobsterfolk Assault | 0.20% | ~175 |
 | The Minions of Endelyn Moongrave | 0.20% | ~107 |
 | The Bitter End | 0.20% | ~107 |
@@ -171,6 +173,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flame(skull) War | 0.20% | ~175 |
 | Enter the Sargauth | 0.20% | ~175 |
 | Who Lurks in Lurkwood | 0.20% | ~175 |
+| Orcs Are Wild | 0.20% | ~175 |
 | A Tale of Two Cities | 0.20% | ~175 |
 | A Tale of Two Fiends | 0.20% | ~175 |
 | Slow and Steady | 0.20% | ~175 |
@@ -286,12 +289,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flapjacks and Waffles | 0.10% | ~54 |
 | On the Hunt | 0.10% | ~87 |
 | More Than Well Equipped | 0.10% | ~54 |
-| To Avernus in a Handbasket | 0.10% | ~54 |
 | Clowning Around | 0.10% | ~54 |
 | A Whale of a Time | 0.10% | ~54 |
 | Struggling Toward Omu | 0.10% | ~87 |
 | Wagon Train | 0.10% | ~87 |
-| Not Very Charming | 0.10% | ~87 |
 | Taking Responsibility | 0.10% | ~87 |
 | Between a Brigganock and a Hard Place | 0.10% | ~54 |
 | Love Unsoiled | 0.10% | ~54 |
@@ -359,7 +360,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bullywugs in the Bog | 0.10% | ~87 |
 | Modrons in the Mud | 0.10% | ~87 |
 | And a Pixie in a Pear Treant | 0.10% | ~54 |
-| Orcs Are Wild | 0.10% | ~87 |
 | An Abyssal Situation | 0.10% | ~87 |
 | Dino Nightmare | 0.10% | ~87 |
 | A Familiar Friend | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,436 (Ranked 59)  
-Completed: 1,836 (2.10%) (Ranked 61)  
+Progressed: 87,440 (Ranked 59)  
+Completed: 1,837 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -520,14 +520,14 @@ Completed: 1,836 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,436 | 1,836 |
+| 2023-05-14 | 87,440 | 1,837 |
 ## Awards
-Max (Diverse Characters): 4,877  (Ranked 63)  
-Sum: 29,874 (Ranked 37)  
+Max (Diverse Characters): 4,878  (Ranked 63)  
+Sum: 29,875 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,877 |
+| This game has Diverse Characters | 4,878 |
 | This game is Great for Beginners | 4,820 |
 | This game has Quickly Understood Controls | 4,589 |
 | This game is Relaxing | 4,485 |
@@ -645,4 +645,4 @@ Diff (max vs sum): 26
 | 2023-05-11 | 4.06 | - | 4,874 | 29,859 |
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
 | 2023-05-13 | 4.06 | - | 4,877 | 29,873 |
-| 2023-05-14 | 4.06 | - | 4,877 | 29,874 |
+| 2023-05-14 | 4.06 | - | 4,878 | 29,875 |

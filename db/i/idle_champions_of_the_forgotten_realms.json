@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3632,11 +3632,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 29874,
       "NumberOfAwardsMax": 4877
+    },
+    {
+      "Time": "2023-05-14T03:58:19.1139365+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29875,
+      "NumberOfAwardsMax": 4878
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29874,
-  "NumberOfAwardsMax": 4877,
+  "NumberOfAwards": 29875,
+  "NumberOfAwardsMax": 4878,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3649,7 +3655,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4877
+      "Count": 4878
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3682,10 +3688,10 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87436,
-  "EOS_Completed": 1836,
-  "EOS_NewPlayers": 738,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 87440,
+  "EOS_Completed": 1837,
+  "EOS_NewPlayers": 739,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5822,6 +5828,11 @@
       "Time": "2023-05-14T03:06:08.2278219+00:00",
       "NumProgressed": 87436,
       "NumCompleted": 1836
+    },
+    {
+      "Time": "2023-05-14T04:06:44.2238496+00:00",
+      "NumProgressed": 87440,
+      "NumCompleted": 1837
     }
   ],
   "TotalAchievements": 489,
@@ -6201,7 +6212,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "objective_completed_110",
@@ -6599,9 +6610,9 @@
       "ID": "objective_completed_1179",
       "SetID": "415jc5c",
       "Name": "To Avernus in a Handbasket",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1180",
@@ -6815,9 +6826,9 @@
       "ID": "objective_completed_130",
       "SetID": "cc37lbc",
       "Name": "Not Very Charming",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_131",
@@ -7935,9 +7946,9 @@
       "ID": "objective_completed_433",
       "SetID": "cc37lbc",
       "Name": "Orcs Are Wild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_434",
@@ -8977,7 +8988,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "objective_completed_70",
@@ -9744,21 +9755,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53710,
-      "Completed": 2504
+      "Progressed": 53714,
+      "Completed": 2505
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87436,
-      "Completed": 1836
+      "Progressed": 87440,
+      "Completed": 1837
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-14T02:00:58.6076927+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:06:08.2278215+00:00",
+  "LastChanged": "2023-05-14T03:58:19.1139362+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:06:44.223849+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:58:01.2499879+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:06:08.2299888+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:58:19.1139372+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:06:44.2265983+00:00"
 }

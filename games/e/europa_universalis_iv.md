@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,252 |
-| That's a Grand Army | 8.00% | ~2,890 |
-| That is mine! | 8.00% | ~2,890 |
-| Victorious! | 8.00% | ~2,890 |
-| Brothers in Arms | 6.00% | ~2,168 |
-| That's a Grand Navy | 6.00% | ~2,168 |
-| Seriously?! | 6.00% | ~2,168 |
-| For the Glory | 5.00% | ~1,806 |
-| Cold War | 4.00% | ~1,445 |
-| True Catholic | 4.00% | ~1,445 |
+| Until death do us apart | 9.00% | ~3,253 |
+| That's a Grand Army | 8.00% | ~2,892 |
+| That is mine! | 8.00% | ~2,892 |
+| Victorious! | 8.00% | ~2,892 |
+| Brothers in Arms | 6.00% | ~2,169 |
+| That's a Grand Navy | 6.00% | ~2,169 |
+| Seriously?! | 6.00% | ~2,169 |
+| For the Glory | 5.00% | ~1,807 |
+| Cold War | 4.00% | ~1,446 |
+| True Catholic | 4.00% | ~1,446 |
 | Defender of the Faith | 3.00% | ~1,084 |
 | It's all about the money | 3.00% | ~1,084 |
 | Respected | 3.00% | ~1,084 |
@@ -38,9 +38,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~361 |
 | My armies are invincible! | 1.00% | ~361 |
 | Isn't this the way to India? | 0.80% | ~289 |
-| Market Control | 0.80% | ~289 |
 | The Five Colonies | 0.80% | ~289 |
 | The Emperors new clothes | 0.70% | ~253 |
+| Market Control | 0.70% | ~253 |
 | This navy can take it all | 0.70% | ~253 |
 | Down Under | 0.60% | ~217 |
 | Trustworthy | 0.60% | ~217 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,129 (Ranked 81)  
+Progressed: 36,149 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,10 +385,10 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 34,344 | 0 |
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
-| 2023-05-14 | 36,129 | 0 |
+| 2023-05-14 | 36,149 | 0 |
 ## Awards
 Max (Educational): 5,216  (Ranked 60)  
-Sum: 43,166 (Ranked 27)  
+Sum: 43,167 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -400,7 +400,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 4,861 |
 | This game has Competitive Players | 4,684 |
 | This game has Amazing Storytelling | 4,453 |
-| This game has Amazing Characters | 4,113 |
+| This game has Amazing Characters | 4,114 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -522,4 +522,4 @@ Diff (max vs sum): 33
 | 2023-05-11 | 4.68 | - | 5,206 | 43,064 |
 | 2023-05-12 | 4.68 | - | 5,212 | 43,110 |
 | 2023-05-13 | 4.68 | - | 5,216 | 43,160 |
-| 2023-05-14 | 4.68 | - | 5,216 | 43,166 |
+| 2023-05-14 | 4.68 | - | 5,216 | 43,167 |

@@ -2,20 +2,20 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 920,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.38,
+  "Rating": 3.41,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -52,15 +52,21 @@
       "Rating": 3.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-14T03:58:02.3893581+00:00",
+      "Rating": 3.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1527,
+  "EOS_Progressed": 1528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1133,6 +1139,11 @@
       "Time": "2023-05-14T02:07:59.6182896+00:00",
       "NumProgressed": 1527,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T04:05:56.1759526+00:00",
+      "NumProgressed": 1528,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1160,7 +1171,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "Achievement_004",
@@ -1168,7 +1179,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Achievement_006",
@@ -1192,7 +1203,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "Achievement_009",
@@ -1200,7 +1211,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "Achievement_010",
@@ -1280,7 +1291,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "Achievement_020",
@@ -1344,7 +1355,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "Achievement_028",
@@ -1376,7 +1387,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "Achievement_032",
@@ -1392,7 +1403,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "Achievement_034",
@@ -1406,9 +1417,9 @@
       "ID": "Achievement_035",
       "SetID": "6b34g18",
       "Name": "From the Shadows",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 76
     },
     {
       "ID": "Achievement_036",
@@ -1464,7 +1475,7 @@
       "Name": "Starve the Beast",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Achievement_044",
@@ -1671,16 +1682,16 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1527,
+      "Progressed": 1528,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-05-13T11:57:46.4999243+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:22.6647305+00:00",
+  "LastChanged": "2023-05-14T03:58:02.3893579+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:05:56.1759516+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:57:46.2759188+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:22.6647883+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:58:02.3893589+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:05:56.1760388+00:00"
 }

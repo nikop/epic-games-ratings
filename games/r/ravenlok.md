@@ -42,21 +42,21 @@
 | All Heart | 30.00% | ~188 |
 | Trick Question! | 30.00% | ~188 |
 | Soul Slayer | 29.00% | ~181 |
+| The Downfall | 29.00% | ~181 |
 | Final Showdown | 29.00% | ~181 |
-| The Downfall | 28.00% | ~175 |
+| Spot of Tea? | 29.00% | ~181 |
+| Going Home | 29.00% | ~181 |
 | Extraordinary! | 28.00% | ~175 |
-| Spot of Tea? | 28.00% | ~175 |
-| Going Home | 28.00% | ~175 |
 | Mirror, Mirror | 27.00% | ~169 |
 | Flower Power | 24.00% | ~150 |
+| Shopping Spree! | 21.00% | ~131 |
 | Crowned | 21.00% | ~131 |
-| Shopping Spree! | 20.00% | ~125 |
 | Max Level! | 13.00% | ~81 |
 | Dance Master | 8.00% | ~50 |
 | Bombs Away! | 8.00% | ~50 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 625 (Ranked 182)  
-Completed: 42 (6.72%) (Ranked 24)  
+Completed: 43 (6.88%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,7 +77,7 @@ Completed: 42 (6.72%) (Ranked 24)
 | 2023-05-11 | 595 | 38 |
 | 2023-05-12 | 616 | 39 |
 | 2023-05-13 | 624 | 42 |
-| 2023-05-14 | 625 | 42 |
+| 2023-05-14 | 625 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

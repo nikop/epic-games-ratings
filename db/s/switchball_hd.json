@@ -2,10 +2,10 @@
   "ID": "73c5297403d440f69cc7418a75df293d",
   "Name": "Switchball HD",
   "ProductSlug": "switchball-hd-6d3802",
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
     "PcReleaseDate": "2021-05-17T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -99,6 +99,11 @@
       "Time": "2023-05-14T02:07:46.1525615+00:00",
       "NumProgressed": 20,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T04:05:38.0275432+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -116,15 +121,15 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -132,7 +137,7 @@
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Powerball Badge",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -156,9 +161,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -181,13 +186,13 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 21,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:05.6897006+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:05:38.0275422+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:57:07.7841617+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:05.6897066+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:57:20.8360793+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:05:38.0275535+00:00"
 }

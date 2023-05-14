@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3484,
+  "EOS_Progressed": 3485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1108,6 +1108,11 @@
       "Time": "2023-05-14T00:06:14.1564696+00:00",
       "NumProgressed": 3484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T04:06:26.3559941+00:00",
+      "NumProgressed": 3485,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1135,7 +1140,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1143,7 +1148,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -1151,7 +1156,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -1231,7 +1236,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -1398,13 +1403,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3484,
+      "Progressed": 3485,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2856,
+      "Progressed": 2857,
       "Completed": 112
     }
   ],
@@ -1412,8 +1417,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:51.0944064+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:06:26.3559934+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.4232926+00:00",
-  "LastUpdate_Ratings": "2023-05-14T03:00:04.4008151+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:51.0944299+00:00"
+  "LastUpdate_Ratings": "2023-05-14T04:00:32.8130939+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:06:26.3560273+00:00"
 }

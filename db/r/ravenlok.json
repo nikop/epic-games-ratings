@@ -3,7 +3,7 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 625,
-  "EOS_Completed": 42,
+  "EOS_Completed": 43,
   "EOS_NewPlayers": 191,
-  "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 6.72,
+  "EOS_NewCompleters": 25,
+  "EOS_Completed_Percentage": 6.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1082,6 +1082,11 @@
       "Time": "2023-05-14T02:07:52.1067805+00:00",
       "NumProgressed": 625,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-05-14T04:05:46.202777+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 50,
@@ -1155,9 +1160,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 175
+      "UsersEstimate": 181
     },
     {
       "ID": "18",
@@ -1379,9 +1384,9 @@
       "ID": "42",
       "SetID": "d0g98p",
       "Name": "Shopping Spree!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 131
     },
     {
       "ID": "43",
@@ -1451,17 +1456,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 181
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 175
+      "UsersEstimate": 181
     },
     {
       "ID": "7",
@@ -1493,15 +1498,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 625,
-      "Completed": 42
+      "Completed": 43
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:13.3940915+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:05:46.2027763+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:57:21.7090421+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:13.3941315+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:57:36.0774008+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:05:46.2028264+00:00"
 }

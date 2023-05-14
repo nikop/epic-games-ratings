@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 711,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -459,6 +459,11 @@
       "Time": "2023-05-14T03:05:18.3858297+00:00",
       "NumProgressed": 710,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-14T04:05:51.8300058+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -470,7 +475,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -518,7 +523,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -588,9 +593,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -598,7 +603,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -638,7 +643,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -694,7 +699,7 @@
       "Name": "Resourceful",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -708,9 +713,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -724,9 +729,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -838,7 +843,7 @@
       "Name": "Taking it back",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -934,7 +939,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -1013,13 +1018,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 661,
+      "Progressed": 662,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 711,
       "Completed": 2
     }
   ],
@@ -1027,8 +1032,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:18.3858293+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:05:51.8300051+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-14T03:00:50.9640054+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:18.3858851+00:00"
+  "LastUpdate_Ratings": "2023-05-14T04:01:25.6971946+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:05:51.8300925+00:00"
 }

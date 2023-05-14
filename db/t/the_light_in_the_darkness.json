@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 1256,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 7.8,
   "EosHistory": [
@@ -1073,9 +1073,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 264
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1162,8 +1162,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:44.0727867+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:06:18.8008944+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:59:48.8291514+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:44.0727986+00:00"
+  "LastUpdate_Ratings": "2023-05-14T04:00:16.2360653+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:06:18.8009117+00:00"
 }

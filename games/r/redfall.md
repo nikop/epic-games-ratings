@@ -1,23 +1,23 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.38 (Ranked 920)  
+Rating: 3.41 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 82.00% | ~1,252 |
-| Home Is Where the Heart Is | 64.00% | ~977 |
-| Wounded Whispers | 64.00% | ~977 |
-| Ne Plus Ultra | 63.00% | ~962 |
-| Blood Will Have Blood | 52.00% | ~794 |
+| I Like My Stakes Rare! | 82.00% | ~1,253 |
+| Home Is Where the Heart Is | 64.00% | ~978 |
+| Wounded Whispers | 64.00% | ~978 |
+| Ne Plus Ultra | 63.00% | ~963 |
+| Blood Will Have Blood | 52.00% | ~795 |
 | ICU | 48.00% | ~733 |
 | Catch and Release | 47.00% | ~718 |
-| Peek-a-boo | 46.00% | ~702 |
-| Sucks To Be You | 45.00% | ~687 |
+| Peek-a-boo | 46.00% | ~703 |
+| Sucks To Be You | 45.00% | ~688 |
 | Welcome to the Neighborhood | 39.00% | ~596 |
 | Fly Fisher | 37.00% | ~565 |
 | Throw The First Stone | 36.00% | ~550 |
-| Enter of Your Own Free Will | 34.00% | ~519 |
+| Enter of Your Own Free Will | 34.00% | ~520 |
 | Heart Attack | 33.00% | ~504 |
 | Skin of Their Teeth | 33.00% | ~504 |
 | Grounded | 25.00% | ~382 |
@@ -27,9 +27,9 @@ Rating: 3.38 (Ranked 920)
 | Radio Silence | 16.00% | ~244 |
 | Helping Hand | 13.00% | ~199 |
 | You Clean It Up | 11.00% | ~168 |
-| Starve the Beast | 9.00% | ~137 |
+| Starve the Beast | 9.00% | ~138 |
 | Block Party | 8.00% | ~122 |
-| From the Shadows | 6.00% | ~92 |
+| From the Shadows | 5.00% | ~76 |
 | Bell-ringer | 4.00% | ~61 |
 | Right This Way | 4.00% | ~61 |
 | Nice Try | 4.00% | ~61 |
@@ -72,7 +72,7 @@ Rating: 3.38 (Ranked 920)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,527 (Ranked 151)  
+Progressed: 1,528 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 1,503 | 0 |
 | 2023-05-12 | 1,512 | 0 |
 | 2023-05-13 | 1,526 | 0 |
-| 2023-05-14 | 1,527 | 0 |
+| 2023-05-14 | 1,528 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -99,3 +99,4 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-09 | 3.30 | 0 | 0 |
 | 2023-05-10 | 3.33 | 0 | 0 |
 | 2023-05-13 | 3.38 | 0 | 0 |
+| 2023-05-14 | 3.41 | 0 | 0 |

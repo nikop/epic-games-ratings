@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -3993,9 +3993,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49758,
+  "EOS_Progressed": 49760,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6058,6 +6058,11 @@
       "Time": "2023-05-14T03:05:57.3661395+00:00",
       "NumProgressed": 49758,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T04:06:33.1158078+00:00",
+      "NumProgressed": 49760,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6301,7 +6306,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17415
+      "UsersEstimate": 17416
     },
     {
       "ID": "Lawmaker",
@@ -6309,7 +6314,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10449
+      "UsersEstimate": 10450
     },
     {
       "ID": "Long live the Empire",
@@ -6325,7 +6330,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "Minor Clan",
@@ -6421,7 +6426,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7961
+      "UsersEstimate": 7962
     },
     {
       "ID": "This Is Our Land",
@@ -6476,15 +6481,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49758,
+      "Progressed": 49760,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-13T17:59:57.313345+00:00",
-  "LastChanged_Achievements": "2023-05-14T03:05:57.3661391+00:00",
+  "LastChanged_Achievements": "2023-05-14T04:06:33.1158071+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:59:56.5026826+00:00",
-  "LastUpdate_Achievements": "2023-05-14T03:05:57.3661801+00:00"
+  "LastUpdate_Ratings": "2023-05-14T04:00:24.5906225+00:00",
+  "LastUpdate_Achievements": "2023-05-14T04:06:33.1158723+00:00"
 }

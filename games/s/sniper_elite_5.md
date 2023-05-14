@@ -6,25 +6,25 @@ Rating: 4.38 (Ranked 689)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 36.00% | ~256 |
-| Confirming Suspicions | 32.00% | ~227 |
+| Confirming Suspicions | 32.00% | ~228 |
 | The Kraken Wakes | 29.00% | ~206 |
 | It's Starting to Crack | 28.00% | ~199 |
 | Lord of War | 25.00% | ~178 |
 | Change the Channel | 25.00% | ~178 |
-| Resourceful | 23.00% | ~163 |
-| Taking it back | 23.00% | ~163 |
+| Resourceful | 23.00% | ~164 |
+| Taking it back | 23.00% | ~164 |
 | Organ Grinder | 22.00% | ~156 |
 | Sharpshooter | 21.00% | ~149 |
 | Target America | 21.00% | ~149 |
-| As Quiet as a Mouse | 19.00% | ~135 |
+| As Quiet as a Mouse | 20.00% | ~142 |
 | The Kraken Sleeps | 19.00% | ~135 |
 | Liberté | 17.00% | ~121 |
 | Explosive Efficiency | 16.00% | ~114 |
-| Gunslinger | 15.00% | ~106 |
-| Close Quarters | 15.00% | ~106 |
-| Climbing the Ladder | 14.00% | ~99 |
-| Fields of Glory | 14.00% | ~99 |
-| Skirmisher | 14.00% | ~99 |
+| Climbing the Ladder | 14.00% | ~100 |
+| Fields of Glory | 14.00% | ~100 |
+| Gunslinger | 14.00% | ~100 |
+| Skirmisher | 14.00% | ~100 |
+| Close Quarters | 14.00% | ~100 |
 | Just a Flesh Wound | 13.00% | ~92 |
 | Der Geist | 13.00% | ~92 |
 | Snake in the Grass | 13.00% | ~92 |
@@ -35,7 +35,7 @@ Rating: 4.38 (Ranked 689)
 | No Stone Unturned | 11.00% | ~78 |
 | Opposing Force | 11.00% | ~78 |
 | My Little Friend | 9.00% | ~64 |
-| Herr Today, Gone Tomorrow | 9.00% | ~59 |
+| Herr Today, Gone Tomorrow | 9.00% | ~60 |
 | Precision Is Key | 8.00% | ~57 |
 | Rigged to Blow | 8.00% | ~57 |
 | Operation Foxley | 8.00% | ~53 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710 (Ranked 176)  
+Progressed: 711 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-11 | 701 | 2 |
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
-| 2023-05-14 | 710 | 2 |
+| 2023-05-14 | 711 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
