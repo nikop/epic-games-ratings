@@ -3,6 +3,7 @@
 | [Georifters](games/g/georifters.md) | 2023-05-14 | 2020-05-28 |
 | [Flyto](games/f/flyto.md) | 2023-05-15 | 2023-05-15 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-15 | 2023-01-14 |
+| [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-15 | 2023-05-15 |
 | [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
@@ -41,7 +42,6 @@
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | 2023-05-31 |
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
-| [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-31 | 2023-05-31 |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-31 | 2016-12-14 |
 | [The Cullfield Ritual](games/t/the_cullfield_ritual.md) | 2023-05-31 | 2023-01-05 |
 | [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-31 | 2023-05-14 |

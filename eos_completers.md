@@ -59,8 +59,8 @@
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
-| 60 | [Them and Us](games/t/them_and_us.md) | 2.17% |
-| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
+| 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
+| 61 | [Them and Us](games/t/them_and_us.md) | 2.08% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 63 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -77,9 +77,9 @@
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 75 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.32% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
-| 78 | [Chorus](games/c/chorus.md) | 1.28% |
 | 78 | [Trifox](games/t/trifox.md) | 1.28% |
-| 80 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
+| 79 | [Chorus](games/c/chorus.md) | 1.27% |
+| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.22% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.18% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.17% |
@@ -101,11 +101,11 @@
 | 98 | [Haven](games/h/haven.md) | 0.71% |
 | 100 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 101 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
-| 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 105 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
+| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 108 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
