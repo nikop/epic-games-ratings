@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.50% | ~437 |
 | Pure Energy | 0.50% | ~437 |
 | Maddening | 0.40% | ~350 |
+| Owlbear Necessities | 0.40% | ~215 |
 | Best Thay Ever | 0.40% | ~215 |
 | The Sanctum of the Sword | 0.40% | ~215 |
 | Get Back In The Castle | 0.40% | ~215 |
@@ -35,7 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.40% | ~350 |
 | Escort to Waterdeep | 0.40% | ~350 |
 | The Silken Swamp | 0.30% | ~262 |
-| Owlbear Necessities | 0.30% | ~161 |
+| Supply Run | 0.30% | ~262 |
 | Keep Your Distance | 0.30% | ~161 |
 | Hands Off! | 0.30% | ~161 |
 | The Dread Domain of Tovag | 0.30% | ~161 |
@@ -93,7 +94,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.20% | ~107 |
 | The Roots of Loomlurch | 0.20% | ~107 |
 | The Lutes of Loomlurch | 0.20% | ~107 |
-| Supply Run | 0.20% | ~175 |
 | The Howling Peaks of Yon | 0.20% | ~107 |
 | The Invisible Wizards of Thay | 0.20% | ~107 |
 | Heavy Burden | 0.20% | ~175 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,444 (Ranked 59)  
-Completed: 1,837 (2.10%) (Ranked 61)  
+Progressed: 87,449 (Ranked 59)  
+Completed: 1,839 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -520,7 +520,7 @@ Completed: 1,837 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,444 | 1,837 |
+| 2023-05-14 | 87,449 | 1,839 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,876 (Ranked 37)  

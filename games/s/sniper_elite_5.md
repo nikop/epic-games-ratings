@@ -16,8 +16,8 @@ Rating: 4.38 (Ranked 689)
 | Organ Grinder | 22.00% | ~157 |
 | Sharpshooter | 21.00% | ~150 |
 | Target America | 21.00% | ~150 |
-| As Quiet as a Mouse | 19.00% | ~135 |
-| The Kraken Sleeps | 19.00% | ~135 |
+| As Quiet as a Mouse | 19.00% | ~136 |
+| The Kraken Sleeps | 19.00% | ~136 |
 | Liberté | 17.00% | ~121 |
 | Explosive Efficiency | 16.00% | ~114 |
 | Climbing the Ladder | 14.00% | ~100 |
@@ -32,14 +32,14 @@ Rating: 4.38 (Ranked 689)
 | Set Europe Ablaze | 12.00% | ~86 |
 | Die Nussknacker Sweet! | 12.00% | ~86 |
 | Brains of the Operation | 12.00% | ~86 |
-| No Stone Unturned | 11.00% | ~78 |
-| Opposing Force | 11.00% | ~78 |
+| No Stone Unturned | 11.00% | ~79 |
+| Opposing Force | 11.00% | ~79 |
 | My Little Friend | 9.00% | ~64 |
 | Herr Today, Gone Tomorrow | 9.00% | ~60 |
 | Precision Is Key | 8.00% | ~57 |
 | Rigged to Blow | 8.00% | ~57 |
 | Operation Foxley | 8.00% | ~53 |
-| Last Resort | 7.00% | ~46 |
+| Last Resort | 7.00% | ~47 |
 | Ghost of Falaise | 6.00% | ~40 |
 | The Long Game | 5.00% | ~36 |
 | Siegebreaker | 5.00% | ~33 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713 (Ranked 176)  
+Progressed: 714 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-11 | 701 | 2 |
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
-| 2023-05-14 | 713 | 2 |
+| 2023-05-14 | 714 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

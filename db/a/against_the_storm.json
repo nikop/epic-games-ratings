@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2258,7 +2258,7 @@
       "Count": 303
     }
   ],
-  "EOS_Progressed": 14800,
+  "EOS_Progressed": 14801,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -3443,6 +3443,11 @@
       "Time": "2023-05-14T04:06:36.6405477+00:00",
       "NumProgressed": 14800,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-14T07:06:48.7621526+00:00",
+      "NumProgressed": 14801,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3556,9 +3561,9 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "WinNearArmory",
@@ -3572,9 +3577,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearBarren",
@@ -3676,9 +3681,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearStatue",
@@ -3853,15 +3858,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14800,
+      "Progressed": 14801,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-13T13:02:57.3510292+00:00",
-  "LastChanged_Achievements": "2023-05-14T06:05:11.3877401+00:00",
+  "LastChanged_Achievements": "2023-05-14T07:06:48.762152+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:59:17.3912664+00:00",
-  "LastUpdate_Achievements": "2023-05-14T06:05:11.3877875+00:00"
+  "LastUpdate_Ratings": "2023-05-14T07:01:00.8891647+00:00",
+  "LastUpdate_Achievements": "2023-05-14T07:06:48.762217+00:00"
 }

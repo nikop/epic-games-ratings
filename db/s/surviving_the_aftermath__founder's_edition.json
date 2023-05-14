@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -983,7 +983,7 @@
   ],
   "EOS_Progressed": 5251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3193,9 +3193,9 @@
       "ID": "7",
       "SetID": "8idi9ml",
       "Name": "Survivor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1680
     },
     {
       "ID": "8",
@@ -3225,8 +3225,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-14T06:05:09.5481141+00:00",
+  "LastChanged_Achievements": "2023-05-14T07:06:46.664414+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:59:12.9922363+00:00",
-  "LastUpdate_Achievements": "2023-05-14T06:05:09.5481781+00:00"
+  "LastUpdate_Ratings": "2023-05-14T07:00:54.7261841+00:00",
+  "LastUpdate_Achievements": "2023-05-14T07:06:46.6644699+00:00"
 }

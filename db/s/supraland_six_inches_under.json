@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -337,11 +337,11 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 2005,
+  "EOS_Progressed": 2006,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 12.02,
+  "EOS_Completed_Percentage": 12.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.4001279+00:00",
@@ -522,6 +522,11 @@
       "Time": "2023-05-13T22:06:49.5297253+00:00",
       "NumProgressed": 2005,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-05-14T07:06:52.896578+00:00",
+      "NumProgressed": 2006,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 53,
@@ -533,7 +538,7 @@
       "Name": "You feel middle classy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "AllChests",
@@ -549,7 +554,7 @@
       "Name": "Industrial Area",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "Area3",
@@ -557,7 +562,7 @@
       "Name": "Banking District",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "Area4",
@@ -565,7 +570,7 @@
       "Name": "Beat the big arena",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "Arrested",
@@ -573,7 +578,7 @@
       "Name": "Arrested",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "Beam",
@@ -581,7 +586,7 @@
       "Name": "Force Beam",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "BenCave",
@@ -589,15 +594,15 @@
       "Name": "Played with fire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "BoomerAxe",
       "SetID": "5lok9mm",
       "Name": "Boomeraxe",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1725
     },
     {
       "ID": "BossBeaten",
@@ -605,7 +610,7 @@
       "Name": "Inner Peace",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "Detector",
@@ -621,7 +626,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "ElasticBeam",
@@ -629,7 +634,7 @@
       "Name": "Bouncy",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ElectricGun",
@@ -637,7 +642,7 @@
       "Name": "Zappy Gun",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "EnterTown",
@@ -645,7 +650,7 @@
       "Name": "Entered Cage Town",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "Escape",
@@ -653,7 +658,7 @@
       "Name": "You\u0027re unsure if you broke the game or not",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "FireGun",
@@ -677,7 +682,7 @@
       "Name": "Force Cube",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "FullyEngaged",
@@ -693,7 +698,7 @@
       "Name": "Got your own one now",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "GoodMorning",
@@ -701,7 +706,7 @@
       "Name": "Good Morning",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "GotBattery",
@@ -709,7 +714,7 @@
       "Name": "Got Battery",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "Greenhouse",
@@ -725,7 +730,7 @@
       "Name": "Guard Distracted",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "HighJump",
@@ -733,7 +738,7 @@
       "Name": "High Jump",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "HotGuy",
@@ -749,7 +754,7 @@
       "Name": "Knee bending",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "Magnet",
@@ -757,7 +762,7 @@
       "Name": "Magnet",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "MagnetRepel",
@@ -765,7 +770,7 @@
       "Name": "Magnet Repel",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "Map",
@@ -773,7 +778,7 @@
       "Name": "Don\u0027t draw dicks pls",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "MissionUnlikely",
@@ -781,7 +786,7 @@
       "Name": "Mission Unlikely",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "Momentum",
@@ -789,7 +794,7 @@
       "Name": "Momentum",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "NoMatch",
@@ -797,7 +802,7 @@
       "Name": "No Match for you",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "PickaxeDiamond",
@@ -805,7 +810,7 @@
       "Name": "Diamond Pickaxe",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "PickaxeGuy",
@@ -813,7 +818,7 @@
       "Name": "You feel very sorry",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "PickaxeIron",
@@ -821,7 +826,7 @@
       "Name": "Iron Pickaxe",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "PickaxeStone",
@@ -829,7 +834,7 @@
       "Name": "Stone Pickaxe",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "PickaxeWood",
@@ -837,7 +842,7 @@
       "Name": "Pickaxe",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "Plumbster",
@@ -845,7 +850,7 @@
       "Name": "Plumbster",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "Race",
@@ -853,7 +858,7 @@
       "Name": "Faster",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "Revenge",
@@ -861,7 +866,7 @@
       "Name": "Revenge",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "RocketLaunched",
@@ -869,7 +874,7 @@
       "Name": "Rocket Launched",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "SecretInSecretInSecret",
@@ -885,7 +890,7 @@
       "Name": "Cage Town",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "Speed",
@@ -893,7 +898,7 @@
       "Name": "Speed",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "Strength",
@@ -901,7 +906,7 @@
       "Name": "Ripped",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "Surprise",
@@ -909,7 +914,7 @@
       "Name": "Surprise",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "TownArena",
@@ -917,7 +922,7 @@
       "Name": "Killed them all",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "TransShotForce",
@@ -933,7 +938,7 @@
       "Name": "Translocator",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "TrickleDown",
@@ -941,7 +946,7 @@
       "Name": "Trickle Down Economy",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "Win",
@@ -956,15 +961,15 @@
     {
       "ID": "5lok9mm",
       "IsBase": true,
-      "Progressed": 2005,
+      "Progressed": 2006,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-14T06:05:14.978043+00:00",
+  "LastChanged_Achievements": "2023-05-14T07:06:52.8965774+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:59.1604031+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:59:20.8953638+00:00",
-  "LastUpdate_Achievements": "2023-05-14T06:05:14.9780879+00:00"
+  "LastUpdate_Ratings": "2023-05-14T07:01:06.4193666+00:00",
+  "LastUpdate_Achievements": "2023-05-14T07:06:52.896626+00:00"
 }

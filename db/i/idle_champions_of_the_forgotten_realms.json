@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3694,10 +3694,10 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87444,
-  "EOS_Completed": 1837,
-  "EOS_NewPlayers": 736,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 87449,
+  "EOS_Completed": 1839,
+  "EOS_NewPlayers": 733,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5849,6 +5849,11 @@
       "Time": "2023-05-14T06:05:17.614403+00:00",
       "NumProgressed": 87444,
       "NumCompleted": 1837
+    },
+    {
+      "Time": "2023-05-14T07:06:55.7242732+00:00",
+      "NumProgressed": 87449,
+      "NumCompleted": 1839
     }
   ],
   "TotalAchievements": 489,
@@ -6418,9 +6423,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_1142",
@@ -6498,9 +6503,9 @@
       "ID": "objective_completed_1154",
       "SetID": "415jc5c",
       "Name": "Owlbear Necessities",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_completed_1158",
@@ -9771,21 +9776,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53718,
+      "Progressed": 53723,
       "Completed": 2505
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87444,
-      "Completed": 1837
+      "Progressed": 87449,
+      "Completed": 1839
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T05:57:43.2647561+00:00",
-  "LastChanged_Achievements": "2023-05-14T06:05:17.6144025+00:00",
+  "LastChanged_Achievements": "2023-05-14T07:06:55.7242727+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:57:43.2647567+00:00",
-  "LastUpdate_Achievements": "2023-05-14T06:05:17.6168653+00:00"
+  "LastUpdate_Ratings": "2023-05-14T06:58:59.2315214+00:00",
+  "LastUpdate_Achievements": "2023-05-14T07:06:55.7269024+00:00"
 }

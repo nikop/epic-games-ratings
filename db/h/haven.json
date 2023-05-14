@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1119,
+  "EOS_Progressed": 1120,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -303,6 +303,11 @@
       "Time": "2023-05-12T21:05:34.9909435+00:00",
       "NumProgressed": 1119,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-14T07:06:38.8621715+00:00",
+      "NumProgressed": 1120,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -338,7 +343,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "13",
@@ -362,7 +367,7 @@
       "Name": "Back to rust",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "16",
@@ -378,7 +383,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "18",
@@ -402,7 +407,7 @@
       "Name": "Flower Powered",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "20",
@@ -410,7 +415,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "21",
@@ -442,7 +447,7 @@
       "Name": "In my shoes",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "25",
@@ -522,7 +527,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "7",
@@ -553,15 +558,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1119,
+      "Progressed": 1120,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-14T06:05:02.6754576+00:00",
+  "LastChanged_Achievements": "2023-05-14T07:06:38.8621709+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:27.7554539+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:58:55.6749989+00:00",
-  "LastUpdate_Achievements": "2023-05-14T06:05:02.6755048+00:00"
+  "LastUpdate_Ratings": "2023-05-14T07:00:32.1074681+00:00",
+  "LastUpdate_Achievements": "2023-05-14T07:06:38.8621956+00:00"
 }

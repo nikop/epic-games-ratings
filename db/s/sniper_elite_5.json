@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 713,
+  "EOS_Progressed": 714,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2023-05-14T05:05:45.7814581+00:00",
       "NumProgressed": 713,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-14T07:06:10.2597863+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -504,7 +509,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -512,7 +517,7 @@
       "Name": "Opposing Force",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -720,7 +725,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -888,7 +893,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -968,7 +973,7 @@
       "Name": "Last Resort",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1023,13 +1028,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 713,
+      "Progressed": 714,
       "Completed": 2
     }
   ],
@@ -1037,8 +1042,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-14T06:04:38.3187494+00:00",
+  "LastChanged_Achievements": "2023-05-14T07:06:10.2597857+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:59:43.1273291+00:00",
-  "LastUpdate_Achievements": "2023-05-14T06:04:38.3188124+00:00"
+  "LastUpdate_Ratings": "2023-05-14T07:01:33.0089756+00:00",
+  "LastUpdate_Achievements": "2023-05-14T07:06:10.259848+00:00"
 }

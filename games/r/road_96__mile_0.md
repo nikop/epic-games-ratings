@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BBFF (Best Brigade Friend Forever) | 63.00% | ~95 |
+| BBFF (Best Brigade Friend Forever) | 64.00% | ~97 |
 | Conspiracy Theorist | 53.00% | ~80 |
 | On the Road | 50.00% | ~76 |
 | Souvenirs | 36.00% | ~54 |
@@ -14,7 +14,7 @@
 | 86's Nightmare | 14.00% | ~21 |
 | Partners in Crime | 13.00% | ~20 |
 | Friendzone | 13.00% | ~20 |
-| Freedom | 11.00% | ~17 |
+| Freedom | 12.00% | ~18 |
 | Attack on Tyran | 10.00% | ~15 |
 | The Eye of the Storm | 8.00% | ~12 |
 | Song Harvester | 3.00% | ~5 |

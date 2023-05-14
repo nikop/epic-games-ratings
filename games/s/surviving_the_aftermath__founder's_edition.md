@@ -18,7 +18,7 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Explorer | 33.00% | ~1,733 |
 | Energized | 33.00% | ~1,733 |
 | The Long Haul | 33.00% | ~1,733 |
-| Survivor | 31.00% | ~1,628 |
+| Survivor | 32.00% | ~1,680 |
 | The Great Healer | 30.00% | ~1,575 |
 | Cleaner | 28.00% | ~1,470 |
 | Catastrofan | 28.00% | ~1,470 |

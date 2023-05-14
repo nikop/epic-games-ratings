@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1369,10 +1369,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2361,
       "NumberOfAwardsMax": 773
+    },
+    {
+      "Time": "2023-05-14T07:00:49.3905972+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2362,
+      "NumberOfAwardsMax": 773
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2361,
+  "NumberOfAwards": 2362,
   "NumberOfAwardsMax": 773,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1422,7 +1428,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 192
+      "Count": 193
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1449,9 +1455,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42265,
+  "EOS_Progressed": 42266,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1949,6 +1955,11 @@
       "Time": "2023-05-14T05:06:33.7543722+00:00",
       "NumProgressed": 42265,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-14T07:06:52.3191129+00:00",
+      "NumProgressed": 42266,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -1960,7 +1971,7 @@
       "Name": "Groovy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 25359
+      "UsersEstimate": 25360
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2000,7 +2011,7 @@
       "Name": "Bad Blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6762
+      "UsersEstimate": 6763
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -2152,7 +2163,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26204
+      "UsersEstimate": 26205
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2168,7 +2179,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 13947
+      "UsersEstimate": 13948
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -2208,7 +2219,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20287
+      "UsersEstimate": 20288
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -2232,7 +2243,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9299
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -2248,7 +2259,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15216
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -2264,7 +2275,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21132
+      "UsersEstimate": 21133
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -2280,7 +2291,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15216
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -2288,7 +2299,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28740
+      "UsersEstimate": 28741
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2320,7 +2331,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23668
+      "UsersEstimate": 23669
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2336,7 +2347,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15216
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -2360,7 +2371,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27472
+      "UsersEstimate": 27473
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2416,7 +2427,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27472
+      "UsersEstimate": 27473
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -2456,7 +2467,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9299
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -2480,22 +2491,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15216
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42265,
+      "Progressed": 42266,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-05-13T16:59:49.6612709+00:00",
-  "LastChanged_Achievements": "2023-05-14T06:05:14.4716193+00:00",
+  "LastChanged": "2023-05-14T07:00:49.390597+00:00",
+  "LastChanged_Achievements": "2023-05-14T07:06:52.3191122+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.0993815+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:59:08.5942761+00:00",
-  "LastUpdate_Achievements": "2023-05-14T06:05:14.4716801+00:00"
+  "LastUpdate_Ratings": "2023-05-14T07:00:49.3905978+00:00",
+  "LastUpdate_Achievements": "2023-05-14T07:06:52.3191825+00:00"
 }

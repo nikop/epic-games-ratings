@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -1404,9 +1404,9 @@
       "ID": "19",
       "SetID": "9p3jgda",
       "Name": "DEFEAT OUR CHAMPION",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 85,
-      "UsersEstimate": 220
+      "UsersEstimate": 244
     },
     {
       "ID": "2",
@@ -1522,8 +1522,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-14T06:04:50.0636211+00:00",
+  "LastChanged_Achievements": "2023-05-14T07:06:24.1313482+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:58:24.864586+00:00",
-  "LastUpdate_Achievements": "2023-05-14T06:04:50.0636462+00:00"
+  "LastUpdate_Ratings": "2023-05-14T06:59:52.2974801+00:00",
+  "LastUpdate_Achievements": "2023-05-14T07:06:24.1313763+00:00"
 }
