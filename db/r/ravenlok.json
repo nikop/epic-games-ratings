@@ -29,8 +29,8 @@
   "Tags": [],
   "EOS_Progressed": 628,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 170,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 166,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
     {
@@ -1247,9 +1247,9 @@
       "ID": "25",
       "SetID": "d0g98p",
       "Name": "Trick Question!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 195
     },
     {
       "ID": "26",
@@ -1303,9 +1303,9 @@
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 301
     },
     {
       "ID": "32",
@@ -1520,8 +1520,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-14T15:04:59.3938231+00:00",
+  "LastChanged_Achievements": "2023-05-14T16:04:23.060509+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-14T14:57:29.7936641+00:00",
-  "LastUpdate_Achievements": "2023-05-14T15:04:59.3938575+00:00"
+  "LastUpdate_Ratings": "2023-05-14T15:57:14.007189+00:00",
+  "LastUpdate_Achievements": "2023-05-14T16:04:23.0605559+00:00"
 }

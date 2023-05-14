@@ -2260,7 +2260,7 @@
   ],
   "EOS_Progressed": 14808,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3472,9 +3472,9 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "AllFood",
@@ -3880,8 +3880,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-13T13:02:57.3510292+00:00",
-  "LastChanged_Achievements": "2023-05-14T15:05:38.0656554+00:00",
+  "LastChanged_Achievements": "2023-05-14T16:04:59.4510204+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-14T14:59:36.7389437+00:00",
-  "LastUpdate_Achievements": "2023-05-14T15:05:38.0656991+00:00"
+  "LastUpdate_Ratings": "2023-05-14T15:59:17.5474428+00:00",
+  "LastUpdate_Achievements": "2023-05-14T16:04:59.4510649+00:00"
 }

@@ -29,12 +29,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 0.60% | ~89 |
 | Corrosive Torrent | 0.60% | ~89 |
 | A Real Challenge | 0.60% | ~89 |
+| Serving Ale | 0.50% | ~74 |
 | Refinery | 0.50% | ~74 |
 | Against All Odds | 0.50% | ~74 |
 | Haunted Forest | 0.50% | ~74 |
 | Levitating Monument | 0.50% | ~74 |
 | Watchtower | 0.50% | ~74 |
-| Serving Ale | 0.40% | ~59 |
 | Forbidden Lands | 0.40% | ~59 |
 | Statue of the Forefathers | 0.40% | ~59 |
 | Forsaken Gods Temple | 0.40% | ~59 |

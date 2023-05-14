@@ -626,9 +626,9 @@
       "ID": "completedStory_ecthis",
       "SetID": "95dc8p",
       "Name": "Everfading",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 70
     },
     {
       "ID": "completedStory_enduringWar",
@@ -642,9 +642,9 @@
       "ID": "completedStory_legacy",
       "SetID": "95dc8p",
       "Name": "Another Tale to Tell",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 70
     },
     {
       "ID": "completedStory_monarchs",
@@ -850,8 +850,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-14T15:05:08.6209314+00:00",
+  "LastChanged_Achievements": "2023-05-14T16:04:31.792235+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.1630654+00:00",
-  "LastUpdate_Ratings": "2023-05-14T15:00:05.4367958+00:00",
-  "LastUpdate_Achievements": "2023-05-14T15:05:08.620971+00:00"
+  "LastUpdate_Ratings": "2023-05-14T15:59:45.6306048+00:00",
+  "LastUpdate_Achievements": "2023-05-14T16:04:31.7922926+00:00"
 }

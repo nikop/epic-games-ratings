@@ -20,7 +20,7 @@
 | Back In The Saddle | 52.00% | ~77 |
 | Gaze Into The Abyss | 51.00% | ~75 |
 | No Man Is An Island | 51.00% | ~75 |
-| At Wits' End | 48.00% | ~71 |
+| At Wits' End | 49.00% | ~73 |
 | Bookworm | 46.00% | ~68 |
 | Fhtagn! | 45.00% | ~67 |
 | Up In Flames | 44.00% | ~65 |

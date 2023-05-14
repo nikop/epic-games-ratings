@@ -14,7 +14,7 @@
 | Fun Guy | 61.00% | ~383 |
 | Tragic Brave | 52.00% | ~327 |
 | Awakened Spirits | 49.00% | ~308 |
-| Little Shop | 47.00% | ~295 |
+| Little Shop | 48.00% | ~301 |
 | Surprise! | 43.00% | ~270 |
 | An Actor! | 43.00% | ~270 |
 | Curtain Call | 42.00% | ~264 |
@@ -38,9 +38,9 @@
 | Stardust | 32.00% | ~201 |
 | Heartbreaker | 32.00% | ~201 |
 | Kidnapped! | 32.00% | ~201 |
+| Trick Question! | 31.00% | ~195 |
 | Pull the Plug | 30.00% | ~188 |
 | All Heart | 30.00% | ~188 |
-| Trick Question! | 30.00% | ~188 |
 | Soul Slayer | 29.00% | ~182 |
 | The Downfall | 29.00% | ~182 |
 | Extraordinary! | 29.00% | ~182 |

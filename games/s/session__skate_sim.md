@@ -39,9 +39,9 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 4.00% | ~78 |
 | Renaissance man | 4.00% | ~78 |
 | Tank commander | 4.00% | ~78 |
+| Trick shot marksman | 4.00% | ~78 |
 | G.O.A.T. status | 3.00% | ~59 |
 | Hoarder | 3.00% | ~59 |
-| Trick shot marksman | 3.00% | ~59 |
 | We get it, you're good | 3.00% | ~59 |
 | Cross lock country | 2.00% | ~39 |
 | Many plys later... | 2.00% | ~39 |

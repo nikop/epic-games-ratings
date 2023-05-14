@@ -11,11 +11,11 @@
 | Open Sesame | 19.00% | ~9 |
 | The Cultists | 10.00% | ~5 |
 | Alone In The Dark | 8.00% | ~4 |
+| What have I done!? | 8.00% | ~4 |
 | Them and Us | 6.00% | ~3 |
 | OUTRAGE | 6.00% | ~3 |
 | Parasite Exterminated | 6.00% | ~3 |
 | This Coffin Has Your Name On It! | 6.00% | ~3 |
-| What have I done!? | 6.00% | ~3 |
 | Lover of classics | 4.00% | ~2 |
 | The bus stop | 4.00% | ~2 |
 | The Forgotten Tower | 4.00% | ~2 |

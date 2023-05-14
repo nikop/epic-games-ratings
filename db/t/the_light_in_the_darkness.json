@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1262,
-  "EOS_Completed": 98,
-  "EOS_NewPlayers": 95,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 7.77,
+  "EOS_Progressed": 1263,
+  "EOS_Completed": 99,
+  "EOS_NewPlayers": 94,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 7.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1073,6 +1073,11 @@
       "Time": "2023-05-14T14:05:26.7960461+00:00",
       "NumProgressed": 1262,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-05-14T16:04:46.3160985+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 12,
@@ -1132,7 +1137,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Le Juif et la France",
@@ -1140,7 +1145,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Little Helper",
@@ -1179,16 +1184,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1262,
-      "Completed": 98
+      "Progressed": 1263,
+      "Completed": 99
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-14T15:05:24.4577663+00:00",
+  "LastChanged_Achievements": "2023-05-14T16:04:46.316098+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-14T14:59:16.5425116+00:00",
-  "LastUpdate_Achievements": "2023-05-14T15:05:24.4577803+00:00"
+  "LastUpdate_Ratings": "2023-05-14T15:58:57.8077944+00:00",
+  "LastUpdate_Achievements": "2023-05-14T16:04:46.3161145+00:00"
 }

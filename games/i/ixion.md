@@ -35,6 +35,7 @@ Rating: 4.55 (Ranked 465)
 | What They Hide From Us | 0.20% | ~4 |
 | ...  in a finite world | 0.20% | ~4 |
 | Sustainable Energy | 0.20% | ~4 |
+| Catastrophe Avoided | 0.20% | ~4 |
 | Praise the Hull! | 0.20% | ~4 |
 | Necessary Enhancement | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
@@ -46,7 +47,6 @@ Rating: 4.55 (Ranked 465)
 | Better Him Than Me | 0.10% | ~2 |
 | Oats | 0.10% | ~2 |
 | Tiqqun Contender | 0.10% | ~2 |
-| Catastrophe Avoided | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Space Greenhouse | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |

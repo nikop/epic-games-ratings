@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7619,
+  "EOS_Progressed": 7620,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1373,6 +1373,11 @@
       "Time": "2023-05-14T12:05:24.9002771+00:00",
       "NumProgressed": 7619,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-14T16:05:00.7045194+00:00",
+      "NumProgressed": 7620,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1384,7 +1389,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "ACH02",
@@ -1440,7 +1445,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "ACH09",
@@ -1552,7 +1557,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ACH23",
@@ -1560,7 +1565,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "ACH24",
@@ -1663,7 +1668,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7619,
+      "Progressed": 7620,
       "Completed": 15
     }
   ],
@@ -1671,8 +1676,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-14T15:05:39.4870818+00:00",
+  "LastChanged_Achievements": "2023-05-14T16:05:00.704519+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-14T14:59:49.0096319+00:00",
-  "LastUpdate_Achievements": "2023-05-14T15:05:39.4871062+00:00"
+  "LastUpdate_Ratings": "2023-05-14T15:59:29.8108321+00:00",
+  "LastUpdate_Achievements": "2023-05-14T16:05:00.7045507+00:00"
 }

@@ -489,9 +489,9 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -506,8 +506,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-14T15:00:14.9287662+00:00",
+  "LastChanged_Achievements": "2023-05-14T15:59:56.525051+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-14T14:57:16.5883608+00:00",
-  "LastUpdate_Achievements": "2023-05-14T15:00:14.9287966+00:00"
+  "LastUpdate_Ratings": "2023-05-14T15:57:01.2911572+00:00",
+  "LastUpdate_Achievements": "2023-05-14T15:59:56.5250866+00:00"
 }

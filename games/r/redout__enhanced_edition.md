@@ -1,30 +1,30 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 515)  
+Rating: 4.51 (Ranked 516)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~90,947 |
-| NATURAL BORN WINNER | 32.00% | ~70,983 |
-| CALLING HOUSTON | 28.00% | ~62,110 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~48,801 |
-| SNEAKY SNEAKY | 21.00% | ~46,582 |
-| GT9STRADALE | 20.00% | ~44,364 |
-| CHALLENGER | 11.00% | ~24,400 |
-| ON A ROLL | 9.00% | ~19,964 |
+| VANGUARD | 41.00% | ~90,949 |
+| NATURAL BORN WINNER | 32.00% | ~70,985 |
+| CALLING HOUSTON | 28.00% | ~62,112 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~48,802 |
+| SNEAKY SNEAKY | 21.00% | ~46,584 |
+| GT9STRADALE | 20.00% | ~44,366 |
+| CHALLENGER | 11.00% | ~24,401 |
+| ON A ROLL | 9.00% | ~19,965 |
 | CENTAUR | 8.00% | ~17,746 |
 | FASTER THAN EVER | 8.00% | ~17,746 |
-| CHALLENGE THE WORLD | 7.00% | ~15,527 |
-| PHOTOFINISH | 7.00% | ~15,527 |
+| CHALLENGE THE WORLD | 7.00% | ~15,528 |
+| PHOTOFINISH | 7.00% | ~15,528 |
 | QAREEN | 5.00% | ~11,091 |
 | SHOWOFF | 4.00% | ~8,873 |
 | TAKATORA | 4.00% | ~8,873 |
 | GILA | 3.00% | ~6,655 |
-| PRO | 2.00% | ~4,436 |
-| RESPWND | 2.00% | ~4,436 |
-| SHINY SHINY GOLD | 2.00% | ~4,436 |
+| PRO | 2.00% | ~4,437 |
+| RESPWND | 2.00% | ~4,437 |
+| SHINY SHINY GOLD | 2.00% | ~4,437 |
 | HARDCORE | 1.00% | ~2,218 |
 | ACE | 0.70% | ~1,553 |
 | TACTICIAN | 0.60% | ~1,331 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~444 |
 | ENLIGHTENED | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,821 (Ranked 43)  
+Progressed: 221,828 (Ranked 43)  
 Completed: 41 (0.02%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 41 (0.02%) (Ranked 185)
 | 2023-05-11 | 221,573 | 41 |
 | 2023-05-12 | 221,656 | 41 |
 | 2023-05-13 | 221,751 | 41 |
-| 2023-05-14 | 221,821 | 41 |
+| 2023-05-14 | 221,828 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
