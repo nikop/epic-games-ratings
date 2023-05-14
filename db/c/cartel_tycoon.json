@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -582,9 +582,9 @@
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 273
     },
     {
       "ID": "kill-lieutenants",
@@ -606,9 +606,9 @@
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "product-profit",
@@ -670,9 +670,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 254
     },
     {
       "ID": "use-submarine",
@@ -694,8 +694,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:06:16.4648462+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:06:18.1004782+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.8903016+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:00:23.3163233+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:06:16.4648582+00:00"
+  "LastUpdate_Ratings": "2023-05-14T00:00:04.9246492+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:06:18.100497+00:00"
 }

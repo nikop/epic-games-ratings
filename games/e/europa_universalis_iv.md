@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,245 |
-| That's a Grand Army | 8.00% | ~2,884 |
-| That is mine! | 8.00% | ~2,884 |
-| Victorious! | 8.00% | ~2,884 |
-| Brothers in Arms | 6.00% | ~2,163 |
-| That's a Grand Navy | 6.00% | ~2,163 |
-| Seriously?! | 6.00% | ~2,163 |
+| Until death do us apart | 9.00% | ~3,246 |
+| That's a Grand Army | 8.00% | ~2,885 |
+| That is mine! | 8.00% | ~2,885 |
+| Victorious! | 8.00% | ~2,885 |
+| Brothers in Arms | 6.00% | ~2,164 |
+| That's a Grand Navy | 6.00% | ~2,164 |
+| Seriously?! | 6.00% | ~2,164 |
 | For the Glory | 5.00% | ~1,803 |
-| Cold War | 4.00% | ~1,442 |
-| True Catholic | 4.00% | ~1,442 |
+| Cold War | 4.00% | ~1,443 |
+| True Catholic | 4.00% | ~1,443 |
 | Defender of the Faith | 3.00% | ~1,082 |
 | It's all about the money | 3.00% | ~1,082 |
 | Respected | 3.00% | ~1,082 |
@@ -37,8 +37,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~361 |
 | A Golden Empire | 1.00% | ~361 |
 | My armies are invincible! | 1.00% | ~361 |
-| Isn't this the way to India? | 0.80% | ~288 |
-| The Five Colonies | 0.80% | ~288 |
+| Isn't this the way to India? | 0.80% | ~289 |
+| The Five Colonies | 0.80% | ~289 |
 | The Emperors new clothes | 0.70% | ~252 |
 | Market Control | 0.70% | ~252 |
 | This navy can take it all | 0.70% | ~252 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,053 (Ranked 81)  
+Progressed: 36,065 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,6 +385,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 34,344 | 0 |
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
+| 2023-05-14 | 36,065 | 0 |
 ## Awards
 Max (Educational): 5,216  (Ranked 60)  
 Sum: 43,160 (Ranked 27)  

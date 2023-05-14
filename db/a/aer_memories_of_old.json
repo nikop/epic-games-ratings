@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -368,10 +368,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9288,
+  "EOS_Progressed": 9289,
   "EOS_Completed": 207,
-  "EOS_NewPlayers": 600,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 597,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
     {
@@ -2428,6 +2428,11 @@
       "Time": "2023-05-13T23:06:15.49155+00:00",
       "NumProgressed": 9288,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2023-05-14T00:06:17.2616684+00:00",
+      "NumProgressed": 9289,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 20,
@@ -2551,7 +2556,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "INTRO_FINISHED",
@@ -2559,7 +2564,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7059
+      "UsersEstimate": 7060
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2598,15 +2603,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9288,
+      "Progressed": 9289,
       "Completed": 207
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:06:15.4915497+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:06:17.2616678+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.8345922+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:00:27.7335224+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:06:15.4915708+00:00"
+  "LastUpdate_Ratings": "2023-05-14T00:00:08.230624+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:06:17.261698+00:00"
 }

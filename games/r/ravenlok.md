@@ -25,14 +25,14 @@
 | Teacups for Toppy | 38.00% | ~237 |
 | Nightmare Fuel | 37.00% | ~231 |
 | Take Heart | 37.00% | ~231 |
-| The Guardian | 36.00% | ~225 |
+| The Guardian | 37.00% | ~231 |
 | Stronger! | 35.00% | ~218 |
 | Ancient Wisdom | 34.00% | ~212 |
 | Frog Facts! | 34.00% | ~212 |
 | All That Glistens | 34.00% | ~212 |
 | It's Pointy! | 34.00% | ~212 |
+| Spellbound | 33.00% | ~206 |
 | All Skilled Up! | 33.00% | ~206 |
-| Spellbound | 32.00% | ~200 |
 | Extinct Again! | 31.00% | ~193 |
 | Bird of Prey | 31.00% | ~193 |
 | Stardust | 31.00% | ~193 |

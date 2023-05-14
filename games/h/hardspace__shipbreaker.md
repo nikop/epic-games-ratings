@@ -1,7 +1,7 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.65 (Ranked 289)  
+Rating: 4.66 (Ranked 273)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -98,3 +98,4 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-03-12 | 4.64 | - | - | - |
 | 2023-03-31 | 4.64 | - | 0 | 0 |
 | 2023-04-03 | 4.65 | - | 0 | 0 |
+| 2023-05-13 | 4.66 | - | 0 | 0 |

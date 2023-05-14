@@ -846,9 +846,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2827,
+  "EOS_Progressed": 2828,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2016,6 +2016,11 @@
       "Time": "2023-05-13T23:06:24.5035484+00:00",
       "NumProgressed": 2827,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T00:06:25.528418+00:00",
+      "NumProgressed": 2828,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2043,7 +2048,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -2155,7 +2160,7 @@
       "Name": "Firestarter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -2187,7 +2192,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2211,7 +2216,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -2307,7 +2312,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -2346,15 +2351,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2827,
+      "Progressed": 2828,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:06:24.5035481+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:06:25.5284171+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:00:27.9860923+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:06:24.5035768+00:00"
+  "LastUpdate_Ratings": "2023-05-14T00:00:08.4470976+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:06:25.5284717+00:00"
 }

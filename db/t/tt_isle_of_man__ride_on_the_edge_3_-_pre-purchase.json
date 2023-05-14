@@ -132,9 +132,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -380,9 +380,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 85,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -420,9 +420,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "gagif7",
       "Name": "Playing God",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -434,8 +434,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:05:30.1678721+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:05:35.0533583+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.0229412+00:00",
-  "LastUpdate_Ratings": "2023-05-13T22:57:31.2306946+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:05:30.1678945+00:00"
+  "LastUpdate_Ratings": "2023-05-13T23:57:32.9865823+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:05:35.0534038+00:00"
 }

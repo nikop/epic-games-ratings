@@ -2,12 +2,12 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 36,
   "RatingHistory": [
     {
@@ -256,6 +256,12 @@
     {
       "Time": "2023-04-03T02:58:25.0664636+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-13T23:57:28.146455+00:00",
+      "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -542,9 +548,9 @@
   "FirstSeen": "2022-07-22T20:30:23.1372862+00:00",
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
-  "LastChanged": "2023-04-03T02:58:25.0664634+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:02:14.5385214+00:00",
+  "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:03:15.2348029+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:27.192307+00:00",
-  "LastUpdate_Ratings": "2023-05-13T22:57:25.5196696+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:02:14.5385365+00:00"
+  "LastUpdate_Ratings": "2023-05-13T23:57:28.1464554+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:03:15.2348237+00:00"
 }

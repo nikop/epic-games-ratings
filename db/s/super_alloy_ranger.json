@@ -298,9 +298,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achi_19",
@@ -314,9 +314,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_21",
@@ -330,9 +330,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achi_23",
@@ -370,9 +370,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achi_28",
@@ -394,9 +394,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achi_31",
@@ -571,8 +571,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:06:17.5218764+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:06:18.9919704+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:50.1323653+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:00:10.1785663+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:06:17.5219281+00:00"
+  "LastUpdate_Ratings": "2023-05-13T23:59:54.3414873+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:06:18.9920108+00:00"
 }

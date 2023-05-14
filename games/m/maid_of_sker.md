@@ -12,7 +12,7 @@
 | Easy Listening | 14.00% | ~18 |
 | Perfect Harmony! | 11.00% | ~15 |
 | Wales Interactive | 10.00% | ~13 |
-| Chief Butler | 8.00% | ~11 |
+| Chief Butler | 9.00% | ~12 |
 | Bull in a China Shop | 7.00% | ~9 |
 | Sker Explorer | 4.00% | ~5 |
 | Ending on a High Note | 2.00% | ~3 |

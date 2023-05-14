@@ -95,9 +95,9 @@
       "ID": "brown_nosing",
       "SetID": "202dmm8",
       "Name": "Brown nosing",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "cheat",
@@ -119,9 +119,9 @@
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "instinct",
@@ -216,8 +216,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:06:14.2848731+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:06:16.1641208+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:59.2770593+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:00:21.5324799+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:06:14.284884+00:00"
+  "LastUpdate_Ratings": "2023-05-14T00:00:03.3388356+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:06:16.1641323+00:00"
 }

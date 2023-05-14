@@ -6,8 +6,8 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 83.00% | ~270 |
-| Take-Off | 77.00% | ~250 |
+| Our Man | 84.00% | ~273 |
+| Take-Off | 78.00% | ~254 |
 | Hokey-Pokey | 72.00% | ~234 |
 | Camellos | 58.00% | ~188 |
 | Bad Trip | 46.00% | ~150 |
@@ -15,7 +15,7 @@ Number of Ratings: 101  (23.09.2022)
 | Spread | 39.00% | ~127 |
 | That was base | 38.00% | ~124 |
 | Safe Pair of Hands | 35.00% | ~114 |
-| Don't Let Mom Know You're A Druglord | 28.00% | ~91 |
+| Don't Let Mom Know You're A Druglord | 29.00% | ~94 |
 | Architect of Fortunes | 25.00% | ~81 |
 | Pampered Life | 24.00% | ~78 |
 | Bite the Blow | 18.00% | ~58 |

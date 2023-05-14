@@ -11,13 +11,13 @@ Rating: 4.55 (Ranked 465)
 | Sputnik 2049 | 1.00% | ~19 |
 | Ready for a New World | 1.00% | ~19 |
 | Guy de Borderlands | 0.90% | ~17 |
-| Hope Seeker | 0.90% | ~17 |
+| Ain't Nobody Got Time for That | 0.90% | ~17 |
 | Space Society | 0.80% | ~15 |
 | Breaking Protocol | 0.80% | ~15 |
-| Ain't Nobody Got Time for That | 0.80% | ~15 |
+| Permanent Redesigns | 0.80% | ~15 |
+| Hope Seeker | 0.80% | ~15 |
 | A Thousand Strong | 0.70% | ~13 |
 | Fully Recycled | 0.70% | ~13 |
-| Permanent Redesigns | 0.70% | ~13 |
 | The Ship of Theseus | 0.70% | ~13 |
 | Exceeding Capacity | 0.60% | ~11 |
 | Power Outage | 0.60% | ~11 |
@@ -26,11 +26,11 @@ Rating: 4.55 (Ranked 465)
 | A Hunk of Junk | 0.40% | ~8 |
 | Access Granted | 0.40% | ~8 |
 | Please Make it Stop! | 0.40% | ~8 |
+| From the Past | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |
 | BRAWL! | 0.30% | ~6 |
 | All in Good Health | 0.30% | ~6 |
-| From the Past | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | ...  in a finite world | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 465)
 | Crunch Culture | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,882 (Ranked 146)  
+Progressed: 1,883 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 1,874 | 0 |
 | 2023-05-12 | 1,881 | 0 |
 | 2023-05-13 | 1,882 | 0 |
+| 2023-05-14 | 1,883 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

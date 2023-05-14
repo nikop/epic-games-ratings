@@ -17,8 +17,8 @@
 | Knives Out | 53.00% | ~78 |
 | Land, Ho! | 53.00% | ~78 |
 | Lock, Stock, And Barrel | 52.00% | ~77 |
+| Back In The Saddle | 52.00% | ~77 |
 | Gaze Into The Abyss | 51.00% | ~75 |
-| Back In The Saddle | 51.00% | ~75 |
 | No Man Is An Island | 50.00% | ~74 |
 | At Wits' End | 47.00% | ~70 |
 | Bookworm | 45.00% | ~67 |

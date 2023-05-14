@@ -98,9 +98,9 @@
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "choking_hazzard",
@@ -315,8 +315,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:03:38.8899558+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:03:54.4618709+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:05.2394703+00:00",
-  "LastUpdate_Ratings": "2023-05-13T22:59:19.8860557+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:03:38.889971+00:00"
+  "LastUpdate_Ratings": "2023-05-13T23:59:09.6860616+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:03:54.4618941+00:00"
 }

@@ -58,10 +58,10 @@ Rating: 3.64 (Ranked 917)
 | Blueprint Upgrades | 0.60% | ~6 |
 | Crystal Mining | 0.60% | ~6 |
 | Legendary | 0.60% | ~6 |
+| Tree of Life | 0.60% | ~6 |
 | Enchanting skill | 0.50% | ~5 |
 | The Alchemist | 0.50% | ~5 |
 | Transmute | 0.50% | ~5 |
-| Tree of Life | 0.50% | ~5 |
 | Ebony Jungle Liberator | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
 | Training makes a Pro player | 0.40% | ~4 |

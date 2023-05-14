@@ -30,7 +30,7 @@
 | The Germophobes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 231)  
-Completed: 5 (3.16%) (Ranked 44)  
+Completed: 5 (3.16%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

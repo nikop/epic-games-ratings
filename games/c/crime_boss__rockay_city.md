@@ -5,19 +5,19 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,820 |
-| First One’s Free | 65.00% | ~39,018 |
-| Neophyte Ninja | 50.00% | ~30,014 |
-| Too Old for This | 47.00% | ~28,213 |
+| Downed but Not Outed | 73.00% | ~43,822 |
+| First One’s Free | 65.00% | ~39,020 |
+| Neophyte Ninja | 50.00% | ~30,015 |
+| Too Old for This | 47.00% | ~28,214 |
 | Fancy Pants | 35.00% | ~21,010 |
 | Case Closed | 34.00% | ~20,410 |
-| King of the Hill | 33.00% | ~19,809 |
-| Underworld Initiate | 29.00% | ~17,408 |
+| King of the Hill | 33.00% | ~19,810 |
+| Underworld Initiate | 29.00% | ~17,409 |
 | Roid Ranger | 21.00% | ~12,606 |
-| True Player | 19.00% | ~11,405 |
+| True Player | 19.00% | ~11,406 |
 | Off the Rocks | 18.00% | ~10,805 |
-| Raider’s Ruin | 16.00% | ~9,604 |
-| Dragonslayer | 16.00% | ~9,604 |
+| Raider’s Ruin | 16.00% | ~9,605 |
+| Dragonslayer | 16.00% | ~9,605 |
 | Hidden Sonata | 13.00% | ~7,804 |
 | Classy Joint | 10.00% | ~6,003 |
 | Rockay Rex | 10.00% | ~6,003 |
@@ -27,8 +27,8 @@ Rating: 3.93 (Ranked 895)
 | Headhunter | 8.00% | ~4,802 |
 | Ding Dong | 8.00% | ~4,802 |
 | Foo Finder | 7.00% | ~4,202 |
-| Legend Looter | 5.00% | ~3,001 |
-| Savvy Seeker | 5.00% | ~3,001 |
+| Legend Looter | 5.00% | ~3,002 |
+| Savvy Seeker | 5.00% | ~3,002 |
 | Imports and Exports | 4.00% | ~2,401 |
 | Olympus Ascended | 4.00% | ~2,401 |
 | Red Star | 4.00% | ~2,401 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~300 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,028 (Ranked 68)  
+Progressed: 60,030 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 29 (0.05%) (Ranked 172)
 | 2023-05-11 | 59,781 | 29 |
 | 2023-05-12 | 59,889 | 29 |
 | 2023-05-13 | 60,028 | 29 |
+| 2023-05-14 | 60,030 | 29 |
 ## Awards
 Max (Highly Recommended): 260  (Ranked 237)  
 Sum: 1,219 (Ranked 219)  

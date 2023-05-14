@@ -4,7 +4,7 @@
   "ProductSlug": "evans-remains",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-11-30T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:08.1301026+00:00",
   "LastChanged": "2023-03-31T05:58:08.1301028+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:36.3659365+00:00",
-  "LastUpdate_Ratings": "2023-05-13T22:57:36.8607649+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:02:17.1353132+00:00"
+  "LastUpdate_Ratings": "2023-05-13T23:57:37.9204386+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:03:17.5413205+00:00"
 }

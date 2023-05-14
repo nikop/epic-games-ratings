@@ -9,6 +9,7 @@ Rating: 4.17 (Ranked 831)
 | Rock and a Hard Place | 0.40% | ~243 |
 | Quartzer Life Crisis | 0.40% | ~243 |
 | Snow Problem | 0.40% | ~243 |
+| Cooldown | 0.40% | ~243 |
 | Get ReQ'd | 0.40% | ~243 |
 | Working Hard or Harley Working? | 0.40% | ~243 |
 | Universal Health Scare | 0.40% | ~243 |
@@ -28,7 +29,6 @@ Rating: 4.17 (Ranked 831)
 | Shock Til They Drop | 0.30% | ~183 |
 | Drone You Out | 0.30% | ~183 |
 | To the Victor Go the Spoils | 0.30% | ~183 |
-| Cooldown | 0.30% | ~183 |
 | Har, Har, Har, Very Funny | 0.30% | ~183 |
 | First Step Into the Knight | 0.30% | ~183 |
 | Knighthood | 0.30% | ~183 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,844 (Ranked 67)  
+Progressed: 60,845 (Ranked 67)  
 Completed: 90 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,13 +91,14 @@ Completed: 90 (0.15%) (Ranked 146)
 | 2023-05-11 | 60,799 | 90 |
 | 2023-05-12 | 60,819 | 90 |
 | 2023-05-13 | 60,844 | 90 |
+| 2023-05-14 | 60,845 | 90 |
 ## Awards
-Max (Great Boss Battles): 2,208  (Ranked 99)  
-Sum: 3,659 (Ranked 138)  
-Diff (max vs sum): -39  
+Max (Great Boss Battles): 2,210  (Ranked 99)  
+Sum: 3,661 (Ranked 137)  
+Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,208 |
+| This game has Great Boss Battles | 2,210 |
 | This game is Extremely Fun | 190 |
 | This game is Relaxing | 188 |
 | This game has Quickly Understood Controls | 185 |
@@ -191,4 +192,4 @@ Diff (max vs sum): -39
 | 2023-05-09 | 4.17 | 2,201 | 3,647 |
 | 2023-05-10 | 4.17 | 2,204 | 3,651 |
 | 2023-05-12 | 4.17 | 2,208 | 3,657 |
-| 2023-05-13 | 4.17 | 2,208 | 3,659 |
+| 2023-05-13 | 4.17 | 2,210 | 3,661 |

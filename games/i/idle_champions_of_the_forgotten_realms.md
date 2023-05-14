@@ -119,6 +119,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.20% | ~175 |
 | Lobsterfolk Assault | 0.20% | ~175 |
 | The Minions of Endelyn Moongrave | 0.20% | ~107 |
+| The Bitter End | 0.20% | ~107 |
 | No One Can Hear You Scream | 0.20% | ~107 |
 | Welcome to the Rock | 0.20% | ~107 |
 | The Forbidden City | 0.20% | ~175 |
@@ -292,7 +293,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Between a Brigganock and a Hard Place | 0.10% | ~54 |
 | Love Unsoiled | 0.10% | ~54 |
 | The Play's the Thing! | 0.10% | ~54 |
-| The Bitter End | 0.10% | ~54 |
 | A Nimble Approach | 0.10% | ~54 |
 | The Palace of Heart's Desire | 0.10% | ~54 |
 | The Egg of Nat's Desire | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,417 (Ranked 59)  
+Progressed: 87,425 (Ranked 59)  
 Completed: 1,836 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,6 +520,7 @@ Completed: 1,836 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
+| 2023-05-14 | 87,425 | 1,836 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,873 (Ranked 37)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3676,9 +3676,9 @@
       "Count": 3232
     }
   ],
-  "EOS_Progressed": 87417,
+  "EOS_Progressed": 87425,
   "EOS_Completed": 1836,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5801,6 +5801,11 @@
       "Time": "2023-05-13T23:06:29.4882591+00:00",
       "NumProgressed": 87417,
       "NumCompleted": 1836
+    },
+    {
+      "Time": "2023-05-14T00:06:29.6697897+00:00",
+      "NumProgressed": 87425,
+      "NumCompleted": 1836
     }
   ],
   "TotalAchievements": 489,
@@ -6850,9 +6855,9 @@
       "ID": "objective_completed_1335",
       "SetID": "415jc5c",
       "Name": "The Bitter End",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1336",
@@ -9723,21 +9728,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53691,
+      "Progressed": 53699,
       "Completed": 2503
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87417,
+      "Progressed": 87425,
       "Completed": 1836
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-13T20:57:49.0180244+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:06:29.4882588+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:06:29.669789+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-13T22:58:02.5724223+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:06:29.4903845+00:00"
+  "LastUpdate_Ratings": "2023-05-13T23:57:59.9370912+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:06:29.6721101+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12395,
+  "EOS_Progressed": 12396,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1790,6 +1790,11 @@
       "Time": "2023-05-13T23:05:32.2948399+00:00",
       "NumProgressed": 12395,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-14T00:05:36.9709378+00:00",
+      "NumProgressed": 12396,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -1801,7 +1806,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "tpote_achievement_10",
@@ -1841,7 +1846,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "tpote_achievement_15",
@@ -1873,7 +1878,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "tpote_achievement_19",
@@ -1889,7 +1894,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "tpote_achievement_20",
@@ -1905,7 +1910,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "tpote_achievement_22",
@@ -1929,7 +1934,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "tpote_achievement_25",
@@ -1977,7 +1982,7 @@
       "Name": "Let there be darkness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4214
+      "UsersEstimate": 4215
     },
     {
       "ID": "tpote_achievement_30",
@@ -2121,22 +2126,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4462
+      "UsersEstimate": 4463
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12395,
+      "Progressed": 12396,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-13T23:05:32.2948395+00:00",
+  "LastChanged_Achievements": "2023-05-14T00:05:36.9709372+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-13T23:00:11.7696147+00:00",
-  "LastUpdate_Achievements": "2023-05-13T23:05:32.2948725+00:00"
+  "LastUpdate_Ratings": "2023-05-13T23:59:55.7525828+00:00",
+  "LastUpdate_Achievements": "2023-05-14T00:05:36.9710077+00:00"
 }
