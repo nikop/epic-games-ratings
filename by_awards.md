@@ -42,7 +42,7 @@
 | 40 | [Supraland](games/s/supraland.md) | 7,609 | 4.61 | 351 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,537 | 4.85 | 38 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,288 | 4.57 | 428 |
-| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,155 | 4.71 | 178 |
+| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,157 | 4.71 | 178 |
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,029 | 4.57 | 428 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,962 | 4.89 | 11 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,804 | 4.47 | 580 |
@@ -129,7 +129,7 @@
 | 127 | [OUTRIDERS](games/o/outriders.md) | 1,110 | 4.42 | 642 |
 | 128 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,085 | 4.61 | 351 |
 | 129 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.60 | 377 |
-| 130 | [World of Warships](games/w/world_of_warships.md) | 1,050 | 4.43 | 636 |
+| 130 | [World of Warships](games/w/world_of_warships.md) | 1,053 | 4.43 | 636 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,048 | 4.54 | 478 |
 | 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,038 | 4.66 | 273 |
 | 133 | [Saints Row](games/s/saints_row.md) | 1,027 | 3.78 | 910 |
@@ -148,7 +148,7 @@
 | 146 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 773 | 4.69 | 214 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 770 | 4.74 | 140 |
 | 148 | [The Long Dark](games/t/the_long_dark.md) | 754 | 4.74 | 140 |
-| 149 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 752 | 4.50 | 529 |
+| 149 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 753 | 4.50 | 529 |
 | 150 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 747 | 4.56 | 447 |
 | 151 | [Auto Chess](games/a/auto_chess.md) | 737 | 4.52 | 501 |
 | 152 | [Core](games/c/core.md) | 730 | 4.37 | 701 |
@@ -205,7 +205,7 @@
 | 203 | [Warface](games/w/warface.md) | 389 | 3.92 | 897 |
 | 204 | [Slime Rancher](games/s/slime_rancher.md) | 388 | 4.82 | 59 |
 | 205 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 374 | 4.61 | 351 |
-| 206 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 369 | 4.24 | 784 |
+| 206 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 372 | 4.24 | 784 |
 | 207 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 884 |
 | 207 | [Nuclear Throne](games/n/nuclear_throne.md) | 367 | 4.79 | 89 |
 | 209 | [For The King](games/f/for_the_king.md) | 363 | 4.70 | 192 |
@@ -425,7 +425,7 @@
 | 421 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 36 | 4.57 | 428 |
 | 421 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 36 | 4.77 | 104 |
 | 421 | [Steelrising](games/s/steelrising.md) | 36 | 4.27 | 772 |
-| 421 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 567 |
+| 421 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 568 |
 | 427 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 178 |
 | 427 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.57 | 428 |
 | 427 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 35 | 4.82 | 59 |

@@ -7,7 +7,7 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.88% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
-| 8 | [Island Cities](games/i/island_cities.md) | 20.29% |
+| 8 | [Island Cities](games/i/island_cities.md) | 20.00% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.67% |
@@ -20,8 +20,8 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.38% |
-| 22 | [Scorn](games/s/scorn.md) | 7.08% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.37% |
+| 22 | [Scorn](games/s/scorn.md) | 7.07% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.88% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -105,9 +105,9 @@
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 105 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
-| 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
+| 106 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
+| 106 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 111 | [Potion Permit](games/p/potion_permit.md) | 0.40% |

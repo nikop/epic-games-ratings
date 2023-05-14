@@ -183,7 +183,7 @@
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,273 | 50 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 470 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 427 |
-| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,155 | 43 |
+| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,157 | 43 |
 | 178 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 491 |
 | 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 491 |
 | 178 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 491 |
@@ -548,9 +548,10 @@
 | 529 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 654 | 160 |
 | 529 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.50 | 0 | 491 |
 | 529 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 491 |
-| 529 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 752 | 149 |
+| 529 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 753 | 149 |
 | 529 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 491 |
 | 529 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 29 | 449 |
+| 552 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.49 | 0 | 491 |
 | 552 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 375 |
 | 552 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 394 | 202 |
 | 552 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 103 |
@@ -566,19 +567,18 @@
 | 552 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 491 |
 | 552 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 345 |
 | 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 491 |
-| 567 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.48 | 0 | 491 |
-| 567 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 491 |
-| 567 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 491 |
-| 567 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 491 |
-| 567 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 491 |
-| 567 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 491 |
-| 567 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 491 |
-| 567 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 491 |
-| 567 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 491 |
-| 567 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 491 |
-| 567 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 491 |
-| 567 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 491 |
-| 567 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 421 |
+| 568 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 491 |
+| 568 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 491 |
+| 568 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 491 |
+| 568 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 491 |
+| 568 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 491 |
+| 568 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 491 |
+| 568 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 491 |
+| 568 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 491 |
+| 568 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 491 |
+| 568 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 491 |
+| 568 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 491 |
+| 568 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 421 |
 | 580 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 491 |
 | 580 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 435 |
 | 580 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 491 |
@@ -640,7 +640,7 @@
 | 636 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 491 |
 | 636 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 369 |
 | 636 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 228 |
-| 636 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,050 | 130 |
+| 636 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,053 | 130 |
 | 642 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 379 |
 | 642 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
 | 642 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 184 | 264 |
@@ -786,7 +786,7 @@
 | 784 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 491 |
 | 784 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 441 |
 | 784 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,614 | 34 |
-| 784 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 369 | 206 |
+| 784 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 372 | 206 |
 | 784 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 491 |
 | 784 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 491 |
 | 784 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 491 |
