@@ -58,8 +58,8 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [Them and Us](games/t/them_and_us.md) | 2.27% |
-| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
+| 60 | [Them and Us](games/t/them_and_us.md) | 2.17% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |

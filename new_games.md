@@ -154,4 +154,3 @@
 | [Bosorka](games/b/bosorka.md) | 2023-04-14 | 2023-04-14 |
 | [illusion](games/i/illusion.md) | 2023-04-14 | 2022-07-29 |
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 2020-11-09 |
-| [Crimson Dawn](games/c/crimson_dawn.md) | 2023-04-14 | 2022-10-09 |
