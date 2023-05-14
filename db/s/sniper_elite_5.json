@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 711,
+  "EOS_Progressed": 713,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -464,6 +464,11 @@
       "Time": "2023-05-14T04:05:51.8300058+00:00",
       "NumProgressed": 711,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-14T05:05:45.7814581+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -515,15 +520,15 @@
       "Name": "Enemy at the Gates",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 93
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -531,7 +536,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -539,7 +544,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -547,7 +552,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -555,7 +560,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -611,7 +616,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -627,7 +632,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -691,7 +696,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -707,15 +712,15 @@
       "Name": "Der Geist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 135
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -723,7 +728,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -739,7 +744,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -779,7 +784,7 @@
       "Name": "Tinkerer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -787,7 +792,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -835,7 +840,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -851,7 +856,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -867,7 +872,7 @@
       "Name": "Target America",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -875,7 +880,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -993,9 +998,9 @@
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
       "SetID": "83mdf7p",
       "Name": "If You Go Down To The Woods Today",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -1003,7 +1008,7 @@
       "Name": "Fight Another Day",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -1018,13 +1023,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 662,
+      "Progressed": 664,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 711,
+      "Progressed": 713,
       "Completed": 2
     }
   ],
@@ -1032,8 +1037,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-14T04:05:51.8300051+00:00",
+  "LastChanged_Achievements": "2023-05-14T05:05:45.7814574+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-14T04:01:25.6971946+00:00",
-  "LastUpdate_Achievements": "2023-05-14T04:05:51.8300925+00:00"
+  "LastUpdate_Ratings": "2023-05-14T05:01:05.3973503+00:00",
+  "LastUpdate_Achievements": "2023-05-14T05:05:45.7815603+00:00"
 }

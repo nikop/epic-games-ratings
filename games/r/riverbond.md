@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,466 |
-| Now You're Talking | 62.00% | ~320,156 |
-| Steel Yourself | 62.00% | ~320,156 |
-| Window Dressing | 50.00% | ~258,190 |
-| Trigger Happy | 46.00% | ~237,535 |
-| Riverborn | 45.00% | ~232,371 |
-| Starry Eyed | 34.00% | ~175,569 |
-| Poking Around | 34.00% | ~175,569 |
-| Talk of the Town | 24.00% | ~123,931 |
-| AAARR! | 23.00% | ~118,767 |
-| Hello Darkness | 23.00% | ~118,767 |
+| First Step | 70.00% | ~361,467 |
+| Now You're Talking | 62.00% | ~320,157 |
+| Steel Yourself | 62.00% | ~320,157 |
+| Window Dressing | 50.00% | ~258,191 |
+| Trigger Happy | 46.00% | ~237,536 |
+| Riverborn | 45.00% | ~232,372 |
+| Starry Eyed | 34.00% | ~175,570 |
+| Poking Around | 34.00% | ~175,570 |
+| Talk of the Town | 24.00% | ~123,932 |
+| AAARR! | 23.00% | ~118,768 |
+| Hello Darkness | 23.00% | ~118,768 |
 | Wind At Our Backs | 22.00% | ~113,604 |
 | To the Beat | 20.00% | ~103,276 |
 | Sunny Shores | 17.00% | ~87,785 |
 | To Victory! | 15.00% | ~77,457 |
 | Sunday Best | 15.00% | ~77,457 |
 | Two of a Kind | 14.00% | ~72,293 |
-| Keep On Trucking | 13.00% | ~67,129 |
+| Keep On Trucking | 13.00% | ~67,130 |
 | Going on an Adventure | 11.00% | ~56,802 |
 | Make Peace, Not War | 11.00% | ~56,802 |
 | Walking The Line | 10.00% | ~51,638 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,549 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,380 (Ranked 24)  
+Progressed: 516,382 (Ranked 24)  
 Completed: 405 (0.08%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 405 (0.08%) (Ranked 164)
 | 2023-05-11 | 516,164 | 404 |
 | 2023-05-12 | 516,250 | 404 |
 | 2023-05-13 | 516,361 | 405 |
-| 2023-05-14 | 516,380 | 405 |
+| 2023-05-14 | 516,382 | 405 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

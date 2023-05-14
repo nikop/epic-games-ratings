@@ -3,9 +3,9 @@
   "Name": "Busway Islands - Puzzle",
   "ProductSlug": "busway-islands-puzzle-91287d",
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_Completed": 6,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-04-29T13:00:00+00:00",
     "PcReleaseDate": "2023-04-29T13:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 32,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 18.75,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 21.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:09.4647401+00:00",
@@ -208,6 +208,11 @@
       "Time": "2023-05-13T02:02:11.652082+00:00",
       "NumProgressed": 32,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-14T05:05:48.8403821+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 35,
@@ -441,9 +446,9 @@
       "ID": "level_35",
       "SetID": "dlpjnee",
       "Name": "Island 35",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "level_4",
@@ -499,15 +504,15 @@
       "ID": "dlpjnee",
       "IsBase": true,
       "Progressed": 32,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-04-30T05:57:09.5836606+00:00",
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "LastChanged_Achievements": "2023-05-14T04:05:55.0381674+00:00",
+  "LastChanged_Achievements": "2023-05-14T05:05:48.8403813+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:34.7730428+00:00",
-  "LastUpdate_Ratings": "2023-05-14T03:57:48.6194228+00:00",
-  "LastUpdate_Achievements": "2023-05-14T04:05:55.0381966+00:00"
+  "LastUpdate_Ratings": "2023-05-14T04:57:35.7366186+00:00",
+  "LastUpdate_Achievements": "2023-05-14T05:05:48.8404143+00:00"
 }

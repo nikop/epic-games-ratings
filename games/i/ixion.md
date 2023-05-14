@@ -11,9 +11,9 @@ Rating: 4.55 (Ranked 465)
 | Sputnik 2049 | 1.00% | ~19 |
 | Ready for a New World | 1.00% | ~19 |
 | Guy de Borderlands | 0.90% | ~17 |
+| Space Society | 0.90% | ~17 |
 | Breaking Protocol | 0.90% | ~17 |
 | Ain't Nobody Got Time for That | 0.90% | ~17 |
-| Space Society | 0.80% | ~15 |
 | Fully Recycled | 0.80% | ~15 |
 | Permanent Redesigns | 0.80% | ~15 |
 | Hope Seeker | 0.80% | ~15 |

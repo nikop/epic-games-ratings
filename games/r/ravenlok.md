@@ -23,19 +23,19 @@
 | Gooey Delight! | 38.00% | ~238 |
 | Glimmer of Hope | 38.00% | ~238 |
 | Teacups for Toppy | 38.00% | ~238 |
+| The Guardian | 37.00% | ~231 |
 | Nightmare Fuel | 36.00% | ~225 |
 | Take Heart | 36.00% | ~225 |
-| The Guardian | 36.00% | ~225 |
+| Frog Facts! | 35.00% | ~219 |
 | Stronger! | 35.00% | ~219 |
 | Ancient Wisdom | 34.00% | ~213 |
-| Frog Facts! | 34.00% | ~213 |
 | All That Glistens | 34.00% | ~213 |
 | It's Pointy! | 34.00% | ~213 |
 | Spellbound | 33.00% | ~206 |
 | All Skilled Up! | 33.00% | ~206 |
 | Extinct Again! | 32.00% | ~200 |
-| Bird of Prey | 31.00% | ~194 |
-| Stardust | 31.00% | ~194 |
+| Bird of Prey | 32.00% | ~200 |
+| Stardust | 32.00% | ~200 |
 | Heartbreaker | 31.00% | ~194 |
 | Kidnapped! | 31.00% | ~194 |
 | Pull the Plug | 30.00% | ~188 |
@@ -43,10 +43,10 @@
 | Trick Question! | 30.00% | ~188 |
 | Soul Slayer | 29.00% | ~181 |
 | The Downfall | 29.00% | ~181 |
+| Extraordinary! | 29.00% | ~181 |
 | Final Showdown | 29.00% | ~181 |
 | Spot of Tea? | 29.00% | ~181 |
 | Going Home | 29.00% | ~181 |
-| Extraordinary! | 28.00% | ~175 |
 | Mirror, Mirror | 27.00% | ~169 |
 | Flower Power | 24.00% | ~150 |
 | Shopping Spree! | 21.00% | ~131 |

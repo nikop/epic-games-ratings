@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.40% | ~215 |
 | The Sanctum of the Sword | 0.40% | ~215 |
 | Get Back In The Castle | 0.40% | ~215 |
+| Beast Mode | 0.40% | ~350 |
 | Terror in the Dark | 0.40% | ~350 |
 | A Mysterious Summons | 0.40% | ~350 |
 | Unearthed Evil | 0.40% | ~350 |
@@ -41,7 +42,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.30% | ~161 |
 | The Castle of a Thousand Vecnas | 0.30% | ~161 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~161 |
-| Beast Mode | 0.30% | ~262 |
 | Low Initiative | 0.30% | ~262 |
 | Street War | 0.30% | ~262 |
 | Building Trust | 0.30% | ~262 |
@@ -143,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~175 |
 | Werewolves in the Mist | 0.20% | ~175 |
 | Family Entanglements | 0.20% | ~175 |
+| Haunted Fortunes | 0.20% | ~175 |
 | Chatty Nobles | 0.20% | ~175 |
 | Modron Assistance | 0.20% | ~175 |
 | Thine Bounty is Mine! | 0.20% | ~107 |
@@ -312,7 +313,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.10% | ~87 |
 | Acererak's Puzzle | 0.10% | ~54 |
 | We're not in Faerûn Anymore | 0.10% | ~87 |
-| Haunted Fortunes | 0.10% | ~87 |
 | Poor Fortune | 0.10% | ~87 |
 | Relentless Misfortune | 0.10% | ~87 |
 | Hold for the Red Wizards | 0.10% | ~87 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,440 (Ranked 59)  
+Progressed: 87,442 (Ranked 59)  
 Completed: 1,837 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,837 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,440 | 1,837 |
+| 2023-05-14 | 87,442 | 1,837 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,875 (Ranked 37)  

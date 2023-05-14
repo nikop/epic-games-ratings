@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | You're Going Down! | 95.00% | ~19 |
 | To Each Their Own | 35.00% | ~7 |
+| Onwards and Upwards | 25.00% | ~5 |
 | Like Phileas Fogg | 20.00% | ~4 |
-| Onwards and Upwards | 20.00% | ~4 |
 | You Get An Upgrade, You Get An Upgrade! | 15.00% | ~3 |
 | Playing God | 15.00% | ~3 |
 | Seven-League Boots | 10.00% | ~2 |

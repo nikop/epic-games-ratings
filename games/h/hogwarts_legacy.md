@@ -8,14 +8,14 @@ Rating: 4.77 (Ranked 104)
 | Grappling with a Graphorn | 6.00% | ~16,018 |
 | The One Who Mastered Memories | 6.00% | ~16,018 |
 | The Hallowed Hero | 6.00% | ~16,018 |
-| The Sort Who Makes an Entrance | 5.00% | ~13,348 |
-| The Hero of Hogwarts | 5.00% | ~13,348 |
-| The Defender of Dragons | 5.00% | ~13,348 |
-| Challenge Accepted | 5.00% | ~13,348 |
-| Loom for Improvement | 5.00% | ~13,348 |
-| Coasting Along | 5.00% | ~13,348 |
-| That's a Keeper | 5.00% | ~13,348 |
-| Rising From the Ashes | 5.00% | ~13,348 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,349 |
+| The Hero of Hogwarts | 5.00% | ~13,349 |
+| The Defender of Dragons | 5.00% | ~13,349 |
+| Challenge Accepted | 5.00% | ~13,349 |
+| Loom for Improvement | 5.00% | ~13,349 |
+| Coasting Along | 5.00% | ~13,349 |
+| That's a Keeper | 5.00% | ~13,349 |
+| Rising From the Ashes | 5.00% | ~13,349 |
 | The Avenging Gazelle | 4.00% | ~10,679 |
 | Beast Friends | 4.00% | ~10,679 |
 | A Sallow Grave | 4.00% | ~10,679 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,068 |
 | Collector's Edition | 0.20% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,964 (Ranked 38)  
+Progressed: 266,971 (Ranked 38)  
 Completed: 361 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,10 +75,10 @@ Completed: 361 (0.14%) (Ranked 149)
 | 2023-05-11 | 266,628 | 359 |
 | 2023-05-12 | 266,757 | 359 |
 | 2023-05-13 | 266,911 | 361 |
-| 2023-05-14 | 266,964 | 361 |
+| 2023-05-14 | 266,971 | 361 |
 ## Awards
 Max (Character Customization): 18,717  (Ranked 18)  
-Sum: 34,294 (Ranked 33)  
+Sum: 34,297 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -88,7 +88,7 @@ Diff (max vs sum): -15
 | This game is Great for Beginners | 750 |
 | This game is Relaxing | 728 |
 | This game has Diverse Characters | 722 |
-| This game has Amazing Storytelling | 719 |
+| This game has Amazing Storytelling | 722 |
 | This game has Amazing Characters | 709 |
 | This game is Highly Recommended | 693 |
 | This game has Quickly Understood Controls | 633 |
@@ -148,4 +148,4 @@ Diff (max vs sum): -15
 | 2023-05-11 | 4.77 | 18,654 | 34,135 |
 | 2023-05-12 | 4.77 | 18,684 | 34,208 |
 | 2023-05-13 | 4.77 | 18,717 | 34,293 |
-| 2023-05-14 | 4.77 | 18,717 | 34,294 |
+| 2023-05-14 | 4.77 | 18,717 | 34,297 |

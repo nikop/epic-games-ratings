@@ -1987,9 +1987,9 @@
       "Count": 724
     }
   ],
-  "EOS_Progressed": 228350,
+  "EOS_Progressed": 228351,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3977,6 +3977,11 @@
       "Time": "2023-05-14T03:06:05.9715251+00:00",
       "NumProgressed": 228350,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-05-14T05:06:35.3221409+00:00",
+      "NumProgressed": 228351,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 122,
@@ -4012,7 +4017,7 @@
       "Name": "Quick Descent",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "COMPLETEFIRSTRUN",
@@ -4020,7 +4025,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 219216
+      "UsersEstimate": 219217
     },
     {
       "ID": "CURSE1HP",
@@ -4028,7 +4033,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 89056
+      "UsersEstimate": 89057
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -4044,7 +4049,7 @@
       "Name": "A Week Attempt",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "DARKENDING",
@@ -4068,7 +4073,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 118742
+      "UsersEstimate": 118743
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -4132,7 +4137,7 @@
       "Name": "Dead Revels",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "DIE25TIMES",
@@ -4148,7 +4153,7 @@
       "Name": "To The Death!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43386
+      "UsersEstimate": 43387
     },
     {
       "ID": "DIEHARD",
@@ -4164,7 +4169,7 @@
       "Name": "That Was Quick",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 127876
+      "UsersEstimate": 127877
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -4172,7 +4177,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 132443
+      "UsersEstimate": 132444
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -4196,7 +4201,7 @@
       "Name": "Well Prepared",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43386
+      "UsersEstimate": 43387
     },
     {
       "ID": "ENDINGCHOICE",
@@ -4204,7 +4209,7 @@
       "Name": "Who To Trust?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 70788
+      "UsersEstimate": 70789
     },
     {
       "ID": "ENDWOUNDED",
@@ -4244,7 +4249,7 @@
       "Name": "Just Chilling",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43386
+      "UsersEstimate": 43387
     },
     {
       "ID": "FREEZE20TIMES",
@@ -4292,7 +4297,7 @@
       "Name": "Powerful Potion",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "HEXFROG",
@@ -4356,7 +4361,7 @@
       "Name": "Here Comes The Airplane",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "HUGESOULCOLLECTION",
@@ -4404,7 +4409,7 @@
       "Name": "Trail Of Death",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "KILL10ONETURN",
@@ -4436,7 +4441,7 @@
       "Name": "The Boulder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "KILLATTENTION",
@@ -4452,7 +4457,7 @@
       "Name": "Overthrown",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "KILLCOMPULSION",
@@ -4476,7 +4481,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 123309
+      "UsersEstimate": 123310
     },
     {
       "ID": "KILLNICEDOG",
@@ -4524,7 +4529,7 @@
       "Name": "Shootout",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 79922
+      "UsersEstimate": 79923
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -4548,7 +4553,7 @@
       "Name": "Illuminate, Annihilate",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "LIGHTENDINGMEDIUM",
@@ -4572,7 +4577,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 127876
+      "UsersEstimate": 127877
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -4692,7 +4697,7 @@
       "Name": "Antivenom",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 25118
+      "UsersEstimate": 25119
     },
     {
       "ID": "REROLL30TIMES",
@@ -4740,7 +4745,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 141577
+      "UsersEstimate": 141578
     },
     {
       "ID": "SPEEDRUN10",
@@ -4756,7 +4761,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 98190
+      "UsersEstimate": 98191
     },
     {
       "ID": "STEALTH100",
@@ -4828,7 +4833,7 @@
       "Name": "Masochist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "WIN4ORFEWERITEMS",
@@ -4963,7 +4968,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 228350,
+      "Progressed": 228351,
       "Completed": 228
     }
   ],
@@ -4971,8 +4976,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-05-13T10:59:43.7339404+00:00",
-  "LastChanged_Achievements": "2023-05-14T04:06:42.0412018+00:00",
+  "LastChanged_Achievements": "2023-05-14T05:06:35.3221405+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:25.0411201+00:00",
-  "LastUpdate_Ratings": "2023-05-14T04:00:09.3991876+00:00",
-  "LastUpdate_Achievements": "2023-05-14T04:06:42.0414611+00:00"
+  "LastUpdate_Ratings": "2023-05-14T04:59:52.6786913+00:00",
+  "LastUpdate_Achievements": "2023-05-14T05:06:35.3223185+00:00"
 }

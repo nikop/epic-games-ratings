@@ -6,25 +6,25 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~44,547 |
-| ''I don't like you either!'' | 79.00% | ~36,281 |
-| ''Impressive, most impressive'' | 71.00% | ~32,607 |
-| ''You think you're some kind of Jedi?'' | 71.00% | ~32,607 |
-| The Phantom Menace | 58.00% | ~26,636 |
-| ''Aggressive Negotiations'' | 58.00% | ~26,636 |
-| ''I can fly anything'' | 57.00% | ~26,177 |
-| ''And who gave you permission...?'' | 52.00% | ~23,881 |
+| ''You guys got yourself a ship!'' | 97.00% | ~44,549 |
+| ''I don't like you either!'' | 79.00% | ~36,282 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~33,067 |
+| ''Impressive, most impressive'' | 71.00% | ~32,608 |
+| The Phantom Menace | 58.00% | ~26,638 |
+| ''Aggressive Negotiations'' | 58.00% | ~26,638 |
+| ''I can fly anything'' | 57.00% | ~26,178 |
+| ''And who gave you permission...?'' | 52.00% | ~23,882 |
 | A New Hope | 46.00% | ~21,126 |
-| Attack of the Clones | 45.00% | ~20,666 |
-| Revenge of the Sith | 39.00% | ~17,911 |
-| The Empire Strikes Back | 36.00% | ~16,533 |
-| ''A fine addition to my collection'' | 36.00% | ~16,533 |
+| Attack of the Clones | 45.00% | ~20,667 |
+| Revenge of the Sith | 39.00% | ~17,912 |
+| The Empire Strikes Back | 36.00% | ~16,534 |
+| ''A fine addition to my collection'' | 36.00% | ~16,534 |
 | Return of the Jedi | 30.00% | ~13,778 |
-| The Force Awakens | 25.00% | ~11,481 |
-| The Last Jedi | 21.00% | ~9,644 |
+| The Force Awakens | 25.00% | ~11,482 |
+| The Last Jedi | 21.00% | ~9,645 |
 | The Rise of Skywalker | 19.00% | ~8,726 |
-| ''It's true... all of it'' | 18.00% | ~8,266 |
-| ''Get the crews to their fighters'' | 17.00% | ~7,807 |
+| ''It's true... all of it'' | 18.00% | ~8,267 |
+| ''Get the crews to their fighters'' | 17.00% | ~7,808 |
 | ''Raw, untamed power'' | 8.00% | ~3,674 |
 | Rishi Maze | 4.00% | ~1,837 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,837 |
@@ -33,26 +33,26 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''GONK!'' | 3.00% | ~1,378 |
 | ''Hey, what are you trying to push on us?'' | 3.00% | ~1,378 |
 | The Slice | 3.00% | ~1,378 |
-| ''Hello there!'' | 2.00% | ~918 |
-| Unknown Regions | 2.00% | ~918 |
-| ''Do or do not. There is no try'' | 2.00% | ~918 |
-| ''See you around, kid'' | 2.00% | ~918 |
-| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~918 |
-| Greater Javin | 2.00% | ~918 |
-| New Territories | 2.00% | ~918 |
-| The Interior | 2.00% | ~918 |
-| Western Reaches | 2.00% | ~918 |
-| Trailing Sectors | 2.00% | ~918 |
-| The Arkanis Sector | 2.00% | ~918 |
-| ''Power! Unlimited power!'' | 2.00% | ~918 |
-| ''Now I am the Master'' | 2.00% | ~918 |
+| ''Hello there!'' | 2.00% | ~919 |
+| Unknown Regions | 2.00% | ~919 |
+| ''Do or do not. There is no try'' | 2.00% | ~919 |
+| ''See you around, kid'' | 2.00% | ~919 |
+| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~919 |
+| Greater Javin | 2.00% | ~919 |
+| New Territories | 2.00% | ~919 |
+| The Interior | 2.00% | ~919 |
+| Western Reaches | 2.00% | ~919 |
+| Trailing Sectors | 2.00% | ~919 |
+| The Arkanis Sector | 2.00% | ~919 |
+| ''Power! Unlimited power!'' | 2.00% | ~919 |
+| ''Now I am the Master'' | 2.00% | ~919 |
 | ''A little short for a Stormtrooper...'' | 1.00% | ~459 |
 | ''Jedi Business'' | 1.00% | ~459 |
 | ''No more training, do you require'' | 1.00% | ~459 |
 | ''You needn't worry about your reward'' | 1.00% | ~459 |
 | ''I've never seen a real one!'' | 0.80% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,925 (Ranked 76)  
+Progressed: 45,927 (Ranked 76)  
 Completed: 162 (0.35%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 162 (0.35%) (Ranked 115)
 | 2023-05-11 | 45,627 | 162 |
 | 2023-05-12 | 45,785 | 162 |
 | 2023-05-13 | 45,906 | 162 |
-| 2023-05-14 | 45,925 | 162 |
+| 2023-05-14 | 45,927 | 162 |
 ## Awards
 Max (Great Boss Battles): 2,252  (Ranked 97)  
 Sum: 6,299 (Ranked 111)  

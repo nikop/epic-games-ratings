@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -3913,10 +3913,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13001,
       "NumberOfAwardsMax": 6523
+    },
+    {
+      "Time": "2023-05-14T05:00:07.394416+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13003,
+      "NumberOfAwardsMax": 6523
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13001,
+  "NumberOfAwards": 13003,
   "NumberOfAwardsMax": 6523,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3936,7 +3942,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 732
+      "Count": 734
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3993,9 +3999,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49760,
+  "EOS_Progressed": 49762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6063,6 +6069,11 @@
       "Time": "2023-05-14T04:06:33.1158078+00:00",
       "NumProgressed": 49760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T05:06:26.5246783+00:00",
+      "NumProgressed": 49762,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6074,7 +6085,7 @@
       "Name": "Against all odds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "Apple of my eye",
@@ -6242,7 +6253,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6966
+      "UsersEstimate": 6967
     },
     {
       "ID": "I spit on your grave",
@@ -6298,7 +6309,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14430
+      "UsersEstimate": 14431
     },
     {
       "ID": "Lawbringer",
@@ -6306,7 +6317,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17416
+      "UsersEstimate": 17417
     },
     {
       "ID": "Lawmaker",
@@ -6418,7 +6429,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "The king is pleased",
@@ -6450,7 +6461,7 @@
       "Name": "Trained",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 9454
+      "UsersEstimate": 9455
     },
     {
       "ID": "Undercover",
@@ -6481,15 +6492,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49760,
+      "Progressed": 49762,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-13T17:59:57.313345+00:00",
-  "LastChanged_Achievements": "2023-05-14T04:06:33.1158071+00:00",
+  "LastChanged": "2023-05-14T05:00:07.3944158+00:00",
+  "LastChanged_Achievements": "2023-05-14T05:06:26.5246779+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-14T04:00:24.5906225+00:00",
-  "LastUpdate_Achievements": "2023-05-14T04:06:33.1158723+00:00"
+  "LastUpdate_Ratings": "2023-05-14T05:00:07.3944166+00:00",
+  "LastUpdate_Achievements": "2023-05-14T05:06:26.5247491+00:00"
 }

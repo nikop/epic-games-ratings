@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,693 |
-| Right Back At Ya | 37.00% | ~295,831 |
-| The Lovers | 32.00% | ~255,853 |
-| Stanislavski's Method | 27.00% | ~215,876 |
-| The Wheel of Fortune | 25.00% | ~199,886 |
-| The Hermit | 23.00% | ~183,895 |
-| Christmas Tree Attack | 22.00% | ~175,899 |
-| True Soldier | 22.00% | ~175,899 |
-| Legend of The Afterlife | 21.00% | ~167,904 |
-| The High Priestess | 20.00% | ~159,908 |
-| Life of the Road | 19.00% | ~151,913 |
-| Full Body Conversion | 17.00% | ~135,922 |
-| The World | 16.00% | ~127,927 |
-| Bushido and Chill | 15.00% | ~119,931 |
-| Gun Fu | 14.00% | ~111,936 |
-| True Warrior | 14.00% | ~111,936 |
-| To Protect and Serve | 13.00% | ~103,940 |
-| Master Crafter | 13.00% | ~103,940 |
-| I Am The Law | 13.00% | ~103,940 |
-| Judy vs Night City | 13.00% | ~103,940 |
-| Two Heads, One Bullet | 11.00% | ~87,950 |
-| The Wandering Fool | 9.00% | ~71,959 |
-| The Quick and the Dead | 9.00% | ~71,959 |
-| Ten out of Ten | 8.00% | ~63,963 |
-| Breathtaking | 7.00% | ~55,968 |
+| The Fool | 67.00% | ~535,699 |
+| Right Back At Ya | 37.00% | ~295,834 |
+| The Lovers | 32.00% | ~255,856 |
+| Stanislavski's Method | 27.00% | ~215,879 |
+| The Wheel of Fortune | 25.00% | ~199,888 |
+| The Hermit | 23.00% | ~183,897 |
+| Christmas Tree Attack | 22.00% | ~175,901 |
+| True Soldier | 22.00% | ~175,901 |
+| Legend of The Afterlife | 21.00% | ~167,906 |
+| The High Priestess | 20.00% | ~159,910 |
+| Life of the Road | 19.00% | ~151,915 |
+| Full Body Conversion | 17.00% | ~135,924 |
+| The World | 16.00% | ~127,928 |
+| Bushido and Chill | 15.00% | ~119,933 |
+| Gun Fu | 14.00% | ~111,937 |
+| True Warrior | 14.00% | ~111,937 |
+| To Protect and Serve | 13.00% | ~103,942 |
+| Master Crafter | 13.00% | ~103,942 |
+| I Am The Law | 13.00% | ~103,942 |
+| Judy vs Night City | 13.00% | ~103,942 |
+| Two Heads, One Bullet | 11.00% | ~87,951 |
+| The Wandering Fool | 9.00% | ~71,960 |
+| The Quick and the Dead | 9.00% | ~71,960 |
+| Ten out of Ten | 8.00% | ~63,964 |
+| Breathtaking | 7.00% | ~55,969 |
 | To Bad Decisions! | 6.00% | ~47,973 |
 | The Star | 6.00% | ~47,973 |
 | The Sun | 6.00% | ~47,973 |
 | Must Be Rats | 4.00% | ~31,982 |
 | Temperance | 4.00% | ~31,982 |
-| City Lights | 3.00% | ~23,986 |
-| Frequent Flyer | 3.00% | ~23,986 |
-| Mean Streets | 3.00% | ~23,986 |
-| Little Tokyo | 3.00% | ~23,986 |
-| Greetings from Pacifica! | 3.00% | ~23,986 |
-| The Jungle | 3.00% | ~23,986 |
-| V for Vendetta | 3.00% | ~23,986 |
-| It's Elementary | 3.00% | ~23,986 |
+| City Lights | 3.00% | ~23,987 |
+| Frequent Flyer | 3.00% | ~23,987 |
+| Mean Streets | 3.00% | ~23,987 |
+| Little Tokyo | 3.00% | ~23,987 |
+| Greetings from Pacifica! | 3.00% | ~23,987 |
+| The Jungle | 3.00% | ~23,987 |
+| V for Vendetta | 3.00% | ~23,987 |
+| It's Elementary | 3.00% | ~23,987 |
 | Autojock | 2.00% | ~15,991 |
 | The Wasteland | 2.00% | ~15,991 |
 | Daemon In The Shell | 2.00% | ~15,991 |
 | The Devil | 2.00% | ~15,991 |
-| Gunslinger | 1.00% | ~7,995 |
+| Gunslinger | 1.00% | ~7,996 |
 | Rough Landing | 0.40% | ~3,198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,542 (Ranked 11)  
+Progressed: 799,551 (Ranked 11)  
 Completed: 1,594 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,16 +75,16 @@ Completed: 1,594 (0.20%) (Ranked 139)
 | 2023-05-11 | 799,187 | 1,588 |
 | 2023-05-12 | 799,337 | 1,592 |
 | 2023-05-13 | 799,525 | 1,594 |
-| 2023-05-14 | 799,542 | 1,594 |
+| 2023-05-14 | 799,551 | 1,594 |
 ## Awards
 Max (Character Customization): 64,131  (Ranked 9)  
-Sum: 168,175 (Ranked 13)  
+Sum: 168,186 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 64,131 |
 | This game has Great Boss Battles | 41,263 |
-| This game has Amazing Storytelling | 7,398 |
+| This game has Amazing Storytelling | 7,409 |
 | This game has Diverse Characters | 7,363 |
 | This game is Great for Beginners | 7,349 |
 | This game is Extremely Fun | 7,303 |
@@ -211,4 +211,4 @@ Diff (max vs sum): -4
 | 2023-05-11 | 4.62 | - | 64,019 | 167,743 |
 | 2023-05-12 | 4.62 | - | 64,063 | 167,932 |
 | 2023-05-13 | 4.62 | - | 64,131 | 168,153 |
-| 2023-05-14 | 4.62 | - | 64,131 | 168,175 |
+| 2023-05-14 | 4.62 | - | 64,131 | 168,186 |

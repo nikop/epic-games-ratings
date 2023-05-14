@@ -24,10 +24,13 @@
 | Bring Home The Bacon | 6.00% | ~3 |
 | Chick Magnet | 6.00% | ~3 |
 | Honk Honk | 6.00% | ~3 |
+| Darkside Survivor | 6.00% | ~3 |
 | Early Bird | 6.00% | ~3 |
+| Pro Shotgunner | 4.00% | ~2 |
+| Pro Digger | 4.00% | ~2 |
 | Pum-King | 4.00% | ~2 |
 | 15 Days | 2.00% | ~1 |
-| Darkside Survivor | 2.00% | ~1 |
+| 30 Days | 2.00% | ~1 |
 | Hardcore Parkour | 2.00% | ~1 |
 | I Have The High Ground | 2.00% | ~1 |
 | Cow Topper | 2.00% | ~1 |
@@ -36,11 +39,8 @@
 | Pro M6Beaner | 2.00% | ~1 |
 | Pro Peavolver | 2.00% | ~1 |
 | Pro Carrocketeer | 2.00% | ~1 |
-| Pro Shotgunner | 2.00% | ~1 |
-| Pro Digger | 2.00% | ~1 |
 | Pro Sniperagus | 2.00% | ~1 |
 | Unstoppable | 2.00% | ~1 |
-| 30 Days | 0.00% | ~0 |
 | I Believe I Can Fly | 0.00% | ~0 |
 | Prestige 1 - Farmhand | 0.00% | ~0 |
 | Pro Pyromancer | 0.00% | ~0 |

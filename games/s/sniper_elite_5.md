@@ -5,33 +5,33 @@ Rating: 4.38 (Ranked 689)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 36.00% | ~256 |
+| Meeting Resistance | 36.00% | ~257 |
 | Confirming Suspicions | 32.00% | ~228 |
-| The Kraken Wakes | 29.00% | ~206 |
-| It's Starting to Crack | 28.00% | ~199 |
+| The Kraken Wakes | 29.00% | ~207 |
+| It's Starting to Crack | 28.00% | ~200 |
 | Lord of War | 25.00% | ~178 |
 | Change the Channel | 25.00% | ~178 |
 | Resourceful | 23.00% | ~164 |
 | Taking it back | 23.00% | ~164 |
-| Organ Grinder | 22.00% | ~156 |
-| Sharpshooter | 21.00% | ~149 |
-| Target America | 21.00% | ~149 |
-| As Quiet as a Mouse | 20.00% | ~142 |
+| Organ Grinder | 22.00% | ~157 |
+| Sharpshooter | 21.00% | ~150 |
+| Target America | 21.00% | ~150 |
+| As Quiet as a Mouse | 19.00% | ~135 |
 | The Kraken Sleeps | 19.00% | ~135 |
 | Liberté | 17.00% | ~121 |
 | Explosive Efficiency | 16.00% | ~114 |
 | Climbing the Ladder | 14.00% | ~100 |
-| Fields of Glory | 14.00% | ~100 |
 | Gunslinger | 14.00% | ~100 |
 | Skirmisher | 14.00% | ~100 |
 | Close Quarters | 14.00% | ~100 |
-| Just a Flesh Wound | 13.00% | ~92 |
-| Der Geist | 13.00% | ~92 |
-| Snake in the Grass | 13.00% | ~92 |
-| Enemy at the Gates | 12.00% | ~85 |
-| Set Europe Ablaze | 12.00% | ~85 |
-| Die Nussknacker Sweet! | 12.00% | ~85 |
-| Brains of the Operation | 12.00% | ~85 |
+| Fields of Glory | 13.00% | ~93 |
+| Just a Flesh Wound | 13.00% | ~93 |
+| Der Geist | 13.00% | ~93 |
+| Snake in the Grass | 13.00% | ~93 |
+| Enemy at the Gates | 12.00% | ~86 |
+| Set Europe Ablaze | 12.00% | ~86 |
+| Die Nussknacker Sweet! | 12.00% | ~86 |
+| Brains of the Operation | 12.00% | ~86 |
 | No Stone Unturned | 11.00% | ~78 |
 | Opposing Force | 11.00% | ~78 |
 | My Little Friend | 9.00% | ~64 |
@@ -43,12 +43,12 @@ Rating: 4.38 (Ranked 689)
 | Ghost of Falaise | 6.00% | ~40 |
 | The Long Game | 5.00% | ~36 |
 | Siegebreaker | 5.00% | ~33 |
-| If You Go Down To The Woods Today | 5.00% | ~33 |
-| Strategist | 4.00% | ~28 |
-| Tinkerer | 4.00% | ~28 |
-| Don't hold your breath | 4.00% | ~28 |
-| Shoot for the Moon | 4.00% | ~28 |
-| Fight Another Day | 4.00% | ~26 |
+| Strategist | 4.00% | ~29 |
+| Tinkerer | 4.00% | ~29 |
+| Don't hold your breath | 4.00% | ~29 |
+| Shoot for the Moon | 4.00% | ~29 |
+| If You Go Down To The Woods Today | 4.00% | ~27 |
+| Fight Another Day | 4.00% | ~27 |
 | Burn after reading | 3.00% | ~21 |
 | It'll Buff Right Out | 3.00% | ~21 |
 | Locomotion Commotion | 3.00% | ~21 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711 (Ranked 176)  
+Progressed: 713 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-11 | 701 | 2 |
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
-| 2023-05-14 | 711 | 2 |
+| 2023-05-14 | 713 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
