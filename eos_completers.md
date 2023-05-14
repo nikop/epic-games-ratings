@@ -5,10 +5,10 @@
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
-| 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
-| 7 | [Island Cities](games/i/island_cities.md) | 20.29% |
-| 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 18.75% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.88% |
+| 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
+| 8 | [Island Cities](games/i/island_cities.md) | 20.29% |
+| 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.67% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
@@ -52,14 +52,14 @@
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.86% |
 | 52 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.78% |
-| 52 | [Them and Us](games/t/them_and_us.md) | 2.78% |
-| 54 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
-| 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 56 | [FORECLOSED](games/f/foreclosed.md) | 2.67% |
+| 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
+| 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.67% |
+| 56 | [Them and Us](games/t/them_and_us.md) | 2.63% |
 | 57 | [JARS](games/j/jars.md) | 2.56% |
 | 58 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
+| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -104,8 +104,8 @@
 | 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 105 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
-| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
+| 105 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |

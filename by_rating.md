@@ -374,29 +374,29 @@
 | 351 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 268 | 233 |
 | 351 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 491 |
 | 351 | [Supraland](games/s/supraland.md) | 4.61 | 7,609 | 40 |
+| 351 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 189 | 262 |
 | 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 373 |
 | 351 | [Warframe](games/w/warframe.md) | 4.61 | 14,751 | 21 |
-| 377 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,774 | 29 |
-| 377 | [Control](games/c/control.md) | 4.60 | 8,274 | 38 |
-| 377 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
-| 377 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 353 |
-| 377 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,260 | 25 |
-| 377 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 304 |
-| 377 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 491 |
-| 377 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 382 |
-| 377 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 421 |
-| 377 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 375 |
-| 377 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 0 | 491 |
-| 377 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
-| 377 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 491 |
-| 377 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 441 | 190 |
-| 377 | [The Medium](games/t/the_medium.md) | 4.60 | 0 | 491 |
-| 377 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 189 | 262 |
-| 377 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 485 |
-| 377 | [Wall World](games/w/wall_world.md) | 4.60 | 0 | 491 |
-| 377 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 491 |
-| 377 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 343 |
-| 377 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 491 |
+| 378 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,774 | 29 |
+| 378 | [Control](games/c/control.md) | 4.60 | 8,274 | 38 |
+| 378 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
+| 378 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 353 |
+| 378 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,260 | 25 |
+| 378 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 304 |
+| 378 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.60 | 0 | 491 |
+| 378 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 57 | 382 |
+| 378 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 421 |
+| 378 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 375 |
+| 378 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 0 | 491 |
+| 378 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.60 | 1,059 | 129 |
+| 378 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 491 |
+| 378 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 441 | 190 |
+| 378 | [The Medium](games/t/the_medium.md) | 4.60 | 0 | 491 |
+| 378 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 485 |
+| 378 | [Wall World](games/w/wall_world.md) | 4.60 | 0 | 491 |
+| 378 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 491 |
+| 378 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 343 |
+| 378 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 491 |
 | 398 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 405 |
 | 398 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 56,710 | 10 |
 | 398 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 598 | 165 |

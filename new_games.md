@@ -155,4 +155,3 @@
 | [illusion](games/i/illusion.md) | 2023-04-14 | 2022-07-29 |
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 2020-11-09 |
 | [Crimson Dawn](games/c/crimson_dawn.md) | 2023-04-14 | 2022-10-09 |
-| [Dream magic will](games/d/dream_magic_will.md) | 2023-04-14 | 2022-08-17 |
