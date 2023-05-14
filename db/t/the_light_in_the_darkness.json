@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1257,
+  "EOS_Progressed": 1258,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 7.8,
+  "EOS_Completed_Percentage": 7.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1053,6 +1053,11 @@
       "Time": "2023-05-14T07:06:33.4376352+00:00",
       "NumProgressed": 1257,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-05-14T10:06:07.727004+00:00",
+      "NumProgressed": 1258,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 12,
@@ -1104,7 +1109,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Jude",
@@ -1128,7 +1133,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1159,7 +1164,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1257,
+      "Progressed": 1258,
       "Completed": 98
     }
   ],
@@ -1167,8 +1172,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-14T09:05:23.1318229+00:00",
+  "LastChanged_Achievements": "2023-05-14T10:06:07.7270038+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:59:06.6345444+00:00",
-  "LastUpdate_Achievements": "2023-05-14T09:05:23.1318561+00:00"
+  "LastUpdate_Ratings": "2023-05-14T09:59:54.8256842+00:00",
+  "LastUpdate_Achievements": "2023-05-14T10:06:07.7270172+00:00"
 }

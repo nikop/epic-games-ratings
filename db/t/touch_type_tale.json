@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2595,
+  "EOS_Progressed": 2596,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -704,6 +704,11 @@
       "Time": "2023-05-14T09:05:36.3061529+00:00",
       "NumProgressed": 2595,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-14T10:06:24.7800227+00:00",
+      "NumProgressed": 2596,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -803,7 +808,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "campaign15",
@@ -851,7 +856,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "campaign20",
@@ -907,7 +912,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "campaign9",
@@ -978,7 +983,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2595,
+      "Progressed": 2596,
       "Completed": 9
     }
   ],
@@ -986,8 +991,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-14T09:05:36.3061525+00:00",
+  "LastChanged_Achievements": "2023-05-14T10:06:24.7800224+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:59:38.0505621+00:00",
-  "LastUpdate_Achievements": "2023-05-14T09:05:36.3061802+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:00:38.3325896+00:00",
+  "LastUpdate_Achievements": "2023-05-14T10:06:24.7800476+00:00"
 }

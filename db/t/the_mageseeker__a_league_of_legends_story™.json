@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 1988,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1286,9 +1286,9 @@
       "ID": "STB_COLISSEUM_FOURTH",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods IV",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 219
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -1703,8 +1703,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-14T09:05:08.3809506+00:00",
+  "LastChanged_Achievements": "2023-05-14T10:05:48.3257616+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:57:28.0854818+00:00",
-  "LastUpdate_Achievements": "2023-05-14T09:05:08.3810028+00:00"
+  "LastUpdate_Ratings": "2023-05-14T09:57:30.3438911+00:00",
+  "LastUpdate_Achievements": "2023-05-14T10:05:48.3258119+00:00"
 }

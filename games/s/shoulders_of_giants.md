@@ -8,7 +8,7 @@ Rating: 4.29 (Ranked 760)
 | On the Shoulders of Giants | 88.00% | ~1,705 |
 | A Ribbiting Performance | 78.00% | ~1,511 |
 | At Least We Have Each Other... | 77.00% | ~1,491 |
-| Frogbot | 73.00% | ~1,414 |
+| Frogbot | 74.00% | ~1,433 |
 | Ouch | 56.00% | ~1,085 |
 | Fun in the Stun | 56.00% | ~1,085 |
 | Do you feel like a tough guy? | 46.00% | ~891 |
@@ -16,7 +16,7 @@ Rating: 4.29 (Ranked 760)
 | Turn Up The HEAT | 41.00% | ~794 |
 | Stop Hitting Yourself! | 35.00% | ~678 |
 | Nothing to Wear | 31.00% | ~600 |
-| The First Law of Thermodynamics | 27.00% | ~523 |
+| The First Law of Thermodynamics | 28.00% | ~542 |
 | Do you trust me? | 16.00% | ~310 |
 | The Second Law of Thermodynamics | 15.00% | ~291 |
 | The Third Law of Thermodynamics | 9.00% | ~174 |

@@ -17,7 +17,7 @@ Number of Ratings: 58  (23.09.2022)
 | Paragon | 64.00% | ~551 |
 | Old Days Born Anew | 63.00% | ~542 |
 | Full Arsenal | 58.00% | ~499 |
-| Controlled Demolition | 56.00% | ~482 |
+| Controlled Demolition | 57.00% | ~491 |
 | Payback | 54.00% | ~465 |
 | Born to Drift | 53.00% | ~456 |
 | Huntress | 53.00% | ~456 |

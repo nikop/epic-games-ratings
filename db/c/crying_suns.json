@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 457963,
+  "EOS_Progressed": 457964,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2558,6 +2558,11 @@
       "Time": "2023-05-14T09:05:26.2708142+00:00",
       "NumProgressed": 457963,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-14T10:06:11.914872+00:00",
+      "NumProgressed": 457964,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2569,7 +2574,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 68694
+      "UsersEstimate": 68695
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -2577,7 +2582,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 68694
+      "UsersEstimate": 68695
     },
     {
       "ID": "achievement_first_death",
@@ -2585,7 +2590,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105331
+      "UsersEstimate": 105332
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -2601,7 +2606,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 68694
+      "UsersEstimate": 68695
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -2737,7 +2742,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 68694
+      "UsersEstimate": 68695
     },
     {
       "ID": "achievement_story_neon_child",
@@ -3088,21 +3093,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 1897,
-      "Completed": 1897
+      "Progressed": 1898,
+      "Completed": 1898
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 457963,
+      "Progressed": 457964,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-14T09:05:26.2708138+00:00",
+  "LastChanged_Achievements": "2023-05-14T10:06:11.9148717+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:58:49.1907432+00:00",
-  "LastUpdate_Achievements": "2023-05-14T09:05:26.2708895+00:00"
+  "LastUpdate_Ratings": "2023-05-14T09:59:29.067869+00:00",
+  "LastUpdate_Achievements": "2023-05-14T10:06:11.9149333+00:00"
 }

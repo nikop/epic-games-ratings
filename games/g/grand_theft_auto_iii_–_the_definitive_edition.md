@@ -5,7 +5,7 @@ Rating: 4.13 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,067 |
+| First Day on the Job | 83.00% | ~4,068 |
 | Disposing of the Evidence | 36.00% | ~1,764 |
 | Without a Scratch | 32.00% | ~1,568 |
 | Wreckless Driving | 27.00% | ~1,323 |
@@ -33,9 +33,9 @@ Rating: 4.13 (Ranked 849)
 | Going Rogue | 0.80% | ~39 |
 | Furious First Responder | 0.80% | ~39 |
 | Is That All You've Got? | 0.80% | ~39 |
-| King of Liberty City | 0.50% | ~24 |
+| King of Liberty City | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,900 (Ranked 123)  
+Progressed: 4,901 (Ranked 123)  
 Completed: 26 (0.53%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 26 (0.53%) (Ranked 103)
 | 2023-05-11 | 4,876 | 26 |
 | 2023-05-12 | 4,885 | 26 |
 | 2023-05-13 | 4,896 | 26 |
-| 2023-05-14 | 4,900 | 26 |
+| 2023-05-14 | 4,901 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

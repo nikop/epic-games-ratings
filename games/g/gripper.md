@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Skinner | 59.00% | ~13 |
-| Deal with Shock | 55.00% | ~12 |
-| Deal with Anger | 32.00% | ~7 |
-| Robolimb Ripper | 18.00% | ~4 |
-| Deal with Depression | 18.00% | ~4 |
-| No Shock Race | 14.00% | ~3 |
+| Skinner | 57.00% | ~13 |
+| Deal with Shock | 52.00% | ~12 |
+| Deal with Anger | 30.00% | ~7 |
+| Robolimb Ripper | 17.00% | ~4 |
+| Deal with Depression | 17.00% | ~4 |
+| No Shock Race | 13.00% | ~3 |
 | Max Health | 9.00% | ~2 |
 | No Anger Race | 9.00% | ~2 |
 | No Depression Race | 9.00% | ~2 |
 | Deal with Acceptance | 9.00% | ~2 |
 | Zero to Hero | 9.00% | ~2 |
-| Bronze Tunnel Collector | 5.00% | ~1 |
-| Silver Tunnel Collector | 5.00% | ~1 |
-| Golden Tunnel Collector | 5.00% | ~1 |
-| Platinum Tunnel Collector | 5.00% | ~1 |
-| Monster Energy | 5.00% | ~1 |
-| Total Anger | 5.00% | ~1 |
-| Total Shock | 5.00% | ~1 |
-| Boss Rusher | 5.00% | ~1 |
-| Flawless Boss Rusher | 5.00% | ~1 |
-| The Fastest Boss Rusher | 5.00% | ~1 |
-| Faster Boss Rusher | 5.00% | ~1 |
-| Fast Boss Rusher | 5.00% | ~1 |
-| Tunnel Runner | 5.00% | ~1 |
+| Bronze Tunnel Collector | 4.00% | ~1 |
+| Silver Tunnel Collector | 4.00% | ~1 |
+| Golden Tunnel Collector | 4.00% | ~1 |
+| Platinum Tunnel Collector | 4.00% | ~1 |
+| Monster Energy | 4.00% | ~1 |
+| Total Anger | 4.00% | ~1 |
+| Total Shock | 4.00% | ~1 |
+| Boss Rusher | 4.00% | ~1 |
+| Flawless Boss Rusher | 4.00% | ~1 |
+| The Fastest Boss Rusher | 4.00% | ~1 |
+| Faster Boss Rusher | 4.00% | ~1 |
+| Fast Boss Rusher | 4.00% | ~1 |
+| Tunnel Runner | 4.00% | ~1 |
 | Unlocked and Loaded | 0.00% | ~0 |
 | Call me Neo | 0.00% | ~0 |
 | Total Acceptor | 0.00% | ~0 |
@@ -40,13 +40,14 @@
 | Catastrophe | 0.00% | ~0 |
 | Flawless Tunnel Runner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 301)  
+Progressed: 23 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 21 | 0 |
 | 2023-05-04 | 22 | 0 |
+| 2023-05-14 | 23 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

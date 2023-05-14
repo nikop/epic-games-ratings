@@ -24,7 +24,7 @@ Rating: 4.50 (Ranked 529)
 | End of the Mozis | 35.00% | ~480 |
 | Meet the Creatures from the Deep | 34.00% | ~466 |
 | Return Power To The Depths | 34.00% | ~466 |
-| Defeat Ratnor Rodentson | 27.00% | ~370 |
+| Defeat Ratnor Rodentson | 28.00% | ~384 |
 | Return the Statues | 24.00% | ~329 |
 | Defeat Rattus Augustail | 24.00% | ~329 |
 | Complete the Chefs Book | 23.00% | ~315 |

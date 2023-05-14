@@ -27,10 +27,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.60% | ~4,217 |
 | Lightning Hands | 0.60% | ~4,217 |
 | Take damage to save time | 0.60% | ~4,217 |
-| The Old Grandmaster | 0.50% | ~3,514 |
-| Dance of the Praying Mantis | 0.50% | ~3,514 |
-| Old Child | 0.50% | ~3,514 |
-| Kung-Fu Tussle | 0.50% | ~3,514 |
+| The Old Grandmaster | 0.50% | ~3,515 |
+| Dance of the Praying Mantis | 0.50% | ~3,515 |
+| Old Child | 0.50% | ~3,515 |
+| Kung-Fu Tussle | 0.50% | ~3,515 |
 | Deadly Venom | 0.50% | ~61 |
 | A Touch of Acumen | 0.50% | ~61 |
 | Muk Yan Master | 0.40% | ~2,812 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,900 (Ranked 15)  
+Progressed: 702,901 (Ranked 15)  
 Completed: 12,726 (1.81%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,10 +81,10 @@ Completed: 12,726 (1.81%) (Ranked 63)
 | 2023-05-11 | 702,825 | 12,721 |
 | 2023-05-12 | 702,858 | 12,723 |
 | 2023-05-13 | 702,892 | 12,725 |
-| 2023-05-14 | 702,900 | 12,726 |
+| 2023-05-14 | 702,901 | 12,726 |
 ## Awards
 Max (Great Boss Battles): 6,063  (Ranked 53)  
-Sum: 10,290 (Ranked 77)  
+Sum: 10,293 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -95,7 +95,7 @@ Diff (max vs sum): -24
 | This game is Extremely Fun | 493 |
 | This game has Amazing Storytelling | 487 |
 | This game is Highly Recommended | 475 |
-| This game has Amazing Characters | 470 |
+| This game has Amazing Characters | 473 |
 | This game has Unique Visuals | 450 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 345 |
@@ -221,4 +221,4 @@ Diff (max vs sum): -24
 | 2023-05-11 | 4.82 | - | 6,050 | 10,267 |
 | 2023-05-12 | 4.82 | - | 6,055 | 10,277 |
 | 2023-05-13 | 4.82 | - | 6,063 | 10,288 |
-| 2023-05-14 | 4.82 | - | 6,063 | 10,290 |
+| 2023-05-14 | 4.82 | - | 6,063 | 10,293 |

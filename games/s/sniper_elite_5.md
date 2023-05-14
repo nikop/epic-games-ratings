@@ -6,19 +6,19 @@ Rating: 4.38 (Ranked 689)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 36.00% | ~257 |
-| Confirming Suspicions | 32.00% | ~228 |
+| Confirming Suspicions | 32.00% | ~229 |
 | The Kraken Wakes | 29.00% | ~207 |
 | It's Starting to Crack | 28.00% | ~200 |
-| Lord of War | 25.00% | ~178 |
-| Change the Channel | 25.00% | ~178 |
+| Lord of War | 25.00% | ~179 |
+| Change the Channel | 25.00% | ~179 |
 | Resourceful | 23.00% | ~164 |
 | Taking it back | 23.00% | ~164 |
 | Organ Grinder | 22.00% | ~157 |
 | Sharpshooter | 21.00% | ~150 |
 | Target America | 21.00% | ~150 |
-| As Quiet as a Mouse | 19.00% | ~136 |
+| As Quiet as a Mouse | 20.00% | ~143 |
 | The Kraken Sleeps | 19.00% | ~136 |
-| Liberté | 17.00% | ~121 |
+| Liberté | 17.00% | ~122 |
 | Explosive Efficiency | 16.00% | ~114 |
 | Climbing the Ladder | 14.00% | ~100 |
 | Gunslinger | 14.00% | ~100 |
@@ -46,13 +46,13 @@ Rating: 4.38 (Ranked 689)
 | Strategist | 4.00% | ~29 |
 | Tinkerer | 4.00% | ~29 |
 | Don't hold your breath | 4.00% | ~29 |
-| Shoot for the Moon | 4.00% | ~29 |
 | If You Go Down To The Woods Today | 4.00% | ~27 |
 | Fight Another Day | 4.00% | ~27 |
 | Burn after reading | 3.00% | ~21 |
 | It'll Buff Right Out | 3.00% | ~21 |
 | Locomotion Commotion | 3.00% | ~21 |
 | Road Rage | 3.00% | ~21 |
+| Shoot for the Moon | 3.00% | ~21 |
 | Covert Elimination | 3.00% | ~20 |
 | Out of Scope | 2.00% | ~14 |
 | From Paris with Love | 2.00% | ~14 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714 (Ranked 176)  
+Progressed: 715 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-11 | 701 | 2 |
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
-| 2023-05-14 | 714 | 2 |
+| 2023-05-14 | 715 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

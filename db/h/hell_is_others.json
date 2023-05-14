@@ -370,9 +370,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 248644,
+  "EOS_Progressed": 248651,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2535,6 +2535,11 @@
       "Time": "2023-05-14T09:05:39.3803292+00:00",
       "NumProgressed": 248644,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T10:06:29.0223393+00:00",
+      "NumProgressed": 248651,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2546,7 +2551,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17405
+      "UsersEstimate": 17406
     },
     {
       "ID": "Act2",
@@ -2562,7 +2567,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "Act4",
@@ -2594,7 +2599,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77080
+      "UsersEstimate": 77082
     },
     {
       "ID": "BackHomeNTimes",
@@ -2602,7 +2607,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12432
+      "UsersEstimate": 12433
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -2650,7 +2655,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24864
+      "UsersEstimate": 24865
     },
     {
       "ID": "CreditLevel2",
@@ -2674,7 +2679,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12432
+      "UsersEstimate": 12433
     },
     {
       "ID": "CreedsInBank2",
@@ -2682,7 +2687,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "CreedsInBank3",
@@ -2714,7 +2719,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "FullHomeExpansion",
@@ -2738,7 +2743,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "GrowPlants1",
@@ -2754,7 +2759,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "GrowPlants3",
@@ -2802,7 +2807,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12432
+      "UsersEstimate": 12433
     },
     {
       "ID": "KillOtherWithKatana",
@@ -2818,7 +2823,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7459
+      "UsersEstimate": 7460
     },
     {
       "ID": "KillOtherWithMine",
@@ -2834,7 +2839,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54702
+      "UsersEstimate": 54703
     },
     {
       "ID": "KillOthers2",
@@ -2866,7 +2871,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "MaxImagoLevel",
@@ -2898,7 +2903,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "OldCoinCollected",
@@ -2938,7 +2943,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24864
+      "UsersEstimate": 24865
     },
     {
       "ID": "ReachNDays2",
@@ -2968,9 +2973,9 @@
       "ID": "TakeHomeNHearts",
       "SetID": "3l9dm1h",
       "Name": "Heartbreaker",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 746
     },
     {
       "ID": "UnlockAllAchievements",
@@ -2986,14 +2991,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248644,
+      "Progressed": 248651,
       "Completed": 1
     }
   ],
@@ -3001,8 +3006,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-13T15:00:35.1754519+00:00",
-  "LastChanged_Achievements": "2023-05-14T09:05:39.3803288+00:00",
+  "LastChanged_Achievements": "2023-05-14T10:06:29.0223391+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.6367659+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:59:40.3767295+00:00",
-  "LastUpdate_Achievements": "2023-05-14T09:05:39.3803897+00:00"
+  "LastUpdate_Ratings": "2023-05-14T10:00:41.5742467+00:00",
+  "LastUpdate_Achievements": "2023-05-14T10:06:29.0224242+00:00"
 }

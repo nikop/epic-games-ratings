@@ -53,8 +53,8 @@ Rating: 3.64 (Ranked 917)
 | Dragon Slayer | 0.90% | ~9 |
 | Engineer Mastery | 0.80% | ~8 |
 | Lock And Load | 0.80% | ~8 |
+| Weekly Quest Completionist | 0.80% | ~8 |
 | Sailor | 0.70% | ~7 |
-| Weekly Quest Completionist | 0.70% | ~7 |
 | Blueprint Upgrades | 0.60% | ~6 |
 | Crystal Mining | 0.60% | ~6 |
 | Legendary | 0.60% | ~6 |

@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 53915,
+  "EOS_Progressed": 53919,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 993,
+  "EOS_NewPlayers": 988,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2511,6 +2511,11 @@
       "Time": "2023-05-14T09:05:20.044541+00:00",
       "NumProgressed": 53915,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-05-14T10:06:03.6204912+00:00",
+      "NumProgressed": 53919,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 24,
@@ -2530,7 +2535,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 11322
+      "UsersEstimate": 11323
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -2538,7 +2543,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 36123
+      "UsersEstimate": 36126
     },
     {
       "ID": "BEST_FRIENDS",
@@ -2546,7 +2551,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 11861
+      "UsersEstimate": 11862
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -2554,7 +2559,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 14018
+      "UsersEstimate": 14019
     },
     {
       "ID": "ERADICATE",
@@ -2562,7 +2567,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 10783
+      "UsersEstimate": 10784
     },
     {
       "ID": "FETCH",
@@ -2570,7 +2575,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14557
+      "UsersEstimate": 14558
     },
     {
       "ID": "FOXIN_AROUND",
@@ -2578,7 +2583,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 15096
+      "UsersEstimate": 15097
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -2586,7 +2591,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -2602,7 +2607,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 28036
+      "UsersEstimate": 28038
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -2610,7 +2615,7 @@
       "Name": "KINDRED SPIRITS",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "MATCH_MAKER",
@@ -2642,7 +2647,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -2650,7 +2655,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -2666,7 +2671,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 10783
+      "UsersEstimate": 10784
     },
     {
       "ID": "SPIRIT_DASH",
@@ -2682,7 +2687,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 8087
+      "UsersEstimate": 8088
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -2690,7 +2695,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 7548
+      "UsersEstimate": 7549
     },
     {
       "ID": "WEIGHTLESS",
@@ -2706,14 +2711,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 8087
+      "UsersEstimate": 8088
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 53915,
+      "Progressed": 53919,
       "Completed": 250
     }
   ],
@@ -2721,8 +2726,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-05-14T09:05:20.0445406+00:00",
+  "LastChanged_Achievements": "2023-05-14T10:06:03.6204909+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:21.0292093+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:58:58.6804118+00:00",
-  "LastUpdate_Achievements": "2023-05-14T09:05:20.0445845+00:00"
+  "LastUpdate_Ratings": "2023-05-14T09:59:43.2184334+00:00",
+  "LastUpdate_Achievements": "2023-05-14T10:06:03.6205184+00:00"
 }

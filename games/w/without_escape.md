@@ -14,7 +14,7 @@
 | Where's the air conditioner? | 0.00% | ~0 |
 | Stubbornness unleashed! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 376)  
+Progressed: 1 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

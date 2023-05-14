@@ -4,7 +4,7 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 413,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 331,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 69,
@@ -599,18 +599,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 274,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-05-14T09:59:58.0675597+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 274,
-  "NumberOfAwardsMax": 205,
+  "NumberOfAwards": 276,
+  "NumberOfAwardsMax": 207,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 205
+      "Count": 207
     },
     {
       "Text": "This game has Unique Visuals",
@@ -631,9 +637,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 29022,
+  "EOS_Progressed": 29024,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2736,6 +2742,11 @@
       "Time": "2023-05-14T09:05:28.4770764+00:00",
       "NumProgressed": 29022,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-14T10:06:14.6359823+00:00",
+      "NumProgressed": 29024,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -2811,7 +2822,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "ach_cursestone",
@@ -2835,7 +2846,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "ach_deathofermod",
@@ -2867,7 +2878,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10448
+      "UsersEstimate": 10449
     },
     {
       "ID": "ach_die10",
@@ -2915,7 +2926,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "ach_invictus",
@@ -2971,7 +2982,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "ach_newstories",
@@ -3099,7 +3110,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "ach_terror100",
@@ -3178,15 +3189,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 29022,
+      "Progressed": 29024,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2023-05-07T19:01:26.1696192+00:00",
-  "LastChanged_Achievements": "2023-05-14T09:05:28.477076+00:00",
+  "LastChanged": "2023-05-14T09:59:58.0675596+00:00",
+  "LastChanged_Achievements": "2023-05-14T10:06:14.6359819+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.7723799+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:59:09.2587+00:00",
-  "LastUpdate_Achievements": "2023-05-14T09:05:28.4771382+00:00"
+  "LastUpdate_Ratings": "2023-05-14T09:59:58.0675605+00:00",
+  "LastUpdate_Achievements": "2023-05-14T10:06:14.636033+00:00"
 }

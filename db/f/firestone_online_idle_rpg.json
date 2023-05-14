@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2147,9 +2147,9 @@
       "ID": "weeklyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Weekly Quest Completionist",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "whatliesbehindthebush",
@@ -2180,8 +2180,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-14T09:05:15.4326341+00:00",
+  "LastChanged_Achievements": "2023-05-14T10:05:57.3326558+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-14T08:57:48.0909288+00:00",
-  "LastUpdate_Achievements": "2023-05-14T09:05:15.4327205+00:00"
+  "LastUpdate_Ratings": "2023-05-14T09:58:00.1324653+00:00",
+  "LastUpdate_Achievements": "2023-05-14T10:05:57.332724+00:00"
 }

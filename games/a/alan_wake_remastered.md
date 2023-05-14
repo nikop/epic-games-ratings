@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,231 |
+| Follow the Light | 20.00% | ~9,232 |
 | Let There Be Light | 16.00% | ~7,385 |
-| Float Like a Butterfly | 15.00% | ~6,923 |
-| Nordic Walking | 13.00% | ~6,000 |
+| Float Like a Butterfly | 15.00% | ~6,924 |
+| Nordic Walking | 13.00% | ~6,001 |
 | Bright Falls' Finest | 12.00% | ~5,539 |
 | Under a Thin Layer of Skin | 11.00% | ~5,077 |
 | Park Ranger | 9.00% | ~4,154 |
 | Back! Back, I Say! | 9.00% | ~4,154 |
 | Finders Keepers | 9.00% | ~4,154 |
 | Paging Mr. Wake | 9.00% | ~4,154 |
-| Wheels Within Wheels | 8.00% | ~3,692 |
-| They're Heeeeeere! | 8.00% | ~3,692 |
-| Sound and Fury | 8.00% | ~3,692 |
-| Missed by a Mile | 8.00% | ~3,692 |
-| Damn Good Cup of Coffee | 8.00% | ~3,692 |
+| Wheels Within Wheels | 8.00% | ~3,693 |
+| They're Heeeeeere! | 8.00% | ~3,693 |
+| Sound and Fury | 8.00% | ~3,693 |
+| Missed by a Mile | 8.00% | ~3,693 |
+| Damn Good Cup of Coffee | 8.00% | ~3,693 |
 | A Friend in Need | 8.00% | ~770 |
 | Heavy Metal | 7.00% | ~3,231 |
 | Iron Horse | 7.00% | ~3,231 |
@@ -34,7 +34,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 6.00% | ~2,769 |
 | Two For the Price of One | 6.00% | ~2,769 |
 | Energized! | 6.00% | ~2,769 |
-| A Friend Indeed | 6.00% | ~577 |
+| A Friend Indeed | 6.00% | ~578 |
 | Tornado Wrangler | 5.00% | ~2,308 |
 | What Light Through Yonder Window | 5.00% | ~2,308 |
 | Right of Way | 5.00% | ~2,308 |
@@ -49,7 +49,7 @@ Number of Ratings: 524  (23.09.2022)
 | Heartbreaker | 3.00% | ~289 |
 | Boob Tube | 2.00% | ~923 |
 | Carny | 2.00% | ~923 |
-| Iron Will | 2.00% | ~192 |
+| Iron Will | 2.00% | ~193 |
 | Medical Opinions | 1.00% | ~462 |
 | Taken Season | 1.00% | ~462 |
 | An Idyllic Small Town | 1.00% | ~462 |
@@ -59,8 +59,8 @@ Number of Ratings: 524  (23.09.2022)
 | Cardboard Companions | 0.60% | ~58 |
 | Fast and Furious | 0.50% | ~48 |
 | Creative Space | 0.50% | ~48 |
-| License Revoked | 0.40% | ~38 |
-| Whirlwind | 0.40% | ~38 |
+| License Revoked | 0.40% | ~39 |
+| Whirlwind | 0.40% | ~39 |
 | Run-On Sentence | 0.30% | ~29 |
 | Tick Tock | 0.30% | ~29 |
 | Alan, Wake Up | 0.20% | ~92 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,156 (Ranked 75)  
+Progressed: 46,158 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-11 | 46,117 | 44 |
 | 2023-05-12 | 46,131 | 44 |
 | 2023-05-13 | 46,152 | 44 |
-| 2023-05-14 | 46,156 | 44 |
+| 2023-05-14 | 46,158 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

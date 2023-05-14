@@ -16,9 +16,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.80% | ~430 |
 | The Ring of Regeneration | 0.70% | ~612 |
 | Were-verpowered | 0.60% | ~525 |
+| Seeking Allies | 0.60% | ~525 |
 | Are Ya Chicken? | 0.60% | ~525 |
 | A Persistent Buzzing | 0.50% | ~437 |
-| Seeking Allies | 0.50% | ~437 |
 | Mad Cow Disease | 0.50% | ~437 |
 | Friendly Imps | 0.50% | ~437 |
 | Pure Energy | 0.50% | ~437 |
@@ -32,9 +32,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.40% | ~350 |
 | Unearthed Evil | 0.40% | ~350 |
 | The Crumbling Temple | 0.40% | ~350 |
+| Useless Allies | 0.40% | ~350 |
 | Exploring Port Nyanzaru | 0.40% | ~350 |
 | The Contagious Curse | 0.40% | ~350 |
 | Escort to Waterdeep | 0.40% | ~350 |
+| Waterdeep Detours | 0.40% | ~350 |
 | The Silken Swamp | 0.30% | ~262 |
 | Supply Run | 0.30% | ~262 |
 | Keep Your Distance | 0.30% | ~161 |
@@ -51,8 +53,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~262 |
 | The Botched Kidnapping | 0.30% | ~262 |
 | Trollskull Manor | 0.30% | ~262 |
+| Attack on the Manor | 0.30% | ~262 |
 | The Death Curse | 0.30% | ~262 |
-| Useless Allies | 0.30% | ~262 |
 | Premature Betrayal | 0.30% | ~262 |
 | The Dead Three | 0.30% | ~262 |
 | Flying Monkey Skulls of Doom | 0.30% | ~262 |
@@ -60,7 +62,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.30% | ~161 |
 | Close Escort | 0.30% | ~262 |
 | Constant Banditry | 0.30% | ~262 |
-| Waterdeep Detours | 0.30% | ~262 |
 | Underdeep Cartography | 0.30% | ~262 |
 | Overdue Rendezvous | 0.30% | ~262 |
 | The Templar's Camp | 0.30% | ~262 |
@@ -157,7 +158,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.20% | ~175 |
 | House of Darkness | 0.20% | ~175 |
 | Home Not So Alone | 0.20% | ~107 |
-| Attack on the Manor | 0.20% | ~175 |
 | The Trepidatious Trio | 0.20% | ~175 |
 | Our Time To Shine | 0.20% | ~175 |
 | Treasure Hunters | 0.20% | ~175 |
@@ -211,6 +211,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.20% | ~107 |
 | Tiamat's Army | 0.20% | ~107 |
 | Questlines | 0.20% | ~107 |
+| The Prison of Velkynvelve | 0.20% | ~107 |
 | The Giant's Bane Tavern | 0.20% | ~107 |
 | Rime Bandits | 0.20% | ~107 |
 | Giant-Size Adventure | 0.20% | ~107 |
@@ -436,7 +437,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into the Unknown | 0.10% | ~54 |
 | A Tenday at Golgamann's | 0.10% | ~54 |
 | A Nightmare Occasion | 0.10% | ~54 |
-| The Prison of Velkynvelve | 0.10% | ~54 |
 | Prisoners of Lolth | 0.10% | ~54 |
 | Prisoners of Unknown Choices | 0.10% | ~54 |
 | Only Human | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,459 (Ranked 59)  
+Progressed: 87,468 (Ranked 59)  
 Completed: 1,839 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,839 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,459 | 1,839 |
+| 2023-05-14 | 87,468 | 1,839 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,876 (Ranked 37)  

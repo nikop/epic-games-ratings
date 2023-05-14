@@ -36,7 +36,7 @@ Number of Ratings: 180  (23.09.2022)
 | The future is now, old man | 31.00% | ~332 |
 | City | 29.00% | ~311 |
 | The king of the sea | 29.00% | ~311 |
-| Transport tycoon | 24.00% | ~257 |
+| Transport tycoon | 25.00% | ~268 |
 | Climate change | 22.00% | ~236 |
 | Old timer | 22.00% | ~236 |
 | The ugly smell of success | 22.00% | ~236 |
