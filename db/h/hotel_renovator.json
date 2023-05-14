@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -70,7 +70,7 @@
   "Tags": [],
   "EOS_Progressed": 736,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -392,9 +392,9 @@
       "ID": "ACH_GOLDEN_EGGS_ALL",
       "SetID": "7k95e4n",
       "Name": "Aesop\u0027s fable",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -537,8 +537,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:05:47.1061304+00:00",
+  "LastChanged_Achievements": "2023-05-14T19:05:06.0379559+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:04.7333336+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:57:07.5340576+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:05:47.1061473+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:56:53.8163984+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:05:06.0379745+00:00"
 }

@@ -30,7 +30,7 @@ Rating: 4.13 (Ranked 849)
 | Playing Doctor | 1.00% | ~49 |
 | Planned Ahead | 0.90% | ~44 |
 | Wheels Up | 0.90% | ~44 |
-| Going Rogue | 0.80% | ~39 |
+| Going Rogue | 0.90% | ~44 |
 | Furious First Responder | 0.80% | ~39 |
 | Is That All You've Got? | 0.80% | ~39 |
 | King of Liberty City | 0.50% | ~25 |

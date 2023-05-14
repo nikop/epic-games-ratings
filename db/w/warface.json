@@ -2,7 +2,7 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 400,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.92,
+  "Rating": 3.91,
   "NumberOfRatings": 3179,
   "RatingHistory": [
     {
@@ -2647,10 +2647,16 @@
       "Rating": 3.92,
       "NumberOfAwards": 2730,
       "NumberOfAwardsMax": 389
+    },
+    {
+      "Time": "2023-05-14T18:59:06.5770048+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 2732,
+      "NumberOfAwardsMax": 389
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2730,
+  "NumberOfAwards": 2732,
   "NumberOfAwardsMax": 389,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2664,7 +2670,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 336
+      "Count": 337
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2694,7 +2700,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 376
+      "Count": 377
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2732,8 +2738,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-05-14T02:02:23.5454238+00:00",
+  "LastChanged": "2023-05-14T18:59:06.5770046+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:42.804235+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:59:49.1169135+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:04:26.8159578+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:59:06.5770053+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:03:58.2919542+00:00"
 }

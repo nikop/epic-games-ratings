@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1991,
+  "EOS_Progressed": 1992,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -1276,6 +1276,11 @@
       "Time": "2023-05-14T16:04:33.1211791+00:00",
       "NumProgressed": 1991,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T19:04:46.7787221+00:00",
+      "NumProgressed": 1992,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1335,7 +1340,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1351,7 +1356,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1367,7 +1372,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1415,7 +1420,7 @@
       "Name": "Little light",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1463,7 +1468,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1471,7 +1476,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1495,7 +1500,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -1503,7 +1508,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1543,7 +1548,7 @@
       "Name": "Glyndemere",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -1631,7 +1636,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1639,7 +1644,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -1663,7 +1668,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1679,7 +1684,7 @@
       "Name": "Full equipped",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -1701,16 +1706,16 @@
       "ID": "STB_WHIRL_ENEMIES",
       "SetID": "3pe2bac",
       "Name": "Petricite Burst",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 538
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1991,
+      "Progressed": 1992,
       "Completed": 1
     }
   ],
@@ -1718,8 +1723,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:05:24.82359+00:00",
+  "LastChanged_Achievements": "2023-05-14T19:04:46.7787217+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:57:34.7245805+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:05:24.8236313+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:57:17.3577661+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:04:46.7787843+00:00"
 }

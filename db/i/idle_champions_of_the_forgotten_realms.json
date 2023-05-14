@@ -3700,9 +3700,9 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87523,
+  "EOS_Progressed": 87528,
   "EOS_Completed": 1841,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5915,6 +5915,11 @@
       "Time": "2023-05-14T18:06:03.0058687+00:00",
       "NumProgressed": 87523,
       "NumCompleted": 1841
+    },
+    {
+      "Time": "2023-05-14T19:05:19.7862111+00:00",
+      "NumProgressed": 87528,
+      "NumCompleted": 1841
     }
   ],
   "TotalAchievements": 489,
@@ -5926,7 +5931,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "objective_completed_10",
@@ -8420,9 +8425,9 @@
       "ID": "objective_completed_590",
       "SetID": "cc37lbc",
       "Name": "Lost in the Goblin Halls",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_591",
@@ -9837,21 +9842,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53797,
+      "Progressed": 53802,
       "Completed": 2507
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87523,
+      "Progressed": 87528,
       "Completed": 1841
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T14:57:58.5030539+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:06:03.0058684+00:00",
+  "LastChanged_Achievements": "2023-05-14T19:05:19.7862106+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:58:01.5782329+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:06:03.0080742+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:57:40.3583543+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:05:19.7886272+00:00"
 }

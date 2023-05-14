@@ -145,7 +145,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1164,
+  "EOS_Progressed": 1165,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -385,6 +385,11 @@
       "Time": "2023-05-13T16:04:43.8822339+00:00",
       "NumProgressed": 1164,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-14T19:04:45.4878908+00:00",
+      "NumProgressed": 1165,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -556,7 +561,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -564,7 +569,7 @@
       "Name": "How Romantic!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_maimedHero",
@@ -572,7 +577,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_mythwalker",
@@ -596,7 +601,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -618,9 +623,9 @@
       "ID": "completedStory_cvawn",
       "SetID": "95dc8p",
       "Name": "In Soil, In Smoke",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 47
     },
     {
       "ID": "completedStory_ecthis",
@@ -652,7 +657,7 @@
       "Name": "Echoes Die",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "completedStory_procedural",
@@ -668,7 +673,7 @@
       "Name": "Daybreak",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "completedStory_vultureLord",
@@ -843,15 +848,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1164,
+      "Progressed": 1165,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:05:23.3659523+00:00",
+  "LastChanged_Achievements": "2023-05-14T19:04:45.4878901+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.1630654+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:00:37.8911811+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:05:23.3659934+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:59:45.5187576+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:04:45.4879459+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 30.00% | ~349 |
+| The Cost of Heroism | 30.00% | ~350 |
 | Me and My Familiar | 28.00% | ~326 |
-| This Too Shall Pass | 24.00% | ~279 |
+| This Too Shall Pass | 24.00% | ~280 |
 | Passing Shadow | 23.00% | ~268 |
 | Cutthroat Competitors | 23.00% | ~268 |
-| How Romantic! | 21.00% | ~244 |
-| Daybreak | 21.00% | ~244 |
+| How Romantic! | 21.00% | ~245 |
+| Daybreak | 21.00% | ~245 |
 | Gotta Ca... Must Collect All of Them | 19.00% | ~221 |
 | Completing the Look | 11.00% | ~128 |
 | War Endured | 11.00% | ~128 |
@@ -20,8 +20,8 @@ Number of Ratings: 45  (23.09.2022)
 | Who's Counting? | 10.00% | ~116 |
 | Core Failure | 10.00% | ~116 |
 | Pyrrhic Victory | 8.00% | ~93 |
-| Thematic Divergence | 7.00% | ~81 |
-| Echoes Die | 7.00% | ~81 |
+| Thematic Divergence | 7.00% | ~82 |
+| Echoes Die | 7.00% | ~82 |
 | Chain Reaction | 6.00% | ~70 |
 | Everfading | 6.00% | ~70 |
 | Another Tale to Tell | 6.00% | ~70 |
@@ -29,12 +29,12 @@ Number of Ratings: 45  (23.09.2022)
 | Let Me Get My Chisel | 5.00% | ~58 |
 | Plague Doctor | 5.00% | ~58 |
 | Legends Never Die | 4.00% | ~47 |
+| In Soil, In Smoke | 4.00% | ~47 |
 | A Hunger, Sated | 4.00% | ~47 |
 | Wingknight's Prowess | 4.00% | ~47 |
 | All My Birds, Safely Home | 4.00% | ~47 |
 | Turncoat | 4.00% | ~47 |
 | Worldwalker | 3.00% | ~35 |
-| In Soil, In Smoke | 3.00% | ~35 |
 | Bears are Scary | 3.00% | ~35 |
 | Grillmaster | 3.00% | ~35 |
 | Into Mulch | 3.00% | ~35 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,164 (Ranked 157)  
+Progressed: 1,165 (Ranked 157)  
 Completed: 3 (0.26%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 3 (0.26%) (Ranked 132)
 | 2023-05-11 | 1,159 | 3 |
 | 2023-05-12 | 1,162 | 3 |
 | 2023-05-13 | 1,164 | 3 |
+| 2023-05-14 | 1,165 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 454)  
 Sum: 27 (Ranked 463)  

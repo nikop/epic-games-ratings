@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,8 +29,8 @@
   "Tags": [],
   "EOS_Progressed": 629,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 159,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 155,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 7,
   "EosHistory": [
     {
@@ -1180,9 +1180,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 189
     },
     {
       "ID": "18",
@@ -1428,9 +1428,9 @@
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 189
     },
     {
       "ID": "46",
@@ -1460,9 +1460,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 189
     },
     {
       "ID": "5",
@@ -1476,17 +1476,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 189
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 189
     },
     {
       "ID": "7",
@@ -1525,8 +1525,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:05:13.1533451+00:00",
+  "LastChanged_Achievements": "2023-05-14T19:04:36.5936785+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:57:26.1753721+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:05:13.1533821+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:57:10.7523269+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:04:36.5937277+00:00"
 }

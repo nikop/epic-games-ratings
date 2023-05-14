@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2606,
+  "EOS_Progressed": 2608,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -744,6 +744,11 @@
       "Time": "2023-05-14T18:05:55.5688148+00:00",
       "NumProgressed": 2606,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-14T19:05:13.4548726+00:00",
+      "NumProgressed": 2608,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -753,9 +758,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 339
     },
     {
       "ID": "bonus2",
@@ -763,7 +768,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "bonus3",
@@ -803,7 +808,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2347
     },
     {
       "ID": "campaign10",
@@ -811,7 +816,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "campaign11",
@@ -827,7 +832,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "campaign13",
@@ -835,7 +840,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "campaign14",
@@ -859,7 +864,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "campaign17",
@@ -891,7 +896,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "campaign20",
@@ -907,7 +912,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "campaign4",
@@ -915,7 +920,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "campaign5",
@@ -963,7 +968,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "scenario2",
@@ -971,7 +976,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "scenario3",
@@ -1018,7 +1023,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2606,
+      "Progressed": 2608,
       "Completed": 9
     }
   ],
@@ -1026,8 +1031,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:05:55.5688145+00:00",
+  "LastChanged_Achievements": "2023-05-14T19:05:13.4548722+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-14T18:00:14.7077154+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:05:55.5688351+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:59:27.5955468+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:05:13.4548989+00:00"
 }

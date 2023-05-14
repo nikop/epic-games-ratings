@@ -15,11 +15,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 0.90% | ~133 |
 | Taking Action | 0.90% | ~133 |
 | Bandit Camp | 0.80% | ~119 |
+| Barren Lands | 0.80% | ~119 |
 | Lost Colonies | 0.80% | ~119 |
 | Like a Machine | 0.80% | ~119 |
 | Trade Baron | 0.80% | ~119 |
 | Homesick | 0.70% | ~104 |
-| Barren Lands | 0.70% | ~104 |
 | Ancient Battleground | 0.70% | ~104 |
 | Cursed Lands | 0.70% | ~104 |
 | Sparkdew Crystals | 0.60% | ~89 |
@@ -34,10 +34,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.50% | ~74 |
 | Haunted Forest | 0.50% | ~74 |
 | Levitating Monument | 0.50% | ~74 |
+| Forsaken Gods Temple | 0.50% | ~74 |
 | Watchtower | 0.50% | ~74 |
 | Forbidden Lands | 0.40% | ~59 |
 | Statue of the Forefathers | 0.40% | ~59 |
-| Forsaken Gods Temple | 0.40% | ~59 |
 | Defying the Crown | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
 | Ruined Armory | 0.30% | ~44 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,814 (Ranked 98)  
+Progressed: 14,816 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 30 (0.20%) (Ranked 139)
 | 2023-05-11 | 14,756 | 30 |
 | 2023-05-12 | 14,766 | 30 |
 | 2023-05-13 | 14,794 | 30 |
-| 2023-05-14 | 14,814 | 30 |
+| 2023-05-14 | 14,816 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 193)  
 Sum: 3,022 (Ranked 150)  

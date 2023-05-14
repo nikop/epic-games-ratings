@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -481,9 +481,9 @@
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achSaveses",
@@ -521,9 +521,9 @@
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -536,8 +536,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:02:30.2399715+00:00",
+  "LastChanged_Achievements": "2023-05-14T19:02:25.9314263+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:07.9454664+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:57:09.8221077+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:02:30.2399844+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:56:56.7292346+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:02:25.9314405+00:00"
 }

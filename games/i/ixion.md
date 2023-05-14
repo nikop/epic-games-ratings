@@ -30,6 +30,7 @@ Rating: 4.55 (Ranked 465)
 | From the Past | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |
+| Necessary Enhancement | 0.30% | ~6 |
 | All in Good Health | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
@@ -37,7 +38,6 @@ Rating: 4.55 (Ranked 465)
 | Sustainable Energy | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
 | Praise the Hull! | 0.20% | ~4 |
-| Necessary Enhancement | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
 | Delivery! | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |

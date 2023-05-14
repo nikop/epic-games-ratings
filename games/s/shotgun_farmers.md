@@ -12,8 +12,8 @@
 | 15K | 39.00% | ~19 |
 | 10K | 39.00% | ~19 |
 | Drinking Problem | 29.00% | ~14 |
-| Skin Of Your Teeth | 20.00% | ~10 |
-| Eggtraordinary | 18.00% | ~9 |
+| Skin Of Your Teeth | 22.00% | ~11 |
+| Eggtraordinary | 20.00% | ~10 |
 | Graveside Survivor | 16.00% | ~8 |
 | Pork Chop Express | 16.00% | ~8 |
 | Getting Started | 14.00% | ~7 |
@@ -49,7 +49,7 @@
 | Pro Moolotover | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 280)  
+Progressed: 49 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

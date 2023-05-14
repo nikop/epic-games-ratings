@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,750 |
+| A Brief Tour of the Realms | 2.00% | ~1,751 |
 | Checkmate | 2.00% | ~1,076 |
 | Vecna Out! | 2.00% | ~1,076 |
 | Pin and Skewer | 1.00% | ~538 |
@@ -196,6 +196,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Faerûn's Most Neglected | 0.20% | ~108 |
 | Vault of Dragons | 0.20% | ~175 |
 | Champions of Waterdeep | 0.20% | ~175 |
+| Lost in the Goblin Halls | 0.20% | ~175 |
 | Dinosaur Racing | 0.20% | ~175 |
 | Elturel Has Fallen | 0.20% | ~175 |
 | Hailstorm! | 0.20% | ~108 |
@@ -394,7 +395,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On The Job Learning | 0.10% | ~88 |
 | Strike! | 0.10% | ~54 |
 | Take Five | 0.10% | ~54 |
-| Lost in the Goblin Halls | 0.10% | ~88 |
 | Batiri in the Goblin Halls | 0.10% | ~88 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~54 |
 | The Twilight Grove | 0.10% | ~88 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,523 (Ranked 59)  
+Progressed: 87,528 (Ranked 59)  
 Completed: 1,841 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,841 (2.10%) (Ranked 60)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,523 | 1,841 |
+| 2023-05-14 | 87,528 | 1,841 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,881 (Ranked 37)  

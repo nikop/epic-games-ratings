@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 3,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -86,9 +86,9 @@
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Dust_fighter",
@@ -126,9 +126,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Florist",
@@ -214,9 +214,9 @@
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -228,8 +228,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:00:50.5026317+00:00",
+  "LastChanged_Achievements": "2023-05-14T18:59:57.926863+00:00",
   "LastUpdate_AppInfo": "2023-05-08T14:58:36.6916699+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:57:05.9994815+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:00:50.5026481+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:56:52.6976415+00:00",
+  "LastUpdate_Achievements": "2023-05-14T18:59:57.9268798+00:00"
 }

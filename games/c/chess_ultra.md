@@ -5,31 +5,31 @@ Rating: 4.26 (Ranked 776)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 66.00% | ~108,381 |
-| Doubled Pawn | 53.00% | ~87,033 |
-| Check | 52.00% | ~85,391 |
-| Absolute pin | 44.00% | ~72,254 |
-| Promotion | 29.00% | ~47,622 |
-| Checkmate | 28.00% | ~45,980 |
-| O-O | 22.00% | ~36,127 |
-| Spanish Bishop | 20.00% | ~32,843 |
-| Queen Sacrifice | 19.00% | ~31,201 |
-| Stalemate | 17.00% | ~27,916 |
-| O-O-O | 12.00% | ~19,706 |
-| Octopus | 12.00% | ~19,706 |
-| Stranger Danger | 12.00% | ~19,706 |
-| En Passant | 8.00% | ~13,137 |
-| Double Check | 7.00% | ~11,495 |
-| Family Fork | 5.00% | ~8,211 |
-| Friendly Fire | 5.00% | ~8,211 |
-| Piece Collector | 5.00% | ~8,211 |
-| ELO | 4.00% | ~6,569 |
-| Underpromote | 4.00% | ~6,569 |
-| ELO ELO | 3.00% | ~4,926 |
-| Blind Pigs | 2.00% | ~3,284 |
-| ELO ELO ELO | 2.00% | ~3,284 |
-| Learner | 2.00% | ~3,284 |
-| Bobby Time | 1.00% | ~1,642 |
+| Chop Wood | 66.00% | ~108,417 |
+| Doubled Pawn | 53.00% | ~87,062 |
+| Check | 52.00% | ~85,419 |
+| Absolute pin | 44.00% | ~72,278 |
+| Promotion | 29.00% | ~47,638 |
+| Checkmate | 28.00% | ~45,995 |
+| O-O | 22.00% | ~36,139 |
+| Spanish Bishop | 20.00% | ~32,854 |
+| Queen Sacrifice | 19.00% | ~31,211 |
+| Stalemate | 17.00% | ~27,926 |
+| O-O-O | 12.00% | ~19,712 |
+| Octopus | 12.00% | ~19,712 |
+| Stranger Danger | 12.00% | ~19,712 |
+| En Passant | 8.00% | ~13,141 |
+| Double Check | 7.00% | ~11,499 |
+| Family Fork | 5.00% | ~8,213 |
+| Friendly Fire | 5.00% | ~8,213 |
+| Piece Collector | 5.00% | ~8,213 |
+| ELO | 4.00% | ~6,571 |
+| Underpromote | 4.00% | ~6,571 |
+| ELO ELO | 3.00% | ~4,928 |
+| Blind Pigs | 2.00% | ~3,285 |
+| ELO ELO ELO | 2.00% | ~3,285 |
+| Learner | 2.00% | ~3,285 |
+| Bobby Time | 1.00% | ~1,643 |
 | Back-rank Mate | 0.80% | ~1,314 |
 | Chess Champion | 0.30% | ~493 |
 | Alekhine’s gun | 0.10% | ~164 |
@@ -44,7 +44,7 @@ Rating: 4.26 (Ranked 776)
 | Tournament Master | 0.00% | ~0 |
 | Tournament Pro | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,214 (Ranked 51)  
+Progressed: 164,268 (Ranked 51)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 162,028 | 0 |
 | 2023-05-12 | 162,771 | 0 |
 | 2023-05-13 | 163,640 | 0 |
-| 2023-05-14 | 164,214 | 0 |
+| 2023-05-14 | 164,268 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

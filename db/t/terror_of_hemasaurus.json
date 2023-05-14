@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -76,9 +76,9 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_100_CARS_DESTROYED",
@@ -172,9 +172,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -204,9 +204,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -276,9 +276,9 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_KILL_300_ENEMIES",
@@ -325,8 +325,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-05-14T18:03:12.6834543+00:00",
+  "LastChanged_Achievements": "2023-05-14T19:03:06.3443184+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:19.1092798+00:00",
-  "LastUpdate_Ratings": "2023-05-14T17:58:22.3760701+00:00",
-  "LastUpdate_Achievements": "2023-05-14T18:03:12.6834717+00:00"
+  "LastUpdate_Ratings": "2023-05-14T18:57:57.43561+00:00",
+  "LastUpdate_Achievements": "2023-05-14T19:03:06.3443401+00:00"
 }
