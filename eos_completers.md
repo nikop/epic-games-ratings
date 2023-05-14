@@ -19,7 +19,7 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.33% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.47% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.19% |
 | 22 | [Scorn](games/s/scorn.md) | 7.08% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
@@ -42,9 +42,9 @@
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.45% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.33% |
-| 43 | [Them and Us](games/t/them_and_us.md) | 3.23% |
-| 44 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
-| 45 | [HordeCore](games/h/hordecore.md) | 3.03% |
+| 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
+| 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
+| 44 | [Them and Us](games/t/them_and_us.md) | 3.03% |
 | 46 | [Lamentum](games/l/lamentum.md) | 3.00% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
