@@ -26,12 +26,12 @@ Rating: 4.77 (Ranked 104)
 | The Spell Master | 4.00% | ~10,682 |
 | First Class Student | 4.00% | ~10,682 |
 | Troll with the Punches | 4.00% | ~10,682 |
-| The Seeker of Knowledge | 3.00% | ~8,011 |
-| The Root of the Problem | 3.00% | ~8,011 |
-| Third Time's a Charm | 3.00% | ~8,011 |
-| Room with a View | 3.00% | ~8,011 |
-| The Ends Petrify the Means | 3.00% | ~8,011 |
-| Raising Expectations | 3.00% | ~8,011 |
+| The Seeker of Knowledge | 3.00% | ~8,012 |
+| The Root of the Problem | 3.00% | ~8,012 |
+| Third Time's a Charm | 3.00% | ~8,012 |
+| Room with a View | 3.00% | ~8,012 |
+| The Ends Petrify the Means | 3.00% | ~8,012 |
+| Raising Expectations | 3.00% | ~8,012 |
 | The Toast of the Town | 2.00% | ~5,341 |
 | Going Through the Potions | 2.00% | ~5,341 |
 | Floo Around the World | 2.00% | ~5,341 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,068 |
 | Collector's Edition | 0.20% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,044 (Ranked 38)  
+Progressed: 267,050 (Ranked 38)  
 Completed: 361 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,10 +75,10 @@ Completed: 361 (0.14%) (Ranked 149)
 | 2023-05-11 | 266,628 | 359 |
 | 2023-05-12 | 266,757 | 359 |
 | 2023-05-13 | 266,911 | 361 |
-| 2023-05-14 | 267,044 | 361 |
+| 2023-05-14 | 267,050 | 361 |
 ## Awards
 Max (Character Customization): 18,751  (Ranked 18)  
-Sum: 34,339 (Ranked 33)  
+Sum: 34,353 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -86,11 +86,11 @@ Diff (max vs sum): -15
 | This game has Great Boss Battles | 8,778 |
 | This game is Extremely Fun | 765 |
 | This game is Great for Beginners | 750 |
-| This game is Relaxing | 728 |
-| This game has Diverse Characters | 722 |
+| This game is Relaxing | 732 |
+| This game has Diverse Characters | 726 |
 | This game has Amazing Storytelling | 722 |
 | This game has Amazing Characters | 709 |
-| This game is Highly Recommended | 693 |
+| This game is Highly Recommended | 699 |
 | This game has Quickly Understood Controls | 637 |
 | This game has Beautiful Visuals | 616 |
 | This game has a Creative Community | 468 |
@@ -148,4 +148,4 @@ Diff (max vs sum): -15
 | 2023-05-11 | 4.77 | 18,654 | 34,135 |
 | 2023-05-12 | 4.77 | 18,684 | 34,208 |
 | 2023-05-13 | 4.77 | 18,717 | 34,293 |
-| 2023-05-14 | 4.77 | 18,751 | 34,339 |
+| 2023-05-14 | 4.77 | 18,751 | 34,353 |

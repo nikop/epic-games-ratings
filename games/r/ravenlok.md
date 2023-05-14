@@ -26,32 +26,32 @@
 | Nightmare Fuel | 37.00% | ~232 |
 | Take Heart | 37.00% | ~232 |
 | The Guardian | 37.00% | ~232 |
+| Stronger! | 36.00% | ~226 |
 | Ancient Wisdom | 35.00% | ~220 |
 | Frog Facts! | 35.00% | ~220 |
 | All That Glistens | 35.00% | ~220 |
-| Stronger! | 35.00% | ~220 |
+| All Skilled Up! | 34.00% | ~214 |
 | It's Pointy! | 34.00% | ~214 |
 | Spellbound | 33.00% | ~207 |
-| All Skilled Up! | 33.00% | ~207 |
 | Extinct Again! | 32.00% | ~201 |
 | Bird of Prey | 32.00% | ~201 |
 | Stardust | 32.00% | ~201 |
 | Heartbreaker | 32.00% | ~201 |
 | Kidnapped! | 32.00% | ~201 |
+| Pull the Plug | 31.00% | ~195 |
+| All Heart | 31.00% | ~195 |
 | Trick Question! | 31.00% | ~195 |
-| Pull the Plug | 30.00% | ~188 |
-| All Heart | 30.00% | ~188 |
-| Soul Slayer | 29.00% | ~182 |
+| Soul Slayer | 30.00% | ~188 |
 | The Downfall | 29.00% | ~182 |
 | Extraordinary! | 29.00% | ~182 |
 | Final Showdown | 29.00% | ~182 |
 | Spot of Tea? | 29.00% | ~182 |
 | Going Home | 29.00% | ~182 |
-| Mirror, Mirror | 27.00% | ~170 |
+| Mirror, Mirror | 28.00% | ~176 |
 | Flower Power | 25.00% | ~157 |
 | Shopping Spree! | 21.00% | ~132 |
 | Crowned | 21.00% | ~132 |
-| Max Level! | 13.00% | ~82 |
+| Max Level! | 14.00% | ~88 |
 | Dance Master | 8.00% | ~50 |
 | Bombs Away! | 8.00% | ~50 |
 ## Popularity (Based on EOS Achievements)

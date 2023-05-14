@@ -13,9 +13,9 @@
 | Complete Level 1-3 | 29.00% | ~23 |
 | Defeat the warrior boss | 23.00% | ~18 |
 | Get out of my way | 22.00% | ~17 |
-| Redecorator | 18.00% | ~14 |
+| Redecorator | 19.00% | ~15 |
+| Just a sip | 18.00% | ~14 |
 | Versatile | 18.00% | ~14 |
-| Just a sip | 17.00% | ~13 |
 | Complete Level 2-1 | 15.00% | ~12 |
 | Complete Level 2-2 | 15.00% | ~12 |
 | Complete Level 2-3 | 14.00% | ~11 |

@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9340,
+  "EOS_Progressed": 9344,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
@@ -2508,6 +2508,11 @@
       "Time": "2023-05-14T16:04:54.8635488+00:00",
       "NumProgressed": 9340,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-05-14T17:06:20.710491+00:00",
+      "NumProgressed": 9344,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 20,
@@ -2519,7 +2524,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -2527,7 +2532,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "EAST_FINISHED",
@@ -2535,7 +2540,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -2559,7 +2564,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -2567,7 +2572,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -2583,7 +2588,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "FOUND_ERIN",
@@ -2631,7 +2636,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "INTRO_FINISHED",
@@ -2639,7 +2644,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7098
+      "UsersEstimate": 7101
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2647,7 +2652,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "NORTH_FINISHED",
@@ -2678,15 +2683,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9340,
+      "Progressed": 9344,
       "Completed": 208
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-14T16:04:54.8635484+00:00",
+  "LastChanged_Achievements": "2023-05-14T17:06:20.7104905+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.8345922+00:00",
-  "LastUpdate_Ratings": "2023-05-14T15:59:25.4149392+00:00",
-  "LastUpdate_Achievements": "2023-05-14T16:04:54.8635767+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:00:29.742632+00:00",
+  "LastUpdate_Achievements": "2023-05-14T17:06:20.7105127+00:00"
 }

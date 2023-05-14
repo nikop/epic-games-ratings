@@ -29,8 +29,8 @@
   "Tags": [],
   "EOS_Progressed": 628,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 166,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 165,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
     {
@@ -1159,17 +1159,17 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 195
     },
     {
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 188
     },
     {
       "ID": "17",
@@ -1231,9 +1231,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 195
     },
     {
       "ID": "24",
@@ -1351,25 +1351,25 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 226
     },
     {
       "ID": "38",
       "SetID": "d0g98p",
       "Name": "Max Level!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 88
     },
     {
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 214
     },
     {
       "ID": "4",
@@ -1383,9 +1383,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "41",
@@ -1520,8 +1520,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-14T16:04:23.060509+00:00",
+  "LastChanged_Achievements": "2023-05-14T17:05:37.5973487+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-14T15:57:14.007189+00:00",
-  "LastUpdate_Achievements": "2023-05-14T16:04:23.0605559+00:00"
+  "LastUpdate_Ratings": "2023-05-14T16:57:26.8576662+00:00",
+  "LastUpdate_Achievements": "2023-05-14T17:05:37.5973997+00:00"
 }

@@ -2254,10 +2254,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 34339,
       "NumberOfAwardsMax": 18751
+    },
+    {
+      "Time": "2023-05-14T16:57:15.2113534+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34353,
+      "NumberOfAwardsMax": 18751
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34339,
+  "NumberOfAwards": 34353,
   "NumberOfAwardsMax": 18751,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2301,19 +2307,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 722
+      "Count": 726
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 728
+      "Count": 732
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 693
+      "Count": 699
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2334,9 +2340,9 @@
       "Count": 468
     }
   ],
-  "EOS_Progressed": 267044,
+  "EOS_Progressed": 267050,
   "EOS_Completed": 361,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 993,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4504,6 +4510,11 @@
       "Time": "2023-05-14T16:00:27.540086+00:00",
       "NumProgressed": 267044,
       "NumCompleted": 361
+    },
+    {
+      "Time": "2023-05-14T17:02:09.7453517+00:00",
+      "NumProgressed": 267050,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 45,
@@ -4555,7 +4566,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "PFA_15",
@@ -4651,7 +4662,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "PFA_26",
@@ -4683,7 +4694,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "PFA_3",
@@ -4715,7 +4726,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "PFA_33",
@@ -4795,7 +4806,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "PFA_42",
@@ -4803,7 +4814,7 @@
       "Name": "Raising Expectations",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "PFA_43",
@@ -4874,16 +4885,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267044,
+      "Progressed": 267050,
       "Completed": 361
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-14T15:57:05.5770947+00:00",
-  "LastChanged_Achievements": "2023-05-14T16:00:27.5400854+00:00",
+  "LastChanged": "2023-05-14T16:57:15.2113532+00:00",
+  "LastChanged_Achievements": "2023-05-14T17:02:09.7453511+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-14T15:57:05.5770953+00:00",
-  "LastUpdate_Achievements": "2023-05-14T16:00:27.5401336+00:00"
+  "LastUpdate_Ratings": "2023-05-14T16:57:15.2113536+00:00",
+  "LastUpdate_Achievements": "2023-05-14T17:02:09.7453926+00:00"
 }

@@ -3700,10 +3700,10 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87511,
-  "EOS_Completed": 1840,
-  "EOS_NewPlayers": 753,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 87517,
+  "EOS_Completed": 1841,
+  "EOS_NewPlayers": 750,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -5905,6 +5905,11 @@
       "Time": "2023-05-14T16:05:06.2264048+00:00",
       "NumProgressed": 87511,
       "NumCompleted": 1840
+    },
+    {
+      "Time": "2023-05-14T17:06:35.6519602+00:00",
+      "NumProgressed": 87517,
+      "NumCompleted": 1841
     }
   ],
   "TotalAchievements": 489,
@@ -6810,9 +6815,9 @@
       "ID": "objective_completed_1209",
       "SetID": "415jc5c",
       "Name": "Bully for Vecna",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 484
     },
     {
       "ID": "objective_completed_1213",
@@ -6866,9 +6871,9 @@
       "ID": "objective_completed_126",
       "SetID": "cc37lbc",
       "Name": "Struggling Toward Omu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_127",
@@ -9827,21 +9832,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53785,
-      "Completed": 2506
+      "Progressed": 53791,
+      "Completed": 2507
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87511,
-      "Completed": 1840
+      "Progressed": 87517,
+      "Completed": 1841
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T14:57:58.5030539+00:00",
-  "LastChanged_Achievements": "2023-05-14T16:05:06.2264043+00:00",
+  "LastChanged_Achievements": "2023-05-14T17:06:35.6519594+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T15:57:41.6962169+00:00",
-  "LastUpdate_Achievements": "2023-05-14T16:05:06.2294269+00:00"
+  "LastUpdate_Ratings": "2023-05-14T16:58:05.8485327+00:00",
+  "LastUpdate_Achievements": "2023-05-14T17:06:35.6541764+00:00"
 }

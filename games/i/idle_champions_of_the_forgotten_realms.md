@@ -12,8 +12,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 1.00% | ~538 |
 | The Cursed Farmer | 1.00% | ~875 |
 | Beast Intentions | 0.90% | ~788 |
+| Bully for Vecna | 0.90% | ~484 |
 | The Mad Wizard | 0.90% | ~788 |
-| Bully for Vecna | 0.80% | ~430 |
 | The Ring of Regeneration | 0.70% | ~613 |
 | Were-verpowered | 0.60% | ~525 |
 | Seeking Allies | 0.60% | ~525 |
@@ -123,6 +123,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Xanathaaaaaaar! | 0.20% | ~108 |
 | Homecoming | 0.20% | ~175 |
 | Anti-Dexterous Explorers | 0.20% | ~175 |
+| Struggling Toward Omu | 0.20% | ~175 |
 | The Lost Heir of Omu | 0.20% | ~175 |
 | Not Very Charming | 0.20% | ~175 |
 | Lobsterfolk Assault | 0.20% | ~175 |
@@ -299,7 +300,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~88 |
 | Clowning Around | 0.10% | ~54 |
 | A Whale of a Time | 0.10% | ~54 |
-| Struggling Toward Omu | 0.10% | ~88 |
 | Wagon Train | 0.10% | ~88 |
 | Taking Responsibility | 0.10% | ~88 |
 | Between a Brigganock and a Hard Place | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ineffectual Intellectuals | 0.10% | ~54 |
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,511 (Ranked 59)  
-Completed: 1,840 (2.10%) (Ranked 60)  
+Progressed: 87,517 (Ranked 59)  
+Completed: 1,841 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -520,7 +520,7 @@ Completed: 1,840 (2.10%) (Ranked 60)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,511 | 1,840 |
+| 2023-05-14 | 87,517 | 1,841 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,881 (Ranked 37)  

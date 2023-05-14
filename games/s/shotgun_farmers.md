@@ -6,23 +6,23 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 98.00% | ~48 |
 | First Blood | 73.00% | ~36 |
-| Triple Kill | 65.00% | ~32 |
-| Cornivore | 59.00% | ~29 |
-| No Asperascope | 57.00% | ~28 |
+| Triple Kill | 69.00% | ~34 |
+| Cornivore | 61.00% | ~30 |
+| No Asperascope | 59.00% | ~29 |
 | 15K | 37.00% | ~18 |
 | 10K | 37.00% | ~18 |
 | Drinking Problem | 29.00% | ~14 |
 | Skin Of Your Teeth | 20.00% | ~10 |
+| Eggtraordinary | 18.00% | ~9 |
 | Graveside Survivor | 16.00% | ~8 |
 | Pork Chop Express | 16.00% | ~8 |
-| Eggtraordinary | 16.00% | ~8 |
 | Getting Started | 14.00% | ~7 |
 | Fresh Pancake | 12.00% | ~6 |
 | Quit Horsin' Around | 12.00% | ~6 |
 | Carrocketeer | 10.00% | ~5 |
+| Chick Magnet | 8.00% | ~4 |
 | Forestside Survivor | 8.00% | ~4 |
 | Bring Home The Bacon | 6.00% | ~3 |
-| Chick Magnet | 6.00% | ~3 |
 | Honk Honk | 6.00% | ~3 |
 | Darkside Survivor | 6.00% | ~3 |
 | Early Bird | 6.00% | ~3 |

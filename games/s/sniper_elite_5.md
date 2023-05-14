@@ -59,10 +59,10 @@ Rating: 4.38 (Ranked 689)
 | Souvenir hunter | 2.00% | ~14 |
 | Reich To The Point | 2.00% | ~13 |
 | Best of the Best | 1.00% | ~7 |
+| Eagle Eyed | 1.00% | ~7 |
 | Führerious Repetition | 1.00% | ~7 |
 | Alpha | 1.00% | ~7 |
 | Das Familienjuwel | 0.80% | ~5 |
-| Eagle Eyed | 0.70% | ~5 |
 | Up close and personal | 0.70% | ~5 |
 | Can't Outrun A Bullet | 0.70% | ~5 |
 | Master of Secondaries | 0.60% | ~4 |

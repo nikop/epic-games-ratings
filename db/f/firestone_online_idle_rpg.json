@@ -5,10 +5,10 @@
   "Ranking_Rating": 917,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1011,
+  "EOS_Progressed": 1015,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1577,6 +1577,11 @@
       "Time": "2023-05-14T14:05:19.4426303+00:00",
       "NumProgressed": 1011,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T17:06:00.2745643+00:00",
+      "NumProgressed": 1015,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1652,7 +1657,7 @@
       "Name": "Challenger",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "conqueror",
@@ -1772,7 +1777,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 396
     },
     {
       "ID": "fourleafclover",
@@ -1796,7 +1801,7 @@
       "Name": "Full Party",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "gearenchanting",
@@ -1836,7 +1841,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "howdoyouturnthison",
@@ -1860,7 +1865,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "jewelenchanting",
@@ -1884,7 +1889,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "lockandload",
@@ -1980,7 +1985,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 528
     },
     {
       "ID": "prestigiousx10",
@@ -1988,7 +1993,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "relicofthepast",
@@ -2044,7 +2049,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 568
     },
     {
       "ID": "thealchemist",
@@ -2076,7 +2081,7 @@
       "Name": "The game is on",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "thepowerofawakening",
@@ -2148,7 +2153,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 954
     },
     {
       "ID": "warmachinesarmy",
@@ -2180,14 +2185,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 812
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1011,
+      "Progressed": 1015,
       "Completed": 1
     }
   ],
@@ -2195,8 +2200,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-14T16:04:39.1894339+00:00",
+  "LastChanged_Achievements": "2023-05-14T17:06:00.2745639+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-14T15:57:39.2918926+00:00",
-  "LastUpdate_Achievements": "2023-05-14T16:04:39.1895223+00:00"
+  "LastUpdate_Ratings": "2023-05-14T16:58:02.5149269+00:00",
+  "LastUpdate_Achievements": "2023-05-14T17:06:00.2746359+00:00"
 }

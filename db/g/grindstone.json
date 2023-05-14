@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -329,9 +329,9 @@
       "ID": "ACHIEVE_50_GUTS",
       "SetID": "b8l3p0g",
       "Name": "Jerk-Slayer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2173
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -673,8 +673,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
-  "LastChanged_Achievements": "2023-05-14T16:05:00.1056915+00:00",
+  "LastChanged_Achievements": "2023-05-14T17:06:28.0712989+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:55.926984+00:00",
-  "LastUpdate_Ratings": "2023-05-14T15:59:18.5289099+00:00",
-  "LastUpdate_Achievements": "2023-05-14T16:05:00.1057331+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:00:20.5612465+00:00",
+  "LastUpdate_Achievements": "2023-05-14T17:06:28.0713317+00:00"
 }

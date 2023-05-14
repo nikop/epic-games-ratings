@@ -6,42 +6,42 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,296 |
-| That's a Grand Army | 8.00% | ~2,930 |
-| That is mine! | 8.00% | ~2,930 |
-| Victorious! | 8.00% | ~2,930 |
-| Brothers in Arms | 6.00% | ~2,197 |
-| That's a Grand Navy | 6.00% | ~2,197 |
-| Seriously?! | 6.00% | ~2,197 |
-| For the Glory | 5.00% | ~1,831 |
-| Cold War | 4.00% | ~1,465 |
-| True Catholic | 4.00% | ~1,465 |
-| Defender of the Faith | 3.00% | ~1,099 |
-| It's all about the money | 3.00% | ~1,099 |
-| Respected | 3.00% | ~1,099 |
-| Blockader | 2.00% | ~732 |
-| Combined Arms | 2.00% | ~732 |
-| Double the Love | 2.00% | ~732 |
-| Gentle Persuasion | 2.00% | ~732 |
-| It's all about luck | 2.00% | ~732 |
-| Queen of Conquest | 2.00% | ~732 |
-| Royal Authority | 2.00% | ~732 |
-| The Princess is in this Castle | 2.00% | ~732 |
-| Total Control | 2.00% | ~732 |
-| Truly Divine Ruler | 2.00% | ~732 |
-| Agressive Expander | 1.00% | ~366 |
-| All That's Thine Shall Be Mine | 1.00% | ~366 |
-| Azur semé de lis or | 1.00% | ~366 |
-| Bright Spark | 1.00% | ~366 |
-| City of Cities | 1.00% | ~366 |
-| Factionalism | 1.00% | ~366 |
-| A Golden Empire | 1.00% | ~366 |
-| My armies are invincible! | 1.00% | ~366 |
+| Until death do us apart | 9.00% | ~3,300 |
+| That's a Grand Army | 8.00% | ~2,933 |
+| That is mine! | 8.00% | ~2,933 |
+| Victorious! | 8.00% | ~2,933 |
+| Brothers in Arms | 6.00% | ~2,200 |
+| That's a Grand Navy | 6.00% | ~2,200 |
+| Seriously?! | 6.00% | ~2,200 |
+| For the Glory | 5.00% | ~1,833 |
+| Cold War | 4.00% | ~1,467 |
+| True Catholic | 4.00% | ~1,467 |
+| Defender of the Faith | 3.00% | ~1,100 |
+| It's all about the money | 3.00% | ~1,100 |
+| Respected | 3.00% | ~1,100 |
+| Blockader | 2.00% | ~733 |
+| Combined Arms | 2.00% | ~733 |
+| Double the Love | 2.00% | ~733 |
+| Gentle Persuasion | 2.00% | ~733 |
+| It's all about luck | 2.00% | ~733 |
+| Queen of Conquest | 2.00% | ~733 |
+| Royal Authority | 2.00% | ~733 |
+| The Princess is in this Castle | 2.00% | ~733 |
+| Total Control | 2.00% | ~733 |
+| Truly Divine Ruler | 2.00% | ~733 |
+| Agressive Expander | 1.00% | ~367 |
+| All That's Thine Shall Be Mine | 1.00% | ~367 |
+| Azur semé de lis or | 1.00% | ~367 |
+| Bright Spark | 1.00% | ~367 |
+| City of Cities | 1.00% | ~367 |
+| Factionalism | 1.00% | ~367 |
+| A Golden Empire | 1.00% | ~367 |
+| My armies are invincible! | 1.00% | ~367 |
 | Isn't this the way to India? | 0.80% | ~293 |
 | Market Control | 0.80% | ~293 |
 | The Five Colonies | 0.80% | ~293 |
-| The Emperors new clothes | 0.70% | ~256 |
-| This navy can take it all | 0.70% | ~256 |
+| The Emperors new clothes | 0.70% | ~257 |
+| This navy can take it all | 0.70% | ~257 |
 | Down Under | 0.60% | ~220 |
 | Trustworthy | 0.60% | ~220 |
 | All belongs to Mother Russia | 0.50% | ~183 |
@@ -49,16 +49,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.50% | ~183 |
 | Electable! | 0.50% | ~183 |
 | Time Bandit | 0.50% | ~183 |
-| Absolutely | 0.40% | ~146 |
-| Live Long and Prosper | 0.40% | ~146 |
-| One Family to Rule them All | 0.40% | ~146 |
-| Populists in Government | 0.40% | ~146 |
-| Ruina Imperii | 0.40% | ~146 |
-| The Continuation of Diplomacy | 0.40% | ~146 |
-| The pen is mightier than the sword | 0.40% | ~146 |
-| This is My Faith | 0.40% | ~146 |
-| Trophy Hunter | 0.40% | ~146 |
-| Voting Streak | 0.40% | ~146 |
+| Absolutely | 0.40% | ~147 |
+| Live Long and Prosper | 0.40% | ~147 |
+| One Family to Rule them All | 0.40% | ~147 |
+| Populists in Government | 0.40% | ~147 |
+| Ruina Imperii | 0.40% | ~147 |
+| The Continuation of Diplomacy | 0.40% | ~147 |
+| The pen is mightier than the sword | 0.40% | ~147 |
+| This is My Faith | 0.40% | ~147 |
+| Trophy Hunter | 0.40% | ~147 |
+| Voting Streak | 0.40% | ~147 |
 | All Your Trade Are Belong to Us | 0.30% | ~110 |
 | Bleed Them Dry | 0.30% | ~110 |
 | Dude, Where's my Boat? | 0.30% | ~110 |
@@ -77,7 +77,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Protected Market | 0.20% | ~73 |
 | AAA Credit | 0.20% | ~73 |
 | Fine Financials | 0.20% | ~73 |
-| A Fine Goosestep | 0.20% | ~73 |
 | Imperio español | 0.20% | ~73 |
 | Industrial Powerhouse | 0.20% | ~73 |
 | Just a Little Patience | 0.20% | ~73 |
@@ -139,6 +138,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Empire of Mann | 0.10% | ~37 |
 | Even Better than Piet Heyn | 0.10% | ~37 |
 | Fanatic Collectivist | 0.10% | ~37 |
+| A Fine Goosestep | 0.10% | ~37 |
 | The First Toungoo Empire | 0.10% | ~37 |
 | For Odin! | 0.10% | ~37 |
 | For the Emperor! | 0.10% | ~37 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,621 (Ranked 81)  
+Progressed: 36,667 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,15 +385,15 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 34,344 | 0 |
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
-| 2023-05-14 | 36,621 | 0 |
+| 2023-05-14 | 36,667 | 0 |
 ## Awards
 Max (Educational): 5,216  (Ranked 60)  
-Sum: 43,185 (Ranked 27)  
+Sum: 43,191 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,216 |
-| This game is Highly Recommended | 4,996 |
+| This game is Highly Recommended | 5,002 |
 | This game has Challenging Combat | 4,987 |
 | This game is Extremely Fun | 4,960 |
 | This game has Diverse Characters | 4,909 |
@@ -522,4 +522,4 @@ Diff (max vs sum): 33
 | 2023-05-11 | 4.68 | - | 5,206 | 43,064 |
 | 2023-05-12 | 4.68 | - | 5,212 | 43,110 |
 | 2023-05-13 | 4.68 | - | 5,216 | 43,160 |
-| 2023-05-14 | 4.68 | - | 5,216 | 43,185 |
+| 2023-05-14 | 4.68 | - | 5,216 | 43,191 |

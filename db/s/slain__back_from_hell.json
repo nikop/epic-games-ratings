@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 20565,
+  "EOS_Progressed": 20575,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1079,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2421,6 +2421,11 @@
       "Time": "2023-05-14T16:04:51.6255752+00:00",
       "NumProgressed": 20565,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-14T17:06:16.4708138+00:00",
+      "NumProgressed": 20575,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2432,7 +2437,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3292
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -2440,7 +2445,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4115
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2472,7 +2477,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -2504,7 +2509,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -2544,7 +2549,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -2663,7 +2668,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 20565,
+      "Progressed": 20575,
       "Completed": 16
     }
   ],
@@ -2671,8 +2676,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-14T16:04:51.6255748+00:00",
+  "LastChanged_Achievements": "2023-05-14T17:06:16.4708133+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-14T15:59:16.4404657+00:00",
-  "LastUpdate_Achievements": "2023-05-14T16:04:51.6256088+00:00"
+  "LastUpdate_Ratings": "2023-05-14T17:00:17.7498322+00:00",
+  "LastUpdate_Achievements": "2023-05-14T17:06:16.4708407+00:00"
 }
