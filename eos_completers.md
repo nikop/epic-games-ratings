@@ -105,9 +105,9 @@
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 105 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 106 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
-| 106 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
+| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
+| 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 111 | [Potion Permit](games/p/potion_permit.md) | 0.40% |

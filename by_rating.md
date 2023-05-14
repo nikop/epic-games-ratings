@@ -214,7 +214,7 @@
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,273 | 69 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 491 |
 | 214 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 491 |
-| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,121 | 8 |
+| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,198 | 8 |
 | 214 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 491 |
 | 214 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,751 | 77 |
 | 214 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 491 |
@@ -256,7 +256,7 @@
 | 235 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 85 | 341 |
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 491 |
 | 256 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 491 |
-| 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,668 | 48 |
+| 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,711 | 47 |
 | 256 | [Deceive Inc.](games/d/deceive_inc..md) | 4.67 | 0 | 491 |
 | 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 491 |
 | 256 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 32 | 435 |
@@ -504,7 +504,7 @@
 | 501 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 414 |
 | 501 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,280 | 16 |
 | 501 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 503 | 183 |
-| 501 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 324 |
+| 501 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 323 |
 | 501 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 286 |
 | 501 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 183 | 266 |
 | 501 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,149 | 125 |
@@ -586,7 +586,7 @@
 | 580 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 491 |
 | 580 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 491 |
 | 580 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 491 |
-| 580 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 324 |
+| 580 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 325 |
 | 580 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,804 | 46 |
 | 580 | [The Surge](games/t/the_surge.md) | 4.47 | 26 | 460 |
 | 580 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 491 |
@@ -648,7 +648,7 @@
 | 642 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 0 | 491 |
 | 642 | [MORDHAU](games/m/mordhau.md) | 4.42 | 110 | 312 |
 | 642 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,110 | 127 |
-| 642 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 47 |
+| 642 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
 | 642 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 236 |
 | 642 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 491 |
 | 642 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 128 | 294 |

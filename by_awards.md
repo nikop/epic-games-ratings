@@ -7,7 +7,7 @@
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 169,189 | 4.68 | 235 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 140,305 | 4.89 | 11 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 138,546 | 4.53 | 490 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,121 | 4.69 | 214 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,198 | 4.69 | 214 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 64,131 | 4.62 | 338 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,710 | 4.59 | 398 |
 | 11 | [VALORANT](games/v/valorant.md) | 52,378 | 4.54 | 478 |
@@ -46,8 +46,8 @@
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,029 | 4.57 | 428 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,962 | 4.89 | 11 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,804 | 4.47 | 580 |
-| 47 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 642 |
-| 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,668 | 4.67 | 256 |
+| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,711 | 4.67 | 256 |
+| 48 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 642 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,523 | 4.74 | 140 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,273 | 4.71 | 178 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,262 | 4.80 | 78 |
@@ -323,8 +323,8 @@
 | 321 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 101 | 4.76 | 115 |
 | 321 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 101 | 4.80 | 78 |
 | 323 | [Brawlhalla](games/b/brawlhalla.md) | 100 | 4.59 | 398 |
-| 324 | [Just Die Already](games/j/just_die_already.md) | 99 | 4.52 | 501 |
-| 324 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 99 | 4.47 | 580 |
+| 323 | [Just Die Already](games/j/just_die_already.md) | 100 | 4.52 | 501 |
+| 325 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 99 | 4.47 | 580 |
 | 326 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 97 | 4.50 | 529 |
 | 326 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 97 | 4.77 | 104 |
 | 326 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 622 |
