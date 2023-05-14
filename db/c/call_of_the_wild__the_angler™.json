@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3488,
+  "EOS_Progressed": 3490,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1128,6 +1128,11 @@
       "Time": "2023-05-14T12:05:16.3241992+00:00",
       "NumProgressed": 3488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T14:05:32.8146581+00:00",
+      "NumProgressed": 3490,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1139,7 +1144,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2478
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -1155,7 +1160,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1171,7 +1176,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -1179,7 +1184,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -1195,7 +1200,7 @@
       "Name": "Scaling up",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -1211,7 +1216,7 @@
       "Name": "License to Gill",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -1219,7 +1224,7 @@
       "Name": "More than a Tourist",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -1251,15 +1256,15 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACHIEVEMENT_016",
       "SetID": "1a05lfd",
       "Name": "School\u0027s Out for Summer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -1418,13 +1423,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3488,
+      "Progressed": 3490,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2860,
+      "Progressed": 2862,
       "Completed": 112
     }
   ],
@@ -1432,8 +1437,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:09:18.2722545+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:32.8146577+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.4232926+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:03:06.2470233+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:09:18.2722877+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:59:22.6707229+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:32.81468+00:00"
 }

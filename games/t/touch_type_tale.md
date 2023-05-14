@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,339 |
-| Flanked! | 80.00% | ~2,079 |
-| Economics 101 | 65.00% | ~1,689 |
+| You and what Army? | 90.00% | ~2,340 |
+| Flanked! | 80.00% | ~2,080 |
+| Economics 101 | 65.00% | ~1,690 |
 | Get Rich Quick | 48.00% | ~1,248 |
 | Do the Splits | 41.00% | ~1,066 |
 | Maestro | 28.00% | ~728 |
-| Full Employment | 19.00% | ~494 |
+| Full Employment | 20.00% | ~520 |
 | Clay Fighter | 18.00% | ~468 |
 | Nowhere left to Hide | 15.00% | ~390 |
 | Boulder Clash | 14.00% | ~364 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~26 |
 | All Geared Up | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,599 (Ranked 135)  
+Progressed: 2,600 (Ranked 135)  
 Completed: 9 (0.35%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 9 (0.35%) (Ranked 115)
 | 2023-05-11 | 2,558 | 9 |
 | 2023-05-12 | 2,577 | 9 |
 | 2023-05-13 | 2,591 | 9 |
-| 2023-05-14 | 2,599 | 9 |
+| 2023-05-14 | 2,600 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

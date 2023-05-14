@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54410,
+  "EOS_Progressed": 54412,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1587,6 +1587,11 @@
       "Time": "2023-05-14T12:05:26.6183085+00:00",
       "NumProgressed": 54410,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-14T14:05:43.1159016+00:00",
+      "NumProgressed": 54412,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -1670,7 +1675,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "FlyingPresentMaster",
@@ -1742,7 +1747,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "HarshLove",
@@ -1989,7 +1994,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54410,
+      "Progressed": 54412,
       "Completed": 4
     }
   ],
@@ -1997,8 +2002,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:09:31.2888568+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:43.1159012+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.6185244+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:04:01.6322399+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:09:31.288907+00:00"
+  "LastUpdate_Ratings": "2023-05-14T14:00:00.6175523+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:43.1159391+00:00"
 }

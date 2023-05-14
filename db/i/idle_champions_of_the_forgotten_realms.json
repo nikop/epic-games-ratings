@@ -3694,9 +3694,9 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87492,
+  "EOS_Progressed": 87496,
   "EOS_Completed": 1840,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5884,6 +5884,11 @@
       "Time": "2023-05-14T13:09:35.8942589+00:00",
       "NumProgressed": 87492,
       "NumCompleted": 1840
+    },
+    {
+      "Time": "2023-05-14T14:05:47.0418041+00:00",
+      "NumProgressed": 87496,
+      "NumCompleted": 1840
     }
   ],
   "TotalAchievements": 489,
@@ -6261,9 +6266,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 787
     },
     {
       "ID": "objective_completed_110",
@@ -7125,9 +7130,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_completed_170",
@@ -9806,21 +9811,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53766,
+      "Progressed": 53770,
       "Completed": 2506
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87492,
+      "Progressed": 87496,
       "Completed": 1840
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T05:57:43.2647561+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:09:35.8942583+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:47.0418036+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:00:56.2679628+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:09:35.8969163+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:57:55.3958707+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:47.0439236+00:00"
 }

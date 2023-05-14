@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -267,6 +267,11 @@
       "Time": "2023-05-13T11:05:51.8358087+00:00",
       "NumProgressed": 540,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T14:05:41.8000728+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -340,9 +345,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 108
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -613,21 +618,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 16
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:09:29.8075624+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:41.8000724+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:20.874021+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:03:52.5287964+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:09:29.8075993+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:59:53.8888196+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:41.8001074+00:00"
 }

@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5715,
+  "EOS_Progressed": 5717,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1414,6 +1414,11 @@
       "Time": "2023-05-14T13:08:41.1894933+00:00",
       "NumProgressed": 5715,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-14T14:05:03.3483272+00:00",
+      "NumProgressed": 5717,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1425,7 +1430,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ARRR",
@@ -1473,7 +1478,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1481,7 +1486,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "FASHION_VICTIM",
@@ -1592,7 +1597,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5715,
+      "Progressed": 5717,
       "Completed": 20
     }
   ],
@@ -1600,8 +1605,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-12T16:58:00.7751461+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:08:41.1894929+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:03.3483266+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:00:49.5131262+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:08:41.1895191+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:57:51.0322941+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:03.3483461+00:00"
 }

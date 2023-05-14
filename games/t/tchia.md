@@ -6,11 +6,11 @@ Rating: 4.78 (Ranked 100)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In a Pinch | 19.00% | ~1,086 |
-| Energy Saver | 16.00% | ~914 |
+| Energy Saver | 16.00% | ~915 |
 | The Journey Onwards | 12.00% | ~686 |
 | Globe Trotter | 11.00% | ~629 |
 | Body and Soul | 10.00% | ~572 |
-| Ahem Ahem | 9.00% | ~514 |
+| Ahem Ahem | 9.00% | ~515 |
 | Audiophile | 7.00% | ~400 |
 | Clay Pigeon | 6.00% | ~343 |
 | Soul-Canon | 6.00% | ~343 |
@@ -20,14 +20,14 @@ Rating: 4.78 (Ranked 100)
 | Happy Camper | 4.00% | ~229 |
 | Liberator | 4.00% | ~229 |
 | Live Wire | 4.00% | ~229 |
-| Fashion Faux-Pas | 3.00% | ~171 |
+| Fashion Faux-Pas | 3.00% | ~172 |
 | Arrr! | 2.00% | ~114 |
 | Fashion Victim | 2.00% | ~114 |
 | Snip Snip | 2.00% | ~114 |
 | Ça de Wizz! | 1.00% | ~57 |
 | Thing | 1.00% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,715 (Ranked 116)  
+Progressed: 5,717 (Ranked 116)  
 Completed: 20 (0.35%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 20 (0.35%) (Ranked 115)
 | 2023-05-11 | 5,668 | 20 |
 | 2023-05-12 | 5,689 | 20 |
 | 2023-05-13 | 5,707 | 20 |
-| 2023-05-14 | 5,715 | 20 |
+| 2023-05-14 | 5,717 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

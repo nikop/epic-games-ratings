@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1010,
+  "EOS_Progressed": 1011,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1572,6 +1572,11 @@
       "Time": "2023-05-14T12:05:02.7974605+00:00",
       "NumProgressed": 1010,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T14:05:19.4426303+00:00",
+      "NumProgressed": 1011,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1671,7 +1676,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "doingmypart",
@@ -1687,7 +1692,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "dragonmaster",
@@ -1815,7 +1820,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "herewegoagain",
@@ -1919,7 +1924,7 @@
       "Name": "Miner Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "missionsdedication",
@@ -1975,15 +1980,15 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 192
     },
     {
       "ID": "relicofthepast",
@@ -2143,7 +2148,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "warmachinesarmy",
@@ -2157,9 +2162,9 @@
       "ID": "weeklyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Weekly Quest Completionist",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "whatliesbehindthebush",
@@ -2175,14 +2180,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1010,
+      "Progressed": 1011,
       "Completed": 1
     }
   ],
@@ -2190,8 +2195,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:09:00.6102434+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:19.4426298+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:00:52.2826067+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:09:00.6103304+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:57:52.8986949+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:19.4426965+00:00"
 }

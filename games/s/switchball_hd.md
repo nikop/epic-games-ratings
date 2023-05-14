@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marbleball Badge | 67.00% | ~16 |
-| Speedroller Rookie | 63.00% | ~15 |
-| Metalball Badge | 21.00% | ~5 |
-| Powerball Badge | 17.00% | ~4 |
+| Marbleball Badge | 63.00% | ~17 |
+| Speedroller Rookie | 59.00% | ~16 |
+| Metalball Badge | 19.00% | ~5 |
+| Powerball Badge | 15.00% | ~4 |
 | Airball Badge | 0.00% | ~0 |
 | Speedroller Expert | 0.00% | ~0 |
 | Speedroller Master | 0.00% | ~0 |
 | Speedroller Trainee | 0.00% | ~0 |
 | Spyglass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 297)  
+Progressed: 27 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -22,4 +22,4 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-07 | 3 | 0 |
 | 2023-05-12 | 10 | 0 |
 | 2023-05-13 | 19 | 0 |
-| 2023-05-14 | 24 | 0 |
+| 2023-05-14 | 27 | 0 |

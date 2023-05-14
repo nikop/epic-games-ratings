@@ -70,8 +70,8 @@ Completed: 28 (0.15%) (Ranked 146)
 | 2023-05-14 | 18,358 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 339)  
-Sum: 644 (Ranked 270)  
-Diff (max vs sum): 69  
+Sum: 645 (Ranked 269)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 87 |
@@ -80,7 +80,7 @@ Diff (max vs sum): 69
 | This game is Extremely Fun | 84 |
 | This game is Relaxing | 84 |
 | This game has Amazing Storytelling | 77 |
-| This game has Unique Visuals | 56 |
+| This game has Unique Visuals | 57 |
 | This game has Amazing Characters | 44 |
 | This game has a Creative Community | 40 |
 | This game has Challenging Combat | 29 |
@@ -126,3 +126,4 @@ Diff (max vs sum): 69
 | 2023-04-28 | 4.54 | 86 | 642 |
 | 2023-05-03 | 4.54 | 87 | 643 |
 | 2023-05-08 | 4.54 | 87 | 644 |
+| 2023-05-14 | 4.54 | 87 | 645 |

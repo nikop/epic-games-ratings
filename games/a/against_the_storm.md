@@ -6,13 +6,13 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Overcoming Difficulty | 1.00% | ~148 |
 | Fertile Meadows | 1.00% | ~148 |
 | Coral Forest | 1.00% | ~148 |
 | The Marshlands | 1.00% | ~148 |
 | The Scarlet Orchard | 1.00% | ~148 |
 | No Deaths | 1.00% | ~148 |
 | First Real Expedition | 0.90% | ~133 |
-| Overcoming Difficulty | 0.90% | ~133 |
 | Taking Action | 0.90% | ~133 |
 | Bandit Camp | 0.80% | ~118 |
 | Lost Colonies | 0.80% | ~118 |

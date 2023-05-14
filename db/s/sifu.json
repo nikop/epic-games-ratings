@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -3990,9 +3990,9 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 702910,
+  "EOS_Progressed": 702912,
   "EOS_Completed": 12726,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5790,6 +5790,11 @@
       "Time": "2023-05-14T13:09:11.9257694+00:00",
       "NumProgressed": 702910,
       "NumCompleted": 12726
+    },
+    {
+      "Time": "2023-05-14T14:05:27.8573476+00:00",
+      "NumProgressed": 702912,
+      "NumCompleted": 12726
     }
   ],
   "TotalAchievements": 50,
@@ -5991,9 +5996,9 @@
       "ID": "25_ShrineMind",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Mind",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 3515
     },
     {
       "ID": "26_ShrineSpirit",
@@ -6145,7 +6150,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6200,21 +6205,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12211,
-      "Completed": 10096
+      "Progressed": 12213,
+      "Completed": 10097
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702910,
+      "Progressed": 702912,
       "Completed": 12726
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-14T09:59:11.663291+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:09:11.925769+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:27.8573471+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:02:05.9835422+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:09:11.9258243+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:58:42.6029916+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:27.8573894+00:00"
 }

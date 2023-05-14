@@ -22,7 +22,7 @@
 | TRAINING HARD | 6.00% | ~146 |
 | ACE BRAWLER | 6.00% | ~146 |
 | MASTER | 5.00% | ~122 |
-| FRIENDLY | 3.00% | ~73 |
+| FRIENDLY | 4.00% | ~98 |
 | ACE TRICKSTER | 3.00% | ~73 |
 | EXPERIENCED CREW | 2.00% | ~49 |
 | BE OUR GUEST | 2.00% | ~49 |

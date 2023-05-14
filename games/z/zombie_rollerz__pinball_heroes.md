@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 95.00% | ~53 |
-| Bullseye! | 88.00% | ~49 |
-| Villfir Forest | 84.00% | ~47 |
-| Graduation! | 79.00% | ~44 |
-| Right in the kisser! | 66.00% | ~37 |
-| Duscot Steamcity | 59.00% | ~33 |
-| The Shaman | 57.00% | ~32 |
-| The Penguin | 54.00% | ~30 |
-| The Magician | 54.00% | ~30 |
-| The Thrower | 50.00% | ~28 |
-| The Tunneler | 46.00% | ~26 |
-| Kill-streak | 43.00% | ~24 |
-| The Shield | 43.00% | ~24 |
-| Level Up!! | 41.00% | ~23 |
-| The Bird | 34.00% | ~19 |
+| Level Up! | 95.00% | ~54 |
+| Bullseye! | 88.00% | ~50 |
+| Villfir Forest | 84.00% | ~48 |
+| Graduation! | 79.00% | ~45 |
+| Right in the kisser! | 67.00% | ~38 |
+| Duscot Steamcity | 60.00% | ~34 |
+| The Shaman | 58.00% | ~33 |
+| The Penguin | 54.00% | ~31 |
+| The Magician | 53.00% | ~30 |
+| The Thrower | 49.00% | ~28 |
+| The Tunneler | 47.00% | ~27 |
+| Kill-streak | 44.00% | ~25 |
+| Level Up!! | 42.00% | ~24 |
+| The Shield | 42.00% | ~24 |
+| The Bird | 35.00% | ~20 |
+| The Idol | 32.00% | ~18 |
 | The Ninja | 32.00% | ~18 |
-| The Idol | 30.00% | ~17 |
-| I'm Rich | 27.00% | ~15 |
-| Inferno Ruins | 27.00% | ~15 |
+| Inferno Ruins | 28.00% | ~16 |
+| Topped up | 26.00% | ~15 |
+| I'm Rich | 26.00% | ~15 |
 | Untouchable | 25.00% | ~14 |
-| Topped up | 25.00% | ~14 |
 | 1 is all I need | 21.00% | ~12 |
+| The Giant | 21.00% | ~12 |
 | The Slime | 21.00% | ~12 |
-| The Giant | 20.00% | ~11 |
-| Out of the Frying Pan... | 20.00% | ~11 |
+| Out of the Frying Pan... | 19.00% | ~11 |
 | The Blacksmith | 18.00% | ~10 |
 | The Flower | 18.00% | ~10 |
 | The Assistant | 14.00% | ~8 |
-| The Droid | 13.00% | ~7 |
-| The Ooze | 13.00% | ~7 |
-| Turquoise | 13.00% | ~7 |
-| Tested | 13.00% | ~7 |
+| Turquoise | 14.00% | ~8 |
+| The Droid | 12.00% | ~7 |
+| The Ooze | 12.00% | ~7 |
+| Tested | 12.00% | ~7 |
 | The Steampunk | 11.00% | ~6 |
 | Ember | 11.00% | ~6 |
 | Verse | 11.00% | ~6 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 274)  
+Progressed: 57 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-03 | 53 | 0 |
 | 2023-05-06 | 54 | 0 |
 | 2023-05-13 | 55 | 0 |
-| 2023-05-14 | 56 | 0 |
+| 2023-05-14 | 57 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

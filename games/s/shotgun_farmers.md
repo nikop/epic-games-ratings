@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 100.00% | ~48 |
-| First Blood | 75.00% | ~36 |
-| Triple Kill | 67.00% | ~32 |
-| Cornivore | 60.00% | ~29 |
-| No Asperascope | 58.00% | ~28 |
-| 15K | 38.00% | ~18 |
-| 10K | 38.00% | ~18 |
+| Seeds of War | 98.00% | ~48 |
+| First Blood | 73.00% | ~36 |
+| Triple Kill | 65.00% | ~32 |
+| Cornivore | 59.00% | ~29 |
+| No Asperascope | 57.00% | ~28 |
+| 15K | 37.00% | ~18 |
+| 10K | 37.00% | ~18 |
 | Drinking Problem | 29.00% | ~14 |
-| Skin Of Your Teeth | 21.00% | ~10 |
-| Graveside Survivor | 17.00% | ~8 |
-| Pork Chop Express | 17.00% | ~8 |
-| Eggtraordinary | 17.00% | ~8 |
-| Getting Started | 15.00% | ~7 |
-| Fresh Pancake | 13.00% | ~6 |
-| Quit Horsin' Around | 13.00% | ~6 |
+| Skin Of Your Teeth | 20.00% | ~10 |
+| Graveside Survivor | 16.00% | ~8 |
+| Pork Chop Express | 16.00% | ~8 |
+| Eggtraordinary | 16.00% | ~8 |
+| Getting Started | 14.00% | ~7 |
+| Fresh Pancake | 12.00% | ~6 |
+| Quit Horsin' Around | 12.00% | ~6 |
 | Carrocketeer | 10.00% | ~5 |
 | Forestside Survivor | 8.00% | ~4 |
 | Bring Home The Bacon | 6.00% | ~3 |
@@ -49,7 +49,7 @@
 | Pro Moolotover | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 281)  
+Progressed: 49 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 42 | 0 |
 | 2023-05-12 | 44 | 0 |
 | 2023-05-13 | 46 | 0 |
-| 2023-05-14 | 48 | 0 |
+| 2023-05-14 | 49 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

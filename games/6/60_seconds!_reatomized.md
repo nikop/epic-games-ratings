@@ -22,7 +22,7 @@ Rating: 4.63 (Ranked 324)
 | A gift | 50.00% | ~1,998 |
 | Girl Power | 44.00% | ~1,759 |
 | What goes around... | 40.00% | ~1,599 |
-| Be Prepared | 34.00% | ~1,359 |
+| Be Prepared | 35.00% | ~1,399 |
 | Unbreakable | 33.00% | ~1,319 |
 | Atomic drill | 31.00% | ~1,239 |
 | This is the end | 31.00% | ~1,239 |
@@ -32,8 +32,8 @@ Rating: 4.63 (Ranked 324)
 | Rescue time! | 16.00% | ~640 |
 | New order | 15.00% | ~600 |
 | New species | 15.00% | ~600 |
+| A New Hope | 14.00% | ~560 |
 | Enigma | 14.00% | ~560 |
-| A New Hope | 13.00% | ~520 |
 | Challenger | 11.00% | ~440 |
 | Men in Black | 11.00% | ~440 |
 | No stone unturned | 10.00% | ~400 |

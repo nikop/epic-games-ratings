@@ -370,17 +370,17 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -475,8 +475,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:08:42.3659154+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:04.2779311+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:24.851912+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:01:28.5766196+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:08:42.3659397+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:58:16.9688728+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:04.2779493+00:00"
 }

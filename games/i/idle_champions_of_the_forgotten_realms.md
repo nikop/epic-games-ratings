@@ -11,8 +11,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 2.00% | ~1,075 |
 | Pin and Skewer | 1.00% | ~538 |
 | The Cursed Farmer | 1.00% | ~875 |
+| Beast Intentions | 0.90% | ~787 |
 | The Mad Wizard | 0.90% | ~787 |
-| Beast Intentions | 0.80% | ~700 |
 | Bully for Vecna | 0.80% | ~430 |
 | The Ring of Regeneration | 0.70% | ~612 |
 | Were-verpowered | 0.60% | ~525 |
@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~262 |
 | Street War | 0.30% | ~262 |
 | Building Trust | 0.30% | ~262 |
+| March of the Undead | 0.30% | ~262 |
 | No Time To Rest | 0.30% | ~262 |
 | Invisible Shadows | 0.30% | ~262 |
 | The Dinner Party | 0.30% | ~262 |
@@ -135,7 +136,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.20% | ~175 |
 | Force Grey Unleashed | 0.20% | ~175 |
 | Vajra's Guards | 0.20% | ~175 |
-| March of the Undead | 0.20% | ~175 |
 | Wisdom Check | 0.20% | ~175 |
 | Sleuth It Out | 0.20% | ~175 |
 | The Newcomers of Notoriety | 0.20% | ~108 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,492 (Ranked 59)  
+Progressed: 87,496 (Ranked 59)  
 Completed: 1,840 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,840 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,492 | 1,840 |
+| 2023-05-14 | 87,496 | 1,840 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,876 (Ranked 37)  

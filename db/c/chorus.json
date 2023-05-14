@@ -516,9 +516,9 @@
       "ID": "KillWithALargeShip",
       "SetID": "a6c395p",
       "Name": "The Great Destroyer",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 655
     },
     {
       "ID": "MasteryOfCombat",
@@ -804,8 +804,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-14T13:09:25.8616421+00:00",
+  "LastChanged_Achievements": "2023-05-14T14:05:38.763671+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.1050523+00:00",
-  "LastUpdate_Ratings": "2023-05-14T13:03:17.4325052+00:00",
-  "LastUpdate_Achievements": "2023-05-14T13:09:25.8616787+00:00"
+  "LastUpdate_Ratings": "2023-05-14T13:59:29.9706573+00:00",
+  "LastUpdate_Achievements": "2023-05-14T14:05:38.7636979+00:00"
 }
