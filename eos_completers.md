@@ -19,7 +19,7 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.27% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 7.00% |
@@ -60,7 +60,7 @@
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
-| 61 | [Them and Us](games/t/them_and_us.md) | 2.04% |
+| 61 | [Them and Us](games/t/them_and_us.md) | 2.00% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 63 | [Sifu](games/s/sifu.md) | 1.81% |
