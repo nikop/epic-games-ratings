@@ -48,9 +48,9 @@
       "ID": "DARTS_PRO",
       "SetID": "9fjm696",
       "Name": "Darts Pro",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DIVING_PRO",
@@ -64,9 +64,9 @@
       "ID": "GYMNASTICS_PRO",
       "SetID": "9fjm696",
       "Name": "Gymnastics Pro",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HURDLES_PRO",
@@ -80,9 +80,9 @@
       "ID": "POLE_VAULT_PRO",
       "SetID": "9fjm696",
       "Name": "Pole Vault Pro",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SKIING_PRO",
@@ -134,8 +134,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00",
-  "LastChanged_Achievements": "2023-05-14T11:05:20.9270518+00:00",
+  "LastChanged_Achievements": "2023-05-14T12:05:08.1082569+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:32.7087189+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:59:10.3786585+00:00",
-  "LastUpdate_Achievements": "2023-05-14T11:05:20.9270578+00:00"
+  "LastUpdate_Ratings": "2023-05-14T11:59:18.7160428+00:00",
+  "LastUpdate_Achievements": "2023-05-14T12:05:08.1082641+00:00"
 }

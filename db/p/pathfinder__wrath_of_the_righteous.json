@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 115,
+  "Ranking_Rating": 114,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
@@ -2360,9 +2360,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8810,
+  "EOS_Progressed": 8812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3475,6 +3475,11 @@
       "Time": "2023-05-14T11:05:27.6708561+00:00",
       "NumProgressed": 8810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T12:05:14.9859819+00:00",
+      "NumProgressed": 8812,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3486,7 +3491,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "02_BurningCity",
@@ -4413,21 +4418,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7592,
+      "Progressed": 7594,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8810,
+      "Progressed": 8812,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-13T18:58:25.726981+00:00",
-  "LastChanged_Achievements": "2023-05-14T11:05:27.6708558+00:00",
+  "LastChanged_Achievements": "2023-05-14T12:05:14.9859816+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:58:04.8612185+00:00",
-  "LastUpdate_Achievements": "2023-05-14T11:05:27.6710028+00:00"
+  "LastUpdate_Ratings": "2023-05-14T11:58:10.9289752+00:00",
+  "LastUpdate_Achievements": "2023-05-14T12:05:14.9861253+00:00"
 }

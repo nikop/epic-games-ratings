@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So far so good... | 79.00% | ~11 |
+| So far so good... | 86.00% | ~12 |
 | Getting somewhere | 71.00% | ~10 |
 | Slay it! | 57.00% | ~8 |
 | Poor things... | 57.00% | ~8 |
 | Top notch! | 57.00% | ~8 |
 | Bling bling! | 50.00% | ~7 |
-| Still alive! | 36.00% | ~5 |
+| Still alive! | 43.00% | ~6 |
 | Lives lost | 36.00% | ~5 |
 | Slaughter | 36.00% | ~5 |
-| Slay that one too! | 14.00% | ~2 |
+| Slay that one too! | 21.00% | ~3 |
 | Endurance test! | 14.00% | ~2 |
 | Massive slaughter | 14.00% | ~2 |
 | ... And that one! | 7.00% | ~1 |

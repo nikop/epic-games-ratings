@@ -115,9 +115,9 @@
       "ID": "ach_boss2",
       "SetID": "c2c0fb6",
       "Name": "Slay that one too!",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_boss3",
@@ -147,9 +147,9 @@
       "ID": "ach_day10",
       "SetID": "c2c0fb6",
       "Name": "Still alive!",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_day15",
@@ -171,9 +171,9 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 79,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_level2",
@@ -236,8 +236,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-14T11:05:01.3991567+00:00",
+  "LastChanged_Achievements": "2023-05-14T12:04:49.1915918+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:01.3068365+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:58:43.9100536+00:00",
-  "LastUpdate_Achievements": "2023-05-14T11:05:01.3991666+00:00"
+  "LastUpdate_Ratings": "2023-05-14T11:58:50.3033558+00:00",
+  "LastUpdate_Achievements": "2023-05-14T12:04:49.1916158+00:00"
 }

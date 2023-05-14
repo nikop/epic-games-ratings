@@ -18,13 +18,13 @@
 | Librarian | 13.00% | ~37 |
 | Lumberjack | 13.00% | ~37 |
 | The End | 13.00% | ~37 |
+| Troubleshooter | 13.00% | ~37 |
 | Gladiator | 12.00% | ~35 |
-| Troubleshooter | 12.00% | ~35 |
 | Money Swag | 9.00% | ~26 |
 | Shield Crusher | 8.00% | ~23 |
+| Oops | 7.00% | ~20 |
 | Treasure Hunter | 7.00% | ~20 |
 | Explorer | 6.00% | ~17 |
-| Oops | 6.00% | ~17 |
 | Trio | 6.00% | ~17 |
 | Pyromancer | 5.00% | ~14 |
 | Spell Master | 4.00% | ~12 |

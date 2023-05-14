@@ -12,12 +12,12 @@
 | Doberman ✔ | 13.00% | ~21 |
 | Chess ✔ | 9.00% | ~15 |
 | Weapon ✔ | 9.00% | ~15 |
+| Master of Unlocking ✔ | 8.00% | ~13 |
 | Antivirus ✔ | 7.00% | ~11 |
 | Cheats ✔ | 7.00% | ~11 |
 | Survival ✔ | 7.00% | ~11 |
 | Hospital ✔ | 7.00% | ~11 |
 | King of survival ✔ | 7.00% | ~11 |
-| Master of Unlocking ✔ | 7.00% | ~11 |
 | Thirst ✔ | 7.00% | ~11 |
 | Brain ✔ | 6.00% | ~10 |
 | Alice ✔ | 5.00% | ~8 |

@@ -20,10 +20,10 @@ Rating: 4.38 (Ranked 689)
 | The Kraken Sleeps | 19.00% | ~136 |
 | Liberté | 17.00% | ~122 |
 | Explosive Efficiency | 16.00% | ~114 |
+| Close Quarters | 15.00% | ~107 |
 | Climbing the Ladder | 14.00% | ~100 |
 | Gunslinger | 14.00% | ~100 |
 | Skirmisher | 14.00% | ~100 |
-| Close Quarters | 14.00% | ~100 |
 | Fields of Glory | 13.00% | ~93 |
 | Just a Flesh Wound | 13.00% | ~93 |
 | Der Geist | 13.00% | ~93 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -848,7 +848,7 @@
   ],
   "EOS_Progressed": 2836,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2111,9 +2111,9 @@
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -2383,8 +2383,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-14T11:05:39.1617895+00:00",
+  "LastChanged_Achievements": "2023-05-14T12:05:26.1705654+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:59:34.9586227+00:00",
-  "LastUpdate_Achievements": "2023-05-14T11:05:39.1618185+00:00"
+  "LastUpdate_Ratings": "2023-05-14T11:59:44.1732852+00:00",
+  "LastUpdate_Achievements": "2023-05-14T12:05:26.1705955+00:00"
 }

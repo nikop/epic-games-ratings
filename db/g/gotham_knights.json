@@ -1084,7 +1084,7 @@
   ],
   "EOS_Progressed": 60858,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2633,9 +2633,9 @@
       "ID": "CLAYFACE_2",
       "SetID": "4eo5ebm",
       "Name": "The Show Mud Go On",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 243
     },
     {
       "ID": "CLAYFACE_3",
@@ -3024,8 +3024,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-13T23:59:44.0086485+00:00",
-  "LastChanged_Achievements": "2023-05-14T11:05:35.1309722+00:00",
+  "LastChanged_Achievements": "2023-05-14T12:05:22.2999604+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:59:14.6909256+00:00",
-  "LastUpdate_Achievements": "2023-05-14T11:05:35.1310236+00:00"
+  "LastUpdate_Ratings": "2023-05-14T11:59:23.2221522+00:00",
+  "LastUpdate_Achievements": "2023-05-14T12:05:22.3000364+00:00"
 }

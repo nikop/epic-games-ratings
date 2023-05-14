@@ -64,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 0.30% | ~262 |
 | Underdeep Cartography | 0.30% | ~262 |
 | Overdue Rendezvous | 0.30% | ~262 |
+| How Far Away is Thay | 0.30% | ~161 |
 | The Templar's Camp | 0.30% | ~262 |
 | Rescue in the Jungle | 0.30% | ~262 |
 | Pros and CONs | 0.20% | ~175 |
@@ -241,7 +242,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick Thinking | 0.20% | ~108 |
 | Witty Riposting | 0.20% | ~108 |
 | Waiting on Sunrise | 0.20% | ~108 |
-| How Far Away is Thay | 0.20% | ~108 |
 | Deekin's Mission | 0.20% | ~108 |
 | Frozen Vengeance | 0.20% | ~108 |
 | Ending the Rime - Part 1 | 0.20% | ~108 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,476 (Ranked 59)  
+Progressed: 87,483 (Ranked 59)  
 Completed: 1,840 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,840 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,476 | 1,840 |
+| 2023-05-14 | 87,483 | 1,840 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,876 (Ranked 37)  

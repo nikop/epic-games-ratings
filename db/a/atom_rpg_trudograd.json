@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -183,9 +183,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1018,
+  "EOS_Progressed": 1019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -332,6 +332,11 @@
     {
       "Time": "2023-05-13T12:05:28.8812994+00:00",
       "NumProgressed": 1018,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T12:04:51.1095768+00:00",
+      "NumProgressed": 1019,
       "NumCompleted": 0
     }
   ],
@@ -502,9 +507,9 @@
       "ID": "OLD_FRIEND",
       "SetID": "62d2oh4",
       "Name": "An Old Friend",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 51
     },
     {
       "ID": "POSITRONIUM",
@@ -592,14 +597,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1018,
+      "Progressed": 1019,
       "Completed": 0
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-14T11:05:03.3745632+00:00",
+  "LastChanged_Achievements": "2023-05-14T12:04:51.1095763+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.3359938+00:00",
-  "LastUpdate_Ratings": "2023-05-14T10:57:15.1529778+00:00",
-  "LastUpdate_Achievements": "2023-05-14T11:05:03.3745822+00:00"
+  "LastUpdate_Ratings": "2023-05-14T11:57:18.331137+00:00",
+  "LastUpdate_Achievements": "2023-05-14T12:04:51.1095956+00:00"
 }

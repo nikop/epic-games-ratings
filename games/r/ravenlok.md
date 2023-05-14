@@ -13,8 +13,8 @@
 | Vibing | 61.00% | ~382 |
 | Fun Guy | 61.00% | ~382 |
 | Tragic Brave | 52.00% | ~326 |
-| Awakened Spirits | 48.00% | ~301 |
-| Little Shop | 47.00% | ~295 |
+| Awakened Spirits | 49.00% | ~307 |
+| Little Shop | 48.00% | ~301 |
 | Surprise! | 43.00% | ~270 |
 | An Actor! | 43.00% | ~270 |
 | Curtain Call | 41.00% | ~257 |
@@ -26,9 +26,9 @@
 | Nightmare Fuel | 37.00% | ~232 |
 | Take Heart | 37.00% | ~232 |
 | The Guardian | 37.00% | ~232 |
+| Ancient Wisdom | 35.00% | ~219 |
 | Frog Facts! | 35.00% | ~219 |
 | Stronger! | 35.00% | ~219 |
-| Ancient Wisdom | 34.00% | ~213 |
 | All That Glistens | 34.00% | ~213 |
 | It's Pointy! | 34.00% | ~213 |
 | Spellbound | 33.00% | ~207 |
@@ -36,8 +36,8 @@
 | Extinct Again! | 32.00% | ~201 |
 | Bird of Prey | 32.00% | ~201 |
 | Stardust | 32.00% | ~201 |
-| Heartbreaker | 31.00% | ~194 |
-| Kidnapped! | 31.00% | ~194 |
+| Heartbreaker | 32.00% | ~201 |
+| Kidnapped! | 32.00% | ~201 |
 | Pull the Plug | 30.00% | ~188 |
 | All Heart | 30.00% | ~188 |
 | Trick Question! | 30.00% | ~188 |
@@ -48,7 +48,7 @@
 | Spot of Tea? | 29.00% | ~182 |
 | Going Home | 29.00% | ~182 |
 | Mirror, Mirror | 27.00% | ~169 |
-| Flower Power | 24.00% | ~150 |
+| Flower Power | 25.00% | ~157 |
 | Shopping Spree! | 21.00% | ~132 |
 | Crowned | 21.00% | ~132 |
 | Max Level! | 13.00% | ~82 |
