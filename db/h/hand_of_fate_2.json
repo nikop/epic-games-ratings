@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 18,
@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656157,
+  "EOS_Progressed": 656158,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2832,6 +2832,11 @@
       "Time": "2023-05-14T22:04:54.4644496+00:00",
       "NumProgressed": 656157,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-14T23:06:10.0830458+00:00",
+      "NumProgressed": 656158,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -2843,7 +2848,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472433
+      "UsersEstimate": 472434
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2851,7 +2856,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380571
+      "UsersEstimate": 380572
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3107,7 +3112,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164039
+      "UsersEstimate": 164040
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -3226,15 +3231,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656157,
+      "Progressed": 656158,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-14T22:04:54.4644492+00:00",
+  "LastChanged_Achievements": "2023-05-14T23:06:10.0830454+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:30.4319872+00:00",
-  "LastUpdate_Ratings": "2023-05-14T21:57:18.6146111+00:00",
-  "LastUpdate_Achievements": "2023-05-14T22:04:54.464493+00:00"
+  "LastUpdate_Ratings": "2023-05-14T22:57:47.5174967+00:00",
+  "LastUpdate_Achievements": "2023-05-14T23:06:10.0831218+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70823,
+  "EOS_Progressed": 70826,
   "EOS_Completed": 329,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2643,6 +2643,11 @@
       "Time": "2023-05-14T22:05:26.9484935+00:00",
       "NumProgressed": 70823,
       "NumCompleted": 329
+    },
+    {
+      "Time": "2023-05-14T23:06:46.9140808+00:00",
+      "NumProgressed": 70826,
+      "NumCompleted": 329
     }
   ],
   "TotalAchievements": 10,
@@ -2710,7 +2715,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7082
+      "UsersEstimate": 7083
     },
     {
       "ID": "Level00BowlingStrike",
@@ -2718,7 +2723,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 25496
+      "UsersEstimate": 25497
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -2733,15 +2738,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 70823,
+      "Progressed": 70826,
       "Completed": 329
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-14T22:05:26.9484931+00:00",
+  "LastChanged_Achievements": "2023-05-14T23:06:46.9140803+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:18.93757+00:00",
-  "LastUpdate_Ratings": "2023-05-14T22:00:12.3382197+00:00",
-  "LastUpdate_Achievements": "2023-05-14T22:05:26.948509+00:00"
+  "LastUpdate_Ratings": "2023-05-14T23:01:19.3708037+00:00",
+  "LastUpdate_Achievements": "2023-05-14T23:06:46.9141373+00:00"
 }

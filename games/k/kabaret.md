@@ -8,12 +8,13 @@
 | The Boy That Came With The Rain | 50.00% | ~4 |
 | Welcome To The Kabaret | 38.00% | ~3 |
 | Congkak Hero | 38.00% | ~3 |
+| Congkak Champion | 38.00% | ~3 |
+| An Unheard Song | 38.00% | ~3 |
+| All Alone With A Curse | 38.00% | ~3 |
 | Strangers You Meet | 25.00% | ~2 |
 | I'll Become... A Beast | 25.00% | ~2 |
-| Congkak Champion | 25.00% | ~2 |
 | Equality | 25.00% | ~2 |
 | Goodbye Dear Friend | 25.00% | ~2 |
-| An Unheard Song | 25.00% | ~2 |
 | By My Own Hands | 25.00% | ~2 |
 | Squashed Bug | 25.00% | ~2 |
 | Bookworm | 25.00% | ~2 |
@@ -21,7 +22,6 @@
 | Clipped Wings | 25.00% | ~2 |
 | Let There Be Light | 25.00% | ~2 |
 | Lady In The Book | 25.00% | ~2 |
-| All Alone With A Curse | 25.00% | ~2 |
 | Losing A Small, Good Thing | 13.00% | ~1 |
 | Rebel To God | 13.00% | ~1 |
 | True Potential Unlocked | 13.00% | ~1 |
@@ -32,6 +32,7 @@
 | In Service Of Others | 13.00% | ~1 |
 | Expert Service | 13.00% | ~1 |
 | Human Supremacy | 13.00% | ~1 |
+| Deep Thinker | 13.00% | ~1 |
 | Face Value | 13.00% | ~1 |
 | Uncommitted | 13.00% | ~1 |
 | Thou Art Naive | 13.00% | ~1 |
@@ -54,7 +55,6 @@
 | Faithful Follower | 0.00% | ~0 |
 | I See The Truth | 0.00% | ~0 |
 | True Devourer | 0.00% | ~0 |
-| Deep Thinker | 0.00% | ~0 |
 | Unbiased | 0.00% | ~0 |
 | There's Something About You... | 0.00% | ~0 |
 | Mayang's Song | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -40,11 +40,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:42.6464552+00:00",
@@ -84,6 +84,11 @@
     {
       "Time": "2023-05-13T19:06:01.3906053+00:00",
       "NumProgressed": 343,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-14T23:06:25.9172419+00:00",
+      "NumProgressed": 344,
       "NumCompleted": 4
     }
   ],
@@ -126,9 +131,9 @@
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_014",
@@ -166,9 +171,9 @@
       "ID": "ACH_018",
       "SetID": "72imik0",
       "Name": "Thinking of Everything",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_019",
@@ -176,7 +181,7 @@
       "Name": "Fine-toothed Comb",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_02",
@@ -184,23 +189,23 @@
       "Name": "The Blackmail",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_020",
       "SetID": "72imik0",
       "Name": "Exquisite Artwork",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_021",
       "SetID": "72imik0",
       "Name": "Well-read",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_022",
@@ -208,7 +213,7 @@
       "Name": "Room with a View",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_023",
@@ -222,9 +227,9 @@
       "ID": "ACH_024",
       "SetID": "72imik0",
       "Name": "Sunken Secrets",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_025",
@@ -272,7 +277,7 @@
       "Name": "The Altercation",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_030",
@@ -312,7 +317,7 @@
       "Name": "Comtesse Margaux de Vos",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_035",
@@ -320,7 +325,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_036",
@@ -334,9 +339,9 @@
       "ID": "ACH_037",
       "SetID": "72imik0",
       "Name": "Florette Duval",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_038",
@@ -344,7 +349,7 @@
       "Name": "Gedeon Demir",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_039",
@@ -358,9 +363,9 @@
       "ID": "ACH_04",
       "SetID": "72imik0",
       "Name": "The Major",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_040",
@@ -390,9 +395,9 @@
       "ID": "ACH_043",
       "SetID": "72imik0",
       "Name": "Major Felix Hagen",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_044",
@@ -400,7 +405,7 @@
       "Name": "Rehana Piette",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_045",
@@ -416,7 +421,7 @@
       "Name": "Zakariya Demir",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_05",
@@ -440,7 +445,7 @@
       "Name": "The Search",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_08",
@@ -463,7 +468,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 4
     }
   ],
@@ -471,8 +476,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-05-14T22:05:08.5356088+00:00",
+  "LastChanged_Achievements": "2023-05-14T23:06:25.9172413+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:42.9079473+00:00",
-  "LastUpdate_Ratings": "2023-05-14T21:57:31.2495781+00:00",
-  "LastUpdate_Achievements": "2023-05-14T22:05:08.5356384+00:00"
+  "LastUpdate_Ratings": "2023-05-14T22:58:03.802203+00:00",
+  "LastUpdate_Achievements": "2023-05-14T23:06:25.9172859+00:00"
 }

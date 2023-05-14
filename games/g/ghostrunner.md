@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~3,742 |
+| Longrunner | 78.00% | ~3,743 |
 | Sword Runner | 63.00% | ~3,023 |
 | Wallrunner | 58.00% | ~2,783 |
 | Running out of breath | 57.00% | ~2,735 |
-| Homerunner | 48.00% | ~2,303 |
-| I call it luck | 47.00% | ~2,255 |
-| Out of order | 47.00% | ~2,255 |
-| Where are my Keys? | 45.00% | ~2,159 |
-| Back to hell | 39.00% | ~1,871 |
-| Perfection | 35.00% | ~1,679 |
-| Sword to a gunfight | 32.00% | ~1,535 |
-| Why not both | 32.00% | ~1,535 |
-| Upgrades not mandatory | 31.00% | ~1,487 |
-| Artificial selection | 30.00% | ~1,439 |
-| Control freak | 30.00% | ~1,439 |
-| Running Wild | 30.00% | ~1,439 |
-| Finish line | 28.00% | ~1,343 |
+| Homerunner | 48.00% | ~2,304 |
+| I call it luck | 47.00% | ~2,256 |
+| Out of order | 47.00% | ~2,256 |
+| Where are my Keys? | 45.00% | ~2,160 |
+| Back to hell | 39.00% | ~1,872 |
+| Perfection | 35.00% | ~1,680 |
+| Sword to a gunfight | 32.00% | ~1,536 |
+| Why not both | 32.00% | ~1,536 |
+| Upgrades not mandatory | 31.00% | ~1,488 |
+| Artificial selection | 30.00% | ~1,440 |
+| Control freak | 30.00% | ~1,440 |
+| Running Wild | 30.00% | ~1,440 |
+| Finish line | 28.00% | ~1,344 |
 | Unstoppable force | 25.00% | ~1,200 |
 | Wave of mutilation | 23.00% | ~1,104 |
 | Can't Run Can't Hide | 20.00% | ~960 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~24 |
 | Up Close And Personal | 0.50% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,798 (Ranked 124)  
+Progressed: 4,799 (Ranked 124)  
 Completed: 24 (0.50%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 24 (0.50%) (Ranked 105)
 | 2023-05-11 | 4,506 | 22 |
 | 2023-05-12 | 4,596 | 22 |
 | 2023-05-13 | 4,703 | 22 |
-| 2023-05-14 | 4,798 | 24 |
+| 2023-05-14 | 4,799 | 24 |
 ## Awards
 Max (Great Boss Battles): 456  (Ranked 189)  
 Sum: 590 (Ranked 282)  

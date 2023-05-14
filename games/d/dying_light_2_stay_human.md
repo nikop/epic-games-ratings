@@ -1,26 +1,26 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.57 (Ranked 427)  
+Rating: 4.57 (Ranked 428)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,247 |
-| Into the Unknown | 8.00% | ~43,775 |
-| First Shot | 8.00% | ~43,775 |
-| Herzlich Wilkommen! | 7.00% | ~38,304 |
-| Sancho Panza | 7.00% | ~38,304 |
-| Good Night & Good Luck | 7.00% | ~38,304 |
-| Under Pressure | 6.00% | ~32,832 |
-| Flag Burning | 6.00% | ~32,832 |
-| Oh, So This Is How It Works! | 6.00% | ~32,832 |
-| Night Hunter | 6.00% | ~32,832 |
-| On the Trail of the Enemy | 5.00% | ~27,360 |
-| Light in the Darkness | 5.00% | ~27,360 |
-| Get Outta My House! | 5.00% | ~27,360 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,360 |
-| Being All Social | 5.00% | ~27,360 |
+| You Never Forget Your First... | 9.00% | ~49,249 |
+| Into the Unknown | 8.00% | ~43,777 |
+| First Shot | 8.00% | ~43,777 |
+| Herzlich Wilkommen! | 7.00% | ~38,305 |
+| Sancho Panza | 7.00% | ~38,305 |
+| Good Night & Good Luck | 7.00% | ~38,305 |
+| Under Pressure | 6.00% | ~32,833 |
+| Flag Burning | 6.00% | ~32,833 |
+| Oh, So This Is How It Works! | 6.00% | ~32,833 |
+| Night Hunter | 6.00% | ~32,833 |
+| On the Trail of the Enemy | 5.00% | ~27,361 |
+| Light in the Darkness | 5.00% | ~27,361 |
+| Get Outta My House! | 5.00% | ~27,361 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,361 |
+| Being All Social | 5.00% | ~27,361 |
 | Debris and Ashes | 4.00% | ~21,888 |
 | We Will Be Heard! | 4.00% | ~21,888 |
 | Known Associate | 4.00% | ~21,888 |
@@ -45,7 +45,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,472 |
 | Modder | 1.00% | ~5,472 |
 | Ironheart | 1.00% | ~5,472 |
-| Nemesis | 1.00% | ~1,926 |
+| Nemesis | 1.00% | ~1,927 |
 | Enter the Hall | 0.90% | ~1,734 |
 | That's Teamwork! | 0.80% | ~4,378 |
 | Fit as a Fiddle | 0.80% | ~4,378 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,193 (Ranked 22)  
+Progressed: 547,212 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 46 (0.01%) (Ranked 191)
 | 2023-05-11 | 545,309 | 46 |
 | 2023-05-12 | 545,860 | 46 |
 | 2023-05-13 | 546,500 | 46 |
-| 2023-05-14 | 547,193 | 46 |
+| 2023-05-14 | 547,212 | 46 |
 ## Awards
 Max (Character Customization): 7,052  (Ranked 44)  
 Sum: 16,354 (Ranked 58)  

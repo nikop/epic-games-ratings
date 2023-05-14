@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seth's office | 54.00% | ~37 |
-| The secret passage | 52.00% | ~36 |
+| The secret passage | 54.00% | ~37 |
 | First document retrieved | 51.00% | ~35 |
 | There is something strange here... | 48.00% | ~33 |
-| Across the lake | 46.00% | ~32 |
-| Curious by nature | 39.00% | ~27 |
+| Across the lake | 48.00% | ~33 |
+| Curious by nature | 41.00% | ~28 |
 | A lonely death | 36.00% | ~25 |
 | An ear for music | 35.00% | ~24 |
 | Agatha's favourite song | 33.00% | ~23 |

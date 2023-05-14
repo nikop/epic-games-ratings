@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30727,
+  "EOS_Progressed": 30730,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 1,
@@ -2151,6 +2151,11 @@
       "Time": "2023-05-14T22:05:25.4478094+00:00",
       "NumProgressed": 30727,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-05-14T23:06:45.0947412+00:00",
+      "NumProgressed": 30730,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 14,
@@ -2178,7 +2183,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "allItems",
@@ -2210,7 +2215,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "completionist",
@@ -2250,7 +2255,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 23967
+      "UsersEstimate": 23969
     },
     {
       "ID": "roots",
@@ -2273,15 +2278,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 30727,
+      "Progressed": 30730,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
-  "LastChanged_Achievements": "2023-05-14T22:05:25.4478089+00:00",
+  "LastChanged_Achievements": "2023-05-14T23:06:45.0947408+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.8353758+00:00",
-  "LastUpdate_Ratings": "2023-05-14T21:59:59.5156469+00:00",
-  "LastUpdate_Achievements": "2023-05-14T22:05:25.4478267+00:00"
+  "LastUpdate_Ratings": "2023-05-14T23:01:04.6862718+00:00",
+  "LastUpdate_Achievements": "2023-05-14T23:06:45.0947697+00:00"
 }

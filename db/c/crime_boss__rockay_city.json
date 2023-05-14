@@ -1446,9 +1446,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60139,
+  "EOS_Progressed": 60142,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3696,6 +3696,11 @@
       "Time": "2023-05-14T21:05:26.7111087+00:00",
       "NumProgressed": 60139,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-14T23:06:48.2760805+00:00",
+      "NumProgressed": 60142,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -3707,7 +3712,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30070
+      "UsersEstimate": 30071
     },
     {
       "ID": "ACH_0011",
@@ -3715,7 +3720,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17440
+      "UsersEstimate": 17441
     },
     {
       "ID": "ACH_0012",
@@ -3723,7 +3728,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12629
+      "UsersEstimate": 12630
     },
     {
       "ID": "ACH_0013",
@@ -3851,7 +3856,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39090
+      "UsersEstimate": 39092
     },
     {
       "ID": "ACH_0210",
@@ -3859,7 +3864,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43901
+      "UsersEstimate": 43904
     },
     {
       "ID": "ACH_0211",
@@ -3875,7 +3880,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28265
+      "UsersEstimate": 28267
     },
     {
       "ID": "ACH_0300",
@@ -3923,7 +3928,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20447
+      "UsersEstimate": 20448
     },
     {
       "ID": "ACH_0420",
@@ -3931,7 +3936,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19846
+      "UsersEstimate": 19847
     },
     {
       "ID": "ACH_0430",
@@ -3939,7 +3944,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 21049
+      "UsersEstimate": 21050
     },
     {
       "ID": "ACH_0431",
@@ -3955,7 +3960,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 11426
+      "UsersEstimate": 11427
     },
     {
       "ID": "ACH_0450",
@@ -3963,7 +3968,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11426
+      "UsersEstimate": 11427
     },
     {
       "ID": "ACH_0451",
@@ -3971,7 +3976,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     },
     {
       "ID": "ACH_0452",
@@ -3979,7 +3984,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9622
+      "UsersEstimate": 9623
     },
     {
       "ID": "ACH_0460",
@@ -3995,14 +4000,14 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 6615
+      "UsersEstimate": 6616
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60139,
+      "Progressed": 60142,
       "Completed": 29
     }
   ],
@@ -4010,8 +4015,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-14T17:59:59.4341573+00:00",
-  "LastChanged_Achievements": "2023-05-14T22:05:28.260131+00:00",
+  "LastChanged_Achievements": "2023-05-14T23:06:48.2760642+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-14T21:59:43.3672088+00:00",
-  "LastUpdate_Achievements": "2023-05-14T22:05:28.2601622+00:00"
+  "LastUpdate_Ratings": "2023-05-14T23:00:45.3702836+00:00",
+  "LastUpdate_Achievements": "2023-05-14T23:06:48.2761291+00:00"
 }

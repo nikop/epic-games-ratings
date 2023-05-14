@@ -16,6 +16,7 @@ Rating: 4.17 (Ranked 831)
 | Working Hard or Harley Working? | 0.40% | ~244 |
 | Universal Health Scare | 0.40% | ~244 |
 | Unstoppable Force | 0.40% | ~244 |
+| Whispered Words | 0.40% | ~244 |
 | Lock and Key | 0.40% | ~244 |
 | Bad Apples in Every Orchard | 0.40% | ~244 |
 | From Inside Gotham's Walls | 0.40% | ~244 |
@@ -34,7 +35,6 @@ Rating: 4.17 (Ranked 831)
 | First Step Into the Knight | 0.30% | ~183 |
 | Knighthood | 0.30% | ~183 |
 | Loose Ends | 0.30% | ~183 |
-| Whispered Words | 0.30% | ~183 |
 | Fusion Expert | 0.20% | ~122 |
 | Expert Crime Fighter | 0.20% | ~122 |
 | Not On My Watch | 0.20% | ~122 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,881 (Ranked 67)  
+Progressed: 60,883 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 91 (0.15%) (Ranked 146)
 | 2023-05-11 | 60,799 | 90 |
 | 2023-05-12 | 60,819 | 90 |
 | 2023-05-13 | 60,844 | 90 |
-| 2023-05-14 | 60,881 | 91 |
+| 2023-05-14 | 60,883 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,210  (Ranked 99)  
 Sum: 3,663 (Ranked 138)  

@@ -106,6 +106,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Destruction | 0.20% | ~108 |
 | Speeds of Destruction | 0.20% | ~108 |
 | The Evacuation of Waterdeep | 0.20% | ~108 |
+| On the Hunt | 0.20% | ~175 |
 | Vecna Lives! | 0.20% | ~108 |
 | Overwhelmed with Knowledge | 0.20% | ~108 |
 | A Demi-god's Defender | 0.20% | ~108 |
@@ -166,6 +167,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Not So Alone | 0.20% | ~108 |
 | The Trepidatious Trio | 0.20% | ~175 |
 | Our Time To Shine | 0.20% | ~175 |
+| Review by the Blackstaff | 0.20% | ~108 |
 | Treasure Hunters | 0.20% | ~175 |
 | The Guardian of Orolunga | 0.20% | ~175 |
 | The Lost Love | 0.20% | ~175 |
@@ -235,6 +237,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.20% | ~108 |
 | An Awakened Axe | 0.20% | ~108 |
 | CONtagious Cold | 0.20% | ~108 |
+| Ten in Ten-Towns | 0.20% | ~108 |
 | Civilization | 0.20% | ~108 |
 | Trench Coat Run | 0.20% | ~108 |
 | Durable Deep | 0.20% | ~175 |
@@ -304,7 +307,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | G. O. A. T. | 0.10% | ~54 |
 | Strength of Character | 0.10% | ~54 |
 | Flapjacks and Waffles | 0.10% | ~54 |
-| On the Hunt | 0.10% | ~88 |
 | Clowning Around | 0.10% | ~54 |
 | A Whale of a Time | 0.10% | ~54 |
 | Wagon Train | 0.10% | ~88 |
@@ -340,7 +342,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~88 |
 | Seeds of Corruption | 0.10% | ~88 |
 | The Strahd Squad | 0.10% | ~54 |
-| Review by the Blackstaff | 0.10% | ~54 |
 | Think Your Way Out Of It | 0.10% | ~88 |
 | Air's Getting Pretty Thin | 0.10% | ~88 |
 | Red Wizard 'Escort' | 0.10% | ~54 |
@@ -446,7 +447,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.10% | ~54 |
 | Prisoners of Unknown Choices | 0.10% | ~54 |
 | Only Human | 0.10% | ~54 |
-| Ten in Ten-Towns | 0.10% | ~54 |
 | The Taunting Lord | 0.10% | ~54 |
 | Lone Wolf Party | 0.10% | ~54 |
 | The Archduke's Blessing | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,538 (Ranked 59)  
+Progressed: 87,546 (Ranked 59)  
 Completed: 1,842 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,842 (2.10%) (Ranked 60)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,538 | 1,842 |
+| 2023-05-14 | 87,546 | 1,842 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,881 (Ranked 37)  

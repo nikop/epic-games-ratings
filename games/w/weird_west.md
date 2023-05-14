@@ -6,22 +6,22 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,297 |
+| Unforgiven | 86.00% | ~1,298 |
 | Self-Improvement | 71.00% | ~1,071 |
-| Perky | 66.00% | ~995 |
+| Perky | 66.00% | ~996 |
 | Let’s Ride | 60.00% | ~905 |
 | Welcome to the Weird West | 58.00% | ~875 |
-| Dead or Alive | 56.00% | ~844 |
+| Dead or Alive | 56.00% | ~845 |
 | Full House | 37.00% | ~558 |
 | Off the Trail | 34.00% | ~513 |
-| Justice Served | 29.00% | ~437 |
+| Justice Served | 29.00% | ~438 |
 | Chain Reaction | 27.00% | ~407 |
 | Dishonored | 25.00% | ~377 |
 | Rain of Death | 25.00% | ~377 |
 | Scholar | 25.00% | ~377 |
 | Through Their Eyes | 25.00% | ~377 |
 | The Great Escape | 23.00% | ~347 |
-| That’s All, Folks | 18.00% | ~271 |
+| That’s All, Folks | 18.00% | ~272 |
 | Fallen Star | 16.00% | ~241 |
 | For Balance | 16.00% | ~241 |
 | Winds of War | 16.00% | ~241 |
@@ -43,8 +43,8 @@ Number of Ratings: 125  (23.09.2022)
 | Knuckle Sandwich | 8.00% | ~121 |
 | Do Not Pass Go… | 7.00% | ~106 |
 | Getting the Gang Back Together | 7.00% | ~106 |
-| Healing Old Wounds | 6.00% | ~90 |
-| Who You Gonna Call? | 6.00% | ~90 |
+| Healing Old Wounds | 6.00% | ~91 |
+| Who You Gonna Call? | 6.00% | ~91 |
 | This Is Sparta | 5.00% | ~75 |
 | What’s in the Box? | 5.00% | ~75 |
 | Ghost Town | 3.00% | ~45 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,508 (Ranked 152)  
+Progressed: 1,509 (Ranked 152)  
 Completed: 2 (0.13%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 2 (0.13%) (Ranked 152)
 | 2023-05-10 | 1,504 | 2 |
 | 2023-05-12 | 1,505 | 2 |
 | 2023-05-13 | 1,507 | 2 |
-| 2023-05-14 | 1,508 | 2 |
+| 2023-05-14 | 1,509 | 2 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 470)  
 Sum: 23 (Ranked 472)  
