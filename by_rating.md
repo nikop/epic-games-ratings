@@ -19,7 +19,7 @@
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,129 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 294 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 251 | 239 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,983 | 73 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,984 | 73 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,341 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 474 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 491 |
@@ -111,22 +111,22 @@
 | 104 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 491 |
 | 104 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 143 | 287 |
 | 104 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 97 | 326 |
-| 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 325 | 215 |
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 491 |
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 454 |
-| 115 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 491 |
-| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,179 | 23 |
-| 115 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 341 |
-| 115 | [Dead Space](games/d/dead_space.md) | 4.76 | 42 | 408 |
-| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 841 | 144 |
-| 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 491 |
-| 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 101 | 321 |
-| 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,630 | 111 |
-| 115 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 491 |
-| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,003 | 39 |
-| 115 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 491 |
-| 115 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 491 |
-| 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 491 |
+| 114 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 491 |
+| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,179 | 23 |
+| 114 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 341 |
+| 114 | [Dead Space](games/d/dead_space.md) | 4.76 | 42 | 408 |
+| 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 841 | 144 |
+| 114 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 491 |
+| 114 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 101 | 321 |
+| 114 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,630 | 111 |
+| 114 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 491 |
+| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,003 | 39 |
+| 114 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 491 |
+| 114 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 491 |
+| 114 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 491 |
+| 114 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 325 | 215 |
 | 128 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 466 |
 | 128 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,908 | 61 |
 | 128 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,180 | 84 |
@@ -245,7 +245,7 @@
 | 235 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 169,189 | 5 |
 | 235 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 491 |
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
-| 235 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 196 |
+| 235 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 197 |
 | 235 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 557 | 170 |
 | 235 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 662 | 158 |
 | 235 | [Revita](games/r/revita.md) | 4.68 | 0 | 491 |
@@ -609,7 +609,7 @@
 | 603 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 699 | 154 |
 | 603 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 491 |
 | 603 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 491 |
-| 603 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,213 | 33 |
+| 603 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,224 | 33 |
 | 603 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 851 | 143 |
 | 603 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 47 | 395 |
 | 603 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 491 |
@@ -757,7 +757,7 @@
 | 754 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 491 |
 | 754 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 491 |
 | 754 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 491 |
-| 754 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,593 | 78 |
+| 754 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,597 | 78 |
 | 754 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 169 | 276 |
 | 760 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 491 |
 | 760 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 491 |
@@ -873,7 +873,7 @@
 | 871 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 491 |
 | 871 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,878 | 63 |
 | 873 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 491 |
-| 873 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 408 | 197 |
+| 873 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 413 | 196 |
 | 873 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 491 |
 | 873 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 491 |
 | 877 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 491 |

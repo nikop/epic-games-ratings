@@ -19,8 +19,8 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.35% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.34% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.86% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.76% |
@@ -50,7 +50,7 @@
 | 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.86% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.85% |
 | 52 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.78% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -58,7 +58,7 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [Them and Us](games/t/them_and_us.md) | 2.38% |
+| 59 | [Them and Us](games/t/them_and_us.md) | 2.27% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
@@ -106,8 +106,8 @@
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 105 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
-| 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
+| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 108 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 111 | [Potion Permit](games/p/potion_permit.md) | 0.40% |

@@ -13,6 +13,7 @@
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-04-06 |
+| [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 2023-05-19 | 2022-02-03 |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
@@ -207,7 +208,6 @@
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2099-01-01 | 2099-01-01 |
 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 2099-01-01 | 2099-01-01 |
 | [Critter Crops](games/c/critter_crops.md) | 2099-01-01 | 2099-01-01 |
-| [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 2099-01-01 | 2022-02-03 |
 | [Cryptmaster](games/c/cryptmaster.md) | 2099-01-01 | 2099-01-01 |
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | 2099-01-01 | 2022-12-16 |
 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 2099-01-01 | 2019-06-11 |
