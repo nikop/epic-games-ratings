@@ -37,6 +37,7 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 3.00% | ~35 |
 | Bears are Scary | 3.00% | ~35 |
 | Grillmaster | 3.00% | ~35 |
+| Into Mulch | 3.00% | ~35 |
 | No Time for Clawmonsters | 3.00% | ~35 |
 | We Emerge Changed | 2.00% | ~23 |
 | Storied Past | 2.00% | ~23 |
@@ -48,7 +49,6 @@ Number of Ratings: 45  (23.09.2022)
 | War-Ender | 2.00% | ~23 |
 | Fight Like a Bird | 2.00% | ~23 |
 | Some Say I'm Too Flashy | 2.00% | ~23 |
-| Into Mulch | 2.00% | ~23 |
 | Astrology | 2.00% | ~23 |
 | Tempest | 2.00% | ~23 |
 | Lochias's Hunger | 2.00% | ~23 |

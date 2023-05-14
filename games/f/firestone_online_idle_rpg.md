@@ -22,8 +22,8 @@ Rating: 3.64 (Ranked 917)
 | Lieutenant | 10.00% | ~100 |
 | Dragon Master | 9.00% | ~90 |
 | Enlightenment | 9.00% | ~90 |
+| Natural Talent | 8.00% | ~80 |
 | The Unstoppable | 8.00% | ~80 |
-| Natural Talent | 7.00% | ~70 |
 | Superior | 7.00% | ~70 |
 | Mysterious Rock | 6.00% | ~60 |
 | Scientist | 6.00% | ~60 |

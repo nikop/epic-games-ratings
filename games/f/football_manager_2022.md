@@ -12,15 +12,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's Sold! | 47.00% | ~216,202 |
 | I'm The Boss! | 41.00% | ~188,602 |
 | Hat-trick | 41.00% | ~188,602 |
-| Scoring Streak | 37.00% | ~170,201 |
-| Unbeatable! | 36.00% | ~165,601 |
-| Thumping | 36.00% | ~165,601 |
-| Superb Dressing Room Atmosphere | 34.00% | ~156,401 |
-| Total Support | 32.00% | ~147,201 |
-| Record Signing | 31.00% | ~142,601 |
-| Team Performance | 30.00% | ~138,001 |
-| He's a Natural | 30.00% | ~138,001 |
-| Millionaire's Club | 30.00% | ~138,001 |
+| Scoring Streak | 37.00% | ~170,202 |
+| Unbeatable! | 36.00% | ~165,602 |
+| Thumping | 36.00% | ~165,602 |
+| Superb Dressing Room Atmosphere | 34.00% | ~156,402 |
+| Total Support | 32.00% | ~147,202 |
+| Record Signing | 31.00% | ~142,602 |
+| Team Performance | 30.00% | ~138,002 |
+| He's a Natural | 30.00% | ~138,002 |
+| Millionaire's Club | 30.00% | ~138,002 |
 | Star Man | 29.00% | ~133,401 |
 | Parked The Bus | 28.00% | ~128,801 |
 | Shrewd Spender | 28.00% | ~128,801 |
@@ -52,8 +52,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~64,401 |
 | Window Shopping | 14.00% | ~64,401 |
 | Comeback King! | 13.00% | ~59,801 |
-| You're Up! | 12.00% | ~55,200 |
-| Money, Money, Money | 11.00% | ~50,600 |
+| You're Up! | 12.00% | ~55,201 |
+| Money, Money, Money | 11.00% | ~50,601 |
 | Invincible! | 10.00% | ~46,000 |
 | Best In The World | 10.00% | ~46,000 |
 | Best In Europe | 9.00% | ~41,400 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~460 |
 | Shoestring Budget | 0.10% | ~460 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460,004 (Ranked 27)  
+Progressed: 460,005 (Ranked 27)  
 Completed: 18 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 18 (0.00%) (Ranked 199)
 | 2023-05-11 | 459,754 | 18 |
 | 2023-05-12 | 459,862 | 18 |
 | 2023-05-13 | 459,979 | 18 |
-| 2023-05-14 | 460,004 | 18 |
+| 2023-05-14 | 460,005 | 18 |
 ## Awards
 Max (Relaxing): 6,262  (Ranked 51)  
 Sum: 49,349 (Ranked 23)  

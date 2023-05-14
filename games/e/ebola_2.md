@@ -8,7 +8,7 @@
 | Recluse ✔ | 28.00% | ~30 |
 | Scent of Meat ✔ | 19.00% | ~20 |
 | Witch ✔ | 19.00% | ~20 |
-| Survival ✔ | 0.90% | ~1 |
+| Survival ✔ | 2.00% | ~2 |
 | Voodoo ✔ | 0.00% | ~0 |
 | Light will show the truth ✔ | 0.00% | ~0 |
 | Mask ✔ | 0.00% | ~0 |

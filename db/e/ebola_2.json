@@ -380,9 +380,9 @@
       "ID": "achExplosion",
       "SetID": "1al1mjg",
       "Name": "Survival \u2714",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achEye",
@@ -491,8 +491,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-14T05:03:13.6043986+00:00",
+  "LastChanged_Achievements": "2023-05-14T06:02:13.4623001+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:07.9454664+00:00",
-  "LastUpdate_Ratings": "2023-05-14T04:57:03.1427663+00:00",
-  "LastUpdate_Achievements": "2023-05-14T05:03:13.6044135+00:00"
+  "LastUpdate_Ratings": "2023-05-14T05:57:01.7546327+00:00",
+  "LastUpdate_Achievements": "2023-05-14T06:02:13.4623159+00:00"
 }

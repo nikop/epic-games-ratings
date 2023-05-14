@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 104)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,018 |
-| The One Who Mastered Memories | 6.00% | ~16,018 |
-| The Hallowed Hero | 6.00% | ~16,018 |
+| Grappling with a Graphorn | 6.00% | ~16,019 |
+| The One Who Mastered Memories | 6.00% | ~16,019 |
+| The Hallowed Hero | 6.00% | ~16,019 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,349 |
 | The Hero of Hogwarts | 5.00% | ~13,349 |
 | The Defender of Dragons | 5.00% | ~13,349 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 104)
 | Third Time's a Charm | 3.00% | ~8,009 |
 | Room with a View | 3.00% | ~8,009 |
 | Raising Expectations | 3.00% | ~8,009 |
-| The Toast of the Town | 2.00% | ~5,339 |
-| Going Through the Potions | 2.00% | ~5,339 |
-| Floo Around the World | 2.00% | ~5,339 |
-| The Intrepid Explorer | 2.00% | ~5,339 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,339 |
-| The Ends Petrify the Means | 2.00% | ~5,339 |
+| The Toast of the Town | 2.00% | ~5,340 |
+| Going Through the Potions | 2.00% | ~5,340 |
+| Floo Around the World | 2.00% | ~5,340 |
+| The Intrepid Explorer | 2.00% | ~5,340 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,340 |
+| The Ends Petrify the Means | 2.00% | ~5,340 |
 | The Good Samaritan | 1.00% | ~2,670 |
 | Put Down Roots | 1.00% | ~2,670 |
 | The Auror's Apprentice | 1.00% | ~2,670 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,068 |
 | Collector's Edition | 0.20% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,971 (Ranked 38)  
+Progressed: 266,977 (Ranked 38)  
 Completed: 361 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 361 (0.14%) (Ranked 149)
 | 2023-05-11 | 266,628 | 359 |
 | 2023-05-12 | 266,757 | 359 |
 | 2023-05-13 | 266,911 | 361 |
-| 2023-05-14 | 266,971 | 361 |
+| 2023-05-14 | 266,977 | 361 |
 ## Awards
 Max (Character Customization): 18,717  (Ranked 18)  
 Sum: 34,297 (Ranked 33)  

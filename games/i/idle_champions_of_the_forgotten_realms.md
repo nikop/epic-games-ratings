@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,442 (Ranked 59)  
+Progressed: 87,444 (Ranked 59)  
 Completed: 1,837 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,10 +520,10 @@ Completed: 1,837 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,442 | 1,837 |
+| 2023-05-14 | 87,444 | 1,837 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
-Sum: 29,875 (Ranked 37)  
+Sum: 29,876 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -531,7 +531,7 @@ Diff (max vs sum): 26
 | This game is Great for Beginners | 4,820 |
 | This game has Quickly Understood Controls | 4,589 |
 | This game is Relaxing | 4,485 |
-| This game is Highly Recommended | 3,936 |
+| This game is Highly Recommended | 3,937 |
 | This game has Amazing Characters | 3,934 |
 | This game has Playful Visuals | 3,233 |
 ## Ratings History
@@ -645,4 +645,4 @@ Diff (max vs sum): 26
 | 2023-05-11 | 4.06 | - | 4,874 | 29,859 |
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
 | 2023-05-13 | 4.06 | - | 4,877 | 29,873 |
-| 2023-05-14 | 4.06 | - | 4,878 | 29,875 |
+| 2023-05-14 | 4.06 | - | 4,878 | 29,876 |

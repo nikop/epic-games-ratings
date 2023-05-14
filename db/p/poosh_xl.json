@@ -2,7 +2,7 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 85,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-05-13T17:05:19.4339055+00:00",
       "NumProgressed": 54,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T06:04:40.088479+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -354,17 +359,17 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Poosh Past 10000",
@@ -380,7 +385,7 @@
       "Name": "Pooshed Past 2500",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Poosh Past 5000",
@@ -402,15 +407,15 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Terrible Start",
       "SetID": "5n829i",
       "Name": "Terrible Start",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 9
     }
@@ -419,13 +424,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-14T05:05:48.2333392+00:00",
+  "LastChanged_Achievements": "2023-05-14T06:04:40.0884784+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:31.9787117+00:00",
-  "LastUpdate_Ratings": "2023-05-14T04:57:33.4377903+00:00",
-  "LastUpdate_Achievements": "2023-05-14T05:05:48.2333548+00:00"
+  "LastUpdate_Ratings": "2023-05-14T05:57:21.408067+00:00",
+  "LastUpdate_Achievements": "2023-05-14T06:04:40.0884932+00:00"
 }

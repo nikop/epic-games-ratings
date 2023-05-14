@@ -6,18 +6,18 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,207 |
-| Un-Lonely Island | 50.00% | ~1,414 |
-| The Beginning of a Servantship | 47.00% | ~1,330 |
-| Trade Is My Trait | 39.00% | ~1,103 |
+| Just One...More...Term... | 78.00% | ~2,208 |
+| Un-Lonely Island | 50.00% | ~1,416 |
+| The Beginning of a Servantship | 47.00% | ~1,331 |
+| Trade Is My Trait | 39.00% | ~1,104 |
 | Number 18 | 26.00% | ~736 |
-| We Don't Have Time For That | 21.00% | ~594 |
+| We Don't Have Time For That | 20.00% | ~566 |
 | The Governator | 19.00% | ~538 |
-| Caribbean Comrade | 18.00% | ~509 |
-| The Legend of Langostino | 18.00% | ~509 |
-| The Dreamer of Dreams | 17.00% | ~481 |
-| Go Sovereigns! | 12.00% | ~339 |
-| For Science! | 12.00% | ~339 |
+| Caribbean Comrade | 18.00% | ~510 |
+| The Legend of Langostino | 18.00% | ~510 |
+| The Dreamer of Dreams | 16.00% | ~453 |
+| Go Sovereigns! | 12.00% | ~340 |
+| For Science! | 12.00% | ~340 |
 | Happy Ending? | 11.00% | ~311 |
 | Of Seals And Men | 10.00% | ~283 |
 | Shackadelic | 10.00% | ~283 |
@@ -31,7 +31,7 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~170 |
 | Watch The World Burn | 6.00% | ~170 |
 | Fairy Tale Come True | 6.00% | ~170 |
-| Viva Tropico! | 5.00% | ~141 |
+| Viva Tropico! | 5.00% | ~142 |
 | Apocalypso | 4.00% | ~113 |
 | The Time For Wonders | 4.00% | ~113 |
 | Been there, Done That | 3.00% | ~85 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~28 |
 | My Ways | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,829 (Ranked 132)  
+Progressed: 2,831 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 1 (0.04%) (Ranked 176)
 | 2023-05-11 | 2,782 | 1 |
 | 2023-05-12 | 2,806 | 1 |
 | 2023-05-13 | 2,827 | 1 |
-| 2023-05-14 | 2,829 | 1 |
+| 2023-05-14 | 2,831 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 317)  
 Sum: 749 (Ranked 252)  

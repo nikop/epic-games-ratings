@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1548,
+  "EOS_Progressed": 1549,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -320,6 +320,11 @@
       "Time": "2023-05-13T20:07:01.7925147+00:00",
       "NumProgressed": 1548,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-14T06:05:14.7191146+00:00",
+      "NumProgressed": 1549,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -355,7 +360,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHV_05",
@@ -531,7 +536,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACHV_27",
@@ -539,7 +544,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHV_28",
@@ -563,7 +568,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHV_31",
@@ -635,7 +640,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACHV_40",
@@ -651,7 +656,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACHV_42",
@@ -786,7 +791,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1548,
+      "Progressed": 1549,
       "Completed": 10
     }
   ],
@@ -794,8 +799,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-14T05:06:34.0789314+00:00",
+  "LastChanged_Achievements": "2023-05-14T06:05:14.7191139+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.3956221+00:00",
-  "LastUpdate_Ratings": "2023-05-14T05:01:04.6296475+00:00",
-  "LastUpdate_Achievements": "2023-05-14T05:06:34.0789891+00:00"
+  "LastUpdate_Ratings": "2023-05-14T05:59:42.4950874+00:00",
+  "LastUpdate_Achievements": "2023-05-14T06:05:14.7191649+00:00"
 }

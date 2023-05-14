@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,139 |
-| Biggest Communism Builder | 24.00% | ~28,405 |
-| The World's Most Laughable Centrist | 20.00% | ~23,671 |
+| Goodest Of The Good Cops | 28.00% | ~33,140 |
+| Biggest Communism Builder | 24.00% | ~28,406 |
+| The World's Most Laughable Centrist | 20.00% | ~23,672 |
 | Il Coppo Del'Arte! | 18.00% | ~21,304 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~18,937 |
-| Hyperstellar Law Official | 15.00% | ~17,753 |
+| Hyperstellar Law Official | 15.00% | ~17,754 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~16,570 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,386 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,386 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,387 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,387 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,019 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,652 |
-| Unbelievably Boring **** | 8.00% | ~9,468 |
-| Enemy Of The Physical Realm | 8.00% | ~9,468 |
+| Unbelievably Boring **** | 8.00% | ~9,469 |
+| Enemy Of The Physical Realm | 8.00% | ~9,469 |
 | Hardie's Heroes | 5.00% | ~5,918 |
 | The Lawbringer | 4.00% | ~4,734 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,734 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Brow in Town | 0.80% | ~947 |
 | Committee of la Responsabilité | 0.80% | ~947 |
 | Venture into the HARDCORE | 0.80% | ~947 |
-| Networthy Individual | 0.70% | ~828 |
+| Networthy Individual | 0.70% | ~829 |
 | Leopard Mindset | 0.50% | ~592 |
 | Modus: Mullen | 0.30% | ~355 |
 | Palerunner | 0.30% | ~355 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~118 |
 | What body? | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,355 (Ranked 56)  
+Progressed: 118,358 (Ranked 56)  
 Completed: 25 (0.02%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 25 (0.02%) (Ranked 184)
 | 2023-05-11 | 118,268 | 25 |
 | 2023-05-12 | 118,298 | 25 |
 | 2023-05-13 | 118,348 | 25 |
-| 2023-05-14 | 118,355 | 25 |
+| 2023-05-14 | 118,358 | 25 |
 ## Awards
 Max (Character Customization): 688  (Ranked 156)  
 Sum: 1,044 (Ranked 227)  

@@ -5777,9 +5777,9 @@
       "Count": 4715
     }
   ],
-  "EOS_Progressed": 799551,
+  "EOS_Progressed": 799554,
   "EOS_Completed": 1594,
-  "EOS_NewPlayers": 1183,
+  "EOS_NewPlayers": 1184,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -7947,6 +7947,11 @@
       "Time": "2023-05-14T05:05:39.8310939+00:00",
       "NumProgressed": 799551,
       "NumCompleted": 1594
+    },
+    {
+      "Time": "2023-05-14T06:04:33.9103808+00:00",
+      "NumProgressed": 799554,
+      "NumCompleted": 1594
     }
   ],
   "TotalAchievements": 44,
@@ -7990,7 +7995,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295834
+      "UsersEstimate": 295835
     },
     {
       "ID": "FollowingTheRiver",
@@ -8030,7 +8035,7 @@
       "Name": "Gun Fu",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 111937
+      "UsersEstimate": 111938
     },
     {
       "ID": "Gunslinger",
@@ -8078,7 +8083,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175901
+      "UsersEstimate": 175902
     },
     {
       "ID": "MaxPain",
@@ -8134,7 +8139,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215879
+      "UsersEstimate": 215880
     },
     {
       "ID": "Specialist",
@@ -8174,7 +8179,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535699
+      "UsersEstimate": 535701
     },
     {
       "ID": "TheHermit",
@@ -8190,7 +8195,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159910
+      "UsersEstimate": 159911
     },
     {
       "ID": "TheLovers",
@@ -8198,7 +8203,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255856
+      "UsersEstimate": 255857
     },
     {
       "ID": "TheStar",
@@ -8230,7 +8235,7 @@
       "Name": "The World",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 127928
+      "UsersEstimate": 127929
     },
     {
       "ID": "ThisIsPacifica",
@@ -8254,7 +8259,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175901
+      "UsersEstimate": 175902
     },
     {
       "ID": "TrueWarrior",
@@ -8262,7 +8267,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 111937
+      "UsersEstimate": 111938
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -8309,15 +8314,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799551,
+      "Progressed": 799554,
       "Completed": 1594
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-05-14T04:57:42.3547475+00:00",
-  "LastChanged_Achievements": "2023-05-14T05:05:39.8310932+00:00",
+  "LastChanged_Achievements": "2023-05-14T06:04:33.9103805+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.285145+00:00",
-  "LastUpdate_Ratings": "2023-05-14T04:57:42.3547504+00:00",
-  "LastUpdate_Achievements": "2023-05-14T05:05:39.8311414+00:00"
+  "LastUpdate_Ratings": "2023-05-14T05:57:27.0756228+00:00",
+  "LastUpdate_Achievements": "2023-05-14T06:04:33.9104287+00:00"
 }

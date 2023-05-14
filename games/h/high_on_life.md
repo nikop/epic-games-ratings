@@ -25,8 +25,8 @@ Rating: 4.68 (Ranked 235)
 | Series Wrap on Suit-O | 22.00% | ~4,983 |
 | Lezduit! | 20.00% | ~4,530 |
 | Who's The Boss? | 20.00% | ~4,530 |
+| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,530 |
 | Self-Actualization | 19.00% | ~4,303 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,303 |
 | Legendary Bounty Hunter | 18.00% | ~4,077 |
 | Seeing All The Sights | 16.00% | ~3,624 |
 | Carried Stan's Load To Completion | 13.00% | ~2,944 |

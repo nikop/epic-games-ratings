@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -750,9 +750,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5641,
+  "EOS_Progressed": 5642,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2005,6 +2005,11 @@
       "Time": "2023-05-14T05:03:16.4608645+00:00",
       "NumProgressed": 5641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-14T06:02:15.5450004+00:00",
+      "NumProgressed": 5642,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2104,7 +2109,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -2120,7 +2125,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "First_Race_Met",
@@ -2128,7 +2133,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4118
+      "UsersEstimate": 4119
     },
     {
       "ID": "First_Ship_Designed",
@@ -2152,7 +2157,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2232,7 +2237,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "Play_1000_Hours",
@@ -2336,7 +2341,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2504,7 +2509,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2591,15 +2596,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5641,
+      "Progressed": 5642,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-13T13:57:10.2538669+00:00",
-  "LastChanged_Achievements": "2023-05-14T05:03:16.4608638+00:00",
+  "LastChanged_Achievements": "2023-05-14T06:02:15.5449998+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-14T04:57:12.9291865+00:00",
-  "LastUpdate_Achievements": "2023-05-14T05:03:16.4609892+00:00"
+  "LastUpdate_Ratings": "2023-05-14T05:57:08.4900615+00:00",
+  "LastUpdate_Achievements": "2023-05-14T06:02:15.5450778+00:00"
 }
