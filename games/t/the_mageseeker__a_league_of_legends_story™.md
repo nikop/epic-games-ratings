@@ -5,31 +5,31 @@ Rating: 4.72 (Ranked 164)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,887 |
-| No more cages! | 92.00% | ~1,827 |
-| Everfrost | 77.00% | ~1,529 |
-| Pentakill | 76.00% | ~1,509 |
-| Dark Forest | 76.00% | ~1,509 |
-| The use of petricite | 73.00% | ~1,450 |
+| For Demacia | 95.00% | ~1,888 |
+| No more cages! | 92.00% | ~1,828 |
+| Everfrost | 77.00% | ~1,530 |
+| Pentakill | 76.00% | ~1,510 |
+| Dark Forest | 76.00% | ~1,510 |
+| The use of petricite | 73.00% | ~1,451 |
 | You can pet the dog | 60.00% | ~1,192 |
-| Big Helmet Bro | 34.00% | ~675 |
-| Clarion Cove | 34.00% | ~675 |
+| Big Helmet Bro | 34.00% | ~676 |
+| Clarion Cove | 34.00% | ~676 |
 | Past trauma | 32.00% | ~636 |
 | Thornbarrow | 32.00% | ~636 |
 | Ternmoat Headquarters | 32.00% | ~636 |
 | Elemental master | 31.00% | ~616 |
 | Cypress Glen Headquarters | 31.00% | ~616 |
-| Old friend | 26.00% | ~516 |
-| Petricite Burst | 26.00% | ~516 |
-| Devineur | 25.00% | ~496 |
+| Old friend | 26.00% | ~517 |
+| Petricite Burst | 26.00% | ~517 |
+| Hijack | 25.00% | ~497 |
+| Devineur | 25.00% | ~497 |
 | Whispers in the Woods I | 24.00% | ~477 |
-| Hijack | 24.00% | ~477 |
 | I chose my shackles | 22.00% | ~437 |
 | Ancient power | 22.00% | ~437 |
 | Sacred Woods | 21.00% | ~417 |
-| Capelworth | 19.00% | ~377 |
-| Little light | 18.00% | ~357 |
-| Iffighain Headquarters | 18.00% | ~357 |
+| Capelworth | 19.00% | ~378 |
+| Little light | 18.00% | ~358 |
+| Iffighain Headquarters | 18.00% | ~358 |
 | Glyndemere | 17.00% | ~338 |
 | Full equipped | 17.00% | ~338 |
 | Whispers in the Woods II | 15.00% | ~298 |
@@ -59,7 +59,7 @@ Rating: 4.72 (Ranked 164)
 | Silverwing nest | 2.00% | ~40 |
 | The Unshackled | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,986 (Ranked 143)  
+Progressed: 1,987 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 1 (0.05%) (Ranked 172)
 | 2023-05-11 | 1,962 | 1 |
 | 2023-05-12 | 1,972 | 1 |
 | 2023-05-13 | 1,986 | 1 |
+| 2023-05-14 | 1,987 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

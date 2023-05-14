@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3682,9 +3682,9 @@
       "Count": 3233
     }
   ],
-  "EOS_Progressed": 87430,
+  "EOS_Progressed": 87436,
   "EOS_Completed": 1836,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5817,6 +5817,11 @@
       "Time": "2023-05-14T02:08:36.9322805+00:00",
       "NumProgressed": 87430,
       "NumCompleted": 1836
+    },
+    {
+      "Time": "2023-05-14T03:06:08.2278219+00:00",
+      "NumProgressed": 87436,
+      "NumCompleted": 1836
     }
   ],
   "TotalAchievements": 489,
@@ -6418,9 +6423,9 @@
       "ID": "objective_completed_1147",
       "SetID": "415jc5c",
       "Name": "The Howling Peaks of Yon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_1148",
@@ -9210,9 +9215,9 @@
       "ID": "objective_completed_830",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Today",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_completed_832",
@@ -9739,21 +9744,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53704,
+      "Progressed": 53710,
       "Completed": 2504
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87430,
+      "Progressed": 87436,
       "Completed": 1836
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-14T02:00:58.6076927+00:00",
-  "LastChanged_Achievements": "2023-05-14T02:08:36.9322797+00:00",
+  "LastChanged_Achievements": "2023-05-14T03:06:08.2278215+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:00:58.6076933+00:00",
-  "LastUpdate_Achievements": "2023-05-14T02:08:36.9344268+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:58:01.2499879+00:00",
+  "LastUpdate_Achievements": "2023-05-14T03:06:08.2299888+00:00"
 }

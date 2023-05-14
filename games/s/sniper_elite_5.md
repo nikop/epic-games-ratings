@@ -1,16 +1,16 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.38 (Ranked 690)  
+Rating: 4.38 (Ranked 689)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 36.00% | ~255 |
+| Meeting Resistance | 36.00% | ~256 |
 | Confirming Suspicions | 32.00% | ~227 |
 | The Kraken Wakes | 29.00% | ~206 |
 | It's Starting to Crack | 28.00% | ~199 |
-| Lord of War | 25.00% | ~177 |
-| Change the Channel | 25.00% | ~177 |
+| Lord of War | 25.00% | ~178 |
+| Change the Channel | 25.00% | ~178 |
 | Resourceful | 23.00% | ~163 |
 | Taking it back | 23.00% | ~163 |
 | Organ Grinder | 22.00% | ~156 |
@@ -19,7 +19,7 @@ Rating: 4.38 (Ranked 690)
 | As Quiet as a Mouse | 19.00% | ~135 |
 | The Kraken Sleeps | 19.00% | ~135 |
 | Liberté | 17.00% | ~121 |
-| Explosive Efficiency | 16.00% | ~113 |
+| Explosive Efficiency | 16.00% | ~114 |
 | Gunslinger | 15.00% | ~106 |
 | Close Quarters | 15.00% | ~106 |
 | Climbing the Ladder | 14.00% | ~99 |
@@ -40,9 +40,9 @@ Rating: 4.38 (Ranked 690)
 | Rigged to Blow | 8.00% | ~57 |
 | Operation Foxley | 8.00% | ~53 |
 | Last Resort | 7.00% | ~46 |
-| Siegebreaker | 6.00% | ~40 |
 | Ghost of Falaise | 6.00% | ~40 |
-| The Long Game | 5.00% | ~35 |
+| The Long Game | 5.00% | ~36 |
+| Siegebreaker | 5.00% | ~33 |
 | If You Go Down To The Woods Today | 5.00% | ~33 |
 | Strategist | 4.00% | ~28 |
 | Tinkerer | 4.00% | ~28 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 690)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709 (Ranked 176)  
+Progressed: 710 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-11 | 701 | 2 |
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
+| 2023-05-14 | 710 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -21,9 +21,9 @@ Number of Ratings: 56  (23.09.2022)
 | turbo | 20.00% | ~1,999 |
 | food tour: pretzel | 19.00% | ~1,899 |
 | bicycle race | 15.00% | ~1,499 |
+| monster | 14.00% | ~1,399 |
 | car wash | 13.00% | ~1,299 |
 | perkele | 13.00% | ~1,299 |
-| monster | 13.00% | ~1,299 |
 | night ride | 12.00% | ~1,199 |
 | the artist | 12.00% | ~1,199 |
 | snorkel | 12.00% | ~1,199 |

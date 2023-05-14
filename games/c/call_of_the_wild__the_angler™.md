@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.12 (Ranked 853)  
+Rating: 4.13 (Ranked 849)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -127,3 +127,4 @@ Diff (max vs sum): 60
 | 2023-04-14 | 4.12 | - | 32 | 158 |
 | 2023-05-08 | 4.13 | - | 32 | 158 |
 | 2023-05-10 | 4.12 | - | 32 | 158 |
+| 2023-05-14 | 4.13 | - | 32 | 158 |

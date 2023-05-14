@@ -2,13 +2,13 @@
   "ID": "b90c4b2fdc754c65847280d39db428fc",
   "Name": "Bassmaster\u00AE Fishing",
   "ProductSlug": "bassmaster-fishing-2022-ec4015",
-  "Ranking_Rating": 725,
+  "Ranking_Rating": 724,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-03-28T15:00:00+00:00",
     "PcReleaseDate": "2021-10-28T00:00:00+00:00",
@@ -135,8 +135,8 @@
   "FirstSeenRating": "2022-09-01T21:31:08.6586814+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.2907913+00:00",
   "LastChanged": "2023-04-23T21:56:49.2236799+00:00",
-  "LastChanged_Achievements": "2023-05-14T02:08:26.0802747+00:00",
+  "LastChanged_Achievements": "2023-05-14T03:05:55.7676924+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.6427467+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:02:58.0231089+00:00",
-  "LastUpdate_Achievements": "2023-05-14T02:08:26.0802774+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:00:50.753424+00:00",
+  "LastUpdate_Achievements": "2023-05-14T03:05:55.7676947+00:00"
 }

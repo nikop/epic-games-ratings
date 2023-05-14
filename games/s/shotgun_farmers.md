@@ -14,10 +14,10 @@
 | Drinking Problem | 30.00% | ~14 |
 | Skin Of Your Teeth | 21.00% | ~10 |
 | Pork Chop Express | 17.00% | ~8 |
+| Eggtraordinary | 17.00% | ~8 |
+| Getting Started | 15.00% | ~7 |
 | Graveside Survivor | 15.00% | ~7 |
-| Eggtraordinary | 15.00% | ~7 |
 | Fresh Pancake | 13.00% | ~6 |
-| Getting Started | 13.00% | ~6 |
 | Quit Horsin' Around | 13.00% | ~6 |
 | Carrocketeer | 11.00% | ~5 |
 | Forestside Survivor | 9.00% | ~4 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1241,
+  "EOS_Progressed": 1242,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -414,6 +414,11 @@
       "Time": "2023-05-13T22:06:45.5448556+00:00",
       "NumProgressed": 1241,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-14T03:06:00.9253223+00:00",
+      "NumProgressed": 1242,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 38,
@@ -425,7 +430,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -433,7 +438,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -479,9 +484,9 @@
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -489,7 +494,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -497,7 +502,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -561,7 +566,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -593,7 +598,7 @@
       "Name": "The Capitalist",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -673,7 +678,7 @@
       "Name": "Adolescent Love",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENTS_33",
@@ -681,7 +686,7 @@
       "Name": "Catch of the Day",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -728,7 +733,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1241,
+      "Progressed": 1242,
       "Completed": 5
     }
   ],
@@ -736,8 +741,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-14T02:08:30.2493633+00:00",
+  "LastChanged_Achievements": "2023-05-14T03:06:00.9253215+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:16.3443594+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:02:51.1800173+00:00",
-  "LastUpdate_Achievements": "2023-05-14T02:08:30.2493935+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:00:41.500013+00:00",
+  "LastUpdate_Achievements": "2023-05-14T03:06:00.9253462+00:00"
 }

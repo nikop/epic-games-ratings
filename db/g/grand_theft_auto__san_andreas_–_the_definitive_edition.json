@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7613,
+  "EOS_Progressed": 7614,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1348,6 +1348,11 @@
       "Time": "2023-05-14T02:08:31.266006+00:00",
       "NumProgressed": 7613,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-14T03:06:02.1310472+00:00",
+      "NumProgressed": 7614,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 35,
@@ -1359,7 +1364,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6090
+      "UsersEstimate": 6091
     },
     {
       "ID": "ACH02",
@@ -1415,7 +1420,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "ACH09",
@@ -1638,7 +1643,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7613,
+      "Progressed": 7614,
       "Completed": 15
     }
   ],
@@ -1646,8 +1651,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-06T12:01:20.0756684+00:00",
-  "LastChanged_Achievements": "2023-05-14T02:08:31.2660055+00:00",
+  "LastChanged_Achievements": "2023-05-14T03:06:02.1310468+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:02:45.3927883+00:00",
-  "LastUpdate_Achievements": "2023-05-14T02:08:31.2660298+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:00:32.7615825+00:00",
+  "LastUpdate_Achievements": "2023-05-14T03:06:02.1310715+00:00"
 }

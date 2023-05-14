@@ -24,12 +24,12 @@ Number of Ratings: 111  (23.09.2022)
 | That pinch! | 6.00% | ~117 |
 | Tight lipslides | 6.00% | ~117 |
 | Bottom ply killer | 5.00% | ~98 |
+| Commence the Hijinx! | 5.00% | ~98 |
 | Fulfilled the dream | 5.00% | ~98 |
 | NAHELL! | 5.00% | ~98 |
 | Purple passion | 5.00% | ~98 |
 | Squad goals | 5.00% | ~98 |
 | Sup widdit big dog! | 5.00% | ~98 |
-| Commence the Hijinx! | 4.00% | ~78 |
 | Cops called! | 4.00% | ~78 |
 | DIY Boss | 4.00% | ~78 |
 | Globetrotter | 4.00% | ~78 |

@@ -1,7 +1,7 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.35 (Ranked 717)  
+Rating: 4.35 (Ranked 716)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 101  (23.09.2022)
 | Safe Pair of Hands | 35.00% | ~114 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~94 |
 | Architect of Fortunes | 25.00% | ~81 |
-| Pampered Life | 24.00% | ~78 |
+| Pampered Life | 25.00% | ~81 |
 | Bite the Blow | 18.00% | ~58 |
 | Spreading Fear | 9.00% | ~29 |
 | I'm Going To Call You Kitty | 8.00% | ~26 |

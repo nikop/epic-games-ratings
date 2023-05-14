@@ -2,13 +2,13 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 708,
+  "Ranking_Rating": 707,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 53873,
+  "EOS_Progressed": 53874,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 994,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2476,6 +2476,11 @@
       "Time": "2023-05-14T02:08:13.7533114+00:00",
       "NumProgressed": 53873,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2023-05-14T03:05:40.4256257+00:00",
+      "NumProgressed": 53874,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 24,
@@ -2495,7 +2500,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 11313
+      "UsersEstimate": 11314
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -2503,7 +2508,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 36095
+      "UsersEstimate": 36096
     },
     {
       "ID": "BEST_FRIENDS",
@@ -2543,7 +2548,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 15084
+      "UsersEstimate": 15085
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -2678,7 +2683,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 53873,
+      "Progressed": 53874,
       "Completed": 250
     }
   ],
@@ -2686,8 +2691,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-05-14T02:08:13.7533111+00:00",
+  "LastChanged_Achievements": "2023-05-14T03:05:40.4256253+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:21.0292093+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:02:06.3029938+00:00",
-  "LastUpdate_Achievements": "2023-05-14T02:08:13.7533352+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:59:38.3455781+00:00",
+  "LastUpdate_Achievements": "2023-05-14T03:05:40.4256484+00:00"
 }

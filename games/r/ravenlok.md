@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~600 |
 | Waff! | 93.00% | ~581 |
-| Into the Barn | 87.00% | ~544 |
+| Into the Barn | 88.00% | ~550 |
 | A Prophecy | 85.00% | ~531 |
 | Sword, Shield, Fight! | 76.00% | ~475 |
 | A Grand Visit | 72.00% | ~450 |

@@ -6,17 +6,17 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,327 |
-| Returning Home: Quick Learner | 25.00% | ~1,187 |
+| Level: Returning Home | 49.00% | ~2,328 |
+| Returning Home: Quick Learner | 25.00% | ~1,188 |
 | Level: Charlie's Circuits | 22.00% | ~1,045 |
-| Level: Rising Markets | 9.00% | ~427 |
+| Level: Rising Markets | 9.00% | ~428 |
 | Peddler | 8.00% | ~380 |
-| Level: Extra Life | 7.00% | ~332 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~332 |
-| Data Churn Type I | 7.00% | ~332 |
+| Level: Extra Life | 7.00% | ~333 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~333 |
+| Data Churn Type I | 7.00% | ~333 |
 | Millionaire | 6.00% | ~285 |
-| Data Churn Type II | 5.00% | ~237 |
-| Speedy | 5.00% | ~237 |
+| Data Churn Type II | 5.00% | ~238 |
+| Speedy | 5.00% | ~238 |
 | Extra Life: Wish Granted | 4.00% | ~190 |
 | High Five! | 4.00% | ~190 |
 | Modular Progress | 4.00% | ~190 |
@@ -35,13 +35,13 @@ Number of Ratings: 75  (23.09.2022)
 | Module Maniac | 2.00% | ~95 |
 | Overproducer | 2.00% | ~95 |
 | Natural Talent | 2.00% | ~95 |
-| Level: A Happy Taskforce | 1.00% | ~47 |
-| Level: The Machinery | 1.00% | ~47 |
-| Extra Life: Knowledge Cap | 1.00% | ~47 |
-| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~47 |
-| Entrepreneur | 1.00% | ~47 |
-| Data Churn Type IV | 1.00% | ~47 |
-| Keen Eye | 1.00% | ~47 |
+| Level: A Happy Taskforce | 1.00% | ~48 |
+| Level: The Machinery | 1.00% | ~48 |
+| Extra Life: Knowledge Cap | 1.00% | ~48 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~48 |
+| Entrepreneur | 1.00% | ~48 |
+| Data Churn Type IV | 1.00% | ~48 |
+| Keen Eye | 1.00% | ~48 |
 | Level: Topple The Top | 0.90% | ~43 |
 | Tycoon | 0.90% | ~43 |
 | Bet On Bots: Safety First | 0.80% | ~38 |
@@ -58,10 +58,10 @@ Number of Ratings: 75  (23.09.2022)
 | The Machinery: Energy Saver | 0.30% | ~14 |
 | Super Rich | 0.30% | ~14 |
 | Fully Packed | 0.30% | ~14 |
-| Champion | 0.20% | ~9 |
-| Trophy Hoarder | 0.20% | ~9 |
-| Happy Hour | 0.20% | ~9 |
-| Achiever | 0.20% | ~9 |
+| Champion | 0.20% | ~10 |
+| Trophy Hoarder | 0.20% | ~10 |
+| Happy Hour | 0.20% | ~10 |
+| Achiever | 0.20% | ~10 |
 | Grand Master | 0.10% | ~5 |
 | Trophy Enthusiast | 0.10% | ~5 |
 | Campaign: In Hot Waters | 0.10% | ~5 |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,749 (Ranked 124)  
-Completed: 1 (0.02%) (Ranked 183)  
+Progressed: 4,750 (Ranked 124)  
+Completed: 1 (0.02%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 1 (0.02%) (Ranked 183)
 | 2023-05-11 | 4,739 | 1 |
 | 2023-05-12 | 4,741 | 1 |
 | 2023-05-13 | 4,748 | 1 |
-| 2023-05-14 | 4,749 | 1 |
+| 2023-05-14 | 4,750 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -454,6 +454,11 @@
       "Time": "2023-05-13T17:05:16.5308509+00:00",
       "NumProgressed": 709,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-14T03:05:18.3858297+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -545,7 +550,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -609,7 +614,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -665,7 +670,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -673,7 +678,7 @@
       "Name": "Lord of War",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -801,7 +806,7 @@
       "Name": "Change the Channel",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -959,9 +964,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -1008,13 +1013,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 660,
+      "Progressed": 661,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 2
     }
   ],
@@ -1022,8 +1027,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-14T02:07:56.1126387+00:00",
+  "LastChanged_Achievements": "2023-05-14T03:05:18.3858293+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:02:58.1586165+00:00",
-  "LastUpdate_Achievements": "2023-05-14T02:07:56.1126929+00:00"
+  "LastUpdate_Ratings": "2023-05-14T03:00:50.9640054+00:00",
+  "LastUpdate_Achievements": "2023-05-14T03:05:18.3858851+00:00"
 }

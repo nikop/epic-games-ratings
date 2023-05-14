@@ -94,6 +94,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.20% | ~107 |
 | The Lutes of Loomlurch | 0.20% | ~107 |
 | Supply Run | 0.20% | ~175 |
+| The Howling Peaks of Yon | 0.20% | ~107 |
 | The Invisible Wizards of Thay | 0.20% | ~107 |
 | Heavy Burden | 0.20% | ~175 |
 | Seeds of Destruction | 0.20% | ~107 |
@@ -226,6 +227,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.20% | ~175 |
 | Dwarven Rumors | 0.20% | ~107 |
 | Frozen in Fear | 0.20% | ~107 |
+| It's Cold Out There Today | 0.20% | ~107 |
 | Sunblight | 0.20% | ~107 |
 | Fortress Assault | 0.20% | ~107 |
 | The Radiant Nightmare | 0.20% | ~107 |
@@ -280,7 +282,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Laid Plans | 0.10% | ~54 |
 | Pincushion Party | 0.10% | ~54 |
 | G. O. A. T. | 0.10% | ~54 |
-| The Howling Peaks of Yon | 0.10% | ~54 |
 | Strength of Character | 0.10% | ~54 |
 | Flapjacks and Waffles | 0.10% | ~54 |
 | On the Hunt | 0.10% | ~87 |
@@ -447,7 +448,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Peril | 0.10% | ~54 |
 | Rickety Rubble | 0.10% | ~54 |
 | Mimic Perception | 0.10% | ~54 |
-| It's Cold Out There Today | 0.10% | ~54 |
 | Hats off to you! | 0.10% | ~54 |
 | It's Cold Out There Every Day | 0.10% | ~54 |
 | The Bleeding Citadel | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | Overwhelming Force | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,430 (Ranked 59)  
+Progressed: 87,436 (Ranked 59)  
 Completed: 1,836 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -520,7 +520,7 @@ Completed: 1,836 (2.10%) (Ranked 61)
 | 2023-05-11 | 87,189 | 1,825 |
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
-| 2023-05-14 | 87,430 | 1,836 |
+| 2023-05-14 | 87,436 | 1,836 |
 ## Awards
 Max (Diverse Characters): 4,877  (Ranked 63)  
 Sum: 29,874 (Ranked 37)  

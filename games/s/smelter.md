@@ -13,8 +13,8 @@
 | Smeltastic! | 33.00% | ~10 |
 | A Little Renovating | 30.00% | ~9 |
 | Deflect This! | 23.00% | ~7 |
+| Just Some Improvements | 20.00% | ~6 |
 | It's a Sign! | 20.00% | ~6 |
-| Just Some Improvements | 17.00% | ~5 |
 | A Little Extra Love | 17.00% | ~5 |
 | A New Strategy | 17.00% | ~5 |
 | A Terrible Way to Go | 17.00% | ~5 |

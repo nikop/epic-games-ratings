@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,191 |
-| Into the Unknown | 8.00% | ~43,725 |
-| First Shot | 8.00% | ~43,725 |
-| Herzlich Wilkommen! | 7.00% | ~38,259 |
-| Sancho Panza | 7.00% | ~38,259 |
-| Good Night & Good Luck | 7.00% | ~38,259 |
-| Under Pressure | 6.00% | ~32,794 |
-| Flag Burning | 6.00% | ~32,794 |
-| Oh, So This Is How It Works! | 6.00% | ~32,794 |
-| Night Hunter | 6.00% | ~32,794 |
-| On the Trail of the Enemy | 5.00% | ~27,328 |
-| Light in the Darkness | 5.00% | ~27,328 |
-| Get Outta My House! | 5.00% | ~27,328 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,328 |
-| Being All Social | 5.00% | ~27,328 |
+| You Never Forget Your First... | 9.00% | ~49,192 |
+| Into the Unknown | 8.00% | ~43,726 |
+| First Shot | 8.00% | ~43,726 |
+| Herzlich Wilkommen! | 7.00% | ~38,260 |
+| Sancho Panza | 7.00% | ~38,260 |
+| Good Night & Good Luck | 7.00% | ~38,260 |
+| Under Pressure | 6.00% | ~32,795 |
+| Flag Burning | 6.00% | ~32,795 |
+| Oh, So This Is How It Works! | 6.00% | ~32,795 |
+| Night Hunter | 6.00% | ~32,795 |
+| On the Trail of the Enemy | 5.00% | ~27,329 |
+| Light in the Darkness | 5.00% | ~27,329 |
+| Get Outta My House! | 5.00% | ~27,329 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,329 |
+| Being All Social | 5.00% | ~27,329 |
 | Debris and Ashes | 4.00% | ~21,863 |
 | We Will Be Heard! | 4.00% | ~21,863 |
 | Known Associate | 4.00% | ~21,863 |
@@ -34,10 +34,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 3.00% | ~16,397 |
 | Terminal Headache | 3.00% | ~16,397 |
 | Slowpoke! | 3.00% | ~16,397 |
-| Tickets, Please! | 2.00% | ~10,931 |
-| Parkour Master | 2.00% | ~10,931 |
-| Combat Master | 2.00% | ~10,931 |
-| You're Going Down! | 2.00% | ~10,931 |
+| Tickets, Please! | 2.00% | ~10,932 |
+| Parkour Master | 2.00% | ~10,932 |
+| Combat Master | 2.00% | ~10,932 |
+| You're Going Down! | 2.00% | ~10,932 |
 | Municipal Services | 1.00% | ~5,466 |
 | Tube Map | 1.00% | ~5,466 |
 | Don Quixote | 1.00% | ~5,466 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~192 |
 | Connoisseur | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 546,563 (Ranked 22)  
+Progressed: 546,577 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 46 (0.01%) (Ranked 191)
 | 2023-05-11 | 545,309 | 46 |
 | 2023-05-12 | 545,860 | 46 |
 | 2023-05-13 | 546,500 | 46 |
-| 2023-05-14 | 546,563 | 46 |
+| 2023-05-14 | 546,577 | 46 |
 ## Awards
 Max (Character Customization): 7,029  (Ranked 44)  
 Sum: 16,305 (Ranked 58)  

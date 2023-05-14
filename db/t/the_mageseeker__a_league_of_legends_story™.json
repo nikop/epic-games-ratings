@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1986,
+  "EOS_Progressed": 1987,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1251,6 +1251,11 @@
       "Time": "2023-05-13T22:06:07.1946436+00:00",
       "NumProgressed": 1986,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-14T03:05:24.8902345+00:00",
+      "NumProgressed": 1987,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1300,9 +1305,9 @@
       "ID": "STB_COPY_ABILITIES",
       "SetID": "3pe2bac",
       "Name": "Hijack",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 497
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1326,7 +1331,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1342,7 +1347,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1366,7 +1371,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1390,7 +1395,7 @@
       "Name": "Little light",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1398,7 +1403,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1438,7 +1443,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1446,7 +1451,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1478,7 +1483,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1494,7 +1499,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1502,7 +1507,7 @@
       "Name": "Devineur",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -1526,7 +1531,7 @@
       "Name": "Capelworth",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -1614,7 +1619,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -1638,7 +1643,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1678,14 +1683,14 @@
       "Name": "Petricite Burst",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1986,
+      "Progressed": 1987,
       "Completed": 1
     }
   ],
@@ -1693,8 +1698,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-14T02:08:01.4463684+00:00",
+  "LastChanged_Achievements": "2023-05-14T03:05:24.8902338+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:00:36.6345774+00:00",
-  "LastUpdate_Achievements": "2023-05-14T02:08:01.4464182+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:57:31.4341316+00:00",
+  "LastUpdate_Achievements": "2023-05-14T03:05:24.8902746+00:00"
 }

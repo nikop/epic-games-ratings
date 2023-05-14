@@ -13,9 +13,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 0.90% | ~133 |
 | Overcoming Difficulty | 0.90% | ~133 |
 | Fertile Meadows | 0.90% | ~133 |
+| Taking Action | 0.90% | ~133 |
 | Bandit Camp | 0.80% | ~118 |
 | Lost Colonies | 0.80% | ~118 |
-| Taking Action | 0.80% | ~118 |
 | Like a Machine | 0.80% | ~118 |
 | Trade Baron | 0.80% | ~118 |
 | Barren Lands | 0.70% | ~104 |

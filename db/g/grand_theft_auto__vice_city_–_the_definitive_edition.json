@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 6140,
+  "EOS_Progressed": 6142,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1349,6 +1349,11 @@
       "Time": "2023-05-14T02:07:57.7059317+00:00",
       "NumProgressed": 6140,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-14T03:05:20.3550972+00:00",
+      "NumProgressed": 6142,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 34,
@@ -1432,7 +1437,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH11",
@@ -1520,7 +1525,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "ACH22",
@@ -1528,7 +1533,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACH23",
@@ -1536,7 +1541,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH24",
@@ -1576,7 +1581,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH29",
@@ -1631,7 +1636,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6140,
+      "Progressed": 6142,
       "Completed": 20
     }
   ],
@@ -1639,8 +1644,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-10T19:59:39.8173766+00:00",
-  "LastChanged_Achievements": "2023-05-14T02:07:57.7059314+00:00",
+  "LastChanged_Achievements": "2023-05-14T03:05:20.3550969+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-14T02:01:09.8577286+00:00",
-  "LastUpdate_Achievements": "2023-05-14T02:07:57.7059541+00:00"
+  "LastUpdate_Ratings": "2023-05-14T02:58:16.5647747+00:00",
+  "LastUpdate_Achievements": "2023-05-14T03:05:20.3551202+00:00"
 }
