@@ -1,7 +1,7 @@
 # Rebel Galaxy Outlaw
 [Store](https://store.epicgames.com/en-US/p/rebel-galaxy-outlaw)  
 [View Rawdata](../../db/r/rebel_galaxy_outlaw.json)  
-Rating: 4.43 (Ranked 636)  
+Rating: 4.44 (Ranked 622)  
 Number of Ratings: 145  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -65,3 +65,4 @@ Number of Ratings: 145  (23.09.2022)
 | 2023-01-11 | 4.44 | - | - | - |
 | 2023-02-24 | 4.43 | - | - | - |
 | 2023-03-31 | 4.43 | - | 0 | 0 |
+| 2023-05-14 | 4.44 | - | 0 | 0 |

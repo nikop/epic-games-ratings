@@ -2,13 +2,13 @@
   "ID": "marmoset",
   "Name": "Rebel Galaxy Outlaw",
   "ProductSlug": "rebel-galaxy-outlaw",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 622,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2019-08-13T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.44,
   "NumberOfRatings": 145,
   "RatingHistory": [
     {
@@ -322,6 +322,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-14T23:57:40.5551047+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -339,8 +345,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:57.7523989+00:00",
-  "LastChanged": "2023-03-31T05:57:44.5293992+00:00",
+  "LastChanged": "2023-05-14T23:57:40.5551046+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.4597643+00:00",
-  "LastUpdate_Ratings": "2023-05-14T22:57:49.0650716+00:00",
-  "LastUpdate_Achievements": "2023-05-14T23:01:42.7330857+00:00"
+  "LastUpdate_Ratings": "2023-05-14T23:57:40.555106+00:00",
+  "LastUpdate_Achievements": "2023-05-15T00:01:34.6160841+00:00"
 }

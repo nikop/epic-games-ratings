@@ -5,17 +5,17 @@ Rating: 4.61 (Ranked 352)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,800 |
-| Shine On | 70.00% | ~110,880 |
-| On the Job | 69.00% | ~109,296 |
-| Get Stuck In | 68.00% | ~107,712 |
-| Room for Expansion | 68.00% | ~107,712 |
-| Sales Pitch | 65.00% | ~102,960 |
-| Chill Out | 64.00% | ~101,376 |
-| Tinker | 61.00% | ~96,624 |
-| Grand Designs | 60.00% | ~95,040 |
-| Hot Stuff | 59.00% | ~93,456 |
-| MOAR RGB | 54.00% | ~85,536 |
+| Bootstrapping | 75.00% | ~118,801 |
+| Shine On | 70.00% | ~110,881 |
+| On the Job | 69.00% | ~109,297 |
+| Get Stuck In | 68.00% | ~107,713 |
+| Room for Expansion | 68.00% | ~107,713 |
+| Sales Pitch | 65.00% | ~102,961 |
+| Chill Out | 64.00% | ~101,377 |
+| Tinker | 61.00% | ~96,625 |
+| Grand Designs | 60.00% | ~95,041 |
+| Hot Stuff | 59.00% | ~93,457 |
+| MOAR RGB | 54.00% | ~85,537 |
 | Dream Theme | 46.00% | ~72,864 |
 | The Customer is King | 45.00% | ~71,280 |
 | Working Hard | 44.00% | ~69,696 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 352)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,400 (Ranked 53)  
+Progressed: 158,401 (Ranked 53)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-12 | 158,322 | 102 |
 | 2023-05-13 | 158,365 | 102 |
 | 2023-05-14 | 158,400 | 102 |
+| 2023-05-15 | 158,401 | 102 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 163)  
 Sum: 4,553 (Ranked 127)  

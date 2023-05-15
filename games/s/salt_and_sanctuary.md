@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~432,382 |
-| The Three | 64.00% | ~333,403 |
-| The Banquet | 40.00% | ~208,377 |
-| Devara's Light | 30.00% | ~156,283 |
+| Find Sanctuary | 83.00% | ~432,384 |
+| The Three | 64.00% | ~333,405 |
+| The Banquet | 40.00% | ~208,378 |
+| Devara's Light | 30.00% | ~156,284 |
 | The Iron Ones | 18.00% | ~93,770 |
 | The Village | 16.00% | ~83,351 |
 | The Forest | 14.00% | ~72,932 |
-| Branded | 13.00% | ~67,722 |
-| The Imposter | 13.00% | ~67,722 |
-| The Keep | 13.00% | ~67,722 |
+| Branded | 13.00% | ~67,723 |
+| The Imposter | 13.00% | ~67,723 |
+| The Keep | 13.00% | ~67,723 |
 | The Castle | 11.00% | ~57,304 |
 | The Dome | 9.00% | ~46,885 |
 | The Red Hall | 9.00% | ~46,885 |
-| The Sacrifice | 8.00% | ~41,675 |
+| The Sacrifice | 8.00% | ~41,676 |
 | The Cave | 7.00% | ~36,466 |
 | The Stone Roots | 7.00% | ~36,466 |
 | The Ziggurat | 7.00% | ~36,466 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,419 |
 | Fading Fast | 1.00% | ~5,209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,942 (Ranked 23)  
+Progressed: 520,945 (Ranked 23)  
 Completed: 1,407 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,14 +69,15 @@ Completed: 1,407 (0.27%) (Ranked 130)
 | 2023-05-12 | 520,683 | 1,406 |
 | 2023-05-13 | 520,820 | 1,406 |
 | 2023-05-14 | 520,942 | 1,407 |
+| 2023-05-15 | 520,945 | 1,407 |
 ## Awards
 Max (Challenging Combat): 268  (Ranked 233)  
-Sum: 1,874 (Ranked 190)  
+Sum: 1,875 (Ranked 190)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 268 |
-| This game has Quickly Understood Controls | 249 |
+| This game has Quickly Understood Controls | 250 |
 | This game is Highly Recommended | 246 |
 | This game has Diverse Characters | 227 |
 | This game is Extremely Fun | 227 |
@@ -188,3 +189,4 @@ Diff (max vs sum): 43
 | 2023-05-04 | 4.61 | - | 267 | 1,872 |
 | 2023-05-07 | 4.61 | - | 268 | 1,873 |
 | 2023-05-12 | 4.61 | - | 268 | 1,874 |
+| 2023-05-14 | 4.61 | - | 268 | 1,875 |

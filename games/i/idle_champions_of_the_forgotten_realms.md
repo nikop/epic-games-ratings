@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.30% | ~161 |
 | The Castle of a Thousand Vecnas | 0.30% | ~161 |
 | Unreasonable Doesn't Mean Stupid | 0.30% | ~161 |
+| No One Can Hear You Scream | 0.30% | ~161 |
 | Low Initiative | 0.30% | ~263 |
 | Street War | 0.30% | ~263 |
 | Building Trust | 0.30% | ~263 |
@@ -132,7 +133,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.20% | ~175 |
 | The Minions of Endelyn Moongrave | 0.20% | ~108 |
 | The Bitter End | 0.20% | ~108 |
-| No One Can Hear You Scream | 0.20% | ~108 |
 | Welcome to the Rock | 0.20% | ~108 |
 | The Forbidden City | 0.20% | ~175 |
 | Periodic Petrification | 0.20% | ~175 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,546 (Ranked 59)  
-Completed: 1,842 (2.10%) (Ranked 60)  
+Progressed: 87,548 (Ranked 59)  
+Completed: 1,843 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -521,6 +521,7 @@ Completed: 1,842 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
+| 2023-05-15 | 87,548 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,881 (Ranked 37)  
