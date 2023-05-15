@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 2604,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -999,7 +999,7 @@
   "EOS_Progressed": 21805,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 185,
-  "EOS_NewCompleters": -1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -2736,9 +2736,9 @@
       "ID": "Collector",
       "SetID": "819popo",
       "Name": "Collector",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5451
     },
     {
       "ID": "Cultured",
@@ -3097,8 +3097,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-15T02:00:52.8372712+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:05:46.9861964+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:06:39.7099632+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:59:01.3561118+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:05:46.9862653+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:59:37.004443+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:06:39.7100263+00:00"
 }

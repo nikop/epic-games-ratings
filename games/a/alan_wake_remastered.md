@@ -21,7 +21,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,694 |
 | Missed by a Mile | 8.00% | ~3,694 |
 | Damn Good Cup of Coffee | 8.00% | ~3,694 |
-| A Friend in Need | 8.00% | ~771 |
+| A Friend in Need | 8.00% | ~772 |
 | Heavy Metal | 7.00% | ~3,232 |
 | Iron Horse | 7.00% | ~3,232 |
 | Perchance to Dream | 7.00% | ~3,232 |
@@ -30,10 +30,10 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 7.00% | ~3,232 |
 | Collateral Carnage | 7.00% | ~3,232 |
 | Come One, Come All | 7.00% | ~3,232 |
-| Gatekeeper | 6.00% | ~2,770 |
-| The Lady of the Light | 6.00% | ~2,770 |
-| Two For the Price of One | 6.00% | ~2,770 |
-| Energized! | 6.00% | ~2,770 |
+| Gatekeeper | 6.00% | ~2,771 |
+| The Lady of the Light | 6.00% | ~2,771 |
+| Two For the Price of One | 6.00% | ~2,771 |
+| Energized! | 6.00% | ~2,771 |
 | A Friend Indeed | 6.00% | ~579 |
 | Tornado Wrangler | 5.00% | ~2,309 |
 | What Light Through Yonder Window | 5.00% | ~2,309 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,175 (Ranked 75)  
+Progressed: 46,176 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-12 | 46,131 | 44 |
 | 2023-05-13 | 46,152 | 44 |
 | 2023-05-14 | 46,171 | 44 |
-| 2023-05-15 | 46,175 | 44 |
+| 2023-05-15 | 46,176 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

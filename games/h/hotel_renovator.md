@@ -25,7 +25,7 @@ Rating: 4.50 (Ranked 530)
 | Aesop's fable | 26.00% | ~192 |
 | Kaboom | 25.00% | ~184 |
 | Nearly there | 24.00% | ~177 |
-| Broken heart | 21.00% | ~155 |
+| Broken heart | 22.00% | ~162 |
 | Island boy | 20.00% | ~148 |
 | Unstoppable | 18.00% | ~133 |
 | You're a star | 18.00% | ~133 |

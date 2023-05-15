@@ -23,11 +23,11 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 9.00% | ~49 |
 | Shapely | 8.00% | ~43 |
 | Jawstag | 8.00% | ~43 |
+| Celebration | 7.00% | ~38 |
+| Predator | 7.00% | ~38 |
 | Assimilation | 6.00% | ~32 |
-| Celebration | 6.00% | ~32 |
 | Inevitable | 6.00% | ~32 |
 | Watcher | 6.00% | ~32 |
-| Predator | 6.00% | ~32 |
 | Dream | 6.00% | ~7 |
 | Hunt Down | 5.00% | ~27 |
 | Artisan | 5.00% | ~27 |

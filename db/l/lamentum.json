@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3,
+  "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -82,6 +82,11 @@
     {
       "Time": "2023-05-07T07:06:22.8395506+00:00",
       "NumProgressed": 267,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-15T04:02:13.6949558+00:00",
+      "NumProgressed": 268,
       "NumCompleted": 8
     }
   ],
@@ -166,7 +171,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_10",
@@ -174,7 +179,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_11",
@@ -182,15 +187,15 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_12",
       "SetID": "7881h0d",
       "Name": "Lord Wesley",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_13",
@@ -198,7 +203,7 @@
       "Name": "One step down",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_14",
@@ -206,7 +211,7 @@
       "Name": "Lord Clayton",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_15",
@@ -245,7 +250,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 8
     }
   ],
@@ -253,8 +258,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:01:15.4780902+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:02:13.6949551+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:40.199296+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:57:47.5691129+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:01:15.4781481+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:58:06.2254219+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:02:13.6949763+00:00"
 }

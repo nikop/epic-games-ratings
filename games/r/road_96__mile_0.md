@@ -7,7 +7,7 @@
 | BBFF (Best Brigade Friend Forever) | 63.00% | ~96 |
 | Conspiracy Theorist | 53.00% | ~81 |
 | On the Road | 51.00% | ~78 |
-| Souvenirs | 36.00% | ~55 |
+| Souvenirs | 37.00% | ~56 |
 | This is Not Heavy Metal! | 24.00% | ~36 |
 | Welcome to the Garage | 20.00% | ~30 |
 | Truthseeker | 18.00% | ~27 |

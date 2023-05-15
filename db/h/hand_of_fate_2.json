@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -832,7 +832,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656165,
+  "EOS_Progressed": 656167,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 1,
@@ -2852,6 +2852,11 @@
       "Time": "2023-05-15T03:05:25.8959051+00:00",
       "NumProgressed": 656165,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-15T04:06:15.7835863+00:00",
+      "NumProgressed": 656167,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -2863,7 +2868,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472439
+      "UsersEstimate": 472440
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -2871,7 +2876,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380576
+      "UsersEstimate": 380577
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -2927,7 +2932,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65616
+      "UsersEstimate": 65617
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -2959,7 +2964,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65616
+      "UsersEstimate": 65617
     },
     {
       "ID": "Achievement_14_Magician",
@@ -3127,7 +3132,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164041
+      "UsersEstimate": 164042
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -3215,7 +3220,7 @@
       "Name": "Peaceful Coast",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "Achievement_46_Pilgrim",
@@ -3246,15 +3251,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656165,
+      "Progressed": 656167,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:05:25.8959047+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:06:15.7835853+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:30.4319872+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:57:37.7210868+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:05:25.8959883+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:57:54.3324278+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:06:15.7836753+00:00"
 }

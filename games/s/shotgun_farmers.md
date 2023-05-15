@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 98.00% | ~48 |
-| First Blood | 73.00% | ~36 |
-| Triple Kill | 69.00% | ~34 |
-| No Asperascope | 61.00% | ~30 |
-| Cornivore | 61.00% | ~30 |
-| 15K | 39.00% | ~19 |
-| 10K | 39.00% | ~19 |
-| Drinking Problem | 29.00% | ~14 |
+| Seeds of War | 98.00% | ~49 |
+| First Blood | 74.00% | ~37 |
+| Triple Kill | 68.00% | ~34 |
+| No Asperascope | 60.00% | ~30 |
+| Cornivore | 60.00% | ~30 |
+| 15K | 38.00% | ~19 |
+| 10K | 38.00% | ~19 |
+| Drinking Problem | 28.00% | ~14 |
 | Skin Of Your Teeth | 22.00% | ~11 |
 | Eggtraordinary | 20.00% | ~10 |
 | Graveside Survivor | 16.00% | ~8 |
@@ -49,7 +49,7 @@
 | Pro Moolotover | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 281)  
+Progressed: 50 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 44 | 0 |
 | 2023-05-13 | 46 | 0 |
 | 2023-05-14 | 49 | 0 |
+| 2023-05-15 | 50 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

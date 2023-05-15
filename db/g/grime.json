@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -441,9 +441,9 @@
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -505,9 +505,9 @@
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -631,8 +631,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:06:04.8637342+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:07:00.2493913+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:20.874021+00:00",
-  "LastUpdate_Ratings": "2023-05-15T03:00:44.6876549+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:06:04.8637832+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:01:36.567244+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:07:00.2494189+00:00"
 }

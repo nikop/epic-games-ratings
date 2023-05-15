@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7624,
+  "EOS_Progressed": 7625,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1409,6 +1409,11 @@
       "Time": "2023-05-15T02:07:40.4814956+00:00",
       "NumProgressed": 7624,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-15T04:06:59.7089074+00:00",
+      "NumProgressed": 7625,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1420,7 +1425,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6099
+      "UsersEstimate": 6100
     },
     {
       "ID": "ACH02",
@@ -1428,7 +1433,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH03",
@@ -1436,7 +1441,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH04",
@@ -1636,7 +1641,7 @@
       "Name": "Original Gangster",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH29",
@@ -1644,7 +1649,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ACH30",
@@ -1699,7 +1704,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7624,
+      "Progressed": 7625,
       "Completed": 16
     }
   ],
@@ -1707,8 +1712,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:06:04.1778653+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:06:59.7089068+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-15T03:00:28.3397278+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:06:04.1778996+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:01:19.9546795+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:06:59.708936+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 0.90% | ~45 |
-| Smooth Operator: Madison | 0.70% | ~35 |
+| Smooth Operator: Madison | 0.80% | ~40 |
 | Katherine | 0.50% | ~25 |
 | The Brahdyssey | 0.40% | ~20 |
 | Drunk and Disorderly: Stephanie | 0.40% | ~20 |

@@ -6,16 +6,16 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,254 |
+| You Never Forget Your First... | 9.00% | ~49,255 |
 | Into the Unknown | 8.00% | ~43,782 |
 | First Shot | 8.00% | ~43,782 |
-| Herzlich Wilkommen! | 7.00% | ~38,309 |
-| Sancho Panza | 7.00% | ~38,309 |
-| Good Night & Good Luck | 7.00% | ~38,309 |
-| Under Pressure | 6.00% | ~32,836 |
-| Flag Burning | 6.00% | ~32,836 |
-| Oh, So This Is How It Works! | 6.00% | ~32,836 |
-| Night Hunter | 6.00% | ~32,836 |
+| Herzlich Wilkommen! | 7.00% | ~38,310 |
+| Sancho Panza | 7.00% | ~38,310 |
+| Good Night & Good Luck | 7.00% | ~38,310 |
+| Under Pressure | 6.00% | ~32,837 |
+| Flag Burning | 6.00% | ~32,837 |
+| Oh, So This Is How It Works! | 6.00% | ~32,837 |
+| Night Hunter | 6.00% | ~32,837 |
 | On the Trail of the Enemy | 5.00% | ~27,364 |
 | Light in the Darkness | 5.00% | ~27,364 |
 | Get Outta My House! | 5.00% | ~27,364 |
@@ -34,10 +34,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 3.00% | ~16,418 |
 | Terminal Headache | 3.00% | ~16,418 |
 | Slowpoke! | 3.00% | ~16,418 |
-| Tickets, Please! | 2.00% | ~10,945 |
-| Parkour Master | 2.00% | ~10,945 |
-| Combat Master | 2.00% | ~10,945 |
-| You're Going Down! | 2.00% | ~10,945 |
+| Tickets, Please! | 2.00% | ~10,946 |
+| Parkour Master | 2.00% | ~10,946 |
+| Combat Master | 2.00% | ~10,946 |
+| You're Going Down! | 2.00% | ~10,946 |
 | Municipal Services | 1.00% | ~5,473 |
 | Tube Map | 1.00% | ~5,473 |
 | Don Quixote | 1.00% | ~5,473 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,473 |
 | Ironheart | 1.00% | ~5,473 |
 | Nemesis | 1.00% | ~1,927 |
-| Enter the Hall | 0.90% | ~1,734 |
+| Enter the Hall | 0.90% | ~1,735 |
 | That's Teamwork! | 0.80% | ~4,378 |
 | Fit as a Fiddle | 0.80% | ~4,378 |
 | Night of Terrors | 0.80% | ~1,542 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,271 (Ranked 22)  
+Progressed: 547,281 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 46 (0.01%) (Ranked 191)
 | 2023-05-12 | 545,860 | 46 |
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
-| 2023-05-15 | 547,271 | 46 |
+| 2023-05-15 | 547,281 | 46 |
 ## Awards
 Max (Character Customization): 7,052  (Ranked 44)  
 Sum: 16,364 (Ranked 58)  

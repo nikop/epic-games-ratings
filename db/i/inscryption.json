@@ -2,12 +2,12 @@
   "ID": "78546100323d461dbda0306d6af277e3",
   "Name": "Inscryption",
   "ProductSlug": "inscryption-6b29ab",
-  "Ranking_Rating": 27,
+  "Ranking_Rating": 28,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-19T19:00:00+00:00",
@@ -626,6 +626,6 @@
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
   "LastChanged": "2023-05-01T16:59:50.081774+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:50.0752075+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:59:02.3119753+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:04:05.8132674+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:59:38.1758218+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:04:41.0767152+00:00"
 }

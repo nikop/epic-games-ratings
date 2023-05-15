@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 633,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 6.95,
   "EosHistory": [
@@ -1352,9 +1352,9 @@
       "ID": "34",
       "SetID": "d0g98p",
       "Name": "Glimmer of Hope",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 247
     },
     {
       "ID": "35",
@@ -1545,8 +1545,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:05:20.1601457+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:06:09.4376057+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:57:30.1058004+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:05:20.1602151+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:57:46.2928877+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:06:09.4376591+00:00"
 }

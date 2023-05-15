@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1017,
+  "EOS_Progressed": 1018,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1592,6 +1592,11 @@
       "Time": "2023-05-14T20:06:19.1400667+00:00",
       "NumProgressed": 1017,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T04:06:31.2884487+00:00",
+      "NumProgressed": 1018,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1939,7 +1944,7 @@
       "Name": "Miner Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "missionsdedication",
@@ -2163,7 +2168,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "warmachinesarmy",
@@ -2202,7 +2207,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1017,
+      "Progressed": 1018,
       "Completed": 1
     }
   ],
@@ -2210,8 +2215,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:05:39.4949963+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:06:31.2884481+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:58:03.795088+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:05:39.495081+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:58:27.0749384+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:06:31.2885359+00:00"
 }

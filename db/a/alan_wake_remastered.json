@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46175,
+  "EOS_Progressed": 46176,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1601,6 +1601,11 @@
       "Time": "2023-05-15T03:05:33.0657726+00:00",
       "NumProgressed": 46175,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-15T04:06:24.0543824+00:00",
+      "NumProgressed": 46176,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1716,7 +1721,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "15",
@@ -1724,7 +1729,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "16",
@@ -1844,7 +1849,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "31",
@@ -1876,7 +1881,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "35",
@@ -2012,7 +2017,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "52",
@@ -2147,21 +2152,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46175,
+      "Progressed": 46176,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9643,
+      "Progressed": 9644,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:05:33.0657721+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:06:24.0543818+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:57:41.2879354+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:05:33.065868+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:57:58.639859+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:06:24.0544597+00:00"
 }

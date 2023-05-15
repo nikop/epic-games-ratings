@@ -3706,9 +3706,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87555,
+  "EOS_Progressed": 87557,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 733,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5961,6 +5961,11 @@
       "Time": "2023-05-15T03:06:10.4124809+00:00",
       "NumProgressed": 87555,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T04:07:06.5659645+00:00",
+      "NumProgressed": 87557,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6130,9 +6135,9 @@
       "ID": "objective_completed_1063",
       "SetID": "415jc5c",
       "Name": "Go Fourth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_1065",
@@ -7730,9 +7735,9 @@
       "ID": "objective_completed_385",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Resolve",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_386",
@@ -8970,9 +8975,9 @@
       "ID": "objective_completed_675",
       "SetID": "415jc5c",
       "Name": "Bel\u0027s Forge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_676",
@@ -9883,21 +9888,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53829,
+      "Progressed": 53831,
       "Completed": 2508
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87555,
+      "Progressed": 87557,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T02:00:10.6762796+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:06:10.4124804+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:07:06.565964+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:58:06.6806084+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:06:10.4154767+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:58:30.4961024+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:07:06.5688499+00:00"
 }

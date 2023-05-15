@@ -8,7 +8,7 @@
 | Bakery Startup | 44.00% | ~52 |
 | Apprentice Baker | 36.00% | ~43 |
 | The Kitchen Is On Fire | 34.00% | ~40 |
-| Perfect Server | 17.00% | ~20 |
+| Perfect Server | 18.00% | ~21 |
 | Adept Baker | 11.00% | ~13 |
 | Verdant Greenhouse | 10.00% | ~12 |
 | Bustling Store | 10.00% | ~12 |

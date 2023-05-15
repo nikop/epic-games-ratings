@@ -4,7 +4,7 @@
   "ProductSlug": "gravity-circuit-489baa",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:57:42.3335181+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:57:49.5960541+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:03:30.0384228+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:58:08.6601703+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:04:10.7962433+00:00"
 }

@@ -1446,9 +1446,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60153,
+  "EOS_Progressed": 60154,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3711,6 +3711,11 @@
       "Time": "2023-05-15T03:05:59.4840537+00:00",
       "NumProgressed": 60153,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-15T04:06:54.4031893+00:00",
+      "NumProgressed": 60154,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -3722,7 +3727,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30076
+      "UsersEstimate": 30077
     },
     {
       "ID": "ACH_0011",
@@ -3730,7 +3735,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17444
+      "UsersEstimate": 17445
     },
     {
       "ID": "ACH_0012",
@@ -3866,7 +3871,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39099
+      "UsersEstimate": 39100
     },
     {
       "ID": "ACH_0210",
@@ -3946,7 +3951,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19850
+      "UsersEstimate": 19851
     },
     {
       "ID": "ACH_0430",
@@ -3986,7 +3991,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9624
+      "UsersEstimate": 9625
     },
     {
       "ID": "ACH_0452",
@@ -3994,7 +3999,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9624
+      "UsersEstimate": 9625
     },
     {
       "ID": "ACH_0460",
@@ -4017,7 +4022,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60153,
+      "Progressed": 60154,
       "Completed": 29
     }
   ],
@@ -4025,8 +4030,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-14T17:59:59.4341573+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:05:59.4840534+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:06:54.4031883+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-15T03:00:09.2938397+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:05:59.4841301+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:00:57.4774369+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:06:54.4032352+00:00"
 }

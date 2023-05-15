@@ -939,9 +939,9 @@
       "ID": "ACH_HOLIDAYS",
       "SetID": "5nj1ea3",
       "Name": "Holidays!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_KAMIKAZE",
@@ -1156,8 +1156,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-04-29T09:59:31.6059591+00:00",
-  "LastChanged_Achievements": "2023-05-15T03:06:07.6089549+00:00",
+  "LastChanged_Achievements": "2023-05-15T04:07:03.3863384+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:15.6246126+00:00",
-  "LastUpdate_Ratings": "2023-05-15T03:00:36.5868926+00:00",
-  "LastUpdate_Achievements": "2023-05-15T03:06:07.6090101+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:01:27.8172001+00:00",
+  "LastUpdate_Achievements": "2023-05-15T04:07:03.3864028+00:00"
 }

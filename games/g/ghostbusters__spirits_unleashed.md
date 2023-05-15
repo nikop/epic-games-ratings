@@ -31,8 +31,8 @@ Rating: 4.49 (Ranked 553)
 | Stunner | 27.00% | ~5,887 |
 | Summoner | 27.00% | ~5,887 |
 | Animated | 25.00% | ~5,451 |
+| Collector | 25.00% | ~5,451 |
 | Skilled | 25.00% | ~5,451 |
-| Collector | 24.00% | ~5,233 |
 | Ectoplasmic Entity | 24.00% | ~5,233 |
 | Rift Destroyer | 20.00% | ~4,361 |
 | Tobin's Prodigy | 19.00% | ~4,143 |
