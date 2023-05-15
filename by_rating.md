@@ -123,7 +123,7 @@
 | 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 101 | 321 |
 | 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,631 | 111 |
 | 115 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 491 |
-| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,022 | 39 |
+| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,040 | 39 |
 | 115 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 491 |
 | 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 491 |
 | 115 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 325 | 215 |
@@ -152,31 +152,31 @@
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 491 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 491 |
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 755 | 148 |
+| 140 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.74 | 0 | 491 |
 | 140 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 587 | 168 |
-| 154 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.73 | 62 | 375 |
-| 154 | [Haven](games/h/haven.md) | 4.73 | 0 | 491 |
-| 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 288 |
-| 154 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 491 |
-| 154 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 491 |
-| 154 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 491 |
-| 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 311 | 223 |
-| 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 491 |
-| 154 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 348 |
-| 154 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 491 |
-| 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 456 | 189 |
-| 164 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 491 |
-| 164 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 551 | 173 |
-| 164 | [Northgard](games/n/northgard.md) | 4.72 | 27 | 454 |
-| 164 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 412 |
-| 164 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 491 |
-| 164 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 0 | 491 |
-| 164 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 69 | 365 |
-| 164 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 491 |
-| 164 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.72 | 0 | 491 |
-| 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 491 |
-| 164 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 491 |
-| 164 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 491 |
-| 164 | [Timberborn](games/t/timberborn.md) | 4.72 | 119 | 303 |
+| 155 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.73 | 62 | 375 |
+| 155 | [Haven](games/h/haven.md) | 4.73 | 0 | 491 |
+| 155 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 288 |
+| 155 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 491 |
+| 155 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 491 |
+| 155 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 491 |
+| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 311 | 223 |
+| 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 491 |
+| 155 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 348 |
+| 155 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 491 |
+| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 456 | 189 |
+| 165 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 491 |
+| 165 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 551 | 173 |
+| 165 | [Northgard](games/n/northgard.md) | 4.72 | 27 | 454 |
+| 165 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 412 |
+| 165 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 491 |
+| 165 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 0 | 491 |
+| 165 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 69 | 365 |
+| 165 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 491 |
+| 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 491 |
+| 165 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 491 |
+| 165 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 491 |
+| 165 | [Timberborn](games/t/timberborn.md) | 4.72 | 119 | 303 |
 | 178 | [Barony](games/b/barony.md) | 4.71 | 70 | 364 |
 | 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 322 | 216 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 491 |
@@ -501,7 +501,7 @@
 | 490 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 278 | 227 |
 | 490 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 332 |
 | 501 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 737 | 151 |
-| 501 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,315 | 16 |
+| 501 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,341 | 16 |
 | 501 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 503 | 184 |
 | 501 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 323 |
 | 501 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 286 |
@@ -854,7 +854,7 @@
 | 849 | [Forspoken](games/f/forspoken.md) | 4.13 | 0 | 491 |
 | 849 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 0 | 491 |
 | 854 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 491 |
-| 854 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 75 | 354 |
+| 854 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 76 | 351 |
 | 856 | [Wreckfest](games/w/wreckfest.md) | 4.11 | 0 | 491 |
 | 857 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 491 |
 | 857 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 491 |
