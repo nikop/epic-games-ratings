@@ -49,7 +49,7 @@
 | 47 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 49 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
+| 50 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.84% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -68,8 +68,8 @@
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
 | 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
-| 68 | [Them and Us](games/t/them_and_us.md) | 1.59% |
-| 70 | [Frogun](games/f/frogun.md) | 1.55% |
+| 69 | [Frogun](games/f/frogun.md) | 1.55% |
+| 70 | [Them and Us](games/t/them_and_us.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
@@ -104,7 +104,7 @@
 | 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
