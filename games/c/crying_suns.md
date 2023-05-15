@@ -6,13 +6,13 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,315 |
-| Jeef Skeejj | 44.00% | ~201,543 |
+| The Shutdown | 66.00% | ~302,316 |
+| Jeef Skeejj | 44.00% | ~201,544 |
 | Careful planning | 39.00% | ~178,641 |
-| Second Coming | 33.00% | ~151,157 |
+| Second Coming | 33.00% | ~151,158 |
 | Jeef Skagg | 30.00% | ~137,416 |
-| Mother | 25.00% | ~114,513 |
-| In space, no one can hear you scream | 23.00% | ~105,352 |
+| Mother | 25.00% | ~114,514 |
+| In space, no one can hear you scream | 23.00% | ~105,353 |
 | Chapter I: Echoes | 22.00% | ~100,772 |
 | Excelsior Rule | 22.00% | ~100,772 |
 | Things persisted in not being what they seemed | 20.00% | ~91,611 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~68,708 |
 | Tetsuo | 11.00% | ~50,386 |
 | Plan for the worst | 11.00% | ~50,386 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,805 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,806 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,644 |
 | Through the mirror | 8.00% | ~36,644 |
 | General Vivar | 8.00% | ~36,644 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,053 (Ranked 28)  
+Progressed: 458,055 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 14 (0.00%) (Ranked 199)
 | 2023-05-12 | 457,795 | 14 |
 | 2023-05-13 | 457,931 | 14 |
 | 2023-05-14 | 458,027 | 14 |
-| 2023-05-15 | 458,053 | 14 |
+| 2023-05-15 | 458,055 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 349)  

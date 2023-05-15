@@ -25,9 +25,202 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 24,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Advanced",
+      "SetID": "6cpk2o7",
+      "Name": "Advanced",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BandOfTheseus",
+      "SetID": "6cpk2o7",
+      "Name": "Band of Theseus",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BonaFideNecrodancer",
+      "SetID": "6cpk2o7",
+      "Name": "Bona fide Necrodancer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ByTheBook",
+      "SetID": "6cpk2o7",
+      "Name": "By the book",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EpicSaxGuy",
+      "SetID": "6cpk2o7",
+      "Name": "Epic sax guy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EveryTrickInTheBook",
+      "SetID": "6cpk2o7",
+      "Name": "Every trick in the book",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FridayNightFunk",
+      "SetID": "6cpk2o7",
+      "Name": "Friday night funk",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FunkCostSallacy",
+      "SetID": "6cpk2o7",
+      "Name": "Funk-cost sallacy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Gearhead",
+      "SetID": "6cpk2o7",
+      "Name": "Gearhead",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HiddenTape",
+      "SetID": "6cpk2o7",
+      "Name": "Hidden tape",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IfYouCanDodgeAWrench",
+      "SetID": "6cpk2o7",
+      "Name": "If you can dodge a wrench...",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InTheStep2525",
+      "SetID": "6cpk2o7",
+      "Name": "In the step 2525",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Intermediate",
+      "SetID": "6cpk2o7",
+      "Name": "Intermediate",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ItTakesTwoToTango",
+      "SetID": "6cpk2o7",
+      "Name": "It takes two to tango",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Legend",
+      "SetID": "6cpk2o7",
+      "Name": "Legend",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Novice",
+      "SetID": "6cpk2o7",
+      "Name": "Novice",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OhHowTheTurnTables",
+      "SetID": "6cpk2o7",
+      "Name": "Oh, how the turn tables",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PurePerfection",
+      "SetID": "6cpk2o7",
+      "Name": "Pure perfection",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SwanSong",
+      "SetID": "6cpk2o7",
+      "Name": "Swan song",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheArtOfSound",
+      "SetID": "6cpk2o7",
+      "Name": "The art of sound",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheFatherOfSole",
+      "SetID": "6cpk2o7",
+      "Name": "The father of sole",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheWeight",
+      "SetID": "6cpk2o7",
+      "Name": "The weight",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThisLittleManeuver",
+      "SetID": "6cpk2o7",
+      "Name": "This little maneuver is gonna cost us 51 stagger",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TootYourOwnHorn",
+      "SetID": "6cpk2o7",
+      "Name": "Toot your own horn",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6cpk2o7",
@@ -37,8 +230,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:43.9354733+00:00",
-  "LastChanged_Achievements": "2023-05-15T08:06:06.4898086+00:00",
+  "LastChanged_Achievements": "2023-05-15T09:05:47.4738999+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.8999864+00:00",
-  "LastUpdate_Ratings": "2023-05-15T08:00:12.3939446+00:00",
-  "LastUpdate_Achievements": "2023-05-15T08:06:06.4898139+00:00"
+  "LastUpdate_Ratings": "2023-05-15T08:59:48.0148919+00:00",
+  "LastUpdate_Achievements": "2023-05-15T09:05:47.4739127+00:00"
 }

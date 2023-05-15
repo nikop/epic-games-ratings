@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,330 |
-| That's a Grand Army | 8.00% | ~2,960 |
-| That is mine! | 8.00% | ~2,960 |
-| Victorious! | 8.00% | ~2,960 |
-| Brothers in Arms | 6.00% | ~2,220 |
-| That's a Grand Navy | 6.00% | ~2,220 |
-| Seriously?! | 6.00% | ~2,220 |
-| For the Glory | 5.00% | ~1,850 |
-| Cold War | 4.00% | ~1,480 |
-| True Catholic | 4.00% | ~1,480 |
-| Defender of the Faith | 3.00% | ~1,110 |
-| It's all about the money | 3.00% | ~1,110 |
-| Respected | 3.00% | ~1,110 |
-| Truly Divine Ruler | 3.00% | ~1,110 |
+| Until death do us apart | 9.00% | ~3,332 |
+| That's a Grand Army | 8.00% | ~2,962 |
+| That is mine! | 8.00% | ~2,962 |
+| Victorious! | 8.00% | ~2,962 |
+| Brothers in Arms | 6.00% | ~2,221 |
+| That's a Grand Navy | 6.00% | ~2,221 |
+| Seriously?! | 6.00% | ~2,221 |
+| For the Glory | 5.00% | ~1,851 |
+| Cold War | 4.00% | ~1,481 |
+| True Catholic | 4.00% | ~1,481 |
+| Defender of the Faith | 3.00% | ~1,111 |
+| It's all about the money | 3.00% | ~1,111 |
+| Respected | 3.00% | ~1,111 |
+| Truly Divine Ruler | 3.00% | ~1,111 |
 | Blockader | 2.00% | ~740 |
 | Combined Arms | 2.00% | ~740 |
 | Double the Love | 2.00% | ~740 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,999 (Ranked 81)  
+Progressed: 37,022 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,17 +386,17 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
 | 2023-05-14 | 36,905 | 0 |
-| 2023-05-15 | 36,999 | 0 |
+| 2023-05-15 | 37,022 | 0 |
 ## Awards
 Max (Educational): 5,220  (Ranked 60)  
-Sum: 43,205 (Ranked 27)  
+Sum: 43,207 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,220 |
 | This game is Highly Recommended | 5,002 |
 | This game has Challenging Combat | 4,992 |
-| This game is Extremely Fun | 4,960 |
+| This game is Extremely Fun | 4,962 |
 | This game has Diverse Characters | 4,909 |
 | This game is Relaxing | 4,861 |
 | This game has Competitive Players | 4,689 |
@@ -524,4 +524,4 @@ Diff (max vs sum): 33
 | 2023-05-12 | 4.68 | - | 5,212 | 43,110 |
 | 2023-05-13 | 4.68 | - | 5,216 | 43,160 |
 | 2023-05-14 | 4.68 | - | 5,220 | 43,200 |
-| 2023-05-15 | 4.68 | - | 5,220 | 43,205 |
+| 2023-05-15 | 4.68 | - | 5,220 | 43,207 |

@@ -25,8 +25,8 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 7.00% | ~182 |
 | Just a Scratch | 7.00% | ~182 |
 | Hold Your Ground | 6.00% | ~156 |
+| A Gift Spurned | 5.00% | ~130 |
 | Daemonkeeper | 4.00% | ~104 |
-| A Gift Spurned | 4.00% | ~104 |
 | Long Distance Call | 4.00% | ~104 |
 | Corruption Cleanser | 3.00% | ~78 |
 | Mind Like a Fortress | 3.00% | ~78 |

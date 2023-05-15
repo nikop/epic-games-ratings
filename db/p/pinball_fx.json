@@ -1462,9 +1462,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 217009,
+  "EOS_Progressed": 217021,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3522,
+  "EOS_NewPlayers": 3518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3787,6 +3787,11 @@
       "Time": "2023-05-15T08:05:57.1250207+00:00",
       "NumProgressed": 217009,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T09:05:37.822387+00:00",
+      "NumProgressed": 217021,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -3846,7 +3851,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 23871
+      "UsersEstimate": 23872
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -3886,7 +3891,7 @@
       "Name": "First but not Last",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6510
+      "UsersEstimate": 6511
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -4006,7 +4011,7 @@
       "Name": "Dress Code",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8680
+      "UsersEstimate": 8681
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -4022,7 +4027,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 175777
+      "UsersEstimate": 175787
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -4030,22 +4035,22 @@
       "Name": "I know the Rules",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 95484
+      "UsersEstimate": 95489
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 217009,
+      "Progressed": 217021,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-05-14T19:59:25.6264769+00:00",
-  "LastChanged_Achievements": "2023-05-15T08:05:57.1250201+00:00",
+  "LastChanged_Achievements": "2023-05-15T09:05:37.8223865+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:56.0226455+00:00",
-  "LastUpdate_Ratings": "2023-05-15T07:59:26.4787934+00:00",
-  "LastUpdate_Achievements": "2023-05-15T08:05:57.1250515+00:00"
+  "LastUpdate_Ratings": "2023-05-15T08:59:02.2558735+00:00",
+  "LastUpdate_Achievements": "2023-05-15T09:05:37.8224138+00:00"
 }

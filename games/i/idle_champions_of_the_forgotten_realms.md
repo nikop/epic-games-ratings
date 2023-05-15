@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.40% | ~350 |
 | Escort to Waterdeep | 0.40% | ~350 |
 | Waterdeep Detours | 0.40% | ~350 |
+| Underdeep Cartography | 0.40% | ~350 |
 | Tall Tales | 0.30% | ~162 |
 | The Silken Swamp | 0.30% | ~263 |
 | Supply Run | 0.30% | ~263 |
@@ -66,7 +67,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Even Worse Time in Avernus | 0.30% | ~162 |
 | Close Escort | 0.30% | ~263 |
 | Constant Banditry | 0.30% | ~263 |
-| Underdeep Cartography | 0.30% | ~263 |
 | Overdue Rendezvous | 0.30% | ~263 |
 | How Far Away is Thay | 0.30% | ~162 |
 | The Templar's Camp | 0.30% | ~263 |
@@ -249,6 +249,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ten in Ten-Towns | 0.20% | ~108 |
 | Civilization | 0.20% | ~108 |
 | Trench Coat Run | 0.20% | ~108 |
+| The Taunting Lord | 0.20% | ~108 |
 | Durable Deep | 0.20% | ~175 |
 | The Sibriex | 0.20% | ~108 |
 | Wrecked Flying Fortress | 0.20% | ~108 |
@@ -449,7 +450,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.10% | ~54 |
 | Prisoners of Unknown Choices | 0.10% | ~54 |
 | Only Human | 0.10% | ~54 |
-| The Taunting Lord | 0.10% | ~54 |
 | Lone Wolf Party | 0.10% | ~54 |
 | The Archduke's Blessing | 0.10% | ~54 |
 | A Neutral Party | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,564 (Ranked 59)  
+Progressed: 87,567 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,564 | 1,843 |
+| 2023-05-15 | 87,567 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

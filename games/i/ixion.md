@@ -48,6 +48,7 @@ Rating: 4.55 (Ranked 465)
 | Oats | 0.10% | ~2 |
 | Tiqqun Contender | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
+| Work Harder | 0.10% | ~2 |
 | Space Greenhouse | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
@@ -55,7 +56,6 @@ Rating: 4.55 (Ranked 465)
 | Beyond Time and Space | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |
 | This is Fine | 0.00% | ~0 |
-| Work Harder | 0.00% | ~0 |
 | Suburban Perfection | 0.00% | ~0 |
 | A Junker's Dream | 0.00% | ~0 |
 | Scenic View | 0.00% | ~0 |

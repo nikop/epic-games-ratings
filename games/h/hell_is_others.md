@@ -5,15 +5,15 @@ Rating: 4.46 (Ranked 592)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,111 |
-| Predator I | 22.00% | ~54,724 |
+| Survivor | 31.00% | ~77,112 |
+| Predator I | 22.00% | ~54,725 |
 | Fixer I | 10.00% | ~24,875 |
 | A week in Century City | 10.00% | ~24,875 |
 | The Wait | 7.00% | ~17,412 |
 | Green thumb I | 6.00% | ~14,925 |
-| Well-oiled machine | 5.00% | ~12,437 |
-| Saver I | 5.00% | ~12,437 |
-| Cleaning Company | 5.00% | ~12,437 |
+| Well-oiled machine | 5.00% | ~12,438 |
+| Saver I | 5.00% | ~12,438 |
+| Cleaning Company | 5.00% | ~12,438 |
 | The Ascent | 4.00% | ~9,950 |
 | Pacifist | 4.00% | ~9,950 |
 | Vandalism | 4.00% | ~9,950 |
@@ -27,14 +27,14 @@ Rating: 4.46 (Ranked 592)
 | Predator II | 2.00% | ~4,975 |
 | Truffle Dog | 2.00% | ~4,975 |
 | A month in Century City | 2.00% | ~4,975 |
-| The Strengthening | 1.00% | ~2,487 |
-| Saver II | 1.00% | ~2,487 |
-| It's the last one, I swear | 1.00% | ~2,487 |
-| Botanist | 1.00% | ~2,487 |
-| Green thumb II | 1.00% | ~2,487 |
-| Don't try this at home | 1.00% | ~2,487 |
-| Bricklayer | 1.00% | ~2,487 |
-| Run the Economy | 1.00% | ~2,487 |
+| The Strengthening | 1.00% | ~2,488 |
+| Saver II | 1.00% | ~2,488 |
+| It's the last one, I swear | 1.00% | ~2,488 |
+| Botanist | 1.00% | ~2,488 |
+| Green thumb II | 1.00% | ~2,488 |
+| Don't try this at home | 1.00% | ~2,488 |
+| Bricklayer | 1.00% | ~2,488 |
+| Run the Economy | 1.00% | ~2,488 |
 | Committed Relationship | 0.80% | ~1,990 |
 | Number 1 | 0.70% | ~1,741 |
 | Interior designer | 0.60% | ~1,492 |
@@ -47,9 +47,9 @@ Rating: 4.46 (Ranked 592)
 | Predator III | 0.30% | ~746 |
 | AML questionnaire | 0.30% | ~746 |
 | Heartbreaker | 0.30% | ~746 |
-| Fixer III | 0.20% | ~497 |
-| Homerun | 0.20% | ~497 |
-| A season in Century City | 0.20% | ~497 |
+| Fixer III | 0.20% | ~498 |
+| Homerun | 0.20% | ~498 |
+| A season in Century City | 0.20% | ~498 |
 | Saver III | 0.10% | ~249 |
 | Collector | 0.10% | ~249 |
 | Mansion | 0.10% | ~249 |
@@ -62,7 +62,7 @@ Rating: 4.46 (Ranked 592)
 | Capitalist III | 0.10% | ~249 |
 | Hell Is You | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,746 (Ranked 39)  
+Progressed: 248,750 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-12 | 248,486 | 1 |
 | 2023-05-13 | 248,613 | 1 |
 | 2023-05-14 | 248,714 | 1 |
-| 2023-05-15 | 248,746 | 1 |
+| 2023-05-15 | 248,750 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 470)  
 Sum: 23 (Ranked 472)  

@@ -5,7 +5,7 @@ Rating: 4.49 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~18,756 |
+| Stylish | 87.00% | ~18,974 |
 | Advancement | 74.00% | ~16,139 |
 | Meticulously Efficient | 65.00% | ~14,176 |
 | Discovery | 63.00% | ~13,740 |

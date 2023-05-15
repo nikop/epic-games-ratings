@@ -15,15 +15,15 @@ Number of Ratings: 76  (23.09.2022)
 | I Am The Storm | 18.00% | ~2,446 |
 | Still Burnin' | 18.00% | ~2,446 |
 | Deadline | 15.00% | ~2,038 |
-| Don't Fear The Reaper | 13.00% | ~1,766 |
-| Eyes On Fire | 13.00% | ~1,766 |
+| Don't Fear The Reaper | 13.00% | ~1,767 |
+| Eyes On Fire | 13.00% | ~1,767 |
 | Feel The Thunder | 7.00% | ~951 |
 | Harvester Of Eyes | 7.00% | ~951 |
 | The Reaper | 7.00% | ~951 |
 | Shadow Warrior | 2.00% | ~272 |
 | Mirrors | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,588 (Ranked 100)  
+Progressed: 13,589 (Ranked 100)  
 Completed: 82 (0.60%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 82 (0.60%) (Ranked 102)
 | 2023-05-12 | 13,491 | 82 |
 | 2023-05-13 | 13,526 | 82 |
 | 2023-05-14 | 13,575 | 82 |
-| 2023-05-15 | 13,588 | 82 |
+| 2023-05-15 | 13,589 | 82 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -164,7 +164,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -494,6 +494,11 @@
       "Time": "2023-05-15T02:07:06.1151351+00:00",
       "NumProgressed": 718,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-15T09:05:26.4018201+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -551,9 +556,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 93
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -585,7 +590,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -665,7 +670,7 @@
       "Name": "Precision Is Key",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -689,7 +694,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -751,9 +756,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 209
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -873,7 +878,7 @@
       "Name": "Taking it back",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -913,7 +918,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -1001,7 +1006,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -1048,13 +1053,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 669,
+      "Progressed": 670,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 2
     }
   ],
@@ -1062,8 +1067,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-15T08:05:45.460588+00:00",
+  "LastChanged_Achievements": "2023-05-15T09:05:26.4018188+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-15T08:00:59.0305487+00:00",
-  "LastUpdate_Achievements": "2023-05-15T08:05:45.4606621+00:00"
+  "LastUpdate_Ratings": "2023-05-15T09:00:33.8584295+00:00",
+  "LastUpdate_Achievements": "2023-05-15T09:05:26.4018762+00:00"
 }

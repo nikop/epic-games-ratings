@@ -1223,9 +1223,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 130
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1285,8 +1285,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-08T20:00:29.2116217+00:00",
-  "LastChanged_Achievements": "2023-05-15T08:06:09.3178019+00:00",
+  "LastChanged_Achievements": "2023-05-15T09:05:50.3486606+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:33.8980479+00:00",
-  "LastUpdate_Ratings": "2023-05-15T07:59:04.4578477+00:00",
-  "LastUpdate_Achievements": "2023-05-15T08:06:09.3179319+00:00"
+  "LastUpdate_Ratings": "2023-05-15T08:58:37.7029649+00:00",
+  "LastUpdate_Achievements": "2023-05-15T09:05:50.3487033+00:00"
 }
