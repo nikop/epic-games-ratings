@@ -2004,10 +2004,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6303,
       "NumberOfAwardsMax": 2254
+    },
+    {
+      "Time": "2023-05-15T22:59:42.968345+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6304,
+      "NumberOfAwardsMax": 2254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6303,
+  "NumberOfAwards": 6304,
   "NumberOfAwardsMax": 2254,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2045,7 +2051,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 475
+      "Count": 476
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2084,9 +2090,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 46015,
+  "EOS_Progressed": 46016,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1907,
+  "EOS_NewPlayers": 1867,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3649,6 +3655,11 @@
       "Time": "2023-05-15T22:07:07.4325512+00:00",
       "NumProgressed": 46015,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-05-15T23:05:13.7333859+00:00",
+      "NumProgressed": 46016,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 45,
@@ -3684,7 +3695,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 36352
+      "UsersEstimate": 36353
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -3796,7 +3807,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 21627
+      "UsersEstimate": 21628
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -3804,7 +3815,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 16565
+      "UsersEstimate": 16566
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -3828,7 +3839,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10123
+      "UsersEstimate": 10124
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -3924,7 +3935,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 44635
+      "UsersEstimate": 44636
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -3980,7 +3991,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16565
+      "UsersEstimate": 16566
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -4012,22 +4023,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 33131
+      "UsersEstimate": 33132
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 46015,
+      "Progressed": 46016,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-05-15T20:59:58.7519246+00:00",
-  "LastChanged_Achievements": "2023-05-15T22:07:07.4325508+00:00",
+  "LastChanged": "2023-05-15T22:59:42.9683448+00:00",
+  "LastChanged_Achievements": "2023-05-15T23:05:13.7333855+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:26.2031618+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:01:33.063855+00:00",
-  "LastUpdate_Achievements": "2023-05-15T22:07:07.4325907+00:00"
+  "LastUpdate_Ratings": "2023-05-15T22:59:42.9683454+00:00",
+  "LastUpdate_Achievements": "2023-05-15T23:05:13.7334304+00:00"
 }

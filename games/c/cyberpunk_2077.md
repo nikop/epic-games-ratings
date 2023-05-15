@@ -6,29 +6,29 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,875 |
-| Right Back At Ya | 37.00% | ~295,931 |
-| The Lovers | 32.00% | ~255,940 |
-| Stanislavski's Method | 27.00% | ~215,950 |
-| The Wheel of Fortune | 25.00% | ~199,953 |
-| The Hermit | 23.00% | ~183,957 |
-| Christmas Tree Attack | 22.00% | ~175,959 |
-| True Soldier | 22.00% | ~175,959 |
-| Legend of The Afterlife | 21.00% | ~167,961 |
-| The High Priestess | 20.00% | ~159,963 |
-| Life of the Road | 19.00% | ~151,964 |
-| Full Body Conversion | 17.00% | ~135,968 |
-| The World | 16.00% | ~127,970 |
-| Bushido and Chill | 15.00% | ~119,972 |
-| Gun Fu | 14.00% | ~111,974 |
-| True Warrior | 14.00% | ~111,974 |
+| The Fool | 67.00% | ~535,878 |
+| Right Back At Ya | 37.00% | ~295,933 |
+| The Lovers | 32.00% | ~255,942 |
+| Stanislavski's Method | 27.00% | ~215,951 |
+| The Wheel of Fortune | 25.00% | ~199,954 |
+| The Hermit | 23.00% | ~183,958 |
+| Christmas Tree Attack | 22.00% | ~175,960 |
+| True Soldier | 22.00% | ~175,960 |
+| Legend of The Afterlife | 21.00% | ~167,962 |
+| The High Priestess | 20.00% | ~159,964 |
+| Life of the Road | 19.00% | ~151,965 |
+| Full Body Conversion | 17.00% | ~135,969 |
+| The World | 16.00% | ~127,971 |
+| Bushido and Chill | 15.00% | ~119,973 |
+| Gun Fu | 14.00% | ~111,975 |
+| True Warrior | 14.00% | ~111,975 |
 | To Protect and Serve | 13.00% | ~103,976 |
 | Master Crafter | 13.00% | ~103,976 |
 | I Am The Law | 13.00% | ~103,976 |
 | Judy vs Night City | 13.00% | ~103,976 |
-| Two Heads, One Bullet | 11.00% | ~87,979 |
-| The Wandering Fool | 9.00% | ~71,983 |
-| The Quick and the Dead | 9.00% | ~71,983 |
+| Two Heads, One Bullet | 11.00% | ~87,980 |
+| The Wandering Fool | 9.00% | ~71,984 |
+| The Quick and the Dead | 9.00% | ~71,984 |
 | Ten out of Ten | 8.00% | ~63,985 |
 | Breathtaking | 7.00% | ~55,987 |
 | To Bad Decisions! | 6.00% | ~47,989 |
@@ -36,14 +36,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 6.00% | ~47,989 |
 | Must Be Rats | 4.00% | ~31,993 |
 | Temperance | 4.00% | ~31,993 |
-| City Lights | 3.00% | ~23,994 |
-| Frequent Flyer | 3.00% | ~23,994 |
-| Mean Streets | 3.00% | ~23,994 |
-| Little Tokyo | 3.00% | ~23,994 |
-| Greetings from Pacifica! | 3.00% | ~23,994 |
-| The Jungle | 3.00% | ~23,994 |
-| V for Vendetta | 3.00% | ~23,994 |
-| It's Elementary | 3.00% | ~23,994 |
+| City Lights | 3.00% | ~23,995 |
+| Frequent Flyer | 3.00% | ~23,995 |
+| Mean Streets | 3.00% | ~23,995 |
+| Little Tokyo | 3.00% | ~23,995 |
+| Greetings from Pacifica! | 3.00% | ~23,995 |
+| The Jungle | 3.00% | ~23,995 |
+| V for Vendetta | 3.00% | ~23,995 |
+| It's Elementary | 3.00% | ~23,995 |
 | Autojock | 2.00% | ~15,996 |
 | The Wasteland | 2.00% | ~15,996 |
 | Daemon In The Shell | 2.00% | ~15,996 |
@@ -51,8 +51,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,998 |
 | Rough Landing | 0.40% | ~3,199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,813 (Ranked 11)  
-Completed: 1,596 (0.20%) (Ranked 139)  
+Progressed: 799,818 (Ranked 11)  
+Completed: 1,597 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,10 +76,10 @@ Completed: 1,596 (0.20%) (Ranked 139)
 | 2023-05-12 | 799,337 | 1,592 |
 | 2023-05-13 | 799,525 | 1,594 |
 | 2023-05-14 | 799,707 | 1,595 |
-| 2023-05-15 | 799,813 | 1,596 |
+| 2023-05-15 | 799,818 | 1,597 |
 ## Awards
 Max (Character Customization): 64,276  (Ranked 9)  
-Sum: 168,582 (Ranked 13)  
+Sum: 168,593 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 7,311 |
 | This game is Relaxing | 7,265 |
 | This game is Highly Recommended | 7,249 |
-| This game has Quickly Understood Controls | 7,122 |
+| This game has Quickly Understood Controls | 7,133 |
 | This game has Amazing Characters | 7,074 |
 | This game has a Creative Community | 4,723 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -213,4 +213,4 @@ Diff (max vs sum): -4
 | 2023-05-12 | 4.62 | - | 64,063 | 167,932 |
 | 2023-05-13 | 4.62 | - | 64,131 | 168,153 |
 | 2023-05-14 | 4.62 | - | 64,220 | 168,387 |
-| 2023-05-15 | 4.62 | - | 64,276 | 168,582 |
+| 2023-05-15 | 4.62 | - | 64,276 | 168,593 |

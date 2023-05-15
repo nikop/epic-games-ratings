@@ -1,45 +1,45 @@
 # PC Building Simulator 2
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator-2)  
 [View Rawdata](../../db/p/pc_building_simulator_2.json)  
-Rating: 4.61 (Ranked 353)  
+Rating: 4.61 (Ranked 354)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bootstrapping | 75.00% | ~118,822 |
-| Shine On | 70.00% | ~110,900 |
-| On the Job | 69.00% | ~109,316 |
+| Shine On | 70.00% | ~110,901 |
+| On the Job | 69.00% | ~109,317 |
 | Get Stuck In | 68.00% | ~107,732 |
 | Room for Expansion | 68.00% | ~107,732 |
-| Sales Pitch | 65.00% | ~102,979 |
+| Sales Pitch | 65.00% | ~102,980 |
 | Chill Out | 64.00% | ~101,395 |
 | Tinker | 61.00% | ~96,642 |
-| Grand Designs | 60.00% | ~95,057 |
-| Hot Stuff | 59.00% | ~93,473 |
+| Grand Designs | 60.00% | ~95,058 |
+| Hot Stuff | 59.00% | ~93,474 |
 | MOAR RGB | 54.00% | ~85,552 |
-| Dream Theme | 46.00% | ~72,877 |
-| The Customer is King | 45.00% | ~71,293 |
+| Dream Theme | 46.00% | ~72,878 |
+| The Customer is King | 45.00% | ~71,294 |
 | Working Hard | 44.00% | ~69,709 |
-| On the Bench | 42.00% | ~66,540 |
-| The More the Merrier | 42.00% | ~66,540 |
+| On the Bench | 42.00% | ~66,541 |
+| The More the Merrier | 42.00% | ~66,541 |
 | Mix and Match | 38.00% | ~60,203 |
 | Recycler | 38.00% | ~60,203 |
 | Foot in the Door | 37.00% | ~58,619 |
-| Very Imported PC | 36.00% | ~57,034 |
+| Very Imported PC | 36.00% | ~57,035 |
 | Full Throttle | 34.00% | ~53,866 |
-| Repair Master | 32.00% | ~50,697 |
+| Repair Master | 32.00% | ~50,698 |
 | Pimp My Rig | 31.00% | ~49,113 |
 | Local Hero | 28.00% | ~44,360 |
 | Broken to Smokin' | 26.00% | ~41,192 |
 | Workaholic | 26.00% | ~41,192 |
-| Thanks Jeff | 25.00% | ~39,607 |
+| Thanks Jeff | 25.00% | ~39,608 |
 | Cinematic | 24.00% | ~38,023 |
 | Bench Warmer | 24.00% | ~38,023 |
 | Gift of the Gab | 24.00% | ~38,023 |
 | Salvage Squad | 24.00% | ~38,023 |
 | On the Ladder | 23.00% | ~36,439 |
 | Stick With It | 23.00% | ~36,439 |
-| Variations on a Theme | 22.00% | ~34,854 |
-| Cowboy | 22.00% | ~34,854 |
+| Variations on a Theme | 22.00% | ~34,855 |
+| Cowboy | 22.00% | ~34,855 |
 | Slap Happy | 21.00% | ~33,270 |
 | Supercool | 19.00% | ~30,102 |
 | Stabiliser | 18.00% | ~28,517 |
@@ -55,7 +55,7 @@ Rating: 4.61 (Ranked 353)
 | Making It Mine | 7.00% | ~11,090 |
 | Ship It | 7.00% | ~11,090 |
 | Elite Technician | 6.00% | ~9,506 |
-| Unlimited Power | 5.00% | ~7,921 |
+| Unlimited Power | 5.00% | ~7,922 |
 | Big Shot | 3.00% | ~4,753 |
 | Just Like Old Times | 3.00% | ~4,753 |
 | Legendary Technician | 2.00% | ~3,169 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 353)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,429 (Ranked 53)  
+Progressed: 158,430 (Ranked 53)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-12 | 158,322 | 102 |
 | 2023-05-13 | 158,365 | 102 |
 | 2023-05-14 | 158,400 | 102 |
-| 2023-05-15 | 158,429 | 102 |
+| 2023-05-15 | 158,430 | 102 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 163)  
 Sum: 4,554 (Ranked 128)  

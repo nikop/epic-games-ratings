@@ -158,9 +158,9 @@
       "ID": "BADGE_BRILLIANT_DAY",
       "SetID": "ak6pfjk",
       "Name": "Brilliant Day",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
@@ -366,9 +366,9 @@
       "ID": "BADGE_FLYING_ENEMY_KILL",
       "SetID": "ak6pfjk",
       "Name": "Air Defense",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "BADGE_FORESTS_CUT",
@@ -494,9 +494,9 @@
       "ID": "BADGE_TOWER_UPGRADE",
       "SetID": "ak6pfjk",
       "Name": "Foreman of Darkness",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "BADGE_TOWER_UPGRADE_2",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-15T22:06:38.444104+00:00",
+  "LastChanged_Achievements": "2023-05-15T23:04:52.1789306+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:31.9076697+00:00",
-  "LastUpdate_Ratings": "2023-05-15T21:59:07.1888563+00:00",
-  "LastUpdate_Achievements": "2023-05-15T22:06:38.4441544+00:00"
+  "LastUpdate_Ratings": "2023-05-15T22:58:04.5906251+00:00",
+  "LastUpdate_Achievements": "2023-05-15T23:04:52.178971+00:00"
 }

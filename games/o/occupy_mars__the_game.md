@@ -8,6 +8,7 @@
 | I don't feel so good | 50.00% | ~4 |
 | Fear my botany powers, Mars | 38.00% | ~3 |
 | “Aliens” | 25.00% | ~2 |
+| Caveman | 25.00% | ~2 |
 | Electrician | 25.00% | ~2 |
 | Cooking Vegetables | 13.00% | ~1 |
 | Driver's License | 13.00% | ~1 |
@@ -18,7 +19,6 @@
 | Zero Waste | 13.00% | ~1 |
 | 5G Network | 13.00% | ~1 |
 | All Wheel Trouble | 13.00% | ~1 |
-| Caveman | 13.00% | ~1 |
 | Planetary Defence | 13.00% | ~1 |
 | Detective | 13.00% | ~1 |
 | DeDust | 13.00% | ~1 |

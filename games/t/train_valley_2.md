@@ -64,12 +64,12 @@ Number of Ratings: 87  (23.09.2022)
 | Vostok | 0.60% | ~0 |
 | Will work | 0.60% | ~4 |
 | BBQ | 0.40% | ~3 |
+| Metro builder | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
 | Woodcutter | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Astrochemist | 0.30% | ~0 |
 | Astrophysicist | 0.30% | ~2 |
-| Metro builder | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Urbanization Age | 0.30% | ~2 |
 | Voyager | 0.30% | ~2 |

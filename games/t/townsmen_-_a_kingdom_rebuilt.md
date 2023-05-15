@@ -66,9 +66,9 @@ Number of Ratings: 37  (23.09.2022)
 | An honorable Governor III | 0.90% | ~37 |
 | Completionist III | 0.90% | ~37 |
 | Only the sausage has two ends. | 0.90% | ~37 |
+| Reunification | 0.90% | ~37 |
 | Tax-man V | 0.90% | ~37 |
 | A time consuming game V | 0.90% | ~37 |
-| Reunification | 0.80% | ~33 |
 | Treat her well… | 0.70% | ~29 |
 | When there's fire... | 0.60% | ~25 |
 | Last man standing | 0.60% | ~25 |

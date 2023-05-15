@@ -1,31 +1,31 @@
 # Shoulders of Giants
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.29 (Ranked 761)  
+Rating: 4.32 (Ranked 741)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,726 |
-| A Ribbiting Performance | 78.00% | ~1,530 |
-| At Least We Have Each Other... | 77.00% | ~1,510 |
-| Frogbot | 73.00% | ~1,432 |
-| Ouch | 56.00% | ~1,098 |
-| Fun in the Stun | 56.00% | ~1,098 |
-| Do you feel like a tough guy? | 46.00% | ~902 |
-| The Interdimensional Power of Friendship | 45.00% | ~882 |
-| Turn Up The HEAT | 41.00% | ~804 |
-| Stop Hitting Yourself! | 35.00% | ~686 |
-| Nothing to Wear | 31.00% | ~608 |
-| The First Law of Thermodynamics | 28.00% | ~549 |
+| On the Shoulders of Giants | 88.00% | ~1,727 |
+| A Ribbiting Performance | 78.00% | ~1,531 |
+| At Least We Have Each Other... | 77.00% | ~1,512 |
+| Frogbot | 73.00% | ~1,433 |
+| Ouch | 56.00% | ~1,099 |
+| Fun in the Stun | 56.00% | ~1,099 |
+| Do you feel like a tough guy? | 46.00% | ~903 |
+| The Interdimensional Power of Friendship | 45.00% | ~883 |
+| Turn Up The HEAT | 41.00% | ~805 |
+| Stop Hitting Yourself! | 35.00% | ~687 |
+| Nothing to Wear | 31.00% | ~609 |
+| The First Law of Thermodynamics | 28.00% | ~550 |
 | Do you trust me? | 16.00% | ~314 |
 | The Second Law of Thermodynamics | 15.00% | ~294 |
-| The Third Law of Thermodynamics | 9.00% | ~176 |
+| The Third Law of Thermodynamics | 9.00% | ~177 |
 | Say "Cheese!" | 8.00% | ~157 |
 | Taking Out the Trash | 8.00% | ~157 |
-| Better Than the Devs | 4.00% | ~78 |
+| Better Than the Devs | 4.00% | ~79 |
 | So do we just stay up here, or?... | 2.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,961 (Ranked 144)  
+Progressed: 1,963 (Ranked 144)  
 Completed: 8 (0.41%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 8 (0.41%) (Ranked 110)
 | 2023-05-12 | 1,908 | 8 |
 | 2023-05-13 | 1,930 | 8 |
 | 2023-05-14 | 1,952 | 8 |
-| 2023-05-15 | 1,961 | 8 |
+| 2023-05-15 | 1,963 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -55,3 +55,4 @@ Completed: 8 (0.41%) (Ranked 110)
 | 2023-03-26 | 4.26 | - | - |
 | 2023-03-31 | 4.26 | 0 | 0 |
 | 2023-05-09 | 4.29 | 0 | 0 |
+| 2023-05-15 | 4.32 | 0 | 0 |

@@ -47,15 +47,15 @@ Rating: 3.64 (Ranked 917)
 | Trader | 2.00% | ~21 |
 | Weekly Quest Completionist | 2.00% | ~21 |
 | What lies behind the bush | 2.00% | ~21 |
+| Active Member | 1.00% | ~10 |
 | Dragon Slayer | 1.00% | ~10 |
 | Engineer Mastery | 1.00% | ~10 |
 | Four Leaf Clover | 1.00% | ~10 |
 | Lock And Load | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
-| Active Member | 0.90% | ~9 |
+| Crystal Mining | 0.80% | ~8 |
 | Blueprint Upgrades | 0.70% | ~7 |
-| Crystal Mining | 0.70% | ~7 |
 | Legendary | 0.70% | ~7 |
 | Sailor | 0.70% | ~7 |
 | Tree of Life | 0.70% | ~7 |

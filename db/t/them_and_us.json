@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -248,6 +248,11 @@
       "Time": "2023-05-15T22:02:37.5680528+00:00",
       "NumProgressed": 68,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T23:02:16.142128+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -273,7 +278,7 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -353,7 +358,7 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -465,7 +470,7 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -578,7 +583,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 1
     }
   ],
@@ -586,8 +591,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-15T22:02:37.5680523+00:00",
+  "LastChanged_Achievements": "2023-05-15T23:02:16.1421276+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-15T21:57:20.9040002+00:00",
-  "LastUpdate_Achievements": "2023-05-15T22:02:37.568091+00:00"
+  "LastUpdate_Ratings": "2023-05-15T22:56:56.0751606+00:00",
+  "LastUpdate_Achievements": "2023-05-15T23:02:16.1421593+00:00"
 }
