@@ -6,25 +6,25 @@ Rating: 4.38 (Ranked 689)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 36.00% | ~258 |
-| Confirming Suspicions | 32.00% | ~229 |
+| Confirming Suspicions | 32.00% | ~230 |
 | The Kraken Wakes | 30.00% | ~215 |
 | It's Starting to Crack | 28.00% | ~201 |
-| Lord of War | 25.00% | ~179 |
-| Change the Channel | 25.00% | ~179 |
+| Lord of War | 25.00% | ~180 |
+| Change the Channel | 25.00% | ~180 |
 | Taking it back | 24.00% | ~172 |
 | Resourceful | 23.00% | ~165 |
 | Organ Grinder | 22.00% | ~158 |
 | Sharpshooter | 21.00% | ~151 |
 | Target America | 21.00% | ~151 |
-| As Quiet as a Mouse | 20.00% | ~143 |
+| As Quiet as a Mouse | 20.00% | ~144 |
 | The Kraken Sleeps | 19.00% | ~136 |
 | Liberté | 17.00% | ~122 |
 | Explosive Efficiency | 16.00% | ~115 |
-| Gunslinger | 15.00% | ~108 |
 | Close Quarters | 15.00% | ~108 |
-| Climbing the Ladder | 14.00% | ~100 |
-| Fields of Glory | 14.00% | ~100 |
-| Skirmisher | 14.00% | ~100 |
+| Climbing the Ladder | 14.00% | ~101 |
+| Fields of Glory | 14.00% | ~101 |
+| Gunslinger | 14.00% | ~101 |
+| Skirmisher | 14.00% | ~101 |
 | Just a Flesh Wound | 13.00% | ~93 |
 | Der Geist | 13.00% | ~93 |
 | Snake in the Grass | 13.00% | ~93 |
@@ -35,10 +35,10 @@ Rating: 4.38 (Ranked 689)
 | No Stone Unturned | 11.00% | ~79 |
 | Opposing Force | 11.00% | ~79 |
 | My Little Friend | 9.00% | ~65 |
-| Herr Today, Gone Tomorrow | 9.00% | ~60 |
 | Precision Is Key | 8.00% | ~57 |
 | Rigged to Blow | 8.00% | ~57 |
-| Operation Foxley | 8.00% | ~53 |
+| Herr Today, Gone Tomorrow | 8.00% | ~54 |
+| Operation Foxley | 8.00% | ~54 |
 | Last Resort | 7.00% | ~47 |
 | Ghost of Falaise | 6.00% | ~40 |
 | The Long Game | 5.00% | ~36 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717 (Ranked 176)  
+Progressed: 718 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
 | 2023-05-14 | 717 | 2 |
+| 2023-05-15 | 718 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

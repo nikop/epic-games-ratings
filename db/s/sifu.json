@@ -3922,10 +3922,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10298,
       "NumberOfAwardsMax": 6063
+    },
+    {
+      "Time": "2023-05-15T02:00:58.144079+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10300,
+      "NumberOfAwardsMax": 6063
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10298,
+  "NumberOfAwards": 10300,
   "NumberOfAwardsMax": 6063,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3963,7 +3969,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 506
+      "Count": 508
     },
     {
       "Text": "This game is Relaxing",
@@ -4002,9 +4008,9 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 702934,
+  "EOS_Progressed": 702938,
   "EOS_Completed": 12726,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -5852,6 +5858,11 @@
       "Time": "2023-05-14T23:06:36.5657386+00:00",
       "NumProgressed": 702934,
       "NumCompleted": 12726
+    },
+    {
+      "Time": "2023-05-15T02:07:27.2945525+00:00",
+      "NumProgressed": 702938,
+      "NumCompleted": 12726
     }
   ],
   "TotalAchievements": 50,
@@ -5879,7 +5890,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5624
     },
     {
       "ID": "04_Vengeance_H3",
@@ -5887,7 +5898,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5624
     },
     {
       "ID": "05_Vengeance_H4",
@@ -5925,9 +5936,9 @@
       "ID": "09_Wude_H3",
       "SetID": "adcm20g",
       "Name": "Source of Flying Daggers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2812
     },
     {
       "ID": "10_Wude_H4",
@@ -6063,7 +6074,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5624
     },
     {
       "ID": "27_ShrineBody",
@@ -6207,7 +6218,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6262,21 +6273,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12235,
+      "Progressed": 12239,
       "Completed": 10103
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702934,
+      "Progressed": 702938,
       "Completed": 12726
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-14T21:58:43.6243947+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:30.4540538+00:00",
+  "LastChanged": "2023-05-15T02:00:58.1440788+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:27.2945521+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-14T23:59:23.7546116+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:30.4541332+00:00"
+  "LastUpdate_Ratings": "2023-05-15T02:00:58.1440797+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:27.2946048+00:00"
 }

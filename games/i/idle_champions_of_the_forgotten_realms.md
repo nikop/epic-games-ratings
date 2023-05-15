@@ -7,10 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,751 |
-| Checkmate | 2.00% | ~1,076 |
-| Vecna Out! | 2.00% | ~1,076 |
+| Checkmate | 2.00% | ~1,077 |
+| Vecna Out! | 2.00% | ~1,077 |
 | Pin and Skewer | 1.00% | ~538 |
-| The Cursed Farmer | 1.00% | ~875 |
+| The Cursed Farmer | 1.00% | ~876 |
 | Beast Intentions | 0.90% | ~788 |
 | Bully for Vecna | 0.90% | ~484 |
 | The Mad Wizard | 0.90% | ~788 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,548 (Ranked 59)  
+Progressed: 87,552 (Ranked 59)  
 Completed: 1,843 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,10 +521,10 @@ Completed: 1,843 (2.11%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,548 | 1,843 |
+| 2023-05-15 | 87,552 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
-Sum: 29,881 (Ranked 37)  
+Sum: 29,882 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -534,7 +534,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,485 |
 | This game is Highly Recommended | 3,937 |
 | This game has Amazing Characters | 3,934 |
-| This game has Playful Visuals | 3,233 |
+| This game has Playful Visuals | 3,234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -647,3 +647,4 @@ Diff (max vs sum): 26
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
 | 2023-05-13 | 4.06 | - | 4,877 | 29,873 |
 | 2023-05-14 | 4.06 | - | 4,878 | 29,881 |
+| 2023-05-15 | 4.06 | - | 4,878 | 29,882 |

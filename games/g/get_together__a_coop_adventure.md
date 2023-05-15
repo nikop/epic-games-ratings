@@ -10,8 +10,8 @@
 | Beam me up | 58.00% | ~18 |
 | The end is nigh! | 29.00% | ~9 |
 | Get Together | 29.00% | ~9 |
+| Uncaged | 10.00% | ~3 |
 | Wait for me! | 6.00% | ~2 |
-| Uncaged | 3.00% | ~1 |
 | The best of both worlds | 0.00% | ~0 |
 | Leave no stone unturned | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

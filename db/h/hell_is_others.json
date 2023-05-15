@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 248720,
+  "EOS_Progressed": 248731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2610,6 +2610,11 @@
       "Time": "2023-05-15T00:06:49.6300128+00:00",
       "NumProgressed": 248720,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T02:07:42.2844655+00:00",
+      "NumProgressed": 248731,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2621,7 +2626,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17410
+      "UsersEstimate": 17411
     },
     {
       "ID": "Act2",
@@ -2661,7 +2666,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "BackHomeFirstTime",
@@ -2669,7 +2674,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77103
+      "UsersEstimate": 77107
     },
     {
       "ID": "BackHomeNTimes",
@@ -2677,7 +2682,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12436
+      "UsersEstimate": 12437
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -2725,7 +2730,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24872
+      "UsersEstimate": 24873
     },
     {
       "ID": "CreditLevel2",
@@ -2733,7 +2738,7 @@
       "Name": "Fixer II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "CreditLevel3",
@@ -2749,7 +2754,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12436
+      "UsersEstimate": 12437
     },
     {
       "ID": "CreedsInBank2",
@@ -2821,7 +2826,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14923
+      "UsersEstimate": 14924
     },
     {
       "ID": "GrowPlants2",
@@ -2861,7 +2866,7 @@
       "Name": "It took a while",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -2877,7 +2882,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12436
+      "UsersEstimate": 12437
     },
     {
       "ID": "KillOtherWithKatana",
@@ -2885,7 +2890,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -2901,7 +2906,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "KillOthers1",
@@ -2909,7 +2914,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54718
+      "UsersEstimate": 54721
     },
     {
       "ID": "KillOthers2",
@@ -2917,7 +2922,7 @@
       "Name": "Predator II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "KillOthers3",
@@ -2933,7 +2938,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -3013,7 +3018,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24872
+      "UsersEstimate": 24873
     },
     {
       "ID": "ReachNDays2",
@@ -3021,7 +3026,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "ReachNDays3",
@@ -3068,7 +3073,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248720,
+      "Progressed": 248731,
       "Completed": 1
     }
   ],
@@ -3076,8 +3081,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-13T15:00:35.1754519+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:49.6300124+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:42.2844651+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.6367659+00:00",
-  "LastUpdate_Ratings": "2023-05-15T00:00:57.2102935+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:49.630084+00:00"
+  "LastUpdate_Ratings": "2023-05-15T02:02:02.7071011+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:42.2845257+00:00"
 }

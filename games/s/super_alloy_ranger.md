@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 70.00% | ~19 |
-| Gear Up | 59.00% | ~16 |
-| A Grand Show | 59.00% | ~16 |
-| Freshen Up | 48.00% | ~13 |
-| GG EZ | 44.00% | ~12 |
-| Hydrophobia | 22.00% | ~6 |
-| Stop Right There | 19.00% | ~5 |
-| Get to the Point | 19.00% | ~5 |
-| Ka-Ching! | 15.00% | ~4 |
-| Toe to Toe | 11.00% | ~3 |
-| Phew! | 11.00% | ~3 |
+| Iceberg Theory | 69.00% | ~20 |
+| Gear Up | 62.00% | ~18 |
+| A Grand Show | 62.00% | ~18 |
+| Freshen Up | 52.00% | ~15 |
+| GG EZ | 48.00% | ~14 |
+| Hydrophobia | 21.00% | ~6 |
+| Stop Right There | 17.00% | ~5 |
+| Get to the Point | 17.00% | ~5 |
+| Ka-Ching! | 14.00% | ~4 |
+| Toe to Toe | 10.00% | ~3 |
+| Phew! | 10.00% | ~3 |
 | Grand Escape | 7.00% | ~2 |
 | Space Warrior: Prologue | 7.00% | ~2 |
 | The Hidden Secret | 7.00% | ~2 |
 | Mr. Want It All | 7.00% | ~2 |
-| The Paradox Coordinate Conqueror | 4.00% | ~1 |
-| The Hypergravitational Abyss Conqueror | 4.00% | ~1 |
-| Death Bringer Conqueror | 4.00% | ~1 |
-| Keep it Up, rookie! | 4.00% | ~1 |
-| Antaeus | 4.00% | ~1 |
-| Air Interception | 4.00% | ~1 |
-| Proliferation | 4.00% | ~1 |
-| Decapitation Strike | 4.00% | ~1 |
+| The Paradox Coordinate Conqueror | 3.00% | ~1 |
+| The Hypergravitational Abyss Conqueror | 3.00% | ~1 |
+| Death Bringer Conqueror | 3.00% | ~1 |
+| Keep it Up, rookie! | 3.00% | ~1 |
+| Antaeus | 3.00% | ~1 |
+| Air Interception | 3.00% | ~1 |
+| Proliferation | 3.00% | ~1 |
+| Decapitation Strike | 3.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
 | The Deep Frozen Conqueror | 0.00% | ~0 |
 | The Abyss Conqueror | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 297)  
+Progressed: 29 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 24 | 0 |
 | 2023-05-12 | 25 | 0 |
 | 2023-05-13 | 27 | 0 |
+| 2023-05-15 | 29 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -46,13 +46,13 @@ Rating: 3.64 (Ranked 917)
 | Trader | 2.00% | ~20 |
 | What lies behind the bush | 2.00% | ~20 |
 | Doing My Part | 1.00% | ~10 |
+| Dragon Slayer | 1.00% | ~10 |
 | Four Leaf Clover | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
 | Weekly Quest Completionist | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
-| Dragon Slayer | 0.90% | ~9 |
-| Engineer Mastery | 0.80% | ~8 |
+| Engineer Mastery | 0.90% | ~9 |
 | Lock And Load | 0.80% | ~8 |
 | Sailor | 0.70% | ~7 |
 | Blueprint Upgrades | 0.60% | ~6 |

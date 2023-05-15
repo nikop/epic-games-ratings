@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T16:00:00+00:00",
@@ -111,9 +111,9 @@
       "ID": "GT_ACH_FREECOMP",
       "SetID": "883j7b4",
       "Name": "Uncaged",
-      "Percentage": 3,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "GT_ACH_GATE",
@@ -176,8 +176,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:25.2183136+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:23.5186467+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:24.176126+00:00",
-  "LastUpdate_Ratings": "2023-05-15T00:00:02.2200231+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:25.2183233+00:00"
+  "LastUpdate_Ratings": "2023-05-15T02:01:23.2112271+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:23.5186521+00:00"
 }

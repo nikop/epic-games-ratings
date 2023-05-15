@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2372,9 +2372,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8821,
+  "EOS_Progressed": 8823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3522,6 +3522,11 @@
       "Time": "2023-05-14T20:06:35.4287616+00:00",
       "NumProgressed": 8821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T02:07:31.5415843+00:00",
+      "NumProgressed": 8823,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3549,7 +3554,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "04_FithCrusade",
@@ -3603,9 +3608,9 @@
       "ID": "10_PathOfAzata",
       "SetID": "989of5o",
       "Name": "Path of the Azata",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 265
     },
     {
       "ID": "11_PathOfAeon",
@@ -3781,7 +3786,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -4460,21 +4465,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7603,
+      "Progressed": 7605,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8821,
+      "Progressed": 8823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-14T16:58:23.4104149+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:35.6249554+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:31.5415841+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-14T23:58:32.2988549+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:35.6251015+00:00"
+  "LastUpdate_Ratings": "2023-05-15T02:00:23.1933154+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:31.5417343+00:00"
 }

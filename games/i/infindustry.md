@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Workforce | 18.00% | ~3 |
+| Harvester | 6.00% | ~1 |
 | Builder | 0.00% | ~0 |
 | Cook | 0.00% | ~0 |
 | Crafter | 0.00% | ~0 |
 | Defender | 0.00% | ~0 |
 | GGEZ | 0.00% | ~0 |
-| Harvester | 0.00% | ~0 |
 | Healer | 0.00% | ~0 |
 | Rep1 | 0.00% | ~0 |
 | Rep2 | 0.00% | ~0 |

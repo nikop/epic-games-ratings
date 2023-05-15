@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46171,
+  "EOS_Progressed": 46173,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1591,6 +1591,11 @@
       "Time": "2023-05-14T22:05:01.6870314+00:00",
       "NumProgressed": 46171,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-15T02:07:13.2174978+00:00",
+      "NumProgressed": 46173,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1602,7 +1607,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9234
+      "UsersEstimate": 9235
     },
     {
       "ID": "02",
@@ -1642,7 +1647,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "07",
@@ -1842,7 +1847,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "32",
@@ -1874,7 +1879,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7387
+      "UsersEstimate": 7388
     },
     {
       "ID": "36",
@@ -1922,7 +1927,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "42",
@@ -1938,7 +1943,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "44",
@@ -2137,21 +2142,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46171,
+      "Progressed": 46173,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9639,
+      "Progressed": 9641,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:11.7327659+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:13.2174972+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-14T23:57:43.3088883+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:11.7328405+00:00"
+  "LastUpdate_Ratings": "2023-05-15T01:59:50.1433517+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:13.217572+00:00"
 }

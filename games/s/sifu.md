@@ -6,13 +6,13 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~489 |
+| Diligence as a goal | 4.00% | ~490 |
 | Project Arena | 3.00% | ~367 |
 | Bloody Sport | 1.00% | ~122 |
 | The best strikes are the ones we avoid | 0.90% | ~110 |
-| The Hateful Pole Fighter | 0.80% | ~5,623 |
-| A Lady's Blood in the Snow | 0.80% | ~5,623 |
-| Qi Gong: Breath | 0.80% | ~5,623 |
+| The Hateful Pole Fighter | 0.80% | ~5,624 |
+| A Lady's Blood in the Snow | 0.80% | ~5,624 |
+| Qi Gong: Breath | 0.80% | ~5,624 |
 | Lady Wing Chun | 0.70% | ~4,921 |
 | Furious Fists | 0.70% | ~4,921 |
 | Kill Nil | 0.70% | ~4,921 |
@@ -36,9 +36,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.50% | ~61 |
 | Muk Yan Master | 0.40% | ~2,812 |
 | Tiger on Fire | 0.40% | ~2,812 |
+| Source of Flying Daggers | 0.40% | ~2,812 |
 | Detective Story | 0.40% | ~2,812 |
 | I know Kung-Fu | 0.40% | ~2,812 |
-| Source of Flying Daggers | 0.30% | ~2,109 |
 | Iron Money | 0.30% | ~2,109 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,109 |
 | Prodigal Child | 0.30% | ~2,109 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,934 (Ranked 15)  
+Progressed: 702,938 (Ranked 15)  
 Completed: 12,726 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,14 +82,15 @@ Completed: 12,726 (1.81%) (Ranked 62)
 | 2023-05-12 | 702,858 | 12,723 |
 | 2023-05-13 | 702,892 | 12,725 |
 | 2023-05-14 | 702,934 | 12,726 |
+| 2023-05-15 | 702,938 | 12,726 |
 ## Awards
 Max (Great Boss Battles): 6,063  (Ranked 53)  
-Sum: 10,298 (Ranked 77)  
+Sum: 10,300 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,063 |
-| This game has Diverse Characters | 506 |
+| This game has Diverse Characters | 508 |
 | This game has Challenging Combat | 504 |
 | This game has Quickly Understood Controls | 497 |
 | This game is Extremely Fun | 495 |
@@ -222,3 +223,4 @@ Diff (max vs sum): -24
 | 2023-05-12 | 4.82 | - | 6,055 | 10,277 |
 | 2023-05-13 | 4.82 | - | 6,063 | 10,288 |
 | 2023-05-14 | 4.82 | - | 6,063 | 10,298 |
+| 2023-05-15 | 4.82 | - | 6,063 | 10,300 |

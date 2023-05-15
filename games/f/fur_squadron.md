@@ -12,13 +12,13 @@
 | The opposite of good news | 20.00% | ~2 |
 | Enemy shield analyzed | 20.00% | ~2 |
 | Piece of cake | 10.00% | ~1 |
+| My Emperor... I've failed you! | 10.00% | ~1 |
 | No need to say goodbye | 10.00% | ~1 |
 | Better hurry up | 0.00% | ~0 |
 | I call her the BF-Worm | 0.00% | ~0 |
 | Axel? | 0.00% | ~0 |
 | You won't escape that easy!! | 0.00% | ~0 |
 | See you on the other side | 0.00% | ~0 |
-| My Emperor... I've failed you! | 0.00% | ~0 |
 | I'm ready, anytime | 0.00% | ~0 |
 | Actually it's called aileron roll | 0.00% | ~0 |
 | I have a bad feeling about this | 0.00% | ~0 |

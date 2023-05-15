@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 717,
+  "EOS_Progressed": 718,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -489,6 +489,11 @@
       "Time": "2023-05-14T20:06:02.5351819+00:00",
       "NumProgressed": 717,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-15T02:07:06.1151351+00:00",
+      "NumProgressed": 718,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -500,7 +505,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -548,7 +553,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -618,9 +623,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 101
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -628,7 +633,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -668,7 +673,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -708,7 +713,7 @@
       "Name": "Lord of War",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -740,7 +745,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -836,7 +841,7 @@
       "Name": "Change the Channel",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -962,9 +967,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -972,7 +977,7 @@
       "Name": "Operation Foxley",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -1043,13 +1048,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 717,
+      "Progressed": 718,
       "Completed": 2
     }
   ],
@@ -1057,8 +1062,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:02.1502422+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:06.1151348+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-15T00:01:17.1813805+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:02.1503084+00:00"
+  "LastUpdate_Ratings": "2023-05-15T02:02:16.1898621+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:06.1152016+00:00"
 }

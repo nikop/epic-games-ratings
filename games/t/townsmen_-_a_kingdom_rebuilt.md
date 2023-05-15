@@ -30,6 +30,7 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game II | 4.00% | ~166 |
 | Tools of the trade I | 4.00% | ~166 |
 | Conflicting parties | 4.00% | ~166 |
+| Another one bites the dust | 3.00% | ~124 |
 | Bread for the people II | 3.00% | ~124 |
 | I like to build stuff... III | 3.00% | ~124 |
 | Experienced decorator | 3.00% | ~124 |
@@ -37,7 +38,6 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job III | 3.00% | ~124 |
 | Tax-man IV | 3.00% | ~124 |
 | A time consuming game III | 3.00% | ~124 |
-| Another one bites the dust | 2.00% | ~83 |
 | Bread for the people III | 2.00% | ~83 |
 | Five brews are a schnitzel | 2.00% | ~83 |
 | I like to build stuff... IV | 2.00% | ~83 |

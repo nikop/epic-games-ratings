@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -153,6 +153,11 @@
       "Time": "2023-05-13T23:06:17.5218768+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T02:07:36.2881607+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -202,7 +207,7 @@
       "ID": "Achi_06",
       "SetID": "51a97k7",
       "Name": "The Paradox Coordinate Conqueror",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -226,7 +231,7 @@
       "ID": "Achi_09",
       "SetID": "51a97k7",
       "Name": "The Hypergravitational Abyss Conqueror",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -234,7 +239,7 @@
       "ID": "Achi_10",
       "SetID": "51a97k7",
       "Name": "Death Bringer Conqueror",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -298,9 +303,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_19",
@@ -314,9 +319,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Achi_21",
@@ -330,9 +335,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achi_23",
@@ -370,15 +375,15 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -394,9 +399,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_31",
@@ -410,7 +415,7 @@
       "ID": "Achi_32",
       "SetID": "51a97k7",
       "Name": "Keep it Up, rookie!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -418,7 +423,7 @@
       "ID": "Achi_33",
       "SetID": "51a97k7",
       "Name": "Antaeus",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -426,7 +431,7 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -434,7 +439,7 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -442,7 +447,7 @@
       "ID": "Achi_36",
       "SetID": "51a97k7",
       "Name": "Air Interception",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -450,7 +455,7 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -466,7 +471,7 @@
       "ID": "Achi_39",
       "SetID": "51a97k7",
       "Name": "Proliferation",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -474,7 +479,7 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -506,7 +511,7 @@
       "ID": "Achi_44",
       "SetID": "51a97k7",
       "Name": "Decapitation Strike",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -530,7 +535,7 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -563,7 +568,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
@@ -571,8 +576,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:41.923901+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:36.2881605+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:50.1323653+00:00",
-  "LastUpdate_Ratings": "2023-05-15T00:00:32.4062962+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:41.9239468+00:00"
+  "LastUpdate_Ratings": "2023-05-15T02:01:45.2038129+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:36.288203+00:00"
 }

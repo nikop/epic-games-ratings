@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -846,9 +846,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2844,
+  "EOS_Progressed": 2846,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2071,6 +2071,11 @@
       "Time": "2023-05-14T23:06:55.1190701+00:00",
       "NumProgressed": 2844,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T02:07:41.8149393+00:00",
+      "NumProgressed": 2846,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2122,7 +2127,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -2154,7 +2159,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -2162,7 +2167,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -2178,7 +2183,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2194,7 +2199,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -2202,7 +2207,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2226,7 +2231,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -2234,7 +2239,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2242,7 +2247,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2220
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2338,7 +2343,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2354,7 +2359,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2401,15 +2406,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2844,
+      "Progressed": 2846,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-09T21:01:02.4056088+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:49.0421262+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:41.8149391+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-15T00:00:51.1709383+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:49.0422119+00:00"
+  "LastUpdate_Ratings": "2023-05-15T02:01:57.9163485+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:41.8149704+00:00"
 }

@@ -6,45 +6,45 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~823,548 |
-| I Need a Bigger Garage | 62.00% | ~573,708 |
-| Pump my Ride | 45.00% | ~416,401 |
-| Ghostbuster | 31.00% | ~286,854 |
-| That Was Close | 17.00% | ~157,307 |
-| Call Roadside Assistance | 16.00% | ~148,054 |
-| Quickie | 10.00% | ~92,534 |
-| California Dreamer | 7.00% | ~64,773 |
-| Can't Touch This | 4.00% | ~37,013 |
-| Carménère Taster | 3.00% | ~27,760 |
-| Comeback | 3.00% | ~27,760 |
-| Living Legend | 3.00% | ~27,760 |
-| Driver from Ipanema | 2.00% | ~18,507 |
-| Pathfinder | 2.00% | ~18,507 |
-| Go-Kart Champion | 2.00% | ~18,507 |
-| Completionist | 2.00% | ~18,507 |
-| Supersonic | 2.00% | ~18,507 |
-| Harder, Better, Faster, Stronger | 2.00% | ~18,507 |
-| Marathonist | 2.00% | ~18,507 |
-| God of Roads | 1.00% | ~9,253 |
-| The Iceman | 1.00% | ~9,253 |
-| Oil Tycoon | 1.00% | ~9,253 |
-| Round the Globe | 1.00% | ~9,253 |
-| Golden Passport | 1.00% | ~9,253 |
-| Brave and Bold | 0.90% | ~8,328 |
-| Bollywood Star | 0.80% | ~7,403 |
-| Crocodile Hunter | 0.70% | ~6,477 |
-| Old Master | 0.70% | ~6,477 |
-| Otaku | 0.70% | ~6,477 |
-| Volcano Surfer | 0.60% | ~5,552 |
-| Survivor | 0.50% | ~4,627 |
-| Getting Famous | 0.40% | ~3,701 |
-| King of the World | 0.40% | ~3,701 |
+| The First of Many | 89.00% | ~823,714 |
+| I Need a Bigger Garage | 62.00% | ~573,823 |
+| Pump my Ride | 45.00% | ~416,484 |
+| Ghostbuster | 31.00% | ~286,912 |
+| That Was Close | 17.00% | ~157,339 |
+| Call Roadside Assistance | 16.00% | ~148,083 |
+| Quickie | 10.00% | ~92,552 |
+| California Dreamer | 7.00% | ~64,786 |
+| Can't Touch This | 4.00% | ~37,021 |
+| Carménère Taster | 3.00% | ~27,766 |
+| Comeback | 3.00% | ~27,766 |
+| Living Legend | 3.00% | ~27,766 |
+| Driver from Ipanema | 2.00% | ~18,510 |
+| Pathfinder | 2.00% | ~18,510 |
+| Go-Kart Champion | 2.00% | ~18,510 |
+| Completionist | 2.00% | ~18,510 |
+| Supersonic | 2.00% | ~18,510 |
+| Harder, Better, Faster, Stronger | 2.00% | ~18,510 |
+| Marathonist | 2.00% | ~18,510 |
+| God of Roads | 1.00% | ~9,255 |
+| The Iceman | 1.00% | ~9,255 |
+| Oil Tycoon | 1.00% | ~9,255 |
+| Round the Globe | 1.00% | ~9,255 |
+| Golden Passport | 1.00% | ~9,255 |
+| Brave and Bold | 0.90% | ~8,330 |
+| Bollywood Star | 0.80% | ~7,404 |
+| Crocodile Hunter | 0.70% | ~6,479 |
+| Old Master | 0.70% | ~6,479 |
+| Otaku | 0.70% | ~6,479 |
+| Volcano Surfer | 0.60% | ~5,553 |
+| Survivor | 0.50% | ~4,628 |
+| Getting Famous | 0.40% | ~3,702 |
+| King of the World | 0.40% | ~3,702 |
 | Master of the Racetrack | 0.20% | ~1,851 |
 | Now Go Play Outside | 0.20% | ~1,851 |
-| Transporter | 0.10% | ~925 |
-| Look Mom, No Hands! | 0.10% | ~925 |
+| Transporter | 0.10% | ~926 |
+| Look Mom, No Hands! | 0.10% | ~926 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 925,335 (Ranked 10)  
+Progressed: 925,521 (Ranked 10)  
 Completed: 246 (0.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,10 +69,10 @@ Completed: 246 (0.03%) (Ranked 181)
 | 2023-05-12 | 915,637 | 239 |
 | 2023-05-13 | 921,117 | 241 |
 | 2023-05-14 | 925,227 | 246 |
-| 2023-05-15 | 925,335 | 246 |
+| 2023-05-15 | 925,521 | 246 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 291)  
-Sum: 1,088 (Ranked 225)  
+Sum: 1,090 (Ranked 225)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -80,8 +80,8 @@ Diff (max vs sum): 66
 | This game has Quickly Understood Controls | 115 |
 | This game is Relaxing | 114 |
 | This game is Highly Recommended | 104 |
+| This game has Competitive Players | 102 |
 | This game is Great for Quick Sessions | 101 |
-| This game has Competitive Players | 100 |
 | This game has Playful Visuals | 96 |
 | This game is Extremely Fun | 92 |
 | This game has Amazing Characters | 85 |
@@ -204,3 +204,4 @@ Diff (max vs sum): 66
 | 2023-05-12 | 4.56 | - | 134 | 1,083 |
 | 2023-05-13 | 4.56 | - | 135 | 1,087 |
 | 2023-05-14 | 4.56 | - | 135 | 1,088 |
+| 2023-05-15 | 4.56 | - | 135 | 1,090 |

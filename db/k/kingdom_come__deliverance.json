@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -4584,9 +4584,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 781154,
+  "EOS_Progressed": 781157,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1091,
+  "EOS_NewPlayers": 1084,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6834,6 +6834,11 @@
       "Time": "2023-05-15T00:06:25.1054994+00:00",
       "NumProgressed": 781154,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-15T02:07:23.3309559+00:00",
+      "NumProgressed": 781157,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -6925,7 +6930,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 242158
+      "UsersEstimate": 242159
     },
     {
       "ID": "Bookworm",
@@ -6957,7 +6962,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 195288
+      "UsersEstimate": 195289
     },
     {
       "ID": "Chivalrous",
@@ -7005,7 +7010,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78115
+      "UsersEstimate": 78116
     },
     {
       "ID": "DavidHorak",
@@ -7045,7 +7050,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179665
+      "UsersEstimate": 179666
     },
     {
       "ID": "Fighter",
@@ -7061,7 +7066,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 117173
+      "UsersEstimate": 117174
     },
     {
       "ID": "Freud",
@@ -7453,7 +7458,7 @@
       "Name": "Traveller",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78115
+      "UsersEstimate": 78116
     },
     {
       "ID": "TrialAndError",
@@ -7500,15 +7505,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 781154,
+      "Progressed": 781157,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-05-14T20:58:03.6148225+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:25.105499+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:23.3309555+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.3995489+00:00",
-  "LastUpdate_Ratings": "2023-05-14T23:58:36.9431983+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:25.1056211+00:00"
+  "LastUpdate_Ratings": "2023-05-15T02:00:26.479682+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:23.3310571+00:00"
 }

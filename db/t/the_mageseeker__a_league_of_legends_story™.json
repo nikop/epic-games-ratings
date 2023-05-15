@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1995,
+  "EOS_Progressed": 1996,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1296,6 +1296,11 @@
       "Time": "2023-05-15T00:06:10.2096207+00:00",
       "NumProgressed": 1995,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T02:07:12.2339815+00:00",
+      "NumProgressed": 1996,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1323,7 +1328,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -1355,7 +1360,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1371,7 +1376,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1379,7 +1384,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -1387,7 +1392,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1411,7 +1416,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1427,7 +1432,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1451,7 +1456,7 @@
       "Name": "True power",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -1483,7 +1488,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1491,7 +1496,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1499,7 +1504,7 @@
       "Name": "Meltridge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -1523,7 +1528,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1531,7 +1536,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1539,7 +1544,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1587,7 +1592,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -1611,7 +1616,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1643,7 +1648,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1651,7 +1656,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1675,7 +1680,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -1683,7 +1688,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1713,9 +1718,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 439
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -1730,7 +1735,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 1995,
+      "Progressed": 1996,
       "Completed": 1
     }
   ],
@@ -1738,8 +1743,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-09T18:59:04.4044548+00:00",
-  "LastChanged_Achievements": "2023-05-15T00:06:10.2096204+00:00",
+  "LastChanged_Achievements": "2023-05-15T02:07:12.2339811+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-14T23:57:40.9525492+00:00",
-  "LastUpdate_Achievements": "2023-05-15T00:06:10.209669+00:00"
+  "LastUpdate_Ratings": "2023-05-15T01:59:48.6161455+00:00",
+  "LastUpdate_Achievements": "2023-05-15T02:07:12.2340338+00:00"
 }

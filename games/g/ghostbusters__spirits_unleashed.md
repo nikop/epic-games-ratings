@@ -5,24 +5,24 @@ Rating: 4.49 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~18,751 |
-| Advancement | 74.00% | ~16,135 |
+| Stylish | 86.00% | ~18,752 |
+| Advancement | 74.00% | ~16,136 |
 | Meticulously Efficient | 65.00% | ~14,173 |
 | Discovery | 63.00% | ~13,737 |
-| Swift Rift Removers | 56.00% | ~12,210 |
-| Fully Upgraded | 55.00% | ~11,992 |
-| Cultured | 53.00% | ~11,556 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,338 |
+| Swift Rift Removers | 56.00% | ~12,211 |
+| Fully Upgraded | 55.00% | ~11,993 |
+| Cultured | 53.00% | ~11,557 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,339 |
 | Vaporous Expansion | 49.00% | ~10,684 |
 | Teamwork | 45.00% | ~9,812 |
 | There you are! | 44.00% | ~9,594 |
 | Clutch Capture | 42.00% | ~9,158 |
-| Back Off | 36.00% | ~7,849 |
-| Daily Dose | 35.00% | ~7,631 |
-| Welcome to the Crew | 33.00% | ~7,195 |
-| Solo Capture | 32.00% | ~6,977 |
-| Ghostbuster In Training | 31.00% | ~6,759 |
-| Icing on the Cake | 30.00% | ~6,541 |
+| Back Off | 36.00% | ~7,850 |
+| Daily Dose | 35.00% | ~7,632 |
+| Welcome to the Crew | 33.00% | ~7,196 |
+| Solo Capture | 32.00% | ~6,978 |
+| Ghostbuster In Training | 31.00% | ~6,760 |
+| Icing on the Cake | 30.00% | ~6,542 |
 | Legions | 28.00% | ~6,105 |
 | Side Hustle | 28.00% | ~6,105 |
 | We have the best insurance | 27.00% | ~5,887 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 553)
 | Diabolical | 16.00% | ~3,489 |
 | Escape Artist | 16.00% | ~3,489 |
 | Seasoned | 16.00% | ~3,489 |
-| Liability | 11.00% | ~2,398 |
+| Liability | 11.00% | ~2,399 |
 | Fragile Panes | 10.00% | ~2,180 |
 | Rivalry | 10.00% | ~2,180 |
 | Surprise! | 9.00% | ~1,962 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 553)
 | I don't need these | 1.00% | ~218 |
 | Mycophile | 1.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,804 (Ranked 89)  
+Progressed: 21,805 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,10 +82,10 @@ Completed: 39 (0.18%) (Ranked 142)
 | 2023-05-12 | 21,723 | 39 |
 | 2023-05-13 | 21,764 | 39 |
 | 2023-05-14 | 21,803 | 39 |
-| 2023-05-15 | 21,804 | 39 |
+| 2023-05-15 | 21,805 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
-Sum: 2,065 (Ranked 185)  
+Sum: 2,067 (Ranked 185)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -95,10 +95,10 @@ Diff (max vs sum): 60
 | This game has Diverse Characters | 210 |
 | This game has Amazing Storytelling | 208 |
 | This game is Extremely Fun | 206 |
-| This game is Highly Recommended | 199 |
+| This game is Highly Recommended | 200 |
 | This game is Relaxing | 197 |
 | This game has Amazing Characters | 194 |
-| This game has Quickly Understood Controls | 192 |
+| This game has Quickly Understood Controls | 193 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -165,3 +165,4 @@ Diff (max vs sum): 60
 | 2023-05-11 | 4.49 | 228 | 2,057 |
 | 2023-05-12 | 4.49 | 228 | 2,063 |
 | 2023-05-13 | 4.49 | 228 | 2,065 |
+| 2023-05-15 | 4.49 | 228 | 2,067 |
