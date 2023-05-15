@@ -216,6 +216,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Once More Into The Breach | 0.20% | ~175 |
 | Wyllowwood | 0.20% | ~175 |
 | An Illithid Undertaking | 0.20% | ~108 |
+| Déjà Vu | 0.20% | ~108 |
 | Déjà Vu All Over Again | 0.20% | ~108 |
 | Into The Fire | 0.20% | ~108 |
 | Hearts Aflame | 0.20% | ~108 |
@@ -422,7 +423,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Illithid Ambush | 0.10% | ~54 |
 | Misty Undermountain | 0.10% | ~54 |
 | An Owlbear of an Undertaking | 0.10% | ~54 |
-| Déjà Vu | 0.10% | ~54 |
 | Wait, What? | 0.10% | ~54 |
 | Ireena von Zarovich | 0.10% | ~54 |
 | A Difficult Descent | 0.10% | ~54 |

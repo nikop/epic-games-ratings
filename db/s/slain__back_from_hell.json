@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 20674,
+  "EOS_Progressed": 20675,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1070,
+  "EOS_NewPlayers": 1066,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2491,6 +2491,11 @@
       "Time": "2023-05-15T07:05:21.1562664+00:00",
       "NumProgressed": 20674,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-15T08:06:13.5895552+00:00",
+      "NumProgressed": 20675,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2542,7 +2547,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -2614,7 +2619,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -2733,7 +2738,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 20674,
+      "Progressed": 20675,
       "Completed": 16
     }
   ],
@@ -2741,8 +2746,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-15T07:05:21.156266+00:00",
+  "LastChanged_Achievements": "2023-05-15T08:06:13.5895545+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-15T06:59:29.903366+00:00",
-  "LastUpdate_Achievements": "2023-05-15T07:05:21.1562937+00:00"
+  "LastUpdate_Ratings": "2023-05-15T08:00:25.3225208+00:00",
+  "LastUpdate_Achievements": "2023-05-15T08:06:13.5896105+00:00"
 }

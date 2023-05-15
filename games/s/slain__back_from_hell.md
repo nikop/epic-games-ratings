@@ -11,8 +11,8 @@ Rating: 4.28 (Ranked 769)
 | Right Back Atcha | 6.00% | ~1,240 |
 | Killed by Death | 5.00% | ~1,034 |
 | Kill 'Em All | 4.00% | ~827 |
-| Down Boy! | 2.00% | ~413 |
-| A Snowball's Chance in Hell | 2.00% | ~413 |
+| Down Boy! | 2.00% | ~414 |
+| A Snowball's Chance in Hell | 2.00% | ~414 |
 | Enjoy The Silence | 1.00% | ~207 |
 | Sure Footed As A Goat | 0.90% | ~186 |
 | Thorn in My Herbicide | 0.80% | ~165 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 769)
 | Too Metal For Magic | 0.10% | ~21 |
 | Heart Of Steel | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,674 (Ranked 92)  
+Progressed: 20,675 (Ranked 92)  
 Completed: 16 (0.08%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 16 (0.08%) (Ranked 164)
 | 2023-05-12 | 20,262 | 16 |
 | 2023-05-13 | 20,462 | 16 |
 | 2023-05-14 | 20,632 | 16 |
-| 2023-05-15 | 20,674 | 16 |
+| 2023-05-15 | 20,675 | 16 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 298)  
 Sum: 125 (Ranked 389)  

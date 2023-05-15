@@ -29,10 +29,10 @@ Rating: 3.64 (Ranked 917)
 | Scientist | 6.00% | ~61 |
 | Daily Quest Completionist | 5.00% | ~51 |
 | Challenger | 4.00% | ~41 |
+| Hunter | 4.00% | ~41 |
 | Background Story | 3.00% | ~31 |
 | Frostfire Liberator | 3.00% | ~31 |
 | Here We Go Again | 3.00% | ~31 |
-| Hunter | 3.00% | ~31 |
 | Mastery | 3.00% | ~31 |
 | Milestone collector | 3.00% | ~31 |
 | Moving Up The Ladder | 3.00% | ~31 |

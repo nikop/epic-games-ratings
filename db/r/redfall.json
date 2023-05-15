@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1543,
+  "EOS_Progressed": 1544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1194,6 +1194,11 @@
       "Time": "2023-05-15T03:05:29.4458608+00:00",
       "NumProgressed": 1543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T08:05:50.3364056+00:00",
+      "NumProgressed": 1544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1229,7 +1234,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "Achievement_006",
@@ -1253,7 +1258,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "Achievement_009",
@@ -1261,7 +1266,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Achievement_010",
@@ -1277,7 +1282,7 @@
       "Name": "Block Party",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Achievement_012",
@@ -1325,7 +1330,7 @@
       "Name": "Bad Wiring",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Achievement_018",
@@ -1341,7 +1346,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "Achievement_020",
@@ -1389,7 +1394,7 @@
       "Name": "Grounded",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "Achievement_026",
@@ -1421,7 +1426,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "Achievement_030",
@@ -1437,7 +1442,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "Achievement_032",
@@ -1453,7 +1458,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Achievement_034",
@@ -1509,7 +1514,7 @@
       "Name": "Heart Attack",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "Achievement_041",
@@ -1541,7 +1546,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "Achievement_046",
@@ -1732,7 +1737,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1543,
+      "Progressed": 1544,
       "Completed": 0
     }
   ],
@@ -1740,8 +1745,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-14T03:58:02.3893579+00:00",
-  "LastChanged_Achievements": "2023-05-15T07:05:00.8037348+00:00",
+  "LastChanged_Achievements": "2023-05-15T08:05:50.3364048+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-15T06:57:38.4828816+00:00",
-  "LastUpdate_Achievements": "2023-05-15T07:05:00.8037954+00:00"
+  "LastUpdate_Ratings": "2023-05-15T07:58:10.8996559+00:00",
+  "LastUpdate_Achievements": "2023-05-15T08:05:50.3365358+00:00"
 }
