@@ -3712,9 +3712,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87567,
+  "EOS_Progressed": 87570,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5992,6 +5992,11 @@
       "Time": "2023-05-15T09:06:11.4794962+00:00",
       "NumProgressed": 87567,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T10:05:27.5501961+00:00",
+      "NumProgressed": 87570,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6257,9 +6262,9 @@
       "ID": "objective_completed_1082",
       "SetID": "415jc5c",
       "Name": "The Birds",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_1083",
@@ -6361,9 +6366,9 @@
       "ID": "objective_completed_1097",
       "SetID": "415jc5c",
       "Name": "Bully for You!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_11",
@@ -9914,21 +9919,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53841,
-      "Completed": 2508
+      "Progressed": 53844,
+      "Completed": 2510
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87567,
+      "Progressed": 87570,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T05:58:07.290414+00:00",
-  "LastChanged_Achievements": "2023-05-15T09:06:11.4794957+00:00",
+  "LastChanged_Achievements": "2023-05-15T10:05:27.5501957+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T08:57:59.0800022+00:00",
-  "LastUpdate_Achievements": "2023-05-15T09:06:11.4815815+00:00"
+  "LastUpdate_Ratings": "2023-05-15T09:57:57.2884902+00:00",
+  "LastUpdate_Achievements": "2023-05-15T10:05:27.5524639+00:00"
 }

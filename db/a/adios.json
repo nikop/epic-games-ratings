@@ -48,7 +48,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56017,
+  "EOS_Progressed": 56020,
   "EOS_Completed": 449,
   "EOS_NewPlayers": 1278,
   "EOS_NewCompleters": 11,
@@ -2373,6 +2373,11 @@
       "Time": "2023-05-15T09:06:01.6087485+00:00",
       "NumProgressed": 56017,
       "NumCompleted": 449
+    },
+    {
+      "Time": "2023-05-15T10:05:18.6313878+00:00",
+      "NumProgressed": 56020,
+      "NumCompleted": 449
     }
   ],
   "TotalAchievements": 25,
@@ -2456,7 +2461,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10643
+      "UsersEstimate": 10644
     },
     {
       "ID": "Hearty",
@@ -2488,7 +2493,7 @@
       "Name": "Master, Commander",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 10643
+      "UsersEstimate": 10644
     },
     {
       "ID": "Meaty",
@@ -2504,7 +2509,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10083
+      "UsersEstimate": 10084
     },
     {
       "ID": "Nice Try",
@@ -2536,7 +2541,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7282
+      "UsersEstimate": 7283
     },
     {
       "ID": "Sniper",
@@ -2583,7 +2588,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 56017,
+      "Progressed": 56020,
       "Completed": 449
     }
   ],
@@ -2591,8 +2596,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-11T21:00:12.8058431+00:00",
-  "LastChanged_Achievements": "2023-05-15T09:06:01.608748+00:00",
+  "LastChanged_Achievements": "2023-05-15T10:05:18.6313872+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:22.0018801+00:00",
-  "LastUpdate_Ratings": "2023-05-15T09:00:31.6724503+00:00",
-  "LastUpdate_Achievements": "2023-05-15T09:06:01.6087907+00:00"
+  "LastUpdate_Ratings": "2023-05-15T10:00:00.4038396+00:00",
+  "LastUpdate_Achievements": "2023-05-15T10:05:18.6314245+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "galactic-civilizations-iv-supernova",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-27T14:45:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2071,8 +2071,8 @@
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
   "LastChanged": "2023-04-27T21:57:06.0421026+00:00",
-  "LastChanged_Achievements": "2023-05-15T09:05:23.1610315+00:00",
+  "LastChanged_Achievements": "2023-05-15T10:04:45.5647071+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.3861759+00:00",
-  "LastUpdate_Ratings": "2023-05-15T08:57:07.6386127+00:00",
-  "LastUpdate_Achievements": "2023-05-15T09:05:23.1611012+00:00"
+  "LastUpdate_Ratings": "2023-05-15T09:57:15.1030949+00:00",
+  "LastUpdate_Achievements": "2023-05-15T10:04:45.5647932+00:00"
 }

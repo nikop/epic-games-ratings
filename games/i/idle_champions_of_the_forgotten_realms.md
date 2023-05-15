@@ -90,6 +90,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.20% | ~108 |
 | The Prince of a Thousand Enemies | 0.20% | ~108 |
 | Uncommon Allies | 0.20% | ~108 |
+| The Birds | 0.20% | ~108 |
 | Downfall | 0.20% | ~108 |
 | First Third Out | 0.20% | ~108 |
 | Third Third Out | 0.20% | ~108 |
@@ -97,6 +98,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | I'm Sure I Saw It Move! | 0.20% | ~108 |
 | A Steadfast Love | 0.20% | ~108 |
 | The Fairy Rings of Thither | 0.20% | ~108 |
+| Bully for You! | 0.20% | ~108 |
 | Wet Feet | 0.20% | ~175 |
 | Hatchlings Underfoot | 0.20% | ~175 |
 | Don't Look Up! | 0.20% | ~175 |
@@ -289,12 +291,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Always Watching | 0.10% | ~54 |
 | Icequake | 0.10% | ~54 |
 | A Lesson in Classes | 0.10% | ~54 |
-| The Birds | 0.10% | ~54 |
 | Where the Magic Happens | 0.10% | ~54 |
 | Second Third Out | 0.10% | ~54 |
 | End of the Line | 0.10% | ~54 |
 | Zarak's Revenge | 0.10% | ~54 |
-| Bully for You! | 0.10% | ~54 |
 | The Dark Heart | 0.10% | ~54 |
 | Undergeared | 0.10% | ~54 |
 | Underdark Chill | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,567 (Ranked 59)  
+Progressed: 87,570 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,567 | 1,843 |
+| 2023-05-15 | 87,570 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

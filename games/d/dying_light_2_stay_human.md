@@ -6,52 +6,52 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,261 |
-| Into the Unknown | 8.00% | ~43,788 |
-| First Shot | 8.00% | ~43,788 |
-| Herzlich Wilkommen! | 7.00% | ~38,314 |
-| Sancho Panza | 7.00% | ~38,314 |
-| Good Night & Good Luck | 7.00% | ~38,314 |
-| Under Pressure | 6.00% | ~32,841 |
-| Flag Burning | 6.00% | ~32,841 |
-| Oh, So This Is How It Works! | 6.00% | ~32,841 |
-| Night Hunter | 6.00% | ~32,841 |
-| On the Trail of the Enemy | 5.00% | ~27,367 |
-| Light in the Darkness | 5.00% | ~27,367 |
-| Get Outta My House! | 5.00% | ~27,367 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,367 |
-| Being All Social | 5.00% | ~27,367 |
-| Debris and Ashes | 4.00% | ~21,894 |
-| We Will Be Heard! | 4.00% | ~21,894 |
-| Known Associate | 4.00% | ~21,894 |
-| Brush with Death | 4.00% | ~21,894 |
-| Going Down | 4.00% | ~21,894 |
-| Family First | 4.00% | ~21,894 |
-| Your World, Your Rules | 4.00% | ~21,894 |
-| Tunnel Entrance | 4.00% | ~21,894 |
-| After the Fall | 4.00% | ~21,894 |
-| Can't Touch This! | 4.00% | ~21,894 |
-| Death From Afar | 3.00% | ~16,420 |
-| Terminal Headache | 3.00% | ~16,420 |
-| Slowpoke! | 3.00% | ~16,420 |
+| You Never Forget Your First... | 9.00% | ~49,263 |
+| Into the Unknown | 8.00% | ~43,789 |
+| First Shot | 8.00% | ~43,789 |
+| Herzlich Wilkommen! | 7.00% | ~38,315 |
+| Sancho Panza | 7.00% | ~38,315 |
+| Good Night & Good Luck | 7.00% | ~38,315 |
+| Under Pressure | 6.00% | ~32,842 |
+| Flag Burning | 6.00% | ~32,842 |
+| Oh, So This Is How It Works! | 6.00% | ~32,842 |
+| Night Hunter | 6.00% | ~32,842 |
+| On the Trail of the Enemy | 5.00% | ~27,368 |
+| Light in the Darkness | 5.00% | ~27,368 |
+| Get Outta My House! | 5.00% | ~27,368 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,368 |
+| Being All Social | 5.00% | ~27,368 |
+| Debris and Ashes | 4.00% | ~21,895 |
+| We Will Be Heard! | 4.00% | ~21,895 |
+| Known Associate | 4.00% | ~21,895 |
+| Brush with Death | 4.00% | ~21,895 |
+| Going Down | 4.00% | ~21,895 |
+| Family First | 4.00% | ~21,895 |
+| Your World, Your Rules | 4.00% | ~21,895 |
+| Tunnel Entrance | 4.00% | ~21,895 |
+| After the Fall | 4.00% | ~21,895 |
+| Can't Touch This! | 4.00% | ~21,895 |
+| Death From Afar | 3.00% | ~16,421 |
+| Terminal Headache | 3.00% | ~16,421 |
+| Slowpoke! | 3.00% | ~16,421 |
 | Tickets, Please! | 2.00% | ~10,947 |
 | Parkour Master | 2.00% | ~10,947 |
 | Combat Master | 2.00% | ~10,947 |
 | You're Going Down! | 2.00% | ~10,947 |
-| Municipal Services | 1.00% | ~5,473 |
-| Tube Map | 1.00% | ~5,473 |
-| Don Quixote | 1.00% | ~5,473 |
-| Can't You Read the Signs? | 1.00% | ~5,473 |
-| Ban Hammer | 1.00% | ~5,473 |
-| Modder | 1.00% | ~5,473 |
-| Ironheart | 1.00% | ~5,473 |
+| Municipal Services | 1.00% | ~5,474 |
+| Tube Map | 1.00% | ~5,474 |
+| Don Quixote | 1.00% | ~5,474 |
+| Can't You Read the Signs? | 1.00% | ~5,474 |
+| Ban Hammer | 1.00% | ~5,474 |
+| Modder | 1.00% | ~5,474 |
+| Ironheart | 1.00% | ~5,474 |
 | Nemesis | 1.00% | ~1,928 |
 | Enter the Hall | 0.90% | ~1,735 |
 | That's Teamwork! | 0.80% | ~4,379 |
 | Fit as a Fiddle | 0.80% | ~4,379 |
 | Night of Terrors | 0.80% | ~1,542 |
-| Find Anything Interesting? | 0.70% | ~3,831 |
-| Boot Licker | 0.70% | ~3,831 |
+| Find Anything Interesting? | 0.70% | ~3,832 |
+| Boot Licker | 0.70% | ~3,832 |
 | Get the Point? | 0.60% | ~3,284 |
 | My Friend, Ciro | 0.60% | ~1,157 |
 | Skullcrusher | 0.60% | ~1,157 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,346 (Ranked 22)  
+Progressed: 547,363 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 46 (0.01%) (Ranked 191)
 | 2023-05-12 | 545,860 | 46 |
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
-| 2023-05-15 | 547,346 | 46 |
+| 2023-05-15 | 547,363 | 46 |
 ## Awards
 Max (Character Customization): 7,052  (Ranked 44)  
 Sum: 16,364 (Ranked 58)  

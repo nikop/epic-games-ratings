@@ -6,41 +6,41 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~698,015 |
-| The Blues | 85.00% | ~599,306 |
-| Fast | 66.00% | ~465,344 |
-| Healthbar | 55.00% | ~387,786 |
-| Force Cube | 52.00% | ~366,634 |
-| Double Jump | 48.00% | ~338,432 |
-| Regeneration | 47.00% | ~331,381 |
-| Climb the hill | 42.00% | ~296,128 |
-| Triple Jump | 42.00% | ~296,128 |
-| Through the fire pipe | 38.00% | ~267,925 |
-| MacGuffin | 37.00% | ~260,874 |
-| Just once | 36.00% | ~253,824 |
-| Armor | 30.00% | ~211,520 |
-| True holy spirit | 27.00% | ~190,368 |
-| That's how electronics work obviously | 26.00% | ~183,317 |
-| Force Cube Catapult | 25.00% | ~176,266 |
-| Holy Sword | 23.00% | ~162,165 |
-| Telefrag | 22.00% | ~155,115 |
-| Freed from prison | 21.00% | ~148,064 |
-| Stomp | 21.00% | ~148,064 |
-| Double Health | 18.00% | ~126,912 |
-| Buckle | 17.00% | ~119,861 |
-| Green Keycard | 17.00% | ~119,861 |
-| Rattle Hag | 15.00% | ~105,760 |
-| All Shells | 14.00% | ~98,709 |
-| Beam | 14.00% | ~98,709 |
+| Out of bed | 99.00% | ~698,022 |
+| The Blues | 85.00% | ~599,312 |
+| Fast | 66.00% | ~465,348 |
+| Healthbar | 55.00% | ~387,790 |
+| Force Cube | 52.00% | ~366,638 |
+| Double Jump | 48.00% | ~338,435 |
+| Regeneration | 47.00% | ~331,384 |
+| Climb the hill | 42.00% | ~296,131 |
+| Triple Jump | 42.00% | ~296,131 |
+| Through the fire pipe | 38.00% | ~267,928 |
+| MacGuffin | 37.00% | ~260,877 |
+| Just once | 36.00% | ~253,826 |
+| Armor | 30.00% | ~211,522 |
+| True holy spirit | 27.00% | ~190,370 |
+| That's how electronics work obviously | 26.00% | ~183,319 |
+| Force Cube Catapult | 25.00% | ~176,268 |
+| Holy Sword | 23.00% | ~162,167 |
+| Telefrag | 22.00% | ~155,116 |
+| Freed from prison | 21.00% | ~148,065 |
+| Stomp | 21.00% | ~148,065 |
+| Double Health | 18.00% | ~126,913 |
+| Buckle | 17.00% | ~119,862 |
+| Green Keycard | 17.00% | ~119,862 |
+| Rattle Hag | 15.00% | ~105,761 |
+| All Shells | 14.00% | ~98,710 |
+| Beam | 14.00% | ~98,710 |
 | 9 | 13.00% | ~91,659 |
 | Purple Cube | 13.00% | ~91,659 |
 | Supraball Noob | 13.00% | ~91,659 |
-| Health Drink | 12.00% | ~84,608 |
-| Helped a star | 12.00% | ~84,608 |
-| Blue King's lair | 11.00% | ~77,557 |
-| Infiltrated | 11.00% | ~77,557 |
-| Robbed | 11.00% | ~77,557 |
-| Strong | 11.00% | ~77,557 |
+| Health Drink | 12.00% | ~84,609 |
+| Helped a star | 12.00% | ~84,609 |
+| Blue King's lair | 11.00% | ~77,558 |
+| Infiltrated | 11.00% | ~77,558 |
+| Robbed | 11.00% | ~77,558 |
+| Strong | 11.00% | ~77,558 |
 | Payback | 10.00% | ~70,507 |
 | Got the coins back | 10.00% | ~70,507 |
 | Cave Flies | 10.00% | ~70,507 |
@@ -49,12 +49,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 10.00% | ~70,507 |
 | Translocator | 10.00% | ~70,507 |
 | Yellow Shot Button | 10.00% | ~70,507 |
-| Fire Flies | 9.00% | ~63,456 |
-| Moon Door | 9.00% | ~63,456 |
-| Momentum | 9.00% | ~63,456 |
-| Panic Lights | 9.00% | ~63,456 |
-| Through the tiny pipe | 8.00% | ~56,405 |
-| Win! | 8.00% | ~56,405 |
+| Fire Flies | 9.00% | ~63,457 |
+| Moon Door | 9.00% | ~63,457 |
+| Momentum | 9.00% | ~63,457 |
+| Panic Lights | 9.00% | ~63,457 |
+| Through the tiny pipe | 8.00% | ~56,406 |
+| Win! | 8.00% | ~56,406 |
 | The real real teleported man | 7.00% | ~49,355 |
 | Well deserved | 6.00% | ~42,304 |
 | Happiness | 3.00% | ~21,152 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~705 |
 | DLC: Top of the world | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,066 (Ranked 14)  
+Progressed: 705,073 (Ranked 14)  
 Completed: 678 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 678 (0.10%) (Ranked 156)
 | 2023-05-12 | 704,537 | 676 |
 | 2023-05-13 | 704,788 | 677 |
 | 2023-05-14 | 705,009 | 678 |
-| 2023-05-15 | 705,066 | 678 |
+| 2023-05-15 | 705,073 | 678 |
 ## Awards
 Max (Challenging Puzzles): 7,610  (Ranked 40)  
 Sum: 9,898 (Ranked 79)  

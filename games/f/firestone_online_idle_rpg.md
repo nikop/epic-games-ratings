@@ -11,7 +11,7 @@ Rating: 3.64 (Ranked 917)
 | Prestigious | 52.00% | ~531 |
 | Fellowship Power | 39.00% | ~398 |
 | Guild Power | 23.00% | ~235 |
-| Prestigious x10 | 19.00% | ~194 |
+| Prestigious x10 | 20.00% | ~204 |
 | The game is on | 17.00% | ~174 |
 | Dragon Clicker | 15.00% | ~153 |
 | Exotic Merchant | 15.00% | ~153 |
@@ -24,8 +24,8 @@ Rating: 3.64 (Ranked 917)
 | Enlightenment | 9.00% | ~92 |
 | Natural Talent | 8.00% | ~82 |
 | The Unstoppable | 8.00% | ~82 |
+| Mysterious Rock | 7.00% | ~71 |
 | Superior | 7.00% | ~71 |
-| Mysterious Rock | 6.00% | ~61 |
 | Scientist | 6.00% | ~61 |
 | Daily Quest Completionist | 5.00% | ~51 |
 | Challenger | 4.00% | ~41 |
@@ -49,11 +49,11 @@ Rating: 3.64 (Ranked 917)
 | Dragon Slayer | 1.00% | ~10 |
 | Engineer Mastery | 1.00% | ~10 |
 | Four Leaf Clover | 1.00% | ~10 |
+| Lock And Load | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
 | Weekly Quest Completionist | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
-| Lock And Load | 0.90% | ~9 |
 | Blueprint Upgrades | 0.70% | ~7 |
 | Crystal Mining | 0.70% | ~7 |
 | Legendary | 0.70% | ~7 |

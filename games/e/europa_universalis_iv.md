@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,332 |
-| That's a Grand Army | 8.00% | ~2,962 |
-| That is mine! | 8.00% | ~2,962 |
-| Victorious! | 8.00% | ~2,962 |
-| Brothers in Arms | 6.00% | ~2,221 |
-| That's a Grand Navy | 6.00% | ~2,221 |
-| Seriously?! | 6.00% | ~2,221 |
-| For the Glory | 5.00% | ~1,851 |
-| Cold War | 4.00% | ~1,481 |
-| True Catholic | 4.00% | ~1,481 |
+| Until death do us apart | 9.00% | ~3,334 |
+| That's a Grand Army | 8.00% | ~2,964 |
+| That is mine! | 8.00% | ~2,964 |
+| Victorious! | 8.00% | ~2,964 |
+| Brothers in Arms | 6.00% | ~2,223 |
+| That's a Grand Navy | 6.00% | ~2,223 |
+| Seriously?! | 6.00% | ~2,223 |
+| For the Glory | 5.00% | ~1,852 |
+| Cold War | 4.00% | ~1,482 |
+| True Catholic | 4.00% | ~1,482 |
 | Defender of the Faith | 3.00% | ~1,111 |
 | It's all about the money | 3.00% | ~1,111 |
 | Respected | 3.00% | ~1,111 |
 | Truly Divine Ruler | 3.00% | ~1,111 |
-| Blockader | 2.00% | ~740 |
-| Combined Arms | 2.00% | ~740 |
-| Double the Love | 2.00% | ~740 |
-| Gentle Persuasion | 2.00% | ~740 |
-| It's all about luck | 2.00% | ~740 |
-| Queen of Conquest | 2.00% | ~740 |
-| Royal Authority | 2.00% | ~740 |
-| The Princess is in this Castle | 2.00% | ~740 |
-| Total Control | 2.00% | ~740 |
+| Blockader | 2.00% | ~741 |
+| Combined Arms | 2.00% | ~741 |
+| Double the Love | 2.00% | ~741 |
+| Gentle Persuasion | 2.00% | ~741 |
+| It's all about luck | 2.00% | ~741 |
+| Queen of Conquest | 2.00% | ~741 |
+| Royal Authority | 2.00% | ~741 |
+| The Princess is in this Castle | 2.00% | ~741 |
+| Total Control | 2.00% | ~741 |
 | Agressive Expander | 1.00% | ~370 |
 | All That's Thine Shall Be Mine | 1.00% | ~370 |
 | Azur semé de lis or | 1.00% | ~370 |
@@ -170,6 +170,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imposter Syndrome | 0.10% | ~37 |
 | An Industrial Evolution | 0.10% | ~37 |
 | The Iron Price | 0.10% | ~37 |
+| It's All Greek To Me | 0.10% | ~37 |
 | Je maintiendrai | 0.10% | ~37 |
 | Just Resting In My Account | 0.10% | ~37 |
 | A Kaiser not just in name | 0.10% | ~37 |
@@ -312,7 +313,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hoarder | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
-| It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | Komnenoi Empire | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,022 (Ranked 81)  
+Progressed: 37,049 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 35,136 | 0 |
 | 2023-05-13 | 36,053 | 0 |
 | 2023-05-14 | 36,905 | 0 |
-| 2023-05-15 | 37,022 | 0 |
+| 2023-05-15 | 37,049 | 0 |
 ## Awards
 Max (Educational): 5,220  (Ranked 60)  
 Sum: 43,207 (Ranked 27)  

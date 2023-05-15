@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12215,
+  "EOS_Progressed": 12217,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3479,6 +3479,11 @@
       "Time": "2023-05-15T08:06:16.6745+00:00",
       "NumProgressed": 12215,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-15T10:05:15.0671707+00:00",
+      "NumProgressed": 12217,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 22,
@@ -3554,7 +3559,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "1024",
@@ -3562,7 +3567,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "1025",
@@ -3602,7 +3607,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "1030",
@@ -3610,7 +3615,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "1031",
@@ -3618,7 +3623,7 @@
       "Name": "Well Stocked",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "1032",
@@ -3626,7 +3631,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4886
+      "UsersEstimate": 4887
     },
     {
       "ID": "1033",
@@ -3634,7 +3639,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "1034",
@@ -3665,15 +3670,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 12215,
+      "Progressed": 12217,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-15T09:05:57.6242149+00:00",
+  "LastChanged_Achievements": "2023-05-15T10:05:15.0671702+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.192023+00:00",
-  "LastUpdate_Ratings": "2023-05-15T09:00:15.8089933+00:00",
-  "LastUpdate_Achievements": "2023-05-15T09:05:57.6242372+00:00"
+  "LastUpdate_Ratings": "2023-05-15T09:59:46.4522927+00:00",
+  "LastUpdate_Achievements": "2023-05-15T10:05:15.0671975+00:00"
 }

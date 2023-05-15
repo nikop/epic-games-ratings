@@ -2074,7 +2074,7 @@
   ],
   "EOS_Progressed": 45990,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 2501,
+  "EOS_NewPlayers": 2480,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3711,9 +3711,9 @@
       "ID": "COMPLETE_EPISODE_2",
       "SetID": "3fcpmbm",
       "Name": "Attack of the Clones",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 20696
+      "UsersEstimate": 21155
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -3959,8 +3959,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-14T23:01:28.992186+00:00",
-  "LastChanged_Achievements": "2023-05-15T09:06:06.7184471+00:00",
+  "LastChanged_Achievements": "2023-05-15T10:05:23.0786921+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:26.2031618+00:00",
-  "LastUpdate_Ratings": "2023-05-15T09:00:36.3860168+00:00",
-  "LastUpdate_Achievements": "2023-05-15T09:06:06.718481+00:00"
+  "LastUpdate_Ratings": "2023-05-15T10:00:04.2405413+00:00",
+  "LastUpdate_Achievements": "2023-05-15T10:05:23.0787346+00:00"
 }

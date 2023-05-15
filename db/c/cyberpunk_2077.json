@@ -5757,10 +5757,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 168492,
       "NumberOfAwardsMax": 64220
+    },
+    {
+      "Time": "2023-05-15T09:57:41.2168581+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 168500,
+      "NumberOfAwardsMax": 64220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 168492,
+  "NumberOfAwards": 168500,
   "NumberOfAwardsMax": 64220,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5786,7 +5792,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7257
+      "Count": 7265
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5837,9 +5843,9 @@
       "Count": 4723
     }
   ],
-  "EOS_Progressed": 799741,
+  "EOS_Progressed": 799743,
   "EOS_Completed": 1596,
-  "EOS_NewPlayers": 1130,
+  "EOS_NewPlayers": 1127,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8142,6 +8148,11 @@
       "Time": "2023-05-15T09:05:21.3970659+00:00",
       "NumProgressed": 799741,
       "NumCompleted": 1596
+    },
+    {
+      "Time": "2023-05-15T10:04:43.9937394+00:00",
+      "NumProgressed": 799743,
+      "NumCompleted": 1596
     }
   ],
   "TotalAchievements": 44,
@@ -8161,7 +8172,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47984
+      "UsersEstimate": 47985
     },
     {
       "ID": "BushidoAndChill",
@@ -8185,7 +8196,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295904
+      "UsersEstimate": 295905
     },
     {
       "ID": "FollowingTheRiver",
@@ -8193,7 +8204,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103966
+      "UsersEstimate": 103967
     },
     {
       "ID": "Fortuneteller",
@@ -8241,7 +8252,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103966
+      "UsersEstimate": 103967
     },
     {
       "ID": "IAmMaxTac",
@@ -8249,7 +8260,7 @@
       "Name": "I Am The Law",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 103966
+      "UsersEstimate": 103967
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -8329,7 +8340,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215930
+      "UsersEstimate": 215931
     },
     {
       "ID": "Specialist",
@@ -8369,7 +8380,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535826
+      "UsersEstimate": 535828
     },
     {
       "ID": "TheHermit",
@@ -8377,7 +8388,7 @@
       "Name": "The Hermit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 183940
+      "UsersEstimate": 183941
     },
     {
       "ID": "TheHightPriestess",
@@ -8385,7 +8396,7 @@
       "Name": "The High Priestess",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159948
+      "UsersEstimate": 159949
     },
     {
       "ID": "TheLovers",
@@ -8393,7 +8404,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255917
+      "UsersEstimate": 255918
     },
     {
       "ID": "TheStar",
@@ -8401,7 +8412,7 @@
       "Name": "The Star",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47984
+      "UsersEstimate": 47985
     },
     {
       "ID": "TheSun",
@@ -8409,7 +8420,7 @@
       "Name": "The Sun",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47984
+      "UsersEstimate": 47985
     },
     {
       "ID": "TheWheelOfFortune",
@@ -8417,7 +8428,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199935
+      "UsersEstimate": 199936
     },
     {
       "ID": "TheWorld",
@@ -8473,7 +8484,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103966
+      "UsersEstimate": 103967
     },
     {
       "ID": "VForVendetta",
@@ -8504,15 +8515,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799741,
+      "Progressed": 799743,
       "Completed": 1596
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-15T08:57:39.7669476+00:00",
-  "LastChanged_Achievements": "2023-05-15T09:05:21.3970652+00:00",
+  "LastChanged": "2023-05-15T09:57:41.216858+00:00",
+  "LastChanged_Achievements": "2023-05-15T10:04:43.993739+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.285145+00:00",
-  "LastUpdate_Ratings": "2023-05-15T08:57:39.7669481+00:00",
-  "LastUpdate_Achievements": "2023-05-15T09:05:21.3971041+00:00"
+  "LastUpdate_Ratings": "2023-05-15T09:57:41.2168588+00:00",
+  "LastUpdate_Achievements": "2023-05-15T10:04:43.9937868+00:00"
 }

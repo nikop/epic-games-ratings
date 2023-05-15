@@ -1172,9 +1172,9 @@
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "12",
@@ -1260,9 +1260,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "22",
@@ -1565,8 +1565,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-15T09:05:22.0245927+00:00",
+  "LastChanged_Achievements": "2023-05-15T10:04:44.5216169+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-15T08:57:22.8201135+00:00",
-  "LastUpdate_Achievements": "2023-05-15T09:05:22.0246301+00:00"
+  "LastUpdate_Ratings": "2023-05-15T09:57:28.0458346+00:00",
+  "LastUpdate_Achievements": "2023-05-15T10:04:44.5216635+00:00"
 }

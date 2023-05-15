@@ -23,9 +23,9 @@
 | Gooey Delight! | 38.00% | ~242 |
 | Glimmer of Hope | 38.00% | ~242 |
 | Teacups for Toppy | 38.00% | ~242 |
+| Nightmare Fuel | 37.00% | ~236 |
+| Take Heart | 37.00% | ~236 |
 | The Guardian | 37.00% | ~236 |
-| Nightmare Fuel | 36.00% | ~230 |
-| Take Heart | 36.00% | ~230 |
 | Stronger! | 35.00% | ~223 |
 | Ancient Wisdom | 34.00% | ~217 |
 | Frog Facts! | 34.00% | ~217 |
