@@ -51,7 +51,7 @@
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 46 | 398 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 213 | 251 |
 | 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 199 |
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 252 | 238 |
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 253 | 238 |
 | 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 657 | 159 |
 | 49 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 491 |
 | 55 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 51 | 384 |
@@ -183,7 +183,7 @@
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,279 | 50 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 470 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 427 |
-| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,157 | 43 |
+| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,161 | 43 |
 | 178 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 491 |
 | 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 491 |
 | 178 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 491 |
@@ -378,7 +378,7 @@
 | 352 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 194 | 260 |
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 373 |
 | 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,777 | 21 |
-| 379 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,784 | 29 |
+| 379 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,797 | 29 |
 | 379 | [Control](games/c/control.md) | 4.60 | 8,277 | 38 |
 | 379 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 251 |
 | 379 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 355 |
@@ -411,7 +411,7 @@
 | 397 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 445 |
 | 397 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
 | 397 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 319 | 219 |
-| 412 | [Among Us](games/a/among_us.md) | 4.58 | 2,400 | 93 |
+| 412 | [Among Us](games/a/among_us.md) | 4.58 | 2,403 | 93 |
 | 412 | [Everything](games/e/everything.md) | 4.58 | 0 | 491 |
 | 412 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 491 |
 | 412 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 421 |
@@ -911,9 +911,9 @@
 | 908 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 369 |
 | 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,027 | 133 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 491 |
-| 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 50 | 386 |
-| 913 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 491 |
-| 913 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 491 |
+| 912 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 491 |
+| 912 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 491 |
+| 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 50 | 386 |
 | 915 | [Poker Club](games/p/poker_club.md) | 3.72 | 0 | 491 |
 | 916 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 491 |
 | 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.64 | 0 | 491 |

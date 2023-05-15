@@ -281,6 +281,7 @@
 | [Quest of Dungeons](../games/q/quest_of_dungeons.md) | 25 | 1,000 |
 | [tERRORbane](../games/t/terrorbane.md) | 25 | 1,000 |
 | [Troublemaker](../games/t/troublemaker.md) | 25 | 1,000 |
+| [Backbeat](../games/b/backbeat.md) | 24 | 1,000 |
 | [BloodRayne Betrayal Fresh Bites](../games/b/bloodrayne_betrayal_fresh_bites.md) | 24 | 1,000 |
 | [Colossal Cave](../games/c/colossal_cave.md) | 24 | 1,000 |
 | [Disney Speedstorm](../games/d/disney_speedstorm.md) | 24 | 1,000 |

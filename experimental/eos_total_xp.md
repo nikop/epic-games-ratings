@@ -60,6 +60,7 @@
 | [Atari Mania](../games/a/atari_mania.md) | 18 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
+| [Backbeat](../games/b/backbeat.md) | 24 | 1,000 |
 | [Battle Ram](../games/b/battle_ram.md) | 22 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
 | [Black Widow: Recharged](../games/b/black_widow__recharged.md) | 14 | 1,000 |

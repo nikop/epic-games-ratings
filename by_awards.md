@@ -28,7 +28,7 @@
 | 26 | [League of Legends](games/l/league_of_legends.md) | 13,149 | 4.21 | 802 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,376 | 4.36 | 706 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,926 | 4.42 | 643 |
-| 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,784 | 4.60 | 379 |
+| 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,797 | 4.60 | 379 |
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,656 | 4.39 | 682 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,356 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,209 | 4.69 | 214 |
@@ -42,7 +42,7 @@
 | 40 | [Supraland](games/s/supraland.md) | 7,610 | 4.61 | 352 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,541 | 4.85 | 38 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,295 | 4.57 | 428 |
-| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,157 | 4.71 | 178 |
+| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,161 | 4.71 | 178 |
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,052 | 4.57 | 428 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,973 | 4.89 | 11 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,815 | 4.47 | 579 |
@@ -92,7 +92,7 @@
 | 90 | [Trackmania](games/t/trackmania.md) | 2,600 | 4.67 | 256 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,474 | 4.61 | 352 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,442 | 4.28 | 769 |
-| 93 | [Among Us](games/a/among_us.md) | 2,400 | 4.58 | 412 |
+| 93 | [Among Us](games/a/among_us.md) | 2,403 | 4.58 | 412 |
 | 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,356 | 4.80 | 78 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,302 | 4.50 | 530 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,284 | 4.10 | 857 |
@@ -237,7 +237,7 @@
 | 234 | [Diabotical](games/d/diabotical.md) | 266 | 4.75 | 128 |
 | 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 266 | 4.58 | 412 |
 | 237 | [Sheltered](games/s/sheltered.md) | 264 | 4.42 | 643 |
-| 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 252 | 4.84 | 49 |
+| 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 253 | 4.84 | 49 |
 | 239 | [Dead Cells](games/d/dead_cells.md) | 251 | 4.88 | 18 |
 | 240 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 669 |
 | 241 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 242 | 4.59 | 397 |
@@ -390,7 +390,7 @@
 | 386 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 50 | 4.35 | 716 |
 | 386 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 192 |
 | 386 | [The Escapists 2](games/t/the_escapists_2.md) | 50 | 4.58 | 412 |
-| 386 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 50 | 3.76 | 912 |
+| 386 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 50 | 3.75 | 912 |
 | 392 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 49 | 4.56 | 448 |
 | 393 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 291 |
 | 393 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.66 | 273 |
