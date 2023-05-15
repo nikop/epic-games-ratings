@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458087,
+  "EOS_Progressed": 458089,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2708,6 +2708,11 @@
       "Time": "2023-05-15T18:05:23.164814+00:00",
       "NumProgressed": 458087,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-15T19:06:23.881019+00:00",
+      "NumProgressed": 458089,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2743,7 +2748,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 100779
+      "UsersEstimate": 100780
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -2807,7 +2812,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302337
+      "UsersEstimate": 302339
     },
     {
       "ID": "achievement_story_landa",
@@ -2895,7 +2900,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91617
+      "UsersEstimate": 91618
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -3143,7 +3148,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201558
+      "UsersEstimate": 201559
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -3151,7 +3156,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137426
+      "UsersEstimate": 137427
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -3175,7 +3180,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178654
+      "UsersEstimate": 178655
     },
     {
       "ID": "achievement_win_run_hard",
@@ -3231,28 +3236,28 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 100779
+      "UsersEstimate": 100780
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2021,
-      "Completed": 2021
+      "Progressed": 2023,
+      "Completed": 2023
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458087,
+      "Progressed": 458089,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-15T18:05:23.1648134+00:00",
+  "LastChanged_Achievements": "2023-05-15T19:06:23.8810182+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:58:56.561986+00:00",
-  "LastUpdate_Achievements": "2023-05-15T18:05:23.1648885+00:00"
+  "LastUpdate_Ratings": "2023-05-15T18:59:38.5709054+00:00",
+  "LastUpdate_Achievements": "2023-05-15T19:06:23.8811476+00:00"
 }

@@ -3718,7 +3718,7 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87606,
+  "EOS_Progressed": 87611,
   "EOS_Completed": 1843,
   "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 29,
@@ -6043,6 +6043,11 @@
       "Time": "2023-05-15T18:05:39.9785658+00:00",
       "NumProgressed": 87606,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T19:06:45.0078236+00:00",
+      "NumProgressed": 87611,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -7900,9 +7905,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 263
     },
     {
       "ID": "objective_completed_399",
@@ -9965,21 +9970,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53880,
+      "Progressed": 53885,
       "Completed": 2512
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87606,
+      "Progressed": 87611,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T17:57:54.188817+00:00",
-  "LastChanged_Achievements": "2023-05-15T18:05:39.9785648+00:00",
+  "LastChanged_Achievements": "2023-05-15T19:06:45.007823+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:57:54.1888176+00:00",
-  "LastUpdate_Achievements": "2023-05-15T18:05:39.9809053+00:00"
+  "LastUpdate_Ratings": "2023-05-15T18:58:07.8149534+00:00",
+  "LastUpdate_Achievements": "2023-05-15T19:06:45.0106821+00:00"
 }

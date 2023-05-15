@@ -228,9 +228,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184786,
+  "EOS_Progressed": 184791,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 981,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2558,6 +2558,11 @@
       "Time": "2023-05-15T18:05:18.8042351+00:00",
       "NumProgressed": 184786,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-15T19:06:18.1452898+00:00",
+      "NumProgressed": 184791,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -2577,7 +2582,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 131198
+      "UsersEstimate": 131202
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -2585,7 +2590,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9239
+      "UsersEstimate": 9240
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -2601,7 +2606,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33261
+      "UsersEstimate": 33262
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -2649,7 +2654,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9239
+      "UsersEstimate": 9240
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -2689,14 +2694,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9239
+      "UsersEstimate": 9240
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 184786,
+      "Progressed": 184791,
       "Completed": 4
     }
   ],
@@ -2704,8 +2709,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-09T20:00:41.1544744+00:00",
-  "LastChanged_Achievements": "2023-05-15T18:05:18.8042341+00:00",
+  "LastChanged_Achievements": "2023-05-15T19:06:18.145289+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:39.6476318+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:59:21.2948154+00:00",
-  "LastUpdate_Achievements": "2023-05-15T18:05:18.8042598+00:00"
+  "LastUpdate_Ratings": "2023-05-15T19:00:15.3582757+00:00",
+  "LastUpdate_Achievements": "2023-05-15T19:06:18.1453293+00:00"
 }

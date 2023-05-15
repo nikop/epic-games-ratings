@@ -4,7 +4,7 @@
   "ProductSlug": "despelote-1cba52",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-11T15:57:14.9255132+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:57:05.7370506+00:00",
-  "LastUpdate_Achievements": "2023-05-15T18:02:28.3878769+00:00"
+  "LastUpdate_Ratings": "2023-05-15T18:56:58.0017991+00:00",
+  "LastUpdate_Achievements": "2023-05-15T19:03:04.1510445+00:00"
 }

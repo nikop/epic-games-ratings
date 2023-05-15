@@ -6,8 +6,8 @@ Rating: 4.18 (Ranked 825)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 5.00% | ~628 |
+| Get a Grip | 5.00% | ~628 |
 | Paper Jams | 5.00% | ~628 |
-| Get a Grip | 4.00% | ~503 |
 | The Outer Way | 4.00% | ~503 |
 | You Need a Gun | 3.00% | ~377 |
 | Two Heads Are Better Than One | 3.00% | ~377 |

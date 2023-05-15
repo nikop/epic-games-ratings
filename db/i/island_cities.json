@@ -430,9 +430,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_008",
@@ -567,8 +567,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-15T18:04:57.7793558+00:00",
+  "LastChanged_Achievements": "2023-05-15T19:05:51.5337592+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.1366152+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:57:53.4713356+00:00",
-  "LastUpdate_Achievements": "2023-05-15T18:04:57.7793726+00:00"
+  "LastUpdate_Ratings": "2023-05-15T18:58:06.7689603+00:00",
+  "LastUpdate_Achievements": "2023-05-15T19:05:51.5337896+00:00"
 }

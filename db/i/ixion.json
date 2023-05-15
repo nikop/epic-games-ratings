@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1895,
+  "EOS_Progressed": 1897,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -662,6 +662,11 @@
       "Time": "2023-05-15T12:06:23.7720138+00:00",
       "NumProgressed": 1895,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T19:05:52.1261534+00:00",
+      "NumProgressed": 1897,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -735,9 +740,9 @@
       "ID": "ACH_BASE_18",
       "SetID": "92iocjf",
       "Name": "Infinite Growth...",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_BASE_19",
@@ -1007,9 +1012,9 @@
       "ID": "ACH_BASE_52",
       "SetID": "92iocjf",
       "Name": "BRAWL!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_BASE_53",
@@ -1128,13 +1133,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 75,
+      "Progressed": 77,
       "Completed": 3
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1895,
+      "Progressed": 1897,
       "Completed": 0
     }
   ],
@@ -1142,8 +1147,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-15T18:04:58.4566936+00:00",
+  "LastChanged_Achievements": "2023-05-15T19:05:52.1261528+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:58:14.8661319+00:00",
-  "LastUpdate_Achievements": "2023-05-15T18:04:58.4567543+00:00"
+  "LastUpdate_Ratings": "2023-05-15T18:58:38.0731637+00:00",
+  "LastUpdate_Achievements": "2023-05-15T19:05:52.126256+00:00"
 }

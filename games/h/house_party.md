@@ -16,6 +16,7 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 0.40% | ~20 |
 | Caught in the Act | 0.30% | ~15 |
 | IRL Let's Player | 0.20% | ~10 |
+| Newcomer: Vickie | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |
 | The Muse: Madison | 0.20% | ~10 |
 | The Crush | 0.20% | ~10 |
@@ -45,7 +46,6 @@ Number of Ratings: 177  (23.09.2022)
 | It Smells Like Roses | 0.10% | ~2 |
 | Love Conquers All | 0.10% | ~5 |
 | Money Shot | 0.10% | ~5 |
-| Newcomer: Vickie | 0.10% | ~5 |
 | Now It's a Party! | 0.10% | ~5 |
 | Rule 34 | 0.10% | ~5 |
 | Rachael | 0.10% | ~5 |

@@ -8,19 +8,19 @@
 | Uncut Gem | 42.00% | ~10 |
 | Might be useful… | 42.00% | ~10 |
 | Friend! | 38.00% | ~9 |
-| Setting Off | 33.00% | ~8 |
+| Setting Off | 38.00% | ~9 |
 | Clear as Water | 33.00% | ~8 |
 | Riddlesolver | 29.00% | ~7 |
 | Shine! | 29.00% | ~7 |
 | Dungeon Mastery | 25.00% | ~6 |
 | The Apprentice | 17.00% | ~4 |
 | The Steed | 17.00% | ~4 |
+| A Strange Proposition | 17.00% | ~4 |
 | Card Collector | 17.00% | ~4 |
 | The Bodyguard | 13.00% | ~3 |
 | The Familiar | 13.00% | ~3 |
-| A Strange Proposition | 13.00% | ~3 |
+| Ancient Nemesis | 13.00% | ~3 |
 | Braving Miasma | 8.00% | ~2 |
-| Ancient Nemesis | 8.00% | ~2 |
 | Best Pupil | 8.00% | ~2 |
 | Oracle Mastery | 8.00% | ~2 |
 | FOR JUSTICE! | 8.00% | ~2 |
@@ -32,16 +32,16 @@
 | Towards the Future | 8.00% | ~2 |
 | The Plot Thickens | 8.00% | ~2 |
 | Trinket Enthusiast | 8.00% | ~2 |
+| Card Completionist | 8.00% | ~2 |
 | The Usurper | 8.00% | ~2 |
 | First time? | 8.00% | ~2 |
 | Harmony | 8.00% | ~2 |
+| The False Prophet | 8.00% | ~2 |
+| Sealed Once Again | 8.00% | ~2 |
 | A New Tomorrow | 8.00% | ~2 |
 | ACHOO! | 8.00% | ~2 |
 | No Stone Unturned | 8.00% | ~2 |
 | The New Demon Lord | 4.00% | ~1 |
-| Card Completionist | 4.00% | ~1 |
-| The False Prophet | 4.00% | ~1 |
-| Sealed Once Again | 4.00% | ~1 |
 | Gladiator | 4.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

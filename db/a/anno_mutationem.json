@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 605,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2023-05-13T06:05:08.948697+00:00",
       "NumProgressed": 604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T19:05:50.7461555+00:00",
+      "NumProgressed": 605,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -178,7 +183,7 @@
       "Name": "Annakin Skyscroller",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Arm_Wrestling",
@@ -194,7 +199,7 @@
       "Name": "Big Spender",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Clarity_of_Mind",
@@ -338,7 +343,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -346,7 +351,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "The Traveler",
@@ -386,7 +391,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "The_truth_is_out_there",
@@ -434,7 +439,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "posters",
@@ -457,7 +462,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 605,
       "Completed": 0
     }
   ],
@@ -465,8 +470,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-15T18:04:57.2132312+00:00",
+  "LastChanged_Achievements": "2023-05-15T19:05:50.7461549+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:35.0583707+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:57:33.4541627+00:00",
-  "LastUpdate_Achievements": "2023-05-15T18:04:57.2132556+00:00"
+  "LastUpdate_Ratings": "2023-05-15T18:57:37.3806662+00:00",
+  "LastUpdate_Achievements": "2023-05-15T19:05:50.7461898+00:00"
 }

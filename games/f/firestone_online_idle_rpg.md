@@ -5,20 +5,20 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~966 |
-| World Map | 80.00% | ~822 |
-| Temple of Eternals | 56.00% | ~576 |
-| Prestigious | 52.00% | ~535 |
-| Fellowship Power | 39.00% | ~401 |
-| Guild Power | 23.00% | ~236 |
+| Victor | 94.00% | ~968 |
+| World Map | 80.00% | ~824 |
+| Temple of Eternals | 56.00% | ~577 |
+| Prestigious | 52.00% | ~536 |
+| Fellowship Power | 39.00% | ~402 |
+| Guild Power | 23.00% | ~237 |
 | Prestigious x10 | 20.00% | ~206 |
 | The game is on | 17.00% | ~175 |
 | Dragon Clicker | 15.00% | ~154 |
 | Exotic Merchant | 15.00% | ~154 |
-| Inspection | 14.00% | ~144 |
 | Miner Clicker | 14.00% | ~144 |
-| Full Party | 12.00% | ~123 |
-| Hero inspection | 12.00% | ~123 |
+| Inspection | 13.00% | ~134 |
+| Full Party | 12.00% | ~124 |
+| Hero inspection | 12.00% | ~124 |
 | Dragon Master | 10.00% | ~103 |
 | Lieutenant | 10.00% | ~103 |
 | Enlightenment | 9.00% | ~93 |
@@ -27,12 +27,12 @@ Rating: 3.64 (Ranked 917)
 | Mysterious Rock | 7.00% | ~72 |
 | Superior | 7.00% | ~72 |
 | Scientist | 6.00% | ~62 |
-| Daily Quest Completionist | 5.00% | ~51 |
+| Daily Quest Completionist | 5.00% | ~52 |
 | Challenger | 4.00% | ~41 |
-| Frostfire Liberator | 4.00% | ~41 |
 | Hunter | 4.00% | ~41 |
 | Milestone collector | 4.00% | ~41 |
 | Background Story | 3.00% | ~31 |
+| Frostfire Liberator | 3.00% | ~31 |
 | Here We Go Again | 3.00% | ~31 |
 | Mastery | 3.00% | ~31 |
 | Moving Up The Ladder | 3.00% | ~31 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,028 (Ranked 162)  
+Progressed: 1,030 (Ranked 162)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-12 | 979 | 1 |
 | 2023-05-13 | 1,001 | 1 |
 | 2023-05-14 | 1,017 | 1 |
-| 2023-05-15 | 1,028 | 1 |
+| 2023-05-15 | 1,030 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

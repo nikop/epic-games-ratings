@@ -9,10 +9,10 @@
 | Slay it! | 64.00% | ~9 |
 | Top notch! | 64.00% | ~9 |
 | Poor things... | 57.00% | ~8 |
-| Bling bling! | 50.00% | ~7 |
+| Bling bling! | 57.00% | ~8 |
 | Still alive! | 43.00% | ~6 |
 | Lives lost | 43.00% | ~6 |
-| Slaughter | 36.00% | ~5 |
+| Slaughter | 43.00% | ~6 |
 | Slay that one too! | 21.00% | ~3 |
 | Massive slaughter | 21.00% | ~3 |
 | ... And that one! | 14.00% | ~2 |

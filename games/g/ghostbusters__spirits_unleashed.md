@@ -5,59 +5,59 @@ Rating: 4.49 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 87.00% | ~18,984 |
-| Advancement | 74.00% | ~16,148 |
-| Meticulously Efficient | 65.00% | ~14,184 |
-| Discovery | 63.00% | ~13,747 |
-| Swift Rift Removers | 56.00% | ~12,220 |
-| Fully Upgraded | 55.00% | ~12,002 |
-| Cultured | 53.00% | ~11,565 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,347 |
-| Vaporous Expansion | 49.00% | ~10,692 |
-| Teamwork | 45.00% | ~9,819 |
-| There you are! | 44.00% | ~9,601 |
-| Clutch Capture | 42.00% | ~9,165 |
-| Back Off | 36.00% | ~7,856 |
-| Daily Dose | 35.00% | ~7,637 |
-| Welcome to the Crew | 33.00% | ~7,201 |
-| Solo Capture | 32.00% | ~6,983 |
-| Ghostbuster In Training | 31.00% | ~6,765 |
-| Icing on the Cake | 30.00% | ~6,546 |
-| Legions | 28.00% | ~6,110 |
-| Side Hustle | 28.00% | ~6,110 |
-| We have the best insurance | 27.00% | ~5,892 |
-| Pesky Jerks | 27.00% | ~5,892 |
-| Right back at ya | 27.00% | ~5,892 |
-| Stunner | 27.00% | ~5,892 |
-| Summoner | 27.00% | ~5,892 |
-| Animated | 25.00% | ~5,455 |
-| Skilled | 25.00% | ~5,455 |
-| Collector | 24.00% | ~5,237 |
-| Ectoplasmic Entity | 24.00% | ~5,237 |
-| Rift Destroyer | 20.00% | ~4,364 |
-| Tobin's Prodigy | 19.00% | ~4,146 |
-| Reckless | 18.00% | ~3,928 |
+| Stylish | 86.00% | ~18,770 |
+| Advancement | 74.00% | ~16,151 |
+| Meticulously Efficient | 65.00% | ~14,187 |
+| Discovery | 63.00% | ~13,750 |
+| Swift Rift Removers | 56.00% | ~12,223 |
+| Fully Upgraded | 55.00% | ~12,004 |
+| Cultured | 53.00% | ~11,568 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,350 |
+| Vaporous Expansion | 49.00% | ~10,695 |
+| Teamwork | 45.00% | ~9,822 |
+| There you are! | 44.00% | ~9,603 |
+| Clutch Capture | 42.00% | ~9,167 |
+| Back Off | 36.00% | ~7,857 |
+| Daily Dose | 35.00% | ~7,639 |
+| Welcome to the Crew | 33.00% | ~7,203 |
+| Solo Capture | 32.00% | ~6,984 |
+| Ghostbuster In Training | 31.00% | ~6,766 |
+| Icing on the Cake | 30.00% | ~6,548 |
+| Legions | 28.00% | ~6,111 |
+| Side Hustle | 28.00% | ~6,111 |
+| We have the best insurance | 27.00% | ~5,893 |
+| Pesky Jerks | 27.00% | ~5,893 |
+| Right back at ya | 27.00% | ~5,893 |
+| Stunner | 27.00% | ~5,893 |
+| Summoner | 27.00% | ~5,893 |
+| Animated | 25.00% | ~5,456 |
+| Skilled | 25.00% | ~5,456 |
+| Collector | 24.00% | ~5,238 |
+| Ectoplasmic Entity | 24.00% | ~5,238 |
+| Rift Destroyer | 20.00% | ~4,365 |
+| Tobin's Prodigy | 19.00% | ~4,147 |
+| Reckless | 18.00% | ~3,929 |
 | Terrifying | 17.00% | ~3,710 |
-| Diabolical | 16.00% | ~3,491 |
-| Escape Artist | 16.00% | ~3,491 |
-| Seasoned | 16.00% | ~3,491 |
-| Liability | 11.00% | ~2,400 |
-| Fragile Panes | 10.00% | ~2,182 |
-| Rivalry | 10.00% | ~2,182 |
+| Diabolical | 16.00% | ~3,492 |
+| Escape Artist | 16.00% | ~3,492 |
+| Seasoned | 16.00% | ~3,492 |
+| Liability | 11.00% | ~2,401 |
+| Fragile Panes | 10.00% | ~2,183 |
+| Rivalry | 10.00% | ~2,183 |
 | Surprise! | 9.00% | ~1,964 |
 | Whoopsie | 9.00% | ~1,964 |
-| Master Collector | 7.00% | ~1,527 |
-| Rift Seeker | 7.00% | ~1,527 |
-| Therapeutic | 7.00% | ~1,527 |
+| Master Collector | 7.00% | ~1,528 |
+| Rift Seeker | 7.00% | ~1,528 |
+| Therapeutic | 7.00% | ~1,528 |
 | Ghost Expert | 3.00% | ~655 |
 | Ultimate Defense | 3.00% | ~655 |
-| Catostrophic Destroyer | 2.00% | ~436 |
-| Line em' up | 2.00% | ~436 |
-| Little Help Here | 2.00% | ~436 |
+| Catostrophic Destroyer | 2.00% | ~437 |
+| Line em' up | 2.00% | ~437 |
+| Little Help Here | 2.00% | ~437 |
 | I don't need these | 1.00% | ~218 |
 | Mycophile | 1.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,821 (Ranked 89)  
+Progressed: 21,826 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 39 (0.18%) (Ranked 142)
 | 2023-05-12 | 21,723 | 39 |
 | 2023-05-13 | 21,764 | 39 |
 | 2023-05-14 | 21,803 | 39 |
-| 2023-05-15 | 21,821 | 39 |
+| 2023-05-15 | 21,826 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
 Sum: 2,067 (Ranked 184)  

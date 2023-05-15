@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1028,
+  "EOS_Progressed": 1030,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1637,6 +1637,11 @@
       "Time": "2023-05-15T18:05:12.2259547+00:00",
       "NumProgressed": 1028,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T19:06:09.5793366+00:00",
+      "NumProgressed": 1030,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1736,7 +1741,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "doingmypart",
@@ -1832,7 +1837,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "fourleafclover",
@@ -1846,9 +1851,9 @@
       "ID": "frostfireliberator",
       "SetID": "3nl4bcg",
       "Name": "Frostfire Liberator",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 31
     },
     {
       "ID": "fullparty",
@@ -1856,7 +1861,7 @@
       "Name": "Full Party",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "gearenchanting",
@@ -1880,7 +1885,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "herewegoagain",
@@ -1896,7 +1901,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "howdoyouturnthison",
@@ -1918,9 +1923,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 134
     },
     {
       "ID": "jewelenchanting",
@@ -2040,7 +2045,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "prestigiousx10",
@@ -2104,7 +2109,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "thealchemist",
@@ -2208,7 +2213,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 968
     },
     {
       "ID": "warmachinesarmy",
@@ -2240,14 +2245,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 824
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1028,
+      "Progressed": 1030,
       "Completed": 1
     }
   ],
@@ -2255,8 +2260,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-15T18:05:12.2259536+00:00",
+  "LastChanged_Achievements": "2023-05-15T19:06:09.5793359+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:57:51.7455474+00:00",
-  "LastUpdate_Achievements": "2023-05-15T18:05:12.2260416+00:00"
+  "LastUpdate_Ratings": "2023-05-15T18:58:04.6473715+00:00",
+  "LastUpdate_Achievements": "2023-05-15T19:06:09.5794848+00:00"
 }

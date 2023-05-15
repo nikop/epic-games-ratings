@@ -6,9 +6,9 @@ Rating: 4.55 (Ranked 465)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 2.00% | ~38 |
+| Infinite Growth... | 2.00% | ~38 |
 | Wakey Wakey | 2.00% | ~38 |
 | Sputnik 2049 | 2.00% | ~38 |
-| Infinite Growth... | 1.00% | ~19 |
 | Guy de Borderlands | 1.00% | ~19 |
 | Space Society | 1.00% | ~19 |
 | Ready for a New World | 1.00% | ~19 |
@@ -25,7 +25,7 @@ Rating: 4.55 (Ranked 465)
 | Sightseeing | 0.50% | ~9 |
 | A Hunk of Junk | 0.50% | ~9 |
 | Access Granted | 0.50% | ~9 |
-| BRAWL! | 0.40% | ~8 |
+| BRAWL! | 0.50% | ~9 |
 | Please Make it Stop! | 0.40% | ~8 |
 | From the Past | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 465)
 | Crunch Culture | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,895 (Ranked 146)  
+Progressed: 1,897 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 1,881 | 0 |
 | 2023-05-13 | 1,882 | 0 |
 | 2023-05-14 | 1,892 | 0 |
-| 2023-05-15 | 1,895 | 0 |
+| 2023-05-15 | 1,897 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

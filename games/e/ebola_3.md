@@ -24,13 +24,13 @@
 | Brain ✔ | 6.00% | ~10 |
 | Food ✔ | 6.00% | ~10 |
 | All secrets revealed ✔ | 6.00% | ~10 |
+| Boss 1 ✔ | 5.00% | ~8 |
 | City ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
 | Mutant fight ✔ | 5.00% | ~8 |
 | Fraternal help ✔ | 5.00% | ~8 |
 | City on fire ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
-| Boss 1 ✔ | 4.00% | ~7 |
 | Crocodile Attack ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
 | Rank A ✔ | 4.00% | ~7 |
