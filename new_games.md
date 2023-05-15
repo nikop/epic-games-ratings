@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-15 | 2023-05-15 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-15 | 2023-01-14 |
 | [Flyto](games/f/flyto.md) | 2023-05-15 | 2023-05-15 |
 | [Solargene](games/b/b5cf25c05580437a86a74319dac4f182.md) | 2023-05-14 | 2022-01-30 |

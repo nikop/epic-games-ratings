@@ -22,7 +22,7 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.79% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.31% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.89% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.71% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -398,4 +398,4 @@
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,606 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,607 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

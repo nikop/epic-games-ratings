@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-15 | 2023-05-15 |
 | [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Bus Driver Simulator](games/d/d696915035d84092a02a646f25530ccd.md) | 2023-05-17 | 2019-12-04 |
@@ -8,6 +7,7 @@
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
+| [Without Escape](games/w/without_escape.md) | 2023-05-18 | 2018-04-23 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
@@ -40,6 +40,7 @@
 | [Bob A thousand lives](games/b/bob_a_thousand_lives.md) | 2023-05-31 | 2022-09-06 |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | 2023-05-31 |
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
+| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-31 | 2021-04-30 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-31 | 2016-12-14 |
 | [The Cullfield Ritual](games/t/the_cullfield_ritual.md) | 2023-05-31 | 2023-01-05 |
@@ -338,7 +339,6 @@
 | [Vengeance of Mr. Peppermint](games/v/vengeance_of_mr._peppermint.md) | 2099-01-01 | 2099-01-01 |
 | [Wayfinder](games/w/wayfinder.md) | 2099-01-01 | 2099-01-01 |
 | [Witchfire](games/w/witchfire.md) | 2099-01-01 | 2099-01-01 |
-| [Without Escape](games/w/without_escape.md) | 2099-01-01 | 2018-04-23 |
 | [Wolfsbane](games/w/wolfsbane.md) | 2099-01-01 | 2099-01-01 |
 | [World of Contraptions](games/w/world_of_contraptions.md) | 2099-01-01 | 2022-03-24 |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | 2099-01-01 | 2099-01-01 |

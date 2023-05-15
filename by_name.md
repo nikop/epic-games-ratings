@@ -185,7 +185,7 @@
 | [Atrio: The Dark Wild](games/a/atrio__the_dark_wild.md) | - | - | 0 | - |
 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 501 | 737 | 151 |
 | [Automachef](games/a/automachef.md) | 4.34 | 725 | 27 | 454 |
-| [Aven Colony](games/a/aven_colony.md) | 4.20 | 808 | 119 | 301 |
+| [Aven Colony](games/a/aven_colony.md) | 4.20 | 808 | 120 | 301 |
 | [Avencast - Rise Of The Mage](games/a/avencast_-_rise_of_the_mage.md) | - | - | 0 | - |
 | [Avernum Escape From the Pit](games/a/avernum_escape_from_the_pit.md) | - | - | 0 | - |
 | [Avian Knights](games/a/avian_knights.md) | - | - | - | - |
@@ -289,7 +289,7 @@
 | [Bloodroots](games/b/bloodroots.md) | - | - | 0 | - |
 | [Bloodshore](games/b/bloodshore.md) | - | - | 0 | - |
 | [Bloody Hell Hotel](games/b/bloody_hell_hotel.md) | - | - | - | - |
-| [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 104 | 2,739 | 89 |
+| [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 104 | 2,750 | 89 |
 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | - | - | 0 | - |
 | [Bloxs](games/b/bloxs.md) | - | - | - | - |
 | [Blue Fire](games/b/blue_fire.md) | - | - | 0 | - |
@@ -403,7 +403,7 @@
 | [Chronos Affinity](games/c/chronos_affinity.md) | - | - | - | - |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 857 | 0 | 491 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 836 | 0 | 491 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 291 | 4,447 | 68 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 291 | 4,451 | 68 |
 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 59 | 0 | 491 |
 | [City of Beats](games/c/city_of_beats.md) | - | - | 0 | - |
 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 794 | 0 | 491 |
@@ -1057,6 +1057,7 @@
 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 669 | 0 | 491 |
 | [Ironcast](games/i/ironcast.md) | 3.93 | 895 | 0 | 491 |
 | [Island Cities](games/i/island_cities.md) | - | - | 0 | - |
+| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | - | - | - | - |
 | [Islets](games/i/islets.md) | - | - | 0 | - |
 | [Isonzo](games/i/isonzo.md) | 4.57 | 428 | 30 | 445 |
 | [It follows you](games/i/it_follows_you.md) | - | - | 0 | - |
@@ -1136,7 +1137,7 @@
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 115 | 101 | 321 |
 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 91 | 720 | 153 |
 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 256 | 0 | 491 |
-| [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 490 | 119 | 301 |
+| [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 490 | 119 | 302 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 448 | 69 | 365 |
 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 682 | 0 | 491 |
 | [KITS](games/k/kits.md) | - | - | 0 | - |
@@ -2275,7 +2276,7 @@
 | [Through the Woods](games/t/through_the_woods.md) | - | - | 0 | - |
 | [Thunder Tier One Modding Tool](games/t/thunder_tier_one_modding_tool.md) | - | - | - | - |
 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 352 | 63 | 373 |
-| [Timberborn](games/t/timberborn.md) | 4.72 | 165 | 119 | 301 |
+| [Timberborn](games/t/timberborn.md) | 4.72 | 165 | 119 | 302 |
 | [Time Loader](games/t/time_loader.md) | - | - | 0 | - |
 | [Time on Frog Island](games/t/time_on_frog_island.md) | - | - | 0 | - |
 | [Timelie - Game of the Year Edition](games/t/timelie_-_game_of_the_year_edition.md) | - | - | 0 | - |

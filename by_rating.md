@@ -103,7 +103,7 @@
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,254 | 97 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
 | 99 | [Tchia](games/t/tchia.md) | 4.78 | 0 | 491 |
-| 104 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,739 | 89 |
+| 104 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,750 | 89 |
 | 104 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,751 | 18 |
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,977 | 74 |
 | 104 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 491 |
@@ -176,7 +176,7 @@
 | 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 491 |
 | 165 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 491 |
 | 165 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 491 |
-| 165 | [Timberborn](games/t/timberborn.md) | 4.72 | 119 | 301 |
+| 165 | [Timberborn](games/t/timberborn.md) | 4.72 | 119 | 302 |
 | 178 | [Barony](games/b/barony.md) | 4.71 | 70 | 364 |
 | 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 322 | 216 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 491 |
@@ -291,7 +291,7 @@
 | 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,767 | 56 |
 | 273 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 188 |
 | 291 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 491 |
-| 291 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,447 | 68 |
+| 291 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,451 | 68 |
 | 291 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 411 |
 | 291 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 165 | 278 |
 | 291 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 491 |
@@ -493,7 +493,7 @@
 | 490 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 491 |
 | 490 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,814 | 17 |
 | 490 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 138,616 | 7 |
-| 490 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 301 |
+| 490 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 119 | 302 |
 | 490 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 491 |
 | 490 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 470 |
 | 490 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 333 |
@@ -808,7 +808,7 @@
 | 802 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,149 | 26 |
 | 802 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 491 |
 | 808 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 300 |
-| 808 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 301 |
+| 808 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 120 | 301 |
 | 808 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 491 |
 | 808 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.20 | 0 | 491 |
 | 808 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 474 |
