@@ -22,7 +22,7 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.94% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.93% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.71% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -64,8 +64,8 @@
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
-| 64 | [Them and Us](games/t/them_and_us.md) | 1.69% |
-| 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 65 | [Them and Us](games/t/them_and_us.md) | 1.67% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
 | 68 | [Somerville](games/s/somerville.md) | 1.61% |
 | 69 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |

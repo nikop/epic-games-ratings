@@ -59,7 +59,6 @@
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 491 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 346 |
 | 59 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 491 |
-| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,291 | 119 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,485 | 58 |
 | 59 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 491 |
 | 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 491 |
@@ -70,13 +69,14 @@
 | 59 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 389 | 203 |
 | 59 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 427 |
 | 59 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.82 | 0 | 491 |
-| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 193 |
-| 71 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 435 |
-| 71 | [Journey](games/j/journey.md) | 4.81 | 0 | 491 |
-| 71 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 491 |
-| 71 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 124 | 299 |
-| 71 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 191 | 262 |
-| 71 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 491 |
+| 70 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 193 |
+| 70 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,291 | 119 |
+| 70 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 435 |
+| 70 | [Journey](games/j/journey.md) | 4.81 | 0 | 491 |
+| 70 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 491 |
+| 70 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 124 | 299 |
+| 70 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 191 | 262 |
+| 70 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 491 |
 | 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 348 | 211 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,262 | 51 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 281 |
@@ -264,7 +264,7 @@
 | 256 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 491 |
 | 256 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 0 | 491 |
 | 256 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 491 |
-| 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,217 | 98 |
+| 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,218 | 98 |
 | 256 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 312 |
 | 256 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 491 |
 | 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 491 |
@@ -644,7 +644,7 @@
 | 642 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 379 |
 | 642 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
 | 642 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 184 | 264 |
-| 642 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,921 | 28 |
+| 642 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,926 | 28 |
 | 642 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 0 | 491 |
 | 642 | [MORDHAU](games/m/mordhau.md) | 4.42 | 116 | 306 |
 | 642 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,113 | 127 |
