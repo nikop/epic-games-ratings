@@ -111,6 +111,7 @@
 | [Total Reload](games/t/total_reload.md) | 2023-09-30 | 2023-09-30 |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | 2023-09-30 |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 2022-06-03 |
+| [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2023-10-13 | 2023-10-13 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 2023-10-19 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | 2023-11-30 |
 | [The Crust](games/t/the_crust.md) | 2023-11-30 | 2023-11-30 |
