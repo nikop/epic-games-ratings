@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 491 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 491 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,446 | 115 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,044 | 87 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,049 | 87 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 485 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 491 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 491 |
@@ -366,12 +366,12 @@
 | 352 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 350 | 210 |
 | 352 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 491 |
 | 352 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 491 |
-| 352 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,085 | 128 |
+| 352 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,087 | 128 |
 | 352 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 491 |
 | 352 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,474 | 91 |
 | 352 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 607 | 163 |
 | 352 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 414 | 195 |
-| 352 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,073 | 36 |
+| 352 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,080 | 36 |
 | 352 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 268 | 233 |
 | 352 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 491 |
 | 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,610 | 40 |
@@ -613,7 +613,7 @@
 | 603 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 851 | 143 |
 | 603 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 47 | 395 |
 | 603 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 491 |
-| 603 | [SMITE](games/s/smite.md) | 4.45 | 3,752 | 76 |
+| 603 | [SMITE](games/s/smite.md) | 4.45 | 3,757 | 76 |
 | 603 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 491 |
 | 603 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 528 | 180 |
 | 603 | [STG Football](games/s/stg_football.md) | 4.45 | 37 | 418 |
@@ -629,18 +629,18 @@
 | 622 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 491 |
 | 622 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 491 |
 | 622 | [Predecessor](games/p/predecessor.md) | 4.44 | 80 | 347 |
+| 622 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 491 |
 | 622 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 491 |
 | 622 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 491 |
 | 622 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 491 |
 | 622 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 326 |
 | 622 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 491 |
 | 622 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
-| 636 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 29 | 449 |
-| 636 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 491 |
-| 636 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 491 |
-| 636 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 369 |
-| 636 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 228 |
-| 636 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,053 | 130 |
+| 637 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 29 | 449 |
+| 637 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 491 |
+| 637 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 369 |
+| 637 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 228 |
+| 637 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,053 | 130 |
 | 642 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 379 |
 | 642 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
 | 642 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 184 | 264 |
@@ -721,7 +721,7 @@
 | 716 | [Encased](games/e/encased.md) | 4.35 | 126 | 297 |
 | 716 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 257 |
 | 716 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 491 |
-| 716 | [Paladins](games/p/paladins.md) | 4.35 | 3,219 | 83 |
+| 716 | [Paladins](games/p/paladins.md) | 4.35 | 3,224 | 83 |
 | 716 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 414 |
 | 724 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 491 |
 | 724 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 454 |
@@ -753,21 +753,21 @@
 | 751 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 491 |
 | 751 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 491 |
 | 751 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 935 | 140 |
-| 754 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 491 |
-| 754 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 491 |
-| 754 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 491 |
-| 754 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 491 |
-| 754 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,597 | 78 |
-| 754 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 170 | 274 |
-| 760 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 491 |
-| 760 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 491 |
-| 760 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,311,450 | 1 |
-| 760 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 682 | 157 |
-| 760 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 407 |
-| 760 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 130 | 293 |
-| 760 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.29 | 0 | 491 |
-| 760 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.29 | 0 | 491 |
-| 760 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 491 |
+| 751 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.31 | 0 | 491 |
+| 755 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 491 |
+| 755 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 491 |
+| 755 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 491 |
+| 755 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 491 |
+| 755 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,597 | 78 |
+| 755 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 170 | 274 |
+| 761 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 491 |
+| 761 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 491 |
+| 761 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,311,450 | 1 |
+| 761 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 682 | 157 |
+| 761 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 407 |
+| 761 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 130 | 293 |
+| 761 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.29 | 0 | 491 |
+| 761 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 491 |
 | 769 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 491 |
 | 769 | [RAGE 2](games/r/rage_2.md) | 4.28 | 2,442 | 92 |
 | 769 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 125 | 298 |

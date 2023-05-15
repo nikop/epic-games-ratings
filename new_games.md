@@ -151,4 +151,3 @@
 | [The Dawning Clocks of Time](games/t/the_dawning_clocks_of_time.md) | 2023-04-16 | 2021-09-08 |
 | [Soar](games/s/soar.md) | 2023-04-16 | 2023-04-24 |
 | [Cats Yakuza - Online card game](games/c/cats_yakuza_-_online_card_game.md) | 2023-04-15 | 2022-07-29 |
-| [The Ultimate Trivia Challenge](games/t/the_ultimate_trivia_challenge.md) | 2023-04-14 | 2017-10-27 |
