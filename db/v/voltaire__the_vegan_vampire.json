@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
     {
       "Time": "2023-05-03T20:03:41.1203986+00:00",
       "NumProgressed": 75,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T07:05:00.3604959+00:00",
+      "NumProgressed": 76,
       "NumCompleted": 0
     }
   ],
@@ -81,7 +86,7 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 35
     },
@@ -91,7 +96,7 @@
       "Name": "Good to grow",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "FISH",
@@ -131,7 +136,7 @@
       "Name": "So it begins",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "HUNTING",
@@ -209,7 +214,7 @@
       "ID": "KILL_SKULLY",
       "SetID": "3c20ib3",
       "Name": "Night Shift",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -281,7 +286,7 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -289,7 +294,7 @@
       "ID": "UNLOCK_WELL",
       "SetID": "3c20ib3",
       "Name": "Irrigation not irritation",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -306,7 +311,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 0
     }
   ],
@@ -314,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-05-15T06:05:56.370067+00:00",
+  "LastChanged_Achievements": "2023-05-15T07:05:00.3604954+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.6985935+00:00",
-  "LastUpdate_Ratings": "2023-05-15T05:57:21.6968891+00:00",
-  "LastUpdate_Achievements": "2023-05-15T06:05:56.3700901+00:00"
+  "LastUpdate_Ratings": "2023-05-15T06:57:19.6284607+00:00",
+  "LastUpdate_Achievements": "2023-05-15T07:05:00.3605139+00:00"
 }

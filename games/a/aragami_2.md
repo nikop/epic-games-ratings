@@ -6,12 +6,12 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~29,842 |
-| First Steps | 81.00% | ~26,274 |
-| Control the Shadows | 68.00% | ~22,057 |
-| Tools of the Trade | 63.00% | ~20,435 |
-| Apprentice | 60.00% | ~19,462 |
-| Secret Seeker | 57.00% | ~18,489 |
+| Awakening | 92.00% | ~29,843 |
+| First Steps | 81.00% | ~26,275 |
+| Control the Shadows | 68.00% | ~22,058 |
+| Tools of the Trade | 63.00% | ~20,436 |
+| Apprentice | 60.00% | ~19,463 |
+| Secret Seeker | 57.00% | ~18,490 |
 | Forge of Assassins | 56.00% | ~18,165 |
 | Revenant | 51.00% | ~16,543 |
 | I don’t Care! | 45.00% | ~14,597 |
@@ -22,7 +22,7 @@ Number of Ratings: 88  (23.09.2022)
 | Apex Predator | 24.00% | ~7,785 |
 | Soul Reaver | 22.00% | ~7,136 |
 | Embers | 21.00% | ~6,812 |
-| Wall Lizard | 20.00% | ~6,487 |
+| Wall Lizard | 20.00% | ~6,488 |
 | Clinging to Life | 18.00% | ~5,839 |
 | Burning | 17.00% | ~5,514 |
 | Look Behind You | 16.00% | ~5,190 |
@@ -41,9 +41,9 @@ Number of Ratings: 88  (23.09.2022)
 | Pilgrimage | 7.00% | ~2,271 |
 | The Lookout | 5.00% | ~1,622 |
 | The Spirit of Vengeance | 5.00% | ~1,622 |
-| Left Behind | 4.00% | ~1,297 |
-| Secrets of the Earth | 4.00% | ~1,297 |
-| Hollow | 4.00% | ~1,297 |
+| Left Behind | 4.00% | ~1,298 |
+| Secrets of the Earth | 4.00% | ~1,298 |
+| Hollow | 4.00% | ~1,298 |
 | The Lion’s Den | 3.00% | ~973 |
 | Heart of Fire | 3.00% | ~973 |
 | Forest Spirits | 3.00% | ~973 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~324 |
 | Anger Management | 1.00% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,437 (Ranked 82)  
+Progressed: 32,438 (Ranked 82)  
 Completed: 154 (0.47%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 154 (0.47%) (Ranked 106)
 | 2023-05-12 | 32,245 | 151 |
 | 2023-05-13 | 32,328 | 153 |
 | 2023-05-14 | 32,410 | 154 |
-| 2023-05-15 | 32,437 | 154 |
+| 2023-05-15 | 32,438 | 154 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

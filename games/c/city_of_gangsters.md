@@ -5,16 +5,16 @@ Rating: 4.26 (Ranked 776)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~143,767 |
-| Copacetic Coordination | 16.00% | ~50,006 |
-| Fronting the Money | 14.00% | ~43,755 |
-| The Dawn of Automation | 14.00% | ~43,755 |
-| Extraordinary Logistics | 14.00% | ~43,755 |
+| Corner Clout | 46.00% | ~143,769 |
+| Copacetic Coordination | 16.00% | ~50,007 |
+| Fronting the Money | 14.00% | ~43,756 |
+| The Dawn of Automation | 14.00% | ~43,756 |
+| Extraordinary Logistics | 14.00% | ~43,756 |
 | Family First | 13.00% | ~40,630 |
-| Cleaning House | 12.00% | ~37,504 |
-| Room in the Back | 12.00% | ~37,504 |
-| Dirty Money | 12.00% | ~37,504 |
-| Booze Baron | 11.00% | ~34,379 |
+| Cleaning House | 12.00% | ~37,505 |
+| Room in the Back | 12.00% | ~37,505 |
+| Dirty Money | 12.00% | ~37,505 |
+| Booze Baron | 11.00% | ~34,380 |
 | Beating the Heat | 10.00% | ~31,254 |
 | Friends on the Force | 10.00% | ~31,254 |
 | Neighborhood Watch | 10.00% | ~31,254 |
@@ -36,11 +36,11 @@ Rating: 4.26 (Ranked 776)
 | Mission Mastery | 5.00% | ~15,627 |
 | Wise Head | 5.00% | ~15,627 |
 | Killing Them Softly | 5.00% | ~15,627 |
-| Considerable Clams | 4.00% | ~12,501 |
-| Gin Joint | 4.00% | ~12,501 |
-| An Affront to the Enemy | 4.00% | ~12,501 |
-| Friends from Back Home | 4.00% | ~12,501 |
-| Half Century Mark | 4.00% | ~12,501 |
+| Considerable Clams | 4.00% | ~12,502 |
+| Gin Joint | 4.00% | ~12,502 |
+| An Affront to the Enemy | 4.00% | ~12,502 |
+| Friends from Back Home | 4.00% | ~12,502 |
+| Half Century Mark | 4.00% | ~12,502 |
 | Corner Opportunities | 3.00% | ~9,376 |
 | 2122 North Clark Street | 3.00% | ~9,376 |
 | Copious Cabbage | 3.00% | ~9,376 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 776)
 | High Pillow | 0.10% | ~313 |
 | Station Master | 0.10% | ~313 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,536 (Ranked 37)  
+Progressed: 312,541 (Ranked 37)  
 Completed: 3 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 3 (0.00%) (Ranked 199)
 | 2023-05-12 | 311,653 | 3 |
 | 2023-05-13 | 312,059 | 3 |
 | 2023-05-14 | 312,468 | 3 |
-| 2023-05-15 | 312,536 | 3 |
+| 2023-05-15 | 312,541 | 3 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 466)  
 Sum: 87 (Ranked 404)  

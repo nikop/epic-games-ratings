@@ -5739,10 +5739,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 168413,
       "NumberOfAwardsMax": 64220
+    },
+    {
+      "Time": "2023-05-15T06:57:33.4631304+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 168437,
+      "NumberOfAwardsMax": 64220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 168413,
+  "NumberOfAwards": 168437,
   "NumberOfAwardsMax": 64220,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5762,7 +5768,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7363
+      "Count": 7387
     },
     {
       "Text": "This game is Relaxing",
@@ -5819,7 +5825,7 @@
       "Count": 4715
     }
   ],
-  "EOS_Progressed": 799728,
+  "EOS_Progressed": 799730,
   "EOS_Completed": 1595,
   "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 18,
@@ -8109,6 +8115,11 @@
       "Time": "2023-05-15T06:05:45.3001232+00:00",
       "NumProgressed": 799728,
       "NumCompleted": 1595
+    },
+    {
+      "Time": "2023-05-15T07:04:52.2736949+00:00",
+      "NumProgressed": 799730,
+      "NumCompleted": 1595
     }
   ],
   "TotalAchievements": 44,
@@ -8136,7 +8147,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 119959
+      "UsersEstimate": 119960
     },
     {
       "ID": "Cyberjunkie",
@@ -8152,7 +8163,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295899
+      "UsersEstimate": 295900
     },
     {
       "ID": "FollowingTheRiver",
@@ -8240,7 +8251,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175940
+      "UsersEstimate": 175941
     },
     {
       "ID": "MaxPain",
@@ -8288,7 +8299,7 @@
       "Name": "Life of the Road",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 151948
+      "UsersEstimate": 151949
     },
     {
       "ID": "Roleplayer",
@@ -8336,7 +8347,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535818
+      "UsersEstimate": 535819
     },
     {
       "ID": "TheHermit",
@@ -8344,7 +8355,7 @@
       "Name": "The Hermit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 183937
+      "UsersEstimate": 183938
     },
     {
       "ID": "TheHightPriestess",
@@ -8360,7 +8371,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255913
+      "UsersEstimate": 255914
     },
     {
       "ID": "TheStar",
@@ -8392,7 +8403,7 @@
       "Name": "The World",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 127956
+      "UsersEstimate": 127957
     },
     {
       "ID": "ThisIsPacifica",
@@ -8416,7 +8427,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175940
+      "UsersEstimate": 175941
     },
     {
       "ID": "TrueWarrior",
@@ -8471,15 +8482,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799728,
+      "Progressed": 799730,
       "Completed": 1595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-15T02:57:46.4045571+00:00",
-  "LastChanged_Achievements": "2023-05-15T06:05:45.3001226+00:00",
+  "LastChanged": "2023-05-15T06:57:33.4631302+00:00",
+  "LastChanged_Achievements": "2023-05-15T07:04:52.2736943+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.285145+00:00",
-  "LastUpdate_Ratings": "2023-05-15T05:57:42.6641736+00:00",
-  "LastUpdate_Achievements": "2023-05-15T06:05:45.3001849+00:00"
+  "LastUpdate_Ratings": "2023-05-15T06:57:33.4631308+00:00",
+  "LastUpdate_Achievements": "2023-05-15T07:04:52.2737332+00:00"
 }

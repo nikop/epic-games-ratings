@@ -6,9 +6,9 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,258 |
-| Into the Unknown | 8.00% | ~43,785 |
-| First Shot | 8.00% | ~43,785 |
+| You Never Forget Your First... | 9.00% | ~49,259 |
+| Into the Unknown | 8.00% | ~43,786 |
+| First Shot | 8.00% | ~43,786 |
 | Herzlich Wilkommen! | 7.00% | ~38,312 |
 | Sancho Panza | 7.00% | ~38,312 |
 | Good Night & Good Luck | 7.00% | ~38,312 |
@@ -21,19 +21,19 @@ Number of Ratings: 7,305  (23.09.2022)
 | Get Outta My House! | 5.00% | ~27,366 |
 | It Wasn't That Hard, Was It? | 5.00% | ~27,366 |
 | Being All Social | 5.00% | ~27,366 |
-| Debris and Ashes | 4.00% | ~21,892 |
-| We Will Be Heard! | 4.00% | ~21,892 |
-| Known Associate | 4.00% | ~21,892 |
-| Brush with Death | 4.00% | ~21,892 |
-| Going Down | 4.00% | ~21,892 |
-| Family First | 4.00% | ~21,892 |
-| Your World, Your Rules | 4.00% | ~21,892 |
-| Tunnel Entrance | 4.00% | ~21,892 |
-| After the Fall | 4.00% | ~21,892 |
-| Can't Touch This! | 4.00% | ~21,892 |
-| Death From Afar | 3.00% | ~16,419 |
-| Terminal Headache | 3.00% | ~16,419 |
-| Slowpoke! | 3.00% | ~16,419 |
+| Debris and Ashes | 4.00% | ~21,893 |
+| We Will Be Heard! | 4.00% | ~21,893 |
+| Known Associate | 4.00% | ~21,893 |
+| Brush with Death | 4.00% | ~21,893 |
+| Going Down | 4.00% | ~21,893 |
+| Family First | 4.00% | ~21,893 |
+| Your World, Your Rules | 4.00% | ~21,893 |
+| Tunnel Entrance | 4.00% | ~21,893 |
+| After the Fall | 4.00% | ~21,893 |
+| Can't Touch This! | 4.00% | ~21,893 |
+| Death From Afar | 3.00% | ~16,420 |
+| Terminal Headache | 3.00% | ~16,420 |
+| Slowpoke! | 3.00% | ~16,420 |
 | Tickets, Please! | 2.00% | ~10,946 |
 | Parkour Master | 2.00% | ~10,946 |
 | Combat Master | 2.00% | ~10,946 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~5,473 |
 | Nemesis | 1.00% | ~1,928 |
 | Enter the Hall | 0.90% | ~1,735 |
-| That's Teamwork! | 0.80% | ~4,378 |
-| Fit as a Fiddle | 0.80% | ~4,378 |
+| That's Teamwork! | 0.80% | ~4,379 |
+| Fit as a Fiddle | 0.80% | ~4,379 |
 | Night of Terrors | 0.80% | ~1,542 |
 | Find Anything Interesting? | 0.70% | ~3,831 |
 | Boot Licker | 0.70% | ~3,831 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,311 (Ranked 22)  
+Progressed: 547,320 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 46 (0.01%) (Ranked 191)
 | 2023-05-12 | 545,860 | 46 |
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
-| 2023-05-15 | 547,311 | 46 |
+| 2023-05-15 | 547,320 | 46 |
 ## Awards
 Max (Character Customization): 7,052  (Ranked 44)  
 Sum: 16,364 (Ranked 58)  

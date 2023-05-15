@@ -7,19 +7,19 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 69.00% | ~3,654 |
-| Leader | 60.00% | ~3,177 |
-| Explorer | 53.00% | ~2,806 |
-| Healer | 53.00% | ~2,806 |
+| Leader | 60.00% | ~3,178 |
+| Explorer | 53.00% | ~2,807 |
+| Healer | 53.00% | ~2,807 |
 | Aspiring Inventor | 45.00% | ~2,383 |
 | Adventurer | 41.00% | ~2,171 |
 | Famous Healer | 38.00% | ~2,012 |
-| Local Leader | 35.00% | ~1,853 |
-| New Opportunities | 34.00% | ~1,800 |
-| Famous Explorer | 33.00% | ~1,747 |
-| Energized | 33.00% | ~1,747 |
-| The Long Haul | 33.00% | ~1,747 |
-| Survivor | 31.00% | ~1,641 |
-| The Great Healer | 30.00% | ~1,588 |
+| Local Leader | 35.00% | ~1,854 |
+| New Opportunities | 34.00% | ~1,801 |
+| Famous Explorer | 33.00% | ~1,748 |
+| Energized | 33.00% | ~1,748 |
+| The Long Haul | 33.00% | ~1,748 |
+| Survivor | 31.00% | ~1,642 |
+| The Great Healer | 30.00% | ~1,589 |
 | Cleaner | 28.00% | ~1,483 |
 | Catastrofan | 28.00% | ~1,483 |
 | Legendary Explorer | 27.00% | ~1,430 |
@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 14.00% | ~741 |
 | Famous Adventurer | 13.00% | ~688 |
 | Prepared for Anything | 13.00% | ~688 |
-| Big Catastrofan | 12.00% | ~635 |
+| Big Catastrofan | 12.00% | ~636 |
 | It's a Finnish Thing | 10.00% | ~530 |
 | Sky Burial | 9.00% | ~477 |
 | Trader | 8.00% | ~424 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,295 (Ranked 120)  
+Progressed: 5,296 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 5,192 | 0 |
 | 2023-05-13 | 5,242 | 0 |
 | 2023-05-14 | 5,285 | 0 |
-| 2023-05-15 | 5,295 | 0 |
+| 2023-05-15 | 5,296 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 268)  

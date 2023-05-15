@@ -3712,9 +3712,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87562,
+  "EOS_Progressed": 87564,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 732,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5982,6 +5982,11 @@
       "Time": "2023-05-15T06:06:42.6839495+00:00",
       "NumProgressed": 87562,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T07:05:35.9307584+00:00",
+      "NumProgressed": 87564,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6791,9 +6796,9 @@
       "ID": "objective_completed_1185",
       "SetID": "415jc5c",
       "Name": "Frail Doesn\u0027t Mean Broken",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_completed_1188",
@@ -9904,21 +9909,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53836,
+      "Progressed": 53838,
       "Completed": 2508
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87562,
+      "Progressed": 87564,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T05:58:07.290414+00:00",
-  "LastChanged_Achievements": "2023-05-15T06:06:42.6839488+00:00",
+  "LastChanged_Achievements": "2023-05-15T07:05:35.930758+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T05:58:07.2904148+00:00",
-  "LastUpdate_Achievements": "2023-05-15T06:06:42.6867173+00:00"
+  "LastUpdate_Ratings": "2023-05-15T06:57:50.4789048+00:00",
+  "LastUpdate_Achievements": "2023-05-15T07:05:35.9328663+00:00"
 }

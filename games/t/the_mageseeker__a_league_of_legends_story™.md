@@ -29,8 +29,8 @@ Rating: 4.72 (Ranked 165)
 | Sacred Woods | 21.00% | ~419 |
 | Capelworth | 19.00% | ~379 |
 | Little light | 18.00% | ~359 |
+| Glyndemere | 18.00% | ~359 |
 | Iffighain Headquarters | 18.00% | ~359 |
-| Glyndemere | 17.00% | ~339 |
 | Full equipped | 17.00% | ~339 |
 | Whispers in the Woods II | 15.00% | ~299 |
 | No more holding back | 14.00% | ~279 |

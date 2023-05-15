@@ -4,7 +4,7 @@
   "ProductSlug": "eternal-d70f99",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-02-07T15:30:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.9399861+00:00",
   "LastChanged": "2023-03-31T05:58:25.9399863+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:37.3080311+00:00",
-  "LastUpdate_Ratings": "2023-05-15T05:58:58.7561823+00:00",
-  "LastUpdate_Achievements": "2023-05-15T06:03:45.4574175+00:00"
+  "LastUpdate_Ratings": "2023-05-15T06:58:25.05501+00:00",
+  "LastUpdate_Achievements": "2023-05-15T07:03:18.9471854+00:00"
 }
