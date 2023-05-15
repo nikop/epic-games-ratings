@@ -1073,9 +1073,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118425,
+  "EOS_Progressed": 118426,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3048,6 +3048,11 @@
       "Time": "2023-05-15T13:12:34.4855805+00:00",
       "NumProgressed": 118425,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-15T14:05:31.772974+00:00",
+      "NumProgressed": 118426,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -3091,7 +3096,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21316
+      "UsersEstimate": 21317
     },
     {
       "ID": "ACH_COP_BAD",
@@ -3099,7 +3104,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "ACH_COP_BORING",
@@ -3179,7 +3184,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -3211,7 +3216,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "ACH_DOLORES",
@@ -3347,7 +3352,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -3378,15 +3383,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118425,
+      "Progressed": 118426,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-10T10:59:21.1666605+00:00",
-  "LastChanged_Achievements": "2023-05-15T13:12:34.4855799+00:00",
+  "LastChanged_Achievements": "2023-05-15T14:05:31.7729735+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:59.3627353+00:00",
-  "LastUpdate_Ratings": "2023-05-15T13:06:10.6952824+00:00",
-  "LastUpdate_Achievements": "2023-05-15T13:12:34.485622+00:00"
+  "LastUpdate_Ratings": "2023-05-15T13:59:05.8707798+00:00",
+  "LastUpdate_Achievements": "2023-05-15T14:05:31.773007+00:00"
 }

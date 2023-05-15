@@ -64,7 +64,7 @@
   "Tags": [],
   "EOS_Progressed": 1023,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1826,9 +1826,9 @@
       "ID": "frostfireliberator",
       "SetID": "3nl4bcg",
       "Name": "Frostfire Liberator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "fullparty",
@@ -1898,9 +1898,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 143
     },
     {
       "ID": "jewelenchanting",
@@ -2202,9 +2202,9 @@
       "ID": "weeklyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Weekly Quest Completionist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "whatliesbehindthebush",
@@ -2235,8 +2235,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-15T13:12:29.7882923+00:00",
+  "LastChanged_Achievements": "2023-05-15T14:05:26.4006728+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-15T13:05:18.2054636+00:00",
-  "LastUpdate_Achievements": "2023-05-15T13:12:29.7883679+00:00"
+  "LastUpdate_Ratings": "2023-05-15T13:57:59.0077321+00:00",
+  "LastUpdate_Achievements": "2023-05-15T14:05:26.4007392+00:00"
 }

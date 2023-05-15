@@ -15,9 +15,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bully for Vecna | 0.90% | ~485 |
 | The Mad Wizard | 0.90% | ~788 |
 | The Ring of Regeneration | 0.70% | ~613 |
-| Were-verpowered | 0.60% | ~525 |
-| Seeking Allies | 0.60% | ~525 |
-| Are Ya Chicken? | 0.60% | ~525 |
+| Were-verpowered | 0.60% | ~526 |
+| Seeking Allies | 0.60% | ~526 |
+| Are Ya Chicken? | 0.60% | ~526 |
 | A Persistent Buzzing | 0.50% | ~438 |
 | Mad Cow Disease | 0.50% | ~438 |
 | Friendly Imps | 0.50% | ~438 |
@@ -137,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.20% | ~175 |
 | Lobsterfolk Assault | 0.20% | ~175 |
 | The Minions of Endelyn Moongrave | 0.20% | ~108 |
+| Love Unsoiled | 0.20% | ~108 |
 | The Bitter End | 0.20% | ~108 |
 | Welcome to the Rock | 0.20% | ~108 |
 | The Forbidden City | 0.20% | ~175 |
@@ -267,6 +268,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Today | 0.20% | ~108 |
 | Sunblight | 0.20% | ~108 |
 | Fortress Assault | 0.20% | ~108 |
+| Hats off to you! | 0.20% | ~108 |
 | The Bleeding Citadel | 0.20% | ~108 |
 | Idyllglen | 0.20% | ~108 |
 | The Radiant Nightmare | 0.20% | ~108 |
@@ -326,7 +328,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wagon Train | 0.10% | ~88 |
 | Taking Responsibility | 0.10% | ~88 |
 | Between a Brigganock and a Hard Place | 0.10% | ~54 |
-| Love Unsoiled | 0.10% | ~54 |
 | The Play's the Thing! | 0.10% | ~54 |
 | A Nimble Approach | 0.10% | ~54 |
 | The Palace of Heart's Desire | 0.10% | ~54 |
@@ -455,7 +456,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Neutral Party | 0.10% | ~54 |
 | Relentless Peril | 0.10% | ~54 |
 | Rickety Rubble | 0.10% | ~54 |
-| Hats off to you! | 0.10% | ~54 |
 | It's Cold Out There Every Day | 0.10% | ~54 |
 | Don't Pick at the Scab | 0.10% | ~54 |
 | Going To Eleven | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,580 (Ranked 59)  
+Progressed: 87,587 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,580 | 1,843 |
+| 2023-05-15 | 87,587 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

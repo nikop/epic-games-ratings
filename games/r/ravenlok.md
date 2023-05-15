@@ -38,16 +38,16 @@
 | Stardust | 32.00% | ~205 |
 | Heartbreaker | 32.00% | ~205 |
 | Kidnapped! | 32.00% | ~205 |
+| Trick Question! | 31.00% | ~198 |
 | Pull the Plug | 30.00% | ~192 |
 | Soul Slayer | 30.00% | ~192 |
 | All Heart | 30.00% | ~192 |
-| Trick Question! | 30.00% | ~192 |
 | The Downfall | 29.00% | ~186 |
 | Extraordinary! | 29.00% | ~186 |
 | Final Showdown | 29.00% | ~186 |
 | Spot of Tea? | 29.00% | ~186 |
 | Going Home | 29.00% | ~186 |
-| Mirror, Mirror | 27.00% | ~173 |
+| Mirror, Mirror | 28.00% | ~179 |
 | Flower Power | 25.00% | ~160 |
 | Crowned | 22.00% | ~141 |
 | Shopping Spree! | 21.00% | ~134 |

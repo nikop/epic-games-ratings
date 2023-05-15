@@ -16,7 +16,7 @@ Rating: 4.74 (Ranked 140)
 | A Sea of Promises | 60.00% | ~6,163 |
 | Tales and Revelations | 56.00% | ~5,752 |
 | Bloodline | 52.00% | ~5,341 |
-| The Cradle of Centuries | 47.00% | ~4,827 |
+| The Cradle of Centuries | 48.00% | ~4,930 |
 | The Life We Deserve | 45.00% | ~4,622 |
 | Night guard | 43.00% | ~4,417 |
 | Nothing Left | 38.00% | ~3,903 |

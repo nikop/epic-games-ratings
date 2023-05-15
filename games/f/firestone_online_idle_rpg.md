@@ -15,8 +15,8 @@ Rating: 3.64 (Ranked 917)
 | The game is on | 17.00% | ~174 |
 | Dragon Clicker | 15.00% | ~153 |
 | Exotic Merchant | 15.00% | ~153 |
+| Inspection | 14.00% | ~143 |
 | Miner Clicker | 14.00% | ~143 |
-| Inspection | 13.00% | ~133 |
 | Full Party | 12.00% | ~123 |
 | Hero inspection | 12.00% | ~123 |
 | Lieutenant | 10.00% | ~102 |
@@ -29,10 +29,10 @@ Rating: 3.64 (Ranked 917)
 | Scientist | 6.00% | ~61 |
 | Daily Quest Completionist | 5.00% | ~51 |
 | Challenger | 4.00% | ~41 |
+| Frostfire Liberator | 4.00% | ~41 |
 | Hunter | 4.00% | ~41 |
 | Milestone collector | 4.00% | ~41 |
 | Background Story | 3.00% | ~31 |
-| Frostfire Liberator | 3.00% | ~31 |
 | Here We Go Again | 3.00% | ~31 |
 | Mastery | 3.00% | ~31 |
 | Moving Up The Ladder | 3.00% | ~31 |
@@ -45,6 +45,7 @@ Rating: 3.64 (Ranked 917)
 | Missions Dedication | 2.00% | ~20 |
 | The father of Dragons | 2.00% | ~20 |
 | Trader | 2.00% | ~20 |
+| Weekly Quest Completionist | 2.00% | ~20 |
 | What lies behind the bush | 2.00% | ~20 |
 | Dragon Slayer | 1.00% | ~10 |
 | Engineer Mastery | 1.00% | ~10 |
@@ -52,7 +53,6 @@ Rating: 3.64 (Ranked 917)
 | Lock And Load | 1.00% | ~10 |
 | Master Enchanter | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
-| Weekly Quest Completionist | 1.00% | ~10 |
 | Active Member | 0.90% | ~9 |
 | Blueprint Upgrades | 0.70% | ~7 |
 | Crystal Mining | 0.70% | ~7 |

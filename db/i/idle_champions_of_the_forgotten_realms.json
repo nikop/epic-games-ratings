@@ -3712,9 +3712,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87580,
+  "EOS_Progressed": 87587,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6012,6 +6012,11 @@
       "Time": "2023-05-15T13:12:55.9177164+00:00",
       "NumProgressed": 87580,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T14:05:56.6920272+00:00",
+      "NumProgressed": 87587,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6887,7 +6892,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "objective_completed_1203",
@@ -7045,9 +7050,9 @@
       "ID": "objective_completed_1330",
       "SetID": "415jc5c",
       "Name": "Love Unsoiled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_1331",
@@ -7815,7 +7820,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "objective_completed_390",
@@ -7887,7 +7892,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "objective_completed_40",
@@ -9429,9 +9434,9 @@
       "ID": "objective_completed_834",
       "SetID": "415jc5c",
       "Name": "Hats off to you!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_835",
@@ -9934,21 +9939,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53854,
+      "Progressed": 53861,
       "Completed": 2510
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87580,
+      "Progressed": 87587,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T05:58:07.290414+00:00",
-  "LastChanged_Achievements": "2023-05-15T13:12:55.9177157+00:00",
+  "LastChanged_Achievements": "2023-05-15T14:05:56.6920268+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T13:05:20.3342811+00:00",
-  "LastUpdate_Achievements": "2023-05-15T13:12:55.9203811+00:00"
+  "LastUpdate_Ratings": "2023-05-15T13:58:01.6882857+00:00",
+  "LastUpdate_Achievements": "2023-05-15T14:05:56.6941619+00:00"
 }

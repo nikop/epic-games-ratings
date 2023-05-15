@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 530)  
+Rating: 4.50 (Ranked 531)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Careful planning | 39.00% | ~178,646 |
 | Second Coming | 33.00% | ~151,162 |
 | Jeef Skagg | 30.00% | ~137,420 |
-| Mother | 25.00% | ~114,516 |
+| Mother | 25.00% | ~114,517 |
 | In space, no one can hear you scream | 23.00% | ~105,355 |
 | Chapter I: Echoes | 22.00% | ~100,775 |
 | Excelsior Rule | 22.00% | ~100,775 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,066 (Ranked 28)  
+Progressed: 458,067 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 14 (0.00%) (Ranked 199)
 | 2023-05-12 | 457,795 | 14 |
 | 2023-05-13 | 457,931 | 14 |
 | 2023-05-14 | 458,027 | 14 |
-| 2023-05-15 | 458,066 | 14 |
+| 2023-05-15 | 458,067 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 349)  

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 72.00% | ~107 |
-| High Profile | 65.00% | ~97 |
+| High Profile | 66.00% | ~98 |
 | Read Between The Lines | 64.00% | ~95 |
 | Whispers In The Dark | 64.00% | ~95 |
 | Fond Memories | 58.00% | ~86 |

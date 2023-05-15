@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -996,9 +996,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21814,
+  "EOS_Progressed": 21815,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2696,6 +2696,11 @@
       "Time": "2023-05-15T13:12:35.6902788+00:00",
       "NumProgressed": 21814,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-15T14:05:33.3567182+00:00",
+      "NumProgressed": 21815,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 51,
@@ -2707,7 +2712,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16142
+      "UsersEstimate": 16143
     },
     {
       "ID": "Animated",
@@ -2755,7 +2760,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11343
+      "UsersEstimate": 11344
     },
     {
       "ID": "Collector",
@@ -2763,7 +2768,7 @@
       "Name": "Collector",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5235
+      "UsersEstimate": 5236
     },
     {
       "ID": "Cultured",
@@ -2771,7 +2776,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11561
+      "UsersEstimate": 11562
     },
     {
       "ID": "Daily_Dose",
@@ -2811,7 +2816,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5235
+      "UsersEstimate": 5236
     },
     {
       "ID": "Efficient",
@@ -2819,7 +2824,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 14179
+      "UsersEstimate": 14180
     },
     {
       "ID": "Escape_Artist",
@@ -2835,7 +2840,7 @@
       "Name": "Fragile Panes",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "Fully_Upgraded",
@@ -2851,7 +2856,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6762
+      "UsersEstimate": 6763
     },
     {
       "ID": "Ghost_Expert",
@@ -2963,7 +2968,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "Seasoned",
@@ -2995,7 +3000,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6980
+      "UsersEstimate": 6981
     },
     {
       "ID": "Stunner",
@@ -3011,7 +3016,7 @@
       "Name": "Stylish",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 18978
+      "UsersEstimate": 18979
     },
     {
       "ID": "Summoner",
@@ -3043,7 +3048,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9816
+      "UsersEstimate": 9817
     },
     {
       "ID": "Terrifying",
@@ -3051,7 +3056,7 @@
       "Name": "Terrifying",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "Therapeutic",
@@ -3067,7 +3072,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9598
+      "UsersEstimate": 9599
     },
     {
       "ID": "Tobins_Prodigy",
@@ -3114,7 +3119,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21814,
+      "Progressed": 21815,
       "Completed": 39
     }
   ],
@@ -3122,8 +3127,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-15T02:00:52.8372712+00:00",
-  "LastChanged_Achievements": "2023-05-15T13:12:35.6902784+00:00",
+  "LastChanged_Achievements": "2023-05-15T14:05:33.3567177+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-15T13:06:02.3471087+00:00",
-  "LastUpdate_Achievements": "2023-05-15T13:12:35.69033+00:00"
+  "LastUpdate_Ratings": "2023-05-15T13:58:54.2669547+00:00",
+  "LastUpdate_Achievements": "2023-05-15T14:05:33.35676+00:00"
 }

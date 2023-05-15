@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,176 |
-| Cavalier | 25.00% | ~195,303 |
-| Fatso | 23.00% | ~179,679 |
-| Awakening | 20.00% | ~156,242 |
-| Ranger | 20.00% | ~156,242 |
-| Scrooge | 20.00% | ~156,242 |
-| Anorectic | 16.00% | ~124,994 |
-| Firestarter | 15.00% | ~117,182 |
-| Bookworm | 14.00% | ~109,370 |
-| Insomniac | 13.00% | ~101,558 |
-| Buddy | 11.00% | ~85,933 |
-| Sinner | 11.00% | ~85,933 |
-| Thief | 11.00% | ~85,933 |
-| Convict | 10.00% | ~78,121 |
-| Traveller | 10.00% | ~78,121 |
-| Haggler | 9.00% | ~70,309 |
-| Runt | 7.00% | ~54,685 |
+| Blacksmith's Son | 31.00% | ~242,179 |
+| Cavalier | 25.00% | ~195,306 |
+| Fatso | 23.00% | ~179,681 |
+| Awakening | 20.00% | ~156,244 |
+| Ranger | 20.00% | ~156,244 |
+| Scrooge | 20.00% | ~156,244 |
+| Anorectic | 16.00% | ~124,996 |
+| Firestarter | 15.00% | ~117,183 |
+| Bookworm | 14.00% | ~109,371 |
+| Insomniac | 13.00% | ~101,559 |
+| Buddy | 11.00% | ~85,934 |
+| Sinner | 11.00% | ~85,934 |
+| Thief | 11.00% | ~85,934 |
+| Convict | 10.00% | ~78,122 |
+| Traveller | 10.00% | ~78,122 |
+| Haggler | 9.00% | ~70,310 |
+| Runt | 7.00% | ~54,686 |
 | Casanova | 6.00% | ~46,873 |
 | McLovin | 6.00% | ~46,873 |
 | Bad Trip | 5.00% | ~39,061 |
 | Monk | 5.00% | ~39,061 |
 | Serial Killer | 5.00% | ~39,061 |
-| Bastard | 4.00% | ~31,248 |
-| Hunter | 4.00% | ~31,248 |
-| Plague Doctor | 4.00% | ~31,248 |
-| Bard | 3.00% | ~23,436 |
-| Conqueror | 3.00% | ~23,436 |
-| Ginger in a Pickle | 3.00% | ~23,436 |
-| Kingdom did not come | 3.00% | ~23,436 |
+| Bastard | 4.00% | ~31,249 |
+| Hunter | 4.00% | ~31,249 |
+| Plague Doctor | 4.00% | ~31,249 |
+| Bard | 3.00% | ~23,437 |
+| Conqueror | 3.00% | ~23,437 |
+| Ginger in a Pickle | 3.00% | ~23,437 |
+| Kingdom did not come | 3.00% | ~23,437 |
 | Completionist | 2.00% | ~15,624 |
 | Death by splinter | 2.00% | ~15,624 |
 | King Charming | 2.00% | ~15,624 |
@@ -53,9 +53,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Spoilsport | 0.90% | ~7,031 |
 | Bailiff | 0.80% | ~6,250 |
 | Tracker | 0.80% | ~6,250 |
-| David Horak | 0.70% | ~5,468 |
-| Mercenary's Honour | 0.70% | ~5,468 |
-| Saviour | 0.70% | ~5,468 |
+| David Horak | 0.70% | ~5,469 |
+| Mercenary's Honour | 0.70% | ~5,469 |
+| Saviour | 0.70% | ~5,469 |
 | Edward Kelly | 0.60% | ~4,687 |
 | Fighter | 0.60% | ~4,687 |
 | I Can Quit Anytime | 0.50% | ~3,906 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~781 |
 | Wingman | 0.10% | ~781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,212 (Ranked 12)  
+Progressed: 781,222 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 39 (0.00%) (Ranked 199)
 | 2023-05-12 | 780,768 | 39 |
 | 2023-05-13 | 780,946 | 39 |
 | 2023-05-14 | 781,150 | 39 |
-| 2023-05-15 | 781,212 | 39 |
+| 2023-05-15 | 781,222 | 39 |
 ## Awards
 Max (Character Customization): 7,161  (Ranked 43)  
 Sum: 26,802 (Ranked 42)  

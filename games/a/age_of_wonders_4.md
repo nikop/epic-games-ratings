@@ -5,25 +5,25 @@ Rating: 4.51 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 83.00% | ~2,035 |
+| A Wonderful Discovery | 83.00% | ~2,036 |
 | Realm Estate | 80.00% | ~1,962 |
 | Secret Technique | 80.00% | ~1,962 |
 | Walls Cannot Stop Us | 76.00% | ~1,864 |
-| From Friends to Family | 72.00% | ~1,765 |
-| Magical Synergy | 67.00% | ~1,643 |
-| Bone Peddler | 64.00% | ~1,569 |
+| From Friends to Family | 72.00% | ~1,766 |
+| Magical Synergy | 67.00% | ~1,644 |
+| Bone Peddler | 64.00% | ~1,570 |
 | Stronger Together | 57.00% | ~1,398 |
-| Full Ascension | 54.00% | ~1,324 |
+| Full Ascension | 54.00% | ~1,325 |
 | There Can Only Be One! | 48.00% | ~1,177 |
 | Seat of Power | 46.00% | ~1,128 |
 | My Final Form | 42.00% | ~1,030 |
 | Intimidation Tactics | 42.00% | ~1,030 |
-| Valley of Wonders | 41.00% | ~1,005 |
-| In a Liege of Your Own | 35.00% | ~858 |
+| Valley of Wonders | 41.00% | ~1,006 |
+| In a Liege of Your Own | 35.00% | ~859 |
 | Digging for Treasure | 29.00% | ~711 |
 | Against the Odds | 29.00% | ~711 |
 | Return of the Wizard King | 28.00% | ~687 |
-| Enchanted Archipelago | 24.00% | ~588 |
+| Enchanted Archipelago | 24.00% | ~589 |
 | Impenetrable Fortress | 23.00% | ~564 |
 | The Magic That Empowers Me! | 17.00% | ~417 |
 | God Emperor | 16.00% | ~392 |
@@ -50,7 +50,7 @@ Rating: 4.51 (Ranked 515)
 | Master of Evilness | 0.10% | ~2 |
 | Returning Circle | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,452 (Ranked 137)  
+Progressed: 2,453 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 2,037 | 0 |
 | 2023-05-13 | 2,241 | 0 |
 | 2023-05-14 | 2,408 | 0 |
-| 2023-05-15 | 2,452 | 0 |
+| 2023-05-15 | 2,453 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
