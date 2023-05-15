@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 6.94,
+  "EOS_Completed_Percentage": 6.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1132,6 +1132,11 @@
       "Time": "2023-05-15T05:05:25.945932+00:00",
       "NumProgressed": 634,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-15T06:05:46.3399527+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 50,
@@ -1143,7 +1148,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "10",
@@ -1151,7 +1156,7 @@
       "Name": "Piece of Cake",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "11",
@@ -1167,7 +1172,7 @@
       "Name": "Spellbound",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "13",
@@ -1223,15 +1228,15 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "2",
       "SetID": "d0g98p",
       "Name": "Waff!",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 591
     },
     {
       "ID": "20",
@@ -1303,15 +1308,15 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 216
     },
     {
       "ID": "3",
@@ -1335,7 +1340,7 @@
       "Name": "Little Shop",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "32",
@@ -1399,7 +1404,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "4",
@@ -1407,7 +1412,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "40",
@@ -1463,7 +1468,7 @@
       "Name": "Flower Power",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "47",
@@ -1471,7 +1476,7 @@
       "Name": "Crowned",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "48",
@@ -1495,7 +1500,7 @@
       "Name": "Well Rested",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "50",
@@ -1542,7 +1547,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 44
     }
   ],
@@ -1550,8 +1555,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-15T05:05:25.9459313+00:00",
+  "LastChanged_Achievements": "2023-05-15T06:05:46.3399522+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-15T04:57:30.6364102+00:00",
-  "LastUpdate_Achievements": "2023-05-15T05:05:25.9459816+00:00"
+  "LastUpdate_Ratings": "2023-05-15T05:57:23.2649013+00:00",
+  "LastUpdate_Achievements": "2023-05-15T06:05:46.3400068+00:00"
 }

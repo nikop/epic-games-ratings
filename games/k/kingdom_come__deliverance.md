@@ -6,23 +6,23 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,161 |
-| Cavalier | 25.00% | ~195,291 |
+| Blacksmith's Son | 31.00% | ~242,162 |
+| Cavalier | 25.00% | ~195,292 |
 | Fatso | 23.00% | ~179,668 |
 | Awakening | 20.00% | ~156,233 |
 | Ranger | 20.00% | ~156,233 |
 | Scrooge | 20.00% | ~156,233 |
-| Anorectic | 16.00% | ~124,986 |
+| Anorectic | 16.00% | ~124,987 |
 | Firestarter | 15.00% | ~117,175 |
 | Bookworm | 14.00% | ~109,363 |
-| Insomniac | 13.00% | ~101,551 |
+| Insomniac | 13.00% | ~101,552 |
 | Buddy | 11.00% | ~85,928 |
 | Sinner | 11.00% | ~85,928 |
 | Thief | 11.00% | ~85,928 |
-| Convict | 10.00% | ~78,116 |
-| Traveller | 10.00% | ~78,116 |
+| Convict | 10.00% | ~78,117 |
+| Traveller | 10.00% | ~78,117 |
 | Haggler | 9.00% | ~70,305 |
-| Runt | 7.00% | ~54,681 |
+| Runt | 7.00% | ~54,682 |
 | Casanova | 6.00% | ~46,870 |
 | McLovin | 6.00% | ~46,870 |
 | Bad Trip | 5.00% | ~39,058 |
@@ -50,7 +50,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,812 |
 | Master Huntsman | 1.00% | ~7,812 |
 | Stealth Killer | 1.00% | ~7,812 |
-| Spoilsport | 0.90% | ~7,030 |
+| Spoilsport | 0.90% | ~7,031 |
 | Bailiff | 0.80% | ~6,249 |
 | Tracker | 0.80% | ~6,249 |
 | David Horak | 0.70% | ~5,468 |
@@ -60,8 +60,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Fighter | 0.60% | ~4,687 |
 | I Can Quit Anytime | 0.50% | ~3,906 |
 | Perfectionist | 0.40% | ~3,125 |
-| Alcoholic | 0.30% | ~2,343 |
-| Sniper | 0.30% | ~2,343 |
+| Alcoholic | 0.30% | ~2,344 |
+| Sniper | 0.30% | ~2,344 |
 | Angel of Mercy | 0.20% | ~1,562 |
 | Christian Burial | 0.20% | ~1,562 |
 | Friends without benefits | 0.20% | ~1,562 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~781 |
 | Wingman | 0.10% | ~781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,164 (Ranked 12)  
+Progressed: 781,167 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 39 (0.00%) (Ranked 199)
 | 2023-05-12 | 780,768 | 39 |
 | 2023-05-13 | 780,946 | 39 |
 | 2023-05-14 | 781,150 | 39 |
-| 2023-05-15 | 781,164 | 39 |
+| 2023-05-15 | 781,167 | 39 |
 ## Awards
 Max (Character Customization): 7,157  (Ranked 43)  
 Sum: 26,794 (Ranked 42)  

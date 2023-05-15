@@ -4000,7 +4000,7 @@
       "Count": 3667
     }
   ],
-  "EOS_Progressed": 128248,
+  "EOS_Progressed": 128249,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
@@ -6120,6 +6120,11 @@
       "Time": "2023-05-15T05:05:47.9670829+00:00",
       "NumProgressed": 128248,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-05-15T06:06:11.9800336+00:00",
+      "NumProgressed": 128249,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 112,
@@ -6179,7 +6184,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35909
+      "UsersEstimate": 35910
     },
     {
       "ID": "ascend02",
@@ -6235,7 +6240,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 75666
+      "UsersEstimate": 75667
     },
     {
       "ID": "blueprint02",
@@ -6259,7 +6264,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 33344
+      "UsersEstimate": 33345
     },
     {
       "ID": "boss01",
@@ -6267,7 +6272,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 56429
+      "UsersEstimate": 56430
     },
     {
       "ID": "boss02",
@@ -6299,7 +6304,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124401
+      "UsersEstimate": 124402
     },
     {
       "ID": "chest02",
@@ -6363,7 +6368,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 116706
+      "UsersEstimate": 116707
     },
     {
       "ID": "commonres02",
@@ -6395,7 +6400,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 97468
+      "UsersEstimate": 97469
     },
     {
       "ID": "craft02",
@@ -6483,7 +6488,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 78231
+      "UsersEstimate": 78232
     },
     {
       "ID": "energy02",
@@ -6595,7 +6600,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 35909
+      "UsersEstimate": 35910
     },
     {
       "ID": "gold01",
@@ -6603,7 +6608,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 111576
+      "UsersEstimate": 111577
     },
     {
       "ID": "gold02",
@@ -6611,7 +6616,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 73101
+      "UsersEstimate": 73102
     },
     {
       "ID": "gold03",
@@ -6651,7 +6656,7 @@
       "Name": "Helping Hand",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35909
+      "UsersEstimate": 35910
     },
     {
       "ID": "help02",
@@ -6907,7 +6912,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 96186
+      "UsersEstimate": 96187
     },
     {
       "ID": "sell02",
@@ -6947,7 +6952,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 123118
+      "UsersEstimate": 123119
     },
     {
       "ID": "twinenchant01",
@@ -7003,7 +7008,7 @@
       "Name": "Arcane Industries",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 43604
+      "UsersEstimate": 43605
     },
     {
       "ID": "workers03",
@@ -7026,15 +7031,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 128248,
+      "Progressed": 128249,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-14T14:58:14.0804809+00:00",
-  "LastChanged_Achievements": "2023-05-15T05:05:47.9670824+00:00",
+  "LastChanged_Achievements": "2023-05-15T06:06:11.980033+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:18.2239711+00:00",
-  "LastUpdate_Ratings": "2023-05-15T04:58:27.2779255+00:00",
-  "LastUpdate_Achievements": "2023-05-15T05:05:47.9672513+00:00"
+  "LastUpdate_Ratings": "2023-05-15T05:58:31.8845375+00:00",
+  "LastUpdate_Achievements": "2023-05-15T06:06:11.9802064+00:00"
 }

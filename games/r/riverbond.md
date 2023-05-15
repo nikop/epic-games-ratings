@@ -6,18 +6,18 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,545 |
-| Now You're Talking | 62.00% | ~320,226 |
-| Steel Yourself | 62.00% | ~320,226 |
-| Window Dressing | 50.00% | ~258,246 |
-| Trigger Happy | 46.00% | ~237,587 |
-| Riverborn | 45.00% | ~232,422 |
+| First Step | 70.00% | ~361,546 |
+| Now You're Talking | 62.00% | ~320,227 |
+| Steel Yourself | 62.00% | ~320,227 |
+| Window Dressing | 50.00% | ~258,248 |
+| Trigger Happy | 46.00% | ~237,588 |
+| Riverborn | 45.00% | ~232,423 |
 | Starry Eyed | 34.00% | ~175,608 |
 | Poking Around | 34.00% | ~175,608 |
-| Talk of the Town | 24.00% | ~123,958 |
-| AAARR! | 23.00% | ~118,793 |
-| Hello Darkness | 23.00% | ~118,793 |
-| Wind At Our Backs | 22.00% | ~113,628 |
+| Talk of the Town | 24.00% | ~123,959 |
+| AAARR! | 23.00% | ~118,794 |
+| Hello Darkness | 23.00% | ~118,794 |
+| Wind At Our Backs | 22.00% | ~113,629 |
 | To the Beat | 20.00% | ~103,299 |
 | Sunny Shores | 17.00% | ~87,804 |
 | To Victory! | 15.00% | ~77,474 |
@@ -26,10 +26,10 @@ Number of Ratings: 617  (23.09.2022)
 | Keep On Trucking | 13.00% | ~67,144 |
 | Going on an Adventure | 11.00% | ~56,814 |
 | Make Peace, Not War | 11.00% | ~56,814 |
-| Walking The Line | 10.00% | ~51,649 |
-| Not So Cute Anymore | 10.00% | ~51,649 |
-| Road Less Travelled | 9.00% | ~46,484 |
-| Lost and Found | 9.00% | ~46,484 |
+| Walking The Line | 10.00% | ~51,650 |
+| Not So Cute Anymore | 10.00% | ~51,650 |
+| Road Less Travelled | 9.00% | ~46,485 |
+| Lost and Found | 9.00% | ~46,485 |
 | Partner in Crime | 7.00% | ~36,155 |
 | Hard to Hear | 7.00% | ~36,155 |
 | Under the Radar | 7.00% | ~36,155 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,549 |
 | Point Taken | 0.10% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,493 (Ranked 24)  
+Progressed: 516,495 (Ranked 24)  
 Completed: 405 (0.08%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 405 (0.08%) (Ranked 164)
 | 2023-05-12 | 516,250 | 404 |
 | 2023-05-13 | 516,361 | 405 |
 | 2023-05-14 | 516,471 | 405 |
-| 2023-05-15 | 516,493 | 405 |
+| 2023-05-15 | 516,495 | 405 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

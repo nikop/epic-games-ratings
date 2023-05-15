@@ -3656,10 +3656,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29882,
       "NumberOfAwardsMax": 4878
+    },
+    {
+      "Time": "2023-05-15T05:58:07.2904143+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29883,
+      "NumberOfAwardsMax": 4878
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29882,
+  "NumberOfAwards": 29883,
   "NumberOfAwardsMax": 4878,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3679,7 +3685,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4589
+      "Count": 4590
     },
     {
       "Text": "This game is Relaxing",
@@ -3706,9 +3712,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87561,
+  "EOS_Progressed": 87562,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 735,
+  "EOS_NewPlayers": 733,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5971,6 +5977,11 @@
       "Time": "2023-05-15T05:06:15.2180036+00:00",
       "NumProgressed": 87561,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T06:06:42.6839495+00:00",
+      "NumProgressed": 87562,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -7732,9 +7743,9 @@
       "ID": "objective_completed_384",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Lament",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_385",
@@ -7860,9 +7871,9 @@
       "ID": "objective_completed_400",
       "SetID": "cc37lbc",
       "Name": "Stumbling Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_401",
@@ -8276,9 +8287,9 @@
       "ID": "objective_completed_560",
       "SetID": "cc37lbc",
       "Name": "The Sunless Citadel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_561",
@@ -9893,21 +9904,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53835,
+      "Progressed": 53836,
       "Completed": 2508
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87561,
+      "Progressed": 87562,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-15T02:00:10.6762796+00:00",
-  "LastChanged_Achievements": "2023-05-15T05:06:15.2180031+00:00",
+  "LastChanged": "2023-05-15T05:58:07.290414+00:00",
+  "LastChanged_Achievements": "2023-05-15T06:06:42.6839488+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T04:58:07.1071331+00:00",
-  "LastUpdate_Achievements": "2023-05-15T05:06:15.2205658+00:00"
+  "LastUpdate_Ratings": "2023-05-15T05:58:07.2904148+00:00",
+  "LastUpdate_Achievements": "2023-05-15T06:06:42.6867173+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 637)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,462 |
-| This is only the beginning | 19.00% | ~39,871 |
+| No aid from the Omnissiah | 25.00% | ~52,463 |
+| This is only the beginning | 19.00% | ~39,872 |
 | Knowledge is power | 12.00% | ~25,182 |
-| Power Ranger | 9.00% | ~18,886 |
-| Galvanic Rifle | 9.00% | ~18,886 |
-| Taser Goad | 9.00% | ~18,886 |
-| Radium Ready | 9.00% | ~18,886 |
-| Half a cog | 9.00% | ~18,886 |
+| Power Ranger | 9.00% | ~18,887 |
+| Galvanic Rifle | 9.00% | ~18,887 |
+| Taser Goad | 9.00% | ~18,887 |
+| Radium Ready | 9.00% | ~18,887 |
+| Half a cog | 9.00% | ~18,887 |
 | Watch them crumble | 6.00% | ~12,591 |
 | Competent Cohort | 4.00% | ~8,394 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,394 |
 | One with the Machine | 4.00% | ~8,394 |
-| Legio Cybernetica | 3.00% | ~6,295 |
-| Fleshy Disposal | 3.00% | ~6,295 |
+| Legio Cybernetica | 3.00% | ~6,296 |
+| Fleshy Disposal | 3.00% | ~6,296 |
 | Battle Servitor | 2.00% | ~4,197 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,197 |
 | Impatient destruction | 2.00% | ~4,197 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 637)
 | Perma-live | 0.10% | ~210 |
 | Purge the Heretek | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,849 (Ranked 47)  
+Progressed: 209,853 (Ranked 47)  
 Completed: 2 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,15 +65,15 @@ Completed: 2 (0.00%) (Ranked 199)
 | 2023-05-12 | 209,523 | 2 |
 | 2023-05-13 | 209,661 | 2 |
 | 2023-05-14 | 209,825 | 2 |
-| 2023-05-15 | 209,849 | 2 |
+| 2023-05-15 | 209,853 | 2 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 228)  
-Sum: 2,093 (Ranked 184)  
+Sum: 2,094 (Ranked 184)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 277 |
-| This game has Quickly Understood Controls | 269 |
+| This game has Quickly Understood Controls | 270 |
 | This game is Extremely Fun | 267 |
 | This game has Amazing Characters | 254 |
 | This game has Diverse Characters | 252 |
@@ -111,3 +111,4 @@ Diff (max vs sum): 44
 | 2023-05-05 | 4.43 | 277 | 2,090 |
 | 2023-05-07 | 4.43 | 277 | 2,092 |
 | 2023-05-11 | 4.43 | 277 | 2,093 |
+| 2023-05-15 | 4.43 | 277 | 2,094 |

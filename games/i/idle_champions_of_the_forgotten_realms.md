@@ -173,10 +173,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.20% | ~175 |
 | The Guardian of Orolunga | 0.20% | ~175 |
 | The Lost Love | 0.20% | ~175 |
+| A Saurial's Lament | 0.20% | ~175 |
 | A Saurial's Resolve | 0.20% | ~175 |
 | Flies on the Wall | 0.20% | ~175 |
 | Backtracking Through Barovia | 0.20% | ~175 |
 | Nimble Escape | 0.20% | ~175 |
+| Stumbling Escape | 0.20% | ~175 |
 | Fugitives | 0.20% | ~175 |
 | Excavating History | 0.20% | ~175 |
 | Towering Expectations | 0.20% | ~175 |
@@ -192,6 +194,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.20% | ~175 |
 | Waterdeep Under Siege | 0.20% | ~175 |
 | Crowded Streets | 0.20% | ~175 |
+| The Sunless Citadel | 0.20% | ~175 |
 | Meepo's Quest | 0.20% | ~175 |
 | The Darkness Runs Deeper | 0.20% | ~175 |
 | Troublesome Prisoner | 0.20% | ~175 |
@@ -350,7 +353,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.10% | ~88 |
 | Air's Getting Pretty Thin | 0.10% | ~88 |
 | Red Wizard 'Escort' | 0.10% | ~54 |
-| A Saurial's Lament | 0.10% | ~88 |
 | Spirit of the Trickster Gods | 0.10% | ~54 |
 | The Killer Mists | 0.10% | ~88 |
 | Class Vacation | 0.10% | ~88 |
@@ -359,7 +361,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Late Game | 0.10% | ~88 |
 | Shadowfell Stalwarts | 0.10% | ~54 |
 | Nimblest Escape | 0.10% | ~88 |
-| Stumbling Escape | 0.10% | ~88 |
 | Distracted Escape | 0.10% | ~54 |
 | From The Shadows | 0.10% | ~88 |
 | Spined Nuisances | 0.10% | ~88 |
@@ -390,7 +391,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~88 |
 | Sober Up | 0.10% | ~88 |
 | In The Beginning | 0.10% | ~54 |
-| The Sunless Citadel | 0.10% | ~88 |
 | Veteran Brigade | 0.10% | ~88 |
 | Social Grace | 0.10% | ~54 |
 | Evergreens with an Evergreen | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,561 (Ranked 59)  
+Progressed: 87,562 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,16 +521,16 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,561 | 1,843 |
+| 2023-05-15 | 87,562 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
-Sum: 29,882 (Ranked 37)  
+Sum: 29,883 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,878 |
 | This game is Great for Beginners | 4,825 |
-| This game has Quickly Understood Controls | 4,589 |
+| This game has Quickly Understood Controls | 4,590 |
 | This game is Relaxing | 4,485 |
 | This game is Highly Recommended | 3,937 |
 | This game has Amazing Characters | 3,934 |
@@ -647,4 +647,4 @@ Diff (max vs sum): 26
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
 | 2023-05-13 | 4.06 | - | 4,877 | 29,873 |
 | 2023-05-14 | 4.06 | - | 4,878 | 29,881 |
-| 2023-05-15 | 4.06 | - | 4,878 | 29,882 |
+| 2023-05-15 | 4.06 | - | 4,878 | 29,883 |
