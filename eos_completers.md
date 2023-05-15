@@ -67,8 +67,8 @@
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
-| 67 | [Them and Us](games/t/them_and_us.md) | 1.61% |
-| 69 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
+| 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
+| 68 | [Them and Us](games/t/them_and_us.md) | 1.59% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
