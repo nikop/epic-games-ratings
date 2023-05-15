@@ -3662,10 +3662,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29883,
       "NumberOfAwardsMax": 4878
+    },
+    {
+      "Time": "2023-05-15T17:57:54.1888172+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29884,
+      "NumberOfAwardsMax": 4878
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29883,
+  "NumberOfAwards": 29884,
   "NumberOfAwardsMax": 4878,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3673,7 +3679,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4825
+      "Count": 4826
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3712,9 +3718,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87604,
+  "EOS_Progressed": 87606,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 722,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6032,6 +6038,11 @@
       "Time": "2023-05-15T17:06:37.5341125+00:00",
       "NumProgressed": 87604,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T18:05:39.9785658+00:00",
+      "NumProgressed": 87606,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -7441,9 +7452,9 @@
       "ID": "objective_completed_215",
       "SetID": "cc37lbc",
       "Name": "Poor Fortune",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_216",
@@ -9457,9 +9468,9 @@
       "ID": "objective_completed_835",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Every Day",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_837",
@@ -9954,21 +9965,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53878,
+      "Progressed": 53880,
       "Completed": 2512
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87604,
+      "Progressed": 87606,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-15T05:58:07.290414+00:00",
-  "LastChanged_Achievements": "2023-05-15T17:06:37.5341118+00:00",
+  "LastChanged": "2023-05-15T17:57:54.188817+00:00",
+  "LastChanged_Achievements": "2023-05-15T18:05:39.9785648+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T16:58:28.8546829+00:00",
-  "LastUpdate_Achievements": "2023-05-15T17:06:37.5371095+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:57:54.1888176+00:00",
+  "LastUpdate_Achievements": "2023-05-15T18:05:39.9809053+00:00"
 }

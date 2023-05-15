@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2851,
+  "EOS_Progressed": 2852,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2102,6 +2102,11 @@
       "Time": "2023-05-15T16:05:35.6955921+00:00",
       "NumProgressed": 2851,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T18:05:35.5234585+00:00",
+      "NumProgressed": 2852,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2233,7 +2238,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2273,7 +2278,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2432,15 +2437,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2851,
+      "Progressed": 2852,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-15T17:06:33.0597843+00:00",
+  "LastChanged_Achievements": "2023-05-15T18:05:35.523457+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:00:44.7999659+00:00",
-  "LastUpdate_Achievements": "2023-05-15T17:06:33.0598238+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:59:43.5381527+00:00",
+  "LastUpdate_Achievements": "2023-05-15T18:05:35.5234969+00:00"
 }

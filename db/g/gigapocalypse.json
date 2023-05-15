@@ -4,8 +4,8 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -183,9 +183,9 @@
       "ID": "secret25",
       "SetID": "39f6ck8",
       "Name": "Power Overload",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "secret26",
@@ -480,8 +480,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-05-15T17:06:27.267725+00:00",
+  "LastChanged_Achievements": "2023-05-15T18:05:30.6516407+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.7114011+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:00:31.8768621+00:00",
-  "LastUpdate_Achievements": "2023-05-15T17:06:27.2678058+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:59:33.5285946+00:00",
+  "LastUpdate_Achievements": "2023-05-15T18:05:30.6516818+00:00"
 }

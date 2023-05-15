@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,236 |
+| Follow the Light | 20.00% | ~9,237 |
 | Let There Be Light | 16.00% | ~7,389 |
 | Float Like a Butterfly | 15.00% | ~6,927 |
 | Nordic Walking | 13.00% | ~6,004 |
@@ -38,7 +38,7 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,309 |
 | What Light Through Yonder Window | 5.00% | ~2,309 |
 | Right of Way | 5.00% | ~2,309 |
-| Ding! | 5.00% | ~482 |
+| Ding! | 5.00% | ~483 |
 | Departure | 4.00% | ~1,847 |
 | Children of the Elder God | 3.00% | ~1,385 |
 | Drink 'Em Both Up | 3.00% | ~1,385 |
@@ -54,7 +54,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 1.00% | ~462 |
 | An Idyllic Small Town | 1.00% | ~462 |
 | Couch Potato | 1.00% | ~462 |
-| Go Gentle Into That Good Light | 1.00% | ~96 |
+| Go Gentle Into That Good Light | 1.00% | ~97 |
 | Words Will Never Harm You | 0.60% | ~58 |
 | Cardboard Companions | 0.60% | ~58 |
 | Fast and Furious | 0.50% | ~48 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,182 (Ranked 75)  
+Progressed: 46,183 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-12 | 46,131 | 44 |
 | 2023-05-13 | 46,152 | 44 |
 | 2023-05-14 | 46,171 | 44 |
-| 2023-05-15 | 46,182 | 44 |
+| 2023-05-15 | 46,183 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

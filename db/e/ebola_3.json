@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -663,6 +663,11 @@
       "Time": "2023-05-14T18:05:59.9175024+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T18:05:36.3223645+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -696,9 +701,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "achBett",
@@ -736,9 +741,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "achCity",
@@ -992,9 +997,9 @@
       "ID": "achSecretos",
       "SetID": "72gjli4",
       "Name": "All secrets revealed \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achSeif",
@@ -1073,7 +1078,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
@@ -1081,8 +1086,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-15T17:06:33.895814+00:00",
+  "LastChanged_Achievements": "2023-05-15T18:05:36.3223641+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-15T17:00:49.7641528+00:00",
-  "LastUpdate_Achievements": "2023-05-15T17:06:33.8958796+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:59:47.7662+00:00",
+  "LastUpdate_Achievements": "2023-05-15T18:05:36.3224054+00:00"
 }

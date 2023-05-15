@@ -11,7 +11,7 @@
 | Power Up | 67.00% | ~75 |
 | Thick Skin | 66.00% | ~74 |
 | Math Wizard | 62.00% | ~69 |
-| Power Overload | 61.00% | ~68 |
+| Power Overload | 62.00% | ~69 |
 | Destroy Erase Improve | 61.00% | ~68 |
 | Quite A Snack | 56.00% | ~63 |
 | Overwhelming Power | 52.00% | ~58 |

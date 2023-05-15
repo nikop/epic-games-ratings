@@ -158,6 +158,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.20% | ~175 |
 | Family Entanglements | 0.20% | ~175 |
 | Haunted Fortunes | 0.20% | ~175 |
+| Poor Fortune | 0.20% | ~175 |
 | Chatty Nobles | 0.20% | ~175 |
 | Modron Assistance | 0.20% | ~175 |
 | Thine Bounty is Mine! | 0.20% | ~108 |
@@ -269,6 +270,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~108 |
 | Fortress Assault | 0.20% | ~108 |
 | Hats off to you! | 0.20% | ~108 |
+| It's Cold Out There Every Day | 0.20% | ~108 |
 | The Bleeding Citadel | 0.20% | ~108 |
 | Idyllglen | 0.20% | ~108 |
 | The Radiant Nightmare | 0.20% | ~108 |
@@ -344,7 +346,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~88 |
 | Azaka's Procession - Part 2 | 0.10% | ~88 |
 | Acererak's Puzzle | 0.10% | ~54 |
-| Poor Fortune | 0.10% | ~88 |
 | Relentless Misfortune | 0.10% | ~88 |
 | Hold for the Red Wizards | 0.10% | ~88 |
 | Form Ranks | 0.10% | ~88 |
@@ -457,7 +458,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Neutral Party | 0.10% | ~54 |
 | Relentless Peril | 0.10% | ~54 |
 | Rickety Rubble | 0.10% | ~54 |
-| It's Cold Out There Every Day | 0.10% | ~54 |
 | Don't Pick at the Scab | 0.10% | ~54 |
 | Going To Eleven | 0.10% | ~54 |
 | The Madness of Yeenoghu | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,604 (Ranked 59)  
+Progressed: 87,606 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,15 +521,15 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,604 | 1,843 |
+| 2023-05-15 | 87,606 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
-Sum: 29,883 (Ranked 37)  
+Sum: 29,884 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,878 |
-| This game is Great for Beginners | 4,825 |
+| This game is Great for Beginners | 4,826 |
 | This game has Quickly Understood Controls | 4,590 |
 | This game is Relaxing | 4,485 |
 | This game is Highly Recommended | 3,937 |
@@ -647,4 +647,4 @@ Diff (max vs sum): 26
 | 2023-05-12 | 4.06 | - | 4,877 | 29,863 |
 | 2023-05-13 | 4.06 | - | 4,877 | 29,873 |
 | 2023-05-14 | 4.06 | - | 4,878 | 29,881 |
-| 2023-05-15 | 4.06 | - | 4,878 | 29,883 |
+| 2023-05-15 | 4.06 | - | 4,878 | 29,884 |

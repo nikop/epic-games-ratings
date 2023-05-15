@@ -5,20 +5,20 @@ Rating: 4.38 (Ranked 689)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 36.00% | ~259 |
-| Confirming Suspicions | 32.00% | ~230 |
+| Meeting Resistance | 36.00% | ~260 |
+| Confirming Suspicions | 32.00% | ~231 |
 | The Kraken Wakes | 30.00% | ~216 |
 | It's Starting to Crack | 28.00% | ~202 |
 | Lord of War | 25.00% | ~180 |
 | Change the Channel | 25.00% | ~180 |
 | Taking it back | 24.00% | ~173 |
 | Resourceful | 23.00% | ~166 |
-| Organ Grinder | 22.00% | ~158 |
+| Organ Grinder | 22.00% | ~159 |
 | Sharpshooter | 21.00% | ~151 |
 | Target America | 21.00% | ~151 |
 | As Quiet as a Mouse | 20.00% | ~144 |
 | The Kraken Sleeps | 19.00% | ~137 |
-| Liberté | 17.00% | ~122 |
+| Liberté | 17.00% | ~123 |
 | Explosive Efficiency | 16.00% | ~115 |
 | Close Quarters | 15.00% | ~108 |
 | Climbing the Ladder | 14.00% | ~101 |
@@ -28,10 +28,10 @@ Rating: 4.38 (Ranked 689)
 | Just a Flesh Wound | 13.00% | ~94 |
 | Der Geist | 13.00% | ~94 |
 | Snake in the Grass | 13.00% | ~94 |
-| Enemy at the Gates | 12.00% | ~86 |
-| Set Europe Ablaze | 12.00% | ~86 |
-| Die Nussknacker Sweet! | 12.00% | ~86 |
-| Brains of the Operation | 12.00% | ~86 |
+| Enemy at the Gates | 12.00% | ~87 |
+| Set Europe Ablaze | 12.00% | ~87 |
+| Die Nussknacker Sweet! | 12.00% | ~87 |
+| Brains of the Operation | 12.00% | ~87 |
 | No Stone Unturned | 11.00% | ~79 |
 | Opposing Force | 11.00% | ~79 |
 | My Little Friend | 9.00% | ~65 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720 (Ranked 176)  
+Progressed: 721 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
 | 2023-05-14 | 717 | 2 |
-| 2023-05-15 | 720 | 2 |
+| 2023-05-15 | 721 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

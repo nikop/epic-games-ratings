@@ -4,8 +4,8 @@
   "ProductSlug": "tangle-tower-f1c0b8",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:19.0421121+00:00",
   "LastChanged": "2023-03-31T05:57:19.0421122+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:47.9236379+00:00",
-  "LastUpdate_Ratings": "2023-05-15T16:58:17.2239474+00:00",
-  "LastUpdate_Achievements": "2023-05-15T17:01:52.7854102+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:57:45.2079676+00:00",
+  "LastUpdate_Achievements": "2023-05-15T18:02:11.8098049+00:00"
 }

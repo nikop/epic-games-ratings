@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46182,
+  "EOS_Progressed": 46183,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1636,6 +1636,11 @@
       "Time": "2023-05-15T16:05:03.5218+00:00",
       "NumProgressed": 46182,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-15T18:05:06.5033349+00:00",
+      "NumProgressed": 46183,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1647,7 +1652,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9236
+      "UsersEstimate": 9237
     },
     {
       "ID": "02",
@@ -2111,7 +2116,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "60",
@@ -2127,7 +2132,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "62",
@@ -2182,21 +2187,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46182,
+      "Progressed": 46183,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9650,
+      "Progressed": 9651,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-15T17:05:59.168054+00:00",
+  "LastChanged_Achievements": "2023-05-15T18:05:06.5033344+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-15T16:58:01.2644194+00:00",
-  "LastUpdate_Achievements": "2023-05-15T17:05:59.1681806+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:57:33.0584191+00:00",
+  "LastUpdate_Achievements": "2023-05-15T18:05:06.5034145+00:00"
 }

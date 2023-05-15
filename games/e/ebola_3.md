@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chest ✔ | 55.00% | ~91 |
+| Chest ✔ | 54.00% | ~90 |
 | Fright ✔ | 54.00% | ~90 |
-| Inventory ✔ | 52.00% | ~86 |
+| Inventory ✔ | 51.00% | ~85 |
 | Police officers ✔ | 25.00% | ~42 |
 | Mutation ✔ | 24.00% | ~40 |
 | Doberman ✔ | 13.00% | ~22 |
@@ -23,13 +23,13 @@
 | Betty ✔ | 6.00% | ~10 |
 | Brain ✔ | 6.00% | ~10 |
 | Food ✔ | 6.00% | ~10 |
+| All secrets revealed ✔ | 6.00% | ~10 |
 | City ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
 | Mutant fight ✔ | 5.00% | ~8 |
 | Fraternal help ✔ | 5.00% | ~8 |
 | City on fire ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
-| All secrets revealed ✔ | 5.00% | ~8 |
 | Boss 1 ✔ | 4.00% | ~7 |
 | Crocodile Attack ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166 (Ranked 229)  
+Progressed: 167 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 161 | 0 |
 | 2023-05-13 | 163 | 0 |
 | 2023-05-14 | 166 | 0 |
+| 2023-05-15 | 167 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

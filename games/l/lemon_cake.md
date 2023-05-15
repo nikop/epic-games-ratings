@@ -11,9 +11,9 @@
 | Perfect Server | 18.00% | ~21 |
 | Adept Baker | 11.00% | ~13 |
 | Verdant Greenhouse | 10.00% | ~12 |
+| Luxury Kitchen | 10.00% | ~12 |
 | Bustling Store | 10.00% | ~12 |
 | Expert Baker | 9.00% | ~11 |
-| Luxury Kitchen | 9.00% | ~11 |
 | Gotta Go Fast | 8.00% | ~10 |
 | Swing The Broom | 8.00% | ~10 |
 | A Loving Home | 7.00% | ~8 |

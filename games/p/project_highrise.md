@@ -14,7 +14,7 @@
 | It's Technical | 35.00% | ~55 |
 | Need a Consult | 34.00% | ~54 |
 | Delegate Maintenance | 32.00% | ~51 |
-| Proper Walls | 30.00% | ~47 |
+| Proper Walls | 31.00% | ~49 |
 | Destination Destiny | 27.00% | ~43 |
 | Happy Tenants | 24.00% | ~38 |
 | Potent Potables | 23.00% | ~36 |
@@ -22,12 +22,12 @@
 | Lux Living | 22.00% | ~35 |
 | Your Prestige is Rising | 22.00% | ~35 |
 | Retail Revenue | 22.00% | ~35 |
+| Don't Feel a Loan | 21.00% | ~33 |
 | People Mover | 21.00% | ~33 |
 | Emporium Empire | 21.00% | ~33 |
 | Leveled Up Shops | 21.00% | ~33 |
 | Artfully Done | 20.00% | ~32 |
 | Rehab Expert | 20.00% | ~32 |
-| Don't Feel a Loan | 20.00% | ~32 |
 | Get Electrified | 20.00% | ~32 |
 | Tasty Profits | 19.00% | ~30 |
 | Cashflow Chief | 18.00% | ~28 |

@@ -22,9 +22,9 @@
 | Chick Magnet | 10.00% | ~5 |
 | Carrocketeer | 10.00% | ~5 |
 | Honk Honk | 8.00% | ~4 |
+| Darkside Survivor | 8.00% | ~4 |
 | Forestside Survivor | 8.00% | ~4 |
 | Bring Home The Bacon | 6.00% | ~3 |
-| Darkside Survivor | 6.00% | ~3 |
 | Early Bird | 6.00% | ~3 |
 | Pro Shotgunner | 4.00% | ~2 |
 | Pro Digger | 4.00% | ~2 |

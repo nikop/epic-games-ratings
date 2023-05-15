@@ -4,8 +4,8 @@
   "ProductSlug": "sapce-haste-2-f9e7d4",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-13T17:00:00+00:00",
     "PcReleaseDate": "2001-10-01T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.7193319+00:00",
   "LastChanged": "2023-03-31T05:58:28.719332+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2290577+00:00",
-  "LastUpdate_Ratings": "2023-05-15T16:58:21.8894178+00:00",
-  "LastUpdate_Achievements": "2023-05-15T17:01:13.1943355+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:57:48.7525677+00:00",
+  "LastUpdate_Achievements": "2023-05-15T18:00:09.0925441+00:00"
 }

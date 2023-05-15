@@ -6,23 +6,23 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,566 |
-| Now You're Talking | 62.00% | ~320,244 |
-| Steel Yourself | 62.00% | ~320,244 |
+| First Step | 70.00% | ~361,568 |
+| Now You're Talking | 62.00% | ~320,246 |
+| Steel Yourself | 62.00% | ~320,246 |
 | Window Dressing | 50.00% | ~258,262 |
-| Trigger Happy | 46.00% | ~237,601 |
-| Riverborn | 45.00% | ~232,435 |
+| Trigger Happy | 46.00% | ~237,602 |
+| Riverborn | 45.00% | ~232,436 |
 | Starry Eyed | 34.00% | ~175,618 |
 | Poking Around | 34.00% | ~175,618 |
 | Talk of the Town | 24.00% | ~123,966 |
-| AAARR! | 23.00% | ~118,800 |
-| Hello Darkness | 23.00% | ~118,800 |
-| Wind At Our Backs | 22.00% | ~113,635 |
+| AAARR! | 23.00% | ~118,801 |
+| Hello Darkness | 23.00% | ~118,801 |
+| Wind At Our Backs | 22.00% | ~113,636 |
 | To the Beat | 20.00% | ~103,305 |
 | Sunny Shores | 17.00% | ~87,809 |
-| To Victory! | 15.00% | ~77,478 |
-| Sunday Best | 15.00% | ~77,478 |
-| Two of a Kind | 14.00% | ~72,313 |
+| To Victory! | 15.00% | ~77,479 |
+| Sunday Best | 15.00% | ~77,479 |
+| Two of a Kind | 14.00% | ~72,314 |
 | Keep On Trucking | 13.00% | ~67,148 |
 | Going on an Adventure | 11.00% | ~56,818 |
 | Make Peace, Not War | 11.00% | ~56,818 |
@@ -33,11 +33,11 @@ Number of Ratings: 617  (23.09.2022)
 | Partner in Crime | 7.00% | ~36,157 |
 | Hard to Hear | 7.00% | ~36,157 |
 | Under the Radar | 7.00% | ~36,157 |
-| Moving On Up | 6.00% | ~30,991 |
-| Owl Knows Best | 6.00% | ~30,991 |
-| Mind the Moose | 6.00% | ~30,991 |
-| Dressed to Kill | 6.00% | ~30,991 |
-| Beast Mode | 6.00% | ~30,991 |
+| Moving On Up | 6.00% | ~30,992 |
+| Owl Knows Best | 6.00% | ~30,992 |
+| Mind the Moose | 6.00% | ~30,992 |
+| Dressed to Kill | 6.00% | ~30,992 |
+| Beast Mode | 6.00% | ~30,992 |
 | Oh, Romeo! | 5.00% | ~25,826 |
 | Noble Intentions | 5.00% | ~25,826 |
 | Rising Star | 5.00% | ~25,826 |
@@ -55,16 +55,16 @@ Number of Ratings: 617  (23.09.2022)
 | Spinal Adjustment | 3.00% | ~15,496 |
 | The Knowledge | 3.00% | ~15,496 |
 | Seek the Rainbow | 2.00% | ~10,330 |
+| Words of Truth | 2.00% | ~10,330 |
 | Star Power | 2.00% | ~10,330 |
 | Justice Served | 2.00% | ~10,330 |
-| Words of Truth | 1.00% | ~5,165 |
 | Don't Care | 1.00% | ~5,165 |
 | Don’t Get Crabby | 1.00% | ~5,165 |
 | Written in the Stars | 0.90% | ~4,649 |
 | Boss of All Bosses | 0.30% | ~1,550 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,523 (Ranked 24)  
+Progressed: 516,525 (Ranked 24)  
 Completed: 405 (0.08%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 405 (0.08%) (Ranked 164)
 | 2023-05-12 | 516,250 | 404 |
 | 2023-05-13 | 516,361 | 405 |
 | 2023-05-14 | 516,471 | 405 |
-| 2023-05-15 | 516,523 | 405 |
+| 2023-05-15 | 516,525 | 405 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

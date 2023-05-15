@@ -3,12 +3,12 @@
   "Name": "Sonic Origins",
   "ProductSlug": "sonic-origins",
   "Ranking_Rating": 429,
-  "Ranking_Popularity": 305,
+  "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -253,8 +253,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-05-05T21:59:05.5528893+00:00",
-  "LastChanged_Achievements": "2023-05-15T17:05:43.3085434+00:00",
+  "LastChanged_Achievements": "2023-05-15T18:04:53.0633039+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:43.3418999+00:00",
-  "LastUpdate_Ratings": "2023-05-15T16:58:13.237617+00:00",
-  "LastUpdate_Achievements": "2023-05-15T17:05:43.3085465+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:57:41.4571351+00:00",
+  "LastUpdate_Achievements": "2023-05-15T18:04:53.0633065+00:00"
 }
