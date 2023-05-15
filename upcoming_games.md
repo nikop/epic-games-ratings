@@ -40,7 +40,6 @@
 | [Bob A thousand lives](games/b/bob_a_thousand_lives.md) | 2023-05-31 | 2022-09-06 |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | 2023-05-31 |
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
-| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-31 | 2021-04-30 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-31 | 2016-12-14 |
 | [The Cullfield Ritual](games/t/the_cullfield_ritual.md) | 2023-05-31 | 2023-01-05 |
@@ -254,6 +253,7 @@
 | [KarmaZoo](games/k/karmazoo.md) | 2099-01-01 | 2099-01-01 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2099-01-01 | 2022-09-07 |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | 2099-01-01 |
+| [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | 2099-01-01 |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | 2099-01-01 |
 | [Lempo](games/l/lempo.md) | 2099-01-01 | 2099-01-01 |
 | [Lightracer Spark](games/l/lightracer_spark.md) | 2099-01-01 | 2023-04-12 |

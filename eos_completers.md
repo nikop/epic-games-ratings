@@ -18,7 +18,7 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.76% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.26% |
 | 22 | [Scorn](games/s/scorn.md) | 7.06% |
@@ -39,7 +39,7 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.53% |
-| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.45% |
+| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.44% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
@@ -69,10 +69,10 @@
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
 | 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
-| 70 | [Them and Us](games/t/them_and_us.md) | 1.52% |
-| 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 72 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
-| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
+| 70 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
+| 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
+| 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
+| 71 | [Them and Us](games/t/them_and_us.md) | 1.49% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
@@ -114,8 +114,8 @@
 | 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 113 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 115 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
-| 115 | [Tchia](games/t/tchia.md) | 0.35% |
+| 113 | [Tchia](games/t/tchia.md) | 0.37% |
+| 116 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 117 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 117 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
 | 117 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
@@ -123,9 +123,9 @@
 | 120 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.32% |
 | 123 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
-| 123 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
 | 123 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 123 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 126 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 127 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 128 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
@@ -399,4 +399,4 @@
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,610 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,611 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
