@@ -26,11 +26,11 @@ Rating: 4.55 (Ranked 465)
 | A Hunk of Junk | 0.50% | ~9 |
 | Access Granted | 0.50% | ~9 |
 | BRAWL! | 0.50% | ~9 |
-| Please Make it Stop! | 0.40% | ~8 |
+| Please Make it Stop! | 0.50% | ~9 |
+| Necessary Enhancement | 0.40% | ~8 |
 | From the Past | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |
-| Necessary Enhancement | 0.30% | ~6 |
 | All in Good Health | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |
 | Pulsar Disciple | 0.30% | ~6 |

@@ -36,7 +36,7 @@ Number of Ratings: 209  (23.09.2022)
 | Force Cube | 82.00% | ~1,647 |
 | Got Battery | 80.00% | ~1,607 |
 | Guard Distracted | 80.00% | ~1,607 |
-| Translocator | 79.00% | ~1,587 |
+| Translocator | 80.00% | ~1,607 |
 | Inner Peace | 77.00% | ~1,547 |
 | Diamond Pickaxe | 76.00% | ~1,527 |
 | Killed them all | 76.00% | ~1,527 |

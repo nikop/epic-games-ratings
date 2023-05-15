@@ -12,8 +12,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 1.00% | ~148 |
 | The Scarlet Orchard | 1.00% | ~148 |
 | No Deaths | 1.00% | ~148 |
-| First Real Expedition | 0.90% | ~133 |
-| Taking Action | 0.90% | ~133 |
+| First Real Expedition | 0.90% | ~134 |
+| Taking Action | 0.90% | ~134 |
 | Bandit Camp | 0.80% | ~119 |
 | Barren Lands | 0.80% | ~119 |
 | Lost Colonies | 0.80% | ~119 |
@@ -40,8 +40,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.40% | ~59 |
 | Defying the Crown | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
-| Ruined Armory | 0.30% | ~44 |
-| Fishmen Ritual Site | 0.30% | ~44 |
+| Ruined Armory | 0.30% | ~45 |
+| Fishmen Ritual Site | 0.30% | ~45 |
 | Beaver Utopia | 0.20% | ~30 |
 | Human Utopia | 0.20% | ~30 |
 | Lizard Utopia | 0.20% | ~30 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,832 (Ranked 98)  
+Progressed: 14,836 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 30 (0.20%) (Ranked 139)
 | 2023-05-12 | 14,766 | 30 |
 | 2023-05-13 | 14,794 | 30 |
 | 2023-05-14 | 14,821 | 30 |
-| 2023-05-15 | 14,832 | 30 |
+| 2023-05-15 | 14,836 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 194)  
 Sum: 3,024 (Ranked 150)  

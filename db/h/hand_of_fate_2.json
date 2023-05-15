@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 18,
@@ -834,7 +834,7 @@
   ],
   "EOS_Progressed": 656204,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3318,8 +3318,8 @@
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-15T19:05:54.3429833+00:00",
+  "LastChanged_Achievements": "2023-05-15T20:04:37.7308045+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:30.4319872+00:00",
-  "LastUpdate_Ratings": "2023-05-15T18:57:32.5781136+00:00",
-  "LastUpdate_Achievements": "2023-05-15T19:05:54.3430479+00:00"
+  "LastUpdate_Ratings": "2023-05-15T19:57:11.9233275+00:00",
+  "LastUpdate_Achievements": "2023-05-15T20:04:37.7308702+00:00"
 }

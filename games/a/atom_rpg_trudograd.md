@@ -1,7 +1,7 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.50 (Ranked 532)  
+Rating: 4.50 (Ranked 531)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,7 +21,7 @@ Rating: 4.50 (Ranked 532)
 | Albino Bloodsucker | 1.00% | ~10 |
 | Death of the Author | 1.00% | ~10 |
 | Memoirs of a Nibbler | 0.80% | ~8 |
-| Sixth Sense | 0.70% | ~7 |
+| Sixth Sense | 0.80% | ~8 |
 | KGB Bunker | 0.60% | ~6 |
 | Rising Star | 0.60% | ~6 |
 | Baby Eater | 0.50% | ~5 |

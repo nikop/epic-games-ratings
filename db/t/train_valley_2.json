@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -723,9 +723,9 @@
       "ID": "AchievementRailroadTycoon",
       "SetID": "76o014g",
       "Name": "Railroad tycoon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AchievementRelocation",
@@ -913,8 +913,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-15T19:06:09.8127095+00:00",
+  "LastChanged_Achievements": "2023-05-15T20:04:49.2280391+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:25.4877513+00:00",
-  "LastUpdate_Ratings": "2023-05-15T18:57:25.516199+00:00",
-  "LastUpdate_Achievements": "2023-05-15T19:06:09.8128436+00:00"
+  "LastUpdate_Ratings": "2023-05-15T19:57:07.352698+00:00",
+  "LastUpdate_Achievements": "2023-05-15T20:04:49.2281168+00:00"
 }

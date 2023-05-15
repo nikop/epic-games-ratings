@@ -900,9 +900,9 @@
       "ID": "ACH_BASE_37",
       "SetID": "92iocjf",
       "Name": "Necessary Enhancement",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_BASE_38",
@@ -1028,9 +1028,9 @@
       "ID": "ACH_BASE_56",
       "SetID": "92iocjf",
       "Name": "Please Make it Stop!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_BASE_57",
@@ -1147,8 +1147,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-15T19:05:52.1261528+00:00",
+  "LastChanged_Achievements": "2023-05-15T20:04:35.9877049+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-15T18:58:38.0731637+00:00",
-  "LastUpdate_Achievements": "2023-05-15T19:05:52.126256+00:00"
+  "LastUpdate_Ratings": "2023-05-15T19:57:55.1241024+00:00",
+  "LastUpdate_Achievements": "2023-05-15T20:04:35.9877584+00:00"
 }

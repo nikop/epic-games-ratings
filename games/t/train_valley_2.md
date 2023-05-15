@@ -58,9 +58,9 @@ Number of Ratings: 87  (23.09.2022)
 | Atomic Age | 0.70% | ~0 |
 | Digital Age | 0.70% | ~0 |
 | Information Age | 0.70% | ~0 |
+| Railroad tycoon | 0.70% | ~5 |
 | Achiever | 0.60% | ~4 |
 | Miscalculation | 0.60% | ~4 |
-| Railroad tycoon | 0.60% | ~4 |
 | Vostok | 0.60% | ~0 |
 | Will work | 0.60% | ~4 |
 | BBQ | 0.40% | ~3 |

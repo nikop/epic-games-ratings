@@ -7,28 +7,28 @@
 | Chest ✔ | 54.00% | ~90 |
 | Fright ✔ | 54.00% | ~90 |
 | Inventory ✔ | 51.00% | ~85 |
-| Police officers ✔ | 25.00% | ~42 |
+| Police officers ✔ | 26.00% | ~43 |
 | Mutation ✔ | 24.00% | ~40 |
 | Doberman ✔ | 13.00% | ~22 |
+| Weapon ✔ | 10.00% | ~17 |
 | Chess ✔ | 9.00% | ~15 |
-| Weapon ✔ | 9.00% | ~15 |
 | Master of Unlocking ✔ | 8.00% | ~13 |
+| Thirst ✔ | 8.00% | ~13 |
 | Antivirus ✔ | 7.00% | ~12 |
 | Cheats ✔ | 7.00% | ~12 |
 | Survival ✔ | 7.00% | ~12 |
 | Hospital ✔ | 7.00% | ~12 |
 | King of survival ✔ | 7.00% | ~12 |
-| Thirst ✔ | 7.00% | ~12 |
 | Alice ✔ | 6.00% | ~10 |
 | Betty ✔ | 6.00% | ~10 |
 | Brain ✔ | 6.00% | ~10 |
+| City ✔ | 6.00% | ~10 |
 | Food ✔ | 6.00% | ~10 |
+| Fraternal help ✔ | 6.00% | ~10 |
 | All secrets revealed ✔ | 6.00% | ~10 |
 | Boss 1 ✔ | 5.00% | ~8 |
-| City ✔ | 5.00% | ~8 |
 | Eva ✔ | 5.00% | ~8 |
 | Mutant fight ✔ | 5.00% | ~8 |
-| Fraternal help ✔ | 5.00% | ~8 |
 | City on fire ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
 | Crocodile Attack ✔ | 4.00% | ~7 |

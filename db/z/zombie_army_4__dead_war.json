@@ -1461,9 +1461,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42273,
+  "EOS_Progressed": 42274,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1991,6 +1991,11 @@
       "Time": "2023-05-15T02:07:43.1403701+00:00",
       "NumProgressed": 42273,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-15T20:05:13.9241594+00:00",
+      "NumProgressed": 42274,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -2058,7 +2063,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11836
+      "UsersEstimate": 11837
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -2194,7 +2199,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26209
+      "UsersEstimate": 26210
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2218,7 +2223,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18600
+      "UsersEstimate": 18601
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -2250,7 +2255,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -2290,7 +2295,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15218
+      "UsersEstimate": 15219
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -2306,7 +2311,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21136
+      "UsersEstimate": 21137
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -2322,7 +2327,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15218
+      "UsersEstimate": 15219
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -2378,7 +2383,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15218
+      "UsersEstimate": 15219
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -2394,7 +2399,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18600
+      "UsersEstimate": 18601
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -2402,7 +2407,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27477
+      "UsersEstimate": 27478
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2418,7 +2423,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7186
+      "UsersEstimate": 7187
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -2458,7 +2463,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27477
+      "UsersEstimate": 27478
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -2522,22 +2527,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15218
+      "UsersEstimate": 15219
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42273,
+      "Progressed": 42274,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-15T09:59:24.7528898+00:00",
-  "LastChanged_Achievements": "2023-05-15T19:06:41.2244103+00:00",
+  "LastChanged_Achievements": "2023-05-15T20:05:13.924159+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.0993815+00:00",
-  "LastUpdate_Ratings": "2023-05-15T19:00:21.7987085+00:00",
-  "LastUpdate_Achievements": "2023-05-15T19:06:41.2245221+00:00"
+  "LastUpdate_Ratings": "2023-05-15T19:59:03.5180037+00:00",
+  "LastUpdate_Achievements": "2023-05-15T20:05:13.9242229+00:00"
 }

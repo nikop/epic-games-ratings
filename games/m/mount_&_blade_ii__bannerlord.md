@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,479 |
-| Landlord | 29.00% | ~14,483 |
-| Lawmaker | 21.00% | ~10,487 |
-| Bannerlord | 20.00% | ~9,988 |
-| Horde breaker | 20.00% | ~9,988 |
-| Trained | 20.00% | ~9,988 |
-| The king is pleased | 16.00% | ~7,990 |
-| King Solomon | 15.00% | ~7,491 |
+| Lawbringer | 35.00% | ~17,481 |
+| Landlord | 29.00% | ~14,484 |
+| Lawmaker | 21.00% | ~10,488 |
+| Bannerlord | 20.00% | ~9,989 |
+| Horde breaker | 20.00% | ~9,989 |
+| Trained | 20.00% | ~9,989 |
+| The king is pleased | 16.00% | ~7,991 |
+| King Solomon | 15.00% | ~7,492 |
 | I can do it | 14.00% | ~6,992 |
-| Apple of my eye | 13.00% | ~6,492 |
+| Apple of my eye | 13.00% | ~6,493 |
 | God of the Arena | 12.00% | ~5,993 |
 | Against all odds | 9.00% | ~4,495 |
 | Swordbearer | 9.00% | ~4,495 |
-| Duelist | 8.00% | ~3,995 |
-| Dynasty | 8.00% | ~3,995 |
-| I spit on your grave | 8.00% | ~3,995 |
-| What have the Romans ever done for us? | 8.00% | ~3,995 |
+| Duelist | 8.00% | ~3,996 |
+| Dynasty | 8.00% | ~3,996 |
+| I spit on your grave | 8.00% | ~3,996 |
+| What have the Romans ever done for us? | 8.00% | ~3,996 |
 | Butterlord | 7.00% | ~3,496 |
-| Mastery | 6.00% | ~2,996 |
+| Mastery | 6.00% | ~2,997 |
 | Know your enemy | 5.00% | ~2,497 |
 | This Is Our Land | 5.00% | ~2,497 |
 | Crush your enemies | 4.00% | ~1,998 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,940 (Ranked 74)  
+Progressed: 49,945 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 49,639 | 0 |
 | 2023-05-13 | 49,748 | 0 |
 | 2023-05-14 | 49,864 | 0 |
-| 2023-05-15 | 49,940 | 0 |
+| 2023-05-15 | 49,945 | 0 |
 ## Awards
 Max (Character Customization): 6,526  (Ranked 49)  
 Sum: 13,020 (Ranked 68)  

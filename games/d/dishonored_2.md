@@ -3,12 +3,12 @@
 [View Rawdata](../../db/d/dishonored_2.json)  
 Rating: 4.80 (Ranked 78)  
 ## Awards
-Max (Great Boss Battles): 348  (Ranked 211)  
-Sum: 446 (Ranked 295)  
+Max (Great Boss Battles): 349  (Ranked 211)  
+Sum: 447 (Ranked 295)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 348 |
+| This game has Great Boss Battles | 349 |
 | This game has Diverse Characters | 30 |
 | This game is Relaxing | 25 |
 | This game is Highly Recommended | 22 |
@@ -84,3 +84,4 @@ Diff (max vs sum): -84
 | 2023-05-11 | 4.79 | 347 | 445 |
 | 2023-05-12 | 4.79 | 348 | 446 |
 | 2023-05-14 | 4.80 | 348 | 446 |
+| 2023-05-15 | 4.80 | 349 | 447 |
