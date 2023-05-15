@@ -231,6 +231,7 @@
 | [Bug Fables -The Everlasting Sapling-](../games/b/bug_fables_-the_everlasting_sapling-.md) | 30 | 1,000 |
 | [Bugsnax](../games/b/bugsnax.md) | 30 | 1,000 |
 | [Haven](../games/h/haven.md) | 30 | 1,000 |
+| [Island Farmer](../games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 30 | 1,000 |
 | [Maid of Sker](../games/m/maid_of_sker.md) | 30 | 1,000 |
 | [Partisans 1941](../games/p/partisans_1941.md) | 30 | 1,000 |
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |

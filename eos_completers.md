@@ -22,7 +22,7 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.29% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.88% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.86% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.71% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -69,13 +69,13 @@
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
 | 68 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
-| 70 | [Them and Us](games/t/them_and_us.md) | 1.54% |
+| 70 | [Them and Us](games/t/them_and_us.md) | 1.52% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
-| 75 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.32% |
+| 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 78 | [Trifox](games/t/trifox.md) | 1.28% |
 | 79 | [Chorus](games/c/chorus.md) | 1.27% |
@@ -288,6 +288,7 @@
 | 199 | [Imagine Earth](games/i/imagine_earth.md) | 0.00% |
 | 199 | [Infindustry](games/i/infindustry.md) | 0.00% |
 | 199 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
+| 199 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 0.00% |
 | 199 | [IXION](games/i/ixion.md) | 0.00% |
 | 199 | [JYDGE](games/j/jydge.md) | 0.00% |
 | 199 | [Kabaret](games/k/kabaret.md) | 0.00% |
