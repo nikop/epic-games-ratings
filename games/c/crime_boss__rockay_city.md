@@ -5,17 +5,17 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,945 |
-| First One’s Free | 65.00% | ~39,129 |
-| Neophyte Ninja | 50.00% | ~30,100 |
-| Too Old for This | 47.00% | ~28,294 |
-| Fancy Pants | 35.00% | ~21,070 |
-| Case Closed | 34.00% | ~20,468 |
-| King of the Hill | 33.00% | ~19,866 |
-| Underworld Initiate | 29.00% | ~17,458 |
-| Roid Ranger | 21.00% | ~12,642 |
-| True Player | 19.00% | ~11,438 |
-| Off the Rocks | 19.00% | ~11,438 |
+| Downed but Not Outed | 73.00% | ~43,948 |
+| First One’s Free | 65.00% | ~39,132 |
+| Neophyte Ninja | 50.00% | ~30,102 |
+| Too Old for This | 47.00% | ~28,295 |
+| Fancy Pants | 35.00% | ~21,071 |
+| Case Closed | 34.00% | ~20,469 |
+| King of the Hill | 33.00% | ~19,867 |
+| Underworld Initiate | 29.00% | ~17,459 |
+| Roid Ranger | 21.00% | ~12,643 |
+| True Player | 19.00% | ~11,439 |
+| Off the Rocks | 19.00% | ~11,439 |
 | Raider’s Ruin | 16.00% | ~9,632 |
 | Dragonslayer | 16.00% | ~9,632 |
 | Hidden Sonata | 13.00% | ~7,826 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~301 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,199 (Ranked 68)  
+Progressed: 60,203 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,16 +68,16 @@ Completed: 29 (0.05%) (Ranked 172)
 | 2023-05-12 | 59,889 | 29 |
 | 2023-05-13 | 60,028 | 29 |
 | 2023-05-14 | 60,142 | 29 |
-| 2023-05-15 | 60,199 | 29 |
+| 2023-05-15 | 60,203 | 29 |
 ## Awards
 Max (Highly Recommended): 266  (Ranked 234)  
-Sum: 1,254 (Ranked 219)  
+Sum: 1,256 (Ranked 219)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 266 |
 | This game has Diverse Characters | 255 |
-| This game has Amazing Characters | 250 |
+| This game has Amazing Characters | 252 |
 | This game has Challenging Combat | 243 |
 | This game has Quickly Understood Controls | 240 |
 | This game is Great for Quick Sessions | 70 |
@@ -133,4 +133,4 @@ Diff (max vs sum): 15
 | 2023-05-12 | 3.94 | 256 | 1,200 |
 | 2023-05-13 | 3.94 | 260 | 1,219 |
 | 2023-05-14 | 3.93 | 266 | 1,244 |
-| 2023-05-15 | 3.93 | 266 | 1,254 |
+| 2023-05-15 | 3.93 | 266 | 1,256 |

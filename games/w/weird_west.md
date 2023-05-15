@@ -10,7 +10,7 @@ Number of Ratings: 125  (23.09.2022)
 | Self-Improvement | 72.00% | ~1,086 |
 | Perky | 66.00% | ~996 |
 | Let’s Ride | 60.00% | ~905 |
-| Welcome to the Weird West | 58.00% | ~875 |
+| Welcome to the Weird West | 59.00% | ~890 |
 | Dead or Alive | 56.00% | ~845 |
 | Full House | 37.00% | ~558 |
 | Off the Trail | 34.00% | ~513 |
@@ -50,9 +50,9 @@ Number of Ratings: 125  (23.09.2022)
 | Ghost Town | 3.00% | ~45 |
 | Moondrunk | 3.00% | ~45 |
 | Lord Inut Sends His Regards | 2.00% | ~30 |
+| Hog Wild | 1.00% | ~15 |
 | 'Ma Barker | 1.00% | ~15 |
 | I Kicked a Bird and I Liked it | 0.90% | ~14 |
-| Hog Wild | 0.90% | ~14 |
 | Explorer | 0.50% | ~8 |
 | End the world | 0.50% | ~8 |
 | Moon Hunter | 0.40% | ~6 |

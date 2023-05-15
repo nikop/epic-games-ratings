@@ -110,6 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 16.00% | ~1,770 |
 | Hunters | 16.00% | ~1,770 |
 | Learn to Play 3 | 16.00% | ~1,770 |
+| Industrial Progress | 16.00% | ~1,770 |
 | Gnosticism | 16.00% | ~1,770 |
 | Veneration | 16.00% | ~1,770 |
 | Capable | 15.00% | ~1,660 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 15.00% | ~1,660 |
 | Carthage | 15.00% | ~1,660 |
 | Hittite Paganism | 15.00% | ~1,660 |
-| Industrial Progress | 15.00% | ~1,660 |
 | Enlightenment | 15.00% | ~1,660 |
 | Revelation | 15.00% | ~1,660 |
 | Win a Single Player Game | 15.00% | ~1,660 |

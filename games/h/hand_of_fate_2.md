@@ -1,21 +1,21 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.57 (Ranked 428)  
+Rating: 4.57 (Ranked 429)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,453 |
-| Apprentice | 58.00% | ~380,587 |
-| Close Shave | 25.00% | ~164,046 |
+| The Fool | 72.00% | ~472,455 |
+| Apprentice | 58.00% | ~380,589 |
+| Close Shave | 25.00% | ~164,047 |
 | Mercenary | 23.00% | ~150,923 |
 | Ninja | 23.00% | ~150,923 |
-| Northern Scourge | 17.00% | ~111,551 |
+| Northern Scourge | 17.00% | ~111,552 |
 | Thief Bane | 14.00% | ~91,866 |
-| Master of Arms | 12.00% | ~78,742 |
-| Gambler | 10.00% | ~65,618 |
-| Dice Master | 10.00% | ~65,618 |
+| Master of Arms | 12.00% | ~78,743 |
+| Gambler | 10.00% | ~65,619 |
+| Dice Master | 10.00% | ~65,619 |
 | Swordsman | 9.00% | ~59,057 |
 | Knight | 8.00% | ~52,495 |
 | Cure for Corruption | 8.00% | ~52,495 |
@@ -39,8 +39,8 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,562 |
 | Champion | 1.00% | ~6,562 |
 | Final Death | 1.00% | ~6,562 |
-| Ally | 0.80% | ~5,249 |
-| Thomas' Bane | 0.80% | ~5,249 |
+| Ally | 0.80% | ~5,250 |
+| Thomas' Bane | 0.80% | ~5,250 |
 | Gamester | 0.70% | ~4,593 |
 | Hero | 0.60% | ~3,937 |
 | Rebel | 0.60% | ~3,937 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,185 (Ranked 18)  
+Progressed: 656,188 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 165 (0.03%) (Ranked 181)
 | 2023-05-12 | 656,046 | 164 |
 | 2023-05-13 | 656,101 | 164 |
 | 2023-05-14 | 656,158 | 165 |
-| 2023-05-15 | 656,185 | 165 |
+| 2023-05-15 | 656,188 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 359)  

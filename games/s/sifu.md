@@ -8,7 +8,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~490 |
 | Project Arena | 3.00% | ~368 |
-| Bloody Sport | 1.00% | ~122 |
+| Bloody Sport | 1.00% | ~123 |
 | The best strikes are the ones we avoid | 0.90% | ~110 |
 | The Hateful Pole Fighter | 0.80% | ~5,624 |
 | A Lady's Blood in the Snow | 0.80% | ~5,624 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,949 (Ranked 15)  
+Progressed: 702,950 (Ranked 15)  
 Completed: 12,726 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 12,726 (1.81%) (Ranked 62)
 | 2023-05-12 | 702,858 | 12,723 |
 | 2023-05-13 | 702,892 | 12,725 |
 | 2023-05-14 | 702,934 | 12,726 |
-| 2023-05-15 | 702,949 | 12,726 |
+| 2023-05-15 | 702,950 | 12,726 |
 ## Awards
 Max (Great Boss Battles): 6,063  (Ranked 53)  
 Sum: 10,300 (Ranked 77)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1121,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -313,6 +313,11 @@
       "Time": "2023-05-14T22:05:21.7946342+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-15T15:06:51.5929105+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -340,7 +345,7 @@
       "Name": "Strike!",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "12",
@@ -380,7 +385,7 @@
       "Name": "My little pony",
       "Percentage": 21,
       "XP": 70,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "17",
@@ -388,7 +393,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "18",
@@ -396,7 +401,7 @@
       "Name": "Like new!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "19",
@@ -418,9 +423,9 @@
       "ID": "20",
       "SetID": "n50no0",
       "Name": "Don\u0027t look back",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 70,
-      "UsersEstimate": 146
+      "UsersEstimate": 157
     },
     {
       "ID": "21",
@@ -458,9 +463,9 @@
       "ID": "25",
       "SetID": "n50no0",
       "Name": "Heartstrings",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 168
     },
     {
       "ID": "27",
@@ -532,7 +537,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "7",
@@ -563,15 +568,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-15T14:05:40.0588504+00:00",
+  "LastChanged_Achievements": "2023-05-15T15:06:51.5929099+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:27.7554539+00:00",
-  "LastUpdate_Ratings": "2023-05-15T13:59:35.5696372+00:00",
-  "LastUpdate_Achievements": "2023-05-15T14:05:40.0588661+00:00"
+  "LastUpdate_Ratings": "2023-05-15T15:00:21.3333102+00:00",
+  "LastUpdate_Achievements": "2023-05-15T15:06:51.592949+00:00"
 }

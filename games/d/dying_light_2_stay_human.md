@@ -1,43 +1,43 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.57 (Ranked 428)  
+Rating: 4.58 (Ranked 412)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,271 |
-| Into the Unknown | 8.00% | ~43,796 |
-| First Shot | 8.00% | ~43,796 |
-| Herzlich Wilkommen! | 7.00% | ~38,322 |
-| Sancho Panza | 7.00% | ~38,322 |
-| Good Night & Good Luck | 7.00% | ~38,322 |
-| Under Pressure | 6.00% | ~32,847 |
-| Flag Burning | 6.00% | ~32,847 |
-| Oh, So This Is How It Works! | 6.00% | ~32,847 |
-| Night Hunter | 6.00% | ~32,847 |
-| On the Trail of the Enemy | 5.00% | ~27,373 |
-| Light in the Darkness | 5.00% | ~27,373 |
-| Get Outta My House! | 5.00% | ~27,373 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,373 |
-| Being All Social | 5.00% | ~27,373 |
-| Debris and Ashes | 4.00% | ~21,898 |
-| We Will Be Heard! | 4.00% | ~21,898 |
-| Known Associate | 4.00% | ~21,898 |
-| Brush with Death | 4.00% | ~21,898 |
-| Going Down | 4.00% | ~21,898 |
-| Family First | 4.00% | ~21,898 |
-| Your World, Your Rules | 4.00% | ~21,898 |
-| Tunnel Entrance | 4.00% | ~21,898 |
-| After the Fall | 4.00% | ~21,898 |
-| Can't Touch This! | 4.00% | ~21,898 |
-| Death From Afar | 4.00% | ~21,898 |
-| Terminal Headache | 3.00% | ~16,424 |
-| Slowpoke! | 3.00% | ~16,424 |
-| Tickets, Please! | 2.00% | ~10,949 |
-| Parkour Master | 2.00% | ~10,949 |
-| Combat Master | 2.00% | ~10,949 |
-| You're Going Down! | 2.00% | ~10,949 |
+| You Never Forget Your First... | 9.00% | ~49,274 |
+| Into the Unknown | 8.00% | ~43,799 |
+| First Shot | 8.00% | ~43,799 |
+| Herzlich Wilkommen! | 7.00% | ~38,324 |
+| Sancho Panza | 7.00% | ~38,324 |
+| Good Night & Good Luck | 7.00% | ~38,324 |
+| Under Pressure | 6.00% | ~32,849 |
+| Flag Burning | 6.00% | ~32,849 |
+| Oh, So This Is How It Works! | 6.00% | ~32,849 |
+| Night Hunter | 6.00% | ~32,849 |
+| On the Trail of the Enemy | 5.00% | ~27,374 |
+| Light in the Darkness | 5.00% | ~27,374 |
+| Get Outta My House! | 5.00% | ~27,374 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,374 |
+| Being All Social | 5.00% | ~27,374 |
+| Debris and Ashes | 4.00% | ~21,899 |
+| We Will Be Heard! | 4.00% | ~21,899 |
+| Known Associate | 4.00% | ~21,899 |
+| Brush with Death | 4.00% | ~21,899 |
+| Going Down | 4.00% | ~21,899 |
+| Family First | 4.00% | ~21,899 |
+| Your World, Your Rules | 4.00% | ~21,899 |
+| Tunnel Entrance | 4.00% | ~21,899 |
+| After the Fall | 4.00% | ~21,899 |
+| Can't Touch This! | 4.00% | ~21,899 |
+| Death From Afar | 4.00% | ~21,899 |
+| Terminal Headache | 3.00% | ~16,425 |
+| Slowpoke! | 3.00% | ~16,425 |
+| Tickets, Please! | 2.00% | ~10,950 |
+| Parkour Master | 2.00% | ~10,950 |
+| Combat Master | 2.00% | ~10,950 |
+| You're Going Down! | 2.00% | ~10,950 |
 | Municipal Services | 1.00% | ~5,475 |
 | Tube Map | 1.00% | ~5,475 |
 | Don Quixote | 1.00% | ~5,475 |
@@ -53,8 +53,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Find Anything Interesting? | 0.70% | ~3,832 |
 | Boot Licker | 0.70% | ~3,832 |
 | Get the Point? | 0.60% | ~3,285 |
-| My Friend, Ciro | 0.60% | ~1,157 |
-| Skullcrusher | 0.60% | ~1,157 |
+| My Friend, Ciro | 0.60% | ~1,158 |
+| Skullcrusher | 0.60% | ~1,158 |
 | Revenants | 0.50% | ~2,737 |
 | Who Wants To Be a... | 0.50% | ~2,737 |
 | Tanning Salon | 0.50% | ~2,737 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,453 (Ranked 22)  
+Progressed: 547,486 (Ranked 22)  
 Completed: 46 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,10 +97,10 @@ Completed: 46 (0.01%) (Ranked 191)
 | 2023-05-12 | 545,860 | 46 |
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
-| 2023-05-15 | 547,453 | 46 |
+| 2023-05-15 | 547,486 | 46 |
 ## Awards
 Max (Character Customization): 7,052  (Ranked 44)  
-Sum: 16,364 (Ranked 58)  
+Sum: 16,368 (Ranked 58)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -108,8 +108,8 @@ Diff (max vs sum): -14
 | This game has Great Boss Battles | 4,127 |
 | This game is Great for Beginners | 636 |
 | This game is Highly Recommended | 612 |
+| This game is Extremely Fun | 601 |
 | This game has Amazing Characters | 600 |
-| This game is Extremely Fun | 597 |
 | This game has Diverse Characters | 589 |
 | This game has Quickly Understood Controls | 583 |
 | This game is Relaxing | 559 |
@@ -242,4 +242,4 @@ Diff (max vs sum): -14
 | 2023-05-12 | 4.57 | - | 7,009 | 16,270 |
 | 2023-05-13 | 4.57 | - | 7,029 | 16,305 |
 | 2023-05-14 | 4.57 | - | 7,052 | 16,354 |
-| 2023-05-15 | 4.57 | - | 7,052 | 16,364 |
+| 2023-05-15 | 4.58 | - | 7,052 | 16,368 |

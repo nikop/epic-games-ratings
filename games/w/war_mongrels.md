@@ -6,29 +6,29 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 59.00% | ~151 |
+| Explorer | 60.00% | ~154 |
 | Cowardice | 53.00% | ~136 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~131 |
 | Eat Lead! | 50.00% | ~128 |
 | Prospector | 46.00% | ~118 |
-| Here Comes the Boom | 45.00% | ~115 |
+| Here Comes the Boom | 45.00% | ~116 |
 | Treasure Hunter | 44.00% | ~113 |
-| The Breaking Point | 38.00% | ~97 |
-| Missing in Action | 38.00% | ~97 |
-| Sniper Wolf | 38.00% | ~97 |
+| The Breaking Point | 39.00% | ~100 |
+| Missing in Action | 38.00% | ~98 |
+| Sniper Wolf | 38.00% | ~98 |
 | The Motivation | 35.00% | ~90 |
-| King of Knives | 33.00% | ~84 |
+| King of Knives | 33.00% | ~85 |
 | Heroism | 32.00% | ~82 |
 | Collectibles of Chapter I | 30.00% | ~77 |
-| Consequences | 29.00% | ~74 |
+| Consequences | 29.00% | ~75 |
 | Opportunities | 28.00% | ~72 |
 | The Horror | 27.00% | ~69 |
-| Collectibles of Chapter II | 24.00% | ~61 |
+| Collectibles of Chapter II | 24.00% | ~62 |
 | The Difference | 23.00% | ~59 |
-| Vengeance | 22.00% | ~56 |
+| Vengeance | 22.00% | ~57 |
 | Food Massacre | 21.00% | ~54 |
-| Broken Hopes | 20.00% | ~51 |
 | Bullseye! | 20.00% | ~51 |
+| Broken Hopes | 19.00% | ~49 |
 | Collectibles of Chapter III | 16.00% | ~41 |
 | Sorrow | 16.00% | ~41 |
 | It's Just an Accident | 16.00% | ~41 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256 (Ranked 217)  
+Progressed: 257 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 253 | 0 |
 | 2023-05-13 | 255 | 0 |
 | 2023-05-14 | 256 | 0 |
+| 2023-05-15 | 257 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

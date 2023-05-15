@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 27.00% | ~32,627 |
-| Get Busy Living | 17.00% | ~20,543 |
-| Samuel Norton | 10.00% | ~12,084 |
-| Spare The Rod | 5.00% | ~6,042 |
-| Wait and Hope | 4.00% | ~4,834 |
-| I May Have Found A Way Out Of Here | 4.00% | ~4,834 |
-| Don't Put Me In The Dark | 3.00% | ~3,625 |
-| Iron Bars | 3.00% | ~3,625 |
+| Stone Walls | 27.00% | ~32,634 |
+| Get Busy Living | 17.00% | ~20,547 |
+| Samuel Norton | 10.00% | ~12,087 |
+| Spare The Rod | 5.00% | ~6,043 |
+| Wait and Hope | 4.00% | ~4,835 |
+| I May Have Found A Way Out Of Here | 4.00% | ~4,835 |
+| Don't Put Me In The Dark | 3.00% | ~3,626 |
+| Iron Bars | 3.00% | ~3,626 |
 | Throw The Book At Them | 2.00% | ~2,417 |
-| D.B. Cooper | 1.00% | ~1,208 |
+| D.B. Cooper | 1.00% | ~1,209 |
 | Reformation | 0.60% | ~725 |
 | Crowd Control | 0.50% | ~604 |
 | Freedom | 0.40% | ~483 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~121 |
 | ... It's What You Can Prove | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,842 (Ranked 55)  
+Progressed: 120,867 (Ranked 55)  
 Completed: 4 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,17 +48,17 @@ Completed: 4 (0.00%) (Ranked 199)
 | 2023-05-12 | 119,502 | 4 |
 | 2023-05-13 | 120,093 | 4 |
 | 2023-05-14 | 120,654 | 4 |
-| 2023-05-15 | 120,842 | 4 |
+| 2023-05-15 | 120,867 | 4 |
 ## Awards
 Max (Extremely Fun): 414  (Ranked 195)  
-Sum: 3,272 (Ranked 144)  
+Sum: 3,274 (Ranked 144)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 414 |
 | This game is Great for Beginners | 404 |
 | This game is Highly Recommended | 403 |
-| This game has Quickly Understood Controls | 386 |
+| This game has Quickly Understood Controls | 388 |
 | This game is Relaxing | 365 |
 | This game has Diverse Characters | 358 |
 | This game has Amazing Storytelling | 355 |
@@ -184,4 +184,4 @@ Diff (max vs sum): 51
 | 2023-05-12 | 4.61 | - | 412 | 3,255 |
 | 2023-05-13 | 4.61 | - | 414 | 3,261 |
 | 2023-05-14 | 4.61 | - | 414 | 3,268 |
-| 2023-05-15 | 4.61 | - | 414 | 3,272 |
+| 2023-05-15 | 4.61 | - | 414 | 3,274 |

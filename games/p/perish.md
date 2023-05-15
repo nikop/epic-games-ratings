@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 5.00% | ~141 |
+| Lochos | 5.00% | ~141 |
 | Initiate's Resolve | 5.00% | ~141 |
 | Missilis | 4.00% | ~113 |
 | Modest Earnings | 4.00% | ~113 |
 | Armaments of the Pantheon | 4.00% | ~113 |
 | Persephone's Guidance | 4.00% | ~113 |
-| Lochos | 4.00% | ~113 |
 | Strength of Herakles | 4.00% | ~113 |
 | Reign in Blood | 4.00% | ~113 |
 | Pillars of Eternity | 3.00% | ~85 |

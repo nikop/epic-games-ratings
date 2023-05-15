@@ -279,6 +279,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.20% | ~108 |
 | The Battle of High Hall Tower | 0.20% | ~108 |
 | Elturel's Last Stand | 0.20% | ~108 |
+| Lost in the Underdark | 0.20% | ~108 |
 | Ending the Rime - Part 1 | 0.20% | ~108 |
 | Ending the Rime - Part 2 | 0.20% | ~108 |
 | Reghed Glacier Mysteries | 0.20% | ~108 |
@@ -471,7 +472,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Might Makes Right | 0.10% | ~54 |
 | The Stunning Tower Battle | 0.10% | ~54 |
 | Gargauth's Betrayal | 0.10% | ~54 |
-| Lost in the Underdark | 0.10% | ~54 |
 | Demons Here, Demons There | 0.10% | ~54 |
 | Visions of Hornfirth | 0.10% | ~54 |
 | Leemooggoogoon Rises | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,587 (Ranked 59)  
+Progressed: 87,593 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,587 | 1,843 |
+| 2023-05-15 | 87,593 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

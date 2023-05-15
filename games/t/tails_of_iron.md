@@ -1,27 +1,27 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.50 (Ranked 531)  
+Rating: 4.50 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,045 |
-| Become King | 70.00% | ~962 |
-| Ranged Weapon | 59.00% | ~811 |
-| Defeat 25 Frogs | 59.00% | ~811 |
-| Collect Monster Parts | 55.00% | ~756 |
-| Two Handed Weapon | 54.00% | ~742 |
+| Complete Guard Faction | 76.00% | ~1,046 |
+| Become King | 70.00% | ~963 |
+| Ranged Weapon | 59.00% | ~812 |
+| Defeat 25 Frogs | 59.00% | ~812 |
+| Collect Monster Parts | 55.00% | ~757 |
+| Two Handed Weapon | 54.00% | ~743 |
 | Defeat 25 Grubs | 50.00% | ~688 |
 | Rescue Redgi's Brothers | 49.00% | ~674 |
 | Collect Iron Ore | 45.00% | ~619 |
 | Defeat 25 Mozis | 44.00% | ~605 |
 | Kitchen Ready To Cook | 44.00% | ~605 |
-| Collect Gold | 43.00% | ~591 |
-| Smithy Ready to Craft | 43.00% | ~591 |
+| Collect Gold | 43.00% | ~592 |
+| Smithy Ready to Craft | 43.00% | ~592 |
 | Fix the Travellers Wagon | 41.00% | ~564 |
-| Complete Elder Faction | 38.00% | ~522 |
-| End of the Mozis | 35.00% | ~481 |
-| Throne Room Fit For A King | 35.00% | ~481 |
+| Complete Elder Faction | 38.00% | ~523 |
+| Throne Room Fit For A King | 36.00% | ~495 |
+| End of the Mozis | 35.00% | ~482 |
 | Return Power To The Depths | 34.00% | ~468 |
 | Meet the Creatures from the Deep | 33.00% | ~454 |
 | Defeat Ratnor Rodentson | 28.00% | ~385 |
@@ -33,10 +33,10 @@ Rating: 4.50 (Ranked 531)
 | Discover the mystery of the Kings Chambers | 18.00% | ~248 |
 | Complete Arena Faction | 14.00% | ~193 |
 | Complete Redgi's Armory | 7.00% | ~96 |
-| King of Kings | 6.00% | ~82 |
+| King of Kings | 6.00% | ~83 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,375 (Ranked 154)  
+Progressed: 1,376 (Ranked 154)  
 Completed: 6 (0.44%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 6 (0.44%) (Ranked 109)
 | 2023-05-12 | 1,369 | 6 |
 | 2023-05-13 | 1,371 | 6 |
 | 2023-05-14 | 1,372 | 6 |
-| 2023-05-15 | 1,375 | 6 |
+| 2023-05-15 | 1,376 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

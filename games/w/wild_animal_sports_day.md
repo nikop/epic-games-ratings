@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hurdles Pro | 67.00% | ~2 |
+| Skiing Pro | 67.00% | ~2 |
 | Tennis Pro | 67.00% | ~2 |
 | Darts Pro | 33.00% | ~1 |
 | Gymnastics Pro | 33.00% | ~1 |
 | Pole Vault Pro | 33.00% | ~1 |
-| Skiing Pro | 33.00% | ~1 |
 | Diving Pro | 0.00% | ~0 |
 | Trampolining Pro | 0.00% | ~0 |
 | Watched a movie | 0.00% | ~0 |

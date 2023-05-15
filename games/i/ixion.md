@@ -16,8 +16,8 @@ Rating: 4.55 (Ranked 465)
 | Permanent Redesigns | 1.00% | ~19 |
 | Ain't Nobody Got Time for That | 1.00% | ~19 |
 | Hope Seeker | 1.00% | ~19 |
+| A Thousand Strong | 0.90% | ~17 |
 | Fully Recycled | 0.90% | ~17 |
-| A Thousand Strong | 0.80% | ~15 |
 | The Ship of Theseus | 0.80% | ~15 |
 | Exceeding Capacity | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
@@ -35,6 +35,7 @@ Rating: 4.55 (Ranked 465)
 | Pedal to the Metal | 0.30% | ~6 |
 | Pulsar Disciple | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
+| Oats | 0.20% | ~4 |
 | What They Hide From Us | 0.20% | ~4 |
 | ...  in a finite world | 0.20% | ~4 |
 | Sustainable Energy | 0.20% | ~4 |
@@ -45,7 +46,6 @@ Rating: 4.55 (Ranked 465)
 | Tiqqun Unchained | 0.20% | ~4 |
 | What the Ruins Teach Us | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
-| Oats | 0.10% | ~2 |
 | Tiqqun Contender | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Work Harder | 0.10% | ~2 |

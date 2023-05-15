@@ -13,7 +13,7 @@
 | Stop Right There | 17.00% | ~5 |
 | Get to the Point | 17.00% | ~5 |
 | Ka-Ching! | 14.00% | ~4 |
-| Toe to Toe | 10.00% | ~3 |
+| Toe to Toe | 14.00% | ~4 |
 | Phew! | 10.00% | ~3 |
 | Grand Escape | 7.00% | ~2 |
 | Space Warrior: Prologue | 7.00% | ~2 |

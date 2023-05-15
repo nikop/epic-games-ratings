@@ -11,7 +11,7 @@
 | Cornivore | 62.00% | ~31 |
 | 15K | 38.00% | ~19 |
 | 10K | 38.00% | ~19 |
-| Drinking Problem | 28.00% | ~14 |
+| Drinking Problem | 30.00% | ~15 |
 | Skin Of Your Teeth | 22.00% | ~11 |
 | Eggtraordinary | 20.00% | ~10 |
 | Graveside Survivor | 16.00% | ~8 |

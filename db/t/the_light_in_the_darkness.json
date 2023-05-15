@@ -3,7 +3,7 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1271,
+  "EOS_Progressed": 1273,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1118,6 +1118,11 @@
       "Time": "2023-05-15T13:12:35.8506445+00:00",
       "NumProgressed": 1271,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-05-15T15:06:44.090724+00:00",
+      "NumProgressed": 1273,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 12,
@@ -1145,7 +1150,7 @@
       "Name": "Building the Fox",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1209,7 +1214,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "Nuremberg Laws",
@@ -1224,7 +1229,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1271,
+      "Progressed": 1273,
       "Completed": 99
     }
   ],
@@ -1232,8 +1237,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-15T14:05:33.5740394+00:00",
+  "LastChanged_Achievements": "2023-05-15T15:06:44.0907235+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-15T13:59:38.2817929+00:00",
-  "LastUpdate_Achievements": "2023-05-15T14:05:33.5740538+00:00"
+  "LastUpdate_Ratings": "2023-05-15T15:00:24.7003292+00:00",
+  "LastUpdate_Achievements": "2023-05-15T15:06:44.0907432+00:00"
 }

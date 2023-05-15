@@ -5,27 +5,27 @@ Rating: 4.29 (Ranked 761)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,720 |
-| A Ribbiting Performance | 78.00% | ~1,525 |
-| At Least We Have Each Other... | 77.00% | ~1,505 |
-| Frogbot | 74.00% | ~1,447 |
-| Ouch | 56.00% | ~1,095 |
-| Fun in the Stun | 56.00% | ~1,095 |
-| Do you feel like a tough guy? | 46.00% | ~899 |
-| The Interdimensional Power of Friendship | 45.00% | ~880 |
+| On the Shoulders of Giants | 88.00% | ~1,722 |
+| A Ribbiting Performance | 78.00% | ~1,526 |
+| At Least We Have Each Other... | 77.00% | ~1,507 |
+| Frogbot | 73.00% | ~1,429 |
+| Ouch | 56.00% | ~1,096 |
+| Fun in the Stun | 56.00% | ~1,096 |
+| Do you feel like a tough guy? | 46.00% | ~900 |
+| The Interdimensional Power of Friendship | 45.00% | ~881 |
 | Turn Up The HEAT | 41.00% | ~802 |
-| Stop Hitting Yourself! | 35.00% | ~684 |
-| Nothing to Wear | 31.00% | ~606 |
-| The First Law of Thermodynamics | 28.00% | ~547 |
+| Stop Hitting Yourself! | 35.00% | ~685 |
+| Nothing to Wear | 31.00% | ~607 |
+| The First Law of Thermodynamics | 28.00% | ~548 |
 | Do you trust me? | 16.00% | ~313 |
-| The Second Law of Thermodynamics | 15.00% | ~293 |
+| The Second Law of Thermodynamics | 15.00% | ~294 |
 | The Third Law of Thermodynamics | 9.00% | ~176 |
-| Say "Cheese!" | 8.00% | ~156 |
-| Taking Out the Trash | 8.00% | ~156 |
+| Say "Cheese!" | 8.00% | ~157 |
+| Taking Out the Trash | 8.00% | ~157 |
 | Better Than the Devs | 4.00% | ~78 |
 | So do we just stay up here, or?... | 2.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,955 (Ranked 145)  
+Progressed: 1,957 (Ranked 144)  
 Completed: 8 (0.41%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 8 (0.41%) (Ranked 110)
 | 2023-05-12 | 1,908 | 8 |
 | 2023-05-13 | 1,930 | 8 |
 | 2023-05-14 | 1,952 | 8 |
-| 2023-05-15 | 1,955 | 8 |
+| 2023-05-15 | 1,957 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
