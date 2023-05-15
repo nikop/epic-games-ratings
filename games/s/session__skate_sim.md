@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Tight lipslides | 6.00% | ~117 |
 | Bottom ply killer | 5.00% | ~98 |
 | Fulfilled the dream | 5.00% | ~98 |
+| Globetrotter | 5.00% | ~98 |
 | NAHELL! | 5.00% | ~98 |
 | Purple passion | 5.00% | ~98 |
 | Squad goals | 5.00% | ~98 |
@@ -32,7 +33,6 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 4.00% | ~78 |
 | Cops called! | 4.00% | ~78 |
 | DIY Boss | 4.00% | ~78 |
-| Globetrotter | 4.00% | ~78 |
 | Laid back | 4.00% | ~78 |
 | Lines for days | 4.00% | ~78 |
 | Manny Destroys All | 4.00% | ~78 |

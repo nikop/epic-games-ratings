@@ -3,12 +3,12 @@
   "Name": "Crayta",
   "ProductSlug": "crayta",
   "Ranking_Rating": 818,
-  "Ranking_Popularity": 387,
+  "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109278,
+  "EOS_Progressed": 109279,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -679,6 +679,11 @@
       "Time": "2023-05-15T13:12:08.6627935+00:00",
       "NumProgressed": 109278,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-15T21:04:42.9129204+00:00",
+      "NumProgressed": 109279,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -938,7 +943,7 @@
       "Name": "Express Yourself - Bronze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7649
+      "UsersEstimate": 7650
     },
     {
       "ID": "7",
@@ -961,15 +966,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109278,
+      "Progressed": 109279,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-05-15T20:04:27.6713853+00:00",
+  "LastChanged_Achievements": "2023-05-15T21:04:42.91292+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.8590607+00:00",
-  "LastUpdate_Ratings": "2023-05-15T19:57:44.5696659+00:00",
-  "LastUpdate_Achievements": "2023-05-15T20:04:27.6714118+00:00"
+  "LastUpdate_Ratings": "2023-05-15T20:57:58.8814568+00:00",
+  "LastUpdate_Achievements": "2023-05-15T21:04:42.9129416+00:00"
 }

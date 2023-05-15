@@ -30,26 +30,26 @@
 | Frog Facts! | 35.00% | ~225 |
 | All That Glistens | 35.00% | ~225 |
 | Stronger! | 35.00% | ~225 |
+| All Skilled Up! | 34.00% | ~219 |
 | It's Pointy! | 34.00% | ~219 |
 | Spellbound | 33.00% | ~212 |
-| All Skilled Up! | 33.00% | ~212 |
-| Extinct Again! | 32.00% | ~206 |
+| Extinct Again! | 33.00% | ~212 |
 | Bird of Prey | 32.00% | ~206 |
 | Stardust | 32.00% | ~206 |
 | Heartbreaker | 32.00% | ~206 |
 | Kidnapped! | 32.00% | ~206 |
+| Pull the Plug | 31.00% | ~199 |
+| All Heart | 31.00% | ~199 |
 | Trick Question! | 31.00% | ~199 |
-| Pull the Plug | 30.00% | ~193 |
 | Soul Slayer | 30.00% | ~193 |
-| All Heart | 30.00% | ~193 |
+| Extraordinary! | 30.00% | ~193 |
 | The Downfall | 29.00% | ~186 |
-| Extraordinary! | 29.00% | ~186 |
 | Final Showdown | 29.00% | ~186 |
 | Spot of Tea? | 29.00% | ~186 |
 | Going Home | 29.00% | ~186 |
 | Mirror, Mirror | 28.00% | ~180 |
 | Flower Power | 25.00% | ~161 |
-| Shopping Spree! | 21.00% | ~135 |
+| Shopping Spree! | 22.00% | ~141 |
 | Crowned | 21.00% | ~135 |
 | Max Level! | 13.00% | ~84 |
 | Dance Master | 8.00% | ~51 |

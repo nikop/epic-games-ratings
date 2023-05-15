@@ -4,10 +4,10 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
-    "ReleaseDate": "2023-05-31T00:00:00+00:00",
+    "ReleaseDate": "2023-05-15T00:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {
@@ -43,9 +43,9 @@
       "ID": "LEVEL_001",
       "SetID": "212bg48",
       "Name": "A fresh start",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_002",
@@ -289,8 +289,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-15T19:59:51.4017011+00:00",
+  "LastChanged_Achievements": "2023-05-15T21:00:13.9482761+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-15T19:56:47.2831736+00:00",
-  "LastUpdate_Achievements": "2023-05-15T19:59:51.4017275+00:00"
+  "LastUpdate_Ratings": "2023-05-15T20:56:58.8220464+00:00",
+  "LastUpdate_Achievements": "2023-05-15T21:00:13.9482972+00:00"
 }

@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 643,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 6.84,
   "EosHistory": [
@@ -1213,9 +1213,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 212
     },
     {
       "ID": "14",
@@ -1229,9 +1229,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 199
     },
     {
       "ID": "16",
@@ -1301,9 +1301,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 199
     },
     {
       "ID": "24",
@@ -1437,9 +1437,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 219
     },
     {
       "ID": "4",
@@ -1469,9 +1469,9 @@
       "ID": "42",
       "SetID": "d0g98p",
       "Name": "Shopping Spree!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 141
     },
     {
       "ID": "43",
@@ -1493,9 +1493,9 @@
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 193
     },
     {
       "ID": "46",
@@ -1590,8 +1590,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-15T20:04:32.8679088+00:00",
+  "LastChanged_Achievements": "2023-05-15T21:04:47.9925441+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-15T19:57:06.6668856+00:00",
-  "LastUpdate_Achievements": "2023-05-15T20:04:32.8679588+00:00"
+  "LastUpdate_Ratings": "2023-05-15T20:57:19.4733352+00:00",
+  "LastUpdate_Achievements": "2023-05-15T21:04:47.9925894+00:00"
 }

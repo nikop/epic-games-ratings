@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -4551,9 +4551,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 42398,
+  "EOS_Progressed": 42399,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6426,6 +6426,11 @@
       "Time": "2023-05-15T20:04:59.4671656+00:00",
       "NumProgressed": 42398,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-15T21:05:15.0504379+00:00",
+      "NumProgressed": 42399,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -6589,7 +6594,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 32222
+      "UsersEstimate": 32223
     },
     {
       "ID": "HorseJumps",
@@ -6621,7 +6626,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 19503
+      "UsersEstimate": 19504
     },
     {
       "ID": "Mission",
@@ -6637,7 +6642,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16111
+      "UsersEstimate": 16112
     },
     {
       "ID": "Money",
@@ -6661,7 +6666,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 16959
+      "UsersEstimate": 16960
     },
     {
       "ID": "NumPlaceables",
@@ -6669,7 +6674,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 18655
+      "UsersEstimate": 18656
     },
     {
       "ID": "NumProductionPoints",
@@ -6701,7 +6706,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11871
+      "UsersEstimate": 11872
     },
     {
       "ID": "PlayTime",
@@ -6741,7 +6746,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 18231
+      "UsersEstimate": 18232
     },
     {
       "ID": "TruckDriving",
@@ -6757,7 +6762,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11023
+      "UsersEstimate": 11024
     },
     {
       "ID": "VehicleRepair",
@@ -6780,15 +6785,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 42398,
+      "Progressed": 42399,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-05-15T19:58:54.5525309+00:00",
-  "LastChanged_Achievements": "2023-05-15T20:04:59.4671651+00:00",
+  "LastChanged_Achievements": "2023-05-15T21:05:15.0504376+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.4750828+00:00",
-  "LastUpdate_Ratings": "2023-05-15T19:58:54.5525315+00:00",
-  "LastUpdate_Achievements": "2023-05-15T20:04:59.4672085+00:00"
+  "LastUpdate_Ratings": "2023-05-15T20:59:10.1152694+00:00",
+  "LastUpdate_Achievements": "2023-05-15T21:05:15.0504736+00:00"
 }

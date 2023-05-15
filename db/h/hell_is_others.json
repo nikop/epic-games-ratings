@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 248788,
+  "EOS_Progressed": 248791,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2695,6 +2695,11 @@
       "Time": "2023-05-15T20:05:12.6089975+00:00",
       "NumProgressed": 248788,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T21:05:28.3343636+00:00",
+      "NumProgressed": 248791,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2754,7 +2759,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77124
+      "UsersEstimate": 77125
     },
     {
       "ID": "BackHomeNTimes",
@@ -2762,7 +2767,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12439
+      "UsersEstimate": 12440
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -2834,7 +2839,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12439
+      "UsersEstimate": 12440
     },
     {
       "ID": "CreedsInBank2",
@@ -2962,7 +2967,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12439
+      "UsersEstimate": 12440
     },
     {
       "ID": "KillOtherWithKatana",
@@ -2994,7 +2999,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54733
+      "UsersEstimate": 54734
     },
     {
       "ID": "KillOthers2",
@@ -3153,7 +3158,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248788,
+      "Progressed": 248791,
       "Completed": 1
     }
   ],
@@ -3161,8 +3166,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-13T15:00:35.1754519+00:00",
-  "LastChanged_Achievements": "2023-05-15T20:05:12.608997+00:00",
+  "LastChanged_Achievements": "2023-05-15T21:05:28.3343631+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.6367659+00:00",
-  "LastUpdate_Ratings": "2023-05-15T19:59:24.5198947+00:00",
-  "LastUpdate_Achievements": "2023-05-15T20:05:12.609051+00:00"
+  "LastUpdate_Ratings": "2023-05-15T20:59:43.3388241+00:00",
+  "LastUpdate_Achievements": "2023-05-15T21:05:28.3344188+00:00"
 }

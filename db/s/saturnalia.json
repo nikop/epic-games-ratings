@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63499,
+  "EOS_Progressed": 63501,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2015,6 +2015,11 @@
       "Time": "2023-05-15T19:02:11.3141123+00:00",
       "NumProgressed": 63499,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-15T21:00:39.7416872+00:00",
+      "NumProgressed": 63501,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -2058,7 +2063,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -2066,7 +2071,7 @@
       "Name": "Ear Ringing",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_FLASHCREATURE",
@@ -2074,7 +2079,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -2106,7 +2111,7 @@
       "Name": "Silent Advisor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_PAULMISSION",
@@ -2122,7 +2127,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -2185,7 +2190,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63499,
+      "Progressed": 63501,
       "Completed": 10
     }
   ],
@@ -2193,8 +2198,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-05-15T20:00:16.8264279+00:00",
+  "LastChanged_Achievements": "2023-05-15T21:00:39.7416868+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:27.061306+00:00",
-  "LastUpdate_Ratings": "2023-05-15T19:57:09.2659274+00:00",
-  "LastUpdate_Achievements": "2023-05-15T20:00:16.8264567+00:00"
+  "LastUpdate_Ratings": "2023-05-15T20:57:22.2918237+00:00",
+  "LastUpdate_Achievements": "2023-05-15T21:00:39.7417254+00:00"
 }

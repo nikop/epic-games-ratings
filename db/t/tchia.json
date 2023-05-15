@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -134,11 +134,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5734,
-  "EOS_Completed": 20,
+  "EOS_Progressed": 5735,
+  "EOS_Completed": 21,
   "EOS_NewPlayers": 124,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.5163739+00:00",
@@ -1494,6 +1494,11 @@
       "Time": "2023-05-15T19:05:48.5950532+00:00",
       "NumProgressed": 5734,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-15T21:04:48.5976273+00:00",
+      "NumProgressed": 5735,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 21,
@@ -1529,7 +1534,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -1553,7 +1558,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1609,7 +1614,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "LIBERATOR",
@@ -1672,16 +1677,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5734,
-      "Completed": 20
+      "Progressed": 5735,
+      "Completed": 21
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-12T16:58:00.7751461+00:00",
-  "LastChanged_Achievements": "2023-05-15T20:04:33.5298657+00:00",
+  "LastChanged_Achievements": "2023-05-15T21:04:48.5976269+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-15T19:57:31.1385818+00:00",
-  "LastUpdate_Achievements": "2023-05-15T20:04:33.5298881+00:00"
+  "LastUpdate_Ratings": "2023-05-15T20:57:44.2370885+00:00",
+  "LastUpdate_Achievements": "2023-05-15T21:04:48.5976451+00:00"
 }

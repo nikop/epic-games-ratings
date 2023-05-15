@@ -10,7 +10,7 @@ Number of Ratings: 743  (23.09.2022)
 | Say goodbye, creep! | 65.00% | ~27,478 |
 | Blood splattered | 65.00% | ~27,478 |
 | Choo choo! | 62.00% | ~26,210 |
-| Groovy | 60.00% | ~25,364 |
+| Groovy | 61.00% | ~25,787 |
 | Cleanup on aisle 4! | 56.00% | ~23,673 |
 | Gold | 50.00% | ~21,137 |
 | The boat can leave now...tell the crew | 48.00% | ~20,292 |

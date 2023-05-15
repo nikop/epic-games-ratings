@@ -22,7 +22,7 @@
 | Salvation! | 11.00% | ~22 |
 | Heavenly Virtues | 11.00% | ~22 |
 | Brilliant Inventor | 8.00% | ~16 |
-| Greatest inventor | 7.00% | ~14 |
+| Greatest inventor | 8.00% | ~16 |
 | Master of the Worlds | 6.00% | ~12 |
 | Master of Alchemy | 5.00% | ~10 |
 | God of Patience | 4.00% | ~8 |

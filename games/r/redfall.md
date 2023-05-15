@@ -6,16 +6,16 @@ Rating: 3.41 (Ranked 919)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 81.00% | ~1,256 |
-| Home Is Where the Heart Is | 63.00% | ~976 |
-| Ne Plus Ultra | 63.00% | ~976 |
-| Wounded Whispers | 63.00% | ~976 |
-| Blood Will Have Blood | 52.00% | ~806 |
-| ICU | 47.00% | ~728 |
+| Home Is Where the Heart Is | 63.00% | ~977 |
+| Ne Plus Ultra | 63.00% | ~977 |
+| Wounded Whispers | 63.00% | ~977 |
+| Blood Will Have Blood | 52.00% | ~807 |
+| ICU | 47.00% | ~729 |
 | Catch and Release | 46.00% | ~713 |
 | Peek-a-boo | 45.00% | ~698 |
 | Sucks To Be You | 45.00% | ~698 |
-| Welcome to the Neighborhood | 39.00% | ~604 |
-| Fly Fisher | 37.00% | ~574 |
+| Welcome to the Neighborhood | 39.00% | ~605 |
+| Fly Fisher | 36.00% | ~558 |
 | Throw The First Stone | 36.00% | ~558 |
 | Enter of Your Own Free Will | 33.00% | ~512 |
 | Heart Attack | 33.00% | ~512 |
@@ -26,7 +26,7 @@ Rating: 3.41 (Ranked 919)
 | Neighborhood Revitalization | 16.00% | ~248 |
 | Radio Silence | 16.00% | ~248 |
 | Helping Hand | 13.00% | ~202 |
-| You Clean It Up | 11.00% | ~170 |
+| You Clean It Up | 11.00% | ~171 |
 | Starve the Beast | 9.00% | ~140 |
 | Block Party | 8.00% | ~124 |
 | From the Shadows | 5.00% | ~78 |
@@ -34,13 +34,13 @@ Rating: 3.41 (Ranked 919)
 | Right This Way | 4.00% | ~62 |
 | Nice Try | 4.00% | ~62 |
 | Enemy of My Enemy | 4.00% | ~62 |
-| Revelations | 3.00% | ~46 |
-| Contingency Plans | 3.00% | ~46 |
-| Sic Transit Umbra | 3.00% | ~46 |
-| Silence Is Golden | 3.00% | ~46 |
-| Good Morning | 3.00% | ~46 |
-| Check, Please! | 3.00% | ~46 |
-| Blacklight Down | 3.00% | ~46 |
+| Revelations | 3.00% | ~47 |
+| Contingency Plans | 3.00% | ~47 |
+| Sic Transit Umbra | 3.00% | ~47 |
+| Silence Is Golden | 3.00% | ~47 |
+| Good Morning | 3.00% | ~47 |
+| Check, Please! | 3.00% | ~47 |
+| Blacklight Down | 3.00% | ~47 |
 | Scream Team | 2.00% | ~31 |
 | Blood Brother | 2.00% | ~31 |
 | Empty Nest Syndrome | 2.00% | ~31 |
@@ -72,7 +72,7 @@ Rating: 3.41 (Ranked 919)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,550 (Ranked 150)  
+Progressed: 1,551 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 1,512 | 0 |
 | 2023-05-13 | 1,526 | 0 |
 | 2023-05-14 | 1,539 | 0 |
-| 2023-05-15 | 1,550 | 0 |
+| 2023-05-15 | 1,551 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
