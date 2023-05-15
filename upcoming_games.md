@@ -18,6 +18,7 @@
 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 2023-05-19 | 2022-08-18 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
+| [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
@@ -275,7 +276,6 @@
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | 2024-01-13 |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2099-01-01 | 2099-01-01 |
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2099-01-01 | - |
-| [Planet of Lana](games/p/planet_of_lana.md) | 2099-01-01 | 2099-01-01 |
 | [Poi](games/p/poi.md) | 2099-01-01 | 2017-02-01 |
 | [POLYGOD](games/p/polygod.md) | 2099-01-01 | 2099-01-01 |
 | [Power of Ten](games/p/power_of_ten.md) | 2099-01-01 | 2023-01-11 |
