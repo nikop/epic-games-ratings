@@ -1,6 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
+| [Tin Hearts](games/5/5d1128dd0a214b64ad9356749b140e3d.md) | 2023-05-16 | 2023-05-16 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Bus Driver Simulator](games/d/d696915035d84092a02a646f25530ccd.md) | 2023-05-17 | 2019-12-04 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
@@ -51,6 +51,7 @@
 | [Barrett Foster - Chapter One](games/8/866ee32c061b4765b9c0ea3a72d2d17f.md) | 2023-06-01 | 2023-06-01 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 2023-04-06 |
 | [Search](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | 2022-08-29 |
+| [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | 2023-02-07 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 2023-06-16 |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | 2023-06-20 |

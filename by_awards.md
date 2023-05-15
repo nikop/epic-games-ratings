@@ -19,8 +19,8 @@
 | 17 | [Dauntless](games/d/dauntless.md) | 19,825 | 4.53 | 490 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,787 | 4.77 | 104 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,299 | 4.57 | 429 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,157 | 4.89 | 11 |
-| 21 | [Warframe](games/w/warframe.md) | 14,777 | 4.61 | 352 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,176 | 4.89 | 11 |
+| 21 | [Warframe](games/w/warframe.md) | 14,800 | 4.61 | 352 |
 | 22 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,342 | 4.58 | 412 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,191 | 4.76 | 115 |
 | 24 | [Maneater](games/m/maneater.md) | 13,447 | 4.49 | 553 |
@@ -128,7 +128,7 @@
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,149 | 4.52 | 501 |
 | 127 | [OUTRIDERS](games/o/outriders.md) | 1,113 | 4.42 | 643 |
 | 128 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,087 | 4.61 | 352 |
-| 129 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.60 | 379 |
+| 129 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,060 | 4.60 | 379 |
 | 130 | [World of Warships](games/w/world_of_warships.md) | 1,053 | 4.43 | 637 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,049 | 4.54 | 477 |
 | 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,038 | 4.66 | 273 |
@@ -143,7 +143,7 @@
 | 141 | [Sonic Mania](games/s/sonic_mania.md) | 907 | 4.78 | 99 |
 | 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 868 | 4.69 | 213 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 851 | 4.45 | 603 |
-| 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 843 | 4.76 | 115 |
+| 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 845 | 4.76 | 115 |
 | 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 839 | 4.55 | 465 |
 | 146 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 773 | 4.69 | 213 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 771 | 4.74 | 140 |
@@ -258,9 +258,9 @@
 | 256 | [Stranded Deep](games/s/stranded_deep.md) | 202 | 4.22 | 799 |
 | 257 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 201 | 4.35 | 716 |
 | 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 198 | 4.54 | 477 |
-| 259 | [HITMAN](games/h/hitman.md) | 196 | 4.64 | 311 |
-| 260 | [Relicta](games/r/relicta.md) | 194 | 4.15 | 841 |
-| 260 | [The Sims™ 4](games/t/the_sims™_4.md) | 194 | 4.61 | 352 |
+| 258 | [The Sims™ 4](games/t/the_sims™_4.md) | 198 | 4.61 | 352 |
+| 260 | [HITMAN](games/h/hitman.md) | 196 | 4.64 | 311 |
+| 261 | [Relicta](games/r/relicta.md) | 194 | 4.15 | 841 |
 | 262 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 191 | 4.81 | 70 |
 | 263 | [Crashlands](games/c/crashlands.md) | 188 | 4.66 | 273 |
 | 264 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 184 | 4.42 | 643 |
@@ -300,13 +300,13 @@
 | 298 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.28 | 769 |
 | 299 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 124 | 4.81 | 70 |
 | 300 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 123 | 4.20 | 808 |
-| 301 | [Aven Colony](games/a/aven_colony.md) | 120 | 4.20 | 808 |
-| 302 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 119 | 4.53 | 490 |
-| 302 | [Timberborn](games/t/timberborn.md) | 119 | 4.72 | 164 |
-| 304 | [Going Medieval](games/g/going_medieval.md) | 118 | 4.60 | 379 |
-| 305 | [Sonic Origins](games/s/sonic_origins.md) | 117 | 4.57 | 429 |
-| 306 | [MORDHAU](games/m/mordhau.md) | 116 | 4.42 | 643 |
-| 306 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 90 |
+| 300 | [MORDHAU](games/m/mordhau.md) | 123 | 4.42 | 643 |
+| 302 | [Aven Colony](games/a/aven_colony.md) | 120 | 4.20 | 808 |
+| 303 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 119 | 4.53 | 490 |
+| 303 | [Timberborn](games/t/timberborn.md) | 119 | 4.72 | 164 |
+| 305 | [Going Medieval](games/g/going_medieval.md) | 118 | 4.60 | 379 |
+| 306 | [Sonic Origins](games/s/sonic_origins.md) | 117 | 4.57 | 429 |
+| 307 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 90 |
 | 308 | [BIOMUTANT](games/b/biomutant.md) | 115 | 4.33 | 735 |
 | 309 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 311 |
 | 309 | [Tropico 5](games/t/tropico_5.md) | 114 | 4.45 | 603 |
@@ -367,7 +367,7 @@
 | 365 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 235 |
 | 365 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 448 |
 | 365 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 69 | 4.72 | 164 |
-| 368 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 67 | 4.34 | 725 |
+| 368 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 68 | 4.34 | 725 |
 | 369 | [Potion Permit](games/p/potion_permit.md) | 66 | 3.79 | 908 |
 | 369 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 637 |
 | 369 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 311 |
