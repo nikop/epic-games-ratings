@@ -2014,9 +2014,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 16115,
+  "EOS_Progressed": 16116,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 915,
+  "EOS_NewPlayers": 916,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -4239,6 +4239,11 @@
       "Time": "2023-05-15T04:01:52.4039058+00:00",
       "NumProgressed": 16115,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-05-15T05:00:48.3028511+00:00",
+      "NumProgressed": 16116,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 60,
@@ -4250,7 +4255,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 9669
+      "UsersEstimate": 9670
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -4258,7 +4263,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7574
+      "UsersEstimate": 7575
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -4466,7 +4471,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 6768
+      "UsersEstimate": 6769
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -4482,7 +4487,7 @@
       "Name": "Rusty Steel",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 6929
+      "UsersEstimate": 6930
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -4490,7 +4495,7 @@
       "Name": "Thirst quencher",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4674
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -4506,7 +4511,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4674
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -4586,7 +4591,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -4602,7 +4607,7 @@
       "Name": "The Force disturbed",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -4626,7 +4631,7 @@
       "Name": "Damned good",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5640
+      "UsersEstimate": 5641
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -4642,7 +4647,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4835
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -4650,7 +4655,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 11280
+      "UsersEstimate": 11281
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -4729,15 +4734,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 16115,
+      "Progressed": 16116,
       "Completed": 150
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-14T02:59:17.6989612+00:00",
-  "LastChanged_Achievements": "2023-05-15T04:01:52.4039011+00:00",
+  "LastChanged_Achievements": "2023-05-15T05:00:48.3028345+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:03.2080094+00:00",
-  "LastUpdate_Ratings": "2023-05-15T03:59:54.8206597+00:00",
-  "LastUpdate_Achievements": "2023-05-15T04:01:52.4039975+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:59:13.7922317+00:00",
+  "LastUpdate_Achievements": "2023-05-15T05:00:48.3029365+00:00"
 }

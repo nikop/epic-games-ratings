@@ -6,15 +6,15 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,456 |
-| Landlord | 29.00% | ~14,463 |
+| Lawbringer | 35.00% | ~17,457 |
+| Landlord | 29.00% | ~14,464 |
 | Lawmaker | 21.00% | ~10,474 |
 | Bannerlord | 20.00% | ~9,975 |
 | Horde breaker | 20.00% | ~9,975 |
 | Trained | 20.00% | ~9,975 |
 | The king is pleased | 16.00% | ~7,980 |
-| King Solomon | 15.00% | ~7,481 |
-| I can do it | 14.00% | ~6,982 |
+| King Solomon | 15.00% | ~7,482 |
+| I can do it | 14.00% | ~6,983 |
 | Apple of my eye | 13.00% | ~6,484 |
 | God of the Arena | 12.00% | ~5,985 |
 | Against all odds | 9.00% | ~4,489 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 8.00% | ~3,990 |
 | What have the Romans ever done for us? | 8.00% | ~3,990 |
 | Butterlord | 7.00% | ~3,491 |
-| Mastery | 6.00% | ~2,992 |
+| Mastery | 6.00% | ~2,993 |
 | Know your enemy | 5.00% | ~2,494 |
 | This Is Our Land | 5.00% | ~2,494 |
 | Crush your enemies | 4.00% | ~1,995 |
@@ -32,15 +32,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Veni vidi vici | 4.00% | ~1,995 |
 | Crowdfunded | 3.00% | ~1,496 |
 | Freedom! | 3.00% | ~1,496 |
-| Entrepreneur | 2.00% | ~997 |
-| Long live the Empire! | 2.00% | ~997 |
-| Real Estate | 2.00% | ~997 |
+| Entrepreneur | 2.00% | ~998 |
+| Long live the Empire! | 2.00% | ~998 |
+| Real Estate | 2.00% | ~998 |
 | Supreme Emperor | 1.00% | ~499 |
 | Crackshot | 0.70% | ~349 |
 | Undercover | 0.70% | ~349 |
 | Fat Cat | 0.60% | ~299 |
 | Catch | 0.50% | ~249 |
-| Slice 'n dice | 0.40% | ~199 |
+| Slice 'n dice | 0.40% | ~200 |
 | Mounted Archery | 0.30% | ~150 |
 | Ride it like you stole it | 0.30% | ~150 |
 | Strike! | 0.20% | ~100 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,874 (Ranked 74)  
+Progressed: 49,877 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 49,639 | 0 |
 | 2023-05-13 | 49,748 | 0 |
 | 2023-05-14 | 49,864 | 0 |
-| 2023-05-15 | 49,874 | 0 |
+| 2023-05-15 | 49,877 | 0 |
 ## Awards
 Max (Character Customization): 6,526  (Ranked 49)  
 Sum: 13,016 (Ranked 68)  

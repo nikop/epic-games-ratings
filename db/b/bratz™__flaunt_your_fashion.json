@@ -2,7 +2,7 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 81,
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -43,6 +43,11 @@
       "Time": "2023-04-30T22:04:21.8713681+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T05:05:48.3949893+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -52,15 +57,15 @@
       "ID": "1",
       "SetID": "41h3j82",
       "Name": "Welcome to Stilesville",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 70,
       "UsersEstimate": 9
     },
@@ -68,7 +73,7 @@
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 70,
       "UsersEstimate": 7
     },
@@ -76,7 +81,7 @@
       "ID": "12",
       "SetID": "41h3j82",
       "Name": "Stilesville Hidden Style",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -132,7 +137,7 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 70,
       "UsersEstimate": 7
     },
@@ -140,7 +145,7 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -148,7 +153,7 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 70,
       "UsersEstimate": 9
     },
@@ -156,7 +161,7 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 70,
       "UsersEstimate": 7
     },
@@ -164,7 +169,7 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 70,
       "UsersEstimate": 9
     },
@@ -172,7 +177,7 @@
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -180,7 +185,7 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -188,7 +193,7 @@
       "ID": "8",
       "SetID": "41h3j82",
       "Name": "Hoverboard Race",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -196,7 +201,7 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 70,
       "UsersEstimate": 16
     }
@@ -205,7 +210,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
@@ -213,8 +218,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-05-15T04:06:35.659813+00:00",
+  "LastChanged_Achievements": "2023-05-15T05:05:48.3949889+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:59.9282242+00:00",
-  "LastUpdate_Ratings": "2023-05-15T03:59:49.7539262+00:00",
-  "LastUpdate_Achievements": "2023-05-15T04:06:35.6598264+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:59:10.2402409+00:00",
+  "LastUpdate_Achievements": "2023-05-15T05:05:48.3950036+00:00"
 }

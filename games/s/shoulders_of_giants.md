@@ -18,7 +18,7 @@ Rating: 4.29 (Ranked 761)
 | Nothing to Wear | 31.00% | ~605 |
 | The First Law of Thermodynamics | 28.00% | ~547 |
 | Do you trust me? | 16.00% | ~312 |
-| The Second Law of Thermodynamics | 14.00% | ~273 |
+| The Second Law of Thermodynamics | 15.00% | ~293 |
 | The Third Law of Thermodynamics | 9.00% | ~176 |
 | Say "Cheese!" | 8.00% | ~156 |
 | Taking Out the Trash | 8.00% | ~156 |

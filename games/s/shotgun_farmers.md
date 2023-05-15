@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 98.00% | ~49 |
 | First Blood | 74.00% | ~37 |
-| Triple Kill | 68.00% | ~34 |
-| No Asperascope | 60.00% | ~30 |
-| Cornivore | 60.00% | ~30 |
+| Triple Kill | 70.00% | ~35 |
+| No Asperascope | 62.00% | ~31 |
+| Cornivore | 62.00% | ~31 |
 | 15K | 38.00% | ~19 |
 | 10K | 38.00% | ~19 |
 | Drinking Problem | 28.00% | ~14 |
@@ -21,9 +21,9 @@
 | Quit Horsin' Around | 12.00% | ~6 |
 | Chick Magnet | 10.00% | ~5 |
 | Carrocketeer | 10.00% | ~5 |
+| Honk Honk | 8.00% | ~4 |
 | Forestside Survivor | 8.00% | ~4 |
 | Bring Home The Bacon | 6.00% | ~3 |
-| Honk Honk | 6.00% | ~3 |
 | Darkside Survivor | 6.00% | ~3 |
 | Early Bird | 6.00% | ~3 |
 | Pro Shotgunner | 4.00% | ~2 |

@@ -5,30 +5,30 @@ Rating: 4.51 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 83.00% | ~2,011 |
-| Realm Estate | 80.00% | ~1,938 |
-| Secret Technique | 80.00% | ~1,938 |
-| Walls Cannot Stop Us | 76.00% | ~1,841 |
-| From Friends to Family | 72.00% | ~1,745 |
-| Magical Synergy | 67.00% | ~1,623 |
-| Bone Peddler | 63.00% | ~1,526 |
-| Stronger Together | 57.00% | ~1,381 |
-| Full Ascension | 54.00% | ~1,308 |
-| There Can Only Be One! | 48.00% | ~1,163 |
-| Seat of Power | 46.00% | ~1,115 |
+| A Wonderful Discovery | 83.00% | ~2,013 |
+| Realm Estate | 80.00% | ~1,940 |
+| Secret Technique | 80.00% | ~1,940 |
+| Walls Cannot Stop Us | 76.00% | ~1,843 |
+| From Friends to Family | 72.00% | ~1,746 |
+| Magical Synergy | 67.00% | ~1,625 |
+| Bone Peddler | 63.00% | ~1,528 |
+| Stronger Together | 57.00% | ~1,382 |
+| Full Ascension | 54.00% | ~1,310 |
+| There Can Only Be One! | 48.00% | ~1,164 |
+| Seat of Power | 46.00% | ~1,116 |
 | My Final Form | 42.00% | ~1,018 |
 | Intimidation Tactics | 42.00% | ~1,018 |
-| Valley of Wonders | 41.00% | ~993 |
-| In a Liege of Your Own | 35.00% | ~848 |
+| Valley of Wonders | 40.00% | ~970 |
+| In a Liege of Your Own | 35.00% | ~849 |
 | Digging for Treasure | 29.00% | ~703 |
 | Against the Odds | 29.00% | ~703 |
-| Return of the Wizard King | 28.00% | ~678 |
+| Return of the Wizard King | 28.00% | ~679 |
 | Enchanted Archipelago | 24.00% | ~582 |
-| Impenetrable Fortress | 23.00% | ~557 |
+| Impenetrable Fortress | 23.00% | ~558 |
 | The Magic That Empowers Me! | 17.00% | ~412 |
 | God Emperor | 16.00% | ~388 |
 | Preparation Is Everything | 16.00% | ~388 |
-| Arch Mage | 15.00% | ~363 |
+| Arch Mage | 15.00% | ~364 |
 | Eternal Lord | 13.00% | ~315 |
 | The Creator | 12.00% | ~291 |
 | Crimson Caldera | 12.00% | ~291 |
@@ -50,7 +50,7 @@ Rating: 4.51 (Ranked 515)
 | Master of Evilness | 0.10% | ~2 |
 | Returning Circle | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,423 (Ranked 139)  
+Progressed: 2,425 (Ranked 139)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 2,037 | 0 |
 | 2023-05-13 | 2,241 | 0 |
 | 2023-05-14 | 2,408 | 0 |
-| 2023-05-15 | 2,423 | 0 |
+| 2023-05-15 | 2,425 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

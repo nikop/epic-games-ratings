@@ -3706,9 +3706,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87557,
+  "EOS_Progressed": 87561,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -5966,6 +5966,11 @@
       "Time": "2023-05-15T04:07:06.5659645+00:00",
       "NumProgressed": 87557,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T05:06:15.2180036+00:00",
+      "NumProgressed": 87561,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6049,7 +6054,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1051",
@@ -6729,7 +6734,7 @@
       "Name": "Keep Your Distance",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1178",
@@ -6753,7 +6758,7 @@
       "Name": "Hands Off!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1183",
@@ -6761,7 +6766,7 @@
       "Name": "The Dread Domain of Tovag",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1184",
@@ -6777,7 +6782,7 @@
       "Name": "Frail Doesn\u0027t Mean Broken",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1188",
@@ -6785,7 +6790,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1189",
@@ -6801,7 +6806,7 @@
       "Name": "Unreasonable Doesn\u0027t Mean Stupid",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1193",
@@ -6873,7 +6878,7 @@
       "Name": "Bully for Vecna",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "objective_completed_1213",
@@ -7049,7 +7054,7 @@
       "Name": "No One Can Hear You Scream",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1346",
@@ -8865,7 +8870,7 @@
       "Name": "An Even Worse Time in Avernus",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_655",
@@ -8999,9 +9004,9 @@
       "ID": "objective_completed_680",
       "SetID": "415jc5c",
       "Name": "Into the Unknown",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_681",
@@ -9505,7 +9510,7 @@
       "Name": "How Far Away is Thay",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_857",
@@ -9583,9 +9588,9 @@
       "ID": "objective_completed_872",
       "SetID": "415jc5c",
       "Name": "Elturel\u0027s Last Stand",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_873",
@@ -9888,21 +9893,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53831,
+      "Progressed": 53835,
       "Completed": 2508
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87557,
+      "Progressed": 87561,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T02:00:10.6762796+00:00",
-  "LastChanged_Achievements": "2023-05-15T04:07:06.565964+00:00",
+  "LastChanged_Achievements": "2023-05-15T05:06:15.2180031+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T03:58:30.4961024+00:00",
-  "LastUpdate_Achievements": "2023-05-15T04:07:06.5688499+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:58:07.1071331+00:00",
+  "LastUpdate_Achievements": "2023-05-15T05:06:15.2205658+00:00"
 }

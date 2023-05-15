@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12207,
+  "EOS_Progressed": 12208,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3459,6 +3459,11 @@
       "Time": "2023-05-15T04:06:50.8049972+00:00",
       "NumProgressed": 12207,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-15T05:06:01.1408549+00:00",
+      "NumProgressed": 12208,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 22,
@@ -3478,7 +3483,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "1017",
@@ -3486,7 +3491,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "1018",
@@ -3574,7 +3579,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "1029",
@@ -3590,7 +3595,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "1031",
@@ -3645,15 +3650,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 12207,
+      "Progressed": 12208,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-15T04:06:50.8049966+00:00",
+  "LastChanged_Achievements": "2023-05-15T05:06:01.1408544+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.192023+00:00",
-  "LastUpdate_Ratings": "2023-05-15T04:01:17.2123777+00:00",
-  "LastUpdate_Achievements": "2023-05-15T04:06:50.8050275+00:00"
+  "LastUpdate_Ratings": "2023-05-15T05:00:19.1606561+00:00",
+  "LastUpdate_Achievements": "2023-05-15T05:06:01.1408825+00:00"
 }

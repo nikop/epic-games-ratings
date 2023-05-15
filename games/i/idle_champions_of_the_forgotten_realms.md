@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pin and Skewer | 1.00% | ~538 |
 | The Cursed Farmer | 1.00% | ~876 |
 | Beast Intentions | 0.90% | ~788 |
-| Bully for Vecna | 0.90% | ~484 |
+| Bully for Vecna | 0.90% | ~485 |
 | The Mad Wizard | 0.90% | ~788 |
 | The Ring of Regeneration | 0.70% | ~613 |
 | Were-verpowered | 0.60% | ~525 |
@@ -37,16 +37,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.40% | ~350 |
 | Escort to Waterdeep | 0.40% | ~350 |
 | Waterdeep Detours | 0.40% | ~350 |
-| Tall Tales | 0.30% | ~161 |
+| Tall Tales | 0.30% | ~162 |
 | The Silken Swamp | 0.30% | ~263 |
 | Supply Run | 0.30% | ~263 |
-| Keep Your Distance | 0.30% | ~161 |
-| Hands Off! | 0.30% | ~161 |
-| The Dread Domain of Tovag | 0.30% | ~161 |
-| Frail Doesn't Mean Broken | 0.30% | ~161 |
-| The Castle of a Thousand Vecnas | 0.30% | ~161 |
-| Unreasonable Doesn't Mean Stupid | 0.30% | ~161 |
-| No One Can Hear You Scream | 0.30% | ~161 |
+| Keep Your Distance | 0.30% | ~162 |
+| Hands Off! | 0.30% | ~162 |
+| The Dread Domain of Tovag | 0.30% | ~162 |
+| Frail Doesn't Mean Broken | 0.30% | ~162 |
+| The Castle of a Thousand Vecnas | 0.30% | ~162 |
+| Unreasonable Doesn't Mean Stupid | 0.30% | ~162 |
+| No One Can Hear You Scream | 0.30% | ~162 |
 | Low Initiative | 0.30% | ~263 |
 | Street War | 0.30% | ~263 |
 | Building Trust | 0.30% | ~263 |
@@ -63,12 +63,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.30% | ~263 |
 | Flying Monkey Skulls of Doom | 0.30% | ~263 |
 | Running of the Saurs | 0.30% | ~263 |
-| An Even Worse Time in Avernus | 0.30% | ~161 |
+| An Even Worse Time in Avernus | 0.30% | ~162 |
 | Close Escort | 0.30% | ~263 |
 | Constant Banditry | 0.30% | ~263 |
 | Underdeep Cartography | 0.30% | ~263 |
 | Overdue Rendezvous | 0.30% | ~263 |
-| How Far Away is Thay | 0.30% | ~161 |
+| How Far Away is Thay | 0.30% | ~162 |
 | The Templar's Camp | 0.30% | ~263 |
 | Rescue in the Jungle | 0.30% | ~263 |
 | Pros and CONs | 0.20% | ~175 |
@@ -226,6 +226,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.20% | ~108 |
 | Questlines | 0.20% | ~108 |
 | Bel's Forge | 0.20% | ~108 |
+| Into the Unknown | 0.20% | ~108 |
 | The Prison of Velkynvelve | 0.20% | ~108 |
 | The Giant's Bane Tavern | 0.20% | ~108 |
 | Rime Bandits | 0.20% | ~108 |
@@ -263,6 +264,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Deekin's Mission | 0.20% | ~108 |
 | Frozen Vengeance | 0.20% | ~108 |
 | The Battle of High Hall Tower | 0.20% | ~108 |
+| Elturel's Last Stand | 0.20% | ~108 |
 | Ending the Rime - Part 1 | 0.20% | ~108 |
 | Ending the Rime - Part 2 | 0.20% | ~108 |
 | Reghed Glacier Mysteries | 0.20% | ~108 |
@@ -442,7 +444,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Just The Worst | 0.10% | ~54 |
 | Extreme Heat | 0.10% | ~54 |
 | Fire and Brimstone | 0.10% | ~54 |
-| Into the Unknown | 0.10% | ~54 |
 | A Tenday at Golgamann's | 0.10% | ~54 |
 | A Nightmare Occasion | 0.10% | ~54 |
 | Prisoners of Lolth | 0.10% | ~54 |
@@ -469,7 +470,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | REALLY Frozen Vengeance | 0.10% | ~54 |
 | Might Makes Right | 0.10% | ~54 |
 | The Stunning Tower Battle | 0.10% | ~54 |
-| Elturel's Last Stand | 0.10% | ~54 |
 | Gargauth's Betrayal | 0.10% | ~54 |
 | Lost in the Underdark | 0.10% | ~54 |
 | Demons Here, Demons There | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,557 (Ranked 59)  
+Progressed: 87,561 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,557 | 1,843 |
+| 2023-05-15 | 87,561 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,882 (Ranked 37)  

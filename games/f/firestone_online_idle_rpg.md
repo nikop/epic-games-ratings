@@ -25,9 +25,9 @@ Rating: 3.64 (Ranked 917)
 | Natural Talent | 8.00% | ~81 |
 | The Unstoppable | 8.00% | ~81 |
 | Superior | 7.00% | ~71 |
+| Daily Quest Completionist | 6.00% | ~61 |
 | Mysterious Rock | 6.00% | ~61 |
 | Scientist | 6.00% | ~61 |
-| Daily Quest Completionist | 5.00% | ~51 |
 | Challenger | 4.00% | ~41 |
 | Background Story | 3.00% | ~31 |
 | Frostfire Liberator | 3.00% | ~31 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -64,7 +64,7 @@
   "Tags": [],
   "EOS_Progressed": 1018,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1694,9 +1694,9 @@
       "ID": "dailyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Daily Quest Completionist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 61
     },
     {
       "ID": "doingmypart",
@@ -2215,8 +2215,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-15T04:06:31.2884481+00:00",
+  "LastChanged_Achievements": "2023-05-15T05:05:44.8212033+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-15T03:58:27.0749384+00:00",
-  "LastUpdate_Achievements": "2023-05-15T04:06:31.2885359+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:58:04.0839514+00:00",
+  "LastUpdate_Achievements": "2023-05-15T05:05:44.821288+00:00"
 }

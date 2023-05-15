@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2175,10 +2175,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 520962,
+  "EOS_Progressed": 520965,
   "EOS_Completed": 1407,
-  "EOS_NewPlayers": 761,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 762,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -4435,6 +4435,11 @@
       "Time": "2023-05-15T04:06:34.9462691+00:00",
       "NumProgressed": 520962,
       "NumCompleted": 1407
+    },
+    {
+      "Time": "2023-05-15T05:05:47.7065604+00:00",
+      "NumProgressed": 520965,
+      "NumCompleted": 1407
     }
   ],
   "TotalAchievements": 37,
@@ -4462,7 +4467,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 156289
+      "UsersEstimate": 156290
     },
     {
       "ID": "DEVOTED",
@@ -4502,7 +4507,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 432398
+      "UsersEstimate": 432401
     },
     {
       "ID": "HONED",
@@ -4510,7 +4515,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20838
+      "UsersEstimate": 20839
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -4518,7 +4523,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20838
+      "UsersEstimate": 20839
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -4558,7 +4563,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 208385
+      "UsersEstimate": 208386
     },
     {
       "ID": "THE_CASTLE",
@@ -4574,7 +4579,7 @@
       "Name": "The Cave",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36467
+      "UsersEstimate": 36468
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -4590,7 +4595,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 20838
+      "UsersEstimate": 20839
     },
     {
       "ID": "THE_DOME",
@@ -4622,7 +4627,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 93773
+      "UsersEstimate": 93774
     },
     {
       "ID": "THE_KEEP",
@@ -4654,7 +4659,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 20838
+      "UsersEstimate": 20839
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -4694,7 +4699,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36467
+      "UsersEstimate": 36468
     },
     {
       "ID": "THE_THREE",
@@ -4702,7 +4707,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 333416
+      "UsersEstimate": 333418
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -4726,7 +4731,7 @@
       "Name": "The Ziggurat",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 36467
+      "UsersEstimate": 36468
     },
     {
       "ID": "WISE_WORDS",
@@ -4741,15 +4746,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 520962,
+      "Progressed": 520965,
       "Completed": 1407
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-15T02:01:14.7127349+00:00",
-  "LastChanged_Achievements": "2023-05-15T04:06:34.9462685+00:00",
+  "LastChanged_Achievements": "2023-05-15T05:05:47.7065599+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:14.6878817+00:00",
-  "LastUpdate_Ratings": "2023-05-15T04:00:10.2996564+00:00",
-  "LastUpdate_Achievements": "2023-05-15T04:06:34.9463647+00:00"
+  "LastUpdate_Ratings": "2023-05-15T04:59:25.9924572+00:00",
+  "LastUpdate_Achievements": "2023-05-15T05:05:47.7066007+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~11,280 |
-| The Evilest Evil | 60.00% | ~9,669 |
+| The Shadow strikes | 70.00% | ~11,281 |
+| The Evilest Evil | 60.00% | ~9,670 |
 | Twistram is devastated | 59.00% | ~9,508 |
 | The Gehenna Stones | 51.00% | ~8,219 |
-| No one has to die today! | 47.00% | ~7,574 |
+| No one has to die today! | 47.00% | ~7,575 |
 | Death and destruction! | 46.00% | ~7,413 |
 | The Swamplanders from the swamplands | 45.00% | ~7,252 |
-| Rusty Steel | 43.00% | ~6,929 |
-| The One-Huge-Army-Building Evil | 42.00% | ~6,768 |
+| Rusty Steel | 43.00% | ~6,930 |
+| The One-Huge-Army-Building Evil | 42.00% | ~6,769 |
 | The last burger | 39.00% | ~6,285 |
 | Braiiiiins! | 39.00% | ~6,285 |
 | Hands off the Dungeonheart! | 38.00% | ~6,124 |
 | A trip on sea, what fun it can be | 37.00% | ~5,963 |
-| Damned good | 35.00% | ~5,640 |
+| Damned good | 35.00% | ~5,641 |
 | Stock Market Crash | 33.00% | ~5,318 |
 | Factory farming | 33.00% | ~5,318 |
 | Not-So-Overproud | 32.00% | ~5,157 |
 | For a handfull of Catapults | 31.00% | ~4,996 |
-| Shadow hunter | 30.00% | ~4,834 |
-| Thirst quencher | 29.00% | ~4,673 |
-| Ogre Solo! | 29.00% | ~4,673 |
+| Shadow hunter | 30.00% | ~4,835 |
+| Thirst quencher | 29.00% | ~4,674 |
+| Ogre Solo! | 29.00% | ~4,674 |
 | Destroy the thing | 28.00% | ~4,512 |
 | Tide Master | 28.00% | ~4,512 |
 | Difficult family relationships | 27.00% | ~4,351 |
@@ -35,14 +35,14 @@ Number of Ratings: 1,635  (23.09.2022)
 | MASS-O-BOT | 25.00% | ~4,029 |
 | Where there is Light, there is Shadow | 25.00% | ~4,029 |
 | At the foot of Mount Destiny | 24.00% | ~3,868 |
-| The Force disturbed | 23.00% | ~3,706 |
+| The Force disturbed | 23.00% | ~3,707 |
 | The Victorious Evil | 21.00% | ~3,384 |
 | We don’t have time! | 21.00% | ~3,384 |
 | Chorus of damnation | 20.00% | ~3,223 |
 | Lifeguard | 19.00% | ~3,062 |
 | The Stones’ Power | 18.00% | ~2,901 |
 | Flat as a pancake | 18.00% | ~2,901 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~2,578 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~2,579 |
 | This is fun, I’m going to keep doing this! | 13.00% | ~2,095 |
 | Then let them eat cake! | 13.00% | ~2,095 |
 | Please, no interruptions! | 11.00% | ~1,773 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~322 |
 | Sacrifices! | 2.00% | ~322 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,115 (Ranked 96)  
+Progressed: 16,116 (Ranked 96)  
 Completed: 150 (0.93%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 150 (0.93%) (Ranked 85)
 | 2023-05-12 | 15,762 | 148 |
 | 2023-05-13 | 15,942 | 150 |
 | 2023-05-14 | 16,102 | 150 |
-| 2023-05-15 | 16,115 | 150 |
+| 2023-05-15 | 16,116 | 150 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 218)  
 Sum: 2,526 (Ranked 165)  
