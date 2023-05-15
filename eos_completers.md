@@ -20,7 +20,7 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.32% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.90% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.71% |
@@ -65,8 +65,8 @@
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
-| 65 | [Them and Us](games/t/them_and_us.md) | 1.67% |
-| 67 | [Night Book](games/n/night_book.md) | 1.66% |
+| 66 | [Night Book](games/n/night_book.md) | 1.66% |
+| 67 | [Them and Us](games/t/them_and_us.md) | 1.64% |
 | 68 | [Somerville](games/s/somerville.md) | 1.61% |
 | 69 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.59% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
@@ -85,7 +85,7 @@
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
 | 85 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
-| 86 | [Sable](games/s/sable.md) | 0.92% |
+| 85 | [Sable](games/s/sable.md) | 0.93% |
 | 87 | [Hades](games/h/hades.md) | 0.90% |
 | 88 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 89 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
@@ -105,8 +105,8 @@
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
-| 106 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
-| 106 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 108 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
@@ -398,4 +398,4 @@
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,605 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,606 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
