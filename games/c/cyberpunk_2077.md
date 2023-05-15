@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,810 |
-| Right Back At Ya | 37.00% | ~295,895 |
-| The Lovers | 32.00% | ~255,909 |
+| The Fool | 67.00% | ~535,811 |
+| Right Back At Ya | 37.00% | ~295,896 |
+| The Lovers | 32.00% | ~255,910 |
 | Stanislavski's Method | 27.00% | ~215,924 |
-| The Wheel of Fortune | 25.00% | ~199,929 |
+| The Wheel of Fortune | 25.00% | ~199,930 |
 | The Hermit | 23.00% | ~183,935 |
 | Christmas Tree Attack | 22.00% | ~175,938 |
 | True Soldier | 22.00% | ~175,938 |
 | Legend of The Afterlife | 21.00% | ~167,941 |
-| The High Priestess | 20.00% | ~159,943 |
+| The High Priestess | 20.00% | ~159,944 |
 | Life of the Road | 19.00% | ~151,946 |
 | Full Body Conversion | 17.00% | ~135,952 |
 | The World | 16.00% | ~127,955 |
 | Bushido and Chill | 15.00% | ~119,958 |
-| Gun Fu | 14.00% | ~111,960 |
-| True Warrior | 14.00% | ~111,960 |
+| Gun Fu | 14.00% | ~111,961 |
+| True Warrior | 14.00% | ~111,961 |
 | To Protect and Serve | 13.00% | ~103,963 |
 | Master Crafter | 13.00% | ~103,963 |
 | I Am The Law | 13.00% | ~103,963 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,997 |
 | Rough Landing | 0.40% | ~3,199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,717 (Ranked 11)  
+Progressed: 799,718 (Ranked 11)  
 Completed: 1,595 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,10 +76,10 @@ Completed: 1,595 (0.20%) (Ranked 139)
 | 2023-05-12 | 799,337 | 1,592 |
 | 2023-05-13 | 799,525 | 1,594 |
 | 2023-05-14 | 799,707 | 1,595 |
-| 2023-05-15 | 799,717 | 1,595 |
+| 2023-05-15 | 799,718 | 1,595 |
 ## Awards
 Max (Character Customization): 64,220  (Ranked 9)  
-Sum: 168,387 (Ranked 13)  
+Sum: 168,413 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +92,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 7,257 |
 | This game is Highly Recommended | 7,249 |
 | This game has Quickly Understood Controls | 7,122 |
-| This game has Amazing Characters | 7,048 |
+| This game has Amazing Characters | 7,074 |
 | This game has a Creative Community | 4,715 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -213,3 +213,4 @@ Diff (max vs sum): -4
 | 2023-05-12 | 4.62 | - | 64,063 | 167,932 |
 | 2023-05-13 | 4.62 | - | 64,131 | 168,153 |
 | 2023-05-14 | 4.62 | - | 64,220 | 168,387 |
+| 2023-05-15 | 4.62 | - | 64,220 | 168,413 |

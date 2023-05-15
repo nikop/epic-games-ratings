@@ -981,7 +981,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5290,
+  "EOS_Progressed": 5291,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
@@ -2821,6 +2821,11 @@
       "Time": "2023-05-15T02:07:38.1025506+00:00",
       "NumProgressed": 5290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T03:06:01.1703332+00:00",
+      "NumProgressed": 5291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2832,7 +2837,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "10",
@@ -2840,7 +2845,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "11",
@@ -2880,7 +2885,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "16",
@@ -2920,7 +2925,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "20",
@@ -2928,7 +2933,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "21",
@@ -2944,7 +2949,7 @@
       "Name": "First Step",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "23",
@@ -2976,7 +2981,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "27",
@@ -3072,7 +3077,7 @@
       "Name": "Spreading Influence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "38",
@@ -3080,7 +3085,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "39",
@@ -3152,7 +3157,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "47",
@@ -3216,7 +3221,7 @@
       "Name": "Amped Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "54",
@@ -3303,15 +3308,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5290,
+      "Progressed": 5291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-15T02:07:38.1025502+00:00",
+  "LastChanged_Achievements": "2023-05-15T03:06:01.1703328+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-15T02:01:45.0793198+00:00",
-  "LastUpdate_Achievements": "2023-05-15T02:07:38.1026164+00:00"
+  "LastUpdate_Ratings": "2023-05-15T03:00:06.4380551+00:00",
+  "LastUpdate_Achievements": "2023-05-15T03:06:01.1704064+00:00"
 }

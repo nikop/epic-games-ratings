@@ -13,11 +13,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Hateful Pole Fighter | 0.80% | ~5,624 |
 | A Lady's Blood in the Snow | 0.80% | ~5,624 |
 | Qi Gong: Breath | 0.80% | ~5,624 |
+| Path of the Prospect | 0.80% | ~5,624 |
 | Lady Wing Chun | 0.70% | ~4,921 |
 | Furious Fists | 0.70% | ~4,921 |
 | Kill Nil | 0.70% | ~4,921 |
 | State of constant learning | 0.70% | ~4,921 |
-| Path of the Prospect | 0.70% | ~4,921 |
 | Rumble in the Hangar | 0.70% | ~4,921 |
 | The Assault | 0.60% | ~4,218 |
 | Scareless | 0.60% | ~4,218 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,938 (Ranked 15)  
+Progressed: 702,939 (Ranked 15)  
 Completed: 12,726 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 12,726 (1.81%) (Ranked 62)
 | 2023-05-12 | 702,858 | 12,723 |
 | 2023-05-13 | 702,892 | 12,725 |
 | 2023-05-14 | 702,934 | 12,726 |
-| 2023-05-15 | 702,938 | 12,726 |
+| 2023-05-15 | 702,939 | 12,726 |
 ## Awards
 Max (Great Boss Battles): 6,063  (Ranked 53)  
 Sum: 10,300 (Ranked 77)  

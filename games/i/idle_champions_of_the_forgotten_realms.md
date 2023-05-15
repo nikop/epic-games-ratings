@@ -85,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~108 |
 | Don't Breathe the Marsh Gas | 0.20% | ~108 |
 | Don't Blast the Brigands | 0.20% | ~108 |
+| Don't Squeeze the Spiders | 0.20% | ~108 |
 | The Fall of Ythryn | 0.20% | ~108 |
 | The Prince of a Thousand Enemies | 0.20% | ~108 |
 | Uncommon Allies | 0.20% | ~108 |
@@ -258,6 +259,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waiting on Sunrise | 0.20% | ~108 |
 | Deekin's Mission | 0.20% | ~108 |
 | Frozen Vengeance | 0.20% | ~108 |
+| The Battle of High Hall Tower | 0.20% | ~108 |
 | Ending the Rime - Part 1 | 0.20% | ~108 |
 | Ending the Rime - Part 2 | 0.20% | ~108 |
 | Reghed Glacier Mysteries | 0.20% | ~108 |
@@ -274,7 +276,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | And Your Enemies Closer | 0.10% | ~54 |
 | Back to Nature | 0.10% | ~54 |
 | Go Fourth | 0.10% | ~54 |
-| Don't Squeeze the Spiders | 0.10% | ~54 |
 | The Spire of Iriolarthas | 0.10% | ~54 |
 | Always Watching | 0.10% | ~54 |
 | Icequake | 0.10% | ~54 |
@@ -466,7 +467,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Ice | 0.10% | ~54 |
 | Mimic Vengeance | 0.10% | ~54 |
 | REALLY Frozen Vengeance | 0.10% | ~54 |
-| The Battle of High Hall Tower | 0.10% | ~54 |
 | Might Makes Right | 0.10% | ~54 |
 | The Stunning Tower Battle | 0.10% | ~54 |
 | Elturel's Last Stand | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,552 (Ranked 59)  
-Completed: 1,843 (2.11%) (Ranked 60)  
+Progressed: 87,555 (Ranked 59)  
+Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.11%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,552 | 1,843 |
+| 2023-05-15 | 87,555 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,882 (Ranked 37)  
