@@ -2,7 +2,7 @@
   "ID": "2d011ba02fff43398db33de14f329bcb",
   "Name": "Royal Defense",
   "ProductSlug": "royal-defense-d046db",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.2106655+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:57:32.6246519+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:01:10.3833927+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:58:07.9240586+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:01:57.6769636+00:00"
 }

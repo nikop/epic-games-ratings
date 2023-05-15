@@ -2,7 +2,7 @@
   "ID": "a94166dbb96e4630af7044cb995d49f7",
   "Name": "OddBallers\u2122",
   "ProductSlug": "oddballers",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.5048421+00:00",
   "LastChanged": "2023-03-31T05:57:32.5048422+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:00.6273225+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:57:54.9724119+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:01:21.4080983+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:58:32.498585+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:02:09.9776311+00:00"
 }

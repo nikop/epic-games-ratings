@@ -2,7 +2,7 @@
   "ID": "0ca4b438fc1e4abab3988349d56d1cab",
   "Name": "Paladin Dream",
   "ProductSlug": "paladin-dream-5d04e2",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.4231567+00:00",
   "LastChanged": "2023-03-31T05:57:08.4231568+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:24.4852366+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:59:20.1185817+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:03:54.7825361+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:00:00.5646875+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:04:47.2211409+00:00"
 }

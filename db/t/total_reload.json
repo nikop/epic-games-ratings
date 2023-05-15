@@ -2,7 +2,7 @@
   "ID": "03cf91d81403498e9174eaef769da4bb",
   "Name": "Total Reload",
   "ProductSlug": "total-reload-635f1c",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.2163652+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:57:00.1521561+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:02:08.974819+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:57:30.5362709+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:03:07.2958117+00:00"
 }

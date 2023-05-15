@@ -266,9 +266,9 @@
       "ID": "sneakInSneakOut",
       "SetID": "5bkacmp",
       "Name": "Sneak in, sneak out",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "stronk",
@@ -403,8 +403,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-05-15T16:05:34.5141409+00:00",
+  "LastChanged_Achievements": "2023-05-15T17:06:31.7870667+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.542775+00:00",
-  "LastUpdate_Ratings": "2023-05-15T16:00:22.9605728+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:05:34.5141688+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:01:06.7560495+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:06:31.7871139+00:00"
 }

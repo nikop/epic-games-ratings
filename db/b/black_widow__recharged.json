@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14145,
+  "EOS_Progressed": 14147,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1990,6 +1990,11 @@
       "Time": "2023-05-15T15:06:59.0618148+00:00",
       "NumProgressed": 14145,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-15T17:06:26.8187409+00:00",
+      "NumProgressed": 14147,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 14,
@@ -2001,7 +2006,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11175
+      "UsersEstimate": 11176
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -2017,7 +2022,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -2057,7 +2062,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7497
+      "UsersEstimate": 7498
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -2065,7 +2070,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -2105,22 +2110,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14145,
+      "Progressed": 14147,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-15T16:05:29.7232165+00:00",
+  "LastChanged_Achievements": "2023-05-15T17:06:26.8187402+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:18.4923075+00:00",
-  "LastUpdate_Ratings": "2023-05-15T16:00:17.0052842+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:05:29.7232399+00:00"
+  "LastUpdate_Ratings": "2023-05-15T17:01:01.1427665+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:06:26.8187639+00:00"
 }

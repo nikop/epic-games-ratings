@@ -2,7 +2,7 @@
   "ID": "55b82221dd05420f8baeadf3dfa6c422",
   "Name": "Dr. Professor Scientist\u0027s Weapons Testing Facility",
   "ProductSlug": "dr-professor-scientists-weapons-testing-facility-20a02f",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:55.9439716+00:00",
-  "LastChanged_Achievements": "2023-05-15T16:04:43.0781565+00:00",
+  "LastChanged_Achievements": "2023-05-15T17:05:38.2494797+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.839095+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:58:09.7748011+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:04:43.0781593+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:58:48.6055284+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:05:38.249483+00:00"
 }

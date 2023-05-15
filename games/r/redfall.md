@@ -5,31 +5,31 @@ Rating: 3.41 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 81.00% | ~1,255 |
+| I Like My Stakes Rare! | 81.00% | ~1,256 |
 | Home Is Where the Heart Is | 63.00% | ~976 |
 | Ne Plus Ultra | 63.00% | ~976 |
 | Wounded Whispers | 63.00% | ~976 |
-| Blood Will Have Blood | 52.00% | ~805 |
+| Blood Will Have Blood | 52.00% | ~806 |
 | ICU | 47.00% | ~728 |
 | Catch and Release | 46.00% | ~713 |
-| Peek-a-boo | 45.00% | ~697 |
-| Sucks To Be You | 45.00% | ~697 |
+| Peek-a-boo | 45.00% | ~698 |
+| Sucks To Be You | 45.00% | ~698 |
 | Welcome to the Neighborhood | 39.00% | ~604 |
-| Fly Fisher | 36.00% | ~558 |
+| Fly Fisher | 37.00% | ~574 |
 | Throw The First Stone | 36.00% | ~558 |
-| Enter of Your Own Free Will | 33.00% | ~511 |
-| Heart Attack | 33.00% | ~511 |
-| Skin of Their Teeth | 33.00% | ~511 |
+| Enter of Your Own Free Will | 33.00% | ~512 |
+| Heart Attack | 33.00% | ~512 |
+| Skin of Their Teeth | 33.00% | ~512 |
 | Grounded | 24.00% | ~372 |
 | Bad Wiring | 22.00% | ~341 |
 | I Spit On Your Grave | 20.00% | ~310 |
 | Neighborhood Revitalization | 16.00% | ~248 |
 | Radio Silence | 16.00% | ~248 |
-| Helping Hand | 13.00% | ~201 |
+| Helping Hand | 13.00% | ~202 |
 | You Clean It Up | 11.00% | ~170 |
-| Starve the Beast | 9.00% | ~139 |
+| Starve the Beast | 9.00% | ~140 |
 | Block Party | 8.00% | ~124 |
-| From the Shadows | 5.00% | ~77 |
+| From the Shadows | 5.00% | ~78 |
 | Bell-ringer | 4.00% | ~62 |
 | Right This Way | 4.00% | ~62 |
 | Nice Try | 4.00% | ~62 |
@@ -48,11 +48,11 @@ Rating: 3.41 (Ranked 919)
 | Dexterity Save | 2.00% | ~31 |
 | Curious Finch | 2.00% | ~31 |
 | Friends 'Til The End | 2.00% | ~31 |
-| Neighborhood Watch | 1.00% | ~15 |
-| Monster Hunters Club | 1.00% | ~15 |
-| Friendgineering | 1.00% | ~15 |
-| Bloody Initiate | 1.00% | ~15 |
-| Under a Bushel | 1.00% | ~15 |
+| Neighborhood Watch | 1.00% | ~16 |
+| Monster Hunters Club | 1.00% | ~16 |
+| Friendgineering | 1.00% | ~16 |
+| Bloody Initiate | 1.00% | ~16 |
+| Under a Bushel | 1.00% | ~16 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~14 |
 | Sisterhood | 0.80% | ~12 |
 | So Anyway I Started Blasting | 0.80% | ~12 |
@@ -72,7 +72,7 @@ Rating: 3.41 (Ranked 919)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549 (Ranked 151)  
+Progressed: 1,550 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 1,512 | 0 |
 | 2023-05-13 | 1,526 | 0 |
 | 2023-05-14 | 1,539 | 0 |
-| 2023-05-15 | 1,549 | 0 |
+| 2023-05-15 | 1,550 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "6b4c7e0047c048469d8930191422349f",
   "Name": "Coffee Talk",
   "ProductSlug": "coffee-talk",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7803537+00:00",
   "LastChanged": "2023-03-31T05:57:45.7803538+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.0796797+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:58:07.2318252+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:03:31.088872+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:58:45.3986971+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:04:22.6579823+00:00"
 }

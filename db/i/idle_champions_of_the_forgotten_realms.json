@@ -3712,9 +3712,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87597,
+  "EOS_Progressed": 87604,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6027,6 +6027,11 @@
       "Time": "2023-05-15T16:05:40.1046576+00:00",
       "NumProgressed": 87597,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T17:06:37.5341125+00:00",
+      "NumProgressed": 87604,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6678,7 +6683,7 @@
       "Name": "Owlbear Necessities",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "objective_completed_1158",
@@ -6710,7 +6715,7 @@
       "Name": "Best Thay Ever",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "objective_completed_1163",
@@ -6838,7 +6843,7 @@
       "Name": "Frail Doesn\u0027t Mean Broken",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "objective_completed_1188",
@@ -6870,7 +6875,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "objective_completed_1194",
@@ -6886,7 +6891,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "objective_completed_1199",
@@ -6910,7 +6915,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "objective_completed_1204",
@@ -6926,7 +6931,7 @@
       "Name": "Vecna Out!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "objective_completed_1209",
@@ -7884,9 +7889,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_399",
@@ -8524,9 +8529,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 350
     },
     {
       "ID": "objective_completed_590",
@@ -9252,9 +9257,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 526
     },
     {
       "ID": "objective_completed_80",
@@ -9949,21 +9954,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53871,
-      "Completed": 2511
+      "Progressed": 53878,
+      "Completed": 2512
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87597,
+      "Progressed": 87604,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T05:58:07.290414+00:00",
-  "LastChanged_Achievements": "2023-05-15T16:05:40.1046571+00:00",
+  "LastChanged_Achievements": "2023-05-15T17:06:37.5341118+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:57:51.9320777+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:05:40.1067502+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:58:28.8546829+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:06:37.5371095+00:00"
 }

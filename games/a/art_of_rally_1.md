@@ -45,7 +45,7 @@ Number of Ratings: 56  (23.09.2022)
 | comfy seats | 3.00% | ~300 |
 | simulator | 3.00% | ~300 |
 | real roads, real fast | 2.00% | ~200 |
-| absolute drift | 0.80% | ~80 |
+| absolute drift | 0.90% | ~90 |
 | you're here for a good time, not a long time | 0.70% | ~70 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |

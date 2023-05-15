@@ -6,14 +6,14 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~44,619 |
-| ''I don't like you either!'' | 79.00% | ~36,339 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~33,119 |
-| ''Impressive, most impressive'' | 71.00% | ~32,659 |
-| The Phantom Menace | 59.00% | ~27,139 |
-| ''Aggressive Negotiations'' | 58.00% | ~26,679 |
-| ''I can fly anything'' | 57.00% | ~26,219 |
-| ''And who gave you permission...?'' | 53.00% | ~24,379 |
+| ''You guys got yourself a ship!'' | 97.00% | ~44,620 |
+| ''I don't like you either!'' | 79.00% | ~36,340 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~33,120 |
+| ''Impressive, most impressive'' | 71.00% | ~32,660 |
+| The Phantom Menace | 59.00% | ~27,140 |
+| ''Aggressive Negotiations'' | 58.00% | ~26,680 |
+| ''I can fly anything'' | 57.00% | ~26,220 |
+| ''And who gave you permission...?'' | 53.00% | ~24,380 |
 | A New Hope | 47.00% | ~21,620 |
 | Attack of the Clones | 46.00% | ~21,160 |
 | Revenge of the Sith | 39.00% | ~17,940 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~460 |
 | ''I've never seen a real one!'' | 0.80% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,999 (Ranked 76)  
+Progressed: 46,000 (Ranked 76)  
 Completed: 162 (0.35%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 162 (0.35%) (Ranked 115)
 | 2023-05-12 | 45,785 | 162 |
 | 2023-05-13 | 45,906 | 162 |
 | 2023-05-14 | 45,974 | 162 |
-| 2023-05-15 | 45,999 | 162 |
+| 2023-05-15 | 46,000 | 162 |
 ## Awards
 Max (Great Boss Battles): 2,254  (Ranked 97)  
-Sum: 6,301 (Ranked 111)  
+Sum: 6,302 (Ranked 111)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 453 |
 | This game is Highly Recommended | 451 |
 | This game has Easy Combat | 441 |
-| This game is Extremely Fun | 436 |
+| This game is Extremely Fun | 437 |
 | This game has Quickly Understood Controls | 430 |
 | This game is Relaxing | 429 |
 | This game has Obsessive Gameplay | 341 |
@@ -201,3 +201,4 @@ Diff (max vs sum): -14
 | 2023-05-12 | 4.79 | - | 2,248 | 6,289 |
 | 2023-05-13 | 4.79 | - | 2,252 | 6,298 |
 | 2023-05-14 | 4.79 | - | 2,254 | 6,301 |
+| 2023-05-15 | 4.78 | - | 2,254 | 6,302 |

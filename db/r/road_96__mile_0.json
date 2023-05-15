@@ -3,8 +3,8 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.32,
+  "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -139,6 +139,11 @@
       "Time": "2023-05-14T20:06:17.4762825+00:00",
       "NumProgressed": 152,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-15T17:06:02.8661171+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -164,9 +169,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "findalltapes",
@@ -190,7 +195,7 @@
       "Name": "Truthseeker",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "scoreminrankrb2",
@@ -212,9 +217,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "scoreminrankrh1",
@@ -222,7 +227,7 @@
       "Name": "Souvenirs",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "scoreminrankrp1",
@@ -230,7 +235,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "scoreminrankrp2",
@@ -254,22 +259,22 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "scoreminrankrv2",
       "SetID": "40n95i5",
       "Name": "Friendzone",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 2
     }
   ],
@@ -277,8 +282,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-15T16:05:07.0678308+00:00",
+  "LastChanged_Achievements": "2023-05-15T17:06:02.866116+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:43.0209148+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:58:39.149512+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:05:07.0678404+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:59:17.1035188+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:06:02.8661375+00:00"
 }

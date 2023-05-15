@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,752 |
-| Checkmate | 2.00% | ~1,077 |
-| Vecna Out! | 2.00% | ~1,077 |
+| Checkmate | 2.00% | ~1,078 |
+| Vecna Out! | 2.00% | ~1,078 |
 | Pin and Skewer | 1.00% | ~539 |
 | The Cursed Farmer | 1.00% | ~876 |
 | Beast Intentions | 0.90% | ~788 |
@@ -18,16 +18,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.60% | ~526 |
 | Seeking Allies | 0.60% | ~526 |
 | Are Ya Chicken? | 0.60% | ~526 |
+| Friendly Imps | 0.60% | ~526 |
 | A Persistent Buzzing | 0.50% | ~438 |
 | Mad Cow Disease | 0.50% | ~438 |
-| Friendly Imps | 0.50% | ~438 |
 | Pure Energy | 0.50% | ~438 |
 | Maddening | 0.40% | ~350 |
-| Owlbear Necessities | 0.40% | ~215 |
-| Best Thay Ever | 0.40% | ~215 |
-| Frail Doesn't Mean Broken | 0.40% | ~215 |
-| The Sanctum of the Sword | 0.40% | ~215 |
-| Get Back In The Castle | 0.40% | ~215 |
+| Owlbear Necessities | 0.40% | ~216 |
+| Best Thay Ever | 0.40% | ~216 |
+| Frail Doesn't Mean Broken | 0.40% | ~216 |
+| The Sanctum of the Sword | 0.40% | ~216 |
+| Get Back In The Castle | 0.40% | ~216 |
 | Beast Mode | 0.40% | ~350 |
 | Terror in the Dark | 0.40% | ~350 |
 | A Mysterious Summons | 0.40% | ~350 |
@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~350 |
 | Useless Allies | 0.40% | ~350 |
 | Exploring Port Nyanzaru | 0.40% | ~350 |
+| Running of the Saurs | 0.40% | ~350 |
 | The Contagious Curse | 0.40% | ~350 |
 | Escort to Waterdeep | 0.40% | ~350 |
 | Waterdeep Detours | 0.40% | ~350 |
@@ -60,12 +61,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~263 |
 | Attack on the Manor | 0.30% | ~263 |
 | The Death Curse | 0.30% | ~263 |
-| Nimble Escape | 0.30% | ~263 |
 | Premature Betrayal | 0.30% | ~263 |
 | A Tale of Two Cities | 0.30% | ~263 |
 | The Dead Three | 0.30% | ~263 |
 | Flying Monkey Skulls of Doom | 0.30% | ~263 |
-| Running of the Saurs | 0.30% | ~263 |
 | An Even Worse Time in Avernus | 0.30% | ~162 |
 | Close Escort | 0.30% | ~263 |
 | Constant Banditry | 0.30% | ~263 |
@@ -182,6 +181,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~175 |
 | Flies on the Wall | 0.20% | ~175 |
 | Backtracking Through Barovia | 0.20% | ~175 |
+| Nimble Escape | 0.20% | ~175 |
 | Nimblest Escape | 0.20% | ~175 |
 | Stumbling Escape | 0.20% | ~175 |
 | Distracted Escape | 0.20% | ~108 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,597 (Ranked 59)  
+Progressed: 87,604 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,597 | 1,843 |
+| 2023-05-15 | 87,604 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

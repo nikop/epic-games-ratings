@@ -5,9 +5,9 @@
   "Ranking_Rating": 919,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1219,6 +1219,11 @@
       "Time": "2023-05-15T16:05:00.1454105+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T17:05:56.0383608+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1254,7 +1259,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_006",
@@ -1278,7 +1283,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "Achievement_009",
@@ -1310,7 +1315,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_013",
@@ -1326,7 +1331,7 @@
       "Name": "Monster Hunters Club",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_015",
@@ -1342,7 +1347,7 @@
       "Name": "Friendgineering",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_017",
@@ -1366,7 +1371,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "Achievement_020",
@@ -1420,9 +1425,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 574
     },
     {
       "ID": "Achievement_027",
@@ -1430,7 +1435,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "Achievement_028",
@@ -1462,7 +1467,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "Achievement_032",
@@ -1494,7 +1499,7 @@
       "Name": "From the Shadows",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Achievement_036",
@@ -1534,7 +1539,7 @@
       "Name": "Heart Attack",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_041",
@@ -1550,7 +1555,7 @@
       "Name": "Starve the Beast",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Achievement_044",
@@ -1566,7 +1571,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_046",
@@ -1582,7 +1587,7 @@
       "Name": "Bloody Initiate",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_049",
@@ -1646,7 +1651,7 @@
       "Name": "Under a Bushel",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_058",
@@ -1694,7 +1699,7 @@
       "Name": "Helping Hand",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Achievement_064",
@@ -1757,7 +1762,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 0
     }
   ],
@@ -1765,8 +1770,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-14T03:58:02.3893579+00:00",
-  "LastChanged_Achievements": "2023-05-15T16:05:00.1454101+00:00",
+  "LastChanged_Achievements": "2023-05-15T17:05:56.03836+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:57:38.3349026+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:05:00.1454707+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:58:14.2432507+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:05:56.0384463+00:00"
 }

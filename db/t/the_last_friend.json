@@ -2,7 +2,7 @@
   "ID": "528150dcd4a5462994608939eb783270",
   "Name": "The Last Friend",
   "ProductSlug": "the-last-friend",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:57.9751078+00:00",
   "LastChanged": "2023-03-31T05:57:57.9751079+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:06.1705264+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:59:02.3385118+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:03:41.6409454+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:59:40.6394942+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:04:33.8671889+00:00"
 }

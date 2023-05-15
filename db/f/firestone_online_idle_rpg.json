@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1026,
+  "EOS_Progressed": 1027,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1627,6 +1627,11 @@
       "Time": "2023-05-15T16:05:09.779342+00:00",
       "NumProgressed": 1026,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T17:06:05.5739791+00:00",
+      "NumProgressed": 1027,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1748,9 +1753,9 @@
       "ID": "dragonmaster",
       "SetID": "3nl4bcg",
       "Name": "Dragon Master",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 103
     },
     {
       "ID": "dragonslayer",
@@ -1822,7 +1827,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "fourleafclover",
@@ -2126,7 +2131,7 @@
       "Name": "The game is on",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "thepowerofawakening",
@@ -2198,7 +2203,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "warmachinesarmy",
@@ -2230,14 +2235,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1026,
+      "Progressed": 1027,
       "Completed": 1
     }
   ],
@@ -2245,8 +2250,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-15T16:05:09.7793415+00:00",
+  "LastChanged_Achievements": "2023-05-15T17:06:05.573978+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-15T15:57:49.2565744+00:00",
-  "LastUpdate_Achievements": "2023-05-15T16:05:09.7794079+00:00"
+  "LastUpdate_Ratings": "2023-05-15T16:58:26.0018693+00:00",
+  "LastUpdate_Achievements": "2023-05-15T17:06:05.5741341+00:00"
 }

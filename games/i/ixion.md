@@ -24,7 +24,7 @@ Rating: 4.55 (Ranked 465)
 | Power Outage | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~9 |
 | A Hunk of Junk | 0.50% | ~9 |
-| Access Granted | 0.40% | ~8 |
+| Access Granted | 0.50% | ~9 |
 | BRAWL! | 0.40% | ~8 |
 | Please Make it Stop! | 0.40% | ~8 |
 | From the Past | 0.40% | ~8 |

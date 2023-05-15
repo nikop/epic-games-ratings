@@ -7,12 +7,12 @@ Rating: 4.38 (Ranked 689)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 36.00% | ~259 |
 | Confirming Suspicions | 32.00% | ~230 |
-| The Kraken Wakes | 29.00% | ~209 |
-| It's Starting to Crack | 28.00% | ~201 |
+| The Kraken Wakes | 30.00% | ~216 |
+| It's Starting to Crack | 28.00% | ~202 |
 | Lord of War | 25.00% | ~180 |
 | Change the Channel | 25.00% | ~180 |
 | Taking it back | 24.00% | ~173 |
-| Resourceful | 23.00% | ~165 |
+| Resourceful | 23.00% | ~166 |
 | Organ Grinder | 22.00% | ~158 |
 | Sharpshooter | 21.00% | ~151 |
 | Target America | 21.00% | ~151 |
@@ -24,10 +24,10 @@ Rating: 4.38 (Ranked 689)
 | Climbing the Ladder | 14.00% | ~101 |
 | Gunslinger | 14.00% | ~101 |
 | Skirmisher | 14.00% | ~101 |
-| Fields of Glory | 13.00% | ~93 |
-| Just a Flesh Wound | 13.00% | ~93 |
-| Der Geist | 13.00% | ~93 |
-| Snake in the Grass | 13.00% | ~93 |
+| Fields of Glory | 13.00% | ~94 |
+| Just a Flesh Wound | 13.00% | ~94 |
+| Der Geist | 13.00% | ~94 |
+| Snake in the Grass | 13.00% | ~94 |
 | Enemy at the Gates | 12.00% | ~86 |
 | Set Europe Ablaze | 12.00% | ~86 |
 | Die Nussknacker Sweet! | 12.00% | ~86 |
@@ -74,7 +74,7 @@ Rating: 4.38 (Ranked 689)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719 (Ranked 176)  
+Progressed: 720 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-12 | 707 | 2 |
 | 2023-05-13 | 709 | 2 |
 | 2023-05-14 | 717 | 2 |
-| 2023-05-15 | 719 | 2 |
+| 2023-05-15 | 720 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
