@@ -35,7 +35,7 @@
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 330 | 214 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 330 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 412 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,223 | 122 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,225 | 122 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 460 | 187 |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 414 |
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,541 | 41 |
@@ -144,7 +144,7 @@
 | 140 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 491 |
 | 140 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 530 | 179 |
 | 140 | [DOOM II](games/d/doom_ii.md) | 4.74 | 26 | 460 |
-| 140 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 770 | 147 |
+| 140 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 771 | 147 |
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 596 | 166 |
 | 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,526 | 49 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
@@ -241,7 +241,7 @@
 | 235 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 365 |
 | 235 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 491 |
 | 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,220 | 60 |
-| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,595 | 3 |
+| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,677 | 3 |
 | 235 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 169,624 | 5 |
 | 235 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 491 |
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
