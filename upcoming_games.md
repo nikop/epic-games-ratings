@@ -270,6 +270,7 @@
 | [Nova Lands](games/n/nova_lands.md) | 2099-01-01 | 2099-01-01 |
 | [One Lonely Outpost](games/o/one_lonely_outpost.md) | 2099-01-01 | 2099-01-01 |
 | [One Military Camp](games/o/one_military_camp.md) | 2099-01-01 | 2099-01-01 |
+| [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2099-01-01 | 2022-09-19 |
 | [Outbreak Island](games/o/outbreak_island.md) | 2099-01-01 | 2099-01-01 |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | 2024-01-13 |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2099-01-01 | 2099-01-01 |

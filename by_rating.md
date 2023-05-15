@@ -26,17 +26,17 @@
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,376 | 117 |
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,356 | 31 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,006 | 136 |
-| 27 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 491 |
-| 27 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 479 |
-| 27 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 139 | 288 |
-| 27 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 688 | 156 |
-| 27 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 491 |
-| 27 | [Inscryption](games/i/inscryption.md) | 4.86 | 330 | 214 |
-| 27 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 330 |
-| 27 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 113 | 311 |
-| 27 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 412 |
-| 27 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,223 | 122 |
-| 27 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 460 | 187 |
+| 24 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.87 | 113 | 311 |
+| 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 491 |
+| 28 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 479 |
+| 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 139 | 288 |
+| 28 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 688 | 156 |
+| 28 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 491 |
+| 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 330 | 214 |
+| 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 330 |
+| 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 412 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,223 | 122 |
+| 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 460 | 187 |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 414 |
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,541 | 41 |
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,461 | 59 |
@@ -99,7 +99,7 @@
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 306 |
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 491 |
 | 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,797 | 64 |
-| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,946 | 37 |
+| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,955 | 37 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,254 | 97 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
 | 99 | [Tchia](games/t/tchia.md) | 4.78 | 0 | 491 |
@@ -247,7 +247,7 @@
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
 | 235 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 197 |
 | 235 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 558 | 170 |
-| 235 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 662 | 158 |
+| 235 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 663 | 158 |
 | 235 | [Revita](games/r/revita.md) | 4.68 | 0 | 491 |
 | 235 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 169 | 277 |
 | 235 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 31 | 441 |
@@ -628,7 +628,7 @@
 | 622 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 491 |
 | 622 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 491 |
 | 622 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 491 |
-| 622 | [Predecessor](games/p/predecessor.md) | 4.44 | 80 | 347 |
+| 622 | [Predecessor](games/p/predecessor.md) | 4.44 | 81 | 347 |
 | 622 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 491 |
 | 622 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 491 |
 | 622 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 491 |
@@ -730,7 +730,7 @@
 | 725 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 491 |
 | 725 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 491 |
 | 725 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 491 |
-| 725 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,904 | 62 |
+| 725 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,909 | 62 |
 | 725 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 240 | 242 |
 | 725 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 491 |
 | 725 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 67 | 368 |
@@ -748,7 +748,7 @@
 | 742 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 449 |
 | 742 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 491 |
 | 742 | [Torchlight](games/t/torchlight.md) | 4.32 | 20 | 485 |
-| 742 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 176 |
+| 742 | [Vampyr](games/v/vampyr.md) | 4.32 | 546 | 175 |
 | 742 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 491 |
 | 751 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 491 |
 | 751 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 491 |

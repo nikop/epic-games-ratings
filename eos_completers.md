@@ -28,7 +28,7 @@
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
-| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
+| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 30 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.76% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
@@ -44,7 +44,7 @@
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
-| 45 | [Lamentum](games/l/lamentum.md) | 3.00% |
+| 45 | [Lamentum](games/l/lamentum.md) | 2.99% |
 | 46 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 47 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
@@ -63,8 +63,8 @@
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
-| 64 | [Them and Us](games/t/them_and_us.md) | 1.72% |
-| 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
+| 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
+| 64 | [Them and Us](games/t/them_and_us.md) | 1.69% |
 | 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
 | 68 | [Somerville](games/s/somerville.md) | 1.61% |
@@ -398,4 +398,4 @@
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,604 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,605 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
