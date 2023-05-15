@@ -20,7 +20,7 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
 | 22 | [Scorn](games/s/scorn.md) | 7.06% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.84% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
@@ -54,11 +54,11 @@
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.70% |
-| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.67% |
+| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -72,7 +72,7 @@
 | 70 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
-| 73 | [Them and Us](games/t/them_and_us.md) | 1.47% |
+| 73 | [Them and Us](games/t/them_and_us.md) | 1.45% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
