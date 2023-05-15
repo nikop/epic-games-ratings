@@ -35,6 +35,7 @@
 | I Have The High Ground | 2.00% | ~1 |
 | Cow Topper | 2.00% | ~1 |
 | Pro Double Cobbler | 2.00% | ~1 |
+| Pro Gromato | 2.00% | ~1 |
 | Pro Meloneer | 2.00% | ~1 |
 | Pro M6Beaner | 2.00% | ~1 |
 | Pro Peavolver | 2.00% | ~1 |
@@ -44,7 +45,6 @@
 | I Believe I Can Fly | 0.00% | ~0 |
 | Prestige 1 - Farmhand | 0.00% | ~0 |
 | Pro Pyromancer | 0.00% | ~0 |
-| Pro Gromato | 0.00% | ~0 |
 | Pro Pineappler | 0.00% | ~0 |
 | Pro Moolotover | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |

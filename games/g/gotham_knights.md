@@ -9,6 +9,7 @@ Rating: 4.17 (Ranked 831)
 | Something in the Clay | 0.40% | ~244 |
 | The Show Mud Go On | 0.40% | ~244 |
 | Rock and a Hard Place | 0.40% | ~244 |
+| Shock Til They Drop | 0.40% | ~244 |
 | Quartzer Life Crisis | 0.40% | ~244 |
 | Snow Problem | 0.40% | ~244 |
 | Cooldown | 0.40% | ~244 |
@@ -28,7 +29,6 @@ Rating: 4.17 (Ranked 831)
 | In Your Element | 0.30% | ~183 |
 | Bulldozed | 0.30% | ~183 |
 | Out of Their League | 0.30% | ~183 |
-| Shock Til They Drop | 0.30% | ~183 |
 | Drone You Out | 0.30% | ~183 |
 | To the Victor Go the Spoils | 0.30% | ~183 |
 | Har, Har, Har, Very Funny | 0.30% | ~183 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,891 (Ranked 67)  
+Progressed: 60,892 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 91 (0.15%) (Ranked 146)
 | 2023-05-12 | 60,819 | 90 |
 | 2023-05-13 | 60,844 | 90 |
 | 2023-05-14 | 60,883 | 91 |
-| 2023-05-15 | 60,891 | 91 |
+| 2023-05-15 | 60,892 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,210  (Ranked 99)  
 Sum: 3,663 (Ranked 138)  

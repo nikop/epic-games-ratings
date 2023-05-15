@@ -762,9 +762,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -883,8 +883,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-05-15T10:04:51.0155687+00:00",
+  "LastChanged_Achievements": "2023-05-15T11:05:37.0027861+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:41.2232064+00:00",
-  "LastUpdate_Ratings": "2023-05-15T09:58:33.6984936+00:00",
-  "LastUpdate_Achievements": "2023-05-15T10:04:51.0156954+00:00"
+  "LastUpdate_Ratings": "2023-05-15T10:58:47.8137061+00:00",
+  "LastUpdate_Achievements": "2023-05-15T11:05:37.002918+00:00"
 }

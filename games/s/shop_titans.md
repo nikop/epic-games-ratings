@@ -31,10 +31,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 35.00% | ~44,891 |
 | Arcane Industries | 34.00% | ~43,609 |
 | Accomplished Merchant | 31.00% | ~39,761 |
+| On the Path to Greatness | 28.00% | ~35,913 |
 | Ascended | 28.00% | ~35,913 |
 | Gem Expert | 28.00% | ~35,913 |
 | Helping Hand | 28.00% | ~35,913 |
-| On the Path to Greatness | 27.00% | ~34,630 |
 | Blank Page Syndrome | 27.00% | ~34,630 |
 | Efficient Floor Space | 27.00% | ~34,630 |
 | Vanity, Verily | 26.00% | ~33,348 |

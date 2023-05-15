@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.30% | ~162 |
 | The Silken Swamp | 0.30% | ~263 |
 | Supply Run | 0.30% | ~263 |
+| Return to the Tomb | 0.30% | ~162 |
 | Keep Your Distance | 0.30% | ~162 |
 | Hands Off! | 0.30% | ~162 |
 | The Dread Domain of Tovag | 0.30% | ~162 |
@@ -105,6 +106,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.20% | ~108 |
 | The Roots of Loomlurch | 0.20% | ~108 |
 | The Lutes of Loomlurch | 0.20% | ~108 |
+| Best Laid Plans | 0.20% | ~108 |
 | The Howling Peaks of Yon | 0.20% | ~108 |
 | The Invisible Wizards of Thay | 0.20% | ~108 |
 | Heavy Burden | 0.20% | ~175 |
@@ -119,7 +121,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.20% | ~108 |
 | Friends of the Forest | 0.20% | ~175 |
 | More Than Well Equipped | 0.20% | ~108 |
-| Return to the Tomb | 0.20% | ~108 |
 | Arcane Efforts | 0.20% | ~108 |
 | Heatwave | 0.20% | ~108 |
 | To Avernus in a Handbasket | 0.20% | ~108 |
@@ -180,8 +181,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.20% | ~175 |
 | Backtracking Through Barovia | 0.20% | ~175 |
 | Nimble Escape | 0.20% | ~175 |
+| Nimblest Escape | 0.20% | ~175 |
 | Stumbling Escape | 0.20% | ~175 |
 | Fugitives | 0.20% | ~175 |
+| From The Shadows | 0.20% | ~175 |
 | Excavating History | 0.20% | ~175 |
 | Towering Expectations | 0.20% | ~175 |
 | Hopelessly Lost | 0.20% | ~175 |
@@ -312,7 +315,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All Damage, All The Time | 0.10% | ~54 |
 | Will of the Frozen Feywild | 0.10% | ~54 |
 | The Loots of Loomlurch | 0.10% | ~54 |
-| Best Laid Plans | 0.10% | ~54 |
 | Pincushion Party | 0.10% | ~54 |
 | G. O. A. T. | 0.10% | ~54 |
 | Strength of Character | 0.10% | ~54 |
@@ -362,9 +364,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~88 |
 | Late Game | 0.10% | ~88 |
 | Shadowfell Stalwarts | 0.10% | ~54 |
-| Nimblest Escape | 0.10% | ~88 |
 | Distracted Escape | 0.10% | ~54 |
-| From The Shadows | 0.10% | ~88 |
 | Spined Nuisances | 0.10% | ~88 |
 | Twilight Twist | 0.10% | ~54 |
 | Screams of the Dead | 0.10% | ~88 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,570 (Ranked 59)  
+Progressed: 87,571 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,570 | 1,843 |
+| 2023-05-15 | 87,571 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

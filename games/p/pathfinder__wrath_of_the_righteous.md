@@ -56,6 +56,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Dreadful Dragon | 0.50% | ~44 |
 | Truly Profane Gift | 0.40% | ~35 |
 | Masterful Charge | 0.30% | ~26 |
+| Masterful Dispel | 0.20% | ~18 |
 | Prelate's Nemesis | 0.20% | ~18 |
 | Just Pathetic | 0.20% | ~18 |
 | Ashes to Ashes | 0.20% | ~18 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Spirit of Adventure | 0.10% | ~9 |
 | Test of the Starstone | 0.10% | ~9 |
 | Masterful Craftsmanship | 0.10% | ~9 |
-| Masterful Dispel | 0.10% | ~9 |
 | Blight of Drezen | 0.00% | ~0 |
 | Memories Frozen in Time | 0.00% | ~0 |
 | Death by Column | 0.00% | ~0 |

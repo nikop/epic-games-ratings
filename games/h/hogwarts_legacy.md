@@ -26,12 +26,12 @@ Rating: 4.77 (Ranked 104)
 | The Spell Master | 4.00% | ~10,687 |
 | First Class Student | 4.00% | ~10,687 |
 | Troll with the Punches | 4.00% | ~10,687 |
-| The Seeker of Knowledge | 3.00% | ~8,015 |
-| The Root of the Problem | 3.00% | ~8,015 |
-| Third Time's a Charm | 3.00% | ~8,015 |
-| Room with a View | 3.00% | ~8,015 |
-| The Ends Petrify the Means | 3.00% | ~8,015 |
-| Raising Expectations | 3.00% | ~8,015 |
+| The Seeker of Knowledge | 3.00% | ~8,016 |
+| The Root of the Problem | 3.00% | ~8,016 |
+| Third Time's a Charm | 3.00% | ~8,016 |
+| Room with a View | 3.00% | ~8,016 |
+| The Ends Petrify the Means | 3.00% | ~8,016 |
+| Raising Expectations | 3.00% | ~8,016 |
 | The Toast of the Town | 2.00% | ~5,344 |
 | Going Through the Potions | 2.00% | ~5,344 |
 | Floo Around the World | 2.00% | ~5,344 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,069 |
 | Collector's Edition | 0.20% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,178 (Ranked 38)  
+Progressed: 267,185 (Ranked 38)  
 Completed: 362 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,10 +76,10 @@ Completed: 362 (0.14%) (Ranked 149)
 | 2023-05-12 | 266,757 | 359 |
 | 2023-05-13 | 266,911 | 361 |
 | 2023-05-14 | 267,111 | 362 |
-| 2023-05-15 | 267,178 | 362 |
+| 2023-05-15 | 267,185 | 362 |
 ## Awards
 Max (Character Customization): 18,751  (Ranked 18)  
-Sum: 34,400 (Ranked 33)  
+Sum: 34,404 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -94,7 +94,7 @@ Diff (max vs sum): -15
 | This game is Highly Recommended | 699 |
 | This game has Quickly Understood Controls | 637 |
 | This game has Beautiful Visuals | 616 |
-| This game has a Creative Community | 468 |
+| This game has a Creative Community | 472 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -150,4 +150,4 @@ Diff (max vs sum): -15
 | 2023-05-12 | 4.77 | 18,684 | 34,208 |
 | 2023-05-13 | 4.77 | 18,717 | 34,293 |
 | 2023-05-14 | 4.77 | 18,751 | 34,388 |
-| 2023-05-15 | 4.77 | 18,751 | 34,400 |
+| 2023-05-15 | 4.77 | 18,751 | 34,404 |

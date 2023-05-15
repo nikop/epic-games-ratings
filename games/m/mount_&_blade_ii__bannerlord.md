@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,462 |
-| Landlord | 29.00% | ~14,468 |
-| Lawmaker | 21.00% | ~10,477 |
-| Bannerlord | 20.00% | ~9,978 |
-| Horde breaker | 20.00% | ~9,978 |
-| Trained | 20.00% | ~9,978 |
+| Lawbringer | 35.00% | ~17,463 |
+| Landlord | 29.00% | ~14,470 |
+| Lawmaker | 21.00% | ~10,478 |
+| Bannerlord | 20.00% | ~9,979 |
+| Horde breaker | 20.00% | ~9,979 |
+| Trained | 20.00% | ~9,979 |
 | The king is pleased | 16.00% | ~7,983 |
 | King Solomon | 15.00% | ~7,484 |
 | I can do it | 14.00% | ~6,985 |
 | Apple of my eye | 13.00% | ~6,486 |
 | God of the Arena | 12.00% | ~5,987 |
-| Against all odds | 9.00% | ~4,490 |
-| Swordbearer | 9.00% | ~4,490 |
-| Duelist | 8.00% | ~3,991 |
-| Dynasty | 8.00% | ~3,991 |
-| I spit on your grave | 8.00% | ~3,991 |
-| What have the Romans ever done for us? | 8.00% | ~3,991 |
-| Butterlord | 7.00% | ~3,492 |
-| Mastery | 6.00% | ~2,993 |
+| Against all odds | 9.00% | ~4,491 |
+| Swordbearer | 9.00% | ~4,491 |
+| Duelist | 8.00% | ~3,992 |
+| Dynasty | 8.00% | ~3,992 |
+| I spit on your grave | 8.00% | ~3,992 |
+| What have the Romans ever done for us? | 8.00% | ~3,992 |
+| Butterlord | 7.00% | ~3,493 |
+| Mastery | 6.00% | ~2,994 |
 | Know your enemy | 5.00% | ~2,495 |
 | This Is Our Land | 5.00% | ~2,495 |
 | Crush your enemies | 4.00% | ~1,996 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,891 (Ranked 74)  
+Progressed: 49,895 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 49,639 | 0 |
 | 2023-05-13 | 49,748 | 0 |
 | 2023-05-14 | 49,864 | 0 |
-| 2023-05-15 | 49,891 | 0 |
+| 2023-05-15 | 49,895 | 0 |
 ## Awards
 Max (Character Customization): 6,526  (Ranked 49)  
 Sum: 13,016 (Ranked 68)  

@@ -3712,7 +3712,7 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87570,
+  "EOS_Progressed": 87571,
   "EOS_Completed": 1843,
   "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 30,
@@ -5997,6 +5997,11 @@
       "Time": "2023-05-15T10:05:27.5501961+00:00",
       "NumProgressed": 87570,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-15T11:06:19.2899767+00:00",
+      "NumProgressed": 87571,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6574,9 +6579,9 @@
       "ID": "objective_completed_1142",
       "SetID": "415jc5c",
       "Name": "Best Laid Plans",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_1143",
@@ -6742,9 +6747,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_1174",
@@ -7862,9 +7867,9 @@
       "ID": "objective_completed_399",
       "SetID": "cc37lbc",
       "Name": "Nimblest Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_4",
@@ -7910,9 +7915,9 @@
       "ID": "objective_completed_404",
       "SetID": "cc37lbc",
       "Name": "From The Shadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_405",
@@ -9919,21 +9924,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53844,
+      "Progressed": 53845,
       "Completed": 2510
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87570,
+      "Progressed": 87571,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T05:58:07.290414+00:00",
-  "LastChanged_Achievements": "2023-05-15T10:05:27.5501957+00:00",
+  "LastChanged_Achievements": "2023-05-15T11:06:19.2899761+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T09:57:57.2884902+00:00",
-  "LastUpdate_Achievements": "2023-05-15T10:05:27.5524639+00:00"
+  "LastUpdate_Ratings": "2023-05-15T10:58:02.8962796+00:00",
+  "LastUpdate_Achievements": "2023-05-15T11:06:19.2929289+00:00"
 }

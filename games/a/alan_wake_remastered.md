@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 20.00% | ~9,236 |
-| Let There Be Light | 16.00% | ~7,388 |
+| Let There Be Light | 16.00% | ~7,389 |
 | Float Like a Butterfly | 15.00% | ~6,927 |
 | Nordic Walking | 13.00% | ~6,003 |
 | Bright Falls' Finest | 12.00% | ~5,541 |
@@ -22,14 +22,14 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 8.00% | ~3,694 |
 | Damn Good Cup of Coffee | 8.00% | ~3,694 |
 | A Friend in Need | 8.00% | ~772 |
-| Heavy Metal | 7.00% | ~3,232 |
-| Iron Horse | 7.00% | ~3,232 |
-| Perchance to Dream | 7.00% | ~3,232 |
-| The Six-Gun Scribe | 7.00% | ~3,232 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,232 |
-| Thunder and Lightning | 7.00% | ~3,232 |
-| Collateral Carnage | 7.00% | ~3,232 |
-| Come One, Come All | 7.00% | ~3,232 |
+| Heavy Metal | 7.00% | ~3,233 |
+| Iron Horse | 7.00% | ~3,233 |
+| Perchance to Dream | 7.00% | ~3,233 |
+| The Six-Gun Scribe | 7.00% | ~3,233 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,233 |
+| Thunder and Lightning | 7.00% | ~3,233 |
+| Collateral Carnage | 7.00% | ~3,233 |
+| Come One, Come All | 7.00% | ~3,233 |
 | Gatekeeper | 6.00% | ~2,771 |
 | The Lady of the Light | 6.00% | ~2,771 |
 | Two For the Price of One | 6.00% | ~2,771 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,178 (Ranked 75)  
+Progressed: 46,179 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-12 | 46,131 | 44 |
 | 2023-05-13 | 46,152 | 44 |
 | 2023-05-14 | 46,171 | 44 |
-| 2023-05-15 | 46,178 | 44 |
+| 2023-05-15 | 46,179 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
