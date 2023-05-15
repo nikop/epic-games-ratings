@@ -14,15 +14,15 @@
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 13 | [Remains](games/r/remains.md) | 10.53% |
 | 14 | [Smelter](games/s/smelter.md) | 10.00% |
-| 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.42% |
-| 15 | [Time Loader](games/t/time_loader.md) | 8.42% |
+| 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
+| 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.84% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
 | 22 | [Scorn](games/s/scorn.md) | 7.07% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.97% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.96% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.71% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -50,7 +50,7 @@
 | 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.85% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.84% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.70% |
@@ -63,7 +63,7 @@
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
-| 64 | [Them and Us](games/t/them_and_us.md) | 1.79% |
+| 64 | [Them and Us](games/t/them_and_us.md) | 1.72% |
 | 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
@@ -90,7 +90,7 @@
 | 88 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 89 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
 | 90 | [Five Dates](games/f/five_dates.md) | 0.85% |
-| 90 | [Lemon Cake](games/l/lemon_cake.md) | 0.85% |
+| 91 | [Lemon Cake](games/l/lemon_cake.md) | 0.84% |
 | 92 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 93 | [Adios](games/a/adios.md) | 0.80% |
 | 93 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
@@ -105,8 +105,8 @@
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
-| 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 106 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
+| 106 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 108 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |

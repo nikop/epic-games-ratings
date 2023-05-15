@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Flyto](games/f/flyto.md) | 2023-05-15 | 2023-05-15 |
 | [Solargene](games/b/b5cf25c05580437a86a74319dac4f182.md) | 2023-05-14 | 2022-01-30 |
 | [Georifters](games/g/georifters.md) | 2023-05-14 | 2020-05-28 |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-13 | 2023-05-31 |
@@ -150,4 +151,3 @@
 | [Doomed Lands](games/d/doomed_lands.md) | 2023-04-17 | 2023-04-17 |
 | [The Dawning Clocks of Time](games/t/the_dawning_clocks_of_time.md) | 2023-04-16 | 2021-09-08 |
 | [Soar](games/s/soar.md) | 2023-04-16 | 2023-04-24 |
-| [Cats Yakuza - Online card game](games/c/cats_yakuza_-_online_card_game.md) | 2023-04-15 | 2022-07-29 |
