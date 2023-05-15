@@ -10,6 +10,7 @@ Number of Ratings: 82  (23.09.2022)
 | Still Kind Of Poor | 0.30% | ~29 |
 | Well Off | 0.30% | ~29 |
 | Agent | 0.20% | ~19 |
+| Master Agent | 0.20% | ~19 |
 | A Real Landlord | 0.20% | ~19 |
 | Cleaning Service | 0.20% | ~19 |
 | Filthy Rich | 0.20% | ~19 |
@@ -19,10 +20,10 @@ Number of Ratings: 82  (23.09.2022)
 | Loaded | 0.20% | ~19 |
 | Lured In | 0.20% | ~19 |
 | Renovator | 0.20% | ~19 |
+| Expert Renovator | 0.20% | ~19 |
 | Master Renovator | 0.20% | ~19 |
 | Treasure Hunter | 0.20% | ~19 |
 | Expert Agent | 0.10% | ~10 |
-| Master Agent | 0.10% | ~10 |
 | Another One | 0.10% | ~10 |
 | Babysitter | 0.10% | ~10 |
 | Expert Babysitter | 0.10% | ~10 |
@@ -46,7 +47,6 @@ Number of Ratings: 82  (23.09.2022)
 | Rat Race | 0.10% | ~10 |
 | Realtor | 0.10% | ~10 |
 | Master Realtor | 0.10% | ~10 |
-| Expert Renovator | 0.10% | ~10 |
 | Run, Forrest, Run! | 0.10% | ~10 |
 | Senpai | 0.10% | ~10 |
 | TGIF | 0.10% | ~10 |

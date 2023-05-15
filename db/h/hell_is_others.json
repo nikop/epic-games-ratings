@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 248754,
+  "EOS_Progressed": 248755,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2655,6 +2655,11 @@
       "Time": "2023-05-15T11:06:14.9609469+00:00",
       "NumProgressed": 248754,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-15T12:07:11.6556502+00:00",
+      "NumProgressed": 248755,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2770,7 +2775,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24875
+      "UsersEstimate": 24876
     },
     {
       "ID": "CreditLevel2",
@@ -3058,7 +3063,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24875
+      "UsersEstimate": 24876
     },
     {
       "ID": "ReachNDays2",
@@ -3113,7 +3118,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248754,
+      "Progressed": 248755,
       "Completed": 1
     }
   ],
@@ -3121,8 +3126,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-13T15:00:35.1754519+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:06:14.9609464+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:07:11.6556496+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.6367659+00:00",
-  "LastUpdate_Ratings": "2023-05-15T11:00:21.3881843+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:06:14.9610167+00:00"
+  "LastUpdate_Ratings": "2023-05-15T12:01:26.5560981+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:07:11.6557104+00:00"
 }

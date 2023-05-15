@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2613,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -962,9 +962,9 @@
       "ID": "campaign7",
       "SetID": "2h56gn1",
       "Name": "Maestro",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 732
+      "UsersEstimate": 758
     },
     {
       "ID": "campaign8",
@@ -1051,8 +1051,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:06:11.7476616+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:07:07.9214034+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-15T11:00:18.5086979+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:06:11.7476894+00:00"
+  "LastUpdate_Ratings": "2023-05-15T12:01:23.0498935+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:07:07.921435+00:00"
 }

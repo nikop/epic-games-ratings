@@ -11,7 +11,7 @@
 | ADVANCED | 36.00% | ~91 |
 | CHIEF | 18.00% | ~46 |
 | SECOND_FLOOR | 11.00% | ~28 |
-| DEBTOR | 8.00% | ~20 |
+| DEBTOR | 9.00% | ~23 |
 | SUCCESSFUL | 3.00% | ~8 |
 | THINGS ARE GOING WELL | 3.00% | ~8 |
 | FIRST $100K | 2.00% | ~5 |

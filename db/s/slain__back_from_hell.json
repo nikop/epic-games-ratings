@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 20687,
+  "EOS_Progressed": 20690,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2511,6 +2511,11 @@
       "Time": "2023-05-15T11:06:01.954533+00:00",
       "NumProgressed": 20687,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-15T12:06:57.0002938+00:00",
+      "NumProgressed": 20690,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2530,7 +2535,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4138
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2546,7 +2551,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -2570,7 +2575,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -2666,7 +2671,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -2690,7 +2695,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -2753,7 +2758,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 20687,
+      "Progressed": 20690,
       "Completed": 16
     }
   ],
@@ -2761,8 +2766,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:06:01.9545325+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:06:57.0002932+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-15T11:00:03.6166885+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:06:01.9545685+00:00"
+  "LastUpdate_Ratings": "2023-05-15T12:01:05.7186931+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:06:57.0003299+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,936 |
-| First One’s Free | 65.00% | ~39,121 |
-| Neophyte Ninja | 50.00% | ~30,093 |
-| Too Old for This | 47.00% | ~28,287 |
-| Fancy Pants | 35.00% | ~21,065 |
-| Case Closed | 34.00% | ~20,463 |
-| King of the Hill | 33.00% | ~19,861 |
-| Underworld Initiate | 29.00% | ~17,454 |
-| Roid Ranger | 21.00% | ~12,639 |
-| True Player | 19.00% | ~11,435 |
-| Off the Rocks | 19.00% | ~11,435 |
+| Downed but Not Outed | 73.00% | ~43,938 |
+| First One’s Free | 65.00% | ~39,123 |
+| Neophyte Ninja | 50.00% | ~30,094 |
+| Too Old for This | 47.00% | ~28,289 |
+| Fancy Pants | 35.00% | ~21,066 |
+| Case Closed | 34.00% | ~20,464 |
+| King of the Hill | 33.00% | ~19,862 |
+| Underworld Initiate | 29.00% | ~17,455 |
+| Roid Ranger | 21.00% | ~12,640 |
+| True Player | 19.00% | ~11,436 |
+| Off the Rocks | 19.00% | ~11,436 |
 | Raider’s Ruin | 16.00% | ~9,630 |
 | Dragonslayer | 16.00% | ~9,630 |
-| Hidden Sonata | 13.00% | ~7,824 |
-| Rockay Rex | 11.00% | ~6,620 |
+| Hidden Sonata | 13.00% | ~7,825 |
+| Rockay Rex | 11.00% | ~6,621 |
 | Classy Joint | 10.00% | ~6,019 |
 | Track Star | 9.00% | ~5,417 |
 | Freebooter | 9.00% | ~5,417 |
@@ -29,9 +29,9 @@ Rating: 3.93 (Ranked 895)
 | Foo Finder | 7.00% | ~4,213 |
 | Legend Looter | 5.00% | ~3,009 |
 | Savvy Seeker | 5.00% | ~3,009 |
-| Imports and Exports | 4.00% | ~2,407 |
-| Olympus Ascended | 4.00% | ~2,407 |
-| Red Star | 4.00% | ~2,407 |
+| Imports and Exports | 4.00% | ~2,408 |
+| Olympus Ascended | 4.00% | ~2,408 |
+| Red Star | 4.00% | ~2,408 |
 | Privateer | 3.00% | ~1,806 |
 | Groundhog Days | 3.00% | ~1,806 |
 | Cracked the Jack | 3.00% | ~1,806 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~301 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,186 (Ranked 68)  
+Progressed: 60,189 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,18 +68,18 @@ Completed: 29 (0.05%) (Ranked 172)
 | 2023-05-12 | 59,889 | 29 |
 | 2023-05-13 | 60,028 | 29 |
 | 2023-05-14 | 60,142 | 29 |
-| 2023-05-15 | 60,186 | 29 |
+| 2023-05-15 | 60,189 | 29 |
 ## Awards
 Max (Highly Recommended): 266  (Ranked 234)  
-Sum: 1,244 (Ranked 219)  
+Sum: 1,254 (Ranked 219)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 266 |
+| This game has Diverse Characters | 255 |
 | This game has Amazing Characters | 250 |
-| This game has Diverse Characters | 248 |
+| This game has Challenging Combat | 243 |
 | This game has Quickly Understood Controls | 240 |
-| This game has Challenging Combat | 240 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -133,3 +133,4 @@ Diff (max vs sum): 15
 | 2023-05-12 | 3.94 | 256 | 1,200 |
 | 2023-05-13 | 3.94 | 260 | 1,219 |
 | 2023-05-14 | 3.93 | 266 | 1,244 |
+| 2023-05-15 | 3.93 | 266 | 1,254 |

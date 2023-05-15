@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1157,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -1241,6 +1241,11 @@
       "Time": "2023-05-15T10:04:42.5147796+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T12:06:16.550063+00:00",
+      "NumProgressed": 1157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1330,9 +1335,9 @@
       "ID": "5",
       "SetID": "1dkhij4",
       "Name": "Snowy Peak",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 127
     },
     {
       "ID": "6",
@@ -1348,7 +1353,7 @@
       "Name": "Blue Rapids",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "8",
@@ -1371,7 +1376,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 0
     }
   ],
@@ -1379,8 +1384,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:05:26.9173127+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:06:16.5500622+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.6922017+00:00",
-  "LastUpdate_Ratings": "2023-05-15T10:58:01.5863325+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:05:26.9173337+00:00"
+  "LastUpdate_Ratings": "2023-05-15T11:58:37.8392788+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:06:16.5501093+00:00"
 }

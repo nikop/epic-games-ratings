@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2072,9 +2072,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 45991,
+  "EOS_Progressed": 45992,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 2447,
+  "EOS_NewPlayers": 2411,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3587,6 +3587,11 @@
       "Time": "2023-05-15T11:06:14.6451917+00:00",
       "NumProgressed": 45991,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-05-15T12:07:11.0957833+00:00",
+      "NumProgressed": 45992,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 45,
@@ -3622,7 +3627,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 36333
+      "UsersEstimate": 36334
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -3726,7 +3731,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 17936
+      "UsersEstimate": 17937
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -3750,7 +3755,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 14257
+      "UsersEstimate": 14258
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -3822,7 +3827,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 8278
+      "UsersEstimate": 8279
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -3846,7 +3851,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8278
+      "UsersEstimate": 8279
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -3862,7 +3867,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 44611
+      "UsersEstimate": 44612
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -3934,7 +3939,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 24375
+      "UsersEstimate": 24376
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -3957,15 +3962,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 45991,
+      "Progressed": 45992,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-14T23:01:28.992186+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:06:14.6451909+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:07:11.0957826+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:26.2031618+00:00",
-  "LastUpdate_Ratings": "2023-05-15T11:00:40.930444+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:06:14.6452421+00:00"
+  "LastUpdate_Ratings": "2023-05-15T12:01:50.2066136+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:07:11.095826+00:00"
 }

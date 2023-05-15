@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5730,
+  "EOS_Progressed": 5731,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1474,6 +1474,11 @@
       "Time": "2023-05-15T08:05:42.2247624+00:00",
       "NumProgressed": 5730,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-15T12:06:20.2425544+00:00",
+      "NumProgressed": 5731,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 21,
@@ -1581,7 +1586,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "IN_A_PINCH",
@@ -1613,7 +1618,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "SNIP_SNIP",
@@ -1652,7 +1657,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5730,
+      "Progressed": 5731,
       "Completed": 20
     }
   ],
@@ -1660,8 +1665,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-12T16:58:00.7751461+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:05:30.1735352+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:06:20.2425539+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-15T10:57:57.3941471+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:05:30.1735805+00:00"
+  "LastUpdate_Ratings": "2023-05-15T11:58:31.8554258+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:06:20.2425791+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,751 |
+| A Brief Tour of the Realms | 2.00% | ~1,752 |
 | Checkmate | 2.00% | ~1,077 |
 | Vecna Out! | 2.00% | ~1,077 |
 | Pin and Skewer | 1.00% | ~538 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.40% | ~350 |
 | Terror in the Dark | 0.40% | ~350 |
 | A Mysterious Summons | 0.40% | ~350 |
+| Building Trust | 0.40% | ~350 |
 | Unearthed Evil | 0.40% | ~350 |
 | The Crumbling Temple | 0.40% | ~350 |
 | Useless Allies | 0.40% | ~350 |
@@ -51,7 +52,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.30% | ~162 |
 | Low Initiative | 0.30% | ~263 |
 | Street War | 0.30% | ~263 |
-| Building Trust | 0.30% | ~263 |
 | March of the Undead | 0.30% | ~263 |
 | No Time To Rest | 0.30% | ~263 |
 | Invisible Shadows | 0.30% | ~263 |
@@ -183,6 +183,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~175 |
 | Nimblest Escape | 0.20% | ~175 |
 | Stumbling Escape | 0.20% | ~175 |
+| Distracted Escape | 0.20% | ~108 |
 | Fugitives | 0.20% | ~175 |
 | From The Shadows | 0.20% | ~175 |
 | Excavating History | 0.20% | ~175 |
@@ -364,7 +365,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~88 |
 | Late Game | 0.10% | ~88 |
 | Shadowfell Stalwarts | 0.10% | ~54 |
-| Distracted Escape | 0.10% | ~54 |
 | Spined Nuisances | 0.10% | ~88 |
 | Twilight Twist | 0.10% | ~54 |
 | Screams of the Dead | 0.10% | ~88 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,571 (Ranked 59)  
+Progressed: 87,575 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,571 | 1,843 |
+| 2023-05-15 | 87,575 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

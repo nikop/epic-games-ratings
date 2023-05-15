@@ -145,9 +145,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "just_like_me",
@@ -226,8 +226,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:06:05.0753119+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:07:00.4306235+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:59.2770593+00:00",
-  "LastUpdate_Ratings": "2023-05-15T11:00:10.8226868+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:06:05.0753252+00:00"
+  "LastUpdate_Ratings": "2023-05-15T12:01:13.775078+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:07:00.4306357+00:00"
 }

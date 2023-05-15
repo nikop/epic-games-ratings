@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1306,10 +1306,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2114,
       "NumberOfAwardsMax": 285
+    },
+    {
+      "Time": "2023-05-15T12:00:24.5353262+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2115,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2114,
+  "NumberOfAwards": 2115,
   "NumberOfAwardsMax": 285,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1359,7 +1365,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 232
+      "Count": 233
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1380,9 +1386,9 @@
       "Count": 203
     }
   ],
-  "EOS_Progressed": 18740,
+  "EOS_Progressed": 18741,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2035,6 +2041,11 @@
       "Time": "2023-05-15T10:05:06.3908925+00:00",
       "NumProgressed": 18740,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-15T12:06:48.8038824+00:00",
+      "NumProgressed": 18741,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2094,7 +2105,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17616
+      "UsersEstimate": 17617
     },
     {
       "ID": "GameOver",
@@ -2206,7 +2217,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5809
+      "UsersEstimate": 5810
     },
     {
       "ID": "VeronicaLiptson",
@@ -2229,15 +2240,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18740,
+      "Progressed": 18741,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-14T13:59:03.7747325+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:05:54.9682088+00:00",
+  "LastChanged": "2023-05-15T12:00:24.535326+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:06:48.8038818+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:21.1151824+00:00",
-  "LastUpdate_Ratings": "2023-05-15T10:59:29.1292564+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:05:54.9682324+00:00"
+  "LastUpdate_Ratings": "2023-05-15T12:00:24.5353265+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:06:48.803901+00:00"
 }

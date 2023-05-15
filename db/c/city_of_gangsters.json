@@ -343,9 +343,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 312577,
+  "EOS_Progressed": 312588,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2284,
+  "EOS_NewPlayers": 2277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2663,6 +2663,11 @@
       "Time": "2023-05-15T11:05:40.8167686+00:00",
       "NumProgressed": 312577,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-15T12:06:32.5084234+00:00",
+      "NumProgressed": 312588,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 80,
@@ -2674,7 +2679,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9378
     },
     {
       "ID": "ach002",
@@ -2690,7 +2695,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37509
+      "UsersEstimate": 37511
     },
     {
       "ID": "ach004",
@@ -2706,7 +2711,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9378
     },
     {
       "ID": "ach006",
@@ -2730,7 +2735,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37509
+      "UsersEstimate": 37511
     },
     {
       "ID": "ach009",
@@ -2762,7 +2767,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25006
+      "UsersEstimate": 25007
     },
     {
       "ID": "ach013",
@@ -2778,7 +2783,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43761
+      "UsersEstimate": 43762
     },
     {
       "ID": "ach015",
@@ -2802,7 +2807,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 37509
+      "UsersEstimate": 37511
     },
     {
       "ID": "ach018",
@@ -2810,7 +2815,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21880
+      "UsersEstimate": 21881
     },
     {
       "ID": "ach019",
@@ -2818,7 +2823,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12503
+      "UsersEstimate": 12504
     },
     {
       "ID": "ach020",
@@ -2826,7 +2831,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9378
     },
     {
       "ID": "ach021",
@@ -2834,7 +2839,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9378
     },
     {
       "ID": "ach022",
@@ -2882,7 +2887,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 143785
+      "UsersEstimate": 143790
     },
     {
       "ID": "ach028",
@@ -2890,7 +2895,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12503
+      "UsersEstimate": 12504
     },
     {
       "ID": "ach029",
@@ -2898,7 +2903,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 31258
+      "UsersEstimate": 31259
     },
     {
       "ID": "ach030",
@@ -2922,7 +2927,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12503
+      "UsersEstimate": 12504
     },
     {
       "ID": "ach033",
@@ -2978,7 +2983,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 31258
+      "UsersEstimate": 31259
     },
     {
       "ID": "ach040",
@@ -3010,7 +3015,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21880
+      "UsersEstimate": 21881
     },
     {
       "ID": "ach044",
@@ -3018,7 +3023,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12503
+      "UsersEstimate": 12504
     },
     {
       "ID": "ach045",
@@ -3026,7 +3031,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 40635
+      "UsersEstimate": 40636
     },
     {
       "ID": "ach046",
@@ -3034,7 +3039,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21880
+      "UsersEstimate": 21881
     },
     {
       "ID": "ach047",
@@ -3074,7 +3079,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 34383
+      "UsersEstimate": 34385
     },
     {
       "ID": "ach052",
@@ -3090,7 +3095,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9378
     },
     {
       "ID": "ach054",
@@ -3098,7 +3103,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9378
     },
     {
       "ID": "ach055",
@@ -3130,7 +3135,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9378
     },
     {
       "ID": "ach059",
@@ -3138,7 +3143,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 31258
+      "UsersEstimate": 31259
     },
     {
       "ID": "ach060",
@@ -3186,7 +3191,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43761
+      "UsersEstimate": 43762
     },
     {
       "ID": "ach067",
@@ -3202,7 +3207,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 50012
+      "UsersEstimate": 50014
     },
     {
       "ID": "ach069",
@@ -3210,7 +3215,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43761
+      "UsersEstimate": 43762
     },
     {
       "ID": "ach070",
@@ -3250,7 +3255,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 12503
+      "UsersEstimate": 12504
     },
     {
       "ID": "ach075",
@@ -3313,7 +3318,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 312577,
+      "Progressed": 312588,
       "Completed": 3
     }
   ],
@@ -3321,8 +3326,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-05-14T19:57:50.7897943+00:00",
-  "LastChanged_Achievements": "2023-05-15T11:05:40.8167681+00:00",
+  "LastChanged_Achievements": "2023-05-15T12:06:32.5084229+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.8293728+00:00",
-  "LastUpdate_Ratings": "2023-05-15T10:57:43.7293363+00:00",
-  "LastUpdate_Achievements": "2023-05-15T11:05:40.8168927+00:00"
+  "LastUpdate_Ratings": "2023-05-15T11:58:13.3395455+00:00",
+  "LastUpdate_Achievements": "2023-05-15T12:06:32.5085478+00:00"
 }
