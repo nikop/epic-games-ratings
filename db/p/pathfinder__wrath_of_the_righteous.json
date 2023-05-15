@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2386,7 +2386,7 @@
   ],
   "EOS_Progressed": 8826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3862,9 +3862,9 @@
       "ID": "40_EndOfEternalGuard",
       "SetID": "989of5o",
       "Name": "End of Eternal Guard",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "41_PlayfulMood",
@@ -4500,8 +4500,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-15T20:58:02.4369461+00:00",
-  "LastChanged_Achievements": "2023-05-15T21:05:18.3934153+00:00",
+  "LastChanged_Achievements": "2023-05-15T22:06:55.1516057+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-15T20:58:02.4369467+00:00",
-  "LastUpdate_Achievements": "2023-05-15T21:05:18.3935456+00:00"
+  "LastUpdate_Ratings": "2023-05-15T21:58:43.1424622+00:00",
+  "LastUpdate_Achievements": "2023-05-15T22:06:55.1517656+00:00"
 }

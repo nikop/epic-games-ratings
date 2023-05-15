@@ -2,9 +2,9 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 19.44,
+  "EOS_Completed_Percentage": 19.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -373,6 +373,11 @@
       "Time": "2023-05-15T05:05:29.9110706+00:00",
       "NumProgressed": 72,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-15T22:06:17.7823757+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 22,
@@ -384,7 +389,7 @@
       "Name": "Welcome!",
       "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_002",
@@ -392,7 +397,7 @@
       "Name": "A tiny town",
       "Percentage": 81,
       "XP": 35,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_003",
@@ -400,13 +405,13 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 41
     },
@@ -422,7 +427,7 @@
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 35,
       "UsersEstimate": 30
     },
@@ -470,7 +475,7 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 20
     },
@@ -559,7 +564,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 14
     }
   ],
@@ -567,8 +572,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-15T21:04:50.6948179+00:00",
+  "LastChanged_Achievements": "2023-05-15T22:06:17.7823753+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.1366152+00:00",
-  "LastUpdate_Ratings": "2023-05-15T20:57:48.3794064+00:00",
-  "LastUpdate_Achievements": "2023-05-15T21:04:50.6948325+00:00"
+  "LastUpdate_Ratings": "2023-05-15T21:58:22.1811991+00:00",
+  "LastUpdate_Achievements": "2023-05-15T22:06:17.782413+00:00"
 }

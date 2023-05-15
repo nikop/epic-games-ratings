@@ -3,12 +3,12 @@
   "Name": "No Straight Roads",
   "ProductSlug": "no-straight-roads",
   "Ranking_Rating": 213,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-08-25T12:00:00+00:00",
     "PcReleaseDate": "2020-08-25T12:00:00+00:00",
@@ -70,6 +70,6 @@
   "FirstSeenRating": "2022-10-06T02:00:31.3504442+00:00",
   "LastChanged": "2023-03-31T05:57:07.7543914+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:12.7994249+00:00",
-  "LastUpdate_Ratings": "2023-05-15T20:59:45.8923296+00:00",
-  "LastUpdate_Achievements": "2023-05-15T21:04:29.1059809+00:00"
+  "LastUpdate_Ratings": "2023-05-15T22:01:14.4758802+00:00",
+  "LastUpdate_Achievements": "2023-05-15T22:05:48.0607659+00:00"
 }

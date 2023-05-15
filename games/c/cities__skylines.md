@@ -6,32 +6,32 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~516,974 |
-| Green Energy | 60.00% | ~436,880 |
-| Foggy Weather | 59.00% | ~429,598 |
-| Singing In The- | 59.00% | ~429,598 |
-| Unpopular Mayor | 41.00% | ~298,535 |
-| Power at Your Fingertips | 33.00% | ~240,284 |
-| City Planner | 23.00% | ~167,471 |
-| Rolling in Dough | 20.00% | ~145,627 |
-| Does My Bum Look Big In This? | 18.00% | ~131,064 |
-| Climbing the Social Ladder | 16.00% | ~116,501 |
-| Safe City | 14.00% | ~101,939 |
-| Quay-King | 11.00% | ~80,095 |
-| Lawmaker | 10.00% | ~72,813 |
-| With Canals You Can! | 10.00% | ~72,813 |
-| Nomen Est Omen | 7.00% | ~50,969 |
-| Well Informed | 6.00% | ~43,688 |
-| Fire Watch | 5.00% | ~36,407 |
-| Greenest City | 4.00% | ~29,125 |
-| Reporting! | 4.00% | ~29,125 |
-| Heavenly City | 3.00% | ~21,844 |
-| SIMulated City | 3.00% | ~21,844 |
-| The Safest Town | 3.00% | ~21,844 |
-| City in Motion | 2.00% | ~14,563 |
-| Professional Dumper | 2.00% | ~14,563 |
-| Earthloving City | 1.00% | ~7,281 |
-| Metropolis | 1.00% | ~7,281 |
+| Pioneer | 71.00% | ~517,027 |
+| Green Energy | 60.00% | ~436,924 |
+| Foggy Weather | 59.00% | ~429,642 |
+| Singing In The- | 59.00% | ~429,642 |
+| Unpopular Mayor | 41.00% | ~298,565 |
+| Power at Your Fingertips | 33.00% | ~240,308 |
+| City Planner | 23.00% | ~167,488 |
+| Rolling in Dough | 20.00% | ~145,641 |
+| Does My Bum Look Big In This? | 18.00% | ~131,077 |
+| Climbing the Social Ladder | 16.00% | ~116,513 |
+| Safe City | 14.00% | ~101,949 |
+| Quay-King | 11.00% | ~80,103 |
+| Lawmaker | 10.00% | ~72,821 |
+| With Canals You Can! | 10.00% | ~72,821 |
+| Nomen Est Omen | 7.00% | ~50,974 |
+| Well Informed | 6.00% | ~43,692 |
+| Fire Watch | 5.00% | ~36,410 |
+| Greenest City | 4.00% | ~29,128 |
+| Reporting! | 4.00% | ~29,128 |
+| Heavenly City | 3.00% | ~21,846 |
+| SIMulated City | 3.00% | ~21,846 |
+| The Safest Town | 3.00% | ~21,846 |
+| City in Motion | 2.00% | ~14,564 |
+| Professional Dumper | 2.00% | ~14,564 |
+| Earthloving City | 1.00% | ~7,282 |
+| Metropolis | 1.00% | ~7,282 |
 | Beam Me Up | 0.70% | ~5,097 |
 | Higher Education | 0.70% | ~5,097 |
 | Terraformer | 0.70% | ~5,097 |
@@ -53,13 +53,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Happy Town | 0.40% | ~2,913 |
 | I Want It All | 0.40% | ~2,913 |
 | Just Tolling | 0.40% | ~2,913 |
-| A Huge Hadron | 0.30% | ~2,184 |
-| Friendly Teaching | 0.30% | ~2,184 |
-| Here's A Tram | 0.30% | ~2,184 |
-| New Eden | 0.30% | ~2,184 |
-| Run, Bambi! | 0.30% | ~2,184 |
-| Short Fuse | 0.30% | ~2,184 |
-| We need snorkels! | 0.30% | ~2,184 |
+| A Huge Hadron | 0.30% | ~2,185 |
+| Friendly Teaching | 0.30% | ~2,185 |
+| Here's A Tram | 0.30% | ~2,185 |
+| New Eden | 0.30% | ~2,185 |
+| Run, Bambi! | 0.30% | ~2,185 |
+| Short Fuse | 0.30% | ~2,185 |
+| We need snorkels! | 0.30% | ~2,185 |
 | City in Motion 2 | 0.20% | ~1,456 |
 | Eternal City | 0.20% | ~1,456 |
 | It's Wintertime! | 0.20% | ~1,456 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~728 |
 | Z00 | 0.10% | ~728 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728,133 (Ranked 13)  
+Progressed: 728,207 (Ranked 13)  
 Completed: 6 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,16 +151,16 @@ Completed: 6 (0.00%) (Ranked 199)
 | 2023-05-12 | 719,843 | 6 |
 | 2023-05-13 | 722,832 | 6 |
 | 2023-05-14 | 725,982 | 6 |
-| 2023-05-15 | 728,133 | 6 |
+| 2023-05-15 | 728,207 | 6 |
 ## Awards
 Max (Great for Beginners): 4,455  (Ranked 68)  
-Sum: 34,059 (Ranked 34)  
+Sum: 34,062 (Ranked 34)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,455 |
 | This game is Relaxing | 4,451 |
-| This game has Quickly Understood Controls | 4,182 |
+| This game has Quickly Understood Controls | 4,185 |
 | This game is Educational | 4,172 |
 | This game is Extremely Fun | 3,935 |
 | This game is Highly Recommended | 3,810 |
@@ -280,4 +280,4 @@ Diff (max vs sum): 34
 | 2023-05-12 | 4.65 | - | 4,436 | 33,912 |
 | 2023-05-13 | 4.65 | - | 4,441 | 33,952 |
 | 2023-05-14 | 4.65 | - | 4,447 | 34,019 |
-| 2023-05-15 | 4.65 | - | 4,455 | 34,059 |
+| 2023-05-15 | 4.65 | - | 4,455 | 34,062 |

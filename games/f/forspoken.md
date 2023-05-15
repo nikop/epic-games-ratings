@@ -12,9 +12,9 @@ Rating: 4.13 (Ranked 849)
 | Knock 'Em Dead | 6.00% | ~2,282 |
 | Pilgrimage: Initiate | 6.00% | ~2,282 |
 | Hell of a Run | 6.00% | ~2,282 |
-| No Mercy | 5.00% | ~1,901 |
-| Explorer: Seeker | 5.00% | ~1,901 |
-| Call of the Fount: Baptized | 5.00% | ~1,901 |
+| No Mercy | 5.00% | ~1,902 |
+| Explorer: Seeker | 5.00% | ~1,902 |
+| Call of the Fount: Baptized | 5.00% | ~1,902 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,521 |
 | Stuck | 4.00% | ~1,521 |
 | Help Me Out Here | 4.00% | ~1,521 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 849)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,029 (Ranked 80)  
+Progressed: 38,031 (Ranked 80)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-12 | 37,938 | 1 |
 | 2023-05-13 | 37,977 | 1 |
 | 2023-05-14 | 38,017 | 1 |
-| 2023-05-15 | 38,029 | 1 |
+| 2023-05-15 | 38,031 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -19,9 +19,9 @@
 | An Actor! | 43.00% | ~276 |
 | Curtain Call | 41.00% | ~264 |
 | Piece of Cake | 39.00% | ~251 |
+| Gooey Delight! | 39.00% | ~251 |
+| Glimmer of Hope | 39.00% | ~251 |
 | Well Rested | 39.00% | ~251 |
-| Gooey Delight! | 38.00% | ~244 |
-| Glimmer of Hope | 38.00% | ~244 |
 | Teacups for Toppy | 38.00% | ~244 |
 | Nightmare Fuel | 37.00% | ~238 |
 | Take Heart | 37.00% | ~238 |
@@ -42,15 +42,15 @@
 | All Heart | 31.00% | ~199 |
 | Trick Question! | 31.00% | ~199 |
 | Soul Slayer | 30.00% | ~193 |
+| The Downfall | 30.00% | ~193 |
 | Extraordinary! | 30.00% | ~193 |
-| The Downfall | 29.00% | ~186 |
+| Spot of Tea? | 30.00% | ~193 |
+| Going Home | 30.00% | ~193 |
 | Final Showdown | 29.00% | ~186 |
-| Spot of Tea? | 29.00% | ~186 |
-| Going Home | 29.00% | ~186 |
 | Mirror, Mirror | 28.00% | ~180 |
 | Flower Power | 25.00% | ~161 |
 | Shopping Spree! | 22.00% | ~141 |
-| Crowned | 21.00% | ~135 |
+| Crowned | 22.00% | ~141 |
 | Max Level! | 13.00% | ~84 |
 | Dance Master | 8.00% | ~51 |
 | Bombs Away! | 8.00% | ~51 |

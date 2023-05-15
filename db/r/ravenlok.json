@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 643,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 6.84,
   "EosHistory": [
@@ -1245,9 +1245,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 186
+      "UsersEstimate": 193
     },
     {
       "ID": "18",
@@ -1365,9 +1365,9 @@
       "ID": "30",
       "SetID": "d0g98p",
       "Name": "Gooey Delight!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 251
     },
     {
       "ID": "31",
@@ -1397,9 +1397,9 @@
       "ID": "34",
       "SetID": "d0g98p",
       "Name": "Glimmer of Hope",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 251
     },
     {
       "ID": "35",
@@ -1509,9 +1509,9 @@
       "ID": "47",
       "SetID": "d0g98p",
       "Name": "Crowned",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 141
     },
     {
       "ID": "48",
@@ -1541,17 +1541,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 193
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 193
     },
     {
       "ID": "7",
@@ -1590,8 +1590,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-15T21:04:47.9925441+00:00",
+  "LastChanged_Achievements": "2023-05-15T22:06:14.1101975+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-15T20:57:19.4733352+00:00",
-  "LastUpdate_Achievements": "2023-05-15T21:04:47.9925894+00:00"
+  "LastUpdate_Ratings": "2023-05-15T21:57:40.1999088+00:00",
+  "LastUpdate_Achievements": "2023-05-15T22:06:14.1102537+00:00"
 }

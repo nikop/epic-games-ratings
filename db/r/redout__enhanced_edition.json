@@ -3,12 +3,12 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 515,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221939,
+  "EOS_Progressed": 221943,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2553,6 +2553,11 @@
       "Time": "2023-05-15T21:04:45.5960856+00:00",
       "NumProgressed": 221939,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-05-15T22:06:11.0075008+00:00",
+      "NumProgressed": 221943,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -2580,7 +2585,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62143
+      "UsersEstimate": 62144
     },
     {
       "ID": "CENTAUR",
@@ -2596,7 +2601,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24413
+      "UsersEstimate": 24414
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -2652,7 +2657,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44388
+      "UsersEstimate": 44389
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -2700,7 +2705,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71020
+      "UsersEstimate": 71022
     },
     {
       "ID": "NOBUNAGA",
@@ -2788,7 +2793,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 46607
+      "UsersEstimate": 46608
     },
     {
       "ID": "TACTICIAN",
@@ -2828,22 +2833,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90995
+      "UsersEstimate": 90997
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 221939,
+      "Progressed": 221943,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-15T21:04:45.5960853+00:00",
+  "LastChanged_Achievements": "2023-05-15T22:06:11.0075004+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:08.9960773+00:00",
-  "LastUpdate_Ratings": "2023-05-15T20:57:59.0907729+00:00",
-  "LastUpdate_Achievements": "2023-05-15T21:04:45.5961145+00:00"
+  "LastUpdate_Ratings": "2023-05-15T21:58:38.2662776+00:00",
+  "LastUpdate_Achievements": "2023-05-15T22:06:11.0075356+00:00"
 }

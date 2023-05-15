@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -106,17 +106,17 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -346,9 +346,9 @@
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -362,9 +362,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -683,8 +683,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-15T21:05:13.0716365+00:00",
+  "LastChanged_Achievements": "2023-05-15T22:06:47.911931+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:26.7729117+00:00",
-  "LastUpdate_Ratings": "2023-05-15T20:57:21.4080106+00:00",
-  "LastUpdate_Achievements": "2023-05-15T21:05:13.0716968+00:00"
+  "LastUpdate_Ratings": "2023-05-15T21:57:42.9845993+00:00",
+  "LastUpdate_Achievements": "2023-05-15T22:06:47.9120046+00:00"
 }

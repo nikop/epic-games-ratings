@@ -1,19 +1,19 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 895)  
+Rating: 3.94 (Ranked 894)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,967 |
-| First One’s Free | 65.00% | ~39,149 |
-| Neophyte Ninja | 50.00% | ~30,114 |
-| Too Old for This | 47.00% | ~28,308 |
-| Fancy Pants | 35.00% | ~21,080 |
-| Case Closed | 34.00% | ~20,478 |
+| Downed but Not Outed | 73.00% | ~43,969 |
+| First One’s Free | 65.00% | ~39,150 |
+| Neophyte Ninja | 50.00% | ~30,116 |
+| Too Old for This | 47.00% | ~28,309 |
+| Fancy Pants | 35.00% | ~21,081 |
+| Case Closed | 34.00% | ~20,479 |
 | King of the Hill | 33.00% | ~19,876 |
-| Underworld Initiate | 29.00% | ~17,466 |
-| Roid Ranger | 21.00% | ~12,648 |
+| Underworld Initiate | 29.00% | ~17,467 |
+| Roid Ranger | 21.00% | ~12,649 |
 | True Player | 19.00% | ~11,444 |
 | Off the Rocks | 19.00% | ~11,444 |
 | Raider’s Ruin | 16.00% | ~9,637 |
@@ -27,8 +27,8 @@ Rating: 3.93 (Ranked 895)
 | Headhunter | 8.00% | ~4,818 |
 | Ding Dong | 8.00% | ~4,818 |
 | Foo Finder | 7.00% | ~4,216 |
-| Legend Looter | 5.00% | ~3,011 |
-| Savvy Seeker | 5.00% | ~3,011 |
+| Legend Looter | 5.00% | ~3,012 |
+| Savvy Seeker | 5.00% | ~3,012 |
 | Imports and Exports | 4.00% | ~2,409 |
 | Olympus Ascended | 4.00% | ~2,409 |
 | Red Star | 4.00% | ~2,409 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~301 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,229 (Ranked 68)  
+Progressed: 60,231 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,18 +68,18 @@ Completed: 29 (0.05%) (Ranked 172)
 | 2023-05-12 | 59,889 | 29 |
 | 2023-05-13 | 60,028 | 29 |
 | 2023-05-14 | 60,142 | 29 |
-| 2023-05-15 | 60,229 | 29 |
+| 2023-05-15 | 60,231 | 29 |
 ## Awards
 Max (Highly Recommended): 266  (Ranked 234)  
-Sum: 1,256 (Ranked 219)  
+Sum: 1,259 (Ranked 219)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 266 |
 | This game has Diverse Characters | 255 |
 | This game has Amazing Characters | 252 |
+| This game has Quickly Understood Controls | 243 |
 | This game has Challenging Combat | 243 |
-| This game has Quickly Understood Controls | 240 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -133,4 +133,4 @@ Diff (max vs sum): 15
 | 2023-05-12 | 3.94 | 256 | 1,200 |
 | 2023-05-13 | 3.94 | 260 | 1,219 |
 | 2023-05-14 | 3.93 | 266 | 1,244 |
-| 2023-05-15 | 3.93 | 266 | 1,256 |
+| 2023-05-15 | 3.94 | 266 | 1,259 |

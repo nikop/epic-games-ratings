@@ -45,10 +45,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 1.00% | ~76 |
 | Path of the Demon | 0.90% | ~79 |
 | Abyssal Conspiracy | 0.80% | ~71 |
+| End of Eternal Guard | 0.70% | ~62 |
 | This Wall Won't Fall | 0.70% | ~53 |
 | The Final Threshold | 0.60% | ~53 |
 | Strategic Victory | 0.60% | ~53 |
-| End of Eternal Guard | 0.60% | ~53 |
 | Not the Last Sarkorian | 0.60% | ~46 |
 | Path of the Dragon | 0.50% | ~44 |
 | Path of the Legend | 0.50% | ~44 |
