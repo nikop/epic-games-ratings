@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 2.00% | ~1,752 |
 | Checkmate | 2.00% | ~1,077 |
 | Vecna Out! | 2.00% | ~1,077 |
-| Pin and Skewer | 1.00% | ~538 |
+| Pin and Skewer | 1.00% | ~539 |
 | The Cursed Farmer | 1.00% | ~876 |
 | Beast Intentions | 0.90% | ~788 |
 | Bully for Vecna | 0.90% | ~485 |
@@ -215,6 +215,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Goblin Halls | 0.20% | ~175 |
 | Dinosaur Racing | 0.20% | ~175 |
 | Elturel Has Fallen | 0.20% | ~175 |
+| Everything is Awful | 0.20% | ~175 |
 | Hailstorm! | 0.20% | ~108 |
 | Resolve Amongst Chaos | 0.20% | ~175 |
 | All You Know Is Wrong | 0.20% | ~175 |
@@ -410,7 +411,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~88 |
 | The Nimble Grove | 0.10% | ~88 |
 | The Misty Grove | 0.10% | ~54 |
-| Everything is Awful | 0.10% | ~88 |
 | Earthquake! | 0.10% | ~54 |
 | Shadow Stalkers | 0.10% | ~54 |
 | Avernus Frozen Over | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,575 (Ranked 59)  
+Progressed: 87,580 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,575 | 1,843 |
+| 2023-05-15 | 87,580 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

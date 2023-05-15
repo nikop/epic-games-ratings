@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 448,
   "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
@@ -1144,10 +1144,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 331,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-05-15T13:07:34.500447+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 331,
+  "NumberOfAwards": 290,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1235,8 +1241,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-05-13T15:00:58.654562+00:00",
+  "LastChanged": "2023-05-15T13:07:34.5004469+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:29.5885371+00:00",
-  "LastUpdate_Ratings": "2023-05-15T12:01:53.9458061+00:00",
-  "LastUpdate_Achievements": "2023-05-15T12:02:10.9683423+00:00"
+  "LastUpdate_Ratings": "2023-05-15T13:07:34.5004476+00:00",
+  "LastUpdate_Achievements": "2023-05-15T13:07:46.8177208+00:00"
 }

@@ -769,9 +769,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -905,8 +905,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-15T12:06:30.7942085+00:00",
+  "LastChanged_Achievements": "2023-05-15T13:12:21.9349966+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:23.6187843+00:00",
-  "LastUpdate_Ratings": "2023-05-15T11:59:11.4871955+00:00",
-  "LastUpdate_Achievements": "2023-05-15T12:06:30.7942532+00:00"
+  "LastUpdate_Ratings": "2023-05-15T13:05:41.2982084+00:00",
+  "LastUpdate_Achievements": "2023-05-15T13:12:21.9350405+00:00"
 }

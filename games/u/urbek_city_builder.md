@@ -10,7 +10,7 @@
 | Sport is good for you | 26.00% | ~38 |
 | The woodcutter | 24.00% | ~36 |
 | It is nice to share with friends in the city | 24.00% | ~36 |
-| I like books | 19.00% | ~28 |
+| I like books | 20.00% | ~30 |
 | I like my life | 19.00% | ~28 |
 | Clean energy | 19.00% | ~28 |
 | Soviet town | 16.00% | ~24 |

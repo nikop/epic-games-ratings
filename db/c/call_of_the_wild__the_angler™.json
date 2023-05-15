@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3494,
+  "EOS_Progressed": 3497,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1153,6 +1153,11 @@
       "Time": "2023-05-15T03:05:54.5127766+00:00",
       "NumProgressed": 3494,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T13:12:41.9970529+00:00",
+      "NumProgressed": 3497,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1164,7 +1169,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2483
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -1172,15 +1177,15 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1574
     },
     {
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2133
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1188,7 +1193,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -1196,7 +1201,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -1204,7 +1209,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -1212,7 +1217,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -1220,7 +1225,7 @@
       "Name": "Scaling up",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -1236,7 +1241,7 @@
       "Name": "License to Gill",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -1244,7 +1249,7 @@
       "Name": "More than a Tourist",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -1332,7 +1337,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -1443,13 +1448,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3494,
+      "Progressed": 3497,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2866,
+      "Progressed": 2869,
       "Completed": 112
     }
   ],
@@ -1457,8 +1462,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-15T12:06:58.1159346+00:00",
+  "LastChanged_Achievements": "2023-05-15T13:12:41.9970523+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.4232926+00:00",
-  "LastUpdate_Ratings": "2023-05-15T12:00:54.2004377+00:00",
-  "LastUpdate_Achievements": "2023-05-15T12:06:58.1159677+00:00"
+  "LastUpdate_Ratings": "2023-05-15T13:06:55.0815878+00:00",
+  "LastUpdate_Achievements": "2023-05-15T13:12:41.9970844+00:00"
 }

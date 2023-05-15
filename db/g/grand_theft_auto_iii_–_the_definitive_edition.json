@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4908,
+  "EOS_Progressed": 4909,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1088,6 +1088,11 @@
       "Time": "2023-05-15T00:05:51.4832827+00:00",
       "NumProgressed": 4908,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-15T13:12:16.6018526+00:00",
+      "NumProgressed": 4909,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1139,7 +1144,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH07",
@@ -1203,7 +1208,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH15",
@@ -1243,7 +1248,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH20",
@@ -1330,7 +1335,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4908,
+      "Progressed": 4909,
       "Completed": 26
     }
   ],
@@ -1338,8 +1343,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-15T12:06:23.4735172+00:00",
+  "LastChanged_Achievements": "2023-05-15T13:12:16.6018521+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:51.3816793+00:00",
-  "LastUpdate_Ratings": "2023-05-15T11:58:29.1208674+00:00",
-  "LastUpdate_Achievements": "2023-05-15T12:06:23.4735435+00:00"
+  "LastUpdate_Ratings": "2023-05-15T13:05:14.8945468+00:00",
+  "LastUpdate_Achievements": "2023-05-15T13:12:16.6018763+00:00"
 }

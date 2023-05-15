@@ -5,13 +5,13 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~961 |
+| Victor | 94.00% | ~962 |
 | World Map | 80.00% | ~818 |
-| Temple of Eternals | 56.00% | ~572 |
-| Prestigious | 52.00% | ~531 |
+| Temple of Eternals | 56.00% | ~573 |
+| Prestigious | 52.00% | ~532 |
 | Fellowship Power | 39.00% | ~399 |
 | Guild Power | 23.00% | ~235 |
-| Prestigious x10 | 20.00% | ~204 |
+| Prestigious x10 | 20.00% | ~205 |
 | The game is on | 17.00% | ~174 |
 | Dragon Clicker | 15.00% | ~153 |
 | Exotic Merchant | 15.00% | ~153 |
@@ -40,12 +40,12 @@ Rating: 3.64 (Ranked 917)
 | The Expeditioner | 3.00% | ~31 |
 | The power of Awakening | 3.00% | ~31 |
 | Ancient Knowledge | 2.00% | ~20 |
+| Doing My Part | 2.00% | ~20 |
 | How Do You Turn This On? | 2.00% | ~20 |
 | Missions Dedication | 2.00% | ~20 |
 | The father of Dragons | 2.00% | ~20 |
 | Trader | 2.00% | ~20 |
 | What lies behind the bush | 2.00% | ~20 |
-| Doing My Part | 1.00% | ~10 |
 | Dragon Slayer | 1.00% | ~10 |
 | Engineer Mastery | 1.00% | ~10 |
 | Four Leaf Clover | 1.00% | ~10 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,022 (Ranked 162)  
+Progressed: 1,023 (Ranked 162)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-12 | 979 | 1 |
 | 2023-05-13 | 1,001 | 1 |
 | 2023-05-14 | 1,017 | 1 |
-| 2023-05-15 | 1,022 | 1 |
+| 2023-05-15 | 1,023 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

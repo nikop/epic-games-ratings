@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,893 (Ranked 67)  
+Progressed: 60,894 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,10 +92,10 @@ Completed: 91 (0.15%) (Ranked 146)
 | 2023-05-12 | 60,819 | 90 |
 | 2023-05-13 | 60,844 | 90 |
 | 2023-05-14 | 60,883 | 91 |
-| 2023-05-15 | 60,893 | 91 |
+| 2023-05-15 | 60,894 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,210  (Ranked 99)  
-Sum: 3,663 (Ranked 138)  
+Sum: 3,664 (Ranked 138)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -107,7 +107,7 @@ Diff (max vs sum): -39
 | This game has Diverse Characters | 181 |
 | This game is Highly Recommended | 178 |
 | This game has Amazing Storytelling | 176 |
-| This game is Great for Beginners | 173 |
+| This game is Great for Beginners | 174 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -195,3 +195,4 @@ Diff (max vs sum): -39
 | 2023-05-12 | 4.17 | 2,208 | 3,657 |
 | 2023-05-13 | 4.17 | 2,210 | 3,661 |
 | 2023-05-14 | 4.17 | 2,210 | 3,663 |
+| 2023-05-15 | 4.17 | 2,210 | 3,664 |

@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,435 |
-| Wallbanger | 5.00% | ~18,435 |
+| Point Shooting | 5.00% | ~18,436 |
+| Wallbanger | 5.00% | ~18,436 |
 | Exploitative | 4.00% | ~14,748 |
 | High Speed Low Drag | 4.00% | ~14,748 |
 | Wet Feet | 4.00% | ~14,748 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.70% | ~2,581 |
 | Special Delivery | 0.70% | ~2,581 |
 | Firefight Victory | 0.60% | ~2,212 |
-| Cinematic | 0.50% | ~1,843 |
+| Cinematic | 0.50% | ~1,844 |
 | Thanks Station! | 0.40% | ~1,475 |
 | Knock Knock | 0.30% | ~1,106 |
 | Hit and Run | 0.20% | ~737 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~369 |
 | Road Hazard | 0.10% | ~369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368,695 (Ranked 35)  
+Progressed: 368,712 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,15 +67,15 @@ Completed: 2 (0.00%) (Ranked 199)
 | 2023-05-12 | 366,374 | 2 |
 | 2023-05-13 | 367,658 | 2 |
 | 2023-05-14 | 368,463 | 2 |
-| 2023-05-15 | 368,695 | 2 |
+| 2023-05-15 | 368,712 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 350  (Ranked 210)  
-Sum: 2,640 (Ranked 162)  
+Sum: 2,641 (Ranked 162)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 350 |
-| This game has Challenging Combat | 317 |
+| This game has Challenging Combat | 318 |
 | This game is Extremely Fun | 314 |
 | This game has Competitive Players | 308 |
 | This game has Amazing Storytelling | 283 |
@@ -212,3 +212,4 @@ Diff (max vs sum): 48
 | 2023-05-12 | 4.61 | - | 350 | 2,634 |
 | 2023-05-13 | 4.61 | - | 350 | 2,638 |
 | 2023-05-14 | 4.61 | - | 350 | 2,640 |
+| 2023-05-15 | 4.61 | - | 350 | 2,641 |

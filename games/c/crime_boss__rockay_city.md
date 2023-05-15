@@ -5,19 +5,19 @@ Rating: 3.93 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~43,938 |
-| First One’s Free | 65.00% | ~39,123 |
-| Neophyte Ninja | 50.00% | ~30,094 |
-| Too Old for This | 47.00% | ~28,289 |
-| Fancy Pants | 35.00% | ~21,066 |
-| Case Closed | 34.00% | ~20,464 |
-| King of the Hill | 33.00% | ~19,862 |
-| Underworld Initiate | 29.00% | ~17,455 |
+| Downed but Not Outed | 73.00% | ~43,940 |
+| First One’s Free | 65.00% | ~39,125 |
+| Neophyte Ninja | 50.00% | ~30,096 |
+| Too Old for This | 47.00% | ~28,290 |
+| Fancy Pants | 35.00% | ~21,067 |
+| Case Closed | 34.00% | ~20,465 |
+| King of the Hill | 33.00% | ~19,863 |
+| Underworld Initiate | 29.00% | ~17,456 |
 | Roid Ranger | 21.00% | ~12,640 |
 | True Player | 19.00% | ~11,436 |
 | Off the Rocks | 19.00% | ~11,436 |
-| Raider’s Ruin | 16.00% | ~9,630 |
-| Dragonslayer | 16.00% | ~9,630 |
+| Raider’s Ruin | 16.00% | ~9,631 |
+| Dragonslayer | 16.00% | ~9,631 |
 | Hidden Sonata | 13.00% | ~7,825 |
 | Rockay Rex | 11.00% | ~6,621 |
 | Classy Joint | 10.00% | ~6,019 |
@@ -27,8 +27,8 @@ Rating: 3.93 (Ranked 895)
 | Headhunter | 8.00% | ~4,815 |
 | Ding Dong | 8.00% | ~4,815 |
 | Foo Finder | 7.00% | ~4,213 |
-| Legend Looter | 5.00% | ~3,009 |
-| Savvy Seeker | 5.00% | ~3,009 |
+| Legend Looter | 5.00% | ~3,010 |
+| Savvy Seeker | 5.00% | ~3,010 |
 | Imports and Exports | 4.00% | ~2,408 |
 | Olympus Ascended | 4.00% | ~2,408 |
 | Red Star | 4.00% | ~2,408 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 895)
 | Geek Out | 0.50% | ~301 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,189 (Ranked 68)  
+Progressed: 60,192 (Ranked 68)  
 Completed: 29 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 29 (0.05%) (Ranked 172)
 | 2023-05-12 | 59,889 | 29 |
 | 2023-05-13 | 60,028 | 29 |
 | 2023-05-14 | 60,142 | 29 |
-| 2023-05-15 | 60,189 | 29 |
+| 2023-05-15 | 60,192 | 29 |
 ## Awards
 Max (Highly Recommended): 266  (Ranked 234)  
 Sum: 1,254 (Ranked 219)  
