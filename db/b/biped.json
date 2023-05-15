@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1160,
+  "EOS_Progressed": 1163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1256,6 +1256,11 @@
       "Time": "2023-05-15T14:05:04.7295249+00:00",
       "NumProgressed": 1160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-15T16:04:47.7177217+00:00",
+      "NumProgressed": 1163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1267,7 +1272,7 @@
       "Name": "First Step",
       "Percentage": 44,
       "XP": 45,
-      "UsersEstimate": 510
+      "UsersEstimate": 512
     },
     {
       "ID": "10",
@@ -1283,7 +1288,7 @@
       "Name": "Telepathic",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "12",
@@ -1321,9 +1326,9 @@
       "ID": "2",
       "SetID": "1dkhij4",
       "Name": "Dense Forest",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 419
     },
     {
       "ID": "3",
@@ -1331,7 +1336,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "4",
@@ -1355,7 +1360,7 @@
       "Name": "High Treetops",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "7",
@@ -1371,7 +1376,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "9",
@@ -1386,7 +1391,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1160,
+      "Progressed": 1163,
       "Completed": 0
     }
   ],
@@ -1394,8 +1399,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-15T15:06:10.8878393+00:00",
+  "LastChanged_Achievements": "2023-05-15T16:04:47.7177208+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.6922017+00:00",
-  "LastUpdate_Ratings": "2023-05-15T14:58:26.8618304+00:00",
-  "LastUpdate_Achievements": "2023-05-15T15:06:10.8878718+00:00"
+  "LastUpdate_Ratings": "2023-05-15T15:57:50.8120724+00:00",
+  "LastUpdate_Achievements": "2023-05-15T16:04:47.717737+00:00"
 }

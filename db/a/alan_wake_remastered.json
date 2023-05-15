@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46181,
+  "EOS_Progressed": 46182,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1631,6 +1631,11 @@
       "Time": "2023-05-15T13:12:24.5105989+00:00",
       "NumProgressed": 46181,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-15T16:05:03.5218+00:00",
+      "NumProgressed": 46182,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1706,7 +1711,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "10",
@@ -1802,7 +1807,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "22",
@@ -1866,7 +1871,7 @@
       "Name": "Sound and Fury",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "30",
@@ -1898,7 +1903,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "34",
@@ -2002,7 +2007,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "47",
@@ -2114,7 +2119,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "61",
@@ -2170,28 +2175,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46181,
+      "Progressed": 46182,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9649,
+      "Progressed": 9650,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-15T15:06:28.7690902+00:00",
+  "LastChanged_Achievements": "2023-05-15T16:05:03.5217996+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-15T14:57:57.6614693+00:00",
-  "LastUpdate_Achievements": "2023-05-15T15:06:28.7691685+00:00"
+  "LastUpdate_Ratings": "2023-05-15T15:57:27.1501848+00:00",
+  "LastUpdate_Achievements": "2023-05-15T16:05:03.5218562+00:00"
 }

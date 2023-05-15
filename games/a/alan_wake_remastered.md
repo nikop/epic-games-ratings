@@ -16,11 +16,11 @@ Number of Ratings: 524  (23.09.2022)
 | Back! Back, I Say! | 9.00% | ~4,156 |
 | Finders Keepers | 9.00% | ~4,156 |
 | Paging Mr. Wake | 9.00% | ~4,156 |
-| Wheels Within Wheels | 8.00% | ~3,694 |
-| They're Heeeeeere! | 8.00% | ~3,694 |
-| Sound and Fury | 8.00% | ~3,694 |
-| Missed by a Mile | 8.00% | ~3,694 |
-| Damn Good Cup of Coffee | 8.00% | ~3,694 |
+| Wheels Within Wheels | 8.00% | ~3,695 |
+| They're Heeeeeere! | 8.00% | ~3,695 |
+| Sound and Fury | 8.00% | ~3,695 |
+| Missed by a Mile | 8.00% | ~3,695 |
+| Damn Good Cup of Coffee | 8.00% | ~3,695 |
 | A Friend in Need | 8.00% | ~772 |
 | Heavy Metal | 7.00% | ~3,233 |
 | Iron Horse | 7.00% | ~3,233 |
@@ -45,8 +45,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hardboiled Writer | 3.00% | ~1,385 |
 | If It Flies, It Burns | 3.00% | ~1,385 |
 | KBF-FM | 3.00% | ~1,385 |
-| Kill Your Darlings | 3.00% | ~289 |
-| Heartbreaker | 3.00% | ~289 |
+| Kill Your Darlings | 3.00% | ~290 |
+| Heartbreaker | 3.00% | ~290 |
 | Boob Tube | 2.00% | ~924 |
 | Carny | 2.00% | ~924 |
 | Iron Will | 2.00% | ~193 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,181 (Ranked 75)  
+Progressed: 46,182 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-12 | 46,131 | 44 |
 | 2023-05-13 | 46,152 | 44 |
 | 2023-05-14 | 46,171 | 44 |
-| 2023-05-15 | 46,181 | 44 |
+| 2023-05-15 | 46,182 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

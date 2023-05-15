@@ -22,11 +22,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 0.70% | ~104 |
 | Ancient Battleground | 0.70% | ~104 |
 | Flooded Mines | 0.70% | ~104 |
+| Royal Outpost | 0.70% | ~104 |
 | Cursed Lands | 0.70% | ~104 |
 | Sparkdew Crystals | 0.60% | ~89 |
 | Dangerous Lands | 0.60% | ~89 |
 | Monastery of the Holy Flame | 0.60% | ~89 |
-| Royal Outpost | 0.60% | ~89 |
 | Corrosive Torrent | 0.60% | ~89 |
 | A Real Challenge | 0.60% | ~89 |
 | Serving Ale | 0.50% | ~74 |
@@ -84,9 +84,9 @@ Completed: 30 (0.20%) (Ranked 139)
 | 2023-05-14 | 14,821 | 30 |
 | 2023-05-15 | 14,831 | 30 |
 ## Awards
-Max (Quickly Understood Controls): 417  (Ranked 193)  
+Max (Quickly Understood Controls): 417  (Ranked 194)  
 Sum: 3,022 (Ranked 150)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |

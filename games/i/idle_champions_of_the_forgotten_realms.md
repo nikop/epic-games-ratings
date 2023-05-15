@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.30% | ~263 |
 | Attack on the Manor | 0.30% | ~263 |
 | The Death Curse | 0.30% | ~263 |
+| Nimble Escape | 0.30% | ~263 |
 | Premature Betrayal | 0.30% | ~263 |
 | A Tale of Two Cities | 0.30% | ~263 |
 | The Dead Three | 0.30% | ~263 |
@@ -181,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.20% | ~175 |
 | Flies on the Wall | 0.20% | ~175 |
 | Backtracking Through Barovia | 0.20% | ~175 |
-| Nimble Escape | 0.20% | ~175 |
 | Nimblest Escape | 0.20% | ~175 |
 | Stumbling Escape | 0.20% | ~175 |
 | Distracted Escape | 0.20% | ~108 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,593 (Ranked 59)  
+Progressed: 87,597 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -521,7 +521,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-12 | 87,292 | 1,830 |
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
-| 2023-05-15 | 87,593 | 1,843 |
+| 2023-05-15 | 87,597 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,878  (Ranked 63)  
 Sum: 29,883 (Ranked 37)  

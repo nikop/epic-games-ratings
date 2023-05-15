@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 18,
   "Ranking_Popularity": 239,
-  "Ranking_PopularitySum": 176,
+  "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 271,
@@ -1730,10 +1730,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 2195,
       "NumberOfAwardsMax": 251
+    },
+    {
+      "Time": "2023-05-15T15:58:03.8527037+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 1974,
+      "NumberOfAwardsMax": 251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2195,
+  "NumberOfAwards": 1974,
   "NumberOfAwardsMax": 251,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1821,8 +1827,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-05-15T10:58:14.8321441+00:00",
+  "LastChanged": "2023-05-15T15:58:03.8527036+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:09.9001413+00:00",
-  "LastUpdate_Ratings": "2023-05-15T14:58:44.1055203+00:00",
-  "LastUpdate_Achievements": "2023-05-15T15:04:07.3566511+00:00"
+  "LastUpdate_Ratings": "2023-05-15T15:58:03.8527043+00:00",
+  "LastUpdate_Achievements": "2023-05-15T16:03:07.0930676+00:00"
 }
