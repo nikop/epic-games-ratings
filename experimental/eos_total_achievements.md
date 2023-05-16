@@ -310,6 +310,7 @@
 | [Apotheorasis • Lab of the Blind Gods](../games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 22 | 1,000 |
 | [Battle Ram](../games/b/battle_ram.md) | 22 | 1,000 |
 | [Doodle God](../games/d/doodle_god.md) | 22 | 1,000 |
+| [Feud](../games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 22 | 1,000 |
 | [Hunt the Night](../games/h/hunt_the_night.md) | 22 | 1,000 |
 | [Island Cities](../games/i/island_cities.md) | 22 | 1,000 |
 | [Loretta](../games/l/loretta.md) | 22 | 1,000 |

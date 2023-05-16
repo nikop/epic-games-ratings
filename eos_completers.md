@@ -22,14 +22,14 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
 | 22 | [Scorn](games/s/scorn.md) | 7.05% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
 | 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
-| 30 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
+| 30 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 31 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.55% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
@@ -46,12 +46,12 @@
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 45 | [Lamentum](games/l/lamentum.md) | 2.99% |
 | 46 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 47 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
-| 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
-| 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.87% |
+| 47 | [ZZT!](games/z/zzt!.md) | 2.91% |
+| 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
+| 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
+| 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
+| 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.73% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
 | 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
@@ -72,15 +72,15 @@
 | 70 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
-| 73 | [Them and Us](games/t/them_and_us.md) | 1.41% |
-| 74 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
+| 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
+| 74 | [Them and Us](games/t/them_and_us.md) | 1.39% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 78 | [Trifox](games/t/trifox.md) | 1.28% |
 | 79 | [Chorus](games/c/chorus.md) | 1.27% |
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
-| 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.22% |
+| 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
@@ -259,6 +259,7 @@
 | 199 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 199 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
 | 199 | [Faraday Protocol](games/f/faraday_protocol.md) | 0.00% |
+| 199 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.00% |
 | 199 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
 | 199 | [Flat Heroes](games/f/flat_heroes.md) | 0.00% |
 | 199 | [Football Manager 2022](games/f/football_manager_2022.md) | 0.00% |
@@ -399,4 +400,4 @@
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,617 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,618 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
