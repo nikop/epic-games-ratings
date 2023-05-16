@@ -20,6 +20,7 @@ Rating: 4.17 (Ranked 831)
 | Universal Health Scare | 0.40% | ~244 |
 | First Step Into the Knight | 0.40% | ~244 |
 | Unstoppable Force | 0.40% | ~244 |
+| Loose Ends | 0.40% | ~244 |
 | Whispered Words | 0.40% | ~244 |
 | Lock and Key | 0.40% | ~244 |
 | Bad Apples in Every Orchard | 0.40% | ~244 |
@@ -34,7 +35,6 @@ Rating: 4.17 (Ranked 831)
 | Drone You Out | 0.30% | ~183 |
 | To the Victor Go the Spoils | 0.30% | ~183 |
 | Knighthood | 0.30% | ~183 |
-| Loose Ends | 0.30% | ~183 |
 | Dressed to Impress | 0.20% | ~122 |
 | Fusion Expert | 0.20% | ~122 |
 | Expert Crime Fighter | 0.20% | ~122 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,914 (Ranked 67)  
+Progressed: 60,915 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 91 (0.15%) (Ranked 146)
 | 2023-05-13 | 60,844 | 90 |
 | 2023-05-14 | 60,883 | 91 |
 | 2023-05-15 | 60,902 | 91 |
-| 2023-05-16 | 60,914 | 91 |
+| 2023-05-16 | 60,915 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,213  (Ranked 99)  
 Sum: 3,672 (Ranked 137)  

@@ -4,7 +4,7 @@
   "ProductSlug": "gone-viral-c60635",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-25T07:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:04.9693494+00:00",
   "LastChanged": "2023-03-31T05:58:04.9693495+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:48.7434904+00:00",
-  "LastUpdate_Ratings": "2023-05-16T14:59:04.1776365+00:00",
-  "LastUpdate_Achievements": "2023-05-16T15:04:11.6112954+00:00"
+  "LastUpdate_Ratings": "2023-05-16T15:59:03.4793332+00:00",
+  "LastUpdate_Achievements": "2023-05-16T16:04:11.2652149+00:00"
 }

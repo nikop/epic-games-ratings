@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -480,9 +480,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ETUA_StayDead",
@@ -560,9 +560,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ETUA_Trapped",
@@ -601,8 +601,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-16T15:02:28.1410269+00:00",
+  "LastChanged_Achievements": "2023-05-16T16:02:14.8163733+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-16T14:57:03.4982973+00:00",
-  "LastUpdate_Achievements": "2023-05-16T15:02:28.141058+00:00"
+  "LastUpdate_Ratings": "2023-05-16T15:57:10.9143858+00:00",
+  "LastUpdate_Achievements": "2023-05-16T16:02:14.8164093+00:00"
 }

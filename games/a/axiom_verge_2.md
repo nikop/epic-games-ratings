@@ -1,7 +1,7 @@
 # Axiom Verge 2
 [Store](https://store.epicgames.com/en-US/p/axiom-verge-2)  
 [View Rawdata](../../db/a/axiom_verge_2.json)  
-Rating: 4.57 (Ranked 431)  
+Rating: 4.58 (Ranked 412)  
 Number of Ratings: 40  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -47,3 +47,4 @@ Number of Ratings: 40  (23.09.2022)
 | 2023-03-31 | 4.55 | - | 0 | 0 |
 | 2023-04-23 | 4.56 | - | 0 | 0 |
 | 2023-04-30 | 4.57 | - | 0 | 0 |
+| 2023-05-16 | 4.58 | - | 0 | 0 |

@@ -1118,7 +1118,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60914,
+  "EOS_Progressed": 60915,
   "EOS_Completed": 91,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 2,
@@ -2703,6 +2703,11 @@
       "Time": "2023-05-16T15:06:30.2265024+00:00",
       "NumProgressed": 60914,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-16T16:06:07.6717157+00:00",
+      "NumProgressed": 60915,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3104,9 +3109,9 @@
       "ID": "MYSTERY_01",
       "SetID": "4eo5ebm",
       "Name": "Loose Ends",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 244
     },
     {
       "ID": "MYSTERY_02",
@@ -3201,13 +3206,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60914,
+      "Progressed": 60915,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31194,
+      "Progressed": 31195,
       "Completed": 2638
     }
   ],
@@ -3215,8 +3220,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-16T13:08:25.4018983+00:00",
-  "LastChanged_Achievements": "2023-05-16T15:06:30.2265022+00:00",
+  "LastChanged_Achievements": "2023-05-16T16:06:07.6717153+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:00:04.1666761+00:00",
-  "LastUpdate_Achievements": "2023-05-16T15:06:30.2265534+00:00"
+  "LastUpdate_Ratings": "2023-05-16T15:59:58.5112753+00:00",
+  "LastUpdate_Achievements": "2023-05-16T16:06:07.6717851+00:00"
 }

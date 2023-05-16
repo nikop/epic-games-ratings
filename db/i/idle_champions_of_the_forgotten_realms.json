@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3742,10 +3742,10 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87662,
+  "EOS_Progressed": 87668,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 700,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 703,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -6142,6 +6142,11 @@
       "Time": "2023-05-16T15:06:38.4608697+00:00",
       "NumProgressed": 87662,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T16:06:15.1515965+00:00",
+      "NumProgressed": 87668,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6247,9 +6252,9 @@
       "ID": "objective_completed_1053",
       "SetID": "415jc5c",
       "Name": "Back to Nature",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_1055",
@@ -9007,9 +9012,9 @@
       "ID": "objective_completed_643",
       "SetID": "415jc5c",
       "Name": "Bad Odds in Avernus",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_645",
@@ -10064,21 +10069,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53936,
-      "Completed": 2516
+      "Progressed": 53942,
+      "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87662,
+      "Progressed": 87668,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T09:57:38.7579752+00:00",
-  "LastChanged_Achievements": "2023-05-16T15:06:38.4608689+00:00",
+  "LastChanged_Achievements": "2023-05-16T16:06:15.151596+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T14:58:03.0590436+00:00",
-  "LastUpdate_Achievements": "2023-05-16T15:06:38.4630195+00:00"
+  "LastUpdate_Ratings": "2023-05-16T15:58:06.4558226+00:00",
+  "LastUpdate_Achievements": "2023-05-16T16:06:15.1545954+00:00"
 }

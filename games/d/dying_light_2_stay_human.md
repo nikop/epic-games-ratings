@@ -6,47 +6,47 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,314 |
-| Into the Unknown | 8.00% | ~43,835 |
-| First Shot | 8.00% | ~43,835 |
-| Herzlich Wilkommen! | 7.00% | ~38,356 |
-| Sancho Panza | 7.00% | ~38,356 |
-| Good Night & Good Luck | 7.00% | ~38,356 |
-| Under Pressure | 6.00% | ~32,876 |
-| Flag Burning | 6.00% | ~32,876 |
-| Oh, So This Is How It Works! | 6.00% | ~32,876 |
-| Night Hunter | 6.00% | ~32,876 |
-| On the Trail of the Enemy | 5.00% | ~27,397 |
-| Light in the Darkness | 5.00% | ~27,397 |
-| Get Outta My House! | 5.00% | ~27,397 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,397 |
-| Being All Social | 5.00% | ~27,397 |
-| Debris and Ashes | 4.00% | ~21,918 |
-| We Will Be Heard! | 4.00% | ~21,918 |
-| Known Associate | 4.00% | ~21,918 |
-| Brush with Death | 4.00% | ~21,918 |
-| Going Down | 4.00% | ~21,918 |
-| Family First | 4.00% | ~21,918 |
-| Your World, Your Rules | 4.00% | ~21,918 |
-| Tunnel Entrance | 4.00% | ~21,918 |
-| After the Fall | 4.00% | ~21,918 |
-| Can't Touch This! | 4.00% | ~21,918 |
-| Death From Afar | 4.00% | ~21,918 |
-| Terminal Headache | 3.00% | ~16,438 |
-| Slowpoke! | 3.00% | ~16,438 |
+| You Never Forget Your First... | 9.00% | ~49,317 |
+| Into the Unknown | 8.00% | ~43,837 |
+| First Shot | 8.00% | ~43,837 |
+| Herzlich Wilkommen! | 7.00% | ~38,358 |
+| Sancho Panza | 7.00% | ~38,358 |
+| Good Night & Good Luck | 7.00% | ~38,358 |
+| Under Pressure | 6.00% | ~32,878 |
+| Flag Burning | 6.00% | ~32,878 |
+| Oh, So This Is How It Works! | 6.00% | ~32,878 |
+| Night Hunter | 6.00% | ~32,878 |
+| On the Trail of the Enemy | 5.00% | ~27,398 |
+| Light in the Darkness | 5.00% | ~27,398 |
+| Get Outta My House! | 5.00% | ~27,398 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,398 |
+| Being All Social | 5.00% | ~27,398 |
+| Debris and Ashes | 4.00% | ~21,919 |
+| We Will Be Heard! | 4.00% | ~21,919 |
+| Known Associate | 4.00% | ~21,919 |
+| Brush with Death | 4.00% | ~21,919 |
+| Going Down | 4.00% | ~21,919 |
+| Family First | 4.00% | ~21,919 |
+| Your World, Your Rules | 4.00% | ~21,919 |
+| Tunnel Entrance | 4.00% | ~21,919 |
+| After the Fall | 4.00% | ~21,919 |
+| Can't Touch This! | 4.00% | ~21,919 |
+| Death From Afar | 4.00% | ~21,919 |
+| Terminal Headache | 3.00% | ~16,439 |
+| Slowpoke! | 3.00% | ~16,439 |
 | Tickets, Please! | 2.00% | ~10,959 |
 | Parkour Master | 2.00% | ~10,959 |
 | Combat Master | 2.00% | ~10,959 |
 | You're Going Down! | 2.00% | ~10,959 |
-| Municipal Services | 1.00% | ~5,479 |
-| Tube Map | 1.00% | ~5,479 |
-| Don Quixote | 1.00% | ~5,479 |
-| Can't You Read the Signs? | 1.00% | ~5,479 |
-| Ban Hammer | 1.00% | ~5,479 |
-| Modder | 1.00% | ~5,479 |
-| Ironheart | 1.00% | ~5,479 |
+| Municipal Services | 1.00% | ~5,480 |
+| Tube Map | 1.00% | ~5,480 |
+| Don Quixote | 1.00% | ~5,480 |
+| Can't You Read the Signs? | 1.00% | ~5,480 |
+| Ban Hammer | 1.00% | ~5,480 |
+| Modder | 1.00% | ~5,480 |
+| Ironheart | 1.00% | ~5,480 |
 | Nemesis | 1.00% | ~1,934 |
-| Enter the Hall | 0.90% | ~1,740 |
+| Enter the Hall | 0.90% | ~1,741 |
 | That's Teamwork! | 0.80% | ~4,384 |
 | Fit as a Fiddle | 0.80% | ~4,384 |
 | Night of Terrors | 0.80% | ~1,547 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,938 (Ranked 22)  
+Progressed: 547,965 (Ranked 22)  
 Completed: 47 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,11 +98,11 @@ Completed: 47 (0.01%) (Ranked 191)
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
 | 2023-05-15 | 547,713 | 47 |
-| 2023-05-16 | 547,938 | 47 |
+| 2023-05-16 | 547,965 | 47 |
 ## Awards
 Max (Character Customization): 7,062  (Ranked 44)  
-Sum: 16,398 (Ranked 58)  
-Diff (max vs sum): -14  
+Sum: 15,947 (Ranked 59)  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,062 |

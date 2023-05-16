@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.44,
+  "EOS_Completed_Percentage": 3.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -95,6 +95,11 @@
     {
       "Time": "2023-05-15T21:05:05.3271+00:00",
       "NumProgressed": 436,
+      "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-16T16:05:44.6346647+00:00",
+      "NumProgressed": 437,
       "NumCompleted": 15
     }
   ],
@@ -195,7 +200,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -203,7 +208,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -227,7 +232,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LUCKY_DOG",
@@ -267,7 +272,7 @@
       "Name": "Now you know",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "PERFECT_HEARING",
@@ -307,7 +312,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "SILENT",
@@ -362,7 +367,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 15
     }
   ],
@@ -370,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-16T15:06:04.9811982+00:00",
+  "LastChanged_Achievements": "2023-05-16T16:05:44.6346641+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:37.9013138+00:00",
-  "LastUpdate_Ratings": "2023-05-16T14:58:50.9610538+00:00",
-  "LastUpdate_Achievements": "2023-05-16T15:06:04.9812157+00:00"
+  "LastUpdate_Ratings": "2023-05-16T15:58:51.8499372+00:00",
+  "LastUpdate_Achievements": "2023-05-16T16:05:44.6346904+00:00"
 }

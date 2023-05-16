@@ -44,7 +44,7 @@
 | Tempus Fugit | 5.00% | ~1 |
 | Lone Wolf | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 303)  
+Progressed: 22 (Ranked 304)  
 Completed: 1 (4.55%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |

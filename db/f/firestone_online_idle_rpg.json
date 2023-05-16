@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -1667,6 +1667,11 @@
       "Time": "2023-05-16T15:06:04.504632+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T16:05:44.2062495+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1812,9 +1817,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "enchantingskillx5",
@@ -1862,7 +1867,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "fourleafclover",
@@ -1908,9 +1913,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 239
     },
     {
       "ID": "herewegoagain",
@@ -2004,9 +2009,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 62
     },
     {
       "ID": "minerclicker",
@@ -2100,9 +2105,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 73
     },
     {
       "ID": "scrollmaster",
@@ -2134,7 +2139,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "thealchemist",
@@ -2166,7 +2171,7 @@
       "Name": "The game is on",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "thepowerofawakening",
@@ -2238,7 +2243,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "warmachinesarmy",
@@ -2270,14 +2275,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 1
     }
   ],
@@ -2285,8 +2290,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T15:06:04.5046316+00:00",
+  "LastChanged_Achievements": "2023-05-16T16:05:44.206249+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T14:57:59.5467647+00:00",
-  "LastUpdate_Achievements": "2023-05-16T15:06:04.5047138+00:00"
+  "LastUpdate_Ratings": "2023-05-16T15:58:03.3620751+00:00",
+  "LastUpdate_Achievements": "2023-05-16T16:05:44.206355+00:00"
 }

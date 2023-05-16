@@ -4,7 +4,7 @@
   "ProductSlug": "bramble-the-mountain-king-c0d1c6",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,8 +301,8 @@
   "FirstSeenRating": "2023-04-27T18:59:17.4164012+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00",
   "LastChanged": "2023-04-27T18:59:17.4164014+00:00",
-  "LastChanged_Achievements": "2023-05-16T15:06:11.7589865+00:00",
+  "LastChanged_Achievements": "2023-05-16T16:05:50.55626+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:14.1460623+00:00",
-  "LastUpdate_Ratings": "2023-05-16T14:59:34.5112672+00:00",
-  "LastUpdate_Achievements": "2023-05-16T15:06:11.7590041+00:00"
+  "LastUpdate_Ratings": "2023-05-16T15:59:32.4109406+00:00",
+  "LastUpdate_Achievements": "2023-05-16T16:05:50.5562993+00:00"
 }

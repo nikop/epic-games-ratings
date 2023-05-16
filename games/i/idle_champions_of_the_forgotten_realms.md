@@ -70,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.30% | ~263 |
 | Flying Monkey Skulls of Doom | 0.30% | ~263 |
 | The Darkness Runs Deeper | 0.30% | ~263 |
+| Bad Odds in Avernus | 0.30% | ~162 |
 | An Even Worse Time in Avernus | 0.30% | ~162 |
 | The Everlasting Rime | 0.30% | ~162 |
 | Close Escort | 0.30% | ~263 |
@@ -84,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.20% | ~175 |
 | Nightmare Rats! | 0.20% | ~108 |
 | An Unexpected Geist | 0.20% | ~108 |
+| Back to Nature | 0.20% | ~108 |
 | The Witchlight Carnival | 0.20% | ~108 |
 | A Monarch Among Us | 0.20% | ~108 |
 | A Dragon Against Us | 0.20% | ~108 |
@@ -245,7 +247,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.20% | ~108 |
 | Look Out! | 0.20% | ~108 |
 | The Path of Dreams | 0.20% | ~108 |
-| Bad Odds in Avernus | 0.20% | ~108 |
 | The Lost Hollyphant | 0.20% | ~108 |
 | Alterdeep | 0.20% | ~108 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~108 |
@@ -309,7 +310,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~54 |
 | Friends and Foes | 0.10% | ~54 |
 | And Your Enemies Closer | 0.10% | ~54 |
-| Back to Nature | 0.10% | ~54 |
 | Always Watching | 0.10% | ~54 |
 | Icequake | 0.10% | ~54 |
 | A Lesson in Classes | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,662 (Ranked 59)  
+Progressed: 87,668 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,662 | 1,843 |
+| 2023-05-16 | 87,668 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,895 (Ranked 37)  

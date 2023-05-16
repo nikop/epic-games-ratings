@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7638,
+  "EOS_Progressed": 7639,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1479,6 +1479,11 @@
       "Time": "2023-05-16T12:05:31.7036858+00:00",
       "NumProgressed": 7638,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-16T16:06:08.6239594+00:00",
+      "NumProgressed": 7639,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1490,7 +1495,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "ACH02",
@@ -1538,7 +1543,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ACH08",
@@ -1546,7 +1551,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "ACH09",
@@ -1594,7 +1599,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH15",
@@ -1769,7 +1774,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7638,
+      "Progressed": 7639,
       "Completed": 16
     }
   ],
@@ -1777,8 +1782,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-16T15:06:31.271808+00:00",
+  "LastChanged_Achievements": "2023-05-16T16:06:08.6239591+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:00:38.7523997+00:00",
-  "LastUpdate_Achievements": "2023-05-16T15:06:31.2718341+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:00:32.6244601+00:00",
+  "LastUpdate_Achievements": "2023-05-16T16:06:08.6239944+00:00"
 }

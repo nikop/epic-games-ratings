@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 825)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,564 (Ranked 101)  
+Progressed: 12,565 (Ranked 101)  
 Completed: 49 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 49 (0.39%) (Ranked 112)
 | 2023-05-12 | 12,558 | 47 |
 | 2023-05-13 | 12,562 | 47 |
 | 2023-05-14 | 12,564 | 48 |
-| 2023-05-16 | 12,564 | 49 |
+| 2023-05-16 | 12,565 | 49 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 245 (Ranked 342)  
