@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Bus Driver Simulator](games/d/d696915035d84092a02a646f25530ccd.md) | 2023-05-16 | 2019-12-04 |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-16 | 2023-05-16 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |

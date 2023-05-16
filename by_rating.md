@@ -148,7 +148,7 @@
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 596 | 167 |
 | 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,537 | 49 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
-| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 31,176 | 14 |
+| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 31,232 | 14 |
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 492 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 492 |
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 755 | 148 |
@@ -277,7 +277,7 @@
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 263 |
 | 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 492 |
 | 273 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,286 | 120 |
-| 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 513 | 182 |
+| 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 515 | 182 |
 | 273 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 492 |
 | 273 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 492 |
 | 273 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 492 |
@@ -516,7 +516,7 @@
 | 501 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 492 |
 | 515 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,569 | 112 |
 | 515 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 334 |
-| 515 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,086 | 71 |
+| 515 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,087 | 71 |
 | 515 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 480 |
 | 515 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 73 | 357 |
 | 515 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 86 | 340 |
@@ -644,7 +644,7 @@
 | 642 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 379 |
 | 642 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
 | 642 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 184 | 264 |
-| 642 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,926 | 28 |
+| 642 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,929 | 28 |
 | 642 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 0 | 492 |
 | 642 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 492 |
 | 642 | [MORDHAU](games/m/mordhau.md) | 4.42 | 123 | 300 |
@@ -911,9 +911,9 @@
 | 908 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 369 |
 | 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,028 | 133 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 492 |
-| 912 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 492 |
-| 912 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 492 |
-| 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 51 | 384 |
+| 912 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 51 | 384 |
+| 913 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 492 |
+| 913 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 492 |
 | 915 | [Poker Club](games/p/poker_club.md) | 3.74 | 0 | 492 |
 | 916 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 492 |
 | 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.64 | 0 | 492 |

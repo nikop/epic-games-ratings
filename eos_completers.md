@@ -13,7 +13,7 @@
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 13 | [Remains](games/r/remains.md) | 10.00% |
-| 13 | [Smelter](games/s/smelter.md) | 10.00% |
+| 14 | [Smelter](games/s/smelter.md) | 9.68% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
@@ -22,7 +22,7 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.15% |
 | 22 | [Scorn](games/s/scorn.md) | 7.05% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -107,7 +107,7 @@
 | 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
+| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 111 | [Potion Permit](games/p/potion_permit.md) | 0.40% |

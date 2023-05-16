@@ -13,7 +13,7 @@
 | 11 | [VALORANT](games/v/valorant.md) | 52,594 | 4.54 | 477 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,826 | 4.50 | 531 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 32,829 | 4.59 | 397 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 31,176 | 4.74 | 140 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 31,232 | 4.74 | 140 |
 | 15 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,458 | 4.65 | 291 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,341 | 4.52 | 501 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,825 | 4.53 | 490 |
@@ -27,7 +27,7 @@
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,274 | 4.60 | 379 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 13,173 | 4.21 | 802 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,380 | 4.36 | 706 |
-| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,926 | 4.42 | 642 |
+| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,929 | 4.42 | 642 |
 | 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,797 | 4.60 | 379 |
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,656 | 4.39 | 683 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,364 | 4.87 | 24 |
@@ -70,7 +70,7 @@
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,455 | 4.65 | 291 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,276 | 4.70 | 192 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,210 | 4.70 | 192 |
-| 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,086 | 4.51 | 515 |
+| 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,087 | 4.51 | 515 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,069 | 4.61 | 354 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,985 | 4.88 | 18 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,977 | 4.77 | 104 |
@@ -181,7 +181,7 @@
 | 179 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 531 | 4.79 | 90 |
 | 180 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 530 | 4.74 | 140 |
 | 181 | [Star Trek Online](games/s/star_trek_online.md) | 528 | 4.45 | 603 |
-| 182 | [FAR CRY 4](games/f/far_cry_4.md) | 513 | 4.66 | 273 |
+| 182 | [FAR CRY 4](games/f/far_cry_4.md) | 515 | 4.66 | 273 |
 | 183 | [Godfall Ultimate Edition](games/g/godfall.md) | 506 | 4.07 | 868 |
 | 184 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 504 | 4.52 | 501 |
 | 185 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 498 | 4.82 | 59 |
@@ -386,7 +386,7 @@
 | 384 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.83 | 55 |
 | 384 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 51 | 4.35 | 716 |
 | 384 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 51 | 4.66 | 273 |
-| 384 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 51 | 3.75 | 912 |
+| 384 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 51 | 3.76 | 912 |
 | 388 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 818 |
 | 388 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.56 | 448 |
 | 388 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 192 |

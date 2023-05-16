@@ -256,7 +256,7 @@
 | [Binary Smoke](games/b/binary_smoke.md) | - | - | - | - |
 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 735 | 115 | 308 |
 | [Bionic Bay](games/b/bionic_bay.md) | - | - | - | - |
-| [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 515 | 4,086 | 71 |
+| [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 515 | 4,087 | 71 |
 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 192 | 4,526 | 67 |
 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 311 | 5,926 | 54 |
 | [BioShock: The Collection](games/b/bioshock__the_collection.md) | - | - | - | - |
@@ -442,7 +442,7 @@
 | [Core](games/c/core.md) | 4.37 | 700 | 730 | 152 |
 | [Coromon](games/c/coromon.md) | 4.65 | 291 | 40 | 411 |
 | [Corpse Keeper](games/c/corpse_keeper.md) | - | - | - | - |
-| [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 912 | 0 | 492 |
+| [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 913 | 0 | 492 |
 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | - | - | - | - |
 | [Cosmic Express](games/c/cosmic_express.md) | - | - | 0 | - |
 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 490 | 0 | 492 |
@@ -748,7 +748,7 @@
 | [Far Cry](games/f/far_cry.md) | 4.50 | 531 | 0 | 492 |
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 779 | 0 | 492 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 354 | 0 | 492 |
-| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 273 | 513 | 182 |
+| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 273 | 515 | 182 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 338 | 1,231 | 121 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 603 | 699 | 154 |
 | [Far Cry New Dawn - Complete](games/f/far_cry_new_dawn_-_complete.md) | - | - | - | - |
@@ -1125,7 +1125,7 @@
 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 70 | 0 | 492 |
 | [Kill Fish](games/k/kill_fish.md) | - | - | - | - |
 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.50 | 531 | 0 | 492 |
-| [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 642 | 11,926 | 28 |
+| [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 642 | 11,929 | 28 |
 | [Kine](games/k/kine.md) | - | - | 0 | - |
 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 256 | 0 | 492 |
 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 831 | 0 | 492 |
@@ -1215,8 +1215,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 725 | 0 | 492 |
 | [Little Inferno](games/l/little_inferno.md) | 4.62 | 338 | 0 | 492 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1475,7 +1475,7 @@
 | [Orwell: Ignorance is Strength](games/o/orwell__ignorance_is_strength.md) | - | - | 0 | - |
 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | - | - | 0 | - |
 | [Orwell's Animal Farm](games/o/orwell's_animal_farm.md) | - | - | 0 | - |
-| [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 912 | 0 | 492 |
+| [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 913 | 0 | 492 |
 | [Othercide](games/o/othercide.md) | 4.41 | 655 | 0 | 492 |
 | [Out of Bounds](games/o/out_of_bounds.md) | - | - | - | - |
 | [Out of Line](games/o/out_of_line.md) | - | - | 0 | - |
@@ -1832,7 +1832,7 @@
 | [Showgunners](games/s/showgunners.md) | - | - | 0 | - |
 | [Showmaker](games/s/showmaker.md) | - | - | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | - | - | - | - |
-| [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 140 | 31,176 | 14 |
+| [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 140 | 31,232 | 14 |
 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 873 | 0 | 492 |
 | [Sifu](games/s/sifu.md) | 4.82 | 59 | 6,068 | 53 |
 | [Silence](games/s/silence.md) | - | - | 0 | - |
@@ -2215,7 +2215,7 @@
 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 192 | 0 | 492 |
 | [The Riflemen](games/t/the_riflemen.md) | - | - | - | - |
 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 128 | 37 | 418 |
-| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 912 | 51 | 384 |
+| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 912 | 51 | 384 |
 | [The Shape of Things](games/6/610757afe5b8478f89000d9779c205ef.md) | - | - | - | - |
 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | - | - | 0 | - |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | - | - | - | - |
@@ -2332,8 +2332,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 603 | 0 | 492 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | 0 | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | 0 | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 256 | 0 | 492 |

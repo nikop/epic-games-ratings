@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Bus Driver Simulator](games/d/d696915035d84092a02a646f25530ccd.md) | 2023-05-16 | 2019-12-04 |
 | [Tin Hearts](games/5/5d1128dd0a214b64ad9356749b140e3d.md) | 2023-05-16 | 2023-05-16 |
 | [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
 | [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-15 | 2023-05-15 |
