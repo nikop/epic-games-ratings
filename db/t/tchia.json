@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -142,7 +142,7 @@
   "Tags": [],
   "EOS_Progressed": 5744,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1603,9 +1603,9 @@
       "ID": "FASHION_VICTIM",
       "SetID": "3cck1g6",
       "Name": "Fashion Victim",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 115
+      "UsersEstimate": 172
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -1716,8 +1716,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-16T21:05:34.7612344+00:00",
+  "LastChanged_Achievements": "2023-05-16T22:04:54.7528559+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-16T20:57:55.5731166+00:00",
-  "LastUpdate_Achievements": "2023-05-16T21:05:34.7612623+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:57:53.9418565+00:00",
+  "LastUpdate_Achievements": "2023-05-16T22:04:54.7528778+00:00"
 }

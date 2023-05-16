@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 895,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 219,
+  "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1482,9 +1482,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60306,
+  "EOS_Progressed": 60307,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3952,6 +3952,11 @@
       "Time": "2023-05-16T21:06:14.0873091+00:00",
       "NumProgressed": 60306,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-16T22:05:28.5436705+00:00",
+      "NumProgressed": 60307,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -3963,7 +3968,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30153
+      "UsersEstimate": 30154
     },
     {
       "ID": "ACH_0011",
@@ -4043,7 +4048,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4824
+      "UsersEstimate": 4825
     },
     {
       "ID": "ACH_0050",
@@ -4075,7 +4080,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4824
+      "UsersEstimate": 4825
     },
     {
       "ID": "ACH_0101",
@@ -4107,7 +4112,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39199
+      "UsersEstimate": 39200
     },
     {
       "ID": "ACH_0210",
@@ -4115,7 +4120,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 44023
+      "UsersEstimate": 44024
     },
     {
       "ID": "ACH_0211",
@@ -4155,7 +4160,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4824
+      "UsersEstimate": 4825
     },
     {
       "ID": "ACH_0340",
@@ -4258,7 +4263,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60306,
+      "Progressed": 60307,
       "Completed": 30
     }
   ],
@@ -4266,8 +4271,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-16T15:00:18.5824124+00:00",
-  "LastChanged_Achievements": "2023-05-16T21:06:14.0873085+00:00",
+  "LastChanged_Achievements": "2023-05-16T22:05:28.5436701+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-16T21:00:08.6920923+00:00",
-  "LastUpdate_Achievements": "2023-05-16T21:06:14.0873552+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:59:35.2305822+00:00",
+  "LastUpdate_Achievements": "2023-05-16T22:05:28.543716+00:00"
 }

@@ -1,7 +1,7 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.73 (Ranked 155)  
+Rating: 4.73 (Ranked 154)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | À la carte | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,122 (Ranked 159)  
-Completed: 8 (0.71%) (Ranked 99)  
+Completed: 8 (0.71%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

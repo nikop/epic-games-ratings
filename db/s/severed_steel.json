@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -200,10 +200,10 @@
       "Count": 169
     }
   ],
-  "EOS_Progressed": 404551,
+  "EOS_Progressed": 404558,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 2479,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 2480,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
@@ -2710,6 +2710,11 @@
       "Time": "2023-05-16T21:06:06.7134469+00:00",
       "NumProgressed": 404551,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-16T22:05:22.211115+00:00",
+      "NumProgressed": 404558,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 52,
@@ -2745,7 +2750,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40455
+      "UsersEstimate": 40456
     },
     {
       "ID": "BIGUPS",
@@ -3097,7 +3102,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 32364
+      "UsersEstimate": 32365
     },
     {
       "ID": "SOUL",
@@ -3136,7 +3141,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 404551,
+      "Progressed": 404558,
       "Completed": 30
     }
   ],
@@ -3144,8 +3149,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-12T15:59:24.3766691+00:00",
-  "LastChanged_Achievements": "2023-05-16T21:06:06.7134465+00:00",
+  "LastChanged_Achievements": "2023-05-16T22:05:22.211114+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:24.3121528+00:00",
-  "LastUpdate_Ratings": "2023-05-16T20:59:39.1026966+00:00",
-  "LastUpdate_Achievements": "2023-05-16T21:06:06.7135119+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:59:12.6893426+00:00",
+  "LastUpdate_Achievements": "2023-05-16T22:05:22.2111737+00:00"
 }

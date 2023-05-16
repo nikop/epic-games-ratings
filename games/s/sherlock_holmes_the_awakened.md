@@ -11,14 +11,14 @@
 | Fond Memories | 58.00% | ~87 |
 | History Check | 57.00% | ~85 |
 | A Method To His Madness | 57.00% | ~85 |
-| The New World | 55.00% | ~82 |
+| The New World | 56.00% | ~84 |
 | Open Sesame | 53.00% | ~80 |
 | Sticky Fingers | 53.00% | ~80 |
 | Knives Out | 53.00% | ~80 |
 | Lock, Stock, And Barrel | 52.00% | ~78 |
 | Gaze Into The Abyss | 52.00% | ~78 |
+| Back In The Saddle | 52.00% | ~78 |
 | Land, Ho! | 52.00% | ~78 |
-| Back In The Saddle | 51.00% | ~76 |
 | No Man Is An Island | 50.00% | ~75 |
 | At Wits' End | 48.00% | ~72 |
 | Bookworm | 45.00% | ~68 |

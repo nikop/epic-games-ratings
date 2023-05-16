@@ -21,8 +21,8 @@ Rating: 4.77 (Ranked 103)
 | Liberator | 4.00% | ~230 |
 | Live Wire | 4.00% | ~230 |
 | Fashion Faux-Pas | 3.00% | ~172 |
+| Fashion Victim | 3.00% | ~172 |
 | Arrr! | 2.00% | ~115 |
-| Fashion Victim | 2.00% | ~115 |
 | Snip Snip | 2.00% | ~115 |
 | Ça de Wizz! | 1.00% | ~57 |
 | Thing | 1.00% | ~57 |

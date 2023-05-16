@@ -1,35 +1,35 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 579)  
+Rating: 4.47 (Ranked 580)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,623 |
-| Now You're Talking | 62.00% | ~320,294 |
-| Steel Yourself | 62.00% | ~320,294 |
-| Window Dressing | 50.00% | ~258,302 |
-| Trigger Happy | 46.00% | ~237,638 |
-| Riverborn | 45.00% | ~232,472 |
-| Starry Eyed | 34.00% | ~175,645 |
-| Poking Around | 34.00% | ~175,645 |
-| Talk of the Town | 24.00% | ~123,985 |
-| AAARR! | 23.00% | ~118,819 |
-| Hello Darkness | 23.00% | ~118,819 |
-| Wind At Our Backs | 22.00% | ~113,653 |
+| First Step | 70.00% | ~361,625 |
+| Now You're Talking | 62.00% | ~320,296 |
+| Steel Yourself | 62.00% | ~320,296 |
+| Window Dressing | 50.00% | ~258,304 |
+| Trigger Happy | 46.00% | ~237,639 |
+| Riverborn | 45.00% | ~232,473 |
+| Starry Eyed | 34.00% | ~175,646 |
+| Poking Around | 34.00% | ~175,646 |
+| Talk of the Town | 24.00% | ~123,986 |
+| AAARR! | 23.00% | ~118,820 |
+| Hello Darkness | 23.00% | ~118,820 |
+| Wind At Our Backs | 22.00% | ~113,654 |
 | To the Beat | 20.00% | ~103,321 |
 | Sunny Shores | 17.00% | ~87,823 |
 | To Victory! | 15.00% | ~77,491 |
 | Sunday Best | 15.00% | ~77,491 |
 | Two of a Kind | 14.00% | ~72,325 |
 | Keep On Trucking | 13.00% | ~67,159 |
-| Going on an Adventure | 11.00% | ~56,826 |
-| Make Peace, Not War | 11.00% | ~56,826 |
-| Walking The Line | 10.00% | ~51,660 |
-| Not So Cute Anymore | 10.00% | ~51,660 |
-| Road Less Travelled | 9.00% | ~46,494 |
-| Lost and Found | 9.00% | ~46,494 |
+| Going on an Adventure | 11.00% | ~56,827 |
+| Make Peace, Not War | 11.00% | ~56,827 |
+| Walking The Line | 10.00% | ~51,661 |
+| Not So Cute Anymore | 10.00% | ~51,661 |
+| Road Less Travelled | 9.00% | ~46,495 |
+| Lost and Found | 9.00% | ~46,495 |
 | Partner in Crime | 7.00% | ~36,162 |
 | Hard to Hear | 7.00% | ~36,162 |
 | Under the Radar | 7.00% | ~36,162 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,550 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,604 (Ranked 24)  
+Progressed: 516,607 (Ranked 24)  
 Completed: 405 (0.08%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 405 (0.08%) (Ranked 164)
 | 2023-05-13 | 516,361 | 405 |
 | 2023-05-14 | 516,471 | 405 |
 | 2023-05-15 | 516,543 | 405 |
-| 2023-05-16 | 516,604 | 405 |
+| 2023-05-16 | 516,607 | 405 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

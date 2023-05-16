@@ -8,6 +8,7 @@ Rating: 4.18 (Ranked 825)
 | Instigator | 0.30% | ~1 |
 | Big Game Hunter | 0.30% | ~1 |
 | Bear Trap | 0.30% | ~1 |
+| Hoard Mode | 0.20% | ~1 |
 | Big Spender | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~0 |
@@ -42,7 +43,6 @@ Rating: 4.18 (Ranked 825)
 | Crash Site | 0.10% | ~13 |
 | Full Circle | 0.10% | ~13 |
 | Power Up | 0.10% | ~13 |
-| Hoard Mode | 0.10% | ~0 |
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

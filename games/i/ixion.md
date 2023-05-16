@@ -19,8 +19,8 @@ Rating: 4.55 (Ranked 465)
 | Ain't Nobody Got Time for That | 1.00% | ~19 |
 | The Ship of Theseus | 1.00% | ~19 |
 | Hope Seeker | 1.00% | ~19 |
+| Exceeding Capacity | 0.80% | ~15 |
 | A Hunk of Junk | 0.70% | ~13 |
-| Exceeding Capacity | 0.70% | ~13 |
 | Power Outage | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
 | Access Granted | 0.60% | ~11 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -398,17 +398,17 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHV_INTEGRATION",
       "SetID": "cceobco",
       "Name": "Integration",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHV_NANONIC1",
@@ -535,8 +535,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-16T21:06:02.6724951+00:00",
+  "LastChanged_Achievements": "2023-05-16T22:05:18.7884289+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:34.7775367+00:00",
-  "LastUpdate_Ratings": "2023-05-16T20:59:48.4475149+00:00",
-  "LastUpdate_Achievements": "2023-05-16T21:06:02.6725194+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:59:20.4402574+00:00",
+  "LastUpdate_Achievements": "2023-05-16T22:05:18.7884522+00:00"
 }

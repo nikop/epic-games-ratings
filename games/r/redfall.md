@@ -5,27 +5,27 @@ Rating: 3.48 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 81.00% | ~1,261 |
-| Home Is Where the Heart Is | 63.00% | ~981 |
-| Wounded Whispers | 63.00% | ~981 |
-| Ne Plus Ultra | 62.00% | ~965 |
-| Blood Will Have Blood | 51.00% | ~794 |
+| I Like My Stakes Rare! | 81.00% | ~1,262 |
+| Home Is Where the Heart Is | 63.00% | ~982 |
+| Wounded Whispers | 63.00% | ~982 |
+| Ne Plus Ultra | 62.00% | ~966 |
+| Blood Will Have Blood | 51.00% | ~795 |
 | ICU | 47.00% | ~732 |
-| Catch and Release | 46.00% | ~716 |
+| Catch and Release | 46.00% | ~717 |
 | Peek-a-boo | 45.00% | ~701 |
-| Sucks To Be You | 44.00% | ~685 |
-| Welcome to the Neighborhood | 39.00% | ~607 |
+| Sucks To Be You | 44.00% | ~686 |
+| Welcome to the Neighborhood | 39.00% | ~608 |
 | Fly Fisher | 36.00% | ~561 |
-| Throw The First Stone | 36.00% | ~561 |
+| Throw The First Stone | 35.00% | ~545 |
 | Enter of Your Own Free Will | 33.00% | ~514 |
 | Heart Attack | 33.00% | ~514 |
 | Skin of Their Teeth | 33.00% | ~514 |
 | Grounded | 24.00% | ~374 |
 | Bad Wiring | 22.00% | ~343 |
-| I Spit On Your Grave | 20.00% | ~311 |
+| I Spit On Your Grave | 20.00% | ~312 |
 | Neighborhood Revitalization | 16.00% | ~249 |
 | Radio Silence | 16.00% | ~249 |
-| Helping Hand | 13.00% | ~202 |
+| Helping Hand | 13.00% | ~203 |
 | You Clean It Up | 11.00% | ~171 |
 | Starve the Beast | 9.00% | ~140 |
 | Block Party | 8.00% | ~125 |
@@ -72,7 +72,7 @@ Rating: 3.48 (Ranked 918)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,557 (Ranked 149)  
+Progressed: 1,558 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 1,526 | 0 |
 | 2023-05-14 | 1,539 | 0 |
 | 2023-05-15 | 1,551 | 0 |
-| 2023-05-16 | 1,557 | 0 |
+| 2023-05-16 | 1,558 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

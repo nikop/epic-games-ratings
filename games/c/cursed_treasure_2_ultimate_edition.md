@@ -8,11 +8,11 @@
 | On the Crest of a Wave | 95.00% | ~144 |
 | Foreman of Darkness | 95.00% | ~144 |
 | Brilliant Day | 93.00% | ~141 |
-| Evil Genius | 86.00% | ~131 |
+| Evil Genius | 87.00% | ~132 |
 | Air Defense | 84.00% | ~128 |
 | Tinned Corpse | 83.00% | ~126 |
-| Your War is Over | 80.00% | ~122 |
-| The Starry Night | 74.00% | ~112 |
+| Your War is Over | 81.00% | ~123 |
+| The Starry Night | 75.00% | ~114 |
 | Go Home! | 73.00% | ~111 |
 | Look After the Pence... | 72.00% | ~109 |
 | Sergeant of the Evil | 72.00% | ~109 |
@@ -31,7 +31,7 @@
 | Combo Breaker | 59.00% | ~90 |
 | Brilliant: Holy Mountain | 58.00% | ~88 |
 | Clean Forests | 57.00% | ~87 |
-| Starry: Meadowshire | 54.00% | ~82 |
+| Starry: Meadowshire | 55.00% | ~84 |
 | Lieutenant of the Evil | 53.00% | ~81 |
 | Avada Kedavra | 51.00% | ~78 |
 | Starry: Holy Mountain | 51.00% | ~78 |

@@ -4,46 +4,46 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 71.00% | ~12 |
-| Hello World | 65.00% | ~11 |
-| I Think, Therefore I Am | 65.00% | ~11 |
-| The Real Beginning | 65.00% | ~11 |
-| The Birds and the Bees | 59.00% | ~10 |
-| Shook Up | 47.00% | ~8 |
-| Vaccinated | 47.00% | ~8 |
-| A Light in the Dark | 41.00% | ~7 |
-| Busybody | 41.00% | ~7 |
-| Socially Acceptable Insanity | 41.00% | ~7 |
-| Task Master | 41.00% | ~7 |
-| Warning: Fragile | 41.00% | ~7 |
-| An Acquired Taste | 35.00% | ~6 |
-| The Guardian | 35.00% | ~6 |
-| Endgame | 35.00% | ~6 |
-| Everyone Needs a Break | 35.00% | ~6 |
-| The Philosopher | 35.00% | ~6 |
-| The Partner | 35.00% | ~6 |
-| The Companion | 35.00% | ~6 |
-| The Counsellor | 35.00% | ~6 |
-| A Real Headache | 29.00% | ~5 |
-| Blood Begets Blood | 29.00% | ~5 |
-| Job Creator | 29.00% | ~5 |
-| A Little Eccentric | 24.00% | ~4 |
-| A Total Riot | 24.00% | ~4 |
-| Full Coverage | 24.00% | ~4 |
-| Knock Knock | 24.00% | ~4 |
-| Quidnunc | 24.00% | ~4 |
-| Social Butterfly | 24.00% | ~4 |
-| That One Doesn't Count | 24.00% | ~4 |
-| They Flock to Him | 24.00% | ~4 |
-| Zonk! | 24.00% | ~4 |
-| Leave It to the Professionals | 18.00% | ~3 |
-| Obligatory Fraudulent Baking | 18.00% | ~3 |
-| Ring of Fire | 18.00% | ~3 |
-| The Provocateur | 18.00% | ~3 |
-| Overseer | 12.00% | ~2 |
-| Tastes Like Regret | 12.00% | ~2 |
-| The Spice of Life | 12.00% | ~2 |
-| Wilful Ignorance | 12.00% | ~2 |
+| First Day of the Rest of Your Life | 67.00% | ~12 |
+| Hello World | 61.00% | ~11 |
+| I Think, Therefore I Am | 61.00% | ~11 |
+| The Real Beginning | 61.00% | ~11 |
+| The Birds and the Bees | 56.00% | ~10 |
+| Shook Up | 44.00% | ~8 |
+| Vaccinated | 44.00% | ~8 |
+| A Light in the Dark | 39.00% | ~7 |
+| Busybody | 39.00% | ~7 |
+| Socially Acceptable Insanity | 39.00% | ~7 |
+| Task Master | 39.00% | ~7 |
+| Warning: Fragile | 39.00% | ~7 |
+| An Acquired Taste | 33.00% | ~6 |
+| The Guardian | 33.00% | ~6 |
+| Endgame | 33.00% | ~6 |
+| Everyone Needs a Break | 33.00% | ~6 |
+| The Philosopher | 33.00% | ~6 |
+| The Partner | 33.00% | ~6 |
+| The Companion | 33.00% | ~6 |
+| The Counsellor | 33.00% | ~6 |
+| A Real Headache | 28.00% | ~5 |
+| Blood Begets Blood | 28.00% | ~5 |
+| Job Creator | 28.00% | ~5 |
+| A Little Eccentric | 22.00% | ~4 |
+| A Total Riot | 22.00% | ~4 |
+| Full Coverage | 22.00% | ~4 |
+| Knock Knock | 22.00% | ~4 |
+| Quidnunc | 22.00% | ~4 |
+| Social Butterfly | 22.00% | ~4 |
+| That One Doesn't Count | 22.00% | ~4 |
+| They Flock to Him | 22.00% | ~4 |
+| Zonk! | 22.00% | ~4 |
+| Leave It to the Professionals | 17.00% | ~3 |
+| Obligatory Fraudulent Baking | 17.00% | ~3 |
+| Ring of Fire | 17.00% | ~3 |
+| The Provocateur | 17.00% | ~3 |
+| Overseer | 11.00% | ~2 |
+| Tastes Like Regret | 11.00% | ~2 |
+| The Spice of Life | 11.00% | ~2 |
+| Wilful Ignorance | 11.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
 | Double Agent | 6.00% | ~1 |
 | The Mentor | 6.00% | ~1 |
@@ -53,7 +53,7 @@
 | The Surrogate | 0.00% | ~0 |
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 309)  
+Progressed: 18 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-06 | 12 | 0 |
 | 2023-05-07 | 16 | 0 |
 | 2023-05-15 | 17 | 0 |
+| 2023-05-16 | 18 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

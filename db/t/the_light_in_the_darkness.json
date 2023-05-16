@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1290,
-  "EOS_Completed": 100,
+  "EOS_Completed": 101,
   "EOS_NewPlayers": 97,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 7.75,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 7.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1173,6 +1173,11 @@
       "Time": "2023-05-16T21:06:00.1008859+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-05-16T22:05:16.715282+00:00",
+      "NumProgressed": 1290,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 12,
@@ -1182,9 +1187,9 @@
       "ID": "Arranging Boxes",
       "SetID": "b40dflc",
       "Name": "Arranging Boxes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 168
+      "UsersEstimate": 181
     },
     {
       "ID": "Bernard",
@@ -1280,15 +1285,15 @@
       "ID": "b40dflc",
       "IsBase": true,
       "Progressed": 1290,
-      "Completed": 100
+      "Completed": 101
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-16T21:06:00.1008852+00:00",
+  "LastChanged_Achievements": "2023-05-16T22:05:16.715281+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-16T20:59:44.4241515+00:00",
-  "LastUpdate_Achievements": "2023-05-16T21:06:00.1009046+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:59:16.9678344+00:00",
+  "LastUpdate_Achievements": "2023-05-16T22:05:16.7153009+00:00"
 }

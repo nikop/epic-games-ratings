@@ -5,19 +5,19 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,042 |
-| The One Who Mastered Memories | 6.00% | ~16,042 |
-| The Hallowed Hero | 6.00% | ~16,042 |
-| The Hero of Hogwarts | 6.00% | ~16,042 |
-| The Sort Who Makes an Entrance | 5.00% | ~13,368 |
-| The Defender of Dragons | 5.00% | ~13,368 |
-| A Sallow Grave | 5.00% | ~13,368 |
-| Challenge Accepted | 5.00% | ~13,368 |
-| Loom for Improvement | 5.00% | ~13,368 |
-| Coasting Along | 5.00% | ~13,368 |
-| Troll with the Punches | 5.00% | ~13,368 |
-| That's a Keeper | 5.00% | ~13,368 |
-| Rising From the Ashes | 5.00% | ~13,368 |
+| Grappling with a Graphorn | 6.00% | ~16,043 |
+| The One Who Mastered Memories | 6.00% | ~16,043 |
+| The Hallowed Hero | 6.00% | ~16,043 |
+| The Hero of Hogwarts | 6.00% | ~16,043 |
+| Coasting Along | 6.00% | ~16,043 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,369 |
+| The Defender of Dragons | 5.00% | ~13,369 |
+| A Sallow Grave | 5.00% | ~13,369 |
+| Challenge Accepted | 5.00% | ~13,369 |
+| Loom for Improvement | 5.00% | ~13,369 |
+| Troll with the Punches | 5.00% | ~13,369 |
+| That's a Keeper | 5.00% | ~13,369 |
+| Rising From the Ashes | 5.00% | ~13,369 |
 | The Avenging Gazelle | 4.00% | ~10,695 |
 | Beast Friends | 4.00% | ~10,695 |
 | Flight the Good Flight | 4.00% | ~10,695 |
@@ -32,11 +32,11 @@ Rating: 4.77 (Ranked 103)
 | Room with a View | 3.00% | ~8,021 |
 | The Ends Petrify the Means | 3.00% | ~8,021 |
 | Raising Expectations | 3.00% | ~8,021 |
-| The Toast of the Town | 2.00% | ~5,347 |
-| Going Through the Potions | 2.00% | ~5,347 |
-| Floo Around the World | 2.00% | ~5,347 |
-| The Intrepid Explorer | 2.00% | ~5,347 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,347 |
+| The Toast of the Town | 2.00% | ~5,348 |
+| Going Through the Potions | 2.00% | ~5,348 |
+| Floo Around the World | 2.00% | ~5,348 |
+| The Intrepid Explorer | 2.00% | ~5,348 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,348 |
 | The Good Samaritan | 1.00% | ~2,674 |
 | Put Down Roots | 1.00% | ~2,674 |
 | The Auror's Apprentice | 1.00% | ~2,674 |
@@ -48,10 +48,10 @@ Rating: 4.77 (Ranked 103)
 | Savvy Spender | 0.70% | ~1,872 |
 | Merlin's Beard! | 0.60% | ~1,604 |
 | Spilled Milk | 0.50% | ~1,337 |
-| The Nature of the Beast | 0.40% | ~1,069 |
+| The Nature of the Beast | 0.40% | ~1,070 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,369 (Ranked 38)  
+Progressed: 267,377 (Ranked 38)  
 Completed: 362 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 362 (0.14%) (Ranked 149)
 | 2023-05-13 | 266,911 | 361 |
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
-| 2023-05-16 | 267,369 | 362 |
+| 2023-05-16 | 267,377 | 362 |
 ## Awards
 Max (Character Customization): 18,815  (Ranked 18)  
-Sum: 34,542 (Ranked 33)  
+Sum: 34,548 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -88,7 +88,7 @@ Diff (max vs sum): -15
 | This game has Great Boss Battles | 8,849 |
 | This game is Extremely Fun | 768 |
 | This game is Great for Beginners | 761 |
-| This game is Relaxing | 733 |
+| This game is Relaxing | 739 |
 | This game has Diverse Characters | 731 |
 | This game has Amazing Storytelling | 729 |
 | This game has Amazing Characters | 724 |
@@ -152,4 +152,4 @@ Diff (max vs sum): -15
 | 2023-05-13 | 4.77 | 18,717 | 34,293 |
 | 2023-05-14 | 4.77 | 18,751 | 34,388 |
 | 2023-05-15 | 4.77 | 18,787 | 34,478 |
-| 2023-05-16 | 4.77 | 18,815 | 34,542 |
+| 2023-05-16 | 4.77 | 18,815 | 34,548 |

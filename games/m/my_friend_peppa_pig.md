@@ -10,8 +10,8 @@
 | Whose tracks are these? | 48.00% | ~33 |
 | Collecting Sticks For the Campfire. | 46.00% | ~32 |
 | The Best Snowman Ever! | 46.00% | ~32 |
-| Rounding Up the Chickens. | 41.00% | ~28 |
-| What’s in These Rockpools? | 33.00% | ~23 |
+| Rounding Up the Chickens. | 42.00% | ~29 |
+| What’s in These Rockpools? | 35.00% | ~24 |
 | Where’s Mr. Dinosaur? | 23.00% | ~16 |
 | Helping Tiddles the Tortoise. | 23.00% | ~16 |
 | Always Remember To Eat Your Five! | 12.00% | ~8 |

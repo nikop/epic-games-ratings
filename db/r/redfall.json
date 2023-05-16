@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1557,
+  "EOS_Progressed": 1558,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -1266,6 +1266,11 @@
       "Time": "2023-05-16T17:05:22.4272925+00:00",
       "NumProgressed": 1557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T22:05:03.8649478+00:00",
+      "NumProgressed": 1558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1293,7 +1298,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "Achievement_004",
@@ -1325,7 +1330,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "Achievement_009",
@@ -1333,7 +1338,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Achievement_010",
@@ -1341,7 +1346,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "Achievement_011",
@@ -1413,7 +1418,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "Achievement_020",
@@ -1491,9 +1496,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 545
     },
     {
       "ID": "Achievement_030",
@@ -1509,7 +1514,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "Achievement_032",
@@ -1525,7 +1530,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "Achievement_034",
@@ -1533,7 +1538,7 @@
       "Name": "Catch and Release",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "Achievement_035",
@@ -1741,7 +1746,7 @@
       "Name": "Helping Hand",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Achievement_064",
@@ -1797,14 +1802,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1557,
+      "Progressed": 1558,
       "Completed": 0
     }
   ],
@@ -1812,8 +1817,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-16T17:57:37.4740205+00:00",
-  "LastChanged_Achievements": "2023-05-16T21:05:45.0633845+00:00",
+  "LastChanged_Achievements": "2023-05-16T22:05:03.8649473+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-16T20:57:46.7369055+00:00",
-  "LastUpdate_Achievements": "2023-05-16T21:05:45.0634672+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:57:47.3830513+00:00",
+  "LastUpdate_Achievements": "2023-05-16T22:05:03.8650238+00:00"
 }

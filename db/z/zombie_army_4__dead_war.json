@@ -2,13 +2,13 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1461,9 +1461,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42281,
+  "EOS_Progressed": 42282,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2021,6 +2021,11 @@
       "Time": "2023-05-16T21:06:21.5518186+00:00",
       "NumProgressed": 42281,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-16T22:05:34.7035598+00:00",
+      "NumProgressed": 42282,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -2032,7 +2037,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25791
+      "UsersEstimate": 25792
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2104,7 +2109,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17335
+      "UsersEstimate": 17336
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -2224,7 +2229,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26214
+      "UsersEstimate": 26215
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2288,7 +2293,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14798
+      "UsersEstimate": 14799
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -2320,7 +2325,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15221
+      "UsersEstimate": 15222
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -2328,7 +2333,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17335
+      "UsersEstimate": 17336
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -2336,7 +2341,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21140
+      "UsersEstimate": 21141
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -2352,7 +2357,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15221
+      "UsersEstimate": 15222
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -2360,7 +2365,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28751
+      "UsersEstimate": 28752
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2376,7 +2381,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12684
+      "UsersEstimate": 12685
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -2384,7 +2389,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19449
+      "UsersEstimate": 19450
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -2392,7 +2397,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23677
+      "UsersEstimate": 23678
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2400,7 +2405,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19449
+      "UsersEstimate": 19450
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -2408,7 +2413,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15221
+      "UsersEstimate": 15222
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -2440,7 +2445,7 @@
       "Name": "I can do anything I want. I got guns",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "SE_MASTER_A_WEAPON",
@@ -2464,7 +2469,7 @@
       "Name": "Send me an angel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "SE_PERFORM_X_TAKEDOWNS",
@@ -2496,7 +2501,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10147
+      "UsersEstimate": 10148
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -2552,22 +2557,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15221
+      "UsersEstimate": 15222
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42281,
+      "Progressed": 42282,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-15T09:59:24.7528898+00:00",
-  "LastChanged_Achievements": "2023-05-16T21:06:21.5518181+00:00",
+  "LastChanged_Achievements": "2023-05-16T22:05:34.703559+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.0993815+00:00",
-  "LastUpdate_Ratings": "2023-05-16T20:59:59.2620364+00:00",
-  "LastUpdate_Achievements": "2023-05-16T21:06:21.5518969+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:59:28.7984225+00:00",
+  "LastUpdate_Achievements": "2023-05-16T22:05:34.7036191+00:00"
 }
