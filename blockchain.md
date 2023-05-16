@@ -10,6 +10,7 @@
 | [Elder's Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-03-31 | 2024-03-31 |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-31 | 2023-12-31 |
 | [Age of Rust](games/a/age_of_rust.md) | 2023-12-31 | 2023-12-31 |
+| [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2023-12-31 | 2023-12-31 |
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | 2023-02-02 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | 2023-11-30 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-05-28 | 2023-05-28 |
