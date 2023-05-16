@@ -7,9 +7,9 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 10.00% | ~16,792 |
-| Thorough | 9.00% | ~15,112 |
-| A thief's beginning | 7.00% | ~11,754 |
-| Tanuki Time | 7.00% | ~11,754 |
+| Thorough | 9.00% | ~15,113 |
+| A thief's beginning | 7.00% | ~11,755 |
+| Tanuki Time | 7.00% | ~11,755 |
 | Disguised | 6.00% | ~10,075 |
 | Jonin | 6.00% | ~10,075 |
 | Rescue Takuma | 6.00% | ~10,075 |
@@ -25,11 +25,11 @@ Number of Ratings: 495  (23.09.2022)
 | Prisoners | 4.00% | ~6,717 |
 | Too Early | 4.00% | ~6,717 |
 | Warzone | 4.00% | ~6,717 |
-| Gear up | 3.00% | ~5,037 |
-| Happy little accidents | 3.00% | ~5,037 |
-| Noboru | 3.00% | ~5,037 |
-| Still Rollin' | 3.00% | ~5,037 |
-| Stoned | 3.00% | ~5,037 |
+| Gear up | 3.00% | ~5,038 |
+| Happy little accidents | 3.00% | ~5,038 |
+| Noboru | 3.00% | ~5,038 |
+| Still Rollin' | 3.00% | ~5,038 |
+| Stoned | 3.00% | ~5,038 |
 | It's raining men | 2.00% | ~3,358 |
 | The Old Way | 2.00% | ~3,358 |
 | Winner Winner | 2.00% | ~3,358 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | The End | 1.00% | ~1,679 |
 | Undeserved Honor | 0.80% | ~1,343 |
 | When Cut Across the Neck | 0.70% | ~1,175 |
-| High Five the Moon | 0.60% | ~1,007 |
-| The Cave | 0.60% | ~1,007 |
+| High Five the Moon | 0.60% | ~1,008 |
+| The Cave | 0.60% | ~1,008 |
 | Merciful | 0.40% | ~672 |
 | Time Paradox | 0.40% | ~672 |
 | Five Shadows | 0.30% | ~504 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~168 |
 | Release the Kraken | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,915 (Ranked 50)  
+Progressed: 167,924 (Ranked 50)  
 Completed: 44 (0.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 44 (0.03%) (Ranked 181)
 | 2023-05-13 | 167,244 | 41 |
 | 2023-05-14 | 167,550 | 42 |
 | 2023-05-15 | 167,823 | 43 |
-| 2023-05-16 | 167,915 | 44 |
+| 2023-05-16 | 167,924 | 44 |
 ## Awards
 Max (Great for Beginners): 548  (Ranked 174)  
 Sum: 4,660 (Ranked 125)  

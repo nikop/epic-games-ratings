@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2376,
+  "EOS_Progressed": 2377,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -964,6 +964,11 @@
       "Time": "2023-05-16T05:06:35.5957596+00:00",
       "NumProgressed": 2376,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T12:05:05.2103018+00:00",
+      "NumProgressed": 2377,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1015,7 +1020,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "CrowdPleaser",
@@ -1039,7 +1044,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -1079,7 +1084,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "HouseofCards_19",
@@ -1199,7 +1204,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -1295,7 +1300,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1310,15 +1315,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2376,
+      "Progressed": 2377,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-16T11:05:25.4091761+00:00",
+  "LastChanged_Achievements": "2023-05-16T12:05:05.2103015+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:37.4392103+00:00",
-  "LastUpdate_Ratings": "2023-05-16T10:57:41.5645505+00:00",
-  "LastUpdate_Achievements": "2023-05-16T11:05:25.4092121+00:00"
+  "LastUpdate_Ratings": "2023-05-16T11:57:31.181114+00:00",
+  "LastUpdate_Achievements": "2023-05-16T12:05:05.210341+00:00"
 }

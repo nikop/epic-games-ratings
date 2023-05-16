@@ -298,6 +298,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.20% | ~108 |
 | Tekeli-li's Hunt | 0.20% | ~108 |
 | The Rite of the Arcane Octad | 0.20% | ~108 |
+| The Netherese Necropolis | 0.20% | ~108 |
 | The Archaeologist and the Sailor | 0.20% | ~108 |
 | The Haunted Jungle | 0.20% | ~175 |
 | Poor Guidance | 0.20% | ~175 |
@@ -493,10 +494,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~54 |
 | Alien Allies | 0.10% | ~54 |
 | An Icewind Dale Reunion | 0.10% | ~54 |
-| The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,646 (Ranked 59)  
+Progressed: 87,649 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,646 | 1,843 |
+| 2023-05-16 | 87,649 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,895 (Ranked 37)  

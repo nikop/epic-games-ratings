@@ -8,8 +8,8 @@ Rating: 4.74 (Ranked 140)
 | For Demacia | 95.00% | ~1,902 |
 | No more cages! | 92.00% | ~1,842 |
 | Everfrost | 77.00% | ~1,542 |
+| Dark Forest | 77.00% | ~1,542 |
 | Pentakill | 76.00% | ~1,522 |
-| Dark Forest | 76.00% | ~1,522 |
 | The use of petricite | 73.00% | ~1,461 |
 | You can pet the dog | 60.00% | ~1,201 |
 | Big Helmet Bro | 34.00% | ~681 |
@@ -38,10 +38,10 @@ Rating: 4.74 (Ranked 140)
 | Quickmoore Headquarters | 14.00% | ~280 |
 | Whispers in the Woods III | 13.00% | ~260 |
 | Friendly fire | 13.00% | ~260 |
+| The Central Headquarters | 13.00% | ~260 |
 | My heart and sword always for Demacia | 12.00% | ~240 |
 | True power | 12.00% | ~240 |
 | Meltridge | 12.00% | ~240 |
-| The Central Headquarters | 12.00% | ~240 |
 | Cloven Dell Headquarters | 12.00% | ~240 |
 | Whispers in the Woods IV | 11.00% | ~220 |
 | Embrace the darkness | 10.00% | ~200 |

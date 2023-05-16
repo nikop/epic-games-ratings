@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3742,9 +3742,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87646,
+  "EOS_Progressed": 87649,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6121,6 +6121,11 @@
     {
       "Time": "2023-05-16T11:05:57.7861496+00:00",
       "NumProgressed": 87646,
+      "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T12:05:38.0566933+00:00",
+      "NumProgressed": 87649,
       "NumCompleted": 1843
     }
   ],
@@ -9979,9 +9984,9 @@
       "ID": "objective_completed_933",
       "SetID": "415jc5c",
       "Name": "The Netherese Necropolis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_934",
@@ -10044,21 +10049,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53920,
+      "Progressed": 53923,
       "Completed": 2516
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87646,
+      "Progressed": 87649,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T09:57:38.7579752+00:00",
-  "LastChanged_Achievements": "2023-05-16T11:05:57.7861492+00:00",
+  "LastChanged_Achievements": "2023-05-16T12:05:38.0566931+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T10:58:01.1674535+00:00",
-  "LastUpdate_Achievements": "2023-05-16T11:05:57.7884749+00:00"
+  "LastUpdate_Ratings": "2023-05-16T11:57:50.3366202+00:00",
+  "LastUpdate_Achievements": "2023-05-16T12:05:38.0590388+00:00"
 }

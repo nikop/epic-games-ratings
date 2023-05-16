@@ -10,7 +10,7 @@
 | Brilliant Day | 93.00% | ~140 |
 | Evil Genius | 87.00% | ~131 |
 | Air Defense | 84.00% | ~127 |
-| Tinned Corpse | 82.00% | ~124 |
+| Tinned Corpse | 83.00% | ~125 |
 | Your War is Over | 81.00% | ~122 |
 | The Starry Night | 75.00% | ~113 |
 | Go Home! | 74.00% | ~112 |
@@ -21,7 +21,7 @@
 | V.I.P. Cemetery | 70.00% | ~106 |
 | Takeover | 68.00% | ~103 |
 | Woodcutter | 68.00% | ~103 |
-| Architect of Darkness | 67.00% | ~101 |
+| Architect of Darkness | 68.00% | ~103 |
 | Top of the World | 66.00% | ~100 |
 | Sharpshooter | 66.00% | ~100 |
 | The Apotheosis of War | 65.00% | ~98 |

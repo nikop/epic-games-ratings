@@ -11,21 +11,21 @@ Rating: 4.77 (Ranked 104)
 | The Hero of Hogwarts | 6.00% | ~16,039 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,366 |
 | The Defender of Dragons | 5.00% | ~13,366 |
+| A Sallow Grave | 5.00% | ~13,366 |
 | Challenge Accepted | 5.00% | ~13,366 |
 | Loom for Improvement | 5.00% | ~13,366 |
 | Coasting Along | 5.00% | ~13,366 |
 | Troll with the Punches | 5.00% | ~13,366 |
 | That's a Keeper | 5.00% | ~13,366 |
 | Rising From the Ashes | 5.00% | ~13,366 |
-| The Avenging Gazelle | 4.00% | ~10,692 |
-| Beast Friends | 4.00% | ~10,692 |
-| A Sallow Grave | 4.00% | ~10,692 |
-| Flight the Good Flight | 4.00% | ~10,692 |
-| A Keen Sense of Spell | 4.00% | ~10,692 |
-| A Talent for Spending | 4.00% | ~10,692 |
-| Followed the Butterflies | 4.00% | ~10,692 |
-| The Spell Master | 4.00% | ~10,692 |
-| First Class Student | 4.00% | ~10,692 |
+| The Avenging Gazelle | 4.00% | ~10,693 |
+| Beast Friends | 4.00% | ~10,693 |
+| Flight the Good Flight | 4.00% | ~10,693 |
+| A Keen Sense of Spell | 4.00% | ~10,693 |
+| A Talent for Spending | 4.00% | ~10,693 |
+| Followed the Butterflies | 4.00% | ~10,693 |
+| The Spell Master | 4.00% | ~10,693 |
+| First Class Student | 4.00% | ~10,693 |
 | The Seeker of Knowledge | 3.00% | ~8,019 |
 | The Root of the Problem | 3.00% | ~8,019 |
 | Third Time's a Charm | 3.00% | ~8,019 |
@@ -43,15 +43,15 @@ Rating: 4.77 (Ranked 104)
 | Rise to the Challenges | 1.00% | ~2,673 |
 | Finishing Touches | 1.00% | ~2,673 |
 | The Wise Owl | 1.00% | ~2,673 |
-| Demiguise Dread | 0.80% | ~2,138 |
-| A Forte for Achievement | 0.80% | ~2,138 |
+| Demiguise Dread | 0.80% | ~2,139 |
+| A Forte for Achievement | 0.80% | ~2,139 |
 | Savvy Spender | 0.70% | ~1,871 |
 | Merlin's Beard! | 0.60% | ~1,604 |
 | Spilled Milk | 0.50% | ~1,337 |
 | The Nature of the Beast | 0.40% | ~1,069 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,312 (Ranked 38)  
+Progressed: 267,316 (Ranked 38)  
 Completed: 362 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 362 (0.14%) (Ranked 149)
 | 2023-05-13 | 266,911 | 361 |
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
-| 2023-05-16 | 267,312 | 362 |
+| 2023-05-16 | 267,316 | 362 |
 ## Awards
 Max (Character Customization): 18,787  (Ranked 18)  
 Sum: 34,483 (Ranked 33)  

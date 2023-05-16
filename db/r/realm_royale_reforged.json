@@ -4,7 +4,7 @@
   "ProductSlug": "realm-royale-reforged",
   "Ranking_Rating": 762,
   "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 218,
+  "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 270,
@@ -1257,6 +1257,6 @@
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
   "LastChanged": "2023-05-15T18:59:07.8572463+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:44.2607682+00:00",
-  "LastUpdate_Ratings": "2023-05-16T10:58:42.3593968+00:00",
-  "LastUpdate_Achievements": "2023-05-16T11:04:08.1132911+00:00"
+  "LastUpdate_Ratings": "2023-05-16T11:58:32.6380523+00:00",
+  "LastUpdate_Achievements": "2023-05-16T12:03:37.9033139+00:00"
 }

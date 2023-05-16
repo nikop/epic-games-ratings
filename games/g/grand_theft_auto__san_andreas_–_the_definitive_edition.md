@@ -19,8 +19,8 @@ Rating: 4.61 (Ranked 354)
 | With Extra Dip | 6.00% | ~458 |
 | The End of the Line | 6.00% | ~458 |
 | Saviour | 5.00% | ~382 |
-| They Can’t Stop All of Us | 4.00% | ~305 |
-| Rescue a Kitten Too? | 4.00% | ~305 |
+| They Can’t Stop All of Us | 4.00% | ~306 |
+| Rescue a Kitten Too? | 4.00% | ~306 |
 | What are the Odds | 3.00% | ~229 |
 | I’ll Have Two Number 9s | 2.00% | ~153 |
 | Bike or Biker | 2.00% | ~153 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 354)
 | ...Here we go again | 0.30% | ~23 |
 | I Ain't No Buster | 0.20% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,637 (Ranked 110)  
+Progressed: 7,638 (Ranked 110)  
 Completed: 16 (0.21%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 16 (0.21%) (Ranked 138)
 | 2023-05-13 | 7,611 | 15 |
 | 2023-05-14 | 7,623 | 15 |
 | 2023-05-15 | 7,635 | 16 |
-| 2023-05-16 | 7,637 | 16 |
+| 2023-05-16 | 7,638 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

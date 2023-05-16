@@ -14,6 +14,7 @@ Rating: 4.17 (Ranked 831)
 | Quartzer Life Crisis | 0.40% | ~244 |
 | Snow Problem | 0.40% | ~244 |
 | Cooldown | 0.40% | ~244 |
+| Har, Har, Har, Very Funny | 0.40% | ~244 |
 | Get ReQ'd | 0.40% | ~244 |
 | Working Hard or Harley Working? | 0.40% | ~244 |
 | Universal Health Scare | 0.40% | ~244 |
@@ -31,10 +32,10 @@ Rating: 4.17 (Ranked 831)
 | Out of Their League | 0.30% | ~183 |
 | Drone You Out | 0.30% | ~183 |
 | To the Victor Go the Spoils | 0.30% | ~183 |
-| Har, Har, Har, Very Funny | 0.30% | ~183 |
 | First Step Into the Knight | 0.30% | ~183 |
 | Knighthood | 0.30% | ~183 |
 | Loose Ends | 0.30% | ~183 |
+| Dressed to Impress | 0.20% | ~122 |
 | Fusion Expert | 0.20% | ~122 |
 | Expert Crime Fighter | 0.20% | ~122 |
 | Not On My Watch | 0.20% | ~122 |
@@ -52,7 +53,6 @@ Rating: 4.17 (Ranked 831)
 | Showdown Sovereign | 0.10% | ~31 |
 | Practice Makes Perfect | 0.10% | ~61 |
 | That's Showbiz, Clayby | 0.10% | ~31 |
-| Dressed to Impress | 0.10% | ~61 |
 | Talonted | 0.10% | ~61 |
 | The Man-Bat Family | 0.10% | ~61 |
 | Icebreaker | 0.10% | ~31 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,909 (Ranked 67)  
+Progressed: 60,911 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 91 (0.15%) (Ranked 146)
 | 2023-05-13 | 60,844 | 90 |
 | 2023-05-14 | 60,883 | 91 |
 | 2023-05-15 | 60,902 | 91 |
-| 2023-05-16 | 60,909 | 91 |
+| 2023-05-16 | 60,911 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,213  (Ranked 99)  
 Sum: 3,670 (Ranked 137)  

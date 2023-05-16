@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -211,6 +211,11 @@
       "Time": "2023-05-14T20:06:04.9696313+00:00",
       "NumProgressed": 37,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T12:04:58.5747842+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -220,7 +225,7 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -228,7 +233,7 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -236,7 +241,7 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -244,7 +249,7 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -268,7 +273,7 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 90,
       "UsersEstimate": 7
     },
@@ -276,7 +281,7 @@
       "ID": "finger_lickin_bad",
       "SetID": "5anb57n",
       "Name": "Finger-Lickin\u0027 Bad",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -308,7 +313,7 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -324,7 +329,7 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -332,7 +337,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
       "UsersEstimate": 10
     },
@@ -348,7 +353,7 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -356,7 +361,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 10
     }
@@ -365,14 +370,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-16T11:05:18.8024595+00:00",
+  "LastChanged_Achievements": "2023-05-16T12:04:58.5747839+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:59.9025038+00:00",
-  "LastUpdate_Ratings": "2023-05-16T10:58:02.2947864+00:00",
-  "LastUpdate_Achievements": "2023-05-16T11:05:18.8024715+00:00"
+  "LastUpdate_Ratings": "2023-05-16T11:57:51.5511983+00:00",
+  "LastUpdate_Achievements": "2023-05-16T12:04:58.5747991+00:00"
 }

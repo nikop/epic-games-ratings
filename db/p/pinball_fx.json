@@ -1376,10 +1376,16 @@
       "Rating": 4.03,
       "NumberOfAwards": 1488,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2023-05-16T11:58:42.3474004+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 1489,
+      "NumberOfAwardsMax": 173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1488,
+  "NumberOfAwards": 1489,
   "NumberOfAwardsMax": 173,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1459,12 +1465,12 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 98
+      "Count": 99
     }
   ],
-  "EOS_Progressed": 217465,
+  "EOS_Progressed": 217474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3504,
+  "EOS_NewPlayers": 3513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3917,6 +3923,11 @@
       "Time": "2023-05-16T11:05:27.3853455+00:00",
       "NumProgressed": 217465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T12:05:07.1439546+00:00",
+      "NumProgressed": 217474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -3976,7 +3987,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 23921
+      "UsersEstimate": 23922
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -4152,7 +4163,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 176147
+      "UsersEstimate": 176154
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -4160,22 +4171,22 @@
       "Name": "I know the Rules",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 95685
+      "UsersEstimate": 95689
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 217465,
+      "Progressed": 217474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-05-14T19:59:25.6264769+00:00",
-  "LastChanged_Achievements": "2023-05-16T11:05:27.3853452+00:00",
+  "LastChanged": "2023-05-16T11:58:42.3474002+00:00",
+  "LastChanged_Achievements": "2023-05-16T12:05:07.1439543+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:56.0226455+00:00",
-  "LastUpdate_Ratings": "2023-05-16T10:58:52.0195316+00:00",
-  "LastUpdate_Achievements": "2023-05-16T11:05:27.3853813+00:00"
+  "LastUpdate_Ratings": "2023-05-16T11:58:42.3474009+00:00",
+  "LastUpdate_Achievements": "2023-05-16T12:05:07.1439903+00:00"
 }

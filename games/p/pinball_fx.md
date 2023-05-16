@@ -6,9 +6,9 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~176,147 |
-| I know the Rules | 44.00% | ~95,685 |
-| Contender | 11.00% | ~23,921 |
+| Ball Launched | 81.00% | ~176,154 |
+| I know the Rules | 44.00% | ~95,689 |
+| Contender | 11.00% | ~23,922 |
 | I Found it! | 6.00% | ~13,048 |
 | Dress Code | 4.00% | ~8,699 |
 | First but not Last | 3.00% | ~6,524 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,465 (Ranked 45)  
+Progressed: 217,474 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,10 +63,10 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 216,133 | 0 |
 | 2023-05-14 | 216,870 | 0 |
 | 2023-05-15 | 217,332 | 0 |
-| 2023-05-16 | 217,465 | 0 |
+| 2023-05-16 | 217,474 | 0 |
 ## Awards
 Max (Great for Beginners): 173  (Ranked 272)  
-Sum: 1,488 (Ranked 208)  
+Sum: 1,489 (Ranked 208)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -79,7 +79,7 @@ Diff (max vs sum): 64
 | This game has Competitive Players | 144 |
 | This game has Amazing Storytelling | 100 |
 | This game has a Competitive Community | 99 |
-| This game has Challenging Combat | 98 |
+| This game has Challenging Combat | 99 |
 | This game has Amazing Characters | 89 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Realistic Visuals | 52 |
@@ -203,3 +203,4 @@ Diff (max vs sum): 64
 | 2023-05-11 | 4.03 | - | 172 | 1,486 |
 | 2023-05-13 | 4.03 | - | 172 | 1,487 |
 | 2023-05-14 | 4.03 | - | 173 | 1,488 |
+| 2023-05-16 | 4.03 | - | 173 | 1,489 |

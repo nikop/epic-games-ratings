@@ -1112,9 +1112,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60909,
+  "EOS_Progressed": 60911,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2677,6 +2677,11 @@
       "Time": "2023-05-16T09:06:55.7162948+00:00",
       "NumProgressed": 60909,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-16T12:05:30.7599391+00:00",
+      "NumProgressed": 60911,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -2822,9 +2827,9 @@
       "ID": "CRAFTING_LEGENDARY_SET",
       "SetID": "4eo5ebm",
       "Name": "Dressed to Impress",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 122
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -2990,9 +2995,9 @@
       "ID": "HARLEY_1",
       "SetID": "4eo5ebm",
       "Name": "Har, Har, Har, Very Funny",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 244
     },
     {
       "ID": "HARLEY_2",
@@ -3175,13 +3180,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60909,
+      "Progressed": 60911,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31189,
+      "Progressed": 31191,
       "Completed": 2638
     }
   ],
@@ -3189,8 +3194,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-16T02:02:23.3349333+00:00",
-  "LastChanged_Achievements": "2023-05-16T11:05:50.5774813+00:00",
+  "LastChanged_Achievements": "2023-05-16T12:05:30.7599381+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-16T10:59:30.5857721+00:00",
-  "LastUpdate_Achievements": "2023-05-16T11:05:50.5775505+00:00"
+  "LastUpdate_Ratings": "2023-05-16T11:59:18.9821881+00:00",
+  "LastUpdate_Achievements": "2023-05-16T12:05:30.7600069+00:00"
 }

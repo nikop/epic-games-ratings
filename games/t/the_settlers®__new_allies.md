@@ -4,8 +4,8 @@
 Rating: 3.76 (Ranked 912)  
 ## Awards
 Max (Great for Beginners): 51  (Ranked 384)  
-Sum: 152 (Ranked 377)  
-Diff (max vs sum): 7  
+Sum: 152 (Ranked 378)  
+Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 51 |
