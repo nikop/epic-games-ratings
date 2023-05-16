@@ -18,9 +18,9 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.28% |
 | 22 | [Scorn](games/s/scorn.md) | 7.04% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
@@ -28,12 +28,12 @@
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
 | 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
-| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
+| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 31 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
-| 32 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.35% |
-| 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
-| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
+| 32 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
+| 32 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
+| 32 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.17% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.94% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -73,7 +73,7 @@
 | 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
-| 74 | [Them and Us](games/t/them_and_us.md) | 1.37% |
+| 74 | [Them and Us](games/t/them_and_us.md) | 1.35% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -106,8 +106,8 @@
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
+| 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
