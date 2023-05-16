@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-16 | 2023-05-16 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
@@ -53,6 +52,7 @@
 | [Search](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | 2022-08-29 |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | 2023-02-07 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
+| [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 2023-06-30 |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 2023-06-16 |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | 2023-06-20 |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | 2023-06-30 |
@@ -70,7 +70,6 @@
 | [Indies Lies](games/i/indies_lies.md) | 2023-06-30 | 2022-03-31 |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | 2023-06-30 |
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | 2021-10-20 |
-| [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-30 | 2023-06-30 |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | 2023-06-30 |
 | [MUSYNX](games/7/739d0f3d53054b29befc2753d58c7045.md) | 2023-06-30 | 2018-12-04 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | 2023-12-31 |
@@ -109,6 +108,7 @@
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2023-09-30 | 2023-09-30 |
 | [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-09-30 | 2023-09-30 |
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | 2023-02-14 |
+| [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | 2023-09-30 |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 2023-09-30 |
 | [Total Reload](games/t/total_reload.md) | 2023-09-30 | 2023-09-30 |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | 2023-09-30 |

@@ -20,7 +20,7 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.15% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
 | 22 | [Scorn](games/s/scorn.md) | 7.05% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
@@ -35,8 +35,8 @@
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
 | 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.94% |
-| 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.52% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.44% |
@@ -109,8 +109,8 @@
 | 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
-| 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
-| 111 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
+| 110 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
+| 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
 | 113 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -399,4 +399,4 @@
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,616 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,617 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
