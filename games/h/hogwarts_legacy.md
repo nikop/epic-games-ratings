@@ -5,19 +5,19 @@ Rating: 4.77 (Ranked 104)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,039 |
-| The One Who Mastered Memories | 6.00% | ~16,039 |
-| The Hallowed Hero | 6.00% | ~16,039 |
-| The Hero of Hogwarts | 6.00% | ~16,039 |
-| The Sort Who Makes an Entrance | 5.00% | ~13,366 |
-| The Defender of Dragons | 5.00% | ~13,366 |
-| A Sallow Grave | 5.00% | ~13,366 |
-| Challenge Accepted | 5.00% | ~13,366 |
-| Loom for Improvement | 5.00% | ~13,366 |
-| Coasting Along | 5.00% | ~13,366 |
-| Troll with the Punches | 5.00% | ~13,366 |
-| That's a Keeper | 5.00% | ~13,366 |
-| Rising From the Ashes | 5.00% | ~13,366 |
+| Grappling with a Graphorn | 6.00% | ~16,040 |
+| The One Who Mastered Memories | 6.00% | ~16,040 |
+| The Hallowed Hero | 6.00% | ~16,040 |
+| The Hero of Hogwarts | 6.00% | ~16,040 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,367 |
+| The Defender of Dragons | 5.00% | ~13,367 |
+| A Sallow Grave | 5.00% | ~13,367 |
+| Challenge Accepted | 5.00% | ~13,367 |
+| Loom for Improvement | 5.00% | ~13,367 |
+| Coasting Along | 5.00% | ~13,367 |
+| Troll with the Punches | 5.00% | ~13,367 |
+| That's a Keeper | 5.00% | ~13,367 |
+| Rising From the Ashes | 5.00% | ~13,367 |
 | The Avenging Gazelle | 4.00% | ~10,693 |
 | Beast Friends | 4.00% | ~10,693 |
 | Flight the Good Flight | 4.00% | ~10,693 |
@@ -32,11 +32,11 @@ Rating: 4.77 (Ranked 104)
 | Room with a View | 3.00% | ~8,020 |
 | The Ends Petrify the Means | 3.00% | ~8,020 |
 | Raising Expectations | 3.00% | ~8,020 |
-| The Toast of the Town | 2.00% | ~5,346 |
-| Going Through the Potions | 2.00% | ~5,346 |
-| Floo Around the World | 2.00% | ~5,346 |
-| The Intrepid Explorer | 2.00% | ~5,346 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,346 |
+| The Toast of the Town | 2.00% | ~5,347 |
+| Going Through the Potions | 2.00% | ~5,347 |
+| Floo Around the World | 2.00% | ~5,347 |
+| The Intrepid Explorer | 2.00% | ~5,347 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,347 |
 | The Good Samaritan | 1.00% | ~2,673 |
 | Put Down Roots | 1.00% | ~2,673 |
 | The Auror's Apprentice | 1.00% | ~2,673 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,069 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,322 (Ranked 38)  
+Progressed: 267,334 (Ranked 38)  
 Completed: 362 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 362 (0.14%) (Ranked 149)
 | 2023-05-13 | 266,911 | 361 |
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
-| 2023-05-16 | 267,322 | 362 |
+| 2023-05-16 | 267,334 | 362 |
 ## Awards
 Max (Character Customization): 18,787  (Ranked 18)  
 Sum: 34,483 (Ranked 33)  

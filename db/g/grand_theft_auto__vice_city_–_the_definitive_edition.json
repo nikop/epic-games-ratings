@@ -6,9 +6,9 @@
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -304,11 +304,11 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 6164,
-  "EOS_Completed": 20,
-  "EOS_NewPlayers": 69,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Progressed": 6165,
+  "EOS_Completed": 21,
+  "EOS_NewPlayers": 70,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -1439,6 +1439,11 @@
       "Time": "2023-05-16T06:05:31.808821+00:00",
       "NumProgressed": 6164,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-16T15:05:50.3071362+00:00",
+      "NumProgressed": 6165,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 34,
@@ -1682,7 +1687,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH31",
@@ -1721,16 +1726,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6164,
-      "Completed": 20
+      "Progressed": 6165,
+      "Completed": 21
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-10T19:59:39.8173766+00:00",
-  "LastChanged_Achievements": "2023-05-16T14:05:35.9179254+00:00",
+  "LastChanged_Achievements": "2023-05-16T15:05:50.3071358+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:58:19.8174635+00:00",
-  "LastUpdate_Achievements": "2023-05-16T14:05:35.9179592+00:00"
+  "LastUpdate_Ratings": "2023-05-16T14:58:20.3352383+00:00",
+  "LastUpdate_Achievements": "2023-05-16T15:05:50.3071606+00:00"
 }

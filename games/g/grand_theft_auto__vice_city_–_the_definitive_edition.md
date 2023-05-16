@@ -15,7 +15,7 @@ Rating: 4.67 (Ranked 256)
 | Iron-y | 9.00% | ~555 |
 | Salutations My Little Friend | 9.00% | ~555 |
 | Gun for Hire | 8.00% | ~493 |
-| Mischief Managed | 7.00% | ~431 |
+| Mischief Managed | 7.00% | ~432 |
 | Vice City Mogul | 6.00% | ~370 |
 | Bloodstained Hands | 6.00% | ~370 |
 | Catch Me if You Can | 5.00% | ~308 |
@@ -40,8 +40,8 @@ Rating: 4.67 (Ranked 256)
 | Done it All | 0.70% | ~43 |
 | Kingpin | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,164 (Ranked 115)  
-Completed: 20 (0.32%) (Ranked 120)  
+Progressed: 6,165 (Ranked 115)  
+Completed: 21 (0.34%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 20 (0.32%) (Ranked 120)
 | 2023-05-13 | 6,139 | 20 |
 | 2023-05-14 | 6,153 | 20 |
 | 2023-05-15 | 6,161 | 20 |
-| 2023-05-16 | 6,164 | 20 |
+| 2023-05-16 | 6,165 | 21 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 435)  
 Sum: 32 (Ranked 455)  

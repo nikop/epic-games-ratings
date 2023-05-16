@@ -6,9 +6,9 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 71.00% | ~2,484 |
-| Hey Good Hookin | 62.00% | ~2,169 |
-| I'm on a Boat! | 52.00% | ~1,819 |
+| Fish Just Got Reel | 71.00% | ~2,486 |
+| Hey Good Hookin | 62.00% | ~2,171 |
+| I'm on a Boat! | 52.00% | ~1,821 |
 | Scaling up | 46.00% | ~1,610 |
 | Can you smell what the Rod is Hooking | 45.00% | ~1,575 |
 | Ready to Rod and Roll | 37.00% | ~1,295 |
@@ -30,19 +30,19 @@ Number of Ratings: 281  (23.09.2022)
 | The Beetles | 2.00% | ~70 |
 | Taylor Made | 2.00% | ~70 |
 | Rod and Troll | 2.00% | ~57 |
-| Head for Heights | 0.70% | ~24 |
-| Lake Me up Before You Go Go | 0.50% | ~17 |
+| Head for Heights | 0.70% | ~25 |
+| Lake Me up Before You Go Go | 0.50% | ~18 |
 | Fish upon a Star | 0.50% | ~14 |
 | Cache and Carry | 0.30% | ~9 |
 | Golden Ridge Ranger | 0.20% | ~7 |
 | Buckaroo | 0.20% | ~7 |
 | Trollsporet Tale Teller | 0.20% | ~6 |
-| Lost and Flounder | 0.10% | ~3 |
+| Lost and Flounder | 0.10% | ~4 |
 | Norway Jose | 0.10% | ~3 |
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,499 (Ranked 129)  
+Progressed: 3,501 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 3,483 | 0 |
 | 2023-05-14 | 3,492 | 0 |
 | 2023-05-15 | 3,499 | 0 |
+| 2023-05-16 | 3,501 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 435)  
 Sum: 158 (Ranked 375)  

@@ -6,32 +6,32 @@ Rating: 4.61 (Ranked 354)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bootstrapping | 75.00% | ~118,832 |
-| Shine On | 70.00% | ~110,909 |
-| On the Job | 69.00% | ~109,325 |
+| Shine On | 70.00% | ~110,910 |
+| On the Job | 69.00% | ~109,326 |
 | Get Stuck In | 68.00% | ~107,741 |
 | Room for Expansion | 68.00% | ~107,741 |
-| Sales Pitch | 65.00% | ~102,987 |
-| Chill Out | 64.00% | ~101,403 |
+| Sales Pitch | 65.00% | ~102,988 |
+| Chill Out | 64.00% | ~101,404 |
 | Tinker | 61.00% | ~96,650 |
-| Grand Designs | 60.00% | ~95,065 |
+| Grand Designs | 60.00% | ~95,066 |
 | Hot Stuff | 59.00% | ~93,481 |
 | MOAR RGB | 54.00% | ~85,559 |
-| Dream Theme | 46.00% | ~72,883 |
+| Dream Theme | 46.00% | ~72,884 |
 | The Customer is King | 45.00% | ~71,299 |
-| Working Hard | 44.00% | ~69,714 |
+| Working Hard | 44.00% | ~69,715 |
 | On the Bench | 42.00% | ~66,546 |
 | The More the Merrier | 42.00% | ~66,546 |
 | Mix and Match | 38.00% | ~60,208 |
 | Recycler | 38.00% | ~60,208 |
 | Foot in the Door | 37.00% | ~58,624 |
 | Very Imported PC | 36.00% | ~57,039 |
-| Full Throttle | 34.00% | ~53,870 |
-| Repair Master | 32.00% | ~50,701 |
+| Full Throttle | 34.00% | ~53,871 |
+| Repair Master | 32.00% | ~50,702 |
 | Pimp My Rig | 31.00% | ~49,117 |
 | Local Hero | 28.00% | ~44,364 |
 | Broken to Smokin' | 26.00% | ~41,195 |
 | Workaholic | 26.00% | ~41,195 |
-| Thanks Jeff | 25.00% | ~39,610 |
+| Thanks Jeff | 25.00% | ~39,611 |
 | Cinematic | 24.00% | ~38,026 |
 | Bench Warmer | 24.00% | ~38,026 |
 | Gift of the Gab | 24.00% | ~38,026 |
@@ -46,8 +46,8 @@ Rating: 4.61 (Ranked 354)
 | This One Goes to 11 | 18.00% | ~28,520 |
 | Going Places | 15.00% | ~23,766 |
 | Forgetful Shopper | 14.00% | ~22,182 |
-| Showpiece | 13.00% | ~20,597 |
-| Paste Not, Want Not | 13.00% | ~20,597 |
+| Showpiece | 13.00% | ~20,598 |
+| Paste Not, Want Not | 13.00% | ~20,598 |
 | Bench Press | 9.00% | ~14,260 |
 | Matching Set | 8.00% | ~12,675 |
 | Tech Vet | 8.00% | ~12,675 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 354)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,442 (Ranked 53)  
+Progressed: 158,443 (Ranked 53)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-13 | 158,365 | 102 |
 | 2023-05-14 | 158,400 | 102 |
 | 2023-05-15 | 158,430 | 102 |
-| 2023-05-16 | 158,442 | 102 |
+| 2023-05-16 | 158,443 | 102 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 164)  
 Sum: 4,554 (Ranked 128)  

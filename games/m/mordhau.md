@@ -5,46 +5,46 @@ Rating: 4.42 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~674,204 |
-| The ABCs | 43.00% | ~579,815 |
-| Home Run | 42.00% | ~566,331 |
-| Keeps Coming Off | 40.00% | ~539,363 |
-| Guts | 20.00% | ~269,681 |
-| Meat Grinder | 20.00% | ~269,681 |
-| Burning Man | 16.00% | ~215,745 |
-| Lived to Tell the Tale | 12.00% | ~161,809 |
-| Highlander | 10.00% | ~134,841 |
-| Unstoppable | 10.00% | ~134,841 |
-| Just a Scratch | 9.00% | ~121,357 |
-| Tough Nut to Crack | 6.00% | ~80,904 |
-| Yoink | 5.00% | ~67,420 |
-| Long List of Names | 4.00% | ~53,936 |
-| Pyromaniac | 4.00% | ~53,936 |
-| The Queen of Weapons | 4.00% | ~53,936 |
-| This isn’t Sparta | 2.00% | ~26,968 |
-| Poacher | 2.00% | ~26,968 |
-| Put That Away | 2.00% | ~26,968 |
-| You’re Welcome | 2.00% | ~26,968 |
-| Crybaby | 1.00% | ~13,484 |
-| Eagle Eye | 1.00% | ~13,484 |
-| I Know Kung Fu | 1.00% | ~13,484 |
-| Coming Through | 0.80% | ~10,787 |
-| Chambermaid | 0.60% | ~8,090 |
-| Training Accident | 0.60% | ~8,090 |
-| Virtuoso | 0.60% | ~8,090 |
-| Boxer | 0.50% | ~6,742 |
-| Rock’n’Roll | 0.50% | ~6,742 |
-| Flyswatter | 0.30% | ~4,045 |
-| Friend Indeed | 0.30% | ~4,045 |
-| Whack-A-Mole | 0.30% | ~4,045 |
+| Justice from the Grave | 50.00% | ~674,280 |
+| The ABCs | 43.00% | ~579,881 |
+| Home Run | 42.00% | ~566,396 |
+| Keeps Coming Off | 40.00% | ~539,424 |
+| Guts | 20.00% | ~269,712 |
+| Meat Grinder | 20.00% | ~269,712 |
+| Burning Man | 16.00% | ~215,770 |
+| Lived to Tell the Tale | 12.00% | ~161,827 |
+| Highlander | 10.00% | ~134,856 |
+| Unstoppable | 10.00% | ~134,856 |
+| Just a Scratch | 9.00% | ~121,370 |
+| Tough Nut to Crack | 6.00% | ~80,914 |
+| Yoink | 5.00% | ~67,428 |
+| Long List of Names | 4.00% | ~53,942 |
+| Pyromaniac | 4.00% | ~53,942 |
+| The Queen of Weapons | 4.00% | ~53,942 |
+| This isn’t Sparta | 2.00% | ~26,971 |
+| Poacher | 2.00% | ~26,971 |
+| Put That Away | 2.00% | ~26,971 |
+| You’re Welcome | 2.00% | ~26,971 |
+| Crybaby | 1.00% | ~13,486 |
+| Eagle Eye | 1.00% | ~13,486 |
+| I Know Kung Fu | 1.00% | ~13,486 |
+| Coming Through | 0.80% | ~10,788 |
+| Chambermaid | 0.60% | ~8,091 |
+| Training Accident | 0.60% | ~8,091 |
+| Virtuoso | 0.60% | ~8,091 |
+| Boxer | 0.50% | ~6,743 |
+| Rock’n’Roll | 0.50% | ~6,743 |
+| Flyswatter | 0.30% | ~4,046 |
+| Friend Indeed | 0.30% | ~4,046 |
+| Whack-A-Mole | 0.30% | ~4,046 |
 | Vlad the Impaler | 0.20% | ~2,697 |
-| Clobbered | 0.10% | ~1,348 |
-| Ended Rightly | 0.10% | ~1,348 |
-| Living Sculpture | 0.10% | ~1,348 |
-| That’s No Ordinary Cold | 0.10% | ~1,348 |
-| Stairway to Hell | 0.10% | ~1,348 |
+| Clobbered | 0.10% | ~1,349 |
+| Ended Rightly | 0.10% | ~1,349 |
+| Living Sculpture | 0.10% | ~1,349 |
+| That’s No Ordinary Cold | 0.10% | ~1,349 |
+| Stairway to Hell | 0.10% | ~1,349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,348,407 (Ranked 7)  
+Progressed: 1,348,561 (Ranked 7)  
 Completed: 16 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,10 +70,10 @@ Completed: 16 (0.00%) (Ranked 199)
 | 2023-05-13 | 1,339,351 | 12 |
 | 2023-05-14 | 1,343,937 | 16 |
 | 2023-05-15 | 1,346,949 | 16 |
-| 2023-05-16 | 1,348,407 | 16 |
+| 2023-05-16 | 1,348,561 | 16 |
 ## Awards
 Max (Highly Recommended): 123  (Ranked 300)  
-Sum: 687 (Ranked 263)  
+Sum: 690 (Ranked 263)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -81,7 +81,7 @@ Diff (max vs sum): 37
 | This game has Diverse Characters | 105 |
 | This game has Challenging Combat | 102 |
 | This game has Amazing Characters | 97 |
-| This game has Competitive Players | 90 |
+| This game has Competitive Players | 93 |
 | This game is Extremely Fun | 88 |
 | This game has Quickly Understood Controls | 82 |
 | This game has Amazing Storytelling | 76 |
@@ -120,4 +120,4 @@ Diff (max vs sum): 37
 | 2023-05-13 | 4.42 | 110 | 613 |
 | 2023-05-14 | 4.42 | 116 | 652 |
 | 2023-05-15 | 4.42 | 123 | 684 |
-| 2023-05-16 | 4.42 | 123 | 687 |
+| 2023-05-16 | 4.42 | 123 | 690 |

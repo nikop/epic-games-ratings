@@ -7,7 +7,7 @@
 | Welcome To Planimal Point | 97.00% | ~213 |
 | My first Planimal! | 71.00% | ~156 |
 | Red Slime Time | 69.00% | ~152 |
-| To the Rec Center! | 50.00% | ~110 |
+| To the Rec Center! | 51.00% | ~112 |
 | Green Sheen | 46.00% | ~101 |
 | Blue Goo | 31.00% | ~68 |
 | Let's Get Fishy! | 21.00% | ~46 |

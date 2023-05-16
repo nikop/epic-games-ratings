@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~48 |
-| Forced to Kill | 67.00% | ~48 |
+| Alone with Them | 68.00% | ~49 |
+| Forced to Kill | 68.00% | ~49 |
 | A Night To Remember | 28.00% | ~20 |
 | Safe...For now? | 22.00% | ~16 |
 | Open Sesame | 18.00% | ~13 |
-| Them and Us | 10.00% | ~7 |
+| Them and Us | 11.00% | ~8 |
+| What have I done!? | 11.00% | ~8 |
+| Alone In The Dark | 10.00% | ~7 |
 | OUTRAGE | 10.00% | ~7 |
 | The Cultists | 10.00% | ~7 |
-| What have I done!? | 10.00% | ~7 |
-| Alone In The Dark | 8.00% | ~6 |
 | Parasite Exterminated | 8.00% | ~6 |
 | This Coffin Has Your Name On It! | 8.00% | ~6 |
 | The Forgotten Tower | 6.00% | ~4 |

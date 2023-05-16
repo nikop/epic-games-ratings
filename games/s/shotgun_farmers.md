@@ -26,9 +26,9 @@
 | Forestside Survivor | 8.00% | ~4 |
 | Bring Home The Bacon | 6.00% | ~3 |
 | Early Bird | 6.00% | ~3 |
+| Pum-King | 6.00% | ~3 |
 | Pro Shotgunner | 4.00% | ~2 |
 | Pro Digger | 4.00% | ~2 |
-| Pum-King | 4.00% | ~2 |
 | 15 Days | 2.00% | ~1 |
 | 30 Days | 2.00% | ~1 |
 | Hardcore Parkour | 2.00% | ~1 |

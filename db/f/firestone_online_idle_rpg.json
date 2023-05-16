@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1037,
+  "EOS_Progressed": 1038,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -1662,6 +1662,11 @@
       "Time": "2023-05-16T13:14:25.0307009+00:00",
       "NumProgressed": 1037,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T15:06:04.504632+00:00",
+      "NumProgressed": 1038,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1719,9 +1724,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "cauldronliberator",
@@ -1873,7 +1878,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "fullparty",
@@ -1881,7 +1886,7 @@
       "Name": "Full Party",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "gearenchanting",
@@ -1903,9 +1908,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 249
     },
     {
       "ID": "herewegoagain",
@@ -1921,7 +1926,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "howdoyouturnthison",
@@ -1937,7 +1942,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "inspection",
@@ -2065,7 +2070,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "prestigiousx10",
@@ -2073,7 +2078,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "relicofthepast",
@@ -2105,7 +2110,7 @@
       "Name": "Scroll Master",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "silverwoodliberator",
@@ -2169,7 +2174,7 @@
       "Name": "The power of Awakening",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "theunstoppable",
@@ -2233,7 +2238,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "warmachinesarmy",
@@ -2272,7 +2277,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1037,
+      "Progressed": 1038,
       "Completed": 1
     }
   ],
@@ -2280,8 +2285,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T14:05:48.9030634+00:00",
+  "LastChanged_Achievements": "2023-05-16T15:06:04.5046316+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:57:59.799845+00:00",
-  "LastUpdate_Achievements": "2023-05-16T14:05:48.9032139+00:00"
+  "LastUpdate_Ratings": "2023-05-16T14:57:59.5467647+00:00",
+  "LastUpdate_Achievements": "2023-05-16T15:06:04.5047138+00:00"
 }

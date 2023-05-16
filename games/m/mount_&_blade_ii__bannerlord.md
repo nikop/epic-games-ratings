@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,499 |
-| Landlord | 29.00% | ~14,499 |
-| Lawmaker | 21.00% | ~10,500 |
-| Bannerlord | 20.00% | ~10,000 |
-| Horde breaker | 20.00% | ~10,000 |
-| Trained | 20.00% | ~10,000 |
-| The king is pleased | 16.00% | ~8,000 |
-| King Solomon | 15.00% | ~7,500 |
-| I can do it | 14.00% | ~7,000 |
-| Apple of my eye | 13.00% | ~6,500 |
-| God of the Arena | 12.00% | ~6,000 |
-| Against all odds | 9.00% | ~4,500 |
-| Swordbearer | 9.00% | ~4,500 |
+| Lawbringer | 35.00% | ~17,502 |
+| Landlord | 29.00% | ~14,502 |
+| Lawmaker | 21.00% | ~10,501 |
+| Bannerlord | 20.00% | ~10,001 |
+| Horde breaker | 20.00% | ~10,001 |
+| Trained | 20.00% | ~10,001 |
+| The king is pleased | 16.00% | ~8,001 |
+| King Solomon | 15.00% | ~7,501 |
+| I can do it | 14.00% | ~7,001 |
+| Apple of my eye | 13.00% | ~6,501 |
+| God of the Arena | 12.00% | ~6,001 |
+| Against all odds | 9.00% | ~4,501 |
+| Swordbearer | 9.00% | ~4,501 |
 | Duelist | 8.00% | ~4,000 |
 | Dynasty | 8.00% | ~4,000 |
 | I spit on your grave | 8.00% | ~4,000 |
@@ -36,13 +36,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | Long live the Empire! | 2.00% | ~1,000 |
 | Real Estate | 2.00% | ~1,000 |
 | Supreme Emperor | 1.00% | ~500 |
-| Undercover | 0.80% | ~400 |
 | Crackshot | 0.70% | ~350 |
+| Undercover | 0.70% | ~350 |
 | Fat Cat | 0.60% | ~300 |
 | Catch | 0.50% | ~250 |
 | Slice 'n dice | 0.40% | ~200 |
-| Mounted Archery | 0.30% | ~150 |
 | Ride it like you stole it | 0.30% | ~150 |
+| Mounted Archery | 0.20% | ~100 |
 | Strike! | 0.20% | ~100 |
 | Best served cold | 0.10% | ~50 |
 | Butcher of Calradia | 0.10% | ~50 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,998 (Ranked 74)  
+Progressed: 50,006 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 49,748 | 0 |
 | 2023-05-14 | 49,864 | 0 |
 | 2023-05-15 | 49,956 | 0 |
-| 2023-05-16 | 49,998 | 0 |
+| 2023-05-16 | 50,006 | 0 |
 ## Awards
 Max (Character Customization): 6,537  (Ranked 49)  
 Sum: 13,036 (Ranked 68)  

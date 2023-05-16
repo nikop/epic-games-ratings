@@ -5,20 +5,20 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~975 |
+| Victor | 94.00% | ~976 |
 | World Map | 80.00% | ~830 |
 | Temple of Eternals | 56.00% | ~581 |
-| Prestigious | 52.00% | ~539 |
+| Prestigious | 52.00% | ~540 |
 | Fellowship Power | 40.00% | ~415 |
-| Guild Power | 23.00% | ~239 |
-| Prestigious x10 | 20.00% | ~207 |
+| Guild Power | 24.00% | ~249 |
+| Prestigious x10 | 20.00% | ~208 |
 | The game is on | 17.00% | ~176 |
 | Dragon Clicker | 15.00% | ~156 |
 | Exotic Merchant | 15.00% | ~156 |
 | Inspection | 14.00% | ~145 |
 | Miner Clicker | 14.00% | ~145 |
-| Full Party | 12.00% | ~124 |
-| Hero inspection | 12.00% | ~124 |
+| Full Party | 12.00% | ~125 |
+| Hero inspection | 12.00% | ~125 |
 | Dragon Master | 10.00% | ~104 |
 | Enlightenment | 10.00% | ~104 |
 | Lieutenant | 10.00% | ~104 |
@@ -30,10 +30,10 @@ Rating: 3.64 (Ranked 917)
 | Challenger | 5.00% | ~52 |
 | Daily Quest Completionist | 5.00% | ~52 |
 | Milestone collector | 5.00% | ~52 |
-| Frostfire Liberator | 4.00% | ~41 |
-| Hunter | 4.00% | ~41 |
-| Scroll Master | 4.00% | ~41 |
-| The power of Awakening | 4.00% | ~41 |
+| Frostfire Liberator | 4.00% | ~42 |
+| Hunter | 4.00% | ~42 |
+| Scroll Master | 4.00% | ~42 |
+| The power of Awakening | 4.00% | ~42 |
 | Background Story | 3.00% | ~31 |
 | Here We Go Again | 3.00% | ~31 |
 | How Do You Turn This On? | 3.00% | ~31 |
@@ -54,8 +54,8 @@ Rating: 3.64 (Ranked 917)
 | Four Leaf Clover | 1.00% | ~10 |
 | Lock And Load | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
+| Blueprint Upgrades | 0.80% | ~8 |
 | Crystal Mining | 0.80% | ~8 |
-| Blueprint Upgrades | 0.70% | ~7 |
 | Legendary | 0.70% | ~7 |
 | Sailor | 0.70% | ~7 |
 | Transmute | 0.70% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,037 (Ranked 162)  
+Progressed: 1,038 (Ranked 162)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-13 | 1,001 | 1 |
 | 2023-05-14 | 1,017 | 1 |
 | 2023-05-15 | 1,032 | 1 |
-| 2023-05-16 | 1,037 | 1 |
+| 2023-05-16 | 1,038 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

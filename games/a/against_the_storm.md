@@ -34,10 +34,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.60% | ~89 |
 | Serving Ale | 0.50% | ~74 |
 | Against All Odds | 0.50% | ~74 |
+| Statue of the Forefathers | 0.50% | ~74 |
 | Forsaken Gods Temple | 0.50% | ~74 |
 | Watchtower | 0.50% | ~74 |
 | Forbidden Lands | 0.40% | ~59 |
-| Statue of the Forefathers | 0.40% | ~59 |
 | Defying the Crown | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
 | Efficient Explorer | 0.30% | ~45 |

@@ -50,9 +50,9 @@ Number of Ratings: 125  (23.09.2022)
 | Ghost Town | 3.00% | ~45 |
 | Lord Inut Sends His Regards | 3.00% | ~45 |
 | Moondrunk | 3.00% | ~45 |
+| I Kicked a Bird and I Liked it | 1.00% | ~15 |
 | Hog Wild | 1.00% | ~15 |
 | 'Ma Barker | 1.00% | ~15 |
-| I Kicked a Bird and I Liked it | 0.90% | ~14 |
 | Explorer | 0.50% | ~8 |
 | End the world | 0.50% | ~8 |
 | Moon Hunter | 0.40% | ~6 |

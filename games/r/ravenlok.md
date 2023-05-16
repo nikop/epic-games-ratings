@@ -7,7 +7,7 @@
 | Once Upon a Time | 96.00% | ~622 |
 | Waff! | 94.00% | ~609 |
 | Into the Barn | 88.00% | ~570 |
-| A Prophecy | 85.00% | ~551 |
+| A Prophecy | 86.00% | ~557 |
 | Sword, Shield, Fight! | 76.00% | ~492 |
 | A Grand Visit | 72.00% | ~467 |
 | Vibing | 62.00% | ~402 |
@@ -43,10 +43,10 @@
 | Trick Question! | 31.00% | ~201 |
 | Soul Slayer | 30.00% | ~194 |
 | The Downfall | 30.00% | ~194 |
+| Final Showdown | 30.00% | ~194 |
 | Spot of Tea? | 30.00% | ~194 |
 | Going Home | 30.00% | ~194 |
 | Extraordinary! | 29.00% | ~188 |
-| Final Showdown | 29.00% | ~188 |
 | Mirror, Mirror | 28.00% | ~181 |
 | Flower Power | 25.00% | ~162 |
 | Shopping Spree! | 22.00% | ~143 |
