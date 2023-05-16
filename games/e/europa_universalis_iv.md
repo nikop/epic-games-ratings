@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,384 |
-| That's a Grand Army | 8.00% | ~3,008 |
-| That is mine! | 8.00% | ~3,008 |
-| Victorious! | 8.00% | ~3,008 |
-| Brothers in Arms | 6.00% | ~2,256 |
-| That's a Grand Navy | 6.00% | ~2,256 |
-| Seriously?! | 6.00% | ~2,256 |
-| For the Glory | 5.00% | ~1,880 |
-| Cold War | 4.00% | ~1,504 |
-| True Catholic | 4.00% | ~1,504 |
+| Until death do us apart | 9.00% | ~3,385 |
+| That's a Grand Army | 8.00% | ~3,009 |
+| That is mine! | 8.00% | ~3,009 |
+| Victorious! | 8.00% | ~3,009 |
+| Brothers in Arms | 6.00% | ~2,257 |
+| That's a Grand Navy | 6.00% | ~2,257 |
+| Seriously?! | 6.00% | ~2,257 |
+| For the Glory | 5.00% | ~1,881 |
+| Cold War | 4.00% | ~1,505 |
+| True Catholic | 4.00% | ~1,505 |
 | Defender of the Faith | 3.00% | ~1,128 |
 | It's all about the money | 3.00% | ~1,128 |
 | Respected | 3.00% | ~1,128 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,605 (Ranked 81)  
+Progressed: 37,616 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,16 +387,16 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 36,053 | 0 |
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
-| 2023-05-16 | 37,605 | 0 |
+| 2023-05-16 | 37,616 | 0 |
 ## Awards
 Max (Educational): 5,223  (Ranked 60)  
-Sum: 43,234 (Ranked 27)  
+Sum: 43,238 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,223 |
 | This game is Highly Recommended | 5,004 |
-| This game has Challenging Combat | 4,992 |
+| This game has Challenging Combat | 4,996 |
 | This game is Extremely Fun | 4,962 |
 | This game has Diverse Characters | 4,915 |
 | This game is Relaxing | 4,867 |
@@ -526,3 +526,4 @@ Diff (max vs sum): 33
 | 2023-05-13 | 4.68 | - | 5,216 | 43,160 |
 | 2023-05-14 | 4.68 | - | 5,220 | 43,200 |
 | 2023-05-15 | 4.68 | - | 5,223 | 43,234 |
+| 2023-05-16 | 4.68 | - | 5,223 | 43,238 |

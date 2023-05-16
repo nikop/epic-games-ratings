@@ -12,26 +12,26 @@ Number of Ratings: 7,305  (23.09.2022)
 | Herzlich Wilkommen! | 7.00% | ~38,347 |
 | Sancho Panza | 7.00% | ~38,347 |
 | Good Night & Good Luck | 7.00% | ~38,347 |
-| Under Pressure | 6.00% | ~32,868 |
-| Flag Burning | 6.00% | ~32,868 |
-| Oh, So This Is How It Works! | 6.00% | ~32,868 |
-| Night Hunter | 6.00% | ~32,868 |
-| On the Trail of the Enemy | 5.00% | ~27,390 |
-| Light in the Darkness | 5.00% | ~27,390 |
-| Get Outta My House! | 5.00% | ~27,390 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,390 |
-| Being All Social | 5.00% | ~27,390 |
-| Debris and Ashes | 4.00% | ~21,912 |
-| We Will Be Heard! | 4.00% | ~21,912 |
-| Known Associate | 4.00% | ~21,912 |
-| Brush with Death | 4.00% | ~21,912 |
-| Going Down | 4.00% | ~21,912 |
-| Family First | 4.00% | ~21,912 |
-| Your World, Your Rules | 4.00% | ~21,912 |
-| Tunnel Entrance | 4.00% | ~21,912 |
-| After the Fall | 4.00% | ~21,912 |
-| Can't Touch This! | 4.00% | ~21,912 |
-| Death From Afar | 4.00% | ~21,912 |
+| Under Pressure | 6.00% | ~32,869 |
+| Flag Burning | 6.00% | ~32,869 |
+| Oh, So This Is How It Works! | 6.00% | ~32,869 |
+| Night Hunter | 6.00% | ~32,869 |
+| On the Trail of the Enemy | 5.00% | ~27,391 |
+| Light in the Darkness | 5.00% | ~27,391 |
+| Get Outta My House! | 5.00% | ~27,391 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,391 |
+| Being All Social | 5.00% | ~27,391 |
+| Debris and Ashes | 4.00% | ~21,913 |
+| We Will Be Heard! | 4.00% | ~21,913 |
+| Known Associate | 4.00% | ~21,913 |
+| Brush with Death | 4.00% | ~21,913 |
+| Going Down | 4.00% | ~21,913 |
+| Family First | 4.00% | ~21,913 |
+| Your World, Your Rules | 4.00% | ~21,913 |
+| Tunnel Entrance | 4.00% | ~21,913 |
+| After the Fall | 4.00% | ~21,913 |
+| Can't Touch This! | 4.00% | ~21,913 |
+| Death From Afar | 4.00% | ~21,913 |
 | Terminal Headache | 3.00% | ~16,434 |
 | Slowpoke! | 3.00% | ~16,434 |
 | Tickets, Please! | 2.00% | ~10,956 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~5,478 |
 | Nemesis | 1.00% | ~1,933 |
 | Enter the Hall | 0.90% | ~1,739 |
-| That's Teamwork! | 0.80% | ~4,382 |
-| Fit as a Fiddle | 0.80% | ~4,382 |
+| That's Teamwork! | 0.80% | ~4,383 |
+| Fit as a Fiddle | 0.80% | ~4,383 |
 | Night of Terrors | 0.80% | ~1,546 |
 | Find Anything Interesting? | 0.70% | ~3,835 |
 | Boot Licker | 0.70% | ~3,835 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,808 (Ranked 22)  
+Progressed: 547,815 (Ranked 22)  
 Completed: 47 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 47 (0.01%) (Ranked 191)
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
 | 2023-05-15 | 547,713 | 47 |
-| 2023-05-16 | 547,808 | 47 |
+| 2023-05-16 | 547,815 | 47 |
 ## Awards
 Max (Character Customization): 7,062  (Ranked 44)  
-Sum: 16,394 (Ranked 58)  
+Sum: 16,397 (Ranked 58)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -112,7 +112,7 @@ Diff (max vs sum): -14
 | This game has Amazing Characters | 602 |
 | This game is Extremely Fun | 601 |
 | This game has Diverse Characters | 589 |
-| This game has Quickly Understood Controls | 583 |
+| This game has Quickly Understood Controls | 586 |
 | This game has Amazing Storytelling | 562 |
 | This game is Relaxing | 559 |
 | This game has a Creative Community | 451 |
@@ -244,4 +244,4 @@ Diff (max vs sum): -14
 | 2023-05-13 | 4.57 | - | 7,029 | 16,305 |
 | 2023-05-14 | 4.57 | - | 7,052 | 16,354 |
 | 2023-05-15 | 4.58 | - | 7,062 | 16,390 |
-| 2023-05-16 | 4.57 | - | 7,062 | 16,394 |
+| 2023-05-16 | 4.57 | - | 7,062 | 16,397 |

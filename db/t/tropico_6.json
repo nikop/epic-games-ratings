@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2855,
+  "EOS_Progressed": 2856,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2122,6 +2122,11 @@
       "Time": "2023-05-16T05:07:11.522493+00:00",
       "NumProgressed": 2855,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T09:06:59.0772351+00:00",
+      "NumProgressed": 2856,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2205,7 +2210,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -2253,7 +2258,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2285,7 +2290,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2293,7 +2298,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2405,7 +2410,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2452,15 +2457,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2855,
+      "Progressed": 2856,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:07:31.3324725+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:59.0772346+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-16T08:01:15.8174891+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:07:31.3325165+00:00"
+  "LastUpdate_Ratings": "2023-05-16T09:01:01.559109+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:59.0772739+00:00"
 }

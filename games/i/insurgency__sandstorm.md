@@ -8,13 +8,13 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~18,456 |
 | Wallbanger | 5.00% | ~18,456 |
-| Exploitative | 4.00% | ~14,764 |
-| High Speed Low Drag | 4.00% | ~14,764 |
-| Wet Feet | 4.00% | ~14,764 |
-| Checkpoint Victory | 3.00% | ~11,073 |
-| Lucky | 3.00% | ~11,073 |
-| Stylin' | 3.00% | ~11,073 |
-| Turf War | 3.00% | ~11,073 |
+| Exploitative | 4.00% | ~14,765 |
+| High Speed Low Drag | 4.00% | ~14,765 |
+| Wet Feet | 4.00% | ~14,765 |
+| Checkpoint Victory | 3.00% | ~11,074 |
+| Lucky | 3.00% | ~11,074 |
+| Stylin' | 3.00% | ~11,074 |
+| Turf War | 3.00% | ~11,074 |
 | Banged | 2.00% | ~7,382 |
 | First Blood | 2.00% | ~7,382 |
 | Flaccid Paralysis | 2.00% | ~7,382 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~369 |
 | Road Hazard | 0.10% | ~369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369,110 (Ranked 35)  
+Progressed: 369,125 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,10 +68,10 @@ Completed: 2 (0.00%) (Ranked 199)
 | 2023-05-13 | 367,658 | 2 |
 | 2023-05-14 | 368,463 | 2 |
 | 2023-05-15 | 368,937 | 2 |
-| 2023-05-16 | 369,110 | 2 |
+| 2023-05-16 | 369,125 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 350  (Ranked 210)  
-Sum: 2,646 (Ranked 162)  
+Sum: 2,647 (Ranked 162)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -80,7 +80,7 @@ Diff (max vs sum): 48
 | This game is Extremely Fun | 314 |
 | This game has Competitive Players | 310 |
 | This game has Amazing Storytelling | 283 |
-| This game has Realistic Visuals | 281 |
+| This game has Realistic Visuals | 282 |
 | This game is Highly Recommended | 279 |
 | This game has Amazing Characters | 277 |
 | This game has a Competitive Community | 234 |
@@ -214,3 +214,4 @@ Diff (max vs sum): 48
 | 2023-05-13 | 4.61 | - | 350 | 2,638 |
 | 2023-05-14 | 4.61 | - | 350 | 2,640 |
 | 2023-05-15 | 4.61 | - | 350 | 2,646 |
+| 2023-05-16 | 4.61 | - | 350 | 2,647 |

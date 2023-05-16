@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2096,9 +2096,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 46020,
+  "EOS_Progressed": 46021,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1686,
+  "EOS_NewPlayers": 1675,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3686,6 +3686,11 @@
       "Time": "2023-05-16T05:07:11.5161662+00:00",
       "NumProgressed": 46020,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-05-16T09:06:58.9742416+00:00",
+      "NumProgressed": 46021,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 45,
@@ -3721,7 +3726,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 36356
+      "UsersEstimate": 36357
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -3817,7 +3822,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 21169
+      "UsersEstimate": 21170
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -3833,7 +3838,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 21629
+      "UsersEstimate": 21630
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -3841,7 +3846,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 16567
+      "UsersEstimate": 16568
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -3849,7 +3854,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 14266
+      "UsersEstimate": 14267
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -3865,7 +3870,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10124
+      "UsersEstimate": 10125
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -3889,7 +3894,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 26231
+      "UsersEstimate": 26232
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -3961,7 +3966,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 44639
+      "UsersEstimate": 44640
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -4001,7 +4006,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 32674
+      "UsersEstimate": 32675
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -4017,7 +4022,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16567
+      "UsersEstimate": 16568
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -4049,22 +4054,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 33134
+      "UsersEstimate": 33135
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 46020,
+      "Progressed": 46021,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-16T08:01:45.4306925+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:07:31.1270092+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:58.9742411+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:26.2031618+00:00",
-  "LastUpdate_Ratings": "2023-05-16T08:01:45.4306931+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:07:31.1270787+00:00"
+  "LastUpdate_Ratings": "2023-05-16T09:01:29.9819023+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:58.9742894+00:00"
 }

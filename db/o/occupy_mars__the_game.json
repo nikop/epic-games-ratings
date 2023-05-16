@@ -4,8 +4,8 @@
   "ProductSlug": "occupy-mars",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -462,8 +462,8 @@
   ],
   "FirstSeen": "2023-05-10T20:57:26.0655367+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:03:35.1893239+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:03:20.0139552+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.3951133+00:00",
-  "LastUpdate_Ratings": "2023-05-16T07:57:50.9835926+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:03:35.189368+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:57:39.4012803+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:03:20.0140211+00:00"
 }

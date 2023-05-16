@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -1845,9 +1845,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 414
     },
     {
       "ID": "fourleafclover",
@@ -1973,9 +1973,9 @@
       "ID": "masterenchanter",
       "SetID": "3nl4bcg",
       "Name": "Master Enchanter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 21
     },
     {
       "ID": "mastery",
@@ -2093,9 +2093,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "silverwoodliberator",
@@ -2189,9 +2189,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "transmute",
@@ -2270,8 +2270,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:07:00.997952+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:29.0110562+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T07:58:32.5850864+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:07:00.9980445+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:58:21.4927365+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:29.011206+00:00"
 }

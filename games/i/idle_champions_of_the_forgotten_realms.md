@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,633 (Ranked 59)  
+Progressed: 87,638 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,10 +522,10 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,633 | 1,843 |
+| 2023-05-16 | 87,638 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
-Sum: 29,893 (Ranked 37)  
+Sum: 29,894 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -535,7 +535,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,487 |
 | This game is Highly Recommended | 3,938 |
 | This game has Amazing Characters | 3,938 |
-| This game has Playful Visuals | 3,234 |
+| This game has Playful Visuals | 3,235 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -649,3 +649,4 @@ Diff (max vs sum): 26
 | 2023-05-13 | 4.06 | - | 4,877 | 29,873 |
 | 2023-05-14 | 4.06 | - | 4,878 | 29,881 |
 | 2023-05-15 | 4.06 | - | 4,880 | 29,893 |
+| 2023-05-16 | 4.06 | - | 4,880 | 29,894 |

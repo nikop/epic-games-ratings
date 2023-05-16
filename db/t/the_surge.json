@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -295,9 +295,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4216,
+  "EOS_Progressed": 4217,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -440,6 +440,11 @@
       "Time": "2023-05-15T02:07:08.9356588+00:00",
       "NumProgressed": 4216,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-16T09:06:16.4232245+00:00",
+      "NumProgressed": 4217,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -467,7 +472,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -491,7 +496,7 @@
       "Name": "For the Good of Mankind",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -499,7 +504,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -507,7 +512,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -515,7 +520,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -539,7 +544,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -563,7 +568,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -595,7 +600,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -603,7 +608,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -667,7 +672,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -683,7 +688,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -691,7 +696,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -731,7 +736,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -779,7 +784,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -787,7 +792,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -803,7 +808,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -986,15 +991,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4216,
+      "Progressed": 4217,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-13T23:57:53.8271899+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:06:47.9933034+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:16.4232241+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.7493365+00:00",
-  "LastUpdate_Ratings": "2023-05-16T07:58:28.873782+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:06:47.9933783+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:58:17.8851752+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:16.4233286+00:00"
 }

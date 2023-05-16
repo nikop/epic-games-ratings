@@ -9,7 +9,7 @@ Rating: 3.64 (Ranked 917)
 | World Map | 80.00% | ~827 |
 | Temple of Eternals | 56.00% | ~579 |
 | Prestigious | 52.00% | ~538 |
-| Fellowship Power | 39.00% | ~403 |
+| Fellowship Power | 40.00% | ~414 |
 | Guild Power | 23.00% | ~238 |
 | Prestigious x10 | 20.00% | ~207 |
 | The game is on | 17.00% | ~176 |
@@ -32,17 +32,18 @@ Rating: 3.64 (Ranked 917)
 | Milestone collector | 5.00% | ~52 |
 | Frostfire Liberator | 4.00% | ~41 |
 | Hunter | 4.00% | ~41 |
+| Scroll Master | 4.00% | ~41 |
 | Background Story | 3.00% | ~31 |
 | Here We Go Again | 3.00% | ~31 |
 | Mastery | 3.00% | ~31 |
 | Missions Dedication | 3.00% | ~31 |
 | Moving Up The Ladder | 3.00% | ~31 |
-| Scroll Master | 3.00% | ~31 |
 | The Expeditioner | 3.00% | ~31 |
 | The power of Awakening | 3.00% | ~31 |
 | Ancient Knowledge | 2.00% | ~21 |
 | Doing My Part | 2.00% | ~21 |
 | How Do You Turn This On? | 2.00% | ~21 |
+| Master Enchanter | 2.00% | ~21 |
 | The father of Dragons | 2.00% | ~21 |
 | Trader | 2.00% | ~21 |
 | Weekly Quest Completionist | 2.00% | ~21 |
@@ -52,7 +53,6 @@ Rating: 3.64 (Ranked 917)
 | Engineer Mastery | 1.00% | ~10 |
 | Four Leaf Clover | 1.00% | ~10 |
 | Lock And Load | 1.00% | ~10 |
-| Master Enchanter | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
 | Crystal Mining | 0.80% | ~8 |
 | Blueprint Upgrades | 0.70% | ~7 |
@@ -63,10 +63,10 @@ Rating: 3.64 (Ranked 917)
 | Transmute | 0.60% | ~6 |
 | Enchanting skill | 0.50% | ~5 |
 | The Alchemist | 0.50% | ~5 |
+| Training makes a Pro player | 0.50% | ~5 |
 | Gear Enchanting | 0.40% | ~4 |
 | Mythic Power | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
-| Training makes a Pro player | 0.40% | ~4 |
 | Guardian Master | 0.30% | ~3 |
 | Arena Challenger | 0.20% | ~2 |
 | Beast War Machines | 0.20% | ~2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,7 +981,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5336,
+  "EOS_Progressed": 5337,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
@@ -2931,6 +2931,11 @@
       "Time": "2023-05-16T08:07:26.1201284+00:00",
       "NumProgressed": 5336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T09:06:54.2548853+00:00",
+      "NumProgressed": 5337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2974,7 +2979,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "14",
@@ -3022,7 +3027,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "2",
@@ -3054,7 +3059,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "23",
@@ -3062,7 +3067,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "24",
@@ -3150,7 +3155,7 @@
       "Name": "Around the World",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "34",
@@ -3190,7 +3195,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "39",
@@ -3413,15 +3418,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5336,
+      "Progressed": 5337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:07:26.1201278+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:54.2548848+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-16T08:00:56.2831194+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:07:26.1202215+00:00"
+  "LastUpdate_Ratings": "2023-05-16T09:00:42.6894055+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:54.2549648+00:00"
 }

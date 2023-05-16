@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -3031,9 +3031,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 680686,
+  "EOS_Progressed": 680687,
   "EOS_Completed": 6103,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -5321,6 +5321,11 @@
       "Time": "2023-05-16T08:06:46.3060465+00:00",
       "NumProgressed": 680686,
       "NumCompleted": 6103
+    },
+    {
+      "Time": "2023-05-16T09:06:14.743847+00:00",
+      "NumProgressed": 680687,
+      "NumCompleted": 6103
     }
   ],
   "TotalAchievements": 49,
@@ -5372,7 +5377,7 @@
       "Name": "Haste of Hermes",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 74875
+      "UsersEstimate": 74876
     },
     {
       "ID": "AchCerberusPets",
@@ -5396,7 +5401,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 544549
+      "UsersEstimate": 544550
     },
     {
       "ID": "AchClearElysium",
@@ -5420,7 +5425,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 122523
+      "UsersEstimate": 122524
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -5484,7 +5489,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 129330
+      "UsersEstimate": 129331
     },
     {
       "ID": "AchFoundSummon",
@@ -5500,7 +5505,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 462866
+      "UsersEstimate": 462867
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -5556,7 +5561,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 428832
+      "UsersEstimate": 428833
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -5644,7 +5649,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 176978
+      "UsersEstimate": 176979
     },
     {
       "ID": "AchReachedEpilogue",
@@ -5684,7 +5689,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 285888
+      "UsersEstimate": 285889
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -5692,7 +5697,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 483287
+      "UsersEstimate": 483288
     },
     {
       "ID": "AchWeaponClears",
@@ -5708,7 +5713,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 272274
+      "UsersEstimate": 272275
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -5723,15 +5728,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 680686,
+      "Progressed": 680687,
       "Completed": 6103
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-05-14T23:57:41.1593061+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:06:46.306046+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:14.7438461+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.2806221+00:00",
-  "LastUpdate_Ratings": "2023-05-16T07:58:03.9840205+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:06:46.3061017+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:57:52.3981258+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:14.7439021+00:00"
 }

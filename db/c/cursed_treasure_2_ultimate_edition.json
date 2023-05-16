@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -302,9 +302,9 @@
       "ID": "BADGE_BUILDINGS_CAPTURE",
       "SetID": "ak6pfjk",
       "Name": "Takeover",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -478,9 +478,9 @@
       "ID": "BADGE_STASIS_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Stasis Alcatraz",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "BADGE_THUNDER_COUNT",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:07:02.9188832+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:31.0401567+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:31.9076697+00:00",
-  "LastUpdate_Ratings": "2023-05-16T07:59:19.9551389+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:07:02.9189298+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:59:07.1537792+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:31.0402044+00:00"
 }

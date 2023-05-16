@@ -5,13 +5,13 @@ Rating: 4.74 (Ranked 140)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,900 |
-| No more cages! | 92.00% | ~1,840 |
-| Everfrost | 77.00% | ~1,540 |
-| Dark Forest | 77.00% | ~1,540 |
-| Pentakill | 76.00% | ~1,520 |
-| The use of petricite | 73.00% | ~1,460 |
-| You can pet the dog | 60.00% | ~1,200 |
+| For Demacia | 95.00% | ~1,901 |
+| No more cages! | 92.00% | ~1,841 |
+| Everfrost | 77.00% | ~1,541 |
+| Pentakill | 76.00% | ~1,521 |
+| Dark Forest | 76.00% | ~1,521 |
+| The use of petricite | 73.00% | ~1,461 |
+| You can pet the dog | 60.00% | ~1,201 |
 | Big Helmet Bro | 34.00% | ~680 |
 | Clarion Cove | 34.00% | ~680 |
 | Past trauma | 32.00% | ~640 |
@@ -32,16 +32,16 @@ Rating: 4.74 (Ranked 140)
 | Glyndemere | 18.00% | ~360 |
 | Iffighain Headquarters | 18.00% | ~360 |
 | Full equipped | 17.00% | ~340 |
-| Whispers in the Woods II | 16.00% | ~320 |
+| Whispers in the Woods II | 15.00% | ~300 |
 | No more holding back | 14.00% | ~280 |
 | Terbisia | 14.00% | ~280 |
 | Quickmoore Headquarters | 14.00% | ~280 |
 | Whispers in the Woods III | 13.00% | ~260 |
 | Friendly fire | 13.00% | ~260 |
-| The Central Headquarters | 13.00% | ~260 |
 | My heart and sword always for Demacia | 12.00% | ~240 |
 | True power | 12.00% | ~240 |
 | Meltridge | 12.00% | ~240 |
+| The Central Headquarters | 12.00% | ~240 |
 | Cloven Dell Headquarters | 12.00% | ~240 |
 | Whispers in the Woods IV | 11.00% | ~220 |
 | Embrace the darkness | 10.00% | ~200 |
@@ -59,7 +59,7 @@ Rating: 4.74 (Ranked 140)
 | Silverwing nest | 2.00% | ~40 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,000 (Ranked 143)  
+Progressed: 2,001 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.05%) (Ranked 172)
 | 2023-05-13 | 1,986 | 1 |
 | 2023-05-14 | 1,994 | 1 |
 | 2023-05-15 | 1,997 | 1 |
-| 2023-05-16 | 2,000 | 1 |
+| 2023-05-16 | 2,001 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

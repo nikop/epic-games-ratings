@@ -2175,9 +2175,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 521065,
+  "EOS_Progressed": 521066,
   "EOS_Completed": 1408,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -4565,6 +4565,11 @@
       "Time": "2023-05-16T08:07:04.5518679+00:00",
       "NumProgressed": 521065,
       "NumCompleted": 1408
+    },
+    {
+      "Time": "2023-05-16T09:06:32.6566984+00:00",
+      "NumProgressed": 521066,
+      "NumCompleted": 1408
     }
   ],
   "TotalAchievements": 37,
@@ -4576,7 +4581,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67738
+      "UsersEstimate": 67739
     },
     {
       "ID": "COASTROCK",
@@ -4632,7 +4637,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 432484
+      "UsersEstimate": 432485
     },
     {
       "ID": "HONED",
@@ -4744,7 +4749,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67738
+      "UsersEstimate": 67739
     },
     {
       "ID": "THE_IRON_ONES",
@@ -4760,7 +4765,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67738
+      "UsersEstimate": 67739
     },
     {
       "ID": "THE_LAKE",
@@ -4848,7 +4853,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83370
+      "UsersEstimate": 83371
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -4871,15 +4876,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 521065,
+      "Progressed": 521066,
       "Completed": 1408
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-15T02:01:14.7127349+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:07:04.5518673+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:32.6566979+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:14.6878817+00:00",
-  "LastUpdate_Ratings": "2023-05-16T08:00:12.4311248+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:07:04.5519201+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:59:57.9270029+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:32.656741+00:00"
 }

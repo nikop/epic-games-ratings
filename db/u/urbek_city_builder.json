@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -146,6 +146,11 @@
     {
       "Time": "2023-05-14T17:06:10.4691286+00:00",
       "NumProgressed": 148,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T09:06:40.5294791+00:00",
+      "NumProgressed": 149,
       "NumCompleted": 0
     }
   ],
@@ -372,9 +377,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "FAITH_2",
@@ -484,9 +489,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -508,9 +513,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MILLS",
@@ -540,9 +545,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -588,9 +593,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "POPULATION_2",
@@ -678,7 +683,7 @@
       "Name": "Sport is good for you",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "SPORTS_2",
@@ -789,7 +794,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 0
     }
   ],
@@ -797,8 +802,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-16T08:07:12.1772887+00:00",
+  "LastChanged_Achievements": "2023-05-16T09:06:40.5294783+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:46.5645676+00:00",
-  "LastUpdate_Ratings": "2023-05-16T07:59:37.6323684+00:00",
-  "LastUpdate_Achievements": "2023-05-16T08:07:12.1773783+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:59:24.2503278+00:00",
+  "LastUpdate_Achievements": "2023-05-16T09:06:40.5296294+00:00"
 }
