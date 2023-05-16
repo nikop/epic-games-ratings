@@ -69,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.30% | ~263 |
 | The Darkness Runs Deeper | 0.30% | ~263 |
 | An Even Worse Time in Avernus | 0.30% | ~162 |
+| The Everlasting Rime | 0.30% | ~162 |
 | Close Escort | 0.30% | ~263 |
 | Constant Banditry | 0.30% | ~263 |
 | Overdue Rendezvous | 0.30% | ~263 |
@@ -205,6 +206,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.20% | ~175 |
 | A Hero's Entourage | 0.20% | ~175 |
 | Lair of the Xanathar | 0.20% | ~175 |
+| Dreams of Beholders | 0.20% | ~175 |
 | Waterdeep Under Siege | 0.20% | ~175 |
 | Crowded Streets | 0.20% | ~175 |
 | The Sunless Citadel | 0.20% | ~175 |
@@ -239,6 +241,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~108 |
 | Bad Odds in Avernus | 0.20% | ~108 |
 | The Lost Hollyphant | 0.20% | ~108 |
+| Alterdeep | 0.20% | ~108 |
 | Ulkoria's Escape from Alterdeep | 0.20% | ~108 |
 | The Wandering Emporium | 0.20% | ~108 |
 | Tiamat's Army | 0.20% | ~108 |
@@ -250,7 +253,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.20% | ~108 |
 | Giant-Size Adventure | 0.20% | ~108 |
 | Power of Three | 0.20% | ~108 |
-| The Everlasting Rime | 0.20% | ~108 |
 | Enemy Summit | 0.20% | ~108 |
 | Mirage Arcane | 0.20% | ~108 |
 | The Long Haul | 0.20% | ~175 |
@@ -393,7 +395,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Champions | 0.10% | ~88 |
 | A Tale of Two Years | 0.10% | ~54 |
 | Sneak Attack | 0.10% | ~54 |
-| Dreams of Beholders | 0.10% | ~88 |
 | Feigned Weakness | 0.10% | ~88 |
 | DPS in the Deeps | 0.10% | ~54 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~88 |
@@ -438,7 +439,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Trials | 0.10% | ~54 |
 | Zapper Overload | 0.10% | ~54 |
 | Best Friend Search Squad! | 0.10% | ~54 |
-| Alterdeep | 0.10% | ~54 |
 | Elder Rune Attack | 0.10% | ~54 |
 | The Gargoyle | 0.10% | ~54 |
 | Madcap Adventures Redux | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,617 (Ranked 59)  
+Progressed: 87,620 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,617 | 1,843 |
+| 2023-05-16 | 87,620 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,893 (Ranked 37)  

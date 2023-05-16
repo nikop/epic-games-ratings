@@ -4,7 +4,7 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 70,
   "Ranking_Popularity": 299,
-  "Ranking_PopularitySum": 323,
+  "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 270,
@@ -617,10 +617,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 318,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2023-05-16T03:58:02.3753012+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 318,
+  "NumberOfAwards": 319,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -640,7 +646,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Relaxing",
@@ -684,8 +690,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-05-14T11:57:48.2320959+00:00",
+  "LastChanged": "2023-05-16T03:58:02.3753011+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:47.1459822+00:00",
-  "LastUpdate_Ratings": "2023-05-16T02:58:13.0011469+00:00",
-  "LastUpdate_Achievements": "2023-05-16T03:03:45.8940162+00:00"
+  "LastUpdate_Ratings": "2023-05-16T03:58:02.3753019+00:00",
+  "LastUpdate_Achievements": "2023-05-16T04:03:38.6144556+00:00"
 }

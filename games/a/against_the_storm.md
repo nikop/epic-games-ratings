@@ -24,13 +24,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 0.70% | ~104 |
 | Royal Outpost | 0.70% | ~104 |
 | Cursed Lands | 0.70% | ~104 |
+| A Real Challenge | 0.70% | ~104 |
 | Sparkdew Crystals | 0.60% | ~89 |
 | Dangerous Lands | 0.60% | ~89 |
 | Haunted Forest | 0.60% | ~89 |
 | Levitating Monument | 0.60% | ~89 |
 | Monastery of the Holy Flame | 0.60% | ~89 |
 | Corrosive Torrent | 0.60% | ~89 |
-| A Real Challenge | 0.60% | ~89 |
 | Serving Ale | 0.50% | ~74 |
 | Refinery | 0.50% | ~74 |
 | Against All Odds | 0.50% | ~74 |

@@ -3730,9 +3730,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87617,
+  "EOS_Progressed": 87620,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6070,6 +6070,11 @@
       "Time": "2023-05-16T03:07:11.4643081+00:00",
       "NumProgressed": 87617,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T04:07:04.4193911+00:00",
+      "NumProgressed": 87620,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -8311,9 +8316,9 @@
       "ID": "objective_completed_551",
       "SetID": "cc37lbc",
       "Name": "Dreams of Beholders",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_552",
@@ -8975,9 +8980,9 @@
       "ID": "objective_completed_655",
       "SetID": "415jc5c",
       "Name": "Alterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_656",
@@ -9191,9 +9196,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_completed_696",
@@ -9992,21 +9997,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53891,
+      "Progressed": 53894,
       "Completed": 2512
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87617,
+      "Progressed": 87620,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T22:57:36.8689684+00:00",
-  "LastChanged_Achievements": "2023-05-16T03:07:11.464307+00:00",
+  "LastChanged_Achievements": "2023-05-16T04:07:04.4193906+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T02:58:25.9991052+00:00",
-  "LastUpdate_Achievements": "2023-05-16T03:07:11.4678164+00:00"
+  "LastUpdate_Ratings": "2023-05-16T03:58:15.0752216+00:00",
+  "LastUpdate_Achievements": "2023-05-16T04:07:04.4214056+00:00"
 }

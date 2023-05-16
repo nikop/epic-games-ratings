@@ -5,13 +5,13 @@ Rating: 4.74 (Ranked 140)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,899 |
-| No more cages! | 92.00% | ~1,839 |
-| Everfrost | 77.00% | ~1,539 |
-| Pentakill | 76.00% | ~1,519 |
-| Dark Forest | 76.00% | ~1,519 |
-| The use of petricite | 73.00% | ~1,459 |
-| You can pet the dog | 60.00% | ~1,199 |
+| For Demacia | 95.00% | ~1,900 |
+| No more cages! | 92.00% | ~1,840 |
+| Everfrost | 77.00% | ~1,540 |
+| Dark Forest | 77.00% | ~1,540 |
+| Pentakill | 76.00% | ~1,520 |
+| The use of petricite | 73.00% | ~1,460 |
+| You can pet the dog | 60.00% | ~1,200 |
 | Big Helmet Bro | 34.00% | ~680 |
 | Clarion Cove | 34.00% | ~680 |
 | Past trauma | 32.00% | ~640 |
@@ -57,9 +57,9 @@ Rating: 4.74 (Ranked 140)
 | The great mage rebellion starts now | 7.00% | ~140 |
 | Spellcrafting | 7.00% | ~140 |
 | Silverwing nest | 2.00% | ~40 |
-| The Unshackled | 0.60% | ~12 |
+| The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,999 (Ranked 143)  
+Progressed: 2,000 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1 (0.05%) (Ranked 172)
 | 2023-05-13 | 1,986 | 1 |
 | 2023-05-14 | 1,994 | 1 |
 | 2023-05-15 | 1,997 | 1 |
-| 2023-05-16 | 1,999 | 1 |
+| 2023-05-16 | 2,000 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

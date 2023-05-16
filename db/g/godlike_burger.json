@@ -333,9 +333,9 @@
       "ID": "GB_SCATTERBRAIN",
       "SetID": "8ga3kd9",
       "Name": "SCATTERBRAIN",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "GB_TASTE_UNTASTY",
@@ -374,8 +374,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-03-31T05:57:15.2354538+00:00",
-  "LastChanged_Achievements": "2023-05-16T03:06:24.611902+00:00",
+  "LastChanged_Achievements": "2023-05-16T04:06:17.9199063+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.2737606+00:00",
-  "LastUpdate_Ratings": "2023-05-16T02:58:49.7104712+00:00",
-  "LastUpdate_Achievements": "2023-05-16T03:06:24.6119243+00:00"
+  "LastUpdate_Ratings": "2023-05-16T03:58:37.5623081+00:00",
+  "LastUpdate_Achievements": "2023-05-16T04:06:17.9199307+00:00"
 }

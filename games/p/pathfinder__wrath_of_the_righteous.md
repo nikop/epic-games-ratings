@@ -48,9 +48,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | End of Eternal Guard | 0.70% | ~62 |
 | This Wall Won't Fall | 0.70% | ~53 |
 | The Final Threshold | 0.60% | ~53 |
+| Path of the Dragon | 0.60% | ~53 |
 | Strategic Victory | 0.60% | ~53 |
 | Not the Last Sarkorian | 0.60% | ~46 |
-| Path of the Dragon | 0.50% | ~44 |
 | Path of the Legend | 0.50% | ~44 |
 | Playful Mood | 0.50% | ~44 |
 | Dreadful Dragon | 0.50% | ~44 |

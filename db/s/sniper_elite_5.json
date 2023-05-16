@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -509,6 +509,11 @@
       "Time": "2023-05-15T18:04:58.7829871+00:00",
       "NumProgressed": 721,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-16T04:06:12.3913926+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -656,7 +661,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -720,7 +725,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -768,7 +773,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -912,7 +917,7 @@
       "Name": "Target America",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -1063,13 +1068,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 2
     }
   ],
@@ -1077,8 +1082,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-10T07:59:52.1521716+00:00",
-  "LastChanged_Achievements": "2023-05-16T03:06:19.2124204+00:00",
+  "LastChanged_Achievements": "2023-05-16T04:06:12.3913919+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-16T03:01:39.0319838+00:00",
-  "LastUpdate_Achievements": "2023-05-16T03:06:19.2124899+00:00"
+  "LastUpdate_Ratings": "2023-05-16T04:01:22.5170623+00:00",
+  "LastUpdate_Achievements": "2023-05-16T04:06:12.3914655+00:00"
 }

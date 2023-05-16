@@ -8,23 +8,23 @@ Number of Ratings: 836  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~3,732 |
 | Leader | 60.00% | ~3,199 |
-| Explorer | 53.00% | ~2,825 |
-| Healer | 53.00% | ~2,825 |
+| Explorer | 53.00% | ~2,826 |
+| Healer | 53.00% | ~2,826 |
 | Aspiring Inventor | 45.00% | ~2,399 |
 | Adventurer | 41.00% | ~2,186 |
 | Famous Healer | 38.00% | ~2,026 |
 | Local Leader | 35.00% | ~1,866 |
 | New Opportunities | 34.00% | ~1,813 |
-| Famous Explorer | 33.00% | ~1,759 |
-| Energized | 33.00% | ~1,759 |
-| The Long Haul | 33.00% | ~1,759 |
+| Famous Explorer | 33.00% | ~1,760 |
+| Energized | 33.00% | ~1,760 |
+| The Long Haul | 33.00% | ~1,760 |
 | Survivor | 31.00% | ~1,653 |
-| The Great Healer | 30.00% | ~1,599 |
+| The Great Healer | 30.00% | ~1,600 |
 | Cleaner | 28.00% | ~1,493 |
 | Catastrofan | 28.00% | ~1,493 |
-| Legendary Explorer | 27.00% | ~1,439 |
+| Legendary Explorer | 27.00% | ~1,440 |
 | Finders, Keepers | 25.00% | ~1,333 |
-| Top Notch | 24.00% | ~1,279 |
+| Top Notch | 24.00% | ~1,280 |
 | Great Leader | 22.00% | ~1,173 |
 | Ice Lakes | 22.00% | ~1,173 |
 | Mentor | 22.00% | ~1,173 |
@@ -42,7 +42,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 12.00% | ~640 |
 | It's a Finnish Thing | 10.00% | ~533 |
 | Sky Burial | 9.00% | ~480 |
-| Trader | 8.00% | ~426 |
+| Trader | 8.00% | ~427 |
 | Bread and Circuses | 7.00% | ~373 |
 | Tailored to fit | 7.00% | ~373 |
 | Really Friendly | 6.00% | ~320 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,331 (Ranked 120)  
+Progressed: 5,332 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 5,242 | 0 |
 | 2023-05-14 | 5,285 | 0 |
 | 2023-05-15 | 5,326 | 0 |
-| 2023-05-16 | 5,331 | 0 |
+| 2023-05-16 | 5,332 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

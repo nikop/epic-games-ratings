@@ -11,7 +11,7 @@ Rating: 4.31 (Ranked 753)
 | Monster Hunter | 54.00% | ~457 |
 | Earning Trust | 51.00% | ~432 |
 | Monster Slayer | 30.00% | ~254 |
-| Awakening | 23.00% | ~195 |
+| Awakening | 24.00% | ~203 |
 | Huntmaster | 22.00% | ~186 |
 | Complete the sidequest 'Malice and Greed' | 18.00% | ~152 |
 | House Vulisica's Heirloom | 14.00% | ~119 |

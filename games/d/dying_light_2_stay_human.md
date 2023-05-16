@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,299 |
-| Into the Unknown | 8.00% | ~43,821 |
-| First Shot | 8.00% | ~43,821 |
+| You Never Forget Your First... | 9.00% | ~49,300 |
+| Into the Unknown | 8.00% | ~43,822 |
+| First Shot | 8.00% | ~43,822 |
 | Herzlich Wilkommen! | 7.00% | ~38,344 |
 | Sancho Panza | 7.00% | ~38,344 |
 | Good Night & Good Luck | 7.00% | ~38,344 |
-| Under Pressure | 6.00% | ~32,866 |
-| Flag Burning | 6.00% | ~32,866 |
-| Oh, So This Is How It Works! | 6.00% | ~32,866 |
-| Night Hunter | 6.00% | ~32,866 |
-| On the Trail of the Enemy | 5.00% | ~27,388 |
-| Light in the Darkness | 5.00% | ~27,388 |
-| Get Outta My House! | 5.00% | ~27,388 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,388 |
-| Being All Social | 5.00% | ~27,388 |
+| Under Pressure | 6.00% | ~32,867 |
+| Flag Burning | 6.00% | ~32,867 |
+| Oh, So This Is How It Works! | 6.00% | ~32,867 |
+| Night Hunter | 6.00% | ~32,867 |
+| On the Trail of the Enemy | 5.00% | ~27,389 |
+| Light in the Darkness | 5.00% | ~27,389 |
+| Get Outta My House! | 5.00% | ~27,389 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,389 |
+| Being All Social | 5.00% | ~27,389 |
 | Debris and Ashes | 4.00% | ~21,911 |
 | We Will Be Heard! | 4.00% | ~21,911 |
 | Known Associate | 4.00% | ~21,911 |
@@ -34,10 +34,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~21,911 |
 | Terminal Headache | 3.00% | ~16,433 |
 | Slowpoke! | 3.00% | ~16,433 |
-| Tickets, Please! | 2.00% | ~10,955 |
-| Parkour Master | 2.00% | ~10,955 |
-| Combat Master | 2.00% | ~10,955 |
-| You're Going Down! | 2.00% | ~10,955 |
+| Tickets, Please! | 2.00% | ~10,956 |
+| Parkour Master | 2.00% | ~10,956 |
+| Combat Master | 2.00% | ~10,956 |
+| You're Going Down! | 2.00% | ~10,956 |
 | Municipal Services | 1.00% | ~5,478 |
 | Tube Map | 1.00% | ~5,478 |
 | Don Quixote | 1.00% | ~5,478 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,766 (Ranked 22)  
+Progressed: 547,776 (Ranked 22)  
 Completed: 47 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 47 (0.01%) (Ranked 191)
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
 | 2023-05-15 | 547,713 | 47 |
-| 2023-05-16 | 547,766 | 47 |
+| 2023-05-16 | 547,776 | 47 |
 ## Awards
 Max (Character Customization): 7,062  (Ranked 44)  
 Sum: 16,390 (Ranked 58)  
