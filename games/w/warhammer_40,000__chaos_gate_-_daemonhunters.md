@@ -7,7 +7,7 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 31.00% | ~806 |
-| Look Over There! | 27.00% | ~702 |
+| Look Over There! | 28.00% | ~728 |
 | Watch Where You Step... | 27.00% | ~702 |
 | Not So Fast... | 26.00% | ~676 |
 | An Ill Omen | 25.00% | ~650 |
@@ -90,8 +90,8 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 2,600 | 0 |
 ## Awards
 Max (Character Customization): 208  (Ranked 254)  
-Sum: 417 (Ranked 297)  
-Diff (max vs sum): -43  
+Sum: 417 (Ranked 298)  
+Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 208 |

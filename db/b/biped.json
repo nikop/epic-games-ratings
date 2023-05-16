@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1271,6 +1271,11 @@
       "Time": "2023-05-15T20:04:30.458584+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T02:07:49.1223253+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1338,7 +1343,7 @@
       "Name": "Dense Forest",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "3",
@@ -1394,14 +1399,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 10,
       "XP": 65,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 0
     }
   ],
@@ -1409,8 +1414,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:04:38.563794+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:07:49.1223243+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.6922017+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:57:36.2752675+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:04:38.5638078+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:00:13.3004162+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:07:49.1223527+00:00"
 }

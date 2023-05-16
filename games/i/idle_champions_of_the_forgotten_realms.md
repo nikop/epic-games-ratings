@@ -11,9 +11,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 2.00% | ~1,078 |
 | Pin and Skewer | 1.00% | ~539 |
 | The Cursed Farmer | 1.00% | ~876 |
-| Beast Intentions | 0.90% | ~788 |
+| Beast Intentions | 0.90% | ~789 |
 | Bully for Vecna | 0.90% | ~485 |
-| The Mad Wizard | 0.90% | ~788 |
+| The Mad Wizard | 0.90% | ~789 |
 | The Ring of Regeneration | 0.70% | ~613 |
 | Were-verpowered | 0.60% | ~526 |
 | Seeking Allies | 0.60% | ~526 |
@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~263 |
 | Street War | 0.30% | ~263 |
 | March of the Undead | 0.30% | ~263 |
+| Wisdom Check | 0.30% | ~263 |
 | No Time To Rest | 0.30% | ~263 |
 | Invisible Shadows | 0.30% | ~263 |
 | The Dinner Party | 0.30% | ~263 |
@@ -66,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.30% | ~263 |
 | The Dead Three | 0.30% | ~263 |
 | Flying Monkey Skulls of Doom | 0.30% | ~263 |
+| The Darkness Runs Deeper | 0.30% | ~263 |
 | An Even Worse Time in Avernus | 0.30% | ~162 |
 | Close Escort | 0.30% | ~263 |
 | Constant Banditry | 0.30% | ~263 |
@@ -148,7 +150,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.20% | ~175 |
 | Force Grey Unleashed | 0.20% | ~175 |
 | Vajra's Guards | 0.20% | ~175 |
-| Wisdom Check | 0.20% | ~175 |
 | Sleuth It Out | 0.20% | ~175 |
 | The Newcomers of Notoriety | 0.20% | ~108 |
 | A Grand Puzzle | 0.20% | ~175 |
@@ -188,12 +189,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distracted Escape | 0.20% | ~108 |
 | Fugitives | 0.20% | ~175 |
 | From The Shadows | 0.20% | ~175 |
+| Spined Nuisances | 0.20% | ~175 |
 | Excavating History | 0.20% | ~175 |
 | Towering Expectations | 0.20% | ~175 |
 | Hopelessly Lost | 0.20% | ~175 |
 | Cramped Quarters | 0.20% | ~175 |
 | Flame(skull) War | 0.20% | ~175 |
 | Enter the Sargauth | 0.20% | ~175 |
+| Elder Rune Madness | 0.20% | ~175 |
 | Who Lurks in Lurkwood | 0.20% | ~175 |
 | Orcs Are Wild | 0.20% | ~175 |
 | A Tale of Two Fiends | 0.20% | ~175 |
@@ -204,7 +207,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~175 |
 | The Sunless Citadel | 0.20% | ~175 |
 | Meepo's Quest | 0.20% | ~175 |
-| The Darkness Runs Deeper | 0.20% | ~175 |
 | Troublesome Prisoner | 0.20% | ~175 |
 | Dark Doppelgangers | 0.20% | ~175 |
 | Faerûn's Most Wanted | 0.20% | ~108 |
@@ -221,6 +223,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hailstorm! | 0.20% | ~108 |
 | Resolve Amongst Chaos | 0.20% | ~175 |
 | All You Know Is Wrong | 0.20% | ~175 |
+| Avernus Frozen Over | 0.20% | ~108 |
 | Market Fluctuations | 0.20% | ~175 |
 | Once More Into The Breach | 0.20% | ~175 |
 | Wyllowwood | 0.20% | ~175 |
@@ -260,6 +263,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trench Coat Run | 0.20% | ~108 |
 | The Taunting Lord | 0.20% | ~108 |
 | Durable Deep | 0.20% | ~175 |
+| Lone Wolf Party | 0.20% | ~108 |
 | The Sibriex | 0.20% | ~108 |
 | Wrecked Flying Fortress | 0.20% | ~108 |
 | Expert Opinion | 0.20% | ~175 |
@@ -369,7 +373,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~88 |
 | Late Game | 0.10% | ~88 |
 | Shadowfell Stalwarts | 0.10% | ~54 |
-| Spined Nuisances | 0.10% | ~88 |
 | Twilight Twist | 0.10% | ~54 |
 | Screams of the Dead | 0.10% | ~88 |
 | Frantic Excavation | 0.10% | ~88 |
@@ -379,7 +382,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tanking Expectations | 0.10% | ~54 |
 | Bazaar Exploits | 0.10% | ~88 |
 | Servants of the Demon Prince | 0.10% | ~54 |
-| Elder Rune Madness | 0.10% | ~88 |
 | The Madness Grows | 0.10% | ~88 |
 | The Madness Peaks | 0.10% | ~54 |
 | Bullywugs in the Bog | 0.10% | ~88 |
@@ -416,7 +418,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.10% | ~54 |
 | Earthquake! | 0.10% | ~54 |
 | Shadow Stalkers | 0.10% | ~54 |
-| Avernus Frozen Over | 0.10% | ~54 |
 | Twice More Into The Breach | 0.10% | ~88 |
 | Thrice More Into The Breach | 0.10% | ~54 |
 | Nightmare Mode | 0.10% | ~54 |
@@ -453,7 +454,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.10% | ~54 |
 | Prisoners of Unknown Choices | 0.10% | ~54 |
 | Only Human | 0.10% | ~54 |
-| Lone Wolf Party | 0.10% | ~54 |
 | The Archduke's Blessing | 0.10% | ~54 |
 | A Neutral Party | 0.10% | ~54 |
 | Relentless Peril | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,611 (Ranked 59)  
+Progressed: 87,616 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,6 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
+| 2023-05-16 | 87,616 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,893 (Ranked 37)  

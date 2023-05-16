@@ -11,7 +11,7 @@
 | Sword, Shield, Fight! | 76.00% | ~489 |
 | A Grand Visit | 72.00% | ~464 |
 | Vibing | 62.00% | ~399 |
-| Fun Guy | 61.00% | ~393 |
+| Fun Guy | 62.00% | ~399 |
 | Tragic Brave | 52.00% | ~335 |
 | Awakened Spirits | 49.00% | ~316 |
 | Little Shop | 48.00% | ~309 |
@@ -44,9 +44,9 @@
 | Soul Slayer | 30.00% | ~193 |
 | The Downfall | 30.00% | ~193 |
 | Extraordinary! | 30.00% | ~193 |
+| Final Showdown | 30.00% | ~193 |
 | Spot of Tea? | 30.00% | ~193 |
 | Going Home | 30.00% | ~193 |
-| Final Showdown | 29.00% | ~187 |
 | Mirror, Mirror | 28.00% | ~180 |
 | Flower Power | 25.00% | ~161 |
 | Shopping Spree! | 22.00% | ~142 |

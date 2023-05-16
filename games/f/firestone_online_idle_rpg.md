@@ -5,18 +5,18 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~970 |
-| World Map | 80.00% | ~826 |
-| Temple of Eternals | 56.00% | ~578 |
-| Prestigious | 52.00% | ~537 |
-| Fellowship Power | 39.00% | ~402 |
-| Guild Power | 23.00% | ~237 |
-| Prestigious x10 | 20.00% | ~206 |
-| The game is on | 17.00% | ~175 |
+| Victor | 94.00% | ~972 |
+| World Map | 80.00% | ~827 |
+| Temple of Eternals | 56.00% | ~579 |
+| Prestigious | 52.00% | ~538 |
+| Fellowship Power | 39.00% | ~403 |
+| Guild Power | 23.00% | ~238 |
+| Prestigious x10 | 20.00% | ~207 |
+| The game is on | 17.00% | ~176 |
 | Dragon Clicker | 15.00% | ~155 |
 | Exotic Merchant | 15.00% | ~155 |
-| Inspection | 14.00% | ~144 |
-| Miner Clicker | 14.00% | ~144 |
+| Inspection | 14.00% | ~145 |
+| Miner Clicker | 14.00% | ~145 |
 | Full Party | 12.00% | ~124 |
 | Hero inspection | 12.00% | ~124 |
 | Dragon Master | 10.00% | ~103 |
@@ -27,8 +27,8 @@ Rating: 3.64 (Ranked 917)
 | Mysterious Rock | 7.00% | ~72 |
 | Superior | 7.00% | ~72 |
 | Scientist | 6.00% | ~62 |
+| Challenger | 5.00% | ~52 |
 | Daily Quest Completionist | 5.00% | ~52 |
-| Challenger | 4.00% | ~41 |
 | Hunter | 4.00% | ~41 |
 | Milestone collector | 4.00% | ~41 |
 | Background Story | 3.00% | ~31 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,032 (Ranked 162)  
+Progressed: 1,034 (Ranked 162)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-13 | 1,001 | 1 |
 | 2023-05-14 | 1,017 | 1 |
 | 2023-05-15 | 1,032 | 1 |
+| 2023-05-16 | 1,034 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

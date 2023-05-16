@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2615,
+  "EOS_Progressed": 2619,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -774,6 +774,11 @@
       "Time": "2023-05-15T23:05:11.2175965+00:00",
       "NumProgressed": 2615,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-16T02:08:40.7802346+00:00",
+      "NumProgressed": 2619,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -785,7 +790,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "bonus2",
@@ -833,7 +838,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2357
     },
     {
       "ID": "campaign10",
@@ -865,7 +870,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "campaign14",
@@ -889,7 +894,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "campaign17",
@@ -897,7 +902,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "campaign18",
@@ -921,7 +926,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2095
     },
     {
       "ID": "campaign20",
@@ -937,7 +942,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1702
     },
     {
       "ID": "campaign4",
@@ -945,7 +950,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1257
     },
     {
       "ID": "campaign5",
@@ -961,15 +966,15 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "campaign7",
       "SetID": "2h56gn1",
       "Name": "Maestro",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 758
+      "UsersEstimate": 733
     },
     {
       "ID": "campaign8",
@@ -985,7 +990,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "scenario1",
@@ -993,7 +998,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1074
     },
     {
       "ID": "scenario2",
@@ -1001,7 +1006,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "scenario3",
@@ -1041,14 +1046,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2615,
+      "Progressed": 2619,
       "Completed": 9
     }
   ],
@@ -1056,8 +1061,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:05:16.9982172+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:08:40.7802338+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:59:27.313937+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:05:16.9982393+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:02:56.5990379+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:08:40.7802824+00:00"
 }

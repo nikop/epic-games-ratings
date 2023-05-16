@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 644,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 6.83,
   "EosHistory": [
@@ -1530,9 +1530,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 193
     },
     {
       "ID": "5",
@@ -1562,9 +1562,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 399
     },
     {
       "ID": "8",
@@ -1595,8 +1595,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:04:40.7773404+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:07:52.0754713+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:57:06.9607075+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:04:40.7773806+00:00"
+  "LastUpdate_Ratings": "2023-05-16T01:59:31.9595818+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:07:52.075522+00:00"
 }

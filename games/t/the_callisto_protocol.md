@@ -11,6 +11,8 @@ Rating: 4.18 (Ranked 825)
 | You Need a Gun | 0.10% | ~13 |
 | Flesh Wound | 0.10% | ~13 |
 | Grim Reaper | 0.10% | ~13 |
+| Glutton for Punishment | 0.10% | ~0 |
+| You Belong Here | 0.10% | ~0 |
 | I Do Belong Here | 0.10% | ~13 |
 | The Protocol is About Life | 0.10% | ~13 |
 | Recidivist | 0.10% | ~0 |
@@ -36,15 +38,13 @@ Rating: 4.18 (Ranked 825)
 | Crash Site | 0.10% | ~13 |
 | Full Circle | 0.10% | ~13 |
 | Power Up | 0.10% | ~13 |
-| Glutton for Punishment | 0.00% | ~0 |
-| You Belong Here | 0.00% | ~0 |
+| Instigator | 0.10% | ~0 |
+| Big Game Hunter | 0.10% | ~0 |
+| Bear Trap | 0.10% | ~0 |
+| Hoard Mode | 0.10% | ~0 |
+| Big Spender | 0.10% | ~0 |
 | I am the Danger | 0.00% | ~0 |
-| Instigator | 0.00% | ~0 |
-| Big Game Hunter | 0.00% | ~0 |
-| Bear Trap | 0.00% | ~0 |
-| Hoard Mode | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
-| Big Spender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,564 (Ranked 101)  
 Completed: 48 (0.38%) (Ranked 112)  

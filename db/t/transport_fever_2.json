@@ -438,9 +438,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1078,
+  "EOS_Progressed": 1079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -973,6 +973,11 @@
       "Time": "2023-05-15T21:05:26.775491+00:00",
       "NumProgressed": 1078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T02:08:42.7831998+00:00",
+      "NumProgressed": 1079,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -998,9 +1003,9 @@
       "ID": "achAccumulate10M",
       "SetID": "dgl390n",
       "Name": "Transport master",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 561
     },
     {
       "ID": "achAccumulate1B",
@@ -1038,9 +1043,9 @@
       "ID": "achAllClimates",
       "SetID": "dgl390n",
       "Name": "Climate change",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 248
     },
     {
       "ID": "achAllElecHighSpeed",
@@ -1088,7 +1093,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "achCannotGetEnough",
@@ -1152,7 +1157,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "achCrowdInATrain",
@@ -1184,7 +1189,7 @@
       "Name": "First aircraft arrived",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "achFirstBusArrived",
@@ -1200,7 +1205,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -1208,7 +1213,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -1216,7 +1221,7 @@
       "Name": "First electric train arrived",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -1232,7 +1237,7 @@
       "Name": "First passenger on board",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -1240,7 +1245,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "achFirstShipArrived",
@@ -1270,9 +1275,9 @@
       "ID": "achHeavilyLoaded",
       "SetID": "dgl390n",
       "Name": "Heavily loaded",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 216
     },
     {
       "ID": "achHq",
@@ -1280,7 +1285,7 @@
       "Name": "Settled down",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achHq20",
@@ -1294,9 +1299,9 @@
       "ID": "achIndustrialist",
       "SetID": "dgl390n",
       "Name": "Industrialist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 32
     },
     {
       "ID": "achLandscape",
@@ -1304,7 +1309,7 @@
       "Name": "Sculpturer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "achLongestTrain",
@@ -1328,7 +1333,7 @@
       "Name": "Mass production",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "achMetropolis",
@@ -1344,7 +1349,7 @@
       "Name": "Exemplary student",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "achMuseumLine",
@@ -1408,7 +1413,7 @@
       "Name": "Cargo hub",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "achTopSpeed120",
@@ -1471,15 +1476,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1078,
+      "Progressed": 1079,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-15T19:58:54.3106025+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:05:18.492339+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:08:42.7831989+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.0727856+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:58:57.9735261+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:05:18.4923842+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:02:14.8196679+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:08:42.783259+00:00"
 }

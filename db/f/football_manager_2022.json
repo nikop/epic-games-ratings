@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": null,
@@ -4251,10 +4251,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 49366,
       "NumberOfAwardsMax": 6265
+    },
+    {
+      "Time": "2023-05-16T02:02:47.7659112+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 49367,
+      "NumberOfAwardsMax": 6265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49366,
+  "NumberOfAwards": 49367,
   "NumberOfAwardsMax": 6265,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4280,7 +4286,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5681
+      "Count": 5682
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4325,9 +4331,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 460192,
+  "EOS_Progressed": 460193,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6585,6 +6591,11 @@
       "Time": "2023-05-16T00:05:21.9503974+00:00",
       "NumProgressed": 460192,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-16T02:08:47.3741235+00:00",
+      "NumProgressed": 460193,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -6596,7 +6607,7 @@
       "Name": "Best In The Business",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 32213
+      "UsersEstimate": 32214
     },
     {
       "ID": "achievement_10_manager_of_the_year_awards",
@@ -6756,7 +6767,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 96640
+      "UsersEstimate": 96641
     },
     {
       "ID": "achievement_childhood_dream",
@@ -6772,7 +6783,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 96640
+      "UsersEstimate": 96641
     },
     {
       "ID": "achievement_clean_sheet",
@@ -6780,7 +6791,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 225494
+      "UsersEstimate": 225495
     },
     {
       "ID": "achievement_club_world_cup",
@@ -6868,7 +6879,7 @@
       "Name": "What A Goal!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 96640
+      "UsersEstimate": 96641
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -6892,7 +6903,7 @@
       "Name": "Irresistible Force",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 87436
+      "UsersEstimate": 87437
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -7020,7 +7031,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 156465
+      "UsersEstimate": 156466
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -7028,7 +7039,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 147261
+      "UsersEstimate": 147262
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -7036,7 +7047,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 87436
+      "UsersEstimate": 87437
     },
     {
       "ID": "achievement_pick_feeder",
@@ -7140,7 +7151,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 216290
+      "UsersEstimate": 216291
     },
     {
       "ID": "achievement_signed_a_player",
@@ -7236,7 +7247,7 @@
       "Name": "Cup Glory!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 96640
+      "UsersEstimate": 96641
     },
     {
       "ID": "achievement_won_international_championship",
@@ -7379,15 +7390,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 460192,
+      "Progressed": 460193,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-05-15T17:00:39.832783+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:05:21.950397+00:00",
+  "LastChanged": "2023-05-16T02:02:47.765911+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:08:47.3741229+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:59.5608601+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:59:21.2721461+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:05:21.9505042+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:02:47.7659116+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:08:47.3742534+00:00"
 }

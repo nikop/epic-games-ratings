@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2384,9 +2384,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 8827,
+  "EOS_Progressed": 8828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3554,6 +3554,11 @@
       "Time": "2023-05-16T00:05:10.7533418+00:00",
       "NumProgressed": 8827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T02:08:32.5917905+00:00",
+      "NumProgressed": 8828,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3573,7 +3578,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -3933,7 +3938,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "49_Flame",
@@ -4492,21 +4497,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7609,
+      "Progressed": 7610,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8827,
+      "Progressed": 8828,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-15T20:58:02.4369461+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:05:10.7533414+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:08:32.5917897+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:57:50.1477175+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:05:10.7534729+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:00:34.3159107+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:08:32.5919571+00:00"
 }

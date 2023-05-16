@@ -3730,7 +3730,7 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87611,
+  "EOS_Progressed": 87616,
   "EOS_Completed": 1843,
   "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 27,
@@ -6060,6 +6060,11 @@
       "Time": "2023-05-15T19:06:45.0078236+00:00",
       "NumProgressed": 87611,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T02:08:49.4904241+00:00",
+      "NumProgressed": 87616,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6439,7 +6444,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "objective_completed_110",
@@ -7309,9 +7314,9 @@
       "ID": "objective_completed_170",
       "SetID": "cc37lbc",
       "Name": "Wisdom Check",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 263
     },
     {
       "ID": "objective_completed_171",
@@ -7981,9 +7986,9 @@
       "ID": "objective_completed_405",
       "SetID": "cc37lbc",
       "Name": "Spined Nuisances",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_406",
@@ -8117,9 +8122,9 @@
       "ID": "objective_completed_424",
       "SetID": "cc37lbc",
       "Name": "Elder Rune Madness",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_425",
@@ -8429,9 +8434,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 263
     },
     {
       "ID": "objective_completed_571",
@@ -8685,9 +8690,9 @@
       "ID": "objective_completed_608",
       "SetID": "415jc5c",
       "Name": "Avernus Frozen Over",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_61",
@@ -9215,7 +9220,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "objective_completed_70",
@@ -9365,9 +9370,9 @@
       "ID": "objective_completed_810",
       "SetID": "415jc5c",
       "Name": "Lone Wolf Party",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_812",
@@ -9982,21 +9987,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53885,
+      "Progressed": 53890,
       "Completed": 2512
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87611,
+      "Progressed": 87616,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T22:57:36.8689684+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:05:23.9070925+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:08:49.4904232+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:57:37.1048055+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:05:23.9091794+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:00:14.5107404+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:08:49.4935212+00:00"
 }

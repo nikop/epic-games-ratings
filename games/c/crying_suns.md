@@ -6,49 +6,49 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,347 |
-| Jeef Skeejj | 44.00% | ~201,564 |
-| Careful planning | 39.00% | ~178,659 |
-| Second Coming | 33.00% | ~151,173 |
-| Jeef Skagg | 30.00% | ~137,430 |
-| Mother | 25.00% | ~114,525 |
-| In space, no one can hear you scream | 23.00% | ~105,363 |
-| Chapter I: Echoes | 22.00% | ~100,782 |
-| Excelsior Rule | 22.00% | ~100,782 |
-| Things persisted in not being what they seemed | 20.00% | ~91,620 |
-| Knightmare Frames | 15.00% | ~68,715 |
-| May His passing cleanse the world | 15.00% | ~68,715 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,715 |
-| Pope Zenon | 15.00% | ~68,715 |
-| Tetsuo | 11.00% | ~50,391 |
-| Plan for the worst | 11.00% | ~50,391 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,810 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~36,648 |
-| Through the mirror | 8.00% | ~36,648 |
-| General Vivar | 8.00% | ~36,648 |
-| Back to Ganyma | 8.00% | ~36,648 |
-| Kaos Rule | 8.00% | ~36,648 |
-| Admiral Okonkwo | 7.00% | ~32,067 |
-| The Survivalists | 7.00% | ~32,067 |
-| The Tech Specialist | 7.00% | ~32,067 |
-| Chapter V: Memories of None | 6.00% | ~27,486 |
-| Meet your maker | 6.00% | ~27,486 |
-| The Impersonator | 6.00% | ~27,486 |
-| The Kid | 6.00% | ~27,486 |
-| The Evangelist | 6.00% | ~27,486 |
-| The Inquisitor | 6.00% | ~27,486 |
-| The Ace Pilot | 6.00% | ~27,486 |
-| The Tech Med | 6.00% | ~27,486 |
-| The Mech Soldier | 6.00% | ~27,486 |
-| The lucky charm | 6.00% | ~27,486 |
-| The Anonymous | 6.00% | ~27,486 |
-| The Smuggler | 6.00% | ~27,486 |
-| The Crazy Repairman | 6.00% | ~27,486 |
-| The Weasel | 6.00% | ~27,486 |
-| Kill the Doctor | 5.00% | ~22,905 |
-| Forsaken | 5.00% | ~22,905 |
-| Mercy | 5.00% | ~22,905 |
-| Jericho Rule | 5.00% | ~22,905 |
+| The Shutdown | 66.00% | ~302,353 |
+| Jeef Skeejj | 44.00% | ~201,568 |
+| Careful planning | 39.00% | ~178,663 |
+| Second Coming | 33.00% | ~151,176 |
+| Jeef Skagg | 30.00% | ~137,433 |
+| Mother | 25.00% | ~114,528 |
+| In space, no one can hear you scream | 23.00% | ~105,365 |
+| Chapter I: Echoes | 22.00% | ~100,784 |
+| Excelsior Rule | 22.00% | ~100,784 |
+| Things persisted in not being what they seemed | 20.00% | ~91,622 |
+| Knightmare Frames | 15.00% | ~68,716 |
+| May His passing cleanse the world | 15.00% | ~68,716 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,716 |
+| Pope Zenon | 15.00% | ~68,716 |
+| Tetsuo | 11.00% | ~50,392 |
+| Plan for the worst | 11.00% | ~50,392 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,811 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~36,649 |
+| Through the mirror | 8.00% | ~36,649 |
+| General Vivar | 8.00% | ~36,649 |
+| Back to Ganyma | 8.00% | ~36,649 |
+| Kaos Rule | 8.00% | ~36,649 |
+| Admiral Okonkwo | 7.00% | ~32,068 |
+| The Survivalists | 7.00% | ~32,068 |
+| The Tech Specialist | 7.00% | ~32,068 |
+| Chapter V: Memories of None | 6.00% | ~27,487 |
+| Meet your maker | 6.00% | ~27,487 |
+| The Impersonator | 6.00% | ~27,487 |
+| The Kid | 6.00% | ~27,487 |
+| The Evangelist | 6.00% | ~27,487 |
+| The Inquisitor | 6.00% | ~27,487 |
+| The Ace Pilot | 6.00% | ~27,487 |
+| The Tech Med | 6.00% | ~27,487 |
+| The Mech Soldier | 6.00% | ~27,487 |
+| The lucky charm | 6.00% | ~27,487 |
+| The Anonymous | 6.00% | ~27,487 |
+| The Smuggler | 6.00% | ~27,487 |
+| The Crazy Repairman | 6.00% | ~27,487 |
+| The Weasel | 6.00% | ~27,487 |
+| Kill the Doctor | 5.00% | ~22,906 |
+| Forsaken | 5.00% | ~22,906 |
+| Mercy | 5.00% | ~22,906 |
+| Jericho Rule | 5.00% | ~22,906 |
 | Geno Rule | 3.00% | ~13,743 |
 | Hammer Rule | 3.00% | ~13,743 |
 | Survivor | 2.00% | ~9,162 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,101 (Ranked 28)  
+Progressed: 458,110 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 14 (0.00%) (Ranked 199)
 | 2023-05-13 | 457,931 | 14 |
 | 2023-05-14 | 458,027 | 14 |
 | 2023-05-15 | 458,099 | 14 |
-| 2023-05-16 | 458,101 | 14 |
+| 2023-05-16 | 458,110 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 349)  

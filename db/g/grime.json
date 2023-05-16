@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -272,6 +272,11 @@
       "Time": "2023-05-14T14:05:41.8000728+00:00",
       "NumProgressed": 541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T02:08:42.428651+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -307,7 +312,7 @@
       "Name": "Assimilation",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -401,9 +406,9 @@
       "ID": "DEFEAT_FLOWERVULTURE",
       "SetID": "72k7oh",
       "Name": "Host",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -425,9 +430,9 @@
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 43
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -451,7 +456,7 @@
       "Name": "Inevitable",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -467,7 +472,7 @@
       "Name": "Watcher",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -555,7 +560,7 @@
       "Name": "Ravenous",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -579,7 +584,7 @@
       "Name": "Dream",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "QUEST_CODA",
@@ -618,21 +623,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 16
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:05:18.2244112+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:08:42.4286504+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:20.874021+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:59:40.3202038+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:05:18.2244374+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:03:16.0626097+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:08:42.4286843+00:00"
 }

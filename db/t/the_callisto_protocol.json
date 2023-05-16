@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -771,7 +771,7 @@
       "ID": "FINISH_CONTAGION",
       "SetID": "6j5ggkc",
       "Name": "Glutton for Punishment",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
       "UsersEstimate": 0
     },
@@ -779,7 +779,7 @@
       "ID": "FINISH_CONTAGION_NO_DEATH",
       "SetID": "6j5ggkc",
       "Name": "You Belong Here",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
       "UsersEstimate": 0
     },
@@ -995,7 +995,7 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 0
     },
@@ -1003,7 +1003,7 @@
       "ID": "FINISH_WAVE_50",
       "SetID": "6j5ggkc",
       "Name": "Big Game Hunter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
       "UsersEstimate": 0
     },
@@ -1011,7 +1011,7 @@
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 0
     },
@@ -1019,7 +1019,7 @@
       "ID": "NOSPEND_2ROUNDS",
       "SetID": "6j5ggkc",
       "Name": "Hoard Mode",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 0
     },
@@ -1035,7 +1035,7 @@
       "ID": "SPEND_20000",
       "SetID": "6j5ggkc",
       "Name": "Big Spender",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 0
     }
@@ -1058,8 +1058,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-05T17:02:12.7332747+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:04:49.2870244+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:08:03.355106+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:57:26.07667+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:04:49.2870496+00:00"
+  "LastUpdate_Ratings": "2023-05-16T01:59:58.55418+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:08:03.3551699+00:00"
 }

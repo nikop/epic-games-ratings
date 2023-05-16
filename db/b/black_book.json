@@ -2,12 +2,12 @@
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
   "ProductSlug": "black-book",
-  "Ranking_Rating": 28,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.86,
+  "Rating": 4.87,
   "NumberOfRatings": 96,
   "RatingHistory": [
     {
@@ -232,6 +232,12 @@
       "Rating": 4.86,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-05-16T02:00:06.6263729+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
@@ -257,8 +263,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
-  "LastChanged": "2023-05-05T22:59:25.9423439+00:00",
+  "LastChanged": "2023-05-16T02:00:06.6263727+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.0729371+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:57:31.3520496+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:02:27.9925672+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:00:06.6263733+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:05:25.2478107+00:00"
 }

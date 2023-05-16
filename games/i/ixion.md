@@ -20,10 +20,10 @@ Rating: 4.55 (Ranked 465)
 | Fully Recycled | 0.90% | ~17 |
 | The Ship of Theseus | 0.80% | ~15 |
 | Exceeding Capacity | 0.70% | ~13 |
+| Power Outage | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
-| Power Outage | 0.60% | ~11 |
+| A Hunk of Junk | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~9 |
-| A Hunk of Junk | 0.50% | ~9 |
 | Access Granted | 0.50% | ~9 |
 | BRAWL! | 0.50% | ~9 |
 | Please Make it Stop! | 0.50% | ~9 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 465)
 | Crunch Culture | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,898 (Ranked 146)  
+Progressed: 1,899 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 1,882 | 0 |
 | 2023-05-14 | 1,892 | 0 |
 | 2023-05-15 | 1,898 | 0 |
+| 2023-05-16 | 1,899 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

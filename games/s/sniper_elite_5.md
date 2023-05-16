@@ -22,9 +22,9 @@ Rating: 4.38 (Ranked 689)
 | Explosive Efficiency | 16.00% | ~115 |
 | Close Quarters | 15.00% | ~108 |
 | Climbing the Ladder | 14.00% | ~101 |
+| Fields of Glory | 14.00% | ~101 |
 | Gunslinger | 14.00% | ~101 |
 | Skirmisher | 14.00% | ~101 |
-| Fields of Glory | 13.00% | ~94 |
 | Just a Flesh Wound | 13.00% | ~94 |
 | Der Geist | 13.00% | ~94 |
 | Snake in the Grass | 13.00% | ~94 |

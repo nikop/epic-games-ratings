@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1898,
+  "EOS_Progressed": 1899,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -672,6 +672,11 @@
       "Time": "2023-05-15T23:04:38.0995047+00:00",
       "NumProgressed": 1898,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T02:07:56.226912+00:00",
+      "NumProgressed": 1899,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -817,9 +822,9 @@
       "ID": "ACH_BASE_27",
       "SetID": "92iocjf",
       "Name": "A Hunk of Junk",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_BASE_28",
@@ -857,9 +862,9 @@
       "ID": "ACH_BASE_31",
       "SetID": "92iocjf",
       "Name": "Power Outage",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_BASE_32",
@@ -1138,13 +1143,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 3
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1898,
+      "Progressed": 1899,
       "Completed": 0
     }
   ],
@@ -1152,8 +1157,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:04:43.9172735+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:07:56.2269113+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:57:57.2321024+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:04:43.9173295+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:00:45.4047438+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:07:56.2269746+00:00"
 }

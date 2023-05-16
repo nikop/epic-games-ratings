@@ -5,31 +5,31 @@ Rating: 4.50 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 82.00% | ~2,058 |
-| Realm Estate | 80.00% | ~2,008 |
-| Secret Technique | 79.00% | ~1,983 |
-| Walls Cannot Stop Us | 76.00% | ~1,908 |
-| From Friends to Family | 72.00% | ~1,807 |
+| A Wonderful Discovery | 82.00% | ~2,059 |
+| Realm Estate | 80.00% | ~2,009 |
+| Secret Technique | 80.00% | ~2,009 |
+| Walls Cannot Stop Us | 77.00% | ~1,933 |
+| From Friends to Family | 72.00% | ~1,808 |
 | Magical Synergy | 67.00% | ~1,682 |
-| Bone Peddler | 63.00% | ~1,581 |
+| Bone Peddler | 64.00% | ~1,607 |
 | Stronger Together | 57.00% | ~1,431 |
-| Full Ascension | 55.00% | ~1,380 |
+| Full Ascension | 55.00% | ~1,381 |
 | There Can Only Be One! | 48.00% | ~1,205 |
 | Seat of Power | 47.00% | ~1,180 |
-| My Final Form | 43.00% | ~1,079 |
-| Intimidation Tactics | 43.00% | ~1,079 |
-| Valley of Wonders | 41.00% | ~1,029 |
-| In a Liege of Your Own | 35.00% | ~878 |
+| My Final Form | 43.00% | ~1,080 |
+| Intimidation Tactics | 43.00% | ~1,080 |
+| Valley of Wonders | 41.00% | ~1,030 |
+| In a Liege of Your Own | 35.00% | ~879 |
 | Digging for Treasure | 30.00% | ~753 |
 | Against the Odds | 29.00% | ~728 |
 | Return of the Wizard King | 28.00% | ~703 |
-| Enchanted Archipelago | 24.00% | ~602 |
-| Impenetrable Fortress | 23.00% | ~577 |
+| Enchanted Archipelago | 24.00% | ~603 |
+| Impenetrable Fortress | 23.00% | ~578 |
 | The Magic That Empowers Me! | 17.00% | ~427 |
 | God Emperor | 16.00% | ~402 |
 | Arch Mage | 16.00% | ~402 |
 | Preparation Is Everything | 16.00% | ~402 |
-| Eternal Lord | 14.00% | ~351 |
+| Eternal Lord | 14.00% | ~352 |
 | Crimson Caldera | 13.00% | ~326 |
 | Fiery Friend | 13.00% | ~326 |
 | Lord of Chaos | 12.00% | ~301 |
@@ -45,12 +45,12 @@ Rating: 4.50 (Ranked 531)
 | One for All, All for One | 2.00% | ~50 |
 | Snap Out of It! | 1.00% | ~25 |
 | Manufactured War | 0.80% | ~20 |
-| I'll Fight You All | 0.70% | ~18 |
+| I'll Fight You All | 0.80% | ~20 |
 | The Grey Wizard | 0.30% | ~8 |
 | Master of Evilness | 0.10% | ~3 |
 | Returning Circle | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,510 (Ranked 137)  
+Progressed: 2,511 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,6 +62,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 2,241 | 0 |
 | 2023-05-14 | 2,408 | 0 |
 | 2023-05-15 | 2,510 | 0 |
+| 2023-05-16 | 2,511 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

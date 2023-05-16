@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -2388,9 +2388,9 @@
       "Count": 472
     }
   ],
-  "EOS_Progressed": 267264,
+  "EOS_Progressed": 267275,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4713,6 +4713,11 @@
       "Time": "2023-05-16T00:02:25.7011487+00:00",
       "NumProgressed": 267264,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-05-16T02:05:22.017756+00:00",
+      "NumProgressed": 267275,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 45,
@@ -4724,7 +4729,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "PFA_10",
@@ -4756,7 +4761,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "PFA_14",
@@ -4780,7 +4785,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "PFA_17",
@@ -4812,7 +4817,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "PFA_20",
@@ -4828,7 +4833,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "PFA_22",
@@ -4852,7 +4857,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "PFA_25",
@@ -4876,7 +4881,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "PFA_28",
@@ -4940,7 +4945,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "PFA_35",
@@ -4972,7 +4977,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "PFA_39",
@@ -4980,7 +4985,7 @@
       "Name": "Coasting Along",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "PFA_4",
@@ -4988,7 +4993,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5345
+      "UsersEstimate": 5346
     },
     {
       "ID": "PFA_40",
@@ -5060,7 +5065,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "PFA_8",
@@ -5068,7 +5073,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "PFA_9",
@@ -5076,14 +5081,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267264,
+      "Progressed": 267275,
       "Completed": 362
     }
   ],
@@ -5091,8 +5096,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-15T20:57:11.1674033+00:00",
-  "LastChanged_Achievements": "2023-05-16T00:02:25.701148+00:00",
+  "LastChanged_Achievements": "2023-05-16T02:05:22.0177552+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-15T23:56:58.4901623+00:00",
-  "LastUpdate_Achievements": "2023-05-16T00:02:25.7011883+00:00"
+  "LastUpdate_Ratings": "2023-05-16T01:59:19.8378287+00:00",
+  "LastUpdate_Achievements": "2023-05-16T02:05:22.0178396+00:00"
 }
