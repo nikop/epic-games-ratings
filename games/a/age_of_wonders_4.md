@@ -5,30 +5,30 @@ Rating: 4.50 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 82.00% | ~2,067 |
-| Realm Estate | 80.00% | ~2,017 |
+| A Wonderful Discovery | 83.00% | ~2,093 |
+| Realm Estate | 80.00% | ~2,018 |
 | Secret Technique | 79.00% | ~1,992 |
-| Walls Cannot Stop Us | 77.00% | ~1,941 |
-| From Friends to Family | 72.00% | ~1,815 |
-| Magical Synergy | 67.00% | ~1,689 |
-| Bone Peddler | 64.00% | ~1,613 |
-| Stronger Together | 57.00% | ~1,437 |
+| Walls Cannot Stop Us | 77.00% | ~1,942 |
+| From Friends to Family | 72.00% | ~1,816 |
+| Magical Synergy | 67.00% | ~1,690 |
+| Bone Peddler | 64.00% | ~1,614 |
+| Stronger Together | 57.00% | ~1,438 |
 | Full Ascension | 55.00% | ~1,387 |
-| There Can Only Be One! | 48.00% | ~1,210 |
+| There Can Only Be One! | 48.00% | ~1,211 |
 | Seat of Power | 47.00% | ~1,185 |
 | My Final Form | 43.00% | ~1,084 |
 | Intimidation Tactics | 43.00% | ~1,084 |
 | Valley of Wonders | 41.00% | ~1,034 |
-| In a Liege of Your Own | 35.00% | ~882 |
-| Digging for Treasure | 30.00% | ~756 |
+| In a Liege of Your Own | 35.00% | ~883 |
+| Digging for Treasure | 30.00% | ~757 |
 | Against the Odds | 29.00% | ~731 |
 | Return of the Wizard King | 28.00% | ~706 |
 | Enchanted Archipelago | 25.00% | ~630 |
 | Impenetrable Fortress | 23.00% | ~580 |
 | The Magic That Empowers Me! | 17.00% | ~429 |
-| God Emperor | 16.00% | ~403 |
-| Arch Mage | 16.00% | ~403 |
-| Preparation Is Everything | 16.00% | ~403 |
+| God Emperor | 16.00% | ~404 |
+| Arch Mage | 16.00% | ~404 |
+| Preparation Is Everything | 16.00% | ~404 |
 | Eternal Lord | 14.00% | ~353 |
 | Crimson Caldera | 13.00% | ~328 |
 | Fiery Friend | 13.00% | ~328 |
@@ -50,7 +50,7 @@ Rating: 4.50 (Ranked 531)
 | Master of Evilness | 0.10% | ~3 |
 | Returning Circle | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,521 (Ranked 137)  
+Progressed: 2,522 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 2,241 | 0 |
 | 2023-05-14 | 2,408 | 0 |
 | 2023-05-15 | 2,510 | 0 |
-| 2023-05-16 | 2,521 | 0 |
+| 2023-05-16 | 2,522 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

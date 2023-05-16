@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.40% | ~216 |
 | Best Thay Ever | 0.40% | ~216 |
 | Frail Doesn't Mean Broken | 0.40% | ~216 |
+| Unreasonable Doesn't Mean Stupid | 0.40% | ~216 |
 | The Sanctum of the Sword | 0.40% | ~216 |
 | Get Back In The Castle | 0.40% | ~216 |
 | Beast Mode | 0.40% | ~351 |
@@ -49,7 +50,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hands Off! | 0.30% | ~162 |
 | The Dread Domain of Tovag | 0.30% | ~162 |
 | The Castle of a Thousand Vecnas | 0.30% | ~162 |
-| Unreasonable Doesn't Mean Stupid | 0.30% | ~162 |
 | No One Can Hear You Scream | 0.30% | ~162 |
 | Low Initiative | 0.30% | ~263 |
 | Street War | 0.30% | ~263 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,626 (Ranked 59)  
+Progressed: 87,631 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,626 | 1,843 |
+| 2023-05-16 | 87,631 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,893 (Ranked 37)  

@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2521,
+  "EOS_Progressed": 2522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2514,
+  "EOS_NewPlayers": 2515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -874,6 +874,11 @@
       "Time": "2023-05-16T06:01:11.3758662+00:00",
       "NumProgressed": 2521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T07:00:19.9486571+00:00",
+      "NumProgressed": 2522,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -901,7 +906,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "12",
@@ -941,7 +946,7 @@
       "Name": "God Emperor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "17",
@@ -957,7 +962,7 @@
       "Name": "Arch Mage",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "19",
@@ -997,15 +1002,15 @@
       "Name": "Realm Estate",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2093
     },
     {
       "ID": "24",
@@ -1021,7 +1026,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "26",
@@ -1029,7 +1034,7 @@
       "Name": "Bone Peddler",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "27",
@@ -1037,7 +1042,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "28",
@@ -1045,7 +1050,7 @@
       "Name": "From Friends to Family",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "29",
@@ -1053,7 +1058,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "3",
@@ -1069,7 +1074,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "31",
@@ -1077,7 +1082,7 @@
       "Name": "Magical Synergy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "32",
@@ -1101,7 +1106,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "35",
@@ -1236,13 +1241,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 2521,
-      "Completed": 2521
+      "Progressed": 2522,
+      "Completed": 2522
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 2521,
+      "Progressed": 2522,
       "Completed": 0
     }
   ],
@@ -1250,8 +1255,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-15T19:58:41.4280533+00:00",
-  "LastChanged_Achievements": "2023-05-16T06:01:11.3758645+00:00",
+  "LastChanged_Achievements": "2023-05-16T07:00:19.9486563+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:18.5454373+00:00",
-  "LastUpdate_Ratings": "2023-05-16T05:59:37.1108382+00:00",
-  "LastUpdate_Achievements": "2023-05-16T06:01:11.3759973+00:00"
+  "LastUpdate_Ratings": "2023-05-16T06:59:11.0412843+00:00",
+  "LastUpdate_Achievements": "2023-05-16T07:00:19.9487288+00:00"
 }

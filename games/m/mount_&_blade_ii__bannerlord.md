@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,489 |
-| Landlord | 29.00% | ~14,491 |
-| Lawmaker | 21.00% | ~10,493 |
+| Lawbringer | 35.00% | ~17,490 |
+| Landlord | 29.00% | ~14,492 |
+| Lawmaker | 21.00% | ~10,494 |
 | Bannerlord | 20.00% | ~9,994 |
 | Horde breaker | 20.00% | ~9,994 |
 | Trained | 20.00% | ~9,994 |
 | The king is pleased | 16.00% | ~7,995 |
-| King Solomon | 15.00% | ~7,495 |
+| King Solomon | 15.00% | ~7,496 |
 | I can do it | 14.00% | ~6,996 |
 | Apple of my eye | 13.00% | ~6,496 |
-| God of the Arena | 12.00% | ~5,996 |
+| God of the Arena | 12.00% | ~5,997 |
 | Against all odds | 9.00% | ~4,497 |
 | Swordbearer | 9.00% | ~4,497 |
-| Duelist | 8.00% | ~3,997 |
-| Dynasty | 8.00% | ~3,997 |
-| I spit on your grave | 8.00% | ~3,997 |
-| What have the Romans ever done for us? | 8.00% | ~3,997 |
+| Duelist | 8.00% | ~3,998 |
+| Dynasty | 8.00% | ~3,998 |
+| I spit on your grave | 8.00% | ~3,998 |
+| What have the Romans ever done for us? | 8.00% | ~3,998 |
 | Butterlord | 7.00% | ~3,498 |
 | Mastery | 6.00% | ~2,998 |
-| Know your enemy | 5.00% | ~2,498 |
-| This Is Our Land | 5.00% | ~2,498 |
+| Know your enemy | 5.00% | ~2,499 |
+| This Is Our Land | 5.00% | ~2,499 |
 | Crush your enemies | 4.00% | ~1,999 |
 | My way | 4.00% | ~1,999 |
 | Veni vidi vici | 4.00% | ~1,999 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,968 (Ranked 74)  
+Progressed: 49,971 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 49,748 | 0 |
 | 2023-05-14 | 49,864 | 0 |
 | 2023-05-15 | 49,956 | 0 |
-| 2023-05-16 | 49,968 | 0 |
+| 2023-05-16 | 49,971 | 0 |
 ## Awards
 Max (Character Customization): 6,537  (Ranked 49)  
 Sum: 13,034 (Ranked 68)  

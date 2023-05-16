@@ -6,7 +6,7 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,301 |
+| You Never Forget Your First... | 9.00% | ~49,302 |
 | Into the Unknown | 8.00% | ~43,824 |
 | First Shot | 8.00% | ~43,824 |
 | Herzlich Wilkommen! | 7.00% | ~38,346 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,794 (Ranked 22)  
+Progressed: 547,797 (Ranked 22)  
 Completed: 47 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 47 (0.01%) (Ranked 191)
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
 | 2023-05-15 | 547,713 | 47 |
-| 2023-05-16 | 547,794 | 47 |
+| 2023-05-16 | 547,797 | 47 |
 ## Awards
 Max (Character Customization): 7,062  (Ranked 44)  
 Sum: 16,390 (Ranked 58)  

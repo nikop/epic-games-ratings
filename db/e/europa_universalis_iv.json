@@ -4836,9 +4836,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 37585,
+  "EOS_Progressed": 37593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4866,
+  "EOS_NewPlayers": 4861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7266,6 +7266,11 @@
       "Time": "2023-05-16T06:06:17.9981804+00:00",
       "NumProgressed": 37585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T07:05:50.3405368+00:00",
+      "NumProgressed": 37593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -7717,7 +7722,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -7797,7 +7802,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "achievement_colonial_management",
@@ -8109,7 +8114,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "achievement_forever_golden",
@@ -8301,7 +8306,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -9277,7 +9282,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -9869,7 +9874,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -10108,21 +10113,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 37585,
+      "Progressed": 37593,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 37585,
+      "Progressed": 37593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-15T20:57:11.9538108+00:00",
-  "LastChanged_Achievements": "2023-05-16T06:06:17.9981795+00:00",
+  "LastChanged_Achievements": "2023-05-16T07:05:50.3405362+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.1360508+00:00",
-  "LastUpdate_Ratings": "2023-05-16T05:57:14.1923109+00:00",
-  "LastUpdate_Achievements": "2023-05-16T06:06:17.9992904+00:00"
+  "LastUpdate_Ratings": "2023-05-16T06:57:25.8532846+00:00",
+  "LastUpdate_Achievements": "2023-05-16T07:05:50.3415221+00:00"
 }

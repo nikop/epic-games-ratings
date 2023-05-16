@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5333,
+  "EOS_Progressed": 5334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2921,6 +2921,11 @@
       "Time": "2023-05-16T06:06:09.3507884+00:00",
       "NumProgressed": 5333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T07:05:42.9382253+00:00",
+      "NumProgressed": 5334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2964,7 +2969,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2826
+      "UsersEstimate": 2827
     },
     {
       "ID": "14",
@@ -3012,7 +3017,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2826
+      "UsersEstimate": 2827
     },
     {
       "ID": "2",
@@ -3044,7 +3049,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "23",
@@ -3052,7 +3057,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "24",
@@ -3068,7 +3073,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "26",
@@ -3196,7 +3201,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "40",
@@ -3252,7 +3257,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "47",
@@ -3380,7 +3385,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "8",
@@ -3403,15 +3408,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5333,
+      "Progressed": 5334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-16T06:06:09.3507875+00:00",
+  "LastChanged_Achievements": "2023-05-16T07:05:42.9382248+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-16T06:00:14.4099883+00:00",
-  "LastUpdate_Achievements": "2023-05-16T06:06:09.3508554+00:00"
+  "LastUpdate_Ratings": "2023-05-16T06:59:37.4083601+00:00",
+  "LastUpdate_Achievements": "2023-05-16T07:05:42.9382773+00:00"
 }

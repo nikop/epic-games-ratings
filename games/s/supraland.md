@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~698,125 |
-| The Blues | 85.00% | ~599,400 |
+| Out of bed | 99.00% | ~698,126 |
+| The Blues | 85.00% | ~599,401 |
 | Fast | 66.00% | ~465,417 |
-| Healthbar | 55.00% | ~387,847 |
-| Force Cube | 52.00% | ~366,692 |
+| Healthbar | 55.00% | ~387,848 |
+| Force Cube | 52.00% | ~366,693 |
 | Double Jump | 48.00% | ~338,485 |
-| Regeneration | 47.00% | ~331,433 |
-| Climb the hill | 42.00% | ~296,174 |
-| Triple Jump | 42.00% | ~296,174 |
-| Through the fire pipe | 38.00% | ~267,967 |
-| MacGuffin | 37.00% | ~260,915 |
+| Regeneration | 47.00% | ~331,434 |
+| Climb the hill | 42.00% | ~296,175 |
+| Triple Jump | 42.00% | ~296,175 |
+| Through the fire pipe | 38.00% | ~267,968 |
+| MacGuffin | 37.00% | ~260,916 |
 | Just once | 36.00% | ~253,864 |
 | Armor | 30.00% | ~211,553 |
 | True holy spirit | 27.00% | ~190,398 |
@@ -38,9 +38,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Health Drink | 12.00% | ~84,621 |
 | Helped a star | 12.00% | ~84,621 |
 | Strong | 12.00% | ~84,621 |
-| Blue King's lair | 11.00% | ~77,569 |
-| Infiltrated | 11.00% | ~77,569 |
-| Robbed | 11.00% | ~77,569 |
+| Blue King's lair | 11.00% | ~77,570 |
+| Infiltrated | 11.00% | ~77,570 |
+| Robbed | 11.00% | ~77,570 |
 | Payback | 10.00% | ~70,518 |
 | Got the coins back | 10.00% | ~70,518 |
 | Cave Flies | 10.00% | ~70,518 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~705 |
 | DLC: Top of the world | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,177 (Ranked 14)  
+Progressed: 705,178 (Ranked 14)  
 Completed: 679 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 679 (0.10%) (Ranked 156)
 | 2023-05-13 | 704,788 | 677 |
 | 2023-05-14 | 705,009 | 678 |
 | 2023-05-15 | 705,157 | 679 |
-| 2023-05-16 | 705,177 | 679 |
+| 2023-05-16 | 705,178 | 679 |
 ## Awards
 Max (Challenging Puzzles): 7,610  (Ranked 40)  
 Sum: 9,898 (Ranked 79)  
