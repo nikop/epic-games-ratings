@@ -146,7 +146,7 @@
 | 140 | [DOOM II](games/d/doom_ii.md) | 4.74 | 26 | 460 |
 | 140 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 771 | 147 |
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 596 | 167 |
-| 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,526 | 49 |
+| 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,537 | 49 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
 | 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 31,176 | 14 |
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 492 |
@@ -288,7 +288,7 @@
 | 273 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 548 | 174 |
 | 273 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 466 |
 | 273 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 423 | 192 |
-| 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,767 | 56 |
+| 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,768 | 56 |
 | 273 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 188 |
 | 291 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 492 |
 | 291 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,455 | 68 |
@@ -548,25 +548,25 @@
 | 531 | [MythForce](games/m/mythforce.md) | 4.50 | 32 | 435 |
 | 531 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 492 |
 | 531 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 654 | 160 |
+| 531 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.50 | 0 | 492 |
 | 531 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.50 | 0 | 492 |
 | 531 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 492 |
 | 531 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 753 | 149 |
 | 531 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 492 |
-| 553 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 375 |
-| 553 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 394 | 202 |
-| 553 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 103 |
-| 553 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 315 |
-| 553 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 492 |
-| 553 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 492 |
-| 553 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 232 |
-| 553 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 228 | 245 |
-| 553 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 492 |
-| 553 | [Maneater](games/m/maneater.md) | 4.49 | 13,449 | 24 |
-| 553 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 611 | 162 |
-| 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 492 |
-| 553 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 492 |
-| 553 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 345 |
-| 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 492 |
+| 554 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 375 |
+| 554 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 394 | 202 |
+| 554 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 103 |
+| 554 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 315 |
+| 554 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 492 |
+| 554 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 492 |
+| 554 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 232 |
+| 554 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 228 | 245 |
+| 554 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 492 |
+| 554 | [Maneater](games/m/maneater.md) | 4.49 | 13,449 | 24 |
+| 554 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 611 | 162 |
+| 554 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 492 |
+| 554 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 345 |
+| 554 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 492 |
 | 568 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 492 |
 | 568 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 492 |
 | 568 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 492 |
@@ -888,7 +888,7 @@
 | 884 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.99 | 76 | 351 |
 | 887 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 492 |
 | 887 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,873 | 104 |
-| 887 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,566 | 66 |
+| 887 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,571 | 66 |
 | 887 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 492 |
 | 891 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 492 |
 | 892 | [Chimeraland](games/c/chimeraland.md) | 3.96 | 20 | 485 |

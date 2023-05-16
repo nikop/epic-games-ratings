@@ -7,7 +7,6 @@
 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-15 | 2021-04-30 |
 | [Solargene](games/b/b5cf25c05580437a86a74319dac4f182.md) | 2023-05-14 | 2022-01-30 |
 | [Georifters](games/g/georifters.md) | 2023-05-14 | 2020-05-28 |
-| [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-13 | 2023-05-31 |
 | [Fusion Paradox](games/f/fusion_paradox.md) | 2023-05-12 | 2023-04-10 |
 | [ELEGIES Aya](games/e/elegies_aya.md) | 2023-05-12 | 2023-04-28 |
 | [Switchball HD](games/s/switchball_hd.md) | 2023-05-12 | 2021-05-17 |

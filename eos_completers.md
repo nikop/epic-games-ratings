@@ -18,9 +18,9 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
 | 22 | [Scorn](games/s/scorn.md) | 7.05% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
@@ -84,8 +84,8 @@
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
-| 85 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
 | 85 | [Sable](games/s/sable.md) | 0.93% |
+| 86 | [Dungeons 3](games/d/dungeons_3.md) | 0.92% |
 | 87 | [Hades](games/h/hades.md) | 0.90% |
 | 88 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 89 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
