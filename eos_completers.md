@@ -46,9 +46,9 @@
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 45 | [Lamentum](games/l/lamentum.md) | 2.99% |
 | 46 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 47 | [ZZT!](games/z/zzt!.md) | 2.91% |
-| 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
-| 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
+| 47 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
+| 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
+| 47 | [ZZT!](games/z/zzt!.md) | 2.90% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.73% |
@@ -118,10 +118,10 @@
 | 116 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 117 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 117 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
+| 117 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
 | 117 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
-| 120 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
-| 120 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.32% |
+| 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
+| 121 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 123 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 123 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 123 | [The Surge](games/t/the_surge.md) | 0.31% |
