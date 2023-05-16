@@ -18,6 +18,7 @@ Rating: 4.17 (Ranked 831)
 | Get ReQ'd | 0.40% | ~244 |
 | Working Hard or Harley Working? | 0.40% | ~244 |
 | Universal Health Scare | 0.40% | ~244 |
+| First Step Into the Knight | 0.40% | ~244 |
 | Unstoppable Force | 0.40% | ~244 |
 | Whispered Words | 0.40% | ~244 |
 | Lock and Key | 0.40% | ~244 |
@@ -32,7 +33,6 @@ Rating: 4.17 (Ranked 831)
 | Out of Their League | 0.30% | ~183 |
 | Drone You Out | 0.30% | ~183 |
 | To the Victor Go the Spoils | 0.30% | ~183 |
-| First Step Into the Knight | 0.30% | ~183 |
 | Knighthood | 0.30% | ~183 |
 | Loose Ends | 0.30% | ~183 |
 | Dressed to Impress | 0.20% | ~122 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 831)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,911 (Ranked 67)  
+Progressed: 60,912 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,17 +93,17 @@ Completed: 91 (0.15%) (Ranked 146)
 | 2023-05-13 | 60,844 | 90 |
 | 2023-05-14 | 60,883 | 91 |
 | 2023-05-15 | 60,902 | 91 |
-| 2023-05-16 | 60,911 | 91 |
+| 2023-05-16 | 60,912 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,213  (Ranked 99)  
-Sum: 3,670 (Ranked 137)  
+Sum: 3,672 (Ranked 137)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,213 |
 | This game is Extremely Fun | 191 |
 | This game is Relaxing | 189 |
-| This game has Quickly Understood Controls | 185 |
+| This game has Quickly Understood Controls | 187 |
 | This game has Amazing Characters | 182 |
 | This game has Diverse Characters | 181 |
 | This game is Highly Recommended | 179 |
@@ -197,4 +197,4 @@ Diff (max vs sum): -38
 | 2023-05-13 | 4.17 | 2,210 | 3,661 |
 | 2023-05-14 | 4.17 | 2,210 | 3,663 |
 | 2023-05-15 | 4.17 | 2,213 | 3,669 |
-| 2023-05-16 | 4.17 | 2,213 | 3,670 |
+| 2023-05-16 | 4.17 | 2,213 | 3,672 |

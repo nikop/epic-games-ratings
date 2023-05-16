@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,391 |
-| That's a Grand Army | 8.00% | ~3,015 |
-| That is mine! | 8.00% | ~3,015 |
-| Victorious! | 8.00% | ~3,015 |
-| Brothers in Arms | 6.00% | ~2,261 |
-| That's a Grand Navy | 6.00% | ~2,261 |
-| Seriously?! | 6.00% | ~2,261 |
-| For the Glory | 5.00% | ~1,884 |
-| Cold War | 4.00% | ~1,507 |
-| True Catholic | 4.00% | ~1,507 |
-| Defender of the Faith | 3.00% | ~1,130 |
-| It's all about the money | 3.00% | ~1,130 |
-| Respected | 3.00% | ~1,130 |
-| Truly Divine Ruler | 3.00% | ~1,130 |
+| Until death do us apart | 9.00% | ~3,394 |
+| That's a Grand Army | 8.00% | ~3,017 |
+| That is mine! | 8.00% | ~3,017 |
+| Victorious! | 8.00% | ~3,017 |
+| Brothers in Arms | 6.00% | ~2,263 |
+| That's a Grand Navy | 6.00% | ~2,263 |
+| Seriously?! | 6.00% | ~2,263 |
+| For the Glory | 5.00% | ~1,886 |
+| Cold War | 4.00% | ~1,509 |
+| True Catholic | 4.00% | ~1,509 |
+| Defender of the Faith | 3.00% | ~1,131 |
+| It's all about the money | 3.00% | ~1,131 |
+| Respected | 3.00% | ~1,131 |
+| Truly Divine Ruler | 3.00% | ~1,131 |
 | Blockader | 2.00% | ~754 |
 | Combined Arms | 2.00% | ~754 |
 | Double the Love | 2.00% | ~754 |
@@ -37,18 +37,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~377 |
 | A Golden Empire | 1.00% | ~377 |
 | My armies are invincible! | 1.00% | ~377 |
-| Isn't this the way to India? | 0.80% | ~301 |
-| Market Control | 0.80% | ~301 |
-| The Five Colonies | 0.80% | ~301 |
+| Isn't this the way to India? | 0.80% | ~302 |
+| Market Control | 0.80% | ~302 |
+| The Five Colonies | 0.80% | ~302 |
 | The Emperors new clothes | 0.70% | ~264 |
 | This navy can take it all | 0.70% | ~264 |
 | Down Under | 0.60% | ~226 |
 | Trustworthy | 0.60% | ~226 |
-| All belongs to Mother Russia | 0.50% | ~188 |
-| At every continent | 0.50% | ~188 |
-| Early-Modern Warfare | 0.50% | ~188 |
-| Electable! | 0.50% | ~188 |
-| Time Bandit | 0.50% | ~188 |
+| All belongs to Mother Russia | 0.50% | ~189 |
+| At every continent | 0.50% | ~189 |
+| Early-Modern Warfare | 0.50% | ~189 |
+| Electable! | 0.50% | ~189 |
+| Time Bandit | 0.50% | ~189 |
 | Absolutely | 0.40% | ~151 |
 | Live Long and Prosper | 0.40% | ~151 |
 | One Family to Rule them All | 0.40% | ~151 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,683 (Ranked 81)  
+Progressed: 37,715 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 36,053 | 0 |
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
-| 2023-05-16 | 37,683 | 0 |
+| 2023-05-16 | 37,715 | 0 |
 ## Awards
 Max (Educational): 5,223  (Ranked 60)  
 Sum: 43,238 (Ranked 27)  

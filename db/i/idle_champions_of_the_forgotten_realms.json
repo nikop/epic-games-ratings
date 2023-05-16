@@ -3742,9 +3742,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87649,
+  "EOS_Progressed": 87654,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6127,6 +6127,11 @@
       "Time": "2023-05-16T12:05:38.0566933+00:00",
       "NumProgressed": 87649,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T13:14:56.5161477+00:00",
+      "NumProgressed": 87654,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6488,9 +6493,9 @@
       "ID": "objective_completed_1096",
       "SetID": "415jc5c",
       "Name": "Zarak\u0027s Revenge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_1097",
@@ -7010,7 +7015,7 @@
       "Name": "Checkmate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_1204",
@@ -7026,7 +7031,7 @@
       "Name": "Vecna Out!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_1209",
@@ -7072,9 +7077,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 263
     },
     {
       "ID": "objective_completed_125",
@@ -7810,7 +7815,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_34",
@@ -10049,21 +10054,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53923,
+      "Progressed": 53928,
       "Completed": 2516
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87649,
+      "Progressed": 87654,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T09:57:38.7579752+00:00",
-  "LastChanged_Achievements": "2023-05-16T12:05:38.0566931+00:00",
+  "LastChanged_Achievements": "2023-05-16T13:14:56.5161471+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T11:57:50.3366202+00:00",
-  "LastUpdate_Achievements": "2023-05-16T12:05:38.0590388+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:06:38.9906069+00:00",
+  "LastUpdate_Achievements": "2023-05-16T13:14:56.51833+00:00"
 }

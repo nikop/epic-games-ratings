@@ -5,26 +5,26 @@ Rating: 4.49 (Ranked 554)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~18,789 |
+| Stylish | 86.00% | ~18,790 |
 | Advancement | 74.00% | ~16,168 |
-| Meticulously Efficient | 65.00% | ~14,201 |
-| Discovery | 63.00% | ~13,764 |
+| Meticulously Efficient | 65.00% | ~14,202 |
+| Discovery | 63.00% | ~13,765 |
 | Swift Rift Removers | 56.00% | ~12,235 |
-| Fully Upgraded | 55.00% | ~12,016 |
-| Cultured | 53.00% | ~11,579 |
+| Fully Upgraded | 55.00% | ~12,017 |
+| Cultured | 53.00% | ~11,580 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,361 |
 | Vaporous Expansion | 49.00% | ~10,706 |
 | Teamwork | 45.00% | ~9,832 |
-| There you are! | 44.00% | ~9,613 |
-| Clutch Capture | 42.00% | ~9,176 |
-| Back Off | 36.00% | ~7,865 |
+| There you are! | 44.00% | ~9,614 |
+| Clutch Capture | 42.00% | ~9,177 |
+| Back Off | 36.00% | ~7,866 |
 | Daily Dose | 35.00% | ~7,647 |
 | Welcome to the Crew | 33.00% | ~7,210 |
-| Solo Capture | 32.00% | ~6,991 |
+| Solo Capture | 32.00% | ~6,992 |
 | Ghostbuster In Training | 31.00% | ~6,773 |
-| Icing on the Cake | 30.00% | ~6,554 |
-| Legions | 28.00% | ~6,117 |
-| Side Hustle | 28.00% | ~6,117 |
+| Icing on the Cake | 30.00% | ~6,555 |
+| Legions | 28.00% | ~6,118 |
+| Side Hustle | 28.00% | ~6,118 |
 | We have the best insurance | 27.00% | ~5,899 |
 | Pesky Jerks | 27.00% | ~5,899 |
 | Right back at ya | 27.00% | ~5,899 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 554)
 | I don't need these | 1.00% | ~218 |
 | Mycophile | 1.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,848 (Ranked 89)  
+Progressed: 21,849 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 39 (0.18%) (Ranked 142)
 | 2023-05-13 | 21,764 | 39 |
 | 2023-05-14 | 21,803 | 39 |
 | 2023-05-15 | 21,836 | 39 |
-| 2023-05-16 | 21,848 | 39 |
+| 2023-05-16 | 21,849 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
 Sum: 2,067 (Ranked 184)  

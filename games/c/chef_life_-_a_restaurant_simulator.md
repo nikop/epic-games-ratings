@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 79.00% | ~76 |
+| The Big Day | 80.00% | ~77 |
 | Home Cook | 48.00% | ~46 |
 | You're the Expert! | 43.00% | ~41 |
 | French Flair | 33.00% | ~32 |

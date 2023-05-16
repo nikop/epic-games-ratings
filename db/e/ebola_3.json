@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -837,9 +837,9 @@
       "ID": "achExplosion",
       "SetID": "72gjli4",
       "Name": "Survival \u2714",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achFood",
@@ -1005,17 +1005,17 @@
       "ID": "achSeif",
       "SetID": "72gjli4",
       "Name": "Master of Unlocking \u2714",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "achShahmat",
       "SetID": "72gjli4",
       "Name": "Chess \u2714",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "achSpped",
@@ -1086,8 +1086,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-16T12:05:34.5595745+00:00",
+  "LastChanged_Achievements": "2023-05-16T13:14:52.8272752+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-16T11:59:45.2324549+00:00",
-  "LastUpdate_Achievements": "2023-05-16T12:05:34.559621+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:08:59.4993643+00:00",
+  "LastUpdate_Achievements": "2023-05-16T13:14:52.8273124+00:00"
 }

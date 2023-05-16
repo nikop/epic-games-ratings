@@ -5,6 +5,8 @@ Rating: 4.18 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Instigator | 0.20% | ~1 |
+| Big Game Hunter | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~0 |
 | Giving Back | 0.10% | ~13 |
@@ -38,8 +40,6 @@ Rating: 4.18 (Ranked 825)
 | Crash Site | 0.10% | ~13 |
 | Full Circle | 0.10% | ~13 |
 | Power Up | 0.10% | ~13 |
-| Instigator | 0.10% | ~0 |
-| Big Game Hunter | 0.10% | ~0 |
 | Bear Trap | 0.10% | ~0 |
 | Hoard Mode | 0.10% | ~0 |
 | Big Spender | 0.10% | ~0 |

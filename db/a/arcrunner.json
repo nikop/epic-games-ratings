@@ -342,9 +342,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHV_CYBORG",
@@ -398,9 +398,9 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -446,9 +446,9 @@
       "ID": "ACHV_RIPPERDOC",
       "SetID": "cceobco",
       "Name": "Ripperdoc",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHV_ROOKIE",
@@ -535,8 +535,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-16T12:05:18.6312647+00:00",
+  "LastChanged_Achievements": "2023-05-16T13:14:35.1241841+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:34.7775367+00:00",
-  "LastUpdate_Ratings": "2023-05-16T11:59:14.0699721+00:00",
-  "LastUpdate_Achievements": "2023-05-16T12:05:18.631288+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:08:19.585162+00:00",
+  "LastUpdate_Achievements": "2023-05-16T13:14:35.1242032+00:00"
 }

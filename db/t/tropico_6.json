@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2856,
+  "EOS_Progressed": 2857,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2127,6 +2127,11 @@
       "Time": "2023-05-16T09:06:59.0772351+00:00",
       "NumProgressed": 2856,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T13:14:51.6846835+00:00",
+      "NumProgressed": 2857,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2234,7 +2239,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2442,7 +2447,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -2457,15 +2462,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2856,
+      "Progressed": 2857,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-16T12:05:33.5996049+00:00",
+  "LastChanged_Achievements": "2023-05-16T13:14:51.6846829+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-16T11:59:41.3465906+00:00",
-  "LastUpdate_Achievements": "2023-05-16T12:05:33.599642+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:08:54.5579211+00:00",
+  "LastUpdate_Achievements": "2023-05-16T13:14:51.684715+00:00"
 }

@@ -14,10 +14,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 1.00% | ~148 |
 | Taking Action | 1.00% | ~148 |
 | No Deaths | 1.00% | ~148 |
+| Like a Machine | 0.90% | ~134 |
 | Bandit Camp | 0.80% | ~119 |
 | Barren Lands | 0.80% | ~119 |
 | Lost Colonies | 0.80% | ~119 |
-| Like a Machine | 0.80% | ~119 |
 | Trade Baron | 0.80% | ~119 |
 | Homesick | 0.70% | ~104 |
 | Ancient Battleground | 0.70% | ~104 |
@@ -40,14 +40,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.40% | ~59 |
 | Defying the Crown | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
+| Efficient Explorer | 0.30% | ~45 |
 | Ruined Armory | 0.30% | ~45 |
 | Fishmen Ritual Site | 0.30% | ~45 |
+| Blood Flower Farmer | 0.30% | ~45 |
 | Beaver Utopia | 0.20% | ~30 |
 | Human Utopia | 0.20% | ~30 |
 | Lizard Utopia | 0.20% | ~30 |
-| Efficient Explorer | 0.20% | ~30 |
 | Prestigious Expedition | 0.20% | ~30 |
-| Blood Flower Farmer | 0.20% | ~30 |
 | Victory through Prosperity | 0.20% | ~30 |
 | Feeding The People | 0.10% | ~15 |
 | Paradise | 0.10% | ~15 |

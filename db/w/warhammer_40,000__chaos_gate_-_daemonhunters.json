@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -510,9 +510,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2600,
+  "EOS_Progressed": 2601,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-05-15T20:04:58.0634412+00:00",
       "NumProgressed": 2600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T13:14:35.399367+00:00",
+      "NumProgressed": 2601,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -825,9 +830,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 702
     },
     {
       "ID": "BloodAndIron",
@@ -1233,9 +1238,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 104
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1282,21 +1287,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2600,
+      "Progressed": 2601,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2600,
+      "Progressed": 2601,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-08T20:00:29.2116217+00:00",
-  "LastChanged_Achievements": "2023-05-16T12:05:18.8901097+00:00",
+  "LastChanged_Achievements": "2023-05-16T13:14:35.3993665+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:33.8980479+00:00",
-  "LastUpdate_Ratings": "2023-05-16T11:58:23.5000899+00:00",
-  "LastUpdate_Achievements": "2023-05-16T12:05:18.8901637+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:07:16.8011286+00:00",
+  "LastUpdate_Achievements": "2023-05-16T13:14:35.3994111+00:00"
 }

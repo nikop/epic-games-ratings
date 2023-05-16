@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,173 (Ranked 157)  
+Progressed: 1,173 (Ranked 158)  
 Completed: 3 (0.26%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |

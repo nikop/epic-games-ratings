@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,916 |
-| Right Back At Ya | 37.00% | ~295,953 |
-| The Lovers | 32.00% | ~255,960 |
-| Stanislavski's Method | 27.00% | ~215,966 |
-| The Wheel of Fortune | 25.00% | ~199,968 |
-| The Hermit | 23.00% | ~183,971 |
-| Christmas Tree Attack | 22.00% | ~175,972 |
-| True Soldier | 22.00% | ~175,972 |
-| Legend of The Afterlife | 21.00% | ~167,974 |
-| The High Priestess | 20.00% | ~159,975 |
-| Life of the Road | 19.00% | ~151,976 |
-| Full Body Conversion | 17.00% | ~135,979 |
-| The World | 16.00% | ~127,980 |
-| Bushido and Chill | 15.00% | ~119,981 |
-| Gun Fu | 14.00% | ~111,982 |
-| True Warrior | 14.00% | ~111,982 |
+| The Fool | 67.00% | ~535,920 |
+| Right Back At Ya | 37.00% | ~295,956 |
+| The Lovers | 32.00% | ~255,962 |
+| Stanislavski's Method | 27.00% | ~215,968 |
+| The Wheel of Fortune | 25.00% | ~199,970 |
+| The Hermit | 23.00% | ~183,972 |
+| Christmas Tree Attack | 22.00% | ~175,974 |
+| True Soldier | 22.00% | ~175,974 |
+| Legend of The Afterlife | 21.00% | ~167,975 |
+| The High Priestess | 20.00% | ~159,976 |
+| Life of the Road | 19.00% | ~151,977 |
+| Full Body Conversion | 17.00% | ~135,980 |
+| The World | 16.00% | ~127,981 |
+| Bushido and Chill | 15.00% | ~119,982 |
+| Gun Fu | 14.00% | ~111,983 |
+| True Warrior | 14.00% | ~111,983 |
 | To Protect and Serve | 13.00% | ~103,984 |
 | Master Crafter | 13.00% | ~103,984 |
 | I Am The Law | 13.00% | ~103,984 |
 | Judy vs Night City | 13.00% | ~103,984 |
-| Two Heads, One Bullet | 11.00% | ~87,986 |
+| Two Heads, One Bullet | 11.00% | ~87,987 |
 | The Wandering Fool | 9.00% | ~71,989 |
 | The Quick and the Dead | 9.00% | ~71,989 |
 | Ten out of Ten | 8.00% | ~63,990 |
-| Breathtaking | 7.00% | ~55,991 |
-| To Bad Decisions! | 6.00% | ~47,992 |
-| The Star | 6.00% | ~47,992 |
-| The Sun | 6.00% | ~47,992 |
+| Breathtaking | 7.00% | ~55,992 |
+| To Bad Decisions! | 6.00% | ~47,993 |
+| The Star | 6.00% | ~47,993 |
+| The Sun | 6.00% | ~47,993 |
 | Must Be Rats | 4.00% | ~31,995 |
 | Temperance | 4.00% | ~31,995 |
 | City Lights | 3.00% | ~23,996 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~23,996 |
 | V for Vendetta | 3.00% | ~23,996 |
 | It's Elementary | 3.00% | ~23,996 |
-| Autojock | 2.00% | ~15,997 |
-| The Wasteland | 2.00% | ~15,997 |
-| Daemon In The Shell | 2.00% | ~15,997 |
-| The Devil | 2.00% | ~15,997 |
+| Autojock | 2.00% | ~15,998 |
+| The Wasteland | 2.00% | ~15,998 |
+| Daemon In The Shell | 2.00% | ~15,998 |
+| The Devil | 2.00% | ~15,998 |
 | Gunslinger | 1.00% | ~7,999 |
-| Rough Landing | 0.40% | ~3,199 |
+| Rough Landing | 0.40% | ~3,200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,874 (Ranked 11)  
+Progressed: 799,880 (Ranked 11)  
 Completed: 1,598 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,16 +77,16 @@ Completed: 1,598 (0.20%) (Ranked 139)
 | 2023-05-13 | 799,525 | 1,594 |
 | 2023-05-14 | 799,707 | 1,595 |
 | 2023-05-15 | 799,818 | 1,597 |
-| 2023-05-16 | 799,874 | 1,598 |
+| 2023-05-16 | 799,880 | 1,598 |
 ## Awards
-Max (Character Customization): 64,276  (Ranked 9)  
-Sum: 168,703 (Ranked 13)  
+Max (Character Customization): 64,312  (Ranked 9)  
+Sum: 168,746 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 64,276 |
+| This game has Inclusive Character Customization | 64,312 |
 | This game has Great Boss Battles | 41,422 |
-| This game has Amazing Storytelling | 7,424 |
+| This game has Amazing Storytelling | 7,431 |
 | This game has Diverse Characters | 7,402 |
 | This game is Great for Beginners | 7,375 |
 | This game is Extremely Fun | 7,321 |
@@ -215,4 +215,4 @@ Diff (max vs sum): -4
 | 2023-05-13 | 4.62 | - | 64,131 | 168,153 |
 | 2023-05-14 | 4.62 | - | 64,220 | 168,387 |
 | 2023-05-15 | 4.62 | - | 64,276 | 168,608 |
-| 2023-05-16 | 4.62 | - | 64,276 | 168,703 |
+| 2023-05-16 | 4.62 | - | 64,312 | 168,746 |

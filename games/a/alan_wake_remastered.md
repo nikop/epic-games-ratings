@@ -10,7 +10,7 @@ Number of Ratings: 524  (23.09.2022)
 | Let There Be Light | 16.00% | ~7,390 |
 | Float Like a Butterfly | 15.00% | ~6,928 |
 | Nordic Walking | 13.00% | ~6,004 |
-| Bright Falls' Finest | 12.00% | ~5,543 |
+| Bright Falls' Finest | 13.00% | ~6,004 |
 | Under a Thin Layer of Skin | 11.00% | ~5,081 |
 | Park Ranger | 9.00% | ~4,157 |
 | Back! Back, I Say! | 9.00% | ~4,157 |

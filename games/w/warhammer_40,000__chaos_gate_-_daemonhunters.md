@@ -7,7 +7,7 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 31.00% | ~806 |
-| Look Over There! | 28.00% | ~728 |
+| Look Over There! | 27.00% | ~702 |
 | Watch Where You Step... | 27.00% | ~702 |
 | Not So Fast... | 26.00% | ~676 |
 | An Ill Omen | 25.00% | ~650 |
@@ -25,8 +25,8 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 7.00% | ~182 |
 | Just a Scratch | 7.00% | ~182 |
 | Hold Your Ground | 6.00% | ~156 |
-| A Gift Spurned | 5.00% | ~130 |
 | Daemonkeeper | 4.00% | ~104 |
+| A Gift Spurned | 4.00% | ~104 |
 | Long Distance Call | 4.00% | ~104 |
 | Corruption Cleanser | 3.00% | ~78 |
 | Mind Like a Fortress | 3.00% | ~78 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,600 (Ranked 136)  
+Progressed: 2,601 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 2,593 | 0 |
 | 2023-05-13 | 2,597 | 0 |
 | 2023-05-15 | 2,600 | 0 |
+| 2023-05-16 | 2,601 | 0 |
 ## Awards
 Max (Character Customization): 208  (Ranked 254)  
 Sum: 417 (Ranked 298)  

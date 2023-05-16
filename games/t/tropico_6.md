@@ -8,7 +8,7 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 78.00% | ~2,228 |
 | Un-Lonely Island | 50.00% | ~1,428 |
-| The Beginning of a Servantship | 47.00% | ~1,342 |
+| The Beginning of a Servantship | 47.00% | ~1,343 |
 | Trade Is My Trait | 39.00% | ~1,114 |
 | Number 18 | 26.00% | ~743 |
 | We Don't Have Time For That | 21.00% | ~600 |
@@ -24,7 +24,7 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 9.00% | ~257 |
 | Firestarter | 9.00% | ~257 |
 | Make Tropico Great Again! | 9.00% | ~257 |
-| French Connection | 8.00% | ~228 |
+| French Connection | 8.00% | ~229 |
 | Don't Panic! | 7.00% | ~200 |
 | I Owe You Nothing | 7.00% | ~200 |
 | Computer Says "No" | 6.00% | ~171 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~29 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,856 (Ranked 132)  
+Progressed: 2,857 (Ranked 132)  
 Completed: 1 (0.04%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 1 (0.04%) (Ranked 176)
 | 2023-05-13 | 2,827 | 1 |
 | 2023-05-14 | 2,844 | 1 |
 | 2023-05-15 | 2,854 | 1 |
-| 2023-05-16 | 2,856 | 1 |
+| 2023-05-16 | 2,857 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 317)  
 Sum: 750 (Ranked 252)  

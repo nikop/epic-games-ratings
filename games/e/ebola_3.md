@@ -10,13 +10,13 @@
 | Police officers ✔ | 26.00% | ~43 |
 | Mutation ✔ | 24.00% | ~40 |
 | Doberman ✔ | 13.00% | ~22 |
+| Chess ✔ | 10.00% | ~17 |
 | Weapon ✔ | 10.00% | ~17 |
-| Chess ✔ | 9.00% | ~15 |
-| Master of Unlocking ✔ | 8.00% | ~13 |
+| Master of Unlocking ✔ | 9.00% | ~15 |
+| Survival ✔ | 8.00% | ~13 |
 | Thirst ✔ | 8.00% | ~13 |
 | Antivirus ✔ | 7.00% | ~12 |
 | Cheats ✔ | 7.00% | ~12 |
-| Survival ✔ | 7.00% | ~12 |
 | Hospital ✔ | 7.00% | ~12 |
 | King of survival ✔ | 7.00% | ~12 |
 | Alice ✔ | 6.00% | ~10 |
