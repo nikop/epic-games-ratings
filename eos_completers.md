@@ -12,13 +12,13 @@
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.58% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
-| 13 | [Remains](games/r/remains.md) | 10.00% |
-| 14 | [Smelter](games/s/smelter.md) | 9.68% |
+| 13 | [Smelter](games/s/smelter.md) | 9.68% |
+| 14 | [Remains](games/r/remains.md) | 9.52% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
 | 22 | [Scorn](games/s/scorn.md) | 7.05% |
@@ -39,16 +39,16 @@
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.52% |
-| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.44% |
+| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.43% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 45 | [Lamentum](games/l/lamentum.md) | 2.99% |
 | 46 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 47 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
-| 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
-| 47 | [ZZT!](games/z/zzt!.md) | 2.90% |
+| 47 | [ZZT!](games/z/zzt!.md) | 2.94% |
+| 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
+| 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.73% |
@@ -71,7 +71,7 @@
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
 | 70 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
-| 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
+| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 74 | [Them and Us](games/t/them_and_us.md) | 1.39% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
@@ -400,4 +400,4 @@
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,618 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,619 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

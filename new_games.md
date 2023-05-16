@@ -1,5 +1,7 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 2023-05-16 | 2021-09-07 |
+| [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-16 | 2023-05-16 |
 | [Bus Driver Simulator](games/d/d696915035d84092a02a646f25530ccd.md) | 2023-05-16 | 2019-12-04 |
 | [Tin Hearts](games/5/5d1128dd0a214b64ad9356749b140e3d.md) | 2023-05-16 | 2023-05-16 |

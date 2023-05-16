@@ -413,6 +413,8 @@
 | [Full Metal Sergeant](../games/f/full_metal_sergeant.md) | 10 | 1,000 |
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Monster Harvest](../games/m/monster_harvest.md) | 10 | 1,000 |
+| [Olija](../games/o/olija.md) | 10 | 1,000 |
+| [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
 | [Volley Pals](../games/v/volley_pals.md) | 10 | 1,000 |
 | [Wild Animal Sports Day](../games/w/wild_animal_sports_day.md) | 10 | 1,000 |
 | [Doodle Devil](../games/d/doodle_devil.md) | 9 | 1,000 |

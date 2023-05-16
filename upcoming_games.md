@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
@@ -84,6 +83,7 @@
 | [Yomi 2](games/y/yomi_2.md) | 2023-06-30 | 2023-06-30 |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 2023-04-03 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | 2023-07-20 |
+| [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-07-31 | 2017-07-14 |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2023-08-16 | 2023-08-16 |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 2023-08-24 |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | 2023-08-31 |

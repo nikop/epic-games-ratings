@@ -251,6 +251,7 @@
 | [Nickelodeon All-Star Brawl](../games/n/nickelodeon_all-star_brawl.md) | 24 | 1,000 |
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
 | [Occupy Mars: The Game](../games/o/occupy_mars__the_game.md) | 48 | 1,000 |
+| [Olija](../games/o/olija.md) | 10 | 1,000 |
 | [One Hand Clapping](../games/o/one_hand_clapping.md) | 28 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
 | [Outcore - Desktop Adventure](../games/o/outcore_-_desktop_adventure.md) | 26 | 1,000 |
@@ -337,6 +338,7 @@
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](../games/s/stranger_of_paradise_final_fantasy_origin.md) | 46 | 1,000 |
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
 | [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 |
+| [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
 | [Sunless Sea](../games/s/sunless_sea.md) | 54 | 1,000 |
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
