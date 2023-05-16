@@ -3,12 +3,12 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 397,
-  "Ranking_Popularity": 323,
-  "Ranking_PopularitySum": 230,
+  "Ranking_Popularity": 320,
+  "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -1806,12 +1806,18 @@
       "Rating": 4.59,
       "NumberOfAwards": 956,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-05-15T23:58:56.2971459+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 959,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 956,
-  "NumberOfAwardsMax": 100,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 959,
+  "NumberOfAwardsMax": 103,
+  "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1823,7 +1829,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 100
+      "Count": 103
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1898,8 +1904,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-05-15T10:59:39.4425961+00:00",
+  "LastChanged": "2023-05-15T23:58:56.2971458+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.0776553+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:58:52.9941026+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:03:49.7737613+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:58:56.2971463+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:03:44.5386784+00:00"
 }

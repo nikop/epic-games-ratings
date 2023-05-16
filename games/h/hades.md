@@ -17,8 +17,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Skelly Slayer | 42.00% | ~285,880 |
 | Well Stocked | 40.00% | ~272,267 |
 | Back to Work | 39.00% | ~265,460 |
+| Blessed by the Gods | 38.00% | ~258,653 |
 | Day-or-Night Trader | 37.00% | ~251,847 |
-| Blessed by the Gods | 37.00% | ~251,847 |
 | Urge to Sing | 36.00% | ~245,040 |
 | Blood Bound | 35.00% | ~238,233 |
 | Three-Headed Boy | 32.00% | ~217,813 |

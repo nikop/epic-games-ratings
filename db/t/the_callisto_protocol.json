@@ -716,8 +716,8 @@
       "NumCompleted": 48
     }
   ],
-  "TotalAchievements": 33,
-  "TotalAchievementsXP": 1280,
+  "TotalAchievements": 40,
+  "TotalAchievementsXP": 1500,
   "Achievements": [
     {
       "ID": "ALL_TROPHIES",
@@ -731,81 +731,81 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.4,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 13
     },
     {
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 377
+      "UsersEstimate": 13
     },
     {
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 5,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 13
     },
     {
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.6,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 13
     },
     {
       "ID": "FINISH_CONTAGION",
       "SetID": "6j5ggkc",
       "Name": "Glutton for Punishment",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_CONTAGION_NO_DEATH",
       "SetID": "6j5ggkc",
       "Name": "You Belong Here",
-      "Percentage": 1,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_GAME",
       "SetID": "4hj6d86",
       "Name": "I Do Belong Here",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "FINISH_GAME_HARD",
       "SetID": "4hj6d86",
       "Name": "The Protocol is About Life",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 13
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
       "SetID": "6j5ggkc",
       "Name": "Recidivist",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -819,169 +819,225 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 5,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 628
+      "UsersEstimate": 13
     },
     {
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 377
+      "UsersEstimate": 13
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 13
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 13
     },
     {
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 5,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 13
     },
     {
       "ID": "SHARE_PHOTO",
       "SetID": "4hj6d86",
       "Name": "Mugshot",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
     },
     {
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "DISMEMBER_100",
+      "SetID": "6j5ggkc",
+      "Name": "I am the Danger",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_RIOT_MODE",
+      "SetID": "6j5ggkc",
+      "Name": "Instigator",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_WAVE_50",
+      "SetID": "6j5ggkc",
+      "Name": "Big Game Hunter",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_2HEAD_HAZARD",
+      "SetID": "6j5ggkc",
+      "Name": "Bear Trap",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NOSPEND_2ROUNDS",
+      "SetID": "6j5ggkc",
+      "Name": "Hoard Mode",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RIOT_10_POWERUPS",
+      "SetID": "6j5ggkc",
+      "Name": "Subject Alpha",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEND_20000",
+      "SetID": "6j5ggkc",
+      "Name": "Big Spender",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -1002,8 +1058,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-05T17:02:12.7332747+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:04:43.3789645+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:04:49.2870244+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:57:26.2738174+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:04:43.3789896+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:57:26.07667+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:04:49.2870496+00:00"
 }

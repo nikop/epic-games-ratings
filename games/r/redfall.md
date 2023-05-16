@@ -1,28 +1,28 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.41 (Ranked 919)  
+Rating: 3.44 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 81.00% | ~1,256 |
-| Home Is Where the Heart Is | 63.00% | ~977 |
-| Ne Plus Ultra | 63.00% | ~977 |
-| Wounded Whispers | 63.00% | ~977 |
-| Blood Will Have Blood | 52.00% | ~807 |
-| ICU | 47.00% | ~729 |
-| Catch and Release | 46.00% | ~713 |
-| Peek-a-boo | 45.00% | ~698 |
-| Sucks To Be You | 45.00% | ~698 |
-| Welcome to the Neighborhood | 39.00% | ~605 |
-| Fly Fisher | 36.00% | ~558 |
-| Throw The First Stone | 36.00% | ~558 |
+| I Like My Stakes Rare! | 81.00% | ~1,258 |
+| Home Is Where the Heart Is | 63.00% | ~978 |
+| Wounded Whispers | 63.00% | ~978 |
+| Ne Plus Ultra | 62.00% | ~963 |
+| Blood Will Have Blood | 51.00% | ~792 |
+| ICU | 47.00% | ~730 |
+| Catch and Release | 46.00% | ~714 |
+| Peek-a-boo | 45.00% | ~699 |
+| Sucks To Be You | 44.00% | ~683 |
+| Welcome to the Neighborhood | 39.00% | ~606 |
+| Fly Fisher | 36.00% | ~559 |
+| Throw The First Stone | 36.00% | ~559 |
 | Enter of Your Own Free Will | 33.00% | ~512 |
 | Heart Attack | 33.00% | ~512 |
 | Skin of Their Teeth | 33.00% | ~512 |
-| Grounded | 24.00% | ~372 |
-| Bad Wiring | 22.00% | ~341 |
-| I Spit On Your Grave | 20.00% | ~310 |
+| Grounded | 24.00% | ~373 |
+| Bad Wiring | 22.00% | ~342 |
+| I Spit On Your Grave | 20.00% | ~311 |
 | Neighborhood Revitalization | 16.00% | ~248 |
 | Radio Silence | 16.00% | ~248 |
 | Helping Hand | 13.00% | ~202 |
@@ -72,7 +72,7 @@ Rating: 3.41 (Ranked 919)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,551 (Ranked 150)  
+Progressed: 1,553 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 1,526 | 0 |
 | 2023-05-14 | 1,539 | 0 |
 | 2023-05-15 | 1,551 | 0 |
+| 2023-05-16 | 1,553 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -101,3 +102,4 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-10 | 3.33 | 0 | 0 |
 | 2023-05-13 | 3.38 | 0 | 0 |
 | 2023-05-14 | 3.41 | 0 | 0 |
+| 2023-05-15 | 3.44 | 0 | 0 |

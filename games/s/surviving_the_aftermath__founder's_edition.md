@@ -6,7 +6,7 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,728 |
+| First Step | 70.00% | ~3,729 |
 | Leader | 60.00% | ~3,196 |
 | Explorer | 53.00% | ~2,823 |
 | Healer | 53.00% | ~2,823 |
@@ -20,16 +20,16 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~1,758 |
 | Survivor | 31.00% | ~1,651 |
 | The Great Healer | 30.00% | ~1,598 |
-| Cleaner | 28.00% | ~1,491 |
-| Catastrofan | 28.00% | ~1,491 |
+| Cleaner | 28.00% | ~1,492 |
+| Catastrofan | 28.00% | ~1,492 |
 | Legendary Explorer | 27.00% | ~1,438 |
 | Finders, Keepers | 25.00% | ~1,332 |
 | Top Notch | 24.00% | ~1,278 |
 | Great Leader | 22.00% | ~1,172 |
 | Ice Lakes | 22.00% | ~1,172 |
 | Mentor | 22.00% | ~1,172 |
-| Merchant | 21.00% | ~1,118 |
-| Real Survivor | 21.00% | ~1,118 |
+| Merchant | 21.00% | ~1,119 |
+| Real Survivor | 21.00% | ~1,119 |
 | War Never Changes | 19.00% | ~1,012 |
 | Rocket Surgeon | 19.00% | ~1,012 |
 | Friendly | 16.00% | ~852 |
@@ -37,8 +37,8 @@ Number of Ratings: 836  (23.09.2022)
 | Spreading Influence | 16.00% | ~852 |
 | Around the World | 15.00% | ~799 |
 | Bookworm | 14.00% | ~746 |
-| Famous Adventurer | 13.00% | ~692 |
-| Prepared for Anything | 13.00% | ~692 |
+| Famous Adventurer | 13.00% | ~693 |
+| Prepared for Anything | 13.00% | ~693 |
 | Big Catastrofan | 12.00% | ~639 |
 | It's a Finnish Thing | 10.00% | ~533 |
 | Sky Burial | 9.00% | ~479 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,326 (Ranked 120)  
+Progressed: 5,327 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 5,242 | 0 |
 | 2023-05-14 | 5,285 | 0 |
 | 2023-05-15 | 5,326 | 0 |
+| 2023-05-16 | 5,327 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

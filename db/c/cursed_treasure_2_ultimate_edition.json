@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -94,9 +94,9 @@
       "ID": "BADGE_BOSS_1_KILL",
       "SetID": "ak6pfjk",
       "Name": "Your War is Over",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "BADGE_BOSS_2_KILL",
@@ -166,9 +166,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Meadowshire",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
@@ -230,9 +230,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT",
       "SetID": "ak6pfjk",
       "Name": "The Starry Night",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
@@ -318,9 +318,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -334,9 +334,9 @@
       "ID": "BADGE_ENEMIES_FRIGHTEN",
       "SetID": "ak6pfjk",
       "Name": "Go Home!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "BADGE_ENEMIES_KILL",
@@ -382,9 +382,9 @@
       "ID": "BADGE_GOLD_COINS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Look After the Pence...",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "BADGE_HOSTILE_WATERS",
@@ -406,9 +406,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -438,9 +438,9 @@
       "ID": "BADGE_PLAYER_RANK",
       "SetID": "ak6pfjk",
       "Name": "Sergeant of the Evil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "BADGE_PLAYER_RANK_2",
@@ -470,9 +470,9 @@
       "ID": "BADGE_SKILL_MAX",
       "SetID": "ak6pfjk",
       "Name": "Evil Genius",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "BADGE_STASIS_COUNT",
@@ -502,9 +502,9 @@
       "ID": "BADGE_TOWER_UPGRADE_2",
       "SetID": "ak6pfjk",
       "Name": "Architect of Darkness",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:04:52.1789306+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:04:58.2713132+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:31.9076697+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:58:04.5906251+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:04:52.178971+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:58:05.9246914+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:04:58.2713467+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~503,436 |
-| Every story has a beginning | 37.00% | ~227,160 |
-| The first of many | 32.00% | ~196,463 |
-| Positive word of mouth | 18.00% | ~110,510 |
-| Lawn in the U.S.A. | 15.00% | ~92,092 |
-| Blade Runner | 9.00% | ~55,255 |
-| Credible | 7.00% | ~42,976 |
+| The dream begins | 82.00% | ~503,442 |
+| Every story has a beginning | 37.00% | ~227,163 |
+| The first of many | 32.00% | ~196,465 |
+| Positive word of mouth | 18.00% | ~110,512 |
+| Lawn in the U.S.A. | 15.00% | ~92,093 |
+| Blade Runner | 9.00% | ~55,256 |
+| Credible | 7.00% | ~42,977 |
 | Teamwork makes the dream work | 6.00% | ~36,837 |
 | Bigger and better | 4.00% | ~24,558 |
 | Aggressive expansion | 4.00% | ~24,558 |
-| Where there's muck there's brass | 3.00% | ~18,418 |
-| Size isn't everything | 3.00% | ~18,418 |
-| Established | 3.00% | ~18,418 |
+| Where there's muck there's brass | 3.00% | ~18,419 |
+| Size isn't everything | 3.00% | ~18,419 |
+| Established | 3.00% | ~18,419 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,279 |
 | Close shave | 2.00% | ~12,279 |
 | Every good deed… | 2.00% | ~12,279 |
 | Leaner and meaner | 2.00% | ~12,279 |
 | First step on the ladder | 2.00% | ~12,279 |
 | Trusted | 2.00% | ~12,279 |
-| Fighting on all fronts | 1.00% | ~6,139 |
-| The top of the mountain | 1.00% | ~6,139 |
+| Fighting on all fronts | 1.00% | ~6,140 |
+| The top of the mountain | 1.00% | ~6,140 |
 | Earn your stripes | 0.90% | ~5,526 |
 | Lawn & Order | 0.90% | ~5,526 |
 | Professional | 0.90% | ~5,526 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~614 |
 | Mo mowers, mo problems | 0.10% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 613,946 (Ranked 19)  
+Progressed: 613,954 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,15 +87,16 @@ Completed: 9 (0.00%) (Ranked 199)
 | 2023-05-13 | 613,150 | 9 |
 | 2023-05-14 | 613,642 | 9 |
 | 2023-05-15 | 613,946 | 9 |
+| 2023-05-16 | 613,954 | 9 |
 ## Awards
 Max (Quickly Understood Controls): 179  (Ranked 269)  
-Sum: 957 (Ranked 229)  
-Diff (max vs sum): 40  
+Sum: 958 (Ranked 230)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 179 |
 | This game is Extremely Fun | 167 |
-| This game is Relaxing | 161 |
+| This game is Relaxing | 162 |
 | This game is Great for Beginners | 159 |
 | This game is Highly Recommended | 153 |
 | This game has Amazing Storytelling | 138 |
@@ -169,3 +170,4 @@ Diff (max vs sum): 40
 | 2023-04-20 | 4.08 | - | 179 | 956 |
 | 2023-04-25 | 4.08 | - | 179 | 957 |
 | 2023-04-28 | 4.07 | - | 179 | 957 |
+| 2023-05-15 | 4.07 | - | 179 | 958 |

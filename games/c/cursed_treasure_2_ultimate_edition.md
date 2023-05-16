@@ -8,22 +8,22 @@
 | On the Crest of a Wave | 95.00% | ~143 |
 | Foreman of Darkness | 95.00% | ~143 |
 | Brilliant Day | 93.00% | ~140 |
-| Evil Genius | 86.00% | ~130 |
+| Evil Genius | 87.00% | ~131 |
 | Air Defense | 84.00% | ~127 |
 | Tinned Corpse | 82.00% | ~124 |
-| Your War is Over | 80.00% | ~121 |
-| The Starry Night | 74.00% | ~112 |
-| Go Home! | 73.00% | ~110 |
-| Brilliant: Meadowshire | 71.00% | ~107 |
-| Look After the Pence... | 71.00% | ~107 |
-| Sergeant of the Evil | 71.00% | ~107 |
-| Drunken Master | 70.00% | ~106 |
-| V.I.P. Cemetery | 68.00% | ~103 |
+| Your War is Over | 81.00% | ~122 |
+| The Starry Night | 75.00% | ~113 |
+| Go Home! | 74.00% | ~112 |
+| Brilliant: Meadowshire | 72.00% | ~109 |
+| Look After the Pence... | 72.00% | ~109 |
+| Sergeant of the Evil | 72.00% | ~109 |
+| Drunken Master | 71.00% | ~107 |
+| V.I.P. Cemetery | 69.00% | ~104 |
 | Woodcutter | 68.00% | ~103 |
 | Takeover | 67.00% | ~101 |
+| Architect of Darkness | 67.00% | ~101 |
 | Top of the World | 66.00% | ~100 |
 | Sharpshooter | 66.00% | ~100 |
-| Architect of Darkness | 66.00% | ~100 |
 | The Apotheosis of War | 64.00% | ~97 |
 | Stasis Alcatraz | 64.00% | ~97 |
 | Tastes Like Chicken | 60.00% | ~91 |

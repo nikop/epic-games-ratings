@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -4836,9 +4836,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 37515,
+  "EOS_Progressed": 37521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4876,
+  "EOS_NewPlayers": 4865,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7236,6 +7236,11 @@
       "Time": "2023-05-15T23:05:17.4199406+00:00",
       "NumProgressed": 37515,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T00:05:23.2923557+00:00",
+      "NumProgressed": 37521,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -7863,7 +7868,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -8247,7 +8252,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "achievement_grand_coalition",
@@ -8463,7 +8468,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -9183,7 +9188,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -9527,7 +9532,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -9855,7 +9860,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "achievement_trustworthy",
@@ -9911,7 +9916,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -9943,7 +9948,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -10078,21 +10083,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 37515,
+      "Progressed": 37521,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 37515,
+      "Progressed": 37521,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-15T20:57:11.9538108+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:05:17.4199401+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:05:23.2923553+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.1360508+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:57:01.3552545+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:05:17.4211861+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:56:59.179391+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:05:23.2933403+00:00"
 }

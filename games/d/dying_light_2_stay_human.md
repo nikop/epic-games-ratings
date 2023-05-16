@@ -1,26 +1,26 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.57 (Ranked 428)  
+Rating: 4.57 (Ranked 429)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,294 |
-| Into the Unknown | 8.00% | ~43,817 |
-| First Shot | 8.00% | ~43,817 |
-| Herzlich Wilkommen! | 7.00% | ~38,340 |
-| Sancho Panza | 7.00% | ~38,340 |
-| Good Night & Good Luck | 7.00% | ~38,340 |
-| Under Pressure | 6.00% | ~32,863 |
-| Flag Burning | 6.00% | ~32,863 |
-| Oh, So This Is How It Works! | 6.00% | ~32,863 |
-| Night Hunter | 6.00% | ~32,863 |
-| On the Trail of the Enemy | 5.00% | ~27,386 |
-| Light in the Darkness | 5.00% | ~27,386 |
-| Get Outta My House! | 5.00% | ~27,386 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,386 |
-| Being All Social | 5.00% | ~27,386 |
+| You Never Forget Your First... | 9.00% | ~49,296 |
+| Into the Unknown | 8.00% | ~43,819 |
+| First Shot | 8.00% | ~43,819 |
+| Herzlich Wilkommen! | 7.00% | ~38,341 |
+| Sancho Panza | 7.00% | ~38,341 |
+| Good Night & Good Luck | 7.00% | ~38,341 |
+| Under Pressure | 6.00% | ~32,864 |
+| Flag Burning | 6.00% | ~32,864 |
+| Oh, So This Is How It Works! | 6.00% | ~32,864 |
+| Night Hunter | 6.00% | ~32,864 |
+| On the Trail of the Enemy | 5.00% | ~27,387 |
+| Light in the Darkness | 5.00% | ~27,387 |
+| Get Outta My House! | 5.00% | ~27,387 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,387 |
+| Being All Social | 5.00% | ~27,387 |
 | Debris and Ashes | 4.00% | ~21,909 |
 | We Will Be Heard! | 4.00% | ~21,909 |
 | Known Associate | 4.00% | ~21,909 |
@@ -32,12 +32,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | After the Fall | 4.00% | ~21,909 |
 | Can't Touch This! | 4.00% | ~21,909 |
 | Death From Afar | 4.00% | ~21,909 |
-| Terminal Headache | 3.00% | ~16,431 |
-| Slowpoke! | 3.00% | ~16,431 |
-| Tickets, Please! | 2.00% | ~10,954 |
-| Parkour Master | 2.00% | ~10,954 |
-| Combat Master | 2.00% | ~10,954 |
-| You're Going Down! | 2.00% | ~10,954 |
+| Terminal Headache | 3.00% | ~16,432 |
+| Slowpoke! | 3.00% | ~16,432 |
+| Tickets, Please! | 2.00% | ~10,955 |
+| Parkour Master | 2.00% | ~10,955 |
+| Combat Master | 2.00% | ~10,955 |
+| You're Going Down! | 2.00% | ~10,955 |
 | Municipal Services | 1.00% | ~5,477 |
 | Tube Map | 1.00% | ~5,477 |
 | Don Quixote | 1.00% | ~5,477 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,477 |
 | Ironheart | 1.00% | ~5,477 |
 | Nemesis | 1.00% | ~1,932 |
-| Enter the Hall | 0.90% | ~1,738 |
+| Enter the Hall | 0.90% | ~1,739 |
 | That's Teamwork! | 0.80% | ~4,382 |
 | Fit as a Fiddle | 0.80% | ~4,382 |
 | Night of Terrors | 0.80% | ~1,545 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,713 (Ranked 22)  
+Progressed: 547,735 (Ranked 22)  
 Completed: 47 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 47 (0.01%) (Ranked 191)
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
 | 2023-05-15 | 547,713 | 47 |
+| 2023-05-16 | 547,735 | 47 |
 ## Awards
 Max (Character Customization): 7,062  (Ranked 44)  
 Sum: 16,390 (Ranked 58)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -1238,9 +1238,9 @@
       "ID": "achFirstPassengerWaiting",
       "SetID": "dgl390n",
       "Name": "First passenger waiting",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 722
     },
     {
       "ID": "achFirstShipArrived",
@@ -1478,8 +1478,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-15T19:58:54.3106025+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:05:12.7353563+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:05:18.492339+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.0727856+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:58:54.6439478+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:05:12.7354155+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:58:57.9735261+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:05:18.4923842+00:00"
 }

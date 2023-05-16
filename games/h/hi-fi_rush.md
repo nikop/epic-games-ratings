@@ -38,7 +38,7 @@ Rating: 4.86 (Ranked 28)
 | Check out my moves! | 18.00% | ~269 |
 | Wanna hear my playlist? | 17.00% | ~254 |
 | Chip-tuned | 16.00% | ~239 |
-| We're Jammin' | 13.00% | ~194 |
+| We're Jammin' | 14.00% | ~209 |
 | I think I found your calling, Macaron | 11.00% | ~164 |
 | I'm not done with you yet | 11.00% | ~164 |
 | First we parry, then we counter | 11.00% | ~164 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -723,9 +723,9 @@
       "ID": "Ach037",
       "SetID": "12n4k20",
       "Name": "We\u0027re Jammin\u0027",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 209
     },
     {
       "ID": "Ach038",
@@ -938,8 +938,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-05-08T21:59:53.9566776+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:04:48.9026161+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:04:54.8425259+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:30.3215912+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:58:02.5126935+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:04:48.9026765+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:58:03.6081987+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:04:54.8425726+00:00"
 }

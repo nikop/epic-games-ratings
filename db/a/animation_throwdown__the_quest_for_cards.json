@@ -2,13 +2,13 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
     "PcReleaseDate": "2017-05-05T11:49:39+00:00",
@@ -1283,10 +1283,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 2638,
       "NumberOfAwardsMax": 342
+    },
+    {
+      "Time": "2023-05-15T23:57:11.0132448+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 2639,
+      "NumberOfAwardsMax": 342
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2638,
+  "NumberOfAwards": 2639,
   "NumberOfAwardsMax": 342,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1336,7 +1342,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 276
+      "Count": 277
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1362,8 +1368,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-05-14T08:57:25.0071088+00:00",
+  "LastChanged": "2023-05-15T23:57:11.0132447+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:28.6303978+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:57:13.1213334+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:02:16.1169836+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:57:11.0132451+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:02:09.659973+00:00"
 }

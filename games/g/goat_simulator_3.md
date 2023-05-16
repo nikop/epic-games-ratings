@@ -5,25 +5,25 @@ Rating: 4.85 (Ranked 38)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~197,455 |
-| Private Club | 74.00% | ~160,568 |
-| Rogue Guild | 66.00% | ~143,209 |
-| I Watched the Intro | 57.00% | ~123,681 |
-| Covert Consortium | 55.00% | ~119,341 |
-| Goat Queen | 53.00% | ~115,002 |
-| Reach the Stratosphere | 49.00% | ~106,322 |
-| Synchronization Complete | 47.00% | ~101,982 |
-| Secret Society | 45.00% | ~97,643 |
-| Shadow Syndicate | 38.00% | ~82,454 |
-| What a Waste of Money | 32.00% | ~69,435 |
-| New Goat Order | 30.00% | ~65,095 |
+| Forgotten Sorority | 91.00% | ~197,457 |
+| Private Club | 74.00% | ~160,570 |
+| Rogue Guild | 66.00% | ~143,211 |
+| I Watched the Intro | 57.00% | ~123,682 |
+| Covert Consortium | 55.00% | ~119,342 |
+| Goat Queen | 53.00% | ~115,003 |
+| Reach the Stratosphere | 49.00% | ~106,323 |
+| Synchronization Complete | 47.00% | ~101,983 |
+| Secret Society | 45.00% | ~97,644 |
+| Shadow Syndicate | 38.00% | ~82,455 |
+| What a Waste of Money | 32.00% | ~69,436 |
+| New Goat Order | 30.00% | ~65,096 |
 | Don't touch the servers | 28.00% | ~60,756 |
 | San Angora: Become Human | 26.00% | ~56,416 |
 | Raider of the Lost Parking Garage | 26.00% | ~56,416 |
 | Real Buoy | 26.00% | ~56,416 |
 | Welcome to Earth | 25.00% | ~54,246 |
 | Into the Matrix | 19.00% | ~41,227 |
-| Where is It? | 17.00% | ~36,887 |
+| Where is It? | 17.00% | ~36,888 |
 | Egg Simulator | 15.00% | ~32,548 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~32,548 |
 | Black Market | 14.00% | ~30,378 |
@@ -45,8 +45,8 @@ Rating: 4.85 (Ranked 38)
 | Move! That! Bus! | 0.60% | ~1,302 |
 | G.O.A.T | 0.30% | ~651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,984 (Ranked 46)  
-Completed: 693 (0.32%) (Ranked 120)  
+Progressed: 216,986 (Ranked 46)  
+Completed: 694 (0.32%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,9 +71,10 @@ Completed: 693 (0.32%) (Ranked 120)
 | 2023-05-13 | 216,746 | 687 |
 | 2023-05-14 | 216,892 | 690 |
 | 2023-05-15 | 216,984 | 693 |
+| 2023-05-16 | 216,986 | 694 |
 ## Awards
 Max (Great for Beginners): 315  (Ranked 221)  
-Sum: 2,684 (Ranked 161)  
+Sum: 2,685 (Ranked 161)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -86,7 +87,7 @@ Diff (max vs sum): 60
 | This game has Quickly Understood Controls | 259 |
 | This game has Amazing Storytelling | 259 |
 | This game has a Silly Community | 235 |
-| This game has Easy Combat | 226 |
+| This game has Easy Combat | 227 |
 | This game is Educational | 158 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -145,4 +146,4 @@ Diff (max vs sum): 60
 | 2023-05-12 | 4.85 | 313 | 2,667 |
 | 2023-05-13 | 4.85 | 315 | 2,677 |
 | 2023-05-14 | 4.85 | 315 | 2,683 |
-| 2023-05-15 | 4.85 | 315 | 2,684 |
+| 2023-05-15 | 4.85 | 315 | 2,685 |

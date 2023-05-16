@@ -3,8 +3,8 @@
   "Name": "Barium",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:17.632388+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:57:24.7416005+00:00",
-  "LastUpdate_Achievements": "2023-05-15T22:03:25.6373889+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:57:24.5136802+00:00",
+  "LastUpdate_Achievements": "2023-05-15T23:59:50.17403+00:00"
 }

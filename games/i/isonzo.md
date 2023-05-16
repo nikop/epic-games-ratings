@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 428)  
+Rating: 4.57 (Ranked 429)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 98  (23.09.2022)
 | Tutti Eroi! | 53.00% | ~2,980 |
 | You Shall Not Pass | 53.00% | ~2,980 |
 | Avanti Savoia! | 46.00% | ~2,587 |
+| Mamma Mia! | 36.00% | ~2,024 |
 | Conrad von Hotzensocks | 35.00% | ~1,968 |
-| Mamma Mia! | 35.00% | ~1,968 |
 | Gabriele D'Annunzio | 32.00% | ~1,799 |
 | Silver Lining | 28.00% | ~1,574 |
 | Aurelio Baruzzi | 22.00% | ~1,237 |

@@ -1,20 +1,20 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.41 (Ranked 919)  
+Rating: 3.41 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~11,784 |
+| Be Seeing You | 21.00% | ~11,785 |
 | Hard Worker | 19.00% | ~10,662 |
 | Master, Commander | 19.00% | ~10,662 |
 | Mechanic | 18.00% | ~10,101 |
 | Adios, Friendo | 17.00% | ~9,540 |
 | Bottom's Up | 17.00% | ~9,540 |
-| Nice Try | 16.00% | ~8,978 |
+| Nice Try | 16.00% | ~8,979 |
 | Right On Target | 13.00% | ~7,295 |
 | Piano Man | 10.00% | ~5,612 |
-| Lazy Bones | 9.00% | ~5,050 |
+| Lazy Bones | 9.00% | ~5,051 |
 | Vinyl Vibes | 7.00% | ~3,928 |
 | Nothing Left to Say | 6.00% | ~3,367 |
 | Sniper | 6.00% | ~3,367 |
@@ -22,16 +22,16 @@ Rating: 3.41 (Ranked 919)
 | Butcher | 4.00% | ~2,245 |
 | Magnetic Miracles | 4.00% | ~2,245 |
 | Spicy | 4.00% | ~2,245 |
-| A Man Of Taste | 3.00% | ~1,683 |
-| Fair's Fair | 3.00% | ~1,683 |
-| Hearty | 3.00% | ~1,683 |
-| Meaty | 3.00% | ~1,683 |
-| Taco Toto | 3.00% | ~1,683 |
+| A Man Of Taste | 3.00% | ~1,684 |
+| Fair's Fair | 3.00% | ~1,684 |
+| Hearty | 3.00% | ~1,684 |
+| Meaty | 3.00% | ~1,684 |
+| Taco Toto | 3.00% | ~1,684 |
 | Ace in the Hole | 2.00% | ~1,122 |
 | Audiophile | 2.00% | ~1,122 |
 | Tape Head | 1.00% | ~561 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,115 (Ranked 71)  
+Progressed: 56,118 (Ranked 71)  
 Completed: 450 (0.80%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,6 +57,7 @@ Completed: 450 (0.80%) (Ranked 93)
 | 2023-05-13 | 55,736 | 445 |
 | 2023-05-14 | 55,962 | 449 |
 | 2023-05-15 | 56,115 | 450 |
+| 2023-05-16 | 56,118 | 450 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

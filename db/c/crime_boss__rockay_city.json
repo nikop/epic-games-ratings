@@ -1464,9 +1464,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60235,
+  "EOS_Progressed": 60237,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3829,6 +3829,11 @@
       "Time": "2023-05-15T23:05:08.8244848+00:00",
       "NumProgressed": 60235,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-16T00:05:14.7530479+00:00",
+      "NumProgressed": 60237,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -3848,7 +3853,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17468
+      "UsersEstimate": 17469
     },
     {
       "ID": "ACH_0012",
@@ -3856,7 +3861,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12649
+      "UsersEstimate": 12650
     },
     {
       "ID": "ACH_0013",
@@ -3928,7 +3933,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "ACH_0060",
@@ -3984,7 +3989,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39153
+      "UsersEstimate": 39154
     },
     {
       "ID": "ACH_0210",
@@ -3992,7 +3997,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43972
+      "UsersEstimate": 43973
     },
     {
       "ID": "ACH_0211",
@@ -4008,7 +4013,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28310
+      "UsersEstimate": 28311
     },
     {
       "ID": "ACH_0300",
@@ -4056,7 +4061,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20480
+      "UsersEstimate": 20481
     },
     {
       "ID": "ACH_0420",
@@ -4072,7 +4077,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 21082
+      "UsersEstimate": 21083
     },
     {
       "ID": "ACH_0431",
@@ -4135,7 +4140,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60235,
+      "Progressed": 60237,
       "Completed": 29
     }
   ],
@@ -4143,8 +4148,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-15T22:00:49.0087872+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:05:08.8244845+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:05:14.7530475+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:59:12.6108051+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:05:08.8245253+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:59:14.1372401+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:05:14.7530798+00:00"
 }

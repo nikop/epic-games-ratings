@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 48,
@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 189935,
+  "EOS_Progressed": 189939,
   "EOS_Completed": 421,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2550,6 +2550,11 @@
       "Time": "2023-05-15T23:04:47.894128+00:00",
       "NumProgressed": 189935,
       "NumCompleted": 421
+    },
+    {
+      "Time": "2023-05-16T00:04:53.8445334+00:00",
+      "NumProgressed": 189939,
+      "NumCompleted": 421
     }
   ],
   "TotalAchievements": 29,
@@ -2585,7 +2590,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 178539
+      "UsersEstimate": 178543
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -2761,7 +2766,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13295
+      "UsersEstimate": 13296
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -2792,7 +2797,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 189935,
+      "Progressed": 189939,
       "Completed": 421
     }
   ],
@@ -2800,8 +2805,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-05-15T09:58:34.8225055+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:04:47.8941276+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:04:53.844533+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:42.6671545+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:58:12.9552363+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:04:47.8941626+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:58:14.9069384+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:04:53.8445593+00:00"
 }

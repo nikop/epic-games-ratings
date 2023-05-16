@@ -26,8 +26,8 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 6.00% | ~70 |
 | Another Tale to Tell | 6.00% | ~70 |
 | A Story of Heroes | 6.00% | ~70 |
-| Let Me Get My Chisel | 5.00% | ~58 |
-| Plague Doctor | 5.00% | ~58 |
+| Let Me Get My Chisel | 5.00% | ~59 |
+| Plague Doctor | 5.00% | ~59 |
 | Legends Never Die | 4.00% | ~47 |
 | In Soil, In Smoke | 4.00% | ~47 |
 | A Hunger, Sated | 4.00% | ~47 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,170 (Ranked 157)  
+Progressed: 1,171 (Ranked 157)  
 Completed: 3 (0.26%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 3 (0.26%) (Ranked 132)
 | 2023-05-13 | 1,164 | 3 |
 | 2023-05-14 | 1,165 | 3 |
 | 2023-05-15 | 1,170 | 3 |
+| 2023-05-16 | 1,171 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 454)  
 Sum: 27 (Ranked 463)  

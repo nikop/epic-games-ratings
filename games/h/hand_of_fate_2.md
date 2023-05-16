@@ -1,13 +1,13 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.57 (Ranked 428)  
+Rating: 4.57 (Ranked 429)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 72.00% | ~472,476 |
-| Apprentice | 58.00% | ~380,605 |
+| Apprentice | 58.00% | ~380,606 |
 | Close Shave | 25.00% | ~164,054 |
 | Mercenary | 23.00% | ~150,930 |
 | Ninja | 23.00% | ~150,930 |
@@ -16,7 +16,7 @@ Number of Ratings: 780  (23.09.2022)
 | Master of Arms | 12.00% | ~78,746 |
 | Gambler | 10.00% | ~65,622 |
 | Dice Master | 10.00% | ~65,622 |
-| Swordsman | 9.00% | ~59,059 |
+| Swordsman | 9.00% | ~59,060 |
 | Knight | 8.00% | ~52,497 |
 | Cure for Corruption | 8.00% | ~52,497 |
 | Focused | 8.00% | ~52,497 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 6.00% | ~39,373 |
 | Jack of all Trades | 5.00% | ~32,811 |
 | Smithy | 5.00% | ~32,811 |
-| Leap of Faith | 3.00% | ~19,686 |
-| Combat Ready | 3.00% | ~19,686 |
-| Stuffed Potato | 3.00% | ~19,686 |
+| Leap of Faith | 3.00% | ~19,687 |
+| Combat Ready | 3.00% | ~19,687 |
+| Stuffed Potato | 3.00% | ~19,687 |
 | Card Sharp | 2.00% | ~13,124 |
 | Magician | 2.00% | ~13,124 |
 | Draknar's Bane | 2.00% | ~13,124 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,216 (Ranked 18)  
+Progressed: 656,217 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 165 (0.03%) (Ranked 181)
 | 2023-05-13 | 656,101 | 164 |
 | 2023-05-14 | 656,158 | 165 |
 | 2023-05-15 | 656,216 | 165 |
+| 2023-05-16 | 656,217 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 359)  

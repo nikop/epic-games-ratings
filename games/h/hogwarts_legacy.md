@@ -17,15 +17,15 @@ Rating: 4.77 (Ranked 104)
 | Troll with the Punches | 5.00% | ~13,363 |
 | That's a Keeper | 5.00% | ~13,363 |
 | Rising From the Ashes | 5.00% | ~13,363 |
-| The Avenging Gazelle | 4.00% | ~10,690 |
-| Beast Friends | 4.00% | ~10,690 |
-| A Sallow Grave | 4.00% | ~10,690 |
-| Flight the Good Flight | 4.00% | ~10,690 |
-| A Keen Sense of Spell | 4.00% | ~10,690 |
-| A Talent for Spending | 4.00% | ~10,690 |
-| Followed the Butterflies | 4.00% | ~10,690 |
-| The Spell Master | 4.00% | ~10,690 |
-| First Class Student | 4.00% | ~10,690 |
+| The Avenging Gazelle | 4.00% | ~10,691 |
+| Beast Friends | 4.00% | ~10,691 |
+| A Sallow Grave | 4.00% | ~10,691 |
+| Flight the Good Flight | 4.00% | ~10,691 |
+| A Keen Sense of Spell | 4.00% | ~10,691 |
+| A Talent for Spending | 4.00% | ~10,691 |
+| Followed the Butterflies | 4.00% | ~10,691 |
+| The Spell Master | 4.00% | ~10,691 |
+| First Class Student | 4.00% | ~10,691 |
 | The Seeker of Knowledge | 3.00% | ~8,018 |
 | The Root of the Problem | 3.00% | ~8,018 |
 | Third Time's a Charm | 3.00% | ~8,018 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,069 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,261 (Ranked 38)  
+Progressed: 267,264 (Ranked 38)  
 Completed: 362 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 362 (0.14%) (Ranked 149)
 | 2023-05-13 | 266,911 | 361 |
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
+| 2023-05-16 | 267,264 | 362 |
 ## Awards
 Max (Character Customization): 18,787  (Ranked 18)  
 Sum: 34,478 (Ranked 33)  

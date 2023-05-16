@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -1226,10 +1226,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 2684,
       "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-05-15T23:59:36.0411745+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2685,
+      "NumberOfAwardsMax": 315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2684,
+  "NumberOfAwards": 2685,
   "NumberOfAwardsMax": 315,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1297,13 +1303,13 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 226
+      "Count": 227
     }
   ],
-  "EOS_Progressed": 216984,
-  "EOS_Completed": 693,
-  "EOS_NewPlayers": 814,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 216986,
+  "EOS_Completed": 694,
+  "EOS_NewPlayers": 812,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -3595,6 +3601,11 @@
       "Time": "2023-05-15T23:05:13.4366918+00:00",
       "NumProgressed": 216984,
       "NumCompleted": 693
+    },
+    {
+      "Time": "2023-05-16T00:05:19.1964713+00:00",
+      "NumProgressed": 216986,
+      "NumCompleted": 694
     }
   ],
   "TotalAchievements": 39,
@@ -3654,7 +3665,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 65095
+      "UsersEstimate": 65096
     },
     {
       "ID": "AchievementBoulderID",
@@ -3670,7 +3681,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 197455
+      "UsersEstimate": 197457
     },
     {
       "ID": "AchievementClownID",
@@ -3678,7 +3689,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 36887
+      "UsersEstimate": 36888
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -3718,7 +3729,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 69435
+      "UsersEstimate": 69436
     },
     {
       "ID": "AchievementGoatID",
@@ -3734,7 +3745,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 115002
+      "UsersEstimate": 115003
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -3766,7 +3777,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 97643
+      "UsersEstimate": 97644
     },
     {
       "ID": "AchievementIntroID",
@@ -3774,7 +3785,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 123681
+      "UsersEstimate": 123682
     },
     {
       "ID": "AchievementLootBoxID",
@@ -3806,7 +3817,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 82454
+      "UsersEstimate": 82455
     },
     {
       "ID": "AchievementRampID",
@@ -3838,7 +3849,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 160568
+      "UsersEstimate": 160570
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -3854,7 +3865,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 106322
+      "UsersEstimate": 106323
     },
     {
       "ID": "AchievementStreakingID",
@@ -3878,7 +3889,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 119341
+      "UsersEstimate": 119342
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -3886,7 +3897,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 101982
+      "UsersEstimate": 101983
     },
     {
       "ID": "AchievementTrinketID",
@@ -3902,7 +3913,7 @@
       "Name": "Rogue Guild",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 143209
+      "UsersEstimate": 143211
     },
     {
       "ID": "AchievementWhaleID",
@@ -3917,16 +3928,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 216984,
-      "Completed": 693
+      "Progressed": 216986,
+      "Completed": 694
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-05-15T16:00:14.4506028+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:05:13.4366913+00:00",
+  "LastChanged": "2023-05-15T23:59:36.0411744+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:05:19.1964707+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:16.5972575+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:59:34.0486948+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:05:13.4367359+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:59:36.0411751+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:05:19.1965039+00:00"
 }

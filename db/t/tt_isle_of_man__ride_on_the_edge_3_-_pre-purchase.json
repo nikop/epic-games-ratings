@@ -2,9 +2,9 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3 - Pre-Purchase",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -114,6 +114,11 @@
       "Time": "2023-05-15T00:05:42.4436314+00:00",
       "NumProgressed": 21,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T00:04:37.4787677+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 39,
@@ -139,7 +144,7 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -147,7 +152,7 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "gagif7",
       "Name": "Like Phileas Fogg",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -171,7 +176,7 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "gagif7",
       "Name": "Seven-League Boots",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -195,7 +200,7 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "gagif7",
       "Name": "Nerd",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -259,7 +264,7 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "gagif7",
       "Name": "Highly Qualified",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -267,7 +272,7 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "gagif7",
       "Name": "Serial Winner",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -275,7 +280,7 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "gagif7",
       "Name": "First and Foremost",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -291,7 +296,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "gagif7",
       "Name": "Made Mother Proud",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -307,7 +312,7 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "gagif7",
       "Name": "Winner Winner Chicken Dinner",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -355,7 +360,7 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -363,7 +368,7 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "gagif7",
       "Name": "No Room for Improvement",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -371,7 +376,7 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "gagif7",
       "Name": "Upgradeaholic",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -379,7 +384,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -387,7 +392,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 100,
+      "Percentage": 95,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -403,7 +408,7 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "gagif7",
       "Name": "Tailor-Made for Two",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -436,14 +441,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-15T23:04:31.755106+00:00",
+  "LastChanged_Achievements": "2023-05-16T00:04:37.4787674+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.0229412+00:00",
-  "LastUpdate_Ratings": "2023-05-15T22:57:14.9678576+00:00",
-  "LastUpdate_Achievements": "2023-05-15T23:04:31.7551369+00:00"
+  "LastUpdate_Ratings": "2023-05-15T23:57:12.9185028+00:00",
+  "LastUpdate_Achievements": "2023-05-16T00:04:37.4787905+00:00"
 }

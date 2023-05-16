@@ -5,39 +5,46 @@ Rating: 4.18 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 5.00% | ~628 |
-| Get a Grip | 5.00% | ~628 |
-| Paper Jams | 5.00% | ~628 |
-| The Outer Way | 4.00% | ~503 |
-| You Need a Gun | 3.00% | ~377 |
-| Two Heads Are Better Than One | 3.00% | ~377 |
-| Workplace Hazard | 3.00% | ~377 |
-| Float Like A Butterfly | 3.00% | ~377 |
-| Desperate Times | 3.00% | ~377 |
-| Glutton for Punishment | 2.00% | ~10 |
-| I Do Belong Here | 2.00% | ~251 |
-| Parole Denied | 2.00% | ~10 |
-| In Striking Distance | 2.00% | ~251 |
-| Chew 'Em Up | 2.00% | ~251 |
-| Terminated | 2.00% | ~251 |
-| The Commonality | 2.00% | ~251 |
-| Reforged | 2.00% | ~251 |
-| Mugshot | 2.00% | ~251 |
-| If the SHU Fits... | 2.00% | ~251 |
-| Without A Paddle | 2.00% | ~251 |
-| In the Pipe, Five by Five | 2.00% | ~251 |
-| What Lies Beneath | 2.00% | ~251 |
-| Crash Site | 2.00% | ~251 |
-| Full Circle | 2.00% | ~251 |
-| Power Up | 2.00% | ~251 |
-| Giving Back | 1.00% | ~126 |
-| You Belong Here | 1.00% | ~5 |
-| Grim Reaper | 0.60% | ~75 |
-| Armed to the Teeth | 0.40% | ~2 |
-| The Protocol is About Life | 0.20% | ~25 |
-| Recidivist | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
+| Armed to the Teeth | 0.10% | ~0 |
+| Giving Back | 0.10% | ~13 |
+| You Need a Gun | 0.10% | ~13 |
+| Flesh Wound | 0.10% | ~13 |
+| Grim Reaper | 0.10% | ~13 |
+| I Do Belong Here | 0.10% | ~13 |
+| The Protocol is About Life | 0.10% | ~13 |
+| Recidivist | 0.10% | ~0 |
 | Lifer | 0.10% | ~0 |
+| Parole Denied | 0.10% | ~0 |
+| Get a Grip | 0.10% | ~13 |
+| In Striking Distance | 0.10% | ~13 |
+| Two Heads Are Better Than One | 0.10% | ~13 |
+| Chew 'Em Up | 0.10% | ~13 |
+| Terminated | 0.10% | ~13 |
+| Workplace Hazard | 0.10% | ~13 |
+| The Commonality | 0.10% | ~13 |
+| Float Like A Butterfly | 0.10% | ~13 |
+| Reforged | 0.10% | ~13 |
+| Paper Jams | 0.10% | ~13 |
+| Mugshot | 0.10% | ~13 |
+| The Outer Way | 0.10% | ~13 |
+| If the SHU Fits... | 0.10% | ~13 |
+| Without A Paddle | 0.10% | ~13 |
+| In the Pipe, Five by Five | 0.10% | ~13 |
+| What Lies Beneath | 0.10% | ~13 |
+| Desperate Times | 0.10% | ~13 |
+| Crash Site | 0.10% | ~13 |
+| Full Circle | 0.10% | ~13 |
+| Power Up | 0.10% | ~13 |
+| Glutton for Punishment | 0.00% | ~0 |
+| You Belong Here | 0.00% | ~0 |
+| I am the Danger | 0.00% | ~0 |
+| Instigator | 0.00% | ~0 |
+| Big Game Hunter | 0.00% | ~0 |
+| Bear Trap | 0.00% | ~0 |
+| Hoard Mode | 0.00% | ~0 |
+| Subject Alpha | 0.00% | ~0 |
+| Big Spender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,564 (Ranked 101)  
 Completed: 48 (0.38%) (Ranked 112)  
