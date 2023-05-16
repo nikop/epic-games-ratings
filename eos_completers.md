@@ -18,11 +18,11 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.75% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.23% |
 | 22 | [Scorn](games/s/scorn.md) | 7.04% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.91% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -96,9 +96,9 @@
 | 93 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 95 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 96 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.74% |
-| 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.72% |
 | 97 | [Train Valley](games/t/train_valley.md) | 0.72% |
-| 99 | [Haven](games/h/haven.md) | 0.71% |
+| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
+| 98 | [Haven](games/h/haven.md) | 0.71% |
 | 100 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 101 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |

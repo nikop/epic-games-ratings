@@ -16,7 +16,7 @@
 | [GRIME](../games/g/grime.md) | 42 | 1,100 | 2 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 61 | 1,000 | 2 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 489 | 2,445 | 2 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 493 | 2,465 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
 | [Old World](../games/o/old_world.md) | 285 | 2,940 | 2 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |

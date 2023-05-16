@@ -1,6 +1,6 @@
 | Game | Total Achievements | Total XP |
 | ---- | ------------------ | -------- |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 489 | 2,445 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 493 | 2,465 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
 | [Old World](../games/o/old_world.md) | 285 | 2,940 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 214 | 5,105 |
