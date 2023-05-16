@@ -7,11 +7,11 @@
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 489 | 2,445 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
+| [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |
-| [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 33 | 1,280 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 |

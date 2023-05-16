@@ -160,6 +160,7 @@
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
 | [Planet Cube - Edge](../games/p/planet_cube_-_edge.md) | 40 | 1,000 |
 | [Rocco's Island](../games/r/rocco's_island.md) | 40 | 1,000 |
+| [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 |
 | [The Spirit and the Mouse](../games/t/the_spirit_and_the_mouse.md) | 40 | 1,000 |
 | [Them and Us](../games/t/them_and_us.md) | 40 | 1,000 |
 | [Tropico 6](../games/t/tropico_6.md) | 40 | 1,000 |
@@ -208,7 +209,6 @@
 | [Deliver Us Mars](../games/d/deliver_us_mars.md) | 33 | 1,000 |
 | [My Lovely Wife](../games/m/my_lovely_wife.md) | 33 | 1,000 |
 | [NHRA Championship Drag Racing - Speed For All](../games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 33 | 1,000 |
-| [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 33 | 1,280 |
 | [Touch Type Tale](../games/t/touch_type_tale.md) | 33 | 1,000 |
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |

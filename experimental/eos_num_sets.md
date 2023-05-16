@@ -26,7 +26,7 @@
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 | 2 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 | 2 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 | 2 |
-| [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 33 | 1,280 | 2 |
+| [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 | 2 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 11 | 1,000 | 2 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 | 2 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 | 2 |
