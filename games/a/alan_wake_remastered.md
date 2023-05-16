@@ -18,6 +18,7 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 9.00% | ~4,157 |
 | Wheels Within Wheels | 8.00% | ~3,695 |
 | They're Heeeeeere! | 8.00% | ~3,695 |
+| The Six-Gun Scribe | 8.00% | ~3,695 |
 | Sound and Fury | 8.00% | ~3,695 |
 | Missed by a Mile | 8.00% | ~3,695 |
 | Damn Good Cup of Coffee | 8.00% | ~3,695 |
@@ -25,7 +26,6 @@ Number of Ratings: 524  (23.09.2022)
 | Heavy Metal | 7.00% | ~3,233 |
 | Iron Horse | 7.00% | ~3,233 |
 | Perchance to Dream | 7.00% | ~3,233 |
-| The Six-Gun Scribe | 7.00% | ~3,233 |
 | It's Not Just a Typewriter Brand | 7.00% | ~3,233 |
 | Thunder and Lightning | 7.00% | ~3,233 |
 | Collateral Carnage | 7.00% | ~3,233 |

@@ -26,9 +26,9 @@ Rating: 3.64 (Ranked 917)
 | The Unstoppable | 8.00% | ~83 |
 | Mysterious Rock | 7.00% | ~72 |
 | Superior | 7.00% | ~72 |
+| Daily Quest Completionist | 6.00% | ~62 |
 | Scientist | 6.00% | ~62 |
 | Challenger | 5.00% | ~52 |
-| Daily Quest Completionist | 5.00% | ~52 |
 | Frostfire Liberator | 4.00% | ~41 |
 | Hunter | 4.00% | ~41 |
 | Milestone collector | 4.00% | ~41 |

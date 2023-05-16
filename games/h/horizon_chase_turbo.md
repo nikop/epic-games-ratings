@@ -6,35 +6,35 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~826,063 |
-| I Need a Bigger Garage | 62.00% | ~575,460 |
-| Pump my Ride | 45.00% | ~417,672 |
-| Ghostbuster | 31.00% | ~287,730 |
-| That Was Close | 17.00% | ~157,787 |
-| Call Roadside Assistance | 16.00% | ~148,506 |
-| Quickie | 10.00% | ~92,816 |
-| California Dreamer | 7.00% | ~64,971 |
-| Can't Touch This | 4.00% | ~37,126 |
-| Carménère Taster | 3.00% | ~27,845 |
-| Comeback | 3.00% | ~27,845 |
-| Living Legend | 3.00% | ~27,845 |
-| Driver from Ipanema | 2.00% | ~18,563 |
-| Pathfinder | 2.00% | ~18,563 |
-| Go-Kart Champion | 2.00% | ~18,563 |
-| Completionist | 2.00% | ~18,563 |
-| Supersonic | 2.00% | ~18,563 |
-| Harder, Better, Faster, Stronger | 2.00% | ~18,563 |
-| Marathonist | 2.00% | ~18,563 |
+| The First of Many | 89.00% | ~826,124 |
+| I Need a Bigger Garage | 62.00% | ~575,502 |
+| Pump my Ride | 45.00% | ~417,703 |
+| Ghostbuster | 31.00% | ~287,751 |
+| That Was Close | 17.00% | ~157,799 |
+| Call Roadside Assistance | 16.00% | ~148,517 |
+| Quickie | 10.00% | ~92,823 |
+| California Dreamer | 7.00% | ~64,976 |
+| Can't Touch This | 4.00% | ~37,129 |
+| Carménère Taster | 3.00% | ~27,847 |
+| Comeback | 3.00% | ~27,847 |
+| Living Legend | 3.00% | ~27,847 |
+| Driver from Ipanema | 2.00% | ~18,565 |
+| Pathfinder | 2.00% | ~18,565 |
+| Go-Kart Champion | 2.00% | ~18,565 |
+| Completionist | 2.00% | ~18,565 |
+| Supersonic | 2.00% | ~18,565 |
+| Harder, Better, Faster, Stronger | 2.00% | ~18,565 |
+| Marathonist | 2.00% | ~18,565 |
 | God of Roads | 1.00% | ~9,282 |
 | The Iceman | 1.00% | ~9,282 |
 | Oil Tycoon | 1.00% | ~9,282 |
 | Round the Globe | 1.00% | ~9,282 |
 | Golden Passport | 1.00% | ~9,282 |
-| Brave and Bold | 0.90% | ~8,353 |
-| Crocodile Hunter | 0.80% | ~7,425 |
-| Bollywood Star | 0.80% | ~7,425 |
-| Old Master | 0.70% | ~6,497 |
-| Otaku | 0.70% | ~6,497 |
+| Brave and Bold | 0.90% | ~8,354 |
+| Crocodile Hunter | 0.80% | ~7,426 |
+| Bollywood Star | 0.80% | ~7,426 |
+| Old Master | 0.70% | ~6,498 |
+| Otaku | 0.70% | ~6,498 |
 | Volcano Surfer | 0.60% | ~5,569 |
 | Survivor | 0.50% | ~4,641 |
 | Getting Famous | 0.40% | ~3,713 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~928 |
 | Look Mom, No Hands! | 0.10% | ~928 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 928,161 (Ranked 10)  
+Progressed: 928,229 (Ranked 10)  
 Completed: 249 (0.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 249 (0.03%) (Ranked 181)
 | 2023-05-13 | 921,117 | 241 |
 | 2023-05-14 | 925,227 | 246 |
 | 2023-05-15 | 927,727 | 248 |
-| 2023-05-16 | 928,161 | 249 |
+| 2023-05-16 | 928,229 | 249 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 291)  
 Sum: 1,093 (Ranked 225)  

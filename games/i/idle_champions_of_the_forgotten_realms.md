@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,752 |
+| A Brief Tour of the Realms | 2.00% | ~1,753 |
 | Checkmate | 2.00% | ~1,078 |
 | Vecna Out! | 2.00% | ~1,078 |
 | Pin and Skewer | 1.00% | ~539 |
@@ -23,24 +23,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.50% | ~438 |
 | Mad Cow Disease | 0.50% | ~438 |
 | Pure Energy | 0.50% | ~438 |
-| Maddening | 0.40% | ~350 |
+| Maddening | 0.40% | ~351 |
 | Owlbear Necessities | 0.40% | ~216 |
 | Best Thay Ever | 0.40% | ~216 |
 | Frail Doesn't Mean Broken | 0.40% | ~216 |
 | The Sanctum of the Sword | 0.40% | ~216 |
 | Get Back In The Castle | 0.40% | ~216 |
-| Beast Mode | 0.40% | ~350 |
-| Terror in the Dark | 0.40% | ~350 |
-| A Mysterious Summons | 0.40% | ~350 |
-| Building Trust | 0.40% | ~350 |
-| Unearthed Evil | 0.40% | ~350 |
-| Useless Allies | 0.40% | ~350 |
-| Exploring Port Nyanzaru | 0.40% | ~350 |
-| Running of the Saurs | 0.40% | ~350 |
-| The Contagious Curse | 0.40% | ~350 |
-| Escort to Waterdeep | 0.40% | ~350 |
-| Waterdeep Detours | 0.40% | ~350 |
-| Underdeep Cartography | 0.40% | ~350 |
+| Beast Mode | 0.40% | ~351 |
+| Terror in the Dark | 0.40% | ~351 |
+| A Mysterious Summons | 0.40% | ~351 |
+| Building Trust | 0.40% | ~351 |
+| Unearthed Evil | 0.40% | ~351 |
+| Useless Allies | 0.40% | ~351 |
+| Exploring Port Nyanzaru | 0.40% | ~351 |
+| Running of the Saurs | 0.40% | ~351 |
+| The Contagious Curse | 0.40% | ~351 |
+| Escort to Waterdeep | 0.40% | ~351 |
+| Waterdeep Detours | 0.40% | ~351 |
+| Underdeep Cartography | 0.40% | ~351 |
 | Tall Tales | 0.30% | ~162 |
 | The Silken Swamp | 0.30% | ~263 |
 | Supply Run | 0.30% | ~263 |
@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.30% | ~263 |
 | The Death Curse | 0.30% | ~263 |
 | Nimble Escape | 0.30% | ~263 |
+| Fugitives | 0.30% | ~263 |
 | Premature Betrayal | 0.30% | ~263 |
 | A Tale of Two Cities | 0.30% | ~263 |
 | The Dead Three | 0.30% | ~263 |
@@ -191,7 +192,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.20% | ~175 |
 | Stumbling Escape | 0.20% | ~175 |
 | Distracted Escape | 0.20% | ~108 |
-| Fugitives | 0.20% | ~175 |
 | From The Shadows | 0.20% | ~175 |
 | Spined Nuisances | 0.20% | ~175 |
 | Excavating History | 0.20% | ~175 |
@@ -206,6 +206,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.20% | ~175 |
 | Slow and Steady | 0.20% | ~175 |
 | A Hero's Entourage | 0.20% | ~175 |
+| Sneak Attack | 0.20% | ~108 |
 | Lair of the Xanathar | 0.20% | ~175 |
 | Dreams of Beholders | 0.20% | ~175 |
 | Waterdeep Under Siege | 0.20% | ~175 |
@@ -394,7 +395,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Friend | 0.10% | ~54 |
 | A Tale of Two Champions | 0.10% | ~88 |
 | A Tale of Two Years | 0.10% | ~54 |
-| Sneak Attack | 0.10% | ~54 |
 | Feigned Weakness | 0.10% | ~88 |
 | DPS in the Deeps | 0.10% | ~54 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~88 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,625 (Ranked 59)  
+Progressed: 87,626 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,625 | 1,843 |
+| 2023-05-16 | 87,626 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,893 (Ranked 37)  

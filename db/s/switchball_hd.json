@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "ACHIEVEMENT_AIRBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Airball Badge",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
@@ -274,8 +274,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-16T05:06:11.0449801+00:00",
+  "LastChanged_Achievements": "2023-05-16T06:05:16.6298491+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-16T04:57:36.3065085+00:00",
-  "LastUpdate_Achievements": "2023-05-16T05:06:11.0449959+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:57:10.5245687+00:00",
+  "LastUpdate_Achievements": "2023-05-16T06:05:16.6298596+00:00"
 }

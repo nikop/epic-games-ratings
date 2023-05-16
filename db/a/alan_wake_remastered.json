@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -508,7 +508,7 @@
   ],
   "EOS_Progressed": 46188,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1838,9 +1838,9 @@
       "ID": "22",
       "SetID": "212770e",
       "Name": "The Six-Gun Scribe",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3695
     },
     {
       "ID": "23",
@@ -2220,8 +2220,8 @@
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-16T05:06:35.2636628+00:00",
+  "LastChanged_Achievements": "2023-05-16T06:05:39.7820766+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-16T04:58:03.5768569+00:00",
-  "LastUpdate_Achievements": "2023-05-16T05:06:35.2637645+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:57:35.5760056+00:00",
+  "LastUpdate_Achievements": "2023-05-16T06:05:39.7821618+00:00"
 }

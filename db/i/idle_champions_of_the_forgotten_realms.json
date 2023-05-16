@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3730,9 +3730,9 @@
       "Count": 3234
     }
   ],
-  "EOS_Progressed": 87625,
+  "EOS_Progressed": 87626,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6080,6 +6080,11 @@
       "Time": "2023-05-16T05:07:16.4333653+00:00",
       "NumProgressed": 87625,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T06:06:18.833487+00:00",
+      "NumProgressed": 87626,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6091,7 +6096,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "objective_completed_10",
@@ -6099,7 +6104,7 @@
       "Name": "Maddening",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_100",
@@ -7195,7 +7200,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_149",
@@ -7211,7 +7216,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_150",
@@ -7283,7 +7288,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_165",
@@ -7315,7 +7320,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_17",
@@ -7419,7 +7424,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_20",
@@ -7963,7 +7968,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_400",
@@ -7985,9 +7990,9 @@
       "ID": "objective_completed_403",
       "SetID": "cc37lbc",
       "Name": "Fugitives",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 263
     },
     {
       "ID": "objective_completed_404",
@@ -8235,7 +8240,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_540",
@@ -8297,9 +8302,9 @@
       "ID": "objective_completed_548",
       "SetID": "415jc5c",
       "Name": "Sneak Attack",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_55",
@@ -8579,7 +8584,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_590",
@@ -8635,7 +8640,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_60",
@@ -9163,7 +9168,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_690",
@@ -9267,7 +9272,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_75",
@@ -9299,7 +9304,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "objective_completed_8",
@@ -10002,21 +10007,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53899,
-      "Completed": 2513
+      "Progressed": 53900,
+      "Completed": 2515
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87625,
+      "Progressed": 87626,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-15T22:57:36.8689684+00:00",
-  "LastChanged_Achievements": "2023-05-16T05:07:16.4333645+00:00",
+  "LastChanged_Achievements": "2023-05-16T06:06:18.8334859+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T04:58:34.4736961+00:00",
-  "LastUpdate_Achievements": "2023-05-16T05:07:16.4364726+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:58:03.3760552+00:00",
+  "LastUpdate_Achievements": "2023-05-16T06:06:18.8361274+00:00"
 }

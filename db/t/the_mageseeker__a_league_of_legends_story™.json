@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -1355,9 +1355,9 @@
       "ID": "STB_COLISSEUM_SECOND",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods II",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 320
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -1764,8 +1764,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-15T18:57:34.6671699+00:00",
-  "LastChanged_Achievements": "2023-05-16T05:06:33.992314+00:00",
+  "LastChanged_Achievements": "2023-05-16T06:05:38.6886842+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-16T04:58:01.5646065+00:00",
-  "LastUpdate_Achievements": "2023-05-16T05:06:33.9923922+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:57:33.5703229+00:00",
+  "LastUpdate_Achievements": "2023-05-16T06:05:38.6887439+00:00"
 }

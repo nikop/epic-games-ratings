@@ -17,6 +17,7 @@ Number of Ratings: 87  (23.09.2022)
 | Just in time! | 3.00% | ~21 |
 | Mega-railroad | 3.00% | ~21 |
 | Miner | 3.00% | ~1 |
+| Need to think | 3.00% | ~21 |
 | Pink Ruby | 3.00% | ~1 |
 | Star Sapphire | 3.00% | ~1 |
 | Trapiche Emerald | 3.00% | ~1 |
@@ -26,7 +27,6 @@ Number of Ratings: 87  (23.09.2022)
 | Critical care | 2.00% | ~14 |
 | Get out my way | 2.00% | ~14 |
 | Multilevel road | 2.00% | ~14 |
-| Need to think | 2.00% | ~14 |
 | Non-Stop | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Steam Age | 2.00% | ~14 |

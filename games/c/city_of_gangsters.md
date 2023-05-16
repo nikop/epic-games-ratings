@@ -5,8 +5,8 @@ Rating: 4.25 (Ranked 779)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~143,891 |
-| Copacetic Coordination | 16.00% | ~50,049 |
+| Corner Clout | 46.00% | ~143,893 |
+| Copacetic Coordination | 16.00% | ~50,050 |
 | Fronting the Money | 14.00% | ~43,793 |
 | The Dawn of Automation | 14.00% | ~43,793 |
 | Extraordinary Logistics | 14.00% | ~43,793 |
@@ -18,13 +18,13 @@ Rating: 4.25 (Ranked 779)
 | Beating the Heat | 10.00% | ~31,281 |
 | Friends on the Force | 10.00% | ~31,281 |
 | Neighborhood Watch | 10.00% | ~31,281 |
-| Core Corps | 8.00% | ~25,024 |
-| Sizeable Stash | 7.00% | ~21,896 |
-| Street Fighter | 7.00% | ~21,896 |
-| Friendly Gestures | 7.00% | ~21,896 |
-| Liquor Lord | 6.00% | ~18,768 |
-| Show ‘em the Sugar | 6.00% | ~18,768 |
-| People Person | 6.00% | ~18,768 |
+| Core Corps | 8.00% | ~25,025 |
+| Sizeable Stash | 7.00% | ~21,897 |
+| Street Fighter | 7.00% | ~21,897 |
+| Friendly Gestures | 7.00% | ~21,897 |
+| Liquor Lord | 6.00% | ~18,769 |
+| Show ‘em the Sugar | 6.00% | ~18,769 |
+| People Person | 6.00% | ~18,769 |
 | Street Knowledge | 5.00% | ~15,640 |
 | Oh Captain | 5.00% | ~15,640 |
 | Branching Out | 5.00% | ~15,640 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 779)
 | High Pillow | 0.10% | ~313 |
 | Station Master | 0.10% | ~313 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,806 (Ranked 37)  
+Progressed: 312,810 (Ranked 37)  
 Completed: 3 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 3 (0.00%) (Ranked 199)
 | 2023-05-13 | 312,059 | 3 |
 | 2023-05-14 | 312,468 | 3 |
 | 2023-05-15 | 312,763 | 3 |
-| 2023-05-16 | 312,806 | 3 |
+| 2023-05-16 | 312,810 | 3 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 466)  
 Sum: 87 (Ranked 404)  

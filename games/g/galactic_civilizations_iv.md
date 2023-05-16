@@ -23,8 +23,8 @@ Number of Ratings: 429  (23.09.2022)
 | Trading Partner | 9.00% | ~510 |
 | Fleet Victory | 8.00% | ~454 |
 | Win as Terrans | 7.00% | ~397 |
+| Win with a Custom Faction | 7.00% | ~397 |
 | Gain an Ally | 6.00% | ~340 |
-| Win with a Custom Faction | 6.00% | ~340 |
 | War with the Unknown | 5.00% | ~284 |
 | Conquest Victory! | 4.00% | ~227 |
 | Win Quickly | 4.00% | ~227 |

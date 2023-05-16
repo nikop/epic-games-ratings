@@ -3961,18 +3961,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 13023,
       "NumberOfAwardsMax": 6526
+    },
+    {
+      "Time": "2023-05-16T05:59:59.0592002+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13034,
+      "NumberOfAwardsMax": 6537
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13023,
-  "NumberOfAwardsMax": 6526,
+  "NumberOfAwards": 13034,
+  "NumberOfAwardsMax": 6537,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6526
+      "Count": 6537
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4041,9 +4047,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49967,
+  "EOS_Progressed": 49968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6336,6 +6342,11 @@
       "Time": "2023-05-16T05:07:07.0840726+00:00",
       "NumProgressed": 49967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T06:06:09.8728413+00:00",
+      "NumProgressed": 49968,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6363,7 +6374,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 9993
+      "UsersEstimate": 9994
     },
     {
       "ID": "Best served cold",
@@ -6507,7 +6518,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 9993
+      "UsersEstimate": 9994
     },
     {
       "ID": "I can do it",
@@ -6515,7 +6526,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 6995
+      "UsersEstimate": 6996
     },
     {
       "ID": "I spit on your grave",
@@ -6571,7 +6582,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14490
+      "UsersEstimate": 14491
     },
     {
       "ID": "Lawbringer",
@@ -6579,7 +6590,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17488
+      "UsersEstimate": 17489
     },
     {
       "ID": "Lawmaker",
@@ -6723,7 +6734,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9993
+      "UsersEstimate": 9994
     },
     {
       "ID": "Undercover",
@@ -6754,15 +6765,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49967,
+      "Progressed": 49968,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-15T22:00:30.1202325+00:00",
-  "LastChanged_Achievements": "2023-05-16T05:07:07.0840722+00:00",
+  "LastChanged": "2023-05-16T05:59:59.0591982+00:00",
+  "LastChanged_Achievements": "2023-05-16T06:06:09.8728404+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-16T05:00:37.9645176+00:00",
-  "LastUpdate_Achievements": "2023-05-16T05:07:07.0841334+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:59:59.0592006+00:00",
+  "LastUpdate_Achievements": "2023-05-16T06:06:09.8729004+00:00"
 }
