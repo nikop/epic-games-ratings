@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-10T08:56:56.1842952+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:57:05.2739191+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:03:06.9131683+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:57:02.0931121+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:03:14.4273071+00:00"
 }

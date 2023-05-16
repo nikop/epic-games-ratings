@@ -5,10 +5,10 @@
   "Ranking_Rating": 716,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 206,
+  "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -540,6 +540,11 @@
       "Time": "2023-05-16T13:14:43.2967288+00:00",
       "NumProgressed": 329,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T17:05:48.1313271+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -589,9 +594,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 125
     },
     {
       "ID": "hire-lieutenant",
@@ -599,7 +604,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "kill-lieutenants",
@@ -613,9 +618,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 238
     },
     {
       "ID": "play-at-night",
@@ -623,7 +628,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "product-profit",
@@ -637,9 +642,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 152
     },
     {
       "ID": "rename-lieutenant",
@@ -653,17 +658,17 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 129
     },
     {
       "ID": "send-smuggling",
@@ -702,15 +707,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:06:02.1876372+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:48.1313268+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.8903016+00:00",
-  "LastUpdate_Ratings": "2023-05-16T16:00:24.2930826+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:06:02.1876557+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:00:12.2313796+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:48.1313437+00:00"
 }

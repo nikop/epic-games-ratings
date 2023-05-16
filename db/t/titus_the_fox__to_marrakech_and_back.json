@@ -2,10 +2,10 @@
   "ID": "d7c183ff820c457ba95d8d3f006399b0",
   "Name": "Titus the Fox: To Marrakech and Back",
   "ProductSlug": "titus-the-fox-150ecc",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.3284714+00:00",
   "LastChanged": "2023-03-31T05:58:02.3284715+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:55.0839342+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:58:01.9176098+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:03:12.6184734+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:57:55.7062837+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:03:19.9781188+00:00"
 }

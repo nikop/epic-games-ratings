@@ -2,10 +2,10 @@
   "ID": "333f455592a24f7db42ac87a1d7227c4",
   "Name": "Guardians of Hyelore",
   "ProductSlug": "guardians-of-hyelore-0b07d3",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-29T13:00:00+00:00",
     "PcReleaseDate": "2021-09-29T13:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.2179239+00:00",
   "LastChanged": "2023-03-31T05:58:12.217924+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:21.7757704+00:00",
-  "LastUpdate_Ratings": "2023-05-16T16:00:46.5978071+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:03:29.4923647+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:00:35.2065338+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:03:36.2861001+00:00"
 }

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 65.00% | ~11 |
-| Hello World | 59.00% | ~10 |
-| I Think, Therefore I Am | 59.00% | ~10 |
-| The Real Beginning | 59.00% | ~10 |
-| The Birds and the Bees | 53.00% | ~9 |
+| First Day of the Rest of Your Life | 71.00% | ~12 |
+| Hello World | 65.00% | ~11 |
+| I Think, Therefore I Am | 65.00% | ~11 |
+| The Real Beginning | 65.00% | ~11 |
+| The Birds and the Bees | 59.00% | ~10 |
+| Vaccinated | 47.00% | ~8 |
+| Busybody | 41.00% | ~7 |
 | Shook Up | 41.00% | ~7 |
-| Vaccinated | 41.00% | ~7 |
+| Task Master | 41.00% | ~7 |
 | Warning: Fragile | 41.00% | ~7 |
+| An Acquired Taste | 35.00% | ~6 |
 | A Light in the Dark | 35.00% | ~6 |
-| Busybody | 35.00% | ~6 |
 | Everyone Needs a Break | 35.00% | ~6 |
 | Socially Acceptable Insanity | 35.00% | ~6 |
-| Task Master | 35.00% | ~6 |
-| An Acquired Taste | 29.00% | ~5 |
 | The Guardian | 29.00% | ~5 |
 | Endgame | 29.00% | ~5 |
 | The Philosopher | 29.00% | ~5 |
@@ -26,25 +26,25 @@
 | The Companion | 29.00% | ~5 |
 | The Counsellor | 29.00% | ~5 |
 | A Real Headache | 24.00% | ~4 |
+| A Total Riot | 24.00% | ~4 |
 | Blood Begets Blood | 24.00% | ~4 |
 | Full Coverage | 24.00% | ~4 |
 | Social Butterfly | 24.00% | ~4 |
+| That One Doesn't Count | 24.00% | ~4 |
+| They Flock to Him | 24.00% | ~4 |
 | Zonk! | 24.00% | ~4 |
 | A Little Eccentric | 18.00% | ~3 |
-| A Total Riot | 18.00% | ~3 |
 | Knock Knock | 18.00% | ~3 |
+| Obligatory Fraudulent Baking | 18.00% | ~3 |
 | Quidnunc | 18.00% | ~3 |
 | Ring of Fire | 18.00% | ~3 |
 | The Provocateur | 18.00% | ~3 |
-| That One Doesn't Count | 18.00% | ~3 |
-| They Flock to Him | 18.00% | ~3 |
 | Leave It to the Professionals | 12.00% | ~2 |
-| Obligatory Fraudulent Baking | 12.00% | ~2 |
 | Overseer | 12.00% | ~2 |
+| Tastes Like Regret | 12.00% | ~2 |
+| The Spice of Life | 12.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 6.00% | ~1 |
 | Double Agent | 6.00% | ~1 |
-| Tastes Like Regret | 6.00% | ~1 |
-| The Spice of Life | 6.00% | ~1 |
 | What They Don't Know Can't Hurt Them | 6.00% | ~1 |
 | Wilful Ignorance | 6.00% | ~1 |
 | Keeper of the People | 0.00% | ~0 |

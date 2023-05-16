@@ -2,10 +2,10 @@
   "ID": "308e3d687093412598ea6a52c5acfa20",
   "Name": "Asterix and Obelix XXXL - The Ram of Hibernia",
   "ProductSlug": "asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-26T23:00:00+00:00",
     "PcReleaseDate": "2022-10-26T23:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:57:24.3004282+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:32.4185327+00:00",
   "LastChanged": "2023-03-31T05:57:24.3004283+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:05:23.0959309+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:09.4324209+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:34.4669474+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:58:47.564731+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:05:23.0959342+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:58:39.7865383+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:09.4324245+00:00"
 }

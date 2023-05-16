@@ -2,10 +2,10 @@
   "ID": "9e68f096a3d543c49b5066aa6525b738",
   "Name": "Faces of War",
   "ProductSlug": "faces-of-war-3c2686",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
     "PcReleaseDate": "2006-09-08T15:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.1189346+00:00",
   "LastChanged": "2023-03-31T05:57:23.1189347+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:26.4404986+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:58:37.1990824+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:02:27.5065944+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:58:31.0177234+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:03:05.1188333+00:00"
 }

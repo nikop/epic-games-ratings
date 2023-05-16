@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 465)
 | Crunch Culture | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,905 (Ranked 146)  
+Progressed: 1,907 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 1,882 | 0 |
 | 2023-05-14 | 1,892 | 0 |
 | 2023-05-15 | 1,898 | 0 |
-| 2023-05-16 | 1,905 | 0 |
+| 2023-05-16 | 1,907 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

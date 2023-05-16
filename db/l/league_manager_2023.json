@@ -2,10 +2,10 @@
   "ID": "1652d524783c4a3786933dd68a768814",
   "Name": "League Manager 2023",
   "ProductSlug": "league-manager-b7dd4c",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-19T08:00:00+00:00",
     "PcReleaseDate": "2023-03-16T13:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-21T02:57:18.0125912+00:00",
   "LastChanged": "2023-04-21T02:57:18.0125913+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:38.7257968+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:57:44.8427744+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:02:27.6768622+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:57:38.9361448+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:03:05.2947732+00:00"
 }

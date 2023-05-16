@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -284,7 +284,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7639,
+  "EOS_Progressed": 7640,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
@@ -1484,6 +1484,11 @@
       "Time": "2023-05-16T16:06:08.6239594+00:00",
       "NumProgressed": 7639,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-16T17:05:54.71286+00:00",
+      "NumProgressed": 7640,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1495,7 +1500,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "ACH02",
@@ -1719,7 +1724,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH30",
@@ -1774,7 +1779,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7639,
+      "Progressed": 7640,
       "Completed": 16
     }
   ],
@@ -1782,8 +1787,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:06:08.6239591+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:54.7128596+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-16T16:00:32.6244601+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:06:08.6239944+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:00:21.0279552+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:54.7128924+00:00"
 }

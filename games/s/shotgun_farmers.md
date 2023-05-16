@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 98.00% | ~49 |
-| First Blood | 74.00% | ~37 |
-| Triple Kill | 70.00% | ~35 |
-| No Asperascope | 62.00% | ~31 |
-| Cornivore | 62.00% | ~31 |
-| 15K | 38.00% | ~19 |
-| 10K | 38.00% | ~19 |
-| Drinking Problem | 30.00% | ~15 |
+| Seeds of War | 98.00% | ~50 |
+| First Blood | 73.00% | ~37 |
+| Triple Kill | 69.00% | ~35 |
+| No Asperascope | 61.00% | ~31 |
+| Cornivore | 61.00% | ~31 |
+| 15K | 37.00% | ~19 |
+| 10K | 37.00% | ~19 |
+| Drinking Problem | 29.00% | ~15 |
 | Skin Of Your Teeth | 22.00% | ~11 |
 | Eggtraordinary | 20.00% | ~10 |
 | Graveside Survivor | 16.00% | ~8 |
@@ -35,6 +35,7 @@
 | I Have The High Ground | 2.00% | ~1 |
 | Cow Topper | 2.00% | ~1 |
 | Pro Double Cobbler | 2.00% | ~1 |
+| Pro Pyromancer | 2.00% | ~1 |
 | Pro Gromato | 2.00% | ~1 |
 | Pro Meloneer | 2.00% | ~1 |
 | Pro M6Beaner | 2.00% | ~1 |
@@ -44,12 +45,11 @@
 | Unstoppable | 2.00% | ~1 |
 | I Believe I Can Fly | 0.00% | ~0 |
 | Prestige 1 - Farmhand | 0.00% | ~0 |
-| Pro Pyromancer | 0.00% | ~0 |
 | Pro Pineappler | 0.00% | ~0 |
 | Pro Moolotover | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 281)  
+Progressed: 51 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 46 | 0 |
 | 2023-05-14 | 49 | 0 |
 | 2023-05-15 | 50 | 0 |
+| 2023-05-16 | 51 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

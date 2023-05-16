@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -1247,9 +1247,9 @@
       "ID": "Nazis in Paris",
       "SetID": "b40dflc",
       "Name": "Nazis in Paris",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 321
     },
     {
       "ID": "Nuremberg Laws",
@@ -1272,8 +1272,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:05:51.4212638+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:37.4755739+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:59:47.9908855+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:05:51.4212876+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:59:38.3360199+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:37.4755997+00:00"
 }

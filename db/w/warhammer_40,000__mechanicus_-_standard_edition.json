@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -381,9 +381,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 210006,
+  "EOS_Progressed": 210009,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2836,6 +2836,11 @@
       "Time": "2023-05-16T16:05:29.7094546+00:00",
       "NumProgressed": 210006,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-16T17:05:16.1752653+00:00",
+      "NumProgressed": 210009,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 34,
@@ -2847,7 +2852,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 39901
+      "UsersEstimate": 39902
     },
     {
       "ID": "ACH_BASE_10",
@@ -2927,7 +2932,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12600
+      "UsersEstimate": 12601
     },
     {
       "ID": "ACH_BASE_20",
@@ -3118,7 +3123,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 210006,
+      "Progressed": 210009,
       "Completed": 2
     }
   ],
@@ -3126,8 +3131,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-05-15T05:58:41.5908645+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:05:29.7094542+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:16.1752649+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:25.5662141+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:58:36.4104192+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:05:29.7094952+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:58:29.7331514+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:16.1753333+00:00"
 }

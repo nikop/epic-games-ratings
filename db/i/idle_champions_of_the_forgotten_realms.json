@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3742,7 +3742,7 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87668,
+  "EOS_Progressed": 87674,
   "EOS_Completed": 1843,
   "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 25,
@@ -6147,6 +6147,11 @@
       "Time": "2023-05-16T16:06:15.1515965+00:00",
       "NumProgressed": 87668,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T17:06:01.0752373+00:00",
+      "NumProgressed": 87674,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -7054,7 +7059,7 @@
       "Name": "Bully for Vecna",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "objective_completed_1213",
@@ -8212,9 +8217,9 @@
       "ID": "objective_completed_425",
       "SetID": "cc37lbc",
       "Name": "The Madness Grows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_426",
@@ -8628,9 +8633,9 @@
       "ID": "objective_completed_587",
       "SetID": "415jc5c",
       "Name": "Strike!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_588",
@@ -10069,21 +10074,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53942,
+      "Progressed": 53948,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87668,
+      "Progressed": 87674,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T09:57:38.7579752+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:06:15.151596+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:06:01.0752368+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:58:06.4558226+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:06:15.1545954+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:57:59.7874136+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:06:01.0779388+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2196,10 +2196,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3024,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-05-16T17:00:05.8601182+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3025,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3024,
+  "NumberOfAwards": 3025,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2243,7 +2249,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 268
+      "Count": 269
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2264,9 +2270,9 @@
       "Count": 303
     }
   ],
-  "EOS_Progressed": 14846,
+  "EOS_Progressed": 14848,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3599,6 +3605,11 @@
       "Time": "2023-05-16T16:06:07.6685654+00:00",
       "NumProgressed": 14846,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-16T17:05:53.5967487+00:00",
+      "NumProgressed": 14848,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -4009,15 +4020,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14846,
+      "Progressed": 14848,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-05-15T19:00:35.8054604+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:06:07.668565+00:00",
+  "LastChanged": "2023-05-16T17:00:05.860118+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:53.5967482+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-16T16:00:16.8377146+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:06:07.66865+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:00:05.8601188+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:53.5967994+00:00"
 }

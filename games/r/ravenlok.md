@@ -43,10 +43,10 @@
 | Trick Question! | 31.00% | ~201 |
 | Soul Slayer | 30.00% | ~194 |
 | The Downfall | 30.00% | ~194 |
+| Extraordinary! | 30.00% | ~194 |
 | Final Showdown | 30.00% | ~194 |
 | Spot of Tea? | 30.00% | ~194 |
 | Going Home | 30.00% | ~194 |
-| Extraordinary! | 29.00% | ~188 |
 | Mirror, Mirror | 28.00% | ~181 |
 | Flower Power | 25.00% | ~162 |
 | Shopping Spree! | 22.00% | ~143 |

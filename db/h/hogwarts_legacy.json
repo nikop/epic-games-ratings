@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 103,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
@@ -2326,10 +2326,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 34483,
       "NumberOfAwardsMax": 18787
+    },
+    {
+      "Time": "2023-05-16T16:57:13.6215251+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34486,
+      "NumberOfAwardsMax": 18787
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34483,
+  "NumberOfAwards": 34486,
   "NumberOfAwardsMax": 18787,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2403,12 +2409,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 472
+      "Count": 475
     }
   ],
-  "EOS_Progressed": 267339,
+  "EOS_Progressed": 267343,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 985,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4806,6 +4812,11 @@
       "Time": "2023-05-16T16:02:31.5238674+00:00",
       "NumProgressed": 267339,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-05-16T17:03:09.2742458+00:00",
+      "NumProgressed": 267343,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 45,
@@ -4825,7 +4836,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16040
+      "UsersEstimate": 16041
     },
     {
       "ID": "PFA_11",
@@ -4833,7 +4844,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16040
+      "UsersEstimate": 16041
     },
     {
       "ID": "PFA_12",
@@ -4841,7 +4852,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16040
+      "UsersEstimate": 16041
     },
     {
       "ID": "PFA_13",
@@ -4849,7 +4860,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16040
+      "UsersEstimate": 16041
     },
     {
       "ID": "PFA_14",
@@ -5176,16 +5187,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267339,
+      "Progressed": 267343,
       "Completed": 362
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-16T07:57:41.2263814+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:02:31.5238668+00:00",
+  "LastChanged": "2023-05-16T16:57:13.6215249+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:03:09.2742454+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:57:18.0790748+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:02:31.5239145+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:57:13.6215255+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:03:09.2742988+00:00"
 }

@@ -1,0 +1,43 @@
+# Zoeti
+[Store](https://store.epicgames.com/en-US/p/zoeti-3ccef9)  
+[View Rawdata](../../db/1/1a7cbda7efe7435dabda1af662aeb1ba.json)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Crystal Hunter | 25.00% | ~1 |
+| Danger | 25.00% | ~1 |
+| My Turn | 0.00% | ~0 |
+| Breaking Free | 0.00% | ~0 |
+| Column Crusher | 0.00% | ~0 |
+| Armor Annihilator | 0.00% | ~0 |
+| Overcoming Weakness | 0.00% | ~0 |
+| Boulder Breaker | 0.00% | ~0 |
+| Fence-Sitter | 0.00% | ~0 |
+| Bye-Bye, Butcher | 0.00% | ~0 |
+| Rejected Parasite | 0.00% | ~0 |
+| Green Thumb | 0.00% | ~0 |
+| Equivalent Exchange | 0.00% | ~0 |
+| Rebellious Servant | 0.00% | ~0 |
+| Setting Off | 0.00% | ~0 |
+| A Twist of Fate | 0.00% | ~0 |
+| Strength | 0.00% | ~0 |
+| Hermit | 0.00% | ~0 |
+| Tower | 0.00% | ~0 |
+| No Mercy | 0.00% | ~0 |
+| Elite Warrior | 0.00% | ~0 |
+| Criminal Investigator | 0.00% | ~0 |
+| Elite Scholar | 0.00% | ~0 |
+| Conqueror of the Devil Blade | 0.00% | ~0 |
+| Eviction | 0.00% | ~0 |
+| For Justice | 0.00% | ~0 |
+| Rabbit Hunter | 0.00% | ~0 |
+| Astral Envoy | 0.00% | ~0 |
+| The End of Fate | 0.00% | ~0 |
+| Breach of Contract | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 4 (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 199)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-05-16 | 4 | 0 |

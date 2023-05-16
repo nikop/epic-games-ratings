@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -30,7 +30,7 @@
   "EOS_Progressed": 648,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 108,
-  "EOS_NewCompleters": 14,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 6.79,
   "EosHistory": [
     {
@@ -1518,9 +1518,9 @@
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 194
     },
     {
       "ID": "46",
@@ -1615,8 +1615,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:05:25.0627668+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:11.5125042+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:57:27.7321462+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:05:25.0628536+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:57:23.1362337+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:11.5125716+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2175,9 +2175,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 521092,
+  "EOS_Progressed": 521095,
   "EOS_Completed": 1408,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -4605,6 +4605,11 @@
       "Time": "2023-05-16T16:05:47.4844897+00:00",
       "NumProgressed": 521092,
       "NumCompleted": 1408
+    },
+    {
+      "Time": "2023-05-16T17:05:33.3986435+00:00",
+      "NumProgressed": 521095,
+      "NumCompleted": 1408
     }
   ],
   "TotalAchievements": 37,
@@ -4672,7 +4677,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 432506
+      "UsersEstimate": 432509
     },
     {
       "ID": "HONED",
@@ -4728,7 +4733,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 208437
+      "UsersEstimate": 208438
     },
     {
       "ID": "THE_CASTLE",
@@ -4744,7 +4749,7 @@
       "Name": "The Cave",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36476
+      "UsersEstimate": 36477
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -4768,7 +4773,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 46898
+      "UsersEstimate": 46899
     },
     {
       "ID": "THE_FOREST",
@@ -4840,7 +4845,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 46898
+      "UsersEstimate": 46899
     },
     {
       "ID": "THE_RUINS",
@@ -4856,7 +4861,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 41687
+      "UsersEstimate": 41688
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -4864,7 +4869,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 36476
+      "UsersEstimate": 36477
     },
     {
       "ID": "THE_THREE",
@@ -4872,7 +4877,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 333499
+      "UsersEstimate": 333501
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -4896,7 +4901,7 @@
       "Name": "The Ziggurat",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 36476
+      "UsersEstimate": 36477
     },
     {
       "ID": "WISE_WORDS",
@@ -4911,15 +4916,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 521092,
+      "Progressed": 521095,
       "Completed": 1408
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-15T02:01:14.7127349+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:05:47.4844892+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:33.3986432+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:14.6878817+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:59:32.7990797+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:05:47.4846142+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:59:21.8838943+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:33.398688+00:00"
 }

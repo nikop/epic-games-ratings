@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
     "PcReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -131,17 +131,17 @@
       "ID": "ALPHA01",
       "SetID": "2d85n75",
       "Name": "Hello World",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AN_ACQUIRED_TASTE",
       "SetID": "2d85n75",
       "Name": "An Acquired Taste",
-      "Percentage": 29,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AREAL_HEADACHE",
@@ -155,9 +155,9 @@
       "ID": "ATOTAL_RIOT",
       "SetID": "2d85n75",
       "Name": "A Total Riot",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AURORA04",
@@ -179,9 +179,9 @@
       "ID": "BETA03",
       "SetID": "2d85n75",
       "Name": "I Think, Therefore I Am",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BLOOD_BEGETS_BLOOD",
@@ -195,9 +195,9 @@
       "ID": "BUSYBODY",
       "SetID": "2d85n75",
       "Name": "Busybody",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COULDNT_HAVE_PLANNED_IT_BETTER_MYSELF",
@@ -235,9 +235,9 @@
       "ID": "FIRST_DAY",
       "SetID": "2d85n75",
       "Name": "First Day of the Rest of Your Life",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FORTRAN_COMPLETE",
@@ -291,17 +291,17 @@
       "ID": "MIND_CORE01",
       "SetID": "2d85n75",
       "Name": "The Real Beginning",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
       "SetID": "2d85n75",
       "Name": "Obligatory Fraudulent Baking",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "OVERSEER",
@@ -387,33 +387,33 @@
       "ID": "TASK_MASTER",
       "SetID": "2d85n75",
       "Name": "Task Master",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TASTES_LIKE_REGRET",
       "SetID": "2d85n75",
       "Name": "Tastes Like Regret",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THAT_ONE_DOESNT_COUNT",
       "SetID": "2d85n75",
       "Name": "That One Doesn\u0027t Count",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "THEY_FLOCK_TO_HIM",
       "SetID": "2d85n75",
       "Name": "They Flock to Him",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "THE_ARCHETYPE",
@@ -427,17 +427,17 @@
       "ID": "THE_BIRDS_AND_THE_BEES",
       "SetID": "2d85n75",
       "Name": "The Birds and the Bees",
-      "Percentage": 53,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "THE_SPICE_OF_LIFE",
       "SetID": "2d85n75",
       "Name": "The Spice of Life",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THE_SURROGATE",
@@ -467,9 +467,9 @@
       "ID": "VACCINATED",
       "SetID": "2d85n75",
       "Name": "Vaccinated",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WARNING_FRAGILE",
@@ -516,8 +516,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:05:58.7949148+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:44.6918877+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:36.6924459+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:59:55.4767847+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:05:58.7949592+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:59:44.9411649+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:44.6919428+00:00"
 }

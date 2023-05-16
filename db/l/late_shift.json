@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "PROTECTOR",
       "SetID": "8eejhlh",
       "Name": "Protector",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "SABOTAGE",
@@ -273,9 +273,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
@@ -290,8 +290,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-16T16:05:19.2563563+00:00",
+  "LastChanged_Achievements": "2023-05-16T17:05:05.745367+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:41.2560047+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:57:46.6508318+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:05:19.2563744+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:57:41.0073752+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:05:05.7453832+00:00"
 }

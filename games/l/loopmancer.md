@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 105.00% | ~90 |
-| Every little bit counts | 98.00% | ~84 |
-| Break no Sweat | 97.00% | ~83 |
-| Growth | 86.00% | ~74 |
-| Targeting the Enemy | 69.00% | ~59 |
-| Unavoidable | 64.00% | ~55 |
-| Revenge | 62.00% | ~53 |
-| Reunion | 42.00% | ~36 |
-| Fluke | 35.00% | ~30 |
-| Victor's Prejudice | 35.00% | ~30 |
-| Elimination | 33.00% | ~28 |
+| Black Cat's Warning | 105.00% | ~91 |
+| Break no Sweat | 97.00% | ~84 |
+| Every little bit counts | 97.00% | ~84 |
+| Growth | 86.00% | ~75 |
+| Targeting the Enemy | 68.00% | ~59 |
+| Unavoidable | 63.00% | ~55 |
+| Revenge | 61.00% | ~53 |
+| Reunion | 41.00% | ~36 |
+| Fluke | 34.00% | ~30 |
+| Victor's Prejudice | 34.00% | ~30 |
+| Elimination | 32.00% | ~28 |
 | Excellent Driving Skills | 30.00% | ~26 |
 | Memento | 30.00% | ~26 |
 | Once Bitten, Twice Shy | 29.00% | ~25 |
-| Fleet-footed | 27.00% | ~23 |
-| Defeat the AI | 26.00% | ~22 |
-| Unsalvageable | 26.00% | ~22 |
-| Invincible | 26.00% | ~22 |
+| Fleet-footed | 26.00% | ~23 |
+| Defeat the AI | 25.00% | ~22 |
+| Unsalvageable | 25.00% | ~22 |
+| Invincible | 25.00% | ~22 |
 | Neutralize | 24.00% | ~21 |
 | Best in Dragon City | 23.00% | ~20 |
 | Walking into a Trap | 23.00% | ~20 |
@@ -30,7 +30,7 @@
 | Outsider's Profit | 20.00% | ~17 |
 | Brain in a Vat | 16.00% | ~14 |
 | Reappearance | 15.00% | ~13 |
-| King of the Streets | 12.00% | ~10 |
+| King of the Streets | 11.00% | ~10 |
 | Calamity | 10.00% | ~9 |
 | Survival Expert | 10.00% | ~9 |
 | Rest in peace | 9.00% | ~8 |
@@ -62,13 +62,14 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 255)  
+Progressed: 87 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 86 | 0 |
 | 2023-04-27 | 87 | 0 |
+| 2023-05-16 | 87 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

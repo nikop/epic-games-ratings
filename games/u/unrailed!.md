@@ -6,28 +6,28 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~82,614 |
-| Incurious | 13.00% | ~76,713 |
-| Stroller | 12.00% | ~70,812 |
-| Climate Change | 12.00% | ~70,812 |
-| Toy Train | 10.00% | ~59,010 |
-| Hiker | 9.00% | ~53,109 |
-| Advanced Hiker | 9.00% | ~53,109 |
-| Mojave Courier | 4.00% | ~23,604 |
-| Expert Stroller | 3.00% | ~17,703 |
-| Voyager | 2.00% | ~11,802 |
-| Advanced Voyager | 2.00% | ~11,802 |
-| Expert Hiker | 2.00% | ~11,802 |
-| Orient Express | 2.00% | ~11,802 |
-| Marathon | 2.00% | ~11,802 |
-| Destructionist | 2.00% | ~11,802 |
-| Saved by Nausicaä | 2.00% | ~11,802 |
+| Advanced Stroller | 14.00% | ~82,618 |
+| Incurious | 13.00% | ~76,717 |
+| Stroller | 12.00% | ~70,816 |
+| Climate Change | 12.00% | ~70,816 |
+| Toy Train | 10.00% | ~59,013 |
+| Hiker | 9.00% | ~53,112 |
+| Advanced Hiker | 9.00% | ~53,112 |
+| Mojave Courier | 4.00% | ~23,605 |
+| Expert Stroller | 3.00% | ~17,704 |
+| Voyager | 2.00% | ~11,803 |
+| Advanced Voyager | 2.00% | ~11,803 |
+| Expert Hiker | 2.00% | ~11,803 |
+| Orient Express | 2.00% | ~11,803 |
+| Marathon | 2.00% | ~11,803 |
+| Destructionist | 2.00% | ~11,803 |
+| Saved by Nausicaä | 2.00% | ~11,803 |
 | Lost | 1.00% | ~5,901 |
 | Expert Voyager | 0.50% | ~2,951 |
 | Rocketman | 0.50% | ~2,951 |
 | Shopaholic | 0.50% | ~2,951 |
-| Nanuk | 0.40% | ~2,360 |
-| Terminal Station | 0.40% | ~2,360 |
+| Nanuk | 0.40% | ~2,361 |
+| Terminal Station | 0.40% | ~2,361 |
 | Wayfarer | 0.30% | ~1,770 |
 | Advanced Wayfarer | 0.30% | ~1,770 |
 | Scrooge | 0.30% | ~1,770 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~590 |
 | 20 Miles under the Sea | 0.10% | ~590 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 590,103 (Ranked 20)  
+Progressed: 590,131 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 7 (0.00%) (Ranked 199)
 | 2023-05-13 | 589,124 | 7 |
 | 2023-05-14 | 589,650 | 7 |
 | 2023-05-15 | 589,925 | 7 |
-| 2023-05-16 | 590,103 | 7 |
+| 2023-05-16 | 590,131 | 7 |
 ## Awards
 Max (Diverse Characters): 184  (Ranked 264)  
 Sum: 1,502 (Ranked 207)  

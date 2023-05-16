@@ -2,10 +2,10 @@
   "ID": "88c17fed155e43068c338d33d1bcd481",
   "Name": "Doors - Paradox",
   "ProductSlug": "doors-paradox-5896c7",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-26T15:00:00+00:00",
     "PcReleaseDate": "2022-11-03T22:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T13:01:25.2811632+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:57:03.1479104+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:01:39.356145+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:56:59.4663811+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:02:08.0420142+00:00"
 }

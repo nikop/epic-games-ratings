@@ -2,10 +2,10 @@
   "ID": "f8622c48c999497d92a1c7800cd37094",
   "Name": "Strategic Mind: Spectre of Communism",
   "ProductSlug": "strategic-mind-spectre-of-communism-56ed91",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-02-09T16:00:00+00:00",
     "PcReleaseDate": "2020-11-13T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:29.3255301+00:00",
   "LastChanged": "2023-03-31T05:58:29.3255302+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:04.861294+00:00",
-  "LastUpdate_Ratings": "2023-05-16T15:57:06.9669862+00:00",
-  "LastUpdate_Achievements": "2023-05-16T16:04:46.2154684+00:00"
+  "LastUpdate_Ratings": "2023-05-16T16:57:03.763121+00:00",
+  "LastUpdate_Achievements": "2023-05-16T17:04:32.4078706+00:00"
 }
