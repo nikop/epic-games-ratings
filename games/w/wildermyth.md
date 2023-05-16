@@ -11,14 +11,14 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 24.00% | ~282 |
 | Cutthroat Competitors | 24.00% | ~282 |
 | Passing Shadow | 23.00% | ~270 |
-| How Romantic! | 21.00% | ~247 |
-| Daybreak | 21.00% | ~247 |
+| How Romantic! | 22.00% | ~258 |
+| Daybreak | 22.00% | ~258 |
 | Gotta Ca... Must Collect All of Them | 20.00% | ~235 |
 | Completing the Look | 11.00% | ~129 |
 | Who's Counting? | 11.00% | ~129 |
 | War Endured | 11.00% | ~129 |
-| A Mythic Menagerie | 10.00% | ~117 |
-| Core Failure | 10.00% | ~117 |
+| A Mythic Menagerie | 10.00% | ~118 |
+| Core Failure | 10.00% | ~118 |
 | Pyrrhic Victory | 8.00% | ~94 |
 | Thematic Divergence | 7.00% | ~82 |
 | Echoes Die | 7.00% | ~82 |
@@ -39,19 +39,19 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 3.00% | ~35 |
 | Into Mulch | 3.00% | ~35 |
 | No Time for Clawmonsters | 3.00% | ~35 |
-| We Emerge Changed | 2.00% | ~23 |
-| Storied Past | 2.00% | ~23 |
-| The Power of Friendship | 2.00% | ~23 |
-| Empty the Caves | 2.00% | ~23 |
-| Drauvenslayers | 2.00% | ~23 |
-| Bonebreakers | 2.00% | ~23 |
-| No More Nightmares | 2.00% | ~23 |
-| War-Ender | 2.00% | ~23 |
-| Fight Like a Bird | 2.00% | ~23 |
-| Some Say I'm Too Flashy | 2.00% | ~23 |
-| Astrology | 2.00% | ~23 |
-| Tempest | 2.00% | ~23 |
-| Lochias's Hunger | 2.00% | ~23 |
+| We Emerge Changed | 2.00% | ~24 |
+| Storied Past | 2.00% | ~24 |
+| The Power of Friendship | 2.00% | ~24 |
+| Empty the Caves | 2.00% | ~24 |
+| Drauvenslayers | 2.00% | ~24 |
+| Bonebreakers | 2.00% | ~24 |
+| No More Nightmares | 2.00% | ~24 |
+| War-Ender | 2.00% | ~24 |
+| Fight Like a Bird | 2.00% | ~24 |
+| Some Say I'm Too Flashy | 2.00% | ~24 |
+| Astrology | 2.00% | ~24 |
+| Tempest | 2.00% | ~24 |
+| Lochias's Hunger | 2.00% | ~24 |
 | Back into the Sea | 1.00% | ~12 |
 | Solid as the Hills | 1.00% | ~12 |
 | Symbiosis | 1.00% | ~12 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,174 (Ranked 158)  
+Progressed: 1,175 (Ranked 158)  
 Completed: 3 (0.26%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 3 (0.26%) (Ranked 132)
 | 2023-05-13 | 1,164 | 3 |
 | 2023-05-14 | 1,165 | 3 |
 | 2023-05-15 | 1,170 | 3 |
-| 2023-05-16 | 1,174 | 3 |
+| 2023-05-16 | 1,175 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 463)  

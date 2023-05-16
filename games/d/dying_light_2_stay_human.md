@@ -7,15 +7,15 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 9.00% | ~49,334 |
-| Into the Unknown | 8.00% | ~43,852 |
-| First Shot | 8.00% | ~43,852 |
+| Into the Unknown | 8.00% | ~43,853 |
+| First Shot | 8.00% | ~43,853 |
 | Herzlich Wilkommen! | 7.00% | ~38,371 |
 | Sancho Panza | 7.00% | ~38,371 |
 | Good Night & Good Luck | 7.00% | ~38,371 |
-| Under Pressure | 6.00% | ~32,889 |
-| Flag Burning | 6.00% | ~32,889 |
-| Oh, So This Is How It Works! | 6.00% | ~32,889 |
-| Night Hunter | 6.00% | ~32,889 |
+| Under Pressure | 6.00% | ~32,890 |
+| Flag Burning | 6.00% | ~32,890 |
+| Oh, So This Is How It Works! | 6.00% | ~32,890 |
+| Night Hunter | 6.00% | ~32,890 |
 | On the Trail of the Enemy | 5.00% | ~27,408 |
 | Light in the Darkness | 5.00% | ~27,408 |
 | Get Outta My House! | 5.00% | ~27,408 |
@@ -32,8 +32,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | After the Fall | 4.00% | ~21,926 |
 | Can't Touch This! | 4.00% | ~21,926 |
 | Death From Afar | 4.00% | ~21,926 |
-| Terminal Headache | 3.00% | ~16,444 |
-| Slowpoke! | 3.00% | ~16,444 |
+| Terminal Headache | 3.00% | ~16,445 |
+| Slowpoke! | 3.00% | ~16,445 |
 | Tickets, Please! | 2.00% | ~10,963 |
 | Parkour Master | 2.00% | ~10,963 |
 | Combat Master | 2.00% | ~10,963 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~194 |
 | Connoisseur | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 548,150 (Ranked 22)  
+Progressed: 548,161 (Ranked 22)  
 Completed: 47 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,15 +98,15 @@ Completed: 47 (0.01%) (Ranked 191)
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
 | 2023-05-15 | 547,713 | 47 |
-| 2023-05-16 | 548,150 | 47 |
+| 2023-05-16 | 548,161 | 47 |
 ## Awards
 Max (Character Customization): 7,071  (Ranked 44)  
-Sum: 15,963 (Ranked 59)  
+Sum: 15,970 (Ranked 59)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,071 |
-| This game has Great Boss Battles | 4,137 |
+| This game has Great Boss Battles | 4,144 |
 | This game is Great for Beginners | 637 |
 | This game is Highly Recommended | 612 |
 | This game is Extremely Fun | 604 |

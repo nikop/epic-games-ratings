@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2591,
+  "EOS_Progressed": 2592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1592,
+  "EOS_NewPlayers": 1559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2023-05-16T22:00:37.0981642+00:00",
       "NumProgressed": 2591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T23:00:22.4099842+00:00",
+      "NumProgressed": 2592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -963,9 +968,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1089
     },
     {
       "ID": "10",
@@ -995,9 +1000,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 467
     },
     {
       "ID": "14",
@@ -1005,7 +1010,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "15",
@@ -1013,7 +1018,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "16",
@@ -1043,9 +1048,9 @@
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 337
     },
     {
       "ID": "2",
@@ -1077,7 +1082,7 @@
       "Name": "Realm Estate",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "23",
@@ -1091,9 +1096,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2074
     },
     {
       "ID": "25",
@@ -1101,7 +1106,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "26",
@@ -1109,7 +1114,7 @@
       "Name": "Bone Peddler",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "27",
@@ -1117,7 +1122,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "28",
@@ -1149,7 +1154,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "31",
@@ -1157,7 +1162,7 @@
       "Name": "Magical Synergy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "32",
@@ -1165,7 +1170,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "33",
@@ -1205,7 +1210,7 @@
       "Name": "Against the Odds",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "38",
@@ -1229,7 +1234,7 @@
       "Name": "The Eternal Court",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "40",
@@ -1237,7 +1242,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "41",
@@ -1245,7 +1250,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "42",
@@ -1291,9 +1296,9 @@
       "ID": "7",
       "SetID": "3aa2279",
       "Name": "Returning Circle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "8",
@@ -1316,13 +1321,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 2591,
-      "Completed": 2591
+      "Progressed": 2592,
+      "Completed": 2592
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 2591,
+      "Progressed": 2592,
       "Completed": 0
     }
   ],
@@ -1330,8 +1335,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-15T19:58:41.4280533+00:00",
-  "LastChanged_Achievements": "2023-05-16T22:00:37.0981632+00:00",
+  "LastChanged_Achievements": "2023-05-16T23:00:22.4099836+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:18.5454373+00:00",
-  "LastUpdate_Ratings": "2023-05-16T21:59:07.3055163+00:00",
-  "LastUpdate_Achievements": "2023-05-16T22:00:37.098216+00:00"
+  "LastUpdate_Ratings": "2023-05-16T22:58:53.7159602+00:00",
+  "LastUpdate_Achievements": "2023-05-16T23:00:22.4100416+00:00"
 }

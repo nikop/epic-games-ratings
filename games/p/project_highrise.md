@@ -10,8 +10,8 @@
 | Campaign Launch | 40.00% | ~64 |
 | Floor Galore | 39.00% | ~62 |
 | Dinner Dash | 38.00% | ~60 |
+| It's Technical | 36.00% | ~57 |
 | Upgrade Unlock | 35.00% | ~56 |
-| It's Technical | 35.00% | ~56 |
 | Need a Consult | 34.00% | ~54 |
 | Delegate Maintenance | 32.00% | ~51 |
 | Proper Walls | 31.00% | ~49 |

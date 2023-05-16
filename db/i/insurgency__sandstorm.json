@@ -1975,9 +1975,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 369355,
+  "EOS_Progressed": 369370,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4867,
+  "EOS_NewPlayers": 4869,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4475,6 +4475,11 @@
       "Time": "2023-05-16T22:04:52.2356007+00:00",
       "NumProgressed": 369355,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-16T23:04:35.5803433+00:00",
+      "NumProgressed": 369370,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -4542,7 +4547,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -4590,7 +4595,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "ACH_JR_50",
@@ -4630,7 +4635,7 @@
       "Name": "#1",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "ACH_PERSONAL",
@@ -4710,7 +4715,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "ACH_STYLING",
@@ -4758,22 +4763,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 369355,
+      "Progressed": 369370,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-05-16T17:57:37.8113679+00:00",
-  "LastChanged_Achievements": "2023-05-16T22:04:52.2356004+00:00",
+  "LastChanged_Achievements": "2023-05-16T23:04:35.5803426+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:44.5366654+00:00",
-  "LastUpdate_Ratings": "2023-05-16T21:57:47.638408+00:00",
-  "LastUpdate_Achievements": "2023-05-16T22:04:52.235639+00:00"
+  "LastUpdate_Ratings": "2023-05-16T22:57:31.967403+00:00",
+  "LastUpdate_Achievements": "2023-05-16T23:04:35.5803859+00:00"
 }

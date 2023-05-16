@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~576 |
-| Friendzone | 79.00% | ~469 |
-| Space Colonization | 79.00% | ~469 |
-| Hello World | 74.00% | ~440 |
-| Tinkerer | 63.00% | ~374 |
-| Space Engineer | 61.00% | ~362 |
-| Dust to Dust | 57.00% | ~339 |
-| Across The Stars | 47.00% | ~279 |
-| Crafty | 44.00% | ~261 |
+| Don't Panic! | 97.00% | ~577 |
+| Space Colonization | 79.00% | ~470 |
+| Friendzone | 78.00% | ~464 |
+| Hello World | 73.00% | ~434 |
+| Tinkerer | 63.00% | ~375 |
+| Space Engineer | 61.00% | ~363 |
+| Dust to Dust | 56.00% | ~333 |
+| Across The Stars | 47.00% | ~280 |
+| Crafty | 44.00% | ~262 |
 | All Seats Taken | 35.00% | ~208 |
 | For Science! | 31.00% | ~184 |
 | Meet the Petersons | 31.00% | ~184 |
-| Stay Cool | 28.00% | ~166 |
-| KIA | 25.00% | ~148 |
+| Stay Cool | 28.00% | ~167 |
+| KIA | 25.00% | ~149 |
 | Mutiny in making | 22.00% | ~131 |
-| Et tu, Astrocitizen? | 19.00% | ~113 |
 | Eco-Shuttle | 18.00% | ~107 |
+| Et tu, Astrocitizen? | 18.00% | ~107 |
 | Space Explorer | 14.00% | ~83 |
 | Hands Full | 12.00% | ~71 |
 | Gold Medalist | 11.00% | ~65 |
 | Non-Fiction | 11.00% | ~65 |
-| No Man Left Behind | 9.00% | ~53 |
+| No Man Left Behind | 9.00% | ~54 |
 | Intergalactic Breakup | 7.00% | ~42 |
 | Flawless Maegangement | 7.00% | ~42 |
 | Second Life | 7.00% | ~42 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 594 (Ranked 186)  
+Progressed: 595 (Ranked 186)  
 Completed: 1 (0.17%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 1 (0.17%) (Ranked 143)
 | 2023-05-12 | 590 | 1 |
 | 2023-05-13 | 591 | 1 |
 | 2023-05-15 | 593 | 1 |
-| 2023-05-16 | 594 | 1 |
+| 2023-05-16 | 595 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

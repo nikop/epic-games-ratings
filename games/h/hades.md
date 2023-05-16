@@ -6,33 +6,33 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~605,848 |
-| Escaped Asphodel | 80.00% | ~544,582 |
-| Arms Collector | 71.00% | ~483,317 |
-| Friends in High Places | 68.00% | ~462,895 |
-| Escaped Elysium | 66.00% | ~449,280 |
+| Escaped Tartarus | 89.00% | ~605,849 |
+| Escaped Asphodel | 80.00% | ~544,583 |
+| Arms Collector | 71.00% | ~483,318 |
+| Friends in High Places | 68.00% | ~462,896 |
+| Escaped Elysium | 66.00% | ~449,281 |
 | Chthonic Colleagues | 63.00% | ~428,859 |
 | Is There No Escape? | 52.00% | ~353,979 |
 | Death Dealer | 45.00% | ~306,328 |
 | Skelly Slayer | 42.00% | ~285,906 |
-| Well Stocked | 40.00% | ~272,291 |
+| Well Stocked | 40.00% | ~272,292 |
 | Back to Work | 39.00% | ~265,484 |
 | Blessed by the Gods | 38.00% | ~258,677 |
-| Day-or-Night Trader | 37.00% | ~251,869 |
+| Day-or-Night Trader | 37.00% | ~251,870 |
 | Urge to Sing | 36.00% | ~245,062 |
 | Blood Bound | 35.00% | ~238,255 |
 | Three-Headed Boy | 32.00% | ~217,833 |
 | River Denizens | 28.00% | ~190,604 |
 | Grown Close | 28.00% | ~190,604 |
 | Home Makeover | 27.00% | ~183,797 |
-| The Family Secret | 26.00% | ~176,989 |
+| The Family Secret | 26.00% | ~176,990 |
 | Had to Happen | 25.00% | ~170,182 |
-| To Charon's Credit | 23.00% | ~156,567 |
-| Tools of the Architect | 23.00% | ~156,567 |
-| Master of Arms | 23.00% | ~156,567 |
+| To Charon's Credit | 23.00% | ~156,568 |
+| Tools of the Architect | 23.00% | ~156,568 |
+| Master of Arms | 23.00% | ~156,568 |
 | Rare Collectible | 22.00% | ~149,760 |
 | Weapon of Fate | 21.00% | ~142,953 |
-| Something From Everyone | 19.00% | ~129,338 |
+| Something From Everyone | 19.00% | ~129,339 |
 | Hold the Onions | 18.00% | ~122,531 |
 | Well Versed | 17.00% | ~115,724 |
 | War-God's Bloodlust | 15.00% | ~102,109 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,229 |
 | Friends Forever | 4.00% | ~27,229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,728 (Ranked 16)  
+Progressed: 680,729 (Ranked 16)  
 Completed: 6,105 (0.90%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 6,105 (0.90%) (Ranked 87)
 | 2023-05-13 | 680,494 | 6,098 |
 | 2023-05-14 | 680,589 | 6,102 |
 | 2023-05-15 | 680,667 | 6,103 |
-| 2023-05-16 | 680,728 | 6,105 |
+| 2023-05-16 | 680,729 | 6,105 |
 ## Awards
 Max (Character Customization): 3,050  (Ranked 87)  
 Sum: 7,440 (Ranked 97)  

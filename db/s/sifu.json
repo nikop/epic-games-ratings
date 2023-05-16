@@ -4050,7 +4050,7 @@
       "Count": 346
     }
   ],
-  "EOS_Progressed": 702985,
+  "EOS_Progressed": 702986,
   "EOS_Completed": 12728,
   "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 10,
@@ -6060,6 +6060,11 @@
       "Time": "2023-05-16T22:05:19.6758869+00:00",
       "NumProgressed": 702985,
       "NumCompleted": 12728
+    },
+    {
+      "Time": "2023-05-16T23:05:02.9321076+00:00",
+      "NumProgressed": 702986,
+      "NumCompleted": 12728
     }
   ],
   "TotalAchievements": 50,
@@ -6341,9 +6346,9 @@
       "ID": "35_WideStrike",
       "SetID": "adcm20g",
       "Name": "Kung-Fu Tussle",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3515
+      "UsersEstimate": 4218
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -6470,21 +6475,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12286,
+      "Progressed": 12287,
       "Completed": 10112
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702985,
+      "Progressed": 702986,
       "Completed": 12728
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-16T20:59:05.0815079+00:00",
-  "LastChanged_Achievements": "2023-05-16T22:05:19.6758865+00:00",
+  "LastChanged_Achievements": "2023-05-16T23:05:02.9321071+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-16T21:58:48.6882857+00:00",
-  "LastUpdate_Achievements": "2023-05-16T22:05:19.6759452+00:00"
+  "LastUpdate_Ratings": "2023-05-16T22:58:33.3787276+00:00",
+  "LastUpdate_Achievements": "2023-05-16T23:05:02.9321611+00:00"
 }

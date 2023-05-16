@@ -6,22 +6,22 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,748 |
-| Leader | 60.00% | ~3,213 |
-| Explorer | 53.00% | ~2,838 |
-| Healer | 53.00% | ~2,838 |
+| First Step | 70.00% | ~3,749 |
+| Leader | 60.00% | ~3,214 |
+| Explorer | 53.00% | ~2,839 |
+| Healer | 53.00% | ~2,839 |
 | Aspiring Inventor | 45.00% | ~2,410 |
 | Adventurer | 41.00% | ~2,196 |
 | Famous Healer | 38.00% | ~2,035 |
-| Local Leader | 35.00% | ~1,874 |
+| Local Leader | 35.00% | ~1,875 |
 | New Opportunities | 34.00% | ~1,821 |
 | Famous Explorer | 33.00% | ~1,767 |
 | Energized | 33.00% | ~1,767 |
 | The Long Haul | 33.00% | ~1,767 |
 | Survivor | 31.00% | ~1,660 |
-| The Great Healer | 30.00% | ~1,606 |
-| Cleaner | 28.00% | ~1,499 |
-| Catastrofan | 28.00% | ~1,499 |
+| The Great Healer | 30.00% | ~1,607 |
+| Cleaner | 28.00% | ~1,500 |
+| Catastrofan | 28.00% | ~1,500 |
 | Legendary Explorer | 27.00% | ~1,446 |
 | Finders, Keepers | 25.00% | ~1,339 |
 | Top Notch | 24.00% | ~1,285 |
@@ -30,8 +30,8 @@ Number of Ratings: 836  (23.09.2022)
 | Ice Lakes | 22.00% | ~1,178 |
 | Merchant | 21.00% | ~1,125 |
 | Real Survivor | 21.00% | ~1,125 |
-| War Never Changes | 19.00% | ~1,017 |
-| Rocket Surgeon | 19.00% | ~1,017 |
+| War Never Changes | 19.00% | ~1,018 |
+| Rocket Surgeon | 19.00% | ~1,018 |
 | Friendly | 16.00% | ~857 |
 | Big Game Hunter | 16.00% | ~857 |
 | Spreading Influence | 16.00% | ~857 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,355 (Ranked 120)  
+Progressed: 5,356 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 5,242 | 0 |
 | 2023-05-14 | 5,285 | 0 |
 | 2023-05-15 | 5,326 | 0 |
-| 2023-05-16 | 5,355 | 0 |
+| 2023-05-16 | 5,356 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

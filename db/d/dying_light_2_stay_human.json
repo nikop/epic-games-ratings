@@ -4553,10 +4553,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 15963,
       "NumberOfAwardsMax": 7071
+    },
+    {
+      "Time": "2023-05-16T22:59:18.1982668+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 15970,
+      "NumberOfAwardsMax": 7071
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15963,
+  "NumberOfAwards": 15970,
   "NumberOfAwardsMax": 7071,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4570,7 +4576,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4137
+      "Count": 4144
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4633,9 +4639,9 @@
       "Count": 451
     }
   ],
-  "EOS_Progressed": 548150,
+  "EOS_Progressed": 548161,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 3936,
+  "EOS_NewPlayers": 3925,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7148,6 +7154,11 @@
       "Time": "2023-05-16T22:05:34.3394263+00:00",
       "NumProgressed": 548150,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-16T23:05:17.7206113+00:00",
+      "NumProgressed": 548161,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 65,
@@ -7159,7 +7170,7 @@
       "Name": "Into the Unknown",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43852
+      "UsersEstimate": 43853
     },
     {
       "ID": "achievement_02",
@@ -7167,7 +7178,7 @@
       "Name": "First Shot",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43852
+      "UsersEstimate": 43853
     },
     {
       "ID": "achievement_03",
@@ -7183,7 +7194,7 @@
       "Name": "Under Pressure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32889
+      "UsersEstimate": 32890
     },
     {
       "ID": "achievement_05",
@@ -7351,7 +7362,7 @@
       "Name": "Flag Burning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32889
+      "UsersEstimate": 32890
     },
     {
       "ID": "achievement_26",
@@ -7375,7 +7386,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32889
+      "UsersEstimate": 32890
     },
     {
       "ID": "achievement_29",
@@ -7463,7 +7474,7 @@
       "Name": "Night Hunter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32889
+      "UsersEstimate": 32890
     },
     {
       "ID": "achievement_40",
@@ -7487,7 +7498,7 @@
       "Name": "Terminal Headache",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 16444
+      "UsersEstimate": 16445
     },
     {
       "ID": "achievement_43",
@@ -7495,7 +7506,7 @@
       "Name": "Slowpoke!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 16444
+      "UsersEstimate": 16445
     },
     {
       "ID": "achievement_44",
@@ -7678,21 +7689,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 548150,
+      "Progressed": 548161,
       "Completed": 47
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 193594,
+      "Progressed": 193605,
       "Completed": 1414
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-05-16T21:00:04.7123847+00:00",
-  "LastChanged_Achievements": "2023-05-16T22:05:34.3394259+00:00",
+  "LastChanged": "2023-05-16T22:59:18.1982667+00:00",
+  "LastChanged_Achievements": "2023-05-16T23:05:17.7206107+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.2442045+00:00",
-  "LastUpdate_Ratings": "2023-05-16T21:59:32.1808874+00:00",
-  "LastUpdate_Achievements": "2023-05-16T22:05:34.3395082+00:00"
+  "LastUpdate_Ratings": "2023-05-16T22:59:18.1982674+00:00",
+  "LastUpdate_Achievements": "2023-05-16T23:05:17.720694+00:00"
 }

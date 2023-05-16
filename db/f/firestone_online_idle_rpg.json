@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1045,
+  "EOS_Progressed": 1047,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1697,6 +1697,11 @@
       "Time": "2023-05-16T22:05:10.5367925+00:00",
       "NumProgressed": 1045,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T23:04:53.7069841+00:00",
+      "NumProgressed": 1047,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1820,7 +1825,7 @@
       "Name": "Dragon Master",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "dragonslayer",
@@ -1876,7 +1881,7 @@
       "Name": "Enlightenment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "exoticmerchant",
@@ -1892,7 +1897,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "fourleafclover",
@@ -1916,7 +1921,7 @@
       "Name": "Full Party",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "gearenchanting",
@@ -1938,9 +1943,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 241
     },
     {
       "ID": "herewegoagain",
@@ -1956,7 +1961,7 @@
       "Name": "Hero inspection",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "howdoyouturnthison",
@@ -1980,7 +1985,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "jewelenchanting",
@@ -2044,7 +2049,7 @@
       "Name": "Miner Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "missionsdedication",
@@ -2100,7 +2105,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "prestigiousx10",
@@ -2164,7 +2169,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "thealchemist",
@@ -2268,7 +2273,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 984
     },
     {
       "ID": "warmachinesarmy",
@@ -2300,14 +2305,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 838
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1045,
+      "Progressed": 1047,
       "Completed": 1
     }
   ],
@@ -2315,8 +2320,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T22:05:10.5367921+00:00",
+  "LastChanged_Achievements": "2023-05-16T23:04:53.7069832+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T21:57:55.9098346+00:00",
-  "LastUpdate_Achievements": "2023-05-16T22:05:10.5368777+00:00"
+  "LastUpdate_Ratings": "2023-05-16T22:57:40.1291905+00:00",
+  "LastUpdate_Achievements": "2023-05-16T23:04:53.7070704+00:00"
 }

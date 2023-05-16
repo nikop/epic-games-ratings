@@ -5,27 +5,27 @@ Rating: 4.32 (Ranked 743)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,743 |
-| A Ribbiting Performance | 78.00% | ~1,545 |
-| At Least We Have Each Other... | 76.00% | ~1,506 |
-| Frogbot | 73.00% | ~1,446 |
-| Ouch | 56.00% | ~1,109 |
-| Fun in the Stun | 56.00% | ~1,109 |
-| Do you feel like a tough guy? | 45.00% | ~891 |
-| The Interdimensional Power of Friendship | 45.00% | ~891 |
-| Turn Up The HEAT | 41.00% | ~812 |
-| Stop Hitting Yourself! | 35.00% | ~693 |
-| Nothing to Wear | 31.00% | ~614 |
+| On the Shoulders of Giants | 88.00% | ~1,745 |
+| A Ribbiting Performance | 78.00% | ~1,547 |
+| At Least We Have Each Other... | 76.00% | ~1,507 |
+| Frogbot | 73.00% | ~1,448 |
+| Ouch | 56.00% | ~1,110 |
+| Fun in the Stun | 56.00% | ~1,110 |
+| Do you feel like a tough guy? | 45.00% | ~892 |
+| The Interdimensional Power of Friendship | 45.00% | ~892 |
+| Turn Up The HEAT | 41.00% | ~813 |
+| Stop Hitting Yourself! | 35.00% | ~694 |
+| Nothing to Wear | 31.00% | ~615 |
 | The First Law of Thermodynamics | 28.00% | ~555 |
 | Do you trust me? | 15.00% | ~297 |
-| The Second Law of Thermodynamics | 14.00% | ~277 |
+| The Second Law of Thermodynamics | 14.00% | ~278 |
 | The Third Law of Thermodynamics | 9.00% | ~178 |
-| Say "Cheese!" | 8.00% | ~158 |
-| Taking Out the Trash | 8.00% | ~158 |
+| Say "Cheese!" | 8.00% | ~159 |
+| Taking Out the Trash | 8.00% | ~159 |
 | Better Than the Devs | 4.00% | ~79 |
 | So do we just stay up here, or?... | 2.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,981 (Ranked 144)  
+Progressed: 1,983 (Ranked 144)  
 Completed: 8 (0.40%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 8 (0.40%) (Ranked 110)
 | 2023-05-13 | 1,930 | 8 |
 | 2023-05-14 | 1,952 | 8 |
 | 2023-05-15 | 1,963 | 8 |
-| 2023-05-16 | 1,981 | 8 |
+| 2023-05-16 | 1,983 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

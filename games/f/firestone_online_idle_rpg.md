@@ -5,23 +5,23 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~982 |
-| World Map | 80.00% | ~836 |
-| Temple of Eternals | 56.00% | ~585 |
-| Prestigious | 52.00% | ~543 |
-| Fellowship Power | 40.00% | ~418 |
-| Guild Power | 24.00% | ~251 |
+| Victor | 94.00% | ~984 |
+| World Map | 80.00% | ~838 |
+| Temple of Eternals | 56.00% | ~586 |
+| Prestigious | 52.00% | ~544 |
+| Fellowship Power | 40.00% | ~419 |
+| Guild Power | 23.00% | ~241 |
 | Prestigious x10 | 20.00% | ~209 |
 | The game is on | 17.00% | ~178 |
 | Dragon Clicker | 15.00% | ~157 |
 | Exotic Merchant | 15.00% | ~157 |
-| Inspection | 14.00% | ~146 |
-| Miner Clicker | 14.00% | ~146 |
-| Full Party | 12.00% | ~125 |
-| Hero inspection | 12.00% | ~125 |
+| Inspection | 14.00% | ~147 |
+| Miner Clicker | 14.00% | ~147 |
+| Full Party | 12.00% | ~126 |
+| Hero inspection | 12.00% | ~126 |
 | Lieutenant | 11.00% | ~115 |
-| Dragon Master | 10.00% | ~104 |
-| Enlightenment | 10.00% | ~104 |
+| Dragon Master | 10.00% | ~105 |
+| Enlightenment | 10.00% | ~105 |
 | The Unstoppable | 9.00% | ~94 |
 | Natural Talent | 8.00% | ~84 |
 | Superior | 8.00% | ~84 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,045 (Ranked 162)  
+Progressed: 1,047 (Ranked 162)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-13 | 1,001 | 1 |
 | 2023-05-14 | 1,017 | 1 |
 | 2023-05-15 | 1,032 | 1 |
-| 2023-05-16 | 1,045 | 1 |
+| 2023-05-16 | 1,047 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
