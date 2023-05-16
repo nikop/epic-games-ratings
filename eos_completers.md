@@ -72,7 +72,7 @@
 | 70 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 71 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.49% |
-| 73 | [Them and Us](games/t/them_and_us.md) | 1.45% |
+| 73 | [Them and Us](games/t/them_and_us.md) | 1.41% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
@@ -111,7 +111,7 @@
 | 109 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 111 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
-| 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
+| 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
 | 113 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 113 | [Tchia](games/t/tchia.md) | 0.37% |

@@ -66,7 +66,7 @@
 | 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 492 |
 | 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 498 | 185 |
 | 59 | [Sifu](games/s/sifu.md) | 4.82 | 6,068 | 53 |
-| 59 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 389 | 203 |
+| 59 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 389 | 204 |
 | 59 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 427 |
 | 59 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.82 | 0 | 492 |
 | 70 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 194 |
@@ -100,7 +100,7 @@
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 492 |
 | 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,808 | 64 |
 | 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 8,964 | 37 |
-| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,254 | 97 |
+| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,256 | 97 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
 | 99 | [Tchia](games/t/tchia.md) | 4.78 | 0 | 492 |
 | 104 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,750 | 89 |
@@ -121,7 +121,7 @@
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 845 | 144 |
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 492 |
 | 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 101 | 322 |
-| 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,631 | 111 |
+| 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,632 | 111 |
 | 115 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 492 |
 | 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,040 | 39 |
 | 115 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 492 |
@@ -333,7 +333,7 @@
 | 325 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 492 |
 | 325 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 181 | 268 |
 | 325 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 224 |
-| 325 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,734 | 110 |
+| 325 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,736 | 110 |
 | 325 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 0 | 492 |
 | 325 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 492 |
 | 325 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 492 |
@@ -786,7 +786,7 @@
 | 779 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 492 |
 | 785 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 492 |
 | 785 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 441 |
-| 785 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,674 | 34 |
+| 785 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,744 | 34 |
 | 785 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 374 | 206 |
 | 785 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 492 |
 | 785 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 492 |
@@ -900,7 +900,7 @@
 | 898 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 492 |
 | 898 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 0 | 492 |
 | 900 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 320 |
-| 900 | [Warface](games/w/warface.md) | 3.91 | 389 | 203 |
+| 900 | [Warface](games/w/warface.md) | 3.91 | 390 | 203 |
 | 902 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 492 |
 | 903 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 492 |
 | 903 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 492 |
