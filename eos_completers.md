@@ -18,9 +18,9 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.77% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.28% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.26% |
 | 22 | [Scorn](games/s/scorn.md) | 7.04% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
@@ -58,7 +58,7 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.23% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -73,7 +73,7 @@
 | 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
-| 74 | [Them and Us](games/t/them_and_us.md) | 1.35% |
+| 74 | [Them and Us](games/t/them_and_us.md) | 1.33% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -96,9 +96,9 @@
 | 93 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 95 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 96 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.74% |
+| 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.72% |
 | 97 | [Train Valley](games/t/train_valley.md) | 0.72% |
-| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
-| 98 | [Haven](games/h/haven.md) | 0.71% |
+| 99 | [Haven](games/h/haven.md) | 0.71% |
 | 100 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 101 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
@@ -133,7 +133,7 @@
 | 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 132 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 132 | [Wildermyth](games/w/wildermyth.md) | 0.26% |
-| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.24% |
+| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.25% |
 | 135 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 136 | [Blanc](games/b/blanc.md) | 0.22% |
 | 136 | [Filament](games/f/filament.md) | 0.22% |
@@ -179,11 +179,11 @@
 | 176 | [High On Life](games/h/high_on_life.md) | 0.04% |
 | 176 | [House Party](games/h/house_party.md) | 0.04% |
 | 176 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
-| 176 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 181 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 181 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 181 | [Old World](games/o/old_world.md) | 0.03% |
-| 181 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 180 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 180 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 180 | [Old World](games/o/old_world.md) | 0.03% |
+| 180 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 180 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
 | 185 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 185 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
 | 185 | [Good Company](games/g/good_company.md) | 0.02% |
