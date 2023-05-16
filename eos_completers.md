@@ -20,9 +20,9 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.23% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
 | 22 | [Scorn](games/s/scorn.md) | 7.04% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.91% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.89% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -73,9 +73,9 @@
 | 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
-| 74 | [Them and Us](games/t/them_and_us.md) | 1.33% |
-| 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
-| 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
+| 74 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
+| 75 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
+| 76 | [Them and Us](games/t/them_and_us.md) | 1.30% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 78 | [Trifox](games/t/trifox.md) | 1.28% |
 | 79 | [Chorus](games/c/chorus.md) | 1.27% |
@@ -96,15 +96,15 @@
 | 93 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 95 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 96 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.74% |
+| 97 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.72% |
 | 97 | [Train Valley](games/t/train_valley.md) | 0.72% |
-| 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.71% |
-| 98 | [Haven](games/h/haven.md) | 0.71% |
+| 99 | [Haven](games/h/haven.md) | 0.71% |
 | 100 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.66% |
 | 101 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
+| 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.51% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
