@@ -465,7 +465,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12473,
+  "EOS_Progressed": 12474,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
@@ -1995,6 +1995,11 @@
       "Time": "2023-05-16T19:04:38.2901957+00:00",
       "NumProgressed": 12473,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-16T20:04:36.8343378+00:00",
+      "NumProgressed": 12474,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2070,7 +2075,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "tpote_achievement_18",
@@ -2166,7 +2171,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "tpote_achievement_29",
@@ -2326,22 +2331,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12473,
+      "Progressed": 12474,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-16T19:04:38.2901954+00:00",
+  "LastChanged_Achievements": "2023-05-16T20:04:36.8343373+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-16T18:59:19.2955243+00:00",
-  "LastUpdate_Achievements": "2023-05-16T19:04:38.2902287+00:00"
+  "LastUpdate_Ratings": "2023-05-16T19:59:14.232346+00:00",
+  "LastUpdate_Achievements": "2023-05-16T20:04:36.834381+00:00"
 }

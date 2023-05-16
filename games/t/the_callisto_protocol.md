@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Instigator | 0.20% | ~1 |
-| Big Game Hunter | 0.20% | ~1 |
-| Bear Trap | 0.20% | ~1 |
+| Instigator | 0.30% | ~1 |
+| Big Game Hunter | 0.30% | ~1 |
+| Bear Trap | 0.30% | ~1 |
 | Big Spender | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~0 |

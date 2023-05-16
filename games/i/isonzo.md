@@ -6,24 +6,24 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,037 |
-| Tutti Eroi! | 53.00% | ~2,981 |
-| You Shall Not Pass | 53.00% | ~2,981 |
-| Avanti Savoia! | 46.00% | ~2,587 |
-| Conrad von Hotzensocks | 36.00% | ~2,025 |
+| Peak Performance | 54.00% | ~3,038 |
+| Tutti Eroi! | 53.00% | ~2,982 |
+| You Shall Not Pass | 53.00% | ~2,982 |
+| Avanti Savoia! | 46.00% | ~2,588 |
 | Mamma Mia! | 36.00% | ~2,025 |
+| Conrad von Hotzensocks | 35.00% | ~1,969 |
 | Gabriele D'Annunzio | 32.00% | ~1,800 |
 | Silver Lining | 28.00% | ~1,575 |
-| Aurelio Baruzzi | 22.00% | ~1,237 |
-| Veni Vidi Vici | 22.00% | ~1,237 |
+| Aurelio Baruzzi | 22.00% | ~1,238 |
+| Veni Vidi Vici | 22.00% | ~1,238 |
 | Decimation | 20.00% | ~1,125 |
 | Donatello | 20.00% | ~1,125 |
 | Insubordination | 19.00% | ~1,069 |
 | The Italian Job | 19.00% | ~1,069 |
-| The Lion of the Isonzo | 18.00% | ~1,012 |
+| The Lion of the Isonzo | 18.00% | ~1,013 |
 | Ragazzi del '99 | 17.00% | ~956 |
 | Thus With A Kiss | 15.00% | ~844 |
-| Dirty Dozen | 14.00% | ~787 |
+| Dirty Dozen | 14.00% | ~788 |
 | Luigi Cadorna | 13.00% | ~731 |
 | Uomo Universale | 13.00% | ~731 |
 | Machiavelli | 12.00% | ~675 |
@@ -35,24 +35,24 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 9.00% | ~506 |
 | The Show Must Go On | 8.00% | ~450 |
 | Tosca | 8.00% | ~450 |
-| Generalissimo | 6.00% | ~337 |
-| The Enlightment | 6.00% | ~337 |
+| Generalissimo | 6.00% | ~338 |
+| The Enlightment | 6.00% | ~338 |
 | 12th Bottle of the Isonzo | 5.00% | ~281 |
 | Cercatore d'Oro | 5.00% | ~281 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~225 |
 | Ponte of No Return | 3.00% | ~169 |
 | Seeing Red | 3.00% | ~169 |
-| Farewell to Arms | 2.00% | ~112 |
-| Soča Drag | 2.00% | ~112 |
-| Saboteur | 2.00% | ~112 |
+| Farewell to Arms | 2.00% | ~113 |
+| Soča Drag | 2.00% | ~113 |
+| Saboteur | 2.00% | ~113 |
 | Compagnia della Morte | 1.00% | ~56 |
 | Drop and Give Me 20 | 1.00% | ~56 |
 | Rome Wasn't Built In A Day | 1.00% | ~56 |
 | Malpractice | 0.90% | ~51 |
-| "Sacro Egoismo" | 0.40% | ~22 |
+| "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,624 (Ranked 119)  
+Progressed: 5,626 (Ranked 119)  
 Completed: 8 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 8 (0.14%) (Ranked 149)
 | 2023-05-12 | 5,614 | 8 |
 | 2023-05-13 | 5,621 | 8 |
 | 2023-05-14 | 5,623 | 8 |
-| 2023-05-16 | 5,624 | 8 |
+| 2023-05-16 | 5,626 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 445)  
 Sum: 253 (Ranked 340)  

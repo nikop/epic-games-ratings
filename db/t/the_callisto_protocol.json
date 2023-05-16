@@ -1011,7 +1011,7 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1019,7 +1019,7 @@
       "ID": "FINISH_WAVE_50",
       "SetID": "6j5ggkc",
       "Name": "Big Game Hunter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1027,7 +1027,7 @@
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1074,8 +1074,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-16T19:04:49.0196483+00:00",
+  "LastChanged_Achievements": "2023-05-16T20:04:47.7495591+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-16T18:57:35.6069578+00:00",
-  "LastUpdate_Achievements": "2023-05-16T19:04:49.0196752+00:00"
+  "LastUpdate_Ratings": "2023-05-16T19:57:26.6031848+00:00",
+  "LastUpdate_Achievements": "2023-05-16T20:04:47.7495884+00:00"
 }

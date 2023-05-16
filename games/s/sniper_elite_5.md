@@ -9,14 +9,14 @@ Rating: 4.40 (Ranked 668)
 | Confirming Suspicions | 32.00% | ~231 |
 | The Kraken Wakes | 30.00% | ~217 |
 | It's Starting to Crack | 28.00% | ~202 |
-| Lord of War | 25.00% | ~180 |
-| Change the Channel | 25.00% | ~180 |
-| Taking it back | 24.00% | ~173 |
+| Lord of War | 25.00% | ~181 |
+| Change the Channel | 25.00% | ~181 |
+| Taking it back | 24.00% | ~174 |
 | Organ Grinder | 23.00% | ~166 |
 | Resourceful | 23.00% | ~166 |
 | Sharpshooter | 21.00% | ~152 |
 | Target America | 21.00% | ~152 |
-| As Quiet as a Mouse | 20.00% | ~144 |
+| As Quiet as a Mouse | 20.00% | ~145 |
 | The Kraken Sleeps | 19.00% | ~137 |
 | Liberté | 17.00% | ~123 |
 | Explosive Efficiency | 16.00% | ~116 |
@@ -32,8 +32,8 @@ Rating: 4.40 (Ranked 668)
 | Set Europe Ablaze | 12.00% | ~87 |
 | Die Nussknacker Sweet! | 12.00% | ~87 |
 | Brains of the Operation | 12.00% | ~87 |
-| No Stone Unturned | 11.00% | ~79 |
-| Opposing Force | 11.00% | ~79 |
+| No Stone Unturned | 11.00% | ~80 |
+| Opposing Force | 11.00% | ~80 |
 | My Little Friend | 9.00% | ~65 |
 | Precision Is Key | 8.00% | ~58 |
 | Rigged to Blow | 8.00% | ~58 |
@@ -74,7 +74,7 @@ Rating: 4.40 (Ranked 668)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722 (Ranked 176)  
+Progressed: 723 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-13 | 709 | 2 |
 | 2023-05-14 | 717 | 2 |
 | 2023-05-15 | 721 | 2 |
-| 2023-05-16 | 722 | 2 |
+| 2023-05-16 | 723 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

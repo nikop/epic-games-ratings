@@ -13,8 +13,8 @@
 | Upgrade Unlock | 35.00% | ~56 |
 | It's Technical | 35.00% | ~56 |
 | Need a Consult | 34.00% | ~54 |
+| Delegate Maintenance | 32.00% | ~51 |
 | Proper Walls | 31.00% | ~49 |
-| Delegate Maintenance | 31.00% | ~49 |
 | Destination Destiny | 27.00% | ~43 |
 | Happy Tenants | 24.00% | ~38 |
 | Potent Potables | 23.00% | ~37 |

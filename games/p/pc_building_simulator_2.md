@@ -5,32 +5,32 @@ Rating: 4.61 (Ranked 354)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 75.00% | ~118,838 |
+| Bootstrapping | 75.00% | ~118,839 |
 | Shine On | 70.00% | ~110,916 |
-| On the Job | 69.00% | ~109,331 |
+| On the Job | 69.00% | ~109,332 |
 | Get Stuck In | 68.00% | ~107,747 |
 | Room for Expansion | 68.00% | ~107,747 |
-| Sales Pitch | 65.00% | ~102,993 |
+| Sales Pitch | 65.00% | ~102,994 |
 | Chill Out | 64.00% | ~101,409 |
-| Tinker | 61.00% | ~96,655 |
+| Tinker | 61.00% | ~96,656 |
 | Grand Designs | 60.00% | ~95,071 |
-| Hot Stuff | 59.00% | ~93,486 |
+| Hot Stuff | 59.00% | ~93,487 |
 | MOAR RGB | 54.00% | ~85,564 |
-| Dream Theme | 46.00% | ~72,887 |
+| Dream Theme | 46.00% | ~72,888 |
 | The Customer is King | 45.00% | ~71,303 |
-| Working Hard | 44.00% | ~69,718 |
-| On the Bench | 42.00% | ~66,549 |
-| The More the Merrier | 42.00% | ~66,549 |
-| Mix and Match | 38.00% | ~60,211 |
-| Recycler | 38.00% | ~60,211 |
+| Working Hard | 44.00% | ~69,719 |
+| On the Bench | 42.00% | ~66,550 |
+| The More the Merrier | 42.00% | ~66,550 |
+| Mix and Match | 38.00% | ~60,212 |
+| Recycler | 38.00% | ~60,212 |
 | Foot in the Door | 37.00% | ~58,627 |
-| Very Imported PC | 36.00% | ~57,042 |
-| Full Throttle | 34.00% | ~53,873 |
-| Repair Master | 32.00% | ~50,704 |
+| Very Imported PC | 36.00% | ~57,043 |
+| Full Throttle | 34.00% | ~53,874 |
+| Repair Master | 32.00% | ~50,705 |
 | Pimp My Rig | 31.00% | ~49,120 |
-| Local Hero | 28.00% | ~44,366 |
-| Broken to Smokin' | 26.00% | ~41,197 |
-| Workaholic | 26.00% | ~41,197 |
+| Local Hero | 28.00% | ~44,367 |
+| Broken to Smokin' | 26.00% | ~41,198 |
+| Workaholic | 26.00% | ~41,198 |
 | Thanks Jeff | 25.00% | ~39,613 |
 | Cinematic | 24.00% | ~38,028 |
 | Bench Warmer | 24.00% | ~38,028 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 354)
 | Ship It Harder | 0.30% | ~475 |
 | Export Expert | 0.20% | ~317 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,451 (Ranked 53)  
+Progressed: 158,452 (Ranked 53)  
 Completed: 102 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 102 (0.06%) (Ranked 168)
 | 2023-05-13 | 158,365 | 102 |
 | 2023-05-14 | 158,400 | 102 |
 | 2023-05-15 | 158,430 | 102 |
-| 2023-05-16 | 158,451 | 102 |
+| 2023-05-16 | 158,452 | 102 |
 ## Awards
 Max (Great for Beginners): 607  (Ranked 164)  
 Sum: 4,555 (Ranked 128)  

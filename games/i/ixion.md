@@ -24,8 +24,8 @@ Rating: 4.55 (Ranked 465)
 | Power Outage | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
 | Access Granted | 0.60% | ~11 |
+| Necessary Enhancement | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~10 |
-| Necessary Enhancement | 0.50% | ~10 |
 | BRAWL! | 0.50% | ~10 |
 | Please Make it Stop! | 0.50% | ~10 |
 | All in Good Health | 0.40% | ~8 |
@@ -43,13 +43,13 @@ Rating: 4.55 (Ranked 465)
 | Catastrophe Avoided | 0.20% | ~4 |
 | Praise the Hull! | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
+| Space Greenhouse | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
 | What the Ruins Teach Us | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
 | Tiqqun Contender | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Work Harder | 0.10% | ~2 |
-| Space Greenhouse | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
 | Help of the Forgotten Member | 0.10% | ~2 |

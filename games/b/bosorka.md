@@ -12,8 +12,8 @@
 | Kind heart | 45.00% | ~32 |
 | Skilled rider | 42.00% | ~30 |
 | Devil's dozen | 28.00% | ~20 |
-| It doesn't work like that | 18.00% | ~13 |
-| A small victory | 15.00% | ~11 |
+| It doesn't work like that | 20.00% | ~14 |
+| A small victory | 17.00% | ~12 |
 | This is just the beginning... | 14.00% | ~10 |
 | Time is on my side | 11.00% | ~8 |
 | Unstoppable Curiosity | 10.00% | ~7 |

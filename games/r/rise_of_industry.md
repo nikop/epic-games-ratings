@@ -5,23 +5,23 @@ Rating: 4.23 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~314,309 |
-| Well educated | 37.00% | ~247,435 |
-| City Planner | 19.00% | ~127,061 |
-| Deforester | 16.00% | ~106,999 |
-| Big Hauling | 15.00% | ~100,311 |
-| Exporter | 13.00% | ~86,937 |
-| I would drive 500 tiles... | 12.00% | ~80,249 |
-| Apprentice Manufacturer | 12.00% | ~80,249 |
-| Landscaper | 11.00% | ~73,562 |
-| Railwayman | 7.00% | ~46,812 |
-| Penniless | 6.00% | ~40,125 |
-| Massive Gains | 6.00% | ~40,125 |
-| Engineer | 2.00% | ~13,375 |
-| Salesman | 2.00% | ~13,375 |
-| High Flyer | 2.00% | ~13,375 |
-| Captain | 0.70% | ~4,681 |
-| Billionaire | 0.60% | ~4,012 |
+| Entrepreneur | 47.00% | ~314,332 |
+| Well educated | 37.00% | ~247,453 |
+| City Planner | 19.00% | ~127,070 |
+| Deforester | 16.00% | ~107,007 |
+| Big Hauling | 15.00% | ~100,319 |
+| Exporter | 13.00% | ~86,943 |
+| I would drive 500 tiles... | 12.00% | ~80,255 |
+| Apprentice Manufacturer | 12.00% | ~80,255 |
+| Landscaper | 11.00% | ~73,567 |
+| Railwayman | 7.00% | ~46,815 |
+| Penniless | 6.00% | ~40,127 |
+| Massive Gains | 6.00% | ~40,127 |
+| Engineer | 2.00% | ~13,376 |
+| Salesman | 2.00% | ~13,376 |
+| High Flyer | 2.00% | ~13,376 |
+| Captain | 0.70% | ~4,682 |
+| Billionaire | 0.60% | ~4,013 |
 | Vroom Vroom | 0.40% | ~2,675 |
 | Excavator | 0.30% | ~2,006 |
 | Loan Ranger | 0.30% | ~2,006 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 794)
 | Master Builder | 0.10% | ~669 |
 | Hard working | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668,743 (Ranked 17)  
+Progressed: 668,791 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-13 | 666,665 | 1 |
 | 2023-05-14 | 667,577 | 1 |
 | 2023-05-15 | 668,254 | 1 |
-| 2023-05-16 | 668,743 | 1 |
+| 2023-05-16 | 668,791 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

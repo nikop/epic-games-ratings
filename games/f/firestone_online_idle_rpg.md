@@ -19,9 +19,9 @@ Rating: 3.64 (Ranked 917)
 | Miner Clicker | 14.00% | ~146 |
 | Full Party | 12.00% | ~125 |
 | Hero inspection | 12.00% | ~125 |
+| Lieutenant | 11.00% | ~115 |
 | Dragon Master | 10.00% | ~104 |
 | Enlightenment | 10.00% | ~104 |
-| Lieutenant | 10.00% | ~104 |
 | The Unstoppable | 9.00% | ~94 |
 | Natural Talent | 8.00% | ~83 |
 | Mysterious Rock | 7.00% | ~73 |

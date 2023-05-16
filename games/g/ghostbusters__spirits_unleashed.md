@@ -5,26 +5,26 @@ Rating: 4.49 (Ranked 554)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~18,795 |
+| Stylish | 86.00% | ~18,796 |
 | Advancement | 74.00% | ~16,173 |
 | Meticulously Efficient | 65.00% | ~14,206 |
 | Discovery | 63.00% | ~13,769 |
 | Swift Rift Removers | 56.00% | ~12,239 |
-| Fully Upgraded | 55.00% | ~12,020 |
-| Cultured | 53.00% | ~11,583 |
+| Fully Upgraded | 55.00% | ~12,021 |
+| Cultured | 53.00% | ~11,584 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,365 |
 | Vaporous Expansion | 49.00% | ~10,709 |
 | Teamwork | 45.00% | ~9,835 |
-| There you are! | 44.00% | ~9,616 |
-| Clutch Capture | 42.00% | ~9,179 |
+| There you are! | 44.00% | ~9,617 |
+| Clutch Capture | 42.00% | ~9,180 |
 | Back Off | 36.00% | ~7,868 |
-| Daily Dose | 35.00% | ~7,649 |
+| Daily Dose | 35.00% | ~7,650 |
 | Welcome to the Crew | 33.00% | ~7,212 |
 | Solo Capture | 32.00% | ~6,994 |
 | Ghostbuster In Training | 31.00% | ~6,775 |
-| Icing on the Cake | 30.00% | ~6,556 |
-| Legions | 28.00% | ~6,119 |
-| Side Hustle | 28.00% | ~6,119 |
+| Icing on the Cake | 30.00% | ~6,557 |
+| Legions | 28.00% | ~6,120 |
+| Side Hustle | 28.00% | ~6,120 |
 | We have the best insurance | 27.00% | ~5,901 |
 | Pesky Jerks | 27.00% | ~5,901 |
 | Right back at ya | 27.00% | ~5,901 |
@@ -35,9 +35,9 @@ Rating: 4.49 (Ranked 554)
 | Collector | 24.00% | ~5,245 |
 | Ectoplasmic Entity | 24.00% | ~5,245 |
 | Rift Destroyer | 20.00% | ~4,371 |
-| Tobin's Prodigy | 19.00% | ~4,152 |
+| Tobin's Prodigy | 19.00% | ~4,153 |
 | Reckless | 18.00% | ~3,934 |
-| Terrifying | 17.00% | ~3,715 |
+| Terrifying | 17.00% | ~3,716 |
 | Diabolical | 16.00% | ~3,497 |
 | Escape Artist | 16.00% | ~3,497 |
 | Seasoned | 16.00% | ~3,497 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 554)
 | I don't need these | 1.00% | ~219 |
 | Mycophile | 1.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,855 (Ranked 89)  
+Progressed: 21,856 (Ranked 89)  
 Completed: 39 (0.18%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 39 (0.18%) (Ranked 142)
 | 2023-05-13 | 21,764 | 39 |
 | 2023-05-14 | 21,803 | 39 |
 | 2023-05-15 | 21,836 | 39 |
-| 2023-05-16 | 21,855 | 39 |
+| 2023-05-16 | 21,856 | 39 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
 Sum: 2,067 (Ranked 184)  

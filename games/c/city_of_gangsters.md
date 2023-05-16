@@ -1,46 +1,46 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.25 (Ranked 779)  
+Rating: 4.26 (Ranked 776)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~143,974 |
-| Copacetic Coordination | 16.00% | ~50,078 |
-| Fronting the Money | 14.00% | ~43,818 |
-| The Dawn of Automation | 14.00% | ~43,818 |
-| Extraordinary Logistics | 14.00% | ~43,818 |
-| Family First | 13.00% | ~40,688 |
-| Cleaning House | 12.00% | ~37,558 |
-| Room in the Back | 12.00% | ~37,558 |
-| Dirty Money | 12.00% | ~37,558 |
-| Booze Baron | 11.00% | ~34,428 |
-| Beating the Heat | 10.00% | ~31,299 |
-| Friends on the Force | 10.00% | ~31,299 |
-| Neighborhood Watch | 10.00% | ~31,299 |
-| Core Corps | 8.00% | ~25,039 |
-| Sizeable Stash | 7.00% | ~21,909 |
-| Street Fighter | 7.00% | ~21,909 |
-| Friendly Gestures | 7.00% | ~21,909 |
-| Liquor Lord | 6.00% | ~18,779 |
-| Show ‘em the Sugar | 6.00% | ~18,779 |
-| People Person | 6.00% | ~18,779 |
-| Street Knowledge | 5.00% | ~15,649 |
-| Oh Captain | 5.00% | ~15,649 |
-| Branching Out | 5.00% | ~15,649 |
-| Improvement Missions | 5.00% | ~15,649 |
-| Opportunity Knocked | 5.00% | ~15,649 |
-| City of Big Shoulders | 5.00% | ~15,649 |
-| Safety in Numbers | 5.00% | ~15,649 |
-| Moving Experiences | 5.00% | ~15,649 |
-| Mission Mastery | 5.00% | ~15,649 |
-| Wise Head | 5.00% | ~15,649 |
-| Killing Them Softly | 5.00% | ~15,649 |
-| Considerable Clams | 4.00% | ~12,519 |
-| Gin Joint | 4.00% | ~12,519 |
-| An Affront to the Enemy | 4.00% | ~12,519 |
-| Friends from Back Home | 4.00% | ~12,519 |
-| Half Century Mark | 4.00% | ~12,519 |
+| Corner Clout | 46.00% | ~143,981 |
+| Copacetic Coordination | 16.00% | ~50,080 |
+| Fronting the Money | 14.00% | ~43,820 |
+| The Dawn of Automation | 14.00% | ~43,820 |
+| Extraordinary Logistics | 14.00% | ~43,820 |
+| Family First | 13.00% | ~40,690 |
+| Cleaning House | 12.00% | ~37,560 |
+| Room in the Back | 12.00% | ~37,560 |
+| Dirty Money | 12.00% | ~37,560 |
+| Booze Baron | 11.00% | ~34,430 |
+| Beating the Heat | 10.00% | ~31,300 |
+| Friends on the Force | 10.00% | ~31,300 |
+| Neighborhood Watch | 10.00% | ~31,300 |
+| Core Corps | 8.00% | ~25,040 |
+| Sizeable Stash | 7.00% | ~21,910 |
+| Street Fighter | 7.00% | ~21,910 |
+| Friendly Gestures | 7.00% | ~21,910 |
+| Liquor Lord | 6.00% | ~18,780 |
+| Show ‘em the Sugar | 6.00% | ~18,780 |
+| People Person | 6.00% | ~18,780 |
+| Street Knowledge | 5.00% | ~15,650 |
+| Oh Captain | 5.00% | ~15,650 |
+| Branching Out | 5.00% | ~15,650 |
+| Improvement Missions | 5.00% | ~15,650 |
+| Opportunity Knocked | 5.00% | ~15,650 |
+| City of Big Shoulders | 5.00% | ~15,650 |
+| Safety in Numbers | 5.00% | ~15,650 |
+| Moving Experiences | 5.00% | ~15,650 |
+| Mission Mastery | 5.00% | ~15,650 |
+| Wise Head | 5.00% | ~15,650 |
+| Killing Them Softly | 5.00% | ~15,650 |
+| Considerable Clams | 4.00% | ~12,520 |
+| Gin Joint | 4.00% | ~12,520 |
+| An Affront to the Enemy | 4.00% | ~12,520 |
+| Friends from Back Home | 4.00% | ~12,520 |
+| Half Century Mark | 4.00% | ~12,520 |
 | Corner Opportunities | 3.00% | ~9,390 |
 | 2122 North Clark Street | 3.00% | ~9,390 |
 | Copious Cabbage | 3.00% | ~9,390 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 779)
 | High Pillow | 0.10% | ~313 |
 | Station Master | 0.10% | ~313 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,986 (Ranked 37)  
+Progressed: 313,003 (Ranked 37)  
 Completed: 3 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 3 (0.00%) (Ranked 199)
 | 2023-05-13 | 312,059 | 3 |
 | 2023-05-14 | 312,468 | 3 |
 | 2023-05-15 | 312,763 | 3 |
-| 2023-05-16 | 312,986 | 3 |
+| 2023-05-16 | 313,003 | 3 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 466)  
 Sum: 87 (Ranked 404)  
@@ -166,3 +166,4 @@ Diff (max vs sum): 62
 | 2023-05-13 | 4.26 | 24 | 67 |
 | 2023-05-14 | 4.26 | 24 | 87 |
 | 2023-05-15 | 4.25 | 24 | 87 |
+| 2023-05-16 | 4.26 | 24 | 87 |

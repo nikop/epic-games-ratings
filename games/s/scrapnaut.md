@@ -30,9 +30,9 @@ Number of Ratings: 38  (23.09.2022)
 | Fuel | 10.00% | ~17 |
 | Mythical Smelter | 10.00% | ~17 |
 | Forest Lord | 9.00% | ~15 |
+| Smelting Master | 9.00% | ~15 |
 | Black Gold | 8.00% | ~14 |
 | Master Of Management | 8.00% | ~14 |
-| Smelting Master | 8.00% | ~14 |
 | Survival Master | 4.00% | ~7 |
 | Traveler | 3.00% | ~5 |
 | Forest Killer | 1.00% | ~2 |

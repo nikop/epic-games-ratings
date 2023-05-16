@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -112,6 +112,11 @@
       "Time": "2023-05-15T19:05:41.1498179+00:00",
       "NumProgressed": 342,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-16T20:04:34.7206328+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -121,9 +126,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 333
     },
     {
       "ID": "CHOICES_MATTER",
@@ -145,9 +150,9 @@
       "ID": "ENDING_2",
       "SetID": "8eejhlh",
       "Name": "The Lion\u0027s Den",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ENDING_3",
@@ -169,9 +174,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 147
     },
     {
       "ID": "ENDING_6",
@@ -187,7 +192,7 @@
       "Name": "The Frenzy",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -195,7 +200,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -211,7 +216,7 @@
       "Name": "Fair Share",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "GOOD_KARMA",
@@ -227,7 +232,7 @@
       "Name": "Interrogation",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "OFFICE_CLERK",
@@ -235,15 +240,15 @@
       "Name": "Office Clerk",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
       "SetID": "8eejhlh",
       "Name": "Proficient Storyteller",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "PROTECTOR",
@@ -267,7 +272,7 @@
       "Name": "Shill Bidder",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -282,7 +287,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 4
     }
   ],
@@ -290,8 +295,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-16T19:04:36.1063563+00:00",
+  "LastChanged_Achievements": "2023-05-16T20:04:34.7206323+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:41.2560047+00:00",
-  "LastUpdate_Ratings": "2023-05-16T18:57:31.2940376+00:00",
-  "LastUpdate_Achievements": "2023-05-16T19:04:36.1063662+00:00"
+  "LastUpdate_Ratings": "2023-05-16T19:57:22.8967951+00:00",
+  "LastUpdate_Achievements": "2023-05-16T20:04:34.7206478+00:00"
 }

@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.40% | ~351 |
 | Underdeep Cartography | 0.40% | ~351 |
 | Tall Tales | 0.30% | ~162 |
+| The Witchlight Carnival | 0.30% | ~162 |
 | The Silken Swamp | 0.30% | ~263 |
 | Supply Run | 0.30% | ~263 |
 | Return to the Tomb | 0.30% | ~162 |
@@ -71,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.30% | ~263 |
 | Flying Monkey Skulls of Doom | 0.30% | ~263 |
 | The Darkness Runs Deeper | 0.30% | ~263 |
+| Difficult Terrain | 0.30% | ~263 |
 | Bad Odds in Avernus | 0.30% | ~162 |
 | An Even Worse Time in Avernus | 0.30% | ~162 |
 | The Everlasting Rime | 0.30% | ~162 |
@@ -87,7 +89,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.20% | ~108 |
 | An Unexpected Geist | 0.20% | ~108 |
 | Back to Nature | 0.20% | ~108 |
-| The Witchlight Carnival | 0.20% | ~108 |
 | A Monarch Among Us | 0.20% | ~108 |
 | A Dragon Against Us | 0.20% | ~108 |
 | A Familiar Behind Us | 0.20% | ~108 |
@@ -222,7 +223,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.20% | ~175 |
 | Dark Doppelgangers | 0.20% | ~175 |
 | Faerûn's Most Wanted | 0.20% | ~108 |
-| Difficult Terrain | 0.20% | ~175 |
 | Cold & Wet | 0.20% | ~175 |
 | Madcap Adventures | 0.20% | ~175 |
 | Faerûn's Most Neglected | 0.20% | ~108 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,688 (Ranked 59)  
+Progressed: 87,694 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,688 | 1,843 |
+| 2023-05-16 | 87,694 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,895 (Ranked 37)  

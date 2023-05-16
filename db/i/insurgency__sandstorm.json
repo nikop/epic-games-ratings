@@ -1975,9 +1975,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 369293,
+  "EOS_Progressed": 369312,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4853,
+  "EOS_NewPlayers": 4857,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4460,6 +4460,11 @@
       "Time": "2023-05-16T19:04:38.8703287+00:00",
       "NumProgressed": 369293,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-16T20:04:37.5481108+00:00",
+      "NumProgressed": 369312,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -4503,7 +4508,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -4639,7 +4644,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18465
+      "UsersEstimate": 18466
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -4735,7 +4740,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18465
+      "UsersEstimate": 18466
     },
     {
       "ID": "ACH_WET_FEET",
@@ -4750,15 +4755,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 369293,
+      "Progressed": 369312,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-05-16T17:57:37.8113679+00:00",
-  "LastChanged_Achievements": "2023-05-16T19:04:38.8703284+00:00",
+  "LastChanged_Achievements": "2023-05-16T20:04:37.5481104+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:44.5366654+00:00",
-  "LastUpdate_Ratings": "2023-05-16T18:57:35.3489852+00:00",
-  "LastUpdate_Achievements": "2023-05-16T19:04:38.8703603+00:00"
+  "LastUpdate_Ratings": "2023-05-16T19:57:26.4452667+00:00",
+  "LastUpdate_Achievements": "2023-05-16T20:04:37.5481682+00:00"
 }

@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -520,6 +520,11 @@
       "Time": "2023-05-16T04:06:12.3913926+00:00",
       "NumProgressed": 722,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-16T20:04:44.0640767+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -555,7 +560,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -563,7 +568,7 @@
       "Name": "Opposing Force",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -739,7 +744,7 @@
       "Name": "Lord of War",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -771,7 +776,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -867,7 +872,7 @@
       "Name": "Change the Channel",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -899,7 +904,7 @@
       "Name": "Taking it back",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1074,13 +1079,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 673,
+      "Progressed": 674,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 2
     }
   ],
@@ -1088,8 +1093,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-16T14:00:47.7127935+00:00",
-  "LastChanged_Achievements": "2023-05-16T19:04:45.3088587+00:00",
+  "LastChanged_Achievements": "2023-05-16T20:04:44.0640761+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-16T18:59:47.8425429+00:00",
-  "LastUpdate_Achievements": "2023-05-16T19:04:45.3089125+00:00"
+  "LastUpdate_Ratings": "2023-05-16T19:59:44.5115452+00:00",
+  "LastUpdate_Achievements": "2023-05-16T20:04:44.0641648+00:00"
 }

@@ -12,7 +12,7 @@
 | Short circuit | 53.00% | ~232 |
 | Curious | 41.00% | ~179 |
 | Everybody lies | 36.00% | ~157 |
-| Trick or Treat? | 23.00% | ~101 |
+| Trick or Treat? | 24.00% | ~105 |
 | Sysadmin | 22.00% | ~96 |
 | There is another way | 22.00% | ~96 |
 | The Walking Robot Among Us | 21.00% | ~92 |

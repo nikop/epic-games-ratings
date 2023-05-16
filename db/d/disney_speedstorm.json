@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2453,
+  "EOS_Progressed": 2455,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1375,6 +1375,11 @@
       "Time": "2023-05-16T17:05:28.441845+00:00",
       "NumProgressed": 2453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T20:04:53.7117377+00:00",
+      "NumProgressed": 2455,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1394,7 +1399,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "11",
@@ -1426,7 +1431,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "15",
@@ -1466,7 +1471,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 10,
       "XP": 85,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "2",
@@ -1482,7 +1487,7 @@
       "Name": "PROTECTED",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "21",
@@ -1538,7 +1543,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "6",
@@ -1546,7 +1551,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "7",
@@ -1577,13 +1582,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2453,
+      "Progressed": 2455,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-16T19:04:54.9963193+00:00",
+  "LastChanged_Achievements": "2023-05-16T20:04:53.7117373+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-16T18:58:27.5961969+00:00",
-  "LastUpdate_Achievements": "2023-05-16T19:04:54.9963714+00:00"
+  "LastUpdate_Ratings": "2023-05-16T19:58:21.9539773+00:00",
+  "LastUpdate_Achievements": "2023-05-16T20:04:53.7117618+00:00"
 }
