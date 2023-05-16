@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -248,9 +248,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10273,
+  "EOS_Progressed": 10274,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -958,6 +958,11 @@
       "Time": "2023-05-16T04:06:43.1216411+00:00",
       "NumProgressed": 10273,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-16T11:05:40.8394131+00:00",
+      "NumProgressed": 10274,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -969,7 +974,7 @@
       "Name": "Under a New Sun",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 9554
+      "UsersEstimate": 9555
     },
     {
       "ID": "ACH_02",
@@ -985,7 +990,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 7602
+      "UsersEstimate": 7603
     },
     {
       "ID": "ACH_04",
@@ -993,15 +998,15 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 7191
+      "UsersEstimate": 7192
     },
     {
       "ID": "ACH_05",
       "SetID": "9d4cf4c",
       "Name": "In our Wake",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 6883
+      "UsersEstimate": 6986
     },
     {
       "ID": "ACH_06",
@@ -1009,7 +1014,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 6677
+      "UsersEstimate": 6678
     },
     {
       "ID": "ACH_07",
@@ -1049,7 +1054,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4931
+      "UsersEstimate": 4932
     },
     {
       "ID": "ACH_12",
@@ -1073,7 +1078,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "ACH_15",
@@ -1081,7 +1086,7 @@
       "Name": "Dying Sun",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3288
     },
     {
       "ID": "ACH_16",
@@ -1153,7 +1158,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_25",
@@ -1161,7 +1166,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_26",
@@ -1177,7 +1182,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "ACH_28",
@@ -1225,7 +1230,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_34",
@@ -1248,7 +1253,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10273,
+      "Progressed": 10274,
       "Completed": 32
     }
   ],
@@ -1256,8 +1261,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-06T21:01:02.9835105+00:00",
-  "LastChanged_Achievements": "2023-05-16T10:05:16.593503+00:00",
+  "LastChanged_Achievements": "2023-05-16T11:05:40.8394123+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:15.9050942+00:00",
-  "LastUpdate_Ratings": "2023-05-16T09:58:47.5689923+00:00",
-  "LastUpdate_Achievements": "2023-05-16T10:05:16.5935323+00:00"
+  "LastUpdate_Ratings": "2023-05-16T10:59:10.0832354+00:00",
+  "LastUpdate_Achievements": "2023-05-16T11:05:40.8394432+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "viruz-873472",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-21T13:00:00+00:00",
     "PcReleaseDate": "2021-03-10T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.6672931+00:00",
   "LastChanged": "2023-03-31T05:57:52.6672932+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.5780033+00:00",
-  "LastUpdate_Ratings": "2023-05-16T09:59:33.211538+00:00",
-  "LastUpdate_Achievements": "2023-05-16T10:04:29.0138455+00:00"
+  "LastUpdate_Ratings": "2023-05-16T10:59:56.5925441+00:00",
+  "LastUpdate_Achievements": "2023-05-16T11:04:53.1470678+00:00"
 }

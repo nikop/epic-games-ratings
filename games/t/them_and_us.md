@@ -16,9 +16,10 @@
 | Parasite Exterminated | 8.00% | ~6 |
 | The Cultists | 8.00% | ~6 |
 | This Coffin Has Your Name On It! | 8.00% | ~6 |
+| The Forgotten Tower | 6.00% | ~4 |
 | Lover of classics | 4.00% | ~3 |
 | The bus stop | 4.00% | ~3 |
-| The Forgotten Tower | 4.00% | ~3 |
+| I Am The Gate Keeper! | 3.00% | ~2 |
 | Armed To The Teeth | 1.00% | ~1 |
 | Back In Time | 1.00% | ~1 |
 | Before The Eclipse | 1.00% | ~1 |
@@ -37,7 +38,6 @@
 | Researcher | 1.00% | ~1 |
 | Rest In Peace | 1.00% | ~1 |
 | Survival Horror | 1.00% | ~1 |
-| I Am The Gate Keeper! | 1.00% | ~1 |
 | Survival Hero | 1.00% | ~1 |
 | The 5th Element | 1.00% | ~1 |
 | The Curse Is Real | 1.00% | ~1 |

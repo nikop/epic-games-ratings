@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -1829,9 +1829,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 103
     },
     {
       "ID": "exoticmerchant",
@@ -2197,9 +2197,9 @@
       "ID": "transmute",
       "SetID": "3nl4bcg",
       "Name": "Transmute",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "treeoflife",
@@ -2270,8 +2270,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T10:05:05.9055211+00:00",
+  "LastChanged_Achievements": "2023-05-16T11:05:30.2032008+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T09:57:36.3811948+00:00",
-  "LastUpdate_Achievements": "2023-05-16T10:05:05.9056128+00:00"
+  "LastUpdate_Ratings": "2023-05-16T10:57:58.55506+00:00",
+  "LastUpdate_Achievements": "2023-05-16T11:05:30.2032801+00:00"
 }

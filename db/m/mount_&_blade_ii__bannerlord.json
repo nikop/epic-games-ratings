@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4053,9 +4053,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49980,
+  "EOS_Progressed": 49981,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6373,6 +6373,11 @@
       "Time": "2023-05-16T10:05:25.6114326+00:00",
       "NumProgressed": 49980,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T11:05:49.8649935+00:00",
+      "NumProgressed": 49981,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6392,7 +6397,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "Bannerlord",
@@ -6766,9 +6771,9 @@
       "ID": "Undercover",
       "SetID": "den0lp1",
       "Name": "Undercover",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 400
     },
     {
       "ID": "Veni vidi vici",
@@ -6791,15 +6796,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49980,
+      "Progressed": 49981,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-16T08:00:41.2466919+00:00",
-  "LastChanged_Achievements": "2023-05-16T10:05:25.6114323+00:00",
+  "LastChanged_Achievements": "2023-05-16T11:05:49.8649931+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-16T09:59:05.7085776+00:00",
-  "LastUpdate_Achievements": "2023-05-16T10:05:25.6114932+00:00"
+  "LastUpdate_Ratings": "2023-05-16T10:59:28.4814883+00:00",
+  "LastUpdate_Achievements": "2023-05-16T11:05:49.8650499+00:00"
 }

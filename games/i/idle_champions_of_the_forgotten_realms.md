@@ -14,7 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.90% | ~789 |
 | Bully for Vecna | 0.90% | ~485 |
 | The Mad Wizard | 0.90% | ~789 |
-| The Ring of Regeneration | 0.70% | ~613 |
+| The Ring of Regeneration | 0.80% | ~701 |
 | Were-verpowered | 0.60% | ~526 |
 | Seeking Allies | 0.60% | ~526 |
 | Are Ya Chicken? | 0.60% | ~526 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,642 (Ranked 59)  
+Progressed: 87,646 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,642 | 1,843 |
+| 2023-05-16 | 87,646 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,895 (Ranked 37)  

@@ -4,18 +4,18 @@
   "ProductSlug": "the-settlers",
   "Ranking_Rating": 912,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 378,
+  "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-17T09:00:00+00:00",
     "PcReleaseDate": "2023-02-17T09:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.75,
+  "Rating": 3.76,
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -574,10 +574,16 @@
       "Rating": 3.75,
       "NumberOfAwards": 151,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-05-16T10:57:33.6068435+00:00",
+      "Rating": 3.76,
+      "NumberOfAwards": 152,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 151,
+  "NumberOfAwards": 152,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -585,7 +591,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Great for Beginners",
@@ -612,8 +618,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-05-15T17:57:28.3388272+00:00",
+  "LastChanged": "2023-05-16T10:57:33.6068432+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:28.7469876+00:00",
-  "LastUpdate_Ratings": "2023-05-16T09:57:12.933157+00:00",
-  "LastUpdate_Achievements": "2023-05-16T10:03:13.8044035+00:00"
+  "LastUpdate_Ratings": "2023-05-16T10:57:33.6068439+00:00",
+  "LastUpdate_Achievements": "2023-05-16T11:03:28.3299711+00:00"
 }

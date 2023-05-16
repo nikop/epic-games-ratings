@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 87.00% | ~26 |
-| Welcome to the Rumbly Lands! | 87.00% | ~26 |
-| Time to Bash Some Heads! | 83.00% | ~25 |
-| Shiny! | 73.00% | ~22 |
-| Deep in the Mounds | 70.00% | ~21 |
-| Locked Away | 33.00% | ~10 |
-| Smeltastic! | 33.00% | ~10 |
-| A Little Renovating | 30.00% | ~9 |
+| What took you so long? | 87.00% | ~27 |
+| Welcome to the Rumbly Lands! | 87.00% | ~27 |
+| Time to Bash Some Heads! | 84.00% | ~26 |
+| Shiny! | 74.00% | ~23 |
+| Deep in the Mounds | 68.00% | ~21 |
+| Locked Away | 32.00% | ~10 |
+| Smeltastic! | 32.00% | ~10 |
+| A Little Renovating | 29.00% | ~9 |
 | Deflect This! | 23.00% | ~7 |
-| Just Some Improvements | 20.00% | ~6 |
-| It's a Sign! | 20.00% | ~6 |
-| A Little Extra Love | 17.00% | ~5 |
-| A New Strategy | 17.00% | ~5 |
-| A Terrible Way to Go | 17.00% | ~5 |
+| Just Some Improvements | 19.00% | ~6 |
+| It's a Sign! | 19.00% | ~6 |
+| A Little Extra Love | 16.00% | ~5 |
+| A New Strategy | 16.00% | ~5 |
+| A Terrible Way to Go | 16.00% | ~5 |
 | Isn't It Beautiful? | 13.00% | ~4 |
 | A Generous Leader | 13.00% | ~4 |
 | Final Announcement | 13.00% | ~4 |
@@ -56,13 +56,14 @@
 | With a Little Help from My Friends | 10.00% | ~3 |
 | The More the Merrier | 10.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 295)  
-Completed: 3 (10.00%) (Ranked 13)  
+Progressed: 31 (Ranked 294)  
+Completed: 3 (9.68%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 29 | 3 |
 | 2023-04-30 | 30 | 3 |
+| 2023-05-16 | 31 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

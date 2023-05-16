@@ -4,8 +4,8 @@
   "ProductSlug": "rain-world-4c860c",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-25T06:00:00+00:00",
     "PcReleaseDate": "2017-03-28T05:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
   "LastChanged": "2023-03-31T05:57:25.9902033+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:35.4309353+00:00",
-  "LastUpdate_Ratings": "2023-05-16T09:58:11.9663116+00:00",
-  "LastUpdate_Achievements": "2023-05-16T10:03:28.9211882+00:00"
+  "LastUpdate_Ratings": "2023-05-16T10:58:33.9525833+00:00",
+  "LastUpdate_Achievements": "2023-05-16T11:03:43.7468379+00:00"
 }

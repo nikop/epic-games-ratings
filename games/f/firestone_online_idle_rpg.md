@@ -20,8 +20,8 @@ Rating: 3.64 (Ranked 917)
 | Full Party | 12.00% | ~124 |
 | Hero inspection | 12.00% | ~124 |
 | Dragon Master | 10.00% | ~103 |
+| Enlightenment | 10.00% | ~103 |
 | Lieutenant | 10.00% | ~103 |
-| Enlightenment | 9.00% | ~93 |
 | Natural Talent | 8.00% | ~83 |
 | The Unstoppable | 8.00% | ~83 |
 | Mysterious Rock | 7.00% | ~72 |
@@ -58,9 +58,9 @@ Rating: 3.64 (Ranked 917)
 | Blueprint Upgrades | 0.70% | ~7 |
 | Legendary | 0.70% | ~7 |
 | Sailor | 0.70% | ~7 |
+| Transmute | 0.70% | ~7 |
 | Tree of Life | 0.70% | ~7 |
 | Ebony Jungle Liberator | 0.60% | ~6 |
-| Transmute | 0.60% | ~6 |
 | Enchanting skill | 0.50% | ~5 |
 | The Alchemist | 0.50% | ~5 |
 | Training makes a Pro player | 0.50% | ~5 |

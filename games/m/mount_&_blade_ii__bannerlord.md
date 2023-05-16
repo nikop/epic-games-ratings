@@ -15,7 +15,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | The king is pleased | 16.00% | ~7,997 |
 | King Solomon | 15.00% | ~7,497 |
 | I can do it | 14.00% | ~6,997 |
-| Apple of my eye | 13.00% | ~6,497 |
+| Apple of my eye | 13.00% | ~6,498 |
 | God of the Arena | 12.00% | ~5,998 |
 | Against all odds | 9.00% | ~4,498 |
 | Swordbearer | 9.00% | ~4,498 |
@@ -36,8 +36,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Long live the Empire! | 2.00% | ~1,000 |
 | Real Estate | 2.00% | ~1,000 |
 | Supreme Emperor | 1.00% | ~500 |
+| Undercover | 0.80% | ~400 |
 | Crackshot | 0.70% | ~350 |
-| Undercover | 0.70% | ~350 |
 | Fat Cat | 0.60% | ~300 |
 | Catch | 0.50% | ~250 |
 | Slice 'n dice | 0.40% | ~200 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,980 (Ranked 74)  
+Progressed: 49,981 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 49,748 | 0 |
 | 2023-05-14 | 49,864 | 0 |
 | 2023-05-15 | 49,956 | 0 |
-| 2023-05-16 | 49,980 | 0 |
+| 2023-05-16 | 49,981 | 0 |
 ## Awards
 Max (Character Customization): 6,537  (Ranked 49)  
 Sum: 13,036 (Ranked 68)  
