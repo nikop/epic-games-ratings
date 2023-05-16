@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -2388,9 +2388,9 @@
       "Count": 472
     }
   ],
-  "EOS_Progressed": 267275,
+  "EOS_Progressed": 267283,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 986,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4718,6 +4718,11 @@
       "Time": "2023-05-16T02:05:22.017756+00:00",
       "NumProgressed": 267275,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-05-16T03:03:32.4256158+00:00",
+      "NumProgressed": 267283,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 45,
@@ -4737,7 +4742,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16036
+      "UsersEstimate": 16037
     },
     {
       "ID": "PFA_11",
@@ -4745,7 +4750,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16036
+      "UsersEstimate": 16037
     },
     {
       "ID": "PFA_12",
@@ -4753,7 +4758,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16036
+      "UsersEstimate": 16037
     },
     {
       "ID": "PFA_13",
@@ -5088,7 +5093,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267275,
+      "Progressed": 267283,
       "Completed": 362
     }
   ],
@@ -5096,8 +5101,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-15T20:57:11.1674033+00:00",
-  "LastChanged_Achievements": "2023-05-16T02:05:22.0177552+00:00",
+  "LastChanged_Achievements": "2023-05-16T03:03:32.4256151+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-16T01:59:19.8378287+00:00",
-  "LastUpdate_Achievements": "2023-05-16T02:05:22.0178396+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:57:29.2541568+00:00",
+  "LastUpdate_Achievements": "2023-05-16T03:03:32.4256746+00:00"
 }

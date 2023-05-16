@@ -4041,9 +4041,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49961,
+  "EOS_Progressed": 49962,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6321,6 +6321,11 @@
       "Time": "2023-05-16T02:08:39.6966645+00:00",
       "NumProgressed": 49961,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T03:07:01.6753906+00:00",
+      "NumProgressed": 49962,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6332,7 +6337,7 @@
       "Name": "Against all odds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "Apple of my eye",
@@ -6564,7 +6569,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17486
+      "UsersEstimate": 17487
     },
     {
       "ID": "Lawmaker",
@@ -6676,7 +6681,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "The king is pleased",
@@ -6739,15 +6744,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49961,
+      "Progressed": 49962,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-15T22:00:30.1202325+00:00",
-  "LastChanged_Achievements": "2023-05-16T02:08:39.6966637+00:00",
+  "LastChanged_Achievements": "2023-05-16T03:07:01.67539+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-16T02:02:20.5501925+00:00",
-  "LastUpdate_Achievements": "2023-05-16T02:08:39.6967226+00:00"
+  "LastUpdate_Ratings": "2023-05-16T03:00:36.78987+00:00",
+  "LastUpdate_Achievements": "2023-05-16T03:07:01.6754468+00:00"
 }

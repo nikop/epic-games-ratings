@@ -2,12 +2,12 @@
   "ID": "9afbc4780d874152a1c66d5fec0967d4",
   "Name": "Northgard",
   "ProductSlug": "northgard",
-  "Ranking_Rating": 165,
-  "Ranking_Popularity": 454,
+  "Ranking_Rating": 164,
+  "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-07-21T14:00:00+00:00",
@@ -295,18 +295,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 74,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-05-16T02:59:15.6859421+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 75,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 74,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 75,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Relaxing",
@@ -332,8 +338,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2023-05-08T18:00:07.3989476+00:00",
+  "LastChanged": "2023-05-16T02:59:15.6859419+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:33.4190989+00:00",
-  "LastUpdate_Ratings": "2023-05-16T02:01:00.8802099+00:00",
-  "LastUpdate_Achievements": "2023-05-16T02:06:15.8160042+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:59:15.6859423+00:00",
+  "LastUpdate_Achievements": "2023-05-16T03:04:37.024862+00:00"
 }

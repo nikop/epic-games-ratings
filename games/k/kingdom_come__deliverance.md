@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,204 |
+| Blacksmith's Son | 31.00% | ~242,205 |
 | Cavalier | 25.00% | ~195,326 |
 | Fatso | 23.00% | ~179,700 |
 | Awakening | 20.00% | ~156,261 |
 | Ranger | 20.00% | ~156,261 |
 | Scrooge | 20.00% | ~156,261 |
-| Anorectic | 16.00% | ~125,008 |
-| Firestarter | 15.00% | ~117,195 |
-| Bookworm | 14.00% | ~109,382 |
-| Insomniac | 13.00% | ~101,569 |
-| Buddy | 11.00% | ~85,943 |
-| Sinner | 11.00% | ~85,943 |
-| Thief | 11.00% | ~85,943 |
-| Convict | 10.00% | ~78,130 |
-| Traveller | 10.00% | ~78,130 |
-| Haggler | 9.00% | ~70,317 |
+| Anorectic | 16.00% | ~125,009 |
+| Firestarter | 15.00% | ~117,196 |
+| Bookworm | 14.00% | ~109,383 |
+| Insomniac | 13.00% | ~101,570 |
+| Buddy | 11.00% | ~85,944 |
+| Sinner | 11.00% | ~85,944 |
+| Thief | 11.00% | ~85,944 |
+| Convict | 10.00% | ~78,131 |
+| Traveller | 10.00% | ~78,131 |
+| Haggler | 9.00% | ~70,318 |
 | Runt | 7.00% | ~54,691 |
 | Casanova | 6.00% | ~46,878 |
 | McLovin | 6.00% | ~46,878 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~781 |
 | Wingman | 0.10% | ~781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,303 (Ranked 12)  
+Progressed: 781,306 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,10 +115,10 @@ Completed: 39 (0.00%) (Ranked 199)
 | 2023-05-13 | 780,946 | 39 |
 | 2023-05-14 | 781,150 | 39 |
 | 2023-05-15 | 781,296 | 39 |
-| 2023-05-16 | 781,303 | 39 |
+| 2023-05-16 | 781,306 | 39 |
 ## Awards
 Max (Character Customization): 7,161  (Ranked 43)  
-Sum: 26,805 (Ranked 42)  
+Sum: 26,807 (Ranked 42)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -126,7 +126,7 @@ Diff (max vs sum): 1
 | This game has Great Boss Battles | 5,278 |
 | This game has Challenging Combat | 1,677 |
 | This game has Amazing Storytelling | 1,647 |
-| This game is Extremely Fun | 1,620 |
+| This game is Extremely Fun | 1,622 |
 | This game has Diverse Characters | 1,620 |
 | This game is Highly Recommended | 1,608 |
 | This game has Amazing Characters | 1,600 |
@@ -248,3 +248,4 @@ Diff (max vs sum): 1
 | 2023-05-13 | 4.71 | - | 7,155 | 26,783 |
 | 2023-05-14 | 4.71 | - | 7,157 | 26,794 |
 | 2023-05-15 | 4.71 | - | 7,161 | 26,805 |
+| 2023-05-16 | 4.71 | - | 7,161 | 26,807 |

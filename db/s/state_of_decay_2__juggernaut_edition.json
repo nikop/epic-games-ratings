@@ -2,12 +2,12 @@
   "ID": "11eb2ae2943641b498efb54501511b86",
   "Name": "State of Decay 2: Juggernaut Edition",
   "ProductSlug": "state-of-decay-2-juggernaut-edition",
-  "Ranking_Rating": 155,
+  "Ranking_Rating": 164,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-03-13T08:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 1354,
   "RatingHistory": [
     {
@@ -1889,6 +1889,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 2376,
       "NumberOfAwardsMax": 311
+    },
+    {
+      "Time": "2023-05-16T03:00:50.5762362+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2376,
+      "NumberOfAwardsMax": 311
     }
   ],
   "ReviewsDisabled": true,
@@ -1980,8 +1986,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2023-05-14T23:00:38.8460731+00:00",
+  "LastChanged": "2023-05-16T03:00:50.5762359+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.963808+00:00",
-  "LastUpdate_Ratings": "2023-05-16T02:02:32.2381791+00:00",
-  "LastUpdate_Achievements": "2023-05-16T02:05:15.5403037+00:00"
+  "LastUpdate_Ratings": "2023-05-16T03:00:50.5762365+00:00",
+  "LastUpdate_Achievements": "2023-05-16T03:03:25.6398943+00:00"
 }

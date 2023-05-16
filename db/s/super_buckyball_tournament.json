@@ -4,7 +4,7 @@
   "ProductSlug": "super-buckyball-tournament",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:58:47.5774209+00:00",
-  "LastUpdate_Ratings": "2023-05-16T02:01:18.6364166+00:00",
-  "LastUpdate_Achievements": "2023-05-16T02:06:21.4358686+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:59:34.2444506+00:00",
+  "LastUpdate_Achievements": "2023-05-16T03:04:42.7025683+00:00"
 }

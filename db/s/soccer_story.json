@@ -4,7 +4,7 @@
   "ProductSlug": "soccer-story-c2fe73",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-11-29T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.4474304+00:00",
   "LastChanged": "2023-03-31T05:58:41.4474305+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:11.8741937+00:00",
-  "LastUpdate_Ratings": "2023-05-16T02:01:48.4182146+00:00",
-  "LastUpdate_Achievements": "2023-05-16T02:05:58.8388315+00:00"
+  "LastUpdate_Ratings": "2023-05-16T03:00:04.4430746+00:00",
+  "LastUpdate_Achievements": "2023-05-16T03:04:19.9234364+00:00"
 }

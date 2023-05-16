@@ -17,7 +17,7 @@
 | Little Shop | 48.00% | ~309 |
 | Surprise! | 43.00% | ~277 |
 | An Actor! | 43.00% | ~277 |
-| Curtain Call | 41.00% | ~264 |
+| Curtain Call | 42.00% | ~270 |
 | Piece of Cake | 39.00% | ~251 |
 | Gooey Delight! | 39.00% | ~251 |
 | Glimmer of Hope | 39.00% | ~251 |
@@ -26,10 +26,10 @@
 | Nightmare Fuel | 37.00% | ~238 |
 | Take Heart | 37.00% | ~238 |
 | The Guardian | 37.00% | ~238 |
+| Stronger! | 36.00% | ~232 |
 | Ancient Wisdom | 35.00% | ~225 |
 | Frog Facts! | 35.00% | ~225 |
 | All That Glistens | 35.00% | ~225 |
-| Stronger! | 35.00% | ~225 |
 | All Skilled Up! | 34.00% | ~219 |
 | It's Pointy! | 34.00% | ~219 |
 | Spellbound | 33.00% | ~213 |

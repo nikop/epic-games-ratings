@@ -6,33 +6,33 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~605,797 |
-| Escaped Asphodel | 80.00% | ~544,537 |
-| Arms Collector | 71.00% | ~483,276 |
-| Friends in High Places | 68.00% | ~462,856 |
-| Escaped Elysium | 66.00% | ~449,243 |
+| Escaped Tartarus | 89.00% | ~605,798 |
+| Escaped Asphodel | 80.00% | ~544,538 |
+| Arms Collector | 71.00% | ~483,277 |
+| Friends in High Places | 68.00% | ~462,857 |
+| Escaped Elysium | 66.00% | ~449,244 |
 | Chthonic Colleagues | 63.00% | ~428,823 |
 | Is There No Escape? | 52.00% | ~353,949 |
 | Death Dealer | 45.00% | ~306,302 |
 | Skelly Slayer | 42.00% | ~285,882 |
-| Well Stocked | 40.00% | ~272,268 |
+| Well Stocked | 40.00% | ~272,269 |
 | Back to Work | 39.00% | ~265,462 |
-| Day-or-Night Trader | 37.00% | ~251,848 |
-| Blessed by the Gods | 37.00% | ~251,848 |
+| Blessed by the Gods | 38.00% | ~258,655 |
+| Day-or-Night Trader | 37.00% | ~251,849 |
 | Urge to Sing | 36.00% | ~245,042 |
 | Blood Bound | 35.00% | ~238,235 |
 | Three-Headed Boy | 32.00% | ~217,815 |
 | River Denizens | 28.00% | ~190,588 |
 | Grown Close | 28.00% | ~190,588 |
 | Home Makeover | 27.00% | ~183,781 |
-| The Family Secret | 26.00% | ~176,974 |
+| The Family Secret | 26.00% | ~176,975 |
 | Had to Happen | 25.00% | ~170,168 |
-| To Charon's Credit | 23.00% | ~156,554 |
-| Tools of the Architect | 23.00% | ~156,554 |
-| Master of Arms | 23.00% | ~156,554 |
+| To Charon's Credit | 23.00% | ~156,555 |
+| Tools of the Architect | 23.00% | ~156,555 |
+| Master of Arms | 23.00% | ~156,555 |
 | Rare Collectible | 22.00% | ~149,748 |
 | Weapon of Fate | 21.00% | ~142,941 |
-| Something From Everyone | 19.00% | ~129,327 |
+| Something From Everyone | 19.00% | ~129,328 |
 | Hold the Onions | 18.00% | ~122,521 |
 | Well Versed | 17.00% | ~115,714 |
 | War-God's Bloodlust | 15.00% | ~102,101 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,227 |
 | Friends Forever | 4.00% | ~27,227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,671 (Ranked 16)  
+Progressed: 680,672 (Ranked 16)  
 Completed: 6,103 (0.90%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 6,103 (0.90%) (Ranked 87)
 | 2023-05-13 | 680,494 | 6,098 |
 | 2023-05-14 | 680,589 | 6,102 |
 | 2023-05-15 | 680,667 | 6,103 |
-| 2023-05-16 | 680,671 | 6,103 |
+| 2023-05-16 | 680,672 | 6,103 |
 ## Awards
 Max (Character Customization): 3,049  (Ranked 87)  
 Sum: 7,439 (Ranked 97)  

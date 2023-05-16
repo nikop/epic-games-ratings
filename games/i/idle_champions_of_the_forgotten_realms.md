@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.60% | ~526 |
 | Friendly Imps | 0.60% | ~526 |
 | A Persistent Buzzing | 0.50% | ~438 |
+| The Crumbling Temple | 0.50% | ~438 |
 | Mad Cow Disease | 0.50% | ~438 |
 | Pure Energy | 0.50% | ~438 |
 | Maddening | 0.40% | ~350 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.40% | ~350 |
 | Building Trust | 0.40% | ~350 |
 | Unearthed Evil | 0.40% | ~350 |
-| The Crumbling Temple | 0.40% | ~350 |
 | Useless Allies | 0.40% | ~350 |
 | Exploring Port Nyanzaru | 0.40% | ~350 |
 | Running of the Saurs | 0.40% | ~350 |
@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.30% | ~263 |
 | Constant Banditry | 0.30% | ~263 |
 | Overdue Rendezvous | 0.30% | ~263 |
+| Witty Riposting | 0.30% | ~162 |
 | How Far Away is Thay | 0.30% | ~162 |
 | The Templar's Camp | 0.30% | ~263 |
 | Rescue in the Jungle | 0.30% | ~263 |
@@ -168,6 +169,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Domesticated Owlbears | 0.20% | ~175 |
 | This Quest Stinks! | 0.20% | ~108 |
 | The Immortal Warrior | 0.20% | ~175 |
+| Hold for the Red Wizards | 0.20% | ~175 |
 | The Wyrmheart Mine | 0.20% | ~175 |
 | Tower on the Lake | 0.20% | ~175 |
 | Seeds of Deceit | 0.20% | ~175 |
@@ -279,7 +281,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Idyllglen | 0.20% | ~108 |
 | The Radiant Nightmare | 0.20% | ~108 |
 | Quick Thinking | 0.20% | ~108 |
-| Witty Riposting | 0.20% | ~108 |
 | Waiting on Sunrise | 0.20% | ~108 |
 | Deekin's Mission | 0.20% | ~108 |
 | Frozen Vengeance | 0.20% | ~108 |
@@ -351,7 +352,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.10% | ~88 |
 | Acererak's Puzzle | 0.10% | ~54 |
 | Relentless Misfortune | 0.10% | ~88 |
-| Hold for the Red Wizards | 0.10% | ~88 |
 | Form Ranks | 0.10% | ~88 |
 | Drop of Time | 0.10% | ~54 |
 | They Who Smelt It | 0.10% | ~88 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,616 (Ranked 59)  
+Progressed: 87,617 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,616 | 1,843 |
+| 2023-05-16 | 87,617 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,893 (Ranked 37)  

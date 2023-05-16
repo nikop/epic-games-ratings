@@ -4,7 +4,7 @@
   "ProductSlug": "delysium-aaedb0",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.9310369+00:00",
-  "LastUpdate_Ratings": "2023-05-16T01:59:20.6407987+00:00",
-  "LastUpdate_Achievements": "2023-05-16T02:05:47.5949491+00:00"
+  "LastUpdate_Ratings": "2023-05-16T02:57:30.1583063+00:00",
+  "LastUpdate_Achievements": "2023-05-16T03:04:08.4200416+00:00"
 }

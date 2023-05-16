@@ -16,13 +16,13 @@
 | Back From The Dead | 4.00% | ~3 |
 | Easy Victory | 4.00% | ~3 |
 | Ball Protector | 3.00% | ~2 |
+| Legendary Destructor | 3.00% | ~2 |
 | Untouchable | 3.00% | ~2 |
 | Ball Collector | 1.00% | ~1 |
 | Bullet Hell | 1.00% | ~1 |
 | Collector | 1.00% | ~1 |
 | Detoxed | 1.00% | ~1 |
 | Ice Breaker | 1.00% | ~1 |
-| Legendary Destructor | 1.00% | ~1 |
 | Machine Man | 1.00% | ~1 |
 | Medium Rare | 1.00% | ~1 |
 | Monster of Fashion | 1.00% | ~1 |
