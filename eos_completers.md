@@ -32,8 +32,8 @@
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 31 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.55% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
-| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.18% |
-| 34 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
+| 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
+| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.94% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
@@ -53,8 +53,8 @@
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.70% |
-| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
+| 54 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
+| 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
