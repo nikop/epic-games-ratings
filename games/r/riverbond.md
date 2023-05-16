@@ -6,20 +6,20 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,614 |
-| Now You're Talking | 62.00% | ~320,286 |
-| Steel Yourself | 62.00% | ~320,286 |
+| First Step | 70.00% | ~361,615 |
+| Now You're Talking | 62.00% | ~320,288 |
+| Steel Yourself | 62.00% | ~320,288 |
 | Window Dressing | 50.00% | ~258,296 |
-| Trigger Happy | 46.00% | ~237,632 |
-| Riverborn | 45.00% | ~232,466 |
-| Starry Eyed | 34.00% | ~175,641 |
-| Poking Around | 34.00% | ~175,641 |
+| Trigger Happy | 46.00% | ~237,633 |
+| Riverborn | 45.00% | ~232,467 |
+| Starry Eyed | 34.00% | ~175,642 |
+| Poking Around | 34.00% | ~175,642 |
 | Talk of the Town | 24.00% | ~123,982 |
 | AAARR! | 23.00% | ~118,816 |
 | Hello Darkness | 23.00% | ~118,816 |
 | Wind At Our Backs | 22.00% | ~113,650 |
-| To the Beat | 20.00% | ~103,318 |
-| Sunny Shores | 17.00% | ~87,820 |
+| To the Beat | 20.00% | ~103,319 |
+| Sunny Shores | 17.00% | ~87,821 |
 | To Victory! | 15.00% | ~77,489 |
 | Sunday Best | 15.00% | ~77,489 |
 | Two of a Kind | 14.00% | ~72,323 |
@@ -30,14 +30,14 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~51,659 |
 | Road Less Travelled | 9.00% | ~46,493 |
 | Lost and Found | 9.00% | ~46,493 |
-| Partner in Crime | 7.00% | ~36,161 |
-| Hard to Hear | 7.00% | ~36,161 |
-| Under the Radar | 7.00% | ~36,161 |
-| Moving On Up | 6.00% | ~30,995 |
-| Owl Knows Best | 6.00% | ~30,995 |
-| Mind the Moose | 6.00% | ~30,995 |
-| Dressed to Kill | 6.00% | ~30,995 |
-| Beast Mode | 6.00% | ~30,995 |
+| Partner in Crime | 7.00% | ~36,162 |
+| Hard to Hear | 7.00% | ~36,162 |
+| Under the Radar | 7.00% | ~36,162 |
+| Moving On Up | 6.00% | ~30,996 |
+| Owl Knows Best | 6.00% | ~30,996 |
+| Mind the Moose | 6.00% | ~30,996 |
+| Dressed to Kill | 6.00% | ~30,996 |
+| Beast Mode | 6.00% | ~30,996 |
 | Oh, Romeo! | 5.00% | ~25,830 |
 | Noble Intentions | 5.00% | ~25,830 |
 | Rising Star | 5.00% | ~25,830 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,550 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,591 (Ranked 24)  
+Progressed: 516,593 (Ranked 24)  
 Completed: 405 (0.08%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 405 (0.08%) (Ranked 164)
 | 2023-05-13 | 516,361 | 405 |
 | 2023-05-14 | 516,471 | 405 |
 | 2023-05-15 | 516,543 | 405 |
-| 2023-05-16 | 516,591 | 405 |
+| 2023-05-16 | 516,593 | 405 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

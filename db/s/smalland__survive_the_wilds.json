@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -156,7 +156,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18625,
+  "EOS_Progressed": 18626,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
@@ -1981,6 +1981,11 @@
       "Time": "2023-05-16T17:05:04.7686055+00:00",
       "NumProgressed": 18625,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-16T18:04:59.3217647+00:00",
+      "NumProgressed": 18626,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -1992,7 +1997,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "FirstGlide",
@@ -2048,7 +2053,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "PickupChitin",
@@ -2095,7 +2100,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18625,
+      "Progressed": 18626,
       "Completed": 18
     }
   ],
@@ -2103,8 +2108,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-05-16T05:57:23.2429484+00:00",
-  "LastChanged_Achievements": "2023-05-16T17:05:04.768605+00:00",
+  "LastChanged_Achievements": "2023-05-16T18:04:59.3217644+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:23.6945162+00:00",
-  "LastUpdate_Ratings": "2023-05-16T16:57:22.3629834+00:00",
-  "LastUpdate_Achievements": "2023-05-16T17:05:04.7686265+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:57:14.1491409+00:00",
+  "LastUpdate_Achievements": "2023-05-16T18:04:59.3217838+00:00"
 }

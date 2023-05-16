@@ -131,9 +131,9 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_bunny50",
@@ -171,9 +171,9 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 86,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_level2",
@@ -187,9 +187,9 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 70,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_lose",
@@ -236,8 +236,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-16T17:05:13.4351595+00:00",
+  "LastChanged_Achievements": "2023-05-16T18:05:08.1625909+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:01.3068365+00:00",
-  "LastUpdate_Ratings": "2023-05-16T16:59:07.630634+00:00",
-  "LastUpdate_Achievements": "2023-05-16T17:05:13.4351793+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:59:02.8628322+00:00",
+  "LastUpdate_Achievements": "2023-05-16T18:05:08.1626014+00:00"
 }

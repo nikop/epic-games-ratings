@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Black Cat's Warning | 105.00% | ~91 |
+| Every little bit counts | 98.00% | ~85 |
 | Break no Sweat | 97.00% | ~84 |
-| Every little bit counts | 97.00% | ~84 |
 | Growth | 86.00% | ~75 |
-| Targeting the Enemy | 68.00% | ~59 |
+| Targeting the Enemy | 69.00% | ~60 |
 | Unavoidable | 63.00% | ~55 |
-| Revenge | 61.00% | ~53 |
-| Reunion | 41.00% | ~36 |
+| Revenge | 62.00% | ~54 |
+| Reunion | 43.00% | ~37 |
 | Fluke | 34.00% | ~30 |
 | Victor's Prejudice | 34.00% | ~30 |
-| Elimination | 32.00% | ~28 |
+| Elimination | 33.00% | ~29 |
 | Excellent Driving Skills | 30.00% | ~26 |
 | Memento | 30.00% | ~26 |
 | Once Bitten, Twice Shy | 29.00% | ~25 |

@@ -18,16 +18,16 @@
 | Protected | 30.00% | ~58 |
 | Pragmatic | 24.00% | ~46 |
 | Calory burner | 17.00% | ~33 |
-| Pacifist | 15.00% | ~29 |
+| Pacifist | 16.00% | ~31 |
 | Snow digger | 14.00% | ~27 |
-| Model | 13.00% | ~25 |
+| Model | 14.00% | ~27 |
 | Fire extinguisher | 11.00% | ~21 |
 | Hubworld fan | 11.00% | ~21 |
 | Occult cataloger | 8.00% | ~15 |
+| Photographer | 6.00% | ~12 |
 | Great rescuer | 5.00% | ~10 |
 | Absolute race champion | 5.00% | ~10 |
 | Doppelganger | 5.00% | ~10 |
-| Photographer | 5.00% | ~10 |
 | Tank | 4.00% | ~8 |
 | Biologist | 3.00% | ~6 |
 | Fashionista | 3.00% | ~6 |

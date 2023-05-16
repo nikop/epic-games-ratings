@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1040,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -1677,6 +1677,11 @@
       "Time": "2023-05-16T17:05:30.1139188+00:00",
       "NumProgressed": 1040,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T18:05:25.0043322+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1918,9 +1923,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 250
     },
     {
       "ID": "herewegoagain",
@@ -1942,9 +1947,9 @@
       "ID": "howdoyouturnthison",
       "SetID": "3nl4bcg",
       "Name": "How Do You Turn This On?",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 21
     },
     {
       "ID": "hunter",
@@ -2134,9 +2139,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 73
     },
     {
       "ID": "templeofeternals",
@@ -2144,7 +2149,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "thealchemist",
@@ -2248,7 +2253,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "warmachinesarmy",
@@ -2280,14 +2285,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1040,
+      "Progressed": 1041,
       "Completed": 1
     }
   ],
@@ -2295,8 +2300,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T17:05:30.1139182+00:00",
+  "LastChanged_Achievements": "2023-05-16T18:05:25.0043319+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T16:57:56.5759623+00:00",
-  "LastUpdate_Achievements": "2023-05-16T17:05:30.1140357+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:57:50.247756+00:00",
+  "LastUpdate_Achievements": "2023-05-16T18:05:25.0044172+00:00"
 }

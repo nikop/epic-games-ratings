@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 2.00% | ~1,753 |
+| A Brief Tour of the Realms | 2.00% | ~1,754 |
 | Checkmate | 2.00% | ~1,079 |
 | Vecna Out! | 2.00% | ~1,079 |
-| Pin and Skewer | 1.00% | ~539 |
+| Pin and Skewer | 1.00% | ~540 |
 | The Cursed Farmer | 1.00% | ~877 |
 | Beast Intentions | 0.90% | ~789 |
 | Bully for Vecna | 0.90% | ~486 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.30% | ~162 |
 | The Castle of a Thousand Vecnas | 0.30% | ~162 |
 | Homecoming | 0.30% | ~263 |
+| The Lost Heir of Omu | 0.30% | ~263 |
 | No One Can Hear You Scream | 0.30% | ~162 |
 | Low Initiative | 0.30% | ~263 |
 | Street War | 0.30% | ~263 |
@@ -145,7 +146,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Xanathaaaaaaar! | 0.20% | ~108 |
 | Anti-Dexterous Explorers | 0.20% | ~175 |
 | Struggling Toward Omu | 0.20% | ~175 |
-| The Lost Heir of Omu | 0.20% | ~175 |
 | Not Very Charming | 0.20% | ~175 |
 | Lobsterfolk Assault | 0.20% | ~175 |
 | The Minions of Endelyn Moongrave | 0.20% | ~108 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,674 (Ranked 59)  
+Progressed: 87,681 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,674 | 1,843 |
+| 2023-05-16 | 87,681 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,895 (Ranked 37)  

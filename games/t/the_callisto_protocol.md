@@ -8,6 +8,7 @@ Rating: 4.18 (Ranked 825)
 | Instigator | 0.20% | ~1 |
 | Big Game Hunter | 0.20% | ~1 |
 | Bear Trap | 0.20% | ~1 |
+| Big Spender | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~0 |
 | Giving Back | 0.10% | ~13 |
@@ -42,7 +43,6 @@ Rating: 4.18 (Ranked 825)
 | Full Circle | 0.10% | ~13 |
 | Power Up | 0.10% | ~13 |
 | Hoard Mode | 0.10% | ~0 |
-| Big Spender | 0.10% | ~0 |
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
@@ -74,13 +74,13 @@ Completed: 49 (0.39%) (Ranked 112)
 | 2023-05-16 | 12,565 | 49 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
-Sum: 245 (Ranked 342)  
+Sum: 246 (Ranked 342)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 46 |
 | This game has Amazing Storytelling | 46 |
-| This game has Amazing Characters | 42 |
+| This game has Amazing Characters | 43 |
 | This game is Extremely Fun | 41 |
 | This game has Quickly Understood Controls | 40 |
 | This game has Challenging Combat | 30 |
@@ -132,3 +132,4 @@ Diff (max vs sum): 56
 | 2023-04-28 | 4.18 | 46 | 243 |
 | 2023-04-30 | 4.18 | 46 | 244 |
 | 2023-05-05 | 4.18 | 46 | 245 |
+| 2023-05-16 | 4.18 | 46 | 246 |

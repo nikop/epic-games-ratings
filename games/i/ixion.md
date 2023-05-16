@@ -19,10 +19,10 @@ Rating: 4.55 (Ranked 465)
 | Hope Seeker | 1.00% | ~19 |
 | Fully Recycled | 0.90% | ~17 |
 | The Ship of Theseus | 0.90% | ~17 |
+| A Hunk of Junk | 0.70% | ~13 |
 | Exceeding Capacity | 0.70% | ~13 |
 | Power Outage | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
-| A Hunk of Junk | 0.60% | ~11 |
 | Access Granted | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~10 |
 | Necessary Enhancement | 0.50% | ~10 |

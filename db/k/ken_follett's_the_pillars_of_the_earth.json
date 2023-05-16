@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -465,7 +465,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12471,
+  "EOS_Progressed": 12472,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
@@ -1985,6 +1985,11 @@
       "Time": "2023-05-16T12:04:50.6920389+00:00",
       "NumProgressed": 12471,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-16T18:05:02.9348633+00:00",
+      "NumProgressed": 12472,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2076,7 +2081,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "tpote_achievement_2",
@@ -2148,7 +2153,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "tpote_achievement_28",
@@ -2172,7 +2177,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4115
+      "UsersEstimate": 4116
     },
     {
       "ID": "tpote_achievement_30",
@@ -2323,15 +2328,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12471,
+      "Progressed": 12472,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-16T17:05:08.3445834+00:00",
+  "LastChanged_Achievements": "2023-05-16T18:05:02.9348629+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:00:00.5672842+00:00",
-  "LastUpdate_Achievements": "2023-05-16T17:05:08.3446528+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:59:55.7859117+00:00",
+  "LastUpdate_Achievements": "2023-05-16T18:05:02.9349027+00:00"
 }

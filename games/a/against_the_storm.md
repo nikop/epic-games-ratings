@@ -23,6 +23,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 0.70% | ~104 |
 | Flooded Mines | 0.70% | ~104 |
 | Royal Outpost | 0.70% | ~104 |
+| Corrosive Torrent | 0.70% | ~104 |
 | Cursed Lands | 0.70% | ~104 |
 | A Real Challenge | 0.70% | ~104 |
 | Refinery | 0.60% | ~89 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 0.60% | ~89 |
 | Levitating Monument | 0.60% | ~89 |
 | Monastery of the Holy Flame | 0.60% | ~89 |
-| Corrosive Torrent | 0.60% | ~89 |
 | Serving Ale | 0.50% | ~74 |
 | Against All Odds | 0.50% | ~74 |
 | Statue of the Forefathers | 0.50% | ~74 |

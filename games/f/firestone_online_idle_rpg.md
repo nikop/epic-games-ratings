@@ -5,12 +5,12 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~978 |
-| World Map | 80.00% | ~832 |
-| Temple of Eternals | 56.00% | ~582 |
+| Victor | 94.00% | ~979 |
+| World Map | 80.00% | ~833 |
+| Temple of Eternals | 56.00% | ~583 |
 | Prestigious | 52.00% | ~541 |
 | Fellowship Power | 40.00% | ~416 |
-| Guild Power | 23.00% | ~239 |
+| Guild Power | 24.00% | ~250 |
 | Prestigious x10 | 20.00% | ~208 |
 | The game is on | 17.00% | ~177 |
 | Dragon Clicker | 15.00% | ~156 |
@@ -23,10 +23,10 @@ Rating: 3.64 (Ranked 917)
 | Enlightenment | 10.00% | ~104 |
 | Lieutenant | 10.00% | ~104 |
 | Natural Talent | 8.00% | ~83 |
-| Superior | 8.00% | ~83 |
 | The Unstoppable | 8.00% | ~83 |
 | Mysterious Rock | 7.00% | ~73 |
 | Scientist | 7.00% | ~73 |
+| Superior | 7.00% | ~73 |
 | Milestone collector | 6.00% | ~62 |
 | Challenger | 5.00% | ~52 |
 | Daily Quest Completionist | 5.00% | ~52 |
@@ -36,13 +36,13 @@ Rating: 3.64 (Ranked 917)
 | The power of Awakening | 4.00% | ~42 |
 | Background Story | 3.00% | ~31 |
 | Here We Go Again | 3.00% | ~31 |
-| How Do You Turn This On? | 3.00% | ~31 |
 | Mastery | 3.00% | ~31 |
 | Missions Dedication | 3.00% | ~31 |
 | Moving Up The Ladder | 3.00% | ~31 |
 | The Expeditioner | 3.00% | ~31 |
 | Ancient Knowledge | 2.00% | ~21 |
 | Doing My Part | 2.00% | ~21 |
+| How Do You Turn This On? | 2.00% | ~21 |
 | Master Enchanter | 2.00% | ~21 |
 | The father of Dragons | 2.00% | ~21 |
 | Trader | 2.00% | ~21 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,040 (Ranked 162)  
+Progressed: 1,041 (Ranked 162)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-13 | 1,001 | 1 |
 | 2023-05-14 | 1,017 | 1 |
 | 2023-05-15 | 1,032 | 1 |
-| 2023-05-16 | 1,040 | 1 |
+| 2023-05-16 | 1,041 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

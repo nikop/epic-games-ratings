@@ -3742,10 +3742,10 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87674,
+  "EOS_Progressed": 87681,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 703,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 702,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -6152,6 +6152,11 @@
       "Time": "2023-05-16T17:06:01.0752373+00:00",
       "NumProgressed": 87674,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T18:05:55.8344473+00:00",
+      "NumProgressed": 87681,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6163,7 +6168,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "objective_completed_10",
@@ -7043,7 +7048,7 @@
       "Name": "Pin and Skewer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "objective_completed_1208",
@@ -7129,9 +7134,9 @@
       "ID": "objective_completed_129",
       "SetID": "cc37lbc",
       "Name": "The Lost Heir of Omu",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 263
     },
     {
       "ID": "objective_completed_13",
@@ -10074,21 +10079,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53948,
+      "Progressed": 53955,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87674,
+      "Progressed": 87681,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T09:57:38.7579752+00:00",
-  "LastChanged_Achievements": "2023-05-16T17:06:01.0752368+00:00",
+  "LastChanged_Achievements": "2023-05-16T18:05:55.834447+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T16:57:59.7874136+00:00",
-  "LastUpdate_Achievements": "2023-05-16T17:06:01.0779388+00:00"
+  "LastUpdate_Ratings": "2023-05-16T17:57:54.580948+00:00",
+  "LastUpdate_Achievements": "2023-05-16T18:05:55.8367182+00:00"
 }

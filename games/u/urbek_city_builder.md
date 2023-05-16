@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 62.00% | ~92 |
-| I like parks | 48.00% | ~72 |
-| The spiritual world... | 28.00% | ~42 |
+| Small town | 61.00% | ~92 |
+| I like parks | 47.00% | ~70 |
+| The spiritual world... | 27.00% | ~40 |
 | Sport is good for you | 26.00% | ~39 |
-| The woodcutter | 25.00% | ~37 |
-| It is nice to share with friends in the city | 25.00% | ~37 |
+| The woodcutter | 25.00% | ~38 |
+| It is nice to share with friends in the city | 25.00% | ~38 |
 | I like books | 20.00% | ~30 |
 | I like my life | 19.00% | ~28 |
 | Clean energy | 19.00% | ~28 |
@@ -18,10 +18,10 @@
 | King of fish | 11.00% | ~16 |
 | I love books! | 10.00% | ~15 |
 | I love parks | 10.00% | ~15 |
-| What would we do if we can't go out with friends? | 9.00% | ~13 |
-| Food producer | 7.00% | ~10 |
-| Metropolurbek | 7.00% | ~10 |
-| I am very happy! | 5.00% | ~7 |
+| What would we do if we can't go out with friends? | 9.00% | ~14 |
+| Food producer | 7.00% | ~11 |
+| Metropolurbek | 7.00% | ~11 |
+| I am very happy! | 5.00% | ~8 |
 | Sport is the best thing | 4.00% | ~6 |
 | Banking city | 3.00% | ~4 |
 | Read! Everyone should read! | 3.00% | ~4 |
@@ -33,12 +33,12 @@
 | What is there after death? | 2.00% | ~3 |
 | Freedom to go to the mall! | 2.00% | ~3 |
 | Temperate urban planner | 2.00% | ~3 |
-| Anarchist Utopia | 1.00% | ~1 |
-| Archipelago urban planner | 1.00% | ~1 |
-| City crisis | 1.00% | ~1 |
-| Perfect city | 1.00% | ~1 |
-| Oh, I love parks, listening to birds! | 1.00% | ~1 |
-| Town planner | 1.00% | ~1 |
+| Anarchist Utopia | 1.00% | ~2 |
+| Archipelago urban planner | 1.00% | ~2 |
+| City crisis | 1.00% | ~2 |
+| Perfect city | 1.00% | ~2 |
+| Oh, I love parks, listening to birds! | 1.00% | ~2 |
+| Town planner | 1.00% | ~2 |
 | Anarchist paradise | 0.70% | ~1 |
 | I can't see the sky | 0.70% | ~1 |
 | I can't breathe | 0.70% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 241)  
+Progressed: 150 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 145 | 0 |
 | 2023-05-13 | 146 | 0 |
 | 2023-05-14 | 148 | 0 |
-| 2023-05-16 | 149 | 0 |
+| 2023-05-16 | 150 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
