@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3391,
+  "EOS_Progressed": 3392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -332,6 +332,11 @@
       "Time": "2023-05-13T23:06:07.3692331+00:00",
       "NumProgressed": 3391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T08:07:14.012881+00:00",
+      "NumProgressed": 3392,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -343,7 +348,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -375,7 +380,7 @@
       "Name": "Totally Intentional",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -391,7 +396,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -423,7 +428,7 @@
       "Name": "...To Heroes",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -439,7 +444,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -455,7 +460,7 @@
       "Name": "We\u0027re In",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -511,7 +516,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -543,14 +548,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3391,
+      "Progressed": 3392,
       "Completed": 0
     }
   ],
@@ -558,8 +563,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-16T07:05:33.8206082+00:00",
+  "LastChanged_Achievements": "2023-05-16T08:07:14.0128805+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:25.1754424+00:00",
-  "LastUpdate_Ratings": "2023-05-16T06:59:16.8247243+00:00",
-  "LastUpdate_Achievements": "2023-05-16T07:05:33.8206268+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:00:24.7866888+00:00",
+  "LastUpdate_Achievements": "2023-05-16T08:07:14.0129032+00:00"
 }

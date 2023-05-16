@@ -1306,9 +1306,9 @@
       "Count": 227
     }
   ],
-  "EOS_Progressed": 217000,
+  "EOS_Progressed": 217001,
   "EOS_Completed": 694,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3631,6 +3631,11 @@
       "Time": "2023-05-16T06:06:13.4999879+00:00",
       "NumProgressed": 217000,
       "NumCompleted": 694
+    },
+    {
+      "Time": "2023-05-16T08:07:30.6752962+00:00",
+      "NumProgressed": 217001,
+      "NumCompleted": 694
     }
   ],
   "TotalAchievements": 39,
@@ -3706,7 +3711,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 197470
+      "UsersEstimate": 197471
     },
     {
       "ID": "AchievementClownID",
@@ -3770,7 +3775,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 115010
+      "UsersEstimate": 115011
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -3810,7 +3815,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 123690
+      "UsersEstimate": 123691
     },
     {
       "ID": "AchievementLootBoxID",
@@ -3874,7 +3879,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 160580
+      "UsersEstimate": 160581
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -3914,7 +3919,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 119350
+      "UsersEstimate": 119351
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -3938,7 +3943,7 @@
       "Name": "Rogue Guild",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 143220
+      "UsersEstimate": 143221
     },
     {
       "ID": "AchievementWhaleID",
@@ -3953,7 +3958,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 217000,
+      "Progressed": 217001,
       "Completed": 694
     }
   ],
@@ -3961,8 +3966,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-05-15T23:59:36.0411744+00:00",
-  "LastChanged_Achievements": "2023-05-16T07:05:46.2430209+00:00",
+  "LastChanged_Achievements": "2023-05-16T08:07:30.6752957+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:16.5972575+00:00",
-  "LastUpdate_Ratings": "2023-05-16T07:00:00.6822725+00:00",
-  "LastUpdate_Achievements": "2023-05-16T07:05:46.243056+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:01:31.6454977+00:00",
+  "LastUpdate_Achievements": "2023-05-16T08:07:30.6753657+00:00"
 }

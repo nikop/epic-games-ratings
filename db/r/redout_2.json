@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 970,
+  "EOS_Progressed": 971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -163,6 +163,11 @@
       "Time": "2023-05-14T03:05:36.5666836+00:00",
       "NumProgressed": 970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T08:07:04.0556688+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -198,7 +203,7 @@
       "Name": "B-asic!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ALLMODULESS",
@@ -270,7 +275,7 @@
       "Name": "Martian explorer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -310,7 +315,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CAREERCLASSA",
@@ -324,9 +329,9 @@
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 223
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -468,9 +473,9 @@
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 223
     },
     {
       "ID": "ONELIVERY",
@@ -589,7 +594,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 970,
+      "Progressed": 971,
       "Completed": 0
     }
   ],
@@ -597,8 +602,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-16T07:05:26.3946241+00:00",
+  "LastChanged_Achievements": "2023-05-16T08:07:04.0556681+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:03.0964777+00:00",
-  "LastUpdate_Ratings": "2023-05-16T06:58:06.6466727+00:00",
-  "LastUpdate_Achievements": "2023-05-16T07:05:26.3946628+00:00"
+  "LastUpdate_Ratings": "2023-05-16T07:58:43.2293216+00:00",
+  "LastUpdate_Achievements": "2023-05-16T08:07:04.0557154+00:00"
 }

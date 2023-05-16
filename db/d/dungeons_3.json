@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2014,10 +2014,10 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 16223,
+  "EOS_Progressed": 16224,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 890,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 886,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
@@ -4364,6 +4364,11 @@
       "Time": "2023-05-16T07:00:20.3710523+00:00",
       "NumProgressed": 16223,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-05-16T08:02:00.8353407+00:00",
+      "NumProgressed": 16224,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 60,
@@ -4583,7 +4588,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 7300
+      "UsersEstimate": 7301
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -4655,7 +4660,7 @@
       "Name": "Destroy the thing",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4542
+      "UsersEstimate": 4543
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -4727,7 +4732,7 @@
       "Name": "The Force disturbed",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -4775,7 +4780,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 11356
+      "UsersEstimate": 11357
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -4823,7 +4828,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5191
+      "UsersEstimate": 5192
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -4831,7 +4836,7 @@
       "Name": "Lifeguard",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -4847,22 +4852,22 @@
       "Name": "Tide Master",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4542
+      "UsersEstimate": 4543
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 16223,
+      "Progressed": 16224,
       "Completed": 150
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-14T02:59:17.6989612+00:00",
-  "LastChanged_Achievements": "2023-05-16T07:00:20.3710513+00:00",
+  "LastChanged_Achievements": "2023-05-16T08:02:00.8353401+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:03.2080094+00:00",
-  "LastUpdate_Ratings": "2023-05-16T06:58:58.132824+00:00",
-  "LastUpdate_Achievements": "2023-05-16T07:00:20.3711141+00:00"
+  "LastUpdate_Ratings": "2023-05-16T07:59:57.1037925+00:00",
+  "LastUpdate_Achievements": "2023-05-16T08:02:00.8354231+00:00"
 }

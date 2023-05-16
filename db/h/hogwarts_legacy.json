@@ -2320,10 +2320,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 34481,
       "NumberOfAwardsMax": 18787
+    },
+    {
+      "Time": "2023-05-16T07:57:41.2263815+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34483,
+      "NumberOfAwardsMax": 18787
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34481,
+  "NumberOfAwards": 34483,
   "NumberOfAwardsMax": 18787,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2379,7 +2385,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 699
+      "Count": 701
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2400,9 +2406,9 @@
       "Count": 472
     }
   ],
-  "EOS_Progressed": 267300,
+  "EOS_Progressed": 267305,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 989,
+  "EOS_NewPlayers": 994,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4755,6 +4761,11 @@
       "Time": "2023-05-16T07:03:23.4530222+00:00",
       "NumProgressed": 267300,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-05-16T08:03:44.7250808+00:00",
+      "NumProgressed": 267305,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 45,
@@ -4796,9 +4807,9 @@
       "ID": "PFA_13",
       "SetID": "1hf4dep",
       "Name": "The Hero of Hogwarts",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13365
+      "UsersEstimate": 16038
     },
     {
       "ID": "PFA_14",
@@ -4974,7 +4985,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "PFA_34",
@@ -5125,16 +5136,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267300,
+      "Progressed": 267305,
       "Completed": 362
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-16T06:57:24.9068857+00:00",
-  "LastChanged_Achievements": "2023-05-16T07:03:23.4530217+00:00",
+  "LastChanged": "2023-05-16T07:57:41.2263814+00:00",
+  "LastChanged_Achievements": "2023-05-16T08:03:44.7250797+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-16T06:57:24.9068862+00:00",
-  "LastUpdate_Achievements": "2023-05-16T07:03:23.4530652+00:00"
+  "LastUpdate_Ratings": "2023-05-16T07:57:41.226382+00:00",
+  "LastUpdate_Achievements": "2023-05-16T08:03:44.7251439+00:00"
 }

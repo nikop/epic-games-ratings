@@ -16,9 +16,9 @@
 | Go Home! | 74.00% | ~112 |
 | Brilliant: Meadowshire | 72.00% | ~109 |
 | Look After the Pence... | 72.00% | ~109 |
+| Drunken Master | 72.00% | ~109 |
 | Sergeant of the Evil | 72.00% | ~109 |
-| Drunken Master | 71.00% | ~107 |
-| V.I.P. Cemetery | 69.00% | ~104 |
+| V.I.P. Cemetery | 70.00% | ~106 |
 | Woodcutter | 68.00% | ~103 |
 | Takeover | 67.00% | ~101 |
 | Architect of Darkness | 67.00% | ~101 |
@@ -39,7 +39,7 @@
 | It's a Trap | 50.00% | ~76 |
 | Deposition | 46.00% | ~69 |
 | Brilliant: Arcania | 46.00% | ~69 |
-| Starry: Tanglewood | 44.00% | ~66 |
+| Starry: Tanglewood | 45.00% | ~68 |
 | Starry: Arcania | 42.00% | ~63 |
 | Sing, My Angel | 40.00% | ~60 |
 | The Coreland | 37.00% | ~56 |

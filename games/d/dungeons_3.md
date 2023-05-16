@@ -6,13 +6,13 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~11,356 |
+| The Shadow strikes | 70.00% | ~11,357 |
 | The Evilest Evil | 60.00% | ~9,734 |
 | Twistram is devastated | 59.00% | ~9,572 |
 | The Gehenna Stones | 51.00% | ~8,274 |
 | No one has to die today! | 47.00% | ~7,625 |
 | Death and destruction! | 46.00% | ~7,463 |
-| The Swamplanders from the swamplands | 45.00% | ~7,300 |
+| The Swamplanders from the swamplands | 45.00% | ~7,301 |
 | Rusty Steel | 43.00% | ~6,976 |
 | The One-Huge-Army-Building Evil | 42.00% | ~6,814 |
 | The last burger | 39.00% | ~6,327 |
@@ -22,24 +22,24 @@ Number of Ratings: 1,635  (23.09.2022)
 | Damned good | 35.00% | ~5,678 |
 | Stock Market Crash | 33.00% | ~5,354 |
 | Factory farming | 33.00% | ~5,354 |
-| Not-So-Overproud | 32.00% | ~5,191 |
+| Not-So-Overproud | 32.00% | ~5,192 |
 | For a handfull of Catapults | 31.00% | ~5,029 |
 | Thirst quencher | 29.00% | ~4,705 |
 | Ogre Solo! | 29.00% | ~4,705 |
 | Shadow hunter | 29.00% | ~4,705 |
-| Destroy the thing | 28.00% | ~4,542 |
-| Tide Master | 28.00% | ~4,542 |
+| Destroy the thing | 28.00% | ~4,543 |
+| Tide Master | 28.00% | ~4,543 |
 | Difficult family relationships | 27.00% | ~4,380 |
 | Prepare the grave | 26.00% | ~4,218 |
 | Angel of Fire | 26.00% | ~4,218 |
 | MASS-O-BOT | 25.00% | ~4,056 |
 | Where there is Light, there is Shadow | 25.00% | ~4,056 |
 | At the foot of Mount Destiny | 24.00% | ~3,894 |
-| The Force disturbed | 23.00% | ~3,731 |
+| The Force disturbed | 23.00% | ~3,732 |
 | The Victorious Evil | 21.00% | ~3,407 |
 | We don’t have time! | 21.00% | ~3,407 |
 | Chorus of damnation | 20.00% | ~3,245 |
-| Lifeguard | 19.00% | ~3,082 |
+| Lifeguard | 19.00% | ~3,083 |
 | The Stones’ Power | 18.00% | ~2,920 |
 | Flat as a pancake | 18.00% | ~2,920 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~2,596 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~324 |
 | Sacrifices! | 2.00% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,223 (Ranked 96)  
+Progressed: 16,224 (Ranked 96)  
 Completed: 150 (0.92%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 150 (0.92%) (Ranked 86)
 | 2023-05-13 | 15,942 | 150 |
 | 2023-05-14 | 16,102 | 150 |
 | 2023-05-15 | 16,200 | 150 |
-| 2023-05-16 | 16,223 | 150 |
+| 2023-05-16 | 16,224 | 150 |
 ## Awards
 Max (Great for Beginners): 321  (Ranked 218)  
 Sum: 2,526 (Ranked 165)  

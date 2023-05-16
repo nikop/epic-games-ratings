@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.30% | ~162 |
 | Close Escort | 0.30% | ~263 |
 | Constant Banditry | 0.30% | ~263 |
+| Lost in the Deep | 0.30% | ~263 |
 | Overdue Rendezvous | 0.30% | ~263 |
 | Witty Riposting | 0.30% | ~162 |
 | How Far Away is Thay | 0.30% | ~162 |
@@ -223,6 +224,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.20% | ~175 |
 | Champions of Waterdeep | 0.20% | ~175 |
 | Lost in the Goblin Halls | 0.20% | ~175 |
+| The Twilight Grove | 0.20% | ~175 |
 | Dinosaur Racing | 0.20% | ~175 |
 | Elturel Has Fallen | 0.20% | ~175 |
 | Everything is Awful | 0.20% | ~175 |
@@ -258,7 +260,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.20% | ~108 |
 | Mirage Arcane | 0.20% | ~108 |
 | The Long Haul | 0.20% | ~175 |
-| Lost in the Deep | 0.20% | ~175 |
 | Easily Distracted | 0.20% | ~175 |
 | Rude Welcome | 0.20% | ~175 |
 | Moose Tracks | 0.20% | ~108 |
@@ -414,7 +415,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Take Five | 0.10% | ~54 |
 | Batiri in the Goblin Halls | 0.10% | ~88 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~54 |
-| The Twilight Grove | 0.10% | ~88 |
 | The Nimble Grove | 0.10% | ~88 |
 | The Misty Grove | 0.10% | ~54 |
 | Earthquake! | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,631 (Ranked 59)  
+Progressed: 87,633 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,631 | 1,843 |
+| 2023-05-16 | 87,633 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,893 (Ranked 37)  

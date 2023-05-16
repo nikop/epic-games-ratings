@@ -7,16 +7,16 @@ Rating: 4.45 (Ranked 603)
 | ---- | ---------- | ----- |
 | Rookie No More | 26.00% | ~252 |
 | Increasing your Power Level | 26.00% | ~252 |
-| Enter the Speed Gauntlet | 24.00% | ~233 |
-| I just can't choose | 24.00% | ~233 |
+| Enter the Speed Gauntlet | 23.00% | ~223 |
+| I just can't choose | 23.00% | ~223 |
 | A Cheese Grater to the Face | 19.00% | ~184 |
 | Put it on a shelf | 18.00% | ~175 |
 | It's like an haircut | 17.00% | ~165 |
 | Suit up | 16.00% | ~155 |
 | Walked like an Egyptian | 15.00% | ~146 |
 | Ride in the rising sun | 15.00% | ~146 |
-| Martian explorer | 12.00% | ~116 |
-| Rookie No-No More | 12.00% | ~116 |
+| Martian explorer | 12.00% | ~117 |
+| Rookie No-No More | 12.00% | ~117 |
 | Running at the speed of sound | 11.00% | ~107 |
 | To the core | 9.00% | ~87 |
 | Blurred photofinish | 9.00% | ~87 |
@@ -26,7 +26,7 @@ Rating: 4.45 (Ranked 603)
 | Under the sea, under the sea | 6.00% | ~58 |
 | Even Faster! | 6.00% | ~58 |
 | Longshot | 6.00% | ~58 |
-| B-asic! | 5.00% | ~48 |
+| B-asic! | 5.00% | ~49 |
 | Under the neon lights | 4.00% | ~39 |
 | All Power to Engines! | 4.00% | ~39 |
 | Had to sweat a bit | 4.00% | ~39 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 603)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970 (Ranked 165)  
+Progressed: 971 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-11 | 966 | 0 |
 | 2023-05-12 | 969 | 0 |
 | 2023-05-14 | 970 | 0 |
+| 2023-05-16 | 971 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

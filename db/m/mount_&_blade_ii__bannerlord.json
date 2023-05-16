@@ -3967,10 +3967,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13034,
       "NumberOfAwardsMax": 6537
+    },
+    {
+      "Time": "2023-05-16T08:00:41.246692+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13036,
+      "NumberOfAwardsMax": 6537
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13034,
+  "NumberOfAwards": 13036,
   "NumberOfAwardsMax": 6537,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3990,7 +3996,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 734
+      "Count": 735
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4020,7 +4026,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 720
+      "Count": 721
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4047,9 +4053,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 49971,
+  "EOS_Progressed": 49974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6352,6 +6358,11 @@
       "Time": "2023-05-16T07:05:43.3565355+00:00",
       "NumProgressed": 49971,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T08:07:26.6744873+00:00",
+      "NumProgressed": 49974,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6363,7 +6374,7 @@
       "Name": "Against all odds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4498
     },
     {
       "ID": "Apple of my eye",
@@ -6371,7 +6382,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "Bannerlord",
@@ -6379,7 +6390,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 9994
+      "UsersEstimate": 9995
     },
     {
       "ID": "Best served cold",
@@ -6523,7 +6534,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 9994
+      "UsersEstimate": 9995
     },
     {
       "ID": "I can do it",
@@ -6595,7 +6606,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17490
+      "UsersEstimate": 17491
     },
     {
       "ID": "Lawmaker",
@@ -6603,7 +6614,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10494
+      "UsersEstimate": 10495
     },
     {
       "ID": "Long live the Empire",
@@ -6707,7 +6718,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4498
     },
     {
       "ID": "The king is pleased",
@@ -6715,7 +6726,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 7995
+      "UsersEstimate": 7996
     },
     {
       "ID": "This Is Our Land",
@@ -6739,7 +6750,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9994
+      "UsersEstimate": 9995
     },
     {
       "ID": "Undercover",
@@ -6770,15 +6781,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 49971,
+      "Progressed": 49974,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-16T05:59:59.0591982+00:00",
-  "LastChanged_Achievements": "2023-05-16T07:05:43.3565351+00:00",
+  "LastChanged": "2023-05-16T08:00:41.2466919+00:00",
+  "LastChanged_Achievements": "2023-05-16T08:07:26.6744867+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-16T06:59:27.1783508+00:00",
-  "LastUpdate_Achievements": "2023-05-16T07:05:43.3565793+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:00:41.2466925+00:00",
+  "LastUpdate_Achievements": "2023-05-16T08:07:26.674553+00:00"
 }

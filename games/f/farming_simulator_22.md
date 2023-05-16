@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~32,228 |
-| I read Shakespeare and stuff | 64.00% | ~27,139 |
-| Just a sprinkle | 63.00% | ~26,715 |
-| I'm stumped | 61.00% | ~25,867 |
-| Plant get enough | 61.00% | ~25,867 |
-| It's just the beginning | 59.00% | ~25,019 |
+| Own use | 76.00% | ~32,229 |
+| I read Shakespeare and stuff | 64.00% | ~27,140 |
+| Just a sprinkle | 63.00% | ~26,716 |
+| I'm stumped | 61.00% | ~25,868 |
+| Plant get enough | 61.00% | ~25,868 |
+| It's just the beginning | 59.00% | ~25,020 |
 | This is just my weekend vehicle | 58.00% | ~24,595 |
 | Hard work pays off | 53.00% | ~22,475 |
-| It's never too late to farm | 46.00% | ~19,506 |
-| All out of Land | 44.00% | ~18,658 |
-| Field Trip | 43.00% | ~18,234 |
+| It's never too late to farm | 46.00% | ~19,507 |
+| All out of Land | 44.00% | ~18,659 |
+| Field Trip | 43.00% | ~18,235 |
 | I like to switch it up | 40.00% | ~16,962 |
 | Help me to help you | 38.00% | ~16,114 |
-| Ultimutt Pawesomeness | 28.00% | ~11,873 |
-| Van Gogh | 26.00% | ~11,025 |
+| Ultimutt Pawesomeness | 28.00% | ~11,874 |
+| Van Gogh | 26.00% | ~11,026 |
 | You wood not believe it | 21.00% | ~8,905 |
 | Vehicle fleet | 21.00% | ~8,905 |
 | The plot thickens | 16.00% | ~6,785 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Rock on | 12.00% | ~5,089 |
 | Highly cultivated | 11.00% | ~4,665 |
 | It's sow easy | 11.00% | ~4,665 |
-| Giddy-up! | 10.00% | ~4,240 |
+| Giddy-up! | 10.00% | ~4,241 |
 | Cowherd | 7.00% | ~2,968 |
 | Fluffyness | 6.00% | ~2,544 |
 | Helper A does not stop … ever | 6.00% | ~2,544 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~170 |
 | Raisin the stakes | 0.30% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,405 (Ranked 78)  
+Progressed: 42,406 (Ranked 78)  
 Completed: 5 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 5 (0.01%) (Ranked 191)
 | 2023-05-13 | 42,293 | 5 |
 | 2023-05-14 | 42,364 | 5 |
 | 2023-05-15 | 42,401 | 5 |
-| 2023-05-16 | 42,405 | 5 |
+| 2023-05-16 | 42,406 | 5 |
 ## Awards
 Max (Great for Beginners): 4,205  (Ranked 70)  
 Sum: 36,390 (Ranked 31)  

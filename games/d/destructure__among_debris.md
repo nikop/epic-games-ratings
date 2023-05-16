@@ -17,6 +17,8 @@
 | Easy Victory | 4.00% | ~3 |
 | Ball Protector | 3.00% | ~2 |
 | Legendary Destructor | 3.00% | ~2 |
+| Monster of Fashion | 3.00% | ~2 |
+| Single Person On Earth | 3.00% | ~2 |
 | Untouchable | 3.00% | ~2 |
 | Ball Collector | 1.00% | ~1 |
 | Bullet Hell | 1.00% | ~1 |
@@ -25,11 +27,9 @@
 | Ice Breaker | 1.00% | ~1 |
 | Machine Man | 1.00% | ~1 |
 | Medium Rare | 1.00% | ~1 |
-| Monster of Fashion | 1.00% | ~1 |
 | Mushroom Man | 1.00% | ~1 |
 | Nomad | 1.00% | ~1 |
 | Scrap Collector | 1.00% | ~1 |
-| Single Person On Earth | 1.00% | ~1 |
 | Ticking Clock | 1.00% | ~1 |
 | Total Walrus | 1.00% | ~1 |
 | True Victory | 1.00% | ~1 |

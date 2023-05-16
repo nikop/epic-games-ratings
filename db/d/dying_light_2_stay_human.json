@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
     "PcReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -4499,10 +4499,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 16390,
       "NumberOfAwardsMax": 7062
+    },
+    {
+      "Time": "2023-05-16T08:00:55.2796653+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 16394,
+      "NumberOfAwardsMax": 7062
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16390,
+  "NumberOfAwards": 16394,
   "NumberOfAwardsMax": 7062,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4558,7 +4564,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 558
+      "Count": 562
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4579,9 +4585,9 @@
       "Count": 451
     }
   ],
-  "EOS_Progressed": 547797,
+  "EOS_Progressed": 547808,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 4071,
+  "EOS_NewPlayers": 4059,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7019,6 +7025,11 @@
       "Time": "2023-05-16T07:05:47.7948069+00:00",
       "NumProgressed": 547797,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-16T08:07:32.6119179+00:00",
+      "NumProgressed": 547808,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 65,
@@ -7030,7 +7041,7 @@
       "Name": "Into the Unknown",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43824
+      "UsersEstimate": 43825
     },
     {
       "ID": "achievement_02",
@@ -7038,7 +7049,7 @@
       "Name": "First Shot",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43824
+      "UsersEstimate": 43825
     },
     {
       "ID": "achievement_03",
@@ -7046,7 +7057,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 38346
+      "UsersEstimate": 38347
     },
     {
       "ID": "achievement_04",
@@ -7166,7 +7177,7 @@
       "Name": "Sancho Panza",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38346
+      "UsersEstimate": 38347
     },
     {
       "ID": "achievement_19",
@@ -7238,7 +7249,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 49302
+      "UsersEstimate": 49303
     },
     {
       "ID": "achievement_28",
@@ -7318,7 +7329,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38346
+      "UsersEstimate": 38347
     },
     {
       "ID": "achievement_38",
@@ -7486,7 +7497,7 @@
       "Name": "Nemesis",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "achievement_59",
@@ -7510,7 +7521,7 @@
       "Name": "My Friend, Ciro",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "achievement_62",
@@ -7518,7 +7529,7 @@
       "Name": "Skullcrusher",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "achievement_63",
@@ -7549,21 +7560,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 547797,
+      "Progressed": 547808,
       "Completed": 47
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 193241,
+      "Progressed": 193252,
       "Completed": 1414
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-05-15T22:00:44.3978075+00:00",
-  "LastChanged_Achievements": "2023-05-16T07:05:47.7948064+00:00",
+  "LastChanged": "2023-05-16T08:00:55.2796651+00:00",
+  "LastChanged_Achievements": "2023-05-16T08:07:32.6119174+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.2442045+00:00",
-  "LastUpdate_Ratings": "2023-05-16T06:59:36.6647647+00:00",
-  "LastUpdate_Achievements": "2023-05-16T07:05:47.7948688+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:00:55.2796661+00:00",
+  "LastUpdate_Achievements": "2023-05-16T08:07:32.6120052+00:00"
 }

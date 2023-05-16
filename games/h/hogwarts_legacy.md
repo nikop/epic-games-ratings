@@ -8,8 +8,8 @@ Rating: 4.77 (Ranked 104)
 | Grappling with a Graphorn | 6.00% | ~16,038 |
 | The One Who Mastered Memories | 6.00% | ~16,038 |
 | The Hallowed Hero | 6.00% | ~16,038 |
+| The Hero of Hogwarts | 6.00% | ~16,038 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,365 |
-| The Hero of Hogwarts | 5.00% | ~13,365 |
 | The Defender of Dragons | 5.00% | ~13,365 |
 | Challenge Accepted | 5.00% | ~13,365 |
 | Loom for Improvement | 5.00% | ~13,365 |
@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 104)
 | A Forte for Achievement | 0.80% | ~2,138 |
 | Savvy Spender | 0.70% | ~1,871 |
 | Merlin's Beard! | 0.60% | ~1,604 |
-| Spilled Milk | 0.50% | ~1,336 |
+| Spilled Milk | 0.50% | ~1,337 |
 | The Nature of the Beast | 0.40% | ~1,069 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,300 (Ranked 38)  
+Progressed: 267,305 (Ranked 38)  
 Completed: 362 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 362 (0.14%) (Ranked 149)
 | 2023-05-13 | 266,911 | 361 |
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
-| 2023-05-16 | 267,300 | 362 |
+| 2023-05-16 | 267,305 | 362 |
 ## Awards
 Max (Character Customization): 18,787  (Ranked 18)  
-Sum: 34,481 (Ranked 33)  
+Sum: 34,483 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +92,7 @@ Diff (max vs sum): -15
 | This game has Diverse Characters | 731 |
 | This game has Amazing Storytelling | 729 |
 | This game has Amazing Characters | 724 |
-| This game is Highly Recommended | 699 |
+| This game is Highly Recommended | 701 |
 | This game has Quickly Understood Controls | 638 |
 | This game has Beautiful Visuals | 618 |
 | This game has a Creative Community | 472 |
@@ -152,4 +152,4 @@ Diff (max vs sum): -15
 | 2023-05-13 | 4.77 | 18,717 | 34,293 |
 | 2023-05-14 | 4.77 | 18,751 | 34,388 |
 | 2023-05-15 | 4.77 | 18,787 | 34,478 |
-| 2023-05-16 | 4.77 | 18,787 | 34,481 |
+| 2023-05-16 | 4.77 | 18,787 | 34,483 |

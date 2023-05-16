@@ -6,12 +6,12 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,302 |
-| Into the Unknown | 8.00% | ~43,824 |
-| First Shot | 8.00% | ~43,824 |
-| Herzlich Wilkommen! | 7.00% | ~38,346 |
-| Sancho Panza | 7.00% | ~38,346 |
-| Good Night & Good Luck | 7.00% | ~38,346 |
+| You Never Forget Your First... | 9.00% | ~49,303 |
+| Into the Unknown | 8.00% | ~43,825 |
+| First Shot | 8.00% | ~43,825 |
+| Herzlich Wilkommen! | 7.00% | ~38,347 |
+| Sancho Panza | 7.00% | ~38,347 |
+| Good Night & Good Luck | 7.00% | ~38,347 |
 | Under Pressure | 6.00% | ~32,868 |
 | Flag Burning | 6.00% | ~32,868 |
 | Oh, So This Is How It Works! | 6.00% | ~32,868 |
@@ -45,7 +45,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,478 |
 | Modder | 1.00% | ~5,478 |
 | Ironheart | 1.00% | ~5,478 |
-| Nemesis | 1.00% | ~1,932 |
+| Nemesis | 1.00% | ~1,933 |
 | Enter the Hall | 0.90% | ~1,739 |
 | That's Teamwork! | 0.80% | ~4,382 |
 | Fit as a Fiddle | 0.80% | ~4,382 |
@@ -53,8 +53,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Find Anything Interesting? | 0.70% | ~3,835 |
 | Boot Licker | 0.70% | ~3,835 |
 | Get the Point? | 0.60% | ~3,287 |
-| My Friend, Ciro | 0.60% | ~1,159 |
-| Skullcrusher | 0.60% | ~1,159 |
+| My Friend, Ciro | 0.60% | ~1,160 |
+| Skullcrusher | 0.60% | ~1,160 |
 | Revenants | 0.50% | ~2,739 |
 | Who Wants To Be a... | 0.50% | ~2,739 |
 | Tanning Salon | 0.50% | ~2,739 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,797 (Ranked 22)  
+Progressed: 547,808 (Ranked 22)  
 Completed: 47 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,10 +98,10 @@ Completed: 47 (0.01%) (Ranked 191)
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
 | 2023-05-15 | 547,713 | 47 |
-| 2023-05-16 | 547,797 | 47 |
+| 2023-05-16 | 547,808 | 47 |
 ## Awards
 Max (Character Customization): 7,062  (Ranked 44)  
-Sum: 16,390 (Ranked 58)  
+Sum: 16,394 (Ranked 58)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -113,8 +113,8 @@ Diff (max vs sum): -14
 | This game is Extremely Fun | 601 |
 | This game has Diverse Characters | 589 |
 | This game has Quickly Understood Controls | 583 |
+| This game has Amazing Storytelling | 562 |
 | This game is Relaxing | 559 |
-| This game has Amazing Storytelling | 558 |
 | This game has a Creative Community | 451 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
@@ -244,3 +244,4 @@ Diff (max vs sum): -14
 | 2023-05-13 | 4.57 | - | 7,029 | 16,305 |
 | 2023-05-14 | 4.57 | - | 7,052 | 16,354 |
 | 2023-05-15 | 4.58 | - | 7,062 | 16,390 |
+| 2023-05-16 | 4.57 | - | 7,062 | 16,394 |

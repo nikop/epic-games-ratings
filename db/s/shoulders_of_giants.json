@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1970,
+  "EOS_Progressed": 1971,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -475,6 +475,11 @@
       "Time": "2023-05-16T05:07:04.4415372+00:00",
       "NumProgressed": 1970,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-16T08:07:23.8944061+00:00",
+      "NumProgressed": 1971,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -534,7 +539,7 @@
       "Name": "Ouch",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "defeat_enemies",
@@ -550,7 +555,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "fail_planet",
@@ -558,7 +563,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "piercing_beam",
@@ -588,9 +593,9 @@
       "ID": "save_planet",
       "SetID": "236b9eg",
       "Name": "Frogbot",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1439
     },
     {
       "ID": "save_planet_bestfriend",
@@ -606,7 +611,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "stick_decoy",
@@ -622,7 +627,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "trash_truck",
@@ -637,7 +642,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 1970,
+      "Progressed": 1971,
       "Completed": 8
     }
   ],
@@ -645,8 +650,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-15T22:59:29.8330198+00:00",
-  "LastChanged_Achievements": "2023-05-16T07:05:41.1992935+00:00",
+  "LastChanged_Achievements": "2023-05-16T08:07:23.8944054+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:12.4998547+00:00",
-  "LastUpdate_Ratings": "2023-05-16T06:59:56.6712077+00:00",
-  "LastUpdate_Achievements": "2023-05-16T07:05:41.1993062+00:00"
+  "LastUpdate_Ratings": "2023-05-16T08:01:25.7944232+00:00",
+  "LastUpdate_Achievements": "2023-05-16T08:07:23.8944242+00:00"
 }
