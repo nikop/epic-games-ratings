@@ -22,7 +22,7 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
 | 22 | [Scorn](games/s/scorn.md) | 7.05% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.83% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -49,8 +49,8 @@
 | 47 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 47 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 50 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.83% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.87% |
+| 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.70% |

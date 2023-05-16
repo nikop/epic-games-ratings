@@ -64,7 +64,7 @@
 | 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 492 |
 | 59 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 492 |
 | 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 492 |
-| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 496 | 185 |
+| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 498 | 185 |
 | 59 | [Sifu](games/s/sifu.md) | 4.82 | 6,068 | 53 |
 | 59 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 389 | 203 |
 | 59 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 35 | 427 |
@@ -893,10 +893,10 @@
 | 891 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 492 |
 | 892 | [Chimeraland](games/c/chimeraland.md) | 3.96 | 20 | 485 |
 | 893 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 401 |
-| 894 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 266 | 234 |
 | 894 | [Patron](games/p/patron.md) | 3.94 | 0 | 492 |
-| 896 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 449 |
-| 896 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 492 |
+| 895 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 449 |
+| 895 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 266 | 234 |
+| 895 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 492 |
 | 898 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 492 |
 | 898 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 0 | 492 |
 | 900 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 320 |
@@ -909,7 +909,7 @@
 | 907 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 492 |
 | 908 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 492 |
 | 908 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 369 |
-| 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,027 | 133 |
+| 910 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,028 | 133 |
 | 911 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 492 |
 | 912 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 492 |
 | 912 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 492 |
