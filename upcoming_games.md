@@ -51,6 +51,7 @@
 | [Search](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | 2022-08-29 |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | 2023-02-07 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
+| [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 2017-07-14 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 2023-06-30 |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 2023-06-16 |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | 2023-06-20 |
@@ -83,7 +84,6 @@
 | [Yomi 2](games/y/yomi_2.md) | 2023-06-30 | 2023-06-30 |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 2023-04-03 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | 2023-07-20 |
-| [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-07-31 | 2017-07-14 |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2023-08-16 | 2023-08-16 |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 2023-08-24 |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | 2023-08-31 |

@@ -21,7 +21,7 @@
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
-| 22 | [Scorn](games/s/scorn.md) | 7.05% |
+| 22 | [Scorn](games/s/scorn.md) | 7.04% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -30,8 +30,8 @@
 | 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
 | 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 31 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.55% |
-| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
+| 31 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
+| 32 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.35% |
 | 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
 | 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.94% |
@@ -73,7 +73,7 @@
 | 71 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.49% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
-| 74 | [Them and Us](games/t/them_and_us.md) | 1.39% |
+| 74 | [Them and Us](games/t/them_and_us.md) | 1.37% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -115,11 +115,11 @@
 | 113 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 113 | [Tchia](games/t/tchia.md) | 0.37% |
-| 116 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
-| 117 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
-| 117 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
-| 117 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
-| 117 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
+| 116 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.36% |
+| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
+| 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
+| 118 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
+| 118 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
 | 121 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 121 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 123 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
@@ -399,5 +399,6 @@
 | 199 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 199 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
+| 199 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,619 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,620 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
