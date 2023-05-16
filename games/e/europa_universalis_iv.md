@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,385 |
-| That's a Grand Army | 8.00% | ~3,009 |
-| That is mine! | 8.00% | ~3,009 |
-| Victorious! | 8.00% | ~3,009 |
-| Brothers in Arms | 6.00% | ~2,257 |
-| That's a Grand Navy | 6.00% | ~2,257 |
-| Seriously?! | 6.00% | ~2,257 |
-| For the Glory | 5.00% | ~1,881 |
+| Until death do us apart | 9.00% | ~3,387 |
+| That's a Grand Army | 8.00% | ~3,010 |
+| That is mine! | 8.00% | ~3,010 |
+| Victorious! | 8.00% | ~3,010 |
+| Brothers in Arms | 6.00% | ~2,258 |
+| That's a Grand Navy | 6.00% | ~2,258 |
+| Seriously?! | 6.00% | ~2,258 |
+| For the Glory | 5.00% | ~1,882 |
 | Cold War | 4.00% | ~1,505 |
 | True Catholic | 4.00% | ~1,505 |
-| Defender of the Faith | 3.00% | ~1,128 |
-| It's all about the money | 3.00% | ~1,128 |
-| Respected | 3.00% | ~1,128 |
-| Truly Divine Ruler | 3.00% | ~1,128 |
-| Blockader | 2.00% | ~752 |
-| Combined Arms | 2.00% | ~752 |
-| Double the Love | 2.00% | ~752 |
-| Gentle Persuasion | 2.00% | ~752 |
-| It's all about luck | 2.00% | ~752 |
-| Queen of Conquest | 2.00% | ~752 |
-| Royal Authority | 2.00% | ~752 |
-| The Princess is in this Castle | 2.00% | ~752 |
-| Total Control | 2.00% | ~752 |
+| Defender of the Faith | 3.00% | ~1,129 |
+| It's all about the money | 3.00% | ~1,129 |
+| Respected | 3.00% | ~1,129 |
+| Truly Divine Ruler | 3.00% | ~1,129 |
+| Blockader | 2.00% | ~753 |
+| Combined Arms | 2.00% | ~753 |
+| Double the Love | 2.00% | ~753 |
+| Gentle Persuasion | 2.00% | ~753 |
+| It's all about luck | 2.00% | ~753 |
+| Queen of Conquest | 2.00% | ~753 |
+| Royal Authority | 2.00% | ~753 |
+| The Princess is in this Castle | 2.00% | ~753 |
+| Total Control | 2.00% | ~753 |
 | Agressive Expander | 1.00% | ~376 |
 | All That's Thine Shall Be Mine | 1.00% | ~376 |
 | Azur semé de lis or | 1.00% | ~376 |
@@ -49,16 +49,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.50% | ~188 |
 | Electable! | 0.50% | ~188 |
 | Time Bandit | 0.50% | ~188 |
-| Absolutely | 0.40% | ~150 |
-| Live Long and Prosper | 0.40% | ~150 |
-| One Family to Rule them All | 0.40% | ~150 |
-| Populists in Government | 0.40% | ~150 |
-| Ruina Imperii | 0.40% | ~150 |
-| The Continuation of Diplomacy | 0.40% | ~150 |
-| The pen is mightier than the sword | 0.40% | ~150 |
-| This is My Faith | 0.40% | ~150 |
-| Trophy Hunter | 0.40% | ~150 |
-| Voting Streak | 0.40% | ~150 |
+| Absolutely | 0.40% | ~151 |
+| Live Long and Prosper | 0.40% | ~151 |
+| One Family to Rule them All | 0.40% | ~151 |
+| Populists in Government | 0.40% | ~151 |
+| Ruina Imperii | 0.40% | ~151 |
+| The Continuation of Diplomacy | 0.40% | ~151 |
+| The pen is mightier than the sword | 0.40% | ~151 |
+| This is My Faith | 0.40% | ~151 |
+| Trophy Hunter | 0.40% | ~151 |
+| Voting Streak | 0.40% | ~151 |
 | All Your Trade Are Belong to Us | 0.30% | ~113 |
 | Bleed Them Dry | 0.30% | ~113 |
 | Dude, Where's my Boat? | 0.30% | ~113 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,616 (Ranked 81)  
+Progressed: 37,631 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 36,053 | 0 |
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
-| 2023-05-16 | 37,616 | 0 |
+| 2023-05-16 | 37,631 | 0 |
 ## Awards
 Max (Educational): 5,223  (Ranked 60)  
 Sum: 43,238 (Ranked 27)  

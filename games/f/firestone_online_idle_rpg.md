@@ -33,13 +33,13 @@ Rating: 3.64 (Ranked 917)
 | Frostfire Liberator | 4.00% | ~41 |
 | Hunter | 4.00% | ~41 |
 | Scroll Master | 4.00% | ~41 |
+| The power of Awakening | 4.00% | ~41 |
 | Background Story | 3.00% | ~31 |
 | Here We Go Again | 3.00% | ~31 |
 | Mastery | 3.00% | ~31 |
 | Missions Dedication | 3.00% | ~31 |
 | Moving Up The Ladder | 3.00% | ~31 |
 | The Expeditioner | 3.00% | ~31 |
-| The power of Awakening | 3.00% | ~31 |
 | Ancient Knowledge | 2.00% | ~21 |
 | Doing My Part | 2.00% | ~21 |
 | How Do You Turn This On? | 2.00% | ~21 |

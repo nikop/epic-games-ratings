@@ -95,6 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Breathe the Marsh Gas | 0.20% | ~108 |
 | Don't Blast the Brigands | 0.20% | ~108 |
 | Don't Squeeze the Spiders | 0.20% | ~108 |
+| The Spire of Iriolarthas | 0.20% | ~108 |
 | The Fall of Ythryn | 0.20% | ~108 |
 | The Prince of a Thousand Enemies | 0.20% | ~108 |
 | Uncommon Allies | 0.20% | ~108 |
@@ -307,7 +308,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friends and Foes | 0.10% | ~54 |
 | And Your Enemies Closer | 0.10% | ~54 |
 | Back to Nature | 0.10% | ~54 |
-| The Spire of Iriolarthas | 0.10% | ~54 |
 | Always Watching | 0.10% | ~54 |
 | Icequake | 0.10% | ~54 |
 | A Lesson in Classes | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,638 (Ranked 59)  
+Progressed: 87,642 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,16 +522,16 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,638 | 1,843 |
+| 2023-05-16 | 87,642 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
-Sum: 29,894 (Ranked 37)  
+Sum: 29,895 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,880 |
 | This game is Great for Beginners | 4,826 |
-| This game has Quickly Understood Controls | 4,590 |
+| This game has Quickly Understood Controls | 4,591 |
 | This game is Relaxing | 4,487 |
 | This game is Highly Recommended | 3,938 |
 | This game has Amazing Characters | 3,938 |
@@ -649,4 +649,4 @@ Diff (max vs sum): 26
 | 2023-05-13 | 4.06 | - | 4,877 | 29,873 |
 | 2023-05-14 | 4.06 | - | 4,878 | 29,881 |
 | 2023-05-15 | 4.06 | - | 4,880 | 29,893 |
-| 2023-05-16 | 4.06 | - | 4,880 | 29,894 |
+| 2023-05-16 | 4.06 | - | 4,880 | 29,895 |

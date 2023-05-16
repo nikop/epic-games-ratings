@@ -3686,10 +3686,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29894,
       "NumberOfAwardsMax": 4880
+    },
+    {
+      "Time": "2023-05-16T09:57:38.7579754+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29895,
+      "NumberOfAwardsMax": 4880
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29894,
+  "NumberOfAwards": 29895,
   "NumberOfAwardsMax": 4880,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3709,7 +3715,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4590
+      "Count": 4591
     },
     {
       "Text": "This game is Relaxing",
@@ -3736,7 +3742,7 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87638,
+  "EOS_Progressed": 87642,
   "EOS_Completed": 1843,
   "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 26,
@@ -6106,6 +6112,11 @@
       "Time": "2023-05-16T09:07:04.1044794+00:00",
       "NumProgressed": 87638,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T10:05:33.8411004+00:00",
+      "NumProgressed": 87642,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -6315,9 +6326,9 @@
       "ID": "objective_completed_1070",
       "SetID": "415jc5c",
       "Name": "The Spire of Iriolarthas",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_completed_1071",
@@ -10028,21 +10039,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53912,
+      "Progressed": 53916,
       "Completed": 2515
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87638,
+      "Progressed": 87642,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-16T08:58:25.2160288+00:00",
-  "LastChanged_Achievements": "2023-05-16T09:07:04.1044789+00:00",
+  "LastChanged": "2023-05-16T09:57:38.7579752+00:00",
+  "LastChanged_Achievements": "2023-05-16T10:05:33.8411001+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T08:58:25.2160299+00:00",
-  "LastUpdate_Achievements": "2023-05-16T09:07:04.1072899+00:00"
+  "LastUpdate_Ratings": "2023-05-16T09:57:38.7579762+00:00",
+  "LastUpdate_Achievements": "2023-05-16T10:05:33.8436056+00:00"
 }

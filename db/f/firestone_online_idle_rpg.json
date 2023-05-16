@@ -64,7 +64,7 @@
   "Tags": [],
   "EOS_Progressed": 1034,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2157,9 +2157,9 @@
       "ID": "thepowerofawakening",
       "SetID": "3nl4bcg",
       "Name": "The power of Awakening",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "theunstoppable",
@@ -2270,8 +2270,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T09:06:29.0110562+00:00",
+  "LastChanged_Achievements": "2023-05-16T10:05:05.9055211+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T08:58:21.4927365+00:00",
-  "LastUpdate_Achievements": "2023-05-16T09:06:29.011206+00:00"
+  "LastUpdate_Ratings": "2023-05-16T09:57:36.3811948+00:00",
+  "LastUpdate_Achievements": "2023-05-16T10:05:05.9056128+00:00"
 }

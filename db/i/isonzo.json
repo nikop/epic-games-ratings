@@ -938,9 +938,9 @@
       "ID": "ISONZO_ACH_CONRAD_VON_HOTZENSOCKS",
       "SetID": "akchbl3",
       "Name": "Conrad von Hotzensocks",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1968
+      "UsersEstimate": 2025
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1259,8 +1259,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-11T18:57:10.7073968+00:00",
-  "LastChanged_Achievements": "2023-05-16T09:06:20.6539436+00:00",
+  "LastChanged_Achievements": "2023-05-16T10:04:59.4196558+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:18.2018805+00:00",
-  "LastUpdate_Ratings": "2023-05-16T08:57:34.2600671+00:00",
-  "LastUpdate_Achievements": "2023-05-16T09:06:20.65398+00:00"
+  "LastUpdate_Ratings": "2023-05-16T09:57:04.0959728+00:00",
+  "LastUpdate_Achievements": "2023-05-16T10:04:59.4196891+00:00"
 }

@@ -24,8 +24,8 @@
 | Fully Modded | 11.00% | ~8 |
 | Eden Heights | 8.00% | ~6 |
 | Ripperdoc | 6.00% | ~4 |
+| Trickshot | 4.00% | ~3 |
 | Outer Core | 3.00% | ~2 |
-| Trickshot | 3.00% | ~2 |
 | Cyborg | 1.00% | ~1 |
 | Destruction | 1.00% | ~1 |
 | Hard Boiled | 1.00% | ~1 |

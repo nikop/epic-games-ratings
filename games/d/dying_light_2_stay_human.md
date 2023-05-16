@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,303 |
-| Into the Unknown | 8.00% | ~43,825 |
-| First Shot | 8.00% | ~43,825 |
-| Herzlich Wilkommen! | 7.00% | ~38,347 |
-| Sancho Panza | 7.00% | ~38,347 |
-| Good Night & Good Luck | 7.00% | ~38,347 |
-| Under Pressure | 6.00% | ~32,869 |
-| Flag Burning | 6.00% | ~32,869 |
-| Oh, So This Is How It Works! | 6.00% | ~32,869 |
-| Night Hunter | 6.00% | ~32,869 |
-| On the Trail of the Enemy | 5.00% | ~27,391 |
-| Light in the Darkness | 5.00% | ~27,391 |
-| Get Outta My House! | 5.00% | ~27,391 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,391 |
-| Being All Social | 5.00% | ~27,391 |
+| You Never Forget Your First... | 9.00% | ~49,305 |
+| Into the Unknown | 8.00% | ~43,827 |
+| First Shot | 8.00% | ~43,827 |
+| Herzlich Wilkommen! | 7.00% | ~38,348 |
+| Sancho Panza | 7.00% | ~38,348 |
+| Good Night & Good Luck | 7.00% | ~38,348 |
+| Under Pressure | 6.00% | ~32,870 |
+| Flag Burning | 6.00% | ~32,870 |
+| Oh, So This Is How It Works! | 6.00% | ~32,870 |
+| Night Hunter | 6.00% | ~32,870 |
+| On the Trail of the Enemy | 5.00% | ~27,392 |
+| Light in the Darkness | 5.00% | ~27,392 |
+| Get Outta My House! | 5.00% | ~27,392 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,392 |
+| Being All Social | 5.00% | ~27,392 |
 | Debris and Ashes | 4.00% | ~21,913 |
 | We Will Be Heard! | 4.00% | ~21,913 |
 | Known Associate | 4.00% | ~21,913 |
@@ -32,12 +32,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | After the Fall | 4.00% | ~21,913 |
 | Can't Touch This! | 4.00% | ~21,913 |
 | Death From Afar | 4.00% | ~21,913 |
-| Terminal Headache | 3.00% | ~16,434 |
-| Slowpoke! | 3.00% | ~16,434 |
-| Tickets, Please! | 2.00% | ~10,956 |
-| Parkour Master | 2.00% | ~10,956 |
-| Combat Master | 2.00% | ~10,956 |
-| You're Going Down! | 2.00% | ~10,956 |
+| Terminal Headache | 3.00% | ~16,435 |
+| Slowpoke! | 3.00% | ~16,435 |
+| Tickets, Please! | 2.00% | ~10,957 |
+| Parkour Master | 2.00% | ~10,957 |
+| Combat Master | 2.00% | ~10,957 |
+| You're Going Down! | 2.00% | ~10,957 |
 | Municipal Services | 1.00% | ~5,478 |
 | Tube Map | 1.00% | ~5,478 |
 | Don Quixote | 1.00% | ~5,478 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,478 |
 | Ironheart | 1.00% | ~5,478 |
 | Nemesis | 1.00% | ~1,933 |
-| Enter the Hall | 0.90% | ~1,739 |
+| Enter the Hall | 0.90% | ~1,740 |
 | That's Teamwork! | 0.80% | ~4,383 |
 | Fit as a Fiddle | 0.80% | ~4,383 |
 | Night of Terrors | 0.80% | ~1,546 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~193 |
 | Connoisseur | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547,815 (Ranked 22)  
+Progressed: 547,834 (Ranked 22)  
 Completed: 47 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 47 (0.01%) (Ranked 191)
 | 2023-05-13 | 546,500 | 46 |
 | 2023-05-14 | 547,212 | 46 |
 | 2023-05-15 | 547,713 | 47 |
-| 2023-05-16 | 547,815 | 47 |
+| 2023-05-16 | 547,834 | 47 |
 ## Awards
 Max (Character Customization): 7,062  (Ranked 44)  
 Sum: 16,397 (Ranked 58)  

@@ -2096,9 +2096,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 46021,
+  "EOS_Progressed": 46022,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1675,
+  "EOS_NewPlayers": 1661,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3691,6 +3691,11 @@
       "Time": "2023-05-16T09:06:58.9742416+00:00",
       "NumProgressed": 46021,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-05-16T10:05:29.0775239+00:00",
+      "NumProgressed": 46022,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 45,
@@ -3814,7 +3819,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 27152
+      "UsersEstimate": 27153
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -3830,7 +3835,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 17948
+      "UsersEstimate": 17949
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -3862,7 +3867,7 @@
       "Name": "The Force Awakens",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 11505
+      "UsersEstimate": 11506
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -3894,7 +3899,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 26232
+      "UsersEstimate": 26233
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -3942,7 +3947,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 26692
+      "UsersEstimate": 26693
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -3966,7 +3971,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 44640
+      "UsersEstimate": 44641
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -4006,7 +4011,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 32675
+      "UsersEstimate": 32676
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -4038,7 +4043,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 24391
+      "UsersEstimate": 24392
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -4054,22 +4059,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 33135
+      "UsersEstimate": 33136
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 46021,
+      "Progressed": 46022,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-16T08:01:45.4306925+00:00",
-  "LastChanged_Achievements": "2023-05-16T09:06:58.9742411+00:00",
+  "LastChanged_Achievements": "2023-05-16T10:05:29.0775232+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:26.2031618+00:00",
-  "LastUpdate_Ratings": "2023-05-16T09:01:29.9819023+00:00",
-  "LastUpdate_Achievements": "2023-05-16T09:06:58.9742894+00:00"
+  "LastUpdate_Ratings": "2023-05-16T09:59:51.0067991+00:00",
+  "LastUpdate_Achievements": "2023-05-16T10:05:29.0775734+00:00"
 }
