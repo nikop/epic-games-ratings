@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2119,9 +2119,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 83
     },
     {
       "ID": "templeofeternals",
@@ -2280,8 +2280,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T13:14:25.0307004+00:00",
+  "LastChanged_Achievements": "2023-05-16T14:05:48.9030634+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:06:35.8612584+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:14:25.0307678+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:57:59.799845+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:05:48.9032139+00:00"
 }

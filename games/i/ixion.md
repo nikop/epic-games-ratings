@@ -25,9 +25,9 @@ Rating: 4.55 (Ranked 465)
 | A Hunk of Junk | 0.60% | ~11 |
 | Access Granted | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~10 |
+| Necessary Enhancement | 0.50% | ~10 |
 | BRAWL! | 0.50% | ~10 |
 | Please Make it Stop! | 0.50% | ~10 |
-| Necessary Enhancement | 0.40% | ~8 |
 | All in Good Health | 0.40% | ~8 |
 | From the Past | 0.40% | ~8 |
 | Man's Best Friend | 0.30% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 465)
 | Crunch Culture | 0.00% | ~0 |
 | I Give You the Stars | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,901 (Ranked 146)  
+Progressed: 1,902 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 1,882 | 0 |
 | 2023-05-14 | 1,892 | 0 |
 | 2023-05-15 | 1,898 | 0 |
-| 2023-05-16 | 1,901 | 0 |
+| 2023-05-16 | 1,902 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,13 +6,13 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~605,822 |
-| Escaped Asphodel | 80.00% | ~544,559 |
-| Arms Collector | 71.00% | ~483,296 |
-| Friends in High Places | 68.00% | ~462,875 |
-| Escaped Elysium | 66.00% | ~449,261 |
-| Chthonic Colleagues | 63.00% | ~428,840 |
-| Is There No Escape? | 52.00% | ~353,963 |
+| Escaped Tartarus | 89.00% | ~605,823 |
+| Escaped Asphodel | 80.00% | ~544,560 |
+| Arms Collector | 71.00% | ~483,297 |
+| Friends in High Places | 68.00% | ~462,876 |
+| Escaped Elysium | 66.00% | ~449,262 |
+| Chthonic Colleagues | 63.00% | ~428,841 |
+| Is There No Escape? | 52.00% | ~353,964 |
 | Death Dealer | 45.00% | ~306,315 |
 | Skelly Slayer | 42.00% | ~285,894 |
 | Well Stocked | 40.00% | ~272,280 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,228 |
 | Friends Forever | 4.00% | ~27,228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,699 (Ranked 16)  
+Progressed: 680,700 (Ranked 16)  
 Completed: 6,103 (0.90%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 6,103 (0.90%) (Ranked 87)
 | 2023-05-13 | 680,494 | 6,098 |
 | 2023-05-14 | 680,589 | 6,102 |
 | 2023-05-15 | 680,667 | 6,103 |
-| 2023-05-16 | 680,699 | 6,103 |
+| 2023-05-16 | 680,700 | 6,103 |
 ## Awards
 Max (Character Customization): 3,049  (Ranked 87)  
 Sum: 7,439 (Ranked 97)  

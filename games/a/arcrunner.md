@@ -26,14 +26,14 @@
 | Ripperdoc | 7.00% | ~5 |
 | Trickshot | 4.00% | ~3 |
 | Inner Core | 3.00% | ~2 |
+| Integration | 3.00% | ~2 |
 | Outer Core | 3.00% | ~2 |
 | Cyborg | 1.00% | ~1 |
 | Destruction | 1.00% | ~1 |
 | Hard Boiled | 1.00% | ~1 |
-| Integration | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 264)  
+Progressed: 71 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

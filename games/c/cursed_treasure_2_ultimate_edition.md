@@ -26,7 +26,7 @@
 | Sharpshooter | 66.00% | ~100 |
 | The Apotheosis of War | 65.00% | ~98 |
 | Stasis Alcatraz | 65.00% | ~98 |
-| Tastes Like Chicken | 60.00% | ~91 |
+| Tastes Like Chicken | 61.00% | ~92 |
 | Thunderstorm | 60.00% | ~91 |
 | Combo Breaker | 59.00% | ~89 |
 | Brilliant: Holy Mountain | 58.00% | ~88 |

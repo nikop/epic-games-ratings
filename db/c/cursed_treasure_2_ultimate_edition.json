@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -454,9 +454,9 @@
       "ID": "BADGE_POLYMORPH_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Tastes Like Chicken",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "BADGE_SKILL_BRANCH_MAX",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-16T13:14:26.8669028+00:00",
+  "LastChanged_Achievements": "2023-05-16T14:05:50.7236281+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:31.9076697+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:07:15.370218+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:14:26.8669378+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:58:41.7333019+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:05:50.7236743+00:00"
 }

@@ -6,44 +6,44 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,920 |
-| Right Back At Ya | 37.00% | ~295,956 |
-| The Lovers | 32.00% | ~255,962 |
-| Stanislavski's Method | 27.00% | ~215,968 |
-| The Wheel of Fortune | 25.00% | ~199,970 |
-| The Hermit | 23.00% | ~183,972 |
-| Christmas Tree Attack | 22.00% | ~175,974 |
-| True Soldier | 22.00% | ~175,974 |
-| Legend of The Afterlife | 21.00% | ~167,975 |
-| The High Priestess | 20.00% | ~159,976 |
-| Life of the Road | 19.00% | ~151,977 |
-| Full Body Conversion | 17.00% | ~135,980 |
-| The World | 16.00% | ~127,981 |
-| Bushido and Chill | 15.00% | ~119,982 |
-| Gun Fu | 14.00% | ~111,983 |
-| True Warrior | 14.00% | ~111,983 |
-| To Protect and Serve | 13.00% | ~103,984 |
-| Master Crafter | 13.00% | ~103,984 |
-| I Am The Law | 13.00% | ~103,984 |
-| Judy vs Night City | 13.00% | ~103,984 |
+| The Fool | 67.00% | ~535,924 |
+| Right Back At Ya | 37.00% | ~295,958 |
+| The Lovers | 32.00% | ~255,964 |
+| Stanislavski's Method | 27.00% | ~215,969 |
+| The Wheel of Fortune | 25.00% | ~199,972 |
+| The Hermit | 23.00% | ~183,974 |
+| Christmas Tree Attack | 22.00% | ~175,975 |
+| True Soldier | 22.00% | ~175,975 |
+| Legend of The Afterlife | 21.00% | ~167,976 |
+| The High Priestess | 20.00% | ~159,977 |
+| Life of the Road | 19.00% | ~151,978 |
+| Full Body Conversion | 17.00% | ~135,981 |
+| The World | 16.00% | ~127,982 |
+| Bushido and Chill | 15.00% | ~119,983 |
+| Gun Fu | 14.00% | ~111,984 |
+| True Warrior | 14.00% | ~111,984 |
+| To Protect and Serve | 13.00% | ~103,985 |
+| Master Crafter | 13.00% | ~103,985 |
+| I Am The Law | 13.00% | ~103,985 |
+| Judy vs Night City | 13.00% | ~103,985 |
 | Two Heads, One Bullet | 11.00% | ~87,987 |
-| The Wandering Fool | 9.00% | ~71,989 |
-| The Quick and the Dead | 9.00% | ~71,989 |
-| Ten out of Ten | 8.00% | ~63,990 |
+| The Wandering Fool | 9.00% | ~71,990 |
+| The Quick and the Dead | 9.00% | ~71,990 |
+| Ten out of Ten | 8.00% | ~63,991 |
 | Breathtaking | 7.00% | ~55,992 |
 | To Bad Decisions! | 6.00% | ~47,993 |
 | The Star | 6.00% | ~47,993 |
 | The Sun | 6.00% | ~47,993 |
 | Must Be Rats | 4.00% | ~31,995 |
 | Temperance | 4.00% | ~31,995 |
-| City Lights | 3.00% | ~23,996 |
-| Frequent Flyer | 3.00% | ~23,996 |
-| Mean Streets | 3.00% | ~23,996 |
-| Little Tokyo | 3.00% | ~23,996 |
-| Greetings from Pacifica! | 3.00% | ~23,996 |
-| The Jungle | 3.00% | ~23,996 |
-| V for Vendetta | 3.00% | ~23,996 |
-| It's Elementary | 3.00% | ~23,996 |
+| City Lights | 3.00% | ~23,997 |
+| Frequent Flyer | 3.00% | ~23,997 |
+| Mean Streets | 3.00% | ~23,997 |
+| Little Tokyo | 3.00% | ~23,997 |
+| Greetings from Pacifica! | 3.00% | ~23,997 |
+| The Jungle | 3.00% | ~23,997 |
+| V for Vendetta | 3.00% | ~23,997 |
+| It's Elementary | 3.00% | ~23,997 |
 | Autojock | 2.00% | ~15,998 |
 | The Wasteland | 2.00% | ~15,998 |
 | Daemon In The Shell | 2.00% | ~15,998 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~7,999 |
 | Rough Landing | 0.40% | ~3,200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,880 (Ranked 11)  
+Progressed: 799,886 (Ranked 11)  
 Completed: 1,598 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 1,598 (0.20%) (Ranked 139)
 | 2023-05-13 | 799,525 | 1,594 |
 | 2023-05-14 | 799,707 | 1,595 |
 | 2023-05-15 | 799,818 | 1,597 |
-| 2023-05-16 | 799,880 | 1,598 |
+| 2023-05-16 | 799,886 | 1,598 |
 ## Awards
 Max (Character Customization): 64,312  (Ranked 9)  
-Sum: 168,746 (Ranked 13)  
+Sum: 168,753 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -94,7 +94,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 7,264 |
 | This game has Quickly Understood Controls | 7,133 |
 | This game has Amazing Characters | 7,090 |
-| This game has a Creative Community | 4,723 |
+| This game has a Creative Community | 4,730 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -215,4 +215,4 @@ Diff (max vs sum): -4
 | 2023-05-13 | 4.62 | - | 64,131 | 168,153 |
 | 2023-05-14 | 4.62 | - | 64,220 | 168,387 |
 | 2023-05-15 | 4.62 | - | 64,276 | 168,608 |
-| 2023-05-16 | 4.62 | - | 64,312 | 168,746 |
+| 2023-05-16 | 4.62 | - | 64,312 | 168,753 |

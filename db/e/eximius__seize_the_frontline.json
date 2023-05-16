@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -234,7 +234,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184861,
+  "EOS_Progressed": 184868,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 0,
@@ -2649,6 +2649,11 @@
       "Time": "2023-05-16T13:14:32.3886503+00:00",
       "NumProgressed": 184861,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-16T14:05:56.2345977+00:00",
+      "NumProgressed": 184868,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -2668,7 +2673,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 131251
+      "UsersEstimate": 131256
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -2692,7 +2697,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33275
+      "UsersEstimate": 33276
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -2787,7 +2792,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 184861,
+      "Progressed": 184868,
       "Completed": 4
     }
   ],
@@ -2795,8 +2800,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-15T19:58:59.1456321+00:00",
-  "LastChanged_Achievements": "2023-05-16T13:14:32.3886498+00:00",
+  "LastChanged_Achievements": "2023-05-16T14:05:56.2345974+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:39.6476318+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:08:24.5819761+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:14:32.3886695+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:59:55.1583139+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:05:56.2346242+00:00"
 }

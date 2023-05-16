@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 29182,
+  "EOS_Progressed": 29188,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2978,6 +2978,11 @@
       "Time": "2023-05-16T13:14:39.9097446+00:00",
       "NumProgressed": 29182,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-16T14:06:03.7280575+00:00",
+      "NumProgressed": 29188,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -3005,7 +3010,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4961
+      "UsersEstimate": 4962
     },
     {
       "ID": "ach_antiquarian10",
@@ -3013,7 +3018,7 @@
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ach_combuoy",
@@ -3029,7 +3034,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ach_contdrownie",
@@ -3053,7 +3058,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "ach_cursestone",
@@ -3069,7 +3074,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ach_dawnmachine",
@@ -3077,7 +3082,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "ach_deathofermod",
@@ -3109,7 +3114,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10506
+      "UsersEstimate": 10508
     },
     {
       "ID": "ach_die10",
@@ -3141,7 +3146,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ach_eye",
@@ -3157,7 +3162,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "ach_invictus",
@@ -3173,7 +3178,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -3181,7 +3186,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "ach_legacypupil",
@@ -3197,7 +3202,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4085
+      "UsersEstimate": 4086
     },
     {
       "ID": "ach_legacysalvager",
@@ -3213,7 +3218,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "ach_newstories",
@@ -3341,7 +3346,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5545
+      "UsersEstimate": 5546
     },
     {
       "ID": "ach_terror100",
@@ -3349,7 +3354,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "ach_terror90",
@@ -3357,7 +3362,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "ach_undercurrent",
@@ -3389,7 +3394,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "ach_year1",
@@ -3420,15 +3425,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 29182,
+      "Progressed": 29188,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-16T03:00:31.6712899+00:00",
-  "LastChanged_Achievements": "2023-05-16T13:14:39.9097438+00:00",
+  "LastChanged_Achievements": "2023-05-16T14:06:03.7280572+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.7723799+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:08:18.7574626+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:14:39.9097926+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:59:49.4068366+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:06:03.7281242+00:00"
 }

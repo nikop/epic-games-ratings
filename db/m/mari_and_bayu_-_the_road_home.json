@@ -2,10 +2,10 @@
   "ID": "d5e2a82090724cd5abd1218415e094f1",
   "Name": "Mari and Bayu - The Road Home",
   "ProductSlug": "mari-and-bayu-the-road-home-7dc1d0",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-07-19T14:00:00+00:00",
     "PcReleaseDate": "2022-07-19T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.7537519+00:00",
   "LastChanged": "2023-03-31T05:58:27.753752+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:27.9780425+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:06:06.2219021+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:12:42.3758976+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:57:29.1513482+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:04:04.5325172+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,7 +981,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5342,
+  "EOS_Progressed": 5343,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
@@ -2946,6 +2946,11 @@
       "Time": "2023-05-16T13:14:47.590536+00:00",
       "NumProgressed": 5342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T14:06:11.8209697+00:00",
+      "NumProgressed": 5343,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2957,7 +2962,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "10",
@@ -2989,7 +2994,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "14",
@@ -3005,7 +3010,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "16",
@@ -3013,7 +3018,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "17",
@@ -3021,7 +3026,7 @@
       "Name": "Famous Adventurer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "18",
@@ -3037,7 +3042,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "2",
@@ -3069,7 +3074,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3739
+      "UsersEstimate": 3740
     },
     {
       "ID": "23",
@@ -3077,7 +3082,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "24",
@@ -3253,7 +3258,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "44",
@@ -3428,15 +3433,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5342,
+      "Progressed": 5343,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-16T13:14:47.5905354+00:00",
+  "LastChanged_Achievements": "2023-05-16T14:06:11.8209692+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:08:37.3857485+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:14:47.5905881+00:00"
+  "LastUpdate_Ratings": "2023-05-16T14:00:07.7339719+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:06:11.8210848+00:00"
 }

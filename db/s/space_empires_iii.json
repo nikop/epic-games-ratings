@@ -2,10 +2,10 @@
   "ID": "8a8952d2270c4fbd833efc9d4903f14f",
   "Name": "Space Empires III",
   "ProductSlug": "space-empires-iii-38e873",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-15T04:00:00+00:00",
     "PcReleaseDate": "2020-10-08T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.1659765+00:00",
   "LastChanged": "2023-03-31T05:58:23.1659766+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:11.184581+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:09:02.1225874+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:13:39.1980054+00:00"
+  "LastUpdate_Ratings": "2023-05-16T14:00:33.1124352+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:05:02.513321+00:00"
 }

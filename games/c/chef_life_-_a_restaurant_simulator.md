@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 80.00% | ~77 |
-| Home Cook | 48.00% | ~46 |
-| You're the Expert! | 43.00% | ~41 |
+| The Big Day | 80.00% | ~78 |
+| Home Cook | 47.00% | ~46 |
+| You're the Expert! | 43.00% | ~42 |
+| So Clean You Can Eat Off the Floor | 34.00% | ~33 |
 | French Flair | 33.00% | ~32 |
-| So Clean You Can Eat Off the Floor | 33.00% | ~32 |
 | S is for Scrumptious | 27.00% | ~26 |
 | Next Level Cuisine | 19.00% | ~18 |
 | Italian Style | 18.00% | ~17 |
-| Haute Cuisine | 14.00% | ~13 |
+| Haute Cuisine | 13.00% | ~13 |
 | Sous-Chef | 11.00% | ~11 |
-| Well-Stocked Kitchen | 8.00% | ~8 |
+| Well-Stocked Kitchen | 9.00% | ~9 |
 | Culinary Arts | 7.00% | ~7 |
 | Perfectionist | 6.00% | ~6 |
 | Rolling in Dough | 5.00% | ~5 |
 | Leaning Tower of Pizza | 3.00% | ~3 |
 | Chef, Yes Chef! | 2.00% | ~2 |
 | Eco Warrior | 1.00% | ~1 |
+| Codename: Arrabbiata | 1.00% | ~1 |
 | Teamwork | 0.00% | ~0 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
 | Stella d’Italia | 0.00% | ~0 |
 | Course of Cthulhu | 0.00% | ~0 |
 | Kitchen Model | 0.00% | ~0 |
-| Codename: Arrabbiata | 0.00% | ~0 |
 | Pyrotechnician | 0.00% | ~0 |
 | Sweet Roll | 0.00% | ~0 |
 | Rise to the Challenge | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 251)  
+Progressed: 97 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 86 | 0 |
 | 2023-05-14 | 90 | 0 |
 | 2023-05-15 | 95 | 0 |
-| 2023-05-16 | 96 | 0 |
+| 2023-05-16 | 97 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

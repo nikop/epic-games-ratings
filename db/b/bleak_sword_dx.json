@@ -2,10 +2,10 @@
   "ID": "492d509a27bf4c2b927e6dd6e3ab8057",
   "Name": "Bleak Sword DX",
   "ProductSlug": "bleak-sword-dx-5b2d4c",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T18:00:22.6444614+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:09:15.0032025+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:13:50.5621514+00:00"
+  "LastUpdate_Ratings": "2023-05-16T14:00:46.6077602+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:05:14.3623811+00:00"
 }

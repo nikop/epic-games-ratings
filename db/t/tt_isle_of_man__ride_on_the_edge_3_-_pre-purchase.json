@@ -176,9 +176,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "gagif7",
       "Name": "Seven-League Boots",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -447,8 +447,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-16T13:14:02.2828435+00:00",
+  "LastChanged_Achievements": "2023-05-16T14:05:26.1196196+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.0229412+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:06:09.1266834+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:14:02.2828687+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:57:32.9668637+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:05:26.1196512+00:00"
 }

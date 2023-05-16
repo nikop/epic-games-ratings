@@ -6,23 +6,23 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,498 |
-| Landlord | 29.00% | ~14,498 |
-| Lawmaker | 21.00% | ~10,499 |
-| Bannerlord | 20.00% | ~9,999 |
-| Horde breaker | 20.00% | ~9,999 |
-| Trained | 20.00% | ~9,999 |
-| The king is pleased | 16.00% | ~7,999 |
-| King Solomon | 15.00% | ~7,499 |
-| I can do it | 14.00% | ~6,999 |
-| Apple of my eye | 13.00% | ~6,499 |
-| God of the Arena | 12.00% | ~5,999 |
-| Against all odds | 9.00% | ~4,499 |
-| Swordbearer | 9.00% | ~4,499 |
-| Duelist | 8.00% | ~3,999 |
-| Dynasty | 8.00% | ~3,999 |
-| I spit on your grave | 8.00% | ~3,999 |
-| What have the Romans ever done for us? | 8.00% | ~3,999 |
+| Lawbringer | 35.00% | ~17,499 |
+| Landlord | 29.00% | ~14,499 |
+| Lawmaker | 21.00% | ~10,500 |
+| Bannerlord | 20.00% | ~10,000 |
+| Horde breaker | 20.00% | ~10,000 |
+| Trained | 20.00% | ~10,000 |
+| The king is pleased | 16.00% | ~8,000 |
+| King Solomon | 15.00% | ~7,500 |
+| I can do it | 14.00% | ~7,000 |
+| Apple of my eye | 13.00% | ~6,500 |
+| God of the Arena | 12.00% | ~6,000 |
+| Against all odds | 9.00% | ~4,500 |
+| Swordbearer | 9.00% | ~4,500 |
+| Duelist | 8.00% | ~4,000 |
+| Dynasty | 8.00% | ~4,000 |
+| I spit on your grave | 8.00% | ~4,000 |
+| What have the Romans ever done for us? | 8.00% | ~4,000 |
 | Butterlord | 7.00% | ~3,500 |
 | Mastery | 6.00% | ~3,000 |
 | Know your enemy | 5.00% | ~2,500 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,993 (Ranked 74)  
+Progressed: 49,998 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 49,748 | 0 |
 | 2023-05-14 | 49,864 | 0 |
 | 2023-05-15 | 49,956 | 0 |
-| 2023-05-16 | 49,993 | 0 |
+| 2023-05-16 | 49,998 | 0 |
 ## Awards
 Max (Character Customization): 6,537  (Ranked 49)  
 Sum: 13,036 (Ranked 68)  

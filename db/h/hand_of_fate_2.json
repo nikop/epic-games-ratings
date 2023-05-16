@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 431,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 18,
@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656240,
+  "EOS_Progressed": 656241,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2982,6 +2982,11 @@
       "Time": "2023-05-16T13:14:13.0363139+00:00",
       "NumProgressed": 656240,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-16T14:05:36.7653086+00:00",
+      "NumProgressed": 656241,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -2993,7 +2998,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472493
+      "UsersEstimate": 472494
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3001,7 +3006,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380619
+      "UsersEstimate": 380620
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3376,15 +3381,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656240,
+      "Progressed": 656241,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-16T13:14:13.0363133+00:00",
+  "LastChanged_Achievements": "2023-05-16T14:05:36.7653082+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:30.4319872+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:06:08.6390359+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:14:13.0363555+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:57:32.3727481+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:05:36.7653635+00:00"
 }

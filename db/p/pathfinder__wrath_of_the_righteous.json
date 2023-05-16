@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2396,7 +2396,7 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8833,
+  "EOS_Progressed": 8835,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -3596,6 +3596,11 @@
       "Time": "2023-05-16T13:14:42.0575695+00:00",
       "NumProgressed": 8833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T14:06:06.13384+00:00",
+      "NumProgressed": 8835,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3607,7 +3612,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "02_BurningCity",
@@ -3671,7 +3676,7 @@
       "Name": "Path of the Demon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "10_PathOfAzata",
@@ -4534,21 +4539,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7615,
+      "Progressed": 7617,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8833,
+      "Progressed": 8835,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-16T13:06:55.6989034+00:00",
-  "LastChanged_Achievements": "2023-05-16T13:14:42.0575686+00:00",
+  "LastChanged_Achievements": "2023-05-16T14:06:06.1338394+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-16T13:06:55.6989042+00:00",
-  "LastUpdate_Achievements": "2023-05-16T13:14:42.0577071+00:00"
+  "LastUpdate_Ratings": "2023-05-16T13:58:20.8379741+00:00",
+  "LastUpdate_Achievements": "2023-05-16T14:06:06.1340645+00:00"
 }
