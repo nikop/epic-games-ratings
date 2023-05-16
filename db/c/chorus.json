@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 79,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -513,9 +513,9 @@
       "ID": "KillWhileDrifting",
       "SetID": "a6c395p",
       "Name": "Born to Drift",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 457
+      "UsersEstimate": 466
     },
     {
       "ID": "KillWithALargeShip",
@@ -809,8 +809,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-16T20:05:13.9302947+00:00",
+  "LastChanged_Achievements": "2023-05-16T21:06:15.0245119+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.1050523+00:00",
-  "LastUpdate_Ratings": "2023-05-16T19:59:15.4994407+00:00",
-  "LastUpdate_Achievements": "2023-05-16T20:05:13.9303283+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:00:09.9020885+00:00",
+  "LastUpdate_Achievements": "2023-05-16T21:06:15.0245496+00:00"
 }

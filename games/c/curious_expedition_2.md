@@ -24,7 +24,7 @@ Number of Ratings: 20  (23.09.2022)
 | Uncertain Loyalties | 22.00% | ~64 |
 | Traveller | 21.00% | ~61 |
 | Roll to Save | 20.00% | ~58 |
-| Red Flag Pirate | 17.00% | ~49 |
+| Red Flag Pirate | 18.00% | ~52 |
 | Veteran Explorer | 17.00% | ~49 |
 | For the Club! | 15.00% | ~44 |
 | A Gentle Beast | 15.00% | ~44 |

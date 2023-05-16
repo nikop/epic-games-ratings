@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -190,9 +190,9 @@
       "ID": "HACKER",
       "SetID": "2iigf77",
       "Name": "Hacker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 87
     },
     {
       "ID": "HANDS_UP",
@@ -214,9 +214,9 @@
       "ID": "HE_IS_JUST_A_CHILD",
       "SetID": "2iigf77",
       "Name": "He is just a child",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 87
     },
     {
       "ID": "HIPSTER",
@@ -342,9 +342,9 @@
       "ID": "THERE_IS_ANOTHER_WAY",
       "SetID": "2iigf77",
       "Name": "There is another way",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "UNCERTAIN",
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-16T20:04:55.5541562+00:00",
+  "LastChanged_Achievements": "2023-05-16T21:05:53.1428703+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:37.9013138+00:00",
-  "LastUpdate_Ratings": "2023-05-16T19:58:12.6275147+00:00",
-  "LastUpdate_Achievements": "2023-05-16T20:04:55.5541749+00:00"
+  "LastUpdate_Ratings": "2023-05-16T20:58:46.0802123+00:00",
+  "LastUpdate_Achievements": "2023-05-16T21:05:53.142899+00:00"
 }

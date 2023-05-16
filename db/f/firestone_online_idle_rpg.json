@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1043,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1687,6 +1687,11 @@
       "Time": "2023-05-16T19:04:56.5205648+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-16T21:05:52.7724237+00:00",
+      "NumProgressed": 1043,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2098,7 +2103,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "relicofthepast",
@@ -2144,9 +2149,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 83
     },
     {
       "ID": "templeofeternals",
@@ -2258,7 +2263,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "warmachinesarmy",
@@ -2297,7 +2302,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1043,
       "Completed": 1
     }
   ],
@@ -2305,8 +2310,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-16T20:04:55.2829124+00:00",
+  "LastChanged_Achievements": "2023-05-16T21:05:52.7724233+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-16T19:57:36.5111914+00:00",
-  "LastUpdate_Achievements": "2023-05-16T20:04:55.2829975+00:00"
+  "LastUpdate_Ratings": "2023-05-16T20:57:58.8538829+00:00",
+  "LastUpdate_Achievements": "2023-05-16T21:05:52.7725222+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 2.00% | ~1,754 |
-| Checkmate | 2.00% | ~1,079 |
-| Vecna Out! | 2.00% | ~1,079 |
+| Checkmate | 2.00% | ~1,080 |
+| Vecna Out! | 2.00% | ~1,080 |
 | Pin and Skewer | 1.00% | ~540 |
 | The Cursed Farmer | 1.00% | ~877 |
 | Beast Intentions | 0.90% | ~789 |
@@ -20,9 +20,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.60% | ~526 |
 | Mad Cow Disease | 0.60% | ~526 |
 | Friendly Imps | 0.60% | ~526 |
-| A Persistent Buzzing | 0.50% | ~438 |
-| The Crumbling Temple | 0.50% | ~438 |
-| Pure Energy | 0.50% | ~438 |
+| A Persistent Buzzing | 0.50% | ~439 |
+| The Crumbling Temple | 0.50% | ~439 |
+| Pure Energy | 0.50% | ~439 |
 | Maddening | 0.40% | ~351 |
 | Owlbear Necessities | 0.40% | ~216 |
 | Best Thay Ever | 0.40% | ~216 |
@@ -79,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.30% | ~263 |
 | Constant Banditry | 0.30% | ~263 |
 | Lost in the Deep | 0.30% | ~263 |
+| Easily Distracted | 0.30% | ~263 |
 | Overdue Rendezvous | 0.30% | ~263 |
 | Witty Riposting | 0.30% | ~162 |
 | How Far Away is Thay | 0.30% | ~162 |
@@ -266,7 +267,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.20% | ~108 |
 | Mirage Arcane | 0.20% | ~108 |
 | The Long Haul | 0.20% | ~175 |
-| Easily Distracted | 0.20% | ~175 |
 | Rude Welcome | 0.20% | ~175 |
 | Moose Tracks | 0.20% | ~108 |
 | An Awakened Axe | 0.20% | ~108 |
@@ -299,6 +299,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel's Last Stand | 0.20% | ~108 |
 | Lost in the Underdark | 0.20% | ~108 |
 | Ending the Rime - Part 1 | 0.20% | ~108 |
+| Ambitious Speakers - Part 1 | 0.20% | ~108 |
 | Ending the Rime - Part 2 | 0.20% | ~108 |
 | Reghed Glacier Mysteries | 0.20% | ~108 |
 | Tekeli-li's Hunt | 0.20% | ~108 |
@@ -478,7 +479,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Leemooggoogoon Rises | 0.10% | ~54 |
 | Stragglers | 0.10% | ~54 |
 | Volo's Guide to Kuo-toa | 0.10% | ~54 |
-| Ambitious Speakers - Part 1 | 0.10% | ~54 |
 | Shady Sidekicks - Part 1 | 0.10% | ~54 |
 | Ambitious Speakers - Part 2 | 0.10% | ~54 |
 | Shady Sidekicks - Part 2 | 0.10% | ~54 |
@@ -496,8 +496,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,694 (Ranked 59)  
-Completed: 1,843 (2.10%) (Ranked 60)  
+Progressed: 87,702 (Ranked 59)  
+Completed: 1,844 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,694 | 1,843 |
+| 2023-05-16 | 87,702 | 1,844 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,895 (Ranked 37)  

@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 895,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 218,
+  "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1482,10 +1482,10 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60305,
+  "EOS_Progressed": 60306,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 760,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 761,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -3947,6 +3947,11 @@
       "Time": "2023-05-16T20:05:13.0555517+00:00",
       "NumProgressed": 60305,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-16T21:06:14.0873091+00:00",
+      "NumProgressed": 60306,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -3958,7 +3963,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30152
+      "UsersEstimate": 30153
     },
     {
       "ID": "ACH_0011",
@@ -3966,7 +3971,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17488
+      "UsersEstimate": 17489
     },
     {
       "ID": "ACH_0012",
@@ -3990,7 +3995,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "ACH_0015",
@@ -4054,7 +4059,7 @@
       "Name": "Freebooter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "ACH_0061",
@@ -4102,7 +4107,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39198
+      "UsersEstimate": 39199
     },
     {
       "ID": "ACH_0210",
@@ -4126,7 +4131,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28343
+      "UsersEstimate": 28344
     },
     {
       "ID": "ACH_0300",
@@ -4198,7 +4203,7 @@
       "Name": "Classy Joint",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6030
+      "UsersEstimate": 6031
     },
     {
       "ID": "ACH_0440",
@@ -4253,7 +4258,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60305,
+      "Progressed": 60306,
       "Completed": 30
     }
   ],
@@ -4261,8 +4266,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-16T15:00:18.5824124+00:00",
-  "LastChanged_Achievements": "2023-05-16T20:05:13.0555512+00:00",
+  "LastChanged_Achievements": "2023-05-16T21:06:14.0873085+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-16T19:59:14.6030162+00:00",
-  "LastUpdate_Achievements": "2023-05-16T20:05:13.0555949+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:00:08.6920923+00:00",
+  "LastUpdate_Achievements": "2023-05-16T21:06:14.0873552+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2624,
+  "EOS_Progressed": 2625,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2023-05-16T19:05:16.4757032+00:00",
       "NumProgressed": 2624,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-16T21:06:16.2003243+00:00",
+      "NumProgressed": 2625,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -815,7 +820,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "bonus2",
@@ -951,7 +956,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "campaign20",
@@ -997,9 +1002,9 @@
       "ID": "campaign7",
       "SetID": "2h56gn1",
       "Name": "Maestro",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 761
+      "UsersEstimate": 735
     },
     {
       "ID": "campaign8",
@@ -1015,7 +1020,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "scenario1",
@@ -1047,7 +1052,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "scenario5",
@@ -1078,7 +1083,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2624,
+      "Progressed": 2625,
       "Completed": 9
     }
   ],
@@ -1086,8 +1091,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-16T20:05:14.7887689+00:00",
+  "LastChanged_Achievements": "2023-05-16T21:06:16.2003238+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-16T19:59:31.013717+00:00",
-  "LastUpdate_Achievements": "2023-05-16T20:05:14.7887992+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:00:25.3868375+00:00",
+  "LastUpdate_Achievements": "2023-05-16T21:06:16.2003583+00:00"
 }

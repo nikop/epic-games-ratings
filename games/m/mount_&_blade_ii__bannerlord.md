@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,512 |
+| Lawbringer | 35.00% | ~17,513 |
 | Landlord | 29.00% | ~14,510 |
-| Lawmaker | 21.00% | ~10,507 |
+| Lawmaker | 21.00% | ~10,508 |
 | Bannerlord | 20.00% | ~10,007 |
 | Horde breaker | 20.00% | ~10,007 |
 | Trained | 20.00% | ~10,007 |
-| The king is pleased | 16.00% | ~8,005 |
+| The king is pleased | 16.00% | ~8,006 |
 | King Solomon | 15.00% | ~7,505 |
 | I can do it | 14.00% | ~7,005 |
-| Apple of my eye | 13.00% | ~6,504 |
+| Apple of my eye | 13.00% | ~6,505 |
 | God of the Arena | 12.00% | ~6,004 |
 | Against all odds | 9.00% | ~4,503 |
 | Swordbearer | 9.00% | ~4,503 |
@@ -23,7 +23,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 8.00% | ~4,003 |
 | I spit on your grave | 8.00% | ~4,003 |
 | What have the Romans ever done for us? | 8.00% | ~4,003 |
-| Butterlord | 7.00% | ~3,502 |
+| Butterlord | 7.00% | ~3,503 |
 | Mastery | 6.00% | ~3,002 |
 | Know your enemy | 5.00% | ~2,502 |
 | This Is Our Land | 5.00% | ~2,502 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,033 (Ranked 74)  
+Progressed: 50,036 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,15 +84,15 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 49,748 | 0 |
 | 2023-05-14 | 49,864 | 0 |
 | 2023-05-15 | 49,956 | 0 |
-| 2023-05-16 | 50,033 | 0 |
+| 2023-05-16 | 50,036 | 0 |
 ## Awards
 Max (Character Customization): 6,537  (Ranked 49)  
-Sum: 13,039 (Ranked 68)  
+Sum: 13,043 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,537 |
-| This game is Great for Beginners | 806 |
+| This game is Great for Beginners | 810 |
 | This game has Diverse Characters | 800 |
 | This game is Highly Recommended | 773 |
 | This game is Extremely Fun | 735 |
@@ -227,4 +227,4 @@ Diff (max vs sum): -19
 | 2023-05-13 | 4.74 | - | 6,523 | 13,001 |
 | 2023-05-14 | 4.74 | - | 6,526 | 13,016 |
 | 2023-05-15 | 4.74 | - | 6,526 | 13,023 |
-| 2023-05-16 | 4.74 | - | 6,537 | 13,039 |
+| 2023-05-16 | 4.74 | - | 6,537 | 13,043 |

@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,803 |
-| Thorough | 9.00% | ~15,123 |
-| A thief's beginning | 7.00% | ~11,762 |
-| Tanuki Time | 7.00% | ~11,762 |
-| Disguised | 6.00% | ~10,082 |
-| Jonin | 6.00% | ~10,082 |
-| Rescue Takuma | 6.00% | ~10,082 |
-| Rollin' | 6.00% | ~10,082 |
+| Genin | 10.00% | ~16,804 |
+| Thorough | 9.00% | ~15,124 |
+| A thief's beginning | 7.00% | ~11,763 |
+| Tanuki Time | 7.00% | ~11,763 |
+| Disguised | 6.00% | ~10,083 |
+| Jonin | 6.00% | ~10,083 |
+| Rescue Takuma | 6.00% | ~10,083 |
+| Rollin' | 6.00% | ~10,083 |
 | Chunin | 5.00% | ~8,402 |
 | Happy Planning | 5.00% | ~8,402 |
 | Ice Ice Yuki | 5.00% | ~8,402 |
 | Mugen Unchained | 5.00% | ~8,402 |
 | Stoned Ox | 5.00% | ~8,402 |
 | Yabu | 5.00% | ~8,402 |
-| Flying Rocks | 4.00% | ~6,721 |
-| Okkoto | 4.00% | ~6,721 |
-| Prisoners | 4.00% | ~6,721 |
-| Too Early | 4.00% | ~6,721 |
-| Warzone | 4.00% | ~6,721 |
+| Flying Rocks | 4.00% | ~6,722 |
+| Okkoto | 4.00% | ~6,722 |
+| Prisoners | 4.00% | ~6,722 |
+| Too Early | 4.00% | ~6,722 |
+| Warzone | 4.00% | ~6,722 |
 | Gear up | 3.00% | ~5,041 |
 | Happy little accidents | 3.00% | ~5,041 |
 | Noboru | 3.00% | ~5,041 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~168 |
 | Release the Kraken | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,033 (Ranked 50)  
+Progressed: 168,043 (Ranked 50)  
 Completed: 44 (0.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,11 +77,11 @@ Completed: 44 (0.03%) (Ranked 180)
 | 2023-05-13 | 167,244 | 41 |
 | 2023-05-14 | 167,550 | 42 |
 | 2023-05-15 | 167,823 | 43 |
-| 2023-05-16 | 168,033 | 44 |
+| 2023-05-16 | 168,043 | 44 |
 ## Awards
 Max (Great for Beginners): 548  (Ranked 174)  
-Sum: 4,662 (Ranked 125)  
-Diff (max vs sum): 49  
+Sum: 4,662 (Ranked 126)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 548 |

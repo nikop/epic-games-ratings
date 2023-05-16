@@ -26,6 +26,7 @@
 | Divine Assemblage | 3.00% | ~85 |
 | Ophiolatreia | 3.00% | ~85 |
 | Comedy and Tragedy | 2.00% | ~56 |
+| Wayward Son of Hephaestus | 2.00% | ~56 |
 | Forged in Fire | 2.00% | ~56 |
 | Chthonic Investor | 2.00% | ~56 |
 | First Fragment | 2.00% | ~56 |
@@ -33,12 +34,12 @@
 | Labour of Apollo | 2.00% | ~56 |
 | Vandili | 2.00% | ~56 |
 | Cloaca Maxima | 2.00% | ~56 |
+| Baby Crabs They Ain't | 2.00% | ~56 |
 | Halls of Marble | 2.00% | ~56 |
 | Mors Omnibus | 2.00% | ~56 |
 | Blot Out the Sky | 2.00% | ~56 |
 | Serpentine | 2.00% | ~56 |
 | The Nameless One | 1.00% | ~28 |
-| Wayward Son of Hephaestus | 1.00% | ~28 |
 | Lament of the Constellations | 1.00% | ~28 |
 | Rule of Thirds | 1.00% | ~28 |
 | Rock and a Hard Place | 1.00% | ~28 |
@@ -51,7 +52,6 @@
 | The Archimedes Principle | 1.00% | ~28 |
 | Rites at Sea | 1.00% | ~28 |
 | Close Shut the Doors | 1.00% | ~28 |
-| Baby Crabs They Ain't | 1.00% | ~28 |
 | Scrap Metal | 1.00% | ~28 |
 | Invicta | 0.80% | ~23 |
 | Athenian Treasury | 0.70% | ~20 |

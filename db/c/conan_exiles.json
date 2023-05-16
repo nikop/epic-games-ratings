@@ -3,12 +3,12 @@
   "Name": "Conan Exiles",
   "ProductSlug": "conan-exiles",
   "Ranking_Rating": 465,
-  "Ranking_Popularity": 124,
+  "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
     "PcReleaseDate": "2018-05-08T16:00:00+00:00",
@@ -3193,18 +3193,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 8334,
       "NumberOfAwardsMax": 1171
+    },
+    {
+      "Time": "2023-05-16T21:00:21.410496+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 8341,
+      "NumberOfAwardsMax": 1176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8334,
-  "NumberOfAwardsMax": 1171,
+  "NumberOfAwards": 8341,
+  "NumberOfAwardsMax": 1176,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1171
+      "Count": 1176
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3222,7 +3228,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1100
+      "Count": 1102
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3266,8 +3272,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-05-16T18:59:30.0499946+00:00",
+  "LastChanged": "2023-05-16T21:00:21.4104959+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.0818973+00:00",
-  "LastUpdate_Ratings": "2023-05-16T19:59:28.0539792+00:00",
-  "LastUpdate_Achievements": "2023-05-16T20:04:12.3324841+00:00"
+  "LastUpdate_Ratings": "2023-05-16T21:00:21.4104965+00:00",
+  "LastUpdate_Achievements": "2023-05-16T21:04:49.5248895+00:00"
 }

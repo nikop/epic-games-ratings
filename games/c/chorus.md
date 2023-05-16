@@ -18,9 +18,9 @@ Number of Ratings: 58  (23.09.2022)
 | Old Days Born Anew | 63.00% | ~544 |
 | Full Arsenal | 58.00% | ~501 |
 | Controlled Demolition | 57.00% | ~492 |
+| Born to Drift | 54.00% | ~466 |
 | Payback | 54.00% | ~466 |
 | Huntress | 54.00% | ~466 |
-| Born to Drift | 53.00% | ~457 |
 | Relentless | 49.00% | ~423 |
 | The Path Forward | 47.00% | ~406 |
 | Disruption | 45.00% | ~388 |

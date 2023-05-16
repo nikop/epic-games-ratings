@@ -17,7 +17,7 @@
 | This is just the beginning... | 14.00% | ~10 |
 | Time is on my side | 11.00% | ~8 |
 | Unstoppable Curiosity | 10.00% | ~7 |
-| Gold Digger | 6.00% | ~4 |
+| Gold Digger | 7.00% | ~5 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 71 (Ranked 265)  

@@ -5,43 +5,43 @@ Rating: 4.40 (Ranked 668)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 67.00% | ~108,063 |
-| Destroyer-In-Chief | 60.00% | ~96,773 |
-| There Is No Pancakes | 57.00% | ~91,934 |
-| First of Many | 45.00% | ~72,580 |
-| Woah. | 40.00% | ~64,515 |
-| Don't Look Down | 32.00% | ~51,612 |
-| Don't Panic | 30.00% | ~48,386 |
-| Ooo A Piece of Candy! | 25.00% | ~40,322 |
-| Ghost in the Machine | 20.00% | ~32,258 |
-| All Too Easy | 17.00% | ~27,419 |
-| Didn't Need to See Him Naked | 15.00% | ~24,193 |
-| Indomitable | 11.00% | ~17,742 |
-| Bow to the Boss! | 10.00% | ~16,129 |
-| Friend of the Raptors | 10.00% | ~16,129 |
-| Blast from the Past | 9.00% | ~14,516 |
-| About Time! | 8.00% | ~12,903 |
-| Actor-Turned-Politician | 7.00% | ~11,290 |
-| Betrayed | 7.00% | ~11,290 |
-| Maximum Stopping Power | 7.00% | ~11,290 |
-| Poodle Skirt | 7.00% | ~11,290 |
-| You Chose... Poorly | 7.00% | ~11,290 |
-| Double Team | 6.00% | ~9,677 |
-| Imperator | 6.00% | ~9,677 |
-| Keymaster | 6.00% | ~9,677 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~8,064 |
-| ...A Saint Gets a Gun | 4.00% | ~6,452 |
-| Half Way Home | 4.00% | ~6,452 |
-| How It Should Be | 4.00% | ~6,452 |
-| Machine Man | 4.00% | ~6,452 |
-| The Full Kinzie | 4.00% | ~6,452 |
-| The Two Shaundis | 4.00% | ~6,452 |
-| And I Ran... | 3.00% | ~4,839 |
-| Chill Out | 3.00% | ~4,839 |
-| Elementary | 3.00% | ~4,839 |
-| On Her Saint's Secret Service | 3.00% | ~4,839 |
-| Paranormal Bromance | 3.00% | ~4,839 |
-| Saints & Sensibility | 3.00% | ~4,839 |
+| Zero Saints Thirty | 67.00% | ~108,084 |
+| Destroyer-In-Chief | 60.00% | ~96,791 |
+| There Is No Pancakes | 57.00% | ~91,952 |
+| First of Many | 45.00% | ~72,594 |
+| Woah. | 40.00% | ~64,528 |
+| Don't Look Down | 32.00% | ~51,622 |
+| Don't Panic | 30.00% | ~48,396 |
+| Ooo A Piece of Candy! | 25.00% | ~40,330 |
+| Ghost in the Machine | 20.00% | ~32,264 |
+| All Too Easy | 17.00% | ~27,424 |
+| Didn't Need to See Him Naked | 15.00% | ~24,198 |
+| Indomitable | 11.00% | ~17,745 |
+| Bow to the Boss! | 10.00% | ~16,132 |
+| Friend of the Raptors | 10.00% | ~16,132 |
+| Blast from the Past | 9.00% | ~14,519 |
+| About Time! | 8.00% | ~12,906 |
+| Actor-Turned-Politician | 7.00% | ~11,292 |
+| Betrayed | 7.00% | ~11,292 |
+| Maximum Stopping Power | 7.00% | ~11,292 |
+| Poodle Skirt | 7.00% | ~11,292 |
+| You Chose... Poorly | 7.00% | ~11,292 |
+| Double Team | 6.00% | ~9,679 |
+| Imperator | 6.00% | ~9,679 |
+| Keymaster | 6.00% | ~9,679 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~8,066 |
+| ...A Saint Gets a Gun | 4.00% | ~6,453 |
+| Half Way Home | 4.00% | ~6,453 |
+| How It Should Be | 4.00% | ~6,453 |
+| Machine Man | 4.00% | ~6,453 |
+| The Full Kinzie | 4.00% | ~6,453 |
+| The Two Shaundis | 4.00% | ~6,453 |
+| And I Ran... | 3.00% | ~4,840 |
+| Chill Out | 3.00% | ~4,840 |
+| Elementary | 3.00% | ~4,840 |
+| On Her Saint's Secret Service | 3.00% | ~4,840 |
+| Paranormal Bromance | 3.00% | ~4,840 |
+| Saints & Sensibility | 3.00% | ~4,840 |
 | Benjamin [CENSORED] King | 2.00% | ~3,226 |
 | Better This Way | 2.00% | ~3,226 |
 | Bouncin' with an Old Friend | 2.00% | ~3,226 |
@@ -57,10 +57,10 @@ Rating: 4.40 (Ranked 668)
 | Switch Hitter | 1.00% | ~1,613 |
 | The Whole Story | 1.00% | ~1,613 |
 | Zoo Keeper | 1.00% | ~1,613 |
-| Dear Santa | 0.80% | ~1,290 |
+| Dear Santa | 0.80% | ~1,291 |
 | Back in the Day | 0.70% | ~1,129 |
 | Rigging the Race | 0.70% | ~1,129 |
-| Health Inspector | 0.50% | ~806 |
+| Health Inspector | 0.50% | ~807 |
 | Bringin' the Heat | 0.40% | ~645 |
 | Walking the Dinosaur | 0.40% | ~645 |
 | Experimental Tech | 0.30% | ~484 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 668)
 | Super Power Team Up! | 0.10% | ~161 |
 | Ultimate Hot Potato | 0.10% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161,288 (Ranked 52)  
+Progressed: 161,319 (Ranked 52)  
 Completed: 7 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,14 +104,14 @@ Completed: 7 (0.00%) (Ranked 199)
 | 2023-05-13 | 158,502 | 7 |
 | 2023-05-14 | 159,688 | 7 |
 | 2023-05-15 | 160,559 | 7 |
-| 2023-05-16 | 161,288 | 7 |
+| 2023-05-16 | 161,319 | 7 |
 ## Awards
-Max (Great Boss Battles): 397  (Ranked 201)  
-Sum: 397 (Ranked 305)  
+Max (Great Boss Battles): 398  (Ranked 201)  
+Sum: 398 (Ranked 305)  
 Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 397 |
+| This game has Great Boss Battles | 398 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -150,3 +150,4 @@ Diff (max vs sum): -104
 | 2023-05-03 | 4.40 | 394 | 394 |
 | 2023-05-05 | 4.40 | 395 | 395 |
 | 2023-05-12 | 4.40 | 397 | 397 |
+| 2023-05-16 | 4.40 | 398 | 398 |

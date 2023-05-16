@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -304,7 +304,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 6168,
+  "EOS_Progressed": 6169,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 2,
@@ -1454,6 +1454,11 @@
       "Time": "2023-05-16T17:05:17.4147103+00:00",
       "NumProgressed": 6168,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-16T21:05:39.6431444+00:00",
+      "NumProgressed": 6169,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1593,7 +1598,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH18",
@@ -1625,7 +1630,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "ACH22",
@@ -1736,7 +1741,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6168,
+      "Progressed": 6169,
       "Completed": 22
     }
   ],
@@ -1744,8 +1749,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-10T19:59:39.8173766+00:00",
-  "LastChanged_Achievements": "2023-05-16T20:04:44.2667063+00:00",
+  "LastChanged_Achievements": "2023-05-16T21:05:39.6431439+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-16T19:57:51.0501+00:00",
-  "LastUpdate_Achievements": "2023-05-16T20:04:44.2667348+00:00"
+  "LastUpdate_Ratings": "2023-05-16T20:58:17.791843+00:00",
+  "LastUpdate_Achievements": "2023-05-16T21:05:39.6431777+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~491 |
-| Project Arena | 3.00% | ~368 |
+| Project Arena | 3.00% | ~369 |
 | Bloody Sport | 1.00% | ~123 |
 | The best strikes are the ones we avoid | 0.90% | ~111 |
 | The Hateful Pole Fighter | 0.80% | ~5,624 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,980 (Ranked 15)  
+Progressed: 702,983 (Ranked 15)  
 Completed: 12,728 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,10 +83,10 @@ Completed: 12,728 (1.81%) (Ranked 62)
 | 2023-05-13 | 702,892 | 12,725 |
 | 2023-05-14 | 702,934 | 12,726 |
 | 2023-05-15 | 702,957 | 12,726 |
-| 2023-05-16 | 702,980 | 12,728 |
+| 2023-05-16 | 702,983 | 12,728 |
 ## Awards
 Max (Great Boss Battles): 6,071  (Ranked 53)  
-Sum: 10,315 (Ranked 77)  
+Sum: 10,316 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -94,7 +94,7 @@ Diff (max vs sum): -24
 | This game has Diverse Characters | 510 |
 | This game has Challenging Combat | 506 |
 | This game has Quickly Understood Controls | 497 |
-| This game is Extremely Fun | 495 |
+| This game is Extremely Fun | 496 |
 | This game has Amazing Storytelling | 489 |
 | This game is Highly Recommended | 476 |
 | This game has Amazing Characters | 473 |
@@ -225,4 +225,4 @@ Diff (max vs sum): -24
 | 2023-05-13 | 4.82 | - | 6,063 | 10,288 |
 | 2023-05-14 | 4.82 | - | 6,063 | 10,298 |
 | 2023-05-15 | 4.82 | - | 6,068 | 10,306 |
-| 2023-05-16 | 4.82 | - | 6,071 | 10,315 |
+| 2023-05-16 | 4.82 | - | 6,071 | 10,316 |

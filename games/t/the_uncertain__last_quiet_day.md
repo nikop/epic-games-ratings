@@ -13,14 +13,14 @@
 | Curious | 41.00% | ~179 |
 | Everybody lies | 36.00% | ~157 |
 | Trick or Treat? | 24.00% | ~105 |
+| There is another way | 23.00% | ~101 |
 | Sysadmin | 22.00% | ~96 |
-| There is another way | 22.00% | ~96 |
 | The Walking Robot Among Us | 21.00% | ~92 |
 | Annoying | 20.00% | ~87 |
 | Every little helps | 20.00% | ~87 |
+| Hacker | 20.00% | ~87 |
+| He is just a child | 20.00% | ~87 |
 | Uncertain | 20.00% | ~87 |
-| Hacker | 19.00% | ~83 |
-| He is just a child | 19.00% | ~83 |
 | Ace | 17.00% | ~74 |
 | Goody | 17.00% | ~74 |
 | Hipster | 17.00% | ~74 |
