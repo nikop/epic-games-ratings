@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -470,9 +470,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ETUA_StayDead",
@@ -510,9 +510,9 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -526,9 +526,9 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -591,8 +591,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-16T04:03:03.1492562+00:00",
+  "LastChanged_Achievements": "2023-05-16T05:03:08.7306612+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-16T03:57:12.9452598+00:00",
-  "LastUpdate_Achievements": "2023-05-16T04:03:03.1492884+00:00"
+  "LastUpdate_Ratings": "2023-05-16T04:57:32.3788429+00:00",
+  "LastUpdate_Achievements": "2023-05-16T05:03:08.7307263+00:00"
 }

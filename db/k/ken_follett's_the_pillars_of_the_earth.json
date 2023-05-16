@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12461,
+  "EOS_Progressed": 12462,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1960,6 +1960,11 @@
       "Time": "2023-05-15T23:04:32.3478633+00:00",
       "NumProgressed": 12461,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-16T05:06:16.5009704+00:00",
+      "NumProgressed": 12462,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -1987,7 +1992,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3116
     },
     {
       "ID": "tpote_achievement_12",
@@ -2011,7 +2016,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "tpote_achievement_15",
@@ -2035,7 +2040,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "tpote_achievement_18",
@@ -2059,7 +2064,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "tpote_achievement_20",
@@ -2179,7 +2184,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "tpote_achievement_34",
@@ -2203,7 +2208,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "tpote_achievement_37",
@@ -2227,7 +2232,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "tpote_achievement_4",
@@ -2243,7 +2248,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "tpote_achievement_41",
@@ -2251,7 +2256,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "tpote_achievement_5",
@@ -2259,7 +2264,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3116
     },
     {
       "ID": "tpote_achievement_6",
@@ -2267,7 +2272,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3116
     },
     {
       "ID": "tpote_achievement_7",
@@ -2283,7 +2288,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "tpote_achievement_9",
@@ -2298,15 +2303,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12461,
+      "Progressed": 12462,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-16T04:06:03.5301493+00:00",
+  "LastChanged_Achievements": "2023-05-16T05:06:16.5009696+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-16T04:00:40.6675117+00:00",
-  "LastUpdate_Achievements": "2023-05-16T04:06:03.5301915+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:00:56.0489984+00:00",
+  "LastUpdate_Achievements": "2023-05-16T05:06:16.5010283+00:00"
 }

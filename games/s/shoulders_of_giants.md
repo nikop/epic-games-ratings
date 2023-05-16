@@ -5,27 +5,27 @@ Rating: 4.32 (Ranked 742)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,730 |
-| A Ribbiting Performance | 78.00% | ~1,533 |
-| At Least We Have Each Other... | 77.00% | ~1,514 |
-| Frogbot | 73.00% | ~1,435 |
-| Ouch | 56.00% | ~1,101 |
-| Fun in the Stun | 56.00% | ~1,101 |
-| Do you feel like a tough guy? | 46.00% | ~904 |
-| The Interdimensional Power of Friendship | 45.00% | ~885 |
-| Turn Up The HEAT | 41.00% | ~806 |
-| Stop Hitting Yourself! | 35.00% | ~688 |
-| Nothing to Wear | 31.00% | ~609 |
-| The First Law of Thermodynamics | 28.00% | ~550 |
+| On the Shoulders of Giants | 88.00% | ~1,734 |
+| A Ribbiting Performance | 78.00% | ~1,537 |
+| At Least We Have Each Other... | 77.00% | ~1,517 |
+| Frogbot | 73.00% | ~1,438 |
+| Ouch | 56.00% | ~1,103 |
+| Fun in the Stun | 56.00% | ~1,103 |
+| Do you feel like a tough guy? | 45.00% | ~886 |
+| The Interdimensional Power of Friendship | 45.00% | ~886 |
+| Turn Up The HEAT | 41.00% | ~808 |
+| Stop Hitting Yourself! | 35.00% | ~690 |
+| Nothing to Wear | 31.00% | ~611 |
+| The First Law of Thermodynamics | 28.00% | ~552 |
 | Do you trust me? | 16.00% | ~315 |
-| The Second Law of Thermodynamics | 14.00% | ~275 |
+| The Second Law of Thermodynamics | 14.00% | ~276 |
 | The Third Law of Thermodynamics | 9.00% | ~177 |
-| Say "Cheese!" | 8.00% | ~157 |
-| Taking Out the Trash | 8.00% | ~157 |
+| Say "Cheese!" | 8.00% | ~158 |
+| Taking Out the Trash | 8.00% | ~158 |
 | Better Than the Devs | 4.00% | ~79 |
 | So do we just stay up here, or?... | 2.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,966 (Ranked 144)  
+Progressed: 1,970 (Ranked 144)  
 Completed: 8 (0.41%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 8 (0.41%) (Ranked 110)
 | 2023-05-13 | 1,930 | 8 |
 | 2023-05-14 | 1,952 | 8 |
 | 2023-05-15 | 1,963 | 8 |
-| 2023-05-16 | 1,966 | 8 |
+| 2023-05-16 | 1,970 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

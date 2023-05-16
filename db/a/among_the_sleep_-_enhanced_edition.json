@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70925,
+  "EOS_Progressed": 70927,
   "EOS_Completed": 330,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2783,6 +2783,11 @@
       "Time": "2023-05-16T04:06:50.1813919+00:00",
       "NumProgressed": 70925,
       "NumCompleted": 330
+    },
+    {
+      "Time": "2023-05-16T05:07:02.4141275+00:00",
+      "NumProgressed": 70927,
+      "NumCompleted": 330
     }
   ],
   "TotalAchievements": 10,
@@ -2850,7 +2855,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7092
+      "UsersEstimate": 7093
     },
     {
       "ID": "Level00BowlingStrike",
@@ -2858,7 +2863,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 25533
+      "UsersEstimate": 25534
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -2873,15 +2878,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 70925,
+      "Progressed": 70927,
       "Completed": 330
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-16T04:06:50.1813912+00:00",
+  "LastChanged_Achievements": "2023-05-16T05:07:02.4141264+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:18.93757+00:00",
-  "LastUpdate_Ratings": "2023-05-16T04:01:15.3675078+00:00",
-  "LastUpdate_Achievements": "2023-05-16T04:06:50.1814168+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:01:32.1424715+00:00",
+  "LastUpdate_Achievements": "2023-05-16T05:07:02.4141757+00:00"
 }

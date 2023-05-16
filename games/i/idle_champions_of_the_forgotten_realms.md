@@ -109,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hatchlings Underfoot | 0.20% | ~175 |
 | Don't Look Up! | 0.20% | ~175 |
 | Will of the Feywild | 0.20% | ~108 |
+| Will of the Frozen Feywild | 0.20% | ~108 |
 | The Roots of Loomlurch | 0.20% | ~108 |
 | The Lutes of Loomlurch | 0.20% | ~108 |
 | Best Laid Plans | 0.20% | ~108 |
@@ -327,7 +328,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.10% | ~54 |
 | Speed Demons | 0.10% | ~54 |
 | All Damage, All The Time | 0.10% | ~54 |
-| Will of the Frozen Feywild | 0.10% | ~54 |
 | The Loots of Loomlurch | 0.10% | ~54 |
 | Pincushion Party | 0.10% | ~54 |
 | G. O. A. T. | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,620 (Ranked 59)  
+Progressed: 87,625 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,620 | 1,843 |
+| 2023-05-16 | 87,625 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,893 (Ranked 37)  

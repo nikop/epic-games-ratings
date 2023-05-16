@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458113,
+  "EOS_Progressed": 458114,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2753,6 +2753,11 @@
       "Time": "2023-05-16T04:06:44.0887481+00:00",
       "NumProgressed": 458113,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-16T05:06:56.5339099+00:00",
+      "NumProgressed": 458114,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2916,7 +2921,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50392
+      "UsersEstimate": 50393
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -2948,7 +2953,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151177
+      "UsersEstimate": 151178
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -3212,7 +3217,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 50392
+      "UsersEstimate": 50393
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -3283,21 +3288,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2047,
-      "Completed": 2047
+      "Progressed": 2048,
+      "Completed": 2048
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458113,
+      "Progressed": 458114,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-16T04:06:44.0887474+00:00",
+  "LastChanged_Achievements": "2023-05-16T05:06:56.5339092+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-16T03:59:46.3768363+00:00",
-  "LastUpdate_Achievements": "2023-05-16T04:06:44.0888204+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:00:03.1989433+00:00",
+  "LastUpdate_Achievements": "2023-05-16T05:06:56.5339928+00:00"
 }

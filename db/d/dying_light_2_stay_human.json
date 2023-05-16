@@ -4579,9 +4579,9 @@
       "Count": 451
     }
   ],
-  "EOS_Progressed": 547776,
+  "EOS_Progressed": 547783,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 4103,
+  "EOS_NewPlayers": 4095,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7004,6 +7004,11 @@
       "Time": "2023-05-16T04:07:00.9649975+00:00",
       "NumProgressed": 547776,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-16T05:07:12.9605128+00:00",
+      "NumProgressed": 547783,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 65,
@@ -7015,7 +7020,7 @@
       "Name": "Into the Unknown",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43822
+      "UsersEstimate": 43823
     },
     {
       "ID": "achievement_02",
@@ -7023,7 +7028,7 @@
       "Name": "First Shot",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43822
+      "UsersEstimate": 43823
     },
     {
       "ID": "achievement_03",
@@ -7031,7 +7036,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 38344
+      "UsersEstimate": 38345
     },
     {
       "ID": "achievement_04",
@@ -7151,7 +7156,7 @@
       "Name": "Sancho Panza",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38344
+      "UsersEstimate": 38345
     },
     {
       "ID": "achievement_19",
@@ -7303,7 +7308,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38344
+      "UsersEstimate": 38345
     },
     {
       "ID": "achievement_38",
@@ -7534,21 +7539,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 547776,
+      "Progressed": 547783,
       "Completed": 47
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 193220,
+      "Progressed": 193227,
       "Completed": 1414
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-05-15T22:00:44.3978075+00:00",
-  "LastChanged_Achievements": "2023-05-16T04:07:00.9649965+00:00",
+  "LastChanged_Achievements": "2023-05-16T05:07:12.9605119+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.2442045+00:00",
-  "LastUpdate_Ratings": "2023-05-16T04:00:36.3142885+00:00",
-  "LastUpdate_Achievements": "2023-05-16T04:07:00.9650879+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:00:51.9790567+00:00",
+  "LastUpdate_Achievements": "2023-05-16T05:07:12.9606706+00:00"
 }

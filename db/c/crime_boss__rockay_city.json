@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 895,
-  "Ranking_Popularity": 234,
+  "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1470,10 +1470,10 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60245,
+  "EOS_Progressed": 60246,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 795,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 792,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -3855,6 +3855,11 @@
       "Time": "2023-05-16T04:06:52.9445615+00:00",
       "NumProgressed": 60245,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-16T05:07:05.198912+00:00",
+      "NumProgressed": 60246,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -3866,7 +3871,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30122
+      "UsersEstimate": 30123
     },
     {
       "ID": "ACH_0011",
@@ -3882,7 +3887,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12651
+      "UsersEstimate": 12652
     },
     {
       "ID": "ACH_0013",
@@ -4010,7 +4015,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "ACH_0210",
@@ -4018,7 +4023,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 43979
+      "UsersEstimate": 43980
     },
     {
       "ID": "ACH_0211",
@@ -4034,7 +4039,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28315
+      "UsersEstimate": 28316
     },
     {
       "ID": "ACH_0300",
@@ -4082,7 +4087,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20483
+      "UsersEstimate": 20484
     },
     {
       "ID": "ACH_0420",
@@ -4106,7 +4111,7 @@
       "Name": "Classy Joint",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6024
+      "UsersEstimate": 6025
     },
     {
       "ID": "ACH_0440",
@@ -4161,7 +4166,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60245,
+      "Progressed": 60246,
       "Completed": 29
     }
   ],
@@ -4169,8 +4174,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-16T04:00:40.8606441+00:00",
-  "LastChanged_Achievements": "2023-05-16T04:06:52.9445609+00:00",
+  "LastChanged_Achievements": "2023-05-16T05:07:05.1989113+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-16T04:00:40.860645+00:00",
-  "LastUpdate_Achievements": "2023-05-16T04:06:52.9446043+00:00"
+  "LastUpdate_Ratings": "2023-05-16T05:00:56.2533009+00:00",
+  "LastUpdate_Achievements": "2023-05-16T05:07:05.1989604+00:00"
 }
