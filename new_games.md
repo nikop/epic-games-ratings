@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Tin Hearts](games/5/5d1128dd0a214b64ad9356749b140e3d.md) | 2023-05-16 | 2023-05-16 |
 | [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
 | [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-15 | 2023-05-15 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-15 | 2023-01-14 |

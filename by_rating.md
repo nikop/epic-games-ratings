@@ -195,7 +195,7 @@
 | 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,526 | 67 |
 | 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 492 |
 | 192 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 338 | 213 |
-| 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,205 | 70 |
+| 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,210 | 70 |
 | 192 | [For The King](games/f/for_the_king.md) | 4.70 | 363 | 209 |
 | 192 | [House Flipper](games/h/house_flipper.md) | 4.70 | 285 | 226 |
 | 192 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 388 |
@@ -213,7 +213,7 @@
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,276 | 69 |
 | 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 492 |
 | 213 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 492 |
-| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,257 | 8 |
+| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,305 | 8 |
 | 213 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 492 |
 | 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,753 | 77 |
 | 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 492 |
@@ -256,7 +256,7 @@
 | 235 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 85 | 341 |
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 492 |
 | 256 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 492 |
-| 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,736 | 47 |
+| 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,764 | 47 |
 | 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 492 |
 | 256 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 32 | 435 |
 | 256 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.67 | 0 | 492 |

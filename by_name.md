@@ -302,7 +302,7 @@
 | [Boom Blaster](games/b/boom_blaster.md) | - | - | 0 | - |
 | [Boomerang X](games/b/boomerang_x.md) | - | - | 0 | - |
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 115 | 14,191 | 23 |
-| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 213 | 109,257 | 8 |
+| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 213 | 109,305 | 8 |
 | [Borderlands: The Handsome Collection](games/b/borderlands__the_handsome_collection.md) | - | - | - | - |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 554 | 395 | 202 |
 | [Bosorka](games/b/bosorka.md) | - | - | 0 | - |
@@ -509,7 +509,7 @@
 | [Dark Future: Blood Red States](games/d/dark_future__blood_red_states.md) | - | - | 0 | - |
 | [Dark Light](games/d/dark_light.md) | 4.33 | 735 | 0 | 492 |
 | [Dark Matter](games/d/dark_matter.md) | - | - | 0 | - |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 256 | 6,736 | 47 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 256 | 6,764 | 47 |
 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 128 | 3,186 | 84 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 531 | 38 | 414 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 354 | 375 | 205 |
@@ -763,7 +763,7 @@
 | [Farm Day 2023](games/f/farm_day_2023.md) | - | - | 0 | - |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 818 | 0 | 492 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 178 | 6,279 | 50 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 192 | 4,205 | 70 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 192 | 4,210 | 70 |
 | [Fashion Police Squad](games/f/fashion_police_squad.md) | - | - | 0 | - |
 | [Fata Deum](games/f/fata_deum.md) | - | - | - | - |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 900 | 103 | 320 |
@@ -1813,8 +1813,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 178 | 152 | 283 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 642 | 264 | 237 |

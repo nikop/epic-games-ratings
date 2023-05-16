@@ -7,7 +7,7 @@
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 169,943 | 4.68 | 235 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 140,697 | 4.89 | 11 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 138,683 | 4.53 | 490 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,257 | 4.69 | 213 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,305 | 4.69 | 213 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 64,276 | 4.62 | 338 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,789 | 4.59 | 397 |
 | 11 | [VALORANT](games/v/valorant.md) | 52,594 | 4.54 | 477 |
@@ -46,7 +46,7 @@
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,062 | 4.57 | 430 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,977 | 4.89 | 11 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,822 | 4.47 | 579 |
-| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,736 | 4.67 | 256 |
+| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,764 | 4.67 | 256 |
 | 48 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 642 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,537 | 4.74 | 140 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,279 | 4.71 | 178 |
@@ -69,7 +69,7 @@
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,526 | 4.70 | 192 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,455 | 4.65 | 291 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,276 | 4.70 | 192 |
-| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,205 | 4.70 | 192 |
+| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,210 | 4.70 | 192 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,086 | 4.51 | 515 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,069 | 4.61 | 354 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,985 | 4.88 | 18 |
