@@ -5,10 +5,10 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,041 |
-| The One Who Mastered Memories | 6.00% | ~16,041 |
-| The Hallowed Hero | 6.00% | ~16,041 |
-| The Hero of Hogwarts | 6.00% | ~16,041 |
+| Grappling with a Graphorn | 6.00% | ~16,042 |
+| The One Who Mastered Memories | 6.00% | ~16,042 |
+| The Hallowed Hero | 6.00% | ~16,042 |
+| The Hero of Hogwarts | 6.00% | ~16,042 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,368 |
 | The Defender of Dragons | 5.00% | ~13,368 |
 | A Sallow Grave | 5.00% | ~13,368 |
@@ -45,13 +45,13 @@ Rating: 4.77 (Ranked 103)
 | The Wise Owl | 1.00% | ~2,674 |
 | Demiguise Dread | 0.80% | ~2,139 |
 | A Forte for Achievement | 0.80% | ~2,139 |
-| Savvy Spender | 0.70% | ~1,871 |
+| Savvy Spender | 0.70% | ~1,872 |
 | Merlin's Beard! | 0.60% | ~1,604 |
 | Spilled Milk | 0.50% | ~1,337 |
 | The Nature of the Beast | 0.40% | ~1,069 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,351 (Ranked 38)  
+Progressed: 267,359 (Ranked 38)  
 Completed: 362 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 362 (0.14%) (Ranked 149)
 | 2023-05-13 | 266,911 | 361 |
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
-| 2023-05-16 | 267,351 | 362 |
+| 2023-05-16 | 267,359 | 362 |
 ## Awards
 Max (Character Customization): 18,815  (Ranked 18)  
 Sum: 34,514 (Ranked 33)  

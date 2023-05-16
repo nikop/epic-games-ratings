@@ -4,7 +4,7 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 2620,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 86,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": -1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-05-16T17:05:14.0219526+00:00",
       "NumProgressed": 87,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T19:04:42.99846+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -58,7 +63,7 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
       "UsersEstimate": 84
     },
@@ -74,7 +79,7 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 105,
+      "Percentage": 106,
       "XP": 5,
       "UsersEstimate": 91
     },
@@ -106,9 +111,9 @@
       "ID": "ACH_DEFEAT_TIANWU_TPSN",
       "SetID": "6d82akp",
       "Name": "Defeat the AI",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_DEFEAT_ZFGZ_TPSN",
@@ -162,9 +167,9 @@
       "ID": "ACH_ENDING_PRISON",
       "SetID": "6d82akp",
       "Name": "Reappearance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ENDING_SIMULATE",
@@ -226,7 +231,7 @@
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
       "UsersEstimate": 60
     },
@@ -250,7 +255,7 @@
       "ID": "ACH_KILL_MANY_LONGXIGUY",
       "SetID": "6d82akp",
       "Name": "King of the Streets",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -266,7 +271,7 @@
       "ID": "ACH_KILL_XFGZ_SEABASE",
       "SetID": "6d82akp",
       "Name": "Elimination",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -330,7 +335,7 @@
       "ID": "ACH_PASS_PREFACE_ON_ROOF",
       "SetID": "6d82akp",
       "Name": "Unavoidable",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 55
     },
@@ -338,7 +343,7 @@
       "ID": "ACH_SAVE_LISBETH_TIMEOUT",
       "SetID": "6d82akp",
       "Name": "Unsalvageable",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -346,7 +351,7 @@
       "ID": "ACH_SAVE_LIZBETH",
       "SetID": "6d82akp",
       "Name": "Fleet-footed",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -354,7 +359,7 @@
       "ID": "ACH_SAVE_LIZBETH_WIFE",
       "SetID": "6d82akp",
       "Name": "Invincible",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -370,7 +375,7 @@
       "ID": "ACH_SURVIVE_OGATA",
       "SetID": "6d82akp",
       "Name": "Fluke",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -458,7 +463,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 5,
       "UsersEstimate": 85
     },
@@ -474,7 +479,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
       "UsersEstimate": 75
     },
@@ -482,7 +487,7 @@
       "ID": "ACH_UNPLUG_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Revenge",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -506,7 +511,7 @@
       "ID": "ACH_XFGZ_FALL_SEABASE",
       "SetID": "6d82akp",
       "Name": "Victor\u0027s Prejudice",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 30
     }
@@ -515,7 +520,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 86,
       "Completed": 0
     }
   ],
@@ -523,8 +528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-05-16T18:05:08.6739756+00:00",
+  "LastChanged_Achievements": "2023-05-16T19:04:42.9984596+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:32.6380348+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:59:35.1549046+00:00",
-  "LastUpdate_Achievements": "2023-05-16T18:05:08.6740213+00:00"
+  "LastUpdate_Ratings": "2023-05-16T18:59:04.1591409+00:00",
+  "LastUpdate_Achievements": "2023-05-16T19:04:42.9985002+00:00"
 }

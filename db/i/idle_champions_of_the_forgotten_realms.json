@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3742,9 +3742,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87681,
+  "EOS_Progressed": 87688,
   "EOS_Completed": 1843,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6157,6 +6157,11 @@
       "Time": "2023-05-16T18:05:55.8344473+00:00",
       "NumProgressed": 87681,
       "NumCompleted": 1843
+    },
+    {
+      "Time": "2023-05-16T19:05:23.180804+00:00",
+      "NumProgressed": 87688,
+      "NumCompleted": 1843
     }
   ],
   "TotalAchievements": 489,
@@ -7848,7 +7853,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "objective_completed_35",
@@ -8302,9 +8307,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 526
     },
     {
       "ID": "objective_completed_54",
@@ -8630,9 +8635,9 @@
       "ID": "objective_completed_586",
       "SetID": "cc37lbc",
       "Name": "On The Job Learning",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_completed_587",
@@ -10079,21 +10084,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53955,
+      "Progressed": 53962,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87681,
+      "Progressed": 87688,
       "Completed": 1843
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T09:57:38.7579752+00:00",
-  "LastChanged_Achievements": "2023-05-16T18:05:55.834447+00:00",
+  "LastChanged_Achievements": "2023-05-16T19:05:23.1808036+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:57:54.580948+00:00",
-  "LastUpdate_Achievements": "2023-05-16T18:05:55.8367182+00:00"
+  "LastUpdate_Ratings": "2023-05-16T18:57:46.8017487+00:00",
+  "LastUpdate_Achievements": "2023-05-16T19:05:23.1829869+00:00"
 }

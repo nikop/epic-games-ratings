@@ -12,12 +12,12 @@ Rating: 4.55 (Ranked 465)
 | Guy de Borderlands | 1.00% | ~19 |
 | Space Society | 1.00% | ~19 |
 | A Thousand Strong | 1.00% | ~19 |
+| Fully Recycled | 1.00% | ~19 |
 | Ready for a New World | 1.00% | ~19 |
 | Breaking Protocol | 1.00% | ~19 |
 | Permanent Redesigns | 1.00% | ~19 |
 | Ain't Nobody Got Time for That | 1.00% | ~19 |
 | Hope Seeker | 1.00% | ~19 |
-| Fully Recycled | 0.90% | ~17 |
 | The Ship of Theseus | 0.90% | ~17 |
 | A Hunk of Junk | 0.70% | ~13 |
 | Exceeding Capacity | 0.70% | ~13 |
@@ -33,6 +33,7 @@ Rating: 4.55 (Ranked 465)
 | Man's Best Friend | 0.30% | ~6 |
 | ...  in a finite world | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |
+| Delivery! | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |
 | Pulsar Disciple | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
@@ -42,7 +43,6 @@ Rating: 4.55 (Ranked 465)
 | Catastrophe Avoided | 0.20% | ~4 |
 | Praise the Hull! | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
-| Delivery! | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
 | What the Ruins Teach Us | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |

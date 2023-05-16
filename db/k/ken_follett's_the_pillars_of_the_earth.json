@@ -465,7 +465,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12472,
+  "EOS_Progressed": 12473,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
@@ -1990,6 +1990,11 @@
       "Time": "2023-05-16T18:05:02.9348633+00:00",
       "NumProgressed": 12472,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-16T19:04:38.2901957+00:00",
+      "NumProgressed": 12473,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2041,7 +2046,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "tpote_achievement_15",
@@ -2089,7 +2094,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "tpote_achievement_20",
@@ -2105,7 +2110,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3866
+      "UsersEstimate": 3867
     },
     {
       "ID": "tpote_achievement_22",
@@ -2113,7 +2118,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "tpote_achievement_23",
@@ -2209,7 +2214,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "tpote_achievement_34",
@@ -2233,7 +2238,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "tpote_achievement_37",
@@ -2257,7 +2262,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "tpote_achievement_4",
@@ -2265,7 +2270,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "tpote_achievement_40",
@@ -2273,7 +2278,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "tpote_achievement_41",
@@ -2281,7 +2286,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "tpote_achievement_5",
@@ -2328,15 +2333,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12472,
+      "Progressed": 12473,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-16T18:05:02.9348629+00:00",
+  "LastChanged_Achievements": "2023-05-16T19:04:38.2901954+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:59:55.7859117+00:00",
-  "LastUpdate_Achievements": "2023-05-16T18:05:02.9349027+00:00"
+  "LastUpdate_Ratings": "2023-05-16T18:59:19.2955243+00:00",
+  "LastUpdate_Achievements": "2023-05-16T19:04:38.2902287+00:00"
 }

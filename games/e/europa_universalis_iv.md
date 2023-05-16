@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,409 |
-| That's a Grand Army | 8.00% | ~3,030 |
-| That is mine! | 8.00% | ~3,030 |
-| Victorious! | 8.00% | ~3,030 |
-| Brothers in Arms | 6.00% | ~2,273 |
-| That's a Grand Navy | 6.00% | ~2,273 |
-| Seriously?! | 6.00% | ~2,273 |
-| For the Glory | 5.00% | ~1,894 |
-| Cold War | 4.00% | ~1,515 |
-| True Catholic | 4.00% | ~1,515 |
-| Defender of the Faith | 3.00% | ~1,136 |
-| It's all about the money | 3.00% | ~1,136 |
-| Respected | 3.00% | ~1,136 |
-| Truly Divine Ruler | 3.00% | ~1,136 |
+| Until death do us apart | 9.00% | ~3,412 |
+| That's a Grand Army | 8.00% | ~3,033 |
+| That is mine! | 8.00% | ~3,033 |
+| Victorious! | 8.00% | ~3,033 |
+| Brothers in Arms | 6.00% | ~2,275 |
+| That's a Grand Navy | 6.00% | ~2,275 |
+| Seriously?! | 6.00% | ~2,275 |
+| For the Glory | 5.00% | ~1,896 |
+| Cold War | 4.00% | ~1,517 |
+| True Catholic | 4.00% | ~1,517 |
+| Defender of the Faith | 3.00% | ~1,137 |
+| It's all about the money | 3.00% | ~1,137 |
+| Respected | 3.00% | ~1,137 |
+| Truly Divine Ruler | 3.00% | ~1,137 |
 | Blockader | 2.00% | ~758 |
 | Combined Arms | 2.00% | ~758 |
 | Double the Love | 2.00% | ~758 |
@@ -40,15 +40,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.80% | ~303 |
 | Market Control | 0.80% | ~303 |
 | The Five Colonies | 0.80% | ~303 |
+| Down Under | 0.70% | ~265 |
 | The Emperors new clothes | 0.70% | ~265 |
 | This navy can take it all | 0.70% | ~265 |
-| Down Under | 0.60% | ~227 |
 | Trustworthy | 0.60% | ~227 |
-| All belongs to Mother Russia | 0.50% | ~189 |
-| At every continent | 0.50% | ~189 |
-| Early-Modern Warfare | 0.50% | ~189 |
-| Electable! | 0.50% | ~189 |
-| Time Bandit | 0.50% | ~189 |
+| All belongs to Mother Russia | 0.50% | ~190 |
+| At every continent | 0.50% | ~190 |
+| Early-Modern Warfare | 0.50% | ~190 |
+| Electable! | 0.50% | ~190 |
+| Time Bandit | 0.50% | ~190 |
 | Absolutely | 0.40% | ~152 |
 | Dude, Where's my Boat? | 0.40% | ~152 |
 | In the Name of the Father | 0.40% | ~152 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,879 (Ranked 81)  
+Progressed: 37,916 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 36,053 | 0 |
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
-| 2023-05-16 | 37,879 | 0 |
+| 2023-05-16 | 37,916 | 0 |
 ## Awards
 Max (Educational): 5,223  (Ranked 60)  
 Sum: 43,268 (Ranked 27)  

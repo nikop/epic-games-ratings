@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 105.00% | ~91 |
-| Every little bit counts | 98.00% | ~85 |
-| Break no Sweat | 97.00% | ~84 |
-| Growth | 86.00% | ~75 |
-| Targeting the Enemy | 69.00% | ~60 |
-| Unavoidable | 63.00% | ~55 |
-| Revenge | 62.00% | ~54 |
+| Black Cat's Warning | 106.00% | ~91 |
+| Every little bit counts | 99.00% | ~85 |
+| Break no Sweat | 98.00% | ~84 |
+| Growth | 87.00% | ~75 |
+| Targeting the Enemy | 70.00% | ~60 |
+| Unavoidable | 64.00% | ~55 |
+| Revenge | 63.00% | ~54 |
 | Reunion | 43.00% | ~37 |
-| Fluke | 34.00% | ~30 |
-| Victor's Prejudice | 34.00% | ~30 |
-| Elimination | 33.00% | ~29 |
+| Fluke | 35.00% | ~30 |
+| Victor's Prejudice | 35.00% | ~30 |
+| Elimination | 34.00% | ~29 |
 | Excellent Driving Skills | 30.00% | ~26 |
 | Memento | 30.00% | ~26 |
 | Once Bitten, Twice Shy | 29.00% | ~25 |
-| Fleet-footed | 26.00% | ~23 |
-| Defeat the AI | 25.00% | ~22 |
-| Unsalvageable | 25.00% | ~22 |
-| Invincible | 25.00% | ~22 |
+| Defeat the AI | 27.00% | ~23 |
+| Fleet-footed | 27.00% | ~23 |
+| Unsalvageable | 26.00% | ~22 |
+| Invincible | 26.00% | ~22 |
 | Neutralize | 24.00% | ~21 |
 | Best in Dragon City | 23.00% | ~20 |
 | Walking into a Trap | 23.00% | ~20 |
 | Disdain | 21.00% | ~18 |
 | Final Battle | 20.00% | ~17 |
 | Outsider's Profit | 20.00% | ~17 |
+| Reappearance | 16.00% | ~14 |
 | Brain in a Vat | 16.00% | ~14 |
-| Reappearance | 15.00% | ~13 |
-| King of the Streets | 11.00% | ~10 |
+| King of the Streets | 12.00% | ~10 |
 | Calamity | 10.00% | ~9 |
 | Survival Expert | 10.00% | ~9 |
 | Rest in peace | 9.00% | ~8 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 255)  
+Progressed: 86 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

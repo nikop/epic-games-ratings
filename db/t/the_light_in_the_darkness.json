@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1285,
+  "EOS_Progressed": 1287,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 7.78,
+  "EOS_Completed_Percentage": 7.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1163,6 +1163,11 @@
       "Time": "2023-05-16T18:05:32.2701942+00:00",
       "NumProgressed": 1285,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-05-16T19:05:02.9279941+00:00",
+      "NumProgressed": 1287,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 12,
@@ -1182,7 +1187,7 @@
       "Name": "Bernard",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Building the Fox",
@@ -1198,7 +1203,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Jacques a Dit",
@@ -1238,7 +1243,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1252,9 +1257,9 @@
       "ID": "Nazis in Paris",
       "SetID": "b40dflc",
       "Name": "Nazis in Paris",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 309
     },
     {
       "ID": "Nuremberg Laws",
@@ -1262,14 +1267,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1285,
+      "Progressed": 1287,
       "Completed": 100
     }
   ],
@@ -1277,8 +1282,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-16T18:05:32.2701938+00:00",
+  "LastChanged_Achievements": "2023-05-16T19:05:02.9279938+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:59:33.1279637+00:00",
-  "LastUpdate_Achievements": "2023-05-16T18:05:32.2702097+00:00"
+  "LastUpdate_Ratings": "2023-05-16T18:59:02.4696882+00:00",
+  "LastUpdate_Achievements": "2023-05-16T19:05:02.9280062+00:00"
 }

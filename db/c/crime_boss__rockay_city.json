@@ -1482,9 +1482,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60298,
+  "EOS_Progressed": 60301,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3937,6 +3937,11 @@
       "Time": "2023-05-16T18:05:45.8411028+00:00",
       "NumProgressed": 60298,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-16T19:05:14.6392784+00:00",
+      "NumProgressed": 60301,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -3948,7 +3953,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30149
+      "UsersEstimate": 30150
     },
     {
       "ID": "ACH_0011",
@@ -3956,7 +3961,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17486
+      "UsersEstimate": 17487
     },
     {
       "ID": "ACH_0012",
@@ -4092,7 +4097,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39194
+      "UsersEstimate": 39196
     },
     {
       "ID": "ACH_0210",
@@ -4100,7 +4105,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 44018
+      "UsersEstimate": 44020
     },
     {
       "ID": "ACH_0211",
@@ -4116,7 +4121,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28340
+      "UsersEstimate": 28341
     },
     {
       "ID": "ACH_0300",
@@ -4156,7 +4161,7 @@
       "Name": "Geek Out",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_0400",
@@ -4164,7 +4169,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20501
+      "UsersEstimate": 20502
     },
     {
       "ID": "ACH_0420",
@@ -4172,7 +4177,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19898
+      "UsersEstimate": 19899
     },
     {
       "ID": "ACH_0430",
@@ -4180,7 +4185,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 21104
+      "UsersEstimate": 21105
     },
     {
       "ID": "ACH_0431",
@@ -4243,7 +4248,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60298,
+      "Progressed": 60301,
       "Completed": 30
     }
   ],
@@ -4251,8 +4256,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-16T15:00:18.5824124+00:00",
-  "LastChanged_Achievements": "2023-05-16T18:05:45.8411024+00:00",
+  "LastChanged_Achievements": "2023-05-16T19:05:14.6392781+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:59:56.2178689+00:00",
-  "LastUpdate_Achievements": "2023-05-16T18:05:45.8411451+00:00"
+  "LastUpdate_Ratings": "2023-05-16T18:59:19.654598+00:00",
+  "LastUpdate_Achievements": "2023-05-16T19:05:14.6393109+00:00"
 }

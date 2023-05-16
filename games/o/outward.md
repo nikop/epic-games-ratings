@@ -14,8 +14,8 @@ Number of Ratings: 266  (23.09.2022)
 | Eureka | 32.00% | ~761 |
 | Scourge Slayer | 26.00% | ~618 |
 | Science, Troglodyte! | 24.00% | ~571 |
+| Exceptional Skill | 23.00% | ~547 |
 | Home Sweet Home | 23.00% | ~547 |
-| Exceptional Skill | 22.00% | ~523 |
 | Encyclopedic! | 20.00% | ~476 |
 | A Fortress Toppled! | 16.00% | ~380 |
 | Apex Predator | 16.00% | ~380 |

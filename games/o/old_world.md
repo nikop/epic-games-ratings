@@ -6,25 +6,25 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~9,212 |
-| Settler | 82.00% | ~9,101 |
-| Explorer | 80.00% | ~8,879 |
-| Friendly Family | 76.00% | ~8,435 |
-| Intrepid | 70.00% | ~7,769 |
-| Architect | 62.00% | ~6,881 |
-| Mason | 62.00% | ~6,881 |
-| Able | 61.00% | ~6,770 |
-| Strong | 61.00% | ~6,770 |
-| Hanging Gardens | 60.00% | ~6,659 |
-| Noble | 59.00% | ~6,548 |
-| Oracle | 58.00% | ~6,437 |
-| Good | 57.00% | ~6,326 |
-| Judaism | 56.00% | ~6,215 |
-| Just | 55.00% | ~6,104 |
-| Keystone | 55.00% | ~6,104 |
-| Glorious | 53.00% | ~5,882 |
-| Trade Caravan | 53.00% | ~5,882 |
-| Naming Landmarks | 51.00% | ~5,660 |
+| Play a Single Player Game | 83.00% | ~9,214 |
+| Settler | 82.00% | ~9,103 |
+| Explorer | 80.00% | ~8,881 |
+| Friendly Family | 76.00% | ~8,437 |
+| Intrepid | 70.00% | ~7,771 |
+| Architect | 62.00% | ~6,883 |
+| Mason | 62.00% | ~6,883 |
+| Able | 61.00% | ~6,772 |
+| Strong | 61.00% | ~6,772 |
+| Hanging Gardens | 60.00% | ~6,661 |
+| Noble | 59.00% | ~6,550 |
+| Oracle | 58.00% | ~6,439 |
+| Good | 57.00% | ~6,328 |
+| Judaism | 56.00% | ~6,217 |
+| Just | 55.00% | ~6,106 |
+| Keystone | 55.00% | ~6,106 |
+| Glorious | 53.00% | ~5,884 |
+| Trade Caravan | 53.00% | ~5,884 |
+| Naming Landmarks | 51.00% | ~5,662 |
 | Learned | 50.00% | ~5,550 |
 | Zoroastrianism | 50.00% | ~5,550 |
 | Fountainhead | 49.00% | ~5,439 |
@@ -225,14 +225,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | I am the Archon Now | 0.60% | ~67 |
 | Unfinished Business | 0.60% | ~67 |
 | Philip's Bronze Crown | 0.60% | ~67 |
-| Gold Victory (Carthage 3) | 0.50% | ~55 |
-| Rebuilder | 0.50% | ~55 |
-| Philip's Silver Crown | 0.50% | ~55 |
-| Mighty Bucephalus | 0.50% | ~55 |
-| Knot So Hard | 0.50% | ~55 |
-| A Tyresome Siege | 0.50% | ~55 |
-| Learn By Playing 2 - Just | 0.50% | ~55 |
-| No Characters | 0.50% | ~55 |
+| Gold Victory (Carthage 3) | 0.50% | ~56 |
+| Rebuilder | 0.50% | ~56 |
+| Philip's Silver Crown | 0.50% | ~56 |
+| Mighty Bucephalus | 0.50% | ~56 |
+| Knot So Hard | 0.50% | ~56 |
+| A Tyresome Siege | 0.50% | ~56 |
+| Learn By Playing 2 - Just | 0.50% | ~56 |
+| No Characters | 0.50% | ~56 |
 | Bronze Victory (Carthage 4) | 0.40% | ~44 |
 | Silver Victory (Carthage 4) | 0.40% | ~44 |
 | Avenger | 0.40% | ~44 |
@@ -292,8 +292,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~11 |
 | Win a Play-By-Cloud Game | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,099 (Ranked 104)  
-Completed: 3 (0.03%) (Ranked 181)  
+Progressed: 11,101 (Ranked 104)  
+Completed: 3 (0.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 3 (0.03%) (Ranked 181)
 | 2023-05-13 | 11,026 | 3 |
 | 2023-05-14 | 11,052 | 3 |
 | 2023-05-15 | 11,080 | 3 |
-| 2023-05-16 | 11,099 | 3 |
+| 2023-05-16 | 11,101 | 3 |
 ## Awards
 Max (Relaxing): 216  (Ranked 248)  
 Sum: 1,757 (Ranked 197)  

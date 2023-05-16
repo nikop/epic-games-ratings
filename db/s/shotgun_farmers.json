@@ -2,9 +2,9 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -248,6 +248,11 @@
       "Time": "2023-05-16T17:03:25.2924123+00:00",
       "NumProgressed": 51,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-16T19:03:15.5577292+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -307,7 +312,7 @@
       "Name": "First Blood",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_first_harvest",
@@ -315,7 +320,7 @@
       "Name": "Seeds of War",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -337,7 +342,7 @@
       "ID": "ach_hit_tree_with_shovel",
       "SetID": "cmg602e",
       "Name": "Getting Started",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -369,7 +374,7 @@
       "ID": "ach_horde_graveside",
       "SetID": "cmg602e",
       "Name": "Graveside Survivor",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -401,7 +406,7 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -529,7 +534,7 @@
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -537,7 +542,7 @@
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -545,7 +550,7 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -571,7 +576,7 @@
       "Name": "Triple Kill",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -601,7 +606,7 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 31
     }
@@ -610,22 +615,22 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 1,
-      "Completed": 1
+      "Progressed": 2,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-02T01:56:41.6239349+00:00",
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-16T18:03:19.949349+00:00",
+  "LastChanged_Achievements": "2023-05-16T19:03:15.5577288+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.3160105+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:58:12.7900326+00:00",
-  "LastUpdate_Achievements": "2023-05-16T18:03:19.949385+00:00"
+  "LastUpdate_Ratings": "2023-05-16T18:57:59.1909841+00:00",
+  "LastUpdate_Achievements": "2023-05-16T19:03:15.5577564+00:00"
 }

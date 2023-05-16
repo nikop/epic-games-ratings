@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -470,9 +470,9 @@
       "ID": "Terrible Start",
       "SetID": "5n829i",
       "Name": "Terrible Start",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -484,8 +484,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-16T18:05:11.3511201+00:00",
+  "LastChanged_Achievements": "2023-05-16T19:04:45.0941839+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:31.9787117+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:57:24.6645244+00:00",
-  "LastUpdate_Achievements": "2023-05-16T18:05:11.3511336+00:00"
+  "LastUpdate_Ratings": "2023-05-16T18:57:22.2133255+00:00",
+  "LastUpdate_Achievements": "2023-05-16T19:04:45.094196+00:00"
 }

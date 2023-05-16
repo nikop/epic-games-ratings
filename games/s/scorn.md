@@ -13,10 +13,10 @@ Rating: 4.48 (Ranked 568)
 | 006 | 0.50% | ~9 |
 | 007 | 0.50% | ~9 |
 | 008 | 0.50% | ~9 |
+| 012 | 0.50% | ~9 |
 | 009 | 0.40% | ~8 |
 | 010 | 0.40% | ~8 |
 | 011 | 0.40% | ~8 |
-| 012 | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,888 (Ranked 147)  
 Completed: 133 (7.04%) (Ranked 22)  

@@ -3,12 +3,12 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 769,
-  "Ranking_Popularity": 298,
+  "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 20856,
+  "EOS_Progressed": 20858,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2661,6 +2661,11 @@
       "Time": "2023-05-16T18:05:37.6607537+00:00",
       "NumProgressed": 20856,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-16T19:05:07.6804729+00:00",
+      "NumProgressed": 20858,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2680,7 +2685,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4171
+      "UsersEstimate": 4172
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2903,7 +2908,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 20856,
+      "Progressed": 20858,
       "Completed": 16
     }
   ],
@@ -2911,8 +2916,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-16T18:05:37.6607534+00:00",
+  "LastChanged_Achievements": "2023-05-16T19:05:07.6804725+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-16T17:59:57.2165389+00:00",
-  "LastUpdate_Achievements": "2023-05-16T18:05:37.6607875+00:00"
+  "LastUpdate_Ratings": "2023-05-16T18:59:20.6034695+00:00",
+  "LastUpdate_Achievements": "2023-05-16T19:05:07.6805011+00:00"
 }

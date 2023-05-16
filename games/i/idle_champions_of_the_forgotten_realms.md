@@ -14,14 +14,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.90% | ~789 |
 | Bully for Vecna | 0.90% | ~486 |
 | The Mad Wizard | 0.90% | ~789 |
-| The Ring of Regeneration | 0.80% | ~701 |
+| The Ring of Regeneration | 0.80% | ~702 |
 | Were-verpowered | 0.60% | ~526 |
 | Seeking Allies | 0.60% | ~526 |
 | Are Ya Chicken? | 0.60% | ~526 |
+| Mad Cow Disease | 0.60% | ~526 |
 | Friendly Imps | 0.60% | ~526 |
 | A Persistent Buzzing | 0.50% | ~438 |
 | The Crumbling Temple | 0.50% | ~438 |
-| Mad Cow Disease | 0.50% | ~438 |
 | Pure Energy | 0.50% | ~438 |
 | Maddening | 0.40% | ~351 |
 | Owlbear Necessities | 0.40% | ~216 |
@@ -228,6 +228,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Faerûn's Most Neglected | 0.20% | ~108 |
 | Vault of Dragons | 0.20% | ~175 |
 | Champions of Waterdeep | 0.20% | ~175 |
+| On The Job Learning | 0.20% | ~175 |
 | Strike! | 0.20% | ~108 |
 | Lost in the Goblin Halls | 0.20% | ~175 |
 | The Twilight Grove | 0.20% | ~175 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Pixies | 0.10% | ~88 |
 | Vault of Poison | 0.10% | ~88 |
 | Vault of Cuteness | 0.10% | ~54 |
-| On The Job Learning | 0.10% | ~88 |
 | Take Five | 0.10% | ~54 |
 | Batiri in the Goblin Halls | 0.10% | ~88 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~54 |
@@ -496,7 +496,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~54 |
 | Ineffectual Intellectuals | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,681 (Ranked 59)  
+Progressed: 87,688 (Ranked 59)  
 Completed: 1,843 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -522,7 +522,7 @@ Completed: 1,843 (2.10%) (Ranked 60)
 | 2023-05-13 | 87,417 | 1,836 |
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
-| 2023-05-16 | 87,681 | 1,843 |
+| 2023-05-16 | 87,688 | 1,843 |
 ## Awards
 Max (Diverse Characters): 4,880  (Ranked 63)  
 Sum: 29,895 (Ranked 37)  

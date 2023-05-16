@@ -9,7 +9,7 @@
 | Obtained 50 PowerUps | 46.00% | ~31 |
 | Pooshed over 250000 | 46.00% | ~31 |
 | Pooshed Past 5000 | 21.00% | ~14 |
-| Terrible Start | 16.00% | ~11 |
+| Terrible Start | 18.00% | ~12 |
 | Challenge 01 | 7.00% | ~5 |
 | Pooshed Past 7500 | 6.00% | ~4 |
 | Challenge 03 | 3.00% | ~2 |
