@@ -35,13 +35,13 @@ Rating: 3.64 (Ranked 917)
 | Mastery | 4.00% | ~42 |
 | Moving Up The Ladder | 4.00% | ~42 |
 | Scroll Master | 4.00% | ~42 |
+| The Expeditioner | 4.00% | ~42 |
 | The power of Awakening | 4.00% | ~42 |
 | Ancient Knowledge | 3.00% | ~32 |
 | Background Story | 3.00% | ~32 |
 | Here We Go Again | 3.00% | ~32 |
 | How Do You Turn This On? | 3.00% | ~32 |
 | Missions Dedication | 3.00% | ~32 |
-| The Expeditioner | 3.00% | ~32 |
 | Doing My Part | 2.00% | ~21 |
 | Master Enchanter | 2.00% | ~21 |
 | The father of Dragons | 2.00% | ~21 |

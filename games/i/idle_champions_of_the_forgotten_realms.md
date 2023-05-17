@@ -490,17 +490,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~88 |
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
+| The Court of Storms | 0.10% | ~54 |
+| Beware the Jabberwock | 0.10% | ~54 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
-| Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,785 (Ranked 59)  
+Progressed: 87,788 (Ranked 59)  
 Completed: 1,848 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,15 +527,15 @@ Completed: 1,848 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,785 | 1,848 |
+| 2023-05-17 | 87,788 | 1,848 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
-Sum: 29,904 (Ranked 37)  
+Sum: 29,907 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,885 |
-| This game is Great for Beginners | 4,826 |
+| This game is Great for Beginners | 4,829 |
 | This game has Quickly Understood Controls | 4,593 |
 | This game is Relaxing | 4,489 |
 | This game is Highly Recommended | 3,938 |
@@ -655,4 +655,4 @@ Diff (max vs sum): 26
 | 2023-05-14 | 4.06 | - | 4,878 | 29,881 |
 | 2023-05-15 | 4.06 | - | 4,880 | 29,893 |
 | 2023-05-16 | 4.06 | - | 4,885 | 29,900 |
-| 2023-05-17 | 4.06 | - | 4,885 | 29,904 |
+| 2023-05-17 | 4.06 | - | 4,885 | 29,907 |

@@ -78,9 +78,9 @@
       "ID": "Ach_BossSlug",
       "SetID": "4o5gjp0",
       "Name": "\u0022Swoosh\u0022",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach_BossSlugMk2",
@@ -142,9 +142,9 @@
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -316,8 +316,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-17T18:06:08.8874032+00:00",
+  "LastChanged_Achievements": "2023-05-17T19:05:57.1385709+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-17T17:58:10.1927798+00:00",
-  "LastUpdate_Achievements": "2023-05-17T18:06:08.8874274+00:00"
+  "LastUpdate_Ratings": "2023-05-17T18:58:10.0796593+00:00",
+  "LastUpdate_Achievements": "2023-05-17T19:05:57.1386045+00:00"
 }

@@ -8,7 +8,7 @@
 | You Have Been Deaded | 72.00% | ~48 |
 | Rookie | 70.00% | ~47 |
 | Apprentice Destructor | 28.00% | ~19 |
-| I Prefer Jazz Fusion | 9.00% | ~6 |
+| I Prefer Jazz Fusion | 10.00% | ~7 |
 | You Are Actually Supposed To Use Those | 9.00% | ~6 |
 | Ball Galore | 7.00% | ~5 |
 | Master Destructor | 7.00% | ~5 |

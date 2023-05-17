@@ -2037,10 +2037,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 2132,
       "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-05-17T19:00:34.9944032+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2133,
+      "NumberOfAwardsMax": 222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2132,
+  "NumberOfAwards": 2133,
   "NumberOfAwardsMax": 222,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2072,7 +2078,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 160
+      "Count": 161
     },
     {
       "Text": "This game is Relaxing",
@@ -2134,8 +2140,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2023-05-15T19:58:58.6547163+00:00",
+  "LastChanged": "2023-05-17T19:00:34.994403+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:37.8451177+00:00",
-  "LastUpdate_Ratings": "2023-05-17T18:00:44.2594079+00:00",
-  "LastUpdate_Achievements": "2023-05-17T18:05:16.4008942+00:00"
+  "LastUpdate_Ratings": "2023-05-17T19:00:34.9944039+00:00",
+  "LastUpdate_Achievements": "2023-05-17T19:05:05.4698609+00:00"
 }

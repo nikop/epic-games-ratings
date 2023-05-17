@@ -5,25 +5,25 @@ Rating: 4.64 (Ranked 311)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,697 |
-| All thumbs | 91.00% | ~3,657 |
-| I will survive! | 91.00% | ~3,657 |
-| Home, sweet home | 89.00% | ~3,577 |
+| Prepper | 92.00% | ~3,698 |
+| All thumbs | 91.00% | ~3,658 |
+| I will survive! | 91.00% | ~3,658 |
+| Home, sweet home | 89.00% | ~3,578 |
 | Survivalist | 87.00% | ~3,497 |
-| One way ticket | 83.00% | ~3,336 |
+| One way ticket | 83.00% | ~3,337 |
 | Last man standing | 77.00% | ~3,095 |
-| Family guy | 75.00% | ~3,014 |
+| Family guy | 75.00% | ~3,015 |
 | Out of the Bag | 72.00% | ~2,894 |
 | The Dark Side | 67.00% | ~2,693 |
 | Duck and cover! | 62.00% | ~2,492 |
-| Souper! | 60.00% | ~2,411 |
-| Pacifist | 55.00% | ~2,210 |
-| 2-1-6 | 54.00% | ~2,170 |
+| Souper! | 60.00% | ~2,412 |
+| Pacifist | 55.00% | ~2,211 |
+| 2-1-6 | 54.00% | ~2,171 |
 | A gift | 50.00% | ~2,010 |
-| Girl Power | 44.00% | ~1,768 |
+| Girl Power | 44.00% | ~1,769 |
 | What goes around... | 40.00% | ~1,608 |
 | Be Prepared | 35.00% | ~1,407 |
-| Unbreakable | 33.00% | ~1,326 |
+| Unbreakable | 33.00% | ~1,327 |
 | Atomic drill | 32.00% | ~1,286 |
 | This is the end | 32.00% | ~1,286 |
 | Gotta get 'em all | 29.00% | ~1,166 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 311)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,019 (Ranked 128)  
+Progressed: 4,020 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 4,005 | 0 |
 | 2023-05-15 | 4,009 | 0 |
 | 2023-05-16 | 4,015 | 0 |
-| 2023-05-17 | 4,019 | 0 |
+| 2023-05-17 | 4,020 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

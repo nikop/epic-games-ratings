@@ -1,24 +1,24 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.75 (Ranked 130)  
+Rating: 4.76 (Ranked 115)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,913 |
-| No more cages! | 92.00% | ~1,853 |
-| Everfrost | 77.00% | ~1,551 |
+| For Demacia | 95.00% | ~1,914 |
+| No more cages! | 92.00% | ~1,854 |
+| Everfrost | 77.00% | ~1,552 |
 | Pentakill | 76.00% | ~1,531 |
 | Dark Forest | 76.00% | ~1,531 |
-| The use of petricite | 73.00% | ~1,470 |
-| You can pet the dog | 60.00% | ~1,208 |
+| The use of petricite | 73.00% | ~1,471 |
+| You can pet the dog | 60.00% | ~1,209 |
 | Big Helmet Bro | 34.00% | ~685 |
 | Clarion Cove | 34.00% | ~685 |
-| Past trauma | 32.00% | ~644 |
-| Thornbarrow | 32.00% | ~644 |
-| Ternmoat Headquarters | 32.00% | ~644 |
-| Elemental master | 31.00% | ~624 |
-| Cypress Glen Headquarters | 31.00% | ~624 |
+| Past trauma | 32.00% | ~645 |
+| Thornbarrow | 32.00% | ~645 |
+| Ternmoat Headquarters | 32.00% | ~645 |
+| Elemental master | 31.00% | ~625 |
+| Cypress Glen Headquarters | 31.00% | ~625 |
 | Petricite Burst | 27.00% | ~544 |
 | Old friend | 26.00% | ~524 |
 | Whispers in the Woods I | 25.00% | ~504 |
@@ -31,7 +31,7 @@ Rating: 4.75 (Ranked 130)
 | Capelworth | 19.00% | ~383 |
 | Glyndemere | 18.00% | ~363 |
 | Iffighain Headquarters | 18.00% | ~363 |
-| Full equipped | 17.00% | ~342 |
+| Full equipped | 17.00% | ~343 |
 | Whispers in the Woods II | 15.00% | ~302 |
 | No more holding back | 14.00% | ~282 |
 | Terbisia | 14.00% | ~282 |
@@ -44,7 +44,7 @@ Rating: 4.75 (Ranked 130)
 | The Central Headquarters | 12.00% | ~242 |
 | Cloven Dell Headquarters | 12.00% | ~242 |
 | Whispers in the Woods IV | 11.00% | ~222 |
-| Embrace the darkness | 10.00% | ~201 |
+| Embrace the darkness | 10.00% | ~202 |
 | I smell fear | 9.00% | ~181 |
 | The end of the experiments | 9.00% | ~181 |
 | The Great City of Demacia | 9.00% | ~181 |
@@ -59,7 +59,7 @@ Rating: 4.75 (Ranked 130)
 | Silverwing nest | 2.00% | ~40 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,014 (Ranked 142)  
+Progressed: 2,015 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.05%) (Ranked 172)
 | 2023-05-14 | 1,994 | 1 |
 | 2023-05-15 | 1,997 | 1 |
 | 2023-05-16 | 2,008 | 1 |
-| 2023-05-17 | 2,014 | 1 |
+| 2023-05-17 | 2,015 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -101,3 +101,4 @@ Completed: 1 (0.05%) (Ranked 172)
 | 2023-05-09 | 4.72 | 0 | 0 |
 | 2023-05-15 | 4.74 | 0 | 0 |
 | 2023-05-16 | 4.75 | 0 | 0 |
+| 2023-05-17 | 4.76 | 0 | 0 |

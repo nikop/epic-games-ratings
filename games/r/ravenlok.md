@@ -23,8 +23,8 @@
 | Glimmer of Hope | 39.00% | ~257 |
 | Teacups for Toppy | 39.00% | ~257 |
 | Well Rested | 39.00% | ~257 |
-| Nightmare Fuel | 37.00% | ~243 |
-| Take Heart | 37.00% | ~243 |
+| Nightmare Fuel | 38.00% | ~250 |
+| Take Heart | 38.00% | ~250 |
 | The Guardian | 37.00% | ~243 |
 | Stronger! | 36.00% | ~237 |
 | Ancient Wisdom | 35.00% | ~230 |

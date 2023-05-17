@@ -6,7 +6,7 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tuto | 60.00% | ~218 |
+| Tuto | 61.00% | ~222 |
 | Joma | 43.00% | ~157 |
 | Campaign Bronze | 36.00% | ~131 |
 | Lorian | 31.00% | ~113 |

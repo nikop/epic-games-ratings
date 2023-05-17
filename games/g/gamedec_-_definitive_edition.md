@@ -6,23 +6,23 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~63,241 |
-| Powergamer | 26.00% | ~58,724 |
-| Barely scratched the surface | 25.00% | ~56,465 |
-| Write that down | 24.00% | ~54,207 |
-| Guns, lots of guns | 12.00% | ~27,103 |
-| Collector | 11.00% | ~24,845 |
-| Elementary! | 8.00% | ~18,069 |
-| Pumpkin Jack | 8.00% | ~18,069 |
-| Wake up! | 8.00% | ~18,069 |
-| It's honest work | 7.00% | ~15,810 |
-| Griever | 7.00% | ~15,810 |
+| I will finish what you started | 28.00% | ~63,244 |
+| Powergamer | 26.00% | ~58,727 |
+| Barely scratched the surface | 25.00% | ~56,468 |
+| Write that down | 24.00% | ~54,209 |
+| Guns, lots of guns | 12.00% | ~27,105 |
+| Collector | 11.00% | ~24,846 |
+| Elementary! | 8.00% | ~18,070 |
+| Pumpkin Jack | 8.00% | ~18,070 |
+| Wake up! | 8.00% | ~18,070 |
+| It's honest work | 7.00% | ~15,811 |
+| Griever | 7.00% | ~15,811 |
 | Me smart | 6.00% | ~13,552 |
-| Good listener | 5.00% | ~11,293 |
-| Trash compactor | 5.00% | ~11,293 |
-| Valedictorian | 5.00% | ~11,293 |
-| BOY! | 4.00% | ~9,034 |
-| Ka-ching! | 4.00% | ~9,034 |
+| Good listener | 5.00% | ~11,294 |
+| Trash compactor | 5.00% | ~11,294 |
+| Valedictorian | 5.00% | ~11,294 |
+| BOY! | 4.00% | ~9,035 |
+| Ka-ching! | 4.00% | ~9,035 |
 | I like to sniff around | 3.00% | ~6,776 |
 | Mind reader | 3.00% | ~6,776 |
 | So you like to read? | 3.00% | ~6,776 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~452 |
 | Memory 5 | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,861 (Ranked 42)  
+Progressed: 225,872 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 5 (0.00%) (Ranked 199)
 | 2023-05-14 | 225,347 | 5 |
 | 2023-05-15 | 225,536 | 5 |
 | 2023-05-16 | 225,722 | 5 |
-| 2023-05-17 | 225,861 | 5 |
+| 2023-05-17 | 225,872 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 357)  
 Sum: 73 (Ranked 416)  

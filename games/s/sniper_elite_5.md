@@ -6,13 +6,18 @@ Rating: 4.40 (Ranked 669)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sink or Swim | 0.30% | ~2 |
+| Opposing Force | 0.10% | ~1 |
+| Gunslinger | 0.10% | ~1 |
 | Precision Is Key | 0.10% | ~1 |
+| It's Starting to Crack | 0.10% | ~1 |
 | Last Resort | 0.10% | ~1 |
+| Siegebreaker | 0.10% | ~1 |
+| Ghost of Falaise | 0.10% | ~1 |
+| Operation Overlord | 0.10% | ~1 |
 | Climbing the Ladder | 0.00% | ~0 |
 | Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
 | No Stone Unturned | 0.00% | ~0 |
-| Opposing Force | 0.00% | ~0 |
 | Enemy at the Gates | 0.00% | ~0 |
 | Fields of Glory | 0.00% | ~0 |
 | Just a Flesh Wound | 0.00% | ~0 |
@@ -23,7 +28,6 @@ Rating: 4.40 (Ranked 669)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Gunslinger | 0.00% | ~0 |
 | Skirmisher | 0.00% | ~0 |
 | Sharpshooter | 0.00% | ~0 |
 | The Long Game | 0.00% | ~0 |
@@ -46,7 +50,6 @@ Rating: 4.40 (Ranked 669)
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
 | Tinkerer | 0.00% | ~0 |
-| It's Starting to Crack | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Locomotion Commotion | 0.00% | ~0 |
 | Change the Channel | 0.00% | ~0 |
@@ -68,9 +71,6 @@ Rating: 4.40 (Ranked 669)
 | Herr Today, Gone Tomorrow | 0.00% | ~0 |
 | Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
-| Siegebreaker | 0.00% | ~0 |
-| Ghost of Falaise | 0.00% | ~0 |
-| Operation Overlord | 0.00% | ~0 |
 | If You Go Down To The Woods Today | 0.00% | ~0 |
 | Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |

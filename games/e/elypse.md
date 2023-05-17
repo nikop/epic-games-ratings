@@ -9,6 +9,8 @@
 | A path of no return | 200.00% | ~2 |
 | Baited | 200.00% | ~2 |
 | Splash! | 200.00% | ~2 |
+| "Swoosh" | 100.00% | ~1 |
+| The light at the end of the tunnel | 100.00% | ~1 |
 | Rooftop | 100.00% | ~1 |
 | Magnitude 5 | 100.00% | ~1 |
 | Hard Rock | 100.00% | ~1 |
@@ -18,13 +20,11 @@
 | Squid game | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
 | Rock Solid | 0.00% | ~0 |
-| "Swoosh" | 0.00% | ~0 |
 | "Ah sh*t... Here we go again!" | 0.00% | ~0 |
 | Compulsive hoarder | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | The beast within | 0.00% | ~0 |
 | Masochistic | 0.00% | ~0 |
-| The light at the end of the tunnel | 0.00% | ~0 |
 | Nokron tower | 0.00% | ~0 |
 | It's getting dark | 0.00% | ~0 |
 | MayDay! MayDay! | 0.00% | ~0 |

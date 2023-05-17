@@ -1,23 +1,23 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.46 (Ranked 591)  
+Rating: 4.47 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,169 |
-| Predator I | 22.00% | ~54,765 |
-| Fixer I | 10.00% | ~24,893 |
-| A week in Century City | 10.00% | ~24,893 |
-| The Wait | 7.00% | ~17,425 |
+| Survivor | 31.00% | ~77,171 |
+| Predator I | 22.00% | ~54,767 |
+| Fixer I | 10.00% | ~24,894 |
+| A week in Century City | 10.00% | ~24,894 |
+| The Wait | 7.00% | ~17,426 |
 | Green thumb I | 6.00% | ~14,936 |
 | Well-oiled machine | 5.00% | ~12,447 |
 | Saver I | 5.00% | ~12,447 |
 | Cleaning Company | 5.00% | ~12,447 |
-| The Ascent | 4.00% | ~9,957 |
-| Pacifist | 4.00% | ~9,957 |
-| Vandalism | 4.00% | ~9,957 |
-| Capitalist I | 4.00% | ~9,957 |
+| The Ascent | 4.00% | ~9,958 |
+| Pacifist | 4.00% | ~9,958 |
+| Vandalism | 4.00% | ~9,958 |
+| Capitalist I | 4.00% | ~9,958 |
 | Adrenaline | 3.00% | ~7,468 |
 | By a hair | 2.00% | ~4,979 |
 | Fixer II | 2.00% | ~4,979 |
@@ -35,7 +35,7 @@ Rating: 4.46 (Ranked 591)
 | Don't try this at home | 1.00% | ~2,489 |
 | Bricklayer | 1.00% | ~2,489 |
 | Run the Economy | 1.00% | ~2,489 |
-| Committed Relationship | 0.80% | ~1,991 |
+| Committed Relationship | 0.80% | ~1,992 |
 | Number 1 | 0.70% | ~1,743 |
 | Interior designer | 0.60% | ~1,494 |
 | The Gamble | 0.50% | ~1,245 |
@@ -62,7 +62,7 @@ Rating: 4.46 (Ranked 591)
 | Capitalist III | 0.10% | ~249 |
 | Hell Is You | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,933 (Ranked 39)  
+Progressed: 248,939 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-14 | 248,714 | 1 |
 | 2023-05-15 | 248,798 | 1 |
 | 2023-05-16 | 248,872 | 1 |
-| 2023-05-17 | 248,933 | 1 |
+| 2023-05-17 | 248,939 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 470)  
 Sum: 23 (Ranked 472)  
@@ -160,3 +160,4 @@ Diff (max vs sum): -2
 | 2023-05-10 | 4.46 | 21 | 21 |
 | 2023-05-12 | 4.46 | 22 | 22 |
 | 2023-05-13 | 4.46 | 23 | 23 |
+| 2023-05-17 | 4.47 | 23 | 23 |

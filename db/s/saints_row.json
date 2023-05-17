@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 20,
+  "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2298,9 +2298,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28795,
+  "EOS_Progressed": 28820,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3566,
+  "EOS_NewPlayers": 3501,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4898,6 +4898,11 @@
       "Time": "2023-05-17T18:06:11.1991272+00:00",
       "NumProgressed": 28795,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-17T19:05:59.4127183+00:00",
+      "NumProgressed": 28820,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5019,17 +5024,17 @@
       "ID": "complete_mission_1",
       "SetID": "3ib2d0i",
       "Name": "First F#@!ing Day",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "customize_a_vehicle",
       "SetID": "3ib2d0i",
       "Name": "Tune Up",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "customize_a_weapon",
@@ -5155,9 +5160,9 @@
       "ID": "get_fired",
       "SetID": "3ib2d0i",
       "Name": "Performance Review",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "hit_max_level",
@@ -5195,9 +5200,9 @@
       "ID": "kill_tank_driver_with_rail",
       "SetID": "3ib2d0i",
       "Name": "Armor Piercing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "name_the_saints",
@@ -5291,9 +5296,9 @@
       "ID": "use_profile_app",
       "SetID": "3ib2d0i",
       "Name": "To The Nines",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "whole_map_purple",
@@ -5332,22 +5337,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28795,
+      "Progressed": 28820,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 432,
-      "Completed": 393
+      "Progressed": 457,
+      "Completed": 396
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-16T18:59:03.5616429+00:00",
-  "LastChanged_Achievements": "2023-05-17T18:06:11.1991261+00:00",
+  "LastChanged_Achievements": "2023-05-17T19:05:59.412718+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-17T18:00:32.3445969+00:00",
-  "LastUpdate_Achievements": "2023-05-17T18:06:11.1991928+00:00"
+  "LastUpdate_Ratings": "2023-05-17T19:00:27.1272812+00:00",
+  "LastUpdate_Achievements": "2023-05-17T19:05:59.4127987+00:00"
 }

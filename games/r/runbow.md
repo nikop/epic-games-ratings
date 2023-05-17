@@ -1,21 +1,21 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 591)  
+Rating: 4.46 (Ranked 592)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~128,867 |
-| My First Runbow | 51.00% | ~124,004 |
-| It's The Fall | 26.00% | ~63,218 |
+| In The Zone | 53.00% | ~128,869 |
+| My First Runbow | 51.00% | ~124,006 |
+| It's The Fall | 26.00% | ~63,219 |
 | The Stunner | 21.00% | ~51,061 |
-| Be Aggressive | 20.00% | ~48,629 |
-| Curator | 20.00% | ~48,629 |
-| Crowning Around | 18.00% | ~43,766 |
+| Be Aggressive | 20.00% | ~48,630 |
+| Curator | 20.00% | ~48,630 |
+| Crowning Around | 18.00% | ~43,767 |
 | Can You Dig It? | 17.00% | ~41,335 |
-| You Juan-A-Go? | 16.00% | ~38,903 |
+| You Juan-A-Go? | 16.00% | ~38,904 |
 | Chan-tastic | 15.00% | ~36,472 |
-| Muddy Waters | 14.00% | ~34,040 |
+| Muddy Waters | 14.00% | ~34,041 |
 | Toasty! | 13.00% | ~31,609 |
 | Lazy Laser | 8.00% | ~19,452 |
 | Into The Drift | 7.00% | ~17,020 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 591)
 | Talent Scout | 0.10% | ~243 |
 | True Completionist | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,146 (Ranked 40)  
+Progressed: 243,149 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 2 (0.00%) (Ranked 199)
 | 2023-05-14 | 243,029 | 2 |
 | 2023-05-15 | 243,071 | 2 |
 | 2023-05-16 | 243,111 | 2 |
-| 2023-05-17 | 243,146 | 2 |
+| 2023-05-17 | 243,149 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

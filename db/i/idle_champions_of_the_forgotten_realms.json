@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3704,10 +3704,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29904,
       "NumberOfAwardsMax": 4885
+    },
+    {
+      "Time": "2023-05-17T18:58:19.5106397+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29907,
+      "NumberOfAwardsMax": 4885
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29904,
+  "NumberOfAwards": 29907,
   "NumberOfAwardsMax": 4885,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3715,7 +3721,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4826
+      "Count": 4829
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3754,9 +3760,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87785,
+  "EOS_Progressed": 87788,
   "EOS_Completed": 1848,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6278,6 +6284,11 @@
     {
       "Time": "2023-05-17T18:06:56.8360668+00:00",
       "NumProgressed": 87785,
+      "NumCompleted": 1848
+    },
+    {
+      "Time": "2023-05-17T19:06:44.0771181+00:00",
+      "NumProgressed": 87788,
       "NumCompleted": 1848
     }
   ],
@@ -10200,9 +10211,9 @@
       "ID": "objective_completed_1355",
       "SetID": "415jc5c",
       "Name": "The Court of Storms",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1356",
@@ -10216,9 +10227,9 @@
       "ID": "objective_completed_1360",
       "SetID": "415jc5c",
       "Name": "Beware the Jabberwock",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1361",
@@ -10233,21 +10244,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54059,
+      "Progressed": 54062,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87785,
+      "Progressed": 87788,
       "Completed": 1848
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-17T13:58:12.9380814+00:00",
-  "LastChanged_Achievements": "2023-05-17T18:06:56.8360663+00:00",
+  "LastChanged": "2023-05-17T18:58:19.5106395+00:00",
+  "LastChanged_Achievements": "2023-05-17T19:06:44.0771171+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T17:58:16.157226+00:00",
-  "LastUpdate_Achievements": "2023-05-17T18:06:56.8384019+00:00"
+  "LastUpdate_Ratings": "2023-05-17T18:58:19.5106403+00:00",
+  "LastUpdate_Achievements": "2023-05-17T19:06:44.0801593+00:00"
 }

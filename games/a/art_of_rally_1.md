@@ -6,11 +6,11 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,595 |
-| keep it tidy | 77.00% | ~7,696 |
-| podium | 72.00% | ~7,196 |
-| medium attack | 59.00% | ~5,897 |
-| brail | 56.00% | ~5,597 |
+| light attack | 96.00% | ~9,596 |
+| keep it tidy | 77.00% | ~7,697 |
+| podium | 72.00% | ~7,197 |
+| medium attack | 59.00% | ~5,898 |
+| brail | 56.00% | ~5,598 |
 | grocery-getter | 39.00% | ~3,898 |
 | good drivers have dead flies on the side windows | 39.00% | ~3,898 |
 | rwd only | 26.00% | ~2,599 |
@@ -24,11 +24,11 @@ Number of Ratings: 56  (23.09.2022)
 | monster | 14.00% | ~1,399 |
 | car wash | 13.00% | ~1,299 |
 | perkele | 13.00% | ~1,299 |
-| night ride | 12.00% | ~1,199 |
-| the artist | 12.00% | ~1,199 |
-| snorkel | 12.00% | ~1,199 |
-| where is the stage? | 11.00% | ~1,099 |
-| maximum attack | 11.00% | ~1,099 |
+| night ride | 12.00% | ~1,200 |
+| the artist | 12.00% | ~1,200 |
+| snorkel | 12.00% | ~1,200 |
+| where is the stage? | 11.00% | ~1,100 |
+| maximum attack | 11.00% | ~1,100 |
 | espresso | 10.00% | ~1,000 |
 | parallel universe | 9.00% | ~900 |
 | samir | 8.00% | ~800 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,995 (Ranked 106)  
+Progressed: 9,996 (Ranked 106)  
 Completed: 9 (0.09%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 9 (0.09%) (Ranked 161)
 | 2023-05-11 | 9,989 | 9 |
 | 2023-05-12 | 9,993 | 9 |
 | 2023-05-13 | 9,994 | 9 |
-| 2023-05-17 | 9,995 | 9 |
+| 2023-05-17 | 9,996 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
