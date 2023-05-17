@@ -21,7 +21,7 @@
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.92% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.33% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.45% |
 | 23 | [Scorn](games/s/scorn.md) | 7.04% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.84% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
@@ -128,9 +128,9 @@
 | 126 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 127 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
-| 128 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 130 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.27% |
-| 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 129 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.27% |
+| 129 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 129 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 132 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.25% |
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
