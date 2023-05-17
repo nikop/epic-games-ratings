@@ -1,6 +1,7 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
+| [Flyto](games/f/flyto.md) | 2023-05-18 | 2023-05-18 |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |

@@ -18,7 +18,7 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
 | 22 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -47,10 +47,10 @@
 | 45 | [Lamentum](games/l/lamentum.md) | 2.99% |
 | 46 | [ZZT!](games/z/zzt!.md) | 2.97% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
-| 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
+| 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
+| 50 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.86% |
+| 50 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.73% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
@@ -75,15 +75,15 @@
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.40% |
 | 74 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 75 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
-| 76 | [Them and Us](games/t/them_and_us.md) | 1.30% |
-| 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
-| 78 | [Trifox](games/t/trifox.md) | 1.28% |
+| 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
+| 77 | [Them and Us](games/t/them_and_us.md) | 1.28% |
+| 77 | [Trifox](games/t/trifox.md) | 1.28% |
 | 79 | [Chorus](games/c/chorus.md) | 1.27% |
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
-| 84 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
+| 84 | [Ten Dates](games/t/ten_dates.md) | 1.03% |
 | 85 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
 | 85 | [Sable](games/s/sable.md) | 0.93% |
 | 87 | [Hades](games/h/hades.md) | 0.90% |

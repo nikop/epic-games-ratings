@@ -196,7 +196,7 @@
 | [Axolotl Kingdom](games/a/axolotl_kingdom.md) | - | - | - | - |
 | [Aztech Forgotten Gods](games/a/aztech_forgotten_gods.md) | - | - | 0 | - |
 | [Aztez](games/a/aztez.md) | 4.54 | 477 | 0 | 492 |
-| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 591 | 3,278 | 82 |
+| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 591 | 3,281 | 82 |
 | [Backbeat](games/b/backbeat.md) | - | - | - | - |
 | [Backbone](games/b/backbone.md) | 4.33 | 736 | 0 | 492 |
 | [Bad North](games/b/bad_north.md) | 4.69 | 212 | 0 | 492 |
@@ -533,7 +533,7 @@
 | [Death Coming](games/d/death_coming.md) | 4.44 | 622 | 0 | 492 |
 | [Death or Treat](games/d/death_or_treat.md) | - | - | - | - |
 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 99 | 4,819 | 64 |
-| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 12 | 6,977 | 45 |
+| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 12 | 6,982 | 45 |
 | [Death to Spies](games/4/4d40161c73db44369e250c40015e4f52.md) | - | - | 0 | - |
 | [Death to Spies: Moment of Truth](games/b/bd2c5acda74f43af84ef775561773aec.md) | - | - | 0 | - |
 | [Death Trash](games/d/death_trash.md) | - | - | 0 | - |
@@ -1092,8 +1092,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 413 | 36 | 421 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Judas](games/j/judas.md) | - | - | 0 | - |
+| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 339 | 533 | 178 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 140 | 597 | 167 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 756 | 3,598 | 78 |
@@ -1814,8 +1814,8 @@
 | [shapez](games/s/shapez.md) | 4.70 | 190 | 156 | 282 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 641 | 264 | 237 |
@@ -1862,7 +1862,7 @@
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.50 | 530 | 0 | 492 |
 | [Smart Thief](games/s/smart_thief.md) | - | - | - | - |
 | [Smelter](games/s/smelter.md) | - | - | 0 | - |
-| [SMITE](games/s/smite.md) | 4.45 | 603 | 3,765 | 76 |
+| [SMITE](games/s/smite.md) | 4.45 | 603 | 3,771 | 76 |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | - | - | - | - |
 | [Snake Pass](games/s/snake_pass.md) | - | - | 0 | - |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.40 | 668 | 0 | 492 |
@@ -2119,7 +2119,7 @@
 | [The Crows Eye](games/t/the_crows_eye.md) | - | - | 0 | - |
 | [The Crust](games/t/the_crust.md) | - | - | - | - |
 | [The Cullfield Ritual](games/t/the_cullfield_ritual.md) | - | - | - | - |
-| [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 857 | 2,289 | 96 |
+| [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 857 | 2,291 | 96 |
 | [The Dark Prophecy](games/t/the_dark_prophecy.md) | - | - | 0 | - |
 | [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | - | - | - | - |
 | [The Darkest Tales](games/t/the_darkest_tales.md) | - | - | 0 | - |
@@ -2431,7 +2431,7 @@
 | [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | - | - | - | - |
 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 49 | 0 | 492 |
 | [Valkyrie](games/v/valkyrie.md) | - | - | - | - |
-| [VALORANT](games/v/valorant.md) | 4.54 | 477 | 52,594 | 11 |
+| [VALORANT](games/v/valorant.md) | 4.54 | 477 | 52,693 | 11 |
 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 807 | 77 | 351 |
 | [Vampire: The Masquerade® - Bloodlines™ 2](games/v/vampire__the_masquerade®_-_bloodlines™_2.md) | - | - | - | - |
 | [Vampyr](games/v/vampyr.md) | 4.32 | 743 | 546 | 175 |

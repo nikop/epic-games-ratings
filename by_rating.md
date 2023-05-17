@@ -11,7 +11,7 @@
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 492 |
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,799 | 107 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 492 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,977 | 45 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,982 | 45 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 492 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 492 |
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,985 | 73 |
@@ -487,7 +487,7 @@
 | 477 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 492 |
 | 477 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 496 | 186 |
 | 477 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 492 |
-| 477 | [VALORANT](games/v/valorant.md) | 4.54 | 52,594 | 11 |
+| 477 | [VALORANT](games/v/valorant.md) | 4.54 | 52,693 | 11 |
 | 477 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 453 |
 | 490 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 492 |
 | 490 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 492 |
@@ -591,7 +591,7 @@
 | 580 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 492 |
 | 580 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 492 |
 | 591 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 492 |
-| 591 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,278 | 82 |
+| 591 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,281 | 82 |
 | 591 | [Duskers](games/d/duskers.md) | 4.46 | 0 | 492 |
 | 591 | [Figment](games/f/figment.md) | 4.46 | 20 | 485 |
 | 591 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 314 |
@@ -613,7 +613,7 @@
 | 603 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 851 | 143 |
 | 603 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 47 | 395 |
 | 603 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 492 |
-| 603 | [SMITE](games/s/smite.md) | 4.45 | 3,765 | 76 |
+| 603 | [SMITE](games/s/smite.md) | 4.45 | 3,771 | 76 |
 | 603 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 492 |
 | 603 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 528 | 181 |
 | 603 | [STG Football](games/s/stg_football.md) | 4.45 | 37 | 418 |
@@ -859,7 +859,7 @@
 | 857 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 492 |
 | 857 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 492 |
 | 857 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 383 |
-| 857 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,289 | 96 |
+| 857 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,291 | 96 |
 | 857 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 492 |
 | 862 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 492 |
 | 862 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 0 | 492 |

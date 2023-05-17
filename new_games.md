@@ -8,7 +8,6 @@
 | [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
 | [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-15 | 2023-05-15 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-15 | 2023-01-14 |
-| [Flyto](games/f/flyto.md) | 2023-05-15 | 2023-05-15 |
 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-15 | 2021-04-30 |
 | [Solargene](games/b/b5cf25c05580437a86a74319dac4f182.md) | 2023-05-14 | 2022-01-30 |
 | [Georifters](games/g/georifters.md) | 2023-05-14 | 2020-05-28 |

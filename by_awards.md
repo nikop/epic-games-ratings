@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,305 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 64,312 | 4.62 | 339 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,810 | 4.59 | 398 |
-| 11 | [VALORANT](games/v/valorant.md) | 52,594 | 4.54 | 477 |
+| 11 | [VALORANT](games/v/valorant.md) | 52,693 | 4.54 | 477 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,841 | 4.50 | 530 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 33,032 | 4.59 | 398 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 31,232 | 4.74 | 140 |
@@ -44,7 +44,7 @@
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,311 | 4.57 | 432 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,168 | 4.71 | 177 |
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,071 | 4.58 | 413 |
-| 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,977 | 4.89 | 12 |
+| 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,982 | 4.89 | 12 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,822 | 4.47 | 580 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,764 | 4.67 | 257 |
 | 48 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 641 |
@@ -75,13 +75,13 @@
 | 73 | [God of War](games/g/god_of_war.md) | 3,985 | 4.89 | 12 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,981 | 4.77 | 103 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,873 | 4.56 | 447 |
-| 76 | [SMITE](games/s/smite.md) | 3,765 | 4.45 | 603 |
+| 76 | [SMITE](games/s/smite.md) | 3,771 | 4.45 | 603 |
 | 77 | [Days Gone](games/d/days_gone.md) | 3,755 | 4.69 | 212 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,598 | 4.30 | 756 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,447 | 4.47 | 580 |
 | 80 | [Dead Island 2](games/d/dead_island_2.md) | 3,383 | 4.54 | 477 |
 | 81 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 235 |
-| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,278 | 4.46 | 591 |
+| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,281 | 4.46 | 591 |
 | 83 | [Paladins](games/p/paladins.md) | 3,227 | 4.35 | 715 |
 | 84 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,186 | 4.75 | 128 |
 | 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,180 | 4.59 | 398 |
@@ -95,7 +95,7 @@
 | 93 | [Among Us](games/a/among_us.md) | 2,405 | 4.58 | 413 |
 | 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,359 | 4.80 | 78 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,318 | 4.50 | 530 |
-| 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,289 | 4.10 | 857 |
+| 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,291 | 4.10 | 857 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,256 | 4.78 | 99 |
 | 98 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,218 | 4.67 | 257 |
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,215 | 4.17 | 831 |
