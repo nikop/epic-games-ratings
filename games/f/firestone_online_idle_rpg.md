@@ -5,14 +5,14 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~987 |
-| World Map | 80.00% | ~840 |
-| Temple of Eternals | 56.00% | ~588 |
-| Prestigious | 52.00% | ~546 |
-| Fellowship Power | 40.00% | ~420 |
+| Victor | 94.00% | ~988 |
+| World Map | 80.00% | ~841 |
+| Temple of Eternals | 56.00% | ~589 |
+| Prestigious | 52.00% | ~547 |
+| Fellowship Power | 39.00% | ~410 |
 | Guild Power | 24.00% | ~252 |
 | Prestigious x10 | 20.00% | ~210 |
-| The game is on | 17.00% | ~178 |
+| The game is on | 17.00% | ~179 |
 | Dragon Clicker | 15.00% | ~158 |
 | Exotic Merchant | 15.00% | ~158 |
 | Inspection | 14.00% | ~147 |
@@ -22,14 +22,14 @@ Rating: 3.64 (Ranked 917)
 | Lieutenant | 11.00% | ~116 |
 | Dragon Master | 10.00% | ~105 |
 | Enlightenment | 10.00% | ~105 |
-| The Unstoppable | 9.00% | ~94 |
+| The Unstoppable | 9.00% | ~95 |
 | Mysterious Rock | 8.00% | ~84 |
 | Natural Talent | 8.00% | ~84 |
 | Superior | 8.00% | ~84 |
 | Milestone collector | 7.00% | ~74 |
 | Scientist | 7.00% | ~74 |
 | Daily Quest Completionist | 6.00% | ~63 |
-| Challenger | 5.00% | ~52 |
+| Challenger | 5.00% | ~53 |
 | Frostfire Liberator | 4.00% | ~42 |
 | Hunter | 4.00% | ~42 |
 | Mastery | 4.00% | ~42 |
@@ -48,12 +48,12 @@ Rating: 3.64 (Ranked 917)
 | Trader | 2.00% | ~21 |
 | Weekly Quest Completionist | 2.00% | ~21 |
 | What lies behind the bush | 2.00% | ~21 |
-| Active Member | 1.00% | ~10 |
-| Dragon Slayer | 1.00% | ~10 |
-| Engineer Mastery | 1.00% | ~10 |
-| Four Leaf Clover | 1.00% | ~10 |
-| Lock And Load | 1.00% | ~10 |
-| Relic Of The Past | 1.00% | ~10 |
+| Active Member | 1.00% | ~11 |
+| Dragon Slayer | 1.00% | ~11 |
+| Engineer Mastery | 1.00% | ~11 |
+| Four Leaf Clover | 1.00% | ~11 |
+| Lock And Load | 1.00% | ~11 |
+| Relic Of The Past | 1.00% | ~11 |
 | Blueprint Upgrades | 0.90% | ~9 |
 | Crystal Mining | 0.90% | ~9 |
 | Legendary | 0.70% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050 (Ranked 162)  
+Progressed: 1,051 (Ranked 162)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-14 | 1,017 | 1 |
 | 2023-05-15 | 1,032 | 1 |
 | 2023-05-16 | 1,047 | 1 |
-| 2023-05-17 | 1,050 | 1 |
+| 2023-05-17 | 1,051 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,24 +1,24 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 163)  
+Rating: 4.72 (Ranked 164)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~3,888 |
+| Longrunner | 78.00% | ~3,889 |
 | Sword Runner | 63.00% | ~3,141 |
-| Wallrunner | 58.00% | ~2,891 |
-| Running out of breath | 57.00% | ~2,841 |
+| Wallrunner | 58.00% | ~2,892 |
+| Running out of breath | 57.00% | ~2,842 |
 | Homerunner | 48.00% | ~2,393 |
 | I call it luck | 47.00% | ~2,343 |
 | Out of order | 47.00% | ~2,343 |
-| Where are my Keys? | 45.00% | ~2,243 |
+| Where are my Keys? | 45.00% | ~2,244 |
 | Back to hell | 40.00% | ~1,994 |
 | Perfection | 35.00% | ~1,745 |
-| Sword to a gunfight | 32.00% | ~1,595 |
-| Why not both | 32.00% | ~1,595 |
-| Upgrades not mandatory | 31.00% | ~1,545 |
+| Sword to a gunfight | 32.00% | ~1,596 |
+| Why not both | 32.00% | ~1,596 |
+| Upgrades not mandatory | 31.00% | ~1,546 |
 | Artificial selection | 30.00% | ~1,496 |
 | Control freak | 30.00% | ~1,496 |
 | Running Wild | 30.00% | ~1,496 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Pre-empative strike | 15.00% | ~748 |
 | More than human | 13.00% | ~648 |
 | Strike | 13.00% | ~648 |
-| Triple A | 10.00% | ~498 |
+| Triple A | 10.00% | ~499 |
 | Fine addition | 8.00% | ~399 |
 | One Of Those Days | 7.00% | ~349 |
 | About Adam | 5.00% | ~249 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~25 |
 | Up Close And Personal | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,985 (Ranked 122)  
+Progressed: 4,986 (Ranked 122)  
 Completed: 25 (0.50%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 25 (0.50%) (Ranked 105)
 | 2023-05-14 | 4,799 | 24 |
 | 2023-05-15 | 4,867 | 24 |
 | 2023-05-16 | 4,950 | 25 |
-| 2023-05-17 | 4,985 | 25 |
+| 2023-05-17 | 4,986 | 25 |
 ## Awards
 Max (Great Boss Battles): 456  (Ranked 189)  
 Sum: 590 (Ranked 283)  

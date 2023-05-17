@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Spire of Iriolarthas | 0.10% | ~54 |
 | Always Watching | 0.10% | ~54 |
 | The Fall of Ythryn | 0.10% | ~54 |
+| Icequake | 0.10% | ~54 |
 | A Lesson in Classes | 0.10% | ~54 |
 | The Prince of a Thousand Enemies | 0.10% | ~54 |
 | The Birds | 0.10% | ~54 |
@@ -88,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.10% | ~54 |
 | Vecna Lives! | 0.10% | ~54 |
 | Overwhelmed with Knowledge | 0.10% | ~54 |
+| A Demi-god's Defender | 0.10% | ~54 |
 | Vecna Loots! | 0.10% | ~54 |
 | Well Equipped | 0.10% | ~54 |
 | Friends of the Forest | 0.10% | ~88 |
@@ -126,6 +128,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.10% | ~88 |
 | Taking Responsibility | 0.10% | ~88 |
 | The Minions of Endelyn Moongrave | 0.10% | ~54 |
+| Between a Brigganock and a Hard Place | 0.10% | ~54 |
 | Love Unsoiled | 0.10% | ~54 |
 | The Play's the Thing! | 0.10% | ~54 |
 | The Bitter End | 0.10% | ~54 |
@@ -395,6 +398,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ten in Ten-Towns | 0.10% | ~54 |
 | Civilization | 0.10% | ~54 |
 | Trench Coat Run | 0.10% | ~54 |
+| The Taunting Lord | 0.10% | ~54 |
 | Durable Deep | 0.10% | ~88 |
 | Lone Wolf Party | 0.10% | ~54 |
 | The Sibriex | 0.10% | ~54 |
@@ -414,6 +418,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Pick at the Scab | 0.10% | ~54 |
 | Going To Eleven | 0.10% | ~54 |
 | Idyllglen | 0.10% | ~54 |
+| The Madness of Yeenoghu | 0.10% | ~54 |
 | Reya Reborn | 0.10% | ~54 |
 | The Radiant Nightmare | 0.10% | ~54 |
 | Quick Thinking | 0.10% | ~54 |
@@ -469,12 +474,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.10% | ~88 |
 | Back to Nature | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
-| Icequake | 0.00% | ~0 |
 | Uncommon Allies | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
-| A Demi-god's Defender | 0.00% | ~0 |
 | Struggling Toward Omu | 0.00% | ~0 |
-| Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Fall From Grace | 0.00% | ~0 |
@@ -488,10 +490,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Madcap Adventures Redux | 0.00% | ~0 |
-| The Taunting Lord | 0.00% | ~0 |
 | Wrecked Flying Fortress | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
-| The Madness of Yeenoghu | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,750 (Ranked 59)  
-Completed: 1,847 (2.10%) (Ranked 60)  
+Progressed: 87,758 (Ranked 59)  
+Completed: 1,848 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -527,7 +527,7 @@ Completed: 1,847 (2.10%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,750 | 1,847 |
+| 2023-05-17 | 87,758 | 1,848 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,900 (Ranked 37)  

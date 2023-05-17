@@ -12,7 +12,7 @@
 | Locked Away | 32.00% | ~10 |
 | A Little Renovating | 32.00% | ~10 |
 | Smeltastic! | 32.00% | ~10 |
-| Deflect This! | 23.00% | ~7 |
+| Deflect This! | 26.00% | ~8 |
 | Just Some Improvements | 19.00% | ~6 |
 | It's a Sign! | 19.00% | ~6 |
 | A Little Extra Love | 16.00% | ~5 |

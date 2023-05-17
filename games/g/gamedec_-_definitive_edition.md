@@ -1,28 +1,28 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.33 (Ranked 736)  
+Rating: 4.32 (Ranked 742)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~63,220 |
-| Powergamer | 26.00% | ~58,705 |
-| Barely scratched the surface | 25.00% | ~56,447 |
-| Write that down | 24.00% | ~54,189 |
-| Guns, lots of guns | 12.00% | ~27,094 |
-| Collector | 11.00% | ~24,837 |
-| Elementary! | 8.00% | ~18,063 |
-| Pumpkin Jack | 8.00% | ~18,063 |
-| Wake up! | 8.00% | ~18,063 |
-| It's honest work | 7.00% | ~15,805 |
-| Griever | 7.00% | ~15,805 |
-| Me smart | 6.00% | ~13,547 |
-| Good listener | 5.00% | ~11,289 |
-| Trash compactor | 5.00% | ~11,289 |
-| Valedictorian | 5.00% | ~11,289 |
-| BOY! | 4.00% | ~9,031 |
-| Ka-ching! | 4.00% | ~9,031 |
+| I will finish what you started | 28.00% | ~63,224 |
+| Powergamer | 26.00% | ~58,708 |
+| Barely scratched the surface | 25.00% | ~56,450 |
+| Write that down | 24.00% | ~54,192 |
+| Guns, lots of guns | 12.00% | ~27,096 |
+| Collector | 11.00% | ~24,838 |
+| Elementary! | 8.00% | ~18,064 |
+| Pumpkin Jack | 8.00% | ~18,064 |
+| Wake up! | 8.00% | ~18,064 |
+| It's honest work | 7.00% | ~15,806 |
+| Griever | 7.00% | ~15,806 |
+| Me smart | 6.00% | ~13,548 |
+| Good listener | 5.00% | ~11,290 |
+| Trash compactor | 5.00% | ~11,290 |
+| Valedictorian | 5.00% | ~11,290 |
+| BOY! | 4.00% | ~9,032 |
+| Ka-ching! | 4.00% | ~9,032 |
 | I like to sniff around | 3.00% | ~6,774 |
 | Mind reader | 3.00% | ~6,774 |
 | So you like to read? | 3.00% | ~6,774 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~452 |
 | Memory 5 | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,787 (Ranked 42)  
+Progressed: 225,799 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 5 (0.00%) (Ranked 199)
 | 2023-05-14 | 225,347 | 5 |
 | 2023-05-15 | 225,536 | 5 |
 | 2023-05-16 | 225,722 | 5 |
-| 2023-05-17 | 225,787 | 5 |
+| 2023-05-17 | 225,799 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 357)  
 Sum: 73 (Ranked 416)  
@@ -148,3 +148,4 @@ Diff (max vs sum): -59
 | 2023-04-30 | 4.33 | - | 71 | 71 |
 | 2023-05-08 | 4.33 | - | 72 | 72 |
 | 2023-05-13 | 4.33 | - | 73 | 73 |
+| 2023-05-17 | 4.32 | - | 73 | 73 |

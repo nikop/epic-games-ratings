@@ -4,8 +4,8 @@
   "ProductSlug": "atari-mania-702c68",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-13T07:00:00+00:00",
     "PcReleaseDate": "2022-10-13T07:00:00+00:00",
@@ -199,8 +199,8 @@
   "FirstSeenRating": "2023-03-31T05:57:54.0080897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.3948167+00:00",
   "LastChanged": "2023-03-31T05:57:54.0080898+00:00",
-  "LastChanged_Achievements": "2023-05-17T11:00:35.6292817+00:00",
+  "LastChanged_Achievements": "2023-05-17T12:00:59.1604143+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:29.7212695+00:00",
-  "LastUpdate_Ratings": "2023-05-17T10:58:16.6713814+00:00",
-  "LastUpdate_Achievements": "2023-05-17T11:00:35.6293012+00:00"
+  "LastUpdate_Ratings": "2023-05-17T11:58:40.5337634+00:00",
+  "LastUpdate_Achievements": "2023-05-17T12:00:59.1604277+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 743,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13638,
+  "EOS_Progressed": 13639,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2245,6 +2245,11 @@
       "Time": "2023-05-17T11:05:20.2586171+00:00",
       "NumProgressed": 13638,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-05-17T12:05:19.4957721+00:00",
+      "NumProgressed": 13639,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 16,
@@ -2328,7 +2333,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5864
+      "UsersEstimate": 5865
     },
     {
       "ID": "Mirrors",
@@ -2352,7 +2357,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 6955
+      "UsersEstimate": 6956
     },
     {
       "ID": "Sole_Survivor",
@@ -2383,15 +2388,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13638,
+      "Progressed": 13639,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-10T20:58:58.4288263+00:00",
-  "LastChanged_Achievements": "2023-05-17T11:05:20.2586166+00:00",
+  "LastChanged_Achievements": "2023-05-17T12:05:19.4957717+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:58.6033927+00:00",
-  "LastUpdate_Ratings": "2023-05-17T10:58:44.6759309+00:00",
-  "LastUpdate_Achievements": "2023-05-17T11:05:20.2586415+00:00"
+  "LastUpdate_Ratings": "2023-05-17T11:59:10.3911205+00:00",
+  "LastUpdate_Achievements": "2023-05-17T12:05:19.4957899+00:00"
 }

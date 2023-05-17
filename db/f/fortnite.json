@@ -2,20 +2,20 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 762,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
     "PcReleaseDate": "2017-07-21T09:00:50+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.29,
+  "Rating": 4.3,
   "NumberOfRatings": 2283925,
   "RatingHistory": [
     {
@@ -4673,6 +4673,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 9510156,
       "NumberOfAwardsMax": 1316186
+    },
+    {
+      "Time": "2023-05-17T11:57:33.1955447+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 9510156,
+      "NumberOfAwardsMax": 1316186
     }
   ],
   "ReviewsDisabled": false,
@@ -4740,8 +4746,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-05-16T21:57:25.9599808+00:00",
+  "LastChanged": "2023-05-17T11:57:33.1955246+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:21.6789571+00:00",
-  "LastUpdate_Ratings": "2023-05-17T10:57:11.5080411+00:00",
-  "LastUpdate_Achievements": "2023-05-17T11:02:04.174808+00:00"
+  "LastUpdate_Ratings": "2023-05-17T11:57:33.1955451+00:00",
+  "LastUpdate_Achievements": "2023-05-17T12:01:16.5482911+00:00"
 }

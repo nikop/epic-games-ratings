@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1717,6 +1717,11 @@
       "Time": "2023-05-17T08:05:05.9289096+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T12:05:23.9986544+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1728,7 +1733,7 @@
       "Name": "Active Member",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ancientknowledge",
@@ -1792,7 +1797,7 @@
       "Name": "Challenger",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "conqueror",
@@ -1848,7 +1853,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ebonyjungleliberator",
@@ -1880,7 +1885,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "enhancedwarmachines",
@@ -1910,9 +1915,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 410
     },
     {
       "ID": "fourleafclover",
@@ -1920,7 +1925,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "frostfireliberator",
@@ -2032,7 +2037,7 @@
       "Name": "Lock And Load",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "masterenchanter",
@@ -2120,7 +2125,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "prestigiousx10",
@@ -2136,7 +2141,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "sailor",
@@ -2184,7 +2189,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "thealchemist",
@@ -2216,7 +2221,7 @@
       "Name": "The game is on",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "thepowerofawakening",
@@ -2232,7 +2237,7 @@
       "Name": "The Unstoppable",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "titanpower",
@@ -2288,7 +2293,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "warmachinesarmy",
@@ -2320,14 +2325,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 1
     }
   ],
@@ -2335,8 +2340,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-17T11:05:24.7445709+00:00",
+  "LastChanged_Achievements": "2023-05-17T12:05:23.998654+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-17T10:57:44.4766437+00:00",
-  "LastUpdate_Achievements": "2023-05-17T11:05:24.7446604+00:00"
+  "LastUpdate_Ratings": "2023-05-17T11:58:07.0478744+00:00",
+  "LastUpdate_Achievements": "2023-05-17T12:05:23.9987312+00:00"
 }

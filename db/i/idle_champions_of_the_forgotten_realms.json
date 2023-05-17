@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3748,11 +3748,11 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87750,
-  "EOS_Completed": 1847,
-  "EOS_NewPlayers": 708,
-  "EOS_NewCompleters": 26,
-  "EOS_Completed_Percentage": 2.1,
+  "EOS_Progressed": 87758,
+  "EOS_Completed": 1848,
+  "EOS_NewPlayers": 710,
+  "EOS_NewCompleters": 27,
+  "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -6238,6 +6238,11 @@
       "Time": "2023-05-17T10:05:31.5982725+00:00",
       "NumProgressed": 87750,
       "NumCompleted": 1847
+    },
+    {
+      "Time": "2023-05-17T12:05:51.6703028+00:00",
+      "NumProgressed": 87758,
+      "NumCompleted": 1848
     }
   ],
   "TotalAchievements": 493,
@@ -6471,9 +6476,9 @@
       "ID": "objective_completed_1076",
       "SetID": "415jc5c",
       "Name": "Icequake",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1077",
@@ -6943,9 +6948,9 @@
       "ID": "objective_completed_1165",
       "SetID": "415jc5c",
       "Name": "A Demi-god\u0027s Defender",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1168",
@@ -7263,9 +7268,9 @@
       "ID": "objective_completed_1326",
       "SetID": "415jc5c",
       "Name": "Between a Brigganock and a Hard Place",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1330",
@@ -9527,9 +9532,9 @@
       "ID": "objective_completed_809",
       "SetID": "415jc5c",
       "Name": "The Taunting Lord",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_81",
@@ -9703,9 +9708,9 @@
       "ID": "objective_completed_843",
       "SetID": "415jc5c",
       "Name": "The Madness of Yeenoghu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_844",
@@ -10192,21 +10197,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54024,
+      "Progressed": 54032,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87750,
-      "Completed": 1847
+      "Progressed": 87758,
+      "Completed": 1848
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T11:05:51.9775733+00:00",
+  "LastChanged_Achievements": "2023-05-17T12:05:51.6703024+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T10:57:47.5012052+00:00",
-  "LastUpdate_Achievements": "2023-05-17T11:05:51.979971+00:00"
+  "LastUpdate_Ratings": "2023-05-17T11:58:09.4536686+00:00",
+  "LastUpdate_Achievements": "2023-05-17T12:05:51.6724562+00:00"
 }

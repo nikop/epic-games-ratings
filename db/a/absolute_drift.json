@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516781,
+  "EOS_Progressed": 1516783,
   "EOS_Completed": 605,
-  "EOS_NewPlayers": 1320,
+  "EOS_NewPlayers": 1313,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3005,6 +3005,11 @@
       "Time": "2023-05-17T11:05:36.0531883+00:00",
       "NumProgressed": 1516781,
       "NumCompleted": 605
+    },
+    {
+      "Time": "2023-05-17T12:05:35.1522151+00:00",
+      "NumProgressed": 1516783,
+      "NumCompleted": 605
     }
   ],
   "TotalAchievements": 20,
@@ -3128,7 +3133,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121342
+      "UsersEstimate": 121343
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -3175,15 +3180,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1516781,
+      "Progressed": 1516783,
       "Completed": 605
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-17T11:05:36.053187+00:00",
+  "LastChanged_Achievements": "2023-05-17T12:05:35.1522146+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.7394244+00:00",
-  "LastUpdate_Ratings": "2023-05-17T10:59:51.0646168+00:00",
-  "LastUpdate_Achievements": "2023-05-17T11:05:36.0532202+00:00"
+  "LastUpdate_Ratings": "2023-05-17T12:00:14.0123717+00:00",
+  "LastUpdate_Achievements": "2023-05-17T12:05:35.1522374+00:00"
 }

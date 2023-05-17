@@ -6,19 +6,19 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~176,437 |
-| I know the Rules | 43.00% | ~93,664 |
-| Contender | 11.00% | ~23,961 |
-| I Found it! | 6.00% | ~13,069 |
-| Dress Code | 4.00% | ~8,713 |
+| Ball Launched | 81.00% | ~176,452 |
+| I know the Rules | 43.00% | ~93,672 |
+| Contender | 11.00% | ~23,963 |
+| I Found it! | 6.00% | ~13,071 |
+| Dress Code | 4.00% | ~8,714 |
 | First but not Last | 3.00% | ~6,535 |
-| Ready Steady Score | 2.00% | ~4,356 |
-| Full Loot Madness | 2.00% | ~4,356 |
-| Nine Zeroes | 0.90% | ~1,960 |
+| Ready Steady Score | 2.00% | ~4,357 |
+| Full Loot Madness | 2.00% | ~4,357 |
+| Nine Zeroes | 0.90% | ~1,961 |
 | My Table, my Rules | 0.80% | ~1,743 |
-| Shiny Memento | 0.30% | ~653 |
-| Pinball Hoarder | 0.30% | ~653 |
-| Interior Designer | 0.30% | ~653 |
+| Shiny Memento | 0.30% | ~654 |
+| Pinball Hoarder | 0.30% | ~654 |
+| Interior Designer | 0.30% | ~654 |
 | Table Mastered, part 10 | 0.10% | ~218 |
 | Medal Hunter | 0.10% | ~218 |
 | Medal Wizard | 0.10% | ~218 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,823 (Ranked 45)  
+Progressed: 217,842 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 216,870 | 0 |
 | 2023-05-15 | 217,332 | 0 |
 | 2023-05-16 | 217,673 | 0 |
-| 2023-05-17 | 217,823 | 0 |
+| 2023-05-17 | 217,842 | 0 |
 ## Awards
 Max (Great for Beginners): 173  (Ranked 272)  
 Sum: 1,490 (Ranked 208)  
