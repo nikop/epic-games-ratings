@@ -11,6 +11,7 @@ Rating: 4.40 (Ranked 669)
 | Gunslinger | 0.10% | ~1 |
 | Precision Is Key | 0.10% | ~1 |
 | Confirming Suspicions | 0.10% | ~1 |
+| Lord of War | 0.10% | ~1 |
 | Resourceful | 0.10% | ~1 |
 | It's Starting to Crack | 0.10% | ~1 |
 | Change the Channel | 0.10% | ~1 |
@@ -39,7 +40,6 @@ Rating: 4.40 (Ranked 669)
 | Rigged to Blow | 0.00% | ~0 |
 | My Little Friend | 0.00% | ~0 |
 | Explosive Efficiency | 0.00% | ~0 |
-| Lord of War | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
 | Der Geist | 0.00% | ~0 |
 | As Quiet as a Mouse | 0.00% | ~0 |

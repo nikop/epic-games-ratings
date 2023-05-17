@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2464,
+  "EOS_Progressed": 2465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1425,6 +1425,11 @@
       "Time": "2023-05-17T22:01:49.4047231+00:00",
       "NumProgressed": 2464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T23:02:06.1172861+00:00",
+      "NumProgressed": 2465,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1444,7 +1449,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "11",
@@ -1460,7 +1465,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "13",
@@ -1476,7 +1481,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "15",
@@ -1540,7 +1545,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "22",
@@ -1548,7 +1553,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "23",
@@ -1588,7 +1593,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "6",
@@ -1620,20 +1625,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2464,
+      "Progressed": 2465,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-17T22:01:49.4047227+00:00",
+  "LastChanged_Achievements": "2023-05-17T23:02:06.1172855+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:59:22.4931316+00:00",
-  "LastUpdate_Achievements": "2023-05-17T22:01:49.4047871+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:59:27.0496886+00:00",
+  "LastUpdate_Achievements": "2023-05-17T23:02:06.1173133+00:00"
 }

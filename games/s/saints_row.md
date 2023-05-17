@@ -6,20 +6,21 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Side Job | 0.30% | ~87 |
 | First F#@!ing Day | 0.30% | ~87 |
+| Tune Up | 0.30% | ~87 |
 | Optimized | 0.30% | ~87 |
+| Performance Review | 0.30% | ~87 |
+| Making a Name | 0.30% | ~87 |
 | To The Nines | 0.30% | ~87 |
 | Quality Time | 0.20% | ~58 |
 | Finders Keepers | 0.20% | ~58 |
-| The Side Job | 0.20% | ~58 |
 | Wet Work | 0.20% | ~58 |
-| Tune Up | 0.20% | ~58 |
 | A Young Empire | 0.20% | ~58 |
 | Landlord | 0.20% | ~58 |
 | Work Ethic | 0.20% | ~58 |
-| Performance Review | 0.20% | ~58 |
+| Picking Fights | 0.20% | ~58 |
 | Wrecking Ball | 0.20% | ~58 |
-| Making a Name | 0.20% | ~58 |
 | Food for Thought | 0.20% | ~58 |
 | Jack of All Trades | 0.10% | ~29 |
 | It's a Bird! | 0.10% | ~29 |
@@ -44,7 +45,6 @@ Number of Ratings: 22,103  (23.09.2022)
 | Et tu? | 0.10% | ~29 |
 | Took It to The Limit | 0.10% | ~29 |
 | Free Refills | 0.10% | ~29 |
-| Picking Fights | 0.10% | ~29 |
 | Armor Piercing | 0.10% | ~29 |
 | Neighborly | 0.10% | ~29 |
 | Closet Space | 0.10% | ~29 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Hazardous Heist | 0.10% | ~1 |
 | Fiesta Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,865 (Ranked 85)  
+Progressed: 28,880 (Ranked 85)  
 Completed: 18 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 18 (0.06%) (Ranked 168)
 | 2023-05-14 | 27,748 | 17 |
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
-| 2023-05-17 | 28,865 | 18 |
+| 2023-05-17 | 28,880 | 18 |
 ## Awards
 Max (Extremely Fun): 1,028  (Ranked 133)  
 Sum: 8,329 (Ranked 88)  

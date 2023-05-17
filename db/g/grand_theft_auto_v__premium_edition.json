@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4880,11 +4880,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 1349287,
       "NumberOfAwardsMax": 170579
+    },
+    {
+      "Time": "2023-05-17T23:01:02.777787+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1350977,
+      "NumberOfAwardsMax": 171203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1349287,
-  "NumberOfAwardsMax": 170579,
+  "NumberOfAwards": 1350977,
+  "NumberOfAwardsMax": 171203,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4897,13 +4903,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 144721
+      "Count": 145236
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 157177
+      "Count": 157728
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4945,7 +4951,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 170579
+      "Count": 171203
     }
   ],
   "EOS_Progressed": 0,
@@ -4959,8 +4965,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-05-17T02:01:47.5973779+00:00",
+  "LastChanged": "2023-05-17T23:01:02.7777868+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.7039954+00:00",
-  "LastUpdate_Ratings": "2023-05-17T22:01:00.3882591+00:00",
-  "LastUpdate_Achievements": "2023-05-17T22:03:41.8811126+00:00"
+  "LastUpdate_Ratings": "2023-05-17T23:01:02.7777875+00:00",
+  "LastUpdate_Achievements": "2023-05-17T23:04:05.6657222+00:00"
 }

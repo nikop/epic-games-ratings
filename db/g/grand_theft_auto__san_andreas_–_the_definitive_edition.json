@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7649,
+  "EOS_Progressed": 7650,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1529,6 +1529,11 @@
       "Time": "2023-05-17T21:07:12.2551455+00:00",
       "NumProgressed": 7649,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-17T23:06:24.6439389+00:00",
+      "NumProgressed": 7650,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1540,7 +1545,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6119
+      "UsersEstimate": 6120
     },
     {
       "ID": "ACH02",
@@ -1660,7 +1665,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH17",
@@ -1716,7 +1721,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "ACH24",
@@ -1732,7 +1737,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH26",
@@ -1756,7 +1761,7 @@
       "Name": "Original Gangster",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH29",
@@ -1819,7 +1824,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7649,
+      "Progressed": 7650,
       "Completed": 16
     }
   ],
@@ -1827,8 +1832,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-17T22:06:33.1924964+00:00",
+  "LastChanged_Achievements": "2023-05-17T23:06:24.6439384+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-17T22:01:09.3499423+00:00",
-  "LastUpdate_Achievements": "2023-05-17T22:06:33.192523+00:00"
+  "LastUpdate_Ratings": "2023-05-17T23:01:11.6952865+00:00",
+  "LastUpdate_Achievements": "2023-05-17T23:06:24.6439782+00:00"
 }

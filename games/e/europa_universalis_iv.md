@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,473 |
-| That's a Grand Army | 8.00% | ~3,087 |
-| That is mine! | 8.00% | ~3,087 |
-| Victorious! | 8.00% | ~3,087 |
-| Brothers in Arms | 6.00% | ~2,316 |
-| That's a Grand Navy | 6.00% | ~2,316 |
-| Seriously?! | 6.00% | ~2,316 |
-| For the Glory | 5.00% | ~1,930 |
-| Cold War | 4.00% | ~1,544 |
-| True Catholic | 4.00% | ~1,544 |
+| Until death do us apart | 9.00% | ~3,475 |
+| That's a Grand Army | 8.00% | ~3,089 |
+| That is mine! | 8.00% | ~3,089 |
+| Victorious! | 8.00% | ~3,089 |
+| Brothers in Arms | 6.00% | ~2,317 |
+| That's a Grand Navy | 6.00% | ~2,317 |
+| Seriously?! | 6.00% | ~2,317 |
+| For the Glory | 5.00% | ~1,931 |
+| Cold War | 4.00% | ~1,545 |
+| True Catholic | 4.00% | ~1,545 |
 | Defender of the Faith | 3.00% | ~1,158 |
 | It's all about the money | 3.00% | ~1,158 |
 | Respected | 3.00% | ~1,158 |
@@ -37,7 +37,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~386 |
 | A Golden Empire | 1.00% | ~386 |
 | My armies are invincible! | 1.00% | ~386 |
-| The Five Colonies | 0.90% | ~347 |
+| The Five Colonies | 0.90% | ~348 |
 | Isn't this the way to India? | 0.80% | ~309 |
 | Market Control | 0.80% | ~309 |
 | Down Under | 0.70% | ~270 |
@@ -267,6 +267,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Bohemians | 0.10% | ~39 |
 | The Coin is Stronger than the Sword | 0.10% | ~39 |
 | The Grand Armada | 0.10% | ~39 |
+| The Great Khan | 0.10% | ~39 |
 | The Navigator | 0.10% | ~39 |
 | The Ostenders | 0.10% | ~39 |
 | The Power of Three | 0.10% | ~39 |
@@ -343,7 +344,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sworn Fealty | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
-| The Great Khan | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,593 (Ranked 80)  
+Progressed: 38,614 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
-| 2023-05-17 | 38,593 | 0 |
+| 2023-05-17 | 38,614 | 0 |
 ## Awards
 Max (Educational): 5,228  (Ranked 60)  
 Sum: 43,298 (Ranked 27)  

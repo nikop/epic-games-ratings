@@ -1,7 +1,7 @@
 # shapez
 [Store](https://store.epicgames.com/en-US/p/shapez-0929c9)  
 [View Rawdata](../../db/s/shapez.json)  
-Rating: 4.71 (Ranked 176)  
+Rating: 4.71 (Ranked 177)  
 ## Awards
 Max (Challenging Puzzles): 156  (Ranked 282)  
 Sum: 156 (Ranked 377)  

@@ -248,9 +248,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 10278,
+  "EOS_Progressed": 10279,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -983,6 +983,11 @@
       "Time": "2023-05-17T22:06:23.1775771+00:00",
       "NumProgressed": 10278,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-17T23:06:14.7551577+00:00",
+      "NumProgressed": 10279,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -1026,7 +1031,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 6989
+      "UsersEstimate": 6990
     },
     {
       "ID": "ACH_06",
@@ -1042,7 +1047,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 6372
+      "UsersEstimate": 6373
     },
     {
       "ID": "ACH_08",
@@ -1074,7 +1079,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "ACH_12",
@@ -1082,7 +1087,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 4625
+      "UsersEstimate": 4626
     },
     {
       "ID": "ACH_13",
@@ -1130,7 +1135,7 @@
       "Name": "Herbalist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_19",
@@ -1170,7 +1175,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ACH_24",
@@ -1186,7 +1191,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "ACH_26",
@@ -1210,7 +1215,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 6989
+      "UsersEstimate": 6990
     },
     {
       "ID": "ACH_29",
@@ -1226,7 +1231,7 @@
       "Name": "Fighter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_31",
@@ -1250,7 +1255,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "ACH_34",
@@ -1273,7 +1278,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10278,
+      "Progressed": 10279,
       "Completed": 32
     }
   ],
@@ -1281,8 +1286,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-06T21:01:02.9835105+00:00",
-  "LastChanged_Achievements": "2023-05-17T22:06:23.1775767+00:00",
+  "LastChanged_Achievements": "2023-05-17T23:06:14.7551568+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:15.9050942+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:59:57.766975+00:00",
-  "LastUpdate_Achievements": "2023-05-17T22:06:23.17761+00:00"
+  "LastUpdate_Ratings": "2023-05-17T23:00:02.4869618+00:00",
+  "LastUpdate_Achievements": "2023-05-17T23:06:14.7551894+00:00"
 }

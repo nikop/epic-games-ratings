@@ -4,8 +4,8 @@
   "ProductSlug": "warpaws-a89317",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.2491364+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:58:57.1156776+00:00",
-  "LastUpdate_Achievements": "2023-05-17T22:03:39.6637289+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:59:00.3533576+00:00",
+  "LastUpdate_Achievements": "2023-05-17T23:04:03.463109+00:00"
 }

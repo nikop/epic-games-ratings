@@ -3,12 +3,12 @@
 [View Rawdata](../../db/f/first_class_trouble.json)  
 Rating: 4.51 (Ranked 515)  
 ## Awards
-Max (Great for Beginners): 86  (Ranked 341)  
-Sum: 617 (Ranked 278)  
-Diff (max vs sum): 63  
+Max (Great for Beginners): 87  (Ranked 339)  
+Sum: 618 (Ranked 278)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 86 |
+| This game is Great for Beginners | 87 |
 | This game is Great for Quick Sessions | 85 |
 | This game is Highly Recommended | 74 |
 | This game has Diverse Characters | 71 |
@@ -85,4 +85,4 @@ Diff (max vs sum): 63
 | 2023-05-13 | 4.51 | 86 | 609 |
 | 2023-05-15 | 4.51 | 86 | 613 |
 | 2023-05-16 | 4.51 | 86 | 616 |
-| 2023-05-17 | 4.51 | 86 | 617 |
+| 2023-05-17 | 4.51 | 87 | 618 |

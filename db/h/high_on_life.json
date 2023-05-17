@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22658,
+  "EOS_Progressed": 22659,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -647,6 +647,11 @@
       "Time": "2023-05-17T15:03:27.0514694+00:00",
       "NumProgressed": 22658,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-17T23:03:12.973495+00:00",
+      "NumProgressed": 22659,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -706,7 +711,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6345
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -722,7 +727,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17220
+      "UsersEstimate": 17221
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -762,7 +767,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18806
+      "UsersEstimate": 18807
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -778,7 +783,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12915
+      "UsersEstimate": 12916
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -786,7 +791,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13368
+      "UsersEstimate": 13369
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -794,7 +799,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5664
+      "UsersEstimate": 5665
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -802,7 +807,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -818,7 +823,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6345
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -842,7 +847,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16540
+      "UsersEstimate": 16541
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -890,7 +895,7 @@
       "Name": "Playing Favorites",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH_STANS_STUFF",
@@ -913,7 +918,7 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22658,
+      "Progressed": 22659,
       "Completed": 8
     }
   ],
@@ -921,8 +926,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-07T05:59:32.3480184+00:00",
-  "LastChanged_Achievements": "2023-05-17T22:03:18.8726677+00:00",
+  "LastChanged_Achievements": "2023-05-17T23:03:12.9734946+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.4475252+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:58:17.5530671+00:00",
-  "LastUpdate_Achievements": "2023-05-17T22:03:18.8726893+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:58:19.9971265+00:00",
+  "LastUpdate_Achievements": "2023-05-17T23:03:12.9735213+00:00"
 }

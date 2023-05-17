@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516684,
+  "EOS_Progressed": 516685,
   "EOS_Completed": 406,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2980,6 +2980,11 @@
       "Time": "2023-05-17T22:06:10.5594977+00:00",
       "NumProgressed": 516684,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-17T23:06:02.2536462+00:00",
+      "NumProgressed": 516685,
+      "NumCompleted": 406
     }
   ],
   "TotalAchievements": 57,
@@ -2991,7 +2996,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 118837
+      "UsersEstimate": 118838
     },
     {
       "ID": "10",
@@ -3007,7 +3012,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 361679
+      "UsersEstimate": 361680
     },
     {
       "ID": "12",
@@ -3015,7 +3020,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113670
+      "UsersEstimate": 113671
     },
     {
       "ID": "13",
@@ -3071,7 +3076,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 320344
+      "UsersEstimate": 320345
     },
     {
       "ID": "2",
@@ -3319,7 +3324,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 320344
+      "UsersEstimate": 320345
     },
     {
       "ID": "48",
@@ -3375,7 +3380,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 118837
+      "UsersEstimate": 118838
     },
     {
       "ID": "54",
@@ -3446,15 +3451,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516684,
+      "Progressed": 516685,
       "Completed": 406
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-17T22:06:10.5594974+00:00",
+  "LastChanged_Achievements": "2023-05-17T23:06:02.2536455+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.6308298+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:57:21.2674422+00:00",
-  "LastUpdate_Achievements": "2023-05-17T22:06:10.5595506+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:57:22.6863191+00:00",
+  "LastUpdate_Achievements": "2023-05-17T23:06:02.2537685+00:00"
 }

@@ -47,7 +47,7 @@ Number of Ratings: 20  (23.09.2022)
 | Level Up | 8.00% | ~23 |
 | Cold Blood, Warm Heart | 8.00% | ~23 |
 | No Laughing Matter | 7.00% | ~20 |
-| Zookeeper | 5.00% | ~15 |
+| Zookeeper | 6.00% | ~17 |
 | The Workshop | 5.00% | ~15 |
 | Islander Understanding | 4.00% | ~12 |
 | A Paris Sunset | 4.00% | ~12 |

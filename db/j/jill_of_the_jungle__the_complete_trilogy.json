@@ -1699,9 +1699,9 @@
       "ID": "3",
       "SetID": "dg4cch5",
       "Name": "Jill the Brave",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 64
+      "UsersEstimate": 71
     },
     {
       "ID": "4",
@@ -1732,8 +1732,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-17T22:05:36.139902+00:00",
+  "LastChanged_Achievements": "2023-05-17T23:05:48.3190211+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.3085445+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:57:14.8296832+00:00",
-  "LastUpdate_Achievements": "2023-05-17T22:05:36.1399171+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:57:18.1227211+00:00",
+  "LastUpdate_Achievements": "2023-05-17T23:05:48.3190423+00:00"
 }
