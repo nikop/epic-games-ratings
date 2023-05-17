@@ -2304,9 +2304,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28853,
+  "EOS_Progressed": 28865,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3449,
+  "EOS_NewPlayers": 3432,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4919,6 +4919,11 @@
       "Time": "2023-05-17T21:06:26.1188904+00:00",
       "NumProgressed": 28853,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-17T22:06:02.5200594+00:00",
+      "NumProgressed": 28865,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -4944,9 +4949,9 @@
       "ID": "beat_loyalty_missions",
       "SetID": "3ib2d0i",
       "Name": "Quality Time",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -4976,9 +4981,9 @@
       "ID": "collect_low_amount_hero_props",
       "SetID": "3ib2d0i",
       "Name": "Finders Keepers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "complet_epilogue_mission",
@@ -5056,9 +5061,9 @@
       "ID": "customize_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Optimized",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "cutting_edge_materials",
@@ -5144,9 +5149,9 @@
       "ID": "fully_complete_a_building",
       "SetID": "3ib2d0i",
       "Name": "Work Ethic",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -5312,9 +5317,9 @@
       "ID": "use_profile_app",
       "SetID": "3ib2d0i",
       "Name": "To The Nines",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "whole_map_purple",
@@ -5330,7 +5335,7 @@
       "Name": "Producer Credit",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -5338,7 +5343,7 @@
       "Name": "Face Off",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -5346,29 +5351,29 @@
       "Name": "Hazardous Heist",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28853,
+      "Progressed": 28865,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 490,
-      "Completed": 400
+      "Progressed": 502,
+      "Completed": 401
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-17T21:00:45.7395848+00:00",
-  "LastChanged_Achievements": "2023-05-17T21:06:26.1188899+00:00",
+  "LastChanged_Achievements": "2023-05-17T22:06:02.5200589+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:00:45.7395855+00:00",
-  "LastUpdate_Achievements": "2023-05-17T21:06:26.1189581+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:00:14.8663667+00:00",
+  "LastUpdate_Achievements": "2023-05-17T22:06:02.5200962+00:00"
 }

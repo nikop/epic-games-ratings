@@ -16,7 +16,7 @@
 | Awakened Spirits | 49.00% | ~322 |
 | Little Shop | 48.00% | ~316 |
 | Surprise! | 44.00% | ~290 |
-| An Actor! | 43.00% | ~283 |
+| An Actor! | 44.00% | ~290 |
 | Curtain Call | 42.00% | ~276 |
 | Piece of Cake | 40.00% | ~263 |
 | Gooey Delight! | 39.00% | ~257 |

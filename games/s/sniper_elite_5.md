@@ -13,6 +13,7 @@ Rating: 4.40 (Ranked 669)
 | Confirming Suspicions | 0.10% | ~1 |
 | Resourceful | 0.10% | ~1 |
 | It's Starting to Crack | 0.10% | ~1 |
+| Change the Channel | 0.10% | ~1 |
 | Last Resort | 0.10% | ~1 |
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
@@ -52,7 +53,6 @@ Rating: 4.40 (Ranked 669)
 | Tinkerer | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Locomotion Commotion | 0.00% | ~0 |
-| Change the Channel | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Don't hold your breath | 0.00% | ~0 |

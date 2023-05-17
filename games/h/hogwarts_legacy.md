@@ -45,13 +45,13 @@ Rating: 4.77 (Ranked 103)
 | The Wise Owl | 1.00% | ~2,675 |
 | Demiguise Dread | 0.80% | ~2,140 |
 | A Forte for Achievement | 0.80% | ~2,140 |
-| Savvy Spender | 0.70% | ~1,872 |
+| Savvy Spender | 0.70% | ~1,873 |
 | Merlin's Beard! | 0.60% | ~1,605 |
-| Spilled Milk | 0.50% | ~1,337 |
+| Spilled Milk | 0.50% | ~1,338 |
 | The Nature of the Beast | 0.40% | ~1,070 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,498 (Ranked 38)  
+Progressed: 267,502 (Ranked 38)  
 Completed: 363 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 363 (0.14%) (Ranked 149)
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
 | 2023-05-16 | 267,382 | 362 |
-| 2023-05-17 | 267,498 | 363 |
+| 2023-05-17 | 267,502 | 363 |
 ## Awards
 Max (Character Customization): 18,846  (Ranked 18)  
 Sum: 34,612 (Ranked 33)  

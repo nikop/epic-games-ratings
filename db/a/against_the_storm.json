@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3814,9 +3814,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearDangerous",
@@ -4078,8 +4078,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-17T03:59:57.4704238+00:00",
-  "LastChanged_Achievements": "2023-05-17T21:07:12.7770922+00:00",
+  "LastChanged_Achievements": "2023-05-17T22:06:33.6928709+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:01:23.8006789+00:00",
-  "LastUpdate_Achievements": "2023-05-17T21:07:12.7771506+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:00:48.4673984+00:00",
+  "LastUpdate_Achievements": "2023-05-17T22:06:33.6929108+00:00"
 }

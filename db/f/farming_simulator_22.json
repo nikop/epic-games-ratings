@@ -2,13 +2,13 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -4543,10 +4543,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 36428,
       "NumberOfAwardsMax": 4213
+    },
+    {
+      "Time": "2023-05-17T22:00:16.9063612+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 36432,
+      "NumberOfAwardsMax": 4213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36428,
+  "NumberOfAwards": 36432,
   "NumberOfAwardsMax": 4213,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4602,7 +4608,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3172
+      "Count": 3176
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4625,7 +4631,7 @@
   ],
   "EOS_Progressed": 42488,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7028,9 +7034,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-05-17T19:00:28.9489138+00:00",
-  "LastChanged_Achievements": "2023-05-17T21:06:49.230613+00:00",
+  "LastChanged": "2023-05-17T22:00:16.9063611+00:00",
+  "LastChanged_Achievements": "2023-05-17T22:06:22.4718462+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.4750828+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:00:49.2559796+00:00",
-  "LastUpdate_Achievements": "2023-05-17T21:06:49.2306663+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:00:16.9063616+00:00",
+  "LastUpdate_Achievements": "2023-05-17T22:06:22.4718882+00:00"
 }

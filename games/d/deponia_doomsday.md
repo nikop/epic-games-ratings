@@ -5,22 +5,22 @@ Rating: 4.56 (Ranked 447)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~313 |
-| And again, and again, and... | 63.00% | ~224 |
-| Burn, Elysium, burn! | 62.00% | ~221 |
+| Huzza, he's back. | 88.00% | ~314 |
+| And again, and again, and... | 63.00% | ~225 |
+| Burn, Elysium, burn! | 61.00% | ~218 |
 | Kuvaq Minigame-Master | 60.00% | ~214 |
-| FunScore | 54.00% | ~192 |
+| FunScore | 54.00% | ~193 |
 | Funtime's over | 51.00% | ~182 |
-| Chunky | 49.00% | ~174 |
+| Chunky | 49.00% | ~175 |
 | Shall we play a game? | 48.00% | ~171 |
-| Boat of love, boat of love | 47.00% | ~167 |
+| Boat of love, boat of love | 46.00% | ~164 |
 | School's out | 42.00% | ~150 |
-| Scaffolding Expert | 37.00% | ~132 |
-| Sole Music | 36.00% | ~128 |
-| Elysian Minigame-Master | 36.00% | ~128 |
-| No man left behind! | 29.00% | ~103 |
-| Portals come in packs | 29.00% | ~103 |
-| Photo Friend | 26.00% | ~93 |
+| Sole Music | 36.00% | ~129 |
+| Scaffolding Expert | 36.00% | ~129 |
+| Elysian Minigame-Master | 36.00% | ~129 |
+| No man left behind! | 29.00% | ~104 |
+| Portals come in packs | 29.00% | ~104 |
+| Photo Friend | 25.00% | ~89 |
 | Brainfreeze | 21.00% | ~75 |
 | Masseltov | 19.00% | ~68 |
 | And everything comes full circle. | 18.00% | ~64 |
@@ -32,8 +32,8 @@ Rating: 4.56 (Ranked 447)
 | Goat Team | 10.00% | ~36 |
 | Play it again, Ronny | 10.00% | ~36 |
 | Paradox! | 10.00% | ~36 |
-| Weapons 101 | 8.00% | ~28 |
-| Sadist | 8.00% | ~28 |
+| Weapons 101 | 8.00% | ~29 |
+| Sadist | 8.00% | ~29 |
 | The customer is always right | 7.00% | ~25 |
 | Apoca...huh? | 7.00% | ~25 |
 | Distraction | 6.00% | ~21 |
@@ -42,14 +42,15 @@ Rating: 4.56 (Ranked 447)
 | Every man for himself! | 5.00% | ~18 |
 | 1001 Jackalopes | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 356 (Ranked 198)  
-Completed: 6 (1.69%) (Ranked 64)  
+Progressed: 357 (Ranked 198)  
+Completed: 6 (1.68%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 354 | 6 |
 | 2023-04-29 | 355 | 6 |
 | 2023-05-02 | 356 | 6 |
+| 2023-05-17 | 357 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

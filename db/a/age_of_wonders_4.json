@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2657,
+  "EOS_Progressed": 2659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1076,
+  "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2023-05-17T21:03:18.1673685+00:00",
       "NumProgressed": 2657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T22:03:02.5746745+00:00",
+      "NumProgressed": 2659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1075,7 +1080,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "10",
@@ -1091,7 +1096,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "12",
@@ -1107,7 +1112,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "14",
@@ -1115,7 +1120,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "15",
@@ -1145,9 +1150,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 452
     },
     {
       "ID": "19",
@@ -1155,15 +1160,15 @@
       "Name": "The Creator",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 691
     },
     {
       "ID": "20",
@@ -1187,7 +1192,7 @@
       "Name": "Realm Estate",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2127
     },
     {
       "ID": "23",
@@ -1195,7 +1200,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2207
     },
     {
       "ID": "24",
@@ -1203,7 +1208,7 @@
       "Name": "Secret Technique",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2127
     },
     {
       "ID": "25",
@@ -1211,7 +1216,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "26",
@@ -1219,7 +1224,7 @@
       "Name": "Bone Peddler",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1702
     },
     {
       "ID": "27",
@@ -1227,7 +1232,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "28",
@@ -1235,7 +1240,7 @@
       "Name": "From Friends to Family",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "29",
@@ -1243,7 +1248,7 @@
       "Name": "Stronger Together",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "3",
@@ -1267,7 +1272,7 @@
       "Name": "Magical Synergy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1782
     },
     {
       "ID": "32",
@@ -1275,7 +1280,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "33",
@@ -1283,7 +1288,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "34",
@@ -1315,7 +1320,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "38",
@@ -1339,7 +1344,7 @@
       "Name": "The Eternal Court",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "40",
@@ -1347,7 +1352,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "41",
@@ -1355,7 +1360,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "42",
@@ -1426,13 +1431,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 2657,
-      "Completed": 2657
+      "Progressed": 2659,
+      "Completed": 2659
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 2657,
+      "Progressed": 2659,
       "Completed": 0
     }
   ],
@@ -1440,8 +1445,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-15T19:58:41.4280533+00:00",
-  "LastChanged_Achievements": "2023-05-17T21:03:18.1673679+00:00",
+  "LastChanged_Achievements": "2023-05-17T22:03:02.5746741+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:18.5454373+00:00",
-  "LastUpdate_Ratings": "2023-05-17T21:00:28.8451563+00:00",
-  "LastUpdate_Achievements": "2023-05-17T21:03:18.1674178+00:00"
+  "LastUpdate_Ratings": "2023-05-17T22:00:01.3882593+00:00",
+  "LastUpdate_Achievements": "2023-05-17T22:03:02.5747088+00:00"
 }
