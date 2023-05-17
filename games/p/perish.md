@@ -25,20 +25,20 @@
 | Eidola | 3.00% | ~85 |
 | Divine Assemblage | 3.00% | ~85 |
 | Ophiolatreia | 3.00% | ~85 |
-| Comedy and Tragedy | 2.00% | ~56 |
-| Wayward Son of Hephaestus | 2.00% | ~56 |
-| Forged in Fire | 2.00% | ~56 |
-| Chthonic Investor | 2.00% | ~56 |
-| First Fragment | 2.00% | ~56 |
-| Hapax Legomenon | 2.00% | ~56 |
-| Labour of Apollo | 2.00% | ~56 |
-| Vandili | 2.00% | ~56 |
-| Cloaca Maxima | 2.00% | ~56 |
-| Baby Crabs They Ain't | 2.00% | ~56 |
-| Halls of Marble | 2.00% | ~56 |
-| Mors Omnibus | 2.00% | ~56 |
-| Blot Out the Sky | 2.00% | ~56 |
-| Serpentine | 2.00% | ~56 |
+| Comedy and Tragedy | 2.00% | ~57 |
+| Wayward Son of Hephaestus | 2.00% | ~57 |
+| Forged in Fire | 2.00% | ~57 |
+| Chthonic Investor | 2.00% | ~57 |
+| First Fragment | 2.00% | ~57 |
+| Hapax Legomenon | 2.00% | ~57 |
+| Labour of Apollo | 2.00% | ~57 |
+| Vandili | 2.00% | ~57 |
+| Cloaca Maxima | 2.00% | ~57 |
+| Baby Crabs They Ain't | 2.00% | ~57 |
+| Halls of Marble | 2.00% | ~57 |
+| Mors Omnibus | 2.00% | ~57 |
+| Blot Out the Sky | 2.00% | ~57 |
+| Serpentine | 2.00% | ~57 |
 | The Nameless One | 1.00% | ~28 |
 | Lament of the Constellations | 1.00% | ~28 |
 | Rule of Thirds | 1.00% | ~28 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,825 (Ranked 133)  
+Progressed: 2,827 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 2,819 | 0 |
 | 2023-05-15 | 2,821 | 0 |
 | 2023-05-16 | 2,824 | 0 |
-| 2023-05-17 | 2,825 | 0 |
+| 2023-05-17 | 2,827 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

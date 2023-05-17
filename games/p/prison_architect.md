@@ -6,14 +6,14 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~31,584 |
-| Get Busy Living | 17.00% | ~20,651 |
+| Stone Walls | 26.00% | ~31,586 |
+| Get Busy Living | 17.00% | ~20,652 |
 | Samuel Norton | 10.00% | ~12,148 |
 | Spare The Rod | 5.00% | ~6,074 |
 | Wait and Hope | 4.00% | ~4,859 |
 | I May Have Found A Way Out Of Here | 4.00% | ~4,859 |
-| Don't Put Me In The Dark | 3.00% | ~3,644 |
-| Iron Bars | 3.00% | ~3,644 |
+| Don't Put Me In The Dark | 3.00% | ~3,645 |
+| Iron Bars | 3.00% | ~3,645 |
 | Throw The Book At Them | 2.00% | ~2,430 |
 | D.B. Cooper | 1.00% | ~1,215 |
 | Reformation | 0.60% | ~729 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~121 |
 | ... It's What You Can Prove | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,478 (Ranked 55)  
+Progressed: 121,484 (Ranked 55)  
 Completed: 4 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,10 +50,10 @@ Completed: 4 (0.00%) (Ranked 199)
 | 2023-05-14 | 120,654 | 4 |
 | 2023-05-15 | 121,051 | 4 |
 | 2023-05-16 | 121,418 | 4 |
-| 2023-05-17 | 121,478 | 4 |
+| 2023-05-17 | 121,484 | 4 |
 ## Awards
 Max (Extremely Fun): 415  (Ranked 195)  
-Sum: 3,279 (Ranked 144)  
+Sum: 3,281 (Ranked 144)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -65,7 +65,7 @@ Diff (max vs sum): 51
 | This game has Diverse Characters | 358 |
 | This game has Amazing Storytelling | 355 |
 | This game has Amazing Characters | 329 |
-| This game has a Creative Community | 258 |
+| This game has a Creative Community | 260 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -188,3 +188,4 @@ Diff (max vs sum): 51
 | 2023-05-14 | 4.61 | - | 414 | 3,268 |
 | 2023-05-15 | 4.61 | - | 414 | 3,274 |
 | 2023-05-16 | 4.61 | - | 415 | 3,279 |
+| 2023-05-17 | 4.61 | - | 415 | 3,281 |

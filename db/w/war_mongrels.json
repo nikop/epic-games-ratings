@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -543,9 +543,9 @@
       "ID": "ACH_COLL_CH03",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter III",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -559,9 +559,9 @@
       "ID": "ACH_COLL_CH05",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter V",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -575,17 +575,17 @@
       "ID": "ACH_COLL_CH07",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VII",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_COLL_CH08",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VIII",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_COLL_CH09",
@@ -615,9 +615,9 @@
       "ID": "ACH_COLL_CH12",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XII",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_FIN_CH01",
@@ -679,9 +679,9 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -695,33 +695,33 @@
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_FIN_CH12",
       "SetID": "1j25agn",
       "Name": "Atonement",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_HARD_1",
       "SetID": "1j25agn",
       "Name": "Such is War!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_HARD_ALL",
@@ -847,9 +847,9 @@
       "ID": "ACH_NEST2",
       "SetID": "1j25agn",
       "Name": "Daddy Would Be Proud",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_NODETECT",
@@ -879,8 +879,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-17T04:05:32.0983894+00:00",
+  "LastChanged_Achievements": "2023-05-17T05:05:34.2946179+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:26.9106567+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:57:19.6430459+00:00",
-  "LastUpdate_Achievements": "2023-05-17T04:05:32.0984332+00:00"
+  "LastUpdate_Ratings": "2023-05-17T04:57:26.7693144+00:00",
+  "LastUpdate_Achievements": "2023-05-17T05:05:34.2946829+00:00"
 }

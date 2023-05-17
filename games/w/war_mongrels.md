@@ -24,25 +24,25 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 28.00% | ~73 |
 | The Horror | 27.00% | ~70 |
 | Collectibles of Chapter II | 24.00% | ~62 |
-| The Difference | 23.00% | ~60 |
+| The Difference | 24.00% | ~62 |
 | Vengeance | 22.00% | ~57 |
 | Food Massacre | 21.00% | ~54 |
+| Broken Hopes | 20.00% | ~52 |
 | Bullseye! | 20.00% | ~52 |
-| Broken Hopes | 19.00% | ~49 |
 | It's Just an Accident | 17.00% | ~44 |
-| Collectibles of Chapter III | 15.00% | ~39 |
-| Sorrow | 15.00% | ~39 |
+| Collectibles of Chapter III | 16.00% | ~41 |
+| Sorrow | 16.00% | ~41 |
+| Atonement | 15.00% | ~39 |
 | Collectibles of Chapter IV | 14.00% | ~36 |
-| Atonement | 14.00% | ~36 |
 | Without a Second Thought | 13.00% | ~34 |
 | Helping Hand | 10.00% | ~26 |
-| Collectibles of Chapter V | 8.00% | ~21 |
-| Collectibles of Chapter VII | 7.00% | ~18 |
-| Such is War! | 7.00% | ~18 |
+| Collectibles of Chapter V | 9.00% | ~23 |
+| Collectibles of Chapter VII | 8.00% | ~21 |
+| Such is War! | 8.00% | ~21 |
+| Collectibles of Chapter XII | 7.00% | ~18 |
 | Piece of Cake | 7.00% | ~18 |
 | Tiptoe Around | 7.00% | ~18 |
-| Collectibles of Chapter XII | 6.00% | ~16 |
-| Collectibles of Chapter VIII | 5.00% | ~13 |
+| Collectibles of Chapter VIII | 6.00% | ~16 |
 | Collectibles of Chapter X | 5.00% | ~13 |
 | Collectibles of Chapter XI | 5.00% | ~13 |
 | Collectibles of Chapter VI | 3.00% | ~8 |
@@ -50,8 +50,8 @@ Number of Ratings: 34  (23.09.2022)
 | The Good Samaritan | 3.00% | ~8 |
 | It Will Rain | 3.00% | ~8 |
 | Not Spill a Drop | 3.00% | ~8 |
+| Daddy Would Be Proud | 2.00% | ~5 |
 | Hold a Door | 1.00% | ~3 |
-| Daddy Would Be Proud | 1.00% | ~3 |
 | Warm Up | 0.40% | ~1 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |

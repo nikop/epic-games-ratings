@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~5,831 |
-| Photogenic | 87.00% | ~5,575 |
-| Surge Gauntlet Jockey | 85.00% | ~5,447 |
-| Plug It In | 84.00% | ~5,383 |
-| Adventure Time | 80.00% | ~5,126 |
-| Playing With Power | 77.00% | ~4,934 |
+| Let's Get This Party Started | 91.00% | ~5,832 |
+| Photogenic | 87.00% | ~5,576 |
+| Surge Gauntlet Jockey | 85.00% | ~5,448 |
+| Plug It In | 84.00% | ~5,384 |
+| Adventure Time | 80.00% | ~5,127 |
+| Playing With Power | 77.00% | ~4,935 |
 | You're Fired | 59.00% | ~3,781 |
 | Coup d'Etat | 58.00% | ~3,717 |
-| Get Furious | 55.00% | ~3,524 |
-| Gunplay And Cosplay | 55.00% | ~3,524 |
-| Hacks In Stacks | 54.00% | ~3,460 |
+| Get Furious | 55.00% | ~3,525 |
+| Gunplay And Cosplay | 55.00% | ~3,525 |
+| Hacks In Stacks | 54.00% | ~3,461 |
 | Meching Enemies | 49.00% | ~3,140 |
 | Ticket Toddler | 48.00% | ~3,076 |
 | Booty Bashing | 47.00% | ~3,012 |
@@ -25,7 +25,7 @@ Number of Ratings: 801  (23.09.2022)
 | Guardian Angel | 33.00% | ~2,115 |
 | Rapid Response | 32.00% | ~2,051 |
 | The Full Monty | 32.00% | ~2,051 |
-| Surge Ahead | 31.00% | ~1,986 |
+| Surge Ahead | 31.00% | ~1,987 |
 | Poppin Noggins | 25.00% | ~1,602 |
 | Clips and Crits | 23.00% | ~1,474 |
 | Grey Goo | 21.00% | ~1,346 |
@@ -39,7 +39,7 @@ Number of Ratings: 801  (23.09.2022)
 | Get In The Ring! | 9.00% | ~577 |
 | Ticket Titan | 8.00% | ~513 |
 | Rescue Ranger | 7.00% | ~449 |
-| Surge Gauntlet Scholar | 6.00% | ~384 |
+| Surge Gauntlet Scholar | 6.00% | ~385 |
 | No Chill | 5.00% | ~320 |
 | Stop Hitting Yourself | 5.00% | ~320 |
 | Ground Control | 4.00% | ~256 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~32 |
 | Pyrotechnical | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,408 (Ranked 113)  
+Progressed: 6,409 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 6,373 | 0 |
 | 2023-05-15 | 6,387 | 0 |
 | 2023-05-16 | 6,403 | 0 |
-| 2023-05-17 | 6,408 | 0 |
+| 2023-05-17 | 6,409 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 484 (Ranked 292)  

@@ -4,11 +4,11 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 831,
   "Ranking_Popularity": 99,
-  "Ranking_PopularitySum": 137,
+  "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1124,10 +1124,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60931,
+  "EOS_Progressed": 60932,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 162,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 161,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -2754,6 +2754,11 @@
       "Time": "2023-05-17T04:06:00.377522+00:00",
       "NumProgressed": 60931,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-17T05:06:02.982502+00:00",
+      "NumProgressed": 60932,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3252,13 +3257,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60931,
+      "Progressed": 60932,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31211,
+      "Progressed": 31212,
       "Completed": 2639
     }
   ],
@@ -3266,8 +3271,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-17T02:01:26.7403205+00:00",
-  "LastChanged_Achievements": "2023-05-17T04:06:00.3775216+00:00",
+  "LastChanged_Achievements": "2023-05-17T05:06:02.9825015+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:59:41.7569622+00:00",
-  "LastUpdate_Achievements": "2023-05-17T04:06:00.377575+00:00"
+  "LastUpdate_Ratings": "2023-05-17T04:59:47.8294167+00:00",
+  "LastUpdate_Achievements": "2023-05-17T05:06:02.9826187+00:00"
 }

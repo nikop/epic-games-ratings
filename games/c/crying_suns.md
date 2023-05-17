@@ -6,23 +6,23 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,401 |
-| Jeef Skeejj | 44.00% | ~201,601 |
-| Careful planning | 39.00% | ~178,692 |
-| Second Coming | 33.00% | ~151,201 |
-| Jeef Skagg | 30.00% | ~137,455 |
-| Mother | 25.00% | ~114,546 |
-| In space, no one can hear you scream | 23.00% | ~105,382 |
-| Chapter I: Echoes | 22.00% | ~100,800 |
-| Excelsior Rule | 22.00% | ~100,800 |
-| Things persisted in not being what they seemed | 20.00% | ~91,637 |
+| The Shutdown | 66.00% | ~302,405 |
+| Jeef Skeejj | 44.00% | ~201,603 |
+| Careful planning | 39.00% | ~178,694 |
+| Second Coming | 33.00% | ~151,202 |
+| Jeef Skagg | 30.00% | ~137,457 |
+| Mother | 25.00% | ~114,547 |
+| In space, no one can hear you scream | 23.00% | ~105,383 |
+| Chapter I: Echoes | 22.00% | ~100,802 |
+| Excelsior Rule | 22.00% | ~100,802 |
+| Things persisted in not being what they seemed | 20.00% | ~91,638 |
 | Knightmare Frames | 15.00% | ~68,728 |
 | May His passing cleanse the world | 15.00% | ~68,728 |
 | Chapter II: Fallible Flesh | 15.00% | ~68,728 |
 | Pope Zenon | 15.00% | ~68,728 |
-| Tetsuo | 11.00% | ~50,400 |
-| Plan for the worst | 11.00% | ~50,400 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~45,818 |
+| Tetsuo | 11.00% | ~50,401 |
+| Plan for the worst | 11.00% | ~50,401 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~45,819 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,655 |
 | Through the mirror | 8.00% | ~36,655 |
 | General Vivar | 8.00% | ~36,655 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,582 |
 | A Frozen Lady | 1.00% | ~4,582 |
 | Void Rule | 1.00% | ~4,582 |
-| Excelsior Mastery | 0.80% | ~3,665 |
+| Excelsior Mastery | 0.80% | ~3,666 |
 | The greatest admiral of all time | 0.50% | ~2,291 |
 | Liberator | 0.10% | ~458 |
 | The Art of War | 0.10% | ~458 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,184 (Ranked 28)  
+Progressed: 458,189 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 14 (0.00%) (Ranked 199)
 | 2023-05-14 | 458,027 | 14 |
 | 2023-05-15 | 458,099 | 14 |
 | 2023-05-16 | 458,171 | 14 |
-| 2023-05-17 | 458,184 | 14 |
+| 2023-05-17 | 458,189 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 349)  

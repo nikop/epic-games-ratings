@@ -4,8 +4,8 @@
   "ProductSlug": "catoise-a45568",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-21T19:00:00+00:00",
     "PcReleaseDate": "2023-03-21T19:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:59:06.6357724+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:59:07.2785799+00:00",
-  "LastUpdate_Achievements": "2023-05-17T04:04:03.629061+00:00"
+  "LastUpdate_Ratings": "2023-05-17T04:59:13.4353891+00:00",
+  "LastUpdate_Achievements": "2023-05-17T05:04:12.9399873+00:00"
 }

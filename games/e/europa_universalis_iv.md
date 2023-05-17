@@ -45,10 +45,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 0.70% | ~267 |
 | Time Bandit | 0.60% | ~229 |
 | Trustworthy | 0.60% | ~229 |
-| All belongs to Mother Russia | 0.50% | ~190 |
-| At every continent | 0.50% | ~190 |
-| Early-Modern Warfare | 0.50% | ~190 |
-| Electable! | 0.50% | ~190 |
+| All belongs to Mother Russia | 0.50% | ~191 |
+| At every continent | 0.50% | ~191 |
+| Early-Modern Warfare | 0.50% | ~191 |
+| Electable! | 0.50% | ~191 |
 | Absolutely | 0.40% | ~152 |
 | Dude, Where's my Boat? | 0.40% | ~152 |
 | In the Name of the Father | 0.40% | ~152 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,095 (Ranked 80)  
+Progressed: 38,104 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
-| 2023-05-17 | 38,095 | 0 |
+| 2023-05-17 | 38,104 | 0 |
 ## Awards
 Max (Educational): 5,228  (Ranked 60)  
 Sum: 43,275 (Ranked 27)  

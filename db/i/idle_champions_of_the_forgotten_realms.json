@@ -3748,7 +3748,7 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87727,
+  "EOS_Progressed": 87730,
   "EOS_Completed": 1847,
   "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 26,
@@ -6208,6 +6208,11 @@
       "Time": "2023-05-17T04:06:07.2401677+00:00",
       "NumProgressed": 87727,
       "NumCompleted": 1847
+    },
+    {
+      "Time": "2023-05-17T05:06:09.6757633+00:00",
+      "NumProgressed": 87730,
+      "NumCompleted": 1847
     }
   ],
   "TotalAchievements": 493,
@@ -6353,9 +6358,9 @@
       "ID": "objective_completed_1060",
       "SetID": "415jc5c",
       "Name": "Thieves of the Coven",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1061",
@@ -6377,9 +6382,9 @@
       "ID": "objective_completed_1063",
       "SetID": "415jc5c",
       "Name": "Go Fourth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1065",
@@ -6521,9 +6526,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_1090",
@@ -6809,9 +6814,9 @@
       "ID": "objective_completed_1147",
       "SetID": "415jc5c",
       "Name": "The Howling Peaks of Yon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1148",
@@ -6921,9 +6926,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1169",
@@ -7425,9 +7430,9 @@
       "ID": "objective_completed_166",
       "SetID": "cc37lbc",
       "Name": "Force Grey Unleashed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_167",
@@ -7441,9 +7446,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_17",
@@ -7537,9 +7542,9 @@
       "ID": "objective_completed_187",
       "SetID": "415jc5c",
       "Name": "Acererak\u0027s Puzzle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_19",
@@ -7593,9 +7598,9 @@
       "ID": "objective_completed_211",
       "SetID": "cc37lbc",
       "Name": "We\u0027re not in Faer\u00FBn Anymore",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_213",
@@ -8049,9 +8054,9 @@
       "ID": "objective_completed_395",
       "SetID": "cc37lbc",
       "Name": "Late Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_396",
@@ -8185,9 +8190,9 @@
       "ID": "objective_completed_413",
       "SetID": "cc37lbc",
       "Name": "Towering Expectations",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_414",
@@ -8313,9 +8318,9 @@
       "ID": "objective_completed_431",
       "SetID": "415jc5c",
       "Name": "And a Pixie in a Pear Treant",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_433",
@@ -8337,17 +8342,17 @@
       "ID": "objective_completed_435",
       "SetID": "cc37lbc",
       "Name": "Dino Nightmare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_436",
       "SetID": "415jc5c",
       "Name": "A Familiar Friend",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_5",
@@ -8369,9 +8374,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_541",
@@ -8473,9 +8478,9 @@
       "ID": "objective_completed_555",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Under Siege",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_556",
@@ -8521,17 +8526,17 @@
       "ID": "objective_completed_561",
       "SetID": "cc37lbc",
       "Name": "Veteran Brigade",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_562",
       "SetID": "415jc5c",
       "Name": "Social Grace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_563",
@@ -8553,9 +8558,9 @@
       "ID": "objective_completed_566",
       "SetID": "cc37lbc",
       "Name": "She\u0027s Harmless!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_567",
@@ -8737,9 +8742,9 @@
       "ID": "objective_completed_595",
       "SetID": "cc37lbc",
       "Name": "The Twilight Grove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_596",
@@ -8793,9 +8798,9 @@
       "ID": "objective_completed_602",
       "SetID": "415jc5c",
       "Name": "Earthquake!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_603",
@@ -8849,9 +8854,9 @@
       "ID": "objective_completed_610",
       "SetID": "cc37lbc",
       "Name": "Once More Into The Breach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_611",
@@ -9177,9 +9182,9 @@
       "ID": "objective_completed_666",
       "SetID": "415jc5c",
       "Name": "Show of Strength",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_667",
@@ -9289,9 +9294,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_690",
@@ -9753,9 +9758,9 @@
       "ID": "objective_completed_857",
       "SetID": "415jc5c",
       "Name": "Deekin\u0027s Mission",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_858",
@@ -10121,9 +10126,9 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_1355",
@@ -10162,21 +10167,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54001,
+      "Progressed": 54004,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87727,
+      "Progressed": 87730,
       "Completed": 1847
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T04:06:07.2401668+00:00",
+  "LastChanged_Achievements": "2023-05-17T05:06:09.675763+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:57:52.3615616+00:00",
-  "LastUpdate_Achievements": "2023-05-17T04:06:07.2423325+00:00"
+  "LastUpdate_Ratings": "2023-05-17T04:58:02.9134202+00:00",
+  "LastUpdate_Achievements": "2023-05-17T05:06:09.6785677+00:00"
 }

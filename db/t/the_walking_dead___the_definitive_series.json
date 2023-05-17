@@ -4,11 +4,11 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 187,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -826,6 +826,6 @@
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
   "LastChanged": "2023-05-16T13:59:47.7521128+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.2594587+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:59:32.2883648+00:00",
-  "LastUpdate_Achievements": "2023-05-17T04:04:17.6211774+00:00"
+  "LastUpdate_Ratings": "2023-05-17T04:59:38.5312815+00:00",
+  "LastUpdate_Achievements": "2023-05-17T05:04:26.9320947+00:00"
 }

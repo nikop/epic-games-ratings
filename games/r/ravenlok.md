@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~627 |
 | Waff! | 94.00% | ~614 |
-| Into the Barn | 87.00% | ~568 |
+| Into the Barn | 88.00% | ~575 |
 | A Prophecy | 85.00% | ~555 |
 | Sword, Shield, Fight! | 76.00% | ~496 |
 | A Grand Visit | 72.00% | ~470 |
@@ -36,8 +36,8 @@
 | Extinct Again! | 33.00% | ~215 |
 | Bird of Prey | 33.00% | ~215 |
 | Stardust | 33.00% | ~215 |
-| Heartbreaker | 32.00% | ~209 |
-| Kidnapped! | 32.00% | ~209 |
+| Heartbreaker | 33.00% | ~215 |
+| Kidnapped! | 33.00% | ~215 |
 | Pull the Plug | 31.00% | ~202 |
 | All Heart | 31.00% | ~202 |
 | Trick Question! | 31.00% | ~202 |

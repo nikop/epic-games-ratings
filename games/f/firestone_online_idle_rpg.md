@@ -37,12 +37,12 @@ Rating: 3.64 (Ranked 917)
 | The power of Awakening | 4.00% | ~42 |
 | Background Story | 3.00% | ~31 |
 | Here We Go Again | 3.00% | ~31 |
+| How Do You Turn This On? | 3.00% | ~31 |
 | Missions Dedication | 3.00% | ~31 |
 | Moving Up The Ladder | 3.00% | ~31 |
 | The Expeditioner | 3.00% | ~31 |
 | Ancient Knowledge | 2.00% | ~21 |
 | Doing My Part | 2.00% | ~21 |
-| How Do You Turn This On? | 2.00% | ~21 |
 | Master Enchanter | 2.00% | ~21 |
 | The father of Dragons | 2.00% | ~21 |
 | Trader | 2.00% | ~21 |

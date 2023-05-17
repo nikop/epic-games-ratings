@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -4866,9 +4866,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 38095,
+  "EOS_Progressed": 38104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4826,
+  "EOS_NewPlayers": 4828,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7401,6 +7401,11 @@
       "Time": "2023-05-17T04:06:06.4832447+00:00",
       "NumProgressed": 38095,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T05:06:08.7545933+00:00",
+      "NumProgressed": 38104,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -7556,7 +7561,7 @@
       "Name": "All belongs to Mother Russia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_all_blue",
@@ -7652,7 +7657,7 @@
       "Name": "At every continent",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_atwix_legacy",
@@ -8108,7 +8113,7 @@
       "Name": "Early-Modern Warfare",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -8124,7 +8129,7 @@
       "Name": "Electable!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -10243,21 +10248,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 38095,
+      "Progressed": 38104,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 38095,
+      "Progressed": 38104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-17T01:59:18.8699604+00:00",
-  "LastChanged_Achievements": "2023-05-17T04:06:06.4832441+00:00",
+  "LastChanged_Achievements": "2023-05-17T05:06:08.7545705+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.1360508+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:57:06.9797213+00:00",
-  "LastUpdate_Achievements": "2023-05-17T04:06:06.4842889+00:00"
+  "LastUpdate_Ratings": "2023-05-17T04:57:15.0821172+00:00",
+  "LastUpdate_Achievements": "2023-05-17T05:06:08.755873+00:00"
 }

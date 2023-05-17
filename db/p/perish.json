@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2825,
+  "EOS_Progressed": 2827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -798,6 +798,11 @@
       "Time": "2023-05-17T03:05:58.1587402+00:00",
       "NumProgressed": 2825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T05:05:57.7979309+00:00",
+      "NumProgressed": 2827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -817,7 +822,7 @@
       "Name": "Comedy and Tragedy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_B_FS",
@@ -825,7 +830,7 @@
       "Name": "Wayward Son of Hephaestus",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_B_K",
@@ -865,7 +870,7 @@
       "Name": "Forged in Fire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_GE",
@@ -961,7 +966,7 @@
       "Name": "Chthonic Investor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_M_D4",
@@ -1033,7 +1038,7 @@
       "Name": "First Fragment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_OB_CA",
@@ -1041,7 +1046,7 @@
       "Name": "Hapax Legomenon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_OB_CC",
@@ -1073,7 +1078,7 @@
       "Name": "Labour of Apollo",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_OB_FB",
@@ -1129,7 +1134,7 @@
       "Name": "Vandili",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_OB_RE",
@@ -1153,7 +1158,7 @@
       "Name": "Cloaca Maxima",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_OB_TDS",
@@ -1225,7 +1230,7 @@
       "Name": "Baby Crabs They Ain\u0027t",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_TOTN",
@@ -1241,7 +1246,7 @@
       "Name": "Halls of Marble",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "KA",
@@ -1249,7 +1254,7 @@
       "Name": "Mors Omnibus",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "KA2",
@@ -1281,7 +1286,7 @@
       "Name": "Blot Out the Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "KK",
@@ -1305,14 +1310,14 @@
       "Name": "Serpentine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 2825,
+      "Progressed": 2827,
       "Completed": 0
     }
   ],
@@ -1320,8 +1325,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-05-17T04:05:55.1755739+00:00",
+  "LastChanged_Achievements": "2023-05-17T05:05:57.7979305+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:37.5647388+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:59:39.2168869+00:00",
-  "LastUpdate_Achievements": "2023-05-17T04:05:55.1756265+00:00"
+  "LastUpdate_Ratings": "2023-05-17T04:59:45.0987093+00:00",
+  "LastUpdate_Achievements": "2023-05-17T05:05:57.7980001+00:00"
 }
