@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,518 |
-| Landlord | 29.00% | ~14,514 |
-| Lawmaker | 21.00% | ~10,510 |
-| Bannerlord | 20.00% | ~10,010 |
-| Horde breaker | 20.00% | ~10,010 |
-| Trained | 20.00% | ~10,010 |
-| The king is pleased | 16.00% | ~8,008 |
+| Lawbringer | 35.00% | ~17,519 |
+| Landlord | 29.00% | ~14,516 |
+| Lawmaker | 21.00% | ~10,511 |
+| Bannerlord | 20.00% | ~10,011 |
+| Horde breaker | 20.00% | ~10,011 |
+| Trained | 20.00% | ~10,011 |
+| The king is pleased | 16.00% | ~8,009 |
 | King Solomon | 15.00% | ~7,508 |
-| I can do it | 14.00% | ~7,007 |
-| Apple of my eye | 13.00% | ~6,506 |
+| I can do it | 14.00% | ~7,008 |
+| Apple of my eye | 13.00% | ~6,507 |
 | God of the Arena | 12.00% | ~6,006 |
-| Against all odds | 9.00% | ~4,504 |
-| Swordbearer | 9.00% | ~4,504 |
+| Against all odds | 9.00% | ~4,505 |
+| Swordbearer | 9.00% | ~4,505 |
 | Duelist | 8.00% | ~4,004 |
 | Dynasty | 8.00% | ~4,004 |
 | I spit on your grave | 8.00% | ~4,004 |
 | What have the Romans ever done for us? | 8.00% | ~4,004 |
 | Butterlord | 7.00% | ~3,504 |
 | Mastery | 6.00% | ~3,003 |
-| Know your enemy | 5.00% | ~2,502 |
-| This Is Our Land | 5.00% | ~2,502 |
+| Know your enemy | 5.00% | ~2,503 |
+| This Is Our Land | 5.00% | ~2,503 |
 | Crush your enemies | 4.00% | ~2,002 |
 | My way | 4.00% | ~2,002 |
 | Veni vidi vici | 4.00% | ~2,002 |
@@ -35,7 +35,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Entrepreneur | 2.00% | ~1,001 |
 | Long live the Empire! | 2.00% | ~1,001 |
 | Real Estate | 2.00% | ~1,001 |
-| Supreme Emperor | 1.00% | ~500 |
+| Supreme Emperor | 1.00% | ~501 |
 | Crackshot | 0.70% | ~350 |
 | Undercover | 0.70% | ~350 |
 | Fat Cat | 0.60% | ~300 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,050 (Ranked 74)  
+Progressed: 50,054 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 49,864 | 0 |
 | 2023-05-15 | 49,956 | 0 |
 | 2023-05-16 | 50,039 | 0 |
-| 2023-05-17 | 50,050 | 0 |
+| 2023-05-17 | 50,054 | 0 |
 ## Awards
 Max (Character Customization): 6,537  (Ranked 49)  
 Sum: 13,043 (Ranked 68)  

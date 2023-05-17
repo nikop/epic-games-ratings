@@ -1432,10 +1432,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1267,
       "NumberOfAwardsMax": 270
+    },
+    {
+      "Time": "2023-05-17T07:00:35.8611908+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1270,
+      "NumberOfAwardsMax": 270
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1267,
+  "NumberOfAwards": 1270,
   "NumberOfAwardsMax": 270,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1449,7 +1455,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 255
+      "Count": 258
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1488,9 +1494,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60326,
+  "EOS_Progressed": 60327,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 753,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3988,6 +3994,11 @@
       "Time": "2023-05-17T05:05:59.6007095+00:00",
       "NumProgressed": 60326,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-17T07:06:36.8633333+00:00",
+      "NumProgressed": 60327,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -3999,7 +4010,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30163
+      "UsersEstimate": 30164
     },
     {
       "ID": "ACH_0011",
@@ -4015,7 +4026,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12668
+      "UsersEstimate": 12669
     },
     {
       "ID": "ACH_0013",
@@ -4023,7 +4034,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7842
+      "UsersEstimate": 7843
     },
     {
       "ID": "ACH_0014",
@@ -4143,7 +4154,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39212
+      "UsersEstimate": 39213
     },
     {
       "ID": "ACH_0210",
@@ -4151,7 +4162,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 44038
+      "UsersEstimate": 44039
     },
     {
       "ID": "ACH_0211",
@@ -4167,7 +4178,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28353
+      "UsersEstimate": 28354
     },
     {
       "ID": "ACH_0300",
@@ -4294,16 +4305,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60326,
+      "Progressed": 60327,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-17T05:00:01.5825062+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:25.1321743+00:00",
+  "LastChanged": "2023-05-17T07:00:35.8611905+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:36.8633328+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:59:30.6923493+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:25.1322072+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:00:35.8611912+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:36.8633658+00:00"
 }

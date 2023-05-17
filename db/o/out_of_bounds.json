@@ -3,9 +3,9 @@
   "Name": "Out of Bounds",
   "ProductSlug": "out-of-bounds-ade206",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-13T17:00:00+00:00",
     "PcReleaseDate": "2023-04-13T17:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 25,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 8,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:55.9543072+00:00",
@@ -39,6 +39,11 @@
       "Time": "2023-05-17T06:05:28.8284227+00:00",
       "NumProgressed": 25,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T07:06:41.5685645+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 32,
@@ -48,17 +53,17 @@
       "ID": "BeatOwnScore",
       "SetID": "94h12fn",
       "Name": "Damn, I\u0027m GOOD!",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BugsFixed_NoMiss",
       "SetID": "94h12fn",
       "Name": "Pro-dev",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BugsFixed_Total_1",
@@ -88,17 +93,17 @@
       "ID": "BugsFixed_UpDown",
       "SetID": "94h12fn",
       "Name": "Guru-dev",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CheckCredits",
       "SetID": "94h12fn",
       "Name": "No AI, only humans",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CoffeeDouble",
@@ -112,9 +117,9 @@
       "ID": "CoffeeHighPitch",
       "SetID": "94h12fn",
       "Name": "Going nuts!",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CoffeeLowPitch",
@@ -152,9 +157,9 @@
       "ID": "Compilations_3",
       "SetID": "94h12fn",
       "Name": "Compiling (45)...",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DevTime_1",
@@ -168,17 +173,17 @@
       "ID": "DevTime_2",
       "SetID": "94h12fn",
       "Name": "Gamedev level 30",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DevTime_3",
       "SetID": "94h12fn",
       "Name": "Gamedev level 45",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "EatFood_1",
@@ -216,25 +221,25 @@
       "ID": "FinishGame_LessTime_1",
       "SetID": "94h12fn",
       "Name": "Two thirds is all I need",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FinishGame_LessTime_2",
       "SetID": "94h12fn",
       "Name": "Half the time, half the fun",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FinishGame_MoreTime",
       "SetID": "94h12fn",
       "Name": "Just in time!",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LoseBy_Audio",
@@ -248,9 +253,9 @@
       "ID": "LoseBy_Graphics",
       "SetID": "94h12fn",
       "Name": "Graphics outdated",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LoseBy_Mechanics",
@@ -264,9 +269,9 @@
       "ID": "LoseBy_Time",
       "SetID": "94h12fn",
       "Name": "Almost there!",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SpeakerJumps_1",
@@ -306,12 +311,12 @@
       "ID": "94h12fn",
       "IsBase": true,
       "Progressed": 25,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:55.9543084+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:28.8284224+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:41.5685639+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:05.770951+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:59:42.4081953+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:28.8284393+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:00:55.0073052+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:41.568582+00:00"
 }

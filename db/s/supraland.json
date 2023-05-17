@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
@@ -2404,9 +2404,9 @@
       "Count": 186
     }
   ],
-  "EOS_Progressed": 705321,
+  "EOS_Progressed": 705324,
   "EOS_Completed": 679,
-  "EOS_NewPlayers": 1186,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4929,6 +4929,11 @@
       "Time": "2023-05-17T06:05:14.0683777+00:00",
       "NumProgressed": 705321,
       "NumCompleted": 679
+    },
+    {
+      "Time": "2023-05-17T07:06:23.274255+00:00",
+      "NumProgressed": 705324,
+      "NumCompleted": 679
     }
   ],
   "TotalAchievements": 98,
@@ -4972,7 +4977,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 211596
+      "UsersEstimate": 211597
     },
     {
       "ID": "BallShooter",
@@ -5004,7 +5009,7 @@
       "Name": "Rattle Hag",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 105798
+      "UsersEstimate": 105799
     },
     {
       "ID": "BirdsongCourier",
@@ -5020,7 +5025,7 @@
       "Name": "Blue King\u0027s lair",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 77585
+      "UsersEstimate": 77586
     },
     {
       "ID": "Buckle",
@@ -5156,7 +5161,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 338554
+      "UsersEstimate": 338556
     },
     {
       "ID": "FireFlies",
@@ -5172,7 +5177,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 268022
+      "UsersEstimate": 268023
     },
     {
       "ID": "FliesBeam",
@@ -5188,7 +5193,7 @@
       "Name": "Force Cube",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 366767
+      "UsersEstimate": 366768
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -5196,7 +5201,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 176330
+      "UsersEstimate": 176331
     },
     {
       "ID": "Freed_from_Prison",
@@ -5204,7 +5209,7 @@
       "Name": "Freed from prison",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 148117
+      "UsersEstimate": 148118
     },
     {
       "ID": "GiantWorkshop",
@@ -5300,7 +5305,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 387927
+      "UsersEstimate": 387928
     },
     {
       "ID": "Healthregen",
@@ -5308,7 +5313,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 331501
+      "UsersEstimate": 331502
     },
     {
       "ID": "HelpedAStar",
@@ -5324,7 +5329,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 296235
+      "UsersEstimate": 296236
     },
     {
       "ID": "Holy_Sword",
@@ -5332,7 +5337,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 162224
+      "UsersEstimate": 162225
     },
     {
       "ID": "Horticultural",
@@ -5356,7 +5361,7 @@
       "Name": "Infiltrated",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 77585
+      "UsersEstimate": 77586
     },
     {
       "ID": "InvisibleWall",
@@ -5380,7 +5385,7 @@
       "Name": "Just once",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 253916
+      "UsersEstimate": 253917
     },
     {
       "ID": "MacGuffin",
@@ -5388,7 +5393,7 @@
       "Name": "MacGuffin",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 260969
+      "UsersEstimate": 260970
     },
     {
       "ID": "Magic",
@@ -5396,7 +5401,7 @@
       "Name": "The real real teleported man",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 49372
+      "UsersEstimate": 49373
     },
     {
       "ID": "Mime",
@@ -5452,7 +5457,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 698268
+      "UsersEstimate": 698271
     },
     {
       "ID": "PanicLights",
@@ -5524,7 +5529,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 183383
+      "UsersEstimate": 183384
     },
     {
       "ID": "RedstonePickaxe",
@@ -5540,7 +5545,7 @@
       "Name": "Robbed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 77585
+      "UsersEstimate": 77586
     },
     {
       "ID": "Shady",
@@ -5564,7 +5569,7 @@
       "Name": "Stomp",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 148117
+      "UsersEstimate": 148118
     },
     {
       "ID": "Speedx2",
@@ -5572,7 +5577,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 465512
+      "UsersEstimate": 465514
     },
     {
       "ID": "Strong",
@@ -5612,7 +5617,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 599523
+      "UsersEstimate": 599525
     },
     {
       "ID": "ThroughPipe",
@@ -5652,7 +5657,7 @@
       "Name": "Triple Jump",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 296235
+      "UsersEstimate": 296236
     },
     {
       "ID": "True_Holy_Spirit",
@@ -5723,15 +5728,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 705321,
+      "Progressed": 705324,
       "Completed": 679
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-05-14T18:57:42.750969+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:14.0683772+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:23.2742545+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:01.0423111+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:57:51.8608915+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:14.0684976+00:00"
+  "LastUpdate_Ratings": "2023-05-17T06:58:18.3642986+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:23.2743789+00:00"
 }

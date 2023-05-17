@@ -5927,9 +5927,9 @@
       "Count": 4730
     }
   ],
-  "EOS_Progressed": 799978,
+  "EOS_Progressed": 799980,
   "EOS_Completed": 1599,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1056,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8447,6 +8447,11 @@
       "Time": "2023-05-17T06:04:50.5051489+00:00",
       "NumProgressed": 799978,
       "NumCompleted": 1599
+    },
+    {
+      "Time": "2023-05-17T07:05:54.1584406+00:00",
+      "NumProgressed": 799980,
+      "NumCompleted": 1599
     }
   ],
   "TotalAchievements": 44,
@@ -8482,7 +8487,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 135996
+      "UsersEstimate": 135997
     },
     {
       "ID": "Denied",
@@ -8490,7 +8495,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295992
+      "UsersEstimate": 295993
     },
     {
       "ID": "FollowingTheRiver",
@@ -8578,7 +8583,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175995
+      "UsersEstimate": 175996
     },
     {
       "ID": "MaxPain",
@@ -8602,7 +8607,7 @@
       "Name": "Breathtaking",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 55998
+      "UsersEstimate": 55999
     },
     {
       "ID": "NoMansLand",
@@ -8634,7 +8639,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215994
+      "UsersEstimate": 215995
     },
     {
       "ID": "Specialist",
@@ -8674,7 +8679,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535985
+      "UsersEstimate": 535987
     },
     {
       "ID": "TheHermit",
@@ -8698,7 +8703,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255993
+      "UsersEstimate": 255994
     },
     {
       "ID": "TheStar",
@@ -8722,7 +8727,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199994
+      "UsersEstimate": 199995
     },
     {
       "ID": "TheWorld",
@@ -8730,7 +8735,7 @@
       "Name": "The World",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 127996
+      "UsersEstimate": 127997
     },
     {
       "ID": "ThisIsPacifica",
@@ -8754,7 +8759,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 175995
+      "UsersEstimate": 175996
     },
     {
       "ID": "TrueWarrior",
@@ -8802,22 +8807,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 167995
+      "UsersEstimate": 167996
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799978,
+      "Progressed": 799980,
       "Completed": 1599
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-05-17T02:57:49.1600203+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:04:50.5051486+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:05:54.1584404+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.285145+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:57:32.0499083+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:04:50.5051855+00:00"
+  "LastUpdate_Ratings": "2023-05-17T06:57:49.9038068+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:05:54.158476+00:00"
 }

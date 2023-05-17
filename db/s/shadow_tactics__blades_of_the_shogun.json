@@ -1099,9 +1099,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 168129,
+  "EOS_Progressed": 168132,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 2002,
+  "EOS_NewPlayers": 1998,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3649,6 +3649,11 @@
       "Time": "2023-05-17T06:05:11.6981441+00:00",
       "NumProgressed": 168129,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-17T07:06:20.5009939+00:00",
+      "NumProgressed": 168132,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 44,
@@ -3684,7 +3689,7 @@
       "Name": "Chunin",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8406
+      "UsersEstimate": 8407
     },
     {
       "ID": "CompleteMastery",
@@ -3748,7 +3753,7 @@
       "Name": "Happy Planning",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8406
+      "UsersEstimate": 8407
     },
     {
       "ID": "HighFiveTheMoon",
@@ -3764,7 +3769,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8406
+      "UsersEstimate": 8407
     },
     {
       "ID": "ItsRainingMen",
@@ -3812,7 +3817,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8406
+      "UsersEstimate": 8407
     },
     {
       "ID": "NoGimmicks",
@@ -3908,7 +3913,7 @@
       "Name": "Stoned Ox",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8406
+      "UsersEstimate": 8407
     },
     {
       "ID": "TanukiTime",
@@ -4004,22 +4009,22 @@
       "Name": "Yabu",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 8406
+      "UsersEstimate": 8407
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 168129,
+      "Progressed": 168132,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-05-16T14:59:08.4424646+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:11.6981438+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:20.500993+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:51.5993639+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:58:38.6807631+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:11.6981826+00:00"
+  "LastUpdate_Ratings": "2023-05-17T06:59:19.8386174+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:20.5010335+00:00"
 }

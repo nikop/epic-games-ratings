@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,7 +643,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 29234,
+  "EOS_Progressed": 29236,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
@@ -3058,6 +3058,11 @@
       "Time": "2023-05-17T06:05:19.2955976+00:00",
       "NumProgressed": 29234,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-17T07:06:29.7700107+00:00",
+      "NumProgressed": 29236,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -3189,7 +3194,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10524
+      "UsersEstimate": 10525
     },
     {
       "ID": "ach_die10",
@@ -3269,7 +3274,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "ach_legacyrival",
@@ -3285,7 +3290,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "ach_legacyshipmate",
@@ -3301,7 +3306,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "ach_portbell",
@@ -3413,7 +3418,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "ach_sweetheart",
@@ -3421,7 +3426,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5554
+      "UsersEstimate": 5555
     },
     {
       "ID": "ach_terror100",
@@ -3437,7 +3442,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4677
+      "UsersEstimate": 4678
     },
     {
       "ID": "ach_undercurrent",
@@ -3500,15 +3505,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 29234,
+      "Progressed": 29236,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-16T03:00:31.6712899+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:19.2955972+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:29.7700101+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.7723799+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:59:14.152872+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:19.2956445+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:00:08.9295451+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:29.7700568+00:00"
 }

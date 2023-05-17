@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3748,7 +3748,7 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87734,
+  "EOS_Progressed": 87737,
   "EOS_Completed": 1847,
   "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 26,
@@ -6218,6 +6218,11 @@
       "Time": "2023-05-17T06:05:34.2967586+00:00",
       "NumProgressed": 87734,
       "NumCompleted": 1847
+    },
+    {
+      "Time": "2023-05-17T07:06:47.4270338+00:00",
+      "NumProgressed": 87737,
+      "NumCompleted": 1847
     }
   ],
   "TotalAchievements": 493,
@@ -6291,9 +6296,9 @@
       "ID": "objective_completed_1046",
       "SetID": "415jc5c",
       "Name": "And Your Enemies Closer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1050",
@@ -6523,9 +6528,9 @@
       "ID": "objective_completed_1088",
       "SetID": "415jc5c",
       "Name": "Third Third Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_109",
@@ -6891,9 +6896,9 @@
       "ID": "objective_completed_116",
       "SetID": "cc37lbc",
       "Name": "On the Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_1160",
@@ -7259,9 +7264,9 @@
       "ID": "objective_completed_1331",
       "SetID": "415jc5c",
       "Name": "The Play\u0027s the Thing!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1335",
@@ -7411,9 +7416,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_164",
@@ -7619,9 +7624,9 @@
       "ID": "objective_completed_214",
       "SetID": "cc37lbc",
       "Name": "Haunted Fortunes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_215",
@@ -7635,9 +7640,9 @@
       "ID": "objective_completed_216",
       "SetID": "cc37lbc",
       "Name": "Relentless Misfortune",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_230",
@@ -7803,9 +7808,9 @@
       "ID": "objective_completed_267",
       "SetID": "cc37lbc",
       "Name": "Seeds of Deceit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_268",
@@ -7987,9 +7992,9 @@
       "ID": "objective_completed_385",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Resolve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_386",
@@ -8299,9 +8304,9 @@
       "ID": "objective_completed_428",
       "SetID": "cc37lbc",
       "Name": "Who Lurks in Lurkwood",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_429",
@@ -8411,9 +8416,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_546",
@@ -8779,9 +8784,9 @@
       "ID": "objective_completed_60",
       "SetID": "cc37lbc",
       "Name": "Dinosaur Racing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_600",
@@ -8835,9 +8840,9 @@
       "ID": "objective_completed_607",
       "SetID": "415jc5c",
       "Name": "Shadow Stalkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_608",
@@ -8875,9 +8880,9 @@
       "ID": "objective_completed_612",
       "SetID": "415jc5c",
       "Name": "Thrice More Into The Breach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_613",
@@ -8923,9 +8928,9 @@
       "ID": "objective_completed_62",
       "SetID": "cc37lbc",
       "Name": "Relay Race",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_620",
@@ -8939,9 +8944,9 @@
       "ID": "objective_completed_621",
       "SetID": "415jc5c",
       "Name": "An Illithid Ambush",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_622",
@@ -9787,9 +9792,9 @@
       "ID": "objective_completed_862",
       "SetID": "415jc5c",
       "Name": "Frozen Vengeance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_863",
@@ -10172,21 +10177,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54008,
+      "Progressed": 54011,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87734,
+      "Progressed": 87737,
       "Completed": 1847
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:34.296758+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:47.4270333+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:57:49.8325421+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:34.2989017+00:00"
+  "LastUpdate_Ratings": "2023-05-17T06:58:15.2048139+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:47.4291774+00:00"
 }

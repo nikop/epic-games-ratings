@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7643,
+  "EOS_Progressed": 7644,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2023-05-17T02:07:44.1312329+00:00",
       "NumProgressed": 7643,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-17T07:06:40.5159772+00:00",
+      "NumProgressed": 7644,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1510,7 +1515,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ACH02",
@@ -1590,7 +1595,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH12",
@@ -1630,7 +1635,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "ACH17",
@@ -1789,7 +1794,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7643,
+      "Progressed": 7644,
       "Completed": 16
     }
   ],
@@ -1797,8 +1802,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:28.1152102+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:40.5159766+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:59:44.8656305+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:28.115235+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:00:59.2197964+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:40.5160023+00:00"
 }

@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Starving in the Jungle | 0.10% | ~88 |
 | Cold as Ice | 0.10% | ~54 |
 | Keep Your Friends Close | 0.10% | ~54 |
+| And Your Enemies Closer | 0.10% | ~54 |
 | Tall Tales | 0.10% | ~54 |
 | Nightmare Rats! | 0.10% | ~54 |
 | An Unexpected Geist | 0.10% | ~54 |
@@ -33,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Downfall | 0.10% | ~54 |
 | First Third Out | 0.10% | ~54 |
 | Second Third Out | 0.10% | ~54 |
+| Third Third Out | 0.10% | ~54 |
 | The Silken Swamp | 0.10% | ~88 |
 | Slack-jawed Lorna | 0.10% | ~54 |
 | I'm Sure I Saw It Move! | 0.10% | ~54 |
@@ -72,6 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.10% | ~54 |
 | The Evacuation of Waterdeep | 0.10% | ~54 |
 | Flapjacks and Waffles | 0.10% | ~54 |
+| On the Hunt | 0.10% | ~88 |
 | Best Thay Ever | 0.10% | ~54 |
 | Vecna Lives! | 0.10% | ~54 |
 | Overwhelmed with Knowledge | 0.10% | ~54 |
@@ -110,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Taking Responsibility | 0.10% | ~88 |
 | The Minions of Endelyn Moongrave | 0.10% | ~54 |
 | Love Unsoiled | 0.10% | ~54 |
+| The Play's the Thing! | 0.10% | ~54 |
 | The Bitter End | 0.10% | ~54 |
 | The Palace of Heart's Desire | 0.10% | ~54 |
 | No One Can Hear You Scream | 0.10% | ~54 |
@@ -124,6 +128,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~88 |
 | Double Vision | 0.10% | ~88 |
 | Underground Railroad | 0.10% | ~88 |
+| Low Initiative | 0.10% | ~88 |
 | A Mysterious Summons | 0.10% | ~88 |
 | Force Grey Unleashed | 0.10% | ~88 |
 | Building Trust | 0.10% | ~88 |
@@ -143,6 +148,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.10% | ~88 |
 | Werewolves in the Mist | 0.10% | ~88 |
 | We're not in Faerûn Anymore | 0.10% | ~88 |
+| Haunted Fortunes | 0.10% | ~88 |
+| Relentless Misfortune | 0.10% | ~88 |
 | Chatty Nobles | 0.10% | ~88 |
 | Modron Assistance | 0.10% | ~88 |
 | Thine Bounty is Mine! | 0.10% | ~54 |
@@ -157,6 +164,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mongrelfolk Incursion | 0.10% | ~54 |
 | Tower on the Lake | 0.10% | ~88 |
 | Intelligence Hunt | 0.10% | ~88 |
+| Seeds of Deceit | 0.10% | ~88 |
 | Visions of Strahd | 0.10% | ~88 |
 | Trollskull Manor | 0.10% | ~88 |
 | Attack on the Manor | 0.10% | ~88 |
@@ -172,6 +180,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Red Wizard 'Escort' | 0.10% | ~54 |
 | The Lost Love | 0.10% | ~88 |
 | A Saurial's Lament | 0.10% | ~88 |
+| A Saurial's Resolve | 0.10% | ~88 |
 | Spirit of the Trickster Gods | 0.10% | ~54 |
 | Flies on the Wall | 0.10% | ~88 |
 | The Killer Mists | 0.10% | ~88 |
@@ -205,6 +214,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Servants of the Demon Prince | 0.10% | ~54 |
 | The Madness Grows | 0.10% | ~88 |
 | The Madness Peaks | 0.10% | ~54 |
+| Who Lurks in Lurkwood | 0.10% | ~88 |
 | Bullywugs in the Bog | 0.10% | ~88 |
 | Modrons in the Mud | 0.10% | ~88 |
 | And a Pixie in a Pear Treant | 0.10% | ~54 |
@@ -218,6 +228,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~88 |
 | A Tale of Two Champions | 0.10% | ~88 |
 | A Tale of Two Years | 0.10% | ~54 |
+| The Dead Three | 0.10% | ~88 |
 | A Hero's Entourage | 0.10% | ~88 |
 | Sneak Attack | 0.10% | ~54 |
 | Lair of the Xanathar | 0.10% | ~88 |
@@ -248,18 +259,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~88 |
 | The Misty Grove | 0.10% | ~54 |
 | The Contagious Curse | 0.10% | ~88 |
+| Dinosaur Racing | 0.10% | ~88 |
 | Elturel Has Fallen | 0.10% | ~88 |
 | Everything is Awful | 0.10% | ~88 |
 | Earthquake! | 0.10% | ~54 |
 | Hailstorm! | 0.10% | ~54 |
 | Resolve Amongst Chaos | 0.10% | ~88 |
 | All You Know Is Wrong | 0.10% | ~88 |
+| Shadow Stalkers | 0.10% | ~54 |
 | Avernus Frozen Over | 0.10% | ~54 |
 | Once More Into The Breach | 0.10% | ~88 |
 | Twice More Into The Breach | 0.10% | ~88 |
+| Thrice More Into The Breach | 0.10% | ~54 |
 | Wyllowwood | 0.10% | ~88 |
 | Ettercap Swarm | 0.10% | ~54 |
+| Relay Race | 0.10% | ~88 |
 | An Illithid Undertaking | 0.10% | ~54 |
+| An Illithid Ambush | 0.10% | ~54 |
 | Misty Undermountain | 0.10% | ~54 |
 | An Owlbear of an Undertaking | 0.10% | ~54 |
 | Déjà Vu | 0.10% | ~54 |
@@ -346,6 +362,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Deekin's Mission | 0.10% | ~54 |
 | Dive Bomb | 0.10% | ~54 |
 | Fire and Ice | 0.10% | ~54 |
+| Frozen Vengeance | 0.10% | ~54 |
 | Mimic Vengeance | 0.10% | ~54 |
 | REALLY Frozen Vengeance | 0.10% | ~54 |
 | The Battle of High Hall Tower | 0.10% | ~54 |
@@ -380,7 +397,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.10% | ~88 |
 | Upholding the Law | 0.00% | ~0 |
 | Friends and Foes | 0.00% | ~0 |
-| And Your Enemies Closer | 0.00% | ~0 |
 | Back to Nature | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
 | The Spire of Iriolarthas | 0.00% | ~0 |
@@ -388,14 +404,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Icequake | 0.00% | ~0 |
 | Uncommon Allies | 0.00% | ~0 |
 | The Birds | 0.00% | ~0 |
-| Third Third Out | 0.00% | ~0 |
 | Wet Feet | 0.00% | ~0 |
 | The Oozing Hunger | 0.00% | ~0 |
 | The Madness of Zuggtmoy | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
 | G. O. A. T. | 0.00% | ~0 |
 | Heavy Burden | 0.00% | ~0 |
-| On the Hunt | 0.00% | ~0 |
 | A Demi-god's Defender | 0.00% | ~0 |
 | Friends of the Forest | 0.00% | ~0 |
 | Heatwave | 0.00% | ~0 |
@@ -403,28 +417,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.00% | ~0 |
 | Not Very Charming | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
-| The Play's the Thing! | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Periodic Petrification | 0.00% | ~0 |
 | Fall From Grace | 0.00% | ~0 |
-| Low Initiative | 0.00% | ~0 |
 | Street War | 0.00% | ~0 |
 | Vajra's Guards | 0.00% | ~0 |
 | A Grand Puzzle | 0.00% | ~0 |
 | Never Split the Party | 0.00% | ~0 |
 | Tomb of the Nine Gods | 0.00% | ~0 |
 | Family Entanglements | 0.00% | ~0 |
-| Haunted Fortunes | 0.00% | ~0 |
 | Poor Fortune | 0.00% | ~0 |
-| Relentless Misfortune | 0.00% | ~0 |
 | The Dinner Party | 0.00% | ~0 |
 | The Immortal Warrior | 0.00% | ~0 |
 | Drop of Time | 0.00% | ~0 |
 | They Who Smelt It | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
-| Seeds of Deceit | 0.00% | ~0 |
 | Seeds of Corruption | 0.00% | ~0 |
 | The Strahd Squad | 0.00% | ~0 |
 | The Gargoyle's Apprentice | 0.00% | ~0 |
@@ -432,14 +441,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Not So Alone | 0.00% | ~0 |
 | Our Time To Shine | 0.00% | ~0 |
 | The Crumbling Temple | 0.00% | ~0 |
-| A Saurial's Resolve | 0.00% | ~0 |
 | Nimble Escape | 0.00% | ~0 |
 | From The Shadows | 0.00% | ~0 |
 | Bazaar Exploits | 0.00% | ~0 |
 | Enter the Sargauth | 0.00% | ~0 |
 | Elder Rune Madness | 0.00% | ~0 |
-| Who Lurks in Lurkwood | 0.00% | ~0 |
-| The Dead Three | 0.00% | ~0 |
 | Slow and Steady | 0.00% | ~0 |
 | Flying Monkey Skulls of Doom | 0.00% | ~0 |
 | The Sunless Citadel | 0.00% | ~0 |
@@ -455,15 +461,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Batiri in the Goblin Halls | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | The Nimble Grove | 0.00% | ~0 |
-| Dinosaur Racing | 0.00% | ~0 |
-| Shadow Stalkers | 0.00% | ~0 |
 | Market Fluctuations | 0.00% | ~0 |
-| Thrice More Into The Breach | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
 | Displaced Anger | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
-| Relay Race | 0.00% | ~0 |
-| An Illithid Ambush | 0.00% | ~0 |
 | Dream Gauntlet | 0.00% | ~0 |
 | Zombie Dreams | 0.00% | ~0 |
 | The Path of Dreams | 0.00% | ~0 |
@@ -483,7 +484,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bleeding Citadel | 0.00% | ~0 |
 | The Madness of Yeenoghu | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
-| Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Elturel's Last Stand | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,734 (Ranked 59)  
+Progressed: 87,737 (Ranked 59)  
 Completed: 1,847 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 1,847 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,734 | 1,847 |
+| 2023-05-17 | 87,737 | 1,847 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,900 (Ranked 37)  

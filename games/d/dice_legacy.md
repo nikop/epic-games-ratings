@@ -13,12 +13,12 @@ Rating: 4.29 (Ranked 762)
 | Listening to the crowd | 4.00% | ~30 |
 | Full house | 3.00% | ~23 |
 | Ascended | 3.00% | ~23 |
-| Incredible Strength | 3.00% | ~23 |
 | Greedy | 3.00% | ~23 |
 | Hidden Secrets | 3.00% | ~23 |
 | The Stranded King | 3.00% | ~23 |
 | Accepting the Prophecy | 3.00% | ~23 |
 | Just Chilling | 2.00% | ~15 |
+| Incredible Strength | 2.00% | ~15 |
 | The Penitent Ones | 2.00% | ~15 |
 | Prophecy Fulfilled | 2.00% | ~15 |
 | The Greedy Ones | 1.00% | ~8 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 762)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760 (Ranked 172)  
+Progressed: 761 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 754 | 0 |
 | 2023-05-14 | 757 | 0 |
 | 2023-05-16 | 759 | 0 |
-| 2023-05-17 | 760 | 0 |
+| 2023-05-17 | 761 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -355,9 +355,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 313100,
+  "EOS_Progressed": 313104,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2252,
+  "EOS_NewPlayers": 2246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2880,6 +2880,11 @@
       "Time": "2023-05-17T06:05:01.4537972+00:00",
       "NumProgressed": 313100,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-17T07:06:07.7379824+00:00",
+      "NumProgressed": 313104,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 80,
@@ -2995,7 +3000,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43834
+      "UsersEstimate": 43835
     },
     {
       "ID": "ach015",
@@ -3099,7 +3104,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 144026
+      "UsersEstimate": 144028
     },
     {
       "ID": "ach028",
@@ -3243,7 +3248,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 40703
+      "UsersEstimate": 40704
     },
     {
       "ID": "ach046",
@@ -3403,7 +3408,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43834
+      "UsersEstimate": 43835
     },
     {
       "ID": "ach067",
@@ -3419,7 +3424,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 50096
+      "UsersEstimate": 50097
     },
     {
       "ID": "ach069",
@@ -3427,7 +3432,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43834
+      "UsersEstimate": 43835
     },
     {
       "ID": "ach070",
@@ -3530,7 +3535,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 313100,
+      "Progressed": 313104,
       "Completed": 3
     }
   ],
@@ -3538,8 +3543,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-05-16T19:57:22.2578197+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:01.4537969+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:07.737982+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.8293728+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:57:32.6330097+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:01.4538891+00:00"
+  "LastUpdate_Ratings": "2023-05-17T06:57:50.6283859+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:07.7380601+00:00"
 }

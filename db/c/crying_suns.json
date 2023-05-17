@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458189,
+  "EOS_Progressed": 458190,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2873,6 +2873,11 @@
       "Time": "2023-05-17T05:05:52.6687325+00:00",
       "NumProgressed": 458189,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-17T07:06:29.4533973+00:00",
+      "NumProgressed": 458190,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2900,7 +2905,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105383
+      "UsersEstimate": 105384
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -2980,7 +2985,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22909
+      "UsersEstimate": 22910
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -2988,7 +2993,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22909
+      "UsersEstimate": 22910
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -3004,7 +3009,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114547
+      "UsersEstimate": 114548
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -3068,7 +3073,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151202
+      "UsersEstimate": 151203
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -3084,7 +3089,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22909
+      "UsersEstimate": 22910
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -3308,7 +3313,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201603
+      "UsersEstimate": 201604
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -3364,7 +3369,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 22909
+      "UsersEstimate": 22910
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -3403,21 +3408,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2123,
-      "Completed": 2123
+      "Progressed": 2124,
+      "Completed": 2124
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458189,
+      "Progressed": 458190,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-17T06:05:19.0678219+00:00",
+  "LastChanged_Achievements": "2023-05-17T07:06:29.4533968+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:58:53.8376371+00:00",
-  "LastUpdate_Achievements": "2023-05-17T06:05:19.0829627+00:00"
+  "LastUpdate_Ratings": "2023-05-17T06:59:40.496576+00:00",
+  "LastUpdate_Achievements": "2023-05-17T07:06:29.453455+00:00"
 }

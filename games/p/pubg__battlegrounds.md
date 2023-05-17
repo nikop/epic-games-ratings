@@ -5,33 +5,33 @@ Rating: 3.98 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 74.00% | ~268,747 |
-| Health Junkie | 45.00% | ~163,427 |
-| You Complete Me | 41.00% | ~148,901 |
-| Guardian Angel | 39.00% | ~141,637 |
-| Devil Inside Me | 31.00% | ~112,583 |
-| Killing Spree | 22.00% | ~79,898 |
-| Fantastic Four | 21.00% | ~76,266 |
-| Marksman Novice | 20.00% | ~72,634 |
-| First Blood | 13.00% | ~47,212 |
-| Top 10 | 13.00% | ~47,212 |
+| Blood on My Hands | 74.00% | ~268,750 |
+| Health Junkie | 45.00% | ~163,429 |
+| You Complete Me | 41.00% | ~148,902 |
+| Guardian Angel | 39.00% | ~141,639 |
+| Devil Inside Me | 31.00% | ~112,585 |
+| Killing Spree | 22.00% | ~79,899 |
+| Fantastic Four | 21.00% | ~76,267 |
+| Marksman Novice | 20.00% | ~72,635 |
+| First Blood | 13.00% | ~47,213 |
+| Top 10 | 13.00% | ~47,213 |
 | Now You See Me, Now You Don't | 12.00% | ~43,581 |
-| Marksman Expert | 9.00% | ~32,685 |
+| Marksman Expert | 9.00% | ~32,686 |
 | CQB Novice | 8.00% | ~29,054 |
 | Collateral Damage | 7.00% | ~25,422 |
-| Airborne | 6.00% | ~21,790 |
+| Airborne | 6.00% | ~21,791 |
 | Pacifist | 5.00% | ~18,159 |
 | Last Survivor | 4.00% | ~14,527 |
 | Marksman Master | 4.00% | ~14,527 |
 | Trigonometry Novice | 4.00% | ~14,527 |
 | First Come, First Served | 4.00% | ~14,527 |
 | Dynamic Duo | 4.00% | ~14,527 |
-| Winner Winner Chicken Dinner! | 2.00% | ~7,263 |
-| Okay, Now I'm Ready | 2.00% | ~7,263 |
-| Agent 48 | 2.00% | ~7,263 |
-| Don't Pan Me Bro! | 2.00% | ~7,263 |
-| Fast and Furious | 2.00% | ~7,263 |
-| CQB Expert | 2.00% | ~7,263 |
+| Winner Winner Chicken Dinner! | 2.00% | ~7,264 |
+| Okay, Now I'm Ready | 2.00% | ~7,264 |
+| Agent 48 | 2.00% | ~7,264 |
+| Don't Pan Me Bro! | 2.00% | ~7,264 |
+| Fast and Furious | 2.00% | ~7,264 |
+| CQB Expert | 2.00% | ~7,264 |
 | Ghost | 1.00% | ~3,632 |
 | Cruising with the Enemy | 1.00% | ~3,632 |
 | Fury Road | 0.90% | ~3,269 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 887)
 | The First Rule Is… | 0.10% | ~363 |
 | Shoot the Knee | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,172 (Ranked 36)  
+Progressed: 363,176 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 8 (0.00%) (Ranked 199)
 | 2023-05-14 | 361,008 | 8 |
 | 2023-05-15 | 362,109 | 8 |
 | 2023-05-16 | 363,118 | 8 |
-| 2023-05-17 | 363,172 | 8 |
+| 2023-05-17 | 363,176 | 8 |
 ## Awards
 Max (Competitive Players): 1,883  (Ranked 104)  
 Sum: 6,162 (Ranked 112)  
