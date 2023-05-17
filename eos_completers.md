@@ -59,7 +59,7 @@
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.21% |
-| 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
+| 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -89,8 +89,8 @@
 | 87 | [Hades](games/h/hades.md) | 0.90% |
 | 88 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 89 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
-| 90 | [Five Dates](games/f/five_dates.md) | 0.85% |
-| 91 | [Lemon Cake](games/l/lemon_cake.md) | 0.84% |
+| 90 | [Five Dates](games/f/five_dates.md) | 0.84% |
+| 90 | [Lemon Cake](games/l/lemon_cake.md) | 0.84% |
 | 92 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 93 | [Adios](games/a/adios.md) | 0.80% |
 | 93 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |

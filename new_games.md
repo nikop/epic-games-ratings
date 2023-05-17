@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-17 | 2023-05-17 |
 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 2023-05-16 | 2021-09-07 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-16 | 2023-05-16 |
@@ -38,7 +39,6 @@
 | [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | 2023-02-01 |
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | 2023-05-10 | 2023-05-10 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 2023-02-12 |
-| [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-10 | 2023-05-08 |
 | [Cyber Drift](games/c/cyber_drift.md) | 2023-05-10 | 2023-04-28 |
 | [Save District 3](games/s/save_district_3.md) | 2023-05-09 | 2023-04-10 |
 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 2021-06-12 |
