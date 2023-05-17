@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -435,9 +435,9 @@
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
       "SetID": "ak6pfjk",
       "Name": "Combo Breaker",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "BADGE_PLAYER_RANK",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-17T09:06:19.6467341+00:00",
+  "LastChanged_Achievements": "2023-05-17T10:05:06.2211138+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:31.9076697+00:00",
-  "LastUpdate_Ratings": "2023-05-17T08:58:50.5584692+00:00",
-  "LastUpdate_Achievements": "2023-05-17T09:06:19.6467736+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:58:16.2776422+00:00",
+  "LastUpdate_Achievements": "2023-05-17T10:05:06.2211593+00:00"
 }

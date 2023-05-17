@@ -1,6 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
+Rating: 3.55 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,6 +11,7 @@
 | Electrician | 30.00% | ~3 |
 | “Aliens” | 20.00% | ~2 |
 | Caveman | 20.00% | ~2 |
+| Get your hands dirty | 20.00% | ~2 |
 | Cooking Vegetables | 10.00% | ~1 |
 | Driver's License | 10.00% | ~1 |
 | Explosive Miner | 10.00% | ~1 |
@@ -23,7 +25,6 @@
 | Detective | 10.00% | ~1 |
 | DeDust | 10.00% | ~1 |
 | Gardener | 10.00% | ~1 |
-| Get your hands dirty | 10.00% | ~1 |
 | I am the greatest botanist on this planet. | 10.00% | ~1 |
 | Houston we have a problem | 10.00% | ~1 |
 | ITS crash site | 10.00% | ~1 |
@@ -64,3 +65,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 8 | 0 |
 | 2023-05-16 | 9 | 0 |
 | 2023-05-17 | 10 | 0 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-05-17 | 3.55 | 0 | 0 |

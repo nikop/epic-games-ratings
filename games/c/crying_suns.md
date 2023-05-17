@@ -6,22 +6,22 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,409 |
-| Jeef Skeejj | 44.00% | ~201,606 |
-| Careful planning | 39.00% | ~178,696 |
-| Second Coming | 33.00% | ~151,204 |
-| Jeef Skagg | 30.00% | ~137,458 |
-| Mother | 25.00% | ~114,549 |
-| In space, no one can hear you scream | 23.00% | ~105,385 |
-| Chapter I: Echoes | 22.00% | ~100,803 |
-| Excelsior Rule | 22.00% | ~100,803 |
-| Things persisted in not being what they seemed | 20.00% | ~91,639 |
-| Knightmare Frames | 15.00% | ~68,729 |
-| May His passing cleanse the world | 15.00% | ~68,729 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,729 |
-| Pope Zenon | 15.00% | ~68,729 |
-| Tetsuo | 11.00% | ~50,401 |
-| Plan for the worst | 11.00% | ~50,401 |
+| The Shutdown | 66.00% | ~302,411 |
+| Jeef Skeejj | 44.00% | ~201,608 |
+| Careful planning | 39.00% | ~178,698 |
+| Second Coming | 33.00% | ~151,206 |
+| Jeef Skagg | 30.00% | ~137,460 |
+| Mother | 25.00% | ~114,550 |
+| In space, no one can hear you scream | 23.00% | ~105,386 |
+| Chapter I: Echoes | 22.00% | ~100,804 |
+| Excelsior Rule | 22.00% | ~100,804 |
+| Things persisted in not being what they seemed | 20.00% | ~91,640 |
+| Knightmare Frames | 15.00% | ~68,730 |
+| May His passing cleanse the world | 15.00% | ~68,730 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,730 |
+| Pope Zenon | 15.00% | ~68,730 |
+| Tetsuo | 11.00% | ~50,402 |
+| Plan for the worst | 11.00% | ~50,402 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,820 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~36,656 |
 | Through the mirror | 8.00% | ~36,656 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,195 (Ranked 28)  
+Progressed: 458,199 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 14 (0.00%) (Ranked 199)
 | 2023-05-14 | 458,027 | 14 |
 | 2023-05-15 | 458,099 | 14 |
 | 2023-05-16 | 458,171 | 14 |
-| 2023-05-17 | 458,195 | 14 |
+| 2023-05-17 | 458,199 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 349)  

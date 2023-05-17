@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -361,9 +361,9 @@
       "ID": "YETTI",
       "SetID": "64e5lgf",
       "Name": "YETTI",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -378,8 +378,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-17T09:06:21.2401849+00:00",
+  "LastChanged_Achievements": "2023-05-17T10:05:07.5254773+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:22.5289595+00:00",
-  "LastUpdate_Ratings": "2023-05-17T08:59:45.0356118+00:00",
-  "LastUpdate_Achievements": "2023-05-17T09:06:21.2401966+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:59:00.241411+00:00",
+  "LastUpdate_Achievements": "2023-05-17T10:05:07.5254905+00:00"
 }

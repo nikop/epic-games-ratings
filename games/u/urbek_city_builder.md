@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 61.00% | ~92 |
-| I like parks | 47.00% | ~70 |
-| The spiritual world... | 27.00% | ~40 |
-| Sport is good for you | 26.00% | ~39 |
+| I like parks | 48.00% | ~72 |
+| The spiritual world... | 28.00% | ~42 |
+| Sport is good for you | 27.00% | ~40 |
 | The woodcutter | 25.00% | ~38 |
 | It is nice to share with friends in the city | 25.00% | ~38 |
 | I like books | 20.00% | ~30 |
 | I like my life | 19.00% | ~28 |
 | Clean energy | 19.00% | ~28 |
-| Soviet town | 16.00% | ~24 |
+| Soviet town | 17.00% | ~26 |
 | Bucolic city | 14.00% | ~21 |
 | King of fish | 11.00% | ~16 |
+| I love parks | 11.00% | ~16 |
 | I love books! | 10.00% | ~15 |
-| I love parks | 10.00% | ~15 |
 | What would we do if we can't go out with friends? | 9.00% | ~14 |
 | Food producer | 7.00% | ~11 |
 | Metropolurbek | 7.00% | ~11 |

@@ -7,7 +7,7 @@ Rating: 4.40 (Ranked 669)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 37.00% | ~268 |
 | Confirming Suspicions | 32.00% | ~232 |
-| The Kraken Wakes | 30.00% | ~217 |
+| The Kraken Wakes | 30.00% | ~218 |
 | It's Starting to Crack | 28.00% | ~203 |
 | Lord of War | 25.00% | ~181 |
 | Change the Channel | 25.00% | ~181 |
@@ -20,11 +20,11 @@ Rating: 4.40 (Ranked 669)
 | The Kraken Sleeps | 19.00% | ~138 |
 | Liberté | 17.00% | ~123 |
 | Explosive Efficiency | 16.00% | ~116 |
-| Gunslinger | 15.00% | ~109 |
 | Close Quarters | 15.00% | ~109 |
-| Climbing the Ladder | 14.00% | ~101 |
-| Fields of Glory | 14.00% | ~101 |
-| Skirmisher | 14.00% | ~101 |
+| Climbing the Ladder | 14.00% | ~102 |
+| Fields of Glory | 14.00% | ~102 |
+| Gunslinger | 14.00% | ~102 |
+| Skirmisher | 14.00% | ~102 |
 | Just a Flesh Wound | 13.00% | ~94 |
 | Der Geist | 13.00% | ~94 |
 | Snake in the Grass | 13.00% | ~94 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 669)
 | Herr Today, Gone Tomorrow | 8.00% | ~54 |
 | Operation Foxley | 8.00% | ~54 |
 | Last Resort | 7.00% | ~47 |
-| Ghost of Falaise | 6.00% | ~40 |
+| Ghost of Falaise | 6.00% | ~41 |
 | The Long Game | 5.00% | ~36 |
 | Tinkerer | 5.00% | ~36 |
 | Siegebreaker | 5.00% | ~34 |
@@ -74,7 +74,7 @@ Rating: 4.40 (Ranked 669)
 | Operation Overlord | 0.40% | ~3 |
 | Stroll in the Woods | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724 (Ranked 176)  
+Progressed: 725 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-14 | 717 | 2 |
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
-| 2023-05-17 | 724 | 2 |
+| 2023-05-17 | 725 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

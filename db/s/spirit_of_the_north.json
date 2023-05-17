@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 54298,
+  "EOS_Progressed": 54301,
   "EOS_Completed": 252,
-  "EOS_NewPlayers": 954,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2846,6 +2846,11 @@
       "Time": "2023-05-17T09:06:21.4609304+00:00",
       "NumProgressed": 54298,
       "NumCompleted": 252
+    },
+    {
+      "Time": "2023-05-17T10:05:07.7583117+00:00",
+      "NumProgressed": 54301,
+      "NumCompleted": 252
     }
   ],
   "TotalAchievements": 24,
@@ -2873,7 +2878,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 36380
+      "UsersEstimate": 36382
     },
     {
       "ID": "BEST_FRIENDS",
@@ -2889,7 +2894,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 14117
+      "UsersEstimate": 14118
     },
     {
       "ID": "ERADICATE",
@@ -2905,7 +2910,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14660
+      "UsersEstimate": 14661
     },
     {
       "ID": "FOXIN_AROUND",
@@ -2913,7 +2918,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 15203
+      "UsersEstimate": 15204
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -2937,7 +2942,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 28235
+      "UsersEstimate": 28237
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -3048,7 +3053,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 54298,
+      "Progressed": 54301,
       "Completed": 252
     }
   ],
@@ -3056,8 +3061,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-05-17T09:06:21.4609294+00:00",
+  "LastChanged_Achievements": "2023-05-17T10:05:07.7583112+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:21.0292093+00:00",
-  "LastUpdate_Ratings": "2023-05-17T08:59:43.6737847+00:00",
-  "LastUpdate_Achievements": "2023-05-17T09:06:21.4609631+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:58:59.1795433+00:00",
+  "LastUpdate_Achievements": "2023-05-17T10:05:07.7583626+00:00"
 }

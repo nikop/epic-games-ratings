@@ -2448,9 +2448,9 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 267429,
+  "EOS_Progressed": 267430,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 987,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4928,6 +4928,11 @@
       "Time": "2023-05-17T09:03:36.4924797+00:00",
       "NumProgressed": 267429,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-05-17T10:03:11.0525819+00:00",
+      "NumProgressed": 267430,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 45,
@@ -4939,7 +4944,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "PFA_10",
@@ -4995,7 +5000,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "PFA_17",
@@ -5011,7 +5016,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "PFA_19",
@@ -5043,7 +5048,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "PFA_22",
@@ -5067,7 +5072,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "PFA_25",
@@ -5275,7 +5280,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "PFA_8",
@@ -5283,7 +5288,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     },
     {
       "ID": "PFA_9",
@@ -5291,14 +5296,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13371
+      "UsersEstimate": 13372
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267429,
+      "Progressed": 267430,
       "Completed": 363
     }
   ],
@@ -5306,8 +5311,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-17T04:57:14.5963388+00:00",
-  "LastChanged_Achievements": "2023-05-17T09:03:36.4924787+00:00",
+  "LastChanged_Achievements": "2023-05-17T10:03:11.0525813+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-17T08:57:22.2284657+00:00",
-  "LastUpdate_Achievements": "2023-05-17T09:03:36.4925331+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:57:07.4731319+00:00",
+  "LastUpdate_Achievements": "2023-05-17T10:03:11.0526371+00:00"
 }

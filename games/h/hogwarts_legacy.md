@@ -10,14 +10,14 @@ Rating: 4.77 (Ranked 103)
 | The Hallowed Hero | 6.00% | ~16,046 |
 | The Hero of Hogwarts | 6.00% | ~16,046 |
 | Coasting Along | 6.00% | ~16,046 |
-| The Sort Who Makes an Entrance | 5.00% | ~13,371 |
-| The Defender of Dragons | 5.00% | ~13,371 |
-| A Sallow Grave | 5.00% | ~13,371 |
-| Challenge Accepted | 5.00% | ~13,371 |
-| Loom for Improvement | 5.00% | ~13,371 |
-| Troll with the Punches | 5.00% | ~13,371 |
-| That's a Keeper | 5.00% | ~13,371 |
-| Rising From the Ashes | 5.00% | ~13,371 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,372 |
+| The Defender of Dragons | 5.00% | ~13,372 |
+| A Sallow Grave | 5.00% | ~13,372 |
+| Challenge Accepted | 5.00% | ~13,372 |
+| Loom for Improvement | 5.00% | ~13,372 |
+| Troll with the Punches | 5.00% | ~13,372 |
+| That's a Keeper | 5.00% | ~13,372 |
+| Rising From the Ashes | 5.00% | ~13,372 |
 | The Avenging Gazelle | 4.00% | ~10,697 |
 | Beast Friends | 4.00% | ~10,697 |
 | Flight the Good Flight | 4.00% | ~10,697 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,070 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,429 (Ranked 38)  
+Progressed: 267,430 (Ranked 38)  
 Completed: 363 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 363 (0.14%) (Ranked 149)
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
 | 2023-05-16 | 267,382 | 362 |
-| 2023-05-17 | 267,429 | 363 |
+| 2023-05-17 | 267,430 | 363 |
 ## Awards
 Max (Character Customization): 18,815  (Ranked 18)  
 Sum: 34,553 (Ranked 33)  

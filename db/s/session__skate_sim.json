@@ -1045,9 +1045,9 @@
       "ID": "ACH_GOAT-STATUS",
       "SetID": "72olkc5",
       "Name": "G.O.A.T. status",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_GOLDEN",
@@ -1325,8 +1325,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-16T11:58:45.2681641+00:00",
-  "LastChanged_Achievements": "2023-05-17T09:06:02.9362749+00:00",
+  "LastChanged_Achievements": "2023-05-17T10:04:51.904063+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-17T08:59:21.6753786+00:00",
-  "LastUpdate_Achievements": "2023-05-17T09:06:02.936316+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:58:42.2995188+00:00",
+  "LastUpdate_Achievements": "2023-05-17T10:04:51.9041045+00:00"
 }

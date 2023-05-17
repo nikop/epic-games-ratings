@@ -1518,7 +1518,7 @@
   ],
   "EOS_Progressed": 78149,
   "EOS_Completed": 2128,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -2973,9 +2973,9 @@
       "ID": "021_TROPHY_FIRST_SOUL_BURST",
       "SetID": "4ajkb4b",
       "Name": "Manifestation of the Soul",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 75805
+      "UsersEstimate": 76586
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -3181,8 +3181,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-14T10:00:07.3790707+00:00",
-  "LastChanged_Achievements": "2023-05-17T09:06:37.5768959+00:00",
+  "LastChanged_Achievements": "2023-05-17T10:05:21.1109798+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:41.6234378+00:00",
-  "LastUpdate_Ratings": "2023-05-17T09:00:05.5075716+00:00",
-  "LastUpdate_Achievements": "2023-05-17T09:06:37.5769401+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:59:17.8906712+00:00",
+  "LastUpdate_Achievements": "2023-05-17T10:05:21.1110273+00:00"
 }
