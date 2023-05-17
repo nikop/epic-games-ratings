@@ -158,4 +158,3 @@
 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 2023-04-18 | 2023-04-18 |
 | [Aftertime](games/a/aftertime.md) | 2023-04-18 | 2022-10-31 |
 | [Doomed Lands](games/d/doomed_lands.md) | 2023-04-17 | 2023-04-17 |
-| [The Dawning Clocks of Time](games/t/the_dawning_clocks_of_time.md) | 2023-04-16 | 2021-09-08 |

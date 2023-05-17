@@ -18,7 +18,7 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.91% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
 | 22 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -33,7 +33,7 @@
 | 31 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
 | 32 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
 | 32 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
-| 32 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.17% |
+| 34 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.00% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.94% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -46,7 +46,7 @@
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 45 | [Lamentum](games/l/lamentum.md) | 2.99% |
 | 46 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 47 | [ZZT!](games/z/zzt!.md) | 2.94% |
+| 47 | [ZZT!](games/z/zzt!.md) | 2.93% |
 | 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
@@ -59,7 +59,7 @@
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
 | 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
-| 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
+| 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -103,8 +103,8 @@
 | 101 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
-| 104 | [Ghostrunner](games/g/ghostrunner.md) | 0.51% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
+| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
 | 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 107 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.46% |
@@ -112,9 +112,9 @@
 | 110 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
 | 110 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
-| 113 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
-| 113 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 113 | [Tchia](games/t/tchia.md) | 0.37% |
+| 113 | [Tchia](games/t/tchia.md) | 0.38% |
+| 114 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
+| 114 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 116 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.36% |
 | 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
