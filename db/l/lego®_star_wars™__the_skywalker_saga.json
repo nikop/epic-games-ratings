@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2102,9 +2102,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 46045,
+  "EOS_Progressed": 46046,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -3752,6 +3752,11 @@
       "Time": "2023-05-17T02:07:45.2834198+00:00",
       "NumProgressed": 46045,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-05-17T03:06:05.0854613+00:00",
+      "NumProgressed": 46046,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 45,
@@ -3899,7 +3904,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 21641
+      "UsersEstimate": 21642
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -3907,7 +3912,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 16576
+      "UsersEstimate": 16577
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -4003,7 +4008,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 26706
+      "UsersEstimate": 26707
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -4027,7 +4032,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 44664
+      "UsersEstimate": 44665
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -4067,7 +4072,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 32692
+      "UsersEstimate": 32693
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -4081,9 +4086,9 @@
       "ID": "MINIKITS_ONE_LEVEL",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16576
+      "UsersEstimate": 17037
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -4115,22 +4120,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 33152
+      "UsersEstimate": 33153
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 46045,
+      "Progressed": 46046,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-16T16:00:52.1084249+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:07:45.2834194+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:06:05.0854605+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:26.2031618+00:00",
-  "LastUpdate_Ratings": "2023-05-17T02:02:09.9009683+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:07:45.2834636+00:00"
+  "LastUpdate_Ratings": "2023-05-17T03:00:49.8291439+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:06:05.0855387+00:00"
 }

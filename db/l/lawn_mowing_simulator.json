@@ -2005,9 +2005,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 614309,
+  "EOS_Progressed": 614315,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2679,
+  "EOS_NewPlayers": 2671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4515,6 +4515,11 @@
       "Time": "2023-05-17T02:07:16.6056548+00:00",
       "NumProgressed": 614309,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-17T03:05:32.8793304+00:00",
+      "NumProgressed": 614315,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 54,
@@ -4526,7 +4531,7 @@
       "Name": "The dream begins",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 503733
+      "UsersEstimate": 503738
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -4614,7 +4619,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 227294
+      "UsersEstimate": 227297
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -4766,7 +4771,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 196579
+      "UsersEstimate": 196581
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -4814,7 +4819,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -4830,7 +4835,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 92146
+      "UsersEstimate": 92147
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -4846,7 +4851,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24572
+      "UsersEstimate": 24573
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -4854,7 +4859,7 @@
       "Name": "All hands on deck",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "PURCHASE_FORTH_HQ",
@@ -4926,7 +4931,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 110576
+      "UsersEstimate": 110577
     },
     {
       "ID": "RP_TRUSTED",
@@ -4950,22 +4955,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24572
+      "UsersEstimate": 24573
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 614309,
+      "Progressed": 614315,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-05-15T23:57:35.2098179+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:07:16.6056544+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:05:32.8793296+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:56.1973979+00:00",
-  "LastUpdate_Ratings": "2023-05-17T01:59:55.1661116+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:07:16.605717+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:58:06.0268034+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:05:32.8794455+00:00"
 }

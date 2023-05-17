@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38050,
+  "EOS_Progressed": 38052,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1945,6 +1945,11 @@
       "Time": "2023-05-17T02:07:27.0071407+00:00",
       "NumProgressed": 38050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T03:05:44.6024477+00:00",
+      "NumProgressed": 38052,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2004,7 +2009,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -2052,7 +2057,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -2068,7 +2073,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -2076,7 +2081,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -2116,7 +2121,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -2156,7 +2161,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -2172,7 +2177,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -2204,7 +2209,7 @@
       "Name": "Shocker",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -2252,7 +2257,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -2292,7 +2297,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "SPRING_ALL",
@@ -2308,7 +2313,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "STAYING_AIR",
@@ -2379,22 +2384,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38050,
+      "Progressed": 38052,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2887,
-      "Completed": 2887
+      "Progressed": 2889,
+      "Completed": 2889
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:07:27.0071401+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:05:44.6024469+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
-  "LastUpdate_Ratings": "2023-05-17T02:00:25.3878818+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:07:27.0071942+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:58:38.9491056+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:05:44.6025076+00:00"
 }

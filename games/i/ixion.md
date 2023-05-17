@@ -37,6 +37,7 @@ Rating: 4.55 (Ranked 465)
 | Praise the Hull! | 0.30% | ~6 |
 | Delivery! | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |
+| What the Ruins Teach Us | 0.30% | ~6 |
 | Pulsar Disciple | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | Oats | 0.20% | ~4 |
@@ -45,7 +46,6 @@ Rating: 4.55 (Ranked 465)
 | You Had One Job... | 0.20% | ~4 |
 | Space Greenhouse | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
-| What the Ruins Teach Us | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
 | Tiqqun Contender | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |

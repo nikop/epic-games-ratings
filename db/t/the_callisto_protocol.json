@@ -832,9 +832,9 @@
       "ID": "FINISH_GAME_HARDCORE_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Lifer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -1016,17 +1016,17 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISH_WAVE_50",
       "SetID": "6j5ggkc",
       "Name": "Big Game Hunter",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1079,8 +1079,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:07:14.5990545+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:05:30.5513837+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-17T01:59:45.6823469+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:07:14.5990883+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:57:55.413528+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:05:30.5514385+00:00"
 }

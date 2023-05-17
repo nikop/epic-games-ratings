@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,426 |
+| Until death do us apart | 9.00% | ~3,427 |
 | That's a Grand Army | 8.00% | ~3,046 |
 | That is mine! | 8.00% | ~3,046 |
 | Victorious! | 8.00% | ~3,046 |
-| Brothers in Arms | 6.00% | ~2,284 |
-| That's a Grand Navy | 6.00% | ~2,284 |
-| Seriously?! | 6.00% | ~2,284 |
+| Brothers in Arms | 6.00% | ~2,285 |
+| That's a Grand Navy | 6.00% | ~2,285 |
+| Seriously?! | 6.00% | ~2,285 |
 | For the Glory | 5.00% | ~1,904 |
 | Cold War | 4.00% | ~1,523 |
 | True Catholic | 4.00% | ~1,523 |
@@ -20,15 +20,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 3.00% | ~1,142 |
 | Respected | 3.00% | ~1,142 |
 | Truly Divine Ruler | 3.00% | ~1,142 |
-| Blockader | 2.00% | ~761 |
-| Combined Arms | 2.00% | ~761 |
-| Double the Love | 2.00% | ~761 |
-| Gentle Persuasion | 2.00% | ~761 |
-| It's all about luck | 2.00% | ~761 |
-| Queen of Conquest | 2.00% | ~761 |
-| Royal Authority | 2.00% | ~761 |
-| The Princess is in this Castle | 2.00% | ~761 |
-| Total Control | 2.00% | ~761 |
+| Blockader | 2.00% | ~762 |
+| Combined Arms | 2.00% | ~762 |
+| Double the Love | 2.00% | ~762 |
+| Gentle Persuasion | 2.00% | ~762 |
+| It's all about luck | 2.00% | ~762 |
+| Queen of Conquest | 2.00% | ~762 |
+| Royal Authority | 2.00% | ~762 |
+| The Princess is in this Castle | 2.00% | ~762 |
+| Total Control | 2.00% | ~762 |
 | Agressive Expander | 1.00% | ~381 |
 | All That's Thine Shall Be Mine | 1.00% | ~381 |
 | Azur semé de lis or | 1.00% | ~381 |
@@ -40,9 +40,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.80% | ~305 |
 | Market Control | 0.80% | ~305 |
 | The Five Colonies | 0.80% | ~305 |
-| Down Under | 0.70% | ~266 |
-| The Emperors new clothes | 0.70% | ~266 |
-| This navy can take it all | 0.70% | ~266 |
+| Down Under | 0.70% | ~267 |
+| The Emperors new clothes | 0.70% | ~267 |
+| This navy can take it all | 0.70% | ~267 |
 | Time Bandit | 0.60% | ~228 |
 | Trustworthy | 0.60% | ~228 |
 | All belongs to Mother Russia | 0.50% | ~190 |
@@ -219,6 +219,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pirate Bay of Janjira | 0.10% | ~38 |
 | Poland can into space | 0.10% | ~38 |
 | Prester John | 0.10% | ~38 |
+| The Prince of Egypt | 0.10% | ~38 |
 | Protect the Secret | 0.10% | ~38 |
 | Purify the Temple | 0.10% | ~38 |
 | Pyramid of Skulls | 0.10% | ~38 |
@@ -329,7 +330,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One nation to rule them all | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
-| The Prince of Egypt | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,070 (Ranked 80)  
+Progressed: 38,081 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
-| 2023-05-17 | 38,070 | 0 |
+| 2023-05-17 | 38,081 | 0 |
 ## Awards
 Max (Educational): 5,228  (Ranked 60)  
 Sum: 43,275 (Ranked 27)  

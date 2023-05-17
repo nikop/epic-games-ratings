@@ -3748,9 +3748,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87723,
+  "EOS_Progressed": 87726,
   "EOS_Completed": 1847,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6198,6 +6198,11 @@
       "Time": "2023-05-17T02:07:49.9595959+00:00",
       "NumProgressed": 87723,
       "NumCompleted": 1847
+    },
+    {
+      "Time": "2023-05-17T03:06:10.2976155+00:00",
+      "NumProgressed": 87726,
+      "NumCompleted": 1847
     }
   ],
   "TotalAchievements": 493,
@@ -6279,9 +6284,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1051",
@@ -6807,9 +6812,9 @@
       "ID": "objective_completed_1148",
       "SetID": "415jc5c",
       "Name": "Strength of Character",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1149",
@@ -7015,9 +7020,9 @@
       "ID": "objective_completed_1188",
       "SetID": "415jc5c",
       "Name": "The Castle of a Thousand Vecnas",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1189",
@@ -7231,9 +7236,9 @@
       "ID": "objective_completed_1330",
       "SetID": "415jc5c",
       "Name": "Love Unsoiled",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1331",
@@ -7663,9 +7668,9 @@
       "ID": "objective_completed_236",
       "SetID": "cc37lbc",
       "Name": "Haaave You Met Asmodeus?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_237",
@@ -7751,9 +7756,9 @@
       "ID": "objective_completed_262",
       "SetID": "cc37lbc",
       "Name": "Tower on the Lake",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_263",
@@ -7847,9 +7852,9 @@
       "ID": "objective_completed_283",
       "SetID": "cc37lbc",
       "Name": "Attack on the Manor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_284",
@@ -8007,9 +8012,9 @@
       "ID": "objective_completed_390",
       "SetID": "cc37lbc",
       "Name": "Class Vacation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_391",
@@ -8047,9 +8052,9 @@
       "ID": "objective_completed_396",
       "SetID": "415jc5c",
       "Name": "Shadowfell Stalwarts",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_398",
@@ -8231,9 +8236,9 @@
       "ID": "objective_completed_420",
       "SetID": "cc37lbc",
       "Name": "Flame(skull) War",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_421",
@@ -8295,9 +8300,9 @@
       "ID": "objective_completed_430",
       "SetID": "cc37lbc",
       "Name": "Modrons in the Mud",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_431",
@@ -8319,9 +8324,9 @@
       "ID": "objective_completed_434",
       "SetID": "cc37lbc",
       "Name": "An Abyssal Situation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_435",
@@ -8615,9 +8620,9 @@
       "ID": "objective_completed_577",
       "SetID": "cc37lbc",
       "Name": "Madcap Adventures",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_578",
@@ -8911,9 +8916,9 @@
       "ID": "objective_completed_620",
       "SetID": "415jc5c",
       "Name": "An Illithid Undertaking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_621",
@@ -8951,9 +8956,9 @@
       "ID": "objective_completed_626",
       "SetID": "415jc5c",
       "Name": "Wait, What?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_627",
@@ -8991,9 +8996,9 @@
       "ID": "objective_completed_632",
       "SetID": "415jc5c",
       "Name": "The Devil Arrives",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_633",
@@ -9055,9 +9060,9 @@
       "ID": "objective_completed_642",
       "SetID": "415jc5c",
       "Name": "The Path of Trials",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_643",
@@ -9119,9 +9124,9 @@
       "ID": "objective_completed_657",
       "SetID": "415jc5c",
       "Name": "The Gargoyle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_658",
@@ -9135,9 +9140,9 @@
       "ID": "objective_completed_660",
       "SetID": "415jc5c",
       "Name": "The Wandering Emporium",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_661",
@@ -9463,9 +9468,9 @@
       "ID": "objective_completed_805",
       "SetID": "415jc5c",
       "Name": "Ten in Ten-Towns",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_807",
@@ -9503,9 +9508,9 @@
       "ID": "objective_completed_810",
       "SetID": "415jc5c",
       "Name": "Lone Wolf Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_812",
@@ -9695,9 +9700,9 @@
       "ID": "objective_completed_849",
       "SetID": "415jc5c",
       "Name": "Tough Acting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_850",
@@ -9919,9 +9924,9 @@
       "ID": "objective_completed_894",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_897",
@@ -10087,9 +10092,9 @@
       "ID": "objective_completed_95",
       "SetID": "cc37lbc",
       "Name": "The Haunted Jungle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_96",
@@ -10152,21 +10157,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53997,
+      "Progressed": 54000,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87723,
+      "Progressed": 87726,
       "Completed": 1847
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:07:49.9595956+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:06:10.2976149+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T01:59:57.4656659+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:07:49.9619746+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:58:08.8799688+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:06:10.3016902+00:00"
 }

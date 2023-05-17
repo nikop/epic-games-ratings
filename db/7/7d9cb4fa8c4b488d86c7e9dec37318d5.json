@@ -4,7 +4,7 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -118,8 +118,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:02:26.296329+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:01:12.4769396+00:00",
   "LastUpdate_AppInfo": "2023-05-16T15:57:01.6487121+00:00",
-  "LastUpdate_Ratings": "2023-05-17T01:59:05.8247288+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:02:26.2963407+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:57:06.2814106+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:01:12.4769558+00:00"
 }

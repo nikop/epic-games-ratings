@@ -12,11 +12,11 @@
 | A Grand Visit | 72.00% | ~470 |
 | Vibing | 62.00% | ~405 |
 | Fun Guy | 62.00% | ~405 |
-| Tragic Brave | 52.00% | ~340 |
+| Tragic Brave | 53.00% | ~346 |
 | Awakened Spirits | 49.00% | ~320 |
 | Little Shop | 48.00% | ~313 |
 | Surprise! | 44.00% | ~287 |
-| An Actor! | 43.00% | ~281 |
+| An Actor! | 44.00% | ~287 |
 | Curtain Call | 42.00% | ~274 |
 | Piece of Cake | 40.00% | ~261 |
 | Gooey Delight! | 39.00% | ~255 |

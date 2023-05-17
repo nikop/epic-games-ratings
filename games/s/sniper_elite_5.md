@@ -34,8 +34,8 @@ Rating: 4.40 (Ranked 668)
 | Brains of the Operation | 12.00% | ~87 |
 | No Stone Unturned | 11.00% | ~80 |
 | Opposing Force | 11.00% | ~80 |
+| Precision Is Key | 9.00% | ~65 |
 | My Little Friend | 9.00% | ~65 |
-| Precision Is Key | 8.00% | ~58 |
 | Rigged to Blow | 8.00% | ~58 |
 | Herr Today, Gone Tomorrow | 8.00% | ~54 |
 | Operation Foxley | 8.00% | ~54 |

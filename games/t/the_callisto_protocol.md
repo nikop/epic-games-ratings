@@ -5,9 +5,10 @@ Rating: 4.18 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Instigator | 0.30% | ~1 |
-| Big Game Hunter | 0.30% | ~1 |
+| Instigator | 0.40% | ~2 |
+| Big Game Hunter | 0.40% | ~2 |
 | Bear Trap | 0.30% | ~1 |
+| Lifer | 0.20% | ~1 |
 | Parole Denied | 0.20% | ~1 |
 | The Commonality | 0.20% | ~25 |
 | Hoard Mode | 0.20% | ~1 |
@@ -23,7 +24,6 @@ Rating: 4.18 (Ranked 825)
 | I Do Belong Here | 0.10% | ~13 |
 | The Protocol is About Life | 0.10% | ~13 |
 | Recidivist | 0.10% | ~0 |
-| Lifer | 0.10% | ~0 |
 | Get a Grip | 0.10% | ~13 |
 | In Striking Distance | 0.10% | ~13 |
 | Two Heads Are Better Than One | 0.10% | ~13 |

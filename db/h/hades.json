@@ -3037,9 +3037,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 680733,
+  "EOS_Progressed": 680734,
   "EOS_Completed": 6105,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -5402,6 +5402,11 @@
       "Time": "2023-05-17T02:07:12.3069373+00:00",
       "NumProgressed": 680733,
       "NumCompleted": 6105
+    },
+    {
+      "Time": "2023-05-17T03:05:27.8188276+00:00",
+      "NumProgressed": 680734,
+      "NumCompleted": 6105
     }
   ],
   "TotalAchievements": 49,
@@ -5469,7 +5474,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 353981
+      "UsersEstimate": 353982
     },
     {
       "ID": "AchClearAsphodel",
@@ -5477,7 +5482,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 544586
+      "UsersEstimate": 544587
     },
     {
       "ID": "AchClearElysium",
@@ -5517,7 +5522,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 605852
+      "UsersEstimate": 605853
     },
     {
       "ID": "AchCrushedThanatos",
@@ -5541,7 +5546,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 190605
+      "UsersEstimate": 190606
     },
     {
       "ID": "AchForgedBond",
@@ -5549,7 +5554,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 190605
+      "UsersEstimate": 190606
     },
     {
       "ID": "AchFoundAllSummons",
@@ -5581,7 +5586,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 462898
+      "UsersEstimate": 462899
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -5605,7 +5610,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 251871
+      "UsersEstimate": 251872
     },
     {
       "ID": "AchManyCosmetics",
@@ -5621,7 +5626,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 170183
+      "UsersEstimate": 170184
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -5773,7 +5778,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 483320
+      "UsersEstimate": 483321
     },
     {
       "ID": "AchWeaponClears",
@@ -5789,7 +5794,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 272293
+      "UsersEstimate": 272294
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -5804,15 +5809,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 680733,
+      "Progressed": 680734,
       "Completed": 6105
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-05-16T14:57:32.1009375+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:07:12.3069369+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:05:27.8188267+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.2806221+00:00",
-  "LastUpdate_Ratings": "2023-05-17T01:59:35.2433128+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:07:12.3069906+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:57:42.5361258+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:05:27.8188944+00:00"
 }

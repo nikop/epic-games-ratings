@@ -5841,10 +5841,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 168771,
       "NumberOfAwardsMax": 64312
+    },
+    {
+      "Time": "2023-05-17T02:57:49.1600206+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 168782,
+      "NumberOfAwardsMax": 64312
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 168771,
+  "NumberOfAwards": 168782,
   "NumberOfAwardsMax": 64312,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5888,7 +5894,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7264
+      "Count": 7275
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5921,7 +5927,7 @@
       "Count": 4730
     }
   ],
-  "EOS_Progressed": 799963,
+  "EOS_Progressed": 799965,
   "EOS_Completed": 1599,
   "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 15,
@@ -8421,6 +8427,11 @@
       "Time": "2023-05-17T02:07:06.1655743+00:00",
       "NumProgressed": 799963,
       "NumCompleted": 1599
+    },
+    {
+      "Time": "2023-05-17T03:05:20.7658397+00:00",
+      "NumProgressed": 799965,
+      "NumCompleted": 1599
     }
   ],
   "TotalAchievements": 44,
@@ -8448,7 +8459,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 119994
+      "UsersEstimate": 119995
     },
     {
       "ID": "Cyberjunkie",
@@ -8464,7 +8475,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295986
+      "UsersEstimate": 295987
     },
     {
       "ID": "FollowingTheRiver",
@@ -8576,7 +8587,7 @@
       "Name": "Breathtaking",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 55997
+      "UsersEstimate": 55998
     },
     {
       "ID": "NoMansLand",
@@ -8608,7 +8619,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215990
+      "UsersEstimate": 215991
     },
     {
       "ID": "Specialist",
@@ -8648,7 +8659,7 @@
       "Name": "The Fool",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 535975
+      "UsersEstimate": 535977
     },
     {
       "ID": "TheHermit",
@@ -8656,7 +8667,7 @@
       "Name": "The Hermit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 183991
+      "UsersEstimate": 183992
     },
     {
       "ID": "TheHightPriestess",
@@ -8672,7 +8683,7 @@
       "Name": "The Lovers",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 255988
+      "UsersEstimate": 255989
     },
     {
       "ID": "TheStar",
@@ -8776,22 +8787,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 167992
+      "UsersEstimate": 167993
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 799963,
+      "Progressed": 799965,
       "Completed": 1599
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-05-16T23:57:35.0776936+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:07:06.1655739+00:00",
+  "LastChanged": "2023-05-17T02:57:49.1600203+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:05:20.765839+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:39.285145+00:00",
-  "LastUpdate_Ratings": "2023-05-17T01:59:40.6504267+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:07:06.1656236+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:57:49.1600212+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:05:20.7659196+00:00"
 }

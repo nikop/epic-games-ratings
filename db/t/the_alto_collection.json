@@ -649,7 +649,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 21462,
+  "EOS_Progressed": 21464,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 0,
@@ -3129,6 +3129,11 @@
       "Time": "2023-05-17T02:07:24.7480955+00:00",
       "NumProgressed": 21462,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-17T03:05:41.9343729+00:00",
+      "NumProgressed": 21464,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -3356,7 +3361,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "sightseer",
@@ -3364,7 +3369,7 @@
       "Name": "Sightseer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2576
     },
     {
       "ID": "ultimate",
@@ -3396,7 +3401,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "unlockmaya",
@@ -3451,15 +3456,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 21462,
+      "Progressed": 21464,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "LastChanged_Achievements": "2023-05-17T02:07:24.7480948+00:00",
+  "LastChanged_Achievements": "2023-05-17T03:05:41.9343722+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.251036+00:00",
-  "LastUpdate_Ratings": "2023-05-17T02:01:01.0808768+00:00",
-  "LastUpdate_Achievements": "2023-05-17T02:07:24.7481391+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:59:26.3776921+00:00",
+  "LastUpdate_Achievements": "2023-05-17T03:05:41.934421+00:00"
 }

@@ -20,7 +20,10 @@
 | The Forgotten Tower | 5.00% | ~4 |
 | The bus stop | 4.00% | ~3 |
 | Researcher | 3.00% | ~2 |
+| Rest In Peace | 3.00% | ~2 |
 | I Am The Gate Keeper! | 3.00% | ~2 |
+| The Curse Is Real | 3.00% | ~2 |
+| What A Mansion | 3.00% | ~2 |
 | Armed To The Teeth | 1.00% | ~1 |
 | Back In Time | 1.00% | ~1 |
 | Before The Eclipse | 1.00% | ~1 |
@@ -36,14 +39,11 @@
 | Nightmare Over | 1.00% | ~1 |
 | No Time To Relax | 1.00% | ~1 |
 | Pet The Dog | 1.00% | ~1 |
-| Rest In Peace | 1.00% | ~1 |
 | Survival Horror | 1.00% | ~1 |
 | Survival Hero | 1.00% | ~1 |
 | The 5th Element | 1.00% | ~1 |
-| The Curse Is Real | 1.00% | ~1 |
 | This Mansion Is Clean | 1.00% | ~1 |
 | Trapped | 1.00% | ~1 |
-| What A Mansion | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 77 (Ranked 259)  
 Completed: 1 (1.30%) (Ranked 76)  
