@@ -10,10 +10,10 @@
 | 8 | [Island Cities](games/i/island_cities.md) | 19.18% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 13 | [Smelter](games/s/smelter.md) | 9.68% |
-| 14 | [Remains](games/r/remains.md) | 9.09% |
+| 10 | [Remains](games/r/remains.md) | 13.64% |
+| 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
+| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
+| 14 | [Smelter](games/s/smelter.md) | 9.68% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
@@ -58,7 +58,7 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.22% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.21% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
@@ -76,10 +76,10 @@
 | 74 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 75 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.31% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
-| 77 | [Them and Us](games/t/them_and_us.md) | 1.28% |
 | 77 | [Trifox](games/t/trifox.md) | 1.28% |
-| 79 | [Chorus](games/c/chorus.md) | 1.27% |
-| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
+| 78 | [Chorus](games/c/chorus.md) | 1.27% |
+| 78 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
+| 78 | [Them and Us](games/t/them_and_us.md) | 1.27% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |

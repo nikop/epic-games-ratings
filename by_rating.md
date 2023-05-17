@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 492 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 492 |
-| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,448 | 115 |
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,451 | 115 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 3,050 | 87 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 485 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 492 |
@@ -93,7 +93,7 @@
 | 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 492 |
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 531 | 179 |
 | 90 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 720 | 153 |
-| 90 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,013 | 135 |
+| 90 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,014 | 135 |
 | 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,841 | 55 |
 | 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 207 |
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 307 |
@@ -408,7 +408,7 @@
 | 398 | [RiME](games/r/rime.md) | 4.59 | 0 | 492 |
 | 398 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 355 |
 | 398 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 492 |
-| 398 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,180 | 85 |
+| 398 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,182 | 85 |
 | 398 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 445 |
 | 398 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 155 |
 | 398 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 321 | 218 |
