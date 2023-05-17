@@ -20,9 +20,9 @@
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
 | 22 | [Scorn](games/s/scorn.md) | 7.04% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.89% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.87% |
 | 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -31,12 +31,12 @@
 | 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 31 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
-| 32 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
 | 32 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
+| 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.00% |
 | 34 | [Doodle God](games/d/doodle_god.md) | 3.94% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 36 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 3.85% |
+| 37 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 3.70% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.52% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.42% |

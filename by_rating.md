@@ -129,7 +129,7 @@
 | 115 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 325 | 215 |
 | 128 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 466 |
 | 128 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,918 | 61 |
-| 128 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,186 | 84 |
+| 128 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,187 | 84 |
 | 128 | [Diabotical](games/d/diabotical.md) | 4.75 | 267 | 235 |
 | 128 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 41 | 409 |
 | 128 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 424 | 192 |
@@ -152,7 +152,7 @@
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 492 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 492 |
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 755 | 148 |
-| 140 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 587 | 168 |
+| 140 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 588 | 168 |
 | 154 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.73 | 62 | 375 |
 | 154 | [Haven](games/h/haven.md) | 4.73 | 0 | 492 |
 | 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 288 |

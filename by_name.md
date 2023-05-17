@@ -510,7 +510,7 @@
 | [Dark Light](games/d/dark_light.md) | 4.33 | 736 | 0 | 492 |
 | [Dark Matter](games/d/dark_matter.md) | - | - | 0 | - |
 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 257 | 6,764 | 47 |
-| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 128 | 3,186 | 84 |
+| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 128 | 3,187 | 84 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 530 | 38 | 414 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 354 | 375 | 205 |
 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 530 | 88 | 337 |
@@ -1216,8 +1216,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 727 | 0 | 492 |
 | [Little Inferno](games/l/little_inferno.md) | 4.62 | 339 | 0 | 492 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1814,8 +1814,8 @@
 | [shapez](games/s/shapez.md) | 4.70 | 190 | 156 | 282 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 641 | 264 | 237 |
@@ -2398,7 +2398,7 @@
 | [UltraGoodness](games/u/ultragoodness.md) | - | - | 0 | - |
 | [UltraGoodness 2](games/u/ultragoodness_2.md) | - | - | 0 | - |
 | [Unbound: Worlds Apart](games/u/unbound__worlds_apart.md) | - | - | 0 | - |
-| [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 140 | 587 | 168 |
+| [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 140 | 588 | 168 |
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | - | - | - | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
 | [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |

@@ -83,7 +83,7 @@
 | 81 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 235 |
 | 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,281 | 4.46 | 591 |
 | 83 | [Paladins](games/p/paladins.md) | 3,227 | 4.35 | 715 |
-| 84 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,186 | 4.75 | 128 |
+| 84 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,187 | 4.75 | 128 |
 | 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,180 | 4.59 | 398 |
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,070 | 4.57 | 432 |
 | 87 | [Hades](games/h/hades.md) | 3,050 | 4.92 | 3 |
@@ -167,7 +167,7 @@
 | 165 | [Dark Deity](games/d/dark_deity.md) | 606 | 4.16 | 836 |
 | 166 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 600 | 4.59 | 398 |
 | 167 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 597 | 4.74 | 140 |
-| 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 587 | 4.74 | 140 |
+| 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 588 | 4.74 | 140 |
 | 169 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 584 | 4.62 | 339 |
 | 170 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 565 | 4.61 | 354 |
 | 171 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 558 | 4.67 | 257 |
