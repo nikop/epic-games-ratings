@@ -46,7 +46,7 @@ Number of Ratings: 46  (23.09.2022)
 | Skinmaker | 1.00% | ~5 |
 | Zygote | 1.00% | ~1 |
 | Generous | 1.00% | ~5 |
-| Instruments | 0.70% | ~4 |
+| Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 543 (Ranked 189)  

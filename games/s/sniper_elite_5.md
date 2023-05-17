@@ -5,7 +5,7 @@ Rating: 4.40 (Ranked 668)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 36.00% | ~260 |
+| Meeting Resistance | 37.00% | ~268 |
 | Confirming Suspicions | 32.00% | ~231 |
 | The Kraken Wakes | 30.00% | ~217 |
 | It's Starting to Crack | 28.00% | ~202 |
@@ -17,7 +17,7 @@ Rating: 4.40 (Ranked 668)
 | Sharpshooter | 21.00% | ~152 |
 | Target America | 21.00% | ~152 |
 | As Quiet as a Mouse | 20.00% | ~145 |
-| The Kraken Sleeps | 19.00% | ~137 |
+| The Kraken Sleeps | 20.00% | ~145 |
 | Liberté | 17.00% | ~123 |
 | Explosive Efficiency | 16.00% | ~116 |
 | Gunslinger | 15.00% | ~108 |
@@ -63,9 +63,9 @@ Rating: 4.40 (Ranked 668)
 | Führerious Repetition | 1.00% | ~7 |
 | Alpha | 1.00% | ~7 |
 | Das Familienjuwel | 0.80% | ~5 |
+| Master of Secondaries | 0.70% | ~5 |
 | Up close and personal | 0.70% | ~5 |
 | Can't Outrun A Bullet | 0.70% | ~5 |
-| Master of Secondaries | 0.60% | ~4 |
 | Master of Rifles | 0.60% | ~4 |
 | Master of Pistols | 0.40% | ~3 |
 | Master-at-arms | 0.40% | ~3 |

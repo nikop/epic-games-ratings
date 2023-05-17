@@ -4065,9 +4065,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50040,
+  "EOS_Progressed": 50042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6450,6 +6450,11 @@
       "Time": "2023-05-17T00:05:17.548912+00:00",
       "NumProgressed": 50040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T02:07:42.7709536+00:00",
+      "NumProgressed": 50042,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6693,7 +6698,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17514
+      "UsersEstimate": 17515
     },
     {
       "ID": "Lawmaker",
@@ -6701,7 +6706,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10508
+      "UsersEstimate": 10509
     },
     {
       "ID": "Long live the Empire",
@@ -6717,7 +6722,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "Minor Clan",
@@ -6813,7 +6818,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8006
+      "UsersEstimate": 8007
     },
     {
       "ID": "This Is Our Land",
@@ -6868,15 +6873,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50040,
+      "Progressed": 50042,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-16T20:59:52.1957286+00:00",
-  "LastChanged_Achievements": "2023-05-17T00:05:17.5489116+00:00",
+  "LastChanged_Achievements": "2023-05-17T02:07:42.7709532+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-16T23:59:18.3625129+00:00",
-  "LastUpdate_Achievements": "2023-05-17T00:05:17.5489663+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:01:24.7798978+00:00",
+  "LastUpdate_Achievements": "2023-05-17T02:07:42.7710129+00:00"
 }

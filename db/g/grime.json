@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -323,9 +323,9 @@
       "ID": "ACQUIRE_ALLWEAPONS",
       "SetID": "ccc0dlh",
       "Name": "Instruments",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -641,8 +641,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
-  "LastChanged_Achievements": "2023-05-17T00:05:19.1019729+00:00",
+  "LastChanged_Achievements": "2023-05-17T02:07:44.2166291+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:20.874021+00:00",
-  "LastUpdate_Ratings": "2023-05-16T23:59:57.1235676+00:00",
-  "LastUpdate_Achievements": "2023-05-17T00:05:19.102006+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:02:05.3159579+00:00",
+  "LastUpdate_Achievements": "2023-05-17T02:07:44.2166629+00:00"
 }

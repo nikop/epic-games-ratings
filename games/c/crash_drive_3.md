@@ -19,23 +19,23 @@
 | Bag of Tricks | 26.00% | ~79 |
 | I see the light! | 26.00% | ~79 |
 | You're it | 26.00% | ~79 |
-| First Come, First Serve | 25.00% | ~76 |
 | To and Fro | 25.00% | ~76 |
-| Disoriented | 25.00% | ~76 |
-| Take that Frosty! | 25.00% | ~76 |
-| Beach Party! | 25.00% | ~76 |
 | In the Bag! | 25.00% | ~76 |
-| Anger Issues | 24.00% | ~72 |
-| Goodbye cruel world | 24.00% | ~72 |
-| Car-Tapult | 23.00% | ~69 |
-| Your Highness | 23.00% | ~69 |
-| Event Amateur | 22.00% | ~66 |
-| Feeling Dizzy? | 21.00% | ~63 |
-| Drift King! | 20.00% | ~60 |
-| Feeling Hot Hot Hot! | 20.00% | ~60 |
-| Ferry Good! | 20.00% | ~60 |
-| Assert Dominance | 19.00% | ~57 |
-| Speed of light | 19.00% | ~57 |
+| First Come, First Serve | 24.00% | ~73 |
+| Disoriented | 24.00% | ~73 |
+| Take that Frosty! | 24.00% | ~73 |
+| Goodbye cruel world | 24.00% | ~73 |
+| Beach Party! | 24.00% | ~73 |
+| Car-Tapult | 23.00% | ~70 |
+| Anger Issues | 23.00% | ~70 |
+| Your Highness | 23.00% | ~70 |
+| Event Amateur | 22.00% | ~67 |
+| Feeling Dizzy? | 21.00% | ~64 |
+| Feeling Hot Hot Hot! | 20.00% | ~61 |
+| Drift King! | 19.00% | ~58 |
+| Ferry Good! | 19.00% | ~58 |
+| Speed of light | 19.00% | ~58 |
+| Assert Dominance | 18.00% | ~55 |
 | Out of this League | 16.00% | ~48 |
 | Special Forces | 15.00% | ~45 |
 | Toot Toot! | 14.00% | ~42 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302 (Ranked 208)  
+Progressed: 303 (Ranked 208)  
 Completed: 2 (0.66%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 2 (0.66%) (Ranked 100)
 | 2023-05-06 | 300 | 2 |
 | 2023-05-07 | 301 | 2 |
 | 2023-05-14 | 302 | 2 |
+| 2023-05-17 | 303 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

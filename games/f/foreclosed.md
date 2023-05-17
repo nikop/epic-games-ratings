@@ -10,19 +10,19 @@
 | A.I. Training | 54.00% | ~41 |
 | Sniper | 41.00% | ~31 |
 | The Red Herring | 37.00% | ~28 |
-| Telekinesis | 30.00% | ~23 |
-| Sapper | 24.00% | ~18 |
-| Tough Decision | 22.00% | ~17 |
-| Veteran Sniper | 20.00% | ~15 |
+| Telekinesis | 32.00% | ~24 |
+| Sapper | 25.00% | ~19 |
+| Tough Decision | 24.00% | ~18 |
+| Veteran Sniper | 21.00% | ~16 |
+| Mind Over Matter | 21.00% | ~16 |
 | The Neuro-connector | 20.00% | ~15 |
-| Mind Over Matter | 20.00% | ~15 |
-| Flatline | 18.00% | ~14 |
+| Flatline | 20.00% | ~15 |
 | Full and Final Settlement | 17.00% | ~13 |
 | Unstoppable | 17.00% | ~13 |
 | One Click Away | 17.00% | ~13 |
 | Cyborg | 13.00% | ~10 |
+| Brain-hacker | 9.00% | ~7 |
 | Lifter | 8.00% | ~6 |
-| Brain-hacker | 8.00% | ~6 |
 | Gravity Bender | 8.00% | ~6 |
 | Hunter | 4.00% | ~3 |
 | Zero Gravity | 4.00% | ~3 |

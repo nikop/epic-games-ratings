@@ -8,6 +8,8 @@ Rating: 4.18 (Ranked 825)
 | Instigator | 0.30% | ~1 |
 | Big Game Hunter | 0.30% | ~1 |
 | Bear Trap | 0.30% | ~1 |
+| Parole Denied | 0.20% | ~1 |
+| The Commonality | 0.20% | ~25 |
 | Hoard Mode | 0.20% | ~1 |
 | Big Spender | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
@@ -22,14 +24,12 @@ Rating: 4.18 (Ranked 825)
 | The Protocol is About Life | 0.10% | ~13 |
 | Recidivist | 0.10% | ~0 |
 | Lifer | 0.10% | ~0 |
-| Parole Denied | 0.10% | ~0 |
 | Get a Grip | 0.10% | ~13 |
 | In Striking Distance | 0.10% | ~13 |
 | Two Heads Are Better Than One | 0.10% | ~13 |
 | Chew 'Em Up | 0.10% | ~13 |
 | Terminated | 0.10% | ~13 |
 | Workplace Hazard | 0.10% | ~13 |
-| The Commonality | 0.10% | ~13 |
 | Float Like A Butterfly | 0.10% | ~13 |
 | Reforged | 0.10% | ~13 |
 | Paper Jams | 0.10% | ~13 |

@@ -20,9 +20,9 @@
 | Armor Collector | 13.00% | ~8 |
 | Corwid Hill | 11.00% | ~7 |
 | Dreamwalker | 10.00% | ~6 |
+| Your Training Is Complete | 6.00% | ~4 |
 | Red in Tooth and Claw | 6.00% | ~4 |
 | Total Eclipse | 6.00% | ~4 |
-| Your Training Is Complete | 5.00% | ~3 |
 | Broken Reflection | 3.00% | ~2 |
 | Vivid Dreams | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

@@ -840,9 +840,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -896,9 +896,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 25
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1079,8 +1079,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-17T00:04:49.1957894+00:00",
+  "LastChanged_Achievements": "2023-05-17T02:07:14.5990545+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-16T23:57:40.3167371+00:00",
-  "LastUpdate_Achievements": "2023-05-17T00:04:49.1958215+00:00"
+  "LastUpdate_Ratings": "2023-05-17T01:59:45.6823469+00:00",
+  "LastUpdate_Achievements": "2023-05-17T02:07:14.5990883+00:00"
 }

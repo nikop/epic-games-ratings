@@ -24,7 +24,7 @@ Rating: 4.74 (Ranked 140)
 | Dying Sun | 32.00% | ~3,289 |
 | Improved crossbow | 26.00% | ~2,672 |
 | King Hugo | 24.00% | ~2,466 |
-| Mercy | 23.00% | ~2,364 |
+| Mercy | 24.00% | ~2,466 |
 | Perfect shot | 22.00% | ~2,261 |
 | Effective instruments | 21.00% | ~2,158 |
 | Perfect throw | 21.00% | ~2,158 |

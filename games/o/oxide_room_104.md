@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brute force | 100.00% | ~14 |
-| What's going on here? | 71.00% | ~10 |
+| What's going on here? | 79.00% | ~11 |
 | Soundtrack | 57.00% | ~8 |
-| Nimble fingers | 50.00% | ~7 |
-| Room 104 | 50.00% | ~7 |
-| Face to face | 50.00% | ~7 |
-| First aid | 43.00% | ~6 |
-| Let's play a game… | 43.00% | ~6 |
-| Now or never | 43.00% | ~6 |
+| Nimble fingers | 57.00% | ~8 |
+| Room 104 | 57.00% | ~8 |
+| Face to face | 57.00% | ~8 |
+| First aid | 50.00% | ~7 |
+| Let's play a game… | 50.00% | ~7 |
+| Now or never | 50.00% | ~7 |
 | Antidote | 36.00% | ~5 |
 | On the right path | 21.00% | ~3 |
 | I'm close now | 21.00% | ~3 |

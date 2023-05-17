@@ -27,11 +27,11 @@ Rating: 4.55 (Ranked 465)
 | 1+1>2 | 8.00% | ~48 |
 | This can't be right… | 8.00% | ~48 |
 | Welcome home, 06 | 8.00% | ~48 |
+| I'm walking here! | 7.00% | ~42 |
 | So Fresh and So clean clean | 7.00% | ~42 |
 | Supreme Bartender Ann | 7.00% | ~42 |
 | Clarity of Mind | 6.00% | ~36 |
 | I feel secure, contained & protected | 6.00% | ~36 |
-| I'm walking here! | 6.00% | ~36 |
 | Science, it works! | 6.00% | ~36 |
 | The Traveler | 6.00% | ~36 |
 | Woman on a (side) mission | 4.00% | ~24 |

@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7642,
+  "EOS_Progressed": 7643,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1494,6 +1494,11 @@
       "Time": "2023-05-16T20:05:16.0335091+00:00",
       "NumProgressed": 7642,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-17T02:07:44.1312329+00:00",
+      "NumProgressed": 7643,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1529,7 +1534,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH05",
@@ -1561,7 +1566,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3668
+      "UsersEstimate": 3669
     },
     {
       "ID": "ACH09",
@@ -1673,7 +1678,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACH23",
@@ -1784,7 +1789,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7642,
+      "Progressed": 7643,
       "Completed": 16
     }
   ],
@@ -1792,8 +1797,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-17T00:05:18.9920564+00:00",
+  "LastChanged_Achievements": "2023-05-17T02:07:44.1312326+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-16T23:59:46.8295475+00:00",
-  "LastUpdate_Achievements": "2023-05-17T00:05:18.9920884+00:00"
+  "LastUpdate_Ratings": "2023-05-17T02:01:52.3290245+00:00",
+  "LastUpdate_Achievements": "2023-05-17T02:07:44.1312655+00:00"
 }

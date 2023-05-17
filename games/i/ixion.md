@@ -25,12 +25,12 @@ Rating: 4.55 (Ranked 465)
 | Convenient Transport | 0.70% | ~13 |
 | Access Granted | 0.60% | ~11 |
 | Necessary Enhancement | 0.60% | ~11 |
+| Please Make it Stop! | 0.60% | ~11 |
 | Sightseeing | 0.50% | ~10 |
 | BRAWL! | 0.50% | ~10 |
-| Please Make it Stop! | 0.50% | ~10 |
+| Man's Best Friend | 0.40% | ~8 |
 | All in Good Health | 0.40% | ~8 |
 | From the Past | 0.40% | ~8 |
-| Man's Best Friend | 0.30% | ~6 |
 | What They Hide From Us | 0.30% | ~6 |
 | ...  in a finite world | 0.30% | ~6 |
 | In Dolos We Trust | 0.30% | ~6 |

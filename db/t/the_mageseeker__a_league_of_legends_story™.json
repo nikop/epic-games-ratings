@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 2009,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1780,9 +1780,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 462
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -1805,8 +1805,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-16T18:57:22.0901562+00:00",
-  "LastChanged_Achievements": "2023-05-17T00:04:51.7977614+00:00",
+  "LastChanged_Achievements": "2023-05-17T02:07:17.2623443+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-16T23:57:29.4753088+00:00",
-  "LastUpdate_Achievements": "2023-05-17T00:04:51.7978141+00:00"
+  "LastUpdate_Ratings": "2023-05-17T01:59:34.9959396+00:00",
+  "LastUpdate_Achievements": "2023-05-17T02:07:17.2623969+00:00"
 }
