@@ -18,7 +18,7 @@
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.91% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
 | 22 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -33,10 +33,10 @@
 | 31 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
 | 32 | [Out of Bounds](games/o/out_of_bounds.md) | 4.17% |
 | 32 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
-| 34 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 4.00% |
-| 35 | [Doodle God](games/d/doodle_god.md) | 3.94% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
-| 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 34 | [Doodle God](games/d/doodle_god.md) | 3.94% |
+| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 36 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 3.85% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.57% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.52% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.43% |
@@ -45,8 +45,8 @@
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 45 | [Lamentum](games/l/lamentum.md) | 2.99% |
-| 46 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 47 | [ZZT!](games/z/zzt!.md) | 2.93% |
+| 46 | [ZZT!](games/z/zzt!.md) | 2.97% |
+| 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.90% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
@@ -84,8 +84,8 @@
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.04% |
+| 85 | [Dungeons 3](games/d/dungeons_3.md) | 0.93% |
 | 85 | [Sable](games/s/sable.md) | 0.93% |
-| 86 | [Dungeons 3](games/d/dungeons_3.md) | 0.92% |
 | 87 | [Hades](games/h/hades.md) | 0.90% |
 | 88 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 89 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
