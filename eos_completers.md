@@ -13,26 +13,26 @@
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 13 | [Smelter](games/s/smelter.md) | 9.68% |
-| 14 | [Remains](games/r/remains.md) | 9.52% |
+| 14 | [Remains](games/r/remains.md) | 9.09% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
-| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
-| 22 | [Scorn](games/s/scorn.md) | 7.04% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.87% |
-| 24 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
-| 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
-| 27 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
-| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
-| 30 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 31 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
-| 32 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
-| 33 | [Out of Bounds](games/o/out_of_bounds.md) | 4.00% |
+| 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
+| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
+| 23 | [Scorn](games/s/scorn.md) | 7.04% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.86% |
+| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
+| 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
+| 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
+| 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.13% |
+| 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
+| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.52% |
+| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.17% |
 | 34 | [Doodle God](games/d/doodle_god.md) | 3.94% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
