@@ -5,6 +5,7 @@
 | [Old World](../games/o/old_world.md) | 285 | 2,940 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 493 | 2,465 |
+| [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
@@ -20,6 +21,7 @@
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
+| [Saints Row](../games/s/saints_row.md) | 53 | 1,075 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
@@ -302,7 +304,6 @@
 | [Runbow](../games/r/runbow.md) | 46 | 1,000 |
 | [Sable](../games/s/sable.md) | 56 | 1,000 |
 | [Saint Kotar](../games/s/saint_kotar.md) | 45 | 1,000 |
-| [Saints Row](../games/s/saints_row.md) | 50 | 1,000 |
 | [Saints Row IV Re-Elected](../games/s/saints_row_iv_re-elected.md) | 72 | 1,000 |
 | [Salt and Sacrifice](../games/s/salt_and_sacrifice.md) | 53 | 1,000 |
 | [Salt and Sanctuary](../games/s/salt_and_sanctuary.md) | 37 | 1,000 |

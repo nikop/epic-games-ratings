@@ -21,11 +21,11 @@
 | [Old World](../games/o/old_world.md) | 285 | 2,940 | 2 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 | 2 |
-| [Saints Row](../games/s/saints_row.md) | 50 | 1,000 | 2 |
+| [Saints Row](../games/s/saints_row.md) | 53 | 1,075 | 2 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 | 2 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 44 | 1,000 | 2 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 | 2 |
-| [Sniper Elite 5](../games/s/sniper_elite_5.md) | 0 | 0 | 2 |
+| [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 | 2 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 | 2 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 | 2 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 11 | 1,000 | 2 |
