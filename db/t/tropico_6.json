@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,7 +852,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2868,
+  "EOS_Progressed": 2869,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -2172,6 +2172,11 @@
       "Time": "2023-05-17T12:05:46.4510462+00:00",
       "NumProgressed": 2868,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T16:06:33.802177+00:00",
+      "NumProgressed": 2869,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2207,7 +2212,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -2343,7 +2348,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2487,7 +2492,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -2502,15 +2507,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2868,
+      "Progressed": 2869,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-17T15:07:17.2774324+00:00",
+  "LastChanged_Achievements": "2023-05-17T16:06:33.802176+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-17T15:01:33.9755998+00:00",
-  "LastUpdate_Achievements": "2023-05-17T15:07:17.2774625+00:00"
+  "LastUpdate_Ratings": "2023-05-17T16:00:39.6461953+00:00",
+  "LastUpdate_Achievements": "2023-05-17T16:06:33.8022145+00:00"
 }

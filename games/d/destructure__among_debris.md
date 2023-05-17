@@ -13,8 +13,8 @@
 | Ball Galore | 7.00% | ~5 |
 | Master Destructor | 7.00% | ~5 |
 | Avaricerite | 6.00% | ~4 |
+| Easy Victory | 6.00% | ~4 |
 | Back From The Dead | 4.00% | ~3 |
-| Easy Victory | 4.00% | ~3 |
 | Ball Protector | 3.00% | ~2 |
 | Legendary Destructor | 3.00% | ~2 |
 | Monster of Fashion | 3.00% | ~2 |

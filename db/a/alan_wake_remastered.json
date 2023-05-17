@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46200,
+  "EOS_Progressed": 46204,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1706,6 +1706,11 @@
       "Time": "2023-05-17T09:06:13.5205823+00:00",
       "NumProgressed": 46200,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-17T16:06:03.653132+00:00",
+      "NumProgressed": 46204,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1717,7 +1722,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9240
+      "UsersEstimate": 9241
     },
     {
       "ID": "02",
@@ -1725,7 +1730,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "03",
@@ -1733,7 +1738,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "04",
@@ -1965,7 +1970,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6930
+      "UsersEstimate": 6931
     },
     {
       "ID": "33",
@@ -1989,7 +1994,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7392
+      "UsersEstimate": 7393
     },
     {
       "ID": "36",
@@ -2117,7 +2122,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "52",
@@ -2181,7 +2186,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "60",
@@ -2252,21 +2257,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46200,
+      "Progressed": 46204,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9668,
+      "Progressed": 9672,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-17T15:06:32.3440664+00:00",
+  "LastChanged_Achievements": "2023-05-17T16:06:03.6531313+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-17T14:57:59.4373448+00:00",
-  "LastUpdate_Achievements": "2023-05-17T15:06:32.3441209+00:00"
+  "LastUpdate_Ratings": "2023-05-17T15:57:28.7778154+00:00",
+  "LastUpdate_Achievements": "2023-05-17T16:06:03.653204+00:00"
 }

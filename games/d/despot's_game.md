@@ -38,7 +38,7 @@ Rating: 4.50 (Ranked 530)
 | Zombie Lover | 3.00% | ~11 |
 | Full House | 1.00% | ~4 |
 | Munchkin | 1.00% | ~4 |
-| Vet | 0.60% | ~2 |
+| Vet | 0.80% | ~3 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 355 (Ranked 200)  

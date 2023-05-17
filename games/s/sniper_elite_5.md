@@ -6,7 +6,7 @@ Rating: 4.40 (Ranked 669)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sink or Swim | 0.30% | ~2 |
-| Change the Channel | 0.10% | ~1 |
+| Precision Is Key | 0.10% | ~1 |
 | Climbing the Ladder | 0.00% | ~0 |
 | Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
@@ -27,7 +27,6 @@ Rating: 4.40 (Ranked 669)
 | Sharpshooter | 0.00% | ~0 |
 | The Long Game | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
-| Precision Is Key | 0.00% | ~0 |
 | Confirming Suspicions | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Rigged to Blow | 0.00% | ~0 |
@@ -49,6 +48,7 @@ Rating: 4.40 (Ranked 669)
 | It's Starting to Crack | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Locomotion Commotion | 0.00% | ~0 |
+| Change the Channel | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Don't hold your breath | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 669)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 176)  
+Progressed: 726 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-14 | 717 | 2 |
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
-| 2023-05-17 | 725 | 2 |
+| 2023-05-17 | 726 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

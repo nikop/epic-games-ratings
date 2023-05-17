@@ -4,8 +4,8 @@
   "ProductSlug": "metalstorm",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:58:10.9562657+00:00",
-  "LastUpdate_Ratings": "2023-05-17T14:58:55.4040964+00:00",
-  "LastUpdate_Achievements": "2023-05-17T15:02:29.9413127+00:00"
+  "LastUpdate_Ratings": "2023-05-17T15:58:19.2360062+00:00",
+  "LastUpdate_Achievements": "2023-05-17T16:01:23.8498481+00:00"
 }

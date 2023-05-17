@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -170,7 +170,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 725,
+  "EOS_Progressed": 726,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -535,10 +535,15 @@
       "Time": "2023-05-17T10:04:54.0650555+00:00",
       "NumProgressed": 725,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-17T16:05:36.4474675+00:00",
+      "NumProgressed": 726,
+      "NumCompleted": 2
     }
   ],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
+  "TotalAchievements": 68,
+  "TotalAchievementsXP": 1550,
   "Achievements": [
     {
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
@@ -704,9 +709,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -880,9 +885,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1113,13 +1118,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 676,
+      "Progressed": 677,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 725,
+      "Progressed": 726,
       "Completed": 2
     }
   ],
@@ -1127,8 +1132,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-16T14:00:47.7127935+00:00",
-  "LastChanged_Achievements": "2023-05-17T15:06:24.081298+00:00",
+  "LastChanged_Achievements": "2023-05-17T16:05:36.4474669+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-17T15:02:05.3076924+00:00",
-  "LastUpdate_Achievements": "2023-05-17T15:06:24.0813031+00:00"
+  "LastUpdate_Ratings": "2023-05-17T16:01:03.933375+00:00",
+  "LastUpdate_Achievements": "2023-05-17T16:05:36.4475356+00:00"
 }

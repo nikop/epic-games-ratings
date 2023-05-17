@@ -11,6 +11,7 @@ Rating: 4.17 (Ranked 831)
 | The Show Mud Go On | 0.40% | ~244 |
 | Rock and a Hard Place | 0.40% | ~244 |
 | Shock Til They Drop | 0.40% | ~244 |
+| To the Victor Go the Spoils | 0.40% | ~244 |
 | Quartzer Life Crisis | 0.40% | ~244 |
 | Snow Problem | 0.40% | ~244 |
 | Cooldown | 0.40% | ~244 |
@@ -33,7 +34,6 @@ Rating: 4.17 (Ranked 831)
 | Bulldozed | 0.30% | ~183 |
 | Out of Their League | 0.30% | ~183 |
 | Drone You Out | 0.30% | ~183 |
-| To the Victor Go the Spoils | 0.30% | ~183 |
 | Knighthood | 0.30% | ~183 |
 | Dressed to Impress | 0.20% | ~122 |
 | Fusion Expert | 0.20% | ~122 |

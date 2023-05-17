@@ -203,6 +203,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.10% | ~88 |
 | Visions of Strahd | 0.10% | ~88 |
 | Seeds of Corruption | 0.10% | ~88 |
+| The Strahd Squad | 0.10% | ~54 |
 | Trollskull Manor | 0.10% | ~88 |
 | The Gargoyle's Apprentice | 0.10% | ~88 |
 | House of Darkness | 0.10% | ~88 |
@@ -490,7 +491,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| The Strahd Squad | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,769 (Ranked 59)  
+Progressed: 87,774 (Ranked 59)  
 Completed: 1,848 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 1,848 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,769 | 1,848 |
+| 2023-05-17 | 87,774 | 1,848 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,904 (Ranked 37)  

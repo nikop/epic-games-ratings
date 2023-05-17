@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 68.00% | ~54 |
-| Forced to Kill | 68.00% | ~54 |
+| Alone with Them | 69.00% | ~55 |
+| Forced to Kill | 69.00% | ~55 |
 | A Night To Remember | 28.00% | ~22 |
 | Safe...For now? | 23.00% | ~18 |
 | Open Sesame | 16.00% | ~13 |
@@ -18,14 +18,14 @@
 | This Coffin Has Your Name On It! | 9.00% | ~7 |
 | The Forgotten Tower | 6.00% | ~5 |
 | Lover of classics | 5.00% | ~4 |
+| Modern Player | 4.00% | ~3 |
 | Researcher | 4.00% | ~3 |
 | Rest In Peace | 4.00% | ~3 |
 | I Am The Gate Keeper! | 4.00% | ~3 |
 | The bus stop | 4.00% | ~3 |
 | The Curse Is Real | 4.00% | ~3 |
+| Trapped | 4.00% | ~3 |
 | What A Mansion | 4.00% | ~3 |
-| Modern Player | 3.00% | ~2 |
-| Trapped | 3.00% | ~2 |
 | Armed To The Teeth | 1.00% | ~1 |
 | Back In Time | 1.00% | ~1 |
 | Before The Eclipse | 1.00% | ~1 |

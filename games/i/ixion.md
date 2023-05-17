@@ -5,9 +5,9 @@ Rating: 4.55 (Ranked 465)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Wakey Wakey | 3.00% | ~57 |
 | Without Breaking Some Eggs... | 2.00% | ~38 |
 | Infinite Growth... | 2.00% | ~38 |
-| Wakey Wakey | 2.00% | ~38 |
 | Sputnik 2049 | 2.00% | ~38 |
 | Guy de Borderlands | 1.00% | ~19 |
 | Space Society | 1.00% | ~19 |
