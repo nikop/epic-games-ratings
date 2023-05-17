@@ -45,7 +45,7 @@
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 45 | [Lamentum](games/l/lamentum.md) | 2.99% |
-| 46 | [ZZT!](games/z/zzt!.md) | 2.97% |
+| 46 | [ZZT!](games/z/zzt!.md) | 2.96% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
@@ -58,12 +58,12 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.42% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.21% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.20% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.81% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
-| 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
+| 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
@@ -80,7 +80,7 @@
 | 78 | [Chorus](games/c/chorus.md) | 1.27% |
 | 78 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 80 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
-| 81 | [Them and Us](games/t/them_and_us.md) | 1.20% |
+| 81 | [Them and Us](games/t/them_and_us.md) | 1.19% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.03% |
