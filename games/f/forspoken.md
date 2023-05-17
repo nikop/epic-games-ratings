@@ -27,12 +27,12 @@ Rating: 4.13 (Ranked 849)
 | From Every Angle | 2.00% | ~761 |
 | Endless Runner | 2.00% | ~761 |
 | The Hue of Blue | 1.00% | ~381 |
+| The Truth Will Out | 1.00% | ~381 |
 | Breaking Point | 1.00% | ~381 |
 | None the Wiser | 1.00% | ~381 |
 | Explorer: Pathfinder | 1.00% | ~381 |
 | Shocker | 1.00% | ~381 |
 | Pilgrimage: Novice | 1.00% | ~381 |
-| The Truth Will Out | 0.90% | ~343 |
 | Forspoken | 0.90% | ~343 |
 | Wildfire | 0.60% | ~228 |
 | Realized Potential | 0.60% | ~228 |

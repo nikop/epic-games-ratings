@@ -99,6 +99,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Avernus in a Handbasket | 0.10% | ~54 |
 | Hands Off! | 0.10% | ~54 |
 | The Dread Domain of Tovag | 0.10% | ~54 |
+| Weak Doesn't Mean Feeble | 0.10% | ~54 |
 | Frail Doesn't Mean Broken | 0.10% | ~54 |
 | The Castle of a Thousand Vecnas | 0.10% | ~54 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~54 |
@@ -169,6 +170,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.10% | ~88 |
 | Family Entanglements | 0.10% | ~88 |
 | Haunted Fortunes | 0.10% | ~88 |
+| Poor Fortune | 0.10% | ~88 |
 | Relentless Misfortune | 0.10% | ~88 |
 | The Dinner Party | 0.10% | ~88 |
 | Chatty Nobles | 0.10% | ~88 |
@@ -187,6 +189,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distribute Your Weight | 0.10% | ~88 |
 | Mongrelfolk Incursion | 0.10% | ~54 |
 | Tower on the Lake | 0.10% | ~88 |
+| Only the Strong Survive | 0.10% | ~88 |
 | Intelligence Hunt | 0.10% | ~88 |
 | Seeds of Deceit | 0.10% | ~88 |
 | Visions of Strahd | 0.10% | ~88 |
@@ -285,6 +288,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.10% | ~88 |
 | The Darkness Runs Deeper | 0.10% | ~88 |
 | Troublesome Prisoner | 0.10% | ~88 |
+| Dark Doppelgangers | 0.10% | ~88 |
 | Faerûn's Most Wanted | 0.10% | ~54 |
 | Difficult Terrain | 0.10% | ~88 |
 | Cold & Wet | 0.10% | ~88 |
@@ -315,6 +319,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Once More Into The Breach | 0.10% | ~88 |
 | Twice More Into The Breach | 0.10% | ~88 |
 | Thrice More Into The Breach | 0.10% | ~54 |
+| Nightmare Mode | 0.10% | ~54 |
 | Wyllowwood | 0.10% | ~88 |
 | Displaced Anger | 0.10% | ~88 |
 | Ettercap Swarm | 0.10% | ~54 |
@@ -336,6 +341,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dream Gauntlet | 0.10% | ~54 |
 | Zombie Dreams | 0.10% | ~54 |
 | Look Out! | 0.10% | ~54 |
+| The Path of Dreams | 0.10% | ~54 |
 | The Path of Redcaps | 0.10% | ~54 |
 | The Path of Trials | 0.10% | ~54 |
 | Bad Odds in Avernus | 0.10% | ~54 |
@@ -351,6 +357,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.10% | ~54 |
 | Show of Strength | 0.10% | ~54 |
 | Fight Dragons with Dragons | 0.10% | ~54 |
+| Questlines | 0.10% | ~54 |
 | Raggadragga's Crew | 0.10% | ~54 |
 | Just The Worst | 0.10% | ~54 |
 | Bel's Forge | 0.10% | ~54 |
@@ -403,6 +410,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fortress Assault | 0.10% | ~54 |
 | Hats off to you! | 0.10% | ~54 |
 | It's Cold Out There Every Day | 0.10% | ~54 |
+| The Bleeding Citadel | 0.10% | ~54 |
 | Don't Pick at the Scab | 0.10% | ~54 |
 | Going To Eleven | 0.10% | ~54 |
 | Idyllglen | 0.10% | ~54 |
@@ -422,6 +430,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | REALLY Frozen Vengeance | 0.10% | ~54 |
 | The Battle of High Hall Tower | 0.10% | ~54 |
 | The Stunning Tower Battle | 0.10% | ~54 |
+| Elturel's Last Stand | 0.10% | ~54 |
 | Gargauth's Betrayal | 0.10% | ~54 |
 | Lost in the Underdark | 0.10% | ~54 |
 | Demons Here, Demons There | 0.10% | ~54 |
@@ -464,36 +473,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | Uncommon Allies | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
 | A Demi-god's Defender | 0.00% | ~0 |
-| Weak Doesn't Mean Feeble | 0.00% | ~0 |
 | Struggling Toward Omu | 0.00% | ~0 |
 | Between a Brigganock and a Hard Place | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Fall From Grace | 0.00% | ~0 |
-| Poor Fortune | 0.00% | ~0 |
-| Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
 | Seeds of Corruption | 0.00% | ~0 |
 | The Strahd Squad | 0.00% | ~0 |
 | Slow and Steady | 0.00% | ~0 |
-| Dark Doppelgangers | 0.00% | ~0 |
 | On The Job Learning | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
-| Nightmare Mode | 0.00% | ~0 |
-| The Path of Dreams | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Madcap Adventures Redux | 0.00% | ~0 |
-| Questlines | 0.00% | ~0 |
 | The Taunting Lord | 0.00% | ~0 |
 | Wrecked Flying Fortress | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
-| The Bleeding Citadel | 0.00% | ~0 |
 | The Madness of Yeenoghu | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Elturel's Last Stand | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |

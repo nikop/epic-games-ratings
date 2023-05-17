@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,437 |
-| That's a Grand Army | 8.00% | ~3,055 |
-| That is mine! | 8.00% | ~3,055 |
-| Victorious! | 8.00% | ~3,055 |
-| Brothers in Arms | 6.00% | ~2,291 |
-| That's a Grand Navy | 6.00% | ~2,291 |
-| Seriously?! | 6.00% | ~2,291 |
-| For the Glory | 5.00% | ~1,910 |
+| Until death do us apart | 9.00% | ~3,439 |
+| That's a Grand Army | 8.00% | ~3,057 |
+| That is mine! | 8.00% | ~3,057 |
+| Victorious! | 8.00% | ~3,057 |
+| Brothers in Arms | 6.00% | ~2,293 |
+| That's a Grand Navy | 6.00% | ~2,293 |
+| Seriously?! | 6.00% | ~2,293 |
+| For the Glory | 5.00% | ~1,911 |
 | Cold War | 4.00% | ~1,528 |
 | True Catholic | 4.00% | ~1,528 |
 | Defender of the Faith | 3.00% | ~1,146 |
@@ -37,9 +37,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~382 |
 | A Golden Empire | 1.00% | ~382 |
 | My armies are invincible! | 1.00% | ~382 |
+| The Five Colonies | 0.90% | ~344 |
 | Isn't this the way to India? | 0.80% | ~306 |
 | Market Control | 0.80% | ~306 |
-| The Five Colonies | 0.80% | ~306 |
 | Down Under | 0.70% | ~267 |
 | The Emperors new clothes | 0.70% | ~267 |
 | This navy can take it all | 0.70% | ~267 |
@@ -139,6 +139,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Emperor of Hindustan | 0.10% | ~38 |
 | Empire of Mann | 0.10% | ~38 |
 | Even Better than Piet Heyn | 0.10% | ~38 |
+| Everything's Coming Up Mulhouse | 0.10% | ~38 |
 | Fanatic Collectivist | 0.10% | ~38 |
 | The First Toungoo Empire | 0.10% | ~38 |
 | For Odin! | 0.10% | ~38 |
@@ -306,7 +307,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Disciples of Enlightenment | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
-| Everything's Coming Up Mulhouse | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,190 (Ranked 80)  
+Progressed: 38,211 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
-| 2023-05-17 | 38,190 | 0 |
+| 2023-05-17 | 38,211 | 0 |
 ## Awards
 Max (Educational): 5,228  (Ranked 60)  
 Sum: 43,275 (Ranked 27)  

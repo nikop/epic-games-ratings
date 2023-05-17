@@ -64,7 +64,7 @@
   "Tags": [],
   "EOS_Progressed": 1050,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1774,9 +1774,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "cauldronliberator",
@@ -1806,9 +1806,9 @@
       "ID": "crystalmining",
       "SetID": "3nl4bcg",
       "Name": "Crystal Mining",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "dailyquestcompletionist",
@@ -2190,9 +2190,9 @@
       "ID": "thealchemist",
       "SetID": "3nl4bcg",
       "Name": "The Alchemist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "theexpeditioner",
@@ -2335,8 +2335,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-17T10:05:04.8486315+00:00",
+  "LastChanged_Achievements": "2023-05-17T11:05:24.7445709+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-17T09:57:43.5354753+00:00",
-  "LastUpdate_Achievements": "2023-05-17T10:05:04.8487128+00:00"
+  "LastUpdate_Ratings": "2023-05-17T10:57:44.4766437+00:00",
+  "LastUpdate_Achievements": "2023-05-17T11:05:24.7446604+00:00"
 }

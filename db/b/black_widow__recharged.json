@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14193,
+  "EOS_Progressed": 14194,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2130,6 +2130,11 @@
       "Time": "2023-05-17T10:05:21.7138115+00:00",
       "NumProgressed": 14193,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-17T11:05:42.1543494+00:00",
+      "NumProgressed": 14194,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 14,
@@ -2141,7 +2146,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11212
+      "UsersEstimate": 11213
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -2197,7 +2202,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7522
+      "UsersEstimate": 7523
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -2252,15 +2257,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14193,
+      "Progressed": 14194,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-17T10:05:21.7138105+00:00",
+  "LastChanged_Achievements": "2023-05-17T11:05:42.1543485+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:18.4923075+00:00",
-  "LastUpdate_Ratings": "2023-05-17T09:59:55.4330074+00:00",
-  "LastUpdate_Achievements": "2023-05-17T10:05:21.7138376+00:00"
+  "LastUpdate_Ratings": "2023-05-17T11:00:10.1714625+00:00",
+  "LastUpdate_Achievements": "2023-05-17T11:05:42.1543723+00:00"
 }

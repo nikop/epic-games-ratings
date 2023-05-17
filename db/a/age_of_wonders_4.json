@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2620,
+  "EOS_Progressed": 2621,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1333,
+  "EOS_NewPlayers": 1308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2023-05-17T10:02:04.401469+00:00",
       "NumProgressed": 2620,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T11:02:11.7746669+00:00",
+      "NumProgressed": 2621,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1020,7 +1025,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "10",
@@ -1060,7 +1065,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "15",
@@ -1084,7 +1089,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "18",
@@ -1132,7 +1137,7 @@
       "Name": "Realm Estate",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "23",
@@ -1148,7 +1153,7 @@
       "Name": "Secret Technique",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "25",
@@ -1156,7 +1161,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "26",
@@ -1180,7 +1185,7 @@
       "Name": "From Friends to Family",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "29",
@@ -1204,7 +1209,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "31",
@@ -1212,7 +1217,7 @@
       "Name": "Magical Synergy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "32",
@@ -1228,7 +1233,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "34",
@@ -1371,13 +1376,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 2620,
-      "Completed": 2620
+      "Progressed": 2621,
+      "Completed": 2621
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 2620,
+      "Progressed": 2621,
       "Completed": 0
     }
   ],
@@ -1385,8 +1390,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-15T19:58:41.4280533+00:00",
-  "LastChanged_Achievements": "2023-05-17T10:02:04.4014684+00:00",
+  "LastChanged_Achievements": "2023-05-17T11:02:11.7746663+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:18.5454373+00:00",
-  "LastUpdate_Ratings": "2023-05-17T09:58:57.2862239+00:00",
-  "LastUpdate_Achievements": "2023-05-17T10:02:04.401506+00:00"
+  "LastUpdate_Ratings": "2023-05-17T10:59:06.1399791+00:00",
+  "LastUpdate_Achievements": "2023-05-17T11:02:11.7747087+00:00"
 }

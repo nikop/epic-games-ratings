@@ -15,6 +15,7 @@ Rating: 4.77 (Ranked 103)
 | A Sallow Grave | 5.00% | ~13,372 |
 | Challenge Accepted | 5.00% | ~13,372 |
 | Loom for Improvement | 5.00% | ~13,372 |
+| First Class Student | 5.00% | ~13,372 |
 | Troll with the Punches | 5.00% | ~13,372 |
 | That's a Keeper | 5.00% | ~13,372 |
 | Rising From the Ashes | 5.00% | ~13,372 |
@@ -25,7 +26,6 @@ Rating: 4.77 (Ranked 103)
 | A Talent for Spending | 4.00% | ~10,697 |
 | Followed the Butterflies | 4.00% | ~10,697 |
 | The Spell Master | 4.00% | ~10,697 |
-| First Class Student | 4.00% | ~10,697 |
 | The Seeker of Knowledge | 3.00% | ~8,023 |
 | The Root of the Problem | 3.00% | ~8,023 |
 | Third Time's a Charm | 3.00% | ~8,023 |

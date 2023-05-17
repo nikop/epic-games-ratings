@@ -5,12 +5,12 @@ Rating: 4.85 (Ranked 38)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~197,563 |
-| Private Club | 74.00% | ~160,655 |
-| Rogue Guild | 66.00% | ~143,287 |
-| I Watched the Intro | 57.00% | ~123,748 |
-| Covert Consortium | 55.00% | ~119,406 |
-| Goat Queen | 53.00% | ~115,064 |
+| Forgotten Sorority | 91.00% | ~197,564 |
+| Private Club | 74.00% | ~160,656 |
+| Rogue Guild | 66.00% | ~143,288 |
+| I Watched the Intro | 57.00% | ~123,749 |
+| Covert Consortium | 55.00% | ~119,407 |
+| Goat Queen | 53.00% | ~115,065 |
 | Reach the Stratosphere | 49.00% | ~106,380 |
 | Synchronization Complete | 47.00% | ~102,038 |
 | Secret Society | 45.00% | ~97,696 |
@@ -22,8 +22,8 @@ Rating: 4.85 (Ranked 38)
 | Raider of the Lost Parking Garage | 26.00% | ~56,447 |
 | Real Buoy | 26.00% | ~56,447 |
 | Welcome to Earth | 25.00% | ~54,276 |
-| Into the Matrix | 19.00% | ~41,249 |
-| Where is It? | 17.00% | ~36,907 |
+| Into the Matrix | 19.00% | ~41,250 |
+| Where is It? | 17.00% | ~36,908 |
 | Egg Simulator | 15.00% | ~32,565 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~32,565 |
 | Black Market | 14.00% | ~30,394 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 38)
 | Move! That! Bus! | 0.60% | ~1,303 |
 | G.O.A.T | 0.30% | ~651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,102 (Ranked 46)  
+Progressed: 217,103 (Ranked 46)  
 Completed: 697 (0.32%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,22 +72,22 @@ Completed: 697 (0.32%) (Ranked 121)
 | 2023-05-14 | 216,892 | 690 |
 | 2023-05-15 | 216,984 | 693 |
 | 2023-05-16 | 217,075 | 696 |
-| 2023-05-17 | 217,102 | 697 |
+| 2023-05-17 | 217,103 | 697 |
 ## Awards
 Max (Great for Beginners): 316  (Ranked 221)  
-Sum: 2,688 (Ranked 161)  
+Sum: 2,692 (Ranked 161)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 316 |
-| This game has Diverse Characters | 300 |
+| This game has Diverse Characters | 303 |
 | This game is Highly Recommended | 284 |
 | This game has Amazing Characters | 282 |
 | This game is Relaxing | 264 |
 | This game is Extremely Fun | 262 |
 | This game has Quickly Understood Controls | 259 |
 | This game has Amazing Storytelling | 259 |
-| This game has a Silly Community | 235 |
+| This game has a Silly Community | 236 |
 | This game has Easy Combat | 227 |
 | This game is Educational | 158 |
 ## Ratings History
@@ -149,4 +149,4 @@ Diff (max vs sum): 60
 | 2023-05-14 | 4.85 | 315 | 2,683 |
 | 2023-05-15 | 4.85 | 315 | 2,685 |
 | 2023-05-16 | 4.85 | 316 | 2,687 |
-| 2023-05-17 | 4.85 | 316 | 2,688 |
+| 2023-05-17 | 4.85 | 316 | 2,692 |

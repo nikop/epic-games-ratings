@@ -2450,7 +2450,7 @@
   ],
   "EOS_Progressed": 267430,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 984,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5270,9 +5270,9 @@
       "ID": "PFA_6",
       "SetID": "1hf4dep",
       "Name": "First Class Student",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10697
+      "UsersEstimate": 13372
     },
     {
       "ID": "PFA_7",
@@ -5311,8 +5311,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-17T04:57:14.5963388+00:00",
-  "LastChanged_Achievements": "2023-05-17T10:03:11.0525813+00:00",
+  "LastChanged_Achievements": "2023-05-17T11:03:18.4717756+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-17T09:57:07.4731319+00:00",
-  "LastUpdate_Achievements": "2023-05-17T10:03:11.0526371+00:00"
+  "LastUpdate_Ratings": "2023-05-17T10:57:05.4132447+00:00",
+  "LastUpdate_Achievements": "2023-05-17T11:03:18.4718298+00:00"
 }

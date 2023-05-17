@@ -6,18 +6,18 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,999 |
-| Right Back At Ya | 37.00% | ~295,999 |
-| The Lovers | 32.00% | ~255,999 |
-| Stanislavski's Method | 27.00% | ~215,999 |
-| The Wheel of Fortune | 25.00% | ~200,000 |
-| The Hermit | 23.00% | ~184,000 |
-| Christmas Tree Attack | 22.00% | ~176,000 |
-| True Soldier | 22.00% | ~176,000 |
-| Legend of The Afterlife | 21.00% | ~168,000 |
-| The High Priestess | 20.00% | ~160,000 |
-| Life of the Road | 19.00% | ~152,000 |
-| Full Body Conversion | 17.00% | ~136,000 |
+| The Fool | 67.00% | ~536,002 |
+| Right Back At Ya | 37.00% | ~296,001 |
+| The Lovers | 32.00% | ~256,001 |
+| Stanislavski's Method | 27.00% | ~216,001 |
+| The Wheel of Fortune | 25.00% | ~200,001 |
+| The Hermit | 23.00% | ~184,001 |
+| Christmas Tree Attack | 22.00% | ~176,001 |
+| True Soldier | 22.00% | ~176,001 |
+| Legend of The Afterlife | 21.00% | ~168,001 |
+| The High Priestess | 20.00% | ~160,001 |
+| Life of the Road | 19.00% | ~152,001 |
+| Full Body Conversion | 17.00% | ~136,001 |
 | The World | 16.00% | ~128,000 |
 | Bushido and Chill | 15.00% | ~120,000 |
 | Gun Fu | 14.00% | ~112,000 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,000 |
 | Rough Landing | 0.40% | ~3,200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,998 (Ranked 11)  
+Progressed: 800,003 (Ranked 11)  
 Completed: 1,600 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,15 +78,15 @@ Completed: 1,600 (0.20%) (Ranked 139)
 | 2023-05-14 | 799,707 | 1,595 |
 | 2023-05-15 | 799,818 | 1,597 |
 | 2023-05-16 | 799,951 | 1,599 |
-| 2023-05-17 | 799,998 | 1,600 |
+| 2023-05-17 | 800,003 | 1,600 |
 ## Awards
 Max (Character Customization): 64,312  (Ranked 9)  
-Sum: 168,810 (Ranked 13)  
+Sum: 168,844 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 64,312 |
-| This game has Great Boss Battles | 41,422 |
+| This game has Great Boss Battles | 41,456 |
 | This game has Amazing Storytelling | 7,431 |
 | This game has Diverse Characters | 7,402 |
 | This game is Great for Beginners | 7,383 |
@@ -217,4 +217,4 @@ Diff (max vs sum): -4
 | 2023-05-14 | 4.62 | - | 64,220 | 168,387 |
 | 2023-05-15 | 4.62 | - | 64,276 | 168,608 |
 | 2023-05-16 | 4.62 | - | 64,312 | 168,771 |
-| 2023-05-17 | 4.62 | - | 64,312 | 168,810 |
+| 2023-05-17 | 4.62 | - | 64,312 | 168,844 |

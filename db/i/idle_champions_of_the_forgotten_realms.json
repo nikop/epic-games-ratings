@@ -3750,7 +3750,7 @@
   ],
   "EOS_Progressed": 87750,
   "EOS_Completed": 1847,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -7039,9 +7039,9 @@
       "ID": "objective_completed_1184",
       "SetID": "415jc5c",
       "Name": "Weak Doesn\u0027t Mean Feeble",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1185",
@@ -7647,9 +7647,9 @@
       "ID": "objective_completed_215",
       "SetID": "cc37lbc",
       "Name": "Poor Fortune",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_216",
@@ -7799,9 +7799,9 @@
       "ID": "objective_completed_263",
       "SetID": "cc37lbc",
       "Name": "Only the Strong Survive",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_264",
@@ -8623,9 +8623,9 @@
       "ID": "objective_completed_572",
       "SetID": "cc37lbc",
       "Name": "Dark Doppelgangers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_573",
@@ -8903,9 +8903,9 @@
       "ID": "objective_completed_613",
       "SetID": "415jc5c",
       "Name": "Nightmare Mode",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_615",
@@ -9079,9 +9079,9 @@
       "ID": "objective_completed_640",
       "SetID": "415jc5c",
       "Name": "The Path of Dreams",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_641",
@@ -9223,9 +9223,9 @@
       "ID": "objective_completed_670",
       "SetID": "415jc5c",
       "Name": "Questlines",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_671",
@@ -9671,9 +9671,9 @@
       "ID": "objective_completed_837",
       "SetID": "415jc5c",
       "Name": "The Bleeding Citadel",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_838",
@@ -9855,9 +9855,9 @@
       "ID": "objective_completed_872",
       "SetID": "415jc5c",
       "Name": "Elturel\u0027s Last Stand",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_873",
@@ -10205,8 +10205,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T10:05:31.5982719+00:00",
+  "LastChanged_Achievements": "2023-05-17T11:05:51.9775733+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T09:57:46.441006+00:00",
-  "LastUpdate_Achievements": "2023-05-17T10:05:31.6008163+00:00"
+  "LastUpdate_Ratings": "2023-05-17T10:57:47.5012052+00:00",
+  "LastUpdate_Achievements": "2023-05-17T11:05:51.979971+00:00"
 }

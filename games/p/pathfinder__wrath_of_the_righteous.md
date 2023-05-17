@@ -27,6 +27,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Divide and Rule | 2.00% | ~177 |
 | Mythic Reinforcements | 2.00% | ~177 |
 | Core of the Riddle | 2.00% | ~177 |
+| Your First Big Enemy | 2.00% | ~177 |
 | A Flame | 2.00% | ~177 |
 | Hey, I Know You! | 2.00% | ~177 |
 | Next-Door Play | 2.00% | ~177 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Lich | 1.00% | ~88 |
 | Heroic Victory | 1.00% | ~88 |
 | Capitulation Is Now Moot | 1.00% | ~88 |
-| Your First Big Enemy | 1.00% | ~88 |
 | Truly Important Deed | 1.00% | ~88 |
 | Stay Underground | 1.00% | ~76 |
 | Sarkoris Will Be Green | 1.00% | ~76 |

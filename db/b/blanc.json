@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1833,
+  "EOS_Progressed": 1834,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -303,6 +303,11 @@
       "Time": "2023-05-17T05:05:41.2793843+00:00",
       "NumProgressed": 1833,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-17T11:05:26.6162355+00:00",
+      "NumProgressed": 1834,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -314,7 +319,7 @@
       "Name": "Another ride!",
       "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BIG_LEAP",
@@ -417,7 +422,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1833,
+      "Progressed": 1834,
       "Completed": 4
     }
   ],
@@ -425,8 +430,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-17T10:05:06.886242+00:00",
+  "LastChanged_Achievements": "2023-05-17T11:05:26.6162345+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:11.5899144+00:00",
-  "LastUpdate_Ratings": "2023-05-17T09:58:51.4069323+00:00",
-  "LastUpdate_Achievements": "2023-05-17T10:05:06.886257+00:00"
+  "LastUpdate_Ratings": "2023-05-17T10:58:57.9036254+00:00",
+  "LastUpdate_Achievements": "2023-05-17T11:05:26.6162496+00:00"
 }

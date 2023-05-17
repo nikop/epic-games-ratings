@@ -54,15 +54,15 @@ Rating: 3.64 (Ranked 917)
 | Four Leaf Clover | 1.00% | ~10 |
 | Lock And Load | 1.00% | ~10 |
 | Relic Of The Past | 1.00% | ~10 |
-| Blueprint Upgrades | 0.80% | ~8 |
-| Crystal Mining | 0.80% | ~8 |
+| Blueprint Upgrades | 0.90% | ~9 |
+| Crystal Mining | 0.90% | ~9 |
 | Legendary | 0.70% | ~7 |
 | Sailor | 0.70% | ~7 |
 | Transmute | 0.70% | ~7 |
 | Tree of Life | 0.70% | ~7 |
 | Ebony Jungle Liberator | 0.60% | ~6 |
 | Enchanting skill | 0.60% | ~6 |
-| The Alchemist | 0.50% | ~5 |
+| The Alchemist | 0.60% | ~6 |
 | Training makes a Pro player | 0.50% | ~5 |
 | Gear Enchanting | 0.40% | ~4 |
 | Mythic Power | 0.40% | ~4 |
