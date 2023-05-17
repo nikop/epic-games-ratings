@@ -4,7 +4,7 @@
   "ProductSlug": "voidtrain",
   "Ranking_Rating": 530,
   "Ranking_Popularity": 449,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 274,
@@ -759,12 +759,18 @@
       "Rating": 4.5,
       "NumberOfAwards": 127,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-05-17T20:58:29.9077716+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 128,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 127,
+  "NumberOfAwards": 128,
   "NumberOfAwardsMax": 29,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Easy Combat",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -788,7 +794,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
@@ -808,8 +814,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-05-16T13:58:01.1169981+00:00",
+  "LastChanged": "2023-05-17T20:58:29.9077715+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:56.8191441+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:58:14.2265744+00:00",
-  "LastUpdate_Achievements": "2023-05-17T20:03:42.3424174+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:58:29.9077721+00:00",
+  "LastUpdate_Achievements": "2023-05-17T21:04:17.6649462+00:00"
 }

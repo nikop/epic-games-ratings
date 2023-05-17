@@ -5,14 +5,14 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~992 |
-| World Map | 80.00% | ~844 |
+| Victor | 94.00% | ~993 |
+| World Map | 80.00% | ~845 |
 | Temple of Eternals | 56.00% | ~591 |
 | Prestigious | 52.00% | ~549 |
-| Fellowship Power | 39.00% | ~411 |
+| Fellowship Power | 39.00% | ~412 |
 | Guild Power | 24.00% | ~253 |
 | Prestigious x10 | 20.00% | ~211 |
-| The game is on | 17.00% | ~179 |
+| The game is on | 17.00% | ~180 |
 | Dragon Clicker | 15.00% | ~158 |
 | Exotic Merchant | 15.00% | ~158 |
 | Inspection | 14.00% | ~148 |
@@ -22,9 +22,9 @@ Rating: 3.64 (Ranked 917)
 | Lieutenant | 11.00% | ~116 |
 | Dragon Master | 10.00% | ~106 |
 | Enlightenment | 10.00% | ~106 |
+| Natural Talent | 9.00% | ~95 |
 | The Unstoppable | 9.00% | ~95 |
 | Mysterious Rock | 8.00% | ~84 |
-| Natural Talent | 8.00% | ~84 |
 | Superior | 8.00% | ~84 |
 | Milestone collector | 7.00% | ~74 |
 | Scientist | 7.00% | ~74 |
@@ -52,10 +52,10 @@ Rating: 3.64 (Ranked 917)
 | Engineer Mastery | 1.00% | ~11 |
 | Lock And Load | 1.00% | ~11 |
 | Relic Of The Past | 1.00% | ~11 |
-| Active Member | 0.90% | ~9 |
-| Blueprint Upgrades | 0.90% | ~9 |
-| Crystal Mining | 0.90% | ~9 |
-| Four Leaf Clover | 0.90% | ~9 |
+| Active Member | 0.90% | ~10 |
+| Blueprint Upgrades | 0.90% | ~10 |
+| Crystal Mining | 0.90% | ~10 |
+| Four Leaf Clover | 0.90% | ~10 |
 | Legendary | 0.70% | ~7 |
 | Sailor | 0.70% | ~7 |
 | Transmute | 0.70% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055 (Ranked 162)  
+Progressed: 1,056 (Ranked 162)  
 Completed: 1 (0.09%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.09%) (Ranked 161)
 | 2023-05-14 | 1,017 | 1 |
 | 2023-05-15 | 1,032 | 1 |
 | 2023-05-16 | 1,047 | 1 |
-| 2023-05-17 | 1,055 | 1 |
+| 2023-05-17 | 1,056 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,29 +1,29 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 580)  
+Rating: 4.47 (Ranked 581)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,675 |
-| Now You're Talking | 62.00% | ~320,341 |
-| Steel Yourself | 62.00% | ~320,341 |
-| Window Dressing | 50.00% | ~258,340 |
-| Trigger Happy | 46.00% | ~237,672 |
-| Riverborn | 45.00% | ~232,506 |
-| Starry Eyed | 34.00% | ~175,671 |
-| Poking Around | 34.00% | ~175,671 |
-| Talk of the Town | 24.00% | ~124,003 |
-| AAARR! | 23.00% | ~118,836 |
-| Hello Darkness | 23.00% | ~118,836 |
-| Wind At Our Backs | 22.00% | ~113,669 |
-| To the Beat | 20.00% | ~103,336 |
-| Sunny Shores | 17.00% | ~87,835 |
+| First Step | 70.00% | ~361,678 |
+| Now You're Talking | 62.00% | ~320,343 |
+| Steel Yourself | 62.00% | ~320,343 |
+| Window Dressing | 50.00% | ~258,342 |
+| Trigger Happy | 46.00% | ~237,674 |
+| Riverborn | 45.00% | ~232,507 |
+| Starry Eyed | 34.00% | ~175,672 |
+| Poking Around | 34.00% | ~175,672 |
+| Talk of the Town | 24.00% | ~124,004 |
+| AAARR! | 23.00% | ~118,837 |
+| Hello Darkness | 23.00% | ~118,837 |
+| Wind At Our Backs | 22.00% | ~113,670 |
+| To the Beat | 20.00% | ~103,337 |
+| Sunny Shores | 17.00% | ~87,836 |
 | To Victory! | 15.00% | ~77,502 |
 | Sunday Best | 15.00% | ~77,502 |
-| Two of a Kind | 14.00% | ~72,335 |
-| Keep On Trucking | 13.00% | ~67,168 |
+| Two of a Kind | 14.00% | ~72,336 |
+| Keep On Trucking | 13.00% | ~67,169 |
 | Going on an Adventure | 11.00% | ~56,835 |
 | Make Peace, Not War | 11.00% | ~56,835 |
 | Walking The Line | 10.00% | ~51,668 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,550 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,679 (Ranked 24)  
+Progressed: 516,683 (Ranked 24)  
 Completed: 405 (0.08%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 405 (0.08%) (Ranked 164)
 | 2023-05-14 | 516,471 | 405 |
 | 2023-05-15 | 516,543 | 405 |
 | 2023-05-16 | 516,612 | 405 |
-| 2023-05-17 | 516,679 | 405 |
+| 2023-05-17 | 516,683 | 405 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

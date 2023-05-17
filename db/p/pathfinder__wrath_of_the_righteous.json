@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2396,9 +2396,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8848,
+  "EOS_Progressed": 8850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3646,6 +3646,11 @@
       "Time": "2023-05-17T18:06:44.0038176+00:00",
       "NumProgressed": 8848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T21:07:06.6556947+00:00",
+      "NumProgressed": 8850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3673,7 +3678,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "04_FithCrusade",
@@ -3689,7 +3694,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -3713,7 +3718,7 @@
       "Name": "Path of the Angel",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "09_PathOfDemon",
@@ -3729,7 +3734,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "11_PathOfAeon",
@@ -3785,7 +3790,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "18_MythicChoices",
@@ -3865,7 +3870,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "29_StrategicVictory",
@@ -4001,7 +4006,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "46_AllPathsOpen",
@@ -4009,7 +4014,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -4049,7 +4054,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -4584,21 +4589,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7630,
+      "Progressed": 7632,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8848,
+      "Progressed": 8850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-16T13:06:55.6989034+00:00",
-  "LastChanged_Achievements": "2023-05-17T20:06:38.7473938+00:00",
+  "LastChanged_Achievements": "2023-05-17T21:07:06.6556942+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:58:39.7903409+00:00",
-  "LastUpdate_Achievements": "2023-05-17T20:06:38.7475262+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:58:54.0046326+00:00",
+  "LastUpdate_Achievements": "2023-05-17T21:07:06.6559189+00:00"
 }

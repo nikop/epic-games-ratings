@@ -1021,7 +1021,7 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1061,9 +1061,9 @@
       "ID": "SPEND_20000",
       "SetID": "6j5ggkc",
       "Name": "Big Spender",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -1084,8 +1084,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-17T20:06:12.7324766+00:00",
+  "LastChanged_Achievements": "2023-05-17T21:06:30.1414071+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:57:58.4751762+00:00",
-  "LastUpdate_Achievements": "2023-05-17T20:06:12.7325047+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:58:12.9648325+00:00",
+  "LastUpdate_Achievements": "2023-05-17T21:06:30.141448+00:00"
 }

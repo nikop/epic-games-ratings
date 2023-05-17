@@ -2230,10 +2230,16 @@
       "Rating": 3.78,
       "NumberOfAwards": 8328,
       "NumberOfAwardsMax": 1028
+    },
+    {
+      "Time": "2023-05-17T21:00:45.7395851+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 8329,
+      "NumberOfAwardsMax": 1028
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8328,
+  "NumberOfAwards": 8329,
   "NumberOfAwardsMax": 1028,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2271,7 +2277,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 968
+      "Count": 969
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2298,10 +2304,10 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28842,
+  "EOS_Progressed": 28853,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3477,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 3449,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -4908,6 +4914,11 @@
       "Time": "2023-05-17T20:05:48.2967759+00:00",
       "NumProgressed": 28842,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-17T21:06:26.1188904+00:00",
+      "NumProgressed": 28853,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5029,9 +5040,9 @@
       "ID": "complete_mission_1",
       "SetID": "3ib2d0i",
       "Name": "First F#@!ing Day",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "customize_a_vehicle",
@@ -5093,9 +5104,9 @@
       "ID": "empire_tier_2",
       "SetID": "3ib2d0i",
       "Name": "A Young Empire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "empire_tier_3",
@@ -5269,9 +5280,9 @@
       "ID": "staggered_by_vending_machine",
       "SetID": "3ib2d0i",
       "Name": "Food for Thought",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "two_thirds_purple",
@@ -5342,22 +5353,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28842,
+      "Progressed": 28853,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 479,
-      "Completed": 398
+      "Progressed": 490,
+      "Completed": 400
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-05-16T18:59:03.5616429+00:00",
-  "LastChanged_Achievements": "2023-05-17T20:05:48.2967754+00:00",
+  "LastChanged": "2023-05-17T21:00:45.7395848+00:00",
+  "LastChanged_Achievements": "2023-05-17T21:06:26.1188899+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-17T20:00:22.7297182+00:00",
-  "LastUpdate_Achievements": "2023-05-17T20:05:48.2968211+00:00"
+  "LastUpdate_Ratings": "2023-05-17T21:00:45.7395855+00:00",
+  "LastUpdate_Achievements": "2023-05-17T21:06:26.1189581+00:00"
 }

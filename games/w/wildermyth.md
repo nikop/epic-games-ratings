@@ -8,11 +8,11 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 31.00% | ~365 |
 | Me and My Familiar | 28.00% | ~330 |
-| This Too Shall Pass | 25.00% | ~294 |
+| This Too Shall Pass | 25.00% | ~295 |
 | Cutthroat Competitors | 24.00% | ~283 |
 | Passing Shadow | 23.00% | ~271 |
 | How Romantic! | 22.00% | ~259 |
-| Daybreak | 21.00% | ~247 |
+| Daybreak | 22.00% | ~259 |
 | Gotta Ca... Must Collect All of Them | 20.00% | ~236 |
 | Completing the Look | 11.00% | ~130 |
 | Who's Counting? | 11.00% | ~130 |
@@ -20,8 +20,8 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 10.00% | ~118 |
 | Core Failure | 10.00% | ~118 |
 | Pyrrhic Victory | 8.00% | ~94 |
-| Thematic Divergence | 7.00% | ~82 |
-| Echoes Die | 7.00% | ~82 |
+| Thematic Divergence | 7.00% | ~83 |
+| Echoes Die | 7.00% | ~83 |
 | Chain Reaction | 6.00% | ~71 |
 | Everfading | 6.00% | ~71 |
 | Another Tale to Tell | 6.00% | ~71 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,178 (Ranked 158)  
+Progressed: 1,179 (Ranked 158)  
 Completed: 3 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 3 (0.25%) (Ranked 133)
 | 2023-05-14 | 1,165 | 3 |
 | 2023-05-15 | 1,170 | 3 |
 | 2023-05-16 | 1,175 | 3 |
-| 2023-05-17 | 1,178 | 3 |
+| 2023-05-17 | 1,179 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 463)  

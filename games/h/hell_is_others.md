@@ -1,19 +1,19 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.47 (Ranked 580)  
+Rating: 4.47 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,173 |
-| Predator I | 22.00% | ~54,768 |
-| Fixer I | 10.00% | ~24,894 |
-| A week in Century City | 10.00% | ~24,894 |
+| Survivor | 31.00% | ~77,174 |
+| Predator I | 22.00% | ~54,769 |
+| Fixer I | 10.00% | ~24,895 |
+| A week in Century City | 10.00% | ~24,895 |
 | The Wait | 7.00% | ~17,426 |
 | Green thumb I | 6.00% | ~14,937 |
-| Well-oiled machine | 5.00% | ~12,447 |
-| Saver I | 5.00% | ~12,447 |
-| Cleaning Company | 5.00% | ~12,447 |
+| Well-oiled machine | 5.00% | ~12,448 |
+| Saver I | 5.00% | ~12,448 |
+| Cleaning Company | 5.00% | ~12,448 |
 | The Ascent | 4.00% | ~9,958 |
 | Pacifist | 4.00% | ~9,958 |
 | Vandalism | 4.00% | ~9,958 |
@@ -27,14 +27,14 @@ Rating: 4.47 (Ranked 580)
 | Predator II | 2.00% | ~4,979 |
 | Truffle Dog | 2.00% | ~4,979 |
 | A month in Century City | 2.00% | ~4,979 |
-| The Strengthening | 1.00% | ~2,489 |
-| Saver II | 1.00% | ~2,489 |
-| It's the last one, I swear | 1.00% | ~2,489 |
-| Botanist | 1.00% | ~2,489 |
-| Green thumb II | 1.00% | ~2,489 |
-| Don't try this at home | 1.00% | ~2,489 |
-| Bricklayer | 1.00% | ~2,489 |
-| Run the Economy | 1.00% | ~2,489 |
+| The Strengthening | 1.00% | ~2,490 |
+| Saver II | 1.00% | ~2,490 |
+| It's the last one, I swear | 1.00% | ~2,490 |
+| Botanist | 1.00% | ~2,490 |
+| Green thumb II | 1.00% | ~2,490 |
+| Don't try this at home | 1.00% | ~2,490 |
+| Bricklayer | 1.00% | ~2,490 |
+| Run the Economy | 1.00% | ~2,490 |
 | Committed Relationship | 0.80% | ~1,992 |
 | Number 1 | 0.70% | ~1,743 |
 | Interior designer | 0.60% | ~1,494 |
@@ -62,7 +62,7 @@ Rating: 4.47 (Ranked 580)
 | Capitalist III | 0.10% | ~249 |
 | Hell Is You | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,945 (Ranked 39)  
+Progressed: 248,950 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-14 | 248,714 | 1 |
 | 2023-05-15 | 248,798 | 1 |
 | 2023-05-16 | 248,872 | 1 |
-| 2023-05-17 | 248,945 | 1 |
+| 2023-05-17 | 248,950 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 470)  
 Sum: 23 (Ranked 472)  

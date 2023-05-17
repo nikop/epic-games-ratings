@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 658,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.84,
   "EosHistory": [
@@ -1326,9 +1326,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 474
     },
     {
       "ID": "2",
@@ -1390,9 +1390,9 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 237
     },
     {
       "ID": "27",
@@ -1655,8 +1655,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-17T20:05:43.4320042+00:00",
+  "LastChanged_Achievements": "2023-05-17T21:06:21.0573286+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:57:29.0992071+00:00",
-  "LastUpdate_Achievements": "2023-05-17T20:05:43.4320432+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:57:40.7930896+00:00",
+  "LastUpdate_Achievements": "2023-05-17T21:06:21.0573829+00:00"
 }

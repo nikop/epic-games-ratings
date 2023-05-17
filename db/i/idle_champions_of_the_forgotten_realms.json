@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3760,10 +3760,10 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87792,
+  "EOS_Progressed": 87798,
   "EOS_Completed": 1849,
-  "EOS_NewPlayers": 706,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 708,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -6295,6 +6295,11 @@
       "Time": "2023-05-17T20:06:50.7349569+00:00",
       "NumProgressed": 87792,
       "NumCompleted": 1849
+    },
+    {
+      "Time": "2023-05-17T21:07:19.1018923+00:00",
+      "NumProgressed": 87798,
+      "NumCompleted": 1849
     }
   ],
   "TotalAchievements": 493,
@@ -7352,9 +7357,9 @@
       "ID": "objective_completed_1336",
       "SetID": "415jc5c",
       "Name": "A Nimble Approach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1340",
@@ -7368,9 +7373,9 @@
       "ID": "objective_completed_1341",
       "SetID": "415jc5c",
       "Name": "The Egg of Nat\u0027s Desire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1345",
@@ -10249,21 +10254,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54066,
+      "Progressed": 54072,
       "Completed": 2519
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87792,
+      "Progressed": 87798,
       "Completed": 1849
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-17T18:58:19.5106395+00:00",
-  "LastChanged_Achievements": "2023-05-17T20:06:50.7349564+00:00",
+  "LastChanged_Achievements": "2023-05-17T21:07:19.1018915+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:58:15.3060978+00:00",
-  "LastUpdate_Achievements": "2023-05-17T20:06:50.7370518+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:58:31.4349897+00:00",
+  "LastUpdate_Achievements": "2023-05-17T21:07:19.105205+00:00"
 }

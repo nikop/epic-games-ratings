@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5793,
+  "EOS_Progressed": 5794,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2167,6 +2167,11 @@
       "Time": "2023-05-17T20:06:35.4165753+00:00",
       "NumProgressed": 5793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T21:07:03.1745201+00:00",
+      "NumProgressed": 5794,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2186,7 +2191,7 @@
       "Name": "License to Thrill",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "0003",
@@ -2234,7 +2239,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "0009",
@@ -2250,7 +2255,7 @@
       "Name": "Social of Solace",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "0011",
@@ -2274,7 +2279,7 @@
       "Name": "Keycards Royale",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "0014",
@@ -2282,7 +2287,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2144
     },
     {
       "ID": "0015",
@@ -2330,7 +2335,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 24,
       "XP": 115,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "0021",
@@ -2370,7 +2375,7 @@
       "Name": "Tailor-Made",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "0026",
@@ -2386,7 +2391,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "0028",
@@ -2410,7 +2415,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "0031",
@@ -2465,7 +2470,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 5793,
+      "Progressed": 5794,
       "Completed": 0
     }
   ],
@@ -2473,8 +2478,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-17T15:00:48.8293025+00:00",
-  "LastChanged_Achievements": "2023-05-17T20:06:35.4165751+00:00",
+  "LastChanged_Achievements": "2023-05-17T21:07:03.1745196+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:34.0542734+00:00",
-  "LastUpdate_Ratings": "2023-05-17T20:00:30.9814197+00:00",
-  "LastUpdate_Achievements": "2023-05-17T20:06:35.4166042+00:00"
+  "LastUpdate_Ratings": "2023-05-17T21:00:50.0416568+00:00",
+  "LastUpdate_Achievements": "2023-05-17T21:07:03.1745821+00:00"
 }

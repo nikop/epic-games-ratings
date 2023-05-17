@@ -6,15 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First F#@!ing Day | 0.30% | ~87 |
 | The Side Job | 0.20% | ~58 |
 | Wet Work | 0.20% | ~58 |
-| First F#@!ing Day | 0.20% | ~58 |
 | Tune Up | 0.20% | ~58 |
 | Optimized | 0.20% | ~58 |
+| A Young Empire | 0.20% | ~58 |
 | Landlord | 0.20% | ~58 |
 | Performance Review | 0.20% | ~58 |
 | Wrecking Ball | 0.20% | ~58 |
 | Making a Name | 0.20% | ~58 |
+| Food for Thought | 0.20% | ~58 |
 | To The Nines | 0.20% | ~58 |
 | Jack of All Trades | 0.10% | ~29 |
 | It's a Bird! | 0.10% | ~29 |
@@ -33,7 +35,6 @@ Number of Ratings: 22,103  (23.09.2022)
 | Bonus Round | 0.10% | ~29 |
 | Untouchable | 0.10% | ~29 |
 | The Spins | 0.10% | ~29 |
-| A Young Empire | 0.10% | ~29 |
 | Power Players | 0.10% | ~29 |
 | Masters of Santo Ileso | 0.10% | ~29 |
 | A Golden Age | 0.10% | ~29 |
@@ -51,7 +52,6 @@ Number of Ratings: 22,103  (23.09.2022)
 | Smooth Moves | 0.10% | ~29 |
 | A Car Named Simone | 0.10% | ~29 |
 | Tourist | 0.10% | ~29 |
-| Food for Thought | 0.10% | ~29 |
 | Community Outreach | 0.10% | ~29 |
 | Heard You Like Wheels | 0.10% | ~29 |
 | All Mine | 0.10% | ~29 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Hazardous Heist | 0.10% | ~0 |
 | Fiesta Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,842 (Ranked 85)  
+Progressed: 28,853 (Ranked 85)  
 Completed: 18 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,16 +87,16 @@ Completed: 18 (0.06%) (Ranked 168)
 | 2023-05-14 | 27,748 | 17 |
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
-| 2023-05-17 | 28,842 | 18 |
+| 2023-05-17 | 28,853 | 18 |
 ## Awards
 Max (Extremely Fun): 1,028  (Ranked 133)  
-Sum: 8,328 (Ranked 88)  
+Sum: 8,329 (Ranked 88)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,028 |
 | This game has Quickly Understood Controls | 998 |
-| This game is Highly Recommended | 968 |
+| This game is Highly Recommended | 969 |
 | This game has Amazing Characters | 955 |
 | This game is Great for Beginners | 954 |
 | This game has Diverse Characters | 952 |
@@ -178,3 +178,4 @@ Diff (max vs sum): 45
 | 2023-05-13 | 3.78 | - | 1,027 | 8,319 |
 | 2023-05-15 | 3.78 | - | 1,027 | 8,322 |
 | 2023-05-16 | 3.78 | - | 1,028 | 8,328 |
+| 2023-05-17 | 3.78 | - | 1,028 | 8,329 |

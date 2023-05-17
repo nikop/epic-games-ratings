@@ -23,10 +23,10 @@ Rating: 4.55 (Ranked 465)
 | Exceeding Capacity | 0.80% | ~15 |
 | Power Outage | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
+| Please Make it Stop! | 0.70% | ~13 |
 | Sightseeing | 0.60% | ~11 |
 | Access Granted | 0.60% | ~11 |
 | Necessary Enhancement | 0.60% | ~11 |
-| Please Make it Stop! | 0.60% | ~11 |
 | BRAWL! | 0.50% | ~10 |
 | Man's Best Friend | 0.40% | ~8 |
 | All in Good Health | 0.40% | ~8 |

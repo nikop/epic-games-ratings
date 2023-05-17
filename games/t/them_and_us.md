@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 69.00% | ~57 |
-| Forced to Kill | 69.00% | ~57 |
+| Alone with Them | 70.00% | ~58 |
+| Forced to Kill | 70.00% | ~58 |
 | A Night To Remember | 29.00% | ~24 |
 | Safe...For now? | 22.00% | ~18 |
 | Open Sesame | 16.00% | ~13 |
@@ -26,7 +26,7 @@
 | The Curse Is Real | 4.00% | ~3 |
 | Trapped | 4.00% | ~3 |
 | What A Mansion | 4.00% | ~3 |
-| Armed To The Teeth | 1.00% | ~1 |
+| Armed To The Teeth | 2.00% | ~2 |
 | Back In Time | 1.00% | ~1 |
 | Before The Eclipse | 1.00% | ~1 |
 | Box Of Ploutus | 1.00% | ~1 |

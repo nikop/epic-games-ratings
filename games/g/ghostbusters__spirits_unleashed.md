@@ -5,59 +5,59 @@ Rating: 4.49 (Ranked 554)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~18,819 |
-| Advancement | 74.00% | ~16,193 |
-| Meticulously Efficient | 65.00% | ~14,224 |
-| Discovery | 63.00% | ~13,786 |
-| Swift Rift Removers | 56.00% | ~12,254 |
-| Fully Upgraded | 55.00% | ~12,036 |
-| Cultured | 53.00% | ~11,598 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,379 |
-| Vaporous Expansion | 49.00% | ~10,723 |
-| Teamwork | 45.00% | ~9,847 |
-| There you are! | 44.00% | ~9,629 |
-| Clutch Capture | 42.00% | ~9,191 |
-| Back Off | 36.00% | ~7,878 |
-| Daily Dose | 35.00% | ~7,659 |
-| Welcome to the Crew | 33.00% | ~7,221 |
-| Solo Capture | 32.00% | ~7,003 |
-| Ghostbuster In Training | 31.00% | ~6,784 |
-| Icing on the Cake | 30.00% | ~6,565 |
-| Legions | 28.00% | ~6,127 |
-| Side Hustle | 28.00% | ~6,127 |
-| We have the best insurance | 27.00% | ~5,908 |
-| Pesky Jerks | 27.00% | ~5,908 |
-| Right back at ya | 27.00% | ~5,908 |
-| Stunner | 27.00% | ~5,908 |
-| Summoner | 27.00% | ~5,908 |
-| Animated | 25.00% | ~5,471 |
-| Skilled | 25.00% | ~5,471 |
-| Collector | 24.00% | ~5,252 |
-| Ectoplasmic Entity | 24.00% | ~5,252 |
+| Stylish | 86.00% | ~18,822 |
+| Advancement | 74.00% | ~16,196 |
+| Meticulously Efficient | 65.00% | ~14,226 |
+| Discovery | 63.00% | ~13,788 |
+| Swift Rift Removers | 56.00% | ~12,256 |
+| Fully Upgraded | 55.00% | ~12,037 |
+| Cultured | 53.00% | ~11,600 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,381 |
+| Vaporous Expansion | 49.00% | ~10,724 |
+| Teamwork | 45.00% | ~9,849 |
+| There you are! | 44.00% | ~9,630 |
+| Clutch Capture | 42.00% | ~9,192 |
+| Back Off | 36.00% | ~7,879 |
+| Daily Dose | 35.00% | ~7,660 |
+| Welcome to the Crew | 33.00% | ~7,222 |
+| Solo Capture | 32.00% | ~7,004 |
+| Ghostbuster In Training | 31.00% | ~6,785 |
+| Icing on the Cake | 30.00% | ~6,566 |
+| Legions | 28.00% | ~6,128 |
+| Side Hustle | 28.00% | ~6,128 |
+| We have the best insurance | 27.00% | ~5,909 |
+| Pesky Jerks | 27.00% | ~5,909 |
+| Right back at ya | 27.00% | ~5,909 |
+| Stunner | 27.00% | ~5,909 |
+| Summoner | 27.00% | ~5,909 |
+| Animated | 25.00% | ~5,472 |
+| Skilled | 25.00% | ~5,472 |
+| Collector | 24.00% | ~5,253 |
+| Ectoplasmic Entity | 24.00% | ~5,253 |
 | Rift Destroyer | 20.00% | ~4,377 |
 | Tobin's Prodigy | 19.00% | ~4,158 |
 | Reckless | 18.00% | ~3,939 |
-| Terrifying | 17.00% | ~3,720 |
-| Diabolical | 16.00% | ~3,501 |
-| Escape Artist | 16.00% | ~3,501 |
-| Seasoned | 16.00% | ~3,501 |
+| Terrifying | 17.00% | ~3,721 |
+| Diabolical | 16.00% | ~3,502 |
+| Escape Artist | 16.00% | ~3,502 |
+| Seasoned | 16.00% | ~3,502 |
 | Liability | 11.00% | ~2,407 |
-| Fragile Panes | 10.00% | ~2,188 |
-| Rivalry | 10.00% | ~2,188 |
-| Surprise! | 9.00% | ~1,969 |
-| Whoopsie | 9.00% | ~1,969 |
+| Fragile Panes | 10.00% | ~2,189 |
+| Rivalry | 10.00% | ~2,189 |
+| Surprise! | 9.00% | ~1,970 |
+| Whoopsie | 9.00% | ~1,970 |
 | Master Collector | 7.00% | ~1,532 |
 | Rift Seeker | 7.00% | ~1,532 |
 | Therapeutic | 7.00% | ~1,532 |
-| Ghost Expert | 3.00% | ~656 |
-| Ultimate Defense | 3.00% | ~656 |
+| Ghost Expert | 3.00% | ~657 |
+| Ultimate Defense | 3.00% | ~657 |
 | Catostrophic Destroyer | 2.00% | ~438 |
 | Line em' up | 2.00% | ~438 |
 | Little Help Here | 2.00% | ~438 |
 | I don't need these | 1.00% | ~219 |
 | Mycophile | 1.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,883 (Ranked 89)  
+Progressed: 21,886 (Ranked 89)  
 Completed: 40 (0.18%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,11 +84,11 @@ Completed: 40 (0.18%) (Ranked 142)
 | 2023-05-14 | 21,803 | 39 |
 | 2023-05-15 | 21,836 | 39 |
 | 2023-05-16 | 21,860 | 39 |
-| 2023-05-17 | 21,883 | 40 |
+| 2023-05-17 | 21,886 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
-Sum: 2,069 (Ranked 184)  
-Diff (max vs sum): 61  
+Sum: 2,069 (Ranked 183)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 228 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2636,
+  "EOS_Progressed": 2637,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -859,6 +859,11 @@
       "Time": "2023-05-17T20:06:42.0335987+00:00",
       "NumProgressed": 2636,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-17T21:07:10.2309214+00:00",
+      "NumProgressed": 2637,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -918,7 +923,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "campaign10",
@@ -1006,7 +1011,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "campaign20",
@@ -1030,7 +1035,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "campaign5",
@@ -1038,7 +1043,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "campaign6",
@@ -1046,7 +1051,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "campaign7",
@@ -1133,7 +1138,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2636,
+      "Progressed": 2637,
       "Completed": 9
     }
   ],
@@ -1141,8 +1146,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-17T20:06:42.0335983+00:00",
+  "LastChanged_Achievements": "2023-05-17T21:07:10.2309209+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-17T20:01:14.5269626+00:00",
-  "LastUpdate_Achievements": "2023-05-17T20:06:42.0336229+00:00"
+  "LastUpdate_Ratings": "2023-05-17T21:01:45.614789+00:00",
+  "LastUpdate_Achievements": "2023-05-17T21:07:10.2309556+00:00"
 }

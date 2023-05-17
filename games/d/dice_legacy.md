@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 763)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761 (Ranked 172)  
+Progressed: 762 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 754 | 0 |
 | 2023-05-14 | 757 | 0 |
 | 2023-05-16 | 759 | 0 |
-| 2023-05-17 | 761 | 0 |
+| 2023-05-17 | 762 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

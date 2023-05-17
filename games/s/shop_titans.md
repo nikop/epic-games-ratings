@@ -6,23 +6,23 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~124,593 |
-| Titan's First Steps | 96.00% | ~123,308 |
-| Basic in Bulk | 91.00% | ~116,886 |
-| Tinkle of Coins | 87.00% | ~111,748 |
-| Disintermediation | 76.00% | ~97,619 |
-| Capitalism Ho! | 75.00% | ~96,334 |
-| It's Free Real Estate | 70.00% | ~89,912 |
-| Budding Merchant | 66.00% | ~84,774 |
-| Another Satisfied Customer | 61.00% | ~78,352 |
+| Sponsored by Argon | 97.00% | ~124,594 |
+| Titan's First Steps | 96.00% | ~123,309 |
+| Basic in Bulk | 91.00% | ~116,887 |
+| Tinkle of Coins | 87.00% | ~111,749 |
+| Disintermediation | 76.00% | ~97,620 |
+| Capitalism Ho! | 75.00% | ~96,335 |
+| It's Free Real Estate | 70.00% | ~89,913 |
+| Budding Merchant | 66.00% | ~84,775 |
+| Another Satisfied Customer | 61.00% | ~78,353 |
 | One Easy Payment | 60.00% | ~77,068 |
 | Own the Means of Production | 60.00% | ~77,068 |
-| Some Assembly Required | 59.00% | ~75,783 |
-| Pretty Penny | 57.00% | ~73,214 |
-| One-Armed Bandit | 50.00% | ~64,223 |
-| Through Repetition, Perfection | 46.00% | ~59,085 |
+| Some Assembly Required | 59.00% | ~75,784 |
+| Pretty Penny | 57.00% | ~73,215 |
+| One-Armed Bandit | 50.00% | ~64,224 |
+| Through Repetition, Perfection | 46.00% | ~59,086 |
 | The Daily Grind | 45.00% | ~57,801 |
-| Bounty Hunters | 44.00% | ~56,516 |
+| Bounty Hunters | 44.00% | ~56,517 |
 | Where it Hurts | 43.00% | ~55,232 |
 | Dungeon Imports | 43.00% | ~55,232 |
 | Flooding the Market | 41.00% | ~52,663 |
@@ -30,13 +30,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 37.00% | ~47,525 |
 | Did we pack lunch? | 35.00% | ~44,956 |
 | Arcane Industries | 34.00% | ~43,672 |
-| Accomplished Merchant | 31.00% | ~39,818 |
+| Accomplished Merchant | 31.00% | ~39,819 |
 | Ascended | 28.00% | ~35,965 |
 | Gem Expert | 28.00% | ~35,965 |
 | Helping Hand | 28.00% | ~35,965 |
-| On the Path to Greatness | 27.00% | ~34,680 |
-| Blank Page Syndrome | 27.00% | ~34,680 |
-| Efficient Floor Space | 27.00% | ~34,680 |
+| On the Path to Greatness | 27.00% | ~34,681 |
+| Blank Page Syndrome | 27.00% | ~34,681 |
+| Efficient Floor Space | 27.00% | ~34,681 |
 | Vanity, Verily | 26.00% | ~33,396 |
 | Research & Development | 25.00% | ~32,112 |
 | Flawless Fusion | 24.00% | ~30,827 |
@@ -55,10 +55,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 15.00% | ~19,267 |
 | Seasoned Journeyman | 15.00% | ~19,267 |
 | Black Friday Special | 15.00% | ~19,267 |
-| Big Game Hunting | 14.00% | ~17,982 |
-| Locally Sourced | 14.00% | ~17,982 |
-| Flying off the Shelves | 14.00% | ~17,982 |
-| Laden with Loot | 14.00% | ~17,982 |
+| Big Game Hunting | 14.00% | ~17,983 |
+| Locally Sourced | 14.00% | ~17,983 |
+| Flying off the Shelves | 14.00% | ~17,983 |
+| Laden with Loot | 14.00% | ~17,983 |
 | Fat Cat Tag Team | 13.00% | ~16,698 |
 | Hidden Potential | 12.00% | ~15,414 |
 | Mammonite | 12.00% | ~15,414 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~514 |
 | Capitalist Camaraderie | 0.20% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,446 (Ranked 54)  
+Progressed: 128,447 (Ranked 54)  
 Completed: 78 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,10 +146,10 @@ Completed: 78 (0.06%) (Ranked 168)
 | 2023-05-14 | 128,241 | 78 |
 | 2023-05-15 | 128,301 | 78 |
 | 2023-05-16 | 128,377 | 78 |
-| 2023-05-17 | 128,446 | 78 |
+| 2023-05-17 | 128,447 | 78 |
 ## Awards
 Max (Great for Beginners): 4,575  (Ranked 66)  
-Sum: 26,579 (Ranked 44)  
+Sum: 26,580 (Ranked 44)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): 22
 | This game has Quickly Understood Controls | 3,938 |
 | This game has Diverse Characters | 3,750 |
 | This game is Highly Recommended | 3,669 |
-| This game has Easy Combat | 3,607 |
+| This game has Easy Combat | 3,608 |
 | This game has Playful Visuals | 3,093 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -277,4 +277,4 @@ Diff (max vs sum): 22
 | 2023-05-14 | 3.98 | - | 4,566 | 26,555 |
 | 2023-05-15 | 3.98 | - | 4,566 | 26,559 |
 | 2023-05-16 | 3.98 | - | 4,571 | 26,574 |
-| 2023-05-17 | 3.98 | - | 4,575 | 26,579 |
+| 2023-05-17 | 3.98 | - | 4,575 | 26,580 |

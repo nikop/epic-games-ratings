@@ -9,7 +9,7 @@
 | Into the Barn | 87.00% | ~572 |
 | A Prophecy | 85.00% | ~559 |
 | Sword, Shield, Fight! | 76.00% | ~500 |
-| A Grand Visit | 71.00% | ~467 |
+| A Grand Visit | 72.00% | ~474 |
 | Vibing | 62.00% | ~408 |
 | Fun Guy | 61.00% | ~401 |
 | Tragic Brave | 52.00% | ~342 |
@@ -26,9 +26,9 @@
 | Nightmare Fuel | 38.00% | ~250 |
 | Take Heart | 38.00% | ~250 |
 | The Guardian | 38.00% | ~250 |
+| Ancient Wisdom | 36.00% | ~237 |
 | Frog Facts! | 36.00% | ~237 |
 | Stronger! | 36.00% | ~237 |
-| Ancient Wisdom | 35.00% | ~230 |
 | All That Glistens | 35.00% | ~230 |
 | It's Pointy! | 35.00% | ~230 |
 | Spellbound | 34.00% | ~224 |

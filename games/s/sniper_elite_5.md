@@ -7,8 +7,11 @@ Rating: 4.40 (Ranked 669)
 | ---- | ---------- | ----- |
 | Sink or Swim | 0.30% | ~2 |
 | Opposing Force | 0.10% | ~1 |
+| Strategist | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
 | Precision Is Key | 0.10% | ~1 |
+| Confirming Suspicions | 0.10% | ~1 |
+| Resourceful | 0.10% | ~1 |
 | It's Starting to Crack | 0.10% | ~1 |
 | Last Resort | 0.10% | ~1 |
 | Siegebreaker | 0.10% | ~1 |
@@ -22,7 +25,6 @@ Rating: 4.40 (Ranked 669)
 | Fields of Glory | 0.00% | ~0 |
 | Just a Flesh Wound | 0.00% | ~0 |
 | Organ Grinder | 0.00% | ~0 |
-| Strategist | 0.00% | ~0 |
 | Meeting Resistance | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
@@ -32,14 +34,12 @@ Rating: 4.40 (Ranked 669)
 | Sharpshooter | 0.00% | ~0 |
 | The Long Game | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
-| Confirming Suspicions | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Rigged to Blow | 0.00% | ~0 |
 | My Little Friend | 0.00% | ~0 |
 | Explosive Efficiency | 0.00% | ~0 |
 | Lord of War | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
-| Resourceful | 0.00% | ~0 |
 | Der Geist | 0.00% | ~0 |
 | As Quiet as a Mouse | 0.00% | ~0 |
 | The Kraken Wakes | 0.00% | ~0 |
@@ -77,8 +77,8 @@ Rating: 4.40 (Ranked 669)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 176)  
-Completed: 2 (0.28%) (Ranked 128)  
+Progressed: 728 (Ranked 176)  
+Completed: 2 (0.27%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,7 +103,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-14 | 717 | 2 |
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
-| 2023-05-17 | 727 | 2 |
+| 2023-05-17 | 728 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
