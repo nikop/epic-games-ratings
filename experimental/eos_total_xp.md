@@ -198,6 +198,7 @@
 | [Hunt the Night](../games/h/hunt_the_night.md) | 22 | 1,000 |
 | [I Saw Black Clouds](../games/i/i_saw_black_clouds.md) | 15 | 1,000 |
 | [Imagine Earth](../games/i/imagine_earth.md) | 24 | 1,000 |
+| [Indoor Kickball](../games/i/indoor_kickball.md) | 40 | 1,000 |
 | [Infindustry](../games/i/infindustry.md) | 12 | 1,000 |
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
 | [Insurgency: Sandstorm](../games/i/insurgency__sandstorm.md) | 35 | 1,000 |

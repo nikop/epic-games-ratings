@@ -183,6 +183,7 @@
 | [World Eternal Online](games/w/world_eternal_online.md) | 2023-12-31 | 2023-02-02 |
 | [Xenonauts 2](games/x/xenonauts_2.md) | 2023-12-31 | 2023-12-31 |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-02-02 | - |
+| [Domynyo](games/0/0da5045417f24b309daf44a90c354cf2.md) | 2024-03-31 | 2024-03-31 |
 | [Elder's Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-03-31 | 2024-03-31 |
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | 2024-12-31 |
 | [Dawn Apart](games/d/dawn_apart.md) | 2024-12-31 | 2024-12-31 |

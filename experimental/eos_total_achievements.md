@@ -157,6 +157,7 @@
 | [Chef Life - A Restaurant Simulator](../games/c/chef_life_-_a_restaurant_simulator.md) | 40 | 1,000 |
 | [Disco Elysium - The Final Cut](../games/d/disco_elysium_-_the_final_cut.md) | 40 | 1,000 |
 | [Dungeon Drafters](../games/d/dungeon_drafters.md) | 40 | 1,000 |
+| [Indoor Kickball](../games/i/indoor_kickball.md) | 40 | 1,000 |
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
 | [Planet Cube - Edge](../games/p/planet_cube_-_edge.md) | 40 | 1,000 |
 | [Rocco's Island](../games/r/rocco's_island.md) | 40 | 1,000 |
