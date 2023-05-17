@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 543,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -277,6 +277,11 @@
       "Time": "2023-05-16T02:08:42.428651+00:00",
       "NumProgressed": 542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T00:05:19.1019734+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -352,7 +357,7 @@
       "Name": "Taste",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -392,7 +397,7 @@
       "Name": "Scion",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -400,7 +405,7 @@
       "Name": "Glare",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -454,9 +459,9 @@
       "ID": "DEFEAT_SHIDRA",
       "SetID": "ccc0dlh",
       "Name": "Inevitable",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -504,7 +509,7 @@
       "Name": "Imprint",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -614,30 +619,30 @@
       "ID": "QUEST_YON",
       "SetID": "ccc0dlh",
       "Name": "Proportions",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 125,
-      "Completed": 16
+      "Progressed": 126,
+      "Completed": 17
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 543,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:05:14.9967083+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:05:19.1019729+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:20.874021+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:59:46.7395056+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:05:14.9967431+00:00"
+  "LastUpdate_Ratings": "2023-05-16T23:59:57.1235676+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:05:19.102006+00:00"
 }

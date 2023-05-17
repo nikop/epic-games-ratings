@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3692,11 +3692,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 29895,
       "NumberOfAwardsMax": 4880
+    },
+    {
+      "Time": "2023-05-16T23:57:51.7948488+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29900,
+      "NumberOfAwardsMax": 4885
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29895,
-  "NumberOfAwardsMax": 4880,
+  "NumberOfAwards": 29900,
+  "NumberOfAwardsMax": 4885,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3709,7 +3715,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4880
+      "Count": 4885
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3742,11 +3748,11 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87710,
-  "EOS_Completed": 1845,
-  "EOS_NewPlayers": 706,
-  "EOS_NewCompleters": 25,
-  "EOS_Completed_Percentage": 2.1,
+  "EOS_Progressed": 87715,
+  "EOS_Completed": 1847,
+  "EOS_NewPlayers": 707,
+  "EOS_NewCompleters": 27,
+  "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -6182,6 +6188,11 @@
       "Time": "2023-05-16T23:05:20.9303088+00:00",
       "NumProgressed": 87710,
       "NumCompleted": 1845
+    },
+    {
+      "Time": "2023-05-17T00:05:25.2339332+00:00",
+      "NumProgressed": 87715,
+      "NumCompleted": 1847
     }
   ],
   "TotalAchievements": 493,
@@ -6311,17 +6322,17 @@
       "ID": "objective_completed_1057",
       "SetID": "415jc5c",
       "Name": "A Dragon Against Us",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1058",
       "SetID": "415jc5c",
       "Name": "A Familiar Behind Us",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1060",
@@ -6535,17 +6546,17 @@
       "ID": "objective_completed_1095",
       "SetID": "415jc5c",
       "Name": "The Fairy Rings of Thither",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1096",
       "SetID": "415jc5c",
       "Name": "Zarak\u0027s Revenge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1097",
@@ -6759,9 +6770,9 @@
       "ID": "objective_completed_1142",
       "SetID": "415jc5c",
       "Name": "Best Laid Plans",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1143",
@@ -6863,9 +6874,9 @@
       "ID": "objective_completed_1160",
       "SetID": "415jc5c",
       "Name": "Best Thay Ever",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1163",
@@ -6967,9 +6978,9 @@
       "ID": "objective_completed_1180",
       "SetID": "415jc5c",
       "Name": "Hands Off!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1183",
@@ -6991,9 +7002,9 @@
       "ID": "objective_completed_1185",
       "SetID": "415jc5c",
       "Name": "Frail Doesn\u0027t Mean Broken",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1188",
@@ -7039,9 +7050,9 @@
       "ID": "objective_completed_1198",
       "SetID": "415jc5c",
       "Name": "Get Back In The Castle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1199",
@@ -7063,9 +7074,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1204",
@@ -7079,17 +7090,17 @@
       "ID": "objective_completed_1208",
       "SetID": "415jc5c",
       "Name": "Vecna Out!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1209",
       "SetID": "415jc5c",
       "Name": "Bully for Vecna",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1213",
@@ -7159,9 +7170,9 @@
       "ID": "objective_completed_129",
       "SetID": "cc37lbc",
       "Name": "The Lost Heir of Omu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_13",
@@ -7287,17 +7298,17 @@
       "ID": "objective_completed_1351",
       "SetID": "415jc5c",
       "Name": "Welcome to the Band",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_149",
@@ -7423,9 +7434,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_170",
@@ -7447,9 +7458,9 @@
       "ID": "objective_completed_172",
       "SetID": "415jc5c",
       "Name": "The Newcomers of Notoriety",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_179",
@@ -7527,9 +7538,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_208",
@@ -7551,9 +7562,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_210",
@@ -7703,9 +7714,9 @@
       "ID": "objective_completed_251",
       "SetID": "cc37lbc",
       "Name": "The Wyrmheart Mine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_252",
@@ -7935,17 +7946,17 @@
       "ID": "objective_completed_383",
       "SetID": "cc37lbc",
       "Name": "The Lost Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_384",
       "SetID": "cc37lbc",
       "Name": "A Saurial\u0027s Lament",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_385",
@@ -8015,9 +8026,9 @@
       "ID": "objective_completed_394",
       "SetID": "cc37lbc",
       "Name": "Diversity Day-Trip",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_395",
@@ -8087,9 +8098,9 @@
       "ID": "objective_completed_403",
       "SetID": "cc37lbc",
       "Name": "Fugitives",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_404",
@@ -8119,9 +8130,9 @@
       "ID": "objective_completed_408",
       "SetID": "cc37lbc",
       "Name": "Excavating History",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_409",
@@ -8167,9 +8178,9 @@
       "ID": "objective_completed_414",
       "SetID": "cc37lbc",
       "Name": "Guests of the Groom",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_415",
@@ -8191,9 +8202,9 @@
       "ID": "objective_completed_418",
       "SetID": "cc37lbc",
       "Name": "Hopelessly Lost",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_419",
@@ -8207,9 +8218,9 @@
       "ID": "objective_completed_42",
       "SetID": "cc37lbc",
       "Name": "Cramped Quarters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_420",
@@ -8295,9 +8306,9 @@
       "ID": "objective_completed_433",
       "SetID": "cc37lbc",
       "Name": "Orcs Are Wild",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_434",
@@ -8423,9 +8434,9 @@
       "ID": "objective_completed_551",
       "SetID": "cc37lbc",
       "Name": "Dreams of Beholders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_552",
@@ -8455,9 +8466,9 @@
       "ID": "objective_completed_556",
       "SetID": "cc37lbc",
       "Name": "Bregan D\u0027aerthe Comes to Call",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_557",
@@ -8471,9 +8482,9 @@
       "ID": "objective_completed_558",
       "SetID": "415jc5c",
       "Name": "In The Beginning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_56",
@@ -8607,17 +8618,17 @@
       "ID": "objective_completed_578",
       "SetID": "415jc5c",
       "Name": "Faer\u00FBn\u0027s Most Neglected",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_581",
@@ -8631,9 +8642,9 @@
       "ID": "objective_completed_582",
       "SetID": "cc37lbc",
       "Name": "Vault of Poison",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_583",
@@ -8831,9 +8842,9 @@
       "ID": "objective_completed_611",
       "SetID": "cc37lbc",
       "Name": "Twice More Into The Breach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_612",
@@ -8911,9 +8922,9 @@
       "ID": "objective_completed_622",
       "SetID": "415jc5c",
       "Name": "Misty Undermountain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_623",
@@ -8943,9 +8954,9 @@
       "ID": "objective_completed_627",
       "SetID": "415jc5c",
       "Name": "Ireena von Zarovich",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_628",
@@ -9287,9 +9298,9 @@
       "ID": "objective_completed_692",
       "SetID": "415jc5c",
       "Name": "Giant-Size Adventure",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_693",
@@ -9351,9 +9362,9 @@
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_72",
@@ -9391,17 +9402,17 @@
       "ID": "objective_completed_77",
       "SetID": "cc37lbc",
       "Name": "Rude Welcome",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_8",
@@ -9431,9 +9442,9 @@
       "ID": "objective_completed_803",
       "SetID": "415jc5c",
       "Name": "An Awakened Axe",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_804",
@@ -9503,9 +9514,9 @@
       "ID": "objective_completed_813",
       "SetID": "415jc5c",
       "Name": "The Archduke\u0027s Blessing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_814",
@@ -9527,17 +9538,17 @@
       "ID": "objective_completed_818",
       "SetID": "415jc5c",
       "Name": "Relentless Peril",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_819",
       "SetID": "415jc5c",
       "Name": "Rickety Rubble",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_82",
@@ -9631,17 +9642,17 @@
       "ID": "objective_completed_839",
       "SetID": "415jc5c",
       "Name": "Going To Eleven",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_842",
       "SetID": "415jc5c",
       "Name": "Idyllglen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_843",
@@ -9759,9 +9770,9 @@
       "ID": "objective_completed_863",
       "SetID": "415jc5c",
       "Name": "Mimic Vengeance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_864",
@@ -9775,9 +9786,9 @@
       "ID": "objective_completed_867",
       "SetID": "415jc5c",
       "Name": "The Battle of High Hall Tower",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_868",
@@ -9951,9 +9962,9 @@
       "ID": "objective_completed_903",
       "SetID": "415jc5c",
       "Name": "Cackling Horror",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_904",
@@ -10055,9 +10066,9 @@
       "ID": "objective_completed_935",
       "SetID": "415jc5c",
       "Name": "The Archaeologist and the Sailor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_94",
@@ -10136,21 +10147,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 53984,
+      "Progressed": 53989,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87710,
-      "Completed": 1845
+      "Progressed": 87715,
+      "Completed": 1847
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-16T09:57:38.7579752+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:05:20.9303082+00:00",
+  "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:05:25.2339327+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:57:43.1103147+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:05:20.9327011+00:00"
+  "LastUpdate_Ratings": "2023-05-16T23:57:51.7948496+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:05:25.2366667+00:00"
 }

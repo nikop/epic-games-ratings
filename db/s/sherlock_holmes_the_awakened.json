@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "MQ03_3",
@@ -300,17 +300,17 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "MQ04_1",
@@ -372,9 +372,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "MQ06_2",
@@ -388,9 +388,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "MQ06_4",
@@ -461,8 +461,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:02:08.9530189+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:02:12.7728667+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.4352441+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:57:02.060861+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:02:08.953041+00:00"
+  "LastUpdate_Ratings": "2023-05-16T23:57:10.3545366+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:02:12.7728887+00:00"
 }

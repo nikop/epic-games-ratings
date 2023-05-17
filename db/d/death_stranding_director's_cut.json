@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-03-30T14:30:00+00:00",
     "PcReleaseDate": "2022-03-30T14:30:00+00:00",
@@ -3256,9 +3256,9 @@
       "Count": 470
     }
   ],
-  "EOS_Progressed": 455236,
+  "EOS_Progressed": 455237,
   "EOS_Completed": 1531,
-  "EOS_NewPlayers": 1756,
+  "EOS_NewPlayers": 1753,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -5756,6 +5756,11 @@
       "Time": "2023-05-16T22:05:10.8209324+00:00",
       "NumProgressed": 455236,
       "NumCompleted": 1531
+    },
+    {
+      "Time": "2023-05-17T00:04:57.524495+00:00",
+      "NumProgressed": 455237,
+      "NumCompleted": 1531
     }
   ],
   "TotalAchievements": 63,
@@ -5775,7 +5780,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 418817
+      "UsersEstimate": 418818
     },
     {
       "ID": "10",
@@ -5831,7 +5836,7 @@
       "Name": "Everyday Delivery",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 232170
+      "UsersEstimate": 232171
     },
     {
       "ID": "17",
@@ -5839,7 +5844,7 @@
       "Name": "Deliveries Done",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 104704
+      "UsersEstimate": 104705
     },
     {
       "ID": "18",
@@ -5863,7 +5868,7 @@
       "Name": "Rebuilding America",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 359636
+      "UsersEstimate": 359637
     },
     {
       "ID": "20",
@@ -5903,7 +5908,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 318665
+      "UsersEstimate": 318666
     },
     {
       "ID": "25",
@@ -5919,7 +5924,7 @@
       "Name": "Well Connected",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 277694
+      "UsersEstimate": 277695
     },
     {
       "ID": "27",
@@ -5935,7 +5940,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 345979
+      "UsersEstimate": 345980
     },
     {
       "ID": "29",
@@ -5967,7 +5972,7 @@
       "Name": "Good Samaritan",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 405160
+      "UsersEstimate": 405161
     },
     {
       "ID": "32",
@@ -6007,7 +6012,7 @@
       "Name": "The Custom Kid",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 268589
+      "UsersEstimate": 268590
     },
     {
       "ID": "37",
@@ -6111,7 +6116,7 @@
       "Name": "Hooked on Delivering!?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 68285
+      "UsersEstimate": 68286
     },
     {
       "ID": "49",
@@ -6151,7 +6156,7 @@
       "Name": "Rest In Pieces",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 68285
+      "UsersEstimate": 68286
     },
     {
       "ID": "53",
@@ -6167,7 +6172,7 @@
       "Name": "Sleep Tight, Little BB",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 195751
+      "UsersEstimate": 195752
     },
     {
       "ID": "55",
@@ -6223,7 +6228,7 @@
       "Name": "Soothing Sounds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 204856
+      "UsersEstimate": 204857
     },
     {
       "ID": "61",
@@ -6270,15 +6275,15 @@
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 455236,
+      "Progressed": 455237,
       "Completed": 1531
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-05-16T16:00:49.5941214+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:04:53.9786386+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:04:57.5244946+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:24.4110945+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:59:49.9460883+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:04:53.9787139+00:00"
+  "LastUpdate_Ratings": "2023-05-17T00:00:00.0865669+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:04:57.5245705+00:00"
 }

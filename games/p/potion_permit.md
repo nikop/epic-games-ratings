@@ -5,30 +5,30 @@ Rating: 3.79 (Ranked 908)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,220 |
-| The First Step | 89.00% | ~1,108 |
-| Moonbury Traveller | 63.00% | ~784 |
-| Rookie Chemist | 62.00% | ~772 |
-| Great Doctor | 50.00% | ~622 |
-| Dog Whisperer | 47.00% | ~585 |
+| Welcome to Moonbury | 98.00% | ~1,221 |
+| The First Step | 88.00% | ~1,096 |
+| Moonbury Traveller | 63.00% | ~785 |
+| Rookie Chemist | 62.00% | ~773 |
+| Great Doctor | 50.00% | ~623 |
+| Dog Whisperer | 47.00% | ~586 |
 | Friendly | 46.00% | ~573 |
 | The Capitalist | 42.00% | ~523 |
-| K.O.! | 41.00% | ~510 |
+| K.O.! | 41.00% | ~511 |
 | Intermediate Chemist | 37.00% | ~461 |
-| Decorative Mind | 31.00% | ~386 |
+| Decorative Mind | 30.00% | ~374 |
 | Lumber Specialist | 29.00% | ~361 |
-| Catch of the Day | 23.00% | ~286 |
+| Catch of the Day | 23.00% | ~287 |
 | Kind-hearted | 22.00% | ~274 |
 | Amateur Chef | 20.00% | ~249 |
 | Fishing Guru | 17.00% | ~212 |
 | Community Helper | 16.00% | ~199 |
 | Spark of Love | 14.00% | ~174 |
 | Stone Specialist | 13.00% | ~162 |
-| Expert Chemist | 12.00% | ~149 |
+| Expert Chemist | 12.00% | ~150 |
 | Sociable | 11.00% | ~137 |
 | Ablutomaniac | 11.00% | ~137 |
 | Production Sorter | 11.00% | ~137 |
-| Good Samaritan | 10.00% | ~124 |
+| Good Samaritan | 10.00% | ~125 |
 | Line Cook | 9.00% | ~112 |
 | Acrobatic Adventurer | 8.00% | ~100 |
 | Animal Exterminator | 7.00% | ~87 |
@@ -44,7 +44,7 @@ Rating: 3.79 (Ranked 908)
 | Moonbury Navigator | 0.80% | ~10 |
 | Being a donut... | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,245 (Ranked 156)  
+Progressed: 1,246 (Ranked 156)  
 Completed: 5 (0.40%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,6 +62,7 @@ Completed: 5 (0.40%) (Ranked 110)
 | 2023-05-11 | 1,240 | 5 |
 | 2023-05-13 | 1,241 | 5 |
 | 2023-05-14 | 1,245 | 5 |
+| 2023-05-17 | 1,246 | 5 |
 ## Awards
 Max (Character Customization): 66  (Ranked 369)  
 Sum: 66 (Ranked 423)  

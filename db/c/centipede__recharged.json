@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13628,
+  "EOS_Progressed": 13629,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2210,6 +2210,11 @@
       "Time": "2023-05-16T22:05:06.191315+00:00",
       "NumProgressed": 13628,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-05-17T00:04:52.9452179+00:00",
+      "NumProgressed": 13629,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 16,
@@ -2269,7 +2274,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4498
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -2317,7 +2322,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 6950
+      "UsersEstimate": 6951
     },
     {
       "ID": "Sole_Survivor",
@@ -2325,7 +2330,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "Still_Burning",
@@ -2348,15 +2353,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13628,
+      "Progressed": 13629,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-10T20:58:58.4288263+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:04:49.3999044+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:04:52.9452176+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:58.6033927+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:58:35.093512+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:04:49.399928+00:00"
+  "LastUpdate_Ratings": "2023-05-16T23:58:44.1598198+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:04:52.9452387+00:00"
 }

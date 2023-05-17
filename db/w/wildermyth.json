@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1175,
+  "EOS_Progressed": 1176,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -435,6 +435,11 @@
       "Time": "2023-05-16T23:04:46.7591824+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-17T00:04:50.3750569+00:00",
+      "NumProgressed": 1176,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -614,15 +619,15 @@
       "Name": "How Romantic!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_mythwalker",
@@ -654,7 +659,7 @@
       "Name": "Chain Reaction",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -678,7 +683,7 @@
       "Name": "Everfading",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "completedStory_enduringWar",
@@ -694,7 +699,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "completedStory_monarchs",
@@ -710,7 +715,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "completedStory_ulstryx",
@@ -718,7 +723,7 @@
       "Name": "Daybreak",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "completedStory_vultureLord",
@@ -893,15 +898,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1175,
+      "Progressed": 1176,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:04:46.7591819+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:04:50.3750565+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.1630654+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:59:53.1996591+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:04:46.7592386+00:00"
+  "LastUpdate_Ratings": "2023-05-17T00:00:05.1105858+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:04:50.3751071+00:00"
 }

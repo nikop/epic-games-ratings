@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~535,967 |
-| Right Back At Ya | 37.00% | ~295,982 |
-| The Lovers | 32.00% | ~255,984 |
-| Stanislavski's Method | 27.00% | ~215,987 |
-| The Wheel of Fortune | 25.00% | ~199,988 |
-| The Hermit | 23.00% | ~183,989 |
-| Christmas Tree Attack | 22.00% | ~175,989 |
-| True Soldier | 22.00% | ~175,989 |
-| Legend of The Afterlife | 21.00% | ~167,990 |
-| The High Priestess | 20.00% | ~159,990 |
+| The Fool | 67.00% | ~535,970 |
+| Right Back At Ya | 37.00% | ~295,983 |
+| The Lovers | 32.00% | ~255,986 |
+| Stanislavski's Method | 27.00% | ~215,988 |
+| The Wheel of Fortune | 25.00% | ~199,989 |
+| The Hermit | 23.00% | ~183,990 |
+| Christmas Tree Attack | 22.00% | ~175,990 |
+| True Soldier | 22.00% | ~175,990 |
+| Legend of The Afterlife | 21.00% | ~167,991 |
+| The High Priestess | 20.00% | ~159,991 |
 | Life of the Road | 19.00% | ~151,991 |
 | Full Body Conversion | 17.00% | ~135,992 |
-| The World | 16.00% | ~127,992 |
+| The World | 16.00% | ~127,993 |
 | Bushido and Chill | 15.00% | ~119,993 |
-| Gun Fu | 14.00% | ~111,993 |
-| True Warrior | 14.00% | ~111,993 |
+| Gun Fu | 14.00% | ~111,994 |
+| True Warrior | 14.00% | ~111,994 |
 | To Protect and Serve | 13.00% | ~103,994 |
 | Master Crafter | 13.00% | ~103,994 |
 | I Am The Law | 13.00% | ~103,994 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,000 |
 | Rough Landing | 0.40% | ~3,200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799,951 (Ranked 11)  
+Progressed: 799,955 (Ranked 11)  
 Completed: 1,599 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,9 +78,10 @@ Completed: 1,599 (0.20%) (Ranked 139)
 | 2023-05-14 | 799,707 | 1,595 |
 | 2023-05-15 | 799,818 | 1,597 |
 | 2023-05-16 | 799,951 | 1,599 |
+| 2023-05-17 | 799,955 | 1,599 |
 ## Awards
 Max (Character Customization): 64,312  (Ranked 9)  
-Sum: 168,761 (Ranked 13)  
+Sum: 168,771 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +93,7 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 7,321 |
 | This game is Relaxing | 7,273 |
 | This game is Highly Recommended | 7,264 |
-| This game has Quickly Understood Controls | 7,133 |
+| This game has Quickly Understood Controls | 7,143 |
 | This game has Amazing Characters | 7,090 |
 | This game has a Creative Community | 4,730 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -215,4 +216,4 @@ Diff (max vs sum): -4
 | 2023-05-13 | 4.62 | - | 64,131 | 168,153 |
 | 2023-05-14 | 4.62 | - | 64,220 | 168,387 |
 | 2023-05-15 | 4.62 | - | 64,276 | 168,608 |
-| 2023-05-16 | 4.62 | - | 64,312 | 168,761 |
+| 2023-05-16 | 4.62 | - | 64,312 | 168,771 |

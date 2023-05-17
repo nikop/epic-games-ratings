@@ -11,7 +11,7 @@
 | Sword, Shield, Fight! | 76.00% | ~496 |
 | A Grand Visit | 72.00% | ~470 |
 | Vibing | 62.00% | ~405 |
-| Fun Guy | 61.00% | ~398 |
+| Fun Guy | 62.00% | ~405 |
 | Tragic Brave | 52.00% | ~340 |
 | Awakened Spirits | 49.00% | ~320 |
 | Little Shop | 48.00% | ~313 |
@@ -23,9 +23,9 @@
 | Glimmer of Hope | 39.00% | ~255 |
 | Teacups for Toppy | 39.00% | ~255 |
 | Well Rested | 39.00% | ~255 |
+| Nightmare Fuel | 38.00% | ~248 |
+| Take Heart | 38.00% | ~248 |
 | The Guardian | 38.00% | ~248 |
-| Nightmare Fuel | 37.00% | ~242 |
-| Take Heart | 37.00% | ~242 |
 | Ancient Wisdom | 36.00% | ~235 |
 | Frog Facts! | 36.00% | ~235 |
 | Stronger! | 36.00% | ~235 |
@@ -51,7 +51,7 @@
 | Flower Power | 25.00% | ~163 |
 | Shopping Spree! | 22.00% | ~144 |
 | Crowned | 22.00% | ~144 |
-| Max Level! | 13.00% | ~85 |
+| Max Level! | 14.00% | ~91 |
 | Dance Master | 8.00% | ~52 |
 | Bombs Away! | 8.00% | ~52 |
 ## Popularity (Based on EOS Achievements)

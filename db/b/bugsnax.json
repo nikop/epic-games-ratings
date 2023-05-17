@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -617,9 +617,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 27415,
+  "EOS_Progressed": 27416,
   "EOS_Completed": 1268,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.63,
   "EosHistory": [
@@ -1222,6 +1222,11 @@
       "Time": "2023-05-16T17:05:45.3668868+00:00",
       "NumProgressed": 27415,
       "NumCompleted": 1268
+    },
+    {
+      "Time": "2023-05-17T00:05:10.9404202+00:00",
+      "NumProgressed": 27416,
+      "NumCompleted": 1268
     }
   ],
   "TotalAchievements": 30,
@@ -1257,7 +1262,7 @@
       "Name": "Clothesline",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "ACH_BOSSES",
@@ -1273,7 +1278,7 @@
       "Name": "Deep Impact",
       "Percentage": 22,
       "XP": 70,
-      "UsersEstimate": 6031
+      "UsersEstimate": 6032
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -1289,7 +1294,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18094
+      "UsersEstimate": 18095
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -1329,7 +1334,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 26593
+      "UsersEstimate": 26594
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -1337,7 +1342,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 18916
+      "UsersEstimate": 18917
     },
     {
       "ID": "ACH_GOLEM",
@@ -1345,7 +1350,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9595
+      "UsersEstimate": 9596
     },
     {
       "ID": "ACH_HATS",
@@ -1369,7 +1374,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 16723
+      "UsersEstimate": 16724
     },
     {
       "ID": "ACH_LAUNCH",
@@ -1377,7 +1382,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15352
+      "UsersEstimate": 15353
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -1393,7 +1398,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 11788
+      "UsersEstimate": 11789
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -1417,7 +1422,7 @@
       "Name": "Grab Bag",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 6031
+      "UsersEstimate": 6032
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -1425,7 +1430,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 25496
+      "UsersEstimate": 25497
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -1433,7 +1438,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15352
+      "UsersEstimate": 15353
     },
     {
       "ID": "ACH_SUNDAE",
@@ -1449,7 +1454,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 9869
+      "UsersEstimate": 9870
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -1457,7 +1462,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 20561
+      "UsersEstimate": 20562
     },
     {
       "ID": "ACH_WATERFALL",
@@ -1465,22 +1470,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 23851
+      "UsersEstimate": 23852
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27415,
+      "Progressed": 27416,
       "Completed": 1268
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-05-09T21:00:42.4039374+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:05:07.0922318+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:05:10.94042+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.4977881+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:59:11.2969932+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:05:07.0922578+00:00"
+  "LastUpdate_Ratings": "2023-05-16T23:59:20.7864548+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:05:10.9404427+00:00"
 }

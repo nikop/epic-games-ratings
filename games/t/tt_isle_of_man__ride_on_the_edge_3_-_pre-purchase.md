@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 100.00% | ~24 |
-| To Each Their Own | 29.00% | ~7 |
-| Like Phileas Fogg | 21.00% | ~5 |
-| Onwards and Upwards | 21.00% | ~5 |
-| Seven-League Boots | 13.00% | ~3 |
-| You Get An Upgrade, You Get An Upgrade! | 13.00% | ~3 |
-| Playing God | 13.00% | ~3 |
+| You're Going Down! | 96.00% | ~24 |
+| To Each Their Own | 28.00% | ~7 |
+| Like Phileas Fogg | 20.00% | ~5 |
+| Onwards and Upwards | 20.00% | ~5 |
+| Seven-League Boots | 12.00% | ~3 |
+| You Get An Upgrade, You Get An Upgrade! | 12.00% | ~3 |
+| Playing God | 12.00% | ~3 |
 | Nerd | 8.00% | ~2 |
 | Highly Qualified | 8.00% | ~2 |
 | Serial Winner | 8.00% | ~2 |
@@ -44,8 +44,8 @@
 | Tempus Fugit | 4.00% | ~1 |
 | Lone Wolf | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 298)  
-Completed: 1 (4.17%) (Ranked 32)  
+Progressed: 25 (Ranked 298)  
+Completed: 1 (4.00%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -56,3 +56,4 @@ Completed: 1 (4.17%) (Ranked 32)
 | 2023-05-13 | 20 | 1 |
 | 2023-05-15 | 21 | 1 |
 | 2023-05-16 | 24 | 1 |
+| 2023-05-17 | 25 | 1 |

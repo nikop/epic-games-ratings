@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,239 |
-| Cavalier | 25.00% | ~195,354 |
-| Fatso | 23.00% | ~179,725 |
-| Awakening | 20.00% | ~156,283 |
-| Ranger | 20.00% | ~156,283 |
-| Scrooge | 20.00% | ~156,283 |
-| Anorectic | 16.00% | ~125,026 |
-| Firestarter | 15.00% | ~117,212 |
-| Bookworm | 14.00% | ~109,398 |
+| Blacksmith's Son | 31.00% | ~242,240 |
+| Cavalier | 25.00% | ~195,355 |
+| Fatso | 23.00% | ~179,726 |
+| Awakening | 20.00% | ~156,284 |
+| Ranger | 20.00% | ~156,284 |
+| Scrooge | 20.00% | ~156,284 |
+| Anorectic | 16.00% | ~125,027 |
+| Firestarter | 15.00% | ~117,213 |
+| Bookworm | 14.00% | ~109,399 |
 | Insomniac | 13.00% | ~101,584 |
 | Buddy | 11.00% | ~85,956 |
 | Sinner | 11.00% | ~85,956 |
 | Thief | 11.00% | ~85,956 |
 | Convict | 10.00% | ~78,142 |
 | Traveller | 10.00% | ~78,142 |
-| Haggler | 9.00% | ~70,327 |
+| Haggler | 9.00% | ~70,328 |
 | Runt | 7.00% | ~54,699 |
 | Casanova | 6.00% | ~46,885 |
 | McLovin | 6.00% | ~46,885 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~31,257 |
 | Hunter | 4.00% | ~31,257 |
 | Plague Doctor | 4.00% | ~31,257 |
-| Bard | 3.00% | ~23,442 |
-| Conqueror | 3.00% | ~23,442 |
-| Ginger in a Pickle | 3.00% | ~23,442 |
-| Kingdom did not come | 3.00% | ~23,442 |
+| Bard | 3.00% | ~23,443 |
+| Conqueror | 3.00% | ~23,443 |
+| Ginger in a Pickle | 3.00% | ~23,443 |
+| Kingdom did not come | 3.00% | ~23,443 |
 | Completionist | 2.00% | ~15,628 |
 | Death by splinter | 2.00% | ~15,628 |
 | King Charming | 2.00% | ~15,628 |
@@ -56,8 +56,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | David Horak | 0.70% | ~5,470 |
 | Mercenary's Honour | 0.70% | ~5,470 |
 | Saviour | 0.70% | ~5,470 |
-| Edward Kelly | 0.60% | ~4,688 |
-| Fighter | 0.60% | ~4,688 |
+| Edward Kelly | 0.60% | ~4,689 |
+| Fighter | 0.60% | ~4,689 |
 | I Can Quit Anytime | 0.50% | ~3,907 |
 | Perfectionist | 0.40% | ~3,126 |
 | Alcoholic | 0.30% | ~2,344 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~781 |
 | Wingman | 0.10% | ~781 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,415 (Ranked 12)  
+Progressed: 781,419 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,9 +116,10 @@ Completed: 39 (0.00%) (Ranked 199)
 | 2023-05-14 | 781,150 | 39 |
 | 2023-05-15 | 781,296 | 39 |
 | 2023-05-16 | 781,415 | 39 |
+| 2023-05-17 | 781,419 | 39 |
 ## Awards
 Max (Character Customization): 7,168  (Ranked 43)  
-Sum: 26,819 (Ranked 42)  
+Sum: 26,820 (Ranked 42)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -130,7 +131,7 @@ Diff (max vs sum): 1
 | This game has Diverse Characters | 1,620 |
 | This game is Highly Recommended | 1,608 |
 | This game has Amazing Characters | 1,601 |
-| This game has Realistic Visuals | 1,580 |
+| This game has Realistic Visuals | 1,581 |
 | This game is Educational | 1,535 |
 | This game is Relaxing | 1,479 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -248,4 +249,4 @@ Diff (max vs sum): 1
 | 2023-05-13 | 4.71 | - | 7,155 | 26,783 |
 | 2023-05-14 | 4.71 | - | 7,157 | 26,794 |
 | 2023-05-15 | 4.71 | - | 7,161 | 26,805 |
-| 2023-05-16 | 4.71 | - | 7,168 | 26,819 |
+| 2023-05-16 | 4.71 | - | 7,168 | 26,820 |

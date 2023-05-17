@@ -224,9 +224,9 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement9",
@@ -249,8 +249,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:05:12.4079497+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:05:16.2928418+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:06.9087903+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:59:33.5475576+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:05:12.4079678+00:00"
+  "LastUpdate_Ratings": "2023-05-16T23:59:44.7276297+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:05:16.2928534+00:00"
 }

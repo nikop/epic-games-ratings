@@ -1242,9 +1242,9 @@
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 248
     },
     {
       "ID": "12",
@@ -1330,9 +1330,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 248
     },
     {
       "ID": "22",
@@ -1474,9 +1474,9 @@
       "ID": "38",
       "SetID": "d0g98p",
       "Name": "Max Level!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 91
     },
     {
       "ID": "39",
@@ -1602,9 +1602,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 405
     },
     {
       "ID": "8",
@@ -1635,8 +1635,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-16T23:04:37.4828854+00:00",
+  "LastChanged_Achievements": "2023-05-17T00:04:40.937948+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:57:13.7791453+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:04:37.482936+00:00"
+  "LastUpdate_Ratings": "2023-05-16T23:57:22.0733606+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:04:40.9380107+00:00"
 }

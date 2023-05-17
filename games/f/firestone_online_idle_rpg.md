@@ -27,9 +27,9 @@ Rating: 3.64 (Ranked 917)
 | Superior | 8.00% | ~84 |
 | Mysterious Rock | 7.00% | ~73 |
 | Scientist | 7.00% | ~73 |
+| Daily Quest Completionist | 6.00% | ~63 |
 | Milestone collector | 6.00% | ~63 |
 | Challenger | 5.00% | ~52 |
-| Daily Quest Completionist | 5.00% | ~52 |
 | Frostfire Liberator | 4.00% | ~42 |
 | Hunter | 4.00% | ~42 |
 | Mastery | 4.00% | ~42 |

@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 20.00% | ~108 |
-| Imprint | 20.00% | ~108 |
+| Taste | 20.00% | ~109 |
+| Imprint | 20.00% | ~109 |
 | Ravenous | 18.00% | ~98 |
 | The Hunt | 17.00% | ~92 |
 | Weeper | 15.00% | ~81 |
 | Devourer | 12.00% | ~65 |
-| Scion | 10.00% | ~12 |
-| Glare | 10.00% | ~12 |
+| Scion | 10.00% | ~13 |
+| Glare | 10.00% | ~13 |
 | Harmless | 10.00% | ~54 |
 | Silenced Whispers | 10.00% | ~54 |
 | Yank | 10.00% | ~54 |
@@ -24,9 +24,9 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 8.00% | ~43 |
 | Jawstag | 8.00% | ~43 |
 | Celebration | 7.00% | ~38 |
+| Inevitable | 7.00% | ~38 |
 | Predator | 7.00% | ~38 |
 | Assimilation | 6.00% | ~33 |
-| Inevitable | 6.00% | ~33 |
 | Watcher | 6.00% | ~33 |
 | Dream | 6.00% | ~8 |
 | Hunt Down | 5.00% | ~27 |
@@ -37,11 +37,11 @@ Number of Ratings: 46  (23.09.2022)
 | Kin | 5.00% | ~6 |
 | Kinship | 4.00% | ~22 |
 | Unwrap the Gift | 4.00% | ~22 |
-| Proportions | 4.00% | ~22 |
 | Bloodhunter | 3.00% | ~16 |
 | Weakness | 3.00% | ~16 |
 | Breathsmith | 3.00% | ~16 |
 | Listen | 3.00% | ~4 |
+| Proportions | 3.00% | ~16 |
 | Breath | 2.00% | ~11 |
 | Skinmaker | 1.00% | ~5 |
 | Zygote | 1.00% | ~1 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~4 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542 (Ranked 189)  
+Progressed: 543 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-13 | 540 | 0 |
 | 2023-05-14 | 541 | 0 |
 | 2023-05-16 | 542 | 0 |
+| 2023-05-17 | 543 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

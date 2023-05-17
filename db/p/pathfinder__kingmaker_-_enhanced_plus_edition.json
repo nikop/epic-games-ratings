@@ -4,7 +4,7 @@
   "ProductSlug": "pathfinder-kingmaker",
   "Ranking_Rating": 432,
   "Ranking_Popularity": 86,
-  "Ranking_PopularitySum": 89,
+  "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 264,
@@ -3246,6 +3246,6 @@
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
   "LastChanged": "2023-05-16T21:59:09.3929132+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:19.3405745+00:00",
-  "LastUpdate_Ratings": "2023-05-16T22:58:55.7501247+00:00",
-  "LastUpdate_Achievements": "2023-05-16T23:03:44.3675667+00:00"
+  "LastUpdate_Ratings": "2023-05-16T23:59:03.6535046+00:00",
+  "LastUpdate_Achievements": "2023-05-17T00:03:48.0592523+00:00"
 }

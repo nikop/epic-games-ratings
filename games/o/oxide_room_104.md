@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brute force | 100.00% | ~13 |
-| What's going on here? | 77.00% | ~10 |
-| Soundtrack | 54.00% | ~7 |
-| Nimble fingers | 54.00% | ~7 |
-| Room 104 | 54.00% | ~7 |
-| Face to face | 54.00% | ~7 |
-| First aid | 46.00% | ~6 |
-| Let's play a game… | 46.00% | ~6 |
-| Now or never | 46.00% | ~6 |
-| Antidote | 38.00% | ~5 |
-| On the right path | 23.00% | ~3 |
-| I'm close now | 23.00% | ~3 |
-| Failed attempt | 23.00% | ~3 |
-| The real escape | 23.00% | ~3 |
-| Nightmare in the kitchen | 23.00% | ~3 |
-| Good choice | 23.00% | ~3 |
-| It can't be true | 23.00% | ~3 |
-| Take the long way round | 23.00% | ~3 |
-| Pick the right door | 23.00% | ~3 |
-| One-way | 23.00% | ~3 |
-| The third floor | 23.00% | ~3 |
-| 373 | 15.00% | ~2 |
-| Born again | 15.00% | ~2 |
-| He who seeks, finds! | 15.00% | ~2 |
-| The experiment | 8.00% | ~1 |
-| Eva's diary | 8.00% | ~1 |
-| Horror book | 8.00% | ~1 |
-| Matthew's revenge | 8.00% | ~1 |
+| Brute force | 100.00% | ~14 |
+| What's going on here? | 71.00% | ~10 |
+| Soundtrack | 57.00% | ~8 |
+| Nimble fingers | 50.00% | ~7 |
+| Room 104 | 50.00% | ~7 |
+| Face to face | 50.00% | ~7 |
+| First aid | 43.00% | ~6 |
+| Let's play a game… | 43.00% | ~6 |
+| Now or never | 43.00% | ~6 |
+| Antidote | 36.00% | ~5 |
+| On the right path | 21.00% | ~3 |
+| I'm close now | 21.00% | ~3 |
+| Failed attempt | 21.00% | ~3 |
+| The real escape | 21.00% | ~3 |
+| Nightmare in the kitchen | 21.00% | ~3 |
+| Good choice | 21.00% | ~3 |
+| It can't be true | 21.00% | ~3 |
+| Take the long way round | 21.00% | ~3 |
+| Pick the right door | 21.00% | ~3 |
+| One-way | 21.00% | ~3 |
+| The third floor | 21.00% | ~3 |
+| 373 | 14.00% | ~2 |
+| Born again | 14.00% | ~2 |
+| He who seeks, finds! | 14.00% | ~2 |
+| The experiment | 7.00% | ~1 |
+| Eva's diary | 7.00% | ~1 |
+| Horror book | 7.00% | ~1 |
+| Matthew's revenge | 7.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
 | A dark past | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 313)  
+Progressed: 14 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,3 +46,4 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-12 | 9 | 0 |
 | 2023-05-13 | 11 | 0 |
 | 2023-05-16 | 13 | 0 |
+| 2023-05-17 | 14 | 0 |
