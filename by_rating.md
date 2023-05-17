@@ -146,9 +146,9 @@
 | 140 | [DOOM II](games/d/doom_ii.md) | 4.74 | 26 | 460 |
 | 140 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 771 | 147 |
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 597 | 167 |
-| 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,537 | 49 |
+| 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,542 | 49 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
-| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 31,232 | 14 |
+| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 31,270 | 14 |
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 492 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 492 |
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 755 | 148 |
@@ -212,7 +212,7 @@
 | 190 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,280 | 69 |
 | 190 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 492 |
 | 212 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 492 |
-| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,305 | 8 |
+| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,345 | 8 |
 | 212 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 492 |
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,755 | 77 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 492 |
@@ -257,7 +257,7 @@
 | 235 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 21 | 480 |
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 492 |
 | 257 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 492 |
-| 257 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,764 | 47 |
+| 257 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,787 | 47 |
 | 257 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 492 |
 | 257 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 32 | 435 |
 | 257 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.67 | 0 | 492 |
@@ -586,7 +586,7 @@
 | 580 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 492 |
 | 580 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 492 |
 | 580 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 325 |
-| 580 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,822 | 46 |
+| 580 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,827 | 46 |
 | 580 | [The Surge](games/t/the_surge.md) | 4.47 | 26 | 460 |
 | 580 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 492 |
 | 580 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 492 |
@@ -643,7 +643,7 @@
 | 641 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 379 |
 | 641 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
 | 641 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 184 | 264 |
-| 641 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,929 | 28 |
+| 641 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,936 | 28 |
 | 641 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 0 | 492 |
 | 641 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 492 |
 | 641 | [MORDHAU](games/m/mordhau.md) | 4.42 | 128 | 294 |
