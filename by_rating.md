@@ -514,7 +514,7 @@
 | 501 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.52 | 63 | 373 |
 | 501 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 150 | 285 |
 | 501 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 492 |
-| 515 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,569 | 112 |
+| 515 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,570 | 112 |
 | 515 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 334 |
 | 515 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,087 | 71 |
 | 515 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 480 |
@@ -710,22 +710,22 @@
 | 706 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 492 |
 | 706 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,385 | 27 |
 | 706 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 492 |
-| 706 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.36 | 0 | 492 |
 | 706 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 492 |
 | 706 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 465 |
 | 706 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 492 |
 | 706 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 492 |
-| 716 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 492 |
-| 716 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 492 |
-| 716 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 91 | 334 |
-| 716 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 51 | 384 |
-| 716 | [Encased](games/e/encased.md) | 4.35 | 126 | 298 |
-| 716 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 258 |
-| 716 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 492 |
-| 716 | [Paladins](games/p/paladins.md) | 4.35 | 3,227 | 83 |
-| 716 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.35 | 0 | 492 |
-| 716 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.35 | 68 | 368 |
-| 716 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 414 |
+| 715 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 492 |
+| 715 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 492 |
+| 715 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 91 | 334 |
+| 715 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 51 | 384 |
+| 715 | [Encased](games/e/encased.md) | 4.35 | 126 | 298 |
+| 715 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 258 |
+| 715 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.35 | 0 | 492 |
+| 715 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 492 |
+| 715 | [Paladins](games/p/paladins.md) | 4.35 | 3,227 | 83 |
+| 715 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.35 | 0 | 492 |
+| 715 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.35 | 68 | 368 |
+| 715 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 414 |
 | 727 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 492 |
 | 727 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 455 |
 | 727 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 492 |
