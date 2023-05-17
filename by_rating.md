@@ -14,7 +14,7 @@
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,982 | 45 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 492 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 492 |
-| 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,985 | 73 |
+| 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,987 | 73 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 140,967 | 6 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 407 | 198 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,194 | 20 |
@@ -103,7 +103,7 @@
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,257 | 97 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
 | 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,778 | 89 |
-| 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,815 | 18 |
+| 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,846 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,983 | 74 |
 | 103 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 492 |
 | 103 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 36 | 421 |
@@ -460,7 +460,7 @@
 | 447 | [Minit](games/m/minit.md) | 4.56 | 0 | 492 |
 | 447 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,739 | 65 |
 | 447 | [Observation](games/o/observation.md) | 4.56 | 0 | 492 |
-| 447 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,772 | 108 |
+| 447 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,773 | 108 |
 | 447 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 352 |
 | 447 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 49 | 392 |
 | 447 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,873 | 75 |
@@ -500,7 +500,7 @@
 | 491 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 333 |
 | 491 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 492 |
 | 491 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 332 |
-| 501 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 737 | 151 |
+| 501 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 738 | 151 |
 | 501 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,361 | 16 |
 | 501 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 504 | 184 |
 | 501 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 324 |
@@ -708,7 +708,7 @@
 | 706 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 492 |
 | 706 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 274 |
 | 706 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 492 |
-| 706 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,385 | 27 |
+| 706 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,392 | 27 |
 | 706 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 492 |
 | 706 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.36 | 0 | 492 |
 | 706 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 492 |
@@ -899,8 +899,8 @@
 | 895 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 492 |
 | 898 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 492 |
 | 898 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 0 | 492 |
-| 900 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 320 |
-| 900 | [Warface](games/w/warface.md) | 3.91 | 390 | 203 |
+| 898 | [Warface](games/w/warface.md) | 3.92 | 390 | 203 |
+| 901 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 320 |
 | 902 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 492 |
 | 903 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 492 |
 | 903 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 492 |

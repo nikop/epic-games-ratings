@@ -19,11 +19,11 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.94% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.93% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.34% |
 | 23 | [Scorn](games/s/scorn.md) | 7.04% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.85% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.84% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -255,6 +255,7 @@
 | 199 | [EBOLA 3](games/e/ebola_3.md) | 0.00% |
 | 199 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 0.00% |
 | 199 | [ELEGIES Aya](games/e/elegies_aya.md) | 0.00% |
+| 199 | [Elypse](games/e/elypse.md) | 0.00% |
 | 199 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
 | 199 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 199 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
