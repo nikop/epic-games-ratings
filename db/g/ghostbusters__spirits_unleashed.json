@@ -1008,9 +1008,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21882,
+  "EOS_Progressed": 21883,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2888,6 +2888,11 @@
       "Time": "2023-05-17T19:06:21.0708476+00:00",
       "NumProgressed": 21882,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-17T20:06:29.1226681+00:00",
+      "NumProgressed": 21883,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -2907,7 +2912,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5470
+      "UsersEstimate": 5471
     },
     {
       "ID": "Back_Off",
@@ -2939,7 +2944,7 @@
       "Name": "Clutch Capture",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9190
+      "UsersEstimate": 9191
     },
     {
       "ID": "Collect_Spores",
@@ -2963,7 +2968,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11597
+      "UsersEstimate": 11598
     },
     {
       "ID": "Daily_Dose",
@@ -3011,7 +3016,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 14223
+      "UsersEstimate": 14224
     },
     {
       "ID": "Escape_Artist",
@@ -3035,7 +3040,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "GB_In_Training",
@@ -3043,7 +3048,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6783
+      "UsersEstimate": 6784
     },
     {
       "ID": "Ghost_Expert",
@@ -3131,7 +3136,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4376
+      "UsersEstimate": 4377
     },
     {
       "ID": "Rift_Seeker",
@@ -3179,7 +3184,7 @@
       "Name": "Skilled",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5470
+      "UsersEstimate": 5471
     },
     {
       "ID": "Solo_Capture",
@@ -3187,7 +3192,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7002
+      "UsersEstimate": 7003
     },
     {
       "ID": "Stunner",
@@ -3259,7 +3264,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9628
+      "UsersEstimate": 9629
     },
     {
       "ID": "Tobins_Prodigy",
@@ -3283,7 +3288,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10722
+      "UsersEstimate": 10723
     },
     {
       "ID": "Welcome_Crew",
@@ -3306,7 +3311,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21882,
+      "Progressed": 21883,
       "Completed": 40
     }
   ],
@@ -3314,8 +3319,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-17T08:59:08.9312023+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:06:21.0708473+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:06:29.1226675+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-17T18:59:29.7692701+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:06:21.0709057+00:00"
+  "LastUpdate_Ratings": "2023-05-17T19:59:24.013479+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:06:29.12271+00:00"
 }

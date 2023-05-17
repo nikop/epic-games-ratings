@@ -5,10 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So it goes | 2.00% | ~3 |
+| Small-time Finder | 1.00% | ~2 |
+| Business as usual | 1.00% | ~2 |
 | Pride and Joy | 0.60% | ~1 |
 | Eyes Yet To Open | 0.60% | ~1 |
-| Small-time Finder | 0.60% | ~1 |
-| Business as usual | 0.60% | ~1 |
+| The Crush And Smash The Dino Four | 0.60% | ~0 |
 | … Women Inherit The Earth | 0.60% | ~0 |
 | A New Broom Sweeps Clean | 0.60% | ~1 |
 | Mr. Hygeni | 0.60% | ~1 |
@@ -25,7 +26,6 @@
 | Do-you-think-he-saurus | 0.00% | ~0 |
 | Cha Cha Real Smooth | 0.00% | ~0 |
 | That’s One Big Pile | 0.00% | ~0 |
-| The Crush And Smash The Dino Four | 0.00% | ~0 |
 | Bee Squat | 0.00% | ~0 |
 | The Germophobes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

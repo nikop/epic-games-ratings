@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~33,877 |
-| Worth it | 63.00% | ~27,717 |
-| Eagle Eye | 55.00% | ~24,198 |
-| Corpseman I | 40.00% | ~17,598 |
-| Blast fishing | 38.00% | ~16,718 |
-| Not alone | 32.00% | ~14,079 |
-| Headhunter I | 27.00% | ~11,879 |
-| Manual Labour I | 26.00% | ~11,439 |
-| Developers, Developers, Developers | 24.00% | ~10,559 |
-| Basic Training | 24.00% | ~10,559 |
-| Furchtlos und Treu | 13.00% | ~5,719 |
+| Setting an example | 77.00% | ~33,882 |
+| Worth it | 63.00% | ~27,722 |
+| Eagle Eye | 55.00% | ~24,202 |
+| Corpseman I | 40.00% | ~17,601 |
+| Blast fishing | 38.00% | ~16,721 |
+| Not alone | 32.00% | ~14,081 |
+| Headhunter I | 27.00% | ~11,881 |
+| Manual Labour I | 26.00% | ~11,441 |
+| Developers, Developers, Developers | 24.00% | ~10,561 |
+| Basic Training | 24.00% | ~10,561 |
+| Furchtlos und Treu | 13.00% | ~5,720 |
 | Gott Mit Uns | 12.00% | ~5,280 |
 | This We'll Defend! | 9.00% | ~3,960 |
 | Anker wirf! | 9.00% | ~3,960 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~44 |
 | Blood Brother | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,996 (Ranked 77)  
+Progressed: 44,003 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 2 (0.00%) (Ranked 199)
 | 2023-05-14 | 43,709 | 2 |
 | 2023-05-15 | 43,813 | 2 |
 | 2023-05-16 | 43,902 | 2 |
-| 2023-05-17 | 43,996 | 2 |
+| 2023-05-17 | 44,003 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 332)  
 Sum: 731 (Ranked 256)  

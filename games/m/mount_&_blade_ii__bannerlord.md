@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,539 |
-| Landlord | 29.00% | ~14,532 |
-| Lawmaker | 21.00% | ~10,523 |
-| Bannerlord | 20.00% | ~10,022 |
-| Horde breaker | 20.00% | ~10,022 |
-| Trained | 20.00% | ~10,022 |
-| The king is pleased | 16.00% | ~8,018 |
+| Lawbringer | 35.00% | ~17,541 |
+| Landlord | 29.00% | ~14,534 |
+| Lawmaker | 21.00% | ~10,524 |
+| Bannerlord | 20.00% | ~10,023 |
+| Horde breaker | 20.00% | ~10,023 |
+| Trained | 20.00% | ~10,023 |
+| The king is pleased | 16.00% | ~8,019 |
 | King Solomon | 15.00% | ~7,517 |
 | I can do it | 14.00% | ~7,016 |
-| Apple of my eye | 13.00% | ~6,514 |
-| God of the Arena | 12.00% | ~6,013 |
+| Apple of my eye | 13.00% | ~6,515 |
+| God of the Arena | 12.00% | ~6,014 |
 | Against all odds | 9.00% | ~4,510 |
 | Swordbearer | 9.00% | ~4,510 |
 | Duelist | 8.00% | ~4,009 |
@@ -27,9 +27,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Mastery | 6.00% | ~3,007 |
 | Know your enemy | 5.00% | ~2,506 |
 | This Is Our Land | 5.00% | ~2,506 |
-| Crush your enemies | 4.00% | ~2,004 |
-| My way | 4.00% | ~2,004 |
-| Veni vidi vici | 4.00% | ~2,004 |
+| Crush your enemies | 4.00% | ~2,005 |
+| My way | 4.00% | ~2,005 |
+| Veni vidi vici | 4.00% | ~2,005 |
 | Crowdfunded | 3.00% | ~1,503 |
 | Freedom! | 3.00% | ~1,503 |
 | Entrepreneur | 2.00% | ~1,002 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,111 (Ranked 74)  
+Progressed: 50,116 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 49,864 | 0 |
 | 2023-05-15 | 49,956 | 0 |
 | 2023-05-16 | 50,039 | 0 |
-| 2023-05-17 | 50,111 | 0 |
+| 2023-05-17 | 50,116 | 0 |
 ## Awards
 Max (Character Customization): 6,542  (Ranked 49)  
 Sum: 13,053 (Ranked 68)  

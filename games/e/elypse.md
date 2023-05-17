@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pigeon | 200.00% | ~2 |
-| A bottomless pit | 200.00% | ~2 |
-| A path of no return | 200.00% | ~2 |
-| Baited | 200.00% | ~2 |
-| Splash! | 200.00% | ~2 |
-| "Swoosh" | 100.00% | ~1 |
-| The light at the end of the tunnel | 100.00% | ~1 |
-| Rooftop | 100.00% | ~1 |
-| Magnitude 5 | 100.00% | ~1 |
-| Hard Rock | 100.00% | ~1 |
-| Sensitive soul | 100.00% | ~1 |
+| Pigeon | 150.00% | ~3 |
+| A bottomless pit | 150.00% | ~3 |
+| A path of no return | 150.00% | ~3 |
+| Baited | 100.00% | ~2 |
+| Splash! | 100.00% | ~2 |
+| "Swoosh" | 50.00% | ~1 |
+| The light at the end of the tunnel | 50.00% | ~1 |
+| Rooftop | 50.00% | ~1 |
+| Magnitude 5 | 50.00% | ~1 |
+| Hard Rock | 50.00% | ~1 |
+| Sensitive soul | 50.00% | ~1 |
 | Full power | 0.00% | ~0 |
 | Abyssal God | 0.00% | ~0 |
 | Squid game | 0.00% | ~0 |
@@ -39,9 +39,9 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 383)  
+Progressed: 2 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-05-17 | 1 | 0 |
+| 2023-05-17 | 2 | 0 |

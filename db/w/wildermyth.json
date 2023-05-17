@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1177,
+  "EOS_Progressed": 1178,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2023-05-17T17:06:40.3439722+00:00",
       "NumProgressed": 1177,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-17T20:06:14.2617678+00:00",
+      "NumProgressed": 1178,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -520,7 +525,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -544,7 +549,7 @@
       "Name": "Completing the Look",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -600,7 +605,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -648,7 +653,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -696,7 +701,7 @@
       "Name": "War Endured",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "completedStory_legacy",
@@ -903,15 +908,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1177,
+      "Progressed": 1178,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:06:05.7340085+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:06:14.2617673+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.1630654+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:01:37.5786824+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:06:05.7340612+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:01:41.6570685+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:06:14.2618055+00:00"
 }

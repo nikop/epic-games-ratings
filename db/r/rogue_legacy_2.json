@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1083,9 +1083,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21535,
+  "EOS_Progressed": 21536,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2123,6 +2123,11 @@
       "Time": "2023-05-17T19:06:19.5953762+00:00",
       "NumProgressed": 21535,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-17T20:06:27.5573389+00:00",
+      "NumProgressed": 21536,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2308,9 +2313,9 @@
       "ID": "BossTowerDefeated",
       "SetID": "3ojhj46",
       "Name": "Suns and Soldiers",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "BoxerBoss",
@@ -2445,21 +2450,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21535,
+      "Progressed": 21536,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-17T13:59:27.0446563+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:06:19.5953755+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:06:27.5573384+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:03.489431+00:00",
-  "LastUpdate_Ratings": "2023-05-17T18:59:47.0835778+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:06:19.595413+00:00"
+  "LastUpdate_Ratings": "2023-05-17T19:59:48.0658706+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:06:27.5573709+00:00"
 }

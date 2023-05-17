@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2870,
+  "EOS_Progressed": 2871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2182,6 +2182,11 @@
       "Time": "2023-05-17T17:07:23.2159662+00:00",
       "NumProgressed": 2870,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T20:06:45.4116935+00:00",
+      "NumProgressed": 2871,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2233,7 +2238,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -2337,7 +2342,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -2449,7 +2454,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2465,7 +2470,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2512,15 +2517,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2870,
+      "Progressed": 2871,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:06:38.2305915+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:06:45.4116929+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:01:08.2410363+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:06:38.2306354+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:01:09.656811+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:06:45.4117233+00:00"
 }

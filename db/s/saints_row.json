@@ -2298,9 +2298,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28820,
+  "EOS_Progressed": 28842,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3501,
+  "EOS_NewPlayers": 3477,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4903,6 +4903,11 @@
       "Time": "2023-05-17T19:05:59.4127183+00:00",
       "NumProgressed": 28820,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-17T20:05:48.2967759+00:00",
+      "NumProgressed": 28842,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5008,17 +5013,17 @@
       "ID": "complete_first_side_hustle",
       "SetID": "3ib2d0i",
       "Name": "The Side Job",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "complete_first_wanted_mission",
       "SetID": "3ib2d0i",
       "Name": "Wet Work",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "complete_mission_1",
@@ -5040,9 +5045,9 @@
       "ID": "customize_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Optimized",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "cutting_edge_materials",
@@ -5120,9 +5125,9 @@
       "ID": "first_building_placed",
       "SetID": "3ib2d0i",
       "Name": "Landlord",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "fully_complete_a_building",
@@ -5192,9 +5197,9 @@
       "ID": "kill_enemy_with_tetherd_object",
       "SetID": "3ib2d0i",
       "Name": "Wrecking Ball",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -5208,9 +5213,9 @@
       "ID": "name_the_saints",
       "SetID": "3ib2d0i",
       "Name": "Making a Name",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "one_third_purple",
@@ -5248,9 +5253,9 @@
       "ID": "quadruple_backflip",
       "SetID": "3ib2d0i",
       "Name": "A Car Named Simone",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "route_66_attractions",
@@ -5337,22 +5342,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28820,
+      "Progressed": 28842,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 457,
-      "Completed": 396
+      "Progressed": 479,
+      "Completed": 398
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-16T18:59:03.5616429+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:05:59.412718+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:05:48.2967754+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:00:27.1272812+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:05:59.4127987+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:00:22.7297182+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:05:48.2968211+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 8.00% | ~708 |
 | Banner over the Citadel | 7.00% | ~619 |
 | Queen's Gratitude | 6.00% | ~531 |
-| Fifth Crusade | 4.00% | ~354 |
+| Fifth Crusade | 5.00% | ~442 |
 | Embrace of the Abyss | 3.00% | ~265 |
 | Path of the Angel | 3.00% | ~265 |
 | Path of the Azata | 3.00% | ~265 |

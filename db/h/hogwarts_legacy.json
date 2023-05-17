@@ -2472,9 +2472,9 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 267477,
+  "EOS_Progressed": 267486,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4997,6 +4997,11 @@
       "Time": "2023-05-17T19:03:26.9139965+00:00",
       "NumProgressed": 267477,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-05-17T20:03:30.794996+00:00",
+      "NumProgressed": 267486,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 45,
@@ -5048,7 +5053,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "PFA_15",
@@ -5144,7 +5149,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "PFA_26",
@@ -5176,7 +5181,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "PFA_3",
@@ -5208,7 +5213,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "PFA_33",
@@ -5288,7 +5293,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "PFA_42",
@@ -5296,7 +5301,7 @@
       "Name": "Raising Expectations",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "PFA_43",
@@ -5367,7 +5372,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267477,
+      "Progressed": 267486,
       "Completed": 363
     }
   ],
@@ -5375,8 +5380,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-17T17:57:18.7287641+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:03:26.9139958+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:03:30.7949957+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-17T18:57:17.4474958+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:03:26.9140659+00:00"
+  "LastUpdate_Ratings": "2023-05-17T19:57:19.0749431+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:03:30.7950351+00:00"
 }

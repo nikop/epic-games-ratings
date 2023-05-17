@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 658,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.84,
   "EosHistory": [
@@ -1358,9 +1358,9 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 217
     },
     {
       "ID": "23",
@@ -1374,9 +1374,9 @@
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 217
     },
     {
       "ID": "25",
@@ -1398,9 +1398,9 @@
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 237
     },
     {
       "ID": "28",
@@ -1446,9 +1446,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 250
     },
     {
       "ID": "33",
@@ -1655,8 +1655,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:05:54.4478407+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:05:43.4320042+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-17T18:57:29.4324431+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:05:54.4478925+00:00"
+  "LastUpdate_Ratings": "2023-05-17T19:57:29.0992071+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:05:43.4320432+00:00"
 }

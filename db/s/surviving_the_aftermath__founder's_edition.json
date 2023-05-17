@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5382,
+  "EOS_Progressed": 5383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3056,6 +3056,11 @@
       "Time": "2023-05-17T19:06:35.6343542+00:00",
       "NumProgressed": 5382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T20:06:42.7135845+00:00",
+      "NumProgressed": 5383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3067,7 +3072,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "10",
@@ -3099,7 +3104,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2853
     },
     {
       "ID": "14",
@@ -3147,7 +3152,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2853
     },
     {
       "ID": "2",
@@ -3163,7 +3168,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "21",
@@ -3179,7 +3184,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3767
+      "UsersEstimate": 3768
     },
     {
       "ID": "23",
@@ -3409,9 +3414,9 @@
       "ID": "49",
       "SetID": "8idi9ml",
       "Name": "Mentor",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1184
     },
     {
       "ID": "5",
@@ -3427,7 +3432,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "51",
@@ -3515,7 +3520,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "8",
@@ -3538,15 +3543,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5382,
+      "Progressed": 5383,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:06:35.6343536+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:06:42.7135841+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-17T19:00:50.1548006+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:06:35.6344254+00:00"
+  "LastUpdate_Ratings": "2023-05-17T20:00:53.2428583+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:06:42.7136409+00:00"
 }

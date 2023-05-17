@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Big Game Hunter | 0.50% | ~2 |
 | Instigator | 0.40% | ~2 |
-| Big Game Hunter | 0.40% | ~2 |
 | Bear Trap | 0.40% | ~2 |
 | Big Spender | 0.30% | ~1 |
 | Giving Back | 0.20% | ~25 |

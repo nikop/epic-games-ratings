@@ -16,12 +16,12 @@ Number of Ratings: 524  (23.09.2022)
 | Back! Back, I Say! | 9.00% | ~4,159 |
 | Finders Keepers | 9.00% | ~4,159 |
 | Paging Mr. Wake | 9.00% | ~4,159 |
-| Wheels Within Wheels | 8.00% | ~3,696 |
-| They're Heeeeeere! | 8.00% | ~3,696 |
-| The Six-Gun Scribe | 8.00% | ~3,696 |
-| Sound and Fury | 8.00% | ~3,696 |
-| Missed by a Mile | 8.00% | ~3,696 |
-| Damn Good Cup of Coffee | 8.00% | ~3,696 |
+| Wheels Within Wheels | 8.00% | ~3,697 |
+| They're Heeeeeere! | 8.00% | ~3,697 |
+| The Six-Gun Scribe | 8.00% | ~3,697 |
+| Sound and Fury | 8.00% | ~3,697 |
+| Missed by a Mile | 8.00% | ~3,697 |
+| Damn Good Cup of Coffee | 8.00% | ~3,697 |
 | A Friend in Need | 8.00% | ~774 |
 | Heavy Metal | 7.00% | ~3,234 |
 | Iron Horse | 7.00% | ~3,234 |
@@ -49,7 +49,7 @@ Number of Ratings: 524  (23.09.2022)
 | Heartbreaker | 3.00% | ~290 |
 | Boob Tube | 2.00% | ~924 |
 | Carny | 2.00% | ~924 |
-| Iron Will | 2.00% | ~193 |
+| Iron Will | 2.00% | ~194 |
 | Medical Opinions | 1.00% | ~462 |
 | Taken Season | 1.00% | ~462 |
 | An Idyllic Small Town | 1.00% | ~462 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,206 (Ranked 75)  
+Progressed: 46,207 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-14 | 46,171 | 44 |
 | 2023-05-15 | 46,186 | 44 |
 | 2023-05-16 | 46,196 | 44 |
-| 2023-05-17 | 46,206 | 44 |
+| 2023-05-17 | 46,207 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

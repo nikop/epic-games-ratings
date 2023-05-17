@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3760,10 +3760,10 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87788,
-  "EOS_Completed": 1848,
-  "EOS_NewPlayers": 704,
-  "EOS_NewCompleters": 26,
+  "EOS_Progressed": 87792,
+  "EOS_Completed": 1849,
+  "EOS_NewPlayers": 706,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -6290,6 +6290,11 @@
       "Time": "2023-05-17T19:06:44.0771181+00:00",
       "NumProgressed": 87788,
       "NumCompleted": 1848
+    },
+    {
+      "Time": "2023-05-17T20:06:50.7349569+00:00",
+      "NumProgressed": 87792,
+      "NumCompleted": 1849
     }
   ],
   "TotalAchievements": 493,
@@ -8779,9 +8784,9 @@
       "ID": "objective_completed_588",
       "SetID": "415jc5c",
       "Name": "Take Five",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_59",
@@ -10219,9 +10224,9 @@
       "ID": "objective_completed_1356",
       "SetID": "415jc5c",
       "Name": "Coasting to the Finish",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1360",
@@ -10235,30 +10240,30 @@
       "ID": "objective_completed_1361",
       "SetID": "415jc5c",
       "Name": "Quick or Quack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54062,
-      "Completed": 2517
+      "Progressed": 54066,
+      "Completed": 2519
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87788,
-      "Completed": 1848
+      "Progressed": 87792,
+      "Completed": 1849
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-17T18:58:19.5106395+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:06:44.0771171+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:06:50.7349564+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T18:58:19.5106403+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:06:44.0801593+00:00"
+  "LastUpdate_Ratings": "2023-05-17T19:58:15.3060978+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:06:50.7370518+00:00"
 }

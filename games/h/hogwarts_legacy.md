@@ -26,12 +26,12 @@ Rating: 4.77 (Ranked 103)
 | A Talent for Spending | 4.00% | ~10,699 |
 | Followed the Butterflies | 4.00% | ~10,699 |
 | The Spell Master | 4.00% | ~10,699 |
-| The Seeker of Knowledge | 3.00% | ~8,024 |
-| The Root of the Problem | 3.00% | ~8,024 |
-| Third Time's a Charm | 3.00% | ~8,024 |
-| Room with a View | 3.00% | ~8,024 |
-| The Ends Petrify the Means | 3.00% | ~8,024 |
-| Raising Expectations | 3.00% | ~8,024 |
+| The Seeker of Knowledge | 3.00% | ~8,025 |
+| The Root of the Problem | 3.00% | ~8,025 |
+| Third Time's a Charm | 3.00% | ~8,025 |
+| Room with a View | 3.00% | ~8,025 |
+| The Ends Petrify the Means | 3.00% | ~8,025 |
+| Raising Expectations | 3.00% | ~8,025 |
 | The Toast of the Town | 2.00% | ~5,350 |
 | Going Through the Potions | 2.00% | ~5,350 |
 | Floo Around the World | 2.00% | ~5,350 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,070 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,477 (Ranked 38)  
+Progressed: 267,486 (Ranked 38)  
 Completed: 363 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 363 (0.14%) (Ranked 149)
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
 | 2023-05-16 | 267,382 | 362 |
-| 2023-05-17 | 267,477 | 363 |
+| 2023-05-17 | 267,486 | 363 |
 ## Awards
 Max (Character Customization): 18,846  (Ranked 18)  
 Sum: 34,595 (Ranked 33)  

@@ -134,9 +134,9 @@
       "ID": "COLLECT_20_EVIDENCE",
       "SetID": "2lk004m",
       "Name": "Small-time Finder",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DIE_1_TIME",
@@ -150,9 +150,9 @@
       "ID": "DISPOSE_15_BODIES",
       "SetID": "2lk004m",
       "Name": "Business as usual",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
@@ -190,7 +190,7 @@
       "ID": "DLC01_ACHIEVEMENT05",
       "SetID": "5jieak",
       "Name": "The Crush And Smash The Dino Four",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -277,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-17T19:06:17.5920739+00:00",
+  "LastChanged_Achievements": "2023-05-17T20:06:25.5312026+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:08.4779178+00:00",
-  "LastUpdate_Ratings": "2023-05-17T18:59:56.4502537+00:00",
-  "LastUpdate_Achievements": "2023-05-17T19:06:17.5920939+00:00"
+  "LastUpdate_Ratings": "2023-05-17T19:59:54.2261616+00:00",
+  "LastUpdate_Achievements": "2023-05-17T20:06:25.5312221+00:00"
 }

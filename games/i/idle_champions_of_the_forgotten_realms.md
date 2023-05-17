@@ -314,6 +314,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.10% | ~88 |
 | On The Job Learning | 0.10% | ~88 |
 | Strike! | 0.10% | ~54 |
+| Take Five | 0.10% | ~54 |
 | Running of the Saurs | 0.10% | ~88 |
 | Lost in the Goblin Halls | 0.10% | ~88 |
 | Batiri in the Goblin Halls | 0.10% | ~88 |
@@ -491,17 +492,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 | The Court of Storms | 0.10% | ~54 |
+| Coasting to the Finish | 0.10% | ~54 |
 | Beware the Jabberwock | 0.10% | ~54 |
+| Quick or Quack | 0.10% | ~54 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Take Five | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Coasting to the Finish | 0.00% | ~0 |
-| Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,788 (Ranked 59)  
-Completed: 1,848 (2.11%) (Ranked 60)  
+Progressed: 87,792 (Ranked 59)  
+Completed: 1,849 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -527,7 +527,7 @@ Completed: 1,848 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,788 | 1,848 |
+| 2023-05-17 | 87,792 | 1,849 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,907 (Ranked 37)  
