@@ -170,7 +170,7 @@
 | 163 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 492 |
 | 163 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 0 | 492 |
 | 163 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 69 | 365 |
-| 163 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 311 | 223 |
+| 163 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 312 | 223 |
 | 163 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 492 |
 | 163 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 492 |
 | 163 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 492 |
@@ -242,7 +242,7 @@
 | 235 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 492 |
 | 235 | [Deceive Inc.](games/d/deceive_inc..md) | 4.68 | 0 | 492 |
 | 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,228 | 60 |
-| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,723 | 3 |
+| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,759 | 3 |
 | 235 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 170,579 | 5 |
 | 235 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 492 |
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 492 |
@@ -562,7 +562,7 @@
 | 554 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 232 |
 | 554 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 228 | 245 |
 | 554 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 492 |
-| 554 | [Maneater](games/m/maneater.md) | 4.49 | 13,449 | 24 |
+| 554 | [Maneater](games/m/maneater.md) | 4.49 | 13,452 | 24 |
 | 554 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 611 | 163 |
 | 554 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 492 |
 | 554 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 345 |
