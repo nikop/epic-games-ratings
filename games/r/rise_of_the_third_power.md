@@ -13,8 +13,8 @@
 | Specialist | 34.00% | ~40 |
 | Opulent | 33.00% | ~39 |
 | Sparkly | 30.00% | ~36 |
+| Teamwork | 24.00% | ~29 |
 | Ready to Rock | 23.00% | ~27 |
-| Teamwork | 23.00% | ~27 |
 | Determined | 21.00% | ~25 |
 | Beginning of the End | 19.00% | ~23 |
 | Bling | 18.00% | ~21 |

@@ -49,7 +49,7 @@
 | Pro Moolotover | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 279)  
+Progressed: 52 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

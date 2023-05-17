@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 20950,
+  "EOS_Progressed": 20953,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2761,6 +2761,11 @@
       "Time": "2023-05-17T16:06:22.5605822+00:00",
       "NumProgressed": 20950,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-17T17:07:10.1956983+00:00",
+      "NumProgressed": 20953,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2780,7 +2785,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4190
+      "UsersEstimate": 4191
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2954,9 +2959,9 @@
       "ID": "ACH_25_TALISMAN_COMPLETE",
       "SetID": "443p4o4",
       "Name": "That\u0027ll Come In Handy...",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -3003,7 +3008,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 20950,
+      "Progressed": 20953,
       "Completed": 16
     }
   ],
@@ -3011,8 +3016,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:06:22.5605816+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:07:10.1956977+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:00:24.0529121+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:06:22.5606175+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:01:34.489922+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:07:10.1957505+00:00"
 }

@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516825,
+  "EOS_Progressed": 1516834,
   "EOS_Completed": 606,
-  "EOS_NewPlayers": 1323,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3025,6 +3025,11 @@
       "Time": "2023-05-17T16:01:13.6861697+00:00",
       "NumProgressed": 1516825,
       "NumCompleted": 606
+    },
+    {
+      "Time": "2023-05-17T17:02:39.1341791+00:00",
+      "NumProgressed": 1516834,
+      "NumCompleted": 606
     }
   ],
   "TotalAchievements": 20,
@@ -3052,7 +3057,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30336
+      "UsersEstimate": 30337
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -3084,7 +3089,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 136514
+      "UsersEstimate": 136515
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -3108,7 +3113,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30336
+      "UsersEstimate": 30337
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -3124,7 +3129,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30336
+      "UsersEstimate": 30337
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -3132,7 +3137,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151682
+      "UsersEstimate": 151683
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -3148,7 +3153,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121346
+      "UsersEstimate": 121347
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -3180,7 +3185,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75841
+      "UsersEstimate": 75842
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -3188,22 +3193,22 @@
       "Name": "Washing Machine",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 4550
+      "UsersEstimate": 4551
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1516825,
+      "Progressed": 1516834,
       "Completed": 606
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:01:13.6861692+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:02:39.1341783+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.7394244+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:00:32.238727+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:01:13.6862046+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:01:43.7750721+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:02:39.134235+00:00"
 }

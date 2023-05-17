@@ -205,9 +205,9 @@
       "ID": "Teamwork",
       "SetID": "4nce15l",
       "Name": "Teamwork",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
@@ -222,8 +222,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:06:09.0898001+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:06:46.2162955+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:54.8396089+00:00",
-  "LastUpdate_Ratings": "2023-05-17T15:59:11.8757293+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:06:09.0898137+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:00:02.3630429+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:06:46.2163117+00:00"
 }

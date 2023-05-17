@@ -14,6 +14,7 @@ Rating: 4.18 (Ranked 825)
 | Parole Denied | 0.20% | ~1 |
 | The Commonality | 0.20% | ~25 |
 | Float Like A Butterfly | 0.20% | ~25 |
+| Mugshot | 0.20% | ~25 |
 | Hoard Mode | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~0 |
@@ -33,7 +34,6 @@ Rating: 4.18 (Ranked 825)
 | Workplace Hazard | 0.10% | ~13 |
 | Reforged | 0.10% | ~13 |
 | Paper Jams | 0.10% | ~13 |
-| Mugshot | 0.10% | ~13 |
 | The Outer Way | 0.10% | ~13 |
 | If the SHU Fits... | 0.10% | ~13 |
 | Without A Paddle | 0.10% | ~13 |

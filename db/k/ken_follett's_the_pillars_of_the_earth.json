@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12487,
+  "EOS_Progressed": 12488,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -2050,6 +2050,11 @@
       "Time": "2023-05-17T16:05:28.09677+00:00",
       "NumProgressed": 12487,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-17T17:06:25.2741811+00:00",
+      "NumProgressed": 12488,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2101,7 +2106,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4370
+      "UsersEstimate": 4371
     },
     {
       "ID": "tpote_achievement_15",
@@ -2149,7 +2154,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4370
+      "UsersEstimate": 4371
     },
     {
       "ID": "tpote_achievement_20",
@@ -2173,7 +2178,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "tpote_achievement_23",
@@ -2197,7 +2202,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "tpote_achievement_26",
@@ -2285,7 +2290,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "tpote_achievement_36",
@@ -2309,7 +2314,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "tpote_achievement_39",
@@ -2381,22 +2386,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12487,
+      "Progressed": 12488,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:05:28.0967695+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:06:25.2741805+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:00:22.7934983+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:05:28.0968149+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:01:32.286721+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:06:25.2742383+00:00"
 }

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1908,
+  "EOS_Progressed": 1909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -712,6 +712,11 @@
       "Time": "2023-05-16T23:04:40.7838633+00:00",
       "NumProgressed": 1908,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T17:06:32.6340294+00:00",
+      "NumProgressed": 1909,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1145,7 +1150,7 @@
       "ID": "ACH_BASE_64",
       "SetID": "7a6m2da",
       "Name": "I Give You the Stars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
       "UsersEstimate": 0
     },
@@ -1178,13 +1183,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 88,
-      "Completed": 3
+      "Progressed": 90,
+      "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1908,
+      "Progressed": 1909,
       "Completed": 0
     }
   ],
@@ -1192,8 +1197,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:05:34.1521926+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:06:32.6340286+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-17T15:58:33.0174946+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:05:34.1522557+00:00"
+  "LastUpdate_Ratings": "2023-05-17T16:59:11.6761504+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:06:32.6341105+00:00"
 }

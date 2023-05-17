@@ -1467,9 +1467,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42283,
+  "EOS_Progressed": 42284,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2037,6 +2037,11 @@
       "Time": "2023-05-17T15:07:19.1729033+00:00",
       "NumProgressed": 42283,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-17T17:07:25.3353751+00:00",
+      "NumProgressed": 42284,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -2104,7 +2109,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11839
+      "UsersEstimate": 11840
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -2128,7 +2133,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3806
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -2160,7 +2165,7 @@
       "Name": "People don\u0027t change. We go round in circles",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "SE_COMPLETE_HELLBASE",
@@ -2192,7 +2197,7 @@
       "Name": "The blighters got through a second time.",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_HELLBASE",
@@ -2240,7 +2245,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26215
+      "UsersEstimate": 26216
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2256,7 +2261,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 13953
+      "UsersEstimate": 13954
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -2376,7 +2381,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28752
+      "UsersEstimate": 28753
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2400,7 +2405,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19450
+      "UsersEstimate": 19451
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -2408,7 +2413,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23678
+      "UsersEstimate": 23679
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2416,7 +2421,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19450
+      "UsersEstimate": 19451
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -2432,7 +2437,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11416
+      "UsersEstimate": 11417
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -2448,7 +2453,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27484
+      "UsersEstimate": 27485
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2488,7 +2493,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14376
+      "UsersEstimate": 14377
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -2504,7 +2509,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27484
+      "UsersEstimate": 27485
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -2520,7 +2525,7 @@
       "Name": "I\u0027m a survivor!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "SE_REACH_WAVE_X_WITH_PISTOL",
@@ -2552,7 +2557,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -2575,15 +2580,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42283,
+      "Progressed": 42284,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-17T11:59:57.0848341+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:06:35.4675463+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:07:25.3353745+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.0993815+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:00:13.8996939+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:06:35.4676026+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:01:21.5925005+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:07:25.3354404+00:00"
 }

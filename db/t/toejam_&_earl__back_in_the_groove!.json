@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54478,
+  "EOS_Progressed": 54482,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1787,6 +1787,11 @@
       "Time": "2023-05-17T16:06:33.3307908+00:00",
       "NumProgressed": 54478,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-17T17:07:22.8530869+00:00",
+      "NumProgressed": 54482,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -1862,7 +1867,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "FlyingPresent",
@@ -1886,7 +1891,7 @@
       "Name": "Food Taster",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "FoolMeTwice",
@@ -2189,7 +2194,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54478,
+      "Progressed": 54482,
       "Completed": 4
     }
   ],
@@ -2197,8 +2202,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:06:33.3307903+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:07:22.8530865+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.6185244+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:01:08.2020075+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:06:33.3308383+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:02:30.8513651+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:07:22.8531382+00:00"
 }

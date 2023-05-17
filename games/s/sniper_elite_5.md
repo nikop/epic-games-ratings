@@ -7,6 +7,7 @@ Rating: 4.40 (Ranked 669)
 | ---- | ---------- | ----- |
 | Sink or Swim | 0.30% | ~2 |
 | Precision Is Key | 0.10% | ~1 |
+| Last Resort | 0.10% | ~1 |
 | Climbing the Ladder | 0.00% | ~0 |
 | Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
@@ -67,7 +68,6 @@ Rating: 4.40 (Ranked 669)
 | Herr Today, Gone Tomorrow | 0.00% | ~0 |
 | Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
-| Last Resort | 0.00% | ~0 |
 | Siegebreaker | 0.00% | ~0 |
 | Ghost of Falaise | 0.00% | ~0 |
 | Operation Overlord | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 669)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726 (Ranked 176)  
+Progressed: 727 (Ranked 176)  
 Completed: 2 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 2 (0.28%) (Ranked 128)
 | 2023-05-14 | 717 | 2 |
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
-| 2023-05-17 | 726 | 2 |
+| 2023-05-17 | 727 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

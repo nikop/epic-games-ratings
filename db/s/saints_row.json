@@ -2298,9 +2298,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28760,
+  "EOS_Progressed": 28776,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3561,
+  "EOS_NewPlayers": 3547,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4888,6 +4888,11 @@
       "Time": "2023-05-17T16:05:35.3448996+00:00",
       "NumProgressed": 28760,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-17T17:06:33.928666+00:00",
+      "NumProgressed": 28776,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -4897,17 +4902,17 @@
       "ID": "aquire_every_perk",
       "SetID": "3ib2d0i",
       "Name": "Jack of All Trades",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "beat_all_wingsuit_challenges",
       "SetID": "3ib2d0i",
       "Name": "It\u0027s a Bird!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "beat_loyalty_missions",
@@ -4929,9 +4934,9 @@
       "ID": "car_jacked_by_a_ped",
       "SetID": "3ib2d0i",
       "Name": "Hijacked",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -4961,25 +4966,25 @@
       "ID": "complete_all_of_wanted",
       "SetID": "3ib2d0i",
       "Name": "The Professional",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "complete_all_side_hustles",
       "SetID": "3ib2d0i",
       "Name": "Always Be Hustling",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "complete_challenge_packs",
       "SetID": "3ib2d0i",
       "Name": "Challenge Accepted",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "complete_final_mission",
@@ -5041,17 +5046,17 @@
       "ID": "defeat_the_collective",
       "SetID": "3ib2d0i",
       "Name": "Chaos Tamer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "destroy_car_with_fist_cannon",
       "SetID": "3ib2d0i",
       "Name": "Bonus Round",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "disorganized_crime_instaces",
@@ -5161,9 +5166,9 @@
       "ID": "infinite_boost_refill",
       "SetID": "3ib2d0i",
       "Name": "Free Refills",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "kill_each_faction_miniboss",
@@ -5201,9 +5206,9 @@
       "ID": "one_third_purple",
       "SetID": "3ib2d0i",
       "Name": "Neighborly",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "own_100_pieces_of_clothing",
@@ -5225,9 +5230,9 @@
       "ID": "purchase_2_emotes",
       "SetID": "3ib2d0i",
       "Name": "Smooth Moves",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "quadruple_backflip",
@@ -5241,9 +5246,9 @@
       "ID": "route_66_attractions",
       "SetID": "3ib2d0i",
       "Name": "Tourist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "staggered_by_vending_machine",
@@ -5257,9 +5262,9 @@
       "ID": "two_thirds_purple",
       "SetID": "3ib2d0i",
       "Name": "Community Outreach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "unlock_all_vehicle_specials",
@@ -5289,9 +5294,9 @@
       "ID": "whole_map_purple",
       "SetID": "3ib2d0i",
       "Name": "All Mine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "bfhj_complete_mission_1_collectible",
@@ -5322,22 +5327,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28760,
+      "Progressed": 28776,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 397,
-      "Completed": 390
+      "Progressed": 413,
+      "Completed": 392
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-16T18:59:03.5616429+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:05:35.344899+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:06:33.9286653+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-17T15:59:58.8269648+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:05:35.3449591+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:01:04.8007806+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:06:33.9287696+00:00"
 }

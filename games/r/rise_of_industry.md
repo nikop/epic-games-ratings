@@ -5,21 +5,21 @@ Rating: 4.23 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~314,553 |
-| Well educated | 37.00% | ~247,627 |
-| City Planner | 19.00% | ~127,160 |
-| Deforester | 16.00% | ~107,082 |
-| Big Hauling | 15.00% | ~100,389 |
-| Exporter | 13.00% | ~87,004 |
-| I would drive 500 tiles... | 12.00% | ~80,311 |
-| Apprentice Manufacturer | 12.00% | ~80,311 |
-| Landscaper | 11.00% | ~73,619 |
-| Railwayman | 7.00% | ~46,848 |
-| Penniless | 6.00% | ~40,156 |
-| Massive Gains | 6.00% | ~40,156 |
-| Engineer | 2.00% | ~13,385 |
-| Salesman | 2.00% | ~13,385 |
-| High Flyer | 2.00% | ~13,385 |
+| Entrepreneur | 47.00% | ~314,569 |
+| Well educated | 37.00% | ~247,640 |
+| City Planner | 19.00% | ~127,166 |
+| Deforester | 16.00% | ~107,087 |
+| Big Hauling | 15.00% | ~100,394 |
+| Exporter | 13.00% | ~87,008 |
+| I would drive 500 tiles... | 12.00% | ~80,316 |
+| Apprentice Manufacturer | 12.00% | ~80,316 |
+| Landscaper | 11.00% | ~73,623 |
+| Railwayman | 7.00% | ~46,851 |
+| Penniless | 6.00% | ~40,158 |
+| Massive Gains | 6.00% | ~40,158 |
+| Engineer | 2.00% | ~13,386 |
+| Salesman | 2.00% | ~13,386 |
+| High Flyer | 2.00% | ~13,386 |
 | Captain | 0.70% | ~4,685 |
 | Billionaire | 0.60% | ~4,016 |
 | Vroom Vroom | 0.40% | ~2,677 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 794)
 | Master Builder | 0.10% | ~669 |
 | Hard working | 0.10% | ~669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,261 (Ranked 17)  
+Progressed: 669,296 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-14 | 667,577 | 1 |
 | 2023-05-15 | 668,254 | 1 |
 | 2023-05-16 | 668,875 | 1 |
-| 2023-05-17 | 669,261 | 1 |
+| 2023-05-17 | 669,296 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

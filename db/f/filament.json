@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 190093,
+  "EOS_Progressed": 190099,
   "EOS_Completed": 423,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2745,6 +2745,11 @@
       "Time": "2023-05-17T16:06:03.3372112+00:00",
       "NumProgressed": 190093,
       "NumCompleted": 423
+    },
+    {
+      "Time": "2023-05-17T17:06:42.6878883+00:00",
+      "NumProgressed": 190099,
+      "NumCompleted": 423
     }
   ],
   "TotalAchievements": 29,
@@ -2780,7 +2785,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 178687
+      "UsersEstimate": 178693
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -2940,7 +2945,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19009
+      "UsersEstimate": 19010
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -2987,7 +2992,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 190093,
+      "Progressed": 190099,
       "Completed": 423
     }
   ],
@@ -2995,8 +3000,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-05-15T09:58:34.8225055+00:00",
-  "LastChanged_Achievements": "2023-05-17T16:06:03.3372107+00:00",
+  "LastChanged_Achievements": "2023-05-17T17:06:42.6878877+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:42.6671545+00:00",
-  "LastUpdate_Ratings": "2023-05-17T15:58:58.0325745+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:06:03.3372474+00:00"
+  "LastUpdate_Ratings": "2023-05-17T16:59:42.574532+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:06:42.6879484+00:00"
 }

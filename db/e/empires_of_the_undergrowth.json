@@ -2,7 +2,7 @@
   "ID": "4c436646d6f0400da483546a70e3a6e0",
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 115,
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 405,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "NumberOfRatings": 212,
   "RatingHistory": [
     {
@@ -617,6 +617,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 376,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-05-17T17:01:45.4575367+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 376,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
@@ -714,8 +720,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2023-05-13T17:00:07.6006677+00:00",
+  "LastChanged": "2023-05-17T17:01:45.4575364+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:01.2914748+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:00:35.537807+00:00",
-  "LastUpdate_Achievements": "2023-05-17T16:05:04.7372846+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:01:45.4575372+00:00",
+  "LastUpdate_Achievements": "2023-05-17T17:05:46.0820727+00:00"
 }
