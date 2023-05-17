@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -273,9 +273,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -304,8 +304,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:05:12.1960084+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:04:44.0126712+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-17T04:57:11.3299038+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:05:12.1960229+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:57:06.3680672+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:04:44.0126788+00:00"
 }

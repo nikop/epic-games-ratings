@@ -6406,9 +6406,9 @@
       "ID": "40_CustomTrophy_H4",
       "SetID": "adcm20g",
       "Name": "Take damage to save time",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4921
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -6508,8 +6508,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-16T20:59:05.0815079+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:05:49.3952487+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:05:16.084698+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-17T04:59:02.3384816+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:05:49.3953047+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:58:41.4044974+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:05:16.0847445+00:00"
 }

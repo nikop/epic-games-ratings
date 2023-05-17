@@ -2,7 +2,7 @@
   "ID": "59c7280154cc4fe1a7c3a4a7d6f74adf",
   "Name": "Strawhart",
   "ProductSlug": "strawhart-776f4d",
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 74,
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -37,6 +37,11 @@
     {
       "Time": "2023-04-25T16:10:04.1466406+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T06:05:17.0803609+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -55,7 +60,7 @@
       "ID": "ACH_ARCHIVE_BUILT",
       "SetID": "64pp6bc",
       "Name": "The Archive is Incomplete",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -63,7 +68,7 @@
       "ID": "ACH_ARCHIVE_FOUND",
       "SetID": "64pp6bc",
       "Name": "Master Archivist",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -71,7 +76,7 @@
       "ID": "ACH_CIPHER_COLLECT",
       "SetID": "64pp6bc",
       "Name": "The Cipher Way",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "ACH_CRATES",
       "SetID": "64pp6bc",
       "Name": "Cratepocalipse",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -87,7 +92,7 @@
       "ID": "ACH_CRITTERINA_RESCUE",
       "SetID": "64pp6bc",
       "Name": "Wingman",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -95,7 +100,7 @@
       "ID": "ACH_CRITTER_RESCUE",
       "SetID": "64pp6bc",
       "Name": "Activist",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -111,7 +116,7 @@
       "ID": "ACH_FLIGHT_RITUAL",
       "SetID": "64pp6bc",
       "Name": "The Power of... Flight?",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -119,7 +124,7 @@
       "ID": "ACH_HIDE_SEEK",
       "SetID": "64pp6bc",
       "Name": "Petting Zoo",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "ACH_SHARD_1_RITUAL",
       "SetID": "64pp6bc",
       "Name": "Geneva Suggestion",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -151,7 +156,7 @@
       "ID": "ACH_SHARD_2",
       "SetID": "64pp6bc",
       "Name": "Cold Poultry",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -159,7 +164,7 @@
       "ID": "ACH_SHARD_3",
       "SetID": "64pp6bc",
       "Name": "Critical Infrastructure",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -167,7 +172,7 @@
       "ID": "ACH_SIBBOLETH_ENTER",
       "SetID": "64pp6bc",
       "Name": "Through the Heavenly Gate",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -175,7 +180,7 @@
       "ID": "ACH_SPRINT_UNLOCKED",
       "SetID": "64pp6bc",
       "Name": "Where\u0027s the Sprint Button?",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -191,7 +196,7 @@
       "ID": "ACH_STRAWHART_AWAKEN",
       "SetID": "64pp6bc",
       "Name": "What could possibly go wrong?",
-      "Percentage": 83,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -199,7 +204,7 @@
       "ID": "ACH_STRAWHART_DEFEAT",
       "SetID": "64pp6bc",
       "Name": "The Bigger They Are...",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -207,7 +212,7 @@
       "ID": "ACH_STRAWHART_DENY",
       "SetID": "64pp6bc",
       "Name": "Daemon Deferred",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     }
@@ -216,7 +221,7 @@
     {
       "ID": "64pp6bc",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
@@ -224,8 +229,8 @@
   "FirstSeenRating": "2023-04-21T23:57:25.9719541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.1466412+00:00",
   "LastChanged": "2023-04-21T23:57:25.9719541+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:05:50.5948308+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:05:17.0803605+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:46.8442762+00:00",
-  "LastUpdate_Ratings": "2023-05-17T04:59:54.3800479+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:05:50.5948437+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:59:25.7046119+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:05:17.080393+00:00"
 }

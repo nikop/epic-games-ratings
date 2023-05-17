@@ -6,15 +6,15 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,754 |
+| First Step | 70.00% | ~3,755 |
 | Leader | 60.00% | ~3,218 |
-| Explorer | 53.00% | ~2,842 |
-| Healer | 53.00% | ~2,842 |
-| Aspiring Inventor | 45.00% | ~2,413 |
+| Explorer | 53.00% | ~2,843 |
+| Healer | 53.00% | ~2,843 |
+| Aspiring Inventor | 45.00% | ~2,414 |
 | Adventurer | 41.00% | ~2,199 |
 | Famous Healer | 38.00% | ~2,038 |
 | Local Leader | 35.00% | ~1,877 |
-| New Opportunities | 34.00% | ~1,823 |
+| New Opportunities | 34.00% | ~1,824 |
 | Famous Explorer | 33.00% | ~1,770 |
 | Energized | 33.00% | ~1,770 |
 | The Long Haul | 33.00% | ~1,770 |
@@ -25,7 +25,7 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 27.00% | ~1,448 |
 | Finders, Keepers | 25.00% | ~1,341 |
 | Top Notch | 24.00% | ~1,287 |
-| Mentor | 23.00% | ~1,233 |
+| Mentor | 23.00% | ~1,234 |
 | Great Leader | 22.00% | ~1,180 |
 | Ice Lakes | 22.00% | ~1,180 |
 | Merchant | 21.00% | ~1,126 |
@@ -35,7 +35,7 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 16.00% | ~858 |
 | Big Game Hunter | 16.00% | ~858 |
 | Spreading Influence | 16.00% | ~858 |
-| Around the World | 15.00% | ~804 |
+| Around the World | 15.00% | ~805 |
 | Bookworm | 14.00% | ~751 |
 | Famous Adventurer | 13.00% | ~697 |
 | Prepared for Anything | 13.00% | ~697 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,363 (Ranked 120)  
+Progressed: 5,364 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 5,285 | 0 |
 | 2023-05-15 | 5,326 | 0 |
 | 2023-05-16 | 5,356 | 0 |
-| 2023-05-17 | 5,363 | 0 |
+| 2023-05-17 | 5,364 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 269)  

@@ -1450,9 +1450,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 363169,
+  "EOS_Progressed": 363172,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8163,
+  "EOS_NewPlayers": 8134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3995,6 +3995,11 @@
       "Time": "2023-05-17T05:05:35.9720065+00:00",
       "NumProgressed": 363169,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-17T06:05:04.4007547+00:00",
+      "NumProgressed": 363172,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 37,
@@ -4078,7 +4083,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 112582
+      "UsersEstimate": 112583
     },
     {
       "ID": "19",
@@ -4086,7 +4091,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 268745
+      "UsersEstimate": 268747
     },
     {
       "ID": "2",
@@ -4110,7 +4115,7 @@
       "Name": "Killing Spree",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 79897
+      "UsersEstimate": 79898
     },
     {
       "ID": "22",
@@ -4166,7 +4171,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 43580
+      "UsersEstimate": 43581
     },
     {
       "ID": "29",
@@ -4198,7 +4203,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 141636
+      "UsersEstimate": 141637
     },
     {
       "ID": "32",
@@ -4230,7 +4235,7 @@
       "Name": "You Complete Me",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 148899
+      "UsersEstimate": 148901
     },
     {
       "ID": "36",
@@ -4246,7 +4251,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 163426
+      "UsersEstimate": 163427
     },
     {
       "ID": "4",
@@ -4254,7 +4259,7 @@
       "Name": "Fantastic Four",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 76265
+      "UsersEstimate": 76266
     },
     {
       "ID": "5",
@@ -4270,7 +4275,7 @@
       "Name": "Pacifist",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 18158
+      "UsersEstimate": 18159
     },
     {
       "ID": "7",
@@ -4301,7 +4306,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 363169,
+      "Progressed": 363172,
       "Completed": 8
     }
   ],
@@ -4309,8 +4314,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-05-17T03:58:28.9183943+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:05:35.9720057+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:05:04.4007544+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:29.427779+00:00",
-  "LastUpdate_Ratings": "2023-05-17T04:58:34.9051569+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:05:35.9720563+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:58:18.6991614+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:05:04.4007856+00:00"
 }

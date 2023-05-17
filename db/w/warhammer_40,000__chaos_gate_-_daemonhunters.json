@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -510,9 +510,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2602,
+  "EOS_Progressed": 2603,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -810,6 +810,11 @@
       "Time": "2023-05-16T18:05:35.3549503+00:00",
       "NumProgressed": 2602,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T06:05:15.995587+00:00",
+      "NumProgressed": 2603,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -835,9 +840,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 729
     },
     {
       "ID": "BloodAndIron",
@@ -1053,7 +1058,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "Kills_Vakir",
@@ -1069,7 +1074,7 @@
       "Name": "An Ill Omen",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1292,21 +1297,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2602,
+      "Progressed": 2603,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2602,
+      "Progressed": 2603,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-08T20:00:29.2116217+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:05:49.331731+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:05:15.9955866+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:33.8980479+00:00",
-  "LastUpdate_Ratings": "2023-05-17T04:58:39.0593728+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:05:49.3318004+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:58:22.1266476+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:05:15.9956387+00:00"
 }

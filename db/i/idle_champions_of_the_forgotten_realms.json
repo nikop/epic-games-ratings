@@ -3748,9 +3748,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87730,
+  "EOS_Progressed": 87734,
   "EOS_Completed": 1847,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6213,6 +6213,11 @@
       "Time": "2023-05-17T05:06:09.6757633+00:00",
       "NumProgressed": 87730,
       "NumCompleted": 1847
+    },
+    {
+      "Time": "2023-05-17T06:05:34.2967586+00:00",
+      "NumProgressed": 87734,
+      "NumCompleted": 1847
     }
   ],
   "TotalAchievements": 493,
@@ -6390,9 +6395,9 @@
       "ID": "objective_completed_1065",
       "SetID": "415jc5c",
       "Name": "Hither of the Feywild",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1066",
@@ -6654,9 +6659,9 @@
       "ID": "objective_completed_111",
       "SetID": "cc37lbc",
       "Name": "Hatchlings Underfoot",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_1111",
@@ -6694,9 +6699,9 @@
       "ID": "objective_completed_112",
       "SetID": "cc37lbc",
       "Name": "Don\u0027t Look Up!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_1121",
@@ -6758,9 +6763,9 @@
       "ID": "objective_completed_1137",
       "SetID": "415jc5c",
       "Name": "The Roots of Loomlurch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1138",
@@ -6846,9 +6851,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1153",
@@ -7230,9 +7235,9 @@
       "ID": "objective_completed_1325",
       "SetID": "415jc5c",
       "Name": "The Minions of Endelyn Moongrave",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1326",
@@ -7718,9 +7723,9 @@
       "ID": "objective_completed_248",
       "SetID": "cc37lbc",
       "Name": "Form Ranks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_249",
@@ -7758,9 +7763,9 @@
       "ID": "objective_completed_254",
       "SetID": "415jc5c",
       "Name": "Mongrelfolk Incursion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_262",
@@ -7926,9 +7931,9 @@
       "ID": "objective_completed_37",
       "SetID": "cc37lbc",
       "Name": "Treasure Hunters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_378",
@@ -7950,9 +7955,9 @@
       "ID": "objective_completed_380",
       "SetID": "cc37lbc",
       "Name": "Air\u0027s Getting Pretty Thin",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_381",
@@ -7998,9 +8003,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_389",
@@ -8446,9 +8451,9 @@
       "ID": "objective_completed_550",
       "SetID": "cc37lbc",
       "Name": "Lair of the Xanathar",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_551",
@@ -8462,9 +8467,9 @@
       "ID": "objective_completed_552",
       "SetID": "cc37lbc",
       "Name": "Feigned Weakness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_553",
@@ -8790,9 +8795,9 @@
       "ID": "objective_completed_601",
       "SetID": "cc37lbc",
       "Name": "Everything is Awful",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_602",
@@ -8902,9 +8907,9 @@
       "ID": "objective_completed_617",
       "SetID": "415jc5c",
       "Name": "Ettercap Swarm",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_618",
@@ -9102,9 +9107,9 @@
       "ID": "objective_completed_647",
       "SetID": "415jc5c",
       "Name": "Best Friend Search Squad!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_648",
@@ -9246,9 +9251,9 @@
       "ID": "objective_completed_680",
       "SetID": "415jc5c",
       "Name": "Into the Unknown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_681",
@@ -9446,9 +9451,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_802",
@@ -9590,9 +9595,9 @@
       "ID": "objective_completed_828",
       "SetID": "415jc5c",
       "Name": "Mimic Perception",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_829",
@@ -10118,9 +10123,9 @@
       "ID": "objective_completed_97",
       "SetID": "cc37lbc",
       "Name": "Overwhelming Force",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_99",
@@ -10167,21 +10172,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54004,
+      "Progressed": 54008,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87730,
+      "Progressed": 87734,
       "Completed": 1847
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:06:09.675763+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:05:34.296758+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T04:58:02.9134202+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:06:09.6785677+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:57:49.8325421+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:05:34.2989017+00:00"
 }

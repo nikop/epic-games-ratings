@@ -4656,7 +4656,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 781426,
+  "EOS_Progressed": 781428,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 0,
@@ -7146,6 +7146,11 @@
       "Time": "2023-05-17T05:05:44.7290152+00:00",
       "NumProgressed": 781426,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-17T06:05:12.1521796+00:00",
+      "NumProgressed": 781428,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -7189,7 +7194,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 156285
+      "UsersEstimate": 156286
     },
     {
       "ID": "BadGirl",
@@ -7237,7 +7242,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 242242
+      "UsersEstimate": 242243
     },
     {
       "ID": "Bookworm",
@@ -7269,7 +7274,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 195356
+      "UsersEstimate": 195357
     },
     {
       "ID": "Chivalrous",
@@ -7437,7 +7442,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70328
+      "UsersEstimate": 70329
     },
     {
       "ID": "HardcoreHenry",
@@ -7477,7 +7482,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 101585
+      "UsersEstimate": 101586
     },
     {
       "ID": "Judas",
@@ -7637,7 +7642,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156285
+      "UsersEstimate": 156286
     },
     {
       "ID": "RevenantOfLedechko",
@@ -7677,7 +7682,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156285
+      "UsersEstimate": 156286
     },
     {
       "ID": "SerialKiller",
@@ -7812,15 +7817,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 781426,
+      "Progressed": 781428,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-05-17T03:58:14.0874365+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:05:44.7290147+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:05:12.1521794+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.3995489+00:00",
-  "LastUpdate_Ratings": "2023-05-17T04:58:22.1230472+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:05:44.729152+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:58:08.1723757+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:05:12.1522717+00:00"
 }

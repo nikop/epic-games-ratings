@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12477,
+  "EOS_Progressed": 12478,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -2015,6 +2015,11 @@
       "Time": "2023-05-17T04:05:14.898642+00:00",
       "NumProgressed": 12477,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-17T06:04:48.1452221+00:00",
+      "NumProgressed": 12478,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2026,7 +2031,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "tpote_achievement_10",
@@ -2042,7 +2047,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "tpote_achievement_12",
@@ -2098,7 +2103,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "tpote_achievement_19",
@@ -2138,7 +2143,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "tpote_achievement_23",
@@ -2154,7 +2159,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "tpote_achievement_25",
@@ -2202,7 +2207,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4117
+      "UsersEstimate": 4118
     },
     {
       "ID": "tpote_achievement_30",
@@ -2290,7 +2295,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5240
+      "UsersEstimate": 5241
     },
     {
       "ID": "tpote_achievement_40",
@@ -2314,7 +2319,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "tpote_achievement_6",
@@ -2322,7 +2327,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "tpote_achievement_7",
@@ -2353,15 +2358,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12477,
+      "Progressed": 12478,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:05:16.9737569+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:04:48.1452217+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-17T05:00:01.092979+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:05:16.9737986+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:59:30.3066462+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:04:48.1452553+00:00"
 }

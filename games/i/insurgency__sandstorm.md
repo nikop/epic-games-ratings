@@ -24,25 +24,25 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~3,695 |
 | Ruthless | 1.00% | ~3,695 |
 | Semper Paratus | 1.00% | ~3,695 |
-| Carrying | 0.90% | ~3,325 |
-| Mount & Gun | 0.90% | ~3,325 |
-| Personal | 0.90% | ~3,325 |
+| Carrying | 0.90% | ~3,326 |
+| Mount & Gun | 0.90% | ~3,326 |
+| Personal | 0.90% | ~3,326 |
 | Grounded | 0.80% | ~2,956 |
 | Play to Win | 0.80% | ~2,956 |
-| #1 | 0.70% | ~2,586 |
-| Special Delivery | 0.70% | ~2,586 |
+| #1 | 0.70% | ~2,587 |
+| Special Delivery | 0.70% | ~2,587 |
 | Firefight Victory | 0.60% | ~2,217 |
-| Cinematic | 0.50% | ~1,847 |
+| Cinematic | 0.50% | ~1,848 |
 | Thanks Station! | 0.40% | ~1,478 |
-| Knock Knock | 0.30% | ~1,108 |
+| Knock Knock | 0.30% | ~1,109 |
 | Hit and Run | 0.20% | ~739 |
 | There For You | 0.20% | ~739 |
-| Designated Driver | 0.10% | ~369 |
-| J.R. .50 | 0.10% | ~369 |
-| It's All in the Reflexes | 0.10% | ~369 |
-| Road Hazard | 0.10% | ~369 |
+| Designated Driver | 0.10% | ~370 |
+| J.R. .50 | 0.10% | ~370 |
+| It's All in the Reflexes | 0.10% | ~370 |
+| Road Hazard | 0.10% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369,492 (Ranked 35)  
+Progressed: 369,507 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 2 (0.00%) (Ranked 199)
 | 2023-05-14 | 368,463 | 2 |
 | 2023-05-15 | 368,937 | 2 |
 | 2023-05-16 | 369,370 | 2 |
-| 2023-05-17 | 369,492 | 2 |
+| 2023-05-17 | 369,507 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 350  (Ranked 210)  
 Sum: 2,650 (Ranked 162)  

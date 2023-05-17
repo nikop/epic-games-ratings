@@ -20,6 +20,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.70% | ~4,921 |
 | Qi Gong: Essence | 0.70% | ~4,921 |
 | Rumble in the Hangar | 0.70% | ~4,921 |
+| Take damage to save time | 0.70% | ~4,921 |
 | The Old Grandmaster | 0.60% | ~4,218 |
 | The Assault | 0.60% | ~4,218 |
 | Scareless | 0.60% | ~4,218 |
@@ -28,7 +29,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Life is your teacher | 0.60% | ~4,218 |
 | Lightning Hands | 0.60% | ~4,218 |
 | Kung-Fu Tussle | 0.60% | ~4,218 |
-| Take damage to save time | 0.60% | ~4,218 |
 | Dance of the Praying Mantis | 0.50% | ~3,515 |
 | Qi Gong: Mind | 0.50% | ~3,515 |
 | Old Child | 0.50% | ~3,515 |

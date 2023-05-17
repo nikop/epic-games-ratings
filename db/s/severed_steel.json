@@ -200,9 +200,9 @@
       "Count": 169
     }
   ],
-  "EOS_Progressed": 404623,
+  "EOS_Progressed": 404630,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 2468,
+  "EOS_NewPlayers": 2462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2745,6 +2745,11 @@
       "Time": "2023-05-17T05:05:51.9617904+00:00",
       "NumProgressed": 404623,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-17T06:05:18.258437+00:00",
+      "NumProgressed": 404630,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 52,
@@ -2772,7 +2777,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24277
+      "UsersEstimate": 24278
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -2780,7 +2785,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40462
+      "UsersEstimate": 40463
     },
     {
       "ID": "BIGUPS",
@@ -2828,7 +2833,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20231
+      "UsersEstimate": 20232
     },
     {
       "ID": "CHAPTER3",
@@ -2836,7 +2841,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20231
+      "UsersEstimate": 20232
     },
     {
       "ID": "CHAPTER4",
@@ -3060,7 +3065,7 @@
       "Name": "PACEMAKER",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "PAINTRAIN",
@@ -3171,7 +3176,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 404623,
+      "Progressed": 404630,
       "Completed": 30
     }
   ],
@@ -3179,8 +3184,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-12T15:59:24.3766691+00:00",
-  "LastChanged_Achievements": "2023-05-17T05:05:51.96179+00:00",
+  "LastChanged_Achievements": "2023-05-17T06:05:18.2584366+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:24.3121528+00:00",
-  "LastUpdate_Ratings": "2023-05-17T04:59:32.1854058+00:00",
-  "LastUpdate_Achievements": "2023-05-17T05:05:51.9618536+00:00"
+  "LastUpdate_Ratings": "2023-05-17T05:59:06.944693+00:00",
+  "LastUpdate_Achievements": "2023-05-17T06:05:18.2585061+00:00"
 }
