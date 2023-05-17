@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Elypse](games/e/elypse.md) | 2023-05-17 | 2023-05-17 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | 2023-05-18 |
 | [Flyto](games/f/flyto.md) | 2023-05-18 | 2023-05-18 |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
@@ -228,7 +229,6 @@
 | [Dust Fleet](games/d/dust_fleet.md) | 2099-01-01 | 2099-01-01 |
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | 2099-01-01 | 2099-01-01 |
 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2099-01-01 | 2022-09-21 |
-| [Elypse](games/e/elypse.md) | 2099-01-01 | 2099-01-01 |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2099-01-01 | 2099-01-01 |
 | [Eternity Convergence](games/e/eternity_convergence.md) | 2099-01-01 | 2099-01-01 |
 | [Everholm](games/e/everholm.md) | 2099-01-01 | 2099-01-01 |
@@ -333,6 +333,7 @@
 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 2099-01-01 | 2099-01-01 |
 | [The Front](games/t/the_front.md) | 2099-01-01 | 2099-01-01 |
 | [The Golden Eyed Ghosts](games/t/the_golden_eyed_ghosts.md) | 2099-01-01 | 2099-01-01 |
+| [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2099-01-01 | 2099-01-01 |
 | [The Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2099-01-01 | 2099-01-01 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | 2099-01-01 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | 2022-11-15 |
