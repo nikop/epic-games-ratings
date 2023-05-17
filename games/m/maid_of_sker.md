@@ -15,14 +15,14 @@
 | Chief Butler | 9.00% | ~12 |
 | Bull in a China Shop | 7.00% | ~9 |
 | Sker Explorer | 4.00% | ~5 |
-| Ending on a High Note | 2.00% | ~3 |
-| Maids of Sker | 2.00% | ~3 |
-| Phonic Boom | 2.00% | ~3 |
-| The Long Night | 2.00% | ~3 |
-| Axe of Kindness | 0.80% | ~1 |
-| In Darkness | 0.80% | ~1 |
-| Luddite | 0.80% | ~1 |
-| Scholar | 0.80% | ~1 |
+| Ending on a High Note | 1.00% | ~1 |
+| Maids of Sker | 1.00% | ~1 |
+| Phonic Boom | 1.00% | ~1 |
+| The Long Night | 1.00% | ~1 |
+| Axe of Kindness | 0.70% | ~1 |
+| In Darkness | 0.70% | ~1 |
+| Luddite | 0.70% | ~1 |
+| Scholar | 0.70% | ~1 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |
 | Hard Times | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 246)  
+Progressed: 134 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-03 | 130 | 0 |
 | 2023-05-07 | 131 | 0 |
 | 2023-05-10 | 132 | 0 |
-| 2023-05-17 | 133 | 0 |
+| 2023-05-17 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

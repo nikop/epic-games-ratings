@@ -20,7 +20,7 @@
 | Gold Digger | 7.00% | ~5 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 265)  
+Progressed: 71 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

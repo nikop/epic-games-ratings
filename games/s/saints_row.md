@@ -23,6 +23,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | First F#@!ing Day | 0.10% | ~29 |
 | Tune Up | 0.10% | ~29 |
 | Optimized | 0.10% | ~29 |
+| Statement Pieces | 0.10% | ~29 |
 | Chaos Tamer | 0.10% | ~29 |
 | Bonus Round | 0.10% | ~29 |
 | Untouchable | 0.10% | ~29 |
@@ -44,6 +45,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Making a Name | 0.10% | ~29 |
 | Neighborly | 0.10% | ~29 |
 | Closet Space | 0.10% | ~29 |
+| Prankster | 0.10% | ~29 |
 | Smooth Moves | 0.10% | ~29 |
 | Tourist | 0.10% | ~29 |
 | Food for Thought | 0.10% | ~29 |
@@ -54,13 +56,11 @@ Number of Ratings: 22,103  (23.09.2022)
 | Producer Credit | 0.10% | ~0 |
 | Face Off | 0.10% | ~0 |
 | Hazardous Heist | 0.10% | ~0 |
-| Statement Pieces | 0.00% | ~0 |
 | Armor Piercing | 0.00% | ~0 |
-| Prankster | 0.00% | ~0 |
 | A Car Named Simone | 0.00% | ~0 |
 | Fiesta Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,776 (Ranked 85)  
+Progressed: 28,795 (Ranked 85)  
 Completed: 18 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 18 (0.06%) (Ranked 168)
 | 2023-05-14 | 27,748 | 17 |
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
-| 2023-05-17 | 28,776 | 18 |
+| 2023-05-17 | 28,795 | 18 |
 ## Awards
 Max (Extremely Fun): 1,028  (Ranked 133)  
 Sum: 8,328 (Ranked 88)  

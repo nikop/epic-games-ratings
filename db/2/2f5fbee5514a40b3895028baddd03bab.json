@@ -2,7 +2,7 @@
   "ID": "2f5fbee5514a40b3895028baddd03bab",
   "Name": null,
   "ProductSlug": "outplayed",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 73,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.3267889+00:00",
   "LastChanged": "2023-03-31T05:57:42.326789+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:31.2931478+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:57:46.7581369+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:04:03.2754177+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:57:40.6224366+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:03:26.7482327+00:00"
 }

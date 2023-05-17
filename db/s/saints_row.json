@@ -2298,9 +2298,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28776,
+  "EOS_Progressed": 28795,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3547,
+  "EOS_NewPlayers": 3566,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4893,6 +4893,11 @@
       "Time": "2023-05-17T17:06:33.928666+00:00",
       "NumProgressed": 28776,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-17T18:06:11.1991272+00:00",
+      "NumProgressed": 28795,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5038,9 +5043,9 @@
       "ID": "cutting_edge_materials",
       "SetID": "3ib2d0i",
       "Name": "Statement Pieces",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "defeat_the_collective",
@@ -5222,9 +5227,9 @@
       "ID": "prank_coop_partner",
       "SetID": "3ib2d0i",
       "Name": "Prankster",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     },
     {
       "ID": "purchase_2_emotes",
@@ -5327,22 +5332,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28776,
+      "Progressed": 28795,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 413,
-      "Completed": 392
+      "Progressed": 432,
+      "Completed": 393
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-16T18:59:03.5616429+00:00",
-  "LastChanged_Achievements": "2023-05-17T17:06:33.9286653+00:00",
+  "LastChanged_Achievements": "2023-05-17T18:06:11.1991261+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-17T17:01:04.8007806+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:06:33.9287696+00:00"
+  "LastUpdate_Ratings": "2023-05-17T18:00:32.3445969+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:06:11.1991928+00:00"
 }

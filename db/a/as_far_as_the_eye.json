@@ -2,7 +2,7 @@
   "ID": "c14dd3d3c8214149b27477dd4619f029",
   "Name": "As Far As The Eye",
   "ProductSlug": "as-far-as-the-eye",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 73,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.7037688+00:00",
   "LastChanged": "2023-03-31T05:57:20.7037689+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:36.6303928+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:59:32.1533944+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:03:37.4097581+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:59:14.3232143+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:03:01.172638+00:00"
 }

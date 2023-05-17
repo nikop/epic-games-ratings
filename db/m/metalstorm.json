@@ -2,7 +2,7 @@
   "ID": "dc09ae8f1aa445b7853b5300c2345d81",
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 73,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:58:10.9562657+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:58:49.8523419+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:02:52.2349892+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:58:36.039869+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:02:15.8146006+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "30b0250d4c094a93b2d69a2da194f1b8",
   "Name": "R.I.C.E.",
   "ProductSlug": "rice-d1b792",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 73,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-05-04T06:00:36.8272403+00:00",
   "LastChanged": "2023-05-04T06:00:36.8272403+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:14.8501149+00:00",
-  "LastUpdate_Ratings": "2023-05-17T17:02:07.5897218+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:06:06.1700544+00:00"
+  "LastUpdate_Ratings": "2023-05-17T18:01:31.174157+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:05:43.3909289+00:00"
 }

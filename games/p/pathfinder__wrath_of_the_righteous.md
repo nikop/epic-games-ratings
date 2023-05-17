@@ -47,10 +47,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Abyssal Conspiracy | 0.80% | ~71 |
 | End of Eternal Guard | 0.70% | ~62 |
 | This Wall Won't Fall | 0.70% | ~53 |
+| Not the Last Sarkorian | 0.70% | ~53 |
 | The Final Threshold | 0.60% | ~53 |
 | Path of the Dragon | 0.60% | ~53 |
 | Strategic Victory | 0.60% | ~53 |
-| Not the Last Sarkorian | 0.60% | ~46 |
 | Path of the Legend | 0.50% | ~44 |
 | Playful Mood | 0.50% | ~44 |
 | Dreadful Dragon | 0.50% | ~44 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,846 (Ranked 109)  
+Progressed: 8,848 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 8,821 | 0 |
 | 2023-05-15 | 8,826 | 0 |
 | 2023-05-16 | 8,839 | 0 |
-| 2023-05-17 | 8,846 | 0 |
+| 2023-05-17 | 8,848 | 0 |
 ## Awards
 Max (Character Customization): 1,632  (Ranked 111)  
 Sum: 6,614 (Ranked 108)  

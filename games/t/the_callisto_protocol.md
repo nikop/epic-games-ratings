@@ -9,6 +9,7 @@ Rating: 4.18 (Ranked 825)
 | Big Game Hunter | 0.40% | ~2 |
 | Bear Trap | 0.40% | ~2 |
 | Big Spender | 0.30% | ~1 |
+| Giving Back | 0.20% | ~25 |
 | Recidivist | 0.20% | ~1 |
 | Lifer | 0.20% | ~1 |
 | Parole Denied | 0.20% | ~1 |
@@ -18,7 +19,6 @@ Rating: 4.18 (Ranked 825)
 | Hoard Mode | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~0 |
-| Giving Back | 0.10% | ~13 |
 | You Need a Gun | 0.10% | ~13 |
 | Flesh Wound | 0.10% | ~13 |
 | Grim Reaper | 0.10% | ~13 |

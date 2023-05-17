@@ -2,7 +2,7 @@
   "ID": "2fd699bb8dbc4bff8402747f2e14c1ae",
   "Name": "Highwater",
   "ProductSlug": "highwater-090fb0",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 73,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.798086+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:58:55.4373663+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:04:41.6925375+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:58:38.3638717+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:04:24.5250548+00:00"
 }

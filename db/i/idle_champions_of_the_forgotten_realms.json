@@ -3754,9 +3754,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87781,
+  "EOS_Progressed": 87785,
   "EOS_Completed": 1848,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6274,6 +6274,11 @@
       "Time": "2023-05-17T17:07:28.6434496+00:00",
       "NumProgressed": 87781,
       "NumCompleted": 1848
+    },
+    {
+      "Time": "2023-05-17T18:06:56.8360668+00:00",
+      "NumProgressed": 87785,
+      "NumCompleted": 1848
     }
   ],
   "TotalAchievements": 493,
@@ -7235,9 +7240,9 @@
       "ID": "objective_completed_126",
       "SetID": "cc37lbc",
       "Name": "Struggling Toward Omu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_127",
@@ -9203,9 +9208,9 @@
       "ID": "objective_completed_658",
       "SetID": "415jc5c",
       "Name": "Ulkoria\u0027s Escape from Alterdeep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_660",
@@ -10228,21 +10233,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54055,
+      "Progressed": 54059,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87781,
+      "Progressed": 87785,
       "Completed": 1848
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-17T13:58:12.9380814+00:00",
-  "LastChanged_Achievements": "2023-05-17T17:07:28.6434491+00:00",
+  "LastChanged_Achievements": "2023-05-17T18:06:56.8360663+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:58:28.6260098+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:07:28.6463545+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:58:16.157226+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:06:56.8384019+00:00"
 }

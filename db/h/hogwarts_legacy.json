@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -2386,18 +2386,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 34562,
       "NumberOfAwardsMax": 18815
+    },
+    {
+      "Time": "2023-05-17T17:57:18.7287644+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34595,
+      "NumberOfAwardsMax": 18846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34562,
-  "NumberOfAwardsMax": 18815,
+  "NumberOfAwards": 34595,
+  "NumberOfAwardsMax": 18846,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 18815
+      "Count": 18846
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2445,7 +2451,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 701
+      "Count": 703
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2466,9 +2472,9 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 267463,
+  "EOS_Progressed": 267472,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 986,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4981,6 +4987,11 @@
       "Time": "2023-05-17T17:04:01.4381938+00:00",
       "NumProgressed": 267463,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-05-17T18:03:24.9229102+00:00",
+      "NumProgressed": 267472,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 45,
@@ -4992,7 +5003,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     },
     {
       "ID": "PFA_10",
@@ -5048,7 +5059,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     },
     {
       "ID": "PFA_17",
@@ -5064,7 +5075,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     },
     {
       "ID": "PFA_19",
@@ -5096,7 +5107,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     },
     {
       "ID": "PFA_22",
@@ -5120,7 +5131,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     },
     {
       "ID": "PFA_25",
@@ -5320,7 +5331,7 @@
       "Name": "First Class Student",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     },
     {
       "ID": "PFA_7",
@@ -5328,7 +5339,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     },
     {
       "ID": "PFA_8",
@@ -5336,7 +5347,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     },
     {
       "ID": "PFA_9",
@@ -5344,23 +5355,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13373
+      "UsersEstimate": 13374
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267463,
+      "Progressed": 267472,
       "Completed": 363
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-17T15:57:09.1745658+00:00",
-  "LastChanged_Achievements": "2023-05-17T17:04:01.4381933+00:00",
+  "LastChanged": "2023-05-17T17:57:18.7287641+00:00",
+  "LastChanged_Achievements": "2023-05-17T18:03:24.9229091+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:57:18.2418118+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:04:01.438263+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:57:18.7287648+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:03:24.9229649+00:00"
 }

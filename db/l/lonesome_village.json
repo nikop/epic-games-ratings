@@ -2,7 +2,7 @@
   "ID": "4385ab59e5354baf969098fbe1efd59f",
   "Name": "Lonesome Village",
   "ProductSlug": "lonesome-village",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 73,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-04-28T23:00:07.4661381+00:00",
   "LastChanged": "2023-04-28T23:00:07.4661382+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:52.4475718+00:00",
-  "LastUpdate_Ratings": "2023-05-17T16:59:59.2497082+00:00",
-  "LastUpdate_Achievements": "2023-05-17T17:02:42.4391136+00:00"
+  "LastUpdate_Ratings": "2023-05-17T17:59:35.4943314+00:00",
+  "LastUpdate_Achievements": "2023-05-17T18:02:06.3064704+00:00"
 }

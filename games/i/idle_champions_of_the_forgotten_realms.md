@@ -125,6 +125,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Whale of a Time | 0.10% | ~54 |
 | Homecoming | 0.10% | ~88 |
 | Anti-Dexterous Explorers | 0.10% | ~88 |
+| Struggling Toward Omu | 0.10% | ~88 |
 | Wagon Train | 0.10% | ~88 |
 | The Lost Heir of Omu | 0.10% | ~88 |
 | A Persistent Buzzing | 0.10% | ~88 |
@@ -366,6 +367,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.10% | ~54 |
 | Elder Rune Attack | 0.10% | ~54 |
 | The Gargoyle | 0.10% | ~54 |
+| Ulkoria's Escape from Alterdeep | 0.10% | ~54 |
 | The Wandering Emporium | 0.10% | ~54 |
 | Madcap Adventures Redux | 0.10% | ~54 |
 | When the Going Gets Tough | 0.10% | ~54 |
@@ -488,19 +490,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~88 |
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
-| Struggling Toward Omu | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
-| Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,781 (Ranked 59)  
+Progressed: 87,785 (Ranked 59)  
 Completed: 1,848 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 1,848 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,781 | 1,848 |
+| 2023-05-17 | 87,785 | 1,848 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,904 (Ranked 37)  
