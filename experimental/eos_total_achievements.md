@@ -36,7 +36,6 @@
 | [Zombie Rollerz: Pinball Heroes](../games/z/zombie_rollerz__pinball_heroes.md) | 73 | 1,000 |
 | [Galactic Civilizations IV](../games/g/galactic_civilizations_iv.md) | 72 | 1,000 |
 | [Saints Row IV Re-Elected](../games/s/saints_row_iv_re-elected.md) | 72 | 1,000 |
-| [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |
 | [Curse of the Deadwood](../games/c/curse_of_the_deadwood.md) | 70 | 1,000 |
 | [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
