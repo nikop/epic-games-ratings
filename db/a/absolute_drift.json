@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 6,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516807,
+  "EOS_Progressed": 1516813,
   "EOS_Completed": 606,
-  "EOS_NewPlayers": 1326,
+  "EOS_NewPlayers": 1323,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3015,6 +3015,11 @@
       "Time": "2023-05-17T14:01:07.1994907+00:00",
       "NumProgressed": 1516807,
       "NumCompleted": 606
+    },
+    {
+      "Time": "2023-05-17T15:02:17.7719777+00:00",
+      "NumProgressed": 1516813,
+      "NumCompleted": 606
     }
   ],
   "TotalAchievements": 20,
@@ -3034,7 +3039,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106176
+      "UsersEstimate": 106177
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -3146,7 +3151,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 12134
+      "UsersEstimate": 12135
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -3170,7 +3175,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75840
+      "UsersEstimate": 75841
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -3185,15 +3190,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1516807,
+      "Progressed": 1516813,
       "Completed": 606
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:01:07.1994885+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:02:17.7719775+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.7394244+00:00",
-  "LastUpdate_Ratings": "2023-05-17T14:00:26.440697+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:01:07.1995404+00:00"
+  "LastUpdate_Ratings": "2023-05-17T15:01:26.0711336+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:02:17.7720034+00:00"
 }

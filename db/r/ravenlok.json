@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 94,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 6.86,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1227,6 +1227,11 @@
       "Time": "2023-05-17T07:05:54.4247323+00:00",
       "NumProgressed": 656,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-17T15:06:17.6538903+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 50,
@@ -1238,7 +1243,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "10",
@@ -1246,15 +1251,15 @@
       "Name": "Piece of Cake",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 243
     },
     {
       "ID": "12",
@@ -1270,7 +1275,7 @@
       "Name": "Extinct Again!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "14",
@@ -1278,7 +1283,7 @@
       "Name": "Bird of Prey",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "15",
@@ -1286,7 +1291,7 @@
       "Name": "Pull the Plug",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "16",
@@ -1318,7 +1323,7 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "2",
@@ -1326,7 +1331,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "20",
@@ -1334,15 +1339,15 @@
       "Name": "Stardust",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 243
     },
     {
       "ID": "22",
@@ -1358,7 +1363,7 @@
       "Name": "All Heart",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "24",
@@ -1374,7 +1379,7 @@
       "Name": "Trick Question!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "26",
@@ -1446,7 +1451,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "34",
@@ -1470,7 +1475,7 @@
       "Name": "Dance Master",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "37",
@@ -1478,7 +1483,7 @@
       "Name": "Stronger!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "38",
@@ -1518,7 +1523,7 @@
       "Name": "Bombs Away!",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "42",
@@ -1526,7 +1531,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "43",
@@ -1534,7 +1539,7 @@
       "Name": "An Actor!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "44",
@@ -1566,7 +1571,7 @@
       "Name": "Crowned",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "48",
@@ -1574,7 +1579,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "49",
@@ -1614,7 +1619,7 @@
       "Name": "Fun Guy",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "8",
@@ -1622,7 +1627,7 @@
       "Name": "Tragic Brave",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "9",
@@ -1637,7 +1642,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 45
     }
   ],
@@ -1645,8 +1650,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:05:29.3439254+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:06:17.6538898+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:57:29.782228+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:05:29.3439764+00:00"
+  "LastUpdate_Ratings": "2023-05-17T14:57:45.642437+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:06:17.653928+00:00"
 }

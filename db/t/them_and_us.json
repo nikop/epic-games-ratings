@@ -3,7 +3,7 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 80,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.27,
+  "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -293,6 +293,11 @@
       "Time": "2023-05-17T08:00:19.0400458+00:00",
       "NumProgressed": 79,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T15:02:43.3245075+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -550,9 +555,9 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -623,7 +628,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 1
     }
   ],
@@ -631,8 +636,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:01:28.9556598+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:02:43.324507+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:57:13.9313382+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:01:28.9557007+00:00"
+  "LastUpdate_Ratings": "2023-05-17T14:57:25.9629504+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:02:43.3245358+00:00"
 }

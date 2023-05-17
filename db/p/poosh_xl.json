@@ -2,9 +2,9 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -324,6 +324,11 @@
       "Time": "2023-05-17T09:06:04.3692426+00:00",
       "NumProgressed": 70,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T15:06:22.3253972+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -429,7 +434,7 @@
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
       "UsersEstimate": 35
     },
@@ -437,7 +442,7 @@
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
       "UsersEstimate": 33
     },
@@ -453,7 +458,7 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 25,
       "UsersEstimate": 53
     },
@@ -477,7 +482,7 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 32
     },
@@ -494,13 +499,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:05:33.3714555+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:06:22.3253968+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:31.9787117+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:57:41.1184454+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:05:33.3714712+00:00"
+  "LastUpdate_Ratings": "2023-05-17T14:57:58.0460421+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:06:22.3254085+00:00"
 }

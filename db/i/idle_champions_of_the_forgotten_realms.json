@@ -3754,10 +3754,10 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87768,
+  "EOS_Progressed": 87769,
   "EOS_Completed": 1848,
-  "EOS_NewPlayers": 714,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 708,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -6259,6 +6259,11 @@
       "Time": "2023-05-17T14:06:12.5340735+00:00",
       "NumProgressed": 87768,
       "NumCompleted": 1848
+    },
+    {
+      "Time": "2023-05-17T15:07:22.8997763+00:00",
+      "NumProgressed": 87769,
+      "NumCompleted": 1848
     }
   ],
   "TotalAchievements": 493,
@@ -7828,9 +7833,9 @@
       "ID": "objective_completed_264",
       "SetID": "cc37lbc",
       "Name": "Shorty\u0027s Day Off",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_265",
@@ -8740,9 +8745,9 @@
       "ID": "objective_completed_587",
       "SetID": "415jc5c",
       "Name": "Strike!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_588",
@@ -9204,9 +9209,9 @@
       "ID": "objective_completed_661",
       "SetID": "415jc5c",
       "Name": "Madcap Adventures Redux",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_662",
@@ -9596,9 +9601,9 @@
       "ID": "objective_completed_817",
       "SetID": "415jc5c",
       "Name": "Wrecked Flying Fortress",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_818",
@@ -9788,9 +9793,9 @@
       "ID": "objective_completed_854",
       "SetID": "415jc5c",
       "Name": "A Chilling Encounter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_855",
@@ -10124,9 +10129,9 @@
       "ID": "objective_completed_934",
       "SetID": "415jc5c",
       "Name": "Ineffectual Intellectuals",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_935",
@@ -10213,21 +10218,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54042,
+      "Progressed": 54043,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87768,
+      "Progressed": 87769,
       "Completed": 1848
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-17T13:58:12.9380814+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:06:12.5340728+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:07:22.8997758+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:58:12.9380821+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:06:12.5363925+00:00"
+  "LastUpdate_Ratings": "2023-05-17T14:58:37.5904543+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:07:22.9019107+00:00"
 }

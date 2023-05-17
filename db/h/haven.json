@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1122,
+  "EOS_Progressed": 1123,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -318,6 +318,11 @@
       "Time": "2023-05-15T15:06:51.5929105+00:00",
       "NumProgressed": 1122,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-17T15:06:50.4651873+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -329,7 +334,7 @@
       "Name": "Lovebirds",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "10",
@@ -361,7 +366,7 @@
       "Name": "Unstoppable",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "14",
@@ -481,7 +486,7 @@
       "Name": "A love supreme",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "3",
@@ -489,7 +494,7 @@
       "Name": "Hug therapy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "30",
@@ -553,7 +558,7 @@
       "Name": "Over my dead body",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "9",
@@ -568,15 +573,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1122,
+      "Progressed": 1123,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:05:57.2937988+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:06:50.4651869+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:27.7554539+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:59:52.471531+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:05:57.2938212+00:00"
+  "LastUpdate_Ratings": "2023-05-17T15:00:41.7978733+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:06:50.4652042+00:00"
 }

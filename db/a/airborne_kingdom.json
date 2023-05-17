@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6354,
+  "EOS_Progressed": 6355,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -873,6 +873,11 @@
       "Time": "2023-05-17T08:04:51.2217028+00:00",
       "NumProgressed": 6354,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-17T15:06:33.7182504+00:00",
+      "NumProgressed": 6355,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -900,7 +905,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -924,7 +929,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -940,7 +945,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -948,7 +953,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -1004,7 +1009,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -1020,7 +1025,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -1028,7 +1033,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -1036,7 +1041,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3558
+      "UsersEstimate": 3559
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1052,7 +1057,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1060,7 +1065,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -1099,15 +1104,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6354,
+      "Progressed": 6355,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:05:43.2426123+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:06:33.7182502+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:23.1555334+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:57:28.2269274+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:05:43.2426364+00:00"
+  "LastUpdate_Ratings": "2023-05-17T14:57:43.7658231+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:06:33.7182687+00:00"
 }

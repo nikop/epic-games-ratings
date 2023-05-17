@@ -8,11 +8,11 @@ Rating: 4.67 (Ranked 257)
 | Legal Counsel | 43.00% | ~2,655 |
 | Greasy Palms | 39.00% | ~2,408 |
 | South American Connection | 23.00% | ~1,420 |
-| Life of the Party | 18.00% | ~1,111 |
+| Life of the Party | 18.00% | ~1,112 |
 | Big Heat from Little Havana | 13.00% | ~803 |
 | Chauffeur | 13.00% | ~803 |
 | Tommy Two-Wheels | 13.00% | ~803 |
-| Salutations My Little Friend | 10.00% | ~617 |
+| Salutations My Little Friend | 10.00% | ~618 |
 | Iron-y | 9.00% | ~556 |
 | Gun for Hire | 8.00% | ~494 |
 | Mischief Managed | 7.00% | ~432 |
@@ -24,23 +24,23 @@ Rating: 4.67 (Ranked 257)
 | Grand Theft Auto | 4.00% | ~247 |
 | High Quality H2O | 3.00% | ~185 |
 | Don't Need Roads | 3.00% | ~185 |
-| Running Rampant | 2.00% | ~123 |
-| Point A to Point B | 2.00% | ~123 |
-| Bull in a China Shop | 2.00% | ~123 |
-| Somebody Call the Wambulance? | 2.00% | ~123 |
-| Just Like the Real Thing | 2.00% | ~123 |
-| Take the Cannoli | 2.00% | ~123 |
-| City Sleuth | 2.00% | ~123 |
+| Running Rampant | 2.00% | ~124 |
+| Point A to Point B | 2.00% | ~124 |
+| Bull in a China Shop | 2.00% | ~124 |
+| Somebody Call the Wambulance? | 2.00% | ~124 |
+| Just Like the Real Thing | 2.00% | ~124 |
+| Take the Cannoli | 2.00% | ~124 |
+| City Sleuth | 2.00% | ~124 |
 | One is Better Than Two | 1.00% | ~62 |
 | Chopper’d Up | 1.00% | ~62 |
 | Daredevil | 0.90% | ~56 |
+| I'm Famous! | 0.80% | ~49 |
 | Born in the 80’s | 0.70% | ~43 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~43 |
-| I'm Famous! | 0.70% | ~43 |
 | Done it All | 0.70% | ~43 |
 | Kingpin | 0.40% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,174 (Ranked 115)  
+Progressed: 6,175 (Ranked 115)  
 Completed: 22 (0.36%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 22 (0.36%) (Ranked 116)
 | 2023-05-14 | 6,153 | 20 |
 | 2023-05-15 | 6,161 | 20 |
 | 2023-05-16 | 6,171 | 22 |
-| 2023-05-17 | 6,174 | 22 |
+| 2023-05-17 | 6,175 | 22 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 430)  
 Sum: 34 (Ranked 452)  

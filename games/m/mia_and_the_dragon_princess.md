@@ -9,11 +9,11 @@
 | Relight my Cannon | 26.00% | ~10 |
 | Puzzle Prodigy | 21.00% | ~8 |
 | Bathroom Brawler | 18.00% | ~7 |
+| Codebreaker | 18.00% | ~7 |
 | Explosive End | 18.00% | ~7 |
+| Set Sail | 18.00% | ~7 |
 | Snitch | 18.00% | ~7 |
-| Codebreaker | 16.00% | ~6 |
 | Finger-Lickin' Bad | 16.00% | ~6 |
-| Set Sail | 16.00% | ~6 |
 | A Box of Tricks | 13.00% | ~5 |
 | Backstory Buff | 13.00% | ~5 |
 | Breathless End | 13.00% | ~5 |

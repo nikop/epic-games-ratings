@@ -1,32 +1,32 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.68 (Ranked 235)  
+Rating: 4.68 (Ranked 236)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~44,522 |
-| 50 HEADSHOTS | 10.00% | ~40,475 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,380 |
-| FINISHED CHAPTER 1 | 7.00% | ~28,332 |
-| 200 HEADSHOTS | 6.00% | ~24,285 |
-| FINISHED CHAPTER 2 | 5.00% | ~20,237 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,237 |
-| FINISHED CHAPTER 4 | 4.00% | ~16,190 |
-| FINISH CHAPTER 5 | 4.00% | ~16,190 |
-| 1000 KILLS | 3.00% | ~12,142 |
-| FINISH CHAPTER 6 | 3.00% | ~12,142 |
-| CATHARTIC ESCAPISM | 3.00% | ~12,142 |
-| FIREFIGHT LEVEL 10 | 1.00% | ~4,047 |
-| FIREFIGHT LEVEL 20 | 0.60% | ~2,428 |
+| 100 KILLS | 11.00% | ~44,524 |
+| 50 HEADSHOTS | 10.00% | ~40,477 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,381 |
+| FINISHED CHAPTER 1 | 7.00% | ~28,334 |
+| 200 HEADSHOTS | 6.00% | ~24,286 |
+| FINISHED CHAPTER 2 | 5.00% | ~20,238 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,238 |
+| FINISHED CHAPTER 4 | 4.00% | ~16,191 |
+| FINISH CHAPTER 5 | 4.00% | ~16,191 |
+| 1000 KILLS | 3.00% | ~12,143 |
+| FINISH CHAPTER 6 | 3.00% | ~12,143 |
+| CATHARTIC ESCAPISM | 3.00% | ~12,143 |
+| FIREFIGHT LEVEL 10 | 1.00% | ~4,048 |
+| FIREFIGHT LEVEL 20 | 0.60% | ~2,429 |
 | FIRST BLOOD | 0.50% | ~2,024 |
 | PACEMAKER | 0.40% | ~1,619 |
 | FIREFIGHT LEVEL 30 | 0.30% | ~1,214 |
 | TIME PARADOX | 0.30% | ~1,214 |
-| FIREFIGHT LEVEL 40 | 0.20% | ~809 |
-| NEW GAME PLUS | 0.20% | ~809 |
-| OUT OF ORDER | 0.20% | ~809 |
-| PARTYHARD | 0.20% | ~809 |
+| FIREFIGHT LEVEL 40 | 0.20% | ~810 |
+| NEW GAME PLUS | 0.20% | ~810 |
+| OUT OF ORDER | 0.20% | ~810 |
+| PARTYHARD | 0.20% | ~810 |
 | HEY THATS CHEATING | 0.10% | ~405 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~405 |
 | BUT WHY? | 0.10% | ~405 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 235)
 | THE GAMBLER | 0.10% | ~405 |
 | WARRIOR IN A GARDEN | 0.10% | ~405 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,749 (Ranked 34)  
+Progressed: 404,767 (Ranked 34)  
 Completed: 30 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 30 (0.01%) (Ranked 191)
 | 2023-05-14 | 403,982 | 30 |
 | 2023-05-15 | 404,271 | 30 |
 | 2023-05-16 | 404,567 | 30 |
-| 2023-05-17 | 404,749 | 30 |
+| 2023-05-17 | 404,767 | 30 |
 ## Awards
 Max (Great Boss Battles): 169  (Ranked 277)  
 Sum: 169 (Ranked 368)  

@@ -10,15 +10,15 @@ Rating: 4.77 (Ranked 103)
 | The Hallowed Hero | 6.00% | ~16,047 |
 | The Hero of Hogwarts | 6.00% | ~16,047 |
 | Coasting Along | 6.00% | ~16,047 |
-| The Sort Who Makes an Entrance | 5.00% | ~13,372 |
-| The Defender of Dragons | 5.00% | ~13,372 |
-| A Sallow Grave | 5.00% | ~13,372 |
-| Challenge Accepted | 5.00% | ~13,372 |
-| Loom for Improvement | 5.00% | ~13,372 |
-| First Class Student | 5.00% | ~13,372 |
-| Troll with the Punches | 5.00% | ~13,372 |
-| That's a Keeper | 5.00% | ~13,372 |
-| Rising From the Ashes | 5.00% | ~13,372 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,373 |
+| The Defender of Dragons | 5.00% | ~13,373 |
+| A Sallow Grave | 5.00% | ~13,373 |
+| Challenge Accepted | 5.00% | ~13,373 |
+| Loom for Improvement | 5.00% | ~13,373 |
+| First Class Student | 5.00% | ~13,373 |
+| Troll with the Punches | 5.00% | ~13,373 |
+| That's a Keeper | 5.00% | ~13,373 |
+| Rising From the Ashes | 5.00% | ~13,373 |
 | The Avenging Gazelle | 4.00% | ~10,698 |
 | Beast Friends | 4.00% | ~10,698 |
 | Flight the Good Flight | 4.00% | ~10,698 |
@@ -26,23 +26,23 @@ Rating: 4.77 (Ranked 103)
 | A Talent for Spending | 4.00% | ~10,698 |
 | Followed the Butterflies | 4.00% | ~10,698 |
 | The Spell Master | 4.00% | ~10,698 |
-| The Seeker of Knowledge | 3.00% | ~8,023 |
-| The Root of the Problem | 3.00% | ~8,023 |
-| Third Time's a Charm | 3.00% | ~8,023 |
-| Room with a View | 3.00% | ~8,023 |
-| The Ends Petrify the Means | 3.00% | ~8,023 |
-| Raising Expectations | 3.00% | ~8,023 |
+| The Seeker of Knowledge | 3.00% | ~8,024 |
+| The Root of the Problem | 3.00% | ~8,024 |
+| Third Time's a Charm | 3.00% | ~8,024 |
+| Room with a View | 3.00% | ~8,024 |
+| The Ends Petrify the Means | 3.00% | ~8,024 |
+| Raising Expectations | 3.00% | ~8,024 |
 | The Toast of the Town | 2.00% | ~5,349 |
 | Going Through the Potions | 2.00% | ~5,349 |
 | Floo Around the World | 2.00% | ~5,349 |
 | The Intrepid Explorer | 2.00% | ~5,349 |
 | The Gryffindor in the Graveyard | 2.00% | ~5,349 |
-| The Good Samaritan | 1.00% | ~2,674 |
-| Put Down Roots | 1.00% | ~2,674 |
-| The Auror's Apprentice | 1.00% | ~2,674 |
-| Rise to the Challenges | 1.00% | ~2,674 |
-| Finishing Touches | 1.00% | ~2,674 |
-| The Wise Owl | 1.00% | ~2,674 |
+| The Good Samaritan | 1.00% | ~2,675 |
+| Put Down Roots | 1.00% | ~2,675 |
+| The Auror's Apprentice | 1.00% | ~2,675 |
+| Rise to the Challenges | 1.00% | ~2,675 |
+| Finishing Touches | 1.00% | ~2,675 |
+| The Wise Owl | 1.00% | ~2,675 |
 | Demiguise Dread | 0.80% | ~2,140 |
 | A Forte for Achievement | 0.80% | ~2,140 |
 | Savvy Spender | 0.70% | ~1,872 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,070 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,448 (Ranked 38)  
+Progressed: 267,451 (Ranked 38)  
 Completed: 363 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 363 (0.14%) (Ranked 149)
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
 | 2023-05-16 | 267,382 | 362 |
-| 2023-05-17 | 267,448 | 363 |
+| 2023-05-17 | 267,451 | 363 |
 ## Awards
 Max (Character Customization): 18,815  (Ranked 18)  
 Sum: 34,559 (Ranked 33)  

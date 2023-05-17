@@ -35,7 +35,7 @@ Number of Ratings: 34  (23.09.2022)
 | Atonement | 15.00% | ~39 |
 | Collectibles of Chapter IV | 14.00% | ~36 |
 | Without a Second Thought | 13.00% | ~34 |
-| Helping Hand | 10.00% | ~26 |
+| Helping Hand | 11.00% | ~28 |
 | Collectibles of Chapter V | 9.00% | ~23 |
 | Collectibles of Chapter VII | 8.00% | ~21 |
 | Such is War! | 8.00% | ~21 |

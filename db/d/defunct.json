@@ -4,7 +4,7 @@
   "ProductSlug": "defunct-221ccf",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-03-01T11:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:48.7039078+00:00",
   "LastChanged": "2023-03-31T05:58:48.7039079+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:19.5669108+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:58:37.7822028+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:03:56.1360499+00:00"
+  "LastUpdate_Ratings": "2023-05-17T14:59:06.3420191+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:04:27.7014947+00:00"
 }

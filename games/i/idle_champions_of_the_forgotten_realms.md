@@ -198,6 +198,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mongrelfolk Incursion | 0.10% | ~54 |
 | Tower on the Lake | 0.10% | ~88 |
 | Only the Strong Survive | 0.10% | ~88 |
+| Shorty's Day Off | 0.10% | ~88 |
 | Intelligence Hunt | 0.10% | ~88 |
 | Seeds of Deceit | 0.10% | ~88 |
 | Visions of Strahd | 0.10% | ~88 |
@@ -310,6 +311,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Cuteness | 0.10% | ~54 |
 | Champions of Waterdeep | 0.10% | ~88 |
 | On The Job Learning | 0.10% | ~88 |
+| Strike! | 0.10% | ~54 |
 | Running of the Saurs | 0.10% | ~88 |
 | Lost in the Goblin Halls | 0.10% | ~88 |
 | Batiri in the Goblin Halls | 0.10% | ~88 |
@@ -364,6 +366,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elder Rune Attack | 0.10% | ~54 |
 | The Gargoyle | 0.10% | ~54 |
 | The Wandering Emporium | 0.10% | ~54 |
+| Madcap Adventures Redux | 0.10% | ~54 |
 | When the Going Gets Tough | 0.10% | ~54 |
 | Tiamat's Army | 0.10% | ~54 |
 | Show of Strength | 0.10% | ~54 |
@@ -412,6 +415,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sibriex | 0.10% | ~54 |
 | The Archduke's Blessing | 0.10% | ~54 |
 | A Neutral Party | 0.10% | ~54 |
+| Wrecked Flying Fortress | 0.10% | ~54 |
 | Relentless Peril | 0.10% | ~54 |
 | Rickety Rubble | 0.10% | ~54 |
 | Expert Opinion | 0.10% | ~88 |
@@ -435,6 +439,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Witty Riposting | 0.10% | ~54 |
 | Waiting on Sunrise | 0.10% | ~54 |
 | Frontline Fighters | 0.10% | ~54 |
+| A Chilling Encounter | 0.10% | ~54 |
 | How Far Away is Thay | 0.10% | ~54 |
 | Deekin's Mission | 0.10% | ~54 |
 | Dive Bomb | 0.10% | ~54 |
@@ -475,6 +480,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~54 |
 | An Icewind Dale Reunion | 0.10% | ~54 |
 | The Netherese Necropolis | 0.10% | ~54 |
+| Ineffectual Intellectuals | 0.10% | ~54 |
 | The Archaeologist and the Sailor | 0.10% | ~54 |
 | The Templar's Camp | 0.10% | ~88 |
 | The Haunted Jungle | 0.10% | ~88 |
@@ -484,23 +490,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Shorty's Day Off | 0.00% | ~0 |
 | The Strahd Squad | 0.00% | ~0 |
-| Strike! | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Madcap Adventures Redux | 0.00% | ~0 |
-| Wrecked Flying Fortress | 0.00% | ~0 |
-| A Chilling Encounter | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Ineffectual Intellectuals | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,768 (Ranked 59)  
+Progressed: 87,769 (Ranked 59)  
 Completed: 1,848 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 1,848 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,768 | 1,848 |
+| 2023-05-17 | 87,769 | 1,848 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,904 (Ranked 37)  

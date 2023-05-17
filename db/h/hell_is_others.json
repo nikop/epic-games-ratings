@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 248914,
+  "EOS_Progressed": 248920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2870,6 +2870,11 @@
       "Time": "2023-05-17T14:06:08.1660428+00:00",
       "NumProgressed": 248914,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T15:07:17.9481912+00:00",
+      "NumProgressed": 248920,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2929,7 +2934,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77163
+      "UsersEstimate": 77165
     },
     {
       "ID": "BackHomeNTimes",
@@ -2985,7 +2990,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24891
+      "UsersEstimate": 24892
     },
     {
       "ID": "CreditLevel2",
@@ -3113,7 +3118,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "KillCrawlingThing",
@@ -3153,7 +3158,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "KillOtherWithMine",
@@ -3169,7 +3174,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54761
+      "UsersEstimate": 54762
     },
     {
       "ID": "KillOthers2",
@@ -3273,7 +3278,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24891
+      "UsersEstimate": 24892
     },
     {
       "ID": "ReachNDays2",
@@ -3328,7 +3333,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248914,
+      "Progressed": 248920,
       "Completed": 1
     }
   ],
@@ -3336,8 +3341,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-13T15:00:35.1754519+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:06:08.1660422+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:07:17.9481906+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.6367659+00:00",
-  "LastUpdate_Ratings": "2023-05-17T14:00:36.277396+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:06:08.166111+00:00"
+  "LastUpdate_Ratings": "2023-05-17T15:01:43.0891441+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:07:17.9482401+00:00"
 }

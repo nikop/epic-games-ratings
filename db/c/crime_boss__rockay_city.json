@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 895,
-  "Ranking_Popularity": 233,
+  "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1444,11 +1444,17 @@
       "Rating": 3.93,
       "NumberOfAwards": 1273,
       "NumberOfAwardsMax": 270
+    },
+    {
+      "Time": "2023-05-17T15:01:12.8204224+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1275,
+      "NumberOfAwardsMax": 272
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1273,
-  "NumberOfAwardsMax": 270,
+  "NumberOfAwards": 1275,
+  "NumberOfAwardsMax": 272,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1491,7 +1497,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 270
+      "Count": 272
     },
     {
       "Text": "This game has a Silly Community",
@@ -1500,9 +1506,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60357,
+  "EOS_Progressed": 60359,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4040,6 +4046,11 @@
       "Time": "2023-05-17T14:06:03.4771142+00:00",
       "NumProgressed": 60357,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-17T15:07:12.6140606+00:00",
+      "NumProgressed": 60359,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -4051,7 +4062,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 30178
+      "UsersEstimate": 30180
     },
     {
       "ID": "ACH_0011",
@@ -4075,7 +4086,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7846
+      "UsersEstimate": 7847
     },
     {
       "ID": "ACH_0014",
@@ -4195,7 +4206,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39232
+      "UsersEstimate": 39233
     },
     {
       "ID": "ACH_0210",
@@ -4203,7 +4214,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 44061
+      "UsersEstimate": 44062
     },
     {
       "ID": "ACH_0211",
@@ -4219,7 +4230,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28368
+      "UsersEstimate": 28369
     },
     {
       "ID": "ACH_0300",
@@ -4267,7 +4278,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20521
+      "UsersEstimate": 20522
     },
     {
       "ID": "ACH_0420",
@@ -4283,7 +4294,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 21125
+      "UsersEstimate": 21126
     },
     {
       "ID": "ACH_0431",
@@ -4346,16 +4357,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60357,
+      "Progressed": 60359,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-17T13:06:20.4699374+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:06:03.4771132+00:00",
+  "LastChanged": "2023-05-17T15:01:12.8204222+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:07:12.6140601+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-17T14:00:19.7465376+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:06:03.4771573+00:00"
+  "LastUpdate_Ratings": "2023-05-17T15:01:12.8204227+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:07:12.6140974+00:00"
 }

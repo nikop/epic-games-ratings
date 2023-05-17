@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Welcome | 100.00% | ~23 |
 | Garbage collector | 91.00% | ~21 |
-| Om nom nom | 70.00% | ~16 |
-| Repair master | 57.00% | ~13 |
-| I am speed! | 48.00% | ~11 |
-| No one will hear you! | 43.00% | ~10 |
+| Om nom nom | 74.00% | ~17 |
+| Repair master | 61.00% | ~14 |
+| I am speed! | 52.00% | ~12 |
+| No one will hear you! | 48.00% | ~11 |
 | It's safe here! | 26.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 302)  

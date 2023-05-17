@@ -6,7 +6,7 @@
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
@@ -62,11 +62,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1052,
+  "EOS_Progressed": 1054,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:50.6381931+00:00",
@@ -1727,6 +1727,11 @@
       "Time": "2023-05-17T14:05:45.7868058+00:00",
       "NumProgressed": 1052,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T15:06:36.7475069+00:00",
+      "NumProgressed": 1054,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1736,17 +1741,17 @@
       "ID": "activemember",
       "SetID": "3nl4bcg",
       "Name": "Active Member",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 32
     },
     {
       "ID": "angelpower",
@@ -1922,15 +1927,15 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "fourleafclover",
       "SetID": "3nl4bcg",
       "Name": "Four Leaf Clover",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "frostfireliberator",
@@ -1970,7 +1975,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "herewegoagain",
@@ -2010,7 +2015,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "jewelenchanting",
@@ -2074,7 +2079,7 @@
       "Name": "Miner Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "missionsdedication",
@@ -2096,9 +2101,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 74
     },
     {
       "ID": "mythicpower",
@@ -2130,7 +2135,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "prestigiousx10",
@@ -2138,7 +2143,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "relicofthepast",
@@ -2194,7 +2199,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "thealchemist",
@@ -2298,7 +2303,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 991
     },
     {
       "ID": "warmachinesarmy",
@@ -2330,14 +2335,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1052,
+      "Progressed": 1054,
       "Completed": 1
     }
   ],
@@ -2345,8 +2350,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-17T14:05:45.7868052+00:00",
+  "LastChanged_Achievements": "2023-05-17T15:06:36.7475065+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:58:10.1492997+00:00",
-  "LastUpdate_Achievements": "2023-05-17T14:05:45.7868927+00:00"
+  "LastUpdate_Ratings": "2023-05-17T14:58:34.1165918+00:00",
+  "LastUpdate_Achievements": "2023-05-17T15:06:36.7475748+00:00"
 }

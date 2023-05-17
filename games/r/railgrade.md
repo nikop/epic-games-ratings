@@ -5,30 +5,30 @@ Rating: 4.54 (Ranked 477)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,003 |
-| Before the Downfall | 93.00% | ~17,084 |
-| Money like Water | 91.00% | ~16,717 |
-| Minimalist | 90.00% | ~16,533 |
-| Builder | 83.00% | ~15,247 |
-| Eraser | 70.00% | ~12,859 |
-| Pocket of Trains | 65.00% | ~11,940 |
-| Inspector | 59.00% | ~10,838 |
+| Trevithick's Legacy | 98.00% | ~18,004 |
+| Before the Downfall | 93.00% | ~17,085 |
+| Money like Water | 91.00% | ~16,718 |
+| Minimalist | 90.00% | ~16,534 |
+| Builder | 83.00% | ~15,248 |
+| Eraser | 70.00% | ~12,860 |
+| Pocket of Trains | 65.00% | ~11,941 |
+| Inspector | 59.00% | ~10,839 |
 | Going the Distance | 54.00% | ~9,920 |
-| Oil Baron | 42.00% | ~7,715 |
-| Loads-a-Money | 42.00% | ~7,715 |
-| Helper of the People | 39.00% | ~7,164 |
+| Oil Baron | 42.00% | ~7,716 |
+| Loads-a-Money | 42.00% | ~7,716 |
+| Helper of the People | 39.00% | ~7,165 |
 | Simplification | 34.00% | ~6,246 |
 | Box of Trains | 33.00% | ~6,062 |
-| Let There be Light | 32.00% | ~5,878 |
+| Let There be Light | 32.00% | ~5,879 |
 | Hot Water | 31.00% | ~5,695 |
-| Indecisive | 29.00% | ~5,327 |
+| Indecisive | 29.00% | ~5,328 |
 | The scenic route | 27.00% | ~4,960 |
-| Industrialist | 25.00% | ~4,592 |
+| Industrialist | 25.00% | ~4,593 |
 | Perfectionist | 23.00% | ~4,225 |
 | Trains over Pipes | 23.00% | ~4,225 |
-| 8K is Enough for Everyone | 22.00% | ~4,041 |
+| 8K is Enough for Everyone | 22.00% | ~4,042 |
 | Man of Steel | 16.00% | ~2,939 |
-| Room Full of Trains | 12.00% | ~2,204 |
+| Room Full of Trains | 12.00% | ~2,205 |
 | Investor | 9.00% | ~1,653 |
 | Multiverse | 7.00% | ~1,286 |
 | The poor groundwater levels | 7.00% | ~1,286 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 477)
 | Overdeer | 0.40% | ~73 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,370 (Ranked 95)  
+Progressed: 18,371 (Ranked 95)  
 Completed: 28 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 28 (0.15%) (Ranked 146)
 | 2023-05-14 | 18,360 | 28 |
 | 2023-05-15 | 18,366 | 28 |
 | 2023-05-16 | 18,368 | 28 |
-| 2023-05-17 | 18,370 | 28 |
+| 2023-05-17 | 18,371 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 339)  
 Sum: 645 (Ranked 271)  
