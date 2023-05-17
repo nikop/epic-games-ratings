@@ -82,7 +82,7 @@
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 281 |
 | 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,359 | 94 |
 | 78 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 0 | 492 |
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 322 |
+| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 323 |
 | 78 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 492 |
 | 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 314 | 222 |
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 492 |
@@ -120,7 +120,7 @@
 | 115 | [Dead Space](games/d/dead_space.md) | 4.76 | 43 | 407 |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 845 | 144 |
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 492 |
-| 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 101 | 322 |
+| 115 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 102 | 322 |
 | 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,632 | 111 |
 | 115 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 492 |
 | 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,054 | 39 |
@@ -732,7 +732,7 @@
 | 727 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 492 |
 | 727 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 492 |
 | 727 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 492 |
-| 727 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,914 | 62 |
+| 727 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,918 | 61 |
 | 727 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 240 | 242 |
 | 727 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 492 |
 | 736 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 492 |
@@ -754,7 +754,7 @@
 | 743 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 492 |
 | 753 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 492 |
 | 753 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 492 |
-| 753 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 935 | 140 |
+| 753 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 936 | 140 |
 | 756 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 492 |
 | 756 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 492 |
 | 756 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 492 |
@@ -786,7 +786,7 @@
 | 780 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 492 |
 | 785 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 492 |
 | 785 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 441 |
-| 785 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,744 | 34 |
+| 785 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,801 | 34 |
 | 785 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 374 | 206 |
 | 785 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 492 |
 | 785 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 492 |

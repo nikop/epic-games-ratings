@@ -111,6 +111,7 @@
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2023-09-30 | 2023-09-30 |
 | [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-09-30 | 2023-09-30 |
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | 2023-02-14 |
+| [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 2023-09-30 | 2023-04-17 |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | 2023-09-30 |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 2023-09-30 |
 | [Total Reload](games/t/total_reload.md) | 2023-09-30 | 2023-09-30 |
