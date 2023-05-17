@@ -8,12 +8,12 @@
 | Garbage collector | 91.00% | ~20 |
 | Om nom nom | 73.00% | ~16 |
 | Repair master | 59.00% | ~13 |
-| I am speed! | 45.00% | ~10 |
-| No one will hear you! | 41.00% | ~9 |
-| It's safe here! | 23.00% | ~5 |
+| I am speed! | 50.00% | ~11 |
+| No one will hear you! | 45.00% | ~10 |
+| It's safe here! | 27.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 305)  
-Completed: 2 (9.09%) (Ranked 14)  
+Completed: 3 (13.64%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -27,4 +27,4 @@ Completed: 2 (9.09%) (Ranked 14)
 | 2023-05-13 | 19 | 2 |
 | 2023-05-15 | 20 | 2 |
 | 2023-05-16 | 21 | 2 |
-| 2023-05-17 | 22 | 2 |
+| 2023-05-17 | 22 | 3 |

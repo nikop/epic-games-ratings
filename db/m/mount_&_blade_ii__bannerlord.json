@@ -4067,7 +4067,7 @@
   ],
   "EOS_Progressed": 50054,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6761,9 +6761,9 @@
       "ID": "Mounted Archery",
       "SetID": "den0lp1",
       "Name": "Mounted Archery",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 150
     },
     {
       "ID": "My way",
@@ -6905,8 +6905,8 @@
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-16T20:59:52.1957286+00:00",
-  "LastChanged_Achievements": "2023-05-17T07:06:39.145232+00:00",
+  "LastChanged_Achievements": "2023-05-17T08:05:28.6315343+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:00:14.6829114+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:06:39.1452762+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:59:14.5700594+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:05:28.6315837+00:00"
 }

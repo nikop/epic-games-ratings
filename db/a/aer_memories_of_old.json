@@ -368,11 +368,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9525,
+  "EOS_Progressed": 9526,
   "EOS_Completed": 211,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -2778,6 +2778,11 @@
       "Time": "2023-05-17T07:06:33.2745706+00:00",
       "NumProgressed": 9525,
       "NumCompleted": 211
+    },
+    {
+      "Time": "2023-05-17T08:05:23.8927874+00:00",
+      "NumProgressed": 9526,
+      "NumCompleted": 211
     }
   ],
   "TotalAchievements": 20,
@@ -2789,7 +2794,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -2909,7 +2914,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7239
+      "UsersEstimate": 7240
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -2948,15 +2953,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9525,
+      "Progressed": 9526,
       "Completed": 211
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-17T07:06:33.2745701+00:00",
+  "LastChanged_Achievements": "2023-05-17T08:05:23.8927869+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.8345922+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:00:51.874135+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:06:33.2745931+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:59:40.390001+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:05:23.8928161+00:00"
 }

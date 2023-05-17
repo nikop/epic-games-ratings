@@ -472,9 +472,9 @@
       "Count": 131
     }
   ],
-  "EOS_Progressed": 588431,
+  "EOS_Progressed": 588432,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2982,6 +2982,11 @@
       "Time": "2023-05-17T07:06:15.537654+00:00",
       "NumProgressed": 588431,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-05-17T08:05:07.060213+00:00",
+      "NumProgressed": 588432,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 28,
@@ -3113,7 +3118,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 288331
+      "UsersEstimate": 288332
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -3121,7 +3126,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 547241
+      "UsersEstimate": 547242
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -3129,7 +3134,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 141223
+      "UsersEstimate": 141224
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -3153,7 +3158,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 388364
+      "UsersEstimate": 388365
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -3169,7 +3174,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 311868
+      "UsersEstimate": 311869
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -3177,7 +3182,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47074
+      "UsersEstimate": 47075
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -3216,15 +3221,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 588431,
+      "Progressed": 588432,
       "Completed": 479
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-01-16T15:57:42.1375211+00:00",
-  "LastChanged_Achievements": "2023-05-17T07:06:15.5376533+00:00",
+  "LastChanged_Achievements": "2023-05-17T08:05:07.0602121+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:55.6063283+00:00",
-  "LastUpdate_Ratings": "2023-05-17T06:59:22.9591231+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:06:15.5376807+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:58:38.6221131+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:05:07.0602482+00:00"
 }

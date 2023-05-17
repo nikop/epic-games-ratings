@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3757,9 +3757,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 59
     },
     {
       "ID": "WinNearBandit",
@@ -4053,8 +4053,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-17T03:59:57.4704238+00:00",
-  "LastChanged_Achievements": "2023-05-17T07:06:40.1515379+00:00",
+  "LastChanged_Achievements": "2023-05-17T08:05:29.522643+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:00:40.2811279+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:06:40.1515788+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:59:32.0378748+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:05:29.5226956+00:00"
 }

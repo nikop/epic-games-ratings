@@ -24,7 +24,7 @@
 | Architect of Darkness | 68.00% | ~103 |
 | Sharpshooter | 67.00% | ~102 |
 | Top of the World | 66.00% | ~100 |
-| The Apotheosis of War | 65.00% | ~99 |
+| The Apotheosis of War | 66.00% | ~100 |
 | Stasis Alcatraz | 65.00% | ~99 |
 | Tastes Like Chicken | 61.00% | ~93 |
 | Thunderstorm | 61.00% | ~93 |
@@ -59,7 +59,7 @@
 | Hostile Waters | 15.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 239)  
-Completed: 19 (12.50%) (Ranked 11)  
+Completed: 19 (12.50%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

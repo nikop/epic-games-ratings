@@ -8,10 +8,10 @@
 | Welcome to the Rumbly Lands! | 87.00% | ~27 |
 | Time to Bash Some Heads! | 84.00% | ~26 |
 | Shiny! | 74.00% | ~23 |
-| Deep in the Mounds | 68.00% | ~21 |
+| Deep in the Mounds | 71.00% | ~22 |
 | Locked Away | 32.00% | ~10 |
+| A Little Renovating | 32.00% | ~10 |
 | Smeltastic! | 32.00% | ~10 |
-| A Little Renovating | 29.00% | ~9 |
 | Deflect This! | 23.00% | ~7 |
 | Just Some Improvements | 19.00% | ~6 |
 | It's a Sign! | 19.00% | ~6 |
@@ -57,7 +57,7 @@
 | The More the Merrier | 10.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 295)  
-Completed: 3 (9.68%) (Ranked 13)  
+Completed: 3 (9.68%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1712,6 +1712,11 @@
       "Time": "2023-05-17T04:05:36.663189+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T08:05:05.9289096+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1755,7 +1760,7 @@
       "Name": "Background Story",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "beastwarmachines",
@@ -1827,7 +1832,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "dragonmaster",
@@ -1899,7 +1904,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "fellowshippower",
@@ -1963,7 +1968,7 @@
       "Name": "Here We Go Again",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "heroinspection",
@@ -1979,7 +1984,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "hunter",
@@ -2017,9 +2022,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 116
     },
     {
       "ID": "lockandload",
@@ -2049,9 +2054,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 74
     },
     {
       "ID": "minerclicker",
@@ -2067,7 +2072,7 @@
       "Name": "Missions Dedication",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "movinguptheladder",
@@ -2075,7 +2080,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "mysteriousrock",
@@ -2083,7 +2088,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "mythicpower",
@@ -2115,7 +2120,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "prestigiousx10",
@@ -2147,7 +2152,7 @@
       "Name": "Scientist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "scrollmaster",
@@ -2179,7 +2184,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "thealchemist",
@@ -2195,7 +2200,7 @@
       "Name": "The Expeditioner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "thefatherofdragons",
@@ -2283,7 +2288,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "warmachinesarmy",
@@ -2315,14 +2320,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 1
     }
   ],
@@ -2330,8 +2335,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-17T07:06:14.8150577+00:00",
+  "LastChanged_Achievements": "2023-05-17T08:05:05.9289091+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-17T06:58:10.695482+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:06:14.8151248+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:57:41.8913847+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:05:05.9289974+00:00"
 }

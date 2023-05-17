@@ -41,8 +41,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Fat Cat | 0.60% | ~300 |
 | Catch | 0.50% | ~250 |
 | Slice 'n dice | 0.40% | ~200 |
+| Mounted Archery | 0.30% | ~150 |
 | Ride it like you stole it | 0.30% | ~150 |
-| Mounted Archery | 0.20% | ~100 |
 | Strike! | 0.20% | ~100 |
 | Best served cold | 0.10% | ~50 |
 | Butcher of Calradia | 0.10% | ~50 |

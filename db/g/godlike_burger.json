@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -132,6 +132,11 @@
       "Time": "2023-05-13T08:05:34.154042+00:00",
       "NumProgressed": 271,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T08:04:45.9014373+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -191,7 +196,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "GB_GOURMET",
@@ -205,9 +210,9 @@
       "ID": "GB_GRANDMA_WOULD_BE_PROUD",
       "SetID": "8ga3kd9",
       "Name": "GRANDMA WOULD BE PROUD",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "GB_GRATITUDE",
@@ -239,7 +244,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -247,7 +252,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -261,9 +266,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "GB_KEVIN",
@@ -271,7 +276,7 @@
       "Name": "KEVIN!",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -366,7 +371,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 1
     }
   ],
@@ -374,8 +379,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-03-31T05:57:15.2354538+00:00",
-  "LastChanged_Achievements": "2023-05-17T07:06:04.4712191+00:00",
+  "LastChanged_Achievements": "2023-05-17T08:04:45.9014366+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.2737606+00:00",
-  "LastUpdate_Ratings": "2023-05-17T06:58:35.8184194+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:06:04.4712358+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:57:59.4348542+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:04:45.9014586+00:00"
 }

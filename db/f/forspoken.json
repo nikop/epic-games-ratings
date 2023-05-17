@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38055,
+  "EOS_Progressed": 38057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1965,6 +1965,11 @@
       "Time": "2023-05-17T07:06:20.1050668+00:00",
       "NumProgressed": 38055,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-17T08:05:13.231559+00:00",
+      "NumProgressed": 38057,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2080,7 +2085,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -2104,7 +2109,7 @@
       "Name": "Forspoken",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -2399,22 +2404,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38055,
+      "Progressed": 38057,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2892,
-      "Completed": 2892
+      "Progressed": 2894,
+      "Completed": 2894
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-17T07:06:20.1050662+00:00",
+  "LastChanged_Achievements": "2023-05-17T08:05:13.2315585+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
-  "LastUpdate_Ratings": "2023-05-17T06:58:51.0438977+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:06:20.1051106+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:58:11.6280936+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:05:13.2316149+00:00"
 }

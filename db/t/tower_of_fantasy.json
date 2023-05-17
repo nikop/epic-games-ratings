@@ -4,7 +4,7 @@
   "ProductSlug": "tower-of-fantasy",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-11T14:00:00+00:00",
@@ -29,6 +29,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:19.9746989+00:00",
-  "LastUpdate_Ratings": "2023-05-17T06:59:53.6194825+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:04:47.0698953+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:59:00.2249919+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:03:38.229117+00:00"
 }

@@ -37,11 +37,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 0.50% | ~74 |
 | Forsaken Gods Temple | 0.50% | ~74 |
 | Watchtower | 0.50% | ~74 |
+| Ruined Armory | 0.40% | ~59 |
 | Forbidden Lands | 0.40% | ~59 |
 | Defying the Crown | 0.40% | ~59 |
 | Into the Forest | 0.40% | ~59 |
 | Efficient Explorer | 0.30% | ~45 |
-| Ruined Armory | 0.30% | ~45 |
 | Fishmen Ritual Site | 0.30% | ~45 |
 | Blood Flower Farmer | 0.30% | ~45 |
 | Beaver Utopia | 0.20% | ~30 |

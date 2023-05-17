@@ -7,15 +7,15 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 76.00% | ~32,270 |
-| I read Shakespeare and stuff | 64.00% | ~27,174 |
+| I read Shakespeare and stuff | 64.00% | ~27,175 |
 | Just a sprinkle | 63.00% | ~26,750 |
 | I'm stumped | 61.00% | ~25,901 |
 | Plant get enough | 61.00% | ~25,901 |
-| It's just the beginning | 59.00% | ~25,051 |
+| It's just the beginning | 59.00% | ~25,052 |
 | This is just my weekend vehicle | 58.00% | ~24,627 |
 | Hard work pays off | 53.00% | ~22,504 |
 | It's never too late to farm | 46.00% | ~19,532 |
-| All out of Land | 44.00% | ~18,682 |
+| All out of Land | 44.00% | ~18,683 |
 | Field Trip | 43.00% | ~18,258 |
 | I like to switch it up | 40.00% | ~16,984 |
 | Help me to help you | 38.00% | ~16,135 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~170 |
 | Raisin the stakes | 0.30% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,460 (Ranked 78)  
+Progressed: 42,461 (Ranked 78)  
 Completed: 5 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 5 (0.01%) (Ranked 191)
 | 2023-05-14 | 42,364 | 5 |
 | 2023-05-15 | 42,401 | 5 |
 | 2023-05-16 | 42,454 | 5 |
-| 2023-05-17 | 42,460 | 5 |
+| 2023-05-17 | 42,461 | 5 |
 ## Awards
 Max (Great for Beginners): 4,210  (Ranked 70)  
-Sum: 36,414 (Ranked 31)  
+Sum: 36,416 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -88,7 +88,7 @@ Diff (max vs sum): 39
 | This game is Relaxing | 3,895 |
 | This game is Educational | 3,839 |
 | This game has Quickly Understood Controls | 3,814 |
-| This game is Extremely Fun | 3,688 |
+| This game is Extremely Fun | 3,690 |
 | This game is Highly Recommended | 3,655 |
 | This game has Diverse Characters | 3,599 |
 | This game has Amazing Storytelling | 3,557 |
@@ -219,3 +219,4 @@ Diff (max vs sum): 39
 | 2023-05-14 | 4.70 | - | 4,197 | 36,366 |
 | 2023-05-15 | 4.70 | - | 4,205 | 36,390 |
 | 2023-05-16 | 4.70 | - | 4,210 | 36,414 |
+| 2023-05-17 | 4.70 | - | 4,210 | 36,416 |

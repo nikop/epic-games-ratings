@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2612,
+  "EOS_Progressed": 2613,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1384,
+  "EOS_NewPlayers": 1364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-05-17T07:02:13.8914767+00:00",
       "NumProgressed": 2612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T08:00:42.3392436+00:00",
+      "NumProgressed": 2613,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1053,7 +1058,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "16",
@@ -1069,7 +1074,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "18",
@@ -1099,9 +1104,9 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 287
     },
     {
       "ID": "21",
@@ -1125,7 +1130,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "24",
@@ -1133,7 +1138,7 @@
       "Name": "Secret Technique",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "25",
@@ -1141,7 +1146,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "26",
@@ -1173,7 +1178,7 @@
       "Name": "Stronger Together",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "3",
@@ -1197,7 +1202,7 @@
       "Name": "Magical Synergy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "32",
@@ -1205,7 +1210,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "33",
@@ -1221,7 +1226,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "35",
@@ -1277,7 +1282,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "41",
@@ -1356,13 +1361,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 2612,
-      "Completed": 2612
+      "Progressed": 2613,
+      "Completed": 2613
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 2612,
+      "Progressed": 2613,
       "Completed": 0
     }
   ],
@@ -1370,8 +1375,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-15T19:58:41.4280533+00:00",
-  "LastChanged_Achievements": "2023-05-17T07:02:13.8914762+00:00",
+  "LastChanged_Achievements": "2023-05-17T08:00:42.3392427+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:18.5454373+00:00",
-  "LastUpdate_Ratings": "2023-05-17T06:59:51.4502486+00:00",
-  "LastUpdate_Achievements": "2023-05-17T07:02:13.8915265+00:00"
+  "LastUpdate_Ratings": "2023-05-17T07:58:58.3211746+00:00",
+  "LastUpdate_Achievements": "2023-05-17T08:00:42.3392859+00:00"
 }
