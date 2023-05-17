@@ -19,7 +19,7 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.93% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.92% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.34% |
 | 23 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -74,12 +74,12 @@
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.39% |
 | 74 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
-| 75 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.30% |
-| 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
+| 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
+| 75 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.29% |
 | 77 | [Trifox](games/t/trifox.md) | 1.28% |
 | 78 | [Chorus](games/c/chorus.md) | 1.27% |
 | 78 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
-| 80 | [Them and Us](games/t/them_and_us.md) | 1.23% |
+| 80 | [Them and Us](games/t/them_and_us.md) | 1.22% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |

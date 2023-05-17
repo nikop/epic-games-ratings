@@ -3,6 +3,7 @@
 | [Elypse](games/e/elypse.md) | 2023-05-17 | 2023-05-17 |
 | [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-17 | 2023-05-17 |
 | [Unalive 010](games/c/cc4af47bd1374ea99148e5d73869cf43.md) | 2023-05-17 | 2023-05-12 |
+| [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 2023-05-16 | 2023-04-20 |
 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 2023-05-16 | 2021-09-07 |
 | [Machinika Museum](games/m/machinika_museum.md) | 2023-05-16 | 2021-03-23 |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-16 | 2023-05-16 |
@@ -144,7 +145,6 @@
 | [Koropokkur in Love ~A Little Fairy’s Tale~](games/k/koropokkur_in_love_~a_little_fairy’s_tale~.md) | 2023-04-21 | 2018-09-27 |
 | [Cepheus Protocol](games/c/cepheus_protocol.md) | 2023-04-21 | 2020-05-15 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 2022-12-08 |
-| [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 2023-04-20 | 2023-04-20 |
 | [Biped](games/b/biped.md) | 2023-04-20 | 2020-03-26 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 2023-04-20 |
 | [Panic Porcupine](games/p/panic_porcupine.md) | 2023-04-20 | 2022-10-27 |
