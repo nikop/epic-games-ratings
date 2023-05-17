@@ -257,9 +257,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -337,9 +337,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -472,8 +472,8 @@
   ],
   "FirstSeen": "2023-05-10T20:57:26.0655367+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:00:26.5718155+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:02:03.0965565+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.3951133+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:57:13.2675047+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:00:26.5718613+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:57:31.0531978+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:02:03.0966098+00:00"
 }

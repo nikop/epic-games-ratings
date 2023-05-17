@@ -2,7 +2,7 @@
   "ID": "9c5bbf5fa33d410b955b857c58f41c5c",
   "Name": "3 out of 10, EP 2: Foundation 101",
   "ProductSlug": "3-out-of-10-ep-2",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.3075722+00:00",
   "LastChanged": "2023-03-31T05:58:45.3075723+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:46.7059518+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:59:24.8465506+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:04:02.7251537+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:00:13.2829155+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:05:14.3261071+00:00"
 }

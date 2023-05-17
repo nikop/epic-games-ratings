@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Occupy Mars! | 90.00% | ~9 |
-| I don't feel so good | 40.00% | ~4 |
+| I don't feel so good | 50.00% | ~5 |
 | Fear my botany powers, Mars | 30.00% | ~3 |
+| Electrician | 30.00% | ~3 |
 | “Aliens” | 20.00% | ~2 |
 | Caveman | 20.00% | ~2 |
-| Electrician | 20.00% | ~2 |
 | Cooking Vegetables | 10.00% | ~1 |
 | Driver's License | 10.00% | ~1 |
 | Explosive Miner | 10.00% | ~1 |

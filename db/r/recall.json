@@ -2,7 +2,7 @@
   "ID": "02110c7cc56a4833b8a3765470e1d41b",
   "Name": "RECALL",
   "ProductSlug": "recall-113630",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:59:41.3694677+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:59:19.7603512+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:03:50.6349299+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:00:06.5439064+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:05:11.7818268+00:00"
 }

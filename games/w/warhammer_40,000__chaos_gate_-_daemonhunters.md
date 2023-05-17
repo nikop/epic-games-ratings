@@ -38,13 +38,13 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 2.00% | ~52 |
 | Engine Kill | 2.00% | ~52 |
 | Death Comes For All | 2.00% | ~52 |
+| Clean Slate | 1.00% | ~26 |
 | Fleetmaster | 1.00% | ~26 |
 | For the Machine God | 1.00% | ~26 |
 | Unstable Immaterium | 1.00% | ~26 |
 | Strike Force | 1.00% | ~26 |
 | Hands-On Research | 1.00% | ~26 |
 | Only in Death | 1.00% | ~26 |
-| Clean Slate | 0.90% | ~23 |
 | Exercise in Restraint | 0.90% | ~23 |
 | True Mastery | 0.60% | ~16 |
 | The Flesh is Weak | 0.50% | ~13 |

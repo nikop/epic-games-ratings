@@ -1032,9 +1032,9 @@
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1079,8 +1079,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:04:45.9953318+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:06:08.956375+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:57:34.7778827+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:04:45.995365+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:57:58.0990106+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:06:08.9564083+00:00"
 }

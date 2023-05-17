@@ -2,7 +2,7 @@
   "ID": "9f1f6bcb0e2e490682a81f3fc986690a",
   "Name": "Search",
   "ProductSlug": "search-de9485",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T11:57:03.3312665+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:56:56.2673684+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:00:08.3977389+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:57:06.1116492+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:01:09.9574358+00:00"
 }

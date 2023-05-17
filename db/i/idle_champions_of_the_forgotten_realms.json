@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3748,11 +3748,11 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87742,
+  "EOS_Progressed": 87745,
   "EOS_Completed": 1847,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 26,
-  "EOS_Completed_Percentage": 2.11,
+  "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -6228,6 +6228,11 @@
       "Time": "2023-05-17T08:05:35.6482213+00:00",
       "NumProgressed": 87742,
       "NumCompleted": 1847
+    },
+    {
+      "Time": "2023-05-17T09:06:49.7442832+00:00",
+      "NumProgressed": 87745,
+      "NumCompleted": 1847
     }
   ],
   "TotalAchievements": 493,
@@ -6853,9 +6858,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_1152",
@@ -7437,9 +7442,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_166",
@@ -8085,9 +8090,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_399",
@@ -8245,9 +8250,9 @@
       "ID": "objective_completed_419",
       "SetID": "cc37lbc",
       "Name": "Bazaar Exploits",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_42",
@@ -8285,9 +8290,9 @@
       "ID": "objective_completed_424",
       "SetID": "cc37lbc",
       "Name": "Elder Rune Madness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_425",
@@ -8533,9 +8538,9 @@
       "ID": "objective_completed_560",
       "SetID": "cc37lbc",
       "Name": "The Sunless Citadel",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_561",
@@ -8597,9 +8602,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_571",
@@ -9045,9 +9050,9 @@
       "ID": "objective_completed_636",
       "SetID": "415jc5c",
       "Name": "Dream Gauntlet",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_637",
@@ -9629,9 +9634,9 @@
       "ID": "objective_completed_832",
       "SetID": "415jc5c",
       "Name": "Sunblight",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_833",
@@ -10182,21 +10187,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54016,
+      "Progressed": 54019,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87742,
+      "Progressed": 87745,
       "Completed": 1847
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:05:35.6482207+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:06:49.7442826+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:57:45.0059614+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:05:35.6506282+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:58:12.1222767+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:06:49.7470547+00:00"
 }

@@ -649,9 +649,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 21485,
+  "EOS_Progressed": 21486,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3159,6 +3159,11 @@
       "Time": "2023-05-17T08:05:09.5910284+00:00",
       "NumProgressed": 21485,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-17T09:06:20.2286142+00:00",
+      "NumProgressed": 21486,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -3194,7 +3199,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "distance500000",
@@ -3210,7 +3215,7 @@
       "Name": "Rookie",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5156
+      "UsersEstimate": 5157
     },
     {
       "ID": "goals180",
@@ -3298,7 +3303,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "playerFelipe",
@@ -3481,15 +3486,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 21485,
+      "Progressed": 21486,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:05:09.5910278+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:06:20.2286119+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.251036+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:58:50.982211+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:05:09.5910736+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:59:31.5464549+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:06:20.2286574+00:00"
 }

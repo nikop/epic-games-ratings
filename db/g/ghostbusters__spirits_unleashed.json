@@ -922,10 +922,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2068,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-05-17T08:59:08.9312025+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2069,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2068,
+  "NumberOfAwards": 2069,
   "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -975,7 +981,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1002,9 +1008,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21867,
+  "EOS_Progressed": 21868,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2837,6 +2843,11 @@
       "Time": "2023-05-17T08:05:16.2119343+00:00",
       "NumProgressed": 21867,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-17T09:06:26.7388065+00:00",
+      "NumProgressed": 21868,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -2888,7 +2899,7 @@
       "Name": "Clutch Capture",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9184
+      "UsersEstimate": 9185
     },
     {
       "ID": "Collect_Spores",
@@ -2920,7 +2931,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7653
+      "UsersEstimate": 7654
     },
     {
       "ID": "Diabolical",
@@ -2936,7 +2947,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13776
+      "UsersEstimate": 13777
     },
     {
       "ID": "Dont_Need_These",
@@ -3080,7 +3091,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "Rift_Seeker",
@@ -3136,7 +3147,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6997
+      "UsersEstimate": 6998
     },
     {
       "ID": "Stunner",
@@ -3184,7 +3195,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9840
+      "UsersEstimate": 9841
     },
     {
       "ID": "Terrifying",
@@ -3192,7 +3203,7 @@
       "Name": "Terrifying",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "Therapeutic",
@@ -3208,7 +3219,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9621
+      "UsersEstimate": 9622
     },
     {
       "ID": "Tobins_Prodigy",
@@ -3255,16 +3266,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21867,
+      "Progressed": 21868,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-05-17T05:58:35.6297485+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:05:16.2119338+00:00",
+  "LastChanged": "2023-05-17T08:59:08.9312023+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:06:26.7388052+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:58:30.9577486+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:05:16.2119919+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:59:08.9312027+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:06:26.7388631+00:00"
 }

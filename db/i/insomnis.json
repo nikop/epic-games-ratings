@@ -2,7 +2,7 @@
   "ID": "6afc7187605b458e89e3d40d46871a51",
   "Name": "Insomnis",
   "ProductSlug": "insomnis-2c51e7",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
@@ -254,8 +254,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:13.6346969+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:05:17.8824328+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:06:28.9793263+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:03.8709372+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:56:55.6135456+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:05:17.882452+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:57:05.1389241+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:06:28.9793462+00:00"
 }

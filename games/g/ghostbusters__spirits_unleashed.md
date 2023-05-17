@@ -8,19 +8,19 @@ Rating: 4.49 (Ranked 554)
 | Stylish | 86.00% | ~18,806 |
 | Advancement | 74.00% | ~16,182 |
 | Meticulously Efficient | 65.00% | ~14,214 |
-| Discovery | 63.00% | ~13,776 |
+| Discovery | 63.00% | ~13,777 |
 | Swift Rift Removers | 56.00% | ~12,246 |
 | Fully Upgraded | 55.00% | ~12,027 |
 | Cultured | 53.00% | ~11,590 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,371 |
 | Vaporous Expansion | 49.00% | ~10,715 |
-| Teamwork | 45.00% | ~9,840 |
-| There you are! | 44.00% | ~9,621 |
-| Clutch Capture | 42.00% | ~9,184 |
+| Teamwork | 45.00% | ~9,841 |
+| There you are! | 44.00% | ~9,622 |
+| Clutch Capture | 42.00% | ~9,185 |
 | Back Off | 36.00% | ~7,872 |
-| Daily Dose | 35.00% | ~7,653 |
+| Daily Dose | 35.00% | ~7,654 |
 | Welcome to the Crew | 33.00% | ~7,216 |
-| Solo Capture | 32.00% | ~6,997 |
+| Solo Capture | 32.00% | ~6,998 |
 | Ghostbuster In Training | 31.00% | ~6,779 |
 | Icing on the Cake | 30.00% | ~6,560 |
 | Legions | 28.00% | ~6,123 |
@@ -34,10 +34,10 @@ Rating: 4.49 (Ranked 554)
 | Skilled | 25.00% | ~5,467 |
 | Collector | 24.00% | ~5,248 |
 | Ectoplasmic Entity | 24.00% | ~5,248 |
-| Rift Destroyer | 20.00% | ~4,373 |
+| Rift Destroyer | 20.00% | ~4,374 |
 | Tobin's Prodigy | 19.00% | ~4,155 |
 | Reckless | 18.00% | ~3,936 |
-| Terrifying | 17.00% | ~3,717 |
+| Terrifying | 17.00% | ~3,718 |
 | Diabolical | 16.00% | ~3,499 |
 | Escape Artist | 16.00% | ~3,499 |
 | Seasoned | 16.00% | ~3,499 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 554)
 | I don't need these | 1.00% | ~219 |
 | Mycophile | 1.00% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,867 (Ranked 89)  
+Progressed: 21,868 (Ranked 89)  
 Completed: 40 (0.18%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,10 +84,10 @@ Completed: 40 (0.18%) (Ranked 142)
 | 2023-05-14 | 21,803 | 39 |
 | 2023-05-15 | 21,836 | 39 |
 | 2023-05-16 | 21,860 | 39 |
-| 2023-05-17 | 21,867 | 40 |
+| 2023-05-17 | 21,868 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 228  (Ranked 245)  
-Sum: 2,068 (Ranked 184)  
+Sum: 2,069 (Ranked 184)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -95,7 +95,7 @@ Diff (max vs sum): 61
 | This game is Great for Beginners | 221 |
 | This game has Competitive Players | 211 |
 | This game has Diverse Characters | 210 |
-| This game has Amazing Storytelling | 208 |
+| This game has Amazing Storytelling | 209 |
 | This game is Extremely Fun | 206 |
 | This game is Highly Recommended | 200 |
 | This game is Relaxing | 197 |
@@ -168,4 +168,4 @@ Diff (max vs sum): 61
 | 2023-05-12 | 4.49 | 228 | 2,063 |
 | 2023-05-13 | 4.49 | 228 | 2,065 |
 | 2023-05-15 | 4.49 | 228 | 2,067 |
-| 2023-05-17 | 4.49 | 228 | 2,068 |
+| 2023-05-17 | 4.49 | 228 | 2,069 |

@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 724,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-05-16T20:04:44.0640767+00:00",
       "NumProgressed": 723,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-17T09:06:05.6090672+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -600,7 +605,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -656,7 +661,7 @@
       "Name": "Gunslinger",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -704,7 +709,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -760,7 +765,7 @@
       "Name": "Resourceful",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -792,7 +797,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -848,7 +853,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -942,9 +947,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -968,7 +973,7 @@
       "Name": "Reich To The Point",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -1079,13 +1084,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 724,
       "Completed": 2
     }
   ],
@@ -1093,8 +1098,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-16T14:00:47.7127935+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:04:43.0538484+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:06:05.6090665+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:59:59.0570314+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:04:43.0539181+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:00:58.3181055+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:06:05.6091366+00:00"
 }

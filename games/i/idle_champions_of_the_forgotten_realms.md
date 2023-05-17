@@ -73,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~54 |
 | Strength of Character | 0.10% | ~54 |
 | The Invisible Wizards of Thay | 0.10% | ~54 |
+| Heavy Burden | 0.10% | ~88 |
 | Seeds of Destruction | 0.10% | ~54 |
 | Speeds of Destruction | 0.10% | ~54 |
 | Owlbear Necessities | 0.10% | ~54 |
@@ -135,6 +136,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~88 |
 | Low Initiative | 0.10% | ~88 |
 | A Mysterious Summons | 0.10% | ~88 |
+| Street War | 0.10% | ~88 |
 | Force Grey Unleashed | 0.10% | ~88 |
 | Vajra's Guards | 0.10% | ~88 |
 | Building Trust | 0.10% | ~88 |
@@ -205,6 +207,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~88 |
 | Late Game | 0.10% | ~88 |
 | Shadowfell Stalwarts | 0.10% | ~54 |
+| Nimble Escape | 0.10% | ~88 |
 | Nimblest Escape | 0.10% | ~88 |
 | Are Ya Chicken? | 0.10% | ~88 |
 | Useless Allies | 0.10% | ~88 |
@@ -224,9 +227,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Careful Consideration | 0.10% | ~88 |
 | Tanking Expectations | 0.10% | ~54 |
 | Hopelessly Lost | 0.10% | ~88 |
+| Bazaar Exploits | 0.10% | ~88 |
 | Cramped Quarters | 0.10% | ~88 |
 | Flame(skull) War | 0.10% | ~88 |
 | Servants of the Demon Prince | 0.10% | ~54 |
+| Elder Rune Madness | 0.10% | ~88 |
 | The Madness Grows | 0.10% | ~88 |
 | The Madness Peaks | 0.10% | ~54 |
 | Who Lurks in Lurkwood | 0.10% | ~88 |
@@ -256,12 +261,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sober Up | 0.10% | ~88 |
 | In The Beginning | 0.10% | ~54 |
 | Crowded Streets | 0.10% | ~88 |
+| The Sunless Citadel | 0.10% | ~88 |
 | Veteran Brigade | 0.10% | ~88 |
 | Social Grace | 0.10% | ~54 |
 | Meepo's Quest | 0.10% | ~88 |
 | She's Harmless! | 0.10% | ~88 |
 | The Tallest of Kobolds | 0.10% | ~54 |
 | Patience is Key | 0.10% | ~88 |
+| The Darkness Runs Deeper | 0.10% | ~88 |
 | Troublesome Prisoner | 0.10% | ~88 |
 | Faerûn's Most Wanted | 0.10% | ~54 |
 | Difficult Terrain | 0.10% | ~88 |
@@ -308,6 +315,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Devil Arrives | 0.10% | ~54 |
 | Hearts Aflame | 0.10% | ~54 |
 | Dreamscape | 0.10% | ~54 |
+| Dream Gauntlet | 0.10% | ~54 |
 | Look Out! | 0.10% | ~54 |
 | The Path of Redcaps | 0.10% | ~54 |
 | The Path of Trials | 0.10% | ~54 |
@@ -367,6 +375,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.10% | ~54 |
 | Mimic Perception | 0.10% | ~54 |
 | Frozen in Fear | 0.10% | ~54 |
+| Sunblight | 0.10% | ~54 |
 | Fortress Assault | 0.10% | ~54 |
 | Hats off to you! | 0.10% | ~54 |
 | It's Cold Out There Every Day | 0.10% | ~54 |
@@ -428,7 +437,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Oozing Hunger | 0.00% | ~0 |
 | The Madness of Zuggtmoy | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
-| Heavy Burden | 0.00% | ~0 |
 | A Demi-god's Defender | 0.00% | ~0 |
 | Heatwave | 0.00% | ~0 |
 | Weak Doesn't Mean Feeble | 0.00% | ~0 |
@@ -439,7 +447,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Periodic Petrification | 0.00% | ~0 |
 | Fall From Grace | 0.00% | ~0 |
-| Street War | 0.00% | ~0 |
 | A Grand Puzzle | 0.00% | ~0 |
 | Tomb of the Nine Gods | 0.00% | ~0 |
 | Poor Fortune | 0.00% | ~0 |
@@ -450,14 +457,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Corruption | 0.00% | ~0 |
 | The Strahd Squad | 0.00% | ~0 |
 | House of Darkness | 0.00% | ~0 |
-| Nimble Escape | 0.00% | ~0 |
-| Bazaar Exploits | 0.00% | ~0 |
 | Enter the Sargauth | 0.00% | ~0 |
-| Elder Rune Madness | 0.00% | ~0 |
 | Slow and Steady | 0.00% | ~0 |
-| The Sunless Citadel | 0.00% | ~0 |
 | Evergreens with an Evergreen | 0.00% | ~0 |
-| The Darkness Runs Deeper | 0.00% | ~0 |
 | Dark Doppelgangers | 0.00% | ~0 |
 | On The Job Learning | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
@@ -467,7 +469,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Nimble Grove | 0.00% | ~0 |
 | Market Fluctuations | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
-| Dream Gauntlet | 0.00% | ~0 |
 | Zombie Dreams | 0.00% | ~0 |
 | The Path of Dreams | 0.00% | ~0 |
 | Elder Rune Attack | 0.00% | ~0 |
@@ -481,7 +482,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Taunting Lord | 0.00% | ~0 |
 | Wrecked Flying Fortress | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
-| Sunblight | 0.00% | ~0 |
 | The Bleeding Citadel | 0.00% | ~0 |
 | The Madness of Yeenoghu | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,742 (Ranked 59)  
-Completed: 1,847 (2.11%) (Ranked 60)  
+Progressed: 87,745 (Ranked 59)  
+Completed: 1,847 (2.10%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -527,7 +527,7 @@ Completed: 1,847 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,742 | 1,847 |
+| 2023-05-17 | 87,745 | 1,847 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,900 (Ranked 37)  

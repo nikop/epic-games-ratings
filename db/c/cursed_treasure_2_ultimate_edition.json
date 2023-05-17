@@ -107,9 +107,9 @@
       "ID": "BADGE_BOSS_2_KILL",
       "SetID": "ak6pfjk",
       "Name": "Top of the World",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "BADGE_BOSS_3_KILL",
@@ -179,9 +179,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Holy Mountain",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
@@ -419,9 +419,9 @@
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sharpshooter",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "BADGE_MONUMENT_KEEPER",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:05:08.6378804+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:06:19.6467341+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:31.9076697+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:58:16.5114231+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:05:08.637925+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:58:50.5584692+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:06:19.6467736+00:00"
 }

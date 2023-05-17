@@ -1239,7 +1239,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12368,
+  "EOS_Progressed": 12370,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 2,
@@ -3689,6 +3689,11 @@
       "Time": "2023-05-17T08:05:23.3356607+00:00",
       "NumProgressed": 12368,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-17T09:06:35.1244287+00:00",
+      "NumProgressed": 12370,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 22,
@@ -3732,7 +3737,7 @@
       "Name": "Winter is Coming",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "1020",
@@ -3788,7 +3793,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "1027",
@@ -3820,7 +3825,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "1031",
@@ -3836,7 +3841,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4947
+      "UsersEstimate": 4948
     },
     {
       "ID": "1033",
@@ -3852,7 +3857,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "1035",
@@ -3868,22 +3873,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 12368,
+      "Progressed": 12370,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-17T08:05:23.3356601+00:00",
+  "LastChanged_Achievements": "2023-05-17T09:06:35.1244273+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.192023+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:59:44.153705+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:05:23.3356904+00:00"
+  "LastUpdate_Ratings": "2023-05-17T09:00:39.521897+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:06:35.124455+00:00"
 }

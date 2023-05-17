@@ -2,7 +2,7 @@
   "ID": "fb7d6ba3cbb140e6af4b0add9157f1d9",
   "Name": "Heroes of Shaola",
   "ProductSlug": "heroes-of-shaola-c82f2f",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:57:30.7046494+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:57:20.558754+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:00:37.777197+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:57:40.1234575+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:02:17.3073884+00:00"
 }

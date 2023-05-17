@@ -2,7 +2,7 @@
   "ID": "wex",
   "Name": "BATTLE BREAKERS",
   "ProductSlug": "battle-breakers/home",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:58:01.4869207+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:57:47.759943+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:03:11.3170212+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:58:15.8855665+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:04:12.7605906+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ef59555cee3f489d8b6102dac25ac5ab",
   "Name": "Descent II",
   "ProductSlug": "descent-ii-fe049e",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.6145544+00:00",
   "LastChanged": "2023-03-31T05:58:27.6145545+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:19.7337865+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:58:03.2748181+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:00:35.5973976+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:58:36.6587871+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:02:14.6279281+00:00"
 }

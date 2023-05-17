@@ -2,7 +2,7 @@
   "ID": "e1f5f24381aa4e71ba784004c1487775",
   "Name": "Red Dust",
   "ProductSlug": "red-dust-5e7397",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:07.399799+00:00",
   "LastChanged": "2023-03-31T05:58:07.3997991+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:42.2018505+00:00",
-  "LastUpdate_Ratings": "2023-05-17T07:58:25.6189293+00:00",
-  "LastUpdate_Achievements": "2023-05-17T08:00:32.766341+00:00"
+  "LastUpdate_Ratings": "2023-05-17T08:59:02.8766345+00:00",
+  "LastUpdate_Achievements": "2023-05-17T09:02:10.9243713+00:00"
 }
