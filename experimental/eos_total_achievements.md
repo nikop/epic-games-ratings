@@ -202,6 +202,7 @@
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
 | [Cloud Cutter](../games/c/cloud_cutter.md) | 34 | 1,000 |
 | [Crayta](../games/c/crayta.md) | 34 | 1,000 |
+| [Elypse](../games/e/elypse.md) | 34 | 1,000 |
 | [Fall Guys](../games/f/fall_guys.md) | 34 | 1,000 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](../games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 34 | 1,000 |
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |

@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Elypse](games/e/elypse.md) | 2023-05-17 | 2023-05-17 |
 | [CoopValor 2056 WW3](games/c/coopvalor_2056_ww3.md) | 2023-05-17 | 2023-05-17 |
 | [Unalive 010](games/c/cc4af47bd1374ea99148e5d73869cf43.md) | 2023-05-17 | 2023-05-12 |
 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 2023-05-16 | 2021-09-07 |
@@ -157,4 +158,3 @@
 | [League Manager 2023](games/l/league_manager_2023.md) | 2023-04-19 | 2023-03-16 |
 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 2023-04-18 | 2023-04-18 |
 | [Aftertime](games/a/aftertime.md) | 2023-04-18 | 2022-10-31 |
-| [Doomed Lands](games/d/doomed_lands.md) | 2023-04-17 | 2023-04-17 |

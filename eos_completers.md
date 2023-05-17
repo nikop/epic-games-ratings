@@ -21,7 +21,7 @@
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.94% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.22% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
 | 23 | [Scorn](games/s/scorn.md) | 7.04% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.85% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
@@ -79,7 +79,7 @@
 | 77 | [Trifox](games/t/trifox.md) | 1.28% |
 | 78 | [Chorus](games/c/chorus.md) | 1.27% |
 | 78 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
-| 80 | [Them and Us](games/t/them_and_us.md) | 1.25% |
+| 80 | [Them and Us](games/t/them_and_us.md) | 1.23% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
@@ -132,8 +132,8 @@
 | 130 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.27% |
 | 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 132 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
-| 132 | [Wildermyth](games/w/wildermyth.md) | 0.26% |
-| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.25% |
+| 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.25% |
+| 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
 | 135 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 136 | [Blanc](games/b/blanc.md) | 0.22% |
 | 136 | [Filament](games/f/filament.md) | 0.22% |
