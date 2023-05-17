@@ -19,13 +19,13 @@ Rating: 4.77 (Ranked 103)
 | Troll with the Punches | 5.00% | ~13,372 |
 | That's a Keeper | 5.00% | ~13,372 |
 | Rising From the Ashes | 5.00% | ~13,372 |
-| The Avenging Gazelle | 4.00% | ~10,697 |
-| Beast Friends | 4.00% | ~10,697 |
-| Flight the Good Flight | 4.00% | ~10,697 |
-| A Keen Sense of Spell | 4.00% | ~10,697 |
-| A Talent for Spending | 4.00% | ~10,697 |
-| Followed the Butterflies | 4.00% | ~10,697 |
-| The Spell Master | 4.00% | ~10,697 |
+| The Avenging Gazelle | 4.00% | ~10,698 |
+| Beast Friends | 4.00% | ~10,698 |
+| Flight the Good Flight | 4.00% | ~10,698 |
+| A Keen Sense of Spell | 4.00% | ~10,698 |
+| A Talent for Spending | 4.00% | ~10,698 |
+| Followed the Butterflies | 4.00% | ~10,698 |
+| The Spell Master | 4.00% | ~10,698 |
 | The Seeker of Knowledge | 3.00% | ~8,023 |
 | The Root of the Problem | 3.00% | ~8,023 |
 | Third Time's a Charm | 3.00% | ~8,023 |
@@ -43,15 +43,15 @@ Rating: 4.77 (Ranked 103)
 | Rise to the Challenges | 1.00% | ~2,674 |
 | Finishing Touches | 1.00% | ~2,674 |
 | The Wise Owl | 1.00% | ~2,674 |
-| Demiguise Dread | 0.80% | ~2,139 |
-| A Forte for Achievement | 0.80% | ~2,139 |
+| Demiguise Dread | 0.80% | ~2,140 |
+| A Forte for Achievement | 0.80% | ~2,140 |
 | Savvy Spender | 0.70% | ~1,872 |
 | Merlin's Beard! | 0.60% | ~1,605 |
 | Spilled Milk | 0.50% | ~1,337 |
 | The Nature of the Beast | 0.40% | ~1,070 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,433 (Ranked 38)  
+Progressed: 267,440 (Ranked 38)  
 Completed: 363 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,10 +78,10 @@ Completed: 363 (0.14%) (Ranked 149)
 | 2023-05-14 | 267,111 | 362 |
 | 2023-05-15 | 267,261 | 362 |
 | 2023-05-16 | 267,382 | 362 |
-| 2023-05-17 | 267,433 | 363 |
+| 2023-05-17 | 267,440 | 363 |
 ## Awards
 Max (Character Customization): 18,815  (Ranked 18)  
-Sum: 34,553 (Ranked 33)  
+Sum: 34,556 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): -15
 | This game is Great for Beginners | 761 |
 | This game is Relaxing | 739 |
 | This game has Diverse Characters | 732 |
-| This game has Amazing Storytelling | 729 |
+| This game has Amazing Storytelling | 732 |
 | This game has Amazing Characters | 724 |
 | This game is Highly Recommended | 701 |
 | This game has Quickly Understood Controls | 642 |
@@ -154,4 +154,4 @@ Diff (max vs sum): -15
 | 2023-05-14 | 4.77 | 18,751 | 34,388 |
 | 2023-05-15 | 4.77 | 18,787 | 34,478 |
 | 2023-05-16 | 4.77 | 18,815 | 34,548 |
-| 2023-05-17 | 4.77 | 18,815 | 34,553 |
+| 2023-05-17 | 4.77 | 18,815 | 34,556 |

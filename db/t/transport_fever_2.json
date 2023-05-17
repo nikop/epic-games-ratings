@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -1113,9 +1113,9 @@
       "ID": "achBuildBusStop",
       "SetID": "dgl390n",
       "Name": "First bus stop",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 760
     },
     {
       "ID": "achBuildTrainStation",
@@ -1513,8 +1513,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-15T19:58:54.3106025+00:00",
-  "LastChanged_Achievements": "2023-05-17T12:05:46.6633138+00:00",
+  "LastChanged_Achievements": "2023-05-17T13:12:14.5766542+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.0727856+00:00",
-  "LastUpdate_Ratings": "2023-05-17T11:59:46.0864822+00:00",
-  "LastUpdate_Achievements": "2023-05-17T12:05:46.6633601+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:05:55.0174908+00:00",
+  "LastUpdate_Achievements": "2023-05-17T13:12:14.5767099+00:00"
 }

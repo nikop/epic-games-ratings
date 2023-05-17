@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 93.00% | ~55 |
-| Bullseye! | 86.00% | ~51 |
+| Level Up! | 95.00% | ~56 |
+| Bullseye! | 88.00% | ~52 |
 | Villfir Forest | 83.00% | ~49 |
-| Graduation! | 76.00% | ~45 |
+| Graduation! | 78.00% | ~46 |
 | Right in the kisser! | 66.00% | ~39 |
 | Duscot Steamcity | 58.00% | ~34 |
 | The Shaman | 56.00% | ~33 |

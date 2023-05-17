@@ -4050,9 +4050,9 @@
       "Count": 346
     }
   ],
-  "EOS_Progressed": 702998,
+  "EOS_Progressed": 703001,
   "EOS_Completed": 12728,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6100,6 +6100,11 @@
       "Time": "2023-05-17T11:05:34.0014605+00:00",
       "NumProgressed": 702998,
       "NumCompleted": 12728
+    },
+    {
+      "Time": "2023-05-17T13:11:49.689759+00:00",
+      "NumProgressed": 703001,
+      "NumCompleted": 12728
     }
   ],
   "TotalAchievements": 50,
@@ -6479,7 +6484,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -6503,28 +6508,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12299,
-      "Completed": 10116
+      "Progressed": 12302,
+      "Completed": 10118
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 702998,
+      "Progressed": 703001,
       "Completed": 12728
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-16T20:59:05.0815079+00:00",
-  "LastChanged_Achievements": "2023-05-17T12:05:33.1076087+00:00",
+  "LastChanged_Achievements": "2023-05-17T13:11:49.6897583+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-17T11:59:08.6890921+00:00",
-  "LastUpdate_Achievements": "2023-05-17T12:05:33.1076525+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:05:09.8177752+00:00",
+  "LastUpdate_Achievements": "2023-05-17T13:11:49.6898135+00:00"
 }

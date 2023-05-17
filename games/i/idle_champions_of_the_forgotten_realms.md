@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Icequake | 0.10% | ~54 |
 | A Lesson in Classes | 0.10% | ~54 |
 | The Prince of a Thousand Enemies | 0.10% | ~54 |
+| Uncommon Allies | 0.10% | ~54 |
 | The Birds | 0.10% | ~54 |
 | Where the Magic Happens | 0.10% | ~54 |
 | Downfall | 0.10% | ~54 |
@@ -71,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All Damage, All The Time | 0.10% | ~54 |
 | Will of the Frozen Feywild | 0.10% | ~54 |
 | The Roots of Loomlurch | 0.10% | ~54 |
+| The Loots of Loomlurch | 0.10% | ~54 |
 | The Lutes of Loomlurch | 0.10% | ~54 |
 | Supply Run | 0.10% | ~88 |
 | Best Laid Plans | 0.10% | ~54 |
@@ -142,6 +144,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.10% | ~88 |
 | Periodic Petrification | 0.10% | ~88 |
 | No Good at All | 0.10% | ~88 |
+| Fall From Grace | 0.10% | ~88 |
 | Captured! | 0.10% | ~88 |
 | Home Field Advantage | 0.10% | ~88 |
 | Double Vision | 0.10% | ~88 |
@@ -196,6 +199,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.10% | ~88 |
 | Seeds of Deceit | 0.10% | ~88 |
 | Visions of Strahd | 0.10% | ~88 |
+| Seeds of Corruption | 0.10% | ~88 |
 | Trollskull Manor | 0.10% | ~88 |
 | The Gargoyle's Apprentice | 0.10% | ~88 |
 | House of Darkness | 0.10% | ~88 |
@@ -269,6 +273,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Champions | 0.10% | ~88 |
 | A Tale of Two Years | 0.10% | ~54 |
 | The Dead Three | 0.10% | ~88 |
+| Slow and Steady | 0.10% | ~88 |
 | A Hero's Entourage | 0.10% | ~88 |
 | Sneak Attack | 0.10% | ~54 |
 | Flying Monkey Skulls of Doom | 0.10% | ~88 |
@@ -410,6 +415,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.10% | ~54 |
 | Mimic Perception | 0.10% | ~54 |
 | Frozen in Fear | 0.10% | ~54 |
+| It's Cold Out There Today | 0.10% | ~54 |
 | Sunblight | 0.10% | ~54 |
 | Fortress Assault | 0.10% | ~54 |
 | Hats off to you! | 0.10% | ~54 |
@@ -474,16 +480,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.10% | ~88 |
 | Back to Nature | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
-| Uncommon Allies | 0.00% | ~0 |
-| The Loots of Loomlurch | 0.00% | ~0 |
 | Struggling Toward Omu | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Fall From Grace | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
-| Seeds of Corruption | 0.00% | ~0 |
 | The Strahd Squad | 0.00% | ~0 |
-| Slow and Steady | 0.00% | ~0 |
 | On The Job Learning | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
@@ -491,7 +492,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | Madcap Adventures Redux | 0.00% | ~0 |
 | Wrecked Flying Fortress | 0.00% | ~0 |
-| It's Cold Out There Today | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,758 (Ranked 59)  
+Progressed: 87,765 (Ranked 59)  
 Completed: 1,848 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,7 +527,7 @@ Completed: 1,848 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,758 | 1,848 |
+| 2023-05-17 | 87,765 | 1,848 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,900 (Ranked 37)  

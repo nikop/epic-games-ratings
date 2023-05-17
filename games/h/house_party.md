@@ -8,9 +8,9 @@ Number of Ratings: 177  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Friend in Need... | 1.00% | ~50 |
 | Smooth Operator: Madison | 0.80% | ~40 |
+| Drunk and Disorderly: Stephanie | 0.50% | ~25 |
 | Katherine | 0.50% | ~25 |
 | The Brahdyssey | 0.40% | ~20 |
-| Drunk and Disorderly: Stephanie | 0.40% | ~20 |
 | Life Found a Way | 0.40% | ~8 |
 | Relentless | 0.40% | ~20 |
 | If at First You Don't Succeed... | 0.40% | ~20 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 | Derezzed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,972 (Ranked 123)  
+Progressed: 4,973 (Ranked 123)  
 Completed: 2 (0.04%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 2 (0.04%) (Ranked 176)
 | 2023-05-13 | 4,963 | 2 |
 | 2023-05-15 | 4,968 | 2 |
 | 2023-05-16 | 4,971 | 2 |
-| 2023-05-17 | 4,972 | 2 |
+| 2023-05-17 | 4,973 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

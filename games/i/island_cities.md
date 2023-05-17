@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 100.00% | ~73 |
-| A tiny town | 81.00% | ~59 |
-| Buildings, roads, cars, ...and people | 67.00% | ~49 |
-| Great view from the beach and from the hill | 56.00% | ~41 |
-| Bridges to come and go | 52.00% | ~38 |
+| Welcome! | 100.00% | ~74 |
+| A tiny town | 80.00% | ~59 |
+| Buildings, roads, cars, ...and people | 66.00% | ~49 |
+| Great view from the beach and from the hill | 55.00% | ~41 |
+| Bridges to come and go | 51.00% | ~38 |
 | Found an oasis | 42.00% | ~31 |
-| Burger or pizza? | 37.00% | ~27 |
-| Passion for sports | 33.00% | ~24 |
-| Who loves trains? | 29.00% | ~21 |
-| Easy and steady climb | 29.00% | ~21 |
-| At the heart of the city | 29.00% | ~21 |
+| Burger or pizza? | 36.00% | ~27 |
+| Passion for sports | 32.00% | ~24 |
+| Who loves trains? | 28.00% | ~21 |
+| Easy and steady climb | 28.00% | ~21 |
+| At the heart of the city | 28.00% | ~21 |
 | Calm neighborhood | 27.00% | ~20 |
 | Elevated ring | 27.00% | ~20 |
 | Not lonely anymore | 23.00% | ~17 |
@@ -27,8 +27,8 @@
 | Happy Christmas night! | 19.00% | ~14 |
 | Night walk along the beach | 19.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 263)  
-Completed: 14 (19.18%) (Ranked 8)  
+Progressed: 74 (Ranked 263)  
+Completed: 14 (18.92%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,6 +52,7 @@ Completed: 14 (19.18%) (Ranked 8)
 | 2023-05-13 | 68 | 14 |
 | 2023-05-14 | 71 | 14 |
 | 2023-05-15 | 73 | 14 |
+| 2023-05-17 | 74 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2368,10 +2368,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 34553,
       "NumberOfAwardsMax": 18815
+    },
+    {
+      "Time": "2023-05-17T13:02:54.5122146+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34556,
+      "NumberOfAwardsMax": 18815
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34553,
+  "NumberOfAwards": 34556,
   "NumberOfAwardsMax": 18815,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2433,7 +2439,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 729
+      "Count": 732
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2448,9 +2454,9 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 267433,
+  "EOS_Progressed": 267440,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4938,6 +4944,11 @@
       "Time": "2023-05-17T12:03:19.7841845+00:00",
       "NumProgressed": 267433,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-05-17T13:09:12.1844694+00:00",
+      "NumProgressed": 267440,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 45,
@@ -4997,7 +5008,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "PFA_16",
@@ -5013,7 +5024,7 @@
       "Name": "Beast Friends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "PFA_18",
@@ -5029,7 +5040,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "PFA_2",
@@ -5069,7 +5080,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "PFA_24",
@@ -5133,7 +5144,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "PFA_31",
@@ -5173,7 +5184,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "PFA_36",
@@ -5221,7 +5232,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "PFA_41",
@@ -5253,7 +5264,7 @@
       "Name": "The Spell Master",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "PFA_45",
@@ -5261,7 +5272,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "PFA_5",
@@ -5308,16 +5319,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267433,
+      "Progressed": 267440,
       "Completed": 363
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-05-17T04:57:14.5963388+00:00",
-  "LastChanged_Achievements": "2023-05-17T12:03:19.7841836+00:00",
+  "LastChanged": "2023-05-17T13:02:54.5122143+00:00",
+  "LastChanged_Achievements": "2023-05-17T13:09:12.1844688+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-17T11:57:27.6143239+00:00",
-  "LastUpdate_Achievements": "2023-05-17T12:03:19.7842248+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:02:54.512215+00:00",
+  "LastUpdate_Achievements": "2023-05-17T13:09:12.1845238+00:00"
 }

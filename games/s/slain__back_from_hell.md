@@ -1,26 +1,26 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 769)  
+Rating: 4.28 (Ranked 768)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,184 |
-| A Good Day To Die | 16.00% | ~3,347 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,255 |
-| Right Back Atcha | 6.00% | ~1,255 |
+| Man 'O War | 20.00% | ~4,186 |
+| A Good Day To Die | 16.00% | ~3,349 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,256 |
+| Right Back Atcha | 6.00% | ~1,256 |
 | Killed by Death | 5.00% | ~1,046 |
 | Kill 'Em All | 4.00% | ~837 |
-| Down Boy! | 2.00% | ~418 |
-| A Snowball's Chance in Hell | 2.00% | ~418 |
+| Down Boy! | 2.00% | ~419 |
+| A Snowball's Chance in Hell | 2.00% | ~419 |
 | Enjoy The Silence | 1.00% | ~209 |
 | Sure Footed As A Goat | 0.90% | ~188 |
 | Thorn in My Herbicide | 0.80% | ~167 |
 | Backdoor Man | 0.80% | ~167 |
 | Schadenfreude | 0.80% | ~167 |
-| Red In Tooth And Claw | 0.70% | ~146 |
-| Death Becomes Her | 0.70% | ~146 |
-| The Sky Is Falling | 0.70% | ~146 |
+| Red In Tooth And Claw | 0.70% | ~147 |
+| Death Becomes Her | 0.70% | ~147 |
+| The Sky Is Falling | 0.70% | ~147 |
 | Start As You Mean To Go On | 0.60% | ~126 |
 | Hail the Great Horned Metal God! | 0.60% | ~126 |
 | That'll Come In Handy... | 0.60% | ~126 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 769)
 | Too Metal For Magic | 0.10% | ~21 |
 | Heart Of Steel | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,921 (Ranked 92)  
+Progressed: 20,930 (Ranked 92)  
 Completed: 16 (0.08%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 16 (0.08%) (Ranked 164)
 | 2023-05-14 | 20,632 | 16 |
 | 2023-05-15 | 20,754 | 16 |
 | 2023-05-16 | 20,882 | 16 |
-| 2023-05-17 | 20,921 | 16 |
+| 2023-05-17 | 20,930 | 16 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 299)  
 Sum: 125 (Ranked 389)  

@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Don't Panic! | 97.00% | ~577 |
+| Friendzone | 79.00% | ~470 |
 | Space Colonization | 79.00% | ~470 |
-| Friendzone | 78.00% | ~464 |
 | Hello World | 73.00% | ~434 |
 | Tinkerer | 63.00% | ~375 |
 | Space Engineer | 61.00% | ~363 |
-| Dust to Dust | 56.00% | ~333 |
+| Dust to Dust | 57.00% | ~339 |
 | Across The Stars | 47.00% | ~280 |
 | Crafty | 44.00% | ~262 |
 | All Seats Taken | 35.00% | ~208 |

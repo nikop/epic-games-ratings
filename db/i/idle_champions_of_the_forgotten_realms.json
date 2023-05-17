@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3748,9 +3748,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87758,
+  "EOS_Progressed": 87765,
   "EOS_Completed": 1848,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6243,6 +6243,11 @@
       "Time": "2023-05-17T12:05:51.6703028+00:00",
       "NumProgressed": 87758,
       "NumCompleted": 1848
+    },
+    {
+      "Time": "2023-05-17T13:12:19.7850763+00:00",
+      "NumProgressed": 87765,
+      "NumCompleted": 1848
     }
   ],
   "TotalAchievements": 493,
@@ -6500,9 +6505,9 @@
       "ID": "objective_completed_1081",
       "SetID": "415jc5c",
       "Name": "Uncommon Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1082",
@@ -6796,9 +6801,9 @@
       "ID": "objective_completed_1138",
       "SetID": "415jc5c",
       "Name": "The Loots of Loomlurch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1139",
@@ -7396,9 +7401,9 @@
       "ID": "objective_completed_152",
       "SetID": "cc37lbc",
       "Name": "Fall From Grace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_154",
@@ -7844,9 +7849,9 @@
       "ID": "objective_completed_269",
       "SetID": "cc37lbc",
       "Name": "Seeds of Corruption",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_270",
@@ -8444,9 +8449,9 @@
       "ID": "objective_completed_546",
       "SetID": "cc37lbc",
       "Name": "Slow and Steady",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_547",
@@ -9636,9 +9641,9 @@
       "ID": "objective_completed_830",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Today",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_832",
@@ -10197,21 +10202,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54032,
+      "Progressed": 54039,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87758,
+      "Progressed": 87765,
       "Completed": 1848
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T12:05:51.6703024+00:00",
+  "LastChanged_Achievements": "2023-05-17T13:12:19.7850757+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T11:58:09.4536686+00:00",
-  "LastUpdate_Achievements": "2023-05-17T12:05:51.6724562+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:03:55.8745684+00:00",
+  "LastUpdate_Achievements": "2023-05-17T13:12:19.7875386+00:00"
 }

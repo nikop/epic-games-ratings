@@ -694,9 +694,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "TrattoriaSet",
@@ -767,8 +767,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-17T12:05:22.2558355+00:00",
+  "LastChanged_Achievements": "2023-05-17T13:11:37.1465832+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:21.5130518+00:00",
-  "LastUpdate_Ratings": "2023-05-17T11:58:32.7133168+00:00",
-  "LastUpdate_Achievements": "2023-05-17T12:05:22.2558614+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:04:25.6142617+00:00",
+  "LastUpdate_Achievements": "2023-05-17T13:11:37.1466173+00:00"
 }
