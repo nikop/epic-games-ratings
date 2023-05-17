@@ -2,9 +2,9 @@
   "ID": "7e887c070d814ebdb22be99092a295c4",
   "Name": "Tracks of Thought",
   "ProductSlug": "tracks-of-thought-06122b",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T17:59:19.6273432+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:05:38.1560164+00:00",
-  "LastUpdate_Achievements": "2023-05-17T13:10:20.5986967+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:59:43.7803159+00:00",
+  "LastUpdate_Achievements": "2023-05-17T14:04:20.3892814+00:00"
 }

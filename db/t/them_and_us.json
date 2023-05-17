@@ -310,9 +310,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -478,17 +478,17 @@
       "ID": "ETUA_ParasiteExterminated",
       "SetID": "65jc0ap",
       "Name": "Parasite Exterminated",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_Researcher",
       "SetID": "65jc0ap",
       "Name": "Researcher",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -518,9 +518,9 @@
       "ID": "ETUA_StayDead",
       "SetID": "65jc0ap",
       "Name": "I Am The Gate Keeper!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -566,9 +566,9 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-17T13:07:38.2999432+00:00",
+  "LastChanged_Achievements": "2023-05-17T14:01:28.9556598+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:02:47.5922904+00:00",
-  "LastUpdate_Achievements": "2023-05-17T13:07:38.2999871+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:57:13.9313382+00:00",
+  "LastUpdate_Achievements": "2023-05-17T14:01:28.9557007+00:00"
 }

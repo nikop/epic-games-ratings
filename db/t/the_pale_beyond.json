@@ -2,9 +2,9 @@
   "ID": "50c67b0f3a8b44a5adcaabcfe2c499a9",
   "Name": "The Pale Beyond",
   "ProductSlug": "the-pale-beyond-e09cae",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-24T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:22.9345755+00:00",
   "LastChanged": "2023-03-31T05:57:22.9345755+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:07.5833681+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:05:23.4560308+00:00",
-  "LastUpdate_Achievements": "2023-05-17T13:10:15.7445857+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:59:31.4488578+00:00",
+  "LastUpdate_Achievements": "2023-05-17T14:04:16.3867627+00:00"
 }

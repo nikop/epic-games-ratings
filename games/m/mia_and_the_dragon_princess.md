@@ -12,11 +12,11 @@
 | Explosive End | 18.00% | ~7 |
 | Snitch | 18.00% | ~7 |
 | Codebreaker | 16.00% | ~6 |
+| Finger-Lickin' Bad | 16.00% | ~6 |
 | Set Sail | 16.00% | ~6 |
 | A Box of Tricks | 13.00% | ~5 |
 | Backstory Buff | 13.00% | ~5 |
 | Breathless End | 13.00% | ~5 |
-| Finger-Lickin' Bad | 13.00% | ~5 |
 | Flying High | 11.00% | ~4 |
 | Fool's Gold | 5.00% | ~2 |
 | Escape Artist | 3.00% | ~1 |

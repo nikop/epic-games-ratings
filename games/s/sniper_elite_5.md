@@ -5,8 +5,8 @@ Rating: 4.40 (Ranked 669)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Sink or Swim | 0.30% | ~2 |
 | Change the Channel | 0.10% | ~1 |
-| Sink or Swim | 0.10% | ~1 |
 | Climbing the Ladder | 0.00% | ~0 |
 | Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |

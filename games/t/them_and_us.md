@@ -9,22 +9,22 @@
 | A Night To Remember | 28.00% | ~22 |
 | Safe...For now? | 23.00% | ~18 |
 | Open Sesame | 16.00% | ~13 |
+| Alone In The Dark | 10.00% | ~8 |
 | Them and Us | 10.00% | ~8 |
 | OUTRAGE | 10.00% | ~8 |
 | What have I done!? | 10.00% | ~8 |
-| Alone In The Dark | 9.00% | ~7 |
+| Parasite Exterminated | 9.00% | ~7 |
 | The Cultists | 9.00% | ~7 |
 | This Coffin Has Your Name On It! | 9.00% | ~7 |
-| Parasite Exterminated | 8.00% | ~6 |
+| The Forgotten Tower | 6.00% | ~5 |
 | Lover of classics | 5.00% | ~4 |
-| The Forgotten Tower | 5.00% | ~4 |
+| Researcher | 4.00% | ~3 |
 | Rest In Peace | 4.00% | ~3 |
+| I Am The Gate Keeper! | 4.00% | ~3 |
 | The bus stop | 4.00% | ~3 |
 | The Curse Is Real | 4.00% | ~3 |
 | What A Mansion | 4.00% | ~3 |
 | Modern Player | 3.00% | ~2 |
-| Researcher | 3.00% | ~2 |
-| I Am The Gate Keeper! | 3.00% | ~2 |
 | Trapped | 3.00% | ~2 |
 | Armed To The Teeth | 1.00% | ~1 |
 | Back In Time | 1.00% | ~1 |

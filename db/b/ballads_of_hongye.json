@@ -2,9 +2,9 @@
   "ID": "3f7f2afed90845d4969708fe3da99e4a",
   "Name": "Ballads of Hongye",
   "ProductSlug": "ballads-of-hongye-54e69d",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-12-07T07:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:41.0153444+00:00",
   "LastChanged": "2023-03-31T05:57:41.0153445+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:51.8541931+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:03:47.6003879+00:00",
-  "LastUpdate_Achievements": "2023-05-17T13:08:00.6111483+00:00"
+  "LastUpdate_Ratings": "2023-05-17T13:58:06.2545818+00:00",
+  "LastUpdate_Achievements": "2023-05-17T14:03:06.9508615+00:00"
 }

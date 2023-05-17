@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | All Set Up | 99.00% | ~352 |
 | Digital Casanova | 96.00% | ~342 |
-| Hold my Beer | 64.00% | ~228 |
+| Hold my Beer | 65.00% | ~231 |
 | Nueva Beginnings | 35.00% | ~125 |
 | Only Thyme Will Tell | 33.00% | ~117 |
 | Not Alone | 30.00% | ~107 |

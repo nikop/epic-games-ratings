@@ -6,12 +6,12 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,808 |
-| Rookie | 24.00% | ~5,162 |
+| Finding Your Footing | 27.00% | ~5,809 |
+| Rookie | 24.00% | ~5,163 |
 | Nomad | 19.00% | ~4,087 |
 | Picking Up Speed | 17.00% | ~3,657 |
 | Welcome Maya | 16.00% | ~3,442 |
-| Sightseer | 12.00% | ~2,581 |
+| Sightseer | 12.00% | ~2,582 |
 | Scout | 10.00% | ~2,151 |
 | Amateur | 9.00% | ~1,936 |
 | Enter Paz | 9.00% | ~1,936 |
@@ -21,8 +21,8 @@ Number of Ratings: 332  (23.09.2022)
 | One With The Board | 6.00% | ~1,291 |
 | Voyager | 6.00% | ~1,291 |
 | My Little Friend | 5.00% | ~1,076 |
-| Sandboarder | 4.00% | ~860 |
-| Izel Has Arrived | 4.00% | ~860 |
+| Sandboarder | 4.00% | ~861 |
+| Izel Has Arrived | 4.00% | ~861 |
 | Junkie | 3.00% | ~645 |
 | Traveler | 3.00% | ~645 |
 | Journeyer | 3.00% | ~645 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~22 |
 | Windswept | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,510 (Ranked 91)  
+Progressed: 21,513 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 3 (0.01%) (Ranked 191)
 | 2023-05-14 | 21,181 | 3 |
 | 2023-05-15 | 21,324 | 3 |
 | 2023-05-16 | 21,443 | 3 |
-| 2023-05-17 | 21,510 | 3 |
+| 2023-05-17 | 21,513 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 405)  
 Sum: 344 (Ranked 315)  

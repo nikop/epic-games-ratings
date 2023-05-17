@@ -2,9 +2,9 @@
   "ID": "042782770f1b4a979eded16c92bfd61c",
   "Name": "VR Soccer 96",
   "ProductSlug": "vr-soccer-96-bcb59f",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-19T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3692924+00:00",
   "LastChanged": "2023-03-31T05:58:26.3692925+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.314265+00:00",
-  "LastUpdate_Ratings": "2023-05-17T13:06:03.6015526+00:00",
-  "LastUpdate_Achievements": "2023-05-17T13:07:18.071263+00:00"
+  "LastUpdate_Ratings": "2023-05-17T14:00:08.1487127+00:00",
+  "LastUpdate_Achievements": "2023-05-17T14:01:11.8060628+00:00"
 }

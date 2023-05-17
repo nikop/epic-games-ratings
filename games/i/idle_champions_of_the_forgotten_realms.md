@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.10% | ~54 |
 | Nightmare Rats! | 0.10% | ~54 |
 | An Unexpected Geist | 0.10% | ~54 |
+| Back to Nature | 0.10% | ~54 |
 | The Witchlight Carnival | 0.10% | ~54 |
 | A Monarch Among Us | 0.10% | ~54 |
 | A Dragon Against Us | 0.10% | ~54 |
@@ -28,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Go Fourth | 0.10% | ~54 |
 | Hither of the Feywild | 0.10% | ~54 |
 | Don't Breathe the Marsh Gas | 0.10% | ~54 |
+| Don't Blast the Brigands | 0.10% | ~54 |
 | Don't Squeeze the Spiders | 0.10% | ~54 |
 | The Spire of Iriolarthas | 0.10% | ~54 |
 | Always Watching | 0.10% | ~54 |
@@ -307,6 +309,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Poison | 0.10% | ~88 |
 | Vault of Cuteness | 0.10% | ~54 |
 | Champions of Waterdeep | 0.10% | ~88 |
+| On The Job Learning | 0.10% | ~88 |
 | Running of the Saurs | 0.10% | ~88 |
 | Lost in the Goblin Halls | 0.10% | ~88 |
 | Batiri in the Goblin Halls | 0.10% | ~88 |
@@ -478,14 +481,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~88 |
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
-| Back to Nature | 0.00% | ~0 |
-| Don't Blast the Brigands | 0.00% | ~0 |
 | Struggling Toward Omu | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
 | The Strahd Squad | 0.00% | ~0 |
-| On The Job Learning | 0.00% | ~0 |
 | Strike! | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,765 (Ranked 59)  
+Progressed: 87,768 (Ranked 59)  
 Completed: 1,848 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -527,17 +527,17 @@ Completed: 1,848 (2.11%) (Ranked 60)
 | 2023-05-14 | 87,546 | 1,842 |
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
-| 2023-05-17 | 87,765 | 1,848 |
+| 2023-05-17 | 87,768 | 1,848 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
-Sum: 29,900 (Ranked 37)  
+Sum: 29,904 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,885 |
 | This game is Great for Beginners | 4,826 |
-| This game has Quickly Understood Controls | 4,591 |
-| This game is Relaxing | 4,487 |
+| This game has Quickly Understood Controls | 4,593 |
+| This game is Relaxing | 4,489 |
 | This game is Highly Recommended | 3,938 |
 | This game has Amazing Characters | 3,938 |
 | This game has Playful Visuals | 3,235 |
@@ -655,3 +655,4 @@ Diff (max vs sum): 26
 | 2023-05-14 | 4.06 | - | 4,878 | 29,881 |
 | 2023-05-15 | 4.06 | - | 4,880 | 29,893 |
 | 2023-05-16 | 4.06 | - | 4,885 | 29,900 |
+| 2023-05-17 | 4.06 | - | 4,885 | 29,904 |

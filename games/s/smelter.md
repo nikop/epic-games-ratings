@@ -9,7 +9,7 @@
 | Time to Bash Some Heads! | 84.00% | ~26 |
 | Shiny! | 74.00% | ~23 |
 | Deep in the Mounds | 71.00% | ~22 |
-| Locked Away | 32.00% | ~10 |
+| Locked Away | 35.00% | ~11 |
 | A Little Renovating | 32.00% | ~10 |
 | Smeltastic! | 32.00% | ~10 |
 | Deflect This! | 26.00% | ~8 |

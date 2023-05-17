@@ -5,8 +5,8 @@ Rating: 3.64 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~988 |
-| World Map | 80.00% | ~841 |
+| Victor | 94.00% | ~989 |
+| World Map | 80.00% | ~842 |
 | Temple of Eternals | 56.00% | ~589 |
 | Prestigious | 52.00% | ~547 |
 | Fellowship Power | 39.00% | ~410 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,051 (Ranked 162)  
+Progressed: 1,052 (Ranked 162)  
 Completed: 1 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.10%) (Ranked 156)
 | 2023-05-14 | 1,017 | 1 |
 | 2023-05-15 | 1,032 | 1 |
 | 2023-05-16 | 1,047 | 1 |
-| 2023-05-17 | 1,051 | 1 |
+| 2023-05-17 | 1,052 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
