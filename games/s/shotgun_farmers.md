@@ -19,9 +19,9 @@
 | Getting Started | 13.00% | ~7 |
 | Fresh Pancake | 12.00% | ~6 |
 | Quit Horsin' Around | 12.00% | ~6 |
+| Bring Home The Bacon | 10.00% | ~5 |
 | Chick Magnet | 10.00% | ~5 |
 | Carrocketeer | 10.00% | ~5 |
-| Bring Home The Bacon | 8.00% | ~4 |
 | Honk Honk | 8.00% | ~4 |
 | Darkside Survivor | 8.00% | ~4 |
 | Forestside Survivor | 8.00% | ~4 |

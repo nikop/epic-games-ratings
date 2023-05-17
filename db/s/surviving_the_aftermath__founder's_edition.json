@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5360,
+  "EOS_Progressed": 5361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3001,6 +3001,11 @@
       "Time": "2023-05-17T03:06:01.9859209+00:00",
       "NumProgressed": 5360,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T04:05:58.8929096+00:00",
+      "NumProgressed": 5361,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3012,7 +3017,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3216
+      "UsersEstimate": 3217
     },
     {
       "ID": "10",
@@ -3124,7 +3129,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "23",
@@ -3132,7 +3137,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "24",
@@ -3236,7 +3241,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "36",
@@ -3268,7 +3273,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "4",
@@ -3372,7 +3377,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "51",
@@ -3404,7 +3409,7 @@
       "Name": "Top Notch",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "55",
@@ -3483,15 +3488,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5360,
+      "Progressed": 5361,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-17T03:06:01.9859201+00:00",
+  "LastChanged_Achievements": "2023-05-17T04:05:58.8929085+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:00:08.6866807+00:00",
-  "LastUpdate_Achievements": "2023-05-17T03:06:01.9860414+00:00"
+  "LastUpdate_Ratings": "2023-05-17T03:59:51.2818621+00:00",
+  "LastUpdate_Achievements": "2023-05-17T04:05:58.8929624+00:00"
 }

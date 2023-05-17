@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 69.00% | ~53 |
-| Forced to Kill | 69.00% | ~53 |
-| A Night To Remember | 29.00% | ~22 |
+| Alone with Them | 68.00% | ~53 |
+| Forced to Kill | 68.00% | ~53 |
+| A Night To Remember | 28.00% | ~22 |
 | Safe...For now? | 23.00% | ~18 |
 | Open Sesame | 17.00% | ~13 |
 | Them and Us | 10.00% | ~8 |
@@ -19,10 +19,12 @@
 | Lover of classics | 5.00% | ~4 |
 | The Forgotten Tower | 5.00% | ~4 |
 | The bus stop | 4.00% | ~3 |
+| Modern Player | 3.00% | ~2 |
 | Researcher | 3.00% | ~2 |
 | Rest In Peace | 3.00% | ~2 |
 | I Am The Gate Keeper! | 3.00% | ~2 |
 | The Curse Is Real | 3.00% | ~2 |
+| Trapped | 3.00% | ~2 |
 | What A Mansion | 3.00% | ~2 |
 | Armed To The Teeth | 1.00% | ~1 |
 | Back In Time | 1.00% | ~1 |
@@ -35,7 +37,6 @@
 | Spiritual essence well spent | 1.00% | ~1 |
 | Life Of The Thousand Gods | 1.00% | ~1 |
 | Run and Gun | 1.00% | ~1 |
-| Modern Player | 1.00% | ~1 |
 | Nightmare Over | 1.00% | ~1 |
 | No Time To Relax | 1.00% | ~1 |
 | Pet The Dog | 1.00% | ~1 |
@@ -43,10 +44,9 @@
 | Survival Hero | 1.00% | ~1 |
 | The 5th Element | 1.00% | ~1 |
 | This Mansion Is Clean | 1.00% | ~1 |
-| Trapped | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77 (Ranked 259)  
-Completed: 1 (1.30%) (Ranked 76)  
+Progressed: 78 (Ranked 257)  
+Completed: 1 (1.28%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,6 +57,7 @@ Completed: 1 (1.30%) (Ranked 76)
 | 2023-05-14 | 56 | 1 |
 | 2023-05-15 | 69 | 1 |
 | 2023-05-16 | 77 | 1 |
+| 2023-05-17 | 78 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

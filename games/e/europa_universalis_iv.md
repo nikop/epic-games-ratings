@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,427 |
-| That's a Grand Army | 8.00% | ~3,046 |
-| That is mine! | 8.00% | ~3,046 |
-| Victorious! | 8.00% | ~3,046 |
-| Brothers in Arms | 6.00% | ~2,285 |
-| That's a Grand Navy | 6.00% | ~2,285 |
-| Seriously?! | 6.00% | ~2,285 |
-| For the Glory | 5.00% | ~1,904 |
-| Cold War | 4.00% | ~1,523 |
-| True Catholic | 4.00% | ~1,523 |
-| Defender of the Faith | 3.00% | ~1,142 |
-| It's all about the money | 3.00% | ~1,142 |
-| Respected | 3.00% | ~1,142 |
-| Truly Divine Ruler | 3.00% | ~1,142 |
+| Until death do us apart | 9.00% | ~3,429 |
+| That's a Grand Army | 8.00% | ~3,048 |
+| That is mine! | 8.00% | ~3,048 |
+| Victorious! | 8.00% | ~3,048 |
+| Brothers in Arms | 6.00% | ~2,286 |
+| That's a Grand Navy | 6.00% | ~2,286 |
+| Seriously?! | 6.00% | ~2,286 |
+| For the Glory | 5.00% | ~1,905 |
+| Cold War | 4.00% | ~1,524 |
+| True Catholic | 4.00% | ~1,524 |
+| Defender of the Faith | 3.00% | ~1,143 |
+| It's all about the money | 3.00% | ~1,143 |
+| Respected | 3.00% | ~1,143 |
+| Truly Divine Ruler | 3.00% | ~1,143 |
 | Blockader | 2.00% | ~762 |
 | Combined Arms | 2.00% | ~762 |
 | Double the Love | 2.00% | ~762 |
@@ -43,14 +43,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.70% | ~267 |
 | The Emperors new clothes | 0.70% | ~267 |
 | This navy can take it all | 0.70% | ~267 |
-| Time Bandit | 0.60% | ~228 |
-| Trustworthy | 0.60% | ~228 |
+| Time Bandit | 0.60% | ~229 |
+| Trustworthy | 0.60% | ~229 |
 | All belongs to Mother Russia | 0.50% | ~190 |
 | At every continent | 0.50% | ~190 |
 | Early-Modern Warfare | 0.50% | ~190 |
 | Electable! | 0.50% | ~190 |
 | Absolutely | 0.40% | ~152 |
 | Dude, Where's my Boat? | 0.40% | ~152 |
+| In the Name of the Father | 0.40% | ~152 |
 | Live Long and Prosper | 0.40% | ~152 |
 | One Family to Rule them All | 0.40% | ~152 |
 | Populists in Government | 0.40% | ~152 |
@@ -66,7 +67,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Global Hegemony | 0.30% | ~114 |
 | Grand Coalition | 0.30% | ~114 |
 | Grand Duchy | 0.30% | ~114 |
-| In the Name of the Father | 0.30% | ~114 |
 | Italian Ambition | 0.30% | ~114 |
 | One Night in Paris | 0.30% | ~114 |
 | Tear Down This Wall | 0.30% | ~114 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,081 (Ranked 80)  
+Progressed: 38,095 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-14 | 36,905 | 0 |
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
-| 2023-05-17 | 38,081 | 0 |
+| 2023-05-17 | 38,095 | 0 |
 ## Awards
 Max (Educational): 5,228  (Ranked 60)  
 Sum: 43,275 (Ranked 27)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -4564,10 +4564,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 26820,
       "NumberOfAwardsMax": 7168
+    },
+    {
+      "Time": "2023-05-17T03:58:14.0874366+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26821,
+      "NumberOfAwardsMax": 7168
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26820,
+  "NumberOfAwards": 26821,
   "NumberOfAwardsMax": 7168,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4593,7 +4599,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1622
+      "Count": 1623
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4650,7 +4656,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 781423,
+  "EOS_Progressed": 781424,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 1039,
   "EOS_NewCompleters": 0,
@@ -7130,6 +7136,11 @@
       "Time": "2023-05-17T03:05:45.3177263+00:00",
       "NumProgressed": 781423,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-17T04:05:42.2601974+00:00",
+      "NumProgressed": 781424,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -7341,7 +7352,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179727
+      "UsersEstimate": 179728
     },
     {
       "ID": "Fighter",
@@ -7357,7 +7368,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 117213
+      "UsersEstimate": 117214
     },
     {
       "ID": "Freud",
@@ -7796,15 +7807,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 781423,
+      "Progressed": 781424,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-05-16T23:58:08.9155291+00:00",
-  "LastChanged_Achievements": "2023-05-17T03:05:45.3177256+00:00",
+  "LastChanged": "2023-05-17T03:58:14.0874365+00:00",
+  "LastChanged_Achievements": "2023-05-17T04:05:42.2601963+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.3995489+00:00",
-  "LastUpdate_Ratings": "2023-05-17T02:58:28.1171358+00:00",
-  "LastUpdate_Achievements": "2023-05-17T03:05:45.3178374+00:00"
+  "LastUpdate_Ratings": "2023-05-17T03:58:14.0874371+00:00",
+  "LastUpdate_Achievements": "2023-05-17T04:05:42.2602793+00:00"
 }

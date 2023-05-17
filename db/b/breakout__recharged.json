@@ -2,10 +2,10 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.9,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -46,6 +46,11 @@
       "Time": "2023-05-07T15:06:08.8825389+00:00",
       "NumProgressed": 69,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-17T04:05:13.5131891+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -57,7 +62,7 @@
       "Name": "Another Brick in the Wall (Part 1)",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_ANOTHER_BRICK_2",
@@ -65,13 +70,13 @@
       "Name": "Another Brick in the Wall (Part 2)",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_ANOTHER_BRICK_3",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 3)",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
       "UsersEstimate": 28
     },
@@ -81,7 +86,7 @@
       "Name": "Is There Anybody Out There?",
       "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
@@ -95,7 +100,7 @@
       "ID": "ACH_BURNING_BRIDGES",
       "SetID": "5kae3ip",
       "Name": "Burning Bridges",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
       "UsersEstimate": 22
     },
@@ -103,17 +108,17 @@
       "ID": "ACH_CLUSTER_ONE",
       "SetID": "5kae3ip",
       "Name": "Cluster One",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
@@ -127,25 +132,25 @@
       "ID": "ACH_ECHOES",
       "SetID": "5kae3ip",
       "Name": "Echoes",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_GUNNERS_DREAM",
       "SetID": "5kae3ip",
       "Name": "The Gunner\u0027s Dream",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_KING_BEE",
@@ -159,7 +164,7 @@
       "ID": "ACH_LAST_FEW_BRICK",
       "SetID": "5kae3ip",
       "Name": "The Last Few Bricks",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 75,
       "UsersEstimate": 22
     },
@@ -176,7 +181,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 2
     }
   ],
@@ -184,8 +189,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-05-17T03:05:16.1281813+00:00",
+  "LastChanged_Achievements": "2023-05-17T04:05:13.5131887+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.2591779+00:00",
-  "LastUpdate_Ratings": "2023-05-17T02:57:30.1185644+00:00",
-  "LastUpdate_Achievements": "2023-05-17T03:05:16.1281974+00:00"
+  "LastUpdate_Ratings": "2023-05-17T03:57:15.1552687+00:00",
+  "LastUpdate_Achievements": "2023-05-17T04:05:13.5131985+00:00"
 }

@@ -3748,9 +3748,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87726,
+  "EOS_Progressed": 87727,
   "EOS_Completed": 1847,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6203,6 +6203,11 @@
       "Time": "2023-05-17T03:06:10.2976155+00:00",
       "NumProgressed": 87726,
       "NumCompleted": 1847
+    },
+    {
+      "Time": "2023-05-17T04:06:07.2401677+00:00",
+      "NumProgressed": 87727,
+      "NumCompleted": 1847
     }
   ],
   "TotalAchievements": 493,
@@ -6316,9 +6321,9 @@
       "ID": "objective_completed_1055",
       "SetID": "415jc5c",
       "Name": "The Witchlight Carnival",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1056",
@@ -6356,9 +6361,9 @@
       "ID": "objective_completed_1061",
       "SetID": "415jc5c",
       "Name": "Sticky Fingers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1062",
@@ -6420,9 +6425,9 @@
       "ID": "objective_completed_1071",
       "SetID": "415jc5c",
       "Name": "Always Watching",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1075",
@@ -7268,9 +7273,9 @@
       "ID": "objective_completed_1340",
       "SetID": "415jc5c",
       "Name": "The Palace of Heart\u0027s Desire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_1341",
@@ -7404,9 +7409,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_165",
@@ -7452,9 +7457,9 @@
       "ID": "objective_completed_170",
       "SetID": "cc37lbc",
       "Name": "Wisdom Check",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_171",
@@ -7516,9 +7521,9 @@
       "ID": "objective_completed_185",
       "SetID": "cc37lbc",
       "Name": "The Soulmonger Calls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_186",
@@ -7740,9 +7745,9 @@
       "ID": "objective_completed_253",
       "SetID": "cc37lbc",
       "Name": "Distribute Your Weight",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_254",
@@ -7860,9 +7865,9 @@
       "ID": "objective_completed_284",
       "SetID": "cc37lbc",
       "Name": "The Trepidatious Trio",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_285",
@@ -7932,9 +7937,9 @@
       "ID": "objective_completed_379",
       "SetID": "cc37lbc",
       "Name": "Think Your Way Out Of It",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_380",
@@ -8020,9 +8025,9 @@
       "ID": "objective_completed_391",
       "SetID": "415jc5c",
       "Name": "A Nod from Strahd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_393",
@@ -8124,17 +8129,17 @@
       "ID": "objective_completed_405",
       "SetID": "cc37lbc",
       "Name": "Spined Nuisances",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_406",
       "SetID": "415jc5c",
       "Name": "Twilight Twist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_408",
@@ -8292,9 +8297,9 @@
       "ID": "objective_completed_429",
       "SetID": "cc37lbc",
       "Name": "Bullywugs in the Bog",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_430",
@@ -8668,9 +8673,9 @@
       "ID": "objective_completed_585",
       "SetID": "cc37lbc",
       "Name": "Champions of Waterdeep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_586",
@@ -8876,9 +8881,9 @@
       "ID": "objective_completed_615",
       "SetID": "cc37lbc",
       "Name": "Wyllowwood",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_completed_616",
@@ -8948,9 +8953,9 @@
       "ID": "objective_completed_625",
       "SetID": "415jc5c",
       "Name": "D\u00E9j\u00E0 Vu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_626",
@@ -8972,9 +8977,9 @@
       "ID": "objective_completed_628",
       "SetID": "415jc5c",
       "Name": "D\u00E9j\u00E0 Vu All Over Again",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_630",
@@ -9108,9 +9113,9 @@
       "ID": "objective_completed_655",
       "SetID": "415jc5c",
       "Name": "Alterdeep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_656",
@@ -9612,9 +9617,9 @@
       "ID": "objective_completed_833",
       "SetID": "415jc5c",
       "Name": "Fortress Assault",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_834",
@@ -9628,9 +9633,9 @@
       "ID": "objective_completed_835",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Every Day",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_837",
@@ -9740,9 +9745,9 @@
       "ID": "objective_completed_855",
       "SetID": "415jc5c",
       "Name": "How Far Away is Thay",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_857",
@@ -9764,9 +9769,9 @@
       "ID": "objective_completed_859",
       "SetID": "415jc5c",
       "Name": "Fire and Ice",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_862",
@@ -9852,9 +9857,9 @@
       "ID": "objective_completed_879",
       "SetID": "415jc5c",
       "Name": "Visions of Hornfirth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_882",
@@ -10157,21 +10162,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54000,
+      "Progressed": 54001,
       "Completed": 2517
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87726,
+      "Progressed": 87727,
       "Completed": 1847
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-16T23:57:51.7948484+00:00",
-  "LastChanged_Achievements": "2023-05-17T03:06:10.2976149+00:00",
+  "LastChanged_Achievements": "2023-05-17T04:06:07.2401668+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-17T02:58:08.8799688+00:00",
-  "LastUpdate_Achievements": "2023-05-17T03:06:10.3016902+00:00"
+  "LastUpdate_Ratings": "2023-05-17T03:57:52.3615616+00:00",
+  "LastUpdate_Achievements": "2023-05-17T04:06:07.2423325+00:00"
 }

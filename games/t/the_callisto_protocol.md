@@ -8,11 +8,11 @@ Rating: 4.18 (Ranked 825)
 | Instigator | 0.40% | ~2 |
 | Big Game Hunter | 0.40% | ~2 |
 | Bear Trap | 0.30% | ~1 |
+| Big Spender | 0.30% | ~1 |
 | Lifer | 0.20% | ~1 |
 | Parole Denied | 0.20% | ~1 |
 | The Commonality | 0.20% | ~25 |
 | Hoard Mode | 0.20% | ~1 |
-| Big Spender | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~0 |
 | Giving Back | 0.10% | ~13 |

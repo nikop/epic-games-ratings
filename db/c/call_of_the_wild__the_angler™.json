@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,7 +568,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3506,
+  "EOS_Progressed": 3507,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -1188,6 +1188,11 @@
       "Time": "2023-05-16T22:05:23.2218037+00:00",
       "NumProgressed": 3506,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T04:05:51.0725136+00:00",
+      "NumProgressed": 3507,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1199,7 +1204,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -1223,7 +1228,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -1239,7 +1244,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -1247,7 +1252,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -1263,7 +1268,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -1303,7 +1308,7 @@
       "Name": "Goldfish?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -1311,7 +1316,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -1351,7 +1356,7 @@
       "Name": "Marathon",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -1478,13 +1483,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3506,
+      "Progressed": 3507,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2878,
+      "Progressed": 2879,
       "Completed": 112
     }
   ],
@@ -1492,8 +1497,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-17T03:05:54.0723143+00:00",
+  "LastChanged_Achievements": "2023-05-17T04:05:51.0725131+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.4232926+00:00",
-  "LastUpdate_Ratings": "2023-05-17T03:00:02.775639+00:00",
-  "LastUpdate_Achievements": "2023-05-17T03:05:54.0723497+00:00"
+  "LastUpdate_Ratings": "2023-05-17T03:59:45.6830784+00:00",
+  "LastUpdate_Achievements": "2023-05-17T04:05:51.0725384+00:00"
 }

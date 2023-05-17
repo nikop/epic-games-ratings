@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4065,9 +4065,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50043,
+  "EOS_Progressed": 50045,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6460,6 +6460,11 @@
       "Time": "2023-05-17T03:06:02.2425144+00:00",
       "NumProgressed": 50043,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-17T04:05:59.1760845+00:00",
+      "NumProgressed": 50045,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6551,7 +6556,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "Dynasty",
@@ -6559,7 +6564,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "Entrepreneur",
@@ -6647,7 +6652,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "Jack of All Trades",
@@ -6663,7 +6668,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7506
+      "UsersEstimate": 7507
     },
     {
       "ID": "Kingslayer",
@@ -6695,7 +6700,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14512
+      "UsersEstimate": 14513
     },
     {
       "ID": "Lawbringer",
@@ -6703,7 +6708,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17515
+      "UsersEstimate": 17516
     },
     {
       "ID": "Lawmaker",
@@ -6871,22 +6876,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50043,
+      "Progressed": 50045,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-16T20:59:52.1957286+00:00",
-  "LastChanged_Achievements": "2023-05-17T03:06:02.2425133+00:00",
+  "LastChanged_Achievements": "2023-05-17T04:05:59.1760841+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-17T02:59:55.8729721+00:00",
-  "LastUpdate_Achievements": "2023-05-17T03:06:02.2426153+00:00"
+  "LastUpdate_Ratings": "2023-05-17T03:59:39.4863639+00:00",
+  "LastUpdate_Achievements": "2023-05-17T04:05:59.1761301+00:00"
 }

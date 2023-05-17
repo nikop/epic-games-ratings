@@ -2,10 +2,10 @@
   "ID": "ad8868a1e94c46c98608d2fe96121536",
   "Name": "Bramble The Mountain King",
   "ProductSlug": "bramble-the-mountain-king-c0d1c6",
-  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -301,8 +301,8 @@
   "FirstSeenRating": "2023-04-27T18:59:17.4164012+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00",
   "LastChanged": "2023-04-27T18:59:17.4164014+00:00",
-  "LastChanged_Achievements": "2023-05-17T03:05:45.5837626+00:00",
+  "LastChanged_Achievements": "2023-05-17T04:05:42.4896154+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:14.1460623+00:00",
-  "LastUpdate_Ratings": "2023-05-17T02:59:30.8058637+00:00",
-  "LastUpdate_Achievements": "2023-05-17T03:05:45.5838007+00:00"
+  "LastUpdate_Ratings": "2023-05-17T03:59:14.9838896+00:00",
+  "LastUpdate_Achievements": "2023-05-17T04:05:42.4896329+00:00"
 }
