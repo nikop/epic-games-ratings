@@ -6,9 +6,9 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,392 |
-| Into the Unknown | 8.00% | ~43,904 |
-| First Shot | 8.00% | ~43,904 |
+| You Never Forget Your First... | 9.00% | ~49,393 |
+| Into the Unknown | 8.00% | ~43,905 |
+| First Shot | 8.00% | ~43,905 |
 | Herzlich Wilkommen! | 7.00% | ~38,416 |
 | Sancho Panza | 7.00% | ~38,416 |
 | Good Night & Good Luck | 7.00% | ~38,416 |
@@ -45,7 +45,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,488 |
 | Modder | 1.00% | ~5,488 |
 | Ironheart | 1.00% | ~5,488 |
-| Nemesis | 1.00% | ~1,942 |
+| Nemesis | 1.00% | ~1,943 |
 | Enter the Hall | 0.90% | ~1,748 |
 | That's Teamwork! | 0.80% | ~4,390 |
 | Fit as a Fiddle | 0.80% | ~4,390 |
@@ -53,8 +53,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Find Anything Interesting? | 0.70% | ~3,842 |
 | Boot Licker | 0.70% | ~3,842 |
 | Get the Point? | 0.60% | ~3,293 |
-| My Friend, Ciro | 0.60% | ~1,165 |
-| Skullcrusher | 0.60% | ~1,165 |
+| My Friend, Ciro | 0.60% | ~1,166 |
+| Skullcrusher | 0.60% | ~1,166 |
 | Revenants | 0.50% | ~2,744 |
 | Who Wants To Be a... | 0.50% | ~2,744 |
 | Tanning Salon | 0.50% | ~2,744 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~194 |
 | Connoisseur | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 548,798 (Ranked 22)  
+Progressed: 548,807 (Ranked 22)  
 Completed: 48 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 48 (0.01%) (Ranked 191)
 | 2023-05-15 | 547,713 | 47 |
 | 2023-05-16 | 548,161 | 47 |
 | 2023-05-17 | 548,686 | 48 |
-| 2023-05-18 | 548,798 | 48 |
+| 2023-05-18 | 548,807 | 48 |
 ## Awards
 Max (Character Customization): 7,095  (Ranked 44)  
 Sum: 16,476 (Ranked 58)  

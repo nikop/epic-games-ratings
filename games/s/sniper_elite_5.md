@@ -17,6 +17,7 @@ Rating: 4.40 (Ranked 670)
 | As Quiet as a Mouse | 0.10% | ~1 |
 | It's Starting to Crack | 0.10% | ~1 |
 | Change the Channel | 0.10% | ~1 |
+| Brains of the Operation | 0.10% | ~1 |
 | Last Resort | 0.10% | ~1 |
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
@@ -57,7 +58,6 @@ Rating: 4.40 (Ranked 670)
 | Road Rage | 0.00% | ~0 |
 | Don't hold your breath | 0.00% | ~0 |
 | Taking it back | 0.00% | ~0 |
-| Brains of the Operation | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Target America | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |

@@ -2310,9 +2310,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28994,
+  "EOS_Progressed": 29005,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3320,
+  "EOS_NewPlayers": 3314,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4975,6 +4975,11 @@
       "Time": "2023-05-18T08:05:06.4856763+00:00",
       "NumProgressed": 28994,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T09:05:50.9366943+00:00",
+      "NumProgressed": 29005,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5016,9 +5021,9 @@
       "ID": "car_jacked_by_a_ped",
       "SetID": "3ib2d0i",
       "Name": "Hijacked",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -5064,9 +5069,9 @@
       "ID": "complete_challenge_packs",
       "SetID": "3ib2d0i",
       "Name": "Challenge Accepted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "complete_final_mission",
@@ -5080,9 +5085,9 @@
       "ID": "complete_first_side_hustle",
       "SetID": "3ib2d0i",
       "Name": "The Side Job",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -5104,9 +5109,9 @@
       "ID": "customize_a_vehicle",
       "SetID": "3ib2d0i",
       "Name": "Tune Up",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "customize_a_weapon",
@@ -5400,7 +5405,7 @@
       "ID": "bfhj_complete_mission_3_collectible",
       "SetID": "5gi7jl2",
       "Name": "Hazardous Heist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -5409,22 +5414,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28994,
+      "Progressed": 29005,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 631,
-      "Completed": 414
+      "Progressed": 642,
+      "Completed": 416
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-18T06:58:57.1899868+00:00",
-  "LastChanged_Achievements": "2023-05-18T08:05:06.4856759+00:00",
+  "LastChanged_Achievements": "2023-05-18T09:05:50.9366939+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T07:59:14.1324563+00:00",
-  "LastUpdate_Achievements": "2023-05-18T08:05:06.4857368+00:00"
+  "LastUpdate_Ratings": "2023-05-18T08:59:47.1029473+00:00",
+  "LastUpdate_Achievements": "2023-05-18T09:05:50.9367815+00:00"
 }

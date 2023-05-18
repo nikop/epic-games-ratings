@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516711,
+  "EOS_Progressed": 516712,
   "EOS_Completed": 406,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3025,6 +3025,11 @@
       "Time": "2023-05-18T08:05:14.2085221+00:00",
       "NumProgressed": 516711,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-18T09:05:59.9925592+00:00",
+      "NumProgressed": 516712,
+      "NumCompleted": 406
     }
   ],
   "TotalAchievements": 57,
@@ -3060,7 +3065,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113676
+      "UsersEstimate": 113677
     },
     {
       "ID": "13",
@@ -3068,7 +3073,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67172
+      "UsersEstimate": 67173
     },
     {
       "ID": "14",
@@ -3412,7 +3417,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237687
+      "UsersEstimate": 237688
     },
     {
       "ID": "53",
@@ -3491,15 +3496,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516711,
+      "Progressed": 516712,
       "Completed": 406
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-18T08:05:14.2085202+00:00",
+  "LastChanged_Achievements": "2023-05-18T09:05:59.9925586+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.6308298+00:00",
-  "LastUpdate_Ratings": "2023-05-18T07:57:18.0738244+00:00",
-  "LastUpdate_Achievements": "2023-05-18T08:05:14.2085888+00:00"
+  "LastUpdate_Ratings": "2023-05-18T08:57:20.08147+00:00",
+  "LastUpdate_Achievements": "2023-05-18T09:05:59.9926184+00:00"
 }

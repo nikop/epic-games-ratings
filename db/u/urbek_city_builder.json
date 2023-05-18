@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -157,6 +157,11 @@
       "Time": "2023-05-16T18:05:35.0663144+00:00",
       "NumProgressed": 150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T09:06:12.8337126+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -216,7 +221,7 @@
       "Name": "Banking city",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BANCO_2",
@@ -328,7 +333,7 @@
       "Name": "Read! Everyone should read!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DESIERTO3_1",
@@ -440,7 +445,7 @@
       "Name": "I like my life",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FELIZ_2",
@@ -472,7 +477,7 @@
       "Name": "King of fish",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GRANJA_1",
@@ -504,7 +509,7 @@
       "Name": "I love parks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -528,7 +533,7 @@
       "Name": "Clean energy",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MURICA_1",
@@ -576,7 +581,7 @@
       "Name": "Little Mayor",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "POINTS_20K",
@@ -624,7 +629,7 @@
       "Name": "Rebel city",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REBELDES_2",
@@ -686,9 +691,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "SPORTS_2",
@@ -720,7 +725,7 @@
       "Name": "Temperate builder",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TEMPERADO_2",
@@ -799,7 +804,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
@@ -807,8 +812,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-18T08:05:25.2654518+00:00",
+  "LastChanged_Achievements": "2023-05-18T09:06:12.8337123+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:46.5645676+00:00",
-  "LastUpdate_Ratings": "2023-05-18T07:58:36.5436271+00:00",
-  "LastUpdate_Achievements": "2023-05-18T08:05:25.2655378+00:00"
+  "LastUpdate_Ratings": "2023-05-18T08:59:00.2453995+00:00",
+  "LastUpdate_Achievements": "2023-05-18T09:06:12.8338123+00:00"
 }

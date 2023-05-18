@@ -4687,9 +4687,9 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 548798,
+  "EOS_Progressed": 548807,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 3919,
+  "EOS_NewPlayers": 3918,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7362,6 +7362,11 @@
       "Time": "2023-05-18T08:05:39.0297794+00:00",
       "NumProgressed": 548798,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-05-18T09:06:29.1049211+00:00",
+      "NumProgressed": 548807,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 65,
@@ -7373,7 +7378,7 @@
       "Name": "Into the Unknown",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43904
+      "UsersEstimate": 43905
     },
     {
       "ID": "achievement_02",
@@ -7381,7 +7386,7 @@
       "Name": "First Shot",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43904
+      "UsersEstimate": 43905
     },
     {
       "ID": "achievement_03",
@@ -7581,7 +7586,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 49392
+      "UsersEstimate": 49393
     },
     {
       "ID": "achievement_28",
@@ -7829,7 +7834,7 @@
       "Name": "Nemesis",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "achievement_59",
@@ -7853,7 +7858,7 @@
       "Name": "My Friend, Ciro",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "achievement_62",
@@ -7861,7 +7866,7 @@
       "Name": "Skullcrusher",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "achievement_63",
@@ -7892,21 +7897,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 548798,
+      "Progressed": 548807,
       "Completed": 48
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 194242,
+      "Progressed": 194251,
       "Completed": 1414
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-05-18T04:00:18.3657186+00:00",
-  "LastChanged_Achievements": "2023-05-18T08:05:39.0297789+00:00",
+  "LastChanged_Achievements": "2023-05-18T09:06:29.1049204+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.2442045+00:00",
-  "LastUpdate_Ratings": "2023-05-18T07:59:28.4159085+00:00",
-  "LastUpdate_Achievements": "2023-05-18T08:05:39.0298764+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:00:05.4491079+00:00",
+  "LastUpdate_Achievements": "2023-05-18T09:06:29.105032+00:00"
 }

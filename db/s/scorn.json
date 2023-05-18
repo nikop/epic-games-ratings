@@ -471,25 +471,25 @@
       "ID": "009",
       "SetID": "94k0mj8",
       "Name": "009",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "010",
       "SetID": "94k0mj8",
       "Name": "010",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "011",
       "SetID": "94k0mj8",
       "Name": "011",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "012",
@@ -512,8 +512,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-05-18T08:04:56.8407636+00:00",
+  "LastChanged_Achievements": "2023-05-18T09:05:39.6020796+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.8183863+00:00",
-  "LastUpdate_Ratings": "2023-05-18T07:57:52.1333408+00:00",
-  "LastUpdate_Achievements": "2023-05-18T08:04:56.8407755+00:00"
+  "LastUpdate_Ratings": "2023-05-18T08:58:01.413249+00:00",
+  "LastUpdate_Achievements": "2023-05-18T09:05:39.6020913+00:00"
 }

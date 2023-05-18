@@ -18,14 +18,14 @@
 | Eggtraordinary | 19.00% | ~10 |
 | Getting Started | 13.00% | ~7 |
 | Quit Horsin' Around | 13.00% | ~7 |
+| Chick Magnet | 12.00% | ~6 |
 | Fresh Pancake | 12.00% | ~6 |
 | Bring Home The Bacon | 10.00% | ~5 |
-| Chick Magnet | 10.00% | ~5 |
 | Carrocketeer | 10.00% | ~5 |
 | Honk Honk | 8.00% | ~4 |
 | Darkside Survivor | 8.00% | ~4 |
 | Forestside Survivor | 8.00% | ~4 |
-| Early Bird | 6.00% | ~3 |
+| Early Bird | 8.00% | ~4 |
 | Pum-King | 6.00% | ~3 |
 | Pro Shotgunner | 4.00% | ~2 |
 | Pro Digger | 4.00% | ~2 |
@@ -42,12 +42,12 @@
 | Pro Peavolver | 2.00% | ~1 |
 | Pro Carrocketeer | 2.00% | ~1 |
 | Pro Sniperagus | 2.00% | ~1 |
+| Gnome Thief | 2.00% | ~1 |
 | Unstoppable | 2.00% | ~1 |
 | I Believe I Can Fly | 0.00% | ~0 |
 | Prestige 1 - Farmhand | 0.00% | ~0 |
 | Pro Pineappler | 0.00% | ~0 |
 | Pro Moolotover | 0.00% | ~0 |
-| Gnome Thief | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 199)  
