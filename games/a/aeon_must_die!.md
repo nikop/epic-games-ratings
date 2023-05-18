@@ -11,8 +11,8 @@
 | Moment Of Perfection | 10.00% | ~346 |
 | Even While Weakened | 10.00% | ~346 |
 | Balance Incarnate | 10.00% | ~346 |
-| Purpose Lost | 7.00% | ~242 |
-| A Scarlet Mark | 7.00% | ~242 |
+| Purpose Lost | 7.00% | ~243 |
+| A Scarlet Mark | 7.00% | ~243 |
 | Hot Potato | 5.00% | ~173 |
 | Emperor's Hubris | 4.00% | ~139 |
 | Nothing To Lose | 4.00% | ~139 |
@@ -40,8 +40,8 @@
 | Full Might Of The Armada | 0.10% | ~3 |
 | The Many Fates Of The Many | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,464 (Ranked 130)  
-Completed: -29 (-0.84%) (Ranked 2,632)  
+Progressed: 3,465 (Ranked 130)  
+Completed: -29 (-0.84%) (Ranked 2,634)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,6 +51,7 @@ Completed: -29 (-0.84%) (Ranked 2,632)
 | 2023-04-29 | 3,462 | -29 |
 | 2023-05-09 | 3,463 | -29 |
 | 2023-05-13 | 3,464 | -29 |
+| 2023-05-18 | 3,465 | -29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

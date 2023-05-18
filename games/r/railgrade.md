@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 478)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,007 |
-| Before the Downfall | 93.00% | ~17,088 |
-| Money like Water | 91.00% | ~16,720 |
-| Minimalist | 90.00% | ~16,537 |
-| Builder | 83.00% | ~15,250 |
+| Trevithick's Legacy | 98.00% | ~18,008 |
+| Before the Downfall | 93.00% | ~17,089 |
+| Money like Water | 91.00% | ~16,721 |
+| Minimalist | 90.00% | ~16,538 |
+| Builder | 83.00% | ~15,251 |
 | Eraser | 70.00% | ~12,862 |
-| Pocket of Trains | 65.00% | ~11,943 |
+| Pocket of Trains | 65.00% | ~11,944 |
 | Inspector | 59.00% | ~10,841 |
 | Going the Distance | 54.00% | ~9,922 |
-| Oil Baron | 42.00% | ~7,717 |
-| Loads-a-Money | 42.00% | ~7,717 |
+| Oil Baron | 42.00% | ~7,718 |
+| Loads-a-Money | 42.00% | ~7,718 |
 | Helper of the People | 39.00% | ~7,166 |
-| Simplification | 34.00% | ~6,247 |
-| Box of Trains | 33.00% | ~6,063 |
+| Simplification | 34.00% | ~6,248 |
+| Box of Trains | 33.00% | ~6,064 |
 | Let There be Light | 32.00% | ~5,880 |
 | Hot Water | 31.00% | ~5,696 |
-| Indecisive | 29.00% | ~5,328 |
+| Indecisive | 29.00% | ~5,329 |
 | The scenic route | 27.00% | ~4,961 |
 | Industrialist | 25.00% | ~4,594 |
 | Perfectionist | 23.00% | ~4,226 |
@@ -35,16 +35,16 @@ Rating: 4.54 (Ranked 478)
 | Metropolis | 7.00% | ~1,286 |
 | High Flier | 3.00% | ~551 |
 | To infinity, and beyond! | 3.00% | ~551 |
-| Space industrialization | 2.00% | ~367 |
+| Space industrialization | 2.00% | ~368 |
 | Deertastic | 1.00% | ~184 |
 | High tech | 1.00% | ~184 |
 | Cleanup crew | 1.00% | ~184 |
 | Flying Lightning | 1.00% | ~184 |
-| Overdeer | 0.40% | ~73 |
+| Overdeer | 0.40% | ~74 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,374 (Ranked 95)  
-Completed: 28 (0.15%) (Ranked 146)  
+Progressed: 18,375 (Ranked 95)  
+Completed: 28 (0.15%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,18 +71,18 @@ Completed: 28 (0.15%) (Ranked 146)
 | 2023-05-15 | 18,366 | 28 |
 | 2023-05-16 | 18,368 | 28 |
 | 2023-05-17 | 18,371 | 28 |
-| 2023-05-18 | 18,374 | 28 |
+| 2023-05-18 | 18,375 | 28 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 339)  
-Sum: 645 (Ranked 272)  
+Sum: 646 (Ranked 272)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 87 |
 | This game is Great for Beginners | 86 |
 | This game has Quickly Understood Controls | 86 |
+| This game is Relaxing | 85 |
 | This game is Extremely Fun | 84 |
-| This game is Relaxing | 84 |
 | This game has Amazing Storytelling | 77 |
 | This game has Unique Visuals | 57 |
 | This game has Amazing Characters | 44 |
@@ -131,3 +131,4 @@ Diff (max vs sum): 67
 | 2023-05-03 | 4.54 | 87 | 643 |
 | 2023-05-08 | 4.54 | 87 | 644 |
 | 2023-05-14 | 4.54 | 87 | 645 |
+| 2023-05-18 | 4.54 | 87 | 646 |

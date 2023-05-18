@@ -3,9 +3,9 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-05-18T12:06:04.5551567+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T16:06:21.9881717+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1392,7 +1397,7 @@
       "Name": "First Step",
       "Percentage": 43,
       "XP": 45,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "10",
@@ -1456,7 +1461,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "4",
@@ -1464,7 +1469,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "5",
@@ -1511,7 +1516,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1192,
       "Completed": 0
     }
   ],
@@ -1519,8 +1524,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-18T15:05:20.4547788+00:00",
+  "LastChanged_Achievements": "2023-05-18T16:06:21.9881711+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.6922017+00:00",
-  "LastUpdate_Ratings": "2023-05-18T14:58:03.8393241+00:00",
-  "LastUpdate_Achievements": "2023-05-18T15:05:20.454797+00:00"
+  "LastUpdate_Ratings": "2023-05-18T15:58:16.2376076+00:00",
+  "LastUpdate_Achievements": "2023-05-18T16:06:21.9881909+00:00"
 }

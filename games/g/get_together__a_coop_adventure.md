@@ -15,8 +15,8 @@
 | The best of both worlds | 0.00% | ~0 |
 | Leave no stone unturned | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 295)  
-Completed: 0 (0.00%) (Ranked 199)  
+Progressed: 31 (Ranked 296)  
+Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

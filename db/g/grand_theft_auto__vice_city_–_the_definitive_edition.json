@@ -6,9 +6,9 @@
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_Completed": 117,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -310,7 +310,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 6186,
+  "EOS_Progressed": 6187,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 2,
@@ -1530,6 +1530,11 @@
       "Time": "2023-05-18T15:05:28.1509199+00:00",
       "NumProgressed": 6186,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-18T16:06:31.0659938+00:00",
+      "NumProgressed": 6187,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1667,9 +1672,9 @@
       "ID": "ACH17",
       "SetID": "9llo822",
       "Name": "Gun for Hire",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH18",
@@ -1709,7 +1714,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH23",
@@ -1812,7 +1817,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6186,
+      "Progressed": 6187,
       "Completed": 22
     }
   ],
@@ -1820,8 +1825,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-17T13:04:15.6274807+00:00",
-  "LastChanged_Achievements": "2023-05-18T15:05:28.1509196+00:00",
+  "LastChanged_Achievements": "2023-05-18T16:06:31.065993+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-18T14:58:19.3262422+00:00",
-  "LastUpdate_Achievements": "2023-05-18T15:05:28.1509499+00:00"
+  "LastUpdate_Ratings": "2023-05-18T15:58:37.9864063+00:00",
+  "LastUpdate_Achievements": "2023-05-18T16:06:31.0660417+00:00"
 }

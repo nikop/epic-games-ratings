@@ -6,9 +6,9 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2328,10 +2328,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6616,
       "NumberOfAwardsMax": 1632
+    },
+    {
+      "Time": "2023-05-18T15:58:39.7591922+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6618,
+      "NumberOfAwardsMax": 1632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6616,
+  "NumberOfAwards": 6618,
   "NumberOfAwardsMax": 1632,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2345,7 +2351,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 587
+      "Count": 589
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2402,9 +2408,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8860,
+  "EOS_Progressed": 8862,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3697,6 +3703,11 @@
       "Time": "2023-05-18T14:05:44.5247341+00:00",
       "NumProgressed": 8860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T16:07:06.0949011+00:00",
+      "NumProgressed": 8862,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3716,7 +3727,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4076,7 +4087,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "49_Flame",
@@ -4604,7 +4615,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -4612,7 +4623,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -4635,21 +4646,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7642,
+      "Progressed": 7644,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8860,
+      "Progressed": 8862,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-18T14:58:20.8666823+00:00",
-  "LastChanged_Achievements": "2023-05-18T15:05:55.3966081+00:00",
+  "LastChanged": "2023-05-18T15:58:39.7591921+00:00",
+  "LastChanged_Achievements": "2023-05-18T16:07:06.0949008+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-18T14:58:20.866683+00:00",
-  "LastUpdate_Achievements": "2023-05-18T15:05:55.396779+00:00"
+  "LastUpdate_Ratings": "2023-05-18T15:58:39.7591928+00:00",
+  "LastUpdate_Achievements": "2023-05-18T16:07:06.0950538+00:00"
 }

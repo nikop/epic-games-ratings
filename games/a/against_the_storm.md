@@ -17,9 +17,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 0.90% | ~134 |
 | Lost Colonies | 0.90% | ~134 |
 | Like a Machine | 0.90% | ~134 |
+| Trade Baron | 0.90% | ~134 |
 | Barren Lands | 0.80% | ~119 |
 | Ancient Battleground | 0.80% | ~119 |
-| Trade Baron | 0.80% | ~119 |
 | Homesick | 0.70% | ~104 |
 | Sparkdew Crystals | 0.70% | ~104 |
 | Flooded Mines | 0.70% | ~104 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,871 (Ranked 98)  
-Completed: 30 (0.20%) (Ranked 139)  
+Progressed: 14,872 (Ranked 98)  
+Completed: 30 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 30 (0.20%) (Ranked 139)
 | 2023-05-15 | 14,838 | 30 |
 | 2023-05-16 | 14,849 | 30 |
 | 2023-05-17 | 14,860 | 30 |
-| 2023-05-18 | 14,871 | 30 |
+| 2023-05-18 | 14,872 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 194)  
 Sum: 3,026 (Ranked 150)  

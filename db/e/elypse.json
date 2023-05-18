@@ -3,9 +3,9 @@
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -187,9 +187,9 @@
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach_DiscoveryFinalTower",
@@ -267,17 +267,17 @@
       "ID": "Ach_HutLay",
       "SetID": "4o5gjp0",
       "Name": "Homeless",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach_IslandExplo",
       "SetID": "4o5gjp0",
       "Name": "Big badaboom!",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach_LavaDeath",
@@ -354,8 +354,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-18T15:05:25.5002395+00:00",
+  "LastChanged_Achievements": "2023-05-18T16:06:28.1597867+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-18T14:57:59.3569751+00:00",
-  "LastUpdate_Achievements": "2023-05-18T15:05:25.5002637+00:00"
+  "LastUpdate_Ratings": "2023-05-18T15:58:10.3095878+00:00",
+  "LastUpdate_Achievements": "2023-05-18T16:06:28.1598123+00:00"
 }

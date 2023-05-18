@@ -14,16 +14,16 @@
 | The light at the end of the tunnel | 56.00% | ~5 |
 | Soft skin | 56.00% | ~5 |
 | Sensitive soul | 44.00% | ~4 |
+| Rooftop | 33.00% | ~3 |
 | Squid game | 22.00% | ~2 |
 | Rock Solid | 22.00% | ~2 |
 | The beast within | 22.00% | ~2 |
 | Masochistic | 22.00% | ~2 |
-| Rooftop | 22.00% | ~2 |
 | It's getting dark | 22.00% | ~2 |
 | Magnitude 5 | 22.00% | ~2 |
+| Homeless | 22.00% | ~2 |
+| Big badaboom! | 22.00% | ~2 |
 | MayDay! MayDay! | 11.00% | ~1 |
-| Homeless | 11.00% | ~1 |
-| Big badaboom! | 11.00% | ~1 |
 | Full power | 0.00% | ~0 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 325)  
-Completed: 0 (0.00%) (Ranked 199)  
+Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

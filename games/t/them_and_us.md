@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 66.00% | ~62 |
-| Forced to Kill | 66.00% | ~62 |
-| A Night To Remember | 30.00% | ~28 |
+| Alone with Them | 66.00% | ~63 |
+| Forced to Kill | 66.00% | ~63 |
+| A Night To Remember | 29.00% | ~28 |
 | Safe...For now? | 23.00% | ~22 |
 | Open Sesame | 16.00% | ~15 |
-| The Cultists | 10.00% | ~9 |
-| Alone In The Dark | 9.00% | ~8 |
-| Them and Us | 9.00% | ~8 |
-| OUTRAGE | 9.00% | ~8 |
-| What have I done!? | 9.00% | ~8 |
+| The Cultists | 9.00% | ~9 |
+| Alone In The Dark | 8.00% | ~8 |
+| Them and Us | 8.00% | ~8 |
+| OUTRAGE | 8.00% | ~8 |
+| What have I done!? | 8.00% | ~8 |
 | Parasite Exterminated | 7.00% | ~7 |
 | This Coffin Has Your Name On It! | 7.00% | ~7 |
 | The Forgotten Tower | 6.00% | ~6 |
 | Lover of classics | 4.00% | ~4 |
 | Researcher | 4.00% | ~4 |
+| Rest In Peace | 4.00% | ~4 |
 | I Am The Gate Keeper! | 4.00% | ~4 |
 | Modern Player | 3.00% | ~3 |
-| Rest In Peace | 3.00% | ~3 |
 | The bus stop | 3.00% | ~3 |
 | The Curse Is Real | 3.00% | ~3 |
 | Trapped | 3.00% | ~3 |
@@ -45,8 +45,8 @@
 | The 5th Element | 1.00% | ~1 |
 | This Mansion Is Clean | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 253)  
-Completed: 1 (1.06%) (Ranked 83)  
+Progressed: 95 (Ranked 252)  
+Completed: 1 (1.05%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 1 (1.06%) (Ranked 83)
 | 2023-05-15 | 69 | 1 |
 | 2023-05-16 | 77 | 1 |
 | 2023-05-17 | 84 | 1 |
-| 2023-05-18 | 94 | 1 |
+| 2023-05-18 | 95 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

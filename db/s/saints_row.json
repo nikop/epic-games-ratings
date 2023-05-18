@@ -6,9 +6,9 @@
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2316,10 +2316,10 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 29093,
+  "EOS_Progressed": 29124,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3248,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 3232,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -5016,6 +5016,11 @@
       "Time": "2023-05-18T15:05:28.1331196+00:00",
       "NumProgressed": 29093,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T16:06:31.0441487+00:00",
+      "NumProgressed": 29124,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5043,7 +5048,7 @@
       "Name": "Quality Time",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -5073,9 +5078,9 @@
       "ID": "collect_low_amount_hero_props",
       "SetID": "3ib2d0i",
       "Name": "Finders Keepers",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 204
     },
     {
       "ID": "complet_epilogue_mission",
@@ -5121,9 +5126,9 @@
       "ID": "complete_first_side_hustle",
       "SetID": "3ib2d0i",
       "Name": "The Side Job",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 233
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -5145,9 +5150,9 @@
       "ID": "customize_a_vehicle",
       "SetID": "3ib2d0i",
       "Name": "Tune Up",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 233
     },
     {
       "ID": "customize_a_weapon",
@@ -5193,17 +5198,17 @@
       "ID": "do_a_barrel_roll",
       "SetID": "3ib2d0i",
       "Name": "The Spins",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "empire_tier_2",
       "SetID": "3ib2d0i",
       "Name": "A Young Empire",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 204
     },
     {
       "ID": "empire_tier_3",
@@ -5211,15 +5216,15 @@
       "Name": "Power Players",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "empire_tier_4",
       "SetID": "3ib2d0i",
       "Name": "Masters of Santo Ileso",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "empire_tier_5",
@@ -5265,25 +5270,25 @@
       "ID": "get_betrayed",
       "SetID": "3ib2d0i",
       "Name": "Et tu?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 146
     },
     {
       "ID": "get_fired",
       "SetID": "3ib2d0i",
       "Name": "Performance Review",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 262
     },
     {
       "ID": "hit_max_level",
       "SetID": "3ib2d0i",
       "Name": "Took It to The Limit",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 146
     },
     {
       "ID": "infinite_boost_refill",
@@ -5299,7 +5304,7 @@
       "Name": "Picking Fights",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -5321,17 +5326,17 @@
       "ID": "name_the_saints",
       "SetID": "3ib2d0i",
       "Name": "Making a Name",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 262
     },
     {
       "ID": "one_third_purple",
       "SetID": "3ib2d0i",
       "Name": "Neighborly",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "own_100_pieces_of_clothing",
@@ -5409,9 +5414,9 @@
       "ID": "use_profile_app",
       "SetID": "3ib2d0i",
       "Name": "To The Nines",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 291
     },
     {
       "ID": "whole_map_purple",
@@ -5443,29 +5448,29 @@
       "Name": "Hazardous Heist",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 29093,
+      "Progressed": 29124,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 730,
-      "Completed": 434
+      "Progressed": 761,
+      "Completed": 438
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-18T14:59:35.0212821+00:00",
-  "LastChanged_Achievements": "2023-05-18T15:05:28.1331192+00:00",
+  "LastChanged_Achievements": "2023-05-18T16:06:31.0441482+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T14:59:35.0212828+00:00",
-  "LastUpdate_Achievements": "2023-05-18T15:05:28.1331797+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:00:20.0732626+00:00",
+  "LastUpdate_Achievements": "2023-05-18T16:06:31.0442016+00:00"
 }

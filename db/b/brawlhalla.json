@@ -3,12 +3,12 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 399,
-  "Ranking_Popularity": 320,
+  "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 408,
-  "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -1896,11 +1896,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 985,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-05-18T16:00:18.7331357+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 988,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 985,
-  "NumberOfAwardsMax": 103,
+  "NumberOfAwards": 988,
+  "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -1913,7 +1919,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 103
+      "Count": 104
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1955,7 +1961,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 88
+      "Count": 90
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1988,8 +1994,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-05-18T13:59:16.9807429+00:00",
+  "LastChanged": "2023-05-18T16:00:18.7331356+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.0776553+00:00",
-  "LastUpdate_Ratings": "2023-05-18T14:59:33.9903326+00:00",
-  "LastUpdate_Achievements": "2023-05-18T15:04:27.4809268+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:00:18.7331361+00:00",
+  "LastUpdate_Achievements": "2023-05-18T16:05:14.5469338+00:00"
 }

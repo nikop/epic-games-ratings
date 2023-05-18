@@ -57,14 +57,14 @@ Number of Ratings: 45  (23.09.2022)
 | Symbiosis | 1.00% | ~12 |
 | I'm Not Smiling | 1.00% | ~12 |
 | Thwack! | 1.00% | ~12 |
+| A Temperamental Shrub | 0.90% | ~11 |
 | A Lowly Crust of Beef | 0.80% | ~9 |
-| A Temperamental Shrub | 0.80% | ~9 |
 | We Call That Mortificient! | 0.50% | ~6 |
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,180 (Ranked 158)  
-Completed: 3 (0.25%) (Ranked 133)  
+Completed: 3 (0.25%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

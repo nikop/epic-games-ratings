@@ -28,7 +28,7 @@ Rating: 4.76 (Ranked 115)
 | I chose my shackles | 22.00% | ~444 |
 | Sacred Woods | 21.00% | ~424 |
 | Capelworth | 20.00% | ~403 |
-| Little light | 18.00% | ~363 |
+| Little light | 19.00% | ~383 |
 | Glyndemere | 18.00% | ~363 |
 | Iffighain Headquarters | 18.00% | ~363 |
 | Full equipped | 17.00% | ~343 |
@@ -60,7 +60,7 @@ Rating: 4.76 (Ranked 115)
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,017 (Ranked 142)  
-Completed: 1 (0.05%) (Ranked 172)  
+Completed: 1 (0.05%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

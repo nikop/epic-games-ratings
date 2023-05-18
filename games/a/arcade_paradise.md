@@ -5,10 +5,10 @@ Rating: 4.57 (Ranked 432)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~554 |
-| Fetch Quest Complete | 91.00% | ~525 |
-| I can't wait! | 83.00% | ~479 |
-| Swish | 56.00% | ~323 |
+| Pushing a pull door | 96.00% | ~555 |
+| Fetch Quest Complete | 91.00% | ~526 |
+| I can't wait! | 83.00% | ~480 |
+| Swish | 56.00% | ~324 |
 | Clean up on Aisle 9 | 40.00% | ~231 |
 | Machine Maxed | 31.00% | ~179 |
 | Bug Fixer | 25.00% | ~144 |
@@ -17,7 +17,7 @@ Rating: 4.57 (Ranked 432)
 | Goal | 22.00% | ~127 |
 | I ran the numbers | 15.00% | ~87 |
 | Taking the plunge | 13.00% | ~75 |
-| Hidden Packages | 11.00% | ~63 |
+| Hidden Packages | 11.00% | ~64 |
 | GOOOAAAL | 9.00% | ~52 |
 | New Kid on the Block | 7.00% | ~40 |
 | Ahoy Hoy | 6.00% | ~35 |
@@ -25,9 +25,9 @@ Rating: 4.57 (Ranked 432)
 | You Spin Me Round | 6.00% | ~35 |
 | Bombscare | 5.00% | ~29 |
 | Rhythm is a dancer | 5.00% | ~29 |
-| Your Bloody Valentine | 5.00% | ~29 |
-| Nose to the Grindstone | 5.00% | ~29 |
+| Your Bloody Valentine | 4.00% | ~23 |
 | GoldGuy Jr | 4.00% | ~23 |
+| Nose to the Grindstone | 4.00% | ~23 |
 | Waking nightmare | 4.00% | ~23 |
 | We come in peace | 3.00% | ~17 |
 | Crowning achievement | 3.00% | ~17 |
@@ -60,8 +60,8 @@ Rating: 4.57 (Ranked 432)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 577 (Ranked 187)  
-Completed: 0 (0.00%) (Ranked 199)  
+Progressed: 578 (Ranked 187)  
+Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-02 | 575 | 0 |
 | 2023-05-06 | 576 | 0 |
 | 2023-05-17 | 577 | 0 |
+| 2023-05-18 | 578 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

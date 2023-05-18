@@ -7,8 +7,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 13.00% | ~1,152 |
-| Burning City | 9.00% | ~797 |
-| A Spark | 9.00% | ~797 |
+| Burning City | 9.00% | ~798 |
+| A Spark | 9.00% | ~798 |
 | Mythic Choices | 8.00% | ~709 |
 | Defender's Heart | 8.00% | ~709 |
 | Banner over the Citadel | 7.00% | ~620 |
@@ -46,8 +46,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Demon | 0.90% | ~80 |
 | Abyssal Conspiracy | 0.80% | ~71 |
 | End of Eternal Guard | 0.70% | ~62 |
-| This Wall Won't Fall | 0.70% | ~53 |
-| Not the Last Sarkorian | 0.70% | ~53 |
+| This Wall Won't Fall | 0.70% | ~54 |
+| Not the Last Sarkorian | 0.70% | ~54 |
 | The Final Threshold | 0.60% | ~53 |
 | Path of the Dragon | 0.60% | ~53 |
 | Path of the Legend | 0.60% | ~53 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,860 (Ranked 109)  
-Completed: 0 (0.00%) (Ranked 199)  
+Progressed: 8,862 (Ranked 109)  
+Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,10 +151,10 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 8,826 | 0 |
 | 2023-05-16 | 8,839 | 0 |
 | 2023-05-17 | 8,850 | 0 |
-| 2023-05-18 | 8,860 | 0 |
+| 2023-05-18 | 8,862 | 0 |
 ## Awards
 Max (Character Customization): 1,632  (Ranked 111)  
-Sum: 6,616 (Ranked 108)  
+Sum: 6,618 (Ranked 108)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -162,8 +162,8 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 618 |
 | This game has Amazing Characters | 604 |
 | This game is Highly Recommended | 604 |
+| This game has Amazing Storytelling | 589 |
 | This game has Diverse Characters | 589 |
-| This game has Amazing Storytelling | 587 |
 | This game has Quickly Understood Controls | 546 |
 | This game has Challenging Combat | 545 |
 | This game is Relaxing | 523 |
@@ -284,4 +284,4 @@ Diff (max vs sum): 3
 | 2023-05-14 | 4.76 | - | 1,631 | 6,610 |
 | 2023-05-15 | 4.76 | - | 1,631 | 6,612 |
 | 2023-05-16 | 4.76 | - | 1,632 | 6,614 |
-| 2023-05-18 | 4.76 | - | 1,632 | 6,616 |
+| 2023-05-18 | 4.76 | - | 1,632 | 6,618 |

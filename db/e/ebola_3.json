@@ -3,9 +3,9 @@
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -892,9 +892,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "achLizun",
@@ -1101,8 +1101,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-18T15:06:01.1637207+00:00",
+  "LastChanged_Achievements": "2023-05-18T16:07:13.17549+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:00:15.6259937+00:00",
-  "LastUpdate_Achievements": "2023-05-18T15:06:01.163766+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:01:10.071211+00:00",
+  "LastUpdate_Achievements": "2023-05-18T16:07:13.1755316+00:00"
 }

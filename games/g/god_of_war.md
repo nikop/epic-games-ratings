@@ -1,16 +1,16 @@
 # God of War
 [Store](https://store.epicgames.com/en-US/p/god-of-war)  
 [View Rawdata](../../db/g/god_of_war.json)  
-Rating: 4.89 (Ranked 12)  
+Rating: 4.88 (Ranked 18)  
 Number of Ratings: 4,943  (23.09.2022)  
 ## Awards
 Max (Character Customization): 3,987  (Ranked 73)  
-Sum: 7,729 (Ranked 95)  
+Sum: 7,731 (Ranked 95)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,987 |
-| This game has Great Boss Battles | 2,131 |
+| This game has Great Boss Battles | 2,133 |
 | This game is Extremely Fun | 172 |
 | This game has Amazing Characters | 164 |
 | This game has Amazing Storytelling | 162 |
@@ -139,3 +139,4 @@ Diff (max vs sum): -22
 | 2023-05-15 | 4.88 | - | 3,984 | 7,723 |
 | 2023-05-16 | 4.89 | - | 3,985 | 7,727 |
 | 2023-05-17 | 4.89 | - | 3,987 | 7,729 |
+| 2023-05-18 | 4.88 | - | 3,987 | 7,731 |

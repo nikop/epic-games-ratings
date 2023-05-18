@@ -1,18 +1,21 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.40 (Ranked 670)  
+Rating: 4.41 (Ranked 655)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Resourceful | 0.40% | ~3 |
 | Strategist | 0.30% | ~2 |
 | The Long Game | 0.30% | ~2 |
-| Resourceful | 0.30% | ~2 |
 | As Quiet as a Mouse | 0.30% | ~2 |
+| Don't hold your breath | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
+| Liberté | 0.10% | ~1 |
 | No Stone Unturned | 0.10% | ~1 |
 | Opposing Force | 0.10% | ~1 |
 | Enemy at the Gates | 0.10% | ~1 |
+| Meeting Resistance | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
 | Skirmisher | 0.10% | ~1 |
 | Precision Is Key | 0.10% | ~1 |
@@ -21,21 +24,19 @@ Rating: 4.40 (Ranked 670)
 | Lord of War | 0.10% | ~1 |
 | It's Starting to Crack | 0.10% | ~1 |
 | Change the Channel | 0.10% | ~1 |
-| Don't hold your breath | 0.10% | ~1 |
 | Taking it back | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
 | Target America | 0.10% | ~1 |
+| The Kraken Sleeps | 0.10% | ~1 |
 | Last Resort | 0.10% | ~1 |
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | Climbing the Ladder | 0.00% | ~0 |
-| Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
 | Fields of Glory | 0.00% | ~0 |
 | Just a Flesh Wound | 0.00% | ~0 |
 | Organ Grinder | 0.00% | ~0 |
-| Meeting Resistance | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
@@ -61,7 +62,6 @@ Rating: 4.40 (Ranked 670)
 | Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
-| The Kraken Sleeps | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | Führerious Repetition | 0.00% | ~0 |
 | Reich To The Point | 0.00% | ~0 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 670)
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 732 (Ranked 176)  
-Completed: 2 (0.27%) (Ranked 129)  
+Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,3 +132,4 @@ Completed: 2 (0.27%) (Ranked 129)
 | 2023-05-09 | 4.45 | 0 | 0 |
 | 2023-05-10 | 4.38 | 0 | 0 |
 | 2023-05-16 | 4.40 | 0 | 0 |
+| 2023-05-18 | 4.41 | 0 | 0 |

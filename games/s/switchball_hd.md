@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Marbleball Badge | 67.00% | ~41 |
 | Speedroller Rookie | 57.00% | ~35 |
-| Metalball Badge | 11.00% | ~7 |
+| Metalball Badge | 13.00% | ~8 |
 | Powerball Badge | 8.00% | ~5 |
 | Airball Badge | 2.00% | ~1 |
 | Speedroller Expert | 0.00% | ~0 |
@@ -14,8 +14,8 @@
 | Speedroller Trainee | 0.00% | ~0 |
 | Spyglass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 275)  
-Completed: 0 (0.00%) (Ranked 199)  
+Progressed: 61 (Ranked 276)  
+Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

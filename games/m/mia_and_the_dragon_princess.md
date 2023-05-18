@@ -23,8 +23,8 @@
 | Freedum Fighter | 3.00% | ~1 |
 | Key Keeper's Curse | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 290)  
-Completed: 1 (2.63%) (Ranked 54)  
+Progressed: 38 (Ranked 291)  
+Completed: 1 (2.63%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,7 +3,7 @@
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 385)  
-Completed: 0 (0.00%) (Ranked 199)  
+Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
