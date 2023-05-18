@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 2022-05-05 |
 | [Flyto](games/f/flyto.md) | 2023-05-18 | 2023-05-18 |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
@@ -99,6 +100,7 @@
 | [Lynn](games/l/lynn.md) | 2023-04-30 | 2023-04-30 |
 | [Metal Commando](games/m/metal_commando.md) | 2023-04-30 | 2020-11-18 |
 | [Outworld Patrol](games/o/outworld_patrol.md) | 2023-04-30 | 2022-12-11 |
+| [Sword of the Necromancer](games/0/05d81eb390a443d2897cda759ceb8f76.md) | 2023-04-30 | 2021-01-28 |
 | [The Sorrowvirus](games/t/the_sorrowvirus.md) | 2023-04-30 | 2020-05-30 |
 | [The Swine](games/t/the_swine.md) | 2023-04-30 | 2020-06-18 |
 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 2023-04-29 | 2023-04-29 |

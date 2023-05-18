@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | 2023-05-10 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 2018-04-23 |
