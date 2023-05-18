@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | 2023-05-10 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 2018-04-23 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |

@@ -37,8 +37,8 @@
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 37 | [The Complex](games/t/the_complex.md) | 3.52% |
-| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.45% |
-| 39 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.42% |
+| 38 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.42% |
+| 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.39% |
 | 40 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 41 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 41 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 3.33% |
@@ -51,14 +51,14 @@
 | 49 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 50 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.86% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 50 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.86% |
-| 53 | [Monster Harvest](games/m/monster_harvest.md) | 2.73% |
-| 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
-| 55 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
-| 57 | [JARS](games/j/jars.md) | 2.56% |
-| 58 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 59 | [Iron Danger](games/i/iron_danger.md) | 2.41% |
+| 52 | [Monster Harvest](games/m/monster_harvest.md) | 2.73% |
+| 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 54 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
+| 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
+| 56 | [JARS](games/j/jars.md) | 2.56% |
+| 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 58 | [Iron Danger](games/i/iron_danger.md) | 2.40% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.27% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.19% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
@@ -76,8 +76,8 @@
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.39% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
-| 76 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.29% |
-| 78 | [Trifox](games/t/trifox.md) | 1.28% |
+| 77 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.28% |
+| 77 | [Trifox](games/t/trifox.md) | 1.28% |
 | 79 | [Chorus](games/c/chorus.md) | 1.27% |
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
@@ -86,7 +86,7 @@
 | 84 | [Them and Us](games/t/them_and_us.md) | 1.05% |
 | 85 | [Ten Dates](games/t/ten_dates.md) | 1.03% |
 | 86 | [Sable](games/s/sable.md) | 0.93% |
-| 87 | [Dungeons 3](games/d/dungeons_3.md) | 0.92% |
+| 87 | [Dungeons 3](games/d/dungeons_3.md) | 0.91% |
 | 88 | [Hades](games/h/hades.md) | 0.90% |
 | 89 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
