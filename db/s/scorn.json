@@ -447,9 +447,9 @@
       "ID": "006",
       "SetID": "94k0mj8",
       "Name": "006",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "007",
@@ -512,8 +512,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-05-18T07:04:39.6532752+00:00",
+  "LastChanged_Achievements": "2023-05-18T08:04:56.8407636+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.8183863+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:57:32.7078554+00:00",
-  "LastUpdate_Achievements": "2023-05-18T07:04:39.6532833+00:00"
+  "LastUpdate_Ratings": "2023-05-18T07:57:52.1333408+00:00",
+  "LastUpdate_Achievements": "2023-05-18T08:04:56.8407755+00:00"
 }

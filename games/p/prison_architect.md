@@ -6,9 +6,9 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~31,693 |
-| Get Busy Living | 17.00% | ~20,722 |
-| Samuel Norton | 10.00% | ~12,190 |
+| Stone Walls | 26.00% | ~31,696 |
+| Get Busy Living | 17.00% | ~20,724 |
+| Samuel Norton | 10.00% | ~12,191 |
 | Spare The Rod | 5.00% | ~6,095 |
 | Wait and Hope | 4.00% | ~4,876 |
 | I May Have Found A Way Out Of Here | 4.00% | ~4,876 |
@@ -17,13 +17,13 @@ Number of Ratings: 4,491  (23.09.2022)
 | Throw The Book At Them | 2.00% | ~2,438 |
 | D.B. Cooper | 1.00% | ~1,219 |
 | Reformation | 0.60% | ~731 |
-| Crowd Control | 0.50% | ~609 |
+| Crowd Control | 0.50% | ~610 |
 | Freedom | 0.40% | ~488 |
 | Confined | 0.40% | ~488 |
 | It's Not What You Know... | 0.10% | ~122 |
 | ... It's What You Can Prove | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,896 (Ranked 55)  
+Progressed: 121,907 (Ranked 55)  
 Completed: 4 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,10 +51,10 @@ Completed: 4 (0.00%) (Ranked 199)
 | 2023-05-15 | 121,051 | 4 |
 | 2023-05-16 | 121,418 | 4 |
 | 2023-05-17 | 121,819 | 4 |
-| 2023-05-18 | 121,896 | 4 |
+| 2023-05-18 | 121,907 | 4 |
 ## Awards
 Max (Extremely Fun): 415  (Ranked 196)  
-Sum: 3,285 (Ranked 145)  
+Sum: 3,286 (Ranked 145)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -64,7 +64,7 @@ Diff (max vs sum): 51
 | This game has Quickly Understood Controls | 390 |
 | This game is Relaxing | 366 |
 | This game has Diverse Characters | 359 |
-| This game has Amazing Storytelling | 355 |
+| This game has Amazing Storytelling | 356 |
 | This game has Amazing Characters | 331 |
 | This game has a Creative Community | 260 |
 | This game has Obsessive Gameplay | 234 |
@@ -190,3 +190,4 @@ Diff (max vs sum): 51
 | 2023-05-15 | 4.61 | - | 414 | 3,274 |
 | 2023-05-16 | 4.61 | - | 415 | 3,279 |
 | 2023-05-17 | 4.61 | - | 415 | 3,285 |
+| 2023-05-18 | 4.61 | - | 415 | 3,286 |

@@ -4077,9 +4077,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50146,
+  "EOS_Progressed": 50149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6597,6 +6597,11 @@
       "Time": "2023-05-18T07:05:19.1616463+00:00",
       "NumProgressed": 50146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T08:05:35.8088188+00:00",
+      "NumProgressed": 50149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6624,7 +6629,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10029
+      "UsersEstimate": 10030
     },
     {
       "ID": "Best served cold",
@@ -6768,7 +6773,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10029
+      "UsersEstimate": 10030
     },
     {
       "ID": "I can do it",
@@ -6776,7 +6781,7 @@
       "Name": "I can do it",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7020
+      "UsersEstimate": 7021
     },
     {
       "ID": "I spit on your grave",
@@ -6832,7 +6837,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 14542
+      "UsersEstimate": 14543
     },
     {
       "ID": "Lawbringer",
@@ -6840,7 +6845,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17551
+      "UsersEstimate": 17552
     },
     {
       "ID": "Lawmaker",
@@ -6960,7 +6965,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8023
+      "UsersEstimate": 8024
     },
     {
       "ID": "This Is Our Land",
@@ -6984,7 +6989,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10029
+      "UsersEstimate": 10030
     },
     {
       "ID": "Undercover",
@@ -7015,15 +7020,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50146,
+      "Progressed": 50149,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-17T10:59:28.5200525+00:00",
-  "LastChanged_Achievements": "2023-05-18T07:05:19.1616461+00:00",
+  "LastChanged_Achievements": "2023-05-18T08:05:35.8088183+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:59:02.2435768+00:00",
-  "LastUpdate_Achievements": "2023-05-18T07:05:19.1616888+00:00"
+  "LastUpdate_Ratings": "2023-05-18T07:59:19.0679268+00:00",
+  "LastUpdate_Achievements": "2023-05-18T08:05:35.8088766+00:00"
 }

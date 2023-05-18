@@ -2310,9 +2310,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28987,
+  "EOS_Progressed": 28994,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3331,
+  "EOS_NewPlayers": 3320,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4970,6 +4970,11 @@
       "Time": "2023-05-18T07:04:49.1197476+00:00",
       "NumProgressed": 28987,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T08:05:06.4856763+00:00",
+      "NumProgressed": 28994,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -4995,9 +5000,9 @@
       "ID": "beat_loyalty_missions",
       "SetID": "3ib2d0i",
       "Name": "Quality Time",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -5155,9 +5160,9 @@
       "ID": "empire_tier_2",
       "SetID": "3ib2d0i",
       "Name": "A Young Empire",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "empire_tier_3",
@@ -5211,9 +5216,9 @@
       "ID": "fully_upgrade_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Kitted Out",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "get_betrayed",
@@ -5227,9 +5232,9 @@
       "ID": "get_fired",
       "SetID": "3ib2d0i",
       "Name": "Performance Review",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "hit_max_level",
@@ -5251,9 +5256,9 @@
       "ID": "kill_each_faction_miniboss",
       "SetID": "3ib2d0i",
       "Name": "Picking Fights",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -5275,9 +5280,9 @@
       "ID": "name_the_saints",
       "SetID": "3ib2d0i",
       "Name": "Making a Name",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "one_third_purple",
@@ -5363,9 +5368,9 @@
       "ID": "use_profile_app",
       "SetID": "3ib2d0i",
       "Name": "To The Nines",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 203
     },
     {
       "ID": "whole_map_purple",
@@ -5404,13 +5409,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28987,
+      "Progressed": 28994,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 624,
+      "Progressed": 631,
       "Completed": 414
     }
   ],
@@ -5418,8 +5423,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-18T06:58:57.1899868+00:00",
-  "LastChanged_Achievements": "2023-05-18T07:04:49.1197474+00:00",
+  "LastChanged_Achievements": "2023-05-18T08:05:06.4856759+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:58:57.1899872+00:00",
-  "LastUpdate_Achievements": "2023-05-18T07:04:49.119792+00:00"
+  "LastUpdate_Ratings": "2023-05-18T07:59:14.1324563+00:00",
+  "LastUpdate_Achievements": "2023-05-18T08:05:06.4857368+00:00"
 }

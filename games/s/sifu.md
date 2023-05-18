@@ -12,12 +12,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The best strikes are the ones we avoid | 0.90% | ~111 |
 | The Hateful Pole Fighter | 0.80% | ~5,624 |
 | A Lady's Blood in the Snow | 0.80% | ~5,624 |
+| State of constant learning | 0.80% | ~5,624 |
 | Qi Gong: Breath | 0.80% | ~5,624 |
 | Path of the Prospect | 0.80% | ~5,624 |
 | Lady Wing Chun | 0.70% | ~4,921 |
 | Furious Fists | 0.70% | ~4,921 |
 | Kill Nil | 0.70% | ~4,921 |
-| State of constant learning | 0.70% | ~4,921 |
 | Qi Gong: Essence | 0.70% | ~4,921 |
 | Rumble in the Hangar | 0.70% | ~4,921 |
 | Take damage to save time | 0.70% | ~4,921 |

@@ -649,9 +649,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 21623,
+  "EOS_Progressed": 21626,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 989,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3269,6 +3269,11 @@
       "Time": "2023-05-18T07:05:00.9846237+00:00",
       "NumProgressed": 21623,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-18T08:05:18.090161+00:00",
+      "NumProgressed": 21626,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -3304,7 +3309,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "distance500000",
@@ -3344,7 +3349,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "hoistthemainsail",
@@ -3360,7 +3365,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "journeyer",
@@ -3400,7 +3405,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4109
     },
     {
       "ID": "novice",
@@ -3456,7 +3461,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "playerWingsuit",
@@ -3464,7 +3469,7 @@
       "Name": "Human Flight",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "pro",
@@ -3472,7 +3477,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "proximityFly1000",
@@ -3488,7 +3493,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "sandboarder",
@@ -3568,7 +3573,7 @@
       "Name": "Voyager",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "wanderer",
@@ -3591,15 +3596,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 21623,
+      "Progressed": 21626,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
-  "LastChanged_Achievements": "2023-05-18T07:05:00.9846234+00:00",
+  "LastChanged_Achievements": "2023-05-18T08:05:18.0901604+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.251036+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:58:40.7944503+00:00",
-  "LastUpdate_Achievements": "2023-05-18T07:05:00.984656+00:00"
+  "LastUpdate_Ratings": "2023-05-18T07:58:56.9906+00:00",
+  "LastUpdate_Achievements": "2023-05-18T08:05:18.090206+00:00"
 }

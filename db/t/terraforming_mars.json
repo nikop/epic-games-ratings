@@ -2170,9 +2170,9 @@
       "Count": 229
     }
   ],
-  "EOS_Progressed": 57719,
+  "EOS_Progressed": 57720,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1235,
+  "EOS_NewPlayers": 1234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4785,6 +4785,11 @@
       "Time": "2023-05-18T07:04:39.9844487+00:00",
       "NumProgressed": 57719,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-05-18T08:04:57.099906+00:00",
+      "NumProgressed": 57720,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 30,
@@ -4852,7 +4857,7 @@
       "Name": "Most Achievements",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7503
+      "UsersEstimate": 7504
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -4876,7 +4881,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 22510
+      "UsersEstimate": 22511
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -4892,7 +4897,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 19624
+      "UsersEstimate": 19625
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -4972,7 +4977,7 @@
       "Name": "Final touch",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 21933
+      "UsersEstimate": 21934
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -4996,7 +5001,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7503
+      "UsersEstimate": 7504
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -5035,15 +5040,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 57719,
+      "Progressed": 57720,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-05-17T03:58:04.0856462+00:00",
-  "LastChanged_Achievements": "2023-05-18T07:04:39.9844483+00:00",
+  "LastChanged_Achievements": "2023-05-18T08:04:57.0999056+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:06.7297027+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:57:45.8764855+00:00",
-  "LastUpdate_Achievements": "2023-05-18T07:04:39.9844834+00:00"
+  "LastUpdate_Ratings": "2023-05-18T07:58:03.3535857+00:00",
+  "LastUpdate_Achievements": "2023-05-18T08:04:57.0999432+00:00"
 }

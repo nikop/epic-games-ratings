@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 114.00% | ~8 |
-| Pigeon | 100.00% | ~7 |
-| A bottomless pit | 100.00% | ~7 |
-| Baited | 71.00% | ~5 |
-| Splash! | 71.00% | ~5 |
-| Hard Rock | 71.00% | ~5 |
-| "Swoosh" | 57.00% | ~4 |
-| The light at the end of the tunnel | 57.00% | ~4 |
-| Soft skin | 57.00% | ~4 |
-| Sensitive soul | 57.00% | ~4 |
-| Squid game | 29.00% | ~2 |
-| Masochistic | 29.00% | ~2 |
-| Magnitude 5 | 29.00% | ~2 |
-| Rock Solid | 14.00% | ~1 |
-| Rooftop | 14.00% | ~1 |
-| MayDay! MayDay! | 14.00% | ~1 |
+| A path of no return | 113.00% | ~9 |
+| Pigeon | 88.00% | ~7 |
+| A bottomless pit | 88.00% | ~7 |
+| Baited | 63.00% | ~5 |
+| Splash! | 63.00% | ~5 |
+| Hard Rock | 63.00% | ~5 |
+| "Swoosh" | 50.00% | ~4 |
+| The light at the end of the tunnel | 50.00% | ~4 |
+| Soft skin | 50.00% | ~4 |
+| Sensitive soul | 50.00% | ~4 |
+| Squid game | 25.00% | ~2 |
+| Masochistic | 25.00% | ~2 |
+| Magnitude 5 | 25.00% | ~2 |
+| Rock Solid | 13.00% | ~1 |
+| Rooftop | 13.00% | ~1 |
+| MayDay! MayDay! | 13.00% | ~1 |
 | Full power | 0.00% | ~0 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
@@ -39,10 +39,10 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 331)  
+Progressed: 8 (Ranked 327)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-17 | 2 | 0 |
-| 2023-05-18 | 7 | 0 |
+| 2023-05-18 | 8 | 0 |

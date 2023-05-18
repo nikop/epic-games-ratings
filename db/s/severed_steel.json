@@ -200,9 +200,9 @@
       "Count": 169
     }
   ],
-  "EOS_Progressed": 404946,
+  "EOS_Progressed": 404954,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 2474,
+  "EOS_NewPlayers": 2477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2865,6 +2865,11 @@
       "Time": "2023-05-18T07:00:07.2457965+00:00",
       "NumProgressed": 404946,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-18T08:00:27.0353412+00:00",
+      "NumProgressed": 404954,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 52,
@@ -2876,7 +2881,7 @@
       "Name": "1000 KILLS",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12148
+      "UsersEstimate": 12149
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -2884,7 +2889,7 @@
       "Name": "100 KILLS",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 44544
+      "UsersEstimate": 44545
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -2940,7 +2945,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28346
+      "UsersEstimate": 28347
     },
     {
       "ID": "CHAPTER2",
@@ -2956,7 +2961,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20247
+      "UsersEstimate": 20248
     },
     {
       "ID": "CHAPTER4",
@@ -2980,7 +2985,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12148
+      "UsersEstimate": 12149
     },
     {
       "ID": "CHURCH",
@@ -3004,7 +3009,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12148
+      "UsersEstimate": 12149
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -3012,7 +3017,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -3291,7 +3296,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 404946,
+      "Progressed": 404954,
       "Completed": 30
     }
   ],
@@ -3299,8 +3304,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-05-12T15:59:24.3766691+00:00",
-  "LastChanged_Achievements": "2023-05-18T07:00:07.2457962+00:00",
+  "LastChanged_Achievements": "2023-05-18T08:00:27.0353408+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:24.3121528+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:58:52.0120558+00:00",
-  "LastUpdate_Achievements": "2023-05-18T07:00:07.2458419+00:00"
+  "LastUpdate_Ratings": "2023-05-18T07:59:08.0445637+00:00",
+  "LastUpdate_Achievements": "2023-05-18T08:00:27.0354019+00:00"
 }

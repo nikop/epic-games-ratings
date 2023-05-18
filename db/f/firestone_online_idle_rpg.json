@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1059,
+  "EOS_Progressed": 1060,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1763,6 +1763,11 @@
       "Time": "2023-05-18T03:05:32.4516988+00:00",
       "NumProgressed": 1059,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T08:05:17.1797694+00:00",
+      "NumProgressed": 1060,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1948,9 +1953,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 170
     },
     {
       "ID": "fellowshippower",
@@ -2070,7 +2075,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "lockandload",
@@ -2230,7 +2235,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "thealchemist",
@@ -2334,7 +2339,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "warmachinesarmy",
@@ -2366,14 +2371,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1059,
+      "Progressed": 1060,
       "Completed": 1
     }
   ],
@@ -2381,8 +2386,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T05:58:19.755133+00:00",
-  "LastChanged_Achievements": "2023-05-18T07:05:00.0073524+00:00",
+  "LastChanged_Achievements": "2023-05-18T08:05:17.1797689+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:57:33.0867618+00:00",
-  "LastUpdate_Achievements": "2023-05-18T07:05:00.0074174+00:00"
+  "LastUpdate_Ratings": "2023-05-18T07:57:52.4510353+00:00",
+  "LastUpdate_Achievements": "2023-05-18T08:05:17.1798558+00:00"
 }

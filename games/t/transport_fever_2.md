@@ -13,7 +13,7 @@ Number of Ratings: 180  (23.09.2022)
 | First passenger on board | 66.00% | ~717 |
 | First passenger waiting | 66.00% | ~717 |
 | First bus arrived | 65.00% | ~707 |
-| First train station | 63.00% | ~685 |
+| First train station | 64.00% | ~696 |
 | First steam train arrived | 60.00% | ~652 |
 | First industry upgraded | 56.00% | ~609 |
 | Transport millionaire | 55.00% | ~598 |
@@ -62,8 +62,8 @@ Number of Ratings: 180  (23.09.2022)
 | Trans-Siberian Railway | 2.00% | ~22 |
 | No country for old trains | 1.00% | ~11 |
 | Campaign tycoon | 1.00% | ~11 |
+| Louis Favre | 0.90% | ~10 |
 | Train Fever | 0.80% | ~9 |
-| Louis Favre | 0.80% | ~9 |
 | Big spender | 0.50% | ~5 |
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |

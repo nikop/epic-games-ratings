@@ -1484,9 +1484,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 44049,
+  "EOS_Progressed": 44050,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 783,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4074,6 +4074,11 @@
       "Time": "2023-05-18T07:04:53.7333321+00:00",
       "NumProgressed": 44049,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-18T08:05:10.9897834+00:00",
+      "NumProgressed": 44050,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 59,
@@ -4085,7 +4090,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 24227
+      "UsersEstimate": 24228
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -4245,7 +4250,7 @@
       "Name": "Offense is the best defence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "VERDUN_ACH_GOLD10_FLBESTDEFENCE",
@@ -4261,7 +4266,7 @@
       "Name": "There is no I in team",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "VERDUN_ACH_GOLD10_HEADSHOTS",
@@ -4317,7 +4322,7 @@
       "Name": "Headhunter I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11893
+      "UsersEstimate": 11894
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -4373,7 +4378,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27751
+      "UsersEstimate": 27752
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -4413,7 +4418,7 @@
       "Name": "Veteran",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "VERDUN_ACH_MARINES",
@@ -4421,7 +4426,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -4469,7 +4474,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -4509,7 +4514,7 @@
       "Name": "In My Defens God Me Defend",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "VERDUN_ACH_SILVER100",
@@ -4517,7 +4522,7 @@
       "Name": "Silver x100",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "VERDUN_ACH_STOSSTRUPPEN",
@@ -4533,7 +4538,7 @@
       "Name": "Impavidum Ferient Bella!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "VERDUN_ACH_TOMMIES",
@@ -4556,15 +4561,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 44049,
+      "Progressed": 44050,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-17T13:58:36.3524419+00:00",
-  "LastChanged_Achievements": "2023-05-18T07:04:53.7333318+00:00",
+  "LastChanged_Achievements": "2023-05-18T08:05:10.9897829+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:17.8107213+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:57:53.7439181+00:00",
-  "LastUpdate_Achievements": "2023-05-18T07:04:53.7333846+00:00"
+  "LastUpdate_Ratings": "2023-05-18T07:58:10.6311647+00:00",
+  "LastUpdate_Achievements": "2023-05-18T08:05:10.9898845+00:00"
 }
