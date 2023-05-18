@@ -11,7 +11,7 @@
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 492 |
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,799 | 107 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 492 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,982 | 45 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,991 | 45 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 492 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 492 |
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,987 | 73 |
@@ -202,7 +202,7 @@
 | 191 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.70 | 0 | 492 |
 | 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,295 | 119 |
 | 191 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 492 |
-| 191 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,820 | 106 |
+| 191 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,822 | 106 |
 | 191 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 492 |
 | 191 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 492 |
 | 191 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 78 | 349 |
@@ -242,10 +242,9 @@
 | 237 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 644 | 162 |
 | 237 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 366 |
 | 237 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 492 |
-| 237 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,228 | 60 |
+| 237 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,232 | 60 |
 | 237 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,820 | 3 |
 | 237 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 171,203 | 5 |
-| 237 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 492 |
 | 237 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 492 |
 | 237 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 197 |
 | 237 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 663 | 159 |
@@ -257,22 +256,23 @@
 | 237 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 85 | 342 |
 | 237 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 21 | 480 |
 | 237 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 492 |
-| 258 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 492 |
-| 258 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,787 | 47 |
-| 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 492 |
-| 258 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 34 | 430 |
-| 258 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.67 | 0 | 492 |
-| 258 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 492 |
-| 258 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 0 | 492 |
-| 258 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 492 |
-| 258 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,218 | 98 |
-| 258 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 558 | 171 |
-| 258 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 312 |
-| 258 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 492 |
-| 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 492 |
-| 258 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 492 |
-| 258 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,609 | 90 |
-| 258 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 104 | 317 |
+| 257 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 492 |
+| 257 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,787 | 47 |
+| 257 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 492 |
+| 257 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 34 | 430 |
+| 257 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 492 |
+| 257 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.67 | 0 | 492 |
+| 257 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 492 |
+| 257 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 0 | 492 |
+| 257 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 492 |
+| 257 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,218 | 98 |
+| 257 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 558 | 171 |
+| 257 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 312 |
+| 257 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 492 |
+| 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 492 |
+| 257 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 492 |
+| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,609 | 90 |
+| 257 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 104 | 317 |
 | 274 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 492 |
 | 274 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 72 | 360 |
 | 274 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 263 |
@@ -861,7 +861,7 @@
 | 858 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 492 |
 | 858 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 492 |
 | 858 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 384 |
-| 858 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,291 | 96 |
+| 858 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,294 | 96 |
 | 858 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 492 |
 | 864 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 492 |
 | 864 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 492 |
@@ -918,7 +918,7 @@
 | 914 | [Poker Club](games/p/poker_club.md) | 3.75 | 0 | 492 |
 | 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.69 | 0 | 492 |
 | 918 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 492 |
-| 919 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.55 | 0 | 492 |
+| 919 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.52 | 0 | 492 |
 | 920 | [Redfall](games/r/redfall.md) | 3.50 | 0 | 492 |
 | 921 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.48 | 0 | 492 |
 | 922 | [Adios](games/a/adios.md) | 3.41 | 0 | 492 |
