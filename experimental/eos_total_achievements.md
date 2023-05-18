@@ -32,6 +32,7 @@
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
+| [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [Mokoko X](../games/c/cace077f51674e66b937ba8d5646fff7.md) | 73 | 1,000 |
 | [Zombie Rollerz: Pinball Heroes](../games/z/zombie_rollerz__pinball_heroes.md) | 73 | 1,000 |
 | [Galactic Civilizations IV](../games/g/galactic_civilizations_iv.md) | 72 | 1,000 |
@@ -140,7 +141,6 @@
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |
 | [Shadow Tactics: Blades of the Shogun](../games/s/shadow_tactics__blades_of_the_shogun.md) | 44 | 1,000 |
-| [Shotgun Farmers](../games/s/shotgun_farmers.md) | 44 | 1,000 |
 | [Art of Rally](../games/a/art_of_rally_1.md) | 43 | 1,000 |
 | [Chorus](../games/c/chorus.md) | 43 | 1,000 |
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
@@ -430,4 +430,5 @@
 | [GeoJelly](../games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5 | 1,000 |
 | [Jill of the Jungle: The Complete Trilogy](../games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
+| [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |
 | [ZZT!](../games/z/zzt!.md) | 5 | 1,000 |

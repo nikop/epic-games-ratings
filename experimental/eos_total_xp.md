@@ -18,6 +18,7 @@
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
+| [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
@@ -323,7 +324,6 @@
 | [Shin-chan Me and the Professor on Summer Vacation](../games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 46 | 1,000 |
 | [Shinogi Chess Club](../games/s/shinogi_chess_club.md) | 12 | 1,000 |
 | [Shop Titans](../games/s/shop_titans.md) | 112 | 1,000 |
-| [Shotgun Farmers](../games/s/shotgun_farmers.md) | 44 | 1,000 |
 | [Shoulders of Giants](../games/s/shoulders_of_giants.md) | 19 | 1,000 |
 | [Showgunners](../games/s/showgunners.md) | 46 | 1,000 |
 | [Silence](../games/s/silence.md) | 46 | 1,000 |
@@ -352,6 +352,7 @@
 | [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
 | [Switchball HD](../games/s/switchball_hd.md) | 9 | 1,000 |
 | [Swordship](../games/s/swordship.md) | 17 | 1,000 |
+| [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |
 | [Tad the Lost Explorer](../games/t/tad_the_lost_explorer.md) | 27 | 1,000 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Tales of the Orient: The Rising Sun](../games/t/tales_of_the_orient__the_rising_sun.md) | 16 | 1,000 |

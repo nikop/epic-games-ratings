@@ -23,7 +23,7 @@
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 | 2 |
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 | 2 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 | 2 |
-| [Shotgun Farmers](../games/s/shotgun_farmers.md) | 44 | 1,000 | 2 |
+| [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 | 2 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 | 2 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 | 2 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 | 2 |

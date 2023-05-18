@@ -1,7 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Flyto](games/f/flyto.md) | 2023-05-18 | 2023-05-18 |
-| [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 2022-05-05 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
@@ -85,6 +83,7 @@
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | 2022-10-13 |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-30 | 2021-04-15 |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-06-30 | 2023-06-30 |
+| [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-30 | 2020-05-15 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | 2023-06-27 |
 | [Tiny Thor](games/t/tiny_thor.md) | 2023-06-30 | 2023-06-30 |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-06-30 | 2023-06-30 |
@@ -124,6 +123,7 @@
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | 2023-09-30 |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 2022-06-03 |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2023-10-13 | 2023-10-13 |
+| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 2023-10-13 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 2023-10-19 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | 2023-11-30 |
 | [The Crust](games/t/the_crust.md) | 2023-11-30 | 2023-11-30 |
@@ -338,7 +338,6 @@
 | [The Front](games/t/the_front.md) | 2099-01-01 | 2099-01-01 |
 | [The Golden Eyed Ghosts](games/t/the_golden_eyed_ghosts.md) | 2099-01-01 | 2099-01-01 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2099-01-01 | 2099-01-01 |
-| [The Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2099-01-01 | 2099-01-01 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | 2099-01-01 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | 2022-11-15 |
 | [The Temple of Archimagus Hatabus](games/3/3b5b3310fcb74963b8d4ec489cd74291.md) | 2099-01-01 | 2023-03-20 |
