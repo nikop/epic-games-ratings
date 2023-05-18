@@ -50,8 +50,8 @@
 | Mirror, Mirror | 28.00% | ~185 |
 | Flower Power | 25.00% | ~165 |
 | Shopping Spree! | 22.00% | ~145 |
-| Crowned | 21.00% | ~139 |
-| Max Level! | 13.00% | ~86 |
+| Crowned | 22.00% | ~145 |
+| Max Level! | 14.00% | ~93 |
 | Dance Master | 8.00% | ~53 |
 | Bombs Away! | 8.00% | ~53 |
 ## Popularity (Based on EOS Achievements)

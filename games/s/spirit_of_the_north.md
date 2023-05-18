@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~36,435 |
-| INFUSED WITH LIGHT | 52.00% | ~28,278 |
-| FOXIN' AROUND | 28.00% | ~15,227 |
-| FETCH | 27.00% | ~14,683 |
-| BLOOMS OF LIGHT | 26.00% | ~14,139 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~36,437 |
+| INFUSED WITH LIGHT | 52.00% | ~28,280 |
+| FOXIN' AROUND | 28.00% | ~15,228 |
+| FETCH | 27.00% | ~14,684 |
+| BLOOMS OF LIGHT | 26.00% | ~14,140 |
 | BEST FRIENDS | 22.00% | ~11,964 |
-| AWAKEN | 21.00% | ~11,420 |
-| ERADICATE | 20.00% | ~10,876 |
-| SPIRIT BARK | 20.00% | ~10,876 |
+| AWAKEN | 21.00% | ~11,421 |
+| ERADICATE | 20.00% | ~10,877 |
+| SPIRIT BARK | 20.00% | ~10,877 |
 | GARDEN OF LIGHT | 18.00% | ~9,789 |
-| SPIRIT FORM | 15.00% | ~8,157 |
-| WRITTEN IN STONE | 15.00% | ~8,157 |
-| UPROOTING DARKNESS | 14.00% | ~7,613 |
+| SPIRIT FORM | 15.00% | ~8,158 |
+| WRITTEN IN STONE | 15.00% | ~8,158 |
+| UPROOTING DARKNESS | 14.00% | ~7,614 |
 | WEIGHTLESS | 11.00% | ~5,982 |
 | SPIRIT DASH | 10.00% | ~5,438 |
-| OLD COMPANION | 8.00% | ~4,350 |
-| PLAGUE DOCTOR | 8.00% | ~4,350 |
+| OLD COMPANION | 8.00% | ~4,351 |
+| PLAGUE DOCTOR | 8.00% | ~4,351 |
 | MATCH MAKER | 7.00% | ~3,807 |
 | NORTHERN LIGHTS | 7.00% | ~3,807 |
 | SPIRITED AWAY | 7.00% | ~3,807 |
-| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,631 |
+| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,632 |
 | ANCIENT HISTORY | 2.00% | ~1,088 |
 | NONE FORGOTTEN | 2.00% | ~1,088 |
 | KINDRED SPIRITS | 0.60% | ~326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,381 (Ranked 73)  
+Progressed: 54,384 (Ranked 73)  
 Completed: 254 (0.47%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 254 (0.47%) (Ranked 107)
 | 2023-05-15 | 54,154 | 252 |
 | 2023-05-16 | 54,253 | 252 |
 | 2023-05-17 | 54,374 | 254 |
-| 2023-05-18 | 54,381 | 254 |
+| 2023-05-18 | 54,384 | 254 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 465)  
 Sum: 93 (Ranked 400)  

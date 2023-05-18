@@ -6,10 +6,10 @@ Rating: 3.64 (Ranked 918)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~995 |
-| World Map | 80.00% | ~846 |
-| Temple of Eternals | 56.00% | ~592 |
-| Prestigious | 52.00% | ~550 |
-| Fellowship Power | 40.00% | ~423 |
+| World Map | 80.00% | ~847 |
+| Temple of Eternals | 56.00% | ~593 |
+| Prestigious | 52.00% | ~551 |
+| Fellowship Power | 39.00% | ~413 |
 | Guild Power | 24.00% | ~254 |
 | Prestigious x10 | 20.00% | ~212 |
 | The game is on | 17.00% | ~180 |
@@ -22,13 +22,13 @@ Rating: 3.64 (Ranked 918)
 | Lieutenant | 11.00% | ~116 |
 | Dragon Master | 10.00% | ~106 |
 | Enlightenment | 10.00% | ~106 |
-| Natural Talent | 9.00% | ~95 |
 | The Unstoppable | 9.00% | ~95 |
 | Mysterious Rock | 8.00% | ~85 |
+| Natural Talent | 8.00% | ~85 |
 | Superior | 8.00% | ~85 |
 | Milestone collector | 7.00% | ~74 |
 | Scientist | 7.00% | ~74 |
-| Daily Quest Completionist | 6.00% | ~63 |
+| Daily Quest Completionist | 6.00% | ~64 |
 | Challenger | 5.00% | ~53 |
 | Frostfire Liberator | 4.00% | ~42 |
 | Hunter | 4.00% | ~42 |
@@ -53,9 +53,9 @@ Rating: 3.64 (Ranked 918)
 | Lock And Load | 1.00% | ~11 |
 | Relic Of The Past | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
-| Blueprint Upgrades | 0.90% | ~10 |
-| Crystal Mining | 0.90% | ~10 |
 | Four Leaf Clover | 0.90% | ~10 |
+| Blueprint Upgrades | 0.80% | ~8 |
+| Crystal Mining | 0.80% | ~8 |
 | Sailor | 0.80% | ~8 |
 | Enchanting skill | 0.70% | ~7 |
 | Legendary | 0.70% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058 (Ranked 162)  
+Progressed: 1,059 (Ranked 162)  
 Completed: 1 (0.09%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.09%) (Ranked 161)
 | 2023-05-15 | 1,032 | 1 |
 | 2023-05-16 | 1,047 | 1 |
 | 2023-05-17 | 1,057 | 1 |
-| 2023-05-18 | 1,058 | 1 |
+| 2023-05-18 | 1,059 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

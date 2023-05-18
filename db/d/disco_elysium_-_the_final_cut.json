@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1073,9 +1073,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118500,
+  "EOS_Progressed": 118503,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3248,6 +3248,11 @@
       "Time": "2023-05-18T02:05:37.3575238+00:00",
       "NumProgressed": 118500,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-18T03:05:38.1446009+00:00",
+      "NumProgressed": 118503,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -3291,7 +3296,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21330
+      "UsersEstimate": 21331
     },
     {
       "ID": "ACH_COP_BAD",
@@ -3315,7 +3320,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28440
+      "UsersEstimate": 28441
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -3339,7 +3344,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33180
+      "UsersEstimate": 33181
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -3347,7 +3352,7 @@
       "Name": "The Most Honourable Cop in The Land",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_COP_LAW",
@@ -3371,7 +3376,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 23700
+      "UsersEstimate": 23701
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -3427,7 +3432,7 @@
       "Name": "Gluten-Free Topping Pie",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_HARDCORE_ENDGAME",
@@ -3491,7 +3496,7 @@
       "Name": "Get Kim to Wear *The Jacket*",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_LEOPART_MINDSET",
@@ -3499,7 +3504,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_MEDAL",
@@ -3507,7 +3512,7 @@
       "Name": "Medal dispenser",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_MULLEN",
@@ -3523,7 +3528,7 @@
       "Name": "Networthy Individual",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH_PALERUNNER",
@@ -3571,22 +3576,22 @@
       "Name": "What body?",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118500,
+      "Progressed": 118503,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-10T10:59:21.1666605+00:00",
-  "LastChanged_Achievements": "2023-05-18T02:05:37.3575229+00:00",
+  "LastChanged_Achievements": "2023-05-18T03:05:38.1446003+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:59.3627353+00:00",
-  "LastUpdate_Ratings": "2023-05-18T01:58:59.6308458+00:00",
-  "LastUpdate_Achievements": "2023-05-18T02:05:37.357567+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:59:04.3250214+00:00",
+  "LastUpdate_Achievements": "2023-05-18T03:05:38.1446441+00:00"
 }

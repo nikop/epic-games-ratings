@@ -1008,9 +1008,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21892,
+  "EOS_Progressed": 21893,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2918,6 +2918,11 @@
       "Time": "2023-05-18T02:05:39.2164487+00:00",
       "NumProgressed": 21892,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-18T03:05:40.1912078+00:00",
+      "NumProgressed": 21893,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -2929,7 +2934,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16200
+      "UsersEstimate": 16201
     },
     {
       "ID": "Animated",
@@ -3001,7 +3006,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7662
+      "UsersEstimate": 7663
     },
     {
       "ID": "Diabolical",
@@ -3017,7 +3022,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13792
+      "UsersEstimate": 13793
     },
     {
       "ID": "Dont_Need_These",
@@ -3129,7 +3134,7 @@
       "Name": "Master Collector",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "Mycophile",
@@ -3161,7 +3166,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Rift_Seeker",
@@ -3169,7 +3174,7 @@
       "Name": "Rift Seeker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "Right_Back",
@@ -3217,7 +3222,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7005
+      "UsersEstimate": 7006
     },
     {
       "ID": "Stunner",
@@ -3233,7 +3238,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 18827
+      "UsersEstimate": 18828
     },
     {
       "ID": "Summoner",
@@ -3265,7 +3270,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9851
+      "UsersEstimate": 9852
     },
     {
       "ID": "Terrifying",
@@ -3281,7 +3286,7 @@
       "Name": "Therapeutic",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "There_You_Are",
@@ -3289,7 +3294,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9632
+      "UsersEstimate": 9633
     },
     {
       "ID": "Tobins_Prodigy",
@@ -3297,7 +3302,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "Ultimate_Defense",
@@ -3313,7 +3318,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10727
+      "UsersEstimate": 10728
     },
     {
       "ID": "Welcome_Crew",
@@ -3321,7 +3326,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7224
+      "UsersEstimate": 7225
     },
     {
       "ID": "Whoopsie",
@@ -3336,7 +3341,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21892,
+      "Progressed": 21893,
       "Completed": 40
     }
   ],
@@ -3344,8 +3349,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-17T08:59:08.9312023+00:00",
-  "LastChanged_Achievements": "2023-05-18T02:05:39.2164481+00:00",
+  "LastChanged_Achievements": "2023-05-18T03:05:40.1912071+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-18T01:58:44.0571832+00:00",
-  "LastUpdate_Achievements": "2023-05-18T02:05:39.2165015+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:58:51.8590137+00:00",
+  "LastUpdate_Achievements": "2023-05-18T03:05:40.1912648+00:00"
 }

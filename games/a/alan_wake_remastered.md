@@ -35,9 +35,9 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 6.00% | ~2,773 |
 | Energized! | 6.00% | ~2,773 |
 | A Friend Indeed | 6.00% | ~581 |
-| Tornado Wrangler | 5.00% | ~2,310 |
-| What Light Through Yonder Window | 5.00% | ~2,310 |
-| Right of Way | 5.00% | ~2,310 |
+| Tornado Wrangler | 5.00% | ~2,311 |
+| What Light Through Yonder Window | 5.00% | ~2,311 |
+| Right of Way | 5.00% | ~2,311 |
 | Ding! | 5.00% | ~484 |
 | Departure | 4.00% | ~1,848 |
 | Children of the Elder God | 3.00% | ~1,386 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,210 (Ranked 75)  
+Progressed: 46,211 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-15 | 46,186 | 44 |
 | 2023-05-16 | 46,196 | 44 |
 | 2023-05-17 | 46,208 | 44 |
-| 2023-05-18 | 46,210 | 44 |
+| 2023-05-18 | 46,211 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

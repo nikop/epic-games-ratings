@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2304,10 +2304,10 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28922,
+  "EOS_Progressed": 28936,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3383,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 3369,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -4939,6 +4939,11 @@
       "Time": "2023-05-18T02:05:20.1506321+00:00",
       "NumProgressed": 28922,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T03:05:19.6593128+00:00",
+      "NumProgressed": 28936,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5052,9 +5057,9 @@
       "ID": "complete_first_wanted_mission",
       "SetID": "3ib2d0i",
       "Name": "Wet Work",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "complete_mission_1",
@@ -5132,9 +5137,9 @@
       "ID": "empire_tier_3",
       "SetID": "3ib2d0i",
       "Name": "Power Players",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "empire_tier_4",
@@ -5156,9 +5161,9 @@
       "ID": "first_building_placed",
       "SetID": "3ib2d0i",
       "Name": "Landlord",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "fully_complete_a_building",
@@ -5220,17 +5225,17 @@
       "ID": "kill_each_faction_miniboss",
       "SetID": "3ib2d0i",
       "Name": "Picking Fights",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
       "SetID": "3ib2d0i",
       "Name": "Wrecking Ball",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -5332,9 +5337,9 @@
       "ID": "use_profile_app",
       "SetID": "3ib2d0i",
       "Name": "To The Nines",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "whole_map_purple",
@@ -5373,22 +5378,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28922,
+      "Progressed": 28936,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 559,
-      "Completed": 407
+      "Progressed": 573,
+      "Completed": 408
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-17T21:00:45.7395848+00:00",
-  "LastChanged_Achievements": "2023-05-18T02:05:20.1506317+00:00",
+  "LastChanged_Achievements": "2023-05-18T03:05:19.6593121+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T01:59:31.3112595+00:00",
-  "LastUpdate_Achievements": "2023-05-18T02:05:20.1506898+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:59:36.7602374+00:00",
+  "LastUpdate_Achievements": "2023-05-18T03:05:19.6593725+00:00"
 }

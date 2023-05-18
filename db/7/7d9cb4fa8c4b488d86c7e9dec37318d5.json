@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-07-14T00:00:00+00:00",
@@ -64,9 +64,9 @@
       "ID": "First Statue Collector",
       "SetID": "1fffk9d",
       "Name": "1 Suicide Guy statue",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Game Completed",
@@ -112,9 +112,9 @@
       "ID": "Suicide Guy",
       "SetID": "1fffk9d",
       "Name": "Firest level completed!",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "The Breaker",
@@ -134,8 +134,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-05-18T02:00:38.6141525+00:00",
+  "LastChanged_Achievements": "2023-05-18T03:00:45.5423917+00:00",
   "LastUpdate_AppInfo": "2023-05-16T15:57:01.6487121+00:00",
-  "LastUpdate_Ratings": "2023-05-18T01:56:49.2786718+00:00",
-  "LastUpdate_Achievements": "2023-05-18T02:00:38.6163748+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:56:53.7707966+00:00",
+  "LastUpdate_Achievements": "2023-05-18T03:00:45.5424199+00:00"
 }

@@ -30,11 +30,11 @@ Rating: 4.55 (Ranked 466)
 | BRAWL! | 0.50% | ~10 |
 | Man's Best Friend | 0.40% | ~8 |
 | ...  in a finite world | 0.40% | ~8 |
+| In Dolos We Trust | 0.40% | ~8 |
 | All in Good Health | 0.40% | ~8 |
 | From the Past | 0.40% | ~8 |
 | Pulsar Disciple | 0.40% | ~8 |
 | What They Hide From Us | 0.30% | ~6 |
-| In Dolos We Trust | 0.30% | ~6 |
 | Praise the Hull! | 0.30% | ~6 |
 | Delivery! | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |

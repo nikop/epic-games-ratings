@@ -7,21 +7,21 @@ Number of Ratings: 6,336  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escaped Tartarus | 89.00% | ~605,908 |
-| Escaped Asphodel | 80.00% | ~544,636 |
-| Arms Collector | 71.00% | ~483,364 |
+| Escaped Asphodel | 80.00% | ~544,637 |
+| Arms Collector | 71.00% | ~483,365 |
 | Friends in High Places | 68.00% | ~462,941 |
 | Escaped Elysium | 66.00% | ~449,325 |
 | Chthonic Colleagues | 63.00% | ~428,901 |
-| Is There No Escape? | 52.00% | ~354,013 |
+| Is There No Escape? | 52.00% | ~354,014 |
 | Death Dealer | 45.00% | ~306,358 |
 | Skelly Slayer | 42.00% | ~285,934 |
 | Well Stocked | 40.00% | ~272,318 |
 | Back to Work | 39.00% | ~265,510 |
 | Blessed by the Gods | 38.00% | ~258,702 |
-| Day-or-Night Trader | 37.00% | ~251,894 |
-| Urge to Sing | 36.00% | ~245,086 |
-| Blood Bound | 35.00% | ~238,278 |
-| Three-Headed Boy | 32.00% | ~217,854 |
+| Day-or-Night Trader | 37.00% | ~251,895 |
+| Urge to Sing | 36.00% | ~245,087 |
+| Blood Bound | 35.00% | ~238,279 |
+| Three-Headed Boy | 32.00% | ~217,855 |
 | Grown Close | 29.00% | ~197,431 |
 | River Denizens | 28.00% | ~190,623 |
 | Home Makeover | 27.00% | ~183,815 |
@@ -39,8 +39,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Musician and Muse | 14.00% | ~95,311 |
 | The Useless Trinket | 13.00% | ~88,503 |
 | Champion of Elysium | 13.00% | ~88,503 |
-| Slashed Benefits | 12.00% | ~81,695 |
-| Haste of Hermes | 11.00% | ~74,887 |
+| Slashed Benefits | 12.00% | ~81,696 |
+| Haste of Hermes | 11.00% | ~74,888 |
 | Bad Call | 10.00% | ~68,080 |
 | Nyx's Mirror | 10.00% | ~68,080 |
 | Night and Darkness | 10.00% | ~68,080 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,232 |
 | Friends Forever | 4.00% | ~27,232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,795 (Ranked 16)  
+Progressed: 680,796 (Ranked 16)  
 Completed: 6,108 (0.90%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 6,108 (0.90%) (Ranked 87)
 | 2023-05-15 | 680,667 | 6,103 |
 | 2023-05-16 | 680,729 | 6,105 |
 | 2023-05-17 | 680,787 | 6,107 |
-| 2023-05-18 | 680,795 | 6,108 |
+| 2023-05-18 | 680,796 | 6,108 |
 ## Awards
 Max (Character Customization): 3,050  (Ranked 87)  
 Sum: 7,441 (Ranked 97)  

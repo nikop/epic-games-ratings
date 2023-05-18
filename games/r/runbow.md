@@ -15,7 +15,7 @@ Rating: 4.46 (Ranked 594)
 | Can You Dig It? | 17.00% | ~41,337 |
 | You Juan-A-Go? | 16.00% | ~38,906 |
 | Chan-tastic | 15.00% | ~36,474 |
-| Muddy Waters | 14.00% | ~34,042 |
+| Muddy Waters | 14.00% | ~34,043 |
 | Toasty! | 13.00% | ~31,611 |
 | Lazy Laser | 8.00% | ~19,453 |
 | Into The Drift | 7.00% | ~17,021 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 594)
 | Talent Scout | 0.10% | ~243 |
 | True Completionist | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,160 (Ranked 40)  
+Progressed: 243,161 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 2 (0.00%) (Ranked 199)
 | 2023-05-15 | 243,071 | 2 |
 | 2023-05-16 | 243,111 | 2 |
 | 2023-05-17 | 243,159 | 2 |
-| 2023-05-18 | 243,160 | 2 |
+| 2023-05-18 | 243,161 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

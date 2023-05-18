@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -484,9 +484,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_OutRage",
@@ -661,8 +661,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-18T02:02:14.1069354+00:00",
+  "LastChanged_Achievements": "2023-05-18T03:01:26.3847757+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-18T01:56:59.9360552+00:00",
-  "LastUpdate_Achievements": "2023-05-18T02:02:14.106967+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:57:02.2146195+00:00",
+  "LastUpdate_Achievements": "2023-05-18T03:01:26.3848084+00:00"
 }

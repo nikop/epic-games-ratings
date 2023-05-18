@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46210,
+  "EOS_Progressed": 46211,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1741,6 +1741,11 @@
       "Time": "2023-05-18T02:05:27.4668219+00:00",
       "NumProgressed": 46210,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-18T03:05:27.858933+00:00",
+      "NumProgressed": 46211,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1872,7 +1877,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "17",
@@ -1944,7 +1949,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "26",
@@ -2064,7 +2069,7 @@
       "Name": "Right of Way",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "41",
@@ -2287,21 +2292,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46210,
+      "Progressed": 46211,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9678,
+      "Progressed": 9679,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-18T02:05:27.4668213+00:00",
+  "LastChanged_Achievements": "2023-05-18T03:05:27.8589321+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-18T01:57:26.9013723+00:00",
-  "LastUpdate_Achievements": "2023-05-18T02:05:27.4669172+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:57:29.6430424+00:00",
+  "LastUpdate_Achievements": "2023-05-18T03:05:27.85902+00:00"
 }

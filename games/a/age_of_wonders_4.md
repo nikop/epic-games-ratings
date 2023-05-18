@@ -29,7 +29,7 @@ Rating: 4.50 (Ranked 531)
 | Arch Mage | 17.00% | ~453 |
 | Preparation Is Everything | 17.00% | ~453 |
 | God Emperor | 16.00% | ~427 |
-| Eternal Lord | 14.00% | ~373 |
+| Eternal Lord | 15.00% | ~400 |
 | Crimson Caldera | 14.00% | ~373 |
 | Fiery Friend | 14.00% | ~373 |
 | The Creator | 13.00% | ~347 |

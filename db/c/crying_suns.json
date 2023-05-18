@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458271,
+  "EOS_Progressed": 458275,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2968,6 +2968,11 @@
       "Time": "2023-05-18T02:05:43.858912+00:00",
       "NumProgressed": 458271,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-18T03:05:45.4892899+00:00",
+      "NumProgressed": 458275,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2995,7 +3000,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105402
+      "UsersEstimate": 105403
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -3019,7 +3024,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 45827
+      "UsersEstimate": 45828
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -3067,7 +3072,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302459
+      "UsersEstimate": 302462
     },
     {
       "ID": "achievement_story_landa",
@@ -3099,7 +3104,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 114568
+      "UsersEstimate": 114569
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -3155,7 +3160,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91654
+      "UsersEstimate": 91655
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -3163,7 +3168,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 151229
+      "UsersEstimate": 151231
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -3403,7 +3408,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 201639
+      "UsersEstimate": 201641
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -3411,7 +3416,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 137481
+      "UsersEstimate": 137482
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -3419,7 +3424,7 @@
       "Name": "Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "achievement_win_expedition_with_monster_noloss",
@@ -3435,7 +3440,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178726
+      "UsersEstimate": 178727
     },
     {
       "ID": "achievement_win_run_hard",
@@ -3498,21 +3503,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2205,
-      "Completed": 2205
+      "Progressed": 2209,
+      "Completed": 2209
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458271,
+      "Progressed": 458275,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-18T02:05:43.8589113+00:00",
+  "LastChanged_Achievements": "2023-05-18T03:05:45.4892892+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-18T01:59:07.8296058+00:00",
-  "LastUpdate_Achievements": "2023-05-18T02:05:43.8589872+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:59:14.0802545+00:00",
+  "LastUpdate_Achievements": "2023-05-18T03:05:45.4893698+00:00"
 }

@@ -10,7 +10,7 @@ Rating: 4.32 (Ranked 742)
 | At Least We Have Each Other... | 76.00% | ~1,515 |
 | Frogbot | 73.00% | ~1,456 |
 | Ouch | 56.00% | ~1,117 |
-| Fun in the Stun | 55.00% | ~1,097 |
+| Fun in the Stun | 56.00% | ~1,117 |
 | Do you feel like a tough guy? | 45.00% | ~897 |
 | The Interdimensional Power of Friendship | 45.00% | ~897 |
 | Turn Up The HEAT | 41.00% | ~818 |

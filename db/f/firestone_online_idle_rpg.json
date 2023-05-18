@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -62,7 +62,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1058,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -1752,6 +1752,11 @@
       "Time": "2023-05-18T02:05:32.3335492+00:00",
       "NumProgressed": 1058,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T03:05:32.4516988+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1809,9 +1814,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "cauldronliberator",
@@ -1841,9 +1846,9 @@
       "ID": "crystalmining",
       "SetID": "3nl4bcg",
       "Name": "Crystal Mining",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "dailyquestcompletionist",
@@ -1851,7 +1856,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "doingmypart",
@@ -1945,9 +1950,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 413
     },
     {
       "ID": "fourleafclover",
@@ -2137,9 +2142,9 @@
       "ID": "naturaltalent",
       "SetID": "3nl4bcg",
       "Name": "Natural Talent",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 85
     },
     {
       "ID": "pokerface",
@@ -2155,7 +2160,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "prestigiousx10",
@@ -2219,7 +2224,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "thealchemist",
@@ -2355,14 +2360,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1058,
+      "Progressed": 1059,
       "Completed": 1
     }
   ],
@@ -2370,8 +2375,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-18T02:05:32.3335487+00:00",
+  "LastChanged_Achievements": "2023-05-18T03:05:32.4516977+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-18T01:57:47.3951402+00:00",
-  "LastUpdate_Achievements": "2023-05-18T02:05:32.333632+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:57:54.2797586+00:00",
+  "LastUpdate_Achievements": "2023-05-18T03:05:32.4517946+00:00"
 }
