@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome! | 100.00% | ~75 |
-| A tiny town | 80.00% | ~60 |
-| Buildings, roads, cars, ...and people | 65.00% | ~49 |
-| Great view from the beach and from the hill | 55.00% | ~41 |
+| A tiny town | 81.00% | ~61 |
+| Buildings, roads, cars, ...and people | 67.00% | ~50 |
+| Great view from the beach and from the hill | 56.00% | ~42 |
 | Bridges to come and go | 51.00% | ~38 |
 | Found an oasis | 41.00% | ~31 |
 | Burger or pizza? | 36.00% | ~27 |

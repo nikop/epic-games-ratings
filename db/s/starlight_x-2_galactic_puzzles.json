@@ -2,7 +2,7 @@
   "ID": "8805c35d5be3445883a032fd3efc14d0",
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
-  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 69,
@@ -25,9 +25,354 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 43,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach_addicted_00",
+      "SetID": "8jkn3bi",
+      "Name": "Addicted for 3 Days",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_addicted_01",
+      "SetID": "8jkn3bi",
+      "Name": "Addicted for 7 Days",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_addicted_02",
+      "SetID": "8jkn3bi",
+      "Name": "Addicted for 10 Days",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_classicpack_00",
+      "SetID": "8jkn3bi",
+      "Name": "Complete the Pack: Earth",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_dailypack_00",
+      "SetID": "8jkn3bi",
+      "Name": "Complete a Daily Pack",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_fast_00",
+      "SetID": "8jkn3bi",
+      "Name": "Fast 6x6",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_fast_01",
+      "SetID": "8jkn3bi",
+      "Name": "Fast 7x7",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_fast_02",
+      "SetID": "8jkn3bi",
+      "Name": "Fast 8x8",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_fast_03",
+      "SetID": "8jkn3bi",
+      "Name": "Fast 9x9",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_fast_04",
+      "SetID": "8jkn3bi",
+      "Name": "Fast 10x10",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_fast_05",
+      "SetID": "8jkn3bi",
+      "Name": "Fast 11x11",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_fast_06",
+      "SetID": "8jkn3bi",
+      "Name": "Fast 12x12",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_fast_07",
+      "SetID": "8jkn3bi",
+      "Name": "Fast 13x13",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_00",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 levels",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_01",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 50 levels",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_02",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 100 levels",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_03",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 500 levels",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_04",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 1000 levels",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_05",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 5000 levels",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_size_00",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 6x6 levels",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_size_01",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 7x7 levels",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_size_02",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 8x8 levels",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_size_03",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 9x9 levels",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_size_04",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 10x10 levels",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_size_05",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 11x11 levels",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_size_06",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 12x12 levels",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_levels_size_07",
+      "SetID": "8jkn3bi",
+      "Name": "Complete 25 13x13 levels",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_00",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 5x5",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_01",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 6x6",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_02",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 7x7",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_03",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 8x8",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_04",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 9x9",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_05",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 10x10",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_06",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 11x11",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_07",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 12x12",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nohints_08",
+      "SetID": "8jkn3bi",
+      "Name": "By Yourself 13x13",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_playtime_00",
+      "SetID": "8jkn3bi",
+      "Name": "Play for 5 hours",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_playtime_01",
+      "SetID": "8jkn3bi",
+      "Name": "Play for 10 hours",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_playtime_02",
+      "SetID": "8jkn3bi",
+      "Name": "Play for 24 hours",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_switchoff_00",
+      "SetID": "8jkn3bi",
+      "Name": "Switch off the light",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_usehints_00",
+      "SetID": "8jkn3bi",
+      "Name": "Use 10 hints",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_usehints_01",
+      "SetID": "8jkn3bi",
+      "Name": "Use 20 hints",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_usehints_02",
+      "SetID": "8jkn3bi",
+      "Name": "Use 50 hints",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8jkn3bi",
@@ -37,8 +382,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-05-18T10:05:55.7890293+00:00",
+  "LastChanged_Achievements": "2023-05-18T11:06:19.4266403+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:29.1150619+00:00",
-  "LastUpdate_Ratings": "2023-05-18T10:00:23.0945129+00:00",
-  "LastUpdate_Achievements": "2023-05-18T10:05:55.789032+00:00"
+  "LastUpdate_Ratings": "2023-05-18T11:00:53.2644591+00:00",
+  "LastUpdate_Achievements": "2023-05-18T11:06:19.4266895+00:00"
 }

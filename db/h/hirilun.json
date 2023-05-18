@@ -2,7 +2,7 @@
   "ID": "25b6108a1b4e4f23bdd29a37e68567fa",
   "Name": "Hirilun",
   "ProductSlug": "hirilun-d92aa3",
-  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 69,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.6582149+00:00",
   "LastChanged": "2023-03-31T05:58:47.658215+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:32.3656275+00:00",
-  "LastUpdate_Ratings": "2023-05-18T09:59:31.2170078+00:00",
-  "LastUpdate_Achievements": "2023-05-18T10:04:47.6850394+00:00"
+  "LastUpdate_Ratings": "2023-05-18T10:59:48.5144121+00:00",
+  "LastUpdate_Achievements": "2023-05-18T11:04:53.4389971+00:00"
 }

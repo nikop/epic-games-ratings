@@ -2496,9 +2496,9 @@
       "Count": 476
     }
   ],
-  "EOS_Progressed": 267537,
+  "EOS_Progressed": 267545,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 981,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5076,6 +5076,11 @@
       "Time": "2023-05-18T10:03:47.8429695+00:00",
       "NumProgressed": 267537,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-05-18T11:03:49.0883917+00:00",
+      "NumProgressed": 267545,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 45,
@@ -5095,7 +5100,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16052
+      "UsersEstimate": 16053
     },
     {
       "ID": "PFA_11",
@@ -5103,7 +5108,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16052
+      "UsersEstimate": 16053
     },
     {
       "ID": "PFA_12",
@@ -5111,7 +5116,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16052
+      "UsersEstimate": 16053
     },
     {
       "ID": "PFA_13",
@@ -5119,7 +5124,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16052
+      "UsersEstimate": 16053
     },
     {
       "ID": "PFA_14",
@@ -5135,7 +5140,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10701
+      "UsersEstimate": 10702
     },
     {
       "ID": "PFA_16",
@@ -5151,7 +5156,7 @@
       "Name": "Beast Friends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10701
+      "UsersEstimate": 10702
     },
     {
       "ID": "PFA_18",
@@ -5167,7 +5172,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10701
+      "UsersEstimate": 10702
     },
     {
       "ID": "PFA_2",
@@ -5207,7 +5212,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10701
+      "UsersEstimate": 10702
     },
     {
       "ID": "PFA_24",
@@ -5271,7 +5276,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10701
+      "UsersEstimate": 10702
     },
     {
       "ID": "PFA_31",
@@ -5311,7 +5316,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10701
+      "UsersEstimate": 10702
     },
     {
       "ID": "PFA_36",
@@ -5343,7 +5348,7 @@
       "Name": "Coasting Along",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16052
+      "UsersEstimate": 16053
     },
     {
       "ID": "PFA_4",
@@ -5391,7 +5396,7 @@
       "Name": "The Spell Master",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10701
+      "UsersEstimate": 10702
     },
     {
       "ID": "PFA_45",
@@ -5446,7 +5451,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 267537,
+      "Progressed": 267545,
       "Completed": 363
     }
   ],
@@ -5454,8 +5459,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-18T07:57:17.8327632+00:00",
-  "LastChanged_Achievements": "2023-05-18T10:03:47.8429686+00:00",
+  "LastChanged_Achievements": "2023-05-18T11:03:49.0883908+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:13.5277492+00:00",
-  "LastUpdate_Ratings": "2023-05-18T09:57:35.60368+00:00",
-  "LastUpdate_Achievements": "2023-05-18T10:03:47.8430202+00:00"
+  "LastUpdate_Ratings": "2023-05-18T10:57:15.0908596+00:00",
+  "LastUpdate_Achievements": "2023-05-18T11:03:49.0884449+00:00"
 }

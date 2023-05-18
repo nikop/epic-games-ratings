@@ -7,22 +7,22 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 35.00% | ~17,555 |
-| Landlord | 29.00% | ~14,545 |
+| Landlord | 30.00% | ~15,047 |
 | Lawmaker | 21.00% | ~10,533 |
 | Bannerlord | 20.00% | ~10,031 |
 | Horde breaker | 20.00% | ~10,031 |
 | Trained | 20.00% | ~10,031 |
 | The king is pleased | 16.00% | ~8,025 |
-| King Solomon | 15.00% | ~7,523 |
+| King Solomon | 15.00% | ~7,524 |
 | I can do it | 14.00% | ~7,022 |
 | Apple of my eye | 13.00% | ~6,520 |
 | God of the Arena | 12.00% | ~6,019 |
 | Against all odds | 9.00% | ~4,514 |
 | Swordbearer | 9.00% | ~4,514 |
-| Duelist | 8.00% | ~4,012 |
-| Dynasty | 8.00% | ~4,012 |
-| I spit on your grave | 8.00% | ~4,012 |
-| What have the Romans ever done for us? | 8.00% | ~4,012 |
+| Duelist | 8.00% | ~4,013 |
+| Dynasty | 8.00% | ~4,013 |
+| I spit on your grave | 8.00% | ~4,013 |
+| What have the Romans ever done for us? | 8.00% | ~4,013 |
 | Butterlord | 7.00% | ~3,511 |
 | Mastery | 6.00% | ~3,009 |
 | Know your enemy | 5.00% | ~2,508 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,156 (Ranked 74)  
+Progressed: 50,157 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,10 +86,10 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 49,956 | 0 |
 | 2023-05-16 | 50,039 | 0 |
 | 2023-05-17 | 50,127 | 0 |
-| 2023-05-18 | 50,156 | 0 |
+| 2023-05-18 | 50,157 | 0 |
 ## Awards
 Max (Character Customization): 6,542  (Ranked 49)  
-Sum: 13,053 (Ranked 68)  
+Sum: 13,055 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -98,7 +98,7 @@ Diff (max vs sum): -19
 | This game has Diverse Characters | 800 |
 | This game is Highly Recommended | 774 |
 | This game is Extremely Fun | 735 |
-| This game has Amazing Storytelling | 725 |
+| This game has Amazing Storytelling | 727 |
 | This game has Quickly Understood Controls | 723 |
 | This game is Relaxing | 715 |
 | This game has Amazing Characters | 711 |
@@ -231,3 +231,4 @@ Diff (max vs sum): -19
 | 2023-05-15 | 4.74 | - | 6,526 | 13,023 |
 | 2023-05-16 | 4.74 | - | 6,537 | 13,043 |
 | 2023-05-17 | 4.74 | - | 6,542 | 13,053 |
+| 2023-05-18 | 4.74 | - | 6,542 | 13,055 |

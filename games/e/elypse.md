@@ -7,8 +7,8 @@
 | A path of no return | 113.00% | ~9 |
 | Pigeon | 88.00% | ~7 |
 | A bottomless pit | 88.00% | ~7 |
+| Splash! | 75.00% | ~6 |
 | Baited | 63.00% | ~5 |
-| Splash! | 63.00% | ~5 |
 | Hard Rock | 63.00% | ~5 |
 | "Swoosh" | 50.00% | ~4 |
 | The light at the end of the tunnel | 50.00% | ~4 |

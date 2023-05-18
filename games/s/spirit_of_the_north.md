@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~36,457 |
-| INFUSED WITH LIGHT | 52.00% | ~28,295 |
-| FOXIN' AROUND | 28.00% | ~15,236 |
-| FETCH | 27.00% | ~14,692 |
-| BLOOMS OF LIGHT | 26.00% | ~14,147 |
-| BEST FRIENDS | 22.00% | ~11,971 |
-| AWAKEN | 21.00% | ~11,427 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~36,459 |
+| INFUSED WITH LIGHT | 52.00% | ~28,297 |
+| FOXIN' AROUND | 28.00% | ~15,237 |
+| FETCH | 27.00% | ~14,693 |
+| BLOOMS OF LIGHT | 26.00% | ~14,148 |
+| BEST FRIENDS | 22.00% | ~11,972 |
+| AWAKEN | 21.00% | ~11,428 |
 | ERADICATE | 20.00% | ~10,883 |
 | SPIRIT BARK | 20.00% | ~10,883 |
-| GARDEN OF LIGHT | 18.00% | ~9,794 |
-| SPIRIT FORM | 15.00% | ~8,162 |
-| WRITTEN IN STONE | 15.00% | ~8,162 |
+| GARDEN OF LIGHT | 18.00% | ~9,795 |
+| SPIRIT FORM | 15.00% | ~8,163 |
+| WRITTEN IN STONE | 15.00% | ~8,163 |
 | UPROOTING DARKNESS | 14.00% | ~7,618 |
-| WEIGHTLESS | 11.00% | ~5,985 |
-| SPIRIT DASH | 10.00% | ~5,441 |
+| WEIGHTLESS | 11.00% | ~5,986 |
+| SPIRIT DASH | 10.00% | ~5,442 |
 | OLD COMPANION | 8.00% | ~4,353 |
 | PLAGUE DOCTOR | 8.00% | ~4,353 |
 | MATCH MAKER | 7.00% | ~3,809 |
 | NORTHERN LIGHTS | 7.00% | ~3,809 |
 | SPIRITED AWAY | 7.00% | ~3,809 |
-| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,632 |
+| FOX? OR FLYING SQUIRREL? | 3.00% | ~1,633 |
 | ANCIENT HISTORY | 2.00% | ~1,088 |
 | NONE FORGOTTEN | 2.00% | ~1,088 |
-| KINDRED SPIRITS | 0.60% | ~326 |
+| KINDRED SPIRITS | 0.60% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,413 (Ranked 73)  
+Progressed: 54,417 (Ranked 73)  
 Completed: 254 (0.47%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 254 (0.47%) (Ranked 107)
 | 2023-05-15 | 54,154 | 252 |
 | 2023-05-16 | 54,253 | 252 |
 | 2023-05-17 | 54,374 | 254 |
-| 2023-05-18 | 54,413 | 254 |
+| 2023-05-18 | 54,417 | 254 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 465)  
 Sum: 93 (Ranked 400)  

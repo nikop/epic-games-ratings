@@ -16,7 +16,7 @@
 | What have I done!? | 9.00% | ~8 |
 | Parasite Exterminated | 8.00% | ~7 |
 | This Coffin Has Your Name On It! | 8.00% | ~7 |
-| The Forgotten Tower | 7.00% | ~6 |
+| The Forgotten Tower | 6.00% | ~6 |
 | Lover of classics | 4.00% | ~4 |
 | Researcher | 4.00% | ~4 |
 | I Am The Gate Keeper! | 4.00% | ~4 |
@@ -45,8 +45,8 @@
 | The 5th Element | 1.00% | ~1 |
 | This Mansion Is Clean | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 253)  
-Completed: 1 (1.09%) (Ranked 83)  
+Progressed: 93 (Ranked 253)  
+Completed: 1 (1.08%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 1 (1.09%) (Ranked 83)
 | 2023-05-15 | 69 | 1 |
 | 2023-05-16 | 77 | 1 |
 | 2023-05-17 | 84 | 1 |
-| 2023-05-18 | 92 | 1 |
+| 2023-05-18 | 93 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,12 +10,12 @@ Number of Ratings: 22,103  (23.09.2022)
 | Optimized | 0.70% | ~203 |
 | To The Nines | 0.70% | ~203 |
 | The Side Job | 0.60% | ~174 |
+| Wet Work | 0.60% | ~174 |
 | Tune Up | 0.60% | ~174 |
 | Landlord | 0.60% | ~174 |
 | Performance Review | 0.60% | ~174 |
 | Making a Name | 0.60% | ~174 |
 | Finders Keepers | 0.50% | ~145 |
-| Wet Work | 0.50% | ~145 |
 | A Young Empire | 0.50% | ~145 |
 | Work Ethic | 0.50% | ~145 |
 | Wrecking Ball | 0.50% | ~145 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~29 |
 | All Mine | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,019 (Ranked 85)  
+Progressed: 29,029 (Ranked 85)  
 Completed: 18 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 18 (0.06%) (Ranked 168)
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
-| 2023-05-18 | 29,019 | 18 |
+| 2023-05-18 | 29,029 | 18 |
 ## Awards
 Max (Extremely Fun): 1,028  (Ranked 133)  
 Sum: 8,330 (Ranked 88)  

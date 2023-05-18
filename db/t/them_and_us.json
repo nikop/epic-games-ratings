@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -343,6 +343,11 @@
       "Time": "2023-05-18T10:00:24.5846126+00:00",
       "NumProgressed": 92,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T11:00:57.9092121+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -616,7 +621,7 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -673,7 +678,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 1
     }
   ],
@@ -681,8 +686,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-18T10:00:24.5846114+00:00",
+  "LastChanged_Achievements": "2023-05-18T11:00:57.9092114+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-18T09:57:29.48315+00:00",
-  "LastUpdate_Achievements": "2023-05-18T10:00:24.5853209+00:00"
+  "LastUpdate_Ratings": "2023-05-18T10:57:07.9195021+00:00",
+  "LastUpdate_Achievements": "2023-05-18T11:00:57.9098431+00:00"
 }

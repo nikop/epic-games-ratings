@@ -14,7 +14,7 @@
 | Italian Style | 16.00% | ~17 |
 | Haute Cuisine | 12.00% | ~13 |
 | Sous-Chef | 11.00% | ~12 |
-| Well-Stocked Kitchen | 8.00% | ~8 |
+| Well-Stocked Kitchen | 9.00% | ~10 |
 | Culinary Arts | 7.00% | ~7 |
 | Perfectionist | 6.00% | ~6 |
 | Rolling in Dough | 5.00% | ~5 |

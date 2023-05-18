@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~27 |
-| To Each Their Own | 25.00% | ~7 |
+| You're Going Down! | 100.00% | ~28 |
+| To Each Their Own | 29.00% | ~8 |
 | Like Phileas Fogg | 18.00% | ~5 |
 | Onwards and Upwards | 18.00% | ~5 |
 | Seven-League Boots | 11.00% | ~3 |

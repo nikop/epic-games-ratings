@@ -3997,10 +3997,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13053,
       "NumberOfAwardsMax": 6542
+    },
+    {
+      "Time": "2023-05-18T10:59:54.4808569+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13055,
+      "NumberOfAwardsMax": 6542
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13053,
+  "NumberOfAwards": 13055,
   "NumberOfAwardsMax": 6542,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4038,7 +4044,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 725
+      "Count": 727
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4077,9 +4083,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50156,
+  "EOS_Progressed": 50157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6612,6 +6618,11 @@
       "Time": "2023-05-18T10:06:00.2271302+00:00",
       "NumProgressed": 50156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T11:06:24.8519309+00:00",
+      "NumProgressed": 50157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6703,7 +6714,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "Dynasty",
@@ -6711,7 +6722,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "Entrepreneur",
@@ -6799,7 +6810,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "Jack of All Trades",
@@ -6815,7 +6826,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7523
+      "UsersEstimate": 7524
     },
     {
       "ID": "Kingslayer",
@@ -6845,9 +6856,9 @@
       "ID": "Landlord",
       "SetID": "den0lp1",
       "Name": "Landlord",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 14545
+      "UsersEstimate": 15047
     },
     {
       "ID": "Lawbringer",
@@ -7023,22 +7034,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50156,
+      "Progressed": 50157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-17T10:59:28.5200525+00:00",
-  "LastChanged_Achievements": "2023-05-18T10:06:00.2271295+00:00",
+  "LastChanged": "2023-05-18T10:59:54.4808565+00:00",
+  "LastChanged_Achievements": "2023-05-18T11:06:24.8519301+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-18T09:59:35.7408093+00:00",
-  "LastUpdate_Achievements": "2023-05-18T10:06:00.2271866+00:00"
+  "LastUpdate_Ratings": "2023-05-18T10:59:54.4808574+00:00",
+  "LastUpdate_Achievements": "2023-05-18T11:06:24.8520307+00:00"
 }

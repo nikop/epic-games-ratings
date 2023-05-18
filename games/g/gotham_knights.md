@@ -31,6 +31,7 @@ Rating: 4.17 (Ranked 832)
 | Gotham Knight | 0.40% | ~244 |
 | The Batman Family | 0.30% | ~183 |
 | In Your Element | 0.30% | ~183 |
+| Not On My Watch | 0.30% | ~183 |
 | Bulldozed | 0.30% | ~183 |
 | Out of Their League | 0.30% | ~183 |
 | Drone You Out | 0.30% | ~183 |
@@ -38,7 +39,6 @@ Rating: 4.17 (Ranked 832)
 | Dressed to Impress | 0.20% | ~122 |
 | Fusion Expert | 0.20% | ~122 |
 | Expert Crime Fighter | 0.20% | ~122 |
-| Not On My Watch | 0.20% | ~122 |
 | Family Meeting | 0.20% | ~122 |
 | A Worthy Successor | 0.20% | ~122 |
 | Gotham City Confidential | 0.20% | ~122 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 832)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,948 (Ranked 67)  
+Progressed: 60,949 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,11 +95,11 @@ Completed: 91 (0.15%) (Ranked 146)
 | 2023-05-15 | 60,902 | 91 |
 | 2023-05-16 | 60,923 | 91 |
 | 2023-05-17 | 60,939 | 91 |
-| 2023-05-18 | 60,948 | 91 |
+| 2023-05-18 | 60,949 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,217  (Ranked 99)  
-Sum: 3,679 (Ranked 137)  
-Diff (max vs sum): -38  
+Sum: 3,679 (Ranked 138)  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,217 |

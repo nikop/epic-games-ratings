@@ -23,7 +23,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Control freak | 30.00% | ~1,517 |
 | Running Wild | 30.00% | ~1,517 |
 | Finish line | 28.00% | ~1,416 |
-| Unstoppable force | 24.00% | ~1,214 |
+| Unstoppable force | 25.00% | ~1,264 |
 | Wave of mutilation | 23.00% | ~1,163 |
 | Can't Run Can't Hide | 20.00% | ~1,012 |
 | R is for Running | 19.00% | ~961 |

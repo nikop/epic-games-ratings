@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2880,
+  "EOS_Progressed": 2881,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2222,6 +2222,11 @@
       "Time": "2023-05-18T10:06:02.258196+00:00",
       "NumProgressed": 2880,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T11:06:27.3257393+00:00",
+      "NumProgressed": 2881,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2289,7 +2294,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -2337,7 +2342,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -2393,7 +2398,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2407,9 +2412,9 @@
       "ID": "ACH_MILITARYCOUP",
       "SetID": "1p8ab95",
       "Name": "One Does Not Simply Stage A Coup",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -2505,7 +2510,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2552,15 +2557,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2880,
+      "Progressed": 2881,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-18T10:06:02.2581956+00:00",
+  "LastChanged_Achievements": "2023-05-18T11:06:27.3257387+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-18T09:59:59.5997239+00:00",
-  "LastUpdate_Achievements": "2023-05-18T10:06:02.2582352+00:00"
+  "LastUpdate_Ratings": "2023-05-18T11:00:24.6041149+00:00",
+  "LastUpdate_Achievements": "2023-05-18T11:06:27.3257788+00:00"
 }

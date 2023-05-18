@@ -32,7 +32,7 @@ Rating: 4.76 (Ranked 115)
 | Glyndemere | 18.00% | ~363 |
 | Iffighain Headquarters | 18.00% | ~363 |
 | Full equipped | 17.00% | ~343 |
-| Whispers in the Woods II | 15.00% | ~303 |
+| Whispers in the Woods II | 16.00% | ~323 |
 | Quickmoore Headquarters | 15.00% | ~303 |
 | No more holding back | 14.00% | ~282 |
 | Terbisia | 14.00% | ~282 |
@@ -48,11 +48,11 @@ Rating: 4.76 (Ranked 115)
 | I smell fear | 9.00% | ~182 |
 | The end of the experiments | 9.00% | ~182 |
 | The Great City of Demacia | 9.00% | ~182 |
+| Back to sleep, then... | 9.00% | ~182 |
 | Call it 'redistribution of magic | 9.00% | ~182 |
 | Chains master | 8.00% | ~161 |
 | Truth is a dark mirror | 8.00% | ~161 |
 | You can pet the... horse | 8.00% | ~161 |
-| Back to sleep, then... | 8.00% | ~161 |
 | Do you trust me? | 7.00% | ~141 |
 | The great mage rebellion starts now | 7.00% | ~141 |
 | Spellcrafting | 7.00% | ~141 |
