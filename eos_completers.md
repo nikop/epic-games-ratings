@@ -23,7 +23,7 @@
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.45% |
 | 23 | [Scorn](games/s/scorn.md) | 7.04% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.83% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -80,9 +80,9 @@
 | 78 | [Chorus](games/c/chorus.md) | 1.27% |
 | 78 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 80 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
-| 81 | [Them and Us](games/t/them_and_us.md) | 1.19% |
-| 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
-| 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
+| 81 | [Late Shift](games/l/late_shift.md) | 1.17% |
+| 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
+| 83 | [Them and Us](games/t/them_and_us.md) | 1.15% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.03% |
 | 85 | [Sable](games/s/sable.md) | 0.93% |
 | 86 | [Dungeons 3](games/d/dungeons_3.md) | 0.92% |
