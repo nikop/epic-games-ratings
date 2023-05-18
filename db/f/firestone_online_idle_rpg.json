@@ -68,7 +68,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1060,
+  "EOS_Progressed": 1061,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -1768,6 +1768,11 @@
       "Time": "2023-05-18T08:05:17.1797694+00:00",
       "NumProgressed": 1060,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T10:05:41.8690365+00:00",
+      "NumProgressed": 1061,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1963,7 +1968,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "fourleafclover",
@@ -2011,7 +2016,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "herewegoagain",
@@ -2051,7 +2056,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "jewelenchanting",
@@ -2115,7 +2120,7 @@
       "Name": "Miner Clicker",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "missionsdedication",
@@ -2171,7 +2176,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "prestigiousx10",
@@ -2339,7 +2344,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "warmachinesarmy",
@@ -2371,14 +2376,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1060,
+      "Progressed": 1061,
       "Completed": 1
     }
   ],
@@ -2386,8 +2391,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T05:58:19.755133+00:00",
-  "LastChanged_Achievements": "2023-05-18T09:06:03.3778572+00:00",
+  "LastChanged_Achievements": "2023-05-18T10:05:41.8690359+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-18T08:58:01.8390883+00:00",
-  "LastUpdate_Achievements": "2023-05-18T09:06:03.3779517+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:58:09.0799983+00:00",
+  "LastUpdate_Achievements": "2023-05-18T10:05:41.869123+00:00"
 }

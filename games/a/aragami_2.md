@@ -6,27 +6,27 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,006 |
-| First Steps | 81.00% | ~26,418 |
-| Control the Shadows | 68.00% | ~22,178 |
-| Tools of the Trade | 63.00% | ~20,547 |
-| Apprentice | 60.00% | ~19,569 |
+| Awakening | 92.00% | ~30,007 |
+| First Steps | 81.00% | ~26,419 |
+| Control the Shadows | 68.00% | ~22,179 |
+| Tools of the Trade | 63.00% | ~20,548 |
+| Apprentice | 60.00% | ~19,570 |
 | Secret Seeker | 57.00% | ~18,591 |
-| Forge of Assassins | 56.00% | ~18,264 |
-| Revenant | 52.00% | ~16,960 |
+| Forge of Assassins | 56.00% | ~18,265 |
+| Revenant | 51.00% | ~16,634 |
 | I don’t Care! | 45.00% | ~14,677 |
 | Bird of Prey | 37.00% | ~12,068 |
 | Engraved with Power | 32.00% | ~10,437 |
-| Lady | 30.00% | ~9,784 |
+| Lady | 30.00% | ~9,785 |
 | Fashionable Assassin | 27.00% | ~8,806 |
 | Apex Predator | 24.00% | ~7,828 |
-| Soul Reaver | 22.00% | ~7,175 |
+| Soul Reaver | 22.00% | ~7,176 |
 | Embers | 21.00% | ~6,849 |
 | Wall Lizard | 20.00% | ~6,523 |
 | Clinging to Life | 18.00% | ~5,871 |
 | Burning | 17.00% | ~5,545 |
-| Look Behind You | 16.00% | ~5,218 |
-| Sleeping on the Job | 16.00% | ~5,218 |
+| Look Behind You | 16.00% | ~5,219 |
+| Sleeping on the Job | 16.00% | ~5,219 |
 | Family | 14.00% | ~4,566 |
 | War Engines | 14.00% | ~4,566 |
 | Signature Move | 14.00% | ~4,566 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~326 |
 | Anger Management | 1.00% | ~326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,615 (Ranked 82)  
+Progressed: 32,616 (Ranked 82)  
 Completed: 156 (0.48%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 156 (0.48%) (Ranked 106)
 | 2023-05-15 | 32,476 | 155 |
 | 2023-05-16 | 32,537 | 156 |
 | 2023-05-17 | 32,590 | 156 |
-| 2023-05-18 | 32,615 | 156 |
+| 2023-05-18 | 32,616 | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

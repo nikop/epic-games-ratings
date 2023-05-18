@@ -4,7 +4,7 @@
   "ProductSlug": "ankh-2-d45050",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-08-28T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.2850687+00:00",
   "LastChanged": "2023-03-31T05:58:18.2850689+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:39.9280311+00:00",
-  "LastUpdate_Ratings": "2023-05-18T08:58:52.9643334+00:00",
-  "LastUpdate_Achievements": "2023-05-18T09:03:36.5939828+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:58:47.030566+00:00",
+  "LastUpdate_Achievements": "2023-05-18T10:03:32.8562096+00:00"
 }

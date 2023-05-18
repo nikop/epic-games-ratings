@@ -6,33 +6,33 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~605,916 |
-| Escaped Asphodel | 80.00% | ~544,644 |
-| Arms Collector | 71.00% | ~483,372 |
-| Friends in High Places | 68.00% | ~462,947 |
-| Escaped Elysium | 66.00% | ~449,331 |
-| Chthonic Colleagues | 63.00% | ~428,907 |
-| Is There No Escape? | 52.00% | ~354,019 |
-| Death Dealer | 45.00% | ~306,362 |
-| Skelly Slayer | 42.00% | ~285,938 |
-| Well Stocked | 40.00% | ~272,322 |
-| Back to Work | 39.00% | ~265,514 |
-| Blessed by the Gods | 38.00% | ~258,706 |
-| Day-or-Night Trader | 37.00% | ~251,898 |
-| Urge to Sing | 36.00% | ~245,090 |
-| Blood Bound | 35.00% | ~238,282 |
-| Three-Headed Boy | 32.00% | ~217,858 |
-| Grown Close | 29.00% | ~197,433 |
-| River Denizens | 28.00% | ~190,625 |
-| Home Makeover | 27.00% | ~183,817 |
-| The Family Secret | 26.00% | ~177,009 |
-| Had to Happen | 25.00% | ~170,201 |
-| To Charon's Credit | 23.00% | ~156,585 |
-| Tools of the Architect | 23.00% | ~156,585 |
-| Master of Arms | 23.00% | ~156,585 |
-| Rare Collectible | 22.00% | ~149,777 |
-| Weapon of Fate | 21.00% | ~142,969 |
-| Something From Everyone | 19.00% | ~129,353 |
+| Escaped Tartarus | 89.00% | ~605,919 |
+| Escaped Asphodel | 80.00% | ~544,646 |
+| Arms Collector | 71.00% | ~483,374 |
+| Friends in High Places | 68.00% | ~462,949 |
+| Escaped Elysium | 66.00% | ~449,333 |
+| Chthonic Colleagues | 63.00% | ~428,909 |
+| Is There No Escape? | 52.00% | ~354,020 |
+| Death Dealer | 45.00% | ~306,364 |
+| Skelly Slayer | 42.00% | ~285,939 |
+| Well Stocked | 40.00% | ~272,323 |
+| Back to Work | 39.00% | ~265,515 |
+| Blessed by the Gods | 38.00% | ~258,707 |
+| Day-or-Night Trader | 37.00% | ~251,899 |
+| Urge to Sing | 36.00% | ~245,091 |
+| Blood Bound | 35.00% | ~238,283 |
+| Three-Headed Boy | 32.00% | ~217,859 |
+| Grown Close | 29.00% | ~197,434 |
+| River Denizens | 28.00% | ~190,626 |
+| Home Makeover | 27.00% | ~183,818 |
+| The Family Secret | 26.00% | ~177,010 |
+| Had to Happen | 25.00% | ~170,202 |
+| To Charon's Credit | 23.00% | ~156,586 |
+| Tools of the Architect | 23.00% | ~156,586 |
+| Master of Arms | 23.00% | ~156,586 |
+| Rare Collectible | 22.00% | ~149,778 |
+| Weapon of Fate | 21.00% | ~142,970 |
+| Something From Everyone | 19.00% | ~129,354 |
 | Hold the Onions | 18.00% | ~122,545 |
 | Well Versed | 17.00% | ~115,737 |
 | War-God's Bloodlust | 15.00% | ~102,121 |
@@ -41,22 +41,22 @@ Number of Ratings: 6,336  (23.09.2022)
 | Champion of Elysium | 13.00% | ~88,505 |
 | Slashed Benefits | 12.00% | ~81,697 |
 | Haste of Hermes | 11.00% | ~74,889 |
-| Bad Call | 10.00% | ~68,080 |
-| Nyx's Mirror | 10.00% | ~68,080 |
-| Night and Darkness | 10.00% | ~68,080 |
-| End to Torment | 10.00% | ~68,080 |
-| Dark Reflections | 9.00% | ~61,272 |
-| Thanks, But No Thanks | 9.00% | ~61,272 |
-| Infernal Arms | 9.00% | ~61,272 |
-| Divided by Death | 8.00% | ~54,464 |
-| Harsh Conditions | 7.00% | ~47,656 |
-| One for the Ages | 7.00% | ~47,656 |
+| Bad Call | 10.00% | ~68,081 |
+| Nyx's Mirror | 10.00% | ~68,081 |
+| Night and Darkness | 10.00% | ~68,081 |
+| End to Torment | 10.00% | ~68,081 |
+| Dark Reflections | 9.00% | ~61,273 |
+| Thanks, But No Thanks | 9.00% | ~61,273 |
+| Infernal Arms | 9.00% | ~61,273 |
+| Divided by Death | 8.00% | ~54,465 |
+| Harsh Conditions | 7.00% | ~47,657 |
+| One for the Ages | 7.00% | ~47,657 |
 | Complete Set | 6.00% | ~40,848 |
 | Skelly's Last Lamentations | 6.00% | ~40,848 |
 | Thorn of Thanatos | 4.00% | ~27,232 |
 | Friends Forever | 4.00% | ~27,232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,805 (Ranked 16)  
+Progressed: 680,808 (Ranked 16)  
 Completed: 6,108 (0.90%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 6,108 (0.90%) (Ranked 87)
 | 2023-05-15 | 680,667 | 6,103 |
 | 2023-05-16 | 680,729 | 6,105 |
 | 2023-05-17 | 680,787 | 6,107 |
-| 2023-05-18 | 680,805 | 6,108 |
+| 2023-05-18 | 680,808 | 6,108 |
 ## Awards
 Max (Character Customization): 3,050  (Ranked 87)  
 Sum: 7,441 (Ranked 97)  

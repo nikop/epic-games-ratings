@@ -643,9 +643,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 29307,
+  "EOS_Progressed": 29308,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3173,6 +3173,11 @@
       "Time": "2023-05-18T09:01:10.4851351+00:00",
       "NumProgressed": 29307,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-18T10:00:39.4049659+00:00",
+      "NumProgressed": 29308,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -3384,7 +3389,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ach_legacyrival",
@@ -3400,7 +3405,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ach_legacyshipmate",
@@ -3416,7 +3421,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ach_portbell",
@@ -3528,7 +3533,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ach_sweetheart",
@@ -3536,7 +3541,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 5568
+      "UsersEstimate": 5569
     },
     {
       "ID": "ach_terror100",
@@ -3615,15 +3620,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 29307,
+      "Progressed": 29308,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-16T03:00:31.6712899+00:00",
-  "LastChanged_Achievements": "2023-05-18T09:01:10.4851348+00:00",
+  "LastChanged_Achievements": "2023-05-18T10:00:39.4049654+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.7723799+00:00",
-  "LastUpdate_Ratings": "2023-05-18T08:59:49.052439+00:00",
-  "LastUpdate_Achievements": "2023-05-18T09:01:10.4852809+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:59:32.4474518+00:00",
+  "LastUpdate_Achievements": "2023-05-18T10:00:39.4050321+00:00"
 }

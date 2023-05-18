@@ -2310,9 +2310,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 29005,
+  "EOS_Progressed": 29019,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3314,
+  "EOS_NewPlayers": 3303,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4980,6 +4980,11 @@
       "Time": "2023-05-18T09:05:50.9366943+00:00",
       "NumProgressed": 29005,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T10:05:31.2180465+00:00",
+      "NumProgressed": 29019,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5037,9 +5042,9 @@
       "ID": "collect_low_amount_hero_props",
       "SetID": "3ib2d0i",
       "Name": "Finders Keepers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "complet_epilogue_mission",
@@ -5101,9 +5106,9 @@
       "ID": "complete_mission_1",
       "SetID": "3ib2d0i",
       "Name": "First F#@!ing Day",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 232
     },
     {
       "ID": "customize_a_vehicle",
@@ -5117,9 +5122,9 @@
       "ID": "customize_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Optimized",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 203
     },
     {
       "ID": "cutting_edge_materials",
@@ -5173,17 +5178,17 @@
       "ID": "empire_tier_3",
       "SetID": "3ib2d0i",
       "Name": "Power Players",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "empire_tier_4",
       "SetID": "3ib2d0i",
       "Name": "Masters of Santo Ileso",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "empire_tier_5",
@@ -5197,17 +5202,17 @@
       "ID": "first_building_placed",
       "SetID": "3ib2d0i",
       "Name": "Landlord",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "fully_complete_a_building",
       "SetID": "3ib2d0i",
       "Name": "Work Ethic",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -5341,9 +5346,9 @@
       "ID": "staggered_by_vending_machine",
       "SetID": "3ib2d0i",
       "Name": "Food for Thought",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "two_thirds_purple",
@@ -5414,22 +5419,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 29005,
+      "Progressed": 29019,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 642,
-      "Completed": 416
+      "Progressed": 656,
+      "Completed": 417
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-18T06:58:57.1899868+00:00",
-  "LastChanged_Achievements": "2023-05-18T09:05:50.9366939+00:00",
+  "LastChanged_Achievements": "2023-05-18T10:05:31.2180461+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T08:59:47.1029473+00:00",
-  "LastUpdate_Achievements": "2023-05-18T09:05:50.9367815+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:59:30.8546952+00:00",
+  "LastUpdate_Achievements": "2023-05-18T10:05:31.2181059+00:00"
 }

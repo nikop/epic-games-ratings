@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 827)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Big Game Hunter | 0.60% | ~3 |
 | Instigator | 0.50% | ~2 |
-| Big Game Hunter | 0.50% | ~2 |
 | Bear Trap | 0.50% | ~2 |
 | Big Spender | 0.40% | ~2 |
 | The Commonality | 0.30% | ~38 |
@@ -47,7 +47,7 @@ Rating: 4.18 (Ranked 827)
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,567 (Ranked 101)  
-Completed: 49 (0.39%) (Ranked 112)  
+Completed: 50 (0.40%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: 49 (0.39%) (Ranked 112)
 | 2023-05-14 | 12,564 | 48 |
 | 2023-05-16 | 12,566 | 49 |
 | 2023-05-17 | 12,567 | 49 |
+| 2023-05-18 | 12,567 | 50 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 246 (Ranked 342)  

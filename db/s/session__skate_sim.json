@@ -972,9 +972,9 @@
       "ID": "ACH_COMMENCE-THE-HIJINX",
       "SetID": "72olkc5",
       "Name": "Commence the Hijinx!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -1340,8 +1340,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-16T11:58:45.2681641+00:00",
-  "LastChanged_Achievements": "2023-05-18T09:05:49.4975469+00:00",
+  "LastChanged_Achievements": "2023-05-18T10:05:29.9644281+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-18T08:59:15.2626222+00:00",
-  "LastUpdate_Achievements": "2023-05-18T09:05:49.4975865+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:59:03.1135829+00:00",
+  "LastUpdate_Achievements": "2023-05-18T10:05:29.9644691+00:00"
 }

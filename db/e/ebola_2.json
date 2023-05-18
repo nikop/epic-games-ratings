@@ -2,7 +2,7 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 69,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -526,6 +526,11 @@
       "Time": "2023-05-18T09:04:01.8207161+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T10:03:53.0253665+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -625,7 +630,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achMeat",
@@ -655,9 +660,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "achVirus",
@@ -680,14 +685,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-18T09:04:01.8207155+00:00",
+  "LastChanged_Achievements": "2023-05-18T10:03:53.0253661+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:07.9454664+00:00",
-  "LastUpdate_Ratings": "2023-05-18T08:57:12.2211504+00:00",
-  "LastUpdate_Achievements": "2023-05-18T09:04:01.8207444+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:57:29.2297942+00:00",
+  "LastUpdate_Achievements": "2023-05-18T10:03:53.0253812+00:00"
 }

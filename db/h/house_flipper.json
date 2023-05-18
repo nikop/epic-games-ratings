@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1392,9 +1392,9 @@
       "Count": 203
     }
   ],
-  "EOS_Progressed": 18761,
+  "EOS_Progressed": 18762,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2132,6 +2132,11 @@
       "Time": "2023-05-18T08:05:21.044098+00:00",
       "NumProgressed": 18761,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-18T10:05:45.5450563+00:00",
+      "NumProgressed": 18762,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2191,7 +2196,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17635
+      "UsersEstimate": 17636
     },
     {
       "ID": "GameOver",
@@ -2311,7 +2316,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "YouDoItWrong",
@@ -2326,15 +2331,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18761,
+      "Progressed": 18762,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-17T23:00:06.610201+00:00",
-  "LastChanged_Achievements": "2023-05-18T09:06:07.9360862+00:00",
+  "LastChanged_Achievements": "2023-05-18T10:05:45.5450559+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:21.1151824+00:00",
-  "LastUpdate_Ratings": "2023-05-18T08:59:37.8300537+00:00",
-  "LastUpdate_Achievements": "2023-05-18T09:06:07.9361049+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:59:22.7579483+00:00",
+  "LastUpdate_Achievements": "2023-05-18T10:05:45.5450761+00:00"
 }

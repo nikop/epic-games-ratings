@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9592,
+  "EOS_Progressed": 9594,
   "EOS_Completed": 211,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.2,
   "EosHistory": [
@@ -2898,6 +2898,11 @@
       "Time": "2023-05-18T08:05:30.8031132+00:00",
       "NumProgressed": 9592,
       "NumCompleted": 211
+    },
+    {
+      "Time": "2023-05-18T10:05:55.3332116+00:00",
+      "NumProgressed": 9594,
+      "NumCompleted": 211
     }
   ],
   "TotalAchievements": 20,
@@ -2957,7 +2962,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -2989,7 +2994,7 @@
       "Name": "Tails of Stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "FOUND_MAMBA",
@@ -3013,7 +3018,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "GAME_FINISHED",
@@ -3029,7 +3034,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7290
+      "UsersEstimate": 7291
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -3053,7 +3058,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "WEST_FINISHED",
@@ -3061,22 +3066,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9592,
+      "Progressed": 9594,
       "Completed": 211
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-18T09:06:19.2687043+00:00",
+  "LastChanged_Achievements": "2023-05-18T10:05:55.3332112+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.8345922+00:00",
-  "LastUpdate_Ratings": "2023-05-18T09:00:22.0229072+00:00",
-  "LastUpdate_Achievements": "2023-05-18T09:06:19.2687417+00:00"
+  "LastUpdate_Ratings": "2023-05-18T09:59:58.4423943+00:00",
+  "LastUpdate_Achievements": "2023-05-18T10:05:55.3332391+00:00"
 }

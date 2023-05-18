@@ -22,10 +22,10 @@ Rating: 4.55 (Ranked 466)
 | A Hunk of Junk | 0.80% | ~15 |
 | Exceeding Capacity | 0.80% | ~15 |
 | Power Outage | 0.80% | ~15 |
+| Access Granted | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
 | Please Make it Stop! | 0.70% | ~13 |
 | Sightseeing | 0.60% | ~11 |
-| Access Granted | 0.60% | ~11 |
 | Necessary Enhancement | 0.60% | ~11 |
 | BRAWL! | 0.50% | ~10 |
 | From the Past | 0.50% | ~10 |
