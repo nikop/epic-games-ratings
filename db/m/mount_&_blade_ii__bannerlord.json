@@ -4009,10 +4009,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13061,
       "NumberOfAwardsMax": 6545
+    },
+    {
+      "Time": "2023-05-18T14:59:40.109179+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13063,
+      "NumberOfAwardsMax": 6545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13061,
+  "NumberOfAwards": 13063,
   "NumberOfAwardsMax": 6545,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4044,7 +4050,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 810
+      "Count": 812
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4089,9 +4095,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50169,
+  "EOS_Progressed": 50171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6644,6 +6650,11 @@
       "Time": "2023-05-18T14:05:47.4803126+00:00",
       "NumProgressed": 50169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T15:05:58.2214304+00:00",
+      "NumProgressed": 50171,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6783,7 +6794,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6021
     },
     {
       "ID": "Great Granny",
@@ -6847,7 +6858,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7525
+      "UsersEstimate": 7526
     },
     {
       "ID": "Kingslayer",
@@ -6863,7 +6874,7 @@
       "Name": "Know your enemy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "Lance-a-lot",
@@ -6887,7 +6898,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17559
+      "UsersEstimate": 17560
     },
     {
       "ID": "Lawmaker",
@@ -6895,7 +6906,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10535
+      "UsersEstimate": 10536
     },
     {
       "ID": "Long live the Empire",
@@ -7015,7 +7026,7 @@
       "Name": "This Is Our Land",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "This is Sparta",
@@ -7062,15 +7073,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50169,
+      "Progressed": 50171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-18T13:04:47.1397735+00:00",
-  "LastChanged_Achievements": "2023-05-18T14:05:47.4803124+00:00",
+  "LastChanged": "2023-05-18T14:59:40.1091786+00:00",
+  "LastChanged_Achievements": "2023-05-18T15:05:58.2214299+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:59:24.8335287+00:00",
-  "LastUpdate_Achievements": "2023-05-18T14:05:47.4803602+00:00"
+  "LastUpdate_Ratings": "2023-05-18T14:59:40.1091794+00:00",
+  "LastUpdate_Achievements": "2023-05-18T15:05:58.2214815+00:00"
 }

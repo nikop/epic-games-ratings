@@ -4,7 +4,7 @@
   "ProductSlug": "slime-rancher-2",
   "Ranking_Rating": 78,
   "Ranking_Popularity": 323,
-  "Ranking_PopularitySum": 245,
+  "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 266,
@@ -258,10 +258,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 816,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-05-18T14:59:21.7755128+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 817,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 816,
+  "NumberOfAwards": 817,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -299,7 +305,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -350,8 +356,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2023-05-16T19:58:45.4598666+00:00",
+  "LastChanged": "2023-05-18T14:59:21.7755126+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:17.8492085+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:59:06.8678028+00:00",
-  "LastUpdate_Achievements": "2023-05-18T14:03:48.523229+00:00"
+  "LastUpdate_Ratings": "2023-05-18T14:59:21.7755133+00:00",
+  "LastUpdate_Achievements": "2023-05-18T15:03:36.4088105+00:00"
 }

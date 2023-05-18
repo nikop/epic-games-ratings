@@ -6,28 +6,28 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,779 |
-| Leader | 61.00% | ~3,293 |
-| Explorer | 53.00% | ~2,861 |
-| Healer | 53.00% | ~2,861 |
-| Aspiring Inventor | 45.00% | ~2,430 |
-| Adventurer | 41.00% | ~2,214 |
-| Famous Healer | 38.00% | ~2,052 |
-| Local Leader | 35.00% | ~1,890 |
-| New Opportunities | 34.00% | ~1,836 |
-| Famous Explorer | 33.00% | ~1,782 |
-| Energized | 33.00% | ~1,782 |
-| The Long Haul | 33.00% | ~1,782 |
-| Survivor | 31.00% | ~1,674 |
-| The Great Healer | 30.00% | ~1,620 |
-| Cleaner | 28.00% | ~1,512 |
-| Catastrofan | 28.00% | ~1,512 |
-| Legendary Explorer | 27.00% | ~1,458 |
-| Finders, Keepers | 26.00% | ~1,404 |
+| First Step | 70.00% | ~3,781 |
+| Leader | 61.00% | ~3,295 |
+| Explorer | 53.00% | ~2,863 |
+| Healer | 53.00% | ~2,863 |
+| Aspiring Inventor | 45.00% | ~2,431 |
+| Adventurer | 41.00% | ~2,215 |
+| Famous Healer | 38.00% | ~2,053 |
+| Local Leader | 35.00% | ~1,891 |
+| New Opportunities | 34.00% | ~1,837 |
+| Famous Explorer | 33.00% | ~1,783 |
+| Energized | 33.00% | ~1,783 |
+| The Long Haul | 33.00% | ~1,783 |
+| Survivor | 31.00% | ~1,675 |
+| The Great Healer | 30.00% | ~1,621 |
+| Cleaner | 28.00% | ~1,513 |
+| Catastrofan | 28.00% | ~1,513 |
+| Legendary Explorer | 27.00% | ~1,459 |
+| Finders, Keepers | 26.00% | ~1,405 |
 | Top Notch | 24.00% | ~1,296 |
-| Mentor | 23.00% | ~1,242 |
 | Great Leader | 22.00% | ~1,188 |
 | Ice Lakes | 22.00% | ~1,188 |
+| Mentor | 22.00% | ~1,188 |
 | Merchant | 21.00% | ~1,134 |
 | Real Survivor | 21.00% | ~1,134 |
 | War Never Changes | 19.00% | ~1,026 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,399 (Ranked 120)  
+Progressed: 5,402 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 5,326 | 0 |
 | 2023-05-16 | 5,356 | 0 |
 | 2023-05-17 | 5,386 | 0 |
-| 2023-05-18 | 5,399 | 0 |
+| 2023-05-18 | 5,402 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 269)  

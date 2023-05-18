@@ -23,6 +23,7 @@
 | Magnitude 5 | 22.00% | ~2 |
 | MayDay! MayDay! | 11.00% | ~1 |
 | Homeless | 11.00% | ~1 |
+| Big badaboom! | 11.00% | ~1 |
 | Full power | 0.00% | ~0 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
@@ -32,7 +33,6 @@
 | Nokron tower | 0.00% | ~0 |
 | Sadistic | 0.00% | ~0 |
 | Comeback | 0.00% | ~0 |
-| Big badaboom! | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Gooooooaaaaal!!! | 0.00% | ~0 |
 | Payback | 0.00% | ~0 |

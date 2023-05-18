@@ -5,19 +5,20 @@ Rating: 4.40 (Ranked 670)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Strategist | 0.30% | ~2 |
 | The Long Game | 0.30% | ~2 |
+| Resourceful | 0.30% | ~2 |
+| As Quiet as a Mouse | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
 | No Stone Unturned | 0.10% | ~1 |
 | Opposing Force | 0.10% | ~1 |
-| Strategist | 0.10% | ~1 |
+| Enemy at the Gates | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
 | Skirmisher | 0.10% | ~1 |
 | Precision Is Key | 0.10% | ~1 |
 | Confirming Suspicions | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
-| Resourceful | 0.10% | ~1 |
-| As Quiet as a Mouse | 0.10% | ~1 |
 | It's Starting to Crack | 0.10% | ~1 |
 | Change the Channel | 0.10% | ~1 |
 | Don't hold your breath | 0.10% | ~1 |
@@ -31,7 +32,6 @@ Rating: 4.40 (Ranked 670)
 | Climbing the Ladder | 0.00% | ~0 |
 | Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
-| Enemy at the Gates | 0.00% | ~0 |
 | Fields of Glory | 0.00% | ~0 |
 | Just a Flesh Wound | 0.00% | ~0 |
 | Organ Grinder | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 670)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731 (Ranked 176)  
+Progressed: 732 (Ranked 176)  
 Completed: 2 (0.27%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.27%) (Ranked 129)
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
-| 2023-05-18 | 731 | 2 |
+| 2023-05-18 | 732 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

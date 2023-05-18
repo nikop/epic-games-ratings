@@ -15,12 +15,12 @@
 | Fluke | 36.00% | ~31 |
 | Victor's Prejudice | 34.00% | ~30 |
 | Elimination | 33.00% | ~29 |
+| Memento | 31.00% | ~27 |
 | Excellent Driving Skills | 30.00% | ~26 |
-| Memento | 30.00% | ~26 |
 | Once Bitten, Twice Shy | 29.00% | ~25 |
 | Defeat the AI | 26.00% | ~23 |
+| Unsalvageable | 26.00% | ~23 |
 | Fleet-footed | 26.00% | ~23 |
-| Unsalvageable | 25.00% | ~22 |
 | Invincible | 25.00% | ~22 |
 | Neutralize | 24.00% | ~21 |
 | Best in Dragon City | 23.00% | ~20 |

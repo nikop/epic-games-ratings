@@ -6,37 +6,39 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 0.90% | ~262 |
+| First F#@!ing Day | 1.00% | ~291 |
+| Optimized | 0.90% | ~262 |
 | To The Nines | 0.90% | ~262 |
-| Optimized | 0.80% | ~233 |
+| Performance Review | 0.80% | ~233 |
 | Making a Name | 0.80% | ~233 |
 | The Side Job | 0.70% | ~204 |
+| Wet Work | 0.70% | ~204 |
 | Tune Up | 0.70% | ~204 |
 | Landlord | 0.70% | ~204 |
-| Performance Review | 0.70% | ~204 |
-| Finders Keepers | 0.60% | ~174 |
-| Wet Work | 0.60% | ~174 |
-| A Young Empire | 0.60% | ~174 |
-| Wrecking Ball | 0.60% | ~174 |
-| Food for Thought | 0.60% | ~174 |
-| Work Ethic | 0.50% | ~145 |
+| Wrecking Ball | 0.70% | ~204 |
+| Food for Thought | 0.70% | ~204 |
+| Finders Keepers | 0.60% | ~175 |
+| A Young Empire | 0.60% | ~175 |
+| Work Ethic | 0.60% | ~175 |
+| Quality Time | 0.50% | ~145 |
+| Power Players | 0.50% | ~145 |
 | Picking Fights | 0.50% | ~145 |
-| Quality Time | 0.40% | ~116 |
 | Showdown | 0.40% | ~116 |
-| Power Players | 0.40% | ~116 |
+| Kitted Out | 0.40% | ~116 |
 | Et tu? | 0.40% | ~116 |
 | Took It to The Limit | 0.40% | ~116 |
 | Masters of Santo Ileso | 0.30% | ~87 |
-| Kitted Out | 0.30% | ~87 |
+| The Mechanic | 0.30% | ~87 |
 | Producer Credit | 0.30% | ~2 |
 | Face Off | 0.30% | ~2 |
 | Hijacked | 0.20% | ~58 |
 | We could go home, or… | 0.20% | ~58 |
 | Challenge Accepted | 0.20% | ~58 |
+| Untouchable | 0.20% | ~58 |
 | The Spins | 0.20% | ~58 |
 | A Golden Age | 0.20% | ~58 |
-| The Mechanic | 0.20% | ~58 |
 | Closet Space | 0.20% | ~58 |
+| Smooth Moves | 0.20% | ~58 |
 | Hazardous Heist | 0.20% | ~1 |
 | Jack of All Trades | 0.10% | ~29 |
 | It's a Bird! | 0.10% | ~29 |
@@ -47,12 +49,10 @@ Number of Ratings: 22,103  (23.09.2022)
 | Statement Pieces | 0.10% | ~29 |
 | Chaos Tamer | 0.10% | ~29 |
 | Bonus Round | 0.10% | ~29 |
-| Untouchable | 0.10% | ~29 |
 | Free Refills | 0.10% | ~29 |
 | Armor Piercing | 0.10% | ~29 |
 | Neighborly | 0.10% | ~29 |
 | Prankster | 0.10% | ~29 |
-| Smooth Moves | 0.10% | ~29 |
 | A Car Named Simone | 0.10% | ~29 |
 | Tourist | 0.10% | ~29 |
 | Community Outreach | 0.10% | ~29 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~29 |
 | All Mine | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,073 (Ranked 85)  
+Progressed: 29,093 (Ranked 85)  
 Completed: 18 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,19 +88,19 @@ Completed: 18 (0.06%) (Ranked 168)
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
-| 2023-05-18 | 29,073 | 18 |
+| 2023-05-18 | 29,093 | 18 |
 ## Awards
-Max (Extremely Fun): 1,028  (Ranked 133)  
-Sum: 8,330 (Ranked 88)  
+Max (Extremely Fun): 1,029  (Ranked 133)  
+Sum: 8,333 (Ranked 88)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 1,028 |
+| This game is Extremely Fun | 1,029 |
 | This game has Quickly Understood Controls | 998 |
 | This game is Highly Recommended | 969 |
 | This game has Amazing Characters | 956 |
+| This game has Diverse Characters | 954 |
 | This game is Great for Beginners | 954 |
-| This game has Diverse Characters | 952 |
 | This game is Relaxing | 951 |
 | This game has Amazing Storytelling | 946 |
 | This game has Playful Visuals | 777 |
@@ -180,4 +180,4 @@ Diff (max vs sum): 45
 | 2023-05-15 | 3.78 | - | 1,027 | 8,322 |
 | 2023-05-16 | 3.78 | - | 1,028 | 8,328 |
 | 2023-05-17 | 3.78 | - | 1,028 | 8,329 |
-| 2023-05-18 | 3.78 | - | 1,028 | 8,330 |
+| 2023-05-18 | 3.78 | - | 1,029 | 8,333 |

@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54491,
+  "EOS_Progressed": 54493,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1827,6 +1827,11 @@
       "Time": "2023-05-18T13:11:12.8773678+00:00",
       "NumProgressed": 54491,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-18T15:05:59.3321284+00:00",
+      "NumProgressed": 54493,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -1902,7 +1907,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3814
+      "UsersEstimate": 3815
     },
     {
       "ID": "FlyingPresent",
@@ -2174,7 +2179,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "TimelySplash",
@@ -2229,7 +2234,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54491,
+      "Progressed": 54493,
       "Completed": 4
     }
   ],
@@ -2237,8 +2242,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-05-18T14:05:48.765784+00:00",
+  "LastChanged_Achievements": "2023-05-18T15:05:59.332128+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.6185244+00:00",
-  "LastUpdate_Ratings": "2023-05-18T14:00:12.5961599+00:00",
-  "LastUpdate_Achievements": "2023-05-18T14:05:48.765828+00:00"
+  "LastUpdate_Ratings": "2023-05-18T15:00:36.171748+00:00",
+  "LastUpdate_Achievements": "2023-05-18T15:05:59.3321768+00:00"
 }

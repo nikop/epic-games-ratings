@@ -348,9 +348,9 @@
       "ID": "ACH_SAVE_LISBETH_TIMEOUT",
       "SetID": "6d82akp",
       "Name": "Unsalvageable",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_SAVE_LIZBETH",
@@ -476,9 +476,9 @@
       "ID": "ACH_UNLOCK_MANY_CARDS",
       "SetID": "6d82akp",
       "Name": "Memento",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_UNLOCK_SKILL",
@@ -533,8 +533,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-05-18T14:05:15.850418+00:00",
+  "LastChanged_Achievements": "2023-05-18T15:05:26.2636668+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:32.6380348+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:59:18.9532747+00:00",
-  "LastUpdate_Achievements": "2023-05-18T14:05:15.8504594+00:00"
+  "LastUpdate_Ratings": "2023-05-18T14:59:35.9898536+00:00",
+  "LastUpdate_Achievements": "2023-05-18T15:05:26.2637144+00:00"
 }

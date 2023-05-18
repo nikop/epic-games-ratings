@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,053 |
-| The One Who Mastered Memories | 6.00% | ~16,053 |
-| The Hallowed Hero | 6.00% | ~16,053 |
-| The Hero of Hogwarts | 6.00% | ~16,053 |
-| Coasting Along | 6.00% | ~16,053 |
+| Grappling with a Graphorn | 6.00% | ~16,054 |
+| The One Who Mastered Memories | 6.00% | ~16,054 |
+| The Hallowed Hero | 6.00% | ~16,054 |
+| The Hero of Hogwarts | 6.00% | ~16,054 |
+| Coasting Along | 6.00% | ~16,054 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,378 |
 | The Defender of Dragons | 5.00% | ~13,378 |
 | A Sallow Grave | 5.00% | ~13,378 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,070 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,555 (Ranked 38)  
-Completed: 363 (0.14%) (Ranked 149)  
+Progressed: 267,562 (Ranked 38)  
+Completed: 364 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,10 +79,10 @@ Completed: 363 (0.14%) (Ranked 149)
 | 2023-05-15 | 267,261 | 362 |
 | 2023-05-16 | 267,382 | 362 |
 | 2023-05-17 | 267,506 | 363 |
-| 2023-05-18 | 267,555 | 363 |
+| 2023-05-18 | 267,562 | 364 |
 ## Awards
 Max (Character Customization): 18,846  (Ranked 18)  
-Sum: 34,625 (Ranked 33)  
+Sum: 34,629 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): -15
 | This game is Extremely Fun | 768 |
 | This game is Great for Beginners | 761 |
 | This game is Relaxing | 743 |
-| This game has Diverse Characters | 732 |
+| This game has Diverse Characters | 736 |
 | This game has Amazing Storytelling | 732 |
 | This game has Amazing Characters | 727 |
 | This game is Highly Recommended | 703 |
@@ -156,4 +156,4 @@ Diff (max vs sum): -15
 | 2023-05-15 | 4.77 | 18,787 | 34,478 |
 | 2023-05-16 | 4.77 | 18,815 | 34,548 |
 | 2023-05-17 | 4.77 | 18,846 | 34,616 |
-| 2023-05-18 | 4.77 | 18,846 | 34,625 |
+| 2023-05-18 | 4.77 | 18,846 | 34,629 |

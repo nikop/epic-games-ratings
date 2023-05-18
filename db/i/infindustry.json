@@ -160,9 +160,9 @@
       "ID": "Builder",
       "SetID": "82ojhod",
       "Name": "Builder",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Cook",
@@ -248,9 +248,9 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -263,8 +263,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-05-18T14:05:12.8239498+00:00",
+  "LastChanged_Achievements": "2023-05-18T15:05:22.9942966+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:12.5693976+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:57:11.2847402+00:00",
-  "LastUpdate_Achievements": "2023-05-18T14:05:12.823957+00:00"
+  "LastUpdate_Ratings": "2023-05-18T14:57:18.5730977+00:00",
+  "LastUpdate_Achievements": "2023-05-18T15:05:22.9943065+00:00"
 }

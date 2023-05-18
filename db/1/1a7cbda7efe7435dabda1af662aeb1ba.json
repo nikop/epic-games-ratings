@@ -51,9 +51,9 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_KILL10",
@@ -289,8 +289,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-05-18T14:03:11.1159866+00:00",
+  "LastChanged_Achievements": "2023-05-18T15:02:17.7519538+00:00",
   "LastUpdate_AppInfo": "2023-05-16T16:56:57.5457988+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:57:00.4296015+00:00",
-  "LastUpdate_Achievements": "2023-05-18T14:03:11.1160042+00:00"
+  "LastUpdate_Ratings": "2023-05-18T14:57:08.3622125+00:00",
+  "LastUpdate_Achievements": "2023-05-18T15:02:17.7519744+00:00"
 }

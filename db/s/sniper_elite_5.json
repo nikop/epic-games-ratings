@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -565,6 +565,11 @@
       "Time": "2023-05-18T12:06:15.6245211+00:00",
       "NumProgressed": 731,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-18T15:05:29.2229172+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -614,9 +619,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -646,9 +651,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -798,9 +803,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -814,9 +819,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1143,13 +1148,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 2
     }
   ],
@@ -1157,8 +1162,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-16T14:00:47.7127935+00:00",
-  "LastChanged_Achievements": "2023-05-18T14:05:18.5963149+00:00",
+  "LastChanged_Achievements": "2023-05-18T15:05:29.2229167+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-18T14:00:08.5875467+00:00",
-  "LastUpdate_Achievements": "2023-05-18T14:05:18.596452+00:00"
+  "LastUpdate_Ratings": "2023-05-18T15:00:32.0522431+00:00",
+  "LastUpdate_Achievements": "2023-05-18T15:05:29.222985+00:00"
 }

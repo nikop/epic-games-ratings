@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -459,6 +459,11 @@
       "Time": "2023-05-18T13:10:50.8584777+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T15:05:37.3325655+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -484,9 +489,9 @@
       "ID": "5CustomDishesMenus",
       "SetID": "d1bm05f",
       "Name": "Culinary Arts",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "5OvenDishesMenu",
@@ -628,9 +633,9 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Money10000",
@@ -668,7 +673,7 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 49
     },
@@ -724,7 +729,7 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 48
     },
@@ -789,7 +794,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
@@ -797,8 +802,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-18T14:05:26.3778739+00:00",
+  "LastChanged_Achievements": "2023-05-18T15:05:37.3325649+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:21.5130518+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:58:15.3096641+00:00",
-  "LastUpdate_Achievements": "2023-05-18T14:05:26.3779052+00:00"
+  "LastUpdate_Ratings": "2023-05-18T14:58:27.1871611+00:00",
+  "LastUpdate_Achievements": "2023-05-18T15:05:37.3325981+00:00"
 }
