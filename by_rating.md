@@ -40,7 +40,7 @@
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 414 |
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,545 | 41 |
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,464 | 59 |
-| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 316 | 221 |
+| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 318 | 221 |
 | 38 | [Grindstone](games/g/grindstone.md) | 4.85 | 0 | 492 |
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 492 |
 | 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 228 | 245 |
@@ -215,7 +215,7 @@
 | 213 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 492 |
 | 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,345 | 8 |
 | 213 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 492 |
-| 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,755 | 77 |
+| 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,757 | 77 |
 | 213 | [Deceive Inc.](games/d/deceive_inc..md) | 4.69 | 0 | 492 |
 | 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 492 |
 | 213 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 492 |
@@ -229,7 +229,7 @@
 | 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 492 |
 | 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 61 | 378 |
 | 213 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 492 |
-| 213 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,507 | 113 |
+| 213 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,511 | 113 |
 | 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 38 | 414 |
 | 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 870 | 142 |
 | 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 492 |
@@ -425,7 +425,7 @@
 | 414 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 208 | 256 |
 | 414 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 388 |
 | 414 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 184 | 265 |
-| 414 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 266 | 236 |
+| 414 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 267 | 235 |
 | 414 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 972 | 139 |
 | 414 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,089 | 52 |
 | 414 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 492 |
@@ -788,7 +788,7 @@
 | 780 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 492 |
 | 787 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 492 |
 | 787 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 441 |
-| 787 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,801 | 34 |
+| 787 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 9,879 | 34 |
 | 787 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 376 | 205 |
 | 787 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 492 |
 | 787 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 492 |
