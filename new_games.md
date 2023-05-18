@@ -161,4 +161,3 @@
 | [Lamoneo](games/l/lamoneo.md) | 2023-04-19 | 2022-05-25 |
 | [Curious Expedition](games/c/curious_expedition.md) | 2023-04-19 | 2016-09-02 |
 | [League Manager 2023](games/l/league_manager_2023.md) | 2023-04-19 | 2023-03-16 |
-| [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 2023-04-18 | 2023-04-18 |
