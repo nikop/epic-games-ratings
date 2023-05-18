@@ -15,6 +15,7 @@
 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 2023-05-19 | 2022-08-18 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
+| [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2023-05-23 | 2023-04-27 |
@@ -23,6 +24,7 @@
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
 | [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | 2023-05-25 |
+| [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | 2023-05-25 |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 2023-05-25 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 2023-05-25 |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 2023-05-31 |
@@ -193,6 +195,7 @@
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | 2024-12-31 |
 | [Dawn Apart](games/d/dawn_apart.md) | 2024-12-31 | 2024-12-31 |
 | [Dismay](games/d/dismay.md) | 2024-12-31 | 2024-12-31 |
+| [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | 2024-12-31 | 2024-12-31 |
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | 2024-12-31 |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | 2024-12-31 |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | 2024-12-31 |
@@ -242,7 +245,6 @@
 | [First Dwarf](games/f/first_dwarf.md) | 2099-01-01 | 2099-01-01 |
 | [FlipScapes](games/f/flipscapes.md) | 2099-01-01 | 2099-01-01 |
 | [Forgive Me Father 2](games/f/forgive_me_father_2.md) | 2099-01-01 | 2099-01-01 |
-| [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2099-01-01 | 2019-01-22 |
 | [Gastro Force](games/g/gastro_force.md) | 2099-01-01 | 2099-01-01 |
 | [Gematombe](games/g/gematombe.md) | 2099-01-01 | 2099-01-01 |
 | [Goldilock One - BOSS Arena](games/g/goldilock_one_-_boss_arena.md) | 2099-01-01 | 2099-01-01 |
@@ -250,7 +252,6 @@
 | [Gravity Circuit](games/g/gravity_circuit.md) | 2099-01-01 | 2099-01-01 |
 | [Guardians of Elderon](games/g/guardians_of_elderon.md) | 2099-01-01 | 2099-01-01 |
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2099-01-01 | 2099-01-01 |
-| [Hello Goodboy](games/h/hello_goodboy.md) | 2099-01-01 | 2099-01-01 |
 | [Highwater](games/h/highwater.md) | 2099-01-01 | 2099-01-01 |
 | [Hit and Boom](games/h/hit_and_boom.md) | 2099-01-01 | 2099-01-01 |
 | [Hold On](games/h/hold_on.md) | 2099-01-01 | 2099-01-01 |

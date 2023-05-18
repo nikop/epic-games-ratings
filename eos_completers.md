@@ -21,9 +21,9 @@
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
 | 23 | [Scorn](games/s/scorn.md) | 7.03% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.62% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -406,4 +406,4 @@
 | 199 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 199 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,630 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,631 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
