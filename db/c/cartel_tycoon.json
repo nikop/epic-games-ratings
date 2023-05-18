@@ -623,9 +623,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 242
     },
     {
       "ID": "play-at-night",
@@ -679,9 +679,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 192
     },
     {
       "ID": "unlock-residences",
@@ -719,8 +719,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-18T03:05:48.916964+00:00",
+  "LastChanged_Achievements": "2023-05-18T04:06:22.7006575+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.8903016+00:00",
-  "LastUpdate_Ratings": "2023-05-18T03:00:08.1215739+00:00",
-  "LastUpdate_Achievements": "2023-05-18T03:05:48.9169805+00:00"
+  "LastUpdate_Ratings": "2023-05-18T04:00:33.2146859+00:00",
+  "LastUpdate_Achievements": "2023-05-18T04:06:22.7006732+00:00"
 }

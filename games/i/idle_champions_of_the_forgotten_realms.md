@@ -454,6 +454,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.10% | ~54 |
 | REALLY Frozen Vengeance | 0.10% | ~54 |
 | The Battle of High Hall Tower | 0.10% | ~54 |
+| Might Makes Right | 0.10% | ~54 |
 | The Stunning Tower Battle | 0.10% | ~54 |
 | Elturel's Last Stand | 0.10% | ~54 |
 | Gargauth's Betrayal | 0.10% | ~54 |
@@ -498,9 +499,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~54 |
 | Quick or Quack | 0.10% | ~54 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
-| Might Makes Right | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,810 (Ranked 59)  
+Progressed: 87,813 (Ranked 59)  
 Completed: 1,849 (2.11%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 1,849 (2.11%) (Ranked 60)
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
 | 2023-05-17 | 87,802 | 1,849 |
-| 2023-05-18 | 87,810 | 1,849 |
+| 2023-05-18 | 87,813 | 1,849 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,908 (Ranked 37)  

@@ -2304,9 +2304,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28936,
+  "EOS_Progressed": 28947,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3369,
+  "EOS_NewPlayers": 3345,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4944,6 +4944,11 @@
       "Time": "2023-05-18T03:05:19.6593128+00:00",
       "NumProgressed": 28936,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T04:05:50.8442307+00:00",
+      "NumProgressed": 28947,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5081,9 +5086,9 @@
       "ID": "customize_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Optimized",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "cutting_edge_materials",
@@ -5121,17 +5126,17 @@
       "ID": "do_a_barrel_roll",
       "SetID": "3ib2d0i",
       "Name": "The Spins",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "empire_tier_2",
       "SetID": "3ib2d0i",
       "Name": "A Young Empire",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "empire_tier_3",
@@ -5145,9 +5150,9 @@
       "ID": "empire_tier_4",
       "SetID": "3ib2d0i",
       "Name": "Masters of Santo Ileso",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "empire_tier_5",
@@ -5249,9 +5254,9 @@
       "ID": "name_the_saints",
       "SetID": "3ib2d0i",
       "Name": "Making a Name",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "one_third_purple",
@@ -5378,13 +5383,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28936,
+      "Progressed": 28947,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 573,
+      "Progressed": 584,
       "Completed": 408
     }
   ],
@@ -5392,8 +5397,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-17T21:00:45.7395848+00:00",
-  "LastChanged_Achievements": "2023-05-18T03:05:19.6593121+00:00",
+  "LastChanged_Achievements": "2023-05-18T04:05:50.8442303+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T02:59:36.7602374+00:00",
-  "LastUpdate_Achievements": "2023-05-18T03:05:19.6593725+00:00"
+  "LastUpdate_Ratings": "2023-05-18T03:59:58.4692187+00:00",
+  "LastUpdate_Achievements": "2023-05-18T04:05:50.844294+00:00"
 }

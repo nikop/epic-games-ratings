@@ -832,9 +832,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656322,
+  "EOS_Progressed": 656324,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3142,6 +3142,11 @@
       "Time": "2023-05-18T03:05:21.2378231+00:00",
       "NumProgressed": 656322,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-18T04:05:52.3986664+00:00",
+      "NumProgressed": 656324,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3153,7 +3158,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472552
+      "UsersEstimate": 472553
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3161,7 +3166,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380667
+      "UsersEstimate": 380668
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3169,7 +3174,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150954
+      "UsersEstimate": 150955
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -3289,7 +3294,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150954
+      "UsersEstimate": 150955
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -3417,7 +3422,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164080
+      "UsersEstimate": 164081
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -3536,15 +3541,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656322,
+      "Progressed": 656324,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-02T19:57:19.4593666+00:00",
-  "LastChanged_Achievements": "2023-05-18T03:05:21.2378227+00:00",
+  "LastChanged_Achievements": "2023-05-18T04:05:52.3986659+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:30.4319872+00:00",
-  "LastUpdate_Ratings": "2023-05-18T02:57:28.3189994+00:00",
-  "LastUpdate_Achievements": "2023-05-18T03:05:21.2378707+00:00"
+  "LastUpdate_Ratings": "2023-05-18T03:57:35.6035457+00:00",
+  "LastUpdate_Achievements": "2023-05-18T04:05:52.3987197+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1835,
+  "EOS_Progressed": 1837,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -313,6 +313,11 @@
       "Time": "2023-05-17T20:06:22.8358404+00:00",
       "NumProgressed": 1835,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-18T04:06:06.2155613+00:00",
+      "NumProgressed": 1837,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -412,7 +417,7 @@
       "Name": "Transmission",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -420,14 +425,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1835,
+      "Progressed": 1837,
       "Completed": 4
     }
   ],
@@ -435,8 +440,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-18T03:05:33.8782862+00:00",
+  "LastChanged_Achievements": "2023-05-18T04:06:06.2155609+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:11.5899144+00:00",
-  "LastUpdate_Ratings": "2023-05-18T02:59:15.2224197+00:00",
-  "LastUpdate_Achievements": "2023-05-18T03:05:33.8782977+00:00"
+  "LastUpdate_Ratings": "2023-05-18T03:59:33.0879198+00:00",
+  "LastUpdate_Achievements": "2023-05-18T04:06:06.2155746+00:00"
 }

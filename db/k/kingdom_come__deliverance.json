@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -4662,9 +4662,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 781554,
+  "EOS_Progressed": 781555,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1042,
+  "EOS_NewPlayers": 1040,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7257,6 +7257,11 @@
       "Time": "2023-05-18T03:05:39.1842402+00:00",
       "NumProgressed": 781554,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-18T04:06:11.8648157+00:00",
+      "NumProgressed": 781555,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -7380,7 +7385,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 195388
+      "UsersEstimate": 195389
     },
     {
       "ID": "Chivalrous",
@@ -7428,7 +7433,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78155
+      "UsersEstimate": 78156
     },
     {
       "ID": "DavidHorak",
@@ -7468,7 +7473,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179757
+      "UsersEstimate": 179758
     },
     {
       "ID": "Fighter",
@@ -7876,7 +7881,7 @@
       "Name": "Traveller",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78155
+      "UsersEstimate": 78156
     },
     {
       "ID": "TrialAndError",
@@ -7923,15 +7928,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 781554,
+      "Progressed": 781555,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-05-17T15:58:27.9073002+00:00",
-  "LastChanged_Achievements": "2023-05-18T03:05:39.1842395+00:00",
+  "LastChanged_Achievements": "2023-05-18T04:06:11.8648152+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.3995489+00:00",
-  "LastUpdate_Ratings": "2023-05-18T02:58:17.9449632+00:00",
-  "LastUpdate_Achievements": "2023-05-18T03:05:39.1843474+00:00"
+  "LastUpdate_Ratings": "2023-05-18T03:58:27.8734498+00:00",
+  "LastUpdate_Achievements": "2023-05-18T04:06:11.8649228+00:00"
 }

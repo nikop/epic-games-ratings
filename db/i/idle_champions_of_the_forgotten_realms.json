@@ -3766,9 +3766,9 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87810,
+  "EOS_Progressed": 87813,
   "EOS_Completed": 1849,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6325,6 +6325,11 @@
     {
       "Time": "2023-05-18T03:06:01.5542602+00:00",
       "NumProgressed": 87810,
+      "NumCompleted": 1849
+    },
+    {
+      "Time": "2023-05-18T04:06:36.8137057+00:00",
+      "NumProgressed": 87813,
       "NumCompleted": 1849
     }
   ],
@@ -9927,9 +9932,9 @@
       "ID": "objective_completed_868",
       "SetID": "415jc5c",
       "Name": "Might Makes Right",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_869",
@@ -10280,21 +10285,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54084,
-      "Completed": 2529
+      "Progressed": 54087,
+      "Completed": 2530
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87810,
+      "Progressed": 87813,
       "Completed": 1849
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-18T01:57:51.299442+00:00",
-  "LastChanged_Achievements": "2023-05-18T03:06:01.5542596+00:00",
+  "LastChanged_Achievements": "2023-05-18T04:06:36.8137052+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-18T02:57:57.6244478+00:00",
-  "LastUpdate_Achievements": "2023-05-18T03:06:01.5568821+00:00"
+  "LastUpdate_Ratings": "2023-05-18T03:58:06.5968938+00:00",
+  "LastUpdate_Achievements": "2023-05-18T04:06:36.8165025+00:00"
 }

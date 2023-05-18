@@ -1,27 +1,27 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 795)  
+Rating: 4.23 (Ranked 796)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~314,700 |
-| Well educated | 37.00% | ~247,742 |
-| City Planner | 19.00% | ~127,219 |
-| Deforester | 16.00% | ~107,132 |
-| Big Hauling | 15.00% | ~100,436 |
-| Exporter | 13.00% | ~87,045 |
-| I would drive 500 tiles... | 12.00% | ~80,349 |
-| Apprentice Manufacturer | 12.00% | ~80,349 |
-| Landscaper | 11.00% | ~73,653 |
-| Railwayman | 7.00% | ~46,870 |
-| Penniless | 6.00% | ~40,174 |
-| Massive Gains | 6.00% | ~40,174 |
-| Engineer | 2.00% | ~13,391 |
-| Salesman | 2.00% | ~13,391 |
-| High Flyer | 2.00% | ~13,391 |
+| Entrepreneur | 47.00% | ~314,708 |
+| Well educated | 37.00% | ~247,749 |
+| City Planner | 19.00% | ~127,222 |
+| Deforester | 16.00% | ~107,135 |
+| Big Hauling | 15.00% | ~100,439 |
+| Exporter | 13.00% | ~87,047 |
+| I would drive 500 tiles... | 12.00% | ~80,351 |
+| Apprentice Manufacturer | 12.00% | ~80,351 |
+| Landscaper | 11.00% | ~73,655 |
+| Railwayman | 7.00% | ~46,871 |
+| Penniless | 6.00% | ~40,175 |
+| Massive Gains | 6.00% | ~40,175 |
+| Engineer | 2.00% | ~13,392 |
+| Salesman | 2.00% | ~13,392 |
+| High Flyer | 2.00% | ~13,392 |
 | Captain | 0.70% | ~4,687 |
-| Billionaire | 0.60% | ~4,017 |
+| Billionaire | 0.60% | ~4,018 |
 | Vroom Vroom | 0.40% | ~2,678 |
 | Excavator | 0.30% | ~2,009 |
 | Loan Ranger | 0.30% | ~2,009 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 795)
 | Master Builder | 0.10% | ~670 |
 | Hard working | 0.10% | ~670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669,574 (Ranked 17)  
+Progressed: 669,591 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 1 (0.00%) (Ranked 199)
 | 2023-05-15 | 668,254 | 1 |
 | 2023-05-16 | 668,875 | 1 |
 | 2023-05-17 | 669,494 | 1 |
-| 2023-05-18 | 669,574 | 1 |
+| 2023-05-18 | 669,591 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

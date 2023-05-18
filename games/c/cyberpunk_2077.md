@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~536,060 |
-| Right Back At Ya | 37.00% | ~296,033 |
-| The Lovers | 32.00% | ~256,029 |
-| Stanislavski's Method | 27.00% | ~216,024 |
-| The Wheel of Fortune | 25.00% | ~200,022 |
+| The Fool | 67.00% | ~536,062 |
+| Right Back At Ya | 37.00% | ~296,034 |
+| The Lovers | 32.00% | ~256,030 |
+| Stanislavski's Method | 27.00% | ~216,025 |
+| The Wheel of Fortune | 25.00% | ~200,023 |
 | The Hermit | 23.00% | ~184,021 |
 | Christmas Tree Attack | 22.00% | ~176,020 |
 | True Soldier | 22.00% | ~176,020 |
-| Legend of The Afterlife | 21.00% | ~168,019 |
-| The High Priestess | 20.00% | ~160,018 |
-| Life of the Road | 19.00% | ~152,017 |
-| Full Body Conversion | 17.00% | ~136,015 |
-| The World | 16.00% | ~128,014 |
+| Legend of The Afterlife | 21.00% | ~168,020 |
+| The High Priestess | 20.00% | ~160,019 |
+| Life of the Road | 19.00% | ~152,018 |
+| Full Body Conversion | 17.00% | ~136,016 |
+| The World | 16.00% | ~128,015 |
 | Bushido and Chill | 15.00% | ~120,014 |
 | Gun Fu | 14.00% | ~112,013 |
 | True Warrior | 14.00% | ~112,013 |
@@ -30,10 +30,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 9.00% | ~72,008 |
 | The Quick and the Dead | 9.00% | ~72,008 |
 | Ten out of Ten | 8.00% | ~64,007 |
-| Breathtaking | 7.00% | ~56,006 |
-| To Bad Decisions! | 6.00% | ~48,005 |
-| The Star | 6.00% | ~48,005 |
-| The Sun | 6.00% | ~48,005 |
+| Breathtaking | 7.00% | ~56,007 |
+| To Bad Decisions! | 6.00% | ~48,006 |
+| The Star | 6.00% | ~48,006 |
+| The Sun | 6.00% | ~48,006 |
 | Must Be Rats | 4.00% | ~32,004 |
 | Temperance | 4.00% | ~32,004 |
 | City Lights | 3.00% | ~24,003 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,001 |
 | Rough Landing | 0.40% | ~3,200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800,090 (Ranked 11)  
+Progressed: 800,093 (Ranked 11)  
 Completed: 1,600 (0.20%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1,600 (0.20%) (Ranked 139)
 | 2023-05-15 | 799,818 | 1,597 |
 | 2023-05-16 | 799,951 | 1,599 |
 | 2023-05-17 | 800,075 | 1,600 |
-| 2023-05-18 | 800,090 | 1,600 |
+| 2023-05-18 | 800,093 | 1,600 |
 ## Awards
 Max (Character Customization): 64,371  (Ranked 9)  
 Sum: 168,967 (Ranked 13)  

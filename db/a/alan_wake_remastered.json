@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46211,
+  "EOS_Progressed": 46213,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1746,6 +1746,11 @@
       "Time": "2023-05-18T03:05:27.858933+00:00",
       "NumProgressed": 46211,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-18T04:05:59.5546841+00:00",
+      "NumProgressed": 46213,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1757,7 +1762,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9242
+      "UsersEstimate": 9243
     },
     {
       "ID": "02",
@@ -1765,7 +1770,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6007
+      "UsersEstimate": 6008
     },
     {
       "ID": "03",
@@ -1773,7 +1778,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6007
+      "UsersEstimate": 6008
     },
     {
       "ID": "04",
@@ -1885,7 +1890,7 @@
       "Name": "Departure",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "18",
@@ -2292,21 +2297,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46211,
+      "Progressed": 46213,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9679,
+      "Progressed": 9681,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-18T03:05:27.8589321+00:00",
+  "LastChanged_Achievements": "2023-05-18T04:05:59.5546833+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-18T02:57:29.6430424+00:00",
-  "LastUpdate_Achievements": "2023-05-18T03:05:27.85902+00:00"
+  "LastUpdate_Ratings": "2023-05-18T03:57:37.2015788+00:00",
+  "LastUpdate_Achievements": "2023-05-18T04:05:59.5547578+00:00"
 }

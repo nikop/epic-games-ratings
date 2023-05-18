@@ -7,23 +7,25 @@ Number of Ratings: 22,103  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 0.50% | ~145 |
+| Optimized | 0.50% | ~145 |
+| Making a Name | 0.50% | ~145 |
 | To The Nines | 0.50% | ~145 |
 | The Side Job | 0.40% | ~116 |
 | Wet Work | 0.40% | ~116 |
 | Tune Up | 0.40% | ~116 |
-| Optimized | 0.40% | ~116 |
+| A Young Empire | 0.40% | ~116 |
 | Landlord | 0.40% | ~116 |
 | Performance Review | 0.40% | ~116 |
 | Wrecking Ball | 0.40% | ~116 |
-| Making a Name | 0.40% | ~116 |
 | Quality Time | 0.30% | ~87 |
 | Finders Keepers | 0.30% | ~87 |
-| A Young Empire | 0.30% | ~87 |
 | Power Players | 0.30% | ~87 |
 | Work Ethic | 0.30% | ~87 |
 | Picking Fights | 0.30% | ~87 |
 | Food for Thought | 0.30% | ~87 |
 | Showdown | 0.20% | ~58 |
+| The Spins | 0.20% | ~58 |
+| Masters of Santo Ileso | 0.20% | ~58 |
 | Kitted Out | 0.20% | ~58 |
 | Et tu? | 0.20% | ~58 |
 | Took It to The Limit | 0.20% | ~58 |
@@ -40,8 +42,6 @@ Number of Ratings: 22,103  (23.09.2022)
 | Chaos Tamer | 0.10% | ~29 |
 | Bonus Round | 0.10% | ~29 |
 | Untouchable | 0.10% | ~29 |
-| The Spins | 0.10% | ~29 |
-| Masters of Santo Ileso | 0.10% | ~29 |
 | A Golden Age | 0.10% | ~29 |
 | The Mechanic | 0.10% | ~29 |
 | Free Refills | 0.10% | ~29 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Face Off | 0.10% | ~1 |
 | Hazardous Heist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,936 (Ranked 85)  
+Progressed: 28,947 (Ranked 85)  
 Completed: 18 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 18 (0.06%) (Ranked 168)
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
-| 2023-05-18 | 28,936 | 18 |
+| 2023-05-18 | 28,947 | 18 |
 ## Awards
 Max (Extremely Fun): 1,028  (Ranked 133)  
 Sum: 8,329 (Ranked 88)  

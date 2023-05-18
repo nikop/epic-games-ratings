@@ -6,9 +6,9 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~63,259 |
-| Powergamer | 26.00% | ~58,740 |
-| Barely scratched the surface | 25.00% | ~56,481 |
+| I will finish what you started | 28.00% | ~63,260 |
+| Powergamer | 26.00% | ~58,741 |
+| Barely scratched the surface | 25.00% | ~56,482 |
 | Write that down | 24.00% | ~54,222 |
 | Guns, lots of guns | 12.00% | ~27,111 |
 | Collector | 11.00% | ~24,852 |
@@ -17,7 +17,7 @@ Number of Ratings: 33  (23.09.2022)
 | Wake up! | 8.00% | ~18,074 |
 | It's honest work | 7.00% | ~15,815 |
 | Griever | 7.00% | ~15,815 |
-| Me smart | 6.00% | ~13,555 |
+| Me smart | 6.00% | ~13,556 |
 | Good listener | 5.00% | ~11,296 |
 | Trash compactor | 5.00% | ~11,296 |
 | Valedictorian | 5.00% | ~11,296 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | I like to sniff around | 3.00% | ~6,778 |
 | Mind reader | 3.00% | ~6,778 |
 | So you like to read? | 3.00% | ~6,778 |
-| Gentleman's classic | 2.00% | ~4,518 |
-| Hoarder | 2.00% | ~4,518 |
-| Is that a rift? | 2.00% | ~4,518 |
-| It's alive! | 2.00% | ~4,518 |
-| Enjoy the beach | 2.00% | ~4,518 |
-| Rinse and repeat | 2.00% | ~4,518 |
-| Mama, I'm a criminal | 2.00% | ~4,518 |
-| Never gonna give you up | 2.00% | ~4,518 |
+| Gentleman's classic | 2.00% | ~4,519 |
+| Hoarder | 2.00% | ~4,519 |
+| Is that a rift? | 2.00% | ~4,519 |
+| It's alive! | 2.00% | ~4,519 |
+| Enjoy the beach | 2.00% | ~4,519 |
+| Rinse and repeat | 2.00% | ~4,519 |
+| Mama, I'm a criminal | 2.00% | ~4,519 |
+| Never gonna give you up | 2.00% | ~4,519 |
 | A muscle to rely on | 1.00% | ~2,259 |
 | Catnip | 1.00% | ~2,259 |
 | I am in great pain, please help me | 1.00% | ~2,259 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~452 |
 | Memory 5 | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,924 (Ranked 42)  
+Progressed: 225,927 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 5 (0.00%) (Ranked 199)
 | 2023-05-15 | 225,536 | 5 |
 | 2023-05-16 | 225,722 | 5 |
 | 2023-05-17 | 225,903 | 5 |
-| 2023-05-18 | 225,924 | 5 |
+| 2023-05-18 | 225,927 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 357)  
 Sum: 73 (Ranked 416)  
