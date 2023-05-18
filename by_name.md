@@ -724,7 +724,7 @@
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.65 | 292 | 45 | 401 |
 | [Expeditions: Viking](games/e/expeditions__viking.md) | - | - | 0 | - |
 | [Eyes in the Dark](games/e/eyes_in_the_dark.md) | - | - | 0 | - |
-| [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 448 | 751 | 150 |
+| [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 448 | 753 | 149 |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | - | - | - |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | - | - | - | - |
 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 399 | 242 | 241 |
@@ -764,7 +764,7 @@
 | [Farm Day 2023](games/f/farm_day_2023.md) | - | - | 0 | - |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 820 | 0 | 492 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 177 | 6,287 | 50 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,213 | 70 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,218 | 70 |
 | [Fashion Police Squad](games/f/fashion_police_squad.md) | - | - | 0 | - |
 | [Fata Deum](games/f/fata_deum.md) | - | - | - | - |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 902 | 103 | 320 |
@@ -1121,7 +1121,7 @@
 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 502 | 147 | 286 |
 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 191 | 1,296 | 119 |
 | [KenShape](games/k/kenshape.md) | - | - | 0 | - |
-| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 90 | 534 | 177 |
+| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 90 | 534 | 178 |
 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 858 | 0 | 492 |
 | [KeyWe](games/k/keywe.md) | - | - | 0 | - |
 | [Kholat](games/k/kholat.md) | - | - | 0 | - |
@@ -1310,7 +1310,7 @@
 | [Metalstorm](games/m/metalstorm.md) | - | - | - | - |
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | - | - | - | - |
 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 213 | 1,174 | 124 |
-| [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 90 | 5,841 | 55 |
+| [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 90 | 5,844 | 55 |
 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 191 | 1,822 | 106 |
 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | - | - | 0 | - |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | - | - | - | - |
@@ -2342,8 +2342,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 604 | 0 | 492 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | 0 | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 257 | 0 | 492 |
@@ -2355,7 +2355,7 @@
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | - | - | - | - |
 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 882 | 0 | 492 |
 | [Train Sim World](games/t/train_sim_world.md) | - | - | - | - |
-| [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 655 | 534 | 177 |
+| [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 655 | 535 | 177 |
 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 478 | 278 | 227 |
 | [Train Valley](games/t/train_valley.md) | 4.47 | 582 | 0 | 492 |
 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 842 | 71 | 363 |

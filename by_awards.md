@@ -54,7 +54,7 @@
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,089 | 4.58 | 414 |
 | 53 | [Sifu](games/s/sifu.md) | 6,074 | 4.82 | 59 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,926 | 4.64 | 312 |
-| 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,841 | 4.79 | 90 |
+| 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,844 | 4.79 | 90 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,768 | 4.66 | 274 |
 | 57 | [Prey](games/p/prey.md) | 5,544 | 4.62 | 341 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,487 | 4.82 | 59 |
@@ -69,7 +69,7 @@
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,526 | 4.70 | 191 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,461 | 4.65 | 292 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,282 | 4.70 | 191 |
-| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,213 | 4.70 | 191 |
+| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,218 | 4.70 | 191 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,088 | 4.51 | 516 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,082 | 4.61 | 356 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,987 | 4.89 | 12 |
@@ -148,8 +148,8 @@
 | 146 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 773 | 4.69 | 213 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 771 | 4.74 | 140 |
 | 148 | [The Long Dark](games/t/the_long_dark.md) | 755 | 4.74 | 140 |
+| 149 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 753 | 4.56 | 448 |
 | 149 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 753 | 4.50 | 531 |
-| 150 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 751 | 4.56 | 448 |
 | 151 | [Auto Chess](games/a/auto_chess.md) | 738 | 4.52 | 502 |
 | 152 | [Core](games/c/core.md) | 730 | 4.37 | 702 |
 | 153 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 721 | 4.79 | 90 |
@@ -176,8 +176,8 @@
 | 174 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 548 | 4.66 | 274 |
 | 175 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 546 | 4.39 | 683 |
 | 175 | [Vampyr](games/v/vampyr.md) | 546 | 4.32 | 742 |
-| 177 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 534 | 4.79 | 90 |
-| 177 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 534 | 4.41 | 655 |
+| 177 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 535 | 4.41 | 655 |
+| 178 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 534 | 4.79 | 90 |
 | 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 533 | 4.74 | 140 |
 | 179 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 533 | 4.62 | 341 |
 | 181 | [Star Trek Online](games/s/star_trek_online.md) | 529 | 4.45 | 604 |

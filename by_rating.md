@@ -91,10 +91,10 @@
 | 78 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 492 |
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,443 | 116 |
 | 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 492 |
-| 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 534 | 177 |
+| 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 534 | 178 |
 | 90 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 721 | 153 |
 | 90 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,014 | 135 |
-| 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,841 | 55 |
+| 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,844 | 55 |
 | 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 207 |
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 117 | 306 |
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 492 |
@@ -194,7 +194,7 @@
 | 191 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,526 | 67 |
 | 191 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 492 |
 | 191 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 341 | 213 |
-| 191 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,213 | 70 |
+| 191 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,218 | 70 |
 | 191 | [For The King](games/f/for_the_king.md) | 4.70 | 364 | 209 |
 | 191 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 492 |
 | 191 | [House Flipper](games/h/house_flipper.md) | 4.70 | 286 | 226 |
@@ -452,7 +452,7 @@
 | 448 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 0 | 492 |
 | 448 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 388 |
 | 448 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 492 |
-| 448 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 751 | 150 |
+| 448 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 753 | 149 |
 | 448 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 492 |
 | 448 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 135 | 291 |
 | 448 | [Isonzo](games/i/isonzo.md) | 4.56 | 30 | 445 |
@@ -667,7 +667,7 @@
 | 655 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 73 | 357 |
 | 655 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,163 | 100 |
 | 655 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 360 |
-| 655 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 534 | 177 |
+| 655 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 535 | 177 |
 | 655 | [Warpips](games/w/warpips.md) | 4.41 | 22 | 474 |
 | 670 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 492 |
 | 670 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
