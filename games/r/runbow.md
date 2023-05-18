@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 594)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~128,877 |
-| My First Runbow | 51.00% | ~124,014 |
+| In The Zone | 53.00% | ~128,879 |
+| My First Runbow | 51.00% | ~124,015 |
 | It's The Fall | 26.00% | ~63,223 |
 | The Stunner | 21.00% | ~51,065 |
 | Be Aggressive | 20.00% | ~48,633 |
 | Curator | 20.00% | ~48,633 |
 | Crowning Around | 18.00% | ~43,770 |
 | Can You Dig It? | 17.00% | ~41,338 |
-| You Juan-A-Go? | 16.00% | ~38,906 |
+| You Juan-A-Go? | 16.00% | ~38,907 |
 | Chan-tastic | 15.00% | ~36,475 |
 | Muddy Waters | 14.00% | ~34,043 |
-| Toasty! | 13.00% | ~31,611 |
+| Toasty! | 13.00% | ~31,612 |
 | Lazy Laser | 8.00% | ~19,453 |
 | Into The Drift | 7.00% | ~17,022 |
 | Ready? Fight! | 7.00% | ~17,022 |
@@ -28,13 +28,13 @@ Rating: 4.46 (Ranked 594)
 | Blotbuster | 2.00% | ~4,863 |
 | Just A Bit | 1.00% | ~2,432 |
 | Thunderstruck | 1.00% | ~2,432 |
-| Tubular, Dude | 0.90% | ~2,188 |
-| What A Trip | 0.90% | ~2,188 |
+| Tubular, Dude | 0.90% | ~2,189 |
+| What A Trip | 0.90% | ~2,189 |
 | Please The King | 0.80% | ~1,945 |
 | Here We Go! | 0.70% | ~1,702 |
 | Clear-Cut | 0.50% | ~1,216 |
-| Breaking Out | 0.30% | ~729 |
-| Disposable | 0.30% | ~729 |
+| Breaking Out | 0.30% | ~730 |
+| Disposable | 0.30% | ~730 |
 | A Winner Is You | 0.20% | ~486 |
 | Final Nightmare | 0.20% | ~486 |
 | I'm Here All Night | 0.20% | ~486 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 594)
 | Talent Scout | 0.10% | ~243 |
 | True Completionist | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,165 (Ranked 40)  
+Progressed: 243,167 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 2 (0.00%) (Ranked 199)
 | 2023-05-15 | 243,071 | 2 |
 | 2023-05-16 | 243,111 | 2 |
 | 2023-05-17 | 243,159 | 2 |
-| 2023-05-18 | 243,165 | 2 |
+| 2023-05-18 | 243,167 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,051 |
-| The One Who Mastered Memories | 6.00% | ~16,051 |
-| The Hallowed Hero | 6.00% | ~16,051 |
-| The Hero of Hogwarts | 6.00% | ~16,051 |
-| Coasting Along | 6.00% | ~16,051 |
+| Grappling with a Graphorn | 6.00% | ~16,052 |
+| The One Who Mastered Memories | 6.00% | ~16,052 |
+| The Hallowed Hero | 6.00% | ~16,052 |
+| The Hero of Hogwarts | 6.00% | ~16,052 |
+| Coasting Along | 6.00% | ~16,052 |
 | The Sort Who Makes an Entrance | 5.00% | ~13,376 |
 | The Defender of Dragons | 5.00% | ~13,376 |
 | A Sallow Grave | 5.00% | ~13,376 |
@@ -32,11 +32,11 @@ Rating: 4.77 (Ranked 103)
 | Room with a View | 3.00% | ~8,026 |
 | The Ends Petrify the Means | 3.00% | ~8,026 |
 | Raising Expectations | 3.00% | ~8,026 |
-| The Toast of the Town | 2.00% | ~5,350 |
-| Going Through the Potions | 2.00% | ~5,350 |
-| Floo Around the World | 2.00% | ~5,350 |
-| The Intrepid Explorer | 2.00% | ~5,350 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,350 |
+| The Toast of the Town | 2.00% | ~5,351 |
+| Going Through the Potions | 2.00% | ~5,351 |
+| Floo Around the World | 2.00% | ~5,351 |
+| The Intrepid Explorer | 2.00% | ~5,351 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,351 |
 | The Good Samaritan | 1.00% | ~2,675 |
 | Put Down Roots | 1.00% | ~2,675 |
 | The Auror's Apprentice | 1.00% | ~2,675 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 103)
 | The Nature of the Beast | 0.40% | ~1,070 |
 | Collector's Edition | 0.20% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,522 (Ranked 38)  
+Progressed: 267,526 (Ranked 38)  
 Completed: 363 (0.14%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 363 (0.14%) (Ranked 149)
 | 2023-05-15 | 267,261 | 362 |
 | 2023-05-16 | 267,382 | 362 |
 | 2023-05-17 | 267,506 | 363 |
-| 2023-05-18 | 267,522 | 363 |
+| 2023-05-18 | 267,526 | 363 |
 ## Awards
 Max (Character Customization): 18,846  (Ranked 18)  
 Sum: 34,616 (Ranked 33)  

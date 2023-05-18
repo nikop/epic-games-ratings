@@ -8,21 +8,21 @@
 | A bottomless pit | 117.00% | ~7 |
 | A path of no return | 117.00% | ~7 |
 | Baited | 83.00% | ~5 |
-| Splash! | 67.00% | ~4 |
+| Splash! | 83.00% | ~5 |
+| "Swoosh" | 67.00% | ~4 |
+| The light at the end of the tunnel | 67.00% | ~4 |
+| Soft skin | 67.00% | ~4 |
 | Hard Rock | 67.00% | ~4 |
-| "Swoosh" | 50.00% | ~3 |
-| The light at the end of the tunnel | 50.00% | ~3 |
-| Soft skin | 50.00% | ~3 |
-| Sensitive soul | 50.00% | ~3 |
+| Sensitive soul | 67.00% | ~4 |
+| Squid game | 33.00% | ~2 |
+| Masochistic | 33.00% | ~2 |
 | Magnitude 5 | 33.00% | ~2 |
-| Squid game | 17.00% | ~1 |
-| Masochistic | 17.00% | ~1 |
+| Rock Solid | 17.00% | ~1 |
 | Rooftop | 17.00% | ~1 |
 | MayDay! MayDay! | 17.00% | ~1 |
 | Full power | 0.00% | ~0 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
-| Rock Solid | 0.00% | ~0 |
 | "Ah sh*t... Here we go again!" | 0.00% | ~0 |
 | Compulsive hoarder | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |

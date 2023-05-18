@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7650,
+  "EOS_Progressed": 7651,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-05-17T23:06:24.6439389+00:00",
       "NumProgressed": 7650,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-18T05:06:28.5693169+00:00",
+      "NumProgressed": 7651,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1545,7 +1550,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6120
+      "UsersEstimate": 6121
     },
     {
       "ID": "ACH02",
@@ -1577,7 +1582,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH06",
@@ -1593,7 +1598,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ACH08",
@@ -1617,7 +1622,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH11",
@@ -1633,7 +1638,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH13",
@@ -1649,7 +1654,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH15",
@@ -1681,7 +1686,7 @@
       "Name": "Saviour",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH19",
@@ -1713,7 +1718,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH23",
@@ -1753,7 +1758,7 @@
       "Name": "Assassin",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH28",
@@ -1793,7 +1798,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH33",
@@ -1824,7 +1829,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7650,
+      "Progressed": 7651,
       "Completed": 16
     }
   ],
@@ -1832,8 +1837,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-18T04:06:29.8010252+00:00",
+  "LastChanged_Achievements": "2023-05-18T05:06:28.5693165+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:00:42.8859892+00:00",
-  "LastUpdate_Achievements": "2023-05-18T04:06:29.8010589+00:00"
+  "LastUpdate_Ratings": "2023-05-18T05:00:28.1545041+00:00",
+  "LastUpdate_Achievements": "2023-05-18T05:06:28.5693443+00:00"
 }

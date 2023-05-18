@@ -2020,9 +2020,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 16412,
+  "EOS_Progressed": 16413,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -4575,6 +4575,11 @@
       "Time": "2023-05-18T04:03:15.2542794+00:00",
       "NumProgressed": 16412,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-05-18T05:03:10.4695657+00:00",
+      "NumProgressed": 16413,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 60,
@@ -4584,9 +4589,9 @@
       "ID": "ACH_D3_Campaign_Cathedral_1",
       "SetID": "cda475f",
       "Name": "The Evilest Evil",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 9683
+      "UsersEstimate": 9848
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -4602,7 +4607,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 9683
+      "UsersEstimate": 9684
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -4650,7 +4655,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -4674,7 +4679,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 5908
+      "UsersEstimate": 5909
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -4698,7 +4703,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8370
+      "UsersEstimate": 8371
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -4786,7 +4791,7 @@
       "Name": "Night of the Living Dead (on Speed)",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACH_D3_Campaign_Graves_Completed",
@@ -4794,7 +4799,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 7385
+      "UsersEstimate": 7386
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -4818,7 +4823,7 @@
       "Name": "Rusty Steel",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 7057
+      "UsersEstimate": 7058
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -4826,7 +4831,7 @@
       "Name": "Thirst quencher",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4759
+      "UsersEstimate": 4760
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -4842,7 +4847,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4759
+      "UsersEstimate": 4760
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -4858,7 +4863,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -4866,7 +4871,7 @@
       "Name": "Destroy the thing",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4595
+      "UsersEstimate": 4596
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -4874,7 +4879,7 @@
       "Name": "I need a hero!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACH_D3_Campaign_Pain_2",
@@ -4962,7 +4967,7 @@
       "Name": "Damned good",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -4978,7 +4983,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4759
+      "UsersEstimate": 4760
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -4986,7 +4991,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 11488
+      "UsersEstimate": 11489
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -5058,22 +5063,22 @@
       "Name": "Tide Master",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4595
+      "UsersEstimate": 4596
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 16412,
+      "Progressed": 16413,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-18T01:59:01.7042991+00:00",
-  "LastChanged_Achievements": "2023-05-18T04:03:15.2542789+00:00",
+  "LastChanged_Achievements": "2023-05-18T05:03:10.4695647+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:03.2080094+00:00",
-  "LastUpdate_Ratings": "2023-05-18T03:59:23.4680327+00:00",
-  "LastUpdate_Achievements": "2023-05-18T04:03:15.2543484+00:00"
+  "LastUpdate_Ratings": "2023-05-18T04:59:16.2800927+00:00",
+  "LastUpdate_Achievements": "2023-05-18T05:03:10.4696328+00:00"
 }

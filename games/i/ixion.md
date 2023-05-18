@@ -21,38 +21,38 @@ Rating: 4.55 (Ranked 466)
 | Hope Seeker | 1.00% | ~19 |
 | A Hunk of Junk | 0.80% | ~15 |
 | Exceeding Capacity | 0.80% | ~15 |
-| Power Outage | 0.70% | ~13 |
+| Power Outage | 0.80% | ~15 |
 | Convenient Transport | 0.70% | ~13 |
 | Please Make it Stop! | 0.70% | ~13 |
 | Sightseeing | 0.60% | ~11 |
 | Access Granted | 0.60% | ~11 |
 | Necessary Enhancement | 0.60% | ~11 |
 | BRAWL! | 0.50% | ~10 |
+| From the Past | 0.50% | ~10 |
 | Man's Best Friend | 0.40% | ~8 |
 | ...  in a finite world | 0.40% | ~8 |
 | In Dolos We Trust | 0.40% | ~8 |
 | All in Good Health | 0.40% | ~8 |
-| From the Past | 0.40% | ~8 |
 | Pulsar Disciple | 0.40% | ~8 |
+| Oats | 0.30% | ~6 |
 | What They Hide From Us | 0.30% | ~6 |
 | Praise the Hull! | 0.30% | ~6 |
 | Delivery! | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |
 | What the Ruins Teach Us | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
-| Oats | 0.20% | ~4 |
 | Sustainable Energy | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
 | You Had One Job... | 0.20% | ~4 |
 | Space Greenhouse | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
+| Help of the Forgotten Member | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
 | Tiqqun Contender | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Work Harder | 0.10% | ~2 |
 | Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
-| Help of the Forgotten Member | 0.10% | ~2 |
 | I Give You the Stars | 0.10% | ~0 |
 | Beyond Time and Space | 0.00% | ~0 |
 | Remember the Dead | 0.00% | ~0 |

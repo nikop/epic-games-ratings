@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~782 |
 | Wingman | 0.10% | ~782 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,555 (Ranked 12)  
+Progressed: 781,556 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,15 +117,15 @@ Completed: 39 (0.00%) (Ranked 199)
 | 2023-05-15 | 781,296 | 39 |
 | 2023-05-16 | 781,415 | 39 |
 | 2023-05-17 | 781,542 | 39 |
-| 2023-05-18 | 781,555 | 39 |
+| 2023-05-18 | 781,556 | 39 |
 ## Awards
 Max (Character Customization): 7,171  (Ranked 43)  
-Sum: 26,824 (Ranked 42)  
+Sum: 26,828 (Ranked 42)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,171 |
-| This game has Great Boss Battles | 5,280 |
+| This game has Great Boss Battles | 5,283 |
 | This game has Challenging Combat | 1,678 |
 | This game has Amazing Storytelling | 1,648 |
 | This game is Extremely Fun | 1,623 |
@@ -133,7 +133,7 @@ Diff (max vs sum): 1
 | This game is Highly Recommended | 1,608 |
 | This game has Amazing Characters | 1,601 |
 | This game has Realistic Visuals | 1,581 |
-| This game is Educational | 1,535 |
+| This game is Educational | 1,536 |
 | This game is Relaxing | 1,479 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -252,3 +252,4 @@ Diff (max vs sum): 1
 | 2023-05-15 | 4.71 | - | 7,161 | 26,805 |
 | 2023-05-16 | 4.71 | - | 7,168 | 26,820 |
 | 2023-05-17 | 4.71 | - | 7,171 | 26,824 |
+| 2023-05-18 | 4.71 | - | 7,171 | 26,828 |

@@ -6,9 +6,9 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,547 |
-| Sweet Sorrow | 19.00% | ~5,566 |
-| Rules the Waves | 17.00% | ~4,980 |
+| Sink Beneath the Waves | 36.00% | ~10,548 |
+| Sweet Sorrow | 19.00% | ~5,567 |
+| Rules the Waves | 17.00% | ~4,981 |
 | Thou, All-Shaking Thunder | 16.00% | ~4,688 |
 | Rival | 14.00% | ~4,102 |
 | Correspondent | 12.00% | ~3,516 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~29 |
 | Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,297 (Ranked 84)  
+Progressed: 29,300 (Ranked 84)  
 Completed: 3 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,11 +89,11 @@ Completed: 3 (0.01%) (Ranked 191)
 | 2023-05-15 | 29,151 | 3 |
 | 2023-05-16 | 29,219 | 3 |
 | 2023-05-17 | 29,289 | 3 |
-| 2023-05-18 | 29,297 | 3 |
+| 2023-05-18 | 29,300 | 3 |
 ## Awards
-Max (Character Customization): 208  (Ranked 255)  
+Max (Character Customization): 208  (Ranked 256)  
 Sum: 277 (Ranked 329)  
-Diff (max vs sum): -74  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 208 |

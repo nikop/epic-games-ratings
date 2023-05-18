@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2304,9 +2304,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28947,
+  "EOS_Progressed": 28960,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3345,
+  "EOS_NewPlayers": 3336,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4949,6 +4949,11 @@
       "Time": "2023-05-18T04:05:50.8442307+00:00",
       "NumProgressed": 28947,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T05:05:52.7335153+00:00",
+      "NumProgressed": 28960,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5006,9 +5011,9 @@
       "ID": "collect_low_amount_hero_props",
       "SetID": "3ib2d0i",
       "Name": "Finders Keepers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "complet_epilogue_mission",
@@ -5054,9 +5059,9 @@
       "ID": "complete_first_side_hustle",
       "SetID": "3ib2d0i",
       "Name": "The Side Job",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -5070,17 +5075,17 @@
       "ID": "complete_mission_1",
       "SetID": "3ib2d0i",
       "Name": "First F#@!ing Day",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "customize_a_vehicle",
       "SetID": "3ib2d0i",
       "Name": "Tune Up",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "customize_a_weapon",
@@ -5174,17 +5179,17 @@
       "ID": "fully_complete_a_building",
       "SetID": "3ib2d0i",
       "Name": "Work Ethic",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "fully_upgrade_1_vehicle",
       "SetID": "3ib2d0i",
       "Name": "The Mechanic",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -5206,9 +5211,9 @@
       "ID": "get_fired",
       "SetID": "3ib2d0i",
       "Name": "Performance Review",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "hit_max_level",
@@ -5310,9 +5315,9 @@
       "ID": "staggered_by_vending_machine",
       "SetID": "3ib2d0i",
       "Name": "Food for Thought",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "two_thirds_purple",
@@ -5358,7 +5363,7 @@
       "ID": "bfhj_complete_mission_1_collectible",
       "SetID": "5gi7jl2",
       "Name": "Producer Credit",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -5383,22 +5388,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28947,
+      "Progressed": 28960,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 584,
-      "Completed": 408
+      "Progressed": 597,
+      "Completed": 409
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-17T21:00:45.7395848+00:00",
-  "LastChanged_Achievements": "2023-05-18T04:05:50.8442303+00:00",
+  "LastChanged_Achievements": "2023-05-18T05:05:52.7335149+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T03:59:58.4692187+00:00",
-  "LastUpdate_Achievements": "2023-05-18T04:05:50.844294+00:00"
+  "LastUpdate_Ratings": "2023-05-18T04:59:47.9982705+00:00",
+  "LastUpdate_Achievements": "2023-05-18T05:05:52.7335776+00:00"
 }
