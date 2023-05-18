@@ -5,11 +5,12 @@ Rating: 4.40 (Ranked 670)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Long Game | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
 | Opposing Force | 0.10% | ~1 |
 | Strategist | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
-| The Long Game | 0.10% | ~1 |
+| Skirmisher | 0.10% | ~1 |
 | Precision Is Key | 0.10% | ~1 |
 | Confirming Suspicions | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
@@ -36,7 +37,6 @@ Rating: 4.40 (Ranked 670)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Skirmisher | 0.00% | ~0 |
 | Sharpshooter | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 670)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730 (Ranked 176)  
+Progressed: 731 (Ranked 176)  
 Completed: 2 (0.27%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.27%) (Ranked 129)
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
-| 2023-05-18 | 730 | 2 |
+| 2023-05-18 | 731 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

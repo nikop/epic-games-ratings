@@ -4,7 +4,7 @@
   "ProductSlug": "remains-dcb937",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 26,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 11.54,
   "EosHistory": [
@@ -205,9 +205,9 @@
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 58,
+      "Percentage": 65,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_Welcome",
@@ -228,8 +228,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-05-18T11:05:38.2785811+00:00",
+  "LastChanged_Achievements": "2023-05-18T12:06:01.7325637+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:09.4784604+00:00",
-  "LastUpdate_Ratings": "2023-05-18T10:58:16.6162442+00:00",
-  "LastUpdate_Achievements": "2023-05-18T11:05:38.2785935+00:00"
+  "LastUpdate_Ratings": "2023-05-18T11:58:33.0652758+00:00",
+  "LastUpdate_Achievements": "2023-05-18T12:06:01.7325737+00:00"
 }

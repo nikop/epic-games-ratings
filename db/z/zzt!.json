@@ -3,9 +3,9 @@
   "Name": "ZZT!",
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 139,
-  "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2465,
-  "EOS_Completed": 73,
-  "EOS_NewPlayers": 81,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 2.96,
+  "EOS_Progressed": 2466,
+  "EOS_Completed": 74,
+  "EOS_NewPlayers": 80,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -1346,6 +1346,11 @@
       "Time": "2023-05-18T00:05:17.6540854+00:00",
       "NumProgressed": 2465,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-05-18T12:06:13.7601028+00:00",
+      "NumProgressed": 2466,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 5,
@@ -1357,7 +1362,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "2",
@@ -1396,16 +1401,16 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2465,
-      "Completed": 73
+      "Progressed": 2466,
+      "Completed": 74
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-18T11:05:49.0292212+00:00",
+  "LastChanged_Achievements": "2023-05-18T12:06:13.7601024+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:15.7920183+00:00",
-  "LastUpdate_Ratings": "2023-05-18T10:58:22.2491548+00:00",
-  "LastUpdate_Achievements": "2023-05-18T11:05:49.029246+00:00"
+  "LastUpdate_Ratings": "2023-05-18T11:58:39.7804637+00:00",
+  "LastUpdate_Achievements": "2023-05-18T12:06:13.7601184+00:00"
 }

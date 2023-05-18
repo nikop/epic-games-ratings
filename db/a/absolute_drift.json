@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,10 +430,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516952,
-  "EOS_Completed": 606,
+  "EOS_Progressed": 1516958,
+  "EOS_Completed": 607,
   "EOS_NewPlayers": 1321,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -3115,6 +3115,11 @@
       "Time": "2023-05-18T11:02:15.8092098+00:00",
       "NumProgressed": 1516952,
       "NumCompleted": 606
+    },
+    {
+      "Time": "2023-05-18T12:02:12.8085707+00:00",
+      "NumProgressed": 1516958,
+      "NumCompleted": 607
     }
   ],
   "TotalAchievements": 20,
@@ -3222,7 +3227,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151695
+      "UsersEstimate": 151696
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -3238,7 +3243,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121356
+      "UsersEstimate": 121357
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -3285,15 +3290,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1516952,
-      "Completed": 606
+      "Progressed": 1516958,
+      "Completed": 607
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-18T11:02:15.809209+00:00",
+  "LastChanged_Achievements": "2023-05-18T12:02:12.8085701+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:00.7394244+00:00",
-  "LastUpdate_Ratings": "2023-05-18T11:00:19.6206187+00:00",
-  "LastUpdate_Achievements": "2023-05-18T11:02:15.8092608+00:00"
+  "LastUpdate_Ratings": "2023-05-18T12:00:53.2551988+00:00",
+  "LastUpdate_Achievements": "2023-05-18T12:02:12.8086576+00:00"
 }

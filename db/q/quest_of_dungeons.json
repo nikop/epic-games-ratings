@@ -4,7 +4,7 @@
   "ProductSlug": "quest-of-dungeons-3064d5",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-23T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -62,6 +62,11 @@
     {
       "Time": "2023-05-17T03:06:01.6323663+00:00",
       "NumProgressed": 42,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T12:06:51.6388461+00:00",
+      "NumProgressed": 43,
       "NumCompleted": 0
     }
   ],
@@ -273,7 +278,7 @@
     {
       "ID": "18i0ipj",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 0
     }
   ],
@@ -281,8 +286,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.3767866+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.5363654+00:00",
   "LastChanged": "2023-03-31T05:58:05.3767867+00:00",
-  "LastChanged_Achievements": "2023-05-18T11:06:23.0930571+00:00",
+  "LastChanged_Achievements": "2023-05-18T12:06:51.6388453+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:25.2260722+00:00",
-  "LastUpdate_Ratings": "2023-05-18T11:00:49.5441039+00:00",
-  "LastUpdate_Achievements": "2023-05-18T11:06:23.0930869+00:00"
+  "LastUpdate_Ratings": "2023-05-18T12:01:30.1493543+00:00",
+  "LastUpdate_Achievements": "2023-05-18T12:06:51.6388766+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 6182,
+  "EOS_Progressed": 6184,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1515,6 +1515,11 @@
       "Time": "2023-05-18T09:05:51.2451214+00:00",
       "NumProgressed": 6182,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-18T12:06:14.2073366+00:00",
+      "NumProgressed": 6184,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1542,7 +1547,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH04",
@@ -1574,7 +1579,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH08",
@@ -1630,7 +1635,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "ACH15",
@@ -1670,7 +1675,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH20",
@@ -1686,7 +1691,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACH22",
@@ -1797,7 +1802,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6182,
+      "Progressed": 6184,
       "Completed": 22
     }
   ],
@@ -1805,8 +1810,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-17T13:04:15.6274807+00:00",
-  "LastChanged_Achievements": "2023-05-18T11:05:49.401956+00:00",
+  "LastChanged_Achievements": "2023-05-18T12:06:14.207336+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-18T10:58:19.4439226+00:00",
-  "LastUpdate_Achievements": "2023-05-18T11:05:49.4020098+00:00"
+  "LastUpdate_Ratings": "2023-05-18T11:58:36.6434066+00:00",
+  "LastUpdate_Achievements": "2023-05-18T12:06:14.2073901+00:00"
 }

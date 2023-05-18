@@ -6,20 +6,20 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,776 |
-| Leader | 61.00% | ~3,291 |
-| Explorer | 53.00% | ~2,859 |
-| Healer | 53.00% | ~2,859 |
+| First Step | 70.00% | ~3,777 |
+| Leader | 61.00% | ~3,292 |
+| Explorer | 53.00% | ~2,860 |
+| Healer | 53.00% | ~2,860 |
 | Aspiring Inventor | 45.00% | ~2,428 |
 | Adventurer | 41.00% | ~2,212 |
 | Famous Healer | 38.00% | ~2,050 |
-| Local Leader | 35.00% | ~1,888 |
-| New Opportunities | 34.00% | ~1,834 |
-| Famous Explorer | 33.00% | ~1,780 |
-| Energized | 33.00% | ~1,780 |
-| The Long Haul | 33.00% | ~1,780 |
-| Survivor | 31.00% | ~1,672 |
-| The Great Healer | 30.00% | ~1,618 |
+| Local Leader | 35.00% | ~1,889 |
+| New Opportunities | 34.00% | ~1,835 |
+| Famous Explorer | 33.00% | ~1,781 |
+| Energized | 33.00% | ~1,781 |
+| The Long Haul | 33.00% | ~1,781 |
+| Survivor | 31.00% | ~1,673 |
+| The Great Healer | 30.00% | ~1,619 |
 | Cleaner | 28.00% | ~1,511 |
 | Catastrofan | 28.00% | ~1,511 |
 | Legendary Explorer | 27.00% | ~1,457 |
@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 14.00% | ~755 |
 | Famous Adventurer | 13.00% | ~701 |
 | Prepared for Anything | 13.00% | ~701 |
-| Big Catastrofan | 12.00% | ~647 |
+| Big Catastrofan | 12.00% | ~648 |
 | It's a Finnish Thing | 10.00% | ~540 |
 | Sky Burial | 9.00% | ~486 |
 | Trader | 8.00% | ~432 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,395 (Ranked 120)  
+Progressed: 5,396 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 5,326 | 0 |
 | 2023-05-16 | 5,356 | 0 |
 | 2023-05-17 | 5,386 | 0 |
-| 2023-05-18 | 5,395 | 0 |
+| 2023-05-18 | 5,396 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 269)  

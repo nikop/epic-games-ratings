@@ -5,23 +5,23 @@ Rating: 3.50 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 80.00% | ~1,250 |
-| Home Is Where the Heart Is | 63.00% | ~985 |
-| Wounded Whispers | 63.00% | ~985 |
-| Ne Plus Ultra | 62.00% | ~969 |
-| Blood Will Have Blood | 51.00% | ~797 |
-| ICU | 47.00% | ~735 |
-| Catch and Release | 46.00% | ~719 |
-| Peek-a-boo | 45.00% | ~703 |
-| Sucks To Be You | 44.00% | ~688 |
+| I Like My Stakes Rare! | 80.00% | ~1,252 |
+| Home Is Where the Heart Is | 63.00% | ~986 |
+| Wounded Whispers | 63.00% | ~986 |
+| Ne Plus Ultra | 62.00% | ~970 |
+| Blood Will Have Blood | 51.00% | ~798 |
+| ICU | 47.00% | ~736 |
+| Catch and Release | 46.00% | ~720 |
+| Peek-a-boo | 45.00% | ~704 |
+| Sucks To Be You | 44.00% | ~689 |
 | Welcome to the Neighborhood | 39.00% | ~610 |
 | Fly Fisher | 36.00% | ~563 |
-| Throw The First Stone | 35.00% | ~547 |
+| Throw The First Stone | 35.00% | ~548 |
 | Enter of Your Own Free Will | 33.00% | ~516 |
 | Heart Attack | 33.00% | ~516 |
-| Skin of Their Teeth | 33.00% | ~516 |
-| Grounded | 24.00% | ~375 |
-| Bad Wiring | 21.00% | ~328 |
+| Skin of Their Teeth | 32.00% | ~501 |
+| Grounded | 24.00% | ~376 |
+| Bad Wiring | 21.00% | ~329 |
 | I Spit On Your Grave | 20.00% | ~313 |
 | Neighborhood Revitalization | 16.00% | ~250 |
 | Radio Silence | 16.00% | ~250 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 920)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,563 (Ranked 149)  
+Progressed: 1,565 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 1,551 | 0 |
 | 2023-05-16 | 1,558 | 0 |
 | 2023-05-17 | 1,563 | 0 |
+| 2023-05-18 | 1,565 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

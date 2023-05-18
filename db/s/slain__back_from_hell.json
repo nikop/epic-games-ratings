@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21067,
+  "EOS_Progressed": 21071,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1038,
+  "EOS_NewPlayers": 1035,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2851,6 +2851,11 @@
       "Time": "2023-05-18T11:06:13.592025+00:00",
       "NumProgressed": 21067,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-18T12:06:41.174948+00:00",
+      "NumProgressed": 21071,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2870,7 +2875,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -2934,7 +2939,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -3093,7 +3098,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21067,
+      "Progressed": 21071,
       "Completed": 16
     }
   ],
@@ -3101,8 +3106,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-18T11:06:13.5920238+00:00",
+  "LastChanged_Achievements": "2023-05-18T12:06:41.1749476+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-18T11:00:12.6523773+00:00",
-  "LastUpdate_Achievements": "2023-05-18T11:06:13.5920882+00:00"
+  "LastUpdate_Ratings": "2023-05-18T12:00:45.3383777+00:00",
+  "LastUpdate_Achievements": "2023-05-18T12:06:41.1749867+00:00"
 }

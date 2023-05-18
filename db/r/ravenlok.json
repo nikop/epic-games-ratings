@@ -1525,9 +1525,9 @@
       "ID": "4",
       "SetID": "d0g98p",
       "Name": "A Prophecy",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 570
     },
     {
       "ID": "40",
@@ -1637,9 +1637,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 411
     },
     {
       "ID": "8",
@@ -1670,8 +1670,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-18T11:05:44.072755+00:00",
+  "LastChanged_Achievements": "2023-05-18T12:06:08.2385396+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-18T10:57:26.0058638+00:00",
-  "LastUpdate_Achievements": "2023-05-18T11:05:44.072841+00:00"
+  "LastUpdate_Ratings": "2023-05-18T11:57:30.5222794+00:00",
+  "LastUpdate_Achievements": "2023-05-18T12:06:08.238591+00:00"
 }

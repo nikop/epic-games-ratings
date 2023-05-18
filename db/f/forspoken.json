@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38068,
+  "EOS_Progressed": 38070,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2015,6 +2015,11 @@
       "Time": "2023-05-18T05:06:10.6228872+00:00",
       "NumProgressed": 38068,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T12:06:34.7426454+00:00",
+      "NumProgressed": 38070,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2186,7 +2191,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -2242,7 +2247,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -2378,7 +2383,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "STAYING_AIR",
@@ -2449,22 +2454,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38068,
+      "Progressed": 38070,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2905,
-      "Completed": 2905
+      "Progressed": 2907,
+      "Completed": 2907
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-18T11:06:07.6863999+00:00",
+  "LastChanged_Achievements": "2023-05-18T12:06:34.7426449+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
-  "LastUpdate_Ratings": "2023-05-18T10:58:35.7306963+00:00",
-  "LastUpdate_Achievements": "2023-05-18T11:06:07.6864578+00:00"
+  "LastUpdate_Ratings": "2023-05-18T11:58:55.0326793+00:00",
+  "LastUpdate_Achievements": "2023-05-18T12:06:34.7427424+00:00"
 }

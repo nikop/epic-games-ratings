@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 13.00% | ~1,151 |
+| Devoured by Darkness | 13.00% | ~1,152 |
 | Burning City | 9.00% | ~797 |
 | A Spark | 9.00% | ~797 |
 | Mythic Choices | 8.00% | ~709 |
@@ -54,8 +54,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 0.60% | ~53 |
 | Playful Mood | 0.60% | ~53 |
 | Dreadful Dragon | 0.50% | ~44 |
-| Masterful Charge | 0.40% | ~35 |
 | Truly Profane Gift | 0.40% | ~35 |
+| Masterful Charge | 0.30% | ~27 |
 | Masterful Dispel | 0.20% | ~18 |
 | Prelate's Nemesis | 0.20% | ~18 |
 | Just Pathetic | 0.20% | ~18 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,857 (Ranked 109)  
+Progressed: 8,858 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 8,826 | 0 |
 | 2023-05-16 | 8,839 | 0 |
 | 2023-05-17 | 8,850 | 0 |
-| 2023-05-18 | 8,857 | 0 |
+| 2023-05-18 | 8,858 | 0 |
 ## Awards
 Max (Character Customization): 1,632  (Ranked 111)  
 Sum: 6,614 (Ranked 108)  
