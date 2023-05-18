@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
-| 3 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 28.57% |
-| 4 | [Overloop](games/o/overloop.md) | 25.00% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.77% |
+| 3 | [Overloop](games/o/overloop.md) | 25.00% |
+| 3 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 25.00% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.88% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
@@ -20,15 +20,15 @@
 | 18 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.93% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
 | 23 | [Scorn](games/s/scorn.md) | 7.02% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
+| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.41% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
-| 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.06% |
+| 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.03% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.49% |
@@ -58,7 +58,7 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.38% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.35% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.22% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.19% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
@@ -72,7 +72,7 @@
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
-| 73 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.47% |
+| 73 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.43% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.39% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
