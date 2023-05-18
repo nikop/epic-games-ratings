@@ -50,9 +50,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Not the Last Sarkorian | 0.70% | ~53 |
 | The Final Threshold | 0.60% | ~53 |
 | Path of the Dragon | 0.60% | ~53 |
+| Path of the Legend | 0.60% | ~53 |
 | Strategic Victory | 0.60% | ~53 |
 | Playful Mood | 0.60% | ~53 |
-| Path of the Legend | 0.50% | ~44 |
 | Dreadful Dragon | 0.50% | ~44 |
 | Masterful Charge | 0.40% | ~35 |
 | Truly Profane Gift | 0.40% | ~35 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 29300,
+  "EOS_Progressed": 29301,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3153,6 +3153,11 @@
       "Time": "2023-05-18T05:01:02.768346+00:00",
       "NumProgressed": 29300,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-18T06:01:55.1786896+00:00",
+      "NumProgressed": 29301,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -3588,22 +3593,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 29300,
+      "Progressed": 29301,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-16T03:00:31.6712899+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:01:02.7683453+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:01:55.1786892+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:33.7723799+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:59:49.9701969+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:01:02.768419+00:00"
+  "LastUpdate_Ratings": "2023-05-18T06:00:24.5617523+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:01:55.1787885+00:00"
 }

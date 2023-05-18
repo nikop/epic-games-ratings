@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -4828,10 +4828,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43298,
       "NumberOfAwardsMax": 5228
+    },
+    {
+      "Time": "2023-05-18T05:57:28.6889039+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43305,
+      "NumberOfAwardsMax": 5228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43298,
+  "NumberOfAwards": 43305,
   "NumberOfAwardsMax": 5228,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -4881,7 +4887,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4873
+      "Count": 4880
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4902,9 +4908,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 38682,
+  "EOS_Progressed": 38691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4848,
+  "EOS_NewPlayers": 4850,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7557,6 +7563,11 @@
       "Time": "2023-05-18T05:06:34.4761505+00:00",
       "NumProgressed": 38682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T06:06:55.5068774+00:00",
+      "NumProgressed": 38691,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -8088,7 +8099,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "achievement_colonial_management",
@@ -8184,7 +8195,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -8400,7 +8411,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "achievement_forever_golden",
@@ -8760,7 +8771,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_italian_ambition",
@@ -8784,7 +8795,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -9064,7 +9075,7 @@
       "Name": "Market Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_marshy_march",
@@ -9504,7 +9515,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -10160,7 +10171,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -10176,7 +10187,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "achievement_trustworthy",
@@ -10232,7 +10243,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3481
+      "UsersEstimate": 3482
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -10399,21 +10410,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 38682,
+      "Progressed": 38691,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 38682,
+      "Progressed": 38691,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-05-17T20:57:27.8044935+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:06:34.4761499+00:00",
+  "LastChanged": "2023-05-18T05:57:28.6889037+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:06:55.5068769+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.1360508+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:57:19.7766212+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:06:34.4898805+00:00"
+  "LastUpdate_Ratings": "2023-05-18T05:57:28.6889048+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:06:55.5081711+00:00"
 }

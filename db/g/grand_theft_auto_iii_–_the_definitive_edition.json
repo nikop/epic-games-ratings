@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4923,
+  "EOS_Progressed": 4924,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1153,6 +1153,11 @@
       "Time": "2023-05-17T23:05:53.116914+00:00",
       "NumProgressed": 4923,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-18T06:06:06.3585119+00:00",
+      "NumProgressed": 4924,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1164,7 +1169,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4086
+      "UsersEstimate": 4087
     },
     {
       "ID": "ACH02",
@@ -1172,7 +1177,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH03",
@@ -1395,7 +1400,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4923,
+      "Progressed": 4924,
       "Completed": 26
     }
   ],
@@ -1403,8 +1408,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:05:51.2694742+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:06:06.3585115+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:51.3816793+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:58:00.7166719+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:05:51.2695013+00:00"
+  "LastUpdate_Ratings": "2023-05-18T05:58:15.6733308+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:06:06.3585695+00:00"
 }

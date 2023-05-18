@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,684 |
-| What should I buy? | 83.00% | ~5,965 |
-| Focus! | 62.00% | ~4,456 |
-| Rescued Elder Ent | 62.00% | ~4,456 |
+| The Legend Begins | 93.00% | ~6,685 |
+| What should I buy? | 83.00% | ~5,966 |
+| Focus! | 62.00% | ~4,457 |
+| Rescued Elder Ent | 62.00% | ~4,457 |
 | The End of the Gold Mane Knights | 46.00% | ~3,306 |
 | Rules of Etiquette | 39.00% | ~2,803 |
 | False Goddess, Disappear | 38.00% | ~2,731 |
 | Quick Movements | 33.00% | ~2,372 |
 | Inventory Management | 33.00% | ~2,372 |
-| The Fall of the Leonia Order | 29.00% | ~2,084 |
-| The Hero Killer | 27.00% | ~1,940 |
+| The Fall of the Leonia Order | 29.00% | ~2,085 |
+| The Hero Killer | 27.00% | ~1,941 |
 | Go Home... | 26.00% | ~1,869 |
 | The Final Battle of the First Hero | 25.00% | ~1,797 |
 | Brain at Full Throttle | 23.00% | ~1,653 |
-| Rookies Welcome | 20.00% | ~1,437 |
+| Rookies Welcome | 20.00% | ~1,438 |
 | Deadly Power | 15.00% | ~1,078 |
 | Castle Restoration Plans | 14.00% | ~1,006 |
-| The Dwarven Chandelier | 12.00% | ~862 |
+| The Dwarven Chandelier | 12.00% | ~863 |
 | Master of Speed | 9.00% | ~647 |
 | The Levitator | 6.00% | ~431 |
 | The God of Battle | 3.00% | ~216 |
 | Too Much of a Talker | 2.00% | ~144 |
 | The Skeleton King | 2.00% | ~144 |
-| Cold-Blooded | 0.80% | ~57 |
+| Cold-Blooded | 0.80% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,187 (Ranked 111)  
+Progressed: 7,188 (Ranked 111)  
 Completed: 11 (0.15%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,10 +55,10 @@ Completed: 11 (0.15%) (Ranked 146)
 | 2023-05-15 | 7,183 | 11 |
 | 2023-05-16 | 7,184 | 11 |
 | 2023-05-17 | 7,186 | 11 |
-| 2023-05-18 | 7,187 | 11 |
+| 2023-05-18 | 7,188 | 11 |
 ## Awards
 Max (Diverse Characters): 111  (Ranked 313)  
-Sum: 746 (Ranked 254)  
+Sum: 747 (Ranked 254)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -66,7 +66,7 @@ Diff (max vs sum): 59
 | This game has Diverse Characters | 111 |
 | This game is Extremely Fun | 106 |
 | This game is Relaxing | 105 |
-| This game is Highly Recommended | 103 |
+| This game is Highly Recommended | 104 |
 | This game has Quickly Understood Controls | 98 |
 | This game has Amazing Storytelling | 87 |
 | This game has Amazing Characters | 78 |
@@ -164,3 +164,4 @@ Diff (max vs sum): 59
 | 2023-05-09 | 4.71 | - | 114 | 858 |
 | 2023-05-11 | 4.71 | - | 109 | 744 |
 | 2023-05-16 | 4.71 | - | 111 | 746 |
+| 2023-05-18 | 4.71 | - | 111 | 747 |

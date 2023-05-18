@@ -9,10 +9,10 @@
 | A path of no return | 117.00% | ~7 |
 | Baited | 83.00% | ~5 |
 | Splash! | 83.00% | ~5 |
+| Hard Rock | 83.00% | ~5 |
 | "Swoosh" | 67.00% | ~4 |
 | The light at the end of the tunnel | 67.00% | ~4 |
 | Soft skin | 67.00% | ~4 |
-| Hard Rock | 67.00% | ~4 |
 | Sensitive soul | 67.00% | ~4 |
 | Squid game | 33.00% | ~2 |
 | Masochistic | 33.00% | ~2 |

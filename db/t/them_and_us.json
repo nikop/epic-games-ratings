@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.11,
+  "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -333,6 +333,11 @@
       "Time": "2023-05-18T05:02:18.2728888+00:00",
       "NumProgressed": 90,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T06:02:36.4943886+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -358,7 +363,7 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 60
     },
@@ -438,7 +443,7 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 61
     },
@@ -496,7 +501,7 @@
       "Name": "Open Sesame",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ETUA_OutRage",
@@ -663,7 +668,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 1
     }
   ],
@@ -671,8 +676,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:02:18.2728882+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:02:36.4943881+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:57:13.1384103+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:02:18.2729238+00:00"
+  "LastUpdate_Ratings": "2023-05-18T05:57:20.9650659+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:02:36.4944232+00:00"
 }

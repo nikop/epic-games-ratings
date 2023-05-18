@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach_TalkToLostSoul",
@@ -336,8 +336,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:05:50.7391443+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:06:05.7504988+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:58:01.4531416+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:05:50.7391681+00:00"
+  "LastUpdate_Ratings": "2023-05-18T05:58:16.4613331+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:06:05.7505264+00:00"
 }

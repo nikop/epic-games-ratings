@@ -2304,9 +2304,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28960,
+  "EOS_Progressed": 28973,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3336,
+  "EOS_NewPlayers": 3337,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4954,6 +4954,11 @@
       "Time": "2023-05-18T05:05:52.7335153+00:00",
       "NumProgressed": 28960,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T06:06:08.2802624+00:00",
+      "NumProgressed": 28973,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5051,9 +5056,9 @@
       "ID": "complete_final_mission",
       "SetID": "3ib2d0i",
       "Name": "Showdown",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "complete_first_side_hustle",
@@ -5171,9 +5176,9 @@
       "ID": "first_building_placed",
       "SetID": "3ib2d0i",
       "Name": "Landlord",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "fully_complete_a_building",
@@ -5203,9 +5208,9 @@
       "ID": "get_betrayed",
       "SetID": "3ib2d0i",
       "Name": "Et tu?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "get_fired",
@@ -5347,9 +5352,9 @@
       "ID": "use_profile_app",
       "SetID": "3ib2d0i",
       "Name": "To The Nines",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "whole_map_purple",
@@ -5371,7 +5376,7 @@
       "ID": "bfhj_complete_mission_2_collectible",
       "SetID": "5gi7jl2",
       "Name": "Face Off",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -5388,22 +5393,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28960,
+      "Progressed": 28973,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 597,
-      "Completed": 409
+      "Progressed": 610,
+      "Completed": 413
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-17T21:00:45.7395848+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:05:52.7335149+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:06:08.280262+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:59:47.9982705+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:05:52.7335776+00:00"
+  "LastUpdate_Ratings": "2023-05-18T06:00:22.2343061+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:06:08.2803313+00:00"
 }

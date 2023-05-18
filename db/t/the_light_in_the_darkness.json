@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1303,
+  "EOS_Progressed": 1304,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 7.98,
   "EosHistory": [
@@ -1243,6 +1243,11 @@
       "Time": "2023-05-18T02:05:37.7359594+00:00",
       "NumProgressed": 1303,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-05-18T06:06:30.088751+00:00",
+      "NumProgressed": 1304,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 12,
@@ -1254,7 +1259,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Bernard",
@@ -1294,7 +1299,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Jude",
@@ -1349,7 +1354,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1303,
+      "Progressed": 1304,
       "Completed": 104
     }
   ],
@@ -1357,8 +1362,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:06:11.7898534+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:06:30.0887505+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:59:47.196734+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:06:11.7898698+00:00"
+  "LastUpdate_Ratings": "2023-05-18T06:00:21.2521153+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:06:30.0887719+00:00"
 }

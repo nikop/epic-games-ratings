@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -455,6 +455,11 @@
       "Time": "2023-05-17T21:06:31.8000638+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-18T06:06:15.0040357+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -634,7 +639,7 @@
       "Name": "How Romantic!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_maimedHero",
@@ -642,7 +647,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_mythwalker",
@@ -738,7 +743,7 @@
       "Name": "Daybreak",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "completedStory_vultureLord",
@@ -913,15 +918,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:05:58.6560193+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:06:15.0040353+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.1630654+00:00",
-  "LastUpdate_Ratings": "2023-05-18T05:00:50.0817592+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:05:58.6560678+00:00"
+  "LastUpdate_Ratings": "2023-05-18T06:01:37.7265788+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:06:15.0041232+00:00"
 }

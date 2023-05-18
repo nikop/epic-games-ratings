@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -678,10 +678,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 746,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-05-18T05:59:32.1022945+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 747,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 746,
+  "NumberOfAwards": 747,
   "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -707,7 +713,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 103
+      "Count": 104
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -752,9 +758,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7187,
+  "EOS_Progressed": 7188,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -937,6 +943,11 @@
       "Time": "2023-05-18T03:05:13.2032317+00:00",
       "NumProgressed": 7187,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-18T06:06:00.3032489+00:00",
+      "NumProgressed": 7188,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -964,7 +975,7 @@
       "Name": "Cold-Blooded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Concentration",
@@ -972,7 +983,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "DemonCastleRestoration",
@@ -988,7 +999,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "FakeGoddessGone",
@@ -1036,7 +1047,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "LeoniasFall",
@@ -1044,7 +1055,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "LeoniasFall_2",
@@ -1068,7 +1079,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "SavedElderEnt",
@@ -1076,7 +1087,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1108,7 +1119,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6684
+      "UsersEstimate": 6685
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1132,22 +1143,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7187,
+      "Progressed": 7188,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-05-16T21:58:44.8995125+00:00",
-  "LastChanged_Achievements": "2023-05-18T05:05:46.0700966+00:00",
+  "LastChanged": "2023-05-18T05:59:32.1022943+00:00",
+  "LastChanged_Achievements": "2023-05-18T06:06:00.3032485+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:50.5220974+00:00",
-  "LastUpdate_Ratings": "2023-05-18T04:59:04.439101+00:00",
-  "LastUpdate_Achievements": "2023-05-18T05:05:46.0701164+00:00"
+  "LastUpdate_Ratings": "2023-05-18T05:59:32.1022961+00:00",
+  "LastUpdate_Achievements": "2023-05-18T06:06:00.3032656+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,388 |
+| You Never Forget Your First... | 9.00% | ~49,389 |
 | Into the Unknown | 8.00% | ~43,901 |
 | First Shot | 8.00% | ~43,901 |
-| Herzlich Wilkommen! | 7.00% | ~38,413 |
-| Sancho Panza | 7.00% | ~38,413 |
-| Good Night & Good Luck | 7.00% | ~38,413 |
-| Under Pressure | 6.00% | ~32,925 |
-| Flag Burning | 6.00% | ~32,925 |
-| Oh, So This Is How It Works! | 6.00% | ~32,925 |
-| Night Hunter | 6.00% | ~32,925 |
+| Herzlich Wilkommen! | 7.00% | ~38,414 |
+| Sancho Panza | 7.00% | ~38,414 |
+| Good Night & Good Luck | 7.00% | ~38,414 |
+| Under Pressure | 6.00% | ~32,926 |
+| Flag Burning | 6.00% | ~32,926 |
+| Oh, So This Is How It Works! | 6.00% | ~32,926 |
+| Night Hunter | 6.00% | ~32,926 |
 | On the Trail of the Enemy | 5.00% | ~27,438 |
 | Light in the Darkness | 5.00% | ~27,438 |
 | Get Outta My House! | 5.00% | ~27,438 |
 | It Wasn't That Hard, Was It? | 5.00% | ~27,438 |
 | Being All Social | 5.00% | ~27,438 |
-| Debris and Ashes | 4.00% | ~21,950 |
-| We Will Be Heard! | 4.00% | ~21,950 |
-| Known Associate | 4.00% | ~21,950 |
-| Brush with Death | 4.00% | ~21,950 |
-| Going Down | 4.00% | ~21,950 |
-| Family First | 4.00% | ~21,950 |
-| Your World, Your Rules | 4.00% | ~21,950 |
-| Tunnel Entrance | 4.00% | ~21,950 |
-| After the Fall | 4.00% | ~21,950 |
-| Can't Touch This! | 4.00% | ~21,950 |
-| Death From Afar | 4.00% | ~21,950 |
+| Debris and Ashes | 4.00% | ~21,951 |
+| We Will Be Heard! | 4.00% | ~21,951 |
+| Known Associate | 4.00% | ~21,951 |
+| Brush with Death | 4.00% | ~21,951 |
+| Going Down | 4.00% | ~21,951 |
+| Family First | 4.00% | ~21,951 |
+| Your World, Your Rules | 4.00% | ~21,951 |
+| Tunnel Entrance | 4.00% | ~21,951 |
+| After the Fall | 4.00% | ~21,951 |
+| Can't Touch This! | 4.00% | ~21,951 |
+| Death From Afar | 4.00% | ~21,951 |
 | Terminal Headache | 3.00% | ~16,463 |
 | Slowpoke! | 3.00% | ~16,463 |
 | Tickets, Please! | 2.00% | ~10,975 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~194 |
 | Connoisseur | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 548,757 (Ranked 22)  
+Progressed: 548,766 (Ranked 22)  
 Completed: 48 (0.01%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 48 (0.01%) (Ranked 191)
 | 2023-05-15 | 547,713 | 47 |
 | 2023-05-16 | 548,161 | 47 |
 | 2023-05-17 | 548,686 | 48 |
-| 2023-05-18 | 548,757 | 48 |
+| 2023-05-18 | 548,766 | 48 |
 ## Awards
 Max (Character Customization): 7,095  (Ranked 44)  
 Sum: 16,476 (Ranked 58)  
