@@ -19,11 +19,11 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.94% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.93% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
-| 23 | [Scorn](games/s/scorn.md) | 7.03% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
+| 23 | [Scorn](games/s/scorn.md) | 7.02% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 25 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.58% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -44,18 +44,18 @@
 | 41 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 3.33% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.18% |
 | 44 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
-| 45 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.08% |
-| 46 | [HordeCore](games/h/hordecore.md) | 3.03% |
-| 47 | [Lamentum](games/l/lamentum.md) | 2.99% |
-| 47 | [ZZT!](games/z/zzt!.md) | 2.99% |
-| 49 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
-| 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 52 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 53 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.82% |
-| 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 55 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
-| 55 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
+| 45 | [HordeCore](games/h/hordecore.md) | 3.03% |
+| 46 | [Lamentum](games/l/lamentum.md) | 2.99% |
+| 46 | [ZZT!](games/z/zzt!.md) | 2.99% |
+| 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
+| 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
+| 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
+| 52 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.82% |
+| 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 54 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
+| 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
+| 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.60% |
 | 57 | [JARS](games/j/jars.md) | 2.56% |
 | 58 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.40% |
@@ -116,8 +116,8 @@
 | 114 | [Tchia](games/t/tchia.md) | 0.38% |
 | 115 | [Godlike Burger](games/g/godlike_burger.md) | 0.37% |
 | 115 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 117 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.36% |
-| 118 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
+| 117 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.35% |
+| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 119 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 119 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
 | 119 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
@@ -127,8 +127,8 @@
 | 124 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 124 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
-| 128 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
-| 129 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
+| 128 | [Aegis Descent](games/a/aegis_descent.md) | 0.28% |
+| 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 130 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.27% |
 | 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 130 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
