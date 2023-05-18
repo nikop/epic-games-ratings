@@ -30,10 +30,10 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 7.00% | ~3,235 |
 | Collateral Carnage | 7.00% | ~3,235 |
 | Come One, Come All | 7.00% | ~3,235 |
-| Gatekeeper | 6.00% | ~2,772 |
-| The Lady of the Light | 6.00% | ~2,772 |
-| Two For the Price of One | 6.00% | ~2,772 |
-| Energized! | 6.00% | ~2,772 |
+| Gatekeeper | 6.00% | ~2,773 |
+| The Lady of the Light | 6.00% | ~2,773 |
+| Two For the Price of One | 6.00% | ~2,773 |
+| Energized! | 6.00% | ~2,773 |
 | A Friend Indeed | 6.00% | ~581 |
 | Tornado Wrangler | 5.00% | ~2,310 |
 | What Light Through Yonder Window | 5.00% | ~2,310 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,208 (Ranked 75)  
+Progressed: 46,209 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-15 | 46,186 | 44 |
 | 2023-05-16 | 46,196 | 44 |
 | 2023-05-17 | 46,208 | 44 |
+| 2023-05-18 | 46,209 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

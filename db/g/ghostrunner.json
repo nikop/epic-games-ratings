@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -858,7 +858,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5029,
+  "EOS_Progressed": 5030,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 3,
@@ -3343,6 +3343,11 @@
       "Time": "2023-05-17T23:06:01.7364917+00:00",
       "NumProgressed": 5029,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-18T00:05:24.3013826+00:00",
+      "NumProgressed": 5030,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 45,
@@ -3362,7 +3367,7 @@
       "Name": "About Adam",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ArtificialSelection",
@@ -3378,7 +3383,7 @@
       "Name": "Back to hell",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "CantRunCantHide",
@@ -3562,7 +3567,7 @@
       "Name": "Push it to the limit",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "RIsForRunning",
@@ -3626,7 +3631,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "SwordToAGunfight",
@@ -3634,7 +3639,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "TripleA",
@@ -3650,7 +3655,7 @@
       "Name": "Unstoppable force",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -3690,7 +3695,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "WhereHeStood",
@@ -3698,7 +3703,7 @@
       "Name": "Where He Stood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "WhyNotBoth",
@@ -3706,28 +3711,28 @@
       "Name": "Why not both",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 5029,
+      "Progressed": 5030,
       "Completed": 16
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 5029,
+      "Progressed": 5030,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-05-13T20:57:44.8868329+00:00",
-  "LastChanged_Achievements": "2023-05-17T23:06:01.7364912+00:00",
+  "LastChanged_Achievements": "2023-05-18T00:05:24.3013822+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.0761162+00:00",
-  "LastUpdate_Ratings": "2023-05-17T22:58:17.2915012+00:00",
-  "LastUpdate_Achievements": "2023-05-17T23:06:01.7365854+00:00"
+  "LastUpdate_Ratings": "2023-05-17T23:57:46.125194+00:00",
+  "LastUpdate_Achievements": "2023-05-18T00:05:24.3014286+00:00"
 }

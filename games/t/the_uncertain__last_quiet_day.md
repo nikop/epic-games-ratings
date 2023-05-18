@@ -23,9 +23,9 @@
 | Uncertain | 20.00% | ~88 |
 | Goody | 18.00% | ~79 |
 | Ace | 17.00% | ~74 |
+| Concrete painting | 17.00% | ~74 |
 | Hipster | 17.00% | ~74 |
 | Please oh pleeease! | 17.00% | ~74 |
-| Concrete painting | 16.00% | ~70 |
 | Found it! | 16.00% | ~70 |
 | Not what it seems | 16.00% | ~70 |
 | That's much better! | 16.00% | ~70 |

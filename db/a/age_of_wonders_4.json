@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2660,
+  "EOS_Progressed": 2662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1064,
+  "EOS_NewPlayers": 1056,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1074,6 +1074,11 @@
       "Time": "2023-05-17T23:02:37.032067+00:00",
       "NumProgressed": 2660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T00:02:20.1007909+00:00",
+      "NumProgressed": 2662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1085,7 +1090,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "10",
@@ -1101,7 +1106,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "12",
@@ -1125,7 +1130,7 @@
       "Name": "Full Ascension",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "15",
@@ -1133,7 +1138,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "16",
@@ -1157,7 +1162,7 @@
       "Name": "Arch Mage",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "19",
@@ -1189,7 +1194,7 @@
       "Name": "Eternal Lord",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "22",
@@ -1197,7 +1202,7 @@
       "Name": "Realm Estate",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2130
     },
     {
       "ID": "23",
@@ -1205,7 +1210,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "24",
@@ -1213,7 +1218,7 @@
       "Name": "Secret Technique",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2130
     },
     {
       "ID": "25",
@@ -1221,7 +1226,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2050
     },
     {
       "ID": "26",
@@ -1229,7 +1234,7 @@
       "Name": "Bone Peddler",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "27",
@@ -1237,7 +1242,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "28",
@@ -1245,7 +1250,7 @@
       "Name": "From Friends to Family",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1917
     },
     {
       "ID": "29",
@@ -1253,7 +1258,7 @@
       "Name": "Stronger Together",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "3",
@@ -1261,7 +1266,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "30",
@@ -1269,7 +1274,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "31",
@@ -1277,7 +1282,7 @@
       "Name": "Magical Synergy",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "32",
@@ -1285,7 +1290,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "33",
@@ -1293,7 +1298,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "34",
@@ -1317,7 +1322,7 @@
       "Name": "Fiery Friend",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "37",
@@ -1325,7 +1330,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "38",
@@ -1341,7 +1346,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "4",
@@ -1357,7 +1362,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "41",
@@ -1436,13 +1441,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 2660,
-      "Completed": 2660
+      "Progressed": 2662,
+      "Completed": 2662
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 2660,
+      "Progressed": 2662,
       "Completed": 0
     }
   ],
@@ -1450,8 +1455,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-15T19:58:41.4280533+00:00",
-  "LastChanged_Achievements": "2023-05-17T23:02:37.0320665+00:00",
+  "LastChanged_Achievements": "2023-05-18T00:02:20.1007905+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:18.5454373+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:00:04.3020592+00:00",
-  "LastUpdate_Achievements": "2023-05-17T23:02:37.0321137+00:00"
+  "LastUpdate_Ratings": "2023-05-17T23:59:17.259792+00:00",
+  "LastUpdate_Achievements": "2023-05-18T00:02:20.1008317+00:00"
 }

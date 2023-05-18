@@ -56,8 +56,8 @@ Rating: 3.64 (Ranked 917)
 | Blueprint Upgrades | 0.90% | ~10 |
 | Crystal Mining | 0.90% | ~10 |
 | Four Leaf Clover | 0.90% | ~10 |
+| Sailor | 0.80% | ~8 |
 | Legendary | 0.70% | ~7 |
-| Sailor | 0.70% | ~7 |
 | Transmute | 0.70% | ~7 |
 | Tree of Life | 0.70% | ~7 |
 | Ebony Jungle Liberator | 0.60% | ~6 |

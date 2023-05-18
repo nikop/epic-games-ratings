@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9575,
+  "EOS_Progressed": 9576,
   "EOS_Completed": 211,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.2,
   "EosHistory": [
@@ -2858,6 +2858,11 @@
       "Time": "2023-05-17T23:06:18.8039382+00:00",
       "NumProgressed": 9575,
       "NumCompleted": 211
+    },
+    {
+      "Time": "2023-05-18T00:05:41.052945+00:00",
+      "NumProgressed": 9576,
+      "NumCompleted": 211
     }
   ],
   "TotalAchievements": 20,
@@ -2877,7 +2882,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "EAST_FINISHED",
@@ -2957,7 +2962,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -2989,7 +2994,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7278
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -3028,15 +3033,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9575,
+      "Progressed": 9576,
       "Completed": 211
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-17T23:06:18.8039375+00:00",
+  "LastChanged_Achievements": "2023-05-18T00:05:41.0529445+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.8345922+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:01:02.6651166+00:00",
-  "LastUpdate_Achievements": "2023-05-17T23:06:18.8039663+00:00"
+  "LastUpdate_Ratings": "2023-05-18T00:00:08.6223662+00:00",
+  "LastUpdate_Achievements": "2023-05-18T00:05:41.0529738+00:00"
 }

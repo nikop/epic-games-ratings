@@ -13,6 +13,7 @@ Rating: 4.40 (Ranked 669)
 | Confirming Suspicions | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
 | Resourceful | 0.10% | ~1 |
+| As Quiet as a Mouse | 0.10% | ~1 |
 | It's Starting to Crack | 0.10% | ~1 |
 | Change the Channel | 0.10% | ~1 |
 | Last Resort | 0.10% | ~1 |
@@ -42,7 +43,6 @@ Rating: 4.40 (Ranked 669)
 | Explosive Efficiency | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
 | Der Geist | 0.00% | ~0 |
-| As Quiet as a Mouse | 0.00% | ~0 |
 | The Kraken Wakes | 0.00% | ~0 |
 | Close Quarters | 0.00% | ~0 |
 | Snake in the Grass | 0.00% | ~0 |

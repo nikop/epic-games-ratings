@@ -2,12 +2,12 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 381,
+  "Ranking_Rating": 380,
   "Ranking_Popularity": 305,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -968,9 +968,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 2643,
+  "EOS_Progressed": 2644,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1018,6 +1018,11 @@
       "Time": "2023-05-17T21:06:50.6737939+00:00",
       "NumProgressed": 2643,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-18T00:05:37.6488541+00:00",
+      "NumProgressed": 2644,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 31,
@@ -1029,7 +1034,7 @@
       "Name": "Get A Room",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -1061,7 +1066,7 @@
       "Name": "Green Thumb",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -1069,7 +1074,7 @@
       "Name": "Having A Field Day",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -1085,7 +1090,7 @@
       "Name": "A Party Now",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "HUNT_DEER_20",
@@ -1149,7 +1154,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -1229,7 +1234,7 @@
       "Name": "The First Week",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -1237,7 +1242,7 @@
       "Name": "Novice Researcher",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -1269,22 +1274,22 @@
       "Name": "Studious Researcher",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 2643,
+      "Progressed": 2644,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-14T11:59:25.7076829+00:00",
-  "LastChanged_Achievements": "2023-05-17T23:06:15.2971669+00:00",
+  "LastChanged_Achievements": "2023-05-18T00:05:37.6488536+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:42.6184247+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:00:34.8449261+00:00",
-  "LastUpdate_Achievements": "2023-05-17T23:06:15.297196+00:00"
+  "LastUpdate_Ratings": "2023-05-17T23:59:47.9117825+00:00",
+  "LastUpdate_Achievements": "2023-05-18T00:05:37.6488757+00:00"
 }

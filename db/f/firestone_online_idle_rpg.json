@@ -64,7 +64,7 @@
   "Tags": [],
   "EOS_Progressed": 1057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2172,9 +2172,9 @@
       "ID": "sailor",
       "SetID": "3nl4bcg",
       "Name": "Sailor",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "scientist",
@@ -2365,8 +2365,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-17T23:06:05.1584819+00:00",
+  "LastChanged_Achievements": "2023-05-18T00:05:27.768773+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-17T22:58:20.0233973+00:00",
-  "LastUpdate_Achievements": "2023-05-17T23:06:05.1585702+00:00"
+  "LastUpdate_Ratings": "2023-05-17T23:57:48.4140441+00:00",
+  "LastUpdate_Achievements": "2023-05-18T00:05:27.7688576+00:00"
 }
